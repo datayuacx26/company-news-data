@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "10x-genomics-inc-class-a-common-stock",
+    "name": "10x Genomics Inc."
+  },
+  "record_count": 2,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/63/10x-genomics-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2502,
+        "sha256": "sha256:4f97188607f851a88a1df5f5ee0d81cf58c87fb30eb5407d5578a1f4b02f19fa",
+        "newest_at": "2026-08-05T03:48:27.623827+00:00",
+        "oldest_at": "2026-07-28T21:21:02.928028+00:00"
+      }
+    ]
+  }
+}

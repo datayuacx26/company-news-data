@@ -1,0 +1,74 @@
+---
+schema_version: "1.0.0"
+document_id: "c2ac45be5361249ce735aea52e4729608fed142f6ae717c4c84d7d1654418664"
+company_key: "cardinal-health-inc-common-stock"
+company: "Cardinal Health Inc."
+source_id: "cardinal-health-inc-common-stock-rss-9082706aa527"
+canonical_url: "https://newsroom.cardinalhealth.com/2026-03-23-Cardinal-Health-Appoints-Patricia-A-Hemingway-Hall-as-Board-Chair"
+published_at: "2026-03-23T10:45:00+00:00"
+first_seen_at: "2026-07-20T03:32:27.661122+00:00"
+fetched_at: "2026-07-28T22:00:18.082649+00:00"
+content_hash: "sha256:13a2ec75e75548e4cc71ba65bd3948a607b82c025ea4cc406cd25cf741d5aea0"
+---
+
+# Cardinal Health Appoints Patricia A. Hemingway Hall as Board Chair
+
+DUBLIN, Ohio
+
+
+, March 23, 2026
+
+
+/[PRNewswire](http://www.prnewswire.com/) / -- Cardinal Health (NYSE: CAH) today announced that its Board of Directors has appointed Patricia A. Hemingway Hall
+
+
+to succeed Gregory B. Kenny
+
+
+as Chair of the Board following Mr. Kenny's retirement, effective immediately.
+
+
+Mr. Kenny has served on the Board since 2007 and as Chairman since 2018. During his tenure on the Board, Mr. Kenny supported the Company through periods of significant transformation, including strategic portfolio evolution and operational improvement initiatives.
+
+
+"On behalf of the Board and our management team, we are deeply grateful to Greg for his leadership and lasting contributions to the Company," said Jason Hollar
+
+
+, Chief Executive Officer of Cardinal Health. "We look forward to Pat's continuation of Greg's legacy as a steady, principled leader as we execute our strategic priorities with a focus on strong governance and long-term value creation."
+
+
+Ms. Hemingway Hall has served on the Cardinal Health Board since 2013, including as Chair of the Governance and Sustainability Committee for nearly seven years. In addition to her strong institutional knowledge of the Company's business, governance framework and strategic priorities, Ms. Hemingway Hall brings deep healthcare leadership experience as the former President and Chief Executive Officer of Health Care Service Corporation, the nation's largest mutual health insurer.
+
+
+The Company will release third quarter fiscal 2026 earnings on April 30
+
+
+and remains confident in its outlook for fiscal 2026.
+
+
+**About Cardinal Health** Cardinal Health is a distributor of pharmaceuticals and specialty products; a global manufacturer and distributor of medical and laboratory products; a supplier of home-health and direct-to-patient products and services; an operator of nuclear pharmacies and manufacturing facilities; and a provider of performance and data solutions. Our company's customer-centric focus drives continuous improvement and leads to innovative solutions that improve people's lives every day. Learn more about Cardinal Health at
+
+
+[cardinalhealth.com](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4646861-1&h=4186408603&u=https%3A%2F%2Fwww.cardinalhealth.com%2F&a=cardinalhealth.com) and in our
+
+
+[Newsroom](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4646861-1&h=3312999408&u=https%3A%2F%2Fnewsroom.cardinalhealth.com%2F&a=Newsroom) .
+
+
+**Contacts** Media: Erich Timmerman
+
+
+,Erich.Timmerman@cardinalhealth.com and 614.757.8231
+Investors: Matt Sims
+
+
+,Matt.Sims@cardinalhealth.com and 614.553.3661
+
+
+**Cautions Concerning Forward-Looking Statements** This release contains forward-looking statements addressing expectations, prospects, estimates and other matters that are dependent upon future events or developments. These statements may be identified by words such as "expect," "anticipate," "intend," "plan," "believe," "will," "should," "could," "would," "project," "continue," "likely," and similar expressions, and include statements reflecting future results or guidance, statements of outlook and various accruals and estimates. These matters are subject to risks and uncertainties that could cause actual results to differ materially from those projected, anticipated or implied. These risks and uncertainties include our ability to navigate uncertainties arising from proposed or final regulatory changes, including those related to pharmaceutical pricing and tariffs; manage uncertainties associated with the pricing of branded pharmaceuticals, the risk that we may fail to achieve our strategic objectives, including the continued execution of the GMPD Improvement Plan initiatives ; risks associated with recent acquisitions, including as a result of entry into new lines of businesses and risks associated with the integration of such businesses; competitive pressures in Cardinal Health's various lines of business, including the risk that customers may reduce purchases made under their contracts with us or terminate or not renew their contracts, whether due to price increases or otherwise; risks associated with litigation matters, including a Department of Justice investigations focused on potential violations of the Anti-Kickback Statute and False Claims Act; the risk that events outside of our control, such as weather or geopolitical events, may impact demand for our products or may cause supply shortages that impact our cost and ability to fulfill customer demand; and the performance of our generics program, including the amount or rate of generic deflation and our ability to offset generic deflation and maintain other financial and strategic benefits through our generic sourcing venture or other components of our generics programs. Cardinal Health is subject to additional risks and uncertainties described in Cardinal Health's Form 10-K, Form 10-Q and Form 8K reports and exhibits to those reports. This release reflects management's views as of March 23, 2026
+
+
+. Except to the extent required by applicable law, Cardinal Health undertakes no obligation to update or revise any forward-looking statement. Forward-looking statements are aspirational and not guarantees or promises that goals, targets or projections will be met, and no assurance can be given that any commitment, expectation, initiative or plan in this report can or will be achieved or completed. Cardinal Health provides definitions and reconciliations of non-GAAP financial measures and their most directly comparable GAAP financial measures at ir.cardinalhealth.com.
+
+
+SOURCE Cardinal Health

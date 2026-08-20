@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f7e870e817af3174782f1c318e4937033608326f3bfcfd1c802d86a3e7ee411",
+  "company": {
+    "key": "yc-miggos",
+    "name": "Miggos"
+  },
+  "source": {
+    "id": "yc-miggos-news-import-47b875555782",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.miggo.io/post/the-backup-that-backfired-how-one-whitelisted-objref-hands-any-veeam-domain-user-system-cve-2026-44963",
+    "canonical": "https://www.miggo.io/post/the-backup-that-backfired-how-one-whitelisted-objref-hands-any-veeam-domain-user-system-cve-2026-44963"
+  },
+  "title": "The Backup that Backfired: How One Whitelisted ObjRef Hands Any Veeam Domain User SYSTEM (CVE-2026-44963)",
+  "summary": "CVE-2026-44963 in Veeam Backup & Replication enables SYSTEM-level code execution through a vulnerable .NET Remoting service.",
+  "published_at": "2026-08-19T14:16:30.356+00:00",
+  "first_seen_at": "2026-08-19T17:35:06.350420+00:00",
+  "fetched_at": "2026-08-19T17:35:07.126483+00:00",
+  "last_updated_at": "2026-08-19T17:35:07.281398+00:00",
+  "paths": {
+    "article": "articles/v1/74/yc-miggos/2026/08/8f/8f7e870e817af3174782f1c318e4937033608326f3bfcfd1c802d86a3e7ee411/article.md",
+    "record": "articles/v1/74/yc-miggos/2026/08/8f/8f7e870e817af3174782f1c318e4937033608326f3bfcfd1c802d86a3e7ee411/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16474,
+    "sha256": "sha256:7e4cb1f158c4d71e8e079321554b83c8544954e66982a7bc3c367593a61f1959",
+    "normalized_content_hash": "sha256:ae5f63f18e4f3b223eb0d578b03b96b2c4dc103e1f53760bea982239d384e9c9"
+  },
+  "provenance": {
+    "source_item_id": "14976cd6-00f6-42bd-a186-7fd6aadbf797",
+    "external_id": "https://www.miggo.io/post/the-backup-that-backfired-how-one-whitelisted-objref-hands-any-veeam-domain-user-system-cve-2026-44963"
+  }
+}

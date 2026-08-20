@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "980dc44b978fb2f7795151b92ad41aa771f0e12beb8c5762cdc94e3531473d2b",
+  "company": {
+    "key": "unity-software-inc-common-stock",
+    "name": "Unity Software Inc."
+  },
+  "source": {
+    "id": "unity-software-inc-common-stock-rss-726793b11211",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unity.com/blog/unity-ai-mcp-how-to-get-started",
+    "canonical": "https://unity.com/blog/unity-ai-mcp-how-to-get-started"
+  },
+  "title": "Unity's AI tools in beta: How to get started with MCP",
+  "summary": "Unity MCP Server implements the Model Context Protocol to give IDE-based AI agents (Claude Code, Cursor, Windsurf, VS Code Copilot) live access to a running Unity project — including scene hierarchy, GameObjects, component values, console output, and build settings. Setup requires enabling the Unity bridge in Project Settings, configuring your client via the Integrations panel or a manual relay path, and approving the connection.",
+  "published_at": "2026-05-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:37.442468+00:00",
+  "fetched_at": "2026-07-28T22:08:49.880649+00:00",
+  "last_updated_at": "2026-08-20T03:28:57.162903+00:00",
+  "paths": {
+    "article": "articles/v1/53/unity-software-inc-common-stock/2026/05/98/980dc44b978fb2f7795151b92ad41aa771f0e12beb8c5762cdc94e3531473d2b/article.md",
+    "record": "articles/v1/53/unity-software-inc-common-stock/2026/05/98/980dc44b978fb2f7795151b92ad41aa771f0e12beb8c5762cdc94e3531473d2b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9709,
+    "sha256": "sha256:f1603e64c6fed29087c0546fc8ec71f95525636620aa722851ae53e2d96971ce",
+    "normalized_content_hash": "sha256:0e422adb0a6f77d49b145d33cfaee8e3edbb4353a4a8f9c4c1a58b97884c75b8"
+  },
+  "provenance": {
+    "source_item_id": "b24ff04e-106e-409c-96f7-8d62d6c44348",
+    "external_id": "https://unity.com/blog/unity-ai-mcp-how-to-get-started"
+  }
+}

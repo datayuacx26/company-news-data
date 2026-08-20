@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8651aa8b63977d36573599726da170774b9fb28153cb1c704c79a1e18bfd423",
+  "company": {
+    "key": "yc-corgea",
+    "name": "Corgea"
+  },
+  "source": {
+    "id": "yc-corgea-news-import-efe6052ddd93",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corgea.com/blog/introducing-corgea-skill-scanning",
+    "canonical": "https://corgea.com/blog/introducing-corgea-skill-scanning"
+  },
+  "title": "Introducing Corgea Skill Scanning",
+  "summary": "Corgea scans custom agent skills before developers can install them, blocking unsafe SKILL.md instructions and distributing only approved versions through the governed Skills Registry.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:05:55.735939+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T02:05:33.847783+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-corgea/2026/06/e8/e8651aa8b63977d36573599726da170774b9fb28153cb1c704c79a1e18bfd423/article.md",
+    "record": "articles/v1/45/yc-corgea/2026/06/e8/e8651aa8b63977d36573599726da170774b9fb28153cb1c704c79a1e18bfd423/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5761,
+    "sha256": "sha256:288cd293b8f9576448d387aa9b73039717a5e2699ed9a0ca21beeb81ca0d3a51",
+    "normalized_content_hash": "sha256:947bdb3d420a1912dc8982d36f34a03655e2b3103aecb8e2de7b2d106dd74a45"
+  },
+  "provenance": {
+    "source_item_id": "8ea79df1-0ecb-4b12-9f23-e05892fe0f96",
+    "external_id": "https://corgea.com/blog/introducing-corgea-skill-scanning"
+  }
+}

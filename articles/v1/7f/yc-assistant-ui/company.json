@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-assistant-ui",
+    "name": "assistant-ui"
+  },
+  "record_count": 3,
+  "first_published_at": "2024-07-29T12:00:00+00:00",
+  "last_published_at": "2026-03-09T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7f/yc-assistant-ui/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 2919,
+        "sha256": "sha256:015d3f2bbb13fab7a807c66bfb2bb1e6082832c11d725409259b7d1fb0f44a35",
+        "newest_at": "2026-03-09T12:00:00+00:00",
+        "oldest_at": "2024-07-29T12:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a29f68e62ffcbef4ef7a85fc9d4f02343c5d44eb6c3f7490717d42efb0d0869d",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/we-need-a-new-approach-to-testing-microservices/",
+    "canonical": "https://www.signadot.com/blog/we-need-a-new-approach-to-testing-microservices/"
+  },
+  "title": "We Need a New Approach to Testing Microservices",
+  "summary": "This article highlights how centralized testing is hindering developer velocity in microservices architecture. While development is decentralized, testing remains centralized, causing delays. The proliferation of environments worsens the issue, leading to testing cycle delays and hindering the release process. The scenario illustrates these challenges and emphasizes the need for decentralized testing to enable smoother deployment experiences.",
+  "published_at": "2024-03-16T23:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:26:07.231499+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/03/a2/a29f68e62ffcbef4ef7a85fc9d4f02343c5d44eb6c3f7490717d42efb0d0869d/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/03/a2/a29f68e62ffcbef4ef7a85fc9d4f02343c5d44eb6c3f7490717d42efb0d0869d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13737,
+    "sha256": "sha256:a7f6133efbd2daae6a5487903a135572589b05d8141da08fc7cb7760ce567ed0",
+    "normalized_content_hash": "sha256:bdbd6102f93aa65991329ea0e1d7d9e1dcf01bd96fb6303b3f8b3143cdac7d7d"
+  },
+  "provenance": {
+    "source_item_id": "1d027777-1945-4bb2-9c03-5d73116e03fe",
+    "external_id": "https://www.signadot.com/blog/we-need-a-new-approach-to-testing-microservices/"
+  }
+}

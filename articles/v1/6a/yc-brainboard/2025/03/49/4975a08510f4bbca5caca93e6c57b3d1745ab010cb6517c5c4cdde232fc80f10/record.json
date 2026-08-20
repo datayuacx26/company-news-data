@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4975a08510f4bbca5caca93e6c57b3d1745ab010cb6517c5c4cdde232fc80f10",
+  "company": {
+    "key": "yc-brainboard",
+    "name": "Brainboard"
+  },
+  "source": {
+    "id": "yc-brainboard-news-import-c1cb64b4ba70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brainboard.co/blog/what-is-resource-timeouts-in-terraform",
+    "canonical": "https://www.brainboard.co/blog/what-is-resource-timeouts-in-terraform"
+  },
+  "title": "What is resource timeouts in Terraform",
+  "summary": "Learn how to configure and manage resource timeouts in Terraform to prevent hanging deployments and optimize your infrastructure provisioning workflows",
+  "published_at": "2025-03-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T04:03:09.323194+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T23:46:43.687866+00:00",
+  "paths": {
+    "article": "articles/v1/6a/yc-brainboard/2025/03/49/4975a08510f4bbca5caca93e6c57b3d1745ab010cb6517c5c4cdde232fc80f10/article.md",
+    "record": "articles/v1/6a/yc-brainboard/2025/03/49/4975a08510f4bbca5caca93e6c57b3d1745ab010cb6517c5c4cdde232fc80f10/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12336,
+    "sha256": "sha256:b2f22d0667de46e53f840162111d4e962634d111a3f9f118c62fce10d9f31b76",
+    "normalized_content_hash": "sha256:2754ca245a73aef271926e4c8a5f8d8aa35381f61b91a2a44ecb126107f4cb94"
+  },
+  "provenance": {
+    "source_item_id": "c02c27e7-a890-454a-925e-211d46200978",
+    "external_id": "https://www.brainboard.co/blog/what-is-resource-timeouts-in-terraform"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe0767fc196d517c211556c164838f3cf7a82e455a75dfe831d2ff01c6654565",
+  "company": {
+    "key": "yc-probo",
+    "name": "Probo"
+  },
+  "source": {
+    "id": "yc-probo-news-import-3a271dc478c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.probo.com/blog/2026-03-31-stripe-security-101",
+    "canonical": "https://www.probo.com/blog/2026-03-31-stripe-security-101"
+  },
+  "title": "Stripe Security Checklist: 2FA, SAML/SCIM & Automatic Payouts",
+  "summary": "Stripe is probably the most used payment platform in SaaS. Three settings, thirty minutes of work, and your payment platform stops being a security gap.",
+  "published_at": "2026-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:15:07.485964+00:00",
+  "fetched_at": "2026-07-28T22:16:23.597827+00:00",
+  "last_updated_at": "2026-08-17T11:15:04.997667+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-probo/2026/03/fe/fe0767fc196d517c211556c164838f3cf7a82e455a75dfe831d2ff01c6654565/article.md",
+    "record": "articles/v1/51/yc-probo/2026/03/fe/fe0767fc196d517c211556c164838f3cf7a82e455a75dfe831d2ff01c6654565/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4350,
+    "sha256": "sha256:346585305c8baec63fd2ec7779cc93eefb48384c7e32199f5b6ce8782e65d915",
+    "normalized_content_hash": "sha256:670c7b13f5ac059648cca95440996aec9ebb09f511af4a1885d89a562a0293f0"
+  },
+  "provenance": {
+    "source_item_id": "3b2f1b94-6a81-4603-99e5-b848b9e3ecba",
+    "external_id": "https://www.probo.com/blog/2026-03-31-stripe-security-101"
+  }
+}

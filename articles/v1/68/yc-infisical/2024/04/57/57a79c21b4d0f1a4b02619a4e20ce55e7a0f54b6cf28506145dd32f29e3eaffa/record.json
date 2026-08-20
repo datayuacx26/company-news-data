@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "57a79c21b4d0f1a4b02619a4e20ce55e7a0f54b6cf28506145dd32f29e3eaffa",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/from-static-to-dynamic-db-credentials",
+    "canonical": "https://infisical.com/blog/from-static-to-dynamic-db-credentials"
+  },
+  "title": "Beware of Your Static Database Credentials",
+  "summary": "Learn about why you should move from static to dynamic database credentials and how you can do so with secret rotation and dynamic secrets.",
+  "published_at": "2024-04-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2024/04/57/57a79c21b4d0f1a4b02619a4e20ce55e7a0f54b6cf28506145dd32f29e3eaffa/article.md",
+    "record": "articles/v1/68/yc-infisical/2024/04/57/57a79c21b4d0f1a4b02619a4e20ce55e7a0f54b6cf28506145dd32f29e3eaffa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8411,
+    "sha256": "sha256:9b3e0828e47b03a17c9b06e59370824988763e6728150d48e8ed1107300c5bb7",
+    "normalized_content_hash": "sha256:05625b7e83e605531faad389aa101a6785fca55ecbe99b64cc5d2c871f7a0221"
+  },
+  "provenance": {
+    "source_item_id": "09a3f3b3-4ef1-40b1-95bf-cdaf802a693c",
+    "external_id": "https://infisical.com/blog/from-static-to-dynamic-db-credentials"
+  }
+}

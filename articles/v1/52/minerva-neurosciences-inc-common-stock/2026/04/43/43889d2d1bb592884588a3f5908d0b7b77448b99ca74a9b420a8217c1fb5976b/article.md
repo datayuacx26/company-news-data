@@ -1,0 +1,71 @@
+---
+schema_version: "1.0.0"
+document_id: "43889d2d1bb592884588a3f5908d0b7b77448b99ca74a9b420a8217c1fb5976b"
+company_key: "minerva-neurosciences-inc-common-stock"
+company: "Minerva Neurosciences Inc"
+source_id: "minerva-neurosciences-inc-common-stock-rss-5fde4f1ab3f3"
+canonical_url: "https://ir.minervaneurosciences.com/news-releases/news-release-details/minerva-announces-leadership-transition"
+published_at: "2026-04-02T20:05:34+00:00"
+first_seen_at: "2026-07-25T14:23:39.450838+00:00"
+fetched_at: "2026-07-28T21:56:48.286898+00:00"
+content_hash: "sha256:6f6ed34d7f0138d1d83cdcf81e38f22e461f7e401f6adba2e1ec17bf48a5360c"
+---
+
+# Minerva Announces Leadership Transition
+
+View printer-friendly version<< Back
+
+
+April 02, 2026
+
+
+# Minerva Announces Leadership Transition
+
+
+### Jim O’Connor joins as Chief Business Officer and General Counsel
+
+
+BURLINGTON, Mass., April 02, 2026 (GLOBE NEWSWIRE) -- Minerva Neurosciences, Inc. (Nasdaq: NERV), a clinical-stage biopharmaceutical company focused on the development of therapies to treat central nervous system disorders, today announced a leadership transition with the appointment of Jim O’Connor as Chief Business Officer (CBO), effective April 21, 2026, as Geoff Race, the Company’s President, has elected to leave the company. Mr. Race will continue to be involved with Minerva as a consultant.
+
+
+Mr. Race joined Minerva in 2010 and went on to serve in multiple executive roles including Executive Vice President and Chief Financial Officer, Chief Business Officer, and most recently President. Over his 16 years with the Company, he played a central role in establishing Minerva’s operational, financial, and clinical development foundation.
+
+
+“We are deeply grateful for Geoff’s exceptional leadership, dedication and foundational contributions,” said Dr. Remy Luthringer, Executive Chairman and Chief Executive Officer of Minerva Neurosciences. “Geoff’s strategic guidance and commitment to our collective vision to improve the lives of patients living with negative symptoms of schizophrenia have shaped the company that Minerva is today. Geoff remains as a valued consultant during the leadership transition. The board of directors and I have complete confidence in Jim O’Connor’s ability to strengthen our mission and help shepherd roluperidone successfully through the next planned Phase 3 trial.”
+
+
+“I’m honored to join Minerva at such a pivotal stage in its evolution,” said Mr. O’Connor. “The Company’s scientific foundation, combined with a clearly defined clinical path and a strong commitment to addressing significant unmet needs, positions Minerva for meaningful value creation. I look forward to working closely with the leadership team to advance our strategy and execute with the discipline required to deliver our ultimate goal of bringing roluperidone to market for what would be potentially the first FDA-approved therapy to treat the negative symptoms of schizophrenia.”
+
+
+**About Jim O’Connor**
+Mr. O’Connor brings more than 20 years of legal and business leadership across life sciences, technology, and renewable energy. He most recently served at Axena Health (formerly Renovia) in progressive roles including General Counsel & Chief Operating Officer, General Counsel & Chief Financial Officer, and Interim Chief Executive Officer (CEO), where he led legal, IP, compliance, finance, regulatory, and strategic transactions. His experience includes: negotiating >$130 million in equity and debt financings; a commercial distribution agreement with Exact Sciences that included a $10 million investment; overseeing FDA 510(k) clearance and label expansions for a second‑generation device; and achieving FDA Breakthrough Device Designation via a successful appeal. Earlier in his career he spent 12 years with United Technologies Corporation in roles including Vice President & Deputy General Counsel at Carrier and Chief of Staff to the President & CEO of UTC Building & Industrial Systems. He began his career as a corporate associate at Testa, Hurwitz & Thibeault. Mr. O’Connor earned his J.D., cum laude, from Cornell Law School and a B.A., summa cum laude, in Economics from Boston College.
+
+
+**About Minerva Neurosciences**
+
+
+Minerva Neurosciences, Inc. is a clinical-stage biopharmaceutical company focused on developing product candidates to treat CNS diseases. Minerva’s goal is to transform the lives of patients with improved therapeutic options, including roluperidone for negative symptoms of schizophrenia. For more information, please visit the Company’s[website](https://www.globenewswire.com/Tracker?data=HrUu3YDeQcN0jtkKO0mISBzi6Jctqqze2-gPpw4aLSTg4ZGjTe9Mwwj6yYuvUGNuGAMEStgiIlbdWFOo_cdhBt2X5U_ly6gn99RZBz9nfbk=) .
+
+
+**Forward-Looking Safe Harbor Statement**
+
+
+This press release contains forward-looking statements which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, as amended. Forward-looking statements are statements that are not historical facts, reflect management’s expectations as of the date of this press release, and involve certain risks and uncertainties. Forward-looking statements include, but are not limited to, statements herein with respect to implied or express statements regarding the anticipated contributions and impact of the executive appointment, and Minerva’s expectations and plans for the successful conduct of its next planned Phase 3 trial. These forward-looking statements are based on our current expectations and may differ materially from actual results due to a variety of factors including, without limitation, Minerva’s future financial performance and position may not improve, resulting in difficulties in implementing Minerva’s business strategy, and plans and objectives for future operations; the expected sufficiency of Minerva’s existing cash resources and runway may not be accurate resulting in the need for additional financing sooner than anticipated or unexpected liquidity constraints; the internal and external costs required for Minerva’s ongoing and planned activities, and the resulting impact on expense and use of cash, may be higher than expected, which may cause the company to use cash more quickly than expected or to change or curtail some of Minerva’s plans or both; trials and studies may be delayed and may not have satisfactory outcomes, and earlier trials and studies may not be predictive of later trials and studies; the design and rate of enrollment for clinical trials, including the current design of the confirmatory Phase 3 trial evaluating roluperidone may not enable successful completion of the trial(s); the commercial opportunity for roluperidone in negative symptoms of Schizophrenia may be smaller than anticipated; Minerva may be unable to obtain and maintain regulatory approvals; Minerva may experience uncertainties inherent in the initiation and completion of clinical trials and clinical development; the need to align with collaborators or partners may hamper or delay development and regulatory efforts or increase costs; uncertainties of patent protection and litigation; general economic conditions; and other factors that are described under the caption “Risk Factors” in Minerva’s filings with the Securities and Exchange Commission, including its Annual Report on Form 10-K for the year ended December 31, 2025, filed with the Securities and Exchange Commission on March 11, 2026. Copies of reports filed with the SEC are posted on Minerva’s website at http://ir.minervaneurosciences.com/. The forward-looking statements in this press release are based on information available to the Company as of the date hereof, and the Company disclaims any obligation to update any forward-looking statements, except as required by law.
+
+
+**Contacts:**
+
+
+Investor inquiries:
+
+
+**Frederick Ahlholm**
+Chief Financial Officer
+Minerva Neurosciences, Inc.
+[info@minervaneurosciences.com](https://www.globenewswire.com/Tracker?data=I7PODXCQOsvn2eFeQmVeKb2Sn0bFRqUEKfP45H_bJEMoCBpwTlRJJQh6rPNJjpTYt6gT0F3teyOlfk4aZcc7WiOngGuDBixMi94sIM3ynIcnETQis4lq3MSbjdDq9-et)
+
+
+**Corey Davis, Ph.D.**
+LifeSci Advisors, LLC
+212-915-2577
+[cdavis@lifesciadvisors.com](https://www.globenewswire.com/Tracker?data=gpTIavGWg_WB8WakHVkRKIJqXP7R1fVTAaHHe547w6uSKerrDRWmTt8iPBY0fuYpVjUQEkppt0hGN7B7QhFQkRP8KFujbz8qVJVnqr8ZXzEU_KFqfvH3FyA0SCx_aOjp)

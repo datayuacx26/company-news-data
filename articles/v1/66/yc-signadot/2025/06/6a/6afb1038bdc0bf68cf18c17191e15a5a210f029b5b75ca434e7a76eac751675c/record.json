@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6afb1038bdc0bf68cf18c17191e15a5a210f029b5b75ca434e7a76eac751675c",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/reimagining-environments-for-cloud-native-architectures/",
+    "canonical": "https://www.signadot.com/blog/reimagining-environments-for-cloud-native-architectures/"
+  },
+  "title": "Reimagining Environments for Cloud Native Architectures",
+  "summary": "A better way: Consolidate multiple pre-production environments into a single shared environment with app-layer isolation through smart request routing.",
+  "published_at": "2025-06-02T15:11:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/06/6a/6afb1038bdc0bf68cf18c17191e15a5a210f029b5b75ca434e7a76eac751675c/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/06/6a/6afb1038bdc0bf68cf18c17191e15a5a210f029b5b75ca434e7a76eac751675c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9187,
+    "sha256": "sha256:22edc36169131a598c0fd09fe1e7ce17b6ea7f7d7701b3cea55bc689cf06761a",
+    "normalized_content_hash": "sha256:67730e028f51cbf70e3ec296e99f752b2c0d4507521589a325d3c532d789d92f"
+  },
+  "provenance": {
+    "source_item_id": "8029e64b-c067-449a-b222-e367e3bd5b10",
+    "external_id": "https://www.signadot.com/blog/reimagining-environments-for-cloud-native-architectures/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d8f73712c85965371a62afb16e560309e97af57a69010b70b21385ed237ed7c",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/june-townhall-updates",
+    "canonical": "https://docs.litellm.ai/blog/june-townhall-updates"
+  },
+  "title": "June Townhall Updates: 94 Bug Fixes, OCR + Realtime are in Rust, and a Zero-Regression Commitment",
+  "summary": "A recap of the June LiteLLM town hall covering security hardening, our zero-regression commitment, 78 feature commits, and the gradual migration of the gateway to Rust.",
+  "published_at": "2026-06-26T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-11T20:10:27.835477+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/06/1d/1d8f73712c85965371a62afb16e560309e97af57a69010b70b21385ed237ed7c/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/06/1d/1d8f73712c85965371a62afb16e560309e97af57a69010b70b21385ed237ed7c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6290,
+    "sha256": "sha256:a03360cdbda5dcb8c2006e7665866e5ea97b824c70765df2c7a0fb145373fdf1",
+    "normalized_content_hash": "sha256:852b3e8b576444ba3ad78d4eab8ce67ece48b009f7d30f7bbc20a2a6d3479fb6"
+  },
+  "provenance": {
+    "source_item_id": "7e064686-0bb1-4f2a-b411-34050a5d8746",
+    "external_id": "https://docs.litellm.ai/blog/june-townhall-updates"
+  }
+}

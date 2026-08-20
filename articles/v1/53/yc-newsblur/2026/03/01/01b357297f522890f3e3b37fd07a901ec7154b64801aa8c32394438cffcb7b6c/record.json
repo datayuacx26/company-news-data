@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01b357297f522890f3e3b37fd07a901ec7154b64801aa8c32394438cffcb7b6c",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-26fc52334fc9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/story-clustering-automatically-group-duplicate-stories-across-your-feeds/13512",
+    "canonical": "https://forum.newsblur.com/t/story-clustering-automatically-group-duplicate-stories-across-your-feeds/13512"
+  },
+  "title": "Story clustering: automatically group duplicate stories across your feeds",
+  "summary": "<p>If you subscribe to more than a handful of news feeds, you’ve hit this problem: a story breaks, and suddenly the same headline appears across five, ten, twenty of your subscriptions. You’re reading the same article over and over, just published by different outlets. Your river view fills up with duplicates, and the stories you haven’t read yet get buried.</p> Story clustering solves this. When NewsBlur detects that multiple feeds are covering the same story, it groups them together and sho...",
+  "published_at": "2026-03-18T15:03:37+00:00",
+  "first_seen_at": "2026-07-25T16:10:33.287397+00:00",
+  "fetched_at": "2026-07-28T21:56:54.694470+00:00",
+  "last_updated_at": "2026-08-20T01:10:36.742131+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/03/01/01b357297f522890f3e3b37fd07a901ec7154b64801aa8c32394438cffcb7b6c/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/03/01/01b357297f522890f3e3b37fd07a901ec7154b64801aa8c32394438cffcb7b6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16301,
+    "sha256": "sha256:af254620697d737230d18e37a421a46d88705749ab229ef12188b965921886db",
+    "normalized_content_hash": "sha256:4fc6f7ab5382183f179b3bbb600c9210dd6c307d32bf8dd115b5d7a9fe04d607"
+  },
+  "provenance": {
+    "source_item_id": "87e04424-90d5-4446-8cd7-2a1988329d1d",
+    "external_id": "forum.newsblur.com-topic-13512"
+  }
+}

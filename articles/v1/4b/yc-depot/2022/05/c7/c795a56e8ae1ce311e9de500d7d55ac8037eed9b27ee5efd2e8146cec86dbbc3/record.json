@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c795a56e8ae1ce311e9de500d7d55ac8037eed9b27ee5efd2e8146cec86dbbc3",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/building-arm-containers",
+    "canonical": "https://depot.dev/blog/building-arm-containers"
+  },
+  "title": "How to build Arm and multi-architecture containers today",
+  "summary": "Building Arm and multi-architecture containers today is challenging. In this post, we explore the current options and how Depot addresses each challenge.",
+  "published_at": "2022-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/05/c7/c795a56e8ae1ce311e9de500d7d55ac8037eed9b27ee5efd2e8146cec86dbbc3/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/05/c7/c795a56e8ae1ce311e9de500d7d55ac8037eed9b27ee5efd2e8146cec86dbbc3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13650,
+    "sha256": "sha256:8378d2ab5f2ce2a0e19d89868778d6eab04642c63c6a2af2971d7ad6491fd5ea",
+    "normalized_content_hash": "sha256:0f8b787fb04038fbe7a66054808569b1cb0c4b823936388ac0bd049a0b4bd6d6"
+  },
+  "provenance": {
+    "source_item_id": "dcef8bd7-bb6c-49f9-8513-4d86a7d757ad",
+    "external_id": "https://depot.dev/blog/building-arm-containers"
+  }
+}

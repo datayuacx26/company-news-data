@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "adffd96a82f58d5df589c195e6535084835b14f705149690b3ddae00c2f2c30e",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/agent-connectors",
+    "canonical": "https://airbyte.com/blog/agent-connectors"
+  },
+  "title": "Introducing Agent Connectors from Airbyte",
+  "summary": "Introducing Agent Connectors from Airbyte enabling AI agents to securely access, sync, and act on real-time data across your tools and systems.",
+  "published_at": "2025-12-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:27:04.798558+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2025/12/ad/adffd96a82f58d5df589c195e6535084835b14f705149690b3ddae00c2f2c30e/article.md",
+    "record": "articles/v1/54/yc-airbyte/2025/12/ad/adffd96a82f58d5df589c195e6535084835b14f705149690b3ddae00c2f2c30e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7612,
+    "sha256": "sha256:75e02c2fac5b19761b45db870efd4dae93adb1953b6212b16ab323dafb0d7389",
+    "normalized_content_hash": "sha256:aec290eac4713e90ac3f6c5bc12dc3c5cccdc26cb5516651f8d46152a250931f"
+  },
+  "provenance": {
+    "source_item_id": "3dfae59f-4051-4d01-8f50-ccd522b618f2",
+    "external_id": "https://airbyte.com/blog/agent-connectors"
+  }
+}

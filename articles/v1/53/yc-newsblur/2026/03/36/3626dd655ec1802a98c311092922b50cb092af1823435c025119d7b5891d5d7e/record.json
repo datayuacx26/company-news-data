@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3626dd655ec1802a98c311092922b50cb092af1823435c025119d7b5891d5d7e",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-26fc52334fc9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/hide-what-you-hate-track-what-you-love-super-dislikes-and-per-classifier-notifications/13548",
+    "canonical": "https://forum.newsblur.com/t/hide-what-you-hate-track-what-you-love-super-dislikes-and-per-classifier-notifications/13548"
+  },
+  "title": "Hide what you hate, track what you love: super dislikes and per-classifier notifications",
+  "summary": "<p>NewsBlur’s Intelligence Trainer has always had a simple rule: thumbs up beats thumbs down. If a story matches both a liked and a disliked classifier, the story shows up in Focus. That works well most of the time. But sometimes you run into a topic, author, or tag that you absolutely never want to see, and a regular thumbs down isn’t enough because a single thumbs up from another classifier overrides it.</p> Today I’m shipping two features that give the Intelligence Trainer more teeth: supe...",
+  "published_at": "2026-03-27T14:21:54+00:00",
+  "first_seen_at": "2026-07-25T16:10:33.287397+00:00",
+  "fetched_at": "2026-07-28T22:00:16.885857+00:00",
+  "last_updated_at": "2026-08-20T01:10:36.742131+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/03/36/3626dd655ec1802a98c311092922b50cb092af1823435c025119d7b5891d5d7e/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/03/36/3626dd655ec1802a98c311092922b50cb092af1823435c025119d7b5891d5d7e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7126,
+    "sha256": "sha256:780d977889e67b06d6492119604368e02741f5662a4ccc1f8f7c44e5778cef0b",
+    "normalized_content_hash": "sha256:035bbc73779dc1ce3078f1cdd877eb5118ce2365c81866e3ca19eb4fff5ad596"
+  },
+  "provenance": {
+    "source_item_id": "8d86760d-56e8-46ff-861c-06f4e11d8729",
+    "external_id": "forum.newsblur.com-topic-13548"
+  }
+}

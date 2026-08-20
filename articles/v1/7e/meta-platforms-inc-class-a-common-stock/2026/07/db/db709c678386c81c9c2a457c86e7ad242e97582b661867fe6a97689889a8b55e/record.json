@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db709c678386c81c9c2a457c86e7ad242e97582b661867fe6a97689889a8b55e",
+  "company": {
+    "key": "meta-platforms-inc-class-a-common-stock",
+    "name": "Meta Platforms Inc."
+  },
+  "source": {
+    "id": "meta-platforms-inc-class-a-common-stock-rss-8db9661691d6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+    "canonical": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/"
+  },
+  "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+  "summary": "TL; DR At Meta’s scale, a few milliseconds of latency degradation can have a significant negative impact on ads performance. When a Linux kernel upgrade risked regressing latency across Meta…",
+  "published_at": "2026-07-13T16:00:50+00:00",
+  "first_seen_at": "2026-07-20T04:35:35.936675+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-20T00:59:47.177433+00:00",
+  "paths": {
+    "article": "articles/v1/7e/meta-platforms-inc-class-a-common-stock/2026/07/db/db709c678386c81c9c2a457c86e7ad242e97582b661867fe6a97689889a8b55e/article.md",
+    "record": "articles/v1/7e/meta-platforms-inc-class-a-common-stock/2026/07/db/db709c678386c81c9c2a457c86e7ad242e97582b661867fe6a97689889a8b55e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10450,
+    "sha256": "sha256:38fb9620901f1169682621bedf1d028049defd62a0fd9ee11854697087a22fa9",
+    "normalized_content_hash": "sha256:f3678d1e948117450765d6cfd06bf12634799d9d0da4d076d84b30a6b60586b4"
+  },
+  "provenance": {
+    "source_item_id": "f43cbe40-c243-45e4-8ae9-564606de8dbe",
+    "external_id": "https://engineering.fb.com/?p=24221"
+  }
+}

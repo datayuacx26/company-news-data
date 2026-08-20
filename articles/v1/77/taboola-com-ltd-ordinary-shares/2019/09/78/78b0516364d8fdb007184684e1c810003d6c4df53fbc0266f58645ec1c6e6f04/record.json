@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78b0516364d8fdb007184684e1c810003d6c4df53fbc0266f58645ec1c6e6f04",
+  "company": {
+    "key": "taboola-com-ltd-ordinary-shares",
+    "name": "Taboola.com Ltd."
+  },
+  "source": {
+    "id": "taboola-com-ltd-ordinary-shares-news-import-1349b39c90c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.taboola.com/engineering/exploiting-multi-categorical-features-using-deep-interest/",
+    "canonical": "https://www.taboola.com/engineering/exploiting-multi-categorical-features-using-deep-interest/"
+  },
+  "title": "Exploiting Multi-Categorical Features Using Deep Interest",
+  "summary": "At Taboola, our goal is to predict whether users will click on the ads we present to them. Our models use all kinds of features, yet the most interesting ones tend to be related to the users’ history. Understanding how to use these features well can have a huge impact on the model’s personalization capabilities, […]",
+  "published_at": "2019-09-04T11:10:34+00:00",
+  "first_seen_at": "2026-07-22T15:33:14.584366+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-08-20T00:36:38.631480+00:00",
+  "paths": {
+    "article": "articles/v1/77/taboola-com-ltd-ordinary-shares/2019/09/78/78b0516364d8fdb007184684e1c810003d6c4df53fbc0266f58645ec1c6e6f04/article.md",
+    "record": "articles/v1/77/taboola-com-ltd-ordinary-shares/2019/09/78/78b0516364d8fdb007184684e1c810003d6c4df53fbc0266f58645ec1c6e6f04/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8682,
+    "sha256": "sha256:a73915b0d9b0398ca89fb24411acc7d22c81437e76a347ff130133797936fba4",
+    "normalized_content_hash": "sha256:2b1a0e53e1f83b493d1e7da9b8a0a1b1f0320596814cb3a7e68caf03ef06aa63"
+  },
+  "provenance": {
+    "source_item_id": "ef921bc7-3643-44fa-a2e6-b042f46e8487",
+    "external_id": "https://www.taboola.com/engineering/exploiting-multi-categorical-features-using-deep-interest/"
+  }
+}

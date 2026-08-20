@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03d41965d2013ddc1c39b75767d48eeb3153e82faf626cc91d7134552bfa49b6",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/project-build-timeouts",
+    "canonical": "https://depot.dev/blog/project-build-timeouts"
+  },
+  "title": "Now available: Project build timeouts",
+  "summary": "You can now configure project level build timeouts for your container build projects and cancel builds from within Depot.",
+  "published_at": "2024-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/06/03/03d41965d2013ddc1c39b75767d48eeb3153e82faf626cc91d7134552bfa49b6/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/06/03/03d41965d2013ddc1c39b75767d48eeb3153e82faf626cc91d7134552bfa49b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2320,
+    "sha256": "sha256:8558484979863c7f9bd57f03ba1ecaed761b9582e31077a1875647a95e18b0f1",
+    "normalized_content_hash": "sha256:fe1f47134f1df24b59d4963329dbac0636601155077de94bf8a9554d29a94d78"
+  },
+  "provenance": {
+    "source_item_id": "84de4372-bf6e-4f43-aeac-0a7c267955e0",
+    "external_id": "https://depot.dev/blog/project-build-timeouts"
+  }
+}

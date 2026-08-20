@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5778e60b7c8fb2b5fb32581ed4ac9e4565694e3afe89919e5f6c464d60b7d9cc",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/breaking-fri-in-zkvm/",
+    "canonical": "https://verialabs.com/blog/breaking-fri-in-zkvm/"
+  },
+  "title": "Breaking FRI in Eigen's zkVM",
+  "summary": "How missing index checks in FRI allow full proof forgery in Eigen's zkVM.",
+  "published_at": "2026-01-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T22:24:48.249354+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2026/01/57/5778e60b7c8fb2b5fb32581ed4ac9e4565694e3afe89919e5f6c464d60b7d9cc/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2026/01/57/5778e60b7c8fb2b5fb32581ed4ac9e4565694e3afe89919e5f6c464d60b7d9cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17877,
+    "sha256": "sha256:357d4806bd246ac1756841bf4d63b14269829372acdead60dafdf341166c7c0a",
+    "normalized_content_hash": "sha256:4e9af24e31d662201a7244b4a3f58f49c4d8e42fdf608f8fd6c8e9f25be93e10"
+  },
+  "provenance": {
+    "source_item_id": "d4bba8ee-dfaa-40d9-a30c-3cd0943114fe",
+    "external_id": "https://verialabs.com/blog/breaking-fri-in-zkvm/"
+  }
+}

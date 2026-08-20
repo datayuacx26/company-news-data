@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c17bb626195bdef5c205b6858fed8123d66ee3989f61134c54993e304bc8b72b",
+  "company": {
+    "key": "varonis-systems-inc-common-stock",
+    "name": "Varonis Systems Inc."
+  },
+  "source": {
+    "id": "varonis-systems-inc-common-stock-rss-915499d71e96",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.varonis.com/blog/encrypting-cloud-mysql",
+    "canonical": "https://www.varonis.com/blog/encrypting-cloud-mysql"
+  },
+  "title": "MyBait: Why We Lured Attackers To Encrypt Our Cloud MySQL",
+  "summary": "Varonis Threat Labs deployed MySQL honeypots across GCP, AWS, and Azure. Only GCP was compromised. Here’s what it means for cloud database security.",
+  "published_at": "2026-06-19T13:40:26+00:00",
+  "first_seen_at": "2026-07-24T05:47:29.345543+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-07-28T21:13:59.495068+00:00",
+  "paths": {
+    "article": "articles/v1/7d/varonis-systems-inc-common-stock/2026/06/c1/c17bb626195bdef5c205b6858fed8123d66ee3989f61134c54993e304bc8b72b/article.md",
+    "record": "articles/v1/7d/varonis-systems-inc-common-stock/2026/06/c1/c17bb626195bdef5c205b6858fed8123d66ee3989f61134c54993e304bc8b72b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10787,
+    "sha256": "sha256:d22b6cbfaf2f5c0fc5ede2de197b2a83d2a33af3eae73632bd40b5049ba7b2f8",
+    "normalized_content_hash": "sha256:73b0907d548b7a8c22761c17f117ed9ab579f9946503dd9c409f99d81e79f9ff"
+  },
+  "provenance": {
+    "source_item_id": "fce1226a-43d3-4c6f-8cdb-4ee592c3bfec",
+    "external_id": "https://www.varonis.com/blog/encrypting-cloud-mysql"
+  }
+}

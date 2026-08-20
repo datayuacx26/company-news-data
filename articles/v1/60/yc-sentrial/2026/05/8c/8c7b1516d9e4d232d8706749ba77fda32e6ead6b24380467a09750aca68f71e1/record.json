@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c7b1516d9e4d232d8706749ba77fda32e6ead6b24380467a09750aca68f71e1",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/prompt-ab-testing-that-catches-silent-failures",
+    "canonical": "https://www.sentrial.com/blog/prompt-ab-testing-that-catches-silent-failures"
+  },
+  "title": "Prompt A/B Testing That Actually Catches Silent Production Failures",
+  "summary": "We analyzed 12 million logs and found 78% of agent failures are silent. Here's how to run prompt A/B tests that catch them, not just latency spikes and rubric scores.",
+  "published_at": "2026-05-28T07:08:01.445+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/05/8c/8c7b1516d9e4d232d8706749ba77fda32e6ead6b24380467a09750aca68f71e1/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/05/8c/8c7b1516d9e4d232d8706749ba77fda32e6ead6b24380467a09750aca68f71e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26303,
+    "sha256": "sha256:a49f39a992f8e9fd72b8a55145ae2ac863312627f177b538881d2f8fd27eec5c",
+    "normalized_content_hash": "sha256:87559f67540f38e4df1b2ac24e352b8132283fb4d8607d0046e62f72263459e0"
+  },
+  "provenance": {
+    "source_item_id": "594a594f-9058-4c84-a7a9-e2fb9d68893d",
+    "external_id": "https://www.sentrial.com/blog/prompt-ab-testing-that-catches-silent-failures"
+  }
+}

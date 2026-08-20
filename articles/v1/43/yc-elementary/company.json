@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-elementary",
+    "name": "Elementary"
+  },
+  "record_count": 20,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/43/yc-elementary/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 21317,
+        "sha256": "sha256:777a4e48551d01e21ad7c69ae611cac8697a806bed873e1efcd1d635defc38ef",
+        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "oldest_at": "2026-07-28T21:36:14.883471+00:00"
+      }
+    ]
+  }
+}

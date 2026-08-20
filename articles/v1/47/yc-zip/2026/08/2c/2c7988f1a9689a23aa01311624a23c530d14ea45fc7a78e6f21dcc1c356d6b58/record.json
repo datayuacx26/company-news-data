@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c7988f1a9689a23aa01311624a23c530d14ea45fc7a78e6f21dcc1c356d6b58",
+  "company": {
+    "key": "yc-zip",
+    "name": "Zip"
+  },
+  "source": {
+    "id": "yc-zip-news-import-ad9d9b914bb9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zip.com/blog/ai-ap-inbox",
+    "canonical": "https://zip.com/blog/ai-ap-inbox"
+  },
+  "title": "AI AP Inbox finds the invoice in every email",
+  "summary": "Zip's AI AP Inbox reads every email as it arrives, separates real invoices from spam and duplicates, and answers vendor questions with live payment status.",
+  "published_at": null,
+  "first_seen_at": "2026-08-06T21:04:20.677989+00:00",
+  "fetched_at": "2026-08-06T21:04:21.973310+00:00",
+  "last_updated_at": "2026-08-19T20:20:09.417922+00:00",
+  "paths": {
+    "article": "articles/v1/47/yc-zip/2026/08/2c/2c7988f1a9689a23aa01311624a23c530d14ea45fc7a78e6f21dcc1c356d6b58/article.md",
+    "record": "articles/v1/47/yc-zip/2026/08/2c/2c7988f1a9689a23aa01311624a23c530d14ea45fc7a78e6f21dcc1c356d6b58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4387,
+    "sha256": "sha256:698a01126c3691359326630291b9b9ec556cec98a99355e1d2f666b4108b8abd",
+    "normalized_content_hash": "sha256:b5b6edc931b740be4aa889b48962d90a3dfadb9f152eee0ed234e5612d0950cb"
+  },
+  "provenance": {
+    "source_item_id": "64cfc83a-690a-401d-bc5e-26db991b64c6",
+    "external_id": "https://zip.com/blog/ai-ap-inbox"
+  }
+}

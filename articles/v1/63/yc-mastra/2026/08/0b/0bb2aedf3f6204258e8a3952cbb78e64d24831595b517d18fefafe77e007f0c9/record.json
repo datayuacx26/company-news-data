@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bb2aedf3f6204258e8a3952cbb78e64d24831595b517d18fefafe77e007f0c9",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/guardrails",
+    "canonical": "https://mastra.ai/articles/guardrails"
+  },
+  "title": "Guardrails for AI agents: a practical guide for TypeScript developers",
+  "summary": "Learn how to implement guardrails for AI agents in TypeScript, from input validation and PII detection to tripwires, classifiers, and observability.",
+  "published_at": "2026-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T16:04:57.697539+00:00",
+  "fetched_at": "2026-08-10T16:04:59.642666+00:00",
+  "last_updated_at": "2026-08-12T23:26:43.117542+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/08/0b/0bb2aedf3f6204258e8a3952cbb78e64d24831595b517d18fefafe77e007f0c9/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/08/0b/0bb2aedf3f6204258e8a3952cbb78e64d24831595b517d18fefafe77e007f0c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23909,
+    "sha256": "sha256:405634d640d11bc470f19eaa3a6f83bc002f7b4617cfe6cc82ef4da459b530c8",
+    "normalized_content_hash": "sha256:f80cf114997d4dd6bcd244ae4fbd2a8bdad0b82321daf6aef21a083f00f097c5"
+  },
+  "provenance": {
+    "source_item_id": "e29e2993-9a89-4b7f-b017-c46a6530d4af",
+    "external_id": "https://mastra.ai/articles/guardrails"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "874cb6f7faa6714ce394b0745fffb756c8055d13e25df64059b2a030b91b4fa9",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/adas-video-annotation-guide/",
+    "canonical": "https://encord.com/blog/adas-video-annotation-guide/"
+  },
+  "title": "How to annotate video for ADAS and autonomous driving: A Technical Guide",
+  "summary": "TL;DR: Video annotation for ADAS is the process of labeling driving footage so a model can track objects, estimate distance, and understand scen",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:06:14.355617+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T01:45:33.388619+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/87/874cb6f7faa6714ce394b0745fffb756c8055d13e25df64059b2a030b91b4fa9/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/87/874cb6f7faa6714ce394b0745fffb756c8055d13e25df64059b2a030b91b4fa9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18790,
+    "sha256": "sha256:734a37bf028ff672a6622df564d1081c1381d7a7d277048c56bc375873974c65",
+    "normalized_content_hash": "sha256:168be16090dd5eeae592e9b6dd4ea07a29a28a0f87f915a6835c9373fff8cf99"
+  },
+  "provenance": {
+    "source_item_id": "b7544d01-a987-42b6-905c-309edaf8a38c",
+    "external_id": "https://encord.com/blog/adas-video-annotation-guide/"
+  }
+}

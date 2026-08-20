@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0a83bbcde3f89619df0e81c7359cd186910bcb3ffafe34cf468e41758e0b0a5",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/the-million-dollar-problem-of-slow-microservices-testing/",
+    "canonical": "https://www.signadot.com/blog/the-million-dollar-problem-of-slow-microservices-testing/"
+  },
+  "title": "The Million-Dollar Problem of Slow Microservices Testing",
+  "summary": "By shifting integration tests from the slow outer loop into the rapid inner loop, organizations can fundamentally transform their development process.",
+  "published_at": "2025-03-21T15:17:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:58:06.165020+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/03/b0/b0a83bbcde3f89619df0e81c7359cd186910bcb3ffafe34cf468e41758e0b0a5/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/03/b0/b0a83bbcde3f89619df0e81c7359cd186910bcb3ffafe34cf468e41758e0b0a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13468,
+    "sha256": "sha256:b03846765ace1f971d946f3b64bcdb6133a9d12b8ceae55919f83e228993d822",
+    "normalized_content_hash": "sha256:274981253e55d1fb51f78d7bd8f15db16a73c7512e9d4b8a785c9c0407ab14cc"
+  },
+  "provenance": {
+    "source_item_id": "084732b2-2b69-4948-b5af-bbb71c286407",
+    "external_id": "https://www.signadot.com/blog/the-million-dollar-problem-of-slow-microservices-testing/"
+  }
+}

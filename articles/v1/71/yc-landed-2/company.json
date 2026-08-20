@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-landed-2",
+    "name": "Landed"
+  },
+  "record_count": 24,
+  "first_published_at": "2022-04-07T00:00:00+00:00",
+  "last_published_at": "2024-12-05T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/71/yc-landed-2/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 25101,
+        "sha256": "sha256:1e62d3fead8fb6dfc01a4fe9c8c9a38c9e8a09abad518bc55de2c043961138db",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2022-04-07T00:00:00+00:00"
+      }
+    ]
+  }
+}

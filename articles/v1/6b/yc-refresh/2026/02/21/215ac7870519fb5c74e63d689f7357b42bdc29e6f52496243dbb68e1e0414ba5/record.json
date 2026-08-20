@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "215ac7870519fb5c74e63d689f7357b42bdc29e6f52496243dbb68e1e0414ba5",
+  "company": {
+    "key": "yc-refresh",
+    "name": "Refresh"
+  },
+  "source": {
+    "id": "yc-refresh-news-import-082559068c7a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.refresh.dev/blog/gauntlet-4k-rlvr",
+    "canonical": "https://refresh.dev/blog/gauntlet-4k-rlvr"
+  },
+  "title": "Gauntlet 4K RLVR",
+  "summary": "An RLVR dataset curated from Gauntlet, delivered in Harbor format for reinforcement learning.",
+  "published_at": "2026-02-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:40:30.303350+00:00",
+  "fetched_at": "2026-07-28T22:19:59.143850+00:00",
+  "last_updated_at": "2026-08-19T15:11:24.305450+00:00",
+  "paths": {
+    "article": "articles/v1/6b/yc-refresh/2026/02/21/215ac7870519fb5c74e63d689f7357b42bdc29e6f52496243dbb68e1e0414ba5/article.md",
+    "record": "articles/v1/6b/yc-refresh/2026/02/21/215ac7870519fb5c74e63d689f7357b42bdc29e6f52496243dbb68e1e0414ba5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4726,
+    "sha256": "sha256:ec2e5f9b5aed30f4d7214f1373192ddf820cbd4bfade813470212255166436cf",
+    "normalized_content_hash": "sha256:fbe3ea9cd9c817596e53271fd953b9e74bec8112470e31fd768e654bdc80dfd6"
+  },
+  "provenance": {
+    "source_item_id": "81de66c0-2b36-4dcf-868e-7617ebffd9f3",
+    "external_id": "https://refresh.dev/blog/gauntlet-4k-rlvr"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "446d6270d91059f3bccd7d92951252fb06a77a99385a29b7853cfcd5590e5a88",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/faster-builds-with-docker-caching",
+    "canonical": "https://depot.dev/blog/faster-builds-with-docker-caching"
+  },
+  "title": "Build Docker images faster using build cache",
+  "summary": "Knowing how to optimize your Docker image builds to leverage the build cache as often as possible is critical to making your builds fast. We'll show you how the layer cache works and how to use the cache efficiently, so you can get the most out of your builds.",
+  "published_at": "2024-01-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:26:19.240569+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/01/44/446d6270d91059f3bccd7d92951252fb06a77a99385a29b7853cfcd5590e5a88/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/01/44/446d6270d91059f3bccd7d92951252fb06a77a99385a29b7853cfcd5590e5a88/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11025,
+    "sha256": "sha256:baff0d3e439aae0737e30a11e9c4d9a502fb473989ab6e90012c11794a15b6bc",
+    "normalized_content_hash": "sha256:74a743eb40b96b3a09fcae50f527ff4444dc2f26459f652da5361471ec84ff30"
+  },
+  "provenance": {
+    "source_item_id": "8467cefe-1b23-4572-9e24-4546420af119",
+    "external_id": "https://depot.dev/blog/faster-builds-with-docker-caching"
+  }
+}

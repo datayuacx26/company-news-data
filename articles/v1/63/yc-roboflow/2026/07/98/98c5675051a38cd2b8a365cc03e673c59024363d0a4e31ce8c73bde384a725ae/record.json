@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98c5675051a38cd2b8a365cc03e673c59024363d0a4e31ce8c73bde384a725ae",
+  "company": {
+    "key": "yc-roboflow",
+    "name": "Roboflow"
+  },
+  "source": {
+    "id": "yc-roboflow-news-import-01e8e48f5676",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.roboflow.com/multi-model-auto-labeling/",
+    "canonical": "https://blog.roboflow.com/multi-model-auto-labeling/"
+  },
+  "title": "Multi-Model Auto Labeling with Roboflow Workflows",
+  "summary": "Roboflow has brought the full power of Workflows into Auto Label, letting you run custom pipelines serverlessly on your unannotated images. This post walks through building a sample multi-VLM workflow from scratch, then shows how to launch it on an image batch in a few clicks.",
+  "published_at": "2026-07-10T13:27:54+00:00",
+  "first_seen_at": "2026-07-25T21:39:51.585615+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:22:59.270962+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-roboflow/2026/07/98/98c5675051a38cd2b8a365cc03e673c59024363d0a4e31ce8c73bde384a725ae/article.md",
+    "record": "articles/v1/63/yc-roboflow/2026/07/98/98c5675051a38cd2b8a365cc03e673c59024363d0a4e31ce8c73bde384a725ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9715,
+    "sha256": "sha256:a1c838cc96f6f285a43e36e314053c70be0e903877ae796eee67782e1bb434c8",
+    "normalized_content_hash": "sha256:94a6a23634011026ec88b4c004c4ac1a2e876046b4849c2218451918fc901946"
+  },
+  "provenance": {
+    "source_item_id": "dd5f00a7-e50f-424e-8c63-7732c0544132",
+    "external_id": "https://blog.roboflow.com/multi-model-auto-labeling/"
+  }
+}

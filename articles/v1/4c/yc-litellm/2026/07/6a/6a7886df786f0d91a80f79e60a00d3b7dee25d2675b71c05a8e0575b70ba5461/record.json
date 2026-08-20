@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a7886df786f0d91a80f79e60a00d3b7dee25d2675b71c05a8e0575b70ba5461",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/auto-router-cost-quality-benchmark",
+    "canonical": "https://docs.litellm.ai/blog/auto-router-cost-quality-benchmark"
+  },
+  "title": "Cut 75% Claude Code cost with near frontier model quality",
+  "summary": "Two independent evaluations of a four-tier Auto Router config against an all-frontier baseline: 8,619 graded prompts, 14,000 simulated real conversations, and what the cost and quality numbers actually depend on.",
+  "published_at": "2026-07-27T10:00:00+00:00",
+  "first_seen_at": "2026-07-28T08:13:03.513694+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/6a/6a7886df786f0d91a80f79e60a00d3b7dee25d2675b71c05a8e0575b70ba5461/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/6a/6a7886df786f0d91a80f79e60a00d3b7dee25d2675b71c05a8e0575b70ba5461/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8848,
+    "sha256": "sha256:091a4b7fada74decbcdb742d05e2a90628a51332520383104fc8d2da4cbf7597",
+    "normalized_content_hash": "sha256:e521b8ec2833b9f856bad522d1a3b867069aab019b4211469264658016ca8fe9"
+  },
+  "provenance": {
+    "source_item_id": "5890d02d-fa44-478f-ac57-3a0ee8bf18fa",
+    "external_id": "https://docs.litellm.ai/blog/auto-router-cost-quality-benchmark"
+  }
+}

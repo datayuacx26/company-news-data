@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ecd1f8cf152151a04527afe32ed4370c56ea1b532ce897592c48e5d06d93c097",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/langgraph",
+    "canonical": "https://mastra.ai/articles/langgraph"
+  },
+  "title": "LangGraph: the complete guide to stateful AI agent orchestration",
+  "summary": "Learn what LangGraph is, how its graph-based architecture handles stateful AI agents, and when to choose it over LangChain for complex workflows.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T16:04:57.697539+00:00",
+  "fetched_at": "2026-08-10T16:04:59.642666+00:00",
+  "last_updated_at": "2026-08-12T23:26:43.117542+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/08/ec/ecd1f8cf152151a04527afe32ed4370c56ea1b532ce897592c48e5d06d93c097/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/08/ec/ecd1f8cf152151a04527afe32ed4370c56ea1b532ce897592c48e5d06d93c097/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23952,
+    "sha256": "sha256:0986759f7bb7e222b495161b116d17a7c771d6eeffa9b2498afb1660e8112f4a",
+    "normalized_content_hash": "sha256:10f3a558115e7c234da32ee720a8ec766fe3413ede838cec67116d995ec5671a"
+  },
+  "provenance": {
+    "source_item_id": "450b8825-70ae-47c2-80fd-491f42d7c601",
+    "external_id": "https://mastra.ai/articles/langgraph"
+  }
+}

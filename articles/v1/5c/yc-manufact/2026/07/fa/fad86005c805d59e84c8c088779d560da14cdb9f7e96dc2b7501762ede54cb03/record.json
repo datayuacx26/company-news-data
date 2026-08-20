@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fad86005c805d59e84c8c088779d560da14cdb9f7e96dc2b7501762ede54cb03",
+  "company": {
+    "key": "yc-manufact",
+    "name": "Manufact (formerly mcp-use)"
+  },
+  "source": {
+    "id": "yc-manufact-news-import-914a697bc101",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://manufact.com/blog/agentmail-mcp-server-case-study",
+    "canonical": "https://manufact.com/blog/agentmail-mcp-server-case-study"
+  },
+  "title": "How AgentMail handles 100k+ agent tool calls with Manufact",
+  "summary": "AgentMail runs 100,000+ MCP tool calls a week on Manufact's managed infrastructure, going from paying customer to production server in one week.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:21:12.468725+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-11T20:01:10.944355+00:00",
+  "paths": {
+    "article": "articles/v1/5c/yc-manufact/2026/07/fa/fad86005c805d59e84c8c088779d560da14cdb9f7e96dc2b7501762ede54cb03/article.md",
+    "record": "articles/v1/5c/yc-manufact/2026/07/fa/fad86005c805d59e84c8c088779d560da14cdb9f7e96dc2b7501762ede54cb03/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4829,
+    "sha256": "sha256:477c3638f2a9d1781851e44ecffcce0ef13944304e65c23302f45b3f0801bab8",
+    "normalized_content_hash": "sha256:9559bf7b554ddeba864969c4f3f549a8f418ae221c12871374bb998a94a74f50"
+  },
+  "provenance": {
+    "source_item_id": "c4f3c586-f429-4e42-a90f-353f0b2ff1c8",
+    "external_id": "https://manufact.com/blog/agentmail-mcp-server-case-study"
+  }
+}

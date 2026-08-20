@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99ea4194463f828873a005bfb711d4095d5a729ff02af0690e405abc89369a76",
+  "company": {
+    "key": "yc-miggos",
+    "name": "Miggos"
+  },
+  "source": {
+    "id": "yc-miggos-news-import-47b875555782",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.miggo.io/post/an-autonomous-agent-ran-17-600-actions-against-hugging-face-how-to-block-attacks-like-it",
+    "canonical": "https://www.miggo.io/post/an-autonomous-agent-ran-17-600-actions-against-hugging-face-how-to-block-attacks-like-it"
+  },
+  "title": "An Autonomous Agent Ran 17,600 Actions Against Hugging Face. How to Block Attacks Like It.",
+  "summary": "AI agents now execute thousands of attack attempts. Miggo identifies the critical application code path and blocks exploitation at runtime.",
+  "published_at": "2026-08-04T16:06:01.355+00:00",
+  "first_seen_at": "2026-08-10T00:40:00.987292+00:00",
+  "fetched_at": "2026-08-10T00:40:01.984910+00:00",
+  "last_updated_at": "2026-08-11T05:11:49.598832+00:00",
+  "paths": {
+    "article": "articles/v1/74/yc-miggos/2026/08/99/99ea4194463f828873a005bfb711d4095d5a729ff02af0690e405abc89369a76/article.md",
+    "record": "articles/v1/74/yc-miggos/2026/08/99/99ea4194463f828873a005bfb711d4095d5a729ff02af0690e405abc89369a76/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12611,
+    "sha256": "sha256:86db59bf830c57fbd719c4296a79d5e090434f4103c41306023d4ebf808e9e73",
+    "normalized_content_hash": "sha256:24ea7c58602ffee1d46983113613a670593cfd9c741f71164d17eb8045df7e34"
+  },
+  "provenance": {
+    "source_item_id": "c55af928-a2c6-4b60-9511-4a36be12a30b",
+    "external_id": "https://www.miggo.io/post/an-autonomous-agent-ran-17-600-actions-against-hugging-face-how-to-block-attacks-like-it"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0afd33aa168c515420308207c05f1eae794a357f57e88ac57efd07e68ea58c3e",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/mteb-evals/",
+    "canonical": "https://zeroentropy.dev/articles/mteb-evals/"
+  },
+  "title": "Beyond Binary: A New Version of the MTEB",
+  "summary": "We re-annotated 28 MTEB datasets with LLM pointwise scoring on a 0-10 scale using three independent judges. With graded relevance, the retrieval leaderboard looks meaningfully different.",
+  "published_at": "2026-03-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:17:07.377837+00:00",
+  "last_updated_at": "2026-07-28T22:17:49.198673+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/03/0a/0afd33aa168c515420308207c05f1eae794a357f57e88ac57efd07e68ea58c3e/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/03/0a/0afd33aa168c515420308207c05f1eae794a357f57e88ac57efd07e68ea58c3e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14249,
+    "sha256": "sha256:1e05d3140b48dcf8c70263da2fe433c487d9f5f21ac1fd0c26a7c2904ba653bc",
+    "normalized_content_hash": "sha256:a9c59e979a1be3e2dfe3388f896b34bde8e691f3554c0181c73cfded76c2cca9"
+  },
+  "provenance": {
+    "source_item_id": "433652ff-fdba-4ffc-9689-7feba217e3d2",
+    "external_id": "https://zeroentropy.dev/articles/mteb-evals/"
+  }
+}

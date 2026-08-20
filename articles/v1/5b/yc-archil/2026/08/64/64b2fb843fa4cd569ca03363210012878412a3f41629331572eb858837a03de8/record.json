@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64b2fb843fa4cd569ca03363210012878412a3f41629331572eb858837a03de8",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/is-s3-posix-compliant",
+    "canonical": "https://archil.com/article/is-s3-posix-compliant"
+  },
+  "title": "Is S3 POSIX compliant?",
+  "summary": "Learn what POSIX compliance means, how it differs from object storage, and why S3 is not POSIX-compliant. Covers the practical impact on application behavior, common migration pitfalls, and which cloud file storage options support true POSIX semantics for workloads that need them.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/64/64b2fb843fa4cd569ca03363210012878412a3f41629331572eb858837a03de8/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/64/64b2fb843fa4cd569ca03363210012878412a3f41629331572eb858837a03de8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8111,
+    "sha256": "sha256:26987041cad301a4fb09bd925add814f0ef21d368a050e750a9eb026da3a2004",
+    "normalized_content_hash": "sha256:3061e603fc1325c34b8690f844b913730f6bb26a471d9e0a7b34f6341401a7f4"
+  },
+  "provenance": {
+    "source_item_id": "1d9e32f2-5753-4d44-9ef7-0acebdcd4ec1",
+    "external_id": "https://archil.com/article/is-s3-posix-compliant"
+  }
+}

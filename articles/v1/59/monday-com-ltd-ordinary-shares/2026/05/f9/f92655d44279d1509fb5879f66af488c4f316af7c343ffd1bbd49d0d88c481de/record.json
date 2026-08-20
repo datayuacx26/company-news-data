@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f92655d44279d1509fb5879f66af488c4f316af7c343ffd1bbd49d0d88c481de",
+  "company": {
+    "key": "monday-com-ltd-ordinary-shares",
+    "name": "monday.com Ltd."
+  },
+  "source": {
+    "id": "monday-com-ltd-ordinary-shares-rss-78444ad48313",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.monday.com/how-we-shortened-development-feedback-loops-from-30m-to-30s/",
+    "canonical": "https://engineering.monday.com/how-we-shortened-development-feedback-loops-from-30m-to-30s/"
+  },
+  "title": "How We Shortened Development Feedback Loops From 30m to 30s",
+  "summary": "monday.com runs on 100k+ vCPUs; you cannot run that on a laptop. This physical reality created a 30-minute tax on ...",
+  "published_at": "2026-05-25T10:15:24+00:00",
+  "first_seen_at": "2026-07-20T23:22:14.841151+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-20T01:47:09.867914+00:00",
+  "paths": {
+    "article": "articles/v1/59/monday-com-ltd-ordinary-shares/2026/05/f9/f92655d44279d1509fb5879f66af488c4f316af7c343ffd1bbd49d0d88c481de/article.md",
+    "record": "articles/v1/59/monday-com-ltd-ordinary-shares/2026/05/f9/f92655d44279d1509fb5879f66af488c4f316af7c343ffd1bbd49d0d88c481de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11753,
+    "sha256": "sha256:9e6bf3575fa7307fd5fcc5ea900e18a6076a43306c31743941cde3412fed966f",
+    "normalized_content_hash": "sha256:6fa78ead7cd9ad857ac071ace68ab3644607564473c15930289037df381057f0"
+  },
+  "provenance": {
+    "source_item_id": "ddb91414-087b-406d-a03c-25aa61d6fb64",
+    "external_id": "https://engineering.monday.com/?p=12298"
+  }
+}

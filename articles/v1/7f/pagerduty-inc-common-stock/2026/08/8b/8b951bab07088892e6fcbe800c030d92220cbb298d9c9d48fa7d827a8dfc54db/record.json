@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b951bab07088892e6fcbe800c030d92220cbb298d9c9d48fa7d827a8dfc54db",
+  "company": {
+    "key": "pagerduty-inc-common-stock",
+    "name": "PagerDuty Inc."
+  },
+  "source": {
+    "id": "pagerduty-inc-common-stock-rss-6c10cddc543b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.pagerduty.com/blog/automation/get-the-context-your-alerts-are-missing-with-event-enrichment/",
+    "canonical": "https://www.pagerduty.com/blog/automation/get-the-context-your-alerts-are-missing-with-event-enrichment/"
+  },
+  "title": "Get the Context Your Alerts Are Missing with Event Enrichment by Ariel Russo",
+  "summary": "This blog post is part of PagerDuty’s ongoing series on how we’re helping customers navigate their journey towards autonomous operations. Read on to learn Event Enrichment automatically pulls context from across your systems (i.e. CMDB) directly into your events, with flexible controls for account-level defaults, service-specific overrides, and team-based access.",
+  "published_at": "2026-08-05T11:00:15+00:00",
+  "first_seen_at": "2026-08-05T13:12:01.402416+00:00",
+  "fetched_at": "2026-08-05T13:12:02.429109+00:00",
+  "last_updated_at": "2026-08-20T03:47:33.772254+00:00",
+  "paths": {
+    "article": "articles/v1/7f/pagerduty-inc-common-stock/2026/08/8b/8b951bab07088892e6fcbe800c030d92220cbb298d9c9d48fa7d827a8dfc54db/article.md",
+    "record": "articles/v1/7f/pagerduty-inc-common-stock/2026/08/8b/8b951bab07088892e6fcbe800c030d92220cbb298d9c9d48fa7d827a8dfc54db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6464,
+    "sha256": "sha256:f8ad1fdf002a734eac0d2e8f246385bad52c57d06dee546350b652d796474eba",
+    "normalized_content_hash": "sha256:4d69fe868e5aef45e9d7fc5e181b080ed2dc0a4da184fab5069dbdba5fc14c20"
+  },
+  "provenance": {
+    "source_item_id": "e19819bc-1f55-41a7-84e2-35ea97ad9336",
+    "external_id": "https://www.pagerduty.foo/?p=100883"
+  }
+}

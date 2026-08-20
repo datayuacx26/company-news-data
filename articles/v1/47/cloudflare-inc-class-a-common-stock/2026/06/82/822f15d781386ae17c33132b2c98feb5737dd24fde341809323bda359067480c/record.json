@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "822f15d781386ae17c33132b2c98feb5737dd24fde341809323bda359067480c",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/hyper-bug/",
+    "canonical": "https://blog.cloudflare.com/hyper-bug/"
+  },
+  "title": "How we found a bug in the hyper HTTP library",
+  "summary": "By rearchitecting the Images binding, we accidentally uncovered a bug that existed in the open-source hyper library across multiple major versions.",
+  "published_at": "2026-06-22T18:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:14.182345+00:00",
+  "fetched_at": "2026-07-28T20:48:25.229040+00:00",
+  "last_updated_at": "2026-07-28T20:48:41.404979+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/06/82/822f15d781386ae17c33132b2c98feb5737dd24fde341809323bda359067480c/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/06/82/822f15d781386ae17c33132b2c98feb5737dd24fde341809323bda359067480c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22423,
+    "sha256": "sha256:5b7083568dec6bca2be9791952f1e075422e714973f1074b74055dfa7ed7017d",
+    "normalized_content_hash": "sha256:8c6bf22aef9fcc7ec9bdbe29a7a6f2d39acaeeb7e100df9f4d4fc590227add09"
+  },
+  "provenance": {
+    "source_item_id": "2a7dc4e0-6673-4e4f-abc6-34d6b326107c",
+    "external_id": "5X4Vz9KDcjIBXgHIFSuJFZ"
+  }
+}

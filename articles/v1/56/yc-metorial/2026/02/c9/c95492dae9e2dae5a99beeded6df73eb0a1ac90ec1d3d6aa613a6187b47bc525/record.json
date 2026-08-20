@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c95492dae9e2dae5a99beeded6df73eb0a1ac90ec1d3d6aa613a6187b47bc525",
+  "company": {
+    "key": "yc-metorial",
+    "name": "Metorial"
+  },
+  "source": {
+    "id": "yc-metorial-news-import-9c457a3d81d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metorial.com/blog/mcp-deployment",
+    "canonical": "https://metorial.com/blog/mcp-deployment"
+  },
+  "title": "How to build and deploy a Model Context Protocol (MCP) server",
+  "summary": "The Model Context Protocol (MCP) is an open standard that’s revolutionizing how AI agents connect to external tools and data. While building a basic MCP server is straightforward, deploying, scaling, and securing it for production is a significant challenge. Metorial’s serverless MCP runtime simplifies this entire process, allowing developers to deploy robust, scalable MCP servers in just a few clicks, so they can focus on building innovative AI applications instead of managing infrastructure.",
+  "published_at": "2026-02-04T17:47:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:44.298499+00:00",
+  "fetched_at": "2026-07-28T22:21:47.229482+00:00",
+  "last_updated_at": "2026-08-19T18:53:41.634509+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-metorial/2026/02/c9/c95492dae9e2dae5a99beeded6df73eb0a1ac90ec1d3d6aa613a6187b47bc525/article.md",
+    "record": "articles/v1/56/yc-metorial/2026/02/c9/c95492dae9e2dae5a99beeded6df73eb0a1ac90ec1d3d6aa613a6187b47bc525/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12321,
+    "sha256": "sha256:079ac51a7e85f20043222fa9bbce50af39598c507c666490806284919138bc00",
+    "normalized_content_hash": "sha256:1c0b1ee6d77d911594a0f3e45ee1a6a3e8b24f797a48b1620f7db2ba26dce4bf"
+  },
+  "provenance": {
+    "source_item_id": "aa8f0c3b-a537-4d72-b6ed-973c6f7eff5c",
+    "external_id": "https://metorial.com/blog/mcp-deployment"
+  }
+}

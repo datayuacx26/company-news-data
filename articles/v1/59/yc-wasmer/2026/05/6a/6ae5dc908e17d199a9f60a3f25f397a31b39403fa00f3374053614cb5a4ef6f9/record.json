@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ae5dc908e17d199a9f60a3f25f397a31b39403fa00f3374053614cb5a4ef6f9",
+  "company": {
+    "key": "yc-wasmer",
+    "name": "Wasmer"
+  },
+  "source": {
+    "id": "yc-wasmer-news-import-0c661488008f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://wasmer.io/posts/greenlet-support-python-wasm",
+    "canonical": "https://wasmer.io/posts/greenlet-support-python-wasm"
+  },
+  "title": "Introducing Greenlet support for Python in WebAssembly",
+  "summary": "Today we are incredibly happy to announce full greenlet support for Python in WebAssembly using Wasmer. This unlocks running real-world Python backends...",
+  "published_at": "2026-05-20T13:33:00+00:00",
+  "first_seen_at": "2026-07-22T19:24:02.861490+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-08-19T19:56:55.281829+00:00",
+  "paths": {
+    "article": "articles/v1/59/yc-wasmer/2026/05/6a/6ae5dc908e17d199a9f60a3f25f397a31b39403fa00f3374053614cb5a4ef6f9/article.md",
+    "record": "articles/v1/59/yc-wasmer/2026/05/6a/6ae5dc908e17d199a9f60a3f25f397a31b39403fa00f3374053614cb5a4ef6f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9215,
+    "sha256": "sha256:83835d4db6690845bcc56f7f5f31a907e009541feb90ba6b398c49a9065c5063",
+    "normalized_content_hash": "sha256:a73c0693863b16ef831678ddaa4adc46d9c51055f27cff0c42a1cd1e7ef6da9f"
+  },
+  "provenance": {
+    "source_item_id": "4efa023e-6fde-4b0a-96df-b3aa7dbaa9b2",
+    "external_id": "https://wasmer.io/posts/greenlet-support-python-wasm"
+  }
+}

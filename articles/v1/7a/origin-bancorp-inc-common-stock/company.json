@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "origin-bancorp-inc-common-stock",
+    "name": "Origin Bancorp Inc."
+  },
+  "record_count": 10,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7a/origin-bancorp-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13351,
+        "sha256": "sha256:d0747b1722a9b94dcde9c8293224df9f1ce6ff3c94691b2f65a37ade45707dc9",
+        "newest_at": "2026-07-31T22:39:29.559647+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

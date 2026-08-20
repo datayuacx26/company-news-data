@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c9992cf0e5dddb3b3136d689530048a423a3ea1affb2f7823830a02a4e4261b",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-26fc52334fc9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/intelligence-trainer-overhaul-url-classifiers-regex-mode-and-manage-all-training-in-one-place/13377",
+    "canonical": "https://forum.newsblur.com/t/intelligence-trainer-overhaul-url-classifiers-regex-mode-and-manage-all-training-in-one-place/13377"
+  },
+  "title": "Intelligence Trainer Overhaul: URL classifiers, regex mode, and manage all training in one place",
+  "summary": "<p>The Intelligence Trainer is one of NewsBlur’s most powerful features. It lets you train on authors, tags, titles, and text to automatically sort stories into Focus, Unread, or Hidden. But until now, there were limits—you couldn’t train on URLs, regex support was something power users had been requesting for years, and managing hundreds of classifiers meant clicking through feeds one by one.</p> Today I’m launching three major improvements: URL classifiers, regex mode for power users, and a...",
+  "published_at": "2026-01-22T19:40:57+00:00",
+  "first_seen_at": "2026-07-25T16:10:33.287397+00:00",
+  "fetched_at": "2026-07-28T20:54:41.720106+00:00",
+  "last_updated_at": "2026-08-20T01:10:36.742131+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/01/4c/4c9992cf0e5dddb3b3136d689530048a423a3ea1affb2f7823830a02a4e4261b/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/01/4c/4c9992cf0e5dddb3b3136d689530048a423a3ea1affb2f7823830a02a4e4261b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12676,
+    "sha256": "sha256:c8abd8643c41c94c1b3d8f18e7d9ef8455e069e9ffebfaf80f2885701bc1483d",
+    "normalized_content_hash": "sha256:c4485d834c3061db2a1dde798df512c79d7282fe78ac030e39ddd40129a56ec6"
+  },
+  "provenance": {
+    "source_item_id": "ed8b6c68-36d3-47fd-b485-bd186933aefc",
+    "external_id": "forum.newsblur.com-topic-13377"
+  }
+}

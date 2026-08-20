@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e7e969ed12494908cbd0c2af696e6e4453e6f5bf8a0c85eb5b2de4f7f0ea32d",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/trace-id",
+    "canonical": "https://mastra.ai/articles/trace-id"
+  },
+  "title": "Trace ID explained: what it is, how it works, and when to use it",
+  "summary": "Learn what a trace ID is, how it differs from a correlation ID, and how to implement distributed tracing with OpenTelemetry in your services.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T17:31:22.495262+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-10T00:32:39.032699+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/07/3e/3e7e969ed12494908cbd0c2af696e6e4453e6f5bf8a0c85eb5b2de4f7f0ea32d/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/07/3e/3e7e969ed12494908cbd0c2af696e6e4453e6f5bf8a0c85eb5b2de4f7f0ea32d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18026,
+    "sha256": "sha256:5febf796c2f016c2ee7bb6ef659e682e4ebbe057ff293acbee543e87dc21b421",
+    "normalized_content_hash": "sha256:84ef61ee0ed1510b70f9b0da0483fd1233d44d8cc0754dc05d2efbd3a5e8930f"
+  },
+  "provenance": {
+    "source_item_id": "b4b4873e-c222-4c1a-afea-f1b465732d8f",
+    "external_id": "https://mastra.ai/articles/trace-id"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c76d0b9e4afd8b73a1cf65df3c552fa81be393ece431619770973a7f45a1cdc1",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/kubernetes-staging-environment/",
+    "canonical": "https://www.signadot.com/blog/kubernetes-staging-environment/"
+  },
+  "title": "Kubernetes Staging Environments: How to Build, Run, and Share One",
+  "summary": "How to build and run a Kubernetes staging environment: an opinionated reference architecture, a three-tier data strategy, staging SLOs, and safe sharing with test tenants.",
+  "published_at": "2026-07-17T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/07/c7/c76d0b9e4afd8b73a1cf65df3c552fa81be393ece431619770973a7f45a1cdc1/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/07/c7/c76d0b9e4afd8b73a1cf65df3c552fa81be393ece431619770973a7f45a1cdc1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13614,
+    "sha256": "sha256:e148f8f53f303d968837fc6934ac6a593021211faa00ee41101762fe33eb8374",
+    "normalized_content_hash": "sha256:8a502c184082b1c39962e91fb5a5b09331ab76fad09d809d561d7d439511d970"
+  },
+  "provenance": {
+    "source_item_id": "88b01992-0920-474e-b1ad-e07bbb421a66",
+    "external_id": "https://www.signadot.com/blog/kubernetes-staging-environment/"
+  }
+}

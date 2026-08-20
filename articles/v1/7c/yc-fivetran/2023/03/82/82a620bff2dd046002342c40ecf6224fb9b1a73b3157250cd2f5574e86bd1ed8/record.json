@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82a620bff2dd046002342c40ecf6224fb9b1a73b3157250cd2f5574e86bd1ed8",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/how-the-fivetran-approach-to-data-normalization-cuts-compute-costs",
+    "canonical": "https://www.fivetran.com/blog/how-the-fivetran-approach-to-data-normalization-cuts-compute-costs"
+  },
+  "title": "How the Fivetran approach to data normalization cuts compute costs",
+  "summary": "Fivetran normalizes your data within our own VPC to reduce your consumption of data warehouse credits, support data stack efficiency, and save you costs",
+  "published_at": "2023-03-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2023/03/82/82a620bff2dd046002342c40ecf6224fb9b1a73b3157250cd2f5574e86bd1ed8/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2023/03/82/82a620bff2dd046002342c40ecf6224fb9b1a73b3157250cd2f5574e86bd1ed8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6489,
+    "sha256": "sha256:edf22a8fbb2299cf385058150870e202b242da0d924a8576c74162c7971f04e9",
+    "normalized_content_hash": "sha256:4bb3d5bfc84c91b31fcfb4463ddc51d46fa14a64dcd265d45f83c165929cf218"
+  },
+  "provenance": {
+    "source_item_id": "9d3c1f74-0b72-4921-ac33-1e49e8b5a1f9",
+    "external_id": "https://www.fivetran.com/blog/how-the-fivetran-approach-to-data-normalization-cuts-compute-costs"
+  }
+}

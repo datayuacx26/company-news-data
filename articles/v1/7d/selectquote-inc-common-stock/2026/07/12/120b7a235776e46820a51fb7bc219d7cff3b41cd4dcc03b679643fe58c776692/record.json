@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "120b7a235776e46820a51fb7bc219d7cff3b41cd4dcc03b679643fe58c776692",
+  "company": {
+    "key": "selectquote-inc-common-stock",
+    "name": "SelectQuote Inc."
+  },
+  "source": {
+    "id": "selectquote-inc-common-stock-news-import-77a8e242c96c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.selectquote.com/newsroom/sqlocal",
+    "canonical": "https://www.selectquote.com/newsroom/sqlocal"
+  },
+  "title": "Introducing SelectQuote Local",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T23:30:55.924961+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-20T01:54:28.611394+00:00",
+  "paths": {
+    "article": "articles/v1/7d/selectquote-inc-common-stock/2026/07/12/120b7a235776e46820a51fb7bc219d7cff3b41cd4dcc03b679643fe58c776692/article.md",
+    "record": "articles/v1/7d/selectquote-inc-common-stock/2026/07/12/120b7a235776e46820a51fb7bc219d7cff3b41cd4dcc03b679643fe58c776692/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2467,
+    "sha256": "sha256:6d9d6034537def752ff737b00ccd89110b6c51f9367a812aa763d625c229e090",
+    "normalized_content_hash": "sha256:6f53c78aa08b10441b05d9bce0be35da9b629c591dcc4ffd78e7053f37ec228b"
+  },
+  "provenance": {
+    "source_item_id": "14ccb064-1bad-4371-b64f-9d709f546b0d",
+    "external_id": "https://www.selectquote.com/newsroom/sqlocal"
+  }
+}

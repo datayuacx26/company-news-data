@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "47acb91f3b4541c89837f122c298c0fa0cda6bec52054b0bdf8cb7273dedd62c",
+  "company": {
+    "key": "yc-redbrick-ai",
+    "name": "RedBrick AI"
+  },
+  "source": {
+    "id": "yc-redbrick-ai-news-import-4b943afcd495",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.redbrickai.com/blog/2024-01-23-necrosis-segmentation",
+    "canonical": "https://www.redbrickai.com/blog/2024-01-23-necrosis-segmentation"
+  },
+  "title": "Guide: Volumetric Segmentation of Necrosis and Edema",
+  "summary": "A detailed walkthrough on segmenting high-grade gliomas using RedBrick AI. Learn how to use multiple MRI sequences (T1W, T1CE, T2W, FLAIR) to accurately segment necrosis and edema, with advanced techniques for contour tools and overlapping segmentations.",
+  "published_at": "2024-01-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:23:16.380780+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T20:13:04.727240+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-redbrick-ai/2024/01/47/47acb91f3b4541c89837f122c298c0fa0cda6bec52054b0bdf8cb7273dedd62c/article.md",
+    "record": "articles/v1/45/yc-redbrick-ai/2024/01/47/47acb91f3b4541c89837f122c298c0fa0cda6bec52054b0bdf8cb7273dedd62c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13395,
+    "sha256": "sha256:451e4f6891d5565f1f8b66ec68e1d68bfec6db0fd3b9f95229e74367f5472e84",
+    "normalized_content_hash": "sha256:7864f0d76104673a814911ee0c6048258f4cfd5d418dade9aa5714bddeab9298"
+  },
+  "provenance": {
+    "source_item_id": "62540773-55af-4692-a886-e7df3a0fd5fe",
+    "external_id": "https://www.redbrickai.com/blog/2024-01-23-necrosis-segmentation"
+  }
+}

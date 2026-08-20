@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "record_count": 218,
+  "first_published_at": "2022-05-12T00:00:00+00:00",
+  "last_published_at": "2026-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 8
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 9
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 5,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4b/yc-depot/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52658,
+        "sha256": "sha256:e33285835f94e3566faaa550dc19adb4a5ee95bc04655a8fc3dea1ee92004efd",
+        "newest_at": "2026-08-17T00:00:00+00:00",
+        "oldest_at": "2026-01-01T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/4b/yc-depot/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 53111,
+        "sha256": "sha256:ec692d4958d88a2b571b5e8f60edf125a44c4e9e6a873cd85b58e25a83b2fb4e",
+        "newest_at": "2025-12-22T00:00:00+00:00",
+        "oldest_at": "2025-03-13T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/4b/yc-depot/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49410,
+        "sha256": "sha256:5d12ea1f0c6b2db11119fabe1baab221e91bcc63236f73c4bbbc6a19d0424cb5",
+        "newest_at": "2025-03-11T00:00:00+00:00",
+        "oldest_at": "2024-05-23T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/4b/yc-depot/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49448,
+        "sha256": "sha256:620df5f23bfc6dfa8f3356fb2a52d86124351180ae45ba0b27f09049f2dbcb2d",
+        "newest_at": "2024-05-20T00:00:00+00:00",
+        "oldest_at": "2023-05-30T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/4b/yc-depot/index/pages/000005.json",
+        "record_count": 18,
+        "byte_count": 17437,
+        "sha256": "sha256:87db19b96b72efdc52bddfb3e88ef5ebace8266b31df76cc57959b8ee0624170",
+        "newest_at": "2023-05-22T00:00:00+00:00",
+        "oldest_at": "2022-05-12T00:00:00+00:00"
+      }
+    ]
+  }
+}

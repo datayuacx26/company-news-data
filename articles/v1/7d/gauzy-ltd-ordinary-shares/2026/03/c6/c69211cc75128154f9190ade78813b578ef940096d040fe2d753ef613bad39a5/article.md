@@ -1,0 +1,52 @@
+---
+schema_version: "1.0.0"
+document_id: "c69211cc75128154f9190ade78813b578ef940096d040fe2d753ef613bad39a5"
+company_key: "gauzy-ltd-ordinary-shares"
+company: "Gauzy Ltd."
+source_id: "gauzy-ltd-ordinary-shares-news-import-2f4be7df3448"
+canonical_url: "https://www.globenewswire.com/news-release/2026/03/10/3252697/0/en/gauzy-announces-initiation-of-a-call-for-public-tenders-for-buyers-or-investors.html"
+published_at: "2026-03-10T12:00:00+00:00"
+first_seen_at: "2026-07-26T14:44:41.457346+00:00"
+fetched_at: "2026-07-28T22:18:56.741769+00:00"
+content_hash: "sha256:19ab4a207fbc4b4c10a66c301ce0707262b8d6b20ee237d4d4af129796380cf5"
+---
+
+# Gauzy Announces Initiation of a Call for Public Tenders for Buyers or Investors
+
+TEL AVIV, Israel, March 10, 2026 (GLOBE NEWSWIRE) -- Gauzy Ltd. (Nasdaq: GAUZ) (“Gauzy” or the “Company”), a global leader in vision and light control technologies, today announces the initiation of a call for public tenders (buyers or investors) as part of the Company’s previously announced court-supervised reorganization proceedings ( *redressement judiciaire* ) opened on November 13, 2025 involving three of the Company’s French subsidiaries: Gauzy SAS, Safety Tech, and Vision Systems.
+
+
+A notice was published in the digital and print editions of the French newspaper *Les Echos* on March 6, 2026. Interested parties may request access to an electronic data room, subject to customary confidentiality undertakings and completion of access formalities. Interested parties may contact the judicial administrators at: fhbx-gauzy@fhbx.eu; e.bauland@bcm-aj.com; e.ribon@bcm-aj.com.
+
+
+The operations of Gauzy SAS, Safety Tech, and Vision Systems continue during the observation period of the ongoing court-supervised reorganization proceedings ( *redressement judiciaire* ) opened on November 13, 2025. The call for tenders does not exclude the possibility for Gauzy SAS, Safety Tech, and Vision Systems to submit continuation plans. Management continues to explore all options in the best interests of these companies and the group.
+
+
+Gauzy also announces the appointment of new members to its Board of Directors as part of ongoing strategic initiatives to strengthen governance and support long-term growth. The newly appointed Board members, Shlomo Bibas, Michael Martin and Renah Persofsky, bring extensive experience across global technology, capital markets, and corporate governance.
+
+
+Mr. Bibas brings over three decades of experience as an executive in the technology sector and is an accredited corporate director with over 17 years of experience serving on public and private boards. He previously served as a Partner at Accenture and held Chief Information Officer and Chief Technology Officer roles at global companies including Woodbridge Group, Celestica, and Apotex. Mr. Martin is Co-Founder and Chief Operating Officer of Tiberius Aerospace and previously served as a Managing Director at Walleye Capital, bringing decades of experience in capital markets and institutional investing. Ms. Persofsky serves as Executive Chair of Green Gruff Inc. and Vice-Chair (Lead Director) of Tilray Brands Inc., bringing over four decades of leadership experience across financial services, consumer products, and emerging technology sectors.
+
+
+The Company believes their expertise will support the next phase of development and strategic positioning.
+
+
+**Cautionary Statement Regarding Forward-Looking Statements**
+
+
+This press release contains forward-looking statements. Forward-looking statements contained in this press release include, but are not limited to, statements regarding Gauzy’s strategic and business plans, technology, relationships, objectives and expectations for its business, growth, the impact of trends on and interest in its business, intellectual property, products and its future results, operations and financial performance and condition and may be identified by the use of words such as “may,” “seek,” “will,” “consider,” “likely,” “assume,” “estimate,” “expect,” “anticipate,” “intend,” “believe,” “do not believe,” “aim,” “predict,” “plan,” “project,” “continue,” “potential,” “guidance,” “objective,” “outlook,” “trends,” “future,” “could,” “would,” “should,” “target,” “on track” or their negatives or variations, and similar terminology and words of similar import, generally involve future or forward-looking statements. All statements other than statements of historical fact are forward-looking statements. Forward-looking statements reflect Gauzy’s current views, plans, or expectations with respect to future events and financial performance. They are inherently subject to significant business, economic, competitive, and other risks, uncertainties, and contingencies. Forward-looking statements are based on Gauzy’s current expectations and are subject to inherent uncertainties, risks and assumptions that are difficult to predict including, without limitation, the following: statements regarding the French court-supervised reorganization proceedings (redressement judiciaire), the call for public tenders and related process, and the timing and potential outcomes of that process; Gauzy’s ability to meet stock exchange continued listing standards and remain listed on Nasdaq; Gauzy’s ability to secure funding in order to maintain and support its operations; the outcome of the insolvency proceedings commenced in France and the overall impact they may have on the Company’s operations and financial condition; Gauzy invests significant effort and capital seeking validation of its light and vision control products with OEMs and Tier 1 suppliers, mainly in the aeronautics and automobile markets, and there can be no assurance that it will win production models, which could adversely affect its future business, results of operations and financial condition; failure to make competitive technological advances will put Gauzy at a disadvantage and may lead to a negative operational and financial outcome; Gauzy being an early growth-stage company with a history of losses and its anticipation that it expects to continue to incur significant losses for the foreseeable future; its operating results and financial condition have fluctuated in the past and may fluctuate in the future; it is exposed to high repair and replacement costs; it may not be able to accurately estimate the future supply and demand for its light and vision control products, which could result in a variety of inefficiencies in its business and hinder its ability to generate revenue; if it fails to accurately predict its manufacturing requirements, it could incur additional costs or experience delays; the estimates and forecasts of market opportunity and market growth it provides may prove to be inaccurate, and it cannot assure that its business will grow at similar rates, or at all; it may be unable to adequately control the capital expenditures and costs associated with its business and operations; it may need to raise additional capital before it can expect to become profitable from sales of its light and vision control products, which such additional capital may not be available on acceptable terms, or at all, and failure to obtain this necessary capital when needed may force it to delay, limit or terminate its product development efforts or other operations; shortages in supply, price increases or deviations in the quality of the raw materials used to manufacture its products could adversely affect its sales and operating results; its business, financial condition and results of operations could be adversely affected by disruptions in the global economy caused by the ongoing conflict between Russia and Ukraine; it is subject to, and must remain in compliance with, numerous laws and governmental regulations across various countries concerning the manufacturing, use, distribution and sale of its light and vision control products, and some of its customers also require that it complies with other unique requirements relating to these matters; if it is unable to obtain, maintain and protect effective intellectual property rights for its products throughout the world, it may not be able to compete effectively in the markets in which it operates; the market price of its ordinary shares may be volatile or may decline steeply or suddenly regardless of its operating performance, and it may not be able to meet investor or analyst expectations; its indebtedness could adversely affect its ability to raise additional capital to fund operations, limit its ability to react to changes in the economy or its industry and prevent it from meeting its financial obligations; it has limited operating experience as a publicly traded company in the United States; conditions in Israel could materially and adversely affect its business; and any other risks and uncertainties, including, but not limited to, the risks and uncertainties in the Company’s reports filed from time to time with the SEC, including, but not limited to, the risks detailed in the Company’s Annual Report on Form 20-F filed with the SEC on March 11, 2025. Further, certain forward-looking statements are based on assumptions as to future events that may not prove to be accurate. The inclusion of forward-looking statements in this or any other communication should not be considered as a representation by Gauzy or any other person that current plans or expectations will be achieved. Forward-looking statements speak only as of the date on which they are made, and Gauzy undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future developments, or otherwise, except as otherwise required by law.
+
+
+**About Gauzy**
+
+
+Gauzy Ltd. is a fully-integrated light and vision control company, focused on the research, development, manufacturing, and marketing of vision and light control technologies that are developed to support safe, sustainable, comfortable, and agile user experiences across various industries. Headquartered in Tel Aviv, Israel, the company has additional subsidiaries and entities based in Germany, France, the United States, Canada, China, Singapore, and the United Arab Emirates. Gauzy serves leading brands across aeronautics, automotive, and architecture in over 60 countries through direct fulfillment and a certified and trained distribution channel.
+
+
+**Contacts**
+
+
+Media:
+Amanda Yevdaev, EVP Marketing
+Gauzy Ltd.
+PR@gauzy.com

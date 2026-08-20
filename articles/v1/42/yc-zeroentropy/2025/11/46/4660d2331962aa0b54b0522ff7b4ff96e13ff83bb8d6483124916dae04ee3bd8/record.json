@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4660d2331962aa0b54b0522ff7b4ff96e13ff83bb8d6483124916dae04ee3bd8",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/zerank-2-advanced-instruction-following-multilingual-reranker/",
+    "canonical": "https://zeroentropy.dev/articles/zerank-2-advanced-instruction-following-multilingual-reranker/"
+  },
+  "title": "Introducing zerank-2: The Most Accurate Multilingual Instruction-Following Reranker",
+  "summary": "zerank-2 is ZeroEntropy's latest multilingual cross-encoder model, tuned for instruction-following, and score calibration.",
+  "published_at": "2025-11-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-07-28T21:33:45.656268+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2025/11/46/4660d2331962aa0b54b0522ff7b4ff96e13ff83bb8d6483124916dae04ee3bd8/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2025/11/46/4660d2331962aa0b54b0522ff7b4ff96e13ff83bb8d6483124916dae04ee3bd8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9324,
+    "sha256": "sha256:d0620538a4bfacff1d5ca8621f1f8bbae2594abcdd3a1b2bc75c2d2754cb6dd7",
+    "normalized_content_hash": "sha256:59e18aa612a7eb32da19045f6b87a6d4937af64751129c713795d14c2c1fd6bc"
+  },
+  "provenance": {
+    "source_item_id": "e796b4a8-95d8-4fc8-aa76-0d84e1b1e354",
+    "external_id": "https://zeroentropy.dev/articles/zerank-2-advanced-instruction-following-multilingual-reranker/"
+  }
+}

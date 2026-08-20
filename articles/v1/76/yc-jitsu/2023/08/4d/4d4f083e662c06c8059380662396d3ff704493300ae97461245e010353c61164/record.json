@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d4f083e662c06c8059380662396d3ff704493300ae97461245e010353c61164",
+  "company": {
+    "key": "yc-jitsu",
+    "name": "Jitsu"
+  },
+  "source": {
+    "id": "yc-jitsu-news-import-65f0e2b767a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jitsu.com/blog/data-warehouse-first",
+    "canonical": "https://jitsu.com/blog/data-warehouse-first"
+  },
+  "title": "What is warehouse-first architecture?",
+  "summary": "Learn what warehouse-first architecture means, why modern data teams use the warehouse as their source of truth, and how Jitsu fits the pattern.",
+  "published_at": "2023-08-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:57:29.784311+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T23:59:51.053146+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-jitsu/2023/08/4d/4d4f083e662c06c8059380662396d3ff704493300ae97461245e010353c61164/article.md",
+    "record": "articles/v1/76/yc-jitsu/2023/08/4d/4d4f083e662c06c8059380662396d3ff704493300ae97461245e010353c61164/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8490,
+    "sha256": "sha256:f6b68a51dd3e7f2a8bdad70527f9ac147bf542a349bf16e61726a9972c6435e4",
+    "normalized_content_hash": "sha256:f1628dd17b02779e63d5f25ded3d10d72880ee5497eea532631fda8b8c192719"
+  },
+  "provenance": {
+    "source_item_id": "ab4c3166-41ee-4db1-af33-5ffe7e820298",
+    "external_id": "https://jitsu.com/blog/data-warehouse-first"
+  }
+}

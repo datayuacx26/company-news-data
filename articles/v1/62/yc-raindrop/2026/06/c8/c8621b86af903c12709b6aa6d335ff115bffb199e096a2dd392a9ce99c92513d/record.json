@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8621b86af903c12709b6aa6d335ff115bffb199e096a2dd392a9ce99c92513d",
+  "company": {
+    "key": "yc-raindrop",
+    "name": "Raindrop"
+  },
+  "source": {
+    "id": "yc-raindrop-news-import-6a6050810bab",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.raindrop.ai/blog/introducing-raindrop-2/",
+    "canonical": "https://www.raindrop.ai/blog/introducing-raindrop-2/"
+  },
+  "title": "Introducing Raindrop 2.0: Self-Healing Agents",
+  "summary": "When your agent fails in production, Raindrop detects it, your coding agent fixes it, and the failure becomes an eval so it never happens again.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:48:02.200992+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T20:09:11.852063+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-raindrop/2026/06/c8/c8621b86af903c12709b6aa6d335ff115bffb199e096a2dd392a9ce99c92513d/article.md",
+    "record": "articles/v1/62/yc-raindrop/2026/06/c8/c8621b86af903c12709b6aa6d335ff115bffb199e096a2dd392a9ce99c92513d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5041,
+    "sha256": "sha256:b8239f589ac8519ec83e3bc66007e2b39837e546df1a059d017757507775c90a",
+    "normalized_content_hash": "sha256:0d281c2e8d5076413b48c7a7d0c49d0c2154296edac50cea7f4c74fe7962912c"
+  },
+  "provenance": {
+    "source_item_id": "e0f12b48-03d1-4a02-aff1-6f4a03210e0e",
+    "external_id": "https://www.raindrop.ai/blog/introducing-raindrop-2/"
+  }
+}

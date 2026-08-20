@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ac9e6c7b4e8bf715d3cf62b6508ccede4506bc0db0d6ee60cf7c27be625aba8",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/why-recurring-payment-tools-fail-at-cash-application-and-reconciliation-61e1",
+    "canonical": "https://blixo.com/blog/en/post/why-recurring-payment-tools-fail-at-cash-application-and-reconciliation-61e1/"
+  },
+  "title": "Why Recurring Payment Tools Fail at Cash Application and Reconciliation",
+  "summary": "Why Recurring Payment Tools Fail at Cash Application and Reconciliation Key Takeaways Recurring payment tools charge cards on schedule but leave deposit-to-invoice matching manual, where reconciliation actually breaks down. Around 44% of organizations still run cash application with little or no automation. Only 13% of businesses get paid on time, and disorganized cash application is a major contributor. The tools that work connect subscription billing to cash application and reconciliation in one flow, rather than treating them as separate jobs. Blixo pairs revenue recognition with an AI matching engine and auto-reconciles across bank and ERP feeds, which works for complex or mixed payment behaviors. Payment gateways handle recurring charges only, offering no cash application or reconciliation. They’re built for checkout, not accounts receivable. Legacy AR and ERP add-ons deliver strong but rigid reconciliation while demanding weeks of high-effort setup, best supported by large enterprise IT teams. Quick Summary Most recurring payment tools handle the charge but drop the ball after the money lands. They fire off an automatic subscription billing run, then leave you to match deposits to invoices by hand. That gap is where reconciliation breaks down, forcing finance teams to spend hours on manual data entry.",
+  "published_at": "2026-08-12T04:53:07+00:00",
+  "first_seen_at": "2026-08-16T22:27:10.936129+00:00",
+  "fetched_at": "2026-08-16T22:27:13.129229+00:00",
+  "last_updated_at": "2026-08-19T18:35:31.337817+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/08/4a/4ac9e6c7b4e8bf715d3cf62b6508ccede4506bc0db0d6ee60cf7c27be625aba8/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/08/4a/4ac9e6c7b4e8bf715d3cf62b6508ccede4506bc0db0d6ee60cf7c27be625aba8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 34513,
+    "sha256": "sha256:1137f95333fadca790fd63ed0560a0739521f5c395daf9cedd18bf676a77e6d8",
+    "normalized_content_hash": "sha256:ce0b5f9f55dbe6d6ea3392949db2fcc9d3aef4bd50c03fb6f8a32793a625d0f1"
+  },
+  "provenance": {
+    "source_item_id": "a0e46952-3df0-4a50-92fd-c0b264b5b68d",
+    "external_id": "https://blixo.com/blog/en/post/why-recurring-payment-tools-fail-at-cash-application-and-reconciliation-61e1/"
+  }
+}

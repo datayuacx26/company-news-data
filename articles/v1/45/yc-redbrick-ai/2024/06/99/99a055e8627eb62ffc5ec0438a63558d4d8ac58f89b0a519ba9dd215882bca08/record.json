@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99a055e8627eb62ffc5ec0438a63558d4d8ac58f89b0a519ba9dd215882bca08",
+  "company": {
+    "key": "yc-redbrick-ai",
+    "name": "RedBrick AI"
+  },
+  "source": {
+    "id": "yc-redbrick-ai-news-import-4b943afcd495",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.redbrickai.com/blog/2024-06-10-ct-segmentator",
+    "canonical": "https://www.redbrickai.com/blog/2024-06-10-ct-segmentator"
+  },
+  "title": "Automated Segmentation of Healthy Abdominal Organs Using CT Segmentator",
+  "summary": "Learn how to leverage CT Segmentator for automated segmentation of 117 anatomical structures in CT scans. This guide covers the setup process, taxonomy creation, project configuration, and automated segmentation workflow using the CHAOS dataset for healthy abdominal organs.",
+  "published_at": "2024-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:23:16.380780+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-19T20:13:04.727240+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-redbrick-ai/2024/06/99/99a055e8627eb62ffc5ec0438a63558d4d8ac58f89b0a519ba9dd215882bca08/article.md",
+    "record": "articles/v1/45/yc-redbrick-ai/2024/06/99/99a055e8627eb62ffc5ec0438a63558d4d8ac58f89b0a519ba9dd215882bca08/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4638,
+    "sha256": "sha256:a9ab3097bc55d7bba4ec8abfcac67b158bf41d7676d58e4fe6823b361b5f953b",
+    "normalized_content_hash": "sha256:9884ddf3a7e8f7f6cda38fc7b12e675f591d28cad9c52d472aa3985f89266843"
+  },
+  "provenance": {
+    "source_item_id": "9eab12f7-2f3b-4a85-8592-85f32f973c34",
+    "external_id": "https://www.redbrickai.com/blog/2024-06-10-ct-segmentator"
+  }
+}

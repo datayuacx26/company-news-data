@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "452147d6ff33e923b455cf74f12d83c338f58030759821c22c15d7d80719906c",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/zembed-1-vs-harrier/",
+    "canonical": "https://zeroentropy.dev/articles/zembed-1-vs-harrier/"
+  },
+  "title": "harrier-27b: Can 27B Parameters Beat zembed-1?",
+  "summary": "A head-to-head evaluation of ZeroEntropy's zembed-1 against all three Harrier embedding models across 28 diverse datasets, using graded LLM relevance judgments.",
+  "published_at": "2026-04-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:15:58.980681+00:00",
+  "last_updated_at": "2026-07-28T22:17:57.009770+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/04/45/452147d6ff33e923b455cf74f12d83c338f58030759821c22c15d7d80719906c/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/04/45/452147d6ff33e923b455cf74f12d83c338f58030759821c22c15d7d80719906c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11512,
+    "sha256": "sha256:056c3ad770653d50939ca0c73990275f1f020dc3dbd343b1676a087d255286a7",
+    "normalized_content_hash": "sha256:9a42a312b274961ed67ed1e1177d58c75538ef2cb05f24b1bf2f66fc463e1ca7"
+  },
+  "provenance": {
+    "source_item_id": "51b38d34-3cf3-410a-8a8e-db6e27723a3b",
+    "external_id": "https://zeroentropy.dev/articles/zembed-1-vs-harrier/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "673afa51d6c95423c73bf6e48b43f2f7bfc5d8ac5f9053920a8d4ee806e47cf9",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/nvidia-spark",
+    "canonical": "https://ollama.com/blog/nvidia-spark"
+  },
+  "title": "NVIDIA DGX Spark",
+  "summary": "The latest NVIDIA DGX Spark is here! Ollama has partnered with NVIDIA to ensure it runs fast and efficiently out-of-the-box.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:08:30.130278+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-10T08:36:40.939636+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/67/673afa51d6c95423c73bf6e48b43f2f7bfc5d8ac5f9053920a8d4ee806e47cf9/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/67/673afa51d6c95423c73bf6e48b43f2f7bfc5d8ac5f9053920a8d4ee806e47cf9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1550,
+    "sha256": "sha256:e80eab0bc077256b6c37df43d682d7d91e73a0c20f23174ce28997a68363fefe",
+    "normalized_content_hash": "sha256:63537942d8eae7ab6b66c2656c5096fd873fe6b3fbd4283e4019e6fcaefb2ca7"
+  },
+  "provenance": {
+    "source_item_id": "2d97c5eb-0fdc-4bdd-8681-7ccf3baefc3c",
+    "external_id": "https://ollama.com/blog/nvidia-spark"
+  }
+}

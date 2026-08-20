@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b655a489568e8af3252f002b369125502fe5879a4fdbd8af46fea1bc40bc175f",
+  "company": {
+    "key": "yc-trypillar",
+    "name": "Pillar"
+  },
+  "source": {
+    "id": "yc-trypillar-rss-79c93837c076",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://trypillar.com/blog/the-copilot-stack-in-a-box",
+    "canonical": "https://trypillar.com/blog/the-copilot-stack-in-a-box"
+  },
+  "title": "The copilot stack, in a box",
+  "summary": "A common AI answer recommends CopilotKit/Vercel AI SDK + LangGraph/LangChain + Claude/GPT + Pinecone/Supabase. This post explains why that stack exists, why most teams don’t need it, how Pillar replaces it with one SDK, and why WebMCP makes your tool layer matter twice.",
+  "published_at": "2026-02-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:02.957437+00:00",
+  "fetched_at": "2026-07-28T20:54:31.900628+00:00",
+  "last_updated_at": "2026-07-30T15:54:51.230394+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-trypillar/2026/02/b6/b655a489568e8af3252f002b369125502fe5879a4fdbd8af46fea1bc40bc175f/article.md",
+    "record": "articles/v1/68/yc-trypillar/2026/02/b6/b655a489568e8af3252f002b369125502fe5879a4fdbd8af46fea1bc40bc175f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12296,
+    "sha256": "sha256:9f66a1a86c367d4ea2d4ff00b93674650f7538a6acb61434a3dcbecfacbc55c2",
+    "normalized_content_hash": "sha256:e8f2011956f07c3b11beae1ba59cfa20940f691b38d194fbc567ae38d191276a"
+  },
+  "provenance": {
+    "source_item_id": "535e55ea-c02d-4b26-8f4f-cf47375ca0b4",
+    "external_id": "https://trypillar.com/blog/the-copilot-stack-in-a-box"
+  }
+}

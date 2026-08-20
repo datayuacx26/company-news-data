@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "919fc86704a9f77d7ff5bbc0befb98180a6fad33e49d1c7c9a959b5dbfec91eb",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc."
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/netflix-premieres-go-team-on-september-11",
+    "canonical": "https://about.netflix.com/news/netflix-premieres-go-team-on-september-11"
+  },
+  "title": "Netflix Premieres 'Go Team!' on September 11",
+  "summary": "Who said team building was meant to bring the team together?",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:38:38.142383+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-29T00:25:10.965612+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/07/91/919fc86704a9f77d7ff5bbc0befb98180a6fad33e49d1c7c9a959b5dbfec91eb/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/07/91/919fc86704a9f77d7ff5bbc0befb98180a6fad33e49d1c7c9a959b5dbfec91eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3130,
+    "sha256": "sha256:d8d5ff933c497328a82a9a2ebe2d496d27298b297b78ac2bdca60a20a64083cf",
+    "normalized_content_hash": "sha256:7a1f5e09a67303dd3fba53a082bcd25d44eb49eef0ed1b2432cb1d22124fde3c"
+  },
+  "provenance": {
+    "source_item_id": "550bb369-c516-4ac0-a209-1c028bc6de00",
+    "external_id": "https://about.netflix.com/news/netflix-premieres-go-team-on-september-11"
+  }
+}

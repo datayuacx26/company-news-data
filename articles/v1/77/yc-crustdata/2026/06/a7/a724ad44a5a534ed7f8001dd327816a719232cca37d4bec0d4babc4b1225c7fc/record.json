@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a724ad44a5a534ed7f8001dd327816a719232cca37d4bec0d4babc4b1225c7fc",
+  "company": {
+    "key": "yc-crustdata",
+    "name": "Crustdata"
+  },
+  "source": {
+    "id": "yc-crustdata-news-import-584593102268",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://crustdata.com/blog/enrich-candidate-from-github-people-api",
+    "canonical": "https://crustdata.com/blog/enrich-candidate-from-github-people-api"
+  },
+  "title": "How to Enrich a Candidate From Their GitHub Handle With a People API",
+  "summary": "How to turn a GitHub handle into a structured candidate record with a people API, resolve it to the right person, and pull repos, languages, and recent activity.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T17:36:10.857018+00:00",
+  "fetched_at": "2026-07-28T21:23:18.688239+00:00",
+  "last_updated_at": "2026-08-20T01:14:20.939993+00:00",
+  "paths": {
+    "article": "articles/v1/77/yc-crustdata/2026/06/a7/a724ad44a5a534ed7f8001dd327816a719232cca37d4bec0d4babc4b1225c7fc/article.md",
+    "record": "articles/v1/77/yc-crustdata/2026/06/a7/a724ad44a5a534ed7f8001dd327816a719232cca37d4bec0d4babc4b1225c7fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 847,
+    "sha256": "sha256:62331d4a880476d7c29ce43bbd6ba71a3dfc0fe3441208528f6d991b68a9e620",
+    "normalized_content_hash": "sha256:a5599543f299e47d4baed0862750dda0ad4fa60d311fb52543e161ebab1852ec"
+  },
+  "provenance": {
+    "source_item_id": "bd34d0f9-2a7a-4a2e-af48-1bd7e9045692",
+    "external_id": "https://crustdata.com/blog/enrich-candidate-from-github-people-api"
+  }
+}

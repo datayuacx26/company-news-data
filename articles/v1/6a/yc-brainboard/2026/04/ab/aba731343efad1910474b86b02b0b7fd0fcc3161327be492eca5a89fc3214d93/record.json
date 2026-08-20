@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aba731343efad1910474b86b02b0b7fd0fcc3161327be492eca5a89fc3214d93",
+  "company": {
+    "key": "yc-brainboard",
+    "name": "Brainboard"
+  },
+  "source": {
+    "id": "yc-brainboard-news-import-c1cb64b4ba70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brainboard.co/blog/what-is-a-kubernetes-hpa",
+    "canonical": "https://www.brainboard.co/blog/what-is-a-kubernetes-hpa"
+  },
+  "title": "What is a Kubernetes HPA?",
+  "summary": "Learn what Kubernetes HPA is, how it works, and how to scale workloads automatically based on metrics like CPU and memory usage.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T04:03:09.323194+00:00",
+  "fetched_at": "2026-07-28T22:15:57.305389+00:00",
+  "last_updated_at": "2026-08-19T23:46:43.687866+00:00",
+  "paths": {
+    "article": "articles/v1/6a/yc-brainboard/2026/04/ab/aba731343efad1910474b86b02b0b7fd0fcc3161327be492eca5a89fc3214d93/article.md",
+    "record": "articles/v1/6a/yc-brainboard/2026/04/ab/aba731343efad1910474b86b02b0b7fd0fcc3161327be492eca5a89fc3214d93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10085,
+    "sha256": "sha256:91dc2d103729d8853e2af74d3d3e9c61a7352a1c6b9023207c2230c8b2ddcc61",
+    "normalized_content_hash": "sha256:4a9102839c9b972de8474ae1bc7ed7d8ae1beb5c0c8040cc8ef94cd9d3a51526"
+  },
+  "provenance": {
+    "source_item_id": "dd8a2772-2f32-40c3-8e4d-672841cd2718",
+    "external_id": "https://www.brainboard.co/blog/what-is-a-kubernetes-hpa"
+  }
+}

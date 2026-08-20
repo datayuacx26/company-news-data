@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0356d46cec19209267c38e16af87ef1caf67bb6e93e103737c8d214c7c29c949",
+  "company": {
+    "key": "yc-apollo",
+    "name": "Apollo"
+  },
+  "source": {
+    "id": "yc-apollo-rss-acdf707d284a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs",
+    "canonical": "https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs"
+  },
+  "title": "How We Taught an AI to Nitpick Docs",
+  "summary": "Learn how Apollo's docs team built an AI-powered style guide reviewer that runs on every commit — and the three things that made it actually work: restructuring the style guide as a pattern library, integrating results directly into GitHub, and optimizing for speed and cost with caching, line-level review, and parallelism.",
+  "published_at": "2026-03-16T12:33:22+00:00",
+  "first_seen_at": "2026-07-25T01:09:11.312803+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-08-20T01:33:04.390415+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-apollo/2026/03/03/0356d46cec19209267c38e16af87ef1caf67bb6e93e103737c8d214c7c29c949/article.md",
+    "record": "articles/v1/48/yc-apollo/2026/03/03/0356d46cec19209267c38e16af87ef1caf67bb6e93e103737c8d214c7c29c949/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20160,
+    "sha256": "sha256:95fd626d9c09ca1d312d9bbd7f87e2634efbe4d97d73e395ceb40647efe48518",
+    "normalized_content_hash": "sha256:b0247ddd452bd78c92e60cf7e4eead8206a2367adbc5b3d4ac1907ce098937a7"
+  },
+  "provenance": {
+    "source_item_id": "b9ecac02-97d6-4437-83bc-428df8f1c112",
+    "external_id": "https://www.apollographql.com/blog/how-we-taught-an-ai-to-nitpick-docs"
+  }
+}

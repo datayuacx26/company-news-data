@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c7471509b3fe05be54b88db9876bc24431160769a156349da6243cae6bc44ac",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/our-design-for-ephemeral-resources/",
+    "canonical": "https://www.signadot.com/blog/our-design-for-ephemeral-resources/"
+  },
+  "title": "Designing a new Framework for Ephemeral Resources",
+  "summary": "Explore Signadot's innovative framework for ephemeral resources, which introduces a robust hooking system through the concept of ObjectLifecycleMethods. The post also discusses potential future extensions, such as integration with webhooks and Kubernetes native objects.",
+  "published_at": "2023-05-05T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/05/9c/9c7471509b3fe05be54b88db9876bc24431160769a156349da6243cae6bc44ac/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/05/9c/9c7471509b3fe05be54b88db9876bc24431160769a156349da6243cae6bc44ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14072,
+    "sha256": "sha256:fff66c94c7acdde0ead56ae4035ccfa5fdb51d782ee1b074897eab6260156cc7",
+    "normalized_content_hash": "sha256:90d53b9d84fb7846187c9e0f0d03935b564a7d5adf625970c527861be2488a0d"
+  },
+  "provenance": {
+    "source_item_id": "c9be688f-199e-4d93-8818-76d8c1265d2f",
+    "external_id": "https://www.signadot.com/blog/our-design-for-ephemeral-resources/"
+  }
+}

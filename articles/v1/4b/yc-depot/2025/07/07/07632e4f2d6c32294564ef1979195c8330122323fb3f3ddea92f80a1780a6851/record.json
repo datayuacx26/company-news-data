@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07632e4f2d6c32294564ef1979195c8330122323fb3f3ddea92f80a1780a6851",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/guide-to-debugging-github-actions",
+    "canonical": "https://depot.dev/blog/guide-to-debugging-github-actions"
+  },
+  "title": "A practical guide to debugging GitHub Actions",
+  "summary": "GitHub Actions are great when they just work, but a single failing job can bring everything to a halt. Sometimes the error is obvious, other times it feels like the runner is failing for reasons that have nothing to do with your code. This guide walks through practical ways to debug those failures so you can get builds running smoothly again.",
+  "published_at": "2025-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/07/07/07632e4f2d6c32294564ef1979195c8330122323fb3f3ddea92f80a1780a6851/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/07/07/07632e4f2d6c32294564ef1979195c8330122323fb3f3ddea92f80a1780a6851/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16422,
+    "sha256": "sha256:927eaec7370e72eb43ae8c717b1aab9a1a13a0a550ed34999b7d716abd2d98f3",
+    "normalized_content_hash": "sha256:48c43e3d261bdea3e5f5cec0fde04cb18b748e03079a817bd028f6156ac0794e"
+  },
+  "provenance": {
+    "source_item_id": "3809b102-f39a-4f55-93e3-2d7dbe8f2d33",
+    "external_id": "https://depot.dev/blog/guide-to-debugging-github-actions"
+  }
+}

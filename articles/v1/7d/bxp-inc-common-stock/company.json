@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bxp-inc-common-stock",
+    "name": "BXP Inc."
+  },
+  "record_count": 101,
+  "first_published_at": "2020-12-14T15:33:42+00:00",
+  "last_published_at": "2026-08-12T17:09:51+00:00",
+  "partitions": [
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7d/bxp-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55149,
+        "sha256": "sha256:32ff311d788b349c04db3ce7268a4b173ec4eb082ca904779cc52a988ab9a1d9",
+        "newest_at": "2026-08-12T17:09:51+00:00",
+        "oldest_at": "2023-12-19T15:28:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/7d/bxp-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 55809,
+        "sha256": "sha256:8d8192375d1a6a47f9ddfdb7c1983ea2233d059ae81b96fbdd91bbe7a47872e2",
+        "newest_at": "2023-08-16T18:42:40+00:00",
+        "oldest_at": "2021-02-24T15:35:07+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/7d/bxp-inc-common-stock/index/pages/000003.json",
+        "record_count": 1,
+        "byte_count": 1493,
+        "sha256": "sha256:483a6240e489dd19973cc1e07e0702722a2185723d3cc6b107633db2cb9155eb",
+        "newest_at": "2020-12-14T15:33:42+00:00",
+        "oldest_at": "2020-12-14T15:33:42+00:00"
+      }
+    ]
+  }
+}

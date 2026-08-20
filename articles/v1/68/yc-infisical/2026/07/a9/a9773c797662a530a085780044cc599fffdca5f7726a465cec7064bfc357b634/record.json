@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a9773c797662a530a085780044cc599fffdca5f7726a465cec7064bfc357b634",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/docker-secrets-management",
+    "canonical": "https://infisical.com/blog/docker-secrets-management"
+  },
+  "title": "Docker Secrets Management: A Complete Guide to Builds, Compose, and Swarm",
+  "summary": "A hands-on guide to managing secrets in Docker across BuildKit image builds, standalone containers, Compose, Swarm, and CI/CD, using Infisical to keep credentials out of image layers and plaintext.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:10:17.136731+00:00",
+  "fetched_at": "2026-07-31T19:10:18.826077+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/07/a9/a9773c797662a530a085780044cc599fffdca5f7726a465cec7064bfc357b634/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/07/a9/a9773c797662a530a085780044cc599fffdca5f7726a465cec7064bfc357b634/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16357,
+    "sha256": "sha256:fcc5d859cccb72e5a20935f498cae704bea497105a057d212d9e740f2a9dfd81",
+    "normalized_content_hash": "sha256:20c84effc6635d7dba13fffaa1942d09589e774a767f49f31c27422190d9389b"
+  },
+  "provenance": {
+    "source_item_id": "523a7fa1-f6e7-41df-9c2d-9623e748f29a",
+    "external_id": "https://infisical.com/blog/docker-secrets-management"
+  }
+}

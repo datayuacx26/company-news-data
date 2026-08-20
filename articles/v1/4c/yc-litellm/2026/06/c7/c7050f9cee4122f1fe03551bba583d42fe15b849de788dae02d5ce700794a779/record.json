@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7050f9cee4122f1fe03551bba583d42fe15b849de788dae02d5ce700794a779",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/headroom-integration",
+    "canonical": "https://docs.litellm.ai/blog/headroom-integration"
+  },
+  "title": "LiteLLM × Headroom: Use 60-95% fewer tokens with Claude Code",
+  "summary": "Cut input tokens on Claude Code and other LLM traffic by attaching Headroom as a pre_call guardrail on LiteLLM.",
+  "published_at": "2026-06-30T10:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-13T14:35:17.162776+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/06/c7/c7050f9cee4122f1fe03551bba583d42fe15b849de788dae02d5ce700794a779/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/06/c7/c7050f9cee4122f1fe03551bba583d42fe15b849de788dae02d5ce700794a779/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2570,
+    "sha256": "sha256:b0f3ffb4445f8f1ed20e7352e83e1d0d0141ccabbad981ddebbc48eed55d9bf7",
+    "normalized_content_hash": "sha256:0eed1a05ad262193a507a19506757e01be0688b74e8c4b013d5924fb2e992ea4"
+  },
+  "provenance": {
+    "source_item_id": "30b5ee18-b33e-465b-9be0-5ad1059b5294",
+    "external_id": "https://docs.litellm.ai/blog/headroom-integration"
+  }
+}

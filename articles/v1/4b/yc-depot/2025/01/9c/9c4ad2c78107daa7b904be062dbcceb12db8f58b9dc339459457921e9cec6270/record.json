@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c4ad2c78107daa7b904be062dbcceb12db8f58b9dc339459457921e9cec6270",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/reducing-queue-time-with-cached-schemas",
+    "canonical": "https://depot.dev/blog/reducing-queue-time-with-cached-schemas"
+  },
+  "title": "How we cut GitHub Actions queue times by 4x",
+  "summary": "Learn how we dramatically reduced the tail latency (p99) of our GitHub Actions Runners initialization from 39 to 9 seconds by caching API schemas.",
+  "published_at": "2025-01-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/01/9c/9c4ad2c78107daa7b904be062dbcceb12db8f58b9dc339459457921e9cec6270/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/01/9c/9c4ad2c78107daa7b904be062dbcceb12db8f58b9dc339459457921e9cec6270/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7504,
+    "sha256": "sha256:0cf25676eee3ab9bf1b3fd9e3e5ab66300e2bca03360595c2a26d77ee5d5ad13",
+    "normalized_content_hash": "sha256:0ba9e6fd0407e4e35d7f09104a0d971580a2a3fff12672464efe144eacdd1487"
+  },
+  "provenance": {
+    "source_item_id": "898e5d0e-a5b2-437a-8c20-2f6f5affc084",
+    "external_id": "https://depot.dev/blog/reducing-queue-time-with-cached-schemas"
+  }
+}

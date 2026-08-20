@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54528c1575d8ef76f601b65a63033ecdd6c3bacf03520d2f96f49989512e1b5b",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/shadow-testing-superpowers-four-ways-to-bulletproof-apis/",
+    "canonical": "https://www.signadot.com/blog/shadow-testing-superpowers-four-ways-to-bulletproof-apis/"
+  },
+  "title": "What Is Shadow Testing? Four Ways to Bulletproof Your APIs",
+  "summary": "What is shadow testing? Run a new version of a service beside the baseline in an isolated sandbox with the same traffic, and compare responses to catch regressions.",
+  "published_at": "2025-04-21T16:28:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:57:45.279486+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/04/54/54528c1575d8ef76f601b65a63033ecdd6c3bacf03520d2f96f49989512e1b5b/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/04/54/54528c1575d8ef76f601b65a63033ecdd6c3bacf03520d2f96f49989512e1b5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17590,
+    "sha256": "sha256:25a89b621ce9d768f4f7a62a18eda724896a8c7927a23687e64145854b3fe70d",
+    "normalized_content_hash": "sha256:efce60cdebb6a5212e3eab8c847923f29e6b6ebbc28872e1a5fe93febcb80ec6"
+  },
+  "provenance": {
+    "source_item_id": "0f84eb8f-736a-4f05-902f-380f866a28c0",
+    "external_id": "https://www.signadot.com/blog/shadow-testing-superpowers-four-ways-to-bulletproof-apis/"
+  }
+}

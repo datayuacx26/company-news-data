@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "adad9fb553ccf1d629997e3d42378a1b8ec12f1f40f3de9379289b318ec64742",
+  "company": {
+    "key": "yc-taskade",
+    "name": "Taskade"
+  },
+  "source": {
+    "id": "yc-taskade-rss-a662ed9a0141",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.taskade.com/blog/ai-agent-error-recovery",
+    "canonical": "https://www.taskade.com/blog/ai-agent-error-recovery"
+  },
+  "title": "AI Agent Error Handling & Self-Healing Patterns (2026)",
+  "summary": "How AI agents recover from errors: classify failures, retry with backoff and jitter, circuit breakers, fallbacks, checkpoints, and escalation - self-healing patterns for 2026.",
+  "published_at": "2026-07-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:13.456142+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-30T16:32:07.469906+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-taskade/2026/07/ad/adad9fb553ccf1d629997e3d42378a1b8ec12f1f40f3de9379289b318ec64742/article.md",
+    "record": "articles/v1/5e/yc-taskade/2026/07/ad/adad9fb553ccf1d629997e3d42378a1b8ec12f1f40f3de9379289b318ec64742/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 43858,
+    "sha256": "sha256:b22703200cd7d42a3e73e8098c1cd85c52fb624d461876c47e2662c80329fa43",
+    "normalized_content_hash": "sha256:8402bda00024bf17ca999e86ea20ecb40b0be8376f057034b71a77d39e7f958e"
+  },
+  "provenance": {
+    "source_item_id": "165787c0-f7b3-4185-b55d-230aa9c421b3",
+    "external_id": "https://www.taskade.com/blog/ai-agent-error-recovery"
+  }
+}

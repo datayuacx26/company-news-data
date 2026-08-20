@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-openphone",
+    "name": "Quo (fka OpenPhone)"
+  },
+  "record_count": 69,
+  "first_published_at": "2026-02-25T19:18:26+00:00",
+  "last_published_at": "2026-08-19T19:48:24+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 30
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 26
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/63/yc-openphone/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49715,
+        "sha256": "sha256:7587e1c254a373eeec8fc26bc480ae2b6d4b8f79aae533e1df91d68e73d67faa",
+        "newest_at": "2026-08-19T19:48:24+00:00",
+        "oldest_at": "2026-07-18T03:34:40+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/63/yc-openphone/index/pages/000002.json",
+        "record_count": 19,
+        "byte_count": 19359,
+        "sha256": "sha256:af9fa8baabd091646325347ca797061aef372a1090dd4e0e3f9aeaca0749fde1",
+        "newest_at": "2026-07-17T20:03:13+00:00",
+        "oldest_at": "2026-02-25T19:18:26+00:00"
+      }
+    ]
+  }
+}

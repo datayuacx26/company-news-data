@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11c62b4e91dcb0a8bb6e72e69d668bd353603428e67ff71991ff4a58af446035",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000136573",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000136573"
+  },
+  "title": "SA-2026-048 - ExtremeCloud IQ Cross-Tenant Data Exposure via Extreme Platform One Authentication Race Condition (CVE-2026-9831)",
+  "summary": "A race condition in the shared Extreme Platform ONE IAM Gateway API-key authentication path could, under specific high-concurrency traffic conditions, intermittently allow requests authenticated with an Extreme Platform ONE/IAM-issued API key to receive response data for another tenant. The issue was observed through ExtremeCloud IQ/XIQ API endpoints and validated against both XIQ/XAPI and Extreme Platform ONE/Common Services API paths. XIQ-native tokens and standard OAuth/Bearer JWT authentication were not affected. Extreme Networks thanks Sebastian Koller of Iteas IT Services GmbH for the responsible disclosure of this issue. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-05-29T17:43:16+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/05/11/11c62b4e91dcb0a8bb6e72e69d668bd353603428e67ff71991ff4a58af446035/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/05/11/11c62b4e91dcb0a8bb6e72e69d668bd353603428e67ff71991ff4a58af446035/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1758,
+    "sha256": "sha256:d5b3703dd0eaa0ae07c08a11aa627285546921c03e43c0885d59ecb86994296e",
+    "normalized_content_hash": "sha256:f3b9b5e7c2c20759e2e5ee051390c17efec6777a441ed4bb21513ace0ab8cbcc"
+  },
+  "provenance": {
+    "source_item_id": "0d794f3f-a974-447f-8e89-3c5f8ba2d8ec",
+    "external_id": "000136573"
+  }
+}

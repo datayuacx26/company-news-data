@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0ef4cbe6ccf3f14f15c5f84bff2d594d15c01d346cad0cee52cbf5a85575fd1",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/guide-to-faster-rust-builds-in-ci",
+    "canonical": "https://depot.dev/blog/guide-to-faster-rust-builds-in-ci"
+  },
+  "title": "Guide to faster Rust builds in CI",
+  "summary": "Building Rust projects in CI can be painfully slow, but with the right optimizations, you can dramatically reduce build times. We tested various techniques on the Zed codebase and achieved a 35% speedup over our already-optimized baseline, cutting build times from 27 minutes to just 16 minutes.",
+  "published_at": "2025-08-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/08/f0/f0ef4cbe6ccf3f14f15c5f84bff2d594d15c01d346cad0cee52cbf5a85575fd1/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/08/f0/f0ef4cbe6ccf3f14f15c5f84bff2d594d15c01d346cad0cee52cbf5a85575fd1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12863,
+    "sha256": "sha256:da018a8207428076a4cf63356c7400da1ab1e35c78526ad4fa21d4528cae5283",
+    "normalized_content_hash": "sha256:7e1d0f25ebaeb9d77a823750c559b113da83ae553b4afbc7d7e7aa3b7163e920"
+  },
+  "provenance": {
+    "source_item_id": "3f77d5fa-7d7a-4737-b096-e341d2c22312",
+    "external_id": "https://depot.dev/blog/guide-to-faster-rust-builds-in-ci"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f997d0dc9b19a1ee4d3a6f40875935e724770549b4b63bc611a853ed35bc41a",
+  "company": {
+    "key": "yc-redbrick-ai",
+    "name": "RedBrick AI"
+  },
+  "source": {
+    "id": "yc-redbrick-ai-news-import-4b943afcd495",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.redbrickai.com/blog/2024-01-20-segmenting-aorta",
+    "canonical": "https://www.redbrickai.com/blog/2024-01-20-segmenting-aorta"
+  },
+  "title": "Guide: Segmenting the Aorta and Iliac Arteries in Abdominal CTA Scans",
+  "summary": "A comprehensive guide on using RedBrick AI's tools and workflows to segment the aorta and iliac arteries in abdominal CTA scans. Learn how to set up your project, use region growing for base segmentation, and apply boolean operations for detailed arterial classification.",
+  "published_at": "2024-01-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:23:16.380780+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T20:13:04.727240+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-redbrick-ai/2024/01/0f/0f997d0dc9b19a1ee4d3a6f40875935e724770549b4b63bc611a853ed35bc41a/article.md",
+    "record": "articles/v1/45/yc-redbrick-ai/2024/01/0f/0f997d0dc9b19a1ee4d3a6f40875935e724770549b4b63bc611a853ed35bc41a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6746,
+    "sha256": "sha256:1c7b4c78942c805c2526ea3487e295bbdee14a606a03d6febccaac78c3b7badd",
+    "normalized_content_hash": "sha256:94c08c9a68a9b2f57ef67eba9151bcc36c50b529db4411351210e360b26a15f3"
+  },
+  "provenance": {
+    "source_item_id": "372dbf19-68a3-4470-9847-73894e2b1d7d",
+    "external_id": "https://www.redbrickai.com/blog/2024-01-20-segmenting-aorta"
+  }
+}

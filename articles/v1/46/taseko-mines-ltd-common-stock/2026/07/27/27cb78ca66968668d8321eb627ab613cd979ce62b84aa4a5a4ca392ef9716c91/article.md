@@ -1,0 +1,878 @@
+---
+schema_version: "1.0.0"
+document_id: "27cb78ca66968668d8321eb627ab613cd979ce62b84aa4a5a4ca392ef9716c91"
+company_key: "taseko-mines-ltd-common-stock"
+company: "Taseko Mines Ltd."
+source_id: "taseko-mines-ltd-common-stock-news-import-025a3787a186"
+canonical_url: "https://www.trekormetals.com/investors/news/taseko-announces-second-quarter-financial-and-operational-results/"
+published_at: null
+first_seen_at: "2026-07-22T15:43:32.340751+00:00"
+fetched_at: "2026-07-28T21:38:24.318832+00:00"
+content_hash: "sha256:eba49baa0c6e1800e3c7a665576e0ddd45924c4bfa843083133c350f98add527"
+---
+
+# Aug 6, 2025 Taseko Announces Second Quarter Financial and Operational Results
+
+### Taseko Announces Second Quarter Financial and Operational Results
+
+
+View PDF version of this release:
+
+
+[All 2025 News Releases](https://www.trekormetals.com/investors/news/#2025)
+
+
+**August 6, 2025, Vancouver, BC –** Taseko Mines Limited (TSX: TKO; NYSE American: TGB; LSE: TKO) ("Taseko" or the "Company") reports second quarter 2025 Adjusted EBITDA* of $17 million, net income of $22 million ($0.07 per share) and an Adjusted net loss* of $13 million ($0.04 loss per share). Revenues for the second quarter were $116 million from the sale of 19 million pounds of copper and 178 thousand pounds of molybdenum.
+
+
+Second quarter copper production at Gibraltar was in line with plan and mining operations made significant headway opening up the Connector pit. Tons mined was 31% higher than the first quarter, and the improved mining rates have set the mine up to deliver the expected higher grades in the second half of the year. The mine produced 20 million pounds of copper and 180 thousand pounds of molybdenum in the second quarter at Total operating costs (C1)* of US$3.14 per pound of copper produced. Mill throughput averaged 84,200 tons per day at average copper grades of 0.20% and copper recoveries were 63%. Recoveries continued to be impacted by both low grades and also high oxide and secondary mineralization. Second quarter copper production also includes the first copper cathodes from Gibraltar’s newly refurbished SX/EW plant which restarted in late May after being idle since 2015. After a quick ramp up in June and July, the plant is now operating at a steady state.
+
+
+Construction activities at Florence Copper continue to advance on schedule and the project remains on track to achieve first copper cathode production before the end of 2025. At the end of June, overall project completion was over 90% and US$239 million had been incurred on construction in the last 18 months. Construction spending was lower than the prior quarter and, with approximately 90% of total expected construction costs now incurred, spending will decline again in the third quarter as construction activities wind down.
+
+
+Stuart McDonald, President & CEO of Taseko, commented, “I am very pleased with progress at Florence Copper, where our project team has done an excellent job maintaining the project schedule and budget, without compromising the safety of our contractors or employees at site. Construction activities will soon be shifting to commissioning of the SX/EW plant systems and beginning wellfield operations. With less than six months until anticipated first production, this is an exciting time for our Company. We still have a lot of work ahead to complete construction and ramp up copper production, but the more than ten years of effort to get us here is about to payoff.
+
+
+“At Gibraltar, mining operations have made good progress advancing deeper into the Connector Pit and we’re looking forward to a much stronger second half. The expected higher grades and improved recoveries will lead to increased copper production and stronger cash flows.
+
+
+Despite the recent volatility in Comex copper prices, we remain in a healthy copper price environment and it’s great timing to be growing our copper production base with a new US-based operation. With lowest quartile operating costs, Florence Copper will begin to generate strong cashflows next year as it ramps up to design capacity.”
+
+
+Mr. McDonald continued, “Another important goal for us is to unlock value from our longer-term growth portfolio, and in recent months we’ve achieved some significant milestones with those projects. We published an updated technical study for Yellowhead, which showed a significant improvement in project economics. At a copper price of US$4.25 per pound, Yellowhead has an after-tax NPV (8%) of $2 billion and a 21% internal rate of return. With average annual copper production of 178 million pounds over 25 years, Yellowhead represents a high quality, longer-term growth option for Taseko. Also, in early July the Environmental Assessment process was formally initiated with the filing and acceptance of the Initial Project Description. We will look to unlock further value from Yellowhead as it advances through the permitting process, and as we progress other technical and financing aspects of the project.”
+
+
+“Another significant development was the recent agreement reached with Tŝilhqot'in Nation and Province of BC on our New Prosperity Project. The payment of $75 million was received from the Province of BC during the second quarter and Taseko retains a 77.5% interest in the project. We believe this agreement could potentially open a pathway for the mine to be developed in the future, but only with the Tŝilhqot’in Nation’s consent.
+
+
+With Florence Copper just months away from first production and with Yellowhead now moving forward into permitting, we are making significant strides advancing our long-term strategy to become a North American multi-asset copper miner,” concluded Mr. McDonald.
+
+
+**Second Quarter Review**
+
+
+- Earnings from mining operations before depletion, amortization and non-recurring items* was $20.7 million, Adjusted EBITDA* was $17.4 million and cash flows from operations was $26.0 million;
+- Net income was $21.9 million ($0.07 per share) and Adjusted net loss* was $13.0 million ($0.04 loss per share) after removal of unrealized foreign exchange gains on the Company’s US dollar-denominated debt;
+- Gibraltar produced 19.8 million pounds of copper at a total operating (C1) cost* of US$3.14 per pound of copper produced. Copper head grade was 0.20% and recovery was 63% for the quarter reflecting the continued processing of lower grade stockpiled material which also had higher oxidation;
+- Gibraltar sold 19.0 million pounds of copper at an average realized copper price of US$4.32 per pound and at an average Canadian dollar exchange rate of 1.38, contributing to revenues of $116.1 million for Taseko;
+- At June 30, 2025, construction of the Florence Copper commercial production facility was over 90% complete and remains on schedule for first copper production before the end of the year. All 90 injection and recovery wells planned for the construction phase have now been drilled and completed. Construction of the solvent extraction and electrowinning areas continue to advance, with the installation of major components well underway;
+- In June 2025, Taseko, Tŝilhqot’in Nation and the Province of BC reached an agreement concerning the New Prosperity project. Taseko received a payment of $75 million from the Province of BC on closing of the transaction in the second quarter;
+- In July 2025, the Company filed an updated technical report on the Yellowhead project highlighting an after-tax net present value of $2.0 billion for the project (8% after-tax discount rate), after-tax internal rate of return of 21%, and payback period of 3.3 years. The Company also announced that it had submitted an Initial Project Description for the Yellowhead project and formally commenced the Environmental Assessment process with regulators;
+- The Company has copper collar contracts in place to secure a minimum copper price of US$4.00 per pound for 54 million pounds of copper for the remainder of 2025; and,
+- At June 30, 2025, the Company had a cash balance of $122.0 million and available liquidity of $197.0 million including the undrawn portion of its corporate revolving credit facility.
+
+
+**Highlights**
+
+
+**Operating data** **Three months ended June 30,** **Six months ended June 30,**
+
+
+(Gibraltar – 100% basis) **2025** **2024** **Change** **2025** **2024** **Change**
+
+
+Tons mined (millions) 30.4 18.4 12.0 53.6 41.2 12.4
+
+
+Tons milled (millions) 7.7 5.7 2.0 15.6 13.4 2.2
+
+
+Production (million pounds Cu) 19.8 20.2 (0.4) 39.8 49.9 (10.1)
+
+
+Sales (million pounds Cu) 19.0 22.6 (3.6) 40.8 54.3 (13.5)
+
+
+**Financial Data**
+(Cdn$ in thousands, except for per share amounts) **Three months ended June 30,** **Six months ended June 30,**
+
+
+**2025** **2024** **Change** **2025** **20241** **Change**
+
+
+Revenues 116,082 137,730 (21,648) 255,231 284,677 (29,446)
+
+
+Cash flows from operations 25,954 34,711 (8,757) 81,846 94,285 (12,439)
+
+
+Net income (loss) 21,868 (10,953) 32,821 (6,692) 7,943 (14,635)
+
+
+Per share – basic (“EPS”) 0.07 (0.04) 0.11 (0.02) 0.03 (0.05)
+
+
+Earnings from mining operations before depletion, amortization and non-recurring items* 20,700 76,928 (56,228) 59,491 129,725 (70,234)
+
+
+Adjusted EBITDA* 17,432 70,777 (53,345) 51,682 120,700 (69,018)
+
+
+Adjusted net (loss) income* (13,025) 30,503 (43,528) (19,968) 38,231 (58,199)
+
+
+Per share – basic (“Adjusted EPS”)* (0.04) 0.10 (0.14) (0.06) 0.13 (0.19)
+
+
+1. On March 25, 2024, the Company completed its acquisition of the remaining 50% interest in Cariboo Copper Corp. (“Cariboo”) from Dowa Metals & Mining Co., Ltd. (“Dowa”) and Furukawa Co., Ltd. (“Furukawa”) and increased its effective interest in Gibraltar from 87.5% to 100%. As a result, the financial results reported in this MD&A reflect the Company’s 87.5% effective interest from March 15, 2023 to March 25, 2024 and 100% effective interest thereafter. For more information on the Company’s acquisition of Cariboo, refer to the Financial Statements—Note 12a.
+
+
+**Review of Operations**
+
+
+*Gibraltar*
+
+
+Operating data (100% basis) **Q2 2025** **Q1 2025** **Q4 2024** **Q3 2024** **Q2 2024**
+
+
+Tons mined (millions) 30.4 23.2 24.0 23.2 18.4
+
+
+Tons milled (millions) 7.7 7.9 8.3 7.6 5.7
+
+
+Strip ratio 2.3 4.6 1.9 1.2 1.6
+
+
+Site operating cost per ton milled* $ 11.23 $ 8.73 $ 12.18 $ 14.23 $ 13.93
+
+
+**Copper concentrate**
+
+
+Head grade (%) 0.20 0.19 0.22 0.23 0.23
+
+
+Copper recovery (%) 63.2 67.5 78.2 78.9 77.7
+
+
+Production (million pounds Cu) 19.4 20.0 28.6 27.1 20.2
+
+
+Sales (million pounds Cu) 19.0 21.8 27.4 26.3 22.6
+
+
+Inventory (million pounds Cu) 2.7 2.3 4.1 2.9 2.3
+
+
+**Copper cathode**
+
+
+Production (thousand pounds Cu) 395 – – – –
+
+
+Sales (thousand pounds Cu) – – – – –
+
+
+**Molybdenum concentrate**
+
+
+Production (thousand pounds Mo) 180 336 578 421 185
+
+
+Sales (thousand pounds Mo) 178 364 607 348 221
+
+
+**Per unit data (US$ per Cu pound produced)** 1
+
+
+Site operating cost* $ 3.15 $ 2.41 $ 2.52 $ 2.91 $ 2.88
+
+
+By-product credit* (0.19) (0.33) (0.42) (0.25) (0.26)
+
+
+Site operating cost, net of by-product credit* 2.96 2.08 2.10 2.66 2.62
+
+
+Off-property cost* 0.18 0.18 0.32 0.26 0.37
+
+
+Total operating (C1) cost* $ 3.14 $ 2.26 $ 2.42 $ 2.92 $ 2.99
+
+
+1. Copper pounds produced includes both copper in concentrate and copper cathode.
+
+
+**Operations Analysis**
+
+
+**Second Quarter Review**
+
+
+Mining operations continued to advance through the upper sections of the Connector pit, opening up the deeper, higher quality ore zones for the next phase of mining. A total of 30.4 million tons were mined in the second quarter, a 30% increase over the prior quarter due to increased productivity of the mining fleet. Approximately 65% of the ore mined in the quarter was oxide ore, which was added to the heap leach pads and contributed to a lower strip ratio.
+
+
+**Operations Analysis - Continued**
+
+
+Lower-grade stockpiled ore continued to be the primary source of mill feed in the quarter, resulting in copper production levels similar to the first quarter. Gibraltar produced 19.4 million pounds of copper in concentrate in the second quarter. Copper head grade was 0.20% and recovery was 63%, impacted by oxidation and supergene material in the stockpiled ore which mainly originated from the upper benches of the Connector pit. Mill throughput was 7.7 million tons in the quarter and remained consistently at nameplate capacity throughout the quarter.
+
+
+In the second quarter, Gibraltar completed the refurbishment and successfully restarted its solvent extraction and electrowinning (“SX/EW”) plant which had been idle since 2015 and produced 395 thousand pounds of copper cathode.
+
+
+Capitalized stripping costs totaling $30.8 million remained higher in the second quarter attributable to a higher than normal strip ratio for sulphide ore tons in the Connector pit. Total site costs* including capitalized stripping was $116.8 million in the quarter, higher than the prior quarter primarily due to higher mining rates. Total site costs were also higher than the prior year quarter due to mill downtime in 2024 related to a labour strike and crusher relocation project.
+
+
+Molybdenum production was 180 thousand pounds in the second quarter, comparable to 185 thousand pounds in the comparative prior year quarter. At an average molybdenum price of US$20.71 per pound for the quarter, molybdenum contributed a by-product credit of US$0.19 per pound of copper produced.
+
+
+Off-property costs of US$0.18 per pound of copper produced were consistent with the prior quarter and reflect Gibraltar’s 2025 offtake agreements with average treatment and refining charges (“TCRC”) of $nil for the year.
+
+
+Total operating (C1) costs* were US$3.14 per pound of copper produced in the second quarter compared to US$2.99 per pound of copper produced in the comparative prior year quarter. The increase in total operating (C1) costs was attributable to low site operating costs in the prior year from mill downtime, as well as lower copper production and lower molybdenum by-product credits in the current quarter, partially offset by higher capitalized stripping costs and lower off-property costs as outlined in the bridge graph below:
+
+
+**Operations Analysis - Continued**
+
+
+**Gibraltar Outlook**
+
+
+Mining activity will continue to advance in the Connector pit, which will be the primary source of mill feed for the remainder of 2025 and the years ahead. Significant increases in head grades and recoveries, and higher mill throughput from processing the softer Connector pit ore, are expected in the second half of 2025 and continuing into 2026. Copper production for the year is expected to be 110 to 120 million pounds, including cathode production.
+
+
+Molybdenum production is also forecast to increase in the second half of 2025 as molybdenum grades are expected to be notably higher in Connector pit ore.
+
+
+The Company has offtake agreements covering Gibraltar concentrate production in 2025 and 2026, which contain significantly lower and in certain cases negative (premium) TCRC rates reflecting the tight copper smelting market. Offtake agreements are in place for substantially all of Gibraltar’s copper concentrate production in 2025 and 2026, and, based on the contract terms, the Company expects average TCRCs to be to around $nil in 2025 and 2026.
+
+
+The Company has a prudent hedging program in place to protect a minimum copper price and Gibraltar cash flow during the Florence Copper construction period. Currently, the Company has copper collar contracts in place that secure a minimum copper price of US$4.00 per pound for 54 million pounds of copper production for the remainder of 2025 (refer to “Financial Condition Review—Hedging Strategy” for details).
+
+
+**Florence Copper**
+
+
+The Company has all the key permits in place for the commercial production facility at Florence and construction continues to advance on schedule. Over 900,000 project hours have been worked with no reportable injuries or environmental incidents. The Company has a fixed-price contract with the general contractor for construction of the SX/EW plant and associated surface infrastructure and activities are beginning to wind down from peak spend in the first quarter.
+
+
+All injection and recovery wells planned to be drilled during the construction phase were completed as of June 30, 2025. Remaining construction activities are advancing on plan and project areas will soon start transitioning to commissioning.
+
+
+Operational readiness remains a key focus for site management. Site activities are focused on hiring additional personnel and developing detailed operating plans for the ramp up of production, which is expected to begin before the end of this year.
+
+
+**Florence Copper capital spend**
+(US$ in thousands) **Three months ended June 30, 2025** **Six months ended June 30, 2025**
+
+
+Commercial facility construction costs 32,956 84,320
+
+
+Site and PTF operation 8,276 14,345
+
+
+**Total Florence Copper capital spend** **41,232** **98,665**
+
+
+Florence Copper commercial facility construction costs were US$33.0 million in the second quarter and US$239.3 million has been incurred on the Florence Copper commercial facility construction as of June 30, 2025.
+
+
+The Company has a technical report titled “NI 43-101 Technical Report Florence Copper Project, Pinal County, Arizona” dated March 30, 2023 (the “Florence 2023 Technical Report”) on SEDAR+. The Florence 2023 Technical Report was prepared in accordance with National Instrument 43‑101 (“NI 43-101”) and incorporated the results of test work from the production test facility (“PTF”) as well as updated capital and operating costs (Q3 2022 basis) for the commercial production facility.
+
+
+Project highlights based on the Florence 2023 Technical Report are detailed below:
+
+
+- Net present value of US$930 million (at US$3.75 copper price, 8% after-tax discount rate);
+- After-tax internal rate of return of 47%;
+- Payback period of 2.6 years;
+- Operating costs (C1) of US$1.11 per pound of copper produced;
+- Annual production capacity of 85 million pounds of LME grade A copper cathode;
+- Mine life of 22 years;
+- Total life of mine production of 1.5 billion pounds of copper; and
+- Initial capital cost of US$232 million (Q3 2022 basis).
+
+
+**Florence Copper - Continued**
+
+
+Based on the Florence 2023 Technical Report, the estimated construction costs for the Florence Copper commercial production facility were US$232 million and management continues to expect that total construction costs will be within 10% to 15% of this estimate.
+
+
+**Long-term Growth Strategy**
+
+
+Taseko’s strategy has been to grow the company by acquiring and developing a pipeline of projects focused on copper in North America. We continue to believe this will generate long-term returns for shareholders. Our other development projects are located in BC, Canada.
+
+
+*Yellowhead Copper Project*
+
+
+The Yellowhead copper project (“Yellowhead”) is expected to produce 4.4 billion pounds of copper over a 25-year mine life at an average C1 cost, net of by-product credit, of US$1.90 per pound of copper produced. During the first 5 years of operation, Yellowhead is expected to produce an average of 206 million pounds of copper per year at an average C1 cost, net of by-product credit, of US$1.62 per pound of copper produced. Yellowhead also contains valuable precious metal by-products with 282,000 ounces of gold production and 19.4 million ounces of silver production over the life of mine.
+
+
+The economic analysis in the Yellowhead 2025 Technical Report (defined below) was prepared using a long-term copper price of US$4.25 per pound, a long-term gold price of US$2,400 per ounce, and a long-term silver price of US$28.00 per ounce. This report titled “Technical Report Update on the Yellowhead Copper Project, British Columbia, Canada” (the “Yellowhead 2025 Technical Report”) was published on July 10, 2025 under the supervision of Richard Weymark, P. Eng., MBA, Vice President, Engineering for Taseko and a Qualified Person as defined by NI 43‑101.
+
+
+Project highlights based on the Yellowhead 2025 Technical Report are detailed below:
+
+
+- Average annual copper production of 178 million pounds over a 25 year mine life at total cash costs (C1) of US$1.90 per pound of copper produced;
+- Over the first 5 years of the mine life, copper grade is expected to average 0.32% producing an average of 206 million pounds of copper at total cash costs (C1) of US$1.62 per pound of copper produced;
+- Concentrator designed to process 90,000 tonnes per day of ore with an expected copper recovery of 90%, and produce a clean copper concentrate with payable gold and silver by-products;
+- Conventional open pit mining with a low strip ratio of 1.4;
+- After-tax net present value of $2.0 billion (8% after-tax discount rate) and after-tax internal rate of return of 21%;
+- Initial capital costs of $2.0 billion with a payback period of 3.3 years; and
+- Expected to be eligible for the Canadian federal Clean Technology Manufacturing Investment Tax Credit, with 30% (approximately $540 million) of eligible initial capital costs reimbursed in year 1 of operation.
+
+
+**Long-term Growth Strategy - Continued**
+
+
+In the second quarter, the project’s Initial Project Description was filed and accepted by the British Columbia Environmental Assessment Office and Impact Assessment Agency of Canada, formally commencing the Environmental Assessment process. The Company has been engaging with project stakeholders to ensure that the development of Yellowhead is in line with environmental and social expectations. The Company opened a community Yellowhead project office in 2024 to support ongoing engagement with local communities including First Nations.
+
+
+*New Prosperity Copper-Gold project*
+
+
+In June 2025, Taseko, the Tŝilhqot’in Nation and the Province of BC reached a historic agreement concerning the New Prosperity project (the “Teẑtan Biny Agreement”). The Teẑtan Biny Agreement ends litigation among the parties while providing certainty with respect to how the significant copper-gold resource at New Prosperity may be developed in the future, and meaningfully advances the goals of reconciliation in BC.
+
+
+Key elements of the Teẑtan Biny Agreement include:
+
+
+- Taseko received a payment of $75 million from the Province of BC upon closing of the agreement;
+- Taseko contributed a 22.5% equity interest in the New Prosperity mineral tenures to a trust for the future benefit of the Tŝilhqot’in Nation. The trust will transfer the property interest to the Tŝilhqot’in Nation if and when it consents to a proposal to pursue mineral development in the project area;
+- Taseko retains a majority interest (77.5%) in the New Prosperity mineral tenures and can divest some or all of its interest at any time, including to other mining companies that could advance a project with the consent of the Tŝilhqot’in Nation. However, Taseko has committed not to be the proponent (operator) of mineral exploration and development activities at New Prosperity, nor the owner of a future mine development;
+- Taseko has entered into a consent agreement with the Tŝilhqot’in Nation, whereby no mineral exploration or development activity can proceed in the New Prosperity project area without the free, prior and informed consent of the Tŝilhqot’in Nation;
+- The Province of BC and the Tŝilhqot’in Nation have agreed to negotiate the process by which the consent of the Tŝilhqot’in Nation will be sought for any proposed mining project to proceed through an environmental assessment process; and
+- The Tŝilhqot’in Nation and the Province of BC have agreed to undertake a land-use planning process for the area of the mineral tenures and a broader area of land within Tŝilhqot’in territory. The Province of BC will provide funding to the Tŝilhqot’in Nation to facilitate the land-use planning process and for a Cultural Revitalization Fund.
+
+
+**Long-term Growth Strategy - Continued**
+
+
+*Aley Niobium project*
+
+
+The converter pilot test is ongoing to provide additional process data to support the design of commercial process facilities, and final product samples to support product marketing initiatives. The Company is also conducting a scoping study to investigate the potential for Aley niobium oxide production to supply the growing market for niobium-based batteries.
+
+
+**Annual General Meeting**
+
+
+The Company’s Annual General Meeting was held on June 12, 2025 and shareholders voted in favor of all items of business before the meeting, including the continuation of the Company’s amended and restated shareholders rights plan for a 3-year period and the advisory resolution on executive compensation (Say-on-Pay), and the election of all director nominees. Detailed voting results for the 2025 Annual General Meeting are available on SEDAR+ at www.sedarplus.ca.
+
+
+**Annual Sustainability Report**
+
+
+In June 2025, the Company published its annual Sustainability Report titled C2 (Copper x Community) (the “Report”). The Report highlights Taseko’s operational and sustainability achievements, with an emphasis on the connection between copper production and the people, communities, and social environments that support and benefit from our operations and projects.
+
+
+With 20 years of successful operations under Taseko’s stewardship, 2024 marked a milestone year for the Company’s flagship operation, the Gibraltar mine. As Canada’s second-largest copper mine, Gibraltar continues to reflect Taseko’s commitment to operational excellence, health and safety, and delivering ‘360° of Value’ for all stakeholders.
+
+
+Florence Copper will soon become one of the lowest carbon and energy-intensive copper producers in the world, offering domestically produced, traceable and high-purity copper metal to support North American manufacturing and economic security.
+
+
+While profitable operations and return on investment are critical drivers for Taseko’s success, the Company also delivers value to its employees and operating communities, business partners, Indigenous Nations and governments. The Report is an opportunity to showcase the important benefits that the Company generates through its operations, investments and people.
+
+
+The full report can be viewed and downloaded at www.tasekomines.com/sustainability/overview.
+
+
+**Conference Call and Webcast**
+
+
+The Company will host a telephone conference call and live webcast on Thursday August 7, 2025 at 11:00 a.m. Eastern Time (8:00 a.m. Pacific) to discuss these results. After opening remarks by management, there will be a question and answer session open to analysts and investors. The conference call may be accessed by dialing 800-715-9871 toll free or 646-307-1963, using the access code 2521595. The webcast may be accessed at tasekomines.com/investors/events and will be archived until August 7, 2026 for later playback.
+
+
+For further information on Taseko, see the Company’s website at tasekomines.com or contact:
+
+
+Brian Bergot, Vice President, Investor Relations – 778-373-4554
+
+
+Stuart McDonald
+*President and CEO*
+
+
+No regulatory authority has approved or disapproved of the information contained in this news release
+
+
+**Non-GAAP Performance Measures**
+
+
+This MD&A includes certain non-GAAP performance measures that do not have a standardized meaning prescribed by IFRS. These measures may differ from those used by, and may not be comparable to such measures as reported by, other issuers. The Company believes that these measures are commonly used by certain investors, in conjunction with conventional IFRS measures, to enhance their understanding of the Company’s performance. These measures have been derived from the Company’s financial statements and applied on a consistent basis. The following tables below provide a reconciliation of these non-GAAP measures to the most directly comparable IFRS measures.
+
+
+*Total operating cost and site operating cost, net of by-product credit*
+
+
+Total operating cost includes all costs absorbed into inventory, as well as transportation costs and insurance recoverable. Site operating cost is calculated by removing net changes in inventory, depletion and amortization, insurance recoverable, and transportation costs from cost of sales. Site operating cost, net of by-product credit is calculated by subtracting by-product credits from site operating cost. Site operating cost, net of by-product credit per pound is calculated by dividing the aggregate of the applicable costs by pounds of copper produced. Total operating cost per pound is the sum of site operating costs, net of by-product credits and off-property costs divided by pounds of copper produced. By-product credit is calculated based on actual sales of molybdenum (net of treating costs) and silver during the period divided by the total pounds of copper produced during the period. These measures are calculated on a consistent basis for the periods presented.
+
+
+(Cdn$ in thousands, unless otherwise indicated) **Q2 2025** **Q1 2025** **Q4 2024** **Q3 2024** **Q2 2024**
+
+
+Cost of sales 120,592 122,783 134,940 124,883 108,637
+
+
+Less:
+
+
+Depletion and amortization (25,210) (22,425) (24,641) (20,466) (13,721)
+
+
+Net change in inventories of finished goods 2,123 (2,710) 4,064 2,938 (10,462)
+
+
+Net change in inventories of ore stockpiles (5,718) (22,747) (3,698) 9,089 1,758
+
+
+Transportation costs (5,720) (5,984) (10,170) (8,682) (6,408)
+
+
+Site operating cost 86,067 68,917 100,495 107,712 79,804
+
+
+Less by-product credits:
+
+
+Molybdenum, net of treatment costs (4,814) (8,774) (16,507) (8,962) (7,071)
+
+
+Silver, excluding amortization of deferred revenue (58) (131) (139) (241) (144)
+
+
+Gold, net of refining costs (350) (389) – – –
+
+
+Site operating cost, net of by-product credit 80,845 59,623 83,849 98,509 72,589
+
+
+Total pounds of copper produced (thousand pounds) 19,813 19,959 28,595 27,101 20,225
+
+
+Total costs per pound produced 4.08 2.99 2.94 3.63 3.59
+
+
+Average exchange rate for the period (Cdn$ / US$) 1.38 1.44 1.40 1.36 1.37
+
+
+**Site operating cost, net of by-product credits (US$ per pound)** **$ 2.96** **$ 2.08** **$ 2.10** **$ 2.66** **$ 2.62**
+
+
+Site operating cost, net of by-product credit 80,845 59,623 83,849 98,509 72,589
+
+
+Add off-property costs:
+
+
+Treatment and refining costs (837) (510) 2,435 816 3,941
+
+
+Transportation costs 5,720 5,984 10,170 8,682 6,408
+
+
+Total operating cost 85,728 65,097 96,454 108,007 82,938
+
+
+**Total operating cost (C1) (US$ per pound)** **$3.14** **$ 2.26** **$ 2.42** **$ 2.92** **$ 2.99**
+
+
+**Non-GAAP Performance Measures - Continued**
+
+
+*Total site costs*
+
+
+Total site costs include site operating costs charged to cost of sales and mining costs capitalized to property, plant and equipment in the period. This measure is intended to capture total site operating costs incurred during the period calculated on a consistent basis for the periods presented.
+
+
+(Cdn$ in thousands) **Q2 2025** **Q1 2025** **Q4 2024** **Q3 2024** **Q2 2024**
+
+
+Site operating costs 86,067 68,917 100,495 107,712 79,804
+
+
+Capitalized stripping costs 30,765 38,082 1,981 3,631 10,732
+
+
+**Total site costs – 100% basis** **116,832** **106,999** **102,476** **111,343** **90,536**
+
+
+*Adjusted net income (loss) and Adjusted EPS*
+
+
+Adjusted net income (loss) removes the effect of the following transactions from net income (loss) as reported under IFRS:
+
+
+- Unrealized foreign currency gains and losses;
+- Unrealized derivative gains and losses;
+- Other operating costs;
+- Call premium on settlement of debt;
+- Loss on settlement of debt, net of capitalized interest;
+- Bargain purchase gains on Cariboo acquisition;
+- Gain on acquisition of control of Gibraltar;
+- Realized gain on sale of finished goods inventory;
+- Inventory write-ups to fair value that was sold or processed;
+- Accretion on Florence royalty obligations;
+- Accretion on Cariboo consideration payable;
+- Tax effect of sale of non-recurring interest; and
+- Non-recurring other expenses for Cariboo adjustment.
+
+
+Management believes these transactions do not reflect the underlying operating performance of the Company’s core mining business and are not necessarily indicative of future operating results. Furthermore, unrealized gains and losses on derivative instruments, changes in the fair value of financial instruments, and unrealized foreign currency gains and losses are not necessarily reflective of the underlying operating results for the periods presented.
+
+
+Adjusted earnings per share (“Adjusted EPS”) is Adjusted net income attributable to common shareholders of the Company divided by the weighted average number of common shares outstanding for the period.
+
+
+**Non-GAAP Performance Measures - Continued**
+
+
+(Cdn$ in thousands) **Q2 2025** **Q1 2025** **Q4 2024** **Q3 2024**
+
+
+**Net income (loss)** **21,868** **(28,560)** **(21,207)** **(180)**
+
+
+Unrealized foreign exchange (gain) loss (40,335) 2,074 40,462 (7,259)
+
+
+Unrealized derivative loss (gain) and fair value adjustments 9,489 23,536 (25,514) 1,821
+
+
+Other operating costs1 – – 4,132 4,098
+
+
+Inventory write-ups to fair value that was sold or processed2 – – 1,905 3,266
+
+
+Accretion on Florence royalty obligation 6,201 2,571 3,682 3,703
+
+
+Accretion on Cariboo consideration payable 4,484 664 4,543 9,423
+
+
+Tax effect of sale of non-controlling interest (9,285) – – –
+
+
+Estimated tax effect of adjustments (5,447) (7,228) 2,465 (6,644)
+
+
+**Adjusted net (loss) income** **(13,025)** **(6,943)** **10,468** **8,228**
+
+
+**Adjusted EPS** Inventory write-ups to net realizable value that was sold or processed relates to stockpile inventories that were written-up to
+
+
+**$ (0.04)** **$ (0.02)** **$ 0.03** **$ 0.03**
+
+
+1. Other operating costs relate to the in-pit crusher relocation project and care and maintenance costs due to the June 2024 labour strike.
+2. Inventory write-ups to net realizable value that was sold or processed relates to stockpile inventories that were written-up to fair value as part of the acquisition of control of Gibraltar. These write-ups have been included in Adjusted net (loss) income in the period when the inventories were sold or processed.
+
+
+**Non-GAAP Performance Measures - Continued**
+
+
+(Cdn$ in thousands) **Q2 2024** **Q1 2024** **Q4 2023** **Q3 2023**
+
+
+**Net (loss) income** **(10,953)** **18,896** **38,076** **871**
+
+
+Unrealized foreign exchange loss (gain) 5,408 13,688 (14,541) 14,582
+
+
+Unrealized derivative loss and fair value adjustment 10,033 3,519 1,636 4,518
+
+
+Other operating costs1 10,435 – – –
+
+
+Call premium on settlement of debt 9,571 – – –
+
+
+Loss on settlement of debt, net of capitalized interest 2,904 – – –
+
+
+Gain on Cariboo acquisition – (47,426) – –
+
+
+Gain on acquisition of control of Gibraltar2 – (14,982) – –
+
+
+Realized gain on sale of inventory3 3,768 13,354 – –
+
+
+Inventory write-ups to fair value that was sold or processed4 4,056 – – –
+
+
+Accretion on Florence royalty obligation 2,132 3,416 – –
+
+
+Accretion on Cariboo consideration payable 8,399 1,555 – –
+
+
+Non-recurring other expenses for Cariboo adjustment 394 138 (916) 1,244
+
+
+Estimated tax effect of adjustments (15,644) 15,570 (194) (1,556)
+
+
+**Adjusted net income** **30,503** **7,728** **24,061** **19,659**
+
+
+**Adjusted EPS** **$ 0.10** **$ 0.03** **$ 0.08** **$ 0.07**
+
+
+2. Gain on acquisition of control of Gibraltar relates to the write-up of copper concentrate inventory to fair value for Taseko’s 87.5% interest in Gibraltar at March 25, 2024.
+3. Realized gain on sale of inventory relates to copper concentrate inventory held at March 25, 2024 that was written-up to fair value as part of the acquisition of control of Gibraltar, and subsequently sold. The realized portion of these gains have been added back to Adjusted net income in the period the inventory was sold.
+4. Inventory write-ups to fair value that was sold or processed relates to stockpile inventories that were written-up to fair value as part of the acquisition of control of Gibraltar. These write-ups have been included in Adjusted net income in the period the inventories were sold or processed.
+
+
+**Non-GAAP Performance Measures - Continued**
+
+
+*Adjusted EBITDA*
+
+
+Adjusted earnings before interest, taxes, depreciation and amortization (“Adjusted EBITDA”) is presented as a supplemental measure of the Company’s performance and ability to service debt. Adjusted EBITDA is frequently used by securities analysts, investors and other interested parties in the evaluation of companies in the industry, many of which present adjusted EBITDA when reporting their results. Issuers of “high yield” securities also present adjusted EBITDA because investors, analysts and rating agencies considering it useful in measuring the ability of those issuers to meet debt service obligations.
+
+
+Adjusted EBITDA represents net income before interest, income taxes, depreciation and amortization, and also eliminates the impact of a number of transactions that are not considered indicative of ongoing operating performance. Certain items of expense are added back and certain items of income are deducted from net income that are not likely to recur or are not indicative of the Company’s underlying operating results for the reporting periods presented or for future operating performance and consist of:
+
+
+- Unrealized foreign exchange gains and losses;
+- Unrealized derivative gains and losses;
+- Amortization of share-based compensation expense;
+- Other operating costs;
+- Call premium on settlement of debt;
+- Loss on settlement of debt;
+- Bargain purchase gains on Cariboo acquisition;
+- Gain on acquisition of control of Gibraltar;
+- Realized gains on sale of finished goods inventory;
+- Inventory write-ups to net realizable value that was sold or processed; and
+- Non-recurring other expenses for Cariboo acquisition.
+
+
+(Cdn$ in thousands) **Q2 2025** **Q1 2025** **Q4 2024** **Q3 2024**
+
+
+**Net income (loss)** **21,868** **(25,814)** **(21,207)** **(180)**
+
+
+Depletion and amortization 25,210 22,458 24,641 20,466
+
+
+Finance and accretion expenses 23,943 15,567 21,473 25,685
+
+
+Finance income (124) (1,330) (1,674) (1,504)
+
+
+Income tax (recovery) expense (27,439) (6,900) 11,707 (200)
+
+
+Unrealized foreign exchange (gain) loss (40,335) 2,074 40,462 (7,259)
+
+
+Unrealized derivative loss (gain) and fair value adjustments 9,489 22,846 (25,514) 1,821
+
+
+Share-based compensation expense (recovery) 4,820 5,349 (323) 1,496
+
+
+Other operating costs – – 4,132 4,098
+
+
+Inventory write-ups to fair value that was sold or processed1 – – 1,905 3,266
+
+
+**Adjusted EBITDA** **17,432** **34,250** **55,602** **47,689**
+
+
+1. Inventory write-ups to fair value that was sold or processed relates to stockpile inventories that were written-up to fair value as part of the acquisition of control of Gibraltar. These write-ups have been included in Adjusted EBITDA in the period when the inventories were processed.
+
+
+Non-GAAP Performance Measures - Continued
+
+
+(Cdn$ in thousands) **Q2 2024** **Q1 2024** **Q4 2023** **Q3 2023**
+
+
+**Net (loss) income** **(10,953)** **18,896** **38,076** **871**
+
+
+Depletion and amortization 13,721 15,024 13,326 15,993
+
+
+Finance and accretion expense 21,271 19,849 12,804 14,285
+
+
+Finance income (911) (1,086) (972) (322)
+
+
+Income tax (recovery) expense (3,247) 23,282 17,205 12,041
+
+
+Unrealized foreign exchange loss (gain) 5,408 13,688 (14,541) 14,582
+
+
+Unrealized derivative loss 10,033 3,519 1,636 4,518
+
+
+Share-based compensation expense 2,585 5,667 1,573 727
+
+
+Other operating costs 10,435 – – –
+
+
+Call premium on settlement of debt 9,571 – – –
+
+
+Loss on settlement of debt 4,646 – – –
+
+
+Gain on Cariboo acquisition – (47,426) – –
+
+
+Gain on acquisition of control of Gibraltar1 – (14,982) – –
+
+
+Realized gain on sale of inventory2 3,768 13,354 – –
+
+
+Inventory write-ups to fair value that was sold or processed3 4,056 – – –
+
+
+Non-recurring other expenses for Cariboo acquisition 394 138 – –
+
+
+**Adjusted EBITDA** **70,777** **49,923** **69,107** **62,695**
+
+
+1. Gain on acquisition of control of Gibraltar relates to the write-up of copper concentrate inventories to fair value for Taseko’s 87.5% interest in Gibraltar at March 25, 2024.
+2. Realized gain on sale of inventory relates to copper concentrate inventories held at March 25, 2024 that was written-up to fair value as part of the acquisition of control of Gibraltar, and subsequently sold. The realized portion of these gains have been added back to Adjusted EBITDA in the period the inventory was sold.
+3. Inventory write-ups to fair value that was sold or processed relates to stockpile inventories that were written-up to fair value as part of the acquisition of control of Gibraltar. These write-ups have been included in Adjusted EBITDA in the period when the inventories were processed.
+
+
+**Non-GAAP Performance Measures - Continued**
+
+
+*Earnings from mining operations before depletion, amortization and non-recurring items*
+
+
+Earnings from mining operations before depletion, amortization and non-recurring items is earnings from mining operations with depletion and amortization, and any items that are not considered indicative of ongoing operating performance added back. The Company discloses this measure, which has been derived from the Company’s financial statements and applied on a consistent basis, to assist in understanding the results of the Company’s operations and financial position, and it is meant to provide further information about the financial results to investors.
+
+
+**Three months ended June 30,** **Six months ended June 30,**
+
+
+(Cdn$ in thousands) **2025** **2024** **2025** **2024**
+
+
+**(Loss) earnings from mining operations** **(502)** **44,948** **15,864** **69,367**
+
+
+Add:
+
+
+Depletion and amortization 25,210 13,721 47,635 28,745
+
+
+Realized gain on sale of inventory1 – 4,633 – 17,987
+
+
+Realized gain on processing of ore stockpiles2 – 3,191 – 3,191
+
+
+Other operating (income) costs (4,008) 10,435 (4,008) 10,435
+
+
+**Earnings from mining operations before depletion, amortization and non-recurring items** **20,700** **76,928** **59,491** **129,725**
+
+
+1. Realized gain on sale of inventory relates to copper concentrate inventories held at March 25, 2024 that was written-up to fair value as part of the acquisition of control of Gibraltar, and subsequently sold. The realized portion of these gains have been added back to earnings from mining operations in the period the inventory was sold.
+2. Realized gain on processing of ore stockpiles relates to stockpile inventories held at March 25, 2024 that was written-up to fair value as part of the acquisition of control of Gibraltar, and subsequently processed. These write-ups have been added back to earnings from mining operations in the period the inventories were processed.
+
+
+*Site operating costs per ton milled*
+
+
+The Company discloses this measure, which has been derived from the Company’s financial statements and applied on a consistent basis, to provide assistance in understanding the Company’s site operations on a tons milled basis.
+
+
+(Cdn$ in thousands) **Q2 2025** **Q1 2025** **Q4 2024** **Q3 2024** **Q2 2024**
+
+
+Site operating costs (included in cost of sales) 86,067 68,917 100,495 107,712 79,804
+
+
+Tons milled (thousands) 7,663 7,898 8,250 7,572 5,728
+
+
+**Site operating costs per ton milled** **$ 11.23** **$ 8.73** **$ 12.18** **$ 14.23** **$ 13.93**
+
+
+**Technical Information**
+
+
+The technical information contained in this MD&A related to Florence Copper is based on the report titled “NI 43‑101 Technical Report – Florence Copper Project, Pinal County, Arizona” issued on March 30, 2023 with an effective date of March 15, 2023, which is available on SEDAR+. The Florence 2023 Technical Report was prepared under the supervision of Richard Tremblay, P. Eng., MBA, Richard Weymark, P. Eng., MBA, and Robert Rotzinger, P. Eng. Mr. Tremblay is employed by the Company as Chief Operating Officer, Mr. Weymark is employed by the Company as Vice President, Engineering, and Mr. Rotzinger is employed by the Company as Vice President, Capital Projects. All three are Qualified Persons as defined by NI 43‑101.
+
+
+The technical information contained in this MD&A related to Yellowhead is based on the report titled “Technical Report Update on the Yellowhead Copper Project, British Columbia, Canada” issued on July 10, 2025 with an effective date of June 15, 2025, which is available on SEDAR+. The Yellowhead 2025 Technical Report was prepared under the supervision of Richard Weymark, P. Eng., MBA. Mr. Weymark is employed by the Company as Vice President, Engineering and is a Qualified Person as defined by NI 43-101.
+
+
+**Caution Regarding Forward-Looking Information**
+
+
+This document contains “forward-looking statements” that were based on Taseko’s expectations, estimates and projections as of the dates as of which those statements were made. Generally, these forward-looking statements can be identified by the use of forward-looking terminology such as “outlook”, “anticipate”, “project”, “target”, “believe”, “estimate”, “expect”, “intend”, “should” and similar expressions.
+
+
+Forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause the Company’s actual results, level of activity, performance or achievements to be materially different from those expressed or implied by such forward-looking statements. These included but are not limited to:
+
+
+- uncertainties about the future market price of copper and the other metals that we produce or may seek to produce;
+- changes in general economic conditions, the financial markets and in the market price for our input costs including due to inflationary impacts, such as diesel fuel, acid, steel, concrete, electricity and other forms of energy, mining equipment, and fluctuations in exchange rates, particularly with respect to the value of the U.S. dollar and Canadian dollar, and the continued availability of capital and financing;
+- inherent risks associated with mining operations, including our current mining operations at Gibraltar and our planned mining operations at Florence Copper, and their potential impact on our ability to achieve our production estimates;
+- uncertainties as to our ability to achieve reduced costs for Gibraltar (as defined below) and to otherwise control our operating costs without impacting our planned copper production;
+- our high level of indebtedness and its potential impact on our financial condition and the requirement to generate cash flow to service our indebtedness and refinance such indebtedness from time to time;
+- the increases in interest rates, by central banks may increase our borrowing costs and impact the profitability of our operations;
+- our ability to draw down on our financing arrangements for the construction of Florence Copper is subject to our meeting the required conditions for drawdown;
+- the amounts we are required to pay for our acquisition of Cariboo will increase with higher copper prices;
+- the risk of inadequate insurance or inability to obtain insurance to cover our business risks;
+- uncertainties related to the accuracy of our estimates of Mineral Reserves (as defined below), Mineral Resources (as defined below), production rates and timing of production, future production and future cash and total costs of production and milling;
+- the risk that we may not be able to expand or replace Mineral Reserves as our existing Mineral Reserves are mined;
+- the risk that the results from our development of Florence Copper will not meet our estimates of remaining construction costs, operating expenses, revenue, rates of return and cash flows from operations which have been projected by the technical report for Florence;
+- the risk of cost overruns or delays in our construction of the commercial facilities at Florence Copper, resulting in not commencing commercial production within our current projected timeline or within our current projected cost estimates;
+- uncertainties related to the execution plan for the construction of Florence Copper and the commencement of commercial operations resulting from inflation risk, supply chain disruptions, material and labour shortages or other execution risks;
+- our ability to comply with all conditions imposed under the APP and UIC permits for the construction and operation of Florence Copper;
+- the availability of, and uncertainties relating to, any additional financing necessary for the continued operation and development of our projects, including with respect to our ability to obtain any additional construction financing, if needed, to complete the construction and commencement of commercial operations at Florence Copper;
+- shortages of water supply, critical spare parts, maintenance service and new equipment and machinery or our ability to manage surplus water on our mine sites may materially and adversely affect our operations and development projects;
+- our ability to comply with the extensive governmental regulation to which our business is subject;
+- uncertainties related to our ability to obtain necessary title, licenses and permits for our development projects and project delays due to third party opposition;
+- uncertainties related to Indigenous people’s claims and rights, and legislation and government policies regarding the same;
+- our reliance on the availability of infrastructure necessary for development and on operations, including on rail transportation and port terminals for shipping of our copper concentrate production from Gibraltar, and rail transportation and power for the feasibility of our other British Columbia development projects;
+- uncertainties related to unexpected judicial or regulatory proceedings;
+- changes in, and the effects of, the laws, regulations and government policies affecting our exploration and development activities and mining operations;
+- potential changes to the mineral tenure system in British Columbia, which is undergoing reform for compliance with the Declaration Act (British Columbia);
+- our dependence solely on our 100% interest in Gibraltar for our revenues and our operating cash flows;
+- our ability to extend existing concentrate off-take agreements or enter into new agreements;
+- environmental issues and liabilities associated with mining including processing and stockpiling ore;
+- labour strikes, work stoppages, or other interruptions to, or difficulties in, the employment of labour in markets in which we operate mines, industrial accidents, equipment failure or other events or occurrences, including third party interference that interrupt the production of minerals in our mines;
+- environmental hazards and risks associated with climate change, including the potential for damage to infrastructure and stoppages of operations due to extreme cold, forest fires, flooding, drought, earthquakes or other natural events in the vicinity of our operations;
+- litigation risks and the inherent uncertainty of litigation;
+- our actual costs of reclamation and mine closure may exceed our current estimates of these liabilities;
+- our ability to renegotiate our existing union agreement for Gibraltar when it expires in May 2027;
+- the capital intensive nature of our business both to sustain current mining operations and to develop any new projects including Florence Copper;
+- our ability to develop new mining projects may be adversely impacted by potential indigenous joint decision-making and consent agreements being implemented by the Government of British Columbia under the B.C. Declaration on the Rights of Indigenous Peoples Act;
+- our reliance upon key personnel;
+- the competitive environment in which we operate;
+- the effects of forward selling instruments to protect against fluctuations in copper prices and other input costs including diesel and acid;
+- the risk of changes in accounting policies and methods we use to report our financial condition, including uncertainties associated with critical accounting assumptions and estimates;
+- uncertainties relating to the war in Ukraine, the Israel-Hamas conflict and other future geopolitical events including social unrest, which could disrupt financial markets, supply chains, availability of materials and equipment and execution timelines for any project development;
+- recent changes to U.S. trade policies and tariff risks may adversely impact overall economic conditions, copper markets, supply chains, metal prices and input costs; and
+- other risks detailed from time-to-time in our annual information forms, annual reports, MD&A, quarterly reports and material change reports filed with and furnished to securities regulators, and those risks which are discussed under the heading “Risk Factors”.
+
+
+For further information on Taseko, investors should review the Company’s annual Form 40-F filing with the United States Securities and Exchange Commission www.sec.gov and home jurisdiction filings that are available at www.sedarplus.ca, including the “Risk Factors” included in our Annual Information Form.

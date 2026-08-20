@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d026904aaa992ffc50ffbfd7b1747dff3e96c2d0bb5d669ad0e9e104a89884a2",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134761",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134761"
+  },
+  "title": "SA-2026-022 - OpenSSL PKCS#12 BMPString Corruption (CVE-2025-69419)",
+  "summary": "Calling PKCS12_get_friendlyname() function on a maliciously crafted PKCS#12 file with a BMPString (UTF-16BE) friendly name containing non-ASCII BMP code point can trigger a one byte write before the allocated buffer. The out-of-bounds write can cause a memory corruption which can have various consequences including a Denial of Service. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-03-20T14:40:04+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-07-22T19:09:52.015654+00:00",
+  "last_updated_at": "2026-07-22T19:09:52.019074+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/d0/d026904aaa992ffc50ffbfd7b1747dff3e96c2d0bb5d669ad0e9e104a89884a2/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/d0/d026904aaa992ffc50ffbfd7b1747dff3e96c2d0bb5d669ad0e9e104a89884a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1398,
+    "sha256": "sha256:a6f3a7a6b0939ce00598e65729fec4530506dc55b6a048bbd7f7a058a1ae7a75",
+    "normalized_content_hash": "sha256:428e0ace902611006ac24054cf1dca8b88d4c0a446f838cc3068b83348f63c44"
+  },
+  "provenance": {
+    "source_item_id": "624c3e3e-6fc6-4e77-a152-1d279d9dcb64",
+    "external_id": "000134761"
+  }
+}

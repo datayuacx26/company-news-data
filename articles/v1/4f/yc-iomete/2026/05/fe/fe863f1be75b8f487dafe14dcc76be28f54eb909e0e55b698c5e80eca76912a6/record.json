@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe863f1be75b8f487dafe14dcc76be28f54eb909e0e55b698c5e80eca76912a6",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/federated-query-explained",
+    "canonical": "https://iomete.com/resources/blog/federated-query-explained"
+  },
+  "title": "Federated query: how it works and when to use it",
+  "summary": "Federated query joins data across databases, files, and lakehouses without ETL pipelines. How it works, where it breaks, and what production-grade looks like.",
+  "published_at": "2026-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:31:44.448316+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-08-06T00:55:55.797137+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/05/fe/fe863f1be75b8f487dafe14dcc76be28f54eb909e0e55b698c5e80eca76912a6/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/05/fe/fe863f1be75b8f487dafe14dcc76be28f54eb909e0e55b698c5e80eca76912a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1430,
+    "sha256": "sha256:3fecb54e7e25facaf802c360f2e3786c0e00375dba8542f7f120d9941d691af1",
+    "normalized_content_hash": "sha256:015767eb0b4d8684f1875e359e29cac5a490b769ee4119c7dd8735aaeec3d474"
+  },
+  "provenance": {
+    "source_item_id": "b13d0fff-657a-422b-87c1-1ca9f9a1766c",
+    "external_id": "https://iomete.com/resources/blog/federated-query-explained"
+  }
+}

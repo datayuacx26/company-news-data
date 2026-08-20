@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c38cdf9204ed578000fd0d0d7549a2b1d858d83887308536c2678823b82182db",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/circleci-oidc",
+    "canonical": "https://depot.dev/blog/circleci-oidc"
+  },
+  "title": "Now available: CircleCI OIDC for Depot builds",
+  "summary": "In addition to our existing GitHub Actions and Buildkite OIDC integrations via trust relationships, we now support CircleCI OIDC for Depot builds as well.",
+  "published_at": "2023-09-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/09/c3/c38cdf9204ed578000fd0d0d7549a2b1d858d83887308536c2678823b82182db/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/09/c3/c38cdf9204ed578000fd0d0d7549a2b1d858d83887308536c2678823b82182db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3122,
+    "sha256": "sha256:8074da11dccb9c982e11d187c584d7f5be7c540fa6e4af562340333d634b0d69",
+    "normalized_content_hash": "sha256:f2feb91e405a5ffef204d0c5e19d996f28cfbc04e49299a434a7ad8331087088"
+  },
+  "provenance": {
+    "source_item_id": "fe93a116-9934-4555-a649-8de2494a65dd",
+    "external_id": "https://depot.dev/blog/circleci-oidc"
+  }
+}

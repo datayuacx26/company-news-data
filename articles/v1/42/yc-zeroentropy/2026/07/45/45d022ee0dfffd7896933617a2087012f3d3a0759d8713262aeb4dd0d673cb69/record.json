@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "45d022ee0dfffd7896933617a2087012f3d3a0759d8713262aeb4dd0d673cb69",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/zeroentropy-migration-guide/",
+    "canonical": "https://zeroentropy.dev/articles/zeroentropy-migration-guide/"
+  },
+  "title": "ZeroEntropy Migration Guide",
+  "summary": "How to migrate an application off the ZeroEntropy API onto a self-managed stack — covering rerank/embed models, zSearch, OCR, and data backfill.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T06:27:17.647384+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T18:29:28.322923+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/07/45/45d022ee0dfffd7896933617a2087012f3d3a0759d8713262aeb4dd0d673cb69/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/07/45/45d022ee0dfffd7896933617a2087012f3d3a0759d8713262aeb4dd0d673cb69/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 34929,
+    "sha256": "sha256:b1eea546bd495206dbb678584b4c4b2f2532b06507a0dde19087251eff8220f2",
+    "normalized_content_hash": "sha256:109fd67059badb1fa47b10af9de6e8dacceba3d1288ea2e61a6823391a2db25e"
+  },
+  "provenance": {
+    "source_item_id": "49582a10-9877-469a-8fe2-119ae917a8b3",
+    "external_id": "https://zeroentropy.dev/articles/zeroentropy-migration-guide/"
+  }
+}

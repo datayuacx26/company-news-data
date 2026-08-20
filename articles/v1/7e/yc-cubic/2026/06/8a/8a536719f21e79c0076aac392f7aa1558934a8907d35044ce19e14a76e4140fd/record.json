@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a536719f21e79c0076aac392f7aa1558934a8907d35044ce19e14a76e4140fd",
+  "company": {
+    "key": "yc-cubic",
+    "name": "cubic"
+  },
+  "source": {
+    "id": "yc-cubic-news-import-612274238019",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cubic.dev/blog/the-ai-code-review-platform-built-to-catch-out-of-diff-bugs",
+    "canonical": "https://www.cubic.dev/blog/the-ai-code-review-platform-built-to-catch-out-of-diff-bugs"
+  },
+  "title": "cubic blog: The AI Code Review Platform Built to Catch Out-of-Diff Bugs",
+  "summary": "Modern applications suffer from systemic bugs that only emerge when a local change negatively interacts with distant, unmodified parts of the codebase. Traditional pull request reviews analyze only the changed lines, leaving developers completely blind to downstream design issues and cross-file state mutations.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:00:01.338366+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T00:19:53.917923+00:00",
+  "paths": {
+    "article": "articles/v1/7e/yc-cubic/2026/06/8a/8a536719f21e79c0076aac392f7aa1558934a8907d35044ce19e14a76e4140fd/article.md",
+    "record": "articles/v1/7e/yc-cubic/2026/06/8a/8a536719f21e79c0076aac392f7aa1558934a8907d35044ce19e14a76e4140fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7472,
+    "sha256": "sha256:aeaf0eb753a7984f9c874ae35907bbcb1634781dc1d3f6fa5a6e126e357554b1",
+    "normalized_content_hash": "sha256:c97705b8810595f71acfe0a53096f4851ffd6cc8f4008e36a232ecf027e62129"
+  },
+  "provenance": {
+    "source_item_id": "cb502458-d045-4e5c-b36f-b29041fa7e75",
+    "external_id": "https://www.cubic.dev/blog/the-ai-code-review-platform-built-to-catch-out-of-diff-bugs"
+  }
+}

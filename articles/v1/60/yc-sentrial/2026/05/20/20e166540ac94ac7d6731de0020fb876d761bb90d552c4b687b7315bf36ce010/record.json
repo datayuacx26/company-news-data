@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20e166540ac94ac7d6731de0020fb876d761bb90d552c4b687b7315bf36ce010",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/arize-vs-braintrust-what-neither-tool-catches",
+    "canonical": "https://www.sentrial.com/blog/arize-vs-braintrust-what-neither-tool-catches"
+  },
+  "title": "Arize vs Braintrust: The Silent Failure Gap Both Tools Miss",
+  "summary": "We analyzed 12 million agent logs and found 78% of failures never trigger an alert. Here's where Arize Phoenix and Braintrust each stop, and what fills the gap.",
+  "published_at": "2026-05-28T03:21:28.345+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/05/20/20e166540ac94ac7d6731de0020fb876d761bb90d552c4b687b7315bf36ce010/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/05/20/20e166540ac94ac7d6731de0020fb876d761bb90d552c4b687b7315bf36ce010/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22643,
+    "sha256": "sha256:17324e7cfe76626cf0cc70bf03d5134f3c6c8c443a8d1136c89a0884d1957c27",
+    "normalized_content_hash": "sha256:667b782c3cf8935ea91406097dc9a56c7ed88586fd646acec557940c36ac6a3f"
+  },
+  "provenance": {
+    "source_item_id": "beea7cd3-0215-4df3-9a41-05cd7629cef4",
+    "external_id": "https://www.sentrial.com/blog/arize-vs-braintrust-what-neither-tool-catches"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5de20e80a7aa3884206b0dd94f97c50b94fbd34173a5205229fc012a7f4bca5",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-26fc52334fc9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/natural-language-text-and-image-classifiers-train-your-feeds-with-plain-english/13585",
+    "canonical": "https://forum.newsblur.com/t/natural-language-text-and-image-classifiers-train-your-feeds-with-plain-english/13585"
+  },
+  "title": "Natural language text and image classifiers: Train your feeds with plain English",
+  "summary": "<p>The Intelligence Trainer has always worked with exact matches. You type a keyword, a tag, an author name, and NewsBlur filters on that literal string. Regex mode added flexibility, but you still need to know exactly what to type. If you want to hide clickbait, you’d have to enumerate every clickbait pattern you can think of. If you want to focus on stories about local government accountability, good luck expressing that as a regex.</p> Natural language classifiers let you describe what you...",
+  "published_at": "2026-04-02T20:07:45+00:00",
+  "first_seen_at": "2026-07-25T16:10:33.287397+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T01:10:36.742131+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/04/b5/b5de20e80a7aa3884206b0dd94f97c50b94fbd34173a5205229fc012a7f4bca5/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/04/b5/b5de20e80a7aa3884206b0dd94f97c50b94fbd34173a5205229fc012a7f4bca5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9890,
+    "sha256": "sha256:0cbdb162a940f9f86d8dc89b953ec5059efd5e0e41d7476a84ad0a4a26977461",
+    "normalized_content_hash": "sha256:9227a9302f0872f49af60ef0d2fdb6e2b14393a2a74f35e366cdf4ee19a83e8a"
+  },
+  "provenance": {
+    "source_item_id": "6a8430e5-539d-4079-bb32-bc92e989c4b6",
+    "external_id": "forum.newsblur.com-topic-13585"
+  }
+}

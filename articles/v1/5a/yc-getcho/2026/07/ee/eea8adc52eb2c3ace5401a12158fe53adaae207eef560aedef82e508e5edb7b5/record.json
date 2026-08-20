@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eea8adc52eb2c3ace5401a12158fe53adaae207eef560aedef82e508e5edb7b5",
+  "company": {
+    "key": "yc-getcho",
+    "name": "Getcho"
+  },
+  "source": {
+    "id": "yc-getcho-rss-e8ccd9728c81",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://getcho.app/blog/_delivery-forensics-01-marked-delivered-not-received/",
+    "canonical": "https://getcho.app/blog/_delivery-forensics-01-marked-delivered-not-received/"
+  },
+  "title": "Delivery Forensics: The Package Marked Delivered That Never Arrived",
+  "summary": "A customer reported an order missing minutes after it was marked delivered. GPS pings and the proof-of-delivery photo told different stories. Here is the exact investigation workflow — and the root cause.",
+  "published_at": "2026-07-28T09:00:00+00:00",
+  "first_seen_at": "2026-08-05T03:05:22.858420+00:00",
+  "fetched_at": "2026-08-20T02:33:55.613034+00:00",
+  "last_updated_at": "2026-08-20T02:33:55.726010+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-getcho/2026/07/ee/eea8adc52eb2c3ace5401a12158fe53adaae207eef560aedef82e508e5edb7b5/article.md",
+    "record": "articles/v1/5a/yc-getcho/2026/07/ee/eea8adc52eb2c3ace5401a12158fe53adaae207eef560aedef82e508e5edb7b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 796,
+    "sha256": "sha256:7bc05321620264cdd8209f806d77a991d1223a116123c64645d1caf5dfbe7df9",
+    "normalized_content_hash": "sha256:18842732b04f6689ea456b537dcea84847f2db348531526d6cbba699b6fbb0ce"
+  },
+  "provenance": {
+    "source_item_id": "0e932060-436b-4fdc-8a3e-bb8f85034941",
+    "external_id": "https://getcho.app/blog/_delivery-forensics-01-marked-delivered-not-received/"
+  }
+}

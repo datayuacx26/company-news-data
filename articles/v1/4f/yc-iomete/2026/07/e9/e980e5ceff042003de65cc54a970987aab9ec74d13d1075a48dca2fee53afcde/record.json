@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e980e5ceff042003de65cc54a970987aab9ec74d13d1075a48dca2fee53afcde",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/runtime-pii-phi-masking-row-level-security",
+    "canonical": "https://iomete.com/resources/blog/runtime-pii-phi-masking-row-level-security"
+  },
+  "title": "Runtime PII & PHI Masking in the Spark Query Engine",
+  "summary": "How IOMETE enforces PII/PHI masking and row-level security inside the Spark query engine, covering SQL, notebooks, jobs, JDBC, and Spark Connect.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T00:32:16.257464+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-20T00:52:51.295677+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/07/e9/e980e5ceff042003de65cc54a970987aab9ec74d13d1075a48dca2fee53afcde/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/07/e9/e980e5ceff042003de65cc54a970987aab9ec74d13d1075a48dca2fee53afcde/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16064,
+    "sha256": "sha256:533c44251feb2660a8a5922e5540a4fcad11aae155343ca141b066d429893b4c",
+    "normalized_content_hash": "sha256:92e3260c2fe39eb68520e7b0ab80f9200eea8bc6e0c3c54228c9b6b358e09919"
+  },
+  "provenance": {
+    "source_item_id": "6680d608-dd64-45f9-82c0-4e152c66187a",
+    "external_id": "https://iomete.com/resources/blog/runtime-pii-phi-masking-row-level-security"
+  }
+}

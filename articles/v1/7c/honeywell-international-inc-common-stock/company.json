@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "honeywell-international-inc-common-stock",
+    "name": "Honeywell International Inc."
+  },
+  "record_count": 59,
+  "first_published_at": "2019-06-08T04:00:00+00:00",
+  "last_published_at": "2026-08-19T12:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 25
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 11
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7c/honeywell-international-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 66529,
+        "sha256": "sha256:5680e5476ed63aa51a5da9eafbab4d53bb23fdb4d84f84b65d755ee350d5c3a8",
+        "newest_at": "2026-08-19T12:15:00+00:00",
+        "oldest_at": "2025-03-08T22:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/7c/honeywell-international-inc-common-stock/index/pages/000002.json",
+        "record_count": 9,
+        "byte_count": 11352,
+        "sha256": "sha256:0f80aa0a71cb2398c9c3f4fd7f0680c8dfccb155815ec21dd993164304cdb813",
+        "newest_at": "2025-03-02T18:30:00+00:00",
+        "oldest_at": "2019-06-08T04:00:00+00:00"
+      }
+    ]
+  }
+}

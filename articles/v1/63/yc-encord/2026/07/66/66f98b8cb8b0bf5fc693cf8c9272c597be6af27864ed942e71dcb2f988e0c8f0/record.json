@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66f98b8cb8b0bf5fc693cf8c9272c597be6af27864ed942e71dcb2f988e0c8f0",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/choosing-image-annotation-type/",
+    "canonical": "https://encord.com/blog/choosing-image-annotation-type/"
+  },
+  "title": "Bounding Box vs. Polygon vs. Segmentation vs. Keypoint: Which Annotation Type Fits Your Task?",
+  "summary": "TL;DR: Bounding boxes are fastest and best for object detection where approximate location is enough. Polygons trace irregular boundaries and fe",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:09:08.651480+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-20T01:45:33.388619+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/66/66f98b8cb8b0bf5fc693cf8c9272c597be6af27864ed942e71dcb2f988e0c8f0/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/66/66f98b8cb8b0bf5fc693cf8c9272c597be6af27864ed942e71dcb2f988e0c8f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16136,
+    "sha256": "sha256:d7abdb9132feee26beeef3c44297eb2b6081dc6f36572cd5d46803e1ad535603",
+    "normalized_content_hash": "sha256:e4b1e8e2ee6a8d7f39b06bdf143e539af79f581dbf9b0259777e4d6b1b1552b5"
+  },
+  "provenance": {
+    "source_item_id": "6d24fd0b-d6ae-4f2e-8a16-7a82522bb941",
+    "external_id": "https://encord.com/blog/choosing-image-annotation-type/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd1877185b4ec4703d696e7e0b4c5557f5cc246a53695a9e92cbf96b8314fd1e",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-2c9844a44afc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/blog/multi-agent-orchestration",
+    "canonical": "https://mastra.ai/blog/multi-agent-orchestration"
+  },
+  "title": "Multi-agent orchestration and how it works",
+  "summary": "What multi-agent orchestration is, the four workflows Anthropic names (orchestrator-workers, prompt chaining, parallelization, routing), and runnable Mastra code for each, with an interactive explainer.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:34.426085+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:41:59.847590+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/07/bd/bd1877185b4ec4703d696e7e0b4c5557f5cc246a53695a9e92cbf96b8314fd1e/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/07/bd/bd1877185b4ec4703d696e7e0b4c5557f5cc246a53695a9e92cbf96b8314fd1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17630,
+    "sha256": "sha256:49e00fbd22b2293a5f43bb2b27d6825bea5ee678acb5e58290ab56239e4f29a5",
+    "normalized_content_hash": "sha256:ddd19df87855b8a853463e2dc3207078772dde2bb9ef5046e22a9b38d832c5c2"
+  },
+  "provenance": {
+    "source_item_id": "4aa090e9-4273-4ffd-a5f0-e43c9de1235b",
+    "external_id": "https://mastra.ai/blog/multi-agent-orchestration"
+  }
+}

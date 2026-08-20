@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-coba",
+    "name": "Coba"
+  },
+  "record_count": 58,
+  "first_published_at": "2025-05-06T00:00:00+00:00",
+  "last_published_at": "2026-08-04T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 46
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4c/yc-coba/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49262,
+        "sha256": "sha256:dffe2509339b91808888f50d035ba3182fe9c20e4248393903a93d48330ab2f2",
+        "newest_at": "2026-08-04T00:00:00+00:00",
+        "oldest_at": "2026-07-17T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/4c/yc-coba/index/pages/000002.json",
+        "record_count": 8,
+        "byte_count": 8081,
+        "sha256": "sha256:c281cce22ab2a1511c78c2fc443ea79467ac94682cb957b8b9c3f295c8a9dfb9",
+        "newest_at": "2026-07-16T00:00:00+00:00",
+        "oldest_at": "2025-05-06T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "658024ec9ead7759cd9ef068cf62c6ada10cf90041f00b7f81c9ae1710d8b18c",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/databricks-direct-loading-speed-mode",
+    "canonical": "https://airbyte.com/blog/databricks-direct-loading-speed-mode"
+  },
+  "title": "Destination Databricks 4.0: Up to 4.5x Faster with Direct Loading and Speed Mode",
+  "summary": "Destination Databricks 4.0 is up to 4.5x faster with Direct Loading, Speed Mode, and Avro staging, cutting sync time and warehouse compute costs.",
+  "published_at": "2026-08-18T06:54:00+00:00",
+  "first_seen_at": "2026-08-18T20:05:17.677933+00:00",
+  "fetched_at": "2026-08-18T20:05:20.495654+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/08/65/658024ec9ead7759cd9ef068cf62c6ada10cf90041f00b7f81c9ae1710d8b18c/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/08/65/658024ec9ead7759cd9ef068cf62c6ada10cf90041f00b7f81c9ae1710d8b18c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13803,
+    "sha256": "sha256:79a4478a8e2c358bef35becc465d644f8f22063c0ebb9585e923888e5d930ab3",
+    "normalized_content_hash": "sha256:44e078b2549dacbcde4d05b177917bc84929c0a6f733f32888ea8e1bba7a6045"
+  },
+  "provenance": {
+    "source_item_id": "c4def50e-11ec-4bf5-ace7-7d9c782f4d8e",
+    "external_id": "https://airbyte.com/blog/databricks-direct-loading-speed-mode"
+  }
+}

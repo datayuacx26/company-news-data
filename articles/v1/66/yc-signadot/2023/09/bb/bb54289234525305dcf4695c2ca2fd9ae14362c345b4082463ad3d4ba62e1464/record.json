@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb54289234525305dcf4695c2ca2fd9ae14362c345b4082463ad3d4ba62e1464",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/is-wasm-the-future-for-kubernetes-operators/",
+    "canonical": "https://www.signadot.com/blog/is-wasm-the-future-for-kubernetes-operators/"
+  },
+  "title": "Is WASM the future for Kubernetes Operators?",
+  "summary": "Delve into the potential of WebAssembly (WASM) in Kubernetes operations. Understand its advantages in startup times, portability, and security. Explore its use in creating Envoy filters and the skepticism surrounding its applicability in server environments. Evaluate if WASM is the right fit for your Kubernetes needs.",
+  "published_at": "2023-09-12T01:51:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/09/bb/bb54289234525305dcf4695c2ca2fd9ae14362c345b4082463ad3d4ba62e1464/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/09/bb/bb54289234525305dcf4695c2ca2fd9ae14362c345b4082463ad3d4ba62e1464/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7083,
+    "sha256": "sha256:f0bf9347cf9ebdab780fdb650fda1e9029e8f14f5d50532a976a77ff7cc865bd",
+    "normalized_content_hash": "sha256:1be0e4ad8ad23054afd4b10c811af4db01775f232f4629d81b1ed7785d2ccdd0"
+  },
+  "provenance": {
+    "source_item_id": "654fccbe-34df-4928-8966-18116ccdf799",
+    "external_id": "https://www.signadot.com/blog/is-wasm-the-future-for-kubernetes-operators/"
+  }
+}

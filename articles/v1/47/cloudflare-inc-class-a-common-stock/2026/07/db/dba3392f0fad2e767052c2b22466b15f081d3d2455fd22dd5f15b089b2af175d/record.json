@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dba3392f0fad2e767052c2b22466b15f081d3d2455fd22dd5f15b089b2af175d",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/dnssec-nta-ede-33/",
+    "canonical": "https://blog.cloudflare.com/dnssec-nta-ede-33/"
+  },
+  "title": "A broken DNSSEC rollover took down .al. Now 1.1.1.1 tells you when validation is bypassed",
+  "summary": "When a failed DNSSEC key rollover took down the .AL TLD, we deployed a Negative Trust Anchor to restore resolution. This time, though, clients didn't have to take our word for it: 1.1.1.1 returned EDE 33, a new DNS error code that signals directly in the response that DNSSEC validation was bypassed.",
+  "published_at": "2026-07-14T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:14.182345+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-04T11:33:24.919158+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/db/dba3392f0fad2e767052c2b22466b15f081d3d2455fd22dd5f15b089b2af175d/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/db/dba3392f0fad2e767052c2b22466b15f081d3d2455fd22dd5f15b089b2af175d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11583,
+    "sha256": "sha256:8cbe247a37e3b2d147fa95b02ba6544e5ab8e7f5379ef84ac3dd44e5c2641df8",
+    "normalized_content_hash": "sha256:190bd1eae2532d73c1c071e5bdee198c2c27f15898d4bfe1fd634401e5da8bfc"
+  },
+  "provenance": {
+    "source_item_id": "56692233-af88-44db-b6cf-ad2607161bfa",
+    "external_id": "4k8LbDKkNXwcJVEFYF1ije"
+  }
+}

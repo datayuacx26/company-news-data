@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "94e3680e2c7627e25a661fb7ddba41f39ac5d804d052dfb29b6a7806f6451faa",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/autorouter-v2",
+    "canonical": "https://docs.litellm.ai/blog/autorouter-v2"
+  },
+  "title": "Auto Router v2: one router for complexity, semantic, and adaptive routing",
+  "summary": "Auto Router v2 folds LiteLLM's complexity, semantic, and adaptive routers into a single router with an LLM classifier, keyword tiers, multi-model pools, and adaptive Thompson sampling.",
+  "published_at": "2026-07-13T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/94/94e3680e2c7627e25a661fb7ddba41f39ac5d804d052dfb29b6a7806f6451faa/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/94/94e3680e2c7627e25a661fb7ddba41f39ac5d804d052dfb29b6a7806f6451faa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9730,
+    "sha256": "sha256:d7c0415272cda9de4700ec4ecd0ab5e0cbdf4e44785d45c37822d2fa357ec62b",
+    "normalized_content_hash": "sha256:44d3632f57279102a9698667f07e7fcd92214a726230ab50087862ae7e984b25"
+  },
+  "provenance": {
+    "source_item_id": "07d30875-d60e-4472-bd72-2f75dffd0ad4",
+    "external_id": "https://docs.litellm.ai/blog/autorouter-v2"
+  }
+}

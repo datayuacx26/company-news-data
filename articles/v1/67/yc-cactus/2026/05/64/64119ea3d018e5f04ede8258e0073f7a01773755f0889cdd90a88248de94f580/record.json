@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64119ea3d018e5f04ede8258e0073f7a01773755f0889cdd90a88248de94f580",
+  "company": {
+    "key": "yc-cactus",
+    "name": "Cactus"
+  },
+  "source": {
+    "id": "yc-cactus-news-import-6d2738280b9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cactuscompute.com/blog/needle",
+    "canonical": "https://cactuscompute.com/blog/needle"
+  },
+  "title": "Needle: We Distilled Gemini Tool Calling into a 26M Model",
+  "summary": "An open-source 26M parameter function-calling model that runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.",
+  "published_at": "2026-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:58:31.633623+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-20T01:45:53.248267+00:00",
+  "paths": {
+    "article": "articles/v1/67/yc-cactus/2026/05/64/64119ea3d018e5f04ede8258e0073f7a01773755f0889cdd90a88248de94f580/article.md",
+    "record": "articles/v1/67/yc-cactus/2026/05/64/64119ea3d018e5f04ede8258e0073f7a01773755f0889cdd90a88248de94f580/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3744,
+    "sha256": "sha256:ad34be0fcb48b03e1ea8af364c1c51577d92c5e66200294c74dc5c5f4633e870",
+    "normalized_content_hash": "sha256:1a18f43f63b21bdce1c07360e7e7197d010a4de1d00e9766a9c40f6761427f24"
+  },
+  "provenance": {
+    "source_item_id": "7fc40464-e0ad-46ca-be51-4ab03d5e1f32",
+    "external_id": "https://cactuscompute.com/blog/needle"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a9cba5a1d121326e0ae76b7cfb38604e398b4343c40b7eeeecb4e59719b024a6",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/lambda-durable-implementation",
+    "canonical": "https://depot.dev/blog/lambda-durable-implementation"
+  },
+  "title": "Lambda durable functions: Real implementation notes",
+  "summary": "AWS Lambda durable functions let you write long-running processes that survive crashes and suspend compute entirely while waiting for external events. Getting them right requires understanding how replay works and the distinct failure modes of durable functions. Here's what we've learned from running durable functions for real.",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:53:35.081205+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/03/a9/a9cba5a1d121326e0ae76b7cfb38604e398b4343c40b7eeeecb4e59719b024a6/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/03/a9/a9cba5a1d121326e0ae76b7cfb38604e398b4343c40b7eeeecb4e59719b024a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19390,
+    "sha256": "sha256:8cc4f55cbbecc3eba14bf28a0f4593396e05de68a7f7ac58b5ffabb17ed27cb6",
+    "normalized_content_hash": "sha256:f462d93d8786c4f55e6f86f4b8e4cfd72d1cdc1239bd3d8ba53069fee3d67498"
+  },
+  "provenance": {
+    "source_item_id": "c87c3cd2-a6ee-4e66-82c9-19da5b1c45a9",
+    "external_id": "https://depot.dev/blog/lambda-durable-implementation"
+  }
+}

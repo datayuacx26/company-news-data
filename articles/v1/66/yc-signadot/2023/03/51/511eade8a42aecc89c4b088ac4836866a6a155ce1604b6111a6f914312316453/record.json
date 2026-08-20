@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "511eade8a42aecc89c4b088ac4836866a6a155ce1604b6111a6f914312316453",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/testing-kafka-based-asynchronous-workflows-using-opentelemetry/",
+    "canonical": "https://www.signadot.com/blog/testing-kafka-based-asynchronous-workflows-using-opentelemetry/"
+  },
+  "title": "Testing Kafka-based Asynchronous Workflows Using OpenTelemetry",
+  "summary": "Explore the complexities of testing Kafka-based asynchronous workflows. Learn about three different approaches, their pros and cons, and how OpenTelemetry can be used for dynamic routing of requests and messages.",
+  "published_at": "2023-03-22T11:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/03/51/511eade8a42aecc89c4b088ac4836866a6a155ce1604b6111a6f914312316453/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/03/51/511eade8a42aecc89c4b088ac4836866a6a155ce1604b6111a6f914312316453/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13383,
+    "sha256": "sha256:7b1bd139c19113f184caaac6cc30a9e97186256a9d9e08d8f2cc721579595172",
+    "normalized_content_hash": "sha256:c11c9b27b6bbbeb584c60390475f62a3e9e658987f57006ed3f59046fd04437e"
+  },
+  "provenance": {
+    "source_item_id": "acc7d5f6-6500-4043-b813-7303b36baaaf",
+    "external_id": "https://www.signadot.com/blog/testing-kafka-based-asynchronous-workflows-using-opentelemetry/"
+  }
+}

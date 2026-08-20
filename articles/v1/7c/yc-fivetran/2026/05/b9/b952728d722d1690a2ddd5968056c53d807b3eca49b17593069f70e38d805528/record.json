@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b952728d722d1690a2ddd5968056c53d807b3eca49b17593069f70e38d805528",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/85-of-enterprises-are-running-agentic-ai-on-a-data-foundation-that-isnt-ready",
+    "canonical": "https://www.fivetran.com/blog/85-of-enterprises-are-running-agentic-ai-on-a-data-foundation-that-isnt-ready"
+  },
+  "title": "85% of enterprises are running agentic AI on a data foundation that isn't ready",
+  "summary": "Enterprises are pouring millions into agentic AI. New findings from Fivetran's “Agentic AI readiness index 2026” reveal why most won’t see the return.",
+  "published_at": "2026-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2026/05/b9/b952728d722d1690a2ddd5968056c53d807b3eca49b17593069f70e38d805528/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2026/05/b9/b952728d722d1690a2ddd5968056c53d807b3eca49b17593069f70e38d805528/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5777,
+    "sha256": "sha256:045cdf38b1c95f2f79d9be3f51390800285cec93bf9afdeaab8fc18dd0cd2a8f",
+    "normalized_content_hash": "sha256:60925eb911c8bce110d07554eea5cd7117d5d27e2d3e4d412d53825f6bb157a6"
+  },
+  "provenance": {
+    "source_item_id": "02e69ce0-3aa5-46e7-91b5-d6a74ab260c7",
+    "external_id": "https://www.fivetran.com/blog/85-of-enterprises-are-running-agentic-ai-on-a-data-foundation-that-isnt-ready"
+  }
+}

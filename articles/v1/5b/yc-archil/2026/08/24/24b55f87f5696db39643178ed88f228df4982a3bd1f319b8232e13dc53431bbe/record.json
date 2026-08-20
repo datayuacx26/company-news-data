@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24b55f87f5696db39643178ed88f228df4982a3bd1f319b8232e13dc53431bbe",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/s3fs-vs-goofyfs-s3-filesystem-tradeoffs",
+    "canonical": "https://archil.com/article/s3fs-vs-goofyfs-s3-filesystem-tradeoffs"
+  },
+  "title": "GoofyFS vs s3fs?",
+  "summary": "Compares s3fs and Goofys, two tools for mounting S3 as a local filesystem, and explains how their metadata handling, caching strategies, and API usage impact performance, consistency, and cost. Helps teams understand when filesystem-on-S3 layers are sufficient—and when object-native approaches are a better fit for large-scale data workloads.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/24/24b55f87f5696db39643178ed88f228df4982a3bd1f319b8232e13dc53431bbe/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/24/24b55f87f5696db39643178ed88f228df4982a3bd1f319b8232e13dc53431bbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8917,
+    "sha256": "sha256:a51653b4ff9a85c6887585d10123c9086d974b2ed24d400c3806476f45fc87c1",
+    "normalized_content_hash": "sha256:6e7bd7f1999bb19ba82c1ccd4f13899a51a136b451ac351030187b946a2aba3d"
+  },
+  "provenance": {
+    "source_item_id": "7cb95527-aaff-4a48-884f-9a2c4cb8431b",
+    "external_id": "https://archil.com/article/s3fs-vs-goofyfs-s3-filesystem-tradeoffs"
+  }
+}

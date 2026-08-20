@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b7d138e3b3f7acd909e2fc5b0882bd9947d6bb3daed5127e4be6f9ae0ad3eb9",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/the-enterprise-data-infrastructure-benchmark-report-2026",
+    "canonical": "https://www.fivetran.com/blog/the-enterprise-data-infrastructure-benchmark-report-2026"
+  },
+  "title": "The enterprise data infrastructure benchmark report 2026",
+  "summary": "A global benchmark of enterprise data integration spend and its impact on AI readiness and ROI.",
+  "published_at": "2026-03-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T22:17:35.086279+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2026/03/4b/4b7d138e3b3f7acd909e2fc5b0882bd9947d6bb3daed5127e4be6f9ae0ad3eb9/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2026/03/4b/4b7d138e3b3f7acd909e2fc5b0882bd9947d6bb3daed5127e4be6f9ae0ad3eb9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18347,
+    "sha256": "sha256:4bef3e330e3a5020a863cfec375ae1cd123f0ac887fdee460c1fda3251f19b1d",
+    "normalized_content_hash": "sha256:231abad75088f7f2e3c34d3b48ecfd53ed50128898db9a29467f3c3124fe80e4"
+  },
+  "provenance": {
+    "source_item_id": "844d7274-5125-4f18-91d9-78f8a4487cd1",
+    "external_id": "https://www.fivetran.com/blog/the-enterprise-data-infrastructure-benchmark-report-2026"
+  }
+}

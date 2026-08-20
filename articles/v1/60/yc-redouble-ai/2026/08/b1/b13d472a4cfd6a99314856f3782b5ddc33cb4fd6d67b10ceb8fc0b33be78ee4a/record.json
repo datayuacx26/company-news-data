@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b13d472a4cfd6a99314856f3782b5ddc33cb4fd6d67b10ceb8fc0b33be78ee4a",
+  "company": {
+    "key": "yc-redouble-ai",
+    "name": "Redouble AI"
+  },
+  "source": {
+    "id": "yc-redouble-ai-rss-94bf26a72f2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://deconvoluteai.com/blog/prompt-injection-defense-provenance-agentdojo-benchmark",
+    "canonical": "https://deconvoluteai.com/blog/prompt-injection-defense-provenance-agentdojo-benchmark"
+  },
+  "title": "Prompt Injection Defense by Provenance - AgentDojo Benchmark Results",
+  "summary": "Benchmark results for a provenance-based prompt injection defense on AgentDojo. Every attack reaching a gated sink blocked, with the utility cost measured.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-03T20:13:17.542913+00:00",
+  "fetched_at": "2026-08-03T20:38:58.255627+00:00",
+  "last_updated_at": "2026-08-20T01:58:57.445054+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-redouble-ai/2026/08/b1/b13d472a4cfd6a99314856f3782b5ddc33cb4fd6d67b10ceb8fc0b33be78ee4a/article.md",
+    "record": "articles/v1/60/yc-redouble-ai/2026/08/b1/b13d472a4cfd6a99314856f3782b5ddc33cb4fd6d67b10ceb8fc0b33be78ee4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 45231,
+    "sha256": "sha256:bcd9abe4574f229f92ca9d551f7ce6430091ff6ba299b2601aa81f8499de2539",
+    "normalized_content_hash": "sha256:9188b8145a721695ef41c381afeaaf9be5d1513a03f3842de2cf6fed44e125f1"
+  },
+  "provenance": {
+    "source_item_id": "1d88ad84-82e0-499b-862d-a8cfbe5b75c6",
+    "external_id": "https://deconvoluteai.com/blog/prompt-injection-defense-provenance-agentdojo-benchmark"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a283e3cb748766975c2fc5d3e6d5ae47ca8edb7f52739062fc1e0ebaf623d04",
+  "company": {
+    "key": "yc-anglera",
+    "name": "Anglera"
+  },
+  "source": {
+    "id": "yc-anglera-rss-43f494d1c3a6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.anglera.com/blog/data-hub-silver-layer-product-attributes",
+    "canonical": "https://www.anglera.com/blog/data-hub-silver-layer-product-attributes"
+  },
+  "title": "Product attributes in the lakehouse: cleaning the silver layer for real",
+  "summary": "Medallion pipelines clean product data for nulls and duplicates, but skip attribute enrichment - so gold-layer forecasts still train on noise.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:38.455846+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T00:48:35.740276+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-anglera/2026/05/3a/3a283e3cb748766975c2fc5d3e6d5ae47ca8edb7f52739062fc1e0ebaf623d04/article.md",
+    "record": "articles/v1/53/yc-anglera/2026/05/3a/3a283e3cb748766975c2fc5d3e6d5ae47ca8edb7f52739062fc1e0ebaf623d04/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7920,
+    "sha256": "sha256:c2aead0f5c7a5e2273e78d6e41f5649e4ca962b409e6fee7a4b07989126a3ebd",
+    "normalized_content_hash": "sha256:b16334ae29e52dbede3967a2f908bd53b0954d3a81327e6ef636a81375a5324c"
+  },
+  "provenance": {
+    "source_item_id": "c2606c8a-af53-4e79-8f99-320a686cf616",
+    "external_id": "https://www.anglera.com/blog/data-hub-silver-layer-product-attributes"
+  }
+}

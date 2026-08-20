@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0cdd2a6455e02deee350941d3501e7ef0cf726a235a82e6de8c793dcb6c4389",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/digitalocean-opencode-inference-routers",
+    "canonical": "https://www.digitalocean.com/blog/digitalocean-opencode-inference-routers"
+  },
+  "title": "OpenCode Now Supports DigitalOcean Inference Router for Intelligent Model Routing",
+  "summary": "DigitalOcean Inference Router, now in Public Preview, was built to solve this problem by dynamically routing requests to the right model for the job. As part of DigitalOcean’s AI-Native Cloud, it gives developers a unified way to control, optimize, and evaluate AI inference across models. And as of today, you can access it through OpenCode, the open-source AI coding agent, in as little as a few seconds.",
+  "published_at": "2026-05-28T21:02:42.819+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/05/f0/f0cdd2a6455e02deee350941d3501e7ef0cf726a235a82e6de8c793dcb6c4389/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/05/f0/f0cdd2a6455e02deee350941d3501e7ef0cf726a235a82e6de8c793dcb6c4389/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6426,
+    "sha256": "sha256:79dc22d39ed0edb052fa2459ef850ebec809d8875dc99e12882fff57e0f7a506",
+    "normalized_content_hash": "sha256:732b1122fa742e170ce9aa729193161787b30c0276e2f3ff5abb6a78abaa2280"
+  },
+  "provenance": {
+    "source_item_id": "1d19c7e1-41ba-4603-9e9f-6ccabc9c8d38",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/digitalocean-opencode-inference-routers"
+  }
+}

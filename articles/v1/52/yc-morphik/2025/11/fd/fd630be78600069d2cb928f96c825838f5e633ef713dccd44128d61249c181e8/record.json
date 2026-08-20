@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd630be78600069d2cb928f96c825838f5e633ef713dccd44128d61249c181e8",
+  "company": {
+    "key": "yc-morphik",
+    "name": "Morphik"
+  },
+  "source": {
+    "id": "yc-morphik-news-import-d199aadc49bb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dev.morphik.ai/blog/why-we-use-mongodb-in-production",
+    "canonical": "https://dev.morphik.ai/blog/why-we-use-mongodb-in-production"
+  },
+  "title": "Why We Use MongoDB in Production at Morphik",
+  "summary": "MongoDB keeps Morphik’s multi-tenant knowledge bases simple to model and fast to query.",
+  "published_at": "2025-11-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:54:38.041510+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-19T18:57:22.991011+00:00",
+  "paths": {
+    "article": "articles/v1/52/yc-morphik/2025/11/fd/fd630be78600069d2cb928f96c825838f5e633ef713dccd44128d61249c181e8/article.md",
+    "record": "articles/v1/52/yc-morphik/2025/11/fd/fd630be78600069d2cb928f96c825838f5e633ef713dccd44128d61249c181e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5030,
+    "sha256": "sha256:9a61f58eaa1d0a8a63a4eeeaa5982baf2e271ae8f585ff9eaae1fe0eed48ae03",
+    "normalized_content_hash": "sha256:8afc1fd2956e07a63cb2267bd9fc791e9a47cb5c128dfeca02fd147756a70dfa"
+  },
+  "provenance": {
+    "source_item_id": "9884f24b-60bb-4576-b84f-adcf487cdbd4",
+    "external_id": "https://dev.morphik.ai/blog/why-we-use-mongodb-in-production"
+  }
+}

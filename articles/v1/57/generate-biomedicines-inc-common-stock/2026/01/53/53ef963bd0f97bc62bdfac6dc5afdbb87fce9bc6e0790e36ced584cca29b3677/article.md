@@ -1,0 +1,45 @@
+---
+schema_version: "1.0.0"
+document_id: "53ef963bd0f97bc62bdfac6dc5afdbb87fce9bc6e0790e36ced584cca29b3677"
+company_key: "generate-biomedicines-inc-common-stock"
+company: "Generate Biomedicines Inc."
+source_id: "generate-biomedicines-inc-common-stock-news-import-220bb8f4df58"
+canonical_url: "https://generatebiomedicines.com/news-releases/generatebiomedicines-welcomes-aarif-khakoo-md-mba-as-chief-scientific-officer/"
+published_at: "2026-01-29T13:30:00+00:00"
+first_seen_at: "2026-07-23T10:24:22.236451+00:00"
+fetched_at: "2026-07-28T21:26:59.511520+00:00"
+content_hash: "sha256:0bafb55be8982e4653039a37c168676a11b48d0d9cdcdd6ac7fbea24c7ee9b9a"
+---
+
+# Generate:Biomedicines Welcomes Aarif Khakoo, MD, MBA, as Chief Scientific Officer
+
+[News Releases](https://generatebiomedicines.com/news-releases/)
+
+
+# Generate:Biomedicines Welcomes Aarif Khakoo, MD, MBA, as Chief Scientific Officer
+
+
+01.29.2026
+
+
+**SOMERVILLE, Mass., Jan. 29, 2026 –** Generate:Biomedicines (“Generate”) today announced the appointment of Aarif Khakoo, MD, MBA, as chief scientific officer. A physician-scientist and experienced biotechnology leader, Dr. Khakoo brings deep expertise in building and scaling platform-driven drug generation engines, with a track record of advancing medicines from discovery through early clinical development. In this role, he will lead scientific and strategic application of The Generate Platform to discover and develop therapeutics across the company’s pipeline.
+
+
+“Aarif is a highly respected scientific leader with a rare combination of translational insight, platform vision, and operational rigor,” said Mike Nally, chief executive officer of Generate:Biomedicines. ​“His experience building and scaling innovative discovery engines and advancing programs that translate into the clinic will be instrumental as we continue to expand the capabilities of The Generate Platform and advance our growing pipeline of protein therapeutics.”
+
+
+Dr. Khakoo joins Generate from Scribe Therapeutics, where he served as chief scientific officer and head of research and development, leading platform development, biology discovery, and translational research for a next‑generation genome editing and epigenetic silencing platform. Previously, he was head of drug development and chief medical officer at Calico Life Sciences, where he both oversaw multiple investigational new drug and clinical trial applications filings and advanced a pipeline of programs across immuno‑oncology, neurodegeneration, and kidney disease, while chairing the Calico–AbbVie Joint Steering Committee.
+
+
+Earlier in his career, Dr. Khakoo spent seven years at Amgen, where he founded and led the cardiometabolic disorders therapeutic area and contributed to the discovery and advancement of multiple novel clinical candidates, including programs now in late-stage development and one that has received FDA approval. He also served as head of Amgen’s South San Francisco site, overseeing its growth to an R&D hub of approximately 600 employees and chairing Amgen’s Early Program Review Committee, which guided the company’s early development portfolio.
+
+
+Before transitioning to industry, Dr. Khakoo served on the cardiology faculty at The University of Texas MD Anderson Cancer Center, leading translational research on heart failure and cancer therapy-related cardiotoxicity. He is a board‑certified physician, adjunct clinical faculty member at Stanford University, and author of numerous peer‑reviewed publications.
+
+
+**About Generate:Biomedicines**
+Generate is a clinical-stage generative biology company founded at the intersection of machine learning, biological engineering, and medicine, advancing a new era of programmable biology to engineer better medicines for patients, faster. The Generate Platform integrates computational design with large-scale biological experimentation, enabling the creation of novel, optimized therapeutics that address historically undruggable and hard-to-drug targets, as well as known targets in new and more effective ways. The platform has enabled the generation of a broad pipeline of therapies across multiple therapeutic areas and protein-based modalities, addressing health challenges out of reach of traditional approaches. Founded in 2018, Generate is leading a fundamental shift from drug discovery to drug generation. Learn more at[www​.gen​er​ate​bio​med​i​cines​.com](https://www.generatebiomedicines.com/) or follow us on[X](https://x.com/generate_biomed) ,[LinkedIn](https://www.linkedin.com/company/generate-biomedicines/?viewAsMember=true) , and[YouTube](https://www.youtube.com/@GenerateBiomedicines) .
+
+
+**Generate Media Contact** Megan McLaughlin
+[pr@​generatebiomedicines.​com](https://generatebiomedicines.com/cdn-cgi/l/email-protection#bccccefcdbd9d2d9ceddc8d9ded5d3d1d9d8d5dfd5d2d9cf92dfd3d1)

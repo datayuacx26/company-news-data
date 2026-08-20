@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "upbound-group-inc-common-stock",
+    "name": "Upbound Group Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-02-02T12:00:00+00:00",
+  "last_published_at": "2026-07-30T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/75/upbound-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14445,
+        "sha256": "sha256:44031932522f423553e844bf01d1e480571fb2ee492c1614afd381e6cd1a9cd8",
+        "newest_at": "2026-07-30T11:00:00+00:00",
+        "oldest_at": "2026-02-02T12:00:00+00:00"
+      }
+    ]
+  }
+}

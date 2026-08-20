@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d387ba6a731a086e38d6d06e256c80a2b5366beb1b5bcd9e8e5fada25c6ea7b",
+  "company": {
+    "key": "yc-trypillar",
+    "name": "Pillar"
+  },
+  "source": {
+    "id": "yc-trypillar-rss-79c93837c076",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://trypillar.com/blog/actions-as-code",
+    "canonical": "https://trypillar.com/blog/actions-as-code"
+  },
+  "title": "Actions as code",
+  "summary": "Before Terraform, engineers clicked through cloud consoles. Many product workflows still work the same way. Defining product actions in code gives you auditability, reviewability, a controlled action surface, and less drift.",
+  "published_at": "2026-03-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:02.957437+00:00",
+  "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+  "last_updated_at": "2026-07-30T15:54:51.230394+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-trypillar/2026/03/6d/6d387ba6a731a086e38d6d06e256c80a2b5366beb1b5bcd9e8e5fada25c6ea7b/article.md",
+    "record": "articles/v1/68/yc-trypillar/2026/03/6d/6d387ba6a731a086e38d6d06e256c80a2b5366beb1b5bcd9e8e5fada25c6ea7b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11855,
+    "sha256": "sha256:cd970e08ec75d07512ee8d6aaa82d657785700a8917b1d8fa931200bc8a84969",
+    "normalized_content_hash": "sha256:fec8d1b6529039dbd3cee6f2bac7b2dddfd9319ab47df011fb2d2ac575640c97"
+  },
+  "provenance": {
+    "source_item_id": "dde4ad9f-23e4-4953-8f0c-c960ff6faf12",
+    "external_id": "https://trypillar.com/blog/actions-as-code"
+  }
+}

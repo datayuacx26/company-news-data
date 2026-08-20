@@ -1,0 +1,40 @@
+---
+schema_version: "1.0.0"
+document_id: "8178e273a7799e3689ecc6c1d58c2853c86094251ad563b6cf70ea54ce529610"
+company_key: "sagimet-biosciences-inc-series-a-common-stock"
+company: "Sagimet Biosciences Inc."
+source_id: "sagimet-biosciences-inc-series-a-common-stock-rss-5fa42fab7d98"
+canonical_url: "https://ir.sagimet.com/news-releases/news-release-details/sagimet-biosciences-participate-hc-wainwright-4th-annual"
+published_at: "2026-05-13T11:00:00+00:00"
+first_seen_at: "2026-07-26T07:37:21.697210+00:00"
+fetched_at: "2026-07-28T22:13:17.137376+00:00"
+content_hash: "sha256:0ca4861ca6af494ab04ffbeb9f91f89e6cbdd4fb0d01ca2ceb81760818365acf"
+---
+
+# Sagimet Biosciences to Participate in the H.C. Wainwright 4th Annual BioConnect Investor Conference at NASDAQ
+
+SAN MATEO, Calif., May 13, 2026 (GLOBE NEWSWIRE) -- Sagimet Biosciences Inc. (Nasdaq: SGMT), a clinical-stage biopharmaceutical company developing novel therapeutics targeting dysfunctional metabolic and fibrotic pathways, today announced that management will participate in the H.C. Wainwright 4th Annual BioConnect Investor Conference at NASDAQ on Tuesday, May 19, 2026, in New York, NY with a fireside chat at 2pm ET (link[here](https://www.globenewswire.com/Tracker?data=RPVhX-VDWdAVWxRWbSch1hvrRzE3D9C_IwsbOj1270KwXMSfE2z3_ojCDv9u-zSUVCbiCovwstsfb3ZyeOklzOihgbWWOB6BBEjJLL5QDqTOhJ0HOjwR5MTn692qDN_xIHeSgLB-AyFO6qb_ZiXSnPTcbo2nQsqhB6gTp0jOKQUKMiPO_UJWl5N9EfnEso0-_tGVyT3s_IJ8HZNeN2LHY1rvQRAOecZU1yw3qaWlY6c4duXQd5On9EOJVnxMTA9rX8RmeT-cwacc5ZCk2yrjICZr19CzYZYdvPs8kp9u9lRCBzTOqdPhQR_ZrAp2zF9txpz3oOfell-mz5aqiY_DaumCu345DifW-onovN2sh2ED5fGanY8Q9mZywcPGefFNXYoyuOLby_kz0nw1P5ic4F3Jnc4w60dH03PJSJAJFaDngAYeeJih5P9QX33Un4_n) ).
+
+
+A webcast of the fireside chat will be available in the Investors & Media section of Sagimet’s website at[www.sagimet.com](https://www.globenewswire.com/Tracker?data=cB7Aql82Gbf197Xw5eIi0PH7c5o7Iwscp6z3TZmQT-3bvkfatTwtrFxPqC_WQ1rZj8vPeQmWdECAEVigQ-iMUTQcvffotiTND0kR5BQ85JO28KSLIPrP_bBSU5b9ZFnjlQm4yo9VzaUw7lTNYqlRS_iMwB_DrlGDhKMP59DiCvTBhpuDK77N21QypNadRGmXikmJZ3P7TdfvwmeeKseV47AMjtyDb8Ge0OHJ6MAt6JhZMjv2ZpyTele7_JtnljRUBFDM1NFQWRotiftlhkHB_9oHdJrN0Qyz_6LyHMMakBV4-pq0ZwswNhp3oom5B1WivLaI1MtgM267y0Vic1Ly4UScz_XH6oXQGK0J3Qf7s5AhntqZBfwIACHtbrv2WJ3srXyH-EXD_DY-a-lugA5z8T8ZQQbTe2AWg8JhpsgCO_fayOhUA46tSiYY-uSat0C4QFziGPNuON-_DCNWGyvy5ZXlh4OOnuR50Z12I-_k9Z9meobc8W0SWXNb-a5ml0FIG4PS-d4YEYPiEo-L9Q_ufjvmPQWZuVd8Z139UzGEnUyxQM7USpDGala3U8RxwR2Nd5cMoCdXELrdP0BkPqzCv1BP-arIAdBk6LF2TB3wC0LaV4nH_kwI0AcrN08c4GrmA1QKT0OZB4PVsIpPvQzJUegkd70UEL9OOjRQLD14WxJ46NAwe9IIRU9izyrZRg0N9CyM_gDKTJaM0p4aW_SsXW3suO3NTlZ_oR_pp8pd34jBO4vkyf8xMkAcniqXZT9unSqzmPiWeguyzfUP0H6Wy2eA6wxW1e_Ht_fklCtI5n5PG2d8uBN7-G6jkfrRJ6ik1mzWNrTshytEnhUOg8yvhuDYJKFRmUXt46RvkFDY8dn0pcFNohp1eqkINdJD9tqqGzK_gcbtQPtyUh-lm5NpMCkPDUTEHmGMFOR61n-jnx1Uc-oe1EZsnh7I6Hm9u1AGU6pS30t1n1BM6vSVKYWK7eowy1i56ni1KeSwrv9uBvd9qOLUB4ZNCsnGqZjfI0J3f1lqgPV6ah6z3FT66i4Aevx3KeoWy7m3mwOQJ1zI2h-4PQ9CNMU6WP000x-gmg1W2MgnVxSLu_59DobF5uyq7Z1JUK5GaJwIy5CWH8yS0E00GUV_puG8w-sgnYIjSFNJWsiNk2YbPac0u_YS_tXAjO5rpLxbWPynerYu6Lj0FjT1LlCoukZsQ1rXZuIovrZ1BgdvETXN-6rySXSVhUQHhkz1SpIt0TpEtmMY0q7rXMRGU_7EX-sWh-_bh-00A9X7-HcmvNVQPooOg000cmo4N4ApgIGxok5wdHl9QPN6VkpmiBsiV3BT3pEB_nEOv9Xm2274Jy7P-bz8sdPtBiLVefmriG4ZSQn_QcC5uDrGSOYnGXPmRcAEYhNTSnrqUwU0PUdUiydXh98O4ayAnGTyb3gODhInmWEoEDwkgR1VhNe8UWATvfbhz4PIeX6fwjL_n0CtxGYG7YLvWyltUMEh2hICGgytgpYuQkyp4vfXCJuCM6Z1EUVAX4RAVYx6ZCw3JFS3qm-KnzaNa05fSQ95P_3oBsyGLrTEM8Iyq1XIiltIXRugmQcWG4tfDytBfrPp8WGuOhwYMen3K-PZvkcH1575vYtE2j75CpTtDaG3tIz7N3hNWMRIj8rVSjacm_ZmFGuxrdp4xQzQtId1hxubCwkP_bsv2LGVFPWAKvBGEMBxfEWBd9Z1t69ClOFAF88el8-ODoPfip1UKf6eo96mxBH9Truz8Hy4fzcgZlVY--wiaANVsR5UyvPjGcgSyuGxfwbdLDaRQiUorhDHpDgDivCOlD8qQlhkMtEOh9S5JnJG85nP1DFkj66hsH5hRWPofGAzHF4cMAE5fNO4KDJbnxvbyb-g8CXZDvk5ZRSzXAY=) , with an archived replay available for 90 days following the live event.
+
+
+**About Sagimet Biosciences**
+
+
+Sagimet is a clinical-stage biopharmaceutical company developing novel FASN inhibitors designed to target dysfunctional metabolic and fibrotic pathways in conditions resulting from the overproduction of the fatty acid, palmitate. FASN is a regulator of lipid synthesis, and a key pathway implicated in multiple diseases, such as acne, MASH and certain FASN-dependent tumor types. For additional information about Sagimet, please visit[www.sagimet.com](https://www.globenewswire.com/Tracker?data=cB7Aql82Gbf197Xw5eIi0KOSQE-wPkqGhuYlD0Xi0EGBTsHIXMtx1euKcIrY8Mk2cggmh514z48P7ur7kND3TB22C5NH1wWo118A8Azo8zY=) .
+
+
+**Investor Contact:**
+Joyce Allaire
+LifeSci Advisors
+[JAllaire@LifeSciAdvisors.com](https://www.globenewswire.com/Tracker?data=J-FsPI7045CeqWf_0Y9EmFZjSIKhhjaimDsGpBULAyyt85qgfLCYw08HNmOp2Xy9B8cgWm6PBPtvhb9NphKKLxmWrACe7Mtmtx8UomAZvagSHzmGYFAP6DpMY-tvsITh)
+
+
+**Media Contact:**
+Maggie Whitney
+LifeSci Communications
+[mwhitney@lifescicomms.com](https://www.globenewswire.com/Tracker?data=LFijWMDg_6mf-rGk88OKCqRUCoNz34dW9_ao1uhwserVdAkIsScAI_bBQIcNxunRXWVPbUUgn_t_guYsUQHO496F__fTwa1-Qkd-VscANqSDYKcnWLLneZnJ2KO520se)
+
+
+Source: Sagimet Biosciences Inc.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca0ab69dd715be08f290abed0463f268575dc890a81a5e1f35c01b875627242e",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/microsoft-credential-leak",
+    "canonical": "https://infisical.com/blog/microsoft-credential-leak"
+  },
+  "title": "Learning from Microsoft’s Credential Leak",
+  "summary": "Learn how Microsoft leaked credentials and how this could have been prevented",
+  "published_at": "2024-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2024/04/ca/ca0ab69dd715be08f290abed0463f268575dc890a81a5e1f35c01b875627242e/article.md",
+    "record": "articles/v1/68/yc-infisical/2024/04/ca/ca0ab69dd715be08f290abed0463f268575dc890a81a5e1f35c01b875627242e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7477,
+    "sha256": "sha256:28a0e111501001156fe80376378cf96279828b708bd8a8137b8c284c7f8c20b8",
+    "normalized_content_hash": "sha256:1a87b638ec6ee2e50182bbb0e47f4090c0b6e9d10dbf3c401654fdd1fe21ba3f"
+  },
+  "provenance": {
+    "source_item_id": "1bef3385-c77e-4c17-8d30-eb7c72bc72b6",
+    "external_id": "https://infisical.com/blog/microsoft-credential-leak"
+  }
+}

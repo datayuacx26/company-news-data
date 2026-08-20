@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98e259f1d1ea8b7152b89c168a2e96644952e3f9b337ddd8216b872ff76a7d22",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/monorepos-worth-the-hype",
+    "canonical": "https://depot.dev/blog/monorepos-worth-the-hype"
+  },
+  "title": "Monorepos: Worth the hype?",
+  "summary": "Monorepos promise faster development and better visibility across your stack. But they also introduce scaling problems most teams do not see coming. This post breaks down the tradeoffs, the tooling challenges, and when a monorepo actually makes sense.",
+  "published_at": "2025-08-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/08/98/98e259f1d1ea8b7152b89c168a2e96644952e3f9b337ddd8216b872ff76a7d22/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/08/98/98e259f1d1ea8b7152b89c168a2e96644952e3f9b337ddd8216b872ff76a7d22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11568,
+    "sha256": "sha256:16beca125a15a2ab3c551a759d6a76e5065faa3582e8cfabc97e4c14f7e49bda",
+    "normalized_content_hash": "sha256:4278614f347391c8b86fce0cda75dfafb844e4132415b183c27bcfe7571bd8e9"
+  },
+  "provenance": {
+    "source_item_id": "d1945871-d8ee-49fb-a69f-7bbf5ef19241",
+    "external_id": "https://depot.dev/blog/monorepos-worth-the-hype"
+  }
+}

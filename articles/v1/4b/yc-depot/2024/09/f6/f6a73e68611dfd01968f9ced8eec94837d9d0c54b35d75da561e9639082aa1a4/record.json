@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6a73e68611dfd01968f9ced8eec94837d9d0c54b35d75da561e9639082aa1a4",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/comparing-github-actions-and-depot-runners-for-2x-faster-builds",
+    "canonical": "https://depot.dev/blog/comparing-github-actions-and-depot-runners-for-2x-faster-builds"
+  },
+  "title": "Comparing GitHub Actions and Depot runners for 2x faster builds",
+  "summary": "We love GitHub Actions, but the default runners are slow and expensive. We benchmarked the performance of GitHub Actions runners against Depot runners and found that Depot runners are 2x faster and half the cost.",
+  "published_at": "2024-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/09/f6/f6a73e68611dfd01968f9ced8eec94837d9d0c54b35d75da561e9639082aa1a4/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/09/f6/f6a73e68611dfd01968f9ced8eec94837d9d0c54b35d75da561e9639082aa1a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9057,
+    "sha256": "sha256:38b9f42b54ffce63911994bb344ae3e6a86aa7c974af0229eef6bbaf94ba2303",
+    "normalized_content_hash": "sha256:7f76f906b7cdcbed9e76e3e0605eceac52495098dbe4ceef16e0948a3115abe2"
+  },
+  "provenance": {
+    "source_item_id": "eb8d4ed8-8427-4487-81c1-1cd8d1d612cd",
+    "external_id": "https://depot.dev/blog/comparing-github-actions-and-depot-runners-for-2x-faster-builds"
+  }
+}

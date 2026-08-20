@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6536ae2f19e7504d811a1bba18244f249f4b9a549a75f273017d961bcb95c4f5",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/depot-ai",
+    "canonical": "https://depot.dev/blog/depot-ai"
+  },
+  "title": "Depot AI: A free open-source Docker registry for public AI models",
+  "summary": "A free open-source Docker registry for public AI models. Add any top 100 model on Hugging Face to your Dockerfile with a single COPY statement.",
+  "published_at": "2023-07-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/07/65/6536ae2f19e7504d811a1bba18244f249f4b9a549a75f273017d961bcb95c4f5/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/07/65/6536ae2f19e7504d811a1bba18244f249f4b9a549a75f273017d961bcb95c4f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8008,
+    "sha256": "sha256:306fde3d2fcfe98f3e3c58bebe2176b01db52f9836f6efb4c8f0db1dec0518ea",
+    "normalized_content_hash": "sha256:6b98878a5ad62131a3e74c86e68c14ffdb2ac4eb06b7afb3aaf403c05468d672"
+  },
+  "provenance": {
+    "source_item_id": "0552dda9-dbb1-46aa-9767-65f1e36c0e77",
+    "external_id": "https://depot.dev/blog/depot-ai"
+  }
+}

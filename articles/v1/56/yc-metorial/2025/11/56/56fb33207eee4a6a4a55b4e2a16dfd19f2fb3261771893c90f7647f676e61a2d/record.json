@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56fb33207eee4a6a4a55b4e2a16dfd19f2fb3261771893c90f7647f676e61a2d",
+  "company": {
+    "key": "yc-metorial",
+    "name": "Metorial"
+  },
+  "source": {
+    "id": "yc-metorial-news-import-9c457a3d81d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metorial.com/blog/boring-apis",
+    "canonical": "https://metorial.com/blog/boring-apis"
+  },
+  "title": "The Case for Boring APIs",
+  "summary": "Public APIs are infrastructure, not art projects. The best APIs are predictably boring: they use standard REST conventions, maintain consistency across all endpoints, and let developers build a mental model after using just one endpoint. When your API tries to be clever with novel patterns or inconsistent structures, integration goes from hours to days. Save your innovation for your product and let your API fade into the background where it belongs.",
+  "published_at": "2025-11-08T05:42:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:44.298499+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T18:53:41.634509+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-metorial/2025/11/56/56fb33207eee4a6a4a55b4e2a16dfd19f2fb3261771893c90f7647f676e61a2d/article.md",
+    "record": "articles/v1/56/yc-metorial/2025/11/56/56fb33207eee4a6a4a55b4e2a16dfd19f2fb3261771893c90f7647f676e61a2d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6546,
+    "sha256": "sha256:00d9c85e0fa11828bff136df2ff6e88a2798c2fa2f77611bb7b462afa78c4354",
+    "normalized_content_hash": "sha256:fd1b9bc75f75f73b87c91fee16aba784eefbc220d984bf03c85824293e710822"
+  },
+  "provenance": {
+    "source_item_id": "4fb6eb97-473e-4f90-850e-322df46192fd",
+    "external_id": "https://metorial.com/blog/boring-apis"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2aab372e75c000a7823e46dec525ea0c4a0bef120252c5ca859b991c6592c3cd",
+  "company": {
+    "key": "yc-movinglake",
+    "name": "MovingLake"
+  },
+  "source": {
+    "id": "yc-movinglake-news-import-d738cd23891a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.movinglake.com/blog/what-is-an-etl",
+    "canonical": "https://www.movinglake.com/blog/what-is-an-etl"
+  },
+  "title": "What is an ETL?",
+  "summary": "MovingLake Blog - What is an ETL?",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:57:21.843550+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:43.860258+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-movinglake/2026/07/2a/2aab372e75c000a7823e46dec525ea0c4a0bef120252c5ca859b991c6592c3cd/article.md",
+    "record": "articles/v1/45/yc-movinglake/2026/07/2a/2aab372e75c000a7823e46dec525ea0c4a0bef120252c5ca859b991c6592c3cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3060,
+    "sha256": "sha256:6b2d1ef5c1f2010c318f9086c44dd8e03d501b5196d70930ecc02cad0f2cdf02",
+    "normalized_content_hash": "sha256:5f4dd376519b85633bfb160b61b359846e9d92bfd68db8dbd05f5f5b49a0794d"
+  },
+  "provenance": {
+    "source_item_id": "389e57db-671d-4403-9b81-67471d3e975d",
+    "external_id": "https://www.movinglake.com/blog/what-is-an-etl"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1743f53ac7b250b5adbbae45668712ae8b8975c130857957ae05bf5464c5ab3",
+  "company": {
+    "key": "yc-howdy-com",
+    "name": "Howdy.com"
+  },
+  "source": {
+    "id": "yc-howdy-com-news-import-7de6c48bfb23",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.howdylatam.com/blog/docker-compose-local-vs-production",
+    "canonical": "https://www.howdylatam.com/blog/docker-compose-local-vs-production"
+  },
+  "title": "Docker Compose Isn't the Problem. Your Local-to-Prod Assumptions Are.",
+  "summary": "Docker Compose is great for local dev, but treating compose.yml as a production spec is what causes silent drift and broken deploys.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T17:58:10.597501+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-12T06:29:51.221180+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-howdy-com/2026/07/f1/f1743f53ac7b250b5adbbae45668712ae8b8975c130857957ae05bf5464c5ab3/article.md",
+    "record": "articles/v1/48/yc-howdy-com/2026/07/f1/f1743f53ac7b250b5adbbae45668712ae8b8975c130857957ae05bf5464c5ab3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9501,
+    "sha256": "sha256:62966796e2fbe831c613e34cd93602d8fb97a68fa6037e7e44b9ea0f842aec81",
+    "normalized_content_hash": "sha256:9a5deae43be581b6486ed6caba24c72c4e5db84117392cd51ebb17d584ba6ae8"
+  },
+  "provenance": {
+    "source_item_id": "87b804c8-adf3-4fdd-808e-ed0d06f03f87",
+    "external_id": "https://www.howdylatam.com/blog/docker-compose-local-vs-production"
+  }
+}

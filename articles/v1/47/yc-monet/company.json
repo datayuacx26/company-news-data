@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-monet",
+    "name": "Monet"
+  },
+  "record_count": 30,
+  "first_published_at": "2022-12-21T22:32:49+00:00",
+  "last_published_at": "2026-07-15T18:36:57+00:00",
+  "partitions": [
+    {
+      "partition": "2022-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 11
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/yc-monet/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 29538,
+        "sha256": "sha256:0eb14bc102bcb3f107cf2891c02349b9df98f666586a8d88ac6cec4e91d387e7",
+        "newest_at": "2026-07-15T18:36:57+00:00",
+        "oldest_at": "2022-12-21T22:32:49+00:00"
+      }
+    ]
+  }
+}

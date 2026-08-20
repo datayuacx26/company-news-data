@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01858f0347a525bbeb6ea8ab2b07e811c26107813ec241f063ea20ddf0e9fc85",
+  "company": {
+    "key": "yc-escape",
+    "name": "Escape"
+  },
+  "source": {
+    "id": "yc-escape-rss-d1370620bfa7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://escape.tech/blog/how-cascade-exploited-an-ai-agent-in-production/",
+    "canonical": "https://escape.tech/blog/how-cascade-exploited-an-ai-agent-in-production/"
+  },
+  "title": "AI vs AI: How Cascade exploited an AI agent in production",
+  "summary": "We pointed Cascade, Escape's AI pentesting engine, at a production AI agent that a large organization runs internally. The agent had a guardrail built to catch prompt injection. Cascade got past it on the second try. The trick wasn't a smarter payload, just a different pretext, and the agent handed",
+  "published_at": "2026-08-13T22:13:09+00:00",
+  "first_seen_at": "2026-08-13T22:41:52.669817+00:00",
+  "fetched_at": "2026-08-13T22:41:54.029937+00:00",
+  "last_updated_at": "2026-08-20T01:49:41.896835+00:00",
+  "paths": {
+    "article": "articles/v1/64/yc-escape/2026/08/01/01858f0347a525bbeb6ea8ab2b07e811c26107813ec241f063ea20ddf0e9fc85/article.md",
+    "record": "articles/v1/64/yc-escape/2026/08/01/01858f0347a525bbeb6ea8ab2b07e811c26107813ec241f063ea20ddf0e9fc85/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6924,
+    "sha256": "sha256:ae88b01fc54325029d2b7fdb313eb6403d67b77f4612052d6895691b2c647f00",
+    "normalized_content_hash": "sha256:ee213fa0dbc8260ee1fcd63e7a2ea0318feabc6ac46606561a4ac584f60ce271"
+  },
+  "provenance": {
+    "source_item_id": "0215abd9-02a2-4cdf-bfda-db9c5be9043f",
+    "external_id": "6a63bfd9885f790001dbbee6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6c29fea980d12ce8508dcdda053a99bc5dff1eababb865b13eb1ee3eac65956",
+  "company": {
+    "key": "yc-verbiflow",
+    "name": "Verbiflow"
+  },
+  "source": {
+    "id": "yc-verbiflow-news-import-392b5e1f9020",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://verbiflow.com/blog/every-security-guard-firm-in-the-us",
+    "canonical": "https://verbiflow.com/blog/every-security-guard-firm-in-the-us"
+  },
+  "title": "How we found every regional security-guard firm in the US (and surfaced the ones losing customers)",
+  "summary": "A customer selling into physical-security tech needed a list of regional guard firms. No vendor sells one. We built it from Census data, Google Maps, and Claude, then surfaced which firms had the most negative reviews so the customer sequenced the right ones first.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:39:30.762214+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-19T23:59:47.942243+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-verbiflow/2026/06/e6/e6c29fea980d12ce8508dcdda053a99bc5dff1eababb865b13eb1ee3eac65956/article.md",
+    "record": "articles/v1/62/yc-verbiflow/2026/06/e6/e6c29fea980d12ce8508dcdda053a99bc5dff1eababb865b13eb1ee3eac65956/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3937,
+    "sha256": "sha256:df24e202cd92e9e9c54b4918ea625d7b7ae1338968491d5f87339055d5a81fdd",
+    "normalized_content_hash": "sha256:8fde2405207f0b3b2cb1c4e8967ddc00c5c7fc8c19186b4146aaace7743c054a"
+  },
+  "provenance": {
+    "source_item_id": "119ea709-d9a3-449a-b6e6-1062dfcc9b86",
+    "external_id": "https://verbiflow.com/blog/every-security-guard-firm-in-the-us"
+  }
+}

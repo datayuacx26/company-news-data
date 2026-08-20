@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8252b230ca84ab15036a2a3cd87dfd48c775bde8a47750e8c271ed873bc3fca9",
+  "company": {
+    "key": "yc-struct-ai",
+    "name": "Struct"
+  },
+  "source": {
+    "id": "yc-struct-ai-rss-e2c56fab48fe",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://struct.ai/articles/mttr-canary-vs-blue-green/",
+    "canonical": "https://struct.ai/articles/mttr-canary-vs-blue-green/"
+  },
+  "title": "Reducing MTTR With Canary vs Blue-Green Deployments",
+  "summary": "Canary limits blast radius; blue-green enables instant rollback. Struct automates post-rollback verification to close the incident resolution gap.",
+  "published_at": "2026-08-16T05:03:59+00:00",
+  "first_seen_at": "2026-08-16T06:26:24.954056+00:00",
+  "fetched_at": "2026-08-16T06:26:27.346876+00:00",
+  "last_updated_at": "2026-08-20T03:21:32.880579+00:00",
+  "paths": {
+    "article": "articles/v1/7b/yc-struct-ai/2026/08/82/8252b230ca84ab15036a2a3cd87dfd48c775bde8a47750e8c271ed873bc3fca9/article.md",
+    "record": "articles/v1/7b/yc-struct-ai/2026/08/82/8252b230ca84ab15036a2a3cd87dfd48c775bde8a47750e8c271ed873bc3fca9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15271,
+    "sha256": "sha256:e19c70bd5bebc3660a14607eb58b4c1d8943b53945ce31045f1f48a65fbe8b32",
+    "normalized_content_hash": "sha256:e4f0ab012fd3998986b7114c26324fb72ff07fe987f19640aaa84938bb2e2d68"
+  },
+  "provenance": {
+    "source_item_id": "e6ececf2-57da-4930-9f3d-2b2e46d7ecaf",
+    "external_id": "https://struct.ai/articles/mttr-canary-vs-blue-green/"
+  }
+}

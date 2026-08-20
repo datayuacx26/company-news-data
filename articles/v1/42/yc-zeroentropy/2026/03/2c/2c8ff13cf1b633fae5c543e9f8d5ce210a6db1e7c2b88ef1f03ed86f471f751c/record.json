@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c8ff13cf1b633fae5c543e9f8d5ce210a6db1e7c2b88ef1f03ed86f471f751c",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/zembed-1-overperforms-voyage-4/",
+    "canonical": "https://zeroentropy.dev/articles/zembed-1-overperforms-voyage-4/"
+  },
+  "title": "zembed-1 vs voyage-4: Our Embedding Model Wins on Retrieval",
+  "summary": "A thorough evaluation comparing the performance of ZeroEntropy's zembed-1 and Voyage's latest voyage-4 embedding models.",
+  "published_at": "2026-03-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:18:58.238043+00:00",
+  "last_updated_at": "2026-07-28T22:26:46.974162+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/03/2c/2c8ff13cf1b633fae5c543e9f8d5ce210a6db1e7c2b88ef1f03ed86f471f751c/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/03/2c/2c8ff13cf1b633fae5c543e9f8d5ce210a6db1e7c2b88ef1f03ed86f471f751c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8087,
+    "sha256": "sha256:b43126f33a10700b45b2cdd9cde5e7957486c55735f9418ed2b75afe88b256c9",
+    "normalized_content_hash": "sha256:6199cb75fa5969656e255037e9573c280a07c0ddfe9624980b11f36e77f7a019"
+  },
+  "provenance": {
+    "source_item_id": "9f0f0284-349e-46bd-b37d-f24acc1f8908",
+    "external_id": "https://zeroentropy.dev/articles/zembed-1-overperforms-voyage-4/"
+  }
+}

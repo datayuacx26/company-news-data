@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc7aefaf466196ba0f608706ee2c38c835766bf4eb44c074a26c1f35a6a3cf0f",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/stop-syncing-and-start-mounting",
+    "canonical": "https://archil.com/article/stop-syncing-and-start-mounting"
+  },
+  "title": "Stop Syncing and Start Mounting: A Smarter Alternative to aws s3 sync",
+  "summary": "Stop wasting time with aws s3 sync — learn how Archil lets you mount Amazon S3 as a live, POSIX file system for instant access, faster performance, and lower costs.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/dc/dc7aefaf466196ba0f608706ee2c38c835766bf4eb44c074a26c1f35a6a3cf0f/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/dc/dc7aefaf466196ba0f608706ee2c38c835766bf4eb44c074a26c1f35a6a3cf0f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18875,
+    "sha256": "sha256:94d4f1bed4a1705f225c2a14074464bf6412840f2c0ac789a5a01878839b1772",
+    "normalized_content_hash": "sha256:297a7925b907017f471c5901a42a86b45a8148548261fc9fbab0f8878926ce87"
+  },
+  "provenance": {
+    "source_item_id": "e56cf0d1-c1c6-4ec8-9e0e-d3e660e82962",
+    "external_id": "https://archil.com/article/stop-syncing-and-start-mounting"
+  }
+}

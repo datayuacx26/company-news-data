@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "489e8f3681f2c06ca182b565a8d3370fd78c147f5ac08957fd33f92f1120af30",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/python-workers-rpc/",
+    "canonical": "https://blog.cloudflare.com/python-workers-rpc/"
+  },
+  "title": "Workers RPC now works across Python and JavaScript",
+  "summary": "One coding agent can write a Python Worker and another can write a JavaScript Worker. At runtime, those Workers can exchange references to live objects and call their methods without defining APIs, schemas, or serialization code.",
+  "published_at": "2026-08-03T13:00:00+00:00",
+  "first_seen_at": "2026-08-03T13:28:47.669131+00:00",
+  "fetched_at": "2026-08-03T14:10:52.670502+00:00",
+  "last_updated_at": "2026-08-06T09:57:56.608114+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/48/489e8f3681f2c06ca182b565a8d3370fd78c147f5ac08957fd33f92f1120af30/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/48/489e8f3681f2c06ca182b565a8d3370fd78c147f5ac08957fd33f92f1120af30/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12676,
+    "sha256": "sha256:8456c4b959317bb66110955ae5e9bafba07ad95469515c4702f358ddebc87c5e",
+    "normalized_content_hash": "sha256:06a226f5fc02ce19a478947b048f5adb27170f4789771ae16047e9a002710553"
+  },
+  "provenance": {
+    "source_item_id": "5549c041-d841-4739-8ee4-fd2a7c457eef",
+    "external_id": "01KYT15YJPSYBNRFS8G400P5P5"
+  }
+}

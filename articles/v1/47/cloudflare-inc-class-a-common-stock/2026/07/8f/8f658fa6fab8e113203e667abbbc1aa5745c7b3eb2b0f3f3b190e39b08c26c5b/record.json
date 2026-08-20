@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f658fa6fab8e113203e667abbbc1aa5745c7b3eb2b0f3f3b190e39b08c26c5b",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
+    "canonical": "https://blog.cloudflare.com/cdnjs-dev-platform-migration/"
+  },
+  "title": "Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform",
+  "summary": "We moved cdnjs, serving 9 billion requests a day, entirely onto Cloudflare's Developer Platform. That means we’re running one of the Internet's busiest open-source CDNs on our own building blocks, and we pushed Workflows and Workers limits higher for everyone.",
+  "published_at": "2026-07-30T13:00:00+00:00",
+  "first_seen_at": "2026-07-30T14:30:48.513522+00:00",
+  "fetched_at": "2026-07-30T14:30:50.300165+00:00",
+  "last_updated_at": "2026-08-05T21:02:45.486779+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/8f/8f658fa6fab8e113203e667abbbc1aa5745c7b3eb2b0f3f3b190e39b08c26c5b/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/8f/8f658fa6fab8e113203e667abbbc1aa5745c7b3eb2b0f3f3b190e39b08c26c5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15411,
+    "sha256": "sha256:746c549c0441bda5c2ac452b059650671b08bcfbb79b4d721d8a7433753118e4",
+    "normalized_content_hash": "sha256:55561bbad84617c8865be0ac92ccb252d40b2bd6d3b9ba93c92b1f6f67124fe5"
+  },
+  "provenance": {
+    "source_item_id": "0a68e88d-484c-4234-b965-64d716520117",
+    "external_id": "01KYQNRTVJ54SHCVBMMXFYGJ5P"
+  }
+}

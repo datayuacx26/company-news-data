@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7314fd6d76b13fd2e04c32541a5f3af1b1781584bc7b6967495907926c6bc2a5",
+  "company": {
+    "key": "yc-porter",
+    "name": "Porter"
+  },
+  "source": {
+    "id": "yc-porter-news-import-7cfcee1b8c2a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.porter.run/blog/how-to-deploy-a-flask-app-on-aws",
+    "canonical": "https://www.porter.run/blog/how-to-deploy-a-flask-app-on-aws"
+  },
+  "title": "How to Deploy a Flask App on AWS",
+  "summary": "Learn how to deploy FastAPI to AWS using Porter with this step-by-step guide. Get your FastAPI application up and running on the cloud quickly and easily.",
+  "published_at": "2024-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T09:55:21.208768+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-19T20:01:55.507177+00:00",
+  "paths": {
+    "article": "articles/v1/5d/yc-porter/2024/06/73/7314fd6d76b13fd2e04c32541a5f3af1b1781584bc7b6967495907926c6bc2a5/article.md",
+    "record": "articles/v1/5d/yc-porter/2024/06/73/7314fd6d76b13fd2e04c32541a5f3af1b1781584bc7b6967495907926c6bc2a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11246,
+    "sha256": "sha256:f197a0a7f6748a0e99c86a821b6125b9df57dd690ba1fb2b26a1690bab3220c5",
+    "normalized_content_hash": "sha256:0abe9d64d91aee4f848be069f48fb3ad65317146f55097bc8e3255b318652216"
+  },
+  "provenance": {
+    "source_item_id": "1d73437a-584f-4a91-87b5-5a522a4d18b9",
+    "external_id": "https://www.porter.run/blog/how-to-deploy-a-flask-app-on-aws"
+  }
+}

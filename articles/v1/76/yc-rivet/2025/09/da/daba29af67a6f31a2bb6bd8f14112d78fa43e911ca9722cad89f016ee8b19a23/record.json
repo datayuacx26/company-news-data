@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "daba29af67a6f31a2bb6bd8f14112d78fa43e911ca9722cad89f016ee8b19a23",
+  "company": {
+    "key": "yc-rivet",
+    "name": "Rivet"
+  },
+  "source": {
+    "id": "yc-rivet-news-import-b9b70e7746c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance/",
+    "canonical": "https://rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance/"
+  },
+  "title": "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
+  "summary": "**At Rivet, we're building an open-source alternative to Cloudflare Durable Objects — a tool for running stateful compute workloads. VBARE is a small but crucial component in meeting the demanding performance requirements of Rivet Actors.**",
+  "published_at": "2025-09-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:04:56.065057+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-20T03:07:39.236282+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-rivet/2025/09/da/daba29af67a6f31a2bb6bd8f14112d78fa43e911ca9722cad89f016ee8b19a23/article.md",
+    "record": "articles/v1/76/yc-rivet/2025/09/da/daba29af67a6f31a2bb6bd8f14112d78fa43e911ca9722cad89f016ee8b19a23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13007,
+    "sha256": "sha256:1bfc2d102b73293ee4b050c41d1c122fe9c59a213c8c02e679a0f043b761568f",
+    "normalized_content_hash": "sha256:b0dec60f46d485321c5fd5ef05e285a9518c88cced0baa7d6cc7c9c52f49dc3f"
+  },
+  "provenance": {
+    "source_item_id": "9bbdb3b2-adb9-4d15-a8c4-5ca4f4117bd7",
+    "external_id": "https://rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance/"
+  }
+}

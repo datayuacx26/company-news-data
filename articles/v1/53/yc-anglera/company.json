@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-anglera",
+    "name": "Anglera"
+  },
+  "record_count": 566,
+  "first_published_at": "2026-05-19T00:00:00+00:00",
+  "last_published_at": "2026-08-20T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 116
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 308
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 122
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 20
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 12,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/53/yc-anglera/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51239,
+        "sha256": "sha256:9e51d643fc886e13c5f92098c680e3491e07810c15d695a8f87399b1cefbfdbc",
+        "newest_at": "2026-08-20T00:00:00+00:00",
+        "oldest_at": "2026-07-14T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/53/yc-anglera/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 50346,
+        "sha256": "sha256:a7b33954d628e91ba1d7401f7e3d1d1edf0c62ba968bfb77ac07261893cc2bb8",
+        "newest_at": "2026-07-14T00:00:00+00:00",
+        "oldest_at": "2026-07-07T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/53/yc-anglera/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 50251,
+        "sha256": "sha256:0abfa98cd1916febea69c361cbc14cdd3bd858b2991e4e8bf94b37a3e8fdace9",
+        "newest_at": "2026-07-07T00:00:00+00:00",
+        "oldest_at": "2026-06-29T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/53/yc-anglera/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 50161,
+        "sha256": "sha256:0cc41c7f4e8d3a48adc61882e7ef00b055f97a5fc1bf7ec9040f85b261cf237b",
+        "newest_at": "2026-06-29T00:00:00+00:00",
+        "oldest_at": "2026-06-23T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/53/yc-anglera/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 50405,
+        "sha256": "sha256:aaecff5d04fd902953be30bbbb0af28dceaa575013dc1ee1be972c0d68ab24cf",
+        "newest_at": "2026-06-23T00:00:00+00:00",
+        "oldest_at": "2026-06-19T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/53/yc-anglera/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 50442,
+        "sha256": "sha256:3414d9fb40f801f578bd5ee1692107bf8f3fb166a3af6437bafe1aa2983f5d3f",
+        "newest_at": "2026-06-19T00:00:00+00:00",
+        "oldest_at": "2026-06-15T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/53/yc-anglera/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 50222,
+        "sha256": "sha256:63c88f58601fbcad04d744935857e30926de4f6a4355ebc0286a2726dd9df857",
+        "newest_at": "2026-06-15T00:00:00+00:00",
+        "oldest_at": "2026-06-10T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/53/yc-anglera/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 50329,
+        "sha256": "sha256:cbc88e01d7598c68ee1afb30d90d9749e928ce5b8d97b3741945ac9cbb385510",
+        "newest_at": "2026-06-10T00:00:00+00:00",
+        "oldest_at": "2026-06-06T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/53/yc-anglera/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 50169,
+        "sha256": "sha256:1ca0d8de5aeafb31e7beafdb6c891306edebb1f1b55a6a57699d65adba2bd6d1",
+        "newest_at": "2026-06-06T00:00:00+00:00",
+        "oldest_at": "2026-06-01T00:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/53/yc-anglera/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 50414,
+        "sha256": "sha256:09487c42ff238842c21e6ccb01d03e91897e13097e1d54fee75ff53a57009d9f",
+        "newest_at": "2026-05-31T00:00:00+00:00",
+        "oldest_at": "2026-05-26T00:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/53/yc-anglera/index/pages/000011.json",
+        "record_count": 50,
+        "byte_count": 50162,
+        "sha256": "sha256:c6f7d170f58097dbd7b2c21c07780db7032b55c1aac588a3d7b3daa730cb90c1",
+        "newest_at": "2026-05-26T00:00:00+00:00",
+        "oldest_at": "2026-05-21T00:00:00+00:00"
+      },
+      {
+        "page": 12,
+        "path": "articles/v1/53/yc-anglera/index/pages/000012.json",
+        "record_count": 16,
+        "byte_count": 16260,
+        "sha256": "sha256:329e89a0963da898a7c33ad3accb8b7072e3bdd4ac6b51ba13b6ac7bffd5e294",
+        "newest_at": "2026-05-20T00:00:00+00:00",
+        "oldest_at": "2026-05-19T00:00:00+00:00"
+      }
+    ]
+  }
+}

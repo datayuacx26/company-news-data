@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "248af918504b08924d6cdff1020f4831842d2f1bee24d04f32b6ff7895a61490",
+  "company": {
+    "key": "opera-limited-american-depositary-shares",
+    "name": "Opera Limited"
+  },
+  "source": {
+    "id": "opera-limited-american-depositary-shares-news-import-d1faa49832aa",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blogs.opera.com/security/2026/06/security-fix-low-impact-pinboards-vulnerability/",
+    "canonical": "https://blogs.opera.com/security/2026/06/security-fix-low-impact-pinboards-vulnerability/"
+  },
+  "title": "Security fix: Addressing a low-impact Pinboards vulnerability",
+  "summary": "We outline how independent researchers helped us identify and fix a vulnerability in our Pinboards feature through responsible disclosure.",
+  "published_at": "2026-06-09T10:51:42+00:00",
+  "first_seen_at": "2026-07-22T07:38:34.207512+00:00",
+  "fetched_at": "2026-07-23T19:47:54.315596+00:00",
+  "last_updated_at": "2026-07-23T19:47:55.972602+00:00",
+  "paths": {
+    "article": "articles/v1/6c/opera-limited-american-depositary-shares/2026/06/24/248af918504b08924d6cdff1020f4831842d2f1bee24d04f32b6ff7895a61490/article.md",
+    "record": "articles/v1/6c/opera-limited-american-depositary-shares/2026/06/24/248af918504b08924d6cdff1020f4831842d2f1bee24d04f32b6ff7895a61490/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6373,
+    "sha256": "sha256:f1a863d275a235daa796a34f49ecf576b2a768d4ec854381d5210bf8d9e61f42",
+    "normalized_content_hash": "sha256:75262c6f63f537fc73d692e2af7f7a486e22eba0b0bbb81ef8d415148c8936ca"
+  },
+  "provenance": {
+    "source_item_id": "4ab00e6b-60c9-46a5-9f9c-b1617b0992b4",
+    "external_id": "https://blogs.opera.com/security/2026/06/security-fix-low-impact-pinboards-vulnerability/"
+  }
+}

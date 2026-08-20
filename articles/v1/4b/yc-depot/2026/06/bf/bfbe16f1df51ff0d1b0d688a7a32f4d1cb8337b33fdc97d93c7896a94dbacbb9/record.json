@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bfbe16f1df51ff0d1b0d688a7a32f4d1cb8337b33fdc97d93c7896a94dbacbb9",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/observing-lambda-durable-functions",
+    "canonical": "https://depot.dev/blog/observing-lambda-durable-functions"
+  },
+  "title": "Observing Lambda durable functions",
+  "summary": "Durable Lambda functions break most of the tracing assumptions you carry over from regular code. They replay from the top every time they wake, so spans get emitted twice, parent spans lose their children, and queue wait time hides in the gaps. Here's how we restored end-to-end visibility into Depot CI's durable functions.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/06/bf/bfbe16f1df51ff0d1b0d688a7a32f4d1cb8337b33fdc97d93c7896a94dbacbb9/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/06/bf/bfbe16f1df51ff0d1b0d688a7a32f4d1cb8337b33fdc97d93c7896a94dbacbb9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11795,
+    "sha256": "sha256:dfbaa18b749be588eab2ea4c0d9be29a63114dc808a0f48d3fe92ae829418873",
+    "normalized_content_hash": "sha256:1bec77bda96de6fab7b236298076d84274c5bbc0fa2a21746a5ddd8c9c07ec75"
+  },
+  "provenance": {
+    "source_item_id": "ec495c7b-2706-4067-802c-f46ad45fca8b",
+    "external_id": "https://depot.dev/blog/observing-lambda-durable-functions"
+  }
+}

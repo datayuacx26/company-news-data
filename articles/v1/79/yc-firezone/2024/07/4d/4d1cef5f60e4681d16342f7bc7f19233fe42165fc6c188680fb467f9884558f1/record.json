@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d1cef5f60e4681d16342f7bc7f19233fe42165fc6c188680fb467f9884558f1",
+  "company": {
+    "key": "yc-firezone",
+    "name": "Firezone"
+  },
+  "source": {
+    "id": "yc-firezone-news-import-75fbee21a5d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firezone.dev/blog/sans-io",
+    "canonical": "https://www.firezone.dev/blog/sans-io"
+  },
+  "title": "sans-IO: The secret to effective Rust for network services",
+  "summary": "Learn how Firezone uses the sans-IO pattern to build testable, deterministic Rust networking code. A deep dive into our connlib design.",
+  "published_at": "2024-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:48.154812+00:00",
+  "fetched_at": "2026-07-28T22:25:56.029782+00:00",
+  "last_updated_at": "2026-08-19T17:51:33.681966+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-firezone/2024/07/4d/4d1cef5f60e4681d16342f7bc7f19233fe42165fc6c188680fb467f9884558f1/article.md",
+    "record": "articles/v1/79/yc-firezone/2024/07/4d/4d1cef5f60e4681d16342f7bc7f19233fe42165fc6c188680fb467f9884558f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29076,
+    "sha256": "sha256:6ef75ab406a95425e791627c50b12332d8d51257f980b17ebf0a8f86d1a46119",
+    "normalized_content_hash": "sha256:8e0fa334902ef40ae13659161664cee9cefb158d667834c085369f82c36b6628"
+  },
+  "provenance": {
+    "source_item_id": "937a60b4-b83a-45f0-89bf-c86a8d1d0d78",
+    "external_id": "https://www.firezone.dev/blog/sans-io"
+  }
+}

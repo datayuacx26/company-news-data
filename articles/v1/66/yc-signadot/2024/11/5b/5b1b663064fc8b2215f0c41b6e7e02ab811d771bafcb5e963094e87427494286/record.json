@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5b1b663064fc8b2215f0c41b6e7e02ab811d771bafcb5e963094e87427494286",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/shift-left-meets-kafka-testing-event-driven-microservices/",
+    "canonical": "https://www.signadot.com/blog/shift-left-meets-kafka-testing-event-driven-microservices/"
+  },
+  "title": "Shift Left Meets Kafka: Testing Event-Driven Microservices",
+  "summary": "With sandboxing, developers can see the impact of their changes without disturbing other developers' tests or regular traffic flow through the system.",
+  "published_at": "2024-11-22T21:21:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/11/5b/5b1b663064fc8b2215f0c41b6e7e02ab811d771bafcb5e963094e87427494286/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/11/5b/5b1b663064fc8b2215f0c41b6e7e02ab811d771bafcb5e963094e87427494286/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10769,
+    "sha256": "sha256:5276a21a60d6f8c2cf2a97afbe77ed7c6f2a23300acfa8b85e03cda01da0fe79",
+    "normalized_content_hash": "sha256:c4fbb9f3e12403acf09e52d68b310bce001e0127050646774ba8499c854c3cc4"
+  },
+  "provenance": {
+    "source_item_id": "baa749fd-e89b-4cd9-bec1-f75a5a8bdc27",
+    "external_id": "https://www.signadot.com/blog/shift-left-meets-kafka-testing-event-driven-microservices/"
+  }
+}

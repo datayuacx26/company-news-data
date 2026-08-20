@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f421e1acdc67979ad8d1460b3138ce776631fd81849eec52effbf8ce7b86f5d",
+  "company": {
+    "key": "yc-tweeksio",
+    "name": "Tweeks.io"
+  },
+  "source": {
+    "id": "yc-tweeksio-rss-bbf1d949eada",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.tweeks.io/blog/auth-mv3-architecture",
+    "canonical": "https://www.tweeks.io/blog/auth-mv3-architecture"
+  },
+  "title": "Fixing Intermittent Auth Failures in Chrome Manifest V3",
+  "summary": "How we stabilized extension auth by moving from chrome.storage to an IndexedDB-based auth model with read-time refresh and cross-context refresh locking.",
+  "published_at": "2026-02-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:17.378405+00:00",
+  "fetched_at": "2026-07-28T22:19:30.840186+00:00",
+  "last_updated_at": "2026-08-20T02:26:11.718929+00:00",
+  "paths": {
+    "article": "articles/v1/59/yc-tweeksio/2026/02/4f/4f421e1acdc67979ad8d1460b3138ce776631fd81849eec52effbf8ce7b86f5d/article.md",
+    "record": "articles/v1/59/yc-tweeksio/2026/02/4f/4f421e1acdc67979ad8d1460b3138ce776631fd81849eec52effbf8ce7b86f5d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15417,
+    "sha256": "sha256:7fa143bfee696715628ed32a75ad876e374f8b07c4d400a5b26c1b87792a3b31",
+    "normalized_content_hash": "sha256:f7cf1ffcc0b2c25101acee12b78be0a9a3dae52f59bd0ce4f02a3c71f8218346"
+  },
+  "provenance": {
+    "source_item_id": "0774399b-64d6-44bd-8aa2-b1c7e0381e8e",
+    "external_id": "https://www.tweeks.io/blog/auth-mv3-architecture"
+  }
+}

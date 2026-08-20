@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "32b1bf650cf1387b3fe8c3a0cf01d11e259f21cbbd2abdfa745dc534d9e3a18b",
+  "company": {
+    "key": "yc-redbrick-ai",
+    "name": "RedBrick AI"
+  },
+  "source": {
+    "id": "yc-redbrick-ai-news-import-4b943afcd495",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.redbrickai.com/blog/2024-02-05-fda-xrays",
+    "canonical": "https://www.redbrickai.com/blog/2024-02-05-fda-xrays"
+  },
+  "title": "FDA Clinical Validation Study for Chest X-ray Anomaly Detection",
+  "summary": "A comprehensive walkthrough on setting up and conducting FDA clinical validation studies for chest X-ray anomaly detection algorithms using RedBrick AI. Learn how to implement complex workflows including inter-annotator agreement measurement, blinded vs unblinded CAD annotation comparisons, and validation checks.",
+  "published_at": "2024-02-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:23:16.380780+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T20:13:04.727240+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-redbrick-ai/2024/02/32/32b1bf650cf1387b3fe8c3a0cf01d11e259f21cbbd2abdfa745dc534d9e3a18b/article.md",
+    "record": "articles/v1/45/yc-redbrick-ai/2024/02/32/32b1bf650cf1387b3fe8c3a0cf01d11e259f21cbbd2abdfa745dc534d9e3a18b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10349,
+    "sha256": "sha256:049f2f30047d2d7ff03dc19c5cd5259a6e9f6ca1ece400edfbe4984a27950cb1",
+    "normalized_content_hash": "sha256:a9059b1d1bee61abc8f53fa22c467421a18ddc8b446135c8edbb3df6be473188"
+  },
+  "provenance": {
+    "source_item_id": "540ff10f-136e-41a0-bd57-461a2d72a532",
+    "external_id": "https://www.redbrickai.com/blog/2024-02-05-fda-xrays"
+  }
+}

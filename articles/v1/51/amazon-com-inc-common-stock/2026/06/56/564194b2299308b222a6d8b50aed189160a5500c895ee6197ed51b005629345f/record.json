@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "564194b2299308b222a6d8b50aed189160a5500c895ee6197ed51b005629345f",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc."
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-c17882ce6386",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/",
+    "canonical": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"
+  },
+  "title": "Amazon S3 annotations: attach rich, queryable context directly to your objects",
+  "summary": "Amazon S3 now lets you attach up to 1 GB of rich, mutable, and queryable context directly to your objects using annotations, purpose-built for AI agents and autonomous workflows that need to discover, understand, and act on data at scale without maintaining separate metadata systems.",
+  "published_at": "2026-06-16T23:13:10+00:00",
+  "first_seen_at": "2026-07-21T06:14:34.184257+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-20T02:18:29.339582+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/06/56/564194b2299308b222a6d8b50aed189160a5500c895ee6197ed51b005629345f/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/06/56/564194b2299308b222a6d8b50aed189160a5500c895ee6197ed51b005629345f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12785,
+    "sha256": "sha256:365758769a8e73802f2798b1afb43ab4218f16a588614ef859bf8a145f31b2a9",
+    "normalized_content_hash": "sha256:9c7d1e06764438f3ef0ed9910d9a1105df4b597a33d1d956b3102d6acd0f2ca7"
+  },
+  "provenance": {
+    "source_item_id": "ea983004-fbab-469e-af00-a215863f160b",
+    "external_id": "https://aws.amazon.com/blogs/aws/amazon-s3-annotations-attach-rich-queryable-context-directly-to-your-objects/"
+  }
+}

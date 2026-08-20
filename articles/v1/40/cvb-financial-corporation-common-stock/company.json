@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cvb-financial-corporation-common-stock",
+    "name": "CVB Financial Corporation"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-05-21T21:56:21+00:00",
+  "last_published_at": "2026-07-23T19:17:10+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/40/cvb-financial-corporation-common-stock/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 7191,
+        "sha256": "sha256:6982cf6cc3b7000b9c85961cf52eb78264415c75a7ba082c9636bd0c6a0c225f",
+        "newest_at": "2026-07-23T19:17:10+00:00",
+        "oldest_at": "2026-05-21T21:56:21+00:00"
+      }
+    ]
+  }
+}

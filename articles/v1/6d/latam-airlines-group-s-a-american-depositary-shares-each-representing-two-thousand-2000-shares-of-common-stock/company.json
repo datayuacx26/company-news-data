@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "latam-airlines-group-s-a-american-depositary-shares-each-representing-two-thousand-2000-shares-of-common-stock",
+    "name": "LATAM Airlines Group S.A."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-02-03T05:00:00+00:00",
+  "last_published_at": "2026-08-04T21:55:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6d/latam-airlines-group-s-a-american-depositary-shares-each-representing-two-thousand-2000-shares-of-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 21724,
+        "sha256": "sha256:3fd188498390202a7ae52cba795008822c434faff74f8e2cd9ddd4f40be3ca70",
+        "newest_at": "2026-08-04T21:55:00+00:00",
+        "oldest_at": "2026-02-03T05:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f193214b9ccff3518098e6f879084d0a5810d15fc42876932f3b5e3134b3d2b8",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/claude_sonnet_5",
+    "canonical": "https://docs.litellm.ai/blog/claude_sonnet_5"
+  },
+  "title": "Day 0 Support: Claude Sonnet 5",
+  "summary": "Day 0 support for Claude Sonnet 5 on the LiteLLM AI Gateway. Use it across Anthropic, Azure, Vertex AI, and Bedrock.",
+  "published_at": "2026-06-30T10:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/06/f1/f193214b9ccff3518098e6f879084d0a5810d15fc42876932f3b5e3134b3d2b8/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/06/f1/f193214b9ccff3518098e6f879084d0a5810d15fc42876932f3b5e3134b3d2b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6925,
+    "sha256": "sha256:e89cb54af9f818b244fee7c2f7e788cf7c20ce9d6b1e8c457683aaca8db4c640",
+    "normalized_content_hash": "sha256:4696d0b5390c6bb5a00c3a71b40d7ec7842116caa0ed0eeb4eac3b89ad7326d0"
+  },
+  "provenance": {
+    "source_item_id": "9fd0dd12-ece8-471b-aaad-c29d576f4750",
+    "external_id": "https://docs.litellm.ai/blog/claude_sonnet_5"
+  }
+}

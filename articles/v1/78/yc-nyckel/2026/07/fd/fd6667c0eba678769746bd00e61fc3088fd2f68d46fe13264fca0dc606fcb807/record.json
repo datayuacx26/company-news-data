@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd6667c0eba678769746bd00e61fc3088fd2f68d46fe13264fca0dc606fcb807",
+  "company": {
+    "key": "yc-nyckel",
+    "name": "Nyckel"
+  },
+  "source": {
+    "id": "yc-nyckel-news-import-fbb975919637",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nyckel.com/blog/taimi-text-classification-case-study/",
+    "canonical": "https://www.nyckel.com/blog/taimi-text-classification-case-study/"
+  },
+  "title": "Taimi Cuts Content Moderation Time by 3x and Slashes Costs 10x Using Nyckel",
+  "summary": "Taimi used Nyckel’s text classification API to increase curation coverage and accuracy and reduce latency over time with its auto-retrain. Read more.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T06:43:30.013332+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-01T08:20:19.022624+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-nyckel/2026/07/fd/fd6667c0eba678769746bd00e61fc3088fd2f68d46fe13264fca0dc606fcb807/article.md",
+    "record": "articles/v1/78/yc-nyckel/2026/07/fd/fd6667c0eba678769746bd00e61fc3088fd2f68d46fe13264fca0dc606fcb807/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5258,
+    "sha256": "sha256:9a1af40d1729e565740b1f23dd9b040e0f6935473a04bc431ae5907ebfbf98ed",
+    "normalized_content_hash": "sha256:42e19e716f84195474092452efc65f0809db5653a3257f44df48e27f674ca4ca"
+  },
+  "provenance": {
+    "source_item_id": "c6f9dfae-a415-471c-8eb5-4fea299eef59",
+    "external_id": "https://www.nyckel.com/blog/taimi-text-classification-case-study/"
+  }
+}

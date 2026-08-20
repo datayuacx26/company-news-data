@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff8c5300c24889e155977356d493fdba19c4581814341c00460f47e5fb0077d8",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/why-coding-agents-will-break-your-cicd-pipeline-and-how-to-fix-it/",
+    "canonical": "https://www.signadot.com/blog/why-coding-agents-will-break-your-cicd-pipeline-and-how-to-fix-it/"
+  },
+  "title": "Why Coding Agents Will Break Your CI/CD Pipeline (and How To Fix It)",
+  "summary": "AI agents have moved the bottleneck from writing code to validating it. Learn why your CI/CD pipeline will break under agent-generated volume and how ephemeral environments and plans-based validation fix it.",
+  "published_at": "2026-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:16:03.530620+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/04/ff/ff8c5300c24889e155977356d493fdba19c4581814341c00460f47e5fb0077d8/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/04/ff/ff8c5300c24889e155977356d493fdba19c4581814341c00460f47e5fb0077d8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8277,
+    "sha256": "sha256:11ca9fc96462c001339572cf3d24bc0eea3e64d23cce38c41f46cd26fa0bfe99",
+    "normalized_content_hash": "sha256:2732a883759ecb3817cface0d4d4be19c0f272e11d163f0d3f81c56c04281415"
+  },
+  "provenance": {
+    "source_item_id": "6c02615a-15ac-4dd5-8fdb-47dfbe76154e",
+    "external_id": "https://www.signadot.com/blog/why-coding-agents-will-break-your-cicd-pipeline-and-how-to-fix-it/"
+  }
+}

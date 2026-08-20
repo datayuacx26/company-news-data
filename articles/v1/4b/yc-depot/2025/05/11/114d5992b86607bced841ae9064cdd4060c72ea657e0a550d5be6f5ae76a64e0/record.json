@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "114d5992b86607bced841ae9064cdd4060c72ea657e0a550d5be6f5ae76a64e0",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/may-8-outage",
+    "canonical": "https://depot.dev/blog/may-8-outage"
+  },
+  "title": "Knowledge share: Insights from our major outage on May 8th",
+  "summary": "We had a major outage on May 8th that took our core provisioning system for builds offline for several hours. This was a major incident that disrupted thousands of builds across Depot. We wanted to share some insights into what happened, how we fixed it, and what we're doing to prevent it in the future.",
+  "published_at": "2025-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/05/11/114d5992b86607bced841ae9064cdd4060c72ea657e0a550d5be6f5ae76a64e0/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/05/11/114d5992b86607bced841ae9064cdd4060c72ea657e0a550d5be6f5ae76a64e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11513,
+    "sha256": "sha256:883b906bbbb89f14883bc9d4c2dfa172c33ea36bb99a20b0d858551dd33b9a40",
+    "normalized_content_hash": "sha256:30a4c22be06437ea6bbbb27133f140ac9aa16640ab643c29861825e09e01ae23"
+  },
+  "provenance": {
+    "source_item_id": "c17a44b1-d20a-4146-823d-c955ddfeb3b2",
+    "external_id": "https://depot.dev/blog/may-8-outage"
+  }
+}

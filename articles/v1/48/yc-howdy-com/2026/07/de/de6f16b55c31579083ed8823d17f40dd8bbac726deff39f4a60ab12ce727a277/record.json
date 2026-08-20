@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de6f16b55c31579083ed8823d17f40dd8bbac726deff39f4a60ab12ce727a277",
+  "company": {
+    "key": "yc-howdy-com",
+    "name": "Howdy.com"
+  },
+  "source": {
+    "id": "yc-howdy-com-news-import-7de6c48bfb23",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.howdylatam.com/blog/cqrs-complexity-bet",
+    "canonical": "https://www.howdylatam.com/blog/cqrs-complexity-bet"
+  },
+  "title": "CQRS Isn't an Architecture Pattern. It's a Complexity Bet",
+  "summary": "CQRS shows up in interview prep and big tech blog posts more than in systems that actually need it. A framework for when the complexity is worth taking on.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T08:44:52.452861+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-07-30T09:48:37.346126+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-howdy-com/2026/07/de/de6f16b55c31579083ed8823d17f40dd8bbac726deff39f4a60ab12ce727a277/article.md",
+    "record": "articles/v1/48/yc-howdy-com/2026/07/de/de6f16b55c31579083ed8823d17f40dd8bbac726deff39f4a60ab12ce727a277/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9399,
+    "sha256": "sha256:ce610cc3ade1dde637a11d18fb1a00c06b38a5d12f4441da6904f76a10d4db29",
+    "normalized_content_hash": "sha256:db21ccf3658e883c2bb235906e73c02bd173ef10abf91e88f8ab83683137efdb"
+  },
+  "provenance": {
+    "source_item_id": "061e4a87-46d7-4374-908a-5e6e4f6be209",
+    "external_id": "https://www.howdylatam.com/blog/cqrs-complexity-bet"
+  }
+}

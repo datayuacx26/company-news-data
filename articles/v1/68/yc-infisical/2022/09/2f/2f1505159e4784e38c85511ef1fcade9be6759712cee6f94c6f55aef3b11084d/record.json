@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2f1505159e4784e38c85511ef1fcade9be6759712cee6f94c6f55aef3b11084d",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/stop-using-env-files",
+    "canonical": "https://infisical.com/blog/stop-using-env-files"
+  },
+  "title": "Stop using .env files!",
+  "summary": "This blog explains the drawbacks of .env files, and what you should use instead of those.",
+  "published_at": "2022-09-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T21:03:09.867162+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2022/09/2f/2f1505159e4784e38c85511ef1fcade9be6759712cee6f94c6f55aef3b11084d/article.md",
+    "record": "articles/v1/68/yc-infisical/2022/09/2f/2f1505159e4784e38c85511ef1fcade9be6759712cee6f94c6f55aef3b11084d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5703,
+    "sha256": "sha256:0212e4360128d29f79603d3e6f0a6a1f0f2f3eb7bc780d81e7751cc1b561b646",
+    "normalized_content_hash": "sha256:2d27a73042ba499b17046b22d0dc410a2566b86d2ed1c1ae08e3d94158e261cb"
+  },
+  "provenance": {
+    "source_item_id": "6c842ecb-4569-442f-92ac-ea24a27115bf",
+    "external_id": "https://infisical.com/blog/stop-using-env-files"
+  }
+}

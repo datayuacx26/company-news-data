@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-lumetric",
+    "name": "Lumetric"
+  },
+  "record_count": 2,
+  "first_published_at": "2026-02-20T20:17:23.622+00:00",
+  "last_published_at": "2026-05-15T17:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/yc-lumetric/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2182,
+        "sha256": "sha256:6d8960662ea19e9a11fbc673b517efd61561390a18d3e9d0c4c0d67556612a0f",
+        "newest_at": "2026-05-15T17:01:00+00:00",
+        "oldest_at": "2026-02-20T20:17:23.622+00:00"
+      }
+    ]
+  }
+}

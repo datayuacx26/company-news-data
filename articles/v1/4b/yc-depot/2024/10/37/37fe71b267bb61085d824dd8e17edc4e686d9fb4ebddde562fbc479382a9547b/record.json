@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "37fe71b267bb61085d824dd8e17edc4e686d9fb4ebddde562fbc479382a9547b",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/building-images-gzip-vs-zstd",
+    "canonical": "https://depot.dev/blog/building-images-gzip-vs-zstd"
+  },
+  "title": "Building Images: Gzip vs Zstd",
+  "summary": "Docker images are downloaded as compressed layers and default to gzip compression. But is there a better option? We compare gzip and zstd compression methods to see which is best for building and pushing images.",
+  "published_at": "2024-10-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/10/37/37fe71b267bb61085d824dd8e17edc4e686d9fb4ebddde562fbc479382a9547b/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/10/37/37fe71b267bb61085d824dd8e17edc4e686d9fb4ebddde562fbc479382a9547b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12116,
+    "sha256": "sha256:c6fd7904e89a71977ff1e88607dad85f771d2e90d7ac81b7aa5b44023b788c05",
+    "normalized_content_hash": "sha256:845471ef9506c05b2b8467c2064ad04ef246c28a1dfd447efbf6f84b28e67668"
+  },
+  "provenance": {
+    "source_item_id": "b379ca9c-4ffe-4eea-80d5-840f6ffb516c",
+    "external_id": "https://depot.dev/blog/building-images-gzip-vs-zstd"
+  }
+}

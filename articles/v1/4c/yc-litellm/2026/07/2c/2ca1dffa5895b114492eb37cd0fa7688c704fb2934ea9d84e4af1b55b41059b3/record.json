@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ca1dffa5895b114492eb37cd0fa7688c704fb2934ea9d84e4af1b55b41059b3",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/auto-router-prompt-caching-benchmark",
+    "canonical": "https://docs.litellm.ai/blog/auto-router-prompt-caching-benchmark"
+  },
+  "title": "Cut 69% Costs Stacking Auto-Routing on Prompt Caching",
+  "summary": "The most common objection to auto-routing is that switching models throws away your prompt cache. We measured it across five datasets, including real gateway traffic with the provider's own cache accounting, and the answer is no.",
+  "published_at": "2026-07-31T10:00:00+00:00",
+  "first_seen_at": "2026-08-01T12:42:00.497478+00:00",
+  "fetched_at": "2026-08-01T12:42:01.608349+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/2c/2ca1dffa5895b114492eb37cd0fa7688c704fb2934ea9d84e4af1b55b41059b3/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/2c/2ca1dffa5895b114492eb37cd0fa7688c704fb2934ea9d84e4af1b55b41059b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6485,
+    "sha256": "sha256:8e9083c32fc89b86c8fa7f38f2f0fdf2f747bab67dc03f99f1fa66c797fda599",
+    "normalized_content_hash": "sha256:643d9c297f5e4fece9eff19e0e2d5fc863d4665e60f7dcb650182f17409ae72b"
+  },
+  "provenance": {
+    "source_item_id": "e01c6bea-55bd-4a4c-a46b-d466f13fa155",
+    "external_id": "https://docs.litellm.ai/blog/auto-router-prompt-caching-benchmark"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a5b15f407f483ce7bdb414af1ee7661d9f74c21702cb5065a64a34fa6edba68f",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/sccache-in-github-actions",
+    "canonical": "https://depot.dev/blog/sccache-in-github-actions"
+  },
+  "title": "Fast Rust builds with sccache and GitHub Actions",
+  "summary": "Compiling Rust in GitHub Actions can be slow in unpredictable ways. Let's examine the underlying causes and explore sccache as an effective solution.",
+  "published_at": "2025-03-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/03/a5/a5b15f407f483ce7bdb414af1ee7661d9f74c21702cb5065a64a34fa6edba68f/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/03/a5/a5b15f407f483ce7bdb414af1ee7661d9f74c21702cb5065a64a34fa6edba68f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12244,
+    "sha256": "sha256:86acdabf1ad337393e82974fe443caf7d5ac30da33226f97bd73fe76d10a5088",
+    "normalized_content_hash": "sha256:4752b277d4a55cd4924a5016c626b6b2161bf27799a5679626ded30fa9466b6b"
+  },
+  "provenance": {
+    "source_item_id": "f7bf57e3-6e5e-4d49-aad0-8b3bd9372d08",
+    "external_id": "https://depot.dev/blog/sccache-in-github-actions"
+  }
+}

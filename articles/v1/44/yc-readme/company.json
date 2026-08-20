@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-readme",
+    "name": "ReadMe"
+  },
+  "record_count": 25,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/44/yc-readme/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 23940,
+        "sha256": "sha256:14b4f1432221b2e4b97fa2f20e66b45b465227cda50e8e9e37e2f7807fbc6c9c",
+        "newest_at": "2026-08-12T03:34:55.152695+00:00",
+        "oldest_at": "2026-07-28T21:20:10.944044+00:00"
+      }
+    ]
+  }
+}

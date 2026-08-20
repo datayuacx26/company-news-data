@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d94024a10635c12f82be45cd420492eb2d516e680df3e02da3c82b53ec0a51bc",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc."
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-c17882ce6386",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/",
+    "canonical": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/"
+  },
+  "title": "New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning",
+  "summary": "Today we're introducing new capabilities on Amazon Bedrock AgentCore, the platform to build, connect, and optimize agents. In this post, we cover how these capabilities close each gap: connecting agents to organizational, web, and paid knowledge; helping teams find and fix what's going wrong in production; and enforcing controls that scale as agents grow more capable. Together, they help you build more capable agents faster, govern them with controls that scale, and improve them continuously.",
+  "published_at": "2026-06-17T15:29:36+00:00",
+  "first_seen_at": "2026-07-21T06:14:34.184257+00:00",
+  "fetched_at": "2026-07-28T21:23:18.688239+00:00",
+  "last_updated_at": "2026-08-20T02:18:29.339582+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/06/d9/d94024a10635c12f82be45cd420492eb2d516e680df3e02da3c82b53ec0a51bc/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/06/d9/d94024a10635c12f82be45cd420492eb2d516e680df3e02da3c82b53ec0a51bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18361,
+    "sha256": "sha256:e544622d90ee989399a24ceb05911f7285c36236b802e94d508a1ff5a5eed233",
+    "normalized_content_hash": "sha256:94f0bac01be4a2e8b1160affb55f9b827df4348a7dafa502a88522681ec6637f"
+  },
+  "provenance": {
+    "source_item_id": "355ea679-4462-457d-b3bc-033e2e2a4c30",
+    "external_id": "https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/"
+  }
+}

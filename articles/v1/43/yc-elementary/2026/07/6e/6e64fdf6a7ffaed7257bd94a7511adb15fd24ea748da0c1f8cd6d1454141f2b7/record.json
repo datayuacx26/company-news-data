@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e64fdf6a7ffaed7257bd94a7511adb15fd24ea748da0c1f8cd6d1454141f2b7",
+  "company": {
+    "key": "yc-elementary",
+    "name": "Elementary"
+  },
+  "source": {
+    "id": "yc-elementary-news-import-909d1fa3bc2c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elementary-data.com/post/march-product-announcement",
+    "canonical": "https://www.elementary-data.com/post/march-product-announcement"
+  },
+  "title": "March Product Announcement",
+  "summary": "Elementary's March release expands the platform's context layer across the full pipeline, from Fivetran ingestion to Snowflake Semantic Views and Lightdash, and ships new agent capabilities including code review, Plan Mode, and agents working across Jira, Slack, Teams, and email.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T02:31:24.735806+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-20T01:09:44.942148+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-elementary/2026/07/6e/6e64fdf6a7ffaed7257bd94a7511adb15fd24ea748da0c1f8cd6d1454141f2b7/article.md",
+    "record": "articles/v1/43/yc-elementary/2026/07/6e/6e64fdf6a7ffaed7257bd94a7511adb15fd24ea748da0c1f8cd6d1454141f2b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4353,
+    "sha256": "sha256:510853f22a5c85305bfcc36133778e84df480991ec456c1f1258d8fc47fcdc05",
+    "normalized_content_hash": "sha256:057dfeaceb901c56ceba35feffdd83b3854624d8ca426610bf24c353632cf59d"
+  },
+  "provenance": {
+    "source_item_id": "c2f4fc11-8617-47f9-8bfb-82c9d2dc9be5",
+    "external_id": "https://www.elementary-data.com/post/march-product-announcement"
+  }
+}

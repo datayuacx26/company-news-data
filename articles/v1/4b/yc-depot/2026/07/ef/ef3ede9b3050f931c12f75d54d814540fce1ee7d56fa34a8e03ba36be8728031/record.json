@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef3ede9b3050f931c12f75d54d814540fce1ee7d56fa34a8e03ba36be8728031",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/failure-fingerprints",
+    "canonical": "https://depot.dev/blog/failure-fingerprints"
+  },
+  "title": "Failure fingerprints: Comparing test failures over time",
+  "summary": "To make recurring test failures easier to reason about we needed to include historical context. Here's how we derive a stable identity for each test and a fingerprint for each failure, so you can tell a brand-new problem from the same flaky test you've seen a dozen times.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/07/ef/ef3ede9b3050f931c12f75d54d814540fce1ee7d56fa34a8e03ba36be8728031/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/07/ef/ef3ede9b3050f931c12f75d54d814540fce1ee7d56fa34a8e03ba36be8728031/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10132,
+    "sha256": "sha256:c851c76a0eb79a7b298d007fa525a4df436141504e27c3603814f8abd40ca0f2",
+    "normalized_content_hash": "sha256:3549a53e6f6e24bd9f0ab9e230731cabc41a18b8e89355a0b219deacdfa5afdf"
+  },
+  "provenance": {
+    "source_item_id": "010d4e62-8fab-4169-8943-22190a3d3687",
+    "external_id": "https://depot.dev/blog/failure-fingerprints"
+  }
+}

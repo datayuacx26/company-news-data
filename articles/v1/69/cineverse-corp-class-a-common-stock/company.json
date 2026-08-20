@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cineverse-corp-class-a-common-stock",
+    "name": "Cineverse Corp."
+  },
+  "record_count": 14,
+  "first_published_at": "2026-04-01T16:40:00+00:00",
+  "last_published_at": "2026-08-13T20:12:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/69/cineverse-corp-class-a-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 27931,
+        "sha256": "sha256:4e2992fd0f96316b31918d441ad0df338082c6bfd195685efd50f1fdd5a682c1",
+        "newest_at": "2026-08-13T20:12:00+00:00",
+        "oldest_at": "2026-04-01T16:40:00+00:00"
+      }
+    ]
+  }
+}

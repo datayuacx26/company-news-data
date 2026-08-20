@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5865b3d12147d9aa7023a43678aaf7b90c76ef6a57c57a2a29b2f4abe799fa88",
+  "company": {
+    "key": "yc-roboflow",
+    "name": "Roboflow"
+  },
+  "source": {
+    "id": "yc-roboflow-news-import-01e8e48f5676",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.roboflow.com/cancer-research-computer-vision/",
+    "canonical": "https://blog.roboflow.com/cancer-research-computer-vision/"
+  },
+  "title": "Improving Cancer Research with Computer Vision",
+  "summary": "Researcher Mateo Sokac trained an object detection model in Roboflow to count neutrophils in dry microscopy, hitting 0.70 mAP with image tiling and augmentation.",
+  "published_at": "2026-06-03T13:50:00+00:00",
+  "first_seen_at": "2026-07-25T22:08:11.425113+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:26.575242+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-roboflow/2026/06/58/5865b3d12147d9aa7023a43678aaf7b90c76ef6a57c57a2a29b2f4abe799fa88/article.md",
+    "record": "articles/v1/63/yc-roboflow/2026/06/58/5865b3d12147d9aa7023a43678aaf7b90c76ef6a57c57a2a29b2f4abe799fa88/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6120,
+    "sha256": "sha256:90a693bb3d74b3eaa791eece18d5e229dfba03aea31dd9cb71cf5485f7b3e0fd",
+    "normalized_content_hash": "sha256:a72ab0342a1c662389d5dc0a587bb3f87548184311a2badeb53b4128937d765e"
+  },
+  "provenance": {
+    "source_item_id": "94ec4530-2312-43de-a52b-65ff8ee37a81",
+    "external_id": "https://blog.roboflow.com/cancer-research-computer-vision/"
+  }
+}

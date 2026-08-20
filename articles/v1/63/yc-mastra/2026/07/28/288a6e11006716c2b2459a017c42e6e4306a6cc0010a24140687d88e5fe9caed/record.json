@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "288a6e11006716c2b2459a017c42e6e4306a6cc0010a24140687d88e5fe9caed",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-2c9844a44afc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/blog/introducing-tool-hooks",
+    "canonical": "https://mastra.ai/blog/introducing-tool-hooks"
+  },
+  "title": "Introducing Tool Hooks for Mastra Agents",
+  "summary": "Observe and control every tool call your agent makes.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:56:34.426085+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:03.897027+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/07/28/288a6e11006716c2b2459a017c42e6e4306a6cc0010a24140687d88e5fe9caed/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/07/28/288a6e11006716c2b2459a017c42e6e4306a6cc0010a24140687d88e5fe9caed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6374,
+    "sha256": "sha256:dd715a1adc789ca7db46652d23537f02720e250f6d55315e5348d26113fbe944",
+    "normalized_content_hash": "sha256:6685117552813a3b8d9c2934ca3cdc5072c0d57577f0da9f9c2758f7d5a85f7c"
+  },
+  "provenance": {
+    "source_item_id": "e1668be1-c400-45f7-aaad-8e5d8560a108",
+    "external_id": "https://mastra.ai/blog/introducing-tool-hooks"
+  }
+}

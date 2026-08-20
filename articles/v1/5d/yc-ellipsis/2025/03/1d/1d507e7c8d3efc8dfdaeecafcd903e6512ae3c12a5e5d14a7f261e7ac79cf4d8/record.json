@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d507e7c8d3efc8dfdaeecafcd903e6512ae3c12a5e5d14a7f261e7ac79cf4d8",
+  "company": {
+    "key": "yc-ellipsis",
+    "name": "Ellipsis"
+  },
+  "source": {
+    "id": "yc-ellipsis-news-import-97656c4ed8a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ellipsis.dev/blog/automated-documentation-maintenance",
+    "canonical": "https://www.ellipsis.dev/blog/automated-documentation-maintenance"
+  },
+  "title": "Maintaining Documentation Without a Human",
+  "summary": "Documentation rots the moment it's written. We built an agent that polls for code changes on a schedule and generates PRs to keep docs in sync.",
+  "published_at": "2025-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:57:47.052865+00:00",
+  "fetched_at": "2026-07-28T10:43:22.567160+00:00",
+  "last_updated_at": "2026-07-28T10:43:24.725889+00:00",
+  "paths": {
+    "article": "articles/v1/5d/yc-ellipsis/2025/03/1d/1d507e7c8d3efc8dfdaeecafcd903e6512ae3c12a5e5d14a7f261e7ac79cf4d8/article.md",
+    "record": "articles/v1/5d/yc-ellipsis/2025/03/1d/1d507e7c8d3efc8dfdaeecafcd903e6512ae3c12a5e5d14a7f261e7ac79cf4d8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5527,
+    "sha256": "sha256:c1e856cd531a5dead10ad001180ea53152a84d5c9130f7cc1736c468737b4ab2",
+    "normalized_content_hash": "sha256:af165693006954f8233161f7ad4cca007bb2fea7eb1b605e99cf9c9733a88f7f"
+  },
+  "provenance": {
+    "source_item_id": "1ec4d37e-2881-46ef-b157-45b26238b9be",
+    "external_id": "https://www.ellipsis.dev/blog/automated-documentation-maintenance"
+  }
+}

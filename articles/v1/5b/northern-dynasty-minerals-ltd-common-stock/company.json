@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "northern-dynasty-minerals-ltd-common-stock",
+    "name": "Northern Dynasty Minerals Ltd."
+  },
+  "record_count": 13,
+  "first_published_at": "2017-08-09T15:24:56+00:00",
+  "last_published_at": "2026-08-13T06:53:22+00:00",
+  "partitions": [
+    {
+      "partition": "2017-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5b/northern-dynasty-minerals-ltd-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13170,
+        "sha256": "sha256:eb1232e05162c8a570afa6b35ca97c4bc075552d2ae87e59077ca7d0ab490d5e",
+        "newest_at": "2026-08-13T06:53:22+00:00",
+        "oldest_at": "2017-08-09T15:24:56+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9a2768690fbfe9f6a59126a211d0a541d5594dc69b62f42508d5a04cb35e8409",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/aws-secrets-manager-vs-parameter-store",
+    "canonical": "https://infisical.com/blog/aws-secrets-manager-vs-parameter-store"
+  },
+  "title": "AWS Secrets Manager vs. Parameter Store: Which Should You Use?",
+  "summary": "Secrets Manager and Parameter Store both store values securely, but rotation, access control, and price scale very differently. Here's how to choose.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/07/9a/9a2768690fbfe9f6a59126a211d0a541d5594dc69b62f42508d5a04cb35e8409/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/07/9a/9a2768690fbfe9f6a59126a211d0a541d5594dc69b62f42508d5a04cb35e8409/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7759,
+    "sha256": "sha256:5996b289db132af1cb1af6de6ba1a063eb8f0e0ba4716b2e19f11070717cddd0",
+    "normalized_content_hash": "sha256:8927918aa42f53931d986a847839ef46fe8cc1053f721b5f0bcda95c520b9e24"
+  },
+  "provenance": {
+    "source_item_id": "6347010f-9627-4a60-877f-d492a7075e16",
+    "external_id": "https://infisical.com/blog/aws-secrets-manager-vs-parameter-store"
+  }
+}

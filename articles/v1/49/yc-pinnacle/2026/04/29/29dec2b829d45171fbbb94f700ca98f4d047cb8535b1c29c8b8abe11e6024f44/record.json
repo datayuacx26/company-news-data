@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "29dec2b829d45171fbbb94f700ca98f4d047cb8535b1c29c8b8abe11e6024f44",
+  "company": {
+    "key": "yc-pinnacle",
+    "name": "Pinnacle"
+  },
+  "source": {
+    "id": "yc-pinnacle-news-import-eb12d43fa2a4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pinnacle.sh/blog/sms-restricted-keywords",
+    "canonical": "https://pinnacle.sh/blog/sms-restricted-keywords"
+  },
+  "title": "SMS Carrier Filtering: What Actually Blocks Your Messages and How to Stop It",
+  "summary": "US carriers silently filter messages that look risky, and there's no public list of blocked words to memorize. Here's what actually triggers filtering, the SHAFT family reference, and how Pinnacle's API ships the entire pre-send pipeline so your messages get through.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:16:03.254405+00:00",
+  "fetched_at": "2026-07-28T22:15:34.522080+00:00",
+  "last_updated_at": "2026-08-19T19:58:36.757593+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-pinnacle/2026/04/29/29dec2b829d45171fbbb94f700ca98f4d047cb8535b1c29c8b8abe11e6024f44/article.md",
+    "record": "articles/v1/49/yc-pinnacle/2026/04/29/29dec2b829d45171fbbb94f700ca98f4d047cb8535b1c29c8b8abe11e6024f44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16073,
+    "sha256": "sha256:4ec37b94c957fa7a27308b1335da0859c8228baf69a92580feadade0b1ded6e1",
+    "normalized_content_hash": "sha256:0bbe9a9675fa13da22a84213d800a54db5186cb75238338c5ec953fe7ba599a5"
+  },
+  "provenance": {
+    "source_item_id": "23eb06a8-06fb-4a34-9384-95c21607c7b5",
+    "external_id": "https://pinnacle.sh/blog/sms-restricted-keywords"
+  }
+}

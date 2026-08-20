@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca79f0322317eafda19aed3abab65a494e179367d12211ec62b8a20862a26f20",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely",
+    "canonical": "https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely"
+  },
+  "title": "Container security at scale: Building untrusted images safely",
+  "summary": "Many SaaS platforms need to run customer code securely and fast. Rather than building container infrastructure from scratch, you can use Depot's API to handle the heavy lifting. Here's how to build Go tooling that creates isolated projects, manages builds, and tracks metrics for your customer workloads.",
+  "published_at": "2025-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:27.560850+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/06/ca/ca79f0322317eafda19aed3abab65a494e179367d12211ec62b8a20862a26f20/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/06/ca/ca79f0322317eafda19aed3abab65a494e179367d12211ec62b8a20862a26f20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11991,
+    "sha256": "sha256:b54c413c6f8ba23fc390b9f3af104762d629ee5feeaddeffe9f586b51da3ad9b",
+    "normalized_content_hash": "sha256:3afd96b8ebff9c773b439fc8b2bb421b1ccc4a22300071307590ab319b1e34ec"
+  },
+  "provenance": {
+    "source_item_id": "a6f7ed81-d73f-4cd5-a453-30910503fc22",
+    "external_id": "https://depot.dev/blog/container-security-at-scale-building-untrusted-images-safely"
+  }
+}

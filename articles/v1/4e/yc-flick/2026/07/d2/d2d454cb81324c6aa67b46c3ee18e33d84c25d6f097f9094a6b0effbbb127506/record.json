@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2d454cb81324c6aa67b46c3ee18e33d84c25d6f097f9094a6b0effbbb127506",
+  "company": {
+    "key": "yc-flick",
+    "name": "Flick"
+  },
+  "source": {
+    "id": "yc-flick-news-import-00342d05d871",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://flick.art/blog/img2img-consistent-character/comfyui",
+    "canonical": "https://flick.art/blog/img2img-consistent-character/comfyui"
+  },
+  "title": "How to Keep a Character Consistent in ComfyUI",
+  "summary": "ComfyUI holds a character by stacking nodes: an IPAdapter FaceID adapter for identity, ControlNet for pose, and a FaceDetailer pass to sharpen the face. No training needed, but it takes a careful graph and a capable GPU.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T08:28:30.776088+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:47.487807+00:00",
+  "paths": {
+    "article": "articles/v1/4e/yc-flick/2026/07/d2/d2d454cb81324c6aa67b46c3ee18e33d84c25d6f097f9094a6b0effbbb127506/article.md",
+    "record": "articles/v1/4e/yc-flick/2026/07/d2/d2d454cb81324c6aa67b46c3ee18e33d84c25d6f097f9094a6b0effbbb127506/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2320,
+    "sha256": "sha256:2f8e4922d436c6e95d8aa182f7979c9cff55a7bce84d4b1d8bd6ac48125eec2e",
+    "normalized_content_hash": "sha256:48391ddb9e220aaa76ff4c4142aed9e173100b17c130cd8a9397acc2182cbeb1"
+  },
+  "provenance": {
+    "source_item_id": "3370d36b-8f66-41d5-adb4-9dc6b13a3d82",
+    "external_id": "https://flick.art/blog/img2img-consistent-character/comfyui"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4109ce614ae5ef832b59ca3bdffa5ccfab9514df7915fc16e61d51ea9c85716d",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-depot-code-beta",
+    "canonical": "https://depot.dev/blog/now-available-depot-code-beta"
+  },
+  "title": "Now available: Depot Code in private beta",
+  "summary": "Source control has become the bottleneck at the top of the delivery loop. So we built our own: a diskless git server backed by blob storage that scales horizontally, mirrors your GitHub repos, and plugs straight into Depot CI. It's now in private beta.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/07/41/4109ce614ae5ef832b59ca3bdffa5ccfab9514df7915fc16e61d51ea9c85716d/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/07/41/4109ce614ae5ef832b59ca3bdffa5ccfab9514df7915fc16e61d51ea9c85716d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7291,
+    "sha256": "sha256:8f0a7ff7ae583d36fa7273f6d7706ed534b8e02316250a299cbc5d08191eea5a",
+    "normalized_content_hash": "sha256:b2d4ee278a039423b1dda66822d8184457e032109f0bc95bbcc1f10ce8fd4fd4"
+  },
+  "provenance": {
+    "source_item_id": "0abb610f-5420-4351-9831-4442b527c38b",
+    "external_id": "https://depot.dev/blog/now-available-depot-code-beta"
+  }
+}

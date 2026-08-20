@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-finary-com",
+    "name": "Finary.com"
+  },
+  "record_count": 66,
+  "first_published_at": "2022-06-15T00:00:00+00:00",
+  "last_published_at": "2026-08-07T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 30
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/60/yc-finary-com/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50868,
+        "sha256": "sha256:fed6ff3056b219c3ef10ff21f7ecabc4c0e65bb1ada919e71f6b58d82d70e293",
+        "newest_at": "2026-08-07T00:00:00+00:00",
+        "oldest_at": "2026-01-20T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/60/yc-finary-com/index/pages/000002.json",
+        "record_count": 16,
+        "byte_count": 17371,
+        "sha256": "sha256:4b3c4644486c9073f3805db5852c2a17216f0dbdef7b94baa0da0a4b36f57dff",
+        "newest_at": "2026-01-20T00:00:00+00:00",
+        "oldest_at": "2022-06-15T00:00:00+00:00"
+      }
+    ]
+  }
+}

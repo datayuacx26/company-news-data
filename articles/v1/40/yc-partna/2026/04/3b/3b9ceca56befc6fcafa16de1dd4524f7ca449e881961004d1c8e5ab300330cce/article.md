@@ -1,0 +1,91 @@
+---
+schema_version: "1.0.0"
+document_id: "3b9ceca56befc6fcafa16de1dd4524f7ca449e881961004d1c8e5ab300330cce"
+company_key: "yc-partna"
+company: "Partna"
+source_id: "yc-partna-news-import-0a1165c663da"
+canonical_url: "https://getpartna.com/blog/were-still-building-for-africa"
+published_at: "2026-04-07T00:00:00+00:00"
+first_seen_at: "2026-07-22T08:19:22.140281+00:00"
+fetched_at: "2026-07-28T21:56:48.286898+00:00"
+content_hash: "sha256:337ecc97c91e8502334308e098c6d46547b26d5ed217ff9456f47084082084c7"
+---
+
+# We’re Still Building for Africa
+
+Sometime in the last two years, building for Africa stopped being cool.
+
+
+The investors moved on. The Twitter discourse shifted to AI agents and frontier models. The founders who raised $5M seed rounds for “African fintech” quietly pivoted to “emerging markets” or dropped the Africa angle from their decks entirely. The message was clear: if you want to raise, stop talking about Africa.
+
+
+We heard the message. We just don’t agree with it.
+
+
+Partna is a stablecoin payment API that connects African currencies to the global financial system. We process over 200,000 transactions a month across Nigeria and Kenya with 99% success rates. We helped[Hyperverge](https://hyperverge.co/) go from waiting 365 days to get paid by Nigerian clients to same-day USD settlement. We took[Cenoa](https://cenoa.com/) ’s transaction processing from 1.5 hours to 2 minutes. We power the onramp and offramp infrastructure behind[Minipay](https://minipay.to/) and its over 1 million users.
+
+
+We are not pivoting away from Africa. We are doubling down.
+
+
+## The Conviction Gap
+
+
+The narrative is understandable. African markets are hard. FX is volatile. Banking rails are unreliable. Licensing is slow. The TAM slide never looks as clean as a US or global SaaS company. Investors got burned on a few high-profile African fintech bets and decided the whole continent was uninvestable.
+
+
+But here’s the thing nobody wants to say out loud: the companies that left didn’t fail because Africa is a bad market. They failed because they tried to build for 34 countries at once, raised too much money, hired too many people, and never got deep enough in any single market to actually work. They built breadth. We built depth.
+
+
+## The Last Mile
+
+
+$15.6 trillion moved through stablecoins in 2024. On par with Visa.[Stripe](https://stripe.com/) paid $1.1 billion for[Bridge](https://bridge.xyz/) to own this infrastructure globally. But Bridge doesn’t own the last mile in Nigeria. Neither does[Conduit](https://conduit.financial/) ,[MoonPay](https://moonpay.com/) , or[Transak](https://transak.com/) . The hardest part of moving money into and out of Africa is not the stablecoin side. It’s converting to and from local currencies in markets where the banking system does not cooperate.
+
+
+That’s what we do. That’s all we do.
+
+
+Every global company expanding into Africa hits the same wall. Collecting local currencies from customers is complex. Getting that money out as USD is worse. Companies wait weeks, sometimes months, to settle. The traditional rails are slow, expensive, and often simply do not work.
+
+
+We solve this with a single API. Your customers pay in local currency. You receive USD or stablecoins. The conversion, liquidity, and compliance are handled by us. Go live within days, not months.
+
+
+## What’s Different Now
+
+
+When we wrote our first “Introducing Partna” post in January 2024, we were processing 10,000 transactions a month. Two years later, we’ve scaled to 200,000+ monthly transactions and processed over $100M in total volume with the same lean team. Every customer we have came through referrals or word of mouth. Our largest customer found us because one of their team members used an existing Partna customer and wanted to know what powered it.
+
+
+That’s the kind of product quality that speaks for itself. But product quality alone doesn’t build a company. So here’s what’s changing:
+
+
+We’re building a real outbound sales motion for the first time. Every customer until now has found us. We’re going to start finding them. We’re targeting crypto wallets, SaaS companies with African customers, and fintechs building cross-border products. The companies that need Nigeria and Kenya to work now, not in 18 months.
+
+
+We’re expanding to Ghana, Malawi, and Zambia. Deliberately. Market by market. Getting deep before going wide.
+
+
+And we’re rebuilding our website, our docs, and our public presence to match the product we’ve actually built. For too long we’ve been the best-kept secret in African stablecoin infrastructure. That ends now.
+
+
+## The Bet
+
+
+There is a version of this story where we chase what’s fundable. Rebrand as an “emerging markets” company. Add AI to the pitch deck. Spread ourselves across 20 countries and put up a big map on our homepage.
+
+
+We’ve seen that playbook. It doesn’t work.
+
+
+Our bet is simpler: be the best stablecoin payment infrastructure in the markets that matter most. Nigeria and Kenya today. West and East Africa tomorrow. Be so good at the last mile that every global company entering Africa ends up on our rails.
+
+
+Think[Paystack](https://paystack.com/) before Stripe acquired them. Paystack didn’t try to be global. They were the developer-first payments API that was so good at Nigeria that the biggest payment company on earth paid $200 million to own them.
+
+
+That’s the playbook. Depth over breadth. Performance over positioning. Africa, not because it’s trendy, but because it’s where the problem is hardest and the opportunity is biggest.
+
+
+If you’re building something that touches African currencies,[we should talk](https://www.getpartna.com/contact) . We can get you live within days. Not weeks. Not months.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b62a6ddb472ab00ba67d9bbca6f326ccf3d04f45e4b396300659c7eee1b22a2e",
+  "company": {
+    "key": "yc-traceloop",
+    "name": "Traceloop"
+  },
+  "source": {
+    "id": "yc-traceloop-news-import-a0183e54c5bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.traceloop.com/blog/catching-silent-llm-degradation-how-an-llm-reliability-platform-addresses-model-and-data-drift",
+    "canonical": "https://www.traceloop.com/blog/catching-silent-llm-degradation-how-an-llm-reliability-platform-addresses-model-and-data-drift"
+  },
+  "title": "Catching Silent LLM Degradation: How an LLM Reliability Platform Addresses Model and Data Drift",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:14:44.927731+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:07:38.850557+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-traceloop/2026/07/b6/b62a6ddb472ab00ba67d9bbca6f326ccf3d04f45e4b396300659c7eee1b22a2e/article.md",
+    "record": "articles/v1/6f/yc-traceloop/2026/07/b6/b62a6ddb472ab00ba67d9bbca6f326ccf3d04f45e4b396300659c7eee1b22a2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5952,
+    "sha256": "sha256:9efe8aa92369337688baef7a5111bcd40505a8f0eac9b67936d22620d5169b8f",
+    "normalized_content_hash": "sha256:f2c16a12fd44f712cfbdcab39a8ccf7667add74261a3a30c0ad2d8d18746fa94"
+  },
+  "provenance": {
+    "source_item_id": "4cd9eb77-f677-4a59-9398-8093025b158f",
+    "external_id": "https://www.traceloop.com/blog/catching-silent-llm-degradation-how-an-llm-reliability-platform-addresses-model-and-data-drift"
+  }
+}

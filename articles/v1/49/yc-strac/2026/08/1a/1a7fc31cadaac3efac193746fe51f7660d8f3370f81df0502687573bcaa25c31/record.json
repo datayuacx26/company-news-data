@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a7fc31cadaac3efac193746fe51f7660d8f3370f81df0502687573bcaa25c31",
+  "company": {
+    "key": "yc-strac",
+    "name": "Strac"
+  },
+  "source": {
+    "id": "yc-strac-news-import-28a26672fe0a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.strac.io/blog/supabase-mcp-server",
+    "canonical": "https://www.strac.io/blog/supabase-mcp-server"
+  },
+  "title": "Supabase MCP Server: Secure Setup for Claude &amp; AI Agents (2026)",
+  "summary": "The Supabase MCP server lets Claude, Cursor, ChatGPT, and AI agents read and act inside Supabase. Here's the official setup, the real security risks, and how to deploy it with DLP-grade redaction at the MCP layer.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T19:41:50.843006+00:00",
+  "fetched_at": "2026-08-05T19:41:52.990669+00:00",
+  "last_updated_at": "2026-08-18T05:14:01.356139+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-strac/2026/08/1a/1a7fc31cadaac3efac193746fe51f7660d8f3370f81df0502687573bcaa25c31/article.md",
+    "record": "articles/v1/49/yc-strac/2026/08/1a/1a7fc31cadaac3efac193746fe51f7660d8f3370f81df0502687573bcaa25c31/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13534,
+    "sha256": "sha256:91b3b1e971dcad876c69cdf860f42207f8b189767f5659e2c3a246f122b55dff",
+    "normalized_content_hash": "sha256:88809d9baa5cd5418e23dbbf35ece869e807a3d124547ebf749f7cfa00934811"
+  },
+  "provenance": {
+    "source_item_id": "f4014d55-362c-4703-b75f-2920ae6abdb8",
+    "external_id": "https://www.strac.io/blog/supabase-mcp-server"
+  }
+}

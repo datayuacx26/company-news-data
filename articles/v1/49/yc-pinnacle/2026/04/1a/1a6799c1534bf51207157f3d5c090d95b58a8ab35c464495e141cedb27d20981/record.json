@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a6799c1534bf51207157f3d5c090d95b58a8ab35c464495e141cedb27d20981",
+  "company": {
+    "key": "yc-pinnacle",
+    "name": "Pinnacle"
+  },
+  "source": {
+    "id": "yc-pinnacle-news-import-eb12d43fa2a4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pinnacle.sh/blog/custom-webhook-headers-authenticate-your-endpoint",
+    "canonical": "https://pinnacle.sh/blog/custom-webhook-headers-authenticate-your-endpoint"
+  },
+  "title": "Custom Webhook Headers: Authenticate Your Endpoint Without a Proxy",
+  "summary": "Pinnacle webhooks now support custom HTTP headers on every delivery. Add bearer tokens, tenant IDs, or pre-shared keys so your endpoint can authenticate incoming events — no proxy, no rewrite layer, no duct tape.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T09:08:45.431702+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-19T19:58:36.757593+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-pinnacle/2026/04/1a/1a6799c1534bf51207157f3d5c090d95b58a8ab35c464495e141cedb27d20981/article.md",
+    "record": "articles/v1/49/yc-pinnacle/2026/04/1a/1a6799c1534bf51207157f3d5c090d95b58a8ab35c464495e141cedb27d20981/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11297,
+    "sha256": "sha256:95137c2c51d1118f31fd2644f4b082ca22734144233f8905589fe36994560b1e",
+    "normalized_content_hash": "sha256:e96f990d1e67706ab0f8c919f9d99779c939595af0b8e12e5c6270a065274a98"
+  },
+  "provenance": {
+    "source_item_id": "6ef9f1f3-183e-4f1e-aef6-e99a214fa3b5",
+    "external_id": "https://pinnacle.sh/blog/custom-webhook-headers-authenticate-your-endpoint"
+  }
+}

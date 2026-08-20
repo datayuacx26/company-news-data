@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00152d2d04ae77cb8c6e9dc07e2fa4b2fc85796f6afafbd3e593c5fcf4056712",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/using-sandboxes-in-kafka-based-asynchronous-applications/",
+    "canonical": "https://www.signadot.com/blog/using-sandboxes-in-kafka-based-asynchronous-applications/"
+  },
+  "title": "Using Sandboxes in Kafka-based Asynchronous Applications",
+  "summary": "In the current article, we will present an actual implementation for the message-level isolation solution, by combining the use of Sandboxes with our recently released Routes API.",
+  "published_at": "2024-02-06T00:48:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:26:16.511012+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/02/00/00152d2d04ae77cb8c6e9dc07e2fa4b2fc85796f6afafbd3e593c5fcf4056712/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/02/00/00152d2d04ae77cb8c6e9dc07e2fa4b2fc85796f6afafbd3e593c5fcf4056712/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11901,
+    "sha256": "sha256:5b6a6e86b96b94304e4bea90c047aad1592f8dcef726d219ef76adaddabcb0c5",
+    "normalized_content_hash": "sha256:c75f28f5fd2124361d1402ad8e0128b61ae9cd3bc38a76877092b1a3f990af87"
+  },
+  "provenance": {
+    "source_item_id": "6b04cb04-dae0-400f-82dc-f02911299912",
+    "external_id": "https://www.signadot.com/blog/using-sandboxes-in-kafka-based-asynchronous-applications/"
+  }
+}

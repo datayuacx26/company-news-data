@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1332c893395e0c412752a89528c576130a5f00a69ed399fce7c2a5d81c299047",
+  "company": {
+    "key": "yc-escape",
+    "name": "Escape"
+  },
+  "source": {
+    "id": "yc-escape-rss-d1370620bfa7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://escape.tech/blog/wp2shell-cve-2026-63030-cve-2026-60137/",
+    "canonical": "https://escape.tech/blog/wp2shell-cve-2026-63030-cve-2026-60137/"
+  },
+  "title": "wp2shell (CVE-2026-63030 + CVE-2026-60137): WordPress pre-auth RCE, now detected by Escape",
+  "summary": "wp2shell is an unauthenticated RCE chain in WordPress core. It combines two separate vulnerabilities: CVE-2026-63030 and CVE-2026-60137. Escape detects it across DAST and AI Pentesting, confirms exploitability, and shows affected assets within its Attack Surface Management.",
+  "published_at": "2026-07-21T11:01:00+00:00",
+  "first_seen_at": "2026-07-21T11:33:44.783558+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-19T12:45:24.567373+00:00",
+  "paths": {
+    "article": "articles/v1/64/yc-escape/2026/07/13/1332c893395e0c412752a89528c576130a5f00a69ed399fce7c2a5d81c299047/article.md",
+    "record": "articles/v1/64/yc-escape/2026/07/13/1332c893395e0c412752a89528c576130a5f00a69ed399fce7c2a5d81c299047/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11866,
+    "sha256": "sha256:2e0f1e9b79e24e2e579213ec98b35cb7bbd1dc32a2c840476ea9ed9f9979e644",
+    "normalized_content_hash": "sha256:029989bec930c6957ace0bb330804cf00bb59877b472f69dfd893db2ce5cc45e"
+  },
+  "provenance": {
+    "source_item_id": "7af172d1-7073-4ba9-bf06-46321e064d2c",
+    "external_id": "6a5f358c885f790001dbbbea"
+  }
+}

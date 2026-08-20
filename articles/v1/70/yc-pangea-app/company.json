@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-pangea-app",
+    "name": "Pangea.app"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-04-07T13:37:44.172+00:00",
+  "last_published_at": "2026-04-23T18:45:14.587+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/70/yc-pangea-app/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 12135,
+        "sha256": "sha256:a646c544a82e6e8a08fc1fd0cf4bdb3694e1038436ded012a4137df4f48250b8",
+        "newest_at": "2026-04-23T18:45:14.587+00:00",
+        "oldest_at": "2025-04-07T13:37:44.172+00:00"
+      }
+    ]
+  }
+}

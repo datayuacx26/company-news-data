@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "klaviyo-inc-series-a-common-stock",
+    "name": "Klaviyo Inc."
+  },
+  "record_count": 52,
+  "first_published_at": "2026-02-24T00:00:00+00:00",
+  "last_published_at": "2026-08-18T23:22:16.268+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 19
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6b/klaviyo-inc-series-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53847,
+        "sha256": "sha256:5c7f4a7761fc559965d4a72cad90818117cbf10b8c79dd294f4cfeb513de2b0f",
+        "newest_at": "2026-08-18T23:22:16.268+00:00",
+        "oldest_at": "2026-03-24T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/6b/klaviyo-inc-series-a-common-stock/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2192,
+        "sha256": "sha256:7f83bb27b50749a63fff57c3b127eae82528bc8592a2dc3829592a58b2e23007",
+        "newest_at": "2026-03-05T15:02:49.828+00:00",
+        "oldest_at": "2026-02-24T00:00:00+00:00"
+      }
+    ]
+  }
+}

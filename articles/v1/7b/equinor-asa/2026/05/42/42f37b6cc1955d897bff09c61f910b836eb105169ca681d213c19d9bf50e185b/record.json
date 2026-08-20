@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42f37b6cc1955d897bff09c61f910b836eb105169ca681d213c19d9bf50e185b",
+  "company": {
+    "key": "equinor-asa",
+    "name": "Equinor ASA"
+  },
+  "source": {
+    "id": "equinor-asa-news-import-f6f67eab1bb4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.equinor.com/news/20260521-cash-dividend-fourth-quarter-2025",
+    "canonical": "https://www.equinor.com/news/20260521-cash-dividend-fourth-quarter-2025"
+  },
+  "title": "Announcement of cash dividend of 3.6041 NOK per share for fourth quarter 2025",
+  "summary": "The NOK cash dividend per share is based on average USDNOK fixing rate in the period plus/minus three business days from record date 15 May 2026.",
+  "published_at": "2026-05-21T05:55:29.512+00:00",
+  "first_seen_at": "2026-07-21T18:35:38.440175+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:18.430531+00:00",
+  "paths": {
+    "article": "articles/v1/7b/equinor-asa/2026/05/42/42f37b6cc1955d897bff09c61f910b836eb105169ca681d213c19d9bf50e185b/article.md",
+    "record": "articles/v1/7b/equinor-asa/2026/05/42/42f37b6cc1955d897bff09c61f910b836eb105169ca681d213c19d9bf50e185b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1162,
+    "sha256": "sha256:8d16cd25cbe91aa9bdace96dcd1f0a6fb508db95cfdcd779dc9488ceede626bf",
+    "normalized_content_hash": "sha256:fe7fccc3543461e37a30bab60348ff98d3671bf4c0a22984b1d4da6736c180b1"
+  },
+  "provenance": {
+    "source_item_id": "63dba8b5-527a-461c-8751-33608bc3555a",
+    "external_id": "https://www.equinor.com/news/20260521-cash-dividend-fourth-quarter-2025"
+  }
+}

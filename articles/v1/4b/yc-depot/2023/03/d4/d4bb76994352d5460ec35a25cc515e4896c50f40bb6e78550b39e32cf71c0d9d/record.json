@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4bb76994352d5460ec35a25cc515e4896c50f40bb6e78550b39e32cf71c0d9d",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/cache-stats",
+    "canonical": "https://depot.dev/blog/cache-stats"
+  },
+  "title": "Now available: Cache statistics",
+  "summary": "See how much of your builds are cached and how much time that saves you and your team. In addition, monitor how much provisioned cache you are using for each build architecture.",
+  "published_at": "2023-03-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/03/d4/d4bb76994352d5460ec35a25cc515e4896c50f40bb6e78550b39e32cf71c0d9d/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/03/d4/d4bb76994352d5460ec35a25cc515e4896c50f40bb6e78550b39e32cf71c0d9d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2259,
+    "sha256": "sha256:e5bf36f02de8435ba948851f962d96eea1c09707acb69403619845f2418db6f4",
+    "normalized_content_hash": "sha256:04674a7d1de3435e5d814b464b1b7c538c329246e00b951e30126ac594212978"
+  },
+  "provenance": {
+    "source_item_id": "336787de-7e13-478f-ab5f-ec3694837bc2",
+    "external_id": "https://depot.dev/blog/cache-stats"
+  }
+}

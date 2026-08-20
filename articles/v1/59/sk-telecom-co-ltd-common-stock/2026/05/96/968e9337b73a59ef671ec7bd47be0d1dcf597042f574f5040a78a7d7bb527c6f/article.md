@@ -1,0 +1,41 @@
+---
+schema_version: "1.0.0"
+document_id: "968e9337b73a59ef671ec7bd47be0d1dcf597042f574f5040a78a7d7bb527c6f"
+company_key: "sk-telecom-co-ltd-common-stock"
+company: "SK Telecom Co. Ltd."
+source_id: "sk-telecom-co-ltd-common-stock-rss-953576b46343"
+canonical_url: "https://news.sktelecom.com/en/3061"
+published_at: "2026-05-29T08:48:32+00:00"
+first_seen_at: "2026-07-20T03:32:30.811085+00:00"
+fetched_at: "2026-07-28T21:11:49.157117+00:00"
+content_hash: "sha256:144678c17fb92086f2da04d11bfa98df5d0527089d58f087cf4683b3b033f0a0"
+---
+
+# CEO Jung Jaihun
+
+- Facebook
+- X
+- Email
+- Copy URL
+- Print
+
+
+/dl.php?key=THRJTjZRZzBqblN2K1p5WWxTRjJRT2tGb0dvb3VzSlhSTFRKYmpuT3hkLzBKOFd0M3hsVThNekdlNDlIMUVJZzFrV3NpL0d3ZGNVUFpUYitaMHFIdjFUdSt6SjVMbzFudWF3MlcvUEdiSFlJZklSV0pMaHJuVWwrenNIdklDSlFESUE5TGdnMDRMT2VaRmRwd2tFR1F1TDAyS0FMdUJMR2c4WVlSUnZPRjkrMWw1aTV0bEhZNlJ2M2N0Nk93cXllR1NrVUpVOGYzcjF5Sjhad2lNVXpGOEwwNFRXRTJsMHd3YnZYODRRYUNmST0=
+
+
+/dl.php?key=THRJTjZRZzBqblN2K1p5WWxTRjJRT2tGb0dvb3VzSlhSTFRKYmpuT3hkLzBKOFd0M3hsVThNekdlNDlIMUVJZzFrV3NpL0d3ZGNVUFpUYitaMHFIdjFUdSt6SjVMbzFudWF3MlcvUEdiSFlJZklSV0pMaHJuVWwrenNIdklDSlFESUE5TGdnMDRMT2VaRmRwd2tFR1F1TDAyS0FMdUJMR2c4WVlSUnZPRjkrMWw1aTV0bEhZNlJ2M2N0Nk93cXllR1NrVUpVOGYzcjF5Sjhad2lNVXpGM0ZMOUxaQjB2MG04ZXhtTHVHL3JFbz0=
+
+
+/dl.php?key=THRJTjZRZzBqblN2K1p5WWxTRjJRT2tGb0dvb3VzSlhSTFRKYmpuT3hkLzBKOFd0M3hsVThNekdlNDlIMUVJZzFrV3NpL0d3ZGNVUFpUYitaMHFIdjFUdSt6SjVMbzFudWF3MlcvUEdiSFlJZklSV0pMaHJuVWwrenNIdklDSlFESUE5TGdnMDRMT2VaRmRwd2tFR1FwY1ppUFI4MHdhbHIvcjNFcFdUSk5LZ3ZYaGI4OUsyb2hFQlNOUm9CNzByckN0dUU5OXNqbi9wU1FaMVFtbVl1dnNHQy8wRG10ckZTMjRhMDJXWXNHb0RrdzdGT2hVckI4YXpIWENMSEZsVg==
+
+
+/dl.php?key=THRJTjZRZzBqblN2K1p5WWxTRjJRT2tGb0dvb3VzSlhSTFRKYmpuT3hkLzBKOFd0M3hsVThNekdlNDlIMUVJZzFrV3NpL0d3ZGNVUFpUYitaMHFIdjFUdSt6SjVMbzFudWF3MlcvUEdiSFlJZklSV0pMaHJuVWwrenNIdklDSlFESUE5TGdnMDRMT2VaRmRwd2tFR1FwY1ppUFI4MHdhbHIvcjNFcFdUSk5LZ3ZYaGI4OUsyb2hFQlNOUm9CNzByckN0dUU5OXNqbi9wU1FaMVFtbVl1Z3dTT2lrMjlZYlVxaWRWa1dJcEJQYnNzQmplQUpMais4M3JQSTdkcFhuQg==
+
+
+/dl.php?key=THRJTjZRZzBqblN2K1p5WWxTRjJRT2tGb0dvb3VzSlhSTFRKYmpuT3hkLzBKOFd0M3hsVThNekdlNDlIMUVJZzFrV3NpL0d3ZGNVUFpUYitaMHFIdjFUdSt6SjVMbzFudWF3MlcvUEdiSFlJZklSV0pMaHJuVWwrenNIdklDSlFESUE5TGdnMDRMT2VaRmRwd2tFR1FwY1ppUFI4MHdhbHIvcjNFcFdUSk5LZ3ZYaGI4OUsyb2hFQlNOUm9CNzByckN0dUU5OXNqbi9wU1FaMVFtbVl1bDFPa2VjQnlqRjE5ci93NFNqSWZkOEhobXNiY3pucklObkhJanp2Q2dURw==
+
+
+[HOME](https://news.sktelecom.com/en) >
+
+
+[Media Library](https://news.sktelecom.com/en/category/media-library)

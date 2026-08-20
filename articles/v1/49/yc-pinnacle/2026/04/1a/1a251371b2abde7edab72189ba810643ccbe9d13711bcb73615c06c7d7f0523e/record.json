@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a251371b2abde7edab72189ba810643ccbe9d13711bcb73615c06c7d7f0523e",
+  "company": {
+    "key": "yc-pinnacle",
+    "name": "Pinnacle"
+  },
+  "source": {
+    "id": "yc-pinnacle-news-import-eb12d43fa2a4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pinnacle.sh/blog/hosted-forms-collect-structured-responses-via-sms-and-rcs",
+    "canonical": "https://pinnacle.sh/blog/hosted-forms-collect-structured-responses-via-sms-and-rcs"
+  },
+  "title": "Hosted Forms: Collect Structured Responses Over SMS and RCS in One API Call",
+  "summary": "Pinnacle now ships hosted forms — themed, mobile-first forms hosted at forms.pinnacle.sh that you can deliver over SMS or RCS in a single API call. 16 field types, theme overrides, updatable submissions, and a new FORM.SUBMISSION webhook event.",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T09:08:45.431702+00:00",
+  "fetched_at": "2026-07-28T22:15:39.870488+00:00",
+  "last_updated_at": "2026-08-19T19:58:36.757593+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-pinnacle/2026/04/1a/1a251371b2abde7edab72189ba810643ccbe9d13711bcb73615c06c7d7f0523e/article.md",
+    "record": "articles/v1/49/yc-pinnacle/2026/04/1a/1a251371b2abde7edab72189ba810643ccbe9d13711bcb73615c06c7d7f0523e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16497,
+    "sha256": "sha256:d29e5050b5a74afed85ba4038f81ea1b07d04b97c6310803c7df7f143c5bc66d",
+    "normalized_content_hash": "sha256:c440aee1e529a054210fc81f9f2c429c178304629f8800e8014b4d5c910decd6"
+  },
+  "provenance": {
+    "source_item_id": "e6ec1bed-bb6f-439e-8d73-293d4c790dd6",
+    "external_id": "https://pinnacle.sh/blog/hosted-forms-collect-structured-responses-via-sms-and-rcs"
+  }
+}

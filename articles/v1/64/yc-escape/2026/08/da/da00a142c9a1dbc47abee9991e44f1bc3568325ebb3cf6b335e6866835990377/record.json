@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da00a142c9a1dbc47abee9991e44f1bc3568325ebb3cf6b335e6866835990377",
+  "company": {
+    "key": "yc-escape",
+    "name": "Escape"
+  },
+  "source": {
+    "id": "yc-escape-rss-d1370620bfa7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://escape.tech/blog/authenticated-scanning-oauth-mfa-captcha/",
+    "canonical": "https://escape.tech/blog/authenticated-scanning-oauth-mfa-captcha/"
+  },
+  "title": "Authenticated scanning behind OAuth, MFA, and CAPTCHA",
+  "summary": "Authenticated vulnerability scanning breaks on OAuth, MFA, and CAPTCHA. See how to hold a real session and test the surface behind your login.",
+  "published_at": "2026-08-12T09:02:29+00:00",
+  "first_seen_at": "2026-08-12T10:25:43.379118+00:00",
+  "fetched_at": "2026-08-12T10:25:45.530900+00:00",
+  "last_updated_at": "2026-08-20T01:49:41.896835+00:00",
+  "paths": {
+    "article": "articles/v1/64/yc-escape/2026/08/da/da00a142c9a1dbc47abee9991e44f1bc3568325ebb3cf6b335e6866835990377/article.md",
+    "record": "articles/v1/64/yc-escape/2026/08/da/da00a142c9a1dbc47abee9991e44f1bc3568325ebb3cf6b335e6866835990377/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17498,
+    "sha256": "sha256:e6b3cde9a8319ad312ceb765267959d48b7789becf0da2b69a6cdc7d65eb4e26",
+    "normalized_content_hash": "sha256:94d7c9579d625389d2f70fe3021b5b516a9d9a13d047de509d8d0b2f36d704a9"
+  },
+  "provenance": {
+    "source_item_id": "71d28031-ac9e-4d17-a282-3bf744ee166f",
+    "external_id": "6a7c2bdbf1d651000187977d"
+  }
+}

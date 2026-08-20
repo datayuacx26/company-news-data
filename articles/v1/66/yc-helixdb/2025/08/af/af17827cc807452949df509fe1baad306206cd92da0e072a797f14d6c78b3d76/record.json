@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af17827cc807452949df509fe1baad306206cd92da0e072a797f14d6c78b3d76",
+  "company": {
+    "key": "yc-helixdb",
+    "name": "HelixDB"
+  },
+  "source": {
+    "id": "yc-helixdb-news-import-f26087e13605",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.helix-db.com/blog/building-a-graphrag-system-for-professor-recommendations-with-helixdb",
+    "canonical": "https://www.helix-db.com/blog/building-a-graphrag-system-for-professor-recommendations-with-helixdb"
+  },
+  "title": "Building a GraphRAG System for Professor Recommendations with HelixDB",
+  "summary": "A comprehensive guide to building a Graph-Vector RAG system in Python using HelixDB to recommend professors based on their research areas, leveraging both graph relationships and vector embeddings for intelligent search.",
+  "published_at": "2025-08-17T15:49:00.751+00:00",
+  "first_seen_at": "2026-07-24T11:14:24.417435+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-16T19:02:57.881550+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-helixdb/2025/08/af/af17827cc807452949df509fe1baad306206cd92da0e072a797f14d6c78b3d76/article.md",
+    "record": "articles/v1/66/yc-helixdb/2025/08/af/af17827cc807452949df509fe1baad306206cd92da0e072a797f14d6c78b3d76/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18138,
+    "sha256": "sha256:521cb9901f2cb84c5123670b30245b563763e2d64354f0d9b2d2d349af34a85a",
+    "normalized_content_hash": "sha256:2937c7c9738183cc8601a9c609a6cd802b2a27b3d72e0a4fab9fb888ae509d08"
+  },
+  "provenance": {
+    "source_item_id": "1a73a5c2-8de9-42fd-bd02-1df51b0675c0",
+    "external_id": "https://www.helix-db.com/blog/building-a-graphrag-system-for-professor-recommendations-with-helixdb"
+  }
+}

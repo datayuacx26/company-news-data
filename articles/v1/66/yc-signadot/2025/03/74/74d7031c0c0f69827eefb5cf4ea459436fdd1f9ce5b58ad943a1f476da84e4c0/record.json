@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "74d7031c0c0f69827eefb5cf4ea459436fdd1f9ce5b58ad943a1f476da84e4c0",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/using-istio-or-linkerd-to-unlock-ephemeral-environments/",
+    "canonical": "https://www.signadot.com/blog/using-istio-or-linkerd-to-unlock-ephemeral-environments/"
+  },
+  "title": "Using Istio or Linkerd To Unlock Ephemeral Environments",
+  "summary": "Istio and Linkerd can do more than just manage traffic in Kubernetes; they can also unlock lightweight, on-demand development and test environments.",
+  "published_at": "2025-03-07T17:16:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/03/74/74d7031c0c0f69827eefb5cf4ea459436fdd1f9ce5b58ad943a1f476da84e4c0/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/03/74/74d7031c0c0f69827eefb5cf4ea459436fdd1f9ce5b58ad943a1f476da84e4c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7876,
+    "sha256": "sha256:a4846f3206e322411c0916b3cd1877458c5c4262f1b0a60fadbcd2b6f4eea2de",
+    "normalized_content_hash": "sha256:68496f7e545362e1213f323e57e0949150e2ba4d2c57817423f2ad3a42d7cf7c"
+  },
+  "provenance": {
+    "source_item_id": "3fcf3b56-ac4b-4b53-aab8-7ed2577b22cf",
+    "external_id": "https://www.signadot.com/blog/using-istio-or-linkerd-to-unlock-ephemeral-environments/"
+  }
+}

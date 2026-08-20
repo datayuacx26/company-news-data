@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84871e47190f0e3797f87fb9ee550aa24cd7bcd3a91009a53144f058efce53e0",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/introducing-ai-assistant-sherlock",
+    "canonical": "https://depot.dev/blog/introducing-ai-assistant-sherlock"
+  },
+  "title": "Introducing Sherlock: AI assistant for Depot docs",
+  "summary": "We built Sherlock, an AI assistant for the Depot docs. Sherlock searches our documentation with direct access to the markdown source, so answers come exclusively from our content with links to the docs it referenced. We also think Sherlock is outrageously cute.",
+  "published_at": "2025-12-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:55:00.595584+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/12/84/84871e47190f0e3797f87fb9ee550aa24cd7bcd3a91009a53144f058efce53e0/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/12/84/84871e47190f0e3797f87fb9ee550aa24cd7bcd3a91009a53144f058efce53e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4595,
+    "sha256": "sha256:68f50694d46624983183943ce2fab3842fde40bfe739edb69f74c121205f4e33",
+    "normalized_content_hash": "sha256:1f41b18fa41b5446ca92cc0b68080ed535801c1dc10f498213918939119aa4ae"
+  },
+  "provenance": {
+    "source_item_id": "e57a8288-bd8d-4003-a960-179bb263b593",
+    "external_id": "https://depot.dev/blog/introducing-ai-assistant-sherlock"
+  }
+}

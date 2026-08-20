@@ -1,0 +1,173 @@
+---
+schema_version: "1.0.0"
+document_id: "5416d1d59eb07a5ea3c3e2a26c887a5bb7a61fa6ddd15cde1b73709a4beadd80"
+company_key: "yc-finary-com"
+company: "Finary.com"
+source_id: "yc-finary-com-news-import-ac1e84866483"
+canonical_url: "https://finary.com/en/blog/bourse/debuter/comment-investir-en-bourse"
+published_at: "2025-01-02T00:00:00+00:00"
+first_seen_at: "2026-07-27T07:43:00.834411+00:00"
+fetched_at: "2026-07-28T21:32:04.842955+00:00"
+content_hash: "sha256:1d0159ec25d9360eaf5df87e8b1b610661650c3de87c6605eb6a56bab20af84c"
+---
+
+# How to invest in the stock market
+
+## Investing in the stock market in summary
+
+
+**You are in a hurry and want to get to the facts here is our summary:**
+
+
+- Investing in the stock market is the most profitable over a long-term investment horizon, with an average return of around 8% per year. People who are fans of frugalism or the FIRE movement have understood this well by investing the majority of their savings in stocks.
+- [Investing in the stock market](https://finances.finary.com/investir-en-bourse/) is risky, so you must diversify your investments to limit the risk as much as possible. Only invest in the stock market the amounts you are prepared to lose.
+- Get informed, there are many sirens in the world of the stock market and not all information is good to take. Learn about the subject in order to be comfortable with your stock market assets. Do not hesitate to[test our wealth simulator](https://finary.com/fr/tools/wealth-simulator) .
+- Use the right envelope: you can invest via a PEA, a PER, a security account or life insurance. Choose the best envelope according to your profile, taxation and your desires to place your orders.
+- Choose the financial products most suited to your investment strategy, you can in particular choose between investing in shares, on trackers ([ETF](https://finary.com/investir-en-bourse/etfs) ), in raw materials, or even on real estate.
+- You can invest all of your capital at once to benefit from market growth when the situation is favorable and maximize returns on investment. If you prefer to remain cautious, opt for a periodic investment with fixed amounts. You will benefit from the[volatility](https://finances.finary.com/glossaire/volatilite/) of the markets and will thus be able to reduce the average purchase price of shares.
+
+
+Read also:[Essential notions before starting to invest in the stock market](https://finances.finary.com/investir-en-bourse/notions-essentielles-avant-de-commencer-a-investir-en-bourse/) and
+[Top 10 applications to invest in the stock market](https://finances.finary.com/investir-en-bourse/les-top-10-applications-pour-investir-en-bourse/)
+
+
+### Why invest in the stock market?
+
+
+Now you know the basics of investing in the stock market, but why is this investment interesting for you? First of all, investing in the stock market allows you to participate in the development of businesses and therefore the real economy. By buying shares in one or more listed companies, you are also helping to finance their growth.
+
+
+Afterwards,[Buy shares](https://finary.com/investir-en-bourse/actions) on the stock market, it also means benefiting from the performance of the best asset class over the long term. However, market volatility will have to be accepted. These do not evolve linearly and can rise and fall. It is impossible to predict whether markets will rise or fall. Investing in the stock market can therefore be perceived as a risky investment, but all studies prove that buying shares over the long term remains one of the best return/risk ratios. Note that derivatives can cause significant losses, sometimes greater than the capital invested. They should be avoided in a balanced wealth management strategy.
+
+
+### The average annual performance of equities
+
+
+As we said above, the stock market has shown a very attractive return over the long term, and the same is true if we look at the average annual performance in recent years. Indeed, since 1890, the average annual performance of American equities has been greater than 8% according to the American economist Robert Shiller, Nobel Prize winner in economics. American equities are not the only ones to show good results, the performance of CAC 40 shares has shown an average annual return of 8.5% since 1987.
+
+
+If you compare these figures to the interest rates of the most famous investments in France such as the Livret A (0.5% per year) or the sustainable development booklet (also 0.5%), you will quickly understand why it is necessary to invest in action. The chart below illustrates this perfectly.
+
+
+Average annual performance of equities
+
+
+If you had invested in French shares in 1987, you would have realized an increase in value of 1200%. You could have invested in specific stocks or invested passively by buying an ETF tracker that replicates the performance of the CAC 40 index. We'll see that right after.
+
+
+It is also important to take into account the dividends generated by stocks that are best reinvested as they accumulate. Dividends are like interest that will be received year after year. If they are reinvested in shares, you will receive dividends on an increasingly large sum. This phenomenon is called[compound interest](https://finary.com/fr/tools/compound-interests-calculator) , the 8th wonder of the world according to Albert Einstein.
+
+
+Here is a concrete example:
+
+
+- **Year 1** : You invest €1000 in a listed company whose share is worth €10. So you have 100 shares.
+- **Year 2** : The company pays a dividend of €1 per share, so you get €100. Instead of spending the capital gain, you decide to reinvest it in order to buy more shares in the same company. Let's say that the share price has not changed and is still at €10, you now own 110 shares.
+- **Year 3** : The company is again paying a dividend of €1. This time, you get €110, 10% more than in year 2. You have just increased your wealth without reinvesting.
+- **Year 30** : After reinvesting your dividends each year, you hold €4000 or 400 shares, which is 4 times more than at the start without any additional investment.
+
+
+Note that this example does not take into account the fact that the equity markets are growing by an average of 7% per year, which will further increase the value of your initial investment.
+
+
+As you will have understood, investing in the stock market can be considered as a long-term savings investment, with a very competitive return compared to other investments available on the market.
+
+
+### An ideal investment for long-term savings
+
+
+Investing in shares is not the most popular financial investment for French people. Indeed, it may seem complicated to start trading on the stock market when you are not an expert in finance. However, as we have just seen, the long-term return on equities is one of[best investments](https://finances.finary.com/ou-placer-son-argent/les-placements-financiers-les-plus-rentables/) if compared to real estate investment or savings books.
+
+
+It is therefore interesting to see investing in the stock market as a way of saving over the long term to make life projects a reality. Some examples: saving for retirement, financing your children's studies or even the realization of a real estate project.
+
+
+Anyone can become a shareholder starting at €1. It is therefore a good idea to start investing your money on the stock market as soon as possible and to reinvest fixed amounts on a regular basis. In this way, you will make your savings work and thus start taking advantage of the very powerful phenomenon of compound interest as soon as possible.
+
+
+## How to invest in the stock market?
+
+
+### A few tips before you start
+
+
+#### 1. Invest money in the stock market that you are ready to lose
+
+
+Despite its attractive return, investing in the stock market is still a risky investment. Indeed, if the idea is to increase your wealth through dividends or capital gains generated by the sale of shares, the return on shares can also be negative. In other words, investing in stocks can cause you to lose money. This loss should not impact your standard of living, so we advise you to limit your exposure to risk by allocating between 10 and 25% of your assets to equities.
+
+
+#### 2. Get information and train yourself before investing in the stock market
+
+
+We've just talked about it, investing in the stock market can be risky, so it's important to understand the stock market before you start. You'll find plenty of articles and resources online to understand the stock market, understand the fundamentals of investor psychology, or simply brush up on your financial knowledge.
+
+
+We recommend that you select the resources that are relevant according to your investment desires and to follow the corresponding economic news.
+
+
+#### 3. Define a stock market investment strategy
+
+
+So you have[Define a budget](https://finary.com/fr/tools/budget-calculator) and you are informed about the world of the stock market, you are now ready to invest in the stock market. Be sure to define an investment strategy before making your first investment. It is indeed important to define your investor profile, the duration of your investment or even objectives such as the gains you are aiming for or the maximum losses you can bear.
+
+
+We recommend that you focus on a long-term and regular investment strategy by focusing on ETFs. We also recommend diversifying your investments across several continents.
+
+
+#### 4. Be ready to invest in the stock market for the long term
+
+
+We cannot say it enough, it is important to see buying shares on the stock market as a long-term investment. Indeed, the volatility of equities may suggest that it is interesting to increase the risk in order to make quick gains. We recommend that you don't think that way. Indeed, we saw above that the performances of equities are really interesting over several years, even several decades. We therefore advise you to invest in stocks that you could not watch for ten years without disturbing your sleep.
+
+
+## When to invest in the stock market?
+
+
+Once again, investing in the stock market should be considered over the long term, so the question of the entry date is not so important in itself. However, there are several approaches to going public, which will depend on your investment capacity at the time you want to start investing.
+
+
+Indeed, if you have a large amount of capital and you want to invest it on the stock market, it is interesting to invest all of it at once. In this way, you gain maximum exposure to the markets from the start and will be able to benefit from the attractive returns of the stock market in the first year of investment. However, don't worry if you don't have a large sum to invest right from the start. The other most common approach is that of “dollar-cost averaging”, which consists of investing little money on a regular basis. This practice makes it possible to smooth out the risk of price fluctuations over the long term while taking advantage of the added value generated by shares.
+
+
+If you opt for the[active management](https://finances.finary.com/investir-en-bourse/etf/etf-gestion-active-ou-passive-quelle-est-la-meilleure/) , you will surely be wondering when is the best time to buy a share. There is no exact answer to this question, especially because every business is different. However, we invite you to check that the company is not overvalued on the stock market, in other words that its stock market price is not uncorrelated with its intrinsic value, which is why it is important to be constantly informed about the company or companies in which you want to invest.
+
+
+### Investing in the stock market in times of crisis
+
+
+Investing in the stock market in times of crisis can be scary at first glance, especially if the financial markets suffer a significant drop. However, investing in difficult times is relevant and logical, the idea being to enter the stock market at a low point and then achieve significant capital gains. Be careful, however, in case of active management, it is indeed difficult to date the exact moment when the low point will be reached, or that of recovery. We therefore advise you to invest prudently in difficult times and to have a long-term investment horizon to mitigate all eventualities. If you invest for the short term, you risk making bad decisions.
+
+
+In times of crisis it is all the more important to invest amounts of money that you do not need. It is especially during difficult periods that it is interesting to use the Dollar-cost averaging strategy, in order to smooth out investments and risks, and not risk betting on a specific low point date.
+
+
+In difficult times, we advise you to keep the same investment strategy and not to reallocate your assets too much. In addition, periods of crisis are a very good time to diversify your portfolio at a lower cost.
+
+
+### What actions to bet on during a recession?
+
+
+Historically, the commodity market or the real estate market have been the preferred havens for investors during a recession. However, at the start of the 2020 health crisis, there was a fall in financial markets and a renewed interest in equities.
+
+
+Indeed, while it is true that in a period of recession all shares in the market (s) concerned generally fall, some companies can do well, take advantage of the crisis period and thus increase the value of the share. We advise you to choose solid companies, whose business and sector you know, but above all to find out before investing, in particular on the measures planned to deal with the crisis. Indeed, companies with little debt, posting regular profits or showing a certain resilience in the face of crises they may have experienced are generally a good guarantee of confidence in a period of recession.
+
+
+In addition, relying on passive management makes perfect sense during a recession. Indeed, by investing in trackers and on a regular basis, you are not only smoothing out the risk during the downturn period, but you are also investing in an index that will rise during the recovery and will allow you to achieve attractive added value at a lower cost.
+
+
+**Why invest in the stock market?** Investing in the stock market is a way to increase your wealth and thus finance your projects in the long term. Shares are the financial investment that offers the best long-term added value. Investing in the stock market can also allow you to take advantage of the best French tax niches, such as PEA or life insurance.
+
+
+**How to make money on the stock market?** It all depends on the tax envelope you choose, but there are several ways to make money on the stock market:
+• by making a capital gain on your initial bet when you withdraw your capital
+• by receiving dividends paid by companies in which you are shareholders
+• by receiving the interest (or coupons) from the bonds you have subscribed to
+
+
+**Is it risky to invest in the stock market?** One of the rules of investing in the stock market is that the return is proportional to the risk, or in other words, the higher the interest rate, the riskier the investment.
+The average return on shares over a year is 8%, so investing in the stock market is a risky investment, especially because it involves the risk of losing capital. However, it is important to have a long-term investment horizon in order to reduce risk.
+
+
+**How to invest in the stock market on a small budget?** To get a good start on the stock market, you should train yourself before investing, in particular in order to define your investor profile, your objectives or even the strategy you want to put in place and the tools or tax envelopes that you want to use. You will also have to think about well[manage your budget through an application](https://finances.finary.com/gestion-de-budget/meilleures-applications-budget/) for example.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26418cab89674cac6849cf1e4b31c33506eac9caba28c5aeff27d9cfcdf69884",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
+    "canonical": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf"
+  },
+  "title": "Improved performance and model support with GGUF",
+  "summary": "Ollama 0.30 is now available with improved performance and GGUF model compatibility through llama.cpp. This augments Ollama's MLX engine on Apple silicon, bringing support to more models on a wider range of hardware.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:14:45.991039+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:53:45.811279+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/26/26418cab89674cac6849cf1e4b31c33506eac9caba28c5aeff27d9cfcdf69884/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/26/26418cab89674cac6849cf1e4b31c33506eac9caba28c5aeff27d9cfcdf69884/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3283,
+    "sha256": "sha256:1baf3ed26203971d2720d2f39597a986331f9578aba82c676253917e157f4f75",
+    "normalized_content_hash": "sha256:1a68effc0a035a798a16f552a06204639d902b5fbbf800c0c79f843e54d24b1a"
+  },
+  "provenance": {
+    "source_item_id": "61b2e708-1746-49d1-9fdc-db767315c22b",
+    "external_id": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf"
+  }
+}

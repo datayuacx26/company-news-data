@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eef5d370e147e9e6090d10df27a9b1876b4f50d1adef695bd3669a51fad43e5b",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/5-quickbooks-autopay-prerequisites-to-check-before-your-first-recurring-charge-9eb8",
+    "canonical": "https://blixo.com/blog/en/post/5-quickbooks-autopay-prerequisites-to-check-before-your-first-recurring-charge-9eb8/"
+  },
+  "title": "5 QuickBooks Autopay prerequisites to check before your first recurring charge",
+  "summary": "Key Takeaways QuickBooks Autopay only charges pay-enabled recurring invoices once your merchant account, gateway, and cash-application flow are aligned. QuickBooks Payments has to be active. It’s the merchant account and gateway rolled together, and it authorizes every charge. Invoices over $5,000 are ineligible. Autopay silently skips any plan that crosses the line. Daily invoices aren’t supported. That leaves weekly, monthly, or yearly as your only valid cadences. Each customer needs an Intuit account, has to check the Autopay box, and has to confirm a payment method. Autopay charges three days before the due date, so you need an automated way to match those deposits to open invoices. Skip reconciliation and recurring payments become a matching headache instead of a time-saver. The Short Version QuickBooks Autopay pulls payment automatically on pay-enabled recurring invoices. But it only works once your merchant account, gateway, and cash-application flow line up. Five prerequisites need checking before your first recurring charge fires. Skip them and you get payments that process but never reconcile.",
+  "published_at": "2026-07-11T20:23:12+00:00",
+  "first_seen_at": "2026-07-21T10:46:24.002326+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.932383+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/07/ee/eef5d370e147e9e6090d10df27a9b1876b4f50d1adef695bd3669a51fad43e5b/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/07/ee/eef5d370e147e9e6090d10df27a9b1876b4f50d1adef695bd3669a51fad43e5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24140,
+    "sha256": "sha256:a04aec2030aedfc0707b5bd17451692ce78f5aacefae01341887602c30fcc109",
+    "normalized_content_hash": "sha256:3ed4bc9a17298005b8aa2b48e12e48cef522b856323b78cafaf424afa1b65640"
+  },
+  "provenance": {
+    "source_item_id": "b9a8ce10-54ab-4d55-ae9c-74dd4c294d48",
+    "external_id": "https://blixo.com/blog/en/post/5-quickbooks-autopay-prerequisites-to-check-before-your-first-recurring-charge-9eb8/"
+  }
+}

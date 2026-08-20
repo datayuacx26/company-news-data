@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8e941783025b569239f84b9b528a4be36fc6bbddb0ee1c121fe52ae59f27031",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/sovereign-lakehouse-proof-at-scale",
+    "canonical": "https://iomete.com/resources/blog/sovereign-lakehouse-proof-at-scale"
+  },
+  "title": "Proof at Scale: The Sovereign Lakehouse Is Not Theoretical",
+  "summary": "100,000+ cores across four data centers, overnight batch turned sub-60-second, SOC 2 and air-gapped deployments. The sovereign lakehouse case, in production.",
+  "published_at": "2026-05-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:31:44.448316+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-08-20T00:52:51.295677+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/05/c8/c8e941783025b569239f84b9b528a4be36fc6bbddb0ee1c121fe52ae59f27031/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/05/c8/c8e941783025b569239f84b9b528a4be36fc6bbddb0ee1c121fe52ae59f27031/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9025,
+    "sha256": "sha256:fd33c7d6ef8e3424ccbb2dc1da0533d84db4311875af1118bdb2980543dc2c90",
+    "normalized_content_hash": "sha256:ea790577a87b44be599465fc17b8883b149aa4faf4908611d842a9ff99b80e94"
+  },
+  "provenance": {
+    "source_item_id": "759aa27c-280f-4e2b-9111-6584bfbd6f29",
+    "external_id": "https://iomete.com/resources/blog/sovereign-lakehouse-proof-at-scale"
+  }
+}

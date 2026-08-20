@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-freterium",
+    "name": "Freterium"
+  },
+  "record_count": 1,
+  "first_published_at": "2024-03-10T00:00:00+00:00",
+  "last_published_at": "2024-03-10T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/65/yc-freterium/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1041,
+        "sha256": "sha256:f9bfa3536bdc3eed435849c2c9834030d444c393d4dc31a26e6a75ef6b076ab2",
+        "newest_at": "2024-03-10T00:00:00+00:00",
+        "oldest_at": "2024-03-10T00:00:00+00:00"
+      }
+    ]
+  }
+}

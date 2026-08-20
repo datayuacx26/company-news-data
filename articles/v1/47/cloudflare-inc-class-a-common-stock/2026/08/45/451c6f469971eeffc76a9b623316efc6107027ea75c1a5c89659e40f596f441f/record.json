@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "451c6f469971eeffc76a9b623316efc6107027ea75c1a5c89659e40f596f441f",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+    "canonical": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/"
+  },
+  "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+  "summary": "In 2024 and 2025, we reassessed remote Spectre attacks on our Workers infrastructure. We share details about the new attack primitives like Spectre gadgets, remote timers, achieving co-location and how new defenses further harden Cloudflare Workers.",
+  "published_at": "2026-08-19T16:00:28+00:00",
+  "first_seen_at": "2026-08-19T16:29:10.618309+00:00",
+  "fetched_at": "2026-08-19T16:29:11.535637+00:00",
+  "last_updated_at": "2026-08-20T01:32:12.642585+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/45/451c6f469971eeffc76a9b623316efc6107027ea75c1a5c89659e40f596f441f/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/45/451c6f469971eeffc76a9b623316efc6107027ea75c1a5c89659e40f596f441f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23613,
+    "sha256": "sha256:c52796178166309aa7d2f16356293ff748cf644b83355b2e753a299e6ee133bb",
+    "normalized_content_hash": "sha256:91e99a3b86c1df09a7555842def04cd0d81af543dd508b053528b4e4eff62a7e"
+  },
+  "provenance": {
+    "source_item_id": "fca8ea25-398f-4485-814d-fb3c244a8ad9",
+    "external_id": "01M00Y54SDH5EBZBFJ1FQZ2BX9"
+  }
+}

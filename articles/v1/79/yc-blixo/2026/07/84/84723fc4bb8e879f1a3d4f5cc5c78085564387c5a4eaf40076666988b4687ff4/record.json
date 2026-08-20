@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84723fc4bb8e879f1a3d4f5cc5c78085564387c5a4eaf40076666988b4687ff4",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/ar-invoice-automation-mistakes-that-silence-your-cash-flow-alerts-84dc",
+    "canonical": "https://blixo.com/blog/en/post/ar-invoice-automation-mistakes-that-silence-your-cash-flow-alerts-84dc/"
+  },
+  "title": "AR Invoice Automation Mistakes That Silence Your Cash Flow Alerts",
+  "summary": "Key Takeaways Hardcoded reminder intervals (7/14/30 days) ignore renewal dates. So a customer whose next charge is 10 days out gets an “overdue” nudge that means nothing. One company cut late payments in half by tying reminders to usage spikes and payment-method changes instead of the invoice due date. Generic templates blunt urgency. Batch the same message to everyone and your high-risk accounts blend into the noise. Leaning on the automation with no manual review builds blind spots around your biggest accounts. Somebody still has to eyeball the anomalies. A quick audit of your trigger logic against real billing cycles takes 2–4 hours and pays for itself fast. Conditional workflows (automated payment link, then collector escalation) take 1–2 weeks to build and need CRM data wired in. Segmenting by payment history means urgency scales to each customer’s actual risk, so fewer real problems slip past. Quick Summary Most AR automation doesn’t fail loudly. It fails quietly, by firing reminders on a calendar that has nothing to do with when your customers actually pay. This piece walks through the specific mistakes that silence cash-flow alerts in subscription businesses, and what to fix first.",
+  "published_at": "2026-07-14T20:23:12+00:00",
+  "first_seen_at": "2026-07-21T10:46:24.002326+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-04T22:18:45.750484+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/07/84/84723fc4bb8e879f1a3d4f5cc5c78085564387c5a4eaf40076666988b4687ff4/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/07/84/84723fc4bb8e879f1a3d4f5cc5c78085564387c5a4eaf40076666988b4687ff4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21106,
+    "sha256": "sha256:fff6395661bed3e11aae7d0213ece912bd4baa1e9022271f038169d1c7ff7d77",
+    "normalized_content_hash": "sha256:0b4a68ed54a16638c4e95d0fea68e8ec79023b2a4da75400880a911a7df2c72f"
+  },
+  "provenance": {
+    "source_item_id": "646f2ddb-374a-47b1-9551-1e50e86b2283",
+    "external_id": "https://blixo.com/blog/en/post/ar-invoice-automation-mistakes-that-silence-your-cash-flow-alerts-84dc/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3add003495b0ab58290bd1638a3b93af7752b3240fada0ff5d7aac3a42c8fd0d",
+  "company": {
+    "key": "yc-oneschema",
+    "name": "OneSchema"
+  },
+  "source": {
+    "id": "yc-oneschema-news-import-43da02420b1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneschema.co/blog/import-csv-snowflake",
+    "canonical": "https://www.oneschema.co/blog/import-csv-snowflake"
+  },
+  "title": "How to Import CSV into Snowflake",
+  "summary": "This article explores five methods for importing CSV files into Snowflake, from simple data loading to more automated, complex workflows.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:23:01.413777+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T19:52:35.692310+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-oneschema/2026/07/3a/3add003495b0ab58290bd1638a3b93af7752b3240fada0ff5d7aac3a42c8fd0d/article.md",
+    "record": "articles/v1/76/yc-oneschema/2026/07/3a/3add003495b0ab58290bd1638a3b93af7752b3240fada0ff5d7aac3a42c8fd0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6317,
+    "sha256": "sha256:a737e26887d177dc9de5768f6c722e4be7dc4ff0b5b3312218b1b7d2c8d4caa1",
+    "normalized_content_hash": "sha256:126076e7c6a411c1994e698efa95dfe31690d9d1de47d9cfbc89bf3afa062513"
+  },
+  "provenance": {
+    "source_item_id": "8043b02f-57ca-462d-8f89-22aa2132699c",
+    "external_id": "https://www.oneschema.co/blog/import-csv-snowflake"
+  }
+}

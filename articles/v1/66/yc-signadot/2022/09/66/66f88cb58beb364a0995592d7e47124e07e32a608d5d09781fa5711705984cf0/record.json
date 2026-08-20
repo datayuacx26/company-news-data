@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66f88cb58beb364a0995592d7e47124e07e32a608d5d09781fa5711705984cf0",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/shift-left-testing-in-kubernetes/",
+    "canonical": "https://www.signadot.com/blog/shift-left-testing-in-kubernetes/"
+  },
+  "title": "Guide to Shift-left Test Approach in Kubernetes",
+  "summary": "What is shift-left testing? Learn how moving tests earlier in the development lifecycle catches bugs sooner in Kubernetes, the challenges involved, and how to implement it effectively.",
+  "published_at": "2022-09-07T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:03:09.867162+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2022/09/66/66f88cb58beb364a0995592d7e47124e07e32a608d5d09781fa5711705984cf0/article.md",
+    "record": "articles/v1/66/yc-signadot/2022/09/66/66f88cb58beb364a0995592d7e47124e07e32a608d5d09781fa5711705984cf0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9787,
+    "sha256": "sha256:4f2627ee949741c4c3d9f190bfaca27f89e300955136e4a7f0961c4fb6fff855",
+    "normalized_content_hash": "sha256:75ebfa2abe78b1799d2634a61b9b35ac99e9d662c2e733bfbd7ee03f7163969f"
+  },
+  "provenance": {
+    "source_item_id": "d23b5ac5-470a-4665-bd6b-faafc457b2a4",
+    "external_id": "https://www.signadot.com/blog/shift-left-testing-in-kubernetes/"
+  }
+}

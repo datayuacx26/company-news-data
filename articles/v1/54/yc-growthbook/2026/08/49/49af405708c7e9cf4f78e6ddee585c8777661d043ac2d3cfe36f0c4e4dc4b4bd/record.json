@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "49af405708c7e9cf4f78e6ddee585c8777661d043ac2d3cfe36f0c4e4dc4b4bd",
+  "company": {
+    "key": "yc-growthbook",
+    "name": "GrowthBook"
+  },
+  "source": {
+    "id": "yc-growthbook-news-import-67cec260d3a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.growthbook.io/blog/sample-ratio-mismatch",
+    "canonical": "https://www.growthbook.io/blog/sample-ratio-mismatch"
+  },
+  "title": "Sample Ratio Mismatch (SRM): How to Identify the Root Cause and Decide Whether to Restart Your Experiment",
+  "summary": "A sample ratio mismatch signals data quality issues that mean your experiment results can't be trusted. Learn how to diagnose an SRM and address the root cause.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-08T04:32:57.295548+00:00",
+  "fetched_at": "2026-08-08T04:32:58.291424+00:00",
+  "last_updated_at": "2026-08-20T00:57:40.609880+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-growthbook/2026/08/49/49af405708c7e9cf4f78e6ddee585c8777661d043ac2d3cfe36f0c4e4dc4b4bd/article.md",
+    "record": "articles/v1/54/yc-growthbook/2026/08/49/49af405708c7e9cf4f78e6ddee585c8777661d043ac2d3cfe36f0c4e4dc4b4bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25928,
+    "sha256": "sha256:8df5883ce08139bfc0441640f14808abdb777660f757a1f40301ce4035ed2f89",
+    "normalized_content_hash": "sha256:8cb5e2f53200bc27d8deb3d7c3f8dd0397d6e012e8a35920726442831b493141"
+  },
+  "provenance": {
+    "source_item_id": "c751c05b-40e9-4369-afe9-bc9d4f83f084",
+    "external_id": "https://www.growthbook.io/blog/sample-ratio-mismatch"
+  }
+}

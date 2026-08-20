@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "71e3a6209e671093686dbc7632f57ad7f3ec864479bd1862e86b461d9c23856e",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/speed-up-docker-builds",
+    "canonical": "https://depot.dev/blog/speed-up-docker-builds"
+  },
+  "title": "How to speed up your Docker builds",
+  "summary": "Speeding up a Docker build requires optimizing the Dockerfile, maximizing the use of the cache, and taking advantage of multiple architectures.",
+  "published_at": "2024-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/06/71/71e3a6209e671093686dbc7632f57ad7f3ec864479bd1862e86b461d9c23856e/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/06/71/71e3a6209e671093686dbc7632f57ad7f3ec864479bd1862e86b461d9c23856e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12081,
+    "sha256": "sha256:9a4896684b30bd67f025b02b089eb7660d3a26d3f84667f3c90ffbed90e69a5c",
+    "normalized_content_hash": "sha256:6e643af1410386053ee78c011048c04e5c91b9af91cf702ae9018fc31512ca54"
+  },
+  "provenance": {
+    "source_item_id": "f441cb11-b70d-4e8c-89d9-b9acc3e7a349",
+    "external_id": "https://depot.dev/blog/speed-up-docker-builds"
+  }
+}

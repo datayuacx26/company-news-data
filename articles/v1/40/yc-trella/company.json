@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-trella",
+    "name": "Trella"
+  },
+  "record_count": 10,
+  "first_published_at": "2021-11-25T15:04:38+00:00",
+  "last_published_at": "2023-06-05T10:37:17+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/40/yc-trella/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10878,
+        "sha256": "sha256:5236bd5ac0f0f5e83103fa4ad783da7b887132725f8ebcf8a30016735364ef62",
+        "newest_at": "2023-06-05T10:37:17+00:00",
+        "oldest_at": "2021-11-25T15:04:38+00:00"
+      }
+    ]
+  }
+}

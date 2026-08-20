@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7150baf5ef16c1c4b42238131dfc1ec94b72579e095caf48c40272c32f0916c8",
+  "company": {
+    "key": "yc-sf-tensor",
+    "name": "SF Tensor"
+  },
+  "source": {
+    "id": "yc-sf-tensor-news-import-88ed66988698",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sf-tensor.com/news/formal-correctness",
+    "canonical": "https://sf-tensor.com/news/formal-correctness"
+  },
+  "title": "Proving Kernels Correct Instead of Testing Them",
+  "summary": "We formally prove optimized ML kernels correct instead of testing them: symbolic execution shows a FlashAttention tile is equivalent to naive attention at d=64",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T08:45:53.460276+00:00",
+  "fetched_at": "2026-08-05T08:45:55.721043+00:00",
+  "last_updated_at": "2026-08-19T20:57:17.733274+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-sf-tensor/2026/08/71/7150baf5ef16c1c4b42238131dfc1ec94b72579e095caf48c40272c32f0916c8/article.md",
+    "record": "articles/v1/5e/yc-sf-tensor/2026/08/71/7150baf5ef16c1c4b42238131dfc1ec94b72579e095caf48c40272c32f0916c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16181,
+    "sha256": "sha256:eb35b1a5550c36451000b351000cedb2b3e79e552eab02edf7cbb177330fd4f2",
+    "normalized_content_hash": "sha256:804f88a87a7b4670880302ddbd7bab394129628c403670995f0e8b8c72a28ebc"
+  },
+  "provenance": {
+    "source_item_id": "dcfb6476-2c57-42f3-ae3a-91557dda60e4",
+    "external_id": "https://sf-tensor.com/news/formal-correctness"
+  }
+}

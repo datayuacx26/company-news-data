@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b79526902edaff470454588d98184894909388904f3ff0a55f16df183730a654",
+  "company": {
+    "key": "yc-cortex",
+    "name": "Cortex"
+  },
+  "source": {
+    "id": "yc-cortex-news-import-d57bc7656b70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://builders.cortex.io/blog/sandboxing-agents-part-2/",
+    "canonical": "https://builders.cortex.io/blog/sandboxing-agents-part-2/"
+  },
+  "title": "Snapshots, copy-on-write, and the economics of agent sandboxes",
+  "summary": "How we crammed thousands of isolated agents onto a single machine",
+  "published_at": "2026-07-23T14:30:00+00:00",
+  "first_seen_at": "2026-07-23T15:08:04.869939+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T02:06:11.371655+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-cortex/2026/07/b7/b79526902edaff470454588d98184894909388904f3ff0a55f16df183730a654/article.md",
+    "record": "articles/v1/66/yc-cortex/2026/07/b7/b79526902edaff470454588d98184894909388904f3ff0a55f16df183730a654/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14401,
+    "sha256": "sha256:5e9c84f92bbcba26ce1c6b4bb632762ce68b72789a36ef5d28ed04ee36a4e2f1",
+    "normalized_content_hash": "sha256:6c272b140a0b9e929f221fd7bdde6000fa7d6462c27cda48efffb5d17fcae8b2"
+  },
+  "provenance": {
+    "source_item_id": "9f69b61c-30b5-4834-a8fd-b45c83fdbeac",
+    "external_id": "https://builders.cortex.io/blog/sandboxing-agents-part-2/"
+  }
+}

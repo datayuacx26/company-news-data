@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1913854cf564b195d7989b3078e5cc496ea752e9c9fefe6fc48aaeaaff7822f",
+  "company": {
+    "key": "yc-metriport",
+    "name": "Metriport"
+  },
+  "source": {
+    "id": "yc-metriport-news-import-cb7fc021ddeb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metriport.com/blog/introducing-condition-chronicity-flagging",
+    "canonical": "https://www.metriport.com/blog/introducing-condition-chronicity-flagging"
+  },
+  "title": "Introducing: Condition Chronicity Flagging",
+  "summary": "Metriport introduces Condition Chronicity Flagging feature to automatically sort patient conditions by chronic, non-chronic, and unspecified based on the ICD-10-CM codes.",
+  "published_at": "2025-05-28T12:00:00+00:00",
+  "first_seen_at": "2026-08-18T15:48:29.984579+00:00",
+  "fetched_at": "2026-08-18T15:48:31.414581+00:00",
+  "last_updated_at": "2026-08-19T18:52:21.316471+00:00",
+  "paths": {
+    "article": "articles/v1/6e/yc-metriport/2025/05/c1/c1913854cf564b195d7989b3078e5cc496ea752e9c9fefe6fc48aaeaaff7822f/article.md",
+    "record": "articles/v1/6e/yc-metriport/2025/05/c1/c1913854cf564b195d7989b3078e5cc496ea752e9c9fefe6fc48aaeaaff7822f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2286,
+    "sha256": "sha256:06d0e14f8d491392550f5ceed2e2f6e1b2fb9e7010de4e2aa13fe976231d2a2b",
+    "normalized_content_hash": "sha256:d5581fe0b86dc87c0c8d27f57389116a36c6652959c8649d714c1ae0dc7f7956"
+  },
+  "provenance": {
+    "source_item_id": "270dfb08-2a08-4603-83b5-2f814bb43a43",
+    "external_id": "https://www.metriport.com/blog/introducing-condition-chronicity-flagging"
+  }
+}

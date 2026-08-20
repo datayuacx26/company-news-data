@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f476582bbe419cf2686dd14cb2f1e4ffba99b9bdde9a82723f4d85dd4cfbfc75",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/how-to-test-temporal-services-using-signadot-sandboxes/",
+    "canonical": "https://www.signadot.com/blog/how-to-test-temporal-services-using-signadot-sandboxes/"
+  },
+  "title": "How to test Temporal Services using Signadot Sandboxes",
+  "summary": "Test Temporal workflows in isolated Signadot Sandboxes on Kubernetes, with OpenTelemetry-based routing and Python and TypeScript worker examples.",
+  "published_at": "2025-07-22T16:26:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/07/f4/f476582bbe419cf2686dd14cb2f1e4ffba99b9bdde9a82723f4d85dd4cfbfc75/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/07/f4/f476582bbe419cf2686dd14cb2f1e4ffba99b9bdde9a82723f4d85dd4cfbfc75/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13444,
+    "sha256": "sha256:3d7565ee24b9cec14f91544fcf19af040ddc491167630eded9f634fe950f477b",
+    "normalized_content_hash": "sha256:1cdb8ca8103eaae2d3eeeade239c6decbb4dc9f2185a970e8d718c58f4ab92ea"
+  },
+  "provenance": {
+    "source_item_id": "41d7b829-5c20-4089-9f69-2d38bd1bd19f",
+    "external_id": "https://www.signadot.com/blog/how-to-test-temporal-services-using-signadot-sandboxes/"
+  }
+}

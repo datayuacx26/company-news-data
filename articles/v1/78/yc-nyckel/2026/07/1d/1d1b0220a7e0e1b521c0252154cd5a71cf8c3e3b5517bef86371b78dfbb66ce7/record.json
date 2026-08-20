@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d1b0220a7e0e1b521c0252154cd5a71cf8c3e3b5517bef86371b78dfbb66ce7",
+  "company": {
+    "key": "yc-nyckel",
+    "name": "Nyckel"
+  },
+  "source": {
+    "id": "yc-nyckel-news-import-fbb975919637",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nyckel.com/blog/calibrating-gpt-classifications/",
+    "canonical": "https://www.nyckel.com/blog/calibrating-gpt-classifications/"
+  },
+  "title": "Calibrating LLM classification confidences",
+  "summary": "LLMs are often used to classify text content, achieving strong zero-shot accuracy. However, the classification confidences tend to be unreliable. Incorrect classifications are often assigned high confidence, and vice versa. In this post we look at two methods for inferring classification confidences from LLMs, and show how to (mostly) fix the confidence estimates using post-hoc calibration.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T06:46:25.413132+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:08:55.072824+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-nyckel/2026/07/1d/1d1b0220a7e0e1b521c0252154cd5a71cf8c3e3b5517bef86371b78dfbb66ce7/article.md",
+    "record": "articles/v1/78/yc-nyckel/2026/07/1d/1d1b0220a7e0e1b521c0252154cd5a71cf8c3e3b5517bef86371b78dfbb66ce7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13953,
+    "sha256": "sha256:90f2a2097f6d8fd65288b4a97590ecd064595c1bda46caaa9d5ef00d8f4db411",
+    "normalized_content_hash": "sha256:f88e39016efdffa587f89930b96d5947d10d51d8b110719a0f4a6e6e98d5f58f"
+  },
+  "provenance": {
+    "source_item_id": "9cbf4f6e-2526-4c89-8d52-8b8bc8ed228a",
+    "external_id": "https://www.nyckel.com/blog/calibrating-gpt-classifications/"
+  }
+}

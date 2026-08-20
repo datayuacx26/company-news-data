@@ -1,0 +1,46 @@
+---
+schema_version: "1.0.0"
+document_id: "54275a9deb90d48d3a50f16c61360eff38cf7bc53463ec260b4ddc8019ec9018"
+company_key: "old-dominion-freight-line-inc-common-stock"
+company: "Old Dominion Freight Line Inc."
+source_id: "old-dominion-freight-line-inc-common-stock-rss-e9029fee5ef0"
+canonical_url: "https://ir.odfl.com/news-events/press-releases/detail/343/old-dominion-freight-line-announces-0-29-per-share"
+published_at: "2026-05-21T11:00:00+00:00"
+first_seen_at: "2026-07-20T04:36:34.521916+00:00"
+fetched_at: "2026-07-28T21:55:53.408599+00:00"
+content_hash: "sha256:756d285ad11e624b92a83c30def29704ee42d82bcd26085294ac0ec01eec93a6"
+---
+
+# Old Dominion Freight Line Announces $0.29 Per Share Quarterly Cash Dividend
+
+## Old Dominion Freight Line Announces $0.29 Per Share Quarterly Cash Dividend
+
+
+May 21, 2026 7:00am EDT[Download as PDF](https://d1io3yog0oux5.cloudfront.net/_24c79b5f3c45e0e455018c1b65df8881/odfl/news/2026-05-21_Old_Dominion_Freight_Line_Announces_0_29_Per_343.pdf)
+
+
+THOMASVILLE, N.C.--(BUSINESS WIRE)-- Old Dominion Freight Line, Inc. (Nasdaq: ODFL) today announced that its Board of Directors has declared a quarterly cash dividend of $0.29 per share of common stock, payable on June 17, 2026, to shareholders of record at the close of business on June 3, 2026. This dividend payment represents a 3.6% increase to the quarterly cash dividend paid in June 2025.
+
+
+Forward-looking statements in this news release are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. We caution the reader that such forward-looking statements involve risks and uncertainties that could cause actual events and results to be materially different from those expressed or implied herein, including, but not limited to, the following: (1) the challenges associated with executing our growth strategy, and developing, marketing and consistently delivering high-quality services that meet customer expectations; (2) various economic factors such as inflationary pressures or downturns in the domestic economy, and our inability to sufficiently increase our customer rates to offset the increase in our costs; (3) changes in our relationships with significant customers; (4) our exposure to claims related to cargo loss and damage, property damage, personal injury, workers’ compensation and healthcare, increased self-insured retention or deductible levels or premiums for excess coverage, and claims in excess of insured coverage levels; (5) reductions in the available supply or increases in the cost of equipment and parts; (6) higher costs for or limited availability of suitable real estate; (7) the availability and cost of third-party transportation used to supplement our workforce and equipment needs; (8) fluctuations in the availability and price of diesel fuel and our ability to collect fuel surcharges, as well as the effectiveness of those fuel surcharges in mitigating the impact of fluctuating prices for diesel fuel and other petroleum-based products; (9) seasonal trends in the less-than-truckload (“LTL”) industry, harsh weather conditions and disasters; (10) the availability and cost of capital for our significant ongoing cash requirements; (11) decreases in demand for, and the value of, used equipment; (12) our ability to successfully consummate and integrate acquisitions; (13) various risks arising from our international business relationships; (14) the costs and potential adverse impact of compliance with anti-terrorism measures on our business; (15) the competitive environment with respect to our industry, including pricing pressures; (16) changes in international trade policies, including with respect to tariffs; (17) our customers’ and suppliers’ businesses may be impacted by various economic factors such as recessions, inflation, downturns in the economy, global uncertainty and instability, changes in U.S. social, political, and regulatory conditions or a disruption of financial markets, which may decrease demand for our services or increase our costs; (18) the negative impact of any unionization, or the passage of legislation or regulations that could facilitate unionization, of our employees; (19) increases in the cost of employee compensation and benefit packages used to address general labor market challenges and to attract or retain qualified employees, including drivers and maintenance technicians; (20) our ability to retain our key employees and continue to effectively execute our succession plan; (21) potential costs and liabilities associated with cyber incidents and other risks with respect to our information technology systems or those of our third-party service providers, including system failure, security breach, disruption by malware or ransomware or other damage; (22) the failure to adapt to new technologies implemented by our competitors in the LTL and transportation industry, which could negatively affect our ability to compete; (23) the failure to keep pace with developments in technology, any disruption to our technology infrastructure, or failures of essential services upon which our technology platforms rely, which could cause us to incur costs or result in a loss of business; (24) disruption in the operational and technical services (including software as a service) provided to us by third parties, which could result in operational delays and/or increased costs; (25) the Compliance, Safety, Accountability initiative of the Federal Motor Carrier Safety Administration (“FMCSA”), which could adversely impact our ability to hire qualified drivers, meet our growth projections and maintain our customer relationships; (26) the costs and potential adverse impact of compliance with, or violations of, current and future rules issued by the Department of Transportation, the FMCSA and other regulatory agencies; (27) the costs and potential liabilities related to compliance with, or violations of, existing or future governmental laws and regulations, including environmental laws; (28) the effects of legal, regulatory or market responses to climate change concerns; (29) emissions-control and fuel efficiency regulations that could substantially increase operating expenses; (30) varied stakeholder expectations relating to evolving sustainability considerations and related reporting obligations; (31) the increase in costs associated with healthcare and other mandated benefits; (32) the costs and potential liabilities related to legal proceedings and claims, governmental inquiries, notices and investigations; (33) the impact of changes in tax laws, rates, guidance and interpretations; (34) the concentration of our stock ownership with the Congdon family; (35) the ability or the failure to declare and pay future cash dividends; (36) fluctuations in the amount and frequency of our stock repurchases; (37) volatility in the market value of our common stock; (38) the impact of certain provisions in our articles of incorporation, bylaws, and Virginia law that could discourage, delay or prevent a change in control of us or a change in our management; and (39) other risks and uncertainties described in our most recent Annual Report on Form 10-K and other filings with the SEC. Our forward-looking statements are based on our beliefs and assumptions using information available at the time the statements are made. We caution the reader not to place undue reliance on our forward-looking statements as (i) these statements are neither a prediction nor a guarantee of future events or circumstances and (ii) the assumptions, beliefs, expectations and projections about future events may differ materially from actual results. We undertake no obligation to publicly update any forward-looking statement to reflect developments occurring after the statement is made, except to the extent required by law.
+
+
+Old Dominion Freight Line, Inc. is one of the largest North American LTL motor carriers and provides regional, inter-regional and national LTL services through a single integrated, union-free organization. Our service offerings, which include expedited transportation, are provided through an expansive network of service centers located throughout the continental United States. Through strategic alliances, we also provide LTL services throughout North America. In addition to our core LTL services, we offer a range of value-added services including container drayage, truckload brokerage and supply chain consulting.
+
+
+View source version on businesswire.com:
+
+
+[https://www.businesswire.com/news/home/20260521503225/en/](https://www.businesswire.com/news/home/20260521503225/en/)
+
+
+Adam N. Satterfield
+Executive Vice President and
+Chief Financial Officer
+(336) 822-5721
+
+
+Source: Old Dominion Freight Line, Inc.
+
+
+Released May 21, 2026

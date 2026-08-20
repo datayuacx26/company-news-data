@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d7e776def42b9756a3111a1b9c101b65900c332242fb9d51f74cae0406bbe96",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-macos-26-github-actions",
+    "canonical": "https://depot.dev/blog/now-available-macos-26-github-actions"
+  },
+  "title": "Now available: macOS 26 for GitHub Actions runners",
+  "summary": "macOS 26 (Tahoe) is now available for Depot GitHub Actions runners. The `depot-macos-26` label runs on Apple M4 hardware with Xcode 26 and the macOS 26 SDKs preinstalled.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/06/6d/6d7e776def42b9756a3111a1b9c101b65900c332242fb9d51f74cae0406bbe96/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/06/6d/6d7e776def42b9756a3111a1b9c101b65900c332242fb9d51f74cae0406bbe96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3809,
+    "sha256": "sha256:9e2766fa3784d7769022d2aab3d2b7c2d463b87d3916636b53b626838f029415",
+    "normalized_content_hash": "sha256:c235d48c2e9c66b5c6f7dfba0875903f3aa32d3d51f679254be1d4b29ee5db00"
+  },
+  "provenance": {
+    "source_item_id": "85b19235-f2ac-4052-820c-e52351348c50",
+    "external_id": "https://depot.dev/blog/now-available-macos-26-github-actions"
+  }
+}

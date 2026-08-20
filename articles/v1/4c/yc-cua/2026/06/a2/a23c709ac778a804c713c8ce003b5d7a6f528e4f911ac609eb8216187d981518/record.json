@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a23c709ac778a804c713c8ce003b5d7a6f528e4f911ac609eb8216187d981518",
+  "company": {
+    "key": "yc-cua",
+    "name": "Cua"
+  },
+  "source": {
+    "id": "yc-cua-news-import-c869e0198521",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use",
+    "canonical": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use"
+  },
+  "title": "Evaluating Gemini 3.5 Flash on Computer-Use with Cua-Bench",
+  "summary": "We had early access from Google DeepMind to Gemini 3.5 Flash's native Computer Use tool and ran it on Cua-Bench's KiCad EDA suite. It posted the highest mean reward of any frontier model we tested - 0.267 - at Flash speed and cost, with pixel-accurate grounding and real analog-design reasoning.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:32:57.845806+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-20T03:04:12.182268+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-cua/2026/06/a2/a23c709ac778a804c713c8ce003b5d7a6f528e4f911ac609eb8216187d981518/article.md",
+    "record": "articles/v1/4c/yc-cua/2026/06/a2/a23c709ac778a804c713c8ce003b5d7a6f528e4f911ac609eb8216187d981518/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9784,
+    "sha256": "sha256:7aa07e7a59dca97afb44043f8020d832bb128131dada13857fa5409809f0c9d8",
+    "normalized_content_hash": "sha256:f1f70de3cf44f2a80bee88dc3ac093b8d36d2e5ba1a5d3f68cb0f721ae476a4b"
+  },
+  "provenance": {
+    "source_item_id": "3407bef0-734d-4752-90bc-43202a81bdb1",
+    "external_id": "https://cua.ai/blog/evaluating-gemini-3.5-flash-on-computer-use"
+  }
+}

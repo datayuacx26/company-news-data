@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ba07bf19543748809cf6616eebf5f237847ac533035d4b3e8c3abb4b2d9c8d5",
+  "company": {
+    "key": "yc-codeant-ai",
+    "name": "CodeAnt AI"
+  },
+  "source": {
+    "id": "yc-codeant-ai-news-import-b68a5af7b5b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://codeant.ai/blogs/aws-penetration-testing",
+    "canonical": "https://codeant.ai/blogs/aws-penetration-testing"
+  },
+  "title": "AWS Penetration Testing: Complete Guide to IAM, S3, Lambda, and Cloud Attack Paths",
+  "summary": "AWS penetration testing is not traditional network testing with cloud labels. IAM misconfigurations, SSRF-to-metadata credential theft, S3 bucket exposure, and Lambda privilege escalation require a different methodology entirely. Here is how it works.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T18:23:22.105025+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-13T13:20:15.856449+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-codeant-ai/2026/04/6b/6ba07bf19543748809cf6616eebf5f237847ac533035d4b3e8c3abb4b2d9c8d5/article.md",
+    "record": "articles/v1/4c/yc-codeant-ai/2026/04/6b/6ba07bf19543748809cf6616eebf5f237847ac533035d4b3e8c3abb4b2d9c8d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 53708,
+    "sha256": "sha256:3cd0a314ca076c32dc415fa549c3bb4f0d7527f700d85498c4c46c4ad3983766",
+    "normalized_content_hash": "sha256:2ad2b52aee9261cea1a0df0bcf4d955ce9dc865d932e2188c11883776edbb7d6"
+  },
+  "provenance": {
+    "source_item_id": "5c5bf9de-5a69-42c3-b00e-dc433bddddc1",
+    "external_id": "https://codeant.ai/blogs/aws-penetration-testing"
+  }
+}

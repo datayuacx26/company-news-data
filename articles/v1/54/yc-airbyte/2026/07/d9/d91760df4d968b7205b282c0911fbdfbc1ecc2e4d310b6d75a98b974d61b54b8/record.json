@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d91760df4d968b7205b282c0911fbdfbc1ecc2e4d310b6d75a98b974d61b54b8",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/salesforce-hubspot-write-capabilities",
+    "canonical": "https://airbyte.com/blog/salesforce-hubspot-write-capabilities"
+  },
+  "title": "Feature Update: Write Capabilities for Salesforce and Hubspot",
+  "summary": "Learn about our new write capabilities for Salesforce and HubSpot, enabling seamless data updates and automated workflows from your applications.",
+  "published_at": "2026-07-14T16:35:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T10:11:03.310106+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/07/d9/d91760df4d968b7205b282c0911fbdfbc1ecc2e4d310b6d75a98b974d61b54b8/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/07/d9/d91760df4d968b7205b282c0911fbdfbc1ecc2e4d310b6d75a98b974d61b54b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3413,
+    "sha256": "sha256:6754e4954365df24be3ea772046f46a18ede68c1b344e5d836da347145cab724",
+    "normalized_content_hash": "sha256:43531a1ee4be04ac79fc866a96c549928080f4dfea0eec54ff51487729fcef86"
+  },
+  "provenance": {
+    "source_item_id": "7c09cee9-c246-4144-9c86-b3274e561b69",
+    "external_id": "https://airbyte.com/blog/salesforce-hubspot-write-capabilities"
+  }
+}

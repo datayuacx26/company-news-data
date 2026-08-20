@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdc67c17872e1c29de7cdbccb2dfe617c0c50b853daca5ce260a0bda5ff314e2",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/announcing-depot-metal",
+    "canonical": "https://depot.dev/blog/announcing-depot-metal"
+  },
+  "title": "Announcing Depot Metal",
+  "summary": "Depot Metal is our next-generation compute and storage platform. Depot CI and Sandboxes are now running on it, with benchmarks showing workloads 30% faster and more optimizations on the way. You don't have to do anything to get it.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/07/cd/cdc67c17872e1c29de7cdbccb2dfe617c0c50b853daca5ce260a0bda5ff314e2/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/07/cd/cdc67c17872e1c29de7cdbccb2dfe617c0c50b853daca5ce260a0bda5ff314e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7283,
+    "sha256": "sha256:b7581e318a68f19a55e4a08f98be75e6c38e3bbd4c6e60f2e258301b8f1fea87",
+    "normalized_content_hash": "sha256:00358f3fb828a3695471eef82bf0ea3530ce0bcef20f10614ac0ea1acb1e4914"
+  },
+  "provenance": {
+    "source_item_id": "c958146c-0fbc-4c61-a0c0-5621d0a445f1",
+    "external_id": "https://depot.dev/blog/announcing-depot-metal"
+  }
+}

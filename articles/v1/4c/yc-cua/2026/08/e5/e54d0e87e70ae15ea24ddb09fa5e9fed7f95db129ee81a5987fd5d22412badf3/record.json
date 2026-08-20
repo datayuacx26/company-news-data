@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e54d0e87e70ae15ea24ddb09fa5e9fed7f95db129ee81a5987fd5d22412badf3",
+  "company": {
+    "key": "yc-cua",
+    "name": "Cua"
+  },
+  "source": {
+    "id": "yc-cua-news-import-c869e0198521",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cua.ai/blog/gpu-passthrough-macos-vms",
+    "canonical": "https://cua.ai/blog/gpu-passthrough-macos-vms"
+  },
+  "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with llama.cpp",
+  "summary": "A process-scoped Metal capability shim unlocks newer GPU paths inside a Lume macOS VM, making llama.cpp prompt processing up to 11× faster and token generation up to 16× faster on an M1 Ultra.",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T00:42:05.819926+00:00",
+  "fetched_at": "2026-08-13T00:42:08.485423+00:00",
+  "last_updated_at": "2026-08-20T03:04:12.182268+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-cua/2026/08/e5/e54d0e87e70ae15ea24ddb09fa5e9fed7f95db129ee81a5987fd5d22412badf3/article.md",
+    "record": "articles/v1/4c/yc-cua/2026/08/e5/e54d0e87e70ae15ea24ddb09fa5e9fed7f95db129ee81a5987fd5d22412badf3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16272,
+    "sha256": "sha256:13454b4f8f5a9bbcd7b207623264fe733c82cea5cc618e9d9e1f35c97ffd8a37",
+    "normalized_content_hash": "sha256:d799c267f5163118c9b7a814d7788322f8e801c172929a1e80594a3e1c0d55ce"
+  },
+  "provenance": {
+    "source_item_id": "537a62b0-5fa7-47d1-a8a2-89e5653f97cf",
+    "external_id": "https://cua.ai/blog/gpu-passthrough-macos-vms"
+  }
+}

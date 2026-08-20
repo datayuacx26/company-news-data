@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4df67e3dd6aad7cd074a3f1c39aa1e9f921acb7ecc3aabc0bc650f5c6102a372",
+  "company": {
+    "key": "pagerduty-inc-common-stock",
+    "name": "PagerDuty Inc."
+  },
+  "source": {
+    "id": "pagerduty-inc-common-stock-rss-b3e2d0380f72",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.pagerduty.com/eng/inside-pagerdutys-sre-agent-how-we-built-deep-incident-investigation/",
+    "canonical": "https://www.pagerduty.com/eng/inside-pagerdutys-sre-agent-how-we-built-deep-incident-investigation/"
+  },
+  "title": "Inside PagerDuty’s SRE Agent: How We Built Deep Incident Investigation by PagerDuty Engineering",
+  "summary": "This post tells that story. We'll walk through what broke in the single-agent design, the architecture decisions we made to fix it, the patterns that worked, the traps we hit, and the layers of infrastructure needed to make the SRE Agent's deep investigation reliable in production.",
+  "published_at": "2026-06-24T20:39:06+00:00",
+  "first_seen_at": "2026-07-20T23:19:31.841537+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-08-20T00:26:24.795748+00:00",
+  "paths": {
+    "article": "articles/v1/7f/pagerduty-inc-common-stock/2026/06/4d/4df67e3dd6aad7cd074a3f1c39aa1e9f921acb7ecc3aabc0bc650f5c6102a372/article.md",
+    "record": "articles/v1/7f/pagerduty-inc-common-stock/2026/06/4d/4df67e3dd6aad7cd074a3f1c39aa1e9f921acb7ecc3aabc0bc650f5c6102a372/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37269,
+    "sha256": "sha256:d035df9c335813f125679cd5d3863ec3dd8db9620bcc196868304f60fb49cd40",
+    "normalized_content_hash": "sha256:2015a2afef94bab2e1f3a407eb98609460d49c7a3257cc05cc1342816298659a"
+  },
+  "provenance": {
+    "source_item_id": "cf383ede-f446-41f4-be67-59d07097b68b",
+    "external_id": "https://www.pagerduty.foo/?post_type=eng-blog&p=100453"
+  }
+}

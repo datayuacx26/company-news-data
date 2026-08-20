@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-raptor-maps",
+    "name": "Raptor Maps"
+  },
+  "record_count": 22,
+  "first_published_at": "2020-11-30T00:00:00+00:00",
+  "last_published_at": "2026-08-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/46/yc-raptor-maps/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 23079,
+        "sha256": "sha256:968a7f9224ddb3977d3243d55d690162ad5a4625a1c78d694c55633a1acb6ca8",
+        "newest_at": "2026-08-12T00:00:00+00:00",
+        "oldest_at": "2020-11-30T00:00:00+00:00"
+      }
+    ]
+  }
+}

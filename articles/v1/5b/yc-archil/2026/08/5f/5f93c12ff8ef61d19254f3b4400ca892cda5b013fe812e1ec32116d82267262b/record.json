@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f93c12ff8ef61d19254f3b4400ca892cda5b013fe812e1ec32116d82267262b",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/objectivefs-cloud-posix-file-system",
+    "canonical": "https://archil.com/article/objectivefs-cloud-posix-file-system"
+  },
+  "title": "What is ObjectiveFS?",
+  "summary": "Explains what ObjectiveFS is and how it delivers a fully POSIX-compatible shared filesystem on top of object storage. Covers its architecture, consistency model, performance characteristics, and where it fits best for teams that need scalable, cloud-backed file storage without running a storage cluster.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/5f/5f93c12ff8ef61d19254f3b4400ca892cda5b013fe812e1ec32116d82267262b/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/5f/5f93c12ff8ef61d19254f3b4400ca892cda5b013fe812e1ec32116d82267262b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8784,
+    "sha256": "sha256:83f13708b7c3a87e83fe4c2a3285d270673b7ff509eaf10e8dc8b62728d492c4",
+    "normalized_content_hash": "sha256:35b123fe0285e0328ea82d40ab7779af8ab2fbf6e93a1f73e40d9f7ca514de7e"
+  },
+  "provenance": {
+    "source_item_id": "74764ae4-dfe8-4193-9c9e-7f0ee0fb755f",
+    "external_id": "https://archil.com/article/objectivefs-cloud-posix-file-system"
+  }
+}

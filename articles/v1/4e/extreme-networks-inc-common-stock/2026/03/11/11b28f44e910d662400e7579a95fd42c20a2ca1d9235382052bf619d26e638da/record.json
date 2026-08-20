@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11b28f44e910d662400e7579a95fd42c20a2ca1d9235382052bf619d26e638da",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134760",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134760"
+  },
+  "title": "SA-2026-023 - OpenSSL TimeStamp Response (CVE-2025-69420)",
+  "summary": "TimeStamp Response verification code where an ASN1_TYPE union member is accessed without first validating the type, causing an invalid or NULL pointer dereference when processing a malformed TimeStamp Response file. An application calling TS_RESP_verify_response() with a malformed TimeStamp Response can be caused to dereference an invalid or NULL pointer when reading, resulting in a Denial of Service. The functions ossl_ess_get_signing_cert() and ossl_ess_get_signing_cert_v2() access the signing cert attribute value without validating its type. When the type is not V_ASN1_SEQUENCE, this results in accessing invalid memory through the ASN1_TYPE union, causing a crash. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-03-20T14:39:31+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-07-22T19:09:52.015654+00:00",
+  "last_updated_at": "2026-07-22T19:09:52.019074+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/11/11b28f44e910d662400e7579a95fd42c20a2ca1d9235382052bf619d26e638da/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/11/11b28f44e910d662400e7579a95fd42c20a2ca1d9235382052bf619d26e638da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1726,
+    "sha256": "sha256:e28dcac10c4c19216392c8008f4f9b25550882e928e05bd8b07ed9bee9e51778",
+    "normalized_content_hash": "sha256:dd07b3d4878f335474024ef5b3b20443413da2b13d0e6d731c16c91eb496f509"
+  },
+  "provenance": {
+    "source_item_id": "1120b092-1647-4867-9f29-a93bdaf8a7f6",
+    "external_id": "000134760"
+  }
+}

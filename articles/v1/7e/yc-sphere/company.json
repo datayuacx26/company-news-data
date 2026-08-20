@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-sphere",
+    "name": "Sphere"
+  },
+  "record_count": 16,
+  "first_published_at": "2025-11-18T00:00:00+00:00",
+  "last_published_at": "2026-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7e/yc-sphere/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 15901,
+        "sha256": "sha256:5348ae77a906c9fc4e7e06718a8d7399be87fbe2476f76c38ff416f8d99d22fd",
+        "newest_at": "2026-08-17T00:00:00+00:00",
+        "oldest_at": "2025-11-18T00:00:00+00:00"
+      }
+    ]
+  }
+}

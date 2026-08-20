@@ -1,0 +1,36 @@
+---
+schema_version: "1.0.0"
+document_id: "c83127f8b44866fc604b0434942042ff5164eb8def3935520732895b65e806c0"
+company_key: "digital-realty-trust-inc-common-stock"
+company: "Digital Realty Trust Inc."
+source_id: "digital-realty-trust-inc-common-stock-rss-7eb8bb6ec414"
+canonical_url: "https://investor.digitalrealty.com/news-releases/news-release-details/digital-realty-schedules-second-quarter-2026-earnings-release"
+published_at: "2026-06-30T20:05:53+00:00"
+first_seen_at: "2026-08-09T21:27:27.111173+00:00"
+fetched_at: "2026-08-09T21:27:28.342952+00:00"
+content_hash: "sha256:0602685aec7cd0b3bd1eedefaf9d96d438a1f723a006ab346e1675a57183ee38"
+---
+
+# Digital Realty Schedules Second Quarter 2026 Earnings Release and Conference Call
+
+AUSTIN, Texas, June 30, 2026 (GLOBE NEWSWIRE) -- **Digital Realty (**[NYSE: DLR](https://www.globenewswire.com/Tracker?data=IOuZZ-Di0cIzsHymXJRspMggkz_u284dGTykVyefWFpe9qiK5VD4wpKBDMpOAPiT1aQ0DKJO7TcmWmMZEBWrNFf2YA9aRMqqB_I75dsQvOk=) **),** the world’s largest cloud- and carrier-neutral data center platform, today announced that it will release financial results for the second quarter of 2026 after the market closes on Thursday, July 23, 2026. The company will host a conference call to discuss these results at 5:00 p.m. ET / 4:00 p.m. CT on Thursday, July 23, 2026.
+
+
+A live webcast of the call will be available on the Investors section of Digital Realty's website at[https://investor.digitalrealty.com](https://www.globenewswire.com/Tracker?data=dUyfDFjhT3Imd4JyI_q-sWTGb8VDrAI7z5-tA_pzhradM-Enp3ZyEBQn65qhHIyEp8pAciVj7Zjw_5cCJXQzvF32Ljr1sMmS7nWo5Kka5rgulG9oFNLdNoimZVMxEfq5) . The webcast will be archived until July 23, 2027 and the replay will be available shortly after the conclusion of the live event.
+
+
+_________________________________
+**About Digital Realty**
+
+
+Digital Realty brings companies and data together by delivering the full spectrum of data center, colocation, and interconnection solutions. PlatformDIGITAL®, the company’s global data center platform, provides customers with a secure data meeting place and a proven Pervasive Datacenter Architecture (PDx®) solution methodology for powering innovation, from cloud and digital transformation to emerging technologies like artificial intelligence (AI), and efficiently managing Data Gravity challenges. Digital Realty gives its customers access to the connected data communities that matter to them with a global data center footprint of 300+ facilities in 55+ metros across 30+ countries on six continents. To learn more about Digital Realty, please visit[digitalrealty.com](https://www.globenewswire.com/Tracker?data=cwRtYgWAHyw_5RnEWvtr0v0Cevlh3JXcklNOx1kJE8Ji7KM9X5e2YOAhpr4PhXlWw-f0EP2ZXCTnzr4B69_-NSIUQRl6m3GiPUbsrXsK5z5urUiGwKaQ5rTzqZcnFGOxWBwYoHVRnnmbyDTO6rNk9nYm_STfRXOsLpJYxqxNWYqXyQqssd5SV03ah_lk6Kd3yTVSwAFsgQyponCk6NLl28qlsdUg7fiZQmX26V4Ojll8q_dgqoq7lMxNzF2rKw9WVozZ7RTJj5NE6f6Tu6dPWZETQB3roHqGZG8CEhrQ8rCy4_-REEXEyf8KUEgjZZwUVFMFAseWhPaGtsiCJhYe5W1rFpvjY3I6Stugk22XoxUdNJXPthMtZq_B3hALvVaRyd1vw8JO54Gpz6g_p2jbwGmCLBAI-hbZO2ZAYpNxkZzydt1GPx7XUieSRuMSsYBbEhjyYFkxo43mzSRiQesdh2JfgSthJBbdfCqdWmvhyrFtE-qaUzClnUZq_v8Vszpq_6qYx3pJlPyKn2uHaYfKfDK_WnEqoGEpcr5sg_VlklITfmnIMuhVyj3n6kgr-63H77W-ZiwcCcP9P6dbuHk87u9lmsjJLsGtzbXkQRteTjgID--PP3_Hh8H3_i042ozOojP0oC0KUiXzetJKie1iwjABMk_n2vpDN5jzSPT0ZYYG8oO7RsknFzLD7BCBxWEGt7leD-2SKZaf3dUVKvMf1M2xzlT6LEp_378kKJHODDGeLwskhUbTaf-Ofw5U917MXIe2h4n33cIT5BCXxfQxNT-_cXUSH0-how4LLnN9q3vZyycQGqRCcZQipf6Ca--x4ISxihj0JhU6NMUace_EbY55c7_FuTRV2fSrBXacXrjE9JO6jPUwActzBCi9ZiQQmKwHvt_yKtRTUhsiXoXNf5WLFYKxh_oNxEjS3hAtrEoJtphmZP72nKtU9Wc-jPu7HMPAn-k88QwGDZYrWjJoPw==) or follow us on[LinkedIn](https://www.globenewswire.com/Tracker?data=zgL320MdUcScoLFxm5w0TUj9pB3N8OMExV1bpT3MvyCa39c0BcN7Cb4vZA_lWhO2iN7eny0KJHYjQ9KJtLQLD_FJMIi3IvjgTGDZH58qwCTtm7dYhrWWK_KuJxm70LYC_wdlZJ2xbLnTCZ6Z-f33yo67BMCk1uGZB_N4ttx8PcPSBSQAVeY26YOSOfAh5Ei-wxPl9Z5zYykX8fVhbQOPUqrjgoHag4YV1jfpcx4i6Gplft_c4coCsJY6z6PznJC7nkSiKBAJqfbfU5ZqsimCnDIA_ReRI2C9gadCGzRA0wyNGmG0hqrjhx8blhlFb5SjyzzgtauWYazTeFhXNpeAKovZhofFz4PKX-hIKBWdbZNxIyS0qm-pEuJC745M4iRU-0SZ0wc4aVXx8obGhKAjSdW528kwAJ9ScRgIFjSTAzcEsHItj4MGfHLfT7sh83TxnPCIpkE3ZWWNuwIg-zEvLxAZK5ga-VAC6pS9o6CLtBDf_jJQAemmiXLF1NbvxX_VfgOJsDAodSsVDC2ofr6b6ByEm43yqBbaIj39vEKa-6v_BsS2IyW82L1kFQGARzxcSbZtITKbSowiy0f05eTK3_tkaYHq8yZI1CaTuXpCIRunl9p-PydC3kqMuGHdG5oliENg3qdSZh3s6jTtENz-PZ9gVzEY6RG5OebR4Apb3lmqIKyxAh0PpBvA6G_RMvtsckWalkptICXasEKg-f4e1nRS6T6cecFPWfbNtjvrpvyxO5JX3MCSnjackmAVaBS6LcXhMl1VduzvLnVWYXPFNNIDQn7xzn5EbIpvuKeqirVi8Ny4SzS2LDM2I36kEy-ILAxCc63pbHwP3hMIZPcaKjt2kJCrxG9f0Rl6fWKV-Vyl5X528Kuau3rqUsnbcPsc1EwZXG_5mFRHyXbnSlkrlgqpiQbIW-mA7a-5QSItRV7Y5kNjfAllyM3ec89EE2F7OTQrnkgxj9VSQWoUeTumC4a5Q75W4Jxl5ytkrXjQwI6-DLI7HTekMe_7endRJ7GA) and[X](https://www.globenewswire.com/Tracker?data=2AAOrp0oa1VmbUeQlHOnNRtURkTOJ57ygrfK-OFdC8DHZ9VMDxwMcXSG5OcizZ9him4t9t9i9cT-D7hRVvAMebfuxjVgSSAe9hrfDc0i2944-UM40WAuaAChUDfYiKxi58YpCvBzzknk_v6a22PifQ9lfiD2jy_R4lmqTMscC_q37TI97jTdYR5Qfgbp_uRP_XuHMb-vjj0eJqp4wrDCelzBKq-ELck_pQYxJ9kP_1i0tWkBpLce1eCoI_sGQwMKXRgrDR6nNGuaz6RU3YyeO20lwPffTnIFX2MbJa3-5VGKmSkIAINrr3W2eZRbkNnLWtOzcbhSWYfRiFsfue6JbV9sFbvcKIsvMtFcx84KgG05UspSThjgQ7WOuNq1nYGxZA34d_CWvrnNB14FOkTqkMK92BWQpAeEiE_-BOQ3P4CqSduhJLZBWpbeacwysGdlsi81hdaryYyW7qHh8_Q3XUQ77RGL20f3LsKWO1mDUfGXRxLIh5PjNazSC4Igf8HtV8dBccLTjbiWU2yRHb_RtviN1m2hMGaI-pov4nUmgpiwegC_Ta-oFrmGz2Ep5IjnWFaKniQcKZ8TP1BkzzKn-SK22z3k431N9dgf3ks24nuqpy4_4IJbfqfr8QTRk2QGB0eY-7GzZlN28e_hzwy2dQ9E31ucQEOrmU3oC0XjFnn1Y1t4CCXSwxF8KXOv_6cEKFXdozuKr9l-1Kw5VAGTINfQjXXbVDxi9V2j_NX9o48uy2b8wMS9wJZ2IGNxe9wcRI1c_QnaRfWTj-gSNtkP-O3aS0hxIFA5JaGoI859GFmUe1xUKfZJCctPRNnTxWt612ua4IZ8cTDczggi_K_w0J1Ik2LDiVWaplaCkfhrw74eaeQ7W8GJEDl75nlTTt8-v71gQrv4tNLQRUoLQfbPDW9jdqAwtI5skYcFU83QnaT_kV2BdIM9Xeh5M6FwEoeI) .
+
+
+**For Additional Information**
+
+
+**Investor Relations**
+Jordan Sadler / Jim Huseby
+Digital Realty
++1 (737) 281-0101
+[InvestorRelations@digitalrealty.com](https://www.globenewswire.com/Tracker?data=ergcLEVo3qqnC6p8BpNZme35BlLu-aYOj2vbWx5jcv2busuTVxgJjUZatXXMYCq5ca0wg_ch5qaTpo-I6i-913GTzF7jZwEag2JGZuKjIrJ8UTxXX7XcuizrFKEI9HjjIY8uy4rmts_BH4qmy2Wq7g==)

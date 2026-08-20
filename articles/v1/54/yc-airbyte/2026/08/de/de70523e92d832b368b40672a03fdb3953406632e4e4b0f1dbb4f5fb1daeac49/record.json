@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de70523e92d832b368b40672a03fdb3953406632e4e4b0f1dbb4f5fb1daeac49",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/connector-skills-airbyte-agents",
+    "canonical": "https://airbyte.com/blog/connector-skills-airbyte-agents"
+  },
+  "title": "Connector Skills: Teaching Airbyte Agents to Accomplish Goals",
+  "summary": "How Airbyte Agents use server-side skills auto-generated connector docs and expert playbooks to teach agents what a system can do and how to do the job right.",
+  "published_at": "2026-08-19T10:00:00+00:00",
+  "first_seen_at": "2026-08-20T00:31:35.654845+00:00",
+  "fetched_at": "2026-08-20T00:31:37.682913+00:00",
+  "last_updated_at": "2026-08-20T00:31:38.803511+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/08/de/de70523e92d832b368b40672a03fdb3953406632e4e4b0f1dbb4f5fb1daeac49/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/08/de/de70523e92d832b368b40672a03fdb3953406632e4e4b0f1dbb4f5fb1daeac49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10947,
+    "sha256": "sha256:284b88e59258fcc39ca836f994528c4c66909abc153de3ee0ad9d51a0b555156",
+    "normalized_content_hash": "sha256:018d06b791ee484fe577fcbde43f818f8f470394507de7b8f499a288c1e2c5d2"
+  },
+  "provenance": {
+    "source_item_id": "702274ca-96da-4dde-8eae-7dbe903b1e3d",
+    "external_id": "https://airbyte.com/blog/connector-skills-airbyte-agents"
+  }
+}

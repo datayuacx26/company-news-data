@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e5313e793a186f9337563dd5122a88ce8f8e43c4ea9e2c71237f02bca7c68843",
+  "company": {
+    "key": "yc-cactus",
+    "name": "Cactus"
+  },
+  "source": {
+    "id": "yc-cactus-news-import-6d2738280b9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cactuscompute.com/blog/parakeet",
+    "canonical": "https://cactuscompute.com/blog/parakeet"
+  },
+  "title": "Ridiculously Fast On-Device Transcription: Reviewing Parakeet CTC 1.1B with Cactus",
+  "summary": "Review of NVIDIA's Parakeet-CTC-1.1B model running locally on Mac with Cactus. Architecture breakdown, benchmarks, and transcription use cases.",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:01:40.427517+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T01:45:53.248267+00:00",
+  "paths": {
+    "article": "articles/v1/67/yc-cactus/2026/02/e5/e5313e793a186f9337563dd5122a88ce8f8e43c4ea9e2c71237f02bca7c68843/article.md",
+    "record": "articles/v1/67/yc-cactus/2026/02/e5/e5313e793a186f9337563dd5122a88ce8f8e43c4ea9e2c71237f02bca7c68843/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15253,
+    "sha256": "sha256:52fe04167d49114b67ea7f1f1b00b96e08f269b0c6f97078e42476d65ebd212a",
+    "normalized_content_hash": "sha256:a91009ae91fd0504ad8b808d921a71a69e2ea73eb10012905d9500bc2f5e7a4c"
+  },
+  "provenance": {
+    "source_item_id": "16ff7f80-7ec0-44a6-b066-35d675319065",
+    "external_id": "https://cactuscompute.com/blog/parakeet"
+  }
+}

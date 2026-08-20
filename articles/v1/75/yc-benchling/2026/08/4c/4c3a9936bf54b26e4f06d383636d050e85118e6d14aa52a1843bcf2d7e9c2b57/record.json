@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c3a9936bf54b26e4f06d383636d050e85118e6d14aa52a1843bcf2d7e9c2b57",
+  "company": {
+    "key": "yc-benchling",
+    "name": "Benchling"
+  },
+  "source": {
+    "id": "yc-benchling-rss-dcbca8149e4b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.benchling.com/blog/can-llms-work-in-the-wet-lab",
+    "canonical": "https://www.benchling.com/blog/can-llms-work-in-the-wet-lab"
+  },
+  "title": "Can LLMs work in the wet lab?",
+  "summary": "Benchling published BenchBench-Protocol, a benchmark testing if LLMs can troubleshoot wet lab protocols like expert scientists. Top models still miss the practical judgment lab work requires, showing a real gap between knowing biology and doing it.",
+  "published_at": "2026-08-13T07:00:00+00:00",
+  "first_seen_at": "2026-08-14T07:08:34.320153+00:00",
+  "fetched_at": "2026-08-14T07:08:38.831109+00:00",
+  "last_updated_at": "2026-08-20T01:52:40.863433+00:00",
+  "paths": {
+    "article": "articles/v1/75/yc-benchling/2026/08/4c/4c3a9936bf54b26e4f06d383636d050e85118e6d14aa52a1843bcf2d7e9c2b57/article.md",
+    "record": "articles/v1/75/yc-benchling/2026/08/4c/4c3a9936bf54b26e4f06d383636d050e85118e6d14aa52a1843bcf2d7e9c2b57/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4582,
+    "sha256": "sha256:202cf5fc88195dadf421d8a74331249a8d02091c79797649d31323d44bef59ef",
+    "normalized_content_hash": "sha256:e258c4f69e0793bd6e2ee82f28b9d2f54e02767c11950cbca95f79810e8d860f"
+  },
+  "provenance": {
+    "source_item_id": "32be9a57-b4ff-4f66-a5cb-9bbeab55ebec",
+    "external_id": "https://www.benchling.com/blog/can-llms-work-in-the-wet-lab"
+  }
+}

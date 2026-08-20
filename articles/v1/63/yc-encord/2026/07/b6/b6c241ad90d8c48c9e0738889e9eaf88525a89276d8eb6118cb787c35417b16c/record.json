@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6c241ad90d8c48c9e0738889e9eaf88525a89276d8eb6118cb787c35417b16c",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/video-annotation-workflow/",
+    "canonical": "https://encord.com/blog/video-annotation-workflow/"
+  },
+  "title": "How to annotate video for machine learning: A Step-by-Step workflow",
+  "summary": "TL;DR: Video annotation for ML requires a workflow built around time, not just labels: define a taxonomy mapped to your model architecture, trac",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:06:14.355617+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-18T05:35:22.601445+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/b6/b6c241ad90d8c48c9e0738889e9eaf88525a89276d8eb6118cb787c35417b16c/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/b6/b6c241ad90d8c48c9e0738889e9eaf88525a89276d8eb6118cb787c35417b16c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18538,
+    "sha256": "sha256:df9dba279cd83cb0ca9027a8c708612e0ad4857a3d99ab87a35209aa4af55711",
+    "normalized_content_hash": "sha256:0ebc6cba6cba89c4d5957f436e03e587a7d2f45d65eeccb87687adbd6e6e8dfc"
+  },
+  "provenance": {
+    "source_item_id": "f4321ab8-595a-44d3-a2fd-cdc16296a26c",
+    "external_id": "https://encord.com/blog/video-annotation-workflow/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-jetlenses",
+    "name": "Verse Medical"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-03-19T15:47:20.376+00:00",
+  "last_published_at": "2026-03-19T15:47:26.283+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/41/yc-jetlenses/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3366,
+        "sha256": "sha256:7c5042572cddd87d40fb5b28464ce0712b87657ff52d22def23f917d277974d7",
+        "newest_at": "2026-03-19T15:47:26.283+00:00",
+        "oldest_at": "2026-03-19T15:47:20.376+00:00"
+      }
+    ]
+  }
+}

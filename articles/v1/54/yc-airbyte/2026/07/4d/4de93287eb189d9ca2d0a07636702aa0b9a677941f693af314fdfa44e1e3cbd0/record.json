@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4de93287eb189d9ca2d0a07636702aa0b9a677941f693af314fdfa44e1e3cbd0",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/direct-loading-on-certified-destinations",
+    "canonical": "https://airbyte.com/blog/direct-loading-on-certified-destinations"
+  },
+  "title": "Direct Loading Now Available For All Certified Destinations",
+  "summary": "Airbyte now supports Direct Loading for all certified destinations, helping teams simplify data movement and load data faster into trusted destinations.",
+  "published_at": "2026-07-07T18:13:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-18T04:59:42.856577+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/07/4d/4de93287eb189d9ca2d0a07636702aa0b9a677941f693af314fdfa44e1e3cbd0/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/07/4d/4de93287eb189d9ca2d0a07636702aa0b9a677941f693af314fdfa44e1e3cbd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6506,
+    "sha256": "sha256:4f93b32e9d84f04af382cfca6b6e14172729bd69bdc2e9f7b5968f6afef4b51a",
+    "normalized_content_hash": "sha256:346c0183cd3863cd1f2a9b3157aaf11faaae1ace865378ed5ed08ac2a024be24"
+  },
+  "provenance": {
+    "source_item_id": "b778c9d3-f7d4-4eee-9a95-f2eb21d8ea83",
+    "external_id": "https://airbyte.com/blog/direct-loading-on-certified-destinations"
+  }
+}

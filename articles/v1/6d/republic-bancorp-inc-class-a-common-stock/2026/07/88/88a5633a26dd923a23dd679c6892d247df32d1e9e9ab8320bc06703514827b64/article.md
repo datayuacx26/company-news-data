@@ -1,0 +1,1632 @@
+---
+schema_version: "1.0.0"
+document_id: "88a5633a26dd923a23dd679c6892d247df32d1e9e9ab8320bc06703514827b64"
+company_key: "republic-bancorp-inc-class-a-common-stock"
+company: "Republic Bancorp Inc."
+source_id: "republic-bancorp-inc-class-a-common-stock-rss-d1197049dfae"
+canonical_url: "https://republicbank.q4ir.com/news-events/press-releases/news-details/2026/Republic-Bancorp-Reports-Solid-Second-Quarter-Results-Highlighted-by-Continued-Strong-Core-Bank-Net-Interest-Income-Expansion/default.aspx"
+published_at: "2026-07-24T12:00:00+00:00"
+first_seen_at: "2026-07-25T21:09:19.226447+00:00"
+fetched_at: "2026-07-28T21:49:03.166047+00:00"
+content_hash: "sha256:33f59701857c8268d53644c10653ddd6550a1e9c67950a8a6266208ec4d45073"
+---
+
+# Republic Bancorp Reports Solid Second Quarter Results Highlighted by Continued Strong Core Bank Net Interest Income Expansion
+
+IR Menu
+
+
+Entire IR Site Documents Press Releases
+
+
+## Press Release
+
+
+### Republic Bancorp Reports Solid Second Quarter Results Highlighted by Continued Strong Core Bank Net Interest Income Expansion
+
+
+Company Release - 7/24/2026 8:00 AM ET
+
+
+Download the PDF version PDF Format (opens in new window)
+
+
+LOUISVILLE, Ky.--(BUSINESS WIRE)--
+
+
+[Republic Bancorp, Inc.](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.republicbank.com%2Fabout-us%2F&esheet=54575265&newsitemid=20260724090619&lan=en-US&anchor=Republic+Bancorp%2C+Inc.&index=1&md5=92013d45b13cbc1d36a6ab79f73a95e4) **** (“Republic” or the “Company”) reported second quarter 2026 net income and Diluted Earnings per Class A Common Share (“Diluted EPS”) of $32.9 million and $1.68 per share, representing increases of 4% over the $31.5 million and $1.61 per share reported for the second quarter of 2025. As a result, the Company achieved a return on average assets (“ROA”) and a return on average equity (“ROE”) of 1.88% and 11.42% for the second quarter of 2026.
+
+
+**Logan Pichel, President and Chief Executive Officer of the Bank, commented** , “We delivered the strongest second-quarter results in Company history, substantially driven by the continued strength of our Core Bank **(1)** franchise. Traditional Banking **(1)** loans grew $59 million during the quarter, marking our strongest quarterly loan growth in nearly three years and reflecting the success of our relationship-based lending strategy, disciplined execution across our markets, and healthy demand across key lending categories.
+
+
+Despite the headwinds of a 75 basis point decline in the Federal Funds Target Rate (“FFTR”) over the past 12 months, our Core Bank’s net interest income increased $4.2 million, or 7%, compared to the second quarter of 2025. Over this same time frame, our Core Bank’s net interest margin expanded 30 basis points to a near-record 4.02%, driven by notably lower funding costs, a favorable shift in average interest-earning assets, disciplined loan and deposit pricing, and proactive balance sheet management. Meanwhile, Core Bank credit quality remained strong, and disciplined expense management continued to support our performance.
+
+
+During June, we successfully launched a new Republic Payment Solutions (“RPS”) **(1)** program after several years of cross-functional planning and execution. This program is expected to contribute over $150 million of lower-cost, average deposits during the remainder of 2026, strengthening liquidity, enhancing funding diversification, improving our loan-to-deposit ratio, and generating additional fee income. This launch represents a meaningful strategic achievement and demonstrates our ability to leverage our payment platforms to support long-term balance sheet growth.
+
+
+Beyond our strong financial performance, we were honored to receive the **Raymond James Community Bankers Cup** for the second consecutive year. This prestigious recognition highlights the nation’s top-performing community banks based on profitability, operational efficiency, and balance sheet strength. We were also named **to Forbes’ World’s Best Banks** list during the second quarter, an honor based on an independent survey of more than 54,000 consumers across 34 countries that measures trust, customer service, digital capabilities, and financial advice. Among thousands of financial institutions evaluated worldwide, Republic was one of only 72 U.S. banks included on the list.
+
+
+These recognitions reflect the dedication of our associates, the loyalty of our clients, and our commitment to disciplined execution. Since our founding, we have remained focused on delivering sophisticated financial solutions while preserving the relationship-driven, community-focused approach that defines Republic. We believe these honors validate our strategy and underscore the strength of our franchise. As we move through the remainder of 2026, we remain focused on disciplined growth, operational excellence, and creating long-term value for our shareholders,” concluded Pichel.
+
+
+The following table highlights key metrics for the three and six months ended June 30, 2026 and 2025. Additional financial information, including segment-level results, is provided in the financial supplement accompanying this release. *The digital version of this release includes the supplement as an appendix, and it is also available as Exhibit 99.2 to the Company’s Form 8-K filed with the SEC on July 24, 2026.*
+
+
+**Total Company Financial Performance Highlights**
+
+
+**Total Company Financial Performance Highlights**
+
+
+**Three Months Ended Jun. 30,**
+
+
+**$**
+
+
+**%**
+
+
+**Six Months Ended Jun. 30,**
+
+
+**$**
+
+
+**%**
+
+
+***(dollars in thousands, except per share data)***
+
+
+**2026**
+
+
+**2025**
+
+
+**Change**
+
+
+**Change**
+
+
+**2026**
+
+
+**2025**
+
+
+**Change**
+
+
+**Change**
+
+
+Income Before Income Tax Expense
+
+
+$
+
+
+42,550
+
+
+$
+
+
+40,390
+
+
+$
+
+
+2,160
+
+
+5
+
+
+%
+
+
+$
+
+
+97,935
+
+
+$
+
+
+100,352
+
+
+$
+
+
+(2,417
+
+
+)
+
+
+(2
+
+
+)
+
+
+%
+
+
+Net Income
+
+
+32,866
+
+
+31,484
+
+
+1,382
+
+
+4
+
+
+75,435
+
+
+78,752
+
+
+(3,317
+
+
+)
+
+
+(4
+
+
+)
+
+
+Diluted EPS
+
+
+1.68
+
+
+1.61
+
+
+0.07
+
+
+4
+
+
+3.85
+
+
+4.03
+
+
+(0.18
+
+
+)
+
+
+(4
+
+
+)
+
+
+Return on Average Assets ("ROA")
+
+
+1.88
+
+
+%
+
+
+1.79
+
+
+%
+
+
+NA
+
+
+5
+
+
+2.14
+
+
+%
+
+
+2.21
+
+
+%
+
+
+NA
+
+
+(3
+
+
+)
+
+
+Return on Average Equity ("ROE")
+
+
+11.42
+
+
+11.96
+
+
+NA
+
+
+(5
+
+
+)
+
+
+13.32
+
+
+15.28
+
+
+NA
+
+
+(13
+
+
+)
+
+
+**Results of Operations for the Second quarter of 2026 Compared to the Second quarter of 2025**
+
+
+**Core Bank(1)**
+
+
+Net income for the Core Bank totaled $22.8 million for the second quarter of 2026, an increase of $4.1 million, or 22%, from $18.7 million in the second quarter of 2025. Results were driven by strong net interest income growth, a lower provision for credit losses, fee-based revenue growth and continued disciplined expense management.
+
+
+*Net Interest Income* – Core Bank net interest income increased $4.2 million, or 7%, to $64.1 million for the second quarter of 2026 from $59.9 million for the second quarter of 2025. The primary driver for the 30 basis point increase in the Core Bank’s net interest margin from the second quarter of 2025 to the second quarter of 2026 was a favorable 49 basis point decline in the Core Bank’s cost of interest bearing liabilities.
+
+
+Significant factors impacting Core Bank net interest income and net interest margin between the second quarter of 2026 and the second quarter of 2025 were as follows:
+
+
+**Interest-Earning Assets**
+
+
+- **Core Bank average interest-earning cash** declined to $257 million with a weighted-average yield of 3.74% during the second quarter of 2026, compared to $623 million with a yield of 4.45% during the second quarter of 2025. The decline in average interest-earning cash balances reflected the strategic deployment of excess liquidity into loan growth and longer-duration investment securities, which provided more attractive yields than overnight liquidity alternatives tied to the FFTR.
+- **Core Bank average investments** increased to $912 million with a weighted-average yield of 4.15% during the second quarter of 2026, compared to $686 million with a yield of 3.71% during the second quarter of 2025 due to the previously referenced redeployment of interest-earning cash.
+- **Traditional Banking average loans** increased $59 million to $4.65 billion with a weighted-average yield of 5.66% during the second quarter of 2026, compared to $4.59 billion with a yield of 5.69% during the second quarter of 2025.
+
+
+Period-over-period comparisons of average loan balances and yields were negatively impacted by the sale of approximately $82 million of loans and lease financing receivables during the first quarter of 2026. These loans were transferred from held for investment to held for sale in December 2025 and contributed an estimated 5 basis points to the Traditional Banking loan portfolio yield during the second quarter of 2025.
+
+
+Despite a 75 basis point decline in the FFTR over the past 12 months, strong new loan production, continued redeployment of cash flows from lower-yielding loan runoff into higher-yielding originations, and a favorable shift toward higher-spread lending categories largely offset the impact of lower market interest rates on loan portfolio yields.
+- **Average outstanding Warehouse(1) lines of credit** increased $13 million, or 2%, to $580 million during the second quarter of 2026 from $567 million during the second quarter of 2025, while the weighted-average yield declined 61 basis points to 6.33%. Average committed Warehouse lines increased from $995 million to $1.17 billion over the same period, reflecting continued growth in customer relationships. Average utilization moderated from 57% to 50%, as growth in commitments outpaced growth in outstanding balances.
+
+
+**Funding Liabilities (Deposits and Borrowings)**
+
+
+As it relates to the Core Bank’s decline in interest expense and reduction in the cost of interest-bearing liabilities:
+
+
+- The weighted-average cost of Core Bank total interest-bearing deposits decreased 36 basis points to 1.98% during the second quarter of 2026 from 2.34% during the second quarter of 2025, while total average interest-bearing deposit balances increased $96 million, or 3%. Average balances benefited from a $235 million combined increase in money market and time deposit accounts, partially offset by a $139 million decline in brokered deposits, reciprocal deposits, and interest-bearing transaction accounts. Disciplined deposit pricing initiatives and a favorable shift in funding mix drove a meaningful reduction in the overall cost of interest-bearing deposits.
+- Average Federal Home Loan Bank (“FHLB”) advances declined $211 million from the second quarter of 2025 to the second quarter of 2026, while the weighted-average cost decreased 26 basis points to 4.09%. During the second quarter of 2026, the Core Bank began realizing the benefit of the March 2026 prepayment of $220 million of higher-cost FHLB advances, which carried a weighted-average rate of 4.57%. The prepayment contributed to lower net funding costs and further supported net interest margin expansion during the quarter.
+
+
+The following tables present, by reportable segment, the key drivers of Core Bank performance, including net interest income, net interest margin, and average and period-end loan balances for the periods presented.
+
+
+**Net Interest Income**
+
+
+**Net Interest Margin**
+
+
+***(dollars in thousands)***
+
+
+**Three Months Ended Jun. 30,**
+
+
+**Three Months Ended Jun. 30,**
+
+
+**Reportable Segment**
+
+
+**2026**
+
+
+**2025**
+
+
+**$ Change**
+
+
+**2026**
+
+
+**2025**
+
+
+**% Change**
+
+
+Traditional Banking
+
+
+$
+
+
+60,375
+
+
+$
+
+
+56,380
+
+
+$
+
+
+3,995
+
+
+4.16
+
+
+%
+
+
+3.84
+
+
+%
+
+
+0.32
+
+
+%
+
+
+Warehouse Lending
+
+
+3,744
+
+
+3,549
+
+
+195
+
+
+2.59
+
+
+2.51
+
+
+0.08
+
+
+Total Core Bank
+
+
+$
+
+
+64,119
+
+
+$
+
+
+59,929
+
+
+$
+
+
+4,190
+
+
+4.02
+
+
+3.72
+
+
+0.30
+
+
+**Average Loan Balances**
+
+
+**Period-End Loan Balances**
+
+
+***(dollars in thousands)***
+
+
+**Three Months Ended Jun. 30,**
+
+
+**Jun. 30,**
+
+
+**Jun. 30,**
+
+
+**Reportable Segment**
+
+
+**2026**
+
+
+**2025**
+
+
+**$ Change**
+
+
+**% Change**
+
+
+**2026**
+
+
+**2025**
+
+
+**$ Change**
+
+
+**% Change**
+
+
+Traditional Banking
+
+
+$
+
+
+4,646,612
+
+
+$
+
+
+4,587,342
+
+
+$
+
+
+59,270
+
+
+1
+
+
+%
+
+
+$
+
+
+4,655,509
+
+
+$
+
+
+4,582,152
+
+
+$
+
+
+73,357
+
+
+2
+
+
+%
+
+
+Warehouse Lending
+
+
+580,065
+
+
+566,707
+
+
+13,358
+
+
+2
+
+
+614,696
+
+
+671,773
+
+
+(57,077
+
+
+)
+
+
+(8
+
+
+)
+
+
+Total Core Bank
+
+
+$
+
+
+5,226,677
+
+
+$
+
+
+5,154,049
+
+
+$
+
+
+72,628
+
+
+1
+
+
+$
+
+
+5,270,205
+
+
+$
+
+
+5,253,925
+
+
+$
+
+
+16,280
+
+
+-
+
+
+*Provision for Expected Credit Losses* (2) – The Core Bank’s Provision was a net credit of $181,000 for the second quarter of 2026 compared to a net charge of $772,000 for the second quarter of 2025.
+
+
+The net credit of $181,000 for the second quarter of 2026 was driven by the following:
+
+
+- The Traditional Banking segment **** recorded a net credit to the Provision of $143,000 during the second quarter of 2026. While period-end loan balances grew $59 million during the quarter, provision expense benefited from a favorable shift in portfolio composition. Specifically, construction and land development balances, which carry higher reserve requirements than most other Core Bank lending categories, declined $30 million, as projects progressed and balances primarily migrated into the commercial real estate portfolio. This shift reduced reserve requirements and contributed meaningfully to the quarter’s provision benefit.
+- Warehouse Lending recorded a net credit to the Provision of $38,000 for the second quarter of 2026 resulting from general formula reserves applied to a $15 million, or 2%, decrease in the outstanding Warehouse period-end balances for the period.
+
+
+The net charge of $772,000 for the second quarter of 2025 was driven by the following:
+
+
+- The Traditional Banking segment recorded a net charge to the Provision of $517,000 during the second quarter of 2025 related to a change in loan mix toward loans with higher formula reserve requirements in addition to $313,000 in net charge-offs. While Traditional Banking loan balances increased only $16 million during the second quarter of 2025, the growth occurred in categories with higher loan loss reserve requirements.
+- Warehouse Lending recorded a net charge to the Provision of $255,000 for the second quarter of 2025 resulting from general formula reserves applied to a $102 million increase in the outstanding Warehouse period-end balances.
+
+
+As a percentage of total loans, the Core Bank’s Allowance(2) increased 8 basis points from June 30, 2025, to June 30, 2026. The table below provides a view of the Company’s percentage of Allowance-to-total-loans by reportable segment.
+
+
+**As of Jun. 30, 2026**
+
+
+**As of Jun. 30, 2025**
+
+
+**Year-over-Year Change**
+
+
+***(dollars in thousands)***
+
+
+**Allowance**
+
+
+**Allowance**
+
+
+**Allowance**
+
+
+**Reportable Segment**
+
+
+**Gross Loans**
+
+
+**Allowance**
+
+
+**to Loans**
+
+
+**Gross Loans**
+
+
+**Allowance**
+
+
+**to Loans**
+
+
+**to Loans**
+
+
+**% Change**
+
+
+Traditional Banking
+
+
+$
+
+
+4,655,509
+
+
+$
+
+
+63,806
+
+
+1.37
+
+
+%
+
+
+$
+
+
+4,582,152
+
+
+$
+
+
+59,055
+
+
+1.29
+
+
+%
+
+
+0.08
+
+
+%
+
+
+6
+
+
+%
+
+
+Warehouse Lending
+
+
+614,696
+
+
+1,533
+
+
+0.25
+
+
+671,773
+
+
+1,676
+
+
+0.25
+
+
+—
+
+
+—
+
+
+**Total Core Bank**
+
+
+5,270,205
+
+
+65,339
+
+
+1.24
+
+
+5,253,925
+
+
+60,731
+
+
+1.16
+
+
+0.08
+
+
+7
+
+
+Tax Refund Solutions
+
+
+156
+
+
+1
+
+
+0.64
+
+
+95
+
+
+—
+
+
+—
+
+
+0.64
+
+
+—
+
+
+Republic Credit Solutions
+
+
+140,045
+
+
+22,427
+
+
+16.01
+
+
+119,000
+
+
+21,029
+
+
+17.67
+
+
+(1.66
+
+
+)
+
+
+(9
+
+
+)
+
+
+**Total Republic Processing Group**
+
+
+140,201
+
+
+22,428
+
+
+16.00
+
+
+119,095
+
+
+21,029
+
+
+17.66
+
+
+(1.66
+
+
+)
+
+
+(9
+
+
+)
+
+
+**Total Company**
+
+
+$
+
+
+5,410,406
+
+
+$
+
+
+87,767
+
+
+1.62
+
+
+%
+
+
+$
+
+
+5,373,020
+
+
+$
+
+
+81,760
+
+
+1.52
+
+
+%
+
+
+0.10
+
+
+%
+
+
+7
+
+
+%
+
+
+**Allowance for Credit Losses on Loans Roll-Forward**
+
+
+**Three Months Ended June 30,**
+
+
+**2026**
+
+
+**2025**
+
+
+***(in thousands)***
+
+
+**Beginning**
+
+
+**Charge-**
+
+
+**Ending**
+
+
+**Beginning**
+
+
+**Charge-**
+
+
+**Ending**
+
+
+**Reportable Segment**
+
+
+**Balance**
+
+
+**Provision**
+
+
+**offs**
+
+
+**Recoveries**
+
+
+**Balance**
+
+
+**Balance**
+
+
+**Provision**
+
+
+**offs**
+
+
+**Recoveries**
+
+
+**Balance**
+
+
+Traditional Banking
+
+
+$
+
+
+64,041
+
+
+$
+
+
+(143
+
+
+)
+
+
+$
+
+
+(360
+
+
+)
+
+
+$
+
+
+268
+
+
+$
+
+
+63,806
+
+
+$
+
+
+58,851
+
+
+$
+
+
+517
+
+
+$
+
+
+(470
+
+
+)
+
+
+$
+
+
+157
+
+
+$
+
+
+59,055
+
+
+Warehouse Lending
+
+
+1,571
+
+
+(38
+
+
+)
+
+
+—
+
+
+—
+
+
+1,533
+
+
+1,421
+
+
+255
+
+
+—
+
+
+—
+
+
+1,676
+
+
+**Total Core Bank**
+
+
+65,612
+
+
+(181
+
+
+)
+
+
+(360
+
+
+)
+
+
+268
+
+
+65,339
+
+
+60,272
+
+
+772
+
+
+(470
+
+
+)
+
+
+157
+
+
+60,731
+
+
+Tax Refund Solutions
+
+
+6,344
+
+
+(1,046
+
+
+)
+
+
+(6,439
+
+
+)
+
+
+1,142
+
+
+1
+
+
+25,981
+
+
+(3,932
+
+
+)
+
+
+(25,059
+
+
+)
+
+
+3,010
+
+
+—
+
+
+Republic Credit Solutions
+
+
+19,884
+
+
+6,384
+
+
+(4,244
+
+
+)
+
+
+403
+
+
+22,427
+
+
+20,050
+
+
+4,983
+
+
+(4,384
+
+
+)
+
+
+380
+
+
+21,029
+
+
+**Total Republic Processing Group**
+
+
+26,228
+
+
+5,338
+
+
+(10,683
+
+
+)
+
+
+1,545
+
+
+22,428
+
+
+46,031
+
+
+1,051
+
+
+(29,443
+
+
+)
+
+
+3,390
+
+
+21,029
+
+
+**Total Company**
+
+
+$
+
+
+91,840
+
+
+$
+
+
+5,157
+
+
+$
+
+
+(11,043
+
+
+)
+
+
+$
+
+
+1,813
+
+
+$
+
+
+87,767
+
+
+$
+
+
+106,303
+
+
+$
+
+
+1,823
+
+
+$
+
+
+(29,913
+
+
+)
+
+
+$
+
+
+3,547
+
+
+$
+
+
+81,760
+
+
+The table below presents the Core Bank’s credit quality metrics:
+
+
+**Quarters Ended:**
+
+
+**Years Ended:**
+
+
+**Jun. 30,**
+
+
+**Jun. 30,**
+
+
+**Dec. 31,**
+
+
+**Dec. 31,**
+
+
+**Dec. 31,**
+
+
+**Core Banking Credit Quality Ratios**
+
+
+**2026**
+
+
+**2025**
+
+
+**2025**
+
+
+**2024**
+
+
+**2023**
+
+
+Nonperforming loans to total loans
+
+
+0.58
+
+
+%
+
+
+0.41
+
+
+%
+
+
+0.45
+
+
+%
+
+
+0.44
+
+
+%
+
+
+0.39
+
+
+%
+
+
+Nonperforming assets to total loans (including OREO)
+
+
+0.60
+
+
+0.43
+
+
+0.47
+
+
+0.46
+
+
+0.41
+
+
+Delinquent loans* to total loans
+
+
+0.35
+
+
+0.19
+
+
+0.26
+
+
+0.20
+
+
+0.16
+
+
+Net charge-offs to average loans
+
+
+0.01
+
+
+0.02
+
+
+0.03
+
+
+0.05
+
+
+0.01
+
+
+(Quarterly rates annualized)
+
+
+*OREO = Other Real Estate Owned*
+
+
+**Loans 30-days-or-more past due at the time the second contractual payment is past due.*
+
+
+*Noninterest Income* – Core Bank noninterest income increased $796,000, or 8%, to $11.3 million for the second quarter of 2026 from $10.5 million for the second quarter of 2025.
+
+
+- Service charges on deposits increased $562,000, or 16%, and were the largest contributor to the increase in noninterest income, driven primarily by higher activity-based fee volumes, particularly insufficient funds fees.
+- Interchange income increased $433,000 compared to the second quarter of 2025, primarily due to a $454,000 favorable adjustment to credit and debit card rewards accruals recorded during the second quarter of 2026. The adjustment aligned the Core Bank’s estimated rewards liability with expected payouts under its new rewards programs.
+- Other income decreased $236,000, primarily due to a nonrecurring $328,000 net gain recognized from the sale of the Bank’s consumer credit card portfolio during the second quarter of 2025.
+
+
+*Noninterest Expense* – Core Bank noninterest expenses were $45.9 million for the second quarter of 2026, an increase of $281,000, or 1%, from the second quarter of 2025. The most notable change in noninterest expense from the second quarter of 2025 to the second quarter of 2026 was a $224,000 increase in the marketing and development expense attributable to the Bank’s branding initiative launched in mid-2025. Despite this investment, overall noninterest expense growth remained modest, helping support the Core Bank's strong profitability during the quarter.
+
+
+**Republic Processing Group(1)**
+
+
+RPG reported net income of $10.1 million for the second quarter of 2026, compared with net income of $12.8 million for the second quarter of 2025. Results by RPG operating segment were as follows:
+
+
+***Tax Refund Solutions* (1)**
+
+
+The TRS segment derives substantially all of its revenues during the first and second quarters of each year.
+
+
+TRS reported net income of $1.7 million for the second quarter of 2026, compared with $3.3 million for the same period in 2025. The decline in net income was primarily attributable to a $2.9 million less favorable provision benefit compared to the second quarter of 2025.
+
+
+During the second quarter of each year, the Company charges off all remaining unpaid Refund Advances (“RAs”). While charge-offs during both the second quarters of 2025 and 2026 were favorably lower than the preliminary loan loss reserves established in the preceding first quarters, the Company’s reserve estimate for the 2026 tax season proved more precise. This improved accuracy was largely attributable to the nonrenewal of a major Tax Provider contract that drove significant RA volume during the 2025 tax season and historically contributed greater variability to credit loss estimates.
+
+
+***Republic Payment Solutions***
+
+
+RPS reported net income of $1.9 million for the second quarter of 2026, compared with $2.4 million for the same period in 2025. The decline in net income was driven primarily by lower net interest income, reflecting a lower applied yield earned on the segment’s average deposit balances. The lower yield primarily resulted from the 75 basis point decline in the FFTR between the second quarters of 2025 and 2026. As a result, RPS earned a yield of 3.67% on average deposit balances of $370 million during the second quarter of 2026, compared with a yield of 4.28% on average deposit balances of $350 million during the second quarter of 2025.
+
+
+***Republic Credit Solutions* (1)**
+
+
+RCS reported net income of $6.4 million for the second quarter of 2026, a decrease of $655,000, or 9%, from $7.0 million for the second quarter of 2025. Growth in RCS net interest income and program fees was more than offset by higher provision expense and noninterest expenses.
+
+
+Net interest income and program fees benefited from strong origination growth across both RCS line of credit (“LOC”) products and the segment’s installment loan program. However, provision expense increased specifically due to growth in the segment’s LOC II product, which carries substantially higher provisioning requirements than the segment’s other lending products.
+
+
+Noninterest expense also increased during the quarter, driven primarily by higher marketing costs. Comparisons to the prior-year period were further impacted by a $763,000 reimbursement recognized during the second quarter of 2025 related to the resolution of a prior-period billing dispute. As a result, the combined impact of higher provision and operating expenses more than offset the benefit of revenue growth, resulting in lower net income for the quarter.
+
+
+*Republic Bancorp, Inc. (the “Company”) is the parent company of Republic Bank & Trust Company (the “Bank”). The Bank currently operates 47 banking centers within five metropolitan statistical areas (“MSAs”) across five states: 22 banking centers in the Louisville MSA, serving Louisville, Prospect, Shelbyville, and Shepherdsville, Kentucky, and Floyds Knobs, Jeffersonville, and New Albany, Indiana; six banking centers in the Lexington MSA, serving Georgetown and Lexington, Kentucky; eight banking centers in the Cincinnati MSA, serving Cincinnati and West Chester, Ohio, and Bellevue, Covington, Crestview Hills, and Florence, Kentucky; seven banking centers in the Tampa MSA, serving Largo, New Port Richey, St. Petersburg, Seminole, and Tampa, Florida; and four banking centers in the Nashville MSA, serving Franklin, Murfreesboro, Nashville, and Spring Hill, Tennessee. The Bank also offers online banking at[www.republicbank.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.republicbank.com&esheet=54575265&newsitemid=20260724090619&lan=en-US&anchor=www.republicbank.com&index=2&md5=885c0d03f68345f061bc1fca0e02ccd3) . The Company is headquartered in Louisville, Kentucky and, as of June 30, 2026, had approximately $7.06 billion in total assets. The Company’s Class A Common Stock is listed on the NASDAQ Global Select Market under the symbol “RBCAA.”*
+
+
+**Republic Bank. Time to Thrive.** ™
+
+
+***Forward-Looking Statements***
+
+
+*This press release contains certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. The forward-looking statements in the preceding paragraphs are based on our current expectations and assumptions regarding our business, the future average balances of the new RPS program launched during June 2026, the future impact to our balance sheet and income statement resulting from changes in interest rates, the yield curve, the ability to develop products and strategies in order to meet the Company’s long-term strategic goals and other future conditions.*
+
+
+*Because forward-looking statements relate to future events, they are subject to inherent uncertainties, risks, and changes in circumstances that are difficult to predict. Actual results may differ materially from those expressed or implied by these forward-looking statements. Accordingly, readers are cautioned not to place undue reliance on such statements. Forward-looking statements are neither historical facts nor guarantees of future performance.*
+
+
+*Factors that could cause actual results to differ materially from those described in forward-looking statements are discussed in the Company's filings with the U.S. Securities and Exchange Commission, including the Risk Factors section of the Company's Annual Report on Form 10-K for the year ended December 31, 2025. The Company undertakes no obligation to update any forward-looking statement, except as required by applicable law.*
+
+
+**Footnotes:**
+
+
+*(1)*
+
+
+*The Company is divided into five reportable segments: Traditional Banking, Warehouse Lending, Tax Refund (“TRS”), Republic Payment Solutions (“RPS”), and Republic Credit Solutions (“RCS”). Management considers Traditional Banking and Warehouse Lending to collectively constitute “Core Bank” or “Core Banking” operations, while TRS, RPS, and RCS collectively constitute Republic Processing Group (“RPG”) operations.*
+
+
+*(2)*
+
+
+*Provision or Provision for expected credit loss expense includes provisions for on-balance-sheet loans, with changes reflected in the Allowance, or Allowance for credit losses. Provision expense for off-balance-sheet credit exposures is recorded as a component of other noninterest expense, with changes reflected in the Allowance for credit losses on off-balance-sheet credit exposures, which is included in other liabilities on the Company’s balance sheet.*
+
+
+*NM – Not meaningful*
+
+
+*NA – Not applicable*
+
+
+Republic Bancorp, Inc.
+Kevin Sipes
+Executive Vice President & Chief Financial Officer
+(502) 560-8628
+
+
+Source: Republic Bancorp, Inc.
+
+
+Company's logo
+
+
+2954 x 1221
+
+
+jpg
+
+
+488 KB
+
+
+Download:
+
+
+[Download original jpg 488 KB 2954 x 1221](https://s26.q4cdn.com/821943881/files/doc_multimedia/2026/7/1011348919/Republic_Bancorp_Logo.jpg)
+
+
+Copyright
+
+
+,
+
+
+[© Powered By Q4 Inc.](http://q4inc.com/Powered-by-Q4/)

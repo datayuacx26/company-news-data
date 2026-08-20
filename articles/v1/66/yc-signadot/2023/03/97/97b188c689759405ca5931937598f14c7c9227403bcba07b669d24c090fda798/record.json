@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97b188c689759405ca5931937598f14c7c9227403bcba07b669d24c090fda798",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/new-framework-for-ephemeral-resources/",
+    "canonical": "https://www.signadot.com/blog/new-framework-for-ephemeral-resources/"
+  },
+  "title": "A New Framework for Ephemeral Resources",
+  "summary": "Signadot's new framework for managing ephemeral resources in sandboxes addresses the challenges of data isolation in microservices testing. The post details the evolution of the framework based on user feedback and the enhancements in the latest version.",
+  "published_at": "2023-03-30T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/03/97/97b188c689759405ca5931937598f14c7c9227403bcba07b669d24c090fda798/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/03/97/97b188c689759405ca5931937598f14c7c9227403bcba07b669d24c090fda798/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7130,
+    "sha256": "sha256:7c0dfc2602e70b6d3adde4f661af7d05bc942447438537045b212085662ae9b6",
+    "normalized_content_hash": "sha256:4c007e249d0f4ff3d02d54fce5b2cf6db3bbabc5e1140e40fe005754b046c56b"
+  },
+  "provenance": {
+    "source_item_id": "bd4f186f-246c-4310-9539-36c72d99c0a0",
+    "external_id": "https://www.signadot.com/blog/new-framework-for-ephemeral-resources/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6c6b9edeec67e8cfb98076b28f73833cabd2be9d21dae80f0b904797b44ea1e9",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-arm",
+    "canonical": "https://depot.dev/blog/docker-arm"
+  },
+  "title": "Faster Docker builds for Arm without emulation",
+  "summary": "Building Docker Arm images today usually means using emulation. But, it's slow and inefficient. See how to build multi-architecture images with zero emulation.",
+  "published_at": "2023-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/10/6c/6c6b9edeec67e8cfb98076b28f73833cabd2be9d21dae80f0b904797b44ea1e9/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/10/6c/6c6b9edeec67e8cfb98076b28f73833cabd2be9d21dae80f0b904797b44ea1e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9181,
+    "sha256": "sha256:f0854f14614ad1b7ef9e2844d2d9446fbe9ad554ffc98cdd96d1d6c7823c52fd",
+    "normalized_content_hash": "sha256:ec0eadde5981396cb139a392184f09d0c9a340e997bef854146395689de4ed32"
+  },
+  "provenance": {
+    "source_item_id": "66758f34-90ef-4d13-a263-af12c21b1a7b",
+    "external_id": "https://depot.dev/blog/docker-arm"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afe02c551bbbbc6b4fc92e3e83a0bd9f6e11c9baedf04b1aa3e5545bcb65015e",
+  "company": {
+    "key": "yc-centaur",
+    "name": "Centaur"
+  },
+  "source": {
+    "id": "yc-centaur-news-import-7ab94b327191",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://centaur.ai/post/your-annotation-is-good-enough-for-r-d-but-not-for-the-fda",
+    "canonical": "https://centaur.ai/post/your-annotation-is-good-enough-for-r-d-but-not-for-the-fda"
+  },
+  "title": "Your Annotation is Good Enough for R&D, but not for the FDA.",
+  "summary": "Medical AI annotation pipelines often work well for research but fail under FDA scrutiny. Regulators expect documented multi-expert consensus, transparent disagreement resolution, and full annotation provenance. Workflows that rely on single annotators or simple tiebreakers may produce accurate labels but lack the auditability required for regulatory clearance and clinical deployment.",
+  "published_at": "2026-03-20T04:42:38.540+00:00",
+  "first_seen_at": "2026-07-27T00:36:30.031492+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-08-19T20:56:53.153986+00:00",
+  "paths": {
+    "article": "articles/v1/7b/yc-centaur/2026/03/af/afe02c551bbbbc6b4fc92e3e83a0bd9f6e11c9baedf04b1aa3e5545bcb65015e/article.md",
+    "record": "articles/v1/7b/yc-centaur/2026/03/af/afe02c551bbbbc6b4fc92e3e83a0bd9f6e11c9baedf04b1aa3e5545bcb65015e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3304,
+    "sha256": "sha256:54eac6c6a4749b7c4ed66695d1b96b55495656d64b3d797a27c28f054f57599a",
+    "normalized_content_hash": "sha256:0be76a18c0c8aa4100711cb4bae65b8f329ff3cb0c96f5609610889d1f1253e1"
+  },
+  "provenance": {
+    "source_item_id": "6d331b61-2db2-4ab3-8c07-a15eb5c1d089",
+    "external_id": "https://centaur.ai/post/your-annotation-is-good-enough-for-r-d-but-not-for-the-fda"
+  }
+}

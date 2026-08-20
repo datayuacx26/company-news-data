@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65c28343e2cc8850f31525f74cc4dbfa398e7cc87758ccbc1c4fb1b2c3bac74e",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/environment-replication-doesnt-work-for-microservices/",
+    "canonical": "https://www.signadot.com/blog/environment-replication-doesnt-work-for-microservices/"
+  },
+  "title": "Environment Replication Doesn’t Work for Microservices",
+  "summary": "Dive into the complexities of microservices development in this insightful article from The New Stack. Discover why traditional environment replication strategies fall short for microservices, and explore alternatives like request-level isolation for efficient team collaboration. Learn about the dilemmas faced by large teams with numerous microservices and the pitfalls of over-committing to local replicas. A must-read for platform engineers and DevOps professionals navigating the evolving landscape of microservices architecture.",
+  "published_at": "2023-10-24T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/10/65/65c28343e2cc8850f31525f74cc4dbfa398e7cc87758ccbc1c4fb1b2c3bac74e/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/10/65/65c28343e2cc8850f31525f74cc4dbfa398e7cc87758ccbc1c4fb1b2c3bac74e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13242,
+    "sha256": "sha256:5acaa183b08c2a7dbba183caab42da548471867b5e2126fcdb98eb39c02fe930",
+    "normalized_content_hash": "sha256:65c97f3da5d3248c95502856b3913064c108d65f387fa7c5744ed0c1835be5ba"
+  },
+  "provenance": {
+    "source_item_id": "cbd8b02e-4e06-441a-a8c7-c84d3e7f0efd",
+    "external_id": "https://www.signadot.com/blog/environment-replication-doesnt-work-for-microservices/"
+  }
+}

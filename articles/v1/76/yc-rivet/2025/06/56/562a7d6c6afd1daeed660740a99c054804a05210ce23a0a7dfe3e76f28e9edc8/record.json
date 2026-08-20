@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "562a7d6c6afd1daeed660740a99c054804a05210ce23a0a7dfe3e76f28e9edc8",
+  "company": {
+    "key": "yc-rivet",
+    "name": "Rivet"
+  },
+  "source": {
+    "id": "yc-rivet-news-import-b9b70e7746c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rivet.dev/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust/",
+    "canonical": "https://rivet.dev/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust/"
+  },
+  "title": "2,000x faster route propagation by rewriting our Traefik gateway in Rust",
+  "summary": "Rivet Guard is our gateway service that handles all incoming traffic to the Rivet platform. Its core responsibilities include:",
+  "published_at": "2025-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:03:56.333831+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T03:07:39.236282+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-rivet/2025/06/56/562a7d6c6afd1daeed660740a99c054804a05210ce23a0a7dfe3e76f28e9edc8/article.md",
+    "record": "articles/v1/76/yc-rivet/2025/06/56/562a7d6c6afd1daeed660740a99c054804a05210ce23a0a7dfe3e76f28e9edc8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24860,
+    "sha256": "sha256:1f48545c4dd2eb2680c75de32962fc97eb1c36cc7465ba91e216c0174b7e0e07",
+    "normalized_content_hash": "sha256:26aae1fc71b4531cfe7d1e4594105791d23fa7e595195b79679da46152ad6d06"
+  },
+  "provenance": {
+    "source_item_id": "bce3ce36-caa9-4c66-a4ce-9c724ff4568a",
+    "external_id": "https://rivet.dev/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e241044b5c08a14ceb3bad6f12881eaa45deb2cf20bd272cb8dcf22df939b73c",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/bridging-the-gap-developer-environments-istio-mesh/",
+    "canonical": "https://www.signadot.com/blog/bridging-the-gap-developer-environments-istio-mesh/"
+  },
+  "title": "Bridging the Gap: Developer Environments powered by Istio Mesh",
+  "summary": "Discover how Signadot's latest release enhances developer environments using Istio. Integrate local microservices into a Sandbox for high-fidelity testing within a shared Kubernetes cluster. Learn about the evolution of Sandboxes, data isolation, collaboration features, and the future roadmap for improving the Developer Experience.",
+  "published_at": "2023-08-10T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/08/e2/e241044b5c08a14ceb3bad6f12881eaa45deb2cf20bd272cb8dcf22df939b73c/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/08/e2/e241044b5c08a14ceb3bad6f12881eaa45deb2cf20bd272cb8dcf22df939b73c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5556,
+    "sha256": "sha256:a4248d0311f9e86a99ed78c4e25ffbac6011f28058e732b060d02afd76cc06f9",
+    "normalized_content_hash": "sha256:9435247cb689b113b83d9f1da6d5a4f94664c9a0abf18e6001159c94b34db464"
+  },
+  "provenance": {
+    "source_item_id": "b98f0711-0324-45d8-b0e2-61e2c245482d",
+    "external_id": "https://www.signadot.com/blog/bridging-the-gap-developer-environments-istio-mesh/"
+  }
+}

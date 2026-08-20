@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d868d7bd9fefd0ee159b9591eab3e61fe370990fd89428bb232d386b6c55486c",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-fbbb60f1501e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/post/the-file-system-is-the-sandbox",
+    "canonical": "https://archil.com/post/the-file-system-is-the-sandbox"
+  },
+  "title": "The file system is the sandbox",
+  "summary": "Let's start by thinking about the Ship of Theseus, which asks the question 'if you replace every plank in a ship, at what point does it become a different ship?'. This is kind of hard to answer, but...",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:48.524951+00:00",
+  "fetched_at": "2026-08-09T19:14:50.194785+00:00",
+  "last_updated_at": "2026-08-19T21:00:26.401304+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/d8/d868d7bd9fefd0ee159b9591eab3e61fe370990fd89428bb232d386b6c55486c/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/d8/d868d7bd9fefd0ee159b9591eab3e61fe370990fd89428bb232d386b6c55486c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6109,
+    "sha256": "sha256:197e7fcd88e57d436232a2d6b51a427e6a7a7cdeebe0843c0f6932827fadd18c",
+    "normalized_content_hash": "sha256:bbb88314a10c3349b85c6ecc81ed68b0fd1e8ebb460b569e915e90dd6bf5ce14"
+  },
+  "provenance": {
+    "source_item_id": "c81843aa-0b66-4dc3-922a-f330d9a64ef6",
+    "external_id": "https://archil.com/post/the-file-system-is-the-sandbox"
+  }
+}

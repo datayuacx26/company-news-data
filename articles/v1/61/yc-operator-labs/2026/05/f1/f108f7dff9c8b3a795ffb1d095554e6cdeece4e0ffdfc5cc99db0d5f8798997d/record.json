@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f108f7dff9c8b3a795ffb1d095554e6cdeece4e0ffdfc5cc99db0d5f8798997d",
+  "company": {
+    "key": "yc-operator-labs",
+    "name": "Operator Labs"
+  },
+  "source": {
+    "id": "yc-operator-labs-news-import-4e5219b8eb88",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://operator.io/blog/operator-vs-self-hosting",
+    "canonical": "https://operator.io/blog/operator-vs-self-hosting"
+  },
+  "title": "Operator.io vs self hosting your own AI agent",
+  "summary": "Self hosting means a cheap box, your own model key, and patching the gateway yourself. Operator runs it for you. The real cost and upkeep of each.",
+  "published_at": "2026-05-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:49:23.882568+00:00",
+  "fetched_at": "2026-07-28T21:44:23.277081+00:00",
+  "last_updated_at": "2026-08-19T18:38:44.631200+00:00",
+  "paths": {
+    "article": "articles/v1/61/yc-operator-labs/2026/05/f1/f108f7dff9c8b3a795ffb1d095554e6cdeece4e0ffdfc5cc99db0d5f8798997d/article.md",
+    "record": "articles/v1/61/yc-operator-labs/2026/05/f1/f108f7dff9c8b3a795ffb1d095554e6cdeece4e0ffdfc5cc99db0d5f8798997d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7119,
+    "sha256": "sha256:4188840222bf94787866871d3e4a3885a50d12b23e333dd6e2b765f08b639f3a",
+    "normalized_content_hash": "sha256:7ad6b99021cd692f1e84193d193fe8fb179a0996326bcc81f0d2df88cf78e4c0"
+  },
+  "provenance": {
+    "source_item_id": "214edce2-2805-4a4c-9b0e-6eb750ac7208",
+    "external_id": "https://operator.io/blog/operator-vs-self-hosting"
+  }
+}

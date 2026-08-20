@@ -1,0 +1,37 @@
+---
+schema_version: "1.0.0"
+document_id: "1d90cc5cdc40cb13a1b94a86ac2fbb33feec8d8b6f37947311e1328a534b1fc2"
+company_key: "cameco-corporation-common-stock"
+company: "Cameco Corporation"
+source_id: "cameco-corporation-common-stock-rss-997a1f5b1469"
+canonical_url: "https://www.cameco.com/node/3434"
+published_at: "2026-08-07T17:46:10+00:00"
+first_seen_at: "2026-08-07T18:56:20.233524+00:00"
+fetched_at: "2026-08-20T01:47:33.551815+00:00"
+content_hash: "sha256:53e3cd9cac94968ff1385d1a43476f2f27f544b374bed83d56fdde3461b53801"
+---
+
+# 150053568350107_1472211654929117
+
+150053568350107_1472211654929117
+
+
+feeds_service
+
+
+August 19, 2026
+
+
+NUCLEAR PURE PLAY PODCAST | A long game — creating value with disciplined strategy Cameco’s Nuclear Pure Play Podcast provides insight into the company and the nuclear energy industry. In this episode, Cameco President and COO Grant Isaac and VP of Investor Relations and Communications Cory Kos explore how Cameco creates long-term value, in a growing nuclear energy market, by remaining strategically disciplined in contracting, production, and investment. Watch the full podcast:[https://ow.ly/b5WW50ZxK4h](https://ow.ly/b5WW50ZxK4h)
+
+
+[https://www.facebook.com/reel/3027874260912875/](https://www.facebook.com/reel/3027874260912875/)
+
+
+Corporate
+
+
+Facebook Image src
+
+
+https://scontent-lga3-2.xx.fbcdn.net/v/t15.5256-10/766889474_3027874794246155_8883172681668196596_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=d2b52d&_nc_ohc=E4Q9OIlGWM0Q7kNvwHCKVgf&_nc_oc=AdoZRlhHdke11yrDSUdLLlbovcP7LYpvHRDDf9lTwi6izmecaJ_GsY_WFjaJ36mYdRc&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&edm=AJdBtusEAAAA&_nc_gid=YB1jNXxBlA0AkRHFhb0dJA&_nc_tpa=Q5bMBQKXjXCgdxaK7PejYBhvrKo-Fi42jGnrRzp4NHnWje-Mn6J0_ohJLOcuk4OPc5ZT84Cqfcs7itHy1w&oh=00_AQHLnqf_jm_OixbfIYspKYnmBADLuU5vqjBQF3GZP533-g&oe=6A8C3558

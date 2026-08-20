@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "marketwise-inc-class-a-common-stock",
+    "name": "MarketWise Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-01-22T12:15:28+00:00",
+  "last_published_at": "2026-08-18T20:15:29+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/71/marketwise-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 19242,
+        "sha256": "sha256:8fbd11c31c131ed3cf89b6d695eff6d9729ffd7cd0ca5ee02c53f82760e5055f",
+        "newest_at": "2026-08-18T20:15:29+00:00",
+        "oldest_at": "2026-01-22T12:15:28+00:00"
+      }
+    ]
+  }
+}

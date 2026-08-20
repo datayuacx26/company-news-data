@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aca2421be06508c809d2602de2c8afa172f440c69ebb5d348a1afc1ba7fa4510",
+  "company": {
+    "key": "yc-wasmer",
+    "name": "Wasmer"
+  },
+  "source": {
+    "id": "yc-wasmer-news-import-0c661488008f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://wasmer.io/posts/dynamic-linking-in-wasm-wasix",
+    "canonical": "https://wasmer.io/posts/dynamic-linking-in-wasm-wasix"
+  },
+  "title": "Dynamic linking in WebAssembly with WASIX",
+  "summary": "At Wasmer, we've had a [WASIX](<https://wasix.org/>) build of Python for a long time now. It works too; you can run scripts, get a REPL, and even pull i...",
+  "published_at": "2026-05-20T13:33:00+00:00",
+  "first_seen_at": "2026-07-22T19:24:02.861490+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T19:56:55.281829+00:00",
+  "paths": {
+    "article": "articles/v1/59/yc-wasmer/2026/05/ac/aca2421be06508c809d2602de2c8afa172f440c69ebb5d348a1afc1ba7fa4510/article.md",
+    "record": "articles/v1/59/yc-wasmer/2026/05/ac/aca2421be06508c809d2602de2c8afa172f440c69ebb5d348a1afc1ba7fa4510/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26184,
+    "sha256": "sha256:ae339babb9f3653c73b5c14df35b213f8af2dcec2528fcb3bcab7faa7439b05e",
+    "normalized_content_hash": "sha256:41b322c0591b43205f9be8dd54f749003abaeab0e1cc7d4176db1922828f2cc8"
+  },
+  "provenance": {
+    "source_item_id": "d0ac7cce-3556-48e3-9a86-9e5f0efc1dae",
+    "external_id": "https://wasmer.io/posts/dynamic-linking-in-wasm-wasix"
+  }
+}

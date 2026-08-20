@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c81965a68578a80c030064610537112d9105b0955b72a0e9373911ef724df7e",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/how-to-automate-saas-billing-auto-invoicing-retry-logic-payment-matching-2764",
+    "canonical": "https://blixo.com/blog/en/post/how-to-automate-saas-billing-auto-invoicing-retry-logic-payment-matching-2764/"
+  },
+  "title": "How to Automate SaaS Billing: Auto-Invoicing, Retry Logic, Payment Matching",
+  "summary": "Key Takeaways Combining automated invoicing, retry logic, payment matching, and dunning compresses collections cycles from 30–45 days to under 20 for mid-size firms. Full billing automation delivers a 30–40% reduction in Days Sales Outstanding, freeing finance teams from spreadsheet chasing for higher-value analysis. Smart retry logic using machine learning and decline-code analysis recovers 55–80% of failed payments, versus 15–25% for fixed schedules. Automated envelope-level and item-level reconciliation cuts payment matching from 10–15 hours weekly per analyst to under two hours. Auto-invoicing reduces invoice error rates from 8–12% down to under 2% while cutting generation time from hours to minutes. Auto-invoicing implementation takes just one to three days on most platforms and saves each finance staffer four to eight hours weekly. Bad data at invoice creation triggers downstream payment failures, making accurate auto-invoicing the foundation for the entire recovery stack. Quick Summary A fully automated SaaS billing workflow stacks multiple recovery layers—and the cumulative effect on Days Sales Outstanding matters more than any single pillar in isolation. When you automate invoicing, retry logic, payment matching, and dunning together, you’re accelerating cash flow and unlocking freed finance capacity that stops chasing spreadsheets and starts analyzing revenue drivers.",
+  "published_at": "2026-08-18T04:53:07+00:00",
+  "first_seen_at": "2026-08-19T18:35:31.337817+00:00",
+  "fetched_at": "2026-08-19T18:35:33.199130+00:00",
+  "last_updated_at": "2026-08-19T18:35:33.326663+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/08/1c/1c81965a68578a80c030064610537112d9105b0955b72a0e9373911ef724df7e/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/08/1c/1c81965a68578a80c030064610537112d9105b0955b72a0e9373911ef724df7e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 45130,
+    "sha256": "sha256:23a354cfdb76bc46519cc9b3b1c8eb4ae659a9e29d400a1a20de0f52dcbb5163",
+    "normalized_content_hash": "sha256:f19417933b968cdcddda164a7185b3afe0738bdfcc87a4b229f418149928913d"
+  },
+  "provenance": {
+    "source_item_id": "fbc16b15-3d3c-4060-8015-6b0e68e59c4b",
+    "external_id": "https://blixo.com/blog/en/post/how-to-automate-saas-billing-auto-invoicing-retry-logic-payment-matching-2764/"
+  }
+}

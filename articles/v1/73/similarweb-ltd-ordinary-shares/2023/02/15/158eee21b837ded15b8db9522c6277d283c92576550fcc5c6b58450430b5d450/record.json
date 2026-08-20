@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "158eee21b837ded15b8db9522c6277d283c92576550fcc5c6b58450430b5d450",
+  "company": {
+    "key": "similarweb-ltd-ordinary-shares",
+    "name": "Similarweb Ltd."
+  },
+  "source": {
+    "id": "similarweb-ltd-ordinary-shares-rss-2bd7dd1f88a6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://medium.com/similarweb-engineering/how-we-healed-our-airflow-env-ce58783968b0?source=rss----1b68aa7bdf41---4",
+    "canonical": "https://medium.com/similarweb-engineering/how-we-healed-our-airflow-env-ce58783968b0"
+  },
+  "title": "How we healed our AWS MWAA (aka airflow) env",
+  "summary": "tl;dr in order to save your airflow’s scheduler CPU: 1. Use imports only where you need it. Separate code to files and reduce many…",
+  "published_at": "2023-02-08T08:40:39+00:00",
+  "first_seen_at": "2026-07-20T23:19:16.581763+00:00",
+  "fetched_at": "2026-07-28T22:26:28.379811+00:00",
+  "last_updated_at": "2026-08-20T00:33:44.445968+00:00",
+  "paths": {
+    "article": "articles/v1/73/similarweb-ltd-ordinary-shares/2023/02/15/158eee21b837ded15b8db9522c6277d283c92576550fcc5c6b58450430b5d450/article.md",
+    "record": "articles/v1/73/similarweb-ltd-ordinary-shares/2023/02/15/158eee21b837ded15b8db9522c6277d283c92576550fcc5c6b58450430b5d450/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6535,
+    "sha256": "sha256:096f5aab4990e17e77999b6d3072ee394dc106fdea8944814b9c5d4a25bacacb",
+    "normalized_content_hash": "sha256:ca3d8ad0d97464452461b3d4addf75238c7fbc4c9dc3b75fed3881b40c5e90b7"
+  },
+  "provenance": {
+    "source_item_id": "20976373-3094-4ef0-8ad9-767e2a84100d",
+    "external_id": "https://medium.com/p/ce58783968b0"
+  }
+}

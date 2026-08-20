@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9cbeeaa5e5285e3db1859f181757efb8d21527a377cbdceafaac21c58fecb1b",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/egocentric-data-collection-for-robotics/",
+    "canonical": "https://encord.com/blog/egocentric-data-collection-for-robotics/"
+  },
+  "title": "How to Build Diverse Egocentric Datasets for Robotics: A Practical Guide",
+  "summary": "TL;DR: Egocentric data is first-person video and sensor data captured from the viewpoint of a robot's own camera in deployment; it removes a tra",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-08-01T00:21:58.402230+00:00",
+  "fetched_at": "2026-08-01T00:21:59.333684+00:00",
+  "last_updated_at": "2026-08-20T01:45:33.388619+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/f9/f9cbeeaa5e5285e3db1859f181757efb8d21527a377cbdceafaac21c58fecb1b/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/f9/f9cbeeaa5e5285e3db1859f181757efb8d21527a377cbdceafaac21c58fecb1b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17583,
+    "sha256": "sha256:dc80568bf9a9cd8a07f47cb913d6cdc3facbd608e27df0383f29a215ce007441",
+    "normalized_content_hash": "sha256:d0966d33bc4816d8cff4a0f9a298618f9c2c5ec7cee2fd6f7a4543053ff67841"
+  },
+  "provenance": {
+    "source_item_id": "a59898bf-e9e3-4c21-ad28-86246c07e632",
+    "external_id": "https://encord.com/blog/egocentric-data-collection-for-robotics/"
+  }
+}

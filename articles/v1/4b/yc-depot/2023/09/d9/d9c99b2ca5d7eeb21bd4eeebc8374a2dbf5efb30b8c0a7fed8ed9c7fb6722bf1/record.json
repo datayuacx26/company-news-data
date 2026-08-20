@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9c99b2ca5d7eeb21bd4eeebc8374a2dbf5efb30b8c0a7fed8ed9c7fb6722bf1",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/dockerfile-linting-issues",
+    "canonical": "https://depot.dev/blog/dockerfile-linting-issues"
+  },
+  "title": "Top 10 common Dockerfile linting issues",
+  "summary": "We've added the ability to lint Dockerfiles on demand in Depot. This post covers the top 10 most common Dockerfile linting issues we've seen flowing through Depot.",
+  "published_at": "2023-09-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/09/d9/d9c99b2ca5d7eeb21bd4eeebc8374a2dbf5efb30b8c0a7fed8ed9c7fb6722bf1/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/09/d9/d9c99b2ca5d7eeb21bd4eeebc8374a2dbf5efb30b8c0a7fed8ed9c7fb6722bf1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15693,
+    "sha256": "sha256:6b7bf8ff448b1aebb6a870e9c7a5933f89e27ddf851fa6671fa091aa0efb767b",
+    "normalized_content_hash": "sha256:f557336a60675f10f6a84d1bcfe7378a7c9ec93d1b7cd29cf59a502ed01a409f"
+  },
+  "provenance": {
+    "source_item_id": "45b43a31-e5f9-494d-b00b-2229eefb28ea",
+    "external_id": "https://depot.dev/blog/dockerfile-linting-issues"
+  }
+}

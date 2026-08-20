@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6318206c7641c763d0ebac0ac31e3a1d70d9180953738299cfff498a79c9b6f8",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/why-developers-shouldnt-write-mocks-a-guide-to-modern-testing/",
+    "canonical": "https://www.signadot.com/blog/why-developers-shouldnt-write-mocks-a-guide-to-modern-testing/"
+  },
+  "title": "What's the real ROI of writing Mocks?",
+  "summary": "Mocks give a false sense of security and break against real dependencies, a gap AI coding agents make worse. Learn when to use mocks vs real-environment testing with sandboxes.",
+  "published_at": "2023-09-26T07:59:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/09/63/6318206c7641c763d0ebac0ac31e3a1d70d9180953738299cfff498a79c9b6f8/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/09/63/6318206c7641c763d0ebac0ac31e3a1d70d9180953738299cfff498a79c9b6f8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20812,
+    "sha256": "sha256:4ff8ec22480a7dc003ab829e06a05ed9e4d2184426b4edfa91199a1c6f35b454",
+    "normalized_content_hash": "sha256:db35636e1111fea9ef984976634019e9d299a99941759f5f7909fca89b246591"
+  },
+  "provenance": {
+    "source_item_id": "63b96b77-608f-4d3f-868a-37ae09bd2f94",
+    "external_id": "https://www.signadot.com/blog/why-developers-shouldnt-write-mocks-a-guide-to-modern-testing/"
+  }
+}

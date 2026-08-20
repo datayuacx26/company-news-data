@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "macrogenics-inc-common-stock",
+    "name": "MacroGenics Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2026-02-26T22:30:00+00:00",
+  "last_published_at": "2026-08-13T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/62/macrogenics-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14188,
+        "sha256": "sha256:d5af6e423dbe6a97c211bc2dbfe25214cbc9d6ea036a65c09809d90e8bfe8e86",
+        "newest_at": "2026-08-13T20:05:00+00:00",
+        "oldest_at": "2026-02-26T22:30:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "08406d98cbfc5f6078f594ecc4d5ecb3d13af0204ae49510b94a760500de19aa",
+  "company": {
+    "key": "yc-rivet",
+    "name": "Rivet"
+  },
+  "source": {
+    "id": "yc-rivet-news-import-b9b70e7746c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rivet.dev/blog/2025-02-16-sqlite-on-the-server-is-misunderstood/",
+    "canonical": "https://rivet.dev/blog/2025-02-16-sqlite-on-the-server-is-misunderstood/"
+  },
+  "title": "SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale",
+  "summary": "We're Rivet, a new open-source, self-hostable serverless platform. We've been in the weeds with SQLite-on-the-server recently and – boy – do we have a lot of thoughts to share. Give us a star on GitHub, we'll be sharing a lot more about SQLite soon!",
+  "published_at": "2025-02-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:04:56.065057+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T03:07:39.236282+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-rivet/2025/02/08/08406d98cbfc5f6078f594ecc4d5ecb3d13af0204ae49510b94a760500de19aa/article.md",
+    "record": "articles/v1/76/yc-rivet/2025/02/08/08406d98cbfc5f6078f594ecc4d5ecb3d13af0204ae49510b94a760500de19aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11758,
+    "sha256": "sha256:9ae3cd0c3bd3c2daf1237a39637fb370e0dd39c2978c188462e561bc1f2d65d1",
+    "normalized_content_hash": "sha256:d783f8857845ef4401069016b9fa707f63d61eadf6ffaa7eb366a147db880bf2"
+  },
+  "provenance": {
+    "source_item_id": "9dc25cd5-6772-48f3-861c-708d4498169c",
+    "external_id": "https://rivet.dev/blog/2025-02-16-sqlite-on-the-server-is-misunderstood/"
+  }
+}

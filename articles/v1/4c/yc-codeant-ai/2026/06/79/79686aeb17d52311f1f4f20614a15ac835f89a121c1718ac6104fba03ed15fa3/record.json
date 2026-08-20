@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "79686aeb17d52311f1f4f20614a15ac835f89a121c1718ac6104fba03ed15fa3",
+  "company": {
+    "key": "yc-codeant-ai",
+    "name": "CodeAnt AI"
+  },
+  "source": {
+    "id": "yc-codeant-ai-news-import-b68a5af7b5b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://codeant.ai/blogs/cve-2026-29509-zip-slip-attack-patool-safe-extract",
+    "canonical": "https://codeant.ai/blogs/cve-2026-29509-zip-slip-attack-patool-safe-extract"
+  },
+  "title": "CVE-2026-29509: Zip Slip Path Traversal in patool safe_extract",
+  "summary": "CodeAnt AI's offensive engine found a Zip Slip attack vector in patool 4.0.4's safe_extract() on Python below 3.12. Full root cause, working PoC, and fix — CVE-2026-29509, CWE-22.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T05:59:21.610073+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-19T18:12:09.562732+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-codeant-ai/2026/06/79/79686aeb17d52311f1f4f20614a15ac835f89a121c1718ac6104fba03ed15fa3/article.md",
+    "record": "articles/v1/4c/yc-codeant-ai/2026/06/79/79686aeb17d52311f1f4f20614a15ac835f89a121c1718ac6104fba03ed15fa3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29019,
+    "sha256": "sha256:429f9fd9dcd8d3be05ebf6773babb07b9f63b2d71e14cebe9cb0340e378a013e",
+    "normalized_content_hash": "sha256:dd9fef3982aacc7cda232971a23931c552891c6c290b8a07b6e3540e14e5ba1f"
+  },
+  "provenance": {
+    "source_item_id": "5cccccfd-38d6-45c8-943e-caebac62c872",
+    "external_id": "https://codeant.ai/blogs/cve-2026-29509-zip-slip-attack-patool-safe-extract"
+  }
+}

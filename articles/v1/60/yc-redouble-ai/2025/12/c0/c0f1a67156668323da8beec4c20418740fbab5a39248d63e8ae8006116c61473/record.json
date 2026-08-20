@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0f1a67156668323da8beec4c20418740fbab5a39248d63e8ae8006116c61473",
+  "company": {
+    "key": "yc-redouble-ai",
+    "name": "Redouble AI"
+  },
+  "source": {
+    "id": "yc-redouble-ai-rss-94bf26a72f2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://deconvoluteai.com/blog/rag-malicious-chunk-demo",
+    "canonical": "https://deconvoluteai.com/blog/rag-malicious-chunk-demo"
+  },
+  "title": "Anatomy of an Attack - From Poisoned RAG to Hijacked MCP Agents",
+  "summary": "Explore how a single poisoned chunk influences retrieval and dominates generation in RAG systems by surfacing under specific queries without explicit user intent.",
+  "published_at": "2025-12-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:30:56.530208+00:00",
+  "fetched_at": "2026-07-28T20:55:00.595584+00:00",
+  "last_updated_at": "2026-08-20T01:58:57.445054+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-redouble-ai/2025/12/c0/c0f1a67156668323da8beec4c20418740fbab5a39248d63e8ae8006116c61473/article.md",
+    "record": "articles/v1/60/yc-redouble-ai/2025/12/c0/c0f1a67156668323da8beec4c20418740fbab5a39248d63e8ae8006116c61473/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21006,
+    "sha256": "sha256:38defa7085ea286c259cc35dd40e08d01386bf4b70e2db666baea2622ea98d01",
+    "normalized_content_hash": "sha256:96f80b8def149d078ac4254fb60c134af817b1401552c8a199757563179a8104"
+  },
+  "provenance": {
+    "source_item_id": "52081e3d-fdad-429d-a529-9ca2cff65345",
+    "external_id": "https://deconvoluteai.com/blog/rag-malicious-chunk-demo"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1634c819e3a931afc028e1c3712c93e4338ca4001af0218af1c20217311534b5",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-system-prune",
+    "canonical": "https://depot.dev/blog/docker-system-prune"
+  },
+  "title": "Tidy up with docker system prune",
+  "summary": "Drowning in Docker clutter? Learn how to use docker system prune to reclaim valuable disk space and remove all those old artifacts that are hogging your machine.",
+  "published_at": "2024-09-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/09/16/1634c819e3a931afc028e1c3712c93e4338ca4001af0218af1c20217311534b5/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/09/16/1634c819e3a931afc028e1c3712c93e4338ca4001af0218af1c20217311534b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7401,
+    "sha256": "sha256:5451d01706dd8218ff044d232a961ca5fccf23701764259d04a95632c35b90c1",
+    "normalized_content_hash": "sha256:b531164ccc0d2321ee2fd0a4c68a2cdd53d56de51d587f776a333eda74783d9b"
+  },
+  "provenance": {
+    "source_item_id": "38add54a-b705-4717-853a-a44752f742b9",
+    "external_id": "https://depot.dev/blog/docker-system-prune"
+  }
+}

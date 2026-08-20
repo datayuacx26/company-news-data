@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "52e4e3229e25758f7e381dbe57e56eb26e0281126b58da2a89e3aec23342fb72",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-build-no-cache",
+    "canonical": "https://depot.dev/blog/docker-build-no-cache"
+  },
+  "title": "How to build an image without the Docker cache",
+  "summary": "Using the Docker build cache speeds up builds by reusing layers from previous builds. But sometimes you want to build an image without the cache. Here's how.",
+  "published_at": "2023-06-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/06/52/52e4e3229e25758f7e381dbe57e56eb26e0281126b58da2a89e3aec23342fb72/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/06/52/52e4e3229e25758f7e381dbe57e56eb26e0281126b58da2a89e3aec23342fb72/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5240,
+    "sha256": "sha256:82e47df734d7faf9db4047d123f02da27132acd9275e6091b71c10b315b59403",
+    "normalized_content_hash": "sha256:5c3441cadaa748ef085b791866bc524365b44e77fd338aaf83d75883902de061"
+  },
+  "provenance": {
+    "source_item_id": "a4046072-7649-48ed-a04c-f54901b48531",
+    "external_id": "https://depot.dev/blog/docker-build-no-cache"
+  }
+}

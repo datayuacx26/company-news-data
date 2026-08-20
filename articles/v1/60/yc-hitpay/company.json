@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-hitpay",
+    "name": "HitPay"
+  },
+  "record_count": 38,
+  "first_published_at": "2026-07-21T00:00:00+00:00",
+  "last_published_at": "2026-08-13T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 18
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/60/yc-hitpay/index/pages/000001.json",
+        "record_count": 38,
+        "byte_count": 38614,
+        "sha256": "sha256:0479e56c20408d263984c2d4e103a58701847566904179f20846e18fc05ebaea",
+        "newest_at": "2026-08-13T00:00:00+00:00",
+        "oldest_at": "2026-07-21T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ringcentral-inc-class-a-common-stock",
+    "name": "RingCentral Inc."
+  },
+  "record_count": 57,
+  "first_published_at": "2026-01-14T00:00:00+00:00",
+  "last_published_at": "2026-08-19T15:00:25+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 21
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 14
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/61/ringcentral-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56641,
+        "sha256": "sha256:5d222d53e8bd01f4127fbf8a2979f0d485a2a0251e435f597bb9a99743a396d5",
+        "newest_at": "2026-08-19T15:00:25+00:00",
+        "oldest_at": "2026-03-10T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/61/ringcentral-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 7,
+        "byte_count": 7782,
+        "sha256": "sha256:c0e40893cc76fff63fa002c721afd292af2a5350bfbf2e9f400ab38b67b2eed2",
+        "newest_at": "2026-02-27T00:00:00+00:00",
+        "oldest_at": "2026-01-14T00:00:00+00:00"
+      }
+    ]
+  }
+}

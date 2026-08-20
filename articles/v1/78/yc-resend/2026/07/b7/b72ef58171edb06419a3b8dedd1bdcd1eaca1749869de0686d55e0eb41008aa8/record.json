@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b72ef58171edb06419a3b8dedd1bdcd1eaca1749869de0686d55e0eb41008aa8",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-news-import-e788018b3f7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://resend.com/changelog/github-secret-scanner",
+    "canonical": "https://resend.com/changelog/github-secret-scanner"
+  },
+  "title": "GitHub Secret Scanner",
+  "summary": "Exposed API keys are detected, revoked, and reported to your team automatically.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T21:22:09.024444+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T01:39:55.585906+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2026/07/b7/b72ef58171edb06419a3b8dedd1bdcd1eaca1749869de0686d55e0eb41008aa8/article.md",
+    "record": "articles/v1/78/yc-resend/2026/07/b7/b72ef58171edb06419a3b8dedd1bdcd1eaca1749869de0686d55e0eb41008aa8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2398,
+    "sha256": "sha256:67c67c28e8dee048942c03233c1140e0d255feb42026f461f229ada8a0941127",
+    "normalized_content_hash": "sha256:7a5cd5e55eb12a5d4e31e2ea4fb0d06771a8111cf7d3339a621a026b2ce9a014"
+  },
+  "provenance": {
+    "source_item_id": "c55444aa-c306-49f3-8886-d6fa16d61557",
+    "external_id": "https://resend.com/changelog/github-secret-scanner"
+  }
+}

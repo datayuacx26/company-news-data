@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "oxford-square-capital-corp-common-stock",
+    "name": "Oxford Square Capital Corp."
+  },
+  "record_count": 12,
+  "first_published_at": "2025-07-31T12:00:00+00:00",
+  "last_published_at": "2026-07-31T12:00:55+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/74/oxford-square-capital-corp-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 17423,
+        "sha256": "sha256:8f40246929b1c2c945c7e5add8ae09d2f9e3b4f4dede2966b8176a5a46d338d7",
+        "newest_at": "2026-07-31T12:00:55+00:00",
+        "oldest_at": "2025-07-31T12:00:00+00:00"
+      }
+    ]
+  }
+}

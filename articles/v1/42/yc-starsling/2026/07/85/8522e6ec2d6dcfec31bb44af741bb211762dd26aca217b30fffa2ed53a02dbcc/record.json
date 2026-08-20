@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8522e6ec2d6dcfec31bb44af741bb211762dd26aca217b30fffa2ed53a02dbcc",
+  "company": {
+    "key": "yc-starsling",
+    "name": "StarSling"
+  },
+  "source": {
+    "id": "yc-starsling-atom-ebb22850b8ad",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://starsling.dev/blog/beyond-cold-starts-benchmarking-sandboxes-for-real-workloads",
+    "canonical": "https://starsling.dev/blog/beyond-cold-starts-benchmarking-sandboxes-for-real-workloads"
+  },
+  "title": "Beyond Cold-Starts: Benchmarking Sandboxes for Real Workloads",
+  "summary": "We benchmarked cloud sandbox providers (Blaxel, Daytona, E2B, Modal, Novita) on real CI workloads and open-sourced the results. Startup speed isn't the story.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T20:09:12.458496+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T02:07:24.554246+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-starsling/2026/07/85/8522e6ec2d6dcfec31bb44af741bb211762dd26aca217b30fffa2ed53a02dbcc/article.md",
+    "record": "articles/v1/42/yc-starsling/2026/07/85/8522e6ec2d6dcfec31bb44af741bb211762dd26aca217b30fffa2ed53a02dbcc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6142,
+    "sha256": "sha256:f4cbee4c168116719eb9f51eea54c987f5e1b7bfcac566748c2b7df7e427ebc7",
+    "normalized_content_hash": "sha256:4364782544f3cf6e288020e0b280049c4725afb464f0f886713a3958a3a88add"
+  },
+  "provenance": {
+    "source_item_id": "c1fb5a2b-dc74-40b3-a2e8-56a98a226112",
+    "external_id": "tag:starsling.dev,2026:blog/beyond-cold-starts-benchmarking-sandboxes-for-real-workloads"
+  }
+}

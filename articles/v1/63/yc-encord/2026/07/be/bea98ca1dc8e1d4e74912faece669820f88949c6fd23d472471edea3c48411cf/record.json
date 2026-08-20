@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bea98ca1dc8e1d4e74912faece669820f88949c6fd23d472471edea3c48411cf",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/building-training-dataset-for-autonomous-vehicles/",
+    "canonical": "https://encord.com/blog/building-training-dataset-for-autonomous-vehicles/"
+  },
+  "title": "Full Guide to Building an Autonomous Vehicle Training Dataset",
+  "summary": "TL;DR: Autonomous vehicles are only as good as the data they learn from. This guide walks through what an AV training dataset actually contains",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T13:39:16.688298+00:00",
+  "fetched_at": "2026-07-29T13:39:17.617017+00:00",
+  "last_updated_at": "2026-08-20T01:45:33.388619+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/be/bea98ca1dc8e1d4e74912faece669820f88949c6fd23d472471edea3c48411cf/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/be/bea98ca1dc8e1d4e74912faece669820f88949c6fd23d472471edea3c48411cf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24448,
+    "sha256": "sha256:60cb925b71d4239fb7e6ebcf1eebb990f1d85f687719ac8a1b96fe0d824119d8",
+    "normalized_content_hash": "sha256:839aa34c2694f7e91f05854bad7516446e8862d02db70ed7e8e403d2dbf950a3"
+  },
+  "provenance": {
+    "source_item_id": "deeb0301-2e43-4133-8b97-148f11d5c406",
+    "external_id": "https://encord.com/blog/building-training-dataset-for-autonomous-vehicles/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ad83a92783d4cdeb70b6ad74585767ee388f29d4c8964c840d2ea7e8221ad9da",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/how-to-create-a-chatbot",
+    "canonical": "https://mastra.ai/articles/how-to-create-a-chatbot"
+  },
+  "title": "How to create a chatbot: a complete guide for developers",
+  "summary": "Learn how to create a chatbot with LLM APIs. Covers the request loop, prompt design, tool calling, RAG, deployment, and production observability.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T17:31:22.495262+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-10T00:32:39.032699+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/07/ad/ad83a92783d4cdeb70b6ad74585767ee388f29d4c8964c840d2ea7e8221ad9da/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/07/ad/ad83a92783d4cdeb70b6ad74585767ee388f29d4c8964c840d2ea7e8221ad9da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 35250,
+    "sha256": "sha256:fb7216b00cc046905cd78f48aac3337aa26c82a75f577b6c4fb370f11508f538",
+    "normalized_content_hash": "sha256:978d4144383f2bfa3acaa13f26e04954269523adfe35db2faa2fa7eb91301504"
+  },
+  "provenance": {
+    "source_item_id": "3f59d2cb-7108-499e-86c9-142b08a9dc37",
+    "external_id": "https://mastra.ai/articles/how-to-create-a-chatbot"
+  }
+}

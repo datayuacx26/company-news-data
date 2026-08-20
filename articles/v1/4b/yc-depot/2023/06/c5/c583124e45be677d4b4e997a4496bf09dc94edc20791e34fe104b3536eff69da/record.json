@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c583124e45be677d4b4e997a4496bf09dc94edc20791e34fe104b3536eff69da",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-windmill-got-13x-faster-docker-builds",
+    "canonical": "https://depot.dev/blog/how-windmill-got-13x-faster-docker-builds"
+  },
+  "title": "Windmill.dev builds multi-platform Docker images faster with Depot",
+  "summary": "Windmill.dev switched to Depot for their native Intel & Arm Docker image builds, making them 13x faster inside of GitHub Actions.",
+  "published_at": "2023-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/06/c5/c583124e45be677d4b4e997a4496bf09dc94edc20791e34fe104b3536eff69da/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/06/c5/c583124e45be677d4b4e997a4496bf09dc94edc20791e34fe104b3536eff69da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4006,
+    "sha256": "sha256:42975617eb687df4f41cfbcc7f711b20175f84591f8dbb66d91b65558e44664d",
+    "normalized_content_hash": "sha256:ba1534e8ecf876151cafb509a7d1dabb66014524c42beb4ec139c1c021fa4aff"
+  },
+  "provenance": {
+    "source_item_id": "0a1a0d95-d4f9-45ef-a39a-1bb58f17e26a",
+    "external_id": "https://depot.dev/blog/how-windmill-got-13x-faster-docker-builds"
+  }
+}

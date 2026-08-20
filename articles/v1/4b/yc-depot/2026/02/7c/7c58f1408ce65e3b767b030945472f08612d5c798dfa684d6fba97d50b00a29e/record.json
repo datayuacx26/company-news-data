@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c58f1408ce65e3b767b030945472f08612d5c798dfa684d6fba97d50b00a29e",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/differences-between-qemu-and-cloud-hypervisor",
+    "canonical": "https://depot.dev/blog/differences-between-qemu-and-cloud-hypervisor"
+  },
+  "title": "The differences between QEMU microvm and Cloud Hypervisor",
+  "summary": "microVMs are everywhere in 2026, especially for CI and sandboxes. But when you're building a platform, choosing between QEMU microvm and cloud-hypervisor isn't obvious. We compare API support, GPU passthrough, snapshotting, live migration, and hotplugging.",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:54:15.153981+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/02/7c/7c58f1408ce65e3b767b030945472f08612d5c798dfa684d6fba97d50b00a29e/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/02/7c/7c58f1408ce65e3b767b030945472f08612d5c798dfa684d6fba97d50b00a29e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11422,
+    "sha256": "sha256:f70ef07296392fbbc3cfce508d733ee341d1a4ca6d986244b695e01548b7a6fe",
+    "normalized_content_hash": "sha256:717f24c269b4855558c507fecbfcb6f5e564d0df4bf263709cd27ac155877a14"
+  },
+  "provenance": {
+    "source_item_id": "cc78a710-8953-4089-96c7-2628b4f5d31a",
+    "external_id": "https://depot.dev/blog/differences-between-qemu-and-cloud-hypervisor"
+  }
+}

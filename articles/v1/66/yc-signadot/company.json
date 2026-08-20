@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "record_count": 155,
+  "first_published_at": "2021-06-21T10:00:00+00:00",
+  "last_published_at": "2026-08-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/66/yc-signadot/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53112,
+        "sha256": "sha256:6ba2814647b1e0c7bb1374d3eb6646d618d7ec136859eea26cb3f245a7a403ef",
+        "newest_at": "2026-08-12T00:00:00+00:00",
+        "oldest_at": "2025-07-02T15:30:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/66/yc-signadot/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 54108,
+        "sha256": "sha256:6456e2032ec7caf28ea4016ec87f91c00cd3336da573d64e86b943f5a5c7fb9f",
+        "newest_at": "2025-06-23T18:05:00+00:00",
+        "oldest_at": "2024-03-09T23:50:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/66/yc-signadot/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 56346,
+        "sha256": "sha256:c4273e3ba32b2fdf8cef60e31fc0dd8bebbe166310769b43c958eb959de733d7",
+        "newest_at": "2024-03-03T11:00:00+00:00",
+        "oldest_at": "2022-09-07T10:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/66/yc-signadot/index/pages/000004.json",
+        "record_count": 5,
+        "byte_count": 5569,
+        "sha256": "sha256:f0c2662c188218a389f6045161918d4babfd66940fd72550da8fc0f8dde4239f",
+        "newest_at": "2022-06-09T10:00:00+00:00",
+        "oldest_at": "2021-06-21T10:00:00+00:00"
+      }
+    ]
+  }
+}

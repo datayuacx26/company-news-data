@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cffeccbb435572dbada930a1cb2a9e3e4919c93dd8a550ab074c11ed0e084083",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137694",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137694"
+  },
+  "title": "SA-2026-087 - ExtremeXOS Debug-Mode Privilege Escalation via Weak PRNG (CVE-2026-8169)",
+  "summary": "ExtremeXOS uses a challenge-response mechanism to authorize access to the privileged debug-mode function. The challenge value is generated using an insufficiently random source, which under certain conditions may allow an attacker to predict the expected response and activate debug-mode without authorization. Depending on device configuration and version, this may enable escalation to root-level access and persistent modification of the device software stack. Exploitation requires either a valid low-privilege account on the device (remote scenario) or physical serial console access (local scenario). Extreme would like to thank Hadrien Barral (Université Gustave Eiffel) and Georges-Axel Jaloyan (French Ministry of the Interior) for responsible disclosure of their findings. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-07-17T17:53:54+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/cf/cffeccbb435572dbada930a1cb2a9e3e4919c93dd8a550ab074c11ed0e084083/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/cf/cffeccbb435572dbada930a1cb2a9e3e4919c93dd8a550ab074c11ed0e084083/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1865,
+    "sha256": "sha256:450d305c5dabddf4e1a1ee9a1a59b5ba2b244566d272ca34ea85c3cde37d023b",
+    "normalized_content_hash": "sha256:deea6c58f879d3ef7e70c5f42a509d1b31ac59b826816b620291cc99f92f2d31"
+  },
+  "provenance": {
+    "source_item_id": "f9186934-845c-4963-9a32-6c06a2964bd7",
+    "external_id": "000137694"
+  }
+}

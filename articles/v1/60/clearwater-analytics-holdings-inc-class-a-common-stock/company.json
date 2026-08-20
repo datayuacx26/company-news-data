@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "clearwater-analytics-holdings-inc-class-a-common-stock",
+    "name": "Clearwater Analytics Holdings Inc."
+  },
+  "record_count": 22,
+  "first_published_at": "2026-06-03T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/60/clearwater-analytics-holdings-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 29097,
+        "sha256": "sha256:c76f21df1ab53716dbe1844ea39901f78a620eecb33707e07eef587a3c761372",
+        "newest_at": "2026-07-29T00:00:00+00:00",
+        "oldest_at": "2026-06-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

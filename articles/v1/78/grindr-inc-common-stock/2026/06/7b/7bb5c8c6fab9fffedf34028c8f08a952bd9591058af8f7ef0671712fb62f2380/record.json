@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7bb5c8c6fab9fffedf34028c8f08a952bd9591058af8f7ef0671712fb62f2380",
+  "company": {
+    "key": "grindr-inc-common-stock",
+    "name": "Grindr Inc."
+  },
+  "source": {
+    "id": "grindr-inc-common-stock-news-import-400bd2d70735",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.grindr.com/blog/using-an-agent-as-a-judge-to-fix-ai-written-unit-tests",
+    "canonical": "https://www.grindr.com/blog/using-an-agent-as-a-judge-to-fix-ai-written-unit-tests"
+  },
+  "title": "Using an Agent‑as‑a‑Judge to Fix AI‑Written Unit Tests",
+  "summary": "Learn how an Agent-as-a-Judge workflow improved AI-written unit tests by automatically reviewing flaky tests, redundant assertions, and poor dependency injection patterns.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:09:59.703208+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T00:59:53.010077+00:00",
+  "paths": {
+    "article": "articles/v1/78/grindr-inc-common-stock/2026/06/7b/7bb5c8c6fab9fffedf34028c8f08a952bd9591058af8f7ef0671712fb62f2380/article.md",
+    "record": "articles/v1/78/grindr-inc-common-stock/2026/06/7b/7bb5c8c6fab9fffedf34028c8f08a952bd9591058af8f7ef0671712fb62f2380/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3133,
+    "sha256": "sha256:360387521ed7991f7ffe8af438209327728da2aa07511b89d5b1025bdc14f4ba",
+    "normalized_content_hash": "sha256:602e5e383c4472b5955f742742f3feba723dd607414eae6877ab1eba2560cf69"
+  },
+  "provenance": {
+    "source_item_id": "49156155-6718-47e4-9f53-4380fbcf046e",
+    "external_id": "https://www.grindr.com/blog/using-an-agent-as-a-judge-to-fix-ai-written-unit-tests"
+  }
+}

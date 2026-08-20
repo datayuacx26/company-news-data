@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5acc8515c765968b54123cd8011af372dac0c19d3d7be41793e0426376912c7",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc."
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/netflix-introduces-the-chumbak-family-moving-into-every-home-on-august-28",
+    "canonical": "https://about.netflix.com/news/netflix-introduces-the-chumbak-family-moving-into-every-home-on-august-28"
+  },
+  "title": "Netflix Introduces the 'Chumbak' Family, Moving Into Every Home on August 28",
+  "summary": "Chumbak brings back the kind of neighbourhood we all miss — the one where front doors were always open, and the neighbours never needed an appointment. Say hello to Netflix's newest family!",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T18:53:12.760366+00:00",
+  "fetched_at": "2026-07-31T18:53:14.244189+00:00",
+  "last_updated_at": "2026-08-12T15:41:53.209380+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/07/d5/d5acc8515c765968b54123cd8011af372dac0c19d3d7be41793e0426376912c7/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/07/d5/d5acc8515c765968b54123cd8011af372dac0c19d3d7be41793e0426376912c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4990,
+    "sha256": "sha256:c32bec629238107f672c9faeb429c1220148b3a5a6f4c7ebc95958395428f6bc",
+    "normalized_content_hash": "sha256:dc0863a42a9065245db0e792d2cc59af625468f53551c98e316d49531941f1d8"
+  },
+  "provenance": {
+    "source_item_id": "e564bb3f-7dec-4d70-9550-c459b070c6dc",
+    "external_id": "https://about.netflix.com/news/netflix-introduces-the-chumbak-family-moving-into-every-home-on-august-28"
+  }
+}

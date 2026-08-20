@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "784f8685dd02f45e78a8d06b2c14e4e2ce6ac9c15e8d4863292d1a6d83a3826c",
+  "company": {
+    "key": "yc-firezone",
+    "name": "Firezone"
+  },
+  "source": {
+    "id": "yc-firezone-news-import-75fbee21a5d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firezone.dev/blog/improving-reliability-for-dns-resources",
+    "canonical": "https://www.firezone.dev/blog/improving-reliability-for-dns-resources"
+  },
+  "title": "Improving reliability for DNS Resources",
+  "summary": "Client and Gateway 1.1 ships a more reliable DNS routing system that fixes long-tail resolution issues for production deployments.",
+  "published_at": "2024-06-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:48.154812+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-19T17:51:33.681966+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-firezone/2024/06/78/784f8685dd02f45e78a8d06b2c14e4e2ce6ac9c15e8d4863292d1a6d83a3826c/article.md",
+    "record": "articles/v1/79/yc-firezone/2024/06/78/784f8685dd02f45e78a8d06b2c14e4e2ce6ac9c15e8d4863292d1a6d83a3826c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5559,
+    "sha256": "sha256:0ac32360ba74a71afbac250cc3c40c97b9eba650c4c6b9fd3a2606c3161c41fd",
+    "normalized_content_hash": "sha256:6c98e89cdf1dd4b204be77c13b75290c211b3cb47b68034ffc1554ca5d6a15f8"
+  },
+  "provenance": {
+    "source_item_id": "5446ada9-8a40-412a-a343-1fea437ea112",
+    "external_id": "https://www.firezone.dev/blog/improving-reliability-for-dns-resources"
+  }
+}

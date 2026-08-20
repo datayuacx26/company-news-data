@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31b95ce8e73d752a879fbbf794bc9955a9338d1563d443ccfbb09804629ac405",
+  "company": {
+    "key": "yc-rescale",
+    "name": "Rescale"
+  },
+  "source": {
+    "id": "yc-rescale-rss-a01d3810de6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rescale.com/blog/geotransolver-ai-model-architecture-integration-cfd-applications/",
+    "canonical": "https://rescale.com/blog/geotransolver-ai-model-architecture-integration-cfd-applications/"
+  },
+  "title": "GeoTransolver AI Model Architecture Integration for CFD Applications",
+  "summary": "Power complex and high-accuracy AI surrogate models for CFD and FEA with GeoTransolver model architecture. Now available in Rescale AI Physics as part of the NVIDIA PhysicsNeMo library, GeoTransolver is a geometry-aware transformer architecture that uses GALE attention to model relationships across complex 3D geometries and unstructured meshes. It is designed to generalize across changing operating conditions and learn transient, geometry-aware physical behavior, making it well-suited for surrogate models that need to predict aerodynamic, structural, or deformation behavior across a range of design variants.",
+  "published_at": "2026-07-02T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.219568+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-07-28T20:48:00.357381+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-rescale/2026/07/31/31b95ce8e73d752a879fbbf794bc9955a9338d1563d443ccfbb09804629ac405/article.md",
+    "record": "articles/v1/5a/yc-rescale/2026/07/31/31b95ce8e73d752a879fbbf794bc9955a9338d1563d443ccfbb09804629ac405/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1775,
+    "sha256": "sha256:4ddff88babbc31bb4d506394e92d199ed1ec9b6518d498f6dc101a14d6edbb21",
+    "normalized_content_hash": "sha256:fe4579443ad6ec4271c0fe5c48f3a8e26b4c8e9840bf414acf4e32cad9ba983c"
+  },
+  "provenance": {
+    "source_item_id": "3c1a84f7-33fc-4689-8a58-2dcb92923957",
+    "external_id": "https://rescale.com/?p=102124"
+  }
+}

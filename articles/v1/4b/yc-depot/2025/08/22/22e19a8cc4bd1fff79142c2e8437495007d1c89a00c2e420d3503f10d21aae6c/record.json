@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22e19a8cc4bd1fff79142c2e8437495007d1c89a00c2e420d3503f10d21aae6c",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/from-go-code-to-container-image-with-depot-api",
+    "canonical": "https://depot.dev/blog/from-go-code-to-container-image-with-depot-api"
+  },
+  "title": "From Go code to container image with Depot API",
+  "summary": "Build a specialized container building system using Depot's low-level Go SDK to transform tar archives into container images. This advanced walkthrough demonstrates the three-step build flow: registering builds, acquiring ephemeral BuildKit machines, and configuring custom build solutions.",
+  "published_at": "2025-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/08/22/22e19a8cc4bd1fff79142c2e8437495007d1c89a00c2e420d3503f10d21aae6c/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/08/22/22e19a8cc4bd1fff79142c2e8437495007d1c89a00c2e420d3503f10d21aae6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10876,
+    "sha256": "sha256:c00a1804eb1f5404f9a3d98a84b6a9d97f125973deac91491c29128904ef831e",
+    "normalized_content_hash": "sha256:a1c8145680d1c232fc770ed2e593c08d083891c85c272d0a9f98674bfa6350df"
+  },
+  "provenance": {
+    "source_item_id": "cec2f24d-7bfd-4eb4-b59e-4839ce8469c0",
+    "external_id": "https://depot.dev/blog/from-go-code-to-container-image-with-depot-api"
+  }
+}

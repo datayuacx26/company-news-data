@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78776b6e77e733e93b82daed51fae729574888e496b8a2953346d2d340196ce1",
+  "company": {
+    "key": "yc-refresh",
+    "name": "Refresh"
+  },
+  "source": {
+    "id": "yc-refresh-news-import-082559068c7a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.refresh.dev/blog/trajectories-blog-post",
+    "canonical": "https://refresh.dev/blog/trajectories-blog-post"
+  },
+  "title": "Introducing trajectories.sh",
+  "summary": "Mapping multi-modal agent paths to a continuous visual timeline",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:40:30.303350+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:11.632168+00:00",
+  "paths": {
+    "article": "articles/v1/6b/yc-refresh/2026/06/78/78776b6e77e733e93b82daed51fae729574888e496b8a2953346d2d340196ce1/article.md",
+    "record": "articles/v1/6b/yc-refresh/2026/06/78/78776b6e77e733e93b82daed51fae729574888e496b8a2953346d2d340196ce1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5404,
+    "sha256": "sha256:2c9244cc2133e8e4baef1c97173fca1f8fec9771835e928471fdcc1c00200a4c",
+    "normalized_content_hash": "sha256:efddfc25c0a8aac72388cae73aaab46d987a552bef8efe31222a0409c566e62c"
+  },
+  "provenance": {
+    "source_item_id": "6f0f53d6-6a16-44d0-bb7c-473f60387c8a",
+    "external_id": "https://refresh.dev/blog/trajectories-blog-post"
+  }
+}

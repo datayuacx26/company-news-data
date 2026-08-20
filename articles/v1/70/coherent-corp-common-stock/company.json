@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "coherent-corp-common-stock",
+    "name": "Coherent Corp."
+  },
+  "record_count": 23,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/70/coherent-corp-common-stock/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 25129,
+        "sha256": "sha256:a486dccd71c29cfb77c1085a8d3e3540e2d6ceba099597e3d5caec7d1430a6c3",
+        "newest_at": "2026-08-13T05:45:33.796540+00:00",
+        "oldest_at": "2026-07-28T21:36:14.883471+00:00"
+      }
+    ]
+  }
+}

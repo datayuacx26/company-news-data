@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/planetscale-to-reduce-the-thundering-herd",
+    "canonical": "https://depot.dev/blog/planetscale-to-reduce-the-thundering-herd"
+  },
+  "title": "Scaling Depot: Solving a thundering herd problem",
+  "summary": "When upstream systems fail, retries pile up fast and your database becomes the bottleneck. Here's how we used PlanetScale's Insights to identify and fix the queries that were slowing us down during thundering herd events.",
+  "published_at": "2025-11-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/11/c4/c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/11/c4/c40e4054eef0c3aceb9061e1339a44ab0bd99d43159bc5ceca13cead73bbfd82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12506,
+    "sha256": "sha256:436ee20529e9287ab53c0f92f7756cab37c68ebbef6a27c1b114bf62cde41c39",
+    "normalized_content_hash": "sha256:0b94168034c549923e179bb745998170b873e5d2bbfd77555549ae51193114d4"
+  },
+  "provenance": {
+    "source_item_id": "6980e4e6-e41c-481f-8825-d2652a6f8451",
+    "external_id": "https://depot.dev/blog/planetscale-to-reduce-the-thundering-herd"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1985fa698e6c926631a143a183689436f40497d6a83045bd6b26081cdada7eea",
+  "company": {
+    "key": "yc-rejot",
+    "name": "ReJot"
+  },
+  "source": {
+    "id": "yc-rejot-news-import-01598ccac029",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rejot.dev/blog/reliable-webhook-delivery/",
+    "canonical": "https://rejot.dev/blog/reliable-webhook-delivery/"
+  },
+  "title": "Reliable Webhook Delivery on Cloudflare Workflows",
+  "summary": "An in-order webhook delivery system on Cloudflare Workflows",
+  "published_at": "2025-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:47:01.544738+00:00",
+  "fetched_at": "2026-07-31T19:47:01.910446+00:00",
+  "last_updated_at": "2026-08-19T18:37:14.400537+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-rejot/2025/07/19/1985fa698e6c926631a143a183689436f40497d6a83045bd6b26081cdada7eea/article.md",
+    "record": "articles/v1/62/yc-rejot/2025/07/19/1985fa698e6c926631a143a183689436f40497d6a83045bd6b26081cdada7eea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9041,
+    "sha256": "sha256:d99dbb2dc209700a43469a3b7b3b5de4e174e05935ad0522ffbe3a8f2071370e",
+    "normalized_content_hash": "sha256:06b8c0b7e559a0e630f3ce6987d4276ca7f18ae569921224df9cf87764dfc5ac"
+  },
+  "provenance": {
+    "source_item_id": "6ed4c9d3-a97b-459d-83d6-a334bfe7ab93",
+    "external_id": "https://rejot.dev/blog/reliable-webhook-delivery/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c000cc7a595ad9e437c9a2069886c14ee20d6860f10c2b15c903b4816f36f5d5",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc."
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-c17882ce6386",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/",
+    "canonical": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/"
+  },
+  "title": "Introducing AWS Continuum: Security at machine speed",
+  "summary": "What we believe We’ve been thinking deeply about enterprise security. The operating model that served us for the past decade (collect telemetry, store it, query it, build dashboards to watch it) is no longer keeping pace. We need to shift to the new world: telemetry, context, reasoning, and actions. An approach that produces outcomes. The […]",
+  "published_at": "2026-06-17T15:34:05+00:00",
+  "first_seen_at": "2026-07-21T06:14:34.184257+00:00",
+  "fetched_at": "2026-07-28T21:23:18.688239+00:00",
+  "last_updated_at": "2026-08-20T02:18:29.339582+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/06/c0/c000cc7a595ad9e437c9a2069886c14ee20d6860f10c2b15c903b4816f36f5d5/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/06/c0/c000cc7a595ad9e437c9a2069886c14ee20d6860f10c2b15c903b4816f36f5d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5778,
+    "sha256": "sha256:54e9b2eae286194a946e57554b9caf08054802f7b104a48d4e7dc778e7562bfe",
+    "normalized_content_hash": "sha256:3addf17d19c7f8e406ec301904b7eb906181f5385a7b5665829a597941350a9c"
+  },
+  "provenance": {
+    "source_item_id": "c95aa074-c241-4391-bb2d-1e0e7b590bf5",
+    "external_id": "https://aws.amazon.com/blogs/security/introducing-aws-continuum-security-at-machine-speed/"
+  }
+}

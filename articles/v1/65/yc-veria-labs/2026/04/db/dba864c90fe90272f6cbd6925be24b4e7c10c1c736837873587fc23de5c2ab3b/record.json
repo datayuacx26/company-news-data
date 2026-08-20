@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dba864c90fe90272f6cbd6925be24b4e7c10c1c736837873587fc23de5c2ab3b",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/securing-open-source-part-2-cracking-kraken/",
+    "canonical": "https://verialabs.com/blog/securing-open-source-part-2-cracking-kraken/"
+  },
+  "title": "Securing Open Source Part 2: Cracking Kraken",
+  "summary": "Malicious dApps can impersonate trusted apps and disguise Solana transactions as harmless message signatures, allowing potential fund theft when chained together.",
+  "published_at": "2026-04-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T22:00:15.315546+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2026/04/db/dba864c90fe90272f6cbd6925be24b4e7c10c1c736837873587fc23de5c2ab3b/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2026/04/db/dba864c90fe90272f6cbd6925be24b4e7c10c1c736837873587fc23de5c2ab3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13596,
+    "sha256": "sha256:7d468045901d8a150960f78462a9e7cf6046a898ed6d778ad6763137be320634",
+    "normalized_content_hash": "sha256:ee91e87335560face006855fe6bebf2bfcfc3d5f55936c69a2e3a94d8316a65f"
+  },
+  "provenance": {
+    "source_item_id": "e6b26b98-3875-4862-a24c-cdccb6a789a1",
+    "external_id": "https://verialabs.com/blog/securing-open-source-part-2-cracking-kraken/"
+  }
+}

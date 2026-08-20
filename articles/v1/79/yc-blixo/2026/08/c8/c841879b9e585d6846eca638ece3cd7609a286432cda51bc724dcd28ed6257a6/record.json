@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c841879b9e585d6846eca638ece3cd7609a286432cda51bc724dcd28ed6257a6",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/stripe-billing-handles-charges-blixo-closes-the-order-to-cash-loop-044b",
+    "canonical": "https://blixo.com/blog/en/post/stripe-billing-handles-charges-blixo-closes-the-order-to-cash-loop-044b/"
+  },
+  "title": "Stripe Billing Handles Charges. Blixo Closes the Order-to-Cash Loop.",
+  "summary": "Stripe Billing Handles Charges. What Happens After? Key Takeaways Businesses that reengineer their order-to-cash process can increase revenues through reduced friction and faster collection cycles. Manual invoicing and collections processes cost companies revenue through duplicate data entry, reconciliation errors, and missed follow-ups. B2B SaaS companies often carry significant days sales outstanding, while top performers bring that metric down through integrated workflows. Stripe Billing’s Smart Retries recovers a meaningful portion of failed payments and delivers strong return on the feature. Automated billing solves card charging but leaves a collection gap when failed transactions and overdue accounts remain manual. Fragmented tools for dunning, collections, and reconciliation create friction even after companies implement subscription billing automation. The real revenue leak occurs not in the initial charge itself, but in everything that happens after charges fail or invoices go out. The Gap Between Charging a Card and Getting Paid",
+  "published_at": "2026-08-16T04:53:07+00:00",
+  "first_seen_at": "2026-08-18T15:37:23.097673+00:00",
+  "fetched_at": "2026-08-18T15:37:24.926807+00:00",
+  "last_updated_at": "2026-08-19T18:35:31.337817+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/08/c8/c841879b9e585d6846eca638ece3cd7609a286432cda51bc724dcd28ed6257a6/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/08/c8/c841879b9e585d6846eca638ece3cd7609a286432cda51bc724dcd28ed6257a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 38295,
+    "sha256": "sha256:553fa3cd87447807aca2351018568df18811cd0de708f241361100e50f5a6958",
+    "normalized_content_hash": "sha256:f1830429d711d5e17a7b2fff5621dabfd4558a15de7b35b2fa0a43f3f2c39930"
+  },
+  "provenance": {
+    "source_item_id": "a303efc5-71ad-41c0-8be6-7c20ea0537f4",
+    "external_id": "https://blixo.com/blog/en/post/stripe-billing-handles-charges-blixo-closes-the-order-to-cash-loop-044b/"
+  }
+}

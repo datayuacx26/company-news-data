@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4724ef238c7589df02a7bf2fdb12db1003764fac43f6ebf3d148a83201e82f0",
+  "company": {
+    "key": "yc-oneleet",
+    "name": "Oneleet"
+  },
+  "source": {
+    "id": "yc-oneleet-news-import-d01376dbbc95",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneleet.com/blog/crafting-a-custom-windows-auto-updater-for-go-powered-desktop-apps",
+    "canonical": "https://www.oneleet.com/blog/crafting-a-custom-windows-auto-updater-for-go-powered-desktop-apps"
+  },
+  "title": "Crafting a Custom Windows Auto Updater for Go-Powered Desktop Apps",
+  "summary": "Discover Oneleet's journey in developing a custom auto-updater for their Windows agent. Learn about challenges with existing solutions, security implementations, and the creation of a reliable, privacy-respecting update system for Go-based desktop applications.",
+  "published_at": "2024-09-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:26:35.695106+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-19T20:57:15.336191+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-oneleet/2024/09/a4/a4724ef238c7589df02a7bf2fdb12db1003764fac43f6ebf3d148a83201e82f0/article.md",
+    "record": "articles/v1/5a/yc-oneleet/2024/09/a4/a4724ef238c7589df02a7bf2fdb12db1003764fac43f6ebf3d148a83201e82f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11498,
+    "sha256": "sha256:49c32110c9f4713c5f92ae20de9c37dd30cbb147a00e903e6b1c44b494986f4c",
+    "normalized_content_hash": "sha256:f0f7171c2466fdc7615f4ccd6a75c72924b3560ffe20ca3b9dfb7a010a7ad94e"
+  },
+  "provenance": {
+    "source_item_id": "de58f3d4-dc4a-4c98-b025-3f022f8a0c17",
+    "external_id": "https://www.oneleet.com/blog/crafting-a-custom-windows-auto-updater-for-go-powered-desktop-apps"
+  }
+}

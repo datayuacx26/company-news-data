@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "457f2790faf0c2c5af9da825aeb1f02e49b7ca461ce47f8663a709fd5b252305",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-multi-stage-builds",
+    "canonical": "https://depot.dev/blog/docker-multi-stage-builds"
+  },
+  "title": "Docker multi-stage builds explained",
+  "summary": "Docker multi-stage builds enable parallelization and reduce image size. This article shows examples of multi-stage Dockerfiles with in-depth details.",
+  "published_at": "2024-07-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/07/45/457f2790faf0c2c5af9da825aeb1f02e49b7ca461ce47f8663a709fd5b252305/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/07/45/457f2790faf0c2c5af9da825aeb1f02e49b7ca461ce47f8663a709fd5b252305/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15268,
+    "sha256": "sha256:d3a46388eca8f97658e1efd932494c31b5ce6a7b8294e38d71a0a3918834e215",
+    "normalized_content_hash": "sha256:e3dc9d83a1b78536ed3fa8cdda3deedb5412172b34e8304ddaf7cbb7081a819a"
+  },
+  "provenance": {
+    "source_item_id": "81ed94b4-72c6-44c1-90c9-f8db92598fdc",
+    "external_id": "https://depot.dev/blog/docker-multi-stage-builds"
+  }
+}

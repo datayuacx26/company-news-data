@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d335cd6f086cbf5052d8971c24a87c3374453a6dd7db9a21b55dc191abe40d1",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/iceberg-maintenance-production-guide",
+    "canonical": "https://iomete.com/resources/blog/iceberg-maintenance-production-guide"
+  },
+  "title": "Running Iceberg Maintenance in Production: A Practical Guide for Data Teams",
+  "summary": "Production lessons from running automated Apache Iceberg table maintenance: catalog load management, orphan cleanup safety, failure handling, and operational patterns.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:31:44.448316+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T00:52:51.295677+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/07/9d/9d335cd6f086cbf5052d8971c24a87c3374453a6dd7db9a21b55dc191abe40d1/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/07/9d/9d335cd6f086cbf5052d8971c24a87c3374453a6dd7db9a21b55dc191abe40d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21385,
+    "sha256": "sha256:ac5d9103ca725fef7be2aaf178fda1071316bc3a91925d2810bbcfad5c16709e",
+    "normalized_content_hash": "sha256:5fc3910d5074464291d8529c2df063c77b0225cf8ddd9e6b9ba0cf1895f8bb1b"
+  },
+  "provenance": {
+    "source_item_id": "b206750b-7555-48d8-96c4-881467097758",
+    "external_id": "https://iomete.com/resources/blog/iceberg-maintenance-production-guide"
+  }
+}

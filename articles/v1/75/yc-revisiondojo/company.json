@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-revisiondojo",
+    "name": "RevisionDojo"
+  },
+  "record_count": 48,
+  "first_published_at": "2024-06-01T00:00:00+00:00",
+  "last_published_at": "2026-08-19T09:37:16.581+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 13
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/75/yc-revisiondojo/index/pages/000001.json",
+        "record_count": 48,
+        "byte_count": 50223,
+        "sha256": "sha256:7650992dfd26fae5ed62c5b1dbe7dc0ae89d1217a08c2a5a2b4df06a6fecb304",
+        "newest_at": "2026-08-19T09:37:16.581+00:00",
+        "oldest_at": "2024-06-01T00:00:00+00:00"
+      }
+    ]
+  }
+}

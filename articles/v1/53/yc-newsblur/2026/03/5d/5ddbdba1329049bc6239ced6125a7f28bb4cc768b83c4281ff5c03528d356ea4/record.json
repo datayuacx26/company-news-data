@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ddbdba1329049bc6239ced6125a7f28bb4cc768b83c4281ff5c03528d356ea4",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-26fc52334fc9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/a-mini-media-player-for-podcasts-audio-and-video/13425",
+    "canonical": "https://forum.newsblur.com/t/a-mini-media-player-for-podcasts-audio-and-video/13425"
+  },
+  "title": "A mini media player for podcasts, audio, and video",
+  "summary": "<p>A lot of the sites I subscribe to have audio and video embedded directly in the stories. Podcasts, YouTube channels, news clips. But playing them in NewsBlur has always been a bit awkward: you hit play on the native browser control, then if you scroll to the next story or switch feeds, the audio just stops. I wanted something that keeps playing while you keep reading.</p> So I built a persistent mini media player. It sits at the bottom of your screen and handles audio, video, and YouTube f...",
+  "published_at": "2026-03-03T00:39:20+00:00",
+  "first_seen_at": "2026-07-25T16:10:33.287397+00:00",
+  "fetched_at": "2026-07-28T21:57:38.048658+00:00",
+  "last_updated_at": "2026-08-20T01:10:36.742131+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/03/5d/5ddbdba1329049bc6239ced6125a7f28bb4cc768b83c4281ff5c03528d356ea4/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/03/5d/5ddbdba1329049bc6239ced6125a7f28bb4cc768b83c4281ff5c03528d356ea4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4074,
+    "sha256": "sha256:c8fb2db49858e38de43a3f9175bead4c9653766e1de2b8f63644be0b18ef4920",
+    "normalized_content_hash": "sha256:a0e6591095242962eec34bb799420b2bcc88a6243684a5edace19460f212fc44"
+  },
+  "provenance": {
+    "source_item_id": "cc2884da-b5fd-49ad-b2c4-60e5f59690d3",
+    "external_id": "forum.newsblur.com-topic-13425"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e34bbec8411f7e5a0fce5d99c2a6d5cca6fbf9a15fee800e6e98680b4dea1cf",
+  "company": {
+    "key": "yc-rescale",
+    "name": "Rescale"
+  },
+  "source": {
+    "id": "yc-rescale-rss-a01d3810de6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rescale.com/blog/ic-evaluation-framework-engineering-agents/",
+    "canonical": "https://rescale.com/blog/ic-evaluation-framework-engineering-agents/"
+  },
+  "title": "Evaluation Framework for Engineering Agents",
+  "summary": "Deploy engineering agents with confidence with Rescale's agent evaluation approach, anchored by the Rescale Agent Fidelity Toolkit (RAFT). Rescale RAFT combines response scoring, tool-use validation, ground-truth checks, and continuous monitoring to systematically verify that agents deliver relevant answers and take correct actions, providing the quality discipline that production agentic engineering demands.",
+  "published_at": "2026-07-22T12:18:00+00:00",
+  "first_seen_at": "2026-07-22T12:46:13.954478+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T02:18:20.741101+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-rescale/2026/07/8e/8e34bbec8411f7e5a0fce5d99c2a6d5cca6fbf9a15fee800e6e98680b4dea1cf/article.md",
+    "record": "articles/v1/5a/yc-rescale/2026/07/8e/8e34bbec8411f7e5a0fce5d99c2a6d5cca6fbf9a15fee800e6e98680b4dea1cf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1299,
+    "sha256": "sha256:9ebe9af08e43c3cf247a315bb15fa4c1d1b23ad3924ead9b807c8d7a3218a475",
+    "normalized_content_hash": "sha256:e2ca37af4039c2e019665668f045fac942eb99aa7c49ca5c81a986fe29823deb"
+  },
+  "provenance": {
+    "source_item_id": "4456ed7e-8a94-4db3-81f3-c2cf10ae2267",
+    "external_id": "https://rescale.com/?p=102563"
+  }
+}

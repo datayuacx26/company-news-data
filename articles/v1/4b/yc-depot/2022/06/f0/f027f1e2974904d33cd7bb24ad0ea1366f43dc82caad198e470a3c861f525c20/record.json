@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f027f1e2974904d33cd7bb24ad0ea1366f43dc82caad198e470a3c861f525c20",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/fast-dockerfiles-theory-and-practice",
+    "canonical": "https://depot.dev/blog/fast-dockerfiles-theory-and-practice"
+  },
+  "title": "Fast Dockerfiles: theory and practice",
+  "summary": "Writing a Dockerfile that builds quickly involves understanding the Docker layer cache and working with it to maximize the number of cache hits between builds.",
+  "published_at": "2022-06-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/06/f0/f027f1e2974904d33cd7bb24ad0ea1366f43dc82caad198e470a3c861f525c20/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/06/f0/f027f1e2974904d33cd7bb24ad0ea1366f43dc82caad198e470a3c861f525c20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5674,
+    "sha256": "sha256:5e77e32f6f0d5e62cf6ae7bce16aeadf5bf5f08f8485d0555e6b98f6ffece889",
+    "normalized_content_hash": "sha256:afa27399c0ac49955e93b048f6faa0745cee9bc185f3542ddd7dd9b201b5b697"
+  },
+  "provenance": {
+    "source_item_id": "507be907-09d8-46e8-a3ac-2c954fa4e5d7",
+    "external_id": "https://depot.dev/blog/fast-dockerfiles-theory-and-practice"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "609a9f8074feed2d79bb71b1e265cbd42fce52269a698b02497e469dbc6d723a",
+  "company": {
+    "key": "yc-bitmovin",
+    "name": "Bitmovin"
+  },
+  "source": {
+    "id": "yc-bitmovin-news-import-596f48821b52",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitmovin.com/blog/adaptive-streaming/",
+    "canonical": "https://bitmovin.com/blog/adaptive-streaming/"
+  },
+  "title": "Adaptive Bitrate Streaming (ABR): What is it & How Does it Work? [2026 Update]",
+  "summary": "This is a beginners guide to adaptive bitrate streaming. Learn how adaptive streaming fixes issues with progressive streaming and more here.",
+  "published_at": "2026-06-05T11:49:00+00:00",
+  "first_seen_at": "2026-07-27T08:05:57.697851+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-18T14:36:48.083944+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-bitmovin/2026/06/60/609a9f8074feed2d79bb71b1e265cbd42fce52269a698b02497e469dbc6d723a/article.md",
+    "record": "articles/v1/7f/yc-bitmovin/2026/06/60/609a9f8074feed2d79bb71b1e265cbd42fce52269a698b02497e469dbc6d723a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14567,
+    "sha256": "sha256:3a4e8579176b28d29ce2a573a66283ddfcf2883e696d3a66e871dee443479497",
+    "normalized_content_hash": "sha256:1cfc0d9c603d2b0e556c95109fa93ecb09f52fccc27c1826dfa2e38d399cae7f"
+  },
+  "provenance": {
+    "source_item_id": "5e83e031-6034-4fc6-a905-5077708af6ac",
+    "external_id": "https://bitmovin.com/blog/adaptive-streaming/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e28a73004a6a179d82adbd039c868d08d33f7dd490db579e7d9968902193acf",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/best-practices-for-agentic-ai-observability-in-production",
+    "canonical": "https://www.sentrial.com/blog/best-practices-for-agentic-ai-observability-in-production"
+  },
+  "title": "Your Agent Looks Fine. Here's Why That's the Problem.",
+  "summary": "Most agent failures never throw an error. We went through 12 million logs and found 78% of failures are completely silent, here's what it takes to actually catch them.",
+  "published_at": "2026-05-31T17:37:47.669+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/05/9e/9e28a73004a6a179d82adbd039c868d08d33f7dd490db579e7d9968902193acf/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/05/9e/9e28a73004a6a179d82adbd039c868d08d33f7dd490db579e7d9968902193acf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22983,
+    "sha256": "sha256:752e85a55cba07a173fc24ecabe8d9ab4e3a28d9d4e49a0c04dc8cfcc2db383c",
+    "normalized_content_hash": "sha256:e8bc6b89074960838e58c1ca6d2ddf0d059f0b7ff6b5e0a0c28d1be98ec33922"
+  },
+  "provenance": {
+    "source_item_id": "2fde8e63-3ecb-4936-b8ca-fade4aa71cae",
+    "external_id": "https://www.sentrial.com/blog/best-practices-for-agentic-ai-observability-in-production"
+  }
+}

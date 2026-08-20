@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb6e635dc622f41e1cbeacaf433d3d804c59a08eea1dc1ceae89fccffc77dcdd",
+  "company": {
+    "key": "yc-porter",
+    "name": "Porter"
+  },
+  "source": {
+    "id": "yc-porter-news-import-7cfcee1b8c2a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.porter.run/blog/should-startups-use-kubernetes",
+    "canonical": "https://www.porter.run/blog/should-startups-use-kubernetes"
+  },
+  "title": "Should startups use Kubernetes?",
+  "summary": "For most startups the calculus reduces to the following: is the added complexity of Kubernetes worth its performance benefits?",
+  "published_at": "2022-06-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T09:55:21.208768+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-08-19T20:01:55.507177+00:00",
+  "paths": {
+    "article": "articles/v1/5d/yc-porter/2022/06/cb/cb6e635dc622f41e1cbeacaf433d3d804c59a08eea1dc1ceae89fccffc77dcdd/article.md",
+    "record": "articles/v1/5d/yc-porter/2022/06/cb/cb6e635dc622f41e1cbeacaf433d3d804c59a08eea1dc1ceae89fccffc77dcdd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7780,
+    "sha256": "sha256:c8f951c537ae20bca99ad37415e90a930b4fb665880f3fe131a982b352400ef6",
+    "normalized_content_hash": "sha256:fdad3e860b3182cbec2ed66d4a044bc00263db714a32781c0cebd0bf56716e14"
+  },
+  "provenance": {
+    "source_item_id": "de20fb35-2c56-4ea1-b78d-1f9ee03a5a1a",
+    "external_id": "https://www.porter.run/blog/should-startups-use-kubernetes"
+  }
+}

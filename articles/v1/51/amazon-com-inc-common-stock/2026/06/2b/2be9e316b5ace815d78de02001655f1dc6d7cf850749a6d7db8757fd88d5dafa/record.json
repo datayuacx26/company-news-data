@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2be9e316b5ace815d78de02001655f1dc6d7cf850749a6d7db8757fd88d5dafa",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc."
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-news-import-c17882ce6386",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/",
+    "canonical": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/"
+  },
+  "title": "Proactively reduce tech debt autonomously with AWS Transform – continuous modernization (preview)",
+  "summary": "AWS Transform – continuous modernization (preview) automatically scans code repositories to detect, prioritize, and remediate technical debt at scale.",
+  "published_at": "2026-06-17T14:58:00+00:00",
+  "first_seen_at": "2026-07-21T06:14:34.184257+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T02:18:29.339582+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/06/2b/2be9e316b5ace815d78de02001655f1dc6d7cf850749a6d7db8757fd88d5dafa/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/06/2b/2be9e316b5ace815d78de02001655f1dc6d7cf850749a6d7db8757fd88d5dafa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7307,
+    "sha256": "sha256:95cd3e4bac3b61aca04a99d66b2ebcc494fc30e3c8c0bc1b7f3592adf49063e2",
+    "normalized_content_hash": "sha256:7d23b300c6c97f87ffdfff494b209a8bfaf9f45486d420c79292797d962deb3b"
+  },
+  "provenance": {
+    "source_item_id": "2ffe76b6-6607-4d39-81d0-d6b4ceb2c655",
+    "external_id": "https://aws.amazon.com/blogs/aws/proactively-reduce-tech-debt-autonomously-with-aws-transform-continuous-modernization-preview/"
+  }
+}

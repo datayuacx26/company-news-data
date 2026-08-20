@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41b6771acc2c6259e6fca166c876a118321fff84fcda7cd1d36197923b1e73b1",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/self-hosted-depot",
+    "canonical": "https://depot.dev/blog/self-hosted-depot"
+  },
+  "title": "Introducing self-hosted Depot builders",
+  "summary": "Self-hosted Depot builders are here! Launch builders in your own AWS accounts on a per-project basis and connect directly to them without passing through any Depot proxy.",
+  "published_at": "2022-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/08/41/41b6771acc2c6259e6fca166c876a118321fff84fcda7cd1d36197923b1e73b1/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/08/41/41b6771acc2c6259e6fca166c876a118321fff84fcda7cd1d36197923b1e73b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6325,
+    "sha256": "sha256:f31c6bb7e978b21c95c61f332fcd4ec72116dbed4c55da1adc53872cfaac7007",
+    "normalized_content_hash": "sha256:236456bc704054901cb90d8ddfcd0c29371241a99049d577bffb6b28b4dec222"
+  },
+  "provenance": {
+    "source_item_id": "4ce84d1e-2110-4cff-83a8-6b54a309ca2e",
+    "external_id": "https://depot.dev/blog/self-hosted-depot"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03a9feb0cf60b23690af6b37fa51469061ad2af8ed55bc25b32bb82461198dce",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/rd-tablebench-updated-results",
+    "canonical": "https://www.runpulse.com/blog/rd-tablebench-updated-results"
+  },
+  "title": "RD-TableBench Updated Results (2026): Pulse Ultra 2 Leads Across the Board",
+  "summary": "We ran Pulse Ultra 2 through RD-TableBench using Reducto's published ground truth and their published Needleman-Wunsch scoring methodology, with no modifications and no corrections, on the same evaluation pipeline Reducto uses to score its own systems. | Pulse AI",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:59.698897+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-12T07:45:27.127768+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/04/03/03a9feb0cf60b23690af6b37fa51469061ad2af8ed55bc25b32bb82461198dce/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/04/03/03a9feb0cf60b23690af6b37fa51469061ad2af8ed55bc25b32bb82461198dce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5732,
+    "sha256": "sha256:0c0bf7f9e7b146ca77e5a09aed3f2aa68ff66d2720af39bd0b7b7a5e5eec43ae",
+    "normalized_content_hash": "sha256:b11e5d7ec9c78377220a7b141a9275bf6bdbe004e7c5448a67c88bf909fbbba8"
+  },
+  "provenance": {
+    "source_item_id": "466bb65c-8658-4edb-9333-0d0522a81a26",
+    "external_id": "https://www.runpulse.com/blog/rd-tablebench-updated-results"
+  }
+}

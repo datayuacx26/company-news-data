@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0482b78d72355be04ea04758f2a48f8a9b70364bdc9b454193bad610e09e64c",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-remote-agent-sandboxes",
+    "canonical": "https://depot.dev/blog/now-available-remote-agent-sandboxes"
+  },
+  "title": "Now available: Remote agent sandboxes on Depot",
+  "summary": "We've brought remote agent sandboxes to Depot, starting with remote Claude Code agents. Run AI coding sessions in persistent cloud sandboxes with full filesystem context, Git integration, and session sharing across your entire team. No more starting from scratch in async environments.",
+  "published_at": "2025-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/08/c0/c0482b78d72355be04ea04758f2a48f8a9b70364bdc9b454193bad610e09e64c/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/08/c0/c0482b78d72355be04ea04758f2a48f8a9b70364bdc9b454193bad610e09e64c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15292,
+    "sha256": "sha256:98d41524a09f7a9f8992d4e21a43c8a39c63df68a2316c6dac80b7f98ad5c7eb",
+    "normalized_content_hash": "sha256:52f4f97810cdf91274742a9289f33f0e16780b3f7df7bb981ee11cc42e2a2a59"
+  },
+  "provenance": {
+    "source_item_id": "707d50e7-6de5-4470-8e7d-19bf5503f520",
+    "external_id": "https://depot.dev/blog/now-available-remote-agent-sandboxes"
+  }
+}

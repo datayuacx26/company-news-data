@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d753ec473696e526f091c50670d96d476d593b34db1cf87b21115a18debc86bf",
+  "company": {
+    "key": "yc-thunder-compute",
+    "name": "Thunder Compute"
+  },
+  "source": {
+    "id": "yc-thunder-compute-news-import-c1dcc13dd65c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.thundercompute.com/blog/why-network-based-gpu-virtualization-is-the-future",
+    "canonical": "https://www.thundercompute.com/blog/why-network-based-gpu-virtualization-is-the-future"
+  },
+  "title": "GPU Virtualization: Approaches and Tradeoffs",
+  "summary": "Learn the three main types of GPU virtualization and why network-based GPU pooling is becoming essential for efficient AI infrastructure.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:40:14.192629+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T19:21:57.279191+00:00",
+  "paths": {
+    "article": "articles/v1/7d/yc-thunder-compute/2026/06/d7/d753ec473696e526f091c50670d96d476d593b34db1cf87b21115a18debc86bf/article.md",
+    "record": "articles/v1/7d/yc-thunder-compute/2026/06/d7/d753ec473696e526f091c50670d96d476d593b34db1cf87b21115a18debc86bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4683,
+    "sha256": "sha256:09d72994d67728f909952e991fcd325ebb1b3e87c3ff98db8fc8e301573d2bdd",
+    "normalized_content_hash": "sha256:549ea078784091cf3b0b9eb249b6c7a8f4ed5e7a4ebdae5a49fa65b7b519e59b"
+  },
+  "provenance": {
+    "source_item_id": "5a692de4-9782-4c02-b748-464aa6615f6c",
+    "external_id": "https://www.thundercompute.com/blog/why-network-based-gpu-virtualization-is-the-future"
+  }
+}

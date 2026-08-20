@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "422ce4692f33211a887f3cab13c87a07d95a8ce045c21151d1f62782707f6824",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/wordpress-vulnerabilities/",
+    "canonical": "https://blog.cloudflare.com/wordpress-vulnerabilities/"
+  },
+  "title": "Cloudflare WAF protects WordPress applications from two high-severity vulnerabilities",
+  "summary": "Cloudflare has deployed two WAF rules in response to high-severity vulnerabilities disclosed to us by the WordPress security team. The new rules protect all Cloudflare customers using affected WordPress versions, but customers should still update immediately to a patched release.",
+  "published_at": "2026-07-17T21:30:43+00:00",
+  "first_seen_at": "2026-07-20T03:32:14.182345+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-04T11:33:24.919158+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/42/422ce4692f33211a887f3cab13c87a07d95a8ce045c21151d1f62782707f6824/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/42/422ce4692f33211a887f3cab13c87a07d95a8ce045c21151d1f62782707f6824/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5267,
+    "sha256": "sha256:019f8586fa87c26ef32247b0dd575f8f096d65afd7829260455551908bbc24d7",
+    "normalized_content_hash": "sha256:0987eb5fde9993fb14ef43d3805eefcde1e8e4c7ca3d4849640b09493d64f837"
+  },
+  "provenance": {
+    "source_item_id": "fd0cd781-83bc-4751-80c6-0662836cba84",
+    "external_id": "01KXQS1XDD7HKB324JEWG6BZDA"
+  }
+}

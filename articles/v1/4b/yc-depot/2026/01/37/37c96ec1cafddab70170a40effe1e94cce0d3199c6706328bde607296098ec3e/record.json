@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "37c96ec1cafddab70170a40effe1e94cce0d3199c6706328bde607296098ec3e",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/3-fears-that-make-work-suck",
+    "canonical": "https://depot.dev/blog/3-fears-that-make-work-suck"
+  },
+  "title": "The 3 fears that make engineering suck",
+  "summary": "I pegged every CPU in our ClickHouse cluster during my second week. The fix was quick, but it triggered the three fears that actually make engineering suck: looking dumb, underperforming, and wasting people's time.",
+  "published_at": "2026-01-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:54:51.009577+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/01/37/37c96ec1cafddab70170a40effe1e94cce0d3199c6706328bde607296098ec3e/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/01/37/37c96ec1cafddab70170a40effe1e94cce0d3199c6706328bde607296098ec3e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8627,
+    "sha256": "sha256:42dee2d4e1e6c1dbb865e34e95074c75f0165ee9140a71100b84214130d4e9e0",
+    "normalized_content_hash": "sha256:6ec9ebd21281ae27d004eb226b18bd7cf027c728cb0ceec06233b949fc9fbd2d"
+  },
+  "provenance": {
+    "source_item_id": "ceff188d-eab6-4f7d-9fdd-8c17f4c6107e",
+    "external_id": "https://depot.dev/blog/3-fears-that-make-work-suck"
+  }
+}

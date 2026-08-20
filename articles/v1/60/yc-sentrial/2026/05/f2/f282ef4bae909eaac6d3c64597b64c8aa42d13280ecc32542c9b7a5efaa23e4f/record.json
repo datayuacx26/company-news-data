@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f282ef4bae909eaac6d3c64597b64c8aa42d13280ecc32542c9b7a5efaa23e4f",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/ai-agent-regression-testing-that-catches-silent-failures",
+    "canonical": "https://www.sentrial.com/blog/ai-agent-regression-testing-that-catches-silent-failures"
+  },
+  "title": "Agent Regression Testing Actually Catches Silent Failures This Way",
+  "summary": "Most agent test suites are built for deterministic software. Here's how we run a two-layer regression system that catches the behavioral failures those suites miss entirely.",
+  "published_at": "2026-05-28T04:44:45.529+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/05/f2/f282ef4bae909eaac6d3c64597b64c8aa42d13280ecc32542c9b7a5efaa23e4f/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/05/f2/f282ef4bae909eaac6d3c64597b64c8aa42d13280ecc32542c9b7a5efaa23e4f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30239,
+    "sha256": "sha256:3ec4f8e5611fd84be1e0b22749a1a40e0ff30a0d38f94d2d7d7fb26a42436459",
+    "normalized_content_hash": "sha256:9fc082211f268383d401839e33b6008e861eadef672d6dbda2aec85938ad24c6"
+  },
+  "provenance": {
+    "source_item_id": "7979649a-f3fa-4e10-9ab2-38d2471c1f3e",
+    "external_id": "https://www.sentrial.com/blog/ai-agent-regression-testing-that-catches-silent-failures"
+  }
+}

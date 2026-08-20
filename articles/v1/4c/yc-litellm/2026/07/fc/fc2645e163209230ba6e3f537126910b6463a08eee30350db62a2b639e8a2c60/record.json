@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc2645e163209230ba6e3f537126910b6463a08eee30350db62a2b639e8a2c60",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/router-plugins-on-the-proxy",
+    "canonical": "https://docs.litellm.ai/blog/router-plugins-on-the-proxy"
+  },
+  "title": "Announcing Router Plugins: Customize Routing Signals",
+  "summary": "Router plugins are now live on LiteLLM. Configure a plugin pipeline to determine which models to pick for a given input. Plugins can be chained as well",
+  "published_at": "2026-07-17T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/fc/fc2645e163209230ba6e3f537126910b6463a08eee30350db62a2b639e8a2c60/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/fc/fc2645e163209230ba6e3f537126910b6463a08eee30350db62a2b639e8a2c60/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8742,
+    "sha256": "sha256:4a76cc5003d0742b63ac663d97f1689d1bd16ba37b7d25fb9adc26a0e6dd112a",
+    "normalized_content_hash": "sha256:dfddd7b444099de03939181a27186c000053a00d5af8f422c96e30d53abc4f94"
+  },
+  "provenance": {
+    "source_item_id": "dec30134-c729-458c-99cd-dd67071a66e9",
+    "external_id": "https://docs.litellm.ai/blog/router-plugins-on-the-proxy"
+  }
+}

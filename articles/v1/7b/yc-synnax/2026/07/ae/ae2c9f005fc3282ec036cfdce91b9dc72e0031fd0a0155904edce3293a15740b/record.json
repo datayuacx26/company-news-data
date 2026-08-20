@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae2c9f005fc3282ec036cfdce91b9dc72e0031fd0a0155904edce3293a15740b",
+  "company": {
+    "key": "yc-synnax",
+    "name": "Synnax"
+  },
+  "source": {
+    "id": "yc-synnax-news-import-49a52373f89d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.synnaxlabs.com/blog/one-billion-rows",
+    "canonical": "https://docs.synnaxlabs.com/blog/one-billion-rows"
+  },
+  "title": "Performance Compared: Synnax vs. Timescale vs. Influx | Synnax",
+  "summary": "See how Synnax compares in performance to other time series databases.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T15:26:28.054745+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-20T01:04:15.376708+00:00",
+  "paths": {
+    "article": "articles/v1/7b/yc-synnax/2026/07/ae/ae2c9f005fc3282ec036cfdce91b9dc72e0031fd0a0155904edce3293a15740b/article.md",
+    "record": "articles/v1/7b/yc-synnax/2026/07/ae/ae2c9f005fc3282ec036cfdce91b9dc72e0031fd0a0155904edce3293a15740b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17584,
+    "sha256": "sha256:d9a8494a1408fee3c9d2f5d0e689a065bc5ae6f8cf4baaf2c7b76d7810d3a963",
+    "normalized_content_hash": "sha256:ddb1d526ed64e710e893cc690edc09c6b79f28925ae5efc52345071c92c90f5c"
+  },
+  "provenance": {
+    "source_item_id": "417c8a68-2500-4a8b-a587-8a6faa3dd6b6",
+    "external_id": "https://docs.synnaxlabs.com/blog/one-billion-rows"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-metriport",
+    "name": "Metriport"
+  },
+  "record_count": 13,
+  "first_published_at": "2025-02-13T12:00:00+00:00",
+  "last_published_at": "2026-07-30T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6e/yc-metriport/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13562,
+        "sha256": "sha256:ef1c457cd45ac3c4c492275ff50ae1932fed5e9b09fa1dd09f9eb4a4f7ca86b5",
+        "newest_at": "2026-07-30T12:00:00+00:00",
+        "oldest_at": "2025-02-13T12:00:00+00:00"
+      }
+    ]
+  }
+}

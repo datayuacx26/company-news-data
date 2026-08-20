@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-codeant-ai",
+    "name": "CodeAnt AI"
+  },
+  "record_count": 16,
+  "first_published_at": "2025-10-29T00:00:00+00:00",
+  "last_published_at": "2026-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4c/yc-codeant-ai/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 16959,
+        "sha256": "sha256:2e04482b23fc84b6778f8a5b1de5a32c1d38fc2f585a3a251349c52a44bf0525",
+        "newest_at": "2026-08-17T00:00:00+00:00",
+        "oldest_at": "2025-10-29T00:00:00+00:00"
+      }
+    ]
+  }
+}

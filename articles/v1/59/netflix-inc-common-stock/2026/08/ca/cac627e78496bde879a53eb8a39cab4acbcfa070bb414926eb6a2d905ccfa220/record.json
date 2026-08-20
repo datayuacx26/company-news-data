@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cac627e78496bde879a53eb8a39cab4acbcfa070bb414926eb6a2d905ccfa220",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc."
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/two-cops-and-five-kids-production",
+    "canonical": "https://about.netflix.com/news/two-cops-and-five-kids-production"
+  },
+  "title": "Netflix Confirms Production of New Family Action Comedy Film ‘Two Cops and Five Kids’",
+  "summary": "Netflix has announced the production and cast of 'Two Cops and Five Kids', a new family action-comedy film starring Cha Tae-hyun and Uhm Ji-won.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T07:23:45.718172+00:00",
+  "fetched_at": "2026-08-06T07:23:47.517271+00:00",
+  "last_updated_at": "2026-08-19T19:06:43.956089+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/08/ca/cac627e78496bde879a53eb8a39cab4acbcfa070bb414926eb6a2d905ccfa220/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/08/ca/cac627e78496bde879a53eb8a39cab4acbcfa070bb414926eb6a2d905ccfa220/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3160,
+    "sha256": "sha256:743ca1c9739cceeab02ecb81521538232ce0fcc464d1a4f045e88a8850681830",
+    "normalized_content_hash": "sha256:7ac0b8ec3f89698779919581d61f330b4e2a10a9db030bd5fad020d60ed07db1"
+  },
+  "provenance": {
+    "source_item_id": "6a9bbe8e-2ce1-4b77-a9ec-b77c9c775be0",
+    "external_id": "https://about.netflix.com/news/two-cops-and-five-kids-production"
+  }
+}

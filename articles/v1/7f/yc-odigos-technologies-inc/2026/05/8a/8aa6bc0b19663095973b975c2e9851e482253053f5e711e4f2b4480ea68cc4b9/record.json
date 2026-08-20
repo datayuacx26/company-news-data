@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8aa6bc0b19663095973b975c2e9851e482253053f5e711e4f2b4480ea68cc4b9",
+  "company": {
+    "key": "yc-odigos-technologies-inc",
+    "name": "Odigos Technologies Inc."
+  },
+  "source": {
+    "id": "yc-odigos-technologies-inc-rss-eb41174e661a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://odigos.io/blog/continuous-profiling-in-odigos",
+    "canonical": "https://odigos.io/blog/continuous-profiling-in-odigos"
+  },
+  "title": "Introducing Continuous Profiling in Odigos: Low Overhead, Zero Extra Storage",
+  "summary": "Continuous profiling is now built into Odigos. Collect and visualize profiles directly in Odigos with a lightweight in-memory experience, and optionally export via OTLP Profiles for historical analysis in your favorite destinations.",
+  "published_at": "2026-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:02:44.020335+00:00",
+  "fetched_at": "2026-08-20T02:53:26.937902+00:00",
+  "last_updated_at": "2026-08-20T02:53:27.040540+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-odigos-technologies-inc/2026/05/8a/8aa6bc0b19663095973b975c2e9851e482253053f5e711e4f2b4480ea68cc4b9/article.md",
+    "record": "articles/v1/7f/yc-odigos-technologies-inc/2026/05/8a/8aa6bc0b19663095973b975c2e9851e482253053f5e711e4f2b4480ea68cc4b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 859,
+    "sha256": "sha256:3410f0ea20dc713f99b5ee273fb83406da6eadbbc02714b97a67fe1c3810e8f0",
+    "normalized_content_hash": "sha256:f3cf5e5b00ba182c54628b0f8886d206bd3ed0cd49235e6ae4692a33e2d94c92"
+  },
+  "provenance": {
+    "source_item_id": "273e8a56-14ff-473d-ba91-53783ac4dbf7",
+    "external_id": "https://odigos.io/blog/continuous-profiling-in-odigos"
+  }
+}

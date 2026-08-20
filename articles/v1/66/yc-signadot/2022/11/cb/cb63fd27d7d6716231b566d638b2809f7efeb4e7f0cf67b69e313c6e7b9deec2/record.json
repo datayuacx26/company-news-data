@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb63fd27d7d6716231b566d638b2809f7efeb4e7f0cf67b69e313c6e7b9deec2",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/re-imagining-test-environments-for-microservices/",
+    "canonical": "https://www.signadot.com/blog/re-imagining-test-environments-for-microservices/"
+  },
+  "title": "Re-imagining Test Environments for Microservices",
+  "summary": "Discover the evolution of testing environments for microservices, from local and shared environments to the latest sandbox environments. Learn how sandbox environments, like those provided by Signadot, offer high-fidelity testing within an existing Kubernetes cluster, enabling fast feedback and affordable scalability.",
+  "published_at": "2022-11-08T11:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2022/11/cb/cb63fd27d7d6716231b566d638b2809f7efeb4e7f0cf67b69e313c6e7b9deec2/article.md",
+    "record": "articles/v1/66/yc-signadot/2022/11/cb/cb63fd27d7d6716231b566d638b2809f7efeb4e7f0cf67b69e313c6e7b9deec2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13392,
+    "sha256": "sha256:ed1f0d1bc3e7f86fc0ca58b3bd8efbeb48a930ee6cd733905ea3eb13d354a091",
+    "normalized_content_hash": "sha256:a1a0a839d266075505663c3a48ae3d7f440a353f8815d005ca6dc9e7be996ade"
+  },
+  "provenance": {
+    "source_item_id": "e7b6a623-bc33-4321-9a55-48779f93a4d1",
+    "external_id": "https://www.signadot.com/blog/re-imagining-test-environments-for-microservices/"
+  }
+}

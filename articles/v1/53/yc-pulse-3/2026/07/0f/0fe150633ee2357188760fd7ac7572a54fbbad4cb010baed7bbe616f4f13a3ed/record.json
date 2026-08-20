@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0fe150633ee2357188760fd7ac7572a54fbbad4cb010baed7bbe616f4f13a3ed",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/evaluating-document-extraction",
+    "canonical": "https://www.runpulse.com/blog/evaluating-document-extraction"
+  },
+  "title": "Evaluating Document Extraction: Why Accuracy Alone Misleads",
+  "summary": "Document extraction fails across reading order, structure, and semantic axes that single metrics hide. | Pulse AI",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T21:33:19.979240+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:56.242320+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/07/0f/0fe150633ee2357188760fd7ac7572a54fbbad4cb010baed7bbe616f4f13a3ed/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/07/0f/0fe150633ee2357188760fd7ac7572a54fbbad4cb010baed7bbe616f4f13a3ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11329,
+    "sha256": "sha256:59bad339bb6bec5182dbc2e62570ee8cb0fa83246bebaae2db30a3db72656925",
+    "normalized_content_hash": "sha256:211b51137514283dc04203855b9a9a42555c4fb9e0290a658f86260a21bcd474"
+  },
+  "provenance": {
+    "source_item_id": "36c4f7e3-d46a-49e2-9d36-fa89bbd9546b",
+    "external_id": "https://www.runpulse.com/blog/evaluating-document-extraction"
+  }
+}

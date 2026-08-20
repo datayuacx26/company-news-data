@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9a0834dfef28aec873c001e0a0bd42c415c0cc2e19a95c6a158b09ff7db56355",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/ssh-keys-dont-scale",
+    "canonical": "https://infisical.com/blog/ssh-keys-dont-scale"
+  },
+  "title": "SSH Keys Don't Scale. SSH Certificates Do",
+  "summary": "Breaking down the limitations of SSH key-based authentication and showing how SSH certificates enable modern, manageable infrastructure access.",
+  "published_at": "2025-04-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T20:58:06.165020+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2025/04/9a/9a0834dfef28aec873c001e0a0bd42c415c0cc2e19a95c6a158b09ff7db56355/article.md",
+    "record": "articles/v1/68/yc-infisical/2025/04/9a/9a0834dfef28aec873c001e0a0bd42c415c0cc2e19a95c6a158b09ff7db56355/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13505,
+    "sha256": "sha256:d83fc6d7139938cf8155e7c0cc9f49315f2a9cbf83e8dd47649882cf6eba9cc3",
+    "normalized_content_hash": "sha256:4d29b8c404d7c9c380386484d1e9514c9f4ff04fbce500f9b149917a86015c32"
+  },
+  "provenance": {
+    "source_item_id": "0339add7-18e1-4bbb-bb3b-d98e357c94f9",
+    "external_id": "https://infisical.com/blog/ssh-keys-dont-scale"
+  }
+}

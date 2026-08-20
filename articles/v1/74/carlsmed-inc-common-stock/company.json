@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "carlsmed-inc-common-stock",
+    "name": "Carlsmed Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-02-10T14:00:24+00:00",
+  "last_published_at": "2026-08-05T20:01:53+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/74/carlsmed-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 16946,
+        "sha256": "sha256:24936da1a996ab0a6776d490506971fbf3d26f454ed846468ee2eafcbf249734",
+        "newest_at": "2026-08-05T20:01:53+00:00",
+        "oldest_at": "2026-02-10T14:00:24+00:00"
+      }
+    ]
+  }
+}

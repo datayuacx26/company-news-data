@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "631eac9d3f7198e9ed2174164d12cde361c6241972918dee7899e681c570fada",
+  "company": {
+    "key": "yc-redouble-ai",
+    "name": "Redouble AI"
+  },
+  "source": {
+    "id": "yc-redouble-ai-rss-94bf26a72f2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://deconvoluteai.com/blog/why-prompt-injection-detection-fails",
+    "canonical": "https://deconvoluteai.com/blog/why-prompt-injection-detection-fails"
+  },
+  "title": "Why prompt injection detection fails, and what holds up",
+  "summary": "Defenses that inspect untrusted text look strong on fixed tests but break above 90% under adaptive attack. Defenses that constrain agent actions hold up. Here's why.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:30:56.530208+00:00",
+  "fetched_at": "2026-07-28T20:37:08.491459+00:00",
+  "last_updated_at": "2026-08-20T01:58:57.445054+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-redouble-ai/2026/07/63/631eac9d3f7198e9ed2174164d12cde361c6241972918dee7899e681c570fada/article.md",
+    "record": "articles/v1/60/yc-redouble-ai/2026/07/63/631eac9d3f7198e9ed2174164d12cde361c6241972918dee7899e681c570fada/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33176,
+    "sha256": "sha256:29616d5df1142680a27fbeff9feea962a02ff8a9bd224579303807813bb7b0a9",
+    "normalized_content_hash": "sha256:b5f10031b369cd4eaaa00b1684505b6aac771fdf63a800fb21cfe5babb065bc6"
+  },
+  "provenance": {
+    "source_item_id": "f0d8bf8b-9e9a-439b-9ab4-1a86f013ce09",
+    "external_id": "https://deconvoluteai.com/blog/why-prompt-injection-detection-fails"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b405ad4aa82ccbb9e24e9b0d3b8edd2ac028dc17e9c52fbf17840690a39a635f",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/project-region-selection",
+    "canonical": "https://depot.dev/blog/project-region-selection"
+  },
+  "title": "New feature: Select the region for your Depot projects",
+  "summary": "Building your Docker images just got even faster with the ability to launch Depot builders in the region closest to your registries.",
+  "published_at": "2022-12-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/12/b4/b405ad4aa82ccbb9e24e9b0d3b8edd2ac028dc17e9c52fbf17840690a39a635f/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/12/b4/b405ad4aa82ccbb9e24e9b0d3b8edd2ac028dc17e9c52fbf17840690a39a635f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2242,
+    "sha256": "sha256:cfc761b59b8761d3b7df5655cf3b0b9e92fd0fb9c47fa208a8a8d63b5d20f9e0",
+    "normalized_content_hash": "sha256:eed97be503c2886d8e3c10d361a3df2bb82288acf168de10bf3619b6906aeecf"
+  },
+  "provenance": {
+    "source_item_id": "bc088ec3-200f-4484-b422-fb6b1b18ab9e",
+    "external_id": "https://depot.dev/blog/project-region-selection"
+  }
+}

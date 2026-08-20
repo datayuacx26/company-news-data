@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nike-inc-common-stock",
+    "name": "Nike Inc."
+  },
+  "record_count": 25,
+  "first_published_at": "2026-06-23T13:16:00+00:00",
+  "last_published_at": "2026-08-19T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/63/nike-inc-common-stock/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 28800,
+        "sha256": "sha256:768550f22e708ecd703f267b93ab63f06563814bf44898fe377b43e36073b599",
+        "newest_at": "2026-08-19T12:00:00+00:00",
+        "oldest_at": "2026-06-23T13:16:00+00:00"
+      }
+    ]
+  }
+}

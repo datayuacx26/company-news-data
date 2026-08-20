@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3be9244a48a264eb120fd43aca4687bab0c4caf5fde8e6f4e0cbb257abdc3ec4",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/airbyte-oss-to-cloud",
+    "canonical": "https://airbyte.com/blog/airbyte-oss-to-cloud"
+  },
+  "title": "Move from Airbyte OSS to Cloud Without Missing a Sync",
+  "summary": "Migrate from Airbyte Open Source to Airbyte Cloud without missing a sync. Follow a seamless transition process that keeps your data pipelines running.",
+  "published_at": "2026-07-24T11:24:00+00:00",
+  "first_seen_at": "2026-07-24T23:55:54.462313+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/07/3b/3be9244a48a264eb120fd43aca4687bab0c4caf5fde8e6f4e0cbb257abdc3ec4/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/07/3b/3be9244a48a264eb120fd43aca4687bab0c4caf5fde8e6f4e0cbb257abdc3ec4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6782,
+    "sha256": "sha256:fab1245287e7d7a0023650228588660fde3e82183641cfe1b28cb0350dccf4fe",
+    "normalized_content_hash": "sha256:634df819376c2ad22fd292b7aeedd140507be41153101431646514eecf201aec"
+  },
+  "provenance": {
+    "source_item_id": "059cd379-83f7-4162-9934-f93d3a8a4093",
+    "external_id": "https://airbyte.com/blog/airbyte-oss-to-cloud"
+  }
+}

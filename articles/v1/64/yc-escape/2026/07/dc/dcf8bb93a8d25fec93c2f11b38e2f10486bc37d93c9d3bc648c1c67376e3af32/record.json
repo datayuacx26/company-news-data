@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dcf8bb93a8d25fec93c2f11b38e2f10486bc37d93c9d3bc648c1c67376e3af32",
+  "company": {
+    "key": "yc-escape",
+    "name": "Escape"
+  },
+  "source": {
+    "id": "yc-escape-rss-d1370620bfa7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://escape.tech/blog/fix-issues-in-cursor-claude-codex-or-custom-agent/",
+    "canonical": "https://escape.tech/blog/fix-issues-in-cursor-claude-codex-or-custom-agent/"
+  },
+  "title": "Fix issues with a prompt built for your coding agent",
+  "summary": "There's a translation step between a security finding and a fix, and it's usually done by hand. Someone opens the issue, reads the description, checks the CVSS score, follows the link to the affected asset, works out which endpoint is actually involved, then writes all of it back out as",
+  "published_at": "2026-07-16T11:37:00+00:00",
+  "first_seen_at": "2026-07-24T11:57:14.180697+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-12T06:02:48.502503+00:00",
+  "paths": {
+    "article": "articles/v1/64/yc-escape/2026/07/dc/dcf8bb93a8d25fec93c2f11b38e2f10486bc37d93c9d3bc648c1c67376e3af32/article.md",
+    "record": "articles/v1/64/yc-escape/2026/07/dc/dcf8bb93a8d25fec93c2f11b38e2f10486bc37d93c9d3bc648c1c67376e3af32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3466,
+    "sha256": "sha256:6461de6c52e0c58aaeb00dbba2634960e7c92d19cdee094d7a69976b61a0d0a2",
+    "normalized_content_hash": "sha256:b2b8b8663f41f3630a85ca7116a338e66e0fb8e098413d3a4a883de35896806d"
+  },
+  "provenance": {
+    "source_item_id": "e8dbaeab-c277-4282-8ddb-287beea90eac",
+    "external_id": "6a633b1b885f790001dbbe4e"
+  }
+}

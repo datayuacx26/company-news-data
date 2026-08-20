@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6d8aaef133ba0bd620ad38741abada3d3b5bfaf3f921d4463695373ffa28774",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/shifting-testing-left-the-request-isolation-solution/",
+    "canonical": "https://www.signadot.com/blog/shifting-testing-left-the-request-isolation-solution/"
+  },
+  "title": "Shifting Testing Left: The Request Isolation Solution",
+  "summary": "Testing in a complex microservice environment should include a highly accurate shared environment where developers’ tests won’t interfere with other tests.",
+  "published_at": "2024-06-21T20:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/06/f6/f6d8aaef133ba0bd620ad38741abada3d3b5bfaf3f921d4463695373ffa28774/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/06/f6/f6d8aaef133ba0bd620ad38741abada3d3b5bfaf3f921d4463695373ffa28774/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8988,
+    "sha256": "sha256:6769d2e9b2a4cd6e710e99c29ddafb1168c7ecf9d388b4c6abb535d5612d46c7",
+    "normalized_content_hash": "sha256:b01b4cebb71b60e120e2cd326ff2c0f528266b146f7f0a0f72645c7ef4e66d74"
+  },
+  "provenance": {
+    "source_item_id": "daaf5100-f34e-467f-bf6c-aa59dc424ce3",
+    "external_id": "https://www.signadot.com/blog/shifting-testing-left-the-request-isolation-solution/"
+  }
+}

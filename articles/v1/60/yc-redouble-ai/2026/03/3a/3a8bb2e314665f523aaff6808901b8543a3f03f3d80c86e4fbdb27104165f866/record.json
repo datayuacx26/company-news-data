@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a8bb2e314665f523aaff6808901b8543a3f03f3d80c86e4fbdb27104165f866",
+  "company": {
+    "key": "yc-redouble-ai",
+    "name": "Redouble AI"
+  },
+  "source": {
+    "id": "yc-redouble-ai-rss-94bf26a72f2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://deconvoluteai.com/blog/mcp-schema-injection-attack",
+    "canonical": "https://deconvoluteai.com/blog/mcp-schema-injection-attack"
+  },
+  "title": "MCP Rug Pull Attacks - Stealing AI Agent Credentials",
+  "summary": "MCP servers can dynamically alter tool definitions to steal credentials. Learn the rug pull attack pattern and protocol firewall defenses.",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:30:56.530208+00:00",
+  "fetched_at": "2026-07-28T21:57:38.048658+00:00",
+  "last_updated_at": "2026-08-20T01:58:57.445054+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-redouble-ai/2026/03/3a/3a8bb2e314665f523aaff6808901b8543a3f03f3d80c86e4fbdb27104165f866/article.md",
+    "record": "articles/v1/60/yc-redouble-ai/2026/03/3a/3a8bb2e314665f523aaff6808901b8543a3f03f3d80c86e4fbdb27104165f866/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10168,
+    "sha256": "sha256:4eb07e1fe06490684a23004d4383ce2412ee85f22ae623b461ac8432f613cc03",
+    "normalized_content_hash": "sha256:ef9c7b013dbb30180dec24244aaa5828a75e1b19e4f20b3f71533f1e2d38af26"
+  },
+  "provenance": {
+    "source_item_id": "804dafe3-cf44-422d-9920-ac24ea91cab2",
+    "external_id": "https://deconvoluteai.com/blog/mcp-schema-injection-attack"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "071a4ae5990943877190c66eae7faac3231d173c5cdc977af269c2a15248853e",
+  "company": {
+    "key": "yc-mecha-health",
+    "name": "Mecha Health"
+  },
+  "source": {
+    "id": "yc-mecha-health-news-import-dc619b8bf4eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mecha-health.ai/blog/Assessing-models-qualitatively",
+    "canonical": "https://www.mecha-health.ai/blog/Assessing-models-qualitatively"
+  },
+  "title": "Qualitative Case Studies for Assessing Foundation Models",
+  "summary": "Most metrics used to evaluate machine learning models are quantitative, but qualitative assessment is crucial.",
+  "published_at": "2025-11-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T00:30:28.783990+00:00",
+  "fetched_at": "2026-08-10T00:30:30.164114+00:00",
+  "last_updated_at": "2026-08-19T16:55:26.579140+00:00",
+  "paths": {
+    "article": "articles/v1/67/yc-mecha-health/2025/11/07/071a4ae5990943877190c66eae7faac3231d173c5cdc977af269c2a15248853e/article.md",
+    "record": "articles/v1/67/yc-mecha-health/2025/11/07/071a4ae5990943877190c66eae7faac3231d173c5cdc977af269c2a15248853e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10806,
+    "sha256": "sha256:a66612a8c0576db87623b46278c0a4df86aa8ef1aae82afee8634d58be651172",
+    "normalized_content_hash": "sha256:592efdb9211f569024f4502fbd186b12372c15ddf3e9f51490768723b192fb00"
+  },
+  "provenance": {
+    "source_item_id": "88cfd6e2-733e-4e1c-b58b-1b76dd940e9b",
+    "external_id": "https://www.mecha-health.ai/blog/Assessing-models-qualitatively"
+  }
+}

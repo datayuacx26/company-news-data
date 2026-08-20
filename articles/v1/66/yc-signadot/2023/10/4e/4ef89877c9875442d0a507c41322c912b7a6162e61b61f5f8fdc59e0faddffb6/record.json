@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ef89877c9875442d0a507c41322c912b7a6162e61b61f5f8fdc59e0faddffb6",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/scaling-environments-with-opentelemetry-and-service-mesh/",
+    "canonical": "https://www.signadot.com/blog/scaling-environments-with-opentelemetry-and-service-mesh/"
+  },
+  "title": "Scaling Environments with OpenTelemetry And Service Mesh",
+  "summary": "Explore how OpenTelemetry and service meshes like Istio and Linkerd revolutionize microservices development. This comprehensive guide discusses scalable dev, preview, and test environments, addressing challenges like cost scaling, stale dependencies, and improving developer experience.",
+  "published_at": "2023-10-17T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/10/4e/4ef89877c9875442d0a507c41322c912b7a6162e61b61f5f8fdc59e0faddffb6/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/10/4e/4ef89877c9875442d0a507c41322c912b7a6162e61b61f5f8fdc59e0faddffb6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12101,
+    "sha256": "sha256:9857fa6b7aa807e569aa391bcf221f9446837de863a7d5f63e8885aebb67af35",
+    "normalized_content_hash": "sha256:5b9eb4ca6143fe0c9b08ea0e9367f526d8585e374d17152503e53f3793a6a076"
+  },
+  "provenance": {
+    "source_item_id": "bfed7da5-0603-428c-acde-8b5f20dbdd0a",
+    "external_id": "https://www.signadot.com/blog/scaling-environments-with-opentelemetry-and-service-mesh/"
+  }
+}

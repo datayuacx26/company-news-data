@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-joy",
+    "name": "Joy"
+  },
+  "record_count": 47,
+  "first_published_at": "2026-07-10T15:54:25+00:00",
+  "last_published_at": "2026-08-14T14:39:09+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 28
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 19
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/52/yc-joy/index/pages/000001.json",
+        "record_count": 47,
+        "byte_count": 47264,
+        "sha256": "sha256:ac6c496d601dbcb5afcc2a0fda85653947467b7b01f9be69e100707bdf60663f",
+        "newest_at": "2026-08-14T14:39:09+00:00",
+        "oldest_at": "2026-07-10T15:54:25+00:00"
+      }
+    ]
+  }
+}

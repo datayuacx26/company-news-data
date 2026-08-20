@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90e2b23dfd76b0b47c3bb86bf7e2093e2e188c664779ab21e051145aa3fdae60",
+  "company": {
+    "key": "varonis-systems-inc-common-stock",
+    "name": "Varonis Systems Inc."
+  },
+  "source": {
+    "id": "varonis-systems-inc-common-stock-news-import-29d04d5fbb0d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.varonis.com/blog/dataflow-rider",
+    "canonical": "https://www.varonis.com/blog/dataflow-rider"
+  },
+  "title": "Dataflow Rider: How Attackers can Abuse Shadow Resources in Google Cloud Dataflow",
+  "summary": "Discover how attackers can hijack Google Cloud Dataflow pipelines by manipulating shadow resources and learn how to secure your environment against it.",
+  "published_at": "2026-02-12T14:08:25+00:00",
+  "first_seen_at": "2026-07-26T04:13:19.356665+00:00",
+  "fetched_at": "2026-07-28T22:20:35.441827+00:00",
+  "last_updated_at": "2026-08-19T19:37:25.872904+00:00",
+  "paths": {
+    "article": "articles/v1/7d/varonis-systems-inc-common-stock/2026/02/90/90e2b23dfd76b0b47c3bb86bf7e2093e2e188c664779ab21e051145aa3fdae60/article.md",
+    "record": "articles/v1/7d/varonis-systems-inc-common-stock/2026/02/90/90e2b23dfd76b0b47c3bb86bf7e2093e2e188c664779ab21e051145aa3fdae60/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13461,
+    "sha256": "sha256:d8adb21c002c525a888cdd03982246a445e927a5f9826de548e388532acead1c",
+    "normalized_content_hash": "sha256:e835837f7541a7f4fd1798f46a515cc15f50d7b4e853755d36abc99d7d68130d"
+  },
+  "provenance": {
+    "source_item_id": "890f0094-de9e-4ac0-85ee-1ce7f87e43b8",
+    "external_id": "https://www.varonis.com/blog/dataflow-rider"
+  }
+}

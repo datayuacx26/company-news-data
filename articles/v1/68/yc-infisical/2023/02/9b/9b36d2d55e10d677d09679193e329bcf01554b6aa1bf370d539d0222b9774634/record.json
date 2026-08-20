@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b36d2d55e10d677d09679193e329bcf01554b6aa1bf370d539d0222b9774634",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/how-to-manage-secrets-in-kubernetes",
+    "canonical": "https://infisical.com/blog/how-to-manage-secrets-in-kubernetes"
+  },
+  "title": "A better way to manage Kubernetes secrets",
+  "summary": "Learn how to manage Kubernetes secrets.",
+  "published_at": "2023-02-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2023/02/9b/9b36d2d55e10d677d09679193e329bcf01554b6aa1bf370d539d0222b9774634/article.md",
+    "record": "articles/v1/68/yc-infisical/2023/02/9b/9b36d2d55e10d677d09679193e329bcf01554b6aa1bf370d539d0222b9774634/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9275,
+    "sha256": "sha256:a16d6373e567776941a44668c0c6c20dafbc7e6d5392d63dea7efacb85e64eab",
+    "normalized_content_hash": "sha256:027e13f9b8e1da838714672cc93cc51c671c7af4f4855bd8a96bf452a2887c7c"
+  },
+  "provenance": {
+    "source_item_id": "89415440-7404-4068-b3cd-75c1c25e7600",
+    "external_id": "https://infisical.com/blog/how-to-manage-secrets-in-kubernetes"
+  }
+}

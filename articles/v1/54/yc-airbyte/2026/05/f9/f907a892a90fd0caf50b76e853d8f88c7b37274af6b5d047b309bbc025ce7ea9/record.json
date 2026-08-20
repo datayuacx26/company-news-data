@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f907a892a90fd0caf50b76e853d8f88c7b37274af6b5d047b309bbc025ce7ea9",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/airbyte-agents",
+    "canonical": "https://airbyte.com/blog/airbyte-agents"
+  },
+  "title": "Airbyte Agents: A New Era for Airbyte",
+  "summary": "Introducing Airbyte Agents: a new way to give AI agents trusted business context with Airbyte",
+  "published_at": "2026-05-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/05/f9/f907a892a90fd0caf50b76e853d8f88c7b37274af6b5d047b309bbc025ce7ea9/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/05/f9/f907a892a90fd0caf50b76e853d8f88c7b37274af6b5d047b309bbc025ce7ea9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10980,
+    "sha256": "sha256:4cfc4bbce064ccd379b583974a2eb286219056456b5de91a411c626652cde5b9",
+    "normalized_content_hash": "sha256:3304cb8e649d0169d6c0f7bf45c6af706dea5ca27e4c2998d558ab2f893061a3"
+  },
+  "provenance": {
+    "source_item_id": "0e40f1dc-2b91-4bde-a1d5-39c6e7111b9f",
+    "external_id": "https://airbyte.com/blog/airbyte-agents"
+  }
+}

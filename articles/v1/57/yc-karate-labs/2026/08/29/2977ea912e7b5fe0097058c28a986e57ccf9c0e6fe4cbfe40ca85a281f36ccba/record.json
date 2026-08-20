@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2977ea912e7b5fe0097058c28a986e57ccf9c0e6fe4cbfe40ca85a281f36ccba",
+  "company": {
+    "key": "yc-karate-labs",
+    "name": "Karate Labs"
+  },
+  "source": {
+    "id": "yc-karate-labs-news-import-eb3f9bfe6418",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://karatelabs.io/blog/two-of-seven-never-compared",
+    "canonical": "https://karatelabs.io/blog/two-of-seven-never-compared"
+  },
+  "title": "Your tests are green. Two of your seven operations were never compared.",
+  "summary": "A contract run that passed, and still told us what it did not check. Walking the public policy-api report: 12 scenarios matched, 5 of 7 operations compared, and the two it named by hand.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T01:28:11.026671+00:00",
+  "fetched_at": "2026-08-10T01:28:11.685109+00:00",
+  "last_updated_at": "2026-08-19T23:56:01.658564+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-karate-labs/2026/08/29/2977ea912e7b5fe0097058c28a986e57ccf9c0e6fe4cbfe40ca85a281f36ccba/article.md",
+    "record": "articles/v1/57/yc-karate-labs/2026/08/29/2977ea912e7b5fe0097058c28a986e57ccf9c0e6fe4cbfe40ca85a281f36ccba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5474,
+    "sha256": "sha256:94f5915c078d8181812012311d3f32f4baf9dd60236e8b6eb80fd4669677df0e",
+    "normalized_content_hash": "sha256:adcd7a56db200fa44765694642b3cf33bdb07d19d2db6bd28035c3ee2e8a57aa"
+  },
+  "provenance": {
+    "source_item_id": "7cb538ee-e150-4d63-9d14-8ef2e784ade9",
+    "external_id": "https://karatelabs.io/blog/two-of-seven-never-compared"
+  }
+}

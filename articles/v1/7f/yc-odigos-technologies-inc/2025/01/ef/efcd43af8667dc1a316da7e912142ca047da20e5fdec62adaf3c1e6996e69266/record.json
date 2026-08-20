@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efcd43af8667dc1a316da7e912142ca047da20e5fdec62adaf3c1e6996e69266",
+  "company": {
+    "key": "yc-odigos-technologies-inc",
+    "name": "Odigos Technologies Inc."
+  },
+  "source": {
+    "id": "yc-odigos-technologies-inc-rss-eb41174e661a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://odigos.io/blog/how-odigos-helps-debug-mysterious-delays-in-microservices",
+    "canonical": "https://odigos.io/blog/how-odigos-helps-debug-mysterious-delays-in-microservices"
+  },
+  "title": "How Odigos Helps Debug Mysterious Delays in Microservices",
+  "summary": "Microservices architectures make debugging mysterious timeouts incredibly difficult. Odigos distributed tracing reveals the hidden connections between services and helps identify the root cause of cascading failures in Kubernetes environments.",
+  "published_at": "2025-01-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:02:44.020335+00:00",
+  "fetched_at": "2026-08-20T02:53:26.937902+00:00",
+  "last_updated_at": "2026-08-20T02:53:27.040540+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-odigos-technologies-inc/2025/01/ef/efcd43af8667dc1a316da7e912142ca047da20e5fdec62adaf3c1e6996e69266/article.md",
+    "record": "articles/v1/7f/yc-odigos-technologies-inc/2025/01/ef/efcd43af8667dc1a316da7e912142ca047da20e5fdec62adaf3c1e6996e69266/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 878,
+    "sha256": "sha256:edced29577a0c523a64ed28d1c267ef635ff5cde50127215093d9f76c9f206d7",
+    "normalized_content_hash": "sha256:4eaec636d1851b804031d8ecf1ddbfb76d17cc8d124701963c103b5a1a0dd3dd"
+  },
+  "provenance": {
+    "source_item_id": "1205f6f8-2404-4028-a15d-a5297bbb422e",
+    "external_id": "https://odigos.io/blog/how-odigos-helps-debug-mysterious-delays-in-microservices"
+  }
+}

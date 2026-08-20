@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f269a833a10a5fcabaee4ab8cfbf6e74e6cbfc842833a0a543e3fa8a8b1355e",
+  "company": {
+    "key": "yc-redouble-ai",
+    "name": "Redouble AI"
+  },
+  "source": {
+    "id": "yc-redouble-ai-rss-94bf26a72f2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://deconvoluteai.com/blog/rag/metrics-retrieval",
+    "canonical": "https://deconvoluteai.com/blog/rag/metrics-retrieval"
+  },
+  "title": "Metrics for Evaluation of Retrieval in Retrieval-Augmented Generation (RAG) Systems",
+  "summary": "Learn about evaluation metrics for the retrieval component of a RAG system. Discover how metrics like Precision@k, Recall@k, F1@k, MRR, and MAP can optimize your system's performance. Ensure your RAG pipeline delivers high-quality context for better-generated responses.",
+  "published_at": "2024-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:30:56.530208+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T01:58:57.445054+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-redouble-ai/2024/06/5f/5f269a833a10a5fcabaee4ab8cfbf6e74e6cbfc842833a0a543e3fa8a8b1355e/article.md",
+    "record": "articles/v1/60/yc-redouble-ai/2024/06/5f/5f269a833a10a5fcabaee4ab8cfbf6e74e6cbfc842833a0a543e3fa8a8b1355e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21916,
+    "sha256": "sha256:036f0a03ced66fbf184180a3b7509acc64de711f6aa0c753335d99042bb5b6d4",
+    "normalized_content_hash": "sha256:63c4d61e1e10b128a233aeedaa80698620bb67fd17e9761b9d52277c583c847f"
+  },
+  "provenance": {
+    "source_item_id": "3cfd0880-2dc3-4cfe-b417-8ff39fe986e4",
+    "external_id": "https://deconvoluteai.com/blog/rag/metrics-retrieval"
+  }
+}

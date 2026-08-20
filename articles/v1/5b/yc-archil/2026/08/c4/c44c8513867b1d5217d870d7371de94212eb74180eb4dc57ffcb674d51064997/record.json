@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c44c8513867b1d5217d870d7371de94212eb74180eb4dc57ffcb674d51064997",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/efs-outside-of-aws",
+    "canonical": "https://archil.com/article/efs-outside-of-aws"
+  },
+  "title": "How do I do EFS on Other Clouds?",
+  "summary": "This guide compares AWS EFS and its cloud storage alternatives—Azure Files, GCP Filestore, Oracle, and Archil—highlighting differences in scalability, performance, and cost to help teams choose the best managed NFS solution for their workloads.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/c4/c44c8513867b1d5217d870d7371de94212eb74180eb4dc57ffcb674d51064997/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/c4/c44c8513867b1d5217d870d7371de94212eb74180eb4dc57ffcb674d51064997/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12053,
+    "sha256": "sha256:67f7cb97dd0ade76bdf0eda14389e48db500711ed362c01fe5bd26a159162c4a",
+    "normalized_content_hash": "sha256:0b4ab5f50e028c0ce9eff63c048d78ebedd3ae8f6aa1e7adab5d1bf3dcf55b4d"
+  },
+  "provenance": {
+    "source_item_id": "b4f37976-76e3-49cc-bf80-be3ce9bcabc3",
+    "external_id": "https://archil.com/article/efs-outside-of-aws"
+  }
+}

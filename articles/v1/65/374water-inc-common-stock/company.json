@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "374water-inc-common-stock",
+    "name": "374Water Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2025-10-24T21:38:14+00:00",
+  "last_published_at": "2026-01-14T21:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/65/374water-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11505,
+        "sha256": "sha256:57251ae45a8c1d11906d4bdbeb655b65c8789ae399a9f52859fbfcdcdd8d55e1",
+        "newest_at": "2026-01-14T21:01:00+00:00",
+        "oldest_at": "2025-10-24T21:38:14+00:00"
+      }
+    ]
+  }
+}

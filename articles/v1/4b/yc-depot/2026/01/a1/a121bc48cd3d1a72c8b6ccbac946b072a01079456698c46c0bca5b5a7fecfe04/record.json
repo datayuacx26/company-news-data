@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a121bc48cd3d1a72c8b6ccbac946b072a01079456698c46c0bca5b5a7fecfe04",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/what-we-learned-optimizing-ec2-macos-build-performance",
+    "canonical": "https://depot.dev/blog/what-we-learned-optimizing-ec2-macos-build-performance"
+  },
+  "title": "What we learned optimizing EC2 macOS build performance",
+  "summary": "We ran iOS builds across different EBS disk configurations on EC2 macOS instances to find the optimal setup. We discovered that simply throwing more IOPS at the problem doesn't work the way you'd expect.",
+  "published_at": "2026-01-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:54:56.230774+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/01/a1/a121bc48cd3d1a72c8b6ccbac946b072a01079456698c46c0bca5b5a7fecfe04/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/01/a1/a121bc48cd3d1a72c8b6ccbac946b072a01079456698c46c0bca5b5a7fecfe04/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11579,
+    "sha256": "sha256:a46285d9570ceea0ac15fc4282d2b39076b69ef829d8d026e3b07b966d092e3f",
+    "normalized_content_hash": "sha256:eaf431c75d8bccfdfe7b4965c0f2264f179343aa9df231d05d121ba39f79448d"
+  },
+  "provenance": {
+    "source_item_id": "5218a649-36c4-42c2-bee3-a712ae73e0f7",
+    "external_id": "https://depot.dev/blog/what-we-learned-optimizing-ec2-macos-build-performance"
+  }
+}

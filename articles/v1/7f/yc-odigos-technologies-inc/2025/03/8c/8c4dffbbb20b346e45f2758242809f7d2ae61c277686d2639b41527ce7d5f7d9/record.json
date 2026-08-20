@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c4dffbbb20b346e45f2758242809f7d2ae61c277686d2639b41527ce7d5f7d9",
+  "company": {
+    "key": "yc-odigos-technologies-inc",
+    "name": "Odigos Technologies Inc."
+  },
+  "source": {
+    "id": "yc-odigos-technologies-inc-rss-eb41174e661a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://odigos.io/blog/solving-pitfalls-of-distributed-tracing-in-real-world-microservices",
+    "canonical": "https://odigos.io/blog/solving-pitfalls-of-distributed-tracing-in-real-world-microservices"
+  },
+  "title": "Solving the Pitfalls of Distributed Tracing in Real-World Microservices",
+  "summary": "Learn why distributed tracing often fails in production and how to fix common issues like missing traces, broken context, and performance overhead.",
+  "published_at": "2025-03-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:02:44.020335+00:00",
+  "fetched_at": "2026-08-20T02:53:26.937902+00:00",
+  "last_updated_at": "2026-08-20T02:53:27.040540+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-odigos-technologies-inc/2025/03/8c/8c4dffbbb20b346e45f2758242809f7d2ae61c277686d2639b41527ce7d5f7d9/article.md",
+    "record": "articles/v1/7f/yc-odigos-technologies-inc/2025/03/8c/8c4dffbbb20b346e45f2758242809f7d2ae61c277686d2639b41527ce7d5f7d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 806,
+    "sha256": "sha256:d0e7dc398f6a5e74f717191e1d8a28dc4850e3362a3df9149f9e4157193121fb",
+    "normalized_content_hash": "sha256:07729d9a1f16786553652e89702e7bec2fde9484ebebd51ca23e4e7ac9ab4853"
+  },
+  "provenance": {
+    "source_item_id": "c848d988-c8ac-40cd-93e0-1766d799d63f",
+    "external_id": "https://odigos.io/blog/solving-pitfalls-of-distributed-tracing-in-real-world-microservices"
+  }
+}

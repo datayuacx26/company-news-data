@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a89a1470416b9b5629df280194432665548a4dd104c8d143f767052bd1dfcfee",
+  "company": {
+    "key": "yc-pinnacle",
+    "name": "Pinnacle"
+  },
+  "source": {
+    "id": "yc-pinnacle-news-import-eb12d43fa2a4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pinnacle.sh/blog/sms-pre-send-filter",
+    "canonical": "https://pinnacle.sh/blog/sms-pre-send-filter"
+  },
+  "title": "Building an SMS Pre-Send Filter: The Architecture That Actually Works",
+  "summary": "If you're building your own SMS pre-send filter, the instinct is to compile a regex of bad words. Don't. Here's the three-tier block/flag/allow architecture, the normalization stack, and the code that actually keeps messages flowing.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:16:03.254405+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-19T19:58:36.757593+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-pinnacle/2026/04/a8/a89a1470416b9b5629df280194432665548a4dd104c8d143f767052bd1dfcfee/article.md",
+    "record": "articles/v1/49/yc-pinnacle/2026/04/a8/a89a1470416b9b5629df280194432665548a4dd104c8d143f767052bd1dfcfee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17733,
+    "sha256": "sha256:e283f20c075f6d5c634f7e631357bdc03166ed238e6f0b85ee5df8b25fbd5da1",
+    "normalized_content_hash": "sha256:d3f4212f55d04857087cc1bbc3e37d989c466fb18384f52170ac86333f94929e"
+  },
+  "provenance": {
+    "source_item_id": "897fa553-33a0-4134-bdb2-123ea02e2622",
+    "external_id": "https://pinnacle.sh/blog/sms-pre-send-filter"
+  }
+}

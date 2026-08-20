@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-realroots",
+    "name": "RealRoots"
+  },
+  "record_count": 4,
+  "first_published_at": "2026-07-21T00:00:00+00:00",
+  "last_published_at": "2026-07-22T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4f/yc-realroots/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4196,
+        "sha256": "sha256:7bbd9499baa3e0b69affcc074890cab66a6cf60b6b2d124e0dd6fcb84c7cb370",
+        "newest_at": "2026-07-22T00:00:00+00:00",
+        "oldest_at": "2026-07-21T00:00:00+00:00"
+      }
+    ]
+  }
+}

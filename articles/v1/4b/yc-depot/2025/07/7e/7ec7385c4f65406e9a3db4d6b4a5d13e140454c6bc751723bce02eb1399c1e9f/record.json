@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ec7385c4f65406e9a3db4d6b4a5d13e140454c6bc751723bce02eb1399c1e9f",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-to-use-cache-mount-to-speed-up-docker-builds",
+    "canonical": "https://depot.dev/blog/how-to-use-cache-mount-to-speed-up-docker-builds"
+  },
+  "title": "How to use cache mounts to speed up Docker builds",
+  "summary": "Cache mounts let you preserve partial build state between Docker builds, making incremental rebuilds faster when layer cache misses. Here's how to use them effectively, avoid common pitfalls, and make them work reliably in CI environments.",
+  "published_at": "2025-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/07/7e/7ec7385c4f65406e9a3db4d6b4a5d13e140454c6bc751723bce02eb1399c1e9f/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/07/7e/7ec7385c4f65406e9a3db4d6b4a5d13e140454c6bc751723bce02eb1399c1e9f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14363,
+    "sha256": "sha256:75b20d525bbca8ac0f708a6c7812521a7cd83830c00e798346b83c526fb8ceac",
+    "normalized_content_hash": "sha256:243f68846e2d3105af414e93dd7b1333b6ed3783dfab0bf35050aac2d897d82b"
+  },
+  "provenance": {
+    "source_item_id": "497eb513-43f1-4352-aab3-7fea385c534f",
+    "external_id": "https://depot.dev/blog/how-to-use-cache-mount-to-speed-up-docker-builds"
+  }
+}

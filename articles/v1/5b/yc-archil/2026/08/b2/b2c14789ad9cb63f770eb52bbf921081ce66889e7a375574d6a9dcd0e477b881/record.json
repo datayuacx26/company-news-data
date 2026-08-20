@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2c14789ad9cb63f770eb52bbf921081ce66889e7a375574d6a9dcd0e477b881",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/goofys-vs-objectivefs-s3-filesystem-comparison",
+    "canonical": "https://archil.com/article/goofys-vs-objectivefs-s3-filesystem-comparison"
+  },
+  "title": "GoofyFS vs ObjectiveFS",
+  "summary": "Compares Goofys and ObjectiveFS, two ways to mount object storage as a filesystem, and explains how their goals differ. Highlights the tradeoff between lightweight S3 adapters optimized for simplicity and speed versus fully featured POSIX-style filesystems built for consistency, shared access, and multi-machine workloads.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/b2/b2c14789ad9cb63f770eb52bbf921081ce66889e7a375574d6a9dcd0e477b881/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/b2/b2c14789ad9cb63f770eb52bbf921081ce66889e7a375574d6a9dcd0e477b881/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5095,
+    "sha256": "sha256:a4a985f823951f4b9656f87d7d9768e366e88676fcfc6a303be3a87c65a8d59f",
+    "normalized_content_hash": "sha256:3cab23802e36d06be77f5d76cfe56d2f17db9012085ac66c6b40664baa6e7491"
+  },
+  "provenance": {
+    "source_item_id": "1f84285c-4bde-4918-8b5e-be6f57bf3a03",
+    "external_id": "https://archil.com/article/goofys-vs-objectivefs-s3-filesystem-comparison"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mecha-health",
+    "name": "Mecha Health"
+  },
+  "record_count": 8,
+  "first_published_at": "2025-01-29T00:00:00+00:00",
+  "last_published_at": "2025-11-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/67/yc-mecha-health/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 7711,
+        "sha256": "sha256:9e15cc3004a869022d37d2be7c1ae1c40825f4a0f6af453d1ead1b556c7bc34a",
+        "newest_at": "2025-11-12T00:00:00+00:00",
+        "oldest_at": "2025-01-29T00:00:00+00:00"
+      }
+    ]
+  }
+}

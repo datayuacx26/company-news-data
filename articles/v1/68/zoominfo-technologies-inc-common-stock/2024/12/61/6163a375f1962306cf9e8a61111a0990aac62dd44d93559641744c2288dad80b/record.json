@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6163a375f1962306cf9e8a61111a0990aac62dd44d93559641744c2288dad80b",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-rss-ef9b8d7bcd4f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/python-match-client",
+    "canonical": "https://engineering.zoominfo.com/python-match-client"
+  },
+  "title": "Python Match Client",
+  "summary": "Problem statement Along with search service, ZoomInfo’s match service is a fundamental building block for our applications. It functions by working with the search service to filter data and get candidate profiles, which are then ranked to intelligently return a match profile for a person or a company. For many…",
+  "published_at": "2024-12-18T02:44:06+00:00",
+  "first_seen_at": "2026-07-20T23:24:42.992125+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:24:41.088735+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2024/12/61/6163a375f1962306cf9e8a61111a0990aac62dd44d93559641744c2288dad80b/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2024/12/61/6163a375f1962306cf9e8a61111a0990aac62dd44d93559641744c2288dad80b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6828,
+    "sha256": "sha256:5b35bf10d0b9fd1cb5adadb49eba83f4bacacac2cbbdd5159e44705ed4563120",
+    "normalized_content_hash": "sha256:9a3b5796184d4492364a3efe3bed6e85250bf6fcaa5ec8b850cb64a8fc6742c2"
+  },
+  "provenance": {
+    "source_item_id": "1817ab11-e0da-41bd-894b-735ff4f73293",
+    "external_id": "https://engineering.zoominfo.com/?p=498"
+  }
+}

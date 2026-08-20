@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78e27f41daa28348b2732e34cc4c74f9c149f052998e18df57eea88cd489fb1c",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/local-tracing/",
+    "canonical": "https://blog.cloudflare.com/local-tracing/"
+  },
+  "title": "Your agent can now debug Workers with local tracing",
+  "summary": "wrangler dev now produces structured traces for every local request. Your coding agent can hit a single API to pinpoint exactly what failed and why — no deployment required.",
+  "published_at": "2026-08-04T13:00:00+00:00",
+  "first_seen_at": "2026-08-04T14:03:34.623865+00:00",
+  "fetched_at": "2026-08-04T14:03:42.322861+00:00",
+  "last_updated_at": "2026-08-07T11:27:57.266735+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/78/78e27f41daa28348b2732e34cc4c74f9c149f052998e18df57eea88cd489fb1c/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/78/78e27f41daa28348b2732e34cc4c74f9c149f052998e18df57eea88cd489fb1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6880,
+    "sha256": "sha256:d594cbe27b9ba438191f011ced0521b6d889f7f9eb9ebc41b8da43026820c24b",
+    "normalized_content_hash": "sha256:72c3f470a7d3df375b37bf46822463975bce79a7be91154614592df81afe7fa2"
+  },
+  "provenance": {
+    "source_item_id": "3c46f366-9423-4f99-b4c6-bf8dfdd4ff14",
+    "external_id": "01KZ4VTTGC4FD3MQ89XQDW2ZZ6"
+  }
+}

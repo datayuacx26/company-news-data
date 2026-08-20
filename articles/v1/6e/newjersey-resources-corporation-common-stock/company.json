@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "newjersey-resources-corporation-common-stock",
+    "name": "NewJersey Resources Corporation"
+  },
+  "record_count": 136,
+  "first_published_at": "2023-04-18T00:00:00+00:00",
+  "last_published_at": "2025-02-05T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 131
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6e/newjersey-resources-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54110,
+        "sha256": "sha256:8cc9e2da1e4e0cf445e8f304871c7ac8e869d6daab6afff65528385e22800edc",
+        "newest_at": "2026-07-28T21:08:37.946927+00:00",
+        "oldest_at": "2026-07-28T20:37:08.491459+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/6e/newjersey-resources-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 55352,
+        "sha256": "sha256:f78aa8e6e8c86002a3f0e8340c4bbbff0e05196ae03eb1f03f3fa7bd95583385",
+        "newest_at": "2026-07-28T20:37:08.491459+00:00",
+        "oldest_at": "2026-07-28T20:37:08.491459+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/6e/newjersey-resources-corporation-common-stock/index/pages/000003.json",
+        "record_count": 36,
+        "byte_count": 39634,
+        "sha256": "sha256:11873b95a60335c570bf67a9c4c7d0bfbd1d204eb56f4704e34a4c110a08a02a",
+        "newest_at": "2026-07-28T20:37:08.491459+00:00",
+        "oldest_at": "2023-04-18T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "185a4e0bd9a9357b19b7609508053122fb4a8d30071a900650b973c5c48cd341",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/technical-breakdown-of-jolt/",
+    "canonical": "https://verialabs.com/blog/technical-breakdown-of-jolt/"
+  },
+  "title": "A Technical Breakdown of Jolt's Cryptography (and the exploit)",
+  "summary": "The mathematics of the missing Dory commitments behind the Jolt exploit.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2026/07/18/185a4e0bd9a9357b19b7609508053122fb4a8d30071a900650b973c5c48cd341/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2026/07/18/185a4e0bd9a9357b19b7609508053122fb4a8d30071a900650b973c5c48cd341/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14364,
+    "sha256": "sha256:2c36c65b1456adfc9955dc1c7238caa538899f22ef057d07710202e2c26c6738",
+    "normalized_content_hash": "sha256:37a28d41a1a5ac1aa410059d29e1d76095b93140267a45a8a6c1b018eb35495a"
+  },
+  "provenance": {
+    "source_item_id": "e8461a1f-d46d-4243-9339-9389cc585ff5",
+    "external_id": "https://verialabs.com/blog/technical-breakdown-of-jolt/"
+  }
+}

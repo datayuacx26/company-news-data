@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c648739883bbf9324ef3980643aa411307cd6983b8d754f5b91e2e6c35cc8f61",
+  "company": {
+    "key": "yc-firezone",
+    "name": "Firezone"
+  },
+  "source": {
+    "id": "yc-firezone-news-import-75fbee21a5d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firezone.dev/blog/using-tauri",
+    "canonical": "https://www.firezone.dev/blog/using-tauri"
+  },
+  "title": "Using Tauri to build a cross-platform security app",
+  "summary": "Read why Firezone chose Tauri to build native Linux and Windows clients. A look at our cross-platform desktop app architecture and tradeoffs.",
+  "published_at": "2024-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:48.154812+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-19T17:51:33.681966+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-firezone/2024/06/c6/c648739883bbf9324ef3980643aa411307cd6983b8d754f5b91e2e6c35cc8f61/article.md",
+    "record": "articles/v1/79/yc-firezone/2024/06/c6/c648739883bbf9324ef3980643aa411307cd6983b8d754f5b91e2e6c35cc8f61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27919,
+    "sha256": "sha256:3253dbdae7e4f80b021e492aa8f1c9fd67e8058047497b253553475ae3e22b5d",
+    "normalized_content_hash": "sha256:f95a038e7fbf25a848b6c6154227e37800c345bc8a1455006db824bc829985ec"
+  },
+  "provenance": {
+    "source_item_id": "0524a13c-756f-4b61-98be-1450a90fd92e",
+    "external_id": "https://www.firezone.dev/blog/using-tauri"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8f7765e99989b3c2f3898cc68d268457f43b8cd9162e04ebe214c2383976928",
+  "company": {
+    "key": "yc-rivet",
+    "name": "Rivet"
+  },
+  "source": {
+    "id": "yc-rivet-news-import-b9b70e7746c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/",
+    "canonical": "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/"
+  },
+  "title": "How We Built the First Zero-Disk, S3-Tiered Storage Engine for SQLite",
+  "summary": "How Rivet keeps SQLite writes fast and durable while cold data offloads to object storage.",
+  "published_at": "2026-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:11:06.802677+00:00",
+  "fetched_at": "2026-07-31T19:11:08.509085+00:00",
+  "last_updated_at": "2026-08-20T03:07:39.236282+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-rivet/2026/07/c8/c8f7765e99989b3c2f3898cc68d268457f43b8cd9162e04ebe214c2383976928/article.md",
+    "record": "articles/v1/76/yc-rivet/2026/07/c8/c8f7765e99989b3c2f3898cc68d268457f43b8cd9162e04ebe214c2383976928/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19742,
+    "sha256": "sha256:f66bb7db2fb1f3077da1c3a3be80f07a521e9909148752b32791b7fa3b6668f0",
+    "normalized_content_hash": "sha256:d8fa323dfc32c7e4cecd1d92e5738939c564987b7d338d635b01b42bccd91f4a"
+  },
+  "provenance": {
+    "source_item_id": "29fc37aa-2635-48bf-8944-9b74e152b090",
+    "external_id": "https://rivet.dev/blog/2026-07-31-how-we-built-the-first-zero-disk-s3-tiered-storage-engine-for-sqlite/"
+  }
+}

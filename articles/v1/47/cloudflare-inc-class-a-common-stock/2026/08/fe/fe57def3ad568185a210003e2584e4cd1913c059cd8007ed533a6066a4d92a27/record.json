@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe57def3ad568185a210003e2584e4cd1913c059cd8007ed533a6066a4d92a27",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/rfc9234-bgp-role-model/",
+    "canonical": "https://blog.cloudflare.com/rfc9234-bgp-role-model/"
+  },
+  "title": "BGP Role model: tracking the adoption of RFC 9234",
+  "summary": "RFC 9234 lets routers reject route leaks on their own, using BGP Roles and the Only to Customer attribute. We measured who has deployed it, and found two Tier 1 networks unexpectedly stripping OTC.",
+  "published_at": "2026-08-18T15:21:32+00:00",
+  "first_seen_at": "2026-08-18T19:02:24.371854+00:00",
+  "fetched_at": "2026-08-18T19:02:25.678900+00:00",
+  "last_updated_at": "2026-08-20T01:32:12.642585+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/fe/fe57def3ad568185a210003e2584e4cd1913c059cd8007ed533a6066a4d92a27/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/fe/fe57def3ad568185a210003e2584e4cd1913c059cd8007ed533a6066a4d92a27/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27634,
+    "sha256": "sha256:3ed493df8915cab54924a9e52f43abebbdb56573057cb1e5e699b691675dc09f",
+    "normalized_content_hash": "sha256:492965bcc0c8b55a050183f7a91cc5467c5c99efc0c67fee95a4966d4f203ef3"
+  },
+  "provenance": {
+    "source_item_id": "05b04a40-91cf-4e5a-a114-a6323725bdc1",
+    "external_id": "01M0ANY0TKGXDWAN9C58T3A1HR"
+  }
+}

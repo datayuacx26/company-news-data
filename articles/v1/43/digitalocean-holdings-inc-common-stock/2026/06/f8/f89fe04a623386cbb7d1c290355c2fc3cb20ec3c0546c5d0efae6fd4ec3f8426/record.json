@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f89fe04a623386cbb7d1c290355c2fc3cb20ec3c0546c5d0efae6fd4ec3f8426",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/reduce-llm-inference-costs-prefix-caching",
+    "canonical": "https://www.digitalocean.com/blog/reduce-llm-inference-costs-prefix-caching"
+  },
+  "title": "The Inference Tax: How Prefix-Aware Routing Eliminates the Hidden Cost of LLMs at Scale",
+  "summary": "vLLM prefix caching and prefix-aware KV cache routing eliminate redundant LLM prefill costs at scale. Learn how DigitalOcean Serverless Inference reduces GPU compute waste by up to 4x on the same hardware.",
+  "published_at": "2026-06-01T19:30:00.022+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/06/f8/f89fe04a623386cbb7d1c290355c2fc3cb20ec3c0546c5d0efae6fd4ec3f8426/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/06/f8/f89fe04a623386cbb7d1c290355c2fc3cb20ec3c0546c5d0efae6fd4ec3f8426/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22002,
+    "sha256": "sha256:282539d6b273d0dbbae8bd30e3bf637f1bd8a13a526dc10acdf34e12aacae0ee",
+    "normalized_content_hash": "sha256:14cf287266c7afd14e10609e22d96c4ba574be5d8d203d9edf2389c3acc7e3f0"
+  },
+  "provenance": {
+    "source_item_id": "06a38202-624e-42b3-bb36-f3f6dd345ebc",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/reduce-llm-inference-costs-prefix-caching"
+  }
+}

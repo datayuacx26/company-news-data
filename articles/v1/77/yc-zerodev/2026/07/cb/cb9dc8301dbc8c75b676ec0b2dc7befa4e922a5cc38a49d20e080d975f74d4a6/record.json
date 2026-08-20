@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb9dc8301dbc8c75b676ec0b2dc7befa4e922a5cc38a49d20e080d975f74d4a6",
+  "company": {
+    "key": "yc-zerodev",
+    "name": "ZeroDev"
+  },
+  "source": {
+    "id": "yc-zerodev-news-import-954b0c29e56a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zerodev.app/blogs/stablecoin-gas-abstraction-how-to-design-fee-ux-users-understand",
+    "canonical": "https://www.zerodev.app/blogs/stablecoin-gas-abstraction-how-to-design-fee-ux-users-understand"
+  },
+  "title": "Stablecoin Gas Abstraction: How to Design Fee UX Users Understand",
+  "summary": "Stablecoin gas abstraction lets users send, spend, or settle with assets like USDC without needing a separate native gas token. Learn how sponsorship, ERC-20 fee payment, paymaster policy, and clear receipts can make stablecoin payment flows feel simpler, more predictable, and production-ready.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:02:55.252814+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-13T10:50:48.982283+00:00",
+  "paths": {
+    "article": "articles/v1/77/yc-zerodev/2026/07/cb/cb9dc8301dbc8c75b676ec0b2dc7befa4e922a5cc38a49d20e080d975f74d4a6/article.md",
+    "record": "articles/v1/77/yc-zerodev/2026/07/cb/cb9dc8301dbc8c75b676ec0b2dc7befa4e922a5cc38a49d20e080d975f74d4a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13850,
+    "sha256": "sha256:9fc915b523b562a54b5c2c3ff9bd1981e72673357f21d6ae5201dd1004dfde95",
+    "normalized_content_hash": "sha256:8d70a37c377528af12ceb83487afe2f04517fecfbcf3fb7df8b53ea2fcb12dfd"
+  },
+  "provenance": {
+    "source_item_id": "c54517d1-e1cb-4d9c-b9b0-77c2d94dd9fd",
+    "external_id": "https://www.zerodev.app/blogs/stablecoin-gas-abstraction-how-to-design-fee-ux-users-understand"
+  }
+}

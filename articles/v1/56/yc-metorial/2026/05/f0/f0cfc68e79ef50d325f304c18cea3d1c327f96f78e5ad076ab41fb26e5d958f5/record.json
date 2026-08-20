@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0cfc68e79ef50d325f304c18cea3d1c327f96f78e5ad076ab41fb26e5d958f5",
+  "company": {
+    "key": "yc-metorial",
+    "name": "Metorial"
+  },
+  "source": {
+    "id": "yc-metorial-news-import-9c457a3d81d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metorial.com/blog/composio-security-incident-mcp-security",
+    "canonical": "https://metorial.com/blog/composio-security-incident-mcp-security"
+  },
+  "title": "Composio Security Incident: What Happened and What AI Agent Teams Should Do Now",
+  "summary": "Composio disclosed a security incident involving exposed customer connections, including GitHub tokens. Here is what affected teams should check, what the incident reveals about MCP security, and how to evaluate safer AI agent infrastructure.",
+  "published_at": "2026-05-22T11:59:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:44.298499+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-19T18:53:41.634509+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-metorial/2026/05/f0/f0cfc68e79ef50d325f304c18cea3d1c327f96f78e5ad076ab41fb26e5d958f5/article.md",
+    "record": "articles/v1/56/yc-metorial/2026/05/f0/f0cfc68e79ef50d325f304c18cea3d1c327f96f78e5ad076ab41fb26e5d958f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11222,
+    "sha256": "sha256:657ea7e3ff16e51dc1daf6d215da2c97b9e564a780f5b86c31d6bc17a4cd6cf9",
+    "normalized_content_hash": "sha256:88f7eacfb8f4294c0e1ccb018edd10a1708e8b2df5572536bc57ef1a364b0f53"
+  },
+  "provenance": {
+    "source_item_id": "1ca6a512-a0c4-4082-9004-5669a86a844a",
+    "external_id": "https://metorial.com/blog/composio-security-incident-mcp-security"
+  }
+}

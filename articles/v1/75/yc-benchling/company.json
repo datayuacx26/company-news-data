@@ -1,0 +1,439 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-benchling",
+    "name": "Benchling"
+  },
+  "record_count": 331,
+  "first_published_at": "2018-11-14T16:02:00+00:00",
+  "last_published_at": "2026-08-18T07:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2018-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2019-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 10
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 10
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 7,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/75/yc-benchling/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54297,
+        "sha256": "sha256:f73a5349e92ee19cc52dd08048766bac7b29dd1077003e5a57a25c6c58c983ec",
+        "newest_at": "2026-08-18T07:00:00+00:00",
+        "oldest_at": "2025-10-07T07:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/75/yc-benchling/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 53229,
+        "sha256": "sha256:eac9e78770c0d058de01bd7faaeb94bb66d9ae471dd9a43cfff2eafe997fdcc2",
+        "newest_at": "2025-09-08T07:00:00+00:00",
+        "oldest_at": "2024-04-23T04:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/75/yc-benchling/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 51350,
+        "sha256": "sha256:82f0420f3e879a4bb9ccfa59a4310db72cfd422d40c0f3db69c454febabbb007",
+        "newest_at": "2024-04-04T07:00:00+00:00",
+        "oldest_at": "2022-12-12T16:30:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/75/yc-benchling/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 51102,
+        "sha256": "sha256:e2ab7c94e02288817f19687ea4dcb9e4a8fe7dfa936da756e84a838c3e6debb3",
+        "newest_at": "2022-11-30T08:00:00+00:00",
+        "oldest_at": "2021-11-22T14:23:48+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/75/yc-benchling/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 49932,
+        "sha256": "sha256:afbcf4dfcf442348ce51026046eb00832855b3acad258055ea5e466a104e26b8",
+        "newest_at": "2021-11-11T08:41:17+00:00",
+        "oldest_at": "2020-09-08T10:59:47+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/75/yc-benchling/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 50724,
+        "sha256": "sha256:f3e1afead438774e9204d89be225a3d94ac854f57b3ddc6e6eaf132c175d29d5",
+        "newest_at": "2020-08-28T12:01:14+00:00",
+        "oldest_at": "2019-07-23T16:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/75/yc-benchling/index/pages/000007.json",
+        "record_count": 31,
+        "byte_count": 31587,
+        "sha256": "sha256:fc45c4b4020757470725774edc813061e5fa10f5bc7c8e29d94fec31e280538e",
+        "newest_at": "2019-07-08T16:00:00+00:00",
+        "oldest_at": "2018-11-14T16:02:00+00:00"
+      }
+    ]
+  }
+}

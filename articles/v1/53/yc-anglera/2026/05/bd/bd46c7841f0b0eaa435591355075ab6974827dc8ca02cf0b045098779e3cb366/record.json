@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd46c7841f0b0eaa435591355075ab6974827dc8ca02cf0b045098779e3cb366",
+  "company": {
+    "key": "yc-anglera",
+    "name": "Anglera"
+  },
+  "source": {
+    "id": "yc-anglera-rss-43f494d1c3a6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.anglera.com/blog/holdout-test-product-data",
+    "canonical": "https://www.anglera.com/blog/holdout-test-product-data"
+  },
+  "title": "Running a clean holdout test to isolate product-data lift",
+  "summary": "How to design a real holdout test for product-data enrichment: randomization unit, sample size, contamination guardrails, and reading the lift.",
+  "published_at": "2026-05-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:38.455846+00:00",
+  "fetched_at": "2026-07-28T22:12:51.498055+00:00",
+  "last_updated_at": "2026-08-06T16:02:52.721746+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-anglera/2026/05/bd/bd46c7841f0b0eaa435591355075ab6974827dc8ca02cf0b045098779e3cb366/article.md",
+    "record": "articles/v1/53/yc-anglera/2026/05/bd/bd46c7841f0b0eaa435591355075ab6974827dc8ca02cf0b045098779e3cb366/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7772,
+    "sha256": "sha256:fdd9f6d6796ef846fd3664fc4d7da61a18606e42ac696af41afa6b2922c3e532",
+    "normalized_content_hash": "sha256:05b017606ce26e665fd0f7a07a8539c68546ef754adba498d1089a9ad567aa15"
+  },
+  "provenance": {
+    "source_item_id": "5b51f47c-bd0d-4201-9df4-d4b5a37c9b62",
+    "external_id": "https://www.anglera.com/blog/holdout-test-product-data"
+  }
+}

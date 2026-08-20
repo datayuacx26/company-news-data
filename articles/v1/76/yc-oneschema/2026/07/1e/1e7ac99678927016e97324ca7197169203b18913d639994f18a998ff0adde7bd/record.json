@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e7ac99678927016e97324ca7197169203b18913d639994f18a998ff0adde7bd",
+  "company": {
+    "key": "yc-oneschema",
+    "name": "OneSchema"
+  },
+  "source": {
+    "id": "yc-oneschema-news-import-43da02420b1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneschema.co/blog/import-csv-bigquery",
+    "canonical": "https://www.oneschema.co/blog/import-csv-bigquery"
+  },
+  "title": "How to Import CSV into BigQuery",
+  "summary": "We explore five methods to import CSV files into BigQuery for scenarios ranging from quick data loads to more complex data pipelines.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:23:01.413777+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T19:52:35.692310+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-oneschema/2026/07/1e/1e7ac99678927016e97324ca7197169203b18913d639994f18a998ff0adde7bd/article.md",
+    "record": "articles/v1/76/yc-oneschema/2026/07/1e/1e7ac99678927016e97324ca7197169203b18913d639994f18a998ff0adde7bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5958,
+    "sha256": "sha256:97862462d8321c2434205c783f1fd3f6a5b7550998557606f76f1a574899eb95",
+    "normalized_content_hash": "sha256:68ed419c38d8222c212e70567978228b85b6679f7ed18f8457f735e9c33c6ca7"
+  },
+  "provenance": {
+    "source_item_id": "8d57d57a-a1ba-4baf-ad7a-19527e815bb8",
+    "external_id": "https://www.oneschema.co/blog/import-csv-bigquery"
+  }
+}

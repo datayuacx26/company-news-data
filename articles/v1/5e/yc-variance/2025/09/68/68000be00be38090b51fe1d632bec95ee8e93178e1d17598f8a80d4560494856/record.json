@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68000be00be38090b51fe1d632bec95ee8e93178e1d17598f8a80d4560494856",
+  "company": {
+    "key": "yc-variance",
+    "name": "Variance"
+  },
+  "source": {
+    "id": "yc-variance-news-import-ff45b1fc661c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.variance.com/blog/features-on-demand-using-clickhouse",
+    "canonical": "https://www.variance.com/blog/features-on-demand-using-clickhouse"
+  },
+  "title": "Features on Demand: Ad-Hoc Feature Generation with ClickHouse",
+  "summary": "How we built Hippocampus, a unified streaming feature store on ClickHouse that gives AI agents seconds-fresh context for real-time fraud investigations.",
+  "published_at": "2025-09-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:28:25.562528+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-08-20T01:03:39.991716+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-variance/2025/09/68/68000be00be38090b51fe1d632bec95ee8e93178e1d17598f8a80d4560494856/article.md",
+    "record": "articles/v1/5e/yc-variance/2025/09/68/68000be00be38090b51fe1d632bec95ee8e93178e1d17598f8a80d4560494856/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11444,
+    "sha256": "sha256:6e8448e7474a87914cfb72facbeffa95b8da980d5fc01c84d1f4f6a098d3ad22",
+    "normalized_content_hash": "sha256:48b94d0816a438cef6d07ff04f7b8939936479a774e19fcc23242a0c898290e4"
+  },
+  "provenance": {
+    "source_item_id": "df0521c8-374c-4036-8548-e604aa6f0925",
+    "external_id": "https://www.variance.com/blog/features-on-demand-using-clickhouse"
+  }
+}

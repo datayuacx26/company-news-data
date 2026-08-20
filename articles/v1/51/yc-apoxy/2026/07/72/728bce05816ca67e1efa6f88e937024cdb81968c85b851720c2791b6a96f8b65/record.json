@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "728bce05816ca67e1efa6f88e937024cdb81968c85b851720c2791b6a96f8b65",
+  "company": {
+    "key": "yc-apoxy",
+    "name": "Apoxy"
+  },
+  "source": {
+    "id": "yc-apoxy-rss-ae7e2d86e063",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://apoxy.dev/blog/introducing-apoxy-services",
+    "canonical": "https://apoxy.dev/blog/introducing-apoxy-services"
+  },
+  "title": "Introducing Apoxy Services",
+  "summary": "Apoxy Services puts a JavaScript/Wasm runtime in your gateway. Write a fetch handler, deploy it with one command, and run it anywhere your gateway runs.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T17:04:35.618820+00:00",
+  "fetched_at": "2026-07-31T17:04:37.717754+00:00",
+  "last_updated_at": "2026-08-20T01:06:37.807067+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-apoxy/2026/07/72/728bce05816ca67e1efa6f88e937024cdb81968c85b851720c2791b6a96f8b65/article.md",
+    "record": "articles/v1/51/yc-apoxy/2026/07/72/728bce05816ca67e1efa6f88e937024cdb81968c85b851720c2791b6a96f8b65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7457,
+    "sha256": "sha256:f0d6d2c2057ace98006c6efcc75659d428e2650d25e3cb0f9b4fa3635eac410e",
+    "normalized_content_hash": "sha256:89cf1494b3a1964b69dc3e86ae37d1e6b533c6a0901a84f7a6b444794f671941"
+  },
+  "provenance": {
+    "source_item_id": "947cb849-b75f-4f0e-9287-11dd92f494c6",
+    "external_id": "https://apoxy.dev/blog/introducing-apoxy-services"
+  }
+}

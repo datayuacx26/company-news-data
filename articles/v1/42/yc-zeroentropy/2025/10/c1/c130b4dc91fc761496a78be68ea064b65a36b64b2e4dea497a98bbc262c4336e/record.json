@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c130b4dc91fc761496a78be68ea064b65a36b64b2e4dea497a98bbc262c4336e",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/the-latency-myth-why-reranking-is-still-the-smartest-optimization-you-can-make/",
+    "canonical": "https://zeroentropy.dev/articles/the-latency-myth-why-reranking-is-still-the-smartest-optimization-you-can-make/"
+  },
+  "title": "The Latency Myth: Why Reranking Is Still the Smartest Optimization You Can Make",
+  "summary": "Yes, technically, rerankers add a layer to your search pipeline. Yet, reranking improves both efficiency and quality once you consider the full retrieval-generation loop.",
+  "published_at": "2025-10-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:32:01.159768+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2025/10/c1/c130b4dc91fc761496a78be68ea064b65a36b64b2e4dea497a98bbc262c4336e/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2025/10/c1/c130b4dc91fc761496a78be68ea064b65a36b64b2e4dea497a98bbc262c4336e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4884,
+    "sha256": "sha256:063171ee55c6f1d6877a948d0d06de1d855e930a4f246ac560c776859d3a11ab",
+    "normalized_content_hash": "sha256:3a80adefb28734d475319e4f5e3c0f0960769c1db8801b49fab8f0ba8d28167b"
+  },
+  "provenance": {
+    "source_item_id": "b6961b7e-9da5-43e2-9325-482034b3bafe",
+    "external_id": "https://zeroentropy.dev/articles/the-latency-myth-why-reranking-is-still-the-smartest-optimization-you-can-make/"
+  }
+}

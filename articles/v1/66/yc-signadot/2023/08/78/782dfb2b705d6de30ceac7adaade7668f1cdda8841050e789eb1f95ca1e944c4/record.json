@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "782dfb2b705d6de30ceac7adaade7668f1cdda8841050e789eb1f95ca1e944c4",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/opentelemetry-and-go-a-whole-new-ebpf-world/",
+    "canonical": "https://www.signadot.com/blog/opentelemetry-and-go-a-whole-new-ebpf-world/"
+  },
+  "title": "OpenTelemetry and Go: a whole new eBPF world",
+  "summary": "Discover the transformative power of eBPF in enhancing automatic instrumentation for Go services using OpenTelemetry. Dive into the challenges of bytecode manipulation, the potential of eBPF in monitoring and analysis, and the significance of DWARF in stable instrumentation. Understand the implications for the Go community and the future of microservice clusters.",
+  "published_at": "2023-08-10T04:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/08/78/782dfb2b705d6de30ceac7adaade7668f1cdda8841050e789eb1f95ca1e944c4/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/08/78/782dfb2b705d6de30ceac7adaade7668f1cdda8841050e789eb1f95ca1e944c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7585,
+    "sha256": "sha256:3dda4c0727f63d7c99657a7b4826be32cea82c7994607bfb3358f2782372de47",
+    "normalized_content_hash": "sha256:33843f14ac96155fd3f03252309ad928a6ffdf018d9792f741105d643c96ace5"
+  },
+  "provenance": {
+    "source_item_id": "e56fb468-d40d-4e52-9abf-864d33b294db",
+    "external_id": "https://www.signadot.com/blog/opentelemetry-and-go-a-whole-new-ebpf-world/"
+  }
+}

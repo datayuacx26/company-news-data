@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a7a3d64557640fb7f8d133bdee8584fa06b94b34a62f1c12bf1e27674bb2f46",
+  "company": {
+    "key": "yc-kita",
+    "name": "Kita"
+  },
+  "source": {
+    "id": "yc-kita-news-import-29b97ff66fe4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kita.ai/blog/reconstructing-financial-evidence-from-degraded-documents",
+    "canonical": "https://www.kita.ai/blog/reconstructing-financial-evidence-from-degraded-documents"
+  },
+  "title": "Reconstructing Financial Evidence from Degraded Documents",
+  "summary": "How recognition-guided diffusion models recover financial evidence from degraded documents that traditional OCR pipelines cannot process.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T09:24:05.566790+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T22:15:40.936276+00:00",
+  "paths": {
+    "article": "articles/v1/5f/yc-kita/2026/07/7a/7a7a3d64557640fb7f8d133bdee8584fa06b94b34a62f1c12bf1e27674bb2f46/article.md",
+    "record": "articles/v1/5f/yc-kita/2026/07/7a/7a7a3d64557640fb7f8d133bdee8584fa06b94b34a62f1c12bf1e27674bb2f46/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7529,
+    "sha256": "sha256:0ef3e7946fc8f760eedbb1b087d7ac79bf6dba4f0d89e1b66487bd32e93500c3",
+    "normalized_content_hash": "sha256:aad8e87ee6fd75704fc0a37ad3340c25f528837c7c2d94c4e872f4196ad74e61"
+  },
+  "provenance": {
+    "source_item_id": "2da45747-e5aa-4d00-b5b4-ed2a01229532",
+    "external_id": "https://www.kita.ai/blog/reconstructing-financial-evidence-from-degraded-documents"
+  }
+}

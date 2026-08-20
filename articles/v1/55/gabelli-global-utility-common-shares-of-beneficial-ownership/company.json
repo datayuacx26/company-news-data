@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gabelli-global-utility-common-shares-of-beneficial-ownership",
+    "name": "Gabelli Global Utility Common Shares of Beneficial Ownership"
+  },
+  "record_count": 11,
+  "first_published_at": "2024-12-21T21:29:58+00:00",
+  "last_published_at": "2025-03-24T17:10:01+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/gabelli-global-utility-common-shares-of-beneficial-ownership/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 13481,
+        "sha256": "sha256:7c230ba8295a65c7519a0238afdb4a6db180836d6af4881c7b75a915837f705e",
+        "newest_at": "2025-03-24T17:10:01+00:00",
+        "oldest_at": "2024-12-21T21:29:58+00:00"
+      }
+    ]
+  }
+}

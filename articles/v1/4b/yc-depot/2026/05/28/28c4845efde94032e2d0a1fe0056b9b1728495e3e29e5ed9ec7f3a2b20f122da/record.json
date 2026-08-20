@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28c4845efde94032e2d0a1fe0056b9b1728495e3e29e5ed9ec7f3a2b20f122da",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/context-isolation-in-coding-agent-loops",
+    "canonical": "https://depot.dev/blog/context-isolation-in-coding-agent-loops"
+  },
+  "title": "Context isolation in coding agent loops",
+  "summary": "The longer I worked on a problem with a coding agent, the dumber it felt. My context window was a junk drawer. Here's the multi-role loop I built so plans, builds, and reviews each get their own clean context.",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:55:55.482044+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/05/28/28c4845efde94032e2d0a1fe0056b9b1728495e3e29e5ed9ec7f3a2b20f122da/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/05/28/28c4845efde94032e2d0a1fe0056b9b1728495e3e29e5ed9ec7f3a2b20f122da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13098,
+    "sha256": "sha256:b7ef5012d7f70dd724cc69b851ea44a1866fe1551aef2a42c9a76ee4e06e415d",
+    "normalized_content_hash": "sha256:6bdfba1e2018c5cc4bdf263b79880ec9015a178302271d52fce15fe09537c489"
+  },
+  "provenance": {
+    "source_item_id": "4028616a-69cd-4226-8069-06071337d03a",
+    "external_id": "https://depot.dev/blog/context-isolation-in-coding-agent-loops"
+  }
+}

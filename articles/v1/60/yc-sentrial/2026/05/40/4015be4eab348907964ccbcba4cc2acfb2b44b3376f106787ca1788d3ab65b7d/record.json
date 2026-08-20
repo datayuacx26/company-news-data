@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4015be4eab348907964ccbcba4cc2acfb2b44b3376f106787ca1788d3ab65b7d",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/llm-monitoring-explained-traces-evals-alerts-and-debugging",
+    "canonical": "https://www.sentrial.com/blog/llm-monitoring-explained-traces-evals-alerts-and-debugging"
+  },
+  "title": "LLM Monitoring Is Harder Than You Think, Here's Why",
+  "summary": "We analyzed 12 million production logs and found 78% of LLM failures never triggered a single alert. Here's the full monitoring workflow that actually catches them.",
+  "published_at": "2026-05-31T17:35:30.889+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/05/40/4015be4eab348907964ccbcba4cc2acfb2b44b3376f106787ca1788d3ab65b7d/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/05/40/4015be4eab348907964ccbcba4cc2acfb2b44b3376f106787ca1788d3ab65b7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17461,
+    "sha256": "sha256:6456788b6b47508f6238cc05b8986937e33878c4b7ff2c9689642e31b13f9ccd",
+    "normalized_content_hash": "sha256:11b547176232cf41ed82d33f16d1776a4ee61df39a4a08c26047d11da9cb3c99"
+  },
+  "provenance": {
+    "source_item_id": "8d86c84c-bef9-4fd7-9a88-4c1166bbf166",
+    "external_id": "https://www.sentrial.com/blog/llm-monitoring-explained-traces-evals-alerts-and-debugging"
+  }
+}

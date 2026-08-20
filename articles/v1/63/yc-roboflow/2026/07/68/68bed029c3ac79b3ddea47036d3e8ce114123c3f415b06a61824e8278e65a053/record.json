@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68bed029c3ac79b3ddea47036d3e8ce114123c3f415b06a61824e8278e65a053",
+  "company": {
+    "key": "yc-roboflow",
+    "name": "Roboflow"
+  },
+  "source": {
+    "id": "yc-roboflow-rss-9175e36df81e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.roboflow.com/rf-detr-nvidia-deepstream/",
+    "canonical": "https://blog.roboflow.com/rf-detr-nvidia-deepstream/"
+  },
+  "title": "Run RF-DETR in NVIDIA DeepStream on Jetson",
+  "summary": "From pretrained weights to live multi-camera inference on a Jetson Orin NX: TensorRT engine build, the custom bbox parser DeepStream needs, and per-class colors with a pyds probe.",
+  "published_at": "2026-07-22T17:32:53+00:00",
+  "first_seen_at": "2026-07-25T21:41:10.504044+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-08-07T17:25:16.366473+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-roboflow/2026/07/68/68bed029c3ac79b3ddea47036d3e8ce114123c3f415b06a61824e8278e65a053/article.md",
+    "record": "articles/v1/63/yc-roboflow/2026/07/68/68bed029c3ac79b3ddea47036d3e8ce114123c3f415b06a61824e8278e65a053/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11903,
+    "sha256": "sha256:570441dc7ec6112f3001f4bc2e6a067357ca9408da1abd46a0eacccbd27aee97",
+    "normalized_content_hash": "sha256:e12517f238d117980794f2c4badf53061a08dec94b60db484655c81e8f86c93b"
+  },
+  "provenance": {
+    "source_item_id": "9cc82917-77ab-4e11-850e-45d068980cd7",
+    "external_id": "6a55fbf187620700016a7d38"
+  }
+}

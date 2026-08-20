@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b55861b8f212a7bafc31cc9e88080b107d6c24eb2f2ec8b7cc2832ee80d59312",
+  "company": {
+    "key": "yc-rivet",
+    "name": "Rivet"
+  },
+  "source": {
+    "id": "yc-rivet-news-import-b9b70e7746c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rivet.dev/blog/2026-06-29-sandboxless-coding-agents/",
+    "canonical": "https://rivet.dev/blog/2026-06-29-sandboxless-coding-agents/"
+  },
+  "title": "You Probably Don't Need an Expensive Sandbox for Coding Agents",
+  "summary": "Coding agents need Linux, not a heavy sandbox. A virtual operating system gives agents a terminal, filesystem, networking, and dev servers inside your existing backend, using a fraction of the RAM.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:04:56.065057+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T03:07:39.236282+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-rivet/2026/06/b5/b55861b8f212a7bafc31cc9e88080b107d6c24eb2f2ec8b7cc2832ee80d59312/article.md",
+    "record": "articles/v1/76/yc-rivet/2026/06/b5/b55861b8f212a7bafc31cc9e88080b107d6c24eb2f2ec8b7cc2832ee80d59312/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12129,
+    "sha256": "sha256:2cc9ee35f9ba289cdad0c568b17c84020ccc82b1c7e492391cb4b4c1f64f9004",
+    "normalized_content_hash": "sha256:475f5d18b5f7e6bbe6e689a900180a126a2fc929e29177a2c3885680ec2e520b"
+  },
+  "provenance": {
+    "source_item_id": "b481c045-5ec1-40fc-8cd5-5da9fdbbd39b",
+    "external_id": "https://rivet.dev/blog/2026-06-29-sandboxless-coding-agents/"
+  }
+}

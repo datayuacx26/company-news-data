@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8cffda56752e921700b9c8e415b010e3d8bb536286cef3ce3a1ed29cf7836455",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/why-i-reimplemented-lvm",
+    "canonical": "https://depot.dev/blog/why-i-reimplemented-lvm"
+  },
+  "title": "Why I reimplemented LVM (with worse guarantees)",
+  "summary": "Our microVMs launch in under a second, and assembling their block devices in parallel put LVM's roughly 100ms volume group-wide lock directly in the critical path. We kept the kernel's device-mapper, wrote our own control plane and gave up crash safety our ephemeral workloads never needed, making allocation roughly 100x faster.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T18:26:53.553735+00:00",
+  "fetched_at": "2026-08-13T18:26:56.978435+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/08/8c/8cffda56752e921700b9c8e415b010e3d8bb536286cef3ce3a1ed29cf7836455/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/08/8c/8cffda56752e921700b9c8e415b010e3d8bb536286cef3ce3a1ed29cf7836455/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9325,
+    "sha256": "sha256:b53e27e90706eebc10bc3fbb6d921f55c18cecc92cffb8c0f0ff49a03176ce49",
+    "normalized_content_hash": "sha256:99fbad7dcf0570b6d0dc03f8551fffc222e1a6aea01b7e4072dd599ee6f94fb4"
+  },
+  "provenance": {
+    "source_item_id": "23c71416-7d0a-4b08-aa21-10b9a7ed8907",
+    "external_id": "https://depot.dev/blog/why-i-reimplemented-lvm"
+  }
+}

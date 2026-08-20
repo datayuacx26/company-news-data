@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fbf6da978fae3b2f1a84c7b91f276c5300f27105b13be240074c372a44f4180d",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/mcp-security-updates/",
+    "canonical": "https://blog.cloudflare.com/mcp-security-updates/"
+  },
+  "title": "How Cloudflare detects MCP traffic and helps secure it",
+  "summary": "Cloudflare Gateway identifies MCP requests using protocol-level heuristics. Security teams can use that signal to find shadow MCP traffic, enforce Portal-only access for approved servers, and block direct connections on managed network paths.",
+  "published_at": "2026-08-14T13:12:12+00:00",
+  "first_seen_at": "2026-08-14T14:18:48.022412+00:00",
+  "fetched_at": "2026-08-14T14:18:50.691750+00:00",
+  "last_updated_at": "2026-08-20T01:32:12.642585+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/fb/fbf6da978fae3b2f1a84c7b91f276c5300f27105b13be240074c372a44f4180d/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/fb/fbf6da978fae3b2f1a84c7b91f276c5300f27105b13be240074c372a44f4180d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25942,
+    "sha256": "sha256:d1f03b28136d818f1f6dc841cec2d6524ea712f611c941bd416d33c2cd3d5e35",
+    "normalized_content_hash": "sha256:135cd14cc03832e546252f8cec71553e96a87dc346abfb55275d850da8b9b180"
+  },
+  "provenance": {
+    "source_item_id": "5fb37615-435a-4129-b2c8-591a935b52f4",
+    "external_id": "01M005AFBW9P2YGZT4HH64D2BQ"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0ded964d94f6557420cee80612e9a5ef56021fa5b89cf14711229712d47924ce",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/bgp-origin-attribute/",
+    "canonical": "https://blog.cloudflare.com/bgp-origin-attribute/"
+  },
+  "title": "BGP ORIGIN attribute manipulation and its impact on the Internet",
+  "summary": "By doing in-depth testing, we found nearly 70% of BGP paths experience ORIGIN attribute rewrites by transit providers seeking traffic advantages. We examine the global impact of this practice and argue for deprecating ORIGIN in route selection.",
+  "published_at": "2026-07-24T17:25:28+00:00",
+  "first_seen_at": "2026-07-24T18:12:49.371783+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-05T11:31:52.230173+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/0d/0ded964d94f6557420cee80612e9a5ef56021fa5b89cf14711229712d47924ce/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/0d/0ded964d94f6557420cee80612e9a5ef56021fa5b89cf14711229712d47924ce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16235,
+    "sha256": "sha256:a2268e153dd01ada122ae39997fd7d84f3ee6d69bf5ab12c2161e5146aa0d02a",
+    "normalized_content_hash": "sha256:8ace148f807ec109f02f67d289b05a712e79fd86f9c92d771cc3832061691a88"
+  },
+  "provenance": {
+    "source_item_id": "496680c0-7221-438f-9e83-a449b9807779",
+    "external_id": "01KYAFZ0EEBE4R099P8HT79D5X"
+  }
+}

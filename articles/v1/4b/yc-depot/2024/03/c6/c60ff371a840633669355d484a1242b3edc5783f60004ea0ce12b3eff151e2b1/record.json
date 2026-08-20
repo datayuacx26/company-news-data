@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c60ff371a840633669355d484a1242b3edc5783f60004ea0ce12b3eff151e2b1",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-build-api",
+    "canonical": "https://depot.dev/blog/docker-build-api"
+  },
+  "title": "Depot Build API: build Docker images as a service",
+  "summary": "This article walks you through how to use Depot's API within your own code to set up projects and run your Docker builds as a service on Depot's infrastructure.",
+  "published_at": "2024-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:26:14.489943+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/03/c6/c60ff371a840633669355d484a1242b3edc5783f60004ea0ce12b3eff151e2b1/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/03/c6/c60ff371a840633669355d484a1242b3edc5783f60004ea0ce12b3eff151e2b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18217,
+    "sha256": "sha256:95402b495ae58f4e90f53c051688ce4e5cd23c21c36567ab0042507d45748b20",
+    "normalized_content_hash": "sha256:5ce15c0e2dfab154a24ebff18e8e099c285e21c462f934ba00a6869f4759e3e6"
+  },
+  "provenance": {
+    "source_item_id": "64262c1a-e7c7-4f1d-9fd9-b1411ea7ec4d",
+    "external_id": "https://depot.dev/blog/docker-build-api"
+  }
+}

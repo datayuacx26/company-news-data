@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "exponent-inc-common-stock",
+    "name": "Exponent Inc."
+  },
+  "record_count": 5,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/65/exponent-inc-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5431,
+        "sha256": "sha256:97eca5c7d18b7f5ab6496d48fac69901855c5d6f50160d9e6c4b5496fb171ad1",
+        "newest_at": "2026-07-28T21:21:00.620727+00:00",
+        "oldest_at": "2026-07-28T21:21:00.620727+00:00"
+      }
+    ]
+  }
+}

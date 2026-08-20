@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a12666dbfddc288975e4df6703f9551aeae5b2d2bdde7ca990076cebe41669ba",
+  "company": {
+    "key": "whitefiber-inc-ordinary-shares",
+    "name": "WhiteFiber Inc."
+  },
+  "source": {
+    "id": "whitefiber-inc-ordinary-shares-news-import-44ec15aad2d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.whitefiber.com/blog/reliability-by-design-failover-patterns-for-colocated-trading-ai",
+    "canonical": "https://www.whitefiber.com/blog/reliability-by-design-failover-patterns-for-colocated-trading-ai"
+  },
+  "title": "Reliability by Design: Failover Patterns for Colocated Trading AI",
+  "summary": "Failover patterns for trading AI: FIX session continuity, GPU replica strategies, and infrastructure design to eliminate downtime and duplicate orders.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:13:59.268730+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-16T00:30:16.086304+00:00",
+  "paths": {
+    "article": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/06/a1/a12666dbfddc288975e4df6703f9551aeae5b2d2bdde7ca990076cebe41669ba/article.md",
+    "record": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/06/a1/a12666dbfddc288975e4df6703f9551aeae5b2d2bdde7ca990076cebe41669ba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16905,
+    "sha256": "sha256:7d07d144cd533b2d8d19d968604b0214f24041d0830fc86f542fdbc840cd6af5",
+    "normalized_content_hash": "sha256:20185bfe2214bf23c0e5c1c5d52eebaa463105c56082e4371c0a46fa810fba44"
+  },
+  "provenance": {
+    "source_item_id": "5b7806f7-ed2e-429d-adb8-c71a120abac9",
+    "external_id": "https://www.whitefiber.com/blog/reliability-by-design-failover-patterns-for-colocated-trading-ai"
+  }
+}

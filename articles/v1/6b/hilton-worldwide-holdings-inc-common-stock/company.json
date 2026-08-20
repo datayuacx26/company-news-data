@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "hilton-worldwide-holdings-inc-common-stock",
+    "name": "Hilton Worldwide Holdings Inc."
+  },
+  "record_count": 28,
+  "first_published_at": "2026-07-09T16:41:51+00:00",
+  "last_published_at": "2026-08-13T19:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6b/hilton-worldwide-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 33841,
+        "sha256": "sha256:58f4806b20a261c10b02d4367470d230978f0f231df4e4b05c3725e496e9ec8b",
+        "newest_at": "2026-08-13T19:30:00+00:00",
+        "oldest_at": "2026-07-09T16:41:51+00:00"
+      }
+    ]
+  }
+}

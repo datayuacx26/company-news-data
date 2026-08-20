@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dec5275354905ab007fc8cac2c5994569c77decf43485a95c0e35ece36b5744d",
+  "company": {
+    "key": "yc-porter",
+    "name": "Porter"
+  },
+  "source": {
+    "id": "yc-porter-news-import-d854f87d935e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.porter.run/changelog/multi-app-porter-yaml-improved-cli-and-audit-logs-faster-docker-build-times",
+    "canonical": "https://www.porter.run/changelog/multi-app-porter-yaml-improved-cli-and-audit-logs-faster-docker-build-times"
+  },
+  "title": "Multi-app porter.yaml, Improved CLI and Audit Logs, Faster Docker Build Times",
+  "summary": "Porter.yaml now supports multi-application deployments and the Porter CLI has been improved. We've also introduced a new GPU instance type available for Porter users, along with faster build times for dockerfiles.",
+  "published_at": "2025-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:39:33.596384+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T19:29:00.135330+00:00",
+  "paths": {
+    "article": "articles/v1/5d/yc-porter/2025/05/de/dec5275354905ab007fc8cac2c5994569c77decf43485a95c0e35ece36b5744d/article.md",
+    "record": "articles/v1/5d/yc-porter/2025/05/de/dec5275354905ab007fc8cac2c5994569c77decf43485a95c0e35ece36b5744d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2726,
+    "sha256": "sha256:023ad4cf18f97b24d5f823f8665204e97d3ed69f8f26ee1bf2abbfc496029bd5",
+    "normalized_content_hash": "sha256:43696924d0ca6bf3d7ce7468e98b8b60f6ca1bb75299bb9ecbaa02a03b69c221"
+  },
+  "provenance": {
+    "source_item_id": "7ff72b41-f777-4591-8ec8-773d526174bd",
+    "external_id": "https://www.porter.run/changelog/multi-app-porter-yaml-improved-cli-and-audit-logs-faster-docker-build-times"
+  }
+}

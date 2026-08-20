@@ -1,0 +1,44 @@
+---
+schema_version: "1.0.0"
+document_id: "240e614693d3398b6c7ebda4049e8436336887f52b8e9781528a0aeab9a97c77"
+company_key: "american-battery-technology-company-common-stock"
+company: "American Battery Technology Company"
+source_id: "american-battery-technology-company-common-stock-news-import-3eb1af587965"
+canonical_url: "https://americanbatterytechnology.com/press-release/american-battery-technology-company-selected-to-recycle-batteries-from-the-largest-lithium-ion-battery-cleanup-in-us-history-30-million-estimated-project-proceeds/"
+published_at: "2025-11-06T15:49:23+00:00"
+first_seen_at: "2026-07-23T01:45:37.379155+00:00"
+fetched_at: "2026-07-28T21:27:35.329570+00:00"
+content_hash: "sha256:ad563cd93b6824c4eba319dc7c1b9f8ccc66e4342a8e30ca0778b1527336bb2d"
+---
+
+# American Battery Technology Company Selected to Recycle Batteries from the Largest Lithium-Ion Battery Cleanup in US History, $30 Million Estimated Project Proceeds
+
+***Projects involve safe processing of wide variety of damaged battery materials through the company’s internally-developed recycling processes and the sale of recycled critical mineral products back into the battery supply chain***
+
+
+**Reno, Nev., November 6, 2025** –[American Battery Technology Company](https://americanbatterytechnology.com/) (NASDAQ: ABAT), an integrated critical battery materials company commercializing both its primary battery critical mineral manufacturing and secondary lithium-ion battery recycling facilities, has been contracted for and approved by the U.S. Environmental Protection Agency (EPA) to recycle the end-of-life lithium-ion batteries from the largest lithium-ion battery cleanup operation in EPA history. The project’s focus is on the safe handling and processing of damaged battery materials, underscoring the company’s commitment to protecting human health and the environment. American Battery Technology Company (ABTC) has made significant enhancements to its facility in Nevada in order to process these damaged battery materials and has been receiving large-scale shipments of this material for the past several weeks.
+
+
+Following a[fire at a grid scale battery energy storage system (BESS) facility in Northern California in January 2025](https://www.epa.gov/newsreleases/epa-oversees-largest-lithium-ion-battery-cleanup-agency-history-moss-landing) , up to approximately 100,000 lithium-ion battery modules require specialized handling, packaging, transportation, and recycling in accordance with procedures being overseen by the U.S. EPA. In Spring 2025, ABTC underwent an arduous audit and review process and successfully received formal approval from the U.S. EPA for its battery recycling facility in Nevada to receive waste material under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA). ABTC is now EPA approved as one of the only battery recyclers in the Western U.S. capable of receiving batteries that have been damaged and classified as CERCLA waste, such as battery materials that have been involved in large-scale BESS thermal events and fires.
+
+
+“This unprecedented cleanup effort highlights the critical importance of building and deploying advanced domestic critical mineral recycling infrastructure capable of addressing the growing challenges of managing damaged lithium-ion batteries in a safe and responsible manner,” said Ryan Melsert, CEO of ABTC. “We are proud that we have established ABTC as one of the only recyclers in the Western US to be capable of receiving CERCLA materials, and that we have already been processing truckloads of CERCLA material from this project for the past several weeks. This effort is not just about safely recycling damaged batteries—it’s about answering President Trump’s call to action for implementing[Immediate Measures to Increase American Mineral Production](https://www.whitehouse.gov/presidential-actions/2025/03/immediate-measures-to-increase-american-mineral-production/) through demonstrating how U.S.-based infrastructure can rise to return these critical minerals back to the domestic manufacturing supply chain.”
+
+
+This project demonstrates the critical importance of domestic battery management and critical mineral recycling infrastructure as energy storage systems for datacenters supporting artificial intelligence, machine learning, and cybersecurity expand across the United States. ABTC’s internally-developed recycling technologies can recover valuable critical materials including lithium, cobalt, nickel, aluminum, steel, and copper from damaged batteries, preventing these resources from entering landfills while supporting the establishment of a closed-loop U.S. critical mineral manufacturing supply chain.
+
+
+The EPA is overseeing the complex logistics of battery characterization, transportation, and delivery to ABTC’s Nevada facility. The damaged batteries vary in condition, from intact units to severely compromised materials requiring immediate processing to ensure safety compliance. At current market prices, if ABTC were to process all of the battery materials from the site, the value of recycled products generated from these materials is estimated at approximately $30 million.
+
+
+This unprecedented operation highlights the growing need for specialized battery recycling capabilities as electric vehicles, grid storage systems, and consumer electronics continue proliferating. The work being done on this clean-up between industry leaders and regulators is establishing safety and materials management standards for future large-scale battery facilities while demonstrating the viability of domestic recycling solutions for critical battery materials.
+
+
+Learn more at[EPA’s Battery Fire Response Webpage](https://www.epa.gov/ca/moss-landing-vistra-battery-fire) .
+
+
+**About American Battery Technology Company** American Battery Technology Company (ABTC), headquartered in Reno, Nevada, has pioneered first-of-kind technologies to unlock domestically manufactured and recycled battery metals critically needed to help meet the significant demand from the electric vehicle, stationary storage, and consumer electronics industries. Committed to a circular supply chain for battery metals, ABTC works to continually innovate and master new battery metals technologies that power a global transition to electrification and the future of sustainable energy.
+
+
+**Forward-Looking Statements**
+This press release contains “forward-looking statements” within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact, are “forward-looking statements.” Although the American Battery Technology Company’s (the “Company”) management believes that such forward-looking statements are reasonable, it cannot guarantee that such expectations are, or will be, correct. Forward looking statements include, among other things, statements concerning: supply and offtake agreements with customers; the Company’s future sales of products to customers, including the amounts, timing, and types of products included within those sales; potential loans, grants, and debt financing arrangements, including due diligence, the amount and type of debt, its syndication, and the schedule for closing; the scale of the battery recycling operations; the anticipated production from the integrated pilot facility; the scale, construction, and operation of the battery recycling operations, integrated pilot facility, Tonopah Flats Lithium Project, and commercial lithium mine and refinery; and the costs, schedules, production and economic projections associated with the foregoing. These forward-looking statements involve a number of risks and uncertainties, which could cause the Company’s future results to differ materially from those anticipated. Potential risks and uncertainties include, among others, risks and uncertainties related to the Company’s ability to continue as a going concern; interpretations or reinterpretations of geologic information, unfavorable exploration results, inability to obtain permits required for future exploration, development or production, general economic conditions and conditions affecting the industries in which the Company operates; the uncertainty of regulatory requirements and approvals; fluctuating mineral and commodity prices, final investment approval and the ability to obtain necessary financing on acceptable terms or at all. Additional information regarding the factors that may cause actual results to differ materially from these forward-looking statements is available in the Company’s filings with the Securities and Exchange Commission, including the Annual Report on Form 10-K for the year ended June 30, 2025. The Company assumes no obligation to update any of the information contained or referenced in this press release.

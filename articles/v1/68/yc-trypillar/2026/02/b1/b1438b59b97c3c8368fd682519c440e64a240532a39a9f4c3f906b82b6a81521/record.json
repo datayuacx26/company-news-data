@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1438b59b97c3c8368fd682519c440e64a240532a39a9f4c3f906b82b6a81521",
+  "company": {
+    "key": "yc-trypillar",
+    "name": "Pillar"
+  },
+  "source": {
+    "id": "yc-trypillar-rss-79c93837c076",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://trypillar.com/blog/you-dont-need-a-copilot-stack",
+    "canonical": "https://trypillar.com/blog/you-dont-need-a-copilot-stack"
+  },
+  "title": "You don't need a copilot stack",
+  "summary": "Every guide to building a SaaS copilot prescribes a multi-layer stack: CopilotKit for the frontend, LangGraph for orchestration, plus glue code to connect them. That architecture is the problem, not the solution.",
+  "published_at": "2026-02-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:02.957437+00:00",
+  "fetched_at": "2026-07-28T22:19:36.583779+00:00",
+  "last_updated_at": "2026-07-30T15:54:51.230394+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-trypillar/2026/02/b1/b1438b59b97c3c8368fd682519c440e64a240532a39a9f4c3f906b82b6a81521/article.md",
+    "record": "articles/v1/68/yc-trypillar/2026/02/b1/b1438b59b97c3c8368fd682519c440e64a240532a39a9f4c3f906b82b6a81521/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9370,
+    "sha256": "sha256:c7ef4d06b98d5a35a374e2cba986fe2f2d349d0ad029611f5f9520d77c3a2bf3",
+    "normalized_content_hash": "sha256:4305635149f33a33eecddaa643fbaf59d7ca0a3664fb233e6d91ef2850666ec2"
+  },
+  "provenance": {
+    "source_item_id": "76263dfb-989c-4921-a241-18e91c161754",
+    "external_id": "https://trypillar.com/blog/you-dont-need-a-copilot-stack"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "257623eca6b0792de2ebbb4b5a10cea4eaffee0ae20e0328140aac7b99c31c71",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/git-is-really-cool-actually",
+    "canonical": "https://depot.dev/blog/git-is-really-cool-actually"
+  },
+  "title": "Git is really cool, actually",
+  "summary": "Git's fetch operation shows off the best of its design: simple request-response exchanges and packfiles that sync repos efficiently. Here's how it works and why modern development needs more.",
+  "published_at": "2025-09-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/09/25/257623eca6b0792de2ebbb4b5a10cea4eaffee0ae20e0328140aac7b99c31c71/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/09/25/257623eca6b0792de2ebbb4b5a10cea4eaffee0ae20e0328140aac7b99c31c71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11237,
+    "sha256": "sha256:83ceee0dce2d40228051239830e0ea9662c4698d96a58929a25008acb92d3d1e",
+    "normalized_content_hash": "sha256:fc1371f14ab5fa62084b4c087994ea5487a7e388edad2aadab98fe53295a7393"
+  },
+  "provenance": {
+    "source_item_id": "ca341c35-10cb-48e6-bfde-962dc1e578e1",
+    "external_id": "https://depot.dev/blog/git-is-really-cool-actually"
+  }
+}

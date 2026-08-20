@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e7596a34490ac6524831b65f00c92855fb5afac4ff837e6051bf118c6825ca5",
+  "company": {
+    "key": "yc-roboflow",
+    "name": "Roboflow"
+  },
+  "source": {
+    "id": "yc-roboflow-rss-9175e36df81e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.roboflow.com/map-0-5-vs-map-0-5-0-95/",
+    "canonical": "https://blog.roboflow.com/map-0-5-vs-map-0-5-0-95/"
+  },
+  "title": "mAP@0.5 vs. mAP@0.5:0.95: What’s the Difference?",
+  "summary": "mAP@0.5 uses a single 0.50 IoU threshold; mAP@0.5:0.95 averages ten thresholds from 0.50 to 0.95. See how each is calculated and when to use it.",
+  "published_at": "2026-08-14T19:37:00+00:00",
+  "first_seen_at": "2026-08-17T22:21:54.851647+00:00",
+  "fetched_at": "2026-08-17T22:21:57.399757+00:00",
+  "last_updated_at": "2026-08-20T03:49:59.486324+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-roboflow/2026/08/2e/2e7596a34490ac6524831b65f00c92855fb5afac4ff837e6051bf118c6825ca5/article.md",
+    "record": "articles/v1/63/yc-roboflow/2026/08/2e/2e7596a34490ac6524831b65f00c92855fb5afac4ff837e6051bf118c6825ca5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22656,
+    "sha256": "sha256:f959086ca4e1c4af2efff4798840fdb16c0e1f83dffd367973bcc7e747a201cd",
+    "normalized_content_hash": "sha256:04ccd892dbf3eb26285ca4a575be080977ab28f6d042627e2eb15b0a2d27333f"
+  },
+  "provenance": {
+    "source_item_id": "b0b53a67-b04d-429b-b473-bfae03d98f2f",
+    "external_id": "6a82e7c5cdbce70001546aff"
+  }
+}

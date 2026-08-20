@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d30c970d630b179741b0d1909a846e1eed9fda05ff372a8da56fc557bfd66f4",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/graceful-shutdown-in-go",
+    "canonical": "https://depot.dev/blog/graceful-shutdown-in-go"
+  },
+  "title": "Graceful Shutdown in Go",
+  "summary": "When graceful shutdown is an afterthought, it's one of the most common sources of production bugs. When servers restart, work gets dropped, state gets lost, and you end up chasing weird behavior at startup. Here's how to use contexts and WaitGroups to implement clean shutdowns that don't lose work or corrupt state.",
+  "published_at": "2025-12-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:55:00.595584+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/12/6d/6d30c970d630b179741b0d1909a846e1eed9fda05ff372a8da56fc557bfd66f4/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/12/6d/6d30c970d630b179741b0d1909a846e1eed9fda05ff372a8da56fc557bfd66f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10611,
+    "sha256": "sha256:66d6fefc76dab2369b9bea83f5042d20c95414eecde2212098eb7b9905b40f3f",
+    "normalized_content_hash": "sha256:e07010d5d61b0d8aa03cc256d70bebfaab99d5a28e17a8158f24c8a43cf1765f"
+  },
+  "provenance": {
+    "source_item_id": "f4fe9f44-2192-4b38-abf8-a626075d4d1a",
+    "external_id": "https://depot.dev/blog/graceful-shutdown-in-go"
+  }
+}

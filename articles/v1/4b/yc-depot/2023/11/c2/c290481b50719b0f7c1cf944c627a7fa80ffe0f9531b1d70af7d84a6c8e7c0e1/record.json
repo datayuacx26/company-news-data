@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c290481b50719b0f7c1cf944c627a7fa80ffe0f9531b1d70af7d84a6c8e7c0e1",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/optimize-for-remote-docker-image-builds",
+    "canonical": "https://depot.dev/blog/optimize-for-remote-docker-image-builds"
+  },
+  "title": "How to optimize Docker image builds for Depot",
+  "summary": "Optimizing for building Docker images in the cloud can help reduce image and build context size so that your builds can leverage the full power of Depot builders.",
+  "published_at": "2023-11-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/11/c2/c290481b50719b0f7c1cf944c627a7fa80ffe0f9531b1d70af7d84a6c8e7c0e1/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/11/c2/c290481b50719b0f7c1cf944c627a7fa80ffe0f9531b1d70af7d84a6c8e7c0e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4996,
+    "sha256": "sha256:be2e8ecd7c7eff4a6a87f3c0f76f1ae0044eb64df928fb84d8f272bd6fc52d35",
+    "normalized_content_hash": "sha256:5f37636f8f39eaf5263f651e0dd51fe156386fc9e39e885f5dafcd18ff3e26ca"
+  },
+  "provenance": {
+    "source_item_id": "257ce925-b3fe-4095-8c9d-9cae7c50c162",
+    "external_id": "https://depot.dev/blog/optimize-for-remote-docker-image-builds"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-nirva",
+    "name": "Nirva"
+  },
+  "record_count": 13,
+  "first_published_at": "2023-07-14T00:00:00+00:00",
+  "last_published_at": "2025-07-04T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/54/yc-nirva/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13481,
+        "sha256": "sha256:cc8cd0232374e7b1653bfb9308247d12c867dd76cc5193e75c4678a487e3b012",
+        "newest_at": "2025-07-04T00:00:00+00:00",
+        "oldest_at": "2023-07-14T00:00:00+00:00"
+      }
+    ]
+  }
+}

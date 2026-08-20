@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff2b93721985303b0bfc9ab5c5d0f1e81a9e672f2e3e98375b3defb95e355acc",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-build-fundamentals",
+    "canonical": "https://depot.dev/blog/docker-build-fundamentals"
+  },
+  "title": "The fundamentals of building a Docker image",
+  "summary": "There are four fundamentals to building a Docker image quickly with docker build. From the moment we create a Dockerfile, we should be thinking about the fundamentals of building a Docker image as fast as possible.",
+  "published_at": "2023-05-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/05/ff/ff2b93721985303b0bfc9ab5c5d0f1e81a9e672f2e3e98375b3defb95e355acc/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/05/ff/ff2b93721985303b0bfc9ab5c5d0f1e81a9e672f2e3e98375b3defb95e355acc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12214,
+    "sha256": "sha256:e52b04052e233511680642648cacd923b4bc44ed1f6e49eb14b1f6c2f30cdd9b",
+    "normalized_content_hash": "sha256:c8dd77269522687df0fcdc1d68434bb4b19514dd215b8ca15534aaa714a49e6a"
+  },
+  "provenance": {
+    "source_item_id": "24b0524d-de47-4723-b0fc-85ed1db47db7",
+    "external_id": "https://depot.dev/blog/docker-build-fundamentals"
+  }
+}

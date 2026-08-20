@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "660b36ed6f58da08fc5b96f1c70de7c0e8a66ef1c06c7e1c6a228e3ae7fe6d09",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/aws-secrets-manager-complete-guide",
+    "canonical": "https://infisical.com/blog/aws-secrets-manager-complete-guide"
+  },
+  "title": "AWS Secrets Manager: Complete Guide, Best Practices, and Tips",
+  "summary": "A practical guide to AWS Secrets Manager: how it works, IAM access, rotation, Terraform and CLI usage, pricing, and best practices for production.",
+  "published_at": "2026-06-02T04:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-04T03:40:36.437629+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/06/66/660b36ed6f58da08fc5b96f1c70de7c0e8a66ef1c06c7e1c6a228e3ae7fe6d09/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/06/66/660b36ed6f58da08fc5b96f1c70de7c0e8a66ef1c06c7e1c6a228e3ae7fe6d09/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21024,
+    "sha256": "sha256:03cabba09c7da1c830ed729e03bc495c7586e61e8a5ee4c3060fab1435a1de40",
+    "normalized_content_hash": "sha256:d764e26127f2d8811ff2159f5976c895aeb4626a641f6ae71786fe9808479f26"
+  },
+  "provenance": {
+    "source_item_id": "03e7876c-23d6-4890-b1d8-ef9ff9ce6c21",
+    "external_id": "https://infisical.com/blog/aws-secrets-manager-complete-guide"
+  }
+}

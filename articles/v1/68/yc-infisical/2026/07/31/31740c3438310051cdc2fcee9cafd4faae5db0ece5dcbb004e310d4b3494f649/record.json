@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31740c3438310051cdc2fcee9cafd4faae5db0ece5dcbb004e310d4b3494f649",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/agent-proxy",
+    "canonical": "https://infisical.com/blog/agent-proxy"
+  },
+  "title": "Agent Proxy: Secure Credential Injection for Agents",
+  "summary": "Infisical Agent Proxy is the commercial successor to Agent Vault, a secrets broker that lets AI agents use credentials without ever holding the real values.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:10:17.136731+00:00",
+  "fetched_at": "2026-07-31T19:10:18.826077+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/07/31/31740c3438310051cdc2fcee9cafd4faae5db0ece5dcbb004e310d4b3494f649/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/07/31/31740c3438310051cdc2fcee9cafd4faae5db0ece5dcbb004e310d4b3494f649/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11133,
+    "sha256": "sha256:0778024fd5d26d38793c259254749d7a4f9ae7c3af641acb3016c4c913ec762b",
+    "normalized_content_hash": "sha256:8d7385377facc8fb151880a4a2c32b211acf32bd6844c8fb0efcbab033b71de0"
+  },
+  "provenance": {
+    "source_item_id": "a1c5e73b-2fc6-4b62-b4aa-6439a41dd85e",
+    "external_id": "https://infisical.com/blog/agent-proxy"
+  }
+}

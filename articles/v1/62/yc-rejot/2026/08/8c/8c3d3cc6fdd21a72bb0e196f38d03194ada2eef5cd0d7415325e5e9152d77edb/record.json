@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c3d3cc6fdd21a72bb0e196f38d03194ada2eef5cd0d7415325e5e9152d77edb",
+  "company": {
+    "key": "yc-rejot",
+    "name": "ReJot"
+  },
+  "source": {
+    "id": "yc-rejot-news-import-01598ccac029",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rejot.dev/blog/how-i-use-git-worktrees/",
+    "canonical": "https://rejot.dev/blog/how-i-use-git-worktrees/"
+  },
+  "title": "How I use Git worktrees",
+  "summary": "My simple workflow built around a fixed pool of Git worktree directories.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T00:29:28.218990+00:00",
+  "fetched_at": "2026-08-13T00:29:32.160933+00:00",
+  "last_updated_at": "2026-08-19T18:37:14.400537+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-rejot/2026/08/8c/8c3d3cc6fdd21a72bb0e196f38d03194ada2eef5cd0d7415325e5e9152d77edb/article.md",
+    "record": "articles/v1/62/yc-rejot/2026/08/8c/8c3d3cc6fdd21a72bb0e196f38d03194ada2eef5cd0d7415325e5e9152d77edb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5611,
+    "sha256": "sha256:76379790d11983451c4df0989f6cfd3b6b043c75e0a71f21020a0fdd98f6eca5",
+    "normalized_content_hash": "sha256:4cdab50288a2db2653755f0bf33b1c305e955b9b6c05d57f097db007a923e6b4"
+  },
+  "provenance": {
+    "source_item_id": "5da9c79f-6958-424e-b8f9-cb0e0e59a5d5",
+    "external_id": "https://rejot.dev/blog/how-i-use-git-worktrees/"
+  }
+}

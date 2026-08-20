@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bioxcel-therapeutics-inc-common-stock",
+    "name": "BioXcel Therapeutics Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2026-02-19T12:00:37+00:00",
+  "last_published_at": "2026-05-28T11:00:54+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/77/bioxcel-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14373,
+        "sha256": "sha256:cb4ade0cc9f4edaab89335f4b7cd64abc58cc20281c12f6cac83adba61df1356",
+        "newest_at": "2026-05-28T11:00:54+00:00",
+        "oldest_at": "2026-02-19T12:00:37+00:00"
+      }
+    ]
+  }
+}

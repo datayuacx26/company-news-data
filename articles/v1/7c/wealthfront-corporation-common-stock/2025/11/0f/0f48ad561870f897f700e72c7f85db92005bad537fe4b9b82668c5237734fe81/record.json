@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f48ad561870f897f700e72c7f85db92005bad537fe4b9b82668c5237734fe81",
+  "company": {
+    "key": "wealthfront-corporation-common-stock",
+    "name": "Wealthfront Corporation"
+  },
+  "source": {
+    "id": "wealthfront-corporation-common-stock-rss-9fbe6ef385e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://eng.wealthfront.com/2025/11/20/sealed-tests/",
+    "canonical": "https://eng.wealthfront.com/2025/11/20/sealed-tests/"
+  },
+  "title": "Automating Exhaustive Branch Coverage for Sealed Types in Kotlin",
+  "summary": "We take code correctness and code quality seriously at Wealthfront. One of the most effective ways we ensure that our code is correct is through rigorous unit testing and strong typing. In Kotlin, sealed classes and sealed interfaces offer a powerful tool to model restricted class hierarchies. They provide strong guarantees about the types in... Read more",
+  "published_at": "2025-11-20T16:33:33+00:00",
+  "first_seen_at": "2026-07-20T23:18:22.615485+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T00:33:06.699247+00:00",
+  "paths": {
+    "article": "articles/v1/7c/wealthfront-corporation-common-stock/2025/11/0f/0f48ad561870f897f700e72c7f85db92005bad537fe4b9b82668c5237734fe81/article.md",
+    "record": "articles/v1/7c/wealthfront-corporation-common-stock/2025/11/0f/0f48ad561870f897f700e72c7f85db92005bad537fe4b9b82668c5237734fe81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11079,
+    "sha256": "sha256:9d6d3daf442af0880477d68f38af13abab25446ded6a7f86702abef063288283",
+    "normalized_content_hash": "sha256:160b2f2d6bee5cd5abb087bd4abed9616d7891dc708c178e85790c9f13f03e34"
+  },
+  "provenance": {
+    "source_item_id": "fe178e81-983c-4e28-acc4-91b586a93714",
+    "external_id": "https://eng.wealthfront.com/?p=3649"
+  }
+}

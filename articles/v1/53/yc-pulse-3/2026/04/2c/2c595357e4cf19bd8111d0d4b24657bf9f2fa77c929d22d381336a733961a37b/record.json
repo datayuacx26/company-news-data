@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c595357e4cf19bd8111d0d4b24657bf9f2fa77c929d22d381336a733961a37b",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/where-table-extraction-breaks",
+    "canonical": "https://www.runpulse.com/blog/where-table-extraction-breaks"
+  },
+  "title": "Where Table Extraction Breaks: Lessons from PulseBench-Tab",
+  "summary": "Most table extraction benchmarks test on clean, well-bordered, single-language grids, the kind of tables that look great in a demo but rarely show up in the documents enterprises actually need to process. | Pulse AI",
+  "published_at": "2026-04-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:59.698897+00:00",
+  "fetched_at": "2026-07-28T22:15:34.522080+00:00",
+  "last_updated_at": "2026-08-13T12:52:26.065857+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/04/2c/2c595357e4cf19bd8111d0d4b24657bf9f2fa77c929d22d381336a733961a37b/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/04/2c/2c595357e4cf19bd8111d0d4b24657bf9f2fa77c929d22d381336a733961a37b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15582,
+    "sha256": "sha256:b9ed6028e90df65e86bf28b15a96a351eb3fe801dabe0973b3f1ff4c64531706",
+    "normalized_content_hash": "sha256:3faea3c66407af027744b46937dea70ca7999d44b8d8b76342f291d3f14f2250"
+  },
+  "provenance": {
+    "source_item_id": "044ed779-db0d-41d2-a6f6-274a33bfa2ea",
+    "external_id": "https://www.runpulse.com/blog/where-table-extraction-breaks"
+  }
+}

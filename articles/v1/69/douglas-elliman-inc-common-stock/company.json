@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "douglas-elliman-inc-common-stock",
+    "name": "Douglas Elliman Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2025-04-29T13:01:00+00:00",
+  "last_published_at": "2026-08-07T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/69/douglas-elliman-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 25507,
+        "sha256": "sha256:3929114eca2b97dbed12918c7916451ea8a0ac9c0bee8b36a26e8752d518dffe",
+        "newest_at": "2026-08-07T11:00:00+00:00",
+        "oldest_at": "2025-04-29T13:01:00+00:00"
+      }
+    ]
+  }
+}

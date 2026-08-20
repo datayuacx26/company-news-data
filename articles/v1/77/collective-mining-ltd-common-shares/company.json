@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "collective-mining-ltd-common-shares",
+    "name": "Collective Mining Ltd. Common Shares"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-03-29T22:01:33+00:00",
+  "last_published_at": "2026-08-18T10:30:33+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/77/collective-mining-ltd-common-shares/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 18625,
+        "sha256": "sha256:d0722f5a185e76134b5a4b367fed579ab0291e3b2621970d418f9ab017d67ee4",
+        "newest_at": "2026-08-18T10:30:33+00:00",
+        "oldest_at": "2026-03-29T22:01:33+00:00"
+      }
+    ]
+  }
+}

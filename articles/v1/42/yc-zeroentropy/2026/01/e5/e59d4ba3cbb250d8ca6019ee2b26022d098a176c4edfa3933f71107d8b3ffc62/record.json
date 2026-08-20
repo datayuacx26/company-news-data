@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e59d4ba3cbb250d8ca6019ee2b26022d098a176c4edfa3933f71107d8b3ffc62",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/prompting-best-practices-for-instruction-following-rerankers/",
+    "canonical": "https://zeroentropy.dev/articles/prompting-best-practices-for-instruction-following-rerankers/"
+  },
+  "title": "Prompting Best Practices For Instruction-Following Rerankers",
+  "summary": "In this guide, we will go over best practices around prompting a reranker for state-of-the-art relevance.",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-07-28T21:59:16.242504+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/01/e5/e59d4ba3cbb250d8ca6019ee2b26022d098a176c4edfa3933f71107d8b3ffc62/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/01/e5/e59d4ba3cbb250d8ca6019ee2b26022d098a176c4edfa3933f71107d8b3ffc62/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13770,
+    "sha256": "sha256:51907f17d482c3c0e0665b1f98ce52570248fa843979861e4068b225e28d4536",
+    "normalized_content_hash": "sha256:0327fb4ba70d3cdbf5deb2a9631085ce4e1bc2f12f7fe3a6695bd4ff17aa0170"
+  },
+  "provenance": {
+    "source_item_id": "2991af00-9ae9-4ae4-9fbb-001766d38ff7",
+    "external_id": "https://zeroentropy.dev/articles/prompting-best-practices-for-instruction-following-rerankers/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2090f8ecc11f52011e716fc78282b23e3782c5d2d2ba0b30c47f762960a8235b",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134764",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134764"
+  },
+  "title": "SA-2026-028 - glibc memalign Integer Overflow (CVE-2026-0861)",
+  "summary": "Passing too large an alignment to the memalign suite of functions (memalign, posix_memalign, aligned_alloc) in the GNU C Library may result in an integer overflow, which could consequently result in a heap corruption. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-03-20T14:46:32+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-05T15:59:03.203812+00:00",
+  "last_updated_at": "2026-08-05T15:59:03.240553+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/20/2090f8ecc11f52011e716fc78282b23e3782c5d2d2ba0b30c47f762960a8235b/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/20/2090f8ecc11f52011e716fc78282b23e3782c5d2d2ba0b30c47f762960a8235b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1272,
+    "sha256": "sha256:f0534cea85225d856f9b1760c82a84ee49d4ab7fa732cde156e0ffb5c1a666e5",
+    "normalized_content_hash": "sha256:f2d7a8f7d55ca7afd6cdffadc53f4b04f085bbd9b85deecd9598d38e8e6a9956"
+  },
+  "provenance": {
+    "source_item_id": "97ee0924-4935-4145-aa96-9d4fa99e23e6",
+    "external_id": "000134764"
+  }
+}

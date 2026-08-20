@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdc1b7c3714893619f3e5d225c79e511b0d2c2114fbfea0d29bb9732caca73c7",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/depot-ephemeral-registry",
+    "canonical": "https://depot.dev/blog/depot-ephemeral-registry"
+  },
+  "title": "Now available: Depot ephemeral registries",
+  "summary": "We're excited to release Depot ephemeral registries that allow you to save built images for later use in your CI workflows, to share with your team, or to push to remote registries.",
+  "published_at": "2023-12-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:26:21.272352+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/12/bd/bdc1b7c3714893619f3e5d225c79e511b0d2c2114fbfea0d29bb9732caca73c7/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/12/bd/bdc1b7c3714893619f3e5d225c79e511b0d2c2114fbfea0d29bb9732caca73c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5960,
+    "sha256": "sha256:e6b6c88b2ac9eeb467e5e54b042f4b9e47fec5520f0e1b8614facd6e13c30bd9",
+    "normalized_content_hash": "sha256:62ef7cfdee952b76c91ad87ea5209bdf75702aae01d5b2a7614a857a2c44df08"
+  },
+  "provenance": {
+    "source_item_id": "17a66e63-3b9c-4f56-be59-e7f2c0cb685e",
+    "external_id": "https://depot.dev/blog/depot-ephemeral-registry"
+  }
+}

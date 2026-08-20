@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "089527ab5071bc298cf840ff89f995c0f6e09206f4024b00a3a2b1c95cb3b518",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/redshift-4",
+    "canonical": "https://airbyte.com/blog/redshift-4"
+  },
+  "title": "Destination Redshift 4.0: 4x Faster with Direct Loading and Speed Mode",
+  "summary": "Destination Redshift 4.0 is 4x faster with Direct Loading and Speed Mode, helping teams move data to Redshift faster, cheaper, and more reliably.",
+  "published_at": "2026-06-16T10:28:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-08-04T22:59:44.122909+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/06/08/089527ab5071bc298cf840ff89f995c0f6e09206f4024b00a3a2b1c95cb3b518/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/06/08/089527ab5071bc298cf840ff89f995c0f6e09206f4024b00a3a2b1c95cb3b518/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9287,
+    "sha256": "sha256:ce456976c5ecbed6845694e92ea9fc5cf5edaaf297b2eda13c97f421fd2c8732",
+    "normalized_content_hash": "sha256:ff44889ef4d34da64d7977bf80a576e441d906df1e636ef186aafe92bfaf03b2"
+  },
+  "provenance": {
+    "source_item_id": "6e24a7a1-b3f8-46e7-a1f4-098f0db4f84c",
+    "external_id": "https://airbyte.com/blog/redshift-4"
+  }
+}

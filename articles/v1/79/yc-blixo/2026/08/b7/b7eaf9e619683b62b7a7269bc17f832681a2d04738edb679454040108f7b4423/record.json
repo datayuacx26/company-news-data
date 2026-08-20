@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7eaf9e619683b62b7a7269bc17f832681a2d04738edb679454040108f7b4423",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/blixo-for-quickbooks-online-faster-cash-application-and-fewer-reconciliation-errors-c6bb",
+    "canonical": "https://blixo.com/blog/en/post/blixo-for-quickbooks-online-faster-cash-application-and-fewer-reconciliation-errors-c6bb/"
+  },
+  "title": "Blixo for QuickBooks Online: Faster Cash Application and Fewer Reconciliation Errors",
+  "summary": "Key Takeaways Blixo connects to QuickBooks Online through an authorization flow, after which recurring subscription payments can be routed toward automated reconciliation instead of piling up in a manual review queue. Automated cash application is designed to cut manual touches on repetitive matching work, which is where reconciliation errors tend to slip through. Because the connection uses QuickBooks Online’s API, you’ll generally need an account with the permissions QuickBooks requires to authorize a third-party app. The connection is set up to sync payments, invoices, and customer records between Blixo and QuickBooks Online. You’ll want a chart of accounts with a clearing or undeposited funds account configured in QuickBooks before you connect. Map recurring plans and customers in advance so subscription revenue posts to the accounts you intend. The reconciliation benefits come from matching repeat payments, so businesses running only one-off transactions gain less from the integration. Connecting Blixo to QuickBooks Online",
+  "published_at": "2026-08-10T04:52:28+00:00",
+  "first_seen_at": "2026-08-15T19:40:43.019450+00:00",
+  "fetched_at": "2026-08-15T19:40:45.055952+00:00",
+  "last_updated_at": "2026-08-19T05:13:15.824804+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/08/b7/b7eaf9e619683b62b7a7269bc17f832681a2d04738edb679454040108f7b4423/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/08/b7/b7eaf9e619683b62b7a7269bc17f832681a2d04738edb679454040108f7b4423/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16292,
+    "sha256": "sha256:e042c23777c28e1f709a7225ff7cbaa764b69f3cd6fe4d535e1d90f32fd292d3",
+    "normalized_content_hash": "sha256:e70f39721e21989a64bbbf7841fba26c33bd05bd5648b9b7927cd134074ef2bd"
+  },
+  "provenance": {
+    "source_item_id": "595c108c-c6d4-4f26-9a58-b9de43537a27",
+    "external_id": "https://blixo.com/blog/en/post/blixo-for-quickbooks-online-faster-cash-application-and-fewer-reconciliation-errors-c6bb/"
+  }
+}

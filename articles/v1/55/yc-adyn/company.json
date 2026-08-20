@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-adyn",
+    "name": "adyn"
+  },
+  "record_count": 6,
+  "first_published_at": "2024-08-19T19:00:40+00:00",
+  "last_published_at": "2024-10-14T22:17:43+00:00",
+  "partitions": [
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/yc-adyn/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 5638,
+        "sha256": "sha256:29af0e857e12ed31aa7c79e5e716d8f7842a322616a1cd549a3f65f61d1ece70",
+        "newest_at": "2024-10-14T22:17:43+00:00",
+        "oldest_at": "2024-08-19T19:00:40+00:00"
+      }
+    ]
+  }
+}

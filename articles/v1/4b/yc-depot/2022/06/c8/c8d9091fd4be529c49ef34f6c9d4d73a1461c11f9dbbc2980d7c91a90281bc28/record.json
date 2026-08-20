@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8d9091fd4be529c49ef34f6c9d4d73a1461c11f9dbbc2980d7c91a90281bc28",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/project-tokens",
+    "canonical": "https://depot.dev/blog/project-tokens"
+  },
+  "title": "New feature: project tokens",
+  "summary": "You can now authenticate to Depot with a project-specific API token, for fine-grained access control over your Docker builds.",
+  "published_at": "2022-06-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/06/c8/c8d9091fd4be529c49ef34f6c9d4d73a1461c11f9dbbc2980d7c91a90281bc28/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/06/c8/c8d9091fd4be529c49ef34f6c9d4d73a1461c11f9dbbc2980d7c91a90281bc28/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3286,
+    "sha256": "sha256:de8d2bf4e5f36e3d2dc8db206346ae72ec06e1a7a6e8e13d895310092cee8ded",
+    "normalized_content_hash": "sha256:814689e2474496697766a137d3a0977f6d99a09840bf3f3c3271977ba9a06085"
+  },
+  "provenance": {
+    "source_item_id": "bc6917ac-74c7-4033-a5aa-f4bdac1c30a4",
+    "external_id": "https://depot.dev/blog/project-tokens"
+  }
+}

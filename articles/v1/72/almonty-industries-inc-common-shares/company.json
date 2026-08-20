@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "almonty-industries-inc-common-shares",
+    "name": "Almonty Industries Inc. Common Shares"
+  },
+  "record_count": 1,
+  "first_published_at": "2025-06-23T07:50:27+00:00",
+  "last_published_at": "2025-06-23T07:50:27+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/72/almonty-industries-inc-common-shares/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1261,
+        "sha256": "sha256:a1a52e74f4621b9aff4ee07cf0a01cf770e45640b002f8ce74d558e90e0b35d9",
+        "newest_at": "2025-06-23T07:50:27+00:00",
+        "oldest_at": "2025-06-23T07:50:27+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ea3ce6ebe71cb0d3334aeb121d0835caab734e7f5ac52f2010f1f8f4debed03",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci",
+    "canonical": "https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci"
+  },
+  "title": "Uncovering Disk I/O Bottlenecks in GitHub Actions",
+  "summary": "When your CI pipelines are slow, you can only optimize so much. Bottlenecks in CPU, Network, Memory, and Disk I/O can all contribute to slow CI pipelines. Let's take a look at how disk I/O can be a bottleneck in GitHub Actions.",
+  "published_at": "2024-09-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/09/7e/7ea3ce6ebe71cb0d3334aeb121d0835caab734e7f5ac52f2010f1f8f4debed03/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/09/7e/7ea3ce6ebe71cb0d3334aeb121d0835caab734e7f5ac52f2010f1f8f4debed03/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10834,
+    "sha256": "sha256:92844b970cfef513907e4d036f27daa817ece1a327a030e11728c4b0987da48a",
+    "normalized_content_hash": "sha256:763fe774a878002b34aa4aacf3a45b65184b92ba736a8d9a11ec9fd5d8dddc2b"
+  },
+  "provenance": {
+    "source_item_id": "d8c7de77-6c6b-444e-8e2c-854c09b923f9",
+    "external_id": "https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci"
+  }
+}

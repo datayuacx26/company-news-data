@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e1b588f8d11c4bc219ae9f0cb3f3126e71de06bf27d591f4a4f46e8e57581f07",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/cutting-the-high-cost-of-testing-microservices/",
+    "canonical": "https://www.signadot.com/blog/cutting-the-high-cost-of-testing-microservices/"
+  },
+  "title": "Cutting the High Cost of Testing Microservices",
+  "summary": "While duplicating environments might seem a practical way to ensure consistency, the infrastructure can be costly. A look at alternative strategies.",
+  "published_at": "2024-08-30T19:52:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/08/e1/e1b588f8d11c4bc219ae9f0cb3f3126e71de06bf27d591f4a4f46e8e57581f07/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/08/e1/e1b588f8d11c4bc219ae9f0cb3f3126e71de06bf27d591f4a4f46e8e57581f07/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9270,
+    "sha256": "sha256:509e04eb22dc11058ceecb432d2f2898f30d9f612ce30fb70666c0ffb7904dee",
+    "normalized_content_hash": "sha256:e4b91a521cd6c2e1c3ed01b355d3555963d42203f9350b538cdf970acc21ac79"
+  },
+  "provenance": {
+    "source_item_id": "7eb6ef17-b025-4103-9d5f-35743d642c43",
+    "external_id": "https://www.signadot.com/blog/cutting-the-high-cost-of-testing-microservices/"
+  }
+}

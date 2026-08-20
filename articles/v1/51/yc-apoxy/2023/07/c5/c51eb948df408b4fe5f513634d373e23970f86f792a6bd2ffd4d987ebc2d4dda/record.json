@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c51eb948df408b4fe5f513634d373e23970f86f792a6bd2ffd4d987ebc2d4dda",
+  "company": {
+    "key": "yc-apoxy",
+    "name": "Apoxy"
+  },
+  "source": {
+    "id": "yc-apoxy-rss-ae7e2d86e063",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://apoxy.dev/blog/riffing-on-nginx-playground",
+    "canonical": "https://apoxy.dev/blog/riffing-on-nginx-playground"
+  },
+  "title": "Riffing on Nginx Playground",
+  "summary": "Forking Julia Evans' Nginx Playground into an Envoy playground in an afternoon - sed, func-e, a CodeMirror fix, and a Fly.io deploy.",
+  "published_at": "2023-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:03.880414+00:00",
+  "fetched_at": "2026-07-28T22:00:21.221344+00:00",
+  "last_updated_at": "2026-08-20T01:06:37.807067+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-apoxy/2023/07/c5/c51eb948df408b4fe5f513634d373e23970f86f792a6bd2ffd4d987ebc2d4dda/article.md",
+    "record": "articles/v1/51/yc-apoxy/2023/07/c5/c51eb948df408b4fe5f513634d373e23970f86f792a6bd2ffd4d987ebc2d4dda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2528,
+    "sha256": "sha256:2767932faa2fc2d1b0b6f417145bc78a13ea7de22e6fd6cc4e0ea3982787be65",
+    "normalized_content_hash": "sha256:988411a17b18450ad6ce34bfbc75a5f3f10eed7102b29737c070f7b587260569"
+  },
+  "provenance": {
+    "source_item_id": "b0c01d6f-e4a7-497a-ab10-9365dbf274e3",
+    "external_id": "https://apoxy.dev/blog/riffing-on-nginx-playground"
+  }
+}

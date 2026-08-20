@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f049ce7441368ae7daf0155378c320d49299c8d3fa9783bf8ee151d5aa03363a",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-news-import-e788018b3f7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://resend.com/changelog/auth0-integration",
+    "canonical": "https://resend.com/changelog/auth0-integration"
+  },
+  "title": "Auth0 Integration",
+  "summary": "Send Auth0 transactional emails through Resend using the official integration.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T21:22:09.024444+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T01:39:55.585906+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2026/05/f0/f049ce7441368ae7daf0155378c320d49299c8d3fa9783bf8ee151d5aa03363a/article.md",
+    "record": "articles/v1/78/yc-resend/2026/05/f0/f049ce7441368ae7daf0155378c320d49299c8d3fa9783bf8ee151d5aa03363a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3845,
+    "sha256": "sha256:dca92ef1fe1f275297851b846a3e73d0a561c7f70914f389d3351f615fb076dc",
+    "normalized_content_hash": "sha256:1fd25891021d1a67c02b867cd8ce8911e378aaba2469a27cff09ee5b088cbb6f"
+  },
+  "provenance": {
+    "source_item_id": "c2a77f28-d92e-4d23-a51e-bd7641583f97",
+    "external_id": "https://resend.com/changelog/auth0-integration"
+  }
+}

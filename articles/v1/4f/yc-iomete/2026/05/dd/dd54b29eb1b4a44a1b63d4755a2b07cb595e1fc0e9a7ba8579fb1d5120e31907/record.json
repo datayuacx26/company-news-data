@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd54b29eb1b4a44a1b63d4755a2b07cb595e1fc0e9a7ba8579fb1d5120e31907",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/hidden-debt-in-lakehouse-tables",
+    "canonical": "https://iomete.com/resources/blog/hidden-debt-in-lakehouse-tables"
+  },
+  "title": "The Hidden Debt in Your Lakehouse Tables (And Why You Should Care)",
+  "summary": "Iceberg tables degrade over time from small files, snapshot accumulation, orphan files, and metadata bloat. Real production numbers on what neglect actually costs.",
+  "published_at": "2026-05-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:31:44.448316+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:20.413690+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/05/dd/dd54b29eb1b4a44a1b63d4755a2b07cb595e1fc0e9a7ba8579fb1d5120e31907/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/05/dd/dd54b29eb1b4a44a1b63d4755a2b07cb595e1fc0e9a7ba8579fb1d5120e31907/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19364,
+    "sha256": "sha256:aa2fb95086c9dec824e791c20641e9c3f5eb29a9a11b14586a957c485003467d",
+    "normalized_content_hash": "sha256:054fb03e4c71106e78aa6ba0c8f455ef965e3b306df33c80015227b50298ca1e"
+  },
+  "provenance": {
+    "source_item_id": "40967839-cdf6-46bb-b4c1-856c2e41f4a9",
+    "external_id": "https://iomete.com/resources/blog/hidden-debt-in-lakehouse-tables"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ff57ca02503554bfc2744280466c0e59aaea7ede0fdeaaa62bfe2fd32417c56",
+  "company": {
+    "key": "yc-nectar",
+    "name": "Nectar"
+  },
+  "source": {
+    "id": "yc-nectar-news-import-9e0f80bd6d18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nectarclimate.com/blog/post/how-nectar-parses-granular-utility-cost-data",
+    "canonical": "https://nectarclimate.com/blog/post/how-nectar-parses-granular-utility-cost-data"
+  },
+  "title": "How Nectar Parses Granular Utility Cost Data",
+  "summary": "Extracting detailed cost data from utility bills — parsing supply, delivery, and demand charges for smarter energy spend decisions.",
+  "published_at": "2024-09-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T17:43:23.891177+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-19T18:14:15.067178+00:00",
+  "paths": {
+    "article": "articles/v1/72/yc-nectar/2024/09/1f/1ff57ca02503554bfc2744280466c0e59aaea7ede0fdeaaa62bfe2fd32417c56/article.md",
+    "record": "articles/v1/72/yc-nectar/2024/09/1f/1ff57ca02503554bfc2744280466c0e59aaea7ede0fdeaaa62bfe2fd32417c56/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6380,
+    "sha256": "sha256:9910ec232e4000aa641918dad1efec1380a487451ac2da387804d779b54f2e56",
+    "normalized_content_hash": "sha256:7fc888392e3d709c24bfe0adcd163baeec18f22f278b1cec04632fc74f5459cb"
+  },
+  "provenance": {
+    "source_item_id": "08e5bf13-fd66-41e8-8e9a-39027b127a01",
+    "external_id": "https://nectarclimate.com/blog/post/how-nectar-parses-granular-utility-cost-data"
+  }
+}

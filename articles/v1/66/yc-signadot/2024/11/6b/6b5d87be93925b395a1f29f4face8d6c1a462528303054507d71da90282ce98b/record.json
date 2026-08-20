@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b5d87be93925b395a1f29f4face8d6c1a462528303054507d71da90282ce98b",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/setting-up-database-isolation-for-schema-changes-using-signadot-sandboxes-and-resource-plugins/",
+    "canonical": "https://www.signadot.com/blog/setting-up-database-isolation-for-schema-changes-using-signadot-sandboxes-and-resource-plugins/"
+  },
+  "title": "A Better Way to Test Database Schema Changes during Local Development and Pull Requests",
+  "summary": "A step-by-step guide to testing database schema changes in a sandbox environment. Learn how to leverage remote Kubernetes clusters to test your schema changes during local development and pull requests.",
+  "published_at": "2024-11-19T21:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/11/6b/6b5d87be93925b395a1f29f4face8d6c1a462528303054507d71da90282ce98b/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/11/6b/6b5d87be93925b395a1f29f4face8d6c1a462528303054507d71da90282ce98b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12239,
+    "sha256": "sha256:1138e2d9a8d6d93794dd71a252078575555e03da4751e43bc6a6f6d8b0d049c9",
+    "normalized_content_hash": "sha256:42e54e31791436037f598b0c8b739be46554e2878a731617880f92fbdfe7d0fa"
+  },
+  "provenance": {
+    "source_item_id": "1fd0ccd2-d6ec-4756-9bd1-8992c01f9cfa",
+    "external_id": "https://www.signadot.com/blog/setting-up-database-isolation-for-schema-changes-using-signadot-sandboxes-and-resource-plugins/"
+  }
+}

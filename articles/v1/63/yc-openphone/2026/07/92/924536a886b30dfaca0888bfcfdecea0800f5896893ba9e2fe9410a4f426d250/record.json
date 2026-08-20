@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "924536a886b30dfaca0888bfcfdecea0800f5896893ba9e2fe9410a4f426d250",
+  "company": {
+    "key": "yc-openphone",
+    "name": "Quo (fka OpenPhone)"
+  },
+  "source": {
+    "id": "yc-openphone-rss-7c9664a9f202",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.quo.com/blog/scaling-graphql/",
+    "canonical": "https://www.quo.com/blog/scaling-graphql/"
+  },
+  "title": "Lessons from scaling with GraphQL",
+  "summary": "Undocumented API contracts, sync strain, and a distributed monolith pushed Quo toward GraphQL Federation. Here's how the migration reshaped our stack.",
+  "published_at": "2026-07-21T17:45:17+00:00",
+  "first_seen_at": "2026-07-21T18:39:06.493014+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T21:11:13.646319+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-openphone/2026/07/92/924536a886b30dfaca0888bfcfdecea0800f5896893ba9e2fe9410a4f426d250/article.md",
+    "record": "articles/v1/63/yc-openphone/2026/07/92/924536a886b30dfaca0888bfcfdecea0800f5896893ba9e2fe9410a4f426d250/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8349,
+    "sha256": "sha256:b51a8f95fec2c66327305ad8fdf7319f956c236d777eeb136f55c79f02226960",
+    "normalized_content_hash": "sha256:a08100cd7312232c85c880348c80e6ed8c96199614fcdb93af252bd0e5f8d6e3"
+  },
+  "provenance": {
+    "source_item_id": "8ef48ea3-99d1-4adf-a7a3-66aea81e72b1",
+    "external_id": "https://www.quo.com/blog/?p=107036"
+  }
+}

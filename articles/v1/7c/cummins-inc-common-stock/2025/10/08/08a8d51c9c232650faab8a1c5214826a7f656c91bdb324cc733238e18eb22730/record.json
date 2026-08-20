@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "08a8d51c9c232650faab8a1c5214826a7f656c91bdb324cc733238e18eb22730",
+  "company": {
+    "key": "cummins-inc-common-stock",
+    "name": "Cummins Inc."
+  },
+  "source": {
+    "id": "cummins-inc-common-stock-news-import-253450aeb1aa",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investor.cummins.com/news/detail/686/cummins-inc-declares-quarterly-common-stock-dividend",
+    "canonical": "https://investor.cummins.com/news/detail/686/cummins-inc-declares-quarterly-common-stock-dividend"
+  },
+  "title": "Cummins Inc. Declares Quarterly Common Stock Dividend",
+  "summary": "",
+  "published_at": "2025-10-14T16:15:00+00:00",
+  "first_seen_at": "2026-07-21T15:34:18.774469+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-20T02:10:05.119070+00:00",
+  "paths": {
+    "article": "articles/v1/7c/cummins-inc-common-stock/2025/10/08/08a8d51c9c232650faab8a1c5214826a7f656c91bdb324cc733238e18eb22730/article.md",
+    "record": "articles/v1/7c/cummins-inc-common-stock/2025/10/08/08a8d51c9c232650faab8a1c5214826a7f656c91bdb324cc733238e18eb22730/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7783,
+    "sha256": "sha256:9523ca07bd13778afd5f285648702393f6b0431f26eb77990b9c4fb07764bac8",
+    "normalized_content_hash": "sha256:5e9114b352cdd6cc8dcf7f5ebf7e1e8c14a3ab3a3195621766841a69fa5ac75f"
+  },
+  "provenance": {
+    "source_item_id": "758432cc-88e2-496c-a3aa-96433f692e72",
+    "external_id": "https://investor.cummins.com/news/detail/686/cummins-inc-declares-quarterly-common-stock-dividend"
+  }
+}

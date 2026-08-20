@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "444fad605d0ef9dca635265e0fbdf9878139024eb0cb9aea2e8e41597cbbc1e1",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/document-metadata-is-now-available-in-pulse",
+    "canonical": "https://www.runpulse.com/blog/document-metadata-is-now-available-in-pulse"
+  },
+  "title": "Document Metadata Is Now Available in Pulse",
+  "summary": "Pulse now returns a file's native metadata, including authorship, revision history, timestamps, hidden worksheets, EXIF fields, and hashes, alongside the extracted content in the same Extract call. | Pulse AI",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-08-08T04:52:09.111881+00:00",
+  "fetched_at": "2026-08-08T04:52:11.321414+00:00",
+  "last_updated_at": "2026-08-19T17:07:20.336090+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/08/44/444fad605d0ef9dca635265e0fbdf9878139024eb0cb9aea2e8e41597cbbc1e1/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/08/44/444fad605d0ef9dca635265e0fbdf9878139024eb0cb9aea2e8e41597cbbc1e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3351,
+    "sha256": "sha256:bc0f0690c0d3ff0c680cbb63173e143eee2eb61205e4bb136fe95ecb726fb430",
+    "normalized_content_hash": "sha256:1f1077aaa78d41c7905750e0898e81b5a13a3ccdf7fc71d4b71e84acd95fc066"
+  },
+  "provenance": {
+    "source_item_id": "42e51a73-e783-4b06-8a5a-a7dcf8a3c884",
+    "external_id": "https://www.runpulse.com/blog/document-metadata-is-now-available-in-pulse"
+  }
+}

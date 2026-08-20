@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77fefed9c00eaf69cf4321c1b1b8ec42edbdbd2f355c730420119c4f2477bb6c",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-to-use-depot-with-fly",
+    "canonical": "https://depot.dev/blog/how-to-use-depot-with-fly"
+  },
+  "title": "How to use Depot to build your containers faster for Fly.io",
+  "summary": "Use Depot to build your Docker images and push them directly to a Fly registry for your app for even faster deployments.",
+  "published_at": "2024-05-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/05/77/77fefed9c00eaf69cf4321c1b1b8ec42edbdbd2f355c730420119c4f2477bb6c/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/05/77/77fefed9c00eaf69cf4321c1b1b8ec42edbdbd2f355c730420119c4f2477bb6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8875,
+    "sha256": "sha256:cfa21175d97f3187755436118f3740ee0e20d68e8f811daf5a84456361981975",
+    "normalized_content_hash": "sha256:f99d8ff545ef43dd459ab89c2ef5397e6393b424149a419c6a391a9de74b5e6e"
+  },
+  "provenance": {
+    "source_item_id": "162c5ae9-3b83-4c15-84b0-5c13b95b072e",
+    "external_id": "https://depot.dev/blog/how-to-use-depot-with-fly"
+  }
+}

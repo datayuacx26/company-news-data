@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "02baecb93345496642b396dd5b3acb56b02ae661fc1b9d0d81c249cd37bd2cb2",
+  "company": {
+    "key": "yc-refresh",
+    "name": "Refresh"
+  },
+  "source": {
+    "id": "yc-refresh-news-import-082559068c7a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.refresh.dev/blog/trajectories-and-computer-1",
+    "canonical": "https://refresh.dev/blog/trajectories-and-computer-1"
+  },
+  "title": "Introducing trajectories.sh and computer-1",
+  "summary": "A model-agnostic computer-use harness inside Harbor, and a trajectory viewer supporting multimodal computer-use agent trajectories",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-08-01T00:34:43.117149+00:00",
+  "fetched_at": "2026-08-01T00:34:44.545265+00:00",
+  "last_updated_at": "2026-08-19T15:11:24.305450+00:00",
+  "paths": {
+    "article": "articles/v1/6b/yc-refresh/2026/07/02/02baecb93345496642b396dd5b3acb56b02ae661fc1b9d0d81c249cd37bd2cb2/article.md",
+    "record": "articles/v1/6b/yc-refresh/2026/07/02/02baecb93345496642b396dd5b3acb56b02ae661fc1b9d0d81c249cd37bd2cb2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9100,
+    "sha256": "sha256:b33f2fda248f87aaff1ca5a33821a8e8139a953a3f37cdee3534c945dc8d6094",
+    "normalized_content_hash": "sha256:6d733f1536b8eb2c7d3a8eeab2ca56521a60f2454a042cef1aaf17dbd287d72d"
+  },
+  "provenance": {
+    "source_item_id": "fb5282e6-a2e2-4626-894f-5b5c489203b5",
+    "external_id": "https://refresh.dev/blog/trajectories-and-computer-1"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c3f0931e71c5c08dfc7fa84390cc1281c823dfa376cc687af2666c5345e9fae",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/depot-bake-ephemeral-registry",
+    "canonical": "https://depot.dev/blog/depot-bake-ephemeral-registry"
+  },
+  "title": "Now available: Depot ephemeral registry for bake",
+  "summary": "We're excited to announce that we've now made Depot ephemeral registries available to depot bake commands so that you can save built images for multiple targets for later use in your CI workflows, to share with your team, or to push to remote registries.",
+  "published_at": "2024-03-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:26:08.375343+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/03/4c/4c3f0931e71c5c08dfc7fa84390cc1281c823dfa376cc687af2666c5345e9fae/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/03/4c/4c3f0931e71c5c08dfc7fa84390cc1281c823dfa376cc687af2666c5345e9fae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8011,
+    "sha256": "sha256:a5f21b6f97b240eb1cf9d78bf21dc992390c06f31a387cfce2b92abe393c31da",
+    "normalized_content_hash": "sha256:1c3f9d0cb2f7628094e9dd59ebb7b9e0ea2cf0c0d7d1f29b0acda627ab9bba44"
+  },
+  "provenance": {
+    "source_item_id": "31b80c9c-bbf2-49ba-b1ad-acf45b0fd680",
+    "external_id": "https://depot.dev/blog/depot-bake-ephemeral-registry"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "922c58d0eb69403c7321f587d2b6a5b33c5ca3b6e6397932842dce841a8189e7",
+  "company": {
+    "key": "yc-finch",
+    "name": "Finch"
+  },
+  "source": {
+    "id": "yc-finch-news-import-d853ae2d7ef6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tryfinch.com/blog/under-the-hood-opinionated-data-modeling-case-study",
+    "canonical": "https://www.tryfinch.com/blog/under-the-hood-opinionated-data-modeling-case-study"
+  },
+  "title": "Under the Hood: A Case Study in Opinionated Data Modeling",
+  "summary": "Learn how Finch designed its FLSA status field and why optimizing for reliability over granularity is the right approach to unified payroll data modeling.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:01:05.068281+00:00",
+  "fetched_at": "2026-07-28T22:15:52.361502+00:00",
+  "last_updated_at": "2026-08-20T03:30:56.325689+00:00",
+  "paths": {
+    "article": "articles/v1/7d/yc-finch/2026/04/92/922c58d0eb69403c7321f587d2b6a5b33c5ca3b6e6397932842dce841a8189e7/article.md",
+    "record": "articles/v1/7d/yc-finch/2026/04/92/922c58d0eb69403c7321f587d2b6a5b33c5ca3b6e6397932842dce841a8189e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8618,
+    "sha256": "sha256:f48ec1e4cbf8e203aa1d250c64626f102ac00d63ff480d795eb053c14b6f2421",
+    "normalized_content_hash": "sha256:33d47613df6e20c6c72bce8b5470ee493eaff0831899ff4a67380aacec769474"
+  },
+  "provenance": {
+    "source_item_id": "7c9b28f8-3f43-4791-b426-a50bd1671d06",
+    "external_id": "https://www.tryfinch.com/blog/under-the-hood-opinionated-data-modeling-case-study"
+  }
+}

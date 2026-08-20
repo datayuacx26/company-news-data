@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "record_count": 9,
+  "first_published_at": "2023-02-21T00:00:00+00:00",
+  "last_published_at": "2026-06-01T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7c/yc-fivetran/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 9291,
+        "sha256": "sha256:e76efb71f55b10b2d70dff941105336d997c09b75ada8ed667aa497bec0bcebf",
+        "newest_at": "2026-06-01T00:00:00+00:00",
+        "oldest_at": "2023-02-21T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf8dd11066d1d0ac24b61dc1b8087438c3c3dcc9588cba83cba38fbfec7819c4",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/asdf-depot-plugin",
+    "canonical": "https://depot.dev/blog/asdf-depot-plugin"
+  },
+  "title": "Now available: A Depot plugin for asdf",
+  "summary": "If you use the asdf version manager, you can now add our Depot CLI as a plugin to manage all of your versions in one place.",
+  "published_at": "2022-11-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/11/cf/cf8dd11066d1d0ac24b61dc1b8087438c3c3dcc9588cba83cba38fbfec7819c4/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/11/cf/cf8dd11066d1d0ac24b61dc1b8087438c3c3dcc9588cba83cba38fbfec7819c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2733,
+    "sha256": "sha256:f0679b12862db343e99bb3fb7c0048abb8cc62ada090d407c438ab85ea3bd3c2",
+    "normalized_content_hash": "sha256:05d34c580d6c0f5cc9dfe1f3fe014928e38e0fe92a3b4d30724548fcc270e26f"
+  },
+  "provenance": {
+    "source_item_id": "c0afcabd-7ba8-4f05-8dd9-fac5f5441233",
+    "external_id": "https://depot.dev/blog/asdf-depot-plugin"
+  }
+}

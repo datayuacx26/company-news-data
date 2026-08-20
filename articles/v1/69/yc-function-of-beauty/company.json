@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-function-of-beauty",
+    "name": "Function of Beauty"
+  },
+  "record_count": 33,
+  "first_published_at": "2022-05-11T04:00:00+00:00",
+  "last_published_at": "2026-08-17T14:45:10+00:00",
+  "partitions": [
+    {
+      "partition": "2022-05",
+      "record_count": 11
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/69/yc-function-of-beauty/index/pages/000001.json",
+        "record_count": 33,
+        "byte_count": 137949,
+        "sha256": "sha256:e0056388800bb4e4f33c17aa66ebeb29ff33181fe1142ace80b65681b8d0efd1",
+        "newest_at": "2026-08-17T14:45:10+00:00",
+        "oldest_at": "2022-05-11T04:00:00+00:00"
+      }
+    ]
+  }
+}

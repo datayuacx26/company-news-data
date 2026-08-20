@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de43c1ee4942fd1d7d2d3d9d73569c80cfe9547c637c3de9b95b51e8fa4f12ff",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/how-microservices-communicate-with-each-other/",
+    "canonical": "https://www.signadot.com/blog/how-microservices-communicate-with-each-other/"
+  },
+  "title": "How Microservices Communicate with Each Other",
+  "summary": "How do microservices communicate with each other? Synchronously via REST and gRPC, and asynchronously via brokers like Kafka and RabbitMQ. Compare the tradeoffs.",
+  "published_at": "2023-10-29T11:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/10/de/de43c1ee4942fd1d7d2d3d9d73569c80cfe9547c637c3de9b95b51e8fa4f12ff/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/10/de/de43c1ee4942fd1d7d2d3d9d73569c80cfe9547c637c3de9b95b51e8fa4f12ff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8490,
+    "sha256": "sha256:b785e17254367606e1bb67b32958035f17ec34a9201926220f59bba74edb27bb",
+    "normalized_content_hash": "sha256:5cc342df18b49b47544fb7ff900d061b769827cdebea6e60f7b41b384c0b0ee0"
+  },
+  "provenance": {
+    "source_item_id": "71389da5-9eb7-4f73-94dd-c398e2081b69",
+    "external_id": "https://www.signadot.com/blog/how-microservices-communicate-with-each-other/"
+  }
+}

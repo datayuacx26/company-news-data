@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce38f065a4c5634bfb139ca76c069c1a31f3ab4feced70a0a4b999a0c3c6db9f",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/the-end-of-push-wait-guess-ci",
+    "canonical": "https://depot.dev/blog/the-end-of-push-wait-guess-ci"
+  },
+  "title": "The end of push-wait-guess CI",
+  "summary": "The old CI debugging loop goes: edit YAML, commit, push, wait, squint at logs, repeat. Depot CI replaces that with a local loop you can actually control, from running workflows against uncommitted changes to SSHing into the runner mid-job.",
+  "published_at": "2026-03-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:56:52.525405+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/03/ce/ce38f065a4c5634bfb139ca76c069c1a31f3ab4feced70a0a4b999a0c3c6db9f/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/03/ce/ce38f065a4c5634bfb139ca76c069c1a31f3ab4feced70a0a4b999a0c3c6db9f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10150,
+    "sha256": "sha256:19ffa78eccfa1b4a875858ecdc9ba620c03d02a9ebfe60152b4f6db8a97af1c4",
+    "normalized_content_hash": "sha256:cca4b3545348bb9b2374a6138820f15773ee1ca54207c347081481a11d984e5e"
+  },
+  "provenance": {
+    "source_item_id": "4558c6fa-ee4e-46d3-aba5-ccd9a3c603d9",
+    "external_id": "https://depot.dev/blog/the-end-of-push-wait-guess-ci"
+  }
+}

@@ -1,0 +1,130 @@
+---
+schema_version: "1.0.0"
+document_id: "8b8d8de86001a8f8f5a7aa9eecddb39403ff749245f7ebde69ddc7c06832adf0"
+company_key: "yc-firezone"
+company: "Firezone"
+source_id: "yc-firezone-news-import-75fbee21a5d6"
+canonical_url: "https://www.firezone.dev/blog/devlog/2025-10"
+published_at: "2025-10-31T00:00:00+00:00"
+first_seen_at: "2026-07-24T08:10:10.796715+00:00"
+fetched_at: "2026-07-28T21:27:35.329570+00:00"
+content_hash: "sha256:4943a8fd24e851cf931e6c7738f0332848403f4046960a4d93eb32c30e0e4587"
+---
+
+# October 2025 Devlog
+
+October delivered substantial improvements to Gateway observability, Linux networking stack refinements, and new deployment mechanisms.
+
+
+## Flow Logging Infrastructure
+
+
+The Gateway now implements comprehensive flow logging, providing detailed visibility into network traffic patterns and client behavior.1 Each flow record captures client version, device information, identity details, and actor metadata, enabling correlation between network events and user sessions.2 Resource names and addresses are embedded directly in flow logs, eliminating the need to cross-reference multiple data sources when analyzing traffic.3 Domain name capture at the flow level provides insight into actual destinations rather than just IP addresses.4
+
+
+Structured JSON log output support enables direct integration with existing log aggregation pipelines and SIEM systems.5 The default log level for Gateway and headless client has been adjusted to INFO, reducing noise while maintaining operational visibility.6
+
+
+## Linux Routing Architecture
+
+
+A significant architectural change introduces tiered routing tables to address conflicts between link-scoped and Firezone-configured routes.7 The implementation uses three distinct routing tables with rule-based priorities: Firezone CIDR routes take precedence, followed by synced link-scope routes, with the Internet Resource occupying the lowest priority tier. This approach ensures deterministic routing behavior while maintaining access to local network resources when the Internet Resource is active.
+
+
+## Debian Package Distribution
+
+
+Native Debian packages now provide a standard deployment path for Gateway installations on Debian and Ubuntu systems.8 The packaging includes full systemd integration with support for systemd credentials, enabling secure token management without exposing secrets in configuration files.9
+
+
+## Apple Network Interface Management
+
+
+Several fixes address persistent issues with utun interface handling on macOS. The client now properly tears down the utun interface on termination, preventing interface number increments that could eventually exhaust available interfaces.10 A race condition where setConfiguration calls during disconnected states caused spurious interface creation has been resolved.11
+
+
+## CLI Security Enhancements
+
+
+The command-line interface implements improved secret handling mechanisms, reducing the risk of credential exposure through process listings or shell history.12
+
+
+---
+
+
+That wraps up October's developments. The focus on observability and deployment tooling establishes a foundation for more sophisticated monitoring and easier large-scale deployments.
+
+
+## Footnotes
+
+
+1.
+
+
+[feat(gateway): add flow-logs MVP](https://github.com/firezone/firezone/pull/10576)↩
+
+
+2.
+
+
+[feat(gateway): extend flow logs with more client properties](https://github.com/firezone/firezone/pull/10717)↩
+
+
+3.
+
+
+[feat(gateway): emit resource name and address in flow logs](https://github.com/firezone/firezone/pull/10710)↩
+
+
+4.
+
+
+[feat(gateway): capture domain name of flow](https://github.com/firezone/firezone/pull/10692)↩
+
+
+5.
+
+
+[feat(gateway): add option for outputting logs as JSON](https://github.com/firezone/firezone/pull/10620)↩
+
+
+6.
+
+
+[feat(gateway,headless-client): set default log level to INFO](https://github.com/firezone/firezone/pull/10702)↩
+
+
+7.
+
+
+[fix(linux): introduce tiered routing tables](https://github.com/firezone/firezone/pull/10742)↩
+
+
+8.
+
+
+[feat(gateway): create debian package](https://github.com/firezone/firezone/pull/10537)↩
+
+
+9.
+
+
+[feat(gateway): support systemd credentials](https://github.com/firezone/firezone/pull/10538)↩
+
+
+10.
+
+
+[fix(apple/macos): clean up utun on quit](https://github.com/firezone/firezone/pull/10603)↩
+
+
+11.
+
+
+[fix(apple): don't call setConfiguration when not connected](https://github.com/firezone/firezone/pull/10747)↩
+
+
+12.
+
+
+[feat(fz-cli): better secret handling](https://github.com/firezone/firezone/pull/10709)↩

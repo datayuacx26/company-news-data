@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65cdbc521a4f311ae1e8dbe0deeb6b5f1a78b08a7dfb3dea0ed34dd1cab925a8",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-soci-support-for-container-builds",
+    "canonical": "https://depot.dev/blog/now-available-soci-support-for-container-builds"
+  },
+  "title": "Now available: SOCI v2 support for Depot container builds",
+  "summary": "Depot container builds can now generate SOCI (Seekable OCI) v2 index metadata at build time, so a compatible runtime can lazy-load your images and start large containers in seconds instead of waiting on a full pull.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/06/65/65cdbc521a4f311ae1e8dbe0deeb6b5f1a78b08a7dfb3dea0ed34dd1cab925a8/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/06/65/65cdbc521a4f311ae1e8dbe0deeb6b5f1a78b08a7dfb3dea0ed34dd1cab925a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4596,
+    "sha256": "sha256:523a3c903cac9bb3407d0e867a0f14efb462ac9705d11263baa1aad45186c019",
+    "normalized_content_hash": "sha256:959d2ba17eeb5f323bc2fa6b11e6f3b20a283c7fe8264d7c196151cbdf2e8d29"
+  },
+  "provenance": {
+    "source_item_id": "9e32a22f-d9d0-4f53-81ce-c6369a4bdbdb",
+    "external_id": "https://depot.dev/blog/now-available-soci-support-for-container-builds"
+  }
+}

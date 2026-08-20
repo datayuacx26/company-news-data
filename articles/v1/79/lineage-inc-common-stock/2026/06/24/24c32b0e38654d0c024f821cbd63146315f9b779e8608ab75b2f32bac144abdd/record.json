@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24c32b0e38654d0c024f821cbd63146315f9b779e8608ab75b2f32bac144abdd",
+  "company": {
+    "key": "lineage-inc-common-stock",
+    "name": "Lineage Inc."
+  },
+  "source": {
+    "id": "lineage-inc-common-stock-news-import-d2fe00000380",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.onelineage.com/news-stories/boyle-heights-notice",
+    "canonical": "https://www.onelineage.com/news-stories/boyle-heights-notice"
+  },
+  "title": "Boyle Heights Facility Notice",
+  "summary": "",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:30:45.128166+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T17:29:12.268864+00:00",
+  "paths": {
+    "article": "articles/v1/79/lineage-inc-common-stock/2026/06/24/24c32b0e38654d0c024f821cbd63146315f9b779e8608ab75b2f32bac144abdd/article.md",
+    "record": "articles/v1/79/lineage-inc-common-stock/2026/06/24/24c32b0e38654d0c024f821cbd63146315f9b779e8608ab75b2f32bac144abdd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1783,
+    "sha256": "sha256:9a7349161a8816ce4e209788884859f488a74f3943b92329c5b16bcb711a8639",
+    "normalized_content_hash": "sha256:8f9aa20130e06352cedf85737ed20e1c4571834512bcf7abaa0e7fc80c42faa3"
+  },
+  "provenance": {
+    "source_item_id": "98898775-7fbc-4feb-bdea-b20ba151267e",
+    "external_id": "https://www.onelineage.com/news-stories/boyle-heights-notice"
+  }
+}

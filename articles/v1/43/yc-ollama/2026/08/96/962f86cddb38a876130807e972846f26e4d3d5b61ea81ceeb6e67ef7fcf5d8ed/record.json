@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "962f86cddb38a876130807e972846f26e4d3d5b61ea81ceeb6e67ef7fcf5d8ed",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/muse-glimmer",
+    "canonical": "https://ollama.com/blog/muse-glimmer"
+  },
+  "title": "Muse Glimmer from Meta Superintelligence Labs is now available",
+  "summary": "Meta's Muse Glimmer, the first open model released by Meta Superintelligence Labs, is now available. Muse Glimmer is a 30B multimodal model released under the Apache 2.0 license, designed for local coding agents, and accelerated by Ollama's MLX engine with new native DFlash and image input support.",
+  "published_at": null,
+  "first_seen_at": "2026-08-10T21:33:34.799867+00:00",
+  "fetched_at": "2026-08-10T21:33:36.358695+00:00",
+  "last_updated_at": "2026-08-19T19:53:45.811279+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/08/96/962f86cddb38a876130807e972846f26e4d3d5b61ea81ceeb6e67ef7fcf5d8ed/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/08/96/962f86cddb38a876130807e972846f26e4d3d5b61ea81ceeb6e67ef7fcf5d8ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3417,
+    "sha256": "sha256:ace9682b46a3a165e8df4dda29069b1994bf6b33e31082fac7924241c2026f1f",
+    "normalized_content_hash": "sha256:2ceea0f2bfc4be724db7d756d8445673d48e063ce4fd806ccb0b5892d1df9409"
+  },
+  "provenance": {
+    "source_item_id": "2193174a-f1ba-4b65-8df0-d97a756277f8",
+    "external_id": "https://ollama.com/blog/muse-glimmer"
+  }
+}

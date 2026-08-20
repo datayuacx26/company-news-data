@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-democracy-earth",
+    "name": "Democracy Earth"
+  },
+  "record_count": 10,
+  "first_published_at": "2019-01-28T23:25:26+00:00",
+  "last_published_at": "2020-10-10T15:25:14+00:00",
+  "partitions": [
+    {
+      "partition": "2019-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/42/yc-democracy-earth/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10288,
+        "sha256": "sha256:037e098fb2446d301f61981d9492812ca094372cd6e27d6ae348878569057a53",
+        "newest_at": "2020-10-10T15:25:14+00:00",
+        "oldest_at": "2019-01-28T23:25:26+00:00"
+      }
+    ]
+  }
+}

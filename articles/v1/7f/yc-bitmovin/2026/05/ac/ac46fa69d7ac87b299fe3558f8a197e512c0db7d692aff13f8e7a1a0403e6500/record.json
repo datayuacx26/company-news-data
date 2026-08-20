@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac46fa69d7ac87b299fe3558f8a197e512c0db7d692aff13f8e7a1a0403e6500",
+  "company": {
+    "key": "yc-bitmovin",
+    "name": "Bitmovin"
+  },
+  "source": {
+    "id": "yc-bitmovin-news-import-596f48821b52",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitmovin.com/blog/what-are-live-encoder-standby-pools/",
+    "canonical": "https://bitmovin.com/blog/what-are-live-encoder-standby-pools/"
+  },
+  "title": "Live Encoder Standby Pools: How to Eliminate Queue Time and Go Live Instantly",
+  "summary": "What are Live Encoder Standby Pools? Learn how pre-provisioned cloud encoders remove queue time for live sports, news, and social media broadcasts.",
+  "published_at": "2026-05-29T16:00:00+00:00",
+  "first_seen_at": "2026-07-27T08:05:57.697851+00:00",
+  "fetched_at": "2026-08-10T22:18:40.929019+00:00",
+  "last_updated_at": "2026-08-10T22:18:43.711402+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-bitmovin/2026/05/ac/ac46fa69d7ac87b299fe3558f8a197e512c0db7d692aff13f8e7a1a0403e6500/article.md",
+    "record": "articles/v1/7f/yc-bitmovin/2026/05/ac/ac46fa69d7ac87b299fe3558f8a197e512c0db7d692aff13f8e7a1a0403e6500/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10086,
+    "sha256": "sha256:1764c95099e54ae6c4bec033b032743970beb75322d83dcf4c7c1bb995c3cc9e",
+    "normalized_content_hash": "sha256:a787853dcb93c4428a2aec1725cd79728d534934be224a6c4110c58bcab1115d"
+  },
+  "provenance": {
+    "source_item_id": "b1bb9adb-f9bc-4230-bf20-6e1ae2ab36b7",
+    "external_id": "https://bitmovin.com/blog/what-are-live-encoder-standby-pools/"
+  }
+}

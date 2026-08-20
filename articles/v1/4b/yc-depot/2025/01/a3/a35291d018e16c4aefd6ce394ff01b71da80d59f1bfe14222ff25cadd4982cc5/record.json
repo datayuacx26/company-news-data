@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a35291d018e16c4aefd6ce394ff01b71da80d59f1bfe14222ff25cadd4982cc5",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/configuring-cache-retention-on-depot",
+    "canonical": "https://depot.dev/blog/configuring-cache-retention-on-depot"
+  },
+  "title": "Now available: Cache retention policies for GitHub Actions & Depot Cache",
+  "summary": "We're excited to release new cache retention policies for your GitHub Actions and Depot cache. You can now set time and size limits for your cache entries to have better control over your cache storage costs.",
+  "published_at": "2025-01-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/01/a3/a35291d018e16c4aefd6ce394ff01b71da80d59f1bfe14222ff25cadd4982cc5/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/01/a3/a35291d018e16c4aefd6ce394ff01b71da80d59f1bfe14222ff25cadd4982cc5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3112,
+    "sha256": "sha256:fd0f1aae4189cf155e91d38c201ddfcfec96c0b196e5caf3fea1517c03082b21",
+    "normalized_content_hash": "sha256:7a3544fbbd4b2ed8a51f54ea306bc213a76fa4a2f719c56d42ae5bc7dd190bf3"
+  },
+  "provenance": {
+    "source_item_id": "0167e1ee-44e4-4065-ad01-2dfe2f4f006e",
+    "external_id": "https://depot.dev/blog/configuring-cache-retention-on-depot"
+  }
+}

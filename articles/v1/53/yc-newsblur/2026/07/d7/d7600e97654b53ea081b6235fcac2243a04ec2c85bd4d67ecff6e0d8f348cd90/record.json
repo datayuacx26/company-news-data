@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7600e97654b53ea081b6235fcac2243a04ec2c85bd4d67ecff6e0d8f348cd90",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/what-happened-to-the-activity-feed/13663#post_8",
+    "canonical": "https://forum.newsblur.com/t/what-happened-to-the-activity-feed/13663"
+  },
+  "title": "What happened to the activity feed?",
+  "summary": "Before the ios26 update the activity feed was an electric symbol in the top right of the Home Screen…which is now a blank spot on the interface? In a submenu I see “interactions” for which the first tab never loads anything, just spins for several minutes. And the second tab “your activities” after a minute or two shows stories I’ve shared. Am I looking in that wrong place to see comments on shared articles/replies etc?",
+  "published_at": "2026-07-03T20:44:58+00:00",
+  "first_seen_at": "2026-07-25T16:10:32.307561+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-07-28T20:47:59.067859+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/07/d7/d7600e97654b53ea081b6235fcac2243a04ec2c85bd4d67ecff6e0d8f348cd90/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/07/d7/d7600e97654b53ea081b6235fcac2243a04ec2c85bd4d67ecff6e0d8f348cd90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2970,
+    "sha256": "sha256:512a051f9e7b49670f71d49cf8b4d9f1d7bfd2e1d119b192a9e25bf2767da8c5",
+    "normalized_content_hash": "sha256:57fd6c05ca531d40d86cfb7bca47708a7e06b0cf14e8340035cd2fc02e3e6a0c"
+  },
+  "provenance": {
+    "source_item_id": "f8bd0d8c-5e6d-4d88-9a40-242d95d0c167",
+    "external_id": "forum.newsblur.com-post-45021"
+  }
+}

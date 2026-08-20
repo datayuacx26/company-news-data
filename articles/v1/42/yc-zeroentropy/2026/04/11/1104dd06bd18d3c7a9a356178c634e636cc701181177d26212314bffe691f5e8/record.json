@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1104dd06bd18d3c7a9a356178c634e636cc701181177d26212314bffe691f5e8",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/smarter-context-compression-for-llm-pipelines-zerank-2-as-a-calibrated-classifier/",
+    "canonical": "https://zeroentropy.dev/articles/smarter-context-compression-for-llm-pipelines-zerank-2-as-a-calibrated-classifier/"
+  },
+  "title": "Smarter Context Compression for LLM Pipelines: zerank-2 as a Calibrated Classifier",
+  "summary": "How to use zerank-2's calibrated relevance scores as a binary classifier for context compression, document routing, and multi-label classification — at 50-100x less cost than LLM classification.",
+  "published_at": "2026-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:16:03.530620+00:00",
+  "last_updated_at": "2026-07-28T22:18:34.871358+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/04/11/1104dd06bd18d3c7a9a356178c634e636cc701181177d26212314bffe691f5e8/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/04/11/1104dd06bd18d3c7a9a356178c634e636cc701181177d26212314bffe691f5e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14329,
+    "sha256": "sha256:d69e1c460e4e8bd6f77ca386d5e5aacace2a3d8c2a82d46cb30691bdbc03e266",
+    "normalized_content_hash": "sha256:e1c68f8e90a615855b76d274a2cd15a574dc6bc5bfb7c6a29a28a35790ce880f"
+  },
+  "provenance": {
+    "source_item_id": "b3904293-6440-47e6-8f42-e290ff479c0a",
+    "external_id": "https://zeroentropy.dev/articles/smarter-context-compression-for-llm-pipelines-zerank-2-as-a-calibrated-classifier/"
+  }
+}

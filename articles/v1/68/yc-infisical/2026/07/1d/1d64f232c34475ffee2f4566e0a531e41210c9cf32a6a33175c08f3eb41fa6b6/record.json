@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d64f232c34475ffee2f4566e0a531e41210c9cf32a6a33175c08f3eb41fa6b6",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/eve-support-agent-zero-credentials",
+    "canonical": "https://infisical.com/blog/eve-support-agent-zero-credentials"
+  },
+  "title": "How We Secured a Vercel eve Agent by Giving It Zero Credentials",
+  "summary": "We built a support agent on Vercel's eve and routed its credentials through Agent Vault, so its .env held only placeholders, nothing an attacker could steal.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/07/1d/1d64f232c34475ffee2f4566e0a531e41210c9cf32a6a33175c08f3eb41fa6b6/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/07/1d/1d64f232c34475ffee2f4566e0a531e41210c9cf32a6a33175c08f3eb41fa6b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14013,
+    "sha256": "sha256:d26ca79c92f7d0696e5cf8ac2bb5e1afa3c54c945897b88ecd011933b20399cc",
+    "normalized_content_hash": "sha256:e00dbc7cd953c3b559f10f17465f6abe7ca8f0d498636d324711fe58040f5d7b"
+  },
+  "provenance": {
+    "source_item_id": "fe711269-07ab-4a2d-95e1-338ee974e84a",
+    "external_id": "https://infisical.com/blog/eve-support-agent-zero-credentials"
+  }
+}

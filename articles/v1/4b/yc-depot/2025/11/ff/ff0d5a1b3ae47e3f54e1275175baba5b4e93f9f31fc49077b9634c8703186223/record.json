@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff0d5a1b3ae47e3f54e1275175baba5b4e93f9f31fc49077b9634c8703186223",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/troubleshooting-github-actions-unexpected-behaviors",
+    "canonical": "https://depot.dev/blog/troubleshooting-github-actions-unexpected-behaviors"
+  },
+  "title": "Troubleshooting GitHub Actions with self-hosted runners",
+  "summary": "Not every self-hosted runner failure is actually a runner problem. GitHub Actions and third-party actions often expect environmental features that GitHub-hosted runners provide by default. When your setup differs, you may get cryptic errors that point to the wrong cause. Here are three real support cases where the symptoms looked like runner issues but weren't.",
+  "published_at": "2025-11-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/11/ff/ff0d5a1b3ae47e3f54e1275175baba5b4e93f9f31fc49077b9634c8703186223/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/11/ff/ff0d5a1b3ae47e3f54e1275175baba5b4e93f9f31fc49077b9634c8703186223/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9127,
+    "sha256": "sha256:a4f80f8bfabc4f5c1b0d3dbf194ff0b6284f0630a5e9110470fe42b3d11544ac",
+    "normalized_content_hash": "sha256:3cd2d28be08ae53b80e682995b4d7ae715300f9db2cf49f684d04ebc081cb4fb"
+  },
+  "provenance": {
+    "source_item_id": "fbc2cae3-3ec7-4ce9-98c9-c6982e3885ec",
+    "external_id": "https://depot.dev/blog/troubleshooting-github-actions-unexpected-behaviors"
+  }
+}

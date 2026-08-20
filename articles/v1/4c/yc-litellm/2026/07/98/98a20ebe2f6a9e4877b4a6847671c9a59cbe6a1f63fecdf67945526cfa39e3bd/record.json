@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98a20ebe2f6a9e4877b4a6847671c9a59cbe6a1f63fecdf67945526cfa39e3bd",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/save-claude-code-costs-with-litellm",
+    "canonical": "https://docs.litellm.ai/blog/save-claude-code-costs-with-litellm"
+  },
+  "title": "5 ways to cut Claude Code costs with LiteLLM",
+  "summary": "Practical levers a platform admin can pull on the LiteLLM proxy to reduce Claude Code spend without asking developers to change a thing.",
+  "published_at": "2026-07-04T10:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/98/98a20ebe2f6a9e4877b4a6847671c9a59cbe6a1f63fecdf67945526cfa39e3bd/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/98/98a20ebe2f6a9e4877b4a6847671c9a59cbe6a1f63fecdf67945526cfa39e3bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9805,
+    "sha256": "sha256:aa9473621ba6bd5bfc8d7a6cb00f13bcef4e149d4315432f983d582a3205ce74",
+    "normalized_content_hash": "sha256:1e13cc7bbfdc6e242adc9931564ec20781b721d79f55af1c39600e439bcfc0b4"
+  },
+  "provenance": {
+    "source_item_id": "e18c64c5-1afb-465f-8b53-3a25648627e0",
+    "external_id": "https://docs.litellm.ai/blog/save-claude-code-costs-with-litellm"
+  }
+}

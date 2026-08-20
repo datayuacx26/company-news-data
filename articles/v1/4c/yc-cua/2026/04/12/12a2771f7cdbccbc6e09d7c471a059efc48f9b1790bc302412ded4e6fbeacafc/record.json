@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12a2771f7cdbccbc6e09d7c471a059efc48f9b1790bc302412ded4e6fbeacafc",
+  "company": {
+    "key": "yc-cua",
+    "name": "Cua"
+  },
+  "source": {
+    "id": "yc-cua-news-import-c869e0198521",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cua.ai/blog/inside-macos-window-internals",
+    "canonical": "https://cua.ai/blog/inside-macos-window-internals"
+  },
+  "title": "Inside macOS window internals: how SkyLight enables multi-cursor background agents",
+  "summary": "An open-source macOS driver that lets any agent drive Mac apps in the background, without moving your cursor or stealing focus. A look at the SkyLight internals that make it work.",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:32:57.845806+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-20T03:04:12.182268+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-cua/2026/04/12/12a2771f7cdbccbc6e09d7c471a059efc48f9b1790bc302412ded4e6fbeacafc/article.md",
+    "record": "articles/v1/4c/yc-cua/2026/04/12/12a2771f7cdbccbc6e09d7c471a059efc48f9b1790bc302412ded4e6fbeacafc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17030,
+    "sha256": "sha256:caf355a3eb35417132efd09bd534359e016e77a375c3906fc08acaf7720721ba",
+    "normalized_content_hash": "sha256:134872b72a26ff805ad424cab75d1c81bd6b19dda159b6fdf910afe78be5e463"
+  },
+  "provenance": {
+    "source_item_id": "9299336e-ebd2-412f-8e58-5128c2559d58",
+    "external_id": "https://cua.ai/blog/inside-macos-window-internals"
+  }
+}

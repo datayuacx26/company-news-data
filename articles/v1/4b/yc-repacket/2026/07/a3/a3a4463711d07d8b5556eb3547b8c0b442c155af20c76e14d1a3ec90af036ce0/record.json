@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a3a4463711d07d8b5556eb3547b8c0b442c155af20c76e14d1a3ec90af036ce0",
+  "company": {
+    "key": "yc-repacket",
+    "name": "Repacket"
+  },
+  "source": {
+    "id": "yc-repacket-news-import-0e4729019e61",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.repacket.com/blog/the-security-paradox-why-large-organizations-struggle-despite-abundant-resources",
+    "canonical": "https://www.repacket.com/blog/the-security-paradox-why-large-organizations-struggle-despite-abundant-resources"
+  },
+  "title": "The Security Paradox: Why Large Organizations Struggle Despite Abundant Resources",
+  "summary": "Mar 13, 2025 - Large organizations face a security paradox: substantial resources but persistent vulnerabilities. This analysis examines seven critical pain points—from organizational silos and technical debt to identity sprawl and alert overload—revealing how organizational complexity, not resource constraints, undermines security effectiveness despite dedicated teams and million-dollar budgets.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T23:31:46.729995+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T20:16:37.958293+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-repacket/2026/07/a3/a3a4463711d07d8b5556eb3547b8c0b442c155af20c76e14d1a3ec90af036ce0/article.md",
+    "record": "articles/v1/4b/yc-repacket/2026/07/a3/a3a4463711d07d8b5556eb3547b8c0b442c155af20c76e14d1a3ec90af036ce0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12297,
+    "sha256": "sha256:e16d2b566a3dc9cca5b889f16512372cba65e4b1447bd567b84d57943283beb1",
+    "normalized_content_hash": "sha256:1392455d2704f91fd38459c875048f9308db9b52b7934dbeeace002db3d69322"
+  },
+  "provenance": {
+    "source_item_id": "d27e8288-1775-4309-81d1-e12d7f967c82",
+    "external_id": "https://www.repacket.com/blog/the-security-paradox-why-large-organizations-struggle-despite-abundant-resources"
+  }
+}

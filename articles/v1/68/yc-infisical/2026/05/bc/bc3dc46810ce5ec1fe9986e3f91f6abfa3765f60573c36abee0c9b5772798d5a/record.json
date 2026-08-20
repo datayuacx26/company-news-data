@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bc3dc46810ce5ec1fe9986e3f91f6abfa3765f60573c36abee0c9b5772798d5a",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/learning-from-the-vercel-breach-a-secrets-security-playbook",
+    "canonical": "https://infisical.com/blog/learning-from-the-vercel-breach-a-secrets-security-playbook"
+  },
+  "title": "Learning from the Vercel Breach: A Secrets Security Playbook",
+  "summary": "The Vercel breach exposed a secrets management gap every team shares. Here's how to harden your stack and shrink your blast radius.",
+  "published_at": "2026-05-04T04:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-28T21:26:13.683344+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/05/bc/bc3dc46810ce5ec1fe9986e3f91f6abfa3765f60573c36abee0c9b5772798d5a/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/05/bc/bc3dc46810ce5ec1fe9986e3f91f6abfa3765f60573c36abee0c9b5772798d5a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11772,
+    "sha256": "sha256:5f4155854ec2309d9ccb44a3800d6373c3c9f0a2cb055209ef03144a0c2e4025",
+    "normalized_content_hash": "sha256:0592ca5a82852ccd76817db0830e0c823af878bbddce1d510ef38b25ee2bffda"
+  },
+  "provenance": {
+    "source_item_id": "cd2710e7-15ce-45f3-b772-546adb8d320f",
+    "external_id": "https://infisical.com/blog/learning-from-the-vercel-breach-a-secrets-security-playbook"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "shutterstock-inc-common-stock",
+    "name": "Shutterstock Inc."
+  },
+  "record_count": 20,
+  "first_published_at": "2017-03-08T05:00:00+00:00",
+  "last_published_at": "2020-07-13T04:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2017-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/58/shutterstock-inc-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 23110,
+        "sha256": "sha256:c8e88e0b5a3fad63b5bce36e6043f790db3d89f9c3f599145f79dc8e7ea7d7ad",
+        "newest_at": "2020-07-13T04:00:00+00:00",
+        "oldest_at": "2017-03-08T05:00:00+00:00"
+      }
+    ]
+  }
+}

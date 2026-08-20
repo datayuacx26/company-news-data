@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fce3697ee59159013284211c3c4bd1ae4d05dda96687b17bf6d40c9d03e9fb9b",
+  "company": {
+    "key": "yc-taskade",
+    "name": "Taskade"
+  },
+  "source": {
+    "id": "yc-taskade-rss-a662ed9a0141",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.taskade.com/blog/context-window-history",
+    "canonical": "https://www.taskade.com/blog/context-window-history"
+  },
+  "title": "From 4K to 1M: The History of the Context Window (2026)",
+  "summary": "How the LLM context window grew from 512 tokens in 2018 to 1M tokens in 2026. Every milestone dated, every window priced, every recall limit benchmarked.",
+  "published_at": "2026-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-02T02:04:01.742194+00:00",
+  "fetched_at": "2026-08-02T02:04:03.806964+00:00",
+  "last_updated_at": "2026-08-20T03:01:44.893725+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-taskade/2026/08/fc/fce3697ee59159013284211c3c4bd1ae4d05dda96687b17bf6d40c9d03e9fb9b/article.md",
+    "record": "articles/v1/5e/yc-taskade/2026/08/fc/fce3697ee59159013284211c3c4bd1ae4d05dda96687b17bf6d40c9d03e9fb9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30939,
+    "sha256": "sha256:4194a9c7bd93fc73cd39a7601b25e4c4345ee5f6523671cbbd0c1b6d52e2ba18",
+    "normalized_content_hash": "sha256:d7c8e9a691fae9a809b9557179a5aa0ea829462d6b5061cfedfe0dd422d05583"
+  },
+  "provenance": {
+    "source_item_id": "ff550ab3-2958-4b24-8c0a-6fbde3aa0ceb",
+    "external_id": "https://www.taskade.com/blog/context-window-history"
+  }
+}

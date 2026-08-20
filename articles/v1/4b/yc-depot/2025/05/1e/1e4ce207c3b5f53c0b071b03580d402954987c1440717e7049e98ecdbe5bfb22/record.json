@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e4ce207c3b5f53c0b071b03580d402954987c1440717e7049e98ecdbe5bfb22",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time",
+    "canonical": "https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time"
+  },
+  "title": "Accelerating builds: Improving EC2 boot time from 4s to 2.8s",
+  "summary": "We at Depot like making shit fast, whether that's Docker image builds, Github Actions runners, Bazel caching, Turborepo, or even our own infrastructure. Recently, we've been working to make EC2 instances boot faster.",
+  "published_at": "2025-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/05/1e/1e4ce207c3b5f53c0b071b03580d402954987c1440717e7049e98ecdbe5bfb22/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/05/1e/1e4ce207c3b5f53c0b071b03580d402954987c1440717e7049e98ecdbe5bfb22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19580,
+    "sha256": "sha256:634e1b0fa5570f9579c661dc7fd33ba51dacda08bf872b5f2593f8409e8c263e",
+    "normalized_content_hash": "sha256:a3c60f633832cd0ce351a139a981841293208591480e1f16cda1b60bd7a88575"
+  },
+  "provenance": {
+    "source_item_id": "7bf25ddb-f790-4be4-addc-812e46cbabb8",
+    "external_id": "https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time"
+  }
+}

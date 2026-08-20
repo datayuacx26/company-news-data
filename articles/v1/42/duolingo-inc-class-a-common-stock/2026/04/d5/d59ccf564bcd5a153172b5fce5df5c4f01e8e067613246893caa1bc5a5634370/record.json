@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d59ccf564bcd5a153172b5fce5df5c4f01e8e067613246893caa1bc5a5634370",
+  "company": {
+    "key": "duolingo-inc-class-a-common-stock",
+    "name": "Duolingo Inc."
+  },
+  "source": {
+    "id": "duolingo-inc-class-a-common-stock-news-import-1f1e82a2742f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.duolingo.com/frontend-prediction/",
+    "canonical": "https://blog.duolingo.com/frontend-prediction/"
+  },
+  "title": "Seeing the future: frontend prediction in Duolingo’s mobile app",
+  "summary": "How Duolingo uses frontend prediction to reduce latency, support offline mode, and manage tradeoffs like state sync, rollbacks, and consistency.",
+  "published_at": "2026-04-15T12:00:53+00:00",
+  "first_seen_at": "2026-07-25T02:01:49.609700+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T01:42:58.352711+00:00",
+  "paths": {
+    "article": "articles/v1/42/duolingo-inc-class-a-common-stock/2026/04/d5/d59ccf564bcd5a153172b5fce5df5c4f01e8e067613246893caa1bc5a5634370/article.md",
+    "record": "articles/v1/42/duolingo-inc-class-a-common-stock/2026/04/d5/d59ccf564bcd5a153172b5fce5df5c4f01e8e067613246893caa1bc5a5634370/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10411,
+    "sha256": "sha256:c7c2937c34f9f885debb70403d4c273f3ee0471db58ef445f995673680ff78a1",
+    "normalized_content_hash": "sha256:52c7168eefa175e998b85825b25ef008ba95b6cec72744bfb1dc5de59559b2e1"
+  },
+  "provenance": {
+    "source_item_id": "bf2812a1-9e38-4993-a6f8-240e584f37f3",
+    "external_id": "https://blog.duolingo.com/frontend-prediction/"
+  }
+}

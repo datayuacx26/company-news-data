@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f95e4c522ca76eb3fdc7daae93eab66d18ef9f5e16cd6fde351bc8e51b46bc7",
+  "company": {
+    "key": "yc-firezone",
+    "name": "Firezone"
+  },
+  "source": {
+    "id": "yc-firezone-news-import-75fbee21a5d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firezone.dev/blog/windows-1-5-13-mdm-update",
+    "canonical": "https://www.firezone.dev/blog/windows-1-5-13-mdm-update"
+  },
+  "title": "Action required: Windows MDM policies move to the machine scope in 1.5.13",
+  "summary": "Firezone Windows Client 1.5.13 reads MDM policy from HKLM instead of HKCU. Here's how to migrate your Intune or MDM configuration.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:10:10.796715+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-19T17:51:33.681966+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-firezone/2026/06/6f/6f95e4c522ca76eb3fdc7daae93eab66d18ef9f5e16cd6fde351bc8e51b46bc7/article.md",
+    "record": "articles/v1/79/yc-firezone/2026/06/6f/6f95e4c522ca76eb3fdc7daae93eab66d18ef9f5e16cd6fde351bc8e51b46bc7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5297,
+    "sha256": "sha256:20c7b59250cf7e99493948035eeee522c5b6742b6dc4af7381ef2215bb07dbb8",
+    "normalized_content_hash": "sha256:492daa89e69df96dc44c4e1c55217691890a26b59a4ba9430d240d8b759c9c35"
+  },
+  "provenance": {
+    "source_item_id": "f0919016-e87f-41e6-a786-5936a924bbdc",
+    "external_id": "https://www.firezone.dev/blog/windows-1-5-13-mdm-update"
+  }
+}

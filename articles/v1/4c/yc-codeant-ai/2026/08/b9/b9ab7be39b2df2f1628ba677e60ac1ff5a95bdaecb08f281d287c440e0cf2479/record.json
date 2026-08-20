@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b9ab7be39b2df2f1628ba677e60ac1ff5a95bdaecb08f281d287c440e0cf2479",
+  "company": {
+    "key": "yc-codeant-ai",
+    "name": "CodeAnt AI"
+  },
+  "source": {
+    "id": "yc-codeant-ai-news-import-b68a5af7b5b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://codeant.ai/blogs/ai-code-review-ssrf-authorization-bypass-apache-superset",
+    "canonical": "https://codeant.ai/blogs/ai-code-review-ssrf-authorization-bypass-apache-superset"
+  },
+  "title": "AI Code Review for Security: Finding SSRF and Auth Bypasses",
+  "summary": "See how AI code review detects SSRF and authorization bypasses by tracing data flow, validation logic, and security context across real Apache Superset code.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T02:05:34.248566+00:00",
+  "fetched_at": "2026-08-18T02:05:35.079628+00:00",
+  "last_updated_at": "2026-08-19T18:12:09.562732+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-codeant-ai/2026/08/b9/b9ab7be39b2df2f1628ba677e60ac1ff5a95bdaecb08f281d287c440e0cf2479/article.md",
+    "record": "articles/v1/4c/yc-codeant-ai/2026/08/b9/b9ab7be39b2df2f1628ba677e60ac1ff5a95bdaecb08f281d287c440e0cf2479/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16052,
+    "sha256": "sha256:b2f1e2a7d07b9be90c422328912c27eca38fba2486685518c7a79ae859079c47",
+    "normalized_content_hash": "sha256:c6a13d46c17412b66be9ca60942302f48c8194b0c049470ab2602f18575cbf29"
+  },
+  "provenance": {
+    "source_item_id": "94626809-b3cd-4a6d-8734-709dce1b0cf0",
+    "external_id": "https://codeant.ai/blogs/ai-code-review-ssrf-authorization-bypass-apache-superset"
+  }
+}

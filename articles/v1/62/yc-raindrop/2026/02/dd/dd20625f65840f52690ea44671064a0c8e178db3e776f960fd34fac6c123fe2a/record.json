@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd20625f65840f52690ea44671064a0c8e178db3e776f960fd34fac6c123fe2a",
+  "company": {
+    "key": "yc-raindrop",
+    "name": "Raindrop"
+  },
+  "source": {
+    "id": "yc-raindrop-news-import-6a6050810bab",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.raindrop.ai/blog/agent-self-diagnostics/",
+    "canonical": "https://www.raindrop.ai/blog/agent-self-diagnostics/"
+  },
+  "title": "Introducing Agent Self Diagnostics",
+  "summary": "Your AI agent already knows what's going wrong. Now it can tell you. Self Diagnostics lets agents proactively report failures, loops, and capability gaps giving your team visibility into problems that would otherwise go silently undetected.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:14:29.327591+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T20:09:11.852063+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-raindrop/2026/02/dd/dd20625f65840f52690ea44671064a0c8e178db3e776f960fd34fac6c123fe2a/article.md",
+    "record": "articles/v1/62/yc-raindrop/2026/02/dd/dd20625f65840f52690ea44671064a0c8e178db3e776f960fd34fac6c123fe2a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3743,
+    "sha256": "sha256:8f795ae917b9e09ac23be3583a340d62bafb0264d703fbde4848402ce4e3334a",
+    "normalized_content_hash": "sha256:1cb8c9ac8d1c416dc1770506bcfc17e7071cc2736df732f7c4de5f6d648c913c"
+  },
+  "provenance": {
+    "source_item_id": "3ee092ef-289e-4295-b789-5c13dfcf5553",
+    "external_id": "https://www.raindrop.ai/blog/agent-self-diagnostics/"
+  }
+}

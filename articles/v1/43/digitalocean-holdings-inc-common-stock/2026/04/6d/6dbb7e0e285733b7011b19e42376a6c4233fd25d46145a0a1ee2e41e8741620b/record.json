@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6dbb7e0e285733b7011b19e42376a6c4233fd25d46145a0a1ee2e41e8741620b",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/how-we-built-fastest-deepseek-minimax-qwen-on-blackwell-ultra",
+    "canonical": "https://www.digitalocean.com/blog/how-we-built-fastest-deepseek-minimax-qwen-on-blackwell-ultra"
+  },
+  "title": "How we built the most performant DeepSeek V3.2, MiniMax-M2.5 and Qwen 3.5 397B on DigitalOcean Serverless Inference",
+  "summary": "Today at Deploy, we are announcing the general availability of DeepSeek V3.2, MiniMax-M2.5, and Qwen 3.5 397B on DigitalOcean Serverless Inference. On DeepSeek V3.2 and Qwen 3.5 397B, we deliver #1 output speed across all providers Artificial Analysis tested. On DeepSeek V3.2 specifically, that translates to 230 output tokens per second and sub-1-second Time-To-First-Token.",
+  "published_at": "2026-04-28T09:00:00.024+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/6d/6dbb7e0e285733b7011b19e42376a6c4233fd25d46145a0a1ee2e41e8741620b/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/6d/6dbb7e0e285733b7011b19e42376a6c4233fd25d46145a0a1ee2e41e8741620b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11651,
+    "sha256": "sha256:f5fec7becce99c3d3398355881f89be20c7df37097fabbf0c8ac196515af9502",
+    "normalized_content_hash": "sha256:f30bf9b7a821d385e6ed5ffb0511a0c0f9ace82db1fbd876ce38597db2fd399e"
+  },
+  "provenance": {
+    "source_item_id": "e090439d-a2a5-4abd-9972-ec6ecaca1143",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/how-we-built-fastest-deepseek-minimax-qwen-on-blackwell-ultra"
+  }
+}

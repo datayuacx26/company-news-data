@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1ec92fd1ce70cb8478aca6af445334eb5087bf508721302537b110ad61701e6",
+  "company": {
+    "key": "ofg-bancorp-common-stock",
+    "name": "OFG Bancorp"
+  },
+  "source": {
+    "id": "ofg-bancorp-common-stock-news-import-64d6379e67ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stocktitan.net/news/OFG/ofg-bancorp-reports-1q26-jil3x23g1zx0.html",
+    "canonical": "https://www.stocktitan.net/news/OFG/ofg-bancorp-reports-1q26-jil3x23g1zx0.html"
+  },
+  "title": "OFG Bancorp Reports 1Q26 Results",
+  "summary": "Loan balances rose to $8.24B as credit-loss provision fell to $22.5M. Deposits dropped after a previously announced $500M government transfer.",
+  "published_at": "2026-04-21T11:30:00+00:00",
+  "first_seen_at": "2026-07-23T18:51:17.509992+00:00",
+  "fetched_at": "2026-07-23T18:51:16.677824+00:00",
+  "last_updated_at": "2026-07-23T18:51:17.509992+00:00",
+  "paths": {
+    "article": "articles/v1/4a/ofg-bancorp-common-stock/2026/04/c1/c1ec92fd1ce70cb8478aca6af445334eb5087bf508721302537b110ad61701e6/article.md",
+    "record": "articles/v1/4a/ofg-bancorp-common-stock/2026/04/c1/c1ec92fd1ce70cb8478aca6af445334eb5087bf508721302537b110ad61701e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16357,
+    "sha256": "sha256:32a5f3cbd02b83d4eabfee7e425432937076ff27dde4380536fc5099e336afb7",
+    "normalized_content_hash": "sha256:b8f2ccb428dca3766abd2c8aae577b9e62c33b893cd94c43d7f4221a8474bdf7"
+  },
+  "provenance": {
+    "source_item_id": "9419d12a-666b-4886-9f2a-f8ec78c3d66b",
+    "external_id": "https://www.stocktitan.net/news/OFG/ofg-bancorp-reports-1q26-jil3x23g1zx0.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eaa6a5619dceabbcb59ce03862182af041ea173282b2c46251c9a1419d12eea9",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/how-we-built-automated-maintenance",
+    "canonical": "https://iomete.com/resources/blog/how-we-built-automated-maintenance"
+  },
+  "title": "How We Built Automated Table Maintenance at IOMETE",
+  "summary": "How we built automated Iceberg table maintenance at IOMETE: the architecture, Amoro evaluation, scheduling model, and production tradeoffs behind it.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:31:44.448316+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T00:52:51.295677+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/06/ea/eaa6a5619dceabbcb59ce03862182af041ea173282b2c46251c9a1419d12eea9/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/06/ea/eaa6a5619dceabbcb59ce03862182af041ea173282b2c46251c9a1419d12eea9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21610,
+    "sha256": "sha256:07299dd99e83a1ab320a1223e392405b0a183d068d337c6cadfc64c92f124e24",
+    "normalized_content_hash": "sha256:8b74379c9e6b5b7d2e3d5be0776cc062b44b701e374d6880ddf5df43d11d5d46"
+  },
+  "provenance": {
+    "source_item_id": "ab29deaf-b1ea-497f-8398-7e4bcb3ba400",
+    "external_id": "https://iomete.com/resources/blog/how-we-built-automated-maintenance"
+  }
+}

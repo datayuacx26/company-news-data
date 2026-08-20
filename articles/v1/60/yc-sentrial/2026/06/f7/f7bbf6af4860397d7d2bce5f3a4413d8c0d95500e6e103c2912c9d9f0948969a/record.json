@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f7bbf6af4860397d7d2bce5f3a4413d8c0d95500e6e103c2912c9d9f0948969a",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/sentrial-vs-langfuse-honest-comparison-2026",
+    "canonical": "https://www.sentrial.com/blog/sentrial-vs-langfuse-honest-comparison-2026"
+  },
+  "title": "Sentrial vs Langfuse: What We Actually Found in Production",
+  "summary": "We compared Sentrial and Langfuse across tracing, automated evals, alerting, and debugging. Here's what the data tells engineering teams running production agents.",
+  "published_at": "2026-06-01T21:00:12.377+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/06/f7/f7bbf6af4860397d7d2bce5f3a4413d8c0d95500e6e103c2912c9d9f0948969a/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/06/f7/f7bbf6af4860397d7d2bce5f3a4413d8c0d95500e6e103c2912c9d9f0948969a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19966,
+    "sha256": "sha256:9d483dd338dedd51633e57b3fffe4acfb1230fbe50417205248f617155a55577",
+    "normalized_content_hash": "sha256:731a35e2ff693438df1012c352c3ebd60b7f2a566f999747fa620ee133ce8f36"
+  },
+  "provenance": {
+    "source_item_id": "fe139aef-4478-496b-8b35-daa4e5141a70",
+    "external_id": "https://www.sentrial.com/blog/sentrial-vs-langfuse-honest-comparison-2026"
+  }
+}

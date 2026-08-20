@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7450e9e01e125983b198f2f7ae43283ff59d6bd3bb1326945adcb39999e20c48",
+  "company": {
+    "key": "yc-raindrop",
+    "name": "Raindrop"
+  },
+  "source": {
+    "id": "yc-raindrop-news-import-6a6050810bab",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.raindrop.ai/blog/mcp-design/",
+    "canonical": "https://www.raindrop.ai/blog/mcp-design/"
+  },
+  "title": "MCPs need to be designed too",
+  "summary": "Our MCP tools were fine in isolation, but nothing chained, so conversations came back fragmented. Rebuilding them as a hierarchy cut cost 12% and time to final answer 27%.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-08T03:28:34.827635+00:00",
+  "fetched_at": "2026-08-08T03:28:36.827308+00:00",
+  "last_updated_at": "2026-08-19T20:09:11.852063+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-raindrop/2026/08/74/7450e9e01e125983b198f2f7ae43283ff59d6bd3bb1326945adcb39999e20c48/article.md",
+    "record": "articles/v1/62/yc-raindrop/2026/08/74/7450e9e01e125983b198f2f7ae43283ff59d6bd3bb1326945adcb39999e20c48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2933,
+    "sha256": "sha256:dd4f659d4234440ac48edba09103ee1e403184d690e3f7aaafbe3ae1d6b14aab",
+    "normalized_content_hash": "sha256:d7745c2fb71e4a4bc61d302b5729e38c0a92d5197c9c2464151d5d939e029b39"
+  },
+  "provenance": {
+    "source_item_id": "1c7dad53-ad1b-4697-bbf4-fa730dd46113",
+    "external_id": "https://www.raindrop.ai/blog/mcp-design/"
+  }
+}

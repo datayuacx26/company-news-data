@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9d9586647473c3e105c38dce0fbd7b299f0f2263da96b518e00909d1dc6a18c",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/how-to-diagnose-flaky-tests/",
+    "canonical": "https://www.signadot.com/blog/how-to-diagnose-flaky-tests/"
+  },
+  "title": "How to Diagnose Flaky Tests",
+  "summary": "Flaky tests are a pervasive issue in software development, particularly as teams scale up and systems become more complex.",
+  "published_at": "2024-02-10T23:53:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/02/d9/d9d9586647473c3e105c38dce0fbd7b299f0f2263da96b518e00909d1dc6a18c/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/02/d9/d9d9586647473c3e105c38dce0fbd7b299f0f2263da96b518e00909d1dc6a18c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6447,
+    "sha256": "sha256:fc513239c434af03f312f290d965ff0a64c2c7967511ce22a7153a5ca5dfc30d",
+    "normalized_content_hash": "sha256:e95ee4b7fbd7a671d4fd29ea469739438cd11dc598e04c9c80d725b63e08f694"
+  },
+  "provenance": {
+    "source_item_id": "e20798d9-dbf9-4b9d-ad00-ffc52bf48abe",
+    "external_id": "https://www.signadot.com/blog/how-to-diagnose-flaky-tests/"
+  }
+}

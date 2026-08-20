@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22486e6800ab0a4894fb6ca6c7c41e7d5fbe416dfe117e5bcd4b877290affe80",
+  "company": {
+    "key": "liveramp-holdings-inc-common-stock",
+    "name": "LiveRamp Holdings Inc."
+  },
+  "source": {
+    "id": "liveramp-holdings-inc-common-stock-news-import-7c97de429105",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://liveramp.com/blog/spark-usage-based-billing",
+    "canonical": "https://liveramp.com/blog/spark-usage-based-billing"
+  },
+  "title": "Building Usage-Based Billing for The LiveRamp Clean Room with Spark Execution Metrics",
+  "summary": "Learn how LiveRamp uses Spark execution metrics, QueryExecutionListeners, and custom plan nodes to support accurate usage-based billing at scale.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:36:45.090703+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T09:25:24.989092+00:00",
+  "paths": {
+    "article": "articles/v1/74/liveramp-holdings-inc-common-stock/2026/06/22/22486e6800ab0a4894fb6ca6c7c41e7d5fbe416dfe117e5bcd4b877290affe80/article.md",
+    "record": "articles/v1/74/liveramp-holdings-inc-common-stock/2026/06/22/22486e6800ab0a4894fb6ca6c7c41e7d5fbe416dfe117e5bcd4b877290affe80/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18263,
+    "sha256": "sha256:9224799b92eed51d12802fd948e2571ced37a80220a37a57a7f23e7c78f184d3",
+    "normalized_content_hash": "sha256:a72891523e2380d04c0e1c54aa777d885d2d4f21d1f5ef29fddbb31b8f575e22"
+  },
+  "provenance": {
+    "source_item_id": "b25ceada-528a-4b77-8518-01e9cf0fdfb2",
+    "external_id": "https://liveramp.com/blog/spark-usage-based-billing"
+  }
+}

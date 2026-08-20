@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e2c5de8b9e52cb66e706031e592e5a4dc3fe5c45075e120c210819067da8fea",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134765",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134765"
+  },
+  "title": "SA-2026-027 - glibc wordexp Uninitialized Memory (CVE-2025-15281)",
+  "summary": "Calling wordexp with WRDE_REUSE in conjunction with WRDE_APPEND in the GNU C Library may cause the interface to return uninitialized memory in the we_wordv member, which on subsequent calls to wordfree may abort the process. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-03-20T14:47:05+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/9e/9e2c5de8b9e52cb66e706031e592e5a4dc3fe5c45075e120c210819067da8fea/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/9e/9e2c5de8b9e52cb66e706031e592e5a4dc3fe5c45075e120c210819067da8fea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1283,
+    "sha256": "sha256:05e420f21055b8ffe54a88cfc31ecf42c524ecbbeec08f799af4070777bf0f24",
+    "normalized_content_hash": "sha256:ab8073f6e2dbbdd3d4d9aad767df1d0d8fedf46861c257f29197fcb76960a90e"
+  },
+  "provenance": {
+    "source_item_id": "64ed85ce-681d-4df8-821d-3c1f1b1b4a09",
+    "external_id": "000134765"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8cddec2856cf226449343800bf1de80e5053bc97c3e4bd1334f3bcd3a984dba",
+  "company": {
+    "key": "yc-extend",
+    "name": "Extend"
+  },
+  "source": {
+    "id": "yc-extend-news-import-054f4f06cd55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.extend.ai/resources/long-array-extraction-benchmark",
+    "canonical": "https://www.extend.ai/resources/long-array-extraction-benchmark"
+  },
+  "title": "LongArray-Extract: A Benchmark for Complete Structured Extraction at Scale",
+  "summary": "LongArray-Extract measures whether document extraction systems can return complete, field-accurate arrays across hundreds or thousands of rows.",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:25:34.796069+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T02:10:52.656356+00:00",
+  "paths": {
+    "article": "articles/v1/61/yc-extend/2026/06/d8/d8cddec2856cf226449343800bf1de80e5053bc97c3e4bd1334f3bcd3a984dba/article.md",
+    "record": "articles/v1/61/yc-extend/2026/06/d8/d8cddec2856cf226449343800bf1de80e5053bc97c3e4bd1334f3bcd3a984dba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17568,
+    "sha256": "sha256:4efa667d65c3e0af7449e9b425f350ecf239ea480e7835bf8e16c2d3e99c15cb",
+    "normalized_content_hash": "sha256:49e8b017764b892cc833d31a4f7b9bc4e4d54afca96c230c72ba680da547fc9e"
+  },
+  "provenance": {
+    "source_item_id": "27d7e98c-91c7-4206-b23b-def2334fcf0d",
+    "external_id": "https://www.extend.ai/resources/long-array-extraction-benchmark"
+  }
+}

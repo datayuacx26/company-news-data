@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ad69a42720ce74d0412c8cf8f775afef5b7ef80134a5518f35fe2e13edf3b337",
+  "company": {
+    "key": "yc-corgea",
+    "name": "Corgea"
+  },
+  "source": {
+    "id": "yc-corgea-news-import-efe6052ddd93",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corgea.com/blog/corgea-vs-snyk-security-benchmark",
+    "canonical": "https://corgea.com/blog/corgea-vs-snyk-security-benchmark"
+  },
+  "title": "Corgea vs. Snyk: We benchmarked SAST on a deliberately vulnerable repo",
+  "summary": "Corgea vs. Snyk benchmark on a deliberately vulnerable repository: Corgea found 42 of 47 confirmed issues with 89.36% recall and 85.71% F1, while Snyk found 26 with 55.32% recall and 65.00% F1.",
+  "published_at": "2026-07-02T20:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:05:55.735939+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T02:05:33.847783+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-corgea/2026/07/ad/ad69a42720ce74d0412c8cf8f775afef5b7ef80134a5518f35fe2e13edf3b337/article.md",
+    "record": "articles/v1/45/yc-corgea/2026/07/ad/ad69a42720ce74d0412c8cf8f775afef5b7ef80134a5518f35fe2e13edf3b337/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16883,
+    "sha256": "sha256:84022fdbfa58ccfc901a1442f1fb0317b43df1f5ca9ca571eb5b750f8a220bf1",
+    "normalized_content_hash": "sha256:4d641323530c992af854965b2cff1ab3aa4984d33fe45100227cad709e2277ff"
+  },
+  "provenance": {
+    "source_item_id": "779794c3-663b-4757-ba4e-04d129c7ac78",
+    "external_id": "https://corgea.com/blog/corgea-vs-snyk-security-benchmark"
+  }
+}

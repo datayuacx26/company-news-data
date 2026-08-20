@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03606063e27f3130e3c192b2fff53294007c9d20da687b642d0e11a13430eb76",
+  "company": {
+    "key": "pagerduty-inc-common-stock",
+    "name": "PagerDuty Inc."
+  },
+  "source": {
+    "id": "pagerduty-inc-common-stock-rss-b3e2d0380f72",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
+    "canonical": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/"
+  },
+  "title": "Evidence Over Anecdotes: Running A/B Tests on AI Agent Tooling by Sarah Martinelli Benedetti",
+  "summary": "AI agents are non-deterministic: run the same task twice with zero code change, and the model’s own sampling can produce a different outcome. That property...",
+  "published_at": "2026-08-12T09:43:49+00:00",
+  "first_seen_at": "2026-08-12T13:03:23.528211+00:00",
+  "fetched_at": "2026-08-12T13:03:24.906664+00:00",
+  "last_updated_at": "2026-08-20T00:26:24.795748+00:00",
+  "paths": {
+    "article": "articles/v1/7f/pagerduty-inc-common-stock/2026/08/03/03606063e27f3130e3c192b2fff53294007c9d20da687b642d0e11a13430eb76/article.md",
+    "record": "articles/v1/7f/pagerduty-inc-common-stock/2026/08/03/03606063e27f3130e3c192b2fff53294007c9d20da687b642d0e11a13430eb76/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 32660,
+    "sha256": "sha256:05a59c34bbb2a8f8a82e2089a92502a3de6e841acdf3a1ee2b01e3546e569760",
+    "normalized_content_hash": "sha256:6bbe460626d4303778e6097a2bc8d7514e39ec0e790b7c9118d2f47faea2c258"
+  },
+  "provenance": {
+    "source_item_id": "76e1f429-be3b-4517-b7b9-92e3fb3c970c",
+    "external_id": "https://www.pagerduty.foo/?post_type=eng-blog&p=100956"
+  }
+}

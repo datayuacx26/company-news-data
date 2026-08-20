@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "02ec82ef794de1f8804463d8f5d7e86579db2200629e713bb7da2b3e54895b29",
+  "company": {
+    "key": "yc-metorial",
+    "name": "Metorial"
+  },
+  "source": {
+    "id": "yc-metorial-news-import-9c457a3d81d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metorial.com/blog/security-guide",
+    "canonical": "https://metorial.com/blog/security-guide"
+  },
+  "title": "Secure MCP Server Deployment at Scale: The Complete Guide",
+  "summary": "Unmanaged Model Context Protocol (MCP) server deployment is creating a massive, silent security crisis in enterprises. According to recent research, over 15% of employees are running MCP servers locally, with 86% granting them full privileges and storing credentials in plaintext. This guide provides a comprehensive framework for deploying MCP servers securely at scale, covering everything from identity and access management to monitoring and governance. We’ll explore the risks of unsecured deployments, outline production best practices, and show how Metorial’s serverless MCP runtime provides a secure, scalable, and developer-friendly solution out of the box.",
+  "published_at": "2026-02-06T14:16:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:44.298499+00:00",
+  "fetched_at": "2026-07-28T22:21:24.537254+00:00",
+  "last_updated_at": "2026-08-19T18:53:41.634509+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-metorial/2026/02/02/02ec82ef794de1f8804463d8f5d7e86579db2200629e713bb7da2b3e54895b29/article.md",
+    "record": "articles/v1/56/yc-metorial/2026/02/02/02ec82ef794de1f8804463d8f5d7e86579db2200629e713bb7da2b3e54895b29/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9780,
+    "sha256": "sha256:4394f303bfb633389cc7d5f1978c651deb03317765db7abfffe52496095ba532",
+    "normalized_content_hash": "sha256:88f426fa3b41b7bb47a31146dd781f85e1d105b9cbb75c27b2fe5f6ae13170cf"
+  },
+  "provenance": {
+    "source_item_id": "ba99c650-4b75-4de0-8086-c9912366dd45",
+    "external_id": "https://metorial.com/blog/security-guide"
+  }
+}

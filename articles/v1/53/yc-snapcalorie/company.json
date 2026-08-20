@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-snapcalorie",
+    "name": "SnapCalorie"
+  },
+  "record_count": 36,
+  "first_published_at": "2023-08-16T00:00:00+00:00",
+  "last_published_at": "2026-04-16T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-08",
+      "record_count": 12
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 14
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/53/yc-snapcalorie/index/pages/000001.json",
+        "record_count": 36,
+        "byte_count": 37147,
+        "sha256": "sha256:df899321ddd9b373e9dfd3986aa52eadddeb4a3e2404735cf67c8144c9bbf216",
+        "newest_at": "2026-04-16T00:00:00+00:00",
+        "oldest_at": "2023-08-16T00:00:00+00:00"
+      }
+    ]
+  }
+}

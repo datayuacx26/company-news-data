@@ -1,0 +1,88 @@
+---
+schema_version: "1.0.0"
+document_id: "f1dcf5693971bd17513b994eb1f2ee3ffbb26cdb9c74e169db7f774002e45c86"
+company_key: "yc-function-of-beauty"
+company: "Function of Beauty"
+source_id: "yc-function-of-beauty-atom-d26e5db07ffe"
+canonical_url: "https://functionofbeauty.com/blogs/blog/sweat-sunscreen-and-scalp-buildup-a-hair-type-guide-to-summer-scalp-care"
+published_at: "2026-07-13T14:12:07+00:00"
+first_seen_at: "2026-07-25T05:58:14.554793+00:00"
+fetched_at: "2026-07-28T20:41:19.924237+00:00"
+content_hash: "sha256:8267c1dcb39330652dc57158536dc327a757964f5c71c038376131fef82ccbaf"
+---
+
+# Sweat, Sunscreen, and Scalp Buildup: A Hair Type Guide to Summer Scalp Care
+
+Summer doesn't just change how your hair looks and feels. It changes what's happening at the scalp. Sweat, sunscreen, extra time outdoors, and shifting wash schedules all affect your scalp first. How your scalp responds depends entirely on your hair type.
+
+
+## The Science Behind Summer Scalp Care
+
+
+Every hair type has a different relationship with sebum, the natural oil your scalp produces. The shape of your hair fiber determines how easily that oil travels from root to end. During summer, heat, sweat, and sunscreen residue all interact with that process differently. Understanding your hair's structure is the difference between guessing at a routine and building one that works with your scalp instead.
+
+
+## How to Remove Sunscreen, Sweat, and Build-up
+
+
+Sunscreen formulas are water-resistant and contain zinc oxide or waxes, so you may need to apply your hair type shampoo directly to your roots and let it sit for 2 to 3 minutes to thoroughly break down the residue. If you are still feeling like you have residue on your hair, repeat the shampoo and double cleanse.
+
+
+**Double cleansing means shampooing your hair twice during the same wash.** The first cleanse lifts away sweat, excess oil, sunscreen, and product buildup from the scalp. The second cleanse gives your scalp a deeper clean, allowing your shampoo to work more effectively and leaving your hair feeling fresher and more balanced.
+
+
+**First Cleanse:** Thoroughly wet your hair, then work a quarter-sized amount of shampoo between your palms before applying it to your scalp. Using your fingertips, gently massage for 30 to 60 seconds to loosen buildup and impurities. Rinse thoroughly.
+
+
+**Second Cleanse:** Apply a slightly smaller amount of shampoo to your scalp. Because the initial buildup has already been removed, you'll notice a richer lather. Continue massaging your scalp, allowing the lather to glide through the lengths of your hair as you rinse. Finish by rinsing until the water runs clear.
+
+
+## Straight Hair: Managing Faster Oil Production
+
+
+Straight hair's flat, tightly aligned cuticle allows sebum to travel from root to tip with the least resistance of any hair type. That's one reason straight hair often looks naturally shiny. During summer, however, heat and increased perspiration can accelerate oil buildup, leaving the scalp feeling greasy sooner than usual.
+
+
+Double Wash with[Straight Hair Shampoo](https://functionofbeauty.com/pages/shop-all-straight-hair) to remove sweat and buildup without over-stripping the scalp. Double cleansing is highly beneficial for straight hair in the summer. Straight hair allows oils to travel easily from the scalp to the ends, causing it to look greasy faster, especially when combined with summer sweat, humidity, and sunscreen. The first wash breaks down buildup, and the second deeply cleanses your scalp.
+
+
+Follow with[Straight Hair Conditioner](https://functionofbeauty.com/pages/shop-all-straight-hair) to keep lengths soft without weighing down fine hair. If you're heat-styling to manage humidity, add a[Custom Styling Primer](https://functionofbeauty.com/products/styling-primer?srsltid=AfmBOooKJcGeN5kelvWuP90HmbG0wxpXsr-doUpiegYaQucri5z5crci) to your routine.
+
+
+A custom styling primer is formulated with provitamin B5 that provides color, UV, and heat protection (up to 450°F), formulated for your unique hair goals with a personalized level of hold.
+
+
+## Wavy Hair: Balancing Oily Roots and Dry Ends
+
+
+Wavy hair sits in the middle of the hair type spectrum. Oil can accumulate at the roots while the mid-lengths and ends remain dry. Summer sweat tends to collect at the scalp, which can flatten your wave pattern before the rest of your hair even feels affected.
+
+
+Cleanse with[Wavy Hair Shampoo and follow with Wavy Hair Conditioner](https://functionofbeauty.com/pages/shop-all-wavy-hair) to balance moisture without weighing down your waves. For a midday or post-workout refresh, work a small amount of[Zero Gravity Styling Mousse](https://functionofbeauty.com/blogs/blog/Zero%20Gravity%20Mousse) through damp roots. It helps reactivate wave definition without adding unnecessary buildup.
+
+
+**Try the[Zero Gravity Mousse](https://functionofbeauty.com/products/zero-gravity-styling-mousse?variant=48734212686136&selling_plan=695906173240)** here for **15% off with CODE** : **15OFFMOUSSE**
+
+
+## Curly Hair: Preventing Layered Buildup
+
+
+Curly hair's bends slow the movement of sebum, so oily roots are rarely the biggest concern during summer. Buildup is. Sweat, sunscreen, and styling products can layer between wash days, leaving curls feeling coated instead of defined.
+
+
+Use[Curly Hair Shampoo](https://functionofbeauty.com/pages/shop-all-curly-hair) to lift away buildup, then follow with[Curly Hair Conditioner](https://functionofbeauty.com/pages/shop-all-curly-hair) to restore hydration and improve manageability. Between wash days, work a small amount of Super Shape Curl Cream through damp roots and lengths to refresh curl definition without needing a full wash.
+
+
+## Coily Hair: Protecting the Scalp Between Washes
+
+
+Coily hair's tight coil pattern makes it the most difficult for sebum to travel from the scalp to the ends. That's why coily hair routines are often built around less frequent washing. During summer, however, longer intervals between washes allow sweat, sunscreen, and styling products to remain on the scalp longer.
+
+
+[Coily Hair Shampoo](https://functionofbeauty.com/pages/shop-all-coily-hair) is formulated to cleanse thoroughly without stripping away the moisture that coily hair depends on. Follow with[Coily Hair Conditioner](https://functionofbeauty.com/pages/shop-all-coily-hair) to restore softness and manageability. Maintaining your regular wash schedule, rather than extending time between washes to avoid dryness, helps keep your scalp healthy during the hottest months of the year.
+
+
+## The Bottom Line
+
+
+Summer scalp care is about understanding how your hair's structure manages oil, sweat, and buildup, then building a routine that supports those needs. When you care for your scalp based on your hair type, you're creating the ideal foundation for hair that looks healthier, feels balanced, and performs at its best all season long. Take the[hair quiz](https://functionofbeauty.com/pages/hair-quiz) to discover your hair type and[shop the collection](https://functionofbeauty.com/pages/shop-by-hair-type) designed specifically for it.

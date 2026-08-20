@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6f2c55cb975ca18f12ac2ba3b2f1f3452e58205dc0cf8f48567f89f8688c09f",
+  "company": {
+    "key": "yc-tiptap",
+    "name": "Tiptap"
+  },
+  "source": {
+    "id": "yc-tiptap-news-import-30112aa6d3bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tiptap.dev/blog/release-notes/introducing-bidirectional-markdown-support-in-tiptap",
+    "canonical": "https://tiptap.dev/blog/release-notes/introducing-bidirectional-markdown-support-in-tiptap"
+  },
+  "title": "Introducing bidirectional Markdown support in Tiptap",
+  "summary": "Tiptap now includes an open-source Markdown extension. Parse Markdown into Tiptap’s JSON format and serialize rich text back to Markdown. Fully bidirectional, extensible, and CommonMark-compliant.",
+  "published_at": "2025-10-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:40.643427+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-19T19:02:00.406058+00:00",
+  "paths": {
+    "article": "articles/v1/64/yc-tiptap/2025/10/f6/f6f2c55cb975ca18f12ac2ba3b2f1f3452e58205dc0cf8f48567f89f8688c09f/article.md",
+    "record": "articles/v1/64/yc-tiptap/2025/10/f6/f6f2c55cb975ca18f12ac2ba3b2f1f3452e58205dc0cf8f48567f89f8688c09f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4664,
+    "sha256": "sha256:ec1edc632ebcc8bd1a038476c8b683dec524e55bdb4ae393216ff2c04609ad88",
+    "normalized_content_hash": "sha256:e525a7c918404544a24ba0ff085f16c3ad74c928152d2ed138694aa7e5d4c54b"
+  },
+  "provenance": {
+    "source_item_id": "dc85bfce-98f1-41e4-83cf-bba0943079cc",
+    "external_id": "https://tiptap.dev/blog/release-notes/introducing-bidirectional-markdown-support-in-tiptap"
+  }
+}

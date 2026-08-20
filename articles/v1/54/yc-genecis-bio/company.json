@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-genecis-bio",
+    "name": "Genecis Bio"
+  },
+  "record_count": 10,
+  "first_published_at": "2018-11-20T06:32:40+00:00",
+  "last_published_at": "2023-03-15T06:35:00+00:00",
+  "partitions": [
+    {
+      "partition": "2018-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/54/yc-genecis-bio/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13155,
+        "sha256": "sha256:d04c6509e8bce3bebed02347446d643bf06da8dfbcc7ac7c8854fba223ccd218",
+        "newest_at": "2023-03-15T06:35:00+00:00",
+        "oldest_at": "2018-11-20T06:32:40+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "trimble-inc-common-stock",
+    "name": "Trimble Inc."
+  },
+  "record_count": 100,
+  "first_published_at": "2026-01-20T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/44/trimble-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58761,
+        "sha256": "sha256:4f7edf644e0567a221ecc1479c2f8fbcc8189b5d1175e453d0761d67dd71cb49",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-05-12T10:30:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/44/trimble-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 58792,
+        "sha256": "sha256:dde72e64c660ddaed6f43776afc95e7ee5735cc2683483f8d8115453e1b2cfed",
+        "newest_at": "2026-05-12T00:00:00+00:00",
+        "oldest_at": "2026-01-20T00:00:00+00:00"
+      }
+    ]
+  }
+}

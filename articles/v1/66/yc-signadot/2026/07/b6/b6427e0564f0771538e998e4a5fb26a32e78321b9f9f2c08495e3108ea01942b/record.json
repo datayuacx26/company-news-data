@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6427e0564f0771538e998e4a5fb26a32e78321b9f9f2c08495e3108ea01942b",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/catch-performance-regressions-with-k6-and-signadot-plans/",
+    "canonical": "https://www.signadot.com/blog/catch-performance-regressions-with-k6-and-signadot-plans/"
+  },
+  "title": "Catch Performance Regressions Before the Pull Request With k6 and Signadot Plans",
+  "summary": "A reusable k6 plan running in a live Kubernetes cluster catches a six-second latency regression that local checks miss, before it ever becomes a PR.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/07/b6/b6427e0564f0771538e998e4a5fb26a32e78321b9f9f2c08495e3108ea01942b/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/07/b6/b6427e0564f0771538e998e4a5fb26a32e78321b9f9f2c08495e3108ea01942b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9029,
+    "sha256": "sha256:eaac9244698e881609df6173499ecb35c4abd7def21a60620fd73980449b1ec6",
+    "normalized_content_hash": "sha256:795405f4606aedb86d8937c9e915e156b29f860f1b0ddd6e8cee15ad44b78e29"
+  },
+  "provenance": {
+    "source_item_id": "1d755826-5004-46fc-a82f-ff872c431124",
+    "external_id": "https://www.signadot.com/blog/catch-performance-regressions-with-k6-and-signadot-plans/"
+  }
+}

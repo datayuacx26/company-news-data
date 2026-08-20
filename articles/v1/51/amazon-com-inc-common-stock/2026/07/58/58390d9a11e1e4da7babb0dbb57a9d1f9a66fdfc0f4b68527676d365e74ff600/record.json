@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58390d9a11e1e4da7babb0dbb57a9d1f9a66fdfc0f4b68527676d365e74ff600",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc."
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-rss-4d9f015bc7ad",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-efs-cross-account-replication-aws-gov-cloud-us",
+    "canonical": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-efs-cross-account-replication-aws-gov-cloud-us"
+  },
+  "title": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US)",
+  "summary": "Amazon EFS now supports cross-account Replication in AWS GovCloud (US), allowing customers to replicate file systems between AWS accounts. EFS Replication enables you to easily maintain an up-to-date replica of your file system in the AWS GovCloud (US) Region of your choice. With this launch, EFS Replication customers can meet business continuity, multi-account disaster recovery, and compliance requirements by automatically keeping replicas of their file data in separate accounts. Customers often use multiple AWS accounts to help isolate and manage business applications and data for operational excellence, security, and reliability. Starting today, you can use EFS Replication to replicate your file system to another account in any AWS GovCloud (US) region. This eliminates the need to set up custom processes to synchronize EFS data across accounts, enhancing resilience and reliability in distributed environments. To learn more, visit the Amazon EFS documentation and get started by configuring EFS Replication in just a few clicks using the Amazon EFS Console , AWS CLI, AWS CloudFormation, and APIs.",
+  "published_at": "2026-07-29T12:00:00+00:00",
+  "first_seen_at": "2026-07-29T19:00:51.982744+00:00",
+  "fetched_at": "2026-08-10T23:53:58.944307+00:00",
+  "last_updated_at": "2026-08-10T23:53:59.020385+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/07/58/58390d9a11e1e4da7babb0dbb57a9d1f9a66fdfc0f4b68527676d365e74ff600/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/07/58/58390d9a11e1e4da7babb0dbb57a9d1f9a66fdfc0f4b68527676d365e74ff600/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1915,
+    "sha256": "sha256:6189c1a718d9bbf5ba360818e409c09212eb368520afd4b6364029bec20a0c4e",
+    "normalized_content_hash": "sha256:111abdc8a7e45732a12f0697b70cc3f468a147eebd57f115e488d9ae0dd63477"
+  },
+  "provenance": {
+    "source_item_id": "82ad7c6c-2d27-4eea-919f-2caa550c5611",
+    "external_id": "afd4bffe13d5ba7f7a4fd3b07a75778e02dfcb16"
+  }
+}

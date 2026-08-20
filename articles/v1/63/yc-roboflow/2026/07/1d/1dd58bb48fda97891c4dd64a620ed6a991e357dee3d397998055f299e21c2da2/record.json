@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1dd58bb48fda97891c4dd64a620ed6a991e357dee3d397998055f299e21c2da2",
+  "company": {
+    "key": "yc-roboflow",
+    "name": "Roboflow"
+  },
+  "source": {
+    "id": "yc-roboflow-news-import-01e8e48f5676",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.roboflow.com/claude-sonnet-5-for-vision/",
+    "canonical": "https://blog.roboflow.com/claude-sonnet-5-for-vision/"
+  },
+  "title": "Claude Sonnet 5 for Vision: Evaluation and Benchmarks",
+  "summary": "We ran Claude Sonnet 5 through the Roboflow Vision Evals across 67 real vision prompts. It ties Sonnet 4.6, trails Fable 5, and sits well behind Gemini 3.5 Flash, which still leads the board.",
+  "published_at": "2026-07-03T16:16:27+00:00",
+  "first_seen_at": "2026-07-25T21:39:51.585615+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.917487+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-roboflow/2026/07/1d/1dd58bb48fda97891c4dd64a620ed6a991e357dee3d397998055f299e21c2da2/article.md",
+    "record": "articles/v1/63/yc-roboflow/2026/07/1d/1dd58bb48fda97891c4dd64a620ed6a991e357dee3d397998055f299e21c2da2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5130,
+    "sha256": "sha256:81ab932ed7223b65fb46bcbb7af51e909d4ee274982a7d33411338b0ce29f1ad",
+    "normalized_content_hash": "sha256:c3c9aae8b9e4a87fc94714259babda44ab2f87ee3ab6ac2a8042f9b46f19eea2"
+  },
+  "provenance": {
+    "source_item_id": "73632cd0-77cb-40d2-ab3e-a896f72c1383",
+    "external_id": "https://blog.roboflow.com/claude-sonnet-5-for-vision/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5aae1e953baa4728d8081db17171cc6352c38b146e44e30d2ffd8a405ce2c0a8",
+  "company": {
+    "key": "yc-cactus",
+    "name": "Cactus"
+  },
+  "source": {
+    "id": "yc-cactus-news-import-6d2738280b9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cactuscompute.com/blog/hybrid-transcription",
+    "canonical": "https://cactuscompute.com/blog/hybrid-transcription"
+  },
+  "title": "Sub-150ms Transcription with Cloud-Level Accuracy: Why We Built a Hybrid Engine",
+  "summary": "How Cactus combines on-device and cloud inference for real-time speech transcription with sub-150ms latency and automatic cloud handoff for noisy audio.",
+  "published_at": "2026-02-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:01:40.427517+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T01:45:53.248267+00:00",
+  "paths": {
+    "article": "articles/v1/67/yc-cactus/2026/02/5a/5aae1e953baa4728d8081db17171cc6352c38b146e44e30d2ffd8a405ce2c0a8/article.md",
+    "record": "articles/v1/67/yc-cactus/2026/02/5a/5aae1e953baa4728d8081db17171cc6352c38b146e44e30d2ffd8a405ce2c0a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4576,
+    "sha256": "sha256:9a118a2c7aea9667f7ebebc3678bba4a6a59c103c9427c45f22280c67addbdf6",
+    "normalized_content_hash": "sha256:93e1921ac7d4b078755a1d3c7e18efda49d279b52bd1fc2775b286dc614ca5ec"
+  },
+  "provenance": {
+    "source_item_id": "043b09fb-a6f7-48c7-bf81-d2b450ce0c86",
+    "external_id": "https://cactuscompute.com/blog/hybrid-transcription"
+  }
+}

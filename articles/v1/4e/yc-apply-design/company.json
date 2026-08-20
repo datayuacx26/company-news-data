@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-apply-design",
+    "name": "Apply Design"
+  },
+  "record_count": 21,
+  "first_published_at": "2023-10-27T00:00:00+00:00",
+  "last_published_at": "2026-08-09T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4e/yc-apply-design/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 21607,
+        "sha256": "sha256:29c099cd9c43fa2922a7ce8bcff554759776dc85808a79c913d422b4f877de12",
+        "newest_at": "2026-08-09T00:00:00+00:00",
+        "oldest_at": "2023-10-27T00:00:00+00:00"
+      }
+    ]
+  }
+}

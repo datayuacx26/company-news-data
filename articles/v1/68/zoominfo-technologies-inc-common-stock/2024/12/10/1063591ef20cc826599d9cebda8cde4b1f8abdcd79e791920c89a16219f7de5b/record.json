@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1063591ef20cc826599d9cebda8cde4b1f8abdcd79e791920c89a16219f7de5b",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-rss-ef9b8d7bcd4f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/zoominfo-data-platform-zdp-ingestion-process-improvement",
+    "canonical": "https://engineering.zoominfo.com/zoominfo-data-platform-zdp-ingestion-process-improvement"
+  },
+  "title": "Zoominfo Data Platform (ZDP) ingestion process improvement",
+  "summary": "Background The Zoominfo Data Platform (ZDP) team has developed a robust data platform framework to streamline ETL processing and provide a unified source of truth for all data. Every day, numerous jobs must be executed in a specific sequence and timing to deliver vital business insights by each morning. The…",
+  "published_at": "2024-12-18T16:37:53+00:00",
+  "first_seen_at": "2026-07-20T23:24:42.992125+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:24:41.088735+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2024/12/10/1063591ef20cc826599d9cebda8cde4b1f8abdcd79e791920c89a16219f7de5b/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2024/12/10/1063591ef20cc826599d9cebda8cde4b1f8abdcd79e791920c89a16219f7de5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7099,
+    "sha256": "sha256:973237a1cb7ad0245afefd70094a8bbbceec4b24b81aa98246d7c9cb959e0c58",
+    "normalized_content_hash": "sha256:9adb70c8a2f9202576d5f9e458b155ef34f34f5281e04dc5d491ed75314ae032"
+  },
+  "provenance": {
+    "source_item_id": "d6792757-58ab-416c-a749-0f7d946bfddd",
+    "external_id": "https://engineering.zoominfo.com/?p=503"
+  }
+}

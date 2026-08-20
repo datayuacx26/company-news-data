@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e1c0206923293bbdf8504b7da644bce4f3f891914e06d4f7bd0e699fd6f7220",
+  "company": {
+    "key": "yc-zerodev",
+    "name": "ZeroDev"
+  },
+  "source": {
+    "id": "yc-zerodev-news-import-954b0c29e56a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zerodev.app/blogs/how-smart-accounts-give-onchain-ai-agents-safe-permissions",
+    "canonical": "https://www.zerodev.app/blogs/how-smart-accounts-give-onchain-ai-agents-safe-permissions"
+  },
+  "title": "How Smart Accounts Give Onchain AI Agents Safe Permissions",
+  "summary": "Smart accounts help onchain AI agents act safely by replacing unrestricted private-key access with scoped, revocable permissions, including session keys, spend limits, approved contracts, gas policies, and audit trails.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:02:55.252814+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T22:11:33.052993+00:00",
+  "paths": {
+    "article": "articles/v1/77/yc-zerodev/2026/07/6e/6e1c0206923293bbdf8504b7da644bce4f3f891914e06d4f7bd0e699fd6f7220/article.md",
+    "record": "articles/v1/77/yc-zerodev/2026/07/6e/6e1c0206923293bbdf8504b7da644bce4f3f891914e06d4f7bd0e699fd6f7220/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13172,
+    "sha256": "sha256:5ff5e6d4c52b85e49a04223a1d91dc5f5268522e6d9939ba5634dc766fa82110",
+    "normalized_content_hash": "sha256:2307e679f28177cc1bff14741ae1952078ee17ec0d99e51408e9f763e3ef235a"
+  },
+  "provenance": {
+    "source_item_id": "215a9666-adae-41fd-a89f-8f102a30afc6",
+    "external_id": "https://www.zerodev.app/blogs/how-smart-accounts-give-onchain-ai-agents-safe-permissions"
+  }
+}

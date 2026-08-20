@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9da055de1ad177137667f85e48ccb9dec8c6210ab3b40c07a9922b4f92ab3d3b",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-news-import-6460f63f60af",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investors.digitalocean.com/news/news-details/2026/Hippocratic-AI-Scales-to-10-Million-Patient-Calls-at-99-9-Clinical-Safety-on-DigitalOceans-AI-Native-Cloud-powered-by-NVIDIA-Blackwell-Ultra-GPUs/default.aspx",
+    "canonical": "https://investors.digitalocean.com/news/news-details/2026/Hippocratic-AI-Scales-to-10-Million-Patient-Calls-at-99-9-Clinical-Safety-on-DigitalOceans-AI-Native-Cloud-powered-by-NVIDIA-Blackwell-Ultra-GPUs/default.aspx"
+  },
+  "title": "Hippocratic AI Scales to 10 Million Patient Calls at 99.9% Clinical Safety on DigitalOcean's AI-Native Cloud, powered by NVIDIA Blackwell Ultra GPUs",
+  "summary": "DigitalOcean’s AI-Native Cloud, optimized from infrastructure to inference, delivers 2× prefill speedup and ~30% higher per-node throughput for Hippocratic AI's Polaris system, through close collaboration with NVIDIA, proving that a purpose-built platform is foundational to healthcare AI. DigitalOcean (NYSE: DOCN) today announced that Hippocratic AI 's Polaris system has reached 10 million patient calls at a 99.9% clinical safety score, running on NVIDIA HGX™ B300 GPUs on DigitalOcean's AI-Native Cloud, a five-layer, integrated stack purpose built for production AI. This milestone is the result of DigitalOcean engineering its inference platform for the latency, reliability, and concurrency demands of safety-critical healthcare workloads, delivering 2× prefill speedup and ~30% higher per-node throughput, developed in close collaboration with both NVIDIA and Hippocratic AI. The results demonstrate why an increasing number of production AI workloads are choosing DigitalOcean's AI-Native",
+  "published_at": "2026-05-27T08:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:29:05.431888+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-19T17:19:07.602817+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/05/9d/9da055de1ad177137667f85e48ccb9dec8c6210ab3b40c07a9922b4f92ab3d3b/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/05/9d/9da055de1ad177137667f85e48ccb9dec8c6210ab3b40c07a9922b4f92ab3d3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10215,
+    "sha256": "sha256:a7d3e6d756c06ca9b0edfe8e92bda0a9425ea0192d354118aa7ade084bf48afe",
+    "normalized_content_hash": "sha256:51a750c8d0e5605a916e0d51a836f4731edd2650283d4c7a6d3a87f6aeebd4a0"
+  },
+  "provenance": {
+    "source_item_id": "8e0a0b81-51d1-4be3-89c5-64b8be8aad00",
+    "external_id": "https://investors.digitalocean.com/news/news-details/2026/Hippocratic-AI-Scales-to-10-Million-Patient-Calls-at-99-9-Clinical-Safety-on-DigitalOceans-AI-Native-Cloud-powered-by-NVIDIA-Blackwell-Ultra-GPUs/default.aspx"
+  }
+}

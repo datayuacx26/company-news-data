@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "iron-mountain-incorporated-delaware-common-stock-reit",
+    "name": "Iron Mountain Incorporated (Delaware)Common Stock REIT"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-01-22T12:00:00+00:00",
+  "last_published_at": "2026-08-13T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/79/iron-mountain-incorporated-delaware-common-stock-reit/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 29406,
+        "sha256": "sha256:a6e745e05d310288751d7e90e5bc7bc8e350825fece1f54fe1a232b4d2cc8494",
+        "newest_at": "2026-08-13T13:00:00+00:00",
+        "oldest_at": "2026-01-22T12:00:00+00:00"
+      }
+    ]
+  }
+}

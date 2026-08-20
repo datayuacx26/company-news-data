@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e80fe6fb93a71e748fbf58a456f88f088d75fc380c952d3f138b40ec5247f63",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/infrastructure-provisioner-v3",
+    "canonical": "https://depot.dev/blog/infrastructure-provisioner-v3"
+  },
+  "title": "Reducing time-to-start",
+  "summary": "We're reducing time-to-start by optimizing EC2 instance boot time, infrastructure provisioning, and improving UI and CLI flows to reduce unnecessary steps.",
+  "published_at": "2023-10-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/10/3e/3e80fe6fb93a71e748fbf58a456f88f088d75fc380c952d3f138b40ec5247f63/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/10/3e/3e80fe6fb93a71e748fbf58a456f88f088d75fc380c952d3f138b40ec5247f63/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9795,
+    "sha256": "sha256:b68204e73c2104de12b98dcd4ebb879183183a1d0265ca51cbba4769f3b0e329",
+    "normalized_content_hash": "sha256:74775712e46d60262359ed5b92847483f5b79707e3c8e0870bed906330332b6d"
+  },
+  "provenance": {
+    "source_item_id": "a6812ea8-5d9b-45e4-b39e-b9ad2cd8752b",
+    "external_id": "https://depot.dev/blog/infrastructure-provisioner-v3"
+  }
+}

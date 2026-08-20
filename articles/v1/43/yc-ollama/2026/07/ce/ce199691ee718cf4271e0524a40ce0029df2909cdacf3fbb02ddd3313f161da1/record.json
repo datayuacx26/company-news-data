@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce199691ee718cf4271e0524a40ce0029df2909cdacf3fbb02ddd3313f161da1",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/gpt-oss-safeguard",
+    "canonical": "https://ollama.com/blog/gpt-oss-safeguard"
+  },
+  "title": "OpenAI gpt-oss-safeguard",
+  "summary": "Ollama is partnering with OpenAI and ROOST (Robust Open Online Safety Tools) to bring the latest gpt-oss-safeguard reasoning models to users for safety classification tasks. gpt-oss-safeguard models are available in two sizes: 20B and 120B, and are permissively licensed under the Apache 2.0 license.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:14:45.991039+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:53:45.811279+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/ce/ce199691ee718cf4271e0524a40ce0029df2909cdacf3fbb02ddd3313f161da1/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/ce/ce199691ee718cf4271e0524a40ce0029df2909cdacf3fbb02ddd3313f161da1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4186,
+    "sha256": "sha256:f985260efdde7f3dcd9002ea328bcf7939d1014143c5a0c5ed578d186bad9af8",
+    "normalized_content_hash": "sha256:c245eef019f79cf827e95d9c9b57ddfdd26e2b75f3bbe426a74ed48b5bc8f9a8"
+  },
+  "provenance": {
+    "source_item_id": "984d1071-993f-40fc-b2ec-8b59816d7c72",
+    "external_id": "https://ollama.com/blog/gpt-oss-safeguard"
+  }
+}

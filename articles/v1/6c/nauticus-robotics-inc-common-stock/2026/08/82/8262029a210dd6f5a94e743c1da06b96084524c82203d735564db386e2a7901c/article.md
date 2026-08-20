@@ -1,0 +1,1371 @@
+---
+schema_version: "1.0.0"
+document_id: "8262029a210dd6f5a94e743c1da06b96084524c82203d735564db386e2a7901c"
+company_key: "nauticus-robotics-inc-common-stock"
+company: "Nauticus Robotics Inc."
+source_id: "nauticus-robotics-inc-common-stock-news-import-e00a694c34e8"
+canonical_url: "https://ir.nauticusrobotics.com/news-events/press-releases/detail/122/nauticus-robotics-inc-reports-second-quarter-2026-results"
+published_at: "2026-08-12T17:25:00+00:00"
+first_seen_at: "2026-08-13T03:08:27.817097+00:00"
+fetched_at: "2026-08-13T03:08:29.155251+00:00"
+content_hash: "sha256:61e3cb28a33bae578d8569232d7f808b2d7cf62a25335feba48913eea1463982"
+---
+
+# Nauticus Robotics, Inc. Reports Second Quarter 2026 Results and Advances Commercialization Strategy
+
+*Nauticus ToolKITT* *™* *Commercial Release, Market Diversification and Defense Opportunities Expand Growth Pathways*
+
+
+HOUSTON
+
+
+, Aug. 12, 2026
+
+
+/PRNewswire/ --[Nauticus Robotics, Inc.](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4751084-1&h=2425460699&u=https%3A%2F%2Fnauticusrobotics.com%2F&a=Nauticus+Robotics%2C+Inc.) ("Nauticus" or "Company") (NASDAQ: KITT), a leading innovator in subsea robotics and software, today announced its financial results for the quarter ended June 30, 2026.
+
+
+John Gibson, Nauticus President and CEO, stated, "During the second quarter, we continued adapting our business to current market conditions while making important progress toward a more diversified and technology-driven revenue model. We advanced opportunities across key sectors and successfully demonstrated our capabilities in customer operations.
+
+
+The commercial release of Nauticus ToolKITT™ represents an important step in our strategy to build recurring technology revenue alongside our services business. As we move through the second half of the year, our focus remains on converting these capabilities into commercial opportunities while maintaining disciplined execution and financial flexibility."
+
+
+**STRATEGIC AND OPERATIONAL HIGHLIGHTS**
+
+
+**Nauticus ToolKITT Commercialization**
+
+
+During the quarter, Nauticus successfully deployed a Comanche ROV integrated with Nauticus ToolKITT in customer operations. The system demonstrated improved operating efficiency and reduced pilot workload, providing additional field validation of the Company's software-enabled approach to subsea operations.
+
+
+Nauticus also released its Nauticus ToolKITT software for ROVs. The platform is now being marketed to underwater fleet operators across energy and defense markets.
+
+
+**Expanding Market Reach**
+
+
+While offshore oil and gas activity off the US Gulf Coast remained challenging, Nauticus continued diversifying its commercial pipeline.
+
+
+The Company expanded its presence in offshore wind along the US East Coast, completed work with a major global subsea cable-laying company, and is pursuing additional opportunities on the US West Coast and Internationally.
+
+
+Nauticus is also evolving its international commercial model to pursue opportunities where the Company can serve as the primary contractor and capture more of the economic benefit created by its autonomous technology.
+
+
+**Defense and Government Opportunities**
+
+
+Nauticus increased its near-term focus on defense and government markets during the quarter, where demand for autonomous systems, subsea awareness and infrastructure security aligns closely with the Company's existing technology portfolio.
+
+
+The Company completed an initial scope of work intended to support the evaluation of a broader multiphase defense opportunity. If awarded, the Company anticipates the potential for associated revenue in 2026 and 2027.
+
+
+Nauticus is also participating in collaborative proposal efforts involving government, commercial, defense, and academic organizations evaluating autonomous approaches to persistent subsea sensing infrastructure.
+
+
+**Technical Development**
+
+
+The Company completed the prototype of its next-generation electric manipulator and began functional and load testing. Nauticus believes the system can provide a lower-cost manufacturing pathway while supporting future commercial and defense applications requiring autonomous subsea interaction.
+
+
+Aquanaut® also completed the planned freshwater phase of autonomous mooring line and riser inspection workflows at the Company's Florida test location. Further testing will require access to an appropriate intermediate offshore environment and will depend on customer budget cycles and site availability.
+
+
+**CUSTOMER DEMAND AND OUTLOOK**
+
+
+Nauticus is working to build a broader and more predictable revenue model by increasing pipeline coverage, expanding geographically, growing direct contracting opportunities, and adding software and technology revenue alongside its services business.
+
+
+The Company is increasing sales activity across International and defense markets while pursuing opportunities designed to better capture the operational efficiencies generated by its autonomous technology.
+
+
+Management expects Nauticus ToolKITT commercialization, international expansion, defense and government opportunities, and continued technology validation to provide additional pathways for future bookings and backlog growth.
+
+
+**FINANCIAL HIGHLIGHTS**
+
+
+**Revenue** : Nauticus reported second-quarter revenue of $0.9 million, compared to $2.1 million for the prior-year period and $0.2 million for the prior quarter.
+
+
+**Operating Expenses** : Total expenses during the second quarter were $6.9 million, a $1.6 million decrease from the prior-year period and a $1 million increase from Q1 2026.
+
+
+**Adjusted Net Loss** : Nauticus reported adjusted net loss of $7.0 million for the second quarter, compared to an adjusted net loss of $7.46 million for the same period in 2025 and an adjusted net loss of $6.4 million for Q1 2026. Adjusted net loss is a non-GAAP measure which excludes the impact of certain items, as shown in the non-GAAP reconciliation table below.
+
+
+**Net Loss:** For the second quarter, Nauticus recorded a net loss of $11.1 million, or basic loss per share of $2.30. This compares with a net loss of $7.4 million from the same period in 2025, and a net loss of $9.3 million in the prior quarter.
+
+
+**G&A Cost:** Nauticus reported G&A second-quarter costs of $3.3 million, which is a decrease of $1.1 million compared to the same period in 2025 and a $0.1 million increase from the first quarter in 2026.
+
+
+**Balance Sheet and Liquidity**
+
+
+As of June 30, 2026, the Company had cash, cash equivalents, and restricted cash of $2.0 million, compared to $7.6 million as of December 31, 2025.
+
+
+**CONFERENCE CALL DETAILS**
+
+
+Nauticus will host a conference call on August 13, 2026 at 9:00 a.m. Central Time to discuss its results for the quarter ended June 30, 2026. To participate in the earnings conference call, participants should dial toll free at +1-833-461-5787, conference ID: 989 652 904, or access the listen-only webcast at the following link:[https://events.q4inc.com/attendee/989652904](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4751084-1&h=3346240391&u=https%3A%2F%2Fevents.q4inc.com%2Fattendee%2F989652904&a=https%3A%2F%2Fevents.q4inc.com%2Fattendee%2F989652904) . A link to the webcast will also be available on the Company's IR website ([https://ir.nauticusrobotics.com/](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4751084-1&h=2311759949&u=https%3A%2F%2Fir.nauticusrobotics.com%2F&a=https%3A%2F%2Fir.nauticusrobotics.com%2F) ). Following the conclusion of the call, a recording will be available on the Company's website.
+
+
+About Nauticus Robotics, Inc.
+
+
+Nauticus Robotics, Inc. develops autonomous robots for the ocean industries. Autonomy requires the extensive use of sensors, artificial intelligence, and effective algorithms for perception and decision-making allowing the robot to adapt to changing environments. The company's business model includes using robotic systems for service, selling vehicles and components, and licensing of related software to both the commercial and defense business sectors. Nauticus has designed and is currently testing and certifying a new generation of vehicles to reduce operational cost and gather data to maintain and operate a wide variety of subsea infrastructure. Besides a standalone service offering and forward-facing products, Nauticus' approach to ocean robotics has also resulted in the development of a range of technology products for retrofit/upgrading traditional ROV operations and other third-party vehicle platforms. Nauticus' services provide customers with the necessary data collection, analytics, and subsea manipulation capabilities to support and maintain assets while reducing their operational footprint, operating cost, and greenhouse gas emissions, to improve offshore health, safety, and environmental exposure.[www.nauticusrobotics.com](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4751084-1&h=3500543066&u=http%3A%2F%2Fwww.nauticusrobotics.com%2F&a=www.nauticusrobotics.com)
+
+
+Cautionary Language Regarding Forward-Looking Statements
+
+
+This press release contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the "Act"), and such statements are intended to enjoy the protection of the safe harbor for forward-looking statements provided by the Act as well as protections afforded by other federal securities laws. Such forward-looking statements include but are not limited to: the expected timing of product commercialization or new product releases; customer interest in Nauticus' products; estimated operating results and use of cash; and Nauticus' use of and needs for capital. Generally, statements that are not historical facts, including statements concerning possible or assumed future actions, business strategies, events, or results of operations, are forward-looking statements. These statements may be preceded by, followed by, or include the words "believes," "estimates," "expects," "projects," "forecasts," "may," "will," "should," "seeks," "plans," "scheduled," "anticipates," "intends," or "continue" or similar expressions. Forward-looking statements inherently involve risks and uncertainties that may cause actual events, results, or performance to differ materially from those indicated by such statements. These forward-looking statements are based on Nauticus' management's current expectations and beliefs, as well as a number of assumptions concerning future events. There can be no assurance that the events, results, or trends identified in these forward-looking statements will occur or be achieved. Forward-looking statements speak only as of the date they are made, and Nauticus is not under any obligation and expressly disclaims any obligation, to update, alter, or otherwise revise any forward-looking statement, whether as a result of new information, future events, or otherwise, except as required by law. Readers should carefully review the statements set forth in the reports which Nauticus has filed or will file from time to time with the Securities and Exchange Commission (the "SEC") for a more complete discussion of the risks and uncertainties facing the Company and that could cause actual outcomes to be materially different from those indicated in the forward-looking statements made by the Company, in particular the sections entitled "Risk Factors" and "Cautionary Note Regarding Forward-Looking Statements" in documents filed from time to time with the SEC, including Nauticus' most recent Annual Report on Form 10-K filed with the SEC and Quarterly Reports on Form 10-Q filed with the SEC from time to time. Should one or more of these risks, uncertainties, or other factors materialize, or should assumptions underlying the forward-looking information or statements prove incorrect, actual results may vary materially from those described herein as intended, planned, anticipated, believed, estimated, or expected. The documents filed by Nauticus with the SEC may be obtained free of charge at the SEC's website at[www.sec.gov](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4751084-1&h=669532698&u=http%3A%2F%2Fwww.sec.gov%2F&a=www.sec.gov)
+
+
+**NAUTICUS ROBOTICS, INC.**
+
+
+**UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS**
+
+
+**June 30,**
+**2026 (Unaudited)**
+
+
+**December 31,**
+**2025**
+
+
+(Unaudited)
+
+
+**Assets**
+
+
+Current Assets:
+
+
+Cash and cash equivalents
+
+
+$1,372,758
+
+
+$7,016,610
+
+
+Restricted cash
+
+
+604,291
+
+
+600,342
+
+
+Accounts receivable, net
+
+
+841,071
+
+
+378,683
+
+
+Prepaid expenses
+
+
+1,059,171
+
+
+1,055,324
+
+
+Other current assets
+
+
+188,739
+
+
+203,025
+
+
+Total Current Assets
+
+
+4,066,030
+
+
+9,253,984
+
+
+Property and equipment, net
+
+
+20,600,075
+
+
+21,827,769
+
+
+Operating lease right-of-use assets, net
+
+
+373,183
+
+
+559,005
+
+
+Other assets
+
+
+110,360
+
+
+91,276
+
+
+Goodwill
+
+
+9,600,745
+
+
+9,600,745
+
+
+Intangible assets, net
+
+
+1,179,116
+
+
+1,276,916
+
+
+Total Assets
+
+
+$35,929,509
+
+
+$42,609,695
+
+
+Liabilities and Stockholders' Equity
+
+
+Current Liabilities:
+
+
+Accounts payable
+
+
+$1,853,702
+
+
+$3,128,459
+
+
+Accrued liabilities
+
+
+6,411,373
+
+
+9,807,668
+
+
+Operating lease liabilities - current
+
+
+418,606
+
+
+434,200
+
+
+Notes payable - current
+
+
+2,540,250
+
+
+2,628,234
+
+
+November 2024 Debentures - current, fair value option (related
+party)
+
+
+2,729,000
+
+
+163,672
+
+
+Senior Secured Convertible Term Loan - current, net of discount
+(related party)
+
+
+14,988,777
+
+
+14,113,871
+
+
+Senior Secured Convertible Term Loan - current, net of discount
+
+
+1,351,260
+
+
+4,939,247
+
+
+Other liabilities
+
+
+192,473
+
+
+160,110
+
+
+Total Current Liabilities
+
+
+30,485,441
+
+
+35,375,461
+
+
+Warrant liabilities
+
+
+1,938
+
+
+11,281
+
+
+Operating lease liabilities - long-term
+
+
+9,364
+
+
+203,547
+
+
+Derivative liability
+
+
+251,000
+
+
+-
+
+
+Total Liabilities
+
+
+$30,747,743
+
+
+$35,590,289
+
+
+Stockholders' Equity:
+
+
+Preferred Stock - Series A
+
+
+$1
+
+
+$1
+
+
+Preferred Stock - Series B
+
+
+-
+
+
+-
+
+
+Preferred Stock - Series C
+
+
+-
+
+
+-
+
+
+Common stock*
+
+
+688
+
+
+360
+
+
+Additional paid-in capital
+
+
+349,531,016
+
+
+330,581,384
+
+
+Accumulated other comprehensive loss
+
+
+(42,229)
+
+
+(42,229)
+
+
+Accumulated deficit
+
+
+(344,307,710)
+
+
+(323,520,110)
+
+
+Total Stockholders' Equity
+
+
+5,181,766
+
+
+7,019,406
+
+
+Total Liabilities and Stockholders' Equity
+
+
+$35,929,509
+
+
+$42,609,695
+
+
+*Reflects the 1-for-8 effected April 21, 2026.
+
+
+**NAUTICUS ROBOTICS, INC.**
+
+
+**UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS**
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**6/30/2026**
+
+
+**3/31/2026**
+
+
+**6/30/2025**
+
+
+**6/30/2026**
+
+
+**6/30/2025**
+
+
+**Revenue:**
+
+
+Service
+
+
+$885,947
+
+
+$159,575
+
+
+$2,075,566
+
+
+$1,045,521
+
+
+$2,240,822
+
+
+Total revenue
+
+
+885,947
+
+
+159,575
+
+
+2,075,566
+
+
+1,045,521
+
+
+2,240,822
+
+
+Costs and expenses:
+
+
+Cost of revenue
+(exclusive of items
+shown separately below)
+
+
+2,867,556
+
+
+1,993,894
+
+
+3,504,043
+
+
+4,861,449
+
+
+4,743,000
+
+
+Depreciation and
+amortization
+
+
+702,418
+
+
+624,791
+
+
+574,563
+
+
+1,327,210
+
+
+1,054,939
+
+
+General and
+administrative
+
+
+3,324,365
+
+
+3,224,907
+
+
+4,418,187
+
+
+6,549,272
+
+
+8,777,873
+
+
+Total costs and expenses
+
+
+6,894,339
+
+
+5,843,592
+
+
+8,496,793
+
+
+12,737,931
+
+
+14,575,812
+
+
+**Operating loss**
+
+
+(6,008,392)
+
+
+(5,684,017)
+
+
+(6,421,227)
+
+
+(11,692,410)
+
+
+(12,334,990)
+
+
+**Other (income) expense, net:**
+
+
+Other (income) expense,
+net
+
+
+10,142
+
+
+(3,145)
+
+
+2,461
+
+
+6,994
+
+
+(134,936)
+
+
+Foreign currency
+transaction loss
+
+
+6,514
+
+
+970
+
+
+274
+
+
+7,484
+
+
+3,541
+
+
+Loss on extinguishment
+of debt
+
+
+4,629,822
+
+
+929,508
+
+
+-
+
+
+5,559,330
+
+
+-
+
+
+Change in fair value of
+derivative
+
+
+(264,827)
+
+
+515,827
+
+
+-
+
+
+251,000
+
+
+-
+
+
+Change in fair value of
+warrant liabilities
+
+
+(6,325)
+
+
+(3,019)
+
+
+8,757
+
+
+(9,344)
+
+
+(42,131)
+
+
+Change in fair value of
+November 2024
+Debentures
+
+
+(94,728)
+
+
+1,188,840
+
+
+(187,866)
+
+
+1,094,112
+
+
+536,060
+
+
+Interest expense, net
+
+
+826,982
+
+
+953,083
+
+
+1,209,323
+
+
+1,780,066
+
+
+2,323,839
+
+
+Total other expense, net
+
+
+5,107,580
+
+
+3,582,064
+
+
+1,032,949
+
+
+8,689,642
+
+
+2,686,373
+
+
+**Net loss**
+
+
+$(11,115,972)
+
+
+$(9,266,081)
+
+
+$(7,454,176)
+
+
+$(20,382,052)
+
+
+$(15,021,363)
+
+
+Basic and diluted loss per
+share*
+
+
+(2.30)
+
+
+(2.46)
+
+
+(18.50)
+
+
+(4.51)
+
+
+(38.31)
+
+
+Basic and diluted
+weighted average shares
+outstanding*
+
+
+5,367,986
+
+
+3,840,563
+
+
+402,876
+
+
+4,608,495
+
+
+392,105
+
+
+* Reflects the 1-for-9 reverse split effected September 5, 2025 and the 1-for-8 effected April 21, 2026.
+
+
+**NAUTICUS ROBOTICS, INC.**
+
+
+**UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS**
+
+
+**Six months ended June 30,**
+
+
+**2026**
+
+
+**2025**
+
+
+**Cash flows from operating activities:**
+
+
+Net loss
+
+
+$(20,382,052)
+
+
+$(15,021,363)
+
+
+Adjustments to reconcile net loss to net cash used in operating activities:
+
+
+Depreciation and amortization
+
+
+1,327,210
+
+
+1,054,939
+
+
+Accretion of debt discount
+
+
+24,329
+
+
+19,920
+
+
+Amortization of debt issuance cost
+
+
+244,023
+
+
+350,303
+
+
+Capitalized paid-in-kind (PIK) interest
+
+
+365,288
+
+
+338,782
+
+
+Accretion of exit fee, net of amount settled on conversion
+
+
+(59,824)
+
+
+48,624
+
+
+Stock-based compensation
+
+
+541,413
+
+
+570,015
+
+
+Change in fair value of warrant liabilities
+
+
+(9,344)
+
+
+(42,131)
+
+
+Change in fair value of November 2024 Debentures
+
+
+1,094,112
+
+
+536,060
+
+
+Loss on extinguishment of debt
+
+
+5,559,330
+
+
+-
+
+
+Change in fair value of derivative
+
+
+251,000
+
+
+-
+
+
+Non-cash lease expense
+
+
+185,822
+
+
+205,688
+
+
+Loss on disposal of assets
+
+
+8,057
+
+
+-
+
+
+Changes in operating assets and liabilities:
+
+
+Accounts receivable
+
+
+(462,388)
+
+
+(1,906,246)
+
+
+Inventories
+
+
+-
+
+
+42,553
+
+
+Other assets
+
+
+(8,647)
+
+
+2,207
+
+
+Accounts payable, accrued and other liabilities
+
+
+(2,593,881)
+
+
+20,083
+
+
+Contract liabilities
+
+
+-
+
+
+(2,786)
+
+
+Operating lease liabilities
+
+
+(209,777)
+
+
+(222,228)
+
+
+Net cash used in operating activities
+
+
+(14,125,329)
+
+
+(14,005,580)
+
+
+**Cash flows from investing activities:**
+
+
+Capital expenditures
+
+
+(14,287)
+
+
+(47,239)
+
+
+Acquisition of business, net of cash acquired
+
+
+-
+
+
+(3,871,992)
+
+
+Proceeds from sale of property and equipment
+
+
+4,515
+
+
+(500)
+
+
+Net cash used in investing activities
+
+
+(9,772)
+
+
+(3,919,731)
+
+
+**Cash flows from financing activities:**
+
+
+Proceeds from At the Market (ATM) offering, net
+
+
+4,063,929
+
+
+19,438,121
+
+
+Proceeds from November 2024 Debentures
+
+
+4,485,000
+
+
+-
+
+
+Repayment on AmeriState Loan
+
+
+(53,731)
+
+
+(34,581)
+
+
+Net cash provided by financing activities
+
+
+8,495,198
+
+
+19,403,540
+
+
+**Net change in cash and cash equivalents**
+
+
+(5,639,903)
+
+
+1,478,229
+
+
+Cash, cash equivalents and restricted cash, beginning of period
+
+
+7,616,952
+
+
+1,238,198
+
+
+Cash, cash equivalents and restricted cash, end of period
+
+
+$1,977,049
+
+
+$2,716,427
+
+
+**NAUTICUS ROBOTICS, INC.** **UNAUDITED RECONCILIATION OF NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS (GAAP) TO ADJUSTED NET LOSS ATTRIBUTABLE TO COMMON STOCKHOLDERS (NON-GAAP)**
+
+
+Adjusted net loss attributable to common stockholders is a non-GAAP financial measure which excludes certain items that are included in net loss attributable to common stockholders, the most directly comparable GAAP financial measure. Items excluded are those which the Company believes affect the comparability of operating results and are typically excluded from published estimates by the investment community, including items whose timing and/or amount cannot be reasonably estimated or are non-recurring.
+
+
+Adjusted net loss attributable to common stockholders is presented because management believes it provides useful additional information to investors for analysis of the Company's fundamental business on a recurring basis. In addition, management believes that adjusted net loss attributable to common stockholders is widely used by professional research analysts and others in the valuation, comparison, and investment recommendations of companies such as Nauticus.
+
+
+Adjusted net loss attributable to common stockholders should not be considered in isolation or as a substitute for net loss attributable to common stockholders or any other measure of a company's financial performance or profitability presented in accordance with GAAP. A reconciliation of the differences between net loss attributable to common stockholders and adjusted net loss attributable to common stockholders is presented below. Because adjusted net loss attributable to common stockholders excludes some, but not all, items that affect net loss attributable to common stockholders and may vary among companies, our calculation of adjusted net loss attributable to common stockholders may not be comparable to similarly titled measures of other companies.
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**6/30/2026**
+
+
+**3/31/2026**
+
+
+**6/30/2025**
+
+
+**6/30/2026**
+
+
+**6/30/2025**
+
+
+**Net loss attributable to common stockholders (GAAP)**
+
+
+$(11,330,270)
+
+
+$(9,457,331)
+
+
+$(7,454,176)
+
+
+$(20,787,600)
+
+
+$(15,021,363)
+
+
+Loss on extinguishment
+of debt
+
+
+4,629,822
+
+
+929,508
+
+
+-
+
+
+5,559,330
+
+
+-
+
+
+Change in fair value of
+derivative
+
+
+(264,827)
+
+
+515,827
+
+
+-
+
+
+251,000
+
+
+-
+
+
+Change in fair value of
+warrant liabilities
+
+
+(6,325)
+
+
+(3,019)
+
+
+8,757
+
+
+(9,344)
+
+
+(42,131)
+
+
+Change in fair value of
+November 2024
+Debentures
+
+
+(94,728)
+
+
+1,188,840
+
+
+(187,866)
+
+
+1,094,112
+
+
+536,060
+
+
+Preferred stock dividend
+
+
+(214,298)
+
+
+191,250
+
+
+-
+
+
+(405,548)
+
+
+-
+
+
+Deemed dividends for
+Series A, B and C
+Convertible Preferred
+Stock
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+Stock compensation
+expense
+
+
+315,861
+
+
+225,552
+
+
+257,336
+
+
+541,413
+
+
+570,015
+
+
+Adjusted net loss
+attributable to common
+stockholders (non-GAAP)
+
+
+$(6,964,766)
+
+
+(6,409,373)
+
+
+$(7,375,949)
+
+
+$(13,756,638)
+
+
+(13,957,419)
+
+
+View original content to download multimedia:[https://www.prnewswire.com/news-releases/nauticus-robotics-inc-reports-second-quarter-2026-results-and-advances-commercialization-strategy-302850169.html](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-reports-second-quarter-2026-results-and-advances-commercialization-strategy-302850169.html)
+
+
+SOURCE Nauticus Robotics, Inc.

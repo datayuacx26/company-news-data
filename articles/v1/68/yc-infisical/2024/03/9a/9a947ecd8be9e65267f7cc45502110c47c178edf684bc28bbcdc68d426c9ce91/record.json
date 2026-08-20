@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9a947ecd8be9e65267f7cc45502110c47c178edf684bc28bbcdc68d426c9ce91",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/postgresql-migration-technical",
+    "canonical": "https://infisical.com/blog/postgresql-migration-technical"
+  },
+  "title": "The Great Migration from MongoDB to PostgreSQL",
+  "summary": "How Infisical migrated from MongoDB to PostgreSQL.",
+  "published_at": "2024-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T22:26:05.625622+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2024/03/9a/9a947ecd8be9e65267f7cc45502110c47c178edf684bc28bbcdc68d426c9ce91/article.md",
+    "record": "articles/v1/68/yc-infisical/2024/03/9a/9a947ecd8be9e65267f7cc45502110c47c178edf684bc28bbcdc68d426c9ce91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15001,
+    "sha256": "sha256:272aab03faa7bd5596848e49750d10a7a672e561b89257ef86aede8594dc1bed",
+    "normalized_content_hash": "sha256:988352469c378c29d8c9ef006878eaaa4b2670907e48f58ef6158c2528be9ab8"
+  },
+  "provenance": {
+    "source_item_id": "ec2afb87-f56e-4687-84e1-945229e70dc5",
+    "external_id": "https://infisical.com/blog/postgresql-migration-technical"
+  }
+}

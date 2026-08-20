@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4555e10ded4f52c347800e94246068c882c18998fd6413786835cf504a95e8b4",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/llm-as-a-judge",
+    "canonical": "https://mastra.ai/articles/llm-as-a-judge"
+  },
+  "title": "LLM as a judge: how to evaluate LLM and agent outputs at scale",
+  "summary": "Learn what LLM as a judge is, how to build a reliable LLM judge, avoid bias, and evaluate agent outputs at scale with prompting and calibration methods.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T12:39:25.041167+00:00",
+  "fetched_at": "2026-08-13T12:39:27.012997+00:00",
+  "last_updated_at": "2026-08-19T17:03:16.585808+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/08/45/4555e10ded4f52c347800e94246068c882c18998fd6413786835cf504a95e8b4/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/08/45/4555e10ded4f52c347800e94246068c882c18998fd6413786835cf504a95e8b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27985,
+    "sha256": "sha256:7efb9ea5d5f8caa328aa22c56c84133733caa94d6c35609bba8fac9332062c6e",
+    "normalized_content_hash": "sha256:c2624c9b20f2f15bb67fa9ce08049027b93fdaeb5bc4af5aed2a9f13c70ef0fd"
+  },
+  "provenance": {
+    "source_item_id": "5fdc2105-ae96-4487-b3fe-98c531c21c52",
+    "external_id": "https://mastra.ai/articles/llm-as-a-judge"
+  }
+}

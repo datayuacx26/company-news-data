@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20f305a94a2a9ea41dadf225ff65b1802725b948ce476dd995344178387584aa",
+  "company": {
+    "key": "yc-firezone",
+    "name": "Firezone"
+  },
+  "source": {
+    "id": "yc-firezone-news-import-75fbee21a5d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firezone.dev/blog/devlog/2026-03",
+    "canonical": "https://www.firezone.dev/blog/devlog/2026-03"
+  },
+  "title": "March 2026 Devlog",
+  "summary": "Engineering recap for March 2026 — 25% lower client and gateway CPU usage, Google Workspace group filtering, DNS fixes.",
+  "published_at": "2026-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:10:10.796715+00:00",
+  "fetched_at": "2026-07-28T22:16:23.597827+00:00",
+  "last_updated_at": "2026-08-19T17:51:33.681966+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-firezone/2026/03/20/20f305a94a2a9ea41dadf225ff65b1802725b948ce476dd995344178387584aa/article.md",
+    "record": "articles/v1/79/yc-firezone/2026/03/20/20f305a94a2a9ea41dadf225ff65b1802725b948ce476dd995344178387584aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3897,
+    "sha256": "sha256:74674ef4fd533228eb4f61a84583d0269fd628b88a14c36239b8b6ba245f815c",
+    "normalized_content_hash": "sha256:99c327011eb35d755188da94ecc9b60a84f800e426c6207f2ff552947113c7ec"
+  },
+  "provenance": {
+    "source_item_id": "b0cddc95-204f-4c27-a53e-76ecc52b2e31",
+    "external_id": "https://www.firezone.dev/blog/devlog/2026-03"
+  }
+}

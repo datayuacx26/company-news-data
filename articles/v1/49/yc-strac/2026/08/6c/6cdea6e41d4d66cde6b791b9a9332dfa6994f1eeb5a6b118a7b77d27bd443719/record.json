@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cdea6e41d4d66cde6b791b9a9332dfa6994f1eeb5a6b118a7b77d27bd443719",
+  "company": {
+    "key": "yc-strac",
+    "name": "Strac"
+  },
+  "source": {
+    "id": "yc-strac-news-import-28a26672fe0a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.strac.io/blog/pci-dss-pan-masking",
+    "canonical": "https://www.strac.io/blog/pci-dss-pan-masking"
+  },
+  "title": "PCI DSS PAN Masking: How to Protect Credit Card Data Across SaaS Apps",
+  "summary": "How to Meet PCI DSS PAN Masking Requirements and Protect Credit Card Data in Modern SaaS Applications",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:01:18.002959+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-20T01:00:19.326006+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-strac/2026/08/6c/6cdea6e41d4d66cde6b791b9a9332dfa6994f1eeb5a6b118a7b77d27bd443719/article.md",
+    "record": "articles/v1/49/yc-strac/2026/08/6c/6cdea6e41d4d66cde6b791b9a9332dfa6994f1eeb5a6b118a7b77d27bd443719/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8500,
+    "sha256": "sha256:415aa039eb0527cd4e46c0a73cc5d360def279b718658390347119bb5c303ebe",
+    "normalized_content_hash": "sha256:a9d517b9a6bf90d562381b9073725832e6110b60273ac043ba1f136403464338"
+  },
+  "provenance": {
+    "source_item_id": "c9c47618-c797-4789-bf18-e8551f977c9a",
+    "external_id": "https://www.strac.io/blog/pci-dss-pan-masking"
+  }
+}

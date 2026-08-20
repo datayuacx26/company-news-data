@@ -1,0 +1,97 @@
+---
+schema_version: "1.0.0"
+document_id: "ee0ad7612daee6042ce188e7da32d7be089806e92d9a24cb0d8d802a905f1664"
+company_key: "yc-probo"
+company: "Probo"
+source_id: "yc-probo-news-import-3a271dc478c5"
+canonical_url: "https://www.probo.com/blog/2026-03-26-google-workspace-default-settings-are-insecure"
+published_at: "2026-03-26T00:00:00+00:00"
+first_seen_at: "2026-07-23T21:15:07.485964+00:00"
+fetched_at: "2026-07-28T22:17:35.086279+00:00"
+content_hash: "sha256:b347ec7c48ba4ab2497a45877cbdf947af0718df5c144ffb2b4998d6ffe70c75"
+---
+
+# 5 Google Workspace Settings to Fix for SOC 2 & ISO 27001
+
+Google Workspace ships with default settings that leave companies exposed. Not in a subtle way. In obvious ways that any security person would flag in five minutes.
+
+
+This isn’t a bug. Google favors frictionless onboarding over secure defaults. The easier it is to sign up and start using everything, the more people adopt their products. That’s a reasonable business choice for Google, but it means the security part is left to you.
+
+
+Here are five settings to fix right now. If you’re working toward[SOC 2](https://www.probo.com/blog/2025-10-28-what-is-soc2) or[ISO 27001](https://www.probo.com/blog/2025-10-08-soc2-or-iso27001) , every one of these maps to controls your auditor will check.
+
+
+## 2FA is not enforced by default
+
+
+In 2026, two-factor authentication is still optional by default on Google Workspace. Any employee can log in with just a password. One weak password, one phished credential, and someone’s in your systems.
+
+
+Go to **Admin Console → Security → Authentication → 2-Step Verification** . Turn on enforcement for the entire organization, pick a deadline, and after that date nobody logs in without 2FA.
+
+
+## Google Sign-In with broad scopes is allowed everywhere
+
+
+By default, employees can use “Sign in with Google” on any third-party app. When someone clicks that button, they often grant the app access to their email, contacts, Drive files, everything. Every employee can hand company data to any SaaS tool without anyone knowing.
+
+
+That’s how shadow IT grows and how data leaks happen. Some of these apps will also ping every collaborator in the organization, so tools nobody approved end up reaching people nobody intended.
+
+
+Go to **Admin Console → Security → API Controls → Third-party app access** . Block all third-party apps by default. Only allow “Sign in with email”, the basic scope that shares nothing beyond the email address. If an employee needs to connect a tool to Drive or anything else, they request it, an admin reviews it, and there’s a record of what was approved.
+
+
+## DKIM, DMARC, and SPF are not enabled by default
+
+
+Google Workspace doesn’t set up DKIM, DMARC, or SPF for your domain. Without these, anyone on the internet can send emails pretending to be you. Clients, partners, employees, they have no way to tell the email is fake. These three protocols exist specifically to prevent email spoofing, and they’re not turned on out of the box.
+
+
+**SPF:** Add a TXT record to your DNS:` v=spf1 include:_spf.google.com ~all` . This tells receiving servers that only Google is allowed to send email for your domain.
+
+
+**DKIM:** Go to **Admin Console → Apps → Google Workspace → Gmail → Authenticate Email** . Generate the DKIM key and add the TXT record to your DNS.
+
+
+**DMARC:** Add a TXT record:` v=DMARC1; p=none; rua=mailto:dmarc-reports@yourdomain.com` . Start with` p=none` to monitor, then move to` p=quarantine` , then` p=reject` once everything looks clean.
+
+
+Cloudflare offers free DMARC monitoring. It shows who’s sending email on behalf of your domain. Once the reports are clean, switch to reject and spoofed emails get blocked before they reach anyone.
+
+
+The whole setup is free and takes about thirty minutes.
+
+
+## Gmail security settings are too permissive
+
+
+Gmail has built-in protections against malicious attachments, suspicious links, and spoofing attempts. Most of them are not fully enabled by default.
+
+
+Go to **Admin Console → Apps → Google Workspace → Gmail → Safety** . Turn on enhanced pre-delivery message scanning, it makes Gmail analyze attachments and links before they reach the inbox. Enable protection against encrypted attachments from untrusted senders, scripts from untrusted senders, and anomalous attachment types. Also turn on the protections against links behind shortened URLs and against links that point to untrusted domains.
+
+
+These settings exist. They work. They’re just sitting there waiting for someone to flip them on.
+
+
+## Set a session timeout
+
+
+By default, Google sessions stay alive for a very long time. If someone steals a session cookie, they have access for as long as that session lives.
+
+
+Go to **Admin Console → Security → Google session control** . A good default is 1 week. If that feels too aggressive, 30 days is the absolute maximum. Re-authenticating once a week takes a few seconds. Leaving sessions open for months is a risk nobody needs to take.
+
+
+## Wrap up
+
+
+Most companies assume this stuff works out of the box. It doesn’t. And that’s what makes it so frustrating, because these are just settings. Not expensive tools, not a security team, not a consulting engagement. Just settings that Google left off.
+
+
+For a small company, it takes about one hour. If you need a broader view of[what steps to take toward compliance](https://www.probo.com/blog/2025-09-11-what-are-the-steps-toward-compliance) , we have a guide for that. For a bigger one, the shadow IT cleanup will take longer because you’ll find dozens of apps already connected that nobody remembers approving. That part can be ugly, but that’s also why you can’t skip it.
+
+
+Your team won’t even notice most of these changes. But your company will be way harder to attack. For another quick security win, see our[Stripe security checklist](https://www.probo.com/blog/2026-03-31-stripe-security-101) covering 2FA, SSO, and payout settings.

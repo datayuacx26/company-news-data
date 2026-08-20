@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f534040f8b951334e9dea40bf284686c8bb336e2541146dfb9907143e32189e1",
+  "company": {
+    "key": "yc-pinnacle",
+    "name": "Pinnacle"
+  },
+  "source": {
+    "id": "yc-pinnacle-news-import-eb12d43fa2a4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pinnacle.sh/blog/pinnacle-simulate-endpoints",
+    "canonical": "https://pinnacle.sh/blog/pinnacle-simulate-endpoints"
+  },
+  "title": "Test Your RCS Flows with Pinnacle's Simulate Endpoints",
+  "summary": "Pinnacle's simulate endpoint lets you trigger inbound messages, button taps, and location events in your dev environment — no real device required.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T09:08:45.431702+00:00",
+  "fetched_at": "2026-07-28T22:15:36.111958+00:00",
+  "last_updated_at": "2026-08-19T19:58:36.757593+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-pinnacle/2026/04/f5/f534040f8b951334e9dea40bf284686c8bb336e2541146dfb9907143e32189e1/article.md",
+    "record": "articles/v1/49/yc-pinnacle/2026/04/f5/f534040f8b951334e9dea40bf284686c8bb336e2541146dfb9907143e32189e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8915,
+    "sha256": "sha256:4b5a6d86b93e9e66b5ed9bcf5652eea0eed5cbe055ed753cd9763c15d31d251f",
+    "normalized_content_hash": "sha256:c98aa04d390151a38ef179e07bc0a931545494df2ad5434f51e9c7120c0de0bf"
+  },
+  "provenance": {
+    "source_item_id": "7a1d9bdf-cba7-4a70-a832-49bedbe48814",
+    "external_id": "https://pinnacle.sh/blog/pinnacle-simulate-endpoints"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5b874616733c4b6b36af8ec7e88b28edaa1a27614b507212d414808d807b277b",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/depot-with-docker-compose",
+    "canonical": "https://depot.dev/blog/depot-with-docker-compose"
+  },
+  "title": "Now available: Use Docker Compose with Depot",
+  "summary": "We're excited to announce that with our new configure-docker command, you can now use Depot to build the images in your Docker Compose file automatically without changing a single line of code.",
+  "published_at": "2023-08-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/08/5b/5b874616733c4b6b36af8ec7e88b28edaa1a27614b507212d414808d807b277b/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/08/5b/5b874616733c4b6b36af8ec7e88b28edaa1a27614b507212d414808d807b277b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6295,
+    "sha256": "sha256:1c8f6150e933a3d74cacd9690347526c553f7ea71d16c5191dc16e46172873e0",
+    "normalized_content_hash": "sha256:eac1504c310f6aa35d67c0156e04cd982f218816b7efef98b1913b92cc591152"
+  },
+  "provenance": {
+    "source_item_id": "da80362e-11f9-4619-aa8c-032d91ab5051",
+    "external_id": "https://depot.dev/blog/depot-with-docker-compose"
+  }
+}

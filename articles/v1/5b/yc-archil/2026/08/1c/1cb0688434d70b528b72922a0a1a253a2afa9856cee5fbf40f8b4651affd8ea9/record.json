@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1cb0688434d70b528b72922a0a1a253a2afa9856cee5fbf40f8b4651affd8ea9",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-fbbb60f1501e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/post/s3-files-deep-dive",
+    "canonical": "https://archil.com/post/s3-files-deep-dive"
+  },
+  "title": "S3 Files: the right product on the wrong foundation",
+  "summary": "AWS S3 Files lets you mount an S3 bucket as a file system. The idea is right. But building it on NFS creates a cascade of problems — in latency, scalability, and pricing — that no amount of engineering can fix.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:48.524951+00:00",
+  "fetched_at": "2026-08-09T19:14:50.194785+00:00",
+  "last_updated_at": "2026-08-19T21:00:26.401304+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/1c/1cb0688434d70b528b72922a0a1a253a2afa9856cee5fbf40f8b4651affd8ea9/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/1c/1cb0688434d70b528b72922a0a1a253a2afa9856cee5fbf40f8b4651affd8ea9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11631,
+    "sha256": "sha256:ef7dfc74a054bf48d2d91d227d491e57ecd17d3933ede498268b168c5c03e61d",
+    "normalized_content_hash": "sha256:258fc7cf7b892d2b73f818d52b59485a4ec0c8b0c6c2d0188dc0eb13b812cf60"
+  },
+  "provenance": {
+    "source_item_id": "2edff039-c7d6-4081-9995-2f4f9391fdca",
+    "external_id": "https://archil.com/post/s3-files-deep-dive"
+  }
+}

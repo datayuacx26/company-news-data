@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75f7e3bcf95fbe191e37e597062e579a9a470d8ac37b70faee2630d09b92af2e",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/faster-gradle-builds-with-remote-cache",
+    "canonical": "https://depot.dev/blog/faster-gradle-builds-with-remote-cache"
+  },
+  "title": "Faster Gradle builds with remote cache",
+  "summary": "As JVM projects grow, build times slow. Gradle's incremental builds with remote caching speeds up development in all environments, CI and local alike.",
+  "published_at": "2025-01-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/01/75/75f7e3bcf95fbe191e37e597062e579a9a470d8ac37b70faee2630d09b92af2e/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/01/75/75f7e3bcf95fbe191e37e597062e579a9a470d8ac37b70faee2630d09b92af2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8328,
+    "sha256": "sha256:11c9c9d6e253fffd2a6c84acb0558e80ec7d4a79f732b64db88128d6615d2586",
+    "normalized_content_hash": "sha256:ee001638bd3a3b8e631ec0e9dcc01d7cde8e05114793517d52c07592f5af449b"
+  },
+  "provenance": {
+    "source_item_id": "64938711-7eb1-4bbd-842c-9aa236c5f553",
+    "external_id": "https://depot.dev/blog/faster-gradle-builds-with-remote-cache"
+  }
+}

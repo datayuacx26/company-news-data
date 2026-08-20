@@ -1,0 +1,704 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "digi-international-inc-common-stock",
+    "name": "Digi International Inc."
+  },
+  "record_count": 761,
+  "first_published_at": "2013-07-01T06:00:00+00:00",
+  "last_published_at": "2026-08-13T06:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2013-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2016-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2016-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2016-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2016-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2017-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2017-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2017-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2018-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2018-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 11
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 12
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2019-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 8
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 13
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 9
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 8
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 10
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 10
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 9
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 10
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 8
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 8
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 11
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 8
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 10
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 10
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 10
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 16,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57424,
+        "sha256": "sha256:b9df00e6ab606e7f27ffb03573daa94db871bb694c8dd9e5166a5688efdf32d2",
+        "newest_at": "2026-08-13T06:00:00+00:00",
+        "oldest_at": "2026-04-15T05:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 56680,
+        "sha256": "sha256:adb586ef33ff83ae203ccf9c5036eecd1ec225de8aee13ea1624131c1661d41b",
+        "newest_at": "2026-04-14T05:00:00+00:00",
+        "oldest_at": "2026-01-02T06:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 56681,
+        "sha256": "sha256:fc7ee9b8a2fc6e2f3704ac890ad6a4ea879b97a94d717566bfe820c4f226a293",
+        "newest_at": "2025-12-30T06:00:00+00:00",
+        "oldest_at": "2025-07-18T05:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 56158,
+        "sha256": "sha256:239b1a165dd1ef26200cd82d7373786a5cf3403a51ba5420c5cac5ba11993269",
+        "newest_at": "2025-07-16T06:00:00+00:00",
+        "oldest_at": "2025-01-06T05:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 56783,
+        "sha256": "sha256:d88a23540ca950099f19164c22cfb4ce40ff461c17daefaf81949115bf58b18c",
+        "newest_at": "2025-01-03T05:00:00+00:00",
+        "oldest_at": "2024-06-18T05:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 56830,
+        "sha256": "sha256:5fada9a135c6664978fffb14554d5279aad7cb6d2dd9f9bd70ab84dad8671ef0",
+        "newest_at": "2024-05-31T06:00:00+00:00",
+        "oldest_at": "2023-10-04T05:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 57288,
+        "sha256": "sha256:ed7a0c823670b3a52c5506fbe1d8902697f0e04c51a4cc1e9bb8cb4b4748c167",
+        "newest_at": "2023-09-29T06:00:00+00:00",
+        "oldest_at": "2023-02-06T05:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 57273,
+        "sha256": "sha256:2f634c5d0cb8968c06fab5d444169b106bac5497597f358ffae3a66a74a33da7",
+        "newest_at": "2023-02-02T05:00:00+00:00",
+        "oldest_at": "2022-06-07T05:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 56118,
+        "sha256": "sha256:f2dc9de02ca69d2b81b35745c85f9068c8b70e8e099dd2d8ddc803ccb376ad6b",
+        "newest_at": "2022-05-27T06:00:00+00:00",
+        "oldest_at": "2021-09-21T05:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 55683,
+        "sha256": "sha256:fee65d05959ecee8de620adf42fd2baedcf607947675c90f54f07d7d0cc7ad0d",
+        "newest_at": "2021-08-31T06:00:00+00:00",
+        "oldest_at": "2021-01-29T06:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000011.json",
+        "record_count": 50,
+        "byte_count": 56372,
+        "sha256": "sha256:ffb271da848402077a09bdc1380cd6d9373aea1e5ce00c57c1434925594fc8a2",
+        "newest_at": "2021-01-13T05:00:00+00:00",
+        "oldest_at": "2020-05-15T06:00:00+00:00"
+      },
+      {
+        "page": 12,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000012.json",
+        "record_count": 50,
+        "byte_count": 56496,
+        "sha256": "sha256:695232f5471b7f12b61df6e406387fdbaf3b49121ed596c786db157f60465487",
+        "newest_at": "2020-05-15T05:00:00+00:00",
+        "oldest_at": "2019-09-10T05:00:00+00:00"
+      },
+      {
+        "page": 13,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000013.json",
+        "record_count": 50,
+        "byte_count": 57267,
+        "sha256": "sha256:5f4fc0d17ea104ac7cf34894f2119dce5e40d9758fa1b0c9d55aebe903b0687b",
+        "newest_at": "2019-08-21T06:00:00+00:00",
+        "oldest_at": "2019-01-21T06:00:00+00:00"
+      },
+      {
+        "page": 14,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000014.json",
+        "record_count": 50,
+        "byte_count": 56719,
+        "sha256": "sha256:8d154f51cad5083101bafe5c60d0318e19fb631b42f548ced5ab7bb47d340310",
+        "newest_at": "2019-01-21T06:00:00+00:00",
+        "oldest_at": "2017-03-21T06:00:00+00:00"
+      },
+      {
+        "page": 15,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000015.json",
+        "record_count": 50,
+        "byte_count": 57338,
+        "sha256": "sha256:2ae545ec7a42bf46536129a481a03b0589844b2e0149332627d1616b0287dd32",
+        "newest_at": "2017-03-17T06:00:00+00:00",
+        "oldest_at": "2015-08-03T06:00:00+00:00"
+      },
+      {
+        "page": 16,
+        "path": "articles/v1/5b/digi-international-inc-common-stock/index/pages/000016.json",
+        "record_count": 11,
+        "byte_count": 12782,
+        "sha256": "sha256:32865e71728d111d01b78a45eddeb3294e8c1abba270428badf68ed0b1d62933",
+        "newest_at": "2015-07-30T15:03:00+00:00",
+        "oldest_at": "2013-07-01T06:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e136136723a80299ce4310549ae6d554ac1d8df54bd76de737697c7da529f11",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/mit-research-data-readiness-is-key-to-ai-readiness",
+    "canonical": "https://www.fivetran.com/blog/mit-research-data-readiness-is-key-to-ai-readiness"
+  },
+  "title": "MIT research: Data readiness is key to AI readiness",
+  "summary": "What do 82% of global executives say is crucial for AI success? MIT's latest findings highlight the importance of effective data integration.",
+  "published_at": "2024-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2024/05/1e/1e136136723a80299ce4310549ae6d554ac1d8df54bd76de737697c7da529f11/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2024/05/1e/1e136136723a80299ce4310549ae6d554ac1d8df54bd76de737697c7da529f11/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6640,
+    "sha256": "sha256:83ab6e119ede6b6ada30e368626b62d29de315e7a93703b2e424087379c2cd11",
+    "normalized_content_hash": "sha256:78271bed078dfb70ea37850db9ef7a49f25791ea442f77c0323959c1271f5596"
+  },
+  "provenance": {
+    "source_item_id": "2096db67-5091-4311-98e5-b3e1c1709462",
+    "external_id": "https://www.fivetran.com/blog/mit-research-data-readiness-is-key-to-ai-readiness"
+  }
+}

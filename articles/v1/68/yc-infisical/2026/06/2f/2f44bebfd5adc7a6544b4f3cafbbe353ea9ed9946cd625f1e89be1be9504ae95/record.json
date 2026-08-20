@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2f44bebfd5adc7a6544b4f3cafbbe353ea9ed9946cd625f1e89be1be9504ae95",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/gcp-secret-manager",
+    "canonical": "https://infisical.com/blog/gcp-secret-manager"
+  },
+  "title": "Google Cloud Secret Manager: Setup, Best Practices & GCP Guide",
+  "summary": "A complete guide to Google Cloud Secret Manager: versioning, replication policy, IAM access control, Terraform, secret rotation, and when to look beyond GCP-native secrets.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/06/2f/2f44bebfd5adc7a6544b4f3cafbbe353ea9ed9946cd625f1e89be1be9504ae95/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/06/2f/2f44bebfd5adc7a6544b4f3cafbbe353ea9ed9946cd625f1e89be1be9504ae95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18877,
+    "sha256": "sha256:25f36a8279ce21eebb8a04e72608e56b208b06b936400b8e05080bb84fd6aa9a",
+    "normalized_content_hash": "sha256:ab64a9cc3ff03fee590f96cd715a837c169136362f931f31ba8c10b58d1aebc0"
+  },
+  "provenance": {
+    "source_item_id": "7d0dec5c-d7a8-485e-886c-dd0fdee03f1a",
+    "external_id": "https://infisical.com/blog/gcp-secret-manager"
+  }
+}

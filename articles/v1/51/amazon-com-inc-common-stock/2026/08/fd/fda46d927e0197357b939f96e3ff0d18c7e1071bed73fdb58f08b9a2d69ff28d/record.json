@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fda46d927e0197357b939f96e3ff0d18c7e1071bed73fdb58f08b9a2d69ff28d",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc."
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-rss-4d9f015bc7ad",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/",
+    "canonical": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/"
+  },
+  "title": "Amazon Quick now supports approval policies for sharing",
+  "summary": "Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With approval policies, administrators can require designated approvers to review and approve share requests before access is granted, helping organizations ensure that sharing of sensitive assets is deliberate, compliant, and auditable. Administrators can create approval policies scoped to specific asset types, including knowledge bases, spaces, and custom chat agents. When a user submits a share request for an asset covered by a policy, it is routed to the assigned approver group for review. Approvers can evaluate the asset directly before approving or denying the request, and all workflow events are captured in AWS CloudTrail for full auditability. For custom chat agents, approvers can review and act on the entire dependency package in a single request. This feature is available for Professional and Enterprise plans, in all AWS Regions where Amazon Quick agentic capabilities are supported. For more information, see the AWS Region table . Learn more about Amazon Quick by visiting the Quick website . To learn more about approval policies, see Approval policies in the Amazon Quick User Guide .",
+  "published_at": "2026-08-12T22:22:00+00:00",
+  "first_seen_at": "2026-08-14T00:27:41.812190+00:00",
+  "fetched_at": "2026-08-17T19:26:36.331280+00:00",
+  "last_updated_at": "2026-08-17T19:26:36.697208+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/08/fd/fda46d927e0197357b939f96e3ff0d18c7e1071bed73fdb58f08b9a2d69ff28d/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/08/fd/fda46d927e0197357b939f96e3ff0d18c7e1071bed73fdb58f08b9a2d69ff28d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2075,
+    "sha256": "sha256:1398112ae8cd78c03a70dccf37c97077a00cf5792c71556aa5af8cac1a47e3ca",
+    "normalized_content_hash": "sha256:525516b2c242f5966d5fe8a568862db96464d5935a5cb6aa25b613c2b97bc4db"
+  },
+  "provenance": {
+    "source_item_id": "2e99e087-09ce-45b5-a9fe-7439c90c44e6",
+    "external_id": "c5eac0b8d6b65f23218e61beebc8d798a24ee941"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c74f4c8d61128bf6556077938944a4b6efe7e9cbb56cb3feb0de10419d1a628",
+  "company": {
+    "key": "wealthfront-corporation-common-stock",
+    "name": "Wealthfront Corporation"
+  },
+  "source": {
+    "id": "wealthfront-corporation-common-stock-rss-9fbe6ef385e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://eng.wealthfront.com/2025/10/08/shipping-containers-how-we-built-an-easy-to-use-jenkins-pipeline-for-ecr/",
+    "canonical": "https://eng.wealthfront.com/2025/10/08/shipping-containers-how-we-built-an-easy-to-use-jenkins-pipeline-for-ecr/"
+  },
+  "title": "Shipping Containers: How We Built an Easy to Use Jenkins Pipeline for ECR",
+  "summary": "The DevOps team at Wealthfront has been in the process of migrating services to run inside containers. As part of this process we need a way to build containers using our CI/CD tool, Jenkins. While we could write a Jenkinsfile for each container image we wanted to build, we identified this was a good opportunity... Read more",
+  "published_at": "2025-10-08T19:15:22+00:00",
+  "first_seen_at": "2026-07-20T23:18:22.615485+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-03T23:31:38.360907+00:00",
+  "paths": {
+    "article": "articles/v1/7c/wealthfront-corporation-common-stock/2025/10/3c/3c74f4c8d61128bf6556077938944a4b6efe7e9cbb56cb3feb0de10419d1a628/article.md",
+    "record": "articles/v1/7c/wealthfront-corporation-common-stock/2025/10/3c/3c74f4c8d61128bf6556077938944a4b6efe7e9cbb56cb3feb0de10419d1a628/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14723,
+    "sha256": "sha256:66e9c4d2d9a0913cc4fb2c10fe8831493a1ca41a804ae5db6dda1870f64677f4",
+    "normalized_content_hash": "sha256:b2eaafa1b657d417a3a85bdd8a3b2b1f67559df348dfa4d2625a01ed7afa21c8"
+  },
+  "provenance": {
+    "source_item_id": "3b3cd3a4-6255-432a-b87b-19fc27c667e5",
+    "external_id": "https://eng.wealthfront.com/?p=3645"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "094eb05244a2ea9d276e1fdbd0a4f2e7b3e607b9082017f448f53bd530dcf347",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137222",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137222"
+  },
+  "title": "SA-2026-046 - Linux Kernel \"Fragnesia\" LPE (CVE-2026-46300)",
+  "summary": "In the Linux kernel's XFRM ESP-in-TCP subsystem, unsafe in-place cryptographic processing allows a low-privileged local attacker to write arbitrary bytes into the page cache of read-only files, including sensitive system files. An attacker can exploit this to overwrite privileged binaries and gain root privileges. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-07-01T17:31:37+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/09/094eb05244a2ea9d276e1fdbd0a4f2e7b3e607b9082017f448f53bd530dcf347/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/09/094eb05244a2ea9d276e1fdbd0a4f2e7b3e607b9082017f448f53bd530dcf347/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1368,
+    "sha256": "sha256:7dd8d2f803ceaebec713509da07b55d6db2c3d56d2c55895451eefafb36a1ddc",
+    "normalized_content_hash": "sha256:c5662848a2383ac0126245dba7c2386a24a11b5256954e998439e10315d5ff90"
+  },
+  "provenance": {
+    "source_item_id": "1a1da6d8-adc5-459f-9589-99667aa8e904",
+    "external_id": "000137222"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "666a4ecb35353bcf5e365461fef9e4e6bc9523454b6165866e05942eb4e9adeb",
+  "company": {
+    "key": "yc-howdy-com",
+    "name": "Howdy.com"
+  },
+  "source": {
+    "id": "yc-howdy-com-news-import-7de6c48bfb23",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.howdylatam.com/blog/test-driven-development-senior-engineers",
+    "canonical": "https://www.howdylatam.com/blog/test-driven-development-senior-engineers"
+  },
+  "title": "Test-Driven Development Isn't Dead. It's Just Not What the Book Promised",
+  "summary": "A senior engineer's take on test driven development: where strict red-green-refactor TDD fails under deadlines and legacy code, and what actually works.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T08:44:52.452861+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-30T09:48:37.346126+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-howdy-com/2026/07/66/666a4ecb35353bcf5e365461fef9e4e6bc9523454b6165866e05942eb4e9adeb/article.md",
+    "record": "articles/v1/48/yc-howdy-com/2026/07/66/666a4ecb35353bcf5e365461fef9e4e6bc9523454b6165866e05942eb4e9adeb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8960,
+    "sha256": "sha256:92d74c0ef5815ffca8636f8353db862e3fd233e8be99bff8fa9be9f60f52d4cc",
+    "normalized_content_hash": "sha256:0a7d1141a34dd07948f38577a6527e65195f09f96020f434b81e10616bfc216f"
+  },
+  "provenance": {
+    "source_item_id": "76358d07-4fa4-41b3-bcf8-f62751cc7f2f",
+    "external_id": "https://www.howdylatam.com/blog/test-driven-development-senior-engineers"
+  }
+}

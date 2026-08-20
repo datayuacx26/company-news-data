@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1df7557bcae3595969bf60cdbabd12eaa5a4eb32e37e995cc9db1a6ce9907746",
+  "company": {
+    "key": "yc-sf-tensor",
+    "name": "SF Tensor"
+  },
+  "source": {
+    "id": "yc-sf-tensor-news-import-88ed66988698",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sf-tensor.com/news/stfs",
+    "canonical": "https://sf-tensor.com/news/stfs"
+  },
+  "title": "STFS: Stop Making Every Worker Hammer S3",
+  "summary": "STFS turns repeated ML training reads into cluster-local cache hits instead of repeated S3 traffic: 97% less origin load, sub-200ms p95 reads after the first epoch.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T08:45:53.460276+00:00",
+  "fetched_at": "2026-08-05T08:45:55.721043+00:00",
+  "last_updated_at": "2026-08-19T20:57:17.733274+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-sf-tensor/2026/08/1d/1df7557bcae3595969bf60cdbabd12eaa5a4eb32e37e995cc9db1a6ce9907746/article.md",
+    "record": "articles/v1/5e/yc-sf-tensor/2026/08/1d/1df7557bcae3595969bf60cdbabd12eaa5a4eb32e37e995cc9db1a6ce9907746/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10775,
+    "sha256": "sha256:a4e736ca593716a5475f957531f092e811e65e07063741b57141e2a037aed303",
+    "normalized_content_hash": "sha256:434d1fe78197e64641c02fdab0fd8215563fa6f4df76fa6d605270836965f1df"
+  },
+  "provenance": {
+    "source_item_id": "dd445d28-5f24-4b2e-8506-7ed58d1dae99",
+    "external_id": "https://sf-tensor.com/news/stfs"
+  }
+}

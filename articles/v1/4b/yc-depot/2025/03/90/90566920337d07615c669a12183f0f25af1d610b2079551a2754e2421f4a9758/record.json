@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90566920337d07615c669a12183f0f25af1d610b2079551a2754e2421f4a9758",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/registry-integration-testing-load-save",
+    "canonical": "https://depot.dev/blog/registry-integration-testing-load-save"
+  },
+  "title": "How to reuse builds across integration test workflows",
+  "summary": "Learn how to build and store your integration test builds once, and then pull them for multiple workflows as needed.",
+  "published_at": "2025-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/03/90/90566920337d07615c669a12183f0f25af1d610b2079551a2754e2421f4a9758/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/03/90/90566920337d07615c669a12183f0f25af1d610b2079551a2754e2421f4a9758/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11472,
+    "sha256": "sha256:1362a4f771f7ab02d41eb6cff9bffc3922ea42dcd8d70d285ef17864512b59b7",
+    "normalized_content_hash": "sha256:05f0df507aafafe6c64a3232c40d07352816729c0a4b72acfce5b622bb8496a7"
+  },
+  "provenance": {
+    "source_item_id": "8b44cdd3-7bbd-49c5-aeaf-24fda5e9f1d1",
+    "external_id": "https://depot.dev/blog/registry-integration-testing-load-save"
+  }
+}

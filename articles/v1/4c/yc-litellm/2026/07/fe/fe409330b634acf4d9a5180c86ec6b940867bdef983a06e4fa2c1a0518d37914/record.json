@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe409330b634acf4d9a5180c86ec6b940867bdef983a06e4fa2c1a0518d37914",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/two-week-stability-update",
+    "canonical": "https://docs.litellm.ai/blog/two-week-stability-update"
+  },
+  "title": "July stability update: hardening MCP auth and cutting pass-through memory",
+  "summary": "A two-week product quality update. We addressed two major issues (MCP credential resolution and pass-through memory) and shipped 134 bug fixes in total. Plus our next goal: 95% end-to-end test coverage.",
+  "published_at": "2026-07-11T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/fe/fe409330b634acf4d9a5180c86ec6b940867bdef983a06e4fa2c1a0518d37914/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/fe/fe409330b634acf4d9a5180c86ec6b940867bdef983a06e4fa2c1a0518d37914/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9529,
+    "sha256": "sha256:b69abd31904b51081141e763e07c9e6e5e6a415237560f55f77f7652b5ebf80a",
+    "normalized_content_hash": "sha256:24966a00628001fe7fe87ec5930937565cd017d9a53dde7ea0361b7aeffeca18"
+  },
+  "provenance": {
+    "source_item_id": "ee618d85-2859-4bf5-b331-a272d4ab0b6f",
+    "external_id": "https://docs.litellm.ai/blog/two-week-stability-update"
+  }
+}

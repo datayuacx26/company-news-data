@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3583aab858f9146aac113c9aadc338056ce5f9ecc7b427fe51112b2c04039a82",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-fbbb60f1501e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/post/serverless-execution",
+    "canonical": "https://archil.com/post/serverless-execution"
+  },
+  "title": "Bash is the SQL for file systems",
+  "summary": "Introducing serverless execution: run bash on Archil file systems directly, without provisioning compute or moving data. Live today in all AWS regions.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:48.524951+00:00",
+  "fetched_at": "2026-08-09T19:14:50.194785+00:00",
+  "last_updated_at": "2026-08-19T21:00:26.401304+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/35/3583aab858f9146aac113c9aadc338056ce5f9ecc7b427fe51112b2c04039a82/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/35/3583aab858f9146aac113c9aadc338056ce5f9ecc7b427fe51112b2c04039a82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10952,
+    "sha256": "sha256:a272a8aa5d8605b95d567e30ad1719a59279a833db905db3780f4868cd07a894",
+    "normalized_content_hash": "sha256:e04d802e573a6b7a2445a63954eb5af77bad2b88d9ebba42a30651b2fdc131f1"
+  },
+  "provenance": {
+    "source_item_id": "823ef4bd-3d90-427f-9249-f1955ea577df",
+    "external_id": "https://archil.com/post/serverless-execution"
+  }
+}

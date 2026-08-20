@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c3cdd3871a5e8c71d1f6c6a1e31da39a693d03169d48936f5c1abbc559ac830",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/local-kubernetes-dev-environments/",
+    "canonical": "https://www.signadot.com/blog/local-kubernetes-dev-environments/"
+  },
+  "title": "Kubernetes Development Environments: Local, Remote, and Production-Like Options",
+  "summary": "How to set up a Kubernetes development environment. Compare local clusters (kind, minikube), live-reload tools (Tilt, Skaffold), remote and cloud dev, and request-level isolation to develop against real dependencies without rebuilds.",
+  "published_at": "2023-06-01T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/06/8c/8c3cdd3871a5e8c71d1f6c6a1e31da39a693d03169d48936f5c1abbc559ac830/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/06/8c/8c3cdd3871a5e8c71d1f6c6a1e31da39a693d03169d48936f5c1abbc559ac830/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9469,
+    "sha256": "sha256:eb91c69cb7bfdb040e71090ecd76537b77ad7cd8feffa58ee354a5eca16b594f",
+    "normalized_content_hash": "sha256:d76520226add216dbc686197a086367bddf477076dc99c852cb960c7c1dba728"
+  },
+  "provenance": {
+    "source_item_id": "a87dc77c-6595-41b9-a963-dd17a4590a63",
+    "external_id": "https://www.signadot.com/blog/local-kubernetes-dev-environments/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "393bc84cbe8a290452b9a0908869f4cc5cea50a0c2fc7cf15553992a923dd088",
+  "company": {
+    "key": "yc-metorial",
+    "name": "Metorial"
+  },
+  "source": {
+    "id": "yc-metorial-news-import-9c457a3d81d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metorial.com/blog/what-i-actually-handed-the-agent",
+    "canonical": "https://metorial.com/blog/what-i-actually-handed-the-agent"
+  },
+  "title": "What I actually handed the agent",
+  "summary": "I built an internal agent to clean up our CRM. It worked great — until a friend asked me what it was actually authorized to do. When I went and looked, I realized I had handed an autonomous process admin credentials with no expiry, no scoping, and no audit log. This is that story, written down plainly.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:14:45.918392+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-19T18:53:41.634509+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-metorial/2026/06/39/393bc84cbe8a290452b9a0908869f4cc5cea50a0c2fc7cf15553992a923dd088/article.md",
+    "record": "articles/v1/56/yc-metorial/2026/06/39/393bc84cbe8a290452b9a0908869f4cc5cea50a0c2fc7cf15553992a923dd088/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7020,
+    "sha256": "sha256:7a37a8746f7411957d3fbafcb3c9e8804c90365df34ea4da5919dd62a817280a",
+    "normalized_content_hash": "sha256:b24d5ab20a8a2f009f9c3d55a32faa28b67707ac03c52d3984107f9d51eef9c2"
+  },
+  "provenance": {
+    "source_item_id": "fdd137a2-0552-420a-97a6-5b3ddcdbe28f",
+    "external_id": "https://metorial.com/blog/what-i-actually-handed-the-agent"
+  }
+}

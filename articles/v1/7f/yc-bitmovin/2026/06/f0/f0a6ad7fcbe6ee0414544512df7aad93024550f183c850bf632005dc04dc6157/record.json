@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0a6ad7fcbe6ee0414544512df7aad93024550f183c850bf632005dc04dc6157",
+  "company": {
+    "key": "yc-bitmovin",
+    "name": "Bitmovin"
+  },
+  "source": {
+    "id": "yc-bitmovin-news-import-596f48821b52",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitmovin.com/blog/scte-35-guide/",
+    "canonical": "https://bitmovin.com/blog/scte-35-guide/"
+  },
+  "title": "The Essential Guide to SCTE-35",
+  "summary": "Everything you need to know about SCTE-35, the popular standard that powers dynamic ad insertion, blackouts and more for TV, live streams and on-demand video.",
+  "published_at": "2026-06-19T09:51:00+00:00",
+  "first_seen_at": "2026-07-27T08:05:57.697851+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-18T01:29:18.202823+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-bitmovin/2026/06/f0/f0a6ad7fcbe6ee0414544512df7aad93024550f183c850bf632005dc04dc6157/article.md",
+    "record": "articles/v1/7f/yc-bitmovin/2026/06/f0/f0a6ad7fcbe6ee0414544512df7aad93024550f183c850bf632005dc04dc6157/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18689,
+    "sha256": "sha256:cbdfb6142a461de5c1a1dd1d15e79867df63740a17ccd10fd5a8db001fac70f8",
+    "normalized_content_hash": "sha256:43f416f83d1e4bd3d16b121f6654c569e8ac0f1895947066e766dfe20ccee019"
+  },
+  "provenance": {
+    "source_item_id": "43a402b1-9734-4294-90c5-763e6bef1024",
+    "external_id": "https://bitmovin.com/blog/scte-35-guide/"
+  }
+}

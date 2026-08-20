@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "45ef70bbc24bc5e89a24f93b4bd97ae4445ee318ab0f697492523320cbd8df80",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/dunning-and-collections-automation-for-scalable-subscription-businesses-38cf",
+    "canonical": "https://blixo.com/blog/en/post/dunning-and-collections-automation-for-scalable-subscription-businesses-38cf/"
+  },
+  "title": "Dunning and Collections Automation for Scalable Subscription Businesses",
+  "summary": "Key Takeaways Failed payments drive 20%–40% of subscription churn, per Stripe. That makes dunning one of the cheapest revenue levers you have. Recovery speed comes down to one number: average days to cash after a missed payment. Mid-range speed with high customer-impact tends to beat pure speed. Rule-based dunning engines go live in a day, but expect to tune them weekly to keep collection rates from drifting. AI-driven platforms need a two-week pilot to train the model. After that, monthly upkeep drops below two hours. ERP-integrated suites take multi-week rollouts and usually a dedicated analyst, but they match cash better and need far fewer manual tweaks. The comparison table below ranks tools on recovery speed, customer-impact score, and operational overhead so you can pick without guessing. Quick Summary The table below puts the most common subscription tracking software with dunning and collections automation side by side, sorted on the metrics that actually move the needle: speed, effort, and customer experience. The right balance recovers cash fast without souring the relationship you spent money acquiring.",
+  "published_at": "2026-07-21T20:31:29+00:00",
+  "first_seen_at": "2026-07-22T22:50:34.557230+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-15T06:18:18.782795+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/07/45/45ef70bbc24bc5e89a24f93b4bd97ae4445ee318ab0f697492523320cbd8df80/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/07/45/45ef70bbc24bc5e89a24f93b4bd97ae4445ee318ab0f697492523320cbd8df80/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31579,
+    "sha256": "sha256:09cd990f543ca0f14202a98989354d8d3c28c0f22ed8cd9f7705e7da19f9622a",
+    "normalized_content_hash": "sha256:564ee750921c8a8657622140506c15b68ad1b65955c5083bc472418c51a5602e"
+  },
+  "provenance": {
+    "source_item_id": "a203c140-dfe5-4d99-8462-66a3ea104e07",
+    "external_id": "https://blixo.com/blog/en/post/dunning-and-collections-automation-for-scalable-subscription-businesses-38cf/"
+  }
+}

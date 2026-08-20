@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58a252994eaff491bd18fd35f88164e505af84ef85a0e0635648399a6d36deea",
+  "company": {
+    "key": "zoominfo-technologies-inc-common-stock",
+    "name": "ZoomInfo Technologies Inc"
+  },
+  "source": {
+    "id": "zoominfo-technologies-inc-common-stock-rss-ef9b8d7bcd4f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.zoominfo.com/enhancing-search-migrating-from-traditional-solr-faceting-to-the-json-faceting-api",
+    "canonical": "https://engineering.zoominfo.com/enhancing-search-migrating-from-traditional-solr-faceting-to-the-json-faceting-api"
+  },
+  "title": "Enhancing Search: Migrating From Traditional Solr Faceting to the JSON Faceting API",
+  "summary": "Before the transition to Apache Solr 9, it is critical to modernize our codebase by embracing newer approaches supported by future Solr releases. Part of this transition is migrating away from legacy faceting code in favor of the JSON Facet API, which provides an alternative and more sleek solution to…",
+  "published_at": "2024-12-18T15:03:25+00:00",
+  "first_seen_at": "2026-07-20T23:24:42.992125+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:24:41.088735+00:00",
+  "paths": {
+    "article": "articles/v1/68/zoominfo-technologies-inc-common-stock/2024/12/58/58a252994eaff491bd18fd35f88164e505af84ef85a0e0635648399a6d36deea/article.md",
+    "record": "articles/v1/68/zoominfo-technologies-inc-common-stock/2024/12/58/58a252994eaff491bd18fd35f88164e505af84ef85a0e0635648399a6d36deea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10427,
+    "sha256": "sha256:7bb540cf5e8d39f56fef259f16ea71251db4247b84f0da7e4e42df28790a1eca",
+    "normalized_content_hash": "sha256:a6be13307eec60c5c10c2ab59810ad7809ba75dd3256842c7aef1f32bd489ec1"
+  },
+  "provenance": {
+    "source_item_id": "1ecc95a5-0ba8-43f7-a760-0e15d2984f8a",
+    "external_id": "https://engineering.zoominfo.com/?p=507"
+  }
+}

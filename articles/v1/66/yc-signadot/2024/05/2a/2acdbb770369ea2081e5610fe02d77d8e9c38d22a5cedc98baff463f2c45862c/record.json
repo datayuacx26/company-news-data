@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2acdbb770369ea2081e5610fe02d77d8e9c38d22a5cedc98baff463f2c45862c",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/",
+    "canonical": "https://www.signadot.com/blog/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/"
+  },
+  "title": "Why We Shift Testing Left: A Software Dev Cycle That Doesn’t Scale",
+  "summary": "Shift left testing moves testing earlier in the development process to improve efficiency and address scaling issues. Traditional testing, done after development, slows down release cycles and burdens QA teams. By shifting left, developers run integration and end-to-end tests, catching bugs sooner and enhancing productivity. In this article, we discuss how this approach aligns with agile methodologies, reduces context switching, and empowers developers. QA teams still play a vital role but focus more on automation and strategic oversight. This shift leads to a more responsive and scalable development process.",
+  "published_at": "2024-05-20T15:27:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/05/2a/2acdbb770369ea2081e5610fe02d77d8e9c38d22a5cedc98baff463f2c45862c/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/05/2a/2acdbb770369ea2081e5610fe02d77d8e9c38d22a5cedc98baff463f2c45862c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10326,
+    "sha256": "sha256:75ca5b30996d498abe389d1d7e4a2828df7e0f44e585ded12d6353a27ec48722",
+    "normalized_content_hash": "sha256:45fa58515017bc2b54a7930481f2c570ff6efff33f32f0991ead0057c89e73ed"
+  },
+  "provenance": {
+    "source_item_id": "e6db6517-c808-455a-b3a0-f52a6e8d5078",
+    "external_id": "https://www.signadot.com/blog/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/"
+  }
+}

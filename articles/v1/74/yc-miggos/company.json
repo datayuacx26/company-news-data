@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-miggos",
+    "name": "Miggos"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-08-04T16:06:01.355+00:00",
+  "last_published_at": "2026-08-19T14:16:30.356+00:00",
+  "partitions": [
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/74/yc-miggos/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3472,
+        "sha256": "sha256:bb3ec98d6618b2752290d775407e98b43bd7ba5d70df4e23d14e9d53e3f843f2",
+        "newest_at": "2026-08-19T14:16:30.356+00:00",
+        "oldest_at": "2026-08-04T16:06:01.355+00:00"
+      }
+    ]
+  }
+}

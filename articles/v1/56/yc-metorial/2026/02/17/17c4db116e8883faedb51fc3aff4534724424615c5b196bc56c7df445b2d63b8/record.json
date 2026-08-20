@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "17c4db116e8883faedb51fc3aff4534724424615c5b196bc56c7df445b2d63b8",
+  "company": {
+    "key": "yc-metorial",
+    "name": "Metorial"
+  },
+  "source": {
+    "id": "yc-metorial-news-import-9c457a3d81d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metorial.com/blog/production-agents",
+    "canonical": "https://metorial.com/blog/production-agents"
+  },
+  "title": "How to Architect, Deploy, and Operate Production-Grade AI Agents",
+  "summary": "Moving AI agents from a promising pilot to a production-grade system is a monumental challenge, with a staggering 95% of projects failing to deliver value. The secret to success lies not in the AI models themselves, but in a robust architecture focused on scalability, observability, and security. This article explores the core principles for building and operating reliable AI agents, highlighting the critical role of the Model Context Protocol (MCP) and how platforms like Metorialprovide the serverless infrastructure needed to bridge the gap from experimentation to enterprise-scale deployment.",
+  "published_at": "2026-02-04T17:52:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:44.298499+00:00",
+  "fetched_at": "2026-07-28T22:21:47.229482+00:00",
+  "last_updated_at": "2026-08-19T18:53:41.634509+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-metorial/2026/02/17/17c4db116e8883faedb51fc3aff4534724424615c5b196bc56c7df445b2d63b8/article.md",
+    "record": "articles/v1/56/yc-metorial/2026/02/17/17c4db116e8883faedb51fc3aff4534724424615c5b196bc56c7df445b2d63b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12139,
+    "sha256": "sha256:f343a351eb63f7eddb93674baea7564c69af786a70564c228a7694d477be80a3",
+    "normalized_content_hash": "sha256:8a05810e75960e638822b983078ba55abba1b5100a0fa0a49e966b51a018d1b0"
+  },
+  "provenance": {
+    "source_item_id": "ee005ddd-5b52-4be0-8bea-3d1224409e65",
+    "external_id": "https://metorial.com/blog/production-agents"
+  }
+}

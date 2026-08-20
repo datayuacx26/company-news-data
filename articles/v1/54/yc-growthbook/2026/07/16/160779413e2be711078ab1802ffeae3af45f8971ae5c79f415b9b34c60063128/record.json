@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "160779413e2be711078ab1802ffeae3af45f8971ae5c79f415b9b34c60063128",
+  "company": {
+    "key": "yc-growthbook",
+    "name": "GrowthBook"
+  },
+  "source": {
+    "id": "yc-growthbook-news-import-67cec260d3a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.growthbook.io/blog/how-to-reduce-deployment-risk-with-canary-releases-and-feature-flags",
+    "canonical": "https://www.growthbook.io/blog/how-to-reduce-deployment-risk-with-canary-releases-and-feature-flags"
+  },
+  "title": "How to reduce deployment risk with canary releases and feature flags",
+  "summary": "Learn how to implement canary releases with feature flags, and how to layer in guardrail monitoring to automate rollouts safely with GrowthBook.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T15:19:37.358834+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-20T00:57:40.609880+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-growthbook/2026/07/16/160779413e2be711078ab1802ffeae3af45f8971ae5c79f415b9b34c60063128/article.md",
+    "record": "articles/v1/54/yc-growthbook/2026/07/16/160779413e2be711078ab1802ffeae3af45f8971ae5c79f415b9b34c60063128/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18883,
+    "sha256": "sha256:7231525f6b7a9e5e167ee8a6d7904d035676005936c459076ae7842e5ad596ec",
+    "normalized_content_hash": "sha256:584d7de2b16d7d91896a64013cf42cb5398b4cf7c0731cfaee4108268a9bde97"
+  },
+  "provenance": {
+    "source_item_id": "9bc4162d-12fc-4c5a-9e45-baad12e7e8c1",
+    "external_id": "https://www.growthbook.io/blog/how-to-reduce-deployment-risk-with-canary-releases-and-feature-flags"
+  }
+}

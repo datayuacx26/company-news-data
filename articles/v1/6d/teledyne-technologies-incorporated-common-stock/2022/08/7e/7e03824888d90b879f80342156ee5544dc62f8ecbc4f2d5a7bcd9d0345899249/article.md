@@ -1,0 +1,65 @@
+---
+schema_version: "1.0.0"
+document_id: "7e03824888d90b879f80342156ee5544dc62f8ecbc4f2d5a7bcd9d0345899249"
+company_key: "teledyne-technologies-incorporated-common-stock"
+company: "Teledyne Technologies Incorporated"
+source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
+canonical_url: "https://blog.teledynelecroy.com/2022/08/10base-t1s-automotive-ethernet-vs.html"
+published_at: "2022-08-15T12:00:00+00:00"
+first_seen_at: "2026-07-20T04:36:13.437201+00:00"
+fetched_at: "2026-08-20T01:30:31.660362+00:00"
+content_hash: "sha256:6bf4752abb4a8bb223bd1de74eb441741e8edc23167fb86c3cfdc29045ec0c73"
+---
+
+# 10Base-T1S Automotive Ethernet vs. 10Base-T1L Industrial Ethernet
+
+Figure 1: 10Base-T1S and 10Base-T1L differ primarily in
+reach, encoding methods, topology and applications.
+
+
+10Base-T1S, a variant of[Automotive Ethernet](https://blog.teledynelecroy.com/2021/06/automotive-ethernet-in-vehicle.html) , and 10Base-T1L, also known as Industrial Ethernet, are Single Pair Ethernet (SPE) protocols described in IEEE 802.cg standards. Both offer the same 10 Mb/s communication speed using a single, unshielded twisted pair (T1), but differ in specifics of reach, encoding schemes and topologies, as well as their principal applications.
+
+
+10Base-T1S (S stands for short reach) has a reach of up to 25 m, more than enough for in-vehicle applications. 10Base-T1L (L stands for long reach) allows for the same 10 Mb/s speed over a reach of 1,000 m.
+
+
+10Base-T1S uses Differential Manchester Encoding (DME). With DME, the clock is embedded and the data is sampled between the clocked edges. Instead of a specific logic-high/low voltage level, the bits are based on the presence or absence of any transition within the clock period. Because it lacks a DC component, this encoding scheme allows electrical connections easy galvanic isolation, ensuring the signal never remains at logic low or logic high for an extended period of time, which allows for versatility in a number of automotive applications.
+
+
+Figure 2: PAM3 Encoding.
+
+
+10Base-T1L utilizes PAM3 Pulse Amplitude Modulation encoding. In PAM3 signal modulation, information is encoded in the amplitude of a series of signal pulses. This results in simplified receiver and transmitter design, easy transmission over a single pair of wires, more bits transmitted in a symbol, and higher data rate links.
+
+
+These two protocols are further differentiated by the topologies they employ. 10Base-T1S supports half-duplex and full-duplex communication, allowing either a point-to-point direct connection between two nodes, or use of a multidrop topology with up-to-eight nodes connected on a single 25 m bus segment. 10Base-T1L supports a full-duplex link that can include up to 10 connectors.
+
+
+To better understand the differences between these two protocols, we can explore the ways these standards are applied in the growing sectors of Automotive and Industrial Automation.
+
+
+As in-vehicle electronics grow in volume and complexity to support the goal for autonomous driving, we find 10Base-T1S Automotive Ethernet used to enhance In-Vehicle Network (IVN) architecture. It is most commonly used to connect sensors, microphones and speakers to powertrain, car body and infotainment Electronic Control Units (ECUs). Because 10Base-T1S provides a higher bandwidth, it allows IVN applications to operate with higher quality data compared to some of the legacy IVN protocols such as MOST, CAN, LIN and FlexRay. Plus, a combination of 10Base-T1S and other Automotive Ethernet protocols allows a single software framework to be used from the lowest to highest speed ranges. As discussed in[other posts on this blog](https://blog.teledynelecroy.com/2021/06/fundamentals-of-automotive-ethernet.html) , standard Ethernet is not suited for use in IVN, partly because the 100 m reach of standard Ethernet is unnecessary for a vehicle, and overall, the technology does not hold up to the stringent EMC and EMI requirements of the automotive industry.
+
+
+By enabling point-to-point communication over distances up to 1000 m, 10Base-T1L provides a framework for industrial control and safety systems. In the context of Operational Technology (OT) networks, such as Remote, Intelligent Building, Industrial and Process Industries applications, 10Base-T1L replaces legacy, built-for-purpose protocols that pose challenges because they require complex gateway devices to communicate between domains, and experts trained to manage and maintain such outdated networks. By bringing the benefits of the single twisted pair to the factory floor, 10Base-T1L allows easy integration and standardization in areas of building and industrial automation.
+
+
+Teledyne LeCroy offers the[10Base-T1S TDME](https://teledynelecroy.com/options/productseries.aspx?mseries=681&groupid=88) software trigger and decode software and the[QPHY-10Base-T1S](https://teledynelecroy.com/options/productseries.aspx?mseries=646&groupid=140) compliance test solution, including a[QPHY-10Base-T1-TDR](https://teledynelecroy.com/options/productseries.aspx?mseries=649&groupid=140) option that automates all required MDI S-parameter tests using the[WavePulser 40iX](https://teledynelecroy.com/wavepulser) .
+
+
+For more information about 10Base-T1 compliance testing, watch the on-demand webinar,[How to Become an Expert in Automotive Ethernet Testing, Part 1](https://go.teledynelecroy.com/l/48392/2021-04-27/86r6b2) .
+
+
+#### See also:
+
+
+[What Is Differential Manchester Encoding?](https://blog.teledynelecroy.com/2021/11/what-is-differential-manchester-encoding.html)
+
+
+[Automotive Ethernet MDI S-parameter Testing](https://blog.teledynelecroy.com/2021/06/automotive-ethernet-mdi-s-parameter.html)
+
+
+[Automotive Ethernet in the Vehicle](https://blog.teledynelecroy.com/2021/06/automotive-ethernet-in-vehicle.html)
+
+
+[Fundamentals of Automotive Ethernet](https://blog.teledynelecroy.com/2021/06/fundamentals-of-automotive-ethernet.html)

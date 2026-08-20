@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78ecdf9eb61701225267b863afb49681a5d4d69dd17ea612fc2423f4bc4f5b29",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/my-intuition-doesnt-work-anymore",
+    "canonical": "https://depot.dev/blog/my-intuition-doesnt-work-anymore"
+  },
+  "title": "My intuition doesn't work anymore",
+  "summary": "I used an LLM to refactor a 1500-line mess into clean, organized code. I realized months later that agents were the only ones working in it. They didn't need the clean code. They didn't need my empathy. My intuitions as an engineer just don't work anymore.",
+  "published_at": "2026-02-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:57:41.767482+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/02/78/78ecdf9eb61701225267b863afb49681a5d4d69dd17ea612fc2423f4bc4f5b29/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/02/78/78ecdf9eb61701225267b863afb49681a5d4d69dd17ea612fc2423f4bc4f5b29/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6844,
+    "sha256": "sha256:e0d59a3e8f670f1392f17ff9a77b2f7bc7fdab17548cecf994f11ca3f75e9841",
+    "normalized_content_hash": "sha256:48f9fff82021210138c01172f5c64c4e7c6baf4bec09bc45791572d7e6af2060"
+  },
+  "provenance": {
+    "source_item_id": "a9427267-1663-4b2e-9c5f-45c2310f8244",
+    "external_id": "https://depot.dev/blog/my-intuition-doesnt-work-anymore"
+  }
+}

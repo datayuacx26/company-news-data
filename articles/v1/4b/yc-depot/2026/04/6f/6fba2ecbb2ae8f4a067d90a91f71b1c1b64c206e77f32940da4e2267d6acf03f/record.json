@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6fba2ecbb2ae8f4a067d90a91f71b1c1b64c206e77f32940da4e2267d6acf03f",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/building-ci-with-durable-lambda",
+    "canonical": "https://depot.dev/blog/building-ci-with-durable-lambda"
+  },
+  "title": "Building Depot CI with Lambda durable functions",
+  "summary": "Depot CI's orchestrator runs on AWS Lambda durable functions. The orchestrator checkpoints state, suspends between events, and never burns compute while waiting. Here's how we designed the run-workflow-job hierarchy and the callback-driven orchestration loop that powers it.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:51:55.411391+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/04/6f/6fba2ecbb2ae8f4a067d90a91f71b1c1b64c206e77f32940da4e2267d6acf03f/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/04/6f/6fba2ecbb2ae8f4a067d90a91f71b1c1b64c206e77f32940da4e2267d6acf03f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12280,
+    "sha256": "sha256:5434b1f804d8ef62325a993176068bcff1643ee33b26f782acbc862e7a00e195",
+    "normalized_content_hash": "sha256:da078baa370a7fded5a189aaa65715bcf56a570eb2b14137996e905c35a36262"
+  },
+  "provenance": {
+    "source_item_id": "0f550925-8bda-4e06-b874-6f730e41c389",
+    "external_id": "https://depot.dev/blog/building-ci-with-durable-lambda"
+  }
+}

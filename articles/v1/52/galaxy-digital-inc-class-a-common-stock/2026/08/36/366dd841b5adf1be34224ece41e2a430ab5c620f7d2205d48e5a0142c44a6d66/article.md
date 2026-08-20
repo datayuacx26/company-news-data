@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "366dd841b5adf1be34224ece41e2a430ab5c620f7d2205d48e5a0142c44a6d66"
+company_key: "galaxy-digital-inc-class-a-common-stock"
+company: "Galaxy Digital Inc."
+source_id: "galaxy-digital-inc-class-a-common-stock-news-import-3264694a8f1e"
+canonical_url: "https://www.galaxy.com/insights/podcasts/galaxy-grid/inside-the-coldcard-entropy-failure-w-alex-thorn"
+published_at: null
+first_seen_at: "2026-08-05T11:23:42.347878+00:00"
+fetched_at: "2026-08-05T11:23:44.744536+00:00"
+content_hash: "sha256:8d80b39722037b3c45b39afbc890beccb5988913b5a26936761e426a5b9a834e"
+---
+
+# Inside the COLDCARD Entropy Failure w/ Alex Thorn
+
+In this emergency episode of Galaxy Grid, we break down the massive CoinKite Coldcard hardware wallet exploit that has compromised over 1,500 BTC ($100M+) across multiple attack waves. Alex Thorn delivers an exclusive play-by-play tracing the silent March 2021 RNG firmware bug, while Will Owens details how he successfully baited an automated drainer bot and won an RBF fee race to rescue his funds. Finally, we examine how open-source AI models were used to operationalize the attack and what this breach means for the future of Bitcoin self-custody versus institutional ETFs. This episode was recorded on 8/3/26 Keep in touch: ▸ Follow us on Twitter:[https://x.com/galaxyhq](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUThLam8wazN4T0hmNW5TNzRCNm1wR3xBR3JiS2FrM00tNDBCZ3Z5YkIwTGRpT24yblJzS195R19Nb2RfeERNZlEtdkNLeGJPUENfejdLRFV5SDVGRVdweklRZDE0Sjd2Ty1qM3BrVkF6TVdRdUczb3p0Tm5Nenp0djhR&q=https%3A%2F%2Fx.com%2Fgalaxyhq&v=upDroqSI5VU) &[https://x.com/glxyresearch](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUjNrclh4RFFWdXl5UlZyUUlUYk9DcHxBR3JiS2FtblgxRnhiYWdaYjlPNEhPUk1iQWNTMmFqdjNXUWx4TzRGVFFnNUZVWkZrY2RCdFotbXRlQjd4RU1Za3ZhVlhiQW5WX056aWdkeUlUYmRUMHhGMnZkVk96WThkam1S&q=https%3A%2F%2Fx.com%2Fglxyresearch&v=upDroqSI5VU) ▸ Read our research at[https://www.galaxy.com/research](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUjNuNG1BeVhmRFdfUW5mWmhNUDUtWXxBR3JiS2FscFlxYjR1OTdsa3JrckZrNWVqbjRWR254WGp3TWlFN3RjNGJCRGozYU9wSzZHUkY4WDh1V2NPaUJQbjFoNjVHcktHeUlnWGdkWVl6OWhwMXR0VFBZcDk1VXBkOFlv&q=https%3A%2F%2Fwww.galaxy.com%2Fresearch&v=upDroqSI5VU) ▸ Subscribe to receive Galaxy Research's weekly newsletter:[https://www.galaxy.com/subscribe-to-r...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVDdabmw2T0ZfTVpQTEdOR1FkTDJ3ZXxBR3JiS2FuTUJaUVNjQ3N6aTJvaXdXWklpeUFLX1lMNHFGME5xQnVMaExpSGViT1otX0kwcjlGeVBUM1p4SkNoMnl6SnBhTzVTQnc2dHpBbERmdlFDTU53Q0hfTTEwUFlndnRB&q=https%3A%2F%2Fwww.galaxy.com%2Fsubscribe-to-research&v=upDroqSI5VU) This video, and the information contained herein, has been provided to you by Galaxy Digital Holdings LP and its affiliates (“Galaxy Digital”) solely for informational purposes. View the full disclaimer at[https://www.galaxy.com/galaxy-digital...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVG5wZGM0YVdMSlU2aDJ6VVRZYm95OHxBR3JiS2FsczlpUE9DUThadlJ1eEpfMEZicVNzUVg0V0s1N1BHUnkzZ1dHb2lKYmNlX25YYWtEZVNZNFMwQUJZMHVZRWdyZ1FIVnNTUVI5bmJKLVYyUzFRR041cTV6el9paVRP&q=https%3A%2F%2Fwww.galaxy.com%2Fgalaxy-digital-content-disclaimer&v=upDroqSI5VU)

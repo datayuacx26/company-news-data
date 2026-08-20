@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86d738bbdc5a4bc924fff3deba3e3846fdf3b9a1565d6158db64956c90a4f586",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/agent-swarm",
+    "canonical": "https://mastra.ai/articles/agent-swarm"
+  },
+  "title": "Agent swarm: what it is, how it works, and how to build one",
+  "summary": "Learn what an agent swarm is, how multi-agent architectures work, and how to design, build, and observe production-ready agent swarms in TypeScript.",
+  "published_at": "2026-07-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T17:31:22.495262+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-10T00:32:39.032699+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/07/86/86d738bbdc5a4bc924fff3deba3e3846fdf3b9a1565d6158db64956c90a4f586/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/07/86/86d738bbdc5a4bc924fff3deba3e3846fdf3b9a1565d6158db64956c90a4f586/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20912,
+    "sha256": "sha256:809b5f8b31efb3f0dafdc16856153695e85ce1ae8e704a4c077a9296b7cbb693",
+    "normalized_content_hash": "sha256:15a14324fb1163d0ac0f7eb017cb504fcfafb6cc1d683b6f45293c4d3a65ae45"
+  },
+  "provenance": {
+    "source_item_id": "9e537448-d720-4006-b91e-68e1ce04ab91",
+    "external_id": "https://mastra.ai/articles/agent-swarm"
+  }
+}

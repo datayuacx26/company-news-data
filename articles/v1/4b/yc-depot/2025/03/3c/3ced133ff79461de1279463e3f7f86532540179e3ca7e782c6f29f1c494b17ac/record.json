@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3ced133ff79461de1279463e3f7f86532540179e3ca7e782c6f29f1c494b17ac",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/why-you-should-avoid-copy-link-in-your-dockerfile",
+    "canonical": "https://depot.dev/blog/why-you-should-avoid-copy-link-in-your-dockerfile"
+  },
+  "title": "Why you should avoid COPY --link in your Dockerfile",
+  "summary": "Often touted as a method for decreasing Docker image build times, COPY --link is actually more likely to have the opposite effect. Here's why.",
+  "published_at": "2025-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:06.165020+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/03/3c/3ced133ff79461de1279463e3f7f86532540179e3ca7e782c6f29f1c494b17ac/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/03/3c/3ced133ff79461de1279463e3f7f86532540179e3ca7e782c6f29f1c494b17ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5577,
+    "sha256": "sha256:d20e3f8e3f64c9dd0f8629fe7e022a763052421abba5e9a9fddccfcee3fab81e",
+    "normalized_content_hash": "sha256:2686085de517f6a626a83d26fa66d48dfe0111d31fd5f75411827808e58144f6"
+  },
+  "provenance": {
+    "source_item_id": "acbb4dd5-25e8-416c-983f-e883e8b9aedd",
+    "external_id": "https://depot.dev/blog/why-you-should-avoid-copy-link-in-your-dockerfile"
+  }
+}

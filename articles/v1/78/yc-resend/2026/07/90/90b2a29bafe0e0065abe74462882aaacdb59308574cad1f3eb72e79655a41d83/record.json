@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90b2a29bafe0e0065abe74462882aaacdb59308574cad1f3eb72e79655a41d83",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-news-import-e788018b3f7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://resend.com/changelog/message-id-for-sent-emails",
+    "canonical": "https://resend.com/changelog/message-id-for-sent-emails"
+  },
+  "title": "Email Threading with Message-ID",
+  "summary": "All email webhooks and GET email endpoints now include the Message-ID.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T21:22:09.024444+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T01:39:55.585906+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2026/07/90/90b2a29bafe0e0065abe74462882aaacdb59308574cad1f3eb72e79655a41d83/article.md",
+    "record": "articles/v1/78/yc-resend/2026/07/90/90b2a29bafe0e0065abe74462882aaacdb59308574cad1f3eb72e79655a41d83/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3894,
+    "sha256": "sha256:dc40b40a85115f56c5e53ec092473cf78a09d6e07f3bb9339867c0d525e17899",
+    "normalized_content_hash": "sha256:e965236e408a12edd198d155b4f4c557179348fe9bd17b44321937c3572f2b03"
+  },
+  "provenance": {
+    "source_item_id": "93d6bc34-d111-4140-923d-415e01cfc04e",
+    "external_id": "https://resend.com/changelog/message-id-for-sent-emails"
+  }
+}

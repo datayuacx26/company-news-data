@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "barrett-business-services-inc-common-stock",
+    "name": "Barrett Business Services Inc."
+  },
+  "record_count": 25,
+  "first_published_at": "2025-04-02T00:00:00+00:00",
+  "last_published_at": "2026-08-19T16:03:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/72/barrett-business-services-inc-common-stock/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 29674,
+        "sha256": "sha256:d74764b86799af0ff71a53360ac9a33567ade4a52226c5ab527a16cf0717ade3",
+        "newest_at": "2026-08-19T16:03:00+00:00",
+        "oldest_at": "2025-04-02T00:00:00+00:00"
+      }
+    ]
+  }
+}

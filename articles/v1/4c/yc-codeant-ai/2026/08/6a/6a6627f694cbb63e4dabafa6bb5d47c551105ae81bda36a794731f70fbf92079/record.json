@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a6627f694cbb63e4dabafa6bb5d47c551105ae81bda36a794731f70fbf92079",
+  "company": {
+    "key": "yc-codeant-ai",
+    "name": "CodeAnt AI"
+  },
+  "source": {
+    "id": "yc-codeant-ai-news-import-b68a5af7b5b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://codeant.ai/blogs/claude-code-macos-sandbox-escape",
+    "canonical": "https://codeant.ai/blogs/claude-code-macos-sandbox-escape"
+  },
+  "title": "Claude Code Sandbox Escape on macOS",
+  "summary": "Claude Code reinterpreted glob metacharacters in a literal workspace path while generating its macOS Seatbelt policy, allowing a sandboxed command to write protected configuration into a sibling project and trigger a SessionStart hook on its next launch.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T15:24:47.352463+00:00",
+  "fetched_at": "2026-08-18T15:24:48.929333+00:00",
+  "last_updated_at": "2026-08-19T18:12:09.562732+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-codeant-ai/2026/08/6a/6a6627f694cbb63e4dabafa6bb5d47c551105ae81bda36a794731f70fbf92079/article.md",
+    "record": "articles/v1/4c/yc-codeant-ai/2026/08/6a/6a6627f694cbb63e4dabafa6bb5d47c551105ae81bda36a794731f70fbf92079/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18805,
+    "sha256": "sha256:a90ff81c0585daec9aeee8d71b7325f1a598400785f25d4b6626e0190c296b21",
+    "normalized_content_hash": "sha256:a3b3bc38c167a69cdf8fd780389748cc0a1031e1a2c3616e0882fe942e8dbef0"
+  },
+  "provenance": {
+    "source_item_id": "fc92f607-8c90-4ff9-a580-5a39f3e67618",
+    "external_id": "https://codeant.ai/blogs/claude-code-macos-sandbox-escape"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1bef31fe5da235534ce95d53cb6a178c1bae09614ceca2b8c998d46832fd8fcf",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/migration-sealed-secrets",
+    "canonical": "https://infisical.com/blog/migration-sealed-secrets"
+  },
+  "title": "Migrating From Sealed Secrets to Infisical: A Step-by-Step Guide",
+  "summary": "A comprehensive guide covering the limitations of Sealed Secrets, the benefits of external secrets management, and a detailed migration process for your GitOps workflow.",
+  "published_at": "2025-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T20:58:06.165020+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2025/04/1b/1bef31fe5da235534ce95d53cb6a178c1bae09614ceca2b8c998d46832fd8fcf/article.md",
+    "record": "articles/v1/68/yc-infisical/2025/04/1b/1bef31fe5da235534ce95d53cb6a178c1bae09614ceca2b8c998d46832fd8fcf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29420,
+    "sha256": "sha256:ed040e22f3539c8f9a917b961e348479a0f96d5983531c306854043874818992",
+    "normalized_content_hash": "sha256:0a1be01eb3eeee869f15651ad26675a81fec94f62a2c8404e056421b140b8676"
+  },
+  "provenance": {
+    "source_item_id": "809562fc-bba3-49e0-acd4-831e5b697851",
+    "external_id": "https://infisical.com/blog/migration-sealed-secrets"
+  }
+}

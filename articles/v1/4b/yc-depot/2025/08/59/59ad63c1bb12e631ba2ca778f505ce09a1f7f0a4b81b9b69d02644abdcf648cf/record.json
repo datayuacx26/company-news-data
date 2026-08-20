@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59ad63c1bb12e631ba2ca778f505ce09a1f7f0a4b81b9b69d02644abdcf648cf",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/hidden-cost-of-self-hosting-ci-runners",
+    "canonical": "https://depot.dev/blog/hidden-cost-of-self-hosting-ci-runners"
+  },
+  "title": "The hidden cost of self hosting CI runners",
+  "summary": "Self hosting CI runners sounds great. You get control, flexibility, and the promise of lower cost. But most teams that try it end up burned out and buried in maintenance. Between flaky APIs, surprise cloud bills, and endless patching, the tradeoffs add up fast. Here's what actually happens when you go it alone and why some teams decide not to.",
+  "published_at": "2025-08-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/08/59/59ad63c1bb12e631ba2ca778f505ce09a1f7f0a4b81b9b69d02644abdcf648cf/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/08/59/59ad63c1bb12e631ba2ca778f505ce09a1f7f0a4b81b9b69d02644abdcf648cf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6831,
+    "sha256": "sha256:680bbee8c07d6fcbd41ea68c45b81ba8758c2726b90a685509b5a7e9e74c4d65",
+    "normalized_content_hash": "sha256:1832ece27ac4896e899910a6252aeb13834aa3ed1144862e7e912c04561aa40d"
+  },
+  "provenance": {
+    "source_item_id": "41d91eaa-8b89-4f87-a355-0f1204dc5d07",
+    "external_id": "https://depot.dev/blog/hidden-cost-of-self-hosting-ci-runners"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-siftly",
+    "name": "Siftly"
+  },
+  "record_count": 57,
+  "first_published_at": "2026-05-04T10:08:59.884+00:00",
+  "last_published_at": "2026-08-19T19:11:16.010592+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 17
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4c/yc-siftly/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51545,
+        "sha256": "sha256:0cae074fc5539250cdc2188f7beeb706cf6bec025707f88650b1b5cd6e375e89",
+        "newest_at": "2026-08-19T19:11:16.010592+00:00",
+        "oldest_at": "2026-06-01T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/4c/yc-siftly/index/pages/000002.json",
+        "record_count": 7,
+        "byte_count": 7216,
+        "sha256": "sha256:b0d33c3af7a8c37e92e2632c6136147e3c64c23ae726de07678c5bdb7879889e",
+        "newest_at": "2026-06-01T00:00:00+00:00",
+        "oldest_at": "2026-05-04T10:08:59.884+00:00"
+      }
+    ]
+  }
+}

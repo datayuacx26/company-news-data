@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "westinghouse-air-brake-technologies-corporation-common-stock",
+    "name": "Westinghouse Air Brake Technologies Corporation"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-02-09T00:00:00+00:00",
+  "last_published_at": "2026-02-09T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5b/westinghouse-air-brake-technologies-corporation-common-stock/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 22881,
+        "sha256": "sha256:365b5d44362aa7dd76ee716286d4a833f8311081c96eb823a607d47a234db9b6",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2026-02-09T00:00:00+00:00"
+      }
+    ]
+  }
+}

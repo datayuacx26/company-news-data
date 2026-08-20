@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a312cb1b72f6abdf066d2083730813b42904294a94e9846d7da3709d3c164f9a",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/terraform-secrets-management",
+    "canonical": "https://infisical.com/blog/terraform-secrets-management"
+  },
+  "title": "A Guide to Terraform Secrets Management: Keeping Secrets Secure in Infrastructure as Code",
+  "summary": "Terraform's state file stores every secret it touches in plaintext. Learn how ephemeral resources, OIDC in CI, dynamic secrets, and rotation keep real values out of state and Git for good.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/07/a3/a312cb1b72f6abdf066d2083730813b42904294a94e9846d7da3709d3c164f9a/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/07/a3/a312cb1b72f6abdf066d2083730813b42904294a94e9846d7da3709d3c164f9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33498,
+    "sha256": "sha256:c4a366a1640e9dc61facabd3de18e41a5d1efe4cff8f55a7bbd0928ce226fab4",
+    "normalized_content_hash": "sha256:81a629f02eb2598b230368611026699be0ceceea56db9a6612cc0a2207c9772e"
+  },
+  "provenance": {
+    "source_item_id": "1ffbbb01-daf3-4424-b420-77012d865688",
+    "external_id": "https://infisical.com/blog/terraform-secrets-management"
+  }
+}

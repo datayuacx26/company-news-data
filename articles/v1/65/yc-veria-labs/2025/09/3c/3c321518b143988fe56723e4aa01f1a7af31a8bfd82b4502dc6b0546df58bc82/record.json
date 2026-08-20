@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c321518b143988fe56723e4aa01f1a7af31a8bfd82b4502dc6b0546df58bc82",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/from-mcp-to-shell/",
+    "canonical": "https://verialabs.com/blog/from-mcp-to-shell/"
+  },
+  "title": "From MCP to Shell",
+  "summary": "How MCP authentication flaws enable RCE in Claude Code, Gemini CLI, and more.",
+  "published_at": "2025-09-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2025/09/3c/3c321518b143988fe56723e4aa01f1a7af31a8bfd82b4502dc6b0546df58bc82/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2025/09/3c/3c321518b143988fe56723e4aa01f1a7af31a8bfd82b4502dc6b0546df58bc82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18578,
+    "sha256": "sha256:3d390c5be09381b87a2b9f11c64e639f0870bd8eb47dec9cfffa725b58bfde6e",
+    "normalized_content_hash": "sha256:beeb0b414770de35e3985745bdbc9e464fcbc213b842c46ca9a0583081cdc92d"
+  },
+  "provenance": {
+    "source_item_id": "35700959-9fb7-4744-9f5b-7862b1372d2b",
+    "external_id": "https://verialabs.com/blog/from-mcp-to-shell/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd759f4739351abf9c8a30df7d7538dca3f4e92120ae9699547bfee85dc7fef5",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/build-with-sboms",
+    "canonical": "https://depot.dev/blog/build-with-sboms"
+  },
+  "title": "Easily generate SBOMs for every build with Depot",
+  "summary": "You can now generate a Software Bill of Materials (SBOM) for every build with Depot and access it directly from our new build Attestations view.",
+  "published_at": "2023-10-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/10/dd/dd759f4739351abf9c8a30df7d7538dca3f4e92120ae9699547bfee85dc7fef5/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/10/dd/dd759f4739351abf9c8a30df7d7538dca3f4e92120ae9699547bfee85dc7fef5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4494,
+    "sha256": "sha256:93161b09b133e92a4249ea82f5a2bf313d8a0ba2e4372e406a7886fa35785e9e",
+    "normalized_content_hash": "sha256:836bc5b10fcfc2c83855cc17eff1cd5725c68d6c471169e4f190c53e2f6b78e5"
+  },
+  "provenance": {
+    "source_item_id": "4150dff4-4558-4993-9d5d-9bd30a13f51e",
+    "external_id": "https://depot.dev/blog/build-with-sboms"
+  }
+}

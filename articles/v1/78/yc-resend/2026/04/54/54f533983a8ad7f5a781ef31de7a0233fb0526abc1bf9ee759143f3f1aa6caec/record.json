@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54f533983a8ad7f5a781ef31de7a0233fb0526abc1bf9ee759143f3f1aa6caec",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-news-import-e788018b3f7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://resend.com/changelog/mcp",
+    "canonical": "https://resend.com/changelog/mcp"
+  },
+  "title": "Official Resend MCP Server",
+  "summary": "Our official MCP server with Resend platform coverage, and an official HTTP transport.",
+  "published_at": "2026-04-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T21:22:09.024444+00:00",
+  "fetched_at": "2026-07-28T22:16:00.015330+00:00",
+  "last_updated_at": "2026-08-12T13:10:56.778071+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2026/04/54/54f533983a8ad7f5a781ef31de7a0233fb0526abc1bf9ee759143f3f1aa6caec/article.md",
+    "record": "articles/v1/78/yc-resend/2026/04/54/54f533983a8ad7f5a781ef31de7a0233fb0526abc1bf9ee759143f3f1aa6caec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4910,
+    "sha256": "sha256:48739c5abdab6b35593824db3c6babedeb2f6c287fc8e89891ee0453fa27c511",
+    "normalized_content_hash": "sha256:d8102fe7b302a5548d962834bd29b78b299b4a052f16fb07300624012f90e6ed"
+  },
+  "provenance": {
+    "source_item_id": "c9fa388d-fe93-4e6b-87b8-e17bb4be8d75",
+    "external_id": "https://resend.com/changelog/mcp"
+  }
+}

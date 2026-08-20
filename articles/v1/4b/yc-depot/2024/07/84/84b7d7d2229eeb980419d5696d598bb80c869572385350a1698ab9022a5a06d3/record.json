@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84b7d7d2229eeb980419d5696d598bb80c869572385350a1698ab9022a5a06d3",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-layer-caching-in-github-actions",
+    "canonical": "https://depot.dev/blog/docker-layer-caching-in-github-actions"
+  },
+  "title": "How to use Docker layer caching in GitHub Actions",
+  "summary": "To build a Docker image quickly, you should make use of Docker's layer cache. Here we show how to use the layer cache in GitHub Actions.",
+  "published_at": "2024-07-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/07/84/84b7d7d2229eeb980419d5696d598bb80c869572385350a1698ab9022a5a06d3/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/07/84/84b7d7d2229eeb980419d5696d598bb80c869572385350a1698ab9022a5a06d3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12416,
+    "sha256": "sha256:43fda48f9d3324f4171967122af6de2019ee76e1ded85f217c7fc47f8d7b3a0e",
+    "normalized_content_hash": "sha256:ac7d019049eb2f4d6ccdffe1f211d6840bbbc199fd71cea9dff9a81404f66e2a"
+  },
+  "provenance": {
+    "source_item_id": "d4a40c1e-b295-4770-a829-4b1380db809a",
+    "external_id": "https://depot.dev/blog/docker-layer-caching-in-github-actions"
+  }
+}

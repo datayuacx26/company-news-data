@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8bf275621b2a32a5079cc1445c5f7a0ddb0076fc574c77af44c66b9544fc469",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/pki-internal-certificate-management",
+    "canonical": "https://infisical.com/blog/pki-internal-certificate-management"
+  },
+  "title": "The Complete Guide to Private Certificate Management: How to Build and Run an Internal PKI",
+  "summary": "A technical guide to designing and running an internal PKI — CA hierarchy, issuance, revocation, automation, and lifecycle management.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/06/e8/e8bf275621b2a32a5079cc1445c5f7a0ddb0076fc574c77af44c66b9544fc469/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/06/e8/e8bf275621b2a32a5079cc1445c5f7a0ddb0076fc574c77af44c66b9544fc469/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22297,
+    "sha256": "sha256:06ea66577783a1647b7edccc2686f24013545e4e0eb1777e46adab0e575caef5",
+    "normalized_content_hash": "sha256:a1e56ee3cb7a987f22eff3f223bc43af297506b60f64ac5d7350e39ec763ca0e"
+  },
+  "provenance": {
+    "source_item_id": "a1442707-8ce6-4df0-8bd1-e7e673809bfa",
+    "external_id": "https://infisical.com/blog/pki-internal-certificate-management"
+  }
+}

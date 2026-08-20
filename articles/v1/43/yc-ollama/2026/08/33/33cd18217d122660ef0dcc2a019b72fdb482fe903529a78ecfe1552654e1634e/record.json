@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33cd18217d122660ef0dcc2a019b72fdb482fe903529a78ecfe1552654e1634e",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/nemotron-3-5-lightning",
+    "canonical": "https://ollama.com/blog/nemotron-3-5-lightning"
+  },
+  "title": "NVIDIA Nemotron 3.5 Lightning",
+  "summary": "NVIDIA Nemotron 3.5 Lightning is now available on Ollama. It's a 30 billion parameter (3B active) open model built for agents that stay running, gathering context, calling tools, and working through multi-step tasks on your own hardware.",
+  "published_at": null,
+  "first_seen_at": "2026-08-12T01:00:32.454031+00:00",
+  "fetched_at": "2026-08-12T01:00:33.862335+00:00",
+  "last_updated_at": "2026-08-19T19:53:45.811279+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/08/33/33cd18217d122660ef0dcc2a019b72fdb482fe903529a78ecfe1552654e1634e/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/08/33/33cd18217d122660ef0dcc2a019b72fdb482fe903529a78ecfe1552654e1634e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4550,
+    "sha256": "sha256:b66b3d3c58a0f15d53e541d38e40ec7e8c32a5c898bf777211f83306558a58cb",
+    "normalized_content_hash": "sha256:1fa5fa38c97cf63c1c11a7807c998f62195cafa8cf2505a876100b6157131693"
+  },
+  "provenance": {
+    "source_item_id": "5860023f-626d-4864-a483-65a149fe3a8b",
+    "external_id": "https://ollama.com/blog/nemotron-3-5-lightning"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31f68c6cfbb02e7e9000936a51b3218348c09e73bccb128db45a94de4a309612",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-to-build-with-depot-on-fly",
+    "canonical": "https://depot.dev/blog/how-to-build-with-depot-on-fly"
+  },
+  "title": "Deploy to Fly using a Depot builder",
+  "summary": "Using Fly.io's new Depot builder, we'll walk you through how to deploy a TypeScript service globally with speed.",
+  "published_at": "2024-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/08/31/31f68c6cfbb02e7e9000936a51b3218348c09e73bccb128db45a94de4a309612/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/08/31/31f68c6cfbb02e7e9000936a51b3218348c09e73bccb128db45a94de4a309612/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8216,
+    "sha256": "sha256:ec001ed65e0a8c710ac4e706ca04ff034a949580b23ddc2b3560c701dca2ad81",
+    "normalized_content_hash": "sha256:4797bf68b65296fbb952aa3e096a9138038ecfba025d12884e9c794e4f04687f"
+  },
+  "provenance": {
+    "source_item_id": "f5e3745c-2578-47a5-9841-4f8a5a55eb14",
+    "external_id": "https://depot.dev/blog/how-to-build-with-depot-on-fly"
+  }
+}

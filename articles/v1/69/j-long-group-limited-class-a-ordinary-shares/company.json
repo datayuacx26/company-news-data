@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "j-long-group-limited-class-a-ordinary-shares",
+    "name": "J-Long Group Limited"
+  },
+  "record_count": 9,
+  "first_published_at": "2024-01-23T10:20:57+00:00",
+  "last_published_at": "2025-12-23T10:00:01+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/69/j-long-group-limited-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 13344,
+        "sha256": "sha256:9280fa4b441cec99a93905c5bcc4f4b33e8cc829b793e8a1f908f3186c1faa1c",
+        "newest_at": "2025-12-23T10:00:01+00:00",
+        "oldest_at": "2024-01-23T10:20:57+00:00"
+      }
+    ]
+  }
+}

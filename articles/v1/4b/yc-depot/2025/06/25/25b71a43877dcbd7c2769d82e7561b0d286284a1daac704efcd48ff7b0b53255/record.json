@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25b71a43877dcbd7c2769d82e7561b0d286284a1daac704efcd48ff7b0b53255",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-to-calculate-github-actions-usage",
+    "canonical": "https://depot.dev/blog/how-to-calculate-github-actions-usage"
+  },
+  "title": "How to calculate your real GitHub Actions usage in minutes",
+  "summary": "GitHub Actions usage reporting doesn't tell the full story. If you're running different types of runners (like 4-core, 8-core, or more), those minutes aren't equal, and your total usage number doesn't reflect it.",
+  "published_at": "2025-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:27.560850+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/06/25/25b71a43877dcbd7c2769d82e7561b0d286284a1daac704efcd48ff7b0b53255/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/06/25/25b71a43877dcbd7c2769d82e7561b0d286284a1daac704efcd48ff7b0b53255/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3511,
+    "sha256": "sha256:5c3b1aa2b000fd28413f88bb26e51b14a0c3ae5bfd5bcf57da8b072a6ce8c87e",
+    "normalized_content_hash": "sha256:b3440daa636fef9a3ed40667f570bf4190b1b88c18e76129db7cd062ea81aa4a"
+  },
+  "provenance": {
+    "source_item_id": "4676ab82-4cdc-4674-ba6c-d5d4380bb64f",
+    "external_id": "https://depot.dev/blog/how-to-calculate-github-actions-usage"
+  }
+}

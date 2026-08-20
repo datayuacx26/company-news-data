@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b11875563819ace2181282ca7cd2dbfaaa141b29ad7acd82b8eb152ab6a99ff",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-clear-cache",
+    "canonical": "https://depot.dev/blog/docker-clear-cache"
+  },
+  "title": "How to clear Docker cache and free up space on your system",
+  "summary": "A breakdown of different Docker artifacts and build cache items that take up disk space and how to prune them individually or clear them all locally and in CI.",
+  "published_at": "2024-06-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/06/1b/1b11875563819ace2181282ca7cd2dbfaaa141b29ad7acd82b8eb152ab6a99ff/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/06/1b/1b11875563819ace2181282ca7cd2dbfaaa141b29ad7acd82b8eb152ab6a99ff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14751,
+    "sha256": "sha256:c95a8acd00b1a9e9e086d48db82f35a07bf6b2a4b21e2dfe160bf053eefe666f",
+    "normalized_content_hash": "sha256:b9056e43ab36bc1dec0a07596a5aae8e0162b54fa74d2cac010869fc340b3efd"
+  },
+  "provenance": {
+    "source_item_id": "aa7a0c23-ae94-43dc-a664-bf6771528add",
+    "external_id": "https://depot.dev/blog/docker-clear-cache"
+  }
+}

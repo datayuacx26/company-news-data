@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b8fe836e9ccf670caaa0e3db616bbea04e3c4991d75ef5b57c47ca8b5c2fc0c2",
+  "company": {
+    "key": "yc-inconvo",
+    "name": "Inconvo"
+  },
+  "source": {
+    "id": "yc-inconvo-news-import-030a8db3acc0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://inconvo.com/blog/how-we-built-a-chat-with-data-agent-that-doesnt-ai-generate-sql",
+    "canonical": "https://inconvo.com/blog/how-we-built-a-chat-with-data-agent-that-doesnt-ai-generate-sql/"
+  },
+  "title": "How we built a chat-with-data agent that doesn't AI generate SQL",
+  "summary": "An inside-the-engine tour of a guardrailed data agent: semantic layer first, validated query plans, deterministic access control, and clean outputs.",
+  "published_at": "2026-02-23T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:26:00.881998+00:00",
+  "fetched_at": "2026-07-28T22:19:22.533448+00:00",
+  "last_updated_at": "2026-08-20T01:55:24.654033+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-inconvo/2026/02/b8/b8fe836e9ccf670caaa0e3db616bbea04e3c4991d75ef5b57c47ca8b5c2fc0c2/article.md",
+    "record": "articles/v1/4c/yc-inconvo/2026/02/b8/b8fe836e9ccf670caaa0e3db616bbea04e3c4991d75ef5b57c47ca8b5c2fc0c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14251,
+    "sha256": "sha256:a225a92d4d423ce8237aa9e113495a039ab71bc42cd3f1c54d4e2d478278f643",
+    "normalized_content_hash": "sha256:998cea2f516b1b8c633e08324903511309dba8d383109e211332bfc9da383983"
+  },
+  "provenance": {
+    "source_item_id": "87a51fbe-2e32-4350-b4d0-07ff15458b11",
+    "external_id": "https://inconvo.com/blog/how-we-built-a-chat-with-data-agent-that-doesnt-ai-generate-sql/"
+  }
+}

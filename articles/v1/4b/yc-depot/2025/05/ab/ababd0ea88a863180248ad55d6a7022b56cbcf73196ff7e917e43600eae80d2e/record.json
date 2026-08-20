@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ababd0ea88a863180248ad55d6a7022b56cbcf73196ff7e917e43600eae80d2e",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/go-code-to-container-depot-api",
+    "canonical": "https://depot.dev/blog/go-code-to-container-depot-api"
+  },
+  "title": "From Go Code to Container Image with Depot API",
+  "summary": "The Depot API lets you build and push containers straight from your Go code. No Docker CLI. No scripts. Just fast, native builds triggered by a few lines of Go.",
+  "published_at": "2025-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/05/ab/ababd0ea88a863180248ad55d6a7022b56cbcf73196ff7e917e43600eae80d2e/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/05/ab/ababd0ea88a863180248ad55d6a7022b56cbcf73196ff7e917e43600eae80d2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8394,
+    "sha256": "sha256:e72248ccea6d404aa082e496ce9e14ad6e944ec9a7ce4131b85a5cd6514bd047",
+    "normalized_content_hash": "sha256:d2916f1ae7e8bdaf7fe65947aa9183e3d8089f9369e2b2a6664b2572f91fbaab"
+  },
+  "provenance": {
+    "source_item_id": "ef6c8529-3b92-47b9-ad6b-9bd7c2f99ebb",
+    "external_id": "https://depot.dev/blog/go-code-to-container-depot-api"
+  }
+}

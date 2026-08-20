@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2545ef533c034d810a98cf2be20fe1c69d3ec8300385df835c8073b004ddfb97",
+  "company": {
+    "key": "yc-sourceress",
+    "name": "Sourceress"
+  },
+  "source": {
+    "id": "yc-sourceress-news-import-457a07c39d0c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://imbue.com/blog/latchkey",
+    "canonical": "https://imbue.com/blog/latchkey"
+  },
+  "title": "Latchkey: Use plain old REST instead of MCP",
+  "summary": "",
+  "published_at": "2026-02-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:22:31.918155+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T20:29:56.234340+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-sourceress/2026/02/25/2545ef533c034d810a98cf2be20fe1c69d3ec8300385df835c8073b004ddfb97/article.md",
+    "record": "articles/v1/62/yc-sourceress/2026/02/25/2545ef533c034d810a98cf2be20fe1c69d3ec8300385df835c8073b004ddfb97/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3922,
+    "sha256": "sha256:3ce508b8d4d8aab582617bd73852fa1b192a6e6146bf4b591ef2b32b67d070cc",
+    "normalized_content_hash": "sha256:df529d3a3d6a609760d7b228f07765cb402fffddc7fabe0d276eae9a5ffbec4b"
+  },
+  "provenance": {
+    "source_item_id": "de279c82-74f1-4d56-92f1-979ca8bf96c2",
+    "external_id": "https://imbue.com/blog/latchkey"
+  }
+}

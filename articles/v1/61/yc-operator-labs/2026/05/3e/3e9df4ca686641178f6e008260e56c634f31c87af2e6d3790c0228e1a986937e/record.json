@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e9df4ca686641178f6e008260e56c634f31c87af2e6d3790c0228e1a986937e",
+  "company": {
+    "key": "yc-operator-labs",
+    "name": "Operator Labs"
+  },
+  "source": {
+    "id": "yc-operator-labs-news-import-4e5219b8eb88",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://operator.io/blog/connect-gmail-to-your-agent-without-google-cloud",
+    "canonical": "https://operator.io/blog/connect-gmail-to-your-agent-without-google-cloud"
+  },
+  "title": "Connect Gmail to your agent without a Google Cloud project",
+  "summary": "Give your agent Gmail and Calendar without a Google Cloud project. Use Composio or Pipedream OAuth so the broker stores and refreshes tokens.",
+  "published_at": "2026-05-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:49:23.882568+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-19T18:38:44.631200+00:00",
+  "paths": {
+    "article": "articles/v1/61/yc-operator-labs/2026/05/3e/3e9df4ca686641178f6e008260e56c634f31c87af2e6d3790c0228e1a986937e/article.md",
+    "record": "articles/v1/61/yc-operator-labs/2026/05/3e/3e9df4ca686641178f6e008260e56c634f31c87af2e6d3790c0228e1a986937e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9212,
+    "sha256": "sha256:81dd14ce6a56a41cd36a9273227c5f6658667fc25aa1016d5b6bcb776f95860a",
+    "normalized_content_hash": "sha256:adc83991c5555186893204338b15fc3cdfda7dce6048da5f4924242c088e67cc"
+  },
+  "provenance": {
+    "source_item_id": "865044ce-5438-4d1d-b37e-f1225ad55177",
+    "external_id": "https://operator.io/blog/connect-gmail-to-your-agent-without-google-cloud"
+  }
+}

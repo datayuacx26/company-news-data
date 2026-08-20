@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "852d4d1a82623ab70f648446680c20a72ab5c0fad05f35df254b9fa9d7e47ff0",
+  "company": {
+    "key": "liveramp-holdings-inc-common-stock",
+    "name": "LiveRamp Holdings Inc."
+  },
+  "source": {
+    "id": "liveramp-holdings-inc-common-stock-news-import-7c97de429105",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://liveramp.com/blog/data-pipeline-performance-optimization",
+    "canonical": "https://liveramp.com/blog/data-pipeline-performance-optimization"
+  },
+  "title": "How LiveRamp Rebuilt a Data Pipeline Service to Cut Processing Time by 90%",
+  "summary": "Learn how LiveRamp modernized a data pipeline service with SingleStore, reducing processing time by more than 90% while lowering costs.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:36:45.090703+00:00",
+  "fetched_at": "2026-07-28T21:23:16.325685+00:00",
+  "last_updated_at": "2026-08-19T23:35:38.277496+00:00",
+  "paths": {
+    "article": "articles/v1/74/liveramp-holdings-inc-common-stock/2026/06/85/852d4d1a82623ab70f648446680c20a72ab5c0fad05f35df254b9fa9d7e47ff0/article.md",
+    "record": "articles/v1/74/liveramp-holdings-inc-common-stock/2026/06/85/852d4d1a82623ab70f648446680c20a72ab5c0fad05f35df254b9fa9d7e47ff0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6431,
+    "sha256": "sha256:f402a4e40343ae16903d440b815475fc6a93457fc9d4aedd2e7a199e2b0cf9a9",
+    "normalized_content_hash": "sha256:045632050e3b2b7ca66aae23091d1b12ceccc9f4583496b188b78a5b71a2b3a3"
+  },
+  "provenance": {
+    "source_item_id": "c817fe2a-6233-4ca5-a554-becac7ad9908",
+    "external_id": "https://liveramp.com/blog/data-pipeline-performance-optimization"
+  }
+}

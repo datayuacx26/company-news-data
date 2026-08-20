@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c6dc418df8eb986faa888fb3550d7e4461db60f6b6d54917dfd8686703ab0b02",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/sandboxes-in-kubernetes-using-opentelemetry/",
+    "canonical": "https://www.signadot.com/blog/sandboxes-in-kubernetes-using-opentelemetry/"
+  },
+  "title": "Sandboxes in Kubernetes using OpenTelemetry",
+  "summary": "Learn how to leverage OpenTelemetry to create efficient sandboxes in Kubernetes for scalable microservice testing. Discover techniques for request routing, state isolation, and managing message queues and third-party APIs.",
+  "published_at": "2023-04-04T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/04/c6/c6dc418df8eb986faa888fb3550d7e4461db60f6b6d54917dfd8686703ab0b02/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/04/c6/c6dc418df8eb986faa888fb3550d7e4461db60f6b6d54917dfd8686703ab0b02/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18912,
+    "sha256": "sha256:0611299bda4b9db074a79bfdae895d1daae449f89a213f604aa12a7a146531e9",
+    "normalized_content_hash": "sha256:1fc36ebf8569c6c7b131adc1c6b910a14c96abc024b1bec61ed06dd34ad9d634"
+  },
+  "provenance": {
+    "source_item_id": "03e8dac7-2ca8-413b-a9f6-77bd5de39b3f",
+    "external_id": "https://www.signadot.com/blog/sandboxes-in-kubernetes-using-opentelemetry/"
+  }
+}

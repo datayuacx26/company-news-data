@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed5bc805d73f2aa605304fd1d8b397d3e5ecf1773d6c2e56d208d42cb38bdeab",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137696",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137696"
+  },
+  "title": "SA-2026-088 - ExtremeXOS Privilege Escalation via Symlink Following in File Utilities (CVE-2026-8170)",
+  "summary": "The mv, cp, and rm file utilities exposed within the ExtremeXOS shell environment fail to safely canonicalize paths and follow symbolic links outside of the intended privilege boundary. An attacker with admin CLI access can create a symbolic link from a writable user directory to a privileged location (such as /dev) and then invoke the affected utilities to read, modify, or replace security-critical files outside of their authorized scope. Under certain conditions, this may enable escalation to root-level access and persistent modification of the device software stack. Exploitation is possible remotely by an attacker holding an admin account, or locally via the serial console. Extreme would like to thank Hadrien Barral (Université Gustave Eiffel) and Georges-Axel Jaloyan (French Ministry of the Interior) for responsible disclosure of their findings. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-08-07T13:47:03+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/08/ed/ed5bc805d73f2aa605304fd1d8b397d3e5ecf1773d6c2e56d208d42cb38bdeab/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/08/ed/ed5bc805d73f2aa605304fd1d8b397d3e5ecf1773d6c2e56d208d42cb38bdeab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1959,
+    "sha256": "sha256:883ac0f7ca9c5b96e4631938ad11deccf4b7bc5bc4bfe9d71967e4a6ad51ce13",
+    "normalized_content_hash": "sha256:890f23a3bdd09f845a9d6b2a1c3eecfe519a07050133abe7c1a9592f532c24b2"
+  },
+  "provenance": {
+    "source_item_id": "157858d4-b9d0-4f89-87c6-f2f1457f6278",
+    "external_id": "000137696"
+  }
+}

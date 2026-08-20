@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "492ecd4c49af504297ffffdf3a65b54d063ed6de8e4cbd4502526f7a1b9a3011",
+  "company": {
+    "key": "yc-corgea",
+    "name": "Corgea"
+  },
+  "source": {
+    "id": "yc-corgea-news-import-efe6052ddd93",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corgea.com/blog/how-does-corgea-work",
+    "canonical": "https://corgea.com/blog/how-does-corgea-work"
+  },
+  "title": "How does Corgea work?",
+  "summary": "Corgea connects to SAST tools like Snyk & Semgrep, writes AI-powered fixes with explanations, saving security teams 80% effort & speeding up patching.",
+  "published_at": "2023-12-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T15:02:54.375122+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-07-28T21:35:56.088652+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-corgea/2023/12/49/492ecd4c49af504297ffffdf3a65b54d063ed6de8e4cbd4502526f7a1b9a3011/article.md",
+    "record": "articles/v1/45/yc-corgea/2023/12/49/492ecd4c49af504297ffffdf3a65b54d063ed6de8e4cbd4502526f7a1b9a3011/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5247,
+    "sha256": "sha256:4ac99d2b1b5dd6d618d03d0aee1fdd59263c8e77c7aea89100f0298351710647",
+    "normalized_content_hash": "sha256:a8055ab65fe77c800b46979bfe88e9e1d03263bd3434b39dce1ce9d65b53f56e"
+  },
+  "provenance": {
+    "source_item_id": "6220380a-a204-4b71-87c5-318fb83ddd17",
+    "external_id": "https://corgea.com/blog/how-does-corgea-work"
+  }
+}

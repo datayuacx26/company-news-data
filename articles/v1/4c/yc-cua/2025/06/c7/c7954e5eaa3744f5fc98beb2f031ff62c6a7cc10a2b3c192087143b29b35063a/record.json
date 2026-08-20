@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7954e5eaa3744f5fc98beb2f031ff62c6a7cc10a2b3c192087143b29b35063a",
+  "company": {
+    "key": "yc-cua",
+    "name": "Cua"
+  },
+  "source": {
+    "id": "yc-cua-news-import-c869e0198521",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cua.ai/blog/sandboxed-python-execution",
+    "canonical": "https://cua.ai/blog/sandboxed-python-execution"
+  },
+  "title": "Sandboxed Python Execution: Run Code Safely in Cua Containers",
+  "summary": "Learn how to use the @sandboxed decorator to execute Python functions safely in isolated virtual environments within Cua containers.",
+  "published_at": "2025-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T15:30:37.690309+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:51.168091+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-cua/2025/06/c7/c7954e5eaa3744f5fc98beb2f031ff62c6a7cc10a2b3c192087143b29b35063a/article.md",
+    "record": "articles/v1/4c/yc-cua/2025/06/c7/c7954e5eaa3744f5fc98beb2f031ff62c6a7cc10a2b3c192087143b29b35063a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14707,
+    "sha256": "sha256:890165f6c35bf0308f0cbd9621d7f01abe4493cd50957647416da822583f0936",
+    "normalized_content_hash": "sha256:717aeb08607d93b4f8a4828e8aaee826f76b0dcc910e3ca89f41e3b46e9a59dc"
+  },
+  "provenance": {
+    "source_item_id": "0c98f2bb-c210-4e9b-b007-64eb30a97192",
+    "external_id": "https://cua.ai/blog/sandboxed-python-execution"
+  }
+}

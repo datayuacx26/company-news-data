@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "57bee69d8b9b3c395b5a35c3d00c7a31e52a850541cc04495b61ae44b8647d6a",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/build-transactional-workflows",
+    "canonical": "https://airbyte.com/blog/build-transactional-workflows"
+  },
+  "title": "How to Build Transactional Workflows Across Non-Transactional APIs",
+  "summary": "Build reliable transactional workflows across non-transactional APIs—patterns for retries, compensation, idempotency, and rollback.",
+  "published_at": "2026-06-10T09:25:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-07-28T21:25:02.596308+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/06/57/57bee69d8b9b3c395b5a35c3d00c7a31e52a850541cc04495b61ae44b8647d6a/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/06/57/57bee69d8b9b3c395b5a35c3d00c7a31e52a850541cc04495b61ae44b8647d6a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23369,
+    "sha256": "sha256:ce718ae3a1241fcd73f35088e78bdd87ec7f741b080745ab14044b2c882b4b2b",
+    "normalized_content_hash": "sha256:4a1fd06197b5cb77c98a60d2e029b2894eddd84705a36264bb8f11c72761a383"
+  },
+  "provenance": {
+    "source_item_id": "00ac6839-60fd-4d34-8a0f-8a346a5ad7f0",
+    "external_id": "https://airbyte.com/blog/build-transactional-workflows"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cceef08f5cccff700a93e2e406db01ef5e4d82dab7b69ef07e84b2c00e1193c0",
+  "company": {
+    "key": "yc-cubic",
+    "name": "cubic"
+  },
+  "source": {
+    "id": "yc-cubic-news-import-612274238019",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cubic.dev/blog/comprehensive-ai-codebase-audits-beyond-individual-pull-requests",
+    "canonical": "https://www.cubic.dev/blog/comprehensive-ai-codebase-audits-beyond-individual-pull-requests"
+  },
+  "title": "cubic blog: Comprehensive AI Codebase Audits: Beyond Individual Pull Requests",
+  "summary": "Most AI code review tools activate only when a pull request is opened, leaving the vast majority of a codebase uninspected between changes.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T06:53:38.364034+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T00:19:53.917923+00:00",
+  "paths": {
+    "article": "articles/v1/7e/yc-cubic/2026/06/cc/cceef08f5cccff700a93e2e406db01ef5e4d82dab7b69ef07e84b2c00e1193c0/article.md",
+    "record": "articles/v1/7e/yc-cubic/2026/06/cc/cceef08f5cccff700a93e2e406db01ef5e4d82dab7b69ef07e84b2c00e1193c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8813,
+    "sha256": "sha256:62589126f5841a425476927e06f857d268f9352beb230104b0bf3952a0b093de",
+    "normalized_content_hash": "sha256:c3f7fb210afb0bb80a733fb94822220cf7a729125fb35ddfd0ae0d9250a07d74"
+  },
+  "provenance": {
+    "source_item_id": "0625c53d-e244-4b69-8e63-0799be7f1977",
+    "external_id": "https://www.cubic.dev/blog/comprehensive-ai-codebase-audits-beyond-individual-pull-requests"
+  }
+}

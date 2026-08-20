@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9caf79ba2c889a398b17cfe154fbf5cf857ceadff4705d6025c549164425921b",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-news-import-e788018b3f7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://resend.com/changelog/remote-mcp-server",
+    "canonical": "https://resend.com/changelog/remote-mcp-server"
+  },
+  "title": "Remote MCP Server",
+  "summary": "Resend offers a hosted, MCP server with OAuth authentication built in.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T21:22:09.024444+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T01:39:55.585906+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2026/07/9c/9caf79ba2c889a398b17cfe154fbf5cf857ceadff4705d6025c549164425921b/article.md",
+    "record": "articles/v1/78/yc-resend/2026/07/9c/9caf79ba2c889a398b17cfe154fbf5cf857ceadff4705d6025c549164425921b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3304,
+    "sha256": "sha256:fc1e774c861c79b07a70f61ac7ece785a589f4a2a6acc8b5c157d8592f902212",
+    "normalized_content_hash": "sha256:28ff8f7eea69db8b4b227e3efdda090fbdb7f4176ca2a1455d201fa739760296"
+  },
+  "provenance": {
+    "source_item_id": "9ef44476-e962-49c6-baa4-f09d1bd88db9",
+    "external_id": "https://resend.com/changelog/remote-mcp-server"
+  }
+}

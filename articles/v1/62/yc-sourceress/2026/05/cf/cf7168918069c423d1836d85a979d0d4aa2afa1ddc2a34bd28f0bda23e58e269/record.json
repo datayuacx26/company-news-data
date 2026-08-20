@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf7168918069c423d1836d85a979d0d4aa2afa1ddc2a34bd28f0bda23e58e269",
+  "company": {
+    "key": "yc-sourceress",
+    "name": "Sourceress"
+  },
+  "source": {
+    "id": "yc-sourceress-news-import-457a07c39d0c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://imbue.com/blog/fine-grained-http-permissions-for-ai-agents",
+    "canonical": "https://imbue.com/blog/fine-grained-http-permissions-for-ai-agents"
+  },
+  "title": "Fine-grained HTTP permissions for AI agents",
+  "summary": "How to lock down what AI agents can do with APIs they have access to. Fine-grained permissions for Latchkey using JSON schemas.",
+  "published_at": "2026-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:22:31.918155+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T20:29:56.234340+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-sourceress/2026/05/cf/cf7168918069c423d1836d85a979d0d4aa2afa1ddc2a34bd28f0bda23e58e269/article.md",
+    "record": "articles/v1/62/yc-sourceress/2026/05/cf/cf7168918069c423d1836d85a979d0d4aa2afa1ddc2a34bd28f0bda23e58e269/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6125,
+    "sha256": "sha256:fa82aac72ff83fe704ff125305d811f4c8d525efc7886e3daa98f57714445df5",
+    "normalized_content_hash": "sha256:cf141744edc86a62d5bc4b1cfc9324a4d5e74bb284a7c8a137be51883d9d523b"
+  },
+  "provenance": {
+    "source_item_id": "3733a2ab-88cc-4cce-ac1c-d42ac007191b",
+    "external_id": "https://imbue.com/blog/fine-grained-http-permissions-for-ai-agents"
+  }
+}

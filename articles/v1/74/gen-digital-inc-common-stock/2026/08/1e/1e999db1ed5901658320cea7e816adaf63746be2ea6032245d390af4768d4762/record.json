@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e999db1ed5901658320cea7e816adaf63746be2ea6032245d390af4768d4762",
+  "company": {
+    "key": "gen-digital-inc-common-stock",
+    "name": "Gen Digital Inc."
+  },
+  "source": {
+    "id": "gen-digital-inc-common-stock-rss-b2c253ea0afd",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.gendigital.com/blog/insights/research/kb-backdoor",
+    "canonical": "https://www.gendigital.com/blog/insights/research/kb-backdoor"
+  },
+  "title": "A 12 KB Backdoor Hid Its C2 Domain in desktop.ini Whitespace",
+  "summary": "A hand-written Windows backdoor stored its command-and-control domain as the number of trailing spaces in a fake desktop.ini, and we found it on exactly one machine.",
+  "published_at": "2026-08-14T13:52:27+00:00",
+  "first_seen_at": "2026-08-14T14:13:02.903458+00:00",
+  "fetched_at": "2026-08-14T14:13:05.056968+00:00",
+  "last_updated_at": "2026-08-20T01:02:20.744446+00:00",
+  "paths": {
+    "article": "articles/v1/74/gen-digital-inc-common-stock/2026/08/1e/1e999db1ed5901658320cea7e816adaf63746be2ea6032245d390af4768d4762/article.md",
+    "record": "articles/v1/74/gen-digital-inc-common-stock/2026/08/1e/1e999db1ed5901658320cea7e816adaf63746be2ea6032245d390af4768d4762/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22413,
+    "sha256": "sha256:8c085ce6e015456e358ac1f350bfbe3092063896a781146bc819fd7ec0340b6c",
+    "normalized_content_hash": "sha256:20244d3f5384a05a366fd3c6b4f5d141bb14202ea2bdc3d2b8e529a0e0a769ae"
+  },
+  "provenance": {
+    "source_item_id": "86a27faf-678f-4cfe-ae08-0c0426e9bd68",
+    "external_id": "https://www.gendigital.com/blog/insights/research/kb-backdoor"
+  }
+}

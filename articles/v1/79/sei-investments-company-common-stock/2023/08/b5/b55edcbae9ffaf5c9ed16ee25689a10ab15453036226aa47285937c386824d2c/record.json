@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b55edcbae9ffaf5c9ed16ee25689a10ab15453036226aa47285937c386824d2c",
+  "company": {
+    "key": "sei-investments-company-common-stock",
+    "name": "SEI Investments Company"
+  },
+  "source": {
+    "id": "sei-investments-company-common-stock-rss-baf77b6563d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://developers.seic.com/browse/apis/pending-transactions",
+    "canonical": "http://developers.seic.com/browse/apis/pending-transactions"
+  },
+  "title": "Pending Transactions",
+  "summary": "Pending Transactions Retrieve, Create and Modify Investor level capital activity. Once created the transaction is in a pending state until booked in SEI's accounting systems which is not tracked via these APIs. Naga Vangala Tue, 08/29/2023 - 15:22 Investor Trade Europe North America Document BG Color #173b6b Document Icon Priority order list 3 Openapi Spec Sandbox Postman Collection Button Enable Review FAQs Button Enable Try It Now Button Enable",
+  "published_at": "2023-08-29T19:22:54+00:00",
+  "first_seen_at": "2026-07-20T23:21:36.655623+00:00",
+  "fetched_at": "2026-07-24T19:28:58.558948+00:00",
+  "last_updated_at": "2026-07-24T19:28:58.567567+00:00",
+  "paths": {
+    "article": "articles/v1/79/sei-investments-company-common-stock/2023/08/b5/b55edcbae9ffaf5c9ed16ee25689a10ab15453036226aa47285937c386824d2c/article.md",
+    "record": "articles/v1/79/sei-investments-company-common-stock/2023/08/b5/b55edcbae9ffaf5c9ed16ee25689a10ab15453036226aa47285937c386824d2c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1240,
+    "sha256": "sha256:63649d0f0a679f083fc772674b52f2078009c45d32b9cd0f839b70be8b43a804",
+    "normalized_content_hash": "sha256:83a927ede7fe8759102f51f675e76ef7d61f24c2b037a23bd9e9a08af5a0f3a4"
+  },
+  "provenance": {
+    "source_item_id": "17fa17d1-23b1-4710-be7f-567b16ef2570",
+    "external_id": "344 at http://developers.seic.com"
+  }
+}

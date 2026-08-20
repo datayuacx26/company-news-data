@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e663a8f1695d19bde1bba4a6f55c00d46330897b0b7a87599ebb87c46bed5e92",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/buildx-bake-deep-dive",
+    "canonical": "https://depot.dev/blog/buildx-bake-deep-dive"
+  },
+  "title": "Buildx bake deep dive: Bake all your images with one command",
+  "summary": "Building multiple Docker images sequentially wastes time and duplicates work. `docker buildx bake` lets you define all your builds in one file and run them in parallel, with BuildKit automatically deduplicating shared dependencies.",
+  "published_at": "2024-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/02/e6/e663a8f1695d19bde1bba4a6f55c00d46330897b0b7a87599ebb87c46bed5e92/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/02/e6/e663a8f1695d19bde1bba4a6f55c00d46330897b0b7a87599ebb87c46bed5e92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22962,
+    "sha256": "sha256:65244b7d1372df6ffe2bd3d1b665466930c6a2069c08548747725989a9c6c83b",
+    "normalized_content_hash": "sha256:a5920d6d211e10d56a448956e8bffa091ffb67e90cb5fc3ee80df65b48d018c7"
+  },
+  "provenance": {
+    "source_item_id": "67072441-d797-40b8-9bef-e88d639b1e20",
+    "external_id": "https://depot.dev/blog/buildx-bake-deep-dive"
+  }
+}

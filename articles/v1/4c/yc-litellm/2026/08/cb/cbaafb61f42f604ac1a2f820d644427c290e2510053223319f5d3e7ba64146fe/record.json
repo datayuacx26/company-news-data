@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cbaafb61f42f604ac1a2f820d644427c290e2510053223319f5d3e7ba64146fe",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/auto-router-production-savings",
+    "canonical": "https://docs.litellm.ai/blog/auto-router-production-savings"
+  },
+  "title": "51% Cost Savings Reported From a Live Production Deployment",
+  "summary": "A LiteLLM customer rolled the Auto Router out to 450+ users in production and shared four months of numbers: 272,876 requests, 7.08 billion tokens, and $12,249 saved against an all-flagship baseline.",
+  "published_at": "2026-08-10T10:00:00+00:00",
+  "first_seen_at": "2026-08-12T09:20:53.877456+00:00",
+  "fetched_at": "2026-08-12T09:20:55.048845+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/08/cb/cbaafb61f42f604ac1a2f820d644427c290e2510053223319f5d3e7ba64146fe/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/08/cb/cbaafb61f42f604ac1a2f820d644427c290e2510053223319f5d3e7ba64146fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6911,
+    "sha256": "sha256:3258f32670a786dc81250057b274416a774911986d1e69b52a6303a8318f38b9",
+    "normalized_content_hash": "sha256:6b9e32d8e33611a0cf6c7ed1869bf00d0cbe4db9aaa57f0bc268062af15d699a"
+  },
+  "provenance": {
+    "source_item_id": "18a584c9-1beb-4697-9082-968b9f65b670",
+    "external_id": "https://docs.litellm.ai/blog/auto-router-production-savings"
+  }
+}

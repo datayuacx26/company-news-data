@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "013bec1e58c9d9c206dd3f5db3a1eef7a1192cbcf158bdc41bf4bcc5c343e852",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/october-20-us-east-1-outage",
+    "canonical": "https://depot.dev/blog/october-20-us-east-1-outage"
+  },
+  "title": "Knowledge share: Insights from the us-east-1 outage on October 20th",
+  "summary": "We were affected by the major us-east-1 outage on October 20th that disrupted several core AWS services. Here is how we were impacted, how we responded, and what we're doing to make our system more resilient to full region outages in the future.",
+  "published_at": "2025-10-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:55:32.133421+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/10/01/013bec1e58c9d9c206dd3f5db3a1eef7a1192cbcf158bdc41bf4bcc5c343e852/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/10/01/013bec1e58c9d9c206dd3f5db3a1eef7a1192cbcf158bdc41bf4bcc5c343e852/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14570,
+    "sha256": "sha256:b430d5aaa4dd5086b45b6e25ed13e87e18419baa4e1c81dfa67925b3a7e5e08f",
+    "normalized_content_hash": "sha256:f9a5ee55b0125f7608a2d8da30e7dac1186e98b9dd12b0f4bbfc1d7344bf8375"
+  },
+  "provenance": {
+    "source_item_id": "d09fbf1b-ba1e-4c84-b037-2de7ff065f51",
+    "external_id": "https://depot.dev/blog/october-20-us-east-1-outage"
+  }
+}

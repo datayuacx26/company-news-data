@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c73657b7d5cb9849f6efffd1d803cd099462ed4e957cc96439beb5065ae4413",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/jupyter-notebooks-on-archil",
+    "canonical": "https://archil.com/article/jupyter-notebooks-on-archil"
+  },
+  "title": "Tutorial: Jupyter Notebooks on Archil",
+  "summary": "Set up Jupyter on AWS EC2 with S3 and Archil to build a high-performance, cloud-native analytics environment—mount S3 as a local file system for instant, code-free data access and faster analysis.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/2c/2c73657b7d5cb9849f6efffd1d803cd099462ed4e957cc96439beb5065ae4413/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/2c/2c73657b7d5cb9849f6efffd1d803cd099462ed4e957cc96439beb5065ae4413/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13806,
+    "sha256": "sha256:5cc98f9c92c2c76fd3c27ae7e048dd625c04a6d4fe3d4da3547bee896f22fa11",
+    "normalized_content_hash": "sha256:a75941fe3e92a128936aab4522fe8265ae9540b44aad691625b3030440b631e3"
+  },
+  "provenance": {
+    "source_item_id": "b5fc2f32-11a7-45d2-8c49-e781566b2d2f",
+    "external_id": "https://archil.com/article/jupyter-notebooks-on-archil"
+  }
+}

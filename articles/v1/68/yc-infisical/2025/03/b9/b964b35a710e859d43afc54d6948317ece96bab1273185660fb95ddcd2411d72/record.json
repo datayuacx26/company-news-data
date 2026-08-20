@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b964b35a710e859d43afc54d6948317ece96bab1273185660fb95ddcd2411d72",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/managing-secrets-mcp-servers",
+    "canonical": "https://infisical.com/blog/managing-secrets-mcp-servers"
+  },
+  "title": "Managing Secrets in MCP Servers",
+  "summary": "As your MCP servers connect LLMs to external tools, they become a security hotspot. Here are some practical patterns to avoid credential compromises.",
+  "published_at": "2025-03-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2025/03/b9/b964b35a710e859d43afc54d6948317ece96bab1273185660fb95ddcd2411d72/article.md",
+    "record": "articles/v1/68/yc-infisical/2025/03/b9/b964b35a710e859d43afc54d6948317ece96bab1273185660fb95ddcd2411d72/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11590,
+    "sha256": "sha256:c48f7b3e021bfe4b2313dbef7d3fefa4bf7c2e6b1ec3fdf2667e3b79871431a9",
+    "normalized_content_hash": "sha256:bcc61fae41c1cb0b9d79b6410a92b032a65da83ee5ad7cec70adb7989533f1b2"
+  },
+  "provenance": {
+    "source_item_id": "fc58ab55-0bf5-41e8-8e71-2b3f3df50e5b",
+    "external_id": "https://infisical.com/blog/managing-secrets-mcp-servers"
+  }
+}

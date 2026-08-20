@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0eae391f5c12fa553f60f8cdd0b04131c6ffa094e4035daa8286e6aa93cc9675",
+  "company": {
+    "key": "shutterstock-inc-common-stock",
+    "name": "Shutterstock Inc."
+  },
+  "source": {
+    "id": "shutterstock-inc-common-stock-rss-4c794ed87dc5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.shutterstock.com/2017/04/13/image-search-using-joint-embeddings-part-two",
+    "canonical": "https://tech.shutterstock.com/2017/04/13/image-search-using-joint-embeddings-part-two"
+  },
+  "title": "Image Search Using Joint Embeddings (Part Two)",
+  "summary": "In Part 1, we discussed how using joint embeddings to rank images can help address the cold start problem. We showed that the joint embedding ranker exposes more new images than our existing ranker. This difference was even more pronounced for popular queries, where our existing ranker tends to favor...",
+  "published_at": "2017-04-13T04:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:13.615263+00:00",
+  "fetched_at": "2026-07-28T22:27:28.230343+00:00",
+  "last_updated_at": "2026-08-20T00:29:18.247067+00:00",
+  "paths": {
+    "article": "articles/v1/58/shutterstock-inc-common-stock/2017/04/0e/0eae391f5c12fa553f60f8cdd0b04131c6ffa094e4035daa8286e6aa93cc9675/article.md",
+    "record": "articles/v1/58/shutterstock-inc-common-stock/2017/04/0e/0eae391f5c12fa553f60f8cdd0b04131c6ffa094e4035daa8286e6aa93cc9675/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7167,
+    "sha256": "sha256:949071d36b0222a3b79a6a494ad92a654207028194561fa7b2920ac807ef2ae3",
+    "normalized_content_hash": "sha256:9dbc6b616a1390ac8b2074da1e969b0fe399414fa6498bac69d2a49b0f2a036b"
+  },
+  "provenance": {
+    "source_item_id": "56297895-ebb3-4db5-a961-1cf4a1fa8e4d",
+    "external_id": "https://tech.shutterstock.com/2017/04/13/image-search-using-joint-embeddings-part-two"
+  }
+}

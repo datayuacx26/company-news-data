@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-bitmovin",
+    "name": "Bitmovin"
+  },
+  "record_count": 26,
+  "first_published_at": "2022-09-22T12:25:25+00:00",
+  "last_published_at": "2026-08-07T16:11:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7f/yc-bitmovin/index/pages/000001.json",
+        "record_count": 26,
+        "byte_count": 26685,
+        "sha256": "sha256:78fe5324367e5547503ca6b9420dc94a77aab36a85c6f0d9a3c6741972566f20",
+        "newest_at": "2026-08-07T16:11:00+00:00",
+        "oldest_at": "2022-09-22T12:25:25+00:00"
+      }
+    ]
+  }
+}

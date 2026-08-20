@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "499dd649c86aed96bad9f303679719a2ed3beaa470bfa74e57abbc29e5073f3a",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/equall-improves-legal-document-structuring-and-retrieval-accuracy-with-zeroentropy/",
+    "canonical": "https://zeroentropy.dev/articles/equall-improves-legal-document-structuring-and-retrieval-accuracy-with-zeroentropy/"
+  },
+  "title": "Equall Improves Legal Document Structuring and Retrieval Accuracy with ZeroEntropy",
+  "summary": "ZeroEntropy's reranker consistently outperformed every alternative we tested — recall@10, recall@5, across datasets. It's fast, stable, and a no-brainer for legal document pipelines.",
+  "published_at": "2025-10-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:32:01.128496+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2025/10/49/499dd649c86aed96bad9f303679719a2ed3beaa470bfa74e57abbc29e5073f3a/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2025/10/49/499dd649c86aed96bad9f303679719a2ed3beaa470bfa74e57abbc29e5073f3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5838,
+    "sha256": "sha256:b21ca5df407f22e09ae4d4c189af671cb9979f9802f9d63e6d5c1eb30f02c717",
+    "normalized_content_hash": "sha256:537d66970be8746296a680717bc10856a25ab505f4e99cb8fc5a998eb97f9a0e"
+  },
+  "provenance": {
+    "source_item_id": "3876616a-d2d6-491b-86e7-9cc5186380a7",
+    "external_id": "https://zeroentropy.dev/articles/equall-improves-legal-document-structuring-and-retrieval-accuracy-with-zeroentropy/"
+  }
+}

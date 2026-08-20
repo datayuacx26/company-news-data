@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "obsidian-energy-ltd-common-shares",
+    "name": "Obsidian Energy Ltd. Common Shares"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-02-19T22:00:00+00:00",
+  "last_published_at": "2026-07-30T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/obsidian-energy-ltd-common-shares/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 21080,
+        "sha256": "sha256:3919599e6f56cac9605fd0cfc7ce1de00c48f21aeaa3c9d4e974d74b433d9a80",
+        "newest_at": "2026-07-30T11:00:00+00:00",
+        "oldest_at": "2026-02-19T22:00:00+00:00"
+      }
+    ]
+  }
+}

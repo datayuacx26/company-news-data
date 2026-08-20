@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c6bf80a9327d3f2c59a055bd23bc3c67683a5bbd5be0174a351c177651b2e01f",
+  "company": {
+    "key": "yc-operator-labs",
+    "name": "Operator Labs"
+  },
+  "source": {
+    "id": "yc-operator-labs-news-import-4e5219b8eb88",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://operator.io/blog/daily-news-digest-with-your-agent",
+    "canonical": "https://operator.io/blog/daily-news-digest-with-your-agent"
+  },
+  "title": "Get a daily news digest on your topics with OpenClaw",
+  "summary": "One prompt turns your Operator agent into a daily news digest that searches your topics, summarizes items, dedupes, and sends a morning roundup by topic.",
+  "published_at": "2026-05-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T00:56:34.740230+00:00",
+  "fetched_at": "2026-07-28T21:55:52.188627+00:00",
+  "last_updated_at": "2026-08-19T18:38:44.631200+00:00",
+  "paths": {
+    "article": "articles/v1/61/yc-operator-labs/2026/05/c6/c6bf80a9327d3f2c59a055bd23bc3c67683a5bbd5be0174a351c177651b2e01f/article.md",
+    "record": "articles/v1/61/yc-operator-labs/2026/05/c6/c6bf80a9327d3f2c59a055bd23bc3c67683a5bbd5be0174a351c177651b2e01f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9951,
+    "sha256": "sha256:170544a4526ca52bad5f87bddda6969c82f72d84fc93eccfac101bfdb8907b06",
+    "normalized_content_hash": "sha256:ef601d6ea7460c613e49dfdc72d337de176ac656d8da228a378db0caa6ecf25d"
+  },
+  "provenance": {
+    "source_item_id": "117f73cd-8ca0-4ac3-b606-1ef76a832c18",
+    "external_id": "https://operator.io/blog/daily-news-digest-with-your-agent"
+  }
+}

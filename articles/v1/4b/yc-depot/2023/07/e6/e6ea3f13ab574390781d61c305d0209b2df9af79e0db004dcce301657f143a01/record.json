@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6ea3f13ab574390781d61c305d0209b2df9af79e0db004dcce301657f143a01",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-overmind-got-10x-faster-dev-container-builds",
+    "canonical": "https://depot.dev/blog/how-overmind-got-10x-faster-dev-container-builds"
+  },
+  "title": "Overmind uses Depot to build Dev Containers 10x faster",
+  "summary": "Overmind leverages Dev Containers to manage and roll out a standard set of development tools and configurations to their engineering team. They switched to Depot to build their multi-platform Dev Container images 10x faster.",
+  "published_at": "2023-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/07/e6/e6ea3f13ab574390781d61c305d0209b2df9af79e0db004dcce301657f143a01/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/07/e6/e6ea3f13ab574390781d61c305d0209b2df9af79e0db004dcce301657f143a01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3953,
+    "sha256": "sha256:7a104830ff97faca70da9010d929b9c2e4ebf60b1658c835daef1f9d8956d248",
+    "normalized_content_hash": "sha256:10d5e8fc34739a6bd5c7926022d624541770bf0d077d212dc3801b56eaa1c9e7"
+  },
+  "provenance": {
+    "source_item_id": "6bf83ce7-b7d1-4c8b-b344-2c86bd933518",
+    "external_id": "https://depot.dev/blog/how-overmind-got-10x-faster-dev-container-builds"
+  }
+}

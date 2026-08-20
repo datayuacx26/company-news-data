@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43fdd94df16a9cd3d29223b8e0cb82b907490edca1d9e973ada51f57239c677c",
+  "company": {
+    "key": "yc-growthbook",
+    "name": "GrowthBook"
+  },
+  "source": {
+    "id": "yc-growthbook-news-import-67cec260d3a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.growthbook.io/blog/avoid-false-positives-high-velocity-experimentation",
+    "canonical": "https://www.growthbook.io/blog/avoid-false-positives-high-velocity-experimentation"
+  },
+  "title": "How to Avoid False Positives in High-Velocity Experimentation",
+  "summary": "False positives in A/B testing happen more often than the 5% threshold implies. See why velocity makes it worse, and how to lower your false positive risk.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:17:24.982400+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-18T05:13:24.559054+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-growthbook/2026/07/43/43fdd94df16a9cd3d29223b8e0cb82b907490edca1d9e973ada51f57239c677c/article.md",
+    "record": "articles/v1/54/yc-growthbook/2026/07/43/43fdd94df16a9cd3d29223b8e0cb82b907490edca1d9e973ada51f57239c677c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17625,
+    "sha256": "sha256:b9c6ca54af90682606fe6c2a6db8a795c5f0949d10d645bd07b6e4869c5ab597",
+    "normalized_content_hash": "sha256:9e68405d7213ca7b36de234275667d0b56a20b05575c62e0010a9fdf73d1c8ef"
+  },
+  "provenance": {
+    "source_item_id": "ce5e78b7-21ae-4963-ba5c-99aa1de20a5d",
+    "external_id": "https://www.growthbook.io/blog/avoid-false-positives-high-velocity-experimentation"
+  }
+}

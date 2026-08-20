@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a3d3116a8cb5c40a95c727081cff98ab955c40fcf7a615650a3e0c5dfd677523",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/how-sharechat-tests-every-release-on-kubernetes/",
+    "canonical": "https://www.signadot.com/blog/how-sharechat-tests-every-release-on-kubernetes/"
+  },
+  "title": "How ShareChat Tests Every Pull Request on Kubernetes using Signadot",
+  "summary": "Discover how ShareChat uses Signadot to test every release on Kubernetes. Learn about automated Sandbox creation, Routing Keys, and collaboration across service dependencies to enhance testing efficiency and accelerate feature delivery.",
+  "published_at": "2023-06-02T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/06/a3/a3d3116a8cb5c40a95c727081cff98ab955c40fcf7a615650a3e0c5dfd677523/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/06/a3/a3d3116a8cb5c40a95c727081cff98ab955c40fcf7a615650a3e0c5dfd677523/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7580,
+    "sha256": "sha256:d6371bfae187c1469c3dc2f9a058f9cc9c28dd4148540f211ad2ccd2b48273fe",
+    "normalized_content_hash": "sha256:700c6b4ee13eb51e79a2b814036e3ce6013e7966ef31ca40e49f836595fb1240"
+  },
+  "provenance": {
+    "source_item_id": "a96dad8f-7f50-4555-adc8-ae3dde9b99c7",
+    "external_id": "https://www.signadot.com/blog/how-sharechat-tests-every-release-on-kubernetes/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccbbee4ba20b60c1f64acfdd9aa1774a31afa750b7667f588f0a50323f3ced6a",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/litellm-rust-launch",
+    "canonical": "https://docs.litellm.ai/blog/litellm-rust-launch"
+  },
+  "title": "Migrating LiteLLM to Rust - Building the Fastest and Litest AI Gateway",
+  "summary": "LiteLLM is moving its AI gateway to Rust: 15x throughput, 11x less memory, and sub-1ms per-request overhead. No v2, no migration, your config stays the same.",
+  "published_at": "2026-06-22T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-08T09:16:56.006552+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/06/cc/ccbbee4ba20b60c1f64acfdd9aa1774a31afa750b7667f588f0a50323f3ced6a/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/06/cc/ccbbee4ba20b60c1f64acfdd9aa1774a31afa750b7667f588f0a50323f3ced6a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14695,
+    "sha256": "sha256:2f35c4224340ef95c6de09ed2903fc592122c8201b71fae6c940a44605ab5c08",
+    "normalized_content_hash": "sha256:03d93979a6f441b3b25c60762af00925d75a29f877bfd1b870c2f326a533053c"
+  },
+  "provenance": {
+    "source_item_id": "0cbf0b13-03f1-46fb-a36e-21c34c8187a1",
+    "external_id": "https://docs.litellm.ai/blog/litellm-rust-launch"
+  }
+}

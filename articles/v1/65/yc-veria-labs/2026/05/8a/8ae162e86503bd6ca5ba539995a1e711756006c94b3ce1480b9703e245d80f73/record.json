@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ae162e86503bd6ca5ba539995a1e711756006c94b3ce1480b9703e245d80f73",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/pwning-pydantic-monty/",
+    "canonical": "https://verialabs.com/blog/pwning-pydantic-monty/"
+  },
+  "title": "Pwning Pydantic's Monty: A $5K Sandbox Escape",
+  "summary": "Pydantic offered $5,000 to escape Monty, their Rust-built Python sandbox for AI agents. We chained two GC bugs into a use-after-free and walked away with the bounty.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T22:12:44.576485+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2026/05/8a/8ae162e86503bd6ca5ba539995a1e711756006c94b3ce1480b9703e245d80f73/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2026/05/8a/8ae162e86503bd6ca5ba539995a1e711756006c94b3ce1480b9703e245d80f73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33574,
+    "sha256": "sha256:b7afe30cd29ac178a47b218c59aa4e8674b5f1df9399f6c48b365bd5e869a99d",
+    "normalized_content_hash": "sha256:200fb4b0bc16b39552881a74d16256bc267ad6b226c9429ca027a2efa9607825"
+  },
+  "provenance": {
+    "source_item_id": "b0f003ee-99fb-497b-b308-ffe439549188",
+    "external_id": "https://verialabs.com/blog/pwning-pydantic-monty/"
+  }
+}

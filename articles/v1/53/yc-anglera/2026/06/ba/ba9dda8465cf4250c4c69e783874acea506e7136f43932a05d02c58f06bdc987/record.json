@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba9dda8465cf4250c4c69e783874acea506e7136f43932a05d02c58f06bdc987",
+  "company": {
+    "key": "yc-anglera",
+    "name": "Anglera"
+  },
+  "source": {
+    "id": "yc-anglera-rss-43f494d1c3a6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.anglera.com/blog/how-llm-crawlers-fetch-pages",
+    "canonical": "https://www.anglera.com/blog/how-llm-crawlers-fetch-pages"
+  },
+  "title": "How LLM crawlers fetch pages — and why client-rendered data is invisible",
+  "summary": "How GPTBot, ClaudeBot, and Perplexity actually fetch pages, why client-rendered PDP data goes invisible to them, and the SSR/JSON-LD fix that makes it readable.",
+  "published_at": "2026-06-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:38.455846+00:00",
+  "fetched_at": "2026-07-28T22:07:08.422826+00:00",
+  "last_updated_at": "2026-08-20T00:48:35.740276+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-anglera/2026/06/ba/ba9dda8465cf4250c4c69e783874acea506e7136f43932a05d02c58f06bdc987/article.md",
+    "record": "articles/v1/53/yc-anglera/2026/06/ba/ba9dda8465cf4250c4c69e783874acea506e7136f43932a05d02c58f06bdc987/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9997,
+    "sha256": "sha256:233fb3a7fea03d3ecd5bfee22dafdeba5a039fd2eb9c79415588f6ff50939c70",
+    "normalized_content_hash": "sha256:21088a28675084435686fc4d5ac542900071015014bf793b611a402398d419d8"
+  },
+  "provenance": {
+    "source_item_id": "efa533ef-e533-4d77-b207-298f7fec0a34",
+    "external_id": "https://www.anglera.com/blog/how-llm-crawlers-fetch-pages"
+  }
+}

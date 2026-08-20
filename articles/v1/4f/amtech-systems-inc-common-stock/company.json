@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "amtech-systems-inc-common-stock",
+    "name": "Amtech Systems Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-04-23T13:00:00+00:00",
+  "last_published_at": "2026-08-05T20:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4f/amtech-systems-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13537,
+        "sha256": "sha256:c888feacce9512f3738c293894abfd708da4c5f4460dec591e5d96e9082462b3",
+        "newest_at": "2026-08-05T20:15:00+00:00",
+        "oldest_at": "2026-04-23T13:00:00+00:00"
+      }
+    ]
+  }
+}

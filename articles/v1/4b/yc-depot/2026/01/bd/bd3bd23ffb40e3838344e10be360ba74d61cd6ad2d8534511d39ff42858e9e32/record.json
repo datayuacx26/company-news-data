@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd3bd23ffb40e3838344e10be360ba74d61cd6ad2d8534511d39ff42858e9e32",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/we-instrumented-github-actions",
+    "canonical": "https://depot.dev/blog/we-instrumented-github-actions"
+  },
+  "title": "We instrumented GitHub Actions. Here's what GitHub won't show you.",
+  "summary": "Optimizing GitHub Actions without telemetry is guesswork. We built CI telemetry into Depot to surface real metrics for every job, like CPU, memory, and logs. Here's how we wired it together with OpenTelemetry and scaled it with ClickHouse.",
+  "published_at": "2026-01-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:54:41.720106+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/01/bd/bd3bd23ffb40e3838344e10be360ba74d61cd6ad2d8534511d39ff42858e9e32/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/01/bd/bd3bd23ffb40e3838344e10be360ba74d61cd6ad2d8534511d39ff42858e9e32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13259,
+    "sha256": "sha256:8385ff0dfbca752ad70b828678350cd1fc2eba22a25bc323c84b5d07e11730e6",
+    "normalized_content_hash": "sha256:54c83bf4fa9d6bf42cf1616fd6fdfcbc47aa2be83f57738082a0fdb80250fa5d"
+  },
+  "provenance": {
+    "source_item_id": "1db9ba97-5a04-4df1-9bb2-d4bdb32d280e",
+    "external_id": "https://depot.dev/blog/we-instrumented-github-actions"
+  }
+}

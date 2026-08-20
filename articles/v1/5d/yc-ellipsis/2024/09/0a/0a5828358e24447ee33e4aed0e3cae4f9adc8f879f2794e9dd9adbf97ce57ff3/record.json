@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0a5828358e24447ee33e4aed0e3cae4f9adc8f879f2794e9dd9adbf97ce57ff3",
+  "company": {
+    "key": "yc-ellipsis",
+    "name": "Ellipsis"
+  },
+  "source": {
+    "id": "yc-ellipsis-news-import-97656c4ed8a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ellipsis.dev/blog/how-to-move-your-github-app-to-gitlab",
+    "canonical": "https://www.ellipsis.dev/blog/how-to-move-your-github-app-to-gitlab"
+  },
+  "title": "How to Move Your GitHub App to GitLab",
+  "summary": "GitHub bundles authentication, webhooks, and UI into one Application concept. GitLab splits them apart. What we learned bringing Ellipsis to GitLab.",
+  "published_at": "2024-09-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T17:55:16.673666+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-20T01:46:20.424429+00:00",
+  "paths": {
+    "article": "articles/v1/5d/yc-ellipsis/2024/09/0a/0a5828358e24447ee33e4aed0e3cae4f9adc8f879f2794e9dd9adbf97ce57ff3/article.md",
+    "record": "articles/v1/5d/yc-ellipsis/2024/09/0a/0a5828358e24447ee33e4aed0e3cae4f9adc8f879f2794e9dd9adbf97ce57ff3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4277,
+    "sha256": "sha256:d9e220f96c639dff0c5603888ac5ad29c32ef42de91e78db9176f91e1218834f",
+    "normalized_content_hash": "sha256:c509500170df5dd35b61dbfa5b4a199aa3d17567ced194afc56a9152aef94d7e"
+  },
+  "provenance": {
+    "source_item_id": "4548ec9f-3dd6-4a43-917a-649b37de18f1",
+    "external_id": "https://www.ellipsis.dev/blog/how-to-move-your-github-app-to-gitlab"
+  }
+}

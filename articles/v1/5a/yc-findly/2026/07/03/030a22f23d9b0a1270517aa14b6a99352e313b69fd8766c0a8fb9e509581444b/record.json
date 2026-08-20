@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "030a22f23d9b0a1270517aa14b6a99352e313b69fd8766c0a8fb9e509581444b",
+  "company": {
+    "key": "yc-findly",
+    "name": "Findly"
+  },
+  "source": {
+    "id": "yc-findly-news-import-b6e251978cf0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.findly.ai/blog/the-quest-to-talk-to-databases",
+    "canonical": "https://www.findly.ai/blog/the-quest-to-talk-to-databases"
+  },
+  "title": "The quest to talk to databases - Pedro Nascimento and Julia Togashi",
+  "summary": "Self-service business intelligence (BI) is the holy grail of business intelligence. It allows users to ask questions about their data and get insights without the need to write SQL directly or needing more advanced technical knowledge.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T09:28:25.885439+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-08-20T00:17:13.056963+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-findly/2026/07/03/030a22f23d9b0a1270517aa14b6a99352e313b69fd8766c0a8fb9e509581444b/article.md",
+    "record": "articles/v1/5a/yc-findly/2026/07/03/030a22f23d9b0a1270517aa14b6a99352e313b69fd8766c0a8fb9e509581444b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19842,
+    "sha256": "sha256:dee53baa4595aa9d850e84fe03cc00088f422da8b55f13f16f53e645c5aa22a7",
+    "normalized_content_hash": "sha256:2a05e40c00845d3cb2ccc72cb4195c22fdff413c3153ce4aedcb7384583fdf9b"
+  },
+  "provenance": {
+    "source_item_id": "92894bf3-0efb-4a9b-86a8-192c6897fa19",
+    "external_id": "https://www.findly.ai/blog/the-quest-to-talk-to-databases"
+  }
+}

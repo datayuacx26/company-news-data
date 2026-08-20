@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "15570c302e429453dba7869aa6c494a78baeb8456fc8ab07c9b76ebcff597a5c",
+  "company": {
+    "key": "yc-nyckel",
+    "name": "Nyckel"
+  },
+  "source": {
+    "id": "yc-nyckel-news-import-fbb975919637",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nyckel.com/blog/llms-for-classification-best-practices-and-benchmarks/",
+    "canonical": "https://www.nyckel.com/blog/llms-for-classification-best-practices-and-benchmarks/"
+  },
+  "title": "Classification using LLMs: best practices and benchmarks",
+  "summary": "LLM-powered classification is quick and easy, but not very accurate. Transfer learning does significantly better but requires training data and more development work. AutoML sites like Nyckel offers the best of both worlds: superior accuracy with the ease of LLM powered zero-shot classification.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T06:46:25.413132+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:08:55.072824+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-nyckel/2026/07/15/15570c302e429453dba7869aa6c494a78baeb8456fc8ab07c9b76ebcff597a5c/article.md",
+    "record": "articles/v1/78/yc-nyckel/2026/07/15/15570c302e429453dba7869aa6c494a78baeb8456fc8ab07c9b76ebcff597a5c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8891,
+    "sha256": "sha256:fec68feda3e967f87f1ad3194b99bb51cb57b9c0faf12e57115142e93d05101f",
+    "normalized_content_hash": "sha256:43a1a4c2253ea7ceefbc19114fd76eebff19fd9779930d7b27ea9973a65b99fa"
+  },
+  "provenance": {
+    "source_item_id": "27332d10-fc07-467c-8f66-3086605daae8",
+    "external_id": "https://www.nyckel.com/blog/llms-for-classification-best-practices-and-benchmarks/"
+  }
+}

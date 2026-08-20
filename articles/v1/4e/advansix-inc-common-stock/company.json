@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "advansix-inc-common-stock",
+    "name": "AdvanSix Inc."
+  },
+  "record_count": 5,
+  "first_published_at": "2026-04-13T10:50:17+00:00",
+  "last_published_at": "2026-08-07T14:40:22+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4e/advansix-inc-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 6574,
+        "sha256": "sha256:fe746760df6ca3a5c805da78af242d2f624d1e9f1429c1d1792c0b933cb82f38",
+        "newest_at": "2026-08-07T14:40:22+00:00",
+        "oldest_at": "2026-04-13T10:50:17+00:00"
+      }
+    ]
+  }
+}

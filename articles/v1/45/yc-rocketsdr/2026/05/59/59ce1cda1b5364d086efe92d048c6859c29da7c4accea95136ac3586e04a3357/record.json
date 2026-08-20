@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59ce1cda1b5364d086efe92d048c6859c29da7c4accea95136ac3586e04a3357",
+  "company": {
+    "key": "yc-rocketsdr",
+    "name": "RocketSDR"
+  },
+  "source": {
+    "id": "yc-rocketsdr-news-import-ca59d8c81574",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rocketsdr.ai/blog/dmarc-dkim-spf-cold-email",
+    "canonical": "https://www.rocketsdr.ai/blog/dmarc-dkim-spf-cold-email"
+  },
+  "title": "DMARC, DKIM, SPF for Cold Email: The 2026 Setup Guide",
+  "summary": "The three DNS records every cold email domain needs — what they do, how to configure them, and the mistakes that silently kill your deliverability.",
+  "published_at": "2026-05-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:10:07.465354+00:00",
+  "fetched_at": "2026-07-28T21:46:34.244883+00:00",
+  "last_updated_at": "2026-08-20T03:36:30.551590+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-rocketsdr/2026/05/59/59ce1cda1b5364d086efe92d048c6859c29da7c4accea95136ac3586e04a3357/article.md",
+    "record": "articles/v1/45/yc-rocketsdr/2026/05/59/59ce1cda1b5364d086efe92d048c6859c29da7c4accea95136ac3586e04a3357/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1546,
+    "sha256": "sha256:3320846928d2b43eb79ace1d69c478ba0cc9fc34f9f9780a41e2ac1a4a831499",
+    "normalized_content_hash": "sha256:e902e4575351374412a81461311616ad5489642bd5c28c209ba72c9e36e1a767"
+  },
+  "provenance": {
+    "source_item_id": "1850026f-bd16-41bd-be60-b9f9dde28bb8",
+    "external_id": "https://www.rocketsdr.ai/blog/dmarc-dkim-spf-cold-email"
+  }
+}

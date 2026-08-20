@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe268397f1c52d340e25f9c07946f5926457bb2970c92ee020badaf5ebf3c0bf",
+  "company": {
+    "key": "varonis-systems-inc-common-stock",
+    "name": "Varonis Systems Inc."
+  },
+  "source": {
+    "id": "varonis-systems-inc-common-stock-news-import-29d04d5fbb0d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.varonis.com/blog/searchleak",
+    "canonical": "https://www.varonis.com/blog/searchleak"
+  },
+  "title": "SearchLeak: How We Turned M365 Copilot Into a One-Click Data Exfiltration Weapon",
+  "summary": "Varonis Threat Labs discovered SearchLeak, a critical vulnerability chain in Microsoft 365 Copilot Enterprise that allows an attacker to steal sensitive data — MFA codes, email messages, meeting details, and private organizational files — with a single click.",
+  "published_at": "2026-06-15T13:01:32+00:00",
+  "first_seen_at": "2026-07-26T04:13:19.356665+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-10T10:22:11.207030+00:00",
+  "paths": {
+    "article": "articles/v1/7d/varonis-systems-inc-common-stock/2026/06/fe/fe268397f1c52d340e25f9c07946f5926457bb2970c92ee020badaf5ebf3c0bf/article.md",
+    "record": "articles/v1/7d/varonis-systems-inc-common-stock/2026/06/fe/fe268397f1c52d340e25f9c07946f5926457bb2970c92ee020badaf5ebf3c0bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11738,
+    "sha256": "sha256:c8509639e3d3353870ed2bac40607fb2c6b81f203c418d17bae4220be250c2be",
+    "normalized_content_hash": "sha256:e6c76138d9f0abb525e6558cf8dae137597ebf0ae9bcac11e3c7c32af7a05e04"
+  },
+  "provenance": {
+    "source_item_id": "76716a87-40cd-4fa3-aae7-f6836633795d",
+    "external_id": "https://www.varonis.com/blog/searchleak"
+  }
+}

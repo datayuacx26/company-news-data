@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "rent-the-runway-inc-class-a-common-stock",
+    "name": "Rent the Runway Inc."
+  },
+  "record_count": 30,
+  "first_published_at": "2016-06-02T16:17:20+00:00",
+  "last_published_at": "2026-06-03T12:00:46+00:00",
+  "partitions": [
+    {
+      "partition": "2016-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4b/rent-the-runway-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 37062,
+        "sha256": "sha256:1e2b079b11506aef302e57919741131da1aa334292480b57286246338f8632f4",
+        "newest_at": "2026-06-03T12:00:46+00:00",
+        "oldest_at": "2016-06-02T16:17:20+00:00"
+      }
+    ]
+  }
+}

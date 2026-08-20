@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7924ead673a15ca849bcbab302b5c39fbf2d3cbe96eef2eccefa1d3794345f51",
+  "company": {
+    "key": "yc-centaur",
+    "name": "Centaur"
+  },
+  "source": {
+    "id": "yc-centaur-news-import-7ab94b327191",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://centaur.ai/post/when-ai-conversations-go-wrong-and-what-high-quality-data-can-do-about-it",
+    "canonical": "https://centaur.ai/post/when-ai-conversations-go-wrong-and-what-high-quality-data-can-do-about-it"
+  },
+  "title": "When AI Conversations Go Wrong and What High-Quality Data Can Do About It",
+  "summary": "A New York Times investigation shows how chatbot interactions can reinforce delusions and psychological harm. This response explains why the root cause is poor data quality and how Centaur.ai’s collective intelligence, performance-measured annotation, and superhuman datasets help teams build safer, more reliable high-stakes AI systems.",
+  "published_at": "2026-02-09T19:09:05.987+00:00",
+  "first_seen_at": "2026-07-27T00:36:30.031492+00:00",
+  "fetched_at": "2026-07-28T22:21:12.159869+00:00",
+  "last_updated_at": "2026-08-19T20:56:53.153986+00:00",
+  "paths": {
+    "article": "articles/v1/7b/yc-centaur/2026/02/79/7924ead673a15ca849bcbab302b5c39fbf2d3cbe96eef2eccefa1d3794345f51/article.md",
+    "record": "articles/v1/7b/yc-centaur/2026/02/79/7924ead673a15ca849bcbab302b5c39fbf2d3cbe96eef2eccefa1d3794345f51/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9359,
+    "sha256": "sha256:790bd4bc47f809ef63af2e7677d3bf86fa85e55a92504d4152f3856c2a6e229a",
+    "normalized_content_hash": "sha256:469c99fc3c02cbfe0845f22101e79b18182a16305464893ed4265cf94d375fdf"
+  },
+  "provenance": {
+    "source_item_id": "c3b5edbf-2f0b-4b5f-b30c-2d376493efe7",
+    "external_id": "https://centaur.ai/post/when-ai-conversations-go-wrong-and-what-high-quality-data-can-do-about-it"
+  }
+}

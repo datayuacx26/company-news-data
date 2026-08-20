@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d568a0cb759e937a4c0de891d213f3115e15299d814b2500f7f6b02165e6a25",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/github-actions-gpus-now-available",
+    "canonical": "https://depot.dev/blog/github-actions-gpus-now-available"
+  },
+  "title": "GPUs now available for Depot GitHub Actions runners",
+  "summary": "Depot GitHub Actions runners with GPUs are now generally available for Depot Managed. This allows you to run the full data plane in your own AWS sub account with your own set of GPU resources.",
+  "published_at": "2024-09-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/09/6d/6d568a0cb759e937a4c0de891d213f3115e15299d814b2500f7f6b02165e6a25/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/09/6d/6d568a0cb759e937a4c0de891d213f3115e15299d814b2500f7f6b02165e6a25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2750,
+    "sha256": "sha256:47cbc772b2b7e967d0612c2bc3878b1ffeb46dcc20e45f265041fcee29dd1dbf",
+    "normalized_content_hash": "sha256:75b80a9b5bb0f2e63d3ef17e69dbbd8bca08e67bf1d9e14aa7a2211a6ffa02fd"
+  },
+  "provenance": {
+    "source_item_id": "ac2260cd-e0ee-4301-8822-94a1375479e6",
+    "external_id": "https://depot.dev/blog/github-actions-gpus-now-available"
+  }
+}

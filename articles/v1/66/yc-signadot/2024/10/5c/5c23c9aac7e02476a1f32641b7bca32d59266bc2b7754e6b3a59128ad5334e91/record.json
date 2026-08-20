@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c23c9aac7e02476a1f32641b7bca32d59266bc2b7754e6b3a59128ad5334e91",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/why-environment-replication-doesnt-work-for-microservices-testing/",
+    "canonical": "https://www.signadot.com/blog/why-environment-replication-doesnt-work-for-microservices-testing/"
+  },
+  "title": "Why Environment Replication Doesn’t Work for Microservices Testing",
+  "summary": "Sandboxes involve a single, production-like pre-production environment combining the benefits of isolated testing with the efficiency of a shared setup.",
+  "published_at": "2024-10-25T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/10/5c/5c23c9aac7e02476a1f32641b7bca32d59266bc2b7754e6b3a59128ad5334e91/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/10/5c/5c23c9aac7e02476a1f32641b7bca32d59266bc2b7754e6b3a59128ad5334e91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8305,
+    "sha256": "sha256:56acee2258ff6650bd4db7dd19cb151e7011b120137f04ed6302815d8b7a4b68",
+    "normalized_content_hash": "sha256:0b3b4c43719bccdd3ba7885ed309ec25facc86ae05532d8964d21dc65a9c771e"
+  },
+  "provenance": {
+    "source_item_id": "558b91a0-a8bc-4151-8dcf-f5ce0bc7bbdf",
+    "external_id": "https://www.signadot.com/blog/why-environment-replication-doesnt-work-for-microservices-testing/"
+  }
+}

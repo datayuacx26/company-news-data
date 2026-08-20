@@ -1,0 +1,109 @@
+---
+schema_version: "1.0.0"
+document_id: "08f1521eaf8263aaedbd9b513a56f2381e7b140478682ba2494a307fcd048182"
+company_key: "teledyne-technologies-incorporated-common-stock"
+company: "Teledyne Technologies Incorporated"
+source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
+canonical_url: "https://blog.teledynelecroy.com/2023/02/making-new-pcie-60-transmitter.html"
+published_at: "2023-02-13T13:00:00+00:00"
+first_seen_at: "2026-07-20T04:36:13.437201+00:00"
+fetched_at: "2026-08-20T01:30:31.660362+00:00"
+content_hash: "sha256:adff325b955d1d5bea8c352f674d600df3a5a32be2fc85cb9dfeaaa1a0facc3b"
+---
+
+# Making New PCIe 6.0 Transmitter Equalization Measurements with Your Oscilloscope
+
+Figure 1. Transmitter equalization test results for preset Q1.
+
+
+PCI Express® 6.0 achieves its 64-GT/s data rate, double that of PCIe® 5.0, by moving from non-return-to-zero (NRZ) signaling to four-level pulse-amplitude-modulation (PAM4) signaling. This results in the need for more complex algorithms for voltage and timing measurements.
+
+
+The latest release of SDAIII software for Teledyne LeCroy oscilloscopes lets you easily measure response at different transmitter equalization presets to confirm that Tx EQ is achieving the specified levels prior to taking your DUT for compliance testing. The Tx EQ measurement feature works with NRZ signals and, if you have the additional[SDAIII-PAMx](https://teledynelecroy.com/options/productseries.aspx?mseries=691&groupid=103) option, with PAM3 and PAM4 signals, too.
+
+
+### Transmitter Equalization Coefficients and Presets Measurement
+
+
+In PCIe 6.0, transmitter equalization measurements are performed on the new PAM4 Compliance Pattern signal using the AC method that was first introduced in PCIe 5.0.
+
+
+During the measurement (Figure 2), the device under test (DUT) transmits the Compliance Pattern with the corresponding TX equalization coefficients. An oscilloscope captures this equalized Compliance Pattern, and post-processing software extracts the equalized pulse-response waveform. The DUT also transmits the Compliance Pattern with no TX equalization, which the oscilloscope captures, and the post-processing software applies TX equalization coefficients to construct an equalized pulse-response waveform. This process results in TX preset coefficients that represent the best-fit TX equalization coefficients in order to minimize the mean square error between the measured equalized pulse-response waveform and the reconstructed equalized pulse-response waveform.
+
+
+Figure 1. Methodology for measuring Tx equalization coefficients and presets from the PCI Express Base Specification Revision 6.0, 16 December 2021, Figure 8-7 on page 1326. Courtesy of PCI-SIG.
+
+
+The 11 presets in PCIe 6.0 (Figure 3) are now annotated as Q0 through Q10, and their preshoots are proportionally higher compared to the PCIe 5.0 preshoots—in particular, presets 5 (Q4) through 9 (Q8).
+
+
+Figure 2. Tx Preset Ratios and Corresponding Coefficient Values for 64.0 GT/s from the PCI Express Base Specification Revision 6.0, 16 December 2021, Table 8-2 page on 1325. Courtesy of PCI-SIG.
+
+
+Figure 1 above shows an eye diagram of the Compliance Pattern using preset Q1 transmitter equalization coefficients, with the grid to the right of the eye diagram showing the pulse response for Q1 in magenta. The pulse response for Q0 without equalization, in yellow, is used as a reference to find Q1's best-fit transmitter equalization coefficients for C -2
+
+
+, C -1
+
+
+, C 0
+
+
+and C +1
+
+
+.
+
+
+### Using SDAIII Software to Measure Transmitter Equalization
+
+
+The SDAIII software provides capabilities to measure Tx EQ and confirm that the preset values measured on the DUT conform to those in the specification.
+
+
+The general process is to:
+
+
+- Configure the DUT to output the Compliance Pattern signal using preset Q0 with no equalization and acquire the Q0 differential signal.
+
+
+- In the SDAIII software, display the pulse of the acquired signal and save it as a Reference waveform. You’ll now see two, “identical” waveforms on the display—one the Pulse in green and the other the saved PulseRef in yellow.
+
+
+- Configure the DUT to output the Compliance Pattern using the next preset to be tested (e.g., Q1) and acquire the signal using the same settings as you did for the Q0 signal. Once the acquisition is processed, you should now see the signal with the new preset as the green Pulse waveform (see Figure 3). Measurements for that preset appear on the TxEQ table.
+
+
+- Review the on screen table of TxEQ measurements and compare the values to Figure 2. Each should fall within the limits set forth in Table 8-2.
+
+
+For the full step-by-step instructions, download our application note, *[Making PCIe 6.0 Transmitter Equalization Measurements with Your Oscilloscope](https://cdn.teledynelecroy.com/files/appnotes/pcie6.0tx-eq-measurements.pdf)* .
+
+
+You must change the saved PulseRef waveform for measurements made on different days or using different equipment. In that case, click Delete Pulse Response Ref and repeat the entire procedure above.
+
+
+### Measuring Custom Presets
+
+
+The Tx EQ measurement tools can be used to test signals with custom presets following the same procedure as described above, saving the first acquisition with no equalization as the PulseRef.
+
+
+### Generating Step-Response Waveforms
+
+
+Optionally, you can view the Pulse and the PulseRef as step-response waveforms simply by selecting the checkboxes Show Step Response and Show Ref Step. The step-response waveforms are color-coded green and yellow the same as the pulse-response waveforms.
+
+
+Figure 4. View the acquired signal as a step or pulse response waveform.
+
+
+#### Also see:
+
+
+[Removing Oscilloscope Noise from PCIe 6.0 Compliance Pattern Measurements](https://blog.teledynelecroy.com/2023/02/removing-oscilloscope-noise-from-pcie.html)
+
+
+[New PCIe 6.0 Compliance Pattern Measurements](https://blog.teledynelecroy.com/2023/02/new-pcie-60-compliance-pattern.html)
+
+
+[Get Ready for PCIe 6.0 Base Tx Testing--Compliance, Jitter and Eye Diagrams](https://blog.teledynelecroy.com/2022/06/get-ready-for-pci-express-60-base.html)

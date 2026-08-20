@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "239ec441dc804581658139ad78c36592503a5fbdffed567ec7334dabc05e8f20",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-egress-filtering-for-github-actions-runners",
+    "canonical": "https://depot.dev/blog/now-available-egress-filtering-for-github-actions-runners"
+  },
+  "title": "Now available: Egress filtering for GitHub Actions Runners",
+  "summary": "We're excited to launch egress filtering for Depot GitHub Actions Runners. This gives you fine-grained control over which external services your runners can talk to so you can tighten security without giving up performance or flexibility..",
+  "published_at": "2025-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:27.560850+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/06/23/239ec441dc804581658139ad78c36592503a5fbdffed567ec7334dabc05e8f20/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/06/23/239ec441dc804581658139ad78c36592503a5fbdffed567ec7334dabc05e8f20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6285,
+    "sha256": "sha256:a3a2cafb2cbc3cc616d349807e282f8347412865aab4a8ac30e0804fcbaa064d",
+    "normalized_content_hash": "sha256:6c1dbe67579400f52762a6539dd1ed86fb1ee31865795fca0b18b81c04e71c9f"
+  },
+  "provenance": {
+    "source_item_id": "113aba37-c432-400d-a9bb-9318a93089f9",
+    "external_id": "https://depot.dev/blog/now-available-egress-filtering-for-github-actions-runners"
+  }
+}

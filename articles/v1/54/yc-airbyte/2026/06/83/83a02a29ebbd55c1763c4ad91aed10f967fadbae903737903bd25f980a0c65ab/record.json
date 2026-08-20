@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "83a02a29ebbd55c1763c4ad91aed10f967fadbae903737903bd25f980a0c65ab",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/motherduck-certified-destination",
+    "canonical": "https://airbyte.com/blog/motherduck-certified-destination"
+  },
+  "title": "MotherDuck Is Now a Certified Destination in Airbyte",
+  "summary": "MotherDuck is now a certified destination in Airbyte, enabling teams to seamlessly move data into MotherDuck for fast and scalable analytics.",
+  "published_at": "2026-06-11T05:03:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-07-28T21:25:02.628947+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/06/83/83a02a29ebbd55c1763c4ad91aed10f967fadbae903737903bd25f980a0c65ab/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/06/83/83a02a29ebbd55c1763c4ad91aed10f967fadbae903737903bd25f980a0c65ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5130,
+    "sha256": "sha256:467af57a691cbc0c027e35e8fc2c1a0980fc89b8492b4cf7f830f33ce86e6751",
+    "normalized_content_hash": "sha256:7326744fd0c25f14aa41814f62a955200acbbef75dfb304e69947d64e7950b7e"
+  },
+  "provenance": {
+    "source_item_id": "12828eda-5fa6-4084-ad30-673188c81862",
+    "external_id": "https://airbyte.com/blog/motherduck-certified-destination"
+  }
+}

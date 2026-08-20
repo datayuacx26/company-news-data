@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-medicare-vox-fka-fair-square",
+    "name": "Medicare Vox (fka Fair Square)"
+  },
+  "record_count": 12,
+  "first_published_at": "2020-05-20T00:00:00+00:00",
+  "last_published_at": "2023-01-10T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/78/yc-medicare-vox-fka-fair-square/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12213,
+        "sha256": "sha256:b3e2b87644f2b789736f21aebf160bea4326198ea8b85de35bec4584b35dc22b",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2020-05-20T00:00:00+00:00"
+      }
+    ]
+  }
+}

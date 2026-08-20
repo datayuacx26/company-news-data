@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78080e22d84f668441c7d42003626ff9b4d5dec2545094d5dcfe9f45ee7c4cfd",
+  "company": {
+    "key": "vertiv-holdings-llc-class-a-common-stock",
+    "name": "Vertiv Holdings LLC"
+  },
+  "source": {
+    "id": "vertiv-holdings-llc-class-a-common-stock-news-import-f0997059a52b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vertiv.com/en-us/insights/articles/promotional-articles/when-bmc-fails-out-of-band-recovery-for-gpu-infrastructure/",
+    "canonical": "https://www.vertiv.com/en-us/insights/articles/promotional-articles/when-bmc-fails-out-of-band-recovery-for-gpu-infrastructure/"
+  },
+  "title": "When BMC fails: Out-of-band recovery for GPU infrastructure",
+  "summary": "BMC management can fail when AI clusters need it most. Learn why serial console servers can be the only reliable recovery path for GPU infrastructure at scale.",
+  "published_at": null,
+  "first_seen_at": "2026-08-17T17:30:00.386315+00:00",
+  "fetched_at": "2026-08-17T17:30:02.870035+00:00",
+  "last_updated_at": "2026-08-20T00:04:27.136135+00:00",
+  "paths": {
+    "article": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/2026/08/78/78080e22d84f668441c7d42003626ff9b4d5dec2545094d5dcfe9f45ee7c4cfd/article.md",
+    "record": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/2026/08/78/78080e22d84f668441c7d42003626ff9b4d5dec2545094d5dcfe9f45ee7c4cfd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3908,
+    "sha256": "sha256:9c5e6658239dbfe1e7ade34e37fe2823bbbe9373a2352e3e92664ab46cf90cab",
+    "normalized_content_hash": "sha256:88457a16922cb61d813c88d08c2516b8f77e9abb91772bdc95d271a46cb705f7"
+  },
+  "provenance": {
+    "source_item_id": "c926c0cf-e519-44b4-942c-870435ca938a",
+    "external_id": "https://www.vertiv.com/en-us/insights/articles/promotional-articles/when-bmc-fails-out-of-band-recovery-for-gpu-infrastructure/"
+  }
+}

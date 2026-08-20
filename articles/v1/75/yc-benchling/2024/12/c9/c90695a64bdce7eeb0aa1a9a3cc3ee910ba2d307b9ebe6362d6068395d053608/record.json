@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c90695a64bdce7eeb0aa1a9a3cc3ee910ba2d307b9ebe6362d6068395d053608",
+  "company": {
+    "key": "yc-benchling",
+    "name": "Benchling"
+  },
+  "source": {
+    "id": "yc-benchling-rss-dcbca8149e4b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.benchling.com/blog/iglm-a-generative-language-model-for-antibody-design",
+    "canonical": "https://www.benchling.com/blog/iglm-a-generative-language-model-for-antibody-design"
+  },
+  "title": "A model for generating, infilling and diversifying antibody sequences",
+  "summary": "Immunoglobulin Language Model (IgLM) is a model for generating, infilling and diversifying antibody sequences",
+  "published_at": "2024-12-13T07:00:00+00:00",
+  "first_seen_at": "2026-07-29T22:49:49.320956+00:00",
+  "fetched_at": "2026-07-29T22:49:54.237682+00:00",
+  "last_updated_at": "2026-08-20T01:52:40.863433+00:00",
+  "paths": {
+    "article": "articles/v1/75/yc-benchling/2024/12/c9/c90695a64bdce7eeb0aa1a9a3cc3ee910ba2d307b9ebe6362d6068395d053608/article.md",
+    "record": "articles/v1/75/yc-benchling/2024/12/c9/c90695a64bdce7eeb0aa1a9a3cc3ee910ba2d307b9ebe6362d6068395d053608/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5463,
+    "sha256": "sha256:4c0c353937a90742b2f35f70ebb9b926b9bc92020b6c2df6941fda821cc10f5b",
+    "normalized_content_hash": "sha256:281a1e401ace9bee81dfd8ff1e0600002a7de70a5fe36a404070a9a510eee38f"
+  },
+  "provenance": {
+    "source_item_id": "ccb5170f-b312-4e11-9d8a-eab62383e915",
+    "external_id": "https://www.benchling.com/blog/iglm-a-generative-language-model-for-antibody-design"
+  }
+}

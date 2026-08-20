@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efee2dad9a002b3ca4d4073acf7bec17e7c37a239066a05bd3af34f013083aa3",
+  "company": {
+    "key": "yc-taloflow",
+    "name": "Taloflow"
+  },
+  "source": {
+    "id": "yc-taloflow-rss-cfae8c512c9e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.taloflow.ai/blog/aws-glue-to-ecs",
+    "canonical": "https://www.taloflow.ai/blog/aws-glue-to-ecs"
+  },
+  "title": "Moving AWS Glue jobs to ECS on AWS Fargate led to 60% net savings",
+  "summary": "Moving from AWS Glue to ECS on Fargate slashed our pipeline costs. Read about 5 steps we took to do this.",
+  "published_at": "2020-06-10T23:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:23:39.915767+00:00",
+  "fetched_at": "2026-07-28T21:05:25.747778+00:00",
+  "last_updated_at": "2026-08-20T02:26:41.929530+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-taloflow/2020/06/ef/efee2dad9a002b3ca4d4073acf7bec17e7c37a239066a05bd3af34f013083aa3/article.md",
+    "record": "articles/v1/4b/yc-taloflow/2020/06/ef/efee2dad9a002b3ca4d4073acf7bec17e7c37a239066a05bd3af34f013083aa3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10350,
+    "sha256": "sha256:c0247368f7da377dd76416780fe62b89cba9ed28606877d29a5ca4c1e014d521",
+    "normalized_content_hash": "sha256:a329ab48ae2cd5a5f3b2046601a3dbde96dc946182efb106807c651eff964640"
+  },
+  "provenance": {
+    "source_item_id": "78f58439-ad2e-4429-a003-b63ce450c81b",
+    "external_id": "https://www.taloflow.ai/blog/aws-glue-to-ecs"
+  }
+}

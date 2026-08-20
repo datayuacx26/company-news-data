@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7de92800eacde58a62ffbb9d22c81dde4d65e5eb8717b3872259c04fcff5c8a",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/bitbucket-pipelines-docker-build-limitations",
+    "canonical": "https://depot.dev/blog/bitbucket-pipelines-docker-build-limitations"
+  },
+  "title": "Building and Caching Docker Images in Bitbucket Pipelines",
+  "summary": "Bitbucket Pipelines can build Docker images, but not quickly. This post shows how to overcome the limitations of building Docker images in Bitbucket Pipelines.",
+  "published_at": "2024-04-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/04/b7/b7de92800eacde58a62ffbb9d22c81dde4d65e5eb8717b3872259c04fcff5c8a/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/04/b7/b7de92800eacde58a62ffbb9d22c81dde4d65e5eb8717b3872259c04fcff5c8a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13198,
+    "sha256": "sha256:5c332b76149348ebed9fe6ab47bcc08821f54c5109207a8542d61456f04d495c",
+    "normalized_content_hash": "sha256:a6295e0030093292ac1278568e2851127590896ad8d1a2383f1d538e5ecf7f8b"
+  },
+  "provenance": {
+    "source_item_id": "bb24fc25-cde9-45ed-9856-9cd3d5568419",
+    "external_id": "https://depot.dev/blog/bitbucket-pipelines-docker-build-limitations"
+  }
+}

@@ -1,0 +1,89 @@
+---
+schema_version: "1.0.0"
+document_id: "8415fa46d65dbbd4779dddf26f55f6d4f966e1ef0d8be166a745dff0157912ff"
+company_key: "aclaris-therapeutics-inc-common-stock"
+company: "Aclaris Therapeutics Inc."
+source_id: "aclaris-therapeutics-inc-common-stock-rss-9704ea753b49"
+canonical_url: "https://investor.aclaristx.com/news-releases/news-release-details/aclaris-therapeutics-completes-enrollment-phase-2-trial"
+published_at: "2026-03-18T10:55:00+00:00"
+first_seen_at: "2026-07-26T08:36:37.958534+00:00"
+fetched_at: "2026-07-28T21:56:54.694470+00:00"
+content_hash: "sha256:13b5d05808080f8a0e8ddb5d3ea4396a089fb7f6f2474d990005cae37b2a8fa1"
+---
+
+# Aclaris Therapeutics Completes Enrollment in Phase 2 Trial of Bosakitug (ATI-045) in Atopic Dermatitis
+
+Investor Contact
+
+
+For investor related questions, please emailinvestors@aclaristx.com
+
+
+# Press Release
+
+
+[View all press releases »](https://investor.aclaristx.com/press-releases)
+
+
+[PDF Version](https://investor.aclaristx.com/node/13511/pdf)
+
+
+Aclaris Therapeutics Completes Enrollment in Phase 2 Trial of Bosakitug (ATI-045) in Atopic Dermatitis
+
+
+March 18, 2026
+
+
+*- Top Line Results Expected in the Fourth Quarter of 2026 -*
+
+
+WAYNE, Pa., March 18, 2026 (GLOBE NEWSWIRE) -- Aclaris Therapeutics, Inc. (NASDAQ: ACRS), a clinical-stage biopharmaceutical company focused on developing novel product candidates for immuno-inflammatory diseases, today announced that it has completed patient enrollment in its randomized, double-blind, placebo-controlled Phase 2 trial of bosakitug (ATI-045) in patients with moderate-to-severe atopic dermatitis (AD). Top line results are expected in the fourth quarter of 2026.
+
+
+“The strong interest in participating in this Phase 2 trial reflects the urgent need for innovative solutions in atopic dermatitis and the excitement surrounding bosakitug and the potential role of TSLP as a therapeutic target in this setting,” said Dr. Jesse Hall, Chief Medical Officer of Aclaris. “Given the compound’s potential best-in-class potency and long natural half-life of 23 days, bosakitug has the potential to maximize TSLP inhibition in the skin while providing convenient dosing. We are proud to achieve this important milestone, and grateful to the participating physicians and patients for choosing to join our trial.”
+
+
+This randomized, double-blind, placebo-controlled Phase 2 trial will evaluate the efficacy and safety of bosakitug in 109 patients with moderate-to-severe atopic dermatitis. The primary efficacy endpoint is percent change from baseline in Eczema Area and Severity Index (EASI) at week 24. Secondary endpoints at week 24 include EASI response (EASI-50, EASI-75, EASI-90), validated Investigator Global Assessment (IGA) response, body surface area (BSA) response, and Peak Pruritus Numerical Rating Scale (PP-NRS) score, relative to baseline. Safety, tolerability, pharmacodynamic (PD) biomarkers, and pharmacokinetic profile (PK) will also be assessed.
+
+
+**About Bosakitug (ATI-045)**
+
+
+Bosakitug is an investigational humanized anti-thymic stromal lymphopoietin (TSLP) monoclonal antibody that specifically binds to human TSLP, blocking its interaction with the receptor complex and disrupting signal transduction. This mechanism prevents immune cells targeted by TSLP from releasing proinflammatory cytokines. Bosakitug has potential best-in-class properties, including a very high affinity to TSLP, very high potency, an extremely low dissociation rate from TSLP leading to long residence time and enhanced neutralization activity, and a half-life that can potentially support an extended dosing interval. In a single arm Phase 2a trial in patients with moderate-to-severe AD, bosakitug demonstrated a strong safety profile and improvements in efficacy measures at week 26 (end of study) including EASI-75 scores in 94% of participants that were sustained beyond the last dose and clear or nearly clear skin in 88% of participants as measured by IGA scores of 0/1. Bosakitug has the potential to treat a variety of atopic, immunologic, and respiratory diseases. Aclaris has the exclusive worldwide rights to bosakitug, excluding Greater China.
+
+
+**About Thymic Stromal Lymphopoietin (TSLP)**
+
+
+TSLP is an alarmin - a cytokine that is a master regulator of Type 2 (Th2) immune response at the barrier surfaces of skin and the respiratory/gastrointestinal tract in major allergic and inflammatory diseases - that has been validated as a relevant therapeutic target. TSLP drives eosinophilic and neutrophilic inflammation and acts on a wide variety of adaptive, innate, and structural cells, and is involved in induction phase and effector phase as well as non-Th2 processes. Since TSLP sits at the top of the inflammatory cascade, it activates downstream targets such as IL-4, IL-5, IL-13, IL-17, and other molecules elaborated from T cells like CCL17. The expression of TSLP is elevated in individuals with respiratory and skin diseases.
+
+
+**About Atopic Dermatitis**
+
+
+Atopic dermatitis (AD) is the most common type of eczema, affecting approximately 10 million children and 17 million adults in the United States. Worldwide prevalence estimates that AD affects over 200 million people worldwide. It is estimated that 1 in 10 individuals will develop eczema during their lifetime. Common symptoms include dry, cracked, itchy patches of skin or small raised bumps, that can occur anywhere on the body. The affected skin can become inflamed, warm, thickened, and damaged with prolonged scratching. A study by Asthma and Allergy Foundation of America noted that about 40% of those affected with the disease have moderate or severe symptoms. AD can significantly affect a patient’s quality of life, with patients with moderate-to-severe AD having a higher prevalence of social dysfunction and sleep impairment.
+
+
+**About Aclaris Therapeutics, Inc.**
+
+
+Aclaris Therapeutics, Inc. is a clinical-stage biopharmaceutical company developing a pipeline of novel product candidates to address the needs of patients with immuno-inflammatory diseases who lack satisfactory treatment options. The company has a multi-stage portfolio of product candidates powered by a robust R&D engine. For additional information, please visit[www.aclaristx.com](http://www.aclaristx.com/) and follow Aclaris on[LinkedIn](https://www.globenewswire.com/Tracker?data=AKaBAaXG_QW8oeYgGtFx4wmLVxV5IxWIYu3gqQUcVSOYoEtHns-Abz9d3LXQywM9ihq7Kjlj30GH4JN7OSoyLNo4RHVDpUQzOT9l8OH9Kw3gDTqh_hwOv11JzV1af2-Z) .
+
+
+**Cautionary Note Regarding Forward-Looking Statements**
+
+
+Any statements contained in this press release that do not describe historical facts may constitute forward-looking statements as that term is defined in the Private Securities Litigation Reform Act of 1995. These statements may be identified by words such as “anticipate,” “believe,” “expect,” “intend,” “may,” “plan,” “potential,” “will,” and similar expressions, and are based on Aclaris’ current beliefs and expectations. These forward-looking statements include expectations regarding its development plans for bosakitug (ATI-045), including the timing to report results from its Phase 2 trial of bosakitug in atopic dermatitis, the potential for bosakitug to optimize TSLP inhibition in the skin at low therapeutic doses while providing convenient dosing, the potential for bosakitug to be a best-in-class anti-TSLP monoclonal antibody, and the therapeutic potential for bosakitug including in a variety of atopic, immunologic, and respiratory diseases. These statements involve risks and uncertainties that could cause actual results to differ materially from those reflected in such statements. Risks and uncertainties that may cause actual results to differ materially include uncertainties inherent in the conduct of clinical trials, Aclaris’ reliance on third parties over which it may not always have full control, Aclaris’ ability to enter into strategic partnerships on commercially reasonable terms, the uncertainty regarding the macroeconomic environment and other risks and uncertainties that are described in the Risk Factors section of Aclaris’ Annual Report on Form 10-K for the year ended December 31, 2025, and other filings Aclaris makes with the U.S. Securities and Exchange Commission from time to time. These documents are available under the “SEC Filings” page of the “Investors” section of Aclaris’ website at[www.aclaristx.com](http://www.aclaristx.com/) . Any forward-looking statements speak only as of the date of this press release and are based on information available to Aclaris as of the date of this release, and Aclaris assumes no obligation to, and does not intend to, update any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+
+**Aclaris Therapeutics Contact:**
+
+
+**Will Roberts**
+Senior Vice President
+Corporate Communications and Investor Relations
+(484) 329-2125
+[wroberts@aclaristx.com](https://www.globenewswire.com/Tracker?data=0T3RZ8aJuN-ij-hDUvBHIVekBJTMtrRX8YeHTyBh-HlnNBDSRqDNVevYL7mGr8hUbK-BhfKj2Iz98sKNusgNorBPKpxmvwTTkTOHqOvF-JI=)
+
+
+Source: Aclaris Therapeutics, Inc.

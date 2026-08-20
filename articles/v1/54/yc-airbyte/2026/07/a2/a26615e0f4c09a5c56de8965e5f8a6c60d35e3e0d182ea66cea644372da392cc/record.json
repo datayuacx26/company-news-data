@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a26615e0f4c09a5c56de8965e5f8a6c60d35e3e0d182ea66cea644372da392cc",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/beyond-etl-the-case-for-context",
+    "canonical": "https://airbyte.com/blog/beyond-etl-the-case-for-context"
+  },
+  "title": "Beyond ETL: The Case for Context",
+  "summary": "Move beyond ETL with context layers that give AI agents governed, real-time business context from your tools, apps, and data systems.",
+  "published_at": "2026-07-02T18:32:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-10T18:49:02.242268+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/07/a2/a26615e0f4c09a5c56de8965e5f8a6c60d35e3e0d182ea66cea644372da392cc/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/07/a2/a26615e0f4c09a5c56de8965e5f8a6c60d35e3e0d182ea66cea644372da392cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14536,
+    "sha256": "sha256:b6e2f97da8123efa99749280d46801fd7b82a1a398d7efc7502182731a884621",
+    "normalized_content_hash": "sha256:56b0d8975befbabcb8b63d920a199966b0467c76475e77bc8a13608ed0566ca6"
+  },
+  "provenance": {
+    "source_item_id": "62887147-f70e-4de2-b01b-f062b4cbb2f0",
+    "external_id": "https://airbyte.com/blog/beyond-etl-the-case-for-context"
+  }
+}

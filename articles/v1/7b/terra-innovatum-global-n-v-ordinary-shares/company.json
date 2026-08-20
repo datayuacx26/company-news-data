@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "terra-innovatum-global-n-v-ordinary-shares",
+    "name": "Terra Innovatum Global N.V."
+  },
+  "record_count": 14,
+  "first_published_at": "2026-05-11T12:00:30+00:00",
+  "last_published_at": "2026-08-19T12:00:28+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7b/terra-innovatum-global-n-v-ordinary-shares/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 19906,
+        "sha256": "sha256:f03f6e3bd5beb581a3b2d7cfe4d49008c46845778eda1c7a8e717aa7d581bf26",
+        "newest_at": "2026-08-19T12:00:28+00:00",
+        "oldest_at": "2026-05-11T12:00:30+00:00"
+      }
+    ]
+  }
+}

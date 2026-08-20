@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-abhi",
+    "name": "Abhi"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-04-16T08:33:47+00:00",
+  "last_published_at": "2026-08-06T05:46:43+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/67/yc-abhi/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14362,
+        "sha256": "sha256:bddcbe3cff94dd8b330ce04e7367611ecccfe3aa292e9228d8ad6984b127b7c5",
+        "newest_at": "2026-08-06T05:46:43+00:00",
+        "oldest_at": "2026-04-16T08:33:47+00:00"
+      }
+    ]
+  }
+}

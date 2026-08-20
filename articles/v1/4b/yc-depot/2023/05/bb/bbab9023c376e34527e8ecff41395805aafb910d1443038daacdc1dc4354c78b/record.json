@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbab9023c376e34527e8ecff41395805aafb910d1443038daacdc1dc4354c78b",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/local-builds",
+    "canonical": "https://depot.dev/blog/local-builds"
+  },
+  "title": "Accelerated local builds, with instant shared cache",
+  "summary": "Today we're announcing local Docker image builds with the speed of Depot's cloud builders and instant cache sharing across your entire team.",
+  "published_at": "2023-05-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/05/bb/bbab9023c376e34527e8ecff41395805aafb910d1443038daacdc1dc4354c78b/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/05/bb/bbab9023c376e34527e8ecff41395805aafb910d1443038daacdc1dc4354c78b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7757,
+    "sha256": "sha256:db49d3e2a835ab88259f3823b8c2300c8f57b40eae93a61e5530cd49df92786f",
+    "normalized_content_hash": "sha256:5ed6ab434f3cb4855622465e96e834fbeb538fe69a0608f3e72e940992408b72"
+  },
+  "provenance": {
+    "source_item_id": "1a9d0ced-66fb-4d00-9b8a-01de7b0a8657",
+    "external_id": "https://depot.dev/blog/local-builds"
+  }
+}

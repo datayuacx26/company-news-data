@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11172dc13a6af8411a857b1e6692056ffa3524ef01ec90ddacd2cff34ecbe9a0",
+  "company": {
+    "key": "yc-anglera",
+    "name": "Anglera"
+  },
+  "source": {
+    "id": "yc-anglera-rss-43f494d1c3a6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.anglera.com/blog/keeping-json-ld-in-sync",
+    "canonical": "https://www.anglera.com/blog/keeping-json-ld-in-sync"
+  },
+  "title": "Keeping JSON-LD in sync with the visible page (drift is a trust problem)",
+  "summary": "JSON-LD that disagrees with the visible page gets flagged as untrustworthy rather than averaged out. Why drift happens, and how to fix it for good.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:38.455846+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-08-20T00:48:35.740276+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-anglera/2026/06/11/11172dc13a6af8411a857b1e6692056ffa3524ef01ec90ddacd2cff34ecbe9a0/article.md",
+    "record": "articles/v1/53/yc-anglera/2026/06/11/11172dc13a6af8411a857b1e6692056ffa3524ef01ec90ddacd2cff34ecbe9a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9041,
+    "sha256": "sha256:d752e61ce27e0ad40fe033491d365d93c3f60bf095a5c579c8b0224667d66d87",
+    "normalized_content_hash": "sha256:f84f2b0eeead4348310f146543c3f2daa8c38e5f9ec75cb900ddf2564b4da8df"
+  },
+  "provenance": {
+    "source_item_id": "e774b2da-0336-4a4e-a6fc-2d4e2125bdca",
+    "external_id": "https://www.anglera.com/blog/keeping-json-ld-in-sync"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e342861b41cfd83b34a8a0d2cc1f14436a7dbb012227c1c392b3c362c6e2a2a",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/credential-brokering-for-ai-agents",
+    "canonical": "https://infisical.com/blog/credential-brokering-for-ai-agents"
+  },
+  "title": "Credential Brokering for AI Agents, Explained",
+  "summary": "A simple guide to credential brokering for AI agents: protect against prompt injection by keeping credentials away from the agent.",
+  "published_at": "2026-05-23T04:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-07-30T10:16:58.789344+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/05/2e/2e342861b41cfd83b34a8a0d2cc1f14436a7dbb012227c1c392b3c362c6e2a2a/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/05/2e/2e342861b41cfd83b34a8a0d2cc1f14436a7dbb012227c1c392b3c362c6e2a2a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13401,
+    "sha256": "sha256:6e48a3ee6939ecd4bfcf0d4544d4c2ef76a78f4a7cb2456b98f82b692952ac64",
+    "normalized_content_hash": "sha256:dd8a435a86085b4c156fbb24267e3ee8dd8cef0d90e4866a86876864f092aaaa"
+  },
+  "provenance": {
+    "source_item_id": "94768f4d-2902-4fc8-9bfb-8d736c8dd78e",
+    "external_id": "https://infisical.com/blog/credential-brokering-for-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95eec60059493b12fe287b473b36ad35b58ba3433e9f30d8e354e9739c4d1116",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/codex-mcp-oauth-fails-on-both-mcp-url-variants-cli-reports-premium-archive-as-free/13801#post_1",
+    "canonical": "https://forum.newsblur.com/t/codex-mcp-oauth-fails-on-both-mcp-url-variants-cli-reports-premium-archive-as-free/13801"
+  },
+  "title": "Codex MCP OAuth fails on both /mcp URL variants; CLI reports Premium Archive as Free",
+  "summary": "I am a Premium Archive subscriber, but cannot authenticate NewsBlur MCP with Codex on macOS. With this Codex configuration: [mcp_servers.newsblur] url = \"https://newsblur.com/mcp\" I get: Error: Metadata error: Protected resource metadata resource mismatch: reference 'https://newsblur.com/mcp', permitted 'https://newsblur.com/mcp/' With the trailing slash: [mcp_servers.newsblur] url = \"https://newsblur.com/mcp/\" I get: Error: Authorization server issuer mismatch: expected https://newsblur...",
+  "published_at": "2026-08-11T16:50:52+00:00",
+  "first_seen_at": "2026-08-11T19:14:06.915799+00:00",
+  "fetched_at": "2026-08-11T19:14:08.478419+00:00",
+  "last_updated_at": "2026-08-20T02:54:49.553882+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/08/95/95eec60059493b12fe287b473b36ad35b58ba3433e9f30d8e354e9739c4d1116/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/08/95/95eec60059493b12fe287b473b36ad35b58ba3433e9f30d8e354e9739c4d1116/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1905,
+    "sha256": "sha256:366d8d8ad2d341d0c528eacbedf99e71432f793d920f02d89201e043d5f679a8",
+    "normalized_content_hash": "sha256:6c3974f4488b999f5f85bad56e9aa0aa0a3392f64fb3c53176a9cf11500af0a4"
+  },
+  "provenance": {
+    "source_item_id": "5fccec12-5382-40aa-a1ab-edbfe9ab7a13",
+    "external_id": "forum.newsblur.com-post-45102"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6eb18ffbf8a873fef3ef85cd20479580b3a7a341d53c2d4ae11c891af7615b0b",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-sherlock-depot-ci-analysis",
+    "canonical": "https://depot.dev/blog/now-available-sherlock-depot-ci-analysis"
+  },
+  "title": "Now available: Sherlock can analyze Depot CI workflows and jobs",
+  "summary": "Sherlock can now analyze Depot CI workflows and jobs directly from the dashboard, using run context, attempts, step details, logs, summaries, and resource metrics to help you understand failures and slow jobs faster.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:13:26.363881+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/05/6e/6eb18ffbf8a873fef3ef85cd20479580b3a7a341d53c2d4ae11c891af7615b0b/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/05/6e/6eb18ffbf8a873fef3ef85cd20479580b3a7a341d53c2d4ae11c891af7615b0b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4042,
+    "sha256": "sha256:67270eadd1c26e3b8977fe2688eca1bbee2ca0a6f6b050f85da231f6ec537986",
+    "normalized_content_hash": "sha256:2d5e0b10cc9ba67066cbbbf0a1b5a9581aee4cacf80d35e844f6eb6ef01e04f4"
+  },
+  "provenance": {
+    "source_item_id": "ed859fce-ca2a-4b7e-99cd-283be122a7ef",
+    "external_id": "https://depot.dev/blog/now-available-sherlock-depot-ci-analysis"
+  }
+}

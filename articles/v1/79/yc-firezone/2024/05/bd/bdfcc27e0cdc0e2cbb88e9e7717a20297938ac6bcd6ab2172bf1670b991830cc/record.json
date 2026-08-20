@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdfcc27e0cdc0e2cbb88e9e7717a20297938ac6bcd6ab2172bf1670b991830cc",
+  "company": {
+    "key": "yc-firezone",
+    "name": "Firezone"
+  },
+  "source": {
+    "id": "yc-firezone-news-import-75fbee21a5d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firezone.dev/blog/how-dns-works-in-firezone",
+    "canonical": "https://www.firezone.dev/blog/how-dns-works-in-firezone"
+  },
+  "title": "How DNS Works in Firezone",
+  "summary": "Why Firezone's approach to DNS resolution is different — split DNS, search domains, and how Clients resolve internal hostnames.",
+  "published_at": "2024-05-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:48.154812+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:12.724566+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-firezone/2024/05/bd/bdfcc27e0cdc0e2cbb88e9e7717a20297938ac6bcd6ab2172bf1670b991830cc/article.md",
+    "record": "articles/v1/79/yc-firezone/2024/05/bd/bdfcc27e0cdc0e2cbb88e9e7717a20297938ac6bcd6ab2172bf1670b991830cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18959,
+    "sha256": "sha256:a86ef6c4ec153f806605728b623990b37eaed8e6cd774b1875678670b24a8aad",
+    "normalized_content_hash": "sha256:1449d2f7597131213ef034e7a53410bb7e5f71d2def10d9b68d466f6173933e7"
+  },
+  "provenance": {
+    "source_item_id": "ec828eab-88e2-49c4-9de3-547956d198f8",
+    "external_id": "https://www.firezone.dev/blog/how-dns-works-in-firezone"
+  }
+}

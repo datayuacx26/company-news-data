@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "278f2ed10f4465505e7cd4dfe56af32a00ea0559a9ade4c47e6f5788cdf66330",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/buildx-bake-with-depot",
+    "canonical": "https://depot.dev/blog/buildx-bake-with-depot"
+  },
+  "title": "Build all of your Docker images concurrently from a file with bake",
+  "summary": "With CLI version 1.5.0, buildx bake comes to Depot via the depot bake command. Build multiple Docker images concurrently from an HCL, JSON, or Docker Compose file.",
+  "published_at": "2023-01-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/01/27/278f2ed10f4465505e7cd4dfe56af32a00ea0559a9ade4c47e6f5788cdf66330/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/01/27/278f2ed10f4465505e7cd4dfe56af32a00ea0559a9ade4c47e6f5788cdf66330/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11691,
+    "sha256": "sha256:bffae5191e6e92db2a7e7ea9ce2d47e5850d5416fb456223090dc85ce4133079",
+    "normalized_content_hash": "sha256:d425439f3511a3a38b660892f8b6b5f96e74ad82d9af2b33f66d46ac57ab3c48"
+  },
+  "provenance": {
+    "source_item_id": "85ac81d4-d23b-4cb1-bfe7-cb7f23312ffc",
+    "external_id": "https://depot.dev/blog/buildx-bake-with-depot"
+  }
+}

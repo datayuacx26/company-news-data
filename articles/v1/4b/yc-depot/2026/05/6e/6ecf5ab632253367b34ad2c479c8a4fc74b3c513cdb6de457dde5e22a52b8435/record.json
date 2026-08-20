@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ecf5ab632253367b34ad2c479c8a4fc74b3c513cdb6de457dde5e22a52b8435",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-nested-virtualization-on-depot-ci",
+    "canonical": "https://depot.dev/blog/now-available-nested-virtualization-on-depot-ci"
+  },
+  "title": "Now available: Nested virtualization support on Depot CI sandboxes",
+  "summary": "We're excited to announce that Depot CI sandboxes now support nested virtualization which enables efficient Android Emulator usage.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:50:41.166574+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/05/6e/6ecf5ab632253367b34ad2c479c8a4fc74b3c513cdb6de457dde5e22a52b8435/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/05/6e/6ecf5ab632253367b34ad2c479c8a4fc74b3c513cdb6de457dde5e22a52b8435/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6902,
+    "sha256": "sha256:b7961594f2b8bca578433db89a81a84dfce4ee6d566a8d51c6c58cc419f4b1f1",
+    "normalized_content_hash": "sha256:f8926fd752862de14c9dbee3fdfd4deef859ec715bf5734605ce5b29ef480c40"
+  },
+  "provenance": {
+    "source_item_id": "df21922e-0437-48e6-991b-f9ca16cd9458",
+    "external_id": "https://depot.dev/blog/now-available-nested-virtualization-on-depot-ci"
+  }
+}

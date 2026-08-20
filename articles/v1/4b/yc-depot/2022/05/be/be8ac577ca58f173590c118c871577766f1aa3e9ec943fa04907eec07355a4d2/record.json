@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be8ac577ca58f173590c118c871577766f1aa3e9ec943fa04907eec07355a4d2",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/introducing-depot",
+    "canonical": "https://depot.dev/blog/introducing-depot"
+  },
+  "title": "Introducing Depot — A faster way to build Docker images",
+  "summary": "Depot is a new container build service with blazing fast compute and persistent caching, for both Intel and Arm containers.",
+  "published_at": "2022-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/05/be/be8ac577ca58f173590c118c871577766f1aa3e9ec943fa04907eec07355a4d2/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/05/be/be8ac577ca58f173590c118c871577766f1aa3e9ec943fa04907eec07355a4d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7606,
+    "sha256": "sha256:cddbad71509ce5680566ecb9bb3bd048dadc894f11ca30470d42cfd5422a9e0b",
+    "normalized_content_hash": "sha256:1f1625015a351645f4418b335eccb1b5efb72594084ff1677b6c2f11f1ee68cc"
+  },
+  "provenance": {
+    "source_item_id": "4a97dc7a-88f2-43d0-963c-1d97cf450123",
+    "external_id": "https://depot.dev/blog/introducing-depot"
+  }
+}

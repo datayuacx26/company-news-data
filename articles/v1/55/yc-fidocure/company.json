@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fidocure",
+    "name": "FidoCure®"
+  },
+  "record_count": 20,
+  "first_published_at": "2024-11-02T22:27:42+00:00",
+  "last_published_at": "2025-08-13T14:10:06+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/55/yc-fidocure/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 24111,
+        "sha256": "sha256:912be8311ae71d9c93e12df9a8546dfdc0cd10aedebd43785af6f46d3fac1989",
+        "newest_at": "2025-08-13T14:10:06+00:00",
+        "oldest_at": "2024-11-02T22:27:42+00:00"
+      }
+    ]
+  }
+}

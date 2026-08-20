@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c67f2a241e135704514889a6d471c3c40affba49177bf8bbbdb7b44b085c60cc",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/securing-open-source-part-1-block-goose/",
+    "canonical": "https://verialabs.com/blog/securing-open-source-part-1-block-goose/"
+  },
+  "title": "Securing Open Source Part 1: Goose 1-Click RCE",
+  "summary": "We found a 1-click RCE in Block's Goose AI agent: any website could silently execute commands on your machine.",
+  "published_at": "2026-03-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2026/03/c6/c67f2a241e135704514889a6d471c3c40affba49177bf8bbbdb7b44b085c60cc/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2026/03/c6/c67f2a241e135704514889a6d471c3c40affba49177bf8bbbdb7b44b085c60cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8867,
+    "sha256": "sha256:871e5d208cba7b333359ec6dec3c508831368e988a98510858a6ccec8c23a06a",
+    "normalized_content_hash": "sha256:805ce744460b013f5b20ac387d7816d9beedc763f2f179699035838f6b16bae0"
+  },
+  "provenance": {
+    "source_item_id": "5e550935-e4ac-4b2c-98c2-8d8b62bbe259",
+    "external_id": "https://verialabs.com/blog/securing-open-source-part-1-block-goose/"
+  }
+}

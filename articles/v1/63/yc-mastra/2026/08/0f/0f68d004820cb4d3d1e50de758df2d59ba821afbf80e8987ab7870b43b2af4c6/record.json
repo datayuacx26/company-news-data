@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f68d004820cb4d3d1e50de758df2d59ba821afbf80e8987ab7870b43b2af4c6",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-2c9844a44afc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/blog/introducing-sensitive-data-redaction",
+    "canonical": "https://mastra.ai/blog/introducing-sensitive-data-redaction"
+  },
+  "title": "Introducing Sensitive Data Redaction for Mastra Observability",
+  "summary": "Automatically redact sensitive customer information from agent traces.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T16:05:29.649529+00:00",
+  "fetched_at": "2026-08-10T16:05:31.214856+00:00",
+  "last_updated_at": "2026-08-19T17:05:29.378927+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/08/0f/0f68d004820cb4d3d1e50de758df2d59ba821afbf80e8987ab7870b43b2af4c6/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/08/0f/0f68d004820cb4d3d1e50de758df2d59ba821afbf80e8987ab7870b43b2af4c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5468,
+    "sha256": "sha256:39e9193fef9787b294f7539d8a986ef419cc00aad44b50bad68ecc5bf6e76b52",
+    "normalized_content_hash": "sha256:ea6832e46ac45d08a7f1dc83bc74c50b5c88a93234cacbd386c3a12187b3ca4a"
+  },
+  "provenance": {
+    "source_item_id": "84e7d1e9-93b8-4b2c-b4c4-ce817954e59d",
+    "external_id": "https://mastra.ai/blog/introducing-sensitive-data-redaction"
+  }
+}

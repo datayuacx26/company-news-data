@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00f0d660329f81cb26d768e124261f47e0512357e0b6dd23fcf2d8c07075e617",
+  "company": {
+    "key": "yc-corgea",
+    "name": "Corgea"
+  },
+  "source": {
+    "id": "yc-corgea-news-import-efe6052ddd93",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corgea.com/blog/introducing-security-design-reviews",
+    "canonical": "https://corgea.com/blog/introducing-security-design-reviews"
+  },
+  "title": "Introducing Corgea Security Design Reviews",
+  "summary": "Most security tools only find bugs after they're written. Corgea Security Design Reviews catch design-level risks before a single line of code is committed.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:05:55.735939+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-20T02:05:33.847783+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-corgea/2026/06/00/00f0d660329f81cb26d768e124261f47e0512357e0b6dd23fcf2d8c07075e617/article.md",
+    "record": "articles/v1/45/yc-corgea/2026/06/00/00f0d660329f81cb26d768e124261f47e0512357e0b6dd23fcf2d8c07075e617/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5001,
+    "sha256": "sha256:65250725116966124689bec9b9190384f90abd8d8e7022b90ba7ad5d32614a7f",
+    "normalized_content_hash": "sha256:4d97756f42c4ac1ced9b648c6ca956a89467b916cc56cb0df6a14dfca0ab4d0c"
+  },
+  "provenance": {
+    "source_item_id": "2bbfa5c7-c786-4cf8-86d6-5ea252d2ec48",
+    "external_id": "https://corgea.com/blog/introducing-security-design-reviews"
+  }
+}

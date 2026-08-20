@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0441e5de9e62a26573f8f1e9945e9edcb062b02545ea960b7bc811e439964a51",
+  "company": {
+    "key": "yc-oneleet",
+    "name": "Oneleet"
+  },
+  "source": {
+    "id": "yc-oneleet-news-import-d01376dbbc95",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneleet.com/blog/practical-web-security-in-react",
+    "canonical": "https://www.oneleet.com/blog/practical-web-security-in-react"
+  },
+  "title": "Practical Web Security in React",
+  "summary": "Learn practical React security beyond OWASP Top 10: prevent injection attacks, implement Content Security Policies, mitigate supply chain vulnerabilities, and secure token storage in frontend applications. Essential security practices for React developers.",
+  "published_at": "2025-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:26:35.695106+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T20:57:15.336191+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-oneleet/2025/05/04/0441e5de9e62a26573f8f1e9945e9edcb062b02545ea960b7bc811e439964a51/article.md",
+    "record": "articles/v1/5a/yc-oneleet/2025/05/04/0441e5de9e62a26573f8f1e9945e9edcb062b02545ea960b7bc811e439964a51/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9605,
+    "sha256": "sha256:116fa6172d83d81e2a86749c7350fa47443a687327e99eface3501e5ed36921a",
+    "normalized_content_hash": "sha256:47980a2513846b349edf6e385e9c7fed3bf48320d3e96398c302682caa42e9e5"
+  },
+  "provenance": {
+    "source_item_id": "bf29a0ff-105b-4371-b11b-d01ad3b58dc0",
+    "external_id": "https://www.oneleet.com/blog/practical-web-security-in-react"
+  }
+}

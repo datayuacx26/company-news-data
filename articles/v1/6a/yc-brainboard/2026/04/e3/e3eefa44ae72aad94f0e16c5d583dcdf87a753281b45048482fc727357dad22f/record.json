@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3eefa44ae72aad94f0e16c5d583dcdf87a753281b45048482fc727357dad22f",
+  "company": {
+    "key": "yc-brainboard",
+    "name": "Brainboard"
+  },
+  "source": {
+    "id": "yc-brainboard-news-import-c1cb64b4ba70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brainboard.co/blog/kubernetes-deployments-vs-statefulsets-key-differences",
+    "canonical": "https://www.brainboard.co/blog/kubernetes-deployments-vs-statefulsets-key-differences"
+  },
+  "title": "Kubernetes Deployments vs StatefulSets: Key Differences",
+  "summary": "Kubernetes deployment vs statefulset: learn the key differences in pod identity, storage, scaling, and when to use each in production. | Brainboard",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T04:03:09.323194+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-19T23:46:43.687866+00:00",
+  "paths": {
+    "article": "articles/v1/6a/yc-brainboard/2026/04/e3/e3eefa44ae72aad94f0e16c5d583dcdf87a753281b45048482fc727357dad22f/article.md",
+    "record": "articles/v1/6a/yc-brainboard/2026/04/e3/e3eefa44ae72aad94f0e16c5d583dcdf87a753281b45048482fc727357dad22f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9911,
+    "sha256": "sha256:710b9795263030ad4d1cbd3f269ec52b8891f8d632429c1c5b9c768f48ebd96b",
+    "normalized_content_hash": "sha256:2a9cb2b68e5d4e7c5251d6f58f95971be96c79714f28f41b1333dd864629ca7b"
+  },
+  "provenance": {
+    "source_item_id": "6499ada7-d320-4256-8102-c8d05f5d70f2",
+    "external_id": "https://www.brainboard.co/blog/kubernetes-deployments-vs-statefulsets-key-differences"
+  }
+}

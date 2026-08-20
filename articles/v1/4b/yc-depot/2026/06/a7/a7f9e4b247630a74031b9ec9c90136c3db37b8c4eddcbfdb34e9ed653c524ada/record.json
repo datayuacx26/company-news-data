@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7f9e4b247630a74031b9ec9c90136c3db37b8c4eddcbfdb34e9ed653c524ada",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/accelerating-test-suites",
+    "canonical": "https://depot.dev/blog/accelerating-test-suites"
+  },
+  "title": "Accelerating your test suite in CI",
+  "summary": "Speeding up CI isn't one heroic refactor, it's a hunt for the next bottleneck, and for most teams the first one is the test suite. Here's how to attack it with parallelism, sharding, prebuilt images, and a job-density rule that keeps wider sharding from quietly torching your bill.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:10:58.759142+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/06/a7/a7f9e4b247630a74031b9ec9c90136c3db37b8c4eddcbfdb34e9ed653c524ada/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/06/a7/a7f9e4b247630a74031b9ec9c90136c3db37b8c4eddcbfdb34e9ed653c524ada/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14995,
+    "sha256": "sha256:1fd309b1136e70a8913e122bf909da2366de5baf13ec82a252b9453a11b337d0",
+    "normalized_content_hash": "sha256:6568980bc3eab35a4ff2a47a098d969244e5048b2da79d464f8fa689ea93cdf5"
+  },
+  "provenance": {
+    "source_item_id": "c2f7cce5-4ce6-473b-bb83-90aff8e11d6c",
+    "external_id": "https://depot.dev/blog/accelerating-test-suites"
+  }
+}

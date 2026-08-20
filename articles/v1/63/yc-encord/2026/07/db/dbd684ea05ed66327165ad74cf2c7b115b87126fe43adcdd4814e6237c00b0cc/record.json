@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dbd684ea05ed66327165ad74cf2c7b115b87126fe43adcdd4814e6237c00b0cc",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/sensor-fusion-data-annotation/",
+    "canonical": "https://encord.com/blog/sensor-fusion-data-annotation/"
+  },
+  "title": "Sensor Fusion Data Annotation: How to Label Multi-Sensor Robotics Data",
+  "summary": "TLDR; Sensor fusion data annotation is the process of labeling camera, lidar, radar, and ultrasonic data together, as one time-synchronized, cal",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T15:50:19.658864+00:00",
+  "fetched_at": "2026-07-30T15:50:21.624479+00:00",
+  "last_updated_at": "2026-08-20T01:45:33.388619+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/db/dbd684ea05ed66327165ad74cf2c7b115b87126fe43adcdd4814e6237c00b0cc/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/db/dbd684ea05ed66327165ad74cf2c7b115b87126fe43adcdd4814e6237c00b0cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21198,
+    "sha256": "sha256:d7e9975e3d9c3402284943d46d0ccd19ee022284064a0e9bd6cf07929bd0a814",
+    "normalized_content_hash": "sha256:d0c880cb87557e290394ce71b619d57832824339ae5e18e5b7e7363c9a7864a4"
+  },
+  "provenance": {
+    "source_item_id": "c7421e17-ea28-46fb-90be-6c5d0db96652",
+    "external_id": "https://encord.com/blog/sensor-fusion-data-annotation/"
+  }
+}

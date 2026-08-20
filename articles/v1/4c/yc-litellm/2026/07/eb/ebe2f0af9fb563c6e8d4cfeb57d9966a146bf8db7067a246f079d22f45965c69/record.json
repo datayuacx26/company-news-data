@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ebe2f0af9fb563c6e8d4cfeb57d9966a146bf8db7067a246f079d22f45965c69",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/bedrock-invoke-prompt-caching-incident",
+    "canonical": "https://docs.litellm.ai/blog/bedrock-invoke-prompt-caching-incident"
+  },
+  "title": "Incident Report: Prompt Cache Invalidation for Claude Code on Bedrock Invoke",
+  "summary": "Date: July 4 to July 10, 2026",
+  "published_at": "2026-07-13T10:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/eb/ebe2f0af9fb563c6e8d4cfeb57d9966a146bf8db7067a246f079d22f45965c69/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/eb/ebe2f0af9fb563c6e8d4cfeb57d9966a146bf8db7067a246f079d22f45965c69/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10754,
+    "sha256": "sha256:fb6622001a9d62625fd0d25f19c1a5011fe61074733c0ca6063370c09338a7e5",
+    "normalized_content_hash": "sha256:a08d694fd94ff4135c04f666f1d363045d71b916a7ccf5bd0b4e598560f812cd"
+  },
+  "provenance": {
+    "source_item_id": "e0e460c7-49cb-4b42-a56d-6afb85cd1786",
+    "external_id": "https://docs.litellm.ai/blog/bedrock-invoke-prompt-caching-incident"
+  }
+}

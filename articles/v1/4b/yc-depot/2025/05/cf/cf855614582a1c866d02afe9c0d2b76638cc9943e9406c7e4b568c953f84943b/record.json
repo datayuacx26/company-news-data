@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf855614582a1c866d02afe9c0d2b76638cc9943e9406c7e4b568c953f84943b",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/claude-code-in-github-actions",
+    "canonical": "https://depot.dev/blog/claude-code-in-github-actions"
+  },
+  "title": "Faster Claude Code agents in GitHub Actions",
+  "summary": "A crash course into the new ability to run Claude Code agents in GitHub Actions and how to make them faster with Depot runners.",
+  "published_at": "2025-05-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/05/cf/cf855614582a1c866d02afe9c0d2b76638cc9943e9406c7e4b568c953f84943b/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/05/cf/cf855614582a1c866d02afe9c0d2b76638cc9943e9406c7e4b568c953f84943b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10086,
+    "sha256": "sha256:e330e0eecf272f5f72105d7cd4f7212a4c0920d767a96cb2e9f401dd87b4a202",
+    "normalized_content_hash": "sha256:cc8b45a9436f2a576cd691939dc8a0ae93c728d9d34d3bcb6d58083338ece0ab"
+  },
+  "provenance": {
+    "source_item_id": "004c2278-fd19-4a4c-8a38-6a756cb50b60",
+    "external_id": "https://depot.dev/blog/claude-code-in-github-actions"
+  }
+}

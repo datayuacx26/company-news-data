@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66e63e82270ee7cabfa3858fe87fb3500c6bba6474252368bb431e77bb1f1487",
+  "company": {
+    "key": "fastly-inc-class-a-common-stock",
+    "name": "Fastly Inc."
+  },
+  "source": {
+    "id": "fastly-inc-class-a-common-stock-rss-83c7761b19d9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.fastly.com/blog/what-is-cve-2026-66066-protecting-rails-app-active-storage-rce/",
+    "canonical": "https://www.fastly.com/blog/what-is-cve-2026-66066-protecting-rails-app-active-storage-rce/"
+  },
+  "title": "What is CVE-2026-66066? Protecting Your Rails App from Active Storage RCE",
+  "summary": "Learn about CVE-2026-66066: An arbitrary file read vulnerability in Rails Active Storage. Understand the risks and protect your environment with our virtual patch.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-03T17:52:48.143995+00:00",
+  "fetched_at": "2026-08-03T18:22:19.433930+00:00",
+  "last_updated_at": "2026-08-20T01:35:21.401262+00:00",
+  "paths": {
+    "article": "articles/v1/75/fastly-inc-class-a-common-stock/2026/08/66/66e63e82270ee7cabfa3858fe87fb3500c6bba6474252368bb431e77bb1f1487/article.md",
+    "record": "articles/v1/75/fastly-inc-class-a-common-stock/2026/08/66/66e63e82270ee7cabfa3858fe87fb3500c6bba6474252368bb431e77bb1f1487/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4131,
+    "sha256": "sha256:3f689abeb72d761d42af59fb540e68df4db932d98ae5ac1b73cad69356dee927",
+    "normalized_content_hash": "sha256:3e9f868e22818ca024ac5a79e301baa17a3aa9fe9a9bcdae63f07cc45cc15cbc"
+  },
+  "provenance": {
+    "source_item_id": "ca715498-55f7-4295-ad22-e59b12221108",
+    "external_id": "https://www.fastly.com/blog/what-is-cve-2026-66066-protecting-rails-app-active-storage-rce/"
+  }
+}

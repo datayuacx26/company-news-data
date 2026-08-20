@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33c9a15b759a48040a52da60ce6a0ac6fcbf3cdd3c7f652fc7346f644e8fe8df",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/claude-code-signadot-validate-demo/",
+    "canonical": "https://www.signadot.com/blog/claude-code-signadot-validate-demo/"
+  },
+  "title": "Watch Claude Code Validate a Microservices Change in a Closed Loop",
+  "summary": "A side-by-side demo: two Claude Code sessions run the same microservices task. signadot-validate gives one of them a real environment to catch a cross-service break the other misses.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/06/33/33c9a15b759a48040a52da60ce6a0ac6fcbf3cdd3c7f652fc7346f644e8fe8df/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/06/33/33c9a15b759a48040a52da60ce6a0ac6fcbf3cdd3c7f652fc7346f644e8fe8df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6595,
+    "sha256": "sha256:e849aa1b885bedc27889f4edbdac10fbb63f26d1901a78383732564fc9eb381f",
+    "normalized_content_hash": "sha256:b213dd550cdf2825d899ab1ee5668cb4ba96b3e0e4d5b72cb32ac8b36de78663"
+  },
+  "provenance": {
+    "source_item_id": "35997f24-1936-445e-a32a-2c234808a57c",
+    "external_id": "https://www.signadot.com/blog/claude-code-signadot-validate-demo/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b3791ebffd3159ff884ecb5d32460601f28e868cc856ddff26f229c8638cada",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/technical-deep-dive-character-ai-amd",
+    "canonical": "https://www.digitalocean.com/blog/technical-deep-dive-character-ai-amd"
+  },
+  "title": "Technical Deep Dive: How DigitalOcean and AMD Delivered a 2x Production Inference Performance Increase for Character.ai",
+  "summary": "Character.ai wanted to optimize GPU performance and achieve lower inference costs for its application. Working closely together, the Character.ai, AMD, and DigitalOcean teams optimized AMD Instinct™ MI300X and MI325X GPU platforms, resulting in a 2x production inference throughput.",
+  "published_at": "2026-01-13T12:30:00.048+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T22:23:40.402133+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/01/0b/0b3791ebffd3159ff884ecb5d32460601f28e868cc856ddff26f229c8638cada/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/01/0b/0b3791ebffd3159ff884ecb5d32460601f28e868cc856ddff26f229c8638cada/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24905,
+    "sha256": "sha256:1fdef92bc5d39a54a87a7ceac878006a9d3caf2093e3c94844f867ede5064a72",
+    "normalized_content_hash": "sha256:abdb4b361234c70ca4bbae13520a101a9bf5e299473ec3c03d0d8ceef9a89408"
+  },
+  "provenance": {
+    "source_item_id": "123650cb-5d13-4baf-85a1-f0affd0e2cec",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/technical-deep-dive-character-ai-amd"
+  }
+}

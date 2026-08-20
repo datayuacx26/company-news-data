@@ -1,0 +1,91 @@
+---
+schema_version: "1.0.0"
+document_id: "fcb6769c0c32cf056e15402d24987c3f64a7bc9ffad0fe3a3a2c66a9bf78c1e7"
+company_key: "bridgebio-oncology-therapeutics-inc-common-stock"
+company: "BridgeBio Oncology Therapeutics Inc."
+source_id: "bridgebio-oncology-therapeutics-inc-common-stock-rss-aacf36b38c35"
+canonical_url: "https://investors.bbotx.com/news-releases/news-release-details/bbot-announces-multiple-presentations-american-association"
+published_at: "2026-03-18T20:05:09+00:00"
+first_seen_at: "2026-08-18T06:46:38.442776+00:00"
+fetched_at: "2026-08-18T06:46:41.391376+00:00"
+content_hash: "sha256:db6c3a4062a628700cb8f2c583270d7de15a91c6df1e54f6ba39523a78294594"
+---
+
+# BBOT Announces Multiple Presentations at the American Association for Cancer Research (AACR) Annual Meeting 2026
+
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.
+
+
+Accept settingsHide notification onlySettings
+
+
+### Cookie and Privacy Settings
+
+
+How we use cookies
+
+
+We may request cookies to be set on your device. We use cookies to let us know when you visit our websites, how you interact with us, to enrich your user experience, and to customize your relationship with our website.
+
+
+Click on the different category headings to find out more. You can also change some of your preferences. Note that blocking some types of cookies may impact your experience on our websites and the services we are able to offer.
+
+
+Essential Website Cookies
+
+
+These cookies are strictly necessary to provide you with services available through our website and to use some of its features.
+
+
+Because these cookies are strictly necessary to deliver the website, refusing them will have impact how our site functions. You always can block or delete cookies by changing your browser settings and force blocking all cookies on this website. But this will always prompt you to accept/refuse cookies when revisiting our site.
+
+
+We fully respect if you want to refuse cookies but to avoid asking you again and again kindly allow us to store a cookie for that. You are free to opt out any time or opt in for other cookies to get a better experience. If you refuse cookies we will remove all set cookies in our domain.
+
+
+We provide you with a list of stored cookies on your computer in our domain so you can check what we stored. Due to security reasons we are not able to show or modify cookies from other domains. You can check these in your browser security settings.
+
+
+Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.
+
+
+Click to enable/disable essential site cookies.
+
+
+Other external services
+
+
+We also use different external services like Google Webfonts, Google Maps, and external Video providers. Since these providers may collect personal data like your IP address we allow you to block them here. Please be aware that this might heavily reduce the functionality and appearance of our site. Changes will take effect once you reload the page.
+
+
+Google Webfont Settings:
+
+
+Click to enable/disable Google Webfonts.
+
+
+Google Map Settings:
+
+
+Click to enable/disable Google Maps.
+
+
+Google reCaptcha Settings:
+
+
+Click to enable/disable Google reCaptcha.
+
+
+Vimeo and Youtube video embeds:
+
+
+Click to enable/disable video embeds.
+
+
+Privacy Policy
+
+
+You can read about our cookies and privacy settings in detail on our Privacy Policy Page.
+
+
+Accept settingsHide notification only

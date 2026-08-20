@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1129bb0776277b15a57fce002dc2380679da356c8a08b440bf6490d4416db02b",
+  "company": {
+    "key": "yc-metriport",
+    "name": "Metriport"
+  },
+  "source": {
+    "id": "yc-metriport-news-import-cb7fc021ddeb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metriport.com/blog/adt-feed-hospital-data",
+    "canonical": "https://www.metriport.com/blog/adt-feed-hospital-data"
+  },
+  "title": "What Is an ADT Feed in Healthcare? (July 2026)",
+  "summary": "What is an ADT feed? Learn how HL7 v2 admission, discharge, and transfer notifications work, CMS requirements, and how ADT data drives care coordination.",
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:12:30.400948+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-19T18:52:21.316471+00:00",
+  "paths": {
+    "article": "articles/v1/6e/yc-metriport/2026/07/11/1129bb0776277b15a57fce002dc2380679da356c8a08b440bf6490d4416db02b/article.md",
+    "record": "articles/v1/6e/yc-metriport/2026/07/11/1129bb0776277b15a57fce002dc2380679da356c8a08b440bf6490d4416db02b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12800,
+    "sha256": "sha256:bf241b3521c743fdcfc514845a6126793399b2ba90e1775e2bc3cdfd16e74043",
+    "normalized_content_hash": "sha256:a2d5e0eb1ba239e858e83fc40d02eea4c58f97903660dea71d9afe7252d35a0c"
+  },
+  "provenance": {
+    "source_item_id": "be331817-eee5-4d57-a6b3-08702bd189d4",
+    "external_id": "https://www.metriport.com/blog/adt-feed-hospital-data"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "befd396c1b579fe6b871906726cba9af5d8d45624cc71ee139d00e7776900223",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/newsblur-app-on-ios-orientation-issue/13672#post_8",
+    "canonical": "https://forum.newsblur.com/t/newsblur-app-on-ios-orientation-issue/13672"
+  },
+  "title": "NewsBlur app on iOS orientation issue",
+  "summary": "So I think this may have been around for a while, but I dismissed it as user error since there’s no way this is working as designed. On the iOS app, when you turn your phone from portrait to landscape, the view changes to accommodate the new orientation. This view includes your list of feeds, and, presumably your list of articles for the last feed you were looking at. The list of feeds takes up nearly half the screen, and the list of articles takes up only part of the other half of the screen....",
+  "published_at": "2026-08-05T16:39:50+00:00",
+  "first_seen_at": "2026-08-05T17:41:21.115563+00:00",
+  "fetched_at": "2026-08-05T17:41:23.509057+00:00",
+  "last_updated_at": "2026-08-20T02:54:49.553882+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/08/be/befd396c1b579fe6b871906726cba9af5d8d45624cc71ee139d00e7776900223/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/08/be/befd396c1b579fe6b871906726cba9af5d8d45624cc71ee139d00e7776900223/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5381,
+    "sha256": "sha256:3b0e85c79edab490da129139a16d6d0ce7ef38145e13d608ae4f463a7a68e6a6",
+    "normalized_content_hash": "sha256:b87b4f533cd2f8ced8cda763a868f7bab2c5336f6338d9f3c44ec806744fa8fa"
+  },
+  "provenance": {
+    "source_item_id": "2684d391-5c0b-42c1-96d6-9ac18771d081",
+    "external_id": "forum.newsblur.com-post-45086"
+  }
+}

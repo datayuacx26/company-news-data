@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "788f442b401e5344085fb1619384f8dd5d4cf11fab41ebe3296978c8c4e8087a",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/the-hardest-problems-in-excel-extraction",
+    "canonical": "https://www.runpulse.com/blog/the-hardest-problems-in-excel-extraction"
+  },
+  "title": "The Hardest Problems in Excel Extraction",
+  "summary": "Excel extraction is widely treated as the easy cousin of PDF extraction. Spreadsheets are structured, the reasoning goes, so a parser should be able to walk the grid, read the values, and emit clean tabular output | Pulse AI",
+  "published_at": "2026-04-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:59.698897+00:00",
+  "fetched_at": "2026-07-28T22:15:23.630573+00:00",
+  "last_updated_at": "2026-08-19T17:07:20.336090+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/05/78/788f442b401e5344085fb1619384f8dd5d4cf11fab41ebe3296978c8c4e8087a/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/05/78/788f442b401e5344085fb1619384f8dd5d4cf11fab41ebe3296978c8c4e8087a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6721,
+    "sha256": "sha256:22713aeab8a331ad69e014dcf3f0ed2b00cdf11006eab6c60b6aafd57cbebdf5",
+    "normalized_content_hash": "sha256:1697f6c2d0bcd94023f0724f06506c127b28ccaa15804c18f92fe392b53a2334"
+  },
+  "provenance": {
+    "source_item_id": "38020015-2291-4541-8fc6-801def820793",
+    "external_id": "https://www.runpulse.com/blog/the-hardest-problems-in-excel-extraction"
+  }
+}

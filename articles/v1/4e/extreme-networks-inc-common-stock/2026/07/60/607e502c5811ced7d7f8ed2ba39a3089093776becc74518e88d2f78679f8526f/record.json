@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "607e502c5811ced7d7f8ed2ba39a3089093776becc74518e88d2f78679f8526f",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137800",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137800"
+  },
+  "title": "SA-2026-052 - libcurl stale Host header cookie leakage (CVE-2026-6276)",
+  "summary": "A vulnerability in libcurl allows stale Host header state to persist across requests when reusing the same easy handle. If a custom Host: header is set for an initial request and not explicitly cleared before a subsequent request to a different host, libcurl may incorrectly include cookies associated with the original host in the follow-up request. This can result in unintended cross-domain cookie leakage, potentially exposing sensitive session information under specific application configurations that reuse connections and manipulate request headers. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-07-22T19:14:45+00:00",
+  "first_seen_at": "2026-07-22T20:09:57.178797+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/60/607e502c5811ced7d7f8ed2ba39a3089093776becc74518e88d2f78679f8526f/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/60/607e502c5811ced7d7f8ed2ba39a3089093776becc74518e88d2f78679f8526f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1621,
+    "sha256": "sha256:35c9afc244c5d14a6b3ded9e1f4032bed22494f3a31004bae825608f7e6613eb",
+    "normalized_content_hash": "sha256:1c5dfc15c4f918472005972f77f8aa7f94ec3b5d0c9bd8fcaab2e4877751ed28"
+  },
+  "provenance": {
+    "source_item_id": "1e01a02e-d54b-4dba-8588-d441fffe8227",
+    "external_id": "000137800"
+  }
+}

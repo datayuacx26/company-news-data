@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a3a035052f358756f8c4cce9a1884b856856d0a4a7956baf8d7352b47b61229",
+  "company": {
+    "key": "wealthfront-corporation-common-stock",
+    "name": "Wealthfront Corporation"
+  },
+  "source": {
+    "id": "wealthfront-corporation-common-stock-rss-9fbe6ef385e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://eng.wealthfront.com/2026/06/25/tuning-android-build-nodes-for-maximum-throughput/",
+    "canonical": "https://eng.wealthfront.com/2026/06/25/tuning-android-build-nodes-for-maximum-throughput/"
+  },
+  "title": "Tuning Android build nodes for maximum throughput",
+  "summary": "Introduction Our Android team uses Gradle as our build tool of choice. Gradle offers lots of options for tuning its resource consumption, giving engineers an opportunity to optimize performance for running tasks on well-known hardware. In this post, we’ll explore how the team tuned our Gradle setup for Amazon’s m7i.8xlarge EC2 instances. General concepts Before... Read more",
+  "published_at": "2026-06-25T15:29:45+00:00",
+  "first_seen_at": "2026-07-20T23:18:22.615485+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T00:33:06.699247+00:00",
+  "paths": {
+    "article": "articles/v1/7c/wealthfront-corporation-common-stock/2026/06/8a/8a3a035052f358756f8c4cce9a1884b856856d0a4a7956baf8d7352b47b61229/article.md",
+    "record": "articles/v1/7c/wealthfront-corporation-common-stock/2026/06/8a/8a3a035052f358756f8c4cce9a1884b856856d0a4a7956baf8d7352b47b61229/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9898,
+    "sha256": "sha256:d3eb435f55b4cf29b9cdfb8859f7095e6d69c4dc7e3975ef0bc5aad29febbe7a",
+    "normalized_content_hash": "sha256:ff51b118b387a3600a6c681335c4600a25e7dabad9da42742ca0ca2fac0c553f"
+  },
+  "provenance": {
+    "source_item_id": "766e5c3c-24cf-40b1-a9d2-306b30a6a000",
+    "external_id": "https://eng.wealthfront.com/?p=4127"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "633ef2b6ee8a78d0f29ef9f3a411d305ff61cb2f1e0876ebbc98330f5da11333",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/why-scaling-makes-microservices-testing-exponentially-harder/",
+    "canonical": "https://www.signadot.com/blog/why-scaling-makes-microservices-testing-exponentially-harder/"
+  },
+  "title": "Why Scaling Makes Microservices Testing Exponentially Harder",
+  "summary": "The logical assumption that testing will get easier if your engineering team scales along with your microservices growth is completely wrong.",
+  "published_at": "2025-08-07T15:59:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/08/63/633ef2b6ee8a78d0f29ef9f3a411d305ff61cb2f1e0876ebbc98330f5da11333/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/08/63/633ef2b6ee8a78d0f29ef9f3a411d305ff61cb2f1e0876ebbc98330f5da11333/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10816,
+    "sha256": "sha256:11865a97a8a59efc13f625526eac801f5593ddaf8e41249f2cff39540e1d3b54",
+    "normalized_content_hash": "sha256:5e701dc0fbac4e47b6b596772cc0767dc59806ca5308abddbeb54e4bf77cf802"
+  },
+  "provenance": {
+    "source_item_id": "61f9f2b4-05f8-406a-9c8e-27260086c326",
+    "external_id": "https://www.signadot.com/blog/why-scaling-makes-microservices-testing-exponentially-harder/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c193d34f559002bae273f2ed601a7a5f2128c89b8b767514a8479cd5cbe0e30",
+  "company": {
+    "key": "yc-cortex",
+    "name": "Cortex"
+  },
+  "source": {
+    "id": "yc-cortex-news-import-d57bc7656b70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://builders.cortex.io/blog/sandboxing-agents-part-1/",
+    "canonical": "https://builders.cortex.io/blog/sandboxing-agents-part-1/"
+  },
+  "title": "Sandboxing AI agents: Building a microVM",
+  "summary": "Your AI agent is about to run rm -rf and curl | sh. Let's build a microVM for it to run in, directly in your browser.",
+  "published_at": "2026-07-09T16:30:00+00:00",
+  "first_seen_at": "2026-07-21T15:05:12.617246+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-20T02:06:11.371655+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-cortex/2026/07/2c/2c193d34f559002bae273f2ed601a7a5f2128c89b8b767514a8479cd5cbe0e30/article.md",
+    "record": "articles/v1/66/yc-cortex/2026/07/2c/2c193d34f559002bae273f2ed601a7a5f2128c89b8b767514a8479cd5cbe0e30/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20451,
+    "sha256": "sha256:4a8d89efd3d38a132a8716d3dc1141b958f7379833a9298a4043c9f03555441b",
+    "normalized_content_hash": "sha256:98e59cdafdf4e7debed88e74c2a49706245ebb07ec734c9148b34dc1652a6802"
+  },
+  "provenance": {
+    "source_item_id": "328f2f50-01c1-4af1-a37c-cfa2fb5d2aa4",
+    "external_id": "https://builders.cortex.io/blog/sandboxing-agents-part-1/"
+  }
+}

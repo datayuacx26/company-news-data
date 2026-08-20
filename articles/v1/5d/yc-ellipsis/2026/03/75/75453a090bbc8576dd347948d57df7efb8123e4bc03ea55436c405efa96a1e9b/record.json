@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75453a090bbc8576dd347948d57df7efb8123e4bc03ea55436c405efa96a1e9b",
+  "company": {
+    "key": "yc-ellipsis",
+    "name": "Ellipsis"
+  },
+  "source": {
+    "id": "yc-ellipsis-news-import-97656c4ed8a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ellipsis.dev/blog/automating-your-daily-standup-with-ellipsis",
+    "canonical": "https://www.ellipsis.dev/blog/automating-your-daily-standup-with-ellipsis"
+  },
+  "title": "Automating Your Daily Standup with Ellipsis",
+  "summary": "Define a cron agent in YAML that reads yesterday's merged pull requests with a read-only GitHub token and writes a product-level standup every weekday morning.",
+  "published_at": "2026-03-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:57:47.052865+00:00",
+  "fetched_at": "2026-07-27T09:02:31.696288+00:00",
+  "last_updated_at": "2026-07-27T09:02:33.146695+00:00",
+  "paths": {
+    "article": "articles/v1/5d/yc-ellipsis/2026/03/75/75453a090bbc8576dd347948d57df7efb8123e4bc03ea55436c405efa96a1e9b/article.md",
+    "record": "articles/v1/5d/yc-ellipsis/2026/03/75/75453a090bbc8576dd347948d57df7efb8123e4bc03ea55436c405efa96a1e9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5139,
+    "sha256": "sha256:c91248a7a1d97bb1414bba04ac939fdc9230541b3b2663de2aec755bf6a1a24e",
+    "normalized_content_hash": "sha256:dc6606e4eeb4bc68a2cbda8be3ce22265c1e70e594d3d65aacb705f8b1a55d36"
+  },
+  "provenance": {
+    "source_item_id": "11720118-8a4a-422d-9a85-160ac486ee19",
+    "external_id": "https://www.ellipsis.dev/blog/automating-your-daily-standup-with-ellipsis"
+  }
+}

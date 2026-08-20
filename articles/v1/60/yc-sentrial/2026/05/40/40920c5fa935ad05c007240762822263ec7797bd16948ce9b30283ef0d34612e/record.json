@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "40920c5fa935ad05c007240762822263ec7797bd16948ce9b30283ef0d34612e",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/llm-observability-silent-failures-nobody-warns-you-about",
+    "canonical": "https://www.sentrial.com/blog/llm-observability-silent-failures-nobody-warns-you-about"
+  },
+  "title": "Most AI Agent Failures Never Trigger an Alert. Here's Why.",
+  "summary": "We analyzed 12 million agent logs and found 78% of failures were completely silent, no crash, no error code, no latency spike. Here's what LLM observability actually requires to catch them.",
+  "published_at": "2026-05-26T02:24:34.739+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:12:43.834196+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/05/40/40920c5fa935ad05c007240762822263ec7797bd16948ce9b30283ef0d34612e/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/05/40/40920c5fa935ad05c007240762822263ec7797bd16948ce9b30283ef0d34612e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18716,
+    "sha256": "sha256:5bbdd7e1680aa590b3b78fac0da9feef5a030b4c054094556a9869cc9e8d3f3d",
+    "normalized_content_hash": "sha256:9135b50f0112168eff64c11ff3d8387c23431512636d38b9141da081230bb7f2"
+  },
+  "provenance": {
+    "source_item_id": "a0dceee2-7bfe-4cf5-aff9-ce464fb2238f",
+    "external_id": "https://www.sentrial.com/blog/llm-observability-silent-failures-nobody-warns-you-about"
+  }
+}

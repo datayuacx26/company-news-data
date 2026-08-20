@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f500299544f0a4af422c72250fa9cf820a931758a26b3a185cee528d599e3566",
+  "company": {
+    "key": "yc-firezone",
+    "name": "Firezone"
+  },
+  "source": {
+    "id": "yc-firezone-news-import-75fbee21a5d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firezone.dev/blog/single-owner-gateway-tokens",
+    "canonical": "https://www.firezone.dev/blog/single-owner-gateway-tokens"
+  },
+  "title": "Single-owner Gateway tokens: what changed | Firezone Blog",
+  "summary": "Learn why Firezone replaced shared Site tokens with single-owner Gateway tokens and how to migrate for zero-downtime rotation and individual revocation.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:10:10.796715+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-19T17:51:33.681966+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-firezone/2026/07/f5/f500299544f0a4af422c72250fa9cf820a931758a26b3a185cee528d599e3566/article.md",
+    "record": "articles/v1/79/yc-firezone/2026/07/f5/f500299544f0a4af422c72250fa9cf820a931758a26b3a185cee528d599e3566/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8725,
+    "sha256": "sha256:0418e7816dd35c8c0023322ac4eec027516a6a21abf3e3b3b8e771cd2521666c",
+    "normalized_content_hash": "sha256:26a48e3a7e5d590159028bb222cf35e7e7bc2c9dc0387a63162fd0641436a5a3"
+  },
+  "provenance": {
+    "source_item_id": "b9f91ec9-96bb-4e56-ae02-38b924267b60",
+    "external_id": "https://www.firezone.dev/blog/single-owner-gateway-tokens"
+  }
+}

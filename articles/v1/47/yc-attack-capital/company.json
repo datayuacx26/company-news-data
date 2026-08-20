@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-attack-capital",
+    "name": "Attack Capital"
+  },
+  "record_count": 23,
+  "first_published_at": "2023-06-27T16:13:54+00:00",
+  "last_published_at": "2024-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 8
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/yc-attack-capital/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 24270,
+        "sha256": "sha256:831fcf4adf609cb8736fcde3b2eff0ec28db0f4a770be75e8b61b8e66b693bbd",
+        "newest_at": "2024-08-17T00:00:00+00:00",
+        "oldest_at": "2023-06-27T16:13:54+00:00"
+      }
+    ]
+  }
+}

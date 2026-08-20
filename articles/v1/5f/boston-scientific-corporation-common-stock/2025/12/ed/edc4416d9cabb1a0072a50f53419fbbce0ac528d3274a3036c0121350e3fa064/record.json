@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "edc4416d9cabb1a0072a50f53419fbbce0ac528d3274a3036c0121350e3fa064",
+  "company": {
+    "key": "boston-scientific-corporation-common-stock",
+    "name": "Boston Scientific Corporation"
+  },
+  "source": {
+    "id": "boston-scientific-corporation-common-stock-news-import-c1cec9fa17e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.bostonscientific.com/22-health-programs-receive-Boston-Scientific-Foundation-grants-2025",
+    "canonical": "https://news.bostonscientific.com/22-health-programs-receive-Boston-Scientific-Foundation-grants-2025"
+  },
+  "title": "22 health programs receive Boston Scientific Foundation grants",
+  "summary": "The funds go towards supporting trusted healthcare providers within communities surrounding Boston Scientific sites.",
+  "published_at": "2025-12-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:11:35.327935+00:00",
+  "fetched_at": "2026-07-28T22:24:55.411240+00:00",
+  "last_updated_at": "2026-07-30T04:50:15.329383+00:00",
+  "paths": {
+    "article": "articles/v1/5f/boston-scientific-corporation-common-stock/2025/12/ed/edc4416d9cabb1a0072a50f53419fbbce0ac528d3274a3036c0121350e3fa064/article.md",
+    "record": "articles/v1/5f/boston-scientific-corporation-common-stock/2025/12/ed/edc4416d9cabb1a0072a50f53419fbbce0ac528d3274a3036c0121350e3fa064/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5117,
+    "sha256": "sha256:cff2fb8973fd1383c0d2681a88a4021d3b27dd2b6155a18deab22d25ea075f9d",
+    "normalized_content_hash": "sha256:cc76e3773fc25cdf9d3017bb40e18cc9a3214c1026f82c9efec2ff1291878dbb"
+  },
+  "provenance": {
+    "source_item_id": "5248368f-73ed-4df9-9f8b-197918155530",
+    "external_id": "https://news.bostonscientific.com/22-health-programs-receive-Boston-Scientific-Foundation-grants-2025"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c37fdf3e52d213847765ea5168758ec87024a1a6e01addaea0cc87111b49546",
+  "company": {
+    "key": "yc-growthbook",
+    "name": "GrowthBook"
+  },
+  "source": {
+    "id": "yc-growthbook-news-import-67cec260d3a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.growthbook.io/blog/lessons-learned-from-ronny-kohavi-and-luke-sonnet-running-trustworthy-experiments",
+    "canonical": "https://www.growthbook.io/blog/lessons-learned-from-ronny-kohavi-and-luke-sonnet-running-trustworthy-experiments"
+  },
+  "title": "Lessons learned from Ronny Kohavi and Luke Sonnet: running trustworthy experiments",
+  "summary": "Learn the setup and post-run checks that separate reliable A/B test results from false positives, from power calculations to sample ratio mismatch detection.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:17:24.982400+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-30T08:59:17.582259+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-growthbook/2026/07/1c/1c37fdf3e52d213847765ea5168758ec87024a1a6e01addaea0cc87111b49546/article.md",
+    "record": "articles/v1/54/yc-growthbook/2026/07/1c/1c37fdf3e52d213847765ea5168758ec87024a1a6e01addaea0cc87111b49546/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17149,
+    "sha256": "sha256:3824d18256749623de72fe012d8ea737fa5ce484a5f4f28af0dd342056325cdd",
+    "normalized_content_hash": "sha256:77dcc019e0fc36f52365b5e6d3f22ccc2bfd898f13ce3e28ece1c0a1ae2c6177"
+  },
+  "provenance": {
+    "source_item_id": "8512528c-6e16-4501-9763-21f2c7e15e93",
+    "external_id": "https://www.growthbook.io/blog/lessons-learned-from-ronny-kohavi-and-luke-sonnet-running-trustworthy-experiments"
+  }
+}

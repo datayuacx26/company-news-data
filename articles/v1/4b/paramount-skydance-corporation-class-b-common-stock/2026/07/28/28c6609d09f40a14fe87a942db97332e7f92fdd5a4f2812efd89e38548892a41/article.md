@@ -1,0 +1,67 @@
+---
+schema_version: "1.0.0"
+document_id: "28c6609d09f40a14fe87a942db97332e7f92fdd5a4f2812efd89e38548892a41"
+company_key: "paramount-skydance-corporation-class-b-common-stock"
+company: "Paramount Skydance Corporation"
+source_id: "paramount-skydance-corporation-class-b-common-stock-rss-1497ed60e637"
+canonical_url: "https://ir.paramount.com/news-releases/news-release-details/european-commission-approves-paramount-skydance-corporation"
+published_at: "2026-07-22T18:52:00+00:00"
+first_seen_at: "2026-07-27T11:03:47.461297+00:00"
+fetched_at: "2026-07-28T21:49:03.166047+00:00"
+content_hash: "sha256:aff9732dca5587eb7a36af9e95a17314fec47065d6f9fbcfa45b589ff5a4ffac"
+---
+
+# EUROPEAN COMMISSION APPROVES PARAMOUNT SKYDANCE CORPORATION ACQUISITION OF WARNER BROS. DISCOVERY MARKING MAJOR MILESTONE TOWARDS COMPLETION
+
+LOS ANGELES and NEW YORK
+
+
+, July 22, 2026
+
+
+/PRNewswire/ -- The European Commission has today formally cleared the acquisition of Warner Bros. Discovery, Inc. (NASDAQ: WBD) ("WBD") by Paramount Skydance Corporation (NASDAQ: PSKY) ("Paramount"), representing a major milestone in completing the transaction in line with the publicly stated timeline.
+
+
+Paramount has already received competition clearances from antitrust and competition authorities in the following jurisdictions: the United States, Australia, Brazil, Canada, China, Kuwait, Montenegro, New Zealand, North Macedonia, Saudi Arabia, Serbia, South Africa, South Korea, Ukraine, and the COMESA Competition Commission (the regional competition authority for the Common Market for Eastern and Southern Africa). Additionally, Paramount has received foreign direct investment clearances in Australia, Germany, France, Spain, Slovenia, Belgium, Czechia, New Zealand, Italy, and Romania. The transaction was also unconditionally approved by European Commission under its Foreign Subsidies Regulation regime and by the Austrian Federal Competition Authority under its media merger control regime.
+
+
+With the clearance from the European Commission, bodies and governments representing 65 jurisdictions have either cleared the transaction or chosen not to challenge it on competition and/or foreign direct investment grounds.
+
+
+These clearances recognize that the combination of Paramount and WBD will enhance consumer choice and enable a creative-first company to invest in more projects and bring stories to audiences worldwide. It will create a scaled media and entertainment company capable of competing with the tech companies that have come to dominate the industry, strengthening the media ecosystem and creating more opportunities for creatives both in front of and behind the camera.
+
+
+The conclusions reached by the European Commission directly refute key assumptions that underpin the state AGs' complaint seeking to block the transaction. In its finding that "at film production level, enough film studios remain as competitors in the EEA", the European Commission correctly defined the market as including "smaller US studios such as Amazon MGM, A24 and Lionsgate, as well as European studios" in addition to "other major US studios like Disney, NBC Universal and Sony." The European Commission did not find that high-budget or 'blockbuster' films constituted a relevant market. It rather considered them as an element of differentiation in its competitive assessment, and found that the market will remain competitive for these types of films too. In coming to the conclusion that "as regards the AV value chain, the Commission's investigation showed that enough alternative competitors remain to exert sufficient competitive pressure on the merged entity in the EEA", the European Commission rightly considered streaming platforms as competing directly with linear TV. These conclusions further undermine the market definition relied upon by the state AGs in their complaint.
+
+
+"Today's approval from the European Commission marks another significant milestone in bringing Paramount and Warner Bros. Discovery together. We appreciate the Commission's constructive engagement and thorough analysis throughout its review," said Makan Delrahim, Chief Legal Officer, Paramount. "Not only does this combination not pose any competitive harms, it actually enhances competition by creating a scaled media and entertainment company with the ability to truly challenge the tech platforms that have come to dominate the industry. By strengthening competition it will support increased investment in content, expand opportunities for creatives and deliver greater choice for consumers. We are pleased that the European Commission, following its robust review, joins other bodies, including the United States Department of Justice, Australia's ACCC, Canada's CCB, Brazil's CADE, China's SAMR and South Africa, in concluding that this transaction does not harm competition and can proceed, further underscoring its potential to strengthen the global media and entertainment ecosystem."
+
+
+The transaction brings together the two companies' complementary strengths to create more competition and support greater investment in storytelling and talent. Paramount has proactively made clear its plans and incentives for the combined company: to increase output to at least 30 high-quality films annually, each of which will receive a full theatrical release starting immediately; to continue licensing content to and acquiring content from third parties; and to preserve iconic brands with independent creative leadership.
+
+
+***
+
+
+**About Paramount, a Skydance Corporation**
+
+
+Paramount, a Skydance Corporation is a next-generation global media and entertainment company, comprised of three business segments: Studios, Direct-to-Consumer, and TV Media. PSKY's portfolio unites legendary brands, including Paramount Pictures, Paramount Television, CBS, CBS News, CBS Sports, Nickelodeon, MTV, BET, Comedy Central, Showtime, Paramount+, Pluto TV, and Skydance Animation, Film, Television, Interactive/Games, and Paramount Sports Entertainment.
+
+
+PSKY-IR
+
+
+**Cautionary Note Concerning Forward-Looking Statements**
+
+
+This communication contains "forward-looking statements" regarding the Merger. The reader is cautioned not to rely on these forward-looking statements. These statements are based on current expectations of future events. If underlying assumptions prove inaccurate or known or unknown risks or uncertainties materialize, actual results could vary materially from the expectations and projections of PSKY or WBD. Risks and uncertainties include, but are not limited to: the risk that the closing conditions for the Merger will not be satisfied, including the risk that clearances under applicable antitrust or regulatory laws will not be obtained; the possibility that the transaction will not be completed in the expected timeframe or at all; potential adverse effects to the businesses of PSKY or WBD during the pendency of the transaction, such as employee departures or distraction of management from business operations; the risk of stockholder litigation relating to the transaction, including resulting expense or delay; the potential that the expected benefits and opportunities of the Merger, if completed, may not be realized or may take longer to realize than expected; risks related to PSKY's streaming business; the adverse impact on PSKY's advertising revenues as a result of changes in consumer behavior, advertising market conditions and deficiencies in audience measurement; risks related to operating in highly competitive and dynamic industries; the unpredictable nature of consumer behavior, as well as evolving technologies and distribution models; risks related to PSKY's decisions to invest in new businesses, products, services and technologies, and the evolution of PSKY's business strategy; the potential for loss of carriage or other reduction in, or the impact of negotiations for, the distribution of PSKY's content; damage to PSKY's reputation or brands; losses due to asset impairment charges for goodwill, content and long-lived assets, including finite-lived intangible assets; liabilities related to discontinued operations and former businesses; increasing scrutiny of, and evolving expectations for, sustainability initiatives; evolving business continuity, cybersecurity, privacy and data protection and similar risks; challenges in protecting and maintaining PSKY's intellectual property rights; domestic and global political, economic and regulatory factors affecting PSKY's businesses generally; the inability to hire or retain key employees or secure creative talent; disruptions to PSKY's operations as a result of labor disputes; risks and costs associated with the integration of, and PSKY's ability to integrate, the businesses of Paramount Global and Skydance successfully and to achieve anticipated synergies; litigation relating to the transactions contemplated by the transaction agreement entered into on July 7, 2024, between Paramount Global and Skydance, potentially resulting in substantial costs; volatility in the price of PSKY's Class B common stock; the effect PSKY's dual-class capital structure and the concentrated ownership may have on the price of its Class B common stock or business; risks related to a private sale of a controlling interest in PSKY, including that PSKY's stockholders may not realize any change of control premium on shares of PSKY's Class B common stock and that PSKY may become subject to the control of a presently unknown third party; risks associated with PSKY's status as a "controlled company" under Nasdaq rules, including its exemption from certain corporate governance requirements; risks associated with the lack of voting rights of PSKY's Class B common stock; risks that anti-takeover provisions in PSKY's amended and restated certificate of incorporation (the "Charter") and amended and restated bylaws, and under Delaware law, could deter, delay, or prevent a change of control; risks that exclusive forum provisions in the Charter could limit a stockholder's choice of forum for certain claims and discourage lawsuits against PSKY's directors and officers; risks that corporate opportunity provisions in the Charter could permit certain persons to pursue competitive opportunities that might otherwise be available to PSKY; risks associated with PSKY's holding company structure, including its dependence on distributions from its subsidiaries to meet tax obligations and other cash requirements; risks related to PSKY's indebtedness, including PSKY's substantial outstanding debt obligations; risks related to PSKY's ability to incur substantially more debt and PSKY's ability to meet the financial and other covenants contained in the agreements governing PSKY's indebtedness; risks relating to PSKY's ability to deleverage the business in accordance with management's targets, including risks arising from assumptions, uncertainties and contingencies that may affect PSKY's ability to reduce indebtedness; risks relating to management's ability to execute on its strategic plan and improve its financial profile and cash flows from operations; and risks relating to any capital or other financing PSKY may have to raise in order to reduce its indebtedness following the Merger. A further list and description of these risks, uncertainties and other factors and the general risks associated with the respective businesses of PSKY and WBD can be found in PSKY's Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the SEC on February 25, 2026, and PSKY's Form 10-Q for the quarterly period ended March 31, 2026, filed with the SEC on May 4, 2026, including, in each case, in the sections captioned "Cautionary Note Concerning Forward-Looking Statements" and "Item 1A. Risk Factors," and PSKY's subsequent filings with the SEC, and WBD's Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the SEC on February 27, 2026, and WBD's Form 10-Q for the quarterly period ended March 31, 2026, filed with the SEC on May 6, 2026, including, in each case, in the sections captioned "Cautionary Note Concerning Forward-Looking Statements" and "Item 1A. Risk Factors," and WBD's subsequent filings with the SEC. Copies of these filings, as well as subsequent filings, are available online at[www.sec.gov](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4737254-1&h=3889432728&u=https%3A%2F%2Furl.uk.m.mimecastprotect.com%2Fs%2FK6JyCgJWUA5WQlyINfwf4wvdK%3Fdomain%3Dsec.gov&a=www.sec.gov) ,[ir.wbd.com](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4737254-1&h=3909534804&u=https%3A%2F%2Furl.uk.m.mimecastprotect.com%2Fs%2F491OCjRWUn1JNjmURhKfmsaOG%3Fdomain%3Dir.wbd.com&a=ir.wbd.com) or on request from PSKY or WBD. PSKY undertakes no obligation to update any forward-looking statement as a result of new information or future events or developments, except as required by law.
+
+
+View original content:[https://www.prnewswire.com/news-releases/european-commission-approves-paramount-skydance-corporation-acquisition-of-warner-bros-discovery-marking-major-milestone-towards-completion-302832497.html](https://www.prnewswire.com/news-releases/european-commission-approves-paramount-skydance-corporation-acquisition-of-warner-bros-discovery-marking-major-milestone-towards-completion-302832497.html)
+
+
+SOURCE Paramount Skydance Corporation
+
+
+Media Contacts: Melissa Zukerman / Laura Watson, msz@paramount.com / laura.watson@paramount.com; Brunswick Group, ParamountSkydance@brunswickgroup.com

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a1f3f45dfd19902620df35114bb474dc11e4a7f8dbf7bfa624a66a96b2b11ef5",
+  "company": {
+    "key": "yc-dedalus-labs",
+    "name": "Dedalus Labs"
+  },
+  "source": {
+    "id": "yc-dedalus-labs-news-import-c6fd8a49c5f3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dedaluslabs.ai/blog/dedalus-auth-launch",
+    "canonical": "https://www.dedaluslabs.ai/blog/dedalus-auth-launch"
+  },
+  "title": "Introducing Dedalus Auth",
+  "summary": "A multi-tenant auth layer that ensures MCP agents never handle raw secrets.",
+  "published_at": "2026-01-19T09:00:00+00:00",
+  "first_seen_at": "2026-07-21T15:59:30.110359+00:00",
+  "fetched_at": "2026-07-28T22:23:25.248280+00:00",
+  "last_updated_at": "2026-08-20T03:03:32.428261+00:00",
+  "paths": {
+    "article": "articles/v1/64/yc-dedalus-labs/2026/01/a1/a1f3f45dfd19902620df35114bb474dc11e4a7f8dbf7bfa624a66a96b2b11ef5/article.md",
+    "record": "articles/v1/64/yc-dedalus-labs/2026/01/a1/a1f3f45dfd19902620df35114bb474dc11e4a7f8dbf7bfa624a66a96b2b11ef5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6776,
+    "sha256": "sha256:e6b25e35881508c13703a190d6dbee466a8aea6fd7d1108fb87a5b9b447e88d0",
+    "normalized_content_hash": "sha256:c8b08f539d6dda702be109d036350c0d3f789950bbe2f03a70c1ead78afb8cea"
+  },
+  "provenance": {
+    "source_item_id": "d9ccd1c4-f19e-442b-b38f-3a4c3d8890ec",
+    "external_id": "https://www.dedaluslabs.ai/blog/dedalus-auth-launch"
+  }
+}

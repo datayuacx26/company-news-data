@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efc2c3f0f60e0d4c1b4e9b4b03ed7f50c907be6e7411949534cdd296031c5c13",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/secureminions",
+    "canonical": "https://ollama.com/blog/secureminions"
+  },
+  "title": "Secure Minions: private collaboration between Ollama and frontier models",
+  "summary": "Secure Minions is a secure protocol built by Stanford's Hazy Research lab to allow encrypted local-remote communication.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:08:30.130278+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:37.335761+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/ef/efc2c3f0f60e0d4c1b4e9b4b03ed7f50c907be6e7411949534cdd296031c5c13/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/ef/efc2c3f0f60e0d4c1b4e9b4b03ed7f50c907be6e7411949534cdd296031c5c13/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5621,
+    "sha256": "sha256:473869e889c1f96ab0fd107a0e6e1bbf547c2793647bf7b9a65af850198ade46",
+    "normalized_content_hash": "sha256:33963ed9de731bfd566aaf2162e8e6ea15ce633ef662be6582b53de92c851aec"
+  },
+  "provenance": {
+    "source_item_id": "56f3b8b9-c6b7-41d5-9382-e35b5a6b4caf",
+    "external_id": "https://ollama.com/blog/secureminions"
+  }
+}

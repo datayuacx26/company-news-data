@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "intercontinental-exchange-inc-common-stock",
+    "name": "Intercontinental Exchange Inc."
+  },
+  "record_count": 22,
+  "first_published_at": "2026-07-06T13:00:00+00:00",
+  "last_published_at": "2026-08-18T04:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5d/intercontinental-exchange-inc-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 24352,
+        "sha256": "sha256:7e320bc62852792b37023b6bfb5ebe16e976078de5088d899d9506924bc7ceb5",
+        "newest_at": "2026-08-18T04:00:00+00:00",
+        "oldest_at": "2026-07-06T13:00:00+00:00"
+      }
+    ]
+  }
+}

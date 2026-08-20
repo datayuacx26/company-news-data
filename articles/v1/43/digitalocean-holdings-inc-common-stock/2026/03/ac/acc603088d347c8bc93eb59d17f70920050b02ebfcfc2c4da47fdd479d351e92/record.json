@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "acc603088d347c8bc93eb59d17f70920050b02ebfcfc2c4da47fdd479d351e92",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/net-buildpack-support-app-platform",
+    "canonical": "https://www.digitalocean.com/blog/net-buildpack-support-app-platform"
+  },
+  "title": "Native .NET Buildpack Support is Now Available on App Platform",
+  "summary": "With native .NET buildpack support on DigitalOcean App Platform, you can deploy your .NET applications directly from a Git repository without writing or maintaining Dockerfiles. App Platform automatically detects your .NET project, installs the correct SDK version, and builds your application for production.",
+  "published_at": "2026-03-05T21:21:25.719+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/03/ac/acc603088d347c8bc93eb59d17f70920050b02ebfcfc2c4da47fdd479d351e92/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/03/ac/acc603088d347c8bc93eb59d17f70920050b02ebfcfc2c4da47fdd479d351e92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4501,
+    "sha256": "sha256:9ede29d96e989eff55683fd0f5cb7330c441461bb61434e8f9ad52da138c1930",
+    "normalized_content_hash": "sha256:54846df86541cf3302f72d99e4374e3dfaa7a5c5f3806a6125ac467e290c1a04"
+  },
+  "provenance": {
+    "source_item_id": "6caa7c37-bbf4-4586-b6ff-88beb6c2e4cc",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/net-buildpack-support-app-platform"
+  }
+}

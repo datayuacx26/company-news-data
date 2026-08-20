@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e79f72f0f212db02cff72596b12816ea3c707da7ffffaf85da841c1a84c3d4c",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/how-bitso-is-scaling-branch-based-development-with-signadot-and-neon/",
+    "canonical": "https://www.signadot.com/blog/how-bitso-is-scaling-branch-based-development-with-signadot-and-neon/"
+  },
+  "title": "How Bitso Is Scaling Branch-Based Development with Signadot and Neon",
+  "summary": "Bitso eliminated staging bottlenecks for 250+ engineers by using Signadot and Neon to create isolated, high-fidelity sandboxes for every PR. This RISE architecture ensures financial-grade stability by promoting the exact artifacts validated in isolation directly to production.",
+  "published_at": "2026-01-07T19:52:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:24:01.443100+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/01/9e/9e79f72f0f212db02cff72596b12816ea3c707da7ffffaf85da841c1a84c3d4c/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/01/9e/9e79f72f0f212db02cff72596b12816ea3c707da7ffffaf85da841c1a84c3d4c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5724,
+    "sha256": "sha256:bcfcabc3d26970dac70a3b3efda379b7b11777515e9cf613410a0091cc45571c",
+    "normalized_content_hash": "sha256:0a7f623c4c0fce081d53636d2b937ad3c306a6197abff03feed803a20ede134b"
+  },
+  "provenance": {
+    "source_item_id": "f5f8becd-6785-415a-8236-473fb829bab7",
+    "external_id": "https://www.signadot.com/blog/how-bitso-is-scaling-branch-based-development-with-signadot-and-neon/"
+  }
+}

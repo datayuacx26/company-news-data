@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "vertiv-holdings-llc-class-a-common-stock",
+    "name": "Vertiv Holdings LLC"
+  },
+  "record_count": 337,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 323
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 14
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 7,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 63307,
+        "sha256": "sha256:3b23e730dfcf9c661a63e707e37d9da962938abb6924075b1682b3f6a2f88032",
+        "newest_at": "2026-08-20T03:22:47.385735+00:00",
+        "oldest_at": "2026-08-04T00:20:40.433623+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 71086,
+        "sha256": "sha256:fd966104e8657867b4848820af9e724f6cea5ae7fe0f29a821d4b25215040716",
+        "newest_at": "2026-08-04T00:20:40.433623+00:00",
+        "oldest_at": "2026-07-28T21:49:03.166047+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 72314,
+        "sha256": "sha256:111bd376a8b24e9262204e54ba044d251e93f00f5d70f72ce9f6ed0527788cda",
+        "newest_at": "2026-07-28T21:49:03.166047+00:00",
+        "oldest_at": "2026-07-28T21:49:03.166047+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 73880,
+        "sha256": "sha256:caacfb8c78c359c99c56266a9378a6715a4933b6a259c935874b09f8ada5eb07",
+        "newest_at": "2026-07-28T21:49:03.166047+00:00",
+        "oldest_at": "2026-07-28T21:49:03.166047+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 73417,
+        "sha256": "sha256:02140bcce342fe4df1baad0a18221bd4cd9c795da66005ed6ba41b90300de58a",
+        "newest_at": "2026-07-28T21:49:03.166047+00:00",
+        "oldest_at": "2026-07-28T21:49:03.166047+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 72010,
+        "sha256": "sha256:c05c5e64d2dced2b0e372091812d533e7c7047284f92660607f93c702bc2e473",
+        "newest_at": "2026-07-28T21:49:03.166047+00:00",
+        "oldest_at": "2026-07-28T21:49:03.166047+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/74/vertiv-holdings-llc-class-a-common-stock/index/pages/000007.json",
+        "record_count": 37,
+        "byte_count": 49748,
+        "sha256": "sha256:e60118b34f550695b37437c5b19c1277e5c760b373a57f210a8081d4283e65b1",
+        "newest_at": "2026-07-28T21:49:03.166047+00:00",
+        "oldest_at": "2026-07-28T21:08:32.413121+00:00"
+      }
+    ]
+  }
+}

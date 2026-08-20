@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "391ec878a166de3a3361fae660dad0249aaa436a3269a8dc3b7f703b3280eba0",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/what-are-docker-layers",
+    "canonical": "https://depot.dev/blog/what-are-docker-layers"
+  },
+  "title": "What are Docker layers anyway?",
+  "summary": "To learn what a Docker layer really is, we'll dissect a Docker image and take a look inside. Deep dive into the layers of a Docker image and understand how they work.",
+  "published_at": "2024-07-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/07/39/391ec878a166de3a3361fae660dad0249aaa436a3269a8dc3b7f703b3280eba0/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/07/39/391ec878a166de3a3361fae660dad0249aaa436a3269a8dc3b7f703b3280eba0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12112,
+    "sha256": "sha256:6d15ce63ea84b93035826ed2223acf4047627b847c92f330a7f7d5f2abdade9d",
+    "normalized_content_hash": "sha256:82054c353c4930129842deb3b3d6a6262a53a53fb979cce5d9d5c57e28e8dc52"
+  },
+  "provenance": {
+    "source_item_id": "9a1f4e21-2bdd-4fb0-a3a1-b153374578ab",
+    "external_id": "https://depot.dev/blog/what-are-docker-layers"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c619e1e734a77509c04ccb053a1f6132fa24de3141e07523284dc242467cb74b",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/how-lyft-and-razorpay-share-development-environments-with-hundreds-of-devs/",
+    "canonical": "https://www.signadot.com/blog/how-lyft-and-razorpay-share-development-environments-with-hundreds-of-devs/"
+  },
+  "title": "How Lyft and Razorpay share development environments with hundreds of developers",
+  "summary": "Learn how Lyft and Razorpay manage large-scale development environments using request routing and isolation. Discover strategies for maintaining high-fidelity testing, ensuring speed and accuracy, and overcoming coordination challenges in Kubernetes.",
+  "published_at": "2023-07-24T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/07/c6/c619e1e734a77509c04ccb053a1f6132fa24de3141e07523284dc242467cb74b/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/07/c6/c619e1e734a77509c04ccb053a1f6132fa24de3141e07523284dc242467cb74b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15415,
+    "sha256": "sha256:88a0c69da36c907abc3d172717fd272d226dba3c9fb50c9c03bb7f24b8a64b75",
+    "normalized_content_hash": "sha256:27a670d0d14838a6a672d0fbc2f56ee8a9222abad065b7af0d0af2063f1d8bc2"
+  },
+  "provenance": {
+    "source_item_id": "cf3597bd-c9da-47c8-8866-0758a7a576aa",
+    "external_id": "https://www.signadot.com/blog/how-lyft-and-razorpay-share-development-environments-with-hundreds-of-devs/"
+  }
+}

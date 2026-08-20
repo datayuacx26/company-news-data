@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a4c0627ba931a54b59be58f989ffff17d69ee25020d386cbf677afd2de33bfd",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-news-import-e788018b3f7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://resend.com/changelog/logs-api",
+    "canonical": "https://resend.com/changelog/logs-api"
+  },
+  "title": "Logs API",
+  "summary": "Access your API request logs from anywhere.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T21:22:09.024444+00:00",
+  "fetched_at": "2026-07-28T22:00:15.315546+00:00",
+  "last_updated_at": "2026-08-13T04:04:51.492455+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2026/04/7a/7a4c0627ba931a54b59be58f989ffff17d69ee25020d386cbf677afd2de33bfd/article.md",
+    "record": "articles/v1/78/yc-resend/2026/04/7a/7a4c0627ba931a54b59be58f989ffff17d69ee25020d386cbf677afd2de33bfd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2473,
+    "sha256": "sha256:ced899cfe224d58e74ff77a106eefa408e2d105e3012b7d0058d1adae03d70c3",
+    "normalized_content_hash": "sha256:8b5c06a7408acbff8a79d373123905f77f71f0786fac710b67490185638e8a19"
+  },
+  "provenance": {
+    "source_item_id": "e0a4af89-23af-46e2-972f-0f5963187b7f",
+    "external_id": "https://resend.com/changelog/logs-api"
+  }
+}

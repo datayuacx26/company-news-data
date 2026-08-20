@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "375af6b1513d6c2ee4556e7dabb9164c54d5da09e07dc9640959e4b4a330178d",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/zeroentropy-versus-jina-ai-reranker/",
+    "canonical": "https://zeroentropy.dev/articles/zeroentropy-versus-jina-ai-reranker/"
+  },
+  "title": "ZeroEntropy's zerank-1 vs. Jina AI's jina-reranker-m0",
+  "summary": "How does Jina AI's jina-reranker-m0 compare to ZeroEntropy's zerank-1? In this blog post, we compare both on the latency, accuracy, and pricing standpoints.",
+  "published_at": "2025-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T06:27:17.647384+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-08-19T18:29:28.322923+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2025/08/37/375af6b1513d6c2ee4556e7dabb9164c54d5da09e07dc9640959e4b4a330178d/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2025/08/37/375af6b1513d6c2ee4556e7dabb9164c54d5da09e07dc9640959e4b4a330178d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5129,
+    "sha256": "sha256:0f97673403edf96aec033da100e997a586cc8981e6566e205d503ef3a6e25ccf",
+    "normalized_content_hash": "sha256:251f5d8489aa265ddf4e21dc23e7b430bfb24e228269e65ef638cf4321c7e689"
+  },
+  "provenance": {
+    "source_item_id": "0616b445-f966-4c99-9791-ea0e59cbdfd3",
+    "external_id": "https://zeroentropy.dev/articles/zeroentropy-versus-jina-ai-reranker/"
+  }
+}

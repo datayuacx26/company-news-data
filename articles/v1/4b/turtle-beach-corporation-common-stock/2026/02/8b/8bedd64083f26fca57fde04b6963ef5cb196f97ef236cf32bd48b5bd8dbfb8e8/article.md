@@ -1,0 +1,142 @@
+---
+schema_version: "1.0.0"
+document_id: "8bedd64083f26fca57fde04b6963ef5cb196f97ef236cf32bd48b5bd8dbfb8e8"
+company_key: "turtle-beach-corporation-common-stock"
+company: "Turtle Beach Corporation"
+source_id: "turtle-beach-corporation-common-stock-rss-58a932388297"
+canonical_url: "https://www.turtlebeach.com/blog/overwatch-season-1-all-new-heroes"
+published_at: "2026-02-09T12:00:07+00:00"
+first_seen_at: "2026-07-20T23:23:09.249565+00:00"
+fetched_at: "2026-07-28T22:21:20.156020+00:00"
+content_hash: "sha256:e735e8096a17c7f11671e6c604f9b8a6d8a81ba14d658fc6651760037c63ac15"
+---
+
+# Overwatch Season 1: All New Heroes
+
+Overwatch has now been fully rebranded, and Overwatch 2 is no more, and Blizzard is essentially resetting the clock on the game's life cycle.
+
+
+Now, Season 1 of Overwatch is here, and five new heroes are joining the fray, and we're going to run over all we know about them.
+
+
+## Overwatch Season 1: All New Heroes
+
+
+Blizzard releasing five new heroes at the onset of Season 1 was something that no one expected, but here we are.
+
+
+Now, some brand new heroes are coming, including Jetpack Cat; an adorable new Support for players to try out.
+
+
+A rundown of all new heroes for Overwatch are as follows:
+
+
+## *FIVE NEW HEROES LAUNCHING IN SEASON 1*
+
+
+*Season 1 introduces the first five new Heroes of the year: Domina, Emre, Mizuki, Anran, and Jetpack Cat. Each Hero will play a key role in the narrative as The Reign of Talon unfolds.*
+
+
+*As the story kicks off, Vendetta is strengthening her forces with three new allies:*
+
+
+*DOMINA (Tank)*
+
+
+**
+
+
+*Heiress and vice president of Vishkar Industries. Though Domina is not a formal member of Talon, a partnership with Vendetta has granted Vishkar Industries lucrative redevelopment rights for territories under Talon control.*
+
+
+*Using advanced Vishkar technology, Domina is the first true poke tank since Sigma—an elegant long‑range controller with deadly zone dominance.*
+
+
+- ***Photon Magnum (Primary Fire)** - Medium-range beam that culminates in a high impact shot.*
+- ***Barrier Array** - A segmented hard‑light barrier deployed in front of Domina. Each segment must be individually destroyed, creating dynamic defensive angles.*
+- ***Crystal Charge** - Project an explosive crystal and reactivate to denotate it.*
+- ***Sonic Repulsors** - Push enemies back, stunning them if they hit a wall.*
+- ***Ultimate — Panopticon** - Fire a hard-light barrier that imprisons enemies and detonates on expiration.*
+- ***Passive – Reconstruction -** Dealing damage with abilities restores shields.*
+
+
+*EMRE (Damage)*
+
+
+**
+
+
+*Emre is a former member of the Overwatch Strike Team. He once stood as an example of Overwatch’s ideals, but as Overwatch lost sight of its mission, Emre chose to leave. Freja tracked him down and discovered that his body has been altered with cybernetic modifications. His mind appears to be in conflict; sometimes he behaves like the person he once was, and other times he seems detached.*
+
+
+*Now aligned with Vendetta, Emre brings a fast-paced, run‑and‑gun damage style.*
+
+
+- ***Synthetic Burst Rifle (Primary Fire)** - Three-round burst weapon.*
+- ***Take Aim (Secondary Fire)** - Hold to zoom in, tightening accuracy and increasing fall off range.*
+- ***Siphon Blaster** - Temporarily wield a semi-automatic pistol with life stealing explosive rounds. Move faster and jump higher while wielded.*
+- ***Cyber Frag** - Throw a grenade that detonates shortly after bouncing.*
+- ***Ultimate — Override Protocol** - An override initiates, transforming you into a living weapon. Fires rapid explosive blasts or charged mega‑shots capable of wiping teams.*
+- ***Passive – Altered Vitals** - Passive health regeneration activates sooner and instantly restores 30 health when activated.*
+
+
+*MIZUKI (Support)*
+
+
+**
+
+
+*Mizuki is a member of the Hashimoto clan, which is aligned with Talon. He has endured years of misfortune and pressure within the clan’s hierarchy. Some believe he may not be suited for the life he has been raised into, but through dedication and influence from senior clan members, he has become a key player. Mizuki has been tasked with infiltrating the Yokai near Kanezaka, but there is concern that he may be influenced by them or potentially drawn to Overwatch.*
+
+
+- ***Spirit Glaive (Primary Fire)** - Throw a spinning blade that can bounce off walls, impact enemies and rapidly deal damage.*
+- ***Healing Kasa** - Throw your hat to heal an ally, bouncing to nearby allies and healing you when it returns.*
+- ***Katashiro Return** - Leap forward, leaving behind a paper doll. Reactivate to return and gain increased movement speed while active.*
+- ***Binding Chain** - Launch a tethering chain that hinders the first enemy hit.*
+- ***Ultimate — Kekkai Sanctuary** - Create a sanctuary that heals allies and absorbs enemy projectiles from outside the area.*
+- ***Passive – Remedy Aura** - Heals nearby allies. Healing scales with resources generated by dealing damage and healing.*
+
+
+*Overwatch is standing against Talon with two new members:*
+
+
+*ANRAN (Damage)*
+
+
+**
+
+
+*The older sister of Wuyang, Anran harnesses the power of Fire when in the heat of battle. She is confident and hardworking, holding others to the standards she maintains for herself. Anran joins Overwatch with the intent to save the world and to keep Wuyang out of trouble.*
+
+
+- ***Zhuque Fans (Primary Fire)** - Hand fans that shoot fiery projectiles.*
+- ***Fan the Flames (Secondary Fire)** - Hot wind blast that amplifies burning damage.*
+- ***Inferno Rush** - Propel yourself forward and damage enemies you impact.*
+- ***Dancing Blaze** - Strike nearby enemies while dodging all damage.*
+- ***Ultimate — Vermillion Ascent (Alive)** - Charge forward, exploding on impact and instantly igniting enemies.*
+- ***Ultimate — Vermillion Revival (Dead)** - When dead, revive yourself in a fiery explosion.*
+- ***Passive – Ignition** - Hit enemies with fire attacks to burn them.*
+
+
+*Anran is available early via a **Hero Trial** beginning **February 5** .*
+
+
+*JETPACK CAT (Support)*
+
+
+**
+
+
+*Yup. Jetpack Cat is finally joining the lineup.*
+
+
+*Found as a stray in Gibraltar, little is known about Jetpack Cat other than how dangerous she is in fights, with quick reflexes and a kit befitting a feline Hero.*
+
+
+---
+
+
+In the meantime, be sure to check out our wide array of phenomenal[gaming headsets and controllers](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwjen53s2OeOAxVUNwgFHXS1PecYACICCAEQBRoCbWQ&co=1&ase=2&gclid=CjwKCAjwqKzEBhANEiwAeQaPVebiQ0o2D7zdn03zRy2rFt-imgINy9zHObEzd_RMgQeEUJ61Qwv_0BoCHm8QAvD_BwE&ohost=www.google.com&cid=CAESVuD2ai8NubCDJk1ROyymaSIxYvzXDHLFptPI0ICdxicmCs290E4FqNdnZTd5f2iCWj6VeDZoR7HRgyHlW8Fgvxg0AA6lMlImtK_KfsZv5xoxLjllRAmD&category=acrcp_v1_40&sig=AOD64_10bRu4LITGNf-lVGTaNhnMZYuPkg&q&nis=4&adurl&ved=2ahUKEwjY8Jfs2OeOAxVymYkEHQ_IAxMQqyQoAHoECAcQDQ) !
+
+
+****

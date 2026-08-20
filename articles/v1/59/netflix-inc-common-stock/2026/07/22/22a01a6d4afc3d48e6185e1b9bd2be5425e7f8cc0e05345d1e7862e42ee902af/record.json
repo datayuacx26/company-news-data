@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22a01a6d4afc3d48e6185e1b9bd2be5425e7f8cc0e05345d1e7862e42ee902af",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc."
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/america-250-lineup",
+    "canonical": "https://about.netflix.com/news/america-250-lineup"
+  },
+  "title": "Oh Say Can You Stream: Unveiling Our Star-Spangled America 250 Lineup",
+  "summary": "Netflix has a new docuseries, 'The American Experiment' and several new collections to ring in the United States' 250th birthday.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:38:38.142383+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-31T18:53:12.760366+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/07/22/22a01a6d4afc3d48e6185e1b9bd2be5425e7f8cc0e05345d1e7862e42ee902af/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/07/22/22a01a6d4afc3d48e6185e1b9bd2be5425e7f8cc0e05345d1e7862e42ee902af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6273,
+    "sha256": "sha256:5484dba4f55c2f13b870e28cc553e37ad801700d156a63758f258727058a82c3",
+    "normalized_content_hash": "sha256:67e01f1f5beb19eab7f6068676f52bbd96cabfb270f5b1f421badad90d324d29"
+  },
+  "provenance": {
+    "source_item_id": "246f9767-b926-4ed0-8220-ddc4736482be",
+    "external_id": "https://about.netflix.com/news/america-250-lineup"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df3dbb7cd2d1368c23987f7a1406ac651255a4be005bd7192fc39ca2d5acd379",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/buildkit-in-depth",
+    "canonical": "https://depot.dev/blog/buildkit-in-depth"
+  },
+  "title": "BuildKit in depth: Docker's build engine explained",
+  "summary": "This article explains how BuildKit works in depth, why it's faster than Docker's previous build engine, and what it looks like under the hood.",
+  "published_at": "2024-02-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/02/df/df3dbb7cd2d1368c23987f7a1406ac651255a4be005bd7192fc39ca2d5acd379/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/02/df/df3dbb7cd2d1368c23987f7a1406ac651255a4be005bd7192fc39ca2d5acd379/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17615,
+    "sha256": "sha256:63760a41bff7b2b0e9d8c4abc16973aeedfb04388c4b789bc592d3ff1a42ee26",
+    "normalized_content_hash": "sha256:6a16d460169b7d506910f1ea6447f4d43970df51567086678b7824b16076eaa8"
+  },
+  "provenance": {
+    "source_item_id": "69599ef2-c0d9-4bef-b38d-583d3cf66f54",
+    "external_id": "https://depot.dev/blog/buildkit-in-depth"
+  }
+}

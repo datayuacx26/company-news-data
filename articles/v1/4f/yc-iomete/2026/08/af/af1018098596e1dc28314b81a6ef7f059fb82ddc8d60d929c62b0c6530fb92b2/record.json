@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af1018098596e1dc28314b81a6ef7f059fb82ddc8d60d929c62b0c6530fb92b2",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/control-plane-vs-data-plane",
+    "canonical": "https://iomete.com/resources/blog/control-plane-vs-data-plane"
+  },
+  "title": "Control Plane vs Data Plane in Kubernetes and IOMETE",
+  "summary": "What control plane and data plane mean in Kubernetes (API server, etcd, scheduler, kubelet, CNI, CRI, CSI), and how that same split shows up inside IOMETE, from its own microservices down to Spark pods and namespaces.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T20:29:46.398247+00:00",
+  "fetched_at": "2026-08-07T20:29:48.130480+00:00",
+  "last_updated_at": "2026-08-20T00:52:51.295677+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/08/af/af1018098596e1dc28314b81a6ef7f059fb82ddc8d60d929c62b0c6530fb92b2/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/08/af/af1018098596e1dc28314b81a6ef7f059fb82ddc8d60d929c62b0c6530fb92b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8628,
+    "sha256": "sha256:d6a9d8ebd19026e7dc6554a8c36ecb064639edafd5ebe138e1a7b05a8345c0d5",
+    "normalized_content_hash": "sha256:5e422497a25c1685d64df3a99de55fa0371a2c00c48e53076d3891a76f85044b"
+  },
+  "provenance": {
+    "source_item_id": "de9feacd-09d4-42aa-8705-0082cbeb2e7b",
+    "external_id": "https://iomete.com/resources/blog/control-plane-vs-data-plane"
+  }
+}

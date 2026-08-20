@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-athina-ai",
+    "name": "Athina AI"
+  },
+  "record_count": 363,
+  "first_published_at": "2021-07-28T00:00:00+00:00",
+  "last_published_at": "2026-08-20T00:55:52.946+00:00",
+  "partitions": [
+    {
+      "partition": "2021-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 26
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 32
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 21
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 49
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 14
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 16
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 16
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 26
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 19
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 23
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 10
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 17
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 30
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 28
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 8,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50540,
+        "sha256": "sha256:b09c24c21112c060f9ff37f1ed6454e8eb2fa93fb5305c6f3cfcee3852a46684",
+        "newest_at": "2026-08-20T00:55:52.946+00:00",
+        "oldest_at": "2024-03-23T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 50700,
+        "sha256": "sha256:99a3c3c1dc2248ed84d3afcdf4fb1328f640bd3bfa722733303e955da3916594",
+        "newest_at": "2024-03-22T00:00:00+00:00",
+        "oldest_at": "2024-01-04T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 50867,
+        "sha256": "sha256:746e21dc9347da637e4dee8f8f5765ccc8b5e74aef3ab676a4cedb9f6b7ca236",
+        "newest_at": "2023-12-26T00:00:00+00:00",
+        "oldest_at": "2023-10-19T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 51028,
+        "sha256": "sha256:2a1242bbf71b435a6eac6fadd44bc71e2a448a56d6653fbdf1255b2fc139db70",
+        "newest_at": "2023-10-17T00:00:00+00:00",
+        "oldest_at": "2023-08-02T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 50470,
+        "sha256": "sha256:212896d6b7f74bcacf9aff383def0951de04ed8cf5da83fbaba3106572838da7",
+        "newest_at": "2023-07-31T00:00:00+00:00",
+        "oldest_at": "2023-05-18T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 50404,
+        "sha256": "sha256:eefc76228070a47301397288f5edbde09be1e85b5bf3b8f8ce89ecf17a5de5db",
+        "newest_at": "2023-05-18T00:00:00+00:00",
+        "oldest_at": "2023-03-20T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 50033,
+        "sha256": "sha256:3b67aaa793e187d24513306ebce2709f57943fd2cbdf43b7c59029c3e44cbadc",
+        "newest_at": "2023-03-18T00:00:00+00:00",
+        "oldest_at": "2023-01-29T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/53/yc-athina-ai/index/pages/000008.json",
+        "record_count": 13,
+        "byte_count": 12888,
+        "sha256": "sha256:8d9590266eb61cb5470853fe850203581ea9764a4c615461990e2160a30ceba4",
+        "newest_at": "2023-01-27T00:00:00+00:00",
+        "oldest_at": "2021-07-28T00:00:00+00:00"
+      }
+    ]
+  }
+}

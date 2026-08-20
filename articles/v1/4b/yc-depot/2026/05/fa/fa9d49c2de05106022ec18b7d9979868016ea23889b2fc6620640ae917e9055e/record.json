@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa9d49c2de05106022ec18b7d9979868016ea23889b2fc6620640ae917e9055e",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/optimizing-microvm-boot-times",
+    "canonical": "https://depot.dev/blog/optimizing-microvm-boot-times"
+  },
+  "title": "How we got microVMs booting in under a second",
+  "summary": "Depot CI's VM scheduler is just-in-time: no pre-warming, no warm pool of standby VMs. We stacked optimizations to get microVM cold boots from 7 to 9 seconds down to under a second, and this post walks through each one.",
+  "published_at": "2026-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:14:13.187831+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/05/fa/fa9d49c2de05106022ec18b7d9979868016ea23889b2fc6620640ae917e9055e/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/05/fa/fa9d49c2de05106022ec18b7d9979868016ea23889b2fc6620640ae917e9055e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15008,
+    "sha256": "sha256:b23ca25918e3aafb17cb3beb7a41bd0f93c36649a63c55540901a073b3629541",
+    "normalized_content_hash": "sha256:e4c483b18dfa38014ead42ad8cecd515e131e57345330092d9fa3342a87cdf40"
+  },
+  "provenance": {
+    "source_item_id": "fce64a08-6710-4d02-9a0c-23cd2b7c633e",
+    "external_id": "https://depot.dev/blog/optimizing-microvm-boot-times"
+  }
+}

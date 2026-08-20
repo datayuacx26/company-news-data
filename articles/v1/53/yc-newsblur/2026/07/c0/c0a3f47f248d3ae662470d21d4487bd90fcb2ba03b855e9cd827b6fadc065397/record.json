@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0a3f47f248d3ae662470d21d4487bd90fcb2ba03b855e9cd827b6fadc065397",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/text-extract-not-working/13782#post_1",
+    "canonical": "https://forum.newsblur.com/t/text-extract-not-working/13782"
+  },
+  "title": "Text Extract Not Working",
+  "summary": "Hello, Newsblur is not extracting text for some news feeds. Extract is working on front-end apps like lire and even other services. Sharing a feed for reference. https://www.thehindu.com/opinion/editorial/?service=rss",
+  "published_at": "2026-07-19T09:28:04+00:00",
+  "first_seen_at": "2026-07-25T16:10:32.307561+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-19T13:16:06.830841+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/07/c0/c0a3f47f248d3ae662470d21d4487bd90fcb2ba03b855e9cd827b6fadc065397/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/07/c0/c0a3f47f248d3ae662470d21d4487bd90fcb2ba03b855e9cd827b6fadc065397/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1041,
+    "sha256": "sha256:a0d310818bcbfaae83ed530470d9d7347ed5e6bbbc375f6754e5814e28c25cec",
+    "normalized_content_hash": "sha256:c6cc5335cb47e9880f0f240b29c218b7044e2a99d22f0cf890008e0d4c65bd16"
+  },
+  "provenance": {
+    "source_item_id": "598a46d2-eef5-40ca-943f-90b730d0d912",
+    "external_id": "forum.newsblur.com-post-45060"
+  }
+}

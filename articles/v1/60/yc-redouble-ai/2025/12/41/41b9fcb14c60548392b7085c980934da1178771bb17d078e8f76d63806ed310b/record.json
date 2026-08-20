@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41b9fcb14c60548392b7085c980934da1178771bb17d078e8f76d63806ed310b",
+  "company": {
+    "key": "yc-redouble-ai",
+    "name": "Redouble AI"
+  },
+  "source": {
+    "id": "yc-redouble-ai-rss-94bf26a72f2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://deconvoluteai.com/blog/attack-surfaces-rag",
+    "canonical": "https://deconvoluteai.com/blog/attack-surfaces-rag"
+  },
+  "title": "AI Security - The Hidden Attack Surfaces of RAG and MCP",
+  "summary": "Explore how Retrieval-Augmented Generation and MCP-based Agents are vulnerable to Prompt Injection, Corpus Poisoning, and Confused Deputy attacks.",
+  "published_at": "2025-12-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:30:56.530208+00:00",
+  "fetched_at": "2026-07-28T20:55:00.595584+00:00",
+  "last_updated_at": "2026-08-20T01:58:57.445054+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-redouble-ai/2025/12/41/41b9fcb14c60548392b7085c980934da1178771bb17d078e8f76d63806ed310b/article.md",
+    "record": "articles/v1/60/yc-redouble-ai/2025/12/41/41b9fcb14c60548392b7085c980934da1178771bb17d078e8f76d63806ed310b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29023,
+    "sha256": "sha256:48b99bdaae4c036e754ff14ce60354e16e6d0d65f8b145abdade1f969ab1d5b7",
+    "normalized_content_hash": "sha256:f8f82c8d1fda3112f3e81eb3acf75efc0cf007e46b10ee7a37eb70591b5e740e"
+  },
+  "provenance": {
+    "source_item_id": "beea1e6d-15bb-45b1-a9a7-84ae88b72495",
+    "external_id": "https://deconvoluteai.com/blog/attack-surfaces-rag"
+  }
+}

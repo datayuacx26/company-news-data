@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c0efd09369cf2c4f4dda6106b647fac1a7e3f008261257661eba00f4f6cfb90",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/why-utility-documents-break-standard-extraction-pipelines",
+    "canonical": "https://www.runpulse.com/blog/why-utility-documents-break-standard-extraction-pipelines"
+  },
+  "title": "Why utility documents break standard extraction pipelines",
+  "summary": "The documents utilities generate, collect, and process every day were never built for downstream systems, which is why generic extraction fails on them. | Pulse AI",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:59.698897+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T17:07:20.336090+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/07/5c/5c0efd09369cf2c4f4dda6106b647fac1a7e3f008261257661eba00f4f6cfb90/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/07/5c/5c0efd09369cf2c4f4dda6106b647fac1a7e3f008261257661eba00f4f6cfb90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6881,
+    "sha256": "sha256:d96d1dd4a5452ec5d0d6c6272792cdec2b3331a0eeb5307368a40a6d1c70d830",
+    "normalized_content_hash": "sha256:c35bd3314b8e458c5c73eee60660ef1eb2d2a39df1239504f21e0f4ccab017b9"
+  },
+  "provenance": {
+    "source_item_id": "12a9498c-ea8e-4b38-beb5-38bb8484d069",
+    "external_id": "https://www.runpulse.com/blog/why-utility-documents-break-standard-extraction-pipelines"
+  }
+}

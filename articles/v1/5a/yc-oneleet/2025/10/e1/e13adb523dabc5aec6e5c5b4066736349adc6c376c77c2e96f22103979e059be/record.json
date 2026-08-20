@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e13adb523dabc5aec6e5c5b4066736349adc6c376c77c2e96f22103979e059be",
+  "company": {
+    "key": "yc-oneleet",
+    "name": "Oneleet"
+  },
+  "source": {
+    "id": "yc-oneleet-news-import-d01376dbbc95",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneleet.com/blog/email-authentication-spf-dkim-and-dmarc",
+    "canonical": "https://www.oneleet.com/blog/email-authentication-spf-dkim-and-dmarc"
+  },
+  "title": "Email Authentication: SPF, DKIM, and DMARC",
+  "summary": "Learn how to correctly implement SPF, DKIM, and DMARC with this comprehensive technical guide. Protect your domain from spoofing, improve email deliverability, and avoid common mistakes like the SPF 10-lookup limit and DMARC alignment issues.",
+  "published_at": "2025-10-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:26:35.695106+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T20:57:15.336191+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-oneleet/2025/10/e1/e13adb523dabc5aec6e5c5b4066736349adc6c376c77c2e96f22103979e059be/article.md",
+    "record": "articles/v1/5a/yc-oneleet/2025/10/e1/e13adb523dabc5aec6e5c5b4066736349adc6c376c77c2e96f22103979e059be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9156,
+    "sha256": "sha256:aa648e39ce89826d131ab6981b9a2c786399b4516e65cab66584af01bd145854",
+    "normalized_content_hash": "sha256:cfde087e5a64a02d30df257ba32f120c596a723490772fc4c92d3803a604dcb8"
+  },
+  "provenance": {
+    "source_item_id": "9f4eb4f1-c159-46cc-abc7-770f1619b456",
+    "external_id": "https://www.oneleet.com/blog/email-authentication-spf-dkim-and-dmarc"
+  }
+}

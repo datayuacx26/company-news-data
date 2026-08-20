@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "070dbb86e95d8b2d069c32cc6d56f762c853e38357c887edc9d567162ab21ea7",
+  "company": {
+    "key": "yc-manufact",
+    "name": "Manufact (formerly mcp-use)"
+  },
+  "source": {
+    "id": "yc-manufact-news-import-914a697bc101",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://manufact.com/blog/build-vs-buy-mcp-server-infrastructure",
+    "canonical": "https://manufact.com/blog/build-vs-buy-mcp-server-infrastructure"
+  },
+  "title": "Build vs. buy: how to run MCP infrastructure yourself",
+  "summary": "An MCP server is easy to stand up and hard to operate. The five layers you take on when you run MCP in production yourself: hosting, analytics, testing, checks, and devtools.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T01:10:42.860611+00:00",
+  "fetched_at": "2026-08-13T01:10:45.192817+00:00",
+  "last_updated_at": "2026-08-19T18:44:35.328902+00:00",
+  "paths": {
+    "article": "articles/v1/5c/yc-manufact/2026/08/07/070dbb86e95d8b2d069c32cc6d56f762c853e38357c887edc9d567162ab21ea7/article.md",
+    "record": "articles/v1/5c/yc-manufact/2026/08/07/070dbb86e95d8b2d069c32cc6d56f762c853e38357c887edc9d567162ab21ea7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13631,
+    "sha256": "sha256:b5a0e50f047f82289a1d4aa3890138274d22f8072a19799bcabe714aaeb354ed",
+    "normalized_content_hash": "sha256:53e98f91faa3e9364b2bba8dab3ae1e2d51bd92ac402438f8737ba40d91c4fdf"
+  },
+  "provenance": {
+    "source_item_id": "62d884d1-d3d9-4030-94c6-dd896e363542",
+    "external_id": "https://manufact.com/blog/build-vs-buy-mcp-server-infrastructure"
+  }
+}

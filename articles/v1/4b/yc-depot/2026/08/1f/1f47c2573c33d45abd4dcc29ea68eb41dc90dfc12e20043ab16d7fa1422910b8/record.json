@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f47c2573c33d45abd4dcc29ea68eb41dc90dfc12e20043ab16d7fa1422910b8",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/why-soci-belongs-in-the-build",
+    "canonical": "https://depot.dev/blog/why-soci-belongs-in-the-build"
+  },
+  "title": "Why SOCI belongs in the build",
+  "summary": "Most of a large container's startup goes to pulling and decompressing files it never reads to boot. SOCI makes the image seekable so the runtime loads only the bytes it needs, and Depot writes that index during the build, so the image can lazy-load the instant it's pushed.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T16:25:42.347718+00:00",
+  "fetched_at": "2026-08-04T17:31:37.256081+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/08/1f/1f47c2573c33d45abd4dcc29ea68eb41dc90dfc12e20043ab16d7fa1422910b8/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/08/1f/1f47c2573c33d45abd4dcc29ea68eb41dc90dfc12e20043ab16d7fa1422910b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13885,
+    "sha256": "sha256:32697730e8db24fb9a9d2ac4d9eefd06324fb874b183d334c171eeec050405b6",
+    "normalized_content_hash": "sha256:f3d832129a8ab510fd176602164824501f380a2e5ea9f84fa711716e7a9b60f8"
+  },
+  "provenance": {
+    "source_item_id": "d0d7c8f2-c5f3-4816-94eb-469da1f0049f",
+    "external_id": "https://depot.dev/blog/why-soci-belongs-in-the-build"
+  }
+}

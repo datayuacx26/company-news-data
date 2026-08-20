@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d82dc602f794eb5e39b9afbe99f5ad0333dd451b2f33e56263ae19042c810840",
+  "company": {
+    "key": "taboola-com-ltd-ordinary-shares",
+    "name": "Taboola.com Ltd."
+  },
+  "source": {
+    "id": "taboola-com-ltd-ordinary-shares-news-import-1349b39c90c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.taboola.com/engineering/sdk-testing-with-hot-swapper/",
+    "canonical": "https://www.taboola.com/engineering/sdk-testing-with-hot-swapper/"
+  },
+  "title": "SDK testing with hot swapper",
+  "summary": "In the following article, I describe how we came up with a way to improve the chances that our SDK library gets smoothly integrated in our customers’ Applications and reduce issues when going to production. The main idea is to take a number of significant clients’ applications and replace your existing SDK code with a […]",
+  "published_at": "2025-01-14T14:37:11+00:00",
+  "first_seen_at": "2026-07-22T15:33:14.584366+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T00:36:38.631480+00:00",
+  "paths": {
+    "article": "articles/v1/77/taboola-com-ltd-ordinary-shares/2025/01/d8/d82dc602f794eb5e39b9afbe99f5ad0333dd451b2f33e56263ae19042c810840/article.md",
+    "record": "articles/v1/77/taboola-com-ltd-ordinary-shares/2025/01/d8/d82dc602f794eb5e39b9afbe99f5ad0333dd451b2f33e56263ae19042c810840/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5942,
+    "sha256": "sha256:500211b4afa4c438e7232bac9bf9c3477e00b75d11636d2aa0f49cdfbb270b9e",
+    "normalized_content_hash": "sha256:06fa1cf6d113db241a41b51d3e0158879bd6b307b8295f9dfd4b15202c721436"
+  },
+  "provenance": {
+    "source_item_id": "a9748fa6-c8f4-4ece-b276-f256d71876b9",
+    "external_id": "https://www.taboola.com/engineering/sdk-testing-with-hot-swapper/"
+  }
+}

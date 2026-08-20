@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a78af2972c6a581cffd19aabcc7c15b7bd397186e03cc29afa5f2601a612b49",
+  "company": {
+    "key": "yc-oneschema",
+    "name": "OneSchema"
+  },
+  "source": {
+    "id": "yc-oneschema-news-import-43da02420b1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneschema.co/blog/introducing-salesforce-connector",
+    "canonical": "https://www.oneschema.co/blog/introducing-salesforce-connector"
+  },
+  "title": "Introducing: Salesforce Connector",
+  "summary": "Write normalized, validated data directly into Salesforce objects from a FileFeeds pipeline, tightening the iteration cycle on data prep for CRM and Health Cloud migrations.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:26:45.232367+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:52:35.692310+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-oneschema/2026/07/6a/6a78af2972c6a581cffd19aabcc7c15b7bd397186e03cc29afa5f2601a612b49/article.md",
+    "record": "articles/v1/76/yc-oneschema/2026/07/6a/6a78af2972c6a581cffd19aabcc7c15b7bd397186e03cc29afa5f2601a612b49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3542,
+    "sha256": "sha256:270296c909487688f6e43033ddc6f3fe48e56cf40f30b69d2e038e5f9e4126e0",
+    "normalized_content_hash": "sha256:7175ee098280013f14c0324c02c6da6376dc7cdf5b7d72cb422fbf37765a9b1b"
+  },
+  "provenance": {
+    "source_item_id": "9bc46c65-13ac-46f7-bc05-fbe0167eab09",
+    "external_id": "https://www.oneschema.co/blog/introducing-salesforce-connector"
+  }
+}

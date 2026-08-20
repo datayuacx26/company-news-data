@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84d26789a7c9b8dc5c720b8cc97a9b473a5316b496ce183b79c83d33afcf6aa4",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/kubernetes-operator-rebuild",
+    "canonical": "https://infisical.com/blog/kubernetes-operator-rebuild"
+  },
+  "title": "Our Kubernetes Operator Didn’t Scale, So We Rebuilt It",
+  "summary": "Learn why Infisical rebuilt its Kubernetes Operator with a reference-based architecture that reduces auth calls, improves scaling, and simplifies configuration.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/06/84/84d26789a7c9b8dc5c720b8cc97a9b473a5316b496ce183b79c83d33afcf6aa4/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/06/84/84d26789a7c9b8dc5c720b8cc97a9b473a5316b496ce183b79c83d33afcf6aa4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11162,
+    "sha256": "sha256:2738e953ee76e486b79d7a37458b8e1d75a76505f5fc7da780935225364f2890",
+    "normalized_content_hash": "sha256:d4bd44aed1b34063c17dc7ef4e6ec31faa839ad9fb85c99f039731d303408a3f"
+  },
+  "provenance": {
+    "source_item_id": "a4e83b32-b67b-49b3-b94b-221e2d95bd9e",
+    "external_id": "https://infisical.com/blog/kubernetes-operator-rebuild"
+  }
+}

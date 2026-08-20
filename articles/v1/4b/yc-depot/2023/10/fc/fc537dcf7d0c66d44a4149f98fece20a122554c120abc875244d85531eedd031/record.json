@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc537dcf7d0c66d44a4149f98fece20a122554c120abc875244d85531eedd031",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/multi-platform-docker-images-in-github-actions",
+    "canonical": "https://depot.dev/blog/multi-platform-docker-images-in-github-actions"
+  },
+  "title": "How to build multi-platform Docker images in GitHub Actions",
+  "summary": "Building multi-platform, also known as multi-architecture, Docker images in GitHub Actions is becoming a necessity. See how to build them in GitHub Actions.",
+  "published_at": "2023-10-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/10/fc/fc537dcf7d0c66d44a4149f98fece20a122554c120abc875244d85531eedd031/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/10/fc/fc537dcf7d0c66d44a4149f98fece20a122554c120abc875244d85531eedd031/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8170,
+    "sha256": "sha256:49de7dfc1bb078a2f9c5f5ded11439638a6dfebec8cfba882f0cea8caf0ed76b",
+    "normalized_content_hash": "sha256:d869977b7364f1e34b409a4e6ad25abe80222704877e11a37b22fff847bb1751"
+  },
+  "provenance": {
+    "source_item_id": "580f2ddd-8b6d-4035-b925-c86cb8d0bae6",
+    "external_id": "https://depot.dev/blog/multi-platform-docker-images-in-github-actions"
+  }
+}

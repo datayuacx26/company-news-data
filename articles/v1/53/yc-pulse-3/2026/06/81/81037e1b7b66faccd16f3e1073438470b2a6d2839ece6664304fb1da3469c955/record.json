@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81037e1b7b66faccd16f3e1073438470b2a6d2839ece6664304fb1da3469c955",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/why-field-tickets-break-cost-reconciliation-in-oil-and-gas",
+    "canonical": "https://www.runpulse.com/blog/why-field-tickets-break-cost-reconciliation-in-oil-and-gas"
+  },
+  "title": "Why Field Tickets Break Cost Reconciliation in Oil and Gas",
+  "summary": "Field tickets are the financial source records connecting oilfield work to the ledger, yet their endless vendor-by-vendor variation, handwriting, and degraded scans break conventional extraction and quietly corrupt cost reconciliation, which is why Pulse uses vision-language models with normalized schemas and source-level provenance to turn them into clean, traceable, audit-ready data. | Pulse AI",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:59.698897+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-19T17:07:20.336090+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/06/81/81037e1b7b66faccd16f3e1073438470b2a6d2839ece6664304fb1da3469c955/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/06/81/81037e1b7b66faccd16f3e1073438470b2a6d2839ece6664304fb1da3469c955/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10519,
+    "sha256": "sha256:887d6c05b79d0c792bb88a0f303de4d7a69770ca61c51398f889f5226a760f71",
+    "normalized_content_hash": "sha256:79976fddf6e85c00db7be0aef08a0bdf8c1cf363662cbeab72412d4727684082"
+  },
+  "provenance": {
+    "source_item_id": "2fece2ab-7671-4671-934d-52743119c5ae",
+    "external_id": "https://www.runpulse.com/blog/why-field-tickets-break-cost-reconciliation-in-oil-and-gas"
+  }
+}

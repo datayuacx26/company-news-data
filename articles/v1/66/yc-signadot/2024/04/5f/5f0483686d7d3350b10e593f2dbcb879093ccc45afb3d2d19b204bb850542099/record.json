@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f0483686d7d3350b10e593f2dbcb879093ccc45afb3d2d19b204bb850542099",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/limitations-in-measuring-platform-engineering-with-dora-metrics/",
+    "canonical": "https://www.signadot.com/blog/limitations-in-measuring-platform-engineering-with-dora-metrics/"
+  },
+  "title": "Limitations in Measuring Platform Engineering with DORA metrics",
+  "summary": "In this article, let's explore the limitations of using DORA metrics to evaluate the performance of platform engineering teams. Despite their usefulness in assessing software delivery performance, DORA metrics fail to capture the full scope of platform engineering's responsibilities, which include infrastructure management, security, scalability, and maintainability.",
+  "published_at": "2024-04-06T22:45:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/04/5f/5f0483686d7d3350b10e593f2dbcb879093ccc45afb3d2d19b204bb850542099/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/04/5f/5f0483686d7d3350b10e593f2dbcb879093ccc45afb3d2d19b204bb850542099/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8737,
+    "sha256": "sha256:50292028799c363dc2fd550be57a5eab3da84d061eae3d04c35e23316edf6315",
+    "normalized_content_hash": "sha256:bfc0d6a354d1c6a986bfc88ee4d11ad29c457b8c8224d54d90d1f8b09b5e5786"
+  },
+  "provenance": {
+    "source_item_id": "8ad75a5a-1a0d-4230-a552-a7c5bb94b135",
+    "external_id": "https://www.signadot.com/blog/limitations-in-measuring-platform-engineering-with-dora-metrics/"
+  }
+}

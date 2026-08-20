@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5aec1fa557e3ba1b50cb2cd46a3410a7ba5c9e0d5ca633df31e003ae714980d",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/secrets-management-cicd",
+    "canonical": "https://infisical.com/blog/secrets-management-cicd"
+  },
+  "title": "How to manage secrets in CI/CD pipelines?",
+  "summary": "Learn more about best practices for managing secrets in CI/CD pipelines.",
+  "published_at": "2025-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2025/07/b5/b5aec1fa557e3ba1b50cb2cd46a3410a7ba5c9e0d5ca633df31e003ae714980d/article.md",
+    "record": "articles/v1/68/yc-infisical/2025/07/b5/b5aec1fa557e3ba1b50cb2cd46a3410a7ba5c9e0d5ca633df31e003ae714980d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12300,
+    "sha256": "sha256:e69a895e8fdb4ad75707f34d0ff0b0291ca6944de3ef1f854cf9ddefb1161f45",
+    "normalized_content_hash": "sha256:8970227a1888bf3f99fb8bacffab6cf0fc453cea0365e38291ffad6aa29a838a"
+  },
+  "provenance": {
+    "source_item_id": "9f9d8533-9b9c-4013-b681-448b6f6b9d43",
+    "external_id": "https://infisical.com/blog/secrets-management-cicd"
+  }
+}

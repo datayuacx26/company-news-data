@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff5f129c5b4cac23425a77c1336d0745ff5511f433899e9cf180b52c6ff0ce63",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/why-duplicating-environments-for-microservices-backfires/",
+    "canonical": "https://www.signadot.com/blog/why-duplicating-environments-for-microservices-backfires/"
+  },
+  "title": "Why Duplicating Environments for Microservices Backfires",
+  "summary": "Typical ways of testing microservices are too slow and unsustainable as engineering teams grow and architectures grow more complex.",
+  "published_at": "2024-11-15T21:55:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/11/ff/ff5f129c5b4cac23425a77c1336d0745ff5511f433899e9cf180b52c6ff0ce63/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/11/ff/ff5f129c5b4cac23425a77c1336d0745ff5511f433899e9cf180b52c6ff0ce63/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9038,
+    "sha256": "sha256:4006e887b7f729de271382fbb1d4fc2192dbeab5d41099093a7ffa71daf7b8c3",
+    "normalized_content_hash": "sha256:aa89648061b2e9e5c5abda9cbf44e30528dda129946216a21dcad568857e67ad"
+  },
+  "provenance": {
+    "source_item_id": "66db2ca0-3afa-4fa3-ae8f-f92b756eff80",
+    "external_id": "https://www.signadot.com/blog/why-duplicating-environments-for-microservices-backfires/"
+  }
+}

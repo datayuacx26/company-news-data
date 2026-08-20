@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdd7955016ac02ca253e7de51ad427cd20d5ff0d6f57434c1f0a02002994ee50",
+  "company": {
+    "key": "yc-traceloop",
+    "name": "Traceloop"
+  },
+  "source": {
+    "id": "yc-traceloop-news-import-a0183e54c5bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.traceloop.com/blog/mastering-the-maze-tools-for-tracing-and-reproducing-non-deterministic-llm-failures-in-production",
+    "canonical": "https://www.traceloop.com/blog/mastering-the-maze-tools-for-tracing-and-reproducing-non-deterministic-llm-failures-in-production"
+  },
+  "title": "Mastering the Maze: Tools for Tracing and Reproducing Non-Deterministic LLM Failures in Production",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:14:44.927731+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:07:38.850557+00:00",
+  "paths": {
+    "article": "articles/v1/6f/yc-traceloop/2026/07/bd/bdd7955016ac02ca253e7de51ad427cd20d5ff0d6f57434c1f0a02002994ee50/article.md",
+    "record": "articles/v1/6f/yc-traceloop/2026/07/bd/bdd7955016ac02ca253e7de51ad427cd20d5ff0d6f57434c1f0a02002994ee50/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7971,
+    "sha256": "sha256:e95204404db9a2eeca7fe583bc4a2acd89e27b4806cf53b55a7b3541253fd39c",
+    "normalized_content_hash": "sha256:434a1c6cd8a0c9893f66cf2203b3aae9e22a5e8d7a2d542a1d82c250084e2c54"
+  },
+  "provenance": {
+    "source_item_id": "2f769680-d99d-4433-bfe2-f95f4320b6ba",
+    "external_id": "https://www.traceloop.com/blog/mastering-the-maze-tools-for-tracing-and-reproducing-non-deterministic-llm-failures-in-production"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "530e901203c9395e34ecad1f18b900f3c6e348e72c088cdf660cc9a2127499a2",
+  "company": {
+    "key": "yc-trm-labs",
+    "name": "TRM Labs"
+  },
+  "source": {
+    "id": "yc-trm-labs-news-import-b34814ebf689",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.trmlabs.com/resources/blog/the-largest-hardware-wallet-exploit-of-2026-inside-the-usd-116-million-coldcard-hack",
+    "canonical": "https://www.trmlabs.com/resources/blog/the-largest-hardware-wallet-exploit-of-2026-inside-the-usd-116-million-coldcard-hack"
+  },
+  "title": "The Largest Hardware Wallet Exploit of 2026: Inside the USD 116 Million Coldcard Hack",
+  "summary": "Analysis of the 2026 Coldcard firmware exploit involving 1,816 BTC loss, impact on self-custody, and current on-chain tracing of stolen funds.",
+  "published_at": "2026-08-05T12:00:00+00:00",
+  "first_seen_at": "2026-08-05T23:07:28.130817+00:00",
+  "fetched_at": "2026-08-05T23:07:30.055529+00:00",
+  "last_updated_at": "2026-08-19T18:33:59.286772+00:00",
+  "paths": {
+    "article": "articles/v1/6a/yc-trm-labs/2026/08/53/530e901203c9395e34ecad1f18b900f3c6e348e72c088cdf660cc9a2127499a2/article.md",
+    "record": "articles/v1/6a/yc-trm-labs/2026/08/53/530e901203c9395e34ecad1f18b900f3c6e348e72c088cdf660cc9a2127499a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8995,
+    "sha256": "sha256:943a8cf721e725814ea4b9b789d2acc3f0d9501e2d390c82713abf773a62550e",
+    "normalized_content_hash": "sha256:fb231c83633dd9dacde27552c2945a4e3e54bd2260ba48e9b5878f9b6e151188"
+  },
+  "provenance": {
+    "source_item_id": "a4dbaa57-17b4-4a96-8383-d8c18e6a46db",
+    "external_id": "https://www.trmlabs.com/resources/blog/the-largest-hardware-wallet-exploit-of-2026-inside-the-usd-116-million-coldcard-hack"
+  }
+}

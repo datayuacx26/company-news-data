@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c88495ecfc2fbc8becf224625d14397c887740c0d0771b3dab5d105f996ed003",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/faster-database-with-planetscale-metal",
+    "canonical": "https://depot.dev/blog/faster-database-with-planetscale-metal"
+  },
+  "title": "8x faster queries with PlanetScale Metal",
+  "summary": "How PlanetScale Metal accelerated our database query performance and allowed us to store extended build analytics data.",
+  "published_at": "2025-03-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/03/c8/c88495ecfc2fbc8becf224625d14397c887740c0d0771b3dab5d105f996ed003/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/03/c8/c88495ecfc2fbc8becf224625d14397c887740c0d0771b3dab5d105f996ed003/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8207,
+    "sha256": "sha256:4dd13d96fabb20a2254241f2b53ddbc007a64afb615a872bd893017bf989afe8",
+    "normalized_content_hash": "sha256:de55e8c52c82f675f87d0f1b4289c90ddc091a59814a4dd45390e5b2fcc2cdb9"
+  },
+  "provenance": {
+    "source_item_id": "810a3c75-2494-4b79-9c0a-c74313732e11",
+    "external_id": "https://depot.dev/blog/faster-database-with-planetscale-metal"
+  }
+}

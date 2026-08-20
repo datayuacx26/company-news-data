@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "94e02a4cb4034603aa1f4adcd401ab868a39508f9527af0fa7617bdb2c5c1d81",
+  "company": {
+    "key": "wealthfront-corporation-common-stock",
+    "name": "Wealthfront Corporation"
+  },
+  "source": {
+    "id": "wealthfront-corporation-common-stock-rss-9fbe6ef385e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://eng.wealthfront.com/2025/12/08/the-hidden-cost-of-convenience-rethinking-old-orm-patterns-for-scale/",
+    "canonical": "https://eng.wealthfront.com/2025/12/08/the-hidden-cost-of-convenience-rethinking-old-orm-patterns-for-scale/"
+  },
+  "title": "The Hidden Cost of Convenience: Rethinking Old ORM Patterns for Scale",
+  "summary": "Ever been here before? Stuck with a job that needs to be continually revisited because its performance gets worse with every passing day, and each attempt at improving said performance yields diminishing returns? This is the situation we found ourselves in with the portfolio balance calculation system—the code responsible for aggregating data from multiple sources... Read more",
+  "published_at": "2025-12-08T22:06:50+00:00",
+  "first_seen_at": "2026-07-20T23:18:22.615485+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-20T00:33:06.699247+00:00",
+  "paths": {
+    "article": "articles/v1/7c/wealthfront-corporation-common-stock/2025/12/94/94e02a4cb4034603aa1f4adcd401ab868a39508f9527af0fa7617bdb2c5c1d81/article.md",
+    "record": "articles/v1/7c/wealthfront-corporation-common-stock/2025/12/94/94e02a4cb4034603aa1f4adcd401ab868a39508f9527af0fa7617bdb2c5c1d81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13540,
+    "sha256": "sha256:473707a330a692a4650be678e202e37e3fe8376908a5ac3d9f69a247f46bc877",
+    "normalized_content_hash": "sha256:e486c7edf902dc566a314edfe6d8cf9fc77e1d6e5901a6e2abff4f8e40f7dbc7"
+  },
+  "provenance": {
+    "source_item_id": "1efc8775-210d-4ef4-a5d0-16e283d31147",
+    "external_id": "https://eng.wealthfront.com/?p=3684"
+  }
+}

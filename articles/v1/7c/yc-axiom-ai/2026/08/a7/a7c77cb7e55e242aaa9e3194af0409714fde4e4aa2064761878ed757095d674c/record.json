@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7c77cb7e55e242aaa9e3194af0409714fde4e4aa2064761878ed757095d674c",
+  "company": {
+    "key": "yc-axiom-ai",
+    "name": "Axiom.ai"
+  },
+  "source": {
+    "id": "yc-axiom-ai-news-import-c535b3e44cdf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://axiom.ai/blog/web-scraping-in-one-line-of-code/",
+    "canonical": "https://axiom.ai/blog/web-scraping-in-one-line-of-code/"
+  },
+  "title": "Web scraping in one line of code (or zero)",
+  "summary": "Build a web scraper in one line with the axiom.ai Step API. Auto-pagination, MCP for LLMs, and a one-line drop-in for the Puppeteer script you already have.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T01:49:15.680853+00:00",
+  "fetched_at": "2026-08-12T01:49:17.339532+00:00",
+  "last_updated_at": "2026-08-19T20:21:04.004517+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-axiom-ai/2026/08/a7/a7c77cb7e55e242aaa9e3194af0409714fde4e4aa2064761878ed757095d674c/article.md",
+    "record": "articles/v1/7c/yc-axiom-ai/2026/08/a7/a7c77cb7e55e242aaa9e3194af0409714fde4e4aa2064761878ed757095d674c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10420,
+    "sha256": "sha256:53542d8ab11b47db357381f91f5018116290e06c8aa51ad222f23a9ad3e82158",
+    "normalized_content_hash": "sha256:8ddb37818b6680af65d55a51a750ed0a4597edecb9c410f44f739af51b28282d"
+  },
+  "provenance": {
+    "source_item_id": "d72e35e4-652d-419c-a514-12ef5342e218",
+    "external_id": "https://axiom.ai/blog/web-scraping-in-one-line-of-code/"
+  }
+}

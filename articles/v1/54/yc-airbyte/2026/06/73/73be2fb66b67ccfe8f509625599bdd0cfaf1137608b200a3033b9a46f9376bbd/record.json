@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73be2fb66b67ccfe8f509625599bdd0cfaf1137608b200a3033b9a46f9376bbd",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/automating-breakfast-menu-with-airbyte-agents",
+    "canonical": "https://airbyte.com/blog/automating-breakfast-menu-with-airbyte-agents"
+  },
+  "title": "Automating Our Office Breakfast Menu with Airbyte Agents",
+  "summary": "Automating office breakfast menus with Airbyte Agents: learn how to streamline meal planning, collect preferences, and sync data across tools effortlessly.",
+  "published_at": "2026-06-15T05:34:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-03T06:37:21.513848+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/06/73/73be2fb66b67ccfe8f509625599bdd0cfaf1137608b200a3033b9a46f9376bbd/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/06/73/73be2fb66b67ccfe8f509625599bdd0cfaf1137608b200a3033b9a46f9376bbd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4108,
+    "sha256": "sha256:fa092fa4dbce5be1a90e0635eaa543b488005c176189cd9bf03a754312a3d91c",
+    "normalized_content_hash": "sha256:2c808e7e97b533f436b69a96e5e907c7555bb106e5ca5bb1c3cb2ead2df31044"
+  },
+  "provenance": {
+    "source_item_id": "d9bc5740-18ab-4687-ac2a-6db615355896",
+    "external_id": "https://airbyte.com/blog/automating-breakfast-menu-with-airbyte-agents"
+  }
+}

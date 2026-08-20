@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff1d9ace03b43c6953aae22714d0c3955bfe9699462b06cb8ce3777bd14eec16",
+  "company": {
+    "key": "yc-juxta",
+    "name": "Juxta"
+  },
+  "source": {
+    "id": "yc-juxta-news-import-572fb79ec8f7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.juxta.com/blog/exploring-ronin",
+    "canonical": "https://www.juxta.com/blog/exploring-ronin"
+  },
+  "title": "Exploring RoNIN",
+  "summary": "RoNIN uses smartphone IMU sensors to track human movement in GPS-denied locations including indoors and underground.",
+  "published_at": "2026-01-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:07:02.599327+00:00",
+  "fetched_at": "2026-07-28T22:23:12.089184+00:00",
+  "last_updated_at": "2026-07-28T22:24:45.573036+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-juxta/2026/01/ff/ff1d9ace03b43c6953aae22714d0c3955bfe9699462b06cb8ce3777bd14eec16/article.md",
+    "record": "articles/v1/5e/yc-juxta/2026/01/ff/ff1d9ace03b43c6953aae22714d0c3955bfe9699462b06cb8ce3777bd14eec16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1708,
+    "sha256": "sha256:cb8bb3bacd5293580bcbb3244c7b056e8ac5a6c4a57f11c70488cd3ac628ede9",
+    "normalized_content_hash": "sha256:da5431d91a70d99f7bdc03a4c221d600d71e6d680560d44f7f8bacbed436a916"
+  },
+  "provenance": {
+    "source_item_id": "b3eba361-214f-4fe9-8a1c-6d174f42f9b2",
+    "external_id": "https://www.juxta.com/blog/exploring-ronin"
+  }
+}

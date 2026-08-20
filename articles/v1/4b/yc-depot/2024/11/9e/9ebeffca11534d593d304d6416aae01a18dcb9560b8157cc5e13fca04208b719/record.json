@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ebeffca11534d593d304d6416aae01a18dcb9560b8157cc5e13fca04208b719",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/booting-containers-faster-with-estargz",
+    "canonical": "https://depot.dev/blog/booting-containers-faster-with-estargz"
+  },
+  "title": "Pulling containers faster with eStargz",
+  "summary": "Optimizing containers to boot ultra-fast by lazily loading files with eStargz. Start your containers up to 76% faster.",
+  "published_at": "2024-11-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:59:50.514445+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/11/9e/9ebeffca11534d593d304d6416aae01a18dcb9560b8157cc5e13fca04208b719/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/11/9e/9ebeffca11534d593d304d6416aae01a18dcb9560b8157cc5e13fca04208b719/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8933,
+    "sha256": "sha256:408914fbf0b774cacbdccd11c5e088731d37e076ca2571a2590944088b99d8ca",
+    "normalized_content_hash": "sha256:ee029de363e16c9ba0cfd2c42f912ed4f9cd58e1596f4a411d8e9d1f5c5f0b33"
+  },
+  "provenance": {
+    "source_item_id": "b1768eaa-abd2-4138-ba83-1ae8701ca2bb",
+    "external_id": "https://depot.dev/blog/booting-containers-faster-with-estargz"
+  }
+}

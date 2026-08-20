@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0de77c616ec895e0debe75bcfb7ff63ba1817c5c70d2dbf5d353134f9d0d95d9",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/pitfalls-of-using-feature-flagging-for-testing-in-shared-staging-environments/",
+    "canonical": "https://www.signadot.com/blog/pitfalls-of-using-feature-flagging-for-testing-in-shared-staging-environments/"
+  },
+  "title": "The Pitfalls of Using Feature Flagging for Testing in Shared Staging Environments",
+  "summary": "Understand the challenges of using feature flagging for testing in shared staging environments. Explore issues like long feedback cycles, code pollution, and resource leaks, and learn about alternative strategies for efficient and isolated testing.",
+  "published_at": "2023-07-09T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/07/0d/0de77c616ec895e0debe75bcfb7ff63ba1817c5c70d2dbf5d353134f9d0d95d9/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/07/0d/0de77c616ec895e0debe75bcfb7ff63ba1817c5c70d2dbf5d353134f9d0d95d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6385,
+    "sha256": "sha256:10e43c4f6213e677c60c73d781ac8551b259ccbe765ae91831243d402d00ef70",
+    "normalized_content_hash": "sha256:e0a3c015f62e7d9ada05058c56106b5381367d2c0e4b75b142944f8ce28fdf41"
+  },
+  "provenance": {
+    "source_item_id": "cebb0981-c067-4776-8301-1b2a1de3eeb2",
+    "external_id": "https://www.signadot.com/blog/pitfalls-of-using-feature-flagging-for-testing-in-shared-staging-environments/"
+  }
+}

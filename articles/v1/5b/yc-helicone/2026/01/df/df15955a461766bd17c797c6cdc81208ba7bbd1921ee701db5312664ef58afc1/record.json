@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df15955a461766bd17c797c6cdc81208ba7bbd1921ee701db5312664ef58afc1",
+  "company": {
+    "key": "yc-helicone",
+    "name": "Helicone"
+  },
+  "source": {
+    "id": "yc-helicone-news-import-836d1e549638",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.helicone.ai/blog/mcp-blog",
+    "canonical": "https://www.helicone.ai/blog/mcp-blog"
+  },
+  "title": "MCPs: What, Why, and How",
+  "summary": "Model Context Protocol (MCP) provides a standardized interface for connecting Large Language Models to external data sources and tools. Here's a rundown of what it is, why to use it, and how to implement.",
+  "published_at": "2026-01-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:13:05.720262+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-08-20T03:37:58.334616+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-helicone/2026/01/df/df15955a461766bd17c797c6cdc81208ba7bbd1921ee701db5312664ef58afc1/article.md",
+    "record": "articles/v1/5b/yc-helicone/2026/01/df/df15955a461766bd17c797c6cdc81208ba7bbd1921ee701db5312664ef58afc1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6203,
+    "sha256": "sha256:90a99ff6bac974858a2fdeb742f857adf250976f40528a84e055a543b2438893",
+    "normalized_content_hash": "sha256:516d0f2afc0050a7e3d064f31d0df31918d1a7cda474d55310720be60fe2f51a"
+  },
+  "provenance": {
+    "source_item_id": "b9167053-012c-45f3-bc29-94a297b96406",
+    "external_id": "https://www.helicone.ai/blog/mcp-blog"
+  }
+}

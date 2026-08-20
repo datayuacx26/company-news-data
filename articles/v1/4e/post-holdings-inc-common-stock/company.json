@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "post-holdings-inc-common-stock",
+    "name": "Post Holdings Inc."
+  },
+  "record_count": 15,
+  "first_published_at": "2026-01-15T22:00:00+00:00",
+  "last_published_at": "2026-07-29T20:56:38+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4e/post-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 18713,
+        "sha256": "sha256:dd7e4590c79479b909ed13e2b3d16c1beab1ce536aa68e77bf1a7657aa559a90",
+        "newest_at": "2026-08-06T22:38:03.238315+00:00",
+        "oldest_at": "2026-01-15T22:00:00+00:00"
+      }
+    ]
+  }
+}

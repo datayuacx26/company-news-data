@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-miniloop",
+    "name": "Miniloop"
+  },
+  "record_count": 116,
+  "first_published_at": "2026-07-02T14:25:42+00:00",
+  "last_published_at": "2026-08-19T09:00:59+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 88
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 28
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/52/yc-miniloop/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49037,
+        "sha256": "sha256:a0106b2f0b23b1e585485a22b59010713f2e1c106480062886151338393a50c4",
+        "newest_at": "2026-08-19T09:00:59+00:00",
+        "oldest_at": "2026-07-22T00:54:37+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/52/yc-miniloop/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49288,
+        "sha256": "sha256:659a04425697d02143afe9eafc81497d463cfa4c85140ceb6722353f57a9e50c",
+        "newest_at": "2026-07-22T00:53:29+00:00",
+        "oldest_at": "2026-07-06T14:32:58+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/52/yc-miniloop/index/pages/000003.json",
+        "record_count": 16,
+        "byte_count": 16160,
+        "sha256": "sha256:47807d2e9184fb8891a906ab9041eba6cffd17f1c2a65e02e2f1cb00e8a7d9d0",
+        "newest_at": "2026-07-06T11:26:48+00:00",
+        "oldest_at": "2026-07-02T14:25:42+00:00"
+      }
+    ]
+  }
+}

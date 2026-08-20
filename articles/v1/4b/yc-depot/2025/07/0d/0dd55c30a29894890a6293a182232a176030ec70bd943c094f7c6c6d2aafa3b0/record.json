@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0dd55c30a29894890a6293a182232a176030ec70bd943c094f7c6c6d2aafa3b0",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/build-autoscaling-now-generally-available",
+    "canonical": "https://depot.dev/blog/build-autoscaling-now-generally-available"
+  },
+  "title": "Now available: Build autoscaling for everyone",
+  "summary": "We're excited to roll out the general availability of container build autoscaling for all container build projects in Depot. This feature allows you to automatically scale out your container builds to multiple BuildKit builders based on how many concurrent builds you want processing on a single builder.",
+  "published_at": "2025-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/07/0d/0dd55c30a29894890a6293a182232a176030ec70bd943c094f7c6c6d2aafa3b0/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/07/0d/0dd55c30a29894890a6293a182232a176030ec70bd943c094f7c6c6d2aafa3b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8841,
+    "sha256": "sha256:bc3afa4c92b1bff12e67254b27d8582eb3c61a8157f43d142afb0df5ccee46bf",
+    "normalized_content_hash": "sha256:b7d52e6615d20825a67c74aaa5041525151e1006b047344d3fb2ea3962115033"
+  },
+  "provenance": {
+    "source_item_id": "fa78ff52-425f-4a34-bf97-6499f5480242",
+    "external_id": "https://depot.dev/blog/build-autoscaling-now-generally-available"
+  }
+}

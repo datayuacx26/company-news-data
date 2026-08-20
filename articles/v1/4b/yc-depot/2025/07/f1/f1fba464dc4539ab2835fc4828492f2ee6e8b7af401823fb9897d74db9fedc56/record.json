@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1fba464dc4539ab2835fc4828492f2ee6e8b7af401823fb9897d74db9fedc56",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-we-automated-github-actions-runner-updates-with-claude",
+    "canonical": "https://depot.dev/blog/how-we-automated-github-actions-runner-updates-with-claude"
+  },
+  "title": "How we automated GitHub Actions Runner updates with Claude",
+  "summary": "Maintaining forks of rapidly-evolving upstream repositories is a productivity killer. At Depot, we were spending hours each week manually updating ARM64 patches and reviewing dozens of commits just to keep our GitHub Actions runner images in sync. Here's how we used Claude Code to automate the entire process, turning a weekly time sink into a hands-off CI workflow.",
+  "published_at": "2025-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/07/f1/f1fba464dc4539ab2835fc4828492f2ee6e8b7af401823fb9897d74db9fedc56/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/07/f1/f1fba464dc4539ab2835fc4828492f2ee6e8b7af401823fb9897d74db9fedc56/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22898,
+    "sha256": "sha256:28076b49ece8f5edccd1da5b1606ba1a34a71547f2675f83fd0bfcb451e2aee5",
+    "normalized_content_hash": "sha256:c0d64297d9f56ffd80bcb7db600b1661d1a13b47513d66503699a86e4445a178"
+  },
+  "provenance": {
+    "source_item_id": "e8bee2b8-0f8d-4185-8395-8146d9c90468",
+    "external_id": "https://depot.dev/blog/how-we-automated-github-actions-runner-updates-with-claude"
+  }
+}

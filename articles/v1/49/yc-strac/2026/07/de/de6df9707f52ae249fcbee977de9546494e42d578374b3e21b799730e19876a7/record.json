@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de6df9707f52ae249fcbee977de9546494e42d578374b3e21b799730e19876a7",
+  "company": {
+    "key": "yc-strac",
+    "name": "Strac"
+  },
+  "source": {
+    "id": "yc-strac-news-import-28a26672fe0a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.strac.io/blog/data-exfiltration-7af93",
+    "canonical": "https://www.strac.io/blog/data-exfiltration-7af93"
+  },
+  "title": "Data Exfiltration: Channels, Detection & Prevention (2026)",
+  "summary": "Data exfiltration explained: the channels data actually leaves through — USB, cloud sync, AI tools, email — how to detect it on the endpoint, and how to prevent each path.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:01:18.002959+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-01T08:52:21.763566+00:00",
+  "paths": {
+    "article": "articles/v1/49/yc-strac/2026/07/de/de6df9707f52ae249fcbee977de9546494e42d578374b3e21b799730e19876a7/article.md",
+    "record": "articles/v1/49/yc-strac/2026/07/de/de6df9707f52ae249fcbee977de9546494e42d578374b3e21b799730e19876a7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5701,
+    "sha256": "sha256:dbb1d2c897ef997db2ce5b9da558d4e5752dde04128a16ad3bbfa408bd70a927",
+    "normalized_content_hash": "sha256:9cb291289157aefd4f6762940e805e750b906658a1dff7098535136308a74df8"
+  },
+  "provenance": {
+    "source_item_id": "c76d6edf-aba8-4f67-ab1c-6b382d714559",
+    "external_id": "https://www.strac.io/blog/data-exfiltration-7af93"
+  }
+}

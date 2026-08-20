@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-may-mobility",
+    "name": "May Mobility"
+  },
+  "record_count": 4,
+  "first_published_at": "2025-05-01T00:00:00+00:00",
+  "last_published_at": "2026-03-24T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/73/yc-may-mobility/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4527,
+        "sha256": "sha256:3bab64987364708f2c150f4c6cb56d9bbd50f92a390eef0fc3849c08e24c9b9b",
+        "newest_at": "2026-03-24T00:00:00+00:00",
+        "oldest_at": "2025-05-01T00:00:00+00:00"
+      }
+    ]
+  }
+}

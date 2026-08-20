@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e09a1da48d89c7993054f105e7d8fda382012c17efda715b5982434f376897b7",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/advanced-prompt-caching",
+    "canonical": "https://www.digitalocean.com/blog/advanced-prompt-caching"
+  },
+  "title": "Advanced Prompt Caching at Scale",
+  "summary": "Learn how to scale prompt caching across LLM replicas with session affinity, tiered routing, and prefix-aware load balancing to cut latency and inference costs.",
+  "published_at": "2026-04-07T19:11:40.933+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/e0/e09a1da48d89c7993054f105e7d8fda382012c17efda715b5982434f376897b7/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/e0/e09a1da48d89c7993054f105e7d8fda382012c17efda715b5982434f376897b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11552,
+    "sha256": "sha256:b95fd3b51d3601f06e126d4f2ab49d0115921900a557730481cdf48fdb36cee2",
+    "normalized_content_hash": "sha256:b1f4b8ac778b019476da819374995ef1abfd963c8d2e49c5bfa7fd8060483722"
+  },
+  "provenance": {
+    "source_item_id": "591291e1-9e61-46ae-b17e-19f0d1d77830",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/advanced-prompt-caching"
+  }
+}

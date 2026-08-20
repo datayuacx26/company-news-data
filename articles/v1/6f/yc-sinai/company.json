@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-sinai",
+    "name": "SINAI"
+  },
+  "record_count": 19,
+  "first_published_at": "2026-05-15T11:14:19.089+00:00",
+  "last_published_at": "2026-08-17T13:27:42.287+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6f/yc-sinai/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 21128,
+        "sha256": "sha256:d520e2a680a398d57ca7f911a81d49c557984207dbe6f8c3cec2d49b19ef051f",
+        "newest_at": "2026-08-17T13:27:42.287+00:00",
+        "oldest_at": "2026-05-15T11:14:19.089+00:00"
+      }
+    ]
+  }
+}

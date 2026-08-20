@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "legence-corp-class-a-common-stock",
+    "name": "Legence Corp."
+  },
+  "record_count": 25,
+  "first_published_at": "2025-11-14T14:57:29.390+00:00",
+  "last_published_at": "2026-08-14T20:00:17.303+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/51/legence-corp-class-a-common-stock/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 29567,
+        "sha256": "sha256:611ece3b3ca86080bf9e3fbc472f3846fe372cb2f2fd89b3a4c2149371047db7",
+        "newest_at": "2026-08-14T20:00:17.303+00:00",
+        "oldest_at": "2025-11-14T14:57:29.390+00:00"
+      }
+    ]
+  }
+}

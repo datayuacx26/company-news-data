@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67f9913e416c4b1089748246c0fb6ebdead4981593bf310390243b773d86ee15",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/paranoia-is-baseline-now",
+    "canonical": "https://depot.dev/blog/paranoia-is-baseline-now"
+  },
+  "title": "Paranoia is baseline now: Security in the AI era",
+  "summary": "Paranoid hardening has always been with us: aggressive kernel customizations for bug classes without a proven exploit, while Linux itself had a good-enough disclosure track record. Some of these hardenings became the default, some stayed controversial for a long time. AI-assisted vulnerability research made finding obscure vulnerabilities fast and cheap. So what does good enough even mean in this new era?",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/06/67/67f9913e416c4b1089748246c0fb6ebdead4981593bf310390243b773d86ee15/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/06/67/67f9913e416c4b1089748246c0fb6ebdead4981593bf310390243b773d86ee15/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21239,
+    "sha256": "sha256:946d98d1c88c53cd25ce495a9f20bf0231501f2da4fd93810b391580420b6260",
+    "normalized_content_hash": "sha256:59312e3d0122b15bbd31d471a56a1aa14fa3454162bae93896102d363504d79e"
+  },
+  "provenance": {
+    "source_item_id": "5917fdd9-fe72-43b0-a6f0-308224690d07",
+    "external_id": "https://depot.dev/blog/paranoia-is-baseline-now"
+  }
+}

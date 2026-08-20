@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4ad46df5836c1d9de408c9d42f147f3209fc1c820caca4cbf3b489ee69b54b0",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/fivetran-dbt-an-open-agent-ready-future-for-data-teams",
+    "canonical": "https://www.fivetran.com/blog/fivetran-dbt-an-open-agent-ready-future-for-data-teams"
+  },
+  "title": "Fivetran + dbt: An open, agent-ready future for data teams",
+  "summary": "From dbt Core v2.0 to AI-powered connectors, Fivetran and dbt unveil joint product innovations that help data teams build open, scalable, AI-ready infrastructure.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2026/06/c4/c4ad46df5836c1d9de408c9d42f147f3209fc1c820caca4cbf3b489ee69b54b0/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2026/06/c4/c4ad46df5836c1d9de408c9d42f147f3209fc1c820caca4cbf3b489ee69b54b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12452,
+    "sha256": "sha256:3a4da14a813ad125ed08b0aeac5455af53ad011c92211e3ee959396fc43058b8",
+    "normalized_content_hash": "sha256:9f62205d5bc6c8069e3449d40b00aa9b8fc085f37ad96b2fe397fa2aec11b892"
+  },
+  "provenance": {
+    "source_item_id": "2af1f337-f6c1-45f8-8aaa-7c326de15c5a",
+    "external_id": "https://www.fivetran.com/blog/fivetran-dbt-an-open-agent-ready-future-for-data-teams"
+  }
+}

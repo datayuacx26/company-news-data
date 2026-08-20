@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e972af639ffb8abc3da033e516b5680217cbff42c50fc2da14dc0b910393684",
+  "company": {
+    "key": "equinor-asa",
+    "name": "Equinor ASA"
+  },
+  "source": {
+    "id": "equinor-asa-news-import-f6f67eab1bb4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.equinor.com/news/20260710-second-quarter-2026-safety-results",
+    "canonical": "https://www.equinor.com/news/20260710-second-quarter-2026-safety-results"
+  },
+  "title": "Equinor’s second quarter 2026 safety results",
+  "summary": "The number of serious incidents remains stable, while the number of personal injuries has increased somewhat in the second quarter of 2026.",
+  "published_at": "2026-07-10T06:00:03.223+00:00",
+  "first_seen_at": "2026-07-21T18:35:38.440175+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-20T02:42:28.018685+00:00",
+  "paths": {
+    "article": "articles/v1/7b/equinor-asa/2026/07/1e/1e972af639ffb8abc3da033e516b5680217cbff42c50fc2da14dc0b910393684/article.md",
+    "record": "articles/v1/7b/equinor-asa/2026/07/1e/1e972af639ffb8abc3da033e516b5680217cbff42c50fc2da14dc0b910393684/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2580,
+    "sha256": "sha256:46d63b0d18cf831b4d26a59b034c5b4712b3711619c657de99d133334858b554",
+    "normalized_content_hash": "sha256:a2091dce574a8294e7d17c633932297dad401a7f20dd5ae46a25e5686c67068e"
+  },
+  "provenance": {
+    "source_item_id": "edc47183-9648-45c3-a6a7-c6dceeda41be",
+    "external_id": "https://www.equinor.com/news/20260710-second-quarter-2026-safety-results"
+  }
+}

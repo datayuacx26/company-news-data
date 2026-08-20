@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-synnax",
+    "name": "Synnax"
+  },
+  "record_count": 2,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/7b/yc-synnax/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 1994,
+        "sha256": "sha256:44f9ae3ac0021b8c7464a8fe94bbe246414c4062b2ac7052d11e781d367dca29",
+        "newest_at": "2026-07-28T21:20:12.930591+00:00",
+        "oldest_at": "2026-07-28T21:20:12.930591+00:00"
+      }
+    ]
+  }
+}

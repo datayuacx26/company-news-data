@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8fec9e376a8dce3a17213ca8c814e96333144a9267c3ee96c4632e5d607fde8e",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/agent-mcp",
+    "canonical": "https://airbyte.com/blog/agent-mcp"
+  },
+  "title": "The Airbyte MCP: One Connection, Your Entire Business Context",
+  "summary": "One connection gives AI agents secure access to your entire business context through Airbyte MCP—without rebuilding data integrations.",
+  "published_at": "2026-05-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/05/8f/8fec9e376a8dce3a17213ca8c814e96333144a9267c3ee96c4632e5d607fde8e/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/05/8f/8fec9e376a8dce3a17213ca8c814e96333144a9267c3ee96c4632e5d607fde8e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7705,
+    "sha256": "sha256:01067d0969e49f948b7f0b586887e7ee576582dc9c1831eba07072f361661e19",
+    "normalized_content_hash": "sha256:581415a0b98eac0f49cdce33fa4b5827df100ade76784cbf27a3c07b33ca28ba"
+  },
+  "provenance": {
+    "source_item_id": "a6d173fc-3a88-472c-8562-26f314982892",
+    "external_id": "https://airbyte.com/blog/agent-mcp"
+  }
+}

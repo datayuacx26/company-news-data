@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa241d859aa5ee1cbe0c9937958b3424be14050d93e4e2c001c45404abb54151",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/azure-key-vault-secrets-management",
+    "canonical": "https://infisical.com/blog/azure-key-vault-secrets-management"
+  },
+  "title": "Azure Key Vault & Secrets Management: The Complete Guide",
+  "summary": "A comprehensive guide to Azure Key Vault: architecture, RBAC access control, secrets and key management, rotation, Terraform, AKS, and when to add Infisical.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/06/aa/aa241d859aa5ee1cbe0c9937958b3424be14050d93e4e2c001c45404abb54151/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/06/aa/aa241d859aa5ee1cbe0c9937958b3424be14050d93e4e2c001c45404abb54151/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25024,
+    "sha256": "sha256:6b113ccf0405944acd553c0fedeb224e161a1afcf20ec1936843e7c7b0862192",
+    "normalized_content_hash": "sha256:26c73ed3e76527bf1bc8c4a42a1477061ba3903b122360c46c069c269ef7d8d2"
+  },
+  "provenance": {
+    "source_item_id": "ac181974-b0cd-456d-a247-b6762f55df69",
+    "external_id": "https://infisical.com/blog/azure-key-vault-secrets-management"
+  }
+}

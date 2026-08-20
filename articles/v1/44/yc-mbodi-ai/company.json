@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mbodi-ai",
+    "name": "Mbodi AI"
+  },
+  "record_count": 2,
+  "first_published_at": "2024-09-10T00:00:00+00:00",
+  "last_published_at": "2025-05-21T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/44/yc-mbodi-ai/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2187,
+        "sha256": "sha256:c373f57c0fcb8414948a62a6bc7257b7858a1c2e2f2aec31f8e4b547a1d8a9c5",
+        "newest_at": "2025-05-21T00:00:00+00:00",
+        "oldest_at": "2024-09-10T00:00:00+00:00"
+      }
+    ]
+  }
+}

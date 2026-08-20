@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "newmark-group-inc-class-a-common-stock",
+    "name": "Newmark Group Inc."
+  },
+  "record_count": 48,
+  "first_published_at": "2026-07-15T13:00:00+00:00",
+  "last_published_at": "2026-08-19T16:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 24
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 24
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5e/newmark-group-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 48,
+        "byte_count": 57783,
+        "sha256": "sha256:7d221601867698d727f0406435da8c779b68332d9dd0f6cb50fdecad5de43144",
+        "newest_at": "2026-08-19T16:00:00+00:00",
+        "oldest_at": "2026-07-15T13:00:00+00:00"
+      }
+    ]
+  }
+}

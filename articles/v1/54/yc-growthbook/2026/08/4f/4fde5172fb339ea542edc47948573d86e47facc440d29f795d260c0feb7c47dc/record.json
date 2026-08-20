@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4fde5172fb339ea542edc47948573d86e47facc440d29f795d260c0feb7c47dc",
+  "company": {
+    "key": "yc-growthbook",
+    "name": "GrowthBook"
+  },
+  "source": {
+    "id": "yc-growthbook-news-import-67cec260d3a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.growthbook.io/blog/edge-scaling-self-serve-experimentation-us-bank",
+    "canonical": "https://www.growthbook.io/blog/edge-scaling-self-serve-experimentation-us-bank"
+  },
+  "title": "From bottleneck to self serve: scaling experimentation at US Bank",
+  "summary": "US Bank's Vijay Lal explains how a regulated bank moved from a single testing bottleneck to self serve experimentation with guardrails and fallback design.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T02:36:13.694379+00:00",
+  "fetched_at": "2026-08-13T02:36:16.762114+00:00",
+  "last_updated_at": "2026-08-20T00:57:40.609880+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-growthbook/2026/08/4f/4fde5172fb339ea542edc47948573d86e47facc440d29f795d260c0feb7c47dc/article.md",
+    "record": "articles/v1/54/yc-growthbook/2026/08/4f/4fde5172fb339ea542edc47948573d86e47facc440d29f795d260c0feb7c47dc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8052,
+    "sha256": "sha256:40252346a60b58e06a4f9d6acb3ac0dac5df8ab229390b14d74d35715f1092f9",
+    "normalized_content_hash": "sha256:45f463bf79e09a16bd2c2e80a8e0d8a514e11cac4abfbca8f1478361138a0e37"
+  },
+  "provenance": {
+    "source_item_id": "fb165f96-72d5-4033-8545-955ef44420fa",
+    "external_id": "https://www.growthbook.io/blog/edge-scaling-self-serve-experimentation-us-bank"
+  }
+}

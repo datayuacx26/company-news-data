@@ -1,0 +1,183 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "turtle-beach-corporation-common-stock",
+    "name": "Turtle Beach Corporation"
+  },
+  "record_count": 513,
+  "first_published_at": "2025-04-01T11:00:12+00:00",
+  "last_published_at": "2026-08-06T20:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 51
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 16
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 49
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 107
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 112
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 70
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 35
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 60561,
+        "sha256": "sha256:e2530a778cbfeca41f30e382c2683fde56d30f9fdc0647e595b4443535240764",
+        "newest_at": "2026-08-06T20:01:00+00:00",
+        "oldest_at": "2026-05-14T05:19:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 60816,
+        "sha256": "sha256:7eb99b3ce1ec0f7fbfd2297ada025a06e5250a560c5d07999226c1b925062b33",
+        "newest_at": "2026-05-13T06:47:00+00:00",
+        "oldest_at": "2026-04-06T13:00:04+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57019,
+        "sha256": "sha256:2dafcd7eaaf760fd7bd4d6b46588a34acf2440b972f61a3ef6b144f1c5d860da",
+        "newest_at": "2026-04-06T11:00:07+00:00",
+        "oldest_at": "2026-03-27T11:00:10+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 58696,
+        "sha256": "sha256:424a763fc223af29885e56eb7d751c4be0f077a036fa4e688b3660be8eba8af2",
+        "newest_at": "2026-03-27T11:00:10+00:00",
+        "oldest_at": "2026-03-13T11:00:04+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 58356,
+        "sha256": "sha256:cea26a1655ac670669ac7fa318611330ce8c565fb52c267585a0be26a39a18e8",
+        "newest_at": "2026-03-12T20:15:00+00:00",
+        "oldest_at": "2026-02-27T12:00:09+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 57258,
+        "sha256": "sha256:5b360c14ba8f554c7db3a8936ee6262bd91a8b1a0ee8dbdff072d183d9800a49",
+        "newest_at": "2026-02-27T12:00:09+00:00",
+        "oldest_at": "2026-02-17T12:00:07+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 57487,
+        "sha256": "sha256:538b6a6cf49df655391b8f9070b4d13cbfae361521144600342a8f47e519dd8c",
+        "newest_at": "2026-02-17T12:00:07+00:00",
+        "oldest_at": "2026-02-06T12:00:08+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 57601,
+        "sha256": "sha256:2c8e4dbbb6259b8591c3af7f7a92f637459e52223200fc6c4fe2edb5a81e380d",
+        "newest_at": "2026-02-06T12:00:08+00:00",
+        "oldest_at": "2025-12-15T11:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 58153,
+        "sha256": "sha256:07b027dc62d32eb8e028b0bde7b63dadfb3aaa2cb988a24518a16f3081f3bb5e",
+        "newest_at": "2025-12-13T07:02:00+00:00",
+        "oldest_at": "2025-10-28T04:14:44+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 58282,
+        "sha256": "sha256:942a4fe6654131b158e9155c74351ace0f45f6919246b8526393c794ebd77a49",
+        "newest_at": "2025-10-28T03:57:54+00:00",
+        "oldest_at": "2025-05-29T11:00:14+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/4b/turtle-beach-corporation-common-stock/index/pages/000011.json",
+        "record_count": 13,
+        "byte_count": 15044,
+        "sha256": "sha256:f78ad39a9eead37c40a35362720056aec95fe927c5f029667cd2bafef8d9d96b",
+        "newest_at": "2025-05-20T11:00:06+00:00",
+        "oldest_at": "2025-04-01T11:00:12+00:00"
+      }
+    ]
+  }
+}

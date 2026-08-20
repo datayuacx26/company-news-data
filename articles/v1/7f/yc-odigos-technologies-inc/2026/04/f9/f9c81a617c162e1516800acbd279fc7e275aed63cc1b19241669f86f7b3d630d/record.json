@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9c81a617c162e1516800acbd279fc7e275aed63cc1b19241669f86f7b3d630d",
+  "company": {
+    "key": "yc-odigos-technologies-inc",
+    "name": "Odigos Technologies Inc."
+  },
+  "source": {
+    "id": "yc-odigos-technologies-inc-rss-eb41174e661a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://odigos.io/blog/your-incident-doesnt-fit-in-1m-tokens",
+    "canonical": "https://odigos.io/blog/your-incident-doesnt-fit-in-1m-tokens"
+  },
+  "title": "Your Incident Doesn't Fit in 1M Tokens",
+  "summary": "AI-powered incident analysis sounds compelling until you do the math. A 1M-token context window holds roughly 5,000 OpenTelemetry spans. A real incident generates 9 million. This post breaks down the arithmetic and explains why the bottleneck isn't the model, it's the instrumentation, sampling, and retention pipeline that feeds it.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:02:44.020335+00:00",
+  "fetched_at": "2026-08-20T02:53:26.937902+00:00",
+  "last_updated_at": "2026-08-20T02:53:27.040540+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-odigos-technologies-inc/2026/04/f9/f9c81a617c162e1516800acbd279fc7e275aed63cc1b19241669f86f7b3d630d/article.md",
+    "record": "articles/v1/7f/yc-odigos-technologies-inc/2026/04/f9/f9c81a617c162e1516800acbd279fc7e275aed63cc1b19241669f86f7b3d630d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 929,
+    "sha256": "sha256:2d20026d897ce36a0e3075837217c15e7d8514c3fa19bd0a3365f5110d19ec1e",
+    "normalized_content_hash": "sha256:169a131bd2dc10c246113bab0b3034c12f92a32b6d21c81a0a509ee92921f85d"
+  },
+  "provenance": {
+    "source_item_id": "7f3b86e7-a443-467a-8c19-1ab017f52f5e",
+    "external_id": "https://odigos.io/blog/your-incident-doesnt-fit-in-1m-tokens"
+  }
+}

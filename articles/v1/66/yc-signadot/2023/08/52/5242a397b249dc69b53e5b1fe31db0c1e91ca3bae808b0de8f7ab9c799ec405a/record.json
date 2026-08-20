@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5242a397b249dc69b53e5b1fe31db0c1e91ca3bae808b0de8f7ab9c799ec405a",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/kubernetes-sidecar-containers-a-new-dawn-for-container-orchestration/",
+    "canonical": "https://www.signadot.com/blog/kubernetes-sidecar-containers-a-new-dawn-for-container-orchestration/"
+  },
+  "title": "Kubernetes Sidecar Containers: A New Dawn for Container Orchestration",
+  "summary": "Dive into the transformative role of sidecar containers in Kubernetes, addressing long-standing challenges in managing multi-container workloads. Understand the lifecycle management issues, the new sidecar feature in Kubernetes 1.28 release, and the myriad of use-cases it enables, from service meshes to secret management.",
+  "published_at": "2023-08-03T08:29:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/08/52/5242a397b249dc69b53e5b1fe31db0c1e91ca3bae808b0de8f7ab9c799ec405a/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/08/52/5242a397b249dc69b53e5b1fe31db0c1e91ca3bae808b0de8f7ab9c799ec405a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6521,
+    "sha256": "sha256:d43d80f4cff739a9de5cc837de4e700841db05a20f71deef5cf700f523d1d30d",
+    "normalized_content_hash": "sha256:7cc8323f87179bb323f383516bf5bae404a6bb41ed709a7c1d598cd2e768e04d"
+  },
+  "provenance": {
+    "source_item_id": "6b1da756-f1d0-4f38-85d0-791ec1a3bb0b",
+    "external_id": "https://www.signadot.com/blog/kubernetes-sidecar-containers-a-new-dawn-for-container-orchestration/"
+  }
+}

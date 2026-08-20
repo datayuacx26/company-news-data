@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/ultra-runners-for-macos",
+    "canonical": "https://depot.dev/blog/ultra-runners-for-macos"
+  },
+  "title": "macOS GitHub Actions Runners are now twice as fast",
+  "summary": "We are excited to announce an upgrade to Depot-managed macOS GitHub Actions runners that greatly accelerates disk I/O for all macOS jobs.",
+  "published_at": "2025-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/02/6f/6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/02/6f/6ffd685661bd5dfe9f84bcf160220a87acd93648a4a2d840833bc22d76aadbea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3792,
+    "sha256": "sha256:4b4bd771e97b93672cbb0ac5c3aff1542ab8aa6f57e47dd64af2f5895c1e3a3c",
+    "normalized_content_hash": "sha256:63bf2296c0bde9c24b6affc469cdb5239235b18bd373eb17205c04be28732435"
+  },
+  "provenance": {
+    "source_item_id": "3bfad38b-38d2-455b-b61e-2bc81813cb8e",
+    "external_id": "https://depot.dev/blog/ultra-runners-for-macos"
+  }
+}

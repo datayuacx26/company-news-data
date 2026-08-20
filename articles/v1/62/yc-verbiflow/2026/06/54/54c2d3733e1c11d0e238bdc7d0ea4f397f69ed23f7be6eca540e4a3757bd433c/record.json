@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54c2d3733e1c11d0e238bdc7d0ea4f397f69ed23f7be6eca540e4a3757bd433c",
+  "company": {
+    "key": "yc-verbiflow",
+    "name": "Verbiflow"
+  },
+  "source": {
+    "id": "yc-verbiflow-news-import-392b5e1f9020",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://verbiflow.com/blog/gtm-as-code",
+    "canonical": "https://verbiflow.com/blog/gtm-as-code"
+  },
+  "title": "GTM as code: stop rebuilding outbound lists by hand",
+  "summary": "Instead of rebuilding filters and CSVs every week, define the audience once, run it as a play, and let Claude Code adjust it when the market changes.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:39:30.762214+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-19T23:59:47.942243+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-verbiflow/2026/06/54/54c2d3733e1c11d0e238bdc7d0ea4f397f69ed23f7be6eca540e4a3757bd433c/article.md",
+    "record": "articles/v1/62/yc-verbiflow/2026/06/54/54c2d3733e1c11d0e238bdc7d0ea4f397f69ed23f7be6eca540e4a3757bd433c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4904,
+    "sha256": "sha256:390ac1c572bff5b3bec89b78474b4e7ab24c85d5b4276a14d22fb93d5b6a5d10",
+    "normalized_content_hash": "sha256:c67c8cae02e1c88dfb584cef5229ed0401a7259933efbe99029c851080f5df3b"
+  },
+  "provenance": {
+    "source_item_id": "624e16ed-f8d9-4792-914d-60c0e6e6e8d7",
+    "external_id": "https://verbiflow.com/blog/gtm-as-code"
+  }
+}

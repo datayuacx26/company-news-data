@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a6bab04a68ada46077431c946d074654d4980d056b5e49d8b078106a304f2d94",
+  "company": {
+    "key": "varonis-systems-inc-common-stock",
+    "name": "Varonis Systems Inc."
+  },
+  "source": {
+    "id": "varonis-systems-inc-common-stock-news-import-29d04d5fbb0d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.varonis.com/blog/reprompt",
+    "canonical": "https://www.varonis.com/blog/reprompt"
+  },
+  "title": "Reprompt: The Single-Click Microsoft Copilot Attack that Silently Steals Your Personal Data",
+  "summary": "Varonis Threat Labs discovered a way to bypass Copilot’s safety controls, steal users’ darkest secrets, and evade detection.",
+  "published_at": "2026-01-14T14:00:04+00:00",
+  "first_seen_at": "2026-07-26T04:13:19.356665+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-08-19T19:37:25.872904+00:00",
+  "paths": {
+    "article": "articles/v1/7d/varonis-systems-inc-common-stock/2026/01/a6/a6bab04a68ada46077431c946d074654d4980d056b5e49d8b078106a304f2d94/article.md",
+    "record": "articles/v1/7d/varonis-systems-inc-common-stock/2026/01/a6/a6bab04a68ada46077431c946d074654d4980d056b5e49d8b078106a304f2d94/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13752,
+    "sha256": "sha256:4ae6cbec6ab2850315e3b4fcae094accabebbc5ff628c91db3e8ef935e5eed41",
+    "normalized_content_hash": "sha256:6b25992d4ecefe6d4bfd77b234e26f66e5c38e7885d5c951870772ae1735902b"
+  },
+  "provenance": {
+    "source_item_id": "afc05cbb-b57a-460a-9951-023be9d1bb45",
+    "external_id": "https://www.varonis.com/blog/reprompt"
+  }
+}

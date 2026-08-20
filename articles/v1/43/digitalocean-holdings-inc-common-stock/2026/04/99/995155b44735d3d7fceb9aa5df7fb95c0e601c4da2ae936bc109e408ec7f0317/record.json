@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "995155b44735d3d7fceb9aa5df7fb95c0e601c4da2ae936bc109e408ec7f0317",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/optimizing-large-model-deployments",
+    "canonical": "https://www.digitalocean.com/blog/optimizing-large-model-deployments"
+  },
+  "title": "Mastering the 600B+ Frontier: Optimizing Large Model Deployments on the Inference Cloud",
+  "summary": "Learn how high-bandwidth storage helps eliminate the “data tax” on GPU clusters and keeps 600B+ parameter model deployments from stalling on idle silicon.",
+  "published_at": "2026-04-21T20:10:14.773+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T22:15:46.234407+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/99/995155b44735d3d7fceb9aa5df7fb95c0e601c4da2ae936bc109e408ec7f0317/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/99/995155b44735d3d7fceb9aa5df7fb95c0e601c4da2ae936bc109e408ec7f0317/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15182,
+    "sha256": "sha256:9e9a1ed2edc7788e51bd18b233938862030668efdaa19626bcba8cde3aa6291f",
+    "normalized_content_hash": "sha256:efabb221ffe55a6579510209d9c7eb2dee8fe60be8723642bc488aabdc518d87"
+  },
+  "provenance": {
+    "source_item_id": "d960d40b-780f-4cf3-9fee-3899779a07c3",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/optimizing-large-model-deployments"
+  }
+}

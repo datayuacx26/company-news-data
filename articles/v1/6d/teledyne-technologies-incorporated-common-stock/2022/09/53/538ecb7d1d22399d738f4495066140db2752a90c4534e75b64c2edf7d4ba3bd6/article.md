@@ -1,0 +1,79 @@
+---
+schema_version: "1.0.0"
+document_id: "538ecb7d1d22399d738f4495066140db2752a90c4534e75b64c2edf7d4ba3bd6"
+company_key: "teledyne-technologies-incorporated-common-stock"
+company: "Teledyne Technologies Incorporated"
+source_id: "teledyne-technologies-incorporated-common-stock-rss-9000605d05af"
+canonical_url: "https://blog.teledynelecroy.com/2022/09/isolated-oscilloscope-inputs-vs.html"
+published_at: "2022-09-12T12:00:00+00:00"
+first_seen_at: "2026-07-20T04:36:13.437201+00:00"
+fetched_at: "2026-08-20T01:30:31.660362+00:00"
+content_hash: "sha256:4f9e7549148491773d2ba7fc4a2e6715f9a742506644895fcb0f29365addface"
+---
+
+# Isolated Oscilloscope Inputs vs. Isolated Oscilloscope Probes
+
+Some users in high-voltage test environments seek measuring instruments with isolated inputs because they want the safety and convenience of isolation without having to spend money on an isolated oscilloscope probe, like the Teledyne LeCroy
+
+
+[DL-ISO](https://teledynelecroy.com/probes/power-probes.aspx#dl-iso) or the Tektronix IsoVu®. While that's understandable, isolated inputs built into the instrument channel may be convenient, but they don't necessarily give you good performance, certainly not as good as you would get from a high quality, high-voltage isolated probe.
+
+
+Figure 1. Cascaded H-bridge signals captured using an isolated input (left) and an isolated probe (right).
+
+
+Isolated inputs often utilize very long, highly capacitive unshielded cable connections to the instrument, which is never good in a high-voltage environment where you have fast transients
+
+
+—
+
+
+it's just an EMI nightmare. A coaxial cable is going to provide some protection against transients, and probes by and large use a coaxial connection to get from the probe head, or the amplifier, back to the oscilloscope, so they're a bit more protected against EMI by design than something that's using a very cheap wire assembly to get to an isolated input.
+
+
+Let's compare signals measured on a 1 GHz Teledyne LeCroy
+
+
+[HDO6000](https://teledynelecroy.com/oscilloscope/hdo6000.aspx) 12-bit high resolution oscilloscope using our first generation fiber-optic isolated probe
+
+
+(
+
+
+[HVFO108](https://teledynelecroy.com/probes/high-voltage-optically-isolated-probes) )
+
+
+to the same signals measured on a 12-bit Yokogawa DL850 Scopecorder using a 10:1 passive probe to the isolated BNC input. We've lowered the oscilloscope bandwidth and sample rate to be comparable to the Scopecorder, and adjusted the oscilloscope grid to be about the same aspect ratio as the Scopecorder, so the comparison is as close to one-to-one as we can make it.
+
+
+The waveforms are captured from a cascaded H-bridge using Silicon devices, so the rise times are not especially fast, well within the 20 MHz bandwidth range of the Scopecorder. It's an approximately 400 Vdc bus. If you look on the lower right, you'll see that the sample rate of the Teledyne LeCroy oscilloscope is 100 MS/s, which matches the Scopecorder on the left, and we've applied a 20 MHz bandwidth filter, so it's nominally a 20 MHz instrument, like the Scopecorder. One long acquisition with three different signals in it was taken on both instruments using the same vertical settings. The upper side gate-drive on the left is green and on the right it's yellow, due the different colors assigned to the input channels on the two instruments—that's the only difference.
+
+
+The yellow signal captured with the fiber-optic isolated probe travels up, flattens out around the Miller plateau, then just rises to the top value. It looks pretty good. We see a large amount of ringing, though, on the green signal from the Scopecorder isolated input. To some extent, that's really just the nature of the high-capacitance assembly of the probe all the way back to the input.
+
+
+The lower-side gate drive signal (magenta) is an especially good comparison, because we shouldn't have some of the issues we have with the upper-side gate drive, where we're using very different probe topologies. In both cases, we're using a passive probe for the lower-side gate drive measurement, so it really is almost a one-to-one comparison. However, on the Scopecorder, we still see some ringing. We can see the transient when the upper-side switches, it's picked up pretty well. The passive probe used for the Teledyne LeCroy oscilloscope is coaxial back to the input, which may not be the case with the Scopecorder capture on the left. You can still see the transient pickup from that upper-side switching, but it's quite limited compared to the isolated input side.
+
+
+So, when you think, "Hey, wouldn't it be great if my 1 GHz oscilloscope had isolated inputs?" know that it's not the magic panacea you might wish. It may be safe. It's well-understood. It may be a great way to measure very low-bandwidth sensor signals, but it's not such a great way to measure things that are switching very fast and generating lots of fast transients. Your best bet is a high-quality isolated probe, like the
+
+
+[HVFO108 or the DL-ISO](https://teledynelecroy.com/probes/power-probes.aspx#dl-iso) .
+
+
+To learn more, watch our on-demand webinars:
+
+
+[Power Electronics Probing — What to Use and Why, Part 1: How to Choose the Correct High-voltage Probe](https://go.teledynelecroy.com/high-voltage-probing-webinar?&utm_source=website&utm_medium=events-page&utm_campaign=22-05-17-probing-in-pwr-webinar-part-1&utm_content=on-demand)
+
+
+[Power Electronics Probing — What to Use and Why, Part 2: Real World Examples and Comparisons](https://go.teledynelecroy.com/high-voltage-probing-examples?&utm_source=website&utm_medium=events-page&utm_campaign=22-06-08-probing-in-pwr-webinar-part-2&utm_content=on-demand)
+
+
+#### Also see:
+
+
+[Choosing a High-voltage Oscilloscope Probe for SiC/GaN Power Semiconductor Device Measurements](https://blog.teledynelecroy.com/2022/09/choosing-high-voltage-oscilloscope.html)
+
+
+[How to Choose the Best High-voltage Oscilloscope Probe in 5 Minutes](https://blog.teledynelecroy.com/2022/08/how-to-choose-best-high-voltage.html)

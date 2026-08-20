@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2446826446f4ac2ae4fcd1ddba19222cdf7ee32770529f28be894e83da084354",
+  "company": {
+    "key": "unity-software-inc-common-stock",
+    "name": "Unity Software Inc."
+  },
+  "source": {
+    "id": "unity-software-inc-common-stock-rss-726793b11211",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unity.com/blog/unity-ai-3d-object-generator",
+    "canonical": "https://unity.com/blog/unity-ai-3d-object-generator"
+  },
+  "title": "Unity's AI tools in beta: Create props with the 3D Object Generator",
+  "summary": "Unity's AI tools in beta includes a 3D Object Generator capable of creating static 3D mesh prefabs from text prompts or reference images. Generated objects are single-part, non-rigged props suited to environment details, household items, and decorative assets. Generate directly from the Generators window or through the in-editor AI Assistant using natural language. Results are saved to the Assets folder as prefabs containing a mesh and materials. Requires Unity 6.0+ with the AI beta package installed.",
+  "published_at": "2026-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:37.442468+00:00",
+  "fetched_at": "2026-07-28T20:50:36.289404+00:00",
+  "last_updated_at": "2026-08-20T03:28:57.162903+00:00",
+  "paths": {
+    "article": "articles/v1/53/unity-software-inc-common-stock/2026/05/24/2446826446f4ac2ae4fcd1ddba19222cdf7ee32770529f28be894e83da084354/article.md",
+    "record": "articles/v1/53/unity-software-inc-common-stock/2026/05/24/2446826446f4ac2ae4fcd1ddba19222cdf7ee32770529f28be894e83da084354/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6274,
+    "sha256": "sha256:c39aba42aa6626180f3e7739d359da235605e6489f5a947c666095f74dab9953",
+    "normalized_content_hash": "sha256:aa8e573b007cae8e1efe9303a59b58f06d35cb8dbf4060c0e3b24cd952a96976"
+  },
+  "provenance": {
+    "source_item_id": "4f1299f4-d045-45fd-ae14-2be7e03a14b3",
+    "external_id": "https://unity.com/blog/unity-ai-3d-object-generator"
+  }
+}

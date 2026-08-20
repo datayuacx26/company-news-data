@@ -1,0 +1,103 @@
+---
+schema_version: "1.0.0"
+document_id: "98a75f265f0a55854b7ea9a74b0245260e01238e7348ee6aadb2a223c1b4c4e8"
+company_key: "mindwalk-holdings-corp-common-stock"
+company: "MindWalk Holdings Corp."
+source_id: "mindwalk-holdings-corp-common-stock-rss-c35fb940e094"
+canonical_url: "https://ir.mindwalkai.com/news/news-releases/news-details/2026/MindWalk-NASDAQ-HYFT-CEO-Dr--Jennifer-Bath-to-Join-Absci-NASDAQ-ABSI-and-a-Leading-AI-Compute-Provider-on-Jones-AI-Day-Panel-on-the-Future-of-AI-Drug-Discovery/default.aspx"
+published_at: "2026-06-12T13:00:00+00:00"
+first_seen_at: "2026-07-25T14:20:04.262630+00:00"
+fetched_at: "2026-07-28T22:12:42.915318+00:00"
+content_hash: "sha256:edc15de8b5e166966878e77c831f1466b39354a61dfbfb4d5cf5d08b19533e43"
+---
+
+# MindWalk (NASDAQ: HYFT) CEO Dr. Jennifer Bath to Join Absci (NASDAQ: ABSI) and a Leading AI Compute Provider on Jones AI Day Panel on the Future of AI Drug Discovery
+
+[View All News](https://ir.mindwalkai.com/news/news-releases/default.aspx)
+
+
+### MindWalk (NASDAQ: HYFT) CEO Dr. Jennifer Bath to Join Absci (NASDAQ: ABSI) and a Leading AI Compute Provider on Jones AI Day Panel on the Future of AI Drug Discovery
+
+
+June 12, 2026
+
+
+AUSTIN, Texas--(BUSINESS WIRE)--
+
+
+MindWalk Holdings Corp. (“MindWalk”) (NASDAQ: HYFT), a bio-native AI company, today announced that President and Chief Executive Officer Dr. Jennifer Bath will join a virtual panel hosted by Jones, alongside Absci (NASDAQ: ABSI) and a leading AI compute provider, as part of Jones AI Day. The panel, “Partnering to Power the New Era of Drug Discovery,” will be held on Monday, June 15, 2026, at 12:00 p.m. ET.
+
+
+Moderated by Jones Research Senior Research Analysts Dr. Debanjana Chatterjee and Dr. Danya Ben-Hail, the panel will explore how the convergence of high-performance compute, native biological knowledge representations, and generative AI can dismantle longstanding barriers in drug discovery, including prolonged screening timelines and historically undruggable targets.
+
+
+**MindWalk’s Perspective**
+
+
+MindWalk is a biology company that built AI on top of 25 years of wet-lab expertise. Its HYFT® technology powers ReefIQ™, the biological context layer for life sciences, enriching biological data at ingestion and connecting it across a continuously evolving knowledge representation of 660 million biological patterns and 25 billion relationships, with the LensAI™ platform serving as the reasoning and application layer on top. Because predictions are grounded in evolutionary constraint rather than statistical correlation, the architecture is designed to keep both AI models and autonomous agents from hallucinating in the highest-consequence drug discovery workflows. On the panel, Dr. Bath is expected to discuss why the durable asset in biological AI is the enriched context layer rather than any individual model, and how that layer makes agentic AI trustworthy enough to deploy in regulated workflows. LensAI™ is already in contracted, recurring arrangements with life-sciences customers today.
+
+
+“The hardest problem in drug discovery was never a shortage of compute or models - it’s that biological data arrives fragmented, and a model reasoning over fragments will confidently get it wrong. Our work grounds that reasoning in what evolution has already constrained, so the biology is connected and real before a model ever acts on it. Paired with compute built for this kind of memory-heavy work, that’s what makes agentic AI trustworthy enough for the highest-consequence workflows. Biology, context, and compute - that convergence is what I’m looking forward to discussing,” said Dr. Jennifer Bath, PhD, Chief Executive Officer and President of MindWalk Holdings Corp.
+
+
+**Panelists**
+
+
+MindWalk (NASDAQ: HYFT): Dr. Jennifer Bath, PhD, Chief Executive Officer and President
+Absci (NASDAQ: ABSI): Sean McClain, Founder and Chief Executive Officer
+Leading AI compute provider: **** Senior healthcare and life-science strategy leadership
+
+
+**Event Details**
+
+
+Event: Jones AI Day Virtual Panel, “Partnering to Power the New Era of Drug Discovery”
+Date and Time: **** Monday, June 15, 2026, 12:00 p.m. ET
+
+
+**Format:** Hosted as part of Jones AI Day (10:30 a.m. to 2:30 p.m. ET), featuring multiple leading AI drug discovery platforms
+
+
+**Registration:** Open to institutional investors through Jones. RSVP to Yuki Gonzalez:ygonzalez@jonestrading.com
+
+
+**About MindWalk Holdings Corp.**
+
+
+MindWalk Holdings Corp. (NASDAQ: HYFT) is a Bio-Native AI company building the BioIntelligence infrastructure that life sciences AI and agentic AI require. Its proprietary HYFT® system powers ReefIQ™, the biological context layer for life sciences — a function-aware representation organized around HYFT pattern-objects that span sequence and structural biology. Refined over 20 years of curation, this continuously evolving knowledge representation of 660 million biological patterns and 25 billion relationships enriches data at ingestion and compounds in analytical value with every program run on the platform. The LensAI platform operates on this infrastructure to enable target discovery, candidate diligence, and portfolio decision support, and to host the agentic AI workflows pharma is racing to deploy. MindWalk’s architecture is designed so that the HYFT representation layer — not any individual AI model — is the durable, compounding competitive asset. References to “MindWalk” in this release refer to MindWalk Holdings Corp. and its subsidiaries, including BioStrand BV, which operates under the MindWalk brand, as the context requires.
+
+
+**Forward-Looking Statements**
+
+
+This press release contains “forward-looking statements” within the meaning of applicable United States securities laws and “forward-looking information” within the meaning of applicable Canadian securities laws (collectively, “forward-looking statements”). Forward-looking statements are often identified by terms such as “expects,” “intends,” “plans,” “anticipates,” “believes,” “estimates,” “targets,” “will,” “is designed to,” or similar expressions, or by statements that certain actions, events, or results are expected, are intended, or will occur or be achieved. Forward-looking statements in this press release include, without limitation, statements regarding: Dr. Bath’s participation in the Jones AI Day virtual panel and the anticipated timing, format, and topics of the event; expectations regarding the convergence of high-performance compute, biological representations, and generative and agentic AI in life sciences; the characterization of the HYFT® system as powering ReefIQ™, the Company’s biological context layer for life sciences, and of LensAI™ as the reasoning and application layer; the characterization of the biological representation and its scale (660 million biological patterns and 25 billion relationships) and of ReefIQ™ enrichment as enriching data at ingestion and compounding in analytical value over time; the design of the Company’s architecture to keep AI models and autonomous agents from hallucinating and to make agentic AI trustworthy enough to deploy in regulated, high-consequence workflows; and the existence, conversion, and expansion of contracted, recurring arrangements with life-sciences customers.
+
+
+References to Jones, Absci, and the other panelists are descriptive of the event and do not imply any endorsement, sponsorship, partnership, commercial agreement, or financial relationship, except as expressly stated. Statements, data, or opinions attributable to other panelists or their respective companies—including any analyst rating, price target, or research opinion—are not those of MindWalk, and MindWalk does not adopt, endorse, or undertake to update them.
+
+
+Forward-looking statements are based on management’s current expectations and on assumptions that management believes are reasonable, including assumptions regarding continued customer demand for and adoption of the Company’s platform, the Company’s ability to maintain and scale its technology and infrastructure (including reliance on third-party compute and cloud providers), and the absence of material adverse changes in its business or markets. Such statements are subject to known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially, including, without limitation: that the event may be rescheduled, modified, or cancelled; that adoption of Bio-Native and agentic AI may be slower than anticipated; the Company’s ability to convert engagement into, and to maintain and expand, contracted recurring arrangements; reliance on third-party compute, cloud, and infrastructure providers; competitive dynamics in AI infrastructure and life sciences; intellectual property risks, including patent prosecution and trademark clearance for the ReefIQ™ name; regulatory determinations; and capital markets conditions. There can be no assurance that any candidate, program, or capability referenced will achieve the results described or will be developed, validated, approved, or commercialized.
+
+
+Additional information regarding risks and uncertainties is available in MindWalk’s Annual Report on Form 20-F and other filings on SEDAR+ (sedarplus.ca) and EDGAR (sec.gov/edgar). Forward-looking statements speak only as of the date of this press release. Except as required by law, MindWalk undertakes no obligation to update or revise any forward-looking statement, whether as a result of new information, future events, or otherwise. Nothing in this press release constitutes investment, legal, or tax advice, and this press release does not constitute an offer to sell, or the solicitation of an offer to buy, any securities, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation, or sale would be unlawful.
+
+
+**Trademarks**
+
+
+HYFT® is a registered trademark of MindWalk Holdings Corp. ReefIQ™ and LensAI™ are trademarks of MindWalk Holdings Corp. or its subsidiaries; ReefIQ™ registration is pending. All other trademarks are the property of their respective owners.
+
+
+*Source: MindWalk Holdings Corp*
+
+
+**Investor Relations Contact**
+Louie Toma, CPA, CFA
+Managing Director, CoreIR
+investors@mindwalkai.com
+
+
+Source: MindWalk Holdings Corp.
+
+
+[View All News](https://ir.mindwalkai.com/news/news-releases/default.aspx)

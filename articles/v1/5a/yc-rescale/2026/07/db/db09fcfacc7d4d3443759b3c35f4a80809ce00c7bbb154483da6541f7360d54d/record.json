@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db09fcfacc7d4d3443759b3c35f4a80809ce00c7bbb154483da6541f7360d54d",
+  "company": {
+    "key": "yc-rescale",
+    "name": "Rescale"
+  },
+  "source": {
+    "id": "yc-rescale-rss-a01d3810de6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rescale.com/blog/ic-simulation-monitoring-automation/",
+    "canonical": "https://rescale.com/blog/ic-simulation-monitoring-automation/"
+  },
+  "title": "Simulation Monitoring Automation",
+  "summary": "Detect diverging and stalled simulations in real time, before they waste hours of compute. The Simulation Monitor automation runs alongside iterative solver jobs on Rescale, providing a live dashboard with residual plots, tabular data switching, and automated CSV exports without requiring an interactive workstation. It supports Ansys Fluent, STAR-CCM+, and CFX today, with a plugin-based framework designed for fast extension to additional solvers.",
+  "published_at": "2026-07-10T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.219568+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-13T14:19:14.266830+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-rescale/2026/07/db/db09fcfacc7d4d3443759b3c35f4a80809ce00c7bbb154483da6541f7360d54d/article.md",
+    "record": "articles/v1/5a/yc-rescale/2026/07/db/db09fcfacc7d4d3443759b3c35f4a80809ce00c7bbb154483da6541f7360d54d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1337,
+    "sha256": "sha256:44ec17146cb8b8627037ce45ff3b08db5c8765ebbfd9833d24017f67baab94c8",
+    "normalized_content_hash": "sha256:0d6ec475f50036758c0bd87265ca5cd81f14c85c27a2847427aa1d5a3c6a9ba8"
+  },
+  "provenance": {
+    "source_item_id": "08cf7e08-693a-44f7-8e31-6c21ce543db7",
+    "external_id": "https://rescale.com/?p=102278"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0470b556ccb2c8e0593470d6743bb71aa41b51e9cc025d4c1f93d10d7ffffe48",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/reddit-personalized-rss-feed-is-being-overridden-with-general-reddit-popular-feed/13757#post_10",
+    "canonical": "https://forum.newsblur.com/t/reddit-personalized-rss-feed-is-being-overridden-with-general-reddit-popular-feed/13757"
+  },
+  "title": "Reddit: personalized rss feed is being overridden with general reddit popular feed",
+  "summary": "Ive been using a personalized feed from reddit for a long time in newsblur. “front page” from https://www.reddit.com/prefs/feeds/ It started showing me only the general popular reddit feed and not the posts from the feed i actually added. The feed is public and no auth is needed. I removed/readded but it still ignores the content from the actual feed address (i’ve checked it with other rss readers and the feed is working)",
+  "published_at": "2026-07-05T04:18:31+00:00",
+  "first_seen_at": "2026-07-25T16:10:32.307561+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-08-07T23:49:59.652334+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/07/04/0470b556ccb2c8e0593470d6743bb71aa41b51e9cc025d4c1f93d10d7ffffe48/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/07/04/0470b556ccb2c8e0593470d6743bb71aa41b51e9cc025d4c1f93d10d7ffffe48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1085,
+    "sha256": "sha256:2d2fe407afcb0855bbde99a081a7610fa1e4c177cdf7c80f1329952c3603fb4d",
+    "normalized_content_hash": "sha256:0463451fd31dbe34c681525028f52e1bcf1a1f165ae09d65ede3ed06385e8446"
+  },
+  "provenance": {
+    "source_item_id": "002fd6e5-c54f-416e-8ba4-9a5a242c9a09",
+    "external_id": "forum.newsblur.com-post-45030"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "60ef8b566b4d59d0a38fec27ced955a33bf45668e6d90f363a4e0373d5b83f66",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/latency-performance-assessment-of-zerank-2/",
+    "canonical": "https://zeroentropy.dev/articles/latency-performance-assessment-of-zerank-2/"
+  },
+  "title": "Latency Performance Assessment of zerank-2",
+  "summary": "In this blog, we go over the latency performance of ZeroEntropy's latest reranker model zerank-2.",
+  "published_at": "2025-12-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:25:04.749708+00:00",
+  "last_updated_at": "2026-07-28T22:25:16.219321+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2025/12/60/60ef8b566b4d59d0a38fec27ced955a33bf45668e6d90f363a4e0373d5b83f66/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2025/12/60/60ef8b566b4d59d0a38fec27ced955a33bf45668e6d90f363a4e0373d5b83f66/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3045,
+    "sha256": "sha256:19cbe070382b26d7bcb4612bb9c1d802fcacc50906480036bfcdca4b5f5857b5",
+    "normalized_content_hash": "sha256:3121c249b35049d08a77f7c6bb0ac50c98261ea424493e97e248b397f7153d88"
+  },
+  "provenance": {
+    "source_item_id": "dc002db1-db68-40db-897b-097db15a5db7",
+    "external_id": "https://zeroentropy.dev/articles/latency-performance-assessment-of-zerank-2/"
+  }
+}

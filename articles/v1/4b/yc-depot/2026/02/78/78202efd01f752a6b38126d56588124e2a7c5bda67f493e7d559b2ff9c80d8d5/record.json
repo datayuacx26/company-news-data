@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78202efd01f752a6b38126d56588124e2a7c5bda67f493e7d559b2ff9c80d8d5",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-simulations-reduce-guesswork",
+    "canonical": "https://depot.dev/blog/how-simulations-reduce-guesswork"
+  },
+  "title": "How simulations reduce the guesswork in our infrastructure decisions",
+  "summary": "We had a standby pool algorithm with over a dozen tunable parameters and no good way to test changes without risking real customer latency. So we built a simulator fed with real job data, ran hyperparameter optimization on it, and found a configuration that was faster and cheaper.",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/02/78/78202efd01f752a6b38126d56588124e2a7c5bda67f493e7d559b2ff9c80d8d5/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/02/78/78202efd01f752a6b38126d56588124e2a7c5bda67f493e7d559b2ff9c80d8d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14285,
+    "sha256": "sha256:3f39731600a61839deb47dbcaf697e28ce11541d57a54ff8e7ed5818fd696788",
+    "normalized_content_hash": "sha256:6c0b6abf59a240e3ddd43926354b03abc86d9f6644f3a58f42a9c90fea2903cc"
+  },
+  "provenance": {
+    "source_item_id": "0c49d72f-7084-4ea2-b995-b056b1516c47",
+    "external_id": "https://depot.dev/blog/how-simulations-reduce-guesswork"
+  }
+}

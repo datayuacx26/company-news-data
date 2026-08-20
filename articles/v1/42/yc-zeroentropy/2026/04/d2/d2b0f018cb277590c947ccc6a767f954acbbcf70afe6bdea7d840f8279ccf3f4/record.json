@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2b0f018cb277590c947ccc6a767f954acbbcf70afe6bdea7d840f8279ccf3f4",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/reddit-reranker-chrome-extension/",
+    "canonical": "https://zeroentropy.dev/articles/reddit-reranker-chrome-extension/"
+  },
+  "title": "Reranking Reddit: What Happens When You Sort Comments by Relevance Instead of Karma",
+  "summary": "We built a Chrome extension that re-sorts Reddit and Hacker News comments using zerank-2. The best answer has 1 upvote 32% of the time. Now it floats to the top.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:15:57.305389+00:00",
+  "last_updated_at": "2026-07-28T22:17:48.634033+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/04/d2/d2b0f018cb277590c947ccc6a767f954acbbcf70afe6bdea7d840f8279ccf3f4/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/04/d2/d2b0f018cb277590c947ccc6a767f954acbbcf70afe6bdea7d840f8279ccf3f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8242,
+    "sha256": "sha256:bac5d794cae8cacd1b87c395b33a4b26dcfc601de47f94134991be2978ec2f14",
+    "normalized_content_hash": "sha256:0b5f97bff46ef58037b63027b75c37ff30792414f6d077a42ec3e84d806ea1b6"
+  },
+  "provenance": {
+    "source_item_id": "525c77ba-2751-48ac-9f60-b46b0385bb9c",
+    "external_id": "https://zeroentropy.dev/articles/reddit-reranker-chrome-extension/"
+  }
+}

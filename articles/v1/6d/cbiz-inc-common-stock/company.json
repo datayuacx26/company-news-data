@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cbiz-inc-common-stock",
+    "name": "CBIZ Inc."
+  },
+  "record_count": 75,
+  "first_published_at": "2026-07-10T12:29:54+00:00",
+  "last_published_at": "2026-08-18T21:14:10+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 54
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 21
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6d/cbiz-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54277,
+        "sha256": "sha256:798855e815dcb0cfed133dbc5effd8f879bb0fe92f0717f39390b9f65f27e9c9",
+        "newest_at": "2026-08-18T21:14:10+00:00",
+        "oldest_at": "2026-07-21T14:01:50+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/6d/cbiz-inc-common-stock/index/pages/000002.json",
+        "record_count": 25,
+        "byte_count": 26980,
+        "sha256": "sha256:68653ddb829cbd1a2a8435c39dab9fbfbc3a37f5d62339d2f148afaa5c14d544",
+        "newest_at": "2026-07-20T18:38:23+00:00",
+        "oldest_at": "2026-07-10T12:29:54+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+---
+schema_version: "1.0.0"
+document_id: "493456872962da6103469b8d67664cb8e01d3f9a950c084c8d6e0599890b373d"
+company_key: "yc-plate-iq"
+company: "Plate IQ"
+source_id: "yc-plate-iq-rss-f07b9327356d"
+canonical_url: "https://ottimate.com/blog/why-ap-transformation-fails-without-change-management/"
+published_at: "2026-07-15T13:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:54.109753+00:00"
+fetched_at: "2026-07-28T20:41:19.924237+00:00"
+content_hash: "sha256:3b40de89ddf9f6e374cabca1a7b3ed2f93b0f805caad075fb82a839987d4bc36"
+---
+
+# Why AP Transformation Fails Without Change Management
+
+LnRiLWZpZWxke21hcmdpbi1ib3R0b206MC43NmVtfS50Yi1maWVsZC0tbGVmdHt0ZXh0LWFsaWduOmxlZnR9LnRiLWZpZWxkLS1jZW50ZXJ7dGV4dC1hbGlnbjpjZW50ZXJ9LnRiLWZpZWxkLS1yaWdodHt0ZXh0LWFsaWduOnJpZ2h0fS50Yi1maWVsZF9fc2t5cGVfcHJldmlld3twYWRkaW5nOjEwcHggMjBweDtib3JkZXItcmFkaXVzOjNweDtjb2xvcjojZmZmO2JhY2tncm91bmQ6IzAwYWZlZTtkaXNwbGF5OmlubGluZS1ibG9ja311bC5nbGlkZV9fc2xpZGVze21hcmdpbjowfQ==
+
+
+LnRiLWhlYWRpbmcuaGFzLWJhY2tncm91bmR7cGFkZGluZzowfQ==
+
+
+TWVycml3ZWF0aGVyOnJlZ3VsYXI=
+
+
+LnRiLWNvbnRhaW5lciAudGItY29udGFpbmVyLWlubmVye3dpZHRoOjEwMCU7bWFyZ2luOjAgYXV0b30gLndwLWJsb2NrLXRvb2xzZXQtYmxvY2tzLWNvbnRhaW5lci50Yi1jb250YWluZXJbZGF0YS10b29sc2V0LWJsb2Nrcy1jb250YWluZXI9IjM1ODI5NzY1ZjI4ZTcyZmMxYzY3ZjFhZTk3ZDFjYzZhIl0geyBwYWRkaW5nOiAxMDBweCAyNXB4IDI1cHggMjVweDsgfSAud3AtYmxvY2stdG9vbHNldC1ibG9ja3MtY29udGFpbmVyLnRiLWNvbnRhaW5lcltkYXRhLXRvb2xzZXQtYmxvY2tzLWNvbnRhaW5lcj0iMzU4Mjk3NjVmMjhlNzJmYzFjNjdmMWFlOTdkMWNjNmEiXSA+IC50Yi1jb250YWluZXItaW5uZXIgeyBtYXgtd2lkdGg6IDgwMHB4OyB9IC53cC1ibG9jay10b29sc2V0LWJsb2Nrcy1jb250YWluZXIudGItY29udGFpbmVyW2RhdGEtdG9vbHNldC1ibG9ja3MtY29udGFpbmVyPSIzNTgyOTc2NWYyOGU3MmZjMWM2N2YxYWU5N2QxY2M2YSJdIHAgeyBmb250LWZhbWlseTogTWVycml3ZWF0aGVyO2ZvbnQtd2VpZ2h0OiByZWd1bGFyO2NvbG9yOiByZ2JhKCAyNiwgMzIsIDQ0LCAxICk7IH0gIC50Yi1zb2NpYWwtc2hhcmVfX25ldHdvcmt7ZGlzcGxheTppbmxpbmUtYmxvY2s7dGV4dC1hbGlnbjpjZW50ZXI7dmVydGljYWwtYWxpZ246dG9wO21hcmdpbi1yaWdodDo3cHg7bWFyZ2luLWJvdHRvbTo3cHh9LnRiLXNvY2lhbC1zaGFyZS0tMDkyIC50Yi1zb2NpYWwtc2hhcmVfX2ZhY2Vib29rX19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojM2I1OTk4O30udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fbGlua2VkaW5fX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiMwMDdmYjE7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX190d2l0dGVyX19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojMDBhY2VkO30udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fcGludGVyZXN0X19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojY2IyMTI4O30udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fdGVsZWdyYW1fX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiMzN2FlZTI7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX19yZWRkaXRfX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiM1Zjk5Y2Y7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX192aWJlcl9fc2hhcmUtYnV0dG9ue2N1cnNvcjpwb2ludGVyO2Rpc3BsYXk6aW5saW5lLWJsb2NrO2JhY2tncm91bmQtc2l6ZTpjb250YWluO2JhY2tncm91bmQtY29sb3I6IzdjNTI5ZTt9LnRiLXNvY2lhbC1zaGFyZS0tMDkyIC50Yi1zb2NpYWwtc2hhcmVfX2VtYWlsX19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojN2Y3ZjdmO30udGItc29jaWFsLXNoYXJlLS1yb3VuZCAuU29jaWFsTWVkaWFTaGFyZUJ1dHRvbntib3JkZXItcmFkaXVzOjUwJX0udGItc29jaWFsLXNoYXJlX19leGNlcnB0e2Rpc3BsYXk6bm9uZX0udGItc29jaWFsLXNoYXJlIC5Tb2NpYWxNZWRpYVNoYXJlQnV0dG9uLS1kaXNhYmxlZHtvcGFjaXR5OjAuNjV9IC50Yi1zb2NpYWwtc2hhcmVbZGF0YS10b29sc2V0LWJsb2Nrcy1zb2NpYWwtc2hhcmU9ImJkZDUwNDE3MDcwNTU4OGZjOWEwZDZmMWIyM2MwODY0Il0gLlNvY2lhbE1lZGlhU2hhcmVCdXR0b24geyB3aWR0aDogMzJweDtoZWlnaHQ6IDMycHg7IH0gLnRiLWZpZWxkcy1hbmQtdGV4dFtkYXRhLXRvb2xzZXQtYmxvY2tzLWZpZWxkcy1hbmQtdGV4dD0iYjBlNDVjNjRhY2E1YmRlNjA3ZTk2MzJkOTZiMTA2NDYiXSB7IGNvbG9yOiByZ2JhKCAyNTUsIDI1NSwgMjU1LCAxICk7IH0gLnRiLWZpZWxkcy1hbmQtdGV4dFtkYXRhLXRvb2xzZXQtYmxvY2tzLWZpZWxkcy1hbmQtdGV4dD0iYjBlNDVjNjRhY2E1YmRlNjA3ZTk2MzJkOTZiMTA2NDYiXSBwIHsgY29sb3I6IHJnYmEoIDI1NSwgMjU1LCAyNTUsIDEgKTsgfSBoMS50Yi1oZWFkaW5nW2RhdGEtdG9vbHNldC1ibG9ja3MtaGVhZGluZz0iYmIxNzI2YjU0NTc4YjI3ZDJkYTg0ZjEwZjQ1OGUwMzIiXSAgeyBjb2xvcjogcmdiYSggMjU1LCAyNTUsIDI1NSwgMSApO3RleHQtYWxpZ246IGxlZnQ7IH0gIC50Yi1maWVsZFtkYXRhLXRvb2xzZXQtYmxvY2tzLWZpZWxkPSI2MzViNmM4N2MwYzM0NWY1ZWNlMWQxODk3ZDY1MWQ4YiJdIHsgZm9udC1zaXplOiAxNnB4O2ZvbnQtd2VpZ2h0OiBib2xkO2NvbG9yOiByZ2JhKCAyNTUsIDI1NSwgMjU1LCAxICk7IH0gIC50Yi1maWVsZFtkYXRhLXRvb2xzZXQtYmxvY2tzLWZpZWxkPSIwNGZiNzgxN2FiZmNmN2JkY2EwMjUwYWIwMDY4MTdlNyJdIHsgZm9udC1zaXplOiAxNnB4O2ZvbnQtd2VpZ2h0OiBib2xkO3RleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Y29sb3I6IHJnYmEoIDI1NSwgMjU1LCAyNTUsIDEgKTsgfSAgLnRiLWltYWdle3Bvc2l0aW9uOnJlbGF0aXZlO3RyYW5zaXRpb246dHJhbnNmb3JtIDAuMjVzIGVhc2V9LndwLWJsb2NrLWltYWdlIC50Yi1pbWFnZS5hbGlnbmNlbnRlcnttYXJnaW4tbGVmdDphdXRvO21hcmdpbi1yaWdodDphdXRvfS50Yi1pbWFnZSBpbWd7bWF4LXdpZHRoOjEwMCU7aGVpZ2h0OmF1dG87d2lkdGg6YXV0bzt0cmFuc2l0aW9uOnRyYW5zZm9ybSAwLjI1cyBlYXNlfS50Yi1pbWFnZSAudGItaW1hZ2UtY2FwdGlvbi1maXQtdG8taW1hZ2V7ZGlzcGxheTp0YWJsZX0udGItaW1hZ2UgLnRiLWltYWdlLWNhcHRpb24tZml0LXRvLWltYWdlIC50Yi1pbWFnZS1jYXB0aW9ue2Rpc3BsYXk6dGFibGUtY2FwdGlvbjtjYXB0aW9uLXNpZGU6Ym90dG9tfSAud3AtYmxvY2staW1hZ2UudGItaW1hZ2VbZGF0YS10b29sc2V0LWJsb2Nrcy1pbWFnZT0iYjY1ZjZlNDNjOWI3NTMxZGYyMTBiYmRjZTU2ZTdmMmEiXSB7IG1heC13aWR0aDogMTAwJTsgfSBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDc4MXB4KSB7IC50Yi1jb250YWluZXIgLnRiLWNvbnRhaW5lci1pbm5lcnt3aWR0aDoxMDAlO21hcmdpbjowIGF1dG99IC50Yi1zb2NpYWwtc2hhcmVfX25ldHdvcmt7ZGlzcGxheTppbmxpbmUtYmxvY2s7dGV4dC1hbGlnbjpjZW50ZXI7dmVydGljYWwtYWxpZ246dG9wO21hcmdpbi1yaWdodDo3cHg7bWFyZ2luLWJvdHRvbTo3cHh9LnRiLXNvY2lhbC1zaGFyZS0tMDkyIC50Yi1zb2NpYWwtc2hhcmVfX2ZhY2Vib29rX19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojM2I1OTk4O30udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fbGlua2VkaW5fX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiMwMDdmYjE7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX190d2l0dGVyX19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojMDBhY2VkO30udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fcGludGVyZXN0X19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojY2IyMTI4O30udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fdGVsZWdyYW1fX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiMzN2FlZTI7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX19yZWRkaXRfX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiM1Zjk5Y2Y7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX192aWJlcl9fc2hhcmUtYnV0dG9ue2N1cnNvcjpwb2ludGVyO2Rpc3BsYXk6aW5saW5lLWJsb2NrO2JhY2tncm91bmQtc2l6ZTpjb250YWluO2JhY2tncm91bmQtY29sb3I6IzdjNTI5ZTt9LnRiLXNvY2lhbC1zaGFyZS0tMDkyIC50Yi1zb2NpYWwtc2hhcmVfX2VtYWlsX19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojN2Y3ZjdmO30udGItc29jaWFsLXNoYXJlLS1yb3VuZCAuU29jaWFsTWVkaWFTaGFyZUJ1dHRvbntib3JkZXItcmFkaXVzOjUwJX0udGItc29jaWFsLXNoYXJlX19leGNlcnB0e2Rpc3BsYXk6bm9uZX0udGItc29jaWFsLXNoYXJlIC5Tb2NpYWxNZWRpYVNoYXJlQnV0dG9uLS1kaXNhYmxlZHtvcGFjaXR5OjAuNjV9ICAgLnRiLWltYWdle3Bvc2l0aW9uOnJlbGF0aXZlO3RyYW5zaXRpb246dHJhbnNmb3JtIDAuMjVzIGVhc2V9LndwLWJsb2NrLWltYWdlIC50Yi1pbWFnZS5hbGlnbmNlbnRlcnttYXJnaW4tbGVmdDphdXRvO21hcmdpbi1yaWdodDphdXRvfS50Yi1pbWFnZSBpbWd7bWF4LXdpZHRoOjEwMCU7aGVpZ2h0OmF1dG87d2lkdGg6YXV0bzt0cmFuc2l0aW9uOnRyYW5zZm9ybSAwLjI1cyBlYXNlfS50Yi1pbWFnZSAudGItaW1hZ2UtY2FwdGlvbi1maXQtdG8taW1hZ2V7ZGlzcGxheTp0YWJsZX0udGItaW1hZ2UgLnRiLWltYWdlLWNhcHRpb24tZml0LXRvLWltYWdlIC50Yi1pbWFnZS1jYXB0aW9ue2Rpc3BsYXk6dGFibGUtY2FwdGlvbjtjYXB0aW9uLXNpZGU6Ym90dG9tfSB9IEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogNTk5cHgpIHsgLnRiLWNvbnRhaW5lciAudGItY29udGFpbmVyLWlubmVye3dpZHRoOjEwMCU7bWFyZ2luOjAgYXV0b30gLnRiLXNvY2lhbC1zaGFyZV9fbmV0d29ya3tkaXNwbGF5OmlubGluZS1ibG9jazt0ZXh0LWFsaWduOmNlbnRlcjt2ZXJ0aWNhbC1hbGlnbjp0b3A7bWFyZ2luLXJpZ2h0OjdweDttYXJnaW4tYm90dG9tOjdweH0udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fZmFjZWJvb2tfX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiMzYjU5OTg7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX19saW5rZWRpbl9fc2hhcmUtYnV0dG9ue2N1cnNvcjpwb2ludGVyO2Rpc3BsYXk6aW5saW5lLWJsb2NrO2JhY2tncm91bmQtc2l6ZTpjb250YWluO2JhY2tncm91bmQtY29sb3I6IzAwN2ZiMTt9LnRiLXNvY2lhbC1zaGFyZS0tMDkyIC50Yi1zb2NpYWwtc2hhcmVfX3R3aXR0ZXJfX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiMwMGFjZWQ7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX19waW50ZXJlc3RfX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiNjYjIxMjg7fS50Yi1zb2NpYWwtc2hhcmUtLTA5MiAudGItc29jaWFsLXNoYXJlX190ZWxlZ3JhbV9fc2hhcmUtYnV0dG9ue2N1cnNvcjpwb2ludGVyO2Rpc3BsYXk6aW5saW5lLWJsb2NrO2JhY2tncm91bmQtc2l6ZTpjb250YWluO2JhY2tncm91bmQtY29sb3I6IzM3YWVlMjt9LnRiLXNvY2lhbC1zaGFyZS0tMDkyIC50Yi1zb2NpYWwtc2hhcmVfX3JlZGRpdF9fc2hhcmUtYnV0dG9ue2N1cnNvcjpwb2ludGVyO2Rpc3BsYXk6aW5saW5lLWJsb2NrO2JhY2tncm91bmQtc2l6ZTpjb250YWluO2JhY2tncm91bmQtY29sb3I6IzVmOTljZjt9LnRiLXNvY2lhbC1zaGFyZS0tMDkyIC50Yi1zb2NpYWwtc2hhcmVfX3ZpYmVyX19zaGFyZS1idXR0b257Y3Vyc29yOnBvaW50ZXI7ZGlzcGxheTppbmxpbmUtYmxvY2s7YmFja2dyb3VuZC1zaXplOmNvbnRhaW47YmFja2dyb3VuZC1jb2xvcjojN2M1MjllO30udGItc29jaWFsLXNoYXJlLS0wOTIgLnRiLXNvY2lhbC1zaGFyZV9fZW1haWxfX3NoYXJlLWJ1dHRvbntjdXJzb3I6cG9pbnRlcjtkaXNwbGF5OmlubGluZS1ibG9jaztiYWNrZ3JvdW5kLXNpemU6Y29udGFpbjtiYWNrZ3JvdW5kLWNvbG9yOiM3ZjdmN2Y7fS50Yi1zb2NpYWwtc2hhcmUtLXJvdW5kIC5Tb2NpYWxNZWRpYVNoYXJlQnV0dG9ue2JvcmRlci1yYWRpdXM6NTAlfS50Yi1zb2NpYWwtc2hhcmVfX2V4Y2VycHR7ZGlzcGxheTpub25lfS50Yi1zb2NpYWwtc2hhcmUgLlNvY2lhbE1lZGlhU2hhcmVCdXR0b24tLWRpc2FibGVke29wYWNpdHk6MC42NX0gICAudGItaW1hZ2V7cG9zaXRpb246cmVsYXRpdmU7dHJhbnNpdGlvbjp0cmFuc2Zvcm0gMC4yNXMgZWFzZX0ud3AtYmxvY2staW1hZ2UgLnRiLWltYWdlLmFsaWduY2VudGVye21hcmdpbi1sZWZ0OmF1dG87bWFyZ2luLXJpZ2h0OmF1dG99LnRiLWltYWdlIGltZ3ttYXgtd2lkdGg6MTAwJTtoZWlnaHQ6YXV0bzt3aWR0aDphdXRvO3RyYW5zaXRpb246dHJhbnNmb3JtIDAuMjVzIGVhc2V9LnRiLWltYWdlIC50Yi1pbWFnZS1jYXB0aW9uLWZpdC10by1pbWFnZXtkaXNwbGF5OnRhYmxlfS50Yi1pbWFnZSAudGItaW1hZ2UtY2FwdGlvbi1maXQtdG8taW1hZ2UgLnRiLWltYWdlLWNhcHRpb257ZGlzcGxheTp0YWJsZS1jYXB0aW9uO2NhcHRpb24tc2lkZTpib3R0b219IH0g
+
+
+AP Automation + Technology, Blog
+
+
+July 15, 2026
+
+
+# Why AP Transformation Fails Without Change Management
+
+
+**by Hannah Khouri**
+
+
+Six months after go-live, the AP manager at a 200-employee food distributor pulled up the usage dashboard and felt her stomach sink. Adoption was sitting at 40 percent. Half of her team was still printing invoices and marking them up by hand. One clerk kept a spreadsheet “just in case” the new system lost something. The controller had stopped asking about it in their one-on-ones, which somehow felt worse than if he’d complained.
+
+
+The software worked fine. The vendor had delivered what was promised. The implementation team had checked every box on their go-live checklist. And yet, here was a company paying for automation while, in practice, running two parallel AP processes — one digital and one paper — both inefficient in their own way.
+
+
+This story repeats itself across mid-market finance teams more often than any vendor wants to admit. The invoice volume is high, habits are deeply ingrained, and the software is blamed for a failure that has almost nothing to do with it.
+
+
+## Why AP automation projects stall after go-live
+
+
+AP automation projects fail when the organization treats implementation as a technical event instead of an operational change. The system goes live, but the people who have to use it every day were never given a reason to change how they work. So, they don’t.
+
+
+A few patterns show up again and again:
+
+
+**The team reverts to old habits.** Month-end close, an unusually high invoice volume, a vacation that leaves the team short-staffed – any of these will send people back to whatever workflow feels fastest and most familiar, even if that means working around the new system rather than through it.
+
+
+**No one owns adoption internally.** Plenty of implementations have a project manager during the rollout phase, but no one is designated to own[adoption](https://ottimate.com/blog/how-to-drive-ap-automation-adoption-across-your-finance-team/) afterward. Without a champion who’s accountable for usage rates, exception handling, and answering questions, the system drifts.
+
+
+**Training happens once and never again.** New hires join with no formal onboarding to the AP software. Existing staff forget features they didn’t use in their first week. Nobody revisits training as the team’s needs change.
+
+
+**Approval workflows were never mapped before implementation.** The software is configured to match whatever process existed on paper, including the bottlenecks, the redundant sign-offs, and the approvers who were never clear on what they were actually supposed to check. Automating a broken workflow just makes the breakage faster and more visible.
+
+
+None of this is a software problem. It’s what happens when a company buys a new system and assumes the system will do the work of changing behavior on its own.
+
+
+It’s also worth noting that the old manual process was slow and carried real exposure. Inconsistent approval trails, easily forged invoices, and a lack of audit visibility mean manual processes don’t just create inefficiency; they create risk that often goes unnoticed until something goes wrong.
+
+
+## The change management piece most teams skip
+
+
+Change management in accounts payable is the structured plan for how AP work will change, who is responsible for each part of that change, and how the organization measures whether the change has actually taken hold.
+
+
+Most AP implementations have a technical project plan. Few have an equivalent adoption plan. That gap is usually where the ROI disappears.
+
+
+A real change management plan for AP transformation covers four things:
+
+
+1. **Stakeholder mapping.** Before the system is configured, identify everyone who touches an invoice, including AP clerks, department approvers, the controller, the people in operations who code expenses, and even AP’s contacts in vendor relations. Each group has different concerns and different reasons to resist change. Mapping them out before launch means you can address resistance early.
+2. **Role-based training.** An AP clerk needs to know how to process exceptions and match invoices to POs. A department approver needs thirty seconds of training on how to approve from their inbox, not a full system walkthrough. A controller needs to understand reporting and audit trails. Training everyone the same way wastes time and signals that the rollout wasn’t really planned for them specifically.
+3. **A 30/60/90 day adoption framework.** The first 30 days should focus on ensuring everyone is actually in the system rather than working around it. Days 30-60 shift to refining workflows and catching the exceptions that only surface once real volume runs through the process. Days 60-90 should show measurable movement on processing time and exception rates. Without checkpoints like these, “we’ll get to full adoption eventually” becomes the plan, and rarely ever arrives.
+4. **An empowered internal champion.** This is usually the AP manager, sometimes a senior clerk who’s bought in early. They need real authority to flag problems to leadership, not just a title. If the champion has to fight for attention every time adoption slows, the role doesn’t function.
+
+
+## What good adoption actually looks like
+
+
+Most teams know when they’re not getting full value from their AP software. Few can say what full value looks like in measurable terms, making it nearly impossible to hold anyone accountable for closing the gap.
+
+
+### Invoice processing time
+
+
+Manual AP processes often take several days or more per invoice, once you account for routing,[approvals](https://ottimate.com/feature/workflows-and-approvals/) , and exceptions. Teams that adopt automation well typically see that number cut dramatically within the first quarter.[Heritage Grocers Group](https://ottimate.com/customer/heritage-grocers-group/) , an Ottimate customer, saw a 50-70% reduction in invoice processing time by implementing a deliberate software rollout.
+
+
+### Exception rate trends
+
+
+A high exception rate in week one is normal. That’s the system surfacing mismatches and errors that the old process never caught. What matters is whether that rate trends downward over 90 days as workflows are refined and staff become more fluent with the tool. A flat or rising exception rate for three months is a sign that adoption, not the software, is the problem.
+
+
+### Early payment discount capture
+
+
+Capturing early payment discounts requires processing invoices fast enough to act on them, which only happens when the team has actually stopped batching invoices for end-of-week processing the old way. A rising discount capture rate is indirect proof that the new process is the real process, not a parallel one running alongside the old habits.
+
+
+## How to build your internal case for change
+
+
+If you’re the AP manager who can see the gap between what the software should be doing and what’s actually happening, the challenge is to get leadership to treat it as a priority.
+
+
+A CFO will engage with real numbers far more readily than vague descriptions of adoption struggles. Frame the conversation around the metrics leadership already tracks, like:
+
+
+- Cash flow visibility
+- Early payment discount capture
+- Days payable outstanding
+- Audit readiness
+
+
+These are the levers that connect AP performance to the broader financial picture.
+
+
+It also helps to name the cost of inaction specifically. A stalled implementation is an ongoing expense. The company is paying for software it isn’t using to capacity, plus the labor cost of maintaining a shadow manual process, plus the missed discounts and audit exposure that comes with inconsistent approval workflows. Quantify that gap so lagging adoption becomes something the CFO can (and wants to) act on.
+
+
+## When to bring in outside support
+
+
+Some organizations have the internal bandwidth to manage a structured adoption plan on their own, but many don’t, particularly in mid-market finance teams where the AP manager is already stretched thin.
+
+
+There’s no failure in recognizing that gap. Implementation support exists because rollout and adoption take a different kind of attention than day-to-day work. Ottimate’s approach to implementation is built to support both technical configuration and change management. You can see how Ottimate supports implementation and what the onboarding process looks like before deciding whether to handle adoption internally or with help.
+
+
+## Reframe your AP transformation
+
+
+AP transformation is an operational change that happens to involve software. Focusing only on system deployment and neglecting to address how that deployment will change the way people work often results in a lack of adoption.
+
+
+Don’t assume a new tool will change behavior on its own. Building a plan for the *platform* and a plan for the *people* is what will ensure the software delivers.
+
+
+## Want to see Ottimate in action?
+
+
+See how Ottimate can improve your day-to-day with AI-powered AP solutions.
+
+
+[Get a Demo](https://ottimate.com/get-demo/)

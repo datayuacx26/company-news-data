@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/rust-dockerfile-best-practices",
+    "canonical": "https://depot.dev/blog/rust-dockerfile-best-practices"
+  },
+  "title": "Best practice Dockerfile for speedy Rust builds",
+  "summary": "Rust builds in Docker tend to be slow. This article shows how to drastically speed them up using Docker layer caching and more advanced techniques like sccache.",
+  "published_at": "2024-04-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:25:56.819128+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/04/ad/add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/04/ad/add395209b7af8f58b042a1fbf6984163fc6573876c6783dd3c5e04fc31eefad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12283,
+    "sha256": "sha256:b7f4fa3a9d3d51909fc006a5e17b7852a946a4c35472608bd6e90d940072bc3e",
+    "normalized_content_hash": "sha256:625bddb4a1bdcd6b163226864fca222e4f6b5781ed5e221e613c0753e9b86a25"
+  },
+  "provenance": {
+    "source_item_id": "44a5f6ed-4ed8-4585-b332-3f4206181a1e",
+    "external_id": "https://depot.dev/blog/rust-dockerfile-best-practices"
+  }
+}

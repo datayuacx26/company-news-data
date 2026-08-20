@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "187467078b305438203934690a5fac64c76a7c8744ea753600e8e80e18b7f062",
+  "company": {
+    "key": "yc-rivet",
+    "name": "Rivet"
+  },
+  "source": {
+    "id": "yc-rivet-news-import-b9b70e7746c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rivet.dev/blog/2026-07-26-sandboxes-vs-webassembly-lambda-vs-workers-round-two/",
+    "canonical": "https://rivet.dev/blog/2026-07-26-sandboxes-vs-webassembly-lambda-vs-workers-round-two/"
+  },
+  "title": "Sandboxes vs WebAssembly → Lambda vs Workers, Round Two",
+  "summary": "Sandboxes reserve a container per agent while the agent sits idle waiting on inference. That's the same mistake Lambda made, and isolates already solved it.",
+  "published_at": "2026-07-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:11:06.802677+00:00",
+  "fetched_at": "2026-07-31T19:11:08.509085+00:00",
+  "last_updated_at": "2026-08-20T03:07:39.236282+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-rivet/2026/07/18/187467078b305438203934690a5fac64c76a7c8744ea753600e8e80e18b7f062/article.md",
+    "record": "articles/v1/76/yc-rivet/2026/07/18/187467078b305438203934690a5fac64c76a7c8744ea753600e8e80e18b7f062/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5760,
+    "sha256": "sha256:993366e5be884deb5caeb70ecbc2e84c75cdfda402e752b980252cbbcfab3086",
+    "normalized_content_hash": "sha256:5f6e5b47035c913a5de5384351231157028464eba7a51a9857b1d2c981e82c0b"
+  },
+  "provenance": {
+    "source_item_id": "1d6188e2-e136-4281-a9b1-9d57f64a607d",
+    "external_id": "https://rivet.dev/blog/2026-07-26-sandboxes-vs-webassembly-lambda-vs-workers-round-two/"
+  }
+}

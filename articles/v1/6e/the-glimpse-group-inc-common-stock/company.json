@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the-glimpse-group-inc-common-stock",
+    "name": "The Glimpse Group Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-02-17T13:34:17+00:00",
+  "last_published_at": "2026-08-19T12:03:22+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6e/the-glimpse-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 19417,
+        "sha256": "sha256:61d1df4b7cc483545e2f7829a176756580e0dd0193baa065f3d4d33d7fc7df90",
+        "newest_at": "2026-08-19T12:03:22+00:00",
+        "oldest_at": "2026-02-17T13:34:17+00:00"
+      }
+    ]
+  }
+}

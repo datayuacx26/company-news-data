@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a27788cccbf78c728bf7e2b7b0f0f1d3f2011727dcafcef4ce81e657b0d78d33",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/building-container-layers-from-scratch",
+    "canonical": "https://depot.dev/blog/building-container-layers-from-scratch"
+  },
+  "title": "Building containers from scratch: Layers",
+  "summary": "Exploring how OCI images represent layers, how layers can modify and delete files from previous layers, and how container runtimes combine layers into a single filesystem.",
+  "published_at": "2024-01-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/01/a2/a27788cccbf78c728bf7e2b7b0f0f1d3f2011727dcafcef4ce81e657b0d78d33/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/01/a2/a27788cccbf78c728bf7e2b7b0f0f1d3f2011727dcafcef4ce81e657b0d78d33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11079,
+    "sha256": "sha256:8cce33719c90c44c88aa6d65c8a8693c2f507fe973a2ce37645bc863c0fa11b3",
+    "normalized_content_hash": "sha256:7566ce3f22e88bcd5a3d984c70483f266060f789048f8e96f2752e338bbae73c"
+  },
+  "provenance": {
+    "source_item_id": "3d2b4a6c-f73b-4881-8f90-f79dc3de0fbf",
+    "external_id": "https://depot.dev/blog/building-container-layers-from-scratch"
+  }
+}

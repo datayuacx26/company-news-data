@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "d0fd985875602f1a2cbbc61f89e430fe52cfa4a8870ee113ed65a4764db38530"
+company_key: "galaxy-digital-inc-class-a-common-stock"
+company: "Galaxy Digital Inc."
+source_id: "galaxy-digital-inc-class-a-common-stock-news-import-3264694a8f1e"
+canonical_url: "https://www.galaxy.com/insights/podcasts/galaxy-grid/sec-vault-guidance-institutional-de-fi-and-bitcoin-s-quantum-future"
+published_at: null
+first_seen_at: "2026-07-29T05:38:51.832047+00:00"
+fetched_at: "2026-07-29T05:38:52.791866+00:00"
+content_hash: "sha256:7f9fc2ad36ea1c3148a22b58e388d1cf60b4a7372419e7490057c5c985cf0c8c"
+---
+
+# SEC Vault Guidance, Institutional DeFi, and Bitcoin's Quantum Future
+
+Ethereum ETF flows just outpaced Bitcoin for the second time while ETH is up 20% on the month. The SEC just issued guidance on vaults and lending markets that could reshape how institutional capital enters DeFi. Major financial institutions have pooled resources to fund a Bitcoin quantum security initiative bringing TradFi directly into Bitcoin core development for the first time. And Robinhood Chain just hit 100 million transactions while pulling memecoin volume from Solana. Four of the most important stories in crypto this week all in one episode. Keep in touch: ▸ Follow us on Twitter:[https://x.com/galaxyhq](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVEZaZnFxMjJ4RmtYRkd0X25HdXRfN3xBR3JiS2Fuc3JfM1VYY0Q3bVZpTkx3SDdSRnNGT1F3eGpkTTBBM1IxMG1Gc2R6QW82MmMtX2JhTWtTb1V3c1ZSWElIRjc5VEhFV0lmZ1dIYjhtdzNRRXB3NlVmRkV4czY1ZVlJ&q=https%3A%2F%2Fx.com%2Fgalaxyhq&v=NT6vafdApHc) &[https://x.com/glxyresearch](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVGRfM1MzamVQYUdWUllfVnRNdG1nTnxBR3JiS2FuWUpMMlNLVmVsYzRlMlVCWElDdlgtOXRfSDJWV2l1cHNnbDFXeWp0MVFwb1JBZHhOV0g1QWNiamliTzFEeUVBSlpUUExKXzd2c2g1cTZtcmdpRWtuMk5NWkdzUzZ3&q=https%3A%2F%2Fx.com%2Fglxyresearch&v=NT6vafdApHc) ▸ Read our research at[https://www.galaxy.com/research](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUURoN3Fxd0t0c0ItUlJaYmZ4bzdZd3xBR3JiS2FrVUxIZHpUdW5rVkpsX3NXY2RKemM3WlhQQVY3RGlHVnRwWm0wR1diMnhkOE9UOC1NdjdLanA4MG0zdHZZTFlFdktETUhQcGh2NVJRLXdfZ0dUSDFtNlF1TUY1RzlU&q=https%3A%2F%2Fwww.galaxy.com%2Fresearch&v=NT6vafdApHc) ▸ Subscribe to receive Galaxy Research's weekly newsletter:[https://www.galaxy.com/subscribe-to-r...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVFlEaUlXZzRhaU5MUV9xVWhfWnRwR3xBR3JiS2Ftbi1UMlhaWEhmelBFbGU3cnlteFlVVXpuREh4d016dFNaaW1nZlZ2ekJVWUxOX044SjdvSVV5clFGWkM4SjdtanBidnpfVlh6VXotRjBIdkFnQWp1a25WOTdvVEdt&q=https%3A%2F%2Fwww.galaxy.com%2Fsubscribe-to-research&v=NT6vafdApHc) This video, and the information contained herein, has been provided to you by Galaxy Digital Holdings LP and its affiliates (“Galaxy Digital”) solely for informational purposes. View the full disclaimer at[https://www.galaxy.com/galaxy-digital...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUnB1RGJjX01aajJzZFVzVkMwalRHYnxBR3JiS2FubXd6cVU2Tk5SUDFQOVZCMTgyWWFhRHZsUzE0T3VUb3FKdC1YbF9Tb3BKckY2TG0wSnBOWV9qLTlPZ2hCbW13Q0VYRlJtNHVHZ1hzU0U5eG40RnB5V2RoZUg1U0U0&q=https%3A%2F%2Fwww.galaxy.com%2Fgalaxy-digital-content-disclaimer&v=NT6vafdApHc)

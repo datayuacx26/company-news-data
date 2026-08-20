@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1babdbc641e9227af3a264926ce46e8ab8dedfebe999c9823e64d46cb7374131",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/aws-secrets-manager-vs-kms",
+    "canonical": "https://infisical.com/blog/aws-secrets-manager-vs-kms"
+  },
+  "title": "AWS Secrets Manager vs. KMS: Understanding the Difference",
+  "summary": "AWS Secrets Manager and AWS KMS both protect sensitive values, but they solve different problems. Here's how they differ and when to use each.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/07/1b/1babdbc641e9227af3a264926ce46e8ab8dedfebe999c9823e64d46cb7374131/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/07/1b/1babdbc641e9227af3a264926ce46e8ab8dedfebe999c9823e64d46cb7374131/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9668,
+    "sha256": "sha256:4843d4a7aa3a463faa5db1ed9ed3cef8cb1d1ff5c250dca9cfea061b131ea095",
+    "normalized_content_hash": "sha256:7a931acf962c6e6b2e8e78c98ef98de79b576921b4f1b0b751a8128c1555fd88"
+  },
+  "provenance": {
+    "source_item_id": "71fc2573-cf97-4057-b1f5-715fac845f3b",
+    "external_id": "https://infisical.com/blog/aws-secrets-manager-vs-kms"
+  }
+}

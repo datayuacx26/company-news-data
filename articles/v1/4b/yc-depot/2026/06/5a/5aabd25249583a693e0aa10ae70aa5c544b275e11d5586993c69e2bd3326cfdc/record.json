@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5aabd25249583a693e0aa10ae70aa5c544b275e11d5586993c69e2bd3326cfdc",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-step-retry-depot-ci",
+    "canonical": "https://depot.dev/blog/now-available-step-retry-depot-ci"
+  },
+  "title": "Now available: Step retry in Depot CI",
+  "summary": "You can now tell Depot CI ahead of time that a step might need a retry. Add retry to a known-flaky step and Depot reruns just that step, not the expensive work before it.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/06/5a/5aabd25249583a693e0aa10ae70aa5c544b275e11d5586993c69e2bd3326cfdc/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/06/5a/5aabd25249583a693e0aa10ae70aa5c544b275e11d5586993c69e2bd3326cfdc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3875,
+    "sha256": "sha256:d7b7b20c6d3d63bdda05876c853058055e713010c1a6623bfc87f25fc5c554c8",
+    "normalized_content_hash": "sha256:98c7e97cb1ef7789fc08b6165158031604bf65575e4055becc3281d1207ef935"
+  },
+  "provenance": {
+    "source_item_id": "a838d90e-7be8-4bca-ab75-26c4504a883f",
+    "external_id": "https://depot.dev/blog/now-available-step-retry-depot-ci"
+  }
+}

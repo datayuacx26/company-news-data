@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e8d72abeef9f8876da010c1d325778c268a40a5803dac83d2861bebc92f3a55",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/github-actions-runner-architecture-part-1-the-listener",
+    "canonical": "https://depot.dev/blog/github-actions-runner-architecture-part-1-the-listener"
+  },
+  "title": "GitHub Actions Runner architecture: The listener",
+  "summary": "GitHub Actions Runners power every job you run, whether on GitHub-hosted machines or your own hardware. But the way they work and the APIs they talk to have been changing. In this first part of our deep dive, we unpack the Listener process, how it's evolved from Azure DevOps roots, and what those changes mean for anyone running or accelerating Actions with Depot.",
+  "published_at": "2025-08-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/08/8e/8e8d72abeef9f8876da010c1d325778c268a40a5803dac83d2861bebc92f3a55/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/08/8e/8e8d72abeef9f8876da010c1d325778c268a40a5803dac83d2861bebc92f3a55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13085,
+    "sha256": "sha256:fab00716b5e6b223cddbb044ee8cc861aa1c4eff56e1c57a7b42b46019b3750b",
+    "normalized_content_hash": "sha256:df7eae6eab6268dba4cb204528c7a8f6c3467c55fb57a7715a134eeada0a993e"
+  },
+  "provenance": {
+    "source_item_id": "ac39aaf2-d735-4d6f-a328-a1c8c2bdcd56",
+    "external_id": "https://depot.dev/blog/github-actions-runner-architecture-part-1-the-listener"
+  }
+}

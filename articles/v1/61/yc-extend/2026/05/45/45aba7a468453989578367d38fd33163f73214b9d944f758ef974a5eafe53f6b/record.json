@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "45aba7a468453989578367d38fd33163f73214b9d944f758ef974a5eafe53f6b",
+  "company": {
+    "key": "yc-extend",
+    "name": "Extend"
+  },
+  "source": {
+    "id": "yc-extend-news-import-054f4f06cd55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.extend.ai/resources/realdocbench",
+    "canonical": "https://www.extend.ai/resources/realdocbench"
+  },
+  "title": "RealDoc-Bench: A Real-World Benchmark for Document Agents",
+  "summary": "RealDoc-Bench evaluates whether document parsers preserve layout, reading order, and field relationships well enough for downstream agents to produce verified answers.",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T19:22:10.257736+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-08-20T02:10:52.656356+00:00",
+  "paths": {
+    "article": "articles/v1/61/yc-extend/2026/05/45/45aba7a468453989578367d38fd33163f73214b9d944f758ef974a5eafe53f6b/article.md",
+    "record": "articles/v1/61/yc-extend/2026/05/45/45aba7a468453989578367d38fd33163f73214b9d944f758ef974a5eafe53f6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15364,
+    "sha256": "sha256:b85ebe1266eddf283662f226d55e1280d89a1091995b9698d2e8cb5c2f19f8ba",
+    "normalized_content_hash": "sha256:5a4d14d275556cfde8dcfbb3e874ccf1ba0bf5cd47453e1f91de0c8a0290f48f"
+  },
+  "provenance": {
+    "source_item_id": "46f7bfed-2789-4126-81ab-1be22c11f6c7",
+    "external_id": "https://www.extend.ai/resources/realdocbench"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "richardson-electronics-ltd-common-stock",
+    "name": "Richardson Electronics Ltd."
+  },
+  "record_count": 13,
+  "first_published_at": "2022-08-30T18:28:29+00:00",
+  "last_published_at": "2026-08-12T15:01:50+00:00",
+  "partitions": [
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6d/richardson-electronics-ltd-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 19262,
+        "sha256": "sha256:986d1aabbe5f7d1c4569945b101dd9ad417303f31f6dfa07feb713aae6b4d903",
+        "newest_at": "2026-08-12T15:01:50+00:00",
+        "oldest_at": "2022-08-30T18:28:29+00:00"
+      }
+    ]
+  }
+}

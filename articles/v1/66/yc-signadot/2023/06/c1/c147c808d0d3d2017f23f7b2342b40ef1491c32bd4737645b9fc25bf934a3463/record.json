@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c147c808d0d3d2017f23f7b2342b40ef1491c32bd4737645b9fc25bf934a3463",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/how-uber-and-doordash-enable-developers-to-test-in-production/",
+    "canonical": "https://www.signadot.com/blog/how-uber-and-doordash-enable-developers-to-test-in-production/"
+  },
+  "title": "How Uber & DoorDash empower developers to preview every code change in production",
+  "summary": "The blog post discusses the challenges faced by Uber and DoorDash in their quest for efficient testing in production. Uber, dealing with unreliable end-to-end tests and conflicts over staging environments, developed SLATE (Short-Lived Application Testing Environment) to create on-demand ephemeral testing environments. This improved isolation and developer velocity. On the other hand, DoorDash, striving for faster feedback, adopted a new approach to preview features in the production Kubernetes environment, enhancing their product development process.",
+  "published_at": "2023-06-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/06/c1/c147c808d0d3d2017f23f7b2342b40ef1491c32bd4737645b9fc25bf934a3463/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/06/c1/c147c808d0d3d2017f23f7b2342b40ef1491c32bd4737645b9fc25bf934a3463/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15179,
+    "sha256": "sha256:c4eae9dae4552ab859c786f3bb0b7a534833815b44ad387faaac8c88a778248b",
+    "normalized_content_hash": "sha256:59ccabe20383bfb42b87f58bc929f7c70478a6de62a0f9109f9f7611acaba5ff"
+  },
+  "provenance": {
+    "source_item_id": "e8b2065e-72f1-476b-a223-f086fcd76dd0",
+    "external_id": "https://www.signadot.com/blog/how-uber-and-doordash-enable-developers-to-test-in-production/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c860ebe24c5ce40d98ee414cc16d8e9b44138e4bdee7d468488c61f1cfa9111",
+  "company": {
+    "key": "yc-grain",
+    "name": "Grain"
+  },
+  "source": {
+    "id": "yc-grain-news-import-81739ddbe75a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://grain.com/blog/conversation-sentiment-analysis",
+    "canonical": "https://grain.com/blog/conversation-sentiment-analysis"
+  },
+  "title": "Conversation Sentiment Analysis Doesn't Work the Way You Think",
+  "summary": "We ran real sales calls through conversation sentiment analysis. It scored a customer's complaint as the most positive line. Here's why it no longer works.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:47:29.145404+00:00",
+  "fetched_at": "2026-08-09T22:47:30.801934+00:00",
+  "last_updated_at": "2026-08-19T21:34:48.808556+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-grain/2026/06/4c/4c860ebe24c5ce40d98ee414cc16d8e9b44138e4bdee7d468488c61f1cfa9111/article.md",
+    "record": "articles/v1/51/yc-grain/2026/06/4c/4c860ebe24c5ce40d98ee414cc16d8e9b44138e4bdee7d468488c61f1cfa9111/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18374,
+    "sha256": "sha256:5f1fd06bb8d18963d4239a7c2b82e67f688d1b7417fc8d0418ed3025166d485c",
+    "normalized_content_hash": "sha256:47a419dd90d7d1dc2c472115e39ce39ec97dd4f1a8d761763a5249dd12ae138f"
+  },
+  "provenance": {
+    "source_item_id": "4bca7dce-964e-4fdb-8fa5-ba18f31cbd62",
+    "external_id": "https://grain.com/blog/conversation-sentiment-analysis"
+  }
+}

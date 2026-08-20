@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a5e12d6fb65eb41dde75bfb52940365b7f6d3db19088c84c7a0b88545d893b8b",
+  "company": {
+    "key": "yc-iomete",
+    "name": "IOMETE"
+  },
+  "source": {
+    "id": "yc-iomete-news-import-000d9716a3eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://iomete.com/resources/blog/column-level-data-masking-scale",
+    "canonical": "https://iomete.com/resources/blog/column-level-data-masking-scale"
+  },
+  "title": "Column-Level Data Masking at Scale: Automating Tags Across Thousands of Columns",
+  "summary": "Manually configuring column-level masking table by table doesn't scale. Here's how tag-based policies let you classify once and enforce everywhere, across a data estate of any size, without surrendering infrastructure control.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:31:44.448316+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-08-07T05:32:22.160867+00:00",
+  "paths": {
+    "article": "articles/v1/4f/yc-iomete/2026/05/a5/a5e12d6fb65eb41dde75bfb52940365b7f6d3db19088c84c7a0b88545d893b8b/article.md",
+    "record": "articles/v1/4f/yc-iomete/2026/05/a5/a5e12d6fb65eb41dde75bfb52940365b7f6d3db19088c84c7a0b88545d893b8b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1511,
+    "sha256": "sha256:7a32864ac227c83688c473e8deb434f63e35e6f3e357c9aa0515fd1201ac41af",
+    "normalized_content_hash": "sha256:3b6e79cd1326b74b9f0a8a11c584857926d7c22aa18e8f7e284714febb4443df"
+  },
+  "provenance": {
+    "source_item_id": "d30ff39d-728a-409a-9865-c44a6237e749",
+    "external_id": "https://iomete.com/resources/blog/column-level-data-masking-scale"
+  }
+}

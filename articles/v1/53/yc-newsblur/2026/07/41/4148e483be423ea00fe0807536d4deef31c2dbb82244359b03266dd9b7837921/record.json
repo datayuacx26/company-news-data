@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4148e483be423ea00fe0807536d4deef31c2dbb82244359b03266dd9b7837921",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/stories-from-acs-journals-not-updating/13792#post_1",
+    "canonical": "https://forum.newsblur.com/t/stories-from-acs-journals-not-updating/13792"
+  },
+  "title": "Stories from ACS Journals not updating",
+  "summary": "Hi, Since about June 14th, Newsblur has stopped updating the feeds from ACS Journals. I was able to open the RSS feed using their website; however, it seems that Newsblur is not being able to obtain the updated information. Thank you, Renato",
+  "published_at": "2026-07-27T17:32:17+00:00",
+  "first_seen_at": "2026-07-27T18:18:11.174698+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T02:54:49.553882+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/07/41/4148e483be423ea00fe0807536d4deef31c2dbb82244359b03266dd9b7837921/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/07/41/4148e483be423ea00fe0807536d4deef31c2dbb82244359b03266dd9b7837921/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1060,
+    "sha256": "sha256:d411d1bc0a6cb1dccf3e25654cb6e6832f7ee4600247e3333b47f0efb2936f08",
+    "normalized_content_hash": "sha256:3da8163a647af824a554cde9634de1db276340a6d3e6d31438967e84509af720"
+  },
+  "provenance": {
+    "source_item_id": "da0d94fb-a9ad-48d7-b292-c2ee434cf8d1",
+    "external_id": "forum.newsblur.com-post-45081"
+  }
+}

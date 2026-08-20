@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af95e6515b9c4a254da20950ff7704639efa0a406c04e74d78bfeee14aa03342",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc."
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/made-in-brazil-brazil-70-the-third-star-scores-for-the-local-economy",
+    "canonical": "https://about.netflix.com/news/made-in-brazil-brazil-70-the-third-star-scores-for-the-local-economy"
+  },
+  "title": "Made in Brazil: ‘Brazil ‘70: The Third Star’ Scores for the Local Economy",
+  "summary": "In total, 3,000 people and 1,200 local vendors worked on the production, which spanned cities in Brazil like São Paulo, Carapicuíba and Cotia.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:38:38.142383+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-29T00:25:10.965612+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/07/af/af95e6515b9c4a254da20950ff7704639efa0a406c04e74d78bfeee14aa03342/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/07/af/af95e6515b9c4a254da20950ff7704639efa0a406c04e74d78bfeee14aa03342/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3402,
+    "sha256": "sha256:a5850b239dc02e9662295ac42323dcdc026144fb7fa40f3c744e6c66ecb70ab6",
+    "normalized_content_hash": "sha256:d20295995ce0b71820f99c856de751fe3f8a102f6f1f6123cf29ad56229a886d"
+  },
+  "provenance": {
+    "source_item_id": "5ef95564-08f1-4b6b-84c2-c0b0f4e82670",
+    "external_id": "https://about.netflix.com/news/made-in-brazil-brazil-70-the-third-star-scores-for-the-local-economy"
+  }
+}

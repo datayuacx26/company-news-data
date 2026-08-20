@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31c8b92fa0bb9eb74e84eedf28bedd9363b44eadfabaa756830bdb09617d25d0",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/web-search",
+    "canonical": "https://ollama.com/blog/web-search"
+  },
+  "title": "Web search",
+  "summary": "A new web search API is now available in Ollama. Ollama provides a generous free tier of web searches for individuals to use, and higher rate limits are available via Ollama’s cloud.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:08:30.130278+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:37.347721+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/31/31c8b92fa0bb9eb74e84eedf28bedd9363b44eadfabaa756830bdb09617d25d0/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/31/31c8b92fa0bb9eb74e84eedf28bedd9363b44eadfabaa756830bdb09617d25d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10481,
+    "sha256": "sha256:2bc11dc8c1702bb3c2ec9a09befebb7a3a711d4c84dddced9b8c7508274edb6a",
+    "normalized_content_hash": "sha256:eb5d9561fd1c2f85569ddbee407ffddae6ca34c276314e3a58e456b1088515b5"
+  },
+  "provenance": {
+    "source_item_id": "5a7ce975-b4b4-4991-ae9e-cd0d5e27b21f",
+    "external_id": "https://ollama.com/blog/web-search"
+  }
+}

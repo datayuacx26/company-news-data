@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-kamion",
+    "name": "Kamion"
+  },
+  "record_count": 10,
+  "first_published_at": "2024-11-14T07:28:18+00:00",
+  "last_published_at": "2026-06-25T08:56:28+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/yc-kamion/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12282,
+        "sha256": "sha256:810ad4c8de41b7dfd0839cf3f029489ed5c8a3b66c211edc79c2c504ad4f59c2",
+        "newest_at": "2026-06-25T08:56:28+00:00",
+        "oldest_at": "2024-11-14T07:28:18+00:00"
+      }
+    ]
+  }
+}

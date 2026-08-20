@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e722e7a3921033a077bdbc5c9fdcf70d6774aa0202044227f91ffbd683d4376",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/merging-to-test-is-killing-your-microservices-velocity/",
+    "canonical": "https://www.signadot.com/blog/merging-to-test-is-killing-your-microservices-velocity/"
+  },
+  "title": "Merging To Test Is Killing Your Microservices Velocity",
+  "summary": "Frontend and data layers have evolved with branch-based previews and isolated environments. Why is the backend service layer stuck with shared staging?",
+  "published_at": "2026-01-19T17:21:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/01/4e/4e722e7a3921033a077bdbc5c9fdcf70d6774aa0202044227f91ffbd683d4376/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/01/4e/4e722e7a3921033a077bdbc5c9fdcf70d6774aa0202044227f91ffbd683d4376/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7709,
+    "sha256": "sha256:84b36b7bd68f4bb36510b7b6d163deaac45ae5ad38ce73288754b423c062f394",
+    "normalized_content_hash": "sha256:bfbd2b16b7a419e29f7499a5e8a12b829eb1233f5ec1c7b65b37c700bab39dd6"
+  },
+  "provenance": {
+    "source_item_id": "d5c2696a-d72e-4369-bba6-0ee7f77fd2af",
+    "external_id": "https://www.signadot.com/blog/merging-to-test-is-killing-your-microservices-velocity/"
+  }
+}

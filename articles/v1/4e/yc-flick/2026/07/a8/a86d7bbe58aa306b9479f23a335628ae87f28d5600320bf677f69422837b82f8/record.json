@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a86d7bbe58aa306b9479f23a335628ae87f28d5600320bf677f69422837b82f8",
+  "company": {
+    "key": "yc-flick",
+    "name": "Flick"
+  },
+  "source": {
+    "id": "yc-flick-news-import-00342d05d871",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://flick.art/blog/img2img-consistent-character/stable-diffusion",
+    "canonical": "https://flick.art/blog/img2img-consistent-character/stable-diffusion"
+  },
+  "title": "How to Keep a Character Consistent in Stable Diffusion",
+  "summary": "Stable Diffusion has the deepest toolkit for character consistency. Train an SDXL LoRA for a fully repeatable identity, or use IPAdapter FaceID and InstantID for a fast, training-free face from a single reference.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T08:28:30.776088+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-07-28T22:08:13.875717+00:00",
+  "paths": {
+    "article": "articles/v1/4e/yc-flick/2026/07/a8/a86d7bbe58aa306b9479f23a335628ae87f28d5600320bf677f69422837b82f8/article.md",
+    "record": "articles/v1/4e/yc-flick/2026/07/a8/a86d7bbe58aa306b9479f23a335628ae87f28d5600320bf677f69422837b82f8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1430,
+    "sha256": "sha256:9f4a7c29f0555b4c3fb6a6aa82ac35c67b8b5ce0c59460000571cdfe8385091c",
+    "normalized_content_hash": "sha256:1a3c1d634072d34d3c6aafff4bd9bff170ba938cb600c18e92c145eeadcdcff1"
+  },
+  "provenance": {
+    "source_item_id": "c20e8f76-aa29-4c74-813c-0483093c6247",
+    "external_id": "https://flick.art/blog/img2img-consistent-character/stable-diffusion"
+  }
+}

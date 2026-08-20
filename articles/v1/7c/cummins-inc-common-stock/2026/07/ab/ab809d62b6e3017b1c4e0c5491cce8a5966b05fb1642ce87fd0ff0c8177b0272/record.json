@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab809d62b6e3017b1c4e0c5491cce8a5966b05fb1642ce87fd0ff0c8177b0272",
+  "company": {
+    "key": "cummins-inc-common-stock",
+    "name": "Cummins Inc."
+  },
+  "source": {
+    "id": "cummins-inc-common-stock-news-import-253450aeb1aa",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investor.cummins.com/news/detail/699/cummins-inc-increases-quarterly-common-stock-dividend",
+    "canonical": "https://investor.cummins.com/news/detail/699/cummins-inc-increases-quarterly-common-stock-dividend"
+  },
+  "title": "Cummins Inc. Increases Quarterly Common Stock Dividend",
+  "summary": "",
+  "published_at": "2026-07-13T16:15:00+00:00",
+  "first_seen_at": "2026-07-21T15:34:18.774469+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-20T02:10:05.119070+00:00",
+  "paths": {
+    "article": "articles/v1/7c/cummins-inc-common-stock/2026/07/ab/ab809d62b6e3017b1c4e0c5491cce8a5966b05fb1642ce87fd0ff0c8177b0272/article.md",
+    "record": "articles/v1/7c/cummins-inc-common-stock/2026/07/ab/ab809d62b6e3017b1c4e0c5491cce8a5966b05fb1642ce87fd0ff0c8177b0272/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8085,
+    "sha256": "sha256:cd24b4dfe708bee7452d1db269ec78375b29562c453100ea948a1c005b78d2a6",
+    "normalized_content_hash": "sha256:e067e57f7cc6d9d776aea778ea739c2e2dcc929610d3bbca6c8c502e3e587db9"
+  },
+  "provenance": {
+    "source_item_id": "dbce60e3-6a33-482c-ba54-4d19fa2521bd",
+    "external_id": "https://investor.cummins.com/news/detail/699/cummins-inc-increases-quarterly-common-stock-dividend"
+  }
+}

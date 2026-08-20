@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea9f1b25b275aac2e7e30955ef11e250abeb37f5edcfb3a3ccc2d105cba5fe10",
+  "company": {
+    "key": "yc-superglue",
+    "name": "superglue"
+  },
+  "source": {
+    "id": "yc-superglue-news-import-11c072c5544e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://superglue.ai/blog/ai-editing/",
+    "canonical": "https://superglue.ai/blog/ai-editing/"
+  },
+  "title": "JSON Editing with LLMs - Getting it right",
+  "summary": "We went through three architectural iterations to figure out how our AI agent applies edits to JSON tool configurations. Here's what we learned.",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:16:40.020846+00:00",
+  "fetched_at": "2026-07-28T22:23:15.131655+00:00",
+  "last_updated_at": "2026-08-20T01:08:46.719818+00:00",
+  "paths": {
+    "article": "articles/v1/47/yc-superglue/2026/01/ea/ea9f1b25b275aac2e7e30955ef11e250abeb37f5edcfb3a3ccc2d105cba5fe10/article.md",
+    "record": "articles/v1/47/yc-superglue/2026/01/ea/ea9f1b25b275aac2e7e30955ef11e250abeb37f5edcfb3a3ccc2d105cba5fe10/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6551,
+    "sha256": "sha256:7a559641ee208568b32429d50e3a066f3955d6209fda155e7ae32d21f71d3388",
+    "normalized_content_hash": "sha256:3f0b3c778a2267ec9c58712f39b50e03d20e11283a6a35326531dacc0bc7f09d"
+  },
+  "provenance": {
+    "source_item_id": "118fbf59-fc80-4a42-819e-cdf7ebc5b592",
+    "external_id": "https://superglue.ai/blog/ai-editing/"
+  }
+}

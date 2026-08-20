@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cadb32c40aab545add28ad2543423adc9940890a5953543010e7897e83df49d0",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/agent-state-machines-for-business-workflows",
+    "canonical": "https://airbyte.com/blog/agent-state-machines-for-business-workflows"
+  },
+  "title": "Designing Agent State Machines for Long-Running Business Workflows",
+  "summary": "Why prompt chains break on multi-day business processes, and how to model agent workflows as durable state machines with journaled steps and timed waiting states.",
+  "published_at": "2026-08-19T09:00:00+00:00",
+  "first_seen_at": "2026-08-20T00:31:35.654845+00:00",
+  "fetched_at": "2026-08-20T00:31:37.682913+00:00",
+  "last_updated_at": "2026-08-20T00:31:38.795062+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/08/ca/cadb32c40aab545add28ad2543423adc9940890a5953543010e7897e83df49d0/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/08/ca/cadb32c40aab545add28ad2543423adc9940890a5953543010e7897e83df49d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13218,
+    "sha256": "sha256:55e21376a37c28c8a958abaa2babbe5b6f0beff14ccb9ca93b392465d553571e",
+    "normalized_content_hash": "sha256:db62d4674421cb66eabc7445f375386f6f5b3e4e10cb5fc8ecb94c1b6ae1283d"
+  },
+  "provenance": {
+    "source_item_id": "e34436ca-1040-426b-9eb8-701e721a29f2",
+    "external_id": "https://airbyte.com/blog/agent-state-machines-for-business-workflows"
+  }
+}

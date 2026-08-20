@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55fdb30ea9cbc9d067247cfce9c808508632b7eb835ac9dbcd5602b67d7793fc",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-test-results",
+    "canonical": "https://depot.dev/blog/now-available-test-results"
+  },
+  "title": "Now available: Test results in your CI jobs",
+  "summary": "Report JUnit from your Depot CI or Depot GitHub Actions jobs to see failures in context. A single command runs your suite and uploads the report. Split suites by historical timing and they'll automatically rebalance over time.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T19:14:15.820819+00:00",
+  "fetched_at": "2026-07-29T19:14:18.672801+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/07/55/55fdb30ea9cbc9d067247cfce9c808508632b7eb835ac9dbcd5602b67d7793fc/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/07/55/55fdb30ea9cbc9d067247cfce9c808508632b7eb835ac9dbcd5602b67d7793fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6596,
+    "sha256": "sha256:b2f99f080ec96d3b726e060783c5852ccd5b7d4bf92833e61d6fe13c46af79dd",
+    "normalized_content_hash": "sha256:9767316de21c0dce775535f877ff11651ec176e1a75c14598b8ea5d0ebffbcc6"
+  },
+  "provenance": {
+    "source_item_id": "cfa57b10-bbb0-4d34-a417-4f76f3d23c81",
+    "external_id": "https://depot.dev/blog/now-available-test-results"
+  }
+}

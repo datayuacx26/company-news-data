@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ce656e3c377e321e2fa16dd7553f491d44e2234568bef9c3af79d5803ac7d74",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/self-hosting-github-actions",
+    "canonical": "https://depot.dev/blog/self-hosting-github-actions"
+  },
+  "title": "Self-hosted GitHub Actions runners aren't free",
+  "summary": "Self-hosting GitHub Actions runners isn't the \"set it and forget it\" option that folks may think it is. In this post, we will dive into why that is the case, and what the hidden costs are.",
+  "published_at": "2025-04-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:45.279486+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/04/7c/7ce656e3c377e321e2fa16dd7553f491d44e2234568bef9c3af79d5803ac7d74/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/04/7c/7ce656e3c377e321e2fa16dd7553f491d44e2234568bef9c3af79d5803ac7d74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11870,
+    "sha256": "sha256:c93e6307c0094de786c87a8d8070fc2899f2069037786279f50ef2573bdb96e7",
+    "normalized_content_hash": "sha256:d7eb2945723d0ef34f061f75116175964644c78001434e911e0d525d886130a0"
+  },
+  "provenance": {
+    "source_item_id": "822259d9-b869-4cb5-bb59-db0d3d5ad85b",
+    "external_id": "https://depot.dev/blog/self-hosting-github-actions"
+  }
+}

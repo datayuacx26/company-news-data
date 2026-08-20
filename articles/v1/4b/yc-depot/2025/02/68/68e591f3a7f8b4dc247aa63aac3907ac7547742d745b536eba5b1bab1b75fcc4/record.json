@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68e591f3a7f8b4dc247aa63aac3907ac7547742d745b536eba5b1bab1b75fcc4",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/faster-bazel-builds-with-remote-cache",
+    "canonical": "https://depot.dev/blog/faster-bazel-builds-with-remote-cache"
+  },
+  "title": "Faster Bazel builds with remote cache",
+  "summary": "Any project that reaches a certain size will eventually be slow to build. With Bazel, you can accelerate your builds by using a remote cache to compile dependencies once and share them across your environments, like CI pipelines or your local development environment.",
+  "published_at": "2025-02-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/02/68/68e591f3a7f8b4dc247aa63aac3907ac7547742d745b536eba5b1bab1b75fcc4/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/02/68/68e591f3a7f8b4dc247aa63aac3907ac7547742d745b536eba5b1bab1b75fcc4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7451,
+    "sha256": "sha256:87742506e604a2996c85aae7740f24002637a7f8bee3c66b33b81cd83b94e4d1",
+    "normalized_content_hash": "sha256:fb66dad0385818dd0cec51e8c6375170ed4558ff9a27bea9f5321c079381211e"
+  },
+  "provenance": {
+    "source_item_id": "602b0d76-43dc-4789-8a6f-440b3f4c6bf2",
+    "external_id": "https://depot.dev/blog/faster-bazel-builds-with-remote-cache"
+  }
+}

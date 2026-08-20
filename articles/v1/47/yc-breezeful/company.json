@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-breezeful",
+    "name": "Breezeful"
+  },
+  "record_count": 20,
+  "first_published_at": "2021-04-06T13:56:47+00:00",
+  "last_published_at": "2024-03-13T16:36:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/47/yc-breezeful/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 19663,
+        "sha256": "sha256:86ad7e8e21fa182af79ca0935b5ed8173cd8fc8866b7c3e706ccc70d753216c4",
+        "newest_at": "2024-03-13T16:36:00+00:00",
+        "oldest_at": "2021-04-06T13:56:47+00:00"
+      }
+    ]
+  }
+}

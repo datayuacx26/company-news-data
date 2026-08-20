@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d49096de558c338e36b0c778f10cfb5a5bf5f44d0ccc87d3c5c7074e6c026a68",
+  "company": {
+    "key": "yc-elementary",
+    "name": "Elementary"
+  },
+  "source": {
+    "id": "yc-elementary-news-import-909d1fa3bc2c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elementary-data.com/post/october-product-announcements",
+    "canonical": "https://www.elementary-data.com/post/october-product-announcements"
+  },
+  "title": "October Product Announcements | Elementary Data",
+  "summary": "This update introduces Iceberg support with AWS Glue, improved dashboard filtering, performance enhancements, and new notification options.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T02:31:24.735806+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-20T01:09:44.942148+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-elementary/2026/07/d4/d49096de558c338e36b0c778f10cfb5a5bf5f44d0ccc87d3c5c7074e6c026a68/article.md",
+    "record": "articles/v1/43/yc-elementary/2026/07/d4/d49096de558c338e36b0c778f10cfb5a5bf5f44d0ccc87d3c5c7074e6c026a68/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3204,
+    "sha256": "sha256:db996aa8acf31d8f0ca8937730c80a047ac44163e76276dd1aa7c55649e9178d",
+    "normalized_content_hash": "sha256:67028853a2be5df7e196e0c88c6d6dad2826d0b4a476c1e357b08b824f2d0e2b"
+  },
+  "provenance": {
+    "source_item_id": "a81032f6-55e5-4ff4-b691-fd5c77154d48",
+    "external_id": "https://www.elementary-data.com/post/october-product-announcements"
+  }
+}

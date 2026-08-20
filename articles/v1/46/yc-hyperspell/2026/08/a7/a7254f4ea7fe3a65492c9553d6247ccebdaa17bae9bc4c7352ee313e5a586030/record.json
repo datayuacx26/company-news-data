@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7254f4ea7fe3a65492c9553d6247ccebdaa17bae9bc4c7352ee313e5a586030",
+  "company": {
+    "key": "yc-hyperspell",
+    "name": "Hyperspell"
+  },
+  "source": {
+    "id": "yc-hyperspell-news-import-13fe3511aa44",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.hyperspell.com/blog/context-graph-lifecycle",
+    "canonical": "https://www.hyperspell.com/blog/context-graph-lifecycle"
+  },
+  "title": "The Context Graph Lifecycle: From Raw Data to Structure",
+  "summary": "Blog post from Hyperspell",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T23:13:54.426753+00:00",
+  "fetched_at": "2026-08-09T23:13:55.393599+00:00",
+  "last_updated_at": "2026-08-19T21:26:21.446185+00:00",
+  "paths": {
+    "article": "articles/v1/46/yc-hyperspell/2026/08/a7/a7254f4ea7fe3a65492c9553d6247ccebdaa17bae9bc4c7352ee313e5a586030/article.md",
+    "record": "articles/v1/46/yc-hyperspell/2026/08/a7/a7254f4ea7fe3a65492c9553d6247ccebdaa17bae9bc4c7352ee313e5a586030/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18926,
+    "sha256": "sha256:cd917f6a9954e136e3811220039b4888697c81121ee9bd581f3cdd388d2679e3",
+    "normalized_content_hash": "sha256:305dac373626ec6e31960e30757ce4f852f3050637bd3065be0e04002145f46b"
+  },
+  "provenance": {
+    "source_item_id": "0bb1a282-a724-4b81-bdcb-718d93d4235a",
+    "external_id": "https://www.hyperspell.com/blog/context-graph-lifecycle"
+  }
+}

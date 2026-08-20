@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "29e047d4859e0177cc9396fba6cd40c4a72f56d14f12c2a4b3096f045d81ff6c",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/ai-for-observability-your-agent-isnt-crashing-its-lying",
+    "canonical": "https://www.sentrial.com/blog/ai-for-observability-your-agent-isnt-crashing-its-lying"
+  },
+  "title": "Your Dashboards Are Green and Your AI Is Still Failing Users",
+  "summary": "We analyzed 12 million agent logs and found 78% of failures produced zero error signals. Here's what traditional monitoring misses about AI observability, and how to actually catch it.",
+  "published_at": "2026-05-27T06:48:37.987+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/05/29/29e047d4859e0177cc9396fba6cd40c4a72f56d14f12c2a4b3096f045d81ff6c/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/05/29/29e047d4859e0177cc9396fba6cd40c4a72f56d14f12c2a4b3096f045d81ff6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19368,
+    "sha256": "sha256:82b86df33e86fbee7dd8872f23383547f0360f3d72e11c3b1e8ebeeffa61fb8b",
+    "normalized_content_hash": "sha256:740a9eed258fe4a24a39723b4d27c32b65f704e0d760d3dd734ea717ca030909"
+  },
+  "provenance": {
+    "source_item_id": "a1a68d18-1632-4f3a-9d42-2a64e7ef3e95",
+    "external_id": "https://www.sentrial.com/blog/ai-for-observability-your-agent-isnt-crashing-its-lying"
+  }
+}

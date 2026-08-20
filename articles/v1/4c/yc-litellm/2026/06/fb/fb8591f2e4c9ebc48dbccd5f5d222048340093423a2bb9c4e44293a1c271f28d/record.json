@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb8591f2e4c9ebc48dbccd5f5d222048340093423a2bb9c4e44293a1c271f28d",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/litellm-microsoft-assert",
+    "canonical": "https://docs.litellm.ai/blog/litellm-microsoft-assert"
+  },
+  "title": "Announcing LiteLLM x Microsoft ASSERT",
+  "summary": "LiteLLM now integrates with Microsoft ASSERT for policy-driven agent evaluation — catch safety and quality defects before they reach production.",
+  "published_at": "2026-06-03T10:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:27.134316+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/06/fb/fb8591f2e4c9ebc48dbccd5f5d222048340093423a2bb9c4e44293a1c271f28d/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/06/fb/fb8591f2e4c9ebc48dbccd5f5d222048340093423a2bb9c4e44293a1c271f28d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2296,
+    "sha256": "sha256:ebb014a183da600af1b632c764c8ffcaefadd794267ab40155c3b5a6ff5e7e23",
+    "normalized_content_hash": "sha256:c80fec413b194b13953d08943317abaf4de85b8b2cd74d46ac63a9b914888aca"
+  },
+  "provenance": {
+    "source_item_id": "b5cea647-0201-41dd-97d4-67cde62a0535",
+    "external_id": "https://docs.litellm.ai/blog/litellm-microsoft-assert"
+  }
+}

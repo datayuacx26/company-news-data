@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3ec468ca2f763dd9aab848f7e8e775d8b2cb028b3b7c89bd748a7f2db4ccd66a",
+  "company": {
+    "key": "yc-struct-ai",
+    "name": "Struct"
+  },
+  "source": {
+    "id": "yc-struct-ai-rss-e2c56fab48fe",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://struct.ai/articles/canary-vs-blue-green-deployment/",
+    "canonical": "https://struct.ai/articles/canary-vs-blue-green-deployment/"
+  },
+  "title": "Difference Between Canary and Blue-Green Deployment",
+  "summary": "Canary vs blue-green: compare traffic routing, rollback speed & infra cost. Pick the right strategy and cut MTTR faster with Struct.",
+  "published_at": "2026-08-15T05:01:36+00:00",
+  "first_seen_at": "2026-08-15T06:07:16.869373+00:00",
+  "fetched_at": "2026-08-15T06:07:17.735929+00:00",
+  "last_updated_at": "2026-08-20T03:21:32.880579+00:00",
+  "paths": {
+    "article": "articles/v1/7b/yc-struct-ai/2026/08/3e/3ec468ca2f763dd9aab848f7e8e775d8b2cb028b3b7c89bd748a7f2db4ccd66a/article.md",
+    "record": "articles/v1/7b/yc-struct-ai/2026/08/3e/3ec468ca2f763dd9aab848f7e8e775d8b2cb028b3b7c89bd748a7f2db4ccd66a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17032,
+    "sha256": "sha256:31acec9e049c422639669b1215109c6f16441036b635816033f82874373c1fda",
+    "normalized_content_hash": "sha256:2118256447f41ef6812bd322c9f353ac260a3a45d557d9a867364e90970ebfee"
+  },
+  "provenance": {
+    "source_item_id": "b6108db7-a222-4aa8-aaf5-9b8581820bb8",
+    "external_id": "https://struct.ai/articles/canary-vs-blue-green-deployment/"
+  }
+}

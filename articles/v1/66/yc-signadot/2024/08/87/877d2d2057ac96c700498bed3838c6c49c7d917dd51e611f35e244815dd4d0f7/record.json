@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "877d2d2057ac96c700498bed3838c6c49c7d917dd51e611f35e244815dd4d0f7",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/testing-event-driven-architectures-with-opentelemetry/",
+    "canonical": "https://www.signadot.com/blog/testing-event-driven-architectures-with-opentelemetry/"
+  },
+  "title": "Testing Event-Driven Architectures with OpenTelemetry",
+  "summary": "The message isolation approach offers a scalable, cost-effective solution for testing Kafka-based asynchronous workflows.",
+  "published_at": "2024-08-09T15:45:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/08/87/877d2d2057ac96c700498bed3838c6c49c7d917dd51e611f35e244815dd4d0f7/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/08/87/877d2d2057ac96c700498bed3838c6c49c7d917dd51e611f35e244815dd4d0f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8418,
+    "sha256": "sha256:049b72614ddb58f7dc2d49871c8508601f6b09922887a5c958e861c938c475d8",
+    "normalized_content_hash": "sha256:b73debbfa68c00aa3c570203912b02aba34b4840349519cefce1f19155889876"
+  },
+  "provenance": {
+    "source_item_id": "44686d06-1cfb-40c3-895d-76c45172a228",
+    "external_id": "https://www.signadot.com/blog/testing-event-driven-architectures-with-opentelemetry/"
+  }
+}

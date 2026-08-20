@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6719874adf32bd0cf2c968a548ade2e966263b3797506f14865cdbe49268061f",
+  "company": {
+    "key": "yc-roboflow",
+    "name": "Roboflow"
+  },
+  "source": {
+    "id": "yc-roboflow-rss-9175e36df81e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.roboflow.com/how-to-detect-small-objects-in-drone-imagery/",
+    "canonical": "https://blog.roboflow.com/how-to-detect-small-objects-in-drone-imagery/"
+  },
+  "title": "How to Detect Small Objects in Drone Imagery",
+  "summary": "Train RF-DETR to detect people and vehicles that appear small in aerial imagery, then build a Roboflow Workflow that counts detections and uses Gemini to inspect the scene.",
+  "published_at": "2026-08-04T20:38:56+00:00",
+  "first_seen_at": "2026-08-04T20:49:17.876217+00:00",
+  "fetched_at": "2026-08-04T21:21:09.879682+00:00",
+  "last_updated_at": "2026-08-19T18:10:04.172595+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-roboflow/2026/08/67/6719874adf32bd0cf2c968a548ade2e966263b3797506f14865cdbe49268061f/article.md",
+    "record": "articles/v1/63/yc-roboflow/2026/08/67/6719874adf32bd0cf2c968a548ade2e966263b3797506f14865cdbe49268061f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17746,
+    "sha256": "sha256:ed50005b85b56e92f23bef302de20ed3478fc246774b13498817d7720760bb16",
+    "normalized_content_hash": "sha256:be829d94ab494d1d1e612465f1f7cb1cabcba8035c1e1848fe6f8d03f91fa4a3"
+  },
+  "provenance": {
+    "source_item_id": "2cfb489b-6b68-4785-ac41-b021b17097ef",
+    "external_id": "6a70a5d310c2240001c6171b"
+  }
+}

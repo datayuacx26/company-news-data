@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "rank-one-computing-corporation-common-stock",
+    "name": "Rank One Computing Corporation"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-07-07T19:28:17+00:00",
+  "last_published_at": "2026-07-16T19:30:01+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/51/rank-one-computing-corporation-common-stock/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 4209,
+        "sha256": "sha256:cc79594553f4b9332de46321c16acc85563290a0d810d3886ac6ef8ef0597bda",
+        "newest_at": "2026-07-16T19:30:01+00:00",
+        "oldest_at": "2026-07-07T19:28:17+00:00"
+      }
+    ]
+  }
+}

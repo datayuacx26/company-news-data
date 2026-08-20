@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73a2f5c4c23c872f17dadbeb28e9a0e61ba3b0692d91bc9413875ee8eb007928",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/ssl-tls-certificate-management",
+    "canonical": "https://infisical.com/blog/ssl-tls-certificate-management"
+  },
+  "title": "A Complete Guide to SSL/TLS & mTLS Certificate Management",
+  "summary": "SSL/TLS certificate management explained: how certificates work, mTLS, the certificate lifecycle, and how to automate issuance and renewal at scale.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:48:38.169985+00:00",
+  "fetched_at": "2026-07-28T21:23:16.325685+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/06/73/73a2f5c4c23c872f17dadbeb28e9a0e61ba3b0692d91bc9413875ee8eb007928/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/06/73/73a2f5c4c23c872f17dadbeb28e9a0e61ba3b0692d91bc9413875ee8eb007928/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31104,
+    "sha256": "sha256:54d9ee9029bd272403a8cf557e7d57816fcfed65821204ed30f42ce08546f030",
+    "normalized_content_hash": "sha256:d29000b04e8f49ef910c8f68a00b981d1381bbb3076700858040afc60b460305"
+  },
+  "provenance": {
+    "source_item_id": "45303103-6028-4f2c-a764-ef86248a467a",
+    "external_id": "https://infisical.com/blog/ssl-tls-certificate-management"
+  }
+}

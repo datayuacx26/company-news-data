@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c8a502c85dcfd27505b730556a3003d8abe498bfa2473e372dda97c2de922c6",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/using-sandboxes-with-apollo-graphql/",
+    "canonical": "https://www.signadot.com/blog/using-sandboxes-with-apollo-graphql/"
+  },
+  "title": "Using Sandboxes with Apollo GraphQL",
+  "summary": "Safely test federated GraphQL schema changes by pairing Apollo Variants with Signadot Sandboxes; this combination provides isolated, per-Pull Request environments to validate updates without impacting your production traffic.",
+  "published_at": "2025-10-21T15:48:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/10/1c/1c8a502c85dcfd27505b730556a3003d8abe498bfa2473e372dda97c2de922c6/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/10/1c/1c8a502c85dcfd27505b730556a3003d8abe498bfa2473e372dda97c2de922c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9157,
+    "sha256": "sha256:7b59bc40c7487570822cb7854ed0e6e9bf78abb68561952fbfcb675196c6714b",
+    "normalized_content_hash": "sha256:1fc50235a74e9eb88877ae8430df8b9227769d04ac683078ca9a04df120bcbac"
+  },
+  "provenance": {
+    "source_item_id": "cb3a2b5a-9bfa-42dd-9a10-2643e33dc7bf",
+    "external_id": "https://www.signadot.com/blog/using-sandboxes-with-apollo-graphql/"
+  }
+}

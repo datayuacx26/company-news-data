@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sunstone-hotel-investors-inc-sunstone-hotel-investors-inc-common-shares",
+    "name": "Sunstone Hotel Investors Inc. Sunstone Hotel Investors Inc. Common Shares"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-09-25T12:00:00+00:00",
+  "last_published_at": "2026-08-06T11:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4c/sunstone-hotel-investors-inc-sunstone-hotel-investors-inc-common-shares/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14377,
+        "sha256": "sha256:bde0b05cbf3b6b8ef5b368b22a61b3ba884f0b90dbaf4924b19016c8921c0dc7",
+        "newest_at": "2026-08-06T11:30:00+00:00",
+        "oldest_at": "2025-09-25T12:00:00+00:00"
+      }
+    ]
+  }
+}

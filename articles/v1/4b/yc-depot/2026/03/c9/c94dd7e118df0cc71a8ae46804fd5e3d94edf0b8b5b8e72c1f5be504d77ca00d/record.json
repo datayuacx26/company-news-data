@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c94dd7e118df0cc71a8ae46804fd5e3d94edf0b8b5b8e72c1f5be504d77ca00d",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/ci-for-agentic-engineering",
+    "canonical": "https://depot.dev/blog/ci-for-agentic-engineering"
+  },
+  "title": "What we need from CI for agentic engineering",
+  "summary": "Agents can write and push code in seconds, but CI still takes minutes to give them feedback. That mismatch is the biggest bottleneck in agentic engineering today, and it's why CI needed to be rebuilt from scratch.",
+  "published_at": "2026-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/03/c9/c94dd7e118df0cc71a8ae46804fd5e3d94edf0b8b5b8e72c1f5be504d77ca00d/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/03/c9/c94dd7e118df0cc71a8ae46804fd5e3d94edf0b8b5b8e72c1f5be504d77ca00d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11379,
+    "sha256": "sha256:cc0039529a7554dd232cd8902491e614735820884099fae4b420741d1646e253",
+    "normalized_content_hash": "sha256:84818a62b0569cd1bc33986450b910df598caba05365c1b645e9ffb091e33941"
+  },
+  "provenance": {
+    "source_item_id": "bad82e94-bcaf-4296-bc88-8cbd4d07016f",
+    "external_id": "https://depot.dev/blog/ci-for-agentic-engineering"
+  }
+}

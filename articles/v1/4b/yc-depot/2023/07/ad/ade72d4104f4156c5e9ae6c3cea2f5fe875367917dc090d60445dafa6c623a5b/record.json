@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ade72d4104f4156c5e9ae6c3cea2f5fe875367917dc090d60445dafa6c623a5b",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/cache-v2-faster-builds",
+    "canonical": "https://depot.dev/blog/cache-v2-faster-builds"
+  },
+  "title": "Depot Cache v2: Faster builds and new features",
+  "summary": "We're excited to announce our new cache storage architecture that makes builds even faster, eliminates project constraints, and allows you to choose the cache size that makes sense for your project.",
+  "published_at": "2023-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/07/ad/ade72d4104f4156c5e9ae6c3cea2f5fe875367917dc090d60445dafa6c623a5b/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/07/ad/ade72d4104f4156c5e9ae6c3cea2f5fe875367917dc090d60445dafa6c623a5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4707,
+    "sha256": "sha256:ac6ff752064960b25ad50b3a652b4045b8ff6c431b50526bcc2fb7f52bf656b0",
+    "normalized_content_hash": "sha256:5e67d44e350098126466d3a0764f92ab2119e10aae361989f933431929009e25"
+  },
+  "provenance": {
+    "source_item_id": "55a61f25-e9f5-43f0-aac3-6f08c0a09519",
+    "external_id": "https://depot.dev/blog/cache-v2-faster-builds"
+  }
+}

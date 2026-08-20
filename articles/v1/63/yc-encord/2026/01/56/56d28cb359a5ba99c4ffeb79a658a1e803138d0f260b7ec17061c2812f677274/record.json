@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56d28cb359a5ba99c4ffeb79a658a1e803138d0f260b7ec17061c2812f677274",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/data-labeling-guide/",
+    "canonical": "https://encord.com/blog/data-labeling-guide/"
+  },
+  "title": "What is Data Labeling? The Ultimate Guide [2026]",
+  "summary": "TL;DR: Data labelling is what makes raw, messy, real-world data legible to a machine. Without it, models can't tell a stop sign from a billboard",
+  "published_at": "2026-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:06:14.355617+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-07-29T00:27:21.828156+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/01/56/56d28cb359a5ba99c4ffeb79a658a1e803138d0f260b7ec17061c2812f677274/article.md",
+    "record": "articles/v1/63/yc-encord/2026/01/56/56d28cb359a5ba99c4ffeb79a658a1e803138d0f260b7ec17061c2812f677274/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 36318,
+    "sha256": "sha256:26f6150d860e66dd7e1210b27ac699518a0305fea43f85cd4f83fd49b3d3cf8f",
+    "normalized_content_hash": "sha256:a9082836c5bea522313d6ab980073f5c757d4be6a5a88678020897f711948784"
+  },
+  "provenance": {
+    "source_item_id": "8a44f4d2-6cf4-411a-aad8-540f943fcf18",
+    "external_id": "https://encord.com/blog/data-labeling-guide/"
+  }
+}

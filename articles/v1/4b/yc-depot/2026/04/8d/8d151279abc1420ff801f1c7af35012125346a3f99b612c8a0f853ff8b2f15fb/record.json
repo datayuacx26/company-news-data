@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d151279abc1420ff801f1c7af35012125346a3f99b612c8a0f853ff8b2f15fb",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/distributed-rust-fuzzing",
+    "canonical": "https://depot.dev/blog/distributed-rust-fuzzing"
+  },
+  "title": "How I run distributed Rust fuzzing in GitHub Actions",
+  "summary": "With agents writing the initial fuzz harness, the hardest part of getting fuzzing into CI is basically gone. This is the setup I landed on: cargo fuzz, a GitHub Actions matrix job to fan work across multiple runners, and Actions cache to keep the corpus growing between runs.",
+  "published_at": "2026-04-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:45:30.754431+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/04/8d/8d151279abc1420ff801f1c7af35012125346a3f99b612c8a0f853ff8b2f15fb/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/04/8d/8d151279abc1420ff801f1c7af35012125346a3f99b612c8a0f853ff8b2f15fb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12153,
+    "sha256": "sha256:bd53954d58340bf4ba15ba93f96d79c55068a2e0fe0a7bcfea70ccdc9979ee9a",
+    "normalized_content_hash": "sha256:818f6bb2818afe3bbd5a8ed2c45262302311331a2185e9e22ad95c9a33f8036c"
+  },
+  "provenance": {
+    "source_item_id": "23fcb887-29ec-408c-944a-096f5b9a0fdc",
+    "external_id": "https://depot.dev/blog/distributed-rust-fuzzing"
+  }
+}

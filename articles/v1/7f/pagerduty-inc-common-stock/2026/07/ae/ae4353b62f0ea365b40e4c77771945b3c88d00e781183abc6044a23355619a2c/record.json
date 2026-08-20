@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae4353b62f0ea365b40e4c77771945b3c88d00e781183abc6044a23355619a2c",
+  "company": {
+    "key": "pagerduty-inc-common-stock",
+    "name": "PagerDuty Inc."
+  },
+  "source": {
+    "id": "pagerduty-inc-common-stock-rss-b3e2d0380f72",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.pagerduty.com/eng/pagerduty-for-ai-how-the-sre-agent-triages-ai-incidents/",
+    "canonical": "https://www.pagerduty.com/eng/pagerduty-for-ai-how-the-sre-agent-triages-ai-incidents/"
+  },
+  "title": "PagerDuty for AI: How the SRE Agent Triages AI Incidents by PagerDuty Engineering",
+  "summary": "An AI agent that has quietly gone off the rails does not turn a dashboard red. Last year we wrote about defining AI incidents and how we instrument our agents with Arize. In that post, we tackled detection: flagging failures that traditional monitoring never catches. In this post, we cover what happens after the AI incident fires.",
+  "published_at": "2026-07-21T13:56:31+00:00",
+  "first_seen_at": "2026-07-21T16:30:24.397731+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T00:26:24.795748+00:00",
+  "paths": {
+    "article": "articles/v1/7f/pagerduty-inc-common-stock/2026/07/ae/ae4353b62f0ea365b40e4c77771945b3c88d00e781183abc6044a23355619a2c/article.md",
+    "record": "articles/v1/7f/pagerduty-inc-common-stock/2026/07/ae/ae4353b62f0ea365b40e4c77771945b3c88d00e781183abc6044a23355619a2c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10678,
+    "sha256": "sha256:db46657fca3bb50e7eb7c186312d708cb86e6f7c52f35db498959bda862cbd7b",
+    "normalized_content_hash": "sha256:206a19fc67f56373e30b46e01e86fe37fdcee858997e02eb45d99841ddd7a04b"
+  },
+  "provenance": {
+    "source_item_id": "3f143684-83f6-47be-a927-36fa074d7548",
+    "external_id": "https://www.pagerduty.foo/?post_type=eng-blog&p=100745"
+  }
+}

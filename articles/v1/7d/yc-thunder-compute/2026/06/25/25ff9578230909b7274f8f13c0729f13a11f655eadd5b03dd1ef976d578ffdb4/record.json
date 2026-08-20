@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25ff9578230909b7274f8f13c0729f13a11f655eadd5b03dd1ef976d578ffdb4",
+  "company": {
+    "key": "yc-thunder-compute",
+    "name": "Thunder Compute"
+  },
+  "source": {
+    "id": "yc-thunder-compute-news-import-c1dcc13dd65c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.thundercompute.com/blog/how-thunder-compute-works-gpu-over-tcp",
+    "canonical": "https://www.thundercompute.com/blog/how-thunder-compute-works-gpu-over-tcp"
+  },
+  "title": "How Thunder Compute works (GPU-over-TCP)",
+  "summary": "How Thunder Compute's GPU-over-TCP virtualization lets GPUs detach when idle, reconnect in milliseconds, and serve more workloads from the same fleet.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:40:14.192629+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T19:21:57.279191+00:00",
+  "paths": {
+    "article": "articles/v1/7d/yc-thunder-compute/2026/06/25/25ff9578230909b7274f8f13c0729f13a11f655eadd5b03dd1ef976d578ffdb4/article.md",
+    "record": "articles/v1/7d/yc-thunder-compute/2026/06/25/25ff9578230909b7274f8f13c0729f13a11f655eadd5b03dd1ef976d578ffdb4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3773,
+    "sha256": "sha256:cca8affd9dd914a8c55a968bbfb6f59a4e51f617fa6e98ac0c6289d29e89e5ee",
+    "normalized_content_hash": "sha256:6a0fa8c91e8bd9bf816dfe441b98ce95b7ac8ee9447cf1e03e9660844d3b4635"
+  },
+  "provenance": {
+    "source_item_id": "360ba2b1-1e58-4994-b20a-ca521f08beb3",
+    "external_id": "https://www.thundercompute.com/blog/how-thunder-compute-works-gpu-over-tcp"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "562fe2b077a448b0f215931bbb538910b9bb4d8afde8e351df9b75893b704feb",
+  "company": {
+    "key": "yc-howdy-com",
+    "name": "Howdy.com"
+  },
+  "source": {
+    "id": "yc-howdy-com-news-import-7de6c48bfb23",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.howdylatam.com/blog/webhooks-simple-in-docs-not-in-production",
+    "canonical": "https://www.howdylatam.com/blog/webhooks-simple-in-docs-not-in-production"
+  },
+  "title": "Webhooks Are Simple in the Docs. In Production, They're Not.",
+  "summary": "Webhooks look simple in a tutorial. In production they mean duplicate delivery, out-of-order events, forged requests, and retries. Here's what breaks.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T00:05:15.826908+00:00",
+  "fetched_at": "2026-08-18T00:05:16.728051+00:00",
+  "last_updated_at": "2026-08-19T08:24:50.282601+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-howdy-com/2026/08/56/562fe2b077a448b0f215931bbb538910b9bb4d8afde8e351df9b75893b704feb/article.md",
+    "record": "articles/v1/48/yc-howdy-com/2026/08/56/562fe2b077a448b0f215931bbb538910b9bb4d8afde8e351df9b75893b704feb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9635,
+    "sha256": "sha256:1ae1a32cade055e7c0a1aa6c2371a31b4ec0c6b14df6159a63995e9a97622cd6",
+    "normalized_content_hash": "sha256:ef06644da5148ad10469ddb40dd967fa25b4c2b7c2e65a5a5acf6b83335c176b"
+  },
+  "provenance": {
+    "source_item_id": "6cc9f7e4-de3c-4ac7-8572-745f8694fc86",
+    "external_id": "https://www.howdylatam.com/blog/webhooks-simple-in-docs-not-in-production"
+  }
+}

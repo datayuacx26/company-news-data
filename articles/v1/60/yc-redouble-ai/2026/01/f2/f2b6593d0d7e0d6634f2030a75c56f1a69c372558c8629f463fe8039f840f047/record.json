@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2b6593d0d7e0d6634f2030a75c56f1a69c372558c8629f463fe8039f840f047",
+  "company": {
+    "key": "yc-redouble-ai",
+    "name": "Redouble AI"
+  },
+  "source": {
+    "id": "yc-redouble-ai-rss-94bf26a72f2a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://deconvoluteai.com/blog/yara-rules-llm-prompt-security",
+    "canonical": "https://deconvoluteai.com/blog/yara-rules-llm-prompt-security"
+  },
+  "title": "Automated YARA Rule Generation - PII, Secrets, Prompt Injection",
+  "summary": "Tool to generate YARA rules from positive and negative examples using differential n-gram analysis. For PII detection, secret scanning, and prompt injection.",
+  "published_at": "2026-01-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:30:56.530208+00:00",
+  "fetched_at": "2026-07-28T20:54:41.720106+00:00",
+  "last_updated_at": "2026-08-20T01:58:57.445054+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-redouble-ai/2026/01/f2/f2b6593d0d7e0d6634f2030a75c56f1a69c372558c8629f463fe8039f840f047/article.md",
+    "record": "articles/v1/60/yc-redouble-ai/2026/01/f2/f2b6593d0d7e0d6634f2030a75c56f1a69c372558c8629f463fe8039f840f047/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13784,
+    "sha256": "sha256:c3eab047abf4a246911765cc8d7abf3cdfe5c2ad702a2e12ce46c57e06fdad7c",
+    "normalized_content_hash": "sha256:8188a5b86fd7528c3a356434edfe9c3d81119d009607ca60f0348be6a383438e"
+  },
+  "provenance": {
+    "source_item_id": "de79f5d4-501e-4245-aeeb-1e979ef8a57f",
+    "external_id": "https://deconvoluteai.com/blog/yara-rules-llm-prompt-security"
+  }
+}

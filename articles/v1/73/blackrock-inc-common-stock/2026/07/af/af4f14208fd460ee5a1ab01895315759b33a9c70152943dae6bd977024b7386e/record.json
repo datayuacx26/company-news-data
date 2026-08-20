@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af4f14208fd460ee5a1ab01895315759b33a9c70152943dae6bd977024b7386e",
+  "company": {
+    "key": "blackrock-inc-common-stock",
+    "name": "BlackRock Inc."
+  },
+  "source": {
+    "id": "blackrock-inc-common-stock-news-import-711a67b40112",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackrock.com/corporate/newsroom/media/press-releases/us-treasury-selects-blackrock-funds-for-trump-accounts",
+    "canonical": "https://www.blackrock.com/corporate/newsroom/media/press-releases/us-treasury-selects-blackrock-funds-for-trump-accounts"
+  },
+  "title": "U.S. Treasury Selects BlackRock Funds for Trump Accounts",
+  "summary": "The U.S. Treasury announces that two BlackRock iShares exchange traded funds (ETFs) will be offered among the investment options available under Trump Accounts.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T00:41:02.634141+00:00",
+  "fetched_at": "2026-08-18T00:41:05.456818+00:00",
+  "last_updated_at": "2026-08-19T15:47:22.898386+00:00",
+  "paths": {
+    "article": "articles/v1/73/blackrock-inc-common-stock/2026/07/af/af4f14208fd460ee5a1ab01895315759b33a9c70152943dae6bd977024b7386e/article.md",
+    "record": "articles/v1/73/blackrock-inc-common-stock/2026/07/af/af4f14208fd460ee5a1ab01895315759b33a9c70152943dae6bd977024b7386e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5999,
+    "sha256": "sha256:cfc530c41d1ed05331da87db015735f4adb537616aee426d6fc1fbf044d601e3",
+    "normalized_content_hash": "sha256:3705d74f435ed3daa78bb3de7521914768a1aa0e3db588687fa400b0a673185e"
+  },
+  "provenance": {
+    "source_item_id": "de086b62-6581-4305-9f6e-e3ad764c8dd9",
+    "external_id": "https://www.blackrock.com/corporate/newsroom/media/press-releases/us-treasury-selects-blackrock-funds-for-trump-accounts"
+  }
+}

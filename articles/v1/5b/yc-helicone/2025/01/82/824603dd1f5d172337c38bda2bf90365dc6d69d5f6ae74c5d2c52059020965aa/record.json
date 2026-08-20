@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "824603dd1f5d172337c38bda2bf90365dc6d69d5f6ae74c5d2c52059020965aa",
+  "company": {
+    "key": "yc-helicone",
+    "name": "Helicone"
+  },
+  "source": {
+    "id": "yc-helicone-news-import-836d1e549638",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.helicone.ai/blog/switch-to-deepseek",
+    "canonical": "https://www.helicone.ai/blog/switch-to-deepseek"
+  },
+  "title": "How to safely switch your production apps to DeepSeek",
+  "summary": "In this guide, we cover how to perform regression testing, compare models, and transition to DeepSeek with real production data without impacting users.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:44:44.297475+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:39.879646+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-helicone/2025/01/82/824603dd1f5d172337c38bda2bf90365dc6d69d5f6ae74c5d2c52059020965aa/article.md",
+    "record": "articles/v1/5b/yc-helicone/2025/01/82/824603dd1f5d172337c38bda2bf90365dc6d69d5f6ae74c5d2c52059020965aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7748,
+    "sha256": "sha256:40d02c0bc595af5ad37255fe898d3d1313a46d658a7db0ae6b9bc0454505ee60",
+    "normalized_content_hash": "sha256:adbfca044aec7a6b4941b13c392aa852b65b927726aeb1d0ddc64761acf3f11b"
+  },
+  "provenance": {
+    "source_item_id": "5e02e51e-134c-4342-a56f-93d2b2c3b2b2",
+    "external_id": "https://www.helicone.ai/blog/switch-to-deepseek"
+  }
+}

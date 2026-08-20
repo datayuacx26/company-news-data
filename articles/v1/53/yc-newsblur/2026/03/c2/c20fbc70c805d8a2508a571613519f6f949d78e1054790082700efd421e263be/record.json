@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c20fbc70c805d8a2508a571613519f6f949d78e1054790082700efd421e263be",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-26fc52334fc9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/web-feeds-turn-any-website-into-an-rss-feed/13464",
+    "canonical": "https://forum.newsblur.com/t/web-feeds-turn-any-website-into-an-rss-feed/13464"
+  },
+  "title": "Web Feeds: Turn any website into an RSS feed",
+  "summary": "<p>Not every website has an RSS feed. Some never did. Some had one years ago and quietly removed it. And some sites have content that updates regularly but was never structured as a feed in the first place: job boards, product listings, event calendars, changelog pages. Until now, if a site didn’t offer RSS, you were out of luck.</p> Web Feeds is a new feature that creates RSS feeds from any website. Point it at a URL, and NewsBlur analyzes the page structure, identifies the repeating content...",
+  "published_at": "2026-03-13T17:11:57+00:00",
+  "first_seen_at": "2026-07-25T16:10:33.287397+00:00",
+  "fetched_at": "2026-07-28T21:58:45.685125+00:00",
+  "last_updated_at": "2026-08-20T01:10:36.742131+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/03/c2/c20fbc70c805d8a2508a571613519f6f949d78e1054790082700efd421e263be/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/03/c2/c20fbc70c805d8a2508a571613519f6f949d78e1054790082700efd421e263be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4940,
+    "sha256": "sha256:b5d758f95c2cd2a0f97407d2d1c32017035ff7860d04b3a51e695289c8109bd8",
+    "normalized_content_hash": "sha256:e75e8e8c50cb1c910cb074413e88e158aad5dddb337c8c45a0e7b314d962b356"
+  },
+  "provenance": {
+    "source_item_id": "b69a15eb-4433-4d41-af91-47074847c352",
+    "external_id": "forum.newsblur.com-topic-13464"
+  }
+}

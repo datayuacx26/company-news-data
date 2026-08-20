@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-dojah-inc",
+    "name": "Dojah Inc"
+  },
+  "record_count": 21,
+  "first_published_at": "2026-07-16T10:42:41.834+00:00",
+  "last_published_at": "2026-08-18T15:04:15.231+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 11
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6a/yc-dojah-inc/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 21846,
+        "sha256": "sha256:4a377d378709d04be320537a3cfa652e4a8625389d187573d817ee137d504821",
+        "newest_at": "2026-08-18T15:04:15.231+00:00",
+        "oldest_at": "2026-07-16T10:42:41.834+00:00"
+      }
+    ]
+  }
+}

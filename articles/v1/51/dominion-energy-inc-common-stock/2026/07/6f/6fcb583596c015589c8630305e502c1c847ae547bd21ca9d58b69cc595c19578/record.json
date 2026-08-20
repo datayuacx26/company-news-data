@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6fcb583596c015589c8630305e502c1c847ae547bd21ca9d58b69cc595c19578",
+  "company": {
+    "key": "dominion-energy-inc-common-stock",
+    "name": "Dominion Energy Inc."
+  },
+  "source": {
+    "id": "dominion-energy-inc-common-stock-news-import-a8237425956e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.dominionenergy.com/press-releases/South-Carolina/default.aspx",
+    "canonical": "https://news.dominionenergy.com/press-releases/South-Carolina/default.aspx"
+  },
+  "title": "South Carolina",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:48:22.597146+00:00",
+  "fetched_at": "2026-07-23T10:19:09.901665+00:00",
+  "last_updated_at": "2026-07-23T10:19:10.975798+00:00",
+  "paths": {
+    "article": "articles/v1/51/dominion-energy-inc-common-stock/2026/07/6f/6fcb583596c015589c8630305e502c1c847ae547bd21ca9d58b69cc595c19578/article.md",
+    "record": "articles/v1/51/dominion-energy-inc-common-stock/2026/07/6f/6fcb583596c015589c8630305e502c1c847ae547bd21ca9d58b69cc595c19578/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1487,
+    "sha256": "sha256:5af4a825f8e77124d77e47c679d304d8ef463a14056879469d6e3cb50f40dfbe",
+    "normalized_content_hash": "sha256:e4932505149d1aa645aa0d3ab7e9d319c9970bac88a9d5f5e8a76e5e7233cafa"
+  },
+  "provenance": {
+    "source_item_id": "729aab42-b36f-4259-833b-29748e84921f",
+    "external_id": "https://news.dominionenergy.com/press-releases/South-Carolina/default.aspx"
+  }
+}

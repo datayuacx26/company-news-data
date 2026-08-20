@@ -1,0 +1,596 @@
+---
+schema_version: "1.0.0"
+document_id: "8495ae6d14750473be42e140e569c10ab7f8f2c0faddc9ab165355efbf025087"
+company_key: "lineage-inc-common-stock"
+company: "Lineage Inc."
+source_id: "lineage-inc-common-stock-rss-e66612fb33a7"
+canonical_url: "https://www.onelineage.com/StartingLINE-es"
+published_at: "2024-07-23T15:23:47+00:00"
+first_seen_at: "2026-07-20T23:22:16.521419+00:00"
+fetched_at: "2026-08-20T02:11:24.607530+00:00"
+content_hash: "sha256:41780d150a5a49fa989a7fb948d838713d24c0de9483543cb488d96a08a04d14"
+---
+
+# Starting LINE
+
+Starting LINE #}
+
+
+#OneLineage
+
+
+# Hoy es nuestra Starting LINE
+
+
+Más información
+
+
+#OneLineage
+
+
+# Hoy es nuestra Starting LINE
+
+
+Más información
+
+
+## ¡Bienvenido, equipo de Lineage!
+
+
+Este equipo es incansable en su compromiso de vivir según el propósito de Lineage de transformar la cadena de suministro de alimentos para eliminar los desechos y ayudar a alimentar al mundo.
+
+
+En pocas palabras, cada miembro del equipo asume la responsabilidad personal de su trabajo esencial. Y ahora queremos que pueda compartir el éxito de la compañía que ayudó a construir, así como los logros futuros que esperamos alcanzar juntos en los próximos años.
+
+
+En consecuencia, estamos orgullosos de reconocer y recompensar la mentalidad de propiedad que ha demostrado a través de la oferta de un nuevo beneficio basado en acciones que permita a los miembros de nuestro equipo convertirse en verdaderos propietarios de Lineage.
+
+
+Starting LINE
+
+
+Los miembros del equipo de EE. UU. empleados al 1 de julio de 2024 son elegibles para la Asignación Starting LINE, lo que lo encamina a convertirse en propietario oficial de Lineage.
+
+
+Más información
+
+
+Administre sus asignaciones
+
+
+Una vez que haya aceptado su asignación, le conviene comprender las herramientas disponibles para usted y obtener más información sobre la tenencia y venta de sus acciones de Lineage.
+
+
+Más información
+
+
+Recursos de apoyo
+
+
+Obtenga acceso rápido a los recursos clave que necesitará y comuníquese con nuestro administrador del plan, Morgan Stanley.
+
+
+Más información
+
+
+Lineage Legacies
+
+
+Este es solo el comienzo. A través del próximo programa Legacies, esperamos ampliar aún más el acceso a las oportunidades de propiedad.
+
+
+Más información
+
+
+rpower@go-yama…
+
+
+Tue, 07/23/2024 - 15:23
+
+
+## Anuncio: Asignaciones Starting LINE
+
+
+Para celebrar la oferta pública inicial de Lineage, los miembros del equipo de EE. UU. empleados en la compañía al 1 de julio de 2024 serán elegibles para lo que hemos denominado Asignaciones Starting LINE.
+
+
+Las asignaciones para nuestro equipo de EE. UU. se han emitido en forma de acciones de la compañía Lineage o Unidades de Acciones Restringidas (Restricted Stock Units, RSU).
+
+
+El objetivo de esta asignación única de celebración es agradecer a nuestro equipo en todos los niveles de la compañía y brindar una oportunidad para generar riqueza por su servicio y dedicación continuos a Lineage.
+
+
+GRACIAS por todo lo que han hecho por Lineage. ¡Estamos ansiosos por ver lo que este equipo logrará en los próximos años!
+
+
+Su apropiación personal del trabajo y su compromiso con la compañía han permitido a Lineage alcanzar el hito de convertirse en una compañía que cotiza en bolsa. Hoy puede ser nuestra Starting LINE, pero sabemos que este equipo ha movido montañas para llegar aquí.
+
+
+Los miembros elegibles del equipo de EE. UU. reciben sus asignaciones en forma de acciones de la compañía O lo que se conoce como Unidades de Acciones Restringidas (RSU). Estas asignaciones se crearon para permitirle beneficiarse del éxito futuro de la compañía y para fomentar aún más el sentido de propiedad personal mostrado por los miembros de nuestro equipo, poniéndole en el camino de convertirse realmente en propietario de la compañía.
+
+
+El valor de sus acciones/RSU otorgadas puede rastrearse en el futuro mediante el rendimiento de las acciones de Lineage en la bolsa de valores NASDAQ (indicador: LINE).
+
+
+Tenga en cuenta que no se podrá acceder de inmediato a las Asignaciones Starting LINE en Shareworks.
+
+
+**La asignación se publicará en Shareworks el 26 de agosto de 2024 o alrededor de esa fecha, sujeto a su empleo continuo con Lineage hasta la fecha de otorgamiento.**
+
+
+Si ha creado una cuenta de Shareworks antes de ese momento, recibirá una notificación por correo electrónico cuando su asignación se publique, lo que le permitirá aceptarla formalmente.
+
+
+## Preguntas frecuentes
+
+
+-
+-
+
+
+Si va a la sección “Administrar Asignaciones” de este sitio, verá instrucciones paso a paso descritas en la pregunta superior titulada “ACCIÓN NECESARIA: Cómo aceptar su otorgamiento en Shareworks”.
+
+
+-
+-
+
+
+Todos los miembros del equipo de los EE. UU., contratados antes del 1 de julio de 2024 y empleados activos a la fecha de otorgamiento (el 26 de agosto o alrededor de esa fecha), son elegibles para recibir Asignaciones Starting LINE en forma de acciones de la compañía o Unidades de Acciones Restringidas (RSU).
+
+
+Comuníquese con su socio local de RR. HH. si tiene alguna pregunta sobre la elegibilidad.
+
+
+-
+-
+
+
+Nuestra Junta Directiva, Fundadores y Equipo de Liderazgo Ejecutivo querían darle las GRACIAS a nuestro dedicado equipo de OneLineage por su servicio y compromiso con la compañía en honor a la oferta pública inicial de la compañía.
+
+
+-
+-
+
+
+El valor de su asignación estará vinculado al valor actual de las acciones que cotizan en bolsa de Lineage (indicador: LINE) multiplicado por la cantidad de unidades que usted posee.
+
+
+Junto con los miembros de nuestro equipo, esperamos continuar aumentando el valor de Lineage y sus acciones a través de nuestros esfuerzos combinados para lograr resultados financieros sólidos.
+
+
+Dicho esto, el crecimiento no está garantizado y requerirá el arduo trabajo sostenido de todo nuestro equipo.
+
+
+-
+-
+
+
+La Junta Directiva de Lineage y nuestros Inversionistas han proporcionado un fondo de aproximadamente $130 millones para ser utilizado para las Asignaciones Starting LINE como asignación única de agradecimiento por el servicio y la dedicación de los miembros del equipo a Lineage. Estas asignaciones discrecionales varían, pero se basan en una serie de factores de elegibilidad, incluidos, en parte, los años de servicio en Lineage.
+
+
+-
+-
+
+
+Deberá proporcionar una dirección de correo electrónico activa; si no tiene una, deberá crear una y agregar esa dirección de correo electrónico como su dirección de correo electrónico “Hogar (Principal)” en Workday. Este es un requisito porque nos permite desembolsar ese otorgamiento a través de nuestra plataforma en línea Shareworks.
+
+
+Además, debe aceptar su Asignación Starting LINE y todos los términos y condiciones del plan en Shareworks dentro de los 6 meses de su emisión (después de lo cual se perderán todas las asignaciones no aceptadas).
+
+
+Esta es una asignación proporcionada por Lineage; no es necesario que realice ningún tipo de inversión individual para participar.
+
+
+-
+-
+
+
+El programa de Asignaciones Starting Line implica una asignación discrecional única. Sin embargo, en el futuro, esperamos proporcionar otorgamientos de propiedad adicionales a algunos miembros del equipo elegibles a través de un nuevo programa llamado Legacies, sobre el cual compartiremos información adicional en los próximos meses.
+
+
+-
+-
+
+
+Una RSU o Unidad de Acciones Restringidas es el derecho a una acción de una empresa (en este caso, acciones ordinarias de Lineage) una vez que el participante haya cumplido con los criterios de adquisición de los derechos. Consulte esta[descripción general](https://www.onelineage.com/sites/default/files/2024-07/RSU_Basics_Overview.pdf) de Morgan Stanley que detalla los aspectos básicos sobre qué son las RSU y cómo funcionan.
+
+
+-
+-
+
+
+Las Asignaciones Starting LINE están sujetas a los requisitos de adquisición de derechos para los miembros del equipo que han estado en la compañía durante menos de dos años. En ese caso, el miembro del equipo debe permanecer empleado por Lineage hasta la fecha de adquisición de derechos para recibir las acciones ordinarias.
+
+
+Por ejemplo: Si un participante tiene un otorgamiento para el que se adquieren derechos en julio de 2025 y deja la compañía en junio de 2025, el participante pierde la RSU. Si un participante tiene un otorgamiento de RSU para el que se adquieren derechos en julio de 2025, pero deja Lineage en agosto de 2025 o después, la asignación habrá adquirido derechos y las acciones ordinarias serán suyas.
+
+
+-
+-
+
+
+Cualquier asignación con derechos adquiridos, incluidos los otorgamientos de acciones directos, será suya y no estará sujeta a ningún requisito de servicio en Lineage.
+
+
+Todas las Unidades de Acciones Restringidas (RSU) sin derechos adquiridos requerirán que usted siga siendo empleado de Lineage hasta la fecha en que adquieren derechos; si abandona la compañía antes de esa fecha, sus RSU se pierden.
+
+
+Por ejemplo: Tiene un otorgamiento que adquiere derechos en julio de 2025 y abandona la compañía en junio de 2025, usted pierde la asignación. Si tiene un otorgamiento para el que se adquieren derechos en julio de 2025, pero deja Lineage en agosto de 2025 o después, la asignación habrá adquirido derechos y las acciones ordinarias serán suyas.
+
+
+-
+-
+
+
+También se puede acceder al sitio web de Starting LINE que está navegando actualmente en inglés y español. Puede hacer clic en “ESPAÑOL” en la parte superior derecha (o dentro del menú en dispositivos móviles). Además, la plataforma Shareworks está disponible en 18 idiomas diferentes y ofrece soporte a través del centro de llamadas en un total de 160 idiomas.
+
+
+## Administre sus asignaciones
+
+
+Las Asignaciones Starting LINE se emitieron como acciones de la compañía o Unidades de Acciones Restringidas (RSU) que reflejan su antigüedad en Lineage.
+
+
+Los miembros del equipo elegibles que hayan estado en Lineage durante más de dos años (al 1 de julio de 2024) recibirán acciones de la compañía.
+
+
+Los miembros del equipo elegibles más nuevos empleados al 1 de julio recibirán RSU que se convertirán en acciones de la compañía una vez que hayan adquirido derechos.
+
+
+El objetivo de estos programas es encaminar a cada uno de ustedes para convertirse en accionistas y propietarios oficiales de Lineage.
+
+
+A continuación, exponemos las acciones que debe llevar a cabo para aceptar formalmente sus otorgamientos, así como algunas consideraciones clave que debe tener en cuenta al recibir RSU y/o convertirse en propietario de acciones de Lineage.
+
+
+Más allá de lo que podemos compartir en esta página, es probable que tenga algunas preguntas sobre cómo funciona todo esto y que surjan más en el futuro. Le recomendamos que recurra a nuestro socio de servicio, Morgan Stanley, para obtener asistencia. Cuenta con una profunda comprensión del proceso y tiene acceso a una gran cantidad de recursos para ayudarle a comprender y administrar sus asignaciones.
+
+
+## Preguntas frecuentes
+
+
+-
+-
+
+
+**Cree una cuenta en Shareworks**
+
+
+Utilice la dirección de correo electrónico de su empresa (si tiene una) O la dirección de correo electrónico personal que figura como su dirección “Hogar (Principal)” dentro de Workday para crear su cuenta en la plataforma Shareworks. Estos son los pasos que deberá seguir:
+
+
+1. Visite[https://shareworks.com/activate](https://shareworks.com/activate) (se abre en una nueva pestaña)
+2. Ingrese la dirección de correo electrónico de su empresa.
+3. Complete la sección de captcha.
+4. En 30 minutos, recibirá un correo electrónico con un enlace para activar su cuenta.
+
+
+1. Nota: El mensaje de correo electrónico puede incluir información específica para tener a mano a fin de completar el proceso de activación.
+
+
+5. Haga clic en el enlace para acceder a una página de verificación e ingrese la información de identificación requerida.
+6. Una vez verificada su identidad, se crea un ID de inicio de sesión, un nombre de usuario y una contraseña.
+
+
+1. Nota: Si decide no crear un nombre de usuario, se le proporcionará un número de cuenta como nombre de usuario.
+
+
+7. Una vez que se crean las credenciales de inicio de sesión, se proporciona acceso inmediato a su cuenta.
+
+
+**Acepte la asignación**
+Una vez que haya creado su cuenta, deberá iniciar sesión en Shareworks y completar los siguientes pasos para “aceptar” formalmente su Asignación Starting LINE.
+
+
+1. Inicie sesión en su cuenta de Shareworks y haga clic en “Ver” para comenzar el proceso de aceptación del otorgamiento.
+2. Revise el acuerdo de otorgamiento y los demás documentos del plan.
+3. Marque las casillas para confirmar que abrió y leyó todos los documentos y haga clic en “Aceptar”.
+
+
+Consulte la siguiente[guía rápida](https://www.onelineage.com/sites/default/files/2024-07/Grant_Acceptance_Morgan_Stanley_Shareworks.pdf) para el proceso anterior con las capturas de pantalla adjuntas.
+
+
+-
+-
+
+
+Esperamos que con este programa nuestro equipo pueda construir un verdadero legado para sí mismo y sus seres queridos.
+
+
+Una vez que adquieren derechos, estos otorgamientos serán suyos para hacer lo que considere conveniente. Al conservar las acciones, tendrá la posibilidad de que su valor crezca si la valuación de la compañía crece durante ese período. Sin embargo, también puede venderlas y usar el dinero para lo que usted desee.
+
+
+Recuerde que las inversiones implican riesgos.
+
+
+-
+-
+
+
+Puede administrar las acciones que posee iniciando sesión en su cuenta de Shareworks en cualquier momento. Consulte esta[guía](https://www.onelineage.com/sites/default/files/2024-07/How_to_Transfer_Shares_from_Morgan_Stanley_Shareworks.pdf) para obtener instrucciones paso a paso sobre cómo vender acciones.
+
+
+Le recordamos que usted no es titular de acciones ordinarias si se le otorgó una RSU que aún no adquirió derechos. Deberá esperar hasta que se hayan cumplido esos requisitos de adquisición de derechos y las acciones se depositen en su cuenta para poder conservar o vender esas acciones.
+
+
+A través de nuestra relación con Morgan Stanley, puede[transferir](https://www.morganstanley.com/atwork/support/how-do-i-sell-or-transact-on-my-shares) cualquier acción a su plataforma de corretaje de Etrade. Las acciones se pueden vender en esa plataforma o se pueden transferir a otra plataforma de corretaje de su elección y se pueden conservar o vender.
+
+
+**Se cobra un cargo fijo por servicio de $9.99 para vender acciones a través de su cuenta de Shareworks y una comisión de $0 para vender a través de la plataforma E*TRADE.** Si inicia una venta a través del centro de llamadas, se aplica un cargo de $25 por operación.
+
+
+-
+-
+
+
+Sabemos que los impuestos son confusos y a menudo frustrantes. Lineage no puede ofrecer asesoramiento fiscal a los miembros de nuestro equipo (cada una de nuestras situaciones personales es diferente), pero hemos reunido algún contexto básico en torno a lo que puede esperar cuando se trata de impuestos con respecto a las acciones de su compañía/asignaciones de RSU.
+
+
+**Asignación inicial de RSU/Acciones**
+
+
+En el momento de la adquisición de derechos/entrega, las RSU están sujetas a retención de impuestos a tasas de retención de salario complementarias. Lo mismo sucede con las asignaciones de acciones directas que no están sujetas a requisitos de adquisición de derechos.
+
+
+Para cubrir cualquier obligación de retención de impuestos requerida, Lineage retendrá automáticamente acciones en función de su responsabilidad fiscal estimada.
+
+
+Dentro de su cuenta de Shareworks, verá la nueva cantidad neta de acciones que se le liberarán después de la retención de impuestos.
+
+
+*Nota: Los ingresos de la adquisición de derechos/entrega de RSU se reflejarán en su Formulario W-2 al final del año. Si bien las acciones se retienen/venden para cubrir las obligaciones impositivas en el momento de la adquisición de derechos/entrega, no se emite el Formulario 1099 para esta transacción.*
+
+
+**Conceptos básicos de impuestos para transacciones del plan de acciones (ventas de acciones)**
+
+
+La declaración de impuestos para las transacciones del plan de acciones puede ser confusa, ya que debe comprender las leyes y reglamentaciones del impuesto a la renta federal, así como saber qué formularios del Servicio de Rentas Internas (Internal Revenue Service, IRS) deben presentarse.
+
+
+Si vende acciones debido a la participación en el plan de acciones de su empresa, es posible que deba hacer lo siguiente:
+
+
+- Consultar la base de costos en su cuenta
+- Hacer cualquier ajuste, si es necesario
+- Determinar si obtuvo una ganancia o pérdida de capital
+
+
+Si vende sus acciones de Lineage a un precio mayor que su base de costos (es decir, el precio de las acciones al que originalmente recibió las acciones), usted será responsable de pagar un impuesto sobre la diferencia entre el precio de venta y la base de costos. Buenas noticias: no adeudará nada el día en que venda las acciones. Este “impuesto sobre las ganancias de capital” se pagará el siguiente año fiscal como parte de su proceso anual de presentación de impuestos.
+
+
+Si vende las acciones en los 365 días siguientes a la recepción de las mismas, el tipo impositivo aplicado a esa ganancia de capital es su tasa personal del impuesto sobre la renta ordinaria. Si vende las acciones después de haberlas tenido durante más de un año, estará sujeto a “TASAS IMPOSITIVAS SOBRE GANANCIAS DE CAPITAL A LARGO PLAZO”, que pueden ser sustancialmente inferiores a su tasa impositiva estándar (las tasas impositivas sobre ganancias de capital exactas están sujetas al nivel de ingresos de ese año fiscal determinado).
+
+
+Morgan Stanley le entregará un Formulario 1099 el año posterior a la venta de sus acciones, generalmente en febrero o marzo. Este formulario se encontrará en su cuenta en línea y le ayudará a calcular su ganancia o pérdida en una venta.
+
+
+Para simplificar el proceso,[aquí se incluye información básica sobre las ventas de acciones](https://www.onelineage.com/sites/default/files/2024-07/Tax_Filing_Basics_for_Stock_Plan_Transactions_For_U.S._Participants.pdf) que puede ayudarle a tener una temporada de impuestos menos estresante.
+
+
+Para su comodidad, obtenga más información sobre:
+
+
+- [¿Cómo completo el Formulario W-9?](https://www.morganstanley.com/atwork/support/how-do-I-complete-the-form-w-9)
+- [¿Cómo completo el Formulario W-8BEN?](https://www.morganstanley.com/atwork/support/how-do-I-complete-the-form-w-8ben)
+- [Aspectos básicos de las RSU (incluidos los impuestos)](https://www.onelineage.com/sites/default/files/2024-07/RSU_Basics_Overview.pdf)
+
+
+**Dividendos**
+
+
+*Como Fideicomiso de Inversión en Bienes Raíces (Real Estate Investment Trust, REIT), Lineage deberá pagar un dividendo de al menos el 90 por ciento de sus ingresos gravables cada año a los accionistas.*
+
+
+*Para los REIT, las distribuciones de dividendos a los fines impositivos se asignan a ingresos ordinarios, ganancias de capital y retorno de capital (cada uno de los cuales puede gravarse en una variedad de tasas impositivas únicas).*
+
+
+*Todas las compañías que cotizan en bolsa, incluidos los REIT, deben proporcionar a los accionistas información que indique claramente cómo deben asignarse los dividendos del año anterior para fines fiscales.*
+
+
+***La imponibilidad de cualquier dividendo se le informará en su Formulario 1099-DIV.***
+
+
+*Además, Lineage emitirá un comunicado de prensa junto con la emisión de los Formularios 1099 que describe la imponibilidad de sus dividendos anuales.*
+
+
+*Divulgación: Estas declaraciones no pretenden ser una opinión formal de las consecuencias fiscales y, en consecuencia, es posible que no contengan una descripción completa de todos los hechos o un análisis completo de todos los asuntos fiscales y autoridades relevantes. El análisis y las conclusiones analizadas se basan en nuestra comprensión de los hechos, supuestos, información y documentos a los que se hace referencia en el presente, así como las leyes fiscales actuales y las autoridades fiscales publicadas vigentes a la fecha de esta presentación, que están sujetas a cambios. Si los hechos o supuestos descritos en el presente son incorrectos o cambian, o si las leyes fiscales cambian, nuestro análisis y nuestras conclusiones también estarían sujetos a cambios.*
+
+
+-
+-
+
+
+Los dividendos son pagos realizados a los accionistas de una parte de las ganancias de la compañía. Estas distribuciones surgen de sus ganancias/utilidades del año fiscal actual, luego de las ganancias/utilidades acumuladas de años anteriores.
+
+
+Los accionistas recibirán pagos de dividendos una vez declarados y pagados. Esto tradicionalmente ocurre trimestralmente, y las declaraciones de dividendos están sujetas a cambios por parte de Lineage.
+
+
+Para los REIT, las distribuciones de dividendos a los fines impositivos se asignan a ingresos ordinarios, ganancias de capital y retorno de capital (cada uno de los cuales puede gravarse en una variedad de tasas impositivas únicas).
+
+
+Todas las compañías públicas, incluidos los REIT, deben proporcionar a los accionistas información que indique claramente cómo deben asignarse los dividendos del año anterior para fines fiscales.
+
+
+La imponibilidad del dividendo se le informará en su Formulario 1099-DIV. Además, Lineage emitirá un comunicado de prensa junto con la emisión de los Formularios 1099 que describe la imponibilidad de sus dividendos anuales.
+
+
+-
+-
+
+
+En el futuro, los miembros de nuestro equipo de EE. UU. tendrán acceso a servicios adicionales de asesoramiento financiero de Morgan Stanley, incluso para preguntas relacionadas con los diversos beneficios y programas de compensación de Lineage.
+
+
+Morgan Stanley también está disponible de manera más general para ofrecer asesoramiento sobre las grandes preguntas financieras que usted y su familia pueden enfrentar, como:
+
+
+- Ahorrar para la educación universitaria de un hijo
+- Formas de reducir una deuda
+- Cómo crear un plan de presupuesto
+- Cómo pagar préstamos estudiantiles
+- Mejorar su crédito
+
+
+Durante todo el año, habrá horarios de atención dedicados disponibles para usted y sus familiares, así como apoyo continuo de asesores financieros a través de consultas financieras virtuales.
+
+
+Lineage le proporciona estas llamadas/consultas/reuniones de forma gratuita y usted no tiene ninguna obligación de invertir su dinero personal en Morgan Stanley. Su Asesor Financiero puede describir los tipos de relaciones autodirigidas o de asesoramiento que ofrece Morgan Stanley.
+
+
+Haga clic[aquí](https://www.morganstanley.com/what-we-do/wealth-management/morgan-stanley-virtual-advisor) para programar una reunión con un asesor virtual de Morgan Stanley hoy mismo.
+
+
+-
+-
+
+
+Una vez que la asignación de acciones ha adquirido derechos, usted es el propietario absoluto de las acciones. Por lo tanto, no tiene ninguna obligación con la compañía con respecto a esas acciones, incluso en el caso de que finalice su empleo en Lineage. Como tal, si deja Lineage, no tendrá que devolver nada a la compañía.
+
+
+-
+-
+
+
+Los participantes pueden regalar acciones con derechos plenos y ganadas. Sin embargo, las RSU no son transferibles hasta que hayan adquirido derechos. Consulte la siguiente[página](https://www.onelineage.com/morgan-stanley-gift) de Morgan Stanley con algunos consejos útiles y antecedentes.
+
+
+-
+-
+
+
+Consulte las siguientes[instrucciones](https://www.onelineage.com/sites/default/files/2024-07/Beneficiary_Guide_for_Morgan_Stanley_Shareworks.pdf) sobre el proceso de beneficiarios en Shareworks.
+
+
+-
+-
+
+
+Los participantes del programa deben completar todos los pasos necesarios y la inscripción dentro de los 6 meses del otorgamiento. Si eso no se completa, ese otorgamiento se cancelará y todas las acciones se perderán, independientemente de la situación laboral. Encuentre más información en esta[guía de apertura de cuenta](https://www.onelineage.com/sites/default/files/2024-07/ETRADE_Account_Opening_Guide.pdf) .
+
+
+-
+-
+
+
+La mayoría de los proveedores de correo electrónico ofrecen opciones de cuentas de correo electrónico gratuitas; aquí hay enlaces rápidos para crear cuentas de correo electrónico en[Gmail](https://support.google.com/mail/answer/56256?hl=en) y[Yahoo](https://login.yahoo.com/account/create) .
+
+
+-
+-
+
+
+Los participantes pueden acceder a la página de inicio a través de una dirección web o Workday a través del kiosco del sitio. Si no hay un quiosco disponible, comuníquese con el socio de RR. HH. para obtener información sobre el acceso a Internet gratuito y los servicios en su área.
+
+
+## Lineage Legacies
+
+
+Sabemos que convertirnos en una empresa que cotiza en bolsa no es la meta de nuestra historia, sino realmente el comienzo.
+
+
+Las Asignaciones Starting LINE de hoy representan el primero de un nuevo tipo de beneficio para los miembros que estamos implementando con el equipo de EE. UU. A partir de nuestras Asignaciones Starting LINE, Lineage planea implementar un programa de propiedad permanente al que llamamos Programa Lineage Legacies.
+
+
+El objetivo de Legacies será nutrir y recompensar la mentalidad de propiedad que muestra nuestro equipo a través del otorgamiento de Unidades de Acciones Restringidas (RSU) de manera continua.
+
+
+Actualmente estamos trabajando para reforzar los detalles del plan y esperamos lanzar formalmente Legacies en 2025. ¡Más novedades!
+
+
+#ONELINEAGE
+
+
+La mentalidad de propiedad del equipo #OneLineage es la razón por la que hemos llegado a este momento y es la forma en que tendremos éxito en el futuro.
+
+
+A medida que cada uno de nosotros continúe PENSANDO y ACTUANDO como propietarios, los miembros del equipo elegibles recibirán otorgamientos futuros en reconocimiento de ese arduo trabajo y compromiso a través del Programa Legacies.
+
+
+## Recursos de apoyo
+
+
+Independientemente de su nivel de experiencia con la propiedad de acciones o RSU, es probable que tenga algunas preguntas. Aproveche estos recursos y enlaces rápidos para obtener la información que necesita para aprovechar al máximo sus asignaciones.
+
+
+Cree su cuenta de Shareworks
+
+
+Para comenzar a usar Shareworks, todo lo que necesitará es la dirección de correo electrónico de su empresa O la dirección de correo electrónico personal que aparece como su dirección “Hogar (Principal)” dentro de Workday.
+
+
+[MÁS INFORMACIÓN](https://www.morganstanley.com/atwork/support/how-do-i-activate-my-shareworks-account)
+
+
+Inicie sesión en Shareworks
+
+
+Haga clic en el enlace a continuación para acceder a la página de inicio de sesión de Shareworks. Tenga en cuenta que debe haber creado su cuenta anteriormente para iniciar sesión.
+
+
+[MÁS INFORMACIÓN](https://www.morganstanley.com/atwork/support/how-do-i-log-into-shareworks)
+
+
+Restablecimiento de contraseña
+
+
+Las instrucciones para restablecer la contraseña se enviarán a la dirección de correo electrónico del participante; consulte las siguientes instrucciones de Morgan Stanley.
+
+
+[MÁS INFORMACIÓN](https://www.morganstanley.com/atwork/support/how-do-i-change-my-password)
+
+
+Administre sus acciones
+
+
+Le recomendamos que hable con nuestros socios de Morgan Stanley para que le ayuden a evaluar el valor de sus asignaciones y obtener asesoramiento sobre su situación financiera.
+
+
+[MÁS INFORMACIÓN](https://www.morganstanley.com/what-we-do/wealth-management/morgan-stanley-virtual-advisor)
+
+
+Centro de soporte de Shareworks
+
+
+Acceda a recursos e instrucciones fáciles para acciones comunes que deberá realizar en la plataforma Shareworks de Morgan Stanley, como activar y desbloquear su cuenta, cambiar su contraseña, etc.
+
+
+[MÁS INFORMACIÓN](https://www.morganstanley.com/atwork/employees/support/support-center)
+
+
+[Contáctenos | Morgan Stanley at Work](https://www.morganstanley.com/)
+
+
+También puede comunicarse con Morgan Stanley por teléfono a los números que se indican a continuación:
+
+
+- Norteamérica: 1-877-380-7793 | 8:00 a. m. a 8:00 p. m. (hora del este)
+- Québec: 1-877-214-4763 | 8:00 a. m. a 8:00 p. m. (hora del este)
+- Australia: 1-800-768-002 | 9:30 a. m. a 4:30 p. m. (hora del este en Australia)
+- Reino Unido: 0-808-234-9514 | 8:00 a. m. a 6:00 p. m. (Hora del Meridiano de Greenwich)
+- Hong Kong: 800-906-061 | 8:00 a. m. a 6:00 p. m. (Hora de Hong Kong)
+- Otras ubicaciones: 1-403-515-3909 | de 8:00 a. m. a 8:00 p. m. (hora del este)
+
+
+Bienvenido
+
+
+Starting LINE
+
+
+Administrar asignaciones
+
+
+Recursos
+
+
+Lineage Legacies
+
+
+Spanish
+
+
+Las asignaciones descritas en el presente estarán sujetas a los términos y condiciones del Plan de Asignaciones de Incentivos de Lineage 2024 Enmendado y Reformulado y a los acuerdos de asignaciones aplicables (en conjunto, “documentos de asignación”) prescritos por Lineage.
+
+
+En caso de cualquier inconsistencia entre la información de este aviso y los documentos de asignación, prevalecerán los documentos de asignación. La fecha de otorgamiento de las Asignaciones Starting LINE a los miembros del equipo elegibles será el 26 de agosto de 2024 o alrededor de esa fecha, sujeto a la continuación del empleo con Lineage hasta la fecha de otorgamiento. Los miembros actuales del equipo DEBEN aceptar formalmente su asignación dentro de los 6 meses de la fecha de otorgamiento; los otorgamientos no aceptados se perderán después de ese momento.

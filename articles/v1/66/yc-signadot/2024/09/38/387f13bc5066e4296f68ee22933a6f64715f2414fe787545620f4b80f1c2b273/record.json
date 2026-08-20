@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "387f13bc5066e4296f68ee22933a6f64715f2414fe787545620f4b80f1c2b273",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/the-struggle-to-test-microservices-before-merging/",
+    "canonical": "https://www.signadot.com/blog/the-struggle-to-test-microservices-before-merging/"
+  },
+  "title": "The Struggle To Test Microservices Before Merging",
+  "summary": "A look at the types of integration testing, focusing on pre-merge tests that provide quick feedback to developers.",
+  "published_at": "2024-09-13T20:32:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2024/09/38/387f13bc5066e4296f68ee22933a6f64715f2414fe787545620f4b80f1c2b273/article.md",
+    "record": "articles/v1/66/yc-signadot/2024/09/38/387f13bc5066e4296f68ee22933a6f64715f2414fe787545620f4b80f1c2b273/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7930,
+    "sha256": "sha256:b817aeb78ca9f50b14264b05a52869cb5bfcaa2b476c8c819491b8dda337a2e8",
+    "normalized_content_hash": "sha256:6f7d9165ac6c189dd6af5244af51c3ad47d0dfb73b528ea9edfe58f38ded117a"
+  },
+  "provenance": {
+    "source_item_id": "8bec4e4e-4b7a-4ca7-bf04-36b6d25d3d38",
+    "external_id": "https://www.signadot.com/blog/the-struggle-to-test-microservices-before-merging/"
+  }
+}

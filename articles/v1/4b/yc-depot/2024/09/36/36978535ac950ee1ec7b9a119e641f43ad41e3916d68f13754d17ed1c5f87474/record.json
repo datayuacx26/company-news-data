@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36978535ac950ee1ec7b9a119e641f43ad41e3916d68f13754d17ed1c5f87474",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-buildx-explained",
+    "canonical": "https://depot.dev/blog/docker-buildx-explained"
+  },
+  "title": "Docker buildx explained",
+  "summary": "In this article, we explain what Docker buildx is, how it's different from docker build, the extra functionality it offers, and when you should use it.",
+  "published_at": "2024-09-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/09/36/36978535ac950ee1ec7b9a119e641f43ad41e3916d68f13754d17ed1c5f87474/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/09/36/36978535ac950ee1ec7b9a119e641f43ad41e3916d68f13754d17ed1c5f87474/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10105,
+    "sha256": "sha256:e06e4771765584d2bbae53276195ddc6d3276f952f6c84bf94ada76cf5a24546",
+    "normalized_content_hash": "sha256:c2c39cf312f61c749cc6b74de5e86e02e0e1e995b1f659fd4336653a4ebf2002"
+  },
+  "provenance": {
+    "source_item_id": "1fa8351f-de24-497c-aae8-6c36b9cece82",
+    "external_id": "https://depot.dev/blog/docker-buildx-explained"
+  }
+}

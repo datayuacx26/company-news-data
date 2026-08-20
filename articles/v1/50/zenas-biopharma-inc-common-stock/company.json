@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zenas-biopharma-inc-common-stock",
+    "name": "Zenas BioPharma Inc."
+  },
+  "record_count": 26,
+  "first_published_at": "2021-03-23T13:00:20+00:00",
+  "last_published_at": "2026-08-18T20:15:29+00:00",
+  "partitions": [
+    {
+      "partition": "2021-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/50/zenas-biopharma-inc-common-stock/index/pages/000001.json",
+        "record_count": 26,
+        "byte_count": 37695,
+        "sha256": "sha256:17fe777ac90c26c9579d342fbd80e5c6c7c74e785286f91b416c62ef1dd8d157",
+        "newest_at": "2026-08-18T20:15:29+00:00",
+        "oldest_at": "2021-03-23T13:00:20+00:00"
+      }
+    ]
+  }
+}

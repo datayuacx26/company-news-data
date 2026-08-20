@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "06f7664e70f690b5f593e4b0e5d838e44cdd1f76cc2600d9dbc02a612a5d2066",
+  "company": {
+    "key": "yc-variance",
+    "name": "Variance"
+  },
+  "source": {
+    "id": "yc-variance-news-import-ff45b1fc661c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.variance.com/blog/alignment-is-not-free",
+    "canonical": "https://www.variance.com/blog/alignment-is-not-free"
+  },
+  "title": "Alignment Is Not Free: How Model Upgrades Can Silence Your Confidence Signals",
+  "summary": "How a routine model upgrade silently broke our confidence-based routing, and what we learned about the hidden costs of RLHF alignment on production ML pipelines.",
+  "published_at": "2025-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:28:25.562528+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-20T01:03:39.991716+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-variance/2025/04/06/06f7664e70f690b5f593e4b0e5d838e44cdd1f76cc2600d9dbc02a612a5d2066/article.md",
+    "record": "articles/v1/5e/yc-variance/2025/04/06/06f7664e70f690b5f593e4b0e5d838e44cdd1f76cc2600d9dbc02a612a5d2066/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5767,
+    "sha256": "sha256:1096ceb0cf36c42f56668c454ab99f1efdfba4a9919c94b67df7b0c03ec38b36",
+    "normalized_content_hash": "sha256:332e5bcb4c092726c242fc7dec8f2f614fed4404ec61945df184cfb7e0cb85d6"
+  },
+  "provenance": {
+    "source_item_id": "0227a043-76a6-46b4-bd59-334120705141",
+    "external_id": "https://www.variance.com/blog/alignment-is-not-free"
+  }
+}

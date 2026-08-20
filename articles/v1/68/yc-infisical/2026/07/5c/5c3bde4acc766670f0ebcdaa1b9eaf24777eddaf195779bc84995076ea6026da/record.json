@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c3bde4acc766670f0ebcdaa1b9eaf24777eddaf195779bc84995076ea6026da",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-news-import-3518eccf87d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/should-you-still-use-python-dotenv",
+    "canonical": "https://infisical.com/blog/should-you-still-use-python-dotenv"
+  },
+  "title": "Should You Still Use python-dotenv in 2026?",
+  "summary": "python-dotenv still works for solo projects, but .env files leak, do not scale across teams, and lack rotation and audit trails. Here is what replaces them.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T17:35:13.078878+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-20T00:53:54.203199+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2026/07/5c/5c3bde4acc766670f0ebcdaa1b9eaf24777eddaf195779bc84995076ea6026da/article.md",
+    "record": "articles/v1/68/yc-infisical/2026/07/5c/5c3bde4acc766670f0ebcdaa1b9eaf24777eddaf195779bc84995076ea6026da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12731,
+    "sha256": "sha256:82374f26ed52c87e7108567c6631c3e19cfc996faa52c6615ad1a424e12a68ee",
+    "normalized_content_hash": "sha256:8b7b2548444e38a71c4558ce8589388034b2775a7363242896b0ed2484e0bafb"
+  },
+  "provenance": {
+    "source_item_id": "6e03171d-7d12-4ba2-9a46-cb0082c454b9",
+    "external_id": "https://infisical.com/blog/should-you-still-use-python-dotenv"
+  }
+}

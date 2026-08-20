@@ -1,0 +1,94 @@
+---
+schema_version: "1.0.0"
+document_id: "a1e61271a640cf9c8b831747b184e96d6a3c0d56c5c8351afe367b5bb2b4cbc5"
+company_key: "yc-verbiflow"
+company: "Verbiflow"
+source_id: "yc-verbiflow-news-import-392b5e1f9020"
+canonical_url: "https://verbiflow.com/blog/outbound-at-pre-seed"
+published_at: "2026-06-09T00:00:00+00:00"
+first_seen_at: "2026-07-22T18:39:30.762214+00:00"
+fetched_at: "2026-07-28T21:44:22.050751+00:00"
+content_hash: "sha256:791a7c3d8b0de89c84083ccaf44ec575ed9baef18b395b905b1660a7c1ba636b"
+---
+
+# Outbound at pre-seed is a customer discovery game
+
+Most cold outbound advice was written for teams with quotas: 40 mailboxes, a list of 50,000 contacts, a 1% reply rate that books 15 meetings a week. That math works once you’ve already proven there’s something to sell. At pre-seed, you’re still trying to learn whether there’s anything to sell at all. The goal of your first 100 cold emails is signal, not pipeline.
+
+
+## The metric at pre-seed is qualified conversations
+
+
+Reply rate is a leading indicator of pipeline, and pipeline is what you measure once you’ve nailed the customer problem. Before that, the question worth asking each week is **did the right person read the email and want to talk** . Five qualified conversations with people in your ICP will teach you more about what to build than 50 booked meetings with the wrong shape of buyer.
+
+
+The right question
+
+
+Not “how do we get to a 2% reply rate?” but “did three of the people we emailed this week say something that changed our roadmap?”
+
+
+## Why volume is the wrong move pre-PMF
+
+
+Volume hides signal. When you send 5,000 templated emails, the people who reply have self-selected for being the kind of person who replies to templated emails. The 50 founders who would have replied to a thoughtful, specific note never see your message because it’s buried inside a list and an angle that don’t fit them. The people who actually do reply often aren’t the buyer you want to learn from. They’re the loudest ones, which is not the same thing as the most representative.
+
+
+Pre-seed is a search problem, and the best search at this stage is narrow and slow.
+
+
+## What the early-stage outbound loop looks like
+
+
+- **A tight ICP.** Not “B2B SaaS founders” but something closer to “founders of Series A devtools companies who launched their cloud product in the last 6 months.” If you can name the person on paper, you can find them.
+- **50 to 100 deeply researched prospects.** You should be able to tell a friend exactly why each person is on the list.
+- **One short email, one follow-up, one LinkedIn touch.** Each one specific to the person. Skip image personalization and fancy variables. A clear, human note that proves you know who they are is enough.
+- **A read on signal.** If five people in the right ICP want to talk and three of them describe roughly the same problem, you have a thesis. If nobody bites, the problem is the targeting, the copy, or the product, usually in that order.
+
+
+## The infrastructure you need at pre-seed
+
+
+You don’t need 40 mailboxes. Probably 1 or 2 is fine. You do need the boring deliverability hygiene that decides whether your first 50 emails land in the inbox or the promotions tab.
+
+
+### Don’t send from your primary domain
+
+
+If you send cold outbound from` you@yourcompany.com` and a few of those emails get marked as spam, you burn the outbound and you also burn your investor threads, your team email, and your customer support inbox along with it. Use a similar but separate domain (most teams buy` try-yourcompany.com` or` get-yourcompany.com` ) and send from a mailbox there.
+
+
+### IP and domain reputation still matter at 30 emails a day
+
+
+It’s tempting to assume volume thresholds don’t apply when you’re only sending a few emails a day. They do. Gmail and Outlook score reputation per-domain and per-sending-IP. A brand new domain sending cold emails without warmup or proper auth (SPF, DKIM, DMARC) lands in promotions or spam more often than not. The fix is cheap: warm the mailbox for two to three weeks before sending cold, run inbox-placement checks, and monitor the sender reputation weekly.
+
+
+The cheap setup
+
+
+Buy a separate domain. Add SPF, DKIM, DMARC. Warm one mailbox for two to three weeks. Verify inbox placement. Total cost: ~$30 in domain and a couple hundred a month in sending infrastructure. Total time before you should send cold: about 21 days.
+
+
+### Track conversations, not metrics
+
+
+You don’t need a CRM yet. A spreadsheet (or a free HubSpot) is enough, as long as every conversation, every “not now,” and every “wrong fit” gets a one-line note. The notes are where the signal lives. The conversion rate at this volume is mostly noise.
+
+
+## When the math flips to volume
+
+
+It flips when a few things are true at once. You have a repeatable conversation with a specific shape of buyer that consistently leads to interest. You have a product that meaningfully solves the problem they describe. And you can explain in one paragraph who you sell to and why they buy. At that point, scaling the same email pattern across 5,000 prospects becomes a reasonable bet.
+
+
+Until then, sending more emails won’t fix anything. The thing that helps is sending better emails to more carefully chosen people.
+
+
+> At pre-seed, outbound is a research tool. Treat it that way and you’ll find a company. Treat it like a pipeline tool and you’ll burn three months and a domain.
+
+
+## Where Verbiflow fits in
+
+
+At pre-seed you can do everything above with a domain purchase, one warmed mailbox, and a spreadsheet. You don’t need our orchestration layer yet. Verbiflow starts to matter once you’re running several sequences across multiple mailboxes and channels and you want every reply to land in one place that syncs to your CRM. Until then, build the customer discovery loop. We’ll be useful when you have signal worth scaling.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2a0a07633a9b9600efc8da0bbd10eabc72be699c1a13e72671a3d5f23712273",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/the-great-aws-outage-the-11-billion-argument-for-kubernetes/",
+    "canonical": "https://www.signadot.com/blog/the-great-aws-outage-the-11-billion-argument-for-kubernetes/"
+  },
+  "title": "The Great AWS Outage: The $11 Billion Argument for Kubernetes",
+  "summary": "Don't adopt K8s just to survive the next provider outage. Adopt it to build a platform that is resilient to the bottlenecks in your development process.",
+  "published_at": "2025-11-10T16:51:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/11/f2/f2a0a07633a9b9600efc8da0bbd10eabc72be699c1a13e72671a3d5f23712273/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/11/f2/f2a0a07633a9b9600efc8da0bbd10eabc72be699c1a13e72671a3d5f23712273/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10572,
+    "sha256": "sha256:6f69eaafd279d5669c1d05f0579f5ae4d430c4de31ed652809e666d2f3a91472",
+    "normalized_content_hash": "sha256:215a535203e4812c3541952fe20c97fcd1bd9917990093d665521185b603e43f"
+  },
+  "provenance": {
+    "source_item_id": "e7b4b276-f72d-4b75-b84e-386e0d5ade73",
+    "external_id": "https://www.signadot.com/blog/the-great-aws-outage-the-11-billion-argument-for-kubernetes/"
+  }
+}

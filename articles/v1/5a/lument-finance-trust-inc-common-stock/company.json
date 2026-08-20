@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "lument-finance-trust-inc-common-stock",
+    "name": "Lument Finance Trust Inc."
+  },
+  "record_count": 57,
+  "first_published_at": "2024-06-13T11:57:08+00:00",
+  "last_published_at": "2026-08-17T17:24:37+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5a/lument-finance-trust-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 61210,
+        "sha256": "sha256:ad5c14923249d76e3c4ae64dd67883d100d9bdbf3bbcdea1f84a8352aa0f0484",
+        "newest_at": "2026-08-17T17:24:37+00:00",
+        "oldest_at": "2025-06-20T21:00:15+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/5a/lument-finance-trust-inc-common-stock/index/pages/000002.json",
+        "record_count": 7,
+        "byte_count": 10272,
+        "sha256": "sha256:4db7e3ae0fbeeffaa967a74dd001df580561e8b626f6d7f799d62c0eac937f75",
+        "newest_at": "2025-05-12T20:44:01+00:00",
+        "oldest_at": "2024-06-13T11:57:08+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a1a4eff15b54cccbaf9246d05cf0de01eaf3a8c10f36196c88cb4ab5d538622",
+  "company": {
+    "key": "shutterstock-inc-common-stock",
+    "name": "Shutterstock Inc."
+  },
+  "source": {
+    "id": "shutterstock-inc-common-stock-rss-4c794ed87dc5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.shutterstock.com/2017/03/08/image-search-using-joint-embeddings-part-one",
+    "canonical": "https://tech.shutterstock.com/2017/03/08/image-search-using-joint-embeddings-part-one"
+  },
+  "title": "Image Search Using Joint Embeddings (Part One)",
+  "summary": "On the Shutterstock search team, our focus is serving the best possible images for a given query. To do this, we use behavioral data from our customers such as downloads to help us rank the quality of an image for a given search. While this approach often works very well...",
+  "published_at": "2017-03-08T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:13.615263+00:00",
+  "fetched_at": "2026-07-28T22:27:28.230343+00:00",
+  "last_updated_at": "2026-08-20T00:29:18.247067+00:00",
+  "paths": {
+    "article": "articles/v1/58/shutterstock-inc-common-stock/2017/03/8a/8a1a4eff15b54cccbaf9246d05cf0de01eaf3a8c10f36196c88cb4ab5d538622/article.md",
+    "record": "articles/v1/58/shutterstock-inc-common-stock/2017/03/8a/8a1a4eff15b54cccbaf9246d05cf0de01eaf3a8c10f36196c88cb4ab5d538622/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8796,
+    "sha256": "sha256:88d35a764def621edbb23e8b8bf26c0ec555a161a04621f72fb6295100b365b6",
+    "normalized_content_hash": "sha256:0d823c4feabc63055c507623ef3106a6db17bae8702570ad750a2616a6d269da"
+  },
+  "provenance": {
+    "source_item_id": "f540201b-474a-4d2d-b3ea-a0ba9cd5eb28",
+    "external_id": "https://tech.shutterstock.com/2017/03/08/image-search-using-joint-embeddings-part-one"
+  }
+}

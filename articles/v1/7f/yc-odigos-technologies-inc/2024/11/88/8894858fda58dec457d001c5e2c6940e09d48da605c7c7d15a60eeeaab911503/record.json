@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8894858fda58dec457d001c5e2c6940e09d48da605c7c7d15a60eeeaab911503",
+  "company": {
+    "key": "yc-odigos-technologies-inc",
+    "name": "Odigos Technologies Inc."
+  },
+  "source": {
+    "id": "yc-odigos-technologies-inc-rss-eb41174e661a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://odigos.io/blog/ebpf-instrumentation",
+    "canonical": "https://odigos.io/blog/ebpf-instrumentation"
+  },
+  "title": "eBPF based instrumentation",
+  "summary": "Originally a packet filter, eBPF now supports comprehensive observability, security, and performance optimization. By running custom programs directly in the kernel, eBPF enables real-time data insights with minimal overhead, making it ideal for high-performance, cloud-native environments.",
+  "published_at": "2024-11-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:02:44.020335+00:00",
+  "fetched_at": "2026-08-20T02:53:26.937902+00:00",
+  "last_updated_at": "2026-08-20T02:53:27.040540+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-odigos-technologies-inc/2024/11/88/8894858fda58dec457d001c5e2c6940e09d48da605c7c7d15a60eeeaab911503/article.md",
+    "record": "articles/v1/7f/yc-odigos-technologies-inc/2024/11/88/8894858fda58dec457d001c5e2c6940e09d48da605c7c7d15a60eeeaab911503/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 857,
+    "sha256": "sha256:cd27eecbf924784ba341a282bbc4ead7dd6672e784d618951d55445b5f40328d",
+    "normalized_content_hash": "sha256:e72db112f2236414bc7f737d85ee9e1b08ade1cb4981c1e341f922f16f5cc9a7"
+  },
+  "provenance": {
+    "source_item_id": "d1b396bf-6543-4a1d-a1f1-c8c95d4cc6ae",
+    "external_id": "https://odigos.io/blog/ebpf-instrumentation"
+  }
+}

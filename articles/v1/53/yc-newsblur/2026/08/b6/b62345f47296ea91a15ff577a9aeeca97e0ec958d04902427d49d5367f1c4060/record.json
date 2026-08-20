@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b62345f47296ea91a15ff577a9aeeca97e0ec958d04902427d49d5367f1c4060",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/same-newsletter-create-multiple-feeds/13668#post_5",
+    "canonical": "https://forum.newsblur.com/t/same-newsletter-create-multiple-feeds/13668"
+  },
+  "title": "Same newsletter create multiple feeds",
+  "summary": "I have lots of newsletters forwarded into NewsBlur and it creates a feed for each incoming source email, which is what I want, the problem is it believes the same email containing an alias is considered as different emails and therefore creates different feeds for same origin. For instance I am subscribed to a newsletter called hipersonica, they send emails from: hipersonica@substack.com ← original address hipersonica+valladolid@substack.com hipersonica+tier-list@substack.com hipersonica+bu...",
+  "published_at": "2026-08-13T17:04:21+00:00",
+  "first_seen_at": "2026-08-13T20:35:18.275402+00:00",
+  "fetched_at": "2026-08-13T20:35:20.424798+00:00",
+  "last_updated_at": "2026-08-20T02:54:49.553882+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/08/b6/b62345f47296ea91a15ff577a9aeeca97e0ec958d04902427d49d5367f1c4060/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/08/b6/b62345f47296ea91a15ff577a9aeeca97e0ec958d04902427d49d5367f1c4060/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2984,
+    "sha256": "sha256:7fab15c7d482e55e960b0d3c7ced799d0c18e09ba0b39b9edeb7eb8a39a08fa8",
+    "normalized_content_hash": "sha256:4f23988620552609334b1ead5a2d6ab1f0178bfb785d47d422f35b23541c094d"
+  },
+  "provenance": {
+    "source_item_id": "8a63875e-211a-4475-8355-0dfd9c84bdc8",
+    "external_id": "forum.newsblur.com-post-45113"
+  }
+}

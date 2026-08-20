@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8d67f6e88e78546d572de5367247c070658aa91612e3e1ac668c08c7e81d9ec",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/mlx-performance",
+    "canonical": "https://ollama.com/blog/mlx-performance"
+  },
+  "title": "Ollama's highest performance on Apple Silicon yet with MLX",
+  "summary": "Ollama's MLX engine has been updated to deliver its highest performance on Apple Silicon yet. Models output higher quality responses, respond faster, and use less memory.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:14:45.991039+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:53:45.811279+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/f8/f8d67f6e88e78546d572de5367247c070658aa91612e3e1ac668c08c7e81d9ec/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/f8/f8d67f6e88e78546d572de5367247c070658aa91612e3e1ac668c08c7e81d9ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4935,
+    "sha256": "sha256:2dd020cba4748afbe1ffff3003c3569059f1f1191cee0fde8c7b74723f35966d",
+    "normalized_content_hash": "sha256:71aad3f2db39bd0a2dfee9d87582082163805ff944eb5103bda5d64620162bc8"
+  },
+  "provenance": {
+    "source_item_id": "dc8b1cec-587f-4497-8168-bdadaa654e9f",
+    "external_id": "https://ollama.com/blog/mlx-performance"
+  }
+}

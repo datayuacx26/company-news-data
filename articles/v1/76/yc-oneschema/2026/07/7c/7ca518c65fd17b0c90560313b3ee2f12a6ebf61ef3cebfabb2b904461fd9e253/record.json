@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ca518c65fd17b0c90560313b3ee2f12a6ebf61ef3cebfabb2b904461fd9e253",
+  "company": {
+    "key": "yc-oneschema",
+    "name": "OneSchema"
+  },
+  "source": {
+    "id": "yc-oneschema-news-import-43da02420b1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneschema.co/blog/introducing-workday-connector",
+    "canonical": "https://www.oneschema.co/blog/introducing-workday-connector"
+  },
+  "title": "Introducing: Workday Connector",
+  "summary": "Send validated HCM and Financials data directly into Workday from a FileFeeds pipeline, compressing the clean-validate-load iteration cycle on implementation engagements.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:23:01.413777+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T19:52:35.692310+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-oneschema/2026/07/7c/7ca518c65fd17b0c90560313b3ee2f12a6ebf61ef3cebfabb2b904461fd9e253/article.md",
+    "record": "articles/v1/76/yc-oneschema/2026/07/7c/7ca518c65fd17b0c90560313b3ee2f12a6ebf61ef3cebfabb2b904461fd9e253/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3739,
+    "sha256": "sha256:67b9871877aa2fc9da21a4ec3edc0c38855d9c521a0442acbe719bab57c8b9ab",
+    "normalized_content_hash": "sha256:36d4b8b81c3bd3b706e214d6a0c249e475233ce242e101c583774047879e52da"
+  },
+  "provenance": {
+    "source_item_id": "a2369b8f-0019-4915-925f-b2ef4186c48a",
+    "external_id": "https://www.oneschema.co/blog/introducing-workday-connector"
+  }
+}

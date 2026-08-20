@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab54ff988c05678c08ba4c0fdb8cbb9b0713891105a15c101b6e9e13b9bacc2e",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/cost-effective-elt-four-factors-to-consider",
+    "canonical": "https://www.fivetran.com/blog/cost-effective-elt-four-factors-to-consider"
+  },
+  "title": "Cost-effective ELT: Four factors to consider",
+  "summary": "From DIY opportunity cost and pipeline maintenance to moving and transforming data, here’s how to judge the cost-effectiveness of ELT.",
+  "published_at": "2023-03-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2023/03/ab/ab54ff988c05678c08ba4c0fdb8cbb9b0713891105a15c101b6e9e13b9bacc2e/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2023/03/ab/ab54ff988c05678c08ba4c0fdb8cbb9b0713891105a15c101b6e9e13b9bacc2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11520,
+    "sha256": "sha256:118cf5552f36c1ff56ef961e2f43d0f5fd20fc449115e1047c174ef4f2d0ba5b",
+    "normalized_content_hash": "sha256:15eaa40f2ea15275f008d4974f98a22b64ef273aa2c9ba7301c162a75309a13c"
+  },
+  "provenance": {
+    "source_item_id": "fa37ed54-e474-4ae2-8733-1420905e82fe",
+    "external_id": "https://www.fivetran.com/blog/cost-effective-elt-four-factors-to-consider"
+  }
+}

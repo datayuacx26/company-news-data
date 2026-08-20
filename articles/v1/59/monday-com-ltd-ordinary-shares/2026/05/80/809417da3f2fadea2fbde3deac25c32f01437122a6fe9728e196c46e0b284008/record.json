@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "809417da3f2fadea2fbde3deac25c32f01437122a6fe9728e196c46e0b284008",
+  "company": {
+    "key": "monday-com-ltd-ordinary-shares",
+    "name": "monday.com Ltd."
+  },
+  "source": {
+    "id": "monday-com-ltd-ordinary-shares-rss-78444ad48313",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.monday.com/mondaydb-3-solving-htap-for-a-trillion-table-system/",
+    "canonical": "https://engineering.monday.com/mondaydb-3-solving-htap-for-a-trillion-table-system/"
+  },
+  "title": "mondayDB 3 – Solving HTAP for a Trillion-Table System",
+  "summary": "TL;DR This is the story of how monday.com moved board reads from a shared, row-oriented MySQL architecture to a purpose-built ...",
+  "published_at": "2026-05-19T09:11:02+00:00",
+  "first_seen_at": "2026-07-20T23:22:14.841151+00:00",
+  "fetched_at": "2026-07-28T20:50:41.166574+00:00",
+  "last_updated_at": "2026-08-20T01:47:09.867914+00:00",
+  "paths": {
+    "article": "articles/v1/59/monday-com-ltd-ordinary-shares/2026/05/80/809417da3f2fadea2fbde3deac25c32f01437122a6fe9728e196c46e0b284008/article.md",
+    "record": "articles/v1/59/monday-com-ltd-ordinary-shares/2026/05/80/809417da3f2fadea2fbde3deac25c32f01437122a6fe9728e196c46e0b284008/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28671,
+    "sha256": "sha256:75af0f9422cbd31980ed8ee48400e0f0b7fafb297073ad5a151dc9a611a5beeb",
+    "normalized_content_hash": "sha256:9582747cd4ff2711d25f9c54b79e2c1c3f112bc2d00aa3da77f0b9a5a5fcdd83"
+  },
+  "provenance": {
+    "source_item_id": "1ef508d2-8719-4ad4-a28f-dcb486198ec4",
+    "external_id": "https://engineering.monday.com/?p=12374"
+  }
+}

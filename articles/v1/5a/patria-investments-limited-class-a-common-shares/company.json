@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "patria-investments-limited-class-a-common-shares",
+    "name": "Patria Investments Limited"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-01-02T21:30:10+00:00",
+  "last_published_at": "2026-07-31T10:00:53+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5a/patria-investments-limited-class-a-common-shares/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 16656,
+        "sha256": "sha256:8352e541f8578519ca08db7c57e01bc2214f7a3f78cdec77e53cd732d7e988f7",
+        "newest_at": "2026-07-31T10:00:53+00:00",
+        "oldest_at": "2026-01-02T21:30:10+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb6e340dc83464479bef5f9cc040dd7c0a74450638b27897c2d9eb559db32637",
+  "company": {
+    "key": "wealthfront-corporation-common-stock",
+    "name": "Wealthfront Corporation"
+  },
+  "source": {
+    "id": "wealthfront-corporation-common-stock-rss-9fbe6ef385e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://eng.wealthfront.com/2026/03/02/xcodegen-and-the-quest-to-modularize-the-wealthfront-ios-app/",
+    "canonical": "https://eng.wealthfront.com/2026/03/02/xcodegen-and-the-quest-to-modularize-the-wealthfront-ios-app/"
+  },
+  "title": "XcodeGen and the quest to modularize the Wealthfront iOS app",
+  "summary": "Every iOS application starts as a monolith. Xcode’s default project structure places all source files, resources, and build configuration into a single module (or target, for all the iOS devs reading this). For small apps, this works fine. For a 10+ year old financial application with roughly 2,000 Swift and a handful of Objective-C files,... Read more",
+  "published_at": "2026-03-02T17:56:41+00:00",
+  "first_seen_at": "2026-07-20T23:18:22.615485+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T00:33:06.699247+00:00",
+  "paths": {
+    "article": "articles/v1/7c/wealthfront-corporation-common-stock/2026/03/eb/eb6e340dc83464479bef5f9cc040dd7c0a74450638b27897c2d9eb559db32637/article.md",
+    "record": "articles/v1/7c/wealthfront-corporation-common-stock/2026/03/eb/eb6e340dc83464479bef5f9cc040dd7c0a74450638b27897c2d9eb559db32637/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18376,
+    "sha256": "sha256:d3d771441c536288a2d334998aafa989de135b5347a2f8f81694449c8347cce7",
+    "normalized_content_hash": "sha256:179e73c5e1de32a777b78a4c03b5ca36ca14526b238f736b6755a564467f2ba4"
+  },
+  "provenance": {
+    "source_item_id": "e60b86ea-e0a2-43d9-a3dd-49bb5795afbb",
+    "external_id": "https://eng.wealthfront.com/?p=4047"
+  }
+}

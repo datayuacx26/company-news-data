@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0e79e3be57fa864a14da2cf61ec60164ae9f45e08d4e141e0d4a704b193441a",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/depot-magic-explained",
+    "canonical": "https://depot.dev/blog/depot-magic-explained"
+  },
+  "title": "How Depot speeds up Docker builds",
+  "summary": "We go behind the scenes into Depot's architecture to explore exactly how it delivers fast, secure, multi-platform Docker builds locally and in CI.",
+  "published_at": "2024-01-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T22:26:19.240569+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/01/f0/f0e79e3be57fa864a14da2cf61ec60164ae9f45e08d4e141e0d4a704b193441a/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/01/f0/f0e79e3be57fa864a14da2cf61ec60164ae9f45e08d4e141e0d4a704b193441a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14563,
+    "sha256": "sha256:dcd78c7239b5fb79724d669eef1d79947c202c2f6f7af16afbd22152ccad7544",
+    "normalized_content_hash": "sha256:7a89c83d52587a057d3121dee8dbe16c09649a68a4df9d194a1bcb4d0194b544"
+  },
+  "provenance": {
+    "source_item_id": "970ec90c-f9bc-47d2-b522-25eb9651c28a",
+    "external_id": "https://depot.dev/blog/depot-magic-explained"
+  }
+}

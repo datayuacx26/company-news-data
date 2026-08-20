@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc4dcfa3b2718c57e106eb073e1e1c6c349c1900677cf8fee372d0372cf1fa88",
+  "company": {
+    "key": "whitefiber-inc-ordinary-shares",
+    "name": "WhiteFiber Inc."
+  },
+  "source": {
+    "id": "whitefiber-inc-ordinary-shares-news-import-44ec15aad2d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.whitefiber.com/blog/understanding-slurm-for-ai-ml-workloads",
+    "canonical": "https://www.whitefiber.com/blog/understanding-slurm-for-ai-ml-workloads"
+  },
+  "title": "Understanding Slurm for AI/ML Workloads",
+  "summary": "Learn how Slurm powers large-scale AI/ML training with HPC-grade scheduling, and when to choose Slurm over serverless Kubernetes for your AI workloads.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T23:45:02.663424+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-16T00:30:16.086304+00:00",
+  "paths": {
+    "article": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/cc/cc4dcfa3b2718c57e106eb073e1e1c6c349c1900677cf8fee372d0372cf1fa88/article.md",
+    "record": "articles/v1/73/whitefiber-inc-ordinary-shares/2026/07/cc/cc4dcfa3b2718c57e106eb073e1e1c6c349c1900677cf8fee372d0372cf1fa88/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20428,
+    "sha256": "sha256:45854c1f505a8fcac8965a18c3b1b2232977cedc59b79ed420cffe11619700b7",
+    "normalized_content_hash": "sha256:cc084bf111004ed54383a2a749b230f75aebe5665400987886fd42f7137c8a54"
+  },
+  "provenance": {
+    "source_item_id": "54e26a36-7821-43e5-bdbf-0a85f9553eca",
+    "external_id": "https://www.whitefiber.com/blog/understanding-slurm-for-ai-ml-workloads"
+  }
+}

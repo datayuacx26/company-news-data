@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69586e5b6b5a3dea44a13400e301f243cf589b6759bae8872876f40dda947dd1",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/how-to-overcome-poor-search-results-with-the-right-embedding-solution/",
+    "canonical": "https://zeroentropy.dev/articles/how-to-overcome-poor-search-results-with-the-right-embedding-solution/"
+  },
+  "title": "”Let’s eat, grandma” vs “let’s eat grandma”: how embedding models encode the world",
+  "summary": "A deep dive into how embedding models encode meaning, why famous training examples create the illusion of capability, and what consistent behavior across 10k+ nouns tells us about genuine understanding.",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:42.966687+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/03/69/69586e5b6b5a3dea44a13400e301f243cf589b6759bae8872876f40dda947dd1/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/03/69/69586e5b6b5a3dea44a13400e301f243cf589b6759bae8872876f40dda947dd1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14439,
+    "sha256": "sha256:6f823e4e7aa86064b79659a4e1e7e82f84b1cbf00bb240f3ea52f45b28832e32",
+    "normalized_content_hash": "sha256:4c71114e589af425073eacd812b8b09d5f43af97f1d072637b85761191ab9d29"
+  },
+  "provenance": {
+    "source_item_id": "bb505439-f655-4918-b08a-09422516a90d",
+    "external_id": "https://zeroentropy.dev/articles/how-to-overcome-poor-search-results-with-the-right-embedding-solution/"
+  }
+}

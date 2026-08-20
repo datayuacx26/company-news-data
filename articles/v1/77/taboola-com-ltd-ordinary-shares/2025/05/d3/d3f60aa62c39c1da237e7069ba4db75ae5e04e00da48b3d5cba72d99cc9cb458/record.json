@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d3f60aa62c39c1da237e7069ba4db75ae5e04e00da48b3d5cba72d99cc9cb458",
+  "company": {
+    "key": "taboola-com-ltd-ordinary-shares",
+    "name": "Taboola.com Ltd."
+  },
+  "source": {
+    "id": "taboola-com-ltd-ordinary-shares-news-import-1349b39c90c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.taboola.com/engineering/vertica-query-optimization/",
+    "canonical": "https://www.taboola.com/engineering/vertica-query-optimization/"
+  },
+  "title": "How Changing a Few Lines of Query Reduced the Execution Time by 80%",
+  "summary": "How Taboola cut query time by 90% on a 45B-row Vertica job using smart pre-aggregation, statistics, and projection tricks. Here’s how they did it.",
+  "published_at": "2025-05-12T15:38:24+00:00",
+  "first_seen_at": "2026-07-22T15:33:14.584366+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T00:36:38.631480+00:00",
+  "paths": {
+    "article": "articles/v1/77/taboola-com-ltd-ordinary-shares/2025/05/d3/d3f60aa62c39c1da237e7069ba4db75ae5e04e00da48b3d5cba72d99cc9cb458/article.md",
+    "record": "articles/v1/77/taboola-com-ltd-ordinary-shares/2025/05/d3/d3f60aa62c39c1da237e7069ba4db75ae5e04e00da48b3d5cba72d99cc9cb458/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9735,
+    "sha256": "sha256:61f9082ac596ca3e2e811a46cb8c82e77f9e95029df00090c8de0acbf410064b",
+    "normalized_content_hash": "sha256:1caa2f3890ccbd20aaa8ab2fb79810db00f5efdd65e82d9f15051c5ecfd4b70f"
+  },
+  "provenance": {
+    "source_item_id": "27c9eb99-b216-4909-a36b-5b0a48064e4c",
+    "external_id": "https://www.taboola.com/engineering/vertica-query-optimization/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2da2bc095515cc8f79f4c8a0f4a18b572f49471478ecfdc2db0193cb9934e903",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/blixo-vs-stripe-billing-for-saas-teams-that-need-collections-and-cash-application-9be5",
+    "canonical": "https://blixo.com/blog/en/post/blixo-vs-stripe-billing-for-saas-teams-that-need-collections-and-cash-application-9be5/"
+  },
+  "title": "Blixo vs Stripe Billing for SaaS Teams That Need Collections and Cash Application",
+  "summary": "Key Takeaways Blixo automates cash application with machine learning for envelope and item matching. Stripe Billing leaves reconciliation manual, with no native engine. Stripe’s Smart Retry logic targets failed payments, but there’s no built-in workflow for the collections that come after dunning. Blixo runs on flat monthly fees, $49.99 or $99.99, with unlimited invoices. Stripe charges a percentage of recurring revenue plus processing fees. Blixo needs no code for core features and is built for finance teams. Stripe assumes medium-to-high dev resources for API customization. As of August 2026, Stripe sells revenue recognition as a separate product that has to integrate with billing. Blixo includes it. Blixo runs multi-channel collections across email, SMS, phone, and letters, with task assignment for AR teams throughout the process. Blixo’s white-label customer portal lets customers pay across all open invoices at once and manage subscriptions themselves, built in from day one. The five things that actually decide this When you’re evaluating what happens after the invoice goes out, five things matter: feature coverage, implementation complexity, pricing transparency, integration depth, and support model. The table below maps Blixo against Stripe Billing on each, pulled from documented capabilities on the blixo.shop site.",
+  "published_at": "2026-08-09T04:44:13+00:00",
+  "first_seen_at": "2026-08-15T19:40:43.019450+00:00",
+  "fetched_at": "2026-08-15T19:40:45.055952+00:00",
+  "last_updated_at": "2026-08-18T02:17:49.056916+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/08/2d/2da2bc095515cc8f79f4c8a0f4a18b572f49471478ecfdc2db0193cb9934e903/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/08/2d/2da2bc095515cc8f79f4c8a0f4a18b572f49471478ecfdc2db0193cb9934e903/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30186,
+    "sha256": "sha256:d4495c4c045c8bcc905c56f83dbe12f47aa229f25257934a3f9742912f00c921",
+    "normalized_content_hash": "sha256:891ed53875aff586c2e20f21a0d12095998b9a8b420f8c6dba3e0771b4df25f8"
+  },
+  "provenance": {
+    "source_item_id": "d41a0969-841b-4960-bc88-ffba9df45728",
+    "external_id": "https://blixo.com/blog/en/post/blixo-vs-stripe-billing-for-saas-teams-that-need-collections-and-cash-application-9be5/"
+  }
+}

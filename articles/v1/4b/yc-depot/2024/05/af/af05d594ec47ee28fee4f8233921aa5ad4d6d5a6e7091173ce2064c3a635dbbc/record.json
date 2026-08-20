@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af05d594ec47ee28fee4f8233921aa5ad4d6d5a6e7091173ce2064c3a635dbbc",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/github-actions-cache",
+    "canonical": "https://depot.dev/blog/github-actions-cache"
+  },
+  "title": "We reverse-engineered the GitHub Actions cache so you don't have to",
+  "summary": "Here's how Depot reverse-engineered the GitHub Actions cache and built our own GitHub Actions Runners to achieve a 10x improvement in cache speed.",
+  "published_at": "2024-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/05/af/af05d594ec47ee28fee4f8233921aa5ad4d6d5a6e7091173ce2064c3a635dbbc/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/05/af/af05d594ec47ee28fee4f8233921aa5ad4d6d5a6e7091173ce2064c3a635dbbc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10356,
+    "sha256": "sha256:d97ccc0c31f52dcc9ad2903e0597213bc674db2abaae3a67a080a398bb60021f",
+    "normalized_content_hash": "sha256:4b78fbaab31f33b492dec05b3235cfa7663efa9badb07b02f154675a81818373"
+  },
+  "provenance": {
+    "source_item_id": "1a3d1373-75d4-4d1d-9967-69a50b6d5a5d",
+    "external_id": "https://depot.dev/blog/github-actions-cache"
+  }
+}

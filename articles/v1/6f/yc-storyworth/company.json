@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-storyworth",
+    "name": "Storyworth"
+  },
+  "record_count": 5,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6f/yc-storyworth/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5139,
+        "sha256": "sha256:07f258fa556b43e5c1058c5fb8a0683d6e34e6599b848f031fa455d2c853c2c7",
+        "newest_at": "2026-08-07T06:20:27.744312+00:00",
+        "oldest_at": "2026-07-28T21:20:12.930591+00:00"
+      }
+    ]
+  }
+}

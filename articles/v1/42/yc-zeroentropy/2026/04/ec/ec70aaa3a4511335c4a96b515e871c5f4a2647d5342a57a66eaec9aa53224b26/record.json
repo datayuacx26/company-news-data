@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec70aaa3a4511335c4a96b515e871c5f4a2647d5342a57a66eaec9aa53224b26",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/auto-optimize-embedding-models-in-agentic-workflows/",
+    "canonical": "https://zeroentropy.dev/articles/auto-optimize-embedding-models-in-agentic-workflows/"
+  },
+  "title": "AutoOptimize: Why Your Embedding Model Is the Bottleneck in Agentic AI",
+  "summary": "We built an open-source arena where AI agent teams race to solve a hard math problem. The only variable is the embedding model powering their search. The results are dramatic.",
+  "published_at": "2026-04-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:15:54.285032+00:00",
+  "last_updated_at": "2026-07-28T22:18:34.466807+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/04/ec/ec70aaa3a4511335c4a96b515e871c5f4a2647d5342a57a66eaec9aa53224b26/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/04/ec/ec70aaa3a4511335c4a96b515e871c5f4a2647d5342a57a66eaec9aa53224b26/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11545,
+    "sha256": "sha256:2324e7043ad1bd234119b98ef1046db375b297b57ddcb8c6dd29f2803bee7768",
+    "normalized_content_hash": "sha256:9066500c42ecc2526a93fe73d473a8949fd7c69aeb1422d272f0ff5230be148c"
+  },
+  "provenance": {
+    "source_item_id": "00cb33a9-5613-4831-b743-29c5041a9e41",
+    "external_id": "https://zeroentropy.dev/articles/auto-optimize-embedding-models-in-agentic-workflows/"
+  }
+}

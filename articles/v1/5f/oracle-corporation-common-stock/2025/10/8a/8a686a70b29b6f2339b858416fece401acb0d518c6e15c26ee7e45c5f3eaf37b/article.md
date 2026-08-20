@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "8a686a70b29b6f2339b858416fece401acb0d518c6e15c26ee7e45c5f3eaf37b"
+company_key: "oracle-corporation-common-stock"
+company: "Oracle Corporation"
+source_id: "oracle-corporation-common-stock-rss-f7a4ff100e4a"
+canonical_url: "https://investor.oracle.com/investor-news/news-details/2025/ORACLES-ANNUAL-MEETING-OF-STOCKHOLDERS-TO-BE-HELD-NOVEMBER-18-2025/default.aspx"
+published_at: "2025-10-20T20:01:00+00:00"
+first_seen_at: "2026-07-25T17:47:11.558725+00:00"
+fetched_at: "2026-08-19T13:57:39.803567+00:00"
+content_hash: "sha256:d25885d6fc9d49aa2d1e42850a46ee241663554574149a16b9fb7c0a3abfbe51"
+---
+
+# Oracle's Annual Meeting of Stockholders to be held November 18, 2025
+
+

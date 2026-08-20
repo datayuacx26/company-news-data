@@ -1,0 +1,446 @@
+---
+schema_version: "1.0.0"
+document_id: "4e351130c48cdc29b8560e562ba271331c73567ec1d18755ea621fff4cff275a"
+company_key: "rave-restaurant-group-inc-common-stock"
+company: "Rave Restaurant Group Inc."
+source_id: "rave-restaurant-group-inc-common-stock-news-import-58b2c46d85ea"
+canonical_url: "https://investors.raverg.com/news-events/press-releases/detail/80/rave-restaurant-group-inc-reports-second-quarter-2025-results"
+published_at: "2025-02-06T09:01:00+00:00"
+first_seen_at: "2026-07-23T22:26:37.195457+00:00"
+fetched_at: "2026-07-28T21:32:04.842955+00:00"
+content_hash: "sha256:837c1e8ba2a0b7189b21b891337402be65804e24a4c189447ebf409cb1ac123e"
+---
+
+# RAVE Restaurant Group, Inc. Reports Second Quarter 2025 Results
+
+# RAVE Restaurant Group, Inc. Reports Second Quarter 2025 Results
+
+
+February 06, 2025 9:01 am EST[Download as PDF](https://d1io3yog0oux5.cloudfront.net/_d8f36cd2cc85d3c3496fb2f9cf15fc4d/raverg/news/2025-02-06_RAVE_Restaurant_Group_Inc_Reports_Second_Quarter_80.pdf)
+
+
+## Related Documents
+
+
+[10-Q HTML](https://investors.raverg.com/sec-filings/all-sec-filings/content/0001140361-25-003278/ef20039026_10q.htm)[PDF](https://investors.raverg.com/sec-filings/all-sec-filings/content/0001140361-25-003278/0001140361-25-003278.pdf)[XBRL Zip](https://investors.raverg.com/sec-filings/all-sec-filings/content/0001140361-25-003278/0001140361-25-003278-xbrl.zip)
+
+
+DALLAS, Feb. 06, 2025 (GLOBE NEWSWIRE) -- RAVE Restaurant Group, Inc. (NASDAQ: RAVE) today reported financial results for the second quarter of fiscal 2025 ended December 29, 2024.
+
+
+**Second Quarter Highlights:**
+
+
+- The company recorded net income of $0.6 million for the second quarter of fiscal 2025, a 9.8% increase from the same period of the prior year.
+- Income before taxes increased by $0.2 million to $0.7 million for the second quarter of fiscal 2025 compared to the same period of the prior year, a 39% increase.
+- Total revenue increased by $0.1 million to $2.8 million for the second quarter of fiscal 2025 compared to the same period of the prior year, a 4% increase.
+- Adjusted EBITDA increased by $0.3 million to $0.8 million for the second quarter of fiscal 2025 compared to the same period of the prior year, a 51% increase.
+- On a fully diluted basis, net income was $0.04 per share for the second quarter of fiscal 2025, the same as it was in the same period of the prior year.
+- Pizza Inn domestic comparable store retail sales increased 0.8% in the second quarter of fiscal 2025 compared to the same period of the prior year.
+- Pie Five domestic comparable store retail sales decreased 11.4% in the second quarter of fiscal 2025 compared to the same period of the prior year.
+- Cash and cash equivalents were $2.9 million on December 29, 2024.
+- Short-term investments were $6.0 million on December 29, 2024.
+- Pizza Inn domestic unit count finished at 102.
+- Pizza Inn international unit count finished at 27.
+- Pie Five domestic unit count finished at 20.
+
+
+“Quarter Two represented our 19th consecutive quarter of profitability and we have no plans on letting our foot off the accelerator,” said Brandon Solano, Chief Executive Officer of RAVE Restaurant Group, Inc.
+
+
+“It’s an exciting time at Pizza Inn as we continue to deliver solid results in the current quarter and are getting ready to grow with 30 buffet restaurants currently signed to development agreements," continued Solano. “During the second quarter, we opened our fourth Pizza Inn buffet restaurant in the state of Oklahoma with strong sales. Many new guests to the brand were able to enjoy all the buffet favorites plus the new stuffed crust chocolate chip Pizzert which was successfully introduced in the second quarter. And we continue to expand our restaurant reimage program with nine units starting the process, eight of which are planned to be finished this fiscal year."
+
+
+Solano concluded, “We continue to innovate our food offerings. While the first two quarters saw new desserts introduced at Pizza Inn, the third quarter will see three varieties of baked pastas added to the buffet and available for carryout. Pizza Inn continues to give guests more reasons to visit more often as we offer more than just pizza on the buffet with a focus on high quality desserts, salads, and now baked pastas. Pizza Inn also replaced legacy paper gift certificates with a new gift card program just in time for the holidays.”
+
+
+“We have a keen focus on operational improvements at Pie Five,” says Vice President of Operations Zack Viljoen, adding “our new operational format will double make-line capacity allowing us to better and more quickly serve our guests thus increasing volume at peak hours while at the same time improving the guest experience.”
+
+
+Chief Financial Officer Jay Rooney added, “Quarter two was a continuation of the solid financial start to the fiscal year seen in Quarter One. Pizza Inn same store sales were positive year over year for the quarter as the sales momentum generated by quarter one dessert and online ordering initiatives carried through to the second quarter. Total revenue was up $123 thousand from the second quarter last year and total expenses were down $88 thousand. For the fiscal year to date, Profit before Tax is now up over 36% from the prior year and our balance sheet remains strong with current assets totaling seven times the amount of current liabilities.”
+
+
+**Non-GAAP Financial Measures**
+
+
+The Company’s financial statements are prepared in accordance with United States generally accepted accounting principles (“GAAP”). However, the Company also presents and discusses certain non-GAAP financial measures that it believes are useful to investors as measures of operating performance. Management may also use such non-GAAP financial measures in evaluating the effectiveness of business strategies and for planning and budgeting purposes. However, these non-GAAP financial measures should not be viewed as an alternative or substitute for its financial statements prepared in accordance with generally accepted accounting principles.
+
+
+The Company considers EBITDA and Adjusted EBITDA to be important supplemental measures of operating performance that are commonly used by securities analysts, investors and other parties interested in our industry. The Company believes that EBITDA is helpful to investors in evaluating its results of operations without the impact of expenses affected by financing methods, accounting methods and the tax environment. The Company believes that Adjusted EBITDA provides additional useful information to investors by excluding non-operational or non-recurring expenses to provide a measure of operating performance that is more comparable from period to period. Management also uses these non-GAAP financial measures for evaluating operating performance, assessing the effectiveness of business strategies, projecting future capital needs, budgeting and other planning purposes.
+
+
+“EBITDA” represents earnings before interest, taxes, depreciation and amortization. “Adjusted EBITDA” represents earnings before interest, taxes, depreciation and amortization, stock compensation expense, severance, gain/loss on sale of assets, costs related to impairment and other lease charges, franchise default and closed store revenue/expense, and closed and non-operating store costs. A reconciliation of these non-GAAP financial measures to net income is included with the accompanying financial statements.
+
+
+**Note Regarding Forward Looking Statements**
+
+
+Certain statements in this press release, other than historical information, may be considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, and are intended to be covered by the safe harbors created thereby. These forward-looking statements are based on current expectations that involve numerous risks, uncertainties and assumptions. Assumptions relating to these forward-looking statements involve judgments with respect to, among other things, the effectiveness of our cost cutting measures, the timing to complete as well as the continued returns on our reimaging initiatives, the strength of our development pipeline, as well as future economic, competitive and market conditions, regulatory framework and future business decisions, all of which are difficult or impossible to predict accurately and many of which are beyond the control of RAVE Restaurant Group, Inc. Although the assumptions underlying these forward-looking statements are believed to be reasonable, any of the assumptions could be inaccurate and, therefore, there can be no assurance that any forward-looking statements will prove to be accurate. In light of the significant uncertainties inherent in these forward-looking statements, the inclusion of such information should not be regarded as a representation that the objectives and plans of RAVE Restaurant Group, Inc. will be achieved.
+
+
+**About RAVE Restaurant Group, Inc.**
+Dallas-based RAVE Restaurant Group \[NASDAQ: RAVE\] has inspired restaurant innovation and countless customer smiles with its trailblazing pizza concepts. The Company franchises, licenses and supplies Pie Five and Pizza Inn restaurants operating domestically and internationally. The Pizza Inn experience is unlike your typical buffet. Since 1958, Pizza Inn's house-made dough, house-shredded 100% whole milk mozzarella cheese, fresh ingredients and house-made signature sauce combined with friendly service solidified the brand to become America's favorite hometown pizza place. These, in addition to its small-town vibe, are the hallmarks of Pizza Inn restaurants. In 2011, RAVE introduced Pie Five Pizza, pioneering a fast-casual pizza brand that transformed the classic pizzeria into a concept offering personalization, sophisticated ingredients and speed. Pie Five's craft pizzas are baked fresh daily and feature house-made ingredients, creative recipes and craveable crust creations. For more information, visit www.raverg.com, and follow on Instagram @pizzainn and @piefivepizza.
+
+
+**RAVE RESTAURANT GROUP, INC.** **CONDENSED CONSOLIDATED STATEMENTS OF INCOME** ***(In thousands, except share amounts)*** ***(Unaudited)***
+
+
+**Three Months Ended** **Six Months Ended**
+
+
+**December 29,**
+**2024** **December 24,**
+**2023** **December 29,**
+**2024** **December 24,**
+**2023**
+
+
+**REVENUES** $ 2,869 $ 2,746 $ 5,919 $ 5,833
+
+
+**COSTS AND EXPENSES**
+
+
+General and administrative expenses 1,314 1,341 2,730 2,660
+
+
+Franchise expenses 829 844 1,824 2,016
+
+
+Provision (recovery) for credit losses 9 10 (8 ) 35
+
+
+Interest income (87 ) (46 ) (169 ) (48 )
+
+
+Depreciation and amortization expense 53 57 96 112
+
+
+Total costs and expenses 2,118 2,206 4,473 4,775
+
+
+**INCOME BEFORE TAXES** 751 540 1,446 1,058
+
+
+Income tax expense (benefit) 144 (13 ) 313 119
+
+
+**NET INCOME** $ 607 $ 553 $ 1,133 $ 939
+
+
+**INCOME PER SHARE OF COMMON STOCK**
+
+
+Basic $ 0.04 $ 0.04 $ 0.08 $ 0.07
+
+
+Diluted $ 0.04 $ 0.04 $ 0.08 $ 0.07
+
+
+**WEIGHTED AVERAGE COMMON SHARES OUTSTANDING**
+
+
+Basic 14,690 14,444 14,638 14,299
+
+
+Diluted 14,716 14,465 14,660 14,319
+
+
+**RAVE RESTAURANT GROUP, INC.** **CONDENSED CONSOLIDATED BALANCE SHEETS** ***(In thousands, except share amounts)*** ***(Unaudited)***
+
+
+**December 29,**
+**2024** **June 30,**
+**2024**
+
+
+**ASSETS**
+
+
+CURRENT ASSETS
+
+
+Cash and cash equivalents $ 2,871 $ 2,886
+
+
+Short-term investments 6,045 4,945
+
+
+Accounts receivable, less allowance for credit losses of $42 and $57, respectively 1,115 1,411
+
+
+Notes receivable, current 65 68
+
+
+Assets held for sale 26 33
+
+
+Deferred contract charges, current 23 26
+
+
+Prepaid expenses and other current assets 207 167
+
+
+Total current assets 10,352 9,536
+
+
+LONG-TERM ASSETS
+
+
+Property and equipment, net 171 182
+
+
+Operating lease right-of-use assets, net 648 817
+
+
+Intangible assets definite-lived, net 211 252
+
+
+Notes receivable, net of current portion 56 79
+
+
+Deferred tax asset, net 4,492 4,756
+
+
+Deferred contract charges, net of current portion 185 197
+
+
+Total assets $ 16,115 $ 15,819
+
+
+**LIABILITIES AND SHAREHOLDERS’ EQUITY**
+
+
+CURRENT LIABILITIES
+
+
+Accounts payable - trade $ 455 $ 359
+
+
+Accrued expenses 498 915
+
+
+Operating lease liabilities, current 371 402
+
+
+Deferred revenues, current 116 343
+
+
+Total current liabilities 1,440 2,019
+
+
+LONG-TERM LIABILITIES
+
+
+Operating lease liabilities, net of current portion 393 555
+
+
+Deferred revenues, net of current portion 503 543
+
+
+Total liabilities 2,336 3,117
+
+
+COMMITMENTS AND CONTINGENCIES (SEE NOTE C)
+
+
+SHAREHOLDERS’ EQUITY
+
+
+Common stock, $0.01 par value; authorized 26,000,000 shares; issued 25,647,171 and 25,522,171 shares, respectively; outstanding 14,711,566 and 14,586,566 shares, respectively 256 255
+
+
+Additional paid-in capital 37,506 37,563
+
+
+Retained earnings 6,045 4,912
+
+
+Treasury stock, at cost
+
+
+Shares in treasury: 10,935,605 and 10,935,605 respectively (30,028 ) (30,028 )
+
+
+Total shareholders' equity 13,779 12,702
+
+
+Total liabilities and shareholders' equity $ 16,115 $ 15,819
+
+
+**RAVE RESTAURANT GROUP, INC.** **CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS** ***(In thousands)*** ***(Unaudited)***
+
+
+**Six Months Ended**
+
+
+**December 29,**
+**2024** **December 24,**
+**2023**
+
+
+**CASH FLOWS FROM OPERATING ACTIVITIES:**
+
+
+Net income $ 1,133 $ 939
+
+
+Adjustments to reconcile net income to cash provided by operating activities:
+
+
+Amortization of discount on short-term investment (63 ) —
+
+
+Impairment of long-lived assets and other lease charges 9 —
+
+
+Stock-based compensation expense 126 82
+
+
+Depreciation and amortization 47 70
+
+
+Amortization of operating right-of-use assets 169 219
+
+
+Amortization of definite-lived intangible assets 41 42
+
+
+Non-cash lease expense 43 —
+
+
+Provision (recovery) for credit losses (8 ) 35
+
+
+Deferred income tax 264 71
+
+
+Changes in operating assets and liabilities:
+
+
+Accounts receivable 304 (69 )
+
+
+Notes receivable — (54 )
+
+
+Deferred contract charges 15 11
+
+
+Prepaid expenses and other current assets (40 ) (254 )
+
+
+Accounts payable - trade 96 151
+
+
+Accrued expenses (417 ) (442 )
+
+
+Operating lease liabilities (236 ) (249 )
+
+
+Deferred revenues (267 ) (247 )
+
+
+**Cash provided by operating activities** 1,216 305
+
+
+**CASH FLOWS FROM INVESTING ACTIVITIES:**
+
+
+Purchases of short-term investments (8,102 ) —
+
+
+Maturities of short-term investments 7,065 —
+
+
+Payments received on notes receivable 26 30
+
+
+Proceeds from sale of assets 7 —
+
+
+Purchase of definite-lived intangible assets — (8 )
+
+
+Purchase of property and equipment (45 ) (38 )
+
+
+**Cash used in investing activities** (1,049 ) (16 )
+
+
+**CASH FLOWS FROM FINANCING ACTIVITIES:**
+
+
+Taxes paid on issuance of restricted stock units (182 ) (311 )
+
+
+**Cash used in financing activities** (182 ) (311 )
+
+
+Net decrease in cash and cash equivalents (15 ) (22 )
+
+
+Cash and cash equivalents, beginning of period 2,886 5,328
+
+
+Cash and cash equivalents, end of period $ 2,871 $ 5,306
+
+
+**SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION**
+
+
+**CASH PAID FOR:**
+
+
+Income taxes (net of refunds) $ 98 $ 4
+
+
+**RAVE RESTAURANT GROUP, INC.** **ADJUSTED EBITDA** ***(In thousands)*** ***(Unaudited)***
+
+
+**Three Months Ended** **Six Months Ended**
+
+
+**December 29, 2024** **December 24, 2023** **December 29, 2024** **December 24, 2023**
+
+
+Net income $ 607 $ 553 $ 1,133 $ 939
+
+
+Interest income (87 ) (46 ) (169 ) (48 )
+
+
+Income taxes 144 (13 ) 313 119
+
+
+Depreciation and amortization 53 57 96 112
+
+
+EBITDA $ 717 $ 551 $ 1,373 $ 1,122
+
+
+Stock-based compensation expense 53 3 126 82
+
+
+Severance 5 — 5 —
+
+
+Franchisee default and closed store revenue 32 (18 ) 23 (82 )
+
+
+Adjusted EBITDA $ 807 $ 536 $ 1,527 $ 1,122
+
+
+```text
+Contact:
+Investor Relations
+RAVE Restaurant Group, Inc.
+469-384-5000
+```
+
+
+Source: Rave Restaurant Group, Inc.
+
+
+Released February 6, 2025

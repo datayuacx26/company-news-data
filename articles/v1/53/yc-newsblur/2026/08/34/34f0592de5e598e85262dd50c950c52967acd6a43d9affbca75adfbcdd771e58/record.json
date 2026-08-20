@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34f0592de5e598e85262dd50c950c52967acd6a43d9affbca75adfbcdd771e58",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/fetch-full-article-via-rss-from-subsciption-sites/13805#post_1",
+    "canonical": "https://forum.newsblur.com/t/fetch-full-article-via-rss-from-subsciption-sites/13805"
+  },
+  "title": "Fetch full article via rss from subsciption sites?",
+  "summary": "I run self hosted. I pay for several news sites etc and using their rss feeds only show small amount of text. I would like to avoid clicking trough to their website since this defeats the purpose of using RSS.",
+  "published_at": "2026-08-19T14:11:53+00:00",
+  "first_seen_at": "2026-08-19T15:09:10.072130+00:00",
+  "fetched_at": "2026-08-19T15:09:14.590835+00:00",
+  "last_updated_at": "2026-08-20T02:54:49.553882+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/08/34/34f0592de5e598e85262dd50c950c52967acd6a43d9affbca75adfbcdd771e58/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/08/34/34f0592de5e598e85262dd50c950c52967acd6a43d9affbca75adfbcdd771e58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1074,
+    "sha256": "sha256:f1d50a2ef4bd3f6f7f0e7df9bc3123052cd43c60932bdfb0ca3f2b15cd428f5d",
+    "normalized_content_hash": "sha256:11def11ac25bfc198176d0044dc5b97f23ecd0e9bbdea9009a17564e3800a158"
+  },
+  "provenance": {
+    "source_item_id": "3a8451fb-02f2-45d2-8f62-b7e38e083d45",
+    "external_id": "forum.newsblur.com-post-45116"
+  }
+}

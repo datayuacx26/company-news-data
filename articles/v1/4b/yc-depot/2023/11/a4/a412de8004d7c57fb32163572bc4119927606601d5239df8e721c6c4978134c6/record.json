@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a412de8004d7c57fb32163572bc4119927606601d5239df8e721c6c4978134c6",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/build-docker-images-in-gitlab-ci",
+    "canonical": "https://depot.dev/blog/build-docker-images-in-gitlab-ci"
+  },
+  "title": "Building Docker Images in GitLab CI with Depot",
+  "summary": "Building Docker images in GitLab CI comes with tradeoffs between security, complexity, and performance.",
+  "published_at": "2023-11-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/11/a4/a412de8004d7c57fb32163572bc4119927606601d5239df8e721c6c4978134c6/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/11/a4/a412de8004d7c57fb32163572bc4119927606601d5239df8e721c6c4978134c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7700,
+    "sha256": "sha256:d93f84bcfe0bcd7770c97f67a3fa98e0bf8769d892de308535076368a40597ac",
+    "normalized_content_hash": "sha256:35b1ef769ca3465de96c0d0c351a3481234ea621e526a7af7c837ff3ca6bfea6"
+  },
+  "provenance": {
+    "source_item_id": "13257d44-40de-40dc-b030-1da8ea623001",
+    "external_id": "https://depot.dev/blog/build-docker-images-in-gitlab-ci"
+  }
+}

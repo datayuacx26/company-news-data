@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2699b85de539145aba1eff6e3c105655b6d9a7acbd15313c2b4048a59eb28f12",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
+    "canonical": "https://ollama.com/blog/faster-gemma-4-mlx-mtp"
+  },
+  "title": "Faster Gemma 4 on MLX with multi-token prediction",
+  "summary": "Gemma 4 is now significantly faster in Ollama 0.31 on Apple Silicon via multi-token prediction (MTP), powered by MLX. Performance is now up to 90% faster when used with coding agents, as measured using the Aider polyglot benchmark.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:14:45.991039+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:53:45.811279+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/26/2699b85de539145aba1eff6e3c105655b6d9a7acbd15313c2b4048a59eb28f12/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/26/2699b85de539145aba1eff6e3c105655b6d9a7acbd15313c2b4048a59eb28f12/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5673,
+    "sha256": "sha256:e42792c727e19b6f561228f5c0fde7568a4e94b7daee44b83e6d7c0314200243",
+    "normalized_content_hash": "sha256:3c8a2ca7cee3ce3f86abc04fe7406b2e3f03087291f03d26af0110309450a193"
+  },
+  "provenance": {
+    "source_item_id": "17a4fce0-0bd3-4940-abd0-430240a8b1d7",
+    "external_id": "https://ollama.com/blog/faster-gemma-4-mlx-mtp"
+  }
+}

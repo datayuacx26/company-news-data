@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "wisekey-international-holding-ltd-american-depositary-shares",
+    "name": "WISeKey International Holding Ltd"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-06-23T12:45:00+00:00",
+  "last_published_at": "2026-08-11T05:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/49/wisekey-international-holding-ltd-american-depositary-shares/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 21541,
+        "sha256": "sha256:896d1c4a716e302b701c01613ec43272b2d9412d2ad3499bda2d0241696463bb",
+        "newest_at": "2026-08-11T05:00:00+00:00",
+        "oldest_at": "2026-06-23T12:45:00+00:00"
+      }
+    ]
+  }
+}

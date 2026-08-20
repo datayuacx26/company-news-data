@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db98f74991a8dff1f3112f1c5c77d1127ea0346fe5046bd0c72025a4567588a6",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/3-prerequisites-before-you-automate-subscription-billing-without-breaking-revenue-accounting-4d6b",
+    "canonical": "https://blixo.com/blog/en/post/3-prerequisites-before-you-automate-subscription-billing-without-breaking-revenue-accounting-4d6b/"
+  },
+  "title": "3 Prerequisites Before You Automate Subscription Billing Without Breaking Revenue Accounting",
+  "summary": "3 Prerequisites Before You Automate Subscription Billing Key Takeaways Automated subscription billing systems that run independently from collections and cash application create unbilled receivables and corrupt deferred revenue schedules. Failed payments break revenue accounting by recording income you never collected while ASC 606 schedules treat uncollected charges as guaranteed revenue. Smart dunning with automated retry logic recovers failed charges before they corrupt revenue recognition, operating as an accounting fix rather than just a retention tool. Billing automation requires three integrated layers—invoicing, collections workflow, and cash application—in one closed loop to preserve accounting integrity. Most companies treat subscription billing as purely an invoicing problem, ignoring the downstream accounting consequences when payments fail to clear. Payment failures can create DSO numbers that misrepresent reality because the billing system records receivables that may never materialize into actual cash. Automated payment update workflows that handle expired cards and declined charges help prevent subscription lapses while keeping the general ledger aligned with actual collections. Related Video Watch: How to Build a Subscription Billing & Revenue Recognition Platform | Step-By-Step Guide by Intellivon",
+  "published_at": "2026-08-15T04:53:07+00:00",
+  "first_seen_at": "2026-08-17T12:06:09.031971+00:00",
+  "fetched_at": "2026-08-17T12:06:11.165092+00:00",
+  "last_updated_at": "2026-08-19T18:35:31.337817+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/08/db/db98f74991a8dff1f3112f1c5c77d1127ea0346fe5046bd0c72025a4567588a6/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/08/db/db98f74991a8dff1f3112f1c5c77d1127ea0346fe5046bd0c72025a4567588a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31287,
+    "sha256": "sha256:1a429e6d52c2b2661b79040bfe3db1df102addef1b5537280700d38e7404c072",
+    "normalized_content_hash": "sha256:fd8279a8c6379b0001a0fc5cf366398ffd476096bef681a6eb8077d23598d982"
+  },
+  "provenance": {
+    "source_item_id": "911b5264-5bb7-4333-b8eb-619ba82de5f2",
+    "external_id": "https://blixo.com/blog/en/post/3-prerequisites-before-you-automate-subscription-billing-without-breaking-revenue-accounting-4d6b/"
+  }
+}

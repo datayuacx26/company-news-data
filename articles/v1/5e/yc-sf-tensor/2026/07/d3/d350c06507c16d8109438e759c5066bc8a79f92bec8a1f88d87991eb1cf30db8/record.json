@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d350c06507c16d8109438e759c5066bc8a79f92bec8a1f88d87991eb1cf30db8",
+  "company": {
+    "key": "yc-sf-tensor",
+    "name": "SF Tensor"
+  },
+  "source": {
+    "id": "yc-sf-tensor-news-import-73b0de6f3d55",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sf-tensor.com/engineering/bitwise-tcgen05",
+    "canonical": "https://sf-tensor.com/engineering/bitwise-tcgen05"
+  },
+  "title": "Reverse-Engineering the B200's Tensor Core, One Bit at a Time",
+  "summary": "A bit-exact software model of NVIDIA Blackwell's tcgen05.mma instruction, reverse-engineered from B200 measurements across 46 validated datapaths.",
+  "published_at": "2026-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T22:31:30.643765+00:00",
+  "fetched_at": "2026-08-05T03:48:37.411401+00:00",
+  "last_updated_at": "2026-08-19T21:17:00.732249+00:00",
+  "paths": {
+    "article": "articles/v1/5e/yc-sf-tensor/2026/07/d3/d350c06507c16d8109438e759c5066bc8a79f92bec8a1f88d87991eb1cf30db8/article.md",
+    "record": "articles/v1/5e/yc-sf-tensor/2026/07/d3/d350c06507c16d8109438e759c5066bc8a79f92bec8a1f88d87991eb1cf30db8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23750,
+    "sha256": "sha256:8a1b1127e5b8a22524a4b21fbb7b1f7b9df214e49bd421e79792de4541ff64b8",
+    "normalized_content_hash": "sha256:1c4a0a4df7448cf0cce99ae341b2c1d43458fa9ead34f35490ff96044d6f5696"
+  },
+  "provenance": {
+    "source_item_id": "ddb916b3-efd6-4dab-a7b2-27d06cbc04da",
+    "external_id": "https://sf-tensor.com/engineering/bitwise-tcgen05"
+  }
+}

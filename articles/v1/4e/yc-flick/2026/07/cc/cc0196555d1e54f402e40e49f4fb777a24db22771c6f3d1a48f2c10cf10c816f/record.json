@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc0196555d1e54f402e40e49f4fb777a24db22771c6f3d1a48f2c10cf10c816f",
+  "company": {
+    "key": "yc-flick",
+    "name": "Flick"
+  },
+  "source": {
+    "id": "yc-flick-news-import-00342d05d871",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://flick.art/blog/img2img-consistent-character/gpt-image",
+    "canonical": "https://flick.art/blog/img2img-consistent-character/gpt-image"
+  },
+  "title": "How to Keep a Character Consistent in GPT Image",
+  "summary": "GPT Image has no saved-character feature, so consistency comes from method: keep every generation in one chat thread, re-feed your reference image, and re-anchor on the best output. It holds a look across a session but drifts over time.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T08:28:30.776088+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:47.520615+00:00",
+  "paths": {
+    "article": "articles/v1/4e/yc-flick/2026/07/cc/cc0196555d1e54f402e40e49f4fb777a24db22771c6f3d1a48f2c10cf10c816f/article.md",
+    "record": "articles/v1/4e/yc-flick/2026/07/cc/cc0196555d1e54f402e40e49f4fb777a24db22771c6f3d1a48f2c10cf10c816f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1378,
+    "sha256": "sha256:acf79d095a61ef233eddfc2d736f2a41d22605fe1130cea2a6973fdcd0bb7515",
+    "normalized_content_hash": "sha256:4aa4db162fa30b5cdc49a457d0943bc8759041782a8311353fec0fa5d4b7aba5"
+  },
+  "provenance": {
+    "source_item_id": "0a3e792f-01a7-4c04-a3ce-995ebd3cb613",
+    "external_id": "https://flick.art/blog/img2img-consistent-character/gpt-image"
+  }
+}

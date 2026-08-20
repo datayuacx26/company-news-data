@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33b303f843c063ba2914758d8f95f75cf241118db6cfe41a8b8b9cf39bdc7178",
+  "company": {
+    "key": "amplitude-inc-class-a-common-stock",
+    "name": "Amplitude Inc."
+  },
+  "source": {
+    "id": "amplitude-inc-class-a-common-stock-news-import-1333a773138e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amplitude.com/blog/open-weights-experimentation",
+    "canonical": "https://amplitude.com/blog/open-weights-experimentation"
+  },
+  "title": "Practical Guide to Evaluating Open Models: Achieving Sonnet-level performance with Kimi",
+  "summary": "Inside Amplitude's open-weight model tests: how we modified Kimi K2.7 to match Sonnet on latency and quality.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T05:31:28.487621+00:00",
+  "fetched_at": "2026-08-15T05:31:29.781514+00:00",
+  "last_updated_at": "2026-08-19T17:50:07.505280+00:00",
+  "paths": {
+    "article": "articles/v1/79/amplitude-inc-class-a-common-stock/2026/08/33/33b303f843c063ba2914758d8f95f75cf241118db6cfe41a8b8b9cf39bdc7178/article.md",
+    "record": "articles/v1/79/amplitude-inc-class-a-common-stock/2026/08/33/33b303f843c063ba2914758d8f95f75cf241118db6cfe41a8b8b9cf39bdc7178/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13645,
+    "sha256": "sha256:f481dd7f8acb17174ddfc8d7fe48568ac4bfb6d33a1b69cbe91a4faed266c20a",
+    "normalized_content_hash": "sha256:b78c17dfd13087bb096c07cdc3f7495f53d8765e0b75c4f737a167dfb44e079c"
+  },
+  "provenance": {
+    "source_item_id": "27018f28-d6df-451d-b2dc-a08ccbbad21b",
+    "external_id": "https://amplitude.com/blog/open-weights-experimentation"
+  }
+}

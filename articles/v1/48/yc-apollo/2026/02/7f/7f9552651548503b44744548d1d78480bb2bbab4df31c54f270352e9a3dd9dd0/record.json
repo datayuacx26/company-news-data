@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f9552651548503b44744548d1d78480bb2bbab4df31c54f270352e9a3dd9dd0",
+  "company": {
+    "key": "yc-apollo",
+    "name": "Apollo"
+  },
+  "source": {
+    "id": "yc-apollo-rss-acdf707d284a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.apollographql.com/blog/telemetry-cardinality-in-the-apollo-graphos-router",
+    "canonical": "https://www.apollographql.com/blog/telemetry-cardinality-in-the-apollo-graphos-router"
+  },
+  "title": "Deep Dive: Telemetry cardinality in the Apollo GraphOS Router",
+  "summary": "Learn how telemetry works in the Apollo GraphOS Router, from OpenTelemetry instrumentation to metric exporters. Understand cardinality limits, diagnose overflow issues, and tune your router config for production-scale observability.",
+  "published_at": "2026-02-10T09:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:11.312803+00:00",
+  "fetched_at": "2026-07-28T22:21:02.085623+00:00",
+  "last_updated_at": "2026-08-20T01:33:04.390415+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-apollo/2026/02/7f/7f9552651548503b44744548d1d78480bb2bbab4df31c54f270352e9a3dd9dd0/article.md",
+    "record": "articles/v1/48/yc-apollo/2026/02/7f/7f9552651548503b44744548d1d78480bb2bbab4df31c54f270352e9a3dd9dd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18458,
+    "sha256": "sha256:0536170fd1e8336cd18ae3c2ae12662148c95972081d350fb7530de2b00284a2",
+    "normalized_content_hash": "sha256:e06b0e850b307e3ae5e637f4a66fe1784f36c57783f651f861f14cf7c5d7cb1e"
+  },
+  "provenance": {
+    "source_item_id": "2faf033f-845e-458f-86f3-9524f1a3a121",
+    "external_id": "https://www.apollographql.com/blog/telemetry-cardinality-in-the-apollo-graphos-router"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5747a00132e64b8200183d0412c07901c5b3c8c53c39595ac53146400979348f",
+  "company": {
+    "key": "yc-verbiflow",
+    "name": "Verbiflow"
+  },
+  "source": {
+    "id": "yc-verbiflow-news-import-392b5e1f9020",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://verbiflow.com/blog/enrichment-juggling-problem",
+    "canonical": "https://verbiflow.com/blog/enrichment-juggling-problem"
+  },
+  "title": "The hard part starts after enrichment",
+  "summary": "Apollo and Clay can give you a list. The hard part is making it safe to send: CRM suppression, sequence dedupe, healthy mailboxes, one reply inbox, and clean reporting.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:39:30.762214+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-19T23:59:47.942243+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-verbiflow/2026/06/57/5747a00132e64b8200183d0412c07901c5b3c8c53c39595ac53146400979348f/article.md",
+    "record": "articles/v1/62/yc-verbiflow/2026/06/57/5747a00132e64b8200183d0412c07901c5b3c8c53c39595ac53146400979348f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3189,
+    "sha256": "sha256:71a8372d05b98cf8525ada7cc3de23f65b5ed16b58f2a19bbed22d2b52a7c339",
+    "normalized_content_hash": "sha256:bf28d4832bc8126135562cf1d0e148bbea9bd175fa6e25332a0125325b4ca5d2"
+  },
+  "provenance": {
+    "source_item_id": "e32b4cb4-7c98-4afa-bc23-16610980cdc2",
+    "external_id": "https://verbiflow.com/blog/enrichment-juggling-problem"
+  }
+}

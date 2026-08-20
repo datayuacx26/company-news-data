@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f01b342517ab0b8c9a766fb2c5c1c726a287f830f8fa282c13da5c965cdb11d5",
+  "company": {
+    "key": "jabil-inc-common-stock",
+    "name": "Jabil Inc."
+  },
+  "source": {
+    "id": "jabil-inc-common-stock-news-import-e505bb03b417",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jabil.com/blog/liquid-cooling-higher-density-racks.html",
+    "canonical": "https://jabil.com/blog/liquid-cooling-higher-density-racks.html"
+  },
+  "title": "Scaling Up: Liquid Cooling for Higher Density Racks",
+  "summary": "Learn how direct liquid cooling enables high-density AI racks, improves data center PUE, reduces water use and supports hyperscale deployment.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T00:41:31.165126+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-20T00:09:52.871093+00:00",
+  "paths": {
+    "article": "articles/v1/42/jabil-inc-common-stock/2026/07/f0/f01b342517ab0b8c9a766fb2c5c1c726a287f830f8fa282c13da5c965cdb11d5/article.md",
+    "record": "articles/v1/42/jabil-inc-common-stock/2026/07/f0/f01b342517ab0b8c9a766fb2c5c1c726a287f830f8fa282c13da5c965cdb11d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4242,
+    "sha256": "sha256:18ad70502463f62d076a79f4e35c1866b6ce7ea486b348761ccc2c7e5bedc743",
+    "normalized_content_hash": "sha256:120979a1247111115926ae226b1ba346f0b76a3ad46ca7d5dad7db9daa3f8497"
+  },
+  "provenance": {
+    "source_item_id": "f2237354-a7e8-4784-930b-43b7a5e9840e",
+    "external_id": "https://jabil.com/blog/liquid-cooling-higher-density-racks.html"
+  }
+}

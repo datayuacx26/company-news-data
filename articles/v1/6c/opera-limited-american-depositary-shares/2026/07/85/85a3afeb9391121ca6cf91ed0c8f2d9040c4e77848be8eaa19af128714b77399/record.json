@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85a3afeb9391121ca6cf91ed0c8f2d9040c4e77848be8eaa19af128714b77399",
+  "company": {
+    "key": "opera-limited-american-depositary-shares",
+    "name": "Opera Limited"
+  },
+  "source": {
+    "id": "opera-limited-american-depositary-shares-news-import-d1faa49832aa",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blogs.opera.com/security/2026/07/security-fix-gx-mods-vulnerability/",
+    "canonical": "https://blogs.opera.com/security/2026/07/security-fix-gx-mods-vulnerability/"
+  },
+  "title": "Security fix: Addressing a GX mods vulnerability",
+  "summary": "We outline how independent researchers helped us identify and fix a vulnerability in an Opera GX feature through responsible disclosure.",
+  "published_at": "2026-07-03T15:27:46+00:00",
+  "first_seen_at": "2026-07-22T07:38:34.207512+00:00",
+  "fetched_at": "2026-07-23T19:47:54.315596+00:00",
+  "last_updated_at": "2026-07-23T19:47:55.972602+00:00",
+  "paths": {
+    "article": "articles/v1/6c/opera-limited-american-depositary-shares/2026/07/85/85a3afeb9391121ca6cf91ed0c8f2d9040c4e77848be8eaa19af128714b77399/article.md",
+    "record": "articles/v1/6c/opera-limited-american-depositary-shares/2026/07/85/85a3afeb9391121ca6cf91ed0c8f2d9040c4e77848be8eaa19af128714b77399/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6930,
+    "sha256": "sha256:b3e13e558b6cfddbf7d32b976144735b380c0646b4a7431aff698810be4eaaf3",
+    "normalized_content_hash": "sha256:02fcb621e9e75a574cdf4bd5e378ae42aec67b585865c00c4e25eaf443ecafae"
+  },
+  "provenance": {
+    "source_item_id": "fad10709-5f97-4c91-bbcd-ab312c6d8edb",
+    "external_id": "https://blogs.opera.com/security/2026/07/security-fix-gx-mods-vulnerability/"
+  }
+}

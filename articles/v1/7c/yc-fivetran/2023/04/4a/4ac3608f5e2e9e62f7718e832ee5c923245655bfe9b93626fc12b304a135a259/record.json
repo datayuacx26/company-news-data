@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ac3608f5e2e9e62f7718e832ee5c923245655bfe9b93626fc12b304a135a259",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/a-beginner-guide-to-elt-data-pipelines",
+    "canonical": "https://www.fivetran.com/blog/a-beginner-guide-to-elt-data-pipelines"
+  },
+  "title": "A Beginner’s Guide to ELT Data Pipelines | Blog | Fivetran",
+  "summary": "Learn why ELT is better than ETL and how you can get started with it.",
+  "published_at": "2023-04-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2023/04/4a/4ac3608f5e2e9e62f7718e832ee5c923245655bfe9b93626fc12b304a135a259/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2023/04/4a/4ac3608f5e2e9e62f7718e832ee5c923245655bfe9b93626fc12b304a135a259/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10797,
+    "sha256": "sha256:23109bc5cde1712290fb7702eb1c9109c95589c26482e2161e05897f3bb9c9d7",
+    "normalized_content_hash": "sha256:0c2ae486c5688e88694ceffdeef47090bdb2d1504cecfd8d8bca8d5cf2a48149"
+  },
+  "provenance": {
+    "source_item_id": "a3a7060d-0050-46bc-b659-8b9089a5ee76",
+    "external_id": "https://www.fivetran.com/blog/a-beginner-guide-to-elt-data-pipelines"
+  }
+}

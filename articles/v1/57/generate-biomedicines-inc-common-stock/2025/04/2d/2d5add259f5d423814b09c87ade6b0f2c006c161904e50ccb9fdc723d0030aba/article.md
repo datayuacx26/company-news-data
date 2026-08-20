@@ -1,0 +1,43 @@
+---
+schema_version: "1.0.0"
+document_id: "2d5add259f5d423814b09c87ade6b0f2c006c161904e50ccb9fdc723d0030aba"
+company_key: "generate-biomedicines-inc-common-stock"
+company: "Generate Biomedicines Inc."
+source_id: "generate-biomedicines-inc-common-stock-news-import-220bb8f4df58"
+canonical_url: "https://generatebiomedicines.com/news-releases/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci/"
+published_at: "2025-04-01T10:00:00+00:00"
+first_seen_at: "2026-07-23T10:24:22.236451+00:00"
+fetched_at: "2026-07-28T21:30:42.971376+00:00"
+content_hash: "sha256:91b2bb2baca9b4d55c5ee13adef8535a23fa61cf397aee3fffe41ce41de37e9e"
+---
+
+# Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci
+
+[News Releases](https://generatebiomedicines.com/news-releases/)
+
+
+# Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci
+
+
+04.01.2025
+
+
+**Somerville, Mass., Tuesday, April 1, 2025** – Generate:Biomedicines today announced the appointment of Marsha Fanucci to its board of directors. A seasoned leader in biotechnology, financial strategy, and corporate growth, Fanucci has played a key role in building and scaling platform-based biotech companies across both private and public markets. Her expertise will help the company strengthen its financial and strategic foundation as it scales its platform and advances the development of novel protein therapeutics.
+
+
+“Marsha has guided high-growth biotech companies through critical phases of expansion, and her expertise will be invaluable as we continue to scale,” said Noubar Afeyan, Ph.D., co-founder and chairman of Generate:Biomedicines and founder and CEO of Flagship Pioneering. ​“Her experience and strategic insight will help strengthen our ability to drive long-term value as we advance our platform.”
+
+
+Fanucci has held leadership roles across the biotech industry, including serving as chief financial officer and senior vice president of strategy at Millennium Pharmaceuticals, where she was instrumental in advancing the company to profitability and leading its $8.8 billion acquisition by Takeda Pharmaceutical Company. Previously, she was vice president of corporate development and strategy at Genzyme Corp. and vice president and director at Arthur D. Little. She has also served on the boards of Alnylam Pharmaceuticals, FORMA Therapeutics, Ironwood Pharmaceuticals, Momenta Pharmaceuticals, Syros Pharmaceuticals, and Cyclerion Therapeutics, advising companies on financial strategy, corporate governance, and business growth.
+
+
+“Marsha’s expertise in financial strategy and governance will help us make the right investments to support the continued growth of the company, our platform, and its application to protein therapeutics,” said Mike Nally, chief executive officer of Generate:Biomedicines and CEO-Partner at Flagship Pioneering. ​“We will leverage her insights as we build an enduring company with technology that expands what is possible and ultimately benefits patients.”
+
+
+**About Generate:Biomedicines**
+Generate:Biomedicines is a technology company founded at the intersection of machine learning, biological engineering and medicine that is advancing a new era of programmable biology to engineer better medicines for patients, faster. The Generate Platform’s infusion of technology into biology allows us to address historically undruggable and hard-to-drug targets as well as known targets in new and more effective ways. The platform has enabled the generation of a broad pipeline of therapies across multiple therapeutic areas and protein-based modalities, addressing health challenges out of reach of traditional approaches. Founded by Flagship Pioneering in 2018, Generate is a clinical-stage company leading a fundamental shift from drug discovery to drug generation. Learn more at www​.gen​er​ate​bio​med​i​cines​.com or follow us on X, LinkedIn and YouTube.
+
+
+**Generate:Biomedicines**
+Megan McLaughlin, Media Relations
+Email:[pr@​generatebiomedicines.​com](https://generatebiomedicines.com/cdn-cgi/l/email-protection#8ffffdcf6d0f04e8eae1eafdeefbeaede6e0e2eaebe6ece6e1eafca16d0f04ece0e2)

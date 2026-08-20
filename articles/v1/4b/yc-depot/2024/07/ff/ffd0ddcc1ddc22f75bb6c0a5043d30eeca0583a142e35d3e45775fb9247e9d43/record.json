@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffd0ddcc1ddc22f75bb6c0a5043d30eeca0583a142e35d3e45775fb9247e9d43",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/faster-github-actions",
+    "canonical": "https://depot.dev/blog/faster-github-actions"
+  },
+  "title": "Faster GitHub Actions with Depot",
+  "summary": "GitHub Actions has several pain points like slow CPUs, slow networks, flaky caching, and odd billing practices. We built Depot GitHub Actions runners to solve these problems and make your builds faster, more reliable, and more affordable.",
+  "published_at": "2024-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/07/ff/ffd0ddcc1ddc22f75bb6c0a5043d30eeca0583a142e35d3e45775fb9247e9d43/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/07/ff/ffd0ddcc1ddc22f75bb6c0a5043d30eeca0583a142e35d3e45775fb9247e9d43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6297,
+    "sha256": "sha256:8f1119286005356b527bc22de26b7d38f7508ecd6c172efd99583b6bb08c8d3d",
+    "normalized_content_hash": "sha256:cd779eaf949798ad7c4904556c595b746633c5a2d03c5217234cdc0cd64fe9b5"
+  },
+  "provenance": {
+    "source_item_id": "113ba85a-eed1-4455-ae02-fc45a0d44336",
+    "external_id": "https://depot.dev/blog/faster-github-actions"
+  }
+}

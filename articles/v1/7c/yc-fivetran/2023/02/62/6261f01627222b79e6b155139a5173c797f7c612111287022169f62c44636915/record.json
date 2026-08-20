@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6261f01627222b79e6b155139a5173c797f7c612111287022169f62c44636915",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/etl-vs-elt-why-a-post-load-process-wins-every-time",
+    "canonical": "https://www.fivetran.com/blog/etl-vs-elt-why-a-post-load-process-wins-every-time"
+  },
+  "title": "ETL vs. ELT: Why a post-load process wins every time",
+  "summary": "Learn three reasons why you should only perform your data transformations post load.",
+  "published_at": "2023-02-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2023/02/62/6261f01627222b79e6b155139a5173c797f7c612111287022169f62c44636915/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2023/02/62/6261f01627222b79e6b155139a5173c797f7c612111287022169f62c44636915/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6438,
+    "sha256": "sha256:8d8ef0b2b8a2209642eae3bc2ca626074a3dc85c99a90cd9eb51b8800bce1ad5",
+    "normalized_content_hash": "sha256:28efa0ca3eac44e8ed255b6832c2b4561f9f8cd23f65f04350125101bbe9075d"
+  },
+  "provenance": {
+    "source_item_id": "9bb25cdc-09a4-42d8-b6d4-4c5e6b01b252",
+    "external_id": "https://www.fivetran.com/blog/etl-vs-elt-why-a-post-load-process-wins-every-time"
+  }
+}

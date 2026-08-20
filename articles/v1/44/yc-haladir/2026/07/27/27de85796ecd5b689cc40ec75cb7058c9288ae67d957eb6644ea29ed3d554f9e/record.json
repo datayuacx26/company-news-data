@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27de85796ecd5b689cc40ec75cb7058c9288ae67d957eb6644ea29ed3d554f9e",
+  "company": {
+    "key": "yc-haladir",
+    "name": "Haladir"
+  },
+  "source": {
+    "id": "yc-haladir-news-import-6dc51fdf4310",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.haladir.com/blog/production-simulation",
+    "canonical": "https://haladir.com/blog/production-simulation"
+  },
+  "title": "Production Simulation: A Benchmark for Planning Under Constraints",
+  "summary": "We built a turn-based factory simulation to test how language models plan under interacting constraints. Across twenty solvable scenarios and nine model configurations, Claude Fable 5 leads every aggregate and is the only model to make multi-product coordination tractable, while reasoning effort, not model choice, is the largest single lever we measured.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:21:34.627558+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-12T11:14:11.192900+00:00",
+  "paths": {
+    "article": "articles/v1/44/yc-haladir/2026/07/27/27de85796ecd5b689cc40ec75cb7058c9288ae67d957eb6644ea29ed3d554f9e/article.md",
+    "record": "articles/v1/44/yc-haladir/2026/07/27/27de85796ecd5b689cc40ec75cb7058c9288ae67d957eb6644ea29ed3d554f9e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17902,
+    "sha256": "sha256:7a966f2a19479db12fe732dd85fac958c35ba5eda7fe1ea984ff176dab9caea9",
+    "normalized_content_hash": "sha256:47eb89c5e9aae324b5692970b6c766a7d56279190f545225f9b19d3f46ca4bf0"
+  },
+  "provenance": {
+    "source_item_id": "7cfcb22b-76ef-4db1-9562-0d20e7a574e1",
+    "external_id": "https://haladir.com/blog/production-simulation"
+  }
+}

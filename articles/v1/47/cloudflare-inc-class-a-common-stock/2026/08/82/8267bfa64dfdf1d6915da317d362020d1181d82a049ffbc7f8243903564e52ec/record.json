@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8267bfa64dfdf1d6915da317d362020d1181d82a049ffbc7f8243903564e52ec",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/grpc-workers/",
+    "canonical": "https://blog.cloudflare.com/grpc-workers/"
+  },
+  "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+  "summary": "Cloudflare Workers now support inbound TCP connections via Spectrum, allowing direct socket forwarding to Durable Objects and Containers. Developers can run full-duplex gRPC applications or leverage automatic gRPC-to-gRPC-web translation directly within Workers.",
+  "published_at": "2026-08-03T13:00:00+00:00",
+  "first_seen_at": "2026-08-03T13:28:47.669131+00:00",
+  "fetched_at": "2026-08-03T14:10:52.670502+00:00",
+  "last_updated_at": "2026-08-06T09:57:56.608114+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/82/8267bfa64dfdf1d6915da317d362020d1181d82a049ffbc7f8243903564e52ec/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/08/82/8267bfa64dfdf1d6915da317d362020d1181d82a049ffbc7f8243903564e52ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14823,
+    "sha256": "sha256:6c5933dac9230fa34c2e6a81c1a8d1ed5084d5de650d2688f7bb4c7e2e73b1f9",
+    "normalized_content_hash": "sha256:d7b8309c865069ec9c0c2a4ce0a73377239e84bcefac6dac7487b1b7a5d1762f"
+  },
+  "provenance": {
+    "source_item_id": "c6f3628c-0519-4f02-988d-3c534e9bdedc",
+    "external_id": "01KZ21C4W4K7E7W8E61PNSYFQ1"
+  }
+}

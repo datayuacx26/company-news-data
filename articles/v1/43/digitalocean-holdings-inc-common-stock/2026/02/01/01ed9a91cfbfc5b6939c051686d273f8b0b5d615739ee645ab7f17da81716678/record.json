@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01ed9a91cfbfc5b6939c051686d273f8b0b5d615739ee645ab7f17da81716678",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/the-container-paradox-k8s-databases",
+    "canonical": "https://www.digitalocean.com/blog/the-container-paradox-k8s-databases"
+  },
+  "title": "The Container paradox: Why the Inference Cloud Demands a “Decoupled” Database",
+  "summary": "Discover why decoupling stateful databases from ephemeral Kubernetes clusters is crucial for reliability. Learn the risks of \"Database-in-a-Box\" and how to choose the right persistence strategy for your cloud-native apps.",
+  "published_at": "2026-02-10T14:00:00.022+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T22:21:02.085623+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/02/01/01ed9a91cfbfc5b6939c051686d273f8b0b5d615739ee645ab7f17da81716678/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/02/01/01ed9a91cfbfc5b6939c051686d273f8b0b5d615739ee645ab7f17da81716678/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9137,
+    "sha256": "sha256:62a0fd1857ab8a4b7dcf61a62cc345301601239823758c8153031f674a053029",
+    "normalized_content_hash": "sha256:4c694fd83cff4c7dcc9d88faded4b01252da1dd08fc389092605cf146c667661"
+  },
+  "provenance": {
+    "source_item_id": "41f28182-628e-450a-992a-5705386f2cdc",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/the-container-paradox-k8s-databases"
+  }
+}

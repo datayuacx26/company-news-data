@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f399d35a7bf80e8ddf9c632a9c72024c88d86d4e35e0d64456f2bfbcd930aaa",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/request-based-autoscaling-app-platform",
+    "canonical": "https://www.digitalocean.com/blog/request-based-autoscaling-app-platform"
+  },
+  "title": "Request-Based Autoscaling Is Now Generally Available on App Platform",
+  "summary": "Request-based autoscaling on DigitalOcean App Platform is now generally available. Apps can now automatically scale based on live HTTP traffic signals (requests per second and P95 response latency) so your infrastructure reacts in real-time.",
+  "published_at": "2026-05-22T18:02:26.884+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/05/3f/3f399d35a7bf80e8ddf9c632a9c72024c88d86d4e35e0d64456f2bfbcd930aaa/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/05/3f/3f399d35a7bf80e8ddf9c632a9c72024c88d86d4e35e0d64456f2bfbcd930aaa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5888,
+    "sha256": "sha256:c89ba4f5da740e7bbffa32a67c7393c169855ae5f2417a6257e7425940c63a23",
+    "normalized_content_hash": "sha256:65165326d23a996cd7ce41988955ec769618f4c7a3527bf30c6fabfc805ee746"
+  },
+  "provenance": {
+    "source_item_id": "ef2270c8-abaa-488c-8bc5-c37566c0c9e2",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/request-based-autoscaling-app-platform"
+  }
+}

@@ -1,0 +1,43 @@
+---
+schema_version: "1.0.0"
+document_id: "14090e10fb99aee7ef1c9bf4c4da803d0883ba853fd094795dd6ec951b4e3d27"
+company_key: "bit-digital-inc-ordinary-shares"
+company: "Bit Digital Inc."
+source_id: "bit-digital-inc-ordinary-shares-rss-4dc5cceb1073"
+canonical_url: "https://bit-digital.com/press-releases/bit-digital-inc-reports-monthly-ethereum-treasury-and-staking-metrics-for-february-2026/"
+published_at: "2026-03-05T13:01:58+00:00"
+first_seen_at: "2026-07-20T23:18:44.822174+00:00"
+fetched_at: "2026-07-28T22:00:58.612667+00:00"
+content_hash: "sha256:a9b0bdea4c4f01f403e664e0e1137ee75874c991935a352f4649f69dd757913d"
+---
+
+# Bit Digital Inc. Reports Monthly Ethereum Treasury and Staking Metrics for February 2026
+
+NEW YORK, March 5, 2026 /PRNewswire/ — Bit Digital, Inc. (Nasdaq: BTBT) (“Bit Digital” or the “Company”) today announced its monthly Ethereum (“ETH”) treasury and staking metrics for the month of February 2026:
+
+
+**Key Highlights for February 2026**
+
+
+- As of February 28, 2026, the Company held approximately 155,434.4\[1\] ETH.
+- Based on a closing ETH price of approximately $1,965, as of February 28, 2026, the market value of the Company’s ETH holdings was approximately $305.4 million.
+- The Company’s total average ETH acquisition price for all holdings was approximately $3,045 as of February 28, 2026.
+- The Company’s total staked ETH was ~138,269, or ~89% of its total holdings, as of February 28, 2026.
+- Staking operations generated approximately 313.9 ETH in rewards during the period, representing an annualized yield of approximately 2.7%.
+- Bit Digital shares outstanding were 324,836,788 as of February 28, 2026.
+- The Company maintains ownership of approximately 27.0 million WhiteFiber (WYFI) shares with a market value of approximately $455.7 million as of February 28, 2026.
+
+
+**About Bit Digital**
+Bit Digital (NASDAQ: BTBT) is a Strategic Asset Company (SAC) focused on active participation in Ethereum infrastructure and controlling equity exposure to AI/HPC infrastructure through its majority ownership stake in WhiteFiber (NASDAQ: WYFI). The Company purchases and stakes ETH to generate protocol-native yield and participates directly in the Ethereum network. Bit Digital allocates capital with a focus on long-duration, foundational infrastructure and disciplined balance sheet management. For additional information, please contact[\[email protected\]](https://bit-digital.com/cdn-cgi/l/email-protection#244d5664464d5009404d434d5045480a474b49) or follow us on[LinkedIn](https://www.linkedin.com/company/bit-digital/) or[X](https://x.com/BitDigital_BTBT) .
+
+
+**Investor Notice**
+Investing in our securities involves a high degree of risk. Before making an investment decision, you should carefully consider the risks, uncertainties and forward-looking statements described under “Risk Factors” in Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2024 (Annual Report) and any subsequently filed Quarterly Reports on Form 10-Q and any Current Reports on Form 8-K. If any material risk was to occur, our business, financial condition or results of operations would likely suffer. In that event, the value of our securities could decline and you could lose part or all of your investment. The risks and uncertainties we describe are not the only ones facing us. Additional risks not presently known to us or that we currently deem immaterial may also impair our business operations. In addition, our past financial performance may not be a reliable indicator of future performance, and historical trends should not be used to anticipate results in the future. See “Safe Harbor Statement” below.
+
+
+**Safe Harbor Statement**
+This press release may contain certain “forward-looking statements” relating to the business of Bit Digital, Inc., and its subsidiary companies. All statements, other than statements of historical fact included herein are “forward-looking statements.” These forward-looking statements are often identified by the use of forward-looking terminology such as “believes,” “expects,” or similar expressions, involving known and unknown risks and uncertainties. Although the Company believes that the expectations reflected in these forward-looking statements are reasonable, they do involve assumptions, risks and uncertainties, and these expectations may prove to be incorrect. Investors should not place undue reliance on these forward-looking statements, which speak only as of the date of this press release. The Company’s actual results could differ materially from those anticipated in these forward-looking statements as a result of a variety of factors, including those discussed in the Company’s periodic reports that are filed with the Securities and Exchange Commission and available on its website at[http://www.sec.gov](http://www.sec.gov/) . All forward-looking statements attributable to the Company or persons acting on its behalf are expressly qualified in their entirety by these factors. Other than as required under the securities laws, the Company does not assume a duty to update these forward-looking statements.
+
+
+\[1\] Includes approximately 15,283.5 ETH and ETH-equivalents held in an externally managed fund.

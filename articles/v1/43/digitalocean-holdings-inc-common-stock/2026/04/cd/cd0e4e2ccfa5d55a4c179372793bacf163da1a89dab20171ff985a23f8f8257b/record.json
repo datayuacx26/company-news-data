@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cd0e4e2ccfa5d55a4c179372793bacf163da1a89dab20171ff985a23f8f8257b",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/sli-based-availability-framework",
+    "canonical": "https://www.digitalocean.com/blog/sli-based-availability-framework"
+  },
+  "title": "From Incident Counting to SLIs: How DigitalOcean Rethought Availability",
+  "summary": "Learn how DigitalOcean replaced incident-based availability tracking with an SLI-driven framework spanning control plane, data plane, and error budgets.",
+  "published_at": "2026-04-23T09:15:00.007+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T22:15:40.956663+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/cd/cd0e4e2ccfa5d55a4c179372793bacf163da1a89dab20171ff985a23f8f8257b/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/cd/cd0e4e2ccfa5d55a4c179372793bacf163da1a89dab20171ff985a23f8f8257b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17412,
+    "sha256": "sha256:53a76ff96277cb8b23f0dd7d74cdb9c0a8c4393ea86f38724c2f4c71a684b2f8",
+    "normalized_content_hash": "sha256:1539018c38bbc67e6a718dd6357fdc2e5dfd30f60fd82769fde9668c71a7e0b2"
+  },
+  "provenance": {
+    "source_item_id": "a09d2038-9f73-43de-a00d-86c22ab10e77",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/sli-based-availability-framework"
+  }
+}

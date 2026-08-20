@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-lemonslice",
+    "name": "LemonSlice"
+  },
+  "record_count": 26,
+  "first_published_at": "2025-12-16T00:00:00+00:00",
+  "last_published_at": "2026-08-07T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/76/yc-lemonslice/index/pages/000001.json",
+        "record_count": 26,
+        "byte_count": 25823,
+        "sha256": "sha256:25a1ee501ef06003984db086c9ea26bf7bf2203fabdb594b6ca1d03796ef3718",
+        "newest_at": "2026-08-13T20:20:51.539590+00:00",
+        "oldest_at": "2025-12-16T00:00:00+00:00"
+      }
+    ]
+  }
+}

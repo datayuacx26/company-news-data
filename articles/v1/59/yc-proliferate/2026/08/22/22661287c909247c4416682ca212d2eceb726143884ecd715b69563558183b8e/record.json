@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22661287c909247c4416682ca212d2eceb726143884ecd715b69563558183b8e",
+  "company": {
+    "key": "yc-proliferate",
+    "name": "Proliferate"
+  },
+  "source": {
+    "id": "yc-proliferate-news-import-ca494a17b85f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://proliferate.com/blog/the-human-in-the-loop-design-pattern-for-autonomous-code-agents",
+    "canonical": "https://proliferate.com/blog/the-human-in-the-loop-design-pattern-for-autonomous-code-agents"
+  },
+  "title": "The “Human-in-the-Loop” Design Pattern for Autonomous Code Agents",
+  "summary": "How to design safe, auditable, reversible human oversight into autonomous AI coding agents—without sacrificing developer velocity. Covers approval gates, sandboxing, checkpoints, rollbacks, and a reference workflow.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T04:48:41.385081+00:00",
+  "fetched_at": "2026-08-13T04:48:43.098509+00:00",
+  "last_updated_at": "2026-08-19T20:05:06.793254+00:00",
+  "paths": {
+    "article": "articles/v1/59/yc-proliferate/2026/08/22/22661287c909247c4416682ca212d2eceb726143884ecd715b69563558183b8e/article.md",
+    "record": "articles/v1/59/yc-proliferate/2026/08/22/22661287c909247c4416682ca212d2eceb726143884ecd715b69563558183b8e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18604,
+    "sha256": "sha256:251154a0554b6206f5eb349e111c0163303ad1802199361a6ab1961c01b46aa5",
+    "normalized_content_hash": "sha256:6b95b0b25ee696fe4060b96d601e1d399822d174cad40cf24dc688eaef75cd7f"
+  },
+  "provenance": {
+    "source_item_id": "703191f0-dd25-4f1f-83bd-e81a5a2370c7",
+    "external_id": "https://proliferate.com/blog/the-human-in-the-loop-design-pattern-for-autonomous-code-agents"
+  }
+}

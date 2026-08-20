@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2bdfd3c3799c3cd7ef9778bd22c75e1ef11a5e2bb042be45af92e420acdc161",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/auto-router-spend-visibility",
+    "canonical": "https://docs.litellm.ai/blog/auto-router-spend-visibility"
+  },
+  "title": "AutoRouter: Easy Visibility to Your Savings",
+  "summary": "A new Auto-Router Usage tab in Cost Optimization, per-request classifier cost reporting, preset matching against your own deployments, and two routing fixes.",
+  "published_at": "2026-08-06T10:00:00+00:00",
+  "first_seen_at": "2026-08-06T15:02:31.954227+00:00",
+  "fetched_at": "2026-08-06T15:02:33.275893+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/08/f2/f2bdfd3c3799c3cd7ef9778bd22c75e1ef11a5e2bb042be45af92e420acdc161/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/08/f2/f2bdfd3c3799c3cd7ef9778bd22c75e1ef11a5e2bb042be45af92e420acdc161/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4816,
+    "sha256": "sha256:8fa5f9b46f2a6655f350583d048469b65106ae37c89b0940447b230c37fdeed1",
+    "normalized_content_hash": "sha256:1e276144f964af9661127eba14af174020a75a4abf26428406b57f49a8c68b70"
+  },
+  "provenance": {
+    "source_item_id": "47b23de6-c5ab-47e0-9b13-979e0edf86f7",
+    "external_id": "https://docs.litellm.ai/blog/auto-router-spend-visibility"
+  }
+}

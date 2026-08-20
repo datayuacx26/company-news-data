@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-afriex",
+    "name": "Afriex"
+  },
+  "record_count": 17,
+  "first_published_at": "2025-01-08T17:19:13.100+00:00",
+  "last_published_at": "2026-08-10T10:12:51.558+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6e/yc-afriex/index/pages/000001.json",
+        "record_count": 17,
+        "byte_count": 17172,
+        "sha256": "sha256:a76cf2311d6d8dd59d483498b2c923ff63819cbfbbf5823e200e56efa1ba78ee",
+        "newest_at": "2026-08-10T10:12:51.558+00:00",
+        "oldest_at": "2025-01-08T17:19:13.100+00:00"
+      }
+    ]
+  }
+}

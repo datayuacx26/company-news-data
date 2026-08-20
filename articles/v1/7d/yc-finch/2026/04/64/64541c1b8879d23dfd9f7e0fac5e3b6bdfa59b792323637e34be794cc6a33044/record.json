@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64541c1b8879d23dfd9f7e0fac5e3b6bdfa59b792323637e34be794cc6a33044",
+  "company": {
+    "key": "yc-finch",
+    "name": "Finch"
+  },
+  "source": {
+    "id": "yc-finch-news-import-d853ae2d7ef6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tryfinch.com/blog/under-the-hood-auth-fragmentation-and-connection-health",
+    "canonical": "https://www.tryfinch.com/blog/under-the-hood-auth-fragmentation-and-connection-health"
+  },
+  "title": "Under the Hood: Auth Fragmentation and Connection Health",
+  "summary": "From OAuth to credential-based flows, payroll auth is anything but standardized. Finch's Connections PM explains how the team manages auth complexity and keeps connections healthy",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:01:05.068281+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-20T03:30:56.325689+00:00",
+  "paths": {
+    "article": "articles/v1/7d/yc-finch/2026/04/64/64541c1b8879d23dfd9f7e0fac5e3b6bdfa59b792323637e34be794cc6a33044/article.md",
+    "record": "articles/v1/7d/yc-finch/2026/04/64/64541c1b8879d23dfd9f7e0fac5e3b6bdfa59b792323637e34be794cc6a33044/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7041,
+    "sha256": "sha256:d1e55e882df8f3b11e6280097f161104171972aed44db24ad9a5f58433d8e441",
+    "normalized_content_hash": "sha256:9874886c4c2d22709bacb8cf307040724e457ddb6641c7d6877ec1fd6271883e"
+  },
+  "provenance": {
+    "source_item_id": "8cca544d-9215-4f3e-a125-aa05b31258e5",
+    "external_id": "https://www.tryfinch.com/blog/under-the-hood-auth-fragmentation-and-connection-health"
+  }
+}

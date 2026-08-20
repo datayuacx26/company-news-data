@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46c6a58f8784d668011abd0ab90e4fa82de9a4dbe007affd3fef89a43fff1263",
+  "company": {
+    "key": "yc-cactus",
+    "name": "Cactus"
+  },
+  "source": {
+    "id": "yc-cactus-news-import-6d2738280b9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cactuscompute.com/blog/turboquant-h",
+    "canonical": "https://cactuscompute.com/blog/turboquant-h"
+  },
+  "title": "TurboQuant-H: Hadamard Rotation for 2-Bit Embedding Quantization",
+  "summary": "A simplified offline variant of TurboQuant using Hadamard rotation and per-group Lloyd-Max codebooks — 4× compression of per-layer embeddings in Gemma 4 E2B at +0.06 PPL.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:01:40.427517+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T01:45:53.248267+00:00",
+  "paths": {
+    "article": "articles/v1/67/yc-cactus/2026/04/46/46c6a58f8784d668011abd0ab90e4fa82de9a4dbe007affd3fef89a43fff1263/article.md",
+    "record": "articles/v1/67/yc-cactus/2026/04/46/46c6a58f8784d668011abd0ab90e4fa82de9a4dbe007affd3fef89a43fff1263/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21354,
+    "sha256": "sha256:506dd83579fd989db5414b7a94de31e26a3e54a573d9a0ffd8e4c93275ae9c1b",
+    "normalized_content_hash": "sha256:c6ce86cce3a0c310d84857f0347f673018686c6f542c94be0506ae2c627d92aa"
+  },
+  "provenance": {
+    "source_item_id": "7668d647-d8e7-41a7-972e-a7f3947ee35d",
+    "external_id": "https://cactuscompute.com/blog/turboquant-h"
+  }
+}

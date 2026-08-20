@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f86b9fe487f04b2ed90150c7a32286b01c745135115a0972b0eaa54e8efd1aa1",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/openspec-signadot-integration-tests-inside-the-agent-loop/",
+    "canonical": "https://www.signadot.com/blog/openspec-signadot-integration-tests-inside-the-agent-loop/"
+  },
+  "title": "OpenSpec + Signadot: Integration Tests Inside the Agent Loop",
+  "summary": "How Austin Xu wired Signadot sandboxes into his coding agent workflow, replacing the 20-minute CI loop with integration feedback in seconds.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T01:00:38.618032+00:00",
+  "fetched_at": "2026-08-19T01:00:42.431351+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/08/f8/f86b9fe487f04b2ed90150c7a32286b01c745135115a0972b0eaa54e8efd1aa1/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/08/f8/f86b9fe487f04b2ed90150c7a32286b01c745135115a0972b0eaa54e8efd1aa1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6068,
+    "sha256": "sha256:d952d496e5aad354dbe35821865e9f4858aa04cdb2452df900e4dd0ecd5919e4",
+    "normalized_content_hash": "sha256:27739a04dfead11c848222841773cd48beeed2ac6781d6d48a51e41626a46a5b"
+  },
+  "provenance": {
+    "source_item_id": "82c4f09a-5b66-4fcd-9b18-d46a7803bb80",
+    "external_id": "https://www.signadot.com/blog/openspec-signadot-integration-tests-inside-the-agent-loop/"
+  }
+}

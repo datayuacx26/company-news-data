@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31ffe31313d2bb06bfab1d520b79ce04012c43948329eb091bd8d17e3b33376f",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/wordpress-on-archil",
+    "canonical": "https://archil.com/article/wordpress-on-archil"
+  },
+  "title": "Tutorial: Archil with Wordpress",
+  "summary": "Learn how to host and scale your WordPress site on AWS using Archil—mount S3 as a local file system for faster performance, simple deployment, and cost-efficient cloud storage without the complexity.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/31/31ffe31313d2bb06bfab1d520b79ce04012c43948329eb091bd8d17e3b33376f/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/31/31ffe31313d2bb06bfab1d520b79ce04012c43948329eb091bd8d17e3b33376f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12131,
+    "sha256": "sha256:30f49ca8a7baba7eb89da31b9c09da602c9e4efb98274d9ef4b1c5314484ea93",
+    "normalized_content_hash": "sha256:a6733f50af321aeafed56804d46c356e729d8b368a67fb59aa57b7041938c032"
+  },
+  "provenance": {
+    "source_item_id": "1bc242a4-c1ec-4664-b2bf-0d92dc579257",
+    "external_id": "https://archil.com/article/wordpress-on-archil"
+  }
+}

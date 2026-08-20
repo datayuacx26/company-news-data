@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d94f73ef9f21b3115c748f9fed3643ec4a747a3d9253824ec39638ed66bc228",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/drop-week-01",
+    "canonical": "https://depot.dev/blog/drop-week-01"
+  },
+  "title": "A recap of Depot Drop Week #01",
+  "summary": "Our first Depot Drop Week is over! We announced three new features that are going to make builds even faster, easier to embed AI models into a build, and allow public forks to leverage the power of Depot builders.",
+  "published_at": "2023-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/07/6d/6d94f73ef9f21b3115c748f9fed3643ec4a747a3d9253824ec39638ed66bc228/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/07/6d/6d94f73ef9f21b3115c748f9fed3643ec4a747a3d9253824ec39638ed66bc228/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4333,
+    "sha256": "sha256:d21833db59b563962703a2651c6d8424cc657fa5af67024dc6ef67e9d4af0a05",
+    "normalized_content_hash": "sha256:8557fb2d63d5d4e2ffe112cfc5d0fd91849b70193f4e9ff428df3cf120f61ea3"
+  },
+  "provenance": {
+    "source_item_id": "c0c50fe4-91ad-49d8-9a9d-d0967cfd26b9",
+    "external_id": "https://depot.dev/blog/drop-week-01"
+  }
+}

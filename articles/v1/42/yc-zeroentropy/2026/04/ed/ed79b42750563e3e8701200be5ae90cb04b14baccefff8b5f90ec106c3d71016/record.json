@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed79b42750563e3e8701200be5ae90cb04b14baccefff8b5f90ec106c3d71016",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/matryoshka-is-dead/",
+    "canonical": "https://zeroentropy.dev/articles/matryoshka-is-dead/"
+  },
+  "title": "Matryoshka Is Dead: Why MRL Isn't Lossless for zembed-1",
+  "summary": "MRL is widely believed to be lossless. When we trained an MRL variant of zembed-1 and measured it against evals built from real-world retrieval traffic, the loss was there. Here's what we shipped instead, and the code to use it.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-07-28T22:04:26.334265+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2026/04/ed/ed79b42750563e3e8701200be5ae90cb04b14baccefff8b5f90ec106c3d71016/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2026/04/ed/ed79b42750563e3e8701200be5ae90cb04b14baccefff8b5f90ec106c3d71016/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18039,
+    "sha256": "sha256:b8ab258ae409ff86b17bdb48408b8452568f4a3d7d48255c4ff3776fbf17c10f",
+    "normalized_content_hash": "sha256:84c3db23f538f679a0a89296880d19f9ed7ea4a8cf266181b9eff91771d836e5"
+  },
+  "provenance": {
+    "source_item_id": "c513f268-1be2-4590-9d0d-a636af4c50d0",
+    "external_id": "https://zeroentropy.dev/articles/matryoshka-is-dead/"
+  }
+}

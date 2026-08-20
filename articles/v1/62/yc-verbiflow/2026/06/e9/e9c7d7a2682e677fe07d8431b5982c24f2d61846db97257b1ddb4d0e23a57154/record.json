@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e9c7d7a2682e677fe07d8431b5982c24f2d61846db97257b1ddb4d0e23a57154",
+  "company": {
+    "key": "yc-verbiflow",
+    "name": "Verbiflow"
+  },
+  "source": {
+    "id": "yc-verbiflow-news-import-392b5e1f9020",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://verbiflow.com/blog/trust-atlas-yc-compliance-gaps",
+    "canonical": "https://verbiflow.com/blog/trust-atlas-yc-compliance-gaps"
+  },
+  "title": "Trust Atlas: how we read every YC company's trust page to find compliance gaps",
+  "summary": "A customer selling compliance tooling needed to find startups that hadn't yet hit SOC 2. We read the trust pages of every company in the last few YC batches, mapped certifications and gaps, and ranked the misses by buying-signal strength.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:39:30.762214+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-19T23:59:47.942243+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-verbiflow/2026/06/e9/e9c7d7a2682e677fe07d8431b5982c24f2d61846db97257b1ddb4d0e23a57154/article.md",
+    "record": "articles/v1/62/yc-verbiflow/2026/06/e9/e9c7d7a2682e677fe07d8431b5982c24f2d61846db97257b1ddb4d0e23a57154/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3945,
+    "sha256": "sha256:967ae6b00221be2c0421c2b4b61dd86062090b67c759a8060f7a1b8edcd107de",
+    "normalized_content_hash": "sha256:dfec822bf88e4a1aa01d5f084f47d5c86a480c00c243a1be6d0b2248ad9f2006"
+  },
+  "provenance": {
+    "source_item_id": "d6979d14-def5-4445-ad2f-6295c51c809a",
+    "external_id": "https://verbiflow.com/blog/trust-atlas-yc-compliance-gaps"
+  }
+}

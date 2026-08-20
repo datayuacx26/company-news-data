@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "250a7e8ba6e9e431a7efb07d7fecad9ab2644d42e009acee8d1410f6cff84021",
+  "company": {
+    "key": "yc-stackup",
+    "name": "Stackup"
+  },
+  "source": {
+    "id": "yc-stackup-news-import-4adfae6a34ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stackup.fi/resources/optimising-eth-senduseroperation-with-native-tracers",
+    "canonical": "https://www.stackup.fi/resources/optimising-eth-senduseroperation-with-native-tracers"
+  },
+  "title": "Optimising eth_sendUserOperation with native tracers",
+  "summary": "Learn how Stackup reduced latency on ERC-4337 transactions, increasing the speed of sending user operations by 50%.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T05:25:45.190590+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T14:33:15.103557+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-stackup/2026/07/25/250a7e8ba6e9e431a7efb07d7fecad9ab2644d42e009acee8d1410f6cff84021/article.md",
+    "record": "articles/v1/42/yc-stackup/2026/07/25/250a7e8ba6e9e431a7efb07d7fecad9ab2644d42e009acee8d1410f6cff84021/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8188,
+    "sha256": "sha256:1e1ba0cd7bf888ee0553f73a7e2080256643d3dde685b300e38c81d9f7315d15",
+    "normalized_content_hash": "sha256:7994a8c5946fae180fbdf8159409b5b485a78523c68aba688ffdf1481d82f65c"
+  },
+  "provenance": {
+    "source_item_id": "4dbe905c-9a00-4a07-a464-50411315c0c1",
+    "external_id": "https://www.stackup.fi/resources/optimising-eth-senduseroperation-with-native-tracers"
+  }
+}

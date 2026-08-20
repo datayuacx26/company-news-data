@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdba7e04f2ca75715d32eb22ef077a2f27b96a59241f0d69133d43e49e64a330",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-gocache-v2-faster-improved-golang-build-performance",
+    "canonical": "https://depot.dev/blog/now-available-gocache-v2-faster-improved-golang-build-performance"
+  },
+  "title": "Now available: Gocache v2 for improved Golang build performance",
+  "summary": "We’re excited to announce Gocache v2, a major step forward in build caching for Go developers. Gocache v2 dramatically reduces build times by efficiently bundling and caching compile and test artifacts, and it’s now available in Depot Cache.",
+  "published_at": "2025-05-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/05/cd/cdba7e04f2ca75715d32eb22ef077a2f27b96a59241f0d69133d43e49e64a330/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/05/cd/cdba7e04f2ca75715d32eb22ef077a2f27b96a59241f0d69133d43e49e64a330/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6160,
+    "sha256": "sha256:5674ebc96b00f179a7ab8af3fc4e58b032a4f6e6bd12baed90d16ce6fdaed41a",
+    "normalized_content_hash": "sha256:1fc31247141ce568661620cd97e93a59bf33ba82f10ca6cd8dfefd710cc1e4f9"
+  },
+  "provenance": {
+    "source_item_id": "40e5930a-e7dc-4dc8-934f-7c10bc9cc054",
+    "external_id": "https://depot.dev/blog/now-available-gocache-v2-faster-improved-golang-build-performance"
+  }
+}

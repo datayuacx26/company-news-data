@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95fa5aefa211b21acfc9af84962f37f6a6fdaf601a3d4578981ca942363865e9",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine",
+    "canonical": "https://www.digitalocean.com/blog/serving-kimi-k3-inference-engine"
+  },
+  "title": "Under the Hood: Serving Kimi K3",
+  "summary": "How DigitalOcean served Kimi K3 on day 0: GPU selection (B300/MI350X), vLLM tuning, and the OpenAI-compatibility fixes for tool calling, streaming, and reasoning.",
+  "published_at": "2026-07-30T17:10:40.266+00:00",
+  "first_seen_at": "2026-07-31T17:01:09.413113+00:00",
+  "fetched_at": "2026-07-31T17:01:11.138983+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/07/95/95fa5aefa211b21acfc9af84962f37f6a6fdaf601a3d4578981ca942363865e9/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/07/95/95fa5aefa211b21acfc9af84962f37f6a6fdaf601a3d4578981ca942363865e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21118,
+    "sha256": "sha256:86585984d68f1c818984653b3da3e8f0385c8ee9cf748df948af2310bb6a9ace",
+    "normalized_content_hash": "sha256:da5df8501de5a11aa47037ca9e2f17f6a44a94bf513c9e95ea9a4ea1dae746af"
+  },
+  "provenance": {
+    "source_item_id": "e8b0fb8e-a260-4abd-8d22-8f80549abc9b",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/serving-kimi-k3-inference-engine"
+  }
+}

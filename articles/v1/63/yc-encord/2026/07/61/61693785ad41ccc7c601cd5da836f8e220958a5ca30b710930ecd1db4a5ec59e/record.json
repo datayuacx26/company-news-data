@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61693785ad41ccc7c601cd5da836f8e220958a5ca30b710930ecd1db4a5ec59e",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/ai-data-curation-practical-framework/",
+    "canonical": "https://encord.com/blog/ai-data-curation-practical-framework/"
+  },
+  "title": "AI Data Curation for LLM and Multimodal Teams: A Practical Framework",
+  "summary": "TL;DR: AI data curation for LLM and multimodal teams means deduplicating, quality-filtering, and cross-modally aligning data across text, image,",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:06:14.355617+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-06T03:19:46.586573+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/61/61693785ad41ccc7c601cd5da836f8e220958a5ca30b710930ecd1db4a5ec59e/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/61/61693785ad41ccc7c601cd5da836f8e220958a5ca30b710930ecd1db4a5ec59e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17454,
+    "sha256": "sha256:6eb5e731c6f105851ed7ad5027077e0b63a7ef6544d84854004d966ef31cee7f",
+    "normalized_content_hash": "sha256:c15c87c55957798d11034450a6219573a9439105f975d7b5669fca5753601aef"
+  },
+  "provenance": {
+    "source_item_id": "fc05d0c3-4250-4b7c-bc35-19b421538029",
+    "external_id": "https://encord.com/blog/ai-data-curation-practical-framework/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cde2cde3eb9358541cc13de2caf39623ae24d15da62888203ba8726851b08720",
+  "company": {
+    "key": "amazon-com-inc-common-stock",
+    "name": "Amazon.com Inc."
+  },
+  "source": {
+    "id": "amazon-com-inc-common-stock-rss-4d9f015bc7ad",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/",
+    "canonical": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/"
+  },
+  "title": "Amazon Quick adds deny by default for custom permissions",
+  "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users. Previously, new AI capabilities were available to all users on release, requiring administrators to react after the fact. With deny by default, administrators restrict the AI capability category in a custom permissions profile and assign it to users, roles, or the entire account. Quick then denies any new AI capability at launch for those users. Restricting a category also restricts existing capabilities in it. Administrators explicitly allow each capability when ready. The restriction applies only to the profile you configure. Configure deny by default in Manage account in Amazon Quick or through the AWS CLI. To learn more, see Custom permissions deny by default . Deny by default is available in all AWS Regions where Amazon Quick is available .",
+  "published_at": "2026-08-12T17:15:00+00:00",
+  "first_seen_at": "2026-08-13T02:44:45.111424+00:00",
+  "fetched_at": "2026-08-17T14:48:22.550886+00:00",
+  "last_updated_at": "2026-08-17T14:48:22.638158+00:00",
+  "paths": {
+    "article": "articles/v1/51/amazon-com-inc-common-stock/2026/08/cd/cde2cde3eb9358541cc13de2caf39623ae24d15da62888203ba8726851b08720/article.md",
+    "record": "articles/v1/51/amazon-com-inc-common-stock/2026/08/cd/cde2cde3eb9358541cc13de2caf39623ae24d15da62888203ba8726851b08720/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1698,
+    "sha256": "sha256:d283a4680118d6734f25cb190bf2893c27e919efc836de97bfc19495f3ef2998",
+    "normalized_content_hash": "sha256:69ac70b0f053561d4bbb74b79afbfccbf7f8faf50f585a24e627d6d290eb84f4"
+  },
+  "provenance": {
+    "source_item_id": "6d86a4c4-68e9-4192-8ab2-45d905e341e2",
+    "external_id": "0e4fe3a31f43dc9746993d1e573e26fc8bc6aed9"
+  }
+}

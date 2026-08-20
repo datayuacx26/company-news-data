@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b01b5e0f679e37ed780322459515fb88c6d711c3881864496a0a6c9780e3c1c3",
+  "company": {
+    "key": "yc-cactus",
+    "name": "Cactus"
+  },
+  "source": {
+    "id": "yc-cactus-news-import-6d2738280b9a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cactuscompute.com/blog/lfm2-5-350m",
+    "canonical": "https://cactuscompute.com/blog/lfm2-5-350m"
+  },
+  "title": "LFM-2.5-350m on Cactus: 140 tok/sec, Single Core, 355 MB",
+  "summary": "Benchmarking Liquid's LFM-2.5-350m across seven devices with Cactus. INT8 quantization, single-core CPU decode, zero-copy loading, and why this configuration makes on-device inference practical.",
+  "published_at": "2026-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:01:40.427517+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-08-20T01:45:53.248267+00:00",
+  "paths": {
+    "article": "articles/v1/67/yc-cactus/2026/03/b0/b01b5e0f679e37ed780322459515fb88c6d711c3881864496a0a6c9780e3c1c3/article.md",
+    "record": "articles/v1/67/yc-cactus/2026/03/b0/b01b5e0f679e37ed780322459515fb88c6d711c3881864496a0a6c9780e3c1c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16463,
+    "sha256": "sha256:2163389bf664b3c6330d26aafd07d4719120eb348a67f3a12a80edc2bd665c62",
+    "normalized_content_hash": "sha256:b6c4d7d48ec5dc5d96d6be3bc3befa313467eacc50280a0ffeb4c826c7fe3578"
+  },
+  "provenance": {
+    "source_item_id": "896bb3bd-c0f4-4159-9f7d-55e2ba236ea2",
+    "external_id": "https://cactuscompute.com/blog/lfm2-5-350m"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a0528fd363f331d9ee5edd9d4e1e5488ac01c5e08dbae696800d0a061b9c32f",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/scaling-coding-agents-enterprise-kubernetes/",
+    "canonical": "https://www.signadot.com/blog/scaling-coding-agents-enterprise-kubernetes/"
+  },
+  "title": "The Staging Trap: How to Unblock AI Coding Agents in Enterprise Kubernetes",
+  "summary": "Shared staging environments are the hidden bottleneck for AI coding agents. Learn how to unblock agentic workflows in enterprise Kubernetes with per-change validation.",
+  "published_at": "2026-04-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T22:16:00.015330+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2026/04/4a/4a0528fd363f331d9ee5edd9d4e1e5488ac01c5e08dbae696800d0a061b9c32f/article.md",
+    "record": "articles/v1/66/yc-signadot/2026/04/4a/4a0528fd363f331d9ee5edd9d4e1e5488ac01c5e08dbae696800d0a061b9c32f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25736,
+    "sha256": "sha256:58e6afa73ba610fa0beb90d0ceaa1554b1113f029a81c475dd4e19b3116b976b",
+    "normalized_content_hash": "sha256:b8b4d409f2ef5d5bc2f7057417b0200ef397edd9173bd40cc0d0634c1b9852e7"
+  },
+  "provenance": {
+    "source_item_id": "e915ca22-99c9-429e-9a3e-01345302051c",
+    "external_id": "https://www.signadot.com/blog/scaling-coding-agents-enterprise-kubernetes/"
+  }
+}

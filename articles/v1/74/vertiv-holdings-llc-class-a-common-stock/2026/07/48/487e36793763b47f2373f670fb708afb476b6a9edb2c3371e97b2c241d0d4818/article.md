@@ -1,0 +1,99 @@
+---
+schema_version: "1.0.0"
+document_id: "487e36793763b47f2373f670fb708afb476b6a9edb2c3371e97b2c241d0d4818"
+company_key: "vertiv-holdings-llc-class-a-common-stock"
+company: "Vertiv Holdings LLC"
+source_id: "vertiv-holdings-llc-class-a-common-stock-rss-85345a038170"
+canonical_url: "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2020/honeywell-and-vertiv-to-improve-sustainability-for-data-center-operations-across-the-globe/"
+published_at: null
+first_seen_at: "2026-07-20T23:21:38.534751+00:00"
+fetched_at: "2026-07-28T21:49:03.166047+00:00"
+content_hash: "sha256:8546f1fd3829b47a747f30c2937eda6bc58f95a67b9e6f1eac32dddaa7949c0e"
+---
+
+# Honeywell and Vertiv to Improve Sustainability for Data Center Operations Across the Globe
+
+- *Joint effort combines Honeywell operational technology experience with Vertiv’s critical digital infrastructure solutions to create more sustainable and efficient data center operations*
+- *First joint offering to combine intelligent selection of energy resources with centralized visibility of operations and infrastructure to help reduce energy use*
+
+
+**ATLANTA AND COLUMBUS, OHIO** \[October 14, 2020\] – Data centers help enable the online applications that people depend on for work, entertainment and communications, but they require significant power to move information around the world. Today, two industry leaders announced a collaboration to create more sustainable and efficient data center operations.
+
+
+Honeywell ( **NYSE: HON** ), a global leader in connected buildings, and Vertiv ( **NYSE: VRT** ), a global provider of critical digital infrastructure and continuity solutions, will work together to create integrated solutions to optimize data center sustainability, resiliency and operational performance. These solutions are expected to be available in 2020.
+
+
+The partnership builds on Honeywell’s industry-leading building management systems (BMS), operational software, and safety and security products along with Vertiv’s uninterruptible power supply (UPS), power distribution, thermal management, infrastructure monitoring and modular solutions to enable operators of hyperscale, large enterprise, co-location and edge data centers to integrate multiple domains of data within a data center. The companies will leverage building-operations data to drive optimization of operations, reducing energy use and costs while improving data center performance and sustainability.
+
+
+“Data centers face similar challenges as other buildings that have disparate systems that were not designed to work together, but they experience these challenges on a greater scale,” said Vimal Kapur, president and CEO, Honeywell Building Technologies. “We look forward to collaborating with Vertiv to offer integrated solutions that make it easier for data center operators to distill the mountains of data they pull from their equipment into actions that create more efficient and environmentally friendly operations.”
+
+
+“Business continuity is more critical than ever, with more people working, learning and connecting remotely, driving a simultaneous explosion in data and demand for new data centers. There is need and opportunity for data centers to be more efficient, reliable and sustainable,” said Rob Johnson, CEO, Vertiv. “Our collaboration with Honeywell will help us to collectively better serve our data center customers. Our offerings complement each other to provide greater value to data center operators.”
+
+
+**Collaboration Improves Power Management for Uptime, Efficiency and Sustainability**
+
+
+Data centers in 2018 consumed approximately 1% of the world’s energy use. i, ii While the industry has made great strides to reduce and offset energy demands, including increasing the utilization of renewable energy, more work can be done toward a more sustainable and carbon-neutral future.
+
+
+The companies’ initial focus will be on micro-grid solutions for data centers to enable more efficient integration of alternative energy sources such as solar arrays, fuel cells and batteries, and to provide a scalable approach for operators to quickly enhance functionality and improve total cost of ownership.
+
+
+The first offering from the collaboration will be an intelligent power management solution that features an energy resource management and supervisory control system in a single, integrated platform. Combining energy storage, analytics, forecasting and economic optimization, the solution will provide data centers with intelligent and autonomous selection of energy sources and grid services to operate a data center load and reduce energy costs while maintaining uptime requirements. The solution can help data centers meet availability requirements while optimizing energy costs, meeting corporate sustainability goals and reducing overall carbon footprint. It will also allow operators to better manage sustainability targets and account for external risk factors such as weather and grid reliability.
+
+
+**Resilient Operations Backed by Trusted Brands**
+
+
+The large amount of power used for thermal management, building systems and physical security within a data center can increase risk for downtime. The new scalable and easy-to-implement intelligent power management solution from Honeywell and Vertiv is designed to enable remote monitoring and maintenance, reduce costs, eliminate redundancy and improve power usage effectiveness (PUE).
+
+
+Combined, the companies sell industry-leading product brands that provide best-in-class differentiated support to data centers, including Honeywell’s advanced detection business featuring the VESDA brand of advanced smoke detection technology; Honeywell Forge enterprise performance management platform including Honeywell Forge Energy Optimization; Enterprise Buildings Integrator (EBI) and the Niagara Framework; and the Vertiv™ Liebert® power and thermal management solutions, Vertiv™ *Avocent* ™ monitoring and IT management solutions, and Vertiv™ *Geist* ™ power distribution solutions.
+
+
+To learn more about Honeywell and Vertiv data center collaborations, visit[https://hwll.co/vqtw6](https://hwll.co/vqtw6) or[http://b.link/3c94d](http://b.link/3c94d) .
+
+
+****
+
+
+**About Vertiv**
+
+
+Vertiv brings together hardware, software, analytics and ongoing services to ensure its customers’ vital applications run continuously, perform optimally and grow with their business needs. As Architects of Continuity™, Vertiv solves the most important challenges facing today’s data centers, communication networks and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extends from the cloud to the edge of the network. Headquartered in Columbus, Ohio, Vertiv employs approximately 20,000 people and does business in more than 130 countries. For more information, and for the latest news and content from Vertiv, visit[Vertiv.com](https://www.vertiv.com/en-us/) .
+
+
+**About Honeywell Building Technologies**
+
+
+Honeywell Building Technologies (HBT) is a global business with more than 20,000 employees. HBT creates products, software and technologies found in more than 10 million buildings worldwide. Commercial building owners and occupants use our technologies to ensure their facilities are safe, energy efficient, sustainable and productive. For more news and information on Honeywell Building Technologies, visit[http://www.honeywell.com/newsroom](http://www.honeywell.com/newsroom) .
+
+
+Honeywell ([www.honeywell.com](http://www.honeywell.com/) ) is a Fortune 100 technology company that delivers industry specific solutions that include aerospace products and services; control technologies for buildings and industry; and performance materials globally. Our technologies help aircraft, buildings, manufacturing plants, supply chains, and workers become more connected to make our world smarter, safer, and more sustainable. For more news and information on Honeywell, please visit[www.honeywell.com/newsroom](http://www.honeywell.com/newsroom) .
+
+
+---
+
+
+i. Science, Recalibrating global data center energy-use estimates, E. Masanet, A. Shehabi, N. Lei, S. Smith, J. Koomey, Vol. 367, Issue 6481, p. 984-986, February 28, 2020 \[Accessed August 4, 2020\]
+ii. The New York Times, Cloud Computing Is Not the Energy Hog That Had Been Feared, February 27, 2020 \[Accessed August 4, 2020\]
+
+
+**Contacts:**
+
+
+**Honeywell**
+Megan McGovern
+**T** (470) 449-6313
+**E**Megan.McGovern@Honeywell.com
+
+
+**Vertiv**
+Sara Steindorf
+**T** (314) 982-1725
+**E**Sara.Steindorf@fleishman.com
+
+
+---

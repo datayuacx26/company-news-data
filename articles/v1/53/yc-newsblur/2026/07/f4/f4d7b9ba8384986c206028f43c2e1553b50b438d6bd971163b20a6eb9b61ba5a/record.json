@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4d7b9ba8384986c206028f43c2e1553b50b438d6bd971163b20a6eb9b61ba5a",
+  "company": {
+    "key": "yc-newsblur",
+    "name": "NewsBlur"
+  },
+  "source": {
+    "id": "yc-newsblur-rss-0646845e5ccf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.newsblur.com/t/intelligence-trainer-not-applied-on-ios/13772#post_2",
+    "canonical": "https://forum.newsblur.com/t/intelligence-trainer-not-applied-on-ios/13772"
+  },
+  "title": "Intelligence Trainer not applied on iOS?",
+  "summary": "Hello, I have a self-hosted newsblur installation. I’ve got a bunch of text global classifiers with super dislikes. In the browser, articles with the matching text don’t show up as expected. In the iOS app though, the articles that shouldn’t be showing up, are showing up. If I open them up, the disliked text is highlighted. Is this a bug or is there an option that I need to enable in the iOS app to hide the the matching disliked articles? On the self-hosted installation, premium pro is enabl...",
+  "published_at": "2026-07-12T16:36:14+00:00",
+  "first_seen_at": "2026-07-25T16:10:32.307561+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-11T19:14:06.915799+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-newsblur/2026/07/f4/f4d7b9ba8384986c206028f43c2e1553b50b438d6bd971163b20a6eb9b61ba5a/article.md",
+    "record": "articles/v1/53/yc-newsblur/2026/07/f4/f4d7b9ba8384986c206028f43c2e1553b50b438d6bd971163b20a6eb9b61ba5a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1376,
+    "sha256": "sha256:256d8c5e96bfd8e7e3453eff5e3c59c4434a03b834d0c5f1e32360c0dbccaea7",
+    "normalized_content_hash": "sha256:52b882a8c7d29d8c4a91459968033415e66c68b75378803c71874d98fe428b11"
+  },
+  "provenance": {
+    "source_item_id": "bbcc13dd-1bdd-4d91-ae5d-734c98b756a6",
+    "external_id": "forum.newsblur.com-post-45044"
+  }
+}

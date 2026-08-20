@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68f8967ac2dfc8e2da69a723b1d7f78b10cd4f42d1a237cd90031f39cbb916ea",
+  "company": {
+    "key": "yc-inkeep",
+    "name": "Inkeep"
+  },
+  "source": {
+    "id": "yc-inkeep-rss-006a915c529f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://inkeep.com/blog/context-engineering-why-agents-fail",
+    "canonical": "https://inkeep.com/blog/context-engineering-why-agents-fail"
+  },
+  "title": "Context Engineering: The Real Reason AI Agents Fail in Production",
+  "summary": "Most AI agent failures aren't about model quality—they're about poor context management. Here's why context engineering is the missing piece in enterprise AI.",
+  "published_at": "2025-11-07T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:13.852300+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T03:03:40.990279+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-inkeep/2025/11/68/68f8967ac2dfc8e2da69a723b1d7f78b10cd4f42d1a237cd90031f39cbb916ea/article.md",
+    "record": "articles/v1/53/yc-inkeep/2025/11/68/68f8967ac2dfc8e2da69a723b1d7f78b10cd4f42d1a237cd90031f39cbb916ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11110,
+    "sha256": "sha256:a4718db77588a36d964bd636de2210bee5db77577174f077f4bc287bd9d8064a",
+    "normalized_content_hash": "sha256:adddfec7cb3859467691b0bb5e63f6a184f625daa69a8d62501a1e60a8a889ac"
+  },
+  "provenance": {
+    "source_item_id": "648a9f64-76f5-4b19-8154-157e1fa7cb33",
+    "external_id": "https://inkeep.com/blog/context-engineering-why-agents-fail"
+  }
+}

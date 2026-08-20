@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c6b7dfc54a8f893fc04d8fadf299c327b7b59159c7ecbe0f3b66de30b7826a1",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/docker-layer-caching-in-google-cloud-build",
+    "canonical": "https://depot.dev/blog/docker-layer-caching-in-google-cloud-build"
+  },
+  "title": "Faster Docker image builds in Cloud Build with layer caching",
+  "summary": "The easiest way to get faster Docker image builds inside of Google Cloud Build is to make use of the layer cache as frequently as possible. But options available today in Cloud Build can often negate the advantages of layer caching.",
+  "published_at": "2022-11-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/11/8c/8c6b7dfc54a8f893fc04d8fadf299c327b7b59159c7ecbe0f3b66de30b7826a1/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/11/8c/8c6b7dfc54a8f893fc04d8fadf299c327b7b59159c7ecbe0f3b66de30b7826a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11390,
+    "sha256": "sha256:f3d875310ba3c568e6103b26fc642e0d1cca171cb65195061a21a6f8734c7063",
+    "normalized_content_hash": "sha256:8dda061ec43f4d67f27791a268ba405fa53cf4a77b70c9933e2c2bea4cbb3662"
+  },
+  "provenance": {
+    "source_item_id": "9d022dee-fbb5-4af5-b83a-fe8c6204110f",
+    "external_id": "https://depot.dev/blog/docker-layer-caching-in-google-cloud-build"
+  }
+}

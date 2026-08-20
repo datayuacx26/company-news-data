@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdc2b6525862c1e89a8da224aa516a69874c94b6a3abc5f3e6af8afa7ca24389",
+  "company": {
+    "key": "yc-flick",
+    "name": "Flick"
+  },
+  "source": {
+    "id": "yc-flick-news-import-00342d05d871",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://flick.art/blog/img2img-consistent-character/nano-banana",
+    "canonical": "https://flick.art/blog/img2img-consistent-character/nano-banana"
+  },
+  "title": "How to Keep a Character Consistent in Nano Banana",
+  "summary": "Nano Banana, Google's Gemini image model, is praised for character consistency: supply reference images of your subject and edit conversationally to place the same face in new scenes. Nano Banana Pro blends up to fourteen references and holds up to five subjects.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T08:28:30.776088+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:51.015961+00:00",
+  "paths": {
+    "article": "articles/v1/4e/yc-flick/2026/07/cd/cdc2b6525862c1e89a8da224aa516a69874c94b6a3abc5f3e6af8afa7ca24389/article.md",
+    "record": "articles/v1/4e/yc-flick/2026/07/cd/cdc2b6525862c1e89a8da224aa516a69874c94b6a3abc5f3e6af8afa7ca24389/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1498,
+    "sha256": "sha256:dee8a790bab9fd4b59d1dfb8a148a68e1a05b42ab9b942716e1e9c14508fc2da",
+    "normalized_content_hash": "sha256:4d38e947750b8faf59f21541e8c682c58d6700d925bbb911f3fd8b85c7182875"
+  },
+  "provenance": {
+    "source_item_id": "165927b1-48b0-47f0-b4cc-b39f524585bf",
+    "external_id": "https://flick.art/blog/img2img-consistent-character/nano-banana"
+  }
+}

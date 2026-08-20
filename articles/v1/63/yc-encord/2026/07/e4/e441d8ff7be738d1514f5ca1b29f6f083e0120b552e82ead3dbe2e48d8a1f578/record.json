@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e441d8ff7be738d1514f5ca1b29f6f083e0120b552e82ead3dbe2e48d8a1f578",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/data-curation-best-practices-for-ai-a-step-by-step/",
+    "canonical": "https://encord.com/blog/data-curation-best-practices-for-ai-a-step-by-step/"
+  },
+  "title": "Data Curation Best Practices for AI: A Step-by-Step Framework",
+  "summary": "TL;DR: Data curation is the process of collecting, cleaning, selecting, and organizing data so a model can be trained on it reliably. Most curat",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:06:14.355617+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-05T13:31:14.690829+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/e4/e441d8ff7be738d1514f5ca1b29f6f083e0120b552e82ead3dbe2e48d8a1f578/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/e4/e441d8ff7be738d1514f5ca1b29f6f083e0120b552e82ead3dbe2e48d8a1f578/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12205,
+    "sha256": "sha256:a45aea89a2133649702fff65dfcddad5eeff479fad8efa68a502a16225f464f1",
+    "normalized_content_hash": "sha256:fbc2335805b5251974931ee6712d0845eeed34452c73b39294b4e789dd0a7e7b"
+  },
+  "provenance": {
+    "source_item_id": "78291a8e-baf2-4b11-98f9-43777a08e8e9",
+    "external_id": "https://encord.com/blog/data-curation-best-practices-for-ai-a-step-by-step/"
+  }
+}

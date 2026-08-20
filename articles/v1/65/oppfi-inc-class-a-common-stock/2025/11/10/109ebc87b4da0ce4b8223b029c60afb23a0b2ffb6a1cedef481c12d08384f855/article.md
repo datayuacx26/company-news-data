@@ -1,0 +1,65 @@
+---
+schema_version: "1.0.0"
+document_id: "109ebc87b4da0ce4b8223b029c60afb23a0b2ffb6a1cedef481c12d08384f855"
+company_key: "oppfi-inc-class-a-common-stock"
+company: "OppFi Inc."
+source_id: "oppfi-inc-class-a-common-stock-rss-dd5a12a34a2a"
+canonical_url: "https://investors.oppfi.com/news/news-details/2025/OppFi-to-present-at-Stephens-Investment-Conference/default.aspx"
+published_at: "2025-11-06T21:30:00+00:00"
+first_seen_at: "2026-07-25T17:44:15.725136+00:00"
+fetched_at: "2026-07-28T22:33:07.638076+00:00"
+content_hash: "sha256:f526b680d4d5a758b3a74f4ec5718cc64f84aa30b133f9d9c092fa281239a2c2"
+---
+
+# OppFi to present at Stephens Investment Conference
+
+[View All News](https://investors.oppfi.com/news/default.aspx)
+
+
+### OppFi to present at Stephens Investment Conference
+
+
+November 6, 2025
+
+
+- [Download (opens in new window)](https://s206.q4cdn.com/723382727/files/doc_news/OppFi-to-present-at-Stephens-Investment-Conference-2025.pdf)
+
+
+CHICAGO
+
+
+, Nov. 6, 2025
+
+
+/PRNewswire/ -- OppFi Inc. (NYSE: OPFI) ("OppFi" or the "Company"), a tech-enabled digital finance platform that partners with banks to offer financial products and services to everyday Americans, announced that Pam Johnson, CFO, will present at the Stephens Annual Investment Conference in Nashville, TN, on November 19 at 1:00 p.m. CT/2:00 p.m. ET.
+
+
+A video webcast of the presentation will be available[here](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4552027-1&h=1918127418&u=https%3A%2F%2Fevent.summitcast.com%2Fview%2F4xGMMHuH7TkUARrFoGH3S3%2FmPVgTi3jcNJh7RK8BumWgr&a=here) or on the Company's website[investors.oppfi.com](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4552027-1&h=3558679123&u=https%3A%2F%2Finvestors.oppfi.com%2Fevents-and-presentations%2Fdefault.aspx&a=investors.oppfi.com) . The webcast will be archived on the company's website for 90 days following the event.
+
+
+**About OppFi**
+
+
+OppFi (NYSE: OPFI) is a tech-enabled digital finance platform that partners with banks to offer financial products and services to everyday Americans. Through this transparent and responsible platform, which emphasizes financial inclusion and exceptional customer experience, the Company assists consumers who are underserved by traditional financing options in building improved financial health. OppLoans by OppFi maintains a 4.4/5.0 star rating on Trustpilot based on over 5,200 reviews, positioning the Company among the top consumer-rated financial platforms online. OppFi also holds a 35% equity interest in Bitty Holdings, LLC ("Bitty"), a credit access company that provides revenue-based financing and other working capital solutions to small businesses. For additional information, please visit[oppfi.com](http://oppfi.com/) .
+
+
+**Contacts:**
+
+
+Investor Relations:
+Mike Gallentine
+Head of Investor Relations
+mgallentine@oppfi.com
+
+
+Media Relations:
+media@oppfi.com
+
+
+View original content to download multimedia:[https://www.prnewswire.com/news-releases/oppfi-to-present-at-stephens-investment-conference-302607616.html](https://www.prnewswire.com/news-releases/oppfi-to-present-at-stephens-investment-conference-302607616.html)
+
+
+SOURCE OppFi
+
+
+[View All News](https://investors.oppfi.com/news/default.aspx)

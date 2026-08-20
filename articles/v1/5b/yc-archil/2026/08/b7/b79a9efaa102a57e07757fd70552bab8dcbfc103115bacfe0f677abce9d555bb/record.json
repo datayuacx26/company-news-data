@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b79a9efaa102a57e07757fd70552bab8dcbfc103115bacfe0f677abce9d555bb",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-fbbb60f1501e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/post/are-archils-sandboxes-as-free-as-cloudflare-egress",
+    "canonical": "https://archil.com/post/are-archils-sandboxes-as-free-as-cloudflare-egress"
+  },
+  "title": "Are Archil's sandboxes as free as Cloudflare egress?",
+  "summary": "One thing that customers are most surprised by when they move to Archil is that their sandbox costs usually go to $0 by moving to Serverless execution. This is great for them, but also a little...",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:48.524951+00:00",
+  "fetched_at": "2026-08-09T19:14:50.194785+00:00",
+  "last_updated_at": "2026-08-19T21:00:26.401304+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/b7/b79a9efaa102a57e07757fd70552bab8dcbfc103115bacfe0f677abce9d555bb/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/b7/b79a9efaa102a57e07757fd70552bab8dcbfc103115bacfe0f677abce9d555bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8664,
+    "sha256": "sha256:9d8df6e3f5738b31454834b980b66a505e06d8ab77b701d6f32b83eb34685b86",
+    "normalized_content_hash": "sha256:00dc912bd8ed3807a848a21032601a1a104a856d809746b513cb3295adeed0ef"
+  },
+  "provenance": {
+    "source_item_id": "534e1735-42ed-4523-b4ea-a70ca861d855",
+    "external_id": "https://archil.com/post/are-archils-sandboxes-as-free-as-cloudflare-egress"
+  }
+}

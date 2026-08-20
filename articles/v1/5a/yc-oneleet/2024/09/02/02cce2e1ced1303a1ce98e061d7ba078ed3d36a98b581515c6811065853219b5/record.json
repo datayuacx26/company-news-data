@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "02cce2e1ced1303a1ce98e061d7ba078ed3d36a98b581515c6811065853219b5",
+  "company": {
+    "key": "yc-oneleet",
+    "name": "Oneleet"
+  },
+  "source": {
+    "id": "yc-oneleet-news-import-d01376dbbc95",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneleet.com/blog/unveiling-the-hidden-challenges-of-vpc-peering",
+    "canonical": "https://www.oneleet.com/blog/unveiling-the-hidden-challenges-of-vpc-peering"
+  },
+  "title": "Unveiling the Hidden Challenges of VPC Peering",
+  "summary": "Learn to troubleshoot VPC peering issues in Google Cloud. Discover how to configure firewalls, IP tables, and health checks for seamless cross-project communication. Includes tips for GKE clusters and Calico network policies. Oneleet's guide to robust multi-cloud infrastructure.",
+  "published_at": "2024-09-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:26:35.695106+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-19T20:57:15.336191+00:00",
+  "paths": {
+    "article": "articles/v1/5a/yc-oneleet/2024/09/02/02cce2e1ced1303a1ce98e061d7ba078ed3d36a98b581515c6811065853219b5/article.md",
+    "record": "articles/v1/5a/yc-oneleet/2024/09/02/02cce2e1ced1303a1ce98e061d7ba078ed3d36a98b581515c6811065853219b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10774,
+    "sha256": "sha256:6ff4a58ad435e089c8d891164eab013b783cacddd25f1456e94dd4a814d95ece",
+    "normalized_content_hash": "sha256:949dc6bc2bc6d2aea9baa1b7cd3d0d59c363a3648b43ead4f22ae955b853974d"
+  },
+  "provenance": {
+    "source_item_id": "97c63f6d-986f-4a15-a695-2f4618ee01a0",
+    "external_id": "https://www.oneleet.com/blog/unveiling-the-hidden-challenges-of-vpc-peering"
+  }
+}

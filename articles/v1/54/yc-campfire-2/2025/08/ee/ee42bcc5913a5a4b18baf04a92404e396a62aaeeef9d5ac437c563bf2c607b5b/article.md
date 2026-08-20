@@ -1,0 +1,121 @@
+---
+schema_version: "1.0.0"
+document_id: "ee42bcc5913a5a4b18baf04a92404e396a62aaeeef9d5ac437c563bf2c607b5b"
+company_key: "yc-campfire-2"
+company: "Campfire"
+source_id: "yc-campfire-2-rss-3be8123e2374"
+canonical_url: "https://campfire.ai/blog/campfire-raises-35m-series-a-from-accel"
+published_at: "2025-08-27T22:43:08+00:00"
+first_seen_at: "2026-07-20T23:23:46.218928+00:00"
+fetched_at: "2026-07-28T20:56:25.546971+00:00"
+content_hash: "sha256:3402de34694988f0e0a6aef301a72e9f7b9290de7ba932081bb84dba6fea2623"
+---
+
+# Campfire $35M Series A Led by Accel: Building the Future of AI-First ERP
+
+[Blog](https://campfire.ai/blog) Article
+
+
+[Back to Home](https://campfire.ai/blog)
+
+
+2025-08-27T22:43:08Z
+
+
+# Campfire $35M Series A Led by Accel: Building the Future of AI-First ERP
+
+
+John Glasgow
+
+
+CEO & Founder, Campfire
+
+
+August 27, 2025
+
+
+[General](https://campfire.ai/blog?category=General)
+
+
+Today, I’m thrilled to announce a significant milestone for Campfire: we’ve raised a $35 million Series A, led by[Accel](https://www.accel.com/noteworthies/our-investment-in-campfire-building-the-future-of-ai-native-erp#all) , with new and continued support from Foundation Capital, Y Combinator, Capital 49 and prominent industry executives, including Marten Abrahamsen, CFO at Vercel, Dan Kang, CFO at Mercury, Alex Estevez, Former CFO at Atlassian, Michael Gordon, Former CFO at MongoDB, Sowmya Ranganathan, Former Controller at OpenAI, and Jack Zhang, Co-Founder & CEO at AirWallex.
+
+
+This is a moment of both celebration and renewed ambition for our team—and for me, personally, it’s a chance to once again partner with Accel and John Locke, after our shared journey at Invoice2go.
+
+
+# *Partnering again with Accel—and John Locke*
+
+
+Working with John Locke and the Accel team has always been about more than capital. While a finance executive at Invoice2go, we built the company into a category leader, culminating in a $625M+ acquisition by Bill.com. That experience taught us the power of deep partnership and the importance of building for real customer pain. Now, with Campfire, we’re running it back—but this time, the opportunity ahead is even bigger.
+
+
+ERP is one of the largest and most entrenched categories in enterprise software, with a global market projected to reach over $220 billion (per Morgan Stanley). Yet, despite its size, the category is infamous for legacy products that frustrate modern teams, especially those building with AI at their core. My own journey as a finance executive at companies like Adobe, Invoice2go, and Bill.com exposed just how much pain legacy ERPs inflict on growing companies. Through the $625M acquisition of Invoice2go, I experienced it all firsthand, our accounting workflows and financial reporting was all in spreadsheets, because our ERP simply wasn’t built for modern teams.
+
+
+Campfire was born from this frustration—a modern, AI-native ERP platform that empowers finance teams to move faster, automate more, and make smarter decisions. We’re building the kind of software I always wished we had at Invoice2go: easy to use, automated, and powerful enough to scale through an IPO.
+
+
+# *10x Growth—In Every Sense*
+
+
+The momentum we’ve seen in just two years is humbling. We’ve 10x’d our funding, from a $3.5M seed to a $35M Series A. But more importantly, we’ve 10x’d our revenue: fueled by rapid product development, accelerating customer adoption, and a growing roster of ambitious companies choosing Campfire over legacy incumbents.
+
+
+Companies like Replit, Coder, Solv, Trust & Will, Flex, Advisor360, and Midi Health are just a few of the ambitious teams already running their finance operations on Campfire. They’re not just customers—they’re partners in building the future of ERP. We’ve helped teams migrate painlessly from QuickBooks, NetSuite, Sage Intacct, and SAP, delivering the automation, configurability, and insight they need to close the month fast, and scale faster.
+
+
+Campfire’s product maturity rivals that of platforms that have been around for decades. We’re already supporting sophisticated workflows, global consolidations, and the demands of enterprise companies. Our customers tell us Campfire is as intuitive as the best consumer apps, but powerful enough for the most complex finance teams.
+
+
+# *Leading the AI Revolution*
+
+
+The ERP market is at an inflection point, with a “great unbundling” underway as AI reshapes the landscape. The same way that SAP and NetSuite brought finance teams to the cloud 25 years ago, we’re redefining the category with AI. This raise is about more than financial durability—it’s about scaling our vision and building the best product for our customers. Our roadmap is aligned around three pillars:
+
+
+1) Close the month faster with confidence
+
+
+2) Unlock deeper financial insights
+
+
+3) Scale smarter
+
+
+Whether it's providing your technical accounting memo to Campfire for an AI-powered audit of your accounting data, or AI financial analysis such as cashflow forecasting, Campfire is changing how accounting and finance teams operate in the AI era.
+
+
+Yet despite all the progress in AI—there’s still no conference providing the knowledge, strategies, and community to thrive. We’re changing that with **Finance Forward** , the first AI summit for finance & accounting teams, coming to San Francisco this Fall.[Sign up here](https://hi.meetcampfire.com/events) to learn more.
+
+
+# *The Road Ahead*
+
+
+In addition to our AI leadership, there were a few consistent themes from investors during our fundraise:
+
+
+1. Product velocity - Within two years of founding, Campfire is already moving complex companies from mature ERPs like Netsuite and SAP.
+2. Customer love - Customer reference checks were incredibly strong (thank you customers!)
+3. Incredible momentum - We’re growing really fast–10x ARR growth in the last 10 months.
+
+
+These themes are central to everything that we do at Campfire. None of this would be possible without the dedication and grit of the Campfire team. Every milestone, every product launch, every customer win—it all comes back to this group of 10x builders who care deeply about making a real impact for our customers. If you’re excited about our mission and want to help shape the future of finance,[we’re hiring](https://meetcampfire.notion.site/Campfire-careers-fe583ee7025a4789b650d74bcd86aae4) !
+
+
+To our customers and partners: thank you for your continued support and belief in our mission. To the finance and accounting teams that are ready for a modern ERP—come see what’s possible with Campfire.
+
+
+If you’re interested in learning more about our story, read the[exclusive in TechCrunch](https://techcrunch.com/2025/06/30/tiny-ai-erp-startup-campfire-is-winning-so-many-startups-from-netsuite-accel-led-a-35m-series-a/) .
+
+
+We’ve accomplished so much, but it’s still day zero at Campfire. Our journey has just begun.
+
+
+—[John Glasgow](https://www.linkedin.com/in/johnglasgow/)
+Founder & CEO, Campfire
+
+
+Related Articles
+
+
+Loading posts...

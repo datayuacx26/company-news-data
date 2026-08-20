@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36f980863e77bb55766fe180dc42b2d9c63e6bbc3cba326fd6011f3e7ac1c8f4",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/gitops-secrets-management",
+    "canonical": "https://infisical.com/blog/gitops-secrets-management"
+  },
+  "title": "Secure GitOps Workflows: A Practical Guide to Secrets Management",
+  "summary": "Learn how to implement secure secrets management in your GitOps workflow with Infisical. Discover practical patterns for GitHub Actions, ArgoCD, and Terraform integration.",
+  "published_at": "2025-01-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2025/01/36/36f980863e77bb55766fe180dc42b2d9c63e6bbc3cba326fd6011f3e7ac1c8f4/article.md",
+    "record": "articles/v1/68/yc-infisical/2025/01/36/36f980863e77bb55766fe180dc42b2d9c63e6bbc3cba326fd6011f3e7ac1c8f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20670,
+    "sha256": "sha256:eb53fbb91301f7ddc824ad13e9d2eb05bab4d9b22cd132e942a6237d6b0058d9",
+    "normalized_content_hash": "sha256:759a9c03f681694e6614832d5d696edff49a02156b8bc4f682827c5b7db651bb"
+  },
+  "provenance": {
+    "source_item_id": "32fdee0d-4bcc-46ec-baef-56d15ad5a5e2",
+    "external_id": "https://infisical.com/blog/gitops-secrets-management"
+  }
+}

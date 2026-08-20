@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "379a48380d10d4ed4ff9c2952359edacf0b5c33e0c17ff7c6818f1bef3e5efd3",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/independent-steps-in-parallel",
+    "canonical": "https://depot.dev/blog/independent-steps-in-parallel"
+  },
+  "title": "Speed up CI by running independent steps in parallel",
+  "summary": "Most CI jobs run as one long serial script even when half the work doesn't depend on the other half. You can run independent steps in parallel for faster CI. We'll compare two ways to do it: shell backgrounding and Depot CI's parallel steps.",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/05/37/379a48380d10d4ed4ff9c2952359edacf0b5c33e0c17ff7c6818f1bef3e5efd3/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/05/37/379a48380d10d4ed4ff9c2952359edacf0b5c33e0c17ff7c6818f1bef3e5efd3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14590,
+    "sha256": "sha256:2d9138545c6974a346bd522afab1a2dbb59ca3c565e226e9c3009191033e7975",
+    "normalized_content_hash": "sha256:6eab95b8a0352db5926b5b15ed8c608bf266149b65559a979877d136073e5d10"
+  },
+  "provenance": {
+    "source_item_id": "5e892756-22bf-4786-b3f2-92cca57ea151",
+    "external_id": "https://depot.dev/blog/independent-steps-in-parallel"
+  }
+}

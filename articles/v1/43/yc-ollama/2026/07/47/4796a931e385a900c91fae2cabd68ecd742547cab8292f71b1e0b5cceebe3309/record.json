@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4796a931e385a900c91fae2cabd68ecd742547cab8292f71b1e0b5cceebe3309",
+  "company": {
+    "key": "yc-ollama",
+    "name": "Ollama"
+  },
+  "source": {
+    "id": "yc-ollama-news-import-14866557b877",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ollama.com/blog/cloud-models",
+    "canonical": "https://ollama.com/blog/cloud-models"
+  },
+  "title": "Cloud models",
+  "summary": "Cloud models are now in preview, letting you run larger models with fast, datacenter-grade hardware. You can keep using your local tools while running larger models that wouldn’t fit on a personal computer.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:08:30.130278+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:48.729249+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-ollama/2026/07/47/4796a931e385a900c91fae2cabd68ecd742547cab8292f71b1e0b5cceebe3309/article.md",
+    "record": "articles/v1/43/yc-ollama/2026/07/47/4796a931e385a900c91fae2cabd68ecd742547cab8292f71b1e0b5cceebe3309/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3348,
+    "sha256": "sha256:b7d54648b9b9375bb9d108470044ac33023f77ace0bb0b42e106b18388949cfd",
+    "normalized_content_hash": "sha256:e31a7836ba3ab5fcab05ea34e1e13cc931cd4818cbb14a75d99ee0ca8db5cd8c"
+  },
+  "provenance": {
+    "source_item_id": "cba5dee5-238a-4502-8069-2a2a9f901658",
+    "external_id": "https://ollama.com/blog/cloud-models"
+  }
+}

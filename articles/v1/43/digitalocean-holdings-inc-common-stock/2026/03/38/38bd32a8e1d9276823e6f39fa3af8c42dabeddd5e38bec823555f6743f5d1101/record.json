@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38bd32a8e1d9276823e6f39fa3af8c42dabeddd5e38bec823555f6743f5d1101",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/prompt-caching-with-digital-ocean",
+    "canonical": "https://www.digitalocean.com/blog/prompt-caching-with-digital-ocean"
+  },
+  "title": "Prompt Caching for Anthropic and OpenAI Models: Building Cost-Efficient AI Systems",
+  "summary": "Learn how prompt caching in Anthropic and OpenAI models cut LLM costs and latency by reusing large, repeated prompt prefixes instead of reprocessing them on every request.",
+  "published_at": "2026-03-17T19:25:04.252+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/03/38/38bd32a8e1d9276823e6f39fa3af8c42dabeddd5e38bec823555f6743f5d1101/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/03/38/38bd32a8e1d9276823e6f39fa3af8c42dabeddd5e38bec823555f6743f5d1101/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14406,
+    "sha256": "sha256:40bffd3f9114e0a4f762a1ed9a5880a3c0fa2d6de6b657d29d4e08a5ac749473",
+    "normalized_content_hash": "sha256:cac7c8779760ad97630474416190546da624d2335fd2d829ce4096d10275703c"
+  },
+  "provenance": {
+    "source_item_id": "23937a0e-3281-41df-a447-fa74d45566e7",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/prompt-caching-with-digital-ocean"
+  }
+}

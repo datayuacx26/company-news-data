@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b3a92dd8aba414a482b84a79d415a8c7cb13973f67b6ea63ba385f3f751c6c95",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/ai-sovereignty",
+    "canonical": "https://airbyte.com/blog/ai-sovereignty"
+  },
+  "title": "Sovereignty Starts Below the Model",
+  "summary": "AI sovereignty is not just about owning models. It starts with controlling the data, context, governance, and infrastructure beneath them.",
+  "published_at": "2026-07-17T18:17:00+00:00",
+  "first_seen_at": "2026-07-21T23:17:10.236435+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/07/b3/b3a92dd8aba414a482b84a79d415a8c7cb13973f67b6ea63ba385f3f751c6c95/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/07/b3/b3a92dd8aba414a482b84a79d415a8c7cb13973f67b6ea63ba385f3f751c6c95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8403,
+    "sha256": "sha256:128b9e3522adfa9dcbc4bf14ef208bd19d57c16d807c549170ccb61fdee353d8",
+    "normalized_content_hash": "sha256:2b178d2dd2eae28009d22bdb9cae529379995064198751866046cfbad00e3d9d"
+  },
+  "provenance": {
+    "source_item_id": "2945c9c3-c085-41e1-9d18-729a66c13a2f",
+    "external_id": "https://airbyte.com/blog/ai-sovereignty"
+  }
+}

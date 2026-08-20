@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f21c6217d04ffaa1df20759027da67815ec73748726448ecc93483e342eb501",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/agent-pipeline-approval-gates",
+    "canonical": "https://airbyte.com/blog/agent-pipeline-approval-gates"
+  },
+  "title": "Implementing Confidence Thresholds and Approval Gates in Agent Pipelines",
+  "summary": "Learn how to set confidence thresholds and approval gates in AI agent pipelines to reduce errors and ensure human oversight.",
+  "published_at": "2026-07-22T14:41:00+00:00",
+  "first_seen_at": "2026-07-22T23:17:45.253356+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/07/8f/8f21c6217d04ffaa1df20759027da67815ec73748726448ecc93483e342eb501/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/07/8f/8f21c6217d04ffaa1df20759027da67815ec73748726448ecc93483e342eb501/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 34177,
+    "sha256": "sha256:99b3e1a2ea9f5636d009eff9c60b208be8afcc9fe48567eaaa57d11606235c9f",
+    "normalized_content_hash": "sha256:c8ca2c8b6277a5f193348bca09156978a2fa5cb43180c893d39bacf9e165f5b9"
+  },
+  "provenance": {
+    "source_item_id": "f8e08c9f-0c9c-4609-a6d7-0b507f136df5",
+    "external_id": "https://airbyte.com/blog/agent-pipeline-approval-gates"
+  }
+}

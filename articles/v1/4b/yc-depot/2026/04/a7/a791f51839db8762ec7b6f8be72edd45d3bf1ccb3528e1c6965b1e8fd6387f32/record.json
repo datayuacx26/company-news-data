@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a791f51839db8762ec7b6f8be72edd45d3bf1ccb3528e1c6965b1e8fd6387f32",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/migrate-to-depot-ci",
+    "canonical": "https://depot.dev/blog/migrate-to-depot-ci"
+  },
+  "title": "Migrating my workflows from GitHub Actions to Depot CI",
+  "summary": "Depot CI runs GitHub Actions workflows on Depot infrastructure, and migrating is pretty seamless. Here's a walkthrough of moving an app's CI over, from installing the CLI to digging into logs.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:52:48.201959+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/04/a7/a791f51839db8762ec7b6f8be72edd45d3bf1ccb3528e1c6965b1e8fd6387f32/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/04/a7/a791f51839db8762ec7b6f8be72edd45d3bf1ccb3528e1c6965b1e8fd6387f32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12267,
+    "sha256": "sha256:c573a40beb148a959907b74c207739e05550911f6c7ad06f387c1b1833d965c3",
+    "normalized_content_hash": "sha256:8ed42f25e29547679e252eb5f3bc7ab037179075887d98e20367619e4071150e"
+  },
+  "provenance": {
+    "source_item_id": "5eed0880-ba3b-497b-bbf8-ea5721ada510",
+    "external_id": "https://depot.dev/blog/migrate-to-depot-ci"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e5570e1ed995b97928b11b59335e9b573ee83af8bd6d5749a4b6b601e01ddde3",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/your-ci-cd-pipeline-wasnt-built-for-microservices/",
+    "canonical": "https://www.signadot.com/blog/your-ci-cd-pipeline-wasnt-built-for-microservices/"
+  },
+  "title": "Your CI/CD Pipeline Wasn’t Built for Microservices",
+  "summary": "Don’t blame your CI/CD tools for being slow. Let your pipeline focus on component-level validation and move systemwide testing to developer canary testing.",
+  "published_at": "2025-08-14T18:20:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/08/e5/e5570e1ed995b97928b11b59335e9b573ee83af8bd6d5749a4b6b601e01ddde3/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/08/e5/e5570e1ed995b97928b11b59335e9b573ee83af8bd6d5749a4b6b601e01ddde3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7241,
+    "sha256": "sha256:df59ad81e45c07e14ab5ccfa8b5dd5af8da3fb7e2e3874f471ba17f21ddcccfc",
+    "normalized_content_hash": "sha256:a896ebb558a1511cca536ba7d36828cdcc2b48b97a7fa07259be108c7cd82b38"
+  },
+  "provenance": {
+    "source_item_id": "83dc042f-91ae-45d5-aef5-63ac80684bc2",
+    "external_id": "https://www.signadot.com/blog/your-ci-cd-pipeline-wasnt-built-for-microservices/"
+  }
+}

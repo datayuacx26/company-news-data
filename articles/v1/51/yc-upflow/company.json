@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-upflow",
+    "name": "Upflow"
+  },
+  "record_count": 29,
+  "first_published_at": "2026-06-24T00:00:00+00:00",
+  "last_published_at": "2026-07-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 24
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/51/yc-upflow/index/pages/000001.json",
+        "record_count": 29,
+        "byte_count": 28405,
+        "sha256": "sha256:7786ab651e6e27b723cbf90a233887aca0c652f3583695a40cdde8aad3faafc8",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2026-06-24T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a2bf3ff81c66c52126c96b6db514d8795d8097af662ce3b8a5da01f6221642b7",
+  "company": {
+    "key": "yc-anglera",
+    "name": "Anglera"
+  },
+  "source": {
+    "id": "yc-anglera-rss-43f494d1c3a6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.anglera.com/blog/cold-start-forecasting-new-products",
+    "canonical": "https://www.anglera.com/blog/cold-start-forecasting-new-products"
+  },
+  "title": "Forecasting a product with no history: cold starts and attribute similarity",
+  "summary": "A new SKU has no sales history, so its forecast borrows one from a similar item. Here's why that similarity match is only as good as your attributes.",
+  "published_at": "2026-06-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:38.455846+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T00:48:35.740276+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-anglera/2026/06/a2/a2bf3ff81c66c52126c96b6db514d8795d8097af662ce3b8a5da01f6221642b7/article.md",
+    "record": "articles/v1/53/yc-anglera/2026/06/a2/a2bf3ff81c66c52126c96b6db514d8795d8097af662ce3b8a5da01f6221642b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7768,
+    "sha256": "sha256:96ab7d2bac3a8ac21894b86ae2ae073c7c277b3b44e8aff0b9f1badefdcea430",
+    "normalized_content_hash": "sha256:f269ee93cb05e51a83d2cc5ea08ce8defc71fe59c174b619d751ecd2c09dc5cf"
+  },
+  "provenance": {
+    "source_item_id": "98d6e2f7-9168-41ab-b765-b4cb6bb68102",
+    "external_id": "https://www.anglera.com/blog/cold-start-forecasting-new-products"
+  }
+}

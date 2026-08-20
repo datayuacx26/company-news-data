@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26957417b2db44defd117f540800700e4a6ac55645772327391fd93921ffafe1",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/evaluating-mistral-ocr-4-on-pulsebench-tab",
+    "canonical": "https://www.runpulse.com/blog/evaluating-mistral-ocr-4-on-pulsebench-tab"
+  },
+  "title": "Evaluating Mistral OCR 4 on PulseBench-Tab",
+  "summary": "Mistral released OCR 4 - the obvious question on our end working in the space was a narrow but vital one: how does it handle tables? Table extraction is one of the toughest parts of document understanding, so we ran OCR 4 through the full PulseBench-Tab document set the same day it shipped. | Pulse AI",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:59.698897+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T17:07:20.336090+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/06/26/26957417b2db44defd117f540800700e4a6ac55645772327391fd93921ffafe1/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/06/26/26957417b2db44defd117f540800700e4a6ac55645772327391fd93921ffafe1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2889,
+    "sha256": "sha256:e772ad0ae69846d124b63aa1cc26d38e9547eb20ef5a5f0eb1dc9521ebecaa16",
+    "normalized_content_hash": "sha256:f79d040467d42c523eb57474dd389df2e305f21eff715cf81e77caa7b0cf5e26"
+  },
+  "provenance": {
+    "source_item_id": "4b3ff084-73e9-4706-8048-3916d9125bdb",
+    "external_id": "https://www.runpulse.com/blog/evaluating-mistral-ocr-4-on-pulsebench-tab"
+  }
+}

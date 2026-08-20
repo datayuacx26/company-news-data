@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "245e35109466af3481d9013c9875003f597182471aba19a97aa140932be2587a",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/context-engineering",
+    "canonical": "https://mastra.ai/articles/context-engineering"
+  },
+  "title": "Context engineering for AI agents: a practical guide",
+  "summary": "Learn what context engineering is, how it differs from prompt engineering, and the strategies for managing context in production agent systems.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T12:39:25.041167+00:00",
+  "fetched_at": "2026-08-13T12:39:27.012997+00:00",
+  "last_updated_at": "2026-08-13T12:39:27.675832+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/08/24/245e35109466af3481d9013c9875003f597182471aba19a97aa140932be2587a/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/08/24/245e35109466af3481d9013c9875003f597182471aba19a97aa140932be2587a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27773,
+    "sha256": "sha256:e8496777d132fc4ef95796e6d72874950093314b2092d595686d81159feb6e3d",
+    "normalized_content_hash": "sha256:a17bad1d467c6d9b00112d95077bb8f136241785bed0c74a6b114d8fe1f79049"
+  },
+  "provenance": {
+    "source_item_id": "5a132e28-eac3-4542-a631-ffcc4d7f72e9",
+    "external_id": "https://mastra.ai/articles/context-engineering"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43713506128af54fc382a99ebace0d67f9a0485167f7e56955fd6d034926df1b",
+  "company": {
+    "key": "wealthfront-corporation-common-stock",
+    "name": "Wealthfront Corporation"
+  },
+  "source": {
+    "id": "wealthfront-corporation-common-stock-rss-9fbe6ef385e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://eng.wealthfront.com/2026/03/26/how-we-standardized-mariadb-in-our-integration-server/",
+    "canonical": "https://eng.wealthfront.com/2026/03/26/how-we-standardized-mariadb-in-our-integration-server/"
+  },
+  "title": "How we standardized MariaDB in our Integration Server",
+  "summary": "Engineering at Wealthfront is centered on the idea that code should be written to facilitate testing, not the other way around. Without a staging environment to fall back on, we maximize confidence through a sophisticated, multi-layered testing strategy. While unit tests provide our most rigorous line of defense, our Integration Server is the workhorse that... Read more",
+  "published_at": "2026-03-26T18:59:43+00:00",
+  "first_seen_at": "2026-07-20T23:18:22.615485+00:00",
+  "fetched_at": "2026-07-28T21:56:52.525405+00:00",
+  "last_updated_at": "2026-08-20T00:33:06.699247+00:00",
+  "paths": {
+    "article": "articles/v1/7c/wealthfront-corporation-common-stock/2026/03/43/43713506128af54fc382a99ebace0d67f9a0485167f7e56955fd6d034926df1b/article.md",
+    "record": "articles/v1/7c/wealthfront-corporation-common-stock/2026/03/43/43713506128af54fc382a99ebace0d67f9a0485167f7e56955fd6d034926df1b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11996,
+    "sha256": "sha256:8aab8552c8b3b355411f4ea1b25c07cade15641ea05522930c34a6f516fa6e6a",
+    "normalized_content_hash": "sha256:dda5f03587d4297b0fa43899929d2ae78820c84a7a08f867a5078e8f2af30f78"
+  },
+  "provenance": {
+    "source_item_id": "83b22ed6-8a3f-4dc9-b202-03a68b8c6c65",
+    "external_id": "https://eng.wealthfront.com/?p=4068"
+  }
+}

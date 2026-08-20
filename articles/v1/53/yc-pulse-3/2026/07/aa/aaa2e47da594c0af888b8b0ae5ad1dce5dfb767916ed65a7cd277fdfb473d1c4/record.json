@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aaa2e47da594c0af888b8b0ae5ad1dce5dfb767916ed65a7cd277fdfb473d1c4",
+  "company": {
+    "key": "yc-pulse-3",
+    "name": "Pulse"
+  },
+  "source": {
+    "id": "yc-pulse-3-news-import-f90f167021ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runpulse.com/blog/capturing-what-the-pen-says-handwritten-mark-detection-in-pulse",
+    "canonical": "https://www.runpulse.com/blog/capturing-what-the-pen-says-handwritten-mark-detection-in-pulse"
+  },
+  "title": "Capturing what the pen says: Handwritten Mark Detection in Pulse",
+  "summary": "Pulse is launching Selection Mark, a purpose-built model that reads the checkmarks, circles, underlines, and strikethroughs people make on forms, where frontier VLMs reliably fail. It adds selection state to the standard extraction API in under 20 milliseconds per page with no extra calls. | Pulse AI",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:59.698897+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T17:07:20.336090+00:00",
+  "paths": {
+    "article": "articles/v1/53/yc-pulse-3/2026/07/aa/aaa2e47da594c0af888b8b0ae5ad1dce5dfb767916ed65a7cd277fdfb473d1c4/article.md",
+    "record": "articles/v1/53/yc-pulse-3/2026/07/aa/aaa2e47da594c0af888b8b0ae5ad1dce5dfb767916ed65a7cd277fdfb473d1c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8163,
+    "sha256": "sha256:b661aa49bdf5a9bda8681ac49a1e0a8c5810c41d7c2db071263859b4620b1711",
+    "normalized_content_hash": "sha256:b9b58d601b9694f85929947eec200e99d27953d65aaa3541cf97d750331e4a84"
+  },
+  "provenance": {
+    "source_item_id": "721bce06-5f56-4405-82a1-f6b31eceb2de",
+    "external_id": "https://www.runpulse.com/blog/capturing-what-the-pen-says-handwritten-mark-detection-in-pulse"
+  }
+}

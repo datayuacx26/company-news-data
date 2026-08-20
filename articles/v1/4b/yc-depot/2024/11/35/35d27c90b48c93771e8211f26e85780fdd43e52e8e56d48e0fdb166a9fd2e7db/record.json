@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "35d27c90b48c93771e8211f26e85780fdd43e52e8e56d48e0fdb166a9fd2e7db",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/github-actions-runner-settings",
+    "canonical": "https://depot.dev/blog/github-actions-runner-settings"
+  },
+  "title": "Now available: GitHub Actions Runners settings",
+  "summary": "We've rolled out two new settings you can now control for your organizations GitHub Actions runners to automatically authenticate with our Depot Registry and to default to using containerd inside of your workflows. Read on to learn more about these new settings.",
+  "published_at": "2024-11-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/11/35/35d27c90b48c93771e8211f26e85780fdd43e52e8e56d48e0fdb166a9fd2e7db/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/11/35/35d27c90b48c93771e8211f26e85780fdd43e52e8e56d48e0fdb166a9fd2e7db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2628,
+    "sha256": "sha256:27b67894f96a011d546fbf5f9839ccb45c131d72a8e893b56dcc5a9f538918a9",
+    "normalized_content_hash": "sha256:1c05b730beb0d3c7542d77744b3c898b79f95ecc2cbebd5fc06a33ab4d7aa223"
+  },
+  "provenance": {
+    "source_item_id": "c5018ddc-ec83-433d-828e-2ec37f5b10da",
+    "external_id": "https://depot.dev/blog/github-actions-runner-settings"
+  }
+}

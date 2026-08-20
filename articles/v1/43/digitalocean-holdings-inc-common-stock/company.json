@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "record_count": 108,
+  "first_published_at": "2022-03-09T00:00:00+00:00",
+  "last_published_at": "2026-07-30T17:10:40.266+00:00",
+  "partitions": [
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/43/digitalocean-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 63561,
+        "sha256": "sha256:c8efbb7ccd8d873964e4b441ace1bbb68eabbb86f61b9ba72c7b05d9ed4ddbfd",
+        "newest_at": "2026-07-30T17:10:40.266+00:00",
+        "oldest_at": "2026-03-13T15:49:48.901+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/43/digitalocean-holdings-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 60906,
+        "sha256": "sha256:0db218228efe6aa20aa960d4a2dfafc5ed7a7c454c9d63747d1baa420f048a51",
+        "newest_at": "2026-03-05T21:21:25.719+00:00",
+        "oldest_at": "2025-09-03T04:09:34.122+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/43/digitalocean-holdings-inc-common-stock/index/pages/000003.json",
+        "record_count": 8,
+        "byte_count": 10005,
+        "sha256": "sha256:1c34ef8049630bdb1f933cdef954bc132d203a5ff2d2efb922c9a252a2da51ce",
+        "newest_at": "2025-09-02T23:01:24.361+00:00",
+        "oldest_at": "2022-03-09T00:00:00+00:00"
+      }
+    ]
+  }
+}

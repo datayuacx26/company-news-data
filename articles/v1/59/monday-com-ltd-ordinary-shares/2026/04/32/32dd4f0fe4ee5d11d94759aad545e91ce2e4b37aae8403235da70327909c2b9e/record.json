@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "32dd4f0fe4ee5d11d94759aad545e91ce2e4b37aae8403235da70327909c2b9e",
+  "company": {
+    "key": "monday-com-ltd-ordinary-shares",
+    "name": "monday.com Ltd."
+  },
+  "source": {
+    "id": "monday-com-ltd-ordinary-shares-rss-78444ad48313",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.monday.com/redesign-authorization-to-monday-com-scale/",
+    "canonical": "https://engineering.monday.com/redesign-authorization-to-monday-com-scale/"
+  },
+  "title": "Redesign Authorization to monday.com Scale",
+  "summary": "How monday.com redesigned its authorization system to cut P50 latency from 240ms to 6ms by using in-memory decisions.",
+  "published_at": "2026-04-26T14:06:03+00:00",
+  "first_seen_at": "2026-07-20T23:22:14.841151+00:00",
+  "fetched_at": "2026-07-28T20:52:06.558365+00:00",
+  "last_updated_at": "2026-08-20T01:47:09.867914+00:00",
+  "paths": {
+    "article": "articles/v1/59/monday-com-ltd-ordinary-shares/2026/04/32/32dd4f0fe4ee5d11d94759aad545e91ce2e4b37aae8403235da70327909c2b9e/article.md",
+    "record": "articles/v1/59/monday-com-ltd-ordinary-shares/2026/04/32/32dd4f0fe4ee5d11d94759aad545e91ce2e4b37aae8403235da70327909c2b9e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8385,
+    "sha256": "sha256:53de38de52f5c7345c7a0dfeb89180640bce540ca317cf89687c6b39c2f71273",
+    "normalized_content_hash": "sha256:718ad924995851adb2e2f897f01d844460a0fb175131b3569292098ce7b1e443"
+  },
+  "provenance": {
+    "source_item_id": "bb247451-f313-421d-9ada-8d15b366f472",
+    "external_id": "https://engineering.monday.com/?p=12269"
+  }
+}

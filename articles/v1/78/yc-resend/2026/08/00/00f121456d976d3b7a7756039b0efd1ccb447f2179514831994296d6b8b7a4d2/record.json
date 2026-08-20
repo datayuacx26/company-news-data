@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00f121456d976d3b7a7756039b0efd1ccb447f2179514831994296d6b8b7a4d2",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-news-import-e788018b3f7d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://resend.com/changelog/cancel-broadcast-api",
+    "canonical": "https://resend.com/changelog/cancel-broadcast-api"
+  },
+  "title": "Cancel Broadcast API",
+  "summary": "Cancel scheduled or queued Broadcasts directly from the API.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T20:48:26.603854+00:00",
+  "fetched_at": "2026-08-18T20:48:29.213529+00:00",
+  "last_updated_at": "2026-08-20T01:39:55.585906+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2026/08/00/00f121456d976d3b7a7756039b0efd1ccb447f2179514831994296d6b8b7a4d2/article.md",
+    "record": "articles/v1/78/yc-resend/2026/08/00/00f121456d976d3b7a7756039b0efd1ccb447f2179514831994296d6b8b7a4d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3063,
+    "sha256": "sha256:9f2cf89443fdacbc486ed98dd5e15dc9fd3f1e612c28e8ad051ee0a7cce0feb1",
+    "normalized_content_hash": "sha256:d2b28067b228646f8723f095893f3da9b27783fbee681170c313768bf6ca6d3f"
+  },
+  "provenance": {
+    "source_item_id": "1fbc01aa-5790-4004-95a2-a59f70e7ddca",
+    "external_id": "https://resend.com/changelog/cancel-broadcast-api"
+  }
+}

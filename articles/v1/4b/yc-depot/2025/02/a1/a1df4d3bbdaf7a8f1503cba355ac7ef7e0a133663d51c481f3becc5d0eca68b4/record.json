@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a1df4d3bbdaf7a8f1503cba355ac7ef7e0a133663d51c481f3becc5d0eca68b4",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/github-actions-breaking-five-second-barrier",
+    "canonical": "https://depot.dev/blog/github-actions-breaking-five-second-barrier"
+  },
+  "title": "How we launch GitHub Actions runners in 5 seconds",
+  "summary": "Learn how we’ve taken the time it takes for our infrastructure to launch GitHub Actions runners down to 5 seconds.",
+  "published_at": "2025-02-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/02/a1/a1df4d3bbdaf7a8f1503cba355ac7ef7e0a133663d51c481f3becc5d0eca68b4/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/02/a1/a1df4d3bbdaf7a8f1503cba355ac7ef7e0a133663d51c481f3becc5d0eca68b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9134,
+    "sha256": "sha256:c1effd44044e0226af8c5d2be46b455ccc78f939550211353e879b7ff427a539",
+    "normalized_content_hash": "sha256:b08e39839c6dadbb2fb40cff5a503d93c6e4ef2be9cf14f5d46b8124e993e546"
+  },
+  "provenance": {
+    "source_item_id": "a7a13380-a07f-4be3-8949-782fef017e9a",
+    "external_id": "https://depot.dev/blog/github-actions-breaking-five-second-barrier"
+  }
+}

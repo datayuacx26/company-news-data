@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b41d251281c3f61c3a27530008109287575bbf676a7e5fe6e213f6ff18dfb425",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/cache-layers-vs-storage-classes",
+    "canonical": "https://archil.com/article/cache-layers-vs-storage-classes"
+  },
+  "title": "Cache Layers vs Storage Classes for Performance",
+  "summary": "Compare Amazon S3 Express One Zone and caching solutions like Archil—discover when to use high-performance S3 storage vs. dynamic, cost-efficient caching for ultra-low-latency workloads.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/b4/b41d251281c3f61c3a27530008109287575bbf676a7e5fe6e213f6ff18dfb425/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/b4/b41d251281c3f61c3a27530008109287575bbf676a7e5fe6e213f6ff18dfb425/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7576,
+    "sha256": "sha256:bf343c499224200ee3cf37da757725585dd7b9293d58efa290a8c60796c83d7f",
+    "normalized_content_hash": "sha256:581eb0cf5a42f21a7b485997347b59f9a0f1a58b09023ea2beba82475e2f63ea"
+  },
+  "provenance": {
+    "source_item_id": "b6170f39-f030-4579-aedb-13aec2e7d73c",
+    "external_id": "https://archil.com/article/cache-layers-vs-storage-classes"
+  }
+}

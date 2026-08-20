@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8fccc4d40af19d17d1f8497ca57842569b1c4c6362e7b12a0b00474cafcd62e0",
+  "company": {
+    "key": "yc-sentrial",
+    "name": "Sentrial"
+  },
+  "source": {
+    "id": "yc-sentrial-news-import-e72e91747750",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sentrial.com/blog/datadog-vs-dynatrace-2026-features-rca-ai-agent-gaps",
+    "canonical": "https://www.sentrial.com/blog/datadog-vs-dynatrace-2026-features-rca-ai-agent-gaps"
+  },
+  "title": "Datadog vs Dynatrace Can't Tell You When Your AI Agent Is Wrong",
+  "summary": "Both Datadog and Dynatrace handle infrastructure monitoring well. But if you're running production AI agents, they share a blind spot that neither vendor is talking about loudly enough.",
+  "published_at": "2026-06-12T07:40:40.231+00:00",
+  "first_seen_at": "2026-07-25T23:34:43.014509+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T00:07:41.633498+00:00",
+  "paths": {
+    "article": "articles/v1/60/yc-sentrial/2026/06/8f/8fccc4d40af19d17d1f8497ca57842569b1c4c6362e7b12a0b00474cafcd62e0/article.md",
+    "record": "articles/v1/60/yc-sentrial/2026/06/8f/8fccc4d40af19d17d1f8497ca57842569b1c4c6362e7b12a0b00474cafcd62e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25371,
+    "sha256": "sha256:34c9b4e51d875617d22d30bb90129c56e8324f46543c2d596500dbb39914c34f",
+    "normalized_content_hash": "sha256:c7a458c55d63bae08eca23503b3f153e347008f58cfa4d71008e1609feb9775d"
+  },
+  "provenance": {
+    "source_item_id": "6d522b06-8a9f-415d-8be0-6928f9577f82",
+    "external_id": "https://www.sentrial.com/blog/datadog-vs-dynatrace-2026-features-rca-ai-agent-gaps"
+  }
+}

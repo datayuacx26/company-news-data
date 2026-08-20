@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e487d05c53686db2291b7e8a963f71a45d0a1a033734c3bdac2f60b5b932f4af",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/hacking-a16z/",
+    "canonical": "https://verialabs.com/blog/hacking-a16z/"
+  },
+  "title": "Hacking a16z: Breaking Jolt and Dory",
+  "summary": "How our agent found a full proof forgery in Jolt, a16z's zkVM.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2026/07/e4/e487d05c53686db2291b7e8a963f71a45d0a1a033734c3bdac2f60b5b932f4af/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2026/07/e4/e487d05c53686db2291b7e8a963f71a45d0a1a033734c3bdac2f60b5b932f4af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12153,
+    "sha256": "sha256:1bc1d8b99122467fa9bf385fbb8e76fdafeb1d1eda862744e72425d0f55df9aa",
+    "normalized_content_hash": "sha256:e343047b00d361b5247cba1b1b293014ea5e951ecc23d2634efc53ff13879dd2"
+  },
+  "provenance": {
+    "source_item_id": "a796e58c-41d5-44e4-b177-552631c7cd02",
+    "external_id": "https://verialabs.com/blog/hacking-a16z/"
+  }
+}

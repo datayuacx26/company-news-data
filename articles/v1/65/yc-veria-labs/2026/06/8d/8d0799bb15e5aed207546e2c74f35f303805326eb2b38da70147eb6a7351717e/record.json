@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d0799bb15e5aed207546e2c74f35f303805326eb2b38da70147eb6a7351717e",
+  "company": {
+    "key": "yc-veria-labs",
+    "name": "Veria Labs"
+  },
+  "source": {
+    "id": "yc-veria-labs-rss-80fd8934189a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://verialabs.com/blog/forging-transactions-on-aleo/",
+    "canonical": "https://verialabs.com/blog/forging-transactions-on-aleo/"
+  },
+  "title": "How Veria AI Found an Arbitrary Proof Forgery in Aleo",
+  "summary": "How a weak Fiat-Shamir transcript allowed arbitrary transaction forgery on Aleo, and earned us a $65,000 bounty.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:58.723115+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-08-20T01:48:43.600513+00:00",
+  "paths": {
+    "article": "articles/v1/65/yc-veria-labs/2026/06/8d/8d0799bb15e5aed207546e2c74f35f303805326eb2b38da70147eb6a7351717e/article.md",
+    "record": "articles/v1/65/yc-veria-labs/2026/06/8d/8d0799bb15e5aed207546e2c74f35f303805326eb2b38da70147eb6a7351717e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 54235,
+    "sha256": "sha256:1abcc0005866c26f4a6329e858ceed99fb8e010eaaa0a5a56e899dd109575ece",
+    "normalized_content_hash": "sha256:df485ebc930afc415d5b17c976c5a3c4465965d67631150da0a5d5331088a76d"
+  },
+  "provenance": {
+    "source_item_id": "65764556-fb0b-4ca2-988d-b2b57a5886a3",
+    "external_id": "https://verialabs.com/blog/forging-transactions-on-aleo/"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sinclair-inc-class-a-common-stock",
+    "name": "Sinclair Inc."
+  },
+  "record_count": 23,
+  "first_published_at": "2026-06-05T12:00:23+00:00",
+  "last_published_at": "2026-08-17T16:00:59+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/58/sinclair-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 32391,
+        "sha256": "sha256:9ac25ee73009021ca9c1ff0d73d321669ef394e86986eb27367a08fcd2786f3e",
+        "newest_at": "2026-08-17T16:00:59+00:00",
+        "oldest_at": "2026-06-05T12:00:23+00:00"
+      }
+    ]
+  }
+}

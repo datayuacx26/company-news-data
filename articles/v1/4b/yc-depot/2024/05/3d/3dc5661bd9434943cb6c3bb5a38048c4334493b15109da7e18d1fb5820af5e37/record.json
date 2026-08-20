@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3dc5661bd9434943cb6c3bb5a38048c4334493b15109da7e18d1fb5820af5e37",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/faster-ec2-boot-time",
+    "canonical": "https://depot.dev/blog/faster-ec2-boot-time"
+  },
+  "title": "Making EC2 boot time 8x faster",
+  "summary": "It's possible to cut EC2 boot time from 40 seconds to 5 seconds by combining several optimizations like root volume streaming, instance warm pools, and instance resizing.",
+  "published_at": "2024-05-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/05/3d/3dc5661bd9434943cb6c3bb5a38048c4334493b15109da7e18d1fb5820af5e37/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/05/3d/3dc5661bd9434943cb6c3bb5a38048c4334493b15109da7e18d1fb5820af5e37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13657,
+    "sha256": "sha256:1f8269444f0583cad8acc4cd2ed4491df6b5943179d6cad380332df510243c5c",
+    "normalized_content_hash": "sha256:62ca43bd09ddf4359abada5e640a10290a5b9f375e3f85a62e1012c6e3ebeac1"
+  },
+  "provenance": {
+    "source_item_id": "7aa79ba3-b74d-461f-936a-d953781450db",
+    "external_id": "https://depot.dev/blog/faster-ec2-boot-time"
+  }
+}

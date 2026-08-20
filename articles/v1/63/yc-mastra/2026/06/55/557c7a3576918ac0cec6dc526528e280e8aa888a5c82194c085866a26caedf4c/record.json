@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "557c7a3576918ac0cec6dc526528e280e8aa888a5c82194c085866a26caedf4c",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/ai-agent-evaluation",
+    "canonical": "https://mastra.ai/articles/ai-agent-evaluation"
+  },
+  "title": "How to build AI agent evaluation that ships reliable agents",
+  "summary": "Choose metrics, build graders, run evals in CI/CD, and monitor production to catch failures before your users do.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:57:46.286490+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:21.303999+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/06/55/557c7a3576918ac0cec6dc526528e280e8aa888a5c82194c085866a26caedf4c/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/06/55/557c7a3576918ac0cec6dc526528e280e8aa888a5c82194c085866a26caedf4c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30298,
+    "sha256": "sha256:1657b4a0b05b2a8a56230c04c36e45765e5d1252f852c1f45f20a2e00a6ce260",
+    "normalized_content_hash": "sha256:78b63a7492f7de7da0bd54e790eeada52b48f2e4102f2456ce1df29cf54b4c90"
+  },
+  "provenance": {
+    "source_item_id": "31b5fdfe-b6f5-46ab-9da8-b61bd6b711a9",
+    "external_id": "https://mastra.ai/articles/ai-agent-evaluation"
+  }
+}

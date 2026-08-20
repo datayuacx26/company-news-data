@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-yoneda-labs",
+    "name": "Yoneda Labs"
+  },
+  "record_count": 1,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6e/yc-yoneda-labs/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1027,
+        "sha256": "sha256:dae6f1d1b05e6b58f2e6ebb7ca00c39b34afb57834ec447ada0ba33a88aa1d30",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-07-28T21:35:55.789196+00:00"
+      }
+    ]
+  }
+}

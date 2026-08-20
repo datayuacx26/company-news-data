@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ttm-technologies-inc-common-stock",
+    "name": "TTM Technologies Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-02-04T21:09:00+00:00",
+  "last_published_at": "2026-08-17T10:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/64/ttm-technologies-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 15549,
+        "sha256": "sha256:3b2a8e41c25909b7ec9eb9d86895c87d747eb23521cb4e7f8d3cb7f4ee4a2370",
+        "newest_at": "2026-08-17T10:00:00+00:00",
+        "oldest_at": "2026-02-04T21:09:00+00:00"
+      }
+    ]
+  }
+}

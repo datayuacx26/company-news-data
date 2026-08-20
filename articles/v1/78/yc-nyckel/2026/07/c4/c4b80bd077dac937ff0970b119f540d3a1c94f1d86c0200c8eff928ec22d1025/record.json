@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4b80bd077dac937ff0970b119f540d3a1c94f1d86c0200c8eff928ec22d1025",
+  "company": {
+    "key": "yc-nyckel",
+    "name": "Nyckel"
+  },
+  "source": {
+    "id": "yc-nyckel-news-import-fbb975919637",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nyckel.com/blog/bounding-box-object-detection/",
+    "canonical": "https://www.nyckel.com/blog/bounding-box-object-detection/"
+  },
+  "title": "Are Bounding Boxes Necessary for Object Detection?",
+  "summary": "Are bounding boxes necessary for object detection? We experiment to discover whether center pointing or bounding boxes are more efficient.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T06:43:30.013332+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:45.163578+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-nyckel/2026/07/c4/c4b80bd077dac937ff0970b119f540d3a1c94f1d86c0200c8eff928ec22d1025/article.md",
+    "record": "articles/v1/78/yc-nyckel/2026/07/c4/c4b80bd077dac937ff0970b119f540d3a1c94f1d86c0200c8eff928ec22d1025/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7721,
+    "sha256": "sha256:673420ba5f19b09fa19298ea24317168f8144fbd09ff35099348fbb264ff562c",
+    "normalized_content_hash": "sha256:90e645abac82ae008a1ae36c10fd7454cca79db489dd7cc9255a2ca99d19ad67"
+  },
+  "provenance": {
+    "source_item_id": "2fe3fa26-1889-4e9c-a1cd-6de57fd230ae",
+    "external_id": "https://www.nyckel.com/blog/bounding-box-object-detection/"
+  }
+}

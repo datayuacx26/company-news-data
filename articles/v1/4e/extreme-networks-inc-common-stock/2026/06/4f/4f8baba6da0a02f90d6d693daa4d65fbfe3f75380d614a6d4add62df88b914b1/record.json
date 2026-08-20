@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f8baba6da0a02f90d6d693daa4d65fbfe3f75380d614a6d4add62df88b914b1",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137148",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137148"
+  },
+  "title": "SA-2026-043 - PackageKit Pack2TheRoot TOCTOU (CVE-2026-41651)",
+  "summary": "PackageKit is a a D-Bus abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API. PackageKit is vulnerable to a time-of-check time-of-use (TOCTOU) race condition on transaction flags that allows unprivileged users to install packages as root and thus leads to a local privilege escalation. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-06-25T17:26:00+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/06/4f/4f8baba6da0a02f90d6d693daa4d65fbfe3f75380d614a6d4add62df88b914b1/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/06/4f/4f8baba6da0a02f90d6d693daa4d65fbfe3f75380d614a6d4add62df88b914b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1406,
+    "sha256": "sha256:7e96cafdfd938d2e72c026b4ed7d5a3a432886c07acbbe0a53af4e75ee4ddaeb",
+    "normalized_content_hash": "sha256:c9e3bc90ad873f5b052952c7c4bd2585b8352c1f7335811faa2a0486111857b2"
+  },
+  "provenance": {
+    "source_item_id": "57cbdcf6-d93e-4381-85f5-20dc90cf5c55",
+    "external_id": "000137148"
+  }
+}

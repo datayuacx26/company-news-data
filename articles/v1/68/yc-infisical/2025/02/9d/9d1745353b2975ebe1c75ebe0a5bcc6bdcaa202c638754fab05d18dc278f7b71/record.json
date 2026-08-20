@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d1745353b2975ebe1c75ebe0a5bcc6bdcaa202c638754fab05d18dc278f7b71",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "source": {
+    "id": "yc-infisical-rss-e9c2aac341e3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://infisical.com/blog/self-hosting-infisical-homelab",
+    "canonical": "https://infisical.com/blog/self-hosting-infisical-homelab"
+  },
+  "title": "Self-Hosting Infisical: A Guide to Securing Your Homelab's Secrets",
+  "summary": "Learn how to self-host Infisical to secure your homelab secrets. Step-by-step tutorial covers Docker deployment, backup key protection, and just-in-time secret injection.",
+  "published_at": "2025-02-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:31.088886+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T03:10:17.626180+00:00",
+  "paths": {
+    "article": "articles/v1/68/yc-infisical/2025/02/9d/9d1745353b2975ebe1c75ebe0a5bcc6bdcaa202c638754fab05d18dc278f7b71/article.md",
+    "record": "articles/v1/68/yc-infisical/2025/02/9d/9d1745353b2975ebe1c75ebe0a5bcc6bdcaa202c638754fab05d18dc278f7b71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14000,
+    "sha256": "sha256:83728951dd525326cfa44172f9247e22864b5fe413ad0167228270d656174e92",
+    "normalized_content_hash": "sha256:1a3fed3645b2459bbf6f40a3c13e1e81189521444bf64bdadc0db33620689b44"
+  },
+  "provenance": {
+    "source_item_id": "921adf86-fb23-41d5-9a0d-4da35decc4d6",
+    "external_id": "https://infisical.com/blog/self-hosting-infisical-homelab"
+  }
+}

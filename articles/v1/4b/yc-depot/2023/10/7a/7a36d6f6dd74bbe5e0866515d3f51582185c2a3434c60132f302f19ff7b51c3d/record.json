@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a36d6f6dd74bbe5e0866515d3f51582185c2a3434c60132f302f19ff7b51c3d",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/dockerfile-explorer",
+    "canonical": "https://depot.dev/blog/dockerfile-explorer"
+  },
+  "title": "Introducing the Dockerfile Explorer",
+  "summary": "We're excited to release the Dockerfile Explorer, a tool for introspecting the LLB output of BuildKit's Dockerfile parser.",
+  "published_at": "2023-10-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/10/7a/7a36d6f6dd74bbe5e0866515d3f51582185c2a3434c60132f302f19ff7b51c3d/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/10/7a/7a36d6f6dd74bbe5e0866515d3f51582185c2a3434c60132f302f19ff7b51c3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4518,
+    "sha256": "sha256:279518b332f47b76c789d548ff0f7d0b35067579b706d591945db8fcd97574d1",
+    "normalized_content_hash": "sha256:6630bda6f00ade420e993cb5223bc1255d815cf8ceeac201fa28e5aa51dafb10"
+  },
+  "provenance": {
+    "source_item_id": "8ba1c2e3-1fa2-45b0-80b9-c1407e157441",
+    "external_id": "https://depot.dev/blog/dockerfile-explorer"
+  }
+}

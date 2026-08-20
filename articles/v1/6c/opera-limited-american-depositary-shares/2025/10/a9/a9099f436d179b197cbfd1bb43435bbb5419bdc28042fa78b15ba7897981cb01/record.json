@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a9099f436d179b197cbfd1bb43435bbb5419bdc28042fa78b15ba7897981cb01",
+  "company": {
+    "key": "opera-limited-american-depositary-shares",
+    "name": "Opera Limited"
+  },
+  "source": {
+    "id": "opera-limited-american-depositary-shares-news-import-d1faa49832aa",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blogs.opera.com/security/2025/10/gamemaker-security-update-cve-2025-12501/",
+    "canonical": "https://blogs.opera.com/security/2025/10/gamemaker-security-update-cve-2025-12501/"
+  },
+  "title": "GameMaker security update: Patch now to prevent DoS attacks",
+  "summary": "A vulnerability was discovered in GameMaker that could be used to cause crashes through DoS attacks. Update now to receive the fix.",
+  "published_at": "2025-10-30T15:34:17+00:00",
+  "first_seen_at": "2026-07-22T07:38:34.207512+00:00",
+  "fetched_at": "2026-07-23T19:47:54.315596+00:00",
+  "last_updated_at": "2026-07-23T19:47:55.972602+00:00",
+  "paths": {
+    "article": "articles/v1/6c/opera-limited-american-depositary-shares/2025/10/a9/a9099f436d179b197cbfd1bb43435bbb5419bdc28042fa78b15ba7897981cb01/article.md",
+    "record": "articles/v1/6c/opera-limited-american-depositary-shares/2025/10/a9/a9099f436d179b197cbfd1bb43435bbb5419bdc28042fa78b15ba7897981cb01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6055,
+    "sha256": "sha256:862ed3f25f1ed510731ec38af8932b5f4f3eefd89cc1e3da3016916d4ab659aa",
+    "normalized_content_hash": "sha256:24f08739aafaf2cdb3166256dbd1efd66de0eaeacd17c96a8b88f3feef60c396"
+  },
+  "provenance": {
+    "source_item_id": "257fed72-83ae-4529-96f8-246424afb913",
+    "external_id": "https://blogs.opera.com/security/2025/10/gamemaker-security-update-cve-2025-12501/"
+  }
+}

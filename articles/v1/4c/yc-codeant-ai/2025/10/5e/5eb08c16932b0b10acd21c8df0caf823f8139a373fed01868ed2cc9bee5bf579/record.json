@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5eb08c16932b0b10acd21c8df0caf823f8139a373fed01868ed2cc9bee5bf579",
+  "company": {
+    "key": "yc-codeant-ai",
+    "name": "CodeAnt AI"
+  },
+  "source": {
+    "id": "yc-codeant-ai-news-import-b68a5af7b5b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://codeant.ai/blogs/agentic-rag-shell-sandboxing",
+    "canonical": "https://codeant.ai/blogs/agentic-rag-shell-sandboxing"
+  },
+  "title": "Code Sandboxes for LLMs and AI Agents",
+  "summary": "Learn how to securely run AI agents and LLM tools using sandboxing. Compare Docker, gVisor, and Firecracker for safe code execution and zero-trust isolation.",
+  "published_at": "2025-10-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T17:59:36.861498+00:00",
+  "fetched_at": "2026-07-28T21:59:41.762292+00:00",
+  "last_updated_at": "2026-08-18T02:05:34.248566+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-codeant-ai/2025/10/5e/5eb08c16932b0b10acd21c8df0caf823f8139a373fed01868ed2cc9bee5bf579/article.md",
+    "record": "articles/v1/4c/yc-codeant-ai/2025/10/5e/5eb08c16932b0b10acd21c8df0caf823f8139a373fed01868ed2cc9bee5bf579/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9704,
+    "sha256": "sha256:74b4d5ce2621243b104d7a6d4e6b53aa1886397ddae242885edd037123c10b03",
+    "normalized_content_hash": "sha256:fd4aef2a2a4945f2d6e874d210cac3b3a516c26eb5777f7d8d2933752d11b59c"
+  },
+  "provenance": {
+    "source_item_id": "e675376e-b752-4dd7-87f0-7bfe1b43cb24",
+    "external_id": "https://codeant.ai/blogs/agentic-rag-shell-sandboxing"
+  }
+}

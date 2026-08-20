@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ce987736fe9330760cee737db90d46eb6fa002f7942af6ea0aa66e6d8a35c11",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-fbbb60f1501e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/post/launching-a-million-sandboxes-per-second-in-constant-time",
+    "canonical": "https://archil.com/post/launching-a-million-sandboxes-per-second-in-constant-time"
+  },
+  "title": "Launching a million sandboxes per second in constant time",
+  "summary": "They say that in the future, everyone will have their own sandbox company for 15 minutes. Let's make that simpler, here's exactly how I built our compute platform to handle millions of sandbox...",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:48.524951+00:00",
+  "fetched_at": "2026-08-09T19:14:50.194785+00:00",
+  "last_updated_at": "2026-08-19T21:00:26.401304+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/2c/2ce987736fe9330760cee737db90d46eb6fa002f7942af6ea0aa66e6d8a35c11/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/2c/2ce987736fe9330760cee737db90d46eb6fa002f7942af6ea0aa66e6d8a35c11/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12602,
+    "sha256": "sha256:aedd0093e906bf26dd61d7dda749523937191043d992829a89528201196c1fed",
+    "normalized_content_hash": "sha256:03d8f254d46f705a6a1023824c88083d9a9c47bf702b31fb9b7116f6c1dc9328"
+  },
+  "provenance": {
+    "source_item_id": "a47708b1-9df2-451e-9ae4-62db9ed1200c",
+    "external_id": "https://archil.com/post/launching-a-million-sandboxes-per-second-in-constant-time"
+  }
+}

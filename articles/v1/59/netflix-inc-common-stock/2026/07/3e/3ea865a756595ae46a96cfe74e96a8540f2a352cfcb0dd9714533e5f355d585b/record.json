@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3ea865a756595ae46a96cfe74e96a8540f2a352cfcb0dd9714533e5f355d585b",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc."
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/netflix-announces-the-adaptation-of-marcelo-rubens-paiva-happy-old-year",
+    "canonical": "https://about.netflix.com/news/netflix-announces-the-adaptation-of-marcelo-rubens-paiva-happy-old-year"
+  },
+  "title": "Netflix Announces the Adaptation of Marcelo Rubens Paiva’s ‘Happy Old Year’",
+  "summary": "Produced by Amaia and O2 Filmes, the series based on the author’s autobiography was revealed during Flip.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T06:10:57.108213+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-05T04:25:55.510313+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/07/3e/3ea865a756595ae46a96cfe74e96a8540f2a352cfcb0dd9714533e5f355d585b/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/07/3e/3ea865a756595ae46a96cfe74e96a8540f2a352cfcb0dd9714533e5f355d585b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5279,
+    "sha256": "sha256:33cf5356be0d51225e56518a66e6c8ca6419a25c817e8805bc24646f45b9f8b2",
+    "normalized_content_hash": "sha256:aaffa1e0af7b86dc758e411b9de7e928ed6bd2a7c31a3d93bcf345b0f7653408"
+  },
+  "provenance": {
+    "source_item_id": "a68ba121-16fb-46d6-abd2-3e13fe57b04d",
+    "external_id": "https://about.netflix.com/news/netflix-announces-the-adaptation-of-marcelo-rubens-paiva-happy-old-year"
+  }
+}

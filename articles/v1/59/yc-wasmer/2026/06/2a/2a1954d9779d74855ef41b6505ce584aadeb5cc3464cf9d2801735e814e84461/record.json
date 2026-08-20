@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a1954d9779d74855ef41b6505ce584aadeb5cc3464cf9d2801735e814e84461",
+  "company": {
+    "key": "yc-wasmer",
+    "name": "Wasmer"
+  },
+  "source": {
+    "id": "yc-wasmer-news-import-0c661488008f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://wasmer.io/posts/ported-wasmer-backend-django-to-rust",
+    "canonical": "https://wasmer.io/posts/ported-wasmer-backend-django-to-rust"
+  },
+  "title": "Porting our Django backend to Rust improved the infra usage by 90% · Blog · Wasmer",
+  "summary": "At Wasmer, we have been happily using Django for 7 years (it was the backend we initially used for storing the package information when [wapm\\.io](<http...",
+  "published_at": "2026-06-04T18:32:00+00:00",
+  "first_seen_at": "2026-07-22T19:24:02.861490+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-19T19:56:55.281829+00:00",
+  "paths": {
+    "article": "articles/v1/59/yc-wasmer/2026/06/2a/2a1954d9779d74855ef41b6505ce584aadeb5cc3464cf9d2801735e814e84461/article.md",
+    "record": "articles/v1/59/yc-wasmer/2026/06/2a/2a1954d9779d74855ef41b6505ce584aadeb5cc3464cf9d2801735e814e84461/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9384,
+    "sha256": "sha256:d491e48e1acdada6a928dc3dedc30ff786a66e50b516fa0e2b0db38f00e105e4",
+    "normalized_content_hash": "sha256:a4baaa3fdd07da2fdb229c52633a4a4ee66b041edfe8b6dda855a07f47da3ccb"
+  },
+  "provenance": {
+    "source_item_id": "957eabd4-b5cb-490f-845f-f4eb96aef2b3",
+    "external_id": "https://wasmer.io/posts/ported-wasmer-backend-django-to-rust"
+  }
+}

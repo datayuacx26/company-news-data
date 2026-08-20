@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da96caab6c1eacfa79e22e629c5aacc5ff66b8b1a0deb50d5fe4210907945031",
+  "company": {
+    "key": "yc-zeroentropy",
+    "name": "ZeroEntropy"
+  },
+  "source": {
+    "id": "yc-zeroentropy-news-import-2ae9b0afcf30",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zeroentropy.dev/articles/implementing-zeroentropy-reranking-with-turbopuffer-retrieval/",
+    "canonical": "https://zeroentropy.dev/articles/implementing-zeroentropy-reranking-with-turbopuffer-retrieval/"
+  },
+  "title": "Implementing ZeroEntropy Reranking with turbopuffer Retrieval",
+  "summary": "Learn how to implement a two-step search pipeline for fast and accurate retrieval, using turbopuffer and ZeroEntropy.",
+  "published_at": "2025-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:03:20.034441+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:32:01.149076+00:00",
+  "paths": {
+    "article": "articles/v1/42/yc-zeroentropy/2025/10/da/da96caab6c1eacfa79e22e629c5aacc5ff66b8b1a0deb50d5fe4210907945031/article.md",
+    "record": "articles/v1/42/yc-zeroentropy/2025/10/da/da96caab6c1eacfa79e22e629c5aacc5ff66b8b1a0deb50d5fe4210907945031/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11037,
+    "sha256": "sha256:558ab7621f6a26afcacaf3eb29522c8d047db0f37e721263855bf0f8fd376109",
+    "normalized_content_hash": "sha256:1bdf4f2b4cd2742d86835d6c074924cd32475f03e56a969b2c18a4180cd06acc"
+  },
+  "provenance": {
+    "source_item_id": "940c42bb-a071-4e04-a201-8f06b3d89029",
+    "external_id": "https://zeroentropy.dev/articles/implementing-zeroentropy-reranking-with-turbopuffer-retrieval/"
+  }
+}

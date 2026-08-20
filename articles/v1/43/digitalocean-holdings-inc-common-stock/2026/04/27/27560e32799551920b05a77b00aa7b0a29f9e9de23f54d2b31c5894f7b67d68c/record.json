@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27560e32799551920b05a77b00aa7b0a29f9e9de23f54d2b31c5894f7b67d68c",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/llm-inference-tradeoffs",
+    "canonical": "https://www.digitalocean.com/blog/llm-inference-tradeoffs"
+  },
+  "title": "The LLM Inference Trilemma: Throughput, Latency, Cost",
+  "summary": "Learn how to navigate the three-way tradeoff between throughput, latency, and cost when serving LLMs, with a practical framework for tuning deployments.",
+  "published_at": "2026-04-22T15:56:14.960+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T21:45:30.754431+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/27/27560e32799551920b05a77b00aa7b0a29f9e9de23f54d2b31c5894f7b67d68c/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/27/27560e32799551920b05a77b00aa7b0a29f9e9de23f54d2b31c5894f7b67d68c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23100,
+    "sha256": "sha256:a68afbc2705a539da31101586d4b4b40ecf57990477fd621396b905e08a91eac",
+    "normalized_content_hash": "sha256:b2bffae16aea585b806b64679d73c202be3530d19359aacaa8d659207901cc25"
+  },
+  "provenance": {
+    "source_item_id": "4c6f35ab-ad1b-4f3e-a3a4-16a73b513ff4",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/llm-inference-tradeoffs"
+  }
+}

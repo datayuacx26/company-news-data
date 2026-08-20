@@ -1,0 +1,81 @@
+---
+schema_version: "1.0.0"
+document_id: "3cae403601acb8e36c70493cd7b61ccc4e08264ccf751cfb783299da8f42f86b"
+company_key: "caring-brands-inc-common-stock"
+company: "Caring Brands Inc."
+source_id: "caring-brands-inc-common-stock-rss-66147c472423"
+canonical_url: "https://caringbrands.com/caring-brands-inc-and-sanpellegrino-cosmetics-private-limited-announce-expanded-multi-territory-licensing-agreement-for-photocil-and-hair-enzyme-booster/"
+published_at: "2026-06-01T12:00:21+00:00"
+first_seen_at: "2026-07-24T22:18:05.610221+00:00"
+fetched_at: "2026-08-20T01:54:23.258672+00:00"
+content_hash: "sha256:9a575056d3c5dd94d9e33aed7208a9631f39540fed2b0e057d6389952574efcc"
+---
+
+# Caring Brands Inc. and SanPellegrino Cosmetics Private Limited Announce Expanded Multi-Territory Licensing Agreement for Photocil and Hair Enzyme Booster
+
+***Five-Year Agreement Extends Commercial Reach Across India, LATAM, Russia, Australia and New Zealand***
+
+
+**Fort Pierce, Fla., June 01, 2026 (GLOBE NEWSWIRE) —** Caring Brands Inc. (Nasdaq: CABR), a consumer brands company specializing in skin care and hair growth, and SanPellegrino Cosmetics Private Limited (“SCPL”), a New Delhi-based specialty pharma and dermatology licensing company, today announced the execution of a revised multi-territory licensing agreement covering Photocil and Hair Enzyme Booster.
+
+
+The revised agreement, effective May 21, 2026, builds on over three years of successful commercialization and expands the scope and term of the parties’ existing commercial relationship across key global markets. Both Photocil and Hair Enzyme Booster are currently manufactured in India.
+
+
+Since their launch in India, both Photocil and Hair Enzyme Booster have demonstrated good commercial performance and clinical acceptance across the dermatology and hair science communities. Photocil – commercialized as Photofirst by Eris Lifesciences, (“Eris”) one of India’s leading specialty pharma companies – has established itself as a clinically differentiated option for dermatologists treating vitiligo, psoriasis, and atopic dermatitis. The Hair Enzyme Booster has begun to achieve significant traction across India and Asia, having been licensed by SCPL to some of the world’s largest hair science and pharmaceutical brands including Dr. Reddy’s Laboratories, Cipla, Dabur, Eris Lifesciences, and Glenmark Pharmaceuticals, which we believe underscores the technology’s broad global commercial validation.
+
+
+The revised agreement grants SCPL an extended five-year initial term with automatic annual renewal. The expanded territory set now covers India (existing), LATAM (Mexico, Brazil, Colombia, Ecuador, Peru, Dominican Republic, Trinidad and Tobago), Russia, and Australia and New Zealand. SCPL’s existing sublicense partnerships include Eris in India and Glenmark Pharmaceuticals across Asia and the Middle East, where Hair Enzyme Booster has been registered or is in active regulatory review across multiple markets including Malaysia, Vietnam, Cambodia, UAE, Kuwait, and Saudi Arabia – reflecting a well-established regional commercialization footprint that underpins the expanded agreement.
+
+
+Photocil is a clinically validated, patented topical formulation developed to support the treatment of vitiligo, psoriasis, and atopic dermatitis. Hair Enzyme Booster is a first-of-its-kind, patented topical formulation shown in clinical studies to increase levels of the SULT1A1 (Sulfotransferase) enzyme, which is essential for converting Minoxidil into its active form, Minoxidil Sulfate, thereby promoting hair growth.
+
+
+Dr. Glynn Wilson, CEO of Caring Brands, commented, “This expanded agreement reflects our confidence in SCPL’s commercial execution and our shared vision for bringing these clinically validated technologies to patients across high-growth international markets in order to improve our revenue stream.”
+
+
+Arjun Khurana, Founder and Director of SanPellegrino Cosmetics Private Limited, said, “Over the past three years, we have built a strong foundation for both Photocil and Hair Enzyme Booster across India and Asia, supported by a robust network of leading pharmaceutical partners and a growing body of real-world clinical evidence. This expanded agreement positions us to bring these differentiated dermatology technologies to a significantly broader patient population across LATAM, Russia, Australia, and New Zealand.”
+
+
+**About Caring Brands**
+
+
+Caring Brands Inc. has a growing portfolio of unique, patented, and clinically validated products for skin and hair growth. The Company intends to launch a total of five products over the next two years in addition to in-licensing additional products. Management has a successful track record of strategic acquisitions, rapid product development, IP development and product licensing. Revenues from the sales of Hair Enzyme Booster for the treatment of hair loss, and Photocil for the treatment of psoriasis and vitiligo, are currently being generated by direct sales in the US and licensees in India. Additional product opportunities include CB-101 for the treatment of eczema, NoStingz, a sunscreen that prevents jellyfish stings.
+
+
+**About SanPellegrino Cosmetics Private Limited**
+
+
+SanPellegrino Cosmetics Private Limited (SCPL) is a New Delhi-based specialty pharma and dermatology licensing company operating across India, LATAM, MENA, ANZ, SEA, CIS, and Korea. SCPL sub-licenses clinically proven technologies in dermatology and hair science through established partnerships with leading regional pharmaceutical companies including Eris Lifesciences and Glenmark Pharmaceuticals. For more information, visit[www.spcindia.net](https://www.globenewswire.com/Tracker?data=MRuv4EHMABAhA1abHg3QimcVAY9ED_gUGbbOZaXwjBAtw3sPgHBeeP21cyWXATuT7BkjQAPvG4S7YgWjKB7oJL1HTH7kABdqLN_E7ju7fAk=) .
+
+
+**Contact**
+
+
+**Caring Brands**
+
+
+Brian S John
+Chief Investment Officer
+(561) 896-7616
+
+
+**SanPellegrino Cosmetics Private Limited**
+
+
+Arjun Khurana,
+Founder & Director
+
+
+[arjunkhurana@spcindia.net](https://www.globenewswire.com/Tracker?data=kgXLcqmt0bGpnRrTzXf2jKcJMxHMhlwr5GhnhXZBQT3qCNNsFd_hYwmEer9h_MBkz-S8kEKjgG8JuKVVRX-ABSPLRDaWXz3ko1eCt_maGzpEFnaLwBLbvHAzPqD_ROPP)
+[www.spcindia.net](https://www.globenewswire.com/Tracker?data=MRuv4EHMABAhA1abHg3QimZoHnk99PtI4cpO6Vv6FtD4KxVpMqkybCYSLbM-k1Wq7LikR6VV1KSpX-DvVZVryAbugR5dOQFcqABf4sNy9tA=)
+[www.photociltherapy.com](https://www.globenewswire.com/Tracker?data=cXB1-aX5QrjN6BTN7DD0seRtf0_5D3dcgKmbMlPslfKItxk--gStiiIcKrHo-08dHIpgJ8pN1eMWWEKrbvHudhAHNRloAaGJgV4s2xop2fDkkAjp9E_tUQXGYBKlrbbE)
+
+
+**Forward-Looking Statements**
+
+
+This communication contains forward-looking statements within the meaning of the federal securities laws regarding Caring Brands, Inc. (“Company”), including, without limitation, statements regarding the anticipated timing of studies and the expected results, benefits and potential outcomes thereof. You can generally identify forward-looking statements by the use of forward-looking terminology such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “explore,” “evaluate,” “intend,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “seek,” “should,” or “will,” or the negative of such terms thereof or other variations thereon or comparable terminology, although not all forward-looking statements contain these identifying words.
+
+
+These forward-looking statements are based on each of the Company’s current plans, objectives, estimates, expectations, and intentions and inherently involve significant risks and uncertainties, many of which are beyond our control. Actual results, performance or achievements, including the timing of events, may differ materially from those expressed or implied by the forward-looking statements as a result of various risks and uncertainties, including those described under the heading “Risk Factors” in the Company’s filings with the Securities and Exchange Commission, including its most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and other subsequent filings with the SEC. Copies of these filings are available on the SEC’s website at[www.sec.gov](https://www.globenewswire.com/Tracker?data=MRuv4EHMABAhA1abHg3QiuLIZ3k_XS3t7b7tS0j5Q3E7Py34NJ47l-78La1Gy51usJPJRYVTIjN3ckCa5EzBVw==) . Investors are cautioned that forward-looking statements are not guarantees of future performance, and are cautioned not to place undue reliance on any such forward-looking statements. The forward-looking statements made in this communication are made only as of the date hereof or as of the dates indicated in the forward-looking statements and reflect the views stated therein with respect to future events at such dates, even if they are subsequently made available by the Company on its website or otherwise. The Company undertakes no obligation to update, revise or supplement any forward-looking statements to reflect actual results, new information, future events, changes in its expectations or other circumstances occurring after the date such statements were made, except as required by applicable law.

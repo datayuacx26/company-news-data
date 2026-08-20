@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aae2a3692a81fd971de6177402c8ce15ee96c9758f4e7d9be7a5055a3bffdde2",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/why-coordinating-microservice-changes-is-still-a-mess/",
+    "canonical": "https://www.signadot.com/blog/why-coordinating-microservice-changes-is-still-a-mess/"
+  },
+  "title": "Why Coordinating Microservice Changes Is Still a Mess",
+  "summary": "Testing in-progress changes together, across services, without merging early or coordinating a full rollout, shouldn’t be so painful.",
+  "published_at": "2025-05-09T15:14:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/05/aa/aae2a3692a81fd971de6177402c8ce15ee96c9758f4e7d9be7a5055a3bffdde2/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/05/aa/aae2a3692a81fd971de6177402c8ce15ee96c9758f4e7d9be7a5055a3bffdde2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7772,
+    "sha256": "sha256:28ea1099ed40f916159d6f61659d538d1717f71b2f57dd5f9e149cf3cc0cbf80",
+    "normalized_content_hash": "sha256:90768b1be223b70cf30430d726fe31f75c44f52a52fe807be380cd20abc34e70"
+  },
+  "provenance": {
+    "source_item_id": "6a944c9f-d7ed-450b-bf86-8147e10ce2e5",
+    "external_id": "https://www.signadot.com/blog/why-coordinating-microservice-changes-is-still-a-mess/"
+  }
+}

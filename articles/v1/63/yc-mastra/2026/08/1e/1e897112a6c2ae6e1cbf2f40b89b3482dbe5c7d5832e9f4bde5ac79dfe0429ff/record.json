@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e897112a6c2ae6e1cbf2f40b89b3482dbe5c7d5832e9f4bde5ac79dfe0429ff",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-2c9844a44afc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/blog/introducing-fine-grained-authorization",
+    "canonical": "https://mastra.ai/blog/introducing-fine-grained-authorization"
+  },
+  "title": "Introducing Fine-Grained Authorization for Mastra",
+  "summary": "Per-user, per-resource permissions for routes, agents, workflows, tools, memory, and MCP servers.",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T17:05:29.378927+00:00",
+  "fetched_at": "2026-08-19T17:05:29.948532+00:00",
+  "last_updated_at": "2026-08-19T17:05:30.157325+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/08/1e/1e897112a6c2ae6e1cbf2f40b89b3482dbe5c7d5832e9f4bde5ac79dfe0429ff/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/08/1e/1e897112a6c2ae6e1cbf2f40b89b3482dbe5c7d5832e9f4bde5ac79dfe0429ff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4485,
+    "sha256": "sha256:e9aa88a9d84ef94b1e000de43e16bb97d164d27a00c8efb03f3b6885fd083b75",
+    "normalized_content_hash": "sha256:87a0eae27f93fb156d8bfae39af2765f4e87d379c761b1fe5b3f13e26887b972"
+  },
+  "provenance": {
+    "source_item_id": "76aa2e7f-fa69-4f59-9d41-c7a41c24c18a",
+    "external_id": "https://mastra.ai/blog/introducing-fine-grained-authorization"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb2d74092734c40df7e405d97dfac6458311d3bbedc0c3f26c0f0de7b3fad128",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/depot-envoy-discovery-service",
+    "canonical": "https://depot.dev/blog/depot-envoy-discovery-service"
+  },
+  "title": "Building a custom Envoy discovery service for Depot",
+  "summary": "We built out own custom Envoy discovery service to quickly add and remove BuildKit instances when running outside of AWS. Here is the full guide on how we did it.",
+  "published_at": "2024-05-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2024/05/fb/fb2d74092734c40df7e405d97dfac6458311d3bbedc0c3f26c0f0de7b3fad128/article.md",
+    "record": "articles/v1/4b/yc-depot/2024/05/fb/fb2d74092734c40df7e405d97dfac6458311d3bbedc0c3f26c0f0de7b3fad128/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10164,
+    "sha256": "sha256:b8f725acbc3f2069a326c12daab3f001ab44637b2bdf4ff587d1e75f552c41c7",
+    "normalized_content_hash": "sha256:bab217d495e65f1382f60586a35dfc53931e654fc27ead4f29b6ed82cb0e45de"
+  },
+  "provenance": {
+    "source_item_id": "cd6356a1-2f9c-4521-9bb8-2721a5a05f36",
+    "external_id": "https://depot.dev/blog/depot-envoy-discovery-service"
+  }
+}

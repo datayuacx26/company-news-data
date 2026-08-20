@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e01385409b0555b5d3d916ba53078dfb58b070c49ce0cbd26d52a93b88fbf7f",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-rss-9474f2be6342",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://resend.com/blog/engineering-idempotency-keys",
+    "canonical": "https://resend.com/blog/engineering-idempotency-keys"
+  },
+  "title": "Engineering Idempotency Keys",
+  "summary": "How we implemented idempotency keys in our email API.",
+  "published_at": "2025-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:56.405079+00:00",
+  "fetched_at": "2026-07-28T20:57:45.279486+00:00",
+  "last_updated_at": "2026-08-20T02:04:16.951416+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2025/05/5e/5e01385409b0555b5d3d916ba53078dfb58b070c49ce0cbd26d52a93b88fbf7f/article.md",
+    "record": "articles/v1/78/yc-resend/2025/05/5e/5e01385409b0555b5d3d916ba53078dfb58b070c49ce0cbd26d52a93b88fbf7f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7414,
+    "sha256": "sha256:abfb9b3942f39426c82074a744ff0d2e1d242870f4462e17d368e35077d1eb5a",
+    "normalized_content_hash": "sha256:b21397a16259b0f2cec477b81fc8e8f289758035f1884994bad751b5952d3589"
+  },
+  "provenance": {
+    "source_item_id": "1cc55240-85a9-40cf-8f06-ee2a492da948",
+    "external_id": "https://resend.com/blog/engineering-idempotency-keys"
+  }
+}

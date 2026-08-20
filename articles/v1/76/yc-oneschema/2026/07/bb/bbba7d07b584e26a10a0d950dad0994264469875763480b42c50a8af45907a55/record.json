@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbba7d07b584e26a10a0d950dad0994264469875763480b42c50a8af45907a55",
+  "company": {
+    "key": "yc-oneschema",
+    "name": "OneSchema"
+  },
+  "source": {
+    "id": "yc-oneschema-news-import-43da02420b1d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.oneschema.co/blog/introducing-azure-blob-storage-connector",
+    "canonical": "https://www.oneschema.co/blog/introducing-azure-blob-storage-connector"
+  },
+  "title": "Introducing: Azure Blob Storage Connector",
+  "summary": "Azure Blob Storage is now a native source and destination in MultiFileFeeds, completing cloud object storage support for Azure-native data stacks with credential-free Workload Identity Federation authentication.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:26:45.232367+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T19:52:35.692310+00:00",
+  "paths": {
+    "article": "articles/v1/76/yc-oneschema/2026/07/bb/bbba7d07b584e26a10a0d950dad0994264469875763480b42c50a8af45907a55/article.md",
+    "record": "articles/v1/76/yc-oneschema/2026/07/bb/bbba7d07b584e26a10a0d950dad0994264469875763480b42c50a8af45907a55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3943,
+    "sha256": "sha256:2c910f52c447f6f271750de651e6f4e53062604e17a959ffec73ed52e7f5fc20",
+    "normalized_content_hash": "sha256:ebd18e66f4bfe1d81566a5c6ae991da8b391ab0ff295aa66a3d4663dcac7a9f3"
+  },
+  "provenance": {
+    "source_item_id": "60171c7a-c8f8-4834-b7ae-f7fb1f05c823",
+    "external_id": "https://www.oneschema.co/blog/introducing-azure-blob-storage-connector"
+  }
+}

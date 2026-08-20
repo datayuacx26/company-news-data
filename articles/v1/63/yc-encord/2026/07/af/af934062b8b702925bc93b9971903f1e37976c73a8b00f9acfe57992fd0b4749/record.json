@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af934062b8b702925bc93b9971903f1e37976c73a8b00f9acfe57992fd0b4749",
+  "company": {
+    "key": "yc-encord",
+    "name": "Encord"
+  },
+  "source": {
+    "id": "yc-encord-news-import-59af355da1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://encord.com/blog/multimodal-data-labeling/",
+    "canonical": "https://encord.com/blog/multimodal-data-labeling/"
+  },
+  "title": "Multimodal Data Labeling: One Pipeline for Image, Video, Audio, Text and 3D",
+  "summary": "TL;DR: Multimodal data labeling means annotating two or more data types in one workflow so a label in one format (a 2D box) stays consistent wit",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:06:14.355617+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-30T02:30:01.319399+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-encord/2026/07/af/af934062b8b702925bc93b9971903f1e37976c73a8b00f9acfe57992fd0b4749/article.md",
+    "record": "articles/v1/63/yc-encord/2026/07/af/af934062b8b702925bc93b9971903f1e37976c73a8b00f9acfe57992fd0b4749/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21163,
+    "sha256": "sha256:68655d8d59b45becf5b68a62125963d089ed9b077e1687aa03a9268863ca0ef4",
+    "normalized_content_hash": "sha256:f3d7275f0ca3af506e1dfc844420c699974b1f23ef6db051d6595d7e2353c340"
+  },
+  "provenance": {
+    "source_item_id": "311432e3-e912-424d-8027-761ee2b07afd",
+    "external_id": "https://encord.com/blog/multimodal-data-labeling/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43bfd6d1a7da62c2c6469d6b4efe2d13a443821c974749efccefb3d6b7ee8b32",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134763",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000134763"
+  },
+  "title": "SA-2026-029 - glibc getnetbyaddr DNS Stack Leak (CVE-2026-0915)",
+  "summary": "Calling getnetbyaddr or getnetbyaddr_r with a configured nsswitch.conf that specifies the library's DNS backend for networks and queries for a zero-valued network in the GNU C Library can leak stack contents to the configured DNS resolver. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-03-20T14:42:04+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-07-22T19:09:52.015654+00:00",
+  "last_updated_at": "2026-07-22T19:09:52.019074+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/43/43bfd6d1a7da62c2c6469d6b4efe2d13a443821c974749efccefb3d6b7ee8b32/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/03/43/43bfd6d1a7da62c2c6469d6b4efe2d13a443821c974749efccefb3d6b7ee8b32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1296,
+    "sha256": "sha256:5f14e3dc978f547bb6b7aff49d4c6a48d94fd25343dbfa9c80169b06a235a90d",
+    "normalized_content_hash": "sha256:ee48741427e3424969e047ff89d9a9fef3248f3561d8227bc411e5ea1627c409"
+  },
+  "provenance": {
+    "source_item_id": "b554db55-b60b-43ca-8f43-ab1374ed44e1",
+    "external_id": "000134763"
+  }
+}

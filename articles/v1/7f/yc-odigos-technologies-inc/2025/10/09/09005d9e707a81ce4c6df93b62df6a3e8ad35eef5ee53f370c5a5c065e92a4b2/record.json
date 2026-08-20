@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09005d9e707a81ce4c6df93b62df6a3e8ad35eef5ee53f370c5a5c065e92a4b2",
+  "company": {
+    "key": "yc-odigos-technologies-inc",
+    "name": "Odigos Technologies Inc."
+  },
+  "source": {
+    "id": "yc-odigos-technologies-inc-rss-eb41174e661a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://odigos.io/blog/building-dynamic-data-streams-with-opentelemetry",
+    "canonical": "https://odigos.io/blog/building-dynamic-data-streams-with-opentelemetry"
+  },
+  "title": "Building Dynamic Data Streams with OpenTelemetry: Smarter Telemetry Routing with a Custom Connector",
+  "summary": "Why and how we built a custom OpenTelemetry connector and a three-layer pipeline to enable flexible, O(1) telemetry routing with Odigos Data Streams.",
+  "published_at": "2025-10-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:02:44.020335+00:00",
+  "fetched_at": "2026-08-20T02:53:26.937902+00:00",
+  "last_updated_at": "2026-08-20T02:53:27.040540+00:00",
+  "paths": {
+    "article": "articles/v1/7f/yc-odigos-technologies-inc/2025/10/09/09005d9e707a81ce4c6df93b62df6a3e8ad35eef5ee53f370c5a5c065e92a4b2/article.md",
+    "record": "articles/v1/7f/yc-odigos-technologies-inc/2025/10/09/09005d9e707a81ce4c6df93b62df6a3e8ad35eef5ee53f370c5a5c065e92a4b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 817,
+    "sha256": "sha256:1e2c6a0ae82f68f38642bbbc997dd17117e543e05cec36ec1c3653f81b9a6f0b",
+    "normalized_content_hash": "sha256:1c344b8460e0d752dfcf67aa62519ff134294828b9a9bbe14561b4c9addbbd66"
+  },
+  "provenance": {
+    "source_item_id": "b1ec0ab8-a364-426c-8ab0-839f2f204e8f",
+    "external_id": "https://odigos.io/blog/building-dynamic-data-streams-with-opentelemetry"
+  }
+}

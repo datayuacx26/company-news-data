@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e1ffd348c52ed796bd9522d47d9e4f79521ff3e28ac57a1d27356b00a116b61",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-fbbb60f1501e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/post/is-s3-faster-than-a-file-system",
+    "canonical": "https://archil.com/post/is-s3-faster-than-a-file-system"
+  },
+  "title": "Is S3 faster than a file system?",
+  "summary": "One of the most interesting things that used to happen to me when I was working at AWS was hearing from customers who told me that they 'preferred to use S3 because it was faster than EFS'. This was...",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:48.524951+00:00",
+  "fetched_at": "2026-08-09T19:14:50.194785+00:00",
+  "last_updated_at": "2026-08-19T21:00:26.401304+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/1e/1e1ffd348c52ed796bd9522d47d9e4f79521ff3e28ac57a1d27356b00a116b61/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/1e/1e1ffd348c52ed796bd9522d47d9e4f79521ff3e28ac57a1d27356b00a116b61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8391,
+    "sha256": "sha256:32b7d3f1605fc4eb62a3d2304afeb38b9d9f91081ea96d163c594a8b66b70dfd",
+    "normalized_content_hash": "sha256:a47cc14576292991e4f1999958886e34aefc0dac8c1fc417275c00923228b31a"
+  },
+  "provenance": {
+    "source_item_id": "0da234d0-0ec9-4842-a70e-275ee31aa92a",
+    "external_id": "https://archil.com/post/is-s3-faster-than-a-file-system"
+  }
+}

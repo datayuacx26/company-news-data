@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca90f31c79061e128c7f73d225ac6c65c0496186a5d4e4e1c9a7eeb017b2dd4e",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/dockerfile-lint-on-build",
+    "canonical": "https://depot.dev/blog/dockerfile-lint-on-build"
+  },
+  "title": "Lint a Dockerfile on every build",
+  "summary": "We're excited to announce that you can now lint your Dockerfile on every build with Depot! No more configuring a separate Dockerfile linter outside or before your build in CI.",
+  "published_at": "2023-05-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/05/ca/ca90f31c79061e128c7f73d225ac6c65c0496186a5d4e4e1c9a7eeb017b2dd4e/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/05/ca/ca90f31c79061e128c7f73d225ac6c65c0496186a5d4e4e1c9a7eeb017b2dd4e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9808,
+    "sha256": "sha256:f47f1a58854dea79adcbcaf2032064e399cf0fd55182c48d5151dc401a6552c8",
+    "normalized_content_hash": "sha256:cf58eabccf04c5a665649497da97eae433ab2d4feb20427cd1c9f15e99317d87"
+  },
+  "provenance": {
+    "source_item_id": "09a1aff3-c167-4864-b52e-7d52dba8c0b0",
+    "external_id": "https://depot.dev/blog/dockerfile-lint-on-build"
+  }
+}

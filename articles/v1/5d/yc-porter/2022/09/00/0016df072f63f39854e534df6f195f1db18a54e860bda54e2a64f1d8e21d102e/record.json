@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0016df072f63f39854e534df6f195f1db18a54e860bda54e2a64f1d8e21d102e",
+  "company": {
+    "key": "yc-porter",
+    "name": "Porter"
+  },
+  "source": {
+    "id": "yc-porter-news-import-7cfcee1b8c2a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.porter.run/blog/migrating-postgres-from-heroku-to-rds",
+    "canonical": "https://www.porter.run/blog/migrating-postgres-from-heroku-to-rds"
+  },
+  "title": "Migrating Postgres from Heroku to RDS",
+  "summary": "Especially for Heroku Enterprise users managing Postgres at scale, moving hundreds or thousands of gigabytes of mission-critical data with minimal service interruption poses a unique challenge.",
+  "published_at": "2022-09-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T09:55:21.208768+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T20:01:55.507177+00:00",
+  "paths": {
+    "article": "articles/v1/5d/yc-porter/2022/09/00/0016df072f63f39854e534df6f195f1db18a54e860bda54e2a64f1d8e21d102e/article.md",
+    "record": "articles/v1/5d/yc-porter/2022/09/00/0016df072f63f39854e534df6f195f1db18a54e860bda54e2a64f1d8e21d102e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13044,
+    "sha256": "sha256:c1b7686e5840f6ce7854dca1429cc3f64af1909a063b7c4c0c45b7c6b2e6decf",
+    "normalized_content_hash": "sha256:afb46897dcac597e8d6fe4b924e111b1a96d407be8e7b73bc40ca5cdf4333a48"
+  },
+  "provenance": {
+    "source_item_id": "a00710f0-23f8-4600-88df-c84b4fe7f87b",
+    "external_id": "https://www.porter.run/blog/migrating-postgres-from-heroku-to-rds"
+  }
+}

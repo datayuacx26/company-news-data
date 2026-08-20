@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "45a32deffcd79e588db48a755cbe3d1da501db8e82fc9ef837f991971c090eed",
+  "company": {
+    "key": "yc-velt",
+    "name": "Velt"
+  },
+  "source": {
+    "id": "yc-velt-news-import-562f4f2d0c0b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://velt.dev/blog/adding-review-states-to-your-app",
+    "canonical": "https://velt.dev/blog/adding-review-states-to-your-app"
+  },
+  "title": "Adding Review States to Your App: Draft, In Review, Approved, Published (May 2026)",
+  "summary": "Learn how to add review states (draft, in review, approved, published) to your app. Complete implementation guide with state machines and workflows. May 2026.",
+  "published_at": "2026-05-25T21:47:03.088+00:00",
+  "first_seen_at": "2026-07-24T06:34:40.714833+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-08-20T00:35:20.652684+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-velt/2026/05/45/45a32deffcd79e588db48a755cbe3d1da501db8e82fc9ef837f991971c090eed/article.md",
+    "record": "articles/v1/51/yc-velt/2026/05/45/45a32deffcd79e588db48a755cbe3d1da501db8e82fc9ef837f991971c090eed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17032,
+    "sha256": "sha256:b359e1d3be9310e8a51567f8cf11bb508380e9f372f1c28d84416da90d876b18",
+    "normalized_content_hash": "sha256:c8543996661120545d60e99b1940efdbbada87fc76cf5e4440bcb28528738b5f"
+  },
+  "provenance": {
+    "source_item_id": "d8619b7f-26a2-4aed-a58f-60eb46680c93",
+    "external_id": "https://velt.dev/blog/adding-review-states-to-your-app"
+  }
+}

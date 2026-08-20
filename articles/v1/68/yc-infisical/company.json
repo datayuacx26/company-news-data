@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-infisical",
+    "name": "Infisical"
+  },
+  "record_count": 105,
+  "first_published_at": "2022-09-17T00:00:00+00:00",
+  "last_published_at": "2026-08-04T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 14
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/68/yc-infisical/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49595,
+        "sha256": "sha256:270deca2fc903cdeb525bd37fe51965d0579a0abec9e79f4f00a51801431903a",
+        "newest_at": "2026-08-04T00:00:00+00:00",
+        "oldest_at": "2025-04-02T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/68/yc-infisical/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 47902,
+        "sha256": "sha256:de0c5094e1c6940c7ef342f3fba68494e13a89f62acbddc0ac7fdf44139be010",
+        "newest_at": "2025-03-10T00:00:00+00:00",
+        "oldest_at": "2023-06-14T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/68/yc-infisical/index/pages/000003.json",
+        "record_count": 5,
+        "byte_count": 4818,
+        "sha256": "sha256:03998eb8e9812b892d717c6c7d8bf4a065da86f78fb3ce505b8eb532485ed561",
+        "newest_at": "2023-05-29T00:00:00+00:00",
+        "oldest_at": "2022-09-17T00:00:00+00:00"
+      }
+    ]
+  }
+}

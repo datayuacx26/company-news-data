@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e02902533dc756e857baecbc76a2200cac00ba9bbe89d876f5ad6314f0789087",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-rss-9474f2be6342",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://resend.com/blog/incident-report-for-february-21-2024",
+    "canonical": "https://resend.com/blog/incident-report-for-february-21-2024"
+  },
+  "title": "Incident report for February 21st, 2024",
+  "summary": "Detailed postmortem of the outage on February 21st.",
+  "published_at": "2024-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:56.405079+00:00",
+  "fetched_at": "2026-07-28T22:26:15.382818+00:00",
+  "last_updated_at": "2026-08-20T02:04:16.951416+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2024/02/e0/e02902533dc756e857baecbc76a2200cac00ba9bbe89d876f5ad6314f0789087/article.md",
+    "record": "articles/v1/78/yc-resend/2024/02/e0/e02902533dc756e857baecbc76a2200cac00ba9bbe89d876f5ad6314f0789087/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4402,
+    "sha256": "sha256:86c8194a735b0b788b96b2317029c7533807b38dde2f9ba254a9609e9829d15b",
+    "normalized_content_hash": "sha256:f1cb31ab8b4805f039a6e244a83bfb3c5001d6888188f6381d8e0887b6429637"
+  },
+  "provenance": {
+    "source_item_id": "8f908d2a-8c14-4270-875c-2ce5ee307301",
+    "external_id": "https://resend.com/blog/incident-report-for-february-21-2024"
+  }
+}

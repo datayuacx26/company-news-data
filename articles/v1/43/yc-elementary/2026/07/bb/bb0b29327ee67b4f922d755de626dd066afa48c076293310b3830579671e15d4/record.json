@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb0b29327ee67b4f922d755de626dd066afa48c076293310b3830579671e15d4",
+  "company": {
+    "key": "yc-elementary",
+    "name": "Elementary"
+  },
+  "source": {
+    "id": "yc-elementary-news-import-909d1fa3bc2c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elementary-data.com/post/multi-project-dbt-lineage-see-dependencies-across-your-entire-data-stack",
+    "canonical": "https://www.elementary-data.com/post/multi-project-dbt-lineage-see-dependencies-across-your-entire-data-stack"
+  },
+  "title": "Multi-Project dbt Lineage: See Dependencies Across Your Entire Data Stack",
+  "summary": "Most teams running dbt at scale split their work into multiple projects by domain or transformation stage. This creates a visibility gap: lineage stops at project boundaries, making it hard to trace root causes, assess downstream impact, or route incidents to the right teams. Elementary's multi-project lineage builds a unified dependency graph across all dbt projects in your environment. See how data flows end-to-end and debug incidents faster without manually stitching context together.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T02:31:24.735806+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-20T01:09:44.942148+00:00",
+  "paths": {
+    "article": "articles/v1/43/yc-elementary/2026/07/bb/bb0b29327ee67b4f922d755de626dd066afa48c076293310b3830579671e15d4/article.md",
+    "record": "articles/v1/43/yc-elementary/2026/07/bb/bb0b29327ee67b4f922d755de626dd066afa48c076293310b3830579671e15d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6509,
+    "sha256": "sha256:5151574ffc4da2c1a19b56fc4bc5d61babfdb7d109d88efecbbdefc70f804dee",
+    "normalized_content_hash": "sha256:0a8f73b67b46c675834f459b39400f4f5beb220b34c9d7d06eab8cafd3db38e6"
+  },
+  "provenance": {
+    "source_item_id": "e5efce7f-6579-4e90-a730-93b4636f1e88",
+    "external_id": "https://www.elementary-data.com/post/multi-project-dbt-lineage-see-dependencies-across-your-entire-data-stack"
+  }
+}

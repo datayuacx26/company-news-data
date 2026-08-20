@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "b17f04250def32f07045255be3216ba8020ee1a4c42ecb7afacafa015ab0a095"
+company_key: "galaxy-digital-inc-class-a-common-stock"
+company: "Galaxy Digital Inc."
+source_id: "galaxy-digital-inc-class-a-common-stock-news-import-3264694a8f1e"
+canonical_url: "https://www.galaxy.com/insights/podcasts/galaxy-grid/clarity-deadline-nears-as-coinbase-repositions-base"
+published_at: null
+first_seen_at: "2026-07-25T06:06:49.370534+00:00"
+fetched_at: "2026-07-28T21:35:55.789196+00:00"
+content_hash: "sha256:df1a177ec316bc59bec4f433793fc587712ecdc81f9e5deb4f581b476adaca99"
+---
+
+# Clarity Deadline Nears as Coinbase Repositions Base
+
+In this week's episode of Galaxy Grid, the hosts break down a ranging market as Bitcoin clears $65k and MicroStrategy executes a $263 million equity sale to build a $3.2 billion reserve, without buying new BTC. The crew also discusses ETH ETF inflows flipping Bitcoin's, the legislative limbo of the Clarity Act, and Base’s major pivot away from social crypto to focus on core trading. Finally, they analyze the $18 million Ostium protocol exploit, institutional TradFi momentum at the Hyperliquid Policy Summit, and the divisive BIP 110 Bitcoin soft fork proposal. Keep in touch: ▸ Follow us on Twitter:[https://x.com/galaxyhq](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUy01bjNjeTVNbnFXbldFRmRYOHZPQXxBR3JiS2FrVzJuQW1iRWtkemtUcExxWE9DWU5pSmIyVnFwYUhDWGM2OC16WU5KX1NrSl9vd0h3cmFSRzZFcDQtR3lXTC1ZY1RTSU5zdVRwRHVESjh4RDQxd013TmdPZ1N1dW5V&q=https%3A%2F%2Fx.com%2Fgalaxyhq&v=k69xQsoce24) &[https://x.com/glxyresearch](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUUVKYllrcERUX25PMXNjSTREblZNcXxBR3JiS2FubUhLbm5iNThhZVhYU1M4eDdKanVoMEEzbmxHX2MzSGtwM3RxZ2xnMzVRTWFGUW1JNlhXLW1NY25mcEszdHJSVGVGcGplLUhBQkpoRTFQYnY4UDlZZnF4ZnNZamYy&q=https%3A%2F%2Fx.com%2Fglxyresearch&v=k69xQsoce24) ▸ Read our research at[https://www.galaxy.com/research](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVFA0MWlHTFUyUW1jdHJGSkdIVGh0MHxBR3JiS2FsUWhiemROTUVkQjQ0M0t3S2R5eXU4ZE5ZZzFsS0J6QTMwVEZhT0JDMWw2QVRFSzVJaFB5YmttUDZqRWhwX1lnRHJidlk2S1lpUlA2MC1vbGZmYmNQMnZ5b2FyVFd1&q=https%3A%2F%2Fwww.galaxy.com%2Fresearch&v=k69xQsoce24) ▸ Subscribe to receive Galaxy Research's weekly newsletter:[https://www.galaxy.com/subscribe-to-r...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVENJSnI0dVRnV0dpNWJIMnU1LU1Jb3xBR3JiS2FueHpzZFU0MGpVQ3BKWUs4YkF3MXkxY0FuQTZjcC1lM1dleW5XbkF3ZEpacnJIZk5yNERsLTkzSDlTcUhrQWZqeUt1OE9VU3Q0SjBoMWJ4MkJtYmtyNWVSS1I5NWVm&q=https%3A%2F%2Fwww.galaxy.com%2Fsubscribe-to-research&v=k69xQsoce24) This video, and the information contained herein, has been provided to you by Galaxy Digital Holdings LP and its affiliates (“Galaxy Digital”) solely for informational purposes. View the full disclaimer at[https://www.galaxy.com/galaxy-digital...](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVGJGQmZJOHg3ZXktZkNyTWdRRHQtOHxBR3JiS2FtX2xrc005VTJ0UGNqaGdvNWVxVTlnTVNuMWM1S2hDSWRKdnNVVF8zY0FpUndpQ2RQcHI5ZGtuU3FiRlgzSHlnVEZVam9kU2pJNUtObTRWV2JycXlZSHZLbDRWS2U1&q=https%3A%2F%2Fwww.galaxy.com%2Fgalaxy-digital-content-disclaimer&v=k69xQsoce24)

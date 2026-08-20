@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd7e6e7dbd71e3bff7df7fb480992037fa6c384c1a74cf65906676b5ae92e61a",
+  "company": {
+    "key": "yc-probo",
+    "name": "Probo"
+  },
+  "source": {
+    "id": "yc-probo-news-import-3a271dc478c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.probo.com/blog/2026-08-05-posthog-feature-flags-cookie-consent",
+    "canonical": "https://www.probo.com/blog/2026-08-05-posthog-feature-flags-cookie-consent"
+  },
+  "title": "PostHog feature flags behind a cookie banner",
+  "summary": "How to evaluate PostHog feature flags only after analytics consent and identify() — and why cookieless_mode: on_reject is the right Track 2 default when you need flags.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T19:01:39.164281+00:00",
+  "fetched_at": "2026-08-05T19:01:40.565783+00:00",
+  "last_updated_at": "2026-08-19T17:12:02.404580+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-probo/2026/08/dd/dd7e6e7dbd71e3bff7df7fb480992037fa6c384c1a74cf65906676b5ae92e61a/article.md",
+    "record": "articles/v1/51/yc-probo/2026/08/dd/dd7e6e7dbd71e3bff7df7fb480992037fa6c384c1a74cf65906676b5ae92e61a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11370,
+    "sha256": "sha256:5500533abff5b375ba6435e444c503adfae63dd7b51459221bcdd769c673cc36",
+    "normalized_content_hash": "sha256:185acbcbe2472ef6934ad5c33737b7aaae18222d49db52a5231d732993c81bf2"
+  },
+  "provenance": {
+    "source_item_id": "56c3b524-1c58-4a12-802b-21ca2efbd2d4",
+    "external_id": "https://www.probo.com/blog/2026-08-05-posthog-feature-flags-cookie-consent"
+  }
+}

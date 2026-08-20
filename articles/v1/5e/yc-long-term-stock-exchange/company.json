@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-long-term-stock-exchange",
+    "name": "Long Term Stock Exchange"
+  },
+  "record_count": 10,
+  "first_published_at": "2020-08-06T18:23:12+00:00",
+  "last_published_at": "2021-02-19T18:08:52+00:00",
+  "partitions": [
+    {
+      "partition": "2020-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5e/yc-long-term-stock-exchange/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10483,
+        "sha256": "sha256:6b9d4e8ca007f16422f34d825345dd7f916cb8d472873cf0a2067bcee875539a",
+        "newest_at": "2021-02-19T18:08:52+00:00",
+        "oldest_at": "2020-08-06T18:23:12+00:00"
+      }
+    ]
+  }
+}

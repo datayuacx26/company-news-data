@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7aab5e45e5cbc6928a8ac898ee28899163ea16f48548f6f62c9e5f1df4abbf5",
+  "company": {
+    "key": "yc-cua",
+    "name": "Cua"
+  },
+  "source": {
+    "id": "yc-cua-news-import-c869e0198521",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cua.ai/blog/inside-linux-computer-use",
+    "canonical": "https://cua.ai/blog/inside-linux-computer-use"
+  },
+  "title": "Inside Linux computer-use: AT-SPI, XTEST, and background agents",
+  "summary": "Cua Driver now drives real Linux desktop apps in the background for any agent. It uses AT-SPI 2 over D-Bus for the accessibility tree, XTEST for input synthesis, and a painted agent cursor kept separate from your physical pointer, on X11 and XWayland.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:32:57.845806+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T03:04:12.182268+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-cua/2026/06/d7/d7aab5e45e5cbc6928a8ac898ee28899163ea16f48548f6f62c9e5f1df4abbf5/article.md",
+    "record": "articles/v1/4c/yc-cua/2026/06/d7/d7aab5e45e5cbc6928a8ac898ee28899163ea16f48548f6f62c9e5f1df4abbf5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16985,
+    "sha256": "sha256:eab9db6abf9d499c99530adcb7ae25bf45cf419d871f2e428d8fb645ceb8e6a7",
+    "normalized_content_hash": "sha256:ac060269c73ab91a754271eff030d280bee1978587482612c7b53e3271e8a9d3"
+  },
+  "provenance": {
+    "source_item_id": "f001e932-7983-4dd2-8791-a4d3544ff24a",
+    "external_id": "https://cua.ai/blog/inside-linux-computer-use"
+  }
+}

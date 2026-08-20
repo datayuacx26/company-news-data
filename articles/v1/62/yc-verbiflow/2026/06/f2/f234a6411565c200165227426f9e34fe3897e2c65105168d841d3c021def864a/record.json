@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f234a6411565c200165227426f9e34fe3897e2c65105168d841d3c021def864a",
+  "company": {
+    "key": "yc-verbiflow",
+    "name": "Verbiflow"
+  },
+  "source": {
+    "id": "yc-verbiflow-news-import-392b5e1f9020",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://verbiflow.com/blog/benchmark-agent-fanout-vs-sdk",
+    "canonical": "https://verbiflow.com/blog/benchmark-agent-fanout-vs-sdk"
+  },
+  "title": "We tested our SDK against 10 Claude subagents. Our SDK ran 1,165% faster.",
+  "summary": "Same task, same SDK calls, same AI model. Our SDK finished in 31 seconds with zero retries. 10 Claude subagents took 392 seconds and needed 4 retries.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T18:39:30.762214+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-19T23:59:47.942243+00:00",
+  "paths": {
+    "article": "articles/v1/62/yc-verbiflow/2026/06/f2/f234a6411565c200165227426f9e34fe3897e2c65105168d841d3c021def864a/article.md",
+    "record": "articles/v1/62/yc-verbiflow/2026/06/f2/f234a6411565c200165227426f9e34fe3897e2c65105168d841d3c021def864a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2863,
+    "sha256": "sha256:ffdd12fcf65d17aeea36744988ef47e1e6f70433c7045de69eb3dfea43096449",
+    "normalized_content_hash": "sha256:8e39bc2f219801d2f266302e844fd8c242f4c7512a04806766bd3e3c0a66cdd5"
+  },
+  "provenance": {
+    "source_item_id": "34491f52-06b1-4c73-909b-19ebd98327ba",
+    "external_id": "https://verbiflow.com/blog/benchmark-agent-fanout-vs-sdk"
+  }
+}

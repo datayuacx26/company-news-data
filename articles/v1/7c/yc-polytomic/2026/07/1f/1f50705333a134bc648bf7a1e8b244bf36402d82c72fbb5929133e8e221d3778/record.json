@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f50705333a134bc648bf7a1e8b244bf36402d82c72fbb5929133e8e221d3778",
+  "company": {
+    "key": "yc-polytomic",
+    "name": "Polytomic"
+  },
+  "source": {
+    "id": "yc-polytomic-news-import-c5d7ea331448",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.polytomic.com/blog-posts/announcing-cdc-streaming-from-amazon-dynamodb",
+    "canonical": "https://www.polytomic.com/blog-posts/announcing-cdc-streaming-from-amazon-dynamodb"
+  },
+  "title": "Announcing CDC streaming from Amazon DynamoDB",
+  "summary": "Read Announcing CDC streaming from Amazon DynamoDB on the Polytomic blog.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T19:31:15.738590+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-19T19:27:14.959513+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-polytomic/2026/07/1f/1f50705333a134bc648bf7a1e8b244bf36402d82c72fbb5929133e8e221d3778/article.md",
+    "record": "articles/v1/7c/yc-polytomic/2026/07/1f/1f50705333a134bc648bf7a1e8b244bf36402d82c72fbb5929133e8e221d3778/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1326,
+    "sha256": "sha256:371316f3d6a0ff3d7fd86e86291c730b2b19e4c71e8892fba9a603cad647471c",
+    "normalized_content_hash": "sha256:e06a0c5a8b0824338223e94a93849ebe399d5c58bfb7b446637bfa41db4cc4c0"
+  },
+  "provenance": {
+    "source_item_id": "958eba70-6d7e-492c-a012-03fcc0aabbd3",
+    "external_id": "https://www.polytomic.com/blog-posts/announcing-cdc-streaming-from-amazon-dynamodb"
+  }
+}

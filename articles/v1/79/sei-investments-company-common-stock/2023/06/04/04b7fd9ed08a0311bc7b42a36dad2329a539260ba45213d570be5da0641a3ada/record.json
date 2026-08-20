@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04b7fd9ed08a0311bc7b42a36dad2329a539260ba45213d570be5da0641a3ada",
+  "company": {
+    "key": "sei-investments-company-common-stock",
+    "name": "SEI Investments Company"
+  },
+  "source": {
+    "id": "sei-investments-company-common-stock-rss-baf77b6563d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://developers.seic.com/browse/apis/benchmark-entitlements-0",
+    "canonical": "http://developers.seic.com/browse/apis/benchmark-entitlements-0"
+  },
+  "title": "Benchmark Entitlements",
+  "summary": "Benchmark Entitlements Benchmark entitlement service returns all the Top Level benchmarks available from SEI and are associated to a respective client. The service validates the requested benchmarks against the client’s benchmarks and determines whether or not a client is entitled to those benchmarks. Naga Vangala Mon, 06/12/2023 - 14:11 Middle Office Europe North America Custody Independent Developers Investment Managers Document BG Color #173b6b Document Icon Priority order list 3 Openapi Spec Sandbox Postman Collection Button Enable Review FAQs Button Enable Try It Now Button Disable",
+  "published_at": "2023-06-12T18:11:12+00:00",
+  "first_seen_at": "2026-07-20T23:21:36.655623+00:00",
+  "fetched_at": "2026-07-24T19:28:58.558948+00:00",
+  "last_updated_at": "2026-07-24T19:28:58.567567+00:00",
+  "paths": {
+    "article": "articles/v1/79/sei-investments-company-common-stock/2023/06/04/04b7fd9ed08a0311bc7b42a36dad2329a539260ba45213d570be5da0641a3ada/article.md",
+    "record": "articles/v1/79/sei-investments-company-common-stock/2023/06/04/04b7fd9ed08a0311bc7b42a36dad2329a539260ba45213d570be5da0641a3ada/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1540,
+    "sha256": "sha256:4013b90d104799904c65d24a8b1c9645987378c51234e91a6b5f880080190d86",
+    "normalized_content_hash": "sha256:387660723af2114a0a60340a8b9a9fcc1708cf6e7c22219aa639cf7350d739b6"
+  },
+  "provenance": {
+    "source_item_id": "48b11eb7-f658-4331-b15f-afb92b4436f8",
+    "external_id": "342 at http://developers.seic.com"
+  }
+}

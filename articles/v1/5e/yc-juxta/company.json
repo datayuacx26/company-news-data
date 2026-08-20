@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-juxta",
+    "name": "Juxta"
+  },
+  "record_count": 17,
+  "first_published_at": "2026-01-26T00:00:00+00:00",
+  "last_published_at": "2026-07-23T16:07:28.440+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/5e/yc-juxta/index/pages/000001.json",
+        "record_count": 17,
+        "byte_count": 16175,
+        "sha256": "sha256:952bfaad4faac3d9939d64ee5436a9702881145d2c0def36e586507f600eea4f",
+        "newest_at": "2026-07-23T16:07:28.440+00:00",
+        "oldest_at": "2026-01-26T00:00:00+00:00"
+      }
+    ]
+  }
+}

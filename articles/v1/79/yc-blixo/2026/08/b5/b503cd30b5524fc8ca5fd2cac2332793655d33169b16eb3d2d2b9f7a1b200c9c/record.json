@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b503cd30b5524fc8ca5fd2cac2332793655d33169b16eb3d2d2b9f7a1b200c9c",
+  "company": {
+    "key": "yc-blixo",
+    "name": "Blixo"
+  },
+  "source": {
+    "id": "yc-blixo-news-import-f6dada9eec77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blixo.com/blog/en/post/how-to-recover-failed-subscription-payments-with-automated-dunning-in-blixo-b36c",
+    "canonical": "https://blixo.com/blog/en/post/how-to-recover-failed-subscription-payments-with-automated-dunning-in-blixo-b36c/"
+  },
+  "title": "How to Recover Failed Subscription Payments with Automated Dunning in Blixo",
+  "summary": "Key Takeaways Roughly 9% of monthly recurring revenue disappears to failed payments each month. About 80% of payment failures are fixable: expired cards, issuer declines, billing mismatches, not customers who want out. Half of subscription churn isn’t churn at all. It’s payment infrastructure failing in the background. Dunning retries failed charges on a schedule, typically at 3, 7, and 15 days after the decline. Accounts stay active during recovery. Subscribers keep access while the system waits for the card to clear. Recovered payments sync straight into cash application, closing the invoice without anyone touching a spreadsheet. Revenue leaks when billing and accounting don’t talk. A cleared retry that doesn’t match its invoice is still a reconciliation problem. Quick Summary Most subscription payment failures aren’t customers leaving. They’re expired cards, temporary issuer declines, or a billing address that doesn’t match. The system flags it as failed, but if your dunning process can’t recover it fast, you lose the subscriber anyway. That’s involuntary churn: users who were happy with the product, but got dropped because the payment plumbing broke.",
+  "published_at": "2026-08-13T04:53:07+00:00",
+  "first_seen_at": "2026-08-16T22:27:10.936129+00:00",
+  "fetched_at": "2026-08-16T22:27:13.129229+00:00",
+  "last_updated_at": "2026-08-19T18:35:31.337817+00:00",
+  "paths": {
+    "article": "articles/v1/79/yc-blixo/2026/08/b5/b503cd30b5524fc8ca5fd2cac2332793655d33169b16eb3d2d2b9f7a1b200c9c/article.md",
+    "record": "articles/v1/79/yc-blixo/2026/08/b5/b503cd30b5524fc8ca5fd2cac2332793655d33169b16eb3d2d2b9f7a1b200c9c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22720,
+    "sha256": "sha256:7af39a5581836a2d9b0ecf2ae5bb31bfedda41baef73b6832d6c802931d71245",
+    "normalized_content_hash": "sha256:fa7c1901804b109603f5dab0d4e886849145de6e263db01d896f7ae966b8cd75"
+  },
+  "provenance": {
+    "source_item_id": "5a5ca592-648b-49f6-95d9-da4a02b20347",
+    "external_id": "https://blixo.com/blog/en/post/how-to-recover-failed-subscription-payments-with-automated-dunning-in-blixo-b36c/"
+  }
+}

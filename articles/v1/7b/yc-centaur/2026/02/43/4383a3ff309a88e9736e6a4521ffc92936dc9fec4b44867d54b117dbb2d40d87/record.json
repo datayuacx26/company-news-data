@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4383a3ff309a88e9736e6a4521ffc92936dc9fec4b44867d54b117dbb2d40d87",
+  "company": {
+    "key": "yc-centaur",
+    "name": "Centaur"
+  },
+  "source": {
+    "id": "yc-centaur-news-import-7ab94b327191",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://centaur.ai/post/the-hidden-cost-of-noisy-data-in-llm-evaluation",
+    "canonical": "https://centaur.ai/post/the-hidden-cost-of-noisy-data-in-llm-evaluation"
+  },
+  "title": "The Hidden Cost of Noisy Data in LLM Evaluation",
+  "summary": "Noisy evaluation data undermines LLM performance, hides real risks, and wastes engineering effort. Metrics cannot fix flawed ground truth. High-quality, expert-labeled evaluation data aligns scores with real outcomes, enabling trustworthy decisions, regulatory readiness, and scalable AI systems. Centaur.ai delivers the expert data infrastructure LLMs require.",
+  "published_at": "2026-02-09T19:08:47.087+00:00",
+  "first_seen_at": "2026-07-27T00:36:30.031492+00:00",
+  "fetched_at": "2026-07-28T22:21:12.159869+00:00",
+  "last_updated_at": "2026-08-19T20:56:53.153986+00:00",
+  "paths": {
+    "article": "articles/v1/7b/yc-centaur/2026/02/43/4383a3ff309a88e9736e6a4521ffc92936dc9fec4b44867d54b117dbb2d40d87/article.md",
+    "record": "articles/v1/7b/yc-centaur/2026/02/43/4383a3ff309a88e9736e6a4521ffc92936dc9fec4b44867d54b117dbb2d40d87/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8067,
+    "sha256": "sha256:f11c7c6e91129a9d8323091457b1b17b4ae25bc5915b54d7c47d635da85199ae",
+    "normalized_content_hash": "sha256:3aa789289574ae05bb92a2da83c6d0e0620514e7e805b66407f1b9c0eccb0ec0"
+  },
+  "provenance": {
+    "source_item_id": "eb68e3ee-2806-43b2-8542-50fc187d4c5f",
+    "external_id": "https://centaur.ai/post/the-hidden-cost-of-noisy-data-in-llm-evaluation"
+  }
+}

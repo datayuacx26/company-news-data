@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-nestor",
+    "name": "Nestor"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-10-09T13:45:02+00:00",
+  "last_published_at": "2026-08-13T12:57:16+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/6f/yc-nestor/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11731,
+        "sha256": "sha256:7e4c268f754c7b64b6560b0ca0ea4fe9d66f0370e1d69725029990e6a017ab1d",
+        "newest_at": "2026-08-13T12:57:16+00:00",
+        "oldest_at": "2025-10-09T13:45:02+00:00"
+      }
+    ]
+  }
+}

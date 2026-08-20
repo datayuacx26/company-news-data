@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7235c18fcfe366152e9705b7c8cd245314118ccd94deaad2b7a142efde3f6ada",
+  "company": {
+    "key": "yc-fivetran",
+    "name": "Fivetran"
+  },
+  "source": {
+    "id": "yc-fivetran-news-import-dafa91bc199f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.fivetran.com/blog/modern-data-stack-vs-open-data-infrastructure",
+    "canonical": "https://www.fivetran.com/blog/modern-data-stack-vs-open-data-infrastructure"
+  },
+  "title": "Modern data stack vs. Open Data Infrastructure",
+  "summary": "As organizations move from analytics to AI, the modern data stack breaks as tightly coupled, warehouse-centric architectures limit flexibility, interoperability, and scale.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:42:24.979492+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T00:16:58.180198+00:00",
+  "paths": {
+    "article": "articles/v1/7c/yc-fivetran/2026/05/72/7235c18fcfe366152e9705b7c8cd245314118ccd94deaad2b7a142efde3f6ada/article.md",
+    "record": "articles/v1/7c/yc-fivetran/2026/05/72/7235c18fcfe366152e9705b7c8cd245314118ccd94deaad2b7a142efde3f6ada/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12827,
+    "sha256": "sha256:59af49ed94dad0b5bd6a3054a301bd853327873388b3a3b45cbded3e1b84ed97",
+    "normalized_content_hash": "sha256:237268c6235088f26c3e45e3c29a4cdfcaaa71ac32c80e2e92b71ee29924944a"
+  },
+  "provenance": {
+    "source_item_id": "afc826e7-9a17-4b9c-9a48-30a0047311af",
+    "external_id": "https://www.fivetran.com/blog/modern-data-stack-vs-open-data-infrastructure"
+  }
+}

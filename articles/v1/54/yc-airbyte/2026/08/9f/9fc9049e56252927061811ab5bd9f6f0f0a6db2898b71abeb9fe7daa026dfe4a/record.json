@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9fc9049e56252927061811ab5bd9f6f0f0a6db2898b71abeb9fe7daa026dfe4a",
+  "company": {
+    "key": "yc-airbyte",
+    "name": "Airbyte"
+  },
+  "source": {
+    "id": "yc-airbyte-news-import-0f166651abb1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://airbyte.com/blog/entity-policies-for-airbyte-agents",
+    "canonical": "https://airbyte.com/blog/entity-policies-for-airbyte-agents"
+  },
+  "title": "Introducing Entity Policies for Airbyte Agents",
+  "summary": "Set granular entity-level policies for Airbyte Agents to control data access, enforce governance, and build secure, context-aware AI workflows.",
+  "published_at": "2026-08-11T07:13:00+00:00",
+  "first_seen_at": "2026-08-11T08:20:57.560945+00:00",
+  "fetched_at": "2026-08-11T08:20:59.763837+00:00",
+  "last_updated_at": "2026-08-20T00:31:35.654845+00:00",
+  "paths": {
+    "article": "articles/v1/54/yc-airbyte/2026/08/9f/9fc9049e56252927061811ab5bd9f6f0f0a6db2898b71abeb9fe7daa026dfe4a/article.md",
+    "record": "articles/v1/54/yc-airbyte/2026/08/9f/9fc9049e56252927061811ab5bd9f6f0f0a6db2898b71abeb9fe7daa026dfe4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4870,
+    "sha256": "sha256:c710fac4b4888acd95707f711ab2bf0a81cbdfdecc10e32b79380405baea6835",
+    "normalized_content_hash": "sha256:6d8046419b71794cb096f31ffb45feb0a59a5ca39f66b609c167592296476278"
+  },
+  "provenance": {
+    "source_item_id": "ebd20628-7349-44c1-b2fa-9708e551f3eb",
+    "external_id": "https://airbyte.com/blog/entity-policies-for-airbyte-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a469515db3cb5830aa658fc6db94af062d031fd6902c2778baa099bdd3698e0c",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/swap_openai_code_interpreter",
+    "canonical": "https://docs.litellm.ai/blog/swap_openai_code_interpreter"
+  },
+  "title": "Swap OpenAI Code Interpreter for E2B/OpenSandbox",
+  "summary": "Keep the OpenAI code_interpreter tool in your requests, run the code in your own sandbox. LiteLLM intercepts the tool call and routes it to E2B or OpenSandbox; no client changes.",
+  "published_at": "2026-06-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-10T17:30:11.518752+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/06/a4/a469515db3cb5830aa658fc6db94af062d031fd6902c2778baa099bdd3698e0c/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/06/a4/a469515db3cb5830aa658fc6db94af062d031fd6902c2778baa099bdd3698e0c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6724,
+    "sha256": "sha256:de77904c971b14d81c8ee914114934b1966c154bfebef0b52c2543c7ea4689d5",
+    "normalized_content_hash": "sha256:9877cad8125090ed0c27b6151b287d32e1e6b66c2ad90d33384428c4c7d79287"
+  },
+  "provenance": {
+    "source_item_id": "e7a34182-3e7f-4961-98f0-f5cea8dd605b",
+    "external_id": "https://docs.litellm.ai/blog/swap_openai_code_interpreter"
+  }
+}

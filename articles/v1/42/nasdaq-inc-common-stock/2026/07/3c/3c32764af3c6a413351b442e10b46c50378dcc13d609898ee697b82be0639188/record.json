@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c32764af3c6a413351b442e10b46c50378dcc13d609898ee697b82be0639188",
+  "company": {
+    "key": "nasdaq-inc-common-stock",
+    "name": "Nasdaq Inc."
+  },
+  "source": {
+    "id": "nasdaq-inc-common-stock-news-import-586d6c1b8058",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nasdaq.com/newsroom/cerebras-ipo-ushering-new-era-ai-hardware",
+    "canonical": "https://www.nasdaq.com/newsroom/cerebras-ipo-ushering-new-era-ai-hardware"
+  },
+  "title": "Cerebras IPO: Ushering in a New Era of AI Hardware",
+  "summary": "Cerebras Systems began trading on the Nasdaq Stock Market on Thursday under the ticker symbol CBRS, completing one of the most highly anticipated initial public offerings in the artificial intelligence sector.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T17:13:44.672746+00:00",
+  "fetched_at": "2026-07-27T19:04:01.613610+00:00",
+  "last_updated_at": "2026-07-27T19:04:25.197567+00:00",
+  "paths": {
+    "article": "articles/v1/42/nasdaq-inc-common-stock/2026/07/3c/3c32764af3c6a413351b442e10b46c50378dcc13d609898ee697b82be0639188/article.md",
+    "record": "articles/v1/42/nasdaq-inc-common-stock/2026/07/3c/3c32764af3c6a413351b442e10b46c50378dcc13d609898ee697b82be0639188/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4563,
+    "sha256": "sha256:f5e9b5c8b949a96e84c8a0665802a2ca2394a2a4178355d8da7711a248a43c80",
+    "normalized_content_hash": "sha256:abb4657665f9396656f173a11181f93772ba7373629e3ed9c9f569daed05465c"
+  },
+  "provenance": {
+    "source_item_id": "8979e892-bcc0-4d9b-a479-cc8c7507cd53",
+    "external_id": "https://www.nasdaq.com/newsroom/cerebras-ipo-ushering-new-era-ai-hardware"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dbf584a1e0a77ee902935655fc58b9ec8fe3f30fad02f19dbd89be5db9e02826",
+  "company": {
+    "key": "yc-cointracker",
+    "name": "CoinTracker"
+  },
+  "source": {
+    "id": "yc-cointracker-news-import-33dd9daf8236",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cointracker.com/blog/the-stablecoin-accounting-trap-waiting-for-your-next-audit",
+    "canonical": "https://www.cointracker.com/blog/the-stablecoin-accounting-trap-waiting-for-your-next-audit"
+  },
+  "title": "The stablecoin accounting trap waiting for your next audit",
+  "summary": "The SEC changed the rules on stablecoins last week. Broker-dealers can now hold payment stablecoins with a 2% capital haircut, down from 100%.",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:51:14.288459+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T01:33:32.729690+00:00",
+  "paths": {
+    "article": "articles/v1/57/yc-cointracker/2026/02/db/dbf584a1e0a77ee902935655fc58b9ec8fe3f30fad02f19dbd89be5db9e02826/article.md",
+    "record": "articles/v1/57/yc-cointracker/2026/02/db/dbf584a1e0a77ee902935655fc58b9ec8fe3f30fad02f19dbd89be5db9e02826/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10199,
+    "sha256": "sha256:4f959f0c9d48fda392db91c804b1c9f5c35809b952af02fd075e2b787d0a20d9",
+    "normalized_content_hash": "sha256:cc8494faab8d39a8db169f7b026ed9eb8d490c51b3ee00ec6e6ed08709c009d4"
+  },
+  "provenance": {
+    "source_item_id": "a85235a9-868b-4dac-bd40-8a3dc80b3eee",
+    "external_id": "https://www.cointracker.com/blog/the-stablecoin-accounting-trap-waiting-for-your-next-audit"
+  }
+}

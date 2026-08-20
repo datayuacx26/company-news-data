@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3259a65a7d703b003e40cc997d8987fb8dcb76b8a839dbd9caa7b2c9ae244fca",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/github-actions-oss-fork-builds",
+    "canonical": "https://depot.dev/blog/github-actions-oss-fork-builds"
+  },
+  "title": "Run Depot builds on forks of open-source projects with GitHub Actions",
+  "summary": "Use ephemeral Depot builders to build and test Docker images on pull requests from forks of your open-source repositories with our new authentication mechanism for public forks.",
+  "published_at": "2023-07-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/07/32/3259a65a7d703b003e40cc997d8987fb8dcb76b8a839dbd9caa7b2c9ae244fca/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/07/32/3259a65a7d703b003e40cc997d8987fb8dcb76b8a839dbd9caa7b2c9ae244fca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5844,
+    "sha256": "sha256:00e2134fbd5ede3615b99933c412cbd36d090b811d610e6d0b902fa5041370fd",
+    "normalized_content_hash": "sha256:78d70af2f69be05396f10c0e8de65963d2e484878a7c123fdf99882de9174084"
+  },
+  "provenance": {
+    "source_item_id": "71acf699-4aed-486b-ba0a-5455e7fe32ab",
+    "external_id": "https://depot.dev/blog/github-actions-oss-fork-builds"
+  }
+}

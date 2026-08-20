@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3bad42d264004197502d167d1898ffd1cc9b03fa3b659c496c560c10917d1ed2",
+  "company": {
+    "key": "yc-mastra",
+    "name": "Mastra"
+  },
+  "source": {
+    "id": "yc-mastra-news-import-1135de35cf81",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mastra.ai/articles/long-term-memory-ai-agents",
+    "canonical": "https://mastra.ai/articles/long-term-memory-ai-agents"
+  },
+  "title": "Long-term memory for AI agents: what it is and how to build it",
+  "summary": "Learn what long-term memory means for AI agents, why larger context windows fall short, which memory types matter, and how to design persistent retrieval.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T16:04:57.697539+00:00",
+  "fetched_at": "2026-08-10T16:04:59.642666+00:00",
+  "last_updated_at": "2026-08-12T23:26:43.117542+00:00",
+  "paths": {
+    "article": "articles/v1/63/yc-mastra/2026/08/3b/3bad42d264004197502d167d1898ffd1cc9b03fa3b659c496c560c10917d1ed2/article.md",
+    "record": "articles/v1/63/yc-mastra/2026/08/3b/3bad42d264004197502d167d1898ffd1cc9b03fa3b659c496c560c10917d1ed2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16057,
+    "sha256": "sha256:2908a447b376b3e118c883b6cb2f0b42fe1cbf4542d1bc67872c85cf31d5de2d",
+    "normalized_content_hash": "sha256:65fb142044d1fdb961d152229a32ba320a066dbf153685c84dbb46910960e054"
+  },
+  "provenance": {
+    "source_item_id": "198de92e-2d40-4f3f-adf4-7c51d4f8658e",
+    "external_id": "https://mastra.ai/articles/long-term-memory-ai-agents"
+  }
+}

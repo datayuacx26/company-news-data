@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a11ceaf7d084b25d381cb7b32eb19f63666124112d48f1d02ac037706b9cc190",
+  "company": {
+    "key": "yc-metorial",
+    "name": "Metorial"
+  },
+  "source": {
+    "id": "yc-metorial-news-import-9c457a3d81d4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metorial.com/blog/why-mcp-and-why-not",
+    "canonical": "https://metorial.com/blog/why-mcp-and-why-not"
+  },
+  "title": "Why Your AI Agent Needs MCP (And When It Doesn't)",
+  "summary": "Your agent can't check Slack, pull data from your Postgres database, read files from Google Drive, or update tickets in Linear. Every time you want to add a new integration, you're staring down weeks of custom API work, authentication headaches, and the inevitable \"wait, their API changed again?\" moments.",
+  "published_at": "2025-10-10T16:08:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:44.298499+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T18:53:41.634509+00:00",
+  "paths": {
+    "article": "articles/v1/56/yc-metorial/2025/10/a1/a11ceaf7d084b25d381cb7b32eb19f63666124112d48f1d02ac037706b9cc190/article.md",
+    "record": "articles/v1/56/yc-metorial/2025/10/a1/a11ceaf7d084b25d381cb7b32eb19f63666124112d48f1d02ac037706b9cc190/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9458,
+    "sha256": "sha256:f8e2ae4523c3876b813aeeb8f8cddcaf5c35e6af928a91cc62378c470abb07d9",
+    "normalized_content_hash": "sha256:e5c6dba9887d12098b151e862ba03b9ee18538ed0c88bfbf25be4dce1edac82e"
+  },
+  "provenance": {
+    "source_item_id": "02522e91-4d8f-43f9-8543-99fbb97fdd1e",
+    "external_id": "https://metorial.com/blog/why-mcp-and-why-not"
+  }
+}

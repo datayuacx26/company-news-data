@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d102002275bd88b35d167d6838d310cb77e310d0db4aa5aac7bd4999509e55bf",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/rust-ai-gateway-benchmarks",
+    "canonical": "https://docs.litellm.ai/blog/rust-ai-gateway-benchmarks"
+  },
+  "title": "Benchmarking the LiteLLM Rust AI Gateway: Overhead, Memory, and Cost",
+  "summary": "AIGatewayBench measures the overhead an AI gateway adds on top of the upstream model, isolated against a deterministic mock, across LiteLLM (Rust), LiteLLM (Python v1), Portkey, and Bifrost. The LiteLLM Rust gateway has the lowest overhead and memory footprint of the four.",
+  "published_at": "2026-07-22T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:33:34.852652+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/07/d1/d102002275bd88b35d167d6838d310cb77e310d0db4aa5aac7bd4999509e55bf/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/07/d1/d102002275bd88b35d167d6838d310cb77e310d0db4aa5aac7bd4999509e55bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5721,
+    "sha256": "sha256:09b97b1992ce6b9578dc7402cc91a232e26196f6369cce54e3f5bb2a5e8d9a56",
+    "normalized_content_hash": "sha256:4aadcaa3a9e6a4cd91d1e533ea25eb56237bd70389e510a564f9d4c3b4df6dc8"
+  },
+  "provenance": {
+    "source_item_id": "85f996d7-887d-4f01-ab31-9ae80a4d6293",
+    "external_id": "https://docs.litellm.ai/blog/rust-ai-gateway-benchmarks"
+  }
+}

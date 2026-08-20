@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "276277cc5225bd81481f710a6a8ae332bddf7d66c7bdcfb8c26d9927b5ebf2e2",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/auto-router-terminal-bench-benchmark",
+    "canonical": "https://docs.litellm.ai/blog/auto-router-terminal-bench-benchmark"
+  },
+  "title": "Auto Router: Opus level quality at up to 27% lower cost",
+  "summary": "On a 21 task subset of Terminal-Bench 2.0, an auto router matched Claude Opus-5 solve rate at 27% lower cost. Adding the last 3 user messages as classifier context raised relative quality 14% but cost 44% more; adding assistant replies made both worse.",
+  "published_at": "2026-08-08T10:00:00+00:00",
+  "first_seen_at": "2026-08-10T01:27:05.590590+00:00",
+  "fetched_at": "2026-08-10T01:27:08.250364+00:00",
+  "last_updated_at": "2026-08-19T23:38:57.894328+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/08/27/276277cc5225bd81481f710a6a8ae332bddf7d66c7bdcfb8c26d9927b5ebf2e2/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/08/27/276277cc5225bd81481f710a6a8ae332bddf7d66c7bdcfb8c26d9927b5ebf2e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7028,
+    "sha256": "sha256:43c30d672f1011d1ae1dc31ff471b4d112604aaa271f9ca2a78abdef31781039",
+    "normalized_content_hash": "sha256:57eefa4b565cf0347607b4599eca089bea1089dca37a71d219e90084ce2ead59"
+  },
+  "provenance": {
+    "source_item_id": "103b9de3-226b-48ba-a757-1a02c1003dd7",
+    "external_id": "https://docs.litellm.ai/blog/auto-router-terminal-bench-benchmark"
+  }
+}

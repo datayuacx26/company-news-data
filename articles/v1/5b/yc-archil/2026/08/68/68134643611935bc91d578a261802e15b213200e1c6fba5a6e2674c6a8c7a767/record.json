@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68134643611935bc91d578a261802e15b213200e1c6fba5a6e2674c6a8c7a767",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/scaling-s3",
+    "canonical": "https://archil.com/article/scaling-s3"
+  },
+  "title": "Scaling S3: Navigating request Rates, throughput, scaling, and S3TA",
+  "summary": "Optimize Amazon S3 performance with key prefix scaling, S3 Transfer Acceleration, and multi-part uploads to achieve faster throughput, lower latency, and global reliability at any scale.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/68/68134643611935bc91d578a261802e15b213200e1c6fba5a6e2674c6a8c7a767/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/68/68134643611935bc91d578a261802e15b213200e1c6fba5a6e2674c6a8c7a767/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7430,
+    "sha256": "sha256:c4859dd5aea1f49af3fc1a15a7367a267cc6d4c13bc7ef9fc22e970d8d27926b",
+    "normalized_content_hash": "sha256:32f7c7a567b82d5d01ed9710a639c007fdf08939ea2c10cdc44a596802981dad"
+  },
+  "provenance": {
+    "source_item_id": "03cb429a-42b3-4df4-95bf-c4dd8f1607ad",
+    "external_id": "https://archil.com/article/scaling-s3"
+  }
+}

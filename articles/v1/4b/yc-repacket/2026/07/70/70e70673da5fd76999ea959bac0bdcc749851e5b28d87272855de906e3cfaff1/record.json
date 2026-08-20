@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "70e70673da5fd76999ea959bac0bdcc749851e5b28d87272855de906e3cfaff1",
+  "company": {
+    "key": "yc-repacket",
+    "name": "Repacket"
+  },
+  "source": {
+    "id": "yc-repacket-news-import-0e4729019e61",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.repacket.com/blog/the-anatomy-of-a-phishing-attack-why-they-still-work-in-2025",
+    "canonical": "https://www.repacket.com/blog/the-anatomy-of-a-phishing-attack-why-they-still-work-in-2025"
+  },
+  "title": "The Anatomy of a Phishing Attack: Why They Still Work in 2025",
+  "summary": "Mar 26, 2025 - A breakdown of modern phishing attacks, exploring how threat actors move from reconnaissance to credential theft despite security awareness. Learn why these deceptive tactics continue to succeed by exploiting human psychology and organizational pressures, and discover the multi-layered defenses needed to break the cycle.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T23:31:46.729995+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T20:16:37.958293+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-repacket/2026/07/70/70e70673da5fd76999ea959bac0bdcc749851e5b28d87272855de906e3cfaff1/article.md",
+    "record": "articles/v1/4b/yc-repacket/2026/07/70/70e70673da5fd76999ea959bac0bdcc749851e5b28d87272855de906e3cfaff1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9337,
+    "sha256": "sha256:bf177cd3e0ed9ddcd3514d9dec329645132dd304b52935d33809328566db227c",
+    "normalized_content_hash": "sha256:27d12a72662fccfe3d78e872d60ee614345988f858ad3885729564d1e7c73491"
+  },
+  "provenance": {
+    "source_item_id": "e1fa9eff-a3ec-4dcb-9321-a4bbb76a730f",
+    "external_id": "https://www.repacket.com/blog/the-anatomy-of-a-phishing-attack-why-they-still-work-in-2025"
+  }
+}

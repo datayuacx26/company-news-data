@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f4e1b4b5b4f9ec3b1525e5e95c90dd256251cdb01478f905ec72b2c10fc9113",
+  "company": {
+    "key": "yc-brainboard",
+    "name": "Brainboard"
+  },
+  "source": {
+    "id": "yc-brainboard-news-import-c1cb64b4ba70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brainboard.co/blog/working-with-kubernetes-persistent-volumes-without-the-confusion",
+    "canonical": "https://www.brainboard.co/blog/working-with-kubernetes-persistent-volumes-without-the-confusion"
+  },
+  "title": "Working with Kubernetes Persistent Volumes without the Confusion",
+  "summary": "Learn how kubernetes persistent volumes work, how to create a PVC, and when to use dynamic provisioning. Clear examples included. | Brainboard",
+  "published_at": "2026-04-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T04:03:09.323194+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-08-19T23:46:43.687866+00:00",
+  "paths": {
+    "article": "articles/v1/6a/yc-brainboard/2026/04/9f/9f4e1b4b5b4f9ec3b1525e5e95c90dd256251cdb01478f905ec72b2c10fc9113/article.md",
+    "record": "articles/v1/6a/yc-brainboard/2026/04/9f/9f4e1b4b5b4f9ec3b1525e5e95c90dd256251cdb01478f905ec72b2c10fc9113/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9257,
+    "sha256": "sha256:206f9a229b7285182391cc1b9b6b975a0fa4754ce0592a757b254f96f4138437",
+    "normalized_content_hash": "sha256:bdc547b22553f9bf03436bff40de5426f1046843e9990e99546e71983bb4f373"
+  },
+  "provenance": {
+    "source_item_id": "eee68180-8805-4ac6-b579-17bd7e2f0ab8",
+    "external_id": "https://www.brainboard.co/blog/working-with-kubernetes-persistent-volumes-without-the-confusion"
+  }
+}

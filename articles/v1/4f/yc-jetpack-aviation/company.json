@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-jetpack-aviation",
+    "name": "JetPack Aviation"
+  },
+  "record_count": 4,
+  "first_published_at": "2019-02-15T09:42:09+00:00",
+  "last_published_at": "2019-03-03T05:13:15+00:00",
+  "partitions": [
+    {
+      "partition": "2019-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/4f/yc-jetpack-aviation/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 5313,
+        "sha256": "sha256:f3ebc13920beac2dd27a7603024f12c9fa932937bf9e99f5573b76f646853057",
+        "newest_at": "2019-03-03T05:13:15+00:00",
+        "oldest_at": "2019-02-15T09:42:09+00:00"
+      }
+    ]
+  }
+}

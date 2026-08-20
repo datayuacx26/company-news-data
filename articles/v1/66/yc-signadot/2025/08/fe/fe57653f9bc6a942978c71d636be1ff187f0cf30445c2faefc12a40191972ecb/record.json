@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe57653f9bc6a942978c71d636be1ff187f0cf30445c2faefc12a40191972ecb",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/testing-microservices-with-rabbitmq-using-signadot-sandboxes/",
+    "canonical": "https://www.signadot.com/blog/testing-microservices-with-rabbitmq-using-signadot-sandboxes/"
+  },
+  "title": "Testing Microservices with RabbitMQ using Signadot Sandboxes",
+  "summary": "Isolate RabbitMQ consumers with Signadot Sandboxes for safe, parallel testing. Learn how to set up ephemeral environments without duplicating brokers.",
+  "published_at": "2025-08-29T21:03:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2025/08/fe/fe57653f9bc6a942978c71d636be1ff187f0cf30445c2faefc12a40191972ecb/article.md",
+    "record": "articles/v1/66/yc-signadot/2025/08/fe/fe57653f9bc6a942978c71d636be1ff187f0cf30445c2faefc12a40191972ecb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5839,
+    "sha256": "sha256:9b5024bd3f798cf15b8289d0d993cb4a76c64540e2dad3682cf12704e4d1385e",
+    "normalized_content_hash": "sha256:d71b1acf261588e2f9086e848c803e2b4b7626b577122167b565308a289a9180"
+  },
+  "provenance": {
+    "source_item_id": "24193bdd-2479-4b79-b095-a97817427e52",
+    "external_id": "https://www.signadot.com/blog/testing-microservices-with-rabbitmq-using-signadot-sandboxes/"
+  }
+}

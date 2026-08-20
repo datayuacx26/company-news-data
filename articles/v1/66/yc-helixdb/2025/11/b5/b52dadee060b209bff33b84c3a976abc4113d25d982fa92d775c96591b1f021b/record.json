@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b52dadee060b209bff33b84c3a976abc4113d25d982fa92d775c96591b1f021b",
+  "company": {
+    "key": "yc-helixdb",
+    "name": "HelixDB"
+  },
+  "source": {
+    "id": "yc-helixdb-news-import-f26087e13605",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.helix-db.com/blog/benchmarks",
+    "canonical": "https://www.helix-db.com/blog/benchmarks"
+  },
+  "title": "Graph Benchmarks V1",
+  "summary": "At HelixDB we've been focused on performance for the last few weeks. Here are our benchmarks for HelixDB, Neo4j, and Postgres (edges as joins) on a realistic graph dataset.",
+  "published_at": "2025-11-07T21:17:49.679+00:00",
+  "first_seen_at": "2026-07-21T22:45:35.407247+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-20T01:11:55.238851+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-helixdb/2025/11/b5/b52dadee060b209bff33b84c3a976abc4113d25d982fa92d775c96591b1f021b/article.md",
+    "record": "articles/v1/66/yc-helixdb/2025/11/b5/b52dadee060b209bff33b84c3a976abc4113d25d982fa92d775c96591b1f021b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6804,
+    "sha256": "sha256:7b675485033e5ae6b08da4d73adc7f15ae6a9c012febce583ee110d1fe6087a0",
+    "normalized_content_hash": "sha256:ed54441cd56f26d5e3773e147c88bcdc142ae5f31dcee1b745f2a829765be8fe"
+  },
+  "provenance": {
+    "source_item_id": "9aef0ff6-d8d0-4fb4-a70a-34f1b911305c",
+    "external_id": "https://www.helix-db.com/blog/benchmarks"
+  }
+}

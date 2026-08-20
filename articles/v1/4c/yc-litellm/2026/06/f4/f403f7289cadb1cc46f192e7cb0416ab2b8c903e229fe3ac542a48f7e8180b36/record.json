@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f403f7289cadb1cc46f192e7cb0416ab2b8c903e229fe3ac542a48f7e8180b36",
+  "company": {
+    "key": "yc-litellm",
+    "name": "LiteLLM"
+  },
+  "source": {
+    "id": "yc-litellm-news-import-8bfeaefbc2ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.litellm.ai/blog/lite-harness-sdk",
+    "canonical": "https://docs.litellm.ai/blog/lite-harness-sdk"
+  },
+  "title": "LiteLLM Labs: Announcing Lite-Harness SDK — Unified API for Claude Code, Codex, and Pi AI",
+  "summary": "One SDK. Swap between Claude Code, Codex, and Pi AI by changing a string. Pairs with the LiteLLM AI Gateway for keys, budgets, logs, and fallbacks.",
+  "published_at": "2026-06-02T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:33:29.495129+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-07-28T21:25:27.122081+00:00",
+  "paths": {
+    "article": "articles/v1/4c/yc-litellm/2026/06/f4/f403f7289cadb1cc46f192e7cb0416ab2b8c903e229fe3ac542a48f7e8180b36/article.md",
+    "record": "articles/v1/4c/yc-litellm/2026/06/f4/f403f7289cadb1cc46f192e7cb0416ab2b8c903e229fe3ac542a48f7e8180b36/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4701,
+    "sha256": "sha256:b37d8f920a1349555eabcdc2eb54aef2fb7fc185fbf523dc6f5e7942a7f8859c",
+    "normalized_content_hash": "sha256:eaaa8415a61540903a06639c3150a43074c157704768f1d98292a0209c18eded"
+  },
+  "provenance": {
+    "source_item_id": "45f8fd4f-e072-413c-947c-fa47168a4214",
+    "external_id": "https://docs.litellm.ai/blog/lite-harness-sdk"
+  }
+}

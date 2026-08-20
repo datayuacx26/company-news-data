@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2deec3f12bdefb7fd87de45cc9ef786305afc73c8232e9dc2422c5af3defefdc",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-buildkit-parallelizes-your-builds",
+    "canonical": "https://depot.dev/blog/how-buildkit-parallelizes-your-builds"
+  },
+  "title": "How BuildKit Parallelizes Your Builds",
+  "summary": "BuildKit's DAG solver transforms your Dockerfile into an optimized execution plan, finding every opportunity to run things in parallel. Learn how stage parallelism, instruction parallelism, and work deduplication combine to dramatically speed up your container builds.",
+  "published_at": "2025-10-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:55:32.133421+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2025/10/2d/2deec3f12bdefb7fd87de45cc9ef786305afc73c8232e9dc2422c5af3defefdc/article.md",
+    "record": "articles/v1/4b/yc-depot/2025/10/2d/2deec3f12bdefb7fd87de45cc9ef786305afc73c8232e9dc2422c5af3defefdc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10269,
+    "sha256": "sha256:483ced0fbca96875f3287e8480a20cc7db2a9e6d2ed46b5667e297875d15a1b2",
+    "normalized_content_hash": "sha256:9bf47d7ff8aa9188dd4a1128128ef56b42c6de0bcc36777460f9c2ac0e0f6389"
+  },
+  "provenance": {
+    "source_item_id": "4fb2445b-f7ae-423e-a88d-7a95e668409d",
+    "external_id": "https://depot.dev/blog/how-buildkit-parallelizes-your-builds"
+  }
+}

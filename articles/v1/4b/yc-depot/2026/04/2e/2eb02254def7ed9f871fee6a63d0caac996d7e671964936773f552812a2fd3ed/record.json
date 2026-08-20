@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2eb02254def7ed9f871fee6a63d0caac996d7e671964936773f552812a2fd3ed",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/now-available-depot-registry-v2",
+    "canonical": "https://depot.dev/blog/now-available-depot-registry-v2"
+  },
+  "title": "Now available: OCI-compliant Depot Registry",
+  "summary": "Depot Registry v2 is a ground-up rewrite of our container registry. The original design worked well as an ephemeral build store, but it had limitations around tags and repository naming. V2 solves those limitations and adds support for using it as a primary registry.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:52:37.138540+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/04/2e/2eb02254def7ed9f871fee6a63d0caac996d7e671964936773f552812a2fd3ed/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/04/2e/2eb02254def7ed9f871fee6a63d0caac996d7e671964936773f552812a2fd3ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5960,
+    "sha256": "sha256:5705f55818d11919f4bda6d8792256160672227bc2ecb3de67d3a11689c00e19",
+    "normalized_content_hash": "sha256:e121b5e3ee326bbffebf80fe1c6b396a18bc8f9ae0907339c56374b5177fc150"
+  },
+  "provenance": {
+    "source_item_id": "99307ffe-27a9-4c65-b62a-d32a1bfa39c8",
+    "external_id": "https://depot.dev/blog/now-available-depot-registry-v2"
+  }
+}

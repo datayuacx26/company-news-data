@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c640a2993e3c1c722a1a9d106f0668098ddde0abc2506bcc7c51c1bbf0774bb",
+  "company": {
+    "key": "digitalocean-holdings-inc-common-stock",
+    "name": "DigitalOcean Holdings Inc."
+  },
+  "source": {
+    "id": "digitalocean-holdings-inc-common-stock-atom-50ed4adbc240",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.digitalocean.com/blog/load-balancing-scaling-llm-serving",
+    "canonical": "https://www.digitalocean.com/blog/load-balancing-scaling-llm-serving"
+  },
+  "title": "Load Balancing and Scaling LLM Serving",
+  "summary": "DigitalOcean rethinks load balancing for LLMs with precise prefix cache-aware routing, boosting cache hits, cutting costs, and improving performance at scale.",
+  "published_at": "2026-04-15T19:03:31.807+00:00",
+  "first_seen_at": "2026-07-20T03:30:06.260557+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-20T02:46:33.656642+00:00",
+  "paths": {
+    "article": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/4c/4c640a2993e3c1c722a1a9d106f0668098ddde0abc2506bcc7c51c1bbf0774bb/article.md",
+    "record": "articles/v1/43/digitalocean-holdings-inc-common-stock/2026/04/4c/4c640a2993e3c1c722a1a9d106f0668098ddde0abc2506bcc7c51c1bbf0774bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13030,
+    "sha256": "sha256:40b4d0b81222238b2210b53922c5b43f1ba25950fb0e47b0b9eafdd24166b222",
+    "normalized_content_hash": "sha256:69e2aa96ed723d0d862c2d19eeef7e7dfc2b6954db4afe9853a7a22b28011a1a"
+  },
+  "provenance": {
+    "source_item_id": "c5552ecc-30c0-4ba0-b4e9-385f7cef8ee7",
+    "external_id": "tag:www.digitalocean.com,2005:/blog/load-balancing-scaling-llm-serving"
+  }
+}

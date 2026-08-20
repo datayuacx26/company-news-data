@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e76b2e842f2f8fd3f31b7165445831d42520b30dd3f17eedf2a59c7dc2863e1",
+  "company": {
+    "key": "yc-flick",
+    "name": "Flick"
+  },
+  "source": {
+    "id": "yc-flick-news-import-00342d05d871",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://flick.art/blog/img2img-consistent-character/flux",
+    "canonical": "https://flick.art/blog/img2img-consistent-character/flux"
+  },
+  "title": "How to Keep a Character Consistent in Flux",
+  "summary": "Flux holds a character best with Flux Kontext, an in-context editing model that preserves a subject across edits with no training. For a fully repeatable identity, train a Flux LoRA; for faces in a busy frame, add PuLID.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T08:28:30.776088+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:47.500965+00:00",
+  "paths": {
+    "article": "articles/v1/4e/yc-flick/2026/07/9e/9e76b2e842f2f8fd3f31b7165445831d42520b30dd3f17eedf2a59c7dc2863e1/article.md",
+    "record": "articles/v1/4e/yc-flick/2026/07/9e/9e76b2e842f2f8fd3f31b7165445831d42520b30dd3f17eedf2a59c7dc2863e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1460,
+    "sha256": "sha256:91dc7dfe21efa045f63b932c7752a48e0ef1eafd05692fff5978cc441e0812d2",
+    "normalized_content_hash": "sha256:b60ac0b0232c2f76f0ad94df5eafb9e5b046a8b7f8b79b49c92ada42f5c6fc49"
+  },
+  "provenance": {
+    "source_item_id": "8e2d5394-ef7a-4643-97aa-e5cf59f882b1",
+    "external_id": "https://flick.art/blog/img2img-consistent-character/flux"
+  }
+}

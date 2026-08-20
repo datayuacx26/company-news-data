@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2851272ada84e38c7a28764ebf5d2e28d3c04579c3f09aa5f9c5e62d1b4316de",
+  "company": {
+    "key": "netflix-inc-common-stock",
+    "name": "Netflix Inc."
+  },
+  "source": {
+    "id": "netflix-inc-common-stock-news-import-a57d67c5a948",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.netflix.com/en/news/netflix-gets-closer-closes-2026-us-upfront",
+    "canonical": "https://about.netflix.com/news/netflix-gets-closer-closes-2026-us-upfront"
+  },
+  "title": "Netflix Gets Closer: Closes 2026 US Upfront, Doubling Down on Ads Innovation",
+  "summary": "Today, we’re thrilled to share the successful conclusion of our 2026 Upfront in the US, closing deals with partners across all major agency partners. Netflix nearly doubled our ad commitments this year, in line with expectations.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T23:53:41.067859+00:00",
+  "fetched_at": "2026-08-10T23:53:42.076289+00:00",
+  "last_updated_at": "2026-08-19T19:06:43.956089+00:00",
+  "paths": {
+    "article": "articles/v1/59/netflix-inc-common-stock/2026/08/28/2851272ada84e38c7a28764ebf5d2e28d3c04579c3f09aa5f9c5e62d1b4316de/article.md",
+    "record": "articles/v1/59/netflix-inc-common-stock/2026/08/28/2851272ada84e38c7a28764ebf5d2e28d3c04579c3f09aa5f9c5e62d1b4316de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4623,
+    "sha256": "sha256:7ff2b93b8767096c3b68e9caba5fbba8249b04266a4f24338afd9eb5d44da765",
+    "normalized_content_hash": "sha256:1ffead8c7e96b8d400b3d64602b07e9642ac77dfafeace1b9dc1a0a0dcdf49c9"
+  },
+  "provenance": {
+    "source_item_id": "6b2656da-f37f-4f4a-99c8-bc10ffc924ca",
+    "external_id": "https://about.netflix.com/news/netflix-gets-closer-closes-2026-us-upfront"
+  }
+}

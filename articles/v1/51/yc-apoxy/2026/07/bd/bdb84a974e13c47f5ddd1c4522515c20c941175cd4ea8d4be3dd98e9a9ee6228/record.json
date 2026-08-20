@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdb84a974e13c47f5ddd1c4522515c20c941175cd4ea8d4be3dd98e9a9ee6228",
+  "company": {
+    "key": "yc-apoxy",
+    "name": "Apoxy"
+  },
+  "source": {
+    "id": "yc-apoxy-rss-ae7e2d86e063",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://apoxy.dev/case-studies/trainy",
+    "canonical": "https://apoxy.dev/case-studies/trainy"
+  },
+  "title": "How Trainy gives AI teams one control plane across every GPU cluster with Apoxy",
+  "summary": "Trainy's platform schedules GPU workloads across its customers' Kubernetes clusters and clouds. To do that, they need a reliable, secure connection into every one of those environments. Here's how they built it on Apoxy.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:03.880414+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-20T01:06:37.807067+00:00",
+  "paths": {
+    "article": "articles/v1/51/yc-apoxy/2026/07/bd/bdb84a974e13c47f5ddd1c4522515c20c941175cd4ea8d4be3dd98e9a9ee6228/article.md",
+    "record": "articles/v1/51/yc-apoxy/2026/07/bd/bdb84a974e13c47f5ddd1c4522515c20c941175cd4ea8d4be3dd98e9a9ee6228/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8068,
+    "sha256": "sha256:eabacfe322b85d5dc3a222b94ee639c146423fcf8c5975f6f2ad9017f7a466f2",
+    "normalized_content_hash": "sha256:3f90206ef5a55ecd9d8cc5d94c69446622adf2371549685e2ead35dbc0369146"
+  },
+  "provenance": {
+    "source_item_id": "0d11b2e0-3d1b-40dd-9eaa-feef8352a491",
+    "external_id": "https://apoxy.dev/case-studies/trainy"
+  }
+}

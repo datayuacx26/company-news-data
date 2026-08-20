@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c52fd5e68144073efc08e8159551d5d44fd2a52bec7fcf68917fd32e8220332",
+  "company": {
+    "key": "yc-resend",
+    "name": "Resend"
+  },
+  "source": {
+    "id": "yc-resend-rss-9474f2be6342",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://resend.com/blog/incident-report-for-november-18-2025",
+    "canonical": "https://resend.com/blog/incident-report-for-november-18-2025"
+  },
+  "title": "Incident report for November 18, 2025",
+  "summary": "Detailed postmortem of the outage on November 18, 2025.",
+  "published_at": "2025-11-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:56.405079+00:00",
+  "fetched_at": "2026-07-28T22:25:12.063826+00:00",
+  "last_updated_at": "2026-08-20T02:04:16.951416+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-resend/2025/11/2c/2c52fd5e68144073efc08e8159551d5d44fd2a52bec7fcf68917fd32e8220332/article.md",
+    "record": "articles/v1/78/yc-resend/2025/11/2c/2c52fd5e68144073efc08e8159551d5d44fd2a52bec7fcf68917fd32e8220332/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6636,
+    "sha256": "sha256:5a06bd78ff732d8c4fbd00421edfed6871027d898b9684e83acdbec6a561fab2",
+    "normalized_content_hash": "sha256:dc924f323b7c201db8698ca02b71890983e178ff97db99a9df489ec4396a52f9"
+  },
+  "provenance": {
+    "source_item_id": "71fe282e-7fc8-4a05-b15a-20a25ff95b0e",
+    "external_id": "https://resend.com/blog/incident-report-for-november-18-2025"
+  }
+}

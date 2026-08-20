@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09c8a0a81fd3a771c2a59b88cc9a8397eb281b3715ee008294f61ca34d608a6f",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/depot-configure-docker",
+    "canonical": "https://depot.dev/blog/depot-configure-docker"
+  },
+  "title": "Now available: Configure Docker to run builds with Depot by default",
+  "summary": "We're excited to bring a new feature to the depot CLI that allows you to configure docker build to use Depot for all image builds by default.",
+  "published_at": "2023-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/07/09/09c8a0a81fd3a771c2a59b88cc9a8397eb281b3715ee008294f61ca34d608a6f/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/07/09/09c8a0a81fd3a771c2a59b88cc9a8397eb281b3715ee008294f61ca34d608a6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3984,
+    "sha256": "sha256:7c01bffb4e8e7ed8e30ce1acc0314ab7b336ad7402f88ccc83ab0ba1da1d2825",
+    "normalized_content_hash": "sha256:e7b348c724936258cf5a98420ebf178b6df3df98a635bfcae8eb33c715dfdc06"
+  },
+  "provenance": {
+    "source_item_id": "f137cfd5-11ac-41c6-90f5-58227f645624",
+    "external_id": "https://depot.dev/blog/depot-configure-docker"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41bbe3f3d13d9f17f9531ed0758a00a919f499fd1a60d123df006d07f742a09c",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-to-use-buildkit-cache-mounts-in-ci",
+    "canonical": "https://depot.dev/blog/how-to-use-buildkit-cache-mounts-in-ci"
+  },
+  "title": "How to use BuildKit cache mounts in CI providers",
+  "summary": "BuildKit cache mounts provide a more fine-grained cache that allows you to leverage pre-computed work even when the Docker layer cache invalidates.",
+  "published_at": "2022-12-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2022/12/41/41bbe3f3d13d9f17f9531ed0758a00a919f499fd1a60d123df006d07f742a09c/article.md",
+    "record": "articles/v1/4b/yc-depot/2022/12/41/41bbe3f3d13d9f17f9531ed0758a00a919f499fd1a60d123df006d07f742a09c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11492,
+    "sha256": "sha256:bb9fd2b83aa074dc3643c67a38bb50b47fc791cc29f51b76fade6681c1643667",
+    "normalized_content_hash": "sha256:200705241e667788eb7ea1857f30f688f76620a584aebddf10ca4e27d1b5a249"
+  },
+  "provenance": {
+    "source_item_id": "5da1ffd4-36db-4cdd-8106-0a52596dae85",
+    "external_id": "https://depot.dev/blog/how-to-use-buildkit-cache-mounts-in-ci"
+  }
+}

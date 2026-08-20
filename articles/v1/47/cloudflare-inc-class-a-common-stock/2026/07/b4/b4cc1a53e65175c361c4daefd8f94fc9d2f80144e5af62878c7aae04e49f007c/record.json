@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b4cc1a53e65175c361c4daefd8f94fc9d2f80144e5af62878c7aae04e49f007c",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/workers-cache/",
+    "canonical": "https://blog.cloudflare.com/workers-cache/"
+  },
+  "title": "Your Worker can now have its own cache in front of it",
+  "summary": "We are launching Workers Cache, a regionally tiered cache that sits directly in front of your Worker entrypoints. Infinitely composable, configured via standard HTTP headers",
+  "published_at": "2026-07-06T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:14.182345+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-03T11:50:58.282565+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/b4/b4cc1a53e65175c361c4daefd8f94fc9d2f80144e5af62878c7aae04e49f007c/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/07/b4/b4cc1a53e65175c361c4daefd8f94fc9d2f80144e5af62878c7aae04e49f007c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37380,
+    "sha256": "sha256:cdddedd93d1ff34ff41bd2698f1efe8a02c9ca0d7d54839031d92a2818b36240",
+    "normalized_content_hash": "sha256:4585848b8beda4a3d945af6388ce93c1c8cf41f443d6f431aaa8a76dc20cbc8b"
+  },
+  "provenance": {
+    "source_item_id": "c549d054-1c59-4c0a-b629-3545522d7faa",
+    "external_id": "1WYEYtVwQSo4H3jKHTcKmO"
+  }
+}

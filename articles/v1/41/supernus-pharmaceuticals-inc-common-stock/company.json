@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "supernus-pharmaceuticals-inc-common-stock",
+    "name": "Supernus Pharmaceuticals Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2025-12-03T21:05:00+00:00",
+  "last_published_at": "2026-08-03T10:35:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/41/supernus-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 15141,
+        "sha256": "sha256:bf24109820b673ef6cf9f4c8952a95b85766ae8a27701d3da2bb180a45163713",
+        "newest_at": "2026-08-03T10:35:00+00:00",
+        "oldest_at": "2025-12-03T21:05:00+00:00"
+      }
+    ]
+  }
+}

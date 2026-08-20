@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4fac1f83a5687e11c543e2e33d2d42a0a85eb0926aa388f1cf7f83c911b0bd84",
+  "company": {
+    "key": "yc-apollo",
+    "name": "Apollo"
+  },
+  "source": {
+    "id": "yc-apollo-rss-acdf707d284a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.apollographql.com/blog/introducing-response-caching",
+    "canonical": "https://www.apollographql.com/blog/introducing-response-caching"
+  },
+  "title": "Introducing Response Caching: GraphQL‑aware performance for your graph",
+  "summary": "Response caching is now available in the GraphOS Router, bringing GraphQL‑aware caching that reduces load on your services and improves end‑to‑end latency across your graph.",
+  "published_at": "2026-01-15T09:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:11.312803+00:00",
+  "fetched_at": "2026-07-28T22:23:35.329584+00:00",
+  "last_updated_at": "2026-08-20T01:33:04.390415+00:00",
+  "paths": {
+    "article": "articles/v1/48/yc-apollo/2026/01/4f/4fac1f83a5687e11c543e2e33d2d42a0a85eb0926aa388f1cf7f83c911b0bd84/article.md",
+    "record": "articles/v1/48/yc-apollo/2026/01/4f/4fac1f83a5687e11c543e2e33d2d42a0a85eb0926aa388f1cf7f83c911b0bd84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13942,
+    "sha256": "sha256:37f444e8140577a7d24dfb332c60860258c5652a03b0b2b25712927ad7e514d3",
+    "normalized_content_hash": "sha256:7e1c9b79d3d12a87046b4a2402981740ca46f12f47c85b400c198df53cc436d0"
+  },
+  "provenance": {
+    "source_item_id": "3dadbe4e-9c8c-40a2-a737-881fc4049309",
+    "external_id": "https://www.apollographql.com/blog/introducing-response-caching"
+  }
+}

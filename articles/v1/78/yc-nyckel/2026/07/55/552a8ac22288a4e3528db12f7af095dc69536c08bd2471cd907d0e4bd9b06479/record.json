@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "552a8ac22288a4e3528db12f7af095dc69536c08bd2471cd907d0e4bd9b06479",
+  "company": {
+    "key": "yc-nyckel",
+    "name": "Nyckel"
+  },
+  "source": {
+    "id": "yc-nyckel-news-import-fbb975919637",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nyckel.com/blog/gust-text-classification-case-study/",
+    "canonical": "https://www.nyckel.com/blog/gust-text-classification-case-study/"
+  },
+  "title": "How Startup Accelerator Gust Trained a Custom Spam Filter using Nyckel",
+  "summary": "Gust used Nyckel to train a custom AI spam filter. The new filter is 95% accurate and reduced their curation workload, while improving site quality.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T06:43:30.013332+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-01T08:20:19.022624+00:00",
+  "paths": {
+    "article": "articles/v1/78/yc-nyckel/2026/07/55/552a8ac22288a4e3528db12f7af095dc69536c08bd2471cd907d0e4bd9b06479/article.md",
+    "record": "articles/v1/78/yc-nyckel/2026/07/55/552a8ac22288a4e3528db12f7af095dc69536c08bd2471cd907d0e4bd9b06479/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5993,
+    "sha256": "sha256:c23827036c50639ec5041080dbb1a2f50d30ff02208eede8ef983b6f3b3114bc",
+    "normalized_content_hash": "sha256:0cddb2e74ada29620e6fe27041f5c49b17ce3d2bdb544c200dbaa49ee7881e6d"
+  },
+  "provenance": {
+    "source_item_id": "418afdd5-e53e-49b7-9ce1-41f8798cfbf5",
+    "external_id": "https://www.nyckel.com/blog/gust-text-classification-case-study/"
+  }
+}

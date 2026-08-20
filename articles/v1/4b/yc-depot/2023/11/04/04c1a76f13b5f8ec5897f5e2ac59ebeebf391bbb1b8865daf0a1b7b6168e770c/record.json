@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04c1a76f13b5f8ec5897f5e2ac59ebeebf391bbb1b8865daf0a1b7b6168e770c",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/how-to-use-depot-in-monorepos",
+    "canonical": "https://depot.dev/blog/how-to-use-depot-in-monorepos"
+  },
+  "title": "How to use Depot to build Docker images in your monorepo",
+  "summary": "A detailed guide with suggestions on how to leverage Depot in your monorepo workflows so that you get effective caching and fast builds.",
+  "published_at": "2023-11-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2023/11/04/04c1a76f13b5f8ec5897f5e2ac59ebeebf391bbb1b8865daf0a1b7b6168e770c/article.md",
+    "record": "articles/v1/4b/yc-depot/2023/11/04/04c1a76f13b5f8ec5897f5e2ac59ebeebf391bbb1b8865daf0a1b7b6168e770c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3641,
+    "sha256": "sha256:c3ca96efce59d57809a9f70340ab2b60d5b863de8aa7b3d026f0cffd1df6e26b",
+    "normalized_content_hash": "sha256:8ca35226a34d07607fd3dbd6efda552416eb94a04834b15f24b7aacc5d036e40"
+  },
+  "provenance": {
+    "source_item_id": "47f67c47-5a57-4003-bb5e-a6c0cd7e479d",
+    "external_id": "https://depot.dev/blog/how-to-use-depot-in-monorepos"
+  }
+}

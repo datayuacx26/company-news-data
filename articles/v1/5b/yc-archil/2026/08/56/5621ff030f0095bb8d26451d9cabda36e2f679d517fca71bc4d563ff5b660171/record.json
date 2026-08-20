@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5621ff030f0095bb8d26451d9cabda36e2f679d517fca71bc4d563ff5b660171",
+  "company": {
+    "key": "yc-archil",
+    "name": "Archil"
+  },
+  "source": {
+    "id": "yc-archil-news-import-6ed493c8d31a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://archil.com/article/deepseek-3fs-distributed-file-system-ai",
+    "canonical": "https://archil.com/article/deepseek-3fs-distributed-file-system-ai"
+  },
+  "title": "When should I be using DeepSeek 3FS for AI?",
+  "summary": "DeepSeek 3FS is an open-source distributed file system built specifically for large, read-heavy AI workloads. It delivers strong consistency and fast random reads, but comes with slower writes and significant operational complexity, making it a good fit only for teams running AI at serious scale.",
+  "published_at": null,
+  "first_seen_at": "2026-08-09T19:14:46.011593+00:00",
+  "fetched_at": "2026-08-09T19:14:47.557372+00:00",
+  "last_updated_at": "2026-08-19T20:49:42.677811+00:00",
+  "paths": {
+    "article": "articles/v1/5b/yc-archil/2026/08/56/5621ff030f0095bb8d26451d9cabda36e2f679d517fca71bc4d563ff5b660171/article.md",
+    "record": "articles/v1/5b/yc-archil/2026/08/56/5621ff030f0095bb8d26451d9cabda36e2f679d517fca71bc4d563ff5b660171/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8541,
+    "sha256": "sha256:bc6eed9d91077966e20af59e0584fbf2f29df05525c680c18869121d95d52179",
+    "normalized_content_hash": "sha256:bb3aae3d327c5a2110e08a6c3ad990e56d34f1c2bedadd5e49b38fc260bbc7b6"
+  },
+  "provenance": {
+    "source_item_id": "7f342408-4f60-431b-a9a2-d1ad9098c58e",
+    "external_id": "https://archil.com/article/deepseek-3fs-distributed-file-system-ai"
+  }
+}

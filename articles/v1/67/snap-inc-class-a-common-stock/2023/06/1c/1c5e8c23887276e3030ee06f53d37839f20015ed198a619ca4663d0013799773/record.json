@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c5e8c23887276e3030ee06f53d37839f20015ed198a619ca4663d0013799773",
+  "company": {
+    "key": "snap-inc-class-a-common-stock",
+    "name": "Snap Inc."
+  },
+  "source": {
+    "id": "snap-inc-class-a-common-stock-rss-6d4f106cc29f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://eng.snap.com/embedding-based-retrieval",
+    "canonical": "https://eng.snap.com/embedding-based-retrieval"
+  },
+  "title": "Embedding-based Retrieval with Two-Tower Models in Spotlight",
+  "summary": "At Snap, we want to empower you to learn about the world and have fun with other Snapchatters. On Spotlight, Snap’s short-video platform, we personalize what you see based on your interests and previous watch history. This blog discusses the challenges we faced and techniques we applied for large-scale embedding-based retrieval, which selects the stories that users may like from a large candidate pool in real time.",
+  "published_at": "2023-06-06T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:35.516737+00:00",
+  "fetched_at": "2026-08-20T02:38:52.632763+00:00",
+  "last_updated_at": "2026-08-20T02:38:52.722913+00:00",
+  "paths": {
+    "article": "articles/v1/67/snap-inc-class-a-common-stock/2023/06/1c/1c5e8c23887276e3030ee06f53d37839f20015ed198a619ca4663d0013799773/article.md",
+    "record": "articles/v1/67/snap-inc-class-a-common-stock/2023/06/1c/1c5e8c23887276e3030ee06f53d37839f20015ed198a619ca4663d0013799773/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1015,
+    "sha256": "sha256:dd6080caa1c781f084649814f4a3610c537b4c607a3621cd3e3b18dbf593aded",
+    "normalized_content_hash": "sha256:a90c8a05deaa2a222b7003e1bf84b77dcaca5221b79000fec90c4231d3b85264"
+  },
+  "provenance": {
+    "source_item_id": "4d9d2d35-6fcd-4fd6-b939-95c713a82200",
+    "external_id": "a2099685c47cbf267264f7e4cc85f7c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a9ec7ea085c024eed41417c212e72742412f0f3cd3b37f863e457a445b23d25",
+  "company": {
+    "key": "yc-redbrick-ai",
+    "name": "RedBrick AI"
+  },
+  "source": {
+    "id": "yc-redbrick-ai-news-import-4b943afcd495",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.redbrickai.com/blog/2024-01-23-large-organ-segmentation",
+    "canonical": "https://www.redbrickai.com/blog/2024-01-23-large-organ-segmentation"
+  },
+  "title": "Guide: Segmentation of Large Organs in Abdominal CT Scans",
+  "summary": "A comprehensive guide on segmenting large organs like kidneys, liver, and pancreas using RedBrick AI's advanced tools. Learn multiple segmentation techniques including 3D Brush with masking, 3D Contour Tool, and F.A.S.T. AI-assisted segmentation.",
+  "published_at": "2024-01-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:23:16.380780+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T20:13:04.727240+00:00",
+  "paths": {
+    "article": "articles/v1/45/yc-redbrick-ai/2024/01/2a/2a9ec7ea085c024eed41417c212e72742412f0f3cd3b37f863e457a445b23d25/article.md",
+    "record": "articles/v1/45/yc-redbrick-ai/2024/01/2a/2a9ec7ea085c024eed41417c212e72742412f0f3cd3b37f863e457a445b23d25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8048,
+    "sha256": "sha256:34c3f0f9b63895af963ca236c431cfee12a7919041a2517cdff7cabf98e09d23",
+    "normalized_content_hash": "sha256:6a36fb15d3f49f0fe3c8b35435c9bef80532424e027884850f397e4cb2a8a957"
+  },
+  "provenance": {
+    "source_item_id": "099837f8-c7c8-49a2-a043-017d108580d9",
+    "external_id": "https://www.redbrickai.com/blog/2024-01-23-large-organ-segmentation"
+  }
+}

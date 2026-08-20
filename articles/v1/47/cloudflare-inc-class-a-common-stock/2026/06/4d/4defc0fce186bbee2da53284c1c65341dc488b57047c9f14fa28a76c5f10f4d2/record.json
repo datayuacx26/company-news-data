@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4defc0fce186bbee2da53284c1c65341dc488b57047c9f14fa28a76c5f10f4d2",
+  "company": {
+    "key": "cloudflare-inc-class-a-common-stock",
+    "name": "Cloudflare Inc."
+  },
+  "source": {
+    "id": "cloudflare-inc-class-a-common-stock-rss-72eb55cabac1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+    "canonical": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/"
+  },
+  "title": "Build your own vulnerability harness",
+  "summary": "We break down the technical architecture behind our multi-stage vulnerability discovery harness and automated triage loop. Learn how we manage state controls, squash false positives through adversarial review, and route around LLM context limits.",
+  "published_at": "2026-06-18T17:59:40+00:00",
+  "first_seen_at": "2026-07-20T03:32:14.182345+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-07-28T21:11:24.018639+00:00",
+  "paths": {
+    "article": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/06/4d/4defc0fce186bbee2da53284c1c65341dc488b57047c9f14fa28a76c5f10f4d2/article.md",
+    "record": "articles/v1/47/cloudflare-inc-class-a-common-stock/2026/06/4d/4defc0fce186bbee2da53284c1c65341dc488b57047c9f14fa28a76c5f10f4d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33300,
+    "sha256": "sha256:77177c878056aad4e9b758e996455bd6ba64c431a6c93e94c2af82c2cc027f0b",
+    "normalized_content_hash": "sha256:1c416604d3174565a6d559e73b054228d586fe483af018629f162626fc976f12"
+  },
+  "provenance": {
+    "source_item_id": "2f83dcb7-bd93-4294-a791-f68998ab045c",
+    "external_id": "5Ad3Svz0xFxJQNx6eQZjJP"
+  }
+}

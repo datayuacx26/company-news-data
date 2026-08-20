@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae8ec0957c39e9d40410876d4dfe72778b69f121a3ef77cd84b8061effb83e77",
+  "company": {
+    "key": "yc-signadot",
+    "name": "Signadot"
+  },
+  "source": {
+    "id": "yc-signadot-rss-2aab0f6a68b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.signadot.com/blog/transforming-kubernetes-developer-environments-the-shift-to-request-level-isolation/",
+    "canonical": "https://www.signadot.com/blog/transforming-kubernetes-developer-environments-the-shift-to-request-level-isolation/"
+  },
+  "title": "Transforming Kubernetes Developer Environments: The Shift to Request-Level Isolation",
+  "summary": "Explore how request-level isolation is revolutionizing Kubernetes developer environments. Learn about its benefits, implementation strategies, and how Signadot's sandbox solution enhances testing accuracy and efficiency in microservices.",
+  "published_at": "2023-07-03T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.188410+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:46:29.394871+00:00",
+  "paths": {
+    "article": "articles/v1/66/yc-signadot/2023/07/ae/ae8ec0957c39e9d40410876d4dfe72778b69f121a3ef77cd84b8061effb83e77/article.md",
+    "record": "articles/v1/66/yc-signadot/2023/07/ae/ae8ec0957c39e9d40410876d4dfe72778b69f121a3ef77cd84b8061effb83e77/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7656,
+    "sha256": "sha256:79ddd609f2800054d35002649ea337e149c276f72367f3b8dc5009dc4918583e",
+    "normalized_content_hash": "sha256:7247d5a6f59e5db11ec628c37ce0124c3550b46da8128e4343c55954601bf179"
+  },
+  "provenance": {
+    "source_item_id": "883af367-ec46-454c-a3f8-22e333c232b7",
+    "external_id": "https://www.signadot.com/blog/transforming-kubernetes-developer-environments-the-shift-to-request-level-isolation/"
+  }
+}

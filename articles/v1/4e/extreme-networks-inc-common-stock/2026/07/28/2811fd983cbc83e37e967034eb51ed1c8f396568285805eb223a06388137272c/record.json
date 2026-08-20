@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2811fd983cbc83e37e967034eb51ed1c8f396568285805eb223a06388137272c",
+  "company": {
+    "key": "extreme-networks-inc-common-stock",
+    "name": "Extreme Networks Inc."
+  },
+  "source": {
+    "id": "extreme-networks-inc-common-stock-rss-0242d87c651c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137220",
+    "canonical": "https://extreme-networks.my.site.com/ExtrArticleDetail?an=000137220"
+  },
+  "title": "SA-2026-044 - Linux Kernel \"Dirty Frag\" xfrm ESP IPSec (CVE-2026-43284)",
+  "summary": "The “Dirty Frag” vulnerability is a local privilege escalation (LPE) issue in the Linux kernel that combines flaws in the ESP/XFRM and RXRPC subsystems to allow an unprivileged local attacker to gain root access on major Linux distributions (using any of these two: ESP/XFRM or RXRPC flaws). The attack abuses kernel page-cache manipulation and network protocol handling to overwrite privileged binaries and execute arbitrary code with elevated privileges. Exploitation differs by distribution: the ESP issue affects systems permitting unprivileged user namespaces, while the RXRPC issue impacts distributions with RXRPC enabled, such as Ubuntu. Together, the vulnerabilities provide broad cross-distribution root compromise capability, with mitigations involving disabling vulnerable kernel modules (esp4, esp6, and rxrpc) until upstream patches are fully merged and deployed. Products not listed in the Impact Details section have not been evaluated. Furthermore, products that have exceeded any software maintenance time periods are also not evaluated and will not be published. Please consult End of Sale and End of Service Life - Extreme Networks for the EOL notices related to the product under question.",
+  "published_at": "2026-07-01T17:30:41+00:00",
+  "first_seen_at": "2026-07-20T04:35:47.988677+00:00",
+  "fetched_at": "2026-08-20T00:38:33.527756+00:00",
+  "last_updated_at": "2026-08-20T00:38:33.628352+00:00",
+  "paths": {
+    "article": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/28/2811fd983cbc83e37e967034eb51ed1c8f396568285805eb223a06388137272c/article.md",
+    "record": "articles/v1/4e/extreme-networks-inc-common-stock/2026/07/28/2811fd983cbc83e37e967034eb51ed1c8f396568285805eb223a06388137272c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1946,
+    "sha256": "sha256:2ced17c9f1db0cf3ba244f39188711c2e25e1d5c17714604089e490b3a6db064",
+    "normalized_content_hash": "sha256:be5935a2fd0beac8239f789dcdb8686fa0fdbda8809065e9695a4b2ad90dd1a0"
+  },
+  "provenance": {
+    "source_item_id": "b4ef1b96-3a7d-4f79-8474-ae55266f9646",
+    "external_id": "000137220"
+  }
+}

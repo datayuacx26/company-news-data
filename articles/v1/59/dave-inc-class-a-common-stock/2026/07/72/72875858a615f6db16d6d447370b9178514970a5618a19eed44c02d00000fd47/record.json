@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72875858a615f6db16d6d447370b9178514970a5618a19eed44c02d00000fd47",
+  "company": {
+    "key": "dave-inc-class-a-common-stock",
+    "name": "Dave Inc."
+  },
+  "source": {
+    "id": "dave-inc-class-a-common-stock-news-import-bec403bd784e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dave.com/press/news-releases/news-release-details/dave-announces-pricing-175-million-0-convertible-notes",
+    "canonical": "https://dave.com/press/news-releases/news-release-details/dave-announces-pricing-175-million-0-convertible-notes"
+  },
+  "title": "Dave Announces Pricing of $175 Million 0% Convertible Notes",
+  "summary": "Banking for humans",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:38:34.156646+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T14:21:15.379422+00:00",
+  "paths": {
+    "article": "articles/v1/59/dave-inc-class-a-common-stock/2026/07/72/72875858a615f6db16d6d447370b9178514970a5618a19eed44c02d00000fd47/article.md",
+    "record": "articles/v1/59/dave-inc-class-a-common-stock/2026/07/72/72875858a615f6db16d6d447370b9178514970a5618a19eed44c02d00000fd47/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13359,
+    "sha256": "sha256:d090a35b305315c83903df02ae77983c4de3bdb79633dd6f9891b27713c079c2",
+    "normalized_content_hash": "sha256:24a0fc1ae62f4a093a8f733b58762ba086f9a38f46070cdf013345426bb60046"
+  },
+  "provenance": {
+    "source_item_id": "37915ab7-7086-43f9-875b-4e4800dbd269",
+    "external_id": "https://dave.com/press/news-releases/news-release-details/dave-announces-pricing-175-million-0-convertible-notes"
+  }
+}

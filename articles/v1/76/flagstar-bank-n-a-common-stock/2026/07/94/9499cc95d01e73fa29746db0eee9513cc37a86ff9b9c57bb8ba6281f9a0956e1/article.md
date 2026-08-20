@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "9499cc95d01e73fa29746db0eee9513cc37a86ff9b9c57bb8ba6281f9a0956e1"
+company_key: "flagstar-bank-n-a-common-stock"
+company: "Flagstar Bank N.A."
+source_id: "flagstar-bank-n-a-common-stock-rss-54152b4d27de"
+canonical_url: "https://ir.flagstar.com/news-and-events/news-releases/press-release-details/2026/FLAGSTAR-BANK-REPORTS-SECOND-QUARTER-2026-NET-INCOME-ATTRIBUTABLE-TO-COMMON-STOCKHOLDERS-OF-0-06-PER-DILUTED-SHARE-AND-ADJUSTED-NET-INCOME-ATTRIBUTABLE-TO-COMMON-STOCKHOLDERS-OF-0-05-PER-DILUTED-SHARE/default.aspx"
+published_at: "2026-07-24T10:05:00+00:00"
+first_seen_at: "2026-07-27T02:28:06.875488+00:00"
+fetched_at: "2026-08-19T12:37:03.522696+00:00"
+content_hash: "sha256:d6dac981b79e5ae00ecffadd320c0c13595b72eb65ed75520dfb4df2bac7cb5e"
+---
+
+# FLAGSTAR BANK REPORTS SECOND QUARTER 2026 NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.06 PER DILUTED SHARE AND ADJUSTED NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS OF $0.05 PER DILUTED SHARE
+
+

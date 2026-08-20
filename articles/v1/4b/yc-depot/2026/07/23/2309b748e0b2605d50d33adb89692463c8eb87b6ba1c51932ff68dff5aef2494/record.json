@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2309b748e0b2605d50d33adb89692463c8eb87b6ba1c51932ff68dff5aef2494",
+  "company": {
+    "key": "yc-depot",
+    "name": "Depot"
+  },
+  "source": {
+    "id": "yc-depot-rss-ed70a28fffeb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://depot.dev/blog/tla-verification",
+    "canonical": "https://depot.dev/blog/tla-verification"
+  },
+  "title": "Improving system safety with Temporal Logic of Actions (TLA+)",
+  "summary": "Formal verification never seemed worth it: writing a faithful TLA+ spec took too long. But now agents can write the spec from your code. We tried it on the rebuilt Depot Registry garbage collector, and the model checker found something our tests and reviews didn't: a race that could delete live data.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.872607+00:00",
+  "fetched_at": "2026-07-28T20:37:08.491459+00:00",
+  "last_updated_at": "2026-08-20T00:58:15.765763+00:00",
+  "paths": {
+    "article": "articles/v1/4b/yc-depot/2026/07/23/2309b748e0b2605d50d33adb89692463c8eb87b6ba1c51932ff68dff5aef2494/article.md",
+    "record": "articles/v1/4b/yc-depot/2026/07/23/2309b748e0b2605d50d33adb89692463c8eb87b6ba1c51932ff68dff5aef2494/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17469,
+    "sha256": "sha256:25e1276ee2c439ed22f65b2f675389c4aa66673e28cdafdba229b9c44f9fe8af",
+    "normalized_content_hash": "sha256:9f878809be4c4f442269af2fa5b20c80fb3db6a3c0cbb4aff70fa036b9a9b7b4"
+  },
+  "provenance": {
+    "source_item_id": "2e54aea5-d20f-4e01-a4de-4200cdc5402c",
+    "external_id": "https://depot.dev/blog/tla-verification"
+  }
+}
