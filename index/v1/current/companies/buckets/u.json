@@ -1,0 +1,872 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+  "bucket": "u",
+  "company_count": 108,
+  "companies": [
+    {
+      "company_key": "u-bx-technology-ltd-class-a-ordinary-shares",
+      "company_name": "U-BX Technology Ltd.",
+      "record_count": 7,
+      "first_published_at": "2024-03-27T21:00:00+00:00",
+      "last_published_at": "2026-05-18T21:00:00+00:00",
+      "company_manifest_path": "articles/v1/3c/u-bx-technology-ltd-class-a-ordinary-shares/company.json"
+    },
+    {
+      "company_key": "u-haul-holding-company-common-stock",
+      "company_name": "U-Haul Holding Company",
+      "record_count": 11,
+      "first_published_at": "2025-08-21T04:00:00+00:00",
+      "last_published_at": "2026-08-05T20:07:00+00:00",
+      "company_manifest_path": "articles/v1/ed/u-haul-holding-company-common-stock/company.json"
+    },
+    {
+      "company_key": "u-s-bancorp-common-stock",
+      "company_name": "U.S. Bancorp",
+      "record_count": 14,
+      "first_published_at": "2026-06-17T20:00:00+00:00",
+      "last_published_at": "2026-08-12T14:00:00+00:00",
+      "company_manifest_path": "articles/v1/d8/u-s-bancorp-common-stock/company.json"
+    },
+    {
+      "company_key": "u-s-energy-corp-common-stock-de",
+      "company_name": "U.S. Energy Corp. Common Stock (DE)",
+      "record_count": 5,
+      "first_published_at": "2023-05-02T07:27:56+00:00",
+      "last_published_at": "2025-01-31T17:29:12+00:00",
+      "company_manifest_path": "articles/v1/6c/u-s-energy-corp-common-stock-de/company.json"
+    },
+    {
+      "company_key": "u-s-gold-corp-common-stock",
+      "company_name": "U.S. Gold Corp.",
+      "record_count": 10,
+      "first_published_at": "2025-12-23T08:00:00+00:00",
+      "last_published_at": "2026-06-10T08:00:00+00:00",
+      "company_manifest_path": "articles/v1/ce/u-s-gold-corp-common-stock/company.json"
+    },
+    {
+      "company_key": "u-s-goldmining-inc-common-stock",
+      "company_name": "U.S. GoldMining Inc.",
+      "record_count": 20,
+      "first_published_at": "2025-06-02T00:00:00+00:00",
+      "last_published_at": "2025-07-14T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/d7/u-s-goldmining-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "u-s-physical-therapy-inc-common-stock",
+      "company_name": "U.S. Physical Therapy Inc.",
+      "record_count": 21,
+      "first_published_at": "2019-12-27T15:49:52+00:00",
+      "last_published_at": "2026-08-13T11:30:22+00:00",
+      "company_manifest_path": "articles/v1/ab/u-s-physical-therapy-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "uber-technologies-inc-common-stock",
+      "company_name": "Uber Technologies Inc.",
+      "record_count": 16,
+      "first_published_at": "2026-05-07T12:00:00+00:00",
+      "last_published_at": "2026-08-17T12:30:00+00:00",
+      "company_manifest_path": "articles/v1/a5/uber-technologies-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-uberduck",
+      "company_name": "Uberduck",
+      "record_count": 8,
+      "first_published_at": "2023-03-13T00:00:00+00:00",
+      "last_published_at": "2025-11-06T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/b0/yc-uberduck/company.json"
+    },
+    {
+      "company_key": "yc-ubicloud",
+      "company_name": "Ubicloud",
+      "record_count": 20,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/fa/yc-ubicloud/company.json"
+    },
+    {
+      "company_key": "yc-ubits",
+      "company_name": "UBITS",
+      "record_count": 11,
+      "first_published_at": "2024-03-14T15:43:10.039+00:00",
+      "last_published_at": "2026-08-13T16:13:47.125+00:00",
+      "company_manifest_path": "articles/v1/a1/yc-ubits/company.json"
+    },
+    {
+      "company_key": "ubs-group-ag-registered-ordinary-shares",
+      "company_name": "UBS Group AG Registered",
+      "record_count": 3,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/d9/ubs-group-ag-registered-ordinary-shares/company.json"
+    },
+    {
+      "company_key": "ucloudlink-group-inc-american-depositary-shares",
+      "company_name": "uCloudlink Group Inc.",
+      "record_count": 35,
+      "first_published_at": "2025-05-22T09:48:30+00:00",
+      "last_published_at": "2026-08-18T08:48:02+00:00",
+      "company_manifest_path": "articles/v1/34/ucloudlink-group-inc-american-depositary-shares/company.json"
+    },
+    {
+      "company_key": "udemy-inc-common-stock",
+      "company_name": "Udemy Inc.",
+      "record_count": 33,
+      "first_published_at": "2023-05-11T21:00:52+00:00",
+      "last_published_at": "2026-07-10T19:19:50+00:00",
+      "company_manifest_path": "articles/v1/69/udemy-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-udhaar-app",
+      "company_name": "Udhaar App",
+      "record_count": 10,
+      "first_published_at": "2026-06-11T11:07:21+00:00",
+      "last_published_at": "2026-06-11T14:41:57+00:00",
+      "company_manifest_path": "articles/v1/c1/yc-udhaar-app/company.json"
+    },
+    {
+      "company_key": "udr-inc-common-stock",
+      "company_name": "UDR Inc.",
+      "record_count": 9,
+      "first_published_at": "2026-01-30T21:16:00+00:00",
+      "last_published_at": "2026-07-08T20:16:00+00:00",
+      "company_manifest_path": "articles/v1/4f/udr-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "ufp-industries-inc-common-stock",
+      "company_name": "UFP Industries Inc.",
+      "record_count": 23,
+      "first_published_at": "2025-07-28T16:30:14+00:00",
+      "last_published_at": "2026-08-13T22:20:06+00:00",
+      "company_manifest_path": "articles/v1/16/ufp-industries-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "ufp-technologies-inc-common-stock",
+      "company_name": "UFP Technologies Inc.",
+      "record_count": 7,
+      "first_published_at": "2025-07-17T13:11:31+00:00",
+      "last_published_at": "2026-08-03T20:50:12+00:00",
+      "company_manifest_path": "articles/v1/d7/ufp-technologies-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "ugi-corporation-common-stock",
+      "company_name": "UGI Corporation",
+      "record_count": 11,
+      "first_published_at": "2023-03-14T23:11:27+00:00",
+      "last_published_at": "2026-07-14T12:00:03+00:00",
+      "company_manifest_path": "articles/v1/1a/ugi-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "uipath-inc-class-a-common-stock",
+      "company_name": "UiPath Inc.",
+      "record_count": 22,
+      "first_published_at": "2025-05-28T06:21:59+00:00",
+      "last_published_at": "2026-08-19T12:30:00+00:00",
+      "company_manifest_path": "articles/v1/03/uipath-inc-class-a-common-stock/company.json"
+    },
+    {
+      "company_key": "ulta-beauty-inc-common-stock",
+      "company_name": "Ulta Beauty Inc.",
+      "record_count": 12,
+      "first_published_at": "2026-02-04T14:00:00+00:00",
+      "last_published_at": "2026-08-17T10:30:00+00:00",
+      "company_manifest_path": "articles/v1/bd/ulta-beauty-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-ultra",
+      "company_name": "Ultra",
+      "record_count": 11,
+      "first_published_at": "2025-02-11T20:30:02+00:00",
+      "last_published_at": "2026-08-03T21:50:29+00:00",
+      "company_manifest_path": "articles/v1/fe/yc-ultra/company.json"
+    },
+    {
+      "company_key": "ultra-clean-holdings-inc-common-stock",
+      "company_name": "Ultra Clean Holdings Inc.",
+      "record_count": 12,
+      "first_published_at": "2026-02-23T21:05:00+00:00",
+      "last_published_at": "2026-08-10T12:30:00+00:00",
+      "company_manifest_path": "articles/v1/01/ultra-clean-holdings-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "ultragenyx-pharmaceutical-inc-common-stock",
+      "company_name": "Ultragenyx Pharmaceutical Inc.",
+      "record_count": 13,
+      "first_published_at": "2025-03-10T00:43:50+00:00",
+      "last_published_at": "2026-07-30T01:32:22+00:00",
+      "company_manifest_path": "articles/v1/58/ultragenyx-pharmaceutical-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "ultralife-corporation-common-stock",
+      "company_name": "Ultralife Corporation",
+      "record_count": 22,
+      "first_published_at": "2025-07-29T17:00:55+00:00",
+      "last_published_at": "2026-08-07T11:00:30+00:00",
+      "company_manifest_path": "articles/v1/f6/ultralife-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-ultralight",
+      "company_name": "Ultralight",
+      "record_count": 2,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/1f/yc-ultralight/company.json"
+    },
+    {
+      "company_key": "umb-financial-corporation-common-stock",
+      "company_name": "UMB Financial Corporation",
+      "record_count": 32,
+      "first_published_at": "2026-06-30T15:00:00+00:00",
+      "last_published_at": "2026-08-19T15:00:00+00:00",
+      "company_manifest_path": "articles/v1/5b/umb-financial-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "umh-properties-inc-common-stock",
+      "company_name": "UMH Properties Inc.",
+      "record_count": 11,
+      "first_published_at": "2026-05-22T21:57:00+00:00",
+      "last_published_at": "2026-08-05T20:30:00+00:00",
+      "company_manifest_path": "articles/v1/2d/umh-properties-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-unbound",
+      "company_name": "Unbound",
+      "record_count": 22,
+      "first_published_at": "2026-03-08T00:00:00+00:00",
+      "last_published_at": "2026-07-30T13:00:00+00:00",
+      "company_manifest_path": "articles/v1/f3/yc-unbound/company.json"
+    },
+    {
+      "company_key": "under-armour-inc",
+      "company_name": "Under Armour Inc.",
+      "record_count": 44,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/da/under-armour-inc/company.json"
+    },
+    {
+      "company_key": "uni-fuels-holdings-limited-class-a-ordinary-shares",
+      "company_name": "Uni-Fuels Holdings Limited",
+      "record_count": 10,
+      "first_published_at": "2025-10-28T12:00:00+00:00",
+      "last_published_at": "2026-05-26T12:56:00+00:00",
+      "company_manifest_path": "articles/v1/e8/uni-fuels-holdings-limited-class-a-ordinary-shares/company.json"
+    },
+    {
+      "company_key": "unicycive-therapeutics-inc-common-stock",
+      "company_name": "Unicycive Therapeutics Inc.",
+      "record_count": 11,
+      "first_published_at": "2025-11-12T12:05:00+00:00",
+      "last_published_at": "2026-08-12T11:19:00+00:00",
+      "company_manifest_path": "articles/v1/3b/unicycive-therapeutics-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "unifi-inc-new-common-stock",
+      "company_name": "Unifi Inc. New",
+      "record_count": 13,
+      "first_published_at": "2025-09-15T13:00:00+00:00",
+      "last_published_at": "2026-08-19T20:15:00+00:00",
+      "company_manifest_path": "articles/v1/51/unifi-inc-new-common-stock/company.json"
+    },
+    {
+      "company_key": "unifirst-corporation-common-stock",
+      "company_name": "Unifirst Corporation",
+      "record_count": 22,
+      "first_published_at": "2022-02-04T11:49:23+00:00",
+      "last_published_at": "2026-08-11T10:24:50+00:00",
+      "company_manifest_path": "articles/v1/54/unifirst-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-unifold",
+      "company_name": "Unifold",
+      "record_count": 4,
+      "first_published_at": "2026-01-28T00:00:00+00:00",
+      "last_published_at": "2026-03-09T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/37/yc-unifold/company.json"
+    },
+    {
+      "company_key": "yc-unify",
+      "company_name": "Unify",
+      "record_count": 20,
+      "first_published_at": "2024-03-29T14:11:57+00:00",
+      "last_published_at": "2024-08-01T16:49:14+00:00",
+      "company_manifest_path": "articles/v1/ba/yc-unify/company.json"
+    },
+    {
+      "company_key": "union-bankshares-inc-common-stock",
+      "company_name": "Union Bankshares Inc.",
+      "record_count": 20,
+      "first_published_at": "2024-07-17T18:11:00+00:00",
+      "last_published_at": "2026-07-15T19:59:00+00:00",
+      "company_manifest_path": "articles/v1/85/union-bankshares-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "union-pacific-corporation-common-stock",
+      "company_name": "Union Pacific Corporation",
+      "record_count": 282,
+      "first_published_at": "2013-03-18T14:39:20+00:00",
+      "last_published_at": "2026-08-12T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/13/union-pacific-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "uniqure-n-v-ordinary-shares",
+      "company_name": "uniQure N.V.",
+      "record_count": 11,
+      "first_published_at": "2026-03-02T12:05:00+00:00",
+      "last_published_at": "2026-07-29T11:05:00+00:00",
+      "company_manifest_path": "articles/v1/e1/uniqure-n-v-ordinary-shares/company.json"
+    },
+    {
+      "company_key": "unisys-corporation-new-common-stock",
+      "company_name": "Unisys Corporation New",
+      "record_count": 12,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/3c/unisys-corporation-new-common-stock/company.json"
+    },
+    {
+      "company_key": "united-airlines-holdings-inc-common-stock",
+      "company_name": "United Airlines Holdings Inc.",
+      "record_count": 11,
+      "first_published_at": "2026-06-02T13:00:00+00:00",
+      "last_published_at": "2026-07-29T19:45:00+00:00",
+      "company_manifest_path": "articles/v1/c7/united-airlines-holdings-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-bancorp-inc-common-stock",
+      "company_name": "United Bancorp Inc.",
+      "record_count": 10,
+      "first_published_at": "2025-05-09T18:00:00+00:00",
+      "last_published_at": "2026-07-23T15:00:00+00:00",
+      "company_manifest_path": "articles/v1/b5/united-bancorp-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-bankshares-inc-common-stock",
+      "company_name": "United Bankshares Inc.",
+      "record_count": 24,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/eb/united-bankshares-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-community-banks-inc-common-stock",
+      "company_name": "United Community Banks Inc.",
+      "record_count": 14,
+      "first_published_at": "2026-01-14T12:30:08+00:00",
+      "last_published_at": "2026-08-19T12:00:32+00:00",
+      "company_manifest_path": "articles/v1/6b/united-community-banks-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-fire-group-inc-common-stock",
+      "company_name": "United Fire Group Inc.",
+      "record_count": 11,
+      "first_published_at": "2025-08-18T20:30:00+00:00",
+      "last_published_at": "2026-08-03T20:01:00+00:00",
+      "company_manifest_path": "articles/v1/36/united-fire-group-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-microelectronics-corporation-new-common-stock",
+      "company_name": "United Microelectronics Corporation (NEW)",
+      "record_count": 24,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/3e/united-microelectronics-corporation-new-common-stock/company.json"
+    },
+    {
+      "company_key": "united-natural-foods-inc-common-stock",
+      "company_name": "United Natural Foods Inc.",
+      "record_count": 11,
+      "first_published_at": "2026-02-11T13:00:00+00:00",
+      "last_published_at": "2026-08-10T20:15:00+00:00",
+      "company_manifest_path": "articles/v1/61/united-natural-foods-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-parcel-service-inc-common-stock",
+      "company_name": "United Parcel Service Inc.",
+      "record_count": 6,
+      "first_published_at": "2026-04-28T06:00:00+00:00",
+      "last_published_at": "2026-08-05T17:16:00+00:00",
+      "company_manifest_path": "articles/v1/36/united-parcel-service-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-parks-resorts-inc-common-stock",
+      "company_name": "United Parks & Resorts Inc.",
+      "record_count": 23,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/45/united-parks-resorts-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-rentals-inc-common-stock",
+      "company_name": "United Rentals Inc.",
+      "record_count": 11,
+      "first_published_at": "2026-04-08T20:05:00+00:00",
+      "last_published_at": "2026-08-12T14:22:00+00:00",
+      "company_manifest_path": "articles/v1/7d/united-rentals-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "united-guardian-inc-common-stock",
+      "company_name": "United-Guardian Inc.",
+      "record_count": 10,
+      "first_published_at": "2025-03-21T13:00:00+00:00",
+      "last_published_at": "2026-07-16T13:00:00+00:00",
+      "company_manifest_path": "articles/v1/39/united-guardian-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "unitedhealth-group-incorporated-common-stock-de",
+      "company_name": "UnitedHealth Group Incorporated Common Stock (DE)",
+      "record_count": 9,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/86/unitedhealth-group-incorporated-common-stock-de/company.json"
+    },
+    {
+      "company_key": "uniti-group-inc-common-stock",
+      "company_name": "Uniti Group Inc.",
+      "record_count": 23,
+      "first_published_at": "2026-06-01T12:35:30+00:00",
+      "last_published_at": "2026-08-12T13:31:00+00:00",
+      "company_manifest_path": "articles/v1/b0/uniti-group-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "unitil-corporation-common-stock",
+      "company_name": "UNITIL Corporation",
+      "record_count": 10,
+      "first_published_at": "2020-12-03T22:19:31+00:00",
+      "last_published_at": "2020-12-15T15:12:57+00:00",
+      "company_manifest_path": "articles/v1/4a/unitil-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "unity-bancorp-inc-common-stock",
+      "company_name": "Unity Bancorp Inc.",
+      "record_count": 12,
+      "first_published_at": "2025-10-14T10:00:00+00:00",
+      "last_published_at": "2026-08-07T12:00:00+00:00",
+      "company_manifest_path": "articles/v1/d1/unity-bancorp-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "unity-software-inc-common-stock",
+      "company_name": "Unity Software Inc.",
+      "record_count": 66,
+      "first_published_at": "2025-06-02T00:00:00+00:00",
+      "last_published_at": "2026-08-11T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/53/unity-software-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-univerbal",
+      "company_name": "Univerbal",
+      "record_count": 11,
+      "first_published_at": "2025-09-30T00:03:53+00:00",
+      "last_published_at": "2025-09-30T00:03:53+00:00",
+      "company_manifest_path": "articles/v1/10/yc-univerbal/company.json"
+    },
+    {
+      "company_key": "universal-corporation-common-stock",
+      "company_name": "Universal Corporation",
+      "record_count": 14,
+      "first_published_at": "2026-01-06T21:15:00+00:00",
+      "last_published_at": "2026-08-05T20:16:00+00:00",
+      "company_manifest_path": "articles/v1/a4/universal-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "universal-display-corporation-common-stock",
+      "company_name": "Universal Display Corporation",
+      "record_count": 4,
+      "first_published_at": "2026-06-01T18:42:49+00:00",
+      "last_published_at": "2026-06-22T19:45:24+00:00",
+      "company_manifest_path": "articles/v1/46/universal-display-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "universal-electronics-inc-common-stock",
+      "company_name": "Universal Electronics Inc.",
+      "record_count": 25,
+      "first_published_at": "2022-04-20T15:38:56+00:00",
+      "last_published_at": "2025-12-17T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/df/universal-electronics-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "universal-health-realty-income-trust-common-stock",
+      "company_name": "Universal Health Realty Income Trust",
+      "record_count": 11,
+      "first_published_at": "2025-06-11T20:15:00+00:00",
+      "last_published_at": "2026-07-27T20:20:00+00:00",
+      "company_manifest_path": "articles/v1/1b/universal-health-realty-income-trust-common-stock/company.json"
+    },
+    {
+      "company_key": "universal-health-services-inc-common-stock",
+      "company_name": "Universal Health Services Inc.",
+      "record_count": 15,
+      "first_published_at": "2024-12-30T13:40:43+00:00",
+      "last_published_at": "2026-08-17T12:02:50+00:00",
+      "company_manifest_path": "articles/v1/99/universal-health-services-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "universal-insurance-holdings-inc-common-stock",
+      "company_name": "UNIVERSAL INSURANCE HOLDINGS INC",
+      "record_count": 10,
+      "first_published_at": "2022-02-24T21:15:03+00:00",
+      "last_published_at": "2022-07-28T09:18:39+00:00",
+      "company_manifest_path": "articles/v1/d0/universal-insurance-holdings-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "universal-logistics-holdings-inc-common-stock",
+      "company_name": "Universal Logistics Holdings Inc.",
+      "record_count": 10,
+      "first_published_at": "2024-12-09T22:30:00+00:00",
+      "last_published_at": "2025-09-22T13:00:00+00:00",
+      "company_manifest_path": "articles/v1/48/universal-logistics-holdings-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "universal-technical-institute-inc-common-stock",
+      "company_name": "Universal Technical Institute Inc",
+      "record_count": 10,
+      "first_published_at": "2026-05-28T18:00:00+00:00",
+      "last_published_at": "2026-07-17T07:00:00+00:00",
+      "company_manifest_path": "articles/v1/fc/universal-technical-institute-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "univest-financial-corporation-common-stock",
+      "company_name": "Univest Financial Corporation",
+      "record_count": 2,
+      "first_published_at": "2026-07-07T15:50:00+00:00",
+      "last_published_at": "2026-07-22T20:15:00+00:00",
+      "company_manifest_path": "articles/v1/d5/univest-financial-corporation-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-unlayer",
+      "company_name": "Unlayer",
+      "record_count": 33,
+      "first_published_at": "2024-04-29T10:49:07+00:00",
+      "last_published_at": "2026-07-29T17:50:00+00:00",
+      "company_manifest_path": "articles/v1/54/yc-unlayer/company.json"
+    },
+    {
+      "company_key": "yc-unravel-carbon",
+      "company_name": "Unravel Carbon",
+      "record_count": 13,
+      "first_published_at": "2026-02-02T00:00:00+00:00",
+      "last_published_at": "2026-02-02T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/c6/yc-unravel-carbon/company.json"
+    },
+    {
+      "company_key": "yc-unsiloed-ai",
+      "company_name": "Unsiloed AI",
+      "record_count": 29,
+      "first_published_at": "2026-03-05T00:00:00+00:00",
+      "last_published_at": "2026-08-17T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/ea/yc-unsiloed-ai/company.json"
+    },
+    {
+      "company_key": "yc-unthread",
+      "company_name": "Unthread",
+      "record_count": 58,
+      "first_published_at": "2026-07-07T19:29:00+00:00",
+      "last_published_at": "2026-08-19T13:10:00+00:00",
+      "company_manifest_path": "articles/v1/41/yc-unthread/company.json"
+    },
+    {
+      "company_key": "unum-group-common-stock",
+      "company_name": "Unum Group",
+      "record_count": 11,
+      "first_published_at": "2026-04-06T18:43:00+00:00",
+      "last_published_at": "2026-07-28T20:15:00+00:00",
+      "company_manifest_path": "articles/v1/4d/unum-group-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-unusual",
+      "company_name": "Unusual",
+      "record_count": 11,
+      "first_published_at": "2026-05-19T00:00:00+00:00",
+      "last_published_at": "2026-08-04T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/31/yc-unusual/company.json"
+    },
+    {
+      "company_key": "up-fintech-holding-ltd-american-depositary-share-representing-fifteen-class-a-ordinary-shares",
+      "company_name": "UP Fintech Holding Ltd American Depositary Share representing fifteen",
+      "record_count": 11,
+      "first_published_at": "2025-05-19T08:00:30+00:00",
+      "last_published_at": "2026-08-17T08:00:51+00:00",
+      "company_manifest_path": "articles/v1/a9/up-fintech-holding-ltd-american-depositary-share-representing-fifteen-class-a-ordinary-shares/company.json"
+    },
+    {
+      "company_key": "upbound-group-inc-common-stock",
+      "company_name": "Upbound Group Inc.",
+      "record_count": 11,
+      "first_published_at": "2026-02-02T12:00:00+00:00",
+      "last_published_at": "2026-07-30T11:00:00+00:00",
+      "company_manifest_path": "articles/v1/75/upbound-group-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-upcall",
+      "company_name": "Upcall",
+      "record_count": 19,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/a7/yc-upcall/company.json"
+    },
+    {
+      "company_key": "yc-upchieve",
+      "company_name": "UPchieve",
+      "record_count": 20,
+      "first_published_at": "2022-05-09T00:00:00+00:00",
+      "last_published_at": "2026-04-10T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/1c/yc-upchieve/company.json"
+    },
+    {
+      "company_key": "yc-upequity",
+      "company_name": "UpEquity",
+      "record_count": 10,
+      "first_published_at": "2021-12-03T14:18:26+00:00",
+      "last_published_at": "2022-03-01T19:02:39+00:00",
+      "company_manifest_path": "articles/v1/cf/yc-upequity/company.json"
+    },
+    {
+      "company_key": "upexi-inc-common-stock",
+      "company_name": "Upexi Inc.",
+      "record_count": 10,
+      "first_published_at": "2026-02-10T16:35:00+00:00",
+      "last_published_at": "2026-06-30T08:00:00+00:00",
+      "company_manifest_path": "articles/v1/59/upexi-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-upflow",
+      "company_name": "Upflow",
+      "record_count": 29,
+      "first_published_at": "2026-06-24T00:00:00+00:00",
+      "last_published_at": "2026-07-17T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/51/yc-upflow/company.json"
+    },
+    {
+      "company_key": "yc-upkeep",
+      "company_name": "UpKeep",
+      "record_count": 32,
+      "first_published_at": "2025-11-20T00:00:00+00:00",
+      "last_published_at": "2026-08-13T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/a0/yc-upkeep/company.json"
+    },
+    {
+      "company_key": "upland-software-inc-common-stock",
+      "company_name": "Upland Software Inc.",
+      "record_count": 23,
+      "first_published_at": "2024-02-09T22:32:07+00:00",
+      "last_published_at": "2026-08-17T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/f0/upland-software-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-uplane",
+      "company_name": "Uplane",
+      "record_count": 1,
+      "first_published_at": null,
+      "last_published_at": null,
+      "company_manifest_path": "articles/v1/fd/yc-uplane/company.json"
+    },
+    {
+      "company_key": "yc-upsolve",
+      "company_name": "Upsolve",
+      "record_count": 2,
+      "first_published_at": "2019-03-27T05:16:25.445+00:00",
+      "last_published_at": "2025-05-05T15:52:53.054+00:00",
+      "company_manifest_path": "articles/v1/6e/yc-upsolve/company.json"
+    },
+    {
+      "company_key": "yc-upsolve-ai",
+      "company_name": "Upsolve AI",
+      "record_count": 7,
+      "first_published_at": "2026-07-15T00:00:00+00:00",
+      "last_published_at": "2026-08-19T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/ba/yc-upsolve-ai/company.json"
+    },
+    {
+      "company_key": "upstart-holdings-inc-common-stock",
+      "company_name": "Upstart Holdings Inc.",
+      "record_count": 30,
+      "first_published_at": "2023-01-09T20:07:14+00:00",
+      "last_published_at": "2026-08-04T20:05:00+00:00",
+      "company_manifest_path": "articles/v1/13/upstart-holdings-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "upstream-bio-inc-common-stock",
+      "company_name": "Upstream Bio Inc.",
+      "record_count": 10,
+      "first_published_at": "2023-06-08T03:37:37+00:00",
+      "last_published_at": "2024-09-09T18:39:48+00:00",
+      "company_manifest_path": "articles/v1/dc/upstream-bio-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "upwork-inc-common-stock",
+      "company_name": "Upwork Inc.",
+      "record_count": 35,
+      "first_published_at": "2025-06-30T00:00:00+00:00",
+      "last_published_at": "2026-08-17T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/0f/upwork-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "ur-energy-inc-common-shares-canada",
+      "company_name": "Ur Energy Inc Common Shares (Canada)",
+      "record_count": 10,
+      "first_published_at": "2026-01-28T12:00:00+00:00",
+      "last_published_at": "2026-07-14T23:45:00+00:00",
+      "company_manifest_path": "articles/v1/2b/ur-energy-inc-common-shares-canada/company.json"
+    },
+    {
+      "company_key": "uranium-energy-corp-common-stock",
+      "company_name": "Uranium Energy Corp.",
+      "record_count": 20,
+      "first_published_at": "2025-07-17T21:25:00+00:00",
+      "last_published_at": "2026-07-23T20:30:00+00:00",
+      "company_manifest_path": "articles/v1/fd/uranium-energy-corp-common-stock/company.json"
+    },
+    {
+      "company_key": "uranium-royalty-corp-common-stock",
+      "company_name": "Uranium Royalty Corp.",
+      "record_count": 32,
+      "first_published_at": "2021-09-20T00:00:00+00:00",
+      "last_published_at": "2026-04-16T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/04/uranium-royalty-corp-common-stock/company.json"
+    },
+    {
+      "company_key": "urban-edge-properties-common-shares-of-beneficial-interest",
+      "company_name": "Urban Edge Properties Common Shares of Beneficial Interest",
+      "record_count": 24,
+      "first_published_at": "2025-11-06T21:15:00+00:00",
+      "last_published_at": "2026-08-20T01:05:37+00:00",
+      "company_manifest_path": "articles/v1/a4/urban-edge-properties-common-shares-of-beneficial-interest/company.json"
+    },
+    {
+      "company_key": "urban-one-inc",
+      "company_name": "Urban One Inc.",
+      "record_count": 24,
+      "first_published_at": "2022-09-30T15:45:15+00:00",
+      "last_published_at": "2026-08-12T13:02:10+00:00",
+      "company_manifest_path": "articles/v1/c5/urban-one-inc/company.json"
+    },
+    {
+      "company_key": "urban-outfitters-inc-common-stock",
+      "company_name": "Urban Outfitters Inc.",
+      "record_count": 10,
+      "first_published_at": "2024-08-21T20:05:00+00:00",
+      "last_published_at": "2026-05-20T20:05:00+00:00",
+      "company_manifest_path": "articles/v1/c7/urban-outfitters-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "urogen-pharma-ltd-ordinary-shares",
+      "company_name": "UroGen Pharma Ltd.",
+      "record_count": 13,
+      "first_published_at": "2026-04-29T12:00:00+00:00",
+      "last_published_at": "2026-08-17T12:00:00+00:00",
+      "company_manifest_path": "articles/v1/d8/urogen-pharma-ltd-ordinary-shares/company.json"
+    },
+    {
+      "company_key": "us-foods-holding-corp-common-stock",
+      "company_name": "US Foods Holding Corp.",
+      "record_count": 11,
+      "first_published_at": "2026-02-23T16:30:00+00:00",
+      "last_published_at": "2026-08-06T10:45:00+00:00",
+      "company_manifest_path": "articles/v1/32/us-foods-holding-corp-common-stock/company.json"
+    },
+    {
+      "company_key": "usa-compression-partners-lp-common-units-representing-limited-partner-interests",
+      "company_name": "USA Compression Partners LP Common Units Representing Limited Partner Interests",
+      "record_count": 11,
+      "first_published_at": "2026-01-12T21:31:00+00:00",
+      "last_published_at": "2026-08-04T10:55:00+00:00",
+      "company_manifest_path": "articles/v1/86/usa-compression-partners-lp-common-units-representing-limited-partner-interests/company.json"
+    },
+    {
+      "company_key": "usa-rare-earth-inc-class-a-common-stock",
+      "company_name": "USA Rare Earth Inc.",
+      "record_count": 12,
+      "first_published_at": "2026-05-28T20:30:11+00:00",
+      "last_published_at": "2026-08-10T20:30:28+00:00",
+      "company_manifest_path": "articles/v1/33/usa-rare-earth-inc-class-a-common-stock/company.json"
+    },
+    {
+      "company_key": "usa-today-co-inc-common-stock",
+      "company_name": "USA TODAY Co. Inc.",
+      "record_count": 4,
+      "first_published_at": "2026-04-27T13:04:37+00:00",
+      "last_published_at": "2026-08-11T13:01:19+00:00",
+      "company_manifest_path": "articles/v1/d8/usa-today-co-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "usana-health-sciences-inc-common-stock",
+      "company_name": "USANA Health Sciences Inc.",
+      "record_count": 25,
+      "first_published_at": "2025-07-31T02:10:35+00:00",
+      "last_published_at": "2026-08-17T07:13:00+00:00",
+      "company_manifest_path": "articles/v1/80/usana-health-sciences-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "usbc-inc-common-stock",
+      "company_name": "USBC Inc.",
+      "record_count": 10,
+      "first_published_at": "2025-07-24T16:00:00+00:00",
+      "last_published_at": "2026-07-15T12:30:12+00:00",
+      "company_manifest_path": "articles/v1/7c/usbc-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "uscb-financial-holdings-inc-class-a-common-stock",
+      "company_name": "USCB Financial Holdings Inc.",
+      "record_count": 10,
+      "first_published_at": "2026-01-20T21:30:09+00:00",
+      "last_published_at": "2026-07-23T20:30:12+00:00",
+      "company_manifest_path": "articles/v1/ad/uscb-financial-holdings-inc-class-a-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-usergems",
+      "company_name": "UserGems",
+      "record_count": 50,
+      "first_published_at": "2024-07-09T00:00:00+00:00",
+      "last_published_at": "2026-08-18T15:19:13.632+00:00",
+      "company_manifest_path": "articles/v1/25/yc-usergems/company.json"
+    },
+    {
+      "company_key": "usio-inc-common-stock",
+      "company_name": "Usio Inc.",
+      "record_count": 24,
+      "first_published_at": "2026-01-21T14:05:00+00:00",
+      "last_published_at": "2026-08-19T14:25:12+00:00",
+      "company_manifest_path": "articles/v1/92/usio-inc-common-stock/company.json"
+    },
+    {
+      "company_key": "yc-usul",
+      "company_name": "Usul",
+      "record_count": 9,
+      "first_published_at": "2025-05-12T00:00:00+00:00",
+      "last_published_at": "2026-02-20T00:00:00+00:00",
+      "company_manifest_path": "articles/v1/f8/yc-usul/company.json"
+    },
+    {
+      "company_key": "utstarcom-holdings-corp-ordinary-shares",
+      "company_name": "UTStarcom Holdings Corp.",
+      "record_count": 31,
+      "first_published_at": "2015-01-23T08:21:54+00:00",
+      "last_published_at": "2026-08-13T12:00:00+00:00",
+      "company_manifest_path": "articles/v1/fb/utstarcom-holdings-corp-ordinary-shares/company.json"
+    },
+    {
+      "company_key": "utz-brands-inc-class-a-common-stock",
+      "company_name": "Utz Brands Inc",
+      "record_count": 38,
+      "first_published_at": "2024-10-17T11:44:19+00:00",
+      "last_published_at": "2026-08-05T10:30:00+00:00",
+      "company_manifest_path": "articles/v1/28/utz-brands-inc-class-a-common-stock/company.json"
+    },
+    {
+      "company_key": "uwm-holdings-corporation-class-a-common-stock",
+      "company_name": "UWM Holdings Corporation",
+      "record_count": 13,
+      "first_published_at": "2026-05-11T15:00:00+00:00",
+      "last_published_at": "2026-08-05T20:05:00+00:00",
+      "company_manifest_path": "articles/v1/87/uwm-holdings-corporation-class-a-common-stock/company.json"
+    },
+    {
+      "company_key": "uxin-limited-ads",
+      "company_name": "Uxin Limited",
+      "record_count": 20,
+      "first_published_at": "2025-11-11T11:00:00+00:00",
+      "last_published_at": "2026-07-20T08:00:00+00:00",
+      "company_manifest_path": "articles/v1/c7/uxin-limited-ads/company.json"
+    }
+  ]
+}
