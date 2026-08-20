@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "74cc194b4bd4c5a16ab03be57bbee788a65a052fb72dd7d9a128746011ba6018",
+  "company": {
+    "key": "yc-boundary",
+    "name": "Boundary"
+  },
+  "source": {
+    "id": "yc-boundary-news-import-b6810cf62b42",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://boundaryml.com/blog/timeouts-post-mortem",
+    "canonical": "https://boundaryml.com/blog/timeouts-post-mortem"
+  },
+  "title": "A cautionary tale on vibes",
+  "summary": "Post-mortem of the 0.212.0 timeouts incident",
+  "published_at": "2025-11-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:11:53.929220+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T19:19:32.174101+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-boundary/2025/11/74/74cc194b4bd4c5a16ab03be57bbee788a65a052fb72dd7d9a128746011ba6018/article.md",
+    "record": "articles/v1/22/yc-boundary/2025/11/74/74cc194b4bd4c5a16ab03be57bbee788a65a052fb72dd7d9a128746011ba6018/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4477,
+    "sha256": "sha256:285db466c6884dd0be08959ca79c53df8eba0f762f28199a5f3057719a347cf8",
+    "normalized_content_hash": "sha256:a2d3aec569443a22e4b17ca3bad77c48b90f5b612db7733256d4fbd77969095a"
+  },
+  "provenance": {
+    "source_item_id": "968e0bc9-f63c-442e-9cda-36eb23cb9367",
+    "external_id": "https://boundaryml.com/blog/timeouts-post-mortem"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac4d327f3207d56acb4cb5a6c7a494f5c2713e200d6d00a838f9e43e905afb16",
+  "company": {
+    "key": "yc-activeloop",
+    "name": "Activeloop"
+  },
+  "source": {
+    "id": "yc-activeloop-news-import-11accf1de1c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deeplake.ai/blog/serverless-pg",
+    "canonical": "https://deeplake.ai/blog/serverless-pg"
+  },
+  "title": "Spin up Postgres in a second: How We Built Serverless PG for Agents.",
+  "summary": "We built a serverless, PostgreSQL-compatible database. Not a modified PostgreSQL deployment. PostgreSQL provides the interface. Deeplake provides the storage engine. DuckDB provides the query execution.",
+  "published_at": "2026-03-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T14:16:27.843975+00:00",
+  "fetched_at": "2026-07-28T21:56:54.694470+00:00",
+  "last_updated_at": "2026-08-19T22:18:41.863567+00:00",
+  "paths": {
+    "article": "articles/v1/30/yc-activeloop/2026/03/ac/ac4d327f3207d56acb4cb5a6c7a494f5c2713e200d6d00a838f9e43e905afb16/article.md",
+    "record": "articles/v1/30/yc-activeloop/2026/03/ac/ac4d327f3207d56acb4cb5a6c7a494f5c2713e200d6d00a838f9e43e905afb16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20077,
+    "sha256": "sha256:459462050bb39711742d3f758f2a63d7a18fd446e74018f2bfa61eba63654173",
+    "normalized_content_hash": "sha256:b30a8ec435350b04ef6b31ff5487ee7250adb871018fadc47ff3bc70a637d96b"
+  },
+  "provenance": {
+    "source_item_id": "bdda32c3-bbec-49b0-9857-d77c694be332",
+    "external_id": "https://deeplake.ai/blog/serverless-pg"
+  }
+}

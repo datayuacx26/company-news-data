@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9947bd4965808364450ad5f7a54e50d0d371240b464340e0c4afeaa2a5061b3",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/dr-investigating-aws-persistence-mechanisms",
+    "canonical": "https://www.rapid7.com/blog/post/dr-investigating-aws-persistence-mechanisms"
+  },
+  "title": "Investigating Persistence Mechanisms in AWS",
+  "summary": "In the cloud, your infrastructure may be short-lived, but an attacker’s persistence may not be. While your environment scales and changes in seconds, adversaries are embedding themselves into your IAM policies, Lambda functions, and federated sessions – creating invisible footholds that survive long after you believe an incident is closed.",
+  "published_at": "2026-07-15T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:41.599179+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-07-30T15:39:13.946467+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/f9/f9947bd4965808364450ad5f7a54e50d0d371240b464340e0c4afeaa2a5061b3/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/f9/f9947bd4965808364450ad5f7a54e50d0d371240b464340e0c4afeaa2a5061b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22939,
+    "sha256": "sha256:e3bffd4138e125be5b1c7d7e8f7fee6e70a08302ad9ad66ceeaf745e4c5d1fcb",
+    "normalized_content_hash": "sha256:8adb5ada2fd2943f8f0dd16db1dac333bf4d6bc40732da79443278f82a220327"
+  },
+  "provenance": {
+    "source_item_id": "0ccf2043-9e41-44ba-8f4b-ac2ea893e61b",
+    "external_id": "blt032ed04cf168429d"
+  }
+}

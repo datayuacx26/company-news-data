@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "kvh-industries-inc-common-stock",
+    "name": "KVH Industries Inc."
+  },
+  "record_count": 28,
+  "first_published_at": "2024-08-01T10:47:29+00:00",
+  "last_published_at": "2026-08-17T18:07:12+00:00",
+  "partitions": [
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/22/kvh-industries-inc-common-stock/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 31816,
+        "sha256": "sha256:c298122ae7f4891ede3f12fa8d8ee94cd0ab01c30d01d006e435cb78b7e60c52",
+        "newest_at": "2026-08-17T18:07:12+00:00",
+        "oldest_at": "2024-08-01T10:47:29+00:00"
+      }
+    ]
+  }
+}

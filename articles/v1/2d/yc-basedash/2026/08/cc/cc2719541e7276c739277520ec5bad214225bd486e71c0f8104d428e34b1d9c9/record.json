@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc2719541e7276c739277520ec5bad214225bd486e71c0f8104d428e34b1d9c9",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-to-build-dashboards-on-amazon-redshift-data/",
+    "canonical": "https://www.basedash.com/blog/how-to-build-dashboards-on-amazon-redshift-data/"
+  },
+  "title": "How to build dashboards on Amazon Redshift data",
+  "summary": "How to build dashboards on Amazon Redshift: connect a BI tool, the constraint gotcha that returns wrong numbers, materialized views, and controlling cost.",
+  "published_at": "2026-08-01T00:00:00+00:00",
+  "first_seen_at": "2026-08-01T14:24:04.385160+00:00",
+  "fetched_at": "2026-08-01T14:24:08.038357+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/08/cc/cc2719541e7276c739277520ec5bad214225bd486e71c0f8104d428e34b1d9c9/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/08/cc/cc2719541e7276c739277520ec5bad214225bd486e71c0f8104d428e34b1d9c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21110,
+    "sha256": "sha256:d892eff8cbccbfd958996d5e8190c69d43ac33202eb1f266d2d11f554132b0dc",
+    "normalized_content_hash": "sha256:243383736d8edf3d1c6e53c3319717412b7838c13d1c64d337e4143bc23c8a9c"
+  },
+  "provenance": {
+    "source_item_id": "335d98df-7c03-4889-b19c-38527a1654dc",
+    "external_id": "https://www.basedash.com/blog/how-to-build-dashboards-on-amazon-redshift-data/"
+  }
+}

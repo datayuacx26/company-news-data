@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4ff9c57f67c3206fcf60e920c194d40742145ab2990e62f09963b0f8afe4b6f",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/empowering-clients-api",
+    "canonical": "https://tech.target.com/blog/empowering-clients-api"
+  },
+  "title": "The Journey of Building a Self-Service Platform for Aggregated APIs",
+  "summary": "An article by Tom Rauk : The digital catalog team at Target is responsible for a collection of nearly 100 aggregated APIs to provide browse data for Target.com and mobile app platforms. In early 2019, we were just coming off a large backend migration which meant we would need to version a lot of these APIs. This was a huge effort for all teams involved in standing up and moving to new API versions. With the volume of APIs that needed testing, we needed a solution that would scale and allow our teams to move more quickly.",
+  "published_at": "2022-05-13T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/05/d4/d4ff9c57f67c3206fcf60e920c194d40742145ab2990e62f09963b0f8afe4b6f/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/05/d4/d4ff9c57f67c3206fcf60e920c194d40742145ab2990e62f09963b0f8afe4b6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8131,
+    "sha256": "sha256:2542f576b4929c8a6b171cc4026b6dff13fe1d800a28f6031acd1d0bba9da6c2",
+    "normalized_content_hash": "sha256:1e1e3ebcc49752bf87a3e9ed2b1d6b69b3ae82f1b4e1101ce6f41a3710403cc5"
+  },
+  "provenance": {
+    "source_item_id": "15e901d1-d1ef-4e11-9d6b-38d57ff1e7a3",
+    "external_id": "BLOG-10021"
+  }
+}

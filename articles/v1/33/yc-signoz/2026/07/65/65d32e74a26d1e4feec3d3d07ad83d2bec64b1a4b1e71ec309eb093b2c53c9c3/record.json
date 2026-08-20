@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65d32e74a26d1e4feec3d3d07ad83d2bec64b1a4b1e71ec309eb093b2c53c9c3",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/eks-monitoring-with-opentelemetry",
+    "canonical": "https://signoz.io/blog/eks-monitoring-with-opentelemetry"
+  },
+  "title": "Amazon EKS Monitoring with OpenTelemetry [Step By Step Guide]",
+  "summary": "Monitor your Amazon EKS cluster with OpenTelemetry: deploy the Collector, capture cluster metrics, and visualize them in SigNoz.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/65/65d32e74a26d1e4feec3d3d07ad83d2bec64b1a4b1e71ec309eb093b2c53c9c3/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/65/65d32e74a26d1e4feec3d3d07ad83d2bec64b1a4b1e71ec309eb093b2c53c9c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18954,
+    "sha256": "sha256:cc2fa4252861efad108a2026f937fb54ef921d8a0364fa5afe323bcb52c235ad",
+    "normalized_content_hash": "sha256:00609bdf8062645c3b480def83da845a5946798c29cd6f44c19e2006073546df"
+  },
+  "provenance": {
+    "source_item_id": "01d47d78-6146-4bcc-bf7f-ad744d2dc978",
+    "external_id": "https://signoz.io/blog/eks-monitoring-with-opentelemetry"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbc20053aa62df8cffc85afb57a82594eeba791f231bc2bb81f7baddf0cc1441",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/5-new-processing-engine-plugins/",
+    "canonical": "https://www.influxdata.com/blog/5-new-processing-engine-plugins/"
+  },
+  "title": "What’s New in InfluxDB 3: 5 New Processing Engine Plugins",
+  "summary": "The five most recent plugins from the InfluxDB team are live: Sagemaker, value counter, Chronos forecasting, simple data replicator, and a stock portfolio tracker.",
+  "published_at": "2026-07-23T08:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:06:31.967054+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/07/bb/bbc20053aa62df8cffc85afb57a82594eeba791f231bc2bb81f7baddf0cc1441/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/07/bb/bbc20053aa62df8cffc85afb57a82594eeba791f231bc2bb81f7baddf0cc1441/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10306,
+    "sha256": "sha256:e6c7759044dc8ebe6ed3628f3bea00f843b5f127c96f25034c9548fd92cbb385",
+    "normalized_content_hash": "sha256:238375dde7aed2969fa600d23c05ba2500235fea8246a829d13c1e83cb73f171"
+  },
+  "provenance": {
+    "source_item_id": "55864d2b-9bac-46ff-82bc-5ef085d5d5c5",
+    "external_id": "https://www.influxdata.com/blog/5-new-processing-engine-plugins/"
+  }
+}

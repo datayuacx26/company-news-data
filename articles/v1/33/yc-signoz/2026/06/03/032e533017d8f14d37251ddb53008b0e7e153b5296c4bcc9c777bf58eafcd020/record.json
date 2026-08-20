@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "032e533017d8f14d37251ddb53008b0e7e153b5296c4bcc9c777bf58eafcd020",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/virtual-machine-monitoring",
+    "canonical": "https://signoz.io/guides/virtual-machine-monitoring"
+  },
+  "title": "Essential Guide to Virtual Machine Monitoring Tools",
+  "summary": "Virtual machine monitoring in 2026: collect VM host metrics over OpenTelemetry and track CPU, memory, and disk in SigNoz. Features and best practices.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:57.669129+00:00",
+  "last_updated_at": "2026-07-28T20:48:01.417300+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/03/032e533017d8f14d37251ddb53008b0e7e153b5296c4bcc9c777bf58eafcd020/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/03/032e533017d8f14d37251ddb53008b0e7e153b5296c4bcc9c777bf58eafcd020/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21807,
+    "sha256": "sha256:701c97ef9fa984893ce2ea9ca30e23ea62c2afce1603b89a257c4a6ab8febf7f",
+    "normalized_content_hash": "sha256:2de6117363dd0635afb0d1cf70a97b0ff94447bdf42b03e72b8978dc3deb4677"
+  },
+  "provenance": {
+    "source_item_id": "46266755-385d-45b5-a159-72f88a7d7914",
+    "external_id": "https://signoz.io/guides/virtual-machine-monitoring"
+  }
+}

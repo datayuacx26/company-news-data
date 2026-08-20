@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "706283d09e7f7c8ab6c576d3ed70d594cb70b3caed15a5ff1e4f12eb11827368",
+  "company": {
+    "key": "gitlab-inc-class-a-common-stock",
+    "name": "GitLab Inc."
+  },
+  "source": {
+    "id": "gitlab-inc-class-a-common-stock-news-import-53e8505a9d97",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.gitlab.com/blog/claude-security-and-gitlab/",
+    "canonical": "https://about.gitlab.com/blog/claude-security-and-gitlab/"
+  },
+  "title": "Secure every commit to production with Claude and GitLab",
+  "summary": "Claude Security catches vulnerabilities inside a coding session. GitLab picks up from there, scanning, enforcing policy, and producing audit evidence for the software lifecycle.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-03T20:17:13.425117+00:00",
+  "fetched_at": "2026-08-03T20:38:58.255627+00:00",
+  "last_updated_at": "2026-08-17T10:37:29.083691+00:00",
+  "paths": {
+    "article": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/08/70/706283d09e7f7c8ab6c576d3ed70d594cb70b3caed15a5ff1e4f12eb11827368/article.md",
+    "record": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/08/70/706283d09e7f7c8ab6c576d3ed70d594cb70b3caed15a5ff1e4f12eb11827368/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12404,
+    "sha256": "sha256:2e9c2d7422bbbbd9f1c819aaa94c91de9834ec6cfc951b7033e39173bcfc92d6",
+    "normalized_content_hash": "sha256:39b2e600ec54b15fe83472296357028430026a6a8d5403c46e8b51eabf995c07"
+  },
+  "provenance": {
+    "source_item_id": "b02fb739-31f3-4366-b7ae-39de5b34cef5",
+    "external_id": "https://about.gitlab.com/blog/claude-security-and-gitlab/"
+  }
+}

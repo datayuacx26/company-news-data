@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "92e085726939efc9550e70cf893a0972d7f7d5df655569586ba08899fee4c361",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/apache-log",
+    "canonical": "https://signoz.io/guides/apache-log"
+  },
+  "title": "Apache Logs: Access, Error Logs, Analysis, and Monitoring",
+  "summary": "Learn Apache access logs, error logs, log formats, rotation, and how to monitor Apache logs with SigNoz.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:15:16.761066+00:00",
+  "last_updated_at": "2026-07-28T21:16:24.380228+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/92/92e085726939efc9550e70cf893a0972d7f7d5df655569586ba08899fee4c361/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/92/92e085726939efc9550e70cf893a0972d7f7d5df655569586ba08899fee4c361/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22219,
+    "sha256": "sha256:630f82ee7fad6b1cce91ec56114bb86b9239abe651a92a10a16c18516b5af99a",
+    "normalized_content_hash": "sha256:54dcfc1969b4a6e559b35afb7150fd1601f0f5fdcf37fd826ea84a27ae87fdef"
+  },
+  "provenance": {
+    "source_item_id": "824f7e6a-d015-4ce1-9adc-64f017e73739",
+    "external_id": "https://signoz.io/guides/apache-log"
+  }
+}

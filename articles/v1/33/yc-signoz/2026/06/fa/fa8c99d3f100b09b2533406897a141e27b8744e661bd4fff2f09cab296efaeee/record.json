@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa8c99d3f100b09b2533406897a141e27b8744e661bd4fff2f09cab296efaeee",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-vs-prometheus",
+    "canonical": "https://signoz.io/blog/opentelemetry-vs-prometheus"
+  },
+  "title": "OpenTelemetry vs Prometheus - Key Differences Explained",
+  "summary": "Compare OpenTelemetry and Prometheus for observability: key differences, interoperability, and when to choose each, with practical guidance.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:48:25.229040+00:00",
+  "last_updated_at": "2026-07-28T20:48:42.491645+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/fa/fa8c99d3f100b09b2533406897a141e27b8744e661bd4fff2f09cab296efaeee/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/fa/fa8c99d3f100b09b2533406897a141e27b8744e661bd4fff2f09cab296efaeee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20240,
+    "sha256": "sha256:b68e64821cd4ce2e9f3eac12a782362112fac030831851e876f14e22a84da9b4",
+    "normalized_content_hash": "sha256:888635cc3ce8beb67b0903aed5942698b75d63d7bf89a1ea74b9509867e2c6e2"
+  },
+  "provenance": {
+    "source_item_id": "b3cc6f0e-0883-4b5e-a935-c174426795ed",
+    "external_id": "https://signoz.io/blog/opentelemetry-vs-prometheus"
+  }
+}

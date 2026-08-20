@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb610d813ac19749a040aa68767e2098982664336335ae50eb5a9ab9d3d1a6bd",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/feature-highlight-transaction-metadata",
+    "canonical": "https://authzed.com/blog/feature-highlight-transaction-metadata"
+  },
+  "title": "Feature Highlight: Transaction Metadata",
+  "summary": "The release of SpiceDB v1.38 debuts new foundational API functionality for SpiceDB: Transaction Metadata. When writing relationships, you can now include arbitrary metadata that will be stored alongside the transaction and published to consumers of the Watch API.",
+  "published_at": "2024-11-07T17:34:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2024/11/cb/cb610d813ac19749a040aa68767e2098982664336335ae50eb5a9ab9d3d1a6bd/article.md",
+    "record": "articles/v1/15/yc-authzed/2024/11/cb/cb610d813ac19749a040aa68767e2098982664336335ae50eb5a9ab9d3d1a6bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7137,
+    "sha256": "sha256:0f8bf6230c242403d18b52da01d93ec2c601e36d05a43e39be4586a84500cde6",
+    "normalized_content_hash": "sha256:648e2c0370934b5a3c0dd6092c8ac7dbde7feb5790fcf0a24cf153df0e0be56a"
+  },
+  "provenance": {
+    "source_item_id": "18ce3112-c057-4fd7-9eaf-0cf105b8cb98",
+    "external_id": "https://authzed.com/blog/feature-highlight-transaction-metadata"
+  }
+}

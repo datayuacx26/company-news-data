@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be7ad9d1ae0e4b449d5c2ba61d8c6148fd22c78e1c97146d7ab1c99b051d0827",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2023/01/03/change-data-capture-with-questdb-and-debezium/",
+    "canonical": "https://questdb.com/blog/2023/01/03/change-data-capture-with-questdb-and-debezium/"
+  },
+  "title": "Change Data Capture with QuestDB and Debezium",
+  "summary": "A tutorial demonstrating how to stream data into QuestDB with change data capture via Debezium and Kafka Connect.",
+  "published_at": "2023-01-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.232032+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2023/01/be/be7ad9d1ae0e4b449d5c2ba61d8c6148fd22c78e1c97146d7ab1c99b051d0827/article.md",
+    "record": "articles/v1/11/yc-questdb/2023/01/be/be7ad9d1ae0e4b449d5c2ba61d8c6148fd22c78e1c97146d7ab1c99b051d0827/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22110,
+    "sha256": "sha256:2b36a4e0528fa753804af8e7d1aff3255578a0236563fe7eb62f68cdb4cf8218",
+    "normalized_content_hash": "sha256:81bbead604c36ea9af8d1a85c5534d3f933633eb4453f100148273b0a4e8e98d"
+  },
+  "provenance": {
+    "source_item_id": "770fe87d-fd5f-4f22-b6b9-2579d7e013f5",
+    "external_id": "https://questdb.com/blog/2023/01/03/change-data-capture-with-questdb-and-debezium/"
+  }
+}

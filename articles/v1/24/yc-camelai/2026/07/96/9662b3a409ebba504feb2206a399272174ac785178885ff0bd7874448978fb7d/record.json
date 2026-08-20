@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9662b3a409ebba504feb2206a399272174ac785178885ff0bd7874448978fb7d",
+  "company": {
+    "key": "yc-camelai",
+    "name": "camelAI"
+  },
+  "source": {
+    "id": "yc-camelai-news-import-786838659b06",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://camelai.com/blog/how-we-self-host-deepseek-v4-flash-on-aws-spot-instances",
+    "canonical": "https://camelai.com/blog/how-we-self-host-deepseek-v4-flash-on-aws-spot-instances"
+  },
+  "title": "How we self-host DeepSeek V4 Flash on AWS spot instances",
+  "summary": "We recently launched a free tier powered by a self-hosted DeepSeek V4 Flash. Here's how we picked the model and hardware together, adapted an open source vLLM recipe, and made the KV cache — not raw compute — the thing that let the economics work.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:13:37.473099+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-20T02:48:12.385654+00:00",
+  "paths": {
+    "article": "articles/v1/24/yc-camelai/2026/07/96/9662b3a409ebba504feb2206a399272174ac785178885ff0bd7874448978fb7d/article.md",
+    "record": "articles/v1/24/yc-camelai/2026/07/96/9662b3a409ebba504feb2206a399272174ac785178885ff0bd7874448978fb7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14242,
+    "sha256": "sha256:87edfac72d6fc0544b2f5ecd9a9d030065791a359f13f993adeb67e29e38c1de",
+    "normalized_content_hash": "sha256:553ced17bd59516e9eed910698e9b80521193b64b5b7940e83d2fbc1adbf4132"
+  },
+  "provenance": {
+    "source_item_id": "5cea18dd-c1fe-4bd8-b3f5-911084bac9e5",
+    "external_id": "https://camelai.com/blog/how-we-self-host-deepseek-v4-flash-on-aws-spot-instances"
+  }
+}

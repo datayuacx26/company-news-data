@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "hafnia-limited-common-shares",
+    "name": "Hafnia Limited Common Shares"
+  },
+  "record_count": 22,
+  "first_published_at": "2026-04-07T08:58:16+00:00",
+  "last_published_at": "2026-08-17T09:27:29+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1c/hafnia-limited-common-shares/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 30597,
+        "sha256": "sha256:6e5d3b9ccf05f82375e26f037dff1b175de41b1683fe642893f369f5760c79cd",
+        "newest_at": "2026-08-17T09:27:29+00:00",
+        "oldest_at": "2026-04-07T08:58:16+00:00"
+      }
+    ]
+  }
+}

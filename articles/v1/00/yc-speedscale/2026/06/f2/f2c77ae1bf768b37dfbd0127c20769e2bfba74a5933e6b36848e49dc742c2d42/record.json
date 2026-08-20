@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2c77ae1bf768b37dfbd0127c20769e2bfba74a5933e6b36848e49dc742c2d42",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/spring-boot-migration-traffic-replay-validation/",
+    "canonical": "https://speedscale.com/blog/spring-boot-migration-traffic-replay-validation/"
+  },
+  "title": "Validate Spring Boot Upgrades with Traffic Replay",
+  "summary": "Spring Boot upgrades silently change JSON contracts and autoconfiguration. Use traffic replay to catch every regression before production.",
+  "published_at": "2026-06-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/06/f2/f2c77ae1bf768b37dfbd0127c20769e2bfba74a5933e6b36848e49dc742c2d42/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/06/f2/f2c77ae1bf768b37dfbd0127c20769e2bfba74a5933e6b36848e49dc742c2d42/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14457,
+    "sha256": "sha256:76bca6dd7dfe7f9373412fca189ea753c0e48c6f7466368eaa0205101faafc16",
+    "normalized_content_hash": "sha256:a8a96e04227eada8ce66787b620a456500ed2493e52eb4daec83a7033ea2cd9f"
+  },
+  "provenance": {
+    "source_item_id": "97dd22f3-4151-453c-825d-711ad0363c17",
+    "external_id": "https://speedscale.com/blog/spring-boot-migration-traffic-replay-validation/"
+  }
+}

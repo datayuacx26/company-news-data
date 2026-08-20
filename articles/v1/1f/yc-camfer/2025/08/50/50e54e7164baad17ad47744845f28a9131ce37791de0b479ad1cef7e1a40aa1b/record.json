@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50e54e7164baad17ad47744845f28a9131ce37791de0b479ad1cef7e1a40aa1b",
+  "company": {
+    "key": "yc-camfer",
+    "name": "camfer"
+  },
+  "source": {
+    "id": "yc-camfer-news-import-eadafe2b34d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://camfer.dev/blog/flare/",
+    "canonical": "https://camfer.dev/blog/flare/"
+  },
+  "title": "FLARE: Fast Low-rank Attention Routing Engine",
+  "summary": "Scaling self-attention with fixed-length latent sequences",
+  "published_at": "2025-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:30:43.881527+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-08-19T19:15:16.081533+00:00",
+  "paths": {
+    "article": "articles/v1/1f/yc-camfer/2025/08/50/50e54e7164baad17ad47744845f28a9131ce37791de0b479ad1cef7e1a40aa1b/article.md",
+    "record": "articles/v1/1f/yc-camfer/2025/08/50/50e54e7164baad17ad47744845f28a9131ce37791de0b479ad1cef7e1a40aa1b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2230,
+    "sha256": "sha256:e09f8de71a57ba6401a644fe50af498bb22d0777b368605a1da769349c6c6fdd",
+    "normalized_content_hash": "sha256:21c80804452829855c50340c40d5534cdb934308376b2cf176ecc3f191be8b0d"
+  },
+  "provenance": {
+    "source_item_id": "74a771c4-481b-4b8c-8d32-add9e3cef58b",
+    "external_id": "https://camfer.dev/blog/flare/"
+  }
+}

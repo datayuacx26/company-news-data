@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-novoflow",
+    "name": "Novoflow"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-05-22T00:00:00+00:00",
+  "last_published_at": "2026-07-13T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3a/yc-novoflow/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 22781,
+        "sha256": "sha256:bc9dd56b48b9fe02e7e6db4dce0e19f3f4f1ee76c7e3a673e4cc6a4d44291a75",
+        "newest_at": "2026-07-13T00:00:00+00:00",
+        "oldest_at": "2026-05-22T00:00:00+00:00"
+      }
+    ]
+  }
+}

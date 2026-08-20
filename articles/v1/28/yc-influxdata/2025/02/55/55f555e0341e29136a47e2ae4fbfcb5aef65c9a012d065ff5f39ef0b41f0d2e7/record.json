@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55f555e0341e29136a47e2ae4fbfcb5aef65c9a012d065ff5f39ef0b41f0d2e7",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-news-import-1696a61650a4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/read-replicas-timestream-expansion-aws-influxdb/",
+    "canonical": "https://www.influxdata.com/blog/read-replicas-timestream-expansion-aws-influxdb/"
+  },
+  "title": "InfluxData and AWS Expand Strategic Offering with New Capabilities to Power Large-Scale Time Series Workloads",
+  "summary": "Announcing Read Replicas, a new capability for enhanced querying performance and high availability for enterprise-scale time series workloads on AWS. Amazon Timestream for InfluxDB Read Replicas is available for purchase in the AWS Management Console.",
+  "published_at": "2025-02-19T06:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:50:03.450269+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-11T12:35:57.512014+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2025/02/55/55f555e0341e29136a47e2ae4fbfcb5aef65c9a012d065ff5f39ef0b41f0d2e7/article.md",
+    "record": "articles/v1/28/yc-influxdata/2025/02/55/55f555e0341e29136a47e2ae4fbfcb5aef65c9a012d065ff5f39ef0b41f0d2e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5573,
+    "sha256": "sha256:d81cf988f36f70e3e82f86a44c74d3db84855716ce32bc4285f01de7ff94ccf6",
+    "normalized_content_hash": "sha256:63b893935b5a0bd45f98ca11c85c7c8a9a74d48be2698ebfbd4853e4902442b1"
+  },
+  "provenance": {
+    "source_item_id": "741fdb91-99a1-492f-9e75-d0e2d8157b8d",
+    "external_id": "https://www.influxdata.com/blog/read-replicas-timestream-expansion-aws-influxdb/"
+  }
+}

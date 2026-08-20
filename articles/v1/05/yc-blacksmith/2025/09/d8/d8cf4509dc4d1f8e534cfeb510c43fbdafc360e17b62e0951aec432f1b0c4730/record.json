@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8cf4509dc4d1f8e534cfeb510c43fbdafc360e17b62e0951aec432f1b0c4730",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/ssh",
+    "canonical": "https://www.blacksmith.sh/blog/ssh"
+  },
+  "title": "How we SSH into GitHub Actions",
+  "summary": "We built an SSH feature to let you pop the hood on running CI jobs. It relies on three subsystems — network tunneling, DNS registration, and SSH key management — each handling quirks in the VM lifecycle.",
+  "published_at": "2025-09-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/09/d8/d8cf4509dc4d1f8e534cfeb510c43fbdafc360e17b62e0951aec432f1b0c4730/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/09/d8/d8cf4509dc4d1f8e534cfeb510c43fbdafc360e17b62e0951aec432f1b0c4730/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8349,
+    "sha256": "sha256:961caca41bbe1717f716c8b0ff24bc26f69d3b829844548b6f83a29f4d51c222",
+    "normalized_content_hash": "sha256:640f80610e1d35ed206fecfdc74ec83fcd0993601f40128e52e9c0636d7bcfb9"
+  },
+  "provenance": {
+    "source_item_id": "a7fbbf07-7aa5-4fba-99f7-ccaf6cf01b4c",
+    "external_id": "https://www.blacksmith.sh/blog/ssh"
+  }
+}

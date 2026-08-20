@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e52b3a225a753c1cc1b73e18ee59eda2b1bf287fc49f10592ec32d47061a0aa",
+  "company": {
+    "key": "yc-invert",
+    "name": "Invert"
+  },
+  "source": {
+    "id": "yc-invert-news-import-968576ef11e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://invertbio.com/blog/why-cho-fed-batch-runs-land-at-half-the-titer",
+    "canonical": "https://invertbio.com/blog/why-cho-fed-batch-runs-land-at-half-the-titer"
+  },
+  "title": "The Metabolic Switch Behind CHO Titer Variability",
+  "summary": "Across 40 fed-batch runs on the same CHO platform, Assist, Invert's analysis tool for bioprocess data, traced the titer split to a single metabolic signal: which runs cleared their lactate by mid-culture, and which never did.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:25:27.297188+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T00:53:24.767592+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-invert/2026/07/4e/4e52b3a225a753c1cc1b73e18ee59eda2b1bf287fc49f10592ec32d47061a0aa/article.md",
+    "record": "articles/v1/0e/yc-invert/2026/07/4e/4e52b3a225a753c1cc1b73e18ee59eda2b1bf287fc49f10592ec32d47061a0aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4944,
+    "sha256": "sha256:91221336ba15a46111946aee9e42ad5da81d77d8efbef6f74d66972620ca5340",
+    "normalized_content_hash": "sha256:2ba8529bfee5e62dfbeab399ee5ef2d1dea9ba09673d2e0c1456101e7d0046d4"
+  },
+  "provenance": {
+    "source_item_id": "9a4793e6-55d7-41d9-82ed-c4090e325666",
+    "external_id": "https://invertbio.com/blog/why-cho-fed-batch-runs-land-at-half-the-titer"
+  }
+}

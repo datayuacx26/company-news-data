@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1293084310706feb0f8374a6ef828d5ab3b87ca290b1dae713c076e71c4a817c",
+  "company": {
+    "key": "yc-sails-co",
+    "name": "Sails Co."
+  },
+  "source": {
+    "id": "yc-sails-co-rss-a888f7fb03bc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.sailscasts.com/understanding-waterline-projections/",
+    "canonical": "https://blog.sailscasts.com/understanding-waterline-projections/"
+  },
+  "title": "Understanding Waterline projections",
+  "summary": "Projections make for faster performance and better security when sending back records to a client by allowing you to select or omit fields to be returned.",
+  "published_at": "2021-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:05:07.405322+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T00:44:19.732721+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-sails-co/2021/03/12/1293084310706feb0f8374a6ef828d5ab3b87ca290b1dae713c076e71c4a817c/article.md",
+    "record": "articles/v1/28/yc-sails-co/2021/03/12/1293084310706feb0f8374a6ef828d5ab3b87ca290b1dae713c076e71c4a817c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6132,
+    "sha256": "sha256:c6943c717644046955194deaf7592f228e7a3418d37250377af33aac90c0c19e",
+    "normalized_content_hash": "sha256:402b2a8c6072b0888f711b64b4d887e4f62559043fb7de16445dde6e11662da5"
+  },
+  "provenance": {
+    "source_item_id": "5827bd49-bda8-42c3-ab3e-d3c993d5dd74",
+    "external_id": "https://blog.sailscasts.com/understanding-waterline-projections/"
+  }
+}

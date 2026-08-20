@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cibus-inc-class-a-common-stock",
+    "name": "Cibus Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2026-03-03T21:05:00+00:00",
+  "last_published_at": "2026-08-13T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2d/cibus-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 16021,
+        "sha256": "sha256:d1ecea45e517deef789fd36872fc8e162fd9ad1c968427bdcc7b3765fcefd9b9",
+        "newest_at": "2026-08-13T20:05:00+00:00",
+        "oldest_at": "2026-03-03T21:05:00+00:00"
+      }
+    ]
+  }
+}

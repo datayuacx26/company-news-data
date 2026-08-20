@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "182e4b9c504a2783af6733489da6d39ea773ef5c0b459a3f1bc09fb19d60f534",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/shaped-signoz-mcp-latency-debugging",
+    "canonical": "https://signoz.io/blog/shaped-signoz-mcp-latency-debugging"
+  },
+  "title": "How Shaped fixed a year-old latency bug with SigNoz MCP",
+  "summary": "Kathleen Xue at Shaped used a coding agent with SigNoz MCP to fix a Redis latency bug that had lived in production for almost a year. A closer look at what agent-native observability actually takes.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:44:16.271161+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/18/182e4b9c504a2783af6733489da6d39ea773ef5c0b459a3f1bc09fb19d60f534/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/18/182e4b9c504a2783af6733489da6d39ea773ef5c0b459a3f1bc09fb19d60f534/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9257,
+    "sha256": "sha256:5c2861bca36c5a0367ede100bcff57d1cd74bf7f3052142ec2178fd12424156d",
+    "normalized_content_hash": "sha256:e292439c0b2ee2a0273d560f456d44f9ff128b139bd076897c2ba2cd2643ac1e"
+  },
+  "provenance": {
+    "source_item_id": "02f860ae-8300-415f-92e1-51959183d463",
+    "external_id": "https://signoz.io/blog/shaped-signoz-mcp-latency-debugging"
+  }
+}

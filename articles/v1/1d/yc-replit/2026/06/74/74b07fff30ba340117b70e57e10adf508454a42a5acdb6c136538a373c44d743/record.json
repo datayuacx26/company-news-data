@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "74b07fff30ba340117b70e57e10adf508454a42a5acdb6c136538a373c44d743",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/evaluating-and-improving-agent-at-scale",
+    "canonical": "https://replit.com/blog/evaluating-and-improving-agent-at-scale"
+  },
+  "title": "Closing the loop: Evaluating and improving Replit Agent at scale",
+  "summary": "Most Replit Agent users start with an idea. They describe the goal in natural language — without a repo, test suite, or chosen framework — and expect the agent to turn it into a functioning app. The result might be a website, slide deck, mobile app, several connected artifacts, or something else entirely. Vibe coders are not usually checking diffs or test output. Success for Replit Agent is deceptively simple: the app should work when users click around. That changes the job of evaluation. A single score can help with a specific shipping decision, but it cannot tell us, week over week, whether Replit Agent is getting better for users. To answer that question, evaluation must become part of the improvement loop. Evaluation has to do more now",
+  "published_at": "2026-06-23T20:22:20.024+00:00",
+  "first_seen_at": "2026-07-23T23:34:32.089077+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T20:16:15.956370+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/06/74/74b07fff30ba340117b70e57e10adf508454a42a5acdb6c136538a373c44d743/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/06/74/74b07fff30ba340117b70e57e10adf508454a42a5acdb6c136538a373c44d743/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15722,
+    "sha256": "sha256:8b76171a33f860999e70f17811ef277f830975871340066b5101883851b5c987",
+    "normalized_content_hash": "sha256:eabd0fe0a0ad48559af2d675dde03821b810328077aa6faf6980bec9c1218291"
+  },
+  "provenance": {
+    "source_item_id": "0cc4fb94-0ef8-4e5b-ac83-4d64bb4494f7",
+    "external_id": "https://replit.com/blog/evaluating-and-improving-agent-at-scale"
+  }
+}

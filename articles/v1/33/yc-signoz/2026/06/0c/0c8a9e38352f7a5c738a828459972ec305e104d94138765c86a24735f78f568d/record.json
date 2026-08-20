@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c8a9e38352f7a5c738a828459972ec305e104d94138765c86a24735f78f568d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/instrumentation/mobile-instrumentation/opentelemetry-flutter",
+    "canonical": "https://signoz.io/docs/instrumentation/mobile-instrumentation/opentelemetry-flutter"
+  },
+  "title": "Flutter OpenTelemetry Instrumentation Guide",
+  "summary": "Set up OpenTelemetry instrumentation in your Flutter (Android/iOS) app and send traces to SigNoz, covering tracer setup, span creation, and ingestion.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/0c/0c8a9e38352f7a5c738a828459972ec305e104d94138765c86a24735f78f568d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/0c/0c8a9e38352f7a5c738a828459972ec305e104d94138765c86a24735f78f568d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 722,
+    "sha256": "sha256:e64b51e7e8474f954ef28ce8458d67a1ab669a9417d59c239d78d967081ee670",
+    "normalized_content_hash": "sha256:9c5c578944e8bd97d088479f3dab22d46fe1842335fb907a6885dfed117ef6e2"
+  },
+  "provenance": {
+    "source_item_id": "a3dab1f4-c889-483e-936c-68a7c03f132a",
+    "external_id": "https://signoz.io/docs/instrumentation/mobile-instrumentation/opentelemetry-flutter"
+  }
+}

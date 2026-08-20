@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "52a92983ca443855e22be8308b40e033e0a5bcdbda9db7cb55e70f04c91a4de5",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-97-replicache-subscriptions-stalled-our-dashboard-editor/",
+    "canonical": "https://www.basedash.com/blog/how-97-replicache-subscriptions-stalled-our-dashboard-editor/"
+  },
+  "title": "How 97 Replicache subscriptions stalled our dashboard editor",
+  "summary": "Drag in edit mode froze the page for over a second on big dashboards. The cause was 97 Replicache subscriptions re-running on every keystroke. Here's how we…",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/06/52/52a92983ca443855e22be8308b40e033e0a5bcdbda9db7cb55e70f04c91a4de5/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/06/52/52a92983ca443855e22be8308b40e033e0a5bcdbda9db7cb55e70f04c91a4de5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13365,
+    "sha256": "sha256:13545cd0d7434ba58d186b8b73f9803f32d644cb138a3102f46fb19fc884e91c",
+    "normalized_content_hash": "sha256:680f863a6036a1098a9dc8dbabc58f018c5d3c2518911fa7614579137ccaddfe"
+  },
+  "provenance": {
+    "source_item_id": "565c7c38-8dbe-4acf-958e-c00fb024dff4",
+    "external_id": "https://www.basedash.com/blog/how-97-replicache-subscriptions-stalled-our-dashboard-editor/"
+  }
+}

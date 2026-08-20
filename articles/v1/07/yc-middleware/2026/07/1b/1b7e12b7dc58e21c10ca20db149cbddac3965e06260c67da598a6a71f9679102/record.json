@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b7e12b7dc58e21c10ca20db149cbddac3965e06260c67da598a6a71f9679102",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/alert-correlation-strategies-distributed-microservices/",
+    "canonical": "https://middleware.io/blog/alert-correlation-strategies-distributed-microservices/"
+  },
+  "title": "Building Effective Alert Correlation Strategies for Distributed Microservices",
+  "summary": "Group alerts by root cause, not symptoms. See how topology-aware grouping, statistical correlation, and suppression rules reduce alert noise in microservices.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:21:25.947478+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-12T09:04:03.265606+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/07/1b/1b7e12b7dc58e21c10ca20db149cbddac3965e06260c67da598a6a71f9679102/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/07/1b/1b7e12b7dc58e21c10ca20db149cbddac3965e06260c67da598a6a71f9679102/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19381,
+    "sha256": "sha256:bf5f7fdef9eb8eb5da84b021aac3522059e16c454146223e5960730fbfbf14c0",
+    "normalized_content_hash": "sha256:a504ddc7e2db16cc3a77d907943ba124995290096e7fa3663167ec92c03822b4"
+  },
+  "provenance": {
+    "source_item_id": "c238d3af-dd4e-40dc-81cf-8201cd787f0f",
+    "external_id": "https://middleware.io/blog/alert-correlation-strategies-distributed-microservices/"
+  }
+}

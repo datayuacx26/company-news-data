@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-tappity",
+    "name": "Tappity"
+  },
+  "record_count": 8,
+  "first_published_at": "2020-03-22T21:49:20+00:00",
+  "last_published_at": "2020-12-11T14:51:00+00:00",
+  "partitions": [
+    {
+      "partition": "2020-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/33/yc-tappity/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 9204,
+        "sha256": "sha256:c0fd5fbe23cd609e082c18b284e84a90a2819b246560131a0522cce9f85737cc",
+        "newest_at": "2020-12-11T14:51:00+00:00",
+        "oldest_at": "2020-03-22T21:49:20+00:00"
+      }
+    ]
+  }
+}

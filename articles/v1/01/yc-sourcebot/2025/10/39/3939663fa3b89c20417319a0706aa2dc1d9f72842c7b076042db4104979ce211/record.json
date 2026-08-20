@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3939663fa3b89c20417319a0706aa2dc1d9f72842c7b076042db4104979ce211",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-69a1f8dc01ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/changelog/perf-improvements-31-10-25",
+    "canonical": "https://www.sourcebot.dev/changelog/perf-improvements-31-10-25"
+  },
+  "title": "Performance improvements",
+  "summary": "Up to 41x faster search, 10x faster time-to-interactive, and steadier indexing at scale.",
+  "published_at": "2025-10-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:52.577262+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-20T02:52:57.900818+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2025/10/39/3939663fa3b89c20417319a0706aa2dc1d9f72842c7b076042db4104979ce211/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2025/10/39/3939663fa3b89c20417319a0706aa2dc1d9f72842c7b076042db4104979ce211/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1703,
+    "sha256": "sha256:b74e78c5b40ea16751a221c0e448b538a15ea0d86b5aa91255617be870b36c37",
+    "normalized_content_hash": "sha256:d0d366d7f1a8b43bb064c981064772ab55c5b62ee34e4bec2728d482086bf8d6"
+  },
+  "provenance": {
+    "source_item_id": "62f04187-ef70-49b8-a3d2-20bd568dd3c7",
+    "external_id": "https://www.sourcebot.dev/changelog/perf-improvements-31-10-25"
+  }
+}

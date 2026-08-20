@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5f024e6e6ce9cf13bb4fed0fc5d7a176beefad96b47f2f753ae4140a8d144b8",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/streaming-500-million-rows-into-apache-arrow/",
+    "canonical": "https://questdb.com/blog/streaming-500-million-rows-into-apache-arrow/"
+  },
+  "title": "Streaming 500 million rows into Apache Arrow in 2.3 seconds",
+  "summary": "We built a naive parallel reader to see how fast QuestDB's new QWP protocol can stream query results into Arrow, compared it against ClickHouse and TimescaleDB, and stripped out three measurement artifacts before the numbers meant anything.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T19:16:32.728478+00:00",
+  "fetched_at": "2026-08-07T19:16:34.120281+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/08/f5/f5f024e6e6ce9cf13bb4fed0fc5d7a176beefad96b47f2f753ae4140a8d144b8/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/08/f5/f5f024e6e6ce9cf13bb4fed0fc5d7a176beefad96b47f2f753ae4140a8d144b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24806,
+    "sha256": "sha256:d74bee40ec22a5962275a15b596fd8b5c8131bd161c1d3fa1b6086e19dd20bf0",
+    "normalized_content_hash": "sha256:2f1a9e1edd87ec176e87ac7a16fc3ce819e6bc5b779f9f0ed0d731197bc4df9a"
+  },
+  "provenance": {
+    "source_item_id": "836bdabc-22d8-4129-8fc5-2557f6966894",
+    "external_id": "https://questdb.com/blog/streaming-500-million-rows-into-apache-arrow/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "45f5518edd55ea9088e878f450ea444bb5b08b833632ab3bfb246f681794e150",
+  "company": {
+    "key": "yc-metoro",
+    "name": "Metoro"
+  },
+  "source": {
+    "id": "yc-metoro-news-import-a8c8033caa18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metoro.io/blog/kubernetes-monitoring-best-practices",
+    "canonical": "https://metoro.io/blog/kubernetes-monitoring-best-practices"
+  },
+  "title": "Kubernetes Monitoring Best Practices: A Production SRE Checklist",
+  "summary": "A practical Kubernetes monitoring checklist for production teams covering service health, cluster signals, labels, dashboards, alerts, eBPF, and AI triage.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:14:18.908490+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T19:49:32.643345+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-metoro/2026/05/45/45f5518edd55ea9088e878f450ea444bb5b08b833632ab3bfb246f681794e150/article.md",
+    "record": "articles/v1/12/yc-metoro/2026/05/45/45f5518edd55ea9088e878f450ea444bb5b08b833632ab3bfb246f681794e150/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22564,
+    "sha256": "sha256:514516389fe0b306f1dcfac5e36bb3977a6adb6c446c7e55b2962763258944b3",
+    "normalized_content_hash": "sha256:e10f0b1a1e3732b2f6531f70e04961f208f1ef016e5aa12b5cce0b472c2e38ad"
+  },
+  "provenance": {
+    "source_item_id": "4f123ce4-5dea-49b3-80f5-9ed678936d86",
+    "external_id": "https://metoro.io/blog/kubernetes-monitoring-best-practices"
+  }
+}

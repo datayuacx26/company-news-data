@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c46e432976cf6caf9776bdf6d5e65c516c58c10a769dabeb42c2bc4fde726295",
+  "company": {
+    "key": "yc-circuitlab",
+    "name": "CircuitLab"
+  },
+  "source": {
+    "id": "yc-circuitlab-rss-d25759254652",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.circuitlab.com/blog/2021/01/04/extended-numerical-precision-for-parameter-sweeps/",
+    "canonical": "https://www.circuitlab.com/blog/2021/01/04/extended-numerical-precision-for-parameter-sweeps/"
+  },
+  "title": "Extended Numerical Precision for Parameter Sweeps",
+  "summary": "comment » CircuitLab has always made it easy to simulate the same circuit with variations of one or more parameters. For example, we can quickly compare the frequency response (Bode plot) of a RC low-pass filter with different capacitors by setting up the simulation with a Decade sweep over parameter C1.C from 1n to 1u : With 1 point per decade, this instructs the circuit simulator to build the circuit with four values for capacitor $C_1$ , specifically $1 \\ \\text{nF}, 10 \\ \\text{nF}, 100 \\ \\text{nF}, 1 \\ \\mu\\text{F}$ . The four responses are compared by plotting them in different colors on a single Bode plot. With old CircuitLab software prior to today, the result looked like this: While it works, you’ll notice in the plot legend that there are rounding errors in the values, such as when C1.C is 1.0000000000000042e-8 , when it should be precisely 1e-8 . That happens because the computer represents values as 64-bit floating point, leading to roughly 16 decimal digits of precision. Instead of simply rounding or truncating the display, we’ve fixed this by applying our extended numerical precision to parameter sweeps as well. See our earlier article Double-Double, Please! When 64-Bit Floating Point Isn’t Enough for more details about extended precision numerical routines. As of today, this issue has been fixed, and the capacitor values are calculated precisely: We hope this makes CircuitLab a more pleasant tool to use for investigating circuit behavior. Try the example simulation for yourself:",
+  "published_at": "2021-01-04T21:00:00+00:00",
+  "first_seen_at": "2026-07-24T22:19:16.775475+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T02:37:02.874202+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-circuitlab/2021/01/c4/c46e432976cf6caf9776bdf6d5e65c516c58c10a769dabeb42c2bc4fde726295/article.md",
+    "record": "articles/v1/00/yc-circuitlab/2021/01/c4/c46e432976cf6caf9776bdf6d5e65c516c58c10a769dabeb42c2bc4fde726295/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6577,
+    "sha256": "sha256:e5b355584f1d71b136704da6a563737a2a209973fa1f0d9a5c13493e87f807e0",
+    "normalized_content_hash": "sha256:a6e2c67355f7a0f0b6f7feb00dfa3b18611792f5b6330a7f2fdc9d60bc38030b"
+  },
+  "provenance": {
+    "source_item_id": "523f8558-d0f5-44ae-8ea7-e454ad9dc0ee",
+    "external_id": "https://www.circuitlab.com/blog/2021/01/04/extended-numerical-precision-for-parameter-sweeps/"
+  }
+}

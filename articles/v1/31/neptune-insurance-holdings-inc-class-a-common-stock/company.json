@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "neptune-insurance-holdings-inc-class-a-common-stock",
+    "name": "Neptune Insurance Holdings Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2026-04-30T12:58:41+00:00",
+  "last_published_at": "2026-07-23T12:31:39+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/31/neptune-insurance-holdings-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 15727,
+        "sha256": "sha256:f836363194e42c78b9dc345ec690ae69b2498ce59e52fced7cc9439f6042fa6b",
+        "newest_at": "2026-07-23T12:31:39+00:00",
+        "oldest_at": "2026-04-30T12:58:41+00:00"
+      }
+    ]
+  }
+}

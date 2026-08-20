@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97ffd9f044c21c7b5d9f5292f659e624344319cd530231ef0f842aada6f92fad",
+  "company": {
+    "key": "yc-metoro",
+    "name": "Metoro"
+  },
+  "source": {
+    "id": "yc-metoro-news-import-a8c8033caa18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metoro.io/blog/distributed-tracing-whistle-stop-tour",
+    "canonical": "https://metoro.io/blog/distributed-tracing-whistle-stop-tour"
+  },
+  "title": "Distributed Tracing: A Whistle Stop Tour",
+  "summary": "Know enough to be dangerous in 10 minutes",
+  "published_at": "2024-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:54.672278+00:00",
+  "fetched_at": "2026-07-28T22:26:08.375343+00:00",
+  "last_updated_at": "2026-07-28T22:26:29.717322+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-metoro/2024/03/97/97ffd9f044c21c7b5d9f5292f659e624344319cd530231ef0f842aada6f92fad/article.md",
+    "record": "articles/v1/12/yc-metoro/2024/03/97/97ffd9f044c21c7b5d9f5292f659e624344319cd530231ef0f842aada6f92fad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15389,
+    "sha256": "sha256:3089d4f880c041ebfcced38fa9fc94cd07f46ab4b7288d1ae7fd236a9cbebc67",
+    "normalized_content_hash": "sha256:b0ddf5eaa7407ce15724ed1fc0c89b54ad9c00342334c8a8f14045ec09c1a856"
+  },
+  "provenance": {
+    "source_item_id": "25e4749d-cae3-49a0-8bca-bca0612cc6d9",
+    "external_id": "https://metoro.io/blog/distributed-tracing-whistle-stop-tour"
+  }
+}

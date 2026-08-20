@@ -1,0 +1,773 @@
+---
+schema_version: "1.0.0"
+document_id: "24c379e13b18c336849e10b621308bc1fee199b8127c08d634faa3ba7dd63878"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/guides/nodejs-logging"
+published_at: "2026-06-18T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T20:48:41.890548+00:00"
+content_hash: "sha256:15861130403ed8dad058580c1be12d801c70c011faf4d98ba942976cd1debcef"
+---
+
+# Node.js Logging - Fundamentals, Best Practices, and Common Tools
+
+# Node.js Logging - Fundamentals, Best Practices, and Common Tools
+
+
+Published on: April 06, 2026
+
+
+Last Updated: June 18, 2026
+
+
+21 min read
+
+
+Node.js logging is the process of recording messages from your application during runtime, such as errors, warnings, informational messages, and debug details, so that you can understand what is happening inside your application.
+
+
+Logging starts with the built-in` console` module, but as applications grow you typically move to a logging library that adds structure, severity levels, timestamps, and the ability to send logs to files, external services, or stdout for container environments. This guide walks through all of that with code examples.
+
+
+## How logging works in Node.js?
+
+
+At the simplest level, your code writes a message and Node sends it to stdout or stderr. Logging libraries add structure on top of that: levels, timestamps, formatting, and transports.
+
+
+### Built-in Console Module
+
+
+Every Node.js program has a global` console` object available without importing anything. It is the easy way to see what your code is doing, and it writes directly in terminal. The most common method is` console.log()` . You pass it a value (a string, a number, an object) and it prints to the terminal's standard output (` stdout` ). It is commonly use during development to check variable values, confirm a function ran, or trace what's happening. However, when working with error and warnings, you use` console.error()` or` console.warn()` , which write to a different stream called standard error (` stderr` ).
+
+
+In production, many systems route` stdout` and` stderr` to different destinations. Normal logs go to one file, errors to another. So even though the output looks identical during development, using the right method means your logs are properly separated when it counts.
+
+
+index.js
+
+
+```text
+console  .  log  (  'Server is running'  )  ;
+console  .  log  (  'User:'  ,    {    name  :    'olly'  ,    age  :    21    }  )  ;
+console  .  error  (  'Database connection failed'  )  ;
+console  .  warn  (  'Warning: System idle for more than 5 min'  )  ;
+
+
+```
+
+
+output
+
+
+```text
+Server is running
+User:  {   name:  'olly'  , age:  21    }
+Database connection failed
+Warning: System idle  for    more   than  5   min
+
+
+```
+
+
+Between` log` ,` warn` , and` error` , you cover most everyday needs. You can explore additional methods in the official[Node.js console module documentation](https://nodejs.org/api/console.html) .
+
+
+### Top Node.js Logging Libraries
+
+
+Once you move beyond local debugging, console stops being enough. You usually want log levels, structured output, and a way to send logs somewhere besides the terminal. In Node.js, the libraries people reach for most often are Winston, Pino, and Bunyan.
+
+
+### Winston
+
+
+It is one of the most popular logging library in the Node.js ecosystem. It offers a flexible transport system that lets you send logs to multiple destinations simultaneously, like the console, files, HTTP endpoints, or third-party services. Winston also supports custom log levels, multiple output formats, and built-in log rotation through community transports. For a hands-on setup guide, see[Winston Logger in Node.js](https://signoz.io/blog/winston-logger/) .
+
+
+### Pino
+
+
+Pino takes a performance-first approach. It outputs newline-delimited JSON and offloads any formatting or prettifying to a separate process, which keeps the main event loop fast. In[benchmarks](https://getpino.io/#/docs/benchmarks) , Pino consistently outperforms Winston and Bunyan in throughput, making it a strong choice for high-traffic applications where logging overhead matters. It pairs with a companion tool called` pino-pretty` for human-readable output during development. For a walkthrough on getting started, see[Pino Logger in Node.js](https://signoz.io/guides/pino-logger-nodejs-logging-library/) .
+
+
+### Bunyan
+
+
+Bunyan also outputs structured JSON logs by default and comes with a built-in CLI tool for filtering and viewing logs in a readable format. It was one of the first Node.js libraries to push[structured logging](https://signoz.io/blog/structured-logs/) as the default, and it supports child loggers that inherit context from a parent, which is useful for tracing a request across multiple functions. Development on Bunyan has slowed compared to Winston and Pino, but it remains a stable option for teams already using it. For more details, see[Bunyan Logger in Node.js](https://signoz.io/blog/bunyan-logger-nodejs-logging-library/) .
+
+
+## Log Levels in Node.js
+
+
+Log levels are severity indicators (e.g., INFO, ERROR, DEBUG) used to categorize the log events and control how much detail your application emits. Each level represents a priority, and you set a threshold that determines which messages actually get recorded.
+
+
+The standard levels, from highest to lowest severity, are:
+
+
+- ` fatal` means the application cannot continue. A missing config file at startup or an unrecoverable memory error falls here.
+- ` error` means something failed and needs attention, but the application is still running. A failed API call, a database query that threw an exception, or a payment that couldn't be processed all belong at this level.
+- ` warn` means something unexpected happened that isn't a failure yet. Maybe a deprecated function was called, a retry was needed, or a response took longer than expected.
+- ` info` covers normal operational events you want to see in production. Server started, user logged in, background job completed.
+- ` debug` is for detailed information useful during development, like variable values, function entry/exit, or intermediate computation results.
+- ` trace` is the most verbose level, usually reserved for very fine-grained diagnostics like logging every incoming HTTP header or every database query parameter.
+
+
+Not every library uses all six. Winston, for example, defaults to` error` ,` warn` ,` info` ,` http` ,` verbose` ,` debug` , and` silly` , while Pino follows the list above. The hierarchy works the same way regardless: you pick a minimum level, and only messages at that level or above get through.
+
+
+index.js
+
+
+```text
+const   pino  =    require  (  'pino'  )  ;
+
+
+const   logger  =    pino  (  {    level  :    'info'    }  )  ;
+
+
+logger .  info  (  'User signed in'  ,    {    userId  :    42    }  )  ;       // ✅ appears
+logger .  debug  (  'Checking session cache'  ,    {    key  :    'abc'    }  )  ;    // ❌ filtered out
+logger .  error  (  'Redis connection lost'  ,    {    host  :    '10.0.0.5'    }  )  ;    // ✅ appears
+
+
+```
+
+
+In this example, the threshold is set to` info` , so` debug` and` trace` messages are silently dropped. Change it to` debug` during development, and those messages start flowing again.
+
+
+A common pattern is to control the level through an environment variable, so you can increase verbosity in staging or during an incident without redeploying.
+
+
+```text
+const   logger  =    pino  (  {
+level  :   process .  env  .  LOG_LEVEL    ||    'info'
+}  )  ;
+
+
+```
+
+
+With this setup, running` LOG_LEVEL=debug node app.js` gives you full detail, while production defaults to` info` and keeps the output focused on what actually matters. Use` error` for failures that need attention,` warn` for abnormal but non-fatal conditions, and` info` for normal operational events. Use` debug` and` trace` only when you need more detail.
+
+
+## Structured Logging in Node.js
+
+
+Plain string logs are easy to read in a terminal, but hard to search at scale. Structured logging fixes that by writing each entry as a JSON object with named fields. Each log entry becomes a data object with fields you can query programmatically.
+
+
+Compare these two approaches for the same event:
+
+
+```text
+// Unstructured
+User  42   signed  in   from  192.168  .1.10  in   230ms
+
+
+// Structured  (  JSON )
+{
+"level"  :  "info"  ,
+"msg"  :  "User signed in"  ,
+"userId"  :42,
+"ip"  :  "192.168.1.10"  ,
+"responseTime"  :230,
+"timestamp"  :  "2024-01-15T10:30:00.000Z"
+}
+
+
+```
+
+
+The unstructured version is easy to read with your eyes, but extracting the user ID or filtering by response time means writing regex or doing string splitting. The structured version is harder to scan visually, but any[log management tool](https://signoz.io/blog/best-open-source-log-management-tools/) can index those fields and let you query them instantly. Something like "show me all requests where` responseTime > 500` and` userId = 42` " becomes a simple filter instead of a text search.
+
+
+Both Pino and Winston output structured JSON by default or with minimal configuration.
+
+
+Example 1
+
+
+pino.js
+
+
+```text
+// Pino outputs JSON by default
+const   pino  =    require  (  'pino'  )  ;
+const   logger  =    pino  (  )  ;
+
+
+logger .  info  (  {    userId  :    42  ,    action  :    'login'  ,    ip  :    '192.168.1.10'    }  ,    'User signed in'  )  ;
+
+
+```
+
+
+Output
+
+
+```text
+{  "level"  :30, "time"  :1775360773980, "pid"  :13753, "hostname"  :  "Saurabhs-MacBook-Pro.local"  , "userId"  :42, "action"  :  "login"  , "ip"  :  "192.168.1.10"  , "msg"  :  "User signed in"  }
+
+
+```
+
+
+Example 2
+
+
+winston.js
+
+
+```text
+// Winston needs a format specified
+const   winston  =    require  (  'winston'  )  ;
+
+
+const   logger  =   winston .  createLogger  (  {
+level  :    'info'  ,
+format  :   winston .  format  .  json  (  )  ,
+transports  :    [  new    winston .  transports .  Console  (  )  ]
+}  )  ;
+
+
+logger .  info  (  'User signed in'  ,    {    userId  :    42  ,    action  :    'login'  ,    ip  :    '192.168.1.10'    }  )  ;
+
+
+```
+
+
+Output
+
+
+```text
+{  "action"  :  "login"  , "ip"  :  "192.168.1.10"  , "level"  :  "info"  , "message"  :  "User signed in"  , "userId"  :42 }
+
+
+```
+
+
+One practical pattern worth adopting early is adding consistent context to every log entry. Fields like` service` ,` environment` , and` requestId` make it possible to trace a single request across multiple services and separate staging logs from production logs without guessing. For example:
+
+
+```text
+const   logger  =    pino  (  {
+level  :   process .  env  .  LOG_LEVEL    ||    'info'  ,
+base  :    {
+service  :    'payment-api'  ,
+env  :   process .  env  .  NODE_ENV
+}
+}  )  ;
+
+
+```
+
+
+Every log entry from this logger will include` service` and` env` automatically, so you never have to remember to add them manually.
+
+
+The tradeoff of structured logging is readability during local development. Raw JSON in your terminal looks noisy, this can be solved with[pino-pretty](https://signoz.io/guides/pino-logger-nodejs-logging-library/#printing-logs-for-development) , a separate transport you use only in development.
+
+
+```text
+# Install as a dev dependency
+npm    install    -D   pino-pretty
+
+
+# Pipe your app output through it
+node   winston.js  |   pino-pretty
+
+
+```
+
+
+This gives you colorized, human-friendly output locally while keeping production logs as clean, parseable JSON. For a deeper walkthrough on setting up structured logging with Pino, see[Pino Logger in Node.js](https://signoz.io/guides/pino-logger-nodejs-logging-library/#quickstart-how-to-set-up-and-use-pino-logger) .
+
+
+## Error Logging in Node.js
+
+
+Error logs should tell you what failed, where it failed, and what the application was doing at the time. Error logging in Node.js boils down to catching errors at various levels and writing them somewhere useful (console, file, or an external service). Here's how it works in practice:
+
+
+-
+
+
+**` console.error`** : Every Node.js process has` stderr` , and` console.error()` writes to it. This is the simplest form of error logging.
+
+
+```text
+try    {
+const   data  =    JSON  .  parse  (  badInput )  ;
+}    catch    (  err )    {
+console  .  error  (  'Failed to parse input:'  ,   err .  message  )  ;
+}
+
+
+```
+
+
+This works for local development but falls apart in production because` stderr` output disappears unless you're piping it somewhere.
+
+
+-
+
+
+**` uncaughtException`** : Triggered when an error is thrown outside of any try/catch. By the time this fires, your application is in an unpredictable state, so the standard practice is to log the error and exit the process. Let your process manager (PM2, Docker, Kubernetes) restart it.
+
+
+```text
+process .  on  (  'uncaughtException'  ,    (  err  )    =>    {
+logger .  fatal  (  {   err  }  ,    'Uncaught exception, shutting down'  )  ;
+process .  exit  (  1  )  ;
+}  )  ;
+
+
+```
+
+
+-
+
+
+**` unhandledRejection`** : Triggered when a Promise rejects and nothing catches it. Since Node.js v15, unhandled rejections are treated as fatal errors. If they occur, Node.js will log the error and terminate the process with a non-zero exit code (crash).
+
+
+```text
+process .  on  (  'unhandledRejection'  ,    (  reason ,   promise  )    =>    {
+logger .  error  (  {    err  :   reason  }  ,    'Unhandled promise rejection'  )  ;
+}  )  ;
+
+
+```
+
+
+These handlers catch failures that are easy to miss during normal request-level error handling. One more thing to keep in check while logging error is the context of the error log. An error log that says "Database query failed" is much less useful than one that includes the query name, the input parameters (minus any sensitive data), and the user or request that triggered it. Whenever you log an error, ask yourself what you'd need to reproduce the problem, and include those fields.
+
+
+## HTTP Request Logging in Node.js
+
+
+Every HTTP request that hits your application should leave a log entry behind. This gives you visibility into traffic patterns, slow endpoints, error rates, and individual request failures without needing to reproduce anything.
+
+
+-
+
+
+**Basic Logging**
+
+
+The simplest way to log HTTP requests is` console.log` inside a request handler. No dependencies, no setup.
+
+
+```text
+const   http  =    require  (  'http'  )  ;
+
+
+const   server  =   http .  createServer  (  (  req ,   res  )    =>    {
+console  .  log  (  `  ${  new    Date  (  )  .  toISOString  (  )  }      ${  req .  method  }      ${  req .  url  }   `   )  ;
+res .  writeHead  (  200  ,    {    'Content-Type'  :    'text/plain'    }  )  ;
+res .  end  (  'OK'  )  ;
+}  )  ;
+
+
+server .  listen  (  3000  )  ;
+
+
+```
+
+
+Every request prints a timestamped line like` 2025-04-05T10:22:01.003Z GET /api/users` . This works fine for local debugging, but` console.log` writes to` stdout` with no log levels, no rotation, and no structured output. Once you move past a single-file project, you will need something more intentional.
+
+
+-
+
+
+**Morgan Logger**
+
+
+Morgan is an HTTP request logging middleware for Express. It hooks into the request/response lifecycle and logs a formatted line for each request after the response finishes. It ships with five built-in formats (combined, common, dev, short, tiny), supports writing to files via streams, and can run multiple instances in parallel (one for console, one for file output).
+
+
+For a detailed walkthrough of Morgan setup, formats, and file rotation, see[Morgan Logger - A Beginner's Guide](https://signoz.io/blog/morgan-logger/) .
+
+
+When Morgan's format strings aren't enough and you don't want a full logging library, writing your own middleware gives you direct control over what gets logged.
+
+
+httpLogger.js
+
+
+```text
+// middleware/
+function    httpLogger  (  req ,   res ,   next  )    {
+const   start  =   process .  hrtime  .  bigint  (  )  ;    // nanosecond precision
+
+
+res .  on  (  'finish'  ,    (  )    =>    {
+const   durationMs  =    Number  (  process .  hrtime  .  bigint  (  )    -   start )    /    1e6  ;
+
+
+const   logEntry  =    {
+timestamp  :    new    Date  (  )  .  toISOString  (  )  ,
+method  :   req .  method  ,
+url  :   req .  originalUrl  ,
+status  :   res .  statusCode  ,
+contentLength  :   res .  get  (  'Content-Length'  )    ||    0  ,
+responseTime  :    `  ${  durationMs .  toFixed  (  2  )  }   ms  `   ,
+userAgent  :   req .  get  (  'User-Agent'  )  ,
+}  ;
+
+
+console  .  log  (  JSON  .  stringify  (  logEntry )  )  ;
+}  )  ;
+
+
+next  (  )  ;
+}
+
+
+module .  exports    =   httpLogger ;
+
+
+```
+
+
+app.js
+
+
+```text
+const   express  =    require  (  'express'  )  ;
+const   httpLogger  =    require  (  './middleware/httpLogger'  )  ;
+
+
+const   app  =    express  (  )  ;
+app .  use  (  httpLogger )  ;
+
+
+```
+
+
+The` finish` event fires after the last byte of the response is handed off to the OS, so the duration measurement covers the full request lifecycle. Using` process.hrtime.bigint()` instead of` Date.now()` avoids issues with clock drift and gives sub-millisecond accuracy.
+
+
+You can extend this pattern to skip noisy health-check endpoints, attach request IDs via` crypto.randomUUID()` , or conditionally increase log detail for failed requests (status >= 400). Since it's just a function, you can also swap` console.log` for any logger instance without changing the middleware structure.
+
+
+## Framework specific Logging in Node.js
+
+
+Most Node.js frameworks come with their own logging mechanisms or integrate tightly with specific logging libraries. Here's how it works across the major ones.
+
+
+**Express**
+
+
+Express doesn't ship with a built-in logger. Most teams use` morgan` for HTTP request logging and pair it with` winston` or` pino` for application-level logs.
+
+
+app.js
+
+
+```text
+const   express  =    require  (  'express'  )  ;
+const   morgan  =    require  (  'morgan'  )  ;
+const   pino  =    require  (  'pino'  )  ;
+
+
+const   logger  =    pino  (  {    level  :    'info'    }  )  ;
+const   app  =    express  (  )  ;
+
+
+// morgan logs every incoming HTTP request (method, URL, status, response time)
+app .  use  (  morgan  (  'combined'  )  )  ;
+
+
+app .  get  (  '/users'  ,    (  req ,   res  )    =>    {
+logger .  info  (  {    userId  :   req .  query  .  id    }  ,    'Fetching user'  )  ;
+// ...
+}  )  ;
+
+
+```
+
+
+` morgan` hooks into Express's middleware pipeline, so it automatically captures request metadata. Your application logger (` pino` ,` winston` , etc.) handles everything else, like business logic events and errors.
+
+
+**NestJS**
+
+
+NestJS has a built-in` Logger` class that works out of the box. Every module, controller, and service can create its own named logger instance.
+
+
+users.service.ts
+
+
+```text
+import    {    Injectable  ,    Logger    }     from    '@nestjs/common'  ;
+
+
+@ Injectable   (  )
+export    class    UsersService    {
+// The string 'UsersService' becomes the "context" label in log output
+private   readonly logger  =    new    Logger  (  UsersService  .  name  )  ;
+
+
+findOne  (  id  :   string  )    {
+this  .  logger  .  log  (  `  Looking up user   ${  id }   `   )  ;
+this  .  logger  .  warn  (  `  User   ${  id }    has deprecated fields  `   )  ;
+this  .  logger  .  error  (  `  User   ${  id }    not found  `   )  ;
+}
+}
+
+
+```
+
+
+You can swap the underlying implementation (say, to` pino` or` winston` ) by providing a custom logger in` main.ts` with` app.useLogger(myCustomLogger)` . The rest of your code stays the same because it talks to the` Logger` abstraction.
+
+
+**Fastify**
+
+
+Fastify has` pino` integrated at the framework level, every request automatically gets a unique` reqId` in its logs. You don't have to wire up correlation IDs yourself.
+
+
+```text
+const   fastify  =    require  (  'fastify'  )  (  {
+logger  :    true    // enables pino with sensible defaults
+}  )  ;
+
+
+fastify .  get  (  '/health'  ,    async    (  request ,   reply  )    =>    {
+// each request object carries its own child logger
+// with a unique request ID already attached
+request .  log  .  info  (  'Health check hit'  )  ;
+return    {    status  :    'ok'    }  ;
+}  )  ;
+
+
+```
+
+
+Across all these frameworks, the core idea is the same. A logging library (usually` pino` or` winston` ) gets wired into the framework's request lifecycle through middleware or a built-in integration. This gives you two things: automatic HTTP request/response logging, and a logger instance you can use anywhere in your application code. Some frameworks like Fastify and NestJS do this wiring for you, while Express and Koa leave it up to you to set up.
+
+
+The main decision is whether you want structured JSON logs (` pino` ,` winston` with JSON transport) or human-readable logs (` morgan` ,` console.log` ). For anything beyond local development, structured JSON is the way to go because log aggregation tools can parse and query it.
+
+
+## Centralized Log Management
+
+
+Once your application runs across multiple servers, containers, or services, reading logs from individual machines stops being practical. If a user reports a failed checkout and your application spans three services, you'd need to SSH into each server, find the right log file, and manually correlate entries by timestamp.[Centralized log management](https://signoz.io/blog/centralized-logging/) solves this by collecting logs from all sources into a single searchable system.
+
+
+You can centralize your logging by using[OpenTelemetry (OTel)](https://signoz.io/opentelemetry/) as the collection and transport layer. OpenTelemetry can export logs from supported Node.js loggers over the OTLP protocol. Depending on your logger setup, you may be able to export logs with minimal code changes. The main work is usually in SDK setup and environment configuration.
+
+
+[SigNoz](https://signoz.io/) is one such backend. It's an all in one observability platform that accepts logs, traces, and metrics through OTLP and stores all telemetry data in columnar database which you can access via[SigNoz Cloud](https://signoz.io/teams/) .
+
+
+The setup for a Node.js app looks like this:
+
+
+```text
+npm    install    --save   @opentelemetry/api @opentelemetry/auto-instrumentations-node
+
+
+```
+
+
+Then start your app with the right environment variables:
+
+
+```text
+# For SigNoz Cloud
+export    OTEL_EXPORTER_OTLP_ENDPOINT  =  "https://ingest.<region>.signoz.cloud:443"
+export    OTEL_EXPORTER_OTLP_HEADERS  =  "signoz-ingestion-key=<your-ingestion-key>"
+export    OTEL_SERVICE_NAME  =  "your-service-name"
+export    OTEL_NODE_RESOURCE_DETECTORS  =  "env,host,os"
+export    NODE_OPTIONS  =  "--require @opentelemetry/auto-instrumentations-node/register"
+
+
+node   index.js
+
+
+```
+
+
+Once logs are flowing into a central backend, the next thing you want is to connect them to the requests that produced them. This is where OpenTelemetry's auto-instrumentation pays off again. When trace context is active and your logger/bridge supports correlation, OpenTelemetry can attach` traceId` and` spanId` to log records.
+
+
+In SigNoz, you can go to the Traces tab, filter by` service.name` , click into any slow or errored trace, and see every log line that was emitted during that request. You can also go the other direction: click a log entry in the Logs Explorer and jump straight to its parent trace. This back-and-forth between logs and traces is especially useful when debugging failures in async workflows that fan out across multiple services.
+
+
+*SigNoz trace flamegraph showing a 502 error*
+
+
+*SigNoz Related Signals panel showing correlated logs*
+
+
+For detailed setup instructions specific to each logging library, see[Send Winston Logs to SigNoz](https://signoz.io/docs/logs-management/send-logs/nodejs-winston-logs/) ,[Send Pino Logs to SigNoz](https://signoz.io/docs/logs-management/send-logs/nodejs-pino-logs/) , or[Send Console Logs to SigNoz](https://signoz.io/docs/logs-management/send-logs/nodejs-logs/) .
+
+
+## Logging Best Practices in Node.js
+
+
+Everything covered in this guide so far builds toward a set of practical habits that keep your logs useful as your application grows. These aren't abstract principles. They come from real production experience where missing or noisy logs made incidents harder than they needed to be.
+
+
+**Start with JSON output**
+
+
+Plain text logs feel easier during development, but the moment you need to search across thousands of entries, JSON fields beat regex every time. Set up Pino or Winston with JSON output on day one and use` pino-pretty` locally so you don't sacrifice readability.
+
+
+**Make log levels meaningful**
+
+
+Reserve` error` for things that need human attention,` warn` for things that might become problems, and` info` for normal operations you'd want during an incident review. If your application logs 500` error` entries per hour under normal load, the level has lost its meaning and your team will start ignoring alerts.
+
+
+**Bind context to every request**
+
+
+A log that says "Request failed" tells you nothing. One that includes` requestId` ,` userId` ,` route` , and the error message lets you reconstruct what happened in minutes. Use` logger.child()` to bind request-scoped fields automatically instead of repeating them in every call.
+
+
+```text
+// Good: context attached once, inherited by all subsequent logs
+const   log  =   logger .  child  (  {    requestId  :   req .  id  ,    userId  :   req .  user  ?.  id  }  )  ;
+log .  info  (  'Processing order'  )  ;
+log .  error  (  {   err  }  ,    'Order failed'  )  ;
+
+
+// Bad: context missing or manually repeated
+logger .  info  (  'Processing order'  )  ;
+logger .  error  (  'Order failed'  )  ;
+
+
+```
+
+
+**Strip sensitive data early**
+
+
+Passwords, tokens, credit card numbers, and personally identifiable information should never appear in logs. Log user IDs instead of email addresses. Log the shape of a request body (field names, array lengths) instead of the raw values. Once sensitive data enters your logging pipeline, it spreads to every system that consumes those logs.
+
+
+**Separate messages from data**
+
+
+Use static strings for the message field and put variable data in separate fields. This makes it possible to group and count occurrences of the same event.
+
+
+```text
+// Good: static message, variable data in fields
+logger .  info  (  {   orderId ,   total ,   itemCount  }  ,    'Order placed'  )  ;
+
+
+// Bad: variable data baked into the message string
+logger .  info  (  `  Order   ${  orderId }    placed for $  ${  total }    with   ${  itemCount }    items  `   )  ;
+
+
+```
+
+
+The first version lets you query "how many 'Order placed' events happened today?" with a simple filter. The second version requires pattern matching because every message is unique.
+
+
+**Default to` info` ,` debug` on demand**
+
+
+Set the default level to` info` and drop to` debug` only when investigating an issue. High-throughput applications can generate gigabytes of logs per hour at` debug` level, which increases storage costs and makes searching slower. Use the` LOG_LEVEL` environment variable pattern so you can adjust verbosity without redeploying.
+
+
+**Log summaries, not iterations**
+
+
+A function that processes 10,000 items and logs each one creates 10,000 entries that are almost identical. Log a summary after the loop instead.
+
+
+```text
+// Bad: 10,000 nearly identical log entries
+for    (  const   item  of   items )    {
+logger .  debug  (  {    itemId  :   item .  id    }  ,    'Processing item'  )  ;
+await    process  (  item )  ;
+}
+
+
+// Good: one useful summary
+const   results  =    await    Promise  .  allSettled  (  items .  map  (  process )  )  ;
+const   failed  =   results .  filter  (  r    =>   r .  status    ===    'rejected'  )  ;
+logger .  info  (  {    total  :   items .  length  ,    failed  :   failed .  length    }  ,    'Batch processing complete'  )  ;
+
+
+```
+
+
+**Write to stdout, route externally**
+
+
+In containerized environments, Docker and Kubernetes capture stdout automatically. Writing to files means managing rotation, disk space, and file permissions inside your container, which adds complexity for no benefit. Your collector (Fluentd, OpenTelemetry Collector) picks up stdout and ships it to your backend.
+
+
+**Let the library handle timestamps**
+
+
+Both Pino and Winston add timestamps automatically. Don't format them yourself or use` Date.now()` in log messages. Pino uses epoch milliseconds by default, which is the most efficient for parsing. If you need ISO strings for human readability, configure the library's timestamp option rather than adding a custom field.
+
+
+**Verify logs before production**
+
+
+Deploy to staging, trigger the workflows you care about, and verify that the logs contain enough context to debug a failure without access to the source code. If you find yourself thinking "I wish this log included the user's plan type" or "I can't tell which database query failed," add those fields before the code reaches production.
+
+
+## Conclusion
+
+
+The main decision is simple: use a real logger, emit structured logs, and make sure those logs end up somewhere you can search during an incident. The rest depends on your stack and how much control you need.
+
+
+## FAQs
+
+
+### What is the best logging library for Node.js?
+
+
+Pino is a strong default for many applications because it emits structured JSON with low overhead. Winston is a solid alternative if you need more flexibility in transports and formatting. The right pick depends on whether you prioritize performance (Pino) or configurability (Winston).
+
+
+### Should I use console.log in production?
+
+
+No.` console.log` has no log levels, no structured output, and no way to route logs to external systems. It works fine during local development, but production applications should use a library like Pino or Winston that gives you severity filtering, JSON formatting, and configurable destinations.
+
+
+### What log level should I use in production?
+
+
+Set your default to` info` . This captures normal operational events and everything above (warnings, errors, fatal). Switch to` debug` temporarily when investigating an issue by changing the` LOG_LEVEL` environment variable, then switch back once the investigation is done.
+
+
+### How do I avoid logging sensitive data?
+
+
+Log user IDs instead of emails or names. Log the shape of request bodies (field names, array lengths) instead of raw values. Never log passwords, API keys, tokens, or credit card numbers. Review your log output in staging before deploying to production to catch any fields that shouldn't be there.
+
+
+### What is structured logging and why does it matter?
+
+
+Structured logging means writing log entries as JSON objects with named fields instead of plain text strings. It matters because log management tools can index and query JSON fields directly. Filtering for all errors where` responseTime > 2000` and` service = payment-api` is instant with structured logs and nearly impossible with plain text.
+
+
+### How do I correlate logs across multiple services?
+
+
+Generate a unique` requestId` at the entry point of your system (API gateway or first service) and pass it downstream through HTTP headers like` x-request-id` . Each service reads that header, attaches it to every log entry using` logger.child()` , and forwards it to the next service. In your log management tool, filtering by that single ID shows the full request path across all services.

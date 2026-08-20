@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pluri-inc-common-stock",
+    "name": "Pluri Inc."
+  },
+  "record_count": 15,
+  "first_published_at": "2021-06-29T12:36:54+00:00",
+  "last_published_at": "2026-06-14T10:57:30+00:00",
+  "partitions": [
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/12/pluri-inc-common-stock/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 18456,
+        "sha256": "sha256:9356ce3bb029eb4d0f39d57b21e930239c6bbe39d0ed9c1263ff76400dba5a51",
+        "newest_at": "2026-06-14T10:57:30+00:00",
+        "oldest_at": "2021-06-29T12:36:54+00:00"
+      }
+    ]
+  }
+}

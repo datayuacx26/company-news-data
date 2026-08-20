@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d10d72cb8c2a024b80f0f599aa9a470514f5ac6577efb9eb8d144ead6437a9e",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/journey-to-a-hybrid-multi-cloud",
+    "canonical": "https://tech.target.com/blog/journey-to-a-hybrid-multi-cloud"
+  },
+  "title": "The Journey to a Hybrid-Multi-Cloud",
+  "summary": "An article by Hari Govind : Target's cloud journey started about a decade ago. First there was Amazon Web Services (AWS). Followed by IBM Cloud. Then Google Cloud Platform (GCP). We have since expanded to a Hybrid-Multi-Cloud architecture with GCP and Microsoft Azure.",
+  "published_at": "2022-02-17T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/02/1d/1d10d72cb8c2a024b80f0f599aa9a470514f5ac6577efb9eb8d144ead6437a9e/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/02/1d/1d10d72cb8c2a024b80f0f599aa9a470514f5ac6577efb9eb8d144ead6437a9e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7938,
+    "sha256": "sha256:372d528078e5998c686ff1c6ca7fc8549187b5a427e61e444589eccaa7fd0811",
+    "normalized_content_hash": "sha256:781222b8d176bd2c7e0b3acf06cfd46f9648a3d1268b50580855a0be35ac7527"
+  },
+  "provenance": {
+    "source_item_id": "b8d84a3c-3168-4a45-b041-319ddf522c64",
+    "external_id": "BLOG-10020"
+  }
+}

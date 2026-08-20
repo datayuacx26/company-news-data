@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ada233dc6ec0eb528ff7c7b399b4a32fc340096be14f8b959d619014af8cd237",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/integrating-legacy-systems-no-api-playbook",
+    "canonical": "https://www.integuru.com/blog/integrating-legacy-systems-no-api-playbook"
+  },
+  "title": "Integrating with Legacy Systems That Have No API: A Practical Playbook",
+  "summary": "Government portals and legacy enterprise systems have web interfaces that work; they just were never built for programmatic access. This playbook covers why these systems lack public APIs, why RPA fails on them, and how HTTP-native integration gives te...",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:10:38.353575+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-11T07:19:50.453725+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/ad/ada233dc6ec0eb528ff7c7b399b4a32fc340096be14f8b959d619014af8cd237/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/ad/ada233dc6ec0eb528ff7c7b399b4a32fc340096be14f8b959d619014af8cd237/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13775,
+    "sha256": "sha256:bb32c9228c0047d53724ef845ec8cd45bd650440609b6071057762ce1e85d651",
+    "normalized_content_hash": "sha256:25fb601978722cfe80475e22df16a676f593fba75b6052faa244f85ee7faeba1"
+  },
+  "provenance": {
+    "source_item_id": "3621be99-f2a6-45e1-a7aa-635958cc159c",
+    "external_id": "https://www.integuru.com/blog/integrating-legacy-systems-no-api-playbook"
+  }
+}

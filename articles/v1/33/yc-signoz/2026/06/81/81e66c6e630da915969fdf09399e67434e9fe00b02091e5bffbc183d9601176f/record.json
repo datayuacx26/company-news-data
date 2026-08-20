@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81e66c6e630da915969fdf09399e67434e9fe00b02091e5bffbc183d9601176f",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/golang-log",
+    "canonical": "https://signoz.io/guides/golang-log"
+  },
+  "title": "Go Logging: Standard Library, slog, Logrus, Zap, and Best Practices",
+  "summary": "Learn Go logging with the standard log package, slog, Logrus, Zap, Zerolog, best practices, and monitoring with SigNoz.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:48:41.890548+00:00",
+  "last_updated_at": "2026-07-28T20:48:56.582868+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/81/81e66c6e630da915969fdf09399e67434e9fe00b02091e5bffbc183d9601176f/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/81/81e66c6e630da915969fdf09399e67434e9fe00b02091e5bffbc183d9601176f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 45927,
+    "sha256": "sha256:f44b9d42dee3ab30d9ecbd9058b299e54ae2aeeecad212d4c8227b77c8518c39",
+    "normalized_content_hash": "sha256:a182e3702726be8a00e5f89ccf30fe012a204173769c8cb0a27c0e715dcdca75"
+  },
+  "provenance": {
+    "source_item_id": "33987a98-3870-4ff7-8130-194b61dfb81b",
+    "external_id": "https://signoz.io/guides/golang-log"
+  }
+}

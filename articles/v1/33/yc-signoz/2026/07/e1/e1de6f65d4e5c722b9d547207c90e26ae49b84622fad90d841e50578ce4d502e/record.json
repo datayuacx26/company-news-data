@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e1de6f65d4e5c722b9d547207c90e26ae49b84622fad90d841e50578ce4d502e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/distributed-tracing-jaeger",
+    "canonical": "https://signoz.io/blog/distributed-tracing-jaeger"
+  },
+  "title": "Jaeger distributed tracing - complete guide",
+  "summary": "Distributed tracing with Jaeger: set up Jaeger for OpenTelemetry traces, understand Jaeger v2 on the OTel Collector, and when an OTLP-native backend fits.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.160392+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/e1/e1de6f65d4e5c722b9d547207c90e26ae49b84622fad90d841e50578ce4d502e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/e1/e1de6f65d4e5c722b9d547207c90e26ae49b84622fad90d841e50578ce4d502e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12473,
+    "sha256": "sha256:c063e16dc94c490565c4bbc4f6c9ec36138e927fb2c205de794f47dc7da14446",
+    "normalized_content_hash": "sha256:99f1aadf8a2eded60330e062658db0729002839ea1d615942ffff97a46c7e682"
+  },
+  "provenance": {
+    "source_item_id": "aaabe716-5fe8-428c-b591-66626c1d51da",
+    "external_id": "https://signoz.io/blog/distributed-tracing-jaeger"
+  }
+}

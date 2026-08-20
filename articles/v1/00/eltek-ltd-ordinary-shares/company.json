@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "eltek-ltd-ordinary-shares",
+    "name": "Eltek Ltd."
+  },
+  "record_count": 11,
+  "first_published_at": "2024-11-19T14:43:23+00:00",
+  "last_published_at": "2026-08-18T13:25:46+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/00/eltek-ltd-ordinary-shares/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11974,
+        "sha256": "sha256:4e2306fd9d56c3b2a068e84caf346f761eb7aa71acbf97ed8a527cfc32a7a62f",
+        "newest_at": "2026-08-18T13:25:46+00:00",
+        "oldest_at": "2024-11-19T14:43:23+00:00"
+      }
+    ]
+  }
+}

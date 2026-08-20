@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "167d86a38932b0f2bc8f9d6608c49a9bf51ec93fbee13cbd9dc6bdafc211e215",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/v3-announcement",
+    "canonical": "https://trigger.dev/blog/v3-announcement"
+  },
+  "title": "Trigger.dev v3: Durable Serverless functions. No timeouts.",
+  "summary": "Write regular code and get durability with no timeouts. This means writing long-running tasks is far easier than before.",
+  "published_at": "2026-07-23T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:13:09.827889+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.489752+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2026/07/16/167d86a38932b0f2bc8f9d6608c49a9bf51ec93fbee13cbd9dc6bdafc211e215/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2026/07/16/167d86a38932b0f2bc8f9d6608c49a9bf51ec93fbee13cbd9dc6bdafc211e215/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15353,
+    "sha256": "sha256:63c97c68678fd5940057f62422c05b24f53ba5fdb75bbd73f88a3155dd47b4f9",
+    "normalized_content_hash": "sha256:f2942eb69433bf81b8f2ed973e475767bac03dca313e89a84c12fa22b09ac42f"
+  },
+  "provenance": {
+    "source_item_id": "281821d8-a9cf-40ed-bec8-fcb2650b36f7",
+    "external_id": "https://trigger.dev/blog/v3-announcement"
+  }
+}

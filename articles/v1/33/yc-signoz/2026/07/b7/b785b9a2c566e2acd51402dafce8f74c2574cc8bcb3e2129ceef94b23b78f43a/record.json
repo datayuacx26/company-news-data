@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b785b9a2c566e2acd51402dafce8f74c2574cc8bcb3e2129ceef94b23b78f43a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/aws-elb-logs",
+    "canonical": "https://signoz.io/guides/aws-elb-logs"
+  },
+  "title": "How to Monitor AWS ELB Logs using CloudWatch and Athena?",
+  "summary": "Learn how to enable AWS ALB logs, query them using Amazon Athena, forward them to CloudWatch, and use a modern alternative for real-time analysis.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.233161+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/b7/b785b9a2c566e2acd51402dafce8f74c2574cc8bcb3e2129ceef94b23b78f43a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/b7/b785b9a2c566e2acd51402dafce8f74c2574cc8bcb3e2129ceef94b23b78f43a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24061,
+    "sha256": "sha256:5340ba1d16f352834f2f6f53f0f4047c45e451d5c2fb0895015278104154680e",
+    "normalized_content_hash": "sha256:a3a2319def7dc107f290c66e554c394360a1952558d373f01585ff5dabda27eb"
+  },
+  "provenance": {
+    "source_item_id": "75783e6f-a858-4977-9e6f-cb59d9bb48ed",
+    "external_id": "https://signoz.io/guides/aws-elb-logs"
+  }
+}

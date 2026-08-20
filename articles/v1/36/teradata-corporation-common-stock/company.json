@@ -1,0 +1,422 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "teradata-corporation-common-stock",
+    "name": "Teradata Corporation"
+  },
+  "record_count": 253,
+  "first_published_at": "2019-01-14T08:00:00+00:00",
+  "last_published_at": "2026-08-13T07:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 6,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/36/teradata-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55517,
+        "sha256": "sha256:27e90881c47690b0f4384fcc7fc6f5df5ea164d4f88597b0186226a99cb35b98",
+        "newest_at": "2026-08-13T07:00:00+00:00",
+        "oldest_at": "2025-10-14T07:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/36/teradata-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 57006,
+        "sha256": "sha256:55e3d2f08c37f4cbaf6d6e1f3c3d7eeaebb6ebb89af049e94e8f7f02cd6304b8",
+        "newest_at": "2025-10-14T07:00:00+00:00",
+        "oldest_at": "2024-04-30T07:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/36/teradata-corporation-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57193,
+        "sha256": "sha256:781967031be6a350641c44cfadd3b12ee9682e664661a559c9e8383345f9421b",
+        "newest_at": "2024-04-15T07:00:00+00:00",
+        "oldest_at": "2022-06-09T07:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/36/teradata-corporation-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 58098,
+        "sha256": "sha256:ddb26698b100b8251710bf205cadbaff01d14a67b665d6ac0a4ca00ac85bd42b",
+        "newest_at": "2022-06-07T07:00:00+00:00",
+        "oldest_at": "2021-01-19T08:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/36/teradata-corporation-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57625,
+        "sha256": "sha256:bf67c931b45d331a3472c0a3313009242946b3947b238a595cb8e0db2806fbbc",
+        "newest_at": "2021-01-11T08:00:00+00:00",
+        "oldest_at": "2019-03-28T07:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/36/teradata-corporation-common-stock/index/pages/000006.json",
+        "record_count": 3,
+        "byte_count": 3266,
+        "sha256": "sha256:a216c58b0c7a5a687dae23cd3344bd0fbce1637f1db3e00b794991e45d7c44ed",
+        "newest_at": "2019-03-15T07:00:00+00:00",
+        "oldest_at": "2019-01-14T08:00:00+00:00"
+      }
+    ]
+  }
+}

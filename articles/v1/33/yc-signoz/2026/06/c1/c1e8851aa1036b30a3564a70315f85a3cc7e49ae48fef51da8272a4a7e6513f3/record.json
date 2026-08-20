@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1e8851aa1036b30a3564a70315f85a3cc7e49ae48fef51da8272a4a7e6513f3",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/comparisons/opentelemetry-trace-vs-span",
+    "canonical": "https://signoz.io/comparisons/opentelemetry-trace-vs-span"
+  },
+  "title": "OpenTelemetry - Understanding Traces vs. Spans",
+  "summary": "Explore the differences between traces and spans in OpenTelemetry, their relationship, and how they enhance distributed system observability.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.695790+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/c1/c1e8851aa1036b30a3564a70315f85a3cc7e49ae48fef51da8272a4a7e6513f3/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/c1/c1e8851aa1036b30a3564a70315f85a3cc7e49ae48fef51da8272a4a7e6513f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30284,
+    "sha256": "sha256:7a3dc55984768e193e7e9b70eadff8caf8623757064517a5ee7d83922006b7c2",
+    "normalized_content_hash": "sha256:07ba887c1b0e09547f00fb68056e5a6929f0d8bd428c71e5a46ed056b7f719a9"
+  },
+  "provenance": {
+    "source_item_id": "13829382-16b6-4505-a6d7-15f964995b3b",
+    "external_id": "https://signoz.io/comparisons/opentelemetry-trace-vs-span"
+  }
+}

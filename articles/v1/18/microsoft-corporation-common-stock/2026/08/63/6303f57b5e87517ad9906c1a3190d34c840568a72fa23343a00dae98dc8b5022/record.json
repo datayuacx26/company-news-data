@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6303f57b5e87517ad9906c1a3190d34c840568a72fa23343a00dae98dc8b5022",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-0524baf4a828",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
+    "canonical": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/"
+  },
+  "title": "Microsoft details DeadLock extortion tactics",
+  "summary": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortion tactics used to pressure victims.",
+  "published_at": "2026-08-10T16:30:00+00:00",
+  "first_seen_at": "2026-08-11T17:48:09.286022+00:00",
+  "fetched_at": "2026-08-11T17:48:11.031843+00:00",
+  "last_updated_at": "2026-08-20T01:10:41.945291+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/08/63/6303f57b5e87517ad9906c1a3190d34c840568a72fa23343a00dae98dc8b5022/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/08/63/6303f57b5e87517ad9906c1a3190d34c840568a72fa23343a00dae98dc8b5022/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 41588,
+    "sha256": "sha256:ba6402bffe3f5b1f5a2df09d9a3f71f1a68bcc211f465171c3b3ddad16777050",
+    "normalized_content_hash": "sha256:489e62df0cced5c317e6f6242faef12ad2e757fee48934cf1b11bbfbce5a077e"
+  },
+  "provenance": {
+    "source_item_id": "c568315e-88f6-48fe-9efe-42b87666f0b4",
+    "external_id": "https://news.microsoft.com/source/?p=25418"
+  }
+}

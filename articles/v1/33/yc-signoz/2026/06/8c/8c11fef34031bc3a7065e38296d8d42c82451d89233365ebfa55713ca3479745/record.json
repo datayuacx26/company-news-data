@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c11fef34031bc3a7065e38296d8d42c82451d89233365ebfa55713ca3479745",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-google",
+    "canonical": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-google"
+  },
+  "title": "SAML Authentication with Google Workspace",
+  "summary": "Set up SAML 2.0 SSO between Google Workspace and SigNoz so your team can sign in to SigNoz using their existing Google accounts.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/8c/8c11fef34031bc3a7065e38296d8d42c82451d89233365ebfa55713ca3479745/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/8c/8c11fef34031bc3a7065e38296d8d42c82451d89233365ebfa55713ca3479745/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 692,
+    "sha256": "sha256:38991c938bc08c1fbce366873b124d02a1ab6bcbc4c708c9580d716a8b441978",
+    "normalized_content_hash": "sha256:d4e49926937420bfe5fc1eaef2427d9a3f51bb18166ce477ffc74ceca5080c06"
+  },
+  "provenance": {
+    "source_item_id": "a1610271-a6ae-4c07-8301-0a4f225fa455",
+    "external_id": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-google"
+  }
+}

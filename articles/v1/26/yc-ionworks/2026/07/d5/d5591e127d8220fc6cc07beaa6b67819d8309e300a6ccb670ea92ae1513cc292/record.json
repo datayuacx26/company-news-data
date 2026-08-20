@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5591e127d8220fc6cc07beaa6b67819d8309e300a6ccb670ea92ae1513cc292",
+  "company": {
+    "key": "yc-ionworks",
+    "name": "Ionworks"
+  },
+  "source": {
+    "id": "yc-ionworks-news-import-f340ab61a31b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ionworks.com/blog/state-of-charge-vs-state-of-energy",
+    "canonical": "https://ionworks.com/blog/state-of-charge-vs-state-of-energy"
+  },
+  "title": "State of charge vs state of energy: why SoC overstates your runtime",
+  "summary": "State of charge counts coulombs; runtime under a power load depends on energy. PyBaMM simulations of an NMC cell separate the two effects that make SoC overstate time to empty, and show why the gap grows with power.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:37:14.020685+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T00:52:29.147754+00:00",
+  "paths": {
+    "article": "articles/v1/26/yc-ionworks/2026/07/d5/d5591e127d8220fc6cc07beaa6b67819d8309e300a6ccb670ea92ae1513cc292/article.md",
+    "record": "articles/v1/26/yc-ionworks/2026/07/d5/d5591e127d8220fc6cc07beaa6b67819d8309e300a6ccb670ea92ae1513cc292/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10152,
+    "sha256": "sha256:1ad9c8733e1256e2969ae4892d3547a1e716c711555e88c64d9cb6f040cd6361",
+    "normalized_content_hash": "sha256:a0560bfd3126ffade46a8e9495788c9a28e30994b229128eb9864308c3324eea"
+  },
+  "provenance": {
+    "source_item_id": "83e9f1d1-208a-42d8-9ff0-1dae52f5e562",
+    "external_id": "https://ionworks.com/blog/state-of-charge-vs-state-of-energy"
+  }
+}

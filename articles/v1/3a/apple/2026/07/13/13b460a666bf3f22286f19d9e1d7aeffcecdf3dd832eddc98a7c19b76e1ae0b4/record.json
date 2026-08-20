@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13b460a666bf3f22286f19d9e1d7aeffcecdf3dd832eddc98a7c19b76e1ae0b4",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers",
+    "canonical": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers"
+  },
+  "title": "Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers",
+  "summary": "Siri Expressive Voices synthesize rich, configurable speech in real time and entirely on device, powered by AFM 3 Core Advanced, Apple’s…",
+  "published_at": null,
+  "first_seen_at": "2026-07-29T03:22:23.076826+00:00",
+  "fetched_at": "2026-07-29T03:22:24.586686+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/13/13b460a666bf3f22286f19d9e1d7aeffcecdf3dd832eddc98a7c19b76e1ae0b4/article.md",
+    "record": "articles/v1/3a/apple/2026/07/13/13b460a666bf3f22286f19d9e1d7aeffcecdf3dd832eddc98a7c19b76e1ae0b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3111,
+    "sha256": "sha256:613bde1d4c0058662f021d3c4f64cf6957aeadde404f8dff5d49b1963b1376ac",
+    "normalized_content_hash": "sha256:d082704b7f786187f29d1eea3de5528ac62ae5749e9586a872eda1d2047f8d34"
+  },
+  "provenance": {
+    "source_item_id": "d7c7f188-7c19-4426-9f42-a4bdc9c53e72",
+    "external_id": "https://machinelearning.apple.com/research/audio-synthesis-diffusion-transformers"
+  }
+}

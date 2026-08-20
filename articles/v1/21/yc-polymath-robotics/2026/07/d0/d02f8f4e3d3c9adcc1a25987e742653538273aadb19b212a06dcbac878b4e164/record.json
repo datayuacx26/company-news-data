@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d02f8f4e3d3c9adcc1a25987e742653538273aadb19b212a06dcbac878b4e164",
+  "company": {
+    "key": "yc-polymath-robotics",
+    "name": "Polymath Robotics"
+  },
+  "source": {
+    "id": "yc-polymath-robotics-news-import-0eb697031937",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.polymathrobotics.com/blog/execution-management-in-rclcpp",
+    "canonical": "https://www.polymathrobotics.com/blog/execution-management-in-rclcpp"
+  },
+  "title": "Polymath Robotics Blog | The Evolution of Execution Management in rclcpp",
+  "summary": "A tour through ROS 2's executor evolution—from the classic polling-based SingleThreaded and MultiThreaded executors to the new EventsCBGExecutor shipping in Lyrical Luth—with fresh benchmarks on throughput, latency, and CPU.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:33:00.269851+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T00:25:58.346801+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-polymath-robotics/2026/07/d0/d02f8f4e3d3c9adcc1a25987e742653538273aadb19b212a06dcbac878b4e164/article.md",
+    "record": "articles/v1/21/yc-polymath-robotics/2026/07/d0/d02f8f4e3d3c9adcc1a25987e742653538273aadb19b212a06dcbac878b4e164/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19336,
+    "sha256": "sha256:6f835a8c62212ec5ec304610e622d43a549077636b9b940c49e88d95b65b31c0",
+    "normalized_content_hash": "sha256:d13d4a9e28632b4e1daaa7c3b02741ec5ca58e9df2b310b5bd4e90065105ecd2"
+  },
+  "provenance": {
+    "source_item_id": "1f15d833-faff-4300-a248-f5c15db12723",
+    "external_id": "https://www.polymathrobotics.com/blog/execution-management-in-rclcpp"
+  }
+}

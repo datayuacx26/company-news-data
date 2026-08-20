@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "060a5483fd6139ab83bb391fb981b73ee42db4433ef011adaff8c93f95c4609b",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/azure/mongodb",
+    "canonical": "https://signoz.io/docs/integrations/azure/mongodb"
+  },
+  "title": "Azure MongoDB vCore Monitoring Integration with SigNoz",
+  "summary": "Monitor vCore-based Azure Cosmos DB for MongoDB clusters with SigNoz. Collect CPU, memory, storage, IOPS, and request metrics via One-Click Azure Integration.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/06/060a5483fd6139ab83bb391fb981b73ee42db4433ef011adaff8c93f95c4609b/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/06/060a5483fd6139ab83bb391fb981b73ee42db4433ef011adaff8c93f95c4609b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 707,
+    "sha256": "sha256:c15f7de9fa6b4b2cb6b2c6c7246e856b61c264029c7ac5e12174ed8b85a3cb22",
+    "normalized_content_hash": "sha256:4b20922204f7554be7db7043063622714eec961e4aa6d2cb808be768b5b6733a"
+  },
+  "provenance": {
+    "source_item_id": "ea069829-4987-47e9-86d2-252ae2732768",
+    "external_id": "https://signoz.io/docs/integrations/azure/mongodb"
+  }
+}

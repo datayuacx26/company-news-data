@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3241e8d60b95a3bf6bd853759f0527801d1e1299c9b2581b4988674f2c64f20",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/even-faster-more-reliable-flags",
+    "canonical": "https://posthog.com/blog/even-faster-more-reliable-flags"
+  },
+  "title": "How we made feature flags even faster and more reliable",
+  "summary": "Learn how we rewrote PostHog's feature flag service in Rust to handle more throughput, improve reliability, and reduce costs.",
+  "published_at": "2025-10-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2025/10/e3/e3241e8d60b95a3bf6bd853759f0527801d1e1299c9b2581b4988674f2c64f20/article.md",
+    "record": "articles/v1/0e/yc-posthog/2025/10/e3/e3241e8d60b95a3bf6bd853759f0527801d1e1299c9b2581b4988674f2c64f20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10768,
+    "sha256": "sha256:3189e32e6b8c0fa520e4a8cfc97eaa77a910eba3f1ecc1a49b7cc52d75e27cd4",
+    "normalized_content_hash": "sha256:77d2ec72719c6af90a35f85e5c34b6e9ebc9aa8859714faf870b5def83e340d7"
+  },
+  "provenance": {
+    "source_item_id": "931468a7-5a4e-41be-9091-969fc0fc906d",
+    "external_id": "fc3fc5a2-c071-50cf-b032-d9dc5491f505"
+  }
+}

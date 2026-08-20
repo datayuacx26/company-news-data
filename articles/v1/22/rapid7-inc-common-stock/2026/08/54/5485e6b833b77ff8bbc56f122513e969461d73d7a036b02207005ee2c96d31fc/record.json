@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5485e6b833b77ff8bbc56f122513e969461d73d7a036b02207005ee2c96d31fc",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066",
+    "canonical": "https://www.rapid7.com/blog/post/ra-kindarails2shell-technical-analysis-cve-2026-66066"
+  },
+  "title": "Rapid7 Analysis: KindaRails2Shell (CVE-2026-66066)",
+  "summary": "Rapid7 analyzes KindaRails2Shell (CVE-2026-66066), a Ruby on Rails Active Storage vulnerability that can allow attackers to abuse libvips and crafted MAT/HDF5 uploads to read arbitrary files from the server. The analysis explains the direct-upload type confusion, the HDF5 external storage primitive, how Rails signing material can be recovered, and how the chain can lead to remote code execution.",
+  "published_at": "2026-08-03T17:11:25+00:00",
+  "first_seen_at": "2026-08-03T19:12:41.709514+00:00",
+  "fetched_at": "2026-08-03T20:38:58.255627+00:00",
+  "last_updated_at": "2026-08-20T03:36:55.072704+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/08/54/5485e6b833b77ff8bbc56f122513e969461d73d7a036b02207005ee2c96d31fc/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/08/54/5485e6b833b77ff8bbc56f122513e969461d73d7a036b02207005ee2c96d31fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25553,
+    "sha256": "sha256:ea6a64b93a33aa4d74b9454c38c8d097d430c3097c3d6af4c3e7b0bacf595ebc",
+    "normalized_content_hash": "sha256:e345fcb5e6a711ded894c9fb4e5879354530c06d2eee65a20c42b89f3fef8b2d"
+  },
+  "provenance": {
+    "source_item_id": "055bbe35-0ba2-49fa-aa8a-af3bb59e14c2",
+    "external_id": "bltc9f39469e18d39db"
+  }
+}

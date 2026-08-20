@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d01dc99a4ed8e06ef6ff961c662f337fff801980eebd267e81229d998c0899a8",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-55baf9c2c2ac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
+    "canonical": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/"
+  },
+  "title": "Ire identifies another LOTUSLITE specimen",
+  "summary": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.",
+  "published_at": "2026-06-12T20:30:48+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.884326+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-08-03T15:03:16.750641+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/d0/d01dc99a4ed8e06ef6ff961c662f337fff801980eebd267e81229d998c0899a8/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/d0/d01dc99a4ed8e06ef6ff961c662f337fff801980eebd267e81229d998c0899a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10359,
+    "sha256": "sha256:a96f049c84aaa84c0639036a4729a1e27fcd90bf2469af6f2cdf36fba28610b0",
+    "normalized_content_hash": "sha256:511df4bd10b28ca973a37c49c6676981b72695c23aac84fafffa62b3a92ec90c"
+  },
+  "provenance": {
+    "source_item_id": "7aebac28-7f4b-4bf6-98a1-e0a6ae12cf6e",
+    "external_id": "https://www.microsoft.com/en-us/research/?p=1175369"
+  }
+}

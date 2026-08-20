@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b57f986c287abd96a93f855ad9a19b162d3cdddb7a11c8c70ad8e77267c56649",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/python-logging-create-log-if-not-exists-or-open-and-continue-logging-if-it-does",
+    "canonical": "https://signoz.io/guides/python-logging-create-log-if-not-exists-or-open-and-continue-logging-if-it-does"
+  },
+  "title": "How to Create or Append to Log Files - Python Logging",
+  "summary": "Learn how to create new log files or append to existing ones using Python's logging module. This guide covers basic and advanced logging techniques.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-13T04:59:03.199473+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/b5/b57f986c287abd96a93f855ad9a19b162d3cdddb7a11c8c70ad8e77267c56649/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/b5/b57f986c287abd96a93f855ad9a19b162d3cdddb7a11c8c70ad8e77267c56649/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27730,
+    "sha256": "sha256:00ab557a1bd5b30beae3512c2b758b612bac4ab51b9490bdd9e917235988ff1d",
+    "normalized_content_hash": "sha256:0ac21f66f8287fb86a7e3062f7ed69e7d96c46c968f344f356e61a2a5dc2ad79"
+  },
+  "provenance": {
+    "source_item_id": "40381c45-cf99-491a-bd5c-452e4ed46145",
+    "external_id": "https://signoz.io/guides/python-logging-create-log-if-not-exists-or-open-and-continue-logging-if-it-does"
+  }
+}

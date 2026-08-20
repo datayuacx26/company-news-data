@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63bfabbd05bff31a876a513c167db3d341f335089363bc34bc5d511cefc62d92",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/self-hosting-trigger-dev-v4-kubernetes",
+    "canonical": "https://trigger.dev/blog/self-hosting-trigger-dev-v4-kubernetes"
+  },
+  "title": "Self-hosting Trigger.dev v4 using Kubernetes",
+  "summary": "You can now self-host Trigger.dev v4 using Kubernetes. This adds to the existing Docker option.",
+  "published_at": "2025-06-26T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:13:09.827889+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2025/06/63/63bfabbd05bff31a876a513c167db3d341f335089363bc34bc5d511cefc62d92/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2025/06/63/63bfabbd05bff31a876a513c167db3d341f335089363bc34bc5d511cefc62d92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6984,
+    "sha256": "sha256:96c73ba7307271feb5a2a1f426b6f48f3a2297e9b452d8bab3aee0692f5cc7af",
+    "normalized_content_hash": "sha256:b61622b7c9f4ab422e0bc617bd168448d6e9d9f72ea18ab8e971213a626c9e61"
+  },
+  "provenance": {
+    "source_item_id": "2dfe88f9-6402-461f-9f26-71ea647a1c5b",
+    "external_id": "https://trigger.dev/blog/self-hosting-trigger-dev-v4-kubernetes"
+  }
+}

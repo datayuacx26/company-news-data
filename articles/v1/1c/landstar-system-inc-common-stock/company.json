@@ -1,0 +1,443 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "landstar-system-inc-common-stock",
+    "name": "Landstar System Inc."
+  },
+  "record_count": 522,
+  "first_published_at": "2019-11-21T17:39:00+00:00",
+  "last_published_at": "2026-08-18T13:13:10+00:00",
+  "partitions": [
+    {
+      "partition": "2019-11",
+      "record_count": 80
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 11
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 14
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 9
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 8
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 9
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 11
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 8
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58677,
+        "sha256": "sha256:faff1574c0f57920d863e482534d7d9a0ef10c9aef033e4be9647e4362d88dbb",
+        "newest_at": "2026-08-18T13:13:10+00:00",
+        "oldest_at": "2026-02-02T21:05:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 56387,
+        "sha256": "sha256:5d80fa71480fb3a620f95d68f3f75c1caa37aa34a4b958bbb6dcc29e0d852e03",
+        "newest_at": "2026-01-30T20:36:58+00:00",
+        "oldest_at": "2025-04-15T14:47:39+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 56237,
+        "sha256": "sha256:9cfefb71dd77aca3c1e592f8acfc11924f30c90341d10c09dc45ed0128a97246",
+        "newest_at": "2025-04-15T12:54:24+00:00",
+        "oldest_at": "2024-06-28T13:26:28+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 55958,
+        "sha256": "sha256:a6562911d2b010f20900f914c88ee997af39966428a85c41e4cd076d8f6486bc",
+        "newest_at": "2024-06-27T14:19:22+00:00",
+        "oldest_at": "2023-08-14T19:37:07+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 56017,
+        "sha256": "sha256:f726ee7274f0ae2a55d652676db4e56b700fe306a1f760cd8da540e8d46a0670",
+        "newest_at": "2023-08-09T17:37:29+00:00",
+        "oldest_at": "2022-09-21T14:16:18+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 55743,
+        "sha256": "sha256:97b34c23df1d9e0a3ab687dae2a42fc8313050833d6fcfec49d1a12e160aa58d",
+        "newest_at": "2022-09-14T19:14:19+00:00",
+        "oldest_at": "2022-01-17T14:13:30+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 54823,
+        "sha256": "sha256:214cbf2a4eacf778c8f54661ca530136bcf9b84af523c5442dabede3d477dec8",
+        "newest_at": "2022-01-04T19:01:12+00:00",
+        "oldest_at": "2021-01-12T15:10:08+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 54767,
+        "sha256": "sha256:60d7391254e0129b860c50a4eab4e3cca53d7afe7d71135b471ff2de8b71519e",
+        "newest_at": "2021-01-05T12:41:50+00:00",
+        "oldest_at": "2020-05-07T19:08:43+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 54888,
+        "sha256": "sha256:0af02eff27dea06189bb646d2b47eaa011116ada4ce6d35691956330899ef0e0",
+        "newest_at": "2020-05-06T19:06:39+00:00",
+        "oldest_at": "2019-11-21T17:39:43+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 55450,
+        "sha256": "sha256:5cfb1c869a9b83ac1848f756ede1718389f45c2883633ef9d381434cf73a496f",
+        "newest_at": "2019-11-21T17:39:43+00:00",
+        "oldest_at": "2019-11-21T17:39:13+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/1c/landstar-system-inc-common-stock/index/pages/000011.json",
+        "record_count": 22,
+        "byte_count": 23966,
+        "sha256": "sha256:d7e82c55ae8aaeef14193e69facecc8b9143c33d42ec21c2d118bc406ded0311",
+        "newest_at": "2019-11-21T17:39:13+00:00",
+        "oldest_at": "2019-11-21T17:39:00+00:00"
+      }
+    ]
+  }
+}

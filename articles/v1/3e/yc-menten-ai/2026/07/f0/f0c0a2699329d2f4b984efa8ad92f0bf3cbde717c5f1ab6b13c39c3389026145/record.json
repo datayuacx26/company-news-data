@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0c0a2699329d2f4b984efa8ad92f0bf3cbde717c5f1ab6b13c39c3389026145",
+  "company": {
+    "key": "yc-menten-ai",
+    "name": "Menten AI"
+  },
+  "source": {
+    "id": "yc-menten-ai-news-import-4a0f36dd5218",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://menten.ai/news/xenet-paper",
+    "canonical": "https://menten.ai/news/xenet-paper"
+  },
+  "title": "XENet paper",
+  "summary": "We’re excited to release XENet a new graph convolution that allows larger protein design problems to fit onto near-term quantum computers.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:02:30.999653+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:50:21.756820+00:00",
+  "paths": {
+    "article": "articles/v1/3e/yc-menten-ai/2026/07/f0/f0c0a2699329d2f4b984efa8ad92f0bf3cbde717c5f1ab6b13c39c3389026145/article.md",
+    "record": "articles/v1/3e/yc-menten-ai/2026/07/f0/f0c0a2699329d2f4b984efa8ad92f0bf3cbde717c5f1ab6b13c39c3389026145/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4090,
+    "sha256": "sha256:d85ee5cda1543e66112091164c09f49c1586e8d125e9022320e708285eef48c5",
+    "normalized_content_hash": "sha256:9c66ea26246c789e3896a088440509a615590f6b0a42394fd356c1a14a8fbf68"
+  },
+  "provenance": {
+    "source_item_id": "ffe159c8-87a8-4bd4-80d4-d348c1318721",
+    "external_id": "https://menten.ai/news/xenet-paper"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-elayne",
+    "name": "Elayne"
+  },
+  "record_count": 37,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 25
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2f/yc-elayne/index/pages/000001.json",
+        "record_count": 37,
+        "byte_count": 36378,
+        "sha256": "sha256:73cb61976c31c8fccbb0f3e2f374fc06d7aebe8313857a17878057b992547b90",
+        "newest_at": "2026-08-19T20:47:10.131704+00:00",
+        "oldest_at": "2026-07-28T21:16:46.713740+00:00"
+      }
+    ]
+  }
+}

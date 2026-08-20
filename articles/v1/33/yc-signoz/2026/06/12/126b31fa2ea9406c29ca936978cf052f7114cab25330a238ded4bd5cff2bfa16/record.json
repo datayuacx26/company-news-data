@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "126b31fa2ea9406c29ca936978cf052f7114cab25330a238ded4bd5cff2bfa16",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/ai/use-cases/postmortem-evidence-pack",
+    "canonical": "https://signoz.io/docs/ai/use-cases/postmortem-evidence-pack"
+  },
+  "title": "Postmortem Evidence Pack",
+  "summary": "Compile alerts, logs, trace anomalies, and metric changes into a clean postmortem evidence timeline using AI and SigNoz MCP in minutes.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/12/126b31fa2ea9406c29ca936978cf052f7114cab25330a238ded4bd5cff2bfa16/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/12/126b31fa2ea9406c29ca936978cf052f7114cab25330a238ded4bd5cff2bfa16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 665,
+    "sha256": "sha256:286cb816259f8ad1e88df1eadf508babddeb6f797f2144beeb198532ffaf5841",
+    "normalized_content_hash": "sha256:d064f220c30c0cc6513952246cdb0f9b82410d579204b3d929273385473cd68f"
+  },
+  "provenance": {
+    "source_item_id": "002afc03-0894-41f8-b764-c3e520f3e372",
+    "external_id": "https://signoz.io/docs/ai/use-cases/postmortem-evidence-pack"
+  }
+}

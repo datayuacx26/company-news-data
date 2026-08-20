@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "304439122687eb3f71cad8c34737dd7471412e6592057c98d2b4fbb030075a58",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-69a1f8dc01ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/changelog/streamed-search",
+    "canonical": "https://www.sourcebot.dev/changelog/streamed-search"
+  },
+  "title": "Streamed search",
+  "summary": "Search results now stream in as they're found, an order of magnitude faster on large deployments.",
+  "published_at": "2025-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:52.577262+00:00",
+  "fetched_at": "2026-07-28T22:25:08.967255+00:00",
+  "last_updated_at": "2026-08-20T02:52:57.900818+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2025/11/30/304439122687eb3f71cad8c34737dd7471412e6592057c98d2b4fbb030075a58/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2025/11/30/304439122687eb3f71cad8c34737dd7471412e6592057c98d2b4fbb030075a58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1451,
+    "sha256": "sha256:913245f0f58cfb72e00efec0db8316377e3b814b439ad0201e63add3f9602381",
+    "normalized_content_hash": "sha256:516d5be86de3b171e379a2bf4cff7f550aa717e635bcb1ecd6cc59f809904456"
+  },
+  "provenance": {
+    "source_item_id": "64e111b2-3dab-4d16-950e-5c00ae7a394a",
+    "external_id": "https://www.sourcebot.dev/changelog/streamed-search"
+  }
+}

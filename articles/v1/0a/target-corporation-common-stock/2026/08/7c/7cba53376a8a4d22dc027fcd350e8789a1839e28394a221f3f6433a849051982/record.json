@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7cba53376a8a4d22dc027fcd350e8789a1839e28394a221f3f6433a849051982",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/08/target-halloween-assortment-2026",
+    "canonical": "https://corporate.target.com/news-features/article/2026/08/target-halloween-assortment-2026"
+  },
+  "title": "Target’s Halloween Assortment Brings Together Style, Fandom and Family Fun at Incredible Value",
+  "summary": "Explore Target's 2026 Halloween assortment featuring stylish decor, exclusive costumes, trending treats and family activities, all at incredible value.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T00:02:06.744365+00:00",
+  "fetched_at": "2026-08-13T00:02:09.326979+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/7c/7cba53376a8a4d22dc027fcd350e8789a1839e28394a221f3f6433a849051982/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/7c/7cba53376a8a4d22dc027fcd350e8789a1839e28394a221f3f6433a849051982/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6653,
+    "sha256": "sha256:8df921eda23e503fa6d2851741f50a17c4bcdeb7bc60426edb5fca98759411aa",
+    "normalized_content_hash": "sha256:825e9c63cd1bc6cede9b8eb009d67f94af4fefedd9e59ba1210cbcc02819951a"
+  },
+  "provenance": {
+    "source_item_id": "ceab4ddb-23e8-471c-8859-ec37c1a08d13",
+    "external_id": "https://corporate.target.com/news-features/article/2026/08/target-halloween-assortment-2026"
+  }
+}

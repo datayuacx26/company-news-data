@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00dc70c82279c94cbb4937c15bd03e781dcfccf2235099441bdc0da774a1e4c0",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/consistency-is-the-key-to-performance-and-safety",
+    "canonical": "https://authzed.com/blog/consistency-is-the-key-to-performance-and-safety"
+  },
+  "title": "Consistency is the Key to Performance and Safety",
+  "summary": "Both SpiceDB and Zanzibar combine performance, scalability, and correctness into one manageable, global authorization solution. Strong consistency is key to ensuring correctness, but caching is necessary for performance. Consistency and caching are often diametrically opposed so how do SpiceDB and Zanzibar solve this problem? With a few key realizations around staleness, when consistency is necessary and how the two interact.",
+  "published_at": "2024-09-05T12:21:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:59:23.866660+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2024/09/00/00dc70c82279c94cbb4937c15bd03e781dcfccf2235099441bdc0da774a1e4c0/article.md",
+    "record": "articles/v1/15/yc-authzed/2024/09/00/00dc70c82279c94cbb4937c15bd03e781dcfccf2235099441bdc0da774a1e4c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11337,
+    "sha256": "sha256:ec045684c09735e7d9bbf2dc7ba34a0121dbf4c5ccb3687436434b669f780b5b",
+    "normalized_content_hash": "sha256:3c508834e04011dc9e558c577506fa73c2818896e483d4582428b919d496c556"
+  },
+  "provenance": {
+    "source_item_id": "5c88b466-c079-4fdc-a79f-ebfca06faea2",
+    "external_id": "https://authzed.com/blog/consistency-is-the-key-to-performance-and-safety"
+  }
+}

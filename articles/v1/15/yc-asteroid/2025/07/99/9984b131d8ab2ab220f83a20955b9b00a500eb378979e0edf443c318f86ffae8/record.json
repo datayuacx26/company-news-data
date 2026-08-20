@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9984b131d8ab2ab220f83a20955b9b00a500eb378979e0edf443c318f86ffae8",
+  "company": {
+    "key": "yc-asteroid",
+    "name": "Asteroid"
+  },
+  "source": {
+    "id": "yc-asteroid-news-import-1b74f0bf6416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://asteroid.ai/blog/introducing-asteroid-ai-browser-agents/",
+    "canonical": "https://asteroid.ai/blog/introducing-asteroid-ai-browser-agents/"
+  },
+  "title": "Graph-powered browser agents",
+  "summary": "Asteroid runs browser agents as graphs of focused nodes for reliability, observability, and safe tool access. See why graphs beat one long prompt. Read more.",
+  "published_at": "2025-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:06:12.451370+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-08-20T02:20:59.043392+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-asteroid/2025/07/99/9984b131d8ab2ab220f83a20955b9b00a500eb378979e0edf443c318f86ffae8/article.md",
+    "record": "articles/v1/15/yc-asteroid/2025/07/99/9984b131d8ab2ab220f83a20955b9b00a500eb378979e0edf443c318f86ffae8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6037,
+    "sha256": "sha256:689cc903fce1621c6b8e5ae9d7de3337bed748d1bac3b60344dcb9f2d47c729f",
+    "normalized_content_hash": "sha256:02b4aaf872ef8e1852a8f42789bab940fa426ce3b444ec0212e284b928a8c58d"
+  },
+  "provenance": {
+    "source_item_id": "8ef76e13-81ef-47bf-b4bc-99e61361c7d4",
+    "external_id": "https://asteroid.ai/blog/introducing-asteroid-ai-browser-agents/"
+  }
+}

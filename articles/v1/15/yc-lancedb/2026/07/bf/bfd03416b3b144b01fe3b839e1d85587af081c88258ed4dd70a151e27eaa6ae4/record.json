@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bfd03416b3b144b01fe3b839e1d85587af081c88258ed4dd70a151e27eaa6ae4",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/multimodal-lakehouse",
+    "canonical": "https://www.lancedb.com/blog/multimodal-lakehouse"
+  },
+  "title": "What is the LanceDB Multimodal Lakehouse?",
+  "summary": "Introducing the Multimodal Lakehouse - a unified platform for managing AI data from raw files to production-ready features, now part of LanceDB Enterprise.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:41.571087+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/bf/bfd03416b3b144b01fe3b839e1d85587af081c88258ed4dd70a151e27eaa6ae4/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/bf/bfd03416b3b144b01fe3b839e1d85587af081c88258ed4dd70a151e27eaa6ae4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9684,
+    "sha256": "sha256:56c67e2d89c68b5c477e63a9a406eb8a893e25cd524f1fea9d2512a1cee1807e",
+    "normalized_content_hash": "sha256:775510ad904175e253b2cd4974e927929e07322106d210f27309cd43a702a740"
+  },
+  "provenance": {
+    "source_item_id": "41cb337c-4f0a-4c63-b595-a4e0f26a333d",
+    "external_id": "https://www.lancedb.com/blog/multimodal-lakehouse"
+  }
+}

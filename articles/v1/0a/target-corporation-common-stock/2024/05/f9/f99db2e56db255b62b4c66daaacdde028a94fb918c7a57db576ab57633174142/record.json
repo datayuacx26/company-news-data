@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f99db2e56db255b62b4c66daaacdde028a94fb918c7a57db576ab57633174142",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/creating-certified-datasets",
+    "canonical": "https://tech.target.com/blog/creating-certified-datasets"
+  },
+  "title": "Creating Certified Datasets",
+  "summary": "An article by Brad Thompson, Natarajan Ramamurthy, and Vinay Joshi : How Target data scientists built a new data pipeline framework",
+  "published_at": "2024-05-16T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2024/05/f9/f99db2e56db255b62b4c66daaacdde028a94fb918c7a57db576ab57633174142/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2024/05/f9/f99db2e56db255b62b4c66daaacdde028a94fb918c7a57db576ab57633174142/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20996,
+    "sha256": "sha256:a83cda34f41b3c527e4f296a34fd060e23d8fd11fad18948a06221817888934d",
+    "normalized_content_hash": "sha256:8214a69eb23d6075a9a66d8f26d7e6ae4891a0044397a351315e557c50751fed"
+  },
+  "provenance": {
+    "source_item_id": "464df6ce-9f29-4a5e-86e8-81b75a8f7653",
+    "external_id": "BLOG-10076"
+  }
+}

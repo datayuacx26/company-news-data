@@ -1,0 +1,2354 @@
+---
+schema_version: "1.0.0"
+document_id: "79d91788bcd5681daa4d152124e15129e210737c6f19f04c2c0a28954c5a8a3d"
+company_key: "sun-communities-inc-common-stock"
+company: "Sun Communities Inc."
+source_id: "sun-communities-inc-common-stock-news-import-eff766a4510a"
+canonical_url: "https://www.globenewswire.com/news-release/2026/07/27/3333903/0/en/sun-communities-reports-results-for-the-second-quarter-and-first-six-months-of-2026.html"
+published_at: "2026-07-27T20:34:28+00:00"
+first_seen_at: "2026-07-27T20:49:06.595461+00:00"
+fetched_at: "2026-07-28T21:16:46.713740+00:00"
+content_hash: "sha256:c4b834d6e901aede311f45e73ea990194dd0ad4fe8d645ae49533e2871153e21"
+---
+
+# Sun Communities Reports Results for the Second Quarter and First Six Months of 2026
+
+*Net Loss* *per* *Diluted Share of* *$8.08* *for the Quarter, inclusive of a Net Loss from Discontinued Operations*
+
+
+*Net Income per Diluted Share from Continuing Operations of* *$0.32* *for the Quarter*
+
+
+*Core FFO per Share of* *$1.84* *for the Quarter*
+
+
+*Same Property NOI Grew by 6.0% for the Quarter Driven by Strength in Manufactured Housing*
+
+
+*Same Property Adjusted Blended Occupancy for MH and RV of 98.8%*
+
+
+*Increasing 2026 Same Property NOI Growth Guidance by 20 Basis Points, to 4.5% - 5.3%*
+
+
+**Southfield, MI, July 27, 2026 (GLOBE NEWSWIRE) -- Sun Communities, Inc. (NYSE: SUI)** (the "Company" or "SUI"), a real estate investment trust ("REIT") that owns and operates, or has an interest in, manufactured housing ("MH") and recreational vehicle ("RV") communities (collectively, the "properties"), today reported its second quarter results for 2026.
+
+
+**Financial Results for the Quarter and Six Months Ended** **June 30, 2026**
+
+
+- For the quarter ended June 30, 2026, net income attributable to continuing operations was $42.3 million, or $0.32 per diluted share, compared to a net loss from continuing operations of $30.0 million, or $0.74 per diluted share for the same period in 2025.
+- For the quarter ended June 30, 2026, net loss attributable to common shareholders was $992.7 million, or $8.08 per diluted share, compared to net income attributable to common shareholders of $1.3 billion, or $10.02 per diluted share for the same period in 2025.
+- For the six months ended June 30, 2026, net income attributable to continuing operations was $60.7 million, or $0.47 per diluted share, compared to a net loss from continuing operations of $51.7 million, or $0.92 per diluted share for the same period in 2025.
+- For the six months ended June 30, 2026, net loss attributable to common shareholders was $1.0 billion, or $8.10 per diluted share, compared to net income attributable to common shareholders of $1.2 billion, or $9.68 per diluted share for the same period in 2025.
+
+
+**Non-GAAP Financial Measures**
+
+
+- **Funds from Operations ("FFO")** for the quarter and six months ended June 30, 2026, was $1.77 and $2.71, respectively, per common share and convertible securities ("Share"), as compared to $1.36 and $2.43 for the same periods in 2025.
+- **Core Funds from Operations ("Core FFO")** for the quarter and six months ended June 30, 2026, was $1.84 and $3.24, respectively, per common share and convertible securities ("Share"), as compared to $1.76 and $3.02 for the same periods in 2025.
+- **Same Property Net Operating Income ("NOI")** increased by $14.4 million and $28.0 million, or 6.0% and 6.1%, respectively, for the quarter and six months ended June 30, 2026, as compared to the corresponding period in 2025.
+
+
+"We delivered another strong quarter, exceeding the high end of our guidance while demonstrating the strength of our Manufactured Housing and RV portfolio," said Charles Young, Chief Executive Officer. "Supported by durable demand for attainable housing and outdoor vacationing, together with disciplined expense management, we continue to execute on our strategic priorities. The planned sale of our UK platform further simplifies our business and sharpens our focus on our core portfolio. As we maintain our disciplined approach to capital allocation, we are investing in our people, technology, and communities to optimize our platform, and our full-year guidance reflects our confidence in the business and the opportunities ahead."
+
+
+**OPERATING HIGHLIGHTS**
+
+
+**Portfolio Occupancy**
+
+
+- MH and annual RV sites were 97.9% occupied at June 30, 2026, as compared to 98.1% at June 30, 2025.
+- During the quarter ended June 30, 2026, the number of MH and annual RV revenue producing sites increased by approximately 250 sites.
+-
+
+
+**Same Property** **Results**
+
+
+For the properties owned and operated by the Company since at least January 1, 2025, excluding properties classified as discontinued operations, the following table reflects the percentage changes for the quarter and six months ended June 30, 2026, as compared to the same period in 2025:
+
+
+**Quarter Ended June 30, 2026** **Six Months Ended June 30, 2026**
+
+
+**MH** **RV** **Total** **MH** **RV** **Total**
+
+
+Revenue 6.2 % 0.0 % 3.9 % 6.4 % 1.7 % 4.8 %
+
+
+Expense (0.7) % 0.8 % 0.1 % 3.3 % 1.3 % 2.3 %
+
+
+**NOI** 8.8 % (0.7) % 6.0 % 7.5 % 2.0 % 6.1 %
+
+
+**As of June 30, 2026**
+
+
+**MH** **RV** **Total**
+
+
+**Number of Properties** 282 152 434
+
+
+Same Property adjusted blended occupancy for MH and RV declined by 10 basis points to 98.8% at June 30, 2026, from 98.9% at June 30, 2025.
+
+
+**INVESTMENT ACTIVITY**
+
+
+During the quarter ended June 30, 2026, the Company sold a total of six RV properties in two transactions. Refer to page 12 for additional details related to the Company's acquisition and disposition activity.
+
+
+**BALANCE SHEET, CAPITAL MARKETS ACTIVITY, AND OTHER ITEMS**
+
+
+As of June 30, 2026, the Company had $4.1 billion in debt outstanding with a weighted average interest rate of 3.3% and a weighted average maturity of 6.9 years. At June 30, 2026, the Company's Net Debt to trailing twelve-month Recurring EBITDA ratio was 3.9 times.
+
+
+Park Holidays Sale
+
+
+As previously announced, during the quarter ended June 30, 2026, the Company entered into an agreement to sell (the "Park Holidays Sale") all of the outstanding equity of the subsidiaries through which the Company operates its business in the United Kingdom (collectively, "Park Holidays" or the "UK business") for a base consideration amount of £785.7 million (or approximately $1.04 billion). The total cash consideration received at closing is subject to certain customary locked box adjustments.
+
+
+The transaction is subject to receipt of a required regulatory approval from the UK Financial Conduct Authority, and is expected to close in the second half of 2026.
+
+
+Reporting Changes
+
+
+As a result of the Park Holidays Sale, the results of the UK business and assets and liabilities included in the disposition are presented as held for sale and as discontinued operations for all periods presented herein. During the quarter ended June 30, 2026, the Company recorded a non-cash valuation allowance charge of $1.1 billion to reduce the net assets of the UK business to its estimated fair value less costs to sell in accordance with its presentation as a discontinued operation. Unless otherwise noted, the information disclosed in this Earnings Release and Supplemental Package refer only to continuing operations and do not include discussion of balances or activity related to discontinued operations, including the UK business.
+
+
+The Company has also revised its reporting structure to two segments, which consist of (i) MH communities, and (ii) RV communities. The new structure removes the UK business from the Company's operating segments as a result of its classification as a discontinued operation and reflects how the chief operating decision maker manages the business, makes operating decisions, allocates resources, and evaluates operating performance.
+
+
+Stock Repurchase Program
+
+
+Effective May 27, 2026, the Company's Board of Directors authorized a stock repurchase program (the "Stock Repurchase Program") under which the Company may repurchase up to $1.0 billion of its common stock through May 27, 2027. The Stock Repurchase Program renewed the Company's previous stock repurchase program and provides the Company with continued flexibility to repurchase shares of its common stock.
+
+
+During the quarter ended June 30, 2026, the Company repurchased approximately 0.9 million shares of the Company's common stock at an average price of $123.30 per share for a total of $111.1 million. Subsequent to the quarter ended June 30, 2026, through July 22, 2026, the Company repurchased approximately 0.7 million shares of the Company's common stock at an average price of $120.62 per share for a total of $89.0 million.
+
+
+Debt Repayments
+
+
+During the quarter ended June 30, 2026, the Company repaid two mortgage term loans totaling $177.9 million, which unencumbered seven properties. Subsequent to the quarter ended June 30, 2026, the Company repaid two mortgage term loans totaling $258.3 million, which unencumbered 16 properties.
+
+
+**2026 GUIDANCE**
+
+
+The Company is updating full-year and establishing third quarter 2026 guidance for Diluted EPS and Core FFO per Share and certain other items as set forth below. The Company's guidance presented in this earnings release does not give effect to the completion of the Park Holidays Sale, or potential use of transaction proceeds, nor does it reflect any impacts therefrom, including any effect of the Park Holidays Sale on Diluted EPS or Core FFO per Share. While the Park Holidays Sale is expected to close in the second half of 2026, it is subject to receipt of regulatory approval. Monthly contribution for the UK business is presented in the UK Contribution table below. For the reasons described above, as well as other factors described elsewhere in this earnings release and in the Company's public reports, the actual results from the Company's business and operations in such period may differ materially from the Company's guidance for that period.
+
+
+**Third Quarter Ending September 30, 2026** **Full Year Ending December 31, 2026**
+
+
+**Low** **High** **Low** **High**
+
+
+**Diluted EPS attributable to the Consolidated Portfolio** **(a)(b)** $ 1.13 $ 1.23 $ (6.72 ) $ (6.56 )
+
+
+**Core FFO per Share attributable to the Consolidated Portfolio** **(a)(b)(c)** $ 2.23 $ 2.33 $ 6.94 $ 7.10
+
+
+(a) The diluted share counts for both the quarter ending September 30, 2026 and the year ending December 31, 2026 are estimated to be 125.9 million and 126.6 million, respectively, which assumes full conversion of all equity participating units, including common and preferred OP units, into the Company's common stock.
+(b) No reconciliation of the forecasted range for FFO per share is included in this release because the Company is unable to quantify certain amounts that would be required to be included in the reconciliation to the comparable GAAP financial measure without unreasonable efforts. In particular, the timing and magnitude of the anticipated loss associated with the disposition of the Company's UK segment remain uncertain. The Company believes that any such reconciliation would imply a degree of precision that could be confusing or misleading to investors and would not be representative of the underlying operating performance of the Company's continuing operations.
+(c) The Company's guidance translates forecasted results from operations in the UK using the relevant exchange rate provided. Exchange rates are as follows: U.S. dollar ("USD") to British pound sterling ("GBP") is 1.30; USD to Canadian dollar ("CAD") is 0.72; and USD to Australian dollar ("AUD") is 0.64. The impact of fluctuations in Canadian and Australian foreign currency rates on guidance are not material.
+
+
+**Same Property Portfolio (in millions and %)**
+
+
+**FY 2025 Actual Results**
+
+
+**Expected Change in 2026**
+
+
+**July 27, 2026 Update** **Prior FY Range**
+
+
+**North America (MH and RV)**
+
+
+Revenues from real property $ 1,453.0 3.9 % **-** 4.6 % 3.9 % **-** 4.6 %
+
+
+Total property operating expenses 483.7 2.5 % **-** 2.8 % 3.2 % **-** 3.6 %
+
+
+**Total North America Same Property NOI** **(a)** **$** **969.3** **4.5** **%** - **5.3** **%** **4.2** **%** - **5.2** **%**
+
+
+MH NOI (282 properties) $ 688.3 6.1 % **-** 6.9 % 5.7 % **-** 6.7 %
+
+
+RV NOI (152 properties) $ 281.0 0.2 % **-** 1.8 % 0.0 % **-** 1.8 %
+
+
+For the third quarter ending September 30, 2026, the Company's guidance range assumes North America Same Property NOI growth of 2.0% - 3.5%.
+
+
+**Consolidated Portfolio Guidance For 2026**
+**(in millions)** **FY 2025 Actual Results** **FY 2026 Guidance Update at Midpoint as of July 27, 2026**
+
+
+Ancillary NOI $ 27.7 $ 24.5
+
+
+Interest income $ 48.1 $ 21.5
+
+
+Brokerage commissions and other, net(b) $ 39.2 $ 45.5
+
+
+FFO contribution from North American home sales $ 6.6 $ 1.5
+
+
+General and administrative expenses excluding non-recurring expenses $ 165.8 $ 172.0
+
+
+Interest expense $ 210.7 $ 153.0
+
+
+Current tax expense $ 3.3 $ 4.0
+
+
+Contribution from Discontinued Operations(c) $ 77.8 $ 86.2
+
+
+**Contribution** **1Q26** **2Q26** **3Q26** **4Q26**
+
+
+**North America Same Property NOI:**
+
+
+MH 25 % 25 % 25 % 25 %
+
+
+RV 17 % 25 % 39 % 19 %
+
+
+**Total** **22** **%** **25** **%** **29** **%** **24** **%**
+
+
+**Home Sales FFO - North America** **0** **%** **11** **%** **72** **%** **17** **%**
+
+
+**Consolidated Ancillary NOI** **(2** **)%** **30** **%** **65** **%** **7** **%**
+
+
+**Consolidated EBITDA** **20** **%** **25** **%** **31** **%** **24** **%**
+
+
+**Core FFO per Share** **(d)** **21** **%** **25** **%** **31** **%** **23** **%**
+
+
+**UK Contribution** **1H26** **Jul** **Aug** **Sep** **Oct** **Nov** **Dec**
+
+
+Contribution from Discontinued Operations(e) **40** **%** **14** **%** **20** **%** **10** **%** **11** **%** **4** **%** **1** **%**
+
+
+**Footnotes to Supplemental Guidance Tables:**
+
+
+(a) Total North America Same Property results net $95.6 million and $102.3 million of utility revenue against the related utility expense in property operating expenses for 2025 results and 2026 guidance, respectively.
+
+
+(b) Brokerage commissions and other, net includes approximately $13.8 million and $12.8 million of business interruption income, and $16.4 million and $22.6 million of income from nonconsolidated affiliates for full year 2025 results and 2026 guidance, respectively. The business interruption income includes the pro rata recognition of the lump sum insurance settlement that was received during the quarter ended December 31, 2025.
+
+
+(c) The Contribution from Discontinued Operations includes the entire net contribution from the UK Business, inclusive of Real Property NOI, Home Sales FFO, Brokerage and Other, General and Administrative Expenses excluding non-recurring items, Interest Expense, and Current Tax Expense.
+
+
+(d) Assumes full conversion of all equity participating units, including common and preferred OP units, into the Company's common stock.
+
+
+(e) The UK business sale is expected to close in the second half of 2026. Illustrative full year contribution from the UK business is shown.
+
+
+*The* *estimates and assumptions presented above represent a range of possible outcomes and may differ materially from actual results. These estimates include contributions from all acquisitions, dispositions and capital markets activity completed through* *July 27, 2026* *. These estimates exclude the effects of the Park Holidays Sale and all other prospective acquisitions, dispositions and capital markets activity. The estimates and assumptions are forward-looking based on the Company's current assessment of economic and market conditions and are subject to the other risks outlined below under the caption Cautionary Statement Regarding Forward-Looking Statements.*
+
+
+**EARNINGS CONFERENCE CALL**
+
+
+A conference call to discuss second quarter results will be held on Tuesday, July 28, 2026 at 11:00 A.M. (ET). To participate, call toll-free at (877) 407-9039. Callers outside the U.S. or Canada can access the call at (201) 689-8470. A replay will be available following the call through August 11, 2026 and can be accessed toll-free by calling (844) 512-2921 or (412) 317-6671. The Conference ID number for the call and the replay is 13760809. The conference call will be available live on the Company's website located at www.suninc.com. The replay will also be available on the website.
+
+
+**CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS**
+
+
+This press release contains various "forward-looking statements" within the meaning of the Securities Act of 1933, as amended (the "Securities Act"), and the Securities Exchange Act of 1934, as amended (the "Exchange Act"), and the Company intends that such forward-looking statements will be subject to the safe harbors created thereby. For this purpose, any statements contained in this document that relate to expectations, beliefs, projections, future plans and strategies, trends or prospective events or developments, and similar expressions concerning matters that are not historical facts are deemed to be forward-looking statements. Words such as "forecasts," "intend," "goal," "estimate," "expect," "project," "projections," "plans," "predicts," "potential," "seeks," "anticipates," "should," "could," "may," "will," "designed to," "foreseeable future," "believe," "scheduled," "guidance," "target," and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these words. These forward-looking statements reflect the Company's current views with respect to future events and financial performance, but involve known and unknown risks, uncertainties, and other factors, both general and specific to the matters discussed in this document, some of which are beyond the Company's control. These risks, uncertainties, and other factors may cause the Company's actual results to be materially different from any future results expressed or implied by such forward-looking statements. In addition to the risks described under "Risk Factors" contained in the Company's Annual Report on Form 10-K for the year ended December 31, 2025, in Item 8.01 of the Company's Current Report on Form 8-K filed May 21, 2026, and in the Company's other filings with the Securities and Exchange Commission, from time to time, such risks, uncertainties and other factors include, but are not limited to:
+
+
+**∙** The ability of the Company to complete the proposed sale of Park Holidays on a timely basis or at all;
+
+
+**∙** Risks that the proposed sale of Park Holidays disrupts current plans and operations;
+
+
+**∙** The impacts of the announcement or consummation of the proposed sale of Park Holidays on business relationships;
+
+
+**∙** The anticipated cost related to the proposed sale of Park Holidays;
+
+
+**∙** The ability for the Company to realize the anticipated benefits of the proposed sale of Park Holidays;
+
+
+**∙** The Company's liquidity and refinancing demands;
+
+
+**∙** The Company's ability to obtain or refinance maturing debt;
+
+
+**∙** The Company's ability to maintain compliance with covenants contained in its debt facilities and its unsecured notes;
+
+
+**∙** Availability of capital;
+
+
+**∙** General volatility of the capital markets and the market price of shares of the Company's capital stock;
+
+
+**∙** Increases in interest rates and operating costs, including insurance premiums, real estate taxes, and utilities;
+
+
+**∙** Difficulties in the Company's ability to evaluate, finance, complete, and integrate acquisitions, developments, and expansions successfully;
+
+
+**∙** Competitive market forces;
+
+
+**∙** The ability of purchasers of manufactured homes to obtain financing;
+
+
+**∙** The level of repossessions of manufactured homes;
+
+
+**∙** The Company's ability to maintain effective internal control over financial reporting and disclosure controls and procedures;
+
+
+**∙** Expectations regarding the amount or frequency of impairment losses;
+
+
+**∙** Changes in general economic conditions, including inflation, deflation, energy costs, the real estate industry, the effects of tariffs or threats of tariffs, wars or other international conflicts, trade wars, immigration issues, supply chain disruptions, and the markets within which the Company operates;
+
+
+**∙** Changes in foreign currency exchange rates, including between the U.S. dollar and each of the British pound sterling, Canadian dollar, and Australian dollar;
+
+
+**∙** The Company's ability to maintain its status as a REIT;
+
+
+**∙** Changes in real estate and zoning laws and regulations;
+
+
+**∙** The Company's ability to maintain rental rates and occupancy levels;
+
+
+**∙** Legislative or regulatory changes, including changes to laws governing the taxation of REITs;
+
+
+**∙** Outbreaks of disease and related restrictions on business operations;
+
+
+**∙** Risks related to natural disasters such as hurricanes, earthquakes, floods, droughts, and wildfires; and
+
+
+**∙** Litigation, judgments or settlements, including costs associated with prosecuting or defending claims and any adverse outcomes.
+
+
+Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date the statement was made. The Company undertakes no obligation to publicly update or revise any forward-looking statements included or incorporated by reference into this document, whether as a result of new information, future events, changes in the Company's expectations or otherwise, except as required by law.
+
+
+Although the Company believes that the expectations reflected in the forward-looking statements are reasonable, the Company cannot guarantee future results, levels of activity, performance or achievements. All written and oral forward-looking statements attributable to the Company or persons acting on the Company's behalf are qualified in their entirety by these cautionary statements.
+
+
+**Company Overview and Investor Information**
+
+
+**The Company**
+
+
+Established in 1975, Sun Communities, Inc. became a publicly owned corporation in December 1993. The Company is a fully integrated REIT listed on the New York Stock Exchange under the symbol: SUI. As of June 30, 2026, the Company owned, operated, or had an interest in a portfolio of 455 developed MH and RV properties comprising approximately 156,130 developed sites in the U.S. and Canada. At that date, the Company also owned, operated, or held an interest in a portfolio of 54 U.K. properties comprising approximately 22,030 developed sites, which were classified within discontinued operations as of June 30, 2026.
+
+
+For more information about the Company, please visit www.suninc.com.
+
+
+**Company Contacts**
+
+
+**Investor Relations**
+
+
+Sara Ismail, Senior Vice President
+
+
+(248) 208-2500
+
+
+investorrelations@suncommunities.com
+
+
+**Corporate Debt Ratings**
+
+
+Moody's Baa2 | Stable
+
+
+S&P BBB+ | Stable
+
+
+**Portfolio Overview as of June 30, 2026**
+
+
+**MH & RV Properties**
+
+
+**Properties**
+
+
+**MH & Annual RV** **Transient RV Sites**
+
+
+**Total Sites**
+
+
+**Location** **Sites** **Occupancy %**
+
+
+Florida 125 42,520 97.1 % 4,700 47,220
+
+
+Michigan 90 34,420 98.2 % 510 34,930
+
+
+California 36 7,040 99.6 % 1,720 8,760
+
+
+Texas 28 9,330 97.8 % 1,410 10,740
+
+
+Connecticut 16 1,910 96.6 % 100 2,010
+
+
+Maine 14 2,520 97.7 % 810 3,330
+
+
+New Jersey 13 3,590 100.0 % 910 4,500
+
+
+Arizona 11 4,140 97.5 % 860 5,000
+
+
+Colorado 11 2,930 94.0 % 940 3,870
+
+
+Indiana 10 2,820 99.0 % 1,000 3,820
+
+
+Maryland 10 920 99.1 % 1,370 2,290
+
+
+New York 9 1,570 99.4 % 1,040 2,610
+
+
+Other 82 19,660 98.9 % 7,390 27,050
+
+
+**Total Portfolio** **455** 133,370 97.9 % 22,760 **156,130**
+
+
+**Financial and Operating Highlights**
+**($ in millions, except Per Share amounts)**
+
+
+**Quarters Ended**
+
+
+**6/30/2026** **3/31/2026** **12/31/2025** **9/30/2025** **6/30/2025**
+
+
+**Financial Information**
+
+
+Basic earnings / (loss) per share from continuing operations $ 0.65 $ 0.13 $ 0.88 $ (0.45 ) $ (0.74 )
+
+
+Basic earnings / (loss) per share from discontinued operations (8.71 ) (0.20 ) 0.11 0.52 10.76
+
+
+Basic earnings / (loss) per share $ (8.06 ) $ (0.07 ) $ 0.99 $ 0.07 $ 10.02
+
+
+Diluted earnings / (loss) per share from continuing operations $ 0.32 $ 0.13 $ 0.88 $ (0.45 ) $ (0.74 )
+
+
+Diluted earnings / (loss) per share from discontinued operations (8.40 ) (0.20 ) 0.11 0.52 10.76
+
+
+Diluted earnings / (loss) per share $ (8.08 ) $ (0.07 ) $ 0.99 $ 0.07 $ 10.02
+
+
+Cash distributions declared per common share(a) $ 1.12 $ 1.12 $ 1.04 $ 1.04 $ 1.04
+
+
+FFO per Share(b) $ 1.77 $ 0.95 $ 2.15 $ 2.18 $ 1.36
+
+
+Core FFO per Share(b) $ 1.84 $ 1.40 $ 1.40 $ 2.28 $ 1.76
+
+
+Real Property NOI(b)
+
+
+MH $ 186.5 $ 185.7 $ 178.8 $ 171.8 $ 168.5
+
+
+RV 74.1 50.7 53.3 115.5 72.9
+
+
+Total $ 260.6 $ 236.4 $ 232.1 $ 287.3 $ 241.4
+
+
+Recurring EBITDA(b) $ 264.4 $ 195.2 $ 206.2 $ 335.7 $ 291.3
+
+
+TTM Recurring EBITDA / Interest(b) 6.6 x 6.0 x 4.9 x 4.4 x 3.8 x
+
+
+Net Debt / TTM Recurring EBITDA(b) 3.9 x 3.7 x 3.4 x 3.3 x 2.9 x
+
+
+Balance Sheet
+
+
+Total assets $ 10,867.6 $ 12,358.8 $ 12,522.9 $ 12,800.3 $ 13,362.1
+
+
+Total debt $ 4,052.2 $ 4,246.2 $ 4,258.7 $ 4,271.7 $ 4,283.5
+
+
+Total liabilities $ 5,090.0 $ 5,299.1 $ 5,194.4 $ 5,438.0 $ 5,570.0
+
+
+**Operating Information**
+
+
+Properties
+
+
+MH 295 295 294 284 284
+
+
+RV 160 166 166 164 164
+
+
+Total 455 461 460 448 448
+
+
+Sites
+
+
+MH 100,860 100,830 100,150 97,070 97,380
+
+
+Annual RV 32,510 32,730 33,330 32,480 32,100
+
+
+Transient 22,760 23,820 23,550 23,560 23,440
+
+
+Total sites 156,130 157,380 157,030 153,110 152,920
+
+
+Occupancy
+
+
+MH 97.3 % 97.1 % 97.2 % 97.9 % 97.4 %
+
+
+Annual RV 100.0 % 100.0 % 100.0 % 100.0 % 100.0 %
+
+
+Blended MH and annual RV 97.9 % 97.8 % 97.9 % 98.4 % 98.1 %
+
+
+MH and RV Revenue Producing Site Net Gains(c)
+
+
+MH leased sites, net 157 16 178 152 170
+
+
+RV leased sites, net 91 (324 ) (37 ) 371 288
+
+
+Total leased sites, net 248 (308 ) 141 523 458
+
+
+(a) During the quarter ended June 30, 2025, the Company also paid a one-time special cash distribution of $4.00 per common share and unit.
+(b) Refer to Definition and Notes for additional information.
+(c) Revenue producing site net gains do not include occupied sites acquired during the year.
+
+
+**Condensed Consolidated Balance Sheets**
+**($ in millions)**
+
+
+**June 30, 2026** **December 31, 2025**
+
+
+**Assets**
+
+
+Land $ 1,793.8 $ 1,810.5
+
+
+Land improvements and buildings 8,733.9 8,699.2
+
+
+Rental homes and improvements 998.3 940.2
+
+
+Furniture, fixtures and equipment 687.2 674.3
+
+
+Investment property 12,213.2 12,124.2
+
+
+Accumulated depreciation (3,702.0 ) (3,505.7 )
+
+
+Investment property, net 8,511.2 8,618.5
+
+
+Cash, cash equivalents and restricted cash(a) 165.2 606.7
+
+
+Inventory of manufactured homes 75.7 84.7
+
+
+Notes and other receivables, net 282.4 262.9
+
+
+Collateralized receivables, net(a) 39.2 43.2
+
+
+Goodwill 9.5 9.5
+
+
+Other intangible assets, net 34.0 36.7
+
+
+Other assets, net 303.7 309.2
+
+
+Assets held for sale and discontinued operations, net(a) 1,446.7 2,551.5
+
+
+**Total Assets** $ 10,867.6 $ 12,522.9
+
+
+**Liabilities**
+
+
+Mortgage loans payable $ 2,225.3 $ 2,429.0
+
+
+Secured borrowings on collateralized receivables(a) 39.2 43.2
+
+
+Unsecured debt 1,787.7 1,786.5
+
+
+Distributions payable 139.9 131.1
+
+
+Advanced reservation deposits and rent 199.9 125.9
+
+
+Accrued expenses and accounts payable 193.3 178.3
+
+
+Other liabilities 75.8 73.2
+
+
+Liabilities held for sale and discontinued operations, net(a) 428.9 427.2
+
+
+**Total Liabilities** 5,090.0 5,194.4
+
+
+Commitments and contingencies
+
+
+Temporary equity 184.0 255.7
+
+
+**Shareholders' Equity**
+
+
+Common stock 1.2 1.2
+
+
+Additional paid-in capital 9,487.5 9,563.1
+
+
+Accumulated other comprehensive income 2.4 26.5
+
+
+Distributions in excess of accumulated earnings (3,971.7 ) (2,634.7 )
+
+
+Total SUI Shareholders' Equity 5,519.4 6,956.1
+
+
+Noncontrolling interests 74.2 116.7
+
+
+**Total Shareholders' Equity** 5,593.6 7,072.8
+
+
+**Total Liabilities, Temporary Equity and Shareholders' Equity** $ 10,867.6 $ 12,522.9
+
+
+(a) Refer to Definitions and Notes for additional information.
+
+
+**Condensed Consolidated Statements of Operations**
+**($ in millions, except for per share amounts)**
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **% Change** **2026** **2025** **% Change**
+
+
+**Revenues**
+
+
+Real property (excluding transient)(a) $ 362.1 $ 335.3 8.0 % $ 712.7 $ 657.9 8.3 %
+
+
+Real property - transient 60.6 63.6 (4.7) % 89.5 92.2 (2.9) %
+
+
+Home sales 27.8 41.8 (33.5) % 54.3 70.5 (23.0) %
+
+
+Ancillary 24.6 25.5 (3.5) % 33.1 33.8 (2.1) %
+
+
+Interest 6.2 16.4 (62.2) % 13.4 20.8 (35.6) %
+
+
+Brokerage commissions and other, net 3.3 13.3 (75.2) % 5.0 14.9 (66.4) %
+
+
+**Total Revenues** 484.6 495.9 (2.3) % 908.0 890.1 2.0 %
+
+
+**Expenses**
+
+
+Property operating and maintenance(a) 134.5 131.0 2.7 % 250.3 240.1 4.2 %
+
+
+Real estate tax 27.6 26.5 4.2 % 54.9 51.3 7.0 %
+
+
+Home costs and selling 24.5 35.0 (30.0) % 49.4 59.5 (17.0) %
+
+
+Ancillary 17.2 18.1 (5.0) % 26.3 26.8 (1.9) %
+
+
+General and administrative 49.9 50.6 (1.4) % 108.5 97.6 11.2 %
+
+
+Catastrophic event-related charges, net 0.8 0.4 100.0 % 1.3 0.3 N/M
+
+
+Depreciation and amortization 123.9 117.3 5.6 % 245.3 232.0 5.7 %
+
+
+Asset impairments(a) 17.9 33.4 (46.4) % 18.2 57.4 5.7 %
+
+
+Loss on extinguishment of debt — 102.4 (100.0) % — 102.4 (100.0) %
+
+
+Interest 38.1 54.4 (30.0) % 76.5 132.9 (42.4) %
+
+
+**Total Expenses** 434.4 569.1 (23.7) % 830.7 1,000.3 (17.0) %
+
+
+**Income / (Loss) Before Other Items** 50.2 (73.2 ) N/M 77.3 (110.2 ) N/M
+
+
+Gain / (loss) on foreign currency exchanges 13.3 39.4 (66.2) % (10.6 ) 48.1 N/M
+
+
+Loss on dispositions of properties, net (22.0 ) (1.3 ) N/M (20.9 ) (2.1 ) N/M
+
+
+Other income / (expense), net(a) (0.1 ) 6.9 N/M 8.4 12.6 (33.3) %
+
+
+Loss on remeasurement of notes receivable (2.9 ) (1.4 ) 107.1 % (2.8 ) (1.6 ) 75.0 %
+
+
+Income from nonconsolidated affiliates 6.1 3.8 60.5 % 12.2 6.8 79.4 %
+
+
+Loss on remeasurement of investment in nonconsolidated affiliates (1.7 ) (1.5 ) 13.3 % (1.5 ) (1.5 ) — %
+
+
+Current tax expense (0.6 ) (2.6 ) (76.9) % (1.5 ) (3.8 ) (60.5) %
+
+
+Deferred tax benefit / (expense) — (0.1 ) (100.0) % 0.1 — N/A
+
+
+**Net Income / (Loss) from Continuing Operations** 42.3 (30.0 ) N/M 60.7 (51.7 ) N/M
+
+
+Income / (loss) from discontinued operations, net(a) (1,067.2 ) 1,360.3 N/M (1,091.9 ) 1,340.4 N/M
+
+
+**Net Income / (Loss)** (1,024.9 ) 1,330.3 N/M (1,031.2 ) 1,288.7 N/M
+
+
+Less: Preferred return to preferred OP units / equity interests 2.5 3.2 (21.9) % 5.2 6.3 (17.5) %
+
+
+Less: Income / (loss) attributable to noncontrolling interests (34.7 ) 53.5 N/M (35.0 ) 51.6 N/M
+
+
+**Net Income / (Loss) Attributable to SUI Common Shareholders** $ (992.7 ) $ 1,273.6 N/M $ (1,001.4 ) $ 1,230.8 N/M
+
+
+Weighted average common shares outstanding - basic(a) 122.5 126.4 (3.1) % 122.6 126.5 (3.1) %
+
+
+Weighted average common shares outstanding - diluted(a) 127.0 126.4 0.5 % 127.4 126.5 0.7 %
+
+
+Basic earnings / (loss) per share from continuing operations $ 0.65 $ (0.74 ) N/M $ 0.78 $ (0.92 ) N/M
+
+
+Basic earnings / (loss) per share from discontinued operations (8.71 ) 10.76 N/M (8.91 ) 10.60 N/M
+
+
+Basic earnings / (loss) per share $ (8.06 ) $ 10.02 N/M $ (8.13 ) $ 9.68 N/M
+
+
+Diluted earnings / (loss) per share from continuing operations(b) $ 0.32 $ (0.74 ) N/M $ 0.47 $ (0.92 ) N/M
+
+
+Diluted earnings / (loss) per share from discontinued operations(b) (8.40 ) 10.76 N/M (8.57 ) 10.60 N/M
+
+
+Diluted earnings / (loss) per share(b) $ (8.08 ) $ 10.02 N/M $ (8.10 ) $ 9.68 N/M
+
+
+(a) Refer to Definitions and Notes for additional information.
+(b) Excludes the effect of certain anti-dilutive convertible securities.
+N/M = Not meaningful. N/A = Not applicable.
+
+
+**Reconciliation of Net Income / (Loss) Attributable to SUI Common Shareholders to Core FFO**
+**($ in millions, except for per share data)**
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+**Net Income / (Loss) Attributable to SUI Common Shareholders** $ (992.7 ) $ 1,273.6 $ (1,001.4 ) $ 1,230.8
+
+
+Adjustments
+
+
+Depreciation and amortization - continuing operations(a) 122.3 117.1 242.1 231.3
+
+
+Depreciation and amortization - discontinued operations(a) 7.0 8.9 17.1 53.6
+
+
+Depreciation on nonconsolidated affiliates 0.3 0.2 0.6 0.4
+
+
+Asset impairments - continuing operations 17.9 33.4 18.2 57.4
+
+
+Asset impairments - discontinued operations — 132.9 — 135.0
+
+
+Loss on classification to held for sale - discontinued operations 1,077.2 — 1,077.2 —
+
+
+Loss on remeasurement of investment in nonconsolidated affiliates 1.7 1.5 1.5 1.5
+
+
+Loss on remeasurement of notes receivable 2.9 1.4 2.8 1.6
+
+
+Loss on dispositions of properties, including tax effect - continuing operations 22.0 2.9 20.9 3.6
+
+
+(Gain) / loss on dispositions of properties, including tax effect - discontinued operations 0.8 (1,445.0 ) 1.7 (1,444.7 )
+
+
+Add: Returns on preferred OP units / equity interests 2.5 3.1 5.2 6.3
+
+
+Add: Income / (loss) attributable to noncontrolling interests (34.7 ) 53.5 (35.0 ) 51.6
+
+
+Gain on disposition of assets, net - continuing operations (3.0 ) (4.1 ) (4.7 ) (7.7 )
+
+
+(Gain) / loss on disposition of assets, net - discontinued operations — 0.1 (0.4 ) (0.2 )
+
+
+**FFO** **(a)(c)(d)** 224.2 179.5 345.8 320.5
+
+
+Adjustments
+
+
+Acquisition and other transaction costs - continuing operations(a) 1.7 4.6 3.4 13.6
+
+
+Acquisition and other transaction costs - discontinued operations 14.9 50.5 15.4 65.6
+
+
+Loss on extinguishment of debt — 102.4 — 102.4
+
+
+Catastrophic event-related charges, net 0.8 0.4 1.3 0.3
+
+
+Loss of earnings - catastrophic event-related charges, net(a) 3.2 (5.7 ) 6.4 (1.7 )
+
+
+(Gain) / loss on foreign currency exchanges - continuing operations (13.3 ) (39.4 ) 10.6 (48.1 )
+
+
+Loss on foreign currency exchanges - discontinued operations 0.1 — 0.7 —
+
+
+Deferred tax (benefit) / expense - continuing operations — 0.1 (0.1 ) —
+
+
+Deferred tax (benefit) / expense - discontinued operations (2.6 ) (32.2 ) 3.9 (37.3 )
+
+
+Other adjustments, net - continuing operations 5.2 (3.8 ) 13.5 (6.7 )
+
+
+Other adjustments, net - discontinued operations (0.2 ) (24.5 ) 12.2 (9.9 )
+
+
+**Core FFO** **(a)(b)(c)(d)** $ 234.0 $ 231.9 $ 413.1 $ 398.7
+
+
+**Weighted Average Common Shares and OP Units Outstanding** **(a)(b)** 127.0 131.8 127.4 132.1
+
+
+**FFO per Share** **(a)(b)(c)** $ 1.77 $ 1.36 $ 2.71 $ 2.43
+
+
+**Core FFO per Share** **(a)(b)(c)** $ 1.84 $ 1.76 $ 3.24 $ 3.02
+
+
+(a) Refer to Definitions and Notes for additional information.
+(b) Assumes full conversion of all equity participating units, including common and preferred OP units, into the Company's common stock.
+(c) FFO and Core FFO include discontinued operations activity of $17.7 million or $0.14 per Share, and $30.0 million or $0.24 per Share, respectively, during the quarter ended June 30, 2026, and $57.2 million or $0.43 per Share, and $51.1 million or $0.39 per Share, respectively, during the quarter ended June 30, 2025.
+(d) FFO and Core FFO include discontinued operations activity of $3.6 million or $0.03 per Share, and $35.7 million or $0.28 per Share, respectively, during the six months ended June 30, 2026, and $84.1 million or $0.64 per Share, and $102.7 million or $0.78 per Share, respectively, during the six months ended June 30, 2025.
+
+
+**Reconciliation of Net income / (Loss) Attributable to SUI Common Shareholders to NOI**
+**($ in millions)**
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+Interest income (6.2 ) (16.4 ) (13.4 ) (20.8 )
+
+
+Brokerage commissions and other revenues, net (3.3 ) (13.3 ) (5.0 ) (14.9 )
+
+
+General and administrative 49.9 50.6 108.5 97.6
+
+
+Catastrophic event-related charges, net 0.8 0.4 1.3 0.3
+
+
+Depreciation and amortization 123.9 117.3 245.3 232.0
+
+
+Asset impairments 17.9 33.4 18.2 57.4
+
+
+Loss on extinguishment of debt — 102.4 — 102.4
+
+
+Interest expense 38.1 54.4 76.5 132.9
+
+
+(Gain) / loss on foreign currency exchanges (13.3 ) (39.4 ) 10.6 (48.1 )
+
+
+Loss on disposition of properties 22.0 1.3 20.9 2.1
+
+
+Other (income) / expense, net(a) 0.1 (6.9 ) (8.4 ) (12.6 )
+
+
+Loss on remeasurement of notes receivable 2.9 1.4 2.8 1.6
+
+
+Income from nonconsolidated affiliates (6.1 ) (3.8 ) (12.2 ) (6.8 )
+
+
+Current tax expense 0.6 2.6 1.5 3.8
+
+
+Deferred tax (benefit) / expense — 0.1 (0.1 ) —
+
+
+Net (income) / loss from discontinued operations, net 1,067.2 (1,360.3 ) 1,091.9 (1,340.4 )
+
+
+Add: Preferred return to preferred OP units / equity interests 2.5 3.2 5.2 6.3
+
+
+**NOI** $ 271.3 $ 255.6 $ 508.7 $ 476.7
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+Real property NOI(a) $ 260.6 $ 241.4 $ 497.0 $ 458.7
+
+
+Home sales NOI(a) 3.3 6.8 4.9 11.0
+
+
+Ancillary NOI(a) 7.4 7.4 6.8 7.0
+
+
+**NOI** **(a)** $ 271.3 $ 255.6 $ 508.7 $ 476.7
+
+
+(a) Refer to Definitions and Notes for additional information.
+
+
+**Reconciliation of Net Income / (Loss) Attributable to SUI Common Shareholders to Recurring EBITDA**
+**($ in millions)**
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+Adjustments
+
+
+Depreciation and amortization - continuing operations 123.9 117.3 245.3 232.0
+
+
+Depreciation and amortization - discontinued operations 7.8 9.8 18.9 55.2
+
+
+Asset impairments - continuing operations - continuing operations(a) 17.9 33.4 18.2 57.4
+
+
+Asset impairments - discontinued operations — 132.9 — 135.0
+
+
+Loss on classification to held for sale - discontinued operations(a) 1,077.2 — 1,077.2 —
+
+
+Loss on extinguishment of debt — 102.4 — 102.4
+
+
+Interest expense - continuing operations 38.1 54.4 76.5 132.9
+
+
+Interest expense - discontinued operations 0.2 3.8 0.2 7.4
+
+
+Current tax expense - continuing operations 0.6 2.6 1.5 3.8
+
+
+Current tax expense - discontinued operations 2.5 3.8 3.3 4.8
+
+
+Deferred tax (benefit) / expense - continuing operations — 0.1 (0.1 ) —
+
+
+Income from nonconsolidated affiliates (6.1 ) (3.8 ) (12.2 ) (6.8 )
+
+
+Less: Loss on dispositions of properties - continuing operations 22.0 1.3 20.9 2.1
+
+
+Less: (Gain) / loss on dispositions of properties - discontinued operations 0.8 (1,445.0 ) 1.7 (1,444.7 )
+
+
+Less: Loss on dispositions of assets, net - continuing operations (3.0 ) (4.1 ) (4.7 ) (7.7 )
+
+
+Less: (Gain) / loss on dispositions of assets, net - discontinued operations — 0.1 (0.4 ) (0.2 )
+
+
+**EBITDAre** **(a)(b)** 286.6 250.4 448.8 467.1
+
+
+Adjustments
+
+
+Transaction costs - discontinued operations(a)(c) 14.9 48.0 14.9 62.6
+
+
+Catastrophic event-related charges, net - continuing operations 0.8 0.4 1.3 0.3
+
+
+Loss on foreign currency exchanges - discontinued operations(a) 0.1 — 0.7 —
+
+
+Other (income) / expense, net - continuing operations(a) 0.1 (6.9 ) (8.4 ) (12.6 )
+
+
+Other (income) / expense, net - discontinuing operations(a) (0.2 ) (24.8 ) 12.1 (10.2 )
+
+
+Loss on remeasurement of notes receivable 2.9 1.4 2.8 1.6
+
+
+Add: Preferred return to preferred OP units / equity interests 2.5 3.2 5.2 6.3
+
+
+Add: Gain on dispositions of assets, net - continuing operations 3.0 4.1 4.7 7.7
+
+
+Add: Gain / (loss) on dispositions of assets, net - discontinued operations — (0.1 ) 0.4 0.2
+
+
+**Recurring EBITDA** **(a)(b)** $ 264.4 $ 291.3 $ 459.6 $ 528.0
+
+
+(a) Refer to Definitions and Notes for additional information.
+(b) EBITDAre and Recurring EBITDA include discontinued operations activity.
+(c) Represents non-recurring transaction costs that are directly attributable to the Park Holidays Sale and the Safe Harbor Sale for the applicable periods.
+
+
+**Real Property Operations - Total Portfolio**
+**($ in millions)**
+
+
+**Quarter Ended June 30, 2026** **Quarter Ended June 30, 2025**
+
+
+**MH** **RV** **Total** **MH** **RV** **Total**
+
+
+**Revenues**
+
+
+Real property (excluding transient)(a) $ 271.2 $ 90.9 $ 362.1 $ 249.8 $ 85.5 $ 335.3
+
+
+Real property - transient 0.2 60.4 60.6 0.2 63.4 63.6
+
+
+Total operating revenues 271.4 151.3 422.7 250.0 148.9 398.9
+
+
+**Expenses**
+
+
+Property operating expenses 84.9 77.2 162.1 81.5 76.0 157.5
+
+
+**Real Property NOI** **(a)** $ 186.5 $ 74.1 $ 260.6 $ 168.5 $ 72.9 $ 241.4
+
+
+**Six Months Ended June 30, 2026** **Six Months Ended June 30, 2025**
+
+
+**MH** **RV** **Total** **MH** **RV** **Total**
+
+
+**Revenues**
+
+
+Real property (excluding transient)(a) $ 540.5 $ 172.2 $ 712.7 $ 498.6 $ 159.3 $ 657.9
+
+
+Real property - transient 0.7 88.8 89.5 0.7 91.5 92.2
+
+
+Total operating revenues 541.2 261.0 802.2 499.3 250.8 750.1
+
+
+**Expenses**
+
+
+Property operating expenses 169.0 136.2 305.2 158.2 133.2 291.4
+
+
+**Real Property NOI** $ 372.2 $ 124.8 $ 497.0 $ 341.1 $ 117.6 $ 458.7
+
+
+**As of June 30, 2026** **As of June 30, 2025**
+
+
+**MH** **RV** **Total** **MH** **RV** **Total**
+
+
+**Number of Properties** 295 160 455 284 164 448
+
+
+**Sites**
+
+
+Sites(b) 100,860 32,510 133,370 97,380 32,100 129,480
+
+
+Transient sites N/A 22,760 22,760 N/A 23,440 23,440
+
+
+Total 100,860 55,270 156,130 97,380 55,540 152,920
+
+
+**Occupancy** 97.3 % 100.0 % 97.9 % 97.4 % 100.0 % 98.1 %
+
+
+N/A = Not applicable.
+(a) Refer to Definitions and Notes for additional information.
+(b) MH annual sites included 13,130 and 11,567 rental homes in the Company's rental program at June 30, 2026 and 2025, respectively. The Company's gross investment in occupied rental homes at June 30, 2026 was $979.3 million, an increase of 20.5% from $812.5 million at June 30, 2025.
+
+
+**Real Property Operations - Same Property Portfolio** **(a)**
+**($ in millions)**
+
+
+**Quarter Ended June 30,**
+
+
+**2026** **2025** **Total Change**
+
+
+**% Change** **(b)**
+
+
+**MH** **RV** **Total** **MH** **RV** **Total** **MH** **RV** **Total**
+
+
+**Same Property Revenues**
+
+
+Real property (excluding transient) $ 246.1 $ 80.4 $ 326.5 $ 231.7 $ 77.4 $ 309.1 $ 17.4 6.2 % 3.8 % 5.6 %
+
+
+Real property - transient 0.2 57.3 57.5 0.2 60.2 60.4 (2.9 ) 22.1 % (4.8) % (4.7) %
+
+
+Total Same Property operating revenues 246.3 137.7 384.0 231.9 137.6 369.5 14.5 6.2 % — % 3.9 %
+
+
+**Same Property Expenses**
+
+
+Payroll and benefits 14.6 22.5 37.1 15.4 23.1 38.5 (1.4 ) (5.7) % (2.8) % (4.0) %
+
+
+Real estate taxes 19.6 6.9 26.5 19.1 6.8 25.9 0.6 2.4 % 1.5 % 2.2 %
+
+
+Supplies and repairs 13.4 10.0 23.4 11.8 8.8 20.6 2.8 14.0 % 14.3 % 14.1 %
+
+
+Utilities 5.4 12.7 18.1 5.3 11.8 17.1 1.0 2.8 % 7.6 % 6.1 %
+
+
+Legal, state / local taxes, and insurance 6.9 2.3 9.2 7.9 3.0 10.9 (1.7 ) (13.2) % (24.1) % (16.1) %
+
+
+Other 3.1 12.2 15.3 3.9 12.6 16.5 (1.2 ) (19.5) % (3.0) % (6.8) %
+
+
+Total Same Property operating expenses(a) 63.0 66.6 129.6 63.4 66.1 129.5 0.1 (0.7) % 0.8 % 0.1 %
+
+
+**Real Property NOI** **(a)** $ 183.3 $ 71.1 $ 254.4 $ 168.5 $ 71.5 $ 240.0 $ 14.4 8.8 % (0.7) % 6.0 %
+
+
+**Six Months Ended June 30,**
+
+
+**2026** **2025** **Total Change**
+
+
+**% Change** **(b)**
+
+
+**MH** **RV** **Total** **MH** **RV** **Total** **MH** **RV** **Total**
+
+
+**Same Property Revenues**
+
+
+Real property (excluding transient) $ 489.1 $ 151.9 $ 641.0 $ 459.5 $ 144.7 $ 604.2 $ 36.8 6.4 % 5.0 % 6.1 %
+
+
+Real property - transient 0.7 82.9 83.6 0.7 86.3 87.0 (3.4 ) 4.5 % (3.9) % (3.9) %
+
+
+Total Same Property operating revenues 489.8 234.8 724.6 460.2 231.0 691.2 33.4 6.4 % 1.7 % 4.8 %
+
+
+**Same Property Expenses**
+
+
+Payroll and benefits 29.6 38.5 68.1 29.4 39.1 68.5 (0.4 ) 0.8 % (1.4) % (0.4) %
+
+
+Real estate taxes 39.0 13.8 52.8 36.7 13.4 50.1 2.7 6.4 % 2.5 % 5.3 %
+
+
+Supplies and repairs 24.7 15.9 40.6 21.2 14.2 35.4 5.2 16.5 % 11.8 % 14.6 %
+
+
+Utilities 10.3 23.5 33.8 10.9 22.2 33.1 0.7 (5.6) % 5.8 % 2.1 %
+
+
+Legal, state / local taxes, and insurance 14.3 4.9 19.2 15.4 5.9 21.3 (2.1 ) (7.5) % (16.6) % (10.0) %
+
+
+Other 6.0 19.6 25.6 6.4 19.9 26.3 (0.7 ) (5.2) % (1.4) % (2.3) %
+
+
+Total Same Property operating expenses(a) 123.9 116.2 240.1 120.0 114.7 234.7 5.4 3.3 % 1.3 % 2.3 %
+
+
+**Real Property NOI** **(a)** $ 365.9 $ 118.6 $ 484.5 $ 340.2 $ 116.3 $ 456.5 $ 28.0 7.5 % 2.0 % 6.1 %
+
+
+(a) Refer to Definitions and Notes for additional information.
+(b) Percentages are calculated based on unrounded numbers.
+*Real Property Operations - Same Property Portfolio* *(Continued)*
+
+
+**As of June 30,**
+
+
+**2026** **2025**
+
+
+**MH** **RV** **MH** **RV**
+
+
+**Number of properties** (a) 282 152 282 152
+
+
+**Sites**
+
+
+MH and annual RV sites 97,190 30,790 97,070 30,850
+
+
+Transient RV sites N/A 21,240 N/A 21,440
+
+
+Total 97,190 52,030 97,070 52,290
+
+
+**MH and Annual RV Occupancy**
+
+
+Occupancy(b) 97.8 % 100.0 % 97.4 % 100.0 %
+
+
+Average monthly base rent per site $ 766 $ 700 $ 730 $ 679
+
+
+% Change of monthly base rent(c) 4.9 % 3.2 % N/A N/A
+
+
+**Rental Program Statistics included in MH**
+
+
+Number of occupied sites, end of period(d) 12,750 N/A 11,540 N/A
+
+
+Monthly rent per site – MH rental program $ 1,409 N/A $ 1,374 N/A
+
+
+% Change(c) 2.5 % N/A N/A N/A
+
+
+N/A = Not applicable.
+(a) Financial results from properties impacted by dispositions and catastrophic weather events have been removed from Same Property reporting.
+(b) Same Property blended occupancy for MH and RV was 98.3% at June 30, 2026, up 30 basis points from 98.0% at June 30, 2025. Adjusting for recently delivered and vacant expansion sites, Same Property adjusted blended occupancy for MH and RV declined by 10 basis points to 98.8% at June 30, 2026, from 98.9% at June 30, 2025.
+(c) Percentages are calculated based on unrounded numbers.
+(d) Occupied rental program sites in Same Property are included in total sites.
+
+
+**Home Sales Summary**
+**($ in millions, except for average selling price)**
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **% Change** **2026** **2025** **% Change**
+
+
+**Financial Information**
+
+
+Home sales $ 27.8 $ 41.8 (33.5) % $ 54.3 $ 70.5 (23.0) %
+
+
+Home cost and selling expenses 24.5 35.0 (30.0) % 49.4 59.5 (17.0) %
+
+
+NOI(a)(b) $ 3.3 $ 6.8 (51.5) % $ 4.9 $ 11.0 (55.5) %
+
+
+NOI margin %(a) 11.9 % 16.3 % 9.0 % 15.6 %
+
+
+**Other Information**
+
+
+**Units Sold:** 326 480 (32.1) % 618 827 (25.3) %
+
+
+**Average Selling Price:** $ 85,276 $ 87,083 (2.1) % $ 87,864 $ 85,248 3.1 %
+
+
+(a) Refer to Definitions and Notes for additional information.
+
+
+**Operating Statistics for MH and Annual RVs**
+
+
+**Resident Move-outs** **Leased Sites, Net** **(b)**
+
+
+**New Home Sales**
+
+
+**Pre-owned Home Sales**
+
+
+**Brokered Re-sales**
+
+
+**% of Total Sites** **Number of Move-outs**
+
+
+2026 - YTD as of June 30 5.8%(a) 5,777 (60 ) 139 479 946
+
+
+2025 6.2 % 10,179 1,138 354 1,210 1,646
+
+
+2024 4.3 % 7,050 3,209 447 1,554 1,700
+
+
+(a) Percentage calculated based on a trailing 12-month basis.
+(b) Increase in revenue producing sites, net of new vacancies.
+
+
+**Acquisitions and Dispositions**
+**($ in millions)**
+
+
+**Property Name** **Segment** **Number of Properties** **Sites** **State, Province, or Country** **Total Purchase Price / Sales Proceeds** **Month**
+
+
+**ACQUISITIONS**
+
+
+**First Quarter 2026**
+
+
+Parkhurst Estates MH 1 279 MI $ 17.0 January
+
+
+**Total Acquisitions Year to Date** **1** **279** **$** **17.0**
+
+
+**DISPOSITIONS**
+
+
+**Second Quarter 2026**
+
+
+Sun Retreats Amherstberg RV 1 299 ON $ 0.1 April
+
+
+Joint Venture RV Portfolio RV 5 945 Various 9.0 June
+
+
+**Total Dispositions to Date** **6** **1,244** **$** **9.1**
+
+
+**Capital Expenditures** **(a)**
+**($ in millions)**
+
+
+**Non-Recurring Capital Expenditures**
+
+
+**Period** **Recurring Capital Expenditures** **Lot Modifications** **Growth Projects** **Capital Improvements to Recent Acquisitions** **Expansion and Development** **Total Non-Recurring Capital Expenditures** **Total**
+
+
+Six Months Ended June 30, 2026 $ 29.7 $ 20.3 $ 8.3 $ 3.8 $ 14.8 $ 47.2 $ 76.9
+
+
+Year Ended December 31, 2025 $ 55.8 $ 38.8 $ 12.9 $ 8.3 $ 66.7 $ 126.7 $ 182.5
+
+
+Year Ended December 31, 2024 $ 54.5 $ 35.5 $ 11.5 $ 22.9 $ 105.2 $ 175.1 $ 229.6
+
+
+(a) Refer to Definitions and Notes for additional information.
+
+
+**Capitalization Overview**
+**($ in millions, shares and units in thousands, except for share price)**
+
+
+**As of June 30, 2026**
+
+
+**Common Equivalent Shares** **Share Price** **Capitalization**
+
+
+**Equity and Enterprise Value**
+
+
+Common shares 122,507 $ 119.91 $ 14,689.8
+
+
+Convertible securities
+
+
+Common OP units 2,353 $ 119.91 282.1
+
+
+Preferred OP units 2,007 $ 119.91 240.7
+
+
+Diluted shares outstanding and market capitalization(a) 126,867 15,212.6
+
+
+Plus: Total debt, per condensed consolidated balance sheet 4,052.2
+
+
+Total capitalization 19,264.8
+
+
+Less: Cash and cash equivalents (excluding restricted cash) - continuing operations (150.6 )
+
+
+Less: Cash and cash equivalents (excluding restricted cash) - discontinued operations (33.5 )
+
+
+**Enterprise Value** **(a)** **$** **19,080.7**
+
+
+(a) Refer to Definitions and Notes for additional information related to the Company's securities outstanding.
+
+
+(b)
+
+
+**As of June 30, 2026**
+
+
+**Debt Outstanding** **Weighted Average Interest Rate** **(a)** **Weighted Average Maturity**
+**(in years)** **Maturity Date**
+
+
+**Secured Debt:**
+
+
+Mortgage loans payable $ 2,225.3 3.62 % 8.6 Various
+
+
+Secured borrowings on collateralized receivables(b) 39.2 8.53 % 11.8 Various
+
+
+Total Secured Debt 2,264.5 3.70 %
+
+
+**Unsecured Debt:**
+
+
+Senior Unsecured Notes:
+
+
+2028 senior unsecured notes 448.4 2.29 % 2.3 November 2028
+
+
+2031 senior unsecured notes 744.8 2.70 % 5.0 July 2031
+
+
+2032 senior unsecured notes 594.5 3.61 % 5.8 April 2032
+
+
+Total Unsecured Debt 1,787.7 2.90 % 4.6
+
+
+Total carrying value of debt, per condensed consolidated balance sheets 4,052.2 3.35 % 6.9
+
+
+Plus: Unamortized deferred financing costs, discounts / premiums on debt, and fair value adjustments(a) 17.9
+
+
+**Total debt** **$** **4,070.1**
+
+
+(a) Includes the effect of amortizing deferred financing costs, unsecured note discounts, and fair value adjustments on the Secured borrowings on collateralized receivables.
+(b) Refer to Definitions and Notes for additional information.
+(c)
+
+
+**Debt Maturities** **(a)**
+
+
+**($ in millions)**
+
+
+**As of June 30, 2026**
+
+
+**Year** **Mortgage Loans Payable** **(b)** **Principal Amortization** **Secured Borrowings on Collateralized Receivables** **(c)(d)** **Senior**
+**Unsecured Notes** **Total**
+
+
+2026 $ 314.1 $ 17.1 $ — $ — $ 331.2
+
+
+2027 — 34.8 1.0 — 35.8
+
+
+2028 175.6 38.8 2.2 450.0 666.6
+
+
+2029 310.7 38.1 2.4 — 351.2
+
+
+2030 7.5 37.3 2.6 — 47.4
+
+
+Thereafter 807.9 452.1 27.9 1,350.0 2,637.9
+
+
+Total $ 1,615.8 $ 618.2 $ 36.1 $ 1,800.0 $ 4,070.1
+
+
+(a) Debt maturities include the unamortized deferred financing costs, discount / premiums, and fair value adjustments associated with outstanding debt.
+(b) For the Mortgage loans payable maturing between 2026 - 2030:
+
+
+**2026** **2027** **2028** **2029** **2030**
+
+
+Weighted average interest rate 3.73 % — % 3.97 % 3.16 % 3.45 %
+
+
+(c) Balance at June 30, 2026 excludes fair value adjustments of $3.2 million.
+(d) Refer to Definitions and Notes for additional information.
+
+
+**Debt Analysis**
+
+
+**As of June 30, 2026**
+
+
+**Select Credit Ratios**
+
+
+Net Debt / TTM Recurring EBITDA(a) 3.9 x
+
+
+Net Debt / Enterprise Value(a) 20.3 %
+
+
+Net Debt / Gross Assets(a) 26.7 %
+
+
+Unencumbered assets / Total assets 79.1 %
+
+
+Floating rate debt / Total debt N/A(c)
+
+
+**Coverage Ratios**
+
+
+TTM Recurring EBITDA(a)(b) / Interest 6.6 x
+
+
+TTM Recurring EBITDA(a)(b) / Interest + Preferred distributions + Preferred stock distribution 6.6 x
+
+
+**Credit Facility Covenants** **(d)** Requirement
+
+
+Maximum leverage ratio <65.0 % 17.8 %
+
+
+Minimum fixed charge coverage ratio >1.40 x 5.01 x
+
+
+Maximum secured leverage ratio <40.0 % 9.2 %
+
+
+**Senior Unsecured Note Covenants** Requirement
+
+
+Total debt / Total assets ≤60.0 % 28.4 %
+
+
+Secured debt / Total assets ≤40.0 % 15.8 %
+
+
+Consolidated income available for debt service / Debt service ≥1.50 x 7.33 x
+
+
+Unencumbered total asset value / Total unsecured debt ≥150.0 % 626.9 %
+
+
+(a) Refer to Definitions and Notes for additional information.
+(b) Percentage includes the impact of hedge activities.
+(c) As of June 30, 2026, the Company had no floating rate debt.
+(d) As of June 30, 2026, the Company did not have any borrowings outstanding under its senior credit facility.
+
+
+**Definitions and Notes**
+
+
+**Acquisition and Other Transaction Costs** - In the Company's Reconciliation of Net Income / (Loss) Attributable to SUI Common Shareholders to Core FFO on page 6, "Acquisition and other transaction costs - continuing operations" represent (a) nonrecurring integration expenses associated with acquisitions during the quarters and six months ended June 30, 2026 and 2025, (b) costs associated with potential acquisitions that will not close, (c) expenses incurred to bring recently acquired properties up to the Company's operating standards, including items such as tree trimming and painting costs that do not meet the Company's capitalization policy, and (d) other non-recurring transaction costs. Within this same reconciliation on page 6, "Acquisition and other transaction costs - discontinued operations" primarily represent non-recurring transaction costs that are directly attributable to the Park Holidays Sale and the Safe Harbor Sale and nonrecurring integration expenses associated with previous UK and marina acquisitions.
+
+
+**Asset Impairments** - In the Company's Condensed Consolidated Statements of Operations on page 5, the Company recorded asset impairment charges of $17.9 million for the quarter ended June 30, 2026, primarily consisting of asset impairment charges of $14.1 million to reduce the carrying value of two development land parcels in the US, driven by the Company's contemplated change in strategic plan for these properties.
+
+
+**Assets Held for Sale and Discontinued Operations:**
+
+
+**Park Holidays Sale** - In May 2026, the Company entered into an agreement to sell Park Holidays, which represents a strategic shift in operations that is expected to have a major effect on the Company's operations and financial results. Accordingly, the results of the UK business and assets and liabilities included in the disposition are presented as held for sale and as discontinued operations for all periods presented herein. The Company expects the Park Holidays Sale to close in the second half of 2026.
+
+
+As of June 30, 2026, the Company determined that the fair value of the UK business, including costs to sell, was lower than its carrying value. Accordingly, during the quarter ended June 30, 2026, the Company recorded a non-cash valuation allowance of $1.1 billion against the assets held for sale to reduce the carrying value of the UK business to the estimated fair value less costs to sell. The valuation allowance was recorded within Income / (loss) from discontinued operations, net on the Company's Condensed Consolidated Statements of Operations.
+
+
+**Safe Harbor Sale** - In 2025, the Company entered into the Safe Harbor Sale, which represented a strategic shift in operations. Accordingly, the results of the Safe Harbor business have been reflected as discontinued operations on the Company's Condensed Consolidated Statements of Operations through the final transaction closing date of August 29, 2025.
+
+
+The following table sets forth a summary of the operating results included within Income / (loss) from discontinued operations, net on the Company's Condensed Consolidated Statements of Operations (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+Loss from discontinued operations, net - Park Holidays Sale $ (1,067.2 ) $ (62.2 ) $ (1,091.9 ) $ (63.6 )
+
+
+Income from discontinued operations, net - Safe Harbor Sale — 1,422.5 — 1,404.0
+
+
+**Income / (loss) from discontinued operations, net** $ (1,067.2 ) $ 1,360.3 $ (1,091.9 ) $ 1,340.4
+
+
+The following table sets forth a summary of assets and liabilities classified as held for sale and discontinued operations related to the UK business (in millions):
+
+
+**June 30, 2026** **December 31, 2025**
+
+
+**Assets**
+
+
+Land $ 1,689.3 $ 1,692.7
+
+
+Land improvements and buildings 613.0 587.6
+
+
+Furniture, fixtures and equipment 93.7 95.5
+
+
+Investment property 2,396.0 2,375.8
+
+
+Accumulated depreciation (89.7 ) (92.6 )
+
+
+Investment property, net 2,306.3 2,283.2
+
+
+Cash, cash equivalents and restricted cash 33.5 29.4
+
+
+Inventory of manufactured homes 53.2 58.2
+
+
+Notes and other receivables, net 23.7 69.2
+
+
+Other intangible assets, net 61.3 64.8
+
+
+Other assets, net 45.9 46.7
+
+
+Valuation allowance to adjust assets to estimated fair value, less costs to sell (1,077.2 ) —
+
+
+**Assets held for sale and discontinued operations, net** $ 1,446.7 $ 2,551.5
+
+
+**Liabilities**
+
+
+Advanced reservation deposits and rent $ 103.7 $ 130.0
+
+
+Accrued expenses and accounts payable 69.7 49.8
+
+
+Other liabilities 255.5 247.4
+
+
+**Liabilities held for sale and discontinued operations, net** $ 428.9 $ 427.2
+
+
+The following table sets forth a summary of the operating results included within Income / (loss) from discontinued operations, net on the Company's Condensed Consolidated Statements of Operations related to the UK business (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+**Revenues**
+
+
+Real property $ 53.0 $ 51.3 $ 90.7 $ 84.5
+
+
+Home sales 53.1 58.3 94.7 96.8
+
+
+Ancillary 17.0 16.6 21.8 20.8
+
+
+Interest, brokerage commissions and other, net 1.4 1.4 1.8 1.5
+
+
+**Total Revenues** 124.5 127.6 209.0 203.6
+
+
+**Expenses**
+
+
+Property operating and maintenance 26.6 26.9 51.6 49.1
+
+
+Real estate tax 2.3 2.2 4.5 4.1
+
+
+Home costs and selling 37.4 41.8 68.7 69.9
+
+
+Ancillary 14.9 15.4 22.5 22.1
+
+
+General and administrative(a) 24.7 10.6 35.6 20.6
+
+
+Depreciation and amortization 7.8 10.1 18.9 19.1
+
+
+Asset impairments — 132.7 — 132.7
+
+
+Interest 0.2 3.8 0.2 7.4
+
+
+**Total Expenses** 113.9 243.5 202.0 325.0
+
+
+**Income / (Loss) Before Other Items** 10.6 (115.9 ) 7.0 (121.4 )
+
+
+Loss on disposition of properties, net (0.8 ) — (1.7 ) (0.3 )
+
+
+Other income / (expense), net 0.2 25.0 (12.1 ) 25.0
+
+
+Loss on foreign currency exchanges (0.1 ) — (0.7 ) —
+
+
+Loss from classification to held for sale(a) (1,077.2 ) — (1,077.2 ) —
+
+
+**Loss from Discontinued Operations, before income taxes** (1,067.3 ) (90.9 ) (1,084.7 ) (96.7 )
+
+
+Current tax expense (2.5 ) (3.5 ) (3.3 ) (4.2 )
+
+
+Deferred tax benefit / (expense) 2.6 32.2 (3.9 ) 37.3
+
+
+**Loss from Discontinued Operations** $ (1,067.2 ) $ (62.2 ) $ (1,091.9 ) $ (63.6 )
+
+
+(a) Includes legal and advisory fees, employee separation costs, and other transaction costs of $78.7 million associated with the Park Holidays Sale during the quarter ended June 30, 2026; $14.9 million of which is recorded in General and administrative and $63.8 million of which is recorded in Loss from classification to held for sale within Income / (Loss) from Discontinued Operations.
+
+
+**Capital Expenditures** - The Company classifies its investments in properties into the following categories:
+
+
+- **Recurring Capital Expenditures** - Property recurring capital expenditures are necessary to maintain asset quality, including purchasing and replacing items used to operate the communities. Recurring capital expenditures at the Company's MH and RV properties include major road, driveway and pool improvements; clubhouse renovations; adding or replacing streetlights; playground equipment; signage; maintenance facilities; manager housing and property vehicles. The minimum capitalized amount is one thousand dollars.
+- **Non-Recurring Capital Expenditures** - The following investment and reinvestment activities are non-recurring in nature:
+
+
+- **Lot Modifications** - consist of expenditures incurred to modify the foundational structures required to set up a new home after a previous home has been removed. These expenditures are necessary to create a revenue stream from a new site renter and often improve the quality of the community. Other lot modification expenditures include land improvements added to annual RV sites to aid in the conversion of transient RV guests to annual contracts. See page 11 for move-out rates.
+- **Growth Projects** - consist of revenue-generating or expense-reducing activities at the properties. These include, but are not limited to, utility efficiency and renewable energy projects, site, or amenity upgrades, such as the addition of a garage or shed, and other special capital projects that substantiate an incremental rental increase.
+- **Capital Improvements to Recent Acquisitions** - represents capital improvements identified during due diligence from the acquisition date through the third year of ownership needed to bring acquired properties up to the Company's operating standards.
+
+
+Capital improvements subsequent to acquisition often require 24 to 36 months to complete after closing. At MH and RV properties, capital improvements include upgrading clubhouses; landscaping; new street lighting systems; new mail delivery systems; pool renovations including larger decks, heaters and furniture; new maintenance facilities; lot modifications; and new signage including main signs and internal road signs.
+
+
+- **Expansions and Developments** - consist primarily of construction costs such as roads, activities, and amenities, and costs necessary to complete site improvements, such as driveways, sidewalks, and landscaping at the Company's MH and RV communities. Expenditures also include costs to rebuild after damage has been incurred at MH or RV properties.
+
+
+**Cash, Cash Equivalents and Restricted Cash** - Includes cash and cash equivalents of $14.6 million as of June 30, 2026, that was held in escrow accounts and restricted from general use. The restricted cash and cash equivalents include $9.7 million that has been designated to fund potential future MH and RV acquisitions under 1031 exchange transactions.
+
+
+**Enterprise Value** - Equals total equity market capitalization, plus total indebtedness reported on the Company's balance sheet and less unrestricted cash and cash equivalents.
+
+
+**GAAP** - U.S. Generally Accepted Accounting Principles.
+
+
+**Interest expense** - The following is a summary of the components of the Company's interest expense (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+Interest on secured debt, senior unsecured notes, and senior credit facility, net of interest rate swaps $ 35.7 $ 51.8 $ 71.8 $ 127.4
+
+
+Amortization of deferred financing costs, debt (premium) / discounts, and (gains) / losses on hedges 0.8 1.3 1.6 2.9
+
+
+Senior credit facility commitment fees and other finance related charges 0.8 1.6 1.7 3.3
+
+
+Capitalized interest expense (0.1 ) (1.3 ) (0.3 ) (2.7 )
+
+
+Interest expense before interest on secured borrowings 37.2 53.4 74.8 130.9
+
+
+Interest expense on secured borrowings on collateralized receivables 0.9 1.0 1.7 2.0
+
+
+Interest expense, per Condensed Consolidated Statements of Operations $ 38.1 $ 54.4 $ 76.5 $ 132.9
+
+
+**Loss of earnings - catastrophic event-related charges, net** - include the following (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+Hurricane Ian - Estimated loss of earnings in excess of the applicable business interruption deductible $ — $ 4.1 $ — $ 7.9
+
+
+Hurricane Ian - Insurance recoveries realized for previously estimated loss of earnings — (9.9 ) — (9.9 )
+
+
+Hurricane Ian - Recognition of deferred lump sum insurance settlement(1) 3.2 — 6.4 —
+
+
+Hurricane Helene - Estimated loss of earnings in excess of the applicable business interruption deductible, net — 0.1 — 0.3
+
+
+**Loss of earnings - catastrophic event-related charges, net** $ 3.2 $ (5.7 ) $ 6.4 $ (1.7 )
+
+
+(1) During the year ended December 31, 2025, the Company received a settlement of $80.2 million from an insurance provider to settle all claims related to property, casualty, flood, and business interruption insurance recoveries from Hurricane Ian. The Company concluded that $36.5 million of the total settlement pertained to business interruption recoveries through 2027, which the Company recorded as a contingent gain in accordance with ASC 450, " *Contingencies* ." To better reflect the underlying economics of the transaction, the Company has elected to defer the business interruption recovery gain and recognize income ratably through 2027 for the Company's presentation of Core FFO.
+
+
+**NAREIT** - The National Association of Real Estate Investment Trusts is the worldwide representative voice for REITs and real estate companies with an interest in U.S. real estate and capital markets. More information is available at www.reit.com.
+
+
+**Net Debt** - The carrying value of debt, plus, unamortized premiums, discounts, and deferred financing costs, less unrestricted cash and cash equivalents. The following table sets forth the components of Net Debt (in millions):
+
+
+**June 30, 2026** **December 31, 2025**
+
+
+Total carrying value of debt, per condensed consolidated balance sheets $ 4,052.2 $ 4,258.7
+
+
+Plus: Unamortized deferred financing costs, discounts / premiums on debt, and fair value adjustments 17.9 19.3
+
+
+Less: Cash and cash equivalents (excluding restricted cash) - continuing operations (150.6 ) (569.6 )
+
+
+Less: Cash and cash equivalents (excluding restricted cash) - discontinued operations (33.5 ) —
+
+
+**Net Debt** $ 3,886.0 $ 3,708.4
+
+
+**Other adjustments, net -** In the Company's Reconciliation of Net Income / (Loss) Attributable to SUI Common Shareholders to Core FFO on page 6, Other adjustments, net - continuing operations and Other adjustments, net - discontinued operations consist of the following (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**Other adjustments, net - continuing operations** **2026** **2025** **2026** **2025**
+
+
+Contingent consideration gains $ — $ — $ — $ (6.0 )
+
+
+Gain on insurance recovery — — (6.7 ) —
+
+
+Cash flow hedge gains from debt extinguishments — (7.4 ) (1.7 ) (7.4 )
+
+
+Severance costs (0.7 ) 0.2 4.4 0.4
+
+
+Accelerated deferred compensation amortization 4.9 0.8 13.8 2.0
+
+
+ERP implementation expense 0.7 0.8 1.5 1.8
+
+
+Other 0.3 1.8 2.2 2.5
+
+
+Other adjustments, net - continuing operations $ 5.2 $ (3.8 ) $ 13.5 $ (6.7 )
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**Other adjustments, net - discontinued operations** **2026** **2025** **2026** **2025**
+
+
+Long term lease termination (gains) / losses $ (0.2 ) $ (25.7 ) $ 12.2 $ (25.7 )
+
+
+Contingent consideration expense — 1.0 — 15.5
+
+
+Other — 0.2 — 0.3
+
+
+Other adjustments, net - discontinued operations $ (0.2 ) $ (24.5 ) $ 12.2 $ (9.9 )
+
+
+**Other income / (expense), net** - In the Company's Condensed Consolidated Statements of Operations on page 5, Other income / (expense), net consists of the following (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+Contingent consideration gains $ — $ — $ — $ 6.0
+
+
+Gain on insurance recovery — — 6.7 —
+
+
+Cash flow hedge gains from debt extinguishments — 7.4 1.7 7.4
+
+
+Repair reserve on repossessed homes (0.2 ) (0.5 ) 0.1 (0.6 )
+
+
+Loss on remeasurement of collateralized receivables (0.6 ) (0.5 ) (0.6 ) (0.5 )
+
+
+Gain on remeasurement of secured borrowings on collateralized receivables 0.6 0.5 0.6 0.5
+
+
+Other 0.1 — (0.1 ) (0.2 )
+
+
+Other income / (expense), net $ (0.1 ) $ 6.9 $ 8.4 $ 12.6
+
+
+**Safe Harbor Sale** - The Company's sale of Safe Harbor Marinas, LLC in 2025.
+
+
+**Same Property** - The Company defines Same Properties as those the Company has owned and operated continuously since at least January 1, 2025. Same properties exclude ground-up development properties, acquired properties, properties classified as discontinued operations, properties impacted by catastrophic weather events, and properties sold after December 31, 2024. The Same Property data may change from time-to-time depending on acquisitions, dispositions, management discretion, significant transactions, or unique situations.
+
+
+**Secured borrowings on collateralized receivables** - This is a transferred asset transaction which has been classified as collateralized receivables and the cash received from this transaction has been classified as secured borrowings. The interest income and interest expense accrue in equal amounts. The Company has elected to record the collateralized receivables and secured borrowings at fair value under ASC 820, " *Fair Value Measurements* ." As a result, the balance of collateralized receivables and related secured borrowings are net of fair value adjustments.
+
+
+**Securities** - The Company had the following securities outstanding as of June 30, 2026:
+
+
+**Number of Units / Shares Outstanding (in thousands)** **Conversion Rate** **(a)** **If Converted to**
+**Common shares (in thousands)** **(b)** **Issuance Price**
+**Per Unit** **Annual Distribution Rate**
+
+
+**Non-Convertible Securities**
+
+
+Common shares 122,507 N/A N/A N/A $4.48(c)
+
+
+**Convertible Securities Classified as Equity**
+
+
+Common OP units 2,353 1.0000 2,353 N/A $4.48(c)
+
+
+Preferred OP Units
+
+
+Series A-1 154 2.4390 376 $ 100.00 6.00 %
+
+
+Series A-3 40 1.8605 75 $ 100.00 4.50 %
+
+
+Series C 292 1.1100 324 $ 100.00 5.00 %
+
+
+Series D 489 0.8000 391 $ 100.00 4.00 %
+
+
+Series E 80 0.6897 55 $ 100.00 5.50 %
+
+
+Series F 20 0.6250 12 $ 100.00 3.00 %
+
+
+Series G 5 0.6452 3 $ 100.00 3.20 %
+
+
+Series H 47 0.6098 29 $ 100.00 3.00 %
+
+
+Series J 232 0.6061 141 $ 100.00 2.85 %
+
+
+Series K 1,000 0.5882 588 $ 100.00 4.00 %
+
+
+Series L 20 0.6250 13 $ 100.00 3.50 %
+
+
+Total 2,379 2,007
+
+
+**Total Convertible Securities Outstanding** 4,732 4,360
+
+
+(a) Exchange rates are subject to adjustment upon stock splits, recapitalizations, and similar events. The exchange rates of certain series of OP units are approximated to four decimal places.
+(b) Calculation may yield minor differences due to fractional shares paid in cash to the shareholder at conversion.
+(c) Annual distribution is based on the last quarterly distribution annualized.
+
+
+**Share** - In addition to reporting net income on a diluted basis ("EPS"), the Company reports FFO and Core FFO on a per common share and convertible securities basis (per "Share"). For the periods presented below, the Company's diluted weighted average common shares outstanding for EPS and FFO are as follows:
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**2026** **2025** **2026** **2025**
+
+
+**Diluted Weighted Average Common Shares Outstanding - EPS**
+
+
+Weighted average common shares outstanding - Basic 122.5 126.4 122.6 126.5
+
+
+Dilutive restricted stock 0.1 — 0.2 —
+
+
+Common and preferred OP units dilutive effect 4.4 — 4.6 —
+
+
+**Weighted Average Common Shares Outstanding - Diluted** 127.0 126.4 127.4 126.5
+
+
+**Diluted Weighted Average Common Shares Outstanding - FFO**
+
+
+Weighted average common shares outstanding - Basic 122.5 126.4 122.6 126.5
+
+
+Restricted stock 0.1 0.2 0.2 0.3
+
+
+Common OP units 2.4 2.8 2.5 2.9
+
+
+Common stock issuable upon conversion of certain preferred OP units 2.0 2.4 2.1 2.4
+
+
+**Weighted Average Common Shares and OP Units Outstanding** 127.0 131.8 127.4 132.1
+
+
+**Utility Revenues** - In its Condensed Consolidated Statements of Operations and its total portfolio presentation of real property operating results, the Company includes the following utility reimbursement revenues in real property revenues (excluding transient) (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**Consolidated Portfolio** **2026** **2025** **2026** **2025**
+
+
+**Utility reimbursement revenues**
+
+
+MH $ 19.6 $ 17.6 $ 40.8 $ 37.2
+
+
+RV 5.4 5.4 10.2 9.7
+
+
+**Total** $ 25.0 $ 23.0 $ 51.0 $ 46.9
+
+
+For its presentation of Same Property results on page 10, the Company nets the following utility revenues (which include utility reimbursement revenues from residents) against related utility expenses in Same Property operating expenses (in millions):
+
+
+**Quarter Ended June 30,** **Six Months Ended June 30,**
+
+
+**Same Property Portfolio** **2026** **2025** **2026** **2025**
+
+
+**Utility revenues netted against related utility expenses**
+
+
+MH $ 19.2 $ 17.6 $ 40.0 $ 37.1
+
+
+RV 5.4 5.3 10.0 9.6
+
+
+**Total** $ 24.6 $ 22.9 $ 50.0 $ 46.7
+
+
+**Non-GAAP Supplemental Measures**
+
+
+Investors and analysts following the real estate industry use non-GAAP supplemental performance measures, including net operating income ("NOI"), earnings before interest, tax, depreciation, and amortization ("EBITDA") and funds from operations ("FFO") to assess REITs. The Company believes that NOI, EBITDA, and FFO are appropriate measures given their wide use by and relevance to investors and analysts. Additionally, NOI, EBITDA, and FFO are commonly used in various ratios, pricing multiples, yields and returns and valuation calculations used to measure financial position, performance, and value.
+
+
+NOI provides a measure of rental operations and does not factor in depreciation, amortization and non-property specific expenses such as general and administrative expenses.
+
+
+EBITDA provides a further measure to evaluate the Company's ability to incur and service debt; EBITDA also provides further measures to evaluate the Company's ability to fund dividends and other cash needs. FFO, reflecting the assumption that real estate values rise or fall with market conditions, principally adjusts for the effects of GAAP depreciation and amortization of real estate assets.
+
+
+- **Net Operating Income ("NOI")**
+
+
+- **Total Portfolio NOI** - NOI is derived from property operating revenues minus property operating expenses and real estate taxes. NOI is a non-GAAP financial measure that the Company believes is helpful to investors as a supplemental measure of operating performance because it is an indicator of the return on property investment and provides a method of comparing property performance over time. The Company uses NOI as a key measure when evaluating performance and growth of particular properties and / or groups of properties. The principal limitation of NOI is that it excludes depreciation, amortization, interest expense, and non-property specific expenses such as general and administrative expenses, all of which are significant costs. Therefore, NOI is a measure of the operating performance of the properties of the Company rather than of the Company overall. The Company believes that NOI provides enhanced comparability for investor evaluation of property performance and growth over time.
+
+
+The Company believes that GAAP net income (loss) is the most directly comparable measure to NOI. NOI should not be considered to be an alternative to GAAP net income (loss) as an indication of the Company's financial performance or GAAP net cash provided by operating activities as a measure of the Company's liquidity; nor is it indicative of funds available for the Company's cash needs, including its ability to make cash distributions. Because of the inclusion of items such as interest, depreciation, and amortization, the use of GAAP net income (loss) as a performance measure is limited as these items may not accurately reflect the actual change in market value of a property, in the case of depreciation and in the case of interest, may not necessarily be linked to the operating performance of a real estate asset, as it is often incurred at a parent company level and not at a property level.
+
+
+- **Same Property NOI** - This is a key management tool used when evaluating performance and growth of the Company's Same Property portfolio. Same Property NOI does not include the revenues and expenses related to home sales and ancillary activities at the properties. The Company believes that Same Property NOI is helpful to investors as a supplemental comparative performance measure of the income generated from the Same Property portfolio from one period to the next.
+
+
+- **Earnings before interest, tax, depreciation and amortization (** " **EBITDA** " **)**
+
+
+- **EBITDAre** - Nareit refers to EBITDA as "EBITDA *re* " and calculates it as GAAP net income (loss), plus interest expense, plus income tax expense, plus depreciation and amortization, plus or minus losses or gains on the disposition of depreciated property (including losses or gains on change of control), plus impairment write-downs of depreciated property and of investments in nonconsolidated affiliates caused by a decrease in value of depreciated property in the affiliate, and adjustments to reflect the entity's share of EBITDA *re* of nonconsolidated affiliates. EBITDA *re* is a non-GAAP financial measure that the Company uses to evaluate its ability to incur and service debt, fund dividends and other cash needs, and cover fixed costs. Investors utilize EBITDA *re* as a supplemental measure to evaluate and compare investment quality and enterprise value of REITs.
+- **Recurring EBITDA** - The Company also uses EBITDA *re* excluding certain gain and loss items that management considers unrelated to measurement of the Company's performance on a basis that is independent of capital structure ("Recurring EBITDA"). The Company believes that GAAP net income (loss) is the most directly comparable measure to EBITDA *re* . EBITDA *re* is not intended to be used as a measure of the Company's cash generated by operations or its dividend-paying capacity, and should therefore not replace GAAP net income (loss) as an indication of the Company's financial performance or GAAP cash flow provided by / used for operating, investing, and financing activities as measures of liquidity.
+
+
+- **Funds from Operations ("FFO")**
+
+
+- **FFO** - Nareit defines FFO as GAAP net income (loss), excluding gains (or losses) from sales of certain real estate assets, real estate related depreciation and amortization, gains (or losses) from change in control, impairments of certain real estate assets and investments, and adjustments for nonconsolidated partnerships and joint ventures. FFO is a non-GAAP financial measure that management believes is a useful supplemental measure of the Company's operating performance. By excluding gains and losses related to sales of previously depreciated operating real estate assets, real estate related impairment, and real estate asset depreciation and amortization (which can vary among owners of identical assets in similar condition based on historical cost accounting and useful life estimates), FFO provides a performance measure that, when compared period-over-period, reflects the impact to operations from trends in occupancy rates, rental rates and operating costs, providing perspective not readily apparent from GAAP net income (loss). Management believes the use of FFO has been beneficial in improving the understanding of operating results of REITs among the investing public and making comparisons of REIT operating results more meaningful.
+- **Core FFO** - In addition to FFO, the Company uses FFO excluding certain gain and loss items that management considers unrelated to the operational and financial performance of the Company's core business ("Core FFO") to evaluate our performance. These adjustments include acquisition and other transaction costs, gains and losses from the early extinguishment of debt, costs related to catastrophic weather events, net of insurance recoveries, gains and losses on foreign currency exchanges, and other miscellaneous non-comparable items, such as restructuring costs.
+
+
+The Company believes that FFO and Core FFO provide enhanced comparability for investor evaluations of period-over-period results. The Company believes that GAAP net income (loss) is the most directly comparable measure to FFO. The principal limitation of FFO is that it does not replace GAAP net income (loss) as a financial performance measure or GAAP cash flow from operating activities as a measure of the Company's liquidity. Because FFO excludes significant economic components of GAAP net income (loss) including depreciation and amortization, FFO should be used as a supplement to GAAP net income (loss) and not as an alternative to it. Furthermore, FFO is not intended as a measure of a REIT's ability to meet debt principal repayments and other cash requirements, nor as a measure of working capital. FFO is calculated in accordance with the Company's interpretation of standards established by Nareit, which may not be comparable to FFO reported by other REITs that interpret the Nareit definition differently. Certain financial information has been revised to reflect reclassifications in prior periods to conform to current period presentation.
+
+
+**Attachment**
+
+
+- [SUI 2Q 2026 Press Release and Supplemental](https://ml.globenewswire.com/Resource/Download/1355377f-9254-4b16-8204-fdf0127f5f2e)

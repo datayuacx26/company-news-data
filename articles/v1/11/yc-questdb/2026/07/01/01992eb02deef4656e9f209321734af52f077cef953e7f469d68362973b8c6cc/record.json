@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01992eb02deef4656e9f209321734af52f077cef953e7f469d68362973b8c6cc",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/transaction-cost-analysis-questdb-polars/",
+    "canonical": "https://questdb.com/blog/transaction-cost-analysis-questdb-polars/"
+  },
+  "title": "Transaction Cost Analysis with QuestDB and Polars: VWAP, Slippage and Markout",
+  "summary": "A transaction cost analysis pipeline on live market data: VWAP, arrival slippage and markout curves in QuestDB SQL, with Polars via ConnectorX on top.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/07/01/01992eb02deef4656e9f209321734af52f077cef953e7f469d68362973b8c6cc/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/07/01/01992eb02deef4656e9f209321734af52f077cef953e7f469d68362973b8c6cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24057,
+    "sha256": "sha256:390bc8618a1d2e161c004580fb6813a69e506017f71d71a3d3a51ead8854617e",
+    "normalized_content_hash": "sha256:7cb2856cb578a2da3ecdeb16ca3dfc4880a77964786cf4392904fdb202778535"
+  },
+  "provenance": {
+    "source_item_id": "eaee26c7-c9c1-45f1-b560-a33dbb21673e",
+    "external_id": "https://questdb.com/blog/transaction-cost-analysis-questdb-polars/"
+  }
+}

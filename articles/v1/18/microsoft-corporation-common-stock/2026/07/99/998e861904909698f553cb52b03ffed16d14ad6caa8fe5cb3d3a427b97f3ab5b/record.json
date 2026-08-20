@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "998e861904909698f553cb52b03ffed16d14ad6caa8fe5cb3d3a427b97f3ab5b",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-5eeb9d1ed7ff",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://devblogs.microsoft.com/blog/not-all-model-upgrades-are-upgrades/",
+    "canonical": "https://devblogs.microsoft.com/blog/not-all-model-upgrades-are-upgrades/"
+  },
+  "title": "Not all model upgrades are upgrades",
+  "summary": "A new model drops with lower per-token pricing and better benchmarks. You switch. A week later someone asks why the agent is burning 12x more tokens on",
+  "published_at": "2026-07-06T07:49:44+00:00",
+  "first_seen_at": "2026-07-20T04:34:25.944233+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-08-20T03:15:43.483532+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/99/998e861904909698f553cb52b03ffed16d14ad6caa8fe5cb3d3a427b97f3ab5b/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/99/998e861904909698f553cb52b03ffed16d14ad6caa8fe5cb3d3a427b97f3ab5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9090,
+    "sha256": "sha256:af25b59270cd2b76f2c402f0808b8a594203b57249a2ea6119097ad7665a1480",
+    "normalized_content_hash": "sha256:dda5802c5fb8f745c36916d139310c72deea2b7b30650d7a54c6c75e59be1876"
+  },
+  "provenance": {
+    "source_item_id": "3808b7ef-e9c5-4691-9c3b-d4c8374595a6",
+    "external_id": "https://devblogs.microsoft.com/?p=21950"
+  }
+}

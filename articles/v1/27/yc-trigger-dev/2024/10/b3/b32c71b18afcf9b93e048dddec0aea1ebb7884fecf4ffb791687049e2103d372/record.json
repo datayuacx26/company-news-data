@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b32c71b18afcf9b93e048dddec0aea1ebb7884fecf4ffb791687049e2103d372",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/scrape-hacker-news",
+    "canonical": "https://trigger.dev/blog/scrape-hacker-news"
+  },
+  "title": "How to scrape a website using Browserbase, Puppeteer, OpenAI and Trigger.dev",
+  "summary": "Learn how to scrape the top 3 articles from Hacker News and email yourself a summary every weekday at 9AM.",
+  "published_at": "2024-10-23T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:13:09.827889+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2024/10/b3/b32c71b18afcf9b93e048dddec0aea1ebb7884fecf4ffb791687049e2103d372/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2024/10/b3/b32c71b18afcf9b93e048dddec0aea1ebb7884fecf4ffb791687049e2103d372/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11413,
+    "sha256": "sha256:142ed61b59cadefbdb4a3c39dcd1b8d564439462b226e0bd2acb06df14cf48dd",
+    "normalized_content_hash": "sha256:99b6813b33ea51027026daa03d1aff05fa21bfbac905f14dca0f8d4497d6a61a"
+  },
+  "provenance": {
+    "source_item_id": "6c1e7c9a-6a39-4e69-8803-baf4c266c89c",
+    "external_id": "https://trigger.dev/blog/scrape-hacker-news"
+  }
+}

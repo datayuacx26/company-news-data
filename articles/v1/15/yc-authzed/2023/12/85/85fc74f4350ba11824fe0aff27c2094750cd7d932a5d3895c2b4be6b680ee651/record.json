@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85fc74f4350ba11824fe0aff27c2094750cd7d932a5d3895c2b4be6b680ee651",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/zed-file-z-4902-spanner-spikes",
+    "canonical": "https://authzed.com/blog/zed-file-z-4902-spanner-spikes"
+  },
+  "title": "Zed File #Z-4902: Spanner Spikes",
+  "summary": "A storm was brewing at AuthZed customer [redacted]- as their traffic grew, so did the number of permission requests, driving check latencies up to a full second at the 95th percentile. This spike in latency degraded the client system's performance - it was time to call in the experts.",
+  "published_at": "2023-12-07T20:32:33.639+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T22:26:21.272352+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2023/12/85/85fc74f4350ba11824fe0aff27c2094750cd7d932a5d3895c2b4be6b680ee651/article.md",
+    "record": "articles/v1/15/yc-authzed/2023/12/85/85fc74f4350ba11824fe0aff27c2094750cd7d932a5d3895c2b4be6b680ee651/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7791,
+    "sha256": "sha256:5148ad675c154a9a1e68e41649aa974716e5310c3eef85cb9e1f8cc680215b44",
+    "normalized_content_hash": "sha256:0cf69c40c0b8f8583e4887bdd2c23553dd0102dbef1a8371742fa4269c57ebd5"
+  },
+  "provenance": {
+    "source_item_id": "634e5c5c-76e5-4947-aa53-48dcbab63e00",
+    "external_id": "https://authzed.com/blog/zed-file-z-4902-spanner-spikes"
+  }
+}

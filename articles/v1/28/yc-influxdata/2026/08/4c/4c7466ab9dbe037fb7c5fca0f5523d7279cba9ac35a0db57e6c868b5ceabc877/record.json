@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c7466ab9dbe037fb7c5fca0f5523d7279cba9ac35a0db57e6c868b5ceabc877",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/downsampling-guide-influxdb-3/",
+    "canonical": "https://www.influxdata.com/blog/downsampling-guide-influxdb-3/"
+  },
+  "title": "A Guide to Downsampling Time Series Data with InfluxDB 3",
+  "summary": "Downsampling turns high-frequency time series data into lower-resolution summaries. In InfluxDB 3, you can calculate those summaries by querying with SQL or materialize them on a schedule with the Python Processing Engine.",
+  "published_at": "2026-08-19T08:00:00+00:00",
+  "first_seen_at": "2026-08-19T07:08:21.412239+00:00",
+  "fetched_at": "2026-08-19T08:00:02.443841+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/08/4c/4c7466ab9dbe037fb7c5fca0f5523d7279cba9ac35a0db57e6c868b5ceabc877/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/08/4c/4c7466ab9dbe037fb7c5fca0f5523d7279cba9ac35a0db57e6c868b5ceabc877/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16357,
+    "sha256": "sha256:bf2dfa02ccac384cb4ffcb2c1d32d98a7beb2af77482f97328af9496da2d6ecf",
+    "normalized_content_hash": "sha256:0ce9d5fb95c581d73b15822d3ffd3999a2ccd79bc03afe7b30852cb929329bbf"
+  },
+  "provenance": {
+    "source_item_id": "60cf338d-3211-480d-90f2-e31353c53491",
+    "external_id": "https://www.influxdata.com/blog/downsampling-guide-influxdb-3/"
+  }
+}

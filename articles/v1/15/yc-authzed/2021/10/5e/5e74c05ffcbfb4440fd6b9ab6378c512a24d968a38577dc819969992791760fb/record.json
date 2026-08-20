@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e74c05ffcbfb4440fd6b9ab6378c512a24d968a38577dc819969992791760fb",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/prevent-newenemy-cockroachdb",
+    "canonical": "https://authzed.com/blog/prevent-newenemy-cockroachdb"
+  },
+  "title": "The One Crucial Difference Between Spanner and CockroachDB",
+  "summary": "SpiceDB's open-source Google Zanzibar implementation prevents the New Enemy problem in distributed authorization systems. Learn how SpiceDB achieves this with Spanner and CockroachDB.",
+  "published_at": "2021-10-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:04:47.382363+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2021/10/5e/5e74c05ffcbfb4440fd6b9ab6378c512a24d968a38577dc819969992791760fb/article.md",
+    "record": "articles/v1/15/yc-authzed/2021/10/5e/5e74c05ffcbfb4440fd6b9ab6378c512a24d968a38577dc819969992791760fb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23146,
+    "sha256": "sha256:5ff7b77a5e2d0e79a92aee420726ebc20e291be5ad6cfe00414531d7ab41757d",
+    "normalized_content_hash": "sha256:e45945b17e6f3ad5508b4b160360bd67603bee5fb58cdefc824f342ac0c62fe0"
+  },
+  "provenance": {
+    "source_item_id": "d21b3c48-4778-485d-a5d1-f3a64a8ed1c6",
+    "external_id": "https://authzed.com/blog/prevent-newenemy-cockroachdb"
+  }
+}

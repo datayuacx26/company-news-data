@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "30bafef0d7ac363916d6d641a5cad32f5d1cd3a335b13497ee77a2cb8b55823b",
+  "company": {
+    "key": "yc-assemblyai",
+    "name": "AssemblyAI"
+  },
+  "source": {
+    "id": "yc-assemblyai-news-import-c38147bde659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.assemblyai.com/blog/redact-pii-audio-with-make?ref=changelog.assemblyai.com",
+    "canonical": "https://www.assemblyai.com/blog/redact-pii-audio-with-make"
+  },
+  "title": "Redact PII in Audio with Make and AssemblyAI",
+  "summary": "Create a Make scenario using the AssemblyAI app that watches a Google Drive folder for new audio files, and then creates both a transcript and an audio file in which PII is redacted.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T08:04:49.593567+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:37.764760+00:00",
+  "paths": {
+    "article": "articles/v1/23/yc-assemblyai/2026/07/30/30bafef0d7ac363916d6d641a5cad32f5d1cd3a335b13497ee77a2cb8b55823b/article.md",
+    "record": "articles/v1/23/yc-assemblyai/2026/07/30/30bafef0d7ac363916d6d641a5cad32f5d1cd3a335b13497ee77a2cb8b55823b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6028,
+    "sha256": "sha256:474bd2e30952bc57cf4343ace2b2891761258a5beeff1b8082e561b3ebc1caad",
+    "normalized_content_hash": "sha256:cfe4ad59d680b80bb3699596f7ab008ff91b8c742ff4253b7433495dfb16c186"
+  },
+  "provenance": {
+    "source_item_id": "1d882b31-5a2c-4e7b-a0f8-ceaed7bf56d9",
+    "external_id": "https://www.assemblyai.com/blog/redact-pii-audio-with-make"
+  }
+}

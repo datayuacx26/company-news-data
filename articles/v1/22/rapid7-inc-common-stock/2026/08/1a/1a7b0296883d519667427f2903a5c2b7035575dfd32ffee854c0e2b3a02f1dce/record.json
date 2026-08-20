@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a7b0296883d519667427f2903a5c2b7035575dfd32ffee854c0e2b3a02f1dce",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway",
+    "canonical": "https://www.rapid7.com/blog/post/etr-cve-2026-19490-critical-vulnerability-affecting-citrix-netscaler-adc-and-netscaler-gateway"
+  },
+  "title": "CVE-2026-19490: Critical Vulnerability Affecting Citrix NetScaler ADC and NetScaler Gateway",
+  "summary": "On August 19, 2026, a security advisory was published for CVE-2026-19490, a critical authentication bypass vulnerability affecting Citrix NetScaler ADC and NetScaler Gateway. The vulnerability carries a CVSS v4.0 base score of 9.3 and can be exploited remotely by an unauthenticated attacker over the network without user interaction or elevated privileges.",
+  "published_at": "2026-08-19T16:46:06+00:00",
+  "first_seen_at": "2026-08-19T17:52:28.512960+00:00",
+  "fetched_at": "2026-08-19T17:52:31.933777+00:00",
+  "last_updated_at": "2026-08-20T03:36:55.072704+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/08/1a/1a7b0296883d519667427f2903a5c2b7035575dfd32ffee854c0e2b3a02f1dce/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/08/1a/1a7b0296883d519667427f2903a5c2b7035575dfd32ffee854c0e2b3a02f1dce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4128,
+    "sha256": "sha256:c1b6d1f87b30b3c9f5250dd6d05e9a42e69f19208d9429d8a282dc4a39063ef9",
+    "normalized_content_hash": "sha256:8589cdde57552f1029bc6304a99ab0fe6a9122a55d381ca40f4f0d0b00c2a939"
+  },
+  "provenance": {
+    "source_item_id": "e6b7ce87-2415-4e61-a3b2-85178c492ff8",
+    "external_id": "blt0010f65da682ee36"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a0fb8424a58cbd84e6b28568f964bb0ff5b88582ee5a04ee7780eaa2664afd9",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/getting-started-with-opentofu",
+    "canonical": "https://www.massdriver.cloud/blogs/getting-started-with-opentofu"
+  },
+  "title": "OpenTofu Foundations: Getting Started with OpenTofu (Part 1)",
+  "summary": "Welcome to week one of the OpenTofu workshop! In this module, you'll learn how to create an EC2 instance running Wordpress, set up a MariaDB database, and configure basic infrastructure in AWS. We’ll go through creating instances, security groups, and databases while discussing key Terraform/OpenTofu concepts.",
+  "published_at": "2024-09-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:43:35.035955+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2024/09/7a/7a0fb8424a58cbd84e6b28568f964bb0ff5b88582ee5a04ee7780eaa2664afd9/article.md",
+    "record": "articles/v1/38/yc-massdriver/2024/09/7a/7a0fb8424a58cbd84e6b28568f964bb0ff5b88582ee5a04ee7780eaa2664afd9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21372,
+    "sha256": "sha256:f8f3a13a65553c2651b70528e45ffd69256a1da52a569be20cb84f9120cac535",
+    "normalized_content_hash": "sha256:72ee6d0db6ce6ce25e1ac082b26def0627765906a261b07f4a9c746c91734159"
+  },
+  "provenance": {
+    "source_item_id": "b0c17f3d-fd87-44da-b3e9-2690e328a855",
+    "external_id": "https://www.massdriver.cloud/blogs/getting-started-with-opentofu"
+  }
+}

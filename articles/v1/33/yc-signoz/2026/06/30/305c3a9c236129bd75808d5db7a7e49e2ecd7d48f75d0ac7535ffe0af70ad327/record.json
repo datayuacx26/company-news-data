@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "305c3a9c236129bd75808d5db7a7e49e2ecd7d48f75d0ac7535ffe0af70ad327",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-rust",
+    "canonical": "https://signoz.io/blog/opentelemetry-rust"
+  },
+  "title": "Implementing OpenTelemetry in Rust Applications",
+  "summary": "A pragmatic guide to observability in Rust. Learn how to bridge OpenTelemetry with the tracing ecosystem to seamlessly export traces, logs, and metrics.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:15:24.341015+00:00",
+  "last_updated_at": "2026-07-28T21:16:19.905309+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/30/305c3a9c236129bd75808d5db7a7e49e2ecd7d48f75d0ac7535ffe0af70ad327/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/30/305c3a9c236129bd75808d5db7a7e49e2ecd7d48f75d0ac7535ffe0af70ad327/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22601,
+    "sha256": "sha256:7da9172a65ad0cdbf2ad20dd63c484c666b8583e6e2ce98042f513821eb31993",
+    "normalized_content_hash": "sha256:2c5cd86881d3e46cbf4f1fb3dc7c645f969a95abea8977ed54158a8a7a246356"
+  },
+  "provenance": {
+    "source_item_id": "2480d022-1758-4761-9776-7b8ac2e7eeb2",
+    "external_id": "https://signoz.io/blog/opentelemetry-rust"
+  }
+}

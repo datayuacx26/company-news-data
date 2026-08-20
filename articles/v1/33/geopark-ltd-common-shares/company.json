@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "geopark-ltd-common-shares",
+    "name": "Geopark Ltd Common Shares"
+  },
+  "record_count": 19,
+  "first_published_at": "2021-12-14T10:48:30+00:00",
+  "last_published_at": "2026-07-08T14:09:22+00:00",
+  "partitions": [
+    {
+      "partition": "2021-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/33/geopark-ltd-common-shares/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 21987,
+        "sha256": "sha256:0cb0b3b0478657b8eb8146af28d8f9cf276c8dc4dfc3fdd1efedf75ea7a8d1c0",
+        "newest_at": "2026-07-08T14:09:22+00:00",
+        "oldest_at": "2021-12-14T10:48:30+00:00"
+      }
+    ]
+  }
+}

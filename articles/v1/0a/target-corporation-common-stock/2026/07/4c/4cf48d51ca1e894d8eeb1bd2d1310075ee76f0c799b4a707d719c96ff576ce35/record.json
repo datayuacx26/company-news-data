@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4cf48d51ca1e894d8eeb1bd2d1310075ee76f0c799b4a707d719c96ff576ce35",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/07/essencefest",
+    "canonical": "https://corporate.target.com/news-features/article/2026/07/essencefest"
+  },
+  "title": "Target at ESSENCE Festival 2026: Five Years of Culture, Community and Connection",
+  "summary": "Target’s Fifth Year at ESSENCE Festival celebrates festivalgoers with beauty touchups, product discovery, music, giveaways and more.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/07/4c/4cf48d51ca1e894d8eeb1bd2d1310075ee76f0c799b4a707d719c96ff576ce35/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/07/4c/4cf48d51ca1e894d8eeb1bd2d1310075ee76f0c799b4a707d719c96ff576ce35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6355,
+    "sha256": "sha256:0e43352e64892d3b08b2133923403f8ddf86efb22e44ddd57e0e4cb7e732efdc",
+    "normalized_content_hash": "sha256:203ba1b843af6da595d352cd4e920e3a203aad4e1529bb6da43f7b0a90d72015"
+  },
+  "provenance": {
+    "source_item_id": "c5b294d6-91d0-445b-94e6-0a01e9e747ac",
+    "external_id": "https://corporate.target.com/news-features/article/2026/07/essencefest"
+  }
+}

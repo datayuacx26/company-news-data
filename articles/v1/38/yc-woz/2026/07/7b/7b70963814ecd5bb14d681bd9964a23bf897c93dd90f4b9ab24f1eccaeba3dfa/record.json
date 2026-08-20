@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b70963814ecd5bb14d681bd9964a23bf897c93dd90f4b9ab24f1eccaeba3dfa",
+  "company": {
+    "key": "yc-woz",
+    "name": "Woz"
+  },
+  "source": {
+    "id": "yc-woz-news-import-ac8bcbd945f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wozcode.com/blog/claude-code-session-limits",
+    "canonical": "https://wozcode.com/blog/claude-code-session-limits"
+  },
+  "title": "The Session Limit Problem: Why Developers Are Burning Through Claude Code in Under 2 Hours",
+  "summary": "Pro and Max users keep hitting their 5-hour cap before lunch. We measured why, and what to do about it.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:30:19.491643+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T22:05:11.248633+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-woz/2026/07/7b/7b70963814ecd5bb14d681bd9964a23bf897c93dd90f4b9ab24f1eccaeba3dfa/article.md",
+    "record": "articles/v1/38/yc-woz/2026/07/7b/7b70963814ecd5bb14d681bd9964a23bf897c93dd90f4b9ab24f1eccaeba3dfa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7549,
+    "sha256": "sha256:df2b502a91c05bf82fdf64702e9d4d558e7030d3b55a3c56748340a79889468c",
+    "normalized_content_hash": "sha256:344d99f16b5ced0bcea3b4d4f9d09360c31b4d71b7c64b9f538ca530cf65ed3c"
+  },
+  "provenance": {
+    "source_item_id": "82062c46-68e0-4d09-8f86-94213ddd3be3",
+    "external_id": "https://wozcode.com/blog/claude-code-session-limits"
+  }
+}

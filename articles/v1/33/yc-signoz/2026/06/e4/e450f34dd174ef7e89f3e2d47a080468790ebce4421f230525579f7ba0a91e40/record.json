@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e450f34dd174ef7e89f3e2d47a080468790ebce4421f230525579f7ba0a91e40",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/litellm-observability",
+    "canonical": "https://signoz.io/docs/litellm-observability"
+  },
+  "title": "LiteLLM Observability & Monitoring with OpenTelemetry",
+  "summary": "Configure LiteLLM observability with OpenTelemetry to export traces, logs, and metrics to SigNoz for real-time LiteLLM monitoring of SDK and Proxy.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/e4/e450f34dd174ef7e89f3e2d47a080468790ebce4421f230525579f7ba0a91e40/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/e4/e450f34dd174ef7e89f3e2d47a080468790ebce4421f230525579f7ba0a91e40/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 690,
+    "sha256": "sha256:ffef7ccde8fc6c6c46804b45e73a78359b1330c0ade39b3a497e1ab13b5c5ffd",
+    "normalized_content_hash": "sha256:09602383ef1fad2d93a296843fb3eb5c76c63593b7f4ad617cce3b11e01b8602"
+  },
+  "provenance": {
+    "source_item_id": "3dd8e9b6-796a-4e50-9b70-4b73ff30c2f2",
+    "external_id": "https://signoz.io/docs/litellm-observability"
+  }
+}

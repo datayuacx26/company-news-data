@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e71c0211940ffa38dea754efa182c89bd4c8919b68fd10f5e36133d01118e6e5",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/ebpf-go-design-notes-1/",
+    "canonical": "https://speedscale.com/blog/ebpf-go-design-notes-1/"
+  },
+  "title": "Under the Hood with Go TLS and eBPF",
+  "summary": "There are many reasons why you might want to leverage eBPF for plaintext inspection of TLS traffic including security monitoring, debugging, traffic.",
+  "published_at": "2025-08-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2025/08/e7/e71c0211940ffa38dea754efa182c89bd4c8919b68fd10f5e36133d01118e6e5/article.md",
+    "record": "articles/v1/00/yc-speedscale/2025/08/e7/e71c0211940ffa38dea754efa182c89bd4c8919b68fd10f5e36133d01118e6e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28353,
+    "sha256": "sha256:8defe45d16a99456826656e06732710c5449f35fd4093a8d26bdf2e2cc1df553",
+    "normalized_content_hash": "sha256:10a9ec4e6a90965661872d04efadfbb2f15e2fd18ddb9d4493cee5e0dd04bf5a"
+  },
+  "provenance": {
+    "source_item_id": "84ad4f11-49e7-42c5-b1dd-855a0b0006d2",
+    "external_id": "https://speedscale.com/blog/ebpf-go-design-notes-1/"
+  }
+}

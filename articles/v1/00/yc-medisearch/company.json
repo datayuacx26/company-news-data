@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-medisearch",
+    "name": "MediSearch"
+  },
+  "record_count": 6,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/00/yc-medisearch/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 5671,
+        "sha256": "sha256:e3ba69c7e910339dd1f08cc87637f5002494b8f595170ebd8fee181a00dc4b8c",
+        "newest_at": "2026-07-28T21:40:00.658555+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8ad0029ae9cd4939dcf6478964333c58f587498092249375ad217231c8aebd0",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/azure/sql-managed-instance",
+    "canonical": "https://signoz.io/docs/integrations/azure/sql-managed-instance"
+  },
+  "title": "Azure SQL Database Managed Instance Monitoring with SigNoz",
+  "summary": "Monitor Azure SQL Managed Instance with SigNoz. Collect platform metrics and diagnostic logs from managed instances using One-Click Azure Integration.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/c8/c8ad0029ae9cd4939dcf6478964333c58f587498092249375ad217231c8aebd0/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/c8/c8ad0029ae9cd4939dcf6478964333c58f587498092249375ad217231c8aebd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 716,
+    "sha256": "sha256:0ff0cbf78b94cef4ce1eed3ca6ebac4eab3018591d1f51c9a7648c6aa32e829f",
+    "normalized_content_hash": "sha256:f0177634bb341613bd0272e909e4394562fceda935355a9ca967868a30973048"
+  },
+  "provenance": {
+    "source_item_id": "1f032384-a561-4e35-8b50-bc86a61b3c97",
+    "external_id": "https://signoz.io/docs/integrations/azure/sql-managed-instance"
+  }
+}

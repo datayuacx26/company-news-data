@@ -1,0 +1,51 @@
+---
+schema_version: "1.0.0"
+document_id: "4969d3ab17245f5bb88c2bba1641afd9e44d865d5b4bd2d5302d3338d89a269c"
+company_key: "ardent-health-inc-common-stock"
+company: "Ardent Health Inc."
+source_id: "ardent-health-inc-common-stock-rss-64d4a1dda5eb"
+canonical_url: "https://ardenthealth.com/our-stories/ardent-health-announces-second-quarter-2026-results-conference-call-and-webcast-date"
+published_at: "2026-07-17T13:55:32+00:00"
+first_seen_at: "2026-08-09T19:16:36.168524+00:00"
+fetched_at: "2026-08-09T19:16:37.862464+00:00"
+content_hash: "sha256:fb7c50b441a0b20f189ae2ef65777704bf96859019497e4dd6f477fb4f2f0800"
+---
+
+# Ardent Health Announces Second Quarter 2026 Results Conference Call and Webcast Date
+
+**BRENTWOOD, Tenn. (July 17, 2026)** – Ardent Health (NYSE: ARDT), a leading provider of healthcare in growing mid-sized urban communities across the U.S., today announced that it will issue its second quarter 2026 results after the market closes on Tuesday, August 4, 2026. A conference call will be held the following day, Wednesday, August 5, 2026, at 10 a.m. ET to review the Company’s financial results and conduct a question-and-answer session.
+
+
+A webcast of the conference call and accompanying presentation materials will be available in the Investor Relations section of Ardent’s website at[ir.ardenthealth.com](https://ir.ardenthealth.com/) . To listen to a live broadcast, go to the site at least 15 minutes prior to the scheduled start time in order to register, download, and install any necessary audio software.
+
+
+To participate in the live teleconference:
+
+
+**North America Toll-Free:** 1-888-596-4144
+**International Toll:** 1-646-968-2525
+**Access Code:** 4437657
+
+
+To listen to a replay of the teleconference, which will be available through August 19, 2026:
+
+
+**North America Toll-Free:** 1-800-770-2030
+**International Toll:** 1-647-362-9199
+**Access Code:** 4437657
+
+
+**About Ardent Health**
+Ardent Health (NYSE: ARDT) is a leading provider of healthcare in growing mid-sized urban communities across the U.S. The Company delivers care through its subsidiaries, which include 30 acute care hospitals and more than 280 sites of care with over 2,000 employed and affiliated providers across six states. Anchored by a shared operating model and a commitment to investing in innovative services and technologies that improve quality, access and experience, we are committed to delivering strong clinical outcomes and improving the health of the patients and communities we serve.
+
+
+**Investor Contact:**
+Dave Styblo, CFA
+investor.relations@ardenthealth.com
+(615) 296-3016
+
+
+**Media Contact:**
+Rebecca Kirkham
+rebecca.kirkham@ardenthealth.com
+(615) 296-3000

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-namecard-ai",
+    "name": "Namecard.ai"
+  },
+  "record_count": 10,
+  "first_published_at": "2022-11-28T04:09:35+00:00",
+  "last_published_at": "2023-03-24T02:57:30+00:00",
+  "partitions": [
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/39/yc-namecard-ai/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 9211,
+        "sha256": "sha256:95ff59b358e96de1418927e73bd04ee4220c60364a8de178e7d8ee5ec11f48d2",
+        "newest_at": "2023-03-24T02:57:30+00:00",
+        "oldest_at": "2022-11-28T04:09:35+00:00"
+      }
+    ]
+  }
+}

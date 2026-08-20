@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "833e9a714223e58ae721da71288a719257da845e8a003862b6e2b676ef9bff96",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/aws-lambda-observability-guide/",
+    "canonical": "https://middleware.io/blog/aws-lambda-observability-guide/"
+  },
+  "title": "AWS Lambda observability with Middleware: a setup guide",
+  "summary": "Debugging Lambda timeouts across CloudWatch and X-Ray wastes time. Connect AWS to Middleware for unified traces, logs, and metrics in under 15 minutes.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:20:55.832849+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-04T20:24:48.337916+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/07/83/833e9a714223e58ae721da71288a719257da845e8a003862b6e2b676ef9bff96/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/07/83/833e9a714223e58ae721da71288a719257da845e8a003862b6e2b676ef9bff96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21930,
+    "sha256": "sha256:717207d1a96dae8729eb72a1e405ce2b6a3b1ee3701a4f5bdc164a2c57b1ef7b",
+    "normalized_content_hash": "sha256:8d49cdbd0112d86451f21c5a47bb4bcbf754c74191ea61f63e22a0de97b1c3cf"
+  },
+  "provenance": {
+    "source_item_id": "a32b32f0-f967-4b52-a1b0-1d8794a9b1a6",
+    "external_id": "https://middleware.io/blog/aws-lambda-observability-guide/"
+  }
+}

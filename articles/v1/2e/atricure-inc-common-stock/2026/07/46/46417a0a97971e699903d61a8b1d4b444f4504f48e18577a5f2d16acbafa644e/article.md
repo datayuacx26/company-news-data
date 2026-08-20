@@ -1,0 +1,107 @@
+---
+schema_version: "1.0.0"
+document_id: "46417a0a97971e699903d61a8b1d4b444f4504f48e18577a5f2d16acbafa644e"
+company_key: "atricure-inc-common-stock"
+company: "AtriCure Inc."
+source_id: "atricure-inc-common-stock-news-import-dff164c39544"
+canonical_url: "https://news.atricure.com/media-releases/atricure-announces-first-patients-treated-novel-dual-energy-platform"
+published_at: null
+first_seen_at: "2026-07-21T08:27:17.357693+00:00"
+fetched_at: "2026-07-28T21:21:00.620727+00:00"
+content_hash: "sha256:117d3af5d54376bea2996c94572316249a8a02733783c6fd38d835de51226c74"
+---
+
+# AtriCure Announces the First Patients Treated with Novel Dual Energy Platform
+
+# AtriCure Announces the First Patients Treated with Novel Dual Energy Platform
+
+
+December 11, 2025
+
+
+*New technology combines Pulsed Field Ablation (PFA) and Advanced Radiofrequency Ablation with AtriCure’s EnCompass* ® *clamp to reduce treatment time for surgical ablation patients*
+
+
+MASON, Ohio--Dec. 11, 2025--[AtriCure, Inc.](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.Atricure.com&esheet=54373166&newsitemid=20251211833575&lan=en-US&anchor=AtriCure%2C+Inc.&index=1&md5=5057d286b2d77f3c1aa0ccfa14fb4181) ([Nasdaq: ATRC](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fir.atricure.com%2Fphoenix.zhtml%3Fc%3D189981%26p%3Dirol-irhome&esheet=54373166&newsitemid=20251211833575&lan=en-US&anchor=Nasdaq%3A+ATRC&index=2&md5=f38299c6e6411d17de4d1925788632e5) ), a leading innovator in surgical treatments and therapies for atrial fibrillation (Afib), left atrial appendage (LAA) management and post-operative pain management, today announced successful first-in-human treatments using its novel dual energy platform that integrates Pulsed Field Ablation (PFA) with Advanced Radiofrequency Ablation (Advanced RFA). The procedures were performed by Dr. Adrian Pick in collaboration with the site Principal Investigator Professor Jayme Bennetts, at Victorian Heart Hospital
+
+
+in Australia under approval from the Monash Health Human Research Ethics Committee
+
+
+(HREC).
+
+
+The new platform delivers the benefits of both technologies—combining the proven safety and effectiveness of radiofrequency (RF) ablation with the efficiency of PFA. Advanced RFA reduces ablation time significantly, while PFA enables transmural ablation in seconds. In the first two patients treated, total procedural ablation time to create a box lesion simultaneously isolating the pulmonary veins and the left atrial posterior wall was less than 60 seconds. Each ablation was also tested to prove acute electrical isolation.
+
+
+“For 25 years, we’ve been the leader in cardiac surgical ablation,” said Michael Carrel, President and CEO of AtriCure
+
+
+. “Our innovative EnCompass clamp technology was a significant step in streamlining cardiac surgery ablation procedures. Now, building on the proven performance of our EnCompass clamp, this platform offers the best of both worlds. By pairing Advanced RFA with PFA, we’re delivering unprecedented speed and flexibility for surgeons.”
+
+
+The AtriCure Isolator® Synergy™ ablation system has a long history of safety and clinical effectiveness, supported by extensive published data, including over 100 publications, and has been used to treat over 450,000 patients in the last 20 years. AtriCure
+
+
+began development of the dual energy platform with the goals of shortening RF ablation times and introducing PFA as a complementary energy source. The system allows surgeons to use either modality independently or in combination.
+
+
+“This technology builds on AtriCure’s strong legacy in cardiac surgical ablation,” said Dr. Pick. “Reduced procedure times and trusted devices mean more patients can benefit, and combining the benefits of RF with PFA should further ensure durable results.”
+
+
+The Advanced RFA and PFA technologies are not yet approved for use in any market. AtriCure
+
+
+expects to initiate a clinical trial in the coming year, marking a key milestone in its product development pipeline.
+
+
+**About** **AtriCure**
+
+
+AtriCure, Inc.
+
+
+provides innovative technologies for the treatment of Afib and related conditions. Afib affects more than 59 million people worldwide. Surgeons around the globe use AtriCure
+
+
+technologies for the treatment of Afib, reduction of Afib related complications, and post-operative pain management. AtriCure’s Isolator® Synergy™ Ablation System is the first medical device to receive FDA approval for the treatment of persistent and long-standing persistent Afib. AtriCure’s AtriClip® Left Atrial Appendage Exclusion System products are the most widely sold LAA management devices worldwide. AtriCure’s Hybrid AF™ Therapy is a minimally invasive procedure that provides a lasting solution for long-standing persistent Afib patients. AtriCure’s cryoICE cryoSPHERE® and cryoXT® probes are cleared for temporary ablation of peripheral nerves to block pain, providing pain relief in cardiac, thoracic and amputation procedures. For more information, visit[AtriCure.com](http://atricure.com/) or follow us on X @AtriCure.
+
+
+**Forward-Looking Statements**
+
+
+Certain statements in this press release are forward-looking in nature and are subject to risks, uncertainties and assumptions about us. Actual results may differ materially from those projected by any forward-looking statements. These risks and uncertainties include, but are not limited to, the following: our estimate of the market for our products; the rate and degree of market acceptance of our products; negative clinical data, including data that does not demonstrate sufficient safety and efficacy with respect to our products; the timing of and ability to obtain and maintain regulatory clearances and approvals for our products; our ability to comply with extensive FDA regulations; the timing of and ability to obtain third party payor reimbursement of procedures utilizing our products; the impact of tariffs or other restrictive trade measures; and litigation, administrative or other proceedings. These risks and uncertainties, as well as others, are discussed in greater detail in our filings with the Securities and Exchange Commission (" SEC
+
+
+"), including our Annual Report on Form 10-K for the year ended December 31, 2024 filed with the SEC
+
+
+on February 14, 2025, and our quarterly reports on Form 10-Q. There may be additional risks of which we are not presently aware or that we currently believe are immaterial which could have an adverse impact on our business. Any forward-looking statements are based on our current expectations, estimates and assumptions regarding future events and are applicable only as of the dates of such statements. We make no commitment to revise or update any forward-looking statements in order to reflect events or circumstances that may change.
+
+
+View source version on
+
+
+[businesswire.com](http://businesswire.com/) :
+
+
+[https://www.businesswire.com/news/home/20251211833575/en/](https://www.businesswire.com/news/home/20251211833575/en/)
+
+
+Angie Wirick
+Investor Relations
+Chief Financial Officer
+(513) 755-5334
+[\[email protected\]](https://news.atricure.com/cdn-cgi/l/email-protection#4f2e38263d262c240f2e3b3d262c3a3d2a612c2022)
+
+
+Valerie Storch-Willhaus
+Media Relations
+Vice President, Corporate Marketing & Communications
+
+
+(612) 605-3311
+[\[email protected\]](https://news.atricure.com/cdn-cgi/l/email-protection#087e7b7c677a6b60257f61646460697d7b48697c7a616b7d7a6d266b6765)
+
+
+Source: AtriCure, Inc.

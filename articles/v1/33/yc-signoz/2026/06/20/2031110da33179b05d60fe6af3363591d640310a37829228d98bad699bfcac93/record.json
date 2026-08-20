@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2031110da33179b05d60fe6af3363591d640310a37829228d98bad699bfcac93",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/comparisons/opentelemetry-vs-xray",
+    "canonical": "https://signoz.io/comparisons/opentelemetry-vs-xray"
+  },
+  "title": "OpenTelemetry vs. X-Ray - Choosing the Right Tracing Tool",
+  "summary": "Compare OpenTelemetry and AWS X-Ray for distributed tracing. Learn their strengths, use cases, and how to choose the right tool for your needs.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.798667+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/20/2031110da33179b05d60fe6af3363591d640310a37829228d98bad699bfcac93/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/20/2031110da33179b05d60fe6af3363591d640310a37829228d98bad699bfcac93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21620,
+    "sha256": "sha256:e4108522eeed073b7bf9d0bd32a6121dc581b284047ba7e41e3d890d731ddeeb",
+    "normalized_content_hash": "sha256:4b4972508544474e90b541a50c647823263da5233fce9247ddf52acce6b48ad3"
+  },
+  "provenance": {
+    "source_item_id": "df5767c8-468a-49d9-a684-b350931d92ea",
+    "external_id": "https://signoz.io/comparisons/opentelemetry-vs-xray"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f7692a3c55b04a647f8a0d67d25b2b08235aad0b6e4501647f985a0c644be0a",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-144d960cd8f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/blog/threat-intelligence/intrusion-actors-self-serve-their-way-into-accounts/",
+    "canonical": "https://www.okta.com/blog/threat-intelligence/intrusion-actors-self-serve-their-way-into-accounts/"
+  },
+  "title": "How to stop attackers from self-serving their way into accounts",
+  "summary": "Applying phishing resistance to authenticator enrollment and recovery.",
+  "published_at": "2026-07-09T16:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:05:37.626494+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-30T08:37:09.319684+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/3f/3f7692a3c55b04a647f8a0d67d25b2b08235aad0b6e4501647f985a0c644be0a/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/3f/3f7692a3c55b04a647f8a0d67d25b2b08235aad0b6e4501647f985a0c644be0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14984,
+    "sha256": "sha256:92f5d5499733ed4b406b55cd677dbdb167dd830ed0a6296a0f309f215dff94ba",
+    "normalized_content_hash": "sha256:4b01de27c5177530f26de83a81fb27c61aa04cd1ed45031fd1c55b2282486108"
+  },
+  "provenance": {
+    "source_item_id": "1ac3f3a3-3c90-4538-9a39-dca71a833abc",
+    "external_id": "https://www.okta.com/blog/threat-intelligence/intrusion-actors-self-serve-their-way-into-accounts/"
+  }
+}

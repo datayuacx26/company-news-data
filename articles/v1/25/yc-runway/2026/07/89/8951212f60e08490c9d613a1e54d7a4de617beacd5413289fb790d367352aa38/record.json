@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8951212f60e08490c9d613a1e54d7a4de617beacd5413289fb790d367352aa38",
+  "company": {
+    "key": "yc-runway",
+    "name": "Runway"
+  },
+  "source": {
+    "id": "yc-runway-news-import-fe61d44f24da",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runway.team/blog/introducing-flightpaths-by-runway",
+    "canonical": "https://www.runway.team/blog/introducing-flightpaths-by-runway"
+  },
+  "title": "Introducing Flightpaths by Runway",
+  "summary": "Flightpaths unlocks entirely new ways to set up, manage, and automate your end-to-end release cycles. Your team has complete control, with the ability to rearrange release steps, leverage multiple steps of the same type for different parts of your cycle, and define more complex dependency graphs between steps. Under the hood, it’s a complete re-architecture of Runway designed for flexibility at scale.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T12:25:56.018278+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-08-20T01:59:33.257865+00:00",
+  "paths": {
+    "article": "articles/v1/25/yc-runway/2026/07/89/8951212f60e08490c9d613a1e54d7a4de617beacd5413289fb790d367352aa38/article.md",
+    "record": "articles/v1/25/yc-runway/2026/07/89/8951212f60e08490c9d613a1e54d7a4de617beacd5413289fb790d367352aa38/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7557,
+    "sha256": "sha256:d68c0b3d721e237267e30d7cb36dc567db90f350c3a2bd8dbc1a72235bce68ff",
+    "normalized_content_hash": "sha256:e9b76366410a905d421c91533f573c9cfa5c55b88095e12db55d5cd1ee6eee51"
+  },
+  "provenance": {
+    "source_item_id": "af5581cf-2c55-4f92-97ec-78207129d903",
+    "external_id": "https://www.runway.team/blog/introducing-flightpaths-by-runway"
+  }
+}

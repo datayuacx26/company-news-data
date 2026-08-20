@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89761e14af0fc27e815b27d545ac9c42eec174a5ec67247c297c7bc917b4f5c2",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/lance-format-v2-2-benchmarks-half-the-storage-none-of-the-slowdown",
+    "canonical": "https://www.lancedb.com/blog/lance-format-v2-2-benchmarks-half-the-storage-none-of-the-slowdown"
+  },
+  "title": "Lance Format v2.2 Benchmarks: Half the Storage, None of the Slowdown",
+  "summary": "Benchmarks that show how Lance format v2.2 cuts storage by 50%+, beats Parquet on compression, and delivers up to 68x faster blob reads — while preserving the scan and random access patterns that multimodal training depends on.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/89/89761e14af0fc27e815b27d545ac9c42eec174a5ec67247c297c7bc917b4f5c2/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/89/89761e14af0fc27e815b27d545ac9c42eec174a5ec67247c297c7bc917b4f5c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14508,
+    "sha256": "sha256:3f10b7a64541bda97a7da20cd56021b1af57e7a33a16791b890f8f03b3da6026",
+    "normalized_content_hash": "sha256:fa4ef147f29dfcb3020a74bf7fedf873259ba45cd70e94cdd613e3d58ec1e910"
+  },
+  "provenance": {
+    "source_item_id": "cc1e73dc-51a8-41c5-9274-7c10aad4fbac",
+    "external_id": "https://www.lancedb.com/blog/lance-format-v2-2-benchmarks-half-the-storage-none-of-the-slowdown"
+  }
+}

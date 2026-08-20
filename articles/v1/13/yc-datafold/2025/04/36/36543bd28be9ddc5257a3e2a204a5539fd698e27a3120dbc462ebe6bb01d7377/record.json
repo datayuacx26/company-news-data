@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36543bd28be9ddc5257a3e2a204a5539fd698e27a3120dbc462ebe6bb01d7377",
+  "company": {
+    "key": "yc-datafold",
+    "name": "Datafold"
+  },
+  "source": {
+    "id": "yc-datafold-news-import-e233b68116ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.datafold.com/blog/80-percent-done-migration-trap/",
+    "canonical": "https://www.datafold.com/blog/80-percent-done-migration-trap/"
+  },
+  "title": "Data migrations: 80% done, 80% left",
+  "summary": "Migrations stall for two reasons: gnarly models that resist translation and no clear way to prove the new system works like the old one. Without leverage, solving either becomes slow and expensive. The right tools, and the right kind of feedback loop, can turn “almost done” into done.",
+  "published_at": "2025-04-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:54:32.907441+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-20T02:04:06.597886+00:00",
+  "paths": {
+    "article": "articles/v1/13/yc-datafold/2025/04/36/36543bd28be9ddc5257a3e2a204a5539fd698e27a3120dbc462ebe6bb01d7377/article.md",
+    "record": "articles/v1/13/yc-datafold/2025/04/36/36543bd28be9ddc5257a3e2a204a5539fd698e27a3120dbc462ebe6bb01d7377/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7693,
+    "sha256": "sha256:938646cf22ae0d433508211dd4f87b8942ecf2b81f75ba8f82908492504b92a9",
+    "normalized_content_hash": "sha256:b6639e0bc1478f7c3f9fa2a91b9dfce33032e9035fd7fa3efb6994b38ff4a54d"
+  },
+  "provenance": {
+    "source_item_id": "3a120f15-1f0a-416a-9490-944b87774661",
+    "external_id": "https://www.datafold.com/blog/80-percent-done-migration-trap/"
+  }
+}

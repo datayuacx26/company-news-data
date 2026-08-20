@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ef9c3e4766c8f135e91011d591e9a0aaec2fce0cf8392988bcea546a669b628",
+  "company": {
+    "key": "yc-muzz",
+    "name": "Muzz"
+  },
+  "source": {
+    "id": "yc-muzz-news-import-4a23516b0f87",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.muzz.com/how-a-bad-release-saved-us-thousands-a-month-and-reduced-latency",
+    "canonical": "https://engineering.muzz.com/how-a-bad-release-saved-us-thousands-a-month-and-reduced-latency"
+  },
+  "title": "How a bad release saved us thousands a month and reduced latency",
+  "summary": "On a rainy day of October we decided to release a feature that we had spent all summer working on: a massive refactor of how our matching process works, from...",
+  "published_at": "2025-08-06T15:08:00+00:00",
+  "first_seen_at": "2026-07-25T16:24:04.083021+00:00",
+  "fetched_at": "2026-07-28T21:59:45.283870+00:00",
+  "last_updated_at": "2026-08-20T02:18:00.252497+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-muzz/2025/08/9e/9ef9c3e4766c8f135e91011d591e9a0aaec2fce0cf8392988bcea546a669b628/article.md",
+    "record": "articles/v1/01/yc-muzz/2025/08/9e/9ef9c3e4766c8f135e91011d591e9a0aaec2fce0cf8392988bcea546a669b628/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7244,
+    "sha256": "sha256:ba9ad29af225079ca6e9d915cdc2905ab6a64c2f1e5b843f67cf77f4f158eaf1",
+    "normalized_content_hash": "sha256:a784bb262830bc890f485b2d11eecc94383481cbf22661cd541096c181f898c5"
+  },
+  "provenance": {
+    "source_item_id": "0b005f32-23e2-44f0-8503-66b23b9a3a37",
+    "external_id": "https://engineering.muzz.com/how-a-bad-release-saved-us-thousands-a-month-and-reduced-latency"
+  }
+}

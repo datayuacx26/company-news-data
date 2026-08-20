@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-avion",
+    "name": "Avion"
+  },
+  "record_count": 8,
+  "first_published_at": "2024-09-03T15:59:04.087+00:00",
+  "last_published_at": "2025-09-26T03:19:13.414+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/36/yc-avion/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 10847,
+        "sha256": "sha256:632daeed9c24f33f2637c7fa6cf5ff23c95147fb182796cd8e4b30f14150f928",
+        "newest_at": "2025-09-26T03:19:13.414+00:00",
+        "oldest_at": "2024-09-03T15:59:04.087+00:00"
+      }
+    ]
+  }
+}

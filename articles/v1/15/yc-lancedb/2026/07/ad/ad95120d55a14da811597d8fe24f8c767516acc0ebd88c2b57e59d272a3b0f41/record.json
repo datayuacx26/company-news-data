@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ad95120d55a14da811597d8fe24f8c767516acc0ebd88c2b57e59d272a3b0f41",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/lance-blob-v2",
+    "canonical": "https://www.lancedb.com/blog/lance-blob-v2"
+  },
+  "title": "Lance Blob V2: Making Multimodal Data a First-Class Citizen in the Lakehouse",
+  "summary": "How we redesigned blob storage in Lance to make multimodal data a first-class citizen, with four storage semantics (Inline, Packed, Dedicated, External) that automatically adapt to your workload.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/ad/ad95120d55a14da811597d8fe24f8c767516acc0ebd88c2b57e59d272a3b0f41/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/ad/ad95120d55a14da811597d8fe24f8c767516acc0ebd88c2b57e59d272a3b0f41/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30704,
+    "sha256": "sha256:e9c10ec322f0bcdff97c5b2817cb4c6682ac1db1d00330a7f5ac94cbbf09ef59",
+    "normalized_content_hash": "sha256:525550645440e1f16c31c3b4d350e0eadac98aedd8aa6f5bdb5f2f6f5b92810c"
+  },
+  "provenance": {
+    "source_item_id": "fa63ad2a-a39c-431f-9fa5-a1bdd4201166",
+    "external_id": "https://www.lancedb.com/blog/lance-blob-v2"
+  }
+}

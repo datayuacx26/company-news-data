@@ -1,0 +1,608 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "technipfmc-plc-ordinary-share",
+    "name": "TechnipFMC plc Ordinary Share"
+  },
+  "record_count": 554,
+  "first_published_at": "2015-08-04T01:00:00+00:00",
+  "last_published_at": "2026-08-14T08:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2015-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2016-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2017-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-04",
+      "record_count": 9
+    },
+    {
+      "partition": "2017-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2017-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2017-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2018-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2018-03",
+      "record_count": 14
+    },
+    {
+      "partition": "2018-04",
+      "record_count": 8
+    },
+    {
+      "partition": "2018-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2018-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2018-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2018-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2018-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2018-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 9
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 12
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 10
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 8
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2019-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 10
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 10
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 10
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 10
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 7
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 12,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53395,
+        "sha256": "sha256:3471fb1ca65d1eede66cda1c428f5f738011bb6e979adfc76844b75c15dd0006",
+        "newest_at": "2026-08-14T08:00:00+00:00",
+        "oldest_at": "2025-06-09T09:15:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 53829,
+        "sha256": "sha256:0cde9ab361759cac0eff57ef77b71f638ad9f8c968ebfb129a791ec5786f9f23",
+        "newest_at": "2025-05-06T01:00:00+00:00",
+        "oldest_at": "2023-09-27T09:15:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 54216,
+        "sha256": "sha256:af89886d42cd42805a7159c5a6a7478e9eafdb04214cbdbdf67287e708c9eab9",
+        "newest_at": "2023-09-19T09:15:00+00:00",
+        "oldest_at": "2022-06-21T04:15:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 53692,
+        "sha256": "sha256:c8f63a2d62d62f9f22d9879ee7d5965e265acb00794b7a207eb124b60acf2449",
+        "newest_at": "2022-06-20T09:15:00+00:00",
+        "oldest_at": "2021-09-29T12:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 54019,
+        "sha256": "sha256:4ae1f4e9f201c1578263a6e9563d826b9f5afebcddff4e6b84ba8e23dc2ce004",
+        "newest_at": "2021-09-28T12:00:00+00:00",
+        "oldest_at": "2021-02-17T12:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 54484,
+        "sha256": "sha256:a7743e6130c73130c84a916079b17b43fe933d93391d5d9130dc1c54a5f812da",
+        "newest_at": "2021-02-15T12:00:00+00:00",
+        "oldest_at": "2020-05-29T04:35:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 53359,
+        "sha256": "sha256:f8bdf93af44f0a84bc97fa676e6a14f905f987a0a4e9635bb50f2953b5af0336",
+        "newest_at": "2020-05-14T11:09:00+00:00",
+        "oldest_at": "2019-08-26T12:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 53033,
+        "sha256": "sha256:f0f1466450e6780c05d2d4e472cf79170aaab7216ab7b45dd199b6bfd0e0aa40",
+        "newest_at": "2019-08-22T12:00:00+00:00",
+        "oldest_at": "2019-02-27T12:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 53454,
+        "sha256": "sha256:c138a3f5fc38182d6e856b96d3789b85cb321ed2c46577baad5cdb0b101c445f",
+        "newest_at": "2019-02-25T12:00:00+00:00",
+        "oldest_at": "2018-06-15T12:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 53186,
+        "sha256": "sha256:6203a4b8c8fae9f115f4b0c2ebe0fc7040435d18e368888d43b8d7e55dc31614",
+        "newest_at": "2018-06-14T12:00:00+00:00",
+        "oldest_at": "2017-10-31T12:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000011.json",
+        "record_count": 50,
+        "byte_count": 54120,
+        "sha256": "sha256:ebf2c753d31a4bb06ae2731dfdf3de7baffb89128f20dd2dad43ea021e0cb27f",
+        "newest_at": "2017-10-25T12:00:00+00:00",
+        "oldest_at": "2016-10-25T12:00:00+00:00"
+      },
+      {
+        "page": 12,
+        "path": "articles/v1/3f/technipfmc-plc-ordinary-share/index/pages/000012.json",
+        "record_count": 4,
+        "byte_count": 4321,
+        "sha256": "sha256:6962cdeeb94e217849f9d867afbb75a720485023c628ebda8ef919b3f66163a2",
+        "newest_at": "2016-06-27T12:00:00+00:00",
+        "oldest_at": "2015-08-04T01:00:00+00:00"
+      }
+    ]
+  }
+}

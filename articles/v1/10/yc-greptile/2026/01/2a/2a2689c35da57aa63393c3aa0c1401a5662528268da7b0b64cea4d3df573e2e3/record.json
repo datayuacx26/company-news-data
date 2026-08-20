@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a2689c35da57aa63393c3aa0c1401a5662528268da7b0b64cea4d3df573e2e3",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-f703c271ba19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/github-ids",
+    "canonical": "https://www.greptile.com/blog/github-ids"
+  },
+  "title": "Every GitHub Object Has Two IDs",
+  "summary": "How I reverse-engineered GitHub node IDs to avoid a database migration and discovered their dual ID system along the way.",
+  "published_at": "2026-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.426026+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-08-20T02:09:10.875361+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2026/01/2a/2a2689c35da57aa63393c3aa0c1401a5662528268da7b0b64cea4d3df573e2e3/article.md",
+    "record": "articles/v1/10/yc-greptile/2026/01/2a/2a2689c35da57aa63393c3aa0c1401a5662528268da7b0b64cea4d3df573e2e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9722,
+    "sha256": "sha256:401d7449d98092ab069dc0f7cb6a4494f78e3a65d7d6bdf6f90528aa6f7c0253",
+    "normalized_content_hash": "sha256:89a0f9669664dd4d119a599a1095563ed3370e9917d5d6561a069561838ef6ba"
+  },
+  "provenance": {
+    "source_item_id": "ee80a952-83de-4114-bdc4-630fc349aac3",
+    "external_id": "https://www.greptile.com/blog/github-ids"
+  }
+}

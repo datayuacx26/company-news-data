@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0d8a9b01205f482428ac8a030be77850cb185daa437ec974cbdaec4b6a157a6",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/diving-in-to-opentelemetry-data-with-our-new-trace-and-logs-explorer",
+    "canonical": "https://signoz.io/blog/diving-in-to-opentelemetry-data-with-our-new-trace-and-logs-explorer"
+  },
+  "title": "Diving in to OpenTelemetry data with our new Trace and Logs Explorer",
+  "summary": "Explore your OpenTelemetry traces and logs with the SigNoz Trace and Logs Explorer, taking ClickHouse queries beyond SQL.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-14T17:18:16.016516+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/b0/b0d8a9b01205f482428ac8a030be77850cb185daa437ec974cbdaec4b6a157a6/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/b0/b0d8a9b01205f482428ac8a030be77850cb185daa437ec974cbdaec4b6a157a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4735,
+    "sha256": "sha256:3d21f9eb4772915104442688d279a8beb0ea74c179b867b488cae33d7c33e3ea",
+    "normalized_content_hash": "sha256:d4ef594531d9d31089685c284ae893bce0c393a7f2c48e084f626b6887434f08"
+  },
+  "provenance": {
+    "source_item_id": "db433af5-599c-467f-a823-db7bc2930da4",
+    "external_id": "https://signoz.io/blog/diving-in-to-opentelemetry-data-with-our-new-trace-and-logs-explorer"
+  }
+}

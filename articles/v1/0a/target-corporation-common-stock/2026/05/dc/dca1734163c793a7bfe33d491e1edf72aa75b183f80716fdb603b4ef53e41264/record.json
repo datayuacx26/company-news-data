@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dca1734163c793a7bfe33d491e1edf72aa75b183f80716fdb603b4ef53e41264",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/grant-mcgee",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/grant-mcgee"
+  },
+  "title": "Meet Grant McGee, Target’s New Chief Legal and Compliance Officer",
+  "summary": "Target names Grant McGee its new chief legal and compliance officer.",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/dc/dca1734163c793a7bfe33d491e1edf72aa75b183f80716fdb603b4ef53e41264/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/dc/dca1734163c793a7bfe33d491e1edf72aa75b183f80716fdb603b4ef53e41264/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3245,
+    "sha256": "sha256:8919d63184c3a8c64a8b75f3a49ce806961e9d738f95708dbbc474d886227a71",
+    "normalized_content_hash": "sha256:d04d76d5bfaf532786fd3e409d67e99d19bb443db8f854bcf5545e3f682650ed"
+  },
+  "provenance": {
+    "source_item_id": "49944056-0c29-4ae8-8988-b086a200caf1",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/grant-mcgee"
+  }
+}

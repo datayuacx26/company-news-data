@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bafb29bba725f99cc149e3d9638e46fc0aab4d5cc2356a17fb29241a5792463f",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/instrumentation/opentelemetry-python",
+    "canonical": "https://signoz.io/docs/instrumentation/opentelemetry-python"
+  },
+  "title": "Python OpenTelemetry Instrumentation Guide",
+  "summary": "Learn how to instrument your Python app with OpenTelemetry and send traces to SigNoz. Auto-instrument Django, Flask, FastAPI, and more.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/ba/bafb29bba725f99cc149e3d9638e46fc0aab4d5cc2356a17fb29241a5792463f/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/ba/bafb29bba725f99cc149e3d9638e46fc0aab4d5cc2356a17fb29241a5792463f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 682,
+    "sha256": "sha256:fd3b69038fa998d36249c428c2dafa3a754b1e134ad9979c31fe8e628a2c6184",
+    "normalized_content_hash": "sha256:77c556fae2ccf9aaeaca7deb8af16ecdac9cd425df484851bf4efd6f49d52fb3"
+  },
+  "provenance": {
+    "source_item_id": "9bbd209a-9ce1-4a1f-ba84-f72de4bb4372",
+    "external_id": "https://signoz.io/docs/instrumentation/opentelemetry-python"
+  }
+}

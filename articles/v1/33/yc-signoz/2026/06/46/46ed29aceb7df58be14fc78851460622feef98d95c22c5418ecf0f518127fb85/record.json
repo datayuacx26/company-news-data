@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46ed29aceb7df58be14fc78851460622feef98d95c22c5418ecf0f518127fb85",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-spans",
+    "canonical": "https://signoz.io/blog/opentelemetry-spans"
+  },
+  "title": "Understanding OpenTelemetry Spans in Detail",
+  "summary": "OpenTelemetry spans are the building blocks of distributed tracing. Learn span attributes, kinds, events, and creation, with Go examples.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:15:24.341015+00:00",
+  "last_updated_at": "2026-07-28T21:16:19.963939+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/46/46ed29aceb7df58be14fc78851460622feef98d95c22c5418ecf0f518127fb85/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/46/46ed29aceb7df58be14fc78851460622feef98d95c22c5418ecf0f518127fb85/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21562,
+    "sha256": "sha256:22e95aec69048d563ea518d0af3d78b11bd7beb1a8e5d6e6d1dc3a982e1141fe",
+    "normalized_content_hash": "sha256:ed2c16d0d42f3867db9da706c03aaa91b6a9150061e7865180be904fead6a62b"
+  },
+  "provenance": {
+    "source_item_id": "4db5de96-3184-4b6f-b5ca-145fdd7b9e85",
+    "external_id": "https://signoz.io/blog/opentelemetry-spans"
+  }
+}

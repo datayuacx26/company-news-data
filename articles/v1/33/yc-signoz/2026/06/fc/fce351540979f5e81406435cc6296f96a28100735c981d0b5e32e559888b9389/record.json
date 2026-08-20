@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fce351540979f5e81406435cc6296f96a28100735c981d0b5e32e559888b9389",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/outposts/auth0",
+    "canonical": "https://signoz.io/docs/integrations/outposts/auth0"
+  },
+  "title": "Monitor Auth0 Authentication Events and Logs with SigNoz",
+  "summary": "Stream Auth0 tenant logs to SigNoz with a Custom Webhook log stream — search authentication events, build alerts, and correlate identity activity.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/fc/fce351540979f5e81406435cc6296f96a28100735c981d0b5e32e559888b9389/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/fc/fce351540979f5e81406435cc6296f96a28100735c981d0b5e32e559888b9389/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 700,
+    "sha256": "sha256:6068f5acd9a74be98b712d08b1de4f1f8a5f676cedc43e245099af3f8f0fdf67",
+    "normalized_content_hash": "sha256:a3e119cd660278f6dbb9d2a2604f8ddb4ff8395756ea10f0e2c1e04bda4370ef"
+  },
+  "provenance": {
+    "source_item_id": "2933a767-0091-4583-9bee-23cb18d73d49",
+    "external_id": "https://signoz.io/docs/integrations/outposts/auth0"
+  }
+}

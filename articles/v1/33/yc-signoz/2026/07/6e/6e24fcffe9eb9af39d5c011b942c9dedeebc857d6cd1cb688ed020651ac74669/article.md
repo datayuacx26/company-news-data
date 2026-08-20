@@ -1,0 +1,139 @@
+---
+schema_version: "1.0.0"
+document_id: "6e24fcffe9eb9af39d5c011b942c9dedeebc857d6cd1cb688ed020651ac74669"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/blog/logs-to-life-building-at-signoz"
+published_at: "2026-07-08T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T21:08:44.176891+00:00"
+content_hash: "sha256:e417bdf0afc97ab3dee8b42d4fcd8622c21255de6ecc7e3cae3487d2da27d644"
+---
+
+# Logs, Life, and Going Viral on HackerNews - A 2 Year Journey at SigNoz
+
+# Logs, Life, and Going Viral on HackerNews - A 2 Year Journey at SigNoz
+
+
+Published on: January 17, 2025
+
+
+Last Updated: July 08, 2026
+
+
+6 min read
+
+
+It’s been more than 2 years since I joined SigNoz. As I look back to share my experience of working at Signoz, I am amazed at the things I got the opportunity to work at and the life I have built while working 100% remotely with a team I enjoy working with.
+
+
+We’ve built some fantastic stuff as a team, and during my time here, SigNoz has gone from this 👇
+
+
+to this 👇
+
+
+So yes, we shipped a lot, and I was responsible for building the logs module at SigNoz. Here’s my experience of what it looks like building a developer tool and working from a 100% remote setting.
+
+
+Let’s start at the beginning!
+
+
+## How I joined SigNoz
+
+
+Towards the end of 2021,[Ankit](https://www.linkedin.com/in/ankitnayan/) , our CTO, reached out to me about an engineering role at SigNoz. At the time, I was working at[Atlan](https://atlan.com/) as a backend engineer on their authentication and authorization systems.
+
+
+While we used logs and metrics for observability, I honestly didn't know much about it beyond using logs stored in ElasticSearch for debugging. Since I was already learning in my current role, I didn't pursue the opportunity.
+
+
+A few months later, while exploring observability solutions at Atlan, I became more interested in the field. This led me to learn about OpenTelemetry, which reminded me of SigNoz. I got excited about the potential of building an observability tool from scratch and building for developers like myself. I reached out to Ankit again, interviewed and got in. 🥳
+
+
+## Building Logs Product from the Ground Up
+
+
+Soon after I joined[SigNoz](https://signoz.io/docs/introduction/) and had a wonderful workation(where I chilled as I hadn’t onboarded, and everyone else was busy fixing bugs in a new release), I was tasked to build the logs module. At SigNoz, we always wanted to have logs, metrics, and traces under a single pane of glass. And taking ownership of one of the signals was a big deal to me.
+
+
+We use ClickHouse as a datastore. So, the first thing I did was come out with various schemas which can be used to store logs data at scale. I tested out the queries that we wanted to enable on logs data with millions of data points, but that was not enough. We soon moved to testing queries over billions of data points with schemas I designed - loved fine-tuning the schema to handle scale.
+
+
+I was responsible for designing the PRD, collaborating with the design team, and working with our frontend engineer to establish realistic timelines. I was fortunate to be part of releasing the first version of the Logs product.
+
+
+It was a great learning experience as I contributed to different aspects—from PRD to development, release, documentation, and user support.
+
+
+Over time, we worked on iterating on the product, built a newer version of the explorer, and built a new[query builder](https://signoz.io/blog/query-builder-v5/) which can be used across all of our three signals, i.e., metrics, traces, and logs.
+
+
+Your browser does not support the video tag.
+
+
+As user demand increased, we have worked on further improving the schema in our query builders for better performance and lower infrastructure cost.
+
+
+## Going Viral on HackerNews
+
+
+One of the interesting things I took up while working on the logs module was doing a performance benchmarking with Elasticsearch and Loki. We wanted to do this to create more trust among our users to adopt the logs module.
+
+
+This was my first experience benchmarking an entire product, and it took several iterations to develop a fair and unbiased comparison methodology. Here’s the[benchmark](https://signoz.io/blog/logs-performance-benchmark/) for those interested. Also linking out the[GitHub repo](https://github.com/SigNoz/logs-benchmark) .
+
+
+We posted it to[Hackernews](https://news.ycombinator.com/item?id=34500822) , and boy did it catch fire! 🔥
+
+
+Getting to the first page of HackerNews is a big deal for any devtool startup, so we were thrilled. Developers are opinionated folks, and we received some backlash too. I was amazed to see so many people care, and I felt like a true owner of a product with his skin in the game.
+
+
+## Engineering at SigNoz
+
+
+SigNoz is a lean team(we just reached about 20 folks) where engineers own entire parts of the product—from creating PRDs to planning and building. Most projects are handled by one or two engineers with support from the product and design teams, creating a high-ownership environment. Since everyone is focused on their tasks, we emphasize proactive communication and thoughtful questions.
+
+
+At SigNoz, we work with observability data at a massive scale. Our production environment runs more than 1800 vCPUs and 7TB RAM to handle this data volume. We leverage cutting-edge technologies in our infrastructure: Kafka for ingestion, Kubernetes for deployment, Go for our backend, and React for our frontend.
+
+
+Since we build products that support a wide range of ecosystems that[OpenTelemetry](https://signoz.io/opentelemetry/) supports, our work extends beyond just building and releasing features. For example, with our logs product, we must ensure customers can send their data regardless of their tech stack, programming languages, or deployment patterns. This often means venturing into unfamiliar territory—which can be challenging as Sometimes you will have to be on your own and figure out things but at the end it’s quite rewarding.
+
+
+We heavily dogfood our systems. We use SigNoz to monitor our own infrastructure, as shown in this picture displaying the observability data ingested for one of our regions.
+
+
+*Observability data ingested from one of our regions in a day*
+
+
+When making decisions about performance, UI, or any other aspect of SigNoz, I can put myself in other engineers' shoes since I use the product daily.
+
+
+## Life at SigNoz
+
+
+*Cool engineers of SigNoz at Sri Lanka - me in the center 😃*
+
+
+SigNoz was founded during Covid, and as such our culture evolved to be remote-first. I enjoy the life I have built working remotely. I recently did a three-weeks workation from Thailand, where I explored a lot of places while shipping code.
+
+
+*Working from a cafe in Bangkok 👨‍💻*
+
+
+We believe in asynchronous communication. While we have standups on alternate days, everyone is free to make their own schedules. I like the autonomy that comes with such culture. It can only work in a high-talent high-trust environment where everyone is aligned with the same mission.
+
+
+While we work remotely, we love to meet our teammates and have a blast whenever we gather. We have official workations every 6-7 months.
+
+
+*Cruising through life 🚀*
+
+
+We have our next workation upcoming in February, 2025. I am looking forward to chill with everyone, have some intense debates and set the course for future action at SigNoz.
+
+
+Also, we're hiring. Check out[open positions](https://signoz.io/careers/) .

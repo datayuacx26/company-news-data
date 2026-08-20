@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a386bf7b1134f98fc143fd7ae8d3e719f29ec9718e675518217967fca1e50d1",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/opentofu-foundations-multi-environment-management",
+    "canonical": "https://www.massdriver.cloud/blogs/opentofu-foundations-multi-environment-management"
+  },
+  "title": "OpenTofu Foundations: Multi-Environment Management with OpenTofu (Part 7)",
+  "summary": "In this session we will learn how to manage multiple deployments with the same OpenTofu configuration. We will learn about workspaces which are OpenTofu's built in mechanism for managing multiple state backends. Next we will cover some tricks to make managing workspaces less error prone for users. Lastly we will look at Checkov and how to implement security and policy scanning to ensure your deployments meet your compliance needs.",
+  "published_at": "2024-11-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T21:32:22.131944+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2024/11/5a/5a386bf7b1134f98fc143fd7ae8d3e719f29ec9718e675518217967fca1e50d1/article.md",
+    "record": "articles/v1/38/yc-massdriver/2024/11/5a/5a386bf7b1134f98fc143fd7ae8d3e719f29ec9718e675518217967fca1e50d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14814,
+    "sha256": "sha256:20bc8a1b3331d96a24074c836361c72c66be0ba055d7248458a89df844d08efe",
+    "normalized_content_hash": "sha256:83863f753b684b744bfebd5e3ff84e1595f9d9d9d7d8f15af88fc8dee3708a1f"
+  },
+  "provenance": {
+    "source_item_id": "9f2f2a4a-4bec-4569-8052-1a9af85a6b61",
+    "external_id": "https://www.massdriver.cloud/blogs/opentofu-foundations-multi-environment-management"
+  }
+}

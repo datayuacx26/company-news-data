@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-orgorg",
+    "name": "OrgOrg"
+  },
+  "record_count": 1,
+  "first_published_at": "2026-05-19T03:00:56.097+00:00",
+  "last_published_at": "2026-05-19T03:00:56.097+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/03/yc-orgorg/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1137,
+        "sha256": "sha256:ff5991f09f8279c18fb43777d9c6b546452ff6f7b57700fd99d051afce36fbab",
+        "newest_at": "2026-05-19T03:00:56.097+00:00",
+        "oldest_at": "2026-05-19T03:00:56.097+00:00"
+      }
+    ]
+  }
+}

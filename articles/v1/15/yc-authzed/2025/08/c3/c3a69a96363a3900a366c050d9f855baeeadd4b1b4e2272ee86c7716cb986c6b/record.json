@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3a69a96363a3900a366c050d9f855baeeadd4b1b4e2272ee86c7716cb986c6b",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/predicting-the-latest-owasp-top-10-with-cve-data",
+    "canonical": "https://authzed.com/blog/predicting-the-latest-owasp-top-10-with-cve-data"
+  },
+  "title": "Predicting the latest OWASP Top 10 with CVE data",
+  "summary": "OWASP is set to release their first Top 10 update since 2021, and this year’s list is one of the most awaited because of the generational shift that is AI. The security landscape has fundamentally shifted thanks to AI being embedded in production systems across enterprises from RAG pipelines to autonomous agents. I thought it would be a fun little exercise to look at CVE data from 2022-2025 and make predictions on what the top 5 in the updates list would look like. Read on to find out what I found.",
+  "published_at": "2025-08-13T18:50:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2025/08/c3/c3a69a96363a3900a366c050d9f855baeeadd4b1b4e2272ee86c7716cb986c6b/article.md",
+    "record": "articles/v1/15/yc-authzed/2025/08/c3/c3a69a96363a3900a366c050d9f855baeeadd4b1b4e2272ee86c7716cb986c6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20379,
+    "sha256": "sha256:8fc32ee2da67f46cc0979314f8864e3906cd3f2a3dc9cfc86de3fd6b3047b6e8",
+    "normalized_content_hash": "sha256:48456debf1efd363d39f7652b95a566711b026939c715904674efbf9a888ad66"
+  },
+  "provenance": {
+    "source_item_id": "aed95214-41df-4886-bad4-a0d21b584865",
+    "external_id": "https://authzed.com/blog/predicting-the-latest-owasp-top-10-with-cve-data"
+  }
+}

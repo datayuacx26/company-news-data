@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0009249f3835020adc6618172f645d7a8f2e2c0cdc86cc13169e304531f1beb",
+  "company": {
+    "key": "yc-runway",
+    "name": "Runway"
+  },
+  "source": {
+    "id": "yc-runway-news-import-fe61d44f24da",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runway.team/blog/rollbacks-on-mobile-yes-they-are-possible-and-this-is-why-you-need-them",
+    "canonical": "https://www.runway.team/blog/rollbacks-on-mobile-yes-they-are-possible-and-this-is-why-you-need-them"
+  },
+  "title": "Rollbacks on mobile: yes, they’re possible, and this is why you need them",
+  "summary": "The nature of mobile releases makes implementing a true rollback mechanism inherently impossible. But luckily, with a bit of effort, a very close approximation to rollbacks can be achieved. Here's how.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T12:25:56.018278+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-08-20T01:59:33.257865+00:00",
+  "paths": {
+    "article": "articles/v1/25/yc-runway/2026/07/f0/f0009249f3835020adc6618172f645d7a8f2e2c0cdc86cc13169e304531f1beb/article.md",
+    "record": "articles/v1/25/yc-runway/2026/07/f0/f0009249f3835020adc6618172f645d7a8f2e2c0cdc86cc13169e304531f1beb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12036,
+    "sha256": "sha256:a42dca3e55812096eb7c6a7f51a97933dbef708be1ca0febc15f15681775ad6d",
+    "normalized_content_hash": "sha256:5e44bd547473e69dfa786094b234c46aec9847979bf095ed71c03b859d7e2a0f"
+  },
+  "provenance": {
+    "source_item_id": "0900881d-b0e1-4c61-95fe-bfaad51b485d",
+    "external_id": "https://www.runway.team/blog/rollbacks-on-mobile-yes-they-are-possible-and-this-is-why-you-need-them"
+  }
+}

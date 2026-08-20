@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fdfd39939cd1864ac81ee2b2be8bcef92dea6eb3b5d6406560e26e5ed4cc7341",
+  "company": {
+    "key": "yc-recall-ai",
+    "name": "Recall.ai"
+  },
+  "source": {
+    "id": "yc-recall-ai-news-import-5dc65e725852",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.recall.ai/blog/how-i-built-a-botless-meeting-recorder-from-scratch",
+    "canonical": "https://www.recall.ai/blog/how-i-built-a-botless-meeting-recorder-from-scratch"
+  },
+  "title": "How I built a botless recorder for meetings from scratch",
+  "summary": "Learn how to build a botless desktop recorder for Google Meet using Electron, Swift, and native macOS APIs. This post covers the real engineering challenges behind meeting recording, including audio capture, transcripts, mute detection, PiP handling, and why production-ready desktop recording is much harder than it first appears.",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:39:05.667365+00:00",
+  "fetched_at": "2026-07-28T22:12:43.834196+00:00",
+  "last_updated_at": "2026-08-19T18:08:28.148522+00:00",
+  "paths": {
+    "article": "articles/v1/2f/yc-recall-ai/2026/05/fd/fdfd39939cd1864ac81ee2b2be8bcef92dea6eb3b5d6406560e26e5ed4cc7341/article.md",
+    "record": "articles/v1/2f/yc-recall-ai/2026/05/fd/fdfd39939cd1864ac81ee2b2be8bcef92dea6eb3b5d6406560e26e5ed4cc7341/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 51498,
+    "sha256": "sha256:4f3957d1f109a0e77153d0acc2883860a67776482184323be9ba139dfa4d1ca2",
+    "normalized_content_hash": "sha256:21764b4364907ae5eed2133f90191b624c8052a8c906d0a6f61529a6e9ab19fe"
+  },
+  "provenance": {
+    "source_item_id": "4e569035-50de-4798-9427-717b53a2c380",
+    "external_id": "https://www.recall.ai/blog/how-i-built-a-botless-meeting-recorder-from-scratch"
+  }
+}

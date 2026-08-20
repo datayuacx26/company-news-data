@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f128c6c202510e1215b37d3ffb3501786b25cdf8c8f1b5433359f3001a4f8d0",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/slowly-changing-dimensions-how-to-track-historical-data-in-your-warehouse/",
+    "canonical": "https://www.basedash.com/blog/slowly-changing-dimensions-how-to-track-historical-data-in-your-warehouse/"
+  },
+  "title": "Slowly changing dimensions: how to track historical data in your warehouse",
+  "summary": "A practical guide to slowly changing dimensions: the SCD types, a decision framework for choosing one, SQL and dbt patterns, and point-in-time reporting.",
+  "published_at": "2026-07-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T15:14:53.687180+00:00",
+  "fetched_at": "2026-07-28T20:32:33.872616+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/07/0f/0f128c6c202510e1215b37d3ffb3501786b25cdf8c8f1b5433359f3001a4f8d0/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/07/0f/0f128c6c202510e1215b37d3ffb3501786b25cdf8c8f1b5433359f3001a4f8d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16059,
+    "sha256": "sha256:910fba2ea8d4c6a03fc4377ec97486a76ca813b38620119d10f93be60399b078",
+    "normalized_content_hash": "sha256:1cd9befc01316b1e2dbd6b2ca7c83bd5ae59255bf48639e5ad4c1c3134b7f1c9"
+  },
+  "provenance": {
+    "source_item_id": "7cf5f556-26e6-4076-be96-f1b0fc48fdf5",
+    "external_id": "https://www.basedash.com/blog/slowly-changing-dimensions-how-to-track-historical-data-in-your-warehouse/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "surf-air-mobility-inc-common-stock",
+    "name": "Surf Air Mobility Inc."
+  },
+  "record_count": 14,
+  "first_published_at": "2026-05-15T10:55:00+00:00",
+  "last_published_at": "2026-08-10T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1b/surf-air-mobility-inc-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 28983,
+        "sha256": "sha256:f624c8219cece3390aa3115be9a4019c6b8930eea141b5b6b47dcfb26fe2ce26",
+        "newest_at": "2026-08-10T20:05:00+00:00",
+        "oldest_at": "2026-05-15T10:55:00+00:00"
+      }
+    ]
+  }
+}

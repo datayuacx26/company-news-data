@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64e03b6a253515420227792b2b79dd547540f51b19d8b3db632dca9311649a0d",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/questdb-qwp-binary-wire-protocol/",
+    "canonical": "https://questdb.com/blog/questdb-qwp-binary-wire-protocol/"
+  },
+  "title": "QWP: QuestDB's own binary wire protocol for ingestion and queries",
+  "summary": "QWP is QuestDB's binary, columnar wire protocol. One client streams both ingestion and SQL queries, dataframes and Arrow travel in both directions, and failover is built in.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T05:08:18.800684+00:00",
+  "fetched_at": "2026-08-18T05:08:20.452532+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/08/64/64e03b6a253515420227792b2b79dd547540f51b19d8b3db632dca9311649a0d/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/08/64/64e03b6a253515420227792b2b79dd547540f51b19d8b3db632dca9311649a0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19830,
+    "sha256": "sha256:dcae066d77b089612cf7cb2b2f6fb337c065fc2140a5a6b31136fa4c9477dfd5",
+    "normalized_content_hash": "sha256:51c1e5c613b9063e348701216005479a4630d48734c97bd511a2c52505dfa9e2"
+  },
+  "provenance": {
+    "source_item_id": "1df9fb97-a955-45d0-8006-74d8a9704cfd",
+    "external_id": "https://questdb.com/blog/questdb-qwp-binary-wire-protocol/"
+  }
+}

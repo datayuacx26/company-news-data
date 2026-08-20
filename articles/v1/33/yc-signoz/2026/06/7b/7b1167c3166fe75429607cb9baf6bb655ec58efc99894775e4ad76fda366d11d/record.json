@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b1167c3166fe75429607cb9baf6bb655ec58efc99894775e4ad76fda366d11d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/azure/cosmos-db",
+    "canonical": "https://signoz.io/docs/integrations/azure/cosmos-db"
+  },
+  "title": "Azure Cosmos DB Monitoring Integration with SigNoz",
+  "summary": "Monitor RU-based Azure Cosmos DB accounts with SigNoz. Collect requests, RU consumption, storage, latency, and availability via One-Click Azure Integration.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/7b/7b1167c3166fe75429607cb9baf6bb655ec58efc99894775e4ad76fda366d11d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/7b/7b1167c3166fe75429607cb9baf6bb655ec58efc99894775e4ad76fda366d11d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 703,
+    "sha256": "sha256:bb5e3820169d74f6418d09bbdaffd965d40ec7221a1582101c57bac54aff1aaf",
+    "normalized_content_hash": "sha256:33039009013e41048a84197343c6561525b97a607ca8a00a84073ca126d1a80d"
+  },
+  "provenance": {
+    "source_item_id": "0fe79c98-ee8b-4db0-b738-26078ca10885",
+    "external_id": "https://signoz.io/docs/integrations/azure/cosmos-db"
+  }
+}

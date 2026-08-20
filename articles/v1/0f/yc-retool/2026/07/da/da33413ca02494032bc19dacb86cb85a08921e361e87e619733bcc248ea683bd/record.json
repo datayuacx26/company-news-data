@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da33413ca02494032bc19dacb86cb85a08921e361e87e619733bcc248ea683bd",
+  "company": {
+    "key": "yc-retool",
+    "name": "Retool"
+  },
+  "source": {
+    "id": "yc-retool-news-import-762698831de2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://retool.com/blog/ai-model-registry",
+    "canonical": "https://retool.com/blog/ai-model-registry"
+  },
+  "title": "Why we built an AI model registry",
+  "summary": "How Retool built an AI model registry—a single JSON document served from a hosted URL—to decouple model availability and provider pricing from binary release cycles.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-08-01T08:01:44.979396+00:00",
+  "fetched_at": "2026-08-01T08:01:46.860344+00:00",
+  "last_updated_at": "2026-08-20T03:20:06.453372+00:00",
+  "paths": {
+    "article": "articles/v1/0f/yc-retool/2026/07/da/da33413ca02494032bc19dacb86cb85a08921e361e87e619733bcc248ea683bd/article.md",
+    "record": "articles/v1/0f/yc-retool/2026/07/da/da33413ca02494032bc19dacb86cb85a08921e361e87e619733bcc248ea683bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8512,
+    "sha256": "sha256:97411c5f810c538377c4e12f69537ff4f6d5e60e9e58e6f9c5824f1974341cc0",
+    "normalized_content_hash": "sha256:f3d0c61343728911c8e19519f3def240f9ac2d34a4605978254558e7a0c1eb2e"
+  },
+  "provenance": {
+    "source_item_id": "a57e1f55-6ac9-48b8-80ba-3fab41347c42",
+    "external_id": "https://retool.com/blog/ai-model-registry"
+  }
+}

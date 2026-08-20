@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24109f9460347c525f45a7d86ac711ce42c2d7c7efcba45dbf3afb77294f2d33",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/testing-llm-backends-for-performance-with-service-mocking/",
+    "canonical": "https://speedscale.com/blog/testing-llm-backends-for-performance-with-service-mocking/"
+  },
+  "title": "How to Test LLM Backend Performance with Service Mocking",
+  "summary": "Test LLM backend latency, throughput, and rate limits without burning API credits. Mock OpenAI and Claude APIs for realistic load testing.",
+  "published_at": "2025-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2025/03/24/24109f9460347c525f45a7d86ac711ce42c2d7c7efcba45dbf3afb77294f2d33/article.md",
+    "record": "articles/v1/00/yc-speedscale/2025/03/24/24109f9460347c525f45a7d86ac711ce42c2d7c7efcba45dbf3afb77294f2d33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17185,
+    "sha256": "sha256:afd995c4109e2c60a27e27b9710d4c21b7090ac7f43a4f106d06623df0fb0b0a",
+    "normalized_content_hash": "sha256:f5ab88ca9ee5316d6e2e32543e2b6748ec8ba70becd4be021d604d0082829839"
+  },
+  "provenance": {
+    "source_item_id": "d86d2b3e-db94-4ae9-817e-c20bfc3e483d",
+    "external_id": "https://speedscale.com/blog/testing-llm-backends-for-performance-with-service-mocking/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a257b79ede541511e81781386bc5d0f43e7a3e5222733d4dda45cb698eaac5f4",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/ai-delivery-bottleneck/",
+    "canonical": "https://speedscale.com/blog/ai-delivery-bottleneck/"
+  },
+  "title": "AI writes code in seconds, but delivery still takes days",
+  "summary": "AI pushed throughput up 59%, yet median delivery got worse. The bottleneck moved to validation. How replaying production traffic in CI closes the gap.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/07/a2/a257b79ede541511e81781386bc5d0f43e7a3e5222733d4dda45cb698eaac5f4/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/07/a2/a257b79ede541511e81781386bc5d0f43e7a3e5222733d4dda45cb698eaac5f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4813,
+    "sha256": "sha256:4cf6d3249eb6d74331805dce572ee26f6bb693d79b9aa8e5878fb37404888975",
+    "normalized_content_hash": "sha256:81ac13f2e531b0aad7766889dfcd40bc9682267b0a5505d592448eb1b1cc4ed0"
+  },
+  "provenance": {
+    "source_item_id": "a0264740-69b0-482f-86af-44ab6fb3a799",
+    "external_id": "https://speedscale.com/blog/ai-delivery-bottleneck/"
+  }
+}

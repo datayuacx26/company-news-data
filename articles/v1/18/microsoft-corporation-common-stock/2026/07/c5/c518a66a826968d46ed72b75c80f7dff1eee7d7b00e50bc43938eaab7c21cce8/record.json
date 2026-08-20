@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c518a66a826968d46ed72b75c80f7dff1eee7d7b00e50bc43938eaab7c21cce8",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/"
+  },
+  "title": "Built to bounce back: How Azure resiliency evolved",
+  "summary": "Learn how Resiliency in Azure, Azure Essentials, and more help establish a cohesive resiliency experience across apps and infrastructure.",
+  "published_at": "2026-07-08T16:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T01:22:25.454424+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/c5/c518a66a826968d46ed72b75c80f7dff1eee7d7b00e50bc43938eaab7c21cce8/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/c5/c518a66a826968d46ed72b75c80f7dff1eee7d7b00e50bc43938eaab7c21cce8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14718,
+    "sha256": "sha256:cf5a8086468938e6860257bb61a259d85c6365e6e7cce11db7222d427991410e",
+    "normalized_content_hash": "sha256:be76a726ad8dd056a8a961683105a301d82a0f4b147ca0b8990fa6fbe9244677"
+  },
+  "provenance": {
+    "source_item_id": "1ecd8fe7-5089-455d-9141-f916017e1c8a",
+    "external_id": "https://azure.microsoft.com/en-us/blog/built-to-bounce-back-how-azure-resiliency-evolved/"
+  }
+}

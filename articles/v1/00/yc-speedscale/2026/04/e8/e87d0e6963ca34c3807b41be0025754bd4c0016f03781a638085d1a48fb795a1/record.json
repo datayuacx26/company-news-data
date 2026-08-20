@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e87d0e6963ca34c3807b41be0025754bd4c0016f03781a638085d1a48fb795a1",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/isolate-a-user-session-in-datadog-synthetics-with-proxymock/",
+    "canonical": "https://speedscale.com/blog/isolate-a-user-session-in-datadog-synthetics-with-proxymock/"
+  },
+  "title": "Replay Real Customer API Sessions as Datadog Synthetics Tests",
+  "summary": "Export recorded proxymock traffic to Datadog Synthetics in one command. Auth headers redacted, global variables created. No scripting, no flaky journeys.",
+  "published_at": "2026-04-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:45:24.644708+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/04/e8/e87d0e6963ca34c3807b41be0025754bd4c0016f03781a638085d1a48fb795a1/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/04/e8/e87d0e6963ca34c3807b41be0025754bd4c0016f03781a638085d1a48fb795a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13317,
+    "sha256": "sha256:316bab36069263641caf0417d587820581117b0b72ccc8509afceef5dad4c5b3",
+    "normalized_content_hash": "sha256:6603a3ee6558c46fbafd874bbbe129ee1efe7d7516ca24efbd9e9c6b9000ef41"
+  },
+  "provenance": {
+    "source_item_id": "78755999-64c2-479e-8994-eff2348b144d",
+    "external_id": "https://speedscale.com/blog/isolate-a-user-session-in-datadog-synthetics-with-proxymock/"
+  }
+}

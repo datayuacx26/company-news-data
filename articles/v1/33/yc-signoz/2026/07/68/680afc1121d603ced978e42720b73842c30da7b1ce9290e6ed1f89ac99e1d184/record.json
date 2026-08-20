@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "680afc1121d603ced978e42720b73842c30da7b1ce9290e6ed1f89ac99e1d184",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/out-of-box-application-monitoring-prometheus",
+    "canonical": "https://signoz.io/blog/out-of-box-application-monitoring-prometheus"
+  },
+  "title": "Bringing out of the box application monitoring to Prometheus",
+  "summary": "Out-of-box application monitoring vs Prometheus exporters: what you get without wiring up exporters per service, and how OpenTelemetry compares.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-07-28T20:48:00.524750+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/68/680afc1121d603ced978e42720b73842c30da7b1ce9290e6ed1f89ac99e1d184/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/68/680afc1121d603ced978e42720b73842c30da7b1ce9290e6ed1f89ac99e1d184/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10574,
+    "sha256": "sha256:baef6355eb3cd9b22ce506516a7c0c5aaa2eda292ea8ea8526ca335eee12b8d1",
+    "normalized_content_hash": "sha256:2462bfef239699a3cbccc6daf668942d5745914916bb87b282bb8c4e5a88fba0"
+  },
+  "provenance": {
+    "source_item_id": "fcbd0c37-664b-4199-a442-19ec15aaba18",
+    "external_id": "https://signoz.io/blog/out-of-box-application-monitoring-prometheus"
+  }
+}

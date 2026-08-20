@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4830f3ee8ea112badb698f8a598653ee8455ea74c71fdb0334b3916e73a5564",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/browser-automation-vs-direct-http",
+    "canonical": "https://www.integuru.com/blog/browser-automation-vs-direct-http"
+  },
+  "title": "Browser Automation vs. Direct HTTP: A Reliability and Speed Comparison",
+  "summary": "Browser automation averages 30 seconds to 5 minutes per action and breaks on every UI change. Direct HTTP integration completes in 1–5 seconds and targets stable backend endpoints. A technical comparison of the two architectures for production integrat...",
+  "published_at": "2026-06-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:26.020138+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/a4/a4830f3ee8ea112badb698f8a598653ee8455ea74c71fdb0334b3916e73a5564/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/a4/a4830f3ee8ea112badb698f8a598653ee8455ea74c71fdb0334b3916e73a5564/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13939,
+    "sha256": "sha256:73413d55c4bc7b0fa32c5a97e357330ef07a219b3a6b1f4220b20bc5d3117bb5",
+    "normalized_content_hash": "sha256:e053a4780a7bd827e9851e159deeee1e0e192db238c7b9b5a8fbe36527acd692"
+  },
+  "provenance": {
+    "source_item_id": "5e1e3562-c450-4abb-900c-56ed0c407eb4",
+    "external_id": "https://www.integuru.com/blog/browser-automation-vs-direct-http"
+  }
+}

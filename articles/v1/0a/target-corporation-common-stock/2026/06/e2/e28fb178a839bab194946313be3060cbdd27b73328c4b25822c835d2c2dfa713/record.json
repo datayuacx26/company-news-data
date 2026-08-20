@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e28fb178a839bab194946313be3060cbdd27b73328c4b25822c835d2c2dfa713",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/06/summer-goals-tour-world-cup-events",
+    "canonical": "https://corporate.target.com/news-features/article/2026/06/summer-goals-tour-world-cup-events"
+  },
+  "title": "Target’s Summer Goals Tour Brings Soccer-Inspired Fun to Families",
+  "summary": "Target’s Summer Goals Tour brings World Cup energy to families with interactive soccer experiences, play pitches and exclusive finds at select events.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/06/e2/e28fb178a839bab194946313be3060cbdd27b73328c4b25822c835d2c2dfa713/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/06/e2/e28fb178a839bab194946313be3060cbdd27b73328c4b25822c835d2c2dfa713/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3969,
+    "sha256": "sha256:f8b34eb434ae7ebcd9ca6f57badba3c0d5e43a49e3925f6d455e44f8e2f9a66b",
+    "normalized_content_hash": "sha256:b6a547a2296b62b1c29ed6af3169ecdab0ebd98edb75e782763b287b3a052a23"
+  },
+  "provenance": {
+    "source_item_id": "52bbc8d7-79f1-4962-81bc-57f50d2c629f",
+    "external_id": "https://corporate.target.com/news-features/article/2026/06/summer-goals-tour-world-cup-events"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c44b3c409f7b7b4cf33c38ed357a06bfcead547e3521b78b201f94f3b12fc2e",
+  "company": {
+    "key": "yc-clipboard",
+    "name": "Clipboard"
+  },
+  "source": {
+    "id": "yc-clipboard-news-import-8e3049d214a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clipboardworks.com/resources/blog/from-20-minutes-to-7-hunting-the-hidden-waits-in-our-merge-queue",
+    "canonical": "https://www.clipboardworks.com/resources/blog/from-20-minutes-to-7-hunting-the-hidden-waits-in-our-merge-queue"
+  },
+  "title": "From 20 Minutes to 7: Hunting the Hidden Waits in Our Merge Queue",
+  "summary": "A few months ago an average Merge Queue run took 16-22 minutes. Now it's 6-8. The savings came from finding places where the workflow was waiting on a managed service to do nothing: internal stabilization periods, consistency checks we didn't need, single-threaded cache downloads.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:50:39.766093+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T01:59:24.699356+00:00",
+  "paths": {
+    "article": "articles/v1/2a/yc-clipboard/2026/07/4c/4c44b3c409f7b7b4cf33c38ed357a06bfcead547e3521b78b201f94f3b12fc2e/article.md",
+    "record": "articles/v1/2a/yc-clipboard/2026/07/4c/4c44b3c409f7b7b4cf33c38ed357a06bfcead547e3521b78b201f94f3b12fc2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1325,
+    "sha256": "sha256:5e0fba8943f0ad3423c7e4e8f09059db25f87a2d922566c33b97dcf471b018bb",
+    "normalized_content_hash": "sha256:b5fc30164060edf53fd3547641cffd0931364f0c05ba6faf85d55406653b4add"
+  },
+  "provenance": {
+    "source_item_id": "1bc340b3-3c53-4bf0-ba47-860840f6a9b0",
+    "external_id": "https://www.clipboardworks.com/resources/blog/from-20-minutes-to-7-hunting-the-hidden-waits-in-our-merge-queue"
+  }
+}

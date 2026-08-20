@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa5d4585d7d5c34b1a44eac17150ac44e4b40d3a5c33ff06c5d08f22c1a5bdf2",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/what-is-your-ci-job-talking-to",
+    "canonical": "https://www.blacksmith.sh/blog/what-is-your-ci-job-talking-to"
+  },
+  "title": "What is your CI job talking to?",
+  "summary": "How we built line-rate network observability for untrusted CI jobs without touching the guest.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2026/07/aa/aa5d4585d7d5c34b1a44eac17150ac44e4b40d3a5c33ff06c5d08f22c1a5bdf2/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2026/07/aa/aa5d4585d7d5c34b1a44eac17150ac44e4b40d3a5c33ff06c5d08f22c1a5bdf2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16574,
+    "sha256": "sha256:17b83da94873b344c9175db756211dcafe40870f3c533e5bb649a3b1f8606a5d",
+    "normalized_content_hash": "sha256:7faaa33a0f68aedfa048fe47c23ac90a876b6a343dbef85e4397b4b383712f34"
+  },
+  "provenance": {
+    "source_item_id": "8cf00e19-a5b0-4e57-997f-503461c937d7",
+    "external_id": "https://www.blacksmith.sh/blog/what-is-your-ci-job-talking-to"
+  }
+}

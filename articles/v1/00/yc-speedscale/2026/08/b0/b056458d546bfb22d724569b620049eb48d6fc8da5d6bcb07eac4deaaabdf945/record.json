@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b056458d546bfb22d724569b620049eb48d6fc8da5d6bcb07eac4deaaabdf945",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/explain-non-cpu-latency-prometheus-proxymock/",
+    "canonical": "https://speedscale.com/blog/explain-non-cpu-latency-prometheus-proxymock/"
+  },
+  "title": "Explain Non-CPU Latency With Prometheus + proxymock",
+  "summary": "Diagnose a p95 latency regression that CPU profiling cannot explain using Prometheus histograms, then prove the fix with identical proxymock replays.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T22:41:53.571756+00:00",
+  "fetched_at": "2026-08-13T22:41:57.768476+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/08/b0/b056458d546bfb22d724569b620049eb48d6fc8da5d6bcb07eac4deaaabdf945/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/08/b0/b056458d546bfb22d724569b620049eb48d6fc8da5d6bcb07eac4deaaabdf945/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16772,
+    "sha256": "sha256:547ff86673f7f52b5adfb4984e750a8483c4ae3ab0688f6929e02e116918ef8c",
+    "normalized_content_hash": "sha256:410e59fd33f129bea5efed0698ab52b67dea47805ae2eb8b188624f87f260086"
+  },
+  "provenance": {
+    "source_item_id": "3273017d-2f99-4e32-9424-d18be3f3b240",
+    "external_id": "https://speedscale.com/blog/explain-non-cpu-latency-prometheus-proxymock/"
+  }
+}

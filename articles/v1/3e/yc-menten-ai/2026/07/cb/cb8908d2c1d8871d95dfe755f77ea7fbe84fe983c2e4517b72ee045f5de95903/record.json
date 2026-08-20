@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb8908d2c1d8871d95dfe755f77ea7fbe84fe983c2e4517b72ee045f5de95903",
+  "company": {
+    "key": "yc-menten-ai",
+    "name": "Menten AI"
+  },
+  "source": {
+    "id": "yc-menten-ai-news-import-4a0f36dd5218",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://menten.ai/news/menten-gcn-library-release",
+    "canonical": "https://menten.ai/news/menten-gcn-library-release"
+  },
+  "title": "Menten GCN Library release",
+  "summary": "Menten AI releases Menten GCN: a python library to create GCN tensors from protein models for machine learning.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:02:30.999653+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-08-19T18:50:21.756820+00:00",
+  "paths": {
+    "article": "articles/v1/3e/yc-menten-ai/2026/07/cb/cb8908d2c1d8871d95dfe755f77ea7fbe84fe983c2e4517b72ee045f5de95903/article.md",
+    "record": "articles/v1/3e/yc-menten-ai/2026/07/cb/cb8908d2c1d8871d95dfe755f77ea7fbe84fe983c2e4517b72ee045f5de95903/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3321,
+    "sha256": "sha256:c3c06d03f26237aba11b3c07d4c370fb8828245ba35db50ea02a37f9a5a253bd",
+    "normalized_content_hash": "sha256:623e1273640345255cca0afd0a6d3ee6a1defb9103519cc18a4c35cb2b38d361"
+  },
+  "provenance": {
+    "source_item_id": "92a40232-c255-4239-8ea5-ee32ac9fc2f0",
+    "external_id": "https://menten.ai/news/menten-gcn-library-release"
+  }
+}

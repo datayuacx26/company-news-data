@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c513ba6940f18e56e2eff4829e66397055f94aec95225d4086ee69341162981",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/aws-fargate-vs-lambda/",
+    "canonical": "https://middleware.io/blog/aws-fargate-vs-lambda/"
+  },
+  "title": "AWS Fargate vs Lambda: 6 Differences and How to Choose",
+  "summary": "See how AWS Fargate and Lambda differ on cost, scalability, cold starts and execution limits, plus how to monitor whichever one you choose.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T09:35:23.658945+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-18T02:49:39.454315+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/07/0c/0c513ba6940f18e56e2eff4829e66397055f94aec95225d4086ee69341162981/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/07/0c/0c513ba6940f18e56e2eff4829e66397055f94aec95225d4086ee69341162981/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26979,
+    "sha256": "sha256:da8eccb20991286f6e2ac6f7415c27c83a2c53e74e93514575a703d4e9c94ae9",
+    "normalized_content_hash": "sha256:39f82ec64d55cfb6ba4aebb8b0054a4752465b82a1674de1c03c291cdae42299"
+  },
+  "provenance": {
+    "source_item_id": "34e83804-f29b-4ac5-a249-8133b18a7cdc",
+    "external_id": "https://middleware.io/blog/aws-fargate-vs-lambda/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91cc20c5a338e8d7d8f45f95e3e91482c0b3f39011b8825c502a6ab4cede15a2",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/docker-daemon-logs",
+    "canonical": "https://signoz.io/guides/docker-daemon-logs"
+  },
+  "title": "How to Access and Understand Docker Daemon Logs",
+  "summary": "Learn how to access, understand, and leverage Docker daemon logs for troubleshooting, security, and optimizing your container infrastructure.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.338176+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/91/91cc20c5a338e8d7d8f45f95e3e91482c0b3f39011b8825c502a6ab4cede15a2/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/91/91cc20c5a338e8d7d8f45f95e3e91482c0b3f39011b8825c502a6ab4cede15a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11815,
+    "sha256": "sha256:20e356e19cd7a4f14cb85b40e55af196679a3bbb9e70ea3331cf737594de0244",
+    "normalized_content_hash": "sha256:90c5c2558644b95d9a0c10e4236fe0c61e838af655f49ce28c048aac7882c483"
+  },
+  "provenance": {
+    "source_item_id": "feb0677c-b38e-4093-9096-54573d8eb776",
+    "external_id": "https://signoz.io/guides/docker-daemon-logs"
+  }
+}

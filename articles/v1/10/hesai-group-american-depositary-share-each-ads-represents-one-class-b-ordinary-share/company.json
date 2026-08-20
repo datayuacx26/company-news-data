@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "hesai-group-american-depositary-share-each-ads-represents-one-class-b-ordinary-share",
+    "name": "Hesai Group American Depositary Share each ADS represents one"
+  },
+  "record_count": 39,
+  "first_published_at": "2024-01-05T13:27:00+00:00",
+  "last_published_at": "2026-08-18T08:30:29+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/10/hesai-group-american-depositary-share-each-ads-represents-one-class-b-ordinary-share/index/pages/000001.json",
+        "record_count": 39,
+        "byte_count": 59346,
+        "sha256": "sha256:8a7e3873632e72b271e2bc05f2bc6c785d4272c7a9fbf8a5b33822ec9cc04c3c",
+        "newest_at": "2026-08-18T08:30:29+00:00",
+        "oldest_at": "2024-01-05T13:27:00+00:00"
+      }
+    ]
+  }
+}

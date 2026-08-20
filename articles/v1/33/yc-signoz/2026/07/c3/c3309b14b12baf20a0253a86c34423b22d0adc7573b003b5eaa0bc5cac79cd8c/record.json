@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3309b14b12baf20a0253a86c34423b22d0adc7573b003b5eaa0bc5cac79cd8c",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-dotnet",
+    "canonical": "https://signoz.io/blog/opentelemetry-dotnet"
+  },
+  "title": "OpenTelemetry .NET | Monitor a .NET application with OpenTelemetry",
+  "summary": "Instrument .NET applications with OpenTelemetry: set up the SDK, capture traces and metrics, and export them to a backend.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/c3/c3309b14b12baf20a0253a86c34423b22d0adc7573b003b5eaa0bc5cac79cd8c/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/c3/c3309b14b12baf20a0253a86c34423b22d0adc7573b003b5eaa0bc5cac79cd8c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13028,
+    "sha256": "sha256:042c439986e7cfd4d2cec17728921accb739b5f8c81ee78e15b4da5fd989e6d0",
+    "normalized_content_hash": "sha256:f36fd41e0fed926492601822f467a9b77a7dae3b3854ac28dbd627204f40e94d"
+  },
+  "provenance": {
+    "source_item_id": "8a7a421d-74dd-4ed3-8e57-e57dda5f25b2",
+    "external_id": "https://signoz.io/blog/opentelemetry-dotnet"
+  }
+}

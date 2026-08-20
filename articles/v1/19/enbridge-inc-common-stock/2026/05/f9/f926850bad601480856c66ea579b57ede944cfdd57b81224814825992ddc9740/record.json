@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f926850bad601480856c66ea579b57ede944cfdd57b81224814825992ddc9740",
+  "company": {
+    "key": "enbridge-inc-common-stock",
+    "name": "Enbridge Inc"
+  },
+  "source": {
+    "id": "enbridge-inc-common-stock-news-import-a0f24e62dc2d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.enbridge.com/media-center/news/details?id=123879&lang=en",
+    "canonical": "https://www.enbridge.com/media-center/news/details?id=123879"
+  },
+  "title": "Enbridge Publishes 2025 Sustainability Report",
+  "summary": "Enbridge Inc. (Enbridge or the Company) (TSX: ENB) (NYSE: ENB) today released its 2025 Sustainability Report, marking 25 years of sustainability reporting.",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:43:38.520208+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-20T01:31:38.569017+00:00",
+  "paths": {
+    "article": "articles/v1/19/enbridge-inc-common-stock/2026/05/f9/f926850bad601480856c66ea579b57ede944cfdd57b81224814825992ddc9740/article.md",
+    "record": "articles/v1/19/enbridge-inc-common-stock/2026/05/f9/f926850bad601480856c66ea579b57ede944cfdd57b81224814825992ddc9740/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11211,
+    "sha256": "sha256:c5d76732aef7a1a19565328fb82c1e410db56e421aad9726340652a376712e77",
+    "normalized_content_hash": "sha256:934a112f6e3ed8af4584d549a5ead43734cefd06577894cfd4d9aedb4a8c4a7c"
+  },
+  "provenance": {
+    "source_item_id": "8d3e0228-b07c-4d61-9caf-15e74bd6b25e",
+    "external_id": "https://www.enbridge.com/media-center/news/details?id=123879&lang=en"
+  }
+}

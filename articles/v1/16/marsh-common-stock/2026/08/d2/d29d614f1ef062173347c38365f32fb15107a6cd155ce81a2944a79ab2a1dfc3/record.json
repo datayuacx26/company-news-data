@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d29d614f1ef062173347c38365f32fb15107a6cd155ce81a2944a79ab2a1dfc3",
+  "company": {
+    "key": "marsh-common-stock",
+    "name": "Marsh"
+  },
+  "source": {
+    "id": "marsh-common-stock-news-import-c3f81f8d88b9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.marsh.com/en/services/cyber-risk/insights/global-cyber-claims-report.html",
+    "canonical": "https://www.marsh.com/en/services/cyber-risk/insights/global-cyber-claims-report.html"
+  },
+  "title": "Global Cyber Claims Report",
+  "summary": "Your guide to the key trends for global cyber claims, broken down along three main axes: sources, cyber events, and business events.",
+  "published_at": null,
+  "first_seen_at": "2026-08-10T00:24:51.375310+00:00",
+  "fetched_at": "2026-08-10T00:24:52.954248+00:00",
+  "last_updated_at": "2026-08-19T16:46:36.044170+00:00",
+  "paths": {
+    "article": "articles/v1/16/marsh-common-stock/2026/08/d2/d29d614f1ef062173347c38365f32fb15107a6cd155ce81a2944a79ab2a1dfc3/article.md",
+    "record": "articles/v1/16/marsh-common-stock/2026/08/d2/d29d614f1ef062173347c38365f32fb15107a6cd155ce81a2944a79ab2a1dfc3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2755,
+    "sha256": "sha256:0c2566045f9310ea5f4343fc98733496ada6bc68719a89ee586b1c19c8187d1c",
+    "normalized_content_hash": "sha256:25f1ecc8b02221a69bc515422cbd47f2ddca5d8c11377293a0874cecc7e16c19"
+  },
+  "provenance": {
+    "source_item_id": "633876f9-a3f0-47b5-9bf3-86941502eaa3",
+    "external_id": "https://www.marsh.com/en/services/cyber-risk/insights/global-cyber-claims-report.html"
+  }
+}

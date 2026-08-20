@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36e0c4c834fa69a6d4b2bc4410d3a2344952c4d1f1b49e103d8e2cc3286a2b96",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/native-api-vs-generated-api",
+    "canonical": "https://www.integuru.com/blog/native-api-vs-generated-api"
+  },
+  "title": "Native API vs. Generated API: Which Is Right for Your Integration Stack?",
+  "summary": "When a platform publishes an official API, you use it. When it doesn't, you either build something fragile or you use a generated API — and those two paths have very different maintenance profiles in production.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:10:38.353575+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-11T07:19:50.453725+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/36/36e0c4c834fa69a6d4b2bc4410d3a2344952c4d1f1b49e103d8e2cc3286a2b96/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/36/36e0c4c834fa69a6d4b2bc4410d3a2344952c4d1f1b49e103d8e2cc3286a2b96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10971,
+    "sha256": "sha256:173fb8446eae054b794020fe345c71934cb55cc4dacc9db30a60a5014bdc7fd5",
+    "normalized_content_hash": "sha256:770d3287a81eefaba823efa879beb8883e232666cf1b7329b525a6c3ae61c044"
+  },
+  "provenance": {
+    "source_item_id": "65b56e36-1308-4df9-9d3e-efdf37419715",
+    "external_id": "https://www.integuru.com/blog/native-api-vs-generated-api"
+  }
+}

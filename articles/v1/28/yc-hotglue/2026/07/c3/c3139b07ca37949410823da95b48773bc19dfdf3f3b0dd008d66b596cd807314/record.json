@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3139b07ca37949410823da95b48773bc19dfdf3f3b0dd008d66b596cd807314",
+  "company": {
+    "key": "yc-hotglue",
+    "name": "hotglue"
+  },
+  "source": {
+    "id": "yc-hotglue-news-import-0ffff35ff4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://hotglue.com/blog/optimizing-microsoft-sql-insert-speed-in-python",
+    "canonical": "https://hotglue.com/blog/optimizing-microsoft-sql-insert-speed-in-python"
+  },
+  "title": "Optimizing Microsoft SQL insert speed in Python: pymssql vs. pyodbc vs. bcp",
+  "summary": "Learn how we optimized our Microsoft SQL target by using bcp to boost insertion speed and switching from pymssql to pyodbc.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T23:12:28.131979+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-20T01:42:22.879195+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-hotglue/2026/07/c3/c3139b07ca37949410823da95b48773bc19dfdf3f3b0dd008d66b596cd807314/article.md",
+    "record": "articles/v1/28/yc-hotglue/2026/07/c3/c3139b07ca37949410823da95b48773bc19dfdf3f3b0dd008d66b596cd807314/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13225,
+    "sha256": "sha256:c7475bfb372b846bea145e69ebd1126a893fbd338ed828afd3d46146db4043a7",
+    "normalized_content_hash": "sha256:69ac47877fb8fd30f9446a4a95de66325c71adf47a166f664faf2b79342980d5"
+  },
+  "provenance": {
+    "source_item_id": "e43edc94-cdbd-45f5-a292-82703590a215",
+    "external_id": "https://hotglue.com/blog/optimizing-microsoft-sql-insert-speed-in-python"
+  }
+}

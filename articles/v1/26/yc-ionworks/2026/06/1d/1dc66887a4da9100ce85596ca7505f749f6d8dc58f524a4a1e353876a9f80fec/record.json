@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1dc66887a4da9100ce85596ca7505f749f6d8dc58f524a4a1e353876a9f80fec",
+  "company": {
+    "key": "yc-ionworks",
+    "name": "Ionworks"
+  },
+  "source": {
+    "id": "yc-ionworks-news-import-f340ab61a31b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ionworks.com/blog/why-batteries-expand-non-monotonically",
+    "canonical": "https://ionworks.com/blog/why-batteries-expand-non-monotonically"
+  },
+  "title": "Why do batteries expand non-monotonically?",
+  "summary": "Charge a cell slowly and its thickness can rise, dip, then rise again, all while current flows one way. The cause is geometric: a graphite anode that expands in piecewise staging steps, stacked against a cathode that contracts at a steady rate. Each electrode is monotonic in its own lithiation. The cell sees their sum, and the sum reverses wherever the cathode contraction beats the local anode expansion rate.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:33:30.651124+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T00:52:29.147754+00:00",
+  "paths": {
+    "article": "articles/v1/26/yc-ionworks/2026/06/1d/1dc66887a4da9100ce85596ca7505f749f6d8dc58f524a4a1e353876a9f80fec/article.md",
+    "record": "articles/v1/26/yc-ionworks/2026/06/1d/1dc66887a4da9100ce85596ca7505f749f6d8dc58f524a4a1e353876a9f80fec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7077,
+    "sha256": "sha256:5f25a016e5b45ae49b704fd88e43c09c15d9bb91474125865d74e3775dc30996",
+    "normalized_content_hash": "sha256:2cc11fd13877a934ecae9f7a7239d84f9634f75176c413152344cb41b23d4194"
+  },
+  "provenance": {
+    "source_item_id": "73392e2f-f95d-4e29-89d2-c5a856c3e5d0",
+    "external_id": "https://ionworks.com/blog/why-batteries-expand-non-monotonically"
+  }
+}

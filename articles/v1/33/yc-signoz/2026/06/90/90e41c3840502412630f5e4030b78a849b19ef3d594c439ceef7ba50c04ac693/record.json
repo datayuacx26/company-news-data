@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90e41c3840502412630f5e4030b78a849b19ef3d594c439ceef7ba50c04ac693",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/throw-exception-vs-logging",
+    "canonical": "https://signoz.io/guides/throw-exception-vs-logging"
+  },
+  "title": "When to Throw Exceptions vs. Log Errors in Code",
+  "summary": "Learn when to throw exceptions vs. log errors in your code. Discover best practices for effective error handling and debugging in software development.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:46.185529+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/90/90e41c3840502412630f5e4030b78a849b19ef3d594c439ceef7ba50c04ac693/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/90/90e41c3840502412630f5e4030b78a849b19ef3d594c439ceef7ba50c04ac693/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27754,
+    "sha256": "sha256:acd5b462c6a90ffd37c179fcfb50a0130c5af48d2eb86aeac6195bf8be32cfad",
+    "normalized_content_hash": "sha256:60af5ec3e5a3f9df907ae583bba90efe69063450339155c76677b04d10693a85"
+  },
+  "provenance": {
+    "source_item_id": "86ff5c5f-2f26-4e65-a933-73b988021011",
+    "external_id": "https://signoz.io/guides/throw-exception-vs-logging"
+  }
+}

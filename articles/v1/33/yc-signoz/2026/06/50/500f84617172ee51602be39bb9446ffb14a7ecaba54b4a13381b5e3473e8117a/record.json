@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "500f84617172ee51602be39bb9446ffb14a7ecaba54b4a13381b5e3473e8117a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/userguide/writing-clickhouse-traces-query",
+    "canonical": "https://signoz.io/docs/userguide/writing-clickhouse-traces-query"
+  },
+  "title": "Traces Schema - Write ClickHouse Queries & Build Dashboard Panels",
+  "summary": "Explore the OpenTelemetry traces schema in ClickHouse. Discover how to build custom dashboard panels, analyze span kinds, and calculate latency metrics with advanced queries.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/50/500f84617172ee51602be39bb9446ffb14a7ecaba54b4a13381b5e3473e8117a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/50/500f84617172ee51602be39bb9446ffb14a7ecaba54b4a13381b5e3473e8117a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 749,
+    "sha256": "sha256:2e57ad3107e58d1cba75933607fc2cff6c34059234340f3aa3a8f709ede0db46",
+    "normalized_content_hash": "sha256:de8a5d6112f1b7660b0cb95b21b1fa2ade845f89cef54f23c8a1f5a065d3aebf"
+  },
+  "provenance": {
+    "source_item_id": "bb61bd2e-605f-4fd6-a4c5-93c4d555fe6a",
+    "external_id": "https://signoz.io/docs/userguide/writing-clickhouse-traces-query"
+  }
+}

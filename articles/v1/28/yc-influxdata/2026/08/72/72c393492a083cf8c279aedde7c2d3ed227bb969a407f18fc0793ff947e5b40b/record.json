@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72c393492a083cf8c279aedde7c2d3ed227bb969a407f18fc0793ff947e5b40b",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/rust-client-influxdb-3/",
+    "canonical": "https://www.influxdata.com/blog/rust-client-influxdb-3/"
+  },
+  "title": "A Rust Client for InfluxDB 3",
+  "summary": "A new async Rust client for InfluxDB. Built for the edge gateways, embedded systems, and high-throughput ingest pipelines where Rust already runs.",
+  "published_at": "2026-08-13T08:00:00+00:00",
+  "first_seen_at": "2026-08-13T07:50:15.173971+00:00",
+  "fetched_at": "2026-08-13T08:00:01.087005+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/08/72/72c393492a083cf8c279aedde7c2d3ed227bb969a407f18fc0793ff947e5b40b/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/08/72/72c393492a083cf8c279aedde7c2d3ed227bb969a407f18fc0793ff947e5b40b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21185,
+    "sha256": "sha256:ea7ce27fc3f2813445c1a0e5f011295897db9d7ad0b58ae103a3347098f1a394",
+    "normalized_content_hash": "sha256:0c8fe7616f9e30ce06fa1f80f5b88c925251eb9a495f2839c385c05ba23e52fd"
+  },
+  "provenance": {
+    "source_item_id": "68cb1baa-5474-4297-ad65-afa9f66fe335",
+    "external_id": "https://www.influxdata.com/blog/rust-client-influxdb-3/"
+  }
+}

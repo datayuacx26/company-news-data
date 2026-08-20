@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "632c4ad114fef2bee19a77041bc81d9e4fdafa349e3f9ef89e2e9df8b72fd64c",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/local-llms-on-mac-cost-savings/",
+    "canonical": "https://speedscale.com/blog/local-llms-on-mac-cost-savings/"
+  },
+  "title": "Run Local LLMs on Mac to Cut Claude Costs",
+  "summary": "A practical hybrid workflow that uses costly LLM APIs for planning and local models (via Ollama + OpenCode) for execution, guarded by deterministic evals.",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:45:30.754431+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/04/63/632c4ad114fef2bee19a77041bc81d9e4fdafa349e3f9ef89e2e9df8b72fd64c/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/04/63/632c4ad114fef2bee19a77041bc81d9e4fdafa349e3f9ef89e2e9df8b72fd64c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12849,
+    "sha256": "sha256:84b6efc3da573208731485517759a646c20af06b2d4892d48d6dc79ed25da44d",
+    "normalized_content_hash": "sha256:aa8a2428618291ffbf176ca4a648165186bcf9f82a8fc996d39f198124080500"
+  },
+  "provenance": {
+    "source_item_id": "1e590b63-b288-418f-8a9a-f0cbf18dae6a",
+    "external_id": "https://speedscale.com/blog/local-llms-on-mac-cost-savings/"
+  }
+}

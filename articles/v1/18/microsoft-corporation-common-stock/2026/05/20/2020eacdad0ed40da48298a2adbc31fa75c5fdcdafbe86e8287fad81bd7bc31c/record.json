@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2020eacdad0ed40da48298a2adbc31fa75c5fdcdafbe86e8287fad81bd7bc31c",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-0db2ae40c128",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/",
+    "canonical": "https://opensource.microsoft.com/blog/2026/05/14/conductor-deterministic-orchestration-for-multi-agent-ai-workflows/"
+  },
+  "title": "Conductor: Deterministic orchestration for multi-agent AI workflows",
+  "summary": "Conductor is an open-source CLI (MIT license, Microsoft org) that takes a different approach: you define your multi-agent workflows in YAML, and the routing between agents is deterministic.",
+  "published_at": "2026-05-14T16:00:00+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.025355+00:00",
+  "fetched_at": "2026-07-28T22:36:38.456755+00:00",
+  "last_updated_at": "2026-08-20T01:28:05.999938+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/05/20/2020eacdad0ed40da48298a2adbc31fa75c5fdcdafbe86e8287fad81bd7bc31c/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/05/20/2020eacdad0ed40da48298a2adbc31fa75c5fdcdafbe86e8287fad81bd7bc31c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11428,
+    "sha256": "sha256:7fa3e1d9cb1a81c9519d7619e851b9a3dc57fdeaf09979ec8b04c5959f2ac99d",
+    "normalized_content_hash": "sha256:634f5b9e0d96fd4a91502b8c1090c9f87f0cf09a1f11fc0bf682deabd7d8e904"
+  },
+  "provenance": {
+    "source_item_id": "c1ca609c-2fd1-44e3-999a-f2351fcf79ee",
+    "external_id": "565f5917d8c4d747206e505c1e7de392"
+  }
+}

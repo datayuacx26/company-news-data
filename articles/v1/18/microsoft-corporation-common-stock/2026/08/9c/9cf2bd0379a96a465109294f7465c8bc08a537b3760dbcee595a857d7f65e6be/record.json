@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9cf2bd0379a96a465109294f7465c8bc08a537b3760dbcee595a857d7f65e6be",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-0524baf4a828",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
+    "canonical": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/"
+  },
+  "title": "Hackers target travelers through hotel and public Wi‑Fi networks",
+  "summary": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch.",
+  "published_at": "2026-08-03T18:49:37+00:00",
+  "first_seen_at": "2026-08-03T19:53:36.350965+00:00",
+  "fetched_at": "2026-08-03T20:38:58.255627+00:00",
+  "last_updated_at": "2026-08-12T15:33:09.647590+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/08/9c/9cf2bd0379a96a465109294f7465c8bc08a537b3760dbcee595a857d7f65e6be/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/08/9c/9cf2bd0379a96a465109294f7465c8bc08a537b3760dbcee595a857d7f65e6be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 45670,
+    "sha256": "sha256:298ce192d4fe206dd285fdd62f77c6450644a04ade56f4f514f3f7eb6063f66b",
+    "normalized_content_hash": "sha256:7537475b81f1a90661779efbd96852df670a6d47171801bc5da3dc5ae040221e"
+  },
+  "provenance": {
+    "source_item_id": "891ee27f-b1cc-4fea-b498-32ce08bbd298",
+    "external_id": "https://news.microsoft.com/source/?p=25330"
+  }
+}

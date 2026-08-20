@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a4f3ac1f6ca206aea49b4bce12e82b97e8e63769c9d0bbef00b9c673eb4c674",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/database-connection-draining",
+    "canonical": "https://authzed.com/blog/database-connection-draining"
+  },
+  "title": "Getting Database Connection Draining Right",
+  "summary": "Learn about connection draining in databases and its impact on application availability. Discover what it is, how it works, and how to handle it properly, with a focus on CockroachDB and Go applications.",
+  "published_at": "2022-11-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2022/11/4a/4a4f3ac1f6ca206aea49b4bce12e82b97e8e63769c9d0bbef00b9c673eb4c674/article.md",
+    "record": "articles/v1/15/yc-authzed/2022/11/4a/4a4f3ac1f6ca206aea49b4bce12e82b97e8e63769c9d0bbef00b9c673eb4c674/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18709,
+    "sha256": "sha256:ccd5dec3befd8dcf461f8232cdd800f2c69a2c6c160198bb1c5454b397869f4e",
+    "normalized_content_hash": "sha256:c8bc08f66787d5f3ae172d30108fc3be9d88aa56b354580478b110a0e99bd319"
+  },
+  "provenance": {
+    "source_item_id": "5174b859-5d71-4a4d-96ee-d1959b8ed631",
+    "external_id": "https://authzed.com/blog/database-connection-draining"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec327467938647d14c5c5fcbd033e6b6a7fc0f2b46148e2078bcb9ef3e254bf2",
+  "company": {
+    "key": "yc-mattermost",
+    "name": "Mattermost"
+  },
+  "source": {
+    "id": "yc-mattermost-rss-3d807a20d23e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mattermost.com/blog/what-happens-after-the-alert-fires/",
+    "canonical": "https://mattermost.com/blog/what-happens-after-the-alert-fires/"
+  },
+  "title": "What Happens After the Alert Fires",
+  "summary": "When incident response is codified—when the playbook runs automatically and every step is logged without anyone touching it—the 20 minutes becomes five.",
+  "published_at": "2026-07-06T14:45:52+00:00",
+  "first_seen_at": "2026-07-20T23:24:03.492829+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T02:45:42.683063+00:00",
+  "paths": {
+    "article": "articles/v1/17/yc-mattermost/2026/07/ec/ec327467938647d14c5c5fcbd033e6b6a7fc0f2b46148e2078bcb9ef3e254bf2/article.md",
+    "record": "articles/v1/17/yc-mattermost/2026/07/ec/ec327467938647d14c5c5fcbd033e6b6a7fc0f2b46148e2078bcb9ef3e254bf2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6005,
+    "sha256": "sha256:d04e4559b2366a1a90826a60733c4dac770c485dbca5f48852842deb65f49720",
+    "normalized_content_hash": "sha256:3982a7761d8ce7b372fd558af76d1408dcc5651910b62d4bbe9939c1091583d9"
+  },
+  "provenance": {
+    "source_item_id": "342394dc-a7bf-4743-85b3-96bfd821b256",
+    "external_id": "https://mattermost.com/?p=58407"
+  }
+}

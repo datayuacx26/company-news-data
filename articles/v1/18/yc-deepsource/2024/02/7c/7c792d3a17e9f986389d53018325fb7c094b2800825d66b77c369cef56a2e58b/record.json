@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c792d3a17e9f986389d53018325fb7c094b2800825d66b77c369cef56a2e58b",
+  "company": {
+    "key": "yc-deepsource",
+    "name": "DeepSource"
+  },
+  "source": {
+    "id": "yc-deepsource-news-import-7d7bc2aa4aff",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepsource.com/blog/from-zero-to-secure",
+    "canonical": "https://deepsource.com/blog/from-zero-to-secure"
+  },
+  "title": "From Zero To Secure",
+  "summary": "A guide to implementing SAST in your development workflow without disrupting development velocity",
+  "published_at": "2024-02-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:01:30.648789+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-20T03:06:52.311553+00:00",
+  "paths": {
+    "article": "articles/v1/18/yc-deepsource/2024/02/7c/7c792d3a17e9f986389d53018325fb7c094b2800825d66b77c369cef56a2e58b/article.md",
+    "record": "articles/v1/18/yc-deepsource/2024/02/7c/7c792d3a17e9f986389d53018325fb7c094b2800825d66b77c369cef56a2e58b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4775,
+    "sha256": "sha256:fd99a15c624394337d6cb3e75852decf775be10dc6e31d54958182b3bee795cb",
+    "normalized_content_hash": "sha256:15c514c8a6ec2bf03323fd9fbf6906c8eebaa8d1e082613d564e42de0a8bc1b0"
+  },
+  "provenance": {
+    "source_item_id": "59a2f4c2-ab41-41a5-88d5-16d3cd7ea249",
+    "external_id": "https://deepsource.com/blog/from-zero-to-secure"
+  }
+}

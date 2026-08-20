@@ -1,0 +1,94 @@
+---
+schema_version: "1.0.0"
+document_id: "1f50f2cde2729db08334c9f91409a4ce5489792835f9c0b251a8e24b385d629a"
+company_key: "ardent-health-inc-common-stock"
+company: "Ardent Health Inc."
+source_id: "ardent-health-inc-common-stock-rss-64d4a1dda5eb"
+canonical_url: "https://ardenthealth.com/our-stories/doctor-shortage-coming-ai-could-be-only-realistic-fix"
+published_at: "2026-07-28T17:37:57+00:00"
+first_seen_at: "2026-08-09T19:16:36.168524+00:00"
+fetched_at: "2026-08-09T19:16:37.862464+00:00"
+content_hash: "sha256:fc5602a7d1c7d7acb9218c53a79f55b9f9b631cef10bc4a5619d3c5d573a77ec"
+---
+
+# A doctor shortage is coming. AI could be the only realistic fix
+
+###### **By FJ Campbell, MD, chief medical officer of Ardent Health | Fortune**
+
+
+As an emergency medicine physician, I spent several years working in emergency departments. It is an inherently intense environment, and that intensity is only increasing. For frontline clinicians, the consequences aren’t abstract: that sustained pressure is driving burnout in real time, affecting the people you rely on for care as you read this.
+
+
+Let’s start with the numbers.
+
+
+At this unique moment in the United States, more than 10,000 Americans turn 65 and age into Medicare every single day. Hospitals are operating on slim margins of roughly 1.5%, with costs increasing and reimbursement tightening. At the same time, a generation of American doctors is nearing retirement. What all this means is that as demand climbs, the US is projected to face a shortage of up to 86,000 clinicians by 2036.
+
+
+Here’s my diagnosis: we don’t just have a doctor shortage. We have a structural problem.
+
+
+Did you know that physicians spend only about 27% of their time actually caring for patients? The rest is swallowed by documentation, insurance requirements, inbox messages and regulatory tasks. Much of that work now follows doctors into the exam room, where they’re expected to document everything in real time. If you feel like your doctor hasn’t been making eye contact with you during your exam, you’re not crazy.
+
+
+We trained a generation of clinicians to diagnose complex illness, make life-and-death decisions, and guide families through the worst moments imaginable. But then we handed them a keyboard and a billing manual and asked them to do data entry.
+
+
+No hospital or clinic can hire its way out of this. Offering more stress management programs won’t fix it. The fundamental problem is that doctors spend more time proving they delivered care than actually delivering it. That administrative drag carries real financial consequences. Every hour diverted to documentation is an hour of reduced throughput, delayed billing, incomplete coding, and missed reimbursement.
+
+
+If we don’t redesign the workflow itself, margins will continue to erode and more hospitals will face closure. And when hospitals close, communities don’t get a smaller ER. They get no ER.
+
+
+This is where AI comes in — and where many people get it wrong.
+
+
+Used responsibly, AI is not about replacing caregivers. It’s about reclaiming time for what matters.
+
+
+In the past two years, ambient AI medical scribes have had a moment. This is technology that listens to a visit between a patient and provider and transcribes the conversation. But scribes alone aren’t enough. Saving a few keystrokes doesn’t fix a broken system.
+
+
+What’s truly needed is the “intelligence” in artificial intelligence systems that understand a patient’s full medical history, not just a single conversation. Systems that pull forward relevant information, organize notes in real time and handle the complex billing rules that change year to year.
+
+
+Something important happens when you get this right. Documentation becomes more accurate the first time, which means fewer insurance denials and far less time spent correcting charts after the visit. Doctors aren’t chasing paperwork late at night, and hospitals aren’t losing revenue over missing language or technicalities. In a system already stretched thin, that reclaimed time and stability matter.
+
+
+At Ardent Health, we operate 30 hospitals and more than 285 sites across six states. After seeing the impact a real solution could make, we decided AI couldn’t just be a side experiment. It would become a fundamental structure of how we support our providers and care teams.
+
+
+​​​Last year, we partnered with an AI company, Ambience Healthcare, to deploy this type of intelligence directly into the electronic medical record (EMR). Today, our clinicians use it in 90% of patient visits.
+
+
+Documentation time has decreased by 44%. After-hours charting completed at home — often called “pajama time” — has dropped by 57%. And documentation is more complete, which means fewer insurance denials and less time fixing costly mistakes.
+
+
+​​​That matters financially. Even small margin improvements can influence whether hospitals have the flexibility to invest in new services. With all of the benefits, this technology is seeing a 3X return and reinforcing financial stability at a time when hospitals have little room for error. But the cultural shift matters more.
+
+
+Many providers describe something we haven’t heard much in recent years: a return of joy in practicing medicine. Physicians who were considering early retirement are choosing to stay. Others are voluntarily asking to see more patients because the most draining and time-consuming parts of their job are now handled by AI.
+
+
+Critics argue that AI introduces risks: bias, over-reliance, data privacy concerns. Those risks are real and require strong governance, clinical oversight and accountability. But the reality is the status quo is not sustainable.
+
+
+Right now, hospitals — especially in rural areas — are closing. Wait times are growing. For years insurance companies have been deploying sophisticated AI to scrutinize claims and deny payment. If care providers refuse to modernize while everyone else does, they will lose that fight.
+
+
+The real divide in healthcare is no longer early adopters versus skeptics. It’s between institutions that recognize how AI can reshape hospital operations and those that don’t.
+
+
+Organizations that get this right will retain physicians, expand access and strengthen the communities they serve. Those that postpone are at an increased risk of higher clinician turnover, tighter staffing and mounting financial pressure.
+
+
+Let me be clear: AI will not solve every problem in American healthcare. It won’t fix reimbursement policy overnight or erase the physician shortage with a software update. But it can give doctors back hours every day. It can reduce the drivers of burnout and it can help hospitals and clinics build financial sustainability.
+
+
+For decades, we’ve allowed administrative work to crowd out the practice of medicine. We’ve treated documentation burden as a rite of passage instead of a design flaw.
+
+
+The right AI is already starting to correct that by putting clinicians’ time back where it belongs: with their patients and, at the end of the day, with their own families.
+
+
+[Fortune](https://fortune.com/2026/05/20/ai-doctor-shortage-hospitals-healthcare-fj-campbell-ardent-health/)

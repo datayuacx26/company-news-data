@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b47d52cdf1bf11cc263cc78b1ca9e2de852a4ccbd1becc200950644f0a602589",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/visual-concept-inference",
+    "canonical": "https://machinelearning.apple.com/research/visual-concept-inference"
+  },
+  "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+  "summary": "Vision-language models (VLMs) can follow complex textual instructions, yet they struggle to reason from purely visual context. In…",
+  "published_at": "2021-10-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-08-18T06:27:45.734166+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2021/10/b4/b47d52cdf1bf11cc263cc78b1ca9e2de852a4ccbd1becc200950644f0a602589/article.md",
+    "record": "articles/v1/3a/apple/2021/10/b4/b47d52cdf1bf11cc263cc78b1ca9e2de852a4ccbd1becc200950644f0a602589/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2558,
+    "sha256": "sha256:610d9e7c54011f8247bf4257d4bcac8e8ad76f27a22d104c2261eb0edcf7ba25",
+    "normalized_content_hash": "sha256:0b76173ab655d6ccade1f5e7e87cba321a8d65e23c7a820fa7bd2fb67f235d1d"
+  },
+  "provenance": {
+    "source_item_id": "7ba89462-63b7-4f29-b81e-ee540d233d86",
+    "external_id": "https://machinelearning.apple.com/research/visual-concept-inference"
+  }
+}

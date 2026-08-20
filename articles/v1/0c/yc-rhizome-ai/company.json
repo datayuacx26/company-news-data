@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-rhizome-ai",
+    "name": "Rhizome AI"
+  },
+  "record_count": 37,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 17
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0c/yc-rhizome-ai/index/pages/000001.json",
+        "record_count": 37,
+        "byte_count": 38199,
+        "sha256": "sha256:afaae653bc0b551130e18e06f74cad327a56fb13d41db424e5e4ce89869882bc",
+        "newest_at": "2026-08-18T05:32:11.506475+00:00",
+        "oldest_at": "2026-07-28T21:16:50.994015+00:00"
+      }
+    ]
+  }
+}

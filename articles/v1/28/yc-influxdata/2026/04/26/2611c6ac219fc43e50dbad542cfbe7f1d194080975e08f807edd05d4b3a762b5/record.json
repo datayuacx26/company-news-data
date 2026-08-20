@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2611c6ac219fc43e50dbad542cfbe7f1d194080975e08f807edd05d4b3a762b5",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/ha-webhooks-influxdb/",
+    "canonical": "https://www.influxdata.com/blog/ha-webhooks-influxdb/"
+  },
+  "title": "Getting Started with Home Assistant Webhooks & Writing to InfluxDB",
+  "summary": "In this blog, we’ll use webhooks in Home Assistant to create flexible, event-driven flows and connect that stream of data to InfluxDB and its Processing Engine to go beyond real-time reactions and start working with your data in a more structured way.",
+  "published_at": "2026-04-28T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:25.910986+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/04/26/2611c6ac219fc43e50dbad542cfbe7f1d194080975e08f807edd05d4b3a762b5/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/04/26/2611c6ac219fc43e50dbad542cfbe7f1d194080975e08f807edd05d4b3a762b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13680,
+    "sha256": "sha256:a09ee56e589fec81653b9817b7bfa53ce6d131e962b4838a0ce5f32416632f64",
+    "normalized_content_hash": "sha256:5e3929c100b56a95ec65c867361008808f13f2ab75aa9eb35cd1f1e291240393"
+  },
+  "provenance": {
+    "source_item_id": "909e96f0-b142-4566-b4e6-a2ef1a068895",
+    "external_id": "https://www.influxdata.com/blog/ha-webhooks-influxdb/"
+  }
+}

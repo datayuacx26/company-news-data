@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b95355de525dbc61d6dbf913fe510b98d1f575cc04418f995e762b3f693df6b",
+  "company": {
+    "key": "yc-ionworks",
+    "name": "Ionworks"
+  },
+  "source": {
+    "id": "yc-ionworks-news-import-f340ab61a31b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ionworks.com/blog/predict-battery-test-duration",
+    "canonical": "https://ionworks.com/blog/predict-battery-test-duration"
+  },
+  "title": "Predict how long a battery test will take",
+  "summary": "Test duration is a property of the protocol, not the cell or the channel, which makes it hard to eyeball. Ionworks Operate predicts it by simulating the protocol, then schedules around real finish times.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T19:09:12.329209+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-20T00:52:29.147754+00:00",
+  "paths": {
+    "article": "articles/v1/26/yc-ionworks/2026/07/4b/4b95355de525dbc61d6dbf913fe510b98d1f575cc04418f995e762b3f693df6b/article.md",
+    "record": "articles/v1/26/yc-ionworks/2026/07/4b/4b95355de525dbc61d6dbf913fe510b98d1f575cc04418f995e762b3f693df6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4366,
+    "sha256": "sha256:b11ea55e678b07ea5ca45d37a31027397310db85423babbd955b8993c079202b",
+    "normalized_content_hash": "sha256:bf126a9ed75e018ebbd04afd20f5484026cafe4c3b143f51f0b78908b4701712"
+  },
+  "provenance": {
+    "source_item_id": "9152a4c2-0f50-4801-abb8-210a9e85cdf1",
+    "external_id": "https://ionworks.com/blog/predict-battery-test-duration"
+  }
+}

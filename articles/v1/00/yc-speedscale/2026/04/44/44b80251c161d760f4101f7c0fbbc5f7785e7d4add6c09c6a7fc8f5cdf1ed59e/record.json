@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44b80251c161d760f4101f7c0fbbc5f7785e7d4add6c09c6a7fc8f5cdf1ed59e",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/replace-api-synthetics-with-traffic-replay/",
+    "canonical": "https://speedscale.com/blog/replace-api-synthetics-with-traffic-replay/"
+  },
+  "title": "Replace API Synthetics with Traffic Replay",
+  "summary": "UI synthetics only tell you something is broken. Traffic replay per microservice isolates failures before any human walks up. Zero scripts required.",
+  "published_at": "2026-04-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:15:51.462388+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/04/44/44b80251c161d760f4101f7c0fbbc5f7785e7d4add6c09c6a7fc8f5cdf1ed59e/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/04/44/44b80251c161d760f4101f7c0fbbc5f7785e7d4add6c09c6a7fc8f5cdf1ed59e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14697,
+    "sha256": "sha256:f8de110aafb32eb07292a83d268b3a1ecdff76a159e838a808618d149015f37d",
+    "normalized_content_hash": "sha256:49e7aefb4abf8400049a976358f002c83313df49e55821a1073029804047f050"
+  },
+  "provenance": {
+    "source_item_id": "9fac6c83-29ee-459e-9146-e31436c45e8b",
+    "external_id": "https://speedscale.com/blog/replace-api-synthetics-with-traffic-replay/"
+  }
+}

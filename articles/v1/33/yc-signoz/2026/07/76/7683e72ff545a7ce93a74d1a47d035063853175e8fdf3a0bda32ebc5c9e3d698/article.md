@@ -1,0 +1,344 @@
+---
+schema_version: "1.0.0"
+document_id: "7683e72ff545a7ce93a74d1a47d035063853175e8fdf3a0bda32ebc5c9e3d698"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/blog/structured-logs"
+published_at: "2026-07-08T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T21:08:44.176891+00:00"
+content_hash: "sha256:f5ffccb8484bd0ecbd3222de49596d38c2f3f23d6a9eca47ec0b40e268b91896"
+---
+
+# What Is Structured Logging? Examples, Benefits, and Best Practices
+
+# What Is Structured Logging? Examples, Benefits, and Best Practices
+
+
+Published on: February 08, 2023
+
+
+Last Updated: July 08, 2026
+
+
+7 min read
+
+
+Logging is an essential part of system administration and application monitoring. It helps record information about application activity, system events, user actions, and errors. The primary purpose of logs is to simplify debugging, troubleshooting, auditing, and operational analysis.
+
+
+Logs can be stored in different places, including text files and databases, and analyzed using[log management tools](https://signoz.io/blog/best-open-source-log-management-tools/) . Depending on how they are generated, logs may be structured, semi-structured, or unstructured. In this blog, we will explore what is structured logging, why it is necessary and it's best practices.
+
+
+## What is Structured Logging?
+
+
+Structured logging is the practice of writing application logs in a consistent, machine-readable format instead of plain text. Each log entry is stored as a set of fields or key-value pairs, often in JSON format, so[log analysis tools](https://signoz.io/comparisons/log-analysis-tools/) can read and process the data automatically.
+
+
+Traditional logs are usually written as free-form text. They are easy for humans to read, but harder for systems to search and analyze reliably. Structured logs solve this by giving every log entry a predictable shape. Tools can then extract fields such as timestamps, error codes, request IDs, user IDs, IP addresses, or response times without depending on fragile text parsing.
+
+
+This makes[logs management](https://signoz.io/log-management/) easier. For example, a logging platform can find all failed login attempts, group them by IP address, or trigger[log based alerts](https://signoz.io/docs/alerts-management/log-based-alerts/) when too many failures happen in a short period.
+
+
+An unstructured log might look like this:
+
+
+```text
+User 123 failed login from 192.168.1.10 at 10:45 PM
+
+
+```
+
+
+The same event as a structured log would look like this:
+
+
+```text
+{
+"timestamp"  :    "2026-05-13T22:45:00Z"  ,
+"event"  :    "login_failed"  ,
+"user_id"  :    123  ,
+"ip_address"  :    "192.168.1.10"
+}
+
+
+```
+
+
+In the structured version, each detail is stored in its own field. That means a logging system can filter by` event` , group results by` ip_address` , or search for activity from a specific` user_id` without guessing where those values appear in a text string.
+
+
+### Java Structured Logging Example
+
+
+Java applications often use structured logging with frameworks such as Logback or Log4j2. Many teams pair these frameworks with JSON encoders so their logs are emitted in a machine-readable format.
+
+
+Here is a simple Log4j2 example using JSON layout:
+
+
+```text
+<  Appenders  >
+<  Console    name  =  "  Console "     target  =  "  SYSTEM_OUT "   >
+<  JsonLayout    complete  =  "  false "     compact  =  "  true "   />
+</  Console  >
+</  Appenders  >
+
+
+```
+
+
+```text
+import    org .  apache .  logging .  log4j .   LogManager   ;
+import    org .  apache .  logging .  log4j .   Logger   ;
+
+
+public    class    App    {
+private    static    final    Logger   logger  =    LogManager  .  getLogger  (  App  .  class  )  ;
+
+
+public    static    void    main  (  String  [  ]   args )    {
+logger .  info  (  "User login successful"  )  ;
+}
+}
+
+
+```
+
+
+Example output:
+
+
+Output
+
+
+```text
+{
+"timeMillis"  :    1747156200000  ,
+"level"  :    "INFO"  ,
+"loggerName"  :    "App"  ,
+"message"  :    "User login successful"
+}
+
+
+```
+
+
+Structured logging is especially helpful in microservices environments, where logs from several services need to be searched, filtered, and correlated during an investigation.
+
+
+### Node.js Structured Logging Example
+
+
+In Node.js, structured logging is often handled with JSON-based loggers such as Pino or Winston.
+
+
+app.js
+
+
+```text
+const   pino  =    require  (  'pino'  )  ;
+
+
+const   logger  =    pino  (  )  ;
+
+
+logger .  info  (  {
+userId  :    123  ,
+action  :    'login'  ,
+status  :    'success'
+}  ,    'User login successful'  )  ;
+
+
+```
+
+
+This produces a structured JSON log:
+
+
+Output
+
+
+```text
+{
+"level"  :    30  ,
+"time"  :    1747156200000  ,
+"userId"  :    123  ,
+"action"  :    "login"  ,
+"status"  :    "success"  ,
+"msg"  :    "User login successful"
+}
+
+
+```
+
+
+### Python Structured Logging Example
+
+
+Python applications can create structured logs with libraries such as` python-json-logger` .
+
+
+main.py
+
+
+```text
+import   logging
+from   pythonjsonlogger  import   jsonlogger
+
+
+logger  =   logging .  getLogger (  )
+handler  =   logging .  StreamHandler (  )
+
+
+formatter  =   jsonlogger .  JsonFormatter (  )
+handler .  setFormatter (  formatter )
+
+
+logger .  addHandler (  handler )
+logger .  setLevel (  logging .  INFO )
+
+
+logger .  info (  "User login successful"  ,   extra =  {
+"user_id"  :    123  ,
+"action"  :    "login"  ,
+"status"  :    "success"
+}  )
+
+
+```
+
+
+Output
+
+
+```text
+{
+"message"  :    "User login successful"  ,
+"user_id"  :    123  ,
+"action"  :    "login"  ,
+"status"  :    "success"
+}
+
+
+```
+
+
+Structured logging is especially useful in distributed systems, where a single request may pass through several services. By keeping important details in named fields, teams can trace issues faster, build more reliable alerts, and understand what happened without digging through raw text logs.
+
+
+### CloudWatch Structured Logging
+
+
+Structured logging is also commonly used with[AWS CloudWatch Logs](https://signoz.io/docs/userguide/send-cloudwatch-logs-to-signoz/) . Applications running on EC2, ECS, Lambda, or Kubernetes can send JSON-formatted logs to CloudWatch, where fields can be queried through CloudWatch Logs Insights.
+
+
+For example, a structured log sent to CloudWatch might look like this:
+
+
+```text
+{
+"timestamp"  :    "2026-05-13T10:15:00Z"  ,
+"service"  :    "payment-service"  ,
+"level"  :    "ERROR"  ,
+"request_id"  :    "req-123"  ,
+"user_id"  :    42  ,
+"error_code"  :    "PAYMENT_FAILED"  ,
+"response_time_ms"  :    850
+}
+
+
+```
+
+
+Because the log data is stored in fields, CloudWatch Logs Insights can query those fields directly instead of relying on complex text parsing.
+
+
+For example:
+
+
+```text
+fields    @timestamp  ,   user_id ,   error_code
+|   filter  level    =    "ERROR"
+|   sort  @timestamp    desc
+
+
+```
+
+
+This helps engineers narrow an investigation by error level, user ID, service name, request ID, or other fields that matter during troubleshooting.
+
+
+## How Can Structured Logging Improve Analysis?
+
+
+Structured logging turns logs into queryable datasets instead of plain text messages. When each log entry follows a predictable schema, logging systems can index fields such as status codes, request IDs, service names, and response times.
+
+
+That structure makes troubleshooting faster. Instead of scanning raw text logs manually, engineers can filter for a specific error, user, service, or transaction using field-based queries.
+
+
+Structured logs also support aggregation and analytics. Teams can calculate error rates, spot latency spikes, group failures by service or region, and identify recurring problems without first cleaning up raw log text. Since the data is already organized into fields, observability platforms can use it for dashboards, alerts, and visualizations.
+
+
+Correlation is another reason teams use structured logs. Log entries can include trace IDs, request IDs, or other identifiers that connect logs with metrics and[distributed traces](https://signoz.io/distributed-tracing/) . In a microservices architecture, this helps teams follow a single request as it moves across multiple services.
+
+
+## Best Practices for Structured Logging
+
+
+#### Use Consistent Field Names
+
+
+Use standardized field names across applications and services. For example, choose one format, such as` user_id` , instead of mixing` userid` ,` userId` , and` uid` . Consistent names make queries easier to write and maintain.
+
+
+#### Log in JSON Format
+
+
+JSON is the most common format for structured logs because it is lightweight, machine-readable, and supported by most logging and[observability tools](https://signoz.io/blog/observability-tools/) .
+
+
+#### Include Contextual Metadata
+
+
+Add metadata such as timestamps, service names, environment names, request IDs, trace IDs, and severity levels. These fields give each log entry enough context to support debugging and correlation.
+
+
+#### Avoid Logging Sensitive Data
+
+
+Do not log passwords, authentication tokens, credit card details, or personally identifiable information. Structured logs are easy to search, which also makes exposed sensitive data easier to find.
+
+
+#### Maintain a Consistent Schema
+
+
+Define a standard logging schema across teams and services. A consistent schema improves querying, dashboard creation, alerting, and long-term maintenance.
+
+
+#### Use Appropriate Log Levels
+
+
+Use[log levels](https://signoz.io/blog/logging-levels/) such as` INFO` ,` WARN` ,` ERROR` , and` DEBUG` carefully. Excessive debug logging in production can increase storage costs and make important events harder to find.
+
+
+## Centralizing Structured Logs
+
+
+Structured logs are easier to manage when they are collected in one place. As applications grow, logs often come from multiple services, containers, Kubernetes clusters, and cloud environments. Local log files quickly become hard to search, compare, and retain.
+
+
+A centralized[observability](https://signoz.io/guides/what-is-observability/) platform such as SigNoz can ingest JSON logs, extract fields, and make them available for search, dashboards, and alerts. Teams can filter logs by fields such as` service_name` ,` user_id` , or` error_code` , connect logs to distributed traces through trace IDs, and investigate issues across services from a single view. Once centralized, structured logs can be[parsed further with the OpenTelemetry Collector](https://signoz.io/blog/parsing-logs-with-the-opentelemetry-collector/) before storage.
+
+
+This is especially useful in distributed systems, where a single request may pass through several services before it fails. Structured logs give each service a consistent way to describe what happened, which makes troubleshooting faster and less dependent on manual text searches.
+
+
+## Conclusion
+
+
+Structured logging makes application logs easier to search, analyze, and process by converting unstructured messages into machine-readable data. By storing logs as consistent key-value fields, teams can improve troubleshooting, automate analysis, and connect logs more effectively with observability workflows. For microservices, cloud infrastructure, and production debugging, structured logging gives teams a more scalable approach than traditional text-based logs.

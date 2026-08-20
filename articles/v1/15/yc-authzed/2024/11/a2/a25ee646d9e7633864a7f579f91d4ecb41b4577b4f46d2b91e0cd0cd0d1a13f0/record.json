@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a25ee646d9e7633864a7f579f91d4ecb41b4577b4f46d2b91e0cd0cd0d1a13f0",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/the-day-benjamin-franklin-broke-our-ci",
+    "canonical": "https://authzed.com/blog/the-day-benjamin-franklin-broke-our-ci"
+  },
+  "title": "The Day Benjamin Franklin Broke our CI",
+  "summary": "What do Benjamin Franklin's satirical letter about waking up early and a failing CI test have in common? When our automated tests mysteriously started breaking after the end of Daylight Saving Time, we uncovered unexpected timestamp behavior and embarked on a systematic debugging journey to find a fix.",
+  "published_at": "2024-11-07T20:20:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2024/11/a2/a25ee646d9e7633864a7f579f91d4ecb41b4577b4f46d2b91e0cd0cd0d1a13f0/article.md",
+    "record": "articles/v1/15/yc-authzed/2024/11/a2/a25ee646d9e7633864a7f579f91d4ecb41b4577b4f46d2b91e0cd0cd0d1a13f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16120,
+    "sha256": "sha256:04424e38baf5a065742b3d87b6da3ad361b7ecd3ac981392723fd5b80f1ea3e7",
+    "normalized_content_hash": "sha256:10783d7b281bad1b22d13e0b9acee73ebce33a32c50cc8ce48465453c3ceadb5"
+  },
+  "provenance": {
+    "source_item_id": "055531ab-052a-462c-87e2-1c79d8335d75",
+    "external_id": "https://authzed.com/blog/the-day-benjamin-franklin-broke-our-ci"
+  }
+}

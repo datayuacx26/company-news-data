@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b1cd06695cf4736d32826618e0f26b08cddc21dde58f3d16c624e7c56472c41",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/opentofu-foundations-building-composable-infrastructure-as-code-modules",
+    "canonical": "https://www.massdriver.cloud/blogs/opentofu-foundations-building-composable-infrastructure-as-code-modules"
+  },
+  "title": "OpenTofu Foundations: Building Composable Infrastructure-as-Code Modules (Part 2)",
+  "summary": "Welcome to week two of the OpenTofu workshop! This week, we'll dive into the concept of modular infrastructure using OpenTofu. Modules are a powerful way to organize your code, promote reusability, and enforce best practices in Infrastructure as Code (IaC). By the end of this session, you'll be able to create your own modules, use existing ones, and apply best practices for modular infrastructure design.",
+  "published_at": "2024-10-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:43:35.035955+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2024/10/0b/0b1cd06695cf4736d32826618e0f26b08cddc21dde58f3d16c624e7c56472c41/article.md",
+    "record": "articles/v1/38/yc-massdriver/2024/10/0b/0b1cd06695cf4736d32826618e0f26b08cddc21dde58f3d16c624e7c56472c41/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14827,
+    "sha256": "sha256:adde26b7ab3b6e5d25c162f9efa9452daab61eae7ee1979448d0fa31f91845a7",
+    "normalized_content_hash": "sha256:62ad743f656a130169b2ba2984f2b87ef7424c15cb3a0824b793706fbfdbfe20"
+  },
+  "provenance": {
+    "source_item_id": "cb53326f-668a-4b60-9cdf-1459bb6fe982",
+    "external_id": "https://www.massdriver.cloud/blogs/opentofu-foundations-building-composable-infrastructure-as-code-modules"
+  }
+}

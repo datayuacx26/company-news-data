@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2385bb7d6a8e4f2de17f23dbae30ff651630e6c5838293addbb3d5cc2d67768f",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/aws-lambda-limits/",
+    "canonical": "https://middleware.io/blog/aws-lambda-limits/"
+  },
+  "title": "AWS Lambda Limits: The Complete Guide to Quotas, Hard Limits, and Workarounds",
+  "summary": "Every AWS Lambda limit in one place: memory, timeout, concurrency, payload, storage. What's fixed, what's adjustable, and how to design around each.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T00:55:41.367410+00:00",
+  "fetched_at": "2026-08-13T00:55:44.289264+00:00",
+  "last_updated_at": "2026-08-19T19:48:10.047752+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/08/23/2385bb7d6a8e4f2de17f23dbae30ff651630e6c5838293addbb3d5cc2d67768f/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/08/23/2385bb7d6a8e4f2de17f23dbae30ff651630e6c5838293addbb3d5cc2d67768f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17301,
+    "sha256": "sha256:e975279c40be6285c9ea125f8a787266e7a56203ce412b5049615c190672e703",
+    "normalized_content_hash": "sha256:11b80532290309a38b7dd8f6a6d0cbc0720a2d7a64ffa161f6c00d89997f8ba1"
+  },
+  "provenance": {
+    "source_item_id": "385cd292-941d-45ff-a1c6-ab7642fe1ef4",
+    "external_id": "https://middleware.io/blog/aws-lambda-limits/"
+  }
+}

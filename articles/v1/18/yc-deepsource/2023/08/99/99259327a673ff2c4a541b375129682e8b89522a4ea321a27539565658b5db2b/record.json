@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99259327a673ff2c4a541b375129682e8b89522a4ea321a27539565658b5db2b",
+  "company": {
+    "key": "yc-deepsource",
+    "name": "DeepSource"
+  },
+  "source": {
+    "id": "yc-deepsource-news-import-7d7bc2aa4aff",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepsource.com/blog/monorepos",
+    "canonical": "https://deepsource.com/blog/monorepos"
+  },
+  "title": "Introducing support for Monorepos",
+  "summary": "DeepSource now supports analyzing monorepos, allowing teams to manage code health across multiple projects in a single repository.",
+  "published_at": "2023-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:01:30.648789+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T03:06:52.311553+00:00",
+  "paths": {
+    "article": "articles/v1/18/yc-deepsource/2023/08/99/99259327a673ff2c4a541b375129682e8b89522a4ea321a27539565658b5db2b/article.md",
+    "record": "articles/v1/18/yc-deepsource/2023/08/99/99259327a673ff2c4a541b375129682e8b89522a4ea321a27539565658b5db2b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2390,
+    "sha256": "sha256:db1dd2b73d35365650bb5c90bb87a6dc21592a5fd5ca3613373285c45b8bfee8",
+    "normalized_content_hash": "sha256:ebec1ab793d32da08c2c0f2f237d91e00277c86a5901f51dd559d19b1bf7ae78"
+  },
+  "provenance": {
+    "source_item_id": "e6dd45c6-ea7e-420b-8f49-279a4cd7692e",
+    "external_id": "https://deepsource.com/blog/monorepos"
+  }
+}

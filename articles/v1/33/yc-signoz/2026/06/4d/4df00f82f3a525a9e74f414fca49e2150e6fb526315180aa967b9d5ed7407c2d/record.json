@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4df00f82f3a525a9e74f414fca49e2150e6fb526315180aa967b9d5ed7407c2d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/ai/use-cases/noz-triage-customer-issue",
+    "canonical": "https://signoz.io/docs/ai/use-cases/noz-triage-customer-issue"
+  },
+  "title": "Triage a Customer-Reported Issue with Noz",
+  "summary": "When a customer reports an error, ask Noz to scope logs to that tenant or user and tell you whether the problem is isolated or widespread.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/4d/4df00f82f3a525a9e74f414fca49e2150e6fb526315180aa967b9d5ed7407c2d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/4d/4df00f82f3a525a9e74f414fca49e2150e6fb526315180aa967b9d5ed7407c2d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 686,
+    "sha256": "sha256:f138194b2926a84b222bc8808cd18fefa16bd6be0227370c1abdc8e6940621cd",
+    "normalized_content_hash": "sha256:785efe42a3f7caeec599b5cd13d8f9705c05c1e9f0952d424934fb0e7543a919"
+  },
+  "provenance": {
+    "source_item_id": "0f4ee61d-c311-45c1-b519-82f0dbcc06a2",
+    "external_id": "https://signoz.io/docs/ai/use-cases/noz-triage-customer-issue"
+  }
+}

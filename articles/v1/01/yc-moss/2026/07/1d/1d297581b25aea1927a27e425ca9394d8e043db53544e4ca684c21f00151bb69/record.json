@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d297581b25aea1927a27e425ca9394d8e043db53544e4ca684c21f00151bb69",
+  "company": {
+    "key": "yc-moss",
+    "name": "Moss"
+  },
+  "source": {
+    "id": "yc-moss-rss-e49397d0a304",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.moss.dev/blog/the-production-ai-stack",
+    "canonical": "https://www.moss.dev/blog/the-production-ai-stack"
+  },
+  "title": "The Production AI Stack: A Reference Architecture for Real-Time AI Systems",
+  "summary": "The seven layers of every real-time AI system - models, inference, search, memory, sessions, orchestration, and deployment - and where latency comes from at each one. A reference architecture for building voice agents, copilots, and conversational AI that feel instant.",
+  "published_at": "2026-07-18T09:00:00+00:00",
+  "first_seen_at": "2026-07-27T03:53:19.807128+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T03:50:54.528493+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-moss/2026/07/1d/1d297581b25aea1927a27e425ca9394d8e043db53544e4ca684c21f00151bb69/article.md",
+    "record": "articles/v1/01/yc-moss/2026/07/1d/1d297581b25aea1927a27e425ca9394d8e043db53544e4ca684c21f00151bb69/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33596,
+    "sha256": "sha256:45483a0a0554b55696371237fc88f4d5b4ba382732a7dd6f380449c6542b860a",
+    "normalized_content_hash": "sha256:2b9d004b2f57fddbe3fd80c209e1d4a832423521215cad4ce71b7656dc048a92"
+  },
+  "provenance": {
+    "source_item_id": "bf78b382-3f16-4444-8d1a-17cf8cab7d3e",
+    "external_id": "https://www.moss.dev/blog/the-production-ai-stack"
+  }
+}

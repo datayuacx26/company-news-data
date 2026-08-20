@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "597d3b96d2dc7f54e89eac49f057637c69a21b2bd09504f03aabcd6342a8c8c4",
+  "company": {
+    "key": "yc-refine",
+    "name": "refine"
+  },
+  "source": {
+    "id": "yc-refine-news-import-5281f2a007d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://refine.dev/blog/refine-core-introduction/",
+    "canonical": "https://refine.dev/blog/refine-core-introduction/"
+  },
+  "title": "Introducing Refine Core - A New Chapter",
+  "summary": "We're splitting Refine into two products - Refine Core (our open source framework) and Refine (our AI-powered product builder).",
+  "published_at": "2026-01-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:12:37.276072+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-08-19T20:12:42.074328+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-refine/2026/01/59/597d3b96d2dc7f54e89eac49f057637c69a21b2bd09504f03aabcd6342a8c8c4/article.md",
+    "record": "articles/v1/10/yc-refine/2026/01/59/597d3b96d2dc7f54e89eac49f057637c69a21b2bd09504f03aabcd6342a8c8c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3660,
+    "sha256": "sha256:73c8762dc11985e5637f5dc756e0858841581eadb029744c2267430122bb02c7",
+    "normalized_content_hash": "sha256:f95c65c4736c00d037625ee6ca6affb9e59b470c6c648ccd39780dbc111600eb"
+  },
+  "provenance": {
+    "source_item_id": "26b6a499-2786-46d9-8816-60c5473066f9",
+    "external_id": "https://refine.dev/blog/refine-core-introduction/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb5f481d01d147157b6ef0111854031e2331fb909ced8e673a73b09c84ee9b3a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/opentelemetry/logging-nodejs",
+    "canonical": "https://signoz.io/opentelemetry/logging-nodejs"
+  },
+  "title": "Sending Logs to SigNoz - OpenTelemetry NodeJS",
+  "summary": "Learn how to send structured Node.js logs to SigNoz using Pino and the OpenTelemetry Collector, with a logs pipeline for microservices.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.598401+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/bb/bb5f481d01d147157b6ef0111854031e2331fb909ced8e673a73b09c84ee9b3a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/bb/bb5f481d01d147157b6ef0111854031e2331fb909ced8e673a73b09c84ee9b3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12468,
+    "sha256": "sha256:d2ad2a08d082c614bde88125dd184cd648e19eb36b467c2da33b58648daa877f",
+    "normalized_content_hash": "sha256:d9e356587a96d02bc24ca5bebda01c3b4b8e4126fc1f85f4d927968dbf61362b"
+  },
+  "provenance": {
+    "source_item_id": "de5fcd44-028f-46a7-97e1-55e88e4bd1da",
+    "external_id": "https://signoz.io/opentelemetry/logging-nodejs"
+  }
+}

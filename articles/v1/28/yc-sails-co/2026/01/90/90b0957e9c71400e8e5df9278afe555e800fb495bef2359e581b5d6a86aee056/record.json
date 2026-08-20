@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90b0957e9c71400e8e5df9278afe555e800fb495bef2359e581b5d6a86aee056",
+  "company": {
+    "key": "yc-sails-co",
+    "name": "Sails Co."
+  },
+  "source": {
+    "id": "yc-sails-co-rss-a888f7fb03bc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.sailscasts.com/understanding-parley/",
+    "canonical": "https://blog.sailscasts.com/understanding-parley/"
+  },
+  "title": "Understanding Parley: The Deferred Pattern Powering Sails",
+  "summary": "Parley is a lightweight flow control library that powers async operations across the Sails ecosystem. Learn how this pre-Promise Deferred pattern enables timeout and error negotiation in Waterline models and Sails helpers.",
+  "published_at": "2026-01-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:05:07.405322+00:00",
+  "fetched_at": "2026-07-28T20:54:56.230774+00:00",
+  "last_updated_at": "2026-08-20T00:44:19.732721+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-sails-co/2026/01/90/90b0957e9c71400e8e5df9278afe555e800fb495bef2359e581b5d6a86aee056/article.md",
+    "record": "articles/v1/28/yc-sails-co/2026/01/90/90b0957e9c71400e8e5df9278afe555e800fb495bef2359e581b5d6a86aee056/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21379,
+    "sha256": "sha256:c5f4df0aa42d62a7d221f257724c10e08a895a3a10fcaf7b95e5367e491ff5ff",
+    "normalized_content_hash": "sha256:67615e40d2d40f63b88cd48d1230fa5dac893577cb347b546f29e845f81fea0f"
+  },
+  "provenance": {
+    "source_item_id": "5b41dd06-feea-4e94-8201-4f95f6a30492",
+    "external_id": "https://blog.sailscasts.com/understanding-parley/"
+  }
+}

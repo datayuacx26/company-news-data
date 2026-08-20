@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "record_count": 131,
+  "first_published_at": "2018-04-30T05:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2018-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0a/target-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57171,
+        "sha256": "sha256:32d9f8a1f25c8fb4da99184687fa4950d35e5c80e23983d3fefd61bf7135c19a",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2025-08-04T05:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0a/target-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 53415,
+        "sha256": "sha256:84d553527125d0e19e2d033a8902c3b9870ca484d5145a7f25fa5888d44b5d7a",
+        "newest_at": "2025-07-22T05:00:00+00:00",
+        "oldest_at": "2022-09-15T05:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/0a/target-corporation-common-stock/index/pages/000003.json",
+        "record_count": 31,
+        "byte_count": 38897,
+        "sha256": "sha256:3a65cbfc82d54f5e5bb6db82f74a971a019ae509513c6bb9dc04c6f0521dcf37",
+        "newest_at": "2022-08-24T05:00:00+00:00",
+        "oldest_at": "2018-04-30T05:00:00+00:00"
+      }
+    ]
+  }
+}

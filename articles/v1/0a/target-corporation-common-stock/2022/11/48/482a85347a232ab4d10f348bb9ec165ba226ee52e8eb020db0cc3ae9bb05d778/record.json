@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "482a85347a232ab4d10f348bb9ec165ba226ee52e8eb020db0cc3ae9bb05d778",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/chaos-leads-to-resilience",
+    "canonical": "https://tech.target.com/blog/chaos-leads-to-resilience"
+  },
+  "title": "Chaos Leads to Resilience",
+  "summary": "An article by Deepa Kn : How Target uses chaos experiments to test the resilience of our architecture.",
+  "published_at": "2022-11-10T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/11/48/482a85347a232ab4d10f348bb9ec165ba226ee52e8eb020db0cc3ae9bb05d778/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/11/48/482a85347a232ab4d10f348bb9ec165ba226ee52e8eb020db0cc3ae9bb05d778/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5599,
+    "sha256": "sha256:32597ce432ebaad0a2037e903cd3a754a37100f75a533ed528adb59ad03e6555",
+    "normalized_content_hash": "sha256:592478b8f264269d4de78632d6c12fde5810e7af9b46214c326008f4f0ddc235"
+  },
+  "provenance": {
+    "source_item_id": "5c8e0878-61eb-4629-9ccc-5cb92a97a84b",
+    "external_id": "BLOG-10037"
+  }
+}

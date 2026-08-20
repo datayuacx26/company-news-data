@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "30c8d6d16a9bba370840b061fafa73f41333c612d110652effc9560b9e0eb2aa",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/default-logging-file-for-spring-boot-application",
+    "canonical": "https://signoz.io/guides/default-logging-file-for-spring-boot-application"
+  },
+  "title": "How to Configure Default Log Files - Spring Boot Logging",
+  "summary": "Learn how to configure default log files in Spring Boot: file location, rotation, and management, with best practices for centralized logging.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.281037+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/30/30c8d6d16a9bba370840b061fafa73f41333c612d110652effc9560b9e0eb2aa/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/30/30c8d6d16a9bba370840b061fafa73f41333c612d110652effc9560b9e0eb2aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29763,
+    "sha256": "sha256:48b8f21f490555a848792421a89a9c8b0810e13b5a882c693c934ee621ae9062",
+    "normalized_content_hash": "sha256:5a07375f0825a6922b824016eb10b42229d5d125bf4b29059860393bcb51dea6"
+  },
+  "provenance": {
+    "source_item_id": "4460e581-9f3b-4dd7-8615-bb8e96ab1274",
+    "external_id": "https://signoz.io/guides/default-logging-file-for-spring-boot-application"
+  }
+}

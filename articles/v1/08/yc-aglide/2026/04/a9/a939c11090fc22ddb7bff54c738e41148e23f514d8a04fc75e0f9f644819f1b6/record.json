@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a939c11090fc22ddb7bff54c738e41148e23f514d8a04fc75e0f9f644819f1b6",
+  "company": {
+    "key": "yc-aglide",
+    "name": "Aglide"
+  },
+  "source": {
+    "id": "yc-aglide-rss-a73e409223ac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.aglide.com/single-sign-on/how-to-manage-non-saml-apps-in-okta/",
+    "canonical": "https://blog.aglide.com/single-sign-on/how-to-manage-non-saml-apps-in-okta/"
+  },
+  "title": "How to Manage Non-SAML Apps in Okta",
+  "summary": "Okta can't natively manage apps that don't support SAML or OIDC - and in most enterprise environments, that's roughly 30% of the app estate. This post breaks down the three approaches for closing that gap: Okta SWA, automated password managers, and SSO bridging platforms.",
+  "published_at": "2026-04-24T14:39:44+00:00",
+  "first_seen_at": "2026-07-24T14:45:00.121943+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T03:13:20.087137+00:00",
+  "paths": {
+    "article": "articles/v1/08/yc-aglide/2026/04/a9/a939c11090fc22ddb7bff54c738e41148e23f514d8a04fc75e0f9f644819f1b6/article.md",
+    "record": "articles/v1/08/yc-aglide/2026/04/a9/a939c11090fc22ddb7bff54c738e41148e23f514d8a04fc75e0f9f644819f1b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9426,
+    "sha256": "sha256:4e7917a1f9886cb6fc01a3e983b199b6f4c1e8b30f718eb62e050ea2e4e72e29",
+    "normalized_content_hash": "sha256:8ab6f75823d0ffee27979689ecd79d5c2e5a556c32803b9f98d65d00fcff6dd5"
+  },
+  "provenance": {
+    "source_item_id": "5e93471b-aefe-458c-8643-52bce0e3cbda",
+    "external_id": "69eb800777cddd0001eea559"
+  }
+}

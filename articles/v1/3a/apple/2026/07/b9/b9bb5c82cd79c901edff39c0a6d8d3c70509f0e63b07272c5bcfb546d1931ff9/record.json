@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b9bb5c82cd79c901edff39c0a6d8d3c70509f0e63b07272c5bcfb546d1931ff9",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/unlearning-low-influence-points",
+    "canonical": "https://machinelearning.apple.com/research/unlearning-low-influence-points"
+  },
+  "title": "When Unlearning Is Free: Leveraging Low Influence Points to Reduce Computational Costs",
+  "summary": "As concerns around data privacy in machine learning grow, the ability to unlearn, or remove, specific data points from trained models…",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T05:55:56.605397+00:00",
+  "fetched_at": "2026-08-14T05:55:59.727483+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/b9/b9bb5c82cd79c901edff39c0a6d8d3c70509f0e63b07272c5bcfb546d1931ff9/article.md",
+    "record": "articles/v1/3a/apple/2026/07/b9/b9bb5c82cd79c901edff39c0a6d8d3c70509f0e63b07272c5bcfb546d1931ff9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2554,
+    "sha256": "sha256:bfa951400c9568bbb76ead55b2abf01ad2ebffe19bcbb8f5fe0431a02a5705c9",
+    "normalized_content_hash": "sha256:ed719e1e3bca633d3e8d1d1378115a0a414d9f68a53177d2265efe6d6d2b6818"
+  },
+  "provenance": {
+    "source_item_id": "339df60d-d3a3-42f0-bbf9-7e538861a6eb",
+    "external_id": "https://machinelearning.apple.com/research/unlearning-low-influence-points"
+  }
+}

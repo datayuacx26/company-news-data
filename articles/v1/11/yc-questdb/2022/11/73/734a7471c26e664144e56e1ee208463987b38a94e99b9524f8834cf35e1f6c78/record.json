@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "734a7471c26e664144e56e1ee208463987b38a94e99b9524f8834cf35e1f6c78",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/11/25/questdb-6.6.1-dynamic-commits/",
+    "canonical": "https://questdb.com/blog/2022/11/25/questdb-6.6.1-dynamic-commits/"
+  },
+  "title": "QuestDB 6.6.1 - Dynamic Commits",
+  "summary": "The detailed story of how QuestDB 6.6.1 increases data freshness",
+  "published_at": "2022-11-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.184588+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/11/73/734a7471c26e664144e56e1ee208463987b38a94e99b9524f8834cf35e1f6c78/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/11/73/734a7471c26e664144e56e1ee208463987b38a94e99b9524f8834cf35e1f6c78/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5895,
+    "sha256": "sha256:0dc95e1ccf753ae502717189e62c5b79458bd5fc680be0d210d18f69da59fc52",
+    "normalized_content_hash": "sha256:0e5241aa0ed6bbfccfe4d64dd9a87292a80dfc78e52b7d29a55c23077b327dc8"
+  },
+  "provenance": {
+    "source_item_id": "35cc79f8-ba04-4005-a61e-448d121d7047",
+    "external_id": "https://questdb.com/blog/2022/11/25/questdb-6.6.1-dynamic-commits/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97b6895171a7cf95cf5de890cf13b67b153985d166e2aa1e0ea6abea49d999af",
+  "company": {
+    "key": "snowflake-inc-common-stock",
+    "name": "Snowflake Inc."
+  },
+  "source": {
+    "id": "snowflake-inc-common-stock-rss-c0c3a844dab6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.snowflake.com/content/snowflake-site/global/en/blog/migrate-spark-to-snowflake",
+    "canonical": "https://www.snowflake.com/content/snowflake-site/global/en/blog/migrate-spark-to-snowflake"
+  },
+  "title": "Run Apache Spark on Snowflake with CoCo",
+  "summary": "Discover how to migrate Apache Spark pipelines to Snowflake (Snowpark Connect) effortlessly using the Snowflake CoCo spark-migration skill. Improve performance and reduce costs.",
+  "published_at": "2026-07-30T23:55:00+00:00",
+  "first_seen_at": "2026-07-31T17:44:58.928283+00:00",
+  "fetched_at": "2026-07-31T17:45:00.742064+00:00",
+  "last_updated_at": "2026-08-20T02:37:54.495918+00:00",
+  "paths": {
+    "article": "articles/v1/19/snowflake-inc-common-stock/2026/07/97/97b6895171a7cf95cf5de890cf13b67b153985d166e2aa1e0ea6abea49d999af/article.md",
+    "record": "articles/v1/19/snowflake-inc-common-stock/2026/07/97/97b6895171a7cf95cf5de890cf13b67b153985d166e2aa1e0ea6abea49d999af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6117,
+    "sha256": "sha256:0865cb2760fd2f20b7ed6133944bb7540ca387e5b9ca2be87ff43be9ecbe441c",
+    "normalized_content_hash": "sha256:ac8c43184e62cf4192f21a4df0a0fce3c06be8553364c7b83c101dca85aae542"
+  },
+  "provenance": {
+    "source_item_id": "6eaf7aa9-8bc8-46a9-bd49-78355cdb35b6",
+    "external_id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/migrate-spark-to-snowflake"
+  }
+}

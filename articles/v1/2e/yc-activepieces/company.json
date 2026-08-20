@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-activepieces",
+    "name": "Activepieces"
+  },
+  "record_count": 30,
+  "first_published_at": "2026-03-27T10:57:38+00:00",
+  "last_published_at": "2026-07-11T05:24:46+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 17
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2e/yc-activepieces/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 30730,
+        "sha256": "sha256:d3e85aa733cbd946a381c97fad131fc421c37938af059b97ddf930356a11ef9c",
+        "newest_at": "2026-07-11T05:24:46+00:00",
+        "oldest_at": "2026-03-27T10:57:38+00:00"
+      }
+    ]
+  }
+}

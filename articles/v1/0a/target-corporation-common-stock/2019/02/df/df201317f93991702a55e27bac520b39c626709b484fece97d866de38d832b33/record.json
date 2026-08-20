@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df201317f93991702a55e27bac520b39c626709b484fece97d866de38d832b33",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/chaos-engineering-at-target-part-1",
+    "canonical": "https://tech.target.com/blog/chaos-engineering-at-target-part-1"
+  },
+  "title": "Ɔhaos Ǝnginǝǝring @ Target - Part 1",
+  "summary": "An article by Brian Lee, Jason Doffing, and Sean Peters : Chaos engineering is the discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production.",
+  "published_at": "2019-02-05T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T22:26:51.183990+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2019/02/df/df201317f93991702a55e27bac520b39c626709b484fece97d866de38d832b33/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2019/02/df/df201317f93991702a55e27bac520b39c626709b484fece97d866de38d832b33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6485,
+    "sha256": "sha256:9aa60d91dbc383a9219b1601c6f0cae15a76b4b7c4675ed11aff4ea26cf6e808",
+    "normalized_content_hash": "sha256:f376675767b9005970d9dc26eb5c538b5cd7af8689559ad533bca02276031a19"
+  },
+  "provenance": {
+    "source_item_id": "0da910b0-8232-40d3-a000-f0b4304d5dfc",
+    "external_id": "BLOG-10007"
+  }
+}

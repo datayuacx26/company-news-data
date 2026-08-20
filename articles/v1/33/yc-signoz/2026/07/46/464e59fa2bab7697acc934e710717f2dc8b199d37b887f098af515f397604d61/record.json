@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "464e59fa2bab7697acc934e710717f2dc8b199d37b887f098af515f397604d61",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/instrumentation/opentelemetry-ebpf",
+    "canonical": "https://signoz.io/docs/instrumentation/opentelemetry-ebpf"
+  },
+  "title": "Zero-Code eBPF Instrumentation with OpenTelemetry OBI",
+  "summary": "Auto-instrument applications with eBPF using OpenTelemetry eBPF Instrumentation (OBI) and send RED metrics and traces to SigNoz with no code changes.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/46/464e59fa2bab7697acc934e710717f2dc8b199d37b887f098af515f397604d61/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/46/464e59fa2bab7697acc934e710717f2dc8b199d37b887f098af515f397604d61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 705,
+    "sha256": "sha256:32825790b3136244c4c656db0cbce41d7d73d22f80cf4f278724bf86d1ff1f64",
+    "normalized_content_hash": "sha256:d274297c41802dfe4d943e5c32717abafdacf92cfb0e62d8137e7564216a06fb"
+  },
+  "provenance": {
+    "source_item_id": "677b2a3b-da81-4ae6-8103-61fa4c6cd1b6",
+    "external_id": "https://signoz.io/docs/instrumentation/opentelemetry-ebpf"
+  }
+}

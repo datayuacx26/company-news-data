@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b24926f4c3a3fdc541810cfe2657122aae9f80f5cc062e05225038bb489374d4",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/openclaw-memory-from-zero-to-lancedb-pro",
+    "canonical": "https://www.lancedb.com/blog/openclaw-memory-from-zero-to-lancedb-pro"
+  },
+  "title": "Memory for OpenClaw: From Zero to LanceDB Pro",
+  "summary": "Benchmarking three OpenClaw memory plugins on the LOCOMO dataset",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/b2/b24926f4c3a3fdc541810cfe2657122aae9f80f5cc062e05225038bb489374d4/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/b2/b24926f4c3a3fdc541810cfe2657122aae9f80f5cc062e05225038bb489374d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22946,
+    "sha256": "sha256:b4f9abe6c63d35eedc6c908943bf7b7804361c0c8bc5e128e96455e4f36549d7",
+    "normalized_content_hash": "sha256:81ed67ea51667cb5f6f9c06adf0d462f36aae4b76a2f270084b17c291dd960c8"
+  },
+  "provenance": {
+    "source_item_id": "61854586-944d-4b0d-939c-30d0482d1842",
+    "external_id": "https://www.lancedb.com/blog/openclaw-memory-from-zero-to-lancedb-pro"
+  }
+}

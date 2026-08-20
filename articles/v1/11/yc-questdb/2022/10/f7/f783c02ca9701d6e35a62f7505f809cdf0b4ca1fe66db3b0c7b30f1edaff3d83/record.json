@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f783c02ca9701d6e35a62f7505f809cdf0b4ca1fe66db3b0c7b30f1edaff3d83",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/10/20/questdb-big-data-ldn/",
+    "canonical": "https://questdb.com/blog/2022/10/20/questdb-big-data-ldn/"
+  },
+  "title": "QuestDB at Big Data LDN 2022",
+  "summary": "Big Data LDN (London) is the UK’s leading free to attend data & analytics conference and exhibition. This year, Javier Ramirez, Developer Advocate at QuestDB, delivered a talk on \"Ingesting A Million Time Series Per Second On A Single Instance\".",
+  "published_at": "2022-10-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.133533+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/10/f7/f783c02ca9701d6e35a62f7505f809cdf0b4ca1fe66db3b0c7b30f1edaff3d83/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/10/f7/f783c02ca9701d6e35a62f7505f809cdf0b4ca1fe66db3b0c7b30f1edaff3d83/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4284,
+    "sha256": "sha256:52c81676d1f604ac17e918ec4e2c9e50a973ba4456f8affad7c2d01d7db892fe",
+    "normalized_content_hash": "sha256:b377f2e04fa59220a78140de3284e1adf5b10963be18189e59d43c4f6e97d5f0"
+  },
+  "provenance": {
+    "source_item_id": "b2aa8b92-df09-4d1c-bd78-b2581d1e03a7",
+    "external_id": "https://questdb.com/blog/2022/10/20/questdb-big-data-ldn/"
+  }
+}

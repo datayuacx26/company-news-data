@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-aurabeat",
+    "name": "Aurabeat"
+  },
+  "record_count": 9,
+  "first_published_at": "2020-10-01T04:44:15+00:00",
+  "last_published_at": "2021-09-24T05:08:03+00:00",
+  "partitions": [
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1f/yc-aurabeat/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 11112,
+        "sha256": "sha256:9119f12cb18ef28aaad180081f4e5d2f8a48f5d4fdf703be9f7caecf42cc1626",
+        "newest_at": "2021-09-24T05:08:03+00:00",
+        "oldest_at": "2020-10-01T04:44:15+00:00"
+      }
+    ]
+  }
+}

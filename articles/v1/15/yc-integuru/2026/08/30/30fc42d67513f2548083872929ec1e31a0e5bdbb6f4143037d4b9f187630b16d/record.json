@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "30fc42d67513f2548083872929ec1e31a0e5bdbb6f4143037d4b9f187630b16d",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/payer-portal-integration-no-api",
+    "canonical": "https://www.integuru.com/blog/payer-portal-integration-no-api"
+  },
+  "title": "Healthcare Payer Portal Integration Without an Official API: A Practical Guide",
+  "summary": "EDI covers standard transactions. FHIR mandates land in 2027. Neither touches the regional Medicaid plans, prior auth portals, and specialty payers where RCM teams spend most of their fire-fighting time. This guide explains why, and what a production p...",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T21:05:06.493354+00:00",
+  "fetched_at": "2026-08-11T21:05:08.330548+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/08/30/30fc42d67513f2548083872929ec1e31a0e5bdbb6f4143037d4b9f187630b16d/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/08/30/30fc42d67513f2548083872929ec1e31a0e5bdbb6f4143037d4b9f187630b16d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15511,
+    "sha256": "sha256:cc9c61f91c4d82f398ba73499e4c4f3ba37f98bacc9363765cdd88ea75691148",
+    "normalized_content_hash": "sha256:c25b6cee4dac4f74e8d5139bb302d08ded251fb4906021836ccae6424e8b0c28"
+  },
+  "provenance": {
+    "source_item_id": "b0cc375b-7a78-4c04-b400-b86c132c959f",
+    "external_id": "https://www.integuru.com/blog/payer-portal-integration-no-api"
+  }
+}

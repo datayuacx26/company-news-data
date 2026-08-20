@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be7a0dc0e157628bf94f04164cf844d919749be3c8d085a9a4fa7a134519fd05",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9e9cef1eb453",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/press/release/2026/08/target-cooks-up-easy-family-recipes-with-first-ever-good-gather-cookbook",
+    "canonical": "https://corporate.target.com/press/release/2026/08/target-cooks-up-easy-family-recipes-with-first-ever-good-gather-cookbook"
+  },
+  "title": "Target Cooks Up Easy Family Recipes with First-Ever Good & Gather Cookbook",
+  "summary": "\"Good & Gather: Discover Delicious Every Day\" features 100 easy-to-make recipes, with every ingredient available at Target Developed by Target's test kitchen team, the cookbook offers busy...",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-03T13:39:16.951511+00:00",
+  "fetched_at": "2026-08-03T14:10:52.670502+00:00",
+  "last_updated_at": "2026-08-19T17:38:58.640482+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/be/be7a0dc0e157628bf94f04164cf844d919749be3c8d085a9a4fa7a134519fd05/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/be/be7a0dc0e157628bf94f04164cf844d919749be3c8d085a9a4fa7a134519fd05/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6510,
+    "sha256": "sha256:1e49fb68f89bcc2edafa016331e592e4e569c3a37d10b66252a66b821048c3ef",
+    "normalized_content_hash": "sha256:85b8547048b1a64518f87ab870320067d392f30c629f133f61c53d5f3ebaa55a"
+  },
+  "provenance": {
+    "source_item_id": "08d8a866-ef23-40f0-a496-14fe6386c07a",
+    "external_id": "https://corporate.target.com/press/release/2026/08/target-cooks-up-easy-family-recipes-with-first-ever-good-gather-cookbook"
+  }
+}

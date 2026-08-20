@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be0bda22e223fb3199af1f1a96b673a0e37e50837ccd872316b1386c1432edb4",
+  "company": {
+    "key": "yc-okteto",
+    "name": "Okteto"
+  },
+  "source": {
+    "id": "yc-okteto-rss-a64bce3f80ea",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.okteto.com/blog/ingress-nginx-controller-deprecation-your-migration-guide-to-kubernetes-gateway-api/",
+    "canonical": "https://www.okteto.com/blog/ingress-nginx-controller-deprecation-your-migration-guide-to-kubernetes-gateway-api/"
+  },
+  "title": "Ingress NGINX Controller Deprecation: Your Migration Guide to Kubernetes Gateway API",
+  "summary": "Ingress NGINX Controller retires March 2026. Learn why Kubernetes is moving to Gateway API and get a practical migration framework for platform teams.",
+  "published_at": "2026-01-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.770894+00:00",
+  "fetched_at": "2026-07-28T22:23:03.686122+00:00",
+  "last_updated_at": "2026-08-20T03:37:26.236419+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-okteto/2026/01/be/be0bda22e223fb3199af1f1a96b673a0e37e50837ccd872316b1386c1432edb4/article.md",
+    "record": "articles/v1/01/yc-okteto/2026/01/be/be0bda22e223fb3199af1f1a96b673a0e37e50837ccd872316b1386c1432edb4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9700,
+    "sha256": "sha256:e3b1e8b6d5b352e00cf52b1ea8966393bc23e39bba69221d743ab81104faedc1",
+    "normalized_content_hash": "sha256:788582e5c323a7cfdd4bc509cc874dc3fac80d388a027411f00e2ae0aca38a17"
+  },
+  "provenance": {
+    "source_item_id": "5e998b38-8e75-4357-8efb-2c7497a4c54a",
+    "external_id": "https://www.okteto.com/blog/ingress-nginx-controller-deprecation-your-migration-guide-to-kubernetes-gateway-api/"
+  }
+}

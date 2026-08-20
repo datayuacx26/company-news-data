@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2aa81bd0a3900dd5c5f34804dc39c5086a5f011e3882710c66f565e7aed30209",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-an-http-to-smb-relay-plus-payload-improvements",
+    "canonical": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-an-http-to-smb-relay-plus-payload-improvements"
+  },
+  "title": "Metasploit Wrap Up: An HTTP to SMB relay plus Payload Improvements",
+  "summary": "The Metasploit Weekly Wrap-up is transitioning to a bi-weekly publishing schedule to allow time for recording project demos. This update introduces the new Linux Fetch Multi payload family, which automatically detects target architecture to simplify payload selection. Additionally, the release includes new modules like the Microsoft Windows HTTP to SMB Relay and expanded support for RiscV architectures.",
+  "published_at": "2026-07-17T19:30:44+00:00",
+  "first_seen_at": "2026-07-20T23:19:41.599179+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-04T10:21:29.703119+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/2a/2aa81bd0a3900dd5c5f34804dc39c5086a5f011e3882710c66f565e7aed30209/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/2a/2aa81bd0a3900dd5c5f34804dc39c5086a5f011e3882710c66f565e7aed30209/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13622,
+    "sha256": "sha256:faca95bd28df4b6b7211c72b0430c43079b33c8cd6b25110919a56f4f986269c",
+    "normalized_content_hash": "sha256:264f1fc3e5d9a8fe21e76b3c70c484a27f7dca29162aaf7943f58d3cc638deeb"
+  },
+  "provenance": {
+    "source_item_id": "d83bfc8e-6448-4e54-9091-6ed2eda76aad",
+    "external_id": "blta84e1b0bad147cb6"
+  }
+}

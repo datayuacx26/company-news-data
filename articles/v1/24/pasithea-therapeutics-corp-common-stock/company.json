@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pasithea-therapeutics-corp-common-stock",
+    "name": "Pasithea Therapeutics Corp."
+  },
+  "record_count": 10,
+  "first_published_at": "2026-02-17T07:01:00+00:00",
+  "last_published_at": "2026-07-21T07:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/24/pasithea-therapeutics-corp-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11388,
+        "sha256": "sha256:a15a9cd92f9eae47ae42bff5cf73f94175f716c19354c99524607e36dcb4fa56",
+        "newest_at": "2026-07-21T07:00:00+00:00",
+        "oldest_at": "2026-02-17T07:01:00+00:00"
+      }
+    ]
+  }
+}

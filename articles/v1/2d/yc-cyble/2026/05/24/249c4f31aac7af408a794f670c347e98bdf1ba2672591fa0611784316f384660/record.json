@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "249c4f31aac7af408a794f670c347e98bdf1ba2672591fa0611784316f384660",
+  "company": {
+    "key": "yc-cyble",
+    "name": "Cyble"
+  },
+  "source": {
+    "id": "yc-cyble-rss-726d4f5fb2f2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyble.com/blog/overlayphantom-android-banking-trojan/",
+    "canonical": "https://cyble.com/blog/overlayphantom-android-banking-trojan/"
+  },
+  "title": "OverlayPhantom: The Android Banking Trojan Hiding in Plain Sight",
+  "summary": "Cyble analyzes OverlayPhantom, an Android banking trojan targeting 180+ apps across 10 countries, stealing credentials via fake overlays and real-time screen streaming.",
+  "published_at": "2026-05-27T04:11:18+00:00",
+  "first_seen_at": "2026-07-20T23:20:21.475332+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-03T14:07:15.784615+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-cyble/2026/05/24/249c4f31aac7af408a794f670c347e98bdf1ba2672591fa0611784316f384660/article.md",
+    "record": "articles/v1/2d/yc-cyble/2026/05/24/249c4f31aac7af408a794f670c347e98bdf1ba2672591fa0611784316f384660/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20547,
+    "sha256": "sha256:91ecd5f91e70a26cfe2054a15624e4c0519094fc90d073b5800a88912e42d49a",
+    "normalized_content_hash": "sha256:afa14a01311e2a0894a7b80f33696d16973751255a39a8b74ff03fdd165eb91e"
+  },
+  "provenance": {
+    "source_item_id": "4cc625a8-ca5e-4c78-9baa-a77c6309ecc3",
+    "external_id": "https://cyble.com/?p=119068"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b9855a5eeface02e4ec95e4f355853ca09657f8934e0cb1f7a2ddfe432028ed",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/newsletter-june-2026",
+    "canonical": "https://www.lancedb.com/blog/newsletter-june-2026"
+  },
+  "title": "📊 Lance vs Delta vs Iceberg, 🔗 Lance Blob V2 Late Materialization, 🤖 Stable-Worldmodel Research Platform",
+  "summary": "Benchmark Lance vs Delta vs Iceberg on S3 metadata performance, update blob rows without reading bytes, and train world models directly from object storage, plus upcoming events and enterprise and community updates.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/6b/6b9855a5eeface02e4ec95e4f355853ca09657f8934e0cb1f7a2ddfe432028ed/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/6b/6b9855a5eeface02e4ec95e4f355853ca09657f8934e0cb1f7a2ddfe432028ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22783,
+    "sha256": "sha256:ecbcd7969385ce9b053ed96a008059a2c17c5e055fee50f861698961ea796ae2",
+    "normalized_content_hash": "sha256:9426d5f718d2f8c3d7db188018cfda6cd1e2f0627cf61ac754175ec24c05c498"
+  },
+  "provenance": {
+    "source_item_id": "4e2cfb4d-6548-45ec-b5f2-784eda3839b2",
+    "external_id": "https://www.lancedb.com/blog/newsletter-june-2026"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+  "page": 1,
+  "record_count": 5,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "1d297581b25aea1927a27e425ca9394d8e043db53544e4ca684c21f00151bb69",
+      "company_key": "yc-moss",
+      "company_name": "Moss",
+      "source_id": "yc-moss-rss-e49397d0a304",
+      "source_kind": "rss",
+      "canonical_url": "https://www.moss.dev/blog/the-production-ai-stack",
+      "title": "The Production AI Stack: A Reference Architecture for Real-Time AI Systems",
+      "summary": "The seven layers of every real-time AI system - models, inference, search, memory, sessions, orchestration, and deployment - and where latency comes from at each one. A reference architecture for building voice agents, copilots, and conversational AI that feel instant.",
+      "published_at": "2026-07-18T09:00:00+00:00",
+      "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+      "article_path": "articles/v1/01/yc-moss/2026/07/1d/1d297581b25aea1927a27e425ca9394d8e043db53544e4ca684c21f00151bb69/article.md",
+      "record_path": "articles/v1/01/yc-moss/2026/07/1d/1d297581b25aea1927a27e425ca9394d8e043db53544e4ca684c21f00151bb69/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "51bb426fb1627bb6f3de9e67250ad51e26f9c62d60007d7a2317b917a5528486",
+      "company_key": "yc-moss",
+      "company_name": "Moss",
+      "source_id": "yc-moss-rss-e49397d0a304",
+      "source_kind": "rss",
+      "canonical_url": "https://www.moss.dev/blog/founding-agent",
+      "title": "We Built a Voice AI Agent for Our Website. Then Other Companies Started Asking for It.",
+      "summary": "We built a voice AI agent for moss.dev so visitors could get answers without waiting for a sales call. It quickly became one of our most effective ways to engage leads, and other companies started asking for it. Meet Founding Agent.",
+      "published_at": "2026-06-12T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+      "article_path": "articles/v1/01/yc-moss/2026/06/51/51bb426fb1627bb6f3de9e67250ad51e26f9c62d60007d7a2317b917a5528486/article.md",
+      "record_path": "articles/v1/01/yc-moss/2026/06/51/51bb426fb1627bb6f3de9e67250ad51e26f9c62d60007d7a2317b917a5528486/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "25cf73595c9919b462b45f49a095b9665253ba3e97fbd04c7a4ddfa98c805c99",
+      "company_key": "yc-moss",
+      "company_name": "Moss",
+      "source_id": "yc-moss-rss-e49397d0a304",
+      "source_kind": "rss",
+      "canonical_url": "https://www.moss.dev/blog/remove-the-network-hop",
+      "title": "What Happens When You Remove the Network Hop from RAG",
+      "summary": "We profiled a production RAG pipeline before and after eliminating the retrieval network round-trip. The results explain why your AI agent feels slower than it should.",
+      "published_at": "2026-03-17T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+      "article_path": "articles/v1/01/yc-moss/2026/03/25/25cf73595c9919b462b45f49a095b9665253ba3e97fbd04c7a4ddfa98c805c99/article.md",
+      "record_path": "articles/v1/01/yc-moss/2026/03/25/25cf73595c9919b462b45f49a095b9665253ba3e97fbd04c7a4ddfa98c805c99/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "97e5e2e27ca91ea579142f9684ecbe5a211ed7028269198dec2743361f1b17e7",
+      "company_key": "yc-moss",
+      "company_name": "Moss",
+      "source_id": "yc-moss-rss-e49397d0a304",
+      "source_kind": "rss",
+      "canonical_url": "https://www.moss.dev/blog/retrieval-latency-tax",
+      "title": "The Retrieval Latency Tax: Why Your AI Agent Feels Slow (And It's Not the LLM)",
+      "summary": "Everyone blames the model. But in real-time AI, the real bottleneck is retrieval. Here's the data that proves it, and what it means for the next generation of AI applications.",
+      "published_at": "2026-03-17T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+      "article_path": "articles/v1/01/yc-moss/2026/03/97/97e5e2e27ca91ea579142f9684ecbe5a211ed7028269198dec2743361f1b17e7/article.md",
+      "record_path": "articles/v1/01/yc-moss/2026/03/97/97e5e2e27ca91ea579142f9684ecbe5a211ed7028269198dec2743361f1b17e7/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "6036603b2b1a80c4b00f41ff4f2a53026d5ba15e248d1a7a968c312ef878c003",
+      "company_key": "yc-moss",
+      "company_name": "Moss",
+      "source_id": "yc-moss-rss-e49397d0a304",
+      "source_kind": "rss",
+      "canonical_url": "https://www.moss.dev/blog/we-spent-a-decade-making-ai-feel-instant",
+      "title": "We Spent a Decade Making AI Feel Instant. Here's What We Learned.",
+      "summary": "The founders of Moss share why they left Microsoft and Grammarly to build the real-time retrieval runtime, and why the future of conversational AI depends on killing latency at the source.",
+      "published_at": "2026-03-10T00:00:00+00:00",
+      "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+      "article_path": "articles/v1/01/yc-moss/2026/03/60/6036603b2b1a80c4b00f41ff4f2a53026d5ba15e248d1a7a968c312ef878c003/article.md",
+      "record_path": "articles/v1/01/yc-moss/2026/03/60/6036603b2b1a80c4b00f41ff4f2a53026d5ba15e248d1a7a968c312ef878c003/record.json"
+    }
+  ]
+}

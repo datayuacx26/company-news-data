@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "742d8a74ad24b9d4261f31fc454e9cca5592168995a22dcf2fad190227d26850",
+  "company": {
+    "key": "yc-stably-ai",
+    "name": "Stably AI"
+  },
+  "source": {
+    "id": "yc-stably-ai-news-import-4d9fcc9f146f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stably.ai/blog/how-we-use-a-slack-cli-to-10x-our-internal-ops",
+    "canonical": "https://www.stably.ai/blog/how-we-use-a-slack-cli-to-10x-our-internal-ops"
+  },
+  "title": "How We Use a Slack CLI to 10x Our Internal Ops",
+  "summary": "We've been building agent skills that automate our Slack-based workflows. We use a mixture of agents for our internal ops, and the key enabler is agent-slack, a CLI we open-sourced that lets them read, write, and search Slack natively.",
+  "published_at": "2026-03-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:44:25.851186+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T03:08:54.793852+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-stably-ai/2026/03/74/742d8a74ad24b9d4261f31fc454e9cca5592168995a22dcf2fad190227d26850/article.md",
+    "record": "articles/v1/33/yc-stably-ai/2026/03/74/742d8a74ad24b9d4261f31fc454e9cca5592168995a22dcf2fad190227d26850/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4467,
+    "sha256": "sha256:967a65cf843b1fe60e2a624f4ca9726920bed9ee50416f49f10ce6ca516faa34",
+    "normalized_content_hash": "sha256:1bd67a264046ed19f6e27aaf8e3b791078b5b72b1aaeadad6d7a77084db8f63f"
+  },
+  "provenance": {
+    "source_item_id": "41070953-862e-472a-abe3-7a01442ef65b",
+    "external_id": "https://www.stably.ai/blog/how-we-use-a-slack-cli-to-10x-our-internal-ops"
+  }
+}

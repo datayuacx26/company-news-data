@@ -1,0 +1,31 @@
+---
+schema_version: "1.0.0"
+document_id: "d58eb3fff689765938ae2ab7dc40debd19117f78f59e87adabae3241f2d4bb01"
+company_key: "yc-naturall-club"
+company: "NaturAll Club"
+source_id: "yc-naturall-club-atom-359e211b1abf"
+canonical_url: "https://naturallclub.com/blogs/the-naturall-club-blog/taras-natural-hair-journey"
+published_at: "2019-08-22T14:04:00+00:00"
+first_seen_at: "2026-07-30T03:29:34.505439+00:00"
+fetched_at: "2026-07-30T03:29:36.148615+00:00"
+content_hash: "sha256:a9d937c489d8799a5e2c3619b134039a3a7190574f9edd25eef6314294a66c15"
+---
+
+# Member Spotlight: Tara's Natural Hair Journey
+
+I started my natural hair journey almost two years ago and it was the best decision I ever made for my hair!
+
+
+I grew up with natural hair that was super thick and long. My mom could barely comb my hair and by the time I was eight years old, she began to straighten it with hot combs (the type that sat on the stove top to be heated). I had to hold my ears as the hot comb passed through my hair and was scared I would get burned everytime. Although, I loved the silky look and seeing my hair hang past my shoulders, I hated getting it straightened with a hot comb.
+
+
+When I hit my teenage years, I was finally at an age where I could decide what to do with my hair. However, I couldn't manage my hair because it was too thick, so relaxers became my only choice. These relaxers thinned out my hair and took its length over a period of time. In my 20's, I got my hair cut every summer and grew it back when winter approached. Being a single mom, hair salons were not on my to-do list, hence my short hair was more manageable.
+
+
+Now in my 30's, I decided to go natural because my husband doesn't like weave and I had damaged my hair over the years. When I decided to let my hair grow, flat irons were my best friend but my hair's enemy. Over time, I damaged my hair with too much heat and was so over it. I tried to go natural the first time and went six months without relaxers. But with working, kids, and a husband, I felt overwhelmed with my hair and went back to them.
+
+
+My second attempt with going natural was successful because I never returned to relaxers. I didn't want to do the big chop, so I just let my hair grow out and trimmed my ends until there was no more relaxer left. When I was completely natural, I struggled with dryness so bad, I was thinking of going back to relaxers. That thought didn't last long though, as I began my search for products that would help. Unfortunately, nothing was working well enough. I found products that would moisturize but not for long. Once I stepped out into the world, humidity would cause it to dry and frizz up.
+
+
+I saw a post from a friend saying how NaturAll Club had the best products, especially for dry hair. So I became curious, but skeptical at the same time because I had tried so many products (my bathroom looked like a hair store). I ordered the[Full Avocado Collection](https://naturallclub.com/collections/hydrating-avokiwi-collection) in spite of my doubts and I am so thankful that I did. I have used it for three weeks now and I see tremendous change in my hair. Not only does it stay moisturized. it has also grown a few inches. In conclusion, NaturAll Club has the best products I have ever used and I would recommend it to anyone.

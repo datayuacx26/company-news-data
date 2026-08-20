@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "snowflake-inc-common-stock",
+    "name": "Snowflake Inc."
+  },
+  "record_count": 38,
+  "first_published_at": "2026-06-30T13:49:32+00:00",
+  "last_published_at": "2026-08-19T21:31:41+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 26
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/19/snowflake-inc-common-stock/index/pages/000001.json",
+        "record_count": 38,
+        "byte_count": 42654,
+        "sha256": "sha256:9acc73b51380ec1f90707656c6652459e7970a673f219e679236d74552cc2083",
+        "newest_at": "2026-08-19T21:31:41+00:00",
+        "oldest_at": "2026-06-30T13:49:32+00:00"
+      }
+    ]
+  }
+}

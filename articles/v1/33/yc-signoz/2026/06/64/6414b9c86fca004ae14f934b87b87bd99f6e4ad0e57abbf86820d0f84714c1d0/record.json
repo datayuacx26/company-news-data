@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6414b9c86fca004ae14f934b87b87bd99f6e4ad0e57abbf86820d0f84714c1d0",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/metrics-management/querying-metrics",
+    "canonical": "https://signoz.io/docs/metrics-management/querying-metrics"
+  },
+  "title": "Querying Metrics",
+  "summary": "Query metrics in SigNoz using the Query Builder in Metrics Explorer and Dashboards, with ClickHouse SQL and PromQL available in Dashboards.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/64/6414b9c86fca004ae14f934b87b87bd99f6e4ad0e57abbf86820d0f84714c1d0/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/64/6414b9c86fca004ae14f934b87b87bd99f6e4ad0e57abbf86820d0f84714c1d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 659,
+    "sha256": "sha256:9ae7ee5f1fdddf75eff3ca6641ca2785548685c40e012b8b073d3d21feb4d78e",
+    "normalized_content_hash": "sha256:fa3ba08bfe252cca687c7353490254442e40cf6e767be1e668b830d939cf9d84"
+  },
+  "provenance": {
+    "source_item_id": "2607422d-60e4-4ea6-9e3d-fedd3c313721",
+    "external_id": "https://signoz.io/docs/metrics-management/querying-metrics"
+  }
+}

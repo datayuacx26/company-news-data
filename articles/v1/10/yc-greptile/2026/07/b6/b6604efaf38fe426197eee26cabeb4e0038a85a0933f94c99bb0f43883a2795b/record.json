@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6604efaf38fe426197eee26cabeb4e0038a85a0933f94c99bb0f43883a2795b",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-f703c271ba19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/model-inversion",
+    "canonical": "https://www.greptile.com/blog/model-inversion"
+  },
+  "title": "Models are worse at reviewing their own code",
+  "summary": "We noticed GPT reviewed Claude's code better than its own, and vice versa. So we ran a thousand buggy PRs through both models to find out why.",
+  "published_at": "2026-07-21T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.426026+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-08-20T02:09:10.875361+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2026/07/b6/b6604efaf38fe426197eee26cabeb4e0038a85a0933f94c99bb0f43883a2795b/article.md",
+    "record": "articles/v1/10/yc-greptile/2026/07/b6/b6604efaf38fe426197eee26cabeb4e0038a85a0933f94c99bb0f43883a2795b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15388,
+    "sha256": "sha256:fb019b05814bd69bdeeca8b2a7a7e6e5b7b46cbfe97d24a8c1350b6dee0b1f9d",
+    "normalized_content_hash": "sha256:79c7cb98e593fc6a8339fa4e0093cf56655cde75ae2eafd89f525e263e631bae"
+  },
+  "provenance": {
+    "source_item_id": "ca777401-325d-46b3-9259-b51dffc20cc1",
+    "external_id": "https://www.greptile.com/blog/model-inversion"
+  }
+}

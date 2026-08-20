@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db8ff6a4df134feddea93797dfa5ee28d7c641635e6421188edb441a3478039b",
+  "company": {
+    "key": "goldmining-inc-common-shares",
+    "name": "GoldMining Inc. Common Shares"
+  },
+  "source": {
+    "id": "goldmining-inc-common-shares-news-import-0ef02d537466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goldmining.com/news/index.php?content_id=723",
+    "canonical": "https://goldmining.com/news/index.php?content_id=723"
+  },
+  "title": "GoldMining Files PEA Technical Report for its São Jorge Project, Brazil",
+  "summary": "GoldMining Inc. is a public mineral exploration company advancing gold-copper projects in the Americas through exploration, strategic investments, and partnerships.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T10:50:34.530701+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-20T02:47:12.452030+00:00",
+  "paths": {
+    "article": "articles/v1/3d/goldmining-inc-common-shares/2026/07/db/db8ff6a4df134feddea93797dfa5ee28d7c641635e6421188edb441a3478039b/article.md",
+    "record": "articles/v1/3d/goldmining-inc-common-shares/2026/07/db/db8ff6a4df134feddea93797dfa5ee28d7c641635e6421188edb441a3478039b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8445,
+    "sha256": "sha256:ca07ca4f41dcd9c71f500aa81032e73fa2561144f81a5a301dcbec8999912ebc",
+    "normalized_content_hash": "sha256:50f73ab4b686fc8e671c2ab97aa3afdde09b2565ce925aef601d415846da97eb"
+  },
+  "provenance": {
+    "source_item_id": "3db5f03b-e743-40a0-a203-ca814ea108d0",
+    "external_id": "https://goldmining.com/news/index.php?content_id=723"
+  }
+}

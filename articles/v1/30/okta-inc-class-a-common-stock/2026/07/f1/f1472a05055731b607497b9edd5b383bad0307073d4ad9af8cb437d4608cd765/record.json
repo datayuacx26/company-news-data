@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1472a05055731b607497b9edd5b383bad0307073d4ad9af8cb437d4608cd765",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-f76a50baf54b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/",
+    "canonical": "https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/"
+  },
+  "title": "Phishing the agent: Why AI guardrails aren’t enough",
+  "summary": "AI agents are being handed the \"keys to the kingdom,\" but research shows they can't be trusted to hold them. Learn how agent guardrails can fail.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T07:05:39.149088+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-29T04:33:33.392541+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/f1/f1472a05055731b607497b9edd5b383bad0307073d4ad9af8cb437d4608cd765/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/f1/f1472a05055731b607497b9edd5b383bad0307073d4ad9af8cb437d4608cd765/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15261,
+    "sha256": "sha256:02edd4732cc3cc5d6f7a35629afbc914edfec48aba7c6dc1e7f44eae3acdcd21",
+    "normalized_content_hash": "sha256:d842fa41cea9e1179402038a876c32ea9290a95750357f1e92f07f633a4df993"
+  },
+  "provenance": {
+    "source_item_id": "8f2ba28f-d825-4a3c-b026-d1be5efacaf8",
+    "external_id": "https://www.okta.com/newsroom/articles/why-ai-guardrails-are-not-enough/"
+  }
+}

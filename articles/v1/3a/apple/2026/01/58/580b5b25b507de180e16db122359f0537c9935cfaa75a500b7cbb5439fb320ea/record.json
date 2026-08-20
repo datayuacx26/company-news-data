@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "580b5b25b507de180e16db122359f0537c9935cfaa75a500b7cbb5439fb320ea",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
+    "canonical": "https://machinelearning.apple.com/research/single-neuron-safety-alignment"
+  },
+  "title": "A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models",
+  "summary": "Safety alignment in language models operates through two mechanistically distinct systems: refusal neurons that gate whether harmful…",
+  "published_at": "2026-01-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:41:59.710789+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/01/58/580b5b25b507de180e16db122359f0537c9935cfaa75a500b7cbb5439fb320ea/article.md",
+    "record": "articles/v1/3a/apple/2026/01/58/580b5b25b507de180e16db122359f0537c9935cfaa75a500b7cbb5439fb320ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2654,
+    "sha256": "sha256:b398ac59e0b5c8c90ba13cd9d9ee8add2da09ac4e65b07a16f817d4a9fca5148",
+    "normalized_content_hash": "sha256:f6e63d93480566a4c46b867cadbb329abe4ab3edf24413d48d74dceb3ae5989a"
+  },
+  "provenance": {
+    "source_item_id": "06de283e-4b90-4356-8676-40465368a047",
+    "external_id": "https://machinelearning.apple.com/research/single-neuron-safety-alignment"
+  }
+}

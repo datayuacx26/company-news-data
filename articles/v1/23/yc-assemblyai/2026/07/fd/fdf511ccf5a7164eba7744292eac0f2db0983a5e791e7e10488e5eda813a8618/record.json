@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fdf511ccf5a7164eba7744292eac0f2db0983a5e791e7e10488e5eda813a8618",
+  "company": {
+    "key": "yc-assemblyai",
+    "name": "AssemblyAI"
+  },
+  "source": {
+    "id": "yc-assemblyai-news-import-c38147bde659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.assemblyai.com/research/universal-2?ref=assemblyai.com",
+    "canonical": "https://www.assemblyai.com/research/universal-2"
+  },
+  "title": "Universal-2-TF",
+  "summary": "Universal-2-TF introduces a two-stage neural text formatting model for ASR that combines token classification and sequence-to-sequence approaches to efficiently handle punctuation, capitalization, and text normalization while achieving superior accuracy across diverse domains.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T08:04:01.744114+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:12:32.479055+00:00",
+  "paths": {
+    "article": "articles/v1/23/yc-assemblyai/2026/07/fd/fdf511ccf5a7164eba7744292eac0f2db0983a5e791e7e10488e5eda813a8618/article.md",
+    "record": "articles/v1/23/yc-assemblyai/2026/07/fd/fdf511ccf5a7164eba7744292eac0f2db0983a5e791e7e10488e5eda813a8618/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 40669,
+    "sha256": "sha256:4d73e0173097b36dc00aefaa2a9a144239e039f7dfa5e15ba4eec0f1ef61895b",
+    "normalized_content_hash": "sha256:3a4baab676bfe83015adb0b8bbd6463e848c63686a1a451bac592cd3ffb92ee7"
+  },
+  "provenance": {
+    "source_item_id": "ce7c3af0-81a5-4c3d-b6c3-98675337d2a0",
+    "external_id": "https://www.assemblyai.com/research/universal-2?ref=assemblyai.com"
+  }
+}

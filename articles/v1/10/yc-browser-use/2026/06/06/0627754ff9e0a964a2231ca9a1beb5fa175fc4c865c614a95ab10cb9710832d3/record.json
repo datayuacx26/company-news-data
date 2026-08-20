@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0627754ff9e0a964a2231ca9a1beb5fa175fc4c865c614a95ab10cb9710832d3",
+  "company": {
+    "key": "yc-browser-use",
+    "name": "Browser Use"
+  },
+  "source": {
+    "id": "yc-browser-use-news-import-3219c37ba697",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://browser-use.com/posts/firecracker-browser-infra",
+    "canonical": "https://browser-use.com/posts/firecracker-browser-infra"
+  },
+  "title": "How We Made Cloud Browsers 3x Cheaper and Faster",
+  "summary": "We cut browser sessions from $0.06 to $0.02 per hour while making browsers start and scale faster.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:46:29.258885+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-08-20T03:18:57.397492+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-browser-use/2026/06/06/0627754ff9e0a964a2231ca9a1beb5fa175fc4c865c614a95ab10cb9710832d3/article.md",
+    "record": "articles/v1/10/yc-browser-use/2026/06/06/0627754ff9e0a964a2231ca9a1beb5fa175fc4c865c614a95ab10cb9710832d3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16927,
+    "sha256": "sha256:6e5c5142d817b6e9dbea8a708bbfa27ef08e54ec9333d8ab0cd7c9f5c57ad95e",
+    "normalized_content_hash": "sha256:1f2556edb63b095fadcf7126db399e7cc352d9d1fc786ae6bfa09fb60b8de599"
+  },
+  "provenance": {
+    "source_item_id": "3d6314b0-f737-4c27-a747-ca2bdaa5de3c",
+    "external_id": "https://browser-use.com/posts/firecracker-browser-infra"
+  }
+}

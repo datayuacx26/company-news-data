@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59c92e1f523ecdef0ed3c14573e7156844a19ccad3cc708936638788e0bf63ba",
+  "company": {
+    "key": "yc-frigade",
+    "name": "Frigade"
+  },
+  "source": {
+    "id": "yc-frigade-news-import-5962136a45f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frigade.com/updates/hubspot-property-sync",
+    "canonical": "https://frigade.com/updates/hubspot-property-sync"
+  },
+  "title": "Sync HubSpot Contact and Company Properties",
+  "summary": "The Frigade Engage HubSpot integration now syncs contact and company properties into Frigade. Previously the integration only pushed updates from Frigade to HubSpot. Properties now flow both direction",
+  "published_at": "2026-02-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:57:52.614663+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T03:25:56.227650+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-frigade/2026/02/59/59c92e1f523ecdef0ed3c14573e7156844a19ccad3cc708936638788e0bf63ba/article.md",
+    "record": "articles/v1/27/yc-frigade/2026/02/59/59c92e1f523ecdef0ed3c14573e7156844a19ccad3cc708936638788e0bf63ba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1099,
+    "sha256": "sha256:02fa40d3cf5c3af062cfdcad501f5f1c67101be0bddf7657bf5ad3ffcd7be1f5",
+    "normalized_content_hash": "sha256:acb3e09ead1d4dcd563597ae7af109d35006922356823afb80d63afa42ec82d5"
+  },
+  "provenance": {
+    "source_item_id": "6aa77318-97c0-41ac-8fd4-2fb70b67a7f1",
+    "external_id": "https://frigade.com/updates/hubspot-property-sync"
+  }
+}

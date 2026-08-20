@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "17f6639847cf87320d3b8ce4f33cb3bb42f9708e4a2fb00c05ebf135072a4ebe",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-apm",
+    "canonical": "https://signoz.io/blog/opentelemetry-apm"
+  },
+  "title": "OpenTelemetry APM: An Open Source Approach",
+  "summary": "OpenTelemetry APM: how to use OpenTelemetry as your application performance monitoring stack, what it covers, and how it compares to traditional APM.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.498638+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/17/17f6639847cf87320d3b8ce4f33cb3bb42f9708e4a2fb00c05ebf135072a4ebe/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/17/17f6639847cf87320d3b8ce4f33cb3bb42f9708e4a2fb00c05ebf135072a4ebe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16444,
+    "sha256": "sha256:ff52115f23ae3dbf420a0f0d50a2163887fe9fa4e5802b5ddfaede3cd46d9d11",
+    "normalized_content_hash": "sha256:3049b50b8dc43efe7b640e238766339dc2deea280db09ad0ab356bfdc10b0bed"
+  },
+  "provenance": {
+    "source_item_id": "c0721314-c9ac-47a2-9d09-4f1e5449ae4a",
+    "external_id": "https://signoz.io/blog/opentelemetry-apm"
+  }
+}

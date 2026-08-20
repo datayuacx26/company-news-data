@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bc58c4a17397b92f2633b26bbecb26dea1fc637ee197175db475b420feb532c1",
+  "company": {
+    "key": "yc-adaptyv",
+    "name": "Adaptyv"
+  },
+  "source": {
+    "id": "yc-adaptyv-news-import-3c8571c35bcb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.adaptyvbio.com/blog/pro1",
+    "canonical": "https://www.adaptyvbio.com/blog/pro1"
+  },
+  "title": "Designer Spotlight: Can a language model reason about protein design?",
+  "summary": "In this designer spotlight, we take a look at Michael Hla’s recent Pro-1. It is a protein reasoning and optimization model capable to explain why it proposes a mutation. He tested FGF-1 designs in our lab at Adaptyv and managed to show significant melting temperature improvements, while still maintaining binding to their targets. One design even reached a melting temperature comparable to the most optimized FGF-1 variants in the literature!",
+  "published_at": "2025-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T14:21:15.816567+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T22:36:21.604809+00:00",
+  "paths": {
+    "article": "articles/v1/1b/yc-adaptyv/2025/06/bc/bc58c4a17397b92f2633b26bbecb26dea1fc637ee197175db475b420feb532c1/article.md",
+    "record": "articles/v1/1b/yc-adaptyv/2025/06/bc/bc58c4a17397b92f2633b26bbecb26dea1fc637ee197175db475b420feb532c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8872,
+    "sha256": "sha256:0c4f32ebf85fb9dca4a376dec26ae2f8c935d92f2b1c11241a5cde5aa39d529d",
+    "normalized_content_hash": "sha256:c7dafe590195010689ae058725893a75eab631079975d0c8061765d62abc6e8e"
+  },
+  "provenance": {
+    "source_item_id": "73ad821b-122b-4a6c-ab1b-53d2fdffbafc",
+    "external_id": "https://www.adaptyvbio.com/blog/pro1"
+  }
+}

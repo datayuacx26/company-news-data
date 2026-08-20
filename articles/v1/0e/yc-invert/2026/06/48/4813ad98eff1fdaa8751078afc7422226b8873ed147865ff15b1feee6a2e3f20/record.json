@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4813ad98eff1fdaa8751078afc7422226b8873ed147865ff15b1feee6a2e3f20",
+  "company": {
+    "key": "yc-invert",
+    "name": "Invert"
+  },
+  "source": {
+    "id": "yc-invert-news-import-968576ef11e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://invertbio.com/blog/reproducing-model-based-cho-intensification-richelle-2022-with-invert-assist",
+    "canonical": "https://invertbio.com/blog/reproducing-model-based-cho-intensification-richelle-2022-with-invert-assist"
+  },
+  "title": "Reproducing a Published CHO Perfusion Model in Invert Assist",
+  "summary": "We rebuilt Richelle et al.'s 2022 CHO cell-culture intensification model in Invert Assist, turning a published paper into an executable, interactive report. The central question: could parameters fit on small-scale fed-batch data reproduce the paper's perfusion design without re-estimating the model? They could — and the reproduction surfaced a units mismatch, showed the bleed controller absorbs most parameter uncertainty, and pinpointed direct lysed-cell measurement as the highest-value next experiment.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:25:27.297188+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-20T00:53:24.767592+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-invert/2026/06/48/4813ad98eff1fdaa8751078afc7422226b8873ed147865ff15b1feee6a2e3f20/article.md",
+    "record": "articles/v1/0e/yc-invert/2026/06/48/4813ad98eff1fdaa8751078afc7422226b8873ed147865ff15b1feee6a2e3f20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6981,
+    "sha256": "sha256:71f9d8352ab4b3d8b7e3011ab2738eb50e632cb95af49d480ce1013a53213feb",
+    "normalized_content_hash": "sha256:ac117904117d557488ff7e34b31111494b752e248ef2141e057071621dc50c8c"
+  },
+  "provenance": {
+    "source_item_id": "0deeb4ad-a4df-4aff-a357-790b7204ff2b",
+    "external_id": "https://invertbio.com/blog/reproducing-model-based-cho-intensification-richelle-2022-with-invert-assist"
+  }
+}

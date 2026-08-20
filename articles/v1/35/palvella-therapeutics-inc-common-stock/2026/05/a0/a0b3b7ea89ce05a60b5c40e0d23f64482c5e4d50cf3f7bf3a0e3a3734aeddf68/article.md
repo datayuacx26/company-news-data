@@ -1,0 +1,82 @@
+---
+schema_version: "1.0.0"
+document_id: "a0b3b7ea89ce05a60b5c40e0d23f64482c5e4d50cf3f7bf3a0e3a3734aeddf68"
+company_key: "palvella-therapeutics-inc-common-stock"
+company: "Palvella Therapeutics Inc."
+source_id: "palvella-therapeutics-inc-common-stock-news-import-c8dfd5e8f96e"
+canonical_url: "https://www.globenewswire.com/news-release/2026/05/15/3295760/0/en/palvella-therapeutics-announces-new-data-from-the-phase-2-toiva-trial-of-qtorin-rapamycin-in-cutaneous-venous-malformations-presented-at-the-83rd-annual-meeting-of-the-society-for-.html"
+published_at: "2026-05-15T11:30:00+00:00"
+first_seen_at: "2026-07-26T18:27:12.328779+00:00"
+fetched_at: "2026-07-28T22:13:07.113521+00:00"
+content_hash: "sha256:a01f4fd5ba3b4cde1fd7df377418c1779240a597089ef9d9ed33df2b9bacf81e"
+---
+
+# Palvella Therapeutics Announces New Data from the Phase 2 TOIVA Trial of QTORIN™ Rapamycin in Cutaneous Venous Malformations Presented at the 83rd Annual Meeting of the Society for Investigative Dermatology
+
+*100% of patients with bleeding at baseline demonstrated a statistically significant improvement on the Cutaneous Venous Malformations Investigator Global Assessment Bleeding scale (cVM-IGA Bleeding) at Week 12 (+2.5 point improvement; p=0.003)*
+
+
+*100% of patients with bleeding at baseline reported being "satisfied" or "very satisfied" with QTORIN™ rapamycin on the overall satisfaction item of the Treatment Satisfaction Questionnaire for Medication at Week 12*
+
+
+*Baseline qualitative patient interviews underscore the substantial physical, functional, and psychosocial burden of cutaneous venous malformations*
+
+
+*QTORIN™ rapamycin has the potential to become the first FDA-approved therapy and standard of care for the estimated more than 75,000 individuals with cutaneous venous malformations in the U.S.*
+
+
+WAYNE, Pa., May 15, 2026 (GLOBE NEWSWIRE) --[Palvella Therapeutics, Inc.](https://www.globenewswire.com/Tracker?data=eYK90I_DVxVQSHwVD1Gy4z_2-uKIXODrBb0nP94vmXWBZyrR9XW_cpQCmT-a3dyNeRGGZ3OKGw9OMxqCgLwiniyXmHBBtd1b3tMgK2jKkO0=) (Palvella or “the Company”) (Nasdaq: PVLA), a clinical-stage biopharmaceutical company focused on developing and commercializing novel therapies to treat patients suffering from serious, rare skin diseases and vascular malformations for which there are no U.S. Food and Drug Administration (FDA)-approved therapies, today announced new data from the Phase 2 TOIVA trial of QTORIN™ rapamycin in patients with cutaneous venous malformations (VMs) were presented at the 83rd Annual Meeting of the Society for Investigative Dermatology (SID) in Chicago, IL. The poster presentation can be found[here](https://www.globenewswire.com/Tracker?data=i5Acjl9dlABBWQ8WRnxk8CuK1PkgJrAZUDSxPU3PaTH-yGzmwUIWMNfI6ym6XXaHWpLoci1DRgrpzE-xQalaM-al311WvLODtndacdDdI2gQULbCpiwerjKMTVfjA3G02HFIq2vs30nVsahxAksBPm0RqFbZRBPB3lY_A5SdbSw=) .
+
+
+“Bleeding is a common and serious problem caused by cutaneous venous malformations. The TOIVA study showed that QTORIN™ rapamycin significantly reduced bleeding and improved the appearance and height of lesions in most patients,” said Dr. Michael Kelly, pediatric hematologist-oncologist at the Cleveland Clinic’s Vascular Anomalies Program and Executive Director of the Lymphangiomatosis & Gorham’s Disease Alliance (LGDA). “Cutaneous venous malformations affect many aspects of a patient’s life, resulting in pain, functional limitations, and mental health issues. TOIVA showed a strong correlation between improvements in clinical measures and patient-reported outcomes, suggesting that QTORIN™ rapamycin could potentially reduce the overall burden of this rare disease.”
+
+
+TOIVA is a Phase 2, single-arm, open-label, baseline-controlled clinical trial of QTORIN™ rapamycin administered topically once daily for a 12-week efficacy evaluation period followed by a 12-week treatment extension period, for cutaneous VMs. As previously[announced](https://www.globenewswire.com/Tracker?data=GxD9gWBrRistYcUFdNUzgnukYCmXUwHaQ6do_qVj0b9YlmB6uvzobLplGjbBqieeSG8aJ0GCxLbRKc1_qQtQooA8onectmOWZwLsqzdZf6P5LiNNJ-n4qFsHn0rwLUlW1lgiku7GX4toqebDxC3boAok4hQKpokigd1UjyZ-6SFCdDpHfVIzht2l-12zXhOYaSaX2rPDZj8EsCmv-avl7n_20GWyWnJyLQEly52xm9A=) in December 2025, TOIVA achieved statistical significance on multiple pre-specified clinician-reported and patient-reported efficacy endpoints. New data presented at the 83rd Annual Meeting of the Society for Investigative Dermatology demonstrated statistically significant reduction in lesion bleeding in TOIVA and highlighted the multidimensional quality-of-life (QoL) burden for individuals living with cutaneous venous malformations as captured by baseline qualitative patient interviews.
+
+
+**cVM-IGA: Bleeding improvement in patients with bleeding at baseline**
+
+
+- Patients with bleeding at baseline (n=4) demonstrated a statistically significant improvement in change in cVM-IGA Bleeding scores at Week 12 with a mean effect size of +2.5 (p=0.003). cVM-IGA Bleeding is a 7-point clinician-assessed dynamic scale measuring change in bleeding from baseline to Week 12, ranging from “Very Much Worse” (-3) to “Very Much Improved” (+3).
+- At week 12, 100% of patients (4/4) were either “Much Improved” (+2) or “Very Much Improved” (+3) on the cVM-IGA Bleeding at Week 12.
+- 100% of patients with bleeding at baseline reported being "satisfied" or "very satisfied" with QTORIN™ rapamycin on the overall satisfaction item of the Treatment Satisfaction Questionnaire for Medication at Week 12.
+
+
+**Baseline qualitative patient interviews highlight multidimensional quality-of-life (QoL) burden of cutaneous VMs**
+
+
+- A pre-specified patient qualitative interview sub-study was incorporated to systematically capture the patient experience, including the symptoms, functional impacts, and treatment-related changes most meaningful to patients, consistent with FDA’s Patient-Focused Drug Development framework.
+- QoL burden extends beyond clinical lesion severity, including bluish discoloration, pain/discomfort, swelling, protrusions, and bleeding or leakage.
+- Patients reported limitations in physical activity, social participation, and work/school functioning, as well as emotional distress related to lesion visibility.
+- Treatment priorities included improving appearance, reducing pain, and decreasing lesion size, highlighting patient-important domains not fully captured by traditional clinical severity assessments.
+- Findings underscore the patient-experienced burden of moderate-to-severe cutaneous VMs and reinforce the value of patient-reported outcomes in clinical development.
+
+
+**About Palvella Therapeutics**
+
+
+Founded and led by rare disease biotech veterans, Palvella Therapeutics, Inc. (Nasdaq: PVLA) is a clinical-stage biopharmaceutical company focused on developing and commercializing novel therapies to treat patients suffering from serious, rare skin diseases and vascular malformations for which there are no FDA-approved therapies. Palvella is developing a broad pipeline of product candidates based on its patented QTORIN™ platform, with an initial focus on serious, rare skin diseases and vascular malformations, many of which are lifelong in nature. Palvella’s lead product candidate, QTORIN™ 3.9% rapamycin anhydrous gel (QTORIN™ rapamycin), is currently being developed for the treatment of microcystic lymphatic malformations, cutaneous venous malformations, and clinically significant angiokeratomas. Palvella’s second product candidate, QTORIN™ pitavastatin, is currently being developed for the treatment of disseminated superficial actinic porokeratosis. For more information, please visit[www.palvellatx.com](https://www.globenewswire.com/Tracker?data=t3Nmt7eXAYsHU9swIinreFiOStxow8O0g2z8CUcXJQX5GR9M5zOVJA2f-JhnjNW2etNS7nHeJsJhOZ4_rA9rtvKe8v4C6CJXf1s_zFWIB1grSEnRKfWBTQttGtkmRKJp8rglOdaMds5tekO3upR9nf2QQfmeBotPq7S1J69WuZQ8uy2kvmx08lqEU1JA3t-sHkRvtut8DsxhAt1mE-788DstQvYs9RTHnwbpwLeDmryRKQwADi-vyW7dW1HjND-MELvRuk0E5R1EfT4A_RzIGqDTFvmTDkQXdEJOR1WmqsO4areDuMcOKvcQKHkdmmGhFi6w8JVjFnGTdvr3FTwh9CnwuJKnKkfT5HHUa_2WNTxKLEVKWQt8Pwb_mpt6dkDSjOupgpIJ0tr_r5ajwm8UsBf9l_wVkYX8y5dASbuossO3PUP0UmNZcxs8AX1Ox_4PvMo8fcO8jdF5cBg-MvqAML5Ut9MFXGoVoBa6RRdxJaqMbdz9mL4lNfDtLriZqAFMVP9j5VLVSi9rinYUtCe4jjxterDaTwl7i2xC7NCFaV-ItyGRFhtFPoZ4srnSw5kv94H6tSjJZ7yzk5k-AjO4xtaYaYI6MjwERNNBpbF_9obJx8_0YABro5YLjrv593YAQdVL2gKmlCp85lxESzwLv-buRrv8shABCyNEwlyAkGNSuYyGwId2VPDPN_OB5xCc62gONNQ-Q1dY1BnoZjPbgl6XM2TBbkJJo7Cg00a45Vm-Ia177cGMG20w7trzzNCE-ejF_a5R_TU8NSq7vwTqnw==) or follow Palvella on[LinkedIn](https://www.globenewswire.com/Tracker?data=rC3Y-aJzoCEgfJIG5Ev0qXsJmlZ39lAvMkizcIA3Th6tWMAiLAv5Oea7g6EFNGge5eZ5WnbL-5GfF9FDFAc4crK15qsrbYvLhN2kHZ19VqqSCMmUU0NUgjq2nMZIBVxI4RaJHmOsOD0VA9VbbUVb9xAGB5picRA2FVQKO-mpVPf-xlx2k-jyBQPZ6KaT12K3KA2BjVkBOrEH84gIj0O_UER7f1UbmwGULElwS1pJrC-cTMi1WX8KEJA40bnYV_WeyhtQIaNx3sVsSZZI4MYLGYuhwtbs5MVUUI2b9WTYTsfjp4ERPkc13tsnRkSZCzEhd3t33mE2SE3Xv2jWPoYSh--HmaAcduWV08vDPzHA10xHZwHaI7AwwJ04sKZfhMFyBl9S8H-oXBmF0aq_-OHYl_m7GApXncDHCUp4DNiGf67njw0XIZPfJc1Ceaxp2Uouawbq6OquKv00M1VBEz2TbVCIgnMj8yE2MrQPSvIVp2sgpPGRWmQXvQP4cqROo5FFYDYC4-ob-YiPuCOiw0Hcf8lM4lIfaFLL7VLV14j2atTlJ7HlReaw_3mIAGEQ19A8yXnAczWeY6cMQiIwYjR5l_xCIKzpG630mgnpoRHZrJa9z2nbopScM95g1HApo_Yh50lSkcJmCUZzcrjXrkvhwvqWCT4Xv054X6BwIk8zVlau9osP6ysUZeOdF52xzZ9rBbx3xGYpJfYHwRbB4qwEqOwZ0awzqm0WvzlImp4ffT9NX7zhoIF7fEwFB1X_nKdH) or[X](https://www.globenewswire.com/Tracker?data=89YLzY4dpVVAEjV0PZR6yWuLPP82J7A79ojf8ZJK_0DXyrtHESvOuZm_AmOpQApYcuJEClMCKJ8GOeSJgmWmkpfw-CAqPkh8muNo8_WAgNnmBJlJroSfnCbkRFSWVz9ffHthyqaxhrKtDv4iLD0-U8_KcnLTfj8vDpqqQ44ma74r4iMv9mEzCUS8nCKmSB-WGelsJOl_QJiMCRAtII41TKIhKuvOlnPSdKgLUZfrlIV6XWFKlpw3ob2nAQlfoxewJM-FcIgQvaaWjDetSn1JdoBYP-SXzP347hIqBn6mAq4hdv-il5FCHmWy0N7Dvu09yplHqmtw68XGi5rnPfX1C7mIlCsZB8JOtqa_9XbfYUFYO-GnFyhhCWTb2-IqZW7FV2JBB4LWW2HTuVLfjCxUzZFUQ0LIaWmGSZYnf_gD_N6ZbZl1wTWE5a9q1fgn2MoKTnT_Mn9GD9IjuEvI7NwIndIuwaT523Fkrxx-6A8yk5X2R832AH1Pleg9mo-vxuAwj2e0F9PV38s6z5oVxBidxNeGu_RQyNHQdPAoyHDqTGpRV6Z8NLt08HPr8vfs7q-uy0tLiosxBWCWbxoHf_Zj5uC5dsV_ckQ4O1g-zaPT4wg=) (formerly known as Twitter).
+
+
+QTORIN™ rapamycin and QTORIN™ pitavastatin are for investigational use only and neither has been approved by the FDA or by any other regulatory agency for any indication.
+
+
+**Forward-Looking Statements**
+
+
+This press release contains forward-looking statements (including within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended (Securities Act)). These statements may discuss goals, intentions, and expectations as to future plans, trends, events, results of operations or financial condition, or otherwise, based on current beliefs of the management of Palvella, as well as assumptions made by, and information currently available to, the management of Palvella. Forward-looking statements generally include statements that are predictive in nature and depend upon or refer to future events or conditions, and include words such as “may,” “will,” “should,” “would,” “expect,” “anticipate,” “plan,” “likely,” “believe,” “estimate,” “project,” “intend,” and other similar expressions or the negative or plural of these words, or other similar expressions that are predictions or indicate future events or prospects, although not all forward-looking statements contain these words. Statements that are not historical facts are forward-looking statements. Forward-looking statements include, but are not limited to, statements regarding the expected timing of the presentation of data from clinical trials, Palvella’s clinical development plans and related anticipated development milestones, Palvella’s plans to pursue Breakthrough Therapy Designation, Palvella’s plans to meet with regulatory authorities, Palvella’s expectations regarding the benefits of orphan drug designation and potential benefit of orphan drug exclusivity for QTORIN™ rapamycin for the treatment of microcystic lymphatic malformations, Palvella’s cash, financial resources and expected runway, Palvella’s expectations regarding its programs, including QTORIN™ rapamycin and QTORIN™ pitavastatin, and its research-stage opportunities, including its expected therapeutic potential and market opportunity. Forward-looking statements are based on current beliefs and assumptions that are subject to risks and uncertainties and are not guarantees of future performance. Actual results could differ materially from those contained in any forward-looking statement as a result of various factors, including, without limitation: the ability to raise additional capital to finance operations; the ability to advance product candidates through preclinical and clinical development; the ability to obtain regulatory approval for, and ultimately commercialize, Palvella’s product candidates, including QTORIN™ rapamycin and QTORIN™ pitavastatin; the outcome of early clinical trials for Palvella’s product candidates, including the ability of those trials to satisfy relevant governmental or regulatory requirements; the fact that data and results from clinical studies may not necessarily be indicative of future results; Palvella’s limited experience in designing clinical trials and lack of experience in conducting clinical trials; Palvella’s limited experience in commercial manufacturing; the ability to identify and pivot to other programs, product candidates, or indications that may be more profitable or successful than Palvella’s current product candidates; the substantial competition Palvella faces in discovering, developing, or commercializing products; the negative impacts of global events on operations, including ongoing and planned clinical trials and ongoing and planned preclinical studies; the ability to attract, hire, and retain skilled executive officers and employees; the ability of Palvella to protect its intellectual property and proprietary technologies; reliance on third parties, contract manufacturers, and contract research organizations; and the risks and uncertainties described in the filings made by Palvella with the Securities and Exchange Commission (SEC), including the annual report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, filed with or furnished to the SEC and available at[www.sec.gov](https://www.globenewswire.com/Tracker?data=3E1YQfNZrTp3a7eJQRBLYUkuBLZuH-TSEwzFZRdXmKQT_cI2AoTB5K2uUMKhwQu2DiW45oU1gZ76lG4qloZn6o595GCsnBMpkAoiN8sNJ7ZVt_UJcYE9ohsnzO5Eq7NxMJfX_lPnhOEJyZ0BrzOw0R_2np-nuuTGUcXtlN1DZzfPxas5NQbAF_KSP9N70WECQUF5ChGp19Qw6jPGFDi2_6Me-564XUprUnMj7yp0A1uwsHScu9wkk-Wu1A7ZfnihnY4mjPQq9pNfVH6Anp1Wzj8xVqC9xS8fh7HUafJmvEymxIOdX_cMptj8eZkBIZL791j5kkOzPIGmRCB78FFHcQZ9rJQh74-oi1mTCp2Zg1MhUdjnjjAtQy_geFeVIH5dNW_F3LewVFu_tK3Tw1B8VF3FcuJoIVCa6u9a6dMUWi8=) . The events and circumstances reflected in our forward-looking statements may not be achieved or occur, and actual results could differ materially from those projected in the forward-looking statements. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties that Palvella may face. Except as required by applicable law, Palvella does not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. This press release contains hyperlinks to information that is not deemed to be incorporated by reference into this press release.
+
+
+**Contact Information**
+
+
+Investors
+Wesley H. Kaupinen
+Founder and CEO, Palvella Therapeutics
+[wes.kaupinen@palvellatx.com](https://www.globenewswire.com/Tracker?data=5G4CRo1z6fZjeVk-NQNHxhpgqKQuDpzKeY06e8F2JeC-xQQRXSftC1A_AJaxHyCB4oFc8CUAZiXQ6_BpWBiyi0eN34efJfwOJsWvj7eTKVCmoeIV03uE5-Eg0oNUNhvaz70FPWBkwBWG1B9ZeQ6nhmmbnFYtxocGq7mG2fETW8q11cWNnARMClFcOWenLuMhzUsYmyUtQR2yGK-gl_ByT6J-bcxu0KfrJibI-YQBvg_2L2XZbOWb9Ai0UzcYv2hWUFC8fnBBV-UGWE1Jx74pR1Z3LfuBvjknDGmpe_q9WwcE7X0L_-VzrfdIamwMbnlj)
+
+
+Media
+Marcy Nanus
+Managing Partner, Trilon Advisors LLC
+[mnanus@trilonadvisors.com](https://www.globenewswire.com/Tracker?data=9OASfFn-P0P5HkNYLshtonqKih8YxFBGtUq5_VHvx3FJNfxonXTRvy_WE_kwVYKzaRR3xEF0II9iA-cjdwTFfy9fuO6aE_gUo4DzFRQlos4mAbipLoEF0YUMCDPEZ78zMWI9R0ymu3CUHOXxqdt8zzHspV890v9FWV53mXHg2nSg3koXdCfndZM9wPHK0o_hy_sRle5i0c8l-KGeT4TlbaKbB1XTFTq_dqLUscbO6Hcs3KutBeLhQRaUzQGVlnUFETn0v4VFdXZZlj-7LNEejFgsYF_gnG9Iq8rOgGLbUKP9sME97AKIUyTnkvO54WdmyrDRKkNYFD9uM0cpoKZAWQ==)

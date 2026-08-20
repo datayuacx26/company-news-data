@@ -1,0 +1,106 @@
+---
+schema_version: "1.0.0"
+document_id: "51c41c6c400600b94d979ddecba70b437b030370c20d1d6387bf666658e4b01f"
+company_key: "yc-naturall-club"
+company: "NaturAll Club"
+source_id: "yc-naturall-club-atom-71589d2c7346"
+canonical_url: "https://naturallclub.com/blogs/the-naturall-club-blog/fresh-ingredients-for-healthy-hair"
+published_at: "2022-01-04T16:28:20+00:00"
+first_seen_at: "2026-07-24T12:09:20.860655+00:00"
+fetched_at: "2026-07-28T22:26:34.525443+00:00"
+content_hash: "sha256:3676e5a12a5b28624c605a2926cf3f6234107538240a8d6759d0841b3974c292"
+---
+
+# Fresh Ingredients for Healthy Hair
+
+Being caught in the holiday rush is a perfect time to forget about yourself! With all the gift giving and dinner planning, it’s easy for us to think of others before ourselves. If you’re stuck on what to exchange this season, we at NaturAll, we believe there’s no better gift than the gift of healthy hair.
+
+
+Whether it’s for a newly natural younger cousin or an older loved one returning to their roots, nothing beats gifting that special person products that they can use and enjoy on their natural journey for years to come. But why not give you and your curls the same thing?
+
+
+Looking after your tresses is the perfect gift to give yourself going into 2022.
+
+
+Proud of our non-toxic, all natural, fresh ingredients, we
+
+
+truly believe that if our ingredients are good for your body, it’ll be good for your hair too.
+
+
+And with formulas crafted from real fruits and vegetables, you’re sure to find a perfect hand-crafted recipe that suits your tresses.
+
+
+Now, let’s get into each NaturAll collection and our sulfate, silicone, paraben, phthalate,
+
+
+***and*** cruelty free ingredients that are featured…
+
+
+## Hydrating Collection
+
+
+With this new and improved Avocado and Kiwi infused collection, we’ve optimized our formulas and packaging to make your wash day and styling even more manageable. Hydrating, moisturizing, and nourishing, this collection is complete with a shampoo, conditioner, deep conditioner, leave-in conditioner, custard, twisting paste, and oil!
+
+
+Avocados are the bread and butter of the brand and is where it all started! Packed with protein-rich nutrients, vitamins, and healthy fats,
+
+
+[avocado fortifies the hair and helps to build protein structures back](https://naturallclub.com/blogs/the-naturall-club-blog/top-10-health-and-hair-benefits-of-avocados) . Along with helping to resist breakage by strengthening the hair, avocados have lots of rich oils and nutrients that will keep the hair hydrated!
+
+
+Kiwi is packed with essential vitamins C and E and combines with the power of avocado to encourage healthy hair growth!
+
+
+## Soothing Collection
+
+
+Made with real açai and flaxseed, the silky Smoothing Edge Control Glazes are styling and coverage made easy! A two-in-one recipe, the glazes not only lay your edges for a sleek finish, but also provide the look of a fuller hairline.
+
+
+Açai grew in popularity (mostly in the health and fitness world) a few years ago. As more of its benefits became known, the berry is now a popular ingredient in food, cosmetics, and haircare! Packed in omega fatty-acids, vitamins, and minerals, açai not only prevents hair loss and excessive shedding, but also strengthens your follicles allowing for strong, healthy new growth.
+
+
+You may recognize flaxseed as an ingredient featured in the Flaxseed Styling Collection. Flaxseed is such a great ingredient to incorporate into stylers like gels and edge controls. Lightweight and nourishing, flaxseed and flaxseed gel also help to strengthen the hair and regulate the scalp, reducing breakage and flakes.
+
+
+These natural colorant stylers come in either Black or Brown and provide coverage for gray hairs and thinning edges due to over manipulation. Aside from the shine and coverage, these freshly made açai and flaxseed recipes are flake free, alcohol fee, and silicone free!
+
+
+## Strengthening Collection
+
+
+The Strengthening Jamaican Black Castor Oil Collection features the delicious benefits of lavender, carrot, moringa, and monoi. These fresh formulas increase shine and condition hair for improved manageability while restoring scalp vitality and reducing hair breakage.
+
+
+Achieving your hair goals is made easy with this collection! Revitalize your scalp, bringing balance with zero flakes, while moisturizing and strengthening your hair from root to ends. Our JBCOs are the perfect companion for your next braid or loc style; they’re key to keeping flakiness at bay while promoting healthy growth!
+
+
+## Classic Kitchen
+
+
+For a limited time, you can stock up on our classic products before it's too late! Featuring products that contain either avocado or flaxseed, this line’s products are perfect to mix and match for maximum hydration!
+
+
+## NaturAll Lab
+
+
+The NaturAll Lab features limited edition recipes that are freshly-made from your feedback and expertise. By participating in the NaturAll Lab, you will have your hands in discovering the world’s most innovative hair care formulas. You don’t want to miss this because once they’re gone, they are gone forever. Join the 600k+ NaturAllistas in the lab and get to cooking!
+
+
+### Restoring Sea Moss and Aloe Jelly Collection
+
+
+Sea Moss is a type of seaweed that grows mostly on the Irish coasts. It’s packed vitamins, nutrients, and proteins that are beneficial for the hair and body in maintaining health. New to the cosmetic and food industries, sea moss is slowly inching its way into haircare. You’ll find our line of sea moss collection (along with our other products) is the only one of the few containing fresh sea moss.
+
+
+Another bonus to this collection is that it also contains fresh aloe jelly. Aloe, being mostly water, is extremely hydrating to the hair and scalp. This allows for increased moisture retention, less breakage, and more manageable curls overall!
+
+
+### Low Poo Miracle Cleanser
+
+
+This Curly-Girl-Method-approved recipe was crafted with our low porosity curlfriends in mind. The wonderful Low Poo Cleanser ensures your hair's cleanliness while keeping it soft and moisturized. Made with the decadence of sweet Mango and moistening coconut, this cleanser features a tantalizing pair of super hydrators to treat your curls!
+
+
+As always, we hand-make products with integrity. In doing so, we make sure to use the most moisturizing ingredients to provide hydration, easy detangling, and maximum freshness for your delicious hair. Let us know below which fresh ingredients you love the most!

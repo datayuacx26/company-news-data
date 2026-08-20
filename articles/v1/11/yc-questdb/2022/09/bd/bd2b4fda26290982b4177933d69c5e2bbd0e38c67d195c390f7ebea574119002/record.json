@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd2b4fda26290982b4177933d69c5e2bbd0e38c67d195c390f7ebea574119002",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/09/12/importing-300k-rows-with-io-uring/",
+    "canonical": "https://questdb.com/blog/2022/09/12/importing-300k-rows-with-io-uring/"
+  },
+  "title": "Importing 300k rows/sec with io_uring",
+  "summary": "QuestDB 6.5 introduces a new `COPY` commands allowing importing large CSV files. This article reveals the story behind it and highlights the exciting benchmark results using this new SQL command.",
+  "published_at": "2022-09-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.097715+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/09/bd/bd2b4fda26290982b4177933d69c5e2bbd0e38c67d195c390f7ebea574119002/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/09/bd/bd2b4fda26290982b4177933d69c5e2bbd0e38c67d195c390f7ebea574119002/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17202,
+    "sha256": "sha256:b4b4f75c139896d2b02cc698647b980afa6d6656f773f29aeb84e85b7603e812",
+    "normalized_content_hash": "sha256:841a2156577ef0d501cacec34da168c728303c2d58f6790a681538c99106b76d"
+  },
+  "provenance": {
+    "source_item_id": "6f39fc29-c7b7-43ef-9464-ededd6aff3fb",
+    "external_id": "https://questdb.com/blog/2022/09/12/importing-300k-rows-with-io-uring/"
+  }
+}

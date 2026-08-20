@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-candidately",
+    "name": "Candidately"
+  },
+  "record_count": 174,
+  "first_published_at": "2022-06-14T11:21:27+00:00",
+  "last_published_at": "2026-04-08T06:18:32+00:00",
+  "partitions": [
+    {
+      "partition": "2022-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 16
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 128
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/04/yc-candidately/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51280,
+        "sha256": "sha256:c651753a2c5912cedcbd322293631f53f1fa4acf110fc6d2286621fff3037eb1",
+        "newest_at": "2026-04-08T06:18:32+00:00",
+        "oldest_at": "2026-02-24T18:53:04+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/04/yc-candidately/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 51768,
+        "sha256": "sha256:1d389bddc7ca3a9168a66916a7ffe2558138344c4a8d72dd959cfbca533e35fc",
+        "newest_at": "2026-02-24T18:53:04+00:00",
+        "oldest_at": "2026-02-24T18:52:58+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/04/yc-candidately/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 51641,
+        "sha256": "sha256:81a506608e280e8d2f2f18b7283699a514212429740df931a4181631bf2eaa8d",
+        "newest_at": "2026-02-24T18:52:58+00:00",
+        "oldest_at": "2022-09-13T12:43:37+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/04/yc-candidately/index/pages/000004.json",
+        "record_count": 24,
+        "byte_count": 24743,
+        "sha256": "sha256:8781714da1701a14f705c01037333c68a6a2063a8e7939d1bb635b38a7c4e708",
+        "newest_at": "2022-08-10T13:17:34+00:00",
+        "oldest_at": "2022-06-14T11:21:27+00:00"
+      }
+    ]
+  }
+}

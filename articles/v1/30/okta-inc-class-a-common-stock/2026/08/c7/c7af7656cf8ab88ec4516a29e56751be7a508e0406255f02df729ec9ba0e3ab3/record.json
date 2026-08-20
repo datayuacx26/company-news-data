@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7af7656cf8ab88ec4516a29e56751be7a508e0406255f02df729ec9ba0e3ab3",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-f76a50baf54b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/newsroom/articles/fewer-tools-fewer-tokens-how-okta-cuts-agent-tool-selection-costs-before-they-happen/",
+    "canonical": "https://www.okta.com/newsroom/articles/fewer-tools-fewer-tokens-how-okta-cuts-agent-tool-selection-costs-before-they-happen/"
+  },
+  "title": "Fewer tools, fewer tokens: How Okta cuts agent tool-selection costs before they happen",
+  "summary": "AI agents pay to reason about every tool a server exposes, whether or not they use it. See how Okta scopes MCP tool access before the cost hits.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T15:59:30.887584+00:00",
+  "fetched_at": "2026-08-12T15:59:32.637311+00:00",
+  "last_updated_at": "2026-08-19T19:10:33.912444+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/08/c7/c7af7656cf8ab88ec4516a29e56751be7a508e0406255f02df729ec9ba0e3ab3/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/08/c7/c7af7656cf8ab88ec4516a29e56751be7a508e0406255f02df729ec9ba0e3ab3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9083,
+    "sha256": "sha256:b0f2f808543a990f9aae6e515dbcc5c90318057b7b08653fe36603bce1b0cffa",
+    "normalized_content_hash": "sha256:3c4b4a3c6629cb525dbde6ad68461889a6bdb591622220ad0abfbca8aaf4c7d7"
+  },
+  "provenance": {
+    "source_item_id": "72c04fa4-4c4e-4f1f-9f98-171b0bb2dc92",
+    "external_id": "https://www.okta.com/newsroom/articles/fewer-tools-fewer-tokens-how-okta-cuts-agent-tool-selection-costs-before-they-happen/"
+  }
+}

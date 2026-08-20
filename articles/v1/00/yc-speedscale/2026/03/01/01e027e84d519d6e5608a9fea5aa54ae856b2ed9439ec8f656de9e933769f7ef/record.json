@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01e027e84d519d6e5608a9fea5aa54ae856b2ed9439ec8f656de9e933769f7ef",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/production-data-in-developer-hands-rbac-and-dlp/",
+    "canonical": "https://speedscale.com/blog/production-data-in-developer-hands-rbac-and-dlp/"
+  },
+  "title": "Production Data Access for Developers: RBAC and DLP",
+  "summary": "RBAC and DLP let developers access production data safely—without configuration drift or PII exposure. Here's how to design it right.",
+  "published_at": "2026-03-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:17:53.237254+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/03/01/01e027e84d519d6e5608a9fea5aa54ae856b2ed9439ec8f656de9e933769f7ef/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/03/01/01e027e84d519d6e5608a9fea5aa54ae856b2ed9439ec8f656de9e933769f7ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13746,
+    "sha256": "sha256:f62f31ef203839cb786461f691b8f0068d5ab5fa21e2646aafe1ce23aea4af49",
+    "normalized_content_hash": "sha256:fe90064191239113ad993131706e02d43111e1be248e3303a6811fef9bce3cca"
+  },
+  "provenance": {
+    "source_item_id": "7669806f-5f4c-4cc3-9d45-b09d41ca98db",
+    "external_id": "https://speedscale.com/blog/production-data-in-developer-hands-rbac-and-dlp/"
+  }
+}

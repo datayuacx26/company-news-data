@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41e4c3f1888ddc26a3f0b22d93033e9b48fecab20653d9eb60cd8471e2cb4fbe",
+  "company": {
+    "key": "yc-netbeez",
+    "name": "NetBeez"
+  },
+  "source": {
+    "id": "yc-netbeez-rss-1a1c74f0723d",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://netbeez.net/blog/testing-mptcp-with-iperf3/",
+    "canonical": "https://netbeez.net/blog/testing-mptcp-with-iperf3/"
+  },
+  "title": "Testing Multi-Path TCP (MPTCP) with iPerf3",
+  "summary": "Testing MPTCP with iPerf3 isn’t as straightforward as it sounds. From setup quirks to interpreting throughput across multiple paths, you need the right configs to get meaningful results.This post breaks down how to properly test, what to watch for, and where results can mislead.",
+  "published_at": "2026-04-29T19:56:05+00:00",
+  "first_seen_at": "2026-07-20T23:24:05.097992+00:00",
+  "fetched_at": "2026-07-28T21:45:24.644708+00:00",
+  "last_updated_at": "2026-08-20T01:55:20.553438+00:00",
+  "paths": {
+    "article": "articles/v1/3f/yc-netbeez/2026/04/41/41e4c3f1888ddc26a3f0b22d93033e9b48fecab20653d9eb60cd8471e2cb4fbe/article.md",
+    "record": "articles/v1/3f/yc-netbeez/2026/04/41/41e4c3f1888ddc26a3f0b22d93033e9b48fecab20653d9eb60cd8471e2cb4fbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9992,
+    "sha256": "sha256:e63fb711ecf1bb3fcdc9b2e346bdca0763d14d4db6a764cc5007de90b79656ce",
+    "normalized_content_hash": "sha256:422462580cf4272fa86063ea1a54b2d5891347af829a9e08dcebbf2667ef9b43"
+  },
+  "provenance": {
+    "source_item_id": "4c928d34-264b-41e7-a570-29805e59f10e",
+    "external_id": "https://netbeez.net/?p=23907"
+  }
+}

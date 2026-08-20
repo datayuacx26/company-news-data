@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "06b094f303e03410b70a2af3c5e802977bfc0aa63cce69f14ff7a8f8e71e9c49",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens",
+    "canonical": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens"
+  },
+  "title": "Target’s Newest Food Distribution Center Helps Deliver Freshness Faster",
+  "summary": "Target’s new Food Distribution Center in Thornton, Colorado positions retailer for growth and efficiency and continues investment in the region.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/06/06/06b094f303e03410b70a2af3c5e802977bfc0aa63cce69f14ff7a8f8e71e9c49/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/06/06/06b094f303e03410b70a2af3c5e802977bfc0aa63cce69f14ff7a8f8e71e9c49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7718,
+    "sha256": "sha256:10c1be93e54e95f2a8dcfe4f09194fb9531d281a2b9c1616b7dff492bc555dbe",
+    "normalized_content_hash": "sha256:8b589e9c524ba85a846a7a5f5603348ecfb91b40c572f21ee5d8b02a808cc1b5"
+  },
+  "provenance": {
+    "source_item_id": "80986857-9e5a-488c-aa9a-16a5f11d515c",
+    "external_id": "https://corporate.target.com/news-features/article/2026/06/thornton-food-distribution-center-opens"
+  }
+}

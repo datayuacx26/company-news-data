@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f542635f3ab19d944af33b94b983704629d4528dab488917d87489f3d0524801",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/using-opentelemetry-loki-receiver-to-collect-logs",
+    "canonical": "https://signoz.io/blog/using-opentelemetry-loki-receiver-to-collect-logs"
+  },
+  "title": "Using OpenTelemetry Collector Loki Receiver to Send Logs to SigNoz [Code Tutorial]",
+  "summary": "Configure Promtail to send logs through the OpenTelemetry Collector Loki receiver to SigNoz, with a step-by-step code tutorial.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/f5/f542635f3ab19d944af33b94b983704629d4528dab488917d87489f3d0524801/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/f5/f542635f3ab19d944af33b94b983704629d4528dab488917d87489f3d0524801/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25705,
+    "sha256": "sha256:a2dab71f2d1f5eecd38a0e6a0e7aa5f321067917b1990d039b09cfbb85a5355d",
+    "normalized_content_hash": "sha256:ef3a64adc3b4b9e1977677ccc6ef4b4af0b26912c1e25cd12e6e785af9da1719"
+  },
+  "provenance": {
+    "source_item_id": "9a556e8e-5b17-4827-9fdc-685e2bb76b97",
+    "external_id": "https://signoz.io/blog/using-opentelemetry-loki-receiver-to-collect-logs"
+  }
+}

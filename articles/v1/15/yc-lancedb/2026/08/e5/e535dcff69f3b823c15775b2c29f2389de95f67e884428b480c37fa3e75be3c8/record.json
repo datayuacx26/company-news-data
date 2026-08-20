@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e535dcff69f3b823c15775b2c29f2389de95f67e884428b480c37fa3e75be3c8",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/crewai-rebuilt-agent-memory-on-lancedb",
+    "canonical": "https://www.lancedb.com/blog/crewai-rebuilt-agent-memory-on-lancedb"
+  },
+  "title": "Why CrewAI Rebuilt Agent Memory on LanceDB, Powering 2B+ Agent Executions",
+  "summary": "CrewAI replaced a two-system memory stack with LanceDB, then rebuilt agent memory to resolve contradictions and gate recall on confidence. It now ships by default across 6 million monthly downloads and 2B+ agent executions.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-03T16:19:08.114136+00:00",
+  "fetched_at": "2026-08-03T18:22:19.433930+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/08/e5/e535dcff69f3b823c15775b2c29f2389de95f67e884428b480c37fa3e75be3c8/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/08/e5/e535dcff69f3b823c15775b2c29f2389de95f67e884428b480c37fa3e75be3c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10798,
+    "sha256": "sha256:5e5048266bbce539005c67e8ce043075d85146fc0006ce942487ffbb7dad3ca2",
+    "normalized_content_hash": "sha256:5ea5972546bbeee544680d0fe15bc31c252bd37a8eaa5fd25e81378333b3f56a"
+  },
+  "provenance": {
+    "source_item_id": "54688a9e-580f-4690-83ff-e360b6055168",
+    "external_id": "https://www.lancedb.com/blog/crewai-rebuilt-agent-memory-on-lancedb"
+  }
+}

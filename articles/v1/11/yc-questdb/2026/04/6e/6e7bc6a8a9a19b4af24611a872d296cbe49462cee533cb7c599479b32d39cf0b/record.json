@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e7bc6a8a9a19b4af24611a872d296cbe49462cee533cb7c599479b32d39cf0b",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/zero-shot-forecasting-questdb-timesfm/",
+    "canonical": "https://questdb.com/blog/zero-shot-forecasting-questdb-timesfm/"
+  },
+  "title": "Zero-Shot Time-Series Forecasting with QuestDB and Google's TimesFM",
+  "summary": "Three ways to load QuestDB data into Python, then forecast crypto trading volume and volatility with Google's TimesFM, no model training required.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T22:00:15.315546+00:00",
+  "last_updated_at": "2026-08-06T14:25:34.798942+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/04/6e/6e7bc6a8a9a19b4af24611a872d296cbe49462cee533cb7c599479b32d39cf0b/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/04/6e/6e7bc6a8a9a19b4af24611a872d296cbe49462cee533cb7c599479b32d39cf0b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22730,
+    "sha256": "sha256:cc2cac57e746292b33da1b14341d64fcd86beba398cd6b591afef53c17b8a00a",
+    "normalized_content_hash": "sha256:de6b7452560a8d8fdf69c72b56c3bec08157842e4e7fad918deda436dca79c39"
+  },
+  "provenance": {
+    "source_item_id": "e27ce8ef-a22c-43a0-8ff2-7a0447a29135",
+    "external_id": "https://questdb.com/blog/zero-shot-forecasting-questdb-timesfm/"
+  }
+}

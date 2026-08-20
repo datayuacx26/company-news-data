@@ -1,0 +1,105 @@
+---
+schema_version: "1.0.0"
+document_id: "ebfce08da3990eeb313229b2bc50b5bc58439e6184e0a13da8c578c5caafa985"
+company_key: "archer-aviation-inc-class-a-common-stock"
+company: "Archer Aviation Inc."
+source_id: "archer-aviation-inc-class-a-common-stock-rss-15f264303d61"
+canonical_url: "https://investors.archer.com/news/news-details/2026/Archer-to-Shape-Physical-AI-Future-of-Aerospace-and-Defense-with-Acquisition-of-Boeings-Wisk-Aero-Insitu-and-SkyGrid-Subsidiaries-Boeing-to-Invest-in-Archer-and-Collaborate/default.aspx"
+published_at: "2026-08-10T12:00:00+00:00"
+first_seen_at: "2026-08-11T10:47:10.447505+00:00"
+fetched_at: "2026-08-11T10:47:12.422406+00:00"
+content_hash: "sha256:a64fd3a9fe1230dce0ec4c1932f757246e574ed6b1e2596be6c849f2b2506c0f"
+---
+
+# Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing’s Wisk Aero, Insitu and SkyGrid Subsidiaries; Boeing to Invest in Archer and Collaborate
+
+[View All News](https://investors.archer.com/news/default.aspx)
+
+
+### Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing’s Wisk Aero, Insitu and SkyGrid Subsidiaries; Boeing to Invest in Archer and Collaborate
+
+
+Aug 10, 2026
+
+
+- [Download (opens in new window)](https://s206.q4cdn.com/823642595/files/doc_news/Archer-to-Shape-Physical-AI-Future-of-Aerospace-and-Defense-with-Acquisition-of-Boeings-Wisk-Aero-Insitu-and-SkyGrid-Subsidiaries-Boe-M4DMX.pdf)
+
+
+- Transaction creates an end-to-end physical AI platform for aerospace and defense.
+- Adds a profitable defense business generating over $200M in annual revenue\[1\], with operations across 35 countries, to Archer’s portfolio.
+- Combines Wisk, SkyGrid and Insitu’s pioneering autonomy and airspace intelligence software with Archer’s leading purpose-built AI foundation model for aerospace and defense, ZEE.
+- Boeing to take stake and become a strategic partner to Archer; establishes ongoing Archer and Boeing collaboration and technology sharing arrangement.
+
+
+ARLINGTON, Va. & SILICON VALLEY, Calif.--(BUSINESS WIRE)--
+
+
+The Boeing Company (NYSE: BA) and Archer Aviation Inc. (NYSE: ACHR) today announced the companies have signed definitive agreements in which Archer will acquire Boeing’s Wisk Aero, SkyGrid and Insitu subsidiaries. The deal will combine complementary capabilities developed over decades in autonomy, electric vertical takeoff and landing (eVTOL) aircraft, and unmanned aircraft systems (UAS) – creating a groundbreaking end-to-end physical AI platform for aerospace and defense.
+
+
+Wisk, SkyGrid and Insitu have pioneered and incubated core autonomous flight technologies for the future that, in combination with Archer’s air taxi, UAS and AI technologies, will bring new and innovative solutions to the market. These companies, with nearly two million combined flight hours, are expected to bring a deep autonomy foundation to Archer’s ZEE artificial intelligence platform. This positions Archer to deliver an end-to-end physical AI platform across commercial aerospace, defense and air traffic management that can lead the next generation of aviation.
+
+
+Archer’s Founder and CEO, Adam Goldstein said, “This is a watershed moment for Archer and the future of physical AI in aerospace and defense. This is the next big step forward in becoming a diversified platform, rapidly growing our revenue base and bringing scale to our business.”
+
+
+In conjunction with the transaction, Boeing and Archer are entering into a collaboration and technology-sharing arrangement through which Boeing will retain access to the Wisk core autonomous flight technology for its current and next-generation commercial and defense aircraft. The transaction allows Boeing to retain strategic upside through its stake in Archer and simultaneously focus current and future investments into Boeing’s core businesses.
+
+
+“This transaction is a win-win for Boeing and Archer,” said Brian Yutko, Boeing vice president, Commercial Airplanes Product Development. “It allows Wisk, SkyGrid and Insitu to accelerate capability development and time to market while ensuring Boeing capitalizes on its investments in these technologies over the past two decades through continued development in our core businesses. Having worked with the incredible teams in these companies firsthand, it’s clear this transaction will create an industry leader in the advanced aviation market. We look forward to collaborating with Archer to drive continued innovation in aerospace, defense and autonomy.”
+
+
+About the companies:
+
+
+- [Wisk](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwisk.aero%2F&esheet=54586666&newsitemid=20260810891940&lan=en-US&anchor=Wisk&index=1&md5=04c736165acb9f4810a2fa6aa1044d40) is the only company that has designed, built and flown six generations of eVTOL aircraft, amassing 1,700+ flight tests. Over the past 16 years, Wisk’s world-class team has developed unmatched autonomy capabilities powered by a next-gen flight-control computer, sensor suite, and radar system designed for certification in both civil and potential defense markets.
+- [SkyGrid](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.skygrid.com%2F&esheet=54586666&newsitemid=20260810891940&lan=en-US&anchor=SkyGrid&index=2&md5=0c2499d0f19535737261c3bd26929f12) has built a leading ground-based, aircraft-agnostic air traffic management solution that establishes the digital foundation for the future of automated airspace. SkyGrid enables safe integration, scalable automation and coordinated traffic management that is necessary for commercialization across the aviation ecosystem.
+- [Insitu](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.insitu.com%2F&esheet=54586666&newsitemid=20260810891940&lan=en-US&anchor=Insitu&index=3&md5=5427a20670e7bc1a6a811c38b53d6002) is a pioneer in designing, developing and manufacturing uncrewed aircraft systems (UAS) used in intelligence, surveillance and reconnaissance. Its product portfolio spans high-performance, cost-effective, resilient, VTOL-capable UAS and AI-enabled software solutions. Insitu’s technologies have helped the armed forces of 35 nations make quicker, more informed decisions to bring warfighters home safely. With offices in the US, Australia, the UK, and the UAE, Insitu has manufactured and fielded more than 3,500 UAS and provides operations and support networks in every hemisphere of the globe.
+
+
+Additional details of the transaction are available in Archer’s Form 8-K filed today with the Securities and Exchange Commission. The transaction remains subject to certain agreed-upon closing conditions, including expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act and is expected to close by the end of 2026. Moelis & Company LLC is acting as financial advisor to Archer and Fenwick & West LLP is serving as outside counsel. J.P. Morgan Securities LLC is serving as financial advisor to Boeing and Mayer Brown LLP is acting as outside counsel.
+
+
+**About Boeing**
+
+
+A leading global aerospace company and top U.S. exporter, Boeing develops, manufactures and services commercial airplanes, defense products and space systems for customers in more than 150 countries. Our U.S. and global workforce and supplier base drive innovation, economic opportunity, sustainability and community impact. Boeing is committed to fostering a culture based on our core values of safety, quality and integrity.
+
+
+**About Archer**
+
+
+Archer builds the aircraft and core technologies that will define the next era of flight for aerospace and defense.
+
+
+**Source** : Boeing & Archer Aviation
+
+
+**Archer’s Forward-Looking Statements and Disclaimers**
+
+
+This press release contains forward-looking statements regarding Archer's future business plans, expectations, and opportunities, including statements regarding the expected timing and structure of the transaction; the ability of the parties to complete the transaction; the expected benefits of the transaction, including future financial and operating results and strategic benefits; and plans, objectives, and anticipated benefits of acquisitions, strategic investments, partnerships, and collaborations with third parties. Forward-looking statements are only predictions and may differ materially from actual results due to a variety of factors.
+
+
+These forward-looking statements are based on Archer's current expectations and are subject to risks and uncertainties, which may cause actual results to differ materially from Archer's current expectations. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated by such forward-looking statements. The inclusion of such statements should not be regarded as a representation that such plans, estimates or expectations will be achieved. Important factors that could cause actual results to differ materially from such plans, estimates or expectations include, among others, (i) that one or more closing conditions to the transaction, including certain regulatory approvals, may not be satisfied or waived, on a timely basis or otherwise, including that a governmental entity may prohibit, delay or refuse to grant approval for the consummation of the transaction, or may require conditions, limitations or restrictions in connection with such approvals; (ii) the risk that the transaction may not be completed on the terms or in the time frame expected by Archer, or at all; (iii) unexpected costs, charges or expenses resulting from the transaction; (iv) uncertainty of the expected financial performance of Archer following completion of the transaction; (v) failure to realize the anticipated benefits of the transaction, including as a result of delay in completing the transaction or integrating the businesses, on the expected timeframe or at all; (vi) the occurrence of any event that could give rise to termination of the transaction; (vii) the risk that stockholder litigation in connection with the transaction or other litigation, settlements or investigations may affect the timing or occurrence of the transaction or result in significant costs of defense, indemnification and liability; (viii) risks related to the disruption of management time from ongoing business operations due to the pendency of the transaction, or other effects of the pendency of the transaction on the relationship of any of the parties to the transaction with their employees, customers, suppliers or other counterparties; and (ix) other risk factors detailed from time to time in Archer's reports filed with the Securities and Exchange Commission (the "SEC"), including documents that will be filed with the SEC in connection with the transaction. Any forward-looking statements contained herein are based on assumptions that Archer believes to be reasonable as of the date of this press release. Archer undertakes no obligation to update these statements as a result of new information or future events.
+
+
+**Boeing’s Forward-Looking Statements and Disclaimers**
+
+
+This press release also contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 regarding The Boeing Company, including statements regarding the anticipated terms, timing, and completion of the proposed transaction, the strategic and financial benefits expected to result from the transaction, and Boeing’s future business plans and strategy. These statements are based on current expectations and assumptions that are subject to risks and uncertainties, many of which are beyond Boeing’s control, and actual results may differ materially from those expressed or implied. Factors that could cause actual results to differ include those described in Boeing’s most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and other filings with the Securities and Exchange Commission. Boeing undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by law.
+
+
+\[1\] Based on Insitu’s current financials and financial estimates.
+
+
+**Boeing Media Relations Contact** :media@boeing.com
+
+
+**Archer Media Relations Contact:**Archer@TheBrandAmp.com
+
+
+Source: Archer Aviation
+
+
+[View All News](https://investors.archer.com/news/default.aspx)

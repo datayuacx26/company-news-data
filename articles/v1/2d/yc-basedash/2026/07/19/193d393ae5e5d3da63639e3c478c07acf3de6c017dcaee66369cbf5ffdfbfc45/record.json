@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "193d393ae5e5d3da63639e3c478c07acf3de6c017dcaee66369cbf5ffdfbfc45",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/teaching-our-ai-agent-whats-actually-in-your-database/",
+    "canonical": "https://www.basedash.com/blog/teaching-our-ai-agent-whats-actually-in-your-database/"
+  },
+  "title": "Teaching our AI agent what's actually in your database",
+  "summary": "Our chat agent was running 140 introspection queries per benchmark run against customer warehouses just to find the right tables. Here's how we built a schema…",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T15:31:16.890008+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/07/19/193d393ae5e5d3da63639e3c478c07acf3de6c017dcaee66369cbf5ffdfbfc45/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/07/19/193d393ae5e5d3da63639e3c478c07acf3de6c017dcaee66369cbf5ffdfbfc45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13381,
+    "sha256": "sha256:45de1dc6a41e173629bc1eed0bcd1b66f430e15bfe3f44b7338a06a7a875f381",
+    "normalized_content_hash": "sha256:23d40fb5b9a1756ce548e832f8773c3bfc7cf96cca59d77596276bb1f84e2025"
+  },
+  "provenance": {
+    "source_item_id": "f5c293e3-6244-4bcb-853a-1ac3f219751d",
+    "external_id": "https://www.basedash.com/blog/teaching-our-ai-agent-whats-actually-in-your-database/"
+  }
+}

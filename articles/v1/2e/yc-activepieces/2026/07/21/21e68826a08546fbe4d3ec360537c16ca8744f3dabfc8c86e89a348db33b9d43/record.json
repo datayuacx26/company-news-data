@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "21e68826a08546fbe4d3ec360537c16ca8744f3dabfc8c86e89a348db33b9d43",
+  "company": {
+    "key": "yc-activepieces",
+    "name": "Activepieces"
+  },
+  "source": {
+    "id": "yc-activepieces-rss-17c781695c1c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.activepieces.com/blog/how-to-handle-errors-in-production-ai-agents",
+    "canonical": "https://www.activepieces.com/blog/how-to-handle-errors-in-production-ai-agents"
+  },
+  "title": "How to handle errors in production AI agents",
+  "summary": "Error handling separates production AI agents from prototypes. Here's how to build resilience into every agent operation. Implement Circuit Breakers for…",
+  "published_at": "2026-07-10T10:30:23+00:00",
+  "first_seen_at": "2026-07-20T23:19:46.791052+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T03:25:50.530711+00:00",
+  "paths": {
+    "article": "articles/v1/2e/yc-activepieces/2026/07/21/21e68826a08546fbe4d3ec360537c16ca8744f3dabfc8c86e89a348db33b9d43/article.md",
+    "record": "articles/v1/2e/yc-activepieces/2026/07/21/21e68826a08546fbe4d3ec360537c16ca8744f3dabfc8c86e89a348db33b9d43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12537,
+    "sha256": "sha256:5bd1d8a6833a6a4772613dcc94b4162c1f90b54a193aa53c7d0d811520982cd6",
+    "normalized_content_hash": "sha256:f2794fe3f1712b1b8751fb89251532ca77db836a7dadb57ca50e70bfe83cc15d"
+  },
+  "provenance": {
+    "source_item_id": "510cb855-f662-4c80-9fe7-b7e133a02cb7",
+    "external_id": "https://www.activepieces.com/blog/how-to-handle-errors-in-production-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "289feb4bf47f465adf11aba5bb82fa61a1ba4410b827cd54b0af63cd5f2c1709",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/observability-with-mcp/",
+    "canonical": "https://speedscale.com/blog/observability-with-mcp/"
+  },
+  "title": "Let Your LLM Debug Using Production Recordings",
+  "summary": "Connect an MCP server to your LLM coding assistant so it can pull real production data on demand, validate its assumptions.",
+  "published_at": "2026-01-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/01/28/289feb4bf47f465adf11aba5bb82fa61a1ba4410b827cd54b0af63cd5f2c1709/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/01/28/289feb4bf47f465adf11aba5bb82fa61a1ba4410b827cd54b0af63cd5f2c1709/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5265,
+    "sha256": "sha256:d96ee9f61851e721c24005929aee26fc5e8fbc3313f27e2549283b8eda7a0d21",
+    "normalized_content_hash": "sha256:cec3275718fed73cce1116d1662a9db74d2e7e00258585cd4a75ec405a428db2"
+  },
+  "provenance": {
+    "source_item_id": "694018bc-7f6f-4676-ac52-9ff70c48b03a",
+    "external_id": "https://speedscale.com/blog/observability-with-mcp/"
+  }
+}

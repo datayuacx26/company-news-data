@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df7a9442da8bbbc74ab0d59f236fde80724cec2b84969d5b42980d2adf48d60f",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/google-cloud-iam-modeling",
+    "canonical": "https://authzed.com/blog/google-cloud-iam-modeling"
+  },
+  "title": "Modeling Google Cloud IAM in SpiceDB",
+  "summary": "Learn how to model Infrastructure as a Service (IaaS) permissions using relationship-based access control in our SpiceDB Schema Language. Explore a concrete example that separates out permissions completely and allows access to a whole class of object.",
+  "published_at": "2023-01-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2023/01/df/df7a9442da8bbbc74ab0d59f236fde80724cec2b84969d5b42980d2adf48d60f/article.md",
+    "record": "articles/v1/15/yc-authzed/2023/01/df/df7a9442da8bbbc74ab0d59f236fde80724cec2b84969d5b42980d2adf48d60f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37236,
+    "sha256": "sha256:98d16ebe307fe5c0956b6d2fc6f2e3e7d4edd2b534b926815f0c4b6260f8d534",
+    "normalized_content_hash": "sha256:abc1303b6e9362184e2159ccb3189ffffb8466b11596e03babf59b6258be973f"
+  },
+  "provenance": {
+    "source_item_id": "2c1518bb-4680-47df-be96-7bd4312b7087",
+    "external_id": "https://authzed.com/blog/google-cloud-iam-modeling"
+  }
+}

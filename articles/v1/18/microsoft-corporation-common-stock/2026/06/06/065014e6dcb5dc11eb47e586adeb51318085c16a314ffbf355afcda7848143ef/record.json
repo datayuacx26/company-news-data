@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "065014e6dcb5dc11eb47e586adeb51318085c16a314ffbf355afcda7848143ef",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+  },
+  "title": "Claude Fable 5 available today in Microsoft Foundry: Powering the next era of autonomous agents",
+  "summary": "Microsoft Foundry now supports Claude Fable 5, unlocking advanced agent capabilities for long-running tasks, enterprise workflows, and AI-driven productivity.",
+  "published_at": "2026-06-09T17:00:00+00:00",
+  "first_seen_at": "2026-08-12T05:31:09.350525+00:00",
+  "fetched_at": "2026-08-12T05:31:11.551733+00:00",
+  "last_updated_at": "2026-08-17T09:19:11.686798+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/06/065014e6dcb5dc11eb47e586adeb51318085c16a314ffbf355afcda7848143ef/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/06/065014e6dcb5dc11eb47e586adeb51318085c16a314ffbf355afcda7848143ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10097,
+    "sha256": "sha256:c3b29219cbc8ac0c29355d5f0882a2cdf67941f836df949debb4d518ca30b5b5",
+    "normalized_content_hash": "sha256:a50f0ca23369238bd407b4fd04d5f1d73d17a45e5f6b49d81f5b64e02baeebba"
+  },
+  "provenance": {
+    "source_item_id": "b2312198-72c1-4a23-a487-18a95b652533",
+    "external_id": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42c7655f1292278f322e6d97f808ab96095c3c65d91a514760232a18c1ea8385",
+  "company": {
+    "key": "yc-nessie",
+    "name": "Nessie"
+  },
+  "source": {
+    "id": "yc-nessie-news-import-92dbaf0ffbdb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nessielabs.com/blog/why-we-killed-our-product-twice",
+    "canonical": "https://nessielabs.com/blog/why-we-killed-our-product-twice"
+  },
+  "title": "Why We Killed Our Product Twice",
+  "summary": "All your AI work, in one place.",
+  "published_at": null,
+  "first_seen_at": "2026-08-10T00:59:32.267738+00:00",
+  "fetched_at": "2026-08-10T00:59:34.485287+00:00",
+  "last_updated_at": "2026-08-19T18:27:33.609095+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-nessie/2026/08/42/42c7655f1292278f322e6d97f808ab96095c3c65d91a514760232a18c1ea8385/article.md",
+    "record": "articles/v1/01/yc-nessie/2026/08/42/42c7655f1292278f322e6d97f808ab96095c3c65d91a514760232a18c1ea8385/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6062,
+    "sha256": "sha256:30e375acc0a7a60466b2a8eaebf2006e5bc5e7191903166a3bbbdfb558261f45",
+    "normalized_content_hash": "sha256:6e9f37146264736f513de5bd359d25aa871a6dcb54091ccfda0c4a021ddf4dd6"
+  },
+  "provenance": {
+    "source_item_id": "1b65d8bc-21d8-47fe-a118-517f44048394",
+    "external_id": "https://nessielabs.com/blog/why-we-killed-our-product-twice"
+  }
+}

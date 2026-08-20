@@ -1,0 +1,112 @@
+---
+schema_version: "1.0.0"
+document_id: "37ad9443f18b34dee8639ca7328c3cb64d0bfa2f9a917438a339168cb7c96fdf"
+company_key: "qxo-inc-common-stock"
+company: "QXO Inc."
+source_id: "qxo-inc-common-stock-rss-1ae2b368c1a7"
+canonical_url: "https://investors.qxo.com/news/news-details/2026/QXO-and-TopBuild-Announce-Election-Deadline-for-TopBuild-Stockholders-to-Elect-Merger-Consideration/default.aspx"
+published_at: "2026-06-04T20:15:00+00:00"
+first_seen_at: "2026-07-25T20:21:51.361597+00:00"
+fetched_at: "2026-08-19T21:17:20.873435+00:00"
+content_hash: "sha256:d5a56fc124795335777faf38250ff3af6fea8d1d4805511737d69202793a207d"
+---
+
+# QXO and TopBuild Announce Election Deadline for TopBuild Stockholders to Elect Merger Consideration
+
+GREENWICH, Conn. & DAYTONA BEACH, Fla.--(BUSINESS WIRE)--
+
+
+QXO, Inc. (NYSE: QXO) (“QXO”) and TopBuild Corp. (NYSE: BLD) (“TopBuild”) today announced that the deadline for TopBuild stockholders of record to elect the form of consideration that they wish to receive in connection with the acquisition of TopBuild by QXO (the “Mergers”) is 5:00 p.m., Eastern Time on June 29, 2026 (such deadline, as it may be extended, the “Election Deadline”).
+
+
+As further described in the election materials and in the parties’ joint proxy statement/prospectus, dated May 29, 2026, each TopBuild stockholder may elect to receive, for each share of TopBuild common stock held prior to the closing of the Mergers, either (i) $505.00 in cash (the “cash consideration”) or (ii) 20.200 shares of QXO common stock (the “stock consideration”), in each case, subject to the election and proration procedures set forth in the merger agreement and the joint proxy statement/prospectus.
+
+
+TopBuild stockholders who fail to make a proper election by the Election Deadline will receive stock consideration for their shares of TopBuild common stock. TopBuild stockholders who otherwise would have received a fractional share of QXO common stock will receive cash in lieu of such fractional share.
+
+
+TopBuild stockholders of record wishing to make an election must deliver properly completed election materials to Equiniti Trust Company, LLC by the Election Deadline. Additional information about the election, deadlines and contacts can be found in materials sent to TopBuild stockholders beginning on June 4, 2026.
+
+
+TopBuild stockholders with questions regarding the election materials or the election process should contact Innisfree M&A Incorporated, the information agent for the election, at(877) 750-8129 or their bank, broker or other nominee, as applicable, as soon as possible.
+
+
+A more detailed description of the Mergers, the election process and the merger consideration is contained in the joint proxy statement/prospectus. TopBuild stockholders are urged to read the joint proxy statement/prospectus carefully and in its entirety. Copies of the joint proxy statement/prospectus may be obtained free of charge by following the instructions below under the section entitled “Important Information for Investors and Stockholders.”
+
+
+**About QXO**
+
+
+QXO, Inc. (NYSE: QXO) is the largest publicly traded distributor of roofing, waterproofing, and related products and the second largest publicly traded distributor of lumber and building materials in North America. QXO is the fastest growing company in the $800 billion building products distribution industry and plans to become the tech-enabled leader by delivering best-in-class customer satisfaction and outsized returns for its shareholders. The company is targeting $50 billion in annual revenues within the next decade through accretive acquisitions and organic growth. Visit QXO.com for more information.
+
+
+**About TopBuild**
+
+
+TopBuild Corp., headquartered in Daytona Beach, Florida, is the largest distributor and installer of insulation and related building products in North America. The company provides installation and distribution services across residential, commercial, and industrial end markets, including insulation used in walls, attics, floors, and roofing assemblies; complementary products such as gutters, fireproofing, and mechanical insulation; and specialized roofing systems for large-scale buildings such as airports, stadiums, and warehouses. TopBuild operates more than 450 locations across the United States and Canada. Visit TopBuild.com for more information.
+
+
+**Cautionary Statement Regarding Forward-Looking Information**
+
+
+This communication contains forward-looking statements. Statements that are not historical facts, including statements about beliefs, expectations, targets or goals, the expected timing of the closing of the proposed acquisition, the anticipated benefits of the proposed acquisition, including synergies, and expected future financial position, total addressable market, positions in building product verticals and results of operations, are forward-looking statements. These statements are based on plans, estimates, expectations and/or goals at the time the statements are made, and readers should not place undue reliance on them. In some cases, readers can identify forward-looking statements by the use of forward-looking terms such as “may,” “will,” “should,” “expect,” “opportunity,” “intend,” “plan,” “anticipate,” “believe,” “estimate,” “predict,” “potential,” “target,” “goal,” or “continue,” or the negative of these terms or other comparable terms. Forward-looking statements involve inherent risks and uncertainties and readers are cautioned that a number of important factors could cause actual results to differ materially from those contained in any such forward-looking statements. Factors that could cause actual results to differ materially from those described herein include, among others: (i) the risk that the proposed acquisition of TopBuild may not be completed on the anticipated terms in a timely manner or at all; (ii) the failure to satisfy any of the conditions to the consummation of the proposed acquisition, including the risk that the required stockholder approvals may not be obtained; (iii) the effect of the pendency of the proposed acquisition on each of QXO’s and TopBuild’s business relationships with employees, customers, or suppliers, or on operating results or the businesses generally; (iv) the occurrence of any event, change or other circumstance or condition that could give rise to the termination of the acquisition agreement for TopBuild, including circumstances that require the payment of a termination fee; (v) the possibility that the proposed acquisition may be more expensive to complete than anticipated, including as a result of unexpected factors or events, significant transaction costs or unknown liabilities; (vi) potential litigation and/or regulatory action relating to the proposed acquisition; (vii) the risk that the anticipated benefits of the proposed acquisition may not be fully realized or may take longer to realize than expected; (viii) the impacts of legislative, regulatory, economic, competitive or technological changes; (ix) QXO’s ability to finance the proposed acquisition; (x) unknown liabilities and uncertainties regarding general economic, market sector, competitive, legal, regulatory, tax and geopolitical conditions; and (xi) those risks and uncertainties set forth in QXO’s and TopBuild’s filings with the Securities and Exchange Commission (the “SEC”), including each company’s Annual Report on Form 10-K for the year ended December 31, 2025 and any subsequent Quarterly Reports on Form 10-Q.
+
+
+Forward-looking statements should not be relied on as predictions of future events, and these statements are not guarantees of performance or results. Forward-looking statements herein speak only as of the date each statement is made. Neither QXO nor TopBuild undertakes any obligation to update any of these statements in light of new information or future events, except to the extent required by applicable law.
+
+
+**No Offer or Solicitation**
+
+
+This communication does not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval, nor shall there be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended.
+
+
+**Important Information for Investors and Stockholders**
+
+
+In connection with the proposed acquisition, QXO has filed a registration statement on Form S-4 (File No.333-295973 ) with the SEC containing a prospectus of QXO that also constitutes a joint proxy statement of each of QXO and TopBuild. The registration statement, as amended, was declared effective by the SEC on May 29, 2026. Each of QXO and TopBuild commenced mailing copies of the definitive joint proxy statement/prospectus to stockholders of QXO and TopBuild, respectively, on or about May 29, 2026. QXO and TopBuild may also file other documents with the SEC regarding the proposed acquisition. This communication is not a substitute for the joint proxy statement/prospectus or registration statement or for any other document that QXO or TopBuild has filed or may file with the SEC in connection with the proposed acquisition. INVESTORS AND SECURITY HOLDERS OF QXO AND TOPBUILD ARE URGED TO READ THE JOINT PROXY STATEMENT/PROSPECTUS AND OTHER DOCUMENTS THAT ARE FILED OR WILL BE FILED WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION. Investors and security holders are able to obtain free copies of the joint proxy statement/prospectus and other documents filed with the SEC by QXO or TopBuild through the website maintained by the SEC at[http://www.sec.gov](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.sec.gov&esheet=54547849&newsitemid=20260604806003&lan=en-US&anchor=http%3A%2F%2Fwww.sec.gov&index=1&md5=46afe4fe9417e3b18aa758e6f58c3204) . Copies of the documents filed with the SEC by QXO are available free of charge on QXO’s website at[https://investors.qxo.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Finvestors.qxo.com&esheet=54547849&newsitemid=20260604806003&lan=en-US&anchor=https%3A%2F%2Finvestors.qxo.com&index=2&md5=c4806cc3d0c828d15924199396b74e34) and copies of the documents filed with the SEC by TopBuild are available free of charge on TopBuild’s website at[https://www.topbuild.com/investors](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.topbuild.com%2Finvestors&esheet=54547849&newsitemid=20260604806003&lan=en-US&anchor=https%3A%2F%2Fwww.topbuild.com%2Finvestors&index=3&md5=28af1d868a0b7270ebd60a55005e3a12) . Additionally, copies may be obtained by contacting the investor relations departments of QXO or TopBuild.
+
+
+**Participants in the Solicitation**
+
+
+QXO and certain of its directors and executive officers may be deemed to be participants in the solicitation of proxies from QXO’s stockholders in connection with the proposed acquisition. Information regarding QXO’s directors and its executive officers, including a description of their direct or indirect interests, by security holdings or otherwise, can be found under the captions “Security Ownership of Certain Beneficial Owners and Management,” “Executive Compensation,” and “Director Compensation” contained in QXO’s definitive proxy statement on Schedule 14A for QXO’s 2026 annual meeting of stockholders, which was filed with the SEC on[March 24, 2026](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.sec.gov%2Fix%3Fdoc%3D%2FArchives%2Fedgar%2Fdata%2F0001236275%2F000110465926033501%2Ftm267778-6_def14a.htm&esheet=54547849&newsitemid=20260604806003&lan=en-US&anchor=March+24%2C+2026&index=4&md5=a97f8c04411513b73aff9d778fef7359) . To the extent holdings of QXO’s securities by its directors or executive officers have changed since the applicable “as of” date described in its 2026 proxy statement, such changes will be reflected on Statements of Beneficial Ownership on Form 4 filed with the SEC.
+
+
+TopBuild and certain of its directors and executive officers may be deemed to be participants in the solicitation of proxies from TopBuild’s stockholders in connection with the proposed acquisition. Information regarding TopBuild’s directors and its executive officers, including a description of their direct or indirect interests, by security holdings or otherwise, can be found under the captions “Common Stock Ownership of Officers, Directors and Significant Shareholders,” “Compensation Committee Report,” and “Director Compensation” contained in TopBuild’s definitive proxy statement on Schedule 14A for TopBuild’s 2026 annual meeting of stockholders, which was filed with the SEC on[March 17, 2026](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.sec.gov%2Fix%3Fdoc%3D%2FArchives%2Fedgar%2Fdata%2F0001633931%2F000110465926028939%2Fbld-20260427xdef14a.htm&esheet=54547849&newsitemid=20260604806003&lan=en-US&anchor=March+17%2C+2026&index=5&md5=da213efc4b50a261acb792505bd59772) . To the extent holdings of TopBuild’s securities by its directors or executive officers have changed since the applicable “as of” date described in its 2026 proxy statement, such changes will be reflected on Statements of Beneficial Ownership on Form 4 filed with the SEC.
+
+
+The information regarding the interests of such participants in the solicitation of proxies in respect of the proposed acquisition is included in the registration statement and joint proxy statement/prospectus and may also be included in other relevant materials filed with the SEC.
+
+
+**QXO Contacts:**
+
+
+**M** **edia**
+Joe Checkler
+joe.checkler@qxo.com
+203-609-9650
+
+
+**Investors**
+Mark Manduca
+mark.manduca@qxo.com
+203-321-3889
+
+
+**TopBuild Contacts:**
+
+
+**M** **edia**
+FTI Consulting
+Pat Tucker
+pat.tucker@fticonsulting.com
+
+
+**Investors**
+PI Aquino
+pi.aquino@topbuild.com
+386-763-8801
+
+
+Source: QXO, Inc

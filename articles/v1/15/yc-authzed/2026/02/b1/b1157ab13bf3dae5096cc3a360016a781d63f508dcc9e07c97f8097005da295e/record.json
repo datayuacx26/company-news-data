@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1157ab13bf3dae5096cc3a360016a781d63f508dcc9e07c97f8097005da295e",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/policy-engines-for-ai-agents",
+    "canonical": "https://authzed.com/blog/policy-engines-for-ai-agents"
+  },
+  "title": "Policy Engines for AI Agents",
+  "summary": "Policy engines are being pitched as the solution for AI agent authorization, but they fall short in dynamic, relationship-heavy environments. Jake Moshenko breaks down why relationship-based access control is a better fit as we start treating AI agents more like people than scripts.",
+  "published_at": "2026-02-17T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:54:21.606053+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2026/02/b1/b1157ab13bf3dae5096cc3a360016a781d63f508dcc9e07c97f8097005da295e/article.md",
+    "record": "articles/v1/15/yc-authzed/2026/02/b1/b1157ab13bf3dae5096cc3a360016a781d63f508dcc9e07c97f8097005da295e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18397,
+    "sha256": "sha256:11250767f6e80685c22ee8719a645c13f01946535a434a443c1382d2f3644b40",
+    "normalized_content_hash": "sha256:757c834f323816590f83ced3d3409dad32e4602eef42e5f312a6e9977d4fb963"
+  },
+  "provenance": {
+    "source_item_id": "46010055-179f-4436-999e-aeff5b8e90ce",
+    "external_id": "https://authzed.com/blog/policy-engines-for-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "655d19c1cb95af91159c22e9dbbca247e1664acdb7383baf37c1276e7ee8104d",
+  "company": {
+    "key": "yc-avion",
+    "name": "Avion"
+  },
+  "source": {
+    "id": "yc-avion-news-import-c56ea26cdb69",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.avionmedical.com.au/post/moose-is-a-cutting-edge-data-centric-ai-solution-for-total-body-research",
+    "canonical": "https://www.avionmedical.com.au/post/moose-is-a-cutting-edge-data-centric-ai-solution-for-total-body-research"
+  },
+  "title": "MOOSE is a cutting-edge, data-centric AI solution for Total-Body research",
+  "summary": "Built on the robust nn-UNet framework, MOOSE can identify 120 unique tissue classes from whole-body 18F-FDG PET/CT images, accepting inputs as either combined PET/CT images or CT-only images.MOOSE offers a wide range of segmentation models catering to various clinical and preclinical needs: • Lungs • Organs • Body • Ribs • Muscles • Peripheral bones • All bones • Fat • Vertebrae • Cardiac • Digestive • Brain • LegsHarness the full potential of total-body PET with MOOSE.Enquire now",
+  "published_at": "2024-09-13T04:12:28.116+00:00",
+  "first_seen_at": "2026-08-09T19:33:56.454744+00:00",
+  "fetched_at": "2026-08-09T19:33:58.487003+00:00",
+  "last_updated_at": "2026-08-19T20:59:42.970619+00:00",
+  "paths": {
+    "article": "articles/v1/36/yc-avion/2024/09/65/655d19c1cb95af91159c22e9dbbca247e1664acdb7383baf37c1276e7ee8104d/article.md",
+    "record": "articles/v1/36/yc-avion/2024/09/65/655d19c1cb95af91159c22e9dbbca247e1664acdb7383baf37c1276e7ee8104d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1203,
+    "sha256": "sha256:1b6c4e0ee83846230c464e104807d1a08fc5cf2960f03cf369333a01075f16c0",
+    "normalized_content_hash": "sha256:48c399507363304f19391926c1b11de6f8299265c45e18e041fa5fb6f282fba4"
+  },
+  "provenance": {
+    "source_item_id": "53d6e800-57c3-416a-b567-0d3f78edc94e",
+    "external_id": "https://www.avionmedical.com.au/post/moose-is-a-cutting-edge-data-centric-ai-solution-for-total-body-research"
+  }
+}

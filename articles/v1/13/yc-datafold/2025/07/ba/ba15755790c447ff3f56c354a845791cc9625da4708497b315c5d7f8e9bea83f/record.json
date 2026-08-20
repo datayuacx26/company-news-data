@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba15755790c447ff3f56c354a845791cc9625da4708497b315c5d7f8e9bea83f",
+  "company": {
+    "key": "yc-datafold",
+    "name": "Datafold"
+  },
+  "source": {
+    "id": "yc-datafold-news-import-e233b68116ce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.datafold.com/blog/stored-procedure-migration-slicer/",
+    "canonical": "https://www.datafold.com/blog/stored-procedure-migration-slicer/"
+  },
+  "title": "The Slicer vs. The Kraken: What we built to migrate a 300K-character stored procedure",
+  "summary": "When a 300,000-character stored procedure broke the limits of legacy tools and even conventional LLMs, we built the Slicer—which analyzes procedural structure to identify logical boundaries, track variable scope, and preserve dependencies. Learn how Datafold’s Migration Agent delivers complex migrations faster and at a fraction of the cost.",
+  "published_at": "2025-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:54:32.907441+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T02:04:06.597886+00:00",
+  "paths": {
+    "article": "articles/v1/13/yc-datafold/2025/07/ba/ba15755790c447ff3f56c354a845791cc9625da4708497b315c5d7f8e9bea83f/article.md",
+    "record": "articles/v1/13/yc-datafold/2025/07/ba/ba15755790c447ff3f56c354a845791cc9625da4708497b315c5d7f8e9bea83f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5776,
+    "sha256": "sha256:49ddd7ee126e70584a32fb73c7eda8a591f6f49d413e1484c45cd6e286045d0c",
+    "normalized_content_hash": "sha256:9deb7df46be0c31b84a0779bdf7de366f67f799802ef216d815d01267a56d554"
+  },
+  "provenance": {
+    "source_item_id": "71cd94f3-bf88-405e-9822-29414429341a",
+    "external_id": "https://www.datafold.com/blog/stored-procedure-migration-slicer/"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "broadcom-inc-common-stock",
+    "name": "Broadcom Inc."
+  },
+  "record_count": 56,
+  "first_published_at": "2026-04-30T17:25:08+00:00",
+  "last_published_at": "2026-08-17T13:00:09+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 26
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/12/broadcom-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57594,
+        "sha256": "sha256:c9a78df927023b01c8572713591c78a3ce1e0e2550f58b2475391bf426182503",
+        "newest_at": "2026-08-17T13:00:09+00:00",
+        "oldest_at": "2026-05-14T15:55:54+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/12/broadcom-inc-common-stock/index/pages/000002.json",
+        "record_count": 6,
+        "byte_count": 6893,
+        "sha256": "sha256:0c85a55db004f46f2b4642b8fc17907e22652754ec8b53953fdf0e76ec15120e",
+        "newest_at": "2026-05-13T09:00:00+00:00",
+        "oldest_at": "2026-04-30T17:25:08+00:00"
+      }
+    ]
+  }
+}

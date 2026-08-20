@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a41e40a8c8b3ce086899793aa39be6403c199647a19ed380c7af2b83e59cb3b6",
+  "company": {
+    "key": "yc-bitrise",
+    "name": "Bitrise"
+  },
+  "source": {
+    "id": "yc-bitrise-news-import-b747fb40f1b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitrise.io/blog/post/open-source-registries-are-changing-how-bitrise-keeps-your-builds-running",
+    "canonical": "https://bitrise.io/blog/post/open-source-registries-are-changing-how-bitrise-keeps-your-builds-running"
+  },
+  "title": "Open source registries are changing: Here's how Bitrise keeps your builds running",
+  "summary": "Maven Central began rate limiting CI platforms, causing 429 errors to hit some Android builds in late April. Here's what Bitrise did to fix it, and why your builds are actually faster now because of it.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:43:06.304736+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-05T23:03:29.361427+00:00",
+  "paths": {
+    "article": "articles/v1/3b/yc-bitrise/2026/05/a4/a41e40a8c8b3ce086899793aa39be6403c199647a19ed380c7af2b83e59cb3b6/article.md",
+    "record": "articles/v1/3b/yc-bitrise/2026/05/a4/a41e40a8c8b3ce086899793aa39be6403c199647a19ed380c7af2b83e59cb3b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6136,
+    "sha256": "sha256:2495bf3ce62bf9d6c417957c171c7174013b11feb6a504f46a07a07820831924",
+    "normalized_content_hash": "sha256:e69c3fe850016cbb347fa98ce3588885550beb290dd4e025904df42a7e5aaa1c"
+  },
+  "provenance": {
+    "source_item_id": "411e82fd-b1dd-4018-a693-77841e655b5b",
+    "external_id": "https://bitrise.io/blog/post/open-source-registries-are-changing-how-bitrise-keeps-your-builds-running"
+  }
+}

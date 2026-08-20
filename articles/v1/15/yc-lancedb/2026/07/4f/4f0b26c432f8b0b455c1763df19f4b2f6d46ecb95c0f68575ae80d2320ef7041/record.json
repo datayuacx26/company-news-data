@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f0b26c432f8b0b455c1763df19f4b2f6d46ecb95c0f68575ae80d2320ef7041",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/smart-parsing-meets-sharp-retrieval-combining-liteparse-and-lancedb",
+    "canonical": "https://www.lancedb.com/blog/smart-parsing-meets-sharp-retrieval-combining-liteparse-and-lancedb"
+  },
+  "title": "Smart Parsing Meets Sharp Retrieval: Combining LiteParse and LanceDB",
+  "summary": "Build a structure-aware PDF QA agent with LiteParse, LanceDB, and Claude to answer complex questions over visually rich documents.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/4f/4f0b26c432f8b0b455c1763df19f4b2f6d46ecb95c0f68575ae80d2320ef7041/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/4f/4f0b26c432f8b0b455c1763df19f4b2f6d46ecb95c0f68575ae80d2320ef7041/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27199,
+    "sha256": "sha256:7d672c0e4a642c6b4bf160369161ef5bd4a69ae4ec86aa3d53cc7c83f6a210b8",
+    "normalized_content_hash": "sha256:f33bc034049411d652dd5544dce3d6cd7781dd95bba562888fb73512516e55d2"
+  },
+  "provenance": {
+    "source_item_id": "f3a0faa2-b71f-4e35-b3f4-6eb5d998cb3a",
+    "external_id": "https://www.lancedb.com/blog/smart-parsing-meets-sharp-retrieval-combining-liteparse-and-lancedb"
+  }
+}

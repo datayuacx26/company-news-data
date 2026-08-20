@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdb589d44bb436bbb9a27634caaecd3fef1e5abfded5f1d0e612d00cb612cc17",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/how-should-i-log-while-using-multiprocessing-in-python",
+    "canonical": "https://signoz.io/guides/how-should-i-log-while-using-multiprocessing-in-python"
+  },
+  "title": "How to Log Effectively When Using Multiprocessing in Python - A Guide",
+  "summary": "Learn how to implement effective logging in Python multiprocessing applications using QueueHandler and QueueListener, with best practices.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.453736+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/bd/bdb589d44bb436bbb9a27634caaecd3fef1e5abfded5f1d0e612d00cb612cc17/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/bd/bdb589d44bb436bbb9a27634caaecd3fef1e5abfded5f1d0e612d00cb612cc17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33688,
+    "sha256": "sha256:2f4c43d67b52ce099d35e7266c5fdef853f94251053eb590a9698445ca872169",
+    "normalized_content_hash": "sha256:6e92dcf9aed0d86342dd21eef29913417b0f95b06954ba5fecfd101482a661c3"
+  },
+  "provenance": {
+    "source_item_id": "5abc2482-366a-4f5c-8998-014b0f6b1da6",
+    "external_id": "https://signoz.io/guides/how-should-i-log-while-using-multiprocessing-in-python"
+  }
+}

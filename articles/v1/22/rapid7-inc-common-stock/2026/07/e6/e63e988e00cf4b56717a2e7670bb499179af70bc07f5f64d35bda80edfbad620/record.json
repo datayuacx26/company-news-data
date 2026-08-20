@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e63e988e00cf4b56717a2e7670bb499179af70bc07f5f64d35bda80edfbad620",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/ra-check-point-smartconsole-authentication-bypass-technical-analysis-cve-2026-16232",
+    "canonical": "https://www.rapid7.com/blog/post/ra-check-point-smartconsole-authentication-bypass-technical-analysis-cve-2026-16232"
+  },
+  "title": "Rapid7 Analysis: Check Point SmartConsole Authentication Bypass (CVE-2026-16232)",
+  "summary": "Root cause technical analysis of CVE-2026-16232, an authentication bypass in the SmartConsole login process affecting Check Point Security Management Server and Multi-Domain Security Management Server (MDS).",
+  "published_at": "2026-07-28T18:32:03+00:00",
+  "first_seen_at": "2026-07-28T20:02:40.937572+00:00",
+  "fetched_at": "2026-07-28T20:31:35.420648+00:00",
+  "last_updated_at": "2026-08-18T12:19:51.704171+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/e6/e63e988e00cf4b56717a2e7670bb499179af70bc07f5f64d35bda80edfbad620/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/e6/e63e988e00cf4b56717a2e7670bb499179af70bc07f5f64d35bda80edfbad620/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18317,
+    "sha256": "sha256:7395c3940481f5fb7237d8862bb84d57f590ff64493e8c8db610f7b5a0e25d34",
+    "normalized_content_hash": "sha256:e4f2907514a67810a833a0a0f12762e10ede54eb23c030a9817aeb92328b77f8"
+  },
+  "provenance": {
+    "source_item_id": "ac5d86f4-2b51-4a0d-914d-fc917871007a",
+    "external_id": "blt4939ca52fbe3c44f"
+  }
+}

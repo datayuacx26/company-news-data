@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "868a5672ad7ee9165337b33539db1b17e0d9c13691b5d80e06ace6ab818190c1",
+  "company": {
+    "key": "yc-osmosis",
+    "name": "Osmosis"
+  },
+  "source": {
+    "id": "yc-osmosis-news-import-de01a8838bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://osmosis.ai/blogs/training-thousands-of-lora-adapters-at-once",
+    "canonical": "https://osmosis.ai/blogs/training-thousands-of-lora-adapters-at-once"
+  },
+  "title": "Training Thousands of LoRA Adapters at Once",
+  "summary": "What if we could share the same base model between policies, and just fine-tune different LoRA adapters in a single batch? This is cleaner and solves scalability: we can keep one base model, route tokens to different LoRA adapters, and have the training/inference stack treat LoRA adapters as cheap concurrent policies rather than separate model replicas.",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:22:44.798253+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T19:56:56.890048+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-osmosis/2026/06/86/868a5672ad7ee9165337b33539db1b17e0d9c13691b5d80e06ace6ab818190c1/article.md",
+    "record": "articles/v1/21/yc-osmosis/2026/06/86/868a5672ad7ee9165337b33539db1b17e0d9c13691b5d80e06ace6ab818190c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20603,
+    "sha256": "sha256:d42d4b53f5c1a891269e8a2bac2fb634936475a8a43c8b88ac1ce72b56b42a9a",
+    "normalized_content_hash": "sha256:a3769c4b15c5726ac2135383672a55b57569539bc1904a910b841db8762da445"
+  },
+  "provenance": {
+    "source_item_id": "cc2cf7ba-f803-4b4a-a2a0-b4692fa1ab48",
+    "external_id": "https://osmosis.ai/blogs/training-thousands-of-lora-adapters-at-once"
+  }
+}

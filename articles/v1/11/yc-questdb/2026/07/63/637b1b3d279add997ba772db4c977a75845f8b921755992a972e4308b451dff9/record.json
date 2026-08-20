@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "637b1b3d279add997ba772db4c977a75845f8b921755992a972e4308b451dff9",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/cmov-vs-branch-perf/",
+    "canonical": "https://questdb.com/blog/cmov-vs-branch-perf/"
+  },
+  "title": "The Most Expensive Instruction Might Be… cmov",
+  "summary": "A trip through HotSpot's C2 branch-to-cmov heuristic: it measures branch bias, not predictability, and in a tight loop that mismatch is worth up to 2.9x.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/07/63/637b1b3d279add997ba772db4c977a75845f8b921755992a972e4308b451dff9/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/07/63/637b1b3d279add997ba772db4c977a75845f8b921755992a972e4308b451dff9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15589,
+    "sha256": "sha256:a1edc9f14eb90c7e3cfdd99ab37ab425be6140462232784bc89eaef27f962424",
+    "normalized_content_hash": "sha256:2db2f26717b3a4375cc13a33be7540528c48b9127f0f484322f0566750730c76"
+  },
+  "provenance": {
+    "source_item_id": "847ae2ed-3d3d-4827-9c3f-5856f0682ac8",
+    "external_id": "https://questdb.com/blog/cmov-vs-branch-perf/"
+  }
+}

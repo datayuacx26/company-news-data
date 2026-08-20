@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "d3df981b1db7c74261925c65a51cbae948eae20cc5519bed2ad207153ccbe7c0"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/docs/ai/use-cases/noz-incident-triage"
+published_at: "2026-06-26T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-24T14:59:04.261318+00:00"
+content_hash: "sha256:26a2750b3f7dafa052f18b4862a3f39274ad27264255695c60f5f9e9f6aa1f69"
+---
+
+# Investigate What Changed After a Deploy with Noz
+
+When errors or latency jump after a release, ask Noz what changed. It compares the windows before and after the deploy and points you at the regression.

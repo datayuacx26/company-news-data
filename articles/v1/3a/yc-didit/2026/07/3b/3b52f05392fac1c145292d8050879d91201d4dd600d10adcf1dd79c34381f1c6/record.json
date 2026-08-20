@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b52f05392fac1c145292d8050879d91201d4dd600d10adcf1dd79c34381f1c6",
+  "company": {
+    "key": "yc-didit",
+    "name": "Didit"
+  },
+  "source": {
+    "id": "yc-didit-news-import-d47711ec305c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://didit.me/blog/mrz-machine-readable-zone-technical-guide/",
+    "canonical": "https://didit.me/blog/mrz-machine-readable-zone-technical-guide/"
+  },
+  "title": "MRZ Explained: Machine Readable Zone Technical Guide",
+  "summary": "Learn how the Machine Readable Zone (MRZ) encodes TD1, TD2, and TD3 travel documents, calculates check digits, and differs from an NFC chip.",
+  "published_at": "2026-07-28T18:39:37.640+00:00",
+  "first_seen_at": "2026-07-29T00:27:47.387739+00:00",
+  "fetched_at": "2026-07-29T00:27:49.458663+00:00",
+  "last_updated_at": "2026-08-01T10:08:31.085816+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-didit/2026/07/3b/3b52f05392fac1c145292d8050879d91201d4dd600d10adcf1dd79c34381f1c6/article.md",
+    "record": "articles/v1/3a/yc-didit/2026/07/3b/3b52f05392fac1c145292d8050879d91201d4dd600d10adcf1dd79c34381f1c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21079,
+    "sha256": "sha256:26038a4331016a9e81e8e4dbb05c8999185506232dec5677c71842f6766f36f6",
+    "normalized_content_hash": "sha256:6728eff169ca2f5616dbef5cd2715f6cdb3c8091fcb23fa08fd5d00c838b2c8e"
+  },
+  "provenance": {
+    "source_item_id": "2e6bb142-35ea-4e3b-9310-ed2306c3ee32",
+    "external_id": "https://didit.me/blog/mrz-machine-readable-zone-technical-guide/"
+  }
+}

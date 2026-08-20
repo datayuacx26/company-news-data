@@ -1,0 +1,61 @@
+---
+schema_version: "1.0.0"
+document_id: "841649d3390654079ab9ad09dff257cf91da7c7f3d61ec2ec339fcf78952ec76"
+company_key: "hongli-group-inc-ordinary-shares"
+company: "Hongli Group Inc."
+source_id: "hongli-group-inc-ordinary-shares-news-import-7b3b38be7289"
+canonical_url: "https://www.globenewswire.com/news-release/2023/03/31/2639024/0/en/hongli-group-inc-announces-closing-of-us-8-25-million-initial-public-offering.html"
+published_at: "2023-03-31T20:10:00+00:00"
+first_seen_at: "2026-08-09T23:08:25.971502+00:00"
+fetched_at: "2026-08-09T23:08:27.956794+00:00"
+content_hash: "sha256:5990b5cc1dc8559a94c3531b07e4bb934e5a32f1d44320c8a56e4d77f6adcd80"
+---
+
+# Hongli Group Inc. Announces Closing of US$8.25 Million Initial Public Offering
+
+WEIFANG, CHINA, March 31, 2023 (GLOBE NEWSWIRE) -- Hongli Group Inc. (the "Company") (NASDAQ: HLP) today announced the closing of its initial public offering (the "Offering") of 2,062,500 ordinary shares (the "Ordinary Shares") at a public offering price of $4.00 per share for total gross proceeds of $8.25 million before deducting underwriting discounts and offering expenses. The Company is a holding company that, through a series of contractual arrangements, consolidates the financial results of Shandong Hongli Special Section Tube Co., Ltd. and its subsidiaries, which is one of the leading cold roll formed steel profile manufacturers in China with respect to function innovation, performance improvement, and customized manufacturing of the products, according to China Sub-Association for Cold Formed Steel Industries, a professional industrial association.
+
+
+The Offering was conducted on a firm commitment basis. In addition, the Company has granted the underwriters an option, exercisable within 45 days from the effective date of the Company’s registration statement on Form F-1 (File No. 333-261945), as amended, in connection with the Offering (the “Registration Statement”), to purchase up to an additional 309,375 Ordinary Shares at the public offering price, less underwriting discounts and commissions, to cover over-allotment, if any. The Offering closed on March 31, 2023 and the Ordinary Shares began trading on March 29, 2023 on The Nasdaq Capital Market under the ticker symbol "HLP."
+
+
+EF Hutton, division of Benchmark Investments, LLC acted as sole book-running manager for the offering. Robinson & Cole LLP acted as U.S. securities counsel to the Company, and Nelson Mullins Riley & Scarborough LLP acted as counsel to the underwriters. East & Concord Partners acted as China counsel to the Company. ARC Group Limited served as financial advisor to the Company.
+
+
+The Registration Statement has been filed with the Securities and Exchange Commission ("SEC") and was declared effective by the SEC on March 28, 2023. The Offering was made only by means of a prospectus. Copies of the final prospectus relating to the Offering may be obtained from EF Hutton, Attn: Syndicate Department, 590 Madison Avenue, 39th Floor, New York, NY 10022, or via email at syndicate@efhuttongroup.com or telephone at (212) 404-7002. In addition, a copy of the prospectus relating to the Offering may be obtained via the SEC's website at www.sec.gov.
+
+
+This press release shall not constitute an offer to sell or the solicitation of an offer to buy the securities described herein, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+
+
+**About Hongli Group Inc**
+
+
+Hongli Group Inc. is a Cayman Islands holding company with no operation on its own. The Company, through a series of contractual arrangements, consolidates the financial results of Shandong Hongli Special Section Tube Co., Ltd. and its subsidiaries (collectively, the “VIE”). The VIE is one of the leading cold roll formed steel profile manufacturers with operating subsidiaries in China. The VIE designs, customizes and manufactures cold roll formed steel profiles for machineries and equipment in a variety of sectors, including but not limited to mining and excavation, construction, agriculture and transportation. The VIE has over 20 years operating history, with customers in more than 30 cities in China and a global network with South Korea, Japan, U.S. and Sweden. The VIE currently has 11 lines of cold roll forming production lines and produces a variety of distinct profile products in a broad range of materials, sizes and shapes.
+
+
+**Forward-Looking Statement**
+
+
+*This press release contains forward-looking statements. Forward-looking statements include statements concerning plans, objectives, goals, strategies, future events or performance, and underlying assumptions and other statements that are other than statements of historical facts. When the Company uses words such as "may,” "will,” "intend," "should," "believe," "expect," "anticipate," "project," "estimate," “continue” or similar expressions that do not relate solely to historical matters, it is making forward-looking statements. Forward-looking statements are not guarantees of future performance and involve risks and uncertainties that may cause the actual results to differ materially from the Company's expectations discussed in the forward-looking statements. These statements are subject to uncertainties and risks including, but not limited to, the uncertainties related to market conditions and other factors discussed in the “Risk Factors” section of the Registration Statement filed with the SEC. For these reasons, among others, investors are cautioned not to place undue reliance upon any forward-looking statements in this press release. Additional factors are discussed in the Company's filings with the SEC, which are available for review at www.sec.gov. The Company undertakes no obligation to publicly revise these forward-looking statements to reflect events or circumstances that arise after the date hereof.*
+
+
+**For more information, please contact:**
+
+
+***Company Info:***
+
+
+**Hongli Group Inc.**
+
+
+Ms. Haining Wang
+
+
+Email: ir@hongli-profile.com
+
+
+Mobile: +86-13721971703 (from China)
+
+
++1-281-250-4349 (from U.S.)

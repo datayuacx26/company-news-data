@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c94891323cfde56463df42540c578206bc5109dcad86b0562a0f3770d2c7cc6d",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/query-planner-early-benchmarks",
+    "canonical": "https://authzed.com/blog/query-planner-early-benchmarks"
+  },
+  "title": "Query Planner Early Benchmarks",
+  "summary": "Early benchmarks of the SpiceDB query planner across four schema scenarios and multiple datastore backends, showing where the new planner already outperforms the current dispatch implementation.",
+  "published_at": "2026-05-20T14:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:50:36.289404+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2026/05/c9/c94891323cfde56463df42540c578206bc5109dcad86b0562a0f3770d2c7cc6d/article.md",
+    "record": "articles/v1/15/yc-authzed/2026/05/c9/c94891323cfde56463df42540c578206bc5109dcad86b0562a0f3770d2c7cc6d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17265,
+    "sha256": "sha256:ffaf919802b8c838d197536197e900e58e1dae860d82f900fd2a12733df68295",
+    "normalized_content_hash": "sha256:3c98cdaed645c33a4f6f9b77bb82272a6676d12225daabbb6830325657133925"
+  },
+  "provenance": {
+    "source_item_id": "e1236d30-2a05-4b38-979a-590c772589a7",
+    "external_id": "https://authzed.com/blog/query-planner-early-benchmarks"
+  }
+}

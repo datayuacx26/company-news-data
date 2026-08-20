@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d743b417c1b2b762db4caf59a5795a1926831d5ea9ce72254c59f50b1bc1e04",
+  "company": {
+    "key": "yc-browser-use",
+    "name": "Browser Use"
+  },
+  "source": {
+    "id": "yc-browser-use-news-import-3219c37ba697",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
+    "canonical": "https://browser-use.com/posts/two-ways-to-sandbox-agents"
+  },
+  "title": "How We Built Secure, Scalable Agent Sandbox Infrastructure",
+  "summary": "From AWS Lambda to Unikraft micro-VMs with a control plane architecture.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:46:29.258885+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-05T22:23:19.106136+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-browser-use/2026/02/0d/0d743b417c1b2b762db4caf59a5795a1926831d5ea9ce72254c59f50b1bc1e04/article.md",
+    "record": "articles/v1/10/yc-browser-use/2026/02/0d/0d743b417c1b2b762db4caf59a5795a1926831d5ea9ce72254c59f50b1bc1e04/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8205,
+    "sha256": "sha256:1250bf6e8140f15f806372c2a2688e0bb0b473bc338b68a6780efc01b2736adf",
+    "normalized_content_hash": "sha256:9014a9c98c31ad7a3b98d6125b87138a97e79024f21ea2016acf97b3089a831c"
+  },
+  "provenance": {
+    "source_item_id": "d2c44cbe-a889-40e9-b43f-e79b6ae011e7",
+    "external_id": "https://browser-use.com/posts/two-ways-to-sandbox-agents"
+  }
+}

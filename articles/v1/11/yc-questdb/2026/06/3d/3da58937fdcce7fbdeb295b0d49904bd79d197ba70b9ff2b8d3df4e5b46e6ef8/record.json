@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3da58937fdcce7fbdeb295b0d49904bd79d197ba70b9ff2b8d3df4e5b46e6ef8",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/",
+    "canonical": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/"
+  },
+  "title": "Lies, Damn Lies and Database Benchmarks",
+  "summary": "We tweak one fair-but-different thing in each ClickBench scenario and watch the hot-run rankings reshuffle, a reminder to read benchmarks closely.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/06/3d/3da58937fdcce7fbdeb295b0d49904bd79d197ba70b9ff2b8d3df4e5b46e6ef8/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/06/3d/3da58937fdcce7fbdeb295b0d49904bd79d197ba70b9ff2b8d3df4e5b46e6ef8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22228,
+    "sha256": "sha256:2a35233735822ed81fc4378cc57847f9067629d1abd41265c9ecdb3907975010",
+    "normalized_content_hash": "sha256:30a2f6539c753511a7b9347ee4ccc53395d491502cbd16ccb81740993553edc7"
+  },
+  "provenance": {
+    "source_item_id": "b33be9cf-079e-46e0-9dc8-926f7062dfba",
+    "external_id": "https://questdb.com/blog/lies-damn-lies-and-database-benchmarks/"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-eloquent-ai",
+    "name": "Eloquent AI"
+  },
+  "record_count": 7,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-08",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/20/yc-eloquent-ai/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 6825,
+        "sha256": "sha256:6fe4b750f37748745041fb8659d3e343f1714b6b8b93eab1532d7394ec0ff043",
+        "newest_at": "2026-08-09T21:46:28.182720+00:00",
+        "oldest_at": "2026-08-09T21:46:28.182720+00:00"
+      }
+    ]
+  }
+}

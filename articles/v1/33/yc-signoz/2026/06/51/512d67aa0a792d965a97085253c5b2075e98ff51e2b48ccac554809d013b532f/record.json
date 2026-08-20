@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "512d67aa0a792d965a97085253c5b2075e98ff51e2b48ccac554809d013b532f",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/rabbitmq-monitoring",
+    "canonical": "https://signoz.io/blog/rabbitmq-monitoring"
+  },
+  "title": "101 Guide to RabbitMQ Metrics Monitoring",
+  "summary": "RabbitMQ monitoring in 2026: collect queue and node metrics with the OpenTelemetry Collector and track them in SigNoz. Key metrics and setup guide.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.558006+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/51/512d67aa0a792d965a97085253c5b2075e98ff51e2b48ccac554809d013b532f/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/51/512d67aa0a792d965a97085253c5b2075e98ff51e2b48ccac554809d013b532f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16986,
+    "sha256": "sha256:de75c7f6430dfa83136339754aed510fc3961acdd9168135495a042989d06651",
+    "normalized_content_hash": "sha256:96d22c5153dd508010d2b99c79101d5b6a0dee26b108b6478c5aba0157a75884"
+  },
+  "provenance": {
+    "source_item_id": "7291f861-d8af-4212-9d38-e1aaa06a633a",
+    "external_id": "https://signoz.io/blog/rabbitmq-monitoring"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8867561aab3e8e719554c1ab0f8bbc4cefd18b054ba0882746e31661cd98f67",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/generating-infrastructure-as-code-from-existing-cloud-resources",
+    "canonical": "https://www.massdriver.cloud/blogs/generating-infrastructure-as-code-from-existing-cloud-resources"
+  },
+  "title": "Generating Infrastructure-as-Code From Existing Cloud Resources",
+  "summary": "Generating OpenTofu or Terraform from existing cloud resources is a tedious process fraught with gotchas. It's not a silver bullet for click-ops debt. This post will discuss caveats of tools and different approaches to generating IaC.",
+  "published_at": "2024-04-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:43:35.035955+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2024/04/f8/f8867561aab3e8e719554c1ab0f8bbc4cefd18b054ba0882746e31661cd98f67/article.md",
+    "record": "articles/v1/38/yc-massdriver/2024/04/f8/f8867561aab3e8e719554c1ab0f8bbc4cefd18b054ba0882746e31661cd98f67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19631,
+    "sha256": "sha256:3f8e4c6fd63546e0a1d3c16851ddd789a6eb2712ed69b7d8158481b9aca22182",
+    "normalized_content_hash": "sha256:b629085f04bb78c607a564474cac2a35f2660567f4d73dc0a2fd2ab5207e97ab"
+  },
+  "provenance": {
+    "source_item_id": "50c3d6e8-a7e2-47f0-bbbc-55206f743bff",
+    "external_id": "https://www.massdriver.cloud/blogs/generating-infrastructure-as-code-from-existing-cloud-resources"
+  }
+}

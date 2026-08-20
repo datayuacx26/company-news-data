@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "386c837cbbd24cbac0fd676f81b1289bd03d6bfa0972af9685cf443b58d418f0",
+  "company": {
+    "key": "yc-loops",
+    "name": "Loops"
+  },
+  "source": {
+    "id": "yc-loops-news-import-7f2c6ba5f1f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://loops.so/engineering/migrating-to-aws-in-production-with-zero-downtime",
+    "canonical": "https://loops.so/engineering/migrating-to-aws-in-production-with-zero-downtime"
+  },
+  "title": "Migrating to AWS in production with zero downtime",
+  "summary": "How Loops migrated from Vercel and Supabase to AWS EKS and Aurora Postgres over six months with zero downtime and a gradual traffic cutover.",
+  "published_at": "2025-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:57:10.497635+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T03:00:21.395884+00:00",
+  "paths": {
+    "article": "articles/v1/2a/yc-loops/2025/07/38/386c837cbbd24cbac0fd676f81b1289bd03d6bfa0972af9685cf443b58d418f0/article.md",
+    "record": "articles/v1/2a/yc-loops/2025/07/38/386c837cbbd24cbac0fd676f81b1289bd03d6bfa0972af9685cf443b58d418f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11167,
+    "sha256": "sha256:408952c7e7ec052b771749b54bc9cdb4a68cfd8e5709f391763ec677197c6280",
+    "normalized_content_hash": "sha256:088f86d2b7309b98fabe4f6f8d92fa68568bfc45902d5dded23f4c7f5ddf2fc8"
+  },
+  "provenance": {
+    "source_item_id": "79bc1cc9-878c-48fc-a092-d09c30e3edc4",
+    "external_id": "https://loops.so/engineering/migrating-to-aws-in-production-with-zero-downtime"
+  }
+}

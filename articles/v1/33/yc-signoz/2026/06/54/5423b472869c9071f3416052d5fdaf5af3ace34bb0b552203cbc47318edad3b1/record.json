@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5423b472869c9071f3416052d5fdaf5af3ace34bb0b552203cbc47318edad3b1",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/comparisons/opentelemetry-collector-vs-agent",
+    "canonical": "https://signoz.io/comparisons/opentelemetry-collector-vs-agent"
+  },
+  "title": "OpenTelemetry Collector vs Agent - Key Differences Explained",
+  "summary": "A complete guide to the OpenTelemetry Collector: agent vs. gateway patterns, YAML configuration, tail sampling, and production best practices.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:48:25.229040+00:00",
+  "last_updated_at": "2026-07-28T20:48:42.907180+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/54/5423b472869c9071f3416052d5fdaf5af3ace34bb0b552203cbc47318edad3b1/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/54/5423b472869c9071f3416052d5fdaf5af3ace34bb0b552203cbc47318edad3b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20821,
+    "sha256": "sha256:c2dfe8755e8cb07e6521e2339c70e929b5cf9d22d32df3f03d654b1c72eeee53",
+    "normalized_content_hash": "sha256:2864f807ab0332e5220cf07468390a9945251f3aa771488a3d0b6ef4461de151"
+  },
+  "provenance": {
+    "source_item_id": "ff1f9197-9e65-49f6-9e8f-848a0278af6a",
+    "external_id": "https://signoz.io/comparisons/opentelemetry-collector-vs-agent"
+  }
+}

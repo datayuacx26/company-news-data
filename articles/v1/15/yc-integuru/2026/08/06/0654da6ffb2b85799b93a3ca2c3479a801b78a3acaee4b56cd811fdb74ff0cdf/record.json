@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0654da6ffb2b85799b93a3ca2c3479a801b78a3acaee4b56cd811fdb74ff0cdf",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/edge-cases-production-account-states",
+    "canonical": "https://www.integuru.com/blog/edge-cases-production-account-states"
+  },
+  "title": "How Integuru Handles Edge Cases Across Real Account States in Production",
+  "summary": "Most integrations break in production not from errors but from account-state variation developers never saw in testing. Here's how Integuru discovers and covers branching logic across real account states.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T21:05:06.493354+00:00",
+  "fetched_at": "2026-08-11T21:05:08.330548+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/08/06/0654da6ffb2b85799b93a3ca2c3479a801b78a3acaee4b56cd811fdb74ff0cdf/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/08/06/0654da6ffb2b85799b93a3ca2c3479a801b78a3acaee4b56cd811fdb74ff0cdf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10948,
+    "sha256": "sha256:4f63a4399ee3db036a683780a853259168f42fabfc9bc8fe0c53e4ce0e707533",
+    "normalized_content_hash": "sha256:3782714b7d905e8ffc7e80240a069ea60d497d7d452ee876c6645d4e3a00873f"
+  },
+  "provenance": {
+    "source_item_id": "50efb023-e8fa-4154-9795-1542b0a0d4c8",
+    "external_id": "https://www.integuru.com/blog/edge-cases-production-account-states"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "beam-therapeutics-inc-common-stock",
+    "name": "Beam Therapeutics Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-02-24T12:00:34+00:00",
+  "last_published_at": "2026-08-04T11:00:30+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3e/beam-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 15726,
+        "sha256": "sha256:099a5c428f58947980690bbca80eed93ecfc7c4480f561eb5fc1707785fe672f",
+        "newest_at": "2026-08-04T11:00:30+00:00",
+        "oldest_at": "2026-02-24T12:00:34+00:00"
+      }
+    ]
+  }
+}

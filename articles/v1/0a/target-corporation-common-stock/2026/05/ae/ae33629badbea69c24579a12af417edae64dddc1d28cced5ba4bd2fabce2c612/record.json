@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae33629badbea69c24579a12af417edae64dddc1d28cced5ba4bd2fabce2c612",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/targets-new-shopping-cart",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/targets-new-shopping-cart"
+  },
+  "title": "Designed with Guests in Mind — Target’s Reimagined Shopping Cart",
+  "summary": "Learn more about Target’s new shopping cart, the Series 3, sustainably designed with guests in mind.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-08-13T00:02:06.744365+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/ae/ae33629badbea69c24579a12af417edae64dddc1d28cced5ba4bd2fabce2c612/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/ae/ae33629badbea69c24579a12af417edae64dddc1d28cced5ba4bd2fabce2c612/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4590,
+    "sha256": "sha256:3c1d863766a62a1714de0821e1aeab984bffd2896e2303d6c8c97ec7037ad564",
+    "normalized_content_hash": "sha256:da94a93c8cc46ac9fe19ee4ee6927cc975b4d00a0d98d68da8747f9dcb11aeb9"
+  },
+  "provenance": {
+    "source_item_id": "826095fa-7d08-4332-8909-50f80d01a225",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/targets-new-shopping-cart"
+  }
+}

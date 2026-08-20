@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0d55810d17417a08c2e755c5c27a35146a6731ef5623b8a50356ab66ca00f2f",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/how-we-built-realtime",
+    "canonical": "https://trigger.dev/blog/how-we-built-realtime"
+  },
+  "title": "How we built a real-time service that handles 20,000 updates per second",
+  "summary": "We process 20,000 run updates per second and 500GB of data daily using Postgres replication slots and ElectricSQL. Here's why we chose this over WebSockets and how we solved the hard problems of authentication, rate limiting, and caching.",
+  "published_at": "2025-07-17T10:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:26:40.243460+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2025/07/c0/c0d55810d17417a08c2e755c5c27a35146a6731ef5623b8a50356ab66ca00f2f/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2025/07/c0/c0d55810d17417a08c2e755c5c27a35146a6731ef5623b8a50356ab66ca00f2f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9987,
+    "sha256": "sha256:194546cfd0a3a3dc3cd02c371941a598ca495fb9d88ede153924b7ef2283b959",
+    "normalized_content_hash": "sha256:c90a7e5e0e31cc8fa0591449c71c77578434e3377c0f40c47312514724e6d15c"
+  },
+  "provenance": {
+    "source_item_id": "1202bcc6-c86b-4dd8-a2da-0838132105cc",
+    "external_id": "https://trigger.dev/blog/how-we-built-realtime"
+  }
+}

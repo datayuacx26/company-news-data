@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a1150d4b5e234ddfda0eec16b39c819eb6f19a8a08d4e03a438867632344e48",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/08/team-and-communities-recap",
+    "canonical": "https://corporate.target.com/news-features/article/2026/08/team-and-communities-recap"
+  },
+  "title": "Team Target: Strengthening Communities All Year Long",
+  "summary": "Team Target volunteers work alongside local organizations to create meaningful impact all year long in the 2,000 communities where we live and work.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T15:11:47.568772+00:00",
+  "fetched_at": "2026-08-18T15:11:49.058093+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/2a/2a1150d4b5e234ddfda0eec16b39c819eb6f19a8a08d4e03a438867632344e48/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/2a/2a1150d4b5e234ddfda0eec16b39c819eb6f19a8a08d4e03a438867632344e48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7474,
+    "sha256": "sha256:2b22682924275d0733bf8627b32544f793105eb166647beabe09359b4e187feb",
+    "normalized_content_hash": "sha256:817ddd26e8e907369371e59a21f45b44ebe8df60ba3758dc88bf5a25bd312581"
+  },
+  "provenance": {
+    "source_item_id": "35182fd4-3c4b-4560-aa62-232706bd9e02",
+    "external_id": "https://corporate.target.com/news-features/article/2026/08/team-and-communities-recap"
+  }
+}

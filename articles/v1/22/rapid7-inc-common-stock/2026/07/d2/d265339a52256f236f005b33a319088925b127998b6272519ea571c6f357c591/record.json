@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d265339a52256f236f005b33a319088925b127998b6272519ea571c6f357c591",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/etr-cve-2026-16232-critical-check-point-smartconsole-authentication-bypass-exploited-in-the-wild",
+    "canonical": "https://www.rapid7.com/blog/post/etr-cve-2026-16232-critical-check-point-smartconsole-authentication-bypass-exploited-in-the-wild"
+  },
+  "title": "CVE-2026-16232: Critical Check Point SmartConsole Authentication Bypass Exploited in the Wild",
+  "summary": "On July 22, 2026, Check Point published a security advisory for multiple vulnerabilities affecting Security Management, Multi-Domain Management, and firewall products. The most urgent of these is CVE-2026-16232, an authentication bypass in the SmartConsole login process classified as improper authentication (CWE-287). CVE-2026-16232 has been assigned a critical CVSS score of 9.1. The vulnerability allows an unauthenticated remote attacker to obtain an application login token and authenticate to the management server with full administrative privileges, enabling modification of security policies and configurations.",
+  "published_at": "2026-07-23T11:57:30+00:00",
+  "first_seen_at": "2026-07-23T12:55:29.361431+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-08-11T19:44:30.435204+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/d2/d265339a52256f236f005b33a319088925b127998b6272519ea571c6f357c591/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/d2/d265339a52256f236f005b33a319088925b127998b6272519ea571c6f357c591/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7790,
+    "sha256": "sha256:b5363195f77203449d6cc076fa14dcec924fc0d8c98eb1d1cd2f3ece6be4ff58",
+    "normalized_content_hash": "sha256:4fe52a5ae2b99562e4f552691044df35489a4cc187f48b6a9d3479a9c081da47"
+  },
+  "provenance": {
+    "source_item_id": "73ee5cd6-50f6-4bb2-b2c0-e73f5f81575e",
+    "external_id": "blt5f866d03a6c8c994"
+  }
+}

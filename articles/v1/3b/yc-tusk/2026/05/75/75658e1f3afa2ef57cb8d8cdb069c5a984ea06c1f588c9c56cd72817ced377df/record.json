@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75658e1f3afa2ef57cb8d8cdb069c5a984ea06c1f588c9c56cd72817ced377df",
+  "company": {
+    "key": "yc-tusk",
+    "name": "Tusk"
+  },
+  "source": {
+    "id": "yc-tusk-news-import-c7466264c659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usetusk.ai/resources/how-metricwire-catches-api-regressions-with-tusk-drift",
+    "canonical": "https://www.usetusk.ai/resources/how-metricwire-catches-api-regressions-with-tusk-drift"
+  },
+  "title": "How Metricwire Catches API Regressions Before Merge With Tusk Drift",
+  "summary": "See how Metricwire's clinical research platform uses Tusk Drift to catch API contract drift during development by replaying production traffic––with PII redacted––against every PR.",
+  "published_at": "2026-05-22T17:22:58.426+00:00",
+  "first_seen_at": "2026-07-26T03:20:25.565537+00:00",
+  "fetched_at": "2026-07-28T22:12:57.660175+00:00",
+  "last_updated_at": "2026-08-20T00:26:06.656026+00:00",
+  "paths": {
+    "article": "articles/v1/3b/yc-tusk/2026/05/75/75658e1f3afa2ef57cb8d8cdb069c5a984ea06c1f588c9c56cd72817ced377df/article.md",
+    "record": "articles/v1/3b/yc-tusk/2026/05/75/75658e1f3afa2ef57cb8d8cdb069c5a984ea06c1f588c9c56cd72817ced377df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4595,
+    "sha256": "sha256:0c477b7dc0287772bda9295fbad18a8159adb811bc320c548a6302dfc76ba060",
+    "normalized_content_hash": "sha256:1c42d41ecdd4dbe1805992ef16352a32719856a305adfb83f4cdfd9c48d12286"
+  },
+  "provenance": {
+    "source_item_id": "137c4d66-29be-44f4-bd15-f504edd2ecb8",
+    "external_id": "https://www.usetusk.ai/resources/how-metricwire-catches-api-regressions-with-tusk-drift"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9de385d9017d380c65695b35bd8aa89a21f495c65203636e2b0f67f69343198b",
+  "company": {
+    "key": "yc-didit",
+    "name": "Didit"
+  },
+  "source": {
+    "id": "yc-didit-news-import-d47711ec305c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://didit.me/blog/llm-distillation-defense-identity/",
+    "canonical": "https://didit.me/blog/llm-distillation-defense-identity/"
+  },
+  "title": "The Hydra Account Problem: Why Distillation Defense Starts With Identity Resolution",
+  "summary": "Anthropic reported 16M exchanges via ~24,000 fraudulent accounts. Adversarial distillation is a coordinated-access problem. Where identity resolution fits.",
+  "published_at": "2026-08-04T14:51:59.780+00:00",
+  "first_seen_at": "2026-08-04T18:58:29.118711+00:00",
+  "fetched_at": "2026-08-04T20:28:10.240209+00:00",
+  "last_updated_at": "2026-08-18T06:25:35.909030+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-didit/2026/08/9d/9de385d9017d380c65695b35bd8aa89a21f495c65203636e2b0f67f69343198b/article.md",
+    "record": "articles/v1/3a/yc-didit/2026/08/9d/9de385d9017d380c65695b35bd8aa89a21f495c65203636e2b0f67f69343198b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17507,
+    "sha256": "sha256:e80f60732586ff6b3017e5d3a922329c27be5b42c955f3847dbfeef370d21d4f",
+    "normalized_content_hash": "sha256:35c2394043232c7fab0dcf0e7a601205f49eb743c078810134be30bd65ceb683"
+  },
+  "provenance": {
+    "source_item_id": "385f272d-8a7b-4992-8c38-8d324bab6800",
+    "external_id": "https://didit.me/blog/llm-distillation-defense-identity/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e39efaeedf2753f6444f5860e8db2df23a2fe559895d188ee09c504ce4b7e389",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/simulating-multi-agent-workflows-to-find-hidden-api-vulnerabilities/",
+    "canonical": "https://speedscale.com/blog/simulating-multi-agent-workflows-to-find-hidden-api-vulnerabilities/"
+  },
+  "title": "Simulating Multi-Agent Workflows to Find Hidden API Vulnerabilities",
+  "summary": "API gateways are often viewed as the centralized entry point for client HTTP requests in a distributed system.",
+  "published_at": "2025-09-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2025/09/e3/e39efaeedf2753f6444f5860e8db2df23a2fe559895d188ee09c504ce4b7e389/article.md",
+    "record": "articles/v1/00/yc-speedscale/2025/09/e3/e39efaeedf2753f6444f5860e8db2df23a2fe559895d188ee09c504ce4b7e389/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17956,
+    "sha256": "sha256:9ea86e1c4f1e103749f6df004b014a4e84ca24196dfc871eb1f56be161e60471",
+    "normalized_content_hash": "sha256:6a5eb39f98f1ccaf2da802c08e4fe5214e8e5cdc3864553e64bed6bc203f280f"
+  },
+  "provenance": {
+    "source_item_id": "885f1574-8725-497b-a915-112e0e04e951",
+    "external_id": "https://speedscale.com/blog/simulating-multi-agent-workflows-to-find-hidden-api-vulnerabilities/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efa952823e2e063b01c0e33c82dc5b6cd5d1974ca8fcdfa78100b1e0ea489a58",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/diagnose-n-plus-one-tempo-proxymock/",
+    "canonical": "https://speedscale.com/blog/diagnose-n-plus-one-tempo-proxymock/"
+  },
+  "title": "Diagnose Serial N+1 API Calls With Tempo + proxymock",
+  "summary": "Diagnose serial N+1 API calls with Tempo and proxymock. Replay recorded traffic, inspect trace windows, and prove a concurrency fix preserves behavior.",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T00:45:43.629285+00:00",
+  "fetched_at": "2026-08-13T00:45:49.848727+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/08/ef/efa952823e2e063b01c0e33c82dc5b6cd5d1974ca8fcdfa78100b1e0ea489a58/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/08/ef/efa952823e2e063b01c0e33c82dc5b6cd5d1974ca8fcdfa78100b1e0ea489a58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21284,
+    "sha256": "sha256:ea5f2cf4412990be7a51ea2ce3ad5dc7daa29042c2606e93c43bac0dd356934d",
+    "normalized_content_hash": "sha256:3567c849c8d73a981b4c4d7c136d67cee1f682c3b0606199c5f9686d89bc6cb3"
+  },
+  "provenance": {
+    "source_item_id": "d81308bd-3810-470f-be0f-cc1a41cdecb2",
+    "external_id": "https://speedscale.com/blog/diagnose-n-plus-one-tempo-proxymock/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f6edcf280c7f24df090fd367839b02e4593dcba5f742ce7bb72b212fc202813",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/cicd-observability-with-opentelemetry",
+    "canonical": "https://signoz.io/blog/cicd-observability-with-opentelemetry"
+  },
+  "title": "CI/CD Observability with OpenTelemetry - A Step by Step Guide",
+  "summary": "Instrument your CI/CD pipelines with OpenTelemetry. A step-by-step guide to capturing GitHub Actions data via the Collector.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/0f/0f6edcf280c7f24df090fd367839b02e4593dcba5f742ce7bb72b212fc202813/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/0f/0f6edcf280c7f24df090fd367839b02e4593dcba5f742ce7bb72b212fc202813/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12864,
+    "sha256": "sha256:6176e9abe65caa3185e41b6c7ed0675c4bd4b24fa750a0116ea583e99bb74f09",
+    "normalized_content_hash": "sha256:008aabf93dd0897134248ca15ec106ec0b0a87ebc040ca889d268719d75ea5e1"
+  },
+  "provenance": {
+    "source_item_id": "59ce0baf-9d53-4e21-ad82-25d6ca944953",
+    "external_id": "https://signoz.io/blog/cicd-observability-with-opentelemetry"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c91a2873b79f5466678b67a2e1a5273cfc4cc8fc476a7a8b4ca8aea96e5e434e",
+  "company": {
+    "key": "yc-infracost",
+    "name": "Infracost"
+  },
+  "source": {
+    "id": "yc-infracost-news-import-5e947f59e679",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.infracost.io/resources/blog/infracost-cli-v2-now-reads-cloudformation",
+    "canonical": "https://www.infracost.io/resources/blog/infracost-cli-v2-now-reads-cloudformation"
+  },
+  "title": "Estimate CloudFormation costs before you deploy",
+  "summary": "Estimate CloudFormation and CDK costs before you deploy. Infracost CLI prices templates locally — no credentials leave your machine.",
+  "published_at": "2026-06-29T23:13:00+00:00",
+  "first_seen_at": "2026-07-23T11:56:51.837513+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T00:23:11.048076+00:00",
+  "paths": {
+    "article": "articles/v1/36/yc-infracost/2026/06/c9/c91a2873b79f5466678b67a2e1a5273cfc4cc8fc476a7a8b4ca8aea96e5e434e/article.md",
+    "record": "articles/v1/36/yc-infracost/2026/06/c9/c91a2873b79f5466678b67a2e1a5273cfc4cc8fc476a7a8b4ca8aea96e5e434e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5896,
+    "sha256": "sha256:69e814aa6478e64321b7625fa442c33e24312c61a20ea1725b895b3b09034f4f",
+    "normalized_content_hash": "sha256:93d9d812e47b5fa51d91e45b2399b9acbb646711518e3011e0d4a74aac5af062"
+  },
+  "provenance": {
+    "source_item_id": "6eb5a860-7531-4057-92d7-f80ca12aa72d",
+    "external_id": "https://www.infracost.io/resources/blog/infracost-cli-v2-now-reads-cloudformation"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "amer-sports-inc-ordinary-shares",
+    "name": "Amer Sports Inc."
+  },
+  "record_count": 4,
+  "first_published_at": "2026-06-24T11:17:35+00:00",
+  "last_published_at": "2026-08-19T07:41:09+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/11/amer-sports-inc-ordinary-shares/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4647,
+        "sha256": "sha256:f9f5cfcad3e28cd89b114582263195b2f15510ee3450e0edb988caa5b91a5c3d",
+        "newest_at": "2026-08-19T07:41:09+00:00",
+        "oldest_at": "2026-06-24T11:17:35+00:00"
+      }
+    ]
+  }
+}

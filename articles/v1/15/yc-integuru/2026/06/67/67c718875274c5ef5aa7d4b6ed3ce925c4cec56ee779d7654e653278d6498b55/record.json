@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67c718875274c5ef5aa7d4b6ed3ce925c4cec56ee779d7654e653278d6498b55",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/integuru-vs-puppeteer",
+    "canonical": "https://www.integuru.com/blog/integuru-vs-puppeteer"
+  },
+  "title": "Integuru vs. Puppeteer: Which Is Right for Production Integrations?",
+  "summary": "Puppeteer controls a headless browser. Integuru calls backend endpoints directly over HTTP. For production integrations with third-party platforms, the architecture is the decision. A fair comparison of both tools across latency, reliability, scale, an...",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.948739+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/67/67c718875274c5ef5aa7d4b6ed3ce925c4cec56ee779d7654e653278d6498b55/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/67/67c718875274c5ef5aa7d4b6ed3ce925c4cec56ee779d7654e653278d6498b55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15950,
+    "sha256": "sha256:74c14c224d051bf3d627fef6b0a35e500fb3f4e542ae49e2ad772463b715df13",
+    "normalized_content_hash": "sha256:6336889796ac90a4423fb913991a17d85952a771583e59eb492561e6e4e1fd5a"
+  },
+  "provenance": {
+    "source_item_id": "79bca517-4b6f-4b32-be81-283fef53bbe0",
+    "external_id": "https://www.integuru.com/blog/integuru-vs-puppeteer"
+  }
+}

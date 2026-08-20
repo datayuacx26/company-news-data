@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b63db89c043461d783a48375024cdce9321d49c83e28817b4c035237a74ad7a",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/custom-skills",
+    "canonical": "https://replit.com/blog/custom-skills"
+  },
+  "title": "Customize Replit Agent with Skills & Custom Instructions",
+  "summary": "Every team has conventions. How you structure a project. How you handle secrets. Your design system, your testing standards, your code style. The problem: AI Agents don’t know your conventions. So you explain it again on every prompt, paste in your standards doc, or just hope someone remembered to add the context. It is one of those small frictions that compounds quietly until you are spending more time re-teaching the Agent than actually building. Today we're launching Agent Customization: a way to give Replit Agent the context it needs to work the way you or your team actually works, across all projects. It has two parts: Custom Instructions and Skills. Custom Instructions Custom Instructions are always-on guidelines injected automatically into the agent's context on every project, every session, before anyone types a single word. Write them once, and the Agent applies them to every project in the workspace, automatically. If you want the Agent to not commit secrets to version control, always use TypeScript strict mode, or follow your company's data handling policy — that goes in Custom Instructions. You don't ask each time. It just knows.",
+  "published_at": "2026-06-10T22:09:14.601+00:00",
+  "first_seen_at": "2026-07-23T23:34:32.089077+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T20:16:15.956370+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/06/1b/1b63db89c043461d783a48375024cdce9321d49c83e28817b4c035237a74ad7a/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/06/1b/1b63db89c043461d783a48375024cdce9321d49c83e28817b4c035237a74ad7a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8218,
+    "sha256": "sha256:68071c736192c9627f210cb370e27c7d19e2553484013967a568136d98851bf8",
+    "normalized_content_hash": "sha256:38598e026888d77fd506834cc239d64797cef1843e3bdcd2314d5a362876a1f6"
+  },
+  "provenance": {
+    "source_item_id": "05e98aec-2bef-4c34-b63c-c68ffd4beefa",
+    "external_id": "https://replit.com/blog/custom-skills"
+  }
+}

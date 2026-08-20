@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b856a120e482d60c5df5ed2a01a6905f7153a6dac7fbc79da129eb75be1e11e5",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/userguide/span-details",
+    "canonical": "https://signoz.io/docs/userguide/span-details"
+  },
+  "title": "Trace Details",
+  "summary": "Visualize and analyze individual traces using the flamegraph, waterfall chart, and span inspection tools in SigNoz.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/b8/b856a120e482d60c5df5ed2a01a6905f7153a6dac7fbc79da129eb75be1e11e5/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/b8/b856a120e482d60c5df5ed2a01a6905f7153a6dac7fbc79da129eb75be1e11e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 619,
+    "sha256": "sha256:31b5ba0d550c71ee7dfbb0cafca11440f0ffa4b69aa3c4f9866f202de090edc0",
+    "normalized_content_hash": "sha256:9794713a2c765b73dba85b1a3c262666ef19232451c52351894a507eb52a7e07"
+  },
+  "provenance": {
+    "source_item_id": "bebcbca5-98c7-46cc-ae27-0135cf8db2f4",
+    "external_id": "https://signoz.io/docs/userguide/span-details"
+  }
+}

@@ -1,0 +1,363 @@
+---
+schema_version: "1.0.0"
+document_id: "2f7d6eca851ac0ab4ae9b3e8c0b622e6236a9bf438400a9a9b30c2408f64d3fa"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/guides/how-to-monitor-docker-containers-with-prometheus-and-grafana"
+published_at: "2026-06-29T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T21:08:50.237722+00:00"
+content_hash: "sha256:1764cdad12f5c5e9ae1583bbdbb2ee877c51110f6cc7a0f8b3d41279c88eea61"
+---
+
+# Docker Monitoring - Prometheus and Grafana Setup Guide
+
+# Docker Monitoring - Prometheus and Grafana Setup Guide
+
+
+Published on: August 01, 2024
+
+
+Last Updated: June 29, 2026
+
+
+6 min read
+
+
+Docker containers have revolutionized application deployment, but they've also introduced new challenges in monitoring and performance management. This guide will walk you through the process of setting up Prometheus and Grafana to monitor your Docker containers, offering insights into performance metrics and helping you maintain a healthy containerized environment.
+
+
+## Why Monitor Docker Containers?
+
+
+Monitoring Docker containers is crucial for several reasons:
+
+
+1. **Resource Optimization** : Track CPU, memory, and disk usage to ensure efficient resource allocation.
+2. **Performance Insights** : Gain real-time visibility into container performance, helping you identify bottlenecks and optimize your applications.
+3. **Troubleshooting** : Quickly pinpoint issues in your containerized environment, reducing downtime and improving overall system reliability.
+4. **Capacity Planning** : Use historical data to forecast resource needs and plan for future growth.
+
+
+Effective monitoring allows you to maintain a healthy, efficient Docker environment — crucial for organizations relying on containerized applications.
+
+
+## Setting Up Prometheus for Docker Monitoring
+
+
+To begin monitoring your Docker containers with Prometheus, follow these steps:
+
+
+1. Create a[Prometheus configuration](https://signoz.io/guides/what-is-prometheus-target/) file (prometheus.yml):
+
+
+```text
+global  :
+scrape_interval  :   15s
+
+
+scrape_configs  :
+-    job_name  :    'prometheus'
+static_configs  :
+-    targets  :    [  'localhost:9090'  ]
+
+
+-    job_name  :    'docker'
+static_configs  :
+-    targets  :    [  '172.17.0.1:9323'  ]
+
+
+```
+
+
+1. Run Prometheus in a Docker container:
+
+
+```text
+docker   run  -d    --name   prometheus  \  \
+-p    9090  :9090  \  \
+-v   /path/to/prometheus.yml:/etc/prometheus/prometheus.yml  \  \
+prom/prometheus
+
+
+```
+
+
+This configuration tells Prometheus to scrape its own metrics and Docker metrics from the host.
+
+
+### Integrating cAdvisor with Prometheus
+
+
+To collect more detailed container metrics, we'll use cAdvisor (Container Advisor). cAdvisor provides container users with an understanding of the resource usage and performance characteristics of their running containers.
+
+
+1. Run cAdvisor:
+
+
+```text
+docker   run  -d    --name   cadvisor  \  \
+--volume  =  /:/rootfs:ro  \  \
+--volume  =  /var/run:/var/run:ro  \  \
+--volume  =  /sys:/sys:ro  \  \
+--volume  =  /var/lib/docker/:/var/lib/docker:ro  \  \
+--volume  =  /dev/disk/:/dev/disk:ro  \  \
+--publish  =  8080  :8080  \  \
+--detach  =  true  \  \
+--name  =  cadvisor  \  \
+google/cadvisor:latest
+
+
+```
+
+
+1. Update your prometheus.yml to include cAdvisor:
+
+
+```text
+scrape_configs  :
+# ... previous configs ...
+-    job_name  :    'cadvisor'
+static_configs  :
+-    targets  :    [  '172.17.0.1:8080'  ]
+
+
+```
+
+
+Restart Prometheus to apply the changes. Now, Prometheus will collect detailed metrics from your Docker containers via cAdvisor.
+
+
+## Configuring Grafana for Docker Visualization
+
+
+With Prometheus collecting metrics, let's set up Grafana to visualize this data:
+
+
+1. Run Grafana in a Docker container:
+
+
+```text
+docker   run  -d    --name   grafana  \  \
+-p    3000  :3000  \  \
+grafana/grafana
+
+
+```
+
+
+1. Access Grafana at[http://localhost:3000](http://localhost:3000/) (default credentials: admin/admin).
+2. Add Prometheus as a data source:
+
+
+- Go to Configuration > Data Sources
+- Click "Add data source" and select Prometheus
+- Set the URL to[http://172.17.0.1:9090](http://172.17.0.1:9090/) (Docker host IP)
+- Click "Save & Test"
+
+
+3. Create a new dashboard:
+
+
+- Click the "+" icon in the sidebar and select "Dashboard"
+- Add a new panel
+- In the query editor, you can now use PromQL to visualize Docker metrics
+
+
+Here's a simple PromQL query to get you started:
+
+
+```text
+container_cpu_usage_seconds_total {  name =  ~  ".+"  }
+
+
+```
+
+
+This query shows CPU usage for all containers.
+
+
+### Advanced Grafana Dashboard Techniques
+
+
+To create more dynamic and useful dashboards:
+
+
+1. Use variables for flexibility:
+
+
+- Create a variable for container names
+- Use this variable in your queries to easily switch between containers
+
+
+2. Set up alerting:
+
+
+- Define thresholds for important metrics
+- Configure Grafana to send notifications when these thresholds are breached
+
+
+3. Organize your dashboards:
+
+
+- Group related panels together
+- Use consistent naming conventions
+- Share dashboards with your team for collaborative monitoring
+
+
+## Monitoring Docker Container Logs with Loki
+
+
+While metrics provide valuable insights, logs offer context. Loki, a log aggregation system designed to work with Grafana, complements our monitoring setup:
+
+
+1. Run Loki:
+
+
+```text
+docker   run  -d    --name   loki  \  \
+-p    3100  :3100  \  \
+grafana/loki
+
+
+```
+
+
+1. Configure Docker to send logs to Loki:
+
+
+- Update your[Docker daemon](https://signoz.io/guides/docker-daemon-logs/) configuration to use the Loki logging driver
+- Restart the Docker daemon to apply changes
+
+
+2. In Grafana, add Loki as a data source and create log visualization panels alongside your metric panels for comprehensive monitoring.
+
+
+## Automating the Setup Process
+
+
+To simplify deployment and ensure consistency, use Docker Compose to orchestrate your monitoring stack. Create a docker-compose.yml file:
+
+
+```text
+version  :    '3'
+services  :
+prometheus  :
+image  :   prom/prometheus
+volumes  :
+-   ./prometheus.yml :  /etc/prometheus/prometheus.yml
+ports  :
+-    "9090:9090"
+
+
+grafana  :
+image  :   grafana/grafana
+ports  :
+-    "3000:3000"
+
+
+cadvisor  :
+image  :   google/cadvisor
+volumes  :
+-   / :  /rootfs :  ro
+-   /var/run :  /var/run :  ro
+-   /sys :  /sys :  ro
+-   /var/lib/docker/ :  /var/lib/docker :  ro
+-   /dev/disk/ :  /dev/disk :  ro
+ports  :
+-    "8080:8080"
+
+
+loki  :
+image  :   grafana/loki
+ports  :
+-    "3100:3100"
+
+
+```
+
+
+Run the entire stack with:
+
+
+```text
+docker-compose   up  -d
+
+
+```
+
+
+This approach simplifies management and ensures your monitoring setup is consistent across environments.
+
+
+## Key Takeaways
+
+
+- Prometheus and Grafana provide a powerful, open-source solution for Docker monitoring
+- Proper container monitoring is crucial for maintaining healthy microservices architectures
+- Integration of metrics and logs offers comprehensive insights into Docker environments
+- Automation and best practices are key to maintaining an effective monitoring solution
+
+
+## FAQs
+
+
+### What are the system requirements for running Prometheus and Grafana?
+
+
+Prometheus and Grafana are relatively lightweight. A small to medium-sized deployment can run on a system with 2-4 CPU cores and 4-8GB of RAM. However, requirements may increase with the number of metrics and retention period.
+
+
+### Can I monitor Docker containers across multiple hosts?
+
+
+Yes, you can monitor containers across multiple hosts by configuring Prometheus to scrape metrics from multiple targets. You may need to use service discovery or a more advanced configuration for larger deployments.
+
+
+### How often should I collect metrics from Docker containers?
+
+
+The default scrape interval in Prometheus is 15 seconds, which is suitable for most use cases. Adjust this based on your specific needs — more frequent scraping provides higher resolution data but increases resource usage.
+
+
+### Is it possible to monitor Docker Swarm or Kubernetes with this setup?
+
+
+While this setup focuses on standalone Docker containers, it can be adapted for Docker Swarm or Kubernetes. Both platforms have specific exporters and configurations that allow for more comprehensive monitoring of orchestrated environments.
+
+
+## Visualizing Prometheus Metrics with SigNoz
+
+
+An OpenTelemetry-native alternative: instead of running Prometheus, Grafana, and Loki as three separate systems, you can collect Docker container metrics and logs with the[OpenTelemetry Collector](https://signoz.io/blog/opentelemetry-collector-complete-guide/) (using its host-metrics and Docker-stats receivers) and send everything to a single backend like SigNoz. That covers metrics, logs, and traces in one pipeline rather than a stack you assemble and maintain yourself.
+
+
+While Grafana is a popular choice for visualizing Prometheus metrics,[SigNoz](https://signoz.io/docs/introduction/) offers a more integrated solution. SigNoz combines metrics, traces, and logs in a single platform, providing a comprehensive observability solution.
+
+
+To get started with SigNoz:
+
+
+SigNoz Cloud is the easiest way to run SigNoz.[Sign up](https://signoz.io/teams/) for a free account and get 30 days of unlimited access to all features.
+
+
+You can also install and self-host SigNoz yourself since it is open-source. With 24,000+ GitHub stars,[open-source SigNoz](https://github.com/signoz/signoz) is loved by developers. Find the[instructions](https://signoz.io/docs/install/) to self-host SigNoz.
+
+
+SigNoz offers both cloud and open-source versions, giving you flexibility in your monitoring setup. Experience the ease of modern observability with SigNoz and take your monitoring to the next level. It also provides advanced querying capabilities and custom dashboard creation, similar to Grafana.
+
+
+Whether you choose Grafana or SigNoz, visualizing your[Prometheus metrics](https://signoz.io/guides/what-are-the-4-types-of-metrics-in-prometheus/) is a crucial step in understanding and optimizing your systems' performance. Start exploring your metrics today and unlock the power of data-driven decision making.
+
+
+If you liked this blog, feel free to checkout other similar write-ups:
+
+
+- [Kubernetes monitoring best practices](https://signoz.io/guides/kubernetes-monitoring-best-practices/)
+- [Prometheus vs Grafana](https://signoz.io/comparisons/prometheus-vs-grafana/)
+- [OpenTelemetry vs Prometheus](https://signoz.io/blog/opentelemetry-vs-prometheus/)
+- [container monitoring](https://signoz.io/guides/container-monitoring/)
+- [Loki vs Prometheus](https://signoz.io/blog/loki-vs-prometheus/)
+- [Kubernetes monitoring tools](https://signoz.io/blog/kubernetes-monitoring-tools/)
+- [infrastructure monitoring tools](https://signoz.io/comparisons/infrastructure-monitoring-tools/)

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2d9464001c7c0f604cbd0cd86e42b0a00d9872aa43bad435f0053fa5687705d",
+  "company": {
+    "key": "everpure-inc",
+    "name": "Everpure Inc."
+  },
+  "source": {
+    "id": "everpure-inc-rss-a7fca946ec64",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.everpuredata.com/purely-technical/building-a-gpu-native-data-path-for-pure-kva/",
+    "canonical": "https://blog.everpuredata.com/purely-technical/building-a-gpu-native-data-path-for-pure-kva/"
+  },
+  "title": "Building a GPU-Native Data Path for Pure KVA",
+  "summary": "Pure KVA accelerates scalable LLM inference by efficiently reloading KV caches with NVIDIA GPUDirect Storage, CUDA scatter kernels, and lease-managed GPU staging buffers.",
+  "published_at": "2026-08-18T13:00:00+00:00",
+  "first_seen_at": "2026-08-18T14:56:55.255720+00:00",
+  "fetched_at": "2026-08-18T14:56:57.826681+00:00",
+  "last_updated_at": "2026-08-20T00:39:37.875410+00:00",
+  "paths": {
+    "article": "articles/v1/0c/everpure-inc/2026/08/f2/f2d9464001c7c0f604cbd0cd86e42b0a00d9872aa43bad435f0053fa5687705d/article.md",
+    "record": "articles/v1/0c/everpure-inc/2026/08/f2/f2d9464001c7c0f604cbd0cd86e42b0a00d9872aa43bad435f0053fa5687705d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14903,
+    "sha256": "sha256:92dcbeeec026475b230861cac6e1b4f726908473a484c09066e366a30dd556ee",
+    "normalized_content_hash": "sha256:fe2b2328119e7c1f83bd1bce85494a56b955bf6cd4233dc32850de7d6313bbc5"
+  },
+  "provenance": {
+    "source_item_id": "e62ff81d-194a-4a84-8772-52080d318d74",
+    "external_id": "https://blog.everpuredata.com/?p=191092"
+  }
+}

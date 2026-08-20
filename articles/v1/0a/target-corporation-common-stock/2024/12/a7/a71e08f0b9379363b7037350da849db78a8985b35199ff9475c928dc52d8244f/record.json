@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a71e08f0b9379363b7037350da849db78a8985b35199ff9475c928dc52d8244f",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/implementing_TLSH_based_detection",
+    "canonical": "https://tech.target.com/blog/implementing_TLSH_based_detection"
+  },
+  "title": "Implementing TLSH Based Detection to Identify Malware Variants",
+  "summary": "An article by Ryan Borre and Paul Hutelmyer : TLSH is a fuzzy hashing algorithm that focuses on identifying similarities between files.",
+  "published_at": "2024-12-03T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2024/12/a7/a71e08f0b9379363b7037350da849db78a8985b35199ff9475c928dc52d8244f/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2024/12/a7/a71e08f0b9379363b7037350da849db78a8985b35199ff9475c928dc52d8244f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13546,
+    "sha256": "sha256:05603d8997b9f65085acf1f906a7f34b982f4e21e91af19c1cab50fddab66104",
+    "normalized_content_hash": "sha256:b4be97486f1a6f4487999292c2b89d26c10a20b30a2893b8d583c64d37affdd7"
+  },
+  "provenance": {
+    "source_item_id": "75c86596-cd65-4ecb-ba71-52203f0b6d44",
+    "external_id": "BLOG-10084"
+  }
+}

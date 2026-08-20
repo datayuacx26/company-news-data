@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "diginex-limited-ordinary-shares",
+    "name": "Diginex Limited"
+  },
+  "record_count": 28,
+  "first_published_at": "2021-05-03T00:00:00+00:00",
+  "last_published_at": "2026-05-28T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0d/diginex-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 33880,
+        "sha256": "sha256:eb4ef9bd5947afdf03b95c74b5d0b0b5744d4c678096c7829d8e7166248dd80f",
+        "newest_at": "2026-08-14T00:52:56.619664+00:00",
+        "oldest_at": "2021-05-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccd199efc95d23b1a478eb5c5b88b87e507639f4eda067e811b1910716dfcfca",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-f703c271ba19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/trex-code-execution",
+    "canonical": "https://www.greptile.com/blog/trex-code-execution"
+  },
+  "title": "Building TREX: Code execution and artifact generation for AI code review",
+  "summary": "How Greptile built TREX, an execution layer for AI code review that runs code in sandboxed environments and generates multi-modal artifacts to catch runtime bugs.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.426026+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-20T02:09:10.875361+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2026/06/cc/ccd199efc95d23b1a478eb5c5b88b87e507639f4eda067e811b1910716dfcfca/article.md",
+    "record": "articles/v1/10/yc-greptile/2026/06/cc/ccd199efc95d23b1a478eb5c5b88b87e507639f4eda067e811b1910716dfcfca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10410,
+    "sha256": "sha256:18b8c427f79ee6ac200c92c51e32e2d50e16cbc0968eacfd81ddae9ba76b6b0a",
+    "normalized_content_hash": "sha256:9e38a67e617a56037fbcac6fa1dfbbebe43f9665ad7dff0645bb967a94ed2770"
+  },
+  "provenance": {
+    "source_item_id": "0e8906e9-5813-44f1-8e32-02b3bee18ec0",
+    "external_id": "https://www.greptile.com/blog/trex-code-execution"
+  }
+}

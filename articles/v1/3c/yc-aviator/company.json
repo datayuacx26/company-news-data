@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-aviator",
+    "name": "Aviator"
+  },
+  "record_count": 17,
+  "first_published_at": "2026-03-18T08:51:49+00:00",
+  "last_published_at": "2026-08-19T19:57:12+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3c/yc-aviator/index/pages/000001.json",
+        "record_count": 17,
+        "byte_count": 17302,
+        "sha256": "sha256:113b93c75f2b8ff06c4771f74b0640da6a7f3937894e7abe6c820ec96328601b",
+        "newest_at": "2026-08-19T19:57:12+00:00",
+        "oldest_at": "2026-03-18T08:51:49+00:00"
+      }
+    ]
+  }
+}

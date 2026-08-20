@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "898ac2ee4a642f2a75ff42abec4a8db0ca704dc627b20249202917fa4df4438f",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/clara-latent-reasoning",
+    "canonical": "https://machinelearning.apple.com/research/clara-latent-reasoning"
+  },
+  "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning",
+  "summary": "Retrieval-augmented generation (RAG) enhances large language models (LLMs) with external knowledge but still suffers from long contexts and…",
+  "published_at": "2024-09-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-06T08:50:57.010371+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2024/09/89/898ac2ee4a642f2a75ff42abec4a8db0ca704dc627b20249202917fa4df4438f/article.md",
+    "record": "articles/v1/3a/apple/2024/09/89/898ac2ee4a642f2a75ff42abec4a8db0ca704dc627b20249202917fa4df4438f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2731,
+    "sha256": "sha256:7a4579b183e9f8b55d7d52f8c8aefeac28bbd0afda96a2241252124cfeba3bd9",
+    "normalized_content_hash": "sha256:e6b61b9169d53fc66e2a3dd26afc06b197b5ec7a83c56a02251cd594441f3b2d"
+  },
+  "provenance": {
+    "source_item_id": "6036e911-c8dd-442f-9984-258132c6da61",
+    "external_id": "https://machinelearning.apple.com/research/clara-latent-reasoning"
+  }
+}

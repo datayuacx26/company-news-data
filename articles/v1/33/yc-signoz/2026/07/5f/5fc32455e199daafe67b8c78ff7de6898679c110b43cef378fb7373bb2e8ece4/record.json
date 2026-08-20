@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fc32455e199daafe67b8c78ff7de6898679c110b43cef378fb7373bb2e8ece4",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/distributed-tracing-span",
+    "canonical": "https://signoz.io/blog/distributed-tracing-span"
+  },
+  "title": "Spans - a key concept of distributed tracing",
+  "summary": "Spans in distributed tracing: what a span is, span context, attributes, events, and links in OpenTelemetry, and how spans form a trace. With examples.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.170090+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/5f/5fc32455e199daafe67b8c78ff7de6898679c110b43cef378fb7373bb2e8ece4/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/5f/5fc32455e199daafe67b8c78ff7de6898679c110b43cef378fb7373bb2e8ece4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11391,
+    "sha256": "sha256:07e19eb0e16c8f5b627fde85f123fef707744cdc1dc05f0059db49557496f9f6",
+    "normalized_content_hash": "sha256:afc8eb9f8fba9a7c990d07faec8cdf2fa7e3ce8cbfc42da4e3bfae157f438553"
+  },
+  "provenance": {
+    "source_item_id": "d29edf26-decf-440f-b4e6-0a30ea1bf1cd",
+    "external_id": "https://signoz.io/blog/distributed-tracing-span"
+  }
+}

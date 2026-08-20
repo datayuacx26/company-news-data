@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "046af65c0453d4381be22bdf03da822208e89a4baf30b15a3c3cf8715f2b7ec3",
+  "company": {
+    "key": "yc-didit",
+    "name": "Didit"
+  },
+  "source": {
+    "id": "yc-didit-news-import-d47711ec305c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://didit.me/blog/identity-verification-mcp-claude/",
+    "canonical": "https://didit.me/blog/identity-verification-mcp-claude/"
+  },
+  "title": "The identity verification MCP server for Claude",
+  "summary": "Evaluate Didit’s identity verification MCP server for Claude: 115 tools, OAuth 2.1 with PKCE, role enforcement, redaction, and typed risk metadata.",
+  "published_at": "2026-08-03T18:21:24+00:00",
+  "first_seen_at": "2026-08-04T05:44:56.010101+00:00",
+  "fetched_at": "2026-08-04T09:43:50.004226+00:00",
+  "last_updated_at": "2026-08-04T09:43:54.360129+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-didit/2026/08/04/046af65c0453d4381be22bdf03da822208e89a4baf30b15a3c3cf8715f2b7ec3/article.md",
+    "record": "articles/v1/3a/yc-didit/2026/08/04/046af65c0453d4381be22bdf03da822208e89a4baf30b15a3c3cf8715f2b7ec3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14212,
+    "sha256": "sha256:0bdebeaf4ea609172a67dd740c646ed604e6054e944a0528e33a688ce98bca24",
+    "normalized_content_hash": "sha256:20116d30f9cf2011720a2d377db50e8e102054f1f66cc3ea10b3afae9c5dd1f4"
+  },
+  "provenance": {
+    "source_item_id": "52f9570d-de4f-42d9-97ac-92be9972de3c",
+    "external_id": "https://didit.me/blog/identity-verification-mcp-claude/"
+  }
+}

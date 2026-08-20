@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ambition",
+    "name": "Ambition"
+  },
+  "record_count": 24,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 11
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2a/yc-ambition/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 25159,
+        "sha256": "sha256:c05d01dc0df60ebbc8dc29ccf7d72ee26c3b3ada209e9aaa81c68fdd2e8bf592",
+        "newest_at": "2026-08-19T23:08:21.628411+00:00",
+        "oldest_at": "2026-07-28T21:33:52.463534+00:00"
+      }
+    ]
+  }
+}

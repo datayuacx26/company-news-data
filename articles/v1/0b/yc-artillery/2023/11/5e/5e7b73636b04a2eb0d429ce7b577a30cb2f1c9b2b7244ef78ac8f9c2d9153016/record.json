@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e7b73636b04a2eb0d429ce7b577a30cb2f1c9b2b7244ef78ac8f9c2d9153016",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-69b75325e6e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/blog/introducing-opentelemetry-support",
+    "canonical": "https://www.artillery.io/blog/introducing-opentelemetry-support"
+  },
+  "title": "Introducing OpenTelemetry support",
+  "summary": "Metrics and traces from Artillery tests can now be sent to any monitoring and observability platform that supports OpenTelemetry.",
+  "published_at": "2023-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:55:08.009846+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-20T02:15:44.547416+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2023/11/5e/5e7b73636b04a2eb0d429ce7b577a30cb2f1c9b2b7244ef78ac8f9c2d9153016/article.md",
+    "record": "articles/v1/0b/yc-artillery/2023/11/5e/5e7b73636b04a2eb0d429ce7b577a30cb2f1c9b2b7244ef78ac8f9c2d9153016/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2815,
+    "sha256": "sha256:f70abf28bd54992db7fcf5d7ba9039214f806deaf1cfb3412002202ede1758b7",
+    "normalized_content_hash": "sha256:f7c6625690861715278dec887641df837c40ef42a4fb754c235e7e1db7da015a"
+  },
+  "provenance": {
+    "source_item_id": "e2957840-be3f-4fa7-82ba-fb30411e6081",
+    "external_id": "https://www.artillery.io/blog/introducing-opentelemetry-support"
+  }
+}

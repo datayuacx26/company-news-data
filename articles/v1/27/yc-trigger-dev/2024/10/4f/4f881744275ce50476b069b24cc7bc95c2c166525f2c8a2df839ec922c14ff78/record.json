@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f881744275ce50476b069b24cc7bc95c2c166525f2c8a2df839ec922c14ff78",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/supabase-and-trigger-dev",
+    "canonical": "https://trigger.dev/blog/supabase-and-trigger-dev"
+  },
+  "title": "Trigger anything from a database change using Supabase with Trigger.dev",
+  "summary": "Learn how to use Trigger.dev with Supabase to create event-driven workflows. We'll cover triggering tasks from Edge Functions, performing database operations, and building a video processing pipeline with AI transcription.",
+  "published_at": "2024-10-17T12:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:26:40.243460+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2024/10/4f/4f881744275ce50476b069b24cc7bc95c2c166525f2c8a2df839ec922c14ff78/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2024/10/4f/4f881744275ce50476b069b24cc7bc95c2c166525f2c8a2df839ec922c14ff78/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13102,
+    "sha256": "sha256:6d76b0836b2fd5c74dc10b1ffce90bfa35557e92ce14c002405c730d9f900418",
+    "normalized_content_hash": "sha256:58d1f622eb7b2e1ae25eaf9951a3f34c3cd3b949f032829281327b0d8f172bde"
+  },
+  "provenance": {
+    "source_item_id": "37e6b7a9-9c0a-42f9-9199-40b07e9c263e",
+    "external_id": "https://trigger.dev/blog/supabase-and-trigger-dev"
+  }
+}

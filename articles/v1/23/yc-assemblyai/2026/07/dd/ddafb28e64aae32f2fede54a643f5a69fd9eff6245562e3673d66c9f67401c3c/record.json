@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ddafb28e64aae32f2fede54a643f5a69fd9eff6245562e3673d66c9f67401c3c",
+  "company": {
+    "key": "yc-assemblyai",
+    "name": "AssemblyAI"
+  },
+  "source": {
+    "id": "yc-assemblyai-news-import-c38147bde659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.assemblyai.com/blog/lower-latency-new-pricing?ref=changelog.assemblyai.com",
+    "canonical": "https://www.assemblyai.com/blog/lower-latency-new-pricing"
+  },
+  "title": "Lower latency, lower cost, more possibilities",
+  "summary": "We’re excited to introduce major improvements to our API’s inference latency, with the majority of audio files now completing in well under 45 seconds regardless of audio duration.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T08:04:49.593567+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:37.747941+00:00",
+  "paths": {
+    "article": "articles/v1/23/yc-assemblyai/2026/07/dd/ddafb28e64aae32f2fede54a643f5a69fd9eff6245562e3673d66c9f67401c3c/article.md",
+    "record": "articles/v1/23/yc-assemblyai/2026/07/dd/ddafb28e64aae32f2fede54a643f5a69fd9eff6245562e3673d66c9f67401c3c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7330,
+    "sha256": "sha256:ae300007d94b37a4b060253404d957f4102e7a46c13ea0e558f71eb4d0281937",
+    "normalized_content_hash": "sha256:44c1bd1e2c5b12dd98f82ff52a6884afad16f53977c94bd5515c0b370c2fb01a"
+  },
+  "provenance": {
+    "source_item_id": "a78548b1-9278-4840-8a8e-e3ad43500c14",
+    "external_id": "https://www.assemblyai.com/blog/lower-latency-new-pricing"
+  }
+}

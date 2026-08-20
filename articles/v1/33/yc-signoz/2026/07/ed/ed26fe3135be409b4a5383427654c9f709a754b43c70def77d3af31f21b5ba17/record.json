@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed26fe3135be409b4a5383427654c9f709a754b43c70def77d3af31f21b5ba17",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/langflow-observability",
+    "canonical": "https://signoz.io/docs/langflow-observability"
+  },
+  "title": "Langflow Observability & Monitoring with OpenTelemetry",
+  "summary": "Set up Langflow observability with OpenTelemetry and SigNoz. Track flow and LLM traces, model calls, prompts, and token usage from your Langflow apps.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/ed/ed26fe3135be409b4a5383427654c9f709a754b43c70def77d3af31f21b5ba17/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/ed/ed26fe3135be409b4a5383427654c9f709a754b43c70def77d3af31f21b5ba17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 695,
+    "sha256": "sha256:2d28fa46bad030545e698aeb0163c01c45f44883e052f71496c578d931e3db0f",
+    "normalized_content_hash": "sha256:1a36655587e3749e0d91e87c53c45e9e67897bedceb778ff9da4f8aabfe8f0b4"
+  },
+  "provenance": {
+    "source_item_id": "63b4f878-e8ce-4528-93f3-737b7c1cbf43",
+    "external_id": "https://signoz.io/docs/langflow-observability"
+  }
+}

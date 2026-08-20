@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "759a6c62048090f3ab5e8e0f7479afabb0757faa7d252353fe41f877391673c2",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/claude-code-monitoring-with-opentelemetry",
+    "canonical": "https://signoz.io/blog/claude-code-monitoring-with-opentelemetry"
+  },
+  "title": "Bringing Observability to Claude Code: OpenTelemetry in Action",
+  "summary": "Monitor Claude Code with OpenTelemetry: export its metrics and logs over OTLP to SigNoz to track usage, token cost, and performance across your team.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.376787+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/75/759a6c62048090f3ab5e8e0f7479afabb0757faa7d252353fe41f877391673c2/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/75/759a6c62048090f3ab5e8e0f7479afabb0757faa7d252353fe41f877391673c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24198,
+    "sha256": "sha256:637943a0c98c3e63d9dd95b179fea260ed9d863ddede174fe08754e2168cbae8",
+    "normalized_content_hash": "sha256:e455eb634e3bd17d2eeefd17fe217e7fa6a168cb615f5f94a4be189d1aaff754"
+  },
+  "provenance": {
+    "source_item_id": "3f47ed7d-9ff9-440b-8124-3aee124b0647",
+    "external_id": "https://signoz.io/blog/claude-code-monitoring-with-opentelemetry"
+  }
+}

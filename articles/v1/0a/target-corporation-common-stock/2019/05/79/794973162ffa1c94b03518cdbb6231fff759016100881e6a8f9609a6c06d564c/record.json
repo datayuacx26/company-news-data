@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "794973162ffa1c94b03518cdbb6231fff759016100881e6a8f9609a6c06d564c",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/using-drone-for-automated-integration-testing",
+    "canonical": "https://tech.target.com/blog/using-drone-for-automated-integration-testing"
+  },
+  "title": "Using Drone for Automated Integration Testing",
+  "summary": "An article by Pam Vermeer and Pat Moberg : Our team developed a service that reads from a Kafka topic, interacts with a Postgres database using basic CRUD operations, and calls APIs on an external service.",
+  "published_at": "2019-05-20T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2019/05/79/794973162ffa1c94b03518cdbb6231fff759016100881e6a8f9609a6c06d564c/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2019/05/79/794973162ffa1c94b03518cdbb6231fff759016100881e6a8f9609a6c06d564c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13156,
+    "sha256": "sha256:9283e9e66cc90fa2bb270241ce2ab0c1cc548178d097dbf93f99178cdd40507f",
+    "normalized_content_hash": "sha256:9cd16de1d35807f44c686a7b3a6d46a981b1a9912fcfd1883836054b40968519"
+  },
+  "provenance": {
+    "source_item_id": "417b410c-6449-437a-9cf8-fbd733b6055d",
+    "external_id": "BLOG-10005"
+  }
+}

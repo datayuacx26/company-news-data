@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "mosaic-company-the-common-stock",
+    "name": "Mosaic Company (The)"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-06-01T06:00:00+00:00",
+  "last_published_at": "2026-08-10T06:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1b/mosaic-company-the-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5196,
+        "sha256": "sha256:4a40a55dc5b39fae764e9841ee10e9c6e65edb385f92ef5e41c70185a73d0dca",
+        "newest_at": "2026-08-10T06:00:00+00:00",
+        "oldest_at": "2026-06-01T06:00:00+00:00"
+      }
+    ]
+  }
+}

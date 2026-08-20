@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "051a34d65c3fcf041cb5f30bd4202a8db00e283cf63ab9647652ed11dbd6ccae",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/target-finds-cross-site-scripting-in-microsoft-sharepoint",
+    "canonical": "https://tech.target.com/blog/target-finds-cross-site-scripting-in-microsoft-sharepoint"
+  },
+  "title": "Target Finds Cross-Site Scripting in Microsoft SharePoint",
+  "summary": "An article by Sydney Delp, Steven Kaun, and Jamie Feist : During a recent penetration test, Target's Security Testing Services team found that Microsoft's SharePoint was vulnerable to a unique attack that, unlike typical cross-site scripting, could be exploited without any interaction from the victim user.",
+  "published_at": "2019-03-15T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2019/03/05/051a34d65c3fcf041cb5f30bd4202a8db00e283cf63ab9647652ed11dbd6ccae/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2019/03/05/051a34d65c3fcf041cb5f30bd4202a8db00e283cf63ab9647652ed11dbd6ccae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5499,
+    "sha256": "sha256:5f02debed50b557aff9f8b0b60b95e7b45c11e8360cf60fa4fd8ed33eb8082f7",
+    "normalized_content_hash": "sha256:f04724130d251f65c7e7454691c3cd9efc46de707827b8a96c43fe2597d7b031"
+  },
+  "provenance": {
+    "source_item_id": "8d5f61c7-76b3-4aad-ad4f-76c10a193e30",
+    "external_id": "BLOG-10011"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e1aabd676b8dd916091e714dc0e03ef90d6e8ae3fbc6265b8ef3264f4dd62f30",
+  "company": {
+    "key": "yc-mattermost",
+    "name": "Mattermost"
+  },
+  "source": {
+    "id": "yc-mattermost-rss-3d807a20d23e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mattermost.com/blog/can-agentic-ai-work-in-air-gapped-environments/",
+    "canonical": "https://mattermost.com/blog/can-agentic-ai-work-in-air-gapped-environments/"
+  },
+  "title": "Can Agentic AI Work in Air-Gapped Environments?",
+  "summary": "Agentic AI can run entirely within an air-gapped boundary when the model, retrieval layer, and tools are all staged locally in advance.",
+  "published_at": "2026-08-18T12:49:15+00:00",
+  "first_seen_at": "2026-08-18T13:53:55.443403+00:00",
+  "fetched_at": "2026-08-18T13:53:57.050494+00:00",
+  "last_updated_at": "2026-08-20T02:45:42.683063+00:00",
+  "paths": {
+    "article": "articles/v1/17/yc-mattermost/2026/08/e1/e1aabd676b8dd916091e714dc0e03ef90d6e8ae3fbc6265b8ef3264f4dd62f30/article.md",
+    "record": "articles/v1/17/yc-mattermost/2026/08/e1/e1aabd676b8dd916091e714dc0e03ef90d6e8ae3fbc6265b8ef3264f4dd62f30/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11631,
+    "sha256": "sha256:443e0b47c82bd8ea597b4485662c31f13ce9646d9129e7111bca4f5aefdb3435",
+    "normalized_content_hash": "sha256:b1ca8f5d8cb1527e00a2a00f39ca41456f7c75c34c32c84557cffa7f8cc4cbdd"
+  },
+  "provenance": {
+    "source_item_id": "a1dee569-c587-4653-a714-3add2d573142",
+    "external_id": "https://mattermost.com/?p=58750"
+  }
+}

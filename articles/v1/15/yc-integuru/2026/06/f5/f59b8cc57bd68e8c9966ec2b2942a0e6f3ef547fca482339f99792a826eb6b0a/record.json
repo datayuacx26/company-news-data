@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f59b8cc57bd68e8c9966ec2b2942a0e6f3ef547fca482339f99792a826eb6b0a",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/why-selenium-integrations-break",
+    "canonical": "https://www.integuru.com/blog/why-selenium-integrations-break"
+  },
+  "title": "Why Selenium Integrations Break When Third-Party UIs Update",
+  "summary": "Selenium locates elements by querying the DOM — a layer you don't control on third-party platforms. When those platforms redesign their UI, your selectors break. This post explains the five specific failure modes, why common fixes only delay the proble...",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:36.802754+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/f5/f59b8cc57bd68e8c9966ec2b2942a0e6f3ef547fca482339f99792a826eb6b0a/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/f5/f59b8cc57bd68e8c9966ec2b2942a0e6f3ef547fca482339f99792a826eb6b0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10153,
+    "sha256": "sha256:d66114e73b82be42ba43da881760c0f063e4d91aef4fc8c3a325b4c6a6ee4347",
+    "normalized_content_hash": "sha256:dfd627d99c6f924891b229e9f337811a29c15920418d3044f264145c6e0f1b23"
+  },
+  "provenance": {
+    "source_item_id": "286619a0-3393-4ec6-9415-05f621a979cc",
+    "external_id": "https://www.integuru.com/blog/why-selenium-integrations-break"
+  }
+}

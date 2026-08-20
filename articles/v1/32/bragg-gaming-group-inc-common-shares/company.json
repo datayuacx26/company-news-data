@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bragg-gaming-group-inc-common-shares",
+    "name": "Bragg Gaming Group Inc. Common Shares"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-05-05T09:00:13+00:00",
+  "last_published_at": "2026-08-13T11:31:36+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/32/bragg-gaming-group-inc-common-shares/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 15719,
+        "sha256": "sha256:431aaecd8920ab47e879d5d3f23efdb60dfebc5b931f02b30a4faa84361d2fe5",
+        "newest_at": "2026-08-13T11:31:36+00:00",
+        "oldest_at": "2026-05-05T09:00:13+00:00"
+      }
+    ]
+  }
+}

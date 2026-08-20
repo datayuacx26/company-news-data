@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62ee8c585f6d9a60509dc76ee4e3d4ecc13678e42b7df187021d008053ff3e4a",
+  "company": {
+    "key": "yc-the-forecasting-company",
+    "name": "The Forecasting Company"
+  },
+  "source": {
+    "id": "yc-the-forecasting-company-news-import-6163f6ce3bb7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.theforecastingcompany.com/en/blog/time-series-are-not-tables",
+    "canonical": "https://www.theforecastingcompany.com/en/blog/time-series-are-not-tables"
+  },
+  "title": "Time Series Are Not Tables",
+  "summary": "Part 2 of The Future of Forecasting. Open any data science textbook and you'll find time series stored in CSVs and loaded into DataFrames. That framing hides structural differences that cost real money.",
+  "published_at": "2026-05-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:24:30.097615+00:00",
+  "fetched_at": "2026-07-28T22:13:05.421454+00:00",
+  "last_updated_at": "2026-08-19T18:46:55.687364+00:00",
+  "paths": {
+    "article": "articles/v1/26/yc-the-forecasting-company/2026/05/62/62ee8c585f6d9a60509dc76ee4e3d4ecc13678e42b7df187021d008053ff3e4a/article.md",
+    "record": "articles/v1/26/yc-the-forecasting-company/2026/05/62/62ee8c585f6d9a60509dc76ee4e3d4ecc13678e42b7df187021d008053ff3e4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13548,
+    "sha256": "sha256:f753233ed2a0a72e8b0d77567596df48d49c419307faf25b1fd8344e55894cdc",
+    "normalized_content_hash": "sha256:adea0b8eac6aa5ac1eb9c959ca83c108759524663dfc782c514cb86b15f7d881"
+  },
+  "provenance": {
+    "source_item_id": "9b2cdc0b-4105-45d1-8dde-5b7847a28be6",
+    "external_id": "https://www.theforecastingcompany.com/en/blog/time-series-are-not-tables"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7144c6c71b17b3cc647941eefb319a227f216eea16242ac6fdd29ee254e2d53e",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-69a1f8dc01ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/changelog/permission-syncing-30-10-25",
+    "canonical": "https://www.sourcebot.dev/changelog/permission-syncing-30-10-25"
+  },
+  "title": "GitHub & GitLab permission syncing",
+  "summary": "Experimental syncing of GitHub & GitLab access control lists into Sourcebot.",
+  "published_at": "2025-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:52.577262+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-20T02:52:57.900818+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2025/10/71/7144c6c71b17b3cc647941eefb319a227f216eea16242ac6fdd29ee254e2d53e/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2025/10/71/7144c6c71b17b3cc647941eefb319a227f216eea16242ac6fdd29ee254e2d53e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1377,
+    "sha256": "sha256:3cab947f7279ac2a3da4629f035cbe36af6cf65854ca2a659640f3f689637330",
+    "normalized_content_hash": "sha256:07e1bad02a041707aceeb9a355b2008b81b0af5908a81ecdf0c0b082c9fc5bb2"
+  },
+  "provenance": {
+    "source_item_id": "db2a3eed-e9c4-457a-880f-3d01a1cd8fa4",
+    "external_id": "https://www.sourcebot.dev/changelog/permission-syncing-30-10-25"
+  }
+}

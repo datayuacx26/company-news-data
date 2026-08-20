@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a02d5bee55810216fdd129ba737b567ebac2b0cfba98cfc7cecfdbfc17ecc0a5",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/simple-self-distillation",
+    "canonical": "https://machinelearning.apple.com/research/simple-self-distillation"
+  },
+  "title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+  "summary": "Can a large language model (LLM) improve at code generation using only its own raw outputs, without a verifier, a teacher model, or…",
+  "published_at": "2024-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-07T13:25:19.043576+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2024/08/a0/a02d5bee55810216fdd129ba737b567ebac2b0cfba98cfc7cecfdbfc17ecc0a5/article.md",
+    "record": "articles/v1/3a/apple/2024/08/a0/a02d5bee55810216fdd129ba737b567ebac2b0cfba98cfc7cecfdbfc17ecc0a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2804,
+    "sha256": "sha256:da0d3d0d9ef02d37c41df27b370436c6b8e0a04545a3669267942705a551cc73",
+    "normalized_content_hash": "sha256:c58286ec970c3e3e03fbd6fe952e28f61c554e2c1c6fc27ee595a9d92e1edfe4"
+  },
+  "provenance": {
+    "source_item_id": "64021e89-72fd-4522-ab84-b26cbdaf4a13",
+    "external_id": "https://machinelearning.apple.com/research/simple-self-distillation"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a0bab00015541d13d9d697cf68b81c190f31f2631d4536b1a774a5e42b05463e",
+  "company": {
+    "key": "yc-clad-labs",
+    "name": "Clad Labs"
+  },
+  "source": {
+    "id": "yc-clad-labs-news-import-b325fc45d32d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.useclad.ai/blog/testing-ai-agents",
+    "canonical": "https://www.useclad.ai/blog/testing-ai-agents"
+  },
+  "title": "How to test AI agents before they talk to your customers",
+  "summary": "Single-turn accuracy doesn't predict real-world reliability. Here's how to build multi-turn, noise-injected test suites that reveal where AI agents actually break down.",
+  "published_at": "2026-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T01:23:04.457978+00:00",
+  "fetched_at": "2026-08-18T01:23:05.698462+00:00",
+  "last_updated_at": "2026-08-19T17:22:53.442077+00:00",
+  "paths": {
+    "article": "articles/v1/32/yc-clad-labs/2026/01/a0/a0bab00015541d13d9d697cf68b81c190f31f2631d4536b1a774a5e42b05463e/article.md",
+    "record": "articles/v1/32/yc-clad-labs/2026/01/a0/a0bab00015541d13d9d697cf68b81c190f31f2631d4536b1a774a5e42b05463e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4666,
+    "sha256": "sha256:56898dfaba236d1847de47dc61ec6949d52affd8bca07302d09deb8c97aad0b3",
+    "normalized_content_hash": "sha256:ad9b32f837819a2e565a41ea8350fc0ad168c7e76c0a232b54f4c85bc132791e"
+  },
+  "provenance": {
+    "source_item_id": "2c0e6f35-99eb-4ec1-a848-3af46bf4a50a",
+    "external_id": "https://www.useclad.ai/blog/testing-ai-agents"
+  }
+}

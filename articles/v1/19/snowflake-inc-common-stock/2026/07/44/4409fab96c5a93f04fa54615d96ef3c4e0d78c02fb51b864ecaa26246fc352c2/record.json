@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4409fab96c5a93f04fa54615d96ef3c4e0d78c02fb51b864ecaa26246fc352c2",
+  "company": {
+    "key": "snowflake-inc-common-stock",
+    "name": "Snowflake Inc."
+  },
+  "source": {
+    "id": "snowflake-inc-common-stock-rss-c0c3a844dab6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.snowflake.com/content/snowflake-site/global/en/blog/thrive-dynamic-table-costs-custom-incremental",
+    "canonical": "https://www.snowflake.com/content/snowflake-site/global/en/blog/thrive-dynamic-table-costs-custom-incremental"
+  },
+  "title": "Custom Incrementalization for Dynamic Tables | Snowflake",
+  "summary": "Discover how Thrive Learning used custom incrementalization to cut Snowflake Dynamic Table auto-clustering costs by 99% while keeping lineage intact.",
+  "published_at": "2026-07-28T23:09:00+00:00",
+  "first_seen_at": "2026-07-28T16:56:15.209140+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:37:54.495918+00:00",
+  "paths": {
+    "article": "articles/v1/19/snowflake-inc-common-stock/2026/07/44/4409fab96c5a93f04fa54615d96ef3c4e0d78c02fb51b864ecaa26246fc352c2/article.md",
+    "record": "articles/v1/19/snowflake-inc-common-stock/2026/07/44/4409fab96c5a93f04fa54615d96ef3c4e0d78c02fb51b864ecaa26246fc352c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7903,
+    "sha256": "sha256:80bc924608eebd439c399435e70fd69cbe60c6c2eacddb815828da786d742158",
+    "normalized_content_hash": "sha256:c57b23324e3b9b3c66d28904102feef7199b32d9fab429859e7df9397385d2bd"
+  },
+  "provenance": {
+    "source_item_id": "85b2a68f-9146-4d40-807a-f853b1326962",
+    "external_id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/thrive-dynamic-table-costs-custom-incremental"
+  }
+}

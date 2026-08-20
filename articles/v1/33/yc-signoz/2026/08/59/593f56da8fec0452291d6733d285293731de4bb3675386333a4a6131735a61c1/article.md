@@ -1,0 +1,1338 @@
+---
+schema_version: "1.0.0"
+document_id: "593f56da8fec0452291d6733d285293731de4bb3675386333a4a6131735a61c1"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/blog/opentelemetry-nextjs-production"
+published_at: "2026-08-11T00:00:00+00:00"
+first_seen_at: "2026-08-12T10:39:43.410387+00:00"
+fetched_at: "2026-08-12T10:39:45.371133+00:00"
+content_hash: "sha256:3b229016fd06dddc488e9cb8966d5ecb3be5742335ab1ad280ea5ee9e5e96868"
+---
+
+# Deploying and Scaling OpenTelemetry in Production NextJS Apps
+
+# Deploying and Scaling OpenTelemetry in Production NextJS Apps
+
+
+Last Updated: August 11, 2026
+
+
+20 min read
+
+
+[OpenTelemetry NextJS Tutorial](https://signoz.io/blog/opentelemetry-nextjs/) Part 4 of 4
+
+
+Once you've instrumented your Next.js app with OpenTelemetry, the next step is getting it into production. Whether you're shipping via Vercel or running your own infra, the setup has some key differences worth noting.
+
+
+Once traces, metrics, and logs are flowing, this guide covers common monitoring patterns such as tracking 404s, external API calls, and exceptions as well as alerting, sampling, and data-sanitization practices for operating at scale. (Tracking frontend[Web Vitals and widget performance](https://signoz.io/blog/opentelemetry-nextjs-web-vitals/) is covered earlier in this series.)
+
+
+## Deploying to Production
+
+
+### Option 1: Deploying on Vercel
+
+
+If you're using Vercel, good news — OpenTelemetry just works.
+
+
+As per the[Next.js docs](https://nextjs.org/docs/app/guides/open-telemetry#deploying-on-vercel) , no extra config is needed. Vercel supports OpenTelemetry natively for both Node and Edge runtimes.
+
+
+**Why Vercel works well:**
+
+
+- No setup headaches — just deploy and trace
+- Handles scaling and cold starts for you
+- Great for hybrid apps (Edge + Node)
+- Built-in support for observability providers like SigNoz, Datadog, and more
+
+
+**Deploy flow:**
+
+
+```text
+vercel   deploy
+```
+
+
+If your` instrumentation.ts
+
+
+`
+
+
+is set up locally, it'll work in production too.
+
+
+**Env vars required:**
+
+
+```text
+OTEL_EXPORTER_OTLP_ENDPOINT  =  https://ingest.YOUR-REGION.signoz.cloud:443
+OTEL_EXPORTER_OTLP_HEADERS  =  signoz-ingestion-key  =<  your-ingestion-key  >
+```
+
+
+### Option 2: Self-Hosting (Docker / K8s)
+
+
+Prefer full control? Running your app on your own infra with Docker or Kubernetes gives you more power — but also more responsibility.
+
+
+**Why self-host:**
+
+
+- Total control over observability data and infra
+- More flexibility in how you configure the collector
+- Good for large-scale or compliance-sensitive workloads
+
+
+**What to watch out for:**
+
+
+- You'll manage scaling and HA yourself
+- Secure your telemetry data pipeline
+- Set up alerting/monitoring for the collector itself
+- Allocate ops time — especially if you're pushing serious traffic
+
+
+### TL;DR
+
+
+**Vercel** **Self-Hosted**
+
+
+Setup ⚡ Super simple 🛠️ Manual infra setup
+
+
+Scale 📈 Auto (serverless) 📊 You manage it
+
+
+Observability 🔌 Built-in integrations 🔧 Fully customizable
+
+
+Best for Fast-moving teams, hybrid apps Teams needing full control or compliance
+
+
+Pick what fits your team's speed, scale, and infra appetite. Either way, with OpenTelemetry and SigNoz in place, you're set up to ship and debug confidently in production.
+
+
+## Collector vs Direct Exporter
+
+
+Choosing between an[OpenTelemetry Collector and a Direct Exporter](https://signoz.io/guides/opentelemetry-collector-vs-exporter/) setup is one of the most important architectural decisions you'll make. It affects how flexible, scalable, and robust your[observability pipeline](https://signoz.io/guides/observability-pipeline/) is, especially in production.
+
+
+### Collector Approach (Recommended)
+
+
+This is the most flexible and production-friendly setup. Instead of sending telemetry data straight to your observability backend, your app sends it to an OpenTelemetry **Collector** . The collector then processes, enriches, and routes it as needed.
+
+
+### Architecture:
+
+
+*Collector-based architecture: Your Next.js app sends telemetry to the OpenTelemetry Collector, which processes and routes data to multiple backends like SigNoz and Prometheus*
+
+
+### Why use a Collector?
+
+
+- **Vendor-agnostic** — Switch observability backends without touching app code
+- **Data processing** — Add batching, filtering, sampling, enrichment
+- **Fan-out** — Send data to multiple backends at once (e.g., SigNoz + Prometheus)
+- **Better performance** — Reduces load on your app by buffering and batching
+- **Centralized auth** — Manage credentials and scrub sensitive data in one place
+- **More reliable** — Retry and buffer logic during backend downtime
+
+
+### Example Collector Config
+
+
+This extends the local collector config from[Part 1 of this series](https://signoz.io/blog/opentelemetry-nextjs/) with the processors you'll actually want in production — attribute tagging and noise filtering:
+
+
+```text
+receivers  :
+otlp  :
+protocols  :
+grpc  :
+endpoint  :   0.0.0.0:4317
+http  :
+endpoint  :   0.0.0.0:4318
+
+
+processors  :
+batch  :
+timeout  :   1s
+send_batch_size  :   1024
+attributes  :
+actions  :
+-   key  :   environment
+value  :   production
+action  :   upsert
+filter  :
+spans  :
+exclude  :
+match_type  :   regexp
+attributes  :
+-   key  :   http.target
+value  :   "/health.*"
+
+
+exporters  :
+otlp/signoz  :
+endpoint  :   "ingest.YOUR-REGION.signoz.cloud:443"
+headers  :
+signoz-ingestion-key  :   ${SIGNOZ_INGESTION_KEY}
+prometheus  :
+endpoint  :   "0.0.0.0:8889"
+
+
+service  :
+pipelines  :
+traces  :
+receivers  : [  otlp  ]
+processors  : [  batch  ,   attributes  ,   filter  ]
+exporters  : [  otlp/signoz  ]
+metrics  :
+receivers  : [  otlp  ]
+processors  : [  batch  ,   attributes  ]
+exporters  : [  otlp/signoz  ,   prometheus  ]
+
+
+```
+
+
+### Your Next.js App Config (Collector Setup):
+
+
+```text
+// instrumentation.ts
+import   { registerOTel }   from   '@vercel/otel'
+
+
+export   function   register  () {
+registerOTel  ({
+serviceName:   'nextjs-production-app'  ,
+endpoint: process.env.  OTEL_EXPORTER_OTLP_ENDPOINT   ||   'http://localhost:4318'  ,
+})
+}
+
+
+```
+
+
+### Direct Exporter Approach
+
+
+With this approach, your app sends telemetry data straight to your observability backend — no collector in between. This is the same` OTLPHttpJsonTraceExporter
+
+
+`
+
+
+pattern introduced as a quick option in[Part 1](https://signoz.io/blog/opentelemetry-nextjs/#alternatively-direct-export-to-signoz) ; here's the fuller tradeoff picture.
+
+
+### Architecture
+
+
+*Direct exporter approach: Your Next.js app sends telemetry data straight to SigNoz without any intermediate processing or collector*
+
+
+### Pros:
+
+
+- Simpler to set up — fewer moving parts
+- Lower latency — no intermediate hop
+- Great for demos or smaller apps
+
+
+### Cons:
+
+
+- No data enrichment, filtering, or custom processing
+- Hard to route data to multiple platforms
+- More resource usage inside your app
+- No retry/buffering logic — dropped data on failure
+
+
+### 🔧 Direct Exporter Example:
+
+
+```text
+// instrumentation.ts
+import   { registerOTel }   from   '@vercel/otel'
+import   { OTLPHttpJsonTraceExporter }   from   '@vercel/otel'
+
+
+export   function   register  () {
+registerOTel  ({
+serviceName:   'nextjs-production-app'  ,
+traceExporter:   new   OTLPHttpJsonTraceExporter  ({
+url:   'https://ingest.us.signoz.cloud:443/v1/traces'  ,
+headers: {
+'signoz-ingestion-key'  : process.env.  SIGNOZ_INGESTION_KEY   ||   ''  ,
+},
+}),
+})
+}
+
+
+```
+
+
+### TL;DR - Which One to Choose?
+
+
+**Collector** (Recommended) **Direct Exporter**
+
+
+Vendor flexibility High ❌ Low
+
+
+Reliability Retry + buffer ❌ Risk of drop
+
+
+Processing Batch, filter, enrich ❌ None
+
+
+Infra required ⚠️ Needs extra setup Minimal
+
+
+Multi-backend output Easy fan-out ❌ Not supported
+
+
+Best for Prod, large apps Dev, small projects
+
+
+In short: **use a collector** in production if you care about reliability, flexibility, or long-term maintainability. Use direct exporters only for quick setups or demos where speed > control.
+
+
+## Common Monitoring Patterns
+
+
+Getting telemetry flowing is only half the job. The other half is knowing what to actually look at. Here's where that pays off in a live Next.js app.
+
+
+### Tracking 404 Errors by Route
+
+
+404s are often ignored until broken links start affecting SEO or users can't reach a page they need. Since every request already produces a trace, you can filter on status code without adding any new instrumentation.
+
+
+**Step-by-step setup:**
+
+
+1. In the SigNoz UI, head to **Traces > Explorer** .
+2. Apply filters:
+
+
+- ` service.name = nextjs-observability-demo
+
+
+`
+
+
+- ` http.status_code = 404
+
+
+`
+
+
+3. Set your time range to "Last 1 day" or any relevant window.
+
+
+You'll now see a breakdown of which routes are returning 404s and how often.
+
+
+*Filter and analyze 404 errors in SigNoz: Use the Traces Explorer to identify which routes are returning 404s and track their frequency over time*
+
+
+**What you can uncover:**
+
+
+- ` /auth/missing-profile
+
+
+`
+
+
+– broken login flow?
+- ` /api/v1/deprecated-endpoint
+
+
+`
+
+
+– old mobile app still hitting deprecated APIs?
+- ` /static/dead-banner.webp
+
+
+`
+
+
+– CDN issue or asset removed?
+
+
+You can also switch to the **Time Series** view to see trends—are 404s spiking after a deploy?
+
+
+*Monitor 404 error trends: Switch to time series view in SigNoz to detect spikes in 404 errors after deployments or identify patterns in broken links*
+
+
+Save the view (e.g.` 404 Error Monitor
+
+
+`
+
+
+) or add it to a dashboard as a list, time series, or table of routes with the highest 404s.
+
+
+*Build custom 404 monitoring dashboards: Use SigNoz Query Builder to create reusable views with list, time series, or table visualizations for tracking 404 errors*
+
+
+404s aren't just noise — a spike after a deploy, for example, usually means a broken redirect or a route that moved without a corresponding link update.
+
+
+### Monitoring Third-Party APIs
+
+
+Modern apps are built on top of other people's APIs. Payments, weather data, analytics, social logins — chances are your Next.js app talks to at least a handful of external services. And when one of those APIs slows down, fails, or changes behavior, your app takes the hit.
+
+
+Since` fetch
+
+
+`
+
+
+is already instrumented by` @vercel/otel
+
+
+`
+
+
+, you get visibility into how those dependencies perform without writing custom wrappers around every call — you just need to make sure context propagation is configured for the domains you care about.
+
+
+**A sample setup** — a Next.js API route calling a few external services:
+
+
+```text
+// app/api/external/route.ts
+
+
+export   async   function   GET  (  request  :   NextRequest  ) {
+const   results   =   await   Promise  .  allSettled  ([
+fetch  (  'https://jsonplaceholder.typicode.com/posts/1'  ),
+fetch  (  'https://httpbin.org/json'  ),
+fetch  (  'https://httpbin.org/delay/2'  ),   // Simulates latency
+fetch  (  'https://api.openweathermap.org/data/2.5/weather?q=London'  ),
+]);
+
+
+return   NextResponse.  json  ({ success:   true  , results });
+}
+```
+
+
+This endpoint hits multiple APIs—including one that's intentionally slow and another that returns a 401 (since we're skipping the API key). Wire this up so SigNoz can track and visualize every call by adding this to your` instrumentation.ts
+
+
+`
+
+
+:
+
+
+```text
+import   { registerOTel }   from   '@vercel/otel'  ;
+
+
+export   function   register  () {
+registerOTel  ({
+serviceName:   'nextjs-observability-demo'  ,
+instrumentationConfig: {
+fetch: {
+propagateContextUrls: [
+/jsonplaceholder  \.  typicode  \.  com/  ,
+/httpbin  \.  org/  ,
+/api  \.  openweathermap  \.  org/  ,
+],
+ignoreUrls: [],
+resourceNameTemplate:   '{http.method} {http.host}{http.target}'  ,
+},
+},
+});
+}
+
+
+```
+
+
+What this does:
+
+
+- **` propagateContextUrls `** ensures context is passed with the fetch call, so traces remain connected.
+- **` ignoreUrls: \[\] `** means **everything** gets traced.
+- **` resourceNameTemplate `** makes spans readable in dashboards.
+- Behind the scenes, Vercel's[OpenTelemetry](https://signoz.io/opentelemetry/) wrapper adds the right span metadata (` http.url
+
+
+`
+
+
+,` net.peer.name
+
+
+`
+
+
+, etc.), which SigNoz needs to automatically recognize these calls.
+
+
+Once this is in place and you start making requests, go to the **"External API"** tab in SigNoz. You'll see:
+
+
+*SigNoz's External API Dashboard*
+
+
+- **External API overview** : every external domain your app touches, avg latency, error rates, call volumes, last seen timestamps
+- **Per-service metrics** : call breakdowns by HTTP status codes, rate and latency over time, error spike trends
+- **Endpoint-level insights** : full visibility down to the path level (e.g.` /json
+
+
+`
+
+
+on` httpbin.org
+
+
+`
+
+
+)
+
+
+If nothing shows up in the dashboard, check that you're hitting the external service in a real request, that you restarted the app after editing` instrumentation.ts
+
+
+`
+
+
+, that` @vercel/otel
+
+
+`
+
+
+has` fetch
+
+
+`
+
+
+instrumentation enabled, and that the domains are included in` propagateContextUrls
+
+
+`
+
+
+. Still nothing? Open the SigNoz **Traces** explorer and check if spans are being created — that's your debugging starting point.
+
+
+### Exception Monitoring
+
+
+Your logs might tell you something crashed, but tracing **why** it crashed — and how it impacted the rest of the system — needs more than a log line.
+
+
+By default, OpenTelemetry can auto-capture some exceptions in your Next.js app. But if you want full context, clean groupings, and proper error analysis, you'll want to take control and manually record exceptions into your spans. Manual exception recording lets you attach custom attributes (user ID, error category, failed operation), control how errors are grouped, link stack traces to actual traces, and make sure failed spans are marked as such.
+
+
+Here's an example wiring up some fake endpoints to simulate common exceptions in a Next.js API route:
+
+
+```text
+// app/api/errors/route.ts
+import   { trace, SpanStatusCode }   from   '@opentelemetry/api'  ;
+
+
+export   async   function   GET  (  request  :   NextRequest  ) {
+const   type   =   new   URL  (request.url).searchParams.  get  (  'type'  )   ||   'generic'  ;
+const   span   =   trace.  getActiveSpan  ();
+
+
+try   {
+switch   (type) {
+case   'validation'  :
+throw   new   Error  (  'Invalid user input: email format is incorrect'  );
+case   'database'  :
+throw   new   Error  (  'Database connection failed: timeout'  );
+case   'network'  :
+throw   new   Error  (  'External API call failed: 503 Service Unavailable'  );
+default  :
+throw   new   Error  (  'Something went wrong'  );
+}
+}   catch   (err) {
+if   (span) {
+span.  recordException  (err);
+span.  setStatus  ({ code: SpanStatusCode.  ERROR  , message: err.message });
+}
+
+
+return   new   Response  (
+JSON  .  stringify  ({ error: err.message, type }),
+{ status:   500   }
+);
+}
+}
+```
+
+
+This records the exception inside the current span, marks the span as an error with a human-readable message, and returns a friendly JSON response. Hammer the endpoint a few times with different error types to see it in action:
+
+
+```text
+curl   http://localhost:3000/api/errors?type=validation
+curl   http://localhost:3000/api/errors?type=database
+curl   http://localhost:3000/api/errors?type=network
+
+
+```
+
+
+Once OpenTelemetry records the exceptions,[SigNoz](https://signoz.io/docs/introduction/) groups them in the **Exceptions** tab:
+
+
+*Monitor exceptions in SigNoz: Group and analyze errors by service, type, and message to identify recurring issues and root causes*
+
+
+You'll see groupings by service, exception types, message groupings for recurring issues, and frequency/first seen/last seen. Click into any error, and you get:
+
+
+*Inspect exceptions in SigNoz: Click into any exception to see the full stack trace, span metadata, and trace ID to pinpoint the root cause*
+
+
+The full stack trace, span metadata (which DB call or API route it happened in), and the[Trace ID](https://signoz.io/comparisons/opentelemetry-trace-id-vs-span-id/) to pivot into the full request flow.
+
+
+### More Patterns Worth Wiring Up
+
+
+Beyond 404s, third-party APIs, and exceptions, the same technique — start a span, tag it with context, visualize it in SigNoz — covers most of what else you'll want to monitor:
+
+
+**Database query monitoring** — track slow queries, failures, or what your app hits most:
+
+
+```text
+const   span   =   trace.  getActiveSpan  ();
+span?.  setAttributes  ({
+'db.system'  :   'postgresql'  ,
+'db.statement'  :   'SELECT * FROM users WHERE id = $1'  ,
+'db.execution_time'  : queryDuration,
+});
+```
+
+
+Watch query durations (especially P95/P99), connection pool usage, failure patterns, and slow queries by route or function.
+
+
+**Referrer + user journey tracing** — set custom attributes to see where users come from and how they move through the app:
+
+
+```text
+span?.  setAttributes  ({
+'user.referrer'  : request.headers.  get  (  'referer'  ),
+'user.agent'  : request.headers.  get  (  'user-agent'  ),
+'page.route'  :   '/product/[id]'  ,
+'user.source'  :   'organic'  ,
+});
+```
+
+
+Useful for debugging navigation flow — where users get stuck, which pages act as dead ends, and whether errors correlate with a particular entry point.
+
+
+**Background job monitoring** — even async work should leave traces:
+
+
+```text
+const   span   =   tracer.  startSpan  (  'emailQueue.process'  );
+span.  setAttributes  ({
+'job.type'  :   'email'  ,
+'job.queue_depth'  : queue.  length  ,
+});
+await   processEmails  ();
+span.  end  ();
+```
+
+
+Useful for failed job tracking, queue spikes/backlog detection, and job retries or runtime anomalies.
+
+
+**Cache hit/miss analysis** — caches only help if they're hitting:
+
+
+```text
+const   span   =   trace.  getActiveSpan  ();
+span?.  setAttributes  ({
+'cache.type'  :   'redis'  ,
+'cache.key'  : key,
+'cache.hit'  :   !!  cached,
+});
+```
+
+
+Tells you hit ratio by endpoint, TTL expiration patterns, and cache vs. DB response time deltas.
+
+
+The pattern is the same each time: start a span where the logic matters, tag it with the context you'll want later, and query it in SigNoz once you need to answer a specific question.
+
+
+## Setting Up Alerts
+
+
+Monitoring without alerts is like a smoke detector without a battery — it might know something's wrong, but no one hears it.
+
+
+With SigNoz, you can set up production-grade alerts on latency, errors, external APIs, database health, and more — all powered by auto-generated metrics from your[OpenTelemetry traces](https://signoz.io/blog/opentelemetry-spans/) .
+
+
+### Understanding SigNoz APM Metrics
+
+
+SigNoz automatically generates structured metrics from your traces. No extra config needed.
+
+
+**Common Metrics You'll Use:**
+
+
+Metric Description
+
+
+` signoz_calls_total
+
+
+`
+
+
+Total number of service calls
+
+
+` signoz_latency_bucket
+
+
+`
+
+
+Latency histogram buckets (used for P99, P95, etc)
+
+
+` signoz_latency_sum/count
+
+
+`
+
+
+Raw latency values
+
+
+` signoz_db_latency_sum/count
+
+
+`
+
+
+Database call timings
+
+
+` signoz_external_call_latency_sum/count
+
+
+`
+
+
+External API timings
+
+
+You can filter any of these by:
+
+
+- ` service_name
+
+
+`
+
+
+- ` operation
+
+
+`
+
+
+(e.g.` GET /api/login
+
+
+`
+
+
+)
+- ` http_status_code
+
+
+`
+
+
+- ` deployment_environment
+
+
+`
+
+
+### Alert Example: High P99 Latency
+
+
+Track if any of your key endpoints cross the 2s P99 threshold — a common user experience red flag.
+
+
+**SigNoz UI Configuration:**
+
+
+*Configure P99 latency alerts in SigNoz: Set up alerts on signoz_latency_bucket metric with P99 aggregation and 2000ms threshold*
+
+
+- **Metric** :` signoz_latency_bucket
+
+
+`
+
+
+- **Aggregation** : P99
+- **Filter** :` service.name = nextjs-observability-demo
+
+
+`
+
+
+- **Group By** :` operation
+
+
+`
+
+
+- **Threshold** : Above 2000ms for 5 minutes
+- **Severity** : Critical
+
+
+> This catches slow endpoints after deployments, during traffic spikes, or when a downstream service misbehaves.
+
+
+## Testing the Alert
+
+
+Generate alerts manually to verify setup:
+
+
+```text
+# Simulate high latency
+curl   "http://localhost:3000/api/external?service=slow"
+
+
+# Simulate 404 errors
+for   i   in   {  1..20}  ;   do   curl   -s   -o   /dev/null   -w   "%{http_code}\n"   http://localhost:3000/not-found  ;   done
+
+
+# Simulate DB alert (example)
+curl   http://localhost:3000/api/heavy-database-query
+
+
+```
+
+
+*Monitor active alerts in SigNoz: View firing alerts with their severity, status, and notification delivery confirmation*
+
+
+Check:
+
+
+- SigNoz → Alerts → **Firing Alerts**
+- Notification channels (Slack, email, PagerDuty)
+- Auto-resolve when things calm down
+
+
+*Email notification for alert*
+
+
+## Maintaining Alert Hygiene
+
+
+Set it and forget it? Nope. Keep alert fatigue away with regular tuning:
+
+
+- **Weekly** : Review false positives
+- **Monthly** : Adjust thresholds for seasonal traffic
+- **Quarterly** : Review what you're not monitoring
+- **After Incidents** : Patch gaps based on what was missed
+
+
+Tune it:
+
+
+- Raise thresholds if too noisy
+- Group by operation to reduce clutter
+- Shorten time windows for fast-reacting alerts
+
+
+A good alerting setup keeps you **ahead** of issues — not reacting to user complaints. By wiring up latency, errors, external dependencies, and DB performance, you've got a solid first line of defense.
+
+
+Next time something breaks at 2AM, you'll already know why.
+
+
+## Sampling Strategy for Production
+
+
+Once you instrument your app with OpenTelemetry, you'll quickly realize it can generate **a lot** of data. That's where sampling comes in — it lets you retain visibility without flooding your backend (or your bill).
+
+
+### What Sampling Actually Means
+
+
+Sampling means: "Don't send every trace, just enough to get the full picture."
+
+
+- **Sampled traces** → Get processed and sent to your observability backend
+- **Unsampled traces** → Dropped early to save on processing and storage
+
+
+If you're getting thousands of requests per second, you probably don't need all of them to know how your app is doing.
+
+
+### Why You Should Care
+
+
+- **Lower costs** — Send less data to SigNoz or any observability backend
+- **Less noise** — Focus on what's actually interesting (e.g., errors)
+- **Better performance** — Reduce tracing overhead on your app
+- **Representative insight** — You still see meaningful patterns
+
+
+### When to Use Sampling
+
+
+Use it if:
+
+
+- You're seeing 1,000+ traces/sec
+- Most traffic is routine and low-value
+- You want to prioritize important traces (errors, latency, critical flows)
+
+
+Avoid it if:
+
+
+- You have very low traffic
+- Compliance requires full visibility
+- You don't have meaningful sampling rules yet
+
+
+## Head vs Tail Sampling
+
+
+There are two main ways to decide what gets sampled:
+
+
+### Head Sampling
+
+
+This makes the decision **when the trace starts** . Lightweight and works with` @vercel/otel
+
+
+`
+
+
+.
+
+
+```text
+import   { registerOTel }   from   '@vercel/otel'  ;
+import   { TraceIdRatioBasedSampler }   from   '@opentelemetry/sdk-trace-base'  ;
+
+
+registerOTel  ({
+serviceName:   'nextjs-app'  ,
+traceSampler:   new   TraceIdRatioBasedSampler  (  0.1  ),   // sample 10%
+});
+```
+
+
+Or use environment variables (recommended for production):
+
+
+```text
+OTEL_TRACES_SAMPLER  =  probabilistic
+OTEL_TRACES_SAMPLER_ARG  =  0.1
+```
+
+
+- Fast
+- Low overhead
+- Can't see the whole trace (might miss errors late in the flow)
+
+
+### Tail Sampling
+
+
+This happens after the full trace is collected — so it's smarter, but heavier.
+
+
+**Set up in the[OpenTelemetry Collector](https://signoz.io/blog/opentelemetry-collector-complete-guide/) :**
+
+
+```text
+processors  :
+tail_sampling  :
+decision_wait  :   10s
+policies  :
+-   name  :   errors
+type  :   status_code
+status_code  : {   status_codes  : [  ERROR  ] }
+
+
+-   name  :   high_latency
+type  :   latency
+latency  : {   threshold_ms  :   1000   }
+sampling_percentage  :   50
+
+
+-   name  :   normal_traffic
+type  :   probabilistic
+probabilistic  : {   sampling_percentage  :   5   }
+
+
+```
+
+
+- Smarter decisions
+- Always catch errors or slow traces
+- Needs the collector and more infra
+
+
+Start simple: head sampling via environment variables.
+
+
+Grow later: add tail sampling when you need more precision.
+
+
+Review regularly: don't let old sampling rules hide new problems.
+
+
+Observability ≠ "log everything" — it's about getting the **right** signals. Sampling helps you do that without going broke.
+
+
+## Hiding Sensitive Data
+
+
+Telemetry can accidentally capture sensitive stuff—emails, tokens, IPs, etc. You're responsible for making sure that doesn't happen.
+
+
+### What to Watch For
+
+
+Common leaks in Next.js apps:
+
+
+```text
+user.email = "john@example.com"
+headers.authorization = "Bearer xyz"
+http.url = "/reset?token=abc"
+process.env.DATABASE_URL
+```
+
+
+### Step 1: Don't Collect It
+
+
+```text
+registerOTel({
+attributes: {
+'deployment.environment': process.env.NODE_ENV,
+'service.version': process.env.npm_package_version,
+// ❌ Don't include user emails or IDs
+},
+instrumentationConfig: {
+fetch: {
+ignoreUrls: [/token=/, /session=/],
+dontPropagateContextUrls: [/analytics\./],
+resourceNameTemplate: "{http.method} {http.host}"
+}
+}
+})
+
+
+```
+
+
+### Step 2: Scrub at the Collector
+
+
+```text
+processors  :
+attributes/sanitize  :
+actions  :
+-   key  :   user.email
+action  :   delete
+-   key  :   http.request.header.authorization
+action  :   delete
+-   key  :   http.url.query
+action  :   delete
+redaction/allowlist  :
+allowed_attributes  :
+-   http.method
+-   http.status_code
+-   http.route
+-   service.name
+-   duration
+
+
+```
+
+
+### Step 3: Validate No Leaks
+
+
+```text
+# Should   return   0
+count  (rate(traces_total{user_email  !=  ""  }[5m]))
+
+
+#   No   auth tokens
+count  (rate(traces_total{http_request_header_authorization  !=  ""  }[5m]))
+```
+
+
+## Production Tradeoffs to Watch Out For
+
+
+OpenTelemetry unlocks powerful observability, but it's not magic. You need to be aware of the tradeoffs and plan accordingly. Here's what to watch out for in real-world Next.js apps.
+
+
+### 1. Performance Overhead
+
+
+OpenTelemetry does introduce overhead. You're generating spans, propagating context, exporting data—it all costs CPU, memory, and network.
+
+
+**Optimization strategy:**
+
+
+- Reduce sampling on high-traffic, low-value routes (e.g.,` /api/health
+
+
+`
+
+
+)
+- Batch and buffer span exports
+- Focus tuning on external API routes where the cost is highest
+
+
+```text
+const   shouldSample   =   (  route  :   string  )   =>   {
+if   (route.  includes  (  '/external'  ))   return   Math.  random  ()   <   0.05  ;
+if   (route.  includes  (  '/health'  ))   return   Math.  random  ()   <   0.01  ;
+return   Math.  random  ()   <   0.2  ;
+}
+```
+
+
+### 2. Cold Starts (Serverless + Edge)
+
+
+Cold starts in Vercel functions or edge environments can be amplified by[OTel](https://signoz.io/opentelemetry/) initialization.
+
+
+**Mitigation techniques:**
+
+
+```text
+// Lazy init
+let   tracer   =   null  ;
+function   getTracer  () {
+return   tracer   ??=   trace.  getTracer  (  'next-app'  );
+}
+
+
+// HTTP exporter pooling
+new   OTLPTraceExporter  ({
+url:   OTEL_COLLECTOR_URL  ,
+keepAlive:   true  ,
+});
+
+
+// Flush before exit (Vercel)
+process.  on  (  'beforeExit'  ,   async   ()   =>   {
+await   trace.  getTracerProvider  ()?.  forceFlush  ();
+});
+```
+
+
+### 3. Missing Spans
+
+
+Not everything gets traced automatically. Common gaps: raw` fetch()
+
+
+`
+
+
+calls without context propagation, database queries using uninstrumented clients, background jobs (e.g.` setTimeout
+
+
+`
+
+
+), Server Components, and third-party SDKs (Stripe, Firebase, etc.).
+
+
+For DB queries, background jobs, and similar app-level gaps, wrap them manually the same way as inCommon Monitoring Patterns above (start a span, tag it, end it).
+
+
+To keep context alive across async boundaries:
+
+
+```text
+const   ctx   =   context.  active  ();
+setTimeout  (()   =>   {
+context.  with  (ctx, ()   =>   {
+processJob  ();
+});
+},   1000  );
+
+
+```
+
+
+And add a detection check to catch gaps you didn't know about:
+
+
+```text
+function   detectMissingInstrumentation  () {
+const   span   =   tracer.  startSpan  (  'instrumentation-check'  );
+if   (span.duration   >   200   &&   childSpans.  length   ===   0  ) {
+span.  addEvent  (  'Potential missing spans detected'  );
+}
+}
+
+
+```
+
+
+Or patch key APIs like` fetch()
+
+
+`
+
+
+:
+
+
+```text
+const   origFetch   =   global.fetch;
+global.  fetch   =   (  ...  args  )   =>   {
+if   (  !  trace.  getActiveSpan  ()) console.  warn  (  'Uninstrumented fetch detected'  );
+return   origFetch  (  ...  args);
+};
+
+
+```
+
+
+## Final Thoughts
+
+
+### Observability Changes How You Build
+
+
+This guide wasn't just about tracing code—it's about **building smarter systems** . You've now got:
+
+
+- Real-time visibility into backend and frontend performance
+- Trace-to-[log correlation](https://signoz.io/opentelemetry/correlating-traces-logs-metrics-nodejs/) for fast debugging
+- Data-driven performance insights
+- Alerting and dashboards that actually mean something
+
+
+### Mindset Shift
+
+
+Old World Observability
+
+
+Guess where it's slow Know where it's slow
+
+
+Logs in isolation Logs + Traces + Metrics
+
+
+Wait for user reports Alerts fire first
+
+
+React after deploy Optimize before deploy
+
+
+## Key Takeaways
+
+
+### Implementation
+
+
+- Instrument from day one
+- Use` @vercel/otel
+
+
+`
+
+
+for fast setup
+- Correlate logs + traces + metrics via OTel context
+- Export to[SigNoz](https://signoz.io/docs/introduction/) for unified visibility
+
+
+### Monitoring
+
+
+- Wrap the spans that matter: 404s, external APIs, exceptions, DB queries, background jobs
+- Smart sampling: 5–25% based on route value
+- Avoid tracing health checks, bots, noise
+
+
+### SigNoz Highlights
+
+
+- Built for OpenTelemetry-native apps
+- Trace + logs + metrics in one UI
+- Works great for Next.js out of the box
+- Open-source or managed - your call
+
+
+**Build better. Debug faster. Sleep deeper.**
+
+
+### You've reached the end of the series!
+
+
+Congratulations on completing "OpenTelemetry NextJS Tutorial".
+
+
+[Previous](https://signoz.io/blog/opentelemetry-nextjs-logging/)[View Full Series](https://signoz.io/blog/opentelemetry-nextjs/)

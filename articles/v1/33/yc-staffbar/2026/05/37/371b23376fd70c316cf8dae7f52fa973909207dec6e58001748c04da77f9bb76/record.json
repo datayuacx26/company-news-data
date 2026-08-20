@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "371b23376fd70c316cf8dae7f52fa973909207dec6e58001748c04da77f9bb76",
+  "company": {
+    "key": "yc-staffbar",
+    "name": "Superwall"
+  },
+  "source": {
+    "id": "yc-staffbar-rss-5f8991137f5c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://superwall.com/blog/how-to-ab-test-a-paywall",
+    "canonical": "https://superwall.com/blog/how-to-ab-test-a-paywall"
+  },
+  "title": "How to A/B Test a Paywall (Without Wasting Three Months on a False Positive)",
+  "summary": "Most paywall A/B tests are statistical noise. Here's a playbook several subscription teams use along with what to test, what sample size you actually need, and the four metrics that should decide the winner.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.930038+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T02:13:16.369457+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-staffbar/2026/05/37/371b23376fd70c316cf8dae7f52fa973909207dec6e58001748c04da77f9bb76/article.md",
+    "record": "articles/v1/33/yc-staffbar/2026/05/37/371b23376fd70c316cf8dae7f52fa973909207dec6e58001748c04da77f9bb76/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11646,
+    "sha256": "sha256:e73628aa70be3d28dd835bf09884536d9c65a52ce20c3b46c9fca31344be144c",
+    "normalized_content_hash": "sha256:bfbe879988c0874f6f9b784925ffa72efd493804efb32a508f2739e43bd5cc35"
+  },
+  "provenance": {
+    "source_item_id": "bfadab69-b4cc-40d6-9502-e120bcc64d8d",
+    "external_id": "https://superwall.com/blog/how-to-ab-test-a-paywall"
+  }
+}

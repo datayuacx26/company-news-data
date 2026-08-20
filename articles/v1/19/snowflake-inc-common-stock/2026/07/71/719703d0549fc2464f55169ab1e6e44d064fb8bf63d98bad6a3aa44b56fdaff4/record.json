@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "719703d0549fc2464f55169ab1e6e44d064fb8bf63d98bad6a3aa44b56fdaff4",
+  "company": {
+    "key": "snowflake-inc-common-stock",
+    "name": "Snowflake Inc."
+  },
+  "source": {
+    "id": "snowflake-inc-common-stock-rss-c0c3a844dab6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-apache-iceberg-open-observability",
+    "canonical": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-apache-iceberg-open-observability"
+  },
+  "title": "Observe on Apache Iceberg: Unlocking Open Observability",
+  "summary": "Observe by Snowflake on Apache Iceberg is now in private preview. Store telemetry as open Iceberg tables in your own S3 bucket, queryable by any engine.",
+  "published_at": "2026-07-30T19:03:05+00:00",
+  "first_seen_at": "2026-07-31T17:44:58.928283+00:00",
+  "fetched_at": "2026-07-31T17:45:00.742064+00:00",
+  "last_updated_at": "2026-08-20T02:37:54.495918+00:00",
+  "paths": {
+    "article": "articles/v1/19/snowflake-inc-common-stock/2026/07/71/719703d0549fc2464f55169ab1e6e44d064fb8bf63d98bad6a3aa44b56fdaff4/article.md",
+    "record": "articles/v1/19/snowflake-inc-common-stock/2026/07/71/719703d0549fc2464f55169ab1e6e44d064fb8bf63d98bad6a3aa44b56fdaff4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9460,
+    "sha256": "sha256:57016e774111dd5e396451dfff27e95c6001cb46636b7515bc1758f8029f5ded",
+    "normalized_content_hash": "sha256:b0a80837881025e7d00d22f750b702126602ee24141dff5d61f1d687ddd40e2d"
+  },
+  "provenance": {
+    "source_item_id": "4b95e38e-5675-4409-b01d-798e4da6a0b4",
+    "external_id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/observe-apache-iceberg-open-observability"
+  }
+}

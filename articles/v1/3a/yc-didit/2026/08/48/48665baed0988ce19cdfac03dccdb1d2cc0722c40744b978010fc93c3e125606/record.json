@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "48665baed0988ce19cdfac03dccdb1d2cc0722c40744b978010fc93c3e125606",
+  "company": {
+    "key": "yc-didit",
+    "name": "Didit"
+  },
+  "source": {
+    "id": "yc-didit-news-import-d47711ec305c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://didit.me/blog/kyc-with-claude/",
+    "canonical": "https://didit.me/blog/kyc-with-claude/"
+  },
+  "title": "KYC with Claude: Running Know Your Customer checks in chat",
+  "summary": "Use Didit's MCP server in Claude to review KYC sessions, correct extracted data, approve or decline verifications, and manage the review queue in chat.",
+  "published_at": "2026-08-03T18:21:24+00:00",
+  "first_seen_at": "2026-08-04T05:44:56.010101+00:00",
+  "fetched_at": "2026-08-04T09:43:50.004226+00:00",
+  "last_updated_at": "2026-08-04T09:43:54.377879+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-didit/2026/08/48/48665baed0988ce19cdfac03dccdb1d2cc0722c40744b978010fc93c3e125606/article.md",
+    "record": "articles/v1/3a/yc-didit/2026/08/48/48665baed0988ce19cdfac03dccdb1d2cc0722c40744b978010fc93c3e125606/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13170,
+    "sha256": "sha256:e22172acabd2a79975525298f554c4d8fd37d471bd735ffc567fc7ec16f5ff65",
+    "normalized_content_hash": "sha256:0e60923913b2dfcba7ee166b6688e6df8f737d4516ed754522e0b45cd04df711"
+  },
+  "provenance": {
+    "source_item_id": "2adc47bd-38a9-4579-9c28-5437baea074d",
+    "external_id": "https://didit.me/blog/kyc-with-claude/"
+  }
+}

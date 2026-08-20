@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc0ee8c7f55f844dff08b7bb48f9ac1c5266792ad8b795013431f37213f4aac2",
+  "company": {
+    "key": "yc-capy",
+    "name": "Capy"
+  },
+  "source": {
+    "id": "yc-capy-news-import-5b2116e2cc05",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://capy.ai/articles/long-running-coding-agents",
+    "canonical": "https://capy.ai/articles/long-running-coding-agents"
+  },
+  "title": "Long-Running Coding Tasks",
+  "summary": "A practical guide to long-running coding agents: persistent environments, context management, checkpoints, acceptance criteria, cost controls, and product tradeoffs.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T04:45:19.150408+00:00",
+  "fetched_at": "2026-07-28T21:44:23.277081+00:00",
+  "last_updated_at": "2026-08-19T23:36:23.134686+00:00",
+  "paths": {
+    "article": "articles/v1/1a/yc-capy/2026/06/dc/dc0ee8c7f55f844dff08b7bb48f9ac1c5266792ad8b795013431f37213f4aac2/article.md",
+    "record": "articles/v1/1a/yc-capy/2026/06/dc/dc0ee8c7f55f844dff08b7bb48f9ac1c5266792ad8b795013431f37213f4aac2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15587,
+    "sha256": "sha256:7a51bec08578ded56f983e4f0977fef7bd8d9eaae15ffa7255376527ce3bacda",
+    "normalized_content_hash": "sha256:98318ed23d433a03dbafcfe26fac21af8ebebc3861ec66b0dfa13ed5ad933beb"
+  },
+  "provenance": {
+    "source_item_id": "43e12d17-8fba-4bb1-ac58-27642f378f40",
+    "external_id": "https://capy.ai/articles/long-running-coding-agents"
+  }
+}

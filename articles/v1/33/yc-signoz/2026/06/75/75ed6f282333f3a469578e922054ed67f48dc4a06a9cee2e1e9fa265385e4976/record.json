@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75ed6f282333f3a469578e922054ed67f48dc4a06a9cee2e1e9fa265385e4976",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-kubernetes",
+    "canonical": "https://signoz.io/blog/opentelemetry-kubernetes"
+  },
+  "title": "Kubernetes Observability with OpenTelemetry: A Complete Setup Guide",
+  "summary": "Set up Kubernetes observability with OpenTelemetry. Deploy the Collector as a DaemonSet and Deployment to gather cluster metrics, traces, and logs.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-07-28T22:07:34.689631+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/75/75ed6f282333f3a469578e922054ed67f48dc4a06a9cee2e1e9fa265385e4976/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/75/75ed6f282333f3a469578e922054ed67f48dc4a06a9cee2e1e9fa265385e4976/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21219,
+    "sha256": "sha256:4f5e7fde59fdc5e27a26fb7cdf0bec3e52e17ef1fd5b7f1907525aa29729f0ce",
+    "normalized_content_hash": "sha256:d62858ea68980bd85c289ba0a990823b1f36912a82800a3fd0b48ce6b02fb15e"
+  },
+  "provenance": {
+    "source_item_id": "9fee3410-cbfb-4c46-b6c5-fc8c0b84362d",
+    "external_id": "https://signoz.io/blog/opentelemetry-kubernetes"
+  }
+}

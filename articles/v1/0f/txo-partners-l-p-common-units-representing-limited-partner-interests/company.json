@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "txo-partners-l-p-common-units-representing-limited-partner-interests",
+    "name": "TXO Partners L.P. Common Units Representing Limited Partner Interests"
+  },
+  "record_count": 11,
+  "first_published_at": "2025-05-13T16:15:00+00:00",
+  "last_published_at": "2026-08-04T16:14:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0f/txo-partners-l-p-common-units-representing-limited-partner-interests/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 15458,
+        "sha256": "sha256:2f0fae1d628e17253e65840787da60a2025a645f61538bf7f8cc0cf323c57de1",
+        "newest_at": "2026-08-04T16:14:00+00:00",
+        "oldest_at": "2025-05-13T16:15:00+00:00"
+      }
+    ]
+  }
+}

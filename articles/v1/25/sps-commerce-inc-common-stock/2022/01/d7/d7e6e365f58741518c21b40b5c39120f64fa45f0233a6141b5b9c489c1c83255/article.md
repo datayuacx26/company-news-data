@@ -1,0 +1,225 @@
+---
+schema_version: "1.0.0"
+document_id: "d7e6e365f58741518c21b40b5c39120f64fa45f0233a6141b5b9c489c1c83255"
+company_key: "sps-commerce-inc-common-stock"
+company: "SPS Commerce Inc."
+source_id: "sps-commerce-inc-common-stock-rss-e53e7c01950b"
+canonical_url: "https://tech.spscommerce.com/2022/01/17/sps-commerce-azure.html"
+published_at: "2022-01-28T18:44:06+00:00"
+first_seen_at: "2026-07-20T23:19:01.810458+00:00"
+fetched_at: "2026-07-28T21:04:10.558196+00:00"
+content_hash: "sha256:52db25971dc6c48ed73b1ba46e443862c69c6e60a611c74107bf066324926caf"
+---
+
+# SPS Commerce + Azure Pipelines: A CI/CD Journey
+
+SPS Commerce is a “booming” technology and SaaS-based organization to work for. Like any enterprise that has consistently done double-digit growth for the last 20-years (I say that like there are a lot… but not as many as you might think), the technology and development-based initiatives on the rise make for an interesting eco-system of tooling that a developer navigates on any given day. That tooling can also be wildly different across different teams and departments. CI/CD tooling is no exception and is an incredibly large piece of day-to-day usage for many engineers. That experience alone can change the tone of your day, and also affect large aspects of where you spend development time and potentially[undifferentiated engineering](https://www.missioncloud.com/blog/the-problem-of-undifferentiated-heavy-lifting) .
+
+
+For many years at SPS, CI/CD tooling and the method of deployment were often compared to a “choose your own adventure” style of architecture. Plenty of good tooling and patterns were made available across many different generations and iterations of development at SPS. However, no single tool could get you from code to production. Some newer generations of components could get you to production with less tooling and fewer boundaries to cross with varying degrees of setup. Once a team had established “their” pipeline architecture of choice, it was then stamped out for all the services under that team’s responsibility. The diversity of tooling obviously meant it was difficult, if not impossible, to roll out some features and workflow orchestration updates across all pipelines or even a few pipelines. Teams needed to support at least some of their own infrastructure for customized build instances, and in some cases deploy infrastructure as well.
+
+
+With the introduction of Azure DevOps, and more specifically Azure Pipelines, our workflow orchestration and standardized build and deploy capability is now available across the organization, across departments, and across cloud providers. Azure Pipelines has enabled SPS to centralize and architect reusable workflow templates that are generic enough for each team to use, while at the same time providing the capability to modify all pipelines workflows and incorporate security best practices in real-time updates. Centralized infrastructure for orchestration and rollout also leaves teams with management of zero infrastructure themselves. Centralized documentation and example patterns enable teams to get up and running quickly with usually a single way to do something. Team contributions to new features and capabilities within the platform mean that everyone can make use of new functionality almost right away.
+
+
+As a Principal Engineer focused on Developer Experience, I recognize this type of improvement for our internal engineering teams has an extremely important and powerful step in our continued journey with CI/CD maturity. However, this important step didn’t happen overnight. In fact, it started almost 6 years ago…
+
+
+## Origin of Azure DevOps at SPS
+
+
+Azure DevOps is an obvious suite of tools you might choose for those development teams and organizations focused largely on the Microsoft stack. You are likely deploying to Azure and making use of Azure DevOps cloud-hosted agents for Windows builds. As a team using Team Foundation Server (TFS), using Azure DevOps was an incredible upgrade with lots of potentials. This is exactly why I introduced it to our small development team in late 2015, and we began spiking and using its then “new” “Release UI” functionality in private preview. This was the first availability of[Microsoft’s “InRelease” product purchase](https://news.microsoft.com/2013/06/03/microsoft-reaches-agreement-to-acquire-inrelease-business-of-incycle-software/) , now integrated into their platform. Not long after, that small development team was[acquired by SPS Commerce](https://www.spscommerce.com/blog/sps-commerce-acquires-toolbox-solutions/) . The beginning of 2016 put me and a bunch of others into an exciting, fresh, and well-funded development ecosystem that held best practices and security with very high regard. It also came with an ecosystem of other tooling that was now made available to us and our products.
+
+
+Fresh off the heels of the excitement and feature capability of Azure DevOps, not long before the acquisition, we were excited to see what SPS Commerce had for CI/CD that we could make use of. At that time there were some good patterns in development that had good potential. The reality at the time was that each team was largely responsible for their own build and CI capability. Deployment had some centralization through a valuable abstraction called “BDP Core”, but centralized orchestration of that was limited in its capability compared to some of the features becoming available in GA of Azure DevOps. Additionally, no support or readily available patterns at SPS were available for non-Linux-based development either, to which cross-platform capability was a definite need.
+
+
+As a result, the decision was made for that one team to move ahead using Azure Pipelines Builds + Release functionality to orchestrate builds and deploys to both on-premise and AWS.
+
+
+## The Early Days
+
+
+As with the early days of most development, it was very exciting and fast-paced with our development of new pipelines and capabilities within Azure DevOps. A large part of that was due to the rapid development of the Azure DevOps platform at the time, with regular releases and features pretty much coming every two weeks as part of their internal sprint cycle at Microsoft. Externally, the Marketplace was growing fast as well. The combination of community-driven extensions and our own custom-built tasks enabled high velocity to quickly and easily deploy to many types of release targets.
+
+
+Within the first year and a half, we found Azure DevOps growing to support not just a single team, but multiple teams within the Analytics department at SPS, with a wide variety of deployment patterns, including AWS deploys with[Cloud Formation](https://aws.amazon.com/cloudformation/) /[Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) /[CodeDeploy](https://aws.amazon.com/codedeploy/) , on-premise SQL Server deploys with[SSDT](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver15) and[SSIS](https://docs.microsoft.com/en-us/sql/integration-services/packages/deploy-integration-services-ssis-projects-and-packages?view=sql-server-ver15) and Microsoft IIS[WebDeploy](https://www.iis.net/downloads/microsoft/web-deploy) . The advantage in this ecosystem was that most teams needing these patterns did not have to go back to a centralized group or individual but were empowered through the flexibility of Azure DevOps to use the centralized build and deploy agents with their own or community tasks. The built-in orchestration and workflow capabilities were already incredibly powerful and enabled you to design your workflow within a few clicks. This meant the capability and features of the Azure DevOps in-house patterns continually were up to par, if not ahead of some of the capabilities of the other CI/CD tooling within the SPS ecosystem, and that didn’t go unnoticed. Small development efforts additionally began integrating Azure DevOps with functionality like events and auditing directly into SPS’s centralized “BDP Event Stream” in[AWS Kinesis](https://aws.amazon.com/kinesis/) to begin reporting the activity and traffic of Azure DevOps alongside the rest of the organization. This included information in the BDP Event Stream such as build time, duration, unit tests coverage as a first for aggregatable information about our build processes internally.
+
+
+However, not all forms of development or all patterns being stamped out in Azure DevOps were necessarily part of an ideal future-proof architecture. As SPS Commerce was rolling out its highly advantageous containerized platform for runtime on top of AWS ECS, it was unclear how Azure Pipelines could effectively integrate with that. Security, best practices, and consistency were all top of mind on how CI/CD tooling would integrate with and deploy to the centralized container clusters for web apps and APIs. The “BDP Core” abstraction was expanded to support REST API interaction. With a well-designed custom task for BDP Core integration, Azure Pipelines was able to take the best of both worlds. It was able to use all the orchestration features of Azure Pipelines and reduce its responsibility on “how” it would push secure deployments to the cluster by using BDP Core API directly. A single tool producing builds and releases, with all deployments visible across each environment was still only achievable with Azure DevOps as a single suite. BDP Core API would then handle the conventions of how it would compose and push containers to the container runtime, and it could handle this centrally across all CI/CD tooling at SPS Commerce. This was a powerful win for CI/CD capability at the time; some great stories and learnings here for a future post from SPS Commerce.
+
+
+## Expanding Success
+
+
+Our usage of Azure Pipelines began growing to more teams within SPS. With that, the Azure Pipelines patterns and infrastructure began a core shift as it changed from Windows-based to Linux-based deploy agents for simplicity and cost reasons. Linux build agents quickly became necessary and the primary use of compute for builds on Azure Pipelines supporting Linux-based container development. Many primarily focused Microsoft engineering teams began migrating and using .NET Core on Linux as well to make use of the new container runtime on AWS ECS. This led to the adoption by the internal SPS SRE team of Azure DevOps as an official build and deploy pattern and tool at SPS Commerce.
+
+
+Through internal conferences and tech meetups, individuals and teams began sharing their experiences, patterns, and success with Azure DevOps + BDP Core as a build and deployment pattern. Team onboarding became more difficult to manage, requiring standardized IAM policy and ticket integration into the process. Security and IAM teams gladly supported it and helped advise on general best practices as we worked to onboard 200+ users across dozens of root projects. The concept that teams could view deployments to all environments from a single view and use centralized infrastructure for it all became very powerful. Teams were enabled to quickly migrate from other tooling, including Jenkins and Drone if they were already using the BDP Core abstraction within their codebases.
+
+
+## Renaming VSTS to Azure DevOps
+
+
+You may or may not be aware, but “Azure DevOps” was not always its name. In fact, going back in history Azure DevOps first materialized as a TFS (Team Foundation Server) in the Cloud. I had the unfortunate pleasure of building many on-premise TFS instances ranging from 2005, 2008, 2010, and 2012. I remember signing up and using my preview install of TFS in the cloud in 2011, and it was a very exciting day! Eventually, that evolved into[Visual Studio Team Services (or VSTS)](https://www.10thmagnitude.com/azure-devops-whats-in-a-rename/) . Visual Studio Team Services was definitely a mouthful and problematic during our rollout of it to the SPS Commerce team. Mainly because “Visual Studio” leaks a Microsoft connotation to it that sounded expensive and probably something specific to “Windows” at the time. Through demos and onboarding of different teams, we were able to shake those concerns quickly.
+
+
+At some point in the timeline around now, we also begin hearing about[Satya Nadella’s](https://en.wikipedia.org/wiki/Satya_Nadella) internal initiative to move all Microsoft engineering teams to a single engineering platform, that is the entire Azure DevOps tooling suite to standardize their practices under[“1ES” (One Engineering System)](https://azure.microsoft.com/en-us/solutions/devops/devops-at-microsoft/one-engineering-system/) . No doubt an exciting prospect to realize that journey and take its advantages, perhaps something we could achieve someday at SPS Commerce (hint hint).
+
+
+It was after this, that the rename to “Azure DevOps” put an entirely new challenge in our path for marketing the use of it clearly across our teams at SPS Commerce. At the time we primarily deployed 95% of our infrastructure to AWS Cloud, with a very small footprint in Microsoft Azure Cloud. This left MANY internally thinking that “Azure DevOps” was a tool primarily intended for deployment into the Azure Cloud, and teams thought if they didn’t deploy in Azure, what use did they have for Azure DevOps. That seems like a fair assumption to make based on the name. The reality is of course far different, and Azure DevOps is a very capable platform and product suite that integrates with all clouds, and offers the robust ability to integrate feature sets with many other tools including integrations with JIRA, GitHub, Jenkins, etc. If you desire you can put code in GitHub, build with Jenkins and deploy with Azure Pipelines to AWS without too much effort. Azure DevOps’s capability to be flexible in its integrations no doubt has served it well. Nevertheless, the name was a more significant challenge to deal with than I had expected. Eventually, critical mass was hit in understanding its position and that is less of a problem now (naming is always hard, no matter the industry)!
+
+
+## SPS’ Official CI/CD Platform
+
+
+Through many other pivotal events, the usage of Azure Pipeline is now not only the officially recommended pipeline technology of choice at SPS, but it is also the only non-deprecated and supported pattern of choice for all build and deploy functionality across multiple platforms and deploy targets. Through the development of a new container runtime backed by[AWS EKS](https://aws.amazon.com/eks/) , new platform initiatives, pivotal team adoption, and adaptability of usage within the SRE team, it became clear that Azure Pipelines was a good choice for teams to move forward with, and in general, required less maintenance than other self-hosted solutions before it. Make no mistake the SaaS capability is powerful in reducing the load on a team. The hybrid model to be able to use both self-hosted agents (in which containers are provided from Microsoft) alongside cloud-hosted compute provides a good deal of flexibility and capability.
+
+
+Of course, the cost was a huge consideration in this decision as well. Before Azure Pipelines, Drone was quickly becoming popular given some of its containerized build capability and how that enabled the centralization of builds on shared infrastructure which was decoupled from the dependencies of the codebase. While very advantageous without a release component in earlier versions, this left Drone still as a single piece of the entire CI/CD capability. With Drone’s acquisition by[Harness and updated licensing model](https://techcrunch.com/2020/08/05/harness-makes-first-acquisition-snagging-open-source-ci-company-drone-io/) , it quickly became a realization that further investment in Drone from a cost perspective was not viable. In comparison to Azure Pipelines footprint cost, we continue to pay almost nothing for its direct usage. Through existing Microsoft partnership programs that offer credits and parallel pipelines (one for every enterprise user), self-hosted compute agents, and “[Stakeholder](https://docs.microsoft.com/en-us/azure/devops/organizations/security/get-started-stakeholder?view=azure-devops&tabs=agile-process) ” (FREE) licenses that provide full “Azure Pipelines” access, the cost for us to build and deploy across our organization is next to zero. Of course, I left out the fact that our self-hosted agent and compute used for build and deploy is deployed into AWS as EC2 and Containerized agent pools, which have associated costs going towards AWS for that. But nevertheless, this provides incredible capability for an incredibly low cost.
+
+
+## Multi-Stage Declarative YAML Deployments
+
+
+YAML-based configuration trends are the de facto standard these days. Some days you may just feel like a “[YAML engineer](https://thenewstack.io/from-yaml-engineer-to-yaml-herder/) ”. There is a core reason for this trend. Storing your configuration as code and not clicking around a UI makes your code self-documenting, repeatable, versioned, and a lot less tedious (click/click). In the early days of Azure DevOps, the Build and Release were separate features that both required design and creation through the UI. This was a nice feature for introducing the system. But very quickly, you’ll see it prevents reusability to some degree and can make it difficult to just “see your entire workflow” through Build and Release (though Azure Pipelines tried to do a decent job visualizing that). Nevertheless, moving to declarative YAML-based pipelines was inevitable with the industry trends. Moving the Build functionality was straightforward. But moving release functionality to YAML was a little more difficult. Props to Microsoft to redesigning the entire release workflow to function in a multi-stage declarative YAML Format, but feature parity was and is still not available for the original “Release” feature.
+
+
+“Builds” was renamed to “Pipelines” and its composition could now be used to orchestrate your entire deployment workflow, from one single YAML file in your repository. The benefits and outcomes of that are desirable for most teams and workflows. It took us some time to transition to that with the same flexibility and capability (at least MVP capability) that was available in Azure Pipeline Releases. While we lost some capability and flexibility, resulting templating patterns and capability better position us for org-level changes, updates, and governance, which is highly desirable for any maturing organization. Most pipelines now function with a single YAML file that builds and deploys all the way through to production using pre-built, reusable, and governed templates and components.
+
+
+Take a look at a basic build and production deployment:
+
+
+```text
+name: $(version).$(build)
+trigger: none
+pr: none
+
+
+resources:
+repositories:
+- repository: templates
+type: github
+name: custom-templates
+endpoint: templates
+
+
+extends:
+template: base.v1.yml@templates
+parameters:
+bdpFile: .bdp
+stages:
+- stage: COMPILE
+jobs:
+- job: BUILD
+pool: BUILD
+steps:
+- checkout: self
+clean: true
+
+
+... BUILD Container, unit tests, etc
+
+
+- publish: $(Build.ArtifactStagingDirectory)
+displayName: publish deploy artifacts
+
+
+# deploy to test
+- template: core/deploy.v1.yml@templates
+parameters:
+environment: test
+
+
+# deploy to prod
+- template: core/deploy.v1.yml@templates
+parameters:
+environment: prod
+
+
+```
+
+
+Additional templates and custom tasks support the building of containers and language-specific build patterns that can be added in through composition. Metadata and standardization about a service are well known programmatically in the SPS ecosystem that enabling deploying to a new environment is three lines of code to pull in the deploy template and indicate your environment.
+
+
+This default pattern supports:
+
+
+- Easily deploy to any number of environments (i.e., dev and prod, or dev, test, and prod, etc.)
+- Identify environments that require manual approval
+- Automated change management approval workflow integration with JIRA through Azure Pipelines Environment checks
+- Integrated governance and validation of service metadata against a central registry
+- Contextual platform variables based on the deployment environment
+- Integrated semantic versioning model(s)
+- Integrated pull request context and variables
+- Enforced security checks for Git branches to be protected, certain names, required templates before deploying to production
+- Filtered custom task list to remove or identify any improper or insecure usage
+- Update organizational templates to affect all pipelines
+
+
+## GitHub Actions Comes Along…
+
+
+Azure Pipelines standardization, capability, and governance components are all working well to remove friction and roadblocks for teams every day who are engineering new services or updates. It was only implied above, but we do not use Azure Repos, but rather GitHub as an organization for version control. Azure Pipelines is then a consumer of our GitHub source. This made for some interesting discussion with regards to the launch of GitHub Actions. GHA of course is a natural evolution of the full suite of capability that GitHub could provide, now a[subsidiary within Microsoft](https://news.microsoft.com/announcement/microsoft-acquires-github/) . GHA has the power to automate events across the suite of tools that GitHub offers, with one aspect of that being CI/CD for your applications and services. Having the CI/CD capability so close and in a single integrated tool like GitHub is no doubt a strong advantage and strength. As an enterprise GitHub organization, the question must be asked then if a shift and migration towards Azure Pipelines is still the right course of action? To help with that discussion we took the debate to Microsoft and GitHub to inquire on their thoughts further.
+
+
+Out of the gate, there is some interesting cooperation between Azure Pipelines and GHA. Noticeably is that they look similar from a syntax perspective and in some cases function very similarly too. In fact, as I understand it, early on at least, core agent infrastructure was shared between products. The GHA team and the Azure Pipelines team is in fact a single team focused on delivering functionality to both platforms. I had the opportunity to discuss the roadmap and key features with one of the core architects and program managers for GHA, who also previously was a core contributor to Azure Pipelines Multi-Stage YAML re-envisioning. As you can imagine, he provided some great perspectives. Hands-down, core development was then focused on GHA and less on Azure Pipelines, and the effect on the[feature timeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline) was clear. But what was also clear was the fact that GHA had a LOT of catch-up to do to participate at the enterprise level. Sure, it was new, interesting, and integrated, but it was missing LOT of features we use in Azure Pipelines. At the time it was missing the concepts of “environments” or approvals and is still missing features around reusable templates. With time though, I’m confident features will eventually get to parity or better in some cases. GitHub Actions feature for[secure deployments with OpenID Connect](https://github.blog/changelog/2021-10-27-github-actions-secure-cloud-deployments-with-openid-connect/) is a great example of a powerful new feature only in GHA.
+
+
+With the information in hand, it was going to be several years before GHA would meet enough feature parity with Azure Pipelines to make it viable for the position and feature capability we had already achieved, not including some core customized features we already had built out or would be coming soon in our own roadmap. Stopping an organization to wait a few years for the potential of a better ecosystem simply did not make sense especially with the value we were already realizing. There is a lot of potential in GHA and look forward to interesting ways we can make use of it, but for the time being and what we know of our roadmap, using[GitHub Repos combined with Azure Pipelines really does give us the best of both ecosystems](https://www.youtube.com/watch?v=bzimLnQhkWw&ab_channel=TorontoEnterpriseDevOpsUsergroup) . We take the best-in-class version control and combine it with a powerful mature, enterprise-ready CI/CD platform. This still enables us to take advantage of features like[GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) even outside of the GHA ecosystem. Additionally, our entire enterprise world does not live in GitHub. In fact, we still use and incorporate other systems for Package Management (Azure Artifacts, AWS ECR, JFrog) and Issue Tracking (JIRA) making the advantage of working in a single tool not an immediate realization if we were to switch to GHA as a quick win. Azure Pipelines, as a component of Azure DevOps, continues to grow (with updated feature timelines recently published for 2022) and provides us with better enterprise support with the current state of the tools.
+
+
+## Now & Next
+
+
+Azure Pipelines at SPS now supports over 50 teams with 400+ engineers, with hundreds of builds and deploys to production daily, across multiple clouds and cloud regions, on 4 different continents. All pivotal infrastructure and services running the SPS Platform and Network are built and deployed through Azure Pipelines. Customized event and auditing are created through custom webhooks and pushed to centralized kinesis stream, pipelines are tracked through association to custom internal service registrations, and change management automation automatically enables production deploys based on the workflow of approvals when required. Pipeline configurations are entirely set up and configured through a single YAML file that enables teams to quickly onboard new pipelines to production fast. As of very recently, platform API documentation is automatically curated and pushed to the centralized SPS API Reference. All this capability and this article add up to an incredible transformation or CI/CD journey at SPS Commerce that is only just beginning.
+
+
+Moving forward in the cycles ahead, we have a desire to continue to build upon this base and enable enhanced Azure Pipeline agent capabilities and multi-region resiliency, better cost tracking for teams, enhanced API Design First integrated patterns, SSO and automated policy provisioning, and enhancing the flexibility of deployment solutions by reducing proprietary technology where possible.
+
+
+## What Did We Learn?
+
+
+Sure, we have learned a ton about how to customize and work with advanced orchestration workflows in Azure Pipelines and build out CI/CD patterns. But more specifically, what are some of the core principles or takeaways architecturally you might consider as part of this journey?
+
+
+### Technology Awareness
+
+
+Having awareness of other technologies within the domain you work in is essential. While at the same time having a system for effective evaluation is important. Without the journey described above, it is highly unlikely that SPS Commerce would have ever considered Azure Pipelines as a tool to solve their CI/CD problems. This identifies how crucial it is to keep up to date with other technologies and patterns in the domain you are solving for. The time may come for another large shift in the technologies you are working with. That may be AWS ECS to AWS EKS or from Drone to Azure Pipelines. The time will come for a shift from Azure Pipelines to GitHub Actions. Keeping that pilot light lit and that evaluation open for emerging technologies while refraining from organizational disruptions until the timing is right is the skill of a good Architect or leader within your organization. Do not pivot to the new and shiny technology without incredible value on the other side. Pivoting requires not just feature parity, but that and then some to make it worth it.
+
+
+### Evolvable Infrastructure & Technology
+
+
+Azure Pipelines is a great example of a technology that supported our journey at different levels of maturity throughout. Whether through the initial community support, or ease of onboarding through clickable Release UI orchestration creation, or using an organizational reusable template, Azure Pipelines provided us with immense value to take advantage of where we as an organization was at, enabling continued support of legacy implementations and reasonable migration paths to new more valuable patterns. This flexibility and support show the signs of a mature product and tool, which is a huge asset to the enterprise. Even today, while 80% of our pipelines use newer patterns, supporting bespoke older patterns and oddball deployment needs allows us to meet the demands of the other 20% of deployment requirements still within the same ecosystem of tooling.
+
+
+### Evolutionary Architectures
+
+
+We definitely have some pipeline patterns that did burn us over time. Thinking ahead about how to future-proof your architecture and where some of those demons lie in your infrastructure can have a drastic cascading effect, especially on pipelines and infrastructure in general, as it can be harder to evolve. Looking for areas to apply[evolutionary architectural thinking](https://www.thoughtworks.com/books/building-evolutionary-architectures) is an incredible help for long-term vision and planning that can really insulate you. The introduction of a single “dependency” that is incorrectly positioned on your build/deploy agents can have long-term effects on your ability to change the platform and move quickly. More concretely[containerization](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/service-containers?view=azure-devops&tabs=yaml) and[templating](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops) are two critical areas that removed some architectural handcuffs for us.
+
+
+### Names Can Be Deceiving
+
+
+If you learned anything from Microsoft’s choice of naming for VSTS or Azure DevOps, consider the impact the name may have on future marketing or rollout of your product both internally and externally. It can cause a world of pain with no technological bearing.
+
+
+### Developer Experience Matters
+
+
+With my focus on Developer Experience as of late, it is clear to me more than ever, through this example and many others like it, that the experience of a developer through their day-to-day operations can drastically change the productivity of an organization. Obvious productivity wins and quality of life enhancements can highly motivate even the largest of enterprise change management initiatives at the grassroots level.
+
+
+[-Travis Gosselin, Principal Engineer, Developer Experience](https://www.linkedin.com/in/travis-gosselin-a60a23a/)
+
+
+*Reference:[http://blog.travisgosselin.com/sps-commerce-azure-pipelines…](http://blog.travisgosselin.com/sps-commerce-azure-pipelines-a-ci-cd-journey/)*
+
+
+[Travis Gosselin](https://tech.spscommerce.com/)[@travisgosselin](https://micro.blog/travisgosselin)

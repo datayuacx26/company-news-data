@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0a628eff4e95373dff1a263be5e34b3e5b760693508ea7034271ad7130d812cc",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud",
+    "canonical": "https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud"
+  },
+  "title": "How the economics of multitenancy work",
+  "summary": "CI is chaotic, bursty, spiky, and short-lived. That chaos is a nightmare unless you’re built for it. Blacksmith’s serverless CI cloud thrives on unpredictability: more customers = more noise = smoother utilization = lower costs for everyone. Multitenancy isn’t just efficient — it’s profitable. And yes, the margins are good.",
+  "published_at": "2025-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/05/0a/0a628eff4e95373dff1a263be5e34b3e5b760693508ea7034271ad7130d812cc/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/05/0a/0a628eff4e95373dff1a263be5e34b3e5b760693508ea7034271ad7130d812cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9319,
+    "sha256": "sha256:567c76c18bf941389676e9a98d0edcdcc6ba666cc8fc0313724ab298696d9030",
+    "normalized_content_hash": "sha256:59e6dab8faea62af4c095944d3cfa3f059265259ffda70fc7d428476903a7061"
+  },
+  "provenance": {
+    "source_item_id": "c185a65a-415d-4b22-9fe2-7913f735554d",
+    "external_id": "https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud"
+  }
+}

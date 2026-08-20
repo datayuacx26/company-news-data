@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bj-s-wholesale-club-holdings-inc-common-stock",
+    "name": "BJ's Wholesale Club Holdings Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-04-01T20:30:00+00:00",
+  "last_published_at": "2026-07-23T10:45:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/28/bj-s-wholesale-club-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 12644,
+        "sha256": "sha256:31a44c40da6732893a344c4e171049c8e39a0e25f38a69b48826415deec1b747",
+        "newest_at": "2026-07-23T10:45:00+00:00",
+        "oldest_at": "2026-04-01T20:30:00+00:00"
+      }
+    ]
+  }
+}

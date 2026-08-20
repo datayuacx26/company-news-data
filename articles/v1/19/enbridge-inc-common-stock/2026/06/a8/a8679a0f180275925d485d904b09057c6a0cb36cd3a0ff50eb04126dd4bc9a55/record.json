@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8679a0f180275925d485d904b09057c6a0cb36cd3a0ff50eb04126dd4bc9a55",
+  "company": {
+    "key": "enbridge-inc-common-stock",
+    "name": "Enbridge Inc"
+  },
+  "source": {
+    "id": "enbridge-inc-common-stock-news-import-a0f24e62dc2d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.enbridge.com/media-center/news/details?id=123883&lang=en",
+    "canonical": "https://www.enbridge.com/media-center/news/details?id=123883"
+  },
+  "title": "Enbridge Inc. to Host Webcast to Discuss 2026 Second Quarter Results on July 31",
+  "summary": "Enbridge Inc. (Enbridge or the Company) (TSX: ENB) (NYSE: ENB) will host a conference call and webcast on July 31, 2026, at 7 a.m. MT (9 a.m. ET) to provide a business update and review 2026...",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:43:38.520208+00:00",
+  "fetched_at": "2026-07-28T21:42:09.561502+00:00",
+  "last_updated_at": "2026-08-20T01:31:38.569017+00:00",
+  "paths": {
+    "article": "articles/v1/19/enbridge-inc-common-stock/2026/06/a8/a8679a0f180275925d485d904b09057c6a0cb36cd3a0ff50eb04126dd4bc9a55/article.md",
+    "record": "articles/v1/19/enbridge-inc-common-stock/2026/06/a8/a8679a0f180275925d485d904b09057c6a0cb36cd3a0ff50eb04126dd4bc9a55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2977,
+    "sha256": "sha256:eeed2ee51b0ee36a5b43f5d19bc1ba16bf38c73e63e7d5adff6f5da544b14f4f",
+    "normalized_content_hash": "sha256:7118f1e6cea9c82a3b8eca1e37c685854bcc022d35d51989725cb2cf548a0cd5"
+  },
+  "provenance": {
+    "source_item_id": "78b1c5bb-c32f-4a40-b5b7-2624e9d36362",
+    "external_id": "https://www.enbridge.com/media-center/news/details?id=123883&lang=en"
+  }
+}

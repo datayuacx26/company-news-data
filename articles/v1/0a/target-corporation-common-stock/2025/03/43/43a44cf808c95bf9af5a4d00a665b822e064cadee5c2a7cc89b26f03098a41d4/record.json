@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43a44cf808c95bf9af5a4d00a665b822e064cadee5c2a7cc89b26f03098a41d4",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/buy-it-again-part-2",
+    "canonical": "https://tech.target.com/blog/buy-it-again-part-2"
+  },
+  "title": "Elevating Guest Repurchasing Behavior Using Buy It Again Recommendations – Part 2",
+  "summary": "An article by Amit Pande, Rankyung Park, David Relyea, Prathyusha Kanmanth Reddy, and Pushkar Chennu : This article introduces a new model for BIA recommendations using item- and category-level Hawkes processes.",
+  "published_at": "2025-03-04T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2025/03/43/43a44cf808c95bf9af5a4d00a665b822e064cadee5c2a7cc89b26f03098a41d4/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2025/03/43/43a44cf808c95bf9af5a4d00a665b822e064cadee5c2a7cc89b26f03098a41d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10239,
+    "sha256": "sha256:b038c4f7ba79012e39061656d5123115bd60955e119025c12e2dd413d1f08061",
+    "normalized_content_hash": "sha256:7d638830205a7037e74e5ae90a90b2b8e1fe5d9a84c7bbbadc35f4ec325db936"
+  },
+  "provenance": {
+    "source_item_id": "b4aaa280-9199-445d-b8bc-38c45bf32fad",
+    "external_id": "BLOG-10091"
+  }
+}

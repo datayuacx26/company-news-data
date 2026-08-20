@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d711e67ade2c88f5e74f252bee260cd8942d23d2a0f160abda7f3a962dd18420",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/multilingual-semantic-retrieval",
+    "canonical": "https://machinelearning.apple.com/research/multilingual-semantic-retrieval"
+  },
+  "title": "Multilingual Semantic Retrieval for Apple Music Search",
+  "summary": "Apple Music serves listeners across 150+ storefronts in dozens of languages, with a catalog that grows by hundreds of thousands of new…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-30T07:04:44.691457+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/d7/d711e67ade2c88f5e74f252bee260cd8942d23d2a0f160abda7f3a962dd18420/article.md",
+    "record": "articles/v1/3a/apple/2026/07/d7/d711e67ade2c88f5e74f252bee260cd8942d23d2a0f160abda7f3a962dd18420/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2119,
+    "sha256": "sha256:d339c6d1ac416938997418d79558486799d73cc9412f51ca75b7a35311825753",
+    "normalized_content_hash": "sha256:e8c9f6a22036bad0ee49501874932ae1ce09ecd0a75810000e4ca79d94a7563e"
+  },
+  "provenance": {
+    "source_item_id": "01cb0b3b-584d-4f7c-a2d9-fd97f8cb4dc2",
+    "external_id": "https://machinelearning.apple.com/research/multilingual-semantic-retrieval"
+  }
+}

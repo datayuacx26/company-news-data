@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bc532c804e92d5d9a5058cb46f3d7342aac662b24570668995dff4fc32615b9",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/rpa-vs-direct-api-generation",
+    "canonical": "https://www.integuru.com/blog/rpa-vs-direct-api-generation"
+  },
+  "title": "RPA vs. Direct API Generation for Production Integrations",
+  "summary": "RPA was built for desktop applications, not web platforms. At production scale, browser-based bots hit throughput ceilings, 30 seconds to 5 minutes per action in latency, and constant breakage from UI changes. Direct API generation calls backend endpoi...",
+  "published_at": "2026-06-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:36.787026+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/2b/2bc532c804e92d5d9a5058cb46f3d7342aac662b24570668995dff4fc32615b9/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/2b/2bc532c804e92d5d9a5058cb46f3d7342aac662b24570668995dff4fc32615b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11322,
+    "sha256": "sha256:7e3a69b4b5e37141ecc5d542e094f382c939259d8ee4ed286ff1941cd4a62eab",
+    "normalized_content_hash": "sha256:7568717fa8f6a72a5f30130fcd80e081ce006d0464b8476c9cce96fc28c25151"
+  },
+  "provenance": {
+    "source_item_id": "91c87e5d-75f2-404a-ac47-07dac38e7577",
+    "external_id": "https://www.integuru.com/blog/rpa-vs-direct-api-generation"
+  }
+}

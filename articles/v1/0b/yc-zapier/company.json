@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-zapier",
+    "name": "Zapier"
+  },
+  "record_count": 119,
+  "first_published_at": "2018-03-29T00:00:00+00:00",
+  "last_published_at": "2026-08-19T04:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2018-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 51
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 57
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0b/yc-zapier/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 48989,
+        "sha256": "sha256:0b2dd7952a18af78d6ba4ccf80e21e259924c29166d8134dc43bf38d7ec9ecfc",
+        "newest_at": "2026-08-19T04:00:00+00:00",
+        "oldest_at": "2026-08-03T05:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0b/yc-zapier/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 48927,
+        "sha256": "sha256:a794ffea8bba874a9b88c4aba2741e1fc07664e09c5ac9a621d4d9b1ed2ce8a0",
+        "newest_at": "2026-08-03T05:00:00+00:00",
+        "oldest_at": "2026-07-14T04:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/0b/yc-zapier/index/pages/000003.json",
+        "record_count": 19,
+        "byte_count": 18375,
+        "sha256": "sha256:816506fbff5c6a79f66e4c4ed8e8fb2de244b5d60040899414d886c188ad1148",
+        "newest_at": "2026-07-14T04:00:00+00:00",
+        "oldest_at": "2018-03-29T00:00:00+00:00"
+      }
+    ]
+  }
+}

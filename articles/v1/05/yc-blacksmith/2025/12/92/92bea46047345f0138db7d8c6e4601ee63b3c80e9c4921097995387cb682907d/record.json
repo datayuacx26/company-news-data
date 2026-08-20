@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "92bea46047345f0138db7d8c6e4601ee63b3c80e9c4921097995387cb682907d",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/blacksmith-x-tailscale",
+    "canonical": "https://www.blacksmith.sh/blog/blacksmith-x-tailscale"
+  },
+  "title": "How Blacksmith survives ISP degradation with Tailscale Services",
+  "summary": "A transparent GitHub proxy, leveraging Tailscale Services and Squid, was built to overcome ISP degradation that was causing GitHub Actions jobs to fail. This internal solution reroutes GitHub traffic through a stable, alternate network path, providing defense-in-depth for runners with zero changes required from customers.",
+  "published_at": "2025-12-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T22:24:55.411240+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/12/92/92bea46047345f0138db7d8c6e4601ee63b3c80e9c4921097995387cb682907d/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/12/92/92bea46047345f0138db7d8c6e4601ee63b3c80e9c4921097995387cb682907d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6720,
+    "sha256": "sha256:c79fe476820ade17a9531574365be8788948a4abbde5af32343966829ebef095",
+    "normalized_content_hash": "sha256:0e2c3f80127f93c09d41e0af1b642e928d8c5ff3441d46ece52551faa887233b"
+  },
+  "provenance": {
+    "source_item_id": "d10be256-3ad8-4158-8f37-5b5151f38e5b",
+    "external_id": "https://www.blacksmith.sh/blog/blacksmith-x-tailscale"
+  }
+}

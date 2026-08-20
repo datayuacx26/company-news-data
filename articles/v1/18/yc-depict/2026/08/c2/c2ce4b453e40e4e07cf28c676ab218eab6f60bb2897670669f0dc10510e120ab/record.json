@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2ce4b453e40e4e07cf28c676ab218eab6f60bb2897670669f0dc10510e120ab",
+  "company": {
+    "key": "yc-depict",
+    "name": "Depict"
+  },
+  "source": {
+    "id": "yc-depict-news-import-180f3238b1a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://depict.ai/resources/blog/hybrid-search-vs-algolia-benchmark",
+    "canonical": "https://depict.ai/resources/blog/hybrid-search-vs-algolia-benchmark"
+  },
+  "title": "Good search knows when to stop: our hybrid search vs a hand-tuned Algolia",
+  "summary": "We benchmarked Depict's hybrid search against a hand-tuned Algolia deployment on a live storefront. Search quality is a shape, not an average. Numbers inside.",
+  "published_at": "2026-08-10T07:00:00+00:00",
+  "first_seen_at": "2026-08-10T10:44:45.109650+00:00",
+  "fetched_at": "2026-08-10T10:44:46.025132+00:00",
+  "last_updated_at": "2026-08-20T03:15:37.065876+00:00",
+  "paths": {
+    "article": "articles/v1/18/yc-depict/2026/08/c2/c2ce4b453e40e4e07cf28c676ab218eab6f60bb2897670669f0dc10510e120ab/article.md",
+    "record": "articles/v1/18/yc-depict/2026/08/c2/c2ce4b453e40e4e07cf28c676ab218eab6f60bb2897670669f0dc10510e120ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11167,
+    "sha256": "sha256:43b04861ffc35d4858324681c324185ce2af87a177046f6c0ca66394dec2f10d",
+    "normalized_content_hash": "sha256:c50660e24a9e03e5261540cae60ae3d5e34357dd6b6e90220dafcba89b5a05bd"
+  },
+  "provenance": {
+    "source_item_id": "132e1330-a122-4f07-a0fc-247810fac8e7",
+    "external_id": "https://depict.ai/resources/blog/hybrid-search-vs-algolia-benchmark"
+  }
+}

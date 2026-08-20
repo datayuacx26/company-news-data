@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+  "page": 1,
+  "record_count": 5,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "298a154d526c3e80865ba5d31cda278961640d6aad55363252222a4fd02c5e16",
+      "company_key": "yc-activeloop",
+      "company_name": "Activeloop",
+      "source_id": "yc-activeloop-news-import-11accf1de1c3",
+      "source_kind": "html",
+      "canonical_url": "https://deeplake.ai/blog/scrapegraph-x-activeloop-hivemind",
+      "title": "Hivemind Skills, Enriched: Turn Session Lessons into Full Playbooks with ScrapeGraphAI",
+      "summary": "Hivemind already codifies what your agents learn in real sessions. This Activeloop skill layers ScrapeGraphAI web research on top: one call, copy-paste setup, sourced references included.",
+      "published_at": "2026-06-10T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+      "article_path": "articles/v1/30/yc-activeloop/2026/06/29/298a154d526c3e80865ba5d31cda278961640d6aad55363252222a4fd02c5e16/article.md",
+      "record_path": "articles/v1/30/yc-activeloop/2026/06/29/298a154d526c3e80865ba5d31cda278961640d6aad55363252222a4fd02c5e16/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "da74c4179413343535e6b96b4bf4dc9ba5dcfce353b236910478ea16941618c8",
+      "company_key": "yc-activeloop",
+      "company_name": "Activeloop",
+      "source_id": "yc-activeloop-news-import-11accf1de1c3",
+      "source_kind": "html",
+      "canonical_url": "https://deeplake.ai/blog/agentfield",
+      "title": "A Deployable Annotation Service for Robotics Datasets",
+      "summary": "Roboscribe-AF is an open-source example that runs multi-agent robotics annotation with AgentField and stores the resulting multimodal dataset branches in Deeplake.",
+      "published_at": "2026-05-30T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+      "article_path": "articles/v1/30/yc-activeloop/2026/05/da/da74c4179413343535e6b96b4bf4dc9ba5dcfce353b236910478ea16941618c8/article.md",
+      "record_path": "articles/v1/30/yc-activeloop/2026/05/da/da74c4179413343535e6b96b4bf4dc9ba5dcfce353b236910478ea16941618c8/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "ac4d327f3207d56acb4cb5a6c7a494f5c2713e200d6d00a838f9e43e905afb16",
+      "company_key": "yc-activeloop",
+      "company_name": "Activeloop",
+      "source_id": "yc-activeloop-news-import-11accf1de1c3",
+      "source_kind": "html",
+      "canonical_url": "https://deeplake.ai/blog/serverless-pg",
+      "title": "Spin up Postgres in a second: How We Built Serverless PG for Agents.",
+      "summary": "We built a serverless, PostgreSQL-compatible database. Not a modified PostgreSQL deployment. PostgreSQL provides the interface. Deeplake provides the storage engine. DuckDB provides the query execution.",
+      "published_at": "2026-03-22T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:56:54.694470+00:00",
+      "article_path": "articles/v1/30/yc-activeloop/2026/03/ac/ac4d327f3207d56acb4cb5a6c7a494f5c2713e200d6d00a838f9e43e905afb16/article.md",
+      "record_path": "articles/v1/30/yc-activeloop/2026/03/ac/ac4d327f3207d56acb4cb5a6c7a494f5c2713e200d6d00a838f9e43e905afb16/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "690cbdcc193030ff74efe9f8ed12f312a44ac86127023d06fa69dfce3fb312db",
+      "company_key": "yc-activeloop",
+      "company_name": "Activeloop",
+      "source_id": "yc-activeloop-news-import-11accf1de1c3",
+      "source_kind": "html",
+      "canonical_url": "https://deeplake.ai/blog/agent-sandbox",
+      "title": "Your Agents Are Drowning in Quicksand. Give Their Data a Sandbox.",
+      "summary": "Databases were built for applications. Deeplake is built for agents. A sandboxed, serverless Postgres instance that spins up with every agent, scales with the swarm, and dies when the job is done.",
+      "published_at": "2026-03-18T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+      "article_path": "articles/v1/30/yc-activeloop/2026/03/69/690cbdcc193030ff74efe9f8ed12f312a44ac86127023d06fa69dfce3fb312db/article.md",
+      "record_path": "articles/v1/30/yc-activeloop/2026/03/69/690cbdcc193030ff74efe9f8ed12f312a44ac86127023d06fa69dfce3fb312db/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "e091bad4d351dd6bdf031a2699471c86294cb0d050e588ea47ac0965fbad3c5b",
+      "company_key": "yc-activeloop",
+      "company_name": "Activeloop",
+      "source_id": "yc-activeloop-news-import-11accf1de1c3",
+      "source_kind": "html",
+      "canonical_url": "https://deeplake.ai/blog/coding-agent-15h",
+      "title": "Software Factory Ran Autonomously for 15h, 2x Speed Up on TPC-H, ASAN-verified, Cost $160",
+      "summary": "How an AI agent autonomously optimized a C++ codebase over 15 hours, achieving a 2x performance improvement on TPC-H benchmarks with an 8:1 test-to-code ratio.",
+      "published_at": "2026-01-28T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+      "article_path": "articles/v1/30/yc-activeloop/2026/01/e0/e091bad4d351dd6bdf031a2699471c86294cb0d050e588ea47ac0965fbad3c5b/article.md",
+      "record_path": "articles/v1/30/yc-activeloop/2026/01/e0/e091bad4d351dd6bdf031a2699471c86294cb0d050e588ea47ac0965fbad3c5b/record.json"
+    }
+  ]
+}

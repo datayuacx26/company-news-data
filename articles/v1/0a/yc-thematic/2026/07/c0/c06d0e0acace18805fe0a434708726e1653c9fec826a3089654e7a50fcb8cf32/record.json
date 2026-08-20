@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c06d0e0acace18805fe0a434708726e1653c9fec826a3089654e7a50fcb8cf32",
+  "company": {
+    "key": "yc-thematic",
+    "name": "Thematic"
+  },
+  "source": {
+    "id": "yc-thematic-news-import-d60ff6e474dd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getthematic.com/insights/why-ai-gives-different-feedback-answers",
+    "canonical": "https://getthematic.com/insights/why-ai-gives-different-feedback-answers"
+  },
+  "title": "Why Do AI Tools Give Different Answers to the Same Customer Feedback Question?",
+  "summary": "AI gives different answers to the same feedback question because LLMs are non-deterministic. Learn why, and how to get consistent, trackable results.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T16:27:08.884527+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-07-28T21:39:44.347316+00:00",
+  "paths": {
+    "article": "articles/v1/0a/yc-thematic/2026/07/c0/c06d0e0acace18805fe0a434708726e1653c9fec826a3089654e7a50fcb8cf32/article.md",
+    "record": "articles/v1/0a/yc-thematic/2026/07/c0/c06d0e0acace18805fe0a434708726e1653c9fec826a3089654e7a50fcb8cf32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11606,
+    "sha256": "sha256:91c892d791c82fea5595c8e80964f1b9e3c580f0d5a58e6c43b4edaed98ce828",
+    "normalized_content_hash": "sha256:624cc2c6e58ba7a6b4ad4993a04568e6dcc51c2f9c6931e0bb8cde63dc90acc1"
+  },
+  "provenance": {
+    "source_item_id": "5f5d0575-1a7a-48e3-a97f-c6568de0b268",
+    "external_id": "https://getthematic.com/insights/why-ai-gives-different-feedback-answers"
+  }
+}

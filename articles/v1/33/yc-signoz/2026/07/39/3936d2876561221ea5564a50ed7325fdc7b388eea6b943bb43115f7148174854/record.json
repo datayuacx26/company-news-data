@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3936d2876561221ea5564a50ed7325fdc7b388eea6b943bb43115f7148174854",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/traces-without-limits",
+    "canonical": "https://signoz.io/blog/traces-without-limits"
+  },
+  "title": "Traces Without Limits - Load a Million Spans with SigNoz",
+  "summary": "Store and query traces without sampling limits in SigNoz: full-fidelity trace retention over OTLP, so you keep every span instead of dropping trace data.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-07-28T20:48:13.298894+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/39/3936d2876561221ea5564a50ed7325fdc7b388eea6b943bb43115f7148174854/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/39/3936d2876561221ea5564a50ed7325fdc7b388eea6b943bb43115f7148174854/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9210,
+    "sha256": "sha256:6ce477921c30e3dae5142cdaa256a656252e1552802f6d6056049039d75b1e68",
+    "normalized_content_hash": "sha256:0673d479cf2736fc45a9dabddafb3cd307918f722a4d4616f1b38ca65d624bf3"
+  },
+  "provenance": {
+    "source_item_id": "44edaa6d-add8-4df5-87c6-d1843755831a",
+    "external_id": "https://signoz.io/blog/traces-without-limits"
+  }
+}

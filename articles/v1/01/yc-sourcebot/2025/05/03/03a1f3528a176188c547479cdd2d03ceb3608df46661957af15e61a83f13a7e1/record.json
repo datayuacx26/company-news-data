@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03a1f3528a176188c547479cdd2d03ceb3608df46661957af15e61a83f13a7e1",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-399c01bf3b04",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/blog/review-agent-learnings",
+    "canonical": "https://www.sourcebot.dev/blog/review-agent-learnings"
+  },
+  "title": "I built an AI code review agent in a few hours, here's what I learned",
+  "summary": "Trying to understand how difficult it is to build a useful code review agent by building one.",
+  "published_at": "2025-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:49.815269+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T03:32:11.624296+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2025/05/03/03a1f3528a176188c547479cdd2d03ceb3608df46661957af15e61a83f13a7e1/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2025/05/03/03a1f3528a176188c547479cdd2d03ceb3608df46661957af15e61a83f13a7e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4964,
+    "sha256": "sha256:1fdb4b6ba05740ed8096c08009a05cc2a7603c6db00abe1a7829b8af2f64b286",
+    "normalized_content_hash": "sha256:71d842c44125b5fbecca992f3649fae57fce921440695e9e62da40fe66b7a010"
+  },
+  "provenance": {
+    "source_item_id": "e47097f0-2e7b-4938-aaa5-ebaaa7e99dd2",
+    "external_id": "https://www.sourcebot.dev/blog/review-agent-learnings"
+  }
+}

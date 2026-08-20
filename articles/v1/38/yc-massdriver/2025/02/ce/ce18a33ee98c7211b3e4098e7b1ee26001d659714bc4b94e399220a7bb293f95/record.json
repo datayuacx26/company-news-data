@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce18a33ee98c7211b3e4098e7b1ee26001d659714bc4b94e399220a7bb293f95",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/the-case-for-abstractions-in-iac",
+    "canonical": "https://www.massdriver.cloud/blogs/the-case-for-abstractions-in-iac"
+  },
+  "title": "The Case for Abstractions in IaC",
+  "summary": "Most Infrastructure as Code implementations expose too much complexity, forcing developers to make infrastructure decisions they shouldn’t have to. This post explores why generic IaC modules fail, how to design abstractions that encode organizational standards while intentionally omitting irrelevant configurations, and how to shift ops from gatekeeping to enablement.",
+  "published_at": "2025-02-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T21:32:22.131944+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2025/02/ce/ce18a33ee98c7211b3e4098e7b1ee26001d659714bc4b94e399220a7bb293f95/article.md",
+    "record": "articles/v1/38/yc-massdriver/2025/02/ce/ce18a33ee98c7211b3e4098e7b1ee26001d659714bc4b94e399220a7bb293f95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18434,
+    "sha256": "sha256:cd87ec47de0b79e4243914e8956adc43a9f7d0b2897cf8dbdd23b92fc41f3a09",
+    "normalized_content_hash": "sha256:7be0bfcfa5eeb6728622e7b8fad2fa32e057a4ff7e80764c6b211d074cef04cc"
+  },
+  "provenance": {
+    "source_item_id": "7a657467-2a5a-45c7-9636-ddacdc0c8942",
+    "external_id": "https://www.massdriver.cloud/blogs/the-case-for-abstractions-in-iac"
+  }
+}

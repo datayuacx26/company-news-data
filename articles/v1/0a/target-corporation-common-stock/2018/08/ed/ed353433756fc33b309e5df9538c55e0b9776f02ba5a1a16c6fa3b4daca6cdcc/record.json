@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed353433756fc33b309e5df9538c55e0b9776f02ba5a1a16c6fa3b4daca6cdcc",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/running-cassandra-in-kubernetes-across-1800-stores",
+    "canonical": "https://tech.target.com/blog/running-cassandra-in-kubernetes-across-1800-stores"
+  },
+  "title": "Running Cassandra in Kubernetes Across 1,800 Stores",
+  "summary": "An article by Daniel Parker and Mike Showalter : Stateful Apps in a Stateless World",
+  "published_at": "2018-08-08T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:06:15.160827+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2018/08/ed/ed353433756fc33b309e5df9538c55e0b9776f02ba5a1a16c6fa3b4daca6cdcc/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2018/08/ed/ed353433756fc33b309e5df9538c55e0b9776f02ba5a1a16c6fa3b4daca6cdcc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11101,
+    "sha256": "sha256:c49a06d15c0b2b5386e61896cf15bdd9333a66f2cea1f1a11422f5e2b726172b",
+    "normalized_content_hash": "sha256:25f8071e3f0d28ccf19e13b61ee3ae83530acc6bcc89362f9680e0867afbc942"
+  },
+  "provenance": {
+    "source_item_id": "adec5e12-fa4c-4fe4-aa73-2eb943aa4d95",
+    "external_id": "BLOG-10004"
+  }
+}

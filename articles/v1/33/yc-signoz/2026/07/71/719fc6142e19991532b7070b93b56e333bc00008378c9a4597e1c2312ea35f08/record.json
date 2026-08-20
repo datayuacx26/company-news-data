@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "719fc6142e19991532b7070b93b56e333bc00008378c9a4597e1c2312ea35f08",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/java-application-profiling",
+    "canonical": "https://signoz.io/guides/java-application-profiling"
+  },
+  "title": "The Developer's Guide to Java Profiling [Tools & Best Practices Included]",
+  "summary": "Java application profiling in 2026: JFR, async-profiler, and the OpenTelemetry profiling signal, plus correlating profiles with traces in SigNoz.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-07-28T20:48:13.318768+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/71/719fc6142e19991532b7070b93b56e333bc00008378c9a4597e1c2312ea35f08/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/71/719fc6142e19991532b7070b93b56e333bc00008378c9a4597e1c2312ea35f08/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31694,
+    "sha256": "sha256:deeeeb4bc822d43d635b5e8aa35f351436e7324d4499eeab4d52486905eacd9e",
+    "normalized_content_hash": "sha256:5c8784501899aabf4717d2b2cbf9389e2639cd374b247bbddb31ab4b1a7e53e8"
+  },
+  "provenance": {
+    "source_item_id": "c355ff4e-e203-477f-8096-01c638602220",
+    "external_id": "https://signoz.io/guides/java-application-profiling"
+  }
+}

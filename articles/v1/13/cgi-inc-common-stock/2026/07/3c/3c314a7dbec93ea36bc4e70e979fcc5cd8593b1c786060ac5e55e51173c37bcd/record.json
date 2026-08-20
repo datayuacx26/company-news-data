@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c314a7dbec93ea36bc4e70e979fcc5cd8593b1c786060ac5e55e51173c37bcd",
+  "company": {
+    "key": "cgi-inc-common-stock",
+    "name": "CGI Inc."
+  },
+  "source": {
+    "id": "cgi-inc-common-stock-news-import-4976794a5402",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cgi.com/en/blog/artificial-intelligence",
+    "canonical": "https://www.cgi.com/en/blog/artificial-intelligence"
+  },
+  "title": "A series of AI blog posts",
+  "summary": "CGI Blogs",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:15:08.885249+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T00:19:28.546023+00:00",
+  "paths": {
+    "article": "articles/v1/13/cgi-inc-common-stock/2026/07/3c/3c314a7dbec93ea36bc4e70e979fcc5cd8593b1c786060ac5e55e51173c37bcd/article.md",
+    "record": "articles/v1/13/cgi-inc-common-stock/2026/07/3c/3c314a7dbec93ea36bc4e70e979fcc5cd8593b1c786060ac5e55e51173c37bcd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3285,
+    "sha256": "sha256:9d5caff0ec55f1750b955550a262da93b865adf74cdeab71bd3f3eb8cd705097",
+    "normalized_content_hash": "sha256:53cbe5fcf7d0c78df45d0a169b43f0e3ddcd63375c112ada26cdf77a924aa5cc"
+  },
+  "provenance": {
+    "source_item_id": "7d93c5a1-05bd-41ff-9ebe-6c43c5deb4ab",
+    "external_id": "https://www.cgi.com/en/blog/artificial-intelligence"
+  }
+}

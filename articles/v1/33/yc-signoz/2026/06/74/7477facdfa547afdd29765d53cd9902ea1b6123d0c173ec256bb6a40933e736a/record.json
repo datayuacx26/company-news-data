@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7477facdfa547afdd29765d53cd9902ea1b6123d0c173ec256bb6a40933e736a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-alternatives",
+    "canonical": "https://signoz.io/blog/opentelemetry-alternatives"
+  },
+  "title": "Are there any alternatives to OpenTelemetry worth considering?",
+  "summary": "Are there real alternatives to OpenTelemetry in 2026? We weigh partial options like Prometheus, Zipkin, and Jaeger, and why OTel remains the standard.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:07:08.422826+00:00",
+  "last_updated_at": "2026-07-28T22:08:47.577092+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/74/7477facdfa547afdd29765d53cd9902ea1b6123d0c173ec256bb6a40933e736a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/74/7477facdfa547afdd29765d53cd9902ea1b6123d0c173ec256bb6a40933e736a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12587,
+    "sha256": "sha256:d81b57e813d93bcbe9cb5612f7436babedadd97b6df4dd16439e682232808c41",
+    "normalized_content_hash": "sha256:0df047f84c8c2a4e944cc9c2e4a35039e819a004f7135258a8e94f4fe4899b7c"
+  },
+  "provenance": {
+    "source_item_id": "a44da219-2991-47e2-8512-c87fbbd80925",
+    "external_id": "https://signoz.io/blog/opentelemetry-alternatives"
+  }
+}

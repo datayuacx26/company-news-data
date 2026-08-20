@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db22029c21fdd3e4a4e14f6de66f5b7c0af309b8378581583611016efb662e50",
+  "company": {
+    "key": "yc-ionworks",
+    "name": "Ionworks"
+  },
+  "source": {
+    "id": "yc-ionworks-news-import-f340ab61a31b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ionworks.com/blog/case-study-faam",
+    "canonical": "https://ionworks.com/blog/case-study-faam"
+  },
+  "title": "How FAAM got 80% of an engineer's time back",
+  "summary": "FAAM's cell-simulation team got 80% of an engineer's time back and built LFP models that capture the coating's real particle-size distribution, by replacing a self-built PyBaMM pipeline with Ionworks.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T20:24:57.978245+00:00",
+  "fetched_at": "2026-08-06T20:24:59.176981+00:00",
+  "last_updated_at": "2026-08-20T00:52:29.147754+00:00",
+  "paths": {
+    "article": "articles/v1/26/yc-ionworks/2026/08/db/db22029c21fdd3e4a4e14f6de66f5b7c0af309b8378581583611016efb662e50/article.md",
+    "record": "articles/v1/26/yc-ionworks/2026/08/db/db22029c21fdd3e4a4e14f6de66f5b7c0af309b8378581583611016efb662e50/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4577,
+    "sha256": "sha256:8550af612a26e30f0fb4dfa556368232b49d3a5e1fa93dfb94cb8f3af2bbc6b0",
+    "normalized_content_hash": "sha256:f168df5c925da769384f0ac5f8a6a648d3cc12b6a046763b198eaaba898f2260"
+  },
+  "provenance": {
+    "source_item_id": "31fbe233-8692-40a8-a546-a89b432a47e7",
+    "external_id": "https://ionworks.com/blog/case-study-faam"
+  }
+}

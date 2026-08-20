@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb54098dbe25d3e259902fa12ba2fc028ff5945924deded65a8d00ee15bf748f",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/strelka",
+    "canonical": "https://tech.target.com/blog/strelka"
+  },
+  "title": "Strelka: Real-Time Threat Hunting Scanner",
+  "summary": "An article by Paul Hutelmyer : Strelka is a real-time, container-based, file scanning system used for threat hunting, threat detection, and incident response, built by our Target cybersecurity team.",
+  "published_at": "2022-08-24T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/08/fb/fb54098dbe25d3e259902fa12ba2fc028ff5945924deded65a8d00ee15bf748f/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/08/fb/fb54098dbe25d3e259902fa12ba2fc028ff5945924deded65a8d00ee15bf748f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7456,
+    "sha256": "sha256:96e4a7cdf9c08856abdd76601d60939332451d9adb726c9921286863f5a05f7b",
+    "normalized_content_hash": "sha256:1a78848d587742c74275a4c97d9400dcc475fd00fac1baaad019e88500562894"
+  },
+  "provenance": {
+    "source_item_id": "2f0a2514-8126-4ec0-9ad9-96e48c4a7974",
+    "external_id": "BLOG-10033"
+  }
+}

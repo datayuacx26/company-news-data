@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3b08ccccf1ce3a981f3f443a25b49e1a3eff409cdc722da12aaec58722d2b3a",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/duckdb-for-bi-when-single-node-analytics-beats-a-cloud-warehouse/",
+    "canonical": "https://www.basedash.com/blog/duckdb-for-bi-when-single-node-analytics-beats-a-cloud-warehouse/"
+  },
+  "title": "DuckDB for BI: when single-node analytics beats a cloud warehouse",
+  "summary": "When DuckDB is the right backend for a BI tool. Covers production patterns, where it beats Snowflake or BigQuery, and where it breaks down.",
+  "published_at": "2026-06-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/06/c3/c3b08ccccf1ce3a981f3f443a25b49e1a3eff409cdc722da12aaec58722d2b3a/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/06/c3/c3b08ccccf1ce3a981f3f443a25b49e1a3eff409cdc722da12aaec58722d2b3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27708,
+    "sha256": "sha256:02bd4c2b95c84e3c7ffc89805239c5e211380fd8b92aaf9055d8b168270b6695",
+    "normalized_content_hash": "sha256:b43589e54add41e4064088c9d3d1b72557e3d679419984955f97ccfe14e78ce9"
+  },
+  "provenance": {
+    "source_item_id": "fd3355f0-9771-4ea2-a68e-a65dd53ccd7a",
+    "external_id": "https://www.basedash.com/blog/duckdb-for-bi-when-single-node-analytics-beats-a-cloud-warehouse/"
+  }
+}

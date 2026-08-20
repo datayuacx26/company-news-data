@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f419c34f7ea824981fd32706efd730810ff775f420f2175a08a14b55cf1dfff0",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/data-masking-in-bi-tools-how-to-protect-pii-in-dashboards/",
+    "canonical": "https://www.basedash.com/blog/data-masking-in-bi-tools-how-to-protect-pii-in-dashboards/"
+  },
+  "title": "Data masking in BI tools: how to protect PII in dashboards and AI queries",
+  "summary": "Data masking hides sensitive values so people can use a dashboard without seeing real PII. Here are the techniques, where to enforce them, and the tradeoffs.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/06/f4/f419c34f7ea824981fd32706efd730810ff775f420f2175a08a14b55cf1dfff0/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/06/f4/f419c34f7ea824981fd32706efd730810ff775f420f2175a08a14b55cf1dfff0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16770,
+    "sha256": "sha256:d9c27b48496f2bd6f8f1b05d18a316581fe06dfe9d096c25296477f3c6072cd3",
+    "normalized_content_hash": "sha256:994c91ee0f7040dd579d672979705cfc6603e563ca0df127f6fa635f0451545d"
+  },
+  "provenance": {
+    "source_item_id": "c2af454f-cce8-46ba-9c97-685f694b3998",
+    "external_id": "https://www.basedash.com/blog/data-masking-in-bi-tools-how-to-protect-pii-in-dashboards/"
+  }
+}

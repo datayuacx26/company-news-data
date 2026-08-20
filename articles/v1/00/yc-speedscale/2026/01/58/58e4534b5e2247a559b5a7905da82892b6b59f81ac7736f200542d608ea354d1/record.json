@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58e4534b5e2247a559b5a7905da82892b6b59f81ac7736f200542d608ea354d1",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/speedscale-moves-observability-data-collector-sidecars-ebpf/",
+    "canonical": "https://speedscale.com/blog/speedscale-moves-observability-data-collector-sidecars-ebpf/"
+  },
+  "title": "Moving Our Observability Data Collector from Sidecars to eBPF",
+  "summary": "Speedscale transitions from Kubernetes sidecar-based observability collection to eBPF for lower latency, reduced resource consumption.",
+  "published_at": "2026-01-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:23:25.248280+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/01/58/58e4534b5e2247a559b5a7905da82892b6b59f81ac7736f200542d608ea354d1/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/01/58/58e4534b5e2247a559b5a7905da82892b6b59f81ac7736f200542d608ea354d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21456,
+    "sha256": "sha256:74dc34ed1b10ecad35c5f920f7e5316b307d2f06590214aeab610fd43540a065",
+    "normalized_content_hash": "sha256:5d7aa799f1397564ef0060201544410ac62241e3f8644887188a968acc2b70bb"
+  },
+  "provenance": {
+    "source_item_id": "3203f0ed-8c0f-424c-bb93-9fcb4d5233cc",
+    "external_id": "https://speedscale.com/blog/speedscale-moves-observability-data-collector-sidecars-ebpf/"
+  }
+}

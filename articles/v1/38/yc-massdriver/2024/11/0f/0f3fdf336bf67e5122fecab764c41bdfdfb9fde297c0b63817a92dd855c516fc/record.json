@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f3fdf336bf67e5122fecab764c41bdfdfb9fde297c0b63817a92dd855c516fc",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/opentofu-foundations-understanding-state-management",
+    "canonical": "https://www.massdriver.cloud/blogs/opentofu-foundations-understanding-state-management"
+  },
+  "title": "OpenTofu Foundations: Understanding State Management (Part 8)",
+  "summary": "Welcome to Week 8 of our OpenTofu Foundations series! In this session, we'll delve into how OpenTofu manages the state of your infrastructure. Understanding state is crucial for effectively using OpenTofu, especially when working with teams and multiple environments. We’ll explore state files, secure storage options, and state locking strategies to ensure your infrastructure remains consistent and secure.",
+  "published_at": "2024-11-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T21:32:22.131944+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2024/11/0f/0f3fdf336bf67e5122fecab764c41bdfdfb9fde297c0b63817a92dd855c516fc/article.md",
+    "record": "articles/v1/38/yc-massdriver/2024/11/0f/0f3fdf336bf67e5122fecab764c41bdfdfb9fde297c0b63817a92dd855c516fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12116,
+    "sha256": "sha256:9ca41d1c06f384d9d1b3b0b71a5066916daaabe9ffb063023a71dfd474bd66da",
+    "normalized_content_hash": "sha256:adcfca8522f71a82f74c098d69bf2d27b2f95da9c35ab21614f918398f86469f"
+  },
+  "provenance": {
+    "source_item_id": "3e486313-ddc7-44a3-aa39-3db065333dd2",
+    "external_id": "https://www.massdriver.cloud/blogs/opentofu-foundations-understanding-state-management"
+  }
+}

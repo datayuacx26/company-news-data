@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1ab5eec9319942a76d73f9afb7726bbf02737af9754e50f4c775bff98f66e91",
+  "company": {
+    "key": "yc-asteroid",
+    "name": "Asteroid"
+  },
+  "source": {
+    "id": "yc-asteroid-news-import-1b74f0bf6416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://asteroid.ai/blog/voice-agents-browser-agents/",
+    "canonical": "https://asteroid.ai/blog/voice-agents-browser-agents/"
+  },
+  "title": "Voice agents need browser agents",
+  "summary": "Voice agents capture data but cannot push it into legacy CRMs and EHRs. Browser agents close the gap through the UI, with no API needed. See how it works.",
+  "published_at": "2025-09-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:06:12.451370+00:00",
+  "fetched_at": "2026-07-28T21:59:45.283870+00:00",
+  "last_updated_at": "2026-08-20T02:20:59.043392+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-asteroid/2025/09/f1/f1ab5eec9319942a76d73f9afb7726bbf02737af9754e50f4c775bff98f66e91/article.md",
+    "record": "articles/v1/15/yc-asteroid/2025/09/f1/f1ab5eec9319942a76d73f9afb7726bbf02737af9754e50f4c775bff98f66e91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4481,
+    "sha256": "sha256:315a1938686d91503becc738daa2a1bb6f607bbd0f6a8383ebf3b1cffd687cba",
+    "normalized_content_hash": "sha256:c500ad5f96a275bea52168617e2012331e6f5eebe63422b6e9a94e30bd6801ee"
+  },
+  "provenance": {
+    "source_item_id": "c5896753-94f3-4f67-9701-116dd0f8859e",
+    "external_id": "https://asteroid.ai/blog/voice-agents-browser-agents/"
+  }
+}

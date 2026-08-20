@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89be35d6a7c1666e54102d48564dc78ad9d67f588a7430542a2ed0805d524aeb",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/spicedb-secures-authorization-for-ai",
+    "canonical": "https://authzed.com/blog/spicedb-secures-authorization-for-ai"
+  },
+  "title": "How SpiceDB Secures Authorization for AI",
+  "summary": "AI agents don't make authorization decisions. SpiceDB does. Here's how relationship graphs, consistency guarantees, caveats, and explicit delegation keep every agent action provably scoped.",
+  "published_at": "2026-07-27T12:00:00+00:00",
+  "first_seen_at": "2026-07-27T19:20:15.411163+00:00",
+  "fetched_at": "2026-07-28T20:32:04.512542+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2026/07/89/89be35d6a7c1666e54102d48564dc78ad9d67f588a7430542a2ed0805d524aeb/article.md",
+    "record": "articles/v1/15/yc-authzed/2026/07/89/89be35d6a7c1666e54102d48564dc78ad9d67f588a7430542a2ed0805d524aeb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13286,
+    "sha256": "sha256:425835533bbf45b16ba63117b2e343bc50c2379a32d87caf3621f704cd7fff9f",
+    "normalized_content_hash": "sha256:d39611d6b0055dca0301c1372f109d848839bd8d742a191466fc5c27106c1422"
+  },
+  "provenance": {
+    "source_item_id": "e4eb6688-1570-4dea-96bf-93a735da33db",
+    "external_id": "https://authzed.com/blog/spicedb-secures-authorization-for-ai"
+  }
+}

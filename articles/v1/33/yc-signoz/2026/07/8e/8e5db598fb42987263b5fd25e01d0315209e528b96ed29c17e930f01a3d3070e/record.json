@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e5db598fb42987263b5fd25e01d0315209e528b96ed29c17e930f01a3d3070e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/flamegraphs",
+    "canonical": "https://signoz.io/blog/flamegraphs"
+  },
+  "title": "Understanding Flame Graphs for Visualizing Distributed Tracing",
+  "summary": "Flame graphs explained: how to read them, what they reveal about CPU and latency, and how continuous profiling with OpenTelemetry generates them.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.190843+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/8e/8e5db598fb42987263b5fd25e01d0315209e528b96ed29c17e930f01a3d3070e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/8e/8e5db598fb42987263b5fd25e01d0315209e528b96ed29c17e930f01a3d3070e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12495,
+    "sha256": "sha256:55a7491287c20f63ba0b6e4c1cb75c1844c2df6791c681b4da6ae2d179ab64cf",
+    "normalized_content_hash": "sha256:56248e414e9934394290eb66a039175e2af2bddca0158d29c76c0bae8d762e91"
+  },
+  "provenance": {
+    "source_item_id": "48ca19be-bb4c-44b4-97a6-f4087fe97847",
+    "external_id": "https://signoz.io/blog/flamegraphs"
+  }
+}

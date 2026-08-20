@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1da47bcaf830b754d3d2d53a7069e4f92eccbcfd2c2f72f9bd1e459f92c93ded",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/claude-code-measure-degradation-opentelemetry",
+    "canonical": "https://signoz.io/blog/claude-code-measure-degradation-opentelemetry"
+  },
+  "title": "Is Claude Code Getting Worse? How to Measure Degradation with OpenTelemetry",
+  "summary": "Measure whether Claude Code is degrading using OpenTelemetry, with output-per-token metrics, dashboards, and efficiency alerts.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/1d/1da47bcaf830b754d3d2d53a7069e4f92eccbcfd2c2f72f9bd1e459f92c93ded/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/1d/1da47bcaf830b754d3d2d53a7069e4f92eccbcfd2c2f72f9bd1e459f92c93ded/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17472,
+    "sha256": "sha256:da20f676235b505e62ab7e44777f51e109d51dea1c58b2d10d4ab4a4be1c06be",
+    "normalized_content_hash": "sha256:6305cc35515e9795dba8270050f4c55d8f002953634c94c721e9c50e459603cd"
+  },
+  "provenance": {
+    "source_item_id": "df5be3f1-35a6-490a-8d8f-442cae5c5f88",
+    "external_id": "https://signoz.io/blog/claude-code-measure-degradation-opentelemetry"
+  }
+}

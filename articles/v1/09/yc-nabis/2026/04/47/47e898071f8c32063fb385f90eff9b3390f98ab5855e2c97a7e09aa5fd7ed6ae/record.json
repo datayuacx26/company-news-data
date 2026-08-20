@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "47e898071f8c32063fb385f90eff9b3390f98ab5855e2c97a7e09aa5fd7ed6ae",
+  "company": {
+    "key": "yc-nabis",
+    "name": "Nabis"
+  },
+  "source": {
+    "id": "yc-nabis-news-import-2c6e9e723fce",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nabis.com/blog/from-fragmented-to-real-time-rebuilding-a-marketplace-that-moves-at-the-speed-of-demand",
+    "canonical": "https://nabis.com/blog/from-fragmented-to-real-time-rebuilding-a-marketplace-that-moves-at-the-speed-of-demand"
+  },
+  "title": "From Fragmented to Real-Time: Rebuilding a Marketplace That Moves at the Speed of Demand",
+  "summary": "Nabis rebuilt its B2B cannabis marketplace on real-time data replication via Kafka, replacing batch-synced systems that couldn't keep pace with inventory changes across California and New York. The result: accurate reorders, faster search, and a multi-cart experience for retailers managing multiple licensed locations — all updating in milliseconds.",
+  "published_at": "2026-04-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:11:17.136501+00:00",
+  "fetched_at": "2026-07-28T22:15:54.285032+00:00",
+  "last_updated_at": "2026-08-19T19:01:13.986908+00:00",
+  "paths": {
+    "article": "articles/v1/09/yc-nabis/2026/04/47/47e898071f8c32063fb385f90eff9b3390f98ab5855e2c97a7e09aa5fd7ed6ae/article.md",
+    "record": "articles/v1/09/yc-nabis/2026/04/47/47e898071f8c32063fb385f90eff9b3390f98ab5855e2c97a7e09aa5fd7ed6ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5628,
+    "sha256": "sha256:9a0d5a76bc287cef5104f5e2a974a07d08819441e6d58e394dd98aae3f821763",
+    "normalized_content_hash": "sha256:c71444b1e0cbdd061e73c43966a8e81a25724909fcaec4bccacbbe3246d0901f"
+  },
+  "provenance": {
+    "source_item_id": "36b6ef30-6708-4a2e-ae63-58dd6500a75c",
+    "external_id": "https://nabis.com/blog/from-fragmented-to-real-time-rebuilding-a-marketplace-that-moves-at-the-speed-of-demand"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "406f9371ad453901f7bcad31d358fd4bd018f886b7ca37d2782715f292eff4ac",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/what-is-an-unofficial-api",
+    "canonical": "https://www.integuru.com/blog/what-is-an-unofficial-api"
+  },
+  "title": "What Is an Unofficial API?",
+  "summary": "An unofficial API is the set of private HTTP endpoints a web platform uses internally to power its own frontend. Developers can call these endpoints directly to get structured data and automate workflows, even when no official API exists.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:10.549507+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/40/406f9371ad453901f7bcad31d358fd4bd018f886b7ca37d2782715f292eff4ac/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/40/406f9371ad453901f7bcad31d358fd4bd018f886b7ca37d2782715f292eff4ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9513,
+    "sha256": "sha256:4fcbb57e70ab170965e8ce43716c267d58a028c93656927aa38a252ab3720f1e",
+    "normalized_content_hash": "sha256:b2bd53457437f77031c6ea4598926c638f32d38fe3122d39cf37436cec9f4eea"
+  },
+  "provenance": {
+    "source_item_id": "77e7f25d-0f6b-45b7-bd76-912d0faef1fe",
+    "external_id": "https://www.integuru.com/blog/what-is-an-unofficial-api"
+  }
+}

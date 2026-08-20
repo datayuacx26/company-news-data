@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db55afbebb57021c58d3ae3a184504e373260a4d4e5501b8dfb6f1de10c0b259",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/opentelemetry/python-custom-metrics",
+    "canonical": "https://signoz.io/opentelemetry/python-custom-metrics"
+  },
+  "title": "Create custom metrics in Python Application using OpenTelemetry",
+  "summary": "Learn how to create custom metrics in a Python application with OpenTelemetry, from counters and histograms to visualizing them.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/db/db55afbebb57021c58d3ae3a184504e373260a4d4e5501b8dfb6f1de10c0b259/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/db/db55afbebb57021c58d3ae3a184504e373260a4d4e5501b8dfb6f1de10c0b259/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8459,
+    "sha256": "sha256:88435c1517448fa510bab73f9d388c4e5ecfd00f48d54bdf74d6c421768c7154",
+    "normalized_content_hash": "sha256:7688eb3c7a746ed792a2695716c4d3403dd18542e5a2cbb6c640c557b81968c8"
+  },
+  "provenance": {
+    "source_item_id": "9a9fa035-efc4-4482-9a16-90465c29da63",
+    "external_id": "https://signoz.io/opentelemetry/python-custom-metrics"
+  }
+}

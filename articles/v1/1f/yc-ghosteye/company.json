@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ghosteye",
+    "name": "GhostEye"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-07-02T00:00:00+00:00",
+  "last_published_at": "2026-07-16T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1f/yc-ghosteye/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5074,
+        "sha256": "sha256:d9c7e04a5cae7eaf10a2b755e859ef9168bb743a7e9009654d1f1fdbc4547425",
+        "newest_at": "2026-07-16T00:00:00+00:00",
+        "oldest_at": "2026-07-02T00:00:00+00:00"
+      }
+    ]
+  }
+}

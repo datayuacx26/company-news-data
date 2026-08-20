@@ -1,0 +1,360 @@
+---
+schema_version: "1.0.0"
+document_id: "3aa36542cba7e2bea183f30e00f730de8fbaa5f7d88b937a1624f986c104661e"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/blog/datadog-pricing"
+published_at: "2026-07-14T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T20:41:19.924237+00:00"
+content_hash: "sha256:b037af0bbb8b9fb8785d2c6bd925c83e5b575c47837182a327b6df2ac6008551"
+---
+
+# Datadog Pricing Breakdown: Plans, Costs & Hidden Fees (2026)
+
+# Datadog Pricing Breakdown: Plans, Costs & Hidden Fees (2026)
+
+
+Published on: May 15, 2024
+
+
+Last Updated: July 14, 2026
+
+
+14 min read
+
+
+If you've used or looked into Datadog, you already know Datadog is not one product with one price. It is a platform with more than 40 separately metered products stacked onto a single bill, each charged by its own unit, whether that is hosts, gigabytes, events, sessions, committers, or AI credits. That structure is why teams routinely see invoices two to three times higher than their first estimate.
+
+
+This blog breaks down how Datadog actually charges you, from the plans and per-unit prices for the products that drive most bills to the billing mechanics that catch people off guard and the levers that keep costs under control. Every price here comes from Datadog's official pricing pages, captured in July 2026.
+
+
+By the end of this article, you will be able to read a Datadog quote and estimate your bill before signing, with a clear sense of where costs grow fastest. We have also added a more affordable[Datadog alternative](https://signoz.io/datadog-alternative/) at the end for you to consider.
+
+
+## How Datadog pricing works (the billing model in plain English)
+
+
+Datadog is, at its core, a modular platform. There is **no single Datadog subscription** . You assemble a bill from individual products you choose, and the total depends entirely on which ones you turn on and how much data each one sees.
+
+
+The following three ideas explain almost every line on a Datadog invoice.
+
+
+### 1. Price is Modular
+
+
+Datadog fragments its pricing across different products like Infrastructure Monitoring,[Application Performance Monitoring (APM)](https://signoz.io/application-performance-monitoring/) ,[Log Management](https://signoz.io/log-management/) , Real User Monitoring (RUM), and the security suite, all billed separately. While this is often marketed as flexibility, the reality is that each new service brings its own unique pricing meter. As your observability needs grow, bolting on new features means juggling multiple billing dimensions, making it increasingly difficult to forecast your overall spend and avoid surprise overages.
+
+
+### 2. The Usage-Based Billing Matrix
+
+
+Datadog bills every product using a different yardstick: hosts for infrastructure, dual-metrics (GBs and events) for logs, sessions for RUM, and active committers for CI tools. This matrix of usage metrics means there is no single lever to control your costs. If you don't monitor every single one of these disparate units, you are practically guaranteed a billing surprise at the end of the month.
+
+
+### 3. Three Billing Options
+
+
+Datadog offers three billing tiers.
+
+
+- ` Annual` is the lowest rate and requires a committed volume.
+- ` Month-to-month` is a higher monthly rate with no annual commitment.
+- ` On-demand` is the highest rate, billed by actual usage with no commitment.
+
+
+For example, while Infrastructure Pro is advertised at $15 per host annually, falling short on your estimation forces you into the $18 on-demand rate, turning any unexpected scaling into a costly premium penalty.
+
+
+## Datadog's Core Product Pricing Overview
+
+
+To give you a clearer picture, here’s an overview of how Datadog prices its main offerings.
+
+
+Below prices are based on publicly available information for billing as of July 2026 and may be subject to change. It's always best to consult Datadog's official pricing page for the latest figures.
+
+
+**Product** **Annual Billing** **Key Details & Inclusions**
+
+
+**Infrastructure (Pro)** $15 per host/month • On-demand: $18/host
+• 5 containers/host
+• 100 custom metrics/host
+• 500 custom events/host
+• 15-month retention
+
+
+**Infrastructure (Enterprise)** $23 per host/month • On-demand: $27/host
+• 10 containers/host
+• 200 custom metrics/host
+• 1,000 custom events/host
+• ML alerts + governance
+
+
+**APM** $31 per host/month • On-demand: $36/host
+• 150 GB ingested spans/host
+• 1M indexed spans/host
+• Distributed tracing included
+
+
+**APM Pro** $35 per host/month • On-demand: $42/host
+• Everything in APM + Data Streams Monitoring
+
+
+**APM Enterprise** $40 per host/month • On-demand: $48/host
+• Everything in APM Pro + Continuous Profiler
+
+
+**Continuous Profiler (standalone)** $19 per profiled host/month • On-demand: $23/host
+• 4 containers/profiled host
+• Extra containers: $2 each
+
+
+**Log Management - Ingest** $0.10 per GB/month • Per GB uncompressed ingested
+• Covers processing, live tail, archiving
+• Charged even if not indexed
+
+
+**Log Management - Index** $1.70 per 1M events/month (15-day) • On-demand: $2.55/1M
+• Retention: $1.06 (3-day), $1.27 (7-day), $2.50 (30-day)
+• Makes logs searchable + alertable
+• Flex Logs $0.05/1M for long retention
+
+
+**Custom Metrics** $5 per 100 metrics/month (overage) • 100/host (Pro), 200/host (Ent.) included
+• Priced on cardinality
+• OTel counts as custom
+
+
+**Real User Monitoring (RUM)** $0.15 per 1,000 sessions (Measure) • On-demand: $0.22/1K
+• Investigate: $3/1K sessions
+• Session Replay: +$2.50/1K
+• Scales with traffic
+
+
+**Database Monitoring** $70 per DB host/month • On-demand: $84/host
+• Query-level metrics
+• Separate from infra host count
+
+
+**Synthetic API Tests** $5 per 10,000 runs/month • On-demand: $7.20/10K
+• Scales with frequency & test locations
+
+
+**Synthetic Browser Tests** $12 per 1,000 runs/month • On-demand: $18/1K
+• Full browser journey
+• Mobile testing: $50/100 runs
+
+
+**Cloud Security Management** $10/host (Pro)
+$25/host (Enterprise) • On-demand: $12 / $30
+• Workload Protection separate ($15)
+
+
+**AI Credits** $500 per 500-credit bundle/month • On-demand: $1.30/credit
+• No rollover
+• 0.3–6.5 credits per action
+
+
+## Understanding the Datadog Billing Mechanics & Hidden Costs
+
+
+Datadog does not simply multiply your average host count by the rate. It uses complex billing mechanics that often lead to bills significantly higher than initial estimates. Here are the four most common hidden traps to watch out for:
+
+
+### High-Water-Mark Host Billing Trap
+
+
+Datadog's pricing for Infrastructure and APM is often tied to the number of hosts you're monitoring. It measures your host count every hour, discards the top 1% of hours with the highest usage, and then bills the entire month based on the next-highest hour, roughly the 99th percentile. This protects you from very brief spikes, but it means any period of sustained high usage sets the price for the whole month.
+
+
+For example: Suppose you normally run 50 hosts, and for a 5-day marketing event you scale to 200. At the end of the month, Datadog ignores about the top 1% of hours (roughly 7 hours of your peak usage), but it still sees 200 hosts for the rest of that stretch, your host count was consistently 200. Your APM bill for the month is calculated on 200 hosts, not your typical 50.
+
+
+- **Your Expectation (based on average):** Closer to` $2,260`
+- **Billed (based on 5-days peak usage):**` $6,200` (200 hosts x $31/month)
+
+
+You end up paying for your busiest week across the entire month, which is where most "why is my bill so high" surprises originate.
+
+
+### The Container Overallocation Trap
+
+
+The same host model gets dangerous in containerized environments. The recommended setup is one Datadog Agent per host, for example, one per Kubernetes node. If an agent is misconfigured to run in every pod, each pod can be counted as a separate host. On a 50-node cluster running hundreds of pods, that single mistake can multiply the bill many times over.
+
+
+### Double Tariff for Log Management
+
+
+Datadog's log pricing is a two-part tariff. You pay once to collect logs (` Ingest` ) and again to make them searchable (` Index` ).
+
+
+**Billing Type** **Price** **What it covers**
+
+
+**Ingest** $0.10 per GB Collect, process, and archive all logs
+
+
+**Index** $1.70 per 1M events (15-day) Make logs searchable + alertable. Other retention tiers: $1.06 (3-day), $1.27 (7-day), $2.50 (30-day)
+
+
+The Problem is that this model forces you to pay twice for the same data to make it useful for debugging. You must pay to collect every gigabyte of logs, but to get real-time query and alerting capabilities, you must again pay the much higher per-event indexing fee. This creates a strong financial disincentive to log comprehensively.
+
+
+Imagine your application generates a modest 200 GB of logs in a month, which equates to roughly 100 million log events.
+
+
+1. **Ingest Cost:** You are first charged **$20/month** (200 GB x $0.10) just to get the logs into Datadog's system.
+2. **Indexing Cost:** To make these logs searchable for your developers during an incident, you then pay an additional **$170/month** (100 million events x $1.70) for 15-days of retention.
+
+
+Your total bill is **$190/month** . To cut that, teams index only a fraction of their logs, which means most of their log data is not searchable during an incident, exactly when they need it.
+
+
+Datadog's newer Flex Logs tier softens this for long-retention use cases. Flex storage is` $0.05` per million events stored and keeps data queryable for up to` 15 months` , but it does not support monitors or Watchdog Insights, so it fits audit and compliance data more than active debugging. For a fuller breakdown of ingestion, indexing, and retention tiers, see our dedicated[Datadog logs pricing](https://signoz.io/blog/datadog-logs-pricing/) guide.
+
+
+### The Custom Metrics Pricing Trap
+
+
+Custom metrics are the most unpredictable part of a Datadog bill. A custom metric can be defined as any metric that does not come from a standard Datadog integration, which includes almost every metric you create for your own application. Critically, metrics sent through OpenTelemetry, the open-source observability standard, are also billed as custom. Our[Datadog custom metrics pricing](https://signoz.io/blog/datadog-custom-metrics-pricing/) guide goes deeper, but here is the short version.
+
+
+**Custom Metrics** **Price**
+
+
+**Pro** 100 custom metrics per host
+
+
+**Enterprise** 200 custom metrics per host
+
+
+**Overage** $5 per 100 metrics/mo
+
+
+**Ingested metrics** (Metrics without Limits) $0.10 per 100 metrics/mo
+
+
+The cost is driven by cardinality, meaning the number of unique combinations of a metric name and its tags.
+
+
+Cardinality grows faster than people expect. Say you track` api.request.latency` across 10 endpoints, 3 status codes, and 3 customer tiers. That is` 10 x 3 x 3 = 90 unique metrics` from a single metric name. Add one[high cardinality](https://signoz.io/blog/high-cardinality-data/) tag such as` customer_id` and the count jumps into the thousands, triggering significant overage fees.
+
+
+To manage this, Datadog offers` Metrics without Limits` , which lets you control which tags are indexed (and thus searchable). While this can lower costs, it introduces its own complexity and a new charge:
+
+
+-
+
+
+**Indexed Metrics:** You are billed the standard overage rate for the metrics you choose to index with specific tags.
+
+
+-
+
+
+**Ingested Metrics:** You also pay a separate, smaller fee ( **$0.10 per 100 metrics** ) for **all** the original metric combinations you sent to Datadog before your tags were filtered.
+
+
+Essentially, you are either paying a high price for full visibility or juggling two different charges to reduce it, adding another layer of complexity to your bill. If you want to bring an existing Datadog bill down, our guide on[how to reduce Datadog costs](https://signoz.io/guides/how-to-reduce-datadog-costs/) walks through the practical levers.
+
+
+The pricing discussed in above section is Datadog's cardinality-based model, which applies unless your contract opts into the alternative. That alternative, **Metric Name pricing** model, bills by the number of unique metric names you submit and the volume of datapoints they produce, rather than by tag combinations. The two are mutually exclusive, so confirm which one your contract uses before forecasting.
+
+
+## SigNoz Cloud: The Cost-Effective Datadog Alternative
+
+
+Look back at your own Datadog bill for a moment. For most teams, the spend concentrates in a handful of places like infrastructure hosts, APM hosts, indexed logs, and custom metrics. Everything covered in the sections above points to the same question. How much of that bill is buying you insight, and how much is just the cost of how the tool meters usage?
+
+
+Answer it with your own numbers, because what you find decides whether a different pricing model would actually help you. Here is how Datadog and SigNoz compare on each cost driver from the sections above:
+
+
+**Dimension** **Datadog** **SigNoz Cloud**
+
+
+**Billing model** Per host + per-product usage Usage-based on data volume
+
+
+**Hosts**` $15 to $40` per host/month No per-host charge
+
+
+**Custom metrics**` $5 per 100` over allotment; OTel is billed as custom Not charged separately; OTel is not penalized
+
+
+**Logs**` $0.10/GB` ingest +` $1.70/1M` indexed` $0.30/GB` ingested; No extra cost for indexing
+
+
+**Traces**` $31 to $40` per host + span overages` $0.30/GB` ingested
+
+
+**Metrics** Cardinality-based custom metric fees` $0.10 per million` samples
+
+
+**Forecasting** Multiple meters + high-water-mark host counting Single volume-based meter
+
+
+**Vendor lock-in** Proprietary agent and data formats. Leaving means re-instrumenting OpenTelemetry-native. Instrumentation stays portable if you switch
+
+
+Run your last invoice against the above table. If it is dominated by host counts and custom metrics, the gap is not a rounding difference, and you can see exactly where it comes from.
+
+
+[SigNoz](https://signoz.io/) is an all-in-one, OpenTelemetry-native observability platform that unifies metrics, traces, and logs in a single application. Because it is built around[OpenTelemetry](https://signoz.io/opentelemetry/) , sending your data through OTel does not trigger a custom-metric surcharge, and there is no per-host fee to optimize around. The instrumentation belongs to you, not the vendor, so your telemetry stays portable and you are not locked into proprietary agents that make leaving expensive. The[SigNoz pricing](https://signoz.io/pricing/) is easy to understand:` $0.30 per GB of logs` ,` $0.30 per GB of traces` , and` $0.10 per million metric samples` .
+
+
+Whether Datadog's model fits your architecture is a call only you can make, and it should be made with your own bill in front of you. If the pattern you keep seeing is rising host counts and overages you did not forecast, it is worth putting a predictable, volume-based model side by side with your next Datadog quote before you renew. For teams already on Datadog, our[Datadog migration guide](https://signoz.io/docs/migration/migrate-from-datadog-to-signoz/) walks through moving dashboards and instrumentation instead of rebuilding them by hand.
+
+
+### Get started with SigNoz
+
+
+The easiest way to try SigNoz is[SigNoz Cloud](https://signoz.io/teams/) , which comes with a 30-day free trial with access to all features.
+
+
+Teams with data-privacy requirements that prevent sending data outside their infrastructure can use the[enterprise self-hosted or BYOC offering](https://signoz.io/contact-us/) . Teams that prefer to manage everything themselves can start with the free, self-hosted[community edition](https://signoz.io/docs/install/self-host/) .
+
+
+## FAQs
+
+
+#### How much does Datadog cost per month?
+
+
+There is no single number. Infrastructure Monitoring starts at $15 per host per month on annual billing, and you add per-product charges for APM, logs, metrics, and anything else you enable. A small production stack typically lands in the low hundreds; large environments reach five and six figures.
+
+
+#### Why is my Datadog bill so high?
+
+
+The usual causes are high-water-mark host billing during traffic spikes, the double charge for log ingest and indexing, and custom metric overages from high-cardinality tags. These are billed on top of the base plan and often appear in the second month of usage.
+
+
+#### Does Datadog have a free plan?
+
+
+Yes. The Free tier covers up to 5 hosts with 1-day metric retention. It is fine for evaluation but not for production, given the retention limit and host cap.
+
+
+#### How does Datadog count hosts?
+
+
+A host is any physical or virtual OS instance, including VMs and Kubernetes nodes. Datadog measures host count hourly, drops the top 1% of hours, and bills the month on the next-highest hour.
+
+
+#### Why are custom metrics so expensive in Datadog?
+
+
+Custom metrics are billed by cardinality, the number of unique metric-and-tag combinations. Pro includes 100 per host, then $5 per 100 metrics. A single high-cardinality tag can push the count into the thousands. Metrics sent via OpenTelemetry are billed as custom.
+
+
+#### Is Datadog cheaper billed annually or on-demand?
+
+
+Annual is cheaper but requires a committed volume. Infrastructure Pro is $15 per host annually versus $18 on-demand, and usage above your commitment is billed at the higher on-demand rate.

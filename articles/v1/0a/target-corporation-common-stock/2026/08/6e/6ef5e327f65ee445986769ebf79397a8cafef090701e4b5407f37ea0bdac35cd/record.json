@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ef5e327f65ee445986769ebf79397a8cafef090701e4b5407f37ea0bdac35cd",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/08/q2-2026-earnings",
+    "canonical": "https://corporate.target.com/news-features/article/2026/08/q2-2026-earnings"
+  },
+  "title": "A Closer Look at Q2 2026 Results",
+  "summary": "Explore Target’s second quarter 2026 financial results with an infographic featuring highlights from the company’s earnings release.",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T17:50:16.495731+00:00",
+  "fetched_at": "2026-08-19T17:50:19.173891+00:00",
+  "last_updated_at": "2026-08-19T17:50:19.324237+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/6e/6ef5e327f65ee445986769ebf79397a8cafef090701e4b5407f37ea0bdac35cd/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/6e/6ef5e327f65ee445986769ebf79397a8cafef090701e4b5407f37ea0bdac35cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6052,
+    "sha256": "sha256:07c0bf485505a8ec484833566a5e59afc6a004f3baa2bdfd624c3882fd49624e",
+    "normalized_content_hash": "sha256:9893ae0e691f2a54a9608d2e948cffb81ba3cc6554e21e99942ce5db80219ea6"
+  },
+  "provenance": {
+    "source_item_id": "871476cd-1afe-42ac-8234-8e2d377821b4",
+    "external_id": "https://corporate.target.com/news-features/article/2026/08/q2-2026-earnings"
+  }
+}

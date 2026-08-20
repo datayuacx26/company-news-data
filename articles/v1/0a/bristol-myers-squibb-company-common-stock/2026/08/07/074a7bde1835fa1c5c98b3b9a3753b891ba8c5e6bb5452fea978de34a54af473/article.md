@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "074a7bde1835fa1c5c98b3b9a3753b891ba8c5e6bb5452fea978de34a54af473"
+company_key: "bristol-myers-squibb-company-common-stock"
+company: "Bristol-Myers Squibb Company"
+source_id: "bristol-myers-squibb-company-common-stock-rss-d60a6dfff3be"
+canonical_url: "https://bristolmyers2016ir.q4web.com/iframes/press-releases/press-release-details/2026/U-S--FDA-Grants-Accelerated-Approval-to-Bristol-Myers-Squibbs-First-CELMoD-Therapy-ZENBEXUS-in-Combination-with-Daratumumab-and-Hyaluronidase-fihj-and-Dexamethasone-ZDd-for-Patients-with-Multiple-Myeloma-as-Early-as-First-Relapse/default.aspx"
+published_at: "2026-08-13T21:12:00+00:00"
+first_seen_at: "2026-08-13T22:15:07.000809+00:00"
+fetched_at: "2026-08-19T17:01:17.691993+00:00"
+content_hash: "sha256:a8a85a546a2874d6b28f1c4712148de028add2a7538b30444a53e5984c74dd87"
+---
+
+# U.S. FDA Grants Accelerated Approval to Bristol Myers Squibb's First CELMoD Therapy ZENBEXUS™, in Combination with Daratumumab and Hyaluronidase-fihj and Dexamethasone (ZDd) for Patients with Multiple Myeloma, as Early as First Relapse
+
+

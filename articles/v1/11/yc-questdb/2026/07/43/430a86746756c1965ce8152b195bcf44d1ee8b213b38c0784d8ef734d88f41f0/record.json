@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "430a86746756c1965ce8152b195bcf44d1ee8b213b38c0784d8ef734d88f41f0",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/hdfc-bank-uses-questdb-for-mule-account-detection/",
+    "canonical": "https://questdb.com/blog/hdfc-bank-uses-questdb-for-mule-account-detection/"
+  },
+  "title": "HDFC Bank uses QuestDB for mule account detection across all major 25+ banking channels",
+  "summary": "HDFC Bank, the largest private bank in India, uses QuestDB inside its in-house Real-Time Streaming Platform (RTSP) for real-time mule account detection, sustaining 5,000 to 7,000 transactions per second on a single instance with sub-second query latency.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/07/43/430a86746756c1965ce8152b195bcf44d1ee8b213b38c0784d8ef734d88f41f0/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/07/43/430a86746756c1965ce8152b195bcf44d1ee8b213b38c0784d8ef734d88f41f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9079,
+    "sha256": "sha256:b9f7148af515c8f2af52c18e196c79994ccf496f4b97f1f7ba1afc80f76ba4b8",
+    "normalized_content_hash": "sha256:3a383340c20712163464d653910423c35df61aa8bbd22092a0ca5da47b6fe2e8"
+  },
+  "provenance": {
+    "source_item_id": "ddd630fc-60b8-4888-8d70-747ad17f070c",
+    "external_id": "https://questdb.com/blog/hdfc-bank-uses-questdb-for-mule-account-detection/"
+  }
+}

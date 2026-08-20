@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46de621be7ad0ed994be3c6b544831bb5cf4d1029d84747a88afcd36a771d8d7",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/core-ai-user-mumu/",
+    "canonical": "https://www.influxdata.com/blog/core-ai-user-mumu/"
+  },
+  "title": "How Mumu Migrated From Prometheus to InfluxDB and Tripled Their Metric Coverage",
+  "summary": "In this blog, we will go over why the Mumu team migrated from Prometheus, rebuilt their monitoring stack on InfluxDB 3, and how the migration went.",
+  "published_at": "2026-06-25T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/06/46/46de621be7ad0ed994be3c6b544831bb5cf4d1029d84747a88afcd36a771d8d7/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/06/46/46de621be7ad0ed994be3c6b544831bb5cf4d1029d84747a88afcd36a771d8d7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12853,
+    "sha256": "sha256:e41346c160b30bda74b108a361b9d467add50cb0b777199e31f657ead0b92d94",
+    "normalized_content_hash": "sha256:568f3f7d6faef7262cdaddd52715053f36f0851abc969878f2c4d2045165c9fd"
+  },
+  "provenance": {
+    "source_item_id": "2bcf40fe-87dc-409f-aa55-2d873c0512d1",
+    "external_id": "https://www.influxdata.com/blog/core-ai-user-mumu/"
+  }
+}

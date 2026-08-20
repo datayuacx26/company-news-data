@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e498676690d549ad0bcb44dd2092f24e0fc5482c93d940f3e3d47af451c12a88",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/rum-source-map/",
+    "canonical": "https://middleware.io/blog/rum-source-map/"
+  },
+  "title": "How to Upload Source Maps for Real User Monitoring So Stack Traces Aren’t Minified",
+  "summary": "Learn why RUM stack traces show minified code, how source map upload works, and how to automate it in CI/CD.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T09:40:34.263987+00:00",
+  "fetched_at": "2026-08-05T09:40:36.438037+00:00",
+  "last_updated_at": "2026-08-19T19:48:10.047752+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/08/e4/e498676690d549ad0bcb44dd2092f24e0fc5482c93d940f3e3d47af451c12a88/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/08/e4/e498676690d549ad0bcb44dd2092f24e0fc5482c93d940f3e3d47af451c12a88/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16674,
+    "sha256": "sha256:938c798df11d5ea4ae58a0d5d19b0c6c4d17cd1302d0f475d7f2186283f3ffec",
+    "normalized_content_hash": "sha256:91c4f2eb6f8572cfd9f4b004558f84fb7e2612dc8c1c8ec05aa4bffe56b71479"
+  },
+  "provenance": {
+    "source_item_id": "1c1df012-2595-4139-a9af-f5536a04d2bd",
+    "external_id": "https://middleware.io/blog/rum-source-map/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c5f3ef9d6985c236b595189795e395bd26fca81233d7430cd3b48919c3ad78f",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/ebpf-garbage-http-payloads-scatter-gather-buffers/",
+    "canonical": "https://speedscale.com/blog/ebpf-garbage-http-payloads-scatter-gather-buffers/"
+  },
+  "title": "eBPF: Preventing Garbage HTTP Payloads When Reading Kernel Scatter-Gather Buffers",
+  "summary": "How our nettap eBPF agent produced garbage HTTP bodies from kernel iov_iter scatter-gather buffers, and the CO-RE plus task-local storage fix that made it correct.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T18:02:56.371078+00:00",
+  "fetched_at": "2026-07-29T18:02:59.945422+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/07/8c/8c5f3ef9d6985c236b595189795e395bd26fca81233d7430cd3b48919c3ad78f/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/07/8c/8c5f3ef9d6985c236b595189795e395bd26fca81233d7430cd3b48919c3ad78f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25822,
+    "sha256": "sha256:26a8af5553c921fc5bd95597a22bcebc20500d4775f793a9eade8fd54a235d7a",
+    "normalized_content_hash": "sha256:3699f34ad81fbee9bfce6a0a4d94b9d1bd20068738e78478d191bc597f7d2134"
+  },
+  "provenance": {
+    "source_item_id": "bd8dcc63-c777-42d7-bc1b-a39d3ecc7d91",
+    "external_id": "https://speedscale.com/blog/ebpf-garbage-http-payloads-scatter-gather-buffers/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9a1ee78c33a5c8d059054b41ad84b5c5f2238cabacec133244a045a819a11de",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/network-telemetry-reference-architecture/",
+    "canonical": "https://www.influxdata.com/blog/network-telemetry-reference-architecture/"
+  },
+  "title": "A Runnable Reference Architecture for Network Telemetry on InfluxDB 3",
+  "summary": "Today, we're walking through the InfluxDB 3 Network Telemetry Reference Architecture, an open source, runnable blueprint for monitoring a data-center fabric on a 5-node InfluxDB 3 Enterprise cluster.",
+  "published_at": "2026-05-21T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T20:50:36.289404+00:00",
+  "last_updated_at": "2026-08-11T12:27:57.252666+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/05/d9/d9a1ee78c33a5c8d059054b41ad84b5c5f2238cabacec133244a045a819a11de/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/05/d9/d9a1ee78c33a5c8d059054b41ad84b5c5f2238cabacec133244a045a819a11de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15461,
+    "sha256": "sha256:28362c86a2a5c10d46e47bc6de5dd097c887752c69003c090dec7ff5c9fef33d",
+    "normalized_content_hash": "sha256:60a40174a01ecfcbaf19ddd8b2d91d8585b0b69b4bc274a3b8f84f6a9c44ae54"
+  },
+  "provenance": {
+    "source_item_id": "5e8995e9-a48c-41d7-aee3-e3423266abdd",
+    "external_id": "https://www.influxdata.com/blog/network-telemetry-reference-architecture/"
+  }
+}

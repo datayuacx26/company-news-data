@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cosmic",
+    "name": "Cosmic"
+  },
+  "record_count": 329,
+  "first_published_at": "2025-10-30T00:00:00+00:00",
+  "last_published_at": "2026-08-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 59
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 62
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 67
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 55
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 25
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 7,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/02/yc-cosmic/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51960,
+        "sha256": "sha256:cd3ef55d472fdd25e6fb618c9dc3ab8ebc24963716c6cee5935160dc7ad876a9",
+        "newest_at": "2026-08-15T00:00:00+00:00",
+        "oldest_at": "2026-07-21T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/02/yc-cosmic/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 54287,
+        "sha256": "sha256:7f57048648f89b9b2e2d16b9a25687c539181f6aff6a7b125646ce86baef2910",
+        "newest_at": "2026-07-21T00:00:00+00:00",
+        "oldest_at": "2026-06-22T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/02/yc-cosmic/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 53662,
+        "sha256": "sha256:7216db70ddaaa6c1000a947abc1ad827875120df2653cc23c6cc6a9ccd4c43a2",
+        "newest_at": "2026-06-21T00:00:00+00:00",
+        "oldest_at": "2026-05-29T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/02/yc-cosmic/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 53644,
+        "sha256": "sha256:e050d2e6c4b29ac4b3a90c43b4b6577c7f2aa256098486f32cd6506c61e28cea",
+        "newest_at": "2026-05-29T00:00:00+00:00",
+        "oldest_at": "2026-05-07T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/02/yc-cosmic/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 53353,
+        "sha256": "sha256:a3e5126777d15b339fc4f5dc8926e49bf909c2a776b0d69827621d08f90a1e19",
+        "newest_at": "2026-05-06T00:00:00+00:00",
+        "oldest_at": "2026-04-11T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/02/yc-cosmic/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 54255,
+        "sha256": "sha256:a939444f4dca1bc568c878534700d375c96015314e4b7f05c31542818abf4222",
+        "newest_at": "2026-04-11T00:00:00+00:00",
+        "oldest_at": "2026-01-30T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/02/yc-cosmic/index/pages/000007.json",
+        "record_count": 29,
+        "byte_count": 32414,
+        "sha256": "sha256:f94f677d15612b030b4ad2e2890c19dbbbe5b60e35c05578f8a3558a318b39ae",
+        "newest_at": "2026-01-30T00:00:00+00:00",
+        "oldest_at": "2025-10-30T00:00:00+00:00"
+      }
+    ]
+  }
+}

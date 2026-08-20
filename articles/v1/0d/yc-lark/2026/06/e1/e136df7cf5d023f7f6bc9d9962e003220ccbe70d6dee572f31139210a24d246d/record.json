@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e136df7cf5d023f7f6bc9d9962e003220ccbe70d6dee572f31139210a24d246d",
+  "company": {
+    "key": "yc-lark",
+    "name": "Lark"
+  },
+  "source": {
+    "id": "yc-lark-news-import-b4dd00669ba5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlark.ai/blog/git-s3-for-storing-agent-context",
+    "canonical": "https://getlark.ai/blog/git-s3-for-storing-agent-context"
+  },
+  "title": "Git + S3 for storing agent context",
+  "summary": "How Lark uses Git, S3, and isolated sandboxes to give AI agents durable context for writing, maintaining, and repairing long-lived E2E test suites.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T15:28:29.794990+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T16:24:06.503118+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-lark/2026/06/e1/e136df7cf5d023f7f6bc9d9962e003220ccbe70d6dee572f31139210a24d246d/article.md",
+    "record": "articles/v1/0d/yc-lark/2026/06/e1/e136df7cf5d023f7f6bc9d9962e003220ccbe70d6dee572f31139210a24d246d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7373,
+    "sha256": "sha256:04b3621353fd93b112f349fe10be47fb47808fab938a7839caf08a4fe81f4ed0",
+    "normalized_content_hash": "sha256:d3a9d5fa0bf4f7f688fa653dfafbe26b40b7d9122ddac90311dbb0d3c5ea6164"
+  },
+  "provenance": {
+    "source_item_id": "4f5fb8bc-13b3-4523-81b9-4a95b11af080",
+    "external_id": "https://getlark.ai/blog/git-s3-for-storing-agent-context"
+  }
+}

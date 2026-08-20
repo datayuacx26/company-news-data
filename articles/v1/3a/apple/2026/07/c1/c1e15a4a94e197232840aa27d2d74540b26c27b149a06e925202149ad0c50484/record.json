@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1e15a4a94e197232840aa27d2d74540b26c27b149a06e925202149ad0c50484",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/gh-esd",
+    "canonical": "https://machinelearning.apple.com/research/gh-esd"
+  },
+  "title": "GH-ESD: Grounded Hypothesis-Driven Error Slice Discovery for Instance-Level Vision Tasks",
+  "summary": "Systematic failures of vision models on semantically coherent subsets, known as error slices, reveal limitations in robustness and…",
+  "published_at": null,
+  "first_seen_at": "2026-07-28T01:14:46.762740+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/c1/c1e15a4a94e197232840aa27d2d74540b26c27b149a06e925202149ad0c50484/article.md",
+    "record": "articles/v1/3a/apple/2026/07/c1/c1e15a4a94e197232840aa27d2d74540b26c27b149a06e925202149ad0c50484/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2136,
+    "sha256": "sha256:6219b240861f3df2f5f9dcf003eea2ebfaa1e6308392e423a33f9fd77a42789c",
+    "normalized_content_hash": "sha256:0ce55cd8d3fa8962b324597be6cf3bd0e5815340b7f6da54d799c93709ed7616"
+  },
+  "provenance": {
+    "source_item_id": "2dfcfdaa-b98c-45cf-8531-84f85e8c3456",
+    "external_id": "https://machinelearning.apple.com/research/gh-esd"
+  }
+}

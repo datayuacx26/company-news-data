@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "690b8a35e3c9e01defad18b1a8aa223e25754e81edc81b60c3564e0017d5fac0",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/speeding-up-posthog-builds-with-depot",
+    "canonical": "https://posthog.com/blog/speeding-up-posthog-builds-with-depot"
+  },
+  "title": "Speeding up PostHog builds with Depot",
+  "summary": "PostHog recently swapped out Docker for Depot in their container image builds within GitHub Actions. The results are outstanding, taking the average…",
+  "published_at": "2022-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2022/08/69/690b8a35e3c9e01defad18b1a8aa223e25754e81edc81b60c3564e0017d5fac0/article.md",
+    "record": "articles/v1/0e/yc-posthog/2022/08/69/690b8a35e3c9e01defad18b1a8aa223e25754e81edc81b60c3564e0017d5fac0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9031,
+    "sha256": "sha256:2a09c24bd8ca59c0bd52095f6d65fd2eb7b59bfa8046de363b4630bef9fb3c5f",
+    "normalized_content_hash": "sha256:53435dbc16968ac0e6b58b9ca1b0e59ae6d4782a3764ce6d38fc703b59186410"
+  },
+  "provenance": {
+    "source_item_id": "372e6987-b116-4320-a846-f013731a1f4e",
+    "external_id": "caea5f47-5b0b-5df5-9696-0646093741ea"
+  }
+}

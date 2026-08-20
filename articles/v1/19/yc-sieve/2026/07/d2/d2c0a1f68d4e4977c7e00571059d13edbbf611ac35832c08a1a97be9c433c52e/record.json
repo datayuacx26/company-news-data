@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2c0a1f68d4e4977c7e00571059d13edbbf611ac35832c08a1a97be9c433c52e",
+  "company": {
+    "key": "yc-sieve",
+    "name": "Sieve"
+  },
+  "source": {
+    "id": "yc-sieve-news-import-7bd448ce2404",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sieve.ai/blog/a-tutorial-on-embedding-billions-of-videos",
+    "canonical": "https://sieve.ai/blog/a-tutorial-on-embedding-billions-of-videos"
+  },
+  "title": "A Tutorial on Embedding Billions of Videos",
+  "summary": "An inside look at how Sieve embedded one billion videos, from frame deduplication and GPU selection to evaluation, cost tradeoffs, and querying 41 billion vectors at scale.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:30:09.007758+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T02:01:06.370488+00:00",
+  "paths": {
+    "article": "articles/v1/19/yc-sieve/2026/07/d2/d2c0a1f68d4e4977c7e00571059d13edbbf611ac35832c08a1a97be9c433c52e/article.md",
+    "record": "articles/v1/19/yc-sieve/2026/07/d2/d2c0a1f68d4e4977c7e00571059d13edbbf611ac35832c08a1a97be9c433c52e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20050,
+    "sha256": "sha256:d72a1ac4c4606b9ab9a0ea5be3fcc857d7880d928406ed4018a9525aa76c6f94",
+    "normalized_content_hash": "sha256:43561d1743439c8713f0facc936a45a10098b44ddf079e679d15d42a6a3f4f0c"
+  },
+  "provenance": {
+    "source_item_id": "c2e21515-5d0b-4722-b21c-67635ced14c8",
+    "external_id": "https://sieve.ai/blog/a-tutorial-on-embedding-billions-of-videos"
+  }
+}

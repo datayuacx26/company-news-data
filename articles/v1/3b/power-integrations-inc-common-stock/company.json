@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "power-integrations-inc-common-stock",
+    "name": "Power Integrations Inc."
+  },
+  "record_count": 9,
+  "first_published_at": "2025-08-22T23:27:21+00:00",
+  "last_published_at": "2026-04-21T16:17:34+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3b/power-integrations-inc-common-stock/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 12090,
+        "sha256": "sha256:e08dd6fa500734bb744001d10d7086c9bf9f618f61f0bfa3cda0f5961a040f31",
+        "newest_at": "2026-04-21T16:17:34+00:00",
+        "oldest_at": "2025-08-22T23:27:21+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34aed4d04e89fb5b0c1d02e98003964c43c6f94574bcfa58544633f3d42b9bdf",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-keycloak",
+    "canonical": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-keycloak"
+  },
+  "title": "Setting Up SSO SAML 2.0 With Keycloak",
+  "summary": "Setting Up Single Sign-On (SSO) SAML 2.0 With Keycloak, including attribute mapping and role mapping.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/34/34aed4d04e89fb5b0c1d02e98003964c43c6f94574bcfa58544633f3d42b9bdf/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/34/34aed4d04e89fb5b0c1d02e98003964c43c6f94574bcfa58544633f3d42b9bdf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 663,
+    "sha256": "sha256:783edd96f5925ee6f02fb35452e7ea8a0a2aa9d559b9262c2f621d247a55b2ff",
+    "normalized_content_hash": "sha256:63ac41c9706cffa178e0be7a898d2297265d4775634c261df2c0eadea56e1817"
+  },
+  "provenance": {
+    "source_item_id": "8e42eef7-cf19-4fae-9a49-c939e0cd8ea3",
+    "external_id": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-keycloak"
+  }
+}

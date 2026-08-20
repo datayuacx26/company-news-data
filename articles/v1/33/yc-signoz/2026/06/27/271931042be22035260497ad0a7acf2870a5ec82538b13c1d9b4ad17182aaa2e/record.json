@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "271931042be22035260497ad0a7acf2870a5ec82538b13c1d9b4ad17182aaa2e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/livekit-observability",
+    "canonical": "https://signoz.io/docs/livekit-observability"
+  },
+  "title": "LiveKit Observability & Monitoring with OpenTelemetry",
+  "summary": "Learn how to instrument LiveKit voice agents with OpenTelemetry and export traces, logs, and metrics to SigNoz to monitor latency and errors.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/27/271931042be22035260497ad0a7acf2870a5ec82538b13c1d9b4ad17182aaa2e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/27/271931042be22035260497ad0a7acf2870a5ec82538b13c1d9b4ad17182aaa2e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 684,
+    "sha256": "sha256:a4172b7e963f81c4b63bd32dafa28f8c68ac8ef12a1759cc2c73388968d66f4c",
+    "normalized_content_hash": "sha256:32647ebefbea0fc40f3066b915466871d84c5ca9804cddbe0a23eec6e6b03134"
+  },
+  "provenance": {
+    "source_item_id": "93a45e1b-f8b9-4d7e-9d40-b83ab60f59f1",
+    "external_id": "https://signoz.io/docs/livekit-observability"
+  }
+}

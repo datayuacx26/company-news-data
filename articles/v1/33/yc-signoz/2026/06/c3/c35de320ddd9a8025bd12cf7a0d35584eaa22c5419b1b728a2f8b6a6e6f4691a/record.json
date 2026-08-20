@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c35de320ddd9a8025bd12cf7a0d35584eaa22c5419b1b728a2f8b6a6e6f4691a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/migration/migrate-from-datadog/opentelemetry-datadog-receiver",
+    "canonical": "https://signoz.io/docs/migration/migrate-from-datadog/opentelemetry-datadog-receiver"
+  },
+  "title": "Using the OpenTelemetry Datadog Receiver",
+  "summary": "Use the OpenTelemetry Datadog Receiver to bridge Datadog Agent traffic into SigNoz, a practical step when migrating from Datadog to OpenTelemetry.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/c3/c35de320ddd9a8025bd12cf7a0d35584eaa22c5419b1b728a2f8b6a6e6f4691a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/c3/c35de320ddd9a8025bd12cf7a0d35584eaa22c5419b1b728a2f8b6a6e6f4691a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 716,
+    "sha256": "sha256:d57032a040d87aa6b0ed11a32b8c9422f4357218eef2301605582dbf6f28f389",
+    "normalized_content_hash": "sha256:72d315059da19ca3ba518a5ea42061ac90b10fdbbb686e29df21f4451d46e2a0"
+  },
+  "provenance": {
+    "source_item_id": "e25975be-7c73-4c7a-966d-2443748af03c",
+    "external_id": "https://signoz.io/docs/migration/migrate-from-datadog/opentelemetry-datadog-receiver"
+  }
+}

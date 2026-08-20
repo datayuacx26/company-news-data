@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6c39329e542996118f3ca413f32d2499e3129153a398e329e3faffab43b18f3b",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/loggerFactory-getLogger-cannot-be-resolved-to-a-type",
+    "canonical": "https://signoz.io/guides/loggerFactory-getLogger-cannot-be-resolved-to-a-type"
+  },
+  "title": "How to Resolve \"LoggerFactory.getLogger\" Error in Java",
+  "summary": "Learn how to fix the LoggerFactory.getLogger cannot be resolved to a type error in Java by adding the correct SLF4J dependency.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-07-28T21:09:53.419363+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/6c/6c39329e542996118f3ca413f32d2499e3129153a398e329e3faffab43b18f3b/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/6c/6c39329e542996118f3ca413f32d2499e3129153a398e329e3faffab43b18f3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17967,
+    "sha256": "sha256:3a4e7257b4b564c037a8fe177aa158b225aef94e88cf047c24812c0fa7401718",
+    "normalized_content_hash": "sha256:9a541b1c8b5cfe930d55495d86db58bdeb7e334c90773da7fc1dac9b286ceeff"
+  },
+  "provenance": {
+    "source_item_id": "bf6127a2-9d03-4341-bcd1-e43facae539d",
+    "external_id": "https://signoz.io/guides/loggerFactory-getLogger-cannot-be-resolved-to-a-type"
+  }
+}

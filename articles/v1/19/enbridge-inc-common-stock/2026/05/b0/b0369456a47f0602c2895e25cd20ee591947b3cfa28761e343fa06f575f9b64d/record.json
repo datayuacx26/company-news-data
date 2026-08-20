@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0369456a47f0602c2895e25cd20ee591947b3cfa28761e343fa06f575f9b64d",
+  "company": {
+    "key": "enbridge-inc-common-stock",
+    "name": "Enbridge Inc"
+  },
+  "source": {
+    "id": "enbridge-inc-common-stock-news-import-a0f24e62dc2d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.enbridge.com/media-center/news/details?id=123878&lang=en",
+    "canonical": "https://www.enbridge.com/media-center/news/details?id=123878"
+  },
+  "title": "Enbridge Inc. and Enbridge Pipelines Inc. Announce Debt Exchange Proposal",
+  "summary": "Enbridge Inc. (TSX: ENB) (NYSE: ENB) (Enbridge) and its wholly owned subsidiary Enbridge Pipelines Inc. (EPI) today announced that they are seeking the approval of the holders (EPI Noteholders) of...",
+  "published_at": "2026-05-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:43:38.520208+00:00",
+  "fetched_at": "2026-07-28T22:12:51.498055+00:00",
+  "last_updated_at": "2026-08-20T01:31:38.569017+00:00",
+  "paths": {
+    "article": "articles/v1/19/enbridge-inc-common-stock/2026/05/b0/b0369456a47f0602c2895e25cd20ee591947b3cfa28761e343fa06f575f9b64d/article.md",
+    "record": "articles/v1/19/enbridge-inc-common-stock/2026/05/b0/b0369456a47f0602c2895e25cd20ee591947b3cfa28761e343fa06f575f9b64d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12134,
+    "sha256": "sha256:ea5673b51801018f3b2f76f283901475b7c9bb42e29014fb61be6c71f88f5f9b",
+    "normalized_content_hash": "sha256:a9af07c833042c0d68b564c02fa0b69457c2db37f30a4ce15a1a40c588c6fb37"
+  },
+  "provenance": {
+    "source_item_id": "8e29f232-bf7c-439f-b270-d3f6b1f720e4",
+    "external_id": "https://www.enbridge.com/media-center/news/details?id=123878&lang=en"
+  }
+}

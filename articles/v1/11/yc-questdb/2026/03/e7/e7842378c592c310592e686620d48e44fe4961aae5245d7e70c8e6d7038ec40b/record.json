@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7842378c592c310592e686620d48e44fe4961aae5245d7e70c8e6d7038ec40b",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/arden-charts-real-time-charting-questdb/",
+    "canonical": "https://questdb.com/blog/arden-charts-real-time-charting-questdb/"
+  },
+  "title": "Building a real-time multi-exchange charting platform with QuestDB",
+  "summary": "How Arden Charts streams 15,000+ tickers across 8 exchanges and uses QuestDB materialized views to power real-time candlestick charts on small hardware.",
+  "published_at": "2026-03-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-29T19:25:57.858413+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/03/e7/e7842378c592c310592e686620d48e44fe4961aae5245d7e70c8e6d7038ec40b/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/03/e7/e7842378c592c310592e686620d48e44fe4961aae5245d7e70c8e6d7038ec40b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10306,
+    "sha256": "sha256:30b4d8aead47f9b37418ecb1a9add88c15381ca4d06f9f9e9433a022b2e7d625",
+    "normalized_content_hash": "sha256:b91283c74c1fd692acdd659d38af22fa5145a42fe8eabb6dbb5ce66101cea33d"
+  },
+  "provenance": {
+    "source_item_id": "48927e55-6806-4dce-88a1-877287efa207",
+    "external_id": "https://questdb.com/blog/arden-charts-real-time-charting-questdb/"
+  }
+}

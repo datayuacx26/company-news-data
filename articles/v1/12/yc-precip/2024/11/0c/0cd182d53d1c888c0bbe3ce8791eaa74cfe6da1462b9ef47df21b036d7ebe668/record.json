@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0cd182d53d1c888c0bbe3ce8791eaa74cfe6da1462b9ef47df21b036d7ebe668",
+  "company": {
+    "key": "yc-precip",
+    "name": "Precip"
+  },
+  "source": {
+    "id": "yc-precip-rss-f59c0f39e1b1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://precip.ai/blog/how-snow-totals-get-calculated/",
+    "canonical": "https://precip.ai/blog/how-snow-totals-get-calculated/"
+  },
+  "title": "What you need to know about measuring snow",
+  "summary": "Snowfall can be measured using radar like rainfall, but with a few key differences. Modeling snow depth is an entirely different challenge.",
+  "published_at": "2024-11-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:06.643563+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T02:00:38.381877+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-precip/2024/11/0c/0cd182d53d1c888c0bbe3ce8791eaa74cfe6da1462b9ef47df21b036d7ebe668/article.md",
+    "record": "articles/v1/12/yc-precip/2024/11/0c/0cd182d53d1c888c0bbe3ce8791eaa74cfe6da1462b9ef47df21b036d7ebe668/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5677,
+    "sha256": "sha256:82de7533ec90f342d51809c51997293d705be7cdce88b0fa6537e9a506c56a3a",
+    "normalized_content_hash": "sha256:176e8c68a5aebd00564d6b33579aa7d4bc9ff981627d6cacb2756da7294e2274"
+  },
+  "provenance": {
+    "source_item_id": "9e3584b9-0436-4088-9783-5136674e72b5",
+    "external_id": "https://precip.ai/blog/how-snow-totals-get-calculated/"
+  }
+}

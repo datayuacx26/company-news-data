@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3541a19b55fd890141304153875c960e1948642005cdb20bbe7d15ffb7329e1c",
+  "company": {
+    "key": "yc-polymath-robotics",
+    "name": "Polymath Robotics"
+  },
+  "source": {
+    "id": "yc-polymath-robotics-news-import-0eb697031937",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.polymathrobotics.com/blog/the-polymath-code-standard",
+    "canonical": "https://www.polymathrobotics.com/blog/the-polymath-code-standard"
+  },
+  "title": "Polymath Robotics Blog | The Polymath Code Standard: How We Maintain Consistent Style Across Every Repository",
+  "summary": "Polymath writes Python, C++, bash, YAML, CMake, and Dockerfiles across dozens of repos. Here's how we collapsed a 200-line pre-commit config and six config files into a single versioned package — and why that finally made the standard stay consistent.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:33:00.269851+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T00:25:58.346801+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-polymath-robotics/2026/07/35/3541a19b55fd890141304153875c960e1948642005cdb20bbe7d15ffb7329e1c/article.md",
+    "record": "articles/v1/21/yc-polymath-robotics/2026/07/35/3541a19b55fd890141304153875c960e1948642005cdb20bbe7d15ffb7329e1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14289,
+    "sha256": "sha256:eeac2e6e04d463ac8210bae1bb7cdf8d7282b73898b38e519c4bbdc3d6e9602f",
+    "normalized_content_hash": "sha256:3458e4eeadb9c46bd455f88da2bb546751eebd86d6f108577fbc5bcdbbf0d239"
+  },
+  "provenance": {
+    "source_item_id": "1bde7973-4cac-4edf-a0f3-44af1943ea0c",
+    "external_id": "https://www.polymathrobotics.com/blog/the-polymath-code-standard"
+  }
+}

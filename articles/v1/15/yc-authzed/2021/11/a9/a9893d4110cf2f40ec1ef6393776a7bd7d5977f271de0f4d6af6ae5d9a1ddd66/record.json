@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a9893d4110cf2f40ec1ef6393776a7bd7d5977f271de0f4d6af6ae5d9a1ddd66",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/consistent-hash-load-balancing-grpc",
+    "canonical": "https://authzed.com/blog/consistent-hash-load-balancing-grpc"
+  },
+  "title": "Consistent Hash Load Balancing for gRPC",
+  "summary": "Learn how SpiceDB's distributed authorization database uses consistent hashing and caching to keep latencies low. Discover how to extend gRPC with a consistent hash load balancer.",
+  "published_at": "2021-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T22:26:35.155530+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2021/11/a9/a9893d4110cf2f40ec1ef6393776a7bd7d5977f271de0f4d6af6ae5d9a1ddd66/article.md",
+    "record": "articles/v1/15/yc-authzed/2021/11/a9/a9893d4110cf2f40ec1ef6393776a7bd7d5977f271de0f4d6af6ae5d9a1ddd66/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9726,
+    "sha256": "sha256:d06114f38b0b6f359bb6e7a97ad5ae0cdd948f1b10f8e4a1616b25ec04d96a75",
+    "normalized_content_hash": "sha256:51f21c21e0449b3bf89aa6e572d1a6a1f9943693078fe86fd9bee6ae0afa2356"
+  },
+  "provenance": {
+    "source_item_id": "ef7788e9-afcd-4639-8fee-1d5023e550c7",
+    "external_id": "https://authzed.com/blog/consistent-hash-load-balancing-grpc"
+  }
+}

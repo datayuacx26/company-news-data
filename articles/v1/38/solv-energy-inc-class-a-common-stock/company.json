@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "solv-energy-inc-class-a-common-stock",
+    "name": "SOLV Energy Inc."
+  },
+  "record_count": 9,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/38/solv-energy-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 10495,
+        "sha256": "sha256:3a70b09eb51da49ef4d52fc1602ce6a12ce5a4bd5f918d4ea4dd7f6ce57d1ab2",
+        "newest_at": "2026-08-17T21:18:36.781763+00:00",
+        "oldest_at": "2026-07-28T21:16:48.751829+00:00"
+      }
+    ]
+  }
+}

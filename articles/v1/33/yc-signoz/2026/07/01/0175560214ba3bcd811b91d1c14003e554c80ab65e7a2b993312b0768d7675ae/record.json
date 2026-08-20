@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0175560214ba3bcd811b91d1c14003e554c80ab65e7a2b993312b0768d7675ae",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-tracing",
+    "canonical": "https://signoz.io/blog/opentelemetry-tracing"
+  },
+  "title": "Complete guide to OpenTelemetry Tracing (with code examples)",
+  "summary": "OpenTelemetry tracing: how the tracing signal works (tracers, spans, context propagation, samplers, exporters) and how to send traces over OTLP to SigNoz.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-07-28T20:48:13.281672+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/01/0175560214ba3bcd811b91d1c14003e554c80ab65e7a2b993312b0768d7675ae/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/01/0175560214ba3bcd811b91d1c14003e554c80ab65e7a2b993312b0768d7675ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20483,
+    "sha256": "sha256:8f6b9542f55184dd55ab82ff4551d0cb1f3a3dfc298aa4a92836f9894860a9cb",
+    "normalized_content_hash": "sha256:2a0d993bd5624918b156bffb70df251946b04b0fd0e73a3d32bbebb269233d58"
+  },
+  "provenance": {
+    "source_item_id": "ccd88846-a91f-457c-912d-896a0c231638",
+    "external_id": "https://signoz.io/blog/opentelemetry-tracing"
+  }
+}

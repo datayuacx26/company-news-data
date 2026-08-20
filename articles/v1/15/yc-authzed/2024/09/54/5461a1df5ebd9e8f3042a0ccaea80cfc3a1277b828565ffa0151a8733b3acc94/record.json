@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5461a1df5ebd9e8f3042a0ccaea80cfc3a1277b828565ffa0151a8733b3acc94",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/spicedb-relationship-integrity",
+    "canonical": "https://authzed.com/blog/spicedb-relationship-integrity"
+  },
+  "title": "Relationship integrity",
+  "summary": "SpiceDB v1.36.0 introduces a new feature: relationship integrity. It ensures that all relationships written to the backing datastore are signed by a key only known to SpiceDB, protecting your SpiceDB permissions system from modifications to their relationship data.",
+  "published_at": "2024-09-30T17:41:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:59:23.866660+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2024/09/54/5461a1df5ebd9e8f3042a0ccaea80cfc3a1277b828565ffa0151a8733b3acc94/article.md",
+    "record": "articles/v1/15/yc-authzed/2024/09/54/5461a1df5ebd9e8f3042a0ccaea80cfc3a1277b828565ffa0151a8733b3acc94/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8626,
+    "sha256": "sha256:b509795ce7c222062d92e42161af24fb913c0fbd1669c282cb005140397bcf72",
+    "normalized_content_hash": "sha256:22f8efed21ec02ccbed4028039d7ab0835d0eaa51e107847ec84553dcebce431"
+  },
+  "provenance": {
+    "source_item_id": "31ebf00b-2236-4686-b2ea-540e26f31330",
+    "external_id": "https://authzed.com/blog/spicedb-relationship-integrity"
+  }
+}

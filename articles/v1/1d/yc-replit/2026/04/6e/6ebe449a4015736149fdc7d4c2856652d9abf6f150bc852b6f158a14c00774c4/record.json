@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ebe449a4015736149fdc7d4c2856652d9abf6f150bc852b6f158a14c00774c4",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/app-monitoring",
+    "canonical": "https://replit.com/blog/app-monitoring"
+  },
+  "title": "Introducing Replit App Monitoring",
+  "summary": "At Replit, we're on a mission to automate software creation for everybody. We want to become your fully AI-powered engineering team. But building your app is only half the job. The other half is keeping your app running smoothly once it's live. Until now, if your published app went down, you would first find out from your users, who would see that your app is experiencing issues. We're launching App Monitoring for published apps, so you're the first to know when your app goes down. And Replit Agent is your partner in fixing it: Agent can now sift through your application’s logs and production database to diagnose failures and identify root cause. Know the moment your app goes down Once you’ve enabled App Monitoring, if your app goes down, we'll email you so you can take action right away.",
+  "published_at": "2026-04-29T17:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:34:32.089077+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-29T07:01:03.424169+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/04/6e/6ebe449a4015736149fdc7d4c2856652d9abf6f150bc852b6f158a14c00774c4/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/04/6e/6ebe449a4015736149fdc7d4c2856652d9abf6f150bc852b6f158a14c00774c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3176,
+    "sha256": "sha256:c1cb6a2cc494b6c778be429b92c2e8116d96d7562a358b908529b353dc305277",
+    "normalized_content_hash": "sha256:6fe5bd418dfd4deffc905678203ea783956b7cb817e52b052327aafecfd66b52"
+  },
+  "provenance": {
+    "source_item_id": "cb9503ee-39a5-4dfc-a8cd-9e3db8eb7469",
+    "external_id": "https://replit.com/blog/app-monitoring"
+  }
+}

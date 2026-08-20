@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b31060b64484343a7effe02f01c01f972f8416931ea0150245ee2070ee31f3d",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/how-to-migrate-oracle-java-to-openjdk-with-traffic-replay/",
+    "canonical": "https://speedscale.com/blog/how-to-migrate-oracle-java-to-openjdk-with-traffic-replay/"
+  },
+  "title": "Oracle JDK to OpenJDK: A Guide to Reliable Migration Testing",
+  "summary": "Record production traffic on Oracle JDK, replay it on OpenJDK, and catch every regression before users do. A step-by-step Speedscale guide.",
+  "published_at": "2026-02-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:20:18.906160+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/02/1b/1b31060b64484343a7effe02f01c01f972f8416931ea0150245ee2070ee31f3d/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/02/1b/1b31060b64484343a7effe02f01c01f972f8416931ea0150245ee2070ee31f3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18340,
+    "sha256": "sha256:b31faa95a1b9d20377fa8f9162697548f68e8a87f5ae2e094cb3c719d3ca9863",
+    "normalized_content_hash": "sha256:9011b77d942efdecbb6aa6d7441a6510aacc6a85be076a29420a838407607187"
+  },
+  "provenance": {
+    "source_item_id": "5f057245-c834-416d-b415-8d75ae109f77",
+    "external_id": "https://speedscale.com/blog/how-to-migrate-oracle-java-to-openjdk-with-traffic-replay/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f39982e33373a16f954d3741703871a3ceecf3e4fcd3b3482991f8b74f07bb8e",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/what-is-api-generation",
+    "canonical": "https://www.integuru.com/blog/what-is-api-generation"
+  },
+  "title": "What Is API Generation? How APIs Get Built for Any Platform",
+  "summary": "API generation creates programmatic access to web platforms that have no public API, by reverse-engineering the private HTTP endpoints the platform's own frontend calls. The result is a documented, stable API you can call like any REST endpoint.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:23:16.325685+00:00",
+  "last_updated_at": "2026-07-28T21:25:07.442095+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/f3/f39982e33373a16f954d3741703871a3ceecf3e4fcd3b3482991f8b74f07bb8e/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/f3/f39982e33373a16f954d3741703871a3ceecf3e4fcd3b3482991f8b74f07bb8e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11055,
+    "sha256": "sha256:13de527dccf9cb32cfdc7df71b4a6ff3b24983be6c904197de7c5eb292d9c2b5",
+    "normalized_content_hash": "sha256:6e1204de595fce46894551d6a9cee6db1e1593f17349df577320dc30f03b8566"
+  },
+  "provenance": {
+    "source_item_id": "1aa4f443-e9e8-43c2-a1bd-c7df35e77205",
+    "external_id": "https://www.integuru.com/blog/what-is-api-generation"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e06ff0849974523ba4b5476c1ad6f51c6e57768f686d54631faaca93c21fcbc",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/beware-of-production-similar-data-the-security-iceberg-and-where-pii-actually-hides/",
+    "canonical": "https://speedscale.com/blog/beware-of-production-similar-data-the-security-iceberg-and-where-pii-actually-hides/"
+  },
+  "title": "Beware of PII in Testing Data: The Security Iceberg and Where PII Actually Hides",
+  "summary": "Using 'production-similar' data in pre-production is a major security risk. Learn why traditional masking fails, where hidden PII hides, and how to fix it.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/06/2e/2e06ff0849974523ba4b5476c1ad6f51c6e57768f686d54631faaca93c21fcbc/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/06/2e/2e06ff0849974523ba4b5476c1ad6f51c6e57768f686d54631faaca93c21fcbc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10953,
+    "sha256": "sha256:90f83ddee927b13e3845ffec5dac1b7c3b96b217dd0c8e8fe6d9039f9d648e61",
+    "normalized_content_hash": "sha256:7bc2f9a0fcd58032cbec4696ff62218604bed34f90f982c16fced606756c831d"
+  },
+  "provenance": {
+    "source_item_id": "ecee3115-2392-436c-9994-ac23740d8951",
+    "external_id": "https://speedscale.com/blog/beware-of-production-similar-data-the-security-iceberg-and-where-pii-actually-hides/"
+  }
+}

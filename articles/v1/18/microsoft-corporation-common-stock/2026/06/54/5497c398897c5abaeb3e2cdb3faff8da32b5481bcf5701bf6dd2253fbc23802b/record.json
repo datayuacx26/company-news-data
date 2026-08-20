@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5497c398897c5abaeb3e2cdb3faff8da32b5481bcf5701bf6dd2253fbc23802b",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-55baf9c2c2ac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+    "canonical": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/"
+  },
+  "title": "SkillOpt: Agent skills as trainable parameters",
+  "summary": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights:",
+  "published_at": "2026-06-30T16:50:02+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.884326+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T01:02:39.268669+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/54/5497c398897c5abaeb3e2cdb3faff8da32b5481bcf5701bf6dd2253fbc23802b/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/54/5497c398897c5abaeb3e2cdb3faff8da32b5481bcf5701bf6dd2253fbc23802b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10188,
+    "sha256": "sha256:282669f6da42e630b6187448698b395140c95cb71e8592d34c5fdbafef0a0e01",
+    "normalized_content_hash": "sha256:9458fb402e1dbc1b949687e6ac16698aedde5ec0e0a745f6a4d378dde7c885c3"
+  },
+  "provenance": {
+    "source_item_id": "61ddec58-5591-4dfe-a26b-8fbcbed0666d",
+    "external_id": "https://www.microsoft.com/en-us/research/?p=1176927"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91369b150f3f3645f0f1b9417d7012193b14bc010838d82e54cebc46150095b2",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-f703c271ba19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level",
+    "canonical": "https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level"
+  },
+  "title": "Sandboxing agents at the kernel level",
+  "summary": "Find out more about how the Linux kernel’s open syscall can block file access and how containers restrict what agents can see.",
+  "published_at": "2025-09-29T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.426026+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-20T02:09:10.875361+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2025/09/91/91369b150f3f3645f0f1b9417d7012193b14bc010838d82e54cebc46150095b2/article.md",
+    "record": "articles/v1/10/yc-greptile/2025/09/91/91369b150f3f3645f0f1b9417d7012193b14bc010838d82e54cebc46150095b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14934,
+    "sha256": "sha256:78f6e6e2f2b709ae6a1aedbf96e162f9e696dc6f2ae5c7eb029e40754eac2894",
+    "normalized_content_hash": "sha256:167550ef0714c82547eaeaa474bd97612203b0b445537d9621d979171da8f53a"
+  },
+  "provenance": {
+    "source_item_id": "6d5e13ff-9354-4fb0-a429-0d3ccb9e4d9d",
+    "external_id": "https://www.greptile.com/blog/sandboxing-agents-at-the-kernel-level"
+  }
+}

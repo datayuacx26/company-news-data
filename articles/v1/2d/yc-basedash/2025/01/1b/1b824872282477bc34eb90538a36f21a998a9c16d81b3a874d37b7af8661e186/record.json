@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b824872282477bc34eb90538a36f21a998a9c16d81b3a874d37b7af8661e186",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/optimizing-postgresql-view-performance-a-practical-guide/",
+    "canonical": "https://www.basedash.com/blog/optimizing-postgresql-view-performance-a-practical-guide/"
+  },
+  "title": "Optimizing PostgreSQL View Performance: A Practical Guide",
+  "summary": "PostgreSQL views act as virtual tables representing the results of stored queries. They simplify complex queries, improve readability, and ensure data.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/1b/1b824872282477bc34eb90538a36f21a998a9c16d81b3a874d37b7af8661e186/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/1b/1b824872282477bc34eb90538a36f21a998a9c16d81b3a874d37b7af8661e186/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3823,
+    "sha256": "sha256:99587b8859a997ae7869ebd8f7b4e630d0f4b027db998462becb12f7a7693a53",
+    "normalized_content_hash": "sha256:2fc76d787374719ba05e67b55a0c05c76bb3c315d85894524794060f3db790db"
+  },
+  "provenance": {
+    "source_item_id": "e586c513-cdcb-4ee7-8b42-9ecc2ecec81b",
+    "external_id": "https://www.basedash.com/blog/optimizing-postgresql-view-performance-a-practical-guide/"
+  }
+}

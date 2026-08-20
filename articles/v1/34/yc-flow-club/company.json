@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-flow-club",
+    "name": "Flow Club"
+  },
+  "record_count": 21,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/34/yc-flow-club/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 22183,
+        "sha256": "sha256:870f46a329358f7b706461f657aafa80305df1f1bd8039f8198b7d71e07e59c2",
+        "newest_at": "2026-08-13T06:14:32.260164+00:00",
+        "oldest_at": "2026-07-28T21:20:58.380206+00:00"
+      }
+    ]
+  }
+}

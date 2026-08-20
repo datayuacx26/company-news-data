@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ebdc424502b3ba948a63e21ab4982201e8df3cc0ad442db6974082650a69f1fc",
+  "company": {
+    "key": "yc-boundary",
+    "name": "Boundary"
+  },
+  "source": {
+    "id": "yc-boundary-news-import-b6810cf62b42",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://boundaryml.com/blog/llms-do-not-understand-numbers",
+    "canonical": "https://boundaryml.com/blog/llms-do-not-understand-numbers"
+  },
+  "title": "LLMs do not understand numbers",
+  "summary": "Don't ask it to add a confidence score. Don't add it to sum up items on a receipt. Don't ask it to confirm how many rows there are in a PDF.",
+  "published_at": "2025-11-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:11:53.929220+00:00",
+  "fetched_at": "2026-07-28T21:27:04.798558+00:00",
+  "last_updated_at": "2026-08-19T19:19:32.174101+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-boundary/2025/11/eb/ebdc424502b3ba948a63e21ab4982201e8df3cc0ad442db6974082650a69f1fc/article.md",
+    "record": "articles/v1/22/yc-boundary/2025/11/eb/ebdc424502b3ba948a63e21ab4982201e8df3cc0ad442db6974082650a69f1fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2631,
+    "sha256": "sha256:b2b60bf9ba03692624096f87afa138eec5a7d13c74ecab4a6768f943012cfdcf",
+    "normalized_content_hash": "sha256:b0944c59e8e6743f7e4158a5ec78f5bce0ddab6b4bd3afb7bb19c8514818c5aa"
+  },
+  "provenance": {
+    "source_item_id": "a5c34f56-7cdc-4fdf-8f54-a59dbb0eb99b",
+    "external_id": "https://boundaryml.com/blog/llms-do-not-understand-numbers"
+  }
+}

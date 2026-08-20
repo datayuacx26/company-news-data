@@ -1,0 +1,144 @@
+---
+schema_version: "1.0.0"
+document_id: "bf0afba49b340fa0d24feafcbf37473c3df4a0b03265ff2afcb1ac5ffb472365"
+company_key: "gsk-plc-american-depositary-shares-each-representing-two-ordinary-shares"
+company: "GSK plc"
+source_id: "gsk-plc-american-depositary-shares-each-representing-two-ordinary-shares-news-import-de73c3da49da"
+canonical_url: "https://www.gsk.com/en-gb/media/press-releases/gsk-s-rsv-vaccine-arexvy-receives-expanded-approval-in-japan-for-adults-aged-18-59-at-increased-risk/"
+published_at: "2026-05-18T07:00:00+00:00"
+first_seen_at: "2026-07-22T22:26:58.092543+00:00"
+fetched_at: "2026-07-28T21:44:39.747323+00:00"
+content_hash: "sha256:1ed3dccefe3b3077b7f9f4c16a9c91abe81619ccc075dc5b33885e16c447bbf3"
+---
+
+# GSK’s RSV vaccine, Arexvy, receives expanded approval in Japan for adults aged 18–59 at increased risk
+
+18 May 2026
+
+
+Issued: London, UK
+
+
+For media and investors only
+
+
+# GSK’s RSV vaccine, Arexvy, receives expanded approval in Japan for adults aged 18–59 at increased risk
+
+
+[Download (PDF - 224.7KB)](https://www.gsk.com/media/lrbfvsrm/sea-japan-approval-arexvy-18-49-air.pdf)
+
+
+- **First RSV vaccine approved for adults aged 18-59 years at increased risk and for all adults 60 years and older in Japan**
+- **In Japan, millions of adults live with certain chronic conditions that increase their risk of severe RSV outcomes1,2,3,4,5,6**
+
+
+GSK plc (LSE/NYSE: GSK) today announced that Japan’s Ministry of Health, Labour and Welfare (MHLW) has expanded the eligible population for *Arexvy* (Respiratory Syncytial Virus vaccine, \[adjuvanted, recombinant\]), to include adults aged 18 to 49 years at increased risk (AIR) for RSV disease. GSK’s RSV vaccine was previously approved in Japan for the prevention of RSV disease in all adults aged 60 years and older, and for adults aged 50–59 AIR for RSV disease. The prescribing information for *Arexvy* has also been updated to explicitly include immuno-compromised (IC) patients as an increased risk group – helping clinicians to identify people who may benefit from RSV prevention.
+
+
+**Sanjay Gurunathan, GSK Head of Vaccines and Infectious Diseases Research and Development,** said: “This expanded approval, the first covering all at-risk adults in Japan, can help reduce potentially severe outcomes of RSV. It recognises the serious impact RSV can have for adults of any age living with chronic conditions such as cardiovascular disease, chronic obstructive pulmonary disease and asthma, and it enables more people to take a proactive approach to disease prevention.”
+
+
+RSV is a common and contagious respiratory virus that can cause serious illness in adults, particularly those living with certain chronic conditions.6,7,8 RSV infection can cause major adverse cardiovascular events (MACE) including heart attack and stroke,4,9,10,11,12 trigger flare-ups of chronic obstructive pulmonary disease (COPD) and asthma and may result in severe illness, hospitalisation, and even death.6 More than 42 million adults in Japan are aged 18–491 and, while often considered at low risk of RSV, many in this group live with underlying chronic conditions.2
+
+
+The approval was supported by data from a Phase IIIb trial ([NCT06389487](https://clinicaltrials.gov/study/NCT06389487) ) demonstrating a non-inferior immune response in adults aged 18 to 49 years AIR for RSV disease compared to adults aged 60 years and above.13 Vaccine efficacy was demonstrated in the earlier Phase III trial ([NCT04886596](https://clinicaltrials.gov/study/NCT04886596) ).14 The safety profile was consistent with findings from the broader Phase III programme that supported the initial approval with the most common adverse events being injection site pain, myalgia, fatigue, arthralgia and headache, which were largely transient and mild to moderate in intensity.13 The update to the prescribing information to include IC patients, accepted by Japan’s Pharmaceuticals and Medical Devices Agency (PMDA), was supported by data from a Phase IIb trial ([NCT05921903](https://clinicaltrials.gov/study/NCT05921903?term=NCT05921903&viewType=Card&rank=1) ).15
+
+
+GSK continues to advance regulatory submissions for its RSV vaccine across multiple geographies to expand availability and support disease prevention.
+
+
+## About GSK’s RSV vaccine
+
+
+Respiratory Syncytial Virus vaccine (adjuvanted) contains recombinant RSV glycoprotein F stabilised in the prefusion conformation (RSVPreF3). This antigen is combined with GSK’s proprietary AS01E adjuvant before administration.
+
+
+The use of this vaccine should be in accordance with official recommendations. As with any vaccine, a protective immune response may not be elicited in all vaccinees.
+
+
+The vaccine has been approved for the prevention of RSV-LRTD in individuals 60 years of age and older in 70 countries. In addition, it is approved for use in individuals aged 50–59 years who are at increased risk due to certain underlying medical conditions in more than 60 countries. In the US it is also approved in adults aged 18–49 years at increased risk, and in the European Economic Area for all adults aged 18 years and older.16,17
+
+
+The GSK proprietary AS01 adjuvant system contains STIMULON QS-21 adjuvant licensed from Antigenics LLC, a wholly owned subsidiary of Agenus Inc. STIMULON is a trademark of SaponiQx Inc., a subsidiary of Agenus.
+
+
+Please refer to the updated Product Information (PI) for precautions concerning indications, dosage and administration and safety information in Japan at this link:[Japan Pharmaceuticals and Medical Devices Agency](https://www.pmda.go.jp/PmdaSearch/iyakuSearch/) 18
+
+
+## About the NCT06389487 trial
+
+
+NCT06389487 is a Phase IIIb, open-label multi-country immunogenicity trial to evaluate the non-inferiority of the immune response and evaluate safety in participants aged 18–49 at increased risk for lower respiratory tract disease (LRTD) caused by RSV (n=1,029), compared to participants aged 60 years and above (n=429) after a single dose of GSK’s RSV vaccine.13 Of the 18–49 cohort, 426 were included in the immunogenicity analysis and 603 were assessed for safety only.13 A total of 1,458 participants were enrolled across 52 locations in six countries, including four sites in Japan.13
+
+
+The trial’s primary endpoints were RSV-A and RSV-B neutralisation titres expressed as mean geometric titre ratio (relative to older adults over adults at increased risk) and sero-response rate in RSV-A and RSV-B neutralising titres one month post vaccine administration.13 There were also safety and immunogenicity secondary and tertiary endpoints.13
+
+
+## About the NCT04886596 trial
+
+
+NCT04886596 is a Phase III, randomised, placebo-controlled, observer-blind, multi-country trial to evaluate vaccine efficacy of a single dose, and annual revaccination doses of GSK’s RSV vaccine, in preventing RSV-LRTD in adults aged 60 years and above.14 A total of 26,675 participants were enrolled across 277 locations in 17 countries, including 14 sites in Japan.14 The trial’s primary endpoint was vaccine efficacy against RSV-LRTD after one RSV season following a single dose of the vaccine.14 There were also efficacy, safety and immunogenicity secondary and tertiary endpoints.14
+
+
+## About the NCT05921903 trial
+
+
+NCT05921903 is a Phase IIb, open-label, multi-country, descriptive immunogenicity and safety trial in IC participants who were recipients of lung or kidney transplant, and aged 18 years and above at increased risk for severe lower respiratory tract disease (LRTD) caused by RSV (n=261).15 The trial compared one (n=131) versus two (n=130) doses of GSK’s RSV vaccine in IC and AIR participants, and also compared to a control group of non-immunocompromised adults aged 50 and above receiving a single dose (n=125).15 A total of 386 participants were enrolled across 46 locations in eight countries, including eight sites in Japan.15 The trial’s co primary endpoints were RSV-A and RSV-B neutralisation titres following a first and a second dose of GSK’s RSV vaccine, measured at approximatively one month (30–42 days) after the respective vaccination, expressed as mean geometric increase post dose two relative to post dose one.15 There were also safety and immunogenicity secondary and tertiary endpoints.15
+
+
+The results demonstrated that a single dose of the vaccine showed a robust immune response in the study population.15 The safety profile was consistent with findings from the broader Phase III programme that supported the initial approval, with the most common adverse events being injection site pain, myalgia, fatigue, arthralgia and headache.15
+
+
+## About RSV in adults
+
+
+RSV is a common contagious virus affecting the lungs and breathing passages and impacts an estimated 64 million people of all ages globally every year.7 Adults can be at increased risk for RSV disease due to certain comorbidities, immune compromised status, or advanced age.6 RSV can exacerbate certain conditions, including COPD, asthma, and chronic heart failure and can lead to severe outcomes, such as pneumonia, hospitalisation, and death.6 The true number of RSV-related cases is likely underestimated due to lack of routine testing.19,20
+
+
+## About GSK
+
+
+GSK is a global biopharma company with a purpose to unite science, technology, and talent to get ahead of disease together. Find out more at[www.gsk.com](https://www.gsk.com/) .
+
+
+## Cautionary statement regarding forward-looking statements
+
+
+GSK cautions investors that any forward-looking statements or projections made by GSK, including those made in this announcement, are subject to risks and uncertainties that may cause actual results to differ materially from those projected. Such factors include, but are not limited to, those described in the “Risk Factors” section in GSK’s Annual Report on Form 20-F for 2025, and GSK’s Q1 Results for 2026.
+
+
+## References:
+
+
+1. E-Stat: Statistics of Japan. Available at:[https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200524&tstat=000000090001&cycle=1&tclass1=000001011678&tclass2val=0](https://www.e-stat.go.jp/en/stat-search/files?page=1&layout=datalist&toukei=00200524&tstat=000000090001&cycle=1&tclass1=000001011678&tclass2val=0) . Last accessed: May 2026.
+2. Saito Y, et al. Prevalence of multimorbidity and its associations with hospitalisation or death in Japan 2014-2019: a retrospective cohort study using nationwide medical claims data in the middle-aged generation. BMJ Open. 2023;13(5):e063216.
+3. Njue A, et al. Systematic Literature Review of Risk Factors for Poor Outcomes Among Adults With Respiratory Syncytial Virus Infection in High-Income Countries. Open Forum Infectious Diseases (2023) 10(11): ofad513.
+4. Montiel J, et al. The risk of cardiac disease events after respiratory syncytial virus disease: a systematic literature review and meta-analysis. European Respiratory Review (2026); 35:250160.
+5. Penders Y, et al. Burden of Respiratory Syncytial Virus Disease in Adults with Asthma and Chronic Obstructive Pulmonary Disease: A Systematic Literature Review. Current Allergy and Asthma Reports. 2025;25:14.
+6. Falsey AR, et al. Respiratory syncytial virus infection in elderly and high-risk adults. New Engl J Med. 2005;352:1749–1759.
+7. National Institute of Allergy and Infectious Diseases, Respiratory Syncytial Virus (RSV). Available at:[https://www.niaid.nih.gov/diseases-conditions/respiratory-syncytial-virus-rsv](https://www.niaid.nih.gov/diseases-conditions/respiratory-syncytial-virus-rsv) . Last accessed: May 2026.
+8. Branche AR; et al. Incidence of Respiratory Syncytial Virus Infection Among Hospitalized Adults, 2017-2020. Clin Infect Dis.2022;74;1004–1011.
+9. Hviid A, et al. Cardiovascular Events 1 Year After Respiratory Syncytial Virus Infection in Adults. JAMA Netw Open. 2025;8(12):e2547618.
+10. Liang C, et al. Risk of Cardiorespiratory Events Following Respiratory Syncytial Virus-Related Hospitalization. JAMA Netw Open. 2026;9(2):e2556767
+11. Sudnik P, et al. Comprehensive Analysis of Cardiovascular Events and Risk Factors in Patients Hospitalized With Respiratory Syncytial Virus. Clin Infect Dis. 2026 Feb 25;82(2):e396-e403.
+12. Woodruff R, et al. Acute Cardiac Events in Hospitalized Older Adults With Respiratory Syncytial Virus Infection. JAMA Intern Med. 2024;184(6):602–611.
+13. Clinicaltrials.gov. A Study on the Immune Response and Safety of Vaccine Against Respiratory Syncytial Virus (RSV) Given to Adults 18 to 49 Years of Age at Increased Risk for Respiratory Syncytial Virus Disease, Compared to Older Adults 60 Years of Age and Above. Available at:[https://clinicaltrials.gov/study/NCT06389487](https://clinicaltrials.gov/study/NCT06389487) . Last accessed: May 2026.
+14. Clinicaltrials.gov. Efficacy Study of GSK's Investigational Respiratory Syncytial Virus (RSV) Vaccine in Adults Aged 60 Years and Above. Available at:[https://clinicaltrials.gov/study/NCT04886596](https://clinicaltrials.gov/study/NCT04886596) . Last accessed: May 2026.
+15. Clinicaltrials.gov. A Study on the Immune Response and Safety of an RSV Vaccine When Given to Adults 18 Years of Age and Above Who Received Lung or Kidney Transplant and Are at an Increased Risk of Respiratory Syncytial Virus Lower Respiratory Tract Disease and Compared to Healthy Adults 50 Years of Age and Above (RSV OA=ADJ-023). Available at:[https://clinicaltrials.gov/study/NCT05921903](https://clinicaltrials.gov/study/NCT05921903) . Last accessed: May 2026.
+16. GSK. Arexvy. US Prescribing Information. Available at:[https://gskpro.com/content/dam/global/hcpportal/en_US/Prescribing_Information/Arexvy/pdf/AREXVY.PDF](https://gskpro.com/content/dam/global/hcpportal/en_US/Prescribing_Information/Arexvy/pdf/AREXVY.PDF) . Last accessed: May 2026.
+17. EMA. Arexvy. Summary of Product Characteristics. Available at:[https://www.ema.europa.eu/en/documents/product-information/arexvy-epar-product-information_en.pdf](https://www.ema.europa.eu/en/documents/product-information/arexvy-epar-product-information_en.pdf) . Last accessed: May 2026.
+18. Japan Pharmaceuticals and Medical Devices Agency. Pharmaceuticals Information. Available at:[https://www.pmda.go.jp/PmdaSearch/iyakuSearch/](https://www.pmda.go.jp/PmdaSearch/iyakuSearch/) Last accessed May 2026
+19. Günen H, et al. Key Challenges to Understanding the Burden of Respiratory Syncytial Virus in Older Adults in Southeast Asia, the Middle East, and North Africa: An Expert Perspective. Adv Ther. 2024;41(11):4312–4334.
+20. Grace M, et al. Economic burden of respiratory syncytial virus infection in adults: a systematic literature review. J Med Econ. 2023;26(1):742–759.
+
+
+## You might also like
+
+
+[Media contacts Access GSK's media relations team](https://www.gsk.com/en-gb/media/media-contacts/)
+
+
+[Media library Search and download images and B-roll video for use in the media.](https://www.gsk.com/en-gb/media/media-library/)
+
+
+[Company We discover, develop and deliver medicines and vaccines to create value for patients and shareholders.](https://www.gsk.com/en-gb/company/)

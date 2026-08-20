@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44d8b008ceed4e6fdcfd9c06fb151fb1022e028e82aaf6d18e7344b6ba585e65",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/postgres-view-vs-materialized-view-choosing-the-right-one/",
+    "canonical": "https://www.basedash.com/blog/postgres-view-vs-materialized-view-choosing-the-right-one/"
+  },
+  "title": "Postgres: View vs Materialized View - Choosing the Right One",
+  "summary": "Postgres offers two distinct types of views: standard views and materialized views. Standard views operate as virtual tables that reflect real-time data.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/44/44d8b008ceed4e6fdcfd9c06fb151fb1022e028e82aaf6d18e7344b6ba585e65/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/44/44d8b008ceed4e6fdcfd9c06fb151fb1022e028e82aaf6d18e7344b6ba585e65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3072,
+    "sha256": "sha256:23f4e1420127f4ab1e54348cb9a990e224df88ab4a8c7845b7be954137e7a55f",
+    "normalized_content_hash": "sha256:cc2a9a7ee73138846015dd2485011673045720e427949552f8bbeb5091c399f4"
+  },
+  "provenance": {
+    "source_item_id": "25044d2d-4401-488a-baa9-b3a0389af16b",
+    "external_id": "https://www.basedash.com/blog/postgres-view-vs-materialized-view-choosing-the-right-one/"
+  }
+}

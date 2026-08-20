@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d077cb848a655bc880588f8e96f604b44ac8b032e662aae90477926c2e2207b6",
+  "company": {
+    "key": "yc-evidence",
+    "name": "Evidence"
+  },
+  "source": {
+    "id": "yc-evidence-news-import-47bf0dc75044",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://evidence.dev/blog/native-warehouse-support",
+    "canonical": "https://evidence.dev/blog/native-warehouse-support"
+  },
+  "title": "Native Warehouse Support in Evidence Studio",
+  "summary": "Evidence Studio now runs directly on your data warehouse, starting with Snowflake, Microsoft Fabric, and BigQuery.",
+  "published_at": "2026-06-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T19:04:43.661863+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-20T02:28:51.758426+00:00",
+  "paths": {
+    "article": "articles/v1/2e/yc-evidence/2026/06/d0/d077cb848a655bc880588f8e96f604b44ac8b032e662aae90477926c2e2207b6/article.md",
+    "record": "articles/v1/2e/yc-evidence/2026/06/d0/d077cb848a655bc880588f8e96f604b44ac8b032e662aae90477926c2e2207b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2635,
+    "sha256": "sha256:aadd8cdf41b8e30ecf54c6f6c40a860fd27ca1bb9ec4443af7c927471cd0ab71",
+    "normalized_content_hash": "sha256:4ee9413e295c2f846b4cd882f239e37d7da2790311c795cd56257a30375945c8"
+  },
+  "provenance": {
+    "source_item_id": "33fcb282-256f-4556-a5bd-96dd876c3047",
+    "external_id": "https://evidence.dev/blog/native-warehouse-support"
+  }
+}

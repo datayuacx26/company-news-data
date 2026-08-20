@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ff54c2514dc7af1f45993bd0d8e5d2a48f63b55f6d1f26ba6867365f92dbc82",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/docker-logs",
+    "canonical": "https://signoz.io/blog/docker-logs"
+  },
+  "title": "Complete Guide on Docker Logs [All access methods included]",
+  "summary": "Learn what Docker logs are, their types, and all the methods to access and manage them, plus how to centralize Docker logs in SigNoz.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-07-28T21:13:52.978339+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/2f/2ff54c2514dc7af1f45993bd0d8e5d2a48f63b55f6d1f26ba6867365f92dbc82/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/2f/2ff54c2514dc7af1f45993bd0d8e5d2a48f63b55f6d1f26ba6867365f92dbc82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18617,
+    "sha256": "sha256:3a74864acf61e33fb7f9d9b10a2c0e8d8658acc57a24a2a4c7978635c0acb172",
+    "normalized_content_hash": "sha256:62e01506753caa86c852e88b9da6f727d2ac9d721058b5affe5bbf811f019ea2"
+  },
+  "provenance": {
+    "source_item_id": "3da4796f-af5a-4caf-a4a8-93e4a3a1fbfb",
+    "external_id": "https://signoz.io/blog/docker-logs"
+  }
+}

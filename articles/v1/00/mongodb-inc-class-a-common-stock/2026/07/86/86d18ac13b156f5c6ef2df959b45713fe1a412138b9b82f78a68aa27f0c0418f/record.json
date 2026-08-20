@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86d18ac13b156f5c6ef2df959b45713fe1a412138b9b82f78a68aa27f0c0418f",
+  "company": {
+    "key": "mongodb-inc-class-a-common-stock",
+    "name": "MongoDB Inc."
+  },
+  "source": {
+    "id": "mongodb-inc-class-a-common-stock-news-import-efe1743dc302",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mongodb.com/company/blog/product-release-announcements/atlas-stream-processing-brings-operational-data-to-apache-iceberg",
+    "canonical": "https://www.mongodb.com/company/blog/product-release-announcements/atlas-stream-processing-brings-operational-data-to-apache-iceberg"
+  },
+  "title": "Atlas Stream Processing Brings Operational Data to Apache Iceberg",
+  "summary": "Atlas Stream Processing now writes operational data to Apache Iceberg on AWS, simplifying delivery to open lakehouses for analytics and AI.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:07:24.248205+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-19T18:57:19.548680+00:00",
+  "paths": {
+    "article": "articles/v1/00/mongodb-inc-class-a-common-stock/2026/07/86/86d18ac13b156f5c6ef2df959b45713fe1a412138b9b82f78a68aa27f0c0418f/article.md",
+    "record": "articles/v1/00/mongodb-inc-class-a-common-stock/2026/07/86/86d18ac13b156f5c6ef2df959b45713fe1a412138b9b82f78a68aa27f0c0418f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8914,
+    "sha256": "sha256:e731203f3107f5d8bb321a2489db961849add7fa83d138e8d5594bb56af066b2",
+    "normalized_content_hash": "sha256:c6b2ca548112e6dcde5a9dd885ed10e7020c7287f684e3d571e0128548e72ae9"
+  },
+  "provenance": {
+    "source_item_id": "98ebd57b-bfba-44dc-b720-dc3e30fe9af4",
+    "external_id": "https://www.mongodb.com/company/blog/product-release-announcements/atlas-stream-processing-brings-operational-data-to-apache-iceberg"
+  }
+}

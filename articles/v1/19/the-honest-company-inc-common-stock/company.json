@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the-honest-company-inc-common-stock",
+    "name": "The Honest Company Inc."
+  },
+  "record_count": 43,
+  "first_published_at": "2020-01-22T17:30:00+00:00",
+  "last_published_at": "2026-08-05T20:05:58+00:00",
+  "partitions": [
+    {
+      "partition": "2020-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/19/the-honest-company-inc-common-stock/index/pages/000001.json",
+        "record_count": 43,
+        "byte_count": 54832,
+        "sha256": "sha256:a5759c023732ed7b96393ffad80dbd8af2e82942cbca765d0811aee6d41e87b9",
+        "newest_at": "2026-08-05T20:05:58+00:00",
+        "oldest_at": "2020-01-22T17:30:00+00:00"
+      }
+    ]
+  }
+}

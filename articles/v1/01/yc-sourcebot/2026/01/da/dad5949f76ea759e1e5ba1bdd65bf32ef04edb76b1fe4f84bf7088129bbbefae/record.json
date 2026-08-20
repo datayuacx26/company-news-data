@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dad5949f76ea759e1e5ba1bdd65bf32ef04edb76b1fe4f84bf7088129bbbefae",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-69a1f8dc01ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/changelog/file-explorer-perf",
+    "canonical": "https://www.sourcebot.dev/changelog/file-explorer-perf"
+  },
+  "title": "File explorer improvements",
+  "summary": "File explorer load time for 100k+ file repos cut from 10-20s to under a second.",
+  "published_at": "2026-01-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:52.577262+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-08-20T02:52:57.900818+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2026/01/da/dad5949f76ea759e1e5ba1bdd65bf32ef04edb76b1fe4f84bf7088129bbbefae/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2026/01/da/dad5949f76ea759e1e5ba1bdd65bf32ef04edb76b1fe4f84bf7088129bbbefae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 893,
+    "sha256": "sha256:fa7f5f602ae40fe3496461a5fcad6a9a7e955604d7b3dc28cde13535f25a3ba2",
+    "normalized_content_hash": "sha256:1e6ac942f50c264ab2784788ab59ab5c5edd6e6ecd6140ce0357f7d98bd29e46"
+  },
+  "provenance": {
+    "source_item_id": "7557ea49-3074-4c8b-9c1a-0e827445b54b",
+    "external_id": "https://www.sourcebot.dev/changelog/file-explorer-perf"
+  }
+}

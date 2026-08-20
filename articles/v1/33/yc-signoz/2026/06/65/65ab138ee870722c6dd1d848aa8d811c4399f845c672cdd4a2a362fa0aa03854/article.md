@@ -1,0 +1,221 @@
+---
+schema_version: "1.0.0"
+document_id: "65ab138ee870722c6dd1d848aa8d811c4399f845c672cdd4a2a362fa0aa03854"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/blog/opentelemetry-auto-instrumentation"
+published_at: "2026-06-16T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T22:36:35.395462+00:00"
+content_hash: "sha256:b23de12775a4aa3126c5a14df760b9a8b153adbdbf2ff70f38a455838a40f452"
+---
+
+# How OpenTelemetry Auto-instrumentation Works - Behind the Scenes
+
+# How OpenTelemetry Auto-instrumentation Works - Behind the Scenes
+
+
+Published on: January 12, 2026
+
+
+Last Updated: June 16, 2026
+
+
+8 min read
+
+
+I’ve been an OpenTelemetry advocate for over a year and have written many blogs on adopting OpenTelemetry in your systems to achieve deep observability. Yet, I’ve always wondered how and what actually happens behind the scenes, in the context of auto-instrumentation.
+
+
+**
+
+
+So, this is me breaking down what happens under the hood of OpenTelemetry for you.
+
+
+## What is Auto-instrumentation? A Refresher
+
+
+For those who are new to the space, auto-instrumentation refers to collecting telemetry \[traces, metrics, logs\] from your application without requiring you to make changes to the application code. You can read more about it from the[official docs](https://opentelemetry.io/docs/concepts/instrumentation/zero-code/) here.
+
+
+A helpful way to understand how this works is to separate the OpenTelemetry API from the OpenTelemetry SDK.
+
+
+- The OTel API is the interface for creating telemetry — “start a span”, “add an event”, “record a metric”, “propagate context”, etc. Both manual instrumentation \[your code\] and auto-instrumentation \[instrumentation libraries/agents\] ultimately use these same API calls. But in auto-instrumentation, it’s taken care of for you automatically.
+- The OTel SDK is the implementation behind the API — it decides what actually happens to that telemetry \[sampling, batching, processing\] and where it goes \[exporting\].
+
+
+So auto-instrumentation is typically achieved in two parts,
+
+
+- Instrumentation hooks \[libraries/agents\] that wrap existing functions and call the OTel API at the right points to start[a span](https://signoz.io/blog/opentelemetry-spans/) and[propagate context](https://signoz.io/blog/opentelemetry-context-propagation/) across services.
+- SDK configuration that ensures those API calls actually record telemetry and can be exported.
+
+
+In Auto-instrumentation, OpenTelemetry wraps existing function implementations and extracts useful data, such as function parameters, execution duration, and results. It’s important to note that the way this wrapping and hooking is done varies widely across programming languages. Broadly, we can say that there’s a clear difference between how it works in dynamic languages \[like JavaScript, Python, and Ruby\] versus statically-typed or compiled languages \[like Java, Go, and .NET\].
+
+
+Let’s dive into those differences (or similarities!) next.
+
+
+## Dynamic vs. Static Languages
+
+
+It becomes easier to understand what happens behind the scenes when classifying the languages broadly into dynamic and static. Dynamic languages allow instrumentation to patch or wrap functions at runtime easily, whereas static languages, on the other hand, don’t natively allow such runtime patching, so they require different techniques to insert instrumentation code. That is, most dynamic languages like Python, JavaScript, and Ruby, which are more flexible at run-time, depend on methods like monkey-patching to implement auto-instrumentation. While other static languages or those that run on virtual machines like Go or C rely on techniques like build-time injection for the same.
+
+
+The concepts in this write-up explain the theory. For production-grade setups, you might wish to understand the actual instrumentation setup process. You can refer to our[Python instrumentation guide](https://signoz.io/docs/instrumentation/opentelemetry-python/) and[Node.js instrumentation guide](https://signoz.io/docs/instrumentation/javascript/opentelemetry-nodejs/) for the same.
+
+
+## Auto-instrumentation Techniques: Monkey-patching, Bytecode & AST
+
+
+OpenTelemetry’s auto-instrumentation toolkit boils down to a couple of clever techniques that make all of this possible. Let’s discuss two of the most common methods used under the hood.
+
+
+### Monkey Patching
+
+
+The lore behind the term *monkey-patching* fascinated me. Apparently, the word's etymology comes from *guerrilla-patching* , which refers to the sneaky act of changing code at runtime to fix a bug or add a feature without altering the original source code. Because *guerrilla* and *gorilla* are near-homophones, the term was intentionally used as a pun, *gorilla-patch* . Eventually, developers who wrote their patches more carefully began calling them *monkey-patches* to make the process sound less intimidating than a *gorilla* .
+
+
+Okay, now let’s get back to engineering. In dynamic languages such as Python and Node.js, functions and modules are treated as first-class objects that reside in mutable memory structures. This allows OpenTelemetry to employ monkey patching, a technique where existing functions are replaced with instrumented wrappers at runtime.
+
+
+The concept is straightforward, at runtime, we replace existing functions with instrumented versions that inject telemetry before and after calling the original function.
+
+
+This piece of code roughly illustrates what happens in Node.js.
+
+
+```text
+const   originalFunction  =   exports .  functionName  ;
+
+
+function    instrumentedFunction  (  ...  args  )    {
+const   startTime  =   process .  hrtime  .  bigint  (  )  ;
+// invoke the OG function here
+const   result  =   originalFunction .  apply  (  this  ,   args )  ;
+const   duration  =   process .  hrtime  .  bigint  (  )    -   startTime ;
+console  .  log  (  `  functionName(  ${  args [  0  ]  }   ) took   ${  duration }    nanoseconds  `   )  ;
+return   result ;
+}
+
+
+exports .  functionName    =   instrumentedFunction ;
+
+
+```
+
+
+OTel JavaScript uses a package called` require-in-the-middle` to intercept module loading and apply such patches before your code runs.
+
+
+Let’s see how this could work in Python. Say we are trying to collect data from an HTTP client, like requests. Python’s requests lib, exposes a separate function for each HTTP method \[` requests.get` /` requests.post` /` requests.put` , and so on\]. But each of these functions eventually calls an internal request method, whose parameters are the method, the URL, and all the kwargs. The function then returns a response object.
+
+
+Let’s see what this looks like pseudo-code-wise:
+
+
+```text
+def    request  (  method ,   url ,    **  kwargs )  :
+# Original implementation
+
+
+def    wrapped_request  (  method ,   url ,    **  kwargs )  :
+before  =   datetime .  now (  )
+# Call the original implementation
+response  =   request (  method ,   url ,    **  kwargs )
+# Collect the necessary information
+duration  =   datetime .  now (  )    -   before
+collect_data (  method ,   url ,   response .  status_code ,   duration )
+# Return the value from the original call
+return   response
+
+
+```
+
+
+To close the loop, the original function implementation needs to be replaced with the new` wrapped_request` . For dynamic languages, this is done by simply holding a reference to the original implementation and replacing the function with its name. A pseudocode implementation \[which isn’t very, very far from a real life code\] looks like this:
+
+
+```text
+original_request_impl  =   requests .  request
+
+
+def    wrapped_request  (  method ,   url ,    **  kwargs )  :
+# Wrapped implementation as appears, has the original call
+# As shown in the previous snippet
+
+
+requests .  request  =   wrapped_request
+
+
+```
+
+
+Calling these requests won’t result in any observable change, albeit the auto-instrumentation will keep collecting necessary data.
+
+
+### Byte-code Instrumentation
+
+
+This is the underlying technique for languages that run on a virtual machine. Instead of modifying functions at the language level, this approach modifies the compiled code \[bytecode\] as it’s being loaded into the runtime. Essentially, the instrumentation injects extra bytecode instructions that call OpenTelemetry APIs around the target method’s original instructions.
+
+
+In the Jurassic Java world, this is done via a special agent. When you run a Java app with the` -javaagent` flag pointing to the OpenTelemetry Java Agent JAR, the JVM invokes the agent’s` premain()` method before anything else.
+
+
+```text
+public    static    void    premain  (  String   args ,    Instrumentation   inst )    {
+new    AgentBuilder .  Default  (  )
+.  type  (  ElementMatchers  .  nameStartsWith  (  "com.example.TargetApp"  )  )
+.  transform  (  (  builder ,   typeDescription ,   classLoader ,    module  ,   protectionDomain )    ->
+builder .  method  (  ElementMatchers  .  named  (  "targetMethod"  )  )
+.  intercept  (  MethodDelegation  .  to  (  MethodInterceptor  .  class  )  )
+)  .  installOn  (  inst )  ;
+}
+
+
+```
+
+
+In that premain, OTel registers a class transformer \[as seen in the snippet\] with the JVM. As each class loads, the transformer can inspect it and, if it matches one of the known libraries or functions we want to instrument \[e.g., a Servlet filter, a JDBC call, etc.\], the agent will modify the class’s bytecode on the fly to insert the telemetry hooks. The end result is that by the time your application’s code runs those functions, they already have tracing logic woven in.
+
+
+Bytecode instrumentation is extremely powerful because it works at the Java virtual machine \[JVM\] level, making it language-agnostic within the JVM ecosystem. It can instrument Java, Kotlin, Scala, and other JVM languages without any modification.
+
+
+The trade-off is a bit more complexity and setup — you need to run the app with the agent \[or enable the profiler\], and there is some startup overhead to transform classes. Once running, the performance impact of the injected code is usually minimal. Overall, this technique lets OpenTelemetry achieve deep, broad instrumentation of popular frameworks in Java and .NET with near-zero friction for the developer.
+
+
+### Abstract Syntax Tree Modification
+
+
+Unlike Python, which is a dynamic language and Java, which is a kind of static language that runs in the VM, Go is a static language that does not use a VM, making it an outlier in this case. In Go, auto-instrumentation works by modifying the Abstract Syntax Trees \[ASTs\].
+
+
+It was in the Compiler Design Course of my undergrad degree when I first got introduced to ASTs. It's primarily a data structure widely used in compilers to represent program code. An AST is usually the result of the syntax analysis phase of a compiler. This is exactly where the auto-instrumentation comes into the picture as well.
+
+
+*Example of an abstract syntax tree*
+
+
+The auto-instrumentation process of Go involves parsing the source code into an AST, adding instrumentation code to the tree, and generating the modified source code before compilation. This approach ensures that the instrumentation is incorporated in the final binary, providing zero runtime overhead for the instrumentation mechanism itself. But, it does come with trade-offs of needing access to source code, which makes it difficult to instrument third-party libraries and plugins and complex changes to build pipelines.
+
+
+## Final Words
+
+
+Delving into how OpenTelemetry auto-instrumentation works behind the scenes reveals a lot of clever engineering. The mechanisms that we learnt above allow OTel to hook into your application’s execution, gather context and timing information, and funnel it into the OpenTelemetry SDK, all without you changing your application code. 😊
+
+
+As an OpenTelemetry user, you don’t usually need to worry about these details, but understanding them can be helpful when you are instrumenting
+
+
+In the end, what feels like telemetry appearing out of thin air, aka auto-instrumentation, is actually the result of these well-orchestrated techniques. Knowing this, you can better appreciate the work done by the OTel community and troubleshoot issues with a deeper intuition.
+
+
+Happy instrumenting!

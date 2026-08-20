@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11b9c3ecf9a8257b5a43fea9829923d902ab8a62b3c2bc9b8e05abfaf238ef9b",
+  "company": {
+    "key": "yc-okteto",
+    "name": "Okteto"
+  },
+  "source": {
+    "id": "yc-okteto-rss-a64bce3f80ea",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.okteto.com/blog/kubernetes-network-policies/",
+    "canonical": "https://www.okteto.com/blog/kubernetes-network-policies/"
+  },
+  "title": "Kubernetes Network Policy: A Beginner’s Guide",
+  "summary": "Learn about Network Policies in Kubernetes and how to implement them with best practices.",
+  "published_at": "2022-11-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.770894+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T03:37:26.236419+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-okteto/2022/11/11/11b9c3ecf9a8257b5a43fea9829923d902ab8a62b3c2bc9b8e05abfaf238ef9b/article.md",
+    "record": "articles/v1/01/yc-okteto/2022/11/11/11b9c3ecf9a8257b5a43fea9829923d902ab8a62b3c2bc9b8e05abfaf238ef9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14731,
+    "sha256": "sha256:7f44f28b43c51d842ae4f98879265c4a313810c1bacde597204be76c339a798a",
+    "normalized_content_hash": "sha256:37ceeed8647c14e9a2a883c7b9060a13db834e0ca610603ac35d0e75bdcfa216"
+  },
+  "provenance": {
+    "source_item_id": "459c3ce6-86ab-4b39-9039-a7e7abd04d11",
+    "external_id": "https://www.okteto.com/blog/kubernetes-network-policies/"
+  }
+}

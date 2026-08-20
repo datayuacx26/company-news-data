@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b85e8626f6f441f17e3306770f6b4d1f5419d604a6f11e4d7583567a914c02c",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/training-a-variational-autoencoder-from-scratch-with-the-lance-file-format",
+    "canonical": "https://www.lancedb.com/blog/training-a-variational-autoencoder-from-scratch-with-the-lance-file-format"
+  },
+  "title": "Training a Variational AutoEncoder from Scratch with Lance File Format",
+  "summary": "Train a Variational Autoencoder end‑to‑end using Lance for fast, scalable data handling. You’ll set up the dataset, build the VAE in PyTorch, and run training, sampling, and reconstructions.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-05T09:00:57.125969+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/6b/6b85e8626f6f441f17e3306770f6b4d1f5419d604a6f11e4d7583567a914c02c/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/6b/6b85e8626f6f441f17e3306770f6b4d1f5419d604a6f11e4d7583567a914c02c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16140,
+    "sha256": "sha256:f2ca7e1558e15866104dc79f65d3183f65982506843bc8d2c2e5c57eebb8d567",
+    "normalized_content_hash": "sha256:9549971393c20c745a067a0b60af68d0cdf08cf1dcc39bf68374832f6910ced7"
+  },
+  "provenance": {
+    "source_item_id": "ed294245-f388-430d-aac5-04656fc65cc9",
+    "external_id": "https://www.lancedb.com/blog/training-a-variational-autoencoder-from-scratch-with-the-lance-file-format"
+  }
+}

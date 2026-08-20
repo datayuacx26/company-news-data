@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "580d821075707b81057fd3491b747da8c00976225527c084c015fd916a74d364",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-to-alter-materialized-views-in-postgresql/",
+    "canonical": "https://www.basedash.com/blog/how-to-alter-materialized-views-in-postgresql/"
+  },
+  "title": "How to Alter Materialized Views in PostgreSQL",
+  "summary": "Materialized views in PostgreSQL are an efficient way to store query results physically, drastically improving performance for complex queries or.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/58/580d821075707b81057fd3491b747da8c00976225527c084c015fd916a74d364/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/58/580d821075707b81057fd3491b747da8c00976225527c084c015fd916a74d364/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3327,
+    "sha256": "sha256:3dbf109fdabc229d7861abb6f1b9b7b282b455093a0622f4cdf4f4660e32d4a4",
+    "normalized_content_hash": "sha256:3e835d3f80a38a6fae66fe43744131b308c024c05c2bc0be29fee228f851352b"
+  },
+  "provenance": {
+    "source_item_id": "8b5e6151-d1b0-45b6-9cb3-a799e4a2ab46",
+    "external_id": "https://www.basedash.com/blog/how-to-alter-materialized-views-in-postgresql/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "39b2d2eaf55a71526b71eb99ae27fd57d1ff08bfaf13331f6ae4a49ec3fc7cb2",
+  "company": {
+    "key": "international-business-machines-corporation-common-stock",
+    "name": "International Business Machines Corporation"
+  },
+  "source": {
+    "id": "international-business-machines-corporation-common-stock-news-import-da8ebfcd6a45",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://research.ibm.com/blog/cyrography-abstraction-layer",
+    "canonical": "https://research.ibm.com/blog/cyrography-abstraction-layer"
+  },
+  "title": "It’s time for cryptography to get its own abstraction layer",
+  "summary": "Filesystems and sockets once looked like unnecessary layers of indirection; now they’re the foundation of modern systems. Cryptography is ready for the same shift — and with PQC on the horizon, the timing is right.",
+  "published_at": "2026-07-17T10:15:00+00:00",
+  "first_seen_at": "2026-07-24T00:23:00.528191+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:42:00.522669+00:00",
+  "paths": {
+    "article": "articles/v1/25/international-business-machines-corporation-common-stock/2026/07/39/39b2d2eaf55a71526b71eb99ae27fd57d1ff08bfaf13331f6ae4a49ec3fc7cb2/article.md",
+    "record": "articles/v1/25/international-business-machines-corporation-common-stock/2026/07/39/39b2d2eaf55a71526b71eb99ae27fd57d1ff08bfaf13331f6ae4a49ec3fc7cb2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8387,
+    "sha256": "sha256:dc1943245c8f6acc7905fb785d1a6370e5bc06f7b949c8cc2fc71cdf98a0f7a6",
+    "normalized_content_hash": "sha256:2c3c324cd6abbb472d01e5554f67da79c15befe87bce186d7b9a34b96a414662"
+  },
+  "provenance": {
+    "source_item_id": "bd03f1c5-6fd4-4c30-a70b-5b54dcd41680",
+    "external_id": "https://research.ibm.com/blog/cyrography-abstraction-layer"
+  }
+}

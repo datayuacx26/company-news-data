@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28fea0359e0709ee56e9b7693011897ef129eea30619acc1762174785859b223",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/from-datadog-to-test-suite/",
+    "canonical": "https://speedscale.com/blog/from-datadog-to-test-suite/"
+  },
+  "title": "From Datadog to CI Tests: Catch Regressions Before Deploy",
+  "summary": "Learn a practical workflow to convert Datadog metrics, traces, and incidents into CI tests that catch regressions before deploy.",
+  "published_at": "2026-04-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/04/28/28fea0359e0709ee56e9b7693011897ef129eea30619acc1762174785859b223/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/04/28/28fea0359e0709ee56e9b7693011897ef129eea30619acc1762174785859b223/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10495,
+    "sha256": "sha256:442d23e0a3653e22ffcd3c0e1f15feb7083bc62b298541c30ac13584de6f90c8",
+    "normalized_content_hash": "sha256:b96b822c5afa79f3886d66eff063f3a1c57cbece816be93bc31defdeb8d3a42b"
+  },
+  "provenance": {
+    "source_item_id": "919a3744-a145-4840-b833-bd423d1cfaf8",
+    "external_id": "https://speedscale.com/blog/from-datadog-to-test-suite/"
+  }
+}

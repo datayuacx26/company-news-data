@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the-cigna-group-common-stock",
+    "name": "The Cigna Group"
+  },
+  "record_count": 7,
+  "first_published_at": "2026-06-02T19:00:00+00:00",
+  "last_published_at": "2026-07-30T10:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/14/the-cigna-group-common-stock/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8665,
+        "sha256": "sha256:c6a947308400fe4d3809f211fbaa356da501ac2155dc661eb29dcbda855ead91",
+        "newest_at": "2026-07-30T10:00:00+00:00",
+        "oldest_at": "2026-06-02T19:00:00+00:00"
+      }
+    ]
+  }
+}

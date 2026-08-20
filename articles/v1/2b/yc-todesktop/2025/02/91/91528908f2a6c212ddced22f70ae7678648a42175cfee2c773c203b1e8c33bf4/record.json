@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91528908f2a6c212ddced22f70ae7678648a42175cfee2c773c203b1e8c33bf4",
+  "company": {
+    "key": "yc-todesktop",
+    "name": "ToDesktop"
+  },
+  "source": {
+    "id": "yc-todesktop-news-import-b82ee277d06d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.todesktop.com/blog/posts/security-incident-at-todesktop",
+    "canonical": "https://www.todesktop.com/blog/posts/security-incident-at-todesktop"
+  },
+  "title": "Vulnerability Report at ToDesktop on October 2nd, 2024",
+  "summary": "A security researcher reported that they was able to gain access to leaked access tokens of ToDesktop’s Firebase Service Account. **We have reviewed logs and inspected app bundles. No malicious usage was detected. There were no malicious builds or releases of applications from the ToDesktop platform.**",
+  "published_at": "2025-02-28T19:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:14:47.478048+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T23:03:50.966981+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-todesktop/2025/02/91/91528908f2a6c212ddced22f70ae7678648a42175cfee2c773c203b1e8c33bf4/article.md",
+    "record": "articles/v1/2b/yc-todesktop/2025/02/91/91528908f2a6c212ddced22f70ae7678648a42175cfee2c773c203b1e8c33bf4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6854,
+    "sha256": "sha256:21fdad048d290ab4f6f97cdb7ae6965750bb31b04174253d087149d91f8b94a5",
+    "normalized_content_hash": "sha256:1e7ec2c57472ab7f7e3957579966e1322166cc36798e29e8e55ed6e3b88137e3"
+  },
+  "provenance": {
+    "source_item_id": "6df4232f-576c-4138-9646-19681221e786",
+    "external_id": "https://www.todesktop.com/blog/posts/security-incident-at-todesktop"
+  }
+}

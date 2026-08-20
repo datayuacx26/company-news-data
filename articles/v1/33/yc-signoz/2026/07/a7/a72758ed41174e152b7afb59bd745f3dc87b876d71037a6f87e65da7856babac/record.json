@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a72758ed41174e152b7afb59bd745f3dc87b876d71037a6f87e65da7856babac",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-awsso",
+    "canonical": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-awsso"
+  },
+  "title": "SAML Authentication with AWS SSO",
+  "summary": "Configure SAML single sign-on between AWS SSO (IAM Identity Center) and SigNoz for team authentication.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/a7/a72758ed41174e152b7afb59bd745f3dc87b876d71037a6f87e65da7856babac/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/a7/a72758ed41174e152b7afb59bd745f3dc87b876d71037a6f87e65da7856babac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 657,
+    "sha256": "sha256:0164f805f3208083d6bce03d0d6cc4fcdcc8c9d1825798e01e4c5b58009bcb73",
+    "normalized_content_hash": "sha256:eae1977cbed821ed59a0cf830647f75ea9cf084bc231946a48899ca3049c6396"
+  },
+  "provenance": {
+    "source_item_id": "08c386f0-a4ef-4a30-8509-1167bde43770",
+    "external_id": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-awsso"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8663beee05f99b59ac8a83cf0bf730ef0a9ec4b5a4b78b46588c0a34c8732d22",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/trace-without-traces/",
+    "canonical": "https://speedscale.com/blog/trace-without-traces/"
+  },
+  "title": "Trace without traces",
+  "summary": "The trace was sampled out. I found the bug anyway — by filtering recorded traffic on the customer's email instead of a trace ID. Here's how to follow one request across four services with no trace IDs and no OpenTelemetry.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/07/86/8663beee05f99b59ac8a83cf0bf730ef0a9ec4b5a4b78b46588c0a34c8732d22/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/07/86/8663beee05f99b59ac8a83cf0bf730ef0a9ec4b5a4b78b46588c0a34c8732d22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5945,
+    "sha256": "sha256:084227778a7e34e9b99f4809dbf66050c47126bef3a7a5e72079e8810bc7bab8",
+    "normalized_content_hash": "sha256:53d5c9880b35c965fd79692dd1c15476908e59feaa4b98c02ad853f9225949a2"
+  },
+  "provenance": {
+    "source_item_id": "58539358-141b-48b0-8a95-25ecfdd9d323",
+    "external_id": "https://speedscale.com/blog/trace-without-traces/"
+  }
+}

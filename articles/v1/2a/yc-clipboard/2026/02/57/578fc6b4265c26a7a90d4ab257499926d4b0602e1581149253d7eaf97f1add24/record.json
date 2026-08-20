@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "578fc6b4265c26a7a90d4ab257499926d4b0602e1581149253d7eaf97f1add24",
+  "company": {
+    "key": "yc-clipboard",
+    "name": "Clipboard"
+  },
+  "source": {
+    "id": "yc-clipboard-news-import-8e3049d214a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clipboardworks.com/resources/blog/open-sourcing-our-node-js-mongo-db-backed-background-jobs-processor",
+    "canonical": "https://www.clipboardworks.com/resources/blog/open-sourcing-our-node-js-mongo-db-backed-background-jobs-processor"
+  },
+  "title": "Open-sourcing our Node.js, MongoDB-backed background jobs processor",
+  "summary": "Over the past two years, we've used our MongoDB-backed library to run billions of Node.js background jobs. It continues to run ~40M jobs per week (and growing) with throughput topping around 850 jobs/second. We open-sourced the library for others to use.",
+  "published_at": "2026-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:50:39.766093+00:00",
+  "fetched_at": "2026-07-28T22:19:38.682305+00:00",
+  "last_updated_at": "2026-08-18T05:41:27.456677+00:00",
+  "paths": {
+    "article": "articles/v1/2a/yc-clipboard/2026/02/57/578fc6b4265c26a7a90d4ab257499926d4b0602e1581149253d7eaf97f1add24/article.md",
+    "record": "articles/v1/2a/yc-clipboard/2026/02/57/578fc6b4265c26a7a90d4ab257499926d4b0602e1581149253d7eaf97f1add24/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1356,
+    "sha256": "sha256:3923df7ce43d72d598e966ba1c31d15cd1ee0229d306f4aaeee022e9b3626e76",
+    "normalized_content_hash": "sha256:a44296af16792d12520cdfb6e0b4178ec7f41519239584ae239949aeb1c6de52"
+  },
+  "provenance": {
+    "source_item_id": "33a7b9a0-681a-4c83-8753-306bb8515958",
+    "external_id": "https://www.clipboardworks.com/resources/blog/open-sourcing-our-node-js-mongo-db-backed-background-jobs-processor"
+  }
+}

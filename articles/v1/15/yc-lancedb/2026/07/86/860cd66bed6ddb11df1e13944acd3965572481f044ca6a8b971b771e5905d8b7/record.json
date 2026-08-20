@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "860cd66bed6ddb11df1e13944acd3965572481f044ca6a8b971b771e5905d8b7",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/the-case-for-random-access-i-o",
+    "canonical": "https://www.lancedb.com/blog/the-case-for-random-access-i-o"
+  },
+  "title": "The Case for Random Access I/O",
+  "summary": "One of the reasons we started the Lance file format and have been investigating new encodings is because we wanted a format with better support for random access.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:41.724668+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/86/860cd66bed6ddb11df1e13944acd3965572481f044ca6a8b971b771e5905d8b7/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/86/860cd66bed6ddb11df1e13944acd3965572481f044ca6a8b971b771e5905d8b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14923,
+    "sha256": "sha256:5db83835a371bd6b18b8b99511c719dcf75b6dd31c7743821bb9ab8eb5eef879",
+    "normalized_content_hash": "sha256:46d5bd77427f155bca6d9ab71c8cf31aad55a56f2a93e85fc7a1a516265e4e2d"
+  },
+  "provenance": {
+    "source_item_id": "110a4055-d557-499e-98a2-5b4dde37f0e9",
+    "external_id": "https://www.lancedb.com/blog/the-case-for-random-access-i-o"
+  }
+}

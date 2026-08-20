@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46b78224d253dd4f75e6e53f796945a1ebf5813ab143ec9e423b20b3cb0e0470",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/newsletter-march-2026",
+    "canonical": "https://www.lancedb.com/blog/newsletter-march-2026"
+  },
+  "title": "📄 Lance Blob V2, 🤗 Upload Lance Datasets to HF Hub, 🦞 LanceDB for OpenClaw's Memory",
+  "summary": "Lance Blob V2 introduces adaptive storage semantics, easily upload Lance datasets to Hugging Face Hub, and OpenClaw establishes LanceDB as a default memory layer for agents, plus community and enterprise updates.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/46/46b78224d253dd4f75e6e53f796945a1ebf5813ab143ec9e423b20b3cb0e0470/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/46/46b78224d253dd4f75e6e53f796945a1ebf5813ab143ec9e423b20b3cb0e0470/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14589,
+    "sha256": "sha256:49a910c7f9ac14f69ed1521a476133cc68e8090d61cf35e1fde64848b5dc7f57",
+    "normalized_content_hash": "sha256:7b7d70542422ff478dd470ac2b75710bbd66986f4654fc3f2900f4ef3acaee87"
+  },
+  "provenance": {
+    "source_item_id": "593b5794-85bd-4ba0-8f98-b4f8e07796ab",
+    "external_id": "https://www.lancedb.com/blog/newsletter-march-2026"
+  }
+}

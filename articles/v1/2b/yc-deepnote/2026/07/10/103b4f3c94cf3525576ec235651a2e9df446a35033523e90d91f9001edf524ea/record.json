@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "103b4f3c94cf3525576ec235651a2e9df446a35033523e90d91f9001edf524ea",
+  "company": {
+    "key": "yc-deepnote",
+    "name": "Deepnote"
+  },
+  "source": {
+    "id": "yc-deepnote-news-import-1c599340c4cd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepnote.com/blog/jupyter-ai-guide",
+    "canonical": "https://deepnote.com/blog/jupyter-ai-guide"
+  },
+  "title": "Jupyter AI: How to use AI tools in your notebooks",
+  "summary": "This piece will help readers decide if Jupyter AI is the right assistant for their notebook workflow. It will start with what the project actually is, when it was introduced, and who is driving it. Then it will show how the chat UI and %%ai magic command work in practice, the experience, and where it stalls. The close will compare that flow with Deepnote and a real notebook example to judge which tool gets to a usable result faster.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T08:11:39.657869+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-08-20T03:00:37.554296+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-deepnote/2026/07/10/103b4f3c94cf3525576ec235651a2e9df446a35033523e90d91f9001edf524ea/article.md",
+    "record": "articles/v1/2b/yc-deepnote/2026/07/10/103b4f3c94cf3525576ec235651a2e9df446a35033523e90d91f9001edf524ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23505,
+    "sha256": "sha256:5c05950cafb0b16e82afb55fc6010f0c56a0b868ac9ff6b02c6f2045eed7b3dc",
+    "normalized_content_hash": "sha256:d007b69789e9eec6be463e76adf3ff7457e4d1919e14dd9381a7a46d1214daeb"
+  },
+  "provenance": {
+    "source_item_id": "a5fce21c-ee33-441b-9893-cd53f8637bf4",
+    "external_id": "https://deepnote.com/blog/jupyter-ai-guide"
+  }
+}

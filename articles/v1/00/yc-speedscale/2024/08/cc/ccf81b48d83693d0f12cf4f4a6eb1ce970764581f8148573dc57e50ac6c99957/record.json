@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccf81b48d83693d0f12cf4f4a6eb1ce970764581f8148573dc57e50ac6c99957",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/isolating-bottlenecks-how-to-determine-if-your-slowdown-is-due-to-the-database-or-api/",
+    "canonical": "https://speedscale.com/blog/isolating-bottlenecks-how-to-determine-if-your-slowdown-is-due-to-the-database-or-api/"
+  },
+  "title": "Isolating Bottlenecks: How to Determine If Your Slowdown Is Due to the Database or API",
+  "summary": "Every slowdown in your application can be traced to specific components like a database or an API.",
+  "published_at": "2024-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2024/08/cc/ccf81b48d83693d0f12cf4f4a6eb1ce970764581f8148573dc57e50ac6c99957/article.md",
+    "record": "articles/v1/00/yc-speedscale/2024/08/cc/ccf81b48d83693d0f12cf4f4a6eb1ce970764581f8148573dc57e50ac6c99957/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14104,
+    "sha256": "sha256:3b958e3f4569279374386b6a5b6937998e7f2daf11fb27db7bc17ee2a372759a",
+    "normalized_content_hash": "sha256:0c693a478901a9cf2b59f782b974712016f8d8af538e67ccb5f1429f0016ff54"
+  },
+  "provenance": {
+    "source_item_id": "121f0dbe-e7bc-450a-9a4b-f5aef0ec89c9",
+    "external_id": "https://speedscale.com/blog/isolating-bottlenecks-how-to-determine-if-your-slowdown-is-due-to-the-database-or-api/"
+  }
+}

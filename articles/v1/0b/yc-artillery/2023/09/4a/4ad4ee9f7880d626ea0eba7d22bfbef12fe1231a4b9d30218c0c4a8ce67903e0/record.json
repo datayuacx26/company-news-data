@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ad4ee9f7880d626ea0eba7d22bfbef12fe1231a4b9d30218c0c4a8ce67903e0",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-69b75325e6e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/blog/github-action-fargate-lambda",
+    "canonical": "https://www.artillery.io/blog/github-action-fargate-lambda"
+  },
+  "title": "Using GitHub Actions to run Fargate and Lambda tests",
+  "summary": "In this blog post we’ll walk you through setting up a load test using Fargate and Lambda and our official GitHub Action, including some AWS IAM permissions you may have to go set up.",
+  "published_at": "2023-09-25T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:55:08.009846+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-20T02:15:44.547416+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2023/09/4a/4ad4ee9f7880d626ea0eba7d22bfbef12fe1231a4b9d30218c0c4a8ce67903e0/article.md",
+    "record": "articles/v1/0b/yc-artillery/2023/09/4a/4ad4ee9f7880d626ea0eba7d22bfbef12fe1231a4b9d30218c0c4a8ce67903e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8594,
+    "sha256": "sha256:b049b9c4dcf73585ddff0bb36b5a6875d9db07c89450465185777a74bef286d7",
+    "normalized_content_hash": "sha256:108b8d933ff6a549ce13c847a78e2c807f877ed1979701fa8d969bc9f7af1116"
+  },
+  "provenance": {
+    "source_item_id": "b30e7067-5921-4c98-9aa9-98554558fd20",
+    "external_id": "https://www.artillery.io/blog/github-action-fargate-lambda"
+  }
+}

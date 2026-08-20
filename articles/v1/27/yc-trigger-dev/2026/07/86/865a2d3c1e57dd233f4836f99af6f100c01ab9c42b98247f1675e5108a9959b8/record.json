@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "865a2d3c1e57dd233f4836f99af6f100c01ab9c42b98247f1675e5108a9959b8",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/event-loop-lag",
+    "canonical": "https://trigger.dev/blog/event-loop-lag"
+  },
+  "title": "How we tamed Node.js event loop lag: a deepdive",
+  "summary": "We recently experienced some service degradation and downtime due to event loop lag in our Node.js service. Here's how we diagnosed and fixed the issue.",
+  "published_at": "2026-07-23T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:13:09.827889+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:50.474365+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2026/07/86/865a2d3c1e57dd233f4836f99af6f100c01ab9c42b98247f1675e5108a9959b8/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2026/07/86/865a2d3c1e57dd233f4836f99af6f100c01ab9c42b98247f1675e5108a9959b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15298,
+    "sha256": "sha256:0a3c0cf6291dae2e7bb2af27547cd8fbbe04c2f1db7b82ea4e3196506a833fc9",
+    "normalized_content_hash": "sha256:236260c0e8bfe58e28632d8c64bfd337c9732bd294460a552c2e4d7bebce4038"
+  },
+  "provenance": {
+    "source_item_id": "2fe34b95-1fe6-411b-aa52-52beb86c0594",
+    "external_id": "https://trigger.dev/blog/event-loop-lag"
+  }
+}

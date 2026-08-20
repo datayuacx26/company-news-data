@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88b1556c0db1b8797a8a1e577ee1da84aed56f0fb6f5cbcbdd3d221d72438854",
+  "company": {
+    "key": "yc-circuitlab",
+    "name": "CircuitLab"
+  },
+  "source": {
+    "id": "yc-circuitlab-rss-d25759254652",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.circuitlab.com/blog/2020/08/10/ideal-diodes-in-circuitlab/",
+    "canonical": "https://www.circuitlab.com/blog/2020/08/10/ideal-diodes-in-circuitlab/"
+  },
+  "title": "Ideal Diodes in CircuitLab",
+  "summary": "comment » We’re introducing a new component to the CircuitLab toolbox: the ideal diode . We’ve had semiconductor PN junction diodes since we’ve launched, which show the exponential current-voltage relationship and accurately model real-world diodes. In contrast, the ideal diode is more like a simulated on-off switch: the I-V curve would be piecewise linear. It acts like it’s open-circuit when reverse biased, and short-circuit when forward biased. You can simply drag the ideal diode from the toolbox into your circuit, and optionally double-click to configure its parameters. Here’s an example using four ideal diodes to build a full-wave rectifier: Click to open and simulate the circuit above. Observe how the 4 diodes turn on and off at different times in the AC cycle. Here’s an simulation comparing the regular PN Junction Diode with the ideal diode: Click to open and simulate the circuit above. Note that D2 (a PN junction diode) gives us a gentle knee as it transitions from off to on, as real diodes do. D2’s curve is smooth in the calculus sense: its derivative is continuous. In contrast, ideal diodes D1 and D3 show an abrupt (piecewise-linear) knee when they change from off to on. These are not smooth in the calculus sense: their derivatives are discontinuous. Use the PN junction diode when: Intending to accurately simulate real-world devices Simulation runtime is not a constraint Use the ideal diode when: Learning about signal rectification (where PN junction complexity is unnecessary) Simulating signal clamping behaviors (where hard clamping is acceptable) Simulating switching power supplies: buck, boost converters, etc. (where simulation performance is a constraint) Other cases where much faster-running simulations are preferred to accurate diode modeling Both diode models, as well as Zener Diodes, photodiodes, and LEDs, are nows available in the CircuitLab toolbox:",
+  "published_at": "2020-08-10T16:30:00+00:00",
+  "first_seen_at": "2026-07-24T22:19:16.775475+00:00",
+  "fetched_at": "2026-07-28T21:05:18.773660+00:00",
+  "last_updated_at": "2026-08-20T02:37:02.874202+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-circuitlab/2020/08/88/88b1556c0db1b8797a8a1e577ee1da84aed56f0fb6f5cbcbdd3d221d72438854/article.md",
+    "record": "articles/v1/00/yc-circuitlab/2020/08/88/88b1556c0db1b8797a8a1e577ee1da84aed56f0fb6f5cbcbdd3d221d72438854/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6737,
+    "sha256": "sha256:897ce42db68486c23ce9bd47db5193befea402769dcc85f9c411efe1ccf41ee9",
+    "normalized_content_hash": "sha256:cc6240345751e5d36d5d319804f5810cee0481c97ea15a00fb9d94d06f8f80e6"
+  },
+  "provenance": {
+    "source_item_id": "96504be8-e637-4b23-94a3-8637cd308ebe",
+    "external_id": "https://www.circuitlab.com/blog/2020/08/10/ideal-diodes-in-circuitlab/"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-atob",
+    "name": "AtoB"
+  },
+  "record_count": 24,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/01/yc-atob/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 23248,
+        "sha256": "sha256:ebd56a326b3a45cb6500b94fdb51c7ad1eef5768a22a9dc012c1b2991fe36e68",
+        "newest_at": "2026-08-13T07:16:54.060705+00:00",
+        "oldest_at": "2026-07-28T21:37:36.757263+00:00"
+      }
+    ]
+  }
+}

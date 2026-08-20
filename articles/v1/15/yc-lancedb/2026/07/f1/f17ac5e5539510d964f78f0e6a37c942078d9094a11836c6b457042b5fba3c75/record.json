@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f17ac5e5539510d964f78f0e6a37c942078d9094a11836c6b457042b5fba3c75",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/opensearch-vs-lancedb-for-vector-search-query-cost-and-infrastructure",
+    "canonical": "https://www.lancedb.com/blog/opensearch-vs-lancedb-for-vector-search-query-cost-and-infrastructure"
+  },
+  "title": "OpenSearch vs LanceDB for Vector Search: Query Cost and Infrastructure",
+  "summary": "Choosing a vector database usually comes down to a tradeoff between a full search service and an in-process library. This post showcases benchmarks that compare OpenSearch and LanceDB on the COCO 2017 images embedded with SigLIP. We measure ingestion throughput, query cost, storage layout, and overall infra cost.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/f1/f17ac5e5539510d964f78f0e6a37c942078d9094a11836c6b457042b5fba3c75/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/f1/f17ac5e5539510d964f78f0e6a37c942078d9094a11836c6b457042b5fba3c75/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25964,
+    "sha256": "sha256:9e4008b75c2b19781b16b76b0494eacd7e4a70cd258aa3f50130d970f7b463de",
+    "normalized_content_hash": "sha256:5d78113a76765be7f00edb8354f5ff51201221e2f60d0d682568c072daff6759"
+  },
+  "provenance": {
+    "source_item_id": "48262e94-7c32-44dc-9ac3-fbd3828f7fc4",
+    "external_id": "https://www.lancedb.com/blog/opensearch-vs-lancedb-for-vector-search-query-cost-and-infrastructure"
+  }
+}

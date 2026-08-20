@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "17c36b16ff3e1247fd8801beeb64f4141dd5fa19f73583fa4a14bdade8a72d90",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/apm-and-distributed-tracing/application-details",
+    "canonical": "https://signoz.io/docs/apm-and-distributed-tracing/application-details"
+  },
+  "title": "Application Details",
+  "summary": "Explore application-level metrics in SigNoz including latency percentiles, error rates, operations per second, key operations, and Apdex scores.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/17/17c36b16ff3e1247fd8801beeb64f4141dd5fa19f73583fa4a14bdade8a72d90/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/17/17c36b16ff3e1247fd8801beeb64f4141dd5fa19f73583fa4a14bdade8a72d90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 679,
+    "sha256": "sha256:2f778ab4b9a47b1906627cfa64b285fc9775928c06c4fdc6f779e46d774d53a0",
+    "normalized_content_hash": "sha256:f2d1e322466f7ce5134f5771548c29ca585240667fb1f6cfc44a874a5aa9b34b"
+  },
+  "provenance": {
+    "source_item_id": "479611d3-8fef-4bf6-875c-8b8afde6c4bc",
+    "external_id": "https://signoz.io/docs/apm-and-distributed-tracing/application-details"
+  }
+}

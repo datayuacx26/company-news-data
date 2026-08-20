@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb352b72e838dc022d5c8895a508db013a7819d451d678737db6a1dd7695d8c4",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-5eeb9d1ed7ff",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://devblogs.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/",
+    "canonical": "https://devblogs.microsoft.com/blog/how-to-test-agent-skills-without-hitting-real-apis/"
+  },
+  "title": "How to test agent skills without hitting real APIs",
+  "summary": "Your agent skill calls an API. The moment you start evaluating it, every run either costs money or mutates production data. Learn how to mock APIs transparently so you can run evals without changing your skill or hitting real endpoints.",
+  "published_at": "2026-07-17T09:27:50+00:00",
+  "first_seen_at": "2026-07-20T04:34:25.944233+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-20T03:15:43.483532+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/bb/bb352b72e838dc022d5c8895a508db013a7819d451d678737db6a1dd7695d8c4/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/bb/bb352b72e838dc022d5c8895a508db013a7819d451d678737db6a1dd7695d8c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6818,
+    "sha256": "sha256:41c042806e78c22c1d5e6f5a192fdb4c5866de3353c36784b9bcb03fa05981e5",
+    "normalized_content_hash": "sha256:d8f4f8e9b84a69e680d5e000f61327bffd3c935ad13f80f0b4e7cbc9a0ffa96e"
+  },
+  "provenance": {
+    "source_item_id": "b0daa9c0-b80a-411a-a4c9-a2a85d3050e5",
+    "external_id": "https://devblogs.microsoft.com/?p=22035"
+  }
+}

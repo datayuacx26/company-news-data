@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "590f9fd3f6a21b9f6d2ab4dc35bfc710c44435bd8078991bea059b956bd75f46",
+  "company": {
+    "key": "yc-mattermost",
+    "name": "Mattermost"
+  },
+  "source": {
+    "id": "yc-mattermost-rss-3d807a20d23e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mattermost.com/blog/the-collaboration-gap-in-zero-trust-why-sovereignty-cant-stop-at-the-perimeter/",
+    "canonical": "https://mattermost.com/blog/the-collaboration-gap-in-zero-trust-why-sovereignty-cant-stop-at-the-perimeter/"
+  },
+  "title": "The Collaboration Gap in Zero Trust: Why Sovereignty Can’t Stop at the Perimeter",
+  "summary": "The core principle of Zero Trust is simple: don't assume trust based on the network. But many organizations don't apply that idea to collaboration.",
+  "published_at": "2026-08-03T14:46:46+00:00",
+  "first_seen_at": "2026-08-03T16:05:52.312315+00:00",
+  "fetched_at": "2026-08-03T16:10:47.640296+00:00",
+  "last_updated_at": "2026-08-20T02:45:42.683063+00:00",
+  "paths": {
+    "article": "articles/v1/17/yc-mattermost/2026/08/59/590f9fd3f6a21b9f6d2ab4dc35bfc710c44435bd8078991bea059b956bd75f46/article.md",
+    "record": "articles/v1/17/yc-mattermost/2026/08/59/590f9fd3f6a21b9f6d2ab4dc35bfc710c44435bd8078991bea059b956bd75f46/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7089,
+    "sha256": "sha256:069e2a93674d12e4624d0a1a1127de576f331fe53bac0f68ff1a8c657faee704",
+    "normalized_content_hash": "sha256:7edd8d7c232f071634f077c15d2e82b94bfd4b90593a81c420bea6cc23f892e4"
+  },
+  "provenance": {
+    "source_item_id": "4240fe78-e59c-44fa-a35b-21ea907ef27e",
+    "external_id": "https://mattermost.com/?p=58685"
+  }
+}

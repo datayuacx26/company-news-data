@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8dc5e2b1403441ca9db3470973700c3c6179a55ef1f82f44833d7a63990dd01f",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/what-we-mean-by-multimodal",
+    "canonical": "https://www.lancedb.com/blog/what-we-mean-by-multimodal"
+  },
+  "title": "One System, Many Workloads: Rethinking What \"Multimodal\" Means for AI",
+  "summary": "A practical definition of multimodal complexity, and how LanceDB’s Multimodal Lakehouse is built to address these challenges.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/8d/8dc5e2b1403441ca9db3470973700c3c6179a55ef1f82f44833d7a63990dd01f/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/8d/8dc5e2b1403441ca9db3470973700c3c6179a55ef1f82f44833d7a63990dd01f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20655,
+    "sha256": "sha256:b9b8011a6b5109fc55348f624202c0966b8d91d1169a9ff095f49648fc2bb14a",
+    "normalized_content_hash": "sha256:5c1f13a0e6b998f454ac84dca312c292494da777e6c24c450ecabab731f982ec"
+  },
+  "provenance": {
+    "source_item_id": "a4bca538-e394-424e-8f82-2c1dc54bd822",
+    "external_id": "https://www.lancedb.com/blog/what-we-mean-by-multimodal"
+  }
+}

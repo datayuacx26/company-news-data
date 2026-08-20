@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7824c4b990e7d2b1230720e3d268df71e727d8f8c3f81aefb4a2b0212e133e37",
+  "company": {
+    "key": "yc-stably-ai",
+    "name": "Stably AI"
+  },
+  "source": {
+    "id": "yc-stably-ai-news-import-4d9fcc9f146f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stably.ai/blog/why-your-tests-should-run-in-parallel",
+    "canonical": "https://www.stably.ai/blog/why-your-tests-should-run-in-parallel"
+  },
+  "title": "Why Your Tests Should Run in Parallel",
+  "summary": "Sequential tests are a quiet tax most teams pay. When tests can't run in parallel, it's not an infrastructure problem—it's a design problem. Learn why parallel-ready tests are better engineered and how AI can make them the default.",
+  "published_at": "2025-11-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:44:25.851186+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-20T03:08:54.793852+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-stably-ai/2025/11/78/7824c4b990e7d2b1230720e3d268df71e727d8f8c3f81aefb4a2b0212e133e37/article.md",
+    "record": "articles/v1/33/yc-stably-ai/2025/11/78/7824c4b990e7d2b1230720e3d268df71e727d8f8c3f81aefb4a2b0212e133e37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3810,
+    "sha256": "sha256:d3596ad74af4bd2c52cb3d7578fa917e5f4fd08ed0bc0c09ed9a9dc0c557afef",
+    "normalized_content_hash": "sha256:97c1916b8213dd6e68dc8e4190e43027b0b0bf1a0971c013b12dff2004499f12"
+  },
+  "provenance": {
+    "source_item_id": "44a1134a-0c89-49a4-9677-e33d1e9c9458",
+    "external_id": "https://www.stably.ai/blog/why-your-tests-should-run-in-parallel"
+  }
+}

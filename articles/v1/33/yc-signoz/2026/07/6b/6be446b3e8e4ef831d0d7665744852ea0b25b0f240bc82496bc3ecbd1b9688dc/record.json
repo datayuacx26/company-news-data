@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6be446b3e8e4ef831d0d7665744852ea0b25b0f240bc82496bc3ecbd1b9688dc",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/kubectl-logs",
+    "canonical": "https://signoz.io/blog/kubectl-logs"
+  },
+  "title": "kubectl logs: How to View & Tail Kubernetes Pod Logs",
+  "summary": "Master the kubectl logs command with examples: view pod logs, handle multi-container pods, filter by time, and troubleshoot common issues.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/6b/6be446b3e8e4ef831d0d7665744852ea0b25b0f240bc82496bc3ecbd1b9688dc/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/6b/6be446b3e8e4ef831d0d7665744852ea0b25b0f240bc82496bc3ecbd1b9688dc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16620,
+    "sha256": "sha256:bfcca6432ad299822371e29de9939ed42b28eac8ba40bbd4dde3aab3eb0151cf",
+    "normalized_content_hash": "sha256:a435d4874ddc08b2a270d229a7824e3295b4eb858de9d717acbbf14a6f71f2bb"
+  },
+  "provenance": {
+    "source_item_id": "d61d13ca-7c98-4eb9-ac73-ef21c9976d68",
+    "external_id": "https://signoz.io/blog/kubectl-logs"
+  }
+}

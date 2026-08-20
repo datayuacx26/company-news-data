@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "615f67a572a9e7688be3715917f97df2861cd00bb5d6d0733a04fcc698497de5",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/policy-engines-dont-work-for-ai-authorization-heres-why",
+    "canonical": "https://authzed.com/blog/policy-engines-dont-work-for-ai-authorization-heres-why"
+  },
+  "title": "Policy Engines Don't Work for AI Authorization. Here's Why",
+  "summary": "Policy engines promise flexible authorization, but they struggle with the ambient context and relationship-driven decisions that AI systems require. Learn why Relationship-Based Access Control (ReBAC) is the better approach for securing AI agents and RAG pipelines.",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:54:15.153981+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2026/02/61/615f67a572a9e7688be3715917f97df2861cd00bb5d6d0733a04fcc698497de5/article.md",
+    "record": "articles/v1/15/yc-authzed/2026/02/61/615f67a572a9e7688be3715917f97df2861cd00bb5d6d0733a04fcc698497de5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14528,
+    "sha256": "sha256:7811a58f314069bd417a3ae378a02fda0686b4ed79f69b3027d5db18f69a5c88",
+    "normalized_content_hash": "sha256:0d37898a7a60a3b167d3cf3ef3ec6322bc3452657bd8c4df2f0dac33155e28a7"
+  },
+  "provenance": {
+    "source_item_id": "686ec3cf-056f-465d-b5e3-1906566e2278",
+    "external_id": "https://authzed.com/blog/policy-engines-dont-work-for-ai-authorization-heres-why"
+  }
+}

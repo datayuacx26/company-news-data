@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36b69b2e469af9cd559b7a6f625170a425affb5dc26c3fbb260e6febc7ebe435",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/what-is-opentelemetry",
+    "canonical": "https://signoz.io/blog/what-is-opentelemetry"
+  },
+  "title": "What is OpenTelemetry? Architecture, Benefits, and How It Works",
+  "summary": "Learn what OpenTelemetry (OTel) is, how its architecture, Collector, and OTLP work, plus the benefits, challenges, and how to get started with SigNoz.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:15:24.341015+00:00",
+  "last_updated_at": "2026-07-28T21:16:20.055342+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/36/36b69b2e469af9cd559b7a6f625170a425affb5dc26c3fbb260e6febc7ebe435/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/36/36b69b2e469af9cd559b7a6f625170a425affb5dc26c3fbb260e6febc7ebe435/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18453,
+    "sha256": "sha256:1fbe8fb16b0378b353d1c8dbbc47e1320f3bed9a746423366998f856ee958d39",
+    "normalized_content_hash": "sha256:9467b17fb179a8762c2976f81caabc8deb552657b5d50dbe923c29bdb84a7501"
+  },
+  "provenance": {
+    "source_item_id": "519d7833-69ad-4fa0-a14a-2c9aebde5133",
+    "external_id": "https://signoz.io/blog/what-is-opentelemetry"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4cf251ec8cd8beb9972b4afffc2666eed499582d823132cfb33f387717c62828",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-69b75325e6e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/blog/load-testing-on-azure",
+    "canonical": "https://www.artillery.io/blog/load-testing-on-azure"
+  },
+  "title": "Load testing on Azure with Artillery",
+  "summary": "Artillery launches support for running distributed load tests on Azure with Azure Container Instances",
+  "published_at": "2024-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:55:08.009846+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-20T02:15:44.547416+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2024/08/4c/4cf251ec8cd8beb9972b4afffc2666eed499582d823132cfb33f387717c62828/article.md",
+    "record": "articles/v1/0b/yc-artillery/2024/08/4c/4cf251ec8cd8beb9972b4afffc2666eed499582d823132cfb33f387717c62828/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2534,
+    "sha256": "sha256:987c0f0f955602e8f29c415cd0578bc0aaa98f054791588a522ffcfee857cd32",
+    "normalized_content_hash": "sha256:5bd7ca5a9333d9e60fa7f03287f84d506a6d9c7e9d3cc146801792755eddd7ea"
+  },
+  "provenance": {
+    "source_item_id": "cdf60ed2-2dca-4122-a556-7e5633cedb5c",
+    "external_id": "https://www.artillery.io/blog/load-testing-on-azure"
+  }
+}

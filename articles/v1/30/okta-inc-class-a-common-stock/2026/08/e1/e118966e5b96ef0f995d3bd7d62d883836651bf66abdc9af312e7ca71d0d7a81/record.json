@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e118966e5b96ef0f995d3bd7d62d883836651bf66abdc9af312e7ca71d0d7a81",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-144d960cd8f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/blog/product-innovation/zero-trust-device-posture-sensor-mode/",
+    "canonical": "https://www.okta.com/blog/product-innovation/zero-trust-device-posture-sensor-mode/"
+  },
+  "title": "Zero Trust at the device layer: Silent Okta Verify deployment at scale",
+  "summary": "Deploy Okta Verify silently via MDM and collect device posture signals before user authentication across macOS and Windows endpoints.",
+  "published_at": "2026-08-13T07:00:00+00:00",
+  "first_seen_at": "2026-08-14T03:39:32.599752+00:00",
+  "fetched_at": "2026-08-14T03:39:33.339782+00:00",
+  "last_updated_at": "2026-08-19T19:10:23.981356+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/08/e1/e118966e5b96ef0f995d3bd7d62d883836651bf66abdc9af312e7ca71d0d7a81/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/08/e1/e118966e5b96ef0f995d3bd7d62d883836651bf66abdc9af312e7ca71d0d7a81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6512,
+    "sha256": "sha256:552cdd8a844c49b4d5573732c45e3667c1eb85cd3c8709d9bf40ee509c035a63",
+    "normalized_content_hash": "sha256:8b9fae9a5189de63717417b860aacdbfd65973a11318e5cfbe610da40ffc25b4"
+  },
+  "provenance": {
+    "source_item_id": "e3956a00-3740-459e-82eb-573b937cafee",
+    "external_id": "https://www.okta.com/blog/product-innovation/zero-trust-device-posture-sensor-mode/"
+  }
+}

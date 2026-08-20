@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "623a28741168642d94f2ab34b1a534962e82b203cafd5e4660119ddc9e08b17c",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/fastapi-mock-llm-apis/",
+    "canonical": "https://speedscale.com/blog/fastapi-mock-llm-apis/"
+  },
+  "title": "FastAPI Testing: Mock LLM APIs for Free",
+  "summary": "Record real LLM traffic from a FastAPI app, mock it locally, and replay it in CI with proxymock.",
+  "published_at": "2026-03-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/03/62/623a28741168642d94f2ab34b1a534962e82b203cafd5e4660119ddc9e08b17c/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/03/62/623a28741168642d94f2ab34b1a534962e82b203cafd5e4660119ddc9e08b17c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21096,
+    "sha256": "sha256:4e4fb55cf6d1af0abcbe529fcb0534c1f95547af76026071d0d36ee7f5882183",
+    "normalized_content_hash": "sha256:f7e592527bb0f3239b5e0038891e032e556ecdcd864b56513b2f7a49575eaf38"
+  },
+  "provenance": {
+    "source_item_id": "a4f1825f-9f6e-4e02-9b2b-d5d45397c2e5",
+    "external_id": "https://speedscale.com/blog/fastapi-mock-llm-apis/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff41931c2d50ee5358d4c5700e661f523f29010e77484a4ed82b6c54b3142755",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/metrics-management/opentelemetry-pgbouncer",
+    "canonical": "https://signoz.io/docs/metrics-management/opentelemetry-pgbouncer"
+  },
+  "title": "Send PgBouncer Metrics to SigNoz with OpenTelemetry",
+  "summary": "Scrape PgBouncer connection-pool metrics with the OpenTelemetry Collector and send pool, throughput, and wait-time metrics to SigNoz.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/ff/ff41931c2d50ee5358d4c5700e661f523f29010e77484a4ed82b6c54b3142755/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/ff/ff41931c2d50ee5358d4c5700e661f523f29010e77484a4ed82b6c54b3142755/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 695,
+    "sha256": "sha256:5b67a1363efc6030effe58c48151c08bb89e537822f5834f8edaa5e6f6079982",
+    "normalized_content_hash": "sha256:2f9165138d28e74fc01883930ebac724a952325374518ee4a0f55284c581a62c"
+  },
+  "provenance": {
+    "source_item_id": "33d6280d-1542-47e2-956c-3ad33412e392",
+    "external_id": "https://signoz.io/docs/metrics-management/opentelemetry-pgbouncer"
+  }
+}

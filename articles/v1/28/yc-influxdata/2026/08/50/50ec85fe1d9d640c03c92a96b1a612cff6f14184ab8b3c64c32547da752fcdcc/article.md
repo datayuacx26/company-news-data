@@ -1,0 +1,130 @@
+---
+schema_version: "1.0.0"
+document_id: "50ec85fe1d9d640c03c92a96b1a612cff6f14184ab8b3c64c32547da752fcdcc"
+company_key: "yc-influxdata"
+company: "InfluxData"
+source_id: "yc-influxdata-rss-012b8d0fa152"
+canonical_url: "https://www.influxdata.com/blog/where-historians-fall-short/"
+published_at: "2026-08-04T08:00:00+00:00"
+first_seen_at: "2026-08-04T07:34:29.537812+00:00"
+fetched_at: "2026-08-04T09:43:50.004226+00:00"
+content_hash: "sha256:56d0b373c12ccb92c65e1f6aee66135eb3b584510465c1e9852d65157480f346"
+---
+
+# Where Historians Fall Short for Physical AI
+
+Summary
+
+
+Physical AI—machines and industrial systems that sense conditions, reason, and act in the real world—needs two things from operational data: detailed history for training, and real-time telemetry for inference. Traditional data historians weren’t built for either at the speed Physical AI requires. Four gaps result: limited real-time access, compression that strips model-relevant signal, IT/OT fragmentation, and site-by-site architectures. InfluxDB 3 closes these gaps, extending historian investments with a distributed layer for edge inference and cross-site training.
+
+
+Table of Contents
+
+
+Physical AI enables machines and industrial systems to perceive conditions, reason about them, and act in the real world. In industrial settings, as part of an industrial AI strategy, physical AI models can help organizations identify risks earlier, optimize operations, and respond to changing conditions in real-time.
+
+
+Delivering these outcomes starts with training AI models on detailed historical operational data. Then, when deployed, these models need access to real-time telemetry to interpret current conditions, make decisions, and automate actions.
+
+
+For organizations built around traditional historians, supporting model training and real-time operations creates new challenges and new opportunities.
+
+
+## Where historians fall short for Physical AI
+
+
+[Data historians](https://www.influxdata.com/glossary/data-historian/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) remain essential systems for industrial operations. They create a durable record of process and equipment behavior, supporting engineering analysis, troubleshooting, reporting, auditability, and, where required, regulatory compliance.
+
+
+But the issue is, simply put, data historians were built for, well, historical data. The data requirements of Physical AI are different.
+
+
+At inference time, models need immediate access to current, sufficiently detailed operational data. During development and training, they need consistent, well-labeled history drawn from many operating conditions, assets, and sites. Historian-centered architectures can make both jobs difficult.
+
+
+#### Retaining Operational History Versus a Live Model Feed
+
+
+Data historians are effective at recording operations and helping engineers investigate what happened. But many historian deployments were not designed to continuously serve high-frequency OT data to AI models and applications operating across edge, IT, and cloud environments. The data may be collected in real-time, yet still be difficult to use in real time. Historian data commonly remains inside the OT environment, where access is constrained by network segmentation, security requirements, proprietary interfaces, and site-specific infrastructure. Making it available to an AI application may require gateways, scheduled queries, replication, exports, or additional integration pipelines.
+
+
+Every additional step introduces operational complexity, and more importantly, delays. At inference time, latency matters. Physical AI systems must evaluate current conditions while there is still an opportunity to respond. If telemetry reaches the model after the equipment state or process condition has changed, the data may still support investigation, but it can no longer support timely intervention.
+
+
+#### Compression Removes Relevant Signals for Model Training
+
+
+Legacy data historians often use techniques such as (deadbands, exception processing, compression, aggregation, or downsampling, to reduce data volume while preserving operational trends. This approach is appropriate for traditional data historian workloads, e.g., reporting, troubleshooting, and compliance.
+
+
+By comparison, Physical AI models need to be trained on high-resolution telemetry that preserves the patterns required to recognize normal and abnormal operating states, predict outcomes, and determine the appropriate action. When those details are removed before training, models may not be able to learn the subtle behaviors that distinguish one condition from another.
+
+
+#### The Cost of Fragmented Data
+
+
+Legacy data historian architectures were designed in an era when operational technology (OT) and information technology (IT) environments were largely separate. That separation creates challenges when training Physical AI models because much of the context needed to interpret telemetry, such as maintenance records, production schedules, quality results, operator actions, business processes, and asset relationships, resides in IT applications such as ERP, MES, and CMMS systems.
+
+
+In addition, historian architectures also tend to be site-centric. Historians are typically deployed and managed at the plant, facility, or asset level, creating separate stores of operational history across the organization. Physical AI initiatives may need data from multiple—or even all—sites to build an enterprise-level history that captures a broader range of assets, operating conditions, failures, and outcomes.
+
+
+Lastly, training datasets for Physical AI models are increasingly multimodal, combining telemetry with inputs such as images, video, audio, and LiDAR. When these sensory inputs are connected and aligned in time, models can learn how observations—across sight, sound, spatial awareness, and machine state—relate to operating conditions, how events unfold, and which outcomes or actions follow. This multimodal training prepares Physical AI models to interpret a wider range of sensory inputs at inference time, reason about current conditions, and ultimately act within the physical world.
+
+
+The challenge is that legacy historian architectures preserve time series telemetry as an operational record, but they do not inherently connect it with enterprise context, history from other sites, or data held in specialized multimodal systems.
+
+
+Bridging these[data silos](https://www.influxdata.com/blog/breaking-data-silos-influxdb-3/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) requires building[ETL pipelines](https://www.influxdata.com/glossary/etl/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) , custom integrations, and manual workflows to align timestamps, asset identities, operating conditions, events, and outcomes. Engineers spend significant time collecting, reconciling, and preparing data before it can be used to train Physical AI models.
+
+
+## A modern time series architecture connects edge and cloud
+
+
+Fortunately, teams don’t need to rip out their historians and toss them aside. With InfluxDB 3, organizations can build on existing historian investments while creating a more modern operational data architecture for Physical AI. Historians can continue to preserve the operational record, while InfluxDB provides a distributed time series data layer for ingesting, processing, consolidating, and distributing telemetry across edge, cloud, and enterprise environments.
+
+
+At the industrial edge, time series services can sit close to the source, where teams can process and query live telemetry for low-latency inference and action. Some or all of that data can also be sent to InfluxDB Cloud, creating a common, time-aligned data layer that brings together operational history from multiple sources. This gives organizations the detailed, connected historical datasets needed for model training, evaluation, and enterprise analysis.
+
+
+The cloud consolidation point also serves as a distribution layer. Telemetry can be made available without building a separate DataOps pipeline or custom integration between each source and every consumer. The same architecture can therefore support local decision-making at the edge and enterprise-wide learning in the cloud.
+
+
+Even better, this shared data layer can connect telemetry with asset metadata, data from enterprise systems such as ERP, MES, and CMMS, and multimodal data such as images, video, and audio. Time-aligned telemetry provides the operating context for these other data types, showing machine state, load, temperature, vibration, control settings, and process conditions at the moment a multimodal observation was captured or an operator action was taken. The result is a richer training foundation that helps Physical AI models learn not just what happened, but the conditions in which it happened, context that supports more accurate inference, stronger root-cause analysis, and better operational decisions.
+
+
+#### Building a Context-Rich Training Dataset for Physical AI
+
+
+#### Delivering Live Telemetry to AI at Inference
+
+
+Built on[Apache Arrow](https://www.influxdata.com/glossary/apache-arrow/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) and DataFusion with SQL support, InfluxDB 3 enables fast time series queries across large volumes of time-stamped data. It works alongside legacy historians as a real-time time series layer, or hub. Teams can ingest high-frequency telemetry, query recent data as it arrives, and use that data in dashboards, and to trigger alerts and automation workflows. With the[Python Processing Engine](https://www.influxdata.com/blog/new-python-processing-engine-influxdb3/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) , teams can process signals, extract features, detect anomalies, and act on data as it arrives. This brings analysis closer to ingestion, helping deployed physical AI models run inference on current operating conditions and respond as they change.
+
+
+## Built for the physical world
+
+
+Legacy data historians will continue to play an important role in preserving operational history and supporting long-term analysis. But as AI-driven operations become more common, organizations need additional capabilities to make detailed operational data continuously available for training, inference, and action.
+
+
+By extending historian investments with a modern, distributed time-series architecture, teams can support real-time action at the edge while consolidating and distributing operational data across the enterprise.
+
+
+Ready to build a stronger foundation for Physical AI? Explore InfluxDB 3 open source with[InfluxDB 3 Core](https://www.influxdata.com/products/influxdb/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) or a free trial of[InfluxDB 3 Enterprise](https://www.influxdata.com/products/influxdb-enterprise/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) . For more on this topic, watch the webinar,[Physical AI for Industrial IoT: Edge Impulse + InfluxDB](https://www.influxdata.com/resources/physical-ai-for-industrial-iot-edge-impulse-influxdb/?utm_source=website&utm_medium=direct&utm_campaign=where_historians_fall_short&utm_content=blog) .
+
+
+## FAQ
+
+
+What is Physical AI, and how does it differ from other forms of AI? Physical AI refers to AI systems that interact with the material world, interpreting telemetry through the lens of physical laws rather than just processing numbers or generating content. In industrial settings, it relies on continuous operational data such as sensor telemetry, machine states, and process conditions to interpret its environment and act in real-time.
+
+
+What's the difference between a data historian and a time series database? A data historian is built to record industrial process and equipment data for engineering analysis, troubleshooting, and compliance reporting. A time-series database, like InfluxDB 3, is purpose-built to ingest, query, and act on time series data in real-time across edge, cloud, and enterprise environment. Historians excel at retaining a historical record; time series databases are built to also serve that data live to applications and AI models.
+
+
+Why can't traditional historians support real-time AI inference? Many historian deployments store data inside OT environments where network segmentation, proprietary interfaces, and site-specific infrastructure limit real-time access. Getting that data to an AI model typically requires gateways, scheduled queries, or export pipelines, each of which adds latency.
+
+
+How does InfluxDB 3 help unify data across multiple industrial sites? Historians are typically deployed at the plant or facility level, creating separate stores of operational history. InfluxDB 3 can consolidate time series data from multiple sites into a centralized or cloud-based layer, giving Physical AI models an enterprise-wide dataset spanning more assets, operating conditions, and failure modes than any single site can provide alone.

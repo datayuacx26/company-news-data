@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5dbab8c961af1452a04d51fd0a522ad25595ed91084f816f0a1fd9e684735cd6",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/what-is-a-feature-flag",
+    "canonical": "https://posthog.com/blog/what-is-a-feature-flag"
+  },
+  "title": "What is a feature flag (and how it compares to remote config and A/B testing)",
+  "summary": "Feature flags control releases. Remote config changes behavior without deploys. A/B tests measure what works. Here's when to use each, and how PostHog handles all three.",
+  "published_at": "2026-02-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T22:20:15.340641+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2026/02/5d/5dbab8c961af1452a04d51fd0a522ad25595ed91084f816f0a1fd9e684735cd6/article.md",
+    "record": "articles/v1/0e/yc-posthog/2026/02/5d/5dbab8c961af1452a04d51fd0a522ad25595ed91084f816f0a1fd9e684735cd6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24717,
+    "sha256": "sha256:65209aacb85b85bc33ac3b83ba98c18dd3ab88e72e20a80386881c94c13d6870",
+    "normalized_content_hash": "sha256:699096355d08d43c274c20523390b576676bf5b91c659ab0abb1c19af7b0c616"
+  },
+  "provenance": {
+    "source_item_id": "23e6e2e9-9e9f-4f41-8205-41fc40c2895c",
+    "external_id": "21e4a0a0-0bf5-5f18-ae2c-f0472458a3f1"
+  }
+}

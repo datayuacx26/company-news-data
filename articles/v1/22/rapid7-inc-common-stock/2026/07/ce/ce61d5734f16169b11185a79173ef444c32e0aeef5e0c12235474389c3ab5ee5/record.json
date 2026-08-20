@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce61d5734f16169b11185a79173ef444c32e0aeef5e0c12235474389c3ab5ee5",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/etr-cve-2026-63030-wp2shell-a-critical-remote-code-execution-vulnerability-in-wordpress-core",
+    "canonical": "https://www.rapid7.com/blog/post/etr-cve-2026-63030-wp2shell-a-critical-remote-code-execution-vulnerability-in-wordpress-core"
+  },
+  "title": "CVE-2026-63030: wp2shell a Critical Remote Code Execution Vulnerability in WordPress Core",
+  "summary": "On July 17, 2026, a GitHub Security Advisory was published for CVE-2026-63030, a critical unauthenticated remote code execution vulnerability affecting WordPress Core.",
+  "published_at": "2026-07-17T22:23:03+00:00",
+  "first_seen_at": "2026-07-20T23:19:41.599179+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-07T13:57:48.141817+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/ce/ce61d5734f16169b11185a79173ef444c32e0aeef5e0c12235474389c3ab5ee5/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/ce/ce61d5734f16169b11185a79173ef444c32e0aeef5e0c12235474389c3ab5ee5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6269,
+    "sha256": "sha256:2382960be6c2f9306c1a3444f0bfd066b293c5d2e02eaf65e27abb4065adcc48",
+    "normalized_content_hash": "sha256:c58d3f9a9369f3a2e13b35a8d03ac3b26ba1aa8f590abe9093cdf02f90786db9"
+  },
+  "provenance": {
+    "source_item_id": "3279937a-af18-4485-90ad-975e957dce8a",
+    "external_id": "bltb79953f01092886f"
+  }
+}

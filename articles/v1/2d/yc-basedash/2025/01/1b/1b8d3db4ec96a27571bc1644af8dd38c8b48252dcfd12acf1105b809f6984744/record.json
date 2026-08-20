@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b8d3db4ec96a27571bc1644af8dd38c8b48252dcfd12acf1105b809f6984744",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-to-do-an-unpivot-in-mysql/",
+    "canonical": "https://www.basedash.com/blog/how-to-do-an-unpivot-in-mysql/"
+  },
+  "title": "How to Do an Unpivot in MySQL",
+  "summary": "Unpivoting in MySQL involves transforming columns into rows, effectively normalizing data that was previously denormalized.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/1b/1b8d3db4ec96a27571bc1644af8dd38c8b48252dcfd12acf1105b809f6984744/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/1b/1b8d3db4ec96a27571bc1644af8dd38c8b48252dcfd12acf1105b809f6984744/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3103,
+    "sha256": "sha256:d11e9a2d2d4c66dc72d96dfe87e1afdde50d89142570e01ef8f605c669705cb9",
+    "normalized_content_hash": "sha256:ba03149fe1e8e60f3d379ce6fa47aee4002e042f605b88e78995202244bd58c1"
+  },
+  "provenance": {
+    "source_item_id": "33eff113-ffcd-4a6e-803a-0786e0bd0d69",
+    "external_id": "https://www.basedash.com/blog/how-to-do-an-unpivot-in-mysql/"
+  }
+}

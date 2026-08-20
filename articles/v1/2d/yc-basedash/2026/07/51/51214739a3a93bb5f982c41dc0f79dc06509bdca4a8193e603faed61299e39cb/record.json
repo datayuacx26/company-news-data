@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51214739a3a93bb5f982c41dc0f79dc06509bdca4a8193e603faed61299e39cb",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/our-ai-benchmark-couldnt-detect-a-7-point-regression/",
+    "canonical": "https://www.basedash.com/blog/our-ai-benchmark-couldnt-detect-a-7-point-regression/"
+  },
+  "title": "Our AI benchmark couldn't detect a 7-point regression",
+  "summary": "Our eval harness compared leaderboard means across 3 trials, which made anything smaller than a 10-point change invisible. Here's how paired statistics and a…",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T17:11:34.718293+00:00",
+  "fetched_at": "2026-07-28T20:31:35.420648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/07/51/51214739a3a93bb5f982c41dc0f79dc06509bdca4a8193e603faed61299e39cb/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/07/51/51214739a3a93bb5f982c41dc0f79dc06509bdca4a8193e603faed61299e39cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10874,
+    "sha256": "sha256:e7708a294d9ee7b9b75c5c45a5012a216cd0e31e00da5679651d37756a1ba0ee",
+    "normalized_content_hash": "sha256:ae2d8fb5fe639cbdc338678ae5bb79a302b0c88d03c1b29f4e3275a231106758"
+  },
+  "provenance": {
+    "source_item_id": "b176fc28-7c58-4816-aae1-f367dfdc26bd",
+    "external_id": "https://www.basedash.com/blog/our-ai-benchmark-couldnt-detect-a-7-point-regression/"
+  }
+}

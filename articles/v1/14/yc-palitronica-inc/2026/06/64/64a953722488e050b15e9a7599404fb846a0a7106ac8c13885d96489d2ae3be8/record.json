@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64a953722488e050b15e9a7599404fb846a0a7106ac8c13885d96489d2ae3be8",
+  "company": {
+    "key": "yc-palitronica-inc",
+    "name": "Palitronica Inc"
+  },
+  "source": {
+    "id": "yc-palitronica-inc-rss-9d07e8cf508a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.palitronica.com/post/why-invalid-commands-are-useful-evidence-in-firmware-testing",
+    "canonical": "https://www.palitronica.com/post/why-invalid-commands-are-useful-evidence-in-firmware-testing"
+  },
+  "title": "Why Invalid Commands Are Useful Evidence in Firmware Testing",
+  "summary": "Invalid commands can reveal what firmware does beyond its visible response. Learn how PowerFuzzer uses command-response-power evidence to detect hidden commands, firmware drift, undocumented functionality, and potential backdoors in black-box embedded systems.",
+  "published_at": "2026-06-26T04:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.337712+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T02:17:45.071678+00:00",
+  "paths": {
+    "article": "articles/v1/14/yc-palitronica-inc/2026/06/64/64a953722488e050b15e9a7599404fb846a0a7106ac8c13885d96489d2ae3be8/article.md",
+    "record": "articles/v1/14/yc-palitronica-inc/2026/06/64/64a953722488e050b15e9a7599404fb846a0a7106ac8c13885d96489d2ae3be8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12277,
+    "sha256": "sha256:9ef7d3fcc6d6a30cf5663f01a6be75ff1191d2921e6df828df3928146f1fad4a",
+    "normalized_content_hash": "sha256:cb2c452ce6df2dd14e75496bb225d32d0ac22c6b60f152b7f0d75d9323b138f2"
+  },
+  "provenance": {
+    "source_item_id": "103f9927-c7a7-49e5-8da8-84bfde49c853",
+    "external_id": "6a47d0859ac9a398d130ac94"
+  }
+}

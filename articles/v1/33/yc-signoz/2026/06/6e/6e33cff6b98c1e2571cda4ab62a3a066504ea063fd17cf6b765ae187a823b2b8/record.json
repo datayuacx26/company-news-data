@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e33cff6b98c1e2571cda4ab62a3a066504ea063fd17cf6b765ae187a823b2b8",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-django",
+    "canonical": "https://signoz.io/blog/opentelemetry-django"
+  },
+  "title": "A Practical OpenTelemetry Django Auto-Instrumentation Guide",
+  "summary": "Learn how to set up OpenTelemetry Django auto-instrumentation using opentelemetry-instrumentation-django to monitor traces, metrics, and logs.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.521169+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/6e/6e33cff6b98c1e2571cda4ab62a3a066504ea063fd17cf6b765ae187a823b2b8/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/6e/6e33cff6b98c1e2571cda4ab62a3a066504ea063fd17cf6b765ae187a823b2b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24672,
+    "sha256": "sha256:fa1292c562f05a1993ebea6cd05f849786f971dfb7e53d10acdc3c86510a3653",
+    "normalized_content_hash": "sha256:fd7cdd7aeb6eac9cdb48a7587e77789813a6ba0e355f9a20b5acff2c172af20e"
+  },
+  "provenance": {
+    "source_item_id": "9996a17e-6193-4162-a0ce-0221df5deb9c",
+    "external_id": "https://signoz.io/blog/opentelemetry-django"
+  }
+}

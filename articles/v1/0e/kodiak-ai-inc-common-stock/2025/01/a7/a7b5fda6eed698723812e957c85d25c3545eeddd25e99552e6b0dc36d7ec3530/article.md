@@ -1,0 +1,70 @@
+---
+schema_version: "1.0.0"
+document_id: "a7b5fda6eed698723812e957c85d25c3545eeddd25e99552e6b0dc36d7ec3530"
+company_key: "kodiak-ai-inc-common-stock"
+company: "Kodiak AI Inc."
+source_id: "kodiak-ai-inc-common-stock-rss-dc4af1b0a9ba"
+canonical_url: "https://kodiak.ai/news/kodiak-delivers-customer-owned-autonomous-robotrucks-to-atlas"
+published_at: "2025-01-24T13:00:00+00:00"
+first_seen_at: "2026-07-20T23:18:01.334765+00:00"
+fetched_at: "2026-07-28T20:58:25.712310+00:00"
+content_hash: "sha256:ef5e23ca21fc4b27b14ddea81cdff3aeb71634fa5c2c872a7761583788e82568"
+---
+
+# Kodiak AI Delivers First Customer-Owned Autonomous RoboTrucks to Atlas
+
+**AUSTIN, Texas & MOUNTAIN VIEW, Calif. (January 24, 2025)** —[Kodiak AI, Inc.](https://www.maersk.com/) , a leading autonomous truck developer, and Atlas Energy Solutions Inc. (“Atlas”) today announced that Atlas has completed the delivery of 100 loads of proppant with its two RoboTrucks, semi-trucks equipped with the Kodiak Driver, Kodiak’s self-driving system. This milestone marks the first time ever that a customer has taken ownership of a RoboTruck and launched driverless commercial semi-trucking operations. The initial driverless operations, which were[announced](https://www.businesswire.com/news/home/20240723398477/en/Atlas-Energy-Solutions-and-Kodiak-Announce-Agreement-For-Autonomous-Trucking-Technology) in July 2024, involved Kodiak delivering Atlas’s frac sand along a 21-mile off-road route in West Texas’s Permian Basin with Kodiak-owned driverless trucks. With Kodiak providing the self-driving technology for these initial Atlas-owned RoboTrucks, Atlas is now able to complete its own driverless deliveries across the 75,000 square mile Permian Basin in West Texas and Eastern New Mexico. This sets Kodiak apart as the first company in the autonomous trucking industry to launch commercial driverless trucking operations.
+
+
+“This is an incredible moment, for us and for the autonomous trucking industry as we have officially delivered a commercial RoboTruck to a customer and launched commercial operations,” said Don Burnette, Founder and CEO, Kodiak. “The commercialization of autonomous trucks has been a goal for the industry for many years, and it has now come to fruition. Kodiak is the first company to make autonomous trucking a real business, and this is a major step towards profitability for our company.”
+
+
+Atlas intends to scale its RoboTruck deployment considerably over the course of 2025 with multiple RoboTruck deployments expected throughout the year. Given the scale and scope of operations in the Permian Basin, Kodiak announced that it has established an office in Odessa, Texas to support Atlas’s operations. The 18,000-square-foot facility houses a team of 12 Kodiak employees, and is projected to grow to approximately 20 people by the end of Q1 2025.
+
+
+Kodiak’s launch of driverless trucking service coincides with Atlas’s first deliveries of sand off of the Dune Express, a 42-mile long, fully-electric conveyor system that carries sand from Atlas’s Kermit, Texas sand facility to an end-of-line loadout facility in eastern New Mexico. Atlas’s Kodiak-driver equipped, autonomous RoboTrucks are expected to move sand from the Dune Express to Atlas’s customers across the Delaware Basin. The Dune Express is part of Atlas’s strategy to automate the entire logistics process for sand delivery to make it safer, more efficient, and more reliable. It also aims to eliminate millions of truck miles driven on public roads across the Permian, reducing traffic and improving safety.
+
+
+“Incorporating these driverless RoboTrucks into our operations is a significant advancement in the automation of our business, enhancing our ability to maintain a fundamentally safe and reliable service at the best price for our customers,” said John Turner, CEO, Atlas. “Becoming the first company to operate our own autonomous semi-trucks and reaching 100 successful autonomous proppant deliveries demonstrates our unique commitment to driving innovation and automation across the Permian Basin’s rugged terrain, dust, and heat.”
+
+
+Prior to launching driverless operations with Atlas, Kodiak successfully completed its safety case, which is a comprehensive evaluation that demonstrates the safety and readiness of its self-driving system, within Atlas’s operating domain. The delivery of the world’s first customer-owned driverless RoboTrucks for industrial operations happened in December 2024, and driverless service with these trucks commenced on December 18th, 2024. This is the first stage in Kodiak’s commercialization roadmap. As a next step, Kodiak will extend its safety case to highways for its long-haul customers.
+
+
+The Kodiak Driver-equipped RoboTrucks feature Kodiak’s sixth generation platform, which includes all the redundant components required for operations without a safety driver. This includes Kodiak’s proprietary[SensorPods™](https://www.prnewswire.com/news-releases/kodiak-robotics-sensorpods-simplify-autonomous-truck-maintenance-and-increase-truck-utilization-by-eliminating-the-need-for-specialized-technicians-301563496.html) , pre-calibrated modular units that house all the sensors needed for autonomous driving, enabling fast and easy repairs.
+
+
+**About Kodiak AI, Inc.**
+
+
+Kodiak AI, Inc. was founded in 2018 and has become the trusted world leader in autonomous ground transportation committed to a safer and more efficient future for all. The company is developing an industry-leading artificial intelligence (AI) powered technology stack purpose-built for driverless trucking applications. The company delivers freight daily for its customers across the South using its autonomous technology. In May, Kodiak became the first autonomous trucking company to complete a fully driverless delivery in West Texas’s Permian Basin. Kodiak also leverages its commercial self-driving software to develop, test and deploy autonomous capabilities for the U.S. Department of Defense. Learn more about Kodiak on the web at[kodiak.ai](http://kodiak.ai/) , and on[LinkedIn](https://www.linkedin.com/company/kodiakrobotics) and[Twitter](https://twitter.com/kodiakrobotics) . You can find the company press kit[HERE](https://drive.google.com/drive/u/1/folders/1AjmC61H1hChh1TOtScRhUfbRn2rbob2i) .
+
+
+**About Atlas Energy Solutions**
+
+
+Atlas Energy Solutions Inc. is a leading proppant producer and proppant logistics provider, serving primarily the Permian Basin of West Texas and New Mexico. We operate 14 proppant production facilities across the Permian Basin with a combined annual production capacity of 29 million tons, including both large-scale in-basin facilities and smaller distributed mining units. We manage a portfolio of leading-edge logistics assets, which includes our 42-mile Dune Express conveyor system. In addition to our conveyor infrastructure, we manage a fleet of 120 trucks, which are capable of delivering expanded payloads due to our custom-manufactured trailers and patented drop-depot process. Our approach to managing both our proppant production and proppant logistics operations is intently focused on leveraging technology, automation and remote operations to drive efficiencies.
+
+
+We are a low-cost producer of various high-quality, locally sourced proppants used during the well completion process. We offer both dry and damp sand, and carry various mesh sizes including 100 mesh and 40/70 mesh. Proppant is a key component necessary to facilitate the recovery of hydrocarbons from oil and natural gas wells.
+
+
+Our logistics platform is designed to increase the efficiency, safety and sustainability of the oil and natural gas industry within the Permian Basin. Proppant logistics is increasingly a differentiating factor affecting customer choice among proppant producers. The cost of delivering sand, even short distances, can be a significant component of customer spending on their well completions given the substantial volumes that are utilized in modern well designs.
+
+
+We continue to invest in and pursue leading-edge technologies, including autonomous trucking, digital infrastructure, and artificial intelligence, to support opportunities to gain efficiencies in our operations. To this end, we have recently taken delivery of next-generation dredge mining assets to drive efficiencies in our proppant production operations. These technology-focused investments aim to improve our cost structure and also combine to produce beneficial environmental and community impacts.
+
+
+While our core business is fundamentally aligned with a lower emissions economy, our core obligation has been, and will always be, to our stockholders. We recognize that maximizing value for our stockholders requires that we optimize the outcomes for our broader stakeholders, including our employees and the communities in which we operate. We are proud of the fact that our approach to innovation in the hydrocarbon industry while operating in an environmentally responsible manner creates immense value. Since our founding in 2017, our core mission has been to improve human beings’ access to the hydrocarbons that power our lives while also delivering differentiated social and environmental progress. Our Atlas team has driven innovation and has produced industry-leading environmental benefits by reducing energy consumption, emissions, and our aerial footprint. We call this Sustainable Environmental and Social Progress.
+
+
+We were founded in 2017 by Ben M. “Bud” Brigham, our Executive Chairman, and are led by an entrepreneurial team with a history of constructive disruption bringing significant and complementary experience to this enterprise, including the perspective of longtime E&P operators, which provides for an elevated understanding of the end users of our products and services. Our executive management team has a proven track record with a history of generating positive returns and value creation. Our experience as E&P operators was instrumental to our understanding of the opportunity created by in-basin sand production and supply in the Permian Basin, which we view as North America’s premier shale resource and which we believe will remain its most active through economic cycles.
+
+
+### **Cautionary Statement Regarding Forward-Looking Statements**
+
+
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Statements that are predictive or prospective in nature, that depend upon or refer to future events or conditions or that include the words “may,” “assume,” “forecast,” “position,” “strategy,” “potential,” “continue,” “could,” “will,” “plan,” “project,” “budget,” “predict,” “pursue,” “target,” “seek,” “objective,” “believe,” “expect,” “anticipate,” “intend,” “estimate” and other expressions that are predictions of or indicate future events and trends and that do not relate to historical matters identify forward-looking statements. Examples of forward-looking statements include, but are not limited to, statements regarding our expectations for the operations of the Dune Express and the driverless trucks we deploy, our business strategy, industry, future operations and profitability, expected capital expenditures and the impact of such expenditures on our performance, statements about our financial position, production, revenues and losses, our capital programs, management changes, current and potential future long-term contracts and our future business and financial performance.
+
+
+Although forward-looking statements reflect our good faith beliefs at the time they are made, we caution you that these forward-looking statements are subject to a number of risks and uncertainties, most of which are difficult to predict and many of which are beyond our control. These risks include but are not limited to: unexpected future capital expenditures; our ability to successfully execute our stock repurchase program or implement future stock repurchase programs; commodity price volatility, including volatility stemming from the ongoing armed conflicts between Russia and Ukraine and Israel and Hamas; increasing hostilities and instability in the Middle East; adverse developments affecting the financial services industry; our ability to complete growth projects on time and on budget; the risk that stockholder litigation in connection with our recent corporate reorganization may result in significant costs of defense, indemnification and liability; changes in general economic, business and political conditions, including changes in the financial markets; transaction costs; actions of OPEC+ to set and maintain oil production levels; the level of production of crude oil, natural gas and other hydrocarbons and the resultant market prices of crude oil; inflation; environmental risks; operating risks; regulatory changes; lack of demand; market share growth; the uncertainty inherent in projecting future rates of reserves; production; cash flow; access to capital; the timing of development expenditures; the ability of our customers to meet their obligations to us; our ability to maintain effective internal controls; and other factors discussed or referenced in our filings made from time to time with the U.S. Securities and Exchange Commission (“SEC”), including those discussed under the heading “Risk Factors” in Annual Report on Form 10-K, filed with the SEC on February 27, 2024, and any subsequently filed Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date hereof. Factors or events that could cause our actual results to differ may emerge from time to time, and it is not possible for us to predict all of them. We undertake no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future developments or otherwise, except as may be required by law.

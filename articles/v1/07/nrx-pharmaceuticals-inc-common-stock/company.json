@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nrx-pharmaceuticals-inc-common-stock",
+    "name": "NRX Pharmaceuticals Inc."
+  },
+  "record_count": 21,
+  "first_published_at": "2025-04-07T02:11:56+00:00",
+  "last_published_at": "2026-08-17T11:00:21+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/07/nrx-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 29544,
+        "sha256": "sha256:742e6b97cb19db5bc7ffe2155866eb706d6922ef3944b95af6e9f3f22619fb7f",
+        "newest_at": "2026-08-17T11:00:21+00:00",
+        "oldest_at": "2025-04-07T02:11:56+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "29053aa8fb9ddb0ccf58ff96c6796b037fc6e8337b03c20eaf49515d43b7cf49",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/iiot-reference-architecture-influxdb3/",
+    "canonical": "https://www.influxdata.com/blog/iiot-reference-architecture-influxdb3/"
+  },
+  "title": "A Runnable Reference Architecture for Industrial IoT on InfluxDB 3",
+  "summary": "Today, we're walking through the InfluxDB 3 IIoT Reference Architecture, an open-source, runnable blueprint for factory-floor monitoring that you can stand up locally in about two minutes with docker compose.",
+  "published_at": "2026-05-22T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-19T04:18:29.680941+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/05/29/29053aa8fb9ddb0ccf58ff96c6796b037fc6e8337b03c20eaf49515d43b7cf49/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/05/29/29053aa8fb9ddb0ccf58ff96c6796b037fc6e8337b03c20eaf49515d43b7cf49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13762,
+    "sha256": "sha256:f433afe462f76aac0f57793fce2336479047665fb33c27ba82256d3d8801507d",
+    "normalized_content_hash": "sha256:e91be4e87b07ede4927ce071c53d767e3302a9635746ea07d845704a0d390dd9"
+  },
+  "provenance": {
+    "source_item_id": "d2193dce-3446-4166-ad0b-470141563077",
+    "external_id": "https://www.influxdata.com/blog/iiot-reference-architecture-influxdb3/"
+  }
+}

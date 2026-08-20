@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zenatech-inc-common-stock",
+    "name": "ZenaTech Inc."
+  },
+  "record_count": 19,
+  "first_published_at": "2026-06-16T11:30:00+00:00",
+  "last_published_at": "2026-08-17T11:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1d/zenatech-inc-common-stock/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 24084,
+        "sha256": "sha256:05a9c00b102d219cad6b5421dc6be33d720127d52a5bedf24c76d1ae3bd88dd7",
+        "newest_at": "2026-08-17T11:30:00+00:00",
+        "oldest_at": "2026-06-16T11:30:00+00:00"
+      }
+    ]
+  }
+}

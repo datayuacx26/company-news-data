@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "889ca02952fd0c80222d40c03842956481d141dec5db4ef8bfc63515e4027b9f",
+  "company": {
+    "key": "yelp-inc-common-stock",
+    "name": "Yelp Inc."
+  },
+  "source": {
+    "id": "yelp-inc-common-stock-rss-c1f3492370c5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineeringblog.yelp.com/2026/07/training-orchestrator-unifying-model-training-at-yelp.html",
+    "canonical": "https://engineeringblog.yelp.com/2026/07/training-orchestrator-unifying-model-training-at-yelp.html"
+  },
+  "title": "Training Orchestrator: Unifying Model Training at Yelp",
+  "summary": "Training Orchestrator: Unifying Model Training at Yelp Ying Wang and Nathan Sponberg, Software Engineer Jul 14, 2026 At Yelp, we train many machine learning models on different schedules. Applied machine...",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:26.702617+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-20T00:29:13.677681+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yelp-inc-common-stock/2026/07/88/889ca02952fd0c80222d40c03842956481d141dec5db4ef8bfc63515e4027b9f/article.md",
+    "record": "articles/v1/0d/yelp-inc-common-stock/2026/07/88/889ca02952fd0c80222d40c03842956481d141dec5db4ef8bfc63515e4027b9f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19674,
+    "sha256": "sha256:8804ca95aac1bd95bf68a71a0533b04c6930cf25642bc7e4a7ef89c138e20668",
+    "normalized_content_hash": "sha256:630ac926ee1d411074bb9cd93fa987d856ad9ae6e64311e7d2c9b22d81abbd54"
+  },
+  "provenance": {
+    "source_item_id": "49f94d25-635f-4663-aa4e-29feed04685c",
+    "external_id": "https://engineeringblog.yelp.com/2026/07/training-orchestrator-unifying-model-training-at-yelp.html"
+  }
+}

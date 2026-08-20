@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ming-shing-group-holdings-limited-ordinary-shares",
+    "name": "Ming Shing Group Holdings Limited"
+  },
+  "record_count": 2,
+  "first_published_at": "2026-05-26T20:05:00+00:00",
+  "last_published_at": "2026-05-27T20:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/05/ming-shing-group-holdings-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 3007,
+        "sha256": "sha256:445a31df99d3669e77995c75748ea260bb978fea71b333019c96c24775874ba0",
+        "newest_at": "2026-05-27T20:15:00+00:00",
+        "oldest_at": "2026-05-26T20:05:00+00:00"
+      }
+    ]
+  }
+}

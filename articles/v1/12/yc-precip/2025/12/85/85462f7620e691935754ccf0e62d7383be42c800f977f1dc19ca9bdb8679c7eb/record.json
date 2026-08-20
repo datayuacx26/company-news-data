@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85462f7620e691935754ccf0e62d7383be42c800f977f1dc19ca9bdb8679c7eb",
+  "company": {
+    "key": "yc-precip",
+    "name": "Precip"
+  },
+  "source": {
+    "id": "yc-precip-rss-f59c0f39e1b1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://precip.ai/blog/verdi-weather/",
+    "canonical": "https://precip.ai/blog/verdi-weather/"
+  },
+  "title": "How Verdi shipped hyperlocal weather fast with Precip’s embed UI",
+  "summary": "How Precip’s embeddable weather UI helped Verdi launch hyperlocal weather inside their irrigation platform.",
+  "published_at": "2025-12-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:06.643563+00:00",
+  "fetched_at": "2026-07-28T22:25:00.065453+00:00",
+  "last_updated_at": "2026-08-20T02:00:38.381877+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-precip/2025/12/85/85462f7620e691935754ccf0e62d7383be42c800f977f1dc19ca9bdb8679c7eb/article.md",
+    "record": "articles/v1/12/yc-precip/2025/12/85/85462f7620e691935754ccf0e62d7383be42c800f977f1dc19ca9bdb8679c7eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3953,
+    "sha256": "sha256:31315c3397c86e6f8716f54d4ccb3c39a8a8b3a9ef8c35673add434e03669910",
+    "normalized_content_hash": "sha256:b9fbb1fe6b9f3af3c9f2ddca8c879458b1d81cd747c2fa72bc77d87b8e7e25f7"
+  },
+  "provenance": {
+    "source_item_id": "16860209-8c70-413d-91a1-c4ed523e7d77",
+    "external_id": "https://precip.ai/blog/verdi-weather/"
+  }
+}

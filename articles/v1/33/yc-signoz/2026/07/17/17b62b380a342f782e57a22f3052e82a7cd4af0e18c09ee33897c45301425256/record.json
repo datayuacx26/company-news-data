@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "17b62b380a342f782e57a22f3052e82a7cd4af0e18c09ee33897c45301425256",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/cicd/overview",
+    "canonical": "https://signoz.io/docs/cicd/overview"
+  },
+  "title": "CI/CD Monitoring",
+  "summary": "Learn how to monitor your CI/CD pipelines with SigNoz. Covers supported tools like Jenkins, GitHub Actions, GitLab, and ArgoCD with traces and metrics.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/17/17b62b380a342f782e57a22f3052e82a7cd4af0e18c09ee33897c45301425256/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/17/17b62b380a342f782e57a22f3052e82a7cd4af0e18c09ee33897c45301425256/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 649,
+    "sha256": "sha256:8d77e3e8a4c0cd8ee71563ff4457b7ae00deb8ddad3acc0a6ddfba064e91be95",
+    "normalized_content_hash": "sha256:74f7dd702e48c3fdad00543fc1ac4256f9ef567607f64ebd22ff9b233a643146"
+  },
+  "provenance": {
+    "source_item_id": "0ff27da0-65a4-44ed-ba89-aac9c81839d9",
+    "external_id": "https://signoz.io/docs/cicd/overview"
+  }
+}

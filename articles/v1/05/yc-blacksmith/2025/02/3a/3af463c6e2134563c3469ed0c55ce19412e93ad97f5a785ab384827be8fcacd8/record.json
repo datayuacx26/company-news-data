@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3af463c6e2134563c3469ed0c55ce19412e93ad97f5a785ab384827be8fcacd8",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/launch-github-actions-analytics",
+    "canonical": "https://www.blacksmith.sh/blog/launch-github-actions-analytics"
+  },
+  "title": "Launch: GitHub Actions Analytics",
+  "summary": "CI metrics are a mess, split across GitHub, logs, cloud dashboards, and expensive tools. So we fixed it. Blacksmith now gives you fast, filterable, drill-down analytics for your GitHub Actions. Find flaky jobs, slow pipelines, runaway costs, without the detective work. GitHub Actions but, actually observable.",
+  "published_at": "2025-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T09:31:19.857669+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/02/3a/3af463c6e2134563c3469ed0c55ce19412e93ad97f5a785ab384827be8fcacd8/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/02/3a/3af463c6e2134563c3469ed0c55ce19412e93ad97f5a785ab384827be8fcacd8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3921,
+    "sha256": "sha256:8a6c768d32fa34e6960a11bc48aa362830cfcfe73bbfb615fd9e43a7b20456e4",
+    "normalized_content_hash": "sha256:00eab2e86690b214dac0f872465bd106e96caf51a08f870667d09fa9445f4cd2"
+  },
+  "provenance": {
+    "source_item_id": "cdc6b3de-7d3c-4c1d-a80d-025375b973eb",
+    "external_id": "https://www.blacksmith.sh/blog/launch-github-actions-analytics"
+  }
+}

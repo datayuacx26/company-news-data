@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d918ddd76e42e9c93865c182f05a317a8738fcbccd348413232dc21c4e33ae6",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/synthetic-monitoring-is-broken-production-traffic-can-fix-it/",
+    "canonical": "https://speedscale.com/blog/synthetic-monitoring-is-broken-production-traffic-can-fix-it/"
+  },
+  "title": "Synthetic Monitoring Is Broken. Your Production Traffic Can Fix It.",
+  "summary": "Synthetic monitoring depends on scripts engineers maintain by hand. Capturing and replaying real production transactions turns customer behavior into tests.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T19:03:57.652756+00:00",
+  "fetched_at": "2026-08-13T19:04:02.858057+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/08/4d/4d918ddd76e42e9c93865c182f05a317a8738fcbccd348413232dc21c4e33ae6/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/08/4d/4d918ddd76e42e9c93865c182f05a317a8738fcbccd348413232dc21c4e33ae6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6864,
+    "sha256": "sha256:f9657e3cb4d2bf46f1e5cd27cb8ad457427beb310a69ff25b0e86cdc7a5cab2a",
+    "normalized_content_hash": "sha256:ac459ef2cb3df16b2a21be580892cce27097d6be56a24c286fa562fba23b6d0f"
+  },
+  "provenance": {
+    "source_item_id": "1586a9a6-7cd5-4e11-9773-9fbc47169417",
+    "external_id": "https://speedscale.com/blog/synthetic-monitoring-is-broken-production-traffic-can-fix-it/"
+  }
+}

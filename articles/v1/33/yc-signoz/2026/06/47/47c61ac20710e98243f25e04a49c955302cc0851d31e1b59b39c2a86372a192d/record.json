@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "47c61ac20710e98243f25e04a49c955302cc0851d31e1b59b39c2a86372a192d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/operate/migration/upgrade-0-113",
+    "canonical": "https://signoz.io/docs/operate/migration/upgrade-0-113"
+  },
+  "title": "Upgrade to v0.113.0",
+  "summary": "Upgrade guide for SigNoz v0.113.0 which deprecates the standalone signoz-schema-migrator image in favor of built-in migration commands in signoz-otel-collector.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T09:39:36.130177+00:00",
+  "last_updated_at": "2026-07-24T09:39:36.144556+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/47/47c61ac20710e98243f25e04a49c955302cc0851d31e1b59b39c2a86372a192d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/47/47c61ac20710e98243f25e04a49c955302cc0851d31e1b59b39c2a86372a192d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 679,
+    "sha256": "sha256:11e8302967f151335a13b6b6c35cb9fee2fd55032511c1316b9fc675ca1dbad6",
+    "normalized_content_hash": "sha256:07fa4526f66584c09c624c33e6b2e32bf3907d0cdfe43c59d5649b7cbd71b988"
+  },
+  "provenance": {
+    "source_item_id": "e8e9c7b2-1543-414a-a5da-39074141b52b",
+    "external_id": "https://signoz.io/docs/operate/migration/upgrade-0-113"
+  }
+}

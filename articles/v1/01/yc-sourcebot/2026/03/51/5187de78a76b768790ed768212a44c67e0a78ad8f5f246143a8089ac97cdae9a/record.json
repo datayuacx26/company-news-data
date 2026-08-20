@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5187de78a76b768790ed768212a44c67e0a78ad8f5f246143a8089ac97cdae9a",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-69a1f8dc01ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/changelog/week-of-march-21-2026",
+    "canonical": "https://www.sourcebot.dev/changelog/week-of-march-21-2026"
+  },
+  "title": "Changelog - Week of March 21, 2026",
+  "summary": "API key restrictions, MCP path regex filtering, Redis TLS, and more.",
+  "published_at": "2026-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:52.577262+00:00",
+  "fetched_at": "2026-07-28T22:18:15.193115+00:00",
+  "last_updated_at": "2026-08-20T02:52:57.900818+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2026/03/51/5187de78a76b768790ed768212a44c67e0a78ad8f5f246143a8089ac97cdae9a/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2026/03/51/5187de78a76b768790ed768212a44c67e0a78ad8f5f246143a8089ac97cdae9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1472,
+    "sha256": "sha256:9075c154206ab35da9ce366f570ee4a5663f32222111221d14a4670e954e685a",
+    "normalized_content_hash": "sha256:6a462f6ad32472cd09788700df8c4fce56d7a58bdf794c607981d36e867ad294"
+  },
+  "provenance": {
+    "source_item_id": "f2774f87-8c48-4eab-a4a0-affc6f0644fc",
+    "external_id": "https://www.sourcebot.dev/changelog/week-of-march-21-2026"
+  }
+}

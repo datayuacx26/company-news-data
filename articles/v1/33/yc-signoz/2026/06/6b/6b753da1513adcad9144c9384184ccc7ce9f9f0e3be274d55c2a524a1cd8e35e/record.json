@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b753da1513adcad9144c9384184ccc7ce9f9f0e3be274d55c2a524a1cd8e35e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/comparisons/opentelemetry-grpc-vs-http",
+    "canonical": "https://signoz.io/comparisons/opentelemetry-grpc-vs-http"
+  },
+  "title": "OpenTelemetry - gRPC vs HTTP for Efficient Tracing",
+  "summary": "Explore the key differences between gRPC and HTTP protocols in OpenTelemetry tracing. Learn which protocol suits your needs for efficient observability.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.675942+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/6b/6b753da1513adcad9144c9384184ccc7ce9f9f0e3be274d55c2a524a1cd8e35e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/6b/6b753da1513adcad9144c9384184ccc7ce9f9f0e3be274d55c2a524a1cd8e35e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23510,
+    "sha256": "sha256:1ed7a09084ecd5df1d0bf4a9bdc04888b51022aba4251b21862a314fb537e1d9",
+    "normalized_content_hash": "sha256:c8cc5b2356da959d3b9d52298314d1505f6d3c9f7431c0faf8edd727f22dad2f"
+  },
+  "provenance": {
+    "source_item_id": "2aa0189a-5d99-4ef1-9c34-199c150e0f0b",
+    "external_id": "https://signoz.io/comparisons/opentelemetry-grpc-vs-http"
+  }
+}

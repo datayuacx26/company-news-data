@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4acdd45333798bdc0fe858367718dccbc1ba863882e0d7f482fbe45cff21bbf0",
+  "company": {
+    "key": "yc-tusk",
+    "name": "Tusk"
+  },
+  "source": {
+    "id": "yc-tusk-news-import-c7466264c659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usetusk.ai/resources/what-if-your-production-traffic-was-your-test-suite",
+    "canonical": "https://www.usetusk.ai/resources/what-if-your-production-traffic-was-your-test-suite"
+  },
+  "title": "What if Your Production Traffic Was Your Test Suite?",
+  "summary": "Most API failures trace back to missing tests for real-world edge cases. Learn how Tusk Drift's record/replay testing catches regressions and contract drift automatically.",
+  "published_at": "2026-03-09T17:52:40.640+00:00",
+  "first_seen_at": "2026-07-26T03:20:25.565537+00:00",
+  "fetched_at": "2026-07-28T22:18:56.741769+00:00",
+  "last_updated_at": "2026-08-20T00:26:06.656026+00:00",
+  "paths": {
+    "article": "articles/v1/3b/yc-tusk/2026/03/4a/4acdd45333798bdc0fe858367718dccbc1ba863882e0d7f482fbe45cff21bbf0/article.md",
+    "record": "articles/v1/3b/yc-tusk/2026/03/4a/4acdd45333798bdc0fe858367718dccbc1ba863882e0d7f482fbe45cff21bbf0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5977,
+    "sha256": "sha256:113b1570ba78820c50b58680ce247039539c7eaf4db717bb5bf5f154566f916a",
+    "normalized_content_hash": "sha256:9f7f628d04e002cd042cea84761267bd1281ed6802f49d871d3a32407c65dfcf"
+  },
+  "provenance": {
+    "source_item_id": "683e4577-397d-4d06-bb0a-a4a93c604482",
+    "external_id": "https://www.usetusk.ai/resources/what-if-your-production-traffic-was-your-test-suite"
+  }
+}

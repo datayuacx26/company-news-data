@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd024ddf4da5774e81a6407c7a0afc942ca08b425ac15c69b7baaf167ac84749",
+  "company": {
+    "key": "yc-camelai",
+    "name": "camelAI"
+  },
+  "source": {
+    "id": "yc-camelai-news-import-786838659b06",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://camelai.com/blog/our-coding-agent-runs-in-a-cloudflare-durable-object-not-a-vm",
+    "canonical": "https://camelai.com/blog/our-coding-agent-runs-in-a-cloudflare-durable-object-not-a-vm"
+  },
+  "title": "Our coding agent runs in a Cloudflare Durable Object, not a VM",
+  "summary": "We moved camelAI’s coding agent off always-on VMs and into Cloudflare Durable Objects, with SQLite and R2 for files and JavaScript Code Mode instead of bash. Here’s the three-step redesign that made it possible.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T06:34:13.357383+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-20T02:48:12.385654+00:00",
+  "paths": {
+    "article": "articles/v1/24/yc-camelai/2026/07/dd/dd024ddf4da5774e81a6407c7a0afc942ca08b425ac15c69b7baaf167ac84749/article.md",
+    "record": "articles/v1/24/yc-camelai/2026/07/dd/dd024ddf4da5774e81a6407c7a0afc942ca08b425ac15c69b7baaf167ac84749/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10530,
+    "sha256": "sha256:883957bfd18ffddb99df27a29abc1109e7b86a2dd3481bb769ee1a29bfc41a43",
+    "normalized_content_hash": "sha256:d480a3028fcb79eb2609c183c97e74579ed400191c71e99d074647119c9fdb40"
+  },
+  "provenance": {
+    "source_item_id": "7303d142-c9f6-472c-bdb4-d1d4bb031920",
+    "external_id": "https://camelai.com/blog/our-coding-agent-runs-in-a-cloudflare-durable-object-not-a-vm"
+  }
+}

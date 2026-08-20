@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bb673b04df8039ee054d5b61a82a5660b552a36862a8d5fd649a03bf92f45d8",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/opsai-api-error-auto-fix/",
+    "canonical": "https://middleware.io/blog/opsai-api-error-auto-fix/"
+  },
+  "title": "Auto-Fixing API Errors Before They Hit Users: How OpsAI Correlates APM Traces and Frontend Sessions",
+  "summary": "See how Middleware OpsAI correlates APM traces with RUM sessions to catch API errors before users do, and opens a pull request with the fix.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T16:21:56.210337+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-13T00:55:41.367410+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/07/0b/0bb673b04df8039ee054d5b61a82a5660b552a36862a8d5fd649a03bf92f45d8/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/07/0b/0bb673b04df8039ee054d5b61a82a5660b552a36862a8d5fd649a03bf92f45d8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31907,
+    "sha256": "sha256:bbb404dfda7de101c3e47a98744bde63f13f87af6a5fafb2af15bba0b8b86272",
+    "normalized_content_hash": "sha256:9221f498cdc56f3068653bf34e38e30c5e796e72995788ba77d62721e0ad3e6d"
+  },
+  "provenance": {
+    "source_item_id": "e3ea551d-dbbb-47f0-b44f-f67dcbe48d05",
+    "external_id": "https://middleware.io/blog/opsai-api-error-auto-fix/"
+  }
+}

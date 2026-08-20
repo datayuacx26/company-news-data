@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "309b195c6b63b4c348f4fa0109900381ba0d66e184718ed84aa95592f932e11f",
+  "company": {
+    "key": "yc-boundary",
+    "name": "Boundary"
+  },
+  "source": {
+    "id": "yc-boundary-news-import-b6810cf62b42",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://boundaryml.com/blog/lazily-loading-env-vars",
+    "canonical": "https://boundaryml.com/blog/lazily-loading-env-vars"
+  },
+  "title": "The curious case of environment variables",
+  "summary": "Environment variables in BAML are not as simple as they seem. It's tricky to pass and read them from the generated languages runtime. This post talks about how we solved this problem by lazily loading them!",
+  "published_at": "2025-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:11:53.929220+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T19:19:32.174101+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-boundary/2025/06/30/309b195c6b63b4c348f4fa0109900381ba0d66e184718ed84aa95592f932e11f/article.md",
+    "record": "articles/v1/22/yc-boundary/2025/06/30/309b195c6b63b4c348f4fa0109900381ba0d66e184718ed84aa95592f932e11f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4916,
+    "sha256": "sha256:93faaa762a85cd5eb9f0a9a7ddc9eaa9cbdcf22685f62e74ee876f23edabd6af",
+    "normalized_content_hash": "sha256:9a67dfce967c27cf3aac1cec6d281ef796b15d8135117ae8180bb10b74c3e8cd"
+  },
+  "provenance": {
+    "source_item_id": "366e2091-a22c-4bcd-9660-253dad9cafcc",
+    "external_id": "https://boundaryml.com/blog/lazily-loading-env-vars"
+  }
+}

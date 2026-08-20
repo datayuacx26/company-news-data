@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dba960e55e3353a79c8189e6ac21d1259f1ba9768db514ee39aa03f78326545e",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/powering-target-drive-up",
+    "canonical": "https://tech.target.com/blog/powering-target-drive-up"
+  },
+  "title": "Building a Flexible Platform to Power Target Drive Up",
+  "summary": "An article by Jathin Jayan : Learn more about Target's Eventing API that makes our Drive Up service possible.",
+  "published_at": "2023-09-07T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2023/09/db/dba960e55e3353a79c8189e6ac21d1259f1ba9768db514ee39aa03f78326545e/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2023/09/db/dba960e55e3353a79c8189e6ac21d1259f1ba9768db514ee39aa03f78326545e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13510,
+    "sha256": "sha256:e758f204c799683b76d271ff73bf1e34c8aa488cfb22fa19f90ff8d82cb9c9d9",
+    "normalized_content_hash": "sha256:d74f1234e07fd647a7e3556427fe2ac1bd05e09e7ec6f252affc32326c4b488e"
+  },
+  "provenance": {
+    "source_item_id": "47fae2ad-977a-4c4e-b59a-f3cb8dbc54fc",
+    "external_id": "BLOG-10057"
+  }
+}

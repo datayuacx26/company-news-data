@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c22eaca6ecbf277d830245cd40a2784c30a1794fa77ba81d0f9c50e7a65245da",
+  "company": {
+    "key": "everpure-inc",
+    "name": "Everpure Inc."
+  },
+  "source": {
+    "id": "everpure-inc-rss-a7fca946ec64",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.everpuredata.com/perspectives/enterprise-kv-cache-visibility/",
+    "canonical": "https://blog.everpuredata.com/perspectives/enterprise-kv-cache-visibility/"
+  },
+  "title": "Enterprise KV Cache Visibility: Knowing What Your Inference Cache Is Actually Doing",
+  "summary": "Pure KVA offers observability into cache hit rates, latency, and health signals to improve LLM inference reliability at scale.",
+  "published_at": "2026-07-07T15:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:30:11.662383+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-03T16:36:42.713245+00:00",
+  "paths": {
+    "article": "articles/v1/0c/everpure-inc/2026/07/c2/c22eaca6ecbf277d830245cd40a2784c30a1794fa77ba81d0f9c50e7a65245da/article.md",
+    "record": "articles/v1/0c/everpure-inc/2026/07/c2/c22eaca6ecbf277d830245cd40a2784c30a1794fa77ba81d0f9c50e7a65245da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7421,
+    "sha256": "sha256:0727834fe9e63ee51a53691f4d5c37dc7431ba8cd697d51a0aa212456d15b4d8",
+    "normalized_content_hash": "sha256:d326d3f336a780c01d1920573e6a2b35dabd76c7ab6ccecd2aa9880f67e13ee8"
+  },
+  "provenance": {
+    "source_item_id": "4193b280-8a40-4e05-b0fe-9e8c99ba75da",
+    "external_id": "https://blog.everpuredata.com/?p=188366"
+  }
+}

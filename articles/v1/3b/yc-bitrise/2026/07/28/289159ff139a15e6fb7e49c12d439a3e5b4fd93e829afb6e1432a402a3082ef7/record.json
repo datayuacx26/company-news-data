@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "289159ff139a15e6fb7e49c12d439a3e5b4fd93e829afb6e1432a402a3082ef7",
+  "company": {
+    "key": "yc-bitrise",
+    "name": "Bitrise"
+  },
+  "source": {
+    "id": "yc-bitrise-news-import-b747fb40f1b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitrise.io/blog/post/how-build-cache-for-react-native-works-caching-the-cpp-your-ci-keeps-recompiling",
+    "canonical": "https://bitrise.io/blog/post/how-build-cache-for-react-native-works-caching-the-cpp-your-ci-keeps-recompiling"
+  },
+  "title": "How Build Cache for React Native works: caching the C++ your CI keeps recompiling",
+  "summary": "One command now caches Gradle, Xcode, and the shared C++ in your React Native builds. See how Bitrise built it, and how React Native teams cut build times up to 46%.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:43:06.304736+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-19T14:39:42.968433+00:00",
+  "paths": {
+    "article": "articles/v1/3b/yc-bitrise/2026/07/28/289159ff139a15e6fb7e49c12d439a3e5b4fd93e829afb6e1432a402a3082ef7/article.md",
+    "record": "articles/v1/3b/yc-bitrise/2026/07/28/289159ff139a15e6fb7e49c12d439a3e5b4fd93e829afb6e1432a402a3082ef7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9768,
+    "sha256": "sha256:d90553e94a9166aaa8f78c08ccbca7c75717202b9361c6ebacd371a208b2a5da",
+    "normalized_content_hash": "sha256:d208781ee98ab6fdca7659dd371787a824b7de8e51ac9c64329f510047a8cee9"
+  },
+  "provenance": {
+    "source_item_id": "08c47214-0f51-42f0-82cd-e29eac89f450",
+    "external_id": "https://bitrise.io/blog/post/how-build-cache-for-react-native-works-caching-the-cpp-your-ci-keeps-recompiling"
+  }
+}

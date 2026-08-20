@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "296c5f995fdbf299e2b49fdce50ff09bfb35d77c87d9a8a3fee35f9e5cae14df",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/otel-collector-docker",
+    "canonical": "https://signoz.io/blog/otel-collector-docker"
+  },
+  "title": "OpenTelemetry Collector in Docker - Minimal Setup with Docker Compose",
+  "summary": "Set up the OTel Collector in Docker with a minimal Docker Compose config, validate it with telemetrygen, and send traces, metrics & logs to SigNoz.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:39:36.144556+00:00",
+  "fetched_at": "2026-07-28T20:33:07.280239+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/29/296c5f995fdbf299e2b49fdce50ff09bfb35d77c87d9a8a3fee35f9e5cae14df/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/29/296c5f995fdbf299e2b49fdce50ff09bfb35d77c87d9a8a3fee35f9e5cae14df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19856,
+    "sha256": "sha256:5f7e38905c490ea342dd53b4783c8cfab1eb7d61ea3fcb9731c0116f46ffeada",
+    "normalized_content_hash": "sha256:56846179512371457866d10bc11b8a7d0d5c5ff801033bb2dcb221092b00566a"
+  },
+  "provenance": {
+    "source_item_id": "5b449ed3-e06f-4caf-9cbb-dbe012cc0df3",
+    "external_id": "https://signoz.io/blog/otel-collector-docker"
+  }
+}

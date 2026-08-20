@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "048d6ff6fd64ad1bc07c8ec5546cd58ce3783bd42a9d2a5e7448b3964026fb9a",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/jvm-jit-known-bits/",
+    "canonical": "https://questdb.com/blog/jvm-jit-known-bits/"
+  },
+  "title": "The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits",
+  "summary": "A deep dive into the known-bits abstraction that recently landed in HotSpot's C2 JIT compiler: the same tristate-bit abstraction LLVM and GCC use, and why it lets the JVM delete redundant masks and shifts.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/07/04/048d6ff6fd64ad1bc07c8ec5546cd58ce3783bd42a9d2a5e7448b3964026fb9a/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/07/04/048d6ff6fd64ad1bc07c8ec5546cd58ce3783bd42a9d2a5e7448b3964026fb9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24378,
+    "sha256": "sha256:9b62c6c16e7cc3e119432adb3032ff9c6ef0b8cb59fd0dbccb981e6b14564f2e",
+    "normalized_content_hash": "sha256:f1113dcebb6883d5f9cd1d68bc916acae8291ce8eda053263d4d79a94c38eebb"
+  },
+  "provenance": {
+    "source_item_id": "98dfb7f6-a307-411c-a473-90d0f281a9d9",
+    "external_id": "https://questdb.com/blog/jvm-jit-known-bits/"
+  }
+}

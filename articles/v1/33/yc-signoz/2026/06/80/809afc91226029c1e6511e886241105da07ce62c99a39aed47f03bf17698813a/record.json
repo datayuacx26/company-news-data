@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "809afc91226029c1e6511e886241105da07ce62c99a39aed47f03bf17698813a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-ecs",
+    "canonical": "https://signoz.io/blog/opentelemetry-ecs"
+  },
+  "title": "OpenTelemetry ECS Tutorial - Monitor AWS ECS metrics [Step-By-Step Guide]",
+  "summary": "Monitor AWS ECS metrics with OpenTelemetry. Set up the Collector to gather ECS Container Insights metrics and send them to SigNoz.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-07-28T22:07:34.643707+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/80/809afc91226029c1e6511e886241105da07ce62c99a39aed47f03bf17698813a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/80/809afc91226029c1e6511e886241105da07ce62c99a39aed47f03bf17698813a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27310,
+    "sha256": "sha256:271038a08353773b0987f0a6458c62bafc4c1e031b152b81d01f506f88d11c85",
+    "normalized_content_hash": "sha256:88f48d4d633da0e337bc4d730205ba60f7f1bff1faf8ed467f2b138c5c3d78b4"
+  },
+  "provenance": {
+    "source_item_id": "e55b51be-d64c-419b-8f5b-f4cb93d35637",
+    "external_id": "https://signoz.io/blog/opentelemetry-ecs"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8037ad2bbed6ff34a2a868a52864220a6b8ce7e8bfe5980a2d55bdaf82f81fa",
+  "company": {
+    "key": "yc-bitrise",
+    "name": "Bitrise"
+  },
+  "source": {
+    "id": "yc-bitrise-news-import-b747fb40f1b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitrise.io/blog/post/how-we-built-a-coding-agent-that-lives-in-slack-and-the-recipe-to-build-your-own",
+    "canonical": "https://bitrise.io/blog/post/how-we-built-a-coding-agent-that-lives-in-slack-and-the-recipe-to-build-your-own"
+  },
+  "title": "How we built a coding agent that lives in Slack, and the recipe to build your own",
+  "summary": "One of the busiest engineers at Bitrise doesn't have a laptop. It lives in Slack. Assign it a Jira ticket or @mention it in a thread, and it reads the requirements, posts a plan, spins up a cloud dev machine, writes and tests the code, opens a pull request, watches CI, and more. This is how we built Kolega.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:43:06.304736+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-19T14:39:42.968433+00:00",
+  "paths": {
+    "article": "articles/v1/3b/yc-bitrise/2026/07/d8/d8037ad2bbed6ff34a2a868a52864220a6b8ce7e8bfe5980a2d55bdaf82f81fa/article.md",
+    "record": "articles/v1/3b/yc-bitrise/2026/07/d8/d8037ad2bbed6ff34a2a868a52864220a6b8ce7e8bfe5980a2d55bdaf82f81fa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14858,
+    "sha256": "sha256:1caa89190fb20aa0588c566c3205c28dacaeceed97f2db75abe960dc11a23670",
+    "normalized_content_hash": "sha256:b176161170c51b0ef7f9094698cc8a0e7ccbbec938d2136eee972cc552fb5ede"
+  },
+  "provenance": {
+    "source_item_id": "4473acc8-ec75-421b-94ee-2f7fc2d81a62",
+    "external_id": "https://bitrise.io/blog/post/how-we-built-a-coding-agent-that-lives-in-slack-and-the-recipe-to-build-your-own"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c02adeab4c484b795a51aa431cfbe2ad0625f94eb3cd9523c80fb0bf4b97ce09",
+  "company": {
+    "key": "yc-circuitlab",
+    "name": "CircuitLab"
+  },
+  "source": {
+    "id": "yc-circuitlab-rss-d25759254652",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.circuitlab.com/blog/2020/08/13/voltage-and-current-step-sources-in-circuitlab/",
+    "canonical": "https://www.circuitlab.com/blog/2020/08/13/voltage-and-current-step-sources-in-circuitlab/"
+  },
+  "title": "Voltage and Current Step Sources in CircuitLab",
+  "summary": "comment » We’ve just made it much easier to simulate a step response in CircuitLab. Finding a circuit’s unit step response in the time domain is one of the most common operations for anyone learning about or designing analog filters and amplifiers. It’s always been possible to simulate step responses in CircuitLab using a combination of a voltage source and a switch , but we’ve now bundled this behavior into a signal component: the Voltage Step Source and the corresponding Current Step Source . Here’s a simple example comparing voltage step responses between a series RC circuit and a parallel RL circuit: Click to open and simulate the circuit above. Can you predict the shape of V(RC) and V(RL) before you run the simulation? Here’s a more advanced example showing how an op-amp non-inverting amplifier can exhibit stability problems, including ringing and overshoot, even with small amounts of parasitic (undesired) capacitance at the feedback node: Click to open and simulate the circuit above. How long does it take for the output to settle down after the input step? Is there a capacitance level beyond which this amplifier is basically useless? Note that the step only happens in a transient simulation. A DC simulation (or DC Sweep) always happens before the step. This lets the simulator find the old, pre-step steady-state operating point first, before it models the transient change to a new post-step steady-state . These new step source components are both available in the “Voltage Signal Sources” and “Current Signal Sources” sections of the CircuitLab toolbox, right between the configurable function generator source and the CSV input source: After inserting a step source, you can double-click it to configure its amplitude and provide a delay. Conveniently, by default, a step source provides a unit step at t=0.",
+  "published_at": "2020-08-13T16:30:00+00:00",
+  "first_seen_at": "2026-07-24T22:19:16.775475+00:00",
+  "fetched_at": "2026-07-28T22:26:40.232877+00:00",
+  "last_updated_at": "2026-08-20T02:37:02.874202+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-circuitlab/2020/08/c0/c02adeab4c484b795a51aa431cfbe2ad0625f94eb3cd9523c80fb0bf4b97ce09/article.md",
+    "record": "articles/v1/00/yc-circuitlab/2020/08/c0/c02adeab4c484b795a51aa431cfbe2ad0625f94eb3cd9523c80fb0bf4b97ce09/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6892,
+    "sha256": "sha256:3ac48fbe676ccadc5d545fbadf70207676214fda8ea891a862f058a21f8a69f3",
+    "normalized_content_hash": "sha256:06948d970ddfbbc7a6c9339d043c79c8f95d9b6308831bc11431af4156fc1639"
+  },
+  "provenance": {
+    "source_item_id": "97628a55-7772-4614-b4d2-ed6000857f97",
+    "external_id": "https://www.circuitlab.com/blog/2020/08/13/voltage-and-current-step-sources-in-circuitlab/"
+  }
+}

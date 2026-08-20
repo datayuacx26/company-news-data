@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "780881dea95c793c94cd55bcdc1b6be6599170423cc6ce52aff6783e978dd7dc",
+  "company": {
+    "key": "yc-podium",
+    "name": "Podium"
+  },
+  "source": {
+    "id": "yc-podium-news-import-589ffba55c29",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.podium.com/article/rewiring-the-sdlc-after-code-became-cheap",
+    "canonical": "https://www.podium.com/article/rewiring-the-sdlc-after-code-became-cheap"
+  },
+  "title": "Rewiring the SDLC After Code Became Cheap",
+  "summary": "AI helps engineers produce code faster. But turning that speed into customer value requires software delivery to keep pace. In this second post of a four-part series, we share how Podium built agent-native workflows around code review, validation, and delivery, reducing median cycle time by roughly 5x.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T22:38:13.851571+00:00",
+  "fetched_at": "2026-08-19T20:02:42.207353+00:00",
+  "last_updated_at": "2026-08-19T20:02:50.839059+00:00",
+  "paths": {
+    "article": "articles/v1/1e/yc-podium/2026/07/78/780881dea95c793c94cd55bcdc1b6be6599170423cc6ce52aff6783e978dd7dc/article.md",
+    "record": "articles/v1/1e/yc-podium/2026/07/78/780881dea95c793c94cd55bcdc1b6be6599170423cc6ce52aff6783e978dd7dc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10608,
+    "sha256": "sha256:b4f773dc23ccf044a2ad1f06421c37df2aa5f1051a9d543a4a197ff359e23f66",
+    "normalized_content_hash": "sha256:e3cc53d2e5a32236fe527d081b4e1110851d0d00bc4571a81eed8afe61327689"
+  },
+  "provenance": {
+    "source_item_id": "c399f1e0-c89c-4564-8e15-beb0537c1e9a",
+    "external_id": "https://www.podium.com/article/rewiring-the-sdlc-after-code-became-cheap"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a2a99e719a8b4f14411feb9879793e957d226f22ee88698caef5110cfc2b782",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/paginating-user-written-sql-across-every-dialect-we-support/",
+    "canonical": "https://www.basedash.com/blog/paginating-user-written-sql-across-every-dialect-we-support/"
+  },
+  "title": "Paginating user-written SQL across every dialect we support",
+  "summary": "How we replaced a one-size-fits-all subquery wrapper with an AST-based query rewriter, and finally got SQL Server, Spanner, and Athena pagination to actually…",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/05/3a/3a2a99e719a8b4f14411feb9879793e957d226f22ee88698caef5110cfc2b782/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/05/3a/3a2a99e719a8b4f14411feb9879793e957d226f22ee88698caef5110cfc2b782/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14172,
+    "sha256": "sha256:d57599ebf2d695bebbd4d5c70537d53e6bb13d4f0a17358ebc8f09df26f6dd50",
+    "normalized_content_hash": "sha256:cbfbd897d60d24f7b88be2c1674d20ddcc206327a28500da3b70f7ded85d2253"
+  },
+  "provenance": {
+    "source_item_id": "2bf4ef80-02ef-4c4d-be98-bf2ccdf53b0e",
+    "external_id": "https://www.basedash.com/blog/paginating-user-written-sql-across-every-dialect-we-support/"
+  }
+}

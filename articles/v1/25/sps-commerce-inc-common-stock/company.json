@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sps-commerce-inc-common-stock",
+    "name": "SPS Commerce Inc."
+  },
+  "record_count": 83,
+  "first_published_at": "2021-11-03T19:56:15+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 36
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/25/sps-commerce-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56496,
+        "sha256": "sha256:172a97c298aa96006d27ea00adc7492451e150dd71557bf12fa017e5ccb45ca5",
+        "newest_at": "2026-08-18T15:12:36.081590+00:00",
+        "oldest_at": "2026-07-28T21:33:52.463534+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/25/sps-commerce-inc-common-stock/index/pages/000002.json",
+        "record_count": 33,
+        "byte_count": 109371,
+        "sha256": "sha256:3d9379589b59fe92595d737af440079b86065260fa5535fc9a9965858694c3a3",
+        "newest_at": "2026-07-28T21:33:52.463534+00:00",
+        "oldest_at": "2021-11-03T19:56:15+00:00"
+      }
+    ]
+  }
+}

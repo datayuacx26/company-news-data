@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b3022dbd8ded4c140b1d7857779b06e6569ed8630074d6aa30101b4acac2fb74",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/us-west-regional-failure-august-13-2026-postmortem",
+    "canonical": "https://www.blacksmith.sh/blog/us-west-regional-failure-august-13-2026-postmortem"
+  },
+  "title": "US west region outage due to facility cooling loss on August 13, 2026",
+  "summary": "US west region outage due to facility cooling loss on August 13, 2026",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T23:41:23.162103+00:00",
+  "fetched_at": "2026-08-19T23:41:24.899375+00:00",
+  "last_updated_at": "2026-08-19T23:41:25.004034+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2026/08/b3/b3022dbd8ded4c140b1d7857779b06e6569ed8630074d6aa30101b4acac2fb74/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2026/08/b3/b3022dbd8ded4c140b1d7857779b06e6569ed8630074d6aa30101b4acac2fb74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6778,
+    "sha256": "sha256:68ce761ebfd6601ee12e322fec79522b4a0c21cf97f7b8f54b9d7fe77bf516eb",
+    "normalized_content_hash": "sha256:12dc8797bd9b5ae43dd9f27518985956d7be81a6858f94e214f07b057ba1e348"
+  },
+  "provenance": {
+    "source_item_id": "162313fd-0bf7-46fb-9e98-b714f5ac54f2",
+    "external_id": "https://www.blacksmith.sh/blog/us-west-regional-failure-august-13-2026-postmortem"
+  }
+}

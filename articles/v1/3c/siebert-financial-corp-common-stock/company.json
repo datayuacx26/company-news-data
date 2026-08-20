@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "siebert-financial-corp-common-stock",
+    "name": "Siebert Financial Corp."
+  },
+  "record_count": 41,
+  "first_published_at": "2026-03-26T12:00:00+00:00",
+  "last_published_at": "2026-08-19T12:38:16+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 19
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3c/siebert-financial-corp-common-stock/index/pages/000001.json",
+        "record_count": 41,
+        "byte_count": 46900,
+        "sha256": "sha256:46191999827a99a0c00482aa06f4f4c3d5d57461c1e97c82ec5bffd78c0db75c",
+        "newest_at": "2026-08-19T12:38:16+00:00",
+        "oldest_at": "2026-03-26T12:00:00+00:00"
+      }
+    ]
+  }
+}

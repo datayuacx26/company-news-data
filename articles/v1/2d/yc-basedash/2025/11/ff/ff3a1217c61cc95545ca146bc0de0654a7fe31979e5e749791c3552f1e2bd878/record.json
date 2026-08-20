@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff3a1217c61cc95545ca146bc0de0654a7fe31979e5e749791c3552f1e2bd878",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/row-level-security-now-available/",
+    "canonical": "https://www.basedash.com/blog/row-level-security-now-available/"
+  },
+  "title": "Row level security now available",
+  "summary": "Basedash now supports Postgres Row‑Level Security (RLS). Use the basedash.groups session variable to restrict rows per user or team across chats, charts,…",
+  "published_at": "2025-11-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T22:25:12.063826+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/11/ff/ff3a1217c61cc95545ca146bc0de0654a7fe31979e5e749791c3552f1e2bd878/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/11/ff/ff3a1217c61cc95545ca146bc0de0654a7fe31979e5e749791c3552f1e2bd878/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4034,
+    "sha256": "sha256:142f3b4673e168bcdab6571a30867a678841afa8bcba197bc7a01340f0c0fe54",
+    "normalized_content_hash": "sha256:44cca4dc7df1de68a2f19210b2af3dcb0b1ad1d9188d447e802fc0343c4c0103"
+  },
+  "provenance": {
+    "source_item_id": "af4ebb42-4ce1-488c-961f-543431d7a540",
+    "external_id": "https://www.basedash.com/blog/row-level-security-now-available/"
+  }
+}

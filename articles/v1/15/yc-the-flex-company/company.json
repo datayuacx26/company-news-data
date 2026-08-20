@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-the-flex-company",
+    "name": "The Flex Company"
+  },
+  "record_count": 29,
+  "first_published_at": "2019-11-20T06:50:30+00:00",
+  "last_published_at": "2026-08-03T02:48:25+00:00",
+  "partitions": [
+    {
+      "partition": "2019-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/15/yc-the-flex-company/index/pages/000001.json",
+        "record_count": 29,
+        "byte_count": 29572,
+        "sha256": "sha256:90df0551675e91fe5847a612b45cc5efe0684a464859f3fd3cfe4e3ad3ae52a3",
+        "newest_at": "2026-08-03T02:48:25+00:00",
+        "oldest_at": "2019-11-20T06:50:30+00:00"
+      }
+    ]
+  }
+}

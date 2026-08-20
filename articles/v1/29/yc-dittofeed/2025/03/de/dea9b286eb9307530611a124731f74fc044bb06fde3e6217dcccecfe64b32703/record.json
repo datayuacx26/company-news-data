@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dea9b286eb9307530611a124731f74fc044bb06fde3e6217dcccecfe64b32703",
+  "company": {
+    "key": "yc-dittofeed",
+    "name": "Dittofeed"
+  },
+  "source": {
+    "id": "yc-dittofeed-news-import-a053879274d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dittofeed.com/post/release-v0-21-0",
+    "canonical": "https://www.dittofeed.com/post/release-v0-21-0"
+  },
+  "title": "Release v0.21.0",
+  "summary": "",
+  "published_at": "2025-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:44:36.904212+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T20:48:21.456543+00:00",
+  "paths": {
+    "article": "articles/v1/29/yc-dittofeed/2025/03/de/dea9b286eb9307530611a124731f74fc044bb06fde3e6217dcccecfe64b32703/article.md",
+    "record": "articles/v1/29/yc-dittofeed/2025/03/de/dea9b286eb9307530611a124731f74fc044bb06fde3e6217dcccecfe64b32703/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5064,
+    "sha256": "sha256:10f043e8add8632bda27b93cc794ea0c245dabf91807cad6c4ac25d862633291",
+    "normalized_content_hash": "sha256:11bfc354373f406377d58a9e51186bbaee165f497b58b8def276759dd3d7b3f8"
+  },
+  "provenance": {
+    "source_item_id": "01ea8256-2287-4e21-a22a-408e2a37914b",
+    "external_id": "https://www.dittofeed.com/post/release-v0-21-0"
+  }
+}

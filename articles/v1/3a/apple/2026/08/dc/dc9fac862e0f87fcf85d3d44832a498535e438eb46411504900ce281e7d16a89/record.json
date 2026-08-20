@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc9fac862e0f87fcf85d3d44832a498535e438eb46411504900ce281e7d16a89",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning",
+    "canonical": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning"
+  },
+  "title": "Arbitrage: Efficient Reasoning via Advantage-Aware Speculation",
+  "summary": "Modern Large Language Models achieve impressive reasoning capabilities with long Chain of Thoughts, but they incur substantial computational…",
+  "published_at": null,
+  "first_seen_at": "2026-08-08T03:56:15.906765+00:00",
+  "fetched_at": "2026-08-08T03:56:17.231059+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/dc/dc9fac862e0f87fcf85d3d44832a498535e438eb46411504900ce281e7d16a89/article.md",
+    "record": "articles/v1/3a/apple/2026/08/dc/dc9fac862e0f87fcf85d3d44832a498535e438eb46411504900ce281e7d16a89/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2282,
+    "sha256": "sha256:cd1cc92149884c81c54f5e207ca650d8f12f8b7edf765a7a568e6e7c896cdd38",
+    "normalized_content_hash": "sha256:ae76d184e296b3e7f12e80ae8bbe97777aa81197804510cfa544511c952dc54d"
+  },
+  "provenance": {
+    "source_item_id": "b0a9c9c6-4a1f-4a51-8a6f-0f6f23ba40b5",
+    "external_id": "https://machinelearning.apple.com/research/arbitrage-efficient-reasoning"
+  }
+}

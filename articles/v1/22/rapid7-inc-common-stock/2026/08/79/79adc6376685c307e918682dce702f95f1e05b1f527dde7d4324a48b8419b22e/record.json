@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "79adc6376685c307e918682dce702f95f1e05b1f527dde7d4324a48b8419b22e",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed",
+    "canonical": "https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed"
+  },
+  "title": "CVE-2026-63520: Microsoft SharePoint Remote Code Execution (FIXED)",
+  "summary": "Rapid7 Labs conducted a zero-day research project against Microsoft SharePoint, resulting in the discovery of two new vulnerabilities that, when chained together, achieve unauthenticated remote code execution (RCE) against a vulnerable SharePoint server. Today, both Rapid7 and Microsoft are disclosing the second vulnerability in this chain, the RCE vulnerability CVE-2026-63520.",
+  "published_at": "2026-08-11T13:00:00+00:00",
+  "first_seen_at": "2026-08-11T14:41:45.349327+00:00",
+  "fetched_at": "2026-08-11T14:41:47.071904+00:00",
+  "last_updated_at": "2026-08-20T03:36:55.072704+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/08/79/79adc6376685c307e918682dce702f95f1e05b1f527dde7d4324a48b8419b22e/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/08/79/79adc6376685c307e918682dce702f95f1e05b1f527dde7d4324a48b8419b22e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12370,
+    "sha256": "sha256:16ae8a3d85227554ef74f6bb7b3bf814703136ac3ada913b32c2cc0754e0a27d",
+    "normalized_content_hash": "sha256:83e4f0d36402d74d2af02349dfea6bf4ccbe7f9944de05774eaafbd035a6255a"
+  },
+  "provenance": {
+    "source_item_id": "125b1df8-28cf-4f4b-8811-605221a8fd18",
+    "external_id": "blt66fb0d3040f2de2f"
+  }
+}

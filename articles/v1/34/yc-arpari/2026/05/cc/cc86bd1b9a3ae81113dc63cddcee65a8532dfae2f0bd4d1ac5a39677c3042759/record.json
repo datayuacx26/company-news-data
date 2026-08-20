@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc86bd1b9a3ae81113dc63cddcee65a8532dfae2f0bd4d1ac5a39677c3042759",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/the-transaction-that-looked-normal-to-your-rules-was-the-one-ai-was-built-to-catch",
+    "canonical": "https://arpari.com/post/the-transaction-that-looked-normal-to-your-rules-was-the-one-ai-was-built-to-catch"
+  },
+  "title": "The Transaction That Looked Normal to Your Rules Was the One AI Was Built to Catch",
+  "summary": "Static treasury rules catch known outliers while AI detects subtle behavioral deviations, but the model only works when built on clean, normalized data across every bank and entity.",
+  "published_at": "2026-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:09:57.576780+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-10T09:59:34.137051+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/05/cc/cc86bd1b9a3ae81113dc63cddcee65a8532dfae2f0bd4d1ac5a39677c3042759/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/05/cc/cc86bd1b9a3ae81113dc63cddcee65a8532dfae2f0bd4d1ac5a39677c3042759/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7036,
+    "sha256": "sha256:21bbc193310a64746f67a7bac9c3d32ea97f74a6272d259a1e0db761159ef6c4",
+    "normalized_content_hash": "sha256:be11ab1d83a9f6939ab2564ce8eb0ee4bf7e8402f3f078ed7ce939f095ec61d5"
+  },
+  "provenance": {
+    "source_item_id": "d790438d-c72c-4889-868a-59f835e422d4",
+    "external_id": "https://arpari.com/post/the-transaction-that-looked-normal-to-your-rules-was-the-one-ai-was-built-to-catch"
+  }
+}

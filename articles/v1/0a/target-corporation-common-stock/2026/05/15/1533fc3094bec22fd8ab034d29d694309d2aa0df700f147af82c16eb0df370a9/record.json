@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1533fc3094bec22fd8ab034d29d694309d2aa0df700f147af82c16eb0df370a9",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/good-and-gather-collabs-roy-choi-snacks",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/good-and-gather-collabs-roy-choi-snacks"
+  },
+  "title": "Good & Gather Collabs + Roy Choi Brings Bold, Mashup Flavors to Everyday Snacking",
+  "summary": "Discover bold, mashup snacks from Roy Choi and Good & Gather Collabs at Target. Limited-time flavors, all under $6, perfect for summer snacking.",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/15/1533fc3094bec22fd8ab034d29d694309d2aa0df700f147af82c16eb0df370a9/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/15/1533fc3094bec22fd8ab034d29d694309d2aa0df700f147af82c16eb0df370a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4970,
+    "sha256": "sha256:b96d9e654e138af7bf7409a7e468da47727b3c7c4e66cc0ce5f459e306a1c49b",
+    "normalized_content_hash": "sha256:df0cb96262910033ca20e701d1de5dd4e7a6d124bd06a41894fde0c64e860866"
+  },
+  "provenance": {
+    "source_item_id": "852f07da-c53a-4495-8f34-44d6e4ba2a3f",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/good-and-gather-collabs-roy-choi-snacks"
+  }
+}

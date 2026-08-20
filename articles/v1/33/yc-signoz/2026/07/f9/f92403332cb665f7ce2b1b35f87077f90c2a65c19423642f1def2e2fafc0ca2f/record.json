@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f92403332cb665f7ce2b1b35f87077f90c2a65c19423642f1def2e2fafc0ca2f",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/docker-logging",
+    "canonical": "https://signoz.io/blog/docker-logging"
+  },
+  "title": "Docker Logging: Logs, Drivers, Commands, and Best Practices",
+  "summary": "Learn Docker logging basics, log drivers, docker logs commands, best practices, and how to monitor container logs with SigNoz.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-14T19:49:25.181783+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/f9/f92403332cb665f7ce2b1b35f87077f90c2a65c19423642f1def2e2fafc0ca2f/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/f9/f92403332cb665f7ce2b1b35f87077f90c2a65c19423642f1def2e2fafc0ca2f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28288,
+    "sha256": "sha256:35ade2f013d50559d9197eee1cba45a7d2abbcefb63379ece9f4c299443b4d91",
+    "normalized_content_hash": "sha256:5a7a9ec5e7994c0ef27e79ec1c37c420e9aff329b69f3d9795b3ca5a099b6142"
+  },
+  "provenance": {
+    "source_item_id": "ff318ec8-3bfc-4dbd-858d-9a59ab69dcbf",
+    "external_id": "https://signoz.io/blog/docker-logging"
+  }
+}

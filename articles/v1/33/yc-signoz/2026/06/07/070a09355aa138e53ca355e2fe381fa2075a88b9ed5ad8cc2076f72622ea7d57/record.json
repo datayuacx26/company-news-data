@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "070a09355aa138e53ca355e2fe381fa2075a88b9ed5ad8cc2076f72622ea7d57",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/crewai-observability",
+    "canonical": "https://signoz.io/docs/crewai-observability"
+  },
+  "title": "CrewAI Observability & Monitoring with OpenTelemetry",
+  "summary": "Set up CrewAI observability with OpenTelemetry and SigNoz for full CrewAI monitoring. Track agent, tool, and model performance with traces, logs, and metrics.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/07/070a09355aa138e53ca355e2fe381fa2075a88b9ed5ad8cc2076f72622ea7d57/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/07/070a09355aa138e53ca355e2fe381fa2075a88b9ed5ad8cc2076f72622ea7d57/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 699,
+    "sha256": "sha256:bfca3b9ae7fb8035f8472a14ef5f6c9736569bd4cdb8d1ae23f65ac70123e620",
+    "normalized_content_hash": "sha256:7bf2c10802a8cb005e56ed1ab2e422a7b09990242dc2439ca80af744ec6259e1"
+  },
+  "provenance": {
+    "source_item_id": "e4c7a90e-fe65-4cf7-a6c9-ea59c52b68b6",
+    "external_id": "https://signoz.io/docs/crewai-observability"
+  }
+}

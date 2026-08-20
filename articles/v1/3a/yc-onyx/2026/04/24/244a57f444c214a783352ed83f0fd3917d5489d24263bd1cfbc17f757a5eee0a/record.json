@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "244a57f444c214a783352ed83f0fd3917d5489d24263bd1cfbc17f757a5eee0a",
+  "company": {
+    "key": "yc-onyx",
+    "name": "Onyx"
+  },
+  "source": {
+    "id": "yc-onyx-news-import-2a3a6e22cda1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://onyx.app/blog/file-search-vs-hybrid-search",
+    "canonical": "https://onyx.app/blog/file-search-vs-hybrid-search"
+  },
+  "title": "File search vs hybrid search",
+  "summary": "Evaluating hybrid search vs glob/grep file search for agentic RAG on ~160k–510k enterprise-style documents: when each approach wins, and how file search recall drops at scale while hybrid holds steady.",
+  "published_at": "2026-04-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:58:53.878122+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-08-19T22:20:21.248043+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-onyx/2026/04/24/244a57f444c214a783352ed83f0fd3917d5489d24263bd1cfbc17f757a5eee0a/article.md",
+    "record": "articles/v1/3a/yc-onyx/2026/04/24/244a57f444c214a783352ed83f0fd3917d5489d24263bd1cfbc17f757a5eee0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22404,
+    "sha256": "sha256:6b425bea54ad287bbf45d4e9107026763c1439fa4b2f091bc666ef1a1e30fce2",
+    "normalized_content_hash": "sha256:5ffcfe863a27fe83e34d6bf6bc03ff26a74865fa4473929c2230c9ba3daedc75"
+  },
+  "provenance": {
+    "source_item_id": "6b78243f-2210-4640-ba45-e908da47978c",
+    "external_id": "https://onyx.app/blog/file-search-vs-hybrid-search"
+  }
+}

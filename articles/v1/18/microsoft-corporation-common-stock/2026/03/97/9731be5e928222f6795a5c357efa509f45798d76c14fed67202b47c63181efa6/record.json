@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9731be5e928222f6795a5c357efa509f45798d76c14fed67202b47c63181efa6",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/"
+  },
+  "title": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
+  "summary": "Learn how we're combining the power of SQL and Fabric to create a platform that unifies transactional, operational, and analytical data.",
+  "published_at": "2026-03-18T12:45:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-07-28T21:26:48.197935+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/03/97/9731be5e928222f6795a5c357efa509f45798d76c14fed67202b47c63181efa6/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/03/97/9731be5e928222f6795a5c357efa509f45798d76c14fed67202b47c63181efa6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25239,
+    "sha256": "sha256:d9605c5a7815fd9c03b55006d87b5b516a4b6ed1c9da5551a172db7ba0deb2ac",
+    "normalized_content_hash": "sha256:a2d8b899e18242433f383c609d31b8b3e1c498afaf991b74df64ea2e40ebe5dd"
+  },
+  "provenance": {
+    "source_item_id": "48f1b84b-7c7d-435c-9ad9-e9f5bbcda805",
+    "external_id": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/"
+  }
+}

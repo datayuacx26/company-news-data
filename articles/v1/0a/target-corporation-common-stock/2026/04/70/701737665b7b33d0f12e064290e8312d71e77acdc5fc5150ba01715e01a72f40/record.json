@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "701737665b7b33d0f12e064290e8312d71e77acdc5fc5150ba01715e01a72f40",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/04/target-houston-receive-center-supply-chain",
+    "canonical": "https://corporate.target.com/news-features/article/2026/04/target-houston-receive-center-supply-chain"
+  },
+  "title": "Target’s New Receive Center: More Supply Chain Capacity for More Guest Reliability",
+  "summary": "Learn how Target’s new Houston Receive Center increases supply chain capacity to deliver the right products to stores and guests more reliably.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-04T10:29:15.650799+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/04/70/701737665b7b33d0f12e064290e8312d71e77acdc5fc5150ba01715e01a72f40/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/04/70/701737665b7b33d0f12e064290e8312d71e77acdc5fc5150ba01715e01a72f40/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4307,
+    "sha256": "sha256:206def914876d046f217e3d4e1669196255c5fd38b6a6963693a4d3732200a0c",
+    "normalized_content_hash": "sha256:6a1be3e3e7522a0a9c680e98997b15732adeb40d4d3ed8f792d53e2de6327f5d"
+  },
+  "provenance": {
+    "source_item_id": "f9689ea9-f3c5-4a50-af64-a308959fc7c0",
+    "external_id": "https://corporate.target.com/news-features/article/2026/04/target-houston-receive-center-supply-chain"
+  }
+}

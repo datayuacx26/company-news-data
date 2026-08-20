@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6bc528e8c4bbc3ece95405cd6e4477d73a4a59f607b3f26cf70255177b47367c",
+  "company": {
+    "key": "cgi-inc-common-stock",
+    "name": "CGI Inc."
+  },
+  "source": {
+    "id": "cgi-inc-common-stock-news-import-6d221ad0cd22",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cgi.com/canada/en-ca/news/2026",
+    "canonical": "https://www.cgi.com/canada/en-ca/news/2026"
+  },
+  "title": "Local news",
+  "summary": "Local news per year",
+  "published_at": "2026-07-21T12:00:00+00:00",
+  "first_seen_at": "2026-08-13T02:11:04.223367+00:00",
+  "fetched_at": "2026-08-13T02:11:05.851292+00:00",
+  "last_updated_at": "2026-08-20T02:48:36.208565+00:00",
+  "paths": {
+    "article": "articles/v1/13/cgi-inc-common-stock/2026/07/6b/6bc528e8c4bbc3ece95405cd6e4477d73a4a59f607b3f26cf70255177b47367c/article.md",
+    "record": "articles/v1/13/cgi-inc-common-stock/2026/07/6b/6bc528e8c4bbc3ece95405cd6e4477d73a4a59f607b3f26cf70255177b47367c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1710,
+    "sha256": "sha256:dc46cee9e16c21b8410baa2483ce636fdbb74d51e75b001518443f573c93a86b",
+    "normalized_content_hash": "sha256:57845da8e97dd12acb8544a6901d03db2b239c901da4af03323983df48a00c88"
+  },
+  "provenance": {
+    "source_item_id": "2ba06fcd-4771-42b3-b9a4-f72ac7471a15",
+    "external_id": "https://www.cgi.com/canada/en-ca/news/2026"
+  }
+}

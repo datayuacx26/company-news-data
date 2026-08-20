@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bb4d814acadf61dcc8c9efcb97c5b2c2d8d1d6d0768e6a580d26dd02b3f6531",
+  "company": {
+    "key": "yc-paragon",
+    "name": "Paragon"
+  },
+  "source": {
+    "id": "yc-paragon-news-import-425709159824",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.useparagon.com/blog/security-review-rag-data-ingestion",
+    "canonical": "https://www.useparagon.com/blog/security-review-rag-data-ingestion"
+  },
+  "title": "Passing a Security Review for RAG Data Ingestion",
+  "summary": "What security reviewers ask about RAG data ingestion: tenant isolation, permission preservation, credential handling, and the evidence to bring.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T22:52:47.126118+00:00",
+  "fetched_at": "2026-08-13T22:52:50.044387+00:00",
+  "last_updated_at": "2026-08-20T00:39:50.996515+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-paragon/2026/07/0b/0bb4d814acadf61dcc8c9efcb97c5b2c2d8d1d6d0768e6a580d26dd02b3f6531/article.md",
+    "record": "articles/v1/2d/yc-paragon/2026/07/0b/0bb4d814acadf61dcc8c9efcb97c5b2c2d8d1d6d0768e6a580d26dd02b3f6531/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7697,
+    "sha256": "sha256:bf02de13988fac4842856e60365f1b466a7d7e5bc80bb82133624a60f89a32fe",
+    "normalized_content_hash": "sha256:841d22cd5ba08ee01ca40995f1f7e2d2d61bd46e48dd40e1e32e558f9448ab74"
+  },
+  "provenance": {
+    "source_item_id": "585e545a-fe00-488d-8def-7b10913f8dd0",
+    "external_id": "https://www.useparagon.com/blog/security-review-rag-data-ingestion"
+  }
+}

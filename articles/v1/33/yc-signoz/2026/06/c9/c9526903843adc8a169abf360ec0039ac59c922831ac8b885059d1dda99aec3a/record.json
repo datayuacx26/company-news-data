@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c9526903843adc8a169abf360ec0039ac59c922831ac8b885059d1dda99aec3a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/loki-vs-elasticsearch",
+    "canonical": "https://signoz.io/blog/loki-vs-elasticsearch"
+  },
+  "title": "Loki vs Elasticsearch - Which tool to choose for Log Analytics?",
+  "summary": "Loki vs Elasticsearch in 2026: lightweight label-based logs vs full-text indexing. Compare cost, performance, and SigNoz, with both now AGPLv3.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.264419+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/c9/c9526903843adc8a169abf360ec0039ac59c922831ac8b885059d1dda99aec3a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/c9/c9526903843adc8a169abf360ec0039ac59c922831ac8b885059d1dda99aec3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11917,
+    "sha256": "sha256:4a1fc6982f6af918db6379f13ca7f16d08ed368c945fe83aafe42e59987d59e7",
+    "normalized_content_hash": "sha256:d5799494df60692990e64428a8abe382b1c9adca1507267dfd407f94c7953dd6"
+  },
+  "provenance": {
+    "source_item_id": "3bddcf2c-7642-4894-855a-512c5a4ecc67",
+    "external_id": "https://signoz.io/blog/loki-vs-elasticsearch"
+  }
+}

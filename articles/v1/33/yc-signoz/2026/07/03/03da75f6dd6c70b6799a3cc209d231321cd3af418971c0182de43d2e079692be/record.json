@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03da75f6dd6c70b6799a3cc209d231321cd3af418971c0182de43d2e079692be",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/vpc-flow-logs-aws",
+    "canonical": "https://signoz.io/guides/vpc-flow-logs-aws"
+  },
+  "title": "How to Enable and Query VPC Flow Logs in AWS?",
+  "summary": "Complete guide to enabling VPC Flow Logs via Console, CLI, and Terraform. Query with CloudWatch Insights and Athena, overcome limitations with SigNoz.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-13T04:59:03.199473+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/03/03da75f6dd6c70b6799a3cc209d231321cd3af418971c0182de43d2e079692be/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/03/03da75f6dd6c70b6799a3cc209d231321cd3af418971c0182de43d2e079692be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23461,
+    "sha256": "sha256:1572cd0dc86007e333d3ef93fa15fb5045a805d340d9733e63f0d311268982d9",
+    "normalized_content_hash": "sha256:f3d6a7ce9720f3a94e1b3e10402529fa1d2daa19b67c22639733068f5e59cfd6"
+  },
+  "provenance": {
+    "source_item_id": "d6610e14-3432-4697-9ba0-08532bd83e50",
+    "external_id": "https://signoz.io/guides/vpc-flow-logs-aws"
+  }
+}

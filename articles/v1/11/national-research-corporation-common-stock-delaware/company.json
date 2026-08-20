@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "national-research-corporation-common-stock-delaware",
+    "name": "National Research Corporation Common Stock (Delaware)"
+  },
+  "record_count": 18,
+  "first_published_at": "2026-05-19T12:58:49+00:00",
+  "last_published_at": "2026-07-30T12:55:31+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/11/national-research-corporation-common-stock-delaware/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 22166,
+        "sha256": "sha256:1ab9e1513270ba83e34e3424454cbe291370429a068b73c9188f7d66c0634a3e",
+        "newest_at": "2026-07-30T12:55:31+00:00",
+        "oldest_at": "2026-05-19T12:58:49+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27e9af0e0a7a7f2274eebb9a4df8b6d8e9cae8356e698489ba1b9d87a8fc3ad4",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/grpo-beyond-english",
+    "canonical": "https://machinelearning.apple.com/research/grpo-beyond-english"
+  },
+  "title": "GRPO Beyond English: A Large-Scale Study of GRPO in Non-English and Multilingual Settings",
+  "summary": "Reinforcement Learning with Verifiable Rewards (RLVR), often optimized with Group Relative Policy Optimization (GRPO), has become a central…",
+  "published_at": "2026-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T22:05:34.065730+00:00",
+  "fetched_at": "2026-08-18T22:05:36.322330+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/04/27/27e9af0e0a7a7f2274eebb9a4df8b6d8e9cae8356e698489ba1b9d87a8fc3ad4/article.md",
+    "record": "articles/v1/3a/apple/2026/04/27/27e9af0e0a7a7f2274eebb9a4df8b6d8e9cae8356e698489ba1b9d87a8fc3ad4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2514,
+    "sha256": "sha256:df20330b12904747f3fcd0ad4a1e137241b4d175bfa4bbc644e6e5f0dedf35c0",
+    "normalized_content_hash": "sha256:2109c4c18ef2d2a0bfb4f2e5666903e9255dc34fe543ae3336c8cc4b83c46f54"
+  },
+  "provenance": {
+    "source_item_id": "07201c90-605e-43e7-aaf0-7a45033cada5",
+    "external_id": "https://machinelearning.apple.com/research/grpo-beyond-english"
+  }
+}

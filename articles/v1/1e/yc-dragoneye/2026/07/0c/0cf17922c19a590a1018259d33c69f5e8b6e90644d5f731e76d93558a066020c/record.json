@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0cf17922c19a590a1018259d33c69f5e8b6e90644d5f731e76d93558a066020c",
+  "company": {
+    "key": "yc-dragoneye",
+    "name": "Dragoneye"
+  },
+  "source": {
+    "id": "yc-dragoneye-news-import-90c782d80d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dragoneye.ai/blog/native-object-tracking/",
+    "canonical": "https://dragoneye.ai/blog/native-object-tracking/"
+  },
+  "title": "Native Object Tracking in Dragoneye",
+  "summary": "Dragoneye's video API now returns objects tracked across the entire video - each with its category and attribute classifications, timestamps, and bounding boxes - unlocking instance counting and spatial-temporal reasoning.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:13:15.346930+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-20T03:32:42.969641+00:00",
+  "paths": {
+    "article": "articles/v1/1e/yc-dragoneye/2026/07/0c/0cf17922c19a590a1018259d33c69f5e8b6e90644d5f731e76d93558a066020c/article.md",
+    "record": "articles/v1/1e/yc-dragoneye/2026/07/0c/0cf17922c19a590a1018259d33c69f5e8b6e90644d5f731e76d93558a066020c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7730,
+    "sha256": "sha256:562abec95751bb92a9a746d7a226f298290492630ed1c86953251574fc3f4e14",
+    "normalized_content_hash": "sha256:f8140b834e2f592d0dfed56229b7c43c8bc8c210e4caa721db47933c9d364dfa"
+  },
+  "provenance": {
+    "source_item_id": "8ad95bd9-f4ae-4303-9edb-5ca5c937b90c",
+    "external_id": "https://dragoneye.ai/blog/native-object-tracking/"
+  }
+}

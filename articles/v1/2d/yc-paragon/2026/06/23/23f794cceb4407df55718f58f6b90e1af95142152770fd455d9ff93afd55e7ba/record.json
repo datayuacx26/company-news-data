@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23f794cceb4407df55718f58f6b90e1af95142152770fd455d9ff93afd55e7ba",
+  "company": {
+    "key": "yc-paragon",
+    "name": "Paragon"
+  },
+  "source": {
+    "id": "yc-paragon-news-import-425709159824",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.useparagon.com/blog/how-to-build-connectors-for-rag",
+    "canonical": "https://www.useparagon.com/blog/how-to-build-connectors-for-rag"
+  },
+  "title": "How to Build Connectors for RAG",
+  "summary": "How to build production RAG connectors: authenticate, extract, normalize, chunk, preserve permissions, and keep data fresh, with sync methods compared.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:46:04.995159+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-13T08:25:59.074268+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-paragon/2026/06/23/23f794cceb4407df55718f58f6b90e1af95142152770fd455d9ff93afd55e7ba/article.md",
+    "record": "articles/v1/2d/yc-paragon/2026/06/23/23f794cceb4407df55718f58f6b90e1af95142152770fd455d9ff93afd55e7ba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 760,
+    "sha256": "sha256:042c1bc0db55b78015fe1587a3163fccfd7eb3fbc3d0d2be46f36dd166666f33",
+    "normalized_content_hash": "sha256:5c5329438f725957f65141ef0208d83233c1720e480d90d6e1b6b58682fbd076"
+  },
+  "provenance": {
+    "source_item_id": "440e315f-ae5e-47c0-a3ce-b1a3962ff130",
+    "external_id": "https://www.useparagon.com/blog/how-to-build-connectors-for-rag"
+  }
+}

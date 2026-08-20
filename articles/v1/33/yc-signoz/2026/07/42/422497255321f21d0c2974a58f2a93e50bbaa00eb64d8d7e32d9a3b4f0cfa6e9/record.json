@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "422497255321f21d0c2974a58f2a93e50bbaa00eb64d8d7e32d9a3b4f0cfa6e9",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/opentelemetry/collector-nodejs",
+    "canonical": "https://signoz.io/opentelemetry/collector-nodejs"
+  },
+  "title": "Setting up the Otel Collector - OpenTelemetry NodeJS",
+  "summary": "Set up the OpenTelemetry Collector to manage and export telemetry from your Node.js application to SigNoz.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/42/422497255321f21d0c2974a58f2a93e50bbaa00eb64d8d7e32d9a3b4f0cfa6e9/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/42/422497255321f21d0c2974a58f2a93e50bbaa00eb64d8d7e32d9a3b4f0cfa6e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11441,
+    "sha256": "sha256:be5108e81c5a513fb5908e6f449b50f9ad100bf80fb89dcfddee16f4fc2ba77e",
+    "normalized_content_hash": "sha256:f75e8b0739a99aa6179c236701cc0d8431ea5bfa97c124a7377596155506aa5b"
+  },
+  "provenance": {
+    "source_item_id": "0b479203-defd-44f7-b1f9-65e8e8c18435",
+    "external_id": "https://signoz.io/opentelemetry/collector-nodejs"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "robert-half-inc-common-stock",
+    "name": "Robert Half Inc."
+  },
+  "record_count": 7,
+  "first_published_at": "2026-05-07T16:00:00+00:00",
+  "last_published_at": "2026-08-05T17:20:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/22/robert-half-inc-common-stock/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8586,
+        "sha256": "sha256:2dcb3fb892356c628e8082b0fb3c17c0b48b2f7e041bc1437f931d1c9be60dd8",
+        "newest_at": "2026-08-05T17:20:00+00:00",
+        "oldest_at": "2026-05-07T16:00:00+00:00"
+      }
+    ]
+  }
+}

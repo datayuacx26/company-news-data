@@ -1,0 +1,435 @@
+---
+schema_version: "1.0.0"
+document_id: "d2974830cbe4d7505369ae91a4a72131711885a07d2a1b88117c30d0afcb9597"
+company_key: "yc-posthog"
+company: "PostHog"
+source_id: "yc-posthog-rss-39b8c8c5a5d1"
+canonical_url: "https://posthog.com/blog/the-posthog-array-1-38-0"
+published_at: "2022-08-01T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:52.157750+00:00"
+fetched_at: "2026-07-28T21:03:19.340687+00:00"
+content_hash: "sha256:4cc8a7ec415b838ed7cc2cfb739fdeb262ec63ca1b209c31046bf23d091b0353"
+---
+
+# Array 1.38.0: Exports, subscriptions and session analysis
+
+# Array 1.38.0: Exports, subscriptions and session analysis
+
+
+Aug 01, 2022
+
+
+- [Product updates](https://posthog.com/blog/product-updates)
+
+
+,
+- [Release notes](https://posthog.com/blog/release-notes)
+
+
+#### Contents
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+Want to know more about what we're up to?[Subscribe to HogMail, our new newsletter](https://newsletter.posthog.com/subscribe)
+
+
+, which we send once every two weeks!
+
+
+> Running a self-hosted instance? Check out our[Upgrading PostHog guide](https://posthog.com/docs/runbook/upgrading-posthog)
+>
+>
+> .
+
+
+##
+
+
+PostHog 1.38.0 release notes
+
+
+**Release highlights:**
+
+
+- New:Subscriptions & exports for dashboards and insights
+
+
+- New:Session analysis returns
+
+
+- New:Async migration 0005
+
+
+- New:Feature flag persistence across authentication steps
+
+
+- New:Breakdown bins
+
+
+- Improved:Universal search
+
+
+- Improved:Funnel breakdown attribution
+
+
+- Improved:Library support for multivariate feature flags and experiments
+
+
+- New:Four new apps released
+
+
+###
+
+
+New: Subscriptions & exports for dashboards and insights
+
+
+We've added multiple ways to get insights and dashboards out of PostHog and into your other daily tools, such as Slack. You can now:
+
+
+- Export dashboards or insights as an image, to share anywhere you need
+- Setup email subscriptions to have updates sent to you and your team regularly
+- Setup Slack subscriptions to get scheduled updates into any channel you choose
+
+
+We've already found subscriptions to be incredibly useful for our team, so go ahead and[get started](https://posthog.com/docs/user-guides/subscriptions)
+
+
+!
+
+
+###
+
+
+New: Session analysis returns
+
+
+After previously[deprecating the Sessions page](https://posthog.com/blog/sessions-removal)
+
+
+, we've now bought sessions back in a new and improved form. As of 1.38.0, we've added support for tracking and analyzing sessions within the insights feature.
+
+
+This will enable you to get answers to questions such as:
+
+
+- What's the average number of sessions/user/day?
+- How many users visit a page and have a session length greater than 30 seconds?
+- What's the distribution of session lengths for users who perform an event?
+- How many unique sessions happen per day where a specific event is performed?
+
+
+To learn more about session analysis, check out the[sessions documentation](https://posthog.com/docs/user-guides/sessions)
+
+
+.
+
+
+**Note:** Sessions are currently only supported in` posthog-js` .
+
+
+###
+
+
+New: Async migration 0005
+
+
+There is a new async migration available which changes the persons table in ClickHouse to use` version` instead of` _timestamp` for collapsing entries. This helps avoid various data integrity issues due to race conditions and batching of Kafka messages within the plugin-server.
+
+
+Curious about async migrations? Find out more in[the self-host docs](https://posthog.com/docs/self-host/configure/async-migrations/overview)
+
+
+, or examine this[new migration specficially on GitHub](https://github.com/PostHog/posthog/blob/master/posthog/async_migrations/migrations/0005_person_replacing_by_version.py)
+
+
+.
+
+
+###
+
+
+New: Feature flag persistence across authentication steps
+
+
+Want to ensure users get a consistent experience across login steps? 1.38.0 improves feature flag persistence for such cases, which is great for experiments where you want the same user to be shown the same variant, no matter how their userID changes. Find out more in the[feature flag persistence docs](https://posthog.com/docs/feature-flags/manual#persisting-feature-flags-across-authentication-steps)
+
+
+.
+
+
+**Note:** This is currently only supported in` posthog-js` .
+
+
+###
+
+
+New: Breakdown bins
+
+
+Now, when using the trends breakdown feature, if the property that you're breaking down by is a numerical value, it will be binned into a group.
+
+
+For example, if you breakdown by a` price` property, instead of seeing the counts of discrete values like` 10.99` ,` 11.00` ,` 12.50` , you'll now see the counts of binned values, such as` 10.00-13.00` ,` 13.01-15.00` .
+
+
+Prefer it the old way? Using the menu on the breakdown table, you can adjust the number of bins used or simply revert to using the discrete values.
+
+
+###
+
+
+Improved: Universal search
+
+
+Universal search got a massive upgrade in this update and now enables you to search for specific users with ease. This is especially useful if you want to find specific organizations or users quickly, such as if you're looking for more context on a bug report.
+
+
+Universal search wasn't the only search-based update this time, either. We also made searching on the Persons page *much* faster and more reliable than it was before.
+
+
+###
+
+
+Improved: Funnel breakdown attribution
+
+
+You can now choose which specific funnel step a breakdown property should come from, and whether the same value should be copied over to other funnel steps for analysis. This is very handy for getting even more value from funnels, and further information is included in the[funnel documentation](https://posthog.com/docs/user-guides/funnels#choosing-breakdown-property-behavior)
+
+
+.
+
+
+###
+
+
+Improved: Library support for multivariate feature flags and experiments
+
+
+Our Node, Ruby, Go, and PHP libraries have been updated to support experiments! We are also trialling support for feature flags, groups, and session analytics in our mobile libraries. Interested in giving it a go?[Let us know](https://app.posthog.com/home#supportModal!)
+
+
+###
+
+
+New: Four new apps released
+
+
+The community has been busy building many new apps for the[PostHog App Store](https://posthog.com/apps)
+
+
+and we're excited to announce the following apps have been released for users on PostHog Cloud...
+
+
+- [Unduplicator](https://posthog.com/apps/unduplicator)
+
+
+, for cleaning duplicate events during data imports
+- [URL Normalizer](https://posthog.com/apps/url-normalizer)
+
+
+, for introducing consistent casing across PostHog
+- [Engage](https://posthog.com/apps/engage-connector)
+
+
+, for sending data to[Engage](https://engage.so/)
+
+
+for marketing automation
+- [Variance](https://posthog.com/apps/variance-connector)
+
+
+, for sending data to[Variance](https://www.variance.com/)
+
+
+so you can define PQLs
+
+
+Interested in building your own app?[Here's how to get started](https://posthog.com/docs/apps)
+
+
+!
+
+
+###
+
+
+Improved: Optimized ClickHouse space and speeding up queries
+
+
+The` properties` column takes up most of the space in any PostHog ClickHouse setup.[This release](https://github.com/PostHog/posthog/issues/10616)
+
+
+changes out the default compression scheme for ZSTD(3), reducing space by around 2.4x and speeding up uncached queries by up to 2.4x.
+
+
+After running this migration only new data will use the updated compression scheme. To get the full benefit of compression on existing data, run` OPTIMIZE TABLE sharded_events FINAL` on your clickhouse cluster which will rewrite existing data.
+
+
+###
+
+
+Other improvements & fixes
+
+
+Version 1.38 also adds hundreds of other improvements and fixes, including...
+
+
+- **Fixed** : Update to posthog-js and Hubspot app making sure we don't override` initial_referrer` and` initial_referring_domain` . If you ever saw these change and not reflect the true initial values update your posthog-js version (& Hubspot app on self-hosted) to make sure we don't override them in the future.
+- **Improvement** : Toolbar won't show up automatically anymore, but you can still launch it from the app. This made calls to feature flags faster too :)
+- **Improvement** : We now automatically comment all SQL queries generated by PostHog with tags. This helps track down performance issues on self-hosted instances.
+- **Breaking change** :` onAction` plugin server function is removed. Improving the efficiency of the plugin-server.
+- **Improvement** : CSV and Image exports now use[Object Storage when it is enabled](https://posthog.com/docs/self-host/deploy/configuration#minio)
+
+
+View the commit log in GitHub for a full history of changes:[release-1.37.0...release-1.38.0](https://github.com/PostHog/posthog/compare/release-1.37.0...release-1.38.0)
+
+
+.
+
+
+##
+
+
+Share your feedback
+
+
+We'd love to hear anything you have to say about PostHog, good or bad. As a thank you, we'll share some awesome[PostHog merch](https://merch.posthog.com/)
+
+
+.
+
+
+Want to get involved?Email us to schedule a 30 minute call
+
+
+with one of our teams to help us make PostHog even better!
+
+
+##
+
+
+Contributions from the community
+
+
+We always welcome contributions from our community and this time we want to thank the following people...
+
+
+- [@Sepal](https://github.com/sepal)
+
+
+, for adding[UTM segmentation docs](https://posthog.com/docs/user-guides/utm-segmentation)
+
+
+- [@Zeviset](https://github.com/zevisert)
+
+
+, for correcting some GitLab Auth secrets
+- [@Klink](https://github.com/klink)
+
+
+, for correcting some typos on the site
+- [@Rahul3v](https://github.com/rahul3v)
+
+
+, for correcting yet more typos on the site
+- [@Gitstart](https://github.com/gitstart)
+
+
+, for changing how apps are tagged
+- [@rafalmierzwiak](https://github.com/rafalmierzwiak)
+
+
+, for adding some missing packages
+- [@hakubo](https://github.com/hakubo)
+
+
+, for fixing the seemingly endless typos on the site
+
+
+Do you want to get involved in making PostHog better? Check out our[contributing resources](https://posthog.com/docs/contribute)
+
+
+to get started, or head to[our community page](https://posthog.com/posts)
+
+
+. We also have a[list of Good First Issues](https://github.com/PostHog/posthog/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
+
+for ideas on where you can contribute!
+
+
+##
+
+
+Open roles at PostHog
+
+
+Want to join us in helping make more products successful? We're currently hiring for remote candidates in any of the following roles:
+
+
+- [Senior Product Manager](https://apply.workable.com/posthog/j/7910AE1F46/)
+
+
+- [Site Reliability Engineer - Kubernetes](https://apply.workable.com/posthog/j/071DD5C05A/)
+
+
+- [Senior Data Engineer](https://apply.workable.com/posthog/j/F01772B948/)
+
+
+- [Developer Advocate](https://apply.workable.com/posthog/j/2D2AC2E78F/)
+
+
+- [Full Stack Engineer - App](https://apply.workable.com/posthog/j/2682B00B76/)
+
+
+- [Senior Backend Engineer](https://apply.workable.com/posthog/j/A9CF0800AA/)
+
+
+- [Technical Content Marketer](https://apply.workable.com/posthog/j/B0BD4E5115)
+
+
+Curious about what it's like to work at PostHog? Check out our[careers page](https://posthog.com/careers)
+
+
+for more info about our all-remote team and transparent culture. Don’t see a specific role listed? That doesn't mean we won't have a spot for you.Send us a speculative application!
+
+
+---
+
+
+*Follow us on[Twitter](https://twitter.com/PostHog) or[LinkedIn](https://linkedin.com/company/posthog) for more PostHog goodness!*
+
+
+Want to just try it already?
+
+
+(Sorry for the shameless CTA.)
+
+
+[Try PostHog - free](https://us.posthog.com/signup)
+
+
+[Schedule a demo](https://posthog.com/talk-to-a-human)
+
+
+> PostHog is the leading platform for building self-driving products. With a full suite of developer tools –[AI observability](https://posthog.com/ai-observability) ,[product analytics](https://posthog.com/product-analytics) ,[session replay](https://posthog.com/session-replay) ,[feature flags](https://posthog.com/feature-flags) ,[experiments](https://posthog.com/experiments) ,[error tracking](https://posthog.com/error-tracking) ,[logs](https://posthog.com/logs) , and more – PostHog captures all the context agents need to diagnose problems, uncover opportunities, and ship fixes. A[data warehouse](https://posthog.com/data-stack) and[CDP](https://posthog.com/cdp) tie it all together, unifying that context into one source agents can read across. You can steer it all from[Slack](https://posthog.com/slack) ,[the web app](https://posthog.com/ai) , the desktop ([PostHog Desktop](https://posthog.com/desktop) ), or your own editor via[the MCP](https://posthog.com/mcp) .
+
+
+### Community questions

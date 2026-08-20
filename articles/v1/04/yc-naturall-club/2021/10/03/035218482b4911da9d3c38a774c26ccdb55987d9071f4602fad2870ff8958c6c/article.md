@@ -1,0 +1,118 @@
+---
+schema_version: "1.0.0"
+document_id: "035218482b4911da9d3c38a774c26ccdb55987d9071f4602fad2870ff8958c6c"
+company_key: "yc-naturall-club"
+company: "NaturAll Club"
+source_id: "yc-naturall-club-atom-71589d2c7346"
+canonical_url: "https://naturallclub.com/blogs/the-naturall-club-blog/the-science-behind-hair-growth"
+published_at: "2021-10-25T11:01:34+00:00"
+first_seen_at: "2026-07-24T12:09:20.860655+00:00"
+fetched_at: "2026-07-28T22:26:35.155530+00:00"
+content_hash: "sha256:f790ff829507201f143469639896c9d6c936575932c4a8da9f82b3c0ed3f6c00"
+---
+
+# The Science Behind Hair Growth
+
+Hair growth is one of the top areas of interest in the natural hair community. There are many misconceptions, assumptions, and misinformation surrounding the topic of hair growth, especially when it comes to black hair.
+
+
+In this reading, we’ll debunk some common misconceptions as well as discuss the science behind hair growth. Understanding the process of hair growth will help you understand how you can optimize the growth of your own hair, which is a different routine for everyone!
+
+
+Before we get into the science of hair growth and what is occurring when your hair grows, let’s first clarify some common misconceptions that are spread about black hair and growth…
+
+
+## Misconceptions about Black Hair And Growth
+
+
+Throughout history, black people’s hair has been the target of ridicule and constant scrutiny. Stereotypes centered around black hair still persist today and unfortunately affect those within our community. These sentiments being perpetuated or taken as fact only contribute to naturals, or black people in general, not completely understanding their hair.
+
+
+A huge misconception about black hair, specifically black women’s hair, is that it doesn’t grow or it is very difficult to grow long. This misconception is definitely something that has been perpetuated by those in our own community, as there are many naturals who believe their hair is just incapable of growing. An understanding of hair growth and how it works will reveal that growth is not a process that varies amongst race or ethnicity. However, this isn’t to say everyone’s hair grows in the same ways at the same rate. Some people’s growth process is faster or slower than others. But it’s important to note that black, kinky, curly hair doesn’t automatically have a slower growth rate than those of other races or hair types.
+
+
+When it comes to how fast of a growth cycle you have, it really comes down to genetics and other predetermined factors. Because of this, the growth cycle is something that cannot necessarily be changed or lengthened. This means that some black people may find they have shorter growth periods, however it is not a predetermined trait that is present
+
+
+*because* said person is black.
+
+
+Aside from genetic makeup, one may find their hair isn’t growing due to physical damage and breakage. Physical damage like split ends and single strand knots increases your hair’s chances of breaking off. When your hair breaks off, there is a big chance your hair will be damaged furtherly due to the harsh split of the hair shaft.
+
+
+Extreme dryness, damage to the hair, and lack of protein is normally the culprit behind damage and breakage. When it comes to those in the black community, specifically, relaxers and chemical perms are the cause of many people’s curls being weak and damaged. Because perms chemically break down and rework the hair, the hair’s physical integrity is compromised and becomes easily damaged.
+
+
+Due to the stigma that has forever surrounded our hair, most black people before us found it easier to relax their own hair or their kid’s hair. This is why most naturals to this day can recall the day their moms decided to let them get their hair relaxed. Since knowledge about our hair and how to care for it has always been lacking, most people who relaxed their hair didn’t know how to care for it after the fact. This naturally leads to breakage, chemical damage, and physical damage that can only be fixed by cutting the hair off. If the hair is not cut off then the damage will just continue to climb up the hair, making it impossible to retain length.
+
+
+So when it comes to a trend in black hair and growth, the only real similarity that can be identified is the damage done to our hair by relaxers. When you really pick this issue apart, it isn’t even a matter of growth, but of length retention. Hair is always growing (as you’ll learn later), so this means black hair is also growing as well. The only issue we can find in our community that may hinder us seeing growth is the damage done to our hair in trying to alter it. If these damaging practices are stopped and properly taken care of, your hair will have a harder time recovering. This is where education and understanding of our hair is extremely important and comes into play.
+
+
+As time goes on, there is a little less pressure to chemically alter our hair, there is still a clear difference between how those in the black community are treated when their natural hair is showcased.
+
+
+Now that we’ve acknowledged that there is no difference in the growth of black hair, let’s get into exactly how hair grows...
+
+
+##
+
+
+## The Science Behind Hair Growth
+
+
+Hair is made up of two components, protein and skin cells. Both the protein, called keratin, and skin cells that make up the hair you see on your head are all dead. Despite the cells being dead, they actively are put to use in the process of hair growth about 90% of the time. This growth process happens during the first stage of the growth cycle and lasts different lengths of time, depending on the person. The second stage is known as the transitional stage where the hair stops being fed by the scalp. The last stage after that is the shedding stage where hair is let loose.
+
+
+It’s important to note that different parts of your hair can be at different stages at any given time. For example, the back of your hair can be in the first stage while the front is in the third stage. This is why many naturals report their hair being longer on one side or in one section in comparison to another.
+
+
+### Stages of Hair Growth:
+
+
+1. Anagen: This is the active stage of the growth cycle where new hairs are being formed. At the root, or bulb of your hair shaft, cells are rapidly dividing to create the new hair shaft. This is when your hair is pushed past the scalp, pushing the existing resting (or dormant) hair shaft out. Your hair, or at least a part of your hair, is in this cycle about 90% of the time. This cycle can last anywhere from 2-7 years spending on the individual and can produce up to 1cm every 26-28 days. Like mentioned before, the growth cycle length is determined by genetics and varies for everyone. Some have a short anagen cycle who notice their hair will not grow past a certain length. On the other hand, there are some with longer growth cycles who can grow their hair past a certain length.
+
+
+2. Catagen: The catagen phase is the transitional phase of hair growth. The cells stop dividing and the active hair growth that was occurring is now at a stand still. The outer layer of the hair is shed in which the bulb detaches from the blood supply. This makes it impossible for this hair to grow anymore and puts it in a position to be shed whenever it’s time. Another is created and now we have what is called club hair. The new layer of club hair attaches itself to the follicle. Normally, this phase lasts for about 2-3 weeks.
+
+
+3. Telogen: This is the phase which occurs when the hair is ready to be. The telogen phase usually lasts around 100 days and is the end of the growth cycle. It’s important to note that shedding is a perfectly normal and necessary part of hair growth. Shedding hair not only shows your hair is going through the growth cycle like it should be, it also signifies your hair is getting ready to produce new growth. It’s also important to know the difference between shedding and breakage. When your hair sheds, you’ll be able to see the bulb on the tip of the hair that falls out due to shedding. When it comes to breakage, you’ll most likely get a piece of hair with a jagged end. You won’t feel a bulb at the end and most likely will find the strand it broke from with a jagged edge as well. This is why it’s important to catch breakage before it happens, so you can ensure you’re getting rid of any damaged hair before it spreads further up the hair.
+
+
+## Encouraging Growth
+
+
+Since the active growth period of your hair cannot be changed, it’s important that you optimize your hair growth during its active phase so that you know your hair is growing as much as it can during that time. Most times, optimizing the Anagen phase comes down to improving diet, making sure you’re drinking enough water, and upkeep your hair. Making a better routine for your hair and body will basically ensure there are no physical issues standing in the way of you and your hair growth.
+
+
+- Diet: your hair grows from the inside out, so making sure your body is properly fed ensures your body has what it needs to produce hair in the first place. Since hair is made of protein, a diet with plenty of protein is necessary to make sure your hair has all it needs to reproduce and cycle through its process correctly.
+
+
+- Water intake: similar to making sure you have a healthy diet, making sure you have enough water is essential to producing healthy hair. Your hair is fed through your body, so it’s important to make sure your hair is getting enough hydration from your body. Drinking enough water will not only ensure you’re hydrating, but it also will make it so your hair is properly hydrated and is not at risk of breaking off and becoming brittle.
+
+
+- Hair routine: just like your body, your hair needs a routine that will keep it healthy and strong. Making sure you’re using products that are nourishing, moisturizing, and hydrating your hair will reduce the chances of breakage and damage to the strands. Your main goal when taking care of your hair between washes should be to keep it as hydrated and moisturized as possible. Non-stripping shampoos, deep conditioning, and hydrating products are good products to use on and after wash day that will help to keep your hair soft and moisturized.
+
+
+### Length Retention
+
+
+Another aspect of growth that was briefly mentioned earlier is length retention. Length retention is basically referring to the ability of your hair to retain its length as opposed to breaking off, which would hinder growth or the appearance of growth. Length retention, or issues with length retention, are commonly written off as issues with growth because it results in the hair seemingly like it isn’t growing. However, since the hair is always growing, not seeing growth is really an issue with your length retention.
+
+
+Since length retention is based on how little (or how much) your hair breaks off, having good length retention is all about reducing breakage to your hair. Like mentioned before, breakage can be mitigated by making sure the hair is properly moisturized and hydrated.
+
+
+If you find your hair is constantly dry, that may be a sign that you aren’t getting enough water in your diet or to your hair. Increasing your water intake or washing your hair more frequently can help with this issue. You would also benefit from deep conditioning with every wash to give your hair a deep moisture treatment. Deep conditioning will nourish your hair, leaving it soft and better able to retain moisture throughout the week.
+
+
+If you find your hair is brittle and weak, you most likely aren’t getting enough protein in your body or to your hair. Increasing your protein intake or doing protein treatments can help with weak hair. If doing a protein treatment, it’s important you do your research and try to figure out how much protein your hair can take. Some hair is too fine or sensitive to protein and becomes even more weak and brittle after being exposed to concentrated amounts of protein.
+
+
+If protein treatments don’t seem like a good option for you, using everyday products that contain protein is a good way to substitute actual treatments. Leave-in conditioners, moisturizers, and stylers that contain protein are good examples of these kinds of products. These are also great options for the fact that they most likely will provide your hair with moisture as well!
+
+
+When it comes to hydration and protein, it’s very important you want to have a good balance of these two things. With too much protein, the hair can go stiff and brittle. With too much moisture, the hair can become mushy and inelastic. So when trying to figure out if you need more water or protein to prevent your breakage, just keep in mind you don’t want to overdo it with either.
+
+
+We hope that you understand more on how hair growth works! Let us know some other misconceptions about black hair and growth you’ve heard below.

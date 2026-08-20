@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0aa90895bc439c4dc29e1f6cab631c85b65eec15b042ca4389752079f42745fc",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/kubernetes-metrics-server",
+    "canonical": "https://signoz.io/blog/kubernetes-metrics-server"
+  },
+  "title": "Kubernetes Metrics Server | How to deploy k8s metrics server and use it for monitoring",
+  "summary": "Kubernetes Metrics Server explained: what it does, how to install it, and how it differs from kube-state-metrics and OpenTelemetry collection.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-07-28T20:48:00.516155+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/0a/0aa90895bc439c4dc29e1f6cab631c85b65eec15b042ca4389752079f42745fc/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/0a/0aa90895bc439c4dc29e1f6cab631c85b65eec15b042ca4389752079f42745fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8030,
+    "sha256": "sha256:00a0aac57bf2d3543b3216a8743d27b1dc1d52db03025b116f66bb4dd86c3edf",
+    "normalized_content_hash": "sha256:dd4623ac2861a848f2c877febcafb905938d3f3eafb15e9b99074497147ccb31"
+  },
+  "provenance": {
+    "source_item_id": "f19faeae-0e0a-4aea-8274-40afa3e98e5a",
+    "external_id": "https://signoz.io/blog/kubernetes-metrics-server"
+  }
+}

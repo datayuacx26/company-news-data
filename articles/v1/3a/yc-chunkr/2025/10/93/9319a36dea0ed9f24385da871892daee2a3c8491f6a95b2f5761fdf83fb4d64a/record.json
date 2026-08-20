@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9319a36dea0ed9f24385da871892daee2a3c8491f6a95b2f5761fdf83fb4d64a",
+  "company": {
+    "key": "yc-chunkr",
+    "name": "Chunkr"
+  },
+  "source": {
+    "id": "yc-chunkr-rss-ccbc1a71b139",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis",
+    "canonical": "https://www.chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis"
+  },
+  "title": "Introducing chunkr-layout-1: State Of The Art Document Layout Analysis",
+  "summary": "A production-ready document layout detection model that accurately extracts tables, images, text blocks, and 16+ layout elements from PDFs across financial, legal, medical, and technical documents—achieving 80.9% mAP@50 and outperforming AWS Textract, Azure Document Intelligence, and Gemini 2.5 Pro at real-time inference speeds.",
+  "published_at": "2025-10-15T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:25.721612+00:00",
+  "fetched_at": "2026-08-20T03:43:41.910169+00:00",
+  "last_updated_at": "2026-08-20T03:43:42.038291+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-chunkr/2025/10/93/9319a36dea0ed9f24385da871892daee2a3c8491f6a95b2f5761fdf83fb4d64a/article.md",
+    "record": "articles/v1/3a/yc-chunkr/2025/10/93/9319a36dea0ed9f24385da871892daee2a3c8491f6a95b2f5761fdf83fb4d64a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 944,
+    "sha256": "sha256:bf9744b1048413dea4d47719e1d3451fbf303542f787613875e4a9db784017a6",
+    "normalized_content_hash": "sha256:99ef762b78e9f5f36522a2a88a93344fc692250239c1b4795365e5e6f7b97f21"
+  },
+  "provenance": {
+    "source_item_id": "2605a5d6-8658-4ff8-af28-10f7d51115eb",
+    "external_id": "https://www.chunkr.ai/blog/introducing-chunkr-layout-1-state-of-the-art-document-layout-analysis"
+  }
+}

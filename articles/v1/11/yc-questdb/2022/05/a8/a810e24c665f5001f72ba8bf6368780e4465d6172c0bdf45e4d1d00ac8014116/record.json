@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a810e24c665f5001f72ba8bf6368780e4465d6172c0bdf45e4d1d00ac8014116",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/05/26/query-benchmark-questdb-versus-clickhouse-timescale/",
+    "canonical": "https://questdb.com/blog/2022/05/26/query-benchmark-questdb-versus-clickhouse-timescale/"
+  },
+  "title": "4Bn rows/sec query benchmark: Clickhouse vs QuestDB vs Timescale",
+  "summary": "QuestDB 6.3 brings parallel filter execution optimization to our SQL engine allowing us to reduce both cold and hot query execution times quite dramatically.",
+  "published_at": "2022-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:28.159317+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/05/a8/a810e24c665f5001f72ba8bf6368780e4465d6172c0bdf45e4d1d00ac8014116/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/05/a8/a810e24c665f5001f72ba8bf6368780e4465d6172c0bdf45e4d1d00ac8014116/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16836,
+    "sha256": "sha256:5b2847a04aac148b78c88842cee335245b7acd40a54e30d8e8d16c8b5866e511",
+    "normalized_content_hash": "sha256:68113327da4e9b53cbef67b95525d3578af66fdffb01443a57f676d8c31099bc"
+  },
+  "provenance": {
+    "source_item_id": "9e9d7a7e-8b1d-4c42-af37-b37d6b0a497b",
+    "external_id": "https://questdb.com/blog/2022/05/26/query-benchmark-questdb-versus-clickhouse-timescale/"
+  }
+}

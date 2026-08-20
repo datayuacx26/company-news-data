@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fc75b7f214b3a88c46c996ff1167c632712225c17bda544ed25e982d34990e2",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/how-we-improved-feature-flags-resiliency",
+    "canonical": "https://posthog.com/blog/how-we-improved-feature-flags-resiliency"
+  },
+  "title": "How we made feature flags faster and more reliable",
+  "summary": "Feature-flags-as-a-service is an interesting space. If your service stops working, it affects both your customers and your customer's customers…",
+  "published_at": "2023-09-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2023/09/2f/2fc75b7f214b3a88c46c996ff1167c632712225c17bda544ed25e982d34990e2/article.md",
+    "record": "articles/v1/0e/yc-posthog/2023/09/2f/2fc75b7f214b3a88c46c996ff1167c632712225c17bda544ed25e982d34990e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14189,
+    "sha256": "sha256:c5acd7c5b5b0c9db40e5ecec7e57a48b954f7b6b3ff0fbabee63a25f643f6220",
+    "normalized_content_hash": "sha256:e3c02745bfda3cb41e8a4ee4baebd04e17b9580c23f19f4d24e545ae352d6b4d"
+  },
+  "provenance": {
+    "source_item_id": "4a106927-f106-46e7-9248-8ca8d9890220",
+    "external_id": "0da8c462-4095-549a-96c6-90e636d8c877"
+  }
+}

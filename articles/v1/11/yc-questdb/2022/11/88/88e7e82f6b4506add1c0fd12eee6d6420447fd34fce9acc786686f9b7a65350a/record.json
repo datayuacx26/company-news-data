@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88e7e82f6b4506add1c0fd12eee6d6420447fd34fce9acc786686f9b7a65350a",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/11/30/full-table-scan-are-fast/",
+    "canonical": "https://questdb.com/blog/2022/11/30/full-table-scan-are-fast/"
+  },
+  "title": "Listen to Your CPU - Full-table Scans Are Fast",
+  "summary": "Demonstrating the raw speed of modern hardware",
+  "published_at": "2022-11-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.198722+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/11/88/88e7e82f6b4506add1c0fd12eee6d6420447fd34fce9acc786686f9b7a65350a/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/11/88/88e7e82f6b4506add1c0fd12eee6d6420447fd34fce9acc786686f9b7a65350a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8560,
+    "sha256": "sha256:87a2a0dfe69d5c60e033c38116cbb53e3a1919017df0afe08fcdbfcd0eb05421",
+    "normalized_content_hash": "sha256:dc63a0ac7b779ce8a03359c83f09a6d9ce257ff6222af8ef57dbcd4d6f15401f"
+  },
+  "provenance": {
+    "source_item_id": "549c69cb-4d68-46a1-bd37-8fa6c273d25c",
+    "external_id": "https://questdb.com/blog/2022/11/30/full-table-scan-are-fast/"
+  }
+}

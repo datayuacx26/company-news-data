@@ -1,0 +1,33 @@
+---
+schema_version: "1.0.0"
+document_id: "2928df79f8cfd97198769d1ccedef05248b99387441f51ab119188b57acce49c"
+company_key: "kratos-defense-security-solutions-inc-common-stock"
+company: "Kratos Defense & Security Solutions Inc."
+source_id: "kratos-defense-security-solutions-inc-common-stock-news-import-8a9393f1d5ed"
+canonical_url: "https://www.kratosdefense.com/newsroom/kratos-receives-u-s-army-contract-to-develop-a-next-generation-seeker-for-the-javelin-missile-system"
+published_at: "2026-08-06T12:04:50+00:00"
+first_seen_at: "2026-08-06T12:39:44.771331+00:00"
+fetched_at: "2026-08-06T12:39:45.400005+00:00"
+content_hash: "sha256:def5b73b967c47d530756405a7d38a804c83993ba48b75c9227b48b410f87559"
+---
+
+# Kratos Receives U.S. Army Contract to Develop a Next-Generation Seeker for the Javelin Missile System
+
+SAN DIEGO, Aug. 06, 2026 (GLOBE NEWSWIRE) — Kratos Defense & Security Solutions, Inc. (Nasdaq: KTOS), a technology company in defense, national security, and global markets, announced today that it has been awarded a contract by the U.S. Army Combat Capabilities Development Command (DEVCOM) Command, Control, Communications, Computers, Cyber, Intelligence, Surveillance and Reconnaissance (C5ISR) Center to develop an Enhanced Seeker for the Javelin Close Combat Missile System.
+
+
+Kratos will develop, build, and test a next-generation infrared seeker that addresses obsolescence in the current Javelin guidance section, improving the lethality of one of the U.S. Army’s most critical close combat weapons for the next decade. The work will be performed at Kratos’ Advanced Manufacturing Center in Birmingham, Alabama, with testing at U.S. Army Government facilities.
+
+
+“Kratos has made the investments, built the credentialed team, and delivered the capabilities to win, execute, and deliver a production-ready seeker that keeps Javelin lethal for the Soldiers who depend on it,” said **Michael Johns, Senior Vice President, Kratos SRE, Inc.** “We are proud to support the U.S. Army in sustaining one of its most important close combat weapons, and this award is a reflection of everything Kratos stands for: affordable, mission-critical hardware, delivered.”
+
+
+Kratos brings decades of missile seeker development heritage to this program and a vertically integrated manufacturing capability that positions the company to deliver production-ready hardware affordably and on schedule. The contract also directly supports the Secretary of War’s priority to strengthen the U.S. munitions industrial base.
+
+
+**About Kratos Defense & Security Solutions**
+Kratos Defense & Security Solutions, Inc. (Nasdaq: KTOS) is a technology, products, system and software company addressing the defense, national security, and global markets. Kratos makes true internally funded research, development, capital and other investments, to rapidly develop, produce and field solutions that address our customers’ mission critical needs and requirements. At Kratos, affordability is a technology, and we seek to utilize proven, leading-edge approaches and technology, not unproven bleeding-edge approaches, with Kratos’ approach designed to reduce cost, schedule and risk, enabling us to be first to market with cost effective solutions. We believe that Kratos is known as an innovative disruptive change agent in the industry, a company that is an expert in designing products and systems up front for successful rapid, large quantity, low-cost future manufacturing which is a value-add competitive differentiator for our large traditional prime system integrator partners and also to our government and commercial customers. Kratos’ primary business areas include virtualized ground systems for satellites and space vehicles; jet-powered unmanned aerial drone systems; advanced vehicles and rocket systems; propulsion systems for drones, missiles, loitering munitions, supersonic systems, spacecraft, and launch systems; C5ISR and microwave electronic products for missile, radar, missile defense, space, satellite, counter-UAS, directed energy, communication, and other systems; and virtual and augmented reality training systems for the warfighter. For more information, visit[www.KratosDefense.com](https://urldefense.com/v3/__https:/connect.notified.com/Tracker?data=s6yeWrJk2s5001vciea-_NebLK_BWsI7DTQTARsMzfTHsYWBWrS3MlK5jCBkSb2Ct8oLT9WBb_mPmBeT0nS-JLjZNAHy8or6l0fob4JJzvk=000215308235__;!!KM6X6ZXWXVtZMQ!f9pCbnxfJvJelucNmkAwGyLNPS4rb8Wbxo4WPAYlLJZ_iTrPYxoxLExnnTcXfPMEno0YpWdXCwoc7txrXEX0ACH67xcTUYKas5Q$) and follow Kratos on[LinkedIn](https://urldefense.com/v3/__https:/connect.notified.com/Tracker?data=qH7mwzo1wBY9Zc5nmZVaisNrww3krk75kJif_WShi4Nid3QIFk5zs16zow43dcaQLcGXO6rTTPqVdUBcoFX9FeV1Q3Ylo6oU_x0qo3snuuw7dgXoOD4yh_sBXo_2iIa8xDQ83jJp0Dx0S-LAph-n4g==000215308235__;!!KM6X6ZXWXVtZMQ!f9pCbnxfJvJelucNmkAwGyLNPS4rb8Wbxo4WPAYlLJZ_iTrPYxoxLExnnTcXfPMEno0YpWdXCwoc7txrXEX0ACH67xcTaiZuBws$) and[X](https://urldefense.com/v3/__https:/connect.notified.com/Tracker?data=WW7QvEPGte8QqZtw7LCUThLHja4KkJ5zSYR2db6f4krG2im2FKnLRhoMbKcNuMzHLd7jTxOfzIJh0F9Y9bKRcw==000215308235__;!!KM6X6ZXWXVtZMQ!f9pCbnxfJvJelucNmkAwGyLNPS4rb8Wbxo4WPAYlLJZ_iTrPYxoxLExnnTcXfPMEno0YpWdXCwoc7txrXEX0ACH67xcTtnz_K2c$) .
+
+
+**Notice Regarding Forward-Looking Statements**
+Certain statements in this press release may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are made on the basis of the current beliefs, expectations and assumptions of the management of Kratos and are subject to significant risks and uncertainty. Investors are cautioned not to place undue reliance on any such forward-looking statements. All such forward-looking statements speak only as of the date they are made, and Kratos undertakes no obligation to update or revise these statements, whether as a result of new information, future events or otherwise. Although Kratos believes that the expectations reflected in these forward-looking statements are reasonable, these statements involve many risks and uncertainties that may cause actual results to differ materially from what may be expressed or implied in these forward-looking statements. For a further discussion of risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to the business of Kratos in general, see the risk disclosures in the Annual Report on Form 10-K of Kratos for the year ended December 29, 2025, and in subsequent reports on Forms 10-Q and 8-K and other filings made with the SEC by Kratos.

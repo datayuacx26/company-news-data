@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ee65fa9830e10493a63739af5c91c5728b5ec09a54f3b3db654b15d8c652c20",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking",
+    "canonical": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking"
+  },
+  "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP’s kNN Graph",
+  "summary": "While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely…",
+  "published_at": null,
+  "first_seen_at": "2026-07-31T19:31:58.014784+00:00",
+  "fetched_at": "2026-07-31T19:31:59.789873+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/9e/9ee65fa9830e10493a63739af5c91c5728b5ec09a54f3b3db654b15d8c652c20/article.md",
+    "record": "articles/v1/3a/apple/2026/07/9e/9ee65fa9830e10493a63739af5c91c5728b5ec09a54f3b3db654b15d8c652c20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2287,
+    "sha256": "sha256:5a7f6391f9badc9e012144cbc968ec14ff5915e635071424d6d24f4f8890cf56",
+    "normalized_content_hash": "sha256:158c9d32daf84812249b4ae4a1ec872a6d2c6302022283735eaac3f1a784b67f"
+  },
+  "provenance": {
+    "source_item_id": "5acd1a50-06f6-4456-b0a5-96f9b337a226",
+    "external_id": "https://machinelearning.apple.com/research/umap-knn-graph-sensemaking"
+  }
+}

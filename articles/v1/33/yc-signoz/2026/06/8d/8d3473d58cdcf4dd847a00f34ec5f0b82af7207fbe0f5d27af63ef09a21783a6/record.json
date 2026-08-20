@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d3473d58cdcf4dd847a00f34ec5f0b82af7207fbe0f5d27af63ef09a21783a6",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/metrics-management/send-metrics/applications/opentelemetry-python",
+    "canonical": "https://signoz.io/docs/metrics-management/send-metrics/applications/opentelemetry-python"
+  },
+  "title": "Send Metrics from Python application",
+  "summary": "Learn how to send metrics from Python applications (Flask, Django, FastAPI, Celery, Runtime) to SigNoz using OpenTelemetry",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-23T10:04:43.213452+00:00",
+  "last_updated_at": "2026-07-23T10:04:43.225197+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/8d/8d3473d58cdcf4dd847a00f34ec5f0b82af7207fbe0f5d27af63ef09a21783a6/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/8d/8d3473d58cdcf4dd847a00f34ec5f0b82af7207fbe0f5d27af63ef09a21783a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 692,
+    "sha256": "sha256:55e65c856aa7fb53390748e05895ce5372b4043358e13047cc4184d0598283be",
+    "normalized_content_hash": "sha256:4f0c6d0b43bf24104301ffb919aa885e9b5270231e4a3f0d33e0a804f690e02c"
+  },
+  "provenance": {
+    "source_item_id": "96339edc-cc2d-4b6b-817c-679c9c796ad6",
+    "external_id": "https://signoz.io/docs/metrics-management/send-metrics/applications/opentelemetry-python"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "297742c05f886d8766c039addc2b826db670c3a3e481220d963021d0007c0524",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/dilating-github-actions-using-dialyzer",
+    "canonical": "https://www.massdriver.cloud/blogs/dilating-github-actions-using-dialyzer"
+  },
+  "title": "Dilating GitHub Actions using Dialyzer",
+  "summary": "Dialyzer is a powerful static analysis tool for Elixir. Here's how to to use it in GitHub Actions with minimal impact on build times.",
+  "published_at": "2023-03-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:43:35.035955+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2023/03/29/297742c05f886d8766c039addc2b826db670c3a3e481220d963021d0007c0524/article.md",
+    "record": "articles/v1/38/yc-massdriver/2023/03/29/297742c05f886d8766c039addc2b826db670c3a3e481220d963021d0007c0524/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5378,
+    "sha256": "sha256:651475ed13e2142bd1b365c3d479325c0481548b119ebaa673d57c2d873de62e",
+    "normalized_content_hash": "sha256:c04fe7394139212030e256e6ebd2944fefaaef4854fc6b7ad4641a7bd106451f"
+  },
+  "provenance": {
+    "source_item_id": "1902c869-10ec-4d16-b90e-3f16717b4a0e",
+    "external_id": "https://www.massdriver.cloud/blogs/dilating-github-actions-using-dialyzer"
+  }
+}

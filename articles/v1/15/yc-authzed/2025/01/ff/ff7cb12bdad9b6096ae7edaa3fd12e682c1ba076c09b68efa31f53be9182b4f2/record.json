@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff7cb12bdad9b6096ae7edaa3fd12e682c1ba076c09b68efa31f53be9182b4f2",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/the-dual-write-problem",
+    "canonical": "https://authzed.com/blog/the-dual-write-problem"
+  },
+  "title": "The Dual-Write Problem",
+  "summary": "The dual-write problem is present in any distributed system and is difficult to solve. We discuss where the problem arises and several approaches.",
+  "published_at": "2025-01-02T12:48:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2025/01/ff/ff7cb12bdad9b6096ae7edaa3fd12e682c1ba076c09b68efa31f53be9182b4f2/article.md",
+    "record": "articles/v1/15/yc-authzed/2025/01/ff/ff7cb12bdad9b6096ae7edaa3fd12e682c1ba076c09b68efa31f53be9182b4f2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18262,
+    "sha256": "sha256:9d1a5cfa42db1258d68f0afd05a9c8c69b0d783b01c304b5e1948f9532ff8c14",
+    "normalized_content_hash": "sha256:e59cbe9727266d6ddcfa886272aec26461a4841529ad8bcdfe87792b3b87a017"
+  },
+  "provenance": {
+    "source_item_id": "30dbe76b-42e0-4642-a7d6-b13d76ae5378",
+    "external_id": "https://authzed.com/blog/the-dual-write-problem"
+  }
+}

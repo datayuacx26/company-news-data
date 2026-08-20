@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ffb59cbfc5b2fc28d97b440ab023a0f5bf8762f4c168fe2230f0e9bf3683683",
+  "company": {
+    "key": "yc-netbeez",
+    "name": "NetBeez"
+  },
+  "source": {
+    "id": "yc-netbeez-rss-1a1c74f0723d",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://netbeez.net/blog/infrastructure-health/",
+    "canonical": "https://netbeez.net/blog/infrastructure-health/"
+  },
+  "title": "Infrastructure Health Is Not User Experience",
+  "summary": "Healthy devices do not guarantee a good user experience. Learn how DNS, latency, packet loss, Wi-Fi, VPN, and HTTP tests reveal what dashboards miss.",
+  "published_at": "2026-08-05T17:46:40+00:00",
+  "first_seen_at": "2026-08-05T18:59:34.403650+00:00",
+  "fetched_at": "2026-08-05T18:59:35.948190+00:00",
+  "last_updated_at": "2026-08-20T01:55:20.553438+00:00",
+  "paths": {
+    "article": "articles/v1/3f/yc-netbeez/2026/08/7f/7ffb59cbfc5b2fc28d97b440ab023a0f5bf8762f4c168fe2230f0e9bf3683683/article.md",
+    "record": "articles/v1/3f/yc-netbeez/2026/08/7f/7ffb59cbfc5b2fc28d97b440ab023a0f5bf8762f4c168fe2230f0e9bf3683683/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9341,
+    "sha256": "sha256:a05aec027cda36b9b12bbd7a43c00e4923b95a086debdde5439673c4526e4206",
+    "normalized_content_hash": "sha256:2b00d0977b30fabef6eb0af64635964307d0ace91941d2ccd1a8229028368433"
+  },
+  "provenance": {
+    "source_item_id": "a04839bd-4ad5-4145-8c60-67a16852106e",
+    "external_id": "https://netbeez.net/?p=23993"
+  }
+}

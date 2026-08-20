@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66f127f832fbee95b04d44163bbe4c0f867f4b5b15dc880b5d2059b6bd32746b",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/traces-management/guides/drop-spans",
+    "canonical": "https://signoz.io/docs/traces-management/guides/drop-spans"
+  },
+  "title": "Control Traces Volume",
+  "summary": "Drop spans at the application or collector level using head sampling, tail sampling, or the OTel Collector filter processor with OTTL conditions.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/66/66f127f832fbee95b04d44163bbe4c0f867f4b5b15dc880b5d2059b6bd32746b/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/66/66f127f832fbee95b04d44163bbe4c0f867f4b5b15dc880b5d2059b6bd32746b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 670,
+    "sha256": "sha256:92849fa34d50b629f5b5d38b02b65b7ca2ff6d639505368c8ec86cadf4e0f1d4",
+    "normalized_content_hash": "sha256:5847c15f7872c8bf44e34539c33bf040742d12a2642b946a0f8d2c2ad8aa9c5b"
+  },
+  "provenance": {
+    "source_item_id": "952b3c7b-8785-410d-9e63-e41598fa82f8",
+    "external_id": "https://signoz.io/docs/traces-management/guides/drop-spans"
+  }
+}

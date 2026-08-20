@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0a9a28745c4ce01dfc25103ff2a9cba66d4a7f20ee8d3da879788095109591d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/golang-monitoring",
+    "canonical": "https://signoz.io/blog/golang-monitoring"
+  },
+  "title": "OpenTelemetry Golang Monitoring 2026: Traces, Logs, APM and Runtime Metrics",
+  "summary": "Golang monitoring in 2026: instrument Go apps with the OpenTelemetry Go SDK and monitor traces and metrics in SigNoz. Setup, metrics, and best practices.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.394133+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/b0/b0a9a28745c4ce01dfc25103ff2a9cba66d4a7f20ee8d3da879788095109591d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/b0/b0a9a28745c4ce01dfc25103ff2a9cba66d4a7f20ee8d3da879788095109591d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28601,
+    "sha256": "sha256:b8e32d475ebef9cc9cdb22d98c30d36c7ae626ee2b673a01daad5f98ddf9750e",
+    "normalized_content_hash": "sha256:61e387c57d01d4edb6c8e537cd9b4a9242b249f24fba08ade5fe4afb0c422182"
+  },
+  "provenance": {
+    "source_item_id": "612664b2-bd92-4f15-9384-e9de00ad754d",
+    "external_id": "https://signoz.io/blog/golang-monitoring"
+  }
+}

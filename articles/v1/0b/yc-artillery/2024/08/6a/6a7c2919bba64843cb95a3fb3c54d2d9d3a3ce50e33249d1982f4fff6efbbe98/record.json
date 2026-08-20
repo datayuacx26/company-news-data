@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a7c2919bba64843cb95a3fb3c54d2d9d3a3ce50e33249d1982f4fff6efbbe98",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-2c90f49ee813",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/changelog/artillery-cli-v2-0-19",
+    "canonical": "https://www.artillery.io/changelog/artillery-cli-v2-0-19"
+  },
+  "title": "Artillery CLI v2.0.19",
+  "summary": "Bug fixes and feature enhancements for CLI and Fargate.",
+  "published_at": "2024-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:13:32.020779+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-04T08:57:23.240715+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2024/08/6a/6a7c2919bba64843cb95a3fb3c54d2d9d3a3ce50e33249d1982f4fff6efbbe98/article.md",
+    "record": "articles/v1/0b/yc-artillery/2024/08/6a/6a7c2919bba64843cb95a3fb3c54d2d9d3a3ce50e33249d1982f4fff6efbbe98/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1394,
+    "sha256": "sha256:fdbd38f8f9dad8c2a99f734e42c679aad1c57c75ad429c370d483d1a18143254",
+    "normalized_content_hash": "sha256:904422f6e29ae0cda885b477db8f178f209fd8c5c91248eef3a814857adb049d"
+  },
+  "provenance": {
+    "source_item_id": "1b5a8f6e-c173-4a3c-9354-932e63eecfca",
+    "external_id": "https://www.artillery.io/changelog/artillery-cli-v2-0-19"
+  }
+}

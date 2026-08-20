@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50d72687cd2d125feca088c8f8bbe7546060c0d014a6732641a2ccfc06b428de",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/userguide/write-a-metrics-clickhouse-query",
+    "canonical": "https://signoz.io/docs/userguide/write-a-metrics-clickhouse-query"
+  },
+  "title": "Metrics ClickHouse Query Guide",
+  "summary": "Learn SigNoz metrics table schema and write ClickHouse queries for request rate, error rate, and p99 latency using the samples and time series tables.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/50/50d72687cd2d125feca088c8f8bbe7546060c0d014a6732641a2ccfc06b428de/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/50/50d72687cd2d125feca088c8f8bbe7546060c0d014a6732641a2ccfc06b428de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 691,
+    "sha256": "sha256:c9042029878fc625a3795e83d692a2522f25e64e70b7950778ce79b491f3df8f",
+    "normalized_content_hash": "sha256:f583774938e5cd8d7f732c32f911285df003bbfcbc2c3fab7a4e312f75ae1e1b"
+  },
+  "provenance": {
+    "source_item_id": "1e0bb6f5-1cf6-4d55-9f23-d68bbe7bf6dd",
+    "external_id": "https://signoz.io/docs/userguide/write-a-metrics-clickhouse-query"
+  }
+}

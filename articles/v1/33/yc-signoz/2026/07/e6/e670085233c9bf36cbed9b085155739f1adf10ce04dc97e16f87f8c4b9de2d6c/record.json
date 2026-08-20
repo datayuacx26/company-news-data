@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e670085233c9bf36cbed9b085155739f1adf10ce04dc97e16f87f8c4b9de2d6c",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/kafka-monitoring-opentelemetry",
+    "canonical": "https://signoz.io/blog/kafka-monitoring-opentelemetry"
+  },
+  "title": "Deep dive into observability of Messaging Queues with OpenTelemetry",
+  "summary": "A deep dive into observability for Kafka and messaging queues with OpenTelemetry, including common debugging scenarios.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/e6/e670085233c9bf36cbed9b085155739f1adf10ce04dc97e16f87f8c4b9de2d6c/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/e6/e670085233c9bf36cbed9b085155739f1adf10ce04dc97e16f87f8c4b9de2d6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18184,
+    "sha256": "sha256:cc7a73c7fc01dd5d141fb00679e8241672ef0fff20add4a4b921fa001beaeb64",
+    "normalized_content_hash": "sha256:8786991d57a24f269e3a6e05efb9932f39140f29a01c844a2b63662c83c24467"
+  },
+  "provenance": {
+    "source_item_id": "3b5ebfc3-d3c0-4ef3-9c4c-10b10ecf2455",
+    "external_id": "https://signoz.io/blog/kafka-monitoring-opentelemetry"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a22d5e99e8b4fc4cb55eb31dd19879166133a69959b257f5040e3029d0a82ca",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/reproduce-rare-retry-path-loki-proxymock/",
+    "canonical": "https://speedscale.com/blog/reproduce-rare-retry-path-loki-proxymock/"
+  },
+  "title": "Reproduce A Rare Retry Path With Loki + proxymock",
+  "summary": "Find the rare payload that sends a service down a retry path, correlate it to the recorded response, and prove the fix with proxymock replay.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T22:41:53.571756+00:00",
+  "fetched_at": "2026-08-13T22:41:57.768476+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/08/3a/3a22d5e99e8b4fc4cb55eb31dd19879166133a69959b257f5040e3029d0a82ca/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/08/3a/3a22d5e99e8b4fc4cb55eb31dd19879166133a69959b257f5040e3029d0a82ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18746,
+    "sha256": "sha256:0ad0771efdd0e771a0a7cac21c472d191be91aceb9d8ee33e13ba29980df0653",
+    "normalized_content_hash": "sha256:373afb26a506dfc9d3bc914b69e5f2bc6da2c18d18bc76cdf6d5d3c39bace78e"
+  },
+  "provenance": {
+    "source_item_id": "f9999582-5a3c-45fe-91d7-f2f0e6903e18",
+    "external_id": "https://speedscale.com/blog/reproduce-rare-retry-path-loki-proxymock/"
+  }
+}

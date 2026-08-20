@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22614fbabd65010d695500aebcd66a58103ca84e578d798e5f7e2de5c1299817",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/package-firewall",
+    "canonical": "https://replit.com/blog/package-firewall"
+  },
+  "title": "Package Firewall: Blocking 8,000+ malicious packages daily",
+  "summary": "Replit already scans your projects for vulnerable dependencies, and audits your dependencies before you publish. But risk shows up earlier than that, while you are developing, the moment a malicious package gets installed. Today we're launching Package Firewall, in partnership with Socket (a software supply-chain security company) . Package Firewall blocks malicious and compromised packages from ever being installed into your app, even while you are building. This network-level security protection eliminates any window for malware to be installed into your project. It's on by default for every builder, with nothing to set up. Since rolling out a week ago, Package Firewall has been blocking around 8,000 packages per day across builders on Replit. Over the course of a year, millions of vulnerable package installs will be blocked, leaving builders and their users safer: “Replit is helping define how the next generation of software gets built, with AI agents working alongside developers to create and ship applications faster. That makes install-time security more important than ever. By partnering with Replit, Socket is enabling builders to move quickly while keeping malicious packages out of the development workflow and stopping supply chain attacks before a single line of malicious code runs.\" — Feross Aboukhadijeh, CEO, Socket How it works When you or the Agent run an install command like npm install or pip install to install a new dependency, the request passes through Package Firewall. If the package is clean, the install runs as usual and you won't notice a thing. If Socket has flagged the package as malicious or compromised, the install is blocked before any code reaches your environment.",
+  "published_at": "2026-06-09T21:52:19.327+00:00",
+  "first_seen_at": "2026-07-23T23:34:32.089077+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-19T20:16:15.956370+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/06/22/22614fbabd65010d695500aebcd66a58103ca84e578d798e5f7e2de5c1299817/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/06/22/22614fbabd65010d695500aebcd66a58103ca84e578d798e5f7e2de5c1299817/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5032,
+    "sha256": "sha256:beedb2df4c8ed3bf95d0fe7aa9e8b5d5b14236d42a9386907898e28d059904a4",
+    "normalized_content_hash": "sha256:bb7df0ae973fbb273f283c32b9fcd0e4e1ba3ea9fbe452b2de6fca16fbd59252"
+  },
+  "provenance": {
+    "source_item_id": "db04b556-df63-4241-b7ae-223569a09ab1",
+    "external_id": "https://replit.com/blog/package-firewall"
+  }
+}

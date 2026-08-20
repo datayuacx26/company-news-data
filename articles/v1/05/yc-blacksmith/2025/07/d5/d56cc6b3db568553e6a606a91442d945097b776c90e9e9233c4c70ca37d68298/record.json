@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d56cc6b3db568553e6a606a91442d945097b776c90e9e9233c4c70ca37d68298",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/cache",
+    "canonical": "https://www.blacksmith.sh/blog/cache"
+  },
+  "title": "Reverse engineering GitHub Actions cache to make it fast",
+  "summary": "We reverse engineered GitHub Actions cache internals to transparently route cache requests through our faster, colocated cache. This delivered up to 10x faster cache performance for some of our customers, with no code changes required and no need to maintain forks of upstream actions.",
+  "published_at": "2025-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/07/d5/d56cc6b3db568553e6a606a91442d945097b776c90e9e9233c4c70ca37d68298/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/07/d5/d56cc6b3db568553e6a606a91442d945097b776c90e9e9233c4c70ca37d68298/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10282,
+    "sha256": "sha256:32403bfc61b9282015669bad239156c5a3cd890cac2064b36b2f10a660349743",
+    "normalized_content_hash": "sha256:b0a4c82195e7338c0935396665324f794bd9aefa39a9f8be96ab6c6510e99490"
+  },
+  "provenance": {
+    "source_item_id": "b7251147-a81f-4a2d-a135-4da2f02ac2e0",
+    "external_id": "https://www.blacksmith.sh/blog/cache"
+  }
+}

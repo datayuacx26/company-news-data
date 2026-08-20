@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "368e11af96eb2de62f25cff8463e6632ed057f96736146cf821c195315cfbce8",
+  "company": {
+    "key": "yc-cyble",
+    "name": "Cyble"
+  },
+  "source": {
+    "id": "yc-cyble-rss-726d4f5fb2f2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://cyble.com/blog/72-hour-timeline-credential-based-cyberattack/",
+    "canonical": "https://cyble.com/blog/72-hour-timeline-credential-based-cyberattack/"
+  },
+  "title": "From Stolen Credentials to Full Breach: The 72-Hour Timeline",
+  "summary": "Follow the 72-hour Timeline of a credential attack, from stolen passwords and initial access to lateral movement, data theft, and breach response.",
+  "published_at": "2026-08-05T14:26:05+00:00",
+  "first_seen_at": "2026-08-05T15:21:06.723044+00:00",
+  "fetched_at": "2026-08-05T15:21:08.363401+00:00",
+  "last_updated_at": "2026-08-20T03:00:02.152931+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-cyble/2026/08/36/368e11af96eb2de62f25cff8463e6632ed057f96736146cf821c195315cfbce8/article.md",
+    "record": "articles/v1/2d/yc-cyble/2026/08/36/368e11af96eb2de62f25cff8463e6632ed057f96736146cf821c195315cfbce8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11385,
+    "sha256": "sha256:8b7e0b3ddfc702118b68c2ba30c9d46306ecbda2d44e4f9a64f0d48fe0c700e9",
+    "normalized_content_hash": "sha256:264ffcd3181d2f4c683b2cf946cad96750c0ca592bd2ab8466ce9d6d9b54d5f7"
+  },
+  "provenance": {
+    "source_item_id": "fd31de33-56fd-41fb-9d9d-778938de2746",
+    "external_id": "https://cyble.com/?p=122986"
+  }
+}

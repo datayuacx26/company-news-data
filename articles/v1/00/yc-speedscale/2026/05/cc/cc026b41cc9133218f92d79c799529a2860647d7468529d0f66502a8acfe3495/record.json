@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc026b41cc9133218f92d79c799529a2860647d7468529d0f66502a8acfe3495",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/traffic-context-confirmed-fix-3-minutes/",
+    "canonical": "https://speedscale.com/blog/traffic-context-confirmed-fix-3-minutes/"
+  },
+  "title": "From Traffic Context to Confirmed Fix in 3 Minutes",
+  "summary": "Traffic Context is the missing piece in most debugging workflows. We ran our autonomous agent on a real production bug — it found the root cause, wrote a reproduce harness, applied the fix, and confirmed it. Here's what that looked like.",
+  "published_at": "2026-05-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:13:05.421454+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/05/cc/cc026b41cc9133218f92d79c799529a2860647d7468529d0f66502a8acfe3495/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/05/cc/cc026b41cc9133218f92d79c799529a2860647d7468529d0f66502a8acfe3495/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8333,
+    "sha256": "sha256:c4862323eca846c482bfe0a4c7ca4334547d01e900bf493961daa747ff879e48",
+    "normalized_content_hash": "sha256:81b1a7c7fb2c6292793ab885b6c4d5aa3334d4aff01485f9914ad4b42bdecfe8"
+  },
+  "provenance": {
+    "source_item_id": "9387b005-d653-44a8-8781-2d71c7cbcea0",
+    "external_id": "https://speedscale.com/blog/traffic-context-confirmed-fix-3-minutes/"
+  }
+}

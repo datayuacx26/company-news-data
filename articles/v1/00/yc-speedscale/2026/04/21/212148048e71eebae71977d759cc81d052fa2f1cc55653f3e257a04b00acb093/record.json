@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "212148048e71eebae71977d759cc81d052fa2f1cc55653f3e257a04b00acb093",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/byoc-autonomous-agents-sovereign-ai-factory/",
+    "canonical": "https://speedscale.com/blog/byoc-autonomous-agents-sovereign-ai-factory/"
+  },
+  "title": "Why Autonomous AI Agents Can't Run on SaaS Infrastructure",
+  "summary": "SaaS AI fails when agents need continuous access to your codebase and internal APIs. Here's why BYOC is the only deployment model that works at scale.",
+  "published_at": "2026-04-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/04/21/212148048e71eebae71977d759cc81d052fa2f1cc55653f3e257a04b00acb093/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/04/21/212148048e71eebae71977d759cc81d052fa2f1cc55653f3e257a04b00acb093/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9813,
+    "sha256": "sha256:747eac4a61f063d81055820f8cdf1fe887caba75cb0978e8713d6d4614f067bb",
+    "normalized_content_hash": "sha256:ea452fda1459d73c92247d651c47f925f56b30c109aaaf3e44fd56d6fbd0d9f8"
+  },
+  "provenance": {
+    "source_item_id": "5e114097-08d5-41c5-8e96-e6ba88a4cef6",
+    "external_id": "https://speedscale.com/blog/byoc-autonomous-agents-sovereign-ai-factory/"
+  }
+}

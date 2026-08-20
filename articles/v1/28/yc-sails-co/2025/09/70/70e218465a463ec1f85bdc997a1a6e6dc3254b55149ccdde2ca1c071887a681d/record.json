@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "70e218465a463ec1f85bdc997a1a6e6dc3254b55149ccdde2ca1c071887a681d",
+  "company": {
+    "key": "yc-sails-co",
+    "name": "Sails Co."
+  },
+  "source": {
+    "id": "yc-sails-co-rss-a888f7fb03bc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.sailscasts.com/sails-disk-transactions/",
+    "canonical": "https://blog.sailscasts.com/sails-disk-transactions/"
+  },
+  "title": "How I Implemented Transactions in sails-disk (Without Native DB Support)",
+  "summary": "sails-disk doesn’t support native transactions, so I built a snapshot-based system that adds commit/rollback capabilities. Here’s how I designed, implemented, and tested transaction support in a file-based adapter for Sails.js.",
+  "published_at": "2025-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:05:07.405322+00:00",
+  "fetched_at": "2026-07-28T20:56:00.447075+00:00",
+  "last_updated_at": "2026-08-20T00:44:19.732721+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-sails-co/2025/09/70/70e218465a463ec1f85bdc997a1a6e6dc3254b55149ccdde2ca1c071887a681d/article.md",
+    "record": "articles/v1/28/yc-sails-co/2025/09/70/70e218465a463ec1f85bdc997a1a6e6dc3254b55149ccdde2ca1c071887a681d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9101,
+    "sha256": "sha256:d4f6a032029c7be563128ce04fe8c38dd07d09b00b9ab044da7871674eded7ec",
+    "normalized_content_hash": "sha256:bf18ce1f4b9b1f3fd9d3605bc452f908e8c1c50e82bfa63392a6efed577c280b"
+  },
+  "provenance": {
+    "source_item_id": "3d960b8b-9203-4007-a7a6-6a5a27dddf32",
+    "external_id": "https://blog.sailscasts.com/sails-disk-transactions/"
+  }
+}

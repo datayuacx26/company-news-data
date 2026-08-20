@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-kater-ai",
+    "name": "kater.ai"
+  },
+  "record_count": 5,
+  "first_published_at": "2024-01-03T00:00:00+00:00",
+  "last_published_at": "2024-09-23T18:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/36/yc-kater-ai/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 4674,
+        "sha256": "sha256:d3e3c56d0230841a668e858ba50cc89a2da9b8954fb2a347608db64840ccf100",
+        "newest_at": "2024-09-23T18:00:00+00:00",
+        "oldest_at": "2024-01-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

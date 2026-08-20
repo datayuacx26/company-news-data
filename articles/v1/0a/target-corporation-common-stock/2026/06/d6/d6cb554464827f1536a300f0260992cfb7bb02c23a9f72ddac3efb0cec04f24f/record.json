@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6cb554464827f1536a300f0260992cfb7bb02c23a9f72ddac3efb0cec04f24f",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/06/target-loveshackfancy-back-to-school-collection",
+    "canonical": "https://corporate.target.com/news-features/article/2026/06/target-loveshackfancy-back-to-school-collection"
+  },
+  "title": "LoveShackFancy x Target Brings Stylish Finds to the Back-to-School Season, Most Items Under $25",
+  "summary": "Shop the LoveShackFancy x Target collection launching July 5. Discover stylish apparel, accessories, beauty and school supplies for tweens and teens, with most items under $25.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/06/d6/d6cb554464827f1536a300f0260992cfb7bb02c23a9f72ddac3efb0cec04f24f/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/06/d6/d6cb554464827f1536a300f0260992cfb7bb02c23a9f72ddac3efb0cec04f24f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5578,
+    "sha256": "sha256:34b9f6f97b58c93d3f9bcd241267039cf678a0ce3042350c705c640c33256fc7",
+    "normalized_content_hash": "sha256:96c024da3550bd694f5bd010a6a496b9f9ecbe7cdd7ae99cd4b62d0f599f72c9"
+  },
+  "provenance": {
+    "source_item_id": "e3f23169-b0c6-469b-acfe-015cad41e15d",
+    "external_id": "https://corporate.target.com/news-features/article/2026/06/target-loveshackfancy-back-to-school-collection"
+  }
+}

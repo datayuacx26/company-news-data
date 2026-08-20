@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e495746b3e0a651b88d1adac57bad379e3d2c932c7e3e955447607a9b03e3226",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/context-propagation-in-distributed-tracing",
+    "canonical": "https://signoz.io/blog/context-propagation-in-distributed-tracing"
+  },
+  "title": "What is Context Propagation in Distributed Tracing?",
+  "summary": "Context propagation in distributed tracing: what it is, why traces need it to span services, and how trace context flows across service boundaries.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.135697+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/e4/e495746b3e0a651b88d1adac57bad379e3d2c932c7e3e955447607a9b03e3226/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/e4/e495746b3e0a651b88d1adac57bad379e3d2c932c7e3e955447607a9b03e3226/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10008,
+    "sha256": "sha256:950c200f56127d758be7d02870821fb2b7ae971a98a5820c1f10ed5298ee8e14",
+    "normalized_content_hash": "sha256:87bccf2319fe9161eddbe591f8e4341f628efad967a87c36c8ebe5c871487443"
+  },
+  "provenance": {
+    "source_item_id": "8ea8aa4f-b65c-4b39-b351-a9a9dadc5ee2",
+    "external_id": "https://signoz.io/blog/context-propagation-in-distributed-tracing"
+  }
+}

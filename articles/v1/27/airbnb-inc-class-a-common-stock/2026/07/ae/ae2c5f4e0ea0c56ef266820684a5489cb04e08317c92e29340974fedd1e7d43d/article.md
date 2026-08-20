@@ -1,0 +1,181 @@
+---
+schema_version: "1.0.0"
+document_id: "ae2c5f4e0ea0c56ef266820684a5489cb04e08317c92e29340974fedd1e7d43d"
+company_key: "airbnb-inc-class-a-common-stock"
+company: "Airbnb Inc."
+source_id: "airbnb-inc-class-a-common-stock-rss-af0970d10a00"
+canonical_url: "https://airbnb.tech/ai-ml/from-weeks-to-a-day-how-we-made-llm-evaluation-fast-enough-to-iterate-on/"
+published_at: "2026-07-27T18:57:46+00:00"
+first_seen_at: "2026-07-27T20:07:31.697617+00:00"
+fetched_at: "2026-07-28T21:47:36.059629+00:00"
+content_hash: "sha256:3ec0ab28db4cb2dbfc9030c86366b7f158e0252ac75e2ee4e3eccf1609bf69ae"
+---
+
+# From weeks to a day: how we made LLM evaluation fast enough to iterate on
+
+**By** :[Baharak Saberidokht](https://www.linkedin.com/in/bahars/)
+
+
+## Introduction
+
+
+Shipping a production LLM system means iterating fast on improvements to something that is, by construction, non-deterministic. Models drift, judges disagree with themselves, references regenerate as different strings, and bugs may persist until the next release, because retraining takes weeks. Most of this friction comes from infrastructure challenges, not model quality, and the fixes come from classical software engineering techniques.
+
+
+At Airbnb, we built reliable LLM infrastructure by addressing four layers. Three correspond to engineering enhancements we’ve made; the fourth is the integration layer that ties the rest together — the one that is easiest to overlook, because each individual component looks fine in isolation. The approach rests on two observations: the seams are where things break, and finding those breaks requires exercising the full path, not just validating each component in isolation.
+
+
+Figure 1. *The four layers of the production LLM stack. Bounded model mutation requires trustworthy measurement, and end-to-end validation requires the eval foundation to be fast enough to run on the combined path.*
+
+
+## Layer 1: Name it before trying to remove it
+
+
+Layer 1 is diagnostic framing of evaluation noise. This layer addresses two different sources of indeterminacy: data and judging uncertainty.
+
+
+Classical ML metrics are deterministic: F1, BLEU, and accuracy return the same number on the same input. With LLMs in the evaluation loop, that assumption dies. Judges score identical inputs differently across runs, and LLM-generated references regenerate as different strings.
+
+
+A two percent score movement can mean the model improved, the judge drifted, the references shifted, or some combination. We cannot tell which without naming which kind of noise we are looking at.
+
+
+The question is not only, “Which average is higher?,” but “Where do the systems differ, and are those differences meaningful, stable, and product-relevant?” Meaningful, as we use it, means surviving perturbation: the conclusion holds when we rotate judges, version metrics, and re-stratify samples. Formal significance testing is a complement, not the whole answer; a difference that passes a t-test but flips under judge swap isn’t a difference worth shipping on.
+
+
+We use the frame of **dual indeterminacy** : noise in LLM evaluation has two potential sources, each requiring separate diagnoses & fixes.[Abbasi Yadkori et al](https://openreview.net/pdf?id=k6iyUfwdI9) formalizes this separation, showing that epistemic uncertainty (model/judge limits) and aleatoric uncertainty (task ambiguity) require different detection strategies, and that conflating them produces wrong conclusions. Specifically, methods that fail to separate them misclassify high-entropy responses as hallucinations.[Ling et al. (2024)](https://arxiv.org/pdf/2402.10189) extends this to the in-context learning, demonstrating that epistemic uncertainty is the more actionable signal, while aleatoric uncertainty reflects properties no judge improvement resolves.
+
+
+In practice, the two kinds of uncertainty can appear together. A generated answer may depend on missing user preferences (aleatoric) while the judge lacks domain knowledge to verify it (epistemic). Some judge disagreements are fixable; others reflect properties of the task.
+
+
+In our setting, roughly three-quarters of LLM-generated references differ across labeling runs on identical inputs, and the same judge drifts about one percent across runs on the same dataset. When the real signal is one to three percent, much of what we observe is noise — and not the kind more samples will resolve.
+
+
+Naming the sources isn’t enough; we need to tell them apart in a given experiment. That requires judge outputs stable across runs on identical inputs. Layer 2 makes that possible.
+
+
+## Layer 2: A deterministic evaluation foundation
+
+
+The instinctive responses to a noisy judge are probabilistic: sample and majority-vote, or model the noise Bayesian-style. Both fall short. Majority voting converges toward the judge’s central tendency, not toward accuracy. Bayesian methods need a centralized store for priors and per-sample posteriors across runs; effectively the same infrastructure as a per-sample cache, but without the reproducibility you get for free by caching.
+
+
+Repeated sampling is effective at identifying examples where judges’ scores vary significantly (judge-sensitive examples). For instance, a stable case shows low variation (e.g., \[0.78, 0.80, 0.79, 0.81, 0.78\]), while an unstable case shows high variation (e.g., \[0.45, 0.83, 0.52, 0.88, 0.60\]). However, applying this method broadly is resource-prohibitive because the evaluation resource burden scales quickly with the number of examples, systems, and judges.
+
+
+The simpler move is to stabilize the inputs to the judge rather than model around its instability. When we instrumented the workload, more than half of model outputs across candidates were identical strings. So most experimental changes only affect a subset of inputs, and candidates sharing a base model diverge only on contested examples. Most reference outputs would also have matched had we not regenerated them. The noise we experienced was largely generated by the testing process itself.
+
+
+We built a per-sample cache on both axes:
+
+
+- **References** : Keyed by sample identifier (eg text or more) and reference-generation configuration.
+- **Judge scores** : Keyed by sample, model output, judge configuration, and metric.
+
+
+Identical inputs return cached results. Evaluation becomes deterministic, more efficient, and comparable across runs, which is exactly what Layer 1 needs to diagnose whether a disagreement is epistemic or aleatoric.
+
+
+Keying at the experiment level (not the infrastructure level) also makes partial progress durable: a job failing at example 8,000 will resume from the cache. Each new candidate and metric runs against existing cached outputs for free. Reproducibility at this stage is not a convenience; it is a precondition for the next layer.
+
+
+## Layer 3: bounded, scoped model mutation
+
+
+Once evaluation is deterministic and fast, the bottleneck shifts from “Can we measure whether this change is an improvement?” to “Can we make a small change quickly?” Full adapter retraining is the wrong tool because it is neither quick nor safe. A LoRA adapter is a small set of extra weights trained on top of a frozen base model; its *rank* sets how much capacity it adds, with higher ranks learning more but costing more to train. On an 8-billion-parameter base model, training a high-rank adapter (a few hundred in LoRA terms) takes days, and every weight change risks regressing inputs that were already working.
+
+
+The research gives us both the justification and the warning.[Meng et al. (NeurIPS 2022)](https://arxiv.org/pdf/2202.05262) shows factual behavior in transformers is partially localized; targeted weight updates to specific MLP modules can succeed without disturbing unrelated behavior.[Cohen et al. (TACL 2024)](https://arxiv.org/pdf/2307.12976) shows the limits: even precise edits produce ripple effects on logically related knowledge.[Pletenev et al. (2025)](https://aclanthology.org/2025.findings-naacl.243/) puts a practical boundary on it; LoRA adapters can absorb targeted corrections reliably up to a few hundred examples, beyond which reasoning degrades and the model becomes overconfident in hard-to-detect ways.
+
+
+Our solution is the **micro adapter** : a small LoRA patch — rank less than 50, well below the few-hundred range used for full retraining — layered on top of an existing shared adapter without modifying its weights. The patched adapter learns only the minimal correction for a specific bug, trains in under an hour on one GPU, and ships as a software hotfix would: scoped to one issue, validated behind two gates (no regression on expert-reviewed domains; high-uncertainty outputs flagged for human review), canary-deployed with automatic rollback. The loop runs under a same-day turnaround.
+
+
+Each micro adapter is self-contained in isolation, but stacked patches interact: a direct case of the rule in[Sculley et al. ( 2015)](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) rule, captured in the acronym CACE (changing anything changes everything). Three lifecycle rules keep the stack from drifting:
+
+
+- **Fuse co-triggering patches.** Patches firing on overlapping inputs share relational neighborhoods; learnable fusion resolves the subspace interference that naive stacking creates ([Gao et al., 2024](https://dl.acm.org/doi/abs/10.1016/j.knosys.2024.112043) ).
+- **Retrain on accumulation.** When the number of patches against one category approaches the empirical ceiling given in[Pletenev et al.](https://aclanthology.org/2025.findings-naacl.243/) , fold the patches into a clean retrain.
+- **Unload unused patches.** Every loaded patch needs revalidation when upstream changes. Patches not triggered in a defined window are unloaded automatically.
+
+
+This layer only works because Layer 2 exists. Without deterministic evaluation, the same-day turnaround collapses; there is no time to validate behind two gates if validation itself takes a day.
+
+
+## Layer 4: end-to-end validation at the seams
+
+
+This final layer is the layer that is easiest to overlook, because each of the individual components upstream is likely to look fine. We had validated language detection, preprocessing, the modeling layer, and the serving path. Yet the combined production behavior was still capable of surprising us, because none of the component-level checks exercised the full path under realistic conditions.
+
+
+***Component-level confidence creates false assurance at the seams.*** This is a known failure mode of ML-enabled systems.[Kästner et al. (2021)](https://arxiv.org/pdf/2105.06449) argues that ML components resist the compositional reasoning that makes traditional software testable. They carry no formal specifications, so their interactions at the seams can only be observed empirically.[Sculley et al. (NeurIPS 2015)](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) identifies the same structural problem through the CACE principle: in ML pipelines, components are entangled in ways that make isolated validation insufficient. Validating each part does not remove the need to validate the whole.
+
+
+**The fix is unexotic:** a small set of representative inputs are run through the entire production path, with quality and tail-latency measured on the combined configuration. This is done using the same eval framework that powers Layers 2 and 3, so deterministic measurement applies end-to-end. Selecting truly “representative” inputs is what matters, and this is best performed by combining traffic-weighted sampling with deliberate over-representation of the tail — the locales, input modalities, and historically incident-prone patterns that individual component tests most often miss.
+
+
+We stratify across the highest-volume traffic segments, include the long tail of locales and input modalities where component coverage is weakest, and explicitly seed the set with regression cases from prior incidents. The set is small enough to run efficiently on every release candidate, and broad enough that bugs which occur at the seams surface before deployment. These bugs include language detection misclassifying a code-mixed input, preprocessing truncating a field the model relied on, and latency spikes from cache-warmth interactions.
+
+
+When the foundation is strong enough, an end-to-end pass is not a separate project; it is one more invocation of infrastructure that you already trust.
+
+
+## Conclusion
+
+
+The four layers are a dependency stack, not a checklist. Deterministic evaluation makes same-day fixes possible. Same-day fixes make micro-adapter discipline tractable. End-to-end validation only means something when the measurement underneath it is trustworthy. Remove any one layer and the others degrade.
+
+
+The deeper lesson is about where the leverage actually is. The field’s instinct (and our own, early on) is to reach for model improvements when systems feel unreliable. But the debt accumulates at the seams, not in the components.
+
+
+LLM pipelines are not categorically different from the ML pipelines described a decade ago in[Sculley et al](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) . They are pipelines with a nondeterministic component in the middle, which makes the seams harder to reason about, but all the more important to test.
+
+
+The novelty in the field is real. The leverage is still in the boring, well-understood patterns of systems engineering, applied with judgment to where the new failure modes actually live.
+
+
+If this type of work interests you, check out some of our[open roles](https://careers.airbnb.com/) .
+
+
+## References
+
+
+Abbasi Yadkori, Y., Kuzborskij, I., György, A., & Szepesvári, C. (2024). *To Believe or Not to Believe Your LLM: Iterative Prompting for Estimating Epistemic Uncertainty* . NeurIPS 2024.[https://openreview.net/pdf?id=k6iyUfwdI9](https://openreview.net/pdf?id=k6iyUfwdI9)
+
+
+Hu, E., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W. (2022). *LoRA: Low-Rank Adaptation of Large Language Models* . ICLR 2022.[https://arxiv.org/abs/2106.09685](https://arxiv.org/abs/2106.09685)
+
+
+Ling, C., Zhao, X., Zhang, X., Cheng, W., Liu, Y., Sun, Y., … & Chen, H. (2024). *Uncertainty Quantification for In-Context Learning of Large Language Models* .[https://arxiv.org/pdf/2402.10189](https://arxiv.org/pdf/2402.10189)
+
+
+Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D., Chaudhary, V., Young, M., Crespo, J., & Dennison, D. (2015). *Hidden Technical Debt in Machine Learning Systems* . NeurIPS 2015.[https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+
+
+Liu, Y., et al. (2024). *FashionGPT: LLM instruction fine-tuning with multiple LoRA-adapter fusion* . Knowledge-Based Systems, Vol 299.[https://doi.org/10.1016/j.knosys.2024.112043](https://doi.org/10.1016/j.knosys.2024.112043)
+
+
+Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2022). *Locating and Editing Factual Associations in GPT* . NeurIPS 2022.[https://arxiv.org/abs/2202.05262](https://arxiv.org/abs/2202.05262)
+
+
+Cohen, R., Biran, E., Yoran, O., Globerson, A., & Geva, M. (2024). *Evaluating the Ripple Effects of Knowledge Editing in Language Models* . TACL 2024.[https://arxiv.org/abs/2307.12976](https://arxiv.org/abs/2307.12976)
+
+
+Kästner, C., Kang, E., & Apel, S. (2021). *Feature Interactions on Steroids: On the Composition of ML Models* . arXiv:2105.06449.[https://arxiv.org/pdf/2105.06449](https://arxiv.org/pdf/2105.06449)
+
+
+Pletenev, S., Marina, M., Moskovskiy, D., Konovalov, V., Braslavski, P., Panchenko, A., & Salnikov, M. (2025). *How much knowledge can you pack into a LoRA adapter without harming LLM* . Association for Computational Linguistics.[https://doi.org/10.18653/v1/2025.findings-naacl.243](https://doi.org/10.18653/v1/2025.findings-naacl.243)
+
+
+## Acknowledgments
+
+
+I am grateful to the colleagues and reviewers who shaped this work through technical discussions, infrastructure support, and feedback.
+
+
+Special thanks to Yashar Mehdad, Nikolaj Nielsen, Haotian Li, Richa Khandelwal, Dan Miller, Jisheng Liang, Julie Xiang, and Atul Kale for their guidance and support at different stages. I’m also grateful to Yi Li for the support and review that helped bring this work forward. I also appreciate the broader ML and infrastructure teams for the discussions that helped refine the ideas in this article.
+
+
+*All product names, logos, and brands are property of their respective owners. All company, product, and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.*

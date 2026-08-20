@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f85f4eb074d0629fdf8d540b6620378ec462d6e46685f9ef8c78f5fbbffa0248",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-azure-monitor-metrics",
+    "canonical": "https://signoz.io/blog/opentelemetry-azure-monitor-metrics"
+  },
+  "title": "How to export Azure Monitor Metrics using OpenTelemetry to SigNoz",
+  "summary": "Collect Azure Monitor metrics with the OpenTelemetry Collector and export them to any OTLP-compatible backend.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/f8/f85f4eb074d0629fdf8d540b6620378ec462d6e46685f9ef8c78f5fbbffa0248/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/f8/f85f4eb074d0629fdf8d540b6620378ec462d6e46685f9ef8c78f5fbbffa0248/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15159,
+    "sha256": "sha256:16065c11ea84e70797285c8886175fa4ccf3c89e8b8fbd01a545ba6588329a6d",
+    "normalized_content_hash": "sha256:c88ab1ab86a855bdb8164c570868350a9f1d84029ac5045df4e5142b0b367767"
+  },
+  "provenance": {
+    "source_item_id": "ebd9a420-1266-47bb-b60f-39d85b19d9bb",
+    "external_id": "https://signoz.io/blog/opentelemetry-azure-monitor-metrics"
+  }
+}

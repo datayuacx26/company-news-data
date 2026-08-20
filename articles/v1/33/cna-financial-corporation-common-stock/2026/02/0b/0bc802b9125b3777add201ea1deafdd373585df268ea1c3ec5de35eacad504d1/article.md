@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "0bc802b9125b3777add201ea1deafdd373585df268ea1c3ec5de35eacad504d1"
+company_key: "cna-financial-corporation-common-stock"
+company: "CNA Financial Corporation"
+source_id: "cna-financial-corporation-common-stock-rss-95c273fe18f3"
+canonical_url: "https://investor-relations.cna.com/news/news-details/2026/CNA-FINANCIAL-ANNOUNCES-Q4-2025-NET-INCOME-OF-1-11-PER-SHARE-AND-CORE-INCOME-OF-1-16-PER-SHARE-FULL-YEAR-2025-NET-INCOME-OF-4-69-PER-SHARE-AND-CORE-INCOME-OF-4-93-PER-SHARE-REGULAR-QUARTERLY-DIVIDEND-INCREASED-4-TO-0-48-PER-SHARE-SPECIAL-DIVIDEND-OF-/default.aspx"
+published_at: "2026-02-09T11:00:00+00:00"
+first_seen_at: "2026-07-27T01:03:33.701437+00:00"
+fetched_at: "2026-08-20T02:09:38.141133+00:00"
+content_hash: "sha256:c4dfd50815fbe3feec4b3c9ae901b5a82700c9ff1496c0edadaa262d613f4c93"
+---
+
+# CNA FINANCIAL ANNOUNCES Q4 2025 NET INCOME OF $1.11 PER SHARE AND CORE INCOME OF $1.16 PER SHARE FULL YEAR 2025 NET INCOME OF $4.69 PER SHARE AND CORE INCOME OF $4.93 PER SHARE REGULAR QUARTERLY DIVIDEND INCREASED 4% TO $0.48 PER SHARE SPECIAL DIVIDEND OF $2.00 PER SHARE
+
+

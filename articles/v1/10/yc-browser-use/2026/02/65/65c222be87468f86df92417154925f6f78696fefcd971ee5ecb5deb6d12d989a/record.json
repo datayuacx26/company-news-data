@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65c222be87468f86df92417154925f6f78696fefcd971ee5ecb5deb6d12d989a",
+  "company": {
+    "key": "yc-browser-use",
+    "name": "Browser Use"
+  },
+  "source": {
+    "id": "yc-browser-use-news-import-3219c37ba697",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://browser-use.com/posts/our-browser-agent-evaluation-system",
+    "canonical": "https://browser-use.com/posts/our-browser-agent-evaluation-system"
+  },
+  "title": "How we built scalable evaluation infrastructure for AI web agents",
+  "summary": "A deep dive into our highly scalable LLM-as-a-judge evaluation platform that solves web agent variance.",
+  "published_at": "2026-02-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:46:29.258885+00:00",
+  "fetched_at": "2026-07-28T22:03:45.188546+00:00",
+  "last_updated_at": "2026-07-28T22:04:14.060558+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-browser-use/2026/02/65/65c222be87468f86df92417154925f6f78696fefcd971ee5ecb5deb6d12d989a/article.md",
+    "record": "articles/v1/10/yc-browser-use/2026/02/65/65c222be87468f86df92417154925f6f78696fefcd971ee5ecb5deb6d12d989a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8187,
+    "sha256": "sha256:b5b1a1b5ea8149ed4c0091af9bc44a054aff5b64551f682a57a62671f4f3988f",
+    "normalized_content_hash": "sha256:9475079615f6f6eb8b5f45163548845e31af4ee01fd77a6f695658e1db9f2c7a"
+  },
+  "provenance": {
+    "source_item_id": "532c7031-7856-407a-85a3-44d5add6f507",
+    "external_id": "https://browser-use.com/posts/our-browser-agent-evaluation-system"
+  }
+}

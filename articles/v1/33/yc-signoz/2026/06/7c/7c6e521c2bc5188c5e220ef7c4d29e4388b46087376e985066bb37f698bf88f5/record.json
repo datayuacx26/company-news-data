@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c6e521c2bc5188c5e220ef7c4d29e4388b46087376e985066bb37f698bf88f5",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/jaeger-vs-opentracing",
+    "canonical": "https://signoz.io/blog/jaeger-vs-opentracing"
+  },
+  "title": "Jaeger and OpenTracing - Key concepts, use-cases and alternatives",
+  "summary": "Jaeger vs OpenTracing in 2026: why OpenTracing is now deprecated in favor of OpenTelemetry, and how Jaeger fits. Plus where SigNoz fits.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.240562+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/7c/7c6e521c2bc5188c5e220ef7c4d29e4388b46087376e985066bb37f698bf88f5/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/7c/7c6e521c2bc5188c5e220ef7c4d29e4388b46087376e985066bb37f698bf88f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9691,
+    "sha256": "sha256:ca573e4349f2e60486ee72095f546e3a78b81a1535dcca2747df073e0e1d42e7",
+    "normalized_content_hash": "sha256:4266356d880533dc2f8fd2423bd4391a16aff00f4c6edfa59c2121728d304485"
+  },
+  "provenance": {
+    "source_item_id": "69c38773-49b3-4413-b902-0d19e6277ea1",
+    "external_id": "https://signoz.io/blog/jaeger-vs-opentracing"
+  }
+}

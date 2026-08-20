@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e6fbe55723a0ac2d7c261801def6d85d21be59218db18c4a1e86c5f8efc48ea",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/morgan-logger",
+    "canonical": "https://signoz.io/blog/morgan-logger"
+  },
+  "title": "Morgan Logger: Node.js HTTP Logging Guide",
+  "summary": "Learn Morgan logger for Node.js HTTP request logging, formats, tokens, Express setup, and monitoring with SigNoz.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:49.297200+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/7e/7e6fbe55723a0ac2d7c261801def6d85d21be59218db18c4a1e86c5f8efc48ea/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/7e/7e6fbe55723a0ac2d7c261801def6d85d21be59218db18c4a1e86c5f8efc48ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17905,
+    "sha256": "sha256:87c8cc42db7f43cd67b5716cbcdf1e4c0f9cf9a0b7d9656e2e055faeb3df5b7e",
+    "normalized_content_hash": "sha256:57f86559174e844b342912f689a08c6ab8b6a21f1f0585d456b869fabf8cf23b"
+  },
+  "provenance": {
+    "source_item_id": "7fad0dd2-93f5-4ed7-b28f-6e812065e266",
+    "external_id": "https://signoz.io/blog/morgan-logger"
+  }
+}

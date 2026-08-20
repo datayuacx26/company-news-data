@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccc10a2677bd5623791ecc2fae57cfdb8c976aa0389a2ccc8f5378271cd43ba8",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/cascading-failures-arent-inevitable-lessons-from-the-aws-dns-outage/",
+    "canonical": "https://speedscale.com/blog/cascading-failures-arent-inevitable-lessons-from-the-aws-dns-outage/"
+  },
+  "title": "Cascading Failures Aren’t Inevitable: Lessons from the AWS DNS Outage",
+  "summary": "The AWS DNS outage exposed the risk of cascading failures. Learn how to prevent a single DNS failure from taking down your system by mapping service.",
+  "published_at": "2025-11-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2025/11/cc/ccc10a2677bd5623791ecc2fae57cfdb8c976aa0389a2ccc8f5378271cd43ba8/article.md",
+    "record": "articles/v1/00/yc-speedscale/2025/11/cc/ccc10a2677bd5623791ecc2fae57cfdb8c976aa0389a2ccc8f5378271cd43ba8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7324,
+    "sha256": "sha256:b071bbbc374b5dc55dbd03f983c5a93ec0ef64d9ce88138da9ba63451ce2cda9",
+    "normalized_content_hash": "sha256:cca4884a13cfd9a4b66f5d8c09589eca5a7a893964bd07a29f68090563654e18"
+  },
+  "provenance": {
+    "source_item_id": "949bfd27-95e5-4134-a14f-12198112ce50",
+    "external_id": "https://speedscale.com/blog/cascading-failures-arent-inevitable-lessons-from-the-aws-dns-outage/"
+  }
+}

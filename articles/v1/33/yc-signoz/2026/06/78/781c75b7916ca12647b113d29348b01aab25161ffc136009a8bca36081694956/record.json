@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "781c75b7916ca12647b113d29348b01aab25161ffc136009a8bca36081694956",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/fluentd-vs-logstash",
+    "canonical": "https://signoz.io/blog/fluentd-vs-logstash"
+  },
+  "title": "FluentD vs Logstash - Choosing a Log collector for Log Analytics",
+  "summary": "Fluentd vs Logstash in 2026: compare these log collectors, plus modern options like Fluent Bit and the OpenTelemetry Collector, and where SigNoz fits.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.225614+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/78/781c75b7916ca12647b113d29348b01aab25161ffc136009a8bca36081694956/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/78/781c75b7916ca12647b113d29348b01aab25161ffc136009a8bca36081694956/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13267,
+    "sha256": "sha256:3d2cbcabedfb60590da23c7f64c294eed29ea420627815f5948dc603eff0baf6",
+    "normalized_content_hash": "sha256:361d63c0c6a5302ec16b3b2f7d201d7aad30e651d14403fb03a64a354996e75f"
+  },
+  "provenance": {
+    "source_item_id": "77bb4714-d69e-4702-85be-4713b2940b00",
+    "external_id": "https://signoz.io/blog/fluentd-vs-logstash"
+  }
+}

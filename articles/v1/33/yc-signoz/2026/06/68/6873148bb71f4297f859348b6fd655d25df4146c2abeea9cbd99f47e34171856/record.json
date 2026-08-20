@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6873148bb71f4297f859348b6fd655d25df4146c2abeea9cbd99f47e34171856",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/traces-management/guides/pii-scrubbing",
+    "canonical": "https://signoz.io/docs/traces-management/guides/pii-scrubbing"
+  },
+  "title": "Guide to perform PII Scrubbing in Traces using SigNoz",
+  "summary": "Learn how to scrub PII from traces using the OpenTelemetry Collector transform processor. Remove sensitive attributes like IP addresses before they reach SigNoz.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/68/6873148bb71f4297f859348b6fd655d25df4146c2abeea9cbd99f47e34171856/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/68/6873148bb71f4297f859348b6fd655d25df4146c2abeea9cbd99f47e34171856/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 721,
+    "sha256": "sha256:c67800e396cfc04e1e2dca2e5479393174f98e4a06b9dc91166c64dcc4670e01",
+    "normalized_content_hash": "sha256:018f7d693473c0b3574c04ee77095a9ca5832b65d48d23f4facd6bc82b7f7f82"
+  },
+  "provenance": {
+    "source_item_id": "ca911b93-77e8-4fe4-b57f-75b5ef24fc66",
+    "external_id": "https://signoz.io/docs/traces-management/guides/pii-scrubbing"
+  }
+}

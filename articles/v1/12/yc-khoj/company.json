@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-khoj",
+    "name": "Khoj"
+  },
+  "record_count": 15,
+  "first_published_at": "2024-02-28T00:00:00+00:00",
+  "last_published_at": "2025-01-14T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/12/yc-khoj/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 13849,
+        "sha256": "sha256:0075a1e5429b6b5aadb0e9a075a2f6d7aa6b6c5c0e603ca210814d8980504b6e",
+        "newest_at": "2025-01-14T00:00:00+00:00",
+        "oldest_at": "2024-02-28T00:00:00+00:00"
+      }
+    ]
+  }
+}

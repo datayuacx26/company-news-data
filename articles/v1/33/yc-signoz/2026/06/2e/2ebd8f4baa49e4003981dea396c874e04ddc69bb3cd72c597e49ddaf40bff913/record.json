@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ebd8f4baa49e4003981dea396c874e04ddc69bb3cd72c597e49ddaf40bff913",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/logs-management/guides/pii-scrubbing",
+    "canonical": "https://signoz.io/docs/logs-management/guides/pii-scrubbing"
+  },
+  "title": "Guide to perform PII Scrubbing using SigNoz",
+  "summary": "Learn how to scrub PII (Personally Identifiable Information) from logs using OpenTelemetry Collector. This guide shows you how to remove sensitive data like emails, SSNs, and credit card numbers from application logs before they reach SigNoz to ensure GDPR and CCPA compliance.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/2e/2ebd8f4baa49e4003981dea396c874e04ddc69bb3cd72c597e49ddaf40bff913/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/2e/2ebd8f4baa49e4003981dea396c874e04ddc69bb3cd72c597e49ddaf40bff913/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 825,
+    "sha256": "sha256:a9a14a9519139031dc0bc7df62b79ae940bf1003d771a521a9fe1791e3eaf0b7",
+    "normalized_content_hash": "sha256:b17ab9c8175e50c39d91edd0fab0a9e32375cb658e347bc0364dea2880da0964"
+  },
+  "provenance": {
+    "source_item_id": "23d27a19-c22b-4521-8b75-3e8ada255862",
+    "external_id": "https://signoz.io/docs/logs-management/guides/pii-scrubbing"
+  }
+}

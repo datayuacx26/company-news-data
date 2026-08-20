@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31aa27a0e356d3c8bd16015d76d90c1f66288aaf107fcb61f9b909acefef9d92",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/logs-told-me-something-broke-traffic-showed-me-what/",
+    "canonical": "https://speedscale.com/blog/logs-told-me-something-broke-traffic-showed-me-what/"
+  },
+  "title": "Logs told me something broke. Traffic showed me what.",
+  "summary": "Capture production traffic and store it in your own Elasticsearch with Speedscale BYOC. Pull it locally with es-gather.py and reproduce bugs with proxymock.",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:49:52.299135+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/06/31/31aa27a0e356d3c8bd16015d76d90c1f66288aaf107fcb61f9b909acefef9d92/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/06/31/31aa27a0e356d3c8bd16015d76d90c1f66288aaf107fcb61f9b909acefef9d92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5789,
+    "sha256": "sha256:1fa999b45d7c06ab7adbec2c8540d35ccfc046e6dad1f9306761534a757e98fd",
+    "normalized_content_hash": "sha256:785e0654de4ff10521b88db9da1f817fcdf1b976739dc35cdfd0c323ae5ef575"
+  },
+  "provenance": {
+    "source_item_id": "06894915-e54b-41d9-8276-5de18c1ecaae",
+    "external_id": "https://speedscale.com/blog/logs-told-me-something-broke-traffic-showed-me-what/"
+  }
+}

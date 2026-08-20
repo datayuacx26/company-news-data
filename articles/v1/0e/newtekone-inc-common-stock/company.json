@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "newtekone-inc-common-stock",
+    "name": "NewtekOne Inc."
+  },
+  "record_count": 1,
+  "first_published_at": "2026-03-10T22:41:24+00:00",
+  "last_published_at": "2026-03-10T22:41:24+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0e/newtekone-inc-common-stock/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1167,
+        "sha256": "sha256:b872f51797a6f65ae8ae37ed86515030837e28eb904d959055b753de7459dc5c",
+        "newest_at": "2026-03-10T22:41:24+00:00",
+        "oldest_at": "2026-03-10T22:41:24+00:00"
+      }
+    ]
+  }
+}

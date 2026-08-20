@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dded881a9c261e97f6b967f99f3b534ae889b79656ddc856dc9505b0062ac8a8",
+  "company": {
+    "key": "yc-aravolta",
+    "name": "Aravolta"
+  },
+  "source": {
+    "id": "yc-aravolta-news-import-85aed3e09b97",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aravolta.com/blog/why-dcim-needs-to-change",
+    "canonical": "https://www.aravolta.com/blog/why-dcim-needs-to-change"
+  },
+  "title": "Why DCIM Needs to Change",
+  "summary": "Traditional DCIM was built for asset tracking. Modern data centers need integrated power metering, cooling monitoring, tenant billing, and operations in one platform.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:27:31.872668+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:15:32.466690+00:00",
+  "paths": {
+    "article": "articles/v1/39/yc-aravolta/2026/07/dd/dded881a9c261e97f6b967f99f3b534ae889b79656ddc856dc9505b0062ac8a8/article.md",
+    "record": "articles/v1/39/yc-aravolta/2026/07/dd/dded881a9c261e97f6b967f99f3b534ae889b79656ddc856dc9505b0062ac8a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7908,
+    "sha256": "sha256:ad7ce32ee372fdcdcf54593a050a6716d571045a3c39ad57510b21cc74d10a3f",
+    "normalized_content_hash": "sha256:0725a8ffc5bafbbc384a68ff67177daaf9383198fa46d8bf9fd9c7088854cabe"
+  },
+  "provenance": {
+    "source_item_id": "bb0724e6-51df-427d-bd14-c51665c47c4a",
+    "external_id": "https://www.aravolta.com/blog/why-dcim-needs-to-change"
+  }
+}

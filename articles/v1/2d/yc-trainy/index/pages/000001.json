@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+  "page": 1,
+  "record_count": 3,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "5b58393850214c90d4072538261bac8cc35556dd236d5830dce0fc1acd31cc0a",
+      "company_key": "yc-trainy",
+      "company_name": "Trainy",
+      "source_id": "yc-trainy-rss-dacd52d4547a",
+      "source_kind": "rss",
+      "canonical_url": "https://www.trainy.ai/blog/what-neptune-got-right",
+      "title": "What Neptune Got Right (And How to Keep It)",
+      "summary": "Neptune is shutting down on March 5, 2026 (10am PST). For teams that have been using it for years, the real loss isn't just the migration work. It's losing one of the few trackers that stayed fast when projects got big.",
+      "published_at": "2026-02-18T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:19:43.789522+00:00",
+      "article_path": "articles/v1/2d/yc-trainy/2026/02/5b/5b58393850214c90d4072538261bac8cc35556dd236d5830dce0fc1acd31cc0a/article.md",
+      "record_path": "articles/v1/2d/yc-trainy/2026/02/5b/5b58393850214c90d4072538261bac8cc35556dd236d5830dce0fc1acd31cc0a/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "091d2884864e0d43987922be48f59f1b3436c6cfc12046fc0033c8997ebcb860",
+      "company_key": "yc-trainy",
+      "company_name": "Trainy",
+      "source_id": "yc-trainy-rss-dacd52d4547a",
+      "source_kind": "rss",
+      "canonical_url": "https://www.trainy.ai/blog/preflight-checks-gpu-fabric",
+      "title": "Preflight Checks for GPU Fabric before Multi-node Training",
+      "summary": "Given the scale of modern LLMs, having a performant GPU network fabric is one of the most important factors for your training speed.",
+      "published_at": "2025-03-17T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+      "article_path": "articles/v1/2d/yc-trainy/2025/03/09/091d2884864e0d43987922be48f59f1b3436c6cfc12046fc0033c8997ebcb860/article.md",
+      "record_path": "articles/v1/2d/yc-trainy/2025/03/09/091d2884864e0d43987922be48f59f1b3436c6cfc12046fc0033c8997ebcb860/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "c25f4a797ad35bb50e1dc5b5116200b9a22f53adb50619429506921d21eb00f1",
+      "company_key": "yc-trainy",
+      "company_name": "Trainy",
+      "source_id": "yc-trainy-rss-dacd52d4547a",
+      "source_kind": "rss",
+      "canonical_url": "https://www.trainy.ai/blog/gpu-utilization-misleading-metric",
+      "title": "GPU Utilization is a Misleading Metric",
+      "summary": "The most common metric ML teams use to understand GPU usage is GPU Utilization, but it can be misleading — you can hit 100% utilization while doing zero computations. Here's what to track instead.",
+      "published_at": "2025-02-24T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+      "article_path": "articles/v1/2d/yc-trainy/2025/02/c2/c25f4a797ad35bb50e1dc5b5116200b9a22f53adb50619429506921d21eb00f1/article.md",
+      "record_path": "articles/v1/2d/yc-trainy/2025/02/c2/c25f4a797ad35bb50e1dc5b5116200b9a22f53adb50619429506921d21eb00f1/record.json"
+    }
+  ]
+}

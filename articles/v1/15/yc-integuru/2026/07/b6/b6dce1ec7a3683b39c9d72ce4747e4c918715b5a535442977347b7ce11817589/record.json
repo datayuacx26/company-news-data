@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6dce1ec7a3683b39c9d72ce4747e4c918715b5a535442977347b7ce11817589",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/what-is-web-scraping",
+    "canonical": "https://www.integuru.com/blog/what-is-web-scraping"
+  },
+  "title": "What Is Web Scraping? And How It Differs from API Integration",
+  "summary": "Web scraping extracts data by parsing HTML. API integration calls backend endpoints directly. Here is what each approach actually does, where each one breaks, and how to choose between them for production use.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:10:38.353575+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/b6/b6dce1ec7a3683b39c9d72ce4747e4c918715b5a535442977347b7ce11817589/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/b6/b6dce1ec7a3683b39c9d72ce4747e4c918715b5a535442977347b7ce11817589/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12335,
+    "sha256": "sha256:8965e0c610a4521b6c57cd6b97a7829be958773e0839a04e053d9280e8bc44b7",
+    "normalized_content_hash": "sha256:97bd2e5a0a704b86dc0dd55ed475fd9d5fab888ed4d8470d391fbb36206508ed"
+  },
+  "provenance": {
+    "source_item_id": "279f8436-d6a0-4f95-8bb5-c951e797804b",
+    "external_id": "https://www.integuru.com/blog/what-is-web-scraping"
+  }
+}

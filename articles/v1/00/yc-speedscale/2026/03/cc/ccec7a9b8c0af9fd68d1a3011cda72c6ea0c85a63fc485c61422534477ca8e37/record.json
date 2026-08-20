@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccec7a9b8c0af9fd68d1a3011cda72c6ea0c85a63fc485c61422534477ca8e37",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/qabot-fix-flaky-tests-ci/",
+    "canonical": "https://speedscale.com/blog/qabot-fix-flaky-tests-ci/"
+  },
+  "title": "Your Flaky Tests Are a Data Problem, Not a Test Problem",
+  "summary": "Most flaky test fixes focus on retries and quarantine. The real fix is replacing hand-written test data with recorded traffic that stays fresh.",
+  "published_at": "2026-03-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/03/cc/ccec7a9b8c0af9fd68d1a3011cda72c6ea0c85a63fc485c61422534477ca8e37/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/03/cc/ccec7a9b8c0af9fd68d1a3011cda72c6ea0c85a63fc485c61422534477ca8e37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13467,
+    "sha256": "sha256:f062b20f1447b82bd9c4fb46fe19f622e130d6a13e66ea71c1267346a77ebe34",
+    "normalized_content_hash": "sha256:451d176a2c0a69923a180c461315d92a54aa7097f831a1df2813f7c303e74ffb"
+  },
+  "provenance": {
+    "source_item_id": "9e99bf30-0a77-43b9-94b0-007c745847ff",
+    "external_id": "https://speedscale.com/blog/qabot-fix-flaky-tests-ci/"
+  }
+}

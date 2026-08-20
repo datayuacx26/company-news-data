@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e7e5df54078198afb2d0a20baea9e5e1a67ea9c1138693129da44e8c4c4e082",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/what-are-the-4-types-of-metrics-in-prometheus",
+    "canonical": "https://signoz.io/guides/what-are-the-4-types-of-metrics-in-prometheus"
+  },
+  "title": "What are the 4 Types of Metrics in Prometheus - Understanding the Core Metric Types",
+  "summary": "The 4 types of Prometheus metrics explained: counter, gauge, histogram, and summary, when to use each, and how to pick the right one.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-07-28T20:48:00.583130+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/8e/8e7e5df54078198afb2d0a20baea9e5e1a67ea9c1138693129da44e8c4c4e082/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/8e/8e7e5df54078198afb2d0a20baea9e5e1a67ea9c1138693129da44e8c4c4e082/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10017,
+    "sha256": "sha256:8d300fa889939548cc79be7c265ec6ead95e43a3a9d870ec4dc56f0f4c080cb9",
+    "normalized_content_hash": "sha256:c10a425285cc984ff4ec4887f9a4ee1eba02c7d225c9d692c6564fb2f93674e7"
+  },
+  "provenance": {
+    "source_item_id": "269333ad-c213-4121-9ae2-67f453ec4f72",
+    "external_id": "https://signoz.io/guides/what-are-the-4-types-of-metrics-in-prometheus"
+  }
+}

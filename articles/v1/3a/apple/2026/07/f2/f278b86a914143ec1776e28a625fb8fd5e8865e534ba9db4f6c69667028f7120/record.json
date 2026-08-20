@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f278b86a914143ec1776e28a625fb8fd5e8865e534ba9db4f6c69667028f7120",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders",
+    "canonical": "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders"
+  },
+  "title": "One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation",
+  "summary": "Visual generative models (e.g., diffusion models) typically operate in compressed latent spaces to balance training efficiency and sample…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-05T19:34:25.552539+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/f2/f278b86a914143ec1776e28a625fb8fd5e8865e534ba9db4f6c69667028f7120/article.md",
+    "record": "articles/v1/3a/apple/2026/07/f2/f278b86a914143ec1776e28a625fb8fd5e8865e534ba9db4f6c69667028f7120/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2506,
+    "sha256": "sha256:c9c03a298e57aaf61cb2c1d1dadaa6ca8624b142aa335ce709fa95ab44370fa1",
+    "normalized_content_hash": "sha256:f2f58af43f5be45d237f573ed4fa9421cd8db6e2f76ca88e0db65849b8c87f43"
+  },
+  "provenance": {
+    "source_item_id": "e6e7679e-6ca2-4127-97a2-3bf5eef6bcdb",
+    "external_id": "https://machinelearning.apple.com/research/adapting-pretrained-visual-encoders"
+  }
+}

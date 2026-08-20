@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fce052226a401d10d5e149346993ca5eb119daf983aa42a1aa87b9abb073db53",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-144d960cd8f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/blog/ai/the-attribution-gap-ai-regulation/",
+    "canonical": "https://www.okta.com/blog/ai/the-attribution-gap-ai-regulation/"
+  },
+  "title": "The attribution gap: Why every AI regulation leads back to identity and authorization",
+  "summary": "AI agents create an attribution gap for enterprises. Use identity and authorization to trace AI actions back to an accountable human.",
+  "published_at": "2026-07-14T07:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:05:37.626494+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T19:10:23.981356+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/fc/fce052226a401d10d5e149346993ca5eb119daf983aa42a1aa87b9abb073db53/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/fc/fce052226a401d10d5e149346993ca5eb119daf983aa42a1aa87b9abb073db53/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20132,
+    "sha256": "sha256:158877e6d35b080492dd139219831c13ad2a6c599200308795c2afb4a12cae8f",
+    "normalized_content_hash": "sha256:199e8a8a0ff8601a5135c50c0847448b7ee604610563f5f063a95b1a4e7f1cc0"
+  },
+  "provenance": {
+    "source_item_id": "69ae4630-8039-4c86-aab0-e4422226e9f9",
+    "external_id": "https://www.okta.com/blog/ai/the-attribution-gap-ai-regulation/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d04e09025bea859b7b9b2c246365831cc8e0312f37471db7e5e19a4673bab35d",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/langchain-spicedb-integration",
+    "canonical": "https://authzed.com/blog/langchain-spicedb-integration"
+  },
+  "title": "Introducing the LangChain SpiceDB Integration",
+  "summary": "We're announcing langchain-spicedb, a new library that brings SpiceDB's relationship-based access control into LangChain and LangGraph workflows. Build RAG pipelines that respect what users are allowed to see with post-retrieval filtering, LangGraph auth nodes, and agent permission tools.",
+  "published_at": "2026-03-09T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2026/03/d0/d04e09025bea859b7b9b2c246365831cc8e0312f37471db7e5e19a4673bab35d/article.md",
+    "record": "articles/v1/15/yc-authzed/2026/03/d0/d04e09025bea859b7b9b2c246365831cc8e0312f37471db7e5e19a4673bab35d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16407,
+    "sha256": "sha256:24d64588d541a9e5195a9872be3a2013e19aed637a9725707b6a938518e368df",
+    "normalized_content_hash": "sha256:7f670de4942c3645b900d07dd64bc7c4882ec3674a07d86d3eb2202e06d74745"
+  },
+  "provenance": {
+    "source_item_id": "5667a075-9ce3-490e-86fb-19ad9aac7be1",
+    "external_id": "https://authzed.com/blog/langchain-spicedb-integration"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+  "page": 1,
+  "record_count": 2,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "9cd17cb198f0969ae6e1fc72a2831ef2ed147475bab90edc595c2ff9c7bc3ec5",
+      "company_key": "yc-sid",
+      "company_name": "SID",
+      "source_id": "yc-sid-news-import-30f4e157198f",
+      "source_kind": "html",
+      "canonical_url": "https://www.sid.ai/research/sid-1-technical-report",
+      "title": "SID-1 Technical Report: Test-Time Compute for Retrieval",
+      "summary": "SID-1 is the first model trained end-to-end with RL solely for agentic retrieval. It reaches 0.84 recall on a diverse benchmark, compared to 0.78 for GPT-5.1 and 0.45 for traditional reranking pipelines. This report covers our infrastructure, reward design, synthetic data, and issues with common GRPO formulations.",
+      "published_at": null,
+      "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+      "article_path": "articles/v1/34/yc-sid/2026/07/9c/9cd17cb198f0969ae6e1fc72a2831ef2ed147475bab90edc595c2ff9c7bc3ec5/article.md",
+      "record_path": "articles/v1/34/yc-sid/2026/07/9c/9cd17cb198f0969ae6e1fc72a2831ef2ed147475bab90edc595c2ff9c7bc3ec5/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "c30bfd37cab011727a9bf68f9a7291f70eb0d7adecc0ac76f07862ea920954a0",
+      "company_key": "yc-sid",
+      "company_name": "SID",
+      "source_id": "yc-sid-news-import-30f4e157198f",
+      "source_kind": "html",
+      "canonical_url": "https://www.sid.ai/research/sid-1",
+      "title": "Introducing SID-1",
+      "summary": "SID-1 is our first model trained specifically for agentic retrieval. It outperforms embedding-only search and frontier models including GPT-5.1 and Gemini 3 Pro on recall across general knowledge, finance, science, legal, and email.",
+      "published_at": "2025-12-04T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+      "article_path": "articles/v1/34/yc-sid/2025/12/c3/c30bfd37cab011727a9bf68f9a7291f70eb0d7adecc0ac76f07862ea920954a0/article.md",
+      "record_path": "articles/v1/34/yc-sid/2025/12/c3/c30bfd37cab011727a9bf68f9a7291f70eb0d7adecc0ac76f07862ea920954a0/record.json"
+    }
+  ]
+}

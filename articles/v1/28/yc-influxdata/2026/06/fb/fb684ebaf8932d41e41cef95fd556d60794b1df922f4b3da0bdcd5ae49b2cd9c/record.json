@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb684ebaf8932d41e41cef95fd556d60794b1df922f4b3da0bdcd5ae49b2cd9c",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/satellite-telemetry-itar-architecture/",
+    "canonical": "https://www.influxdata.com/blog/satellite-telemetry-itar-architecture/"
+  },
+  "title": "Satellite Telemetry, ITAR, and Data Residency: Building Architecture for Speed and Control",
+  "summary": "With InfluxDB 3, satellite teams can bring high-volume operational signals from spacecraft, ground systems, and infrastructure into a shared time series architecture.",
+  "published_at": "2026-06-11T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/06/fb/fb684ebaf8932d41e41cef95fd556d60794b1df922f4b3da0bdcd5ae49b2cd9c/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/06/fb/fb684ebaf8932d41e41cef95fd556d60794b1df922f4b3da0bdcd5ae49b2cd9c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10435,
+    "sha256": "sha256:a1052d6fa07b765f8833f0dbb6cc4e165fbc3a99e0aba0aa126d2c9309837f0f",
+    "normalized_content_hash": "sha256:fd35e95af00d2ca89db5e4af932e034261f5e626fd81a4bec39cddb97e0b398f"
+  },
+  "provenance": {
+    "source_item_id": "6796217b-3f0f-454d-be13-8caf7376daf9",
+    "external_id": "https://www.influxdata.com/blog/satellite-telemetry-itar-architecture/"
+  }
+}

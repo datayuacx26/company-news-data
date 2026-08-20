@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd0389c6a70491c95f3abf8ad0738489ff6dab4f15261a843dbea86edfaf87cd",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/logs-management/features/json-logs",
+    "canonical": "https://signoz.io/docs/logs-management/features/json-logs"
+  },
+  "title": "Native JSON Log Body - Automatic Transformation & Querying",
+  "summary": "Learn about SigNoz's native JSON support for log bodies — automatic JSON transformation, body key filtering, array querying, and GroupBy on keys.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/dd/dd0389c6a70491c95f3abf8ad0738489ff6dab4f15261a843dbea86edfaf87cd/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/dd/dd0389c6a70491c95f3abf8ad0738489ff6dab4f15261a843dbea86edfaf87cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 708,
+    "sha256": "sha256:e29c64e8a7af5e4b90948e2b5e0c01da925812dcba9b4cd1e514095e299bb090",
+    "normalized_content_hash": "sha256:746b01ef23a2234e632057594397c1ae06f02c45c6cf6ff77ccc1c99dc953ac7"
+  },
+  "provenance": {
+    "source_item_id": "1a656350-9317-48ab-a2a2-16b045e19354",
+    "external_id": "https://signoz.io/docs/logs-management/features/json-logs"
+  }
+}

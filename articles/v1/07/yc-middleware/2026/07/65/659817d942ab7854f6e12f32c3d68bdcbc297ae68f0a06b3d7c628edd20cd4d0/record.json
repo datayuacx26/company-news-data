@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "659817d942ab7854f6e12f32c3d68bdcbc297ae68f0a06b3d7c628edd20cd4d0",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/kubernetes-imagepullbackoff/",
+    "canonical": "https://middleware.io/blog/kubernetes-imagepullbackoff/"
+  },
+  "title": "What Is Kubernetes ImagePullBackOff Error and How to Fix It",
+  "summary": "ImagePullBackOff means Kubernetes can't pull your container image. Learn every root cause, the exact kubectl commands to diagnose it, and step-by-step fixes for auth errors, wrong tags, rate limits, and network issues.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:20:55.832849+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:04.539938+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/07/65/659817d942ab7854f6e12f32c3d68bdcbc297ae68f0a06b3d7c628edd20cd4d0/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/07/65/659817d942ab7854f6e12f32c3d68bdcbc297ae68f0a06b3d7c628edd20cd4d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26747,
+    "sha256": "sha256:ba4c4ab309ec72d88aa29de70cd190f56de9498c8b047d73833b65dbd894e80d",
+    "normalized_content_hash": "sha256:5c89281ce8f4def30d9da5303096f7c300d46f70f1451908b7a2afefba21211c"
+  },
+  "provenance": {
+    "source_item_id": "541b2346-0843-46b3-93c2-6f24c405ee4f",
+    "external_id": "https://middleware.io/blog/kubernetes-imagepullbackoff/"
+  }
+}

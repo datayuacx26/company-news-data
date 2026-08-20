@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7f558b9abc623ff34f1870f5b05323cdcfa21deceb605e93e72732336d81c25",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/redis",
+    "canonical": "https://signoz.io/docs/integrations/redis"
+  },
+  "title": "Redis Metrics and Logs",
+  "summary": "Monitor Redis metrics and logs with OpenTelemetry and view them in SigNoz using ready-made dashboards and log queries.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/a7/a7f558b9abc623ff34f1870f5b05323cdcfa21deceb605e93e72732336d81c25/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/a7/a7f558b9abc623ff34f1870f5b05323cdcfa21deceb605e93e72732336d81c25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 627,
+    "sha256": "sha256:b38ac483715984a2b486e52987b94bba2779f8d77b91183ce13f5d35830ae9ea",
+    "normalized_content_hash": "sha256:4345139914c13e0b7bb8335ae350900f612f08368f9ef197d3a2d72833c7a913"
+  },
+  "provenance": {
+    "source_item_id": "de1763ea-b18e-472b-b649-9f8413009f67",
+    "external_id": "https://signoz.io/docs/integrations/redis"
+  }
+}

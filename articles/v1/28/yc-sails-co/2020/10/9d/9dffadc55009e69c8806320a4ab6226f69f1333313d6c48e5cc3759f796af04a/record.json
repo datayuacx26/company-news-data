@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9dffadc55009e69c8806320a4ab6226f69f1333313d6c48e5cc3759f796af04a",
+  "company": {
+    "key": "yc-sails-co",
+    "name": "Sails Co."
+  },
+  "source": {
+    "id": "yc-sails-co-rss-a888f7fb03bc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.sailscasts.com/understanding-sails-policies-and-best-practices/",
+    "canonical": "https://blog.sailscasts.com/understanding-sails-policies-and-best-practices/"
+  },
+  "title": "Understanding Sails policies and best practices",
+  "summary": "Policies are versatile tools in Sails for authorization and access control. They give you the ability to execute some logic before an action is run for the purpose of ascertaining if the request should continue or not. This article will introduce policies in Sails, explain how to go about creating policies in Sails and the best practices to observe when doing so.",
+  "published_at": "2020-10-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:05:07.405322+00:00",
+  "fetched_at": "2026-07-28T21:05:18.773660+00:00",
+  "last_updated_at": "2026-08-20T00:44:19.732721+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-sails-co/2020/10/9d/9dffadc55009e69c8806320a4ab6226f69f1333313d6c48e5cc3759f796af04a/article.md",
+    "record": "articles/v1/28/yc-sails-co/2020/10/9d/9dffadc55009e69c8806320a4ab6226f69f1333313d6c48e5cc3759f796af04a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7850,
+    "sha256": "sha256:f01399e91e31831ea67e719cf21c6de3435d7c24652cafc12bec92adf4c7fd69",
+    "normalized_content_hash": "sha256:3ee2b6008c045f08baa9a73013dbe154ab5aa53bbd5b9696ba75250c783efd92"
+  },
+  "provenance": {
+    "source_item_id": "1d8e2733-b0b2-4bdf-9d89-320e1e279212",
+    "external_id": "https://blog.sailscasts.com/understanding-sails-policies-and-best-practices/"
+  }
+}

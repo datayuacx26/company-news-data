@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b49e16c3b37a171a84303defb6cf626cc27c86482b4cadc6168002236240494",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9e9cef1eb453",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/press/release/2026/08/target-corporation-reports-second-quarter-earnings",
+    "canonical": "https://corporate.target.com/press/release/2026/08/target-corporation-reports-second-quarter-earnings"
+  },
+  "title": "Target Corporation Reports Second Quarter Earnings",
+  "summary": "Second quarter net sales grew 5.3 percent over last year, with comparable sales growth of 3.8 percent driven by a 3.6 percent increase in comparable traffic. On a two-year basis, second quarter...",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T17:38:58.640482+00:00",
+  "fetched_at": "2026-08-19T17:39:00.678646+00:00",
+  "last_updated_at": "2026-08-19T17:39:00.905033+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/3b/3b49e16c3b37a171a84303defb6cf626cc27c86482b4cadc6168002236240494/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/3b/3b49e16c3b37a171a84303defb6cf626cc27c86482b4cadc6168002236240494/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28340,
+    "sha256": "sha256:593b89cc5afeb999dabcb69757a9e26f441be8c26f57fd0cc41980ea29ee9072",
+    "normalized_content_hash": "sha256:0fcb2ba35e7d59f8415ff6ac305cf88c8cddc954fa7bda75f5777ca46abd169a"
+  },
+  "provenance": {
+    "source_item_id": "e4a7de6c-a775-44d3-afc1-5738d69a00d0",
+    "external_id": "https://corporate.target.com/press/release/2026/08/target-corporation-reports-second-quarter-earnings"
+  }
+}

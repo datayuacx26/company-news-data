@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0ed7e159ae277d5bdbba8b4010c43cfe93a9827432fe0f45b887a1d1fba057b5",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/opentelemetry-collection-agents/vm/install",
+    "canonical": "https://signoz.io/docs/opentelemetry-collection-agents/vm/install"
+  },
+  "title": "Install the OpenTelemetry Collector on a Virtual Machine",
+  "summary": "Install the OpenTelemetry Collector binary on your virtual machine to collect telemetry data.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/0e/0ed7e159ae277d5bdbba8b4010c43cfe93a9827432fe0f45b887a1d1fba057b5/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/0e/0ed7e159ae277d5bdbba8b4010c43cfe93a9827432fe0f45b887a1d1fba057b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 660,
+    "sha256": "sha256:e7ee78246102e640779539e4bddae390ccb2a89b37bb9d42cfde8b0604a72869",
+    "normalized_content_hash": "sha256:16163fe665a8e4bad3b98eabbd07fb4d682d974cdde4bef1eaa162642be74b86"
+  },
+  "provenance": {
+    "source_item_id": "975e5331-6f2a-40a8-8cfa-94f5b21b8df9",
+    "external_id": "https://signoz.io/docs/opentelemetry-collection-agents/vm/install"
+  }
+}

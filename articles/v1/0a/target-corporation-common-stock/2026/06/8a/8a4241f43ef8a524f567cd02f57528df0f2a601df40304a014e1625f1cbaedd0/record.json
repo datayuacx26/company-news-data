@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a4241f43ef8a524f567cd02f57528df0f2a601df40304a014e1625f1cbaedd0",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/06/mosh",
+    "canonical": "https://corporate.target.com/news-features/article/2026/06/mosh"
+  },
+  "title": "Behind the Brand: Maria Shriver Brings Her Brain Health Mission to Target with MOSH",
+  "summary": "Go Behind the Brand with Maria Shriver, co-founder of MOSH.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/06/8a/8a4241f43ef8a524f567cd02f57528df0f2a601df40304a014e1625f1cbaedd0/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/06/8a/8a4241f43ef8a524f567cd02f57528df0f2a601df40304a014e1625f1cbaedd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7404,
+    "sha256": "sha256:242f36651a05106f5383b9f1b9e5e57b62c4b1ff47f93eadf9295c9f68ca86d0",
+    "normalized_content_hash": "sha256:e6d96da6d96fd0143a751add37e172f74a2f87c9715be117a409d631f56ce405"
+  },
+  "provenance": {
+    "source_item_id": "f61d2f66-82d2-4ea3-8df5-bd7e7b15aada",
+    "external_id": "https://corporate.target.com/news-features/article/2026/06/mosh"
+  }
+}

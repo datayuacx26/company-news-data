@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69c566e90da551ab8501a104a76bc19debb180207ab0a897d8a706adf3c37b7b",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/ra-unauthenticated-rce-in-jetbrains-teamcity-cve-2026-63077",
+    "canonical": "https://www.rapid7.com/blog/post/ra-unauthenticated-rce-in-jetbrains-teamcity-cve-2026-63077"
+  },
+  "title": "Rapid7 Analysis: Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)",
+  "summary": "A technical analysis of CVE-2026-63077. This is an unauthenticated Remote Code Execution vulnerability in JetBrains TeamCity due to unsafe deserialization in the agent polling protocol endpoint.",
+  "published_at": "2026-08-07T14:32:47+00:00",
+  "first_seen_at": "2026-08-07T17:19:39.935321+00:00",
+  "fetched_at": "2026-08-07T17:19:41.217880+00:00",
+  "last_updated_at": "2026-08-20T03:36:55.072704+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/08/69/69c566e90da551ab8501a104a76bc19debb180207ab0a897d8a706adf3c37b7b/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/08/69/69c566e90da551ab8501a104a76bc19debb180207ab0a897d8a706adf3c37b7b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30745,
+    "sha256": "sha256:cbe8cbd71fab6313815f854885da4b11a2b69d0e64ffc3a0f9e05aebd38a57c7",
+    "normalized_content_hash": "sha256:2458765416244549c5f76893e7fd1e2933f3e0ea569aab844f8a371097ee44a4"
+  },
+  "provenance": {
+    "source_item_id": "bf36e0ad-2dee-4f28-8365-d4a8535b4b62",
+    "external_id": "blt720afa3aee7d865e"
+  }
+}

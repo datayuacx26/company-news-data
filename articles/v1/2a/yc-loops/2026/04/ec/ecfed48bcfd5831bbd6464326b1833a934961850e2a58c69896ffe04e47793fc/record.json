@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ecfed48bcfd5831bbd6464326b1833a934961850e2a58c69896ffe04e47793fc",
+  "company": {
+    "key": "yc-loops",
+    "name": "Loops"
+  },
+  "source": {
+    "id": "yc-loops-news-import-d3d77458967f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://loops.so/changelog/dns-zone-files",
+    "canonical": "https://loops.so/changelog/dns-zone-files"
+  },
+  "title": "DNS zone file generation",
+  "summary": "Download a ready-made DNS zone file from the domain records page in Loops, hand it to a developer, and cut the copy-paste out of setup.",
+  "published_at": "2026-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:13:35.252230+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-08-19T06:43:57.791294+00:00",
+  "paths": {
+    "article": "articles/v1/2a/yc-loops/2026/04/ec/ecfed48bcfd5831bbd6464326b1833a934961850e2a58c69896ffe04e47793fc/article.md",
+    "record": "articles/v1/2a/yc-loops/2026/04/ec/ecfed48bcfd5831bbd6464326b1833a934961850e2a58c69896ffe04e47793fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1200,
+    "sha256": "sha256:2651ac14fa435c4c6b6aa4d15146b22fdc42a9c103b94c5b5a3a2d36e47b8868",
+    "normalized_content_hash": "sha256:3472b70f92a634bad9ad1b188c7d76009affee8054c74106aacce64f402d9460"
+  },
+  "provenance": {
+    "source_item_id": "2f6857ca-e42f-41be-a7ae-9a4540f3a9ee",
+    "external_id": "https://loops.so/changelog/dns-zone-files"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f71ba66369bf4b9b6502d009fcd67dcf161db91a3a0928991ba67cc73631aafd",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/opentelemetry-collection-agents/opentelemetry-collector/configuration",
+    "canonical": "https://signoz.io/docs/opentelemetry-collection-agents/opentelemetry-collector/configuration"
+  },
+  "title": "OpenTelemetry Collector Configuration",
+  "summary": "Configure the OpenTelemetry Collector: receivers, processors, exporters, extensions, and service pipelines for collecting and exporting telemetry.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/f7/f71ba66369bf4b9b6502d009fcd67dcf161db91a3a0928991ba67cc73631aafd/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/f7/f71ba66369bf4b9b6502d009fcd67dcf161db91a3a0928991ba67cc73631aafd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 721,
+    "sha256": "sha256:b4badec58f54f0db4c2e8c6031963bf4654849aedd6c84c0508a47b26a63eece",
+    "normalized_content_hash": "sha256:db9e17610e77570a1223fed371d8b8681ac12532f0713b1b5c1ecb58ccefc274"
+  },
+  "provenance": {
+    "source_item_id": "00adec1a-a0cb-4ec2-bb33-6d0e4f6151d7",
+    "external_id": "https://signoz.io/docs/opentelemetry-collection-agents/opentelemetry-collector/configuration"
+  }
+}

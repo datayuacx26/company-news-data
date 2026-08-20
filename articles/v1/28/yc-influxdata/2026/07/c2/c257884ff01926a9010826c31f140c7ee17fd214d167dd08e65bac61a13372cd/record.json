@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c257884ff01926a9010826c31f140c7ee17fd214d167dd08e65bac61a13372cd",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/inside-leo-labs-influxdb/",
+    "canonical": "https://www.influxdata.com/blog/inside-leo-labs-influxdb/"
+  },
+  "title": "Inside LeoLabs: How Radar Engineers Track Over 27,000 Objects in Orbit with InfluxDB",
+  "summary": "InfluxDB enables LeoLab's lean team to operate with confidence that potential issues will be detected and surfaced in real-time. By offloading the complexity of managing time series data at scale, engineers are free to focus on higher-impact work.",
+  "published_at": "2026-07-21T08:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:31:51.334724+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/07/c2/c257884ff01926a9010826c31f140c7ee17fd214d167dd08e65bac61a13372cd/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/07/c2/c257884ff01926a9010826c31f140c7ee17fd214d167dd08e65bac61a13372cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9833,
+    "sha256": "sha256:d373e67d72a0e14427ab6c66f87d508ecf9eb328adc7ed03c78544d82f3f4ad5",
+    "normalized_content_hash": "sha256:dcea1c95db8ac67a02bdee7df9185ae9498bc3cde9e702963ac8e1c4cd5adac1"
+  },
+  "provenance": {
+    "source_item_id": "2e7370fc-1d0c-4ca6-b475-6322caa563f4",
+    "external_id": "https://www.influxdata.com/blog/inside-leo-labs-influxdb/"
+  }
+}

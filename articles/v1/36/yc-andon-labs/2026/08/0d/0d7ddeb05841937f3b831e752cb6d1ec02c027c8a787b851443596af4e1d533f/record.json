@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d7ddeb05841937f3b831e752cb6d1ec02c027c8a787b851443596af4e1d533f",
+  "company": {
+    "key": "yc-andon-labs",
+    "name": "Andon Labs"
+  },
+  "source": {
+    "id": "yc-andon-labs-news-import-434be7be1d2e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andonlabs.com/blog/cheating-in-drone-bench",
+    "canonical": "https://andonlabs.com/blog/cheating-in-drone-bench"
+  },
+  "title": "Cheating in Drone-Bench",
+  "summary": "We had an LLM judge all 3,077 Drone-Bench runs for cheating. Medium or high severity cheating rose from 0.6% of runs for 2024 models to 38.6% as of July 2026, and the trend separates cleanly by provider.",
+  "published_at": null,
+  "first_seen_at": "2026-08-06T06:28:21.178980+00:00",
+  "fetched_at": "2026-08-06T06:28:21.937342+00:00",
+  "last_updated_at": "2026-08-19T22:52:21.221350+00:00",
+  "paths": {
+    "article": "articles/v1/36/yc-andon-labs/2026/08/0d/0d7ddeb05841937f3b831e752cb6d1ec02c027c8a787b851443596af4e1d533f/article.md",
+    "record": "articles/v1/36/yc-andon-labs/2026/08/0d/0d7ddeb05841937f3b831e752cb6d1ec02c027c8a787b851443596af4e1d533f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12387,
+    "sha256": "sha256:ba737ad0675775f5f8f8a1f9153d13e30da353c0214862801fcbfde3290c69cd",
+    "normalized_content_hash": "sha256:2f7461a5807a57ade7e96f4641b23e7b3e412ba6a4e9c1501dc1af1153000a78"
+  },
+  "provenance": {
+    "source_item_id": "4488d2b9-d891-46c0-91c1-8f3295a6a66d",
+    "external_id": "https://andonlabs.com/blog/cheating-in-drone-bench"
+  }
+}

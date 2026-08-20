@@ -1,0 +1,31 @@
+---
+schema_version: "1.0.0"
+document_id: "7d98d2427279cf025dc1b29daef5d822285db6a26058216f796b38911fee2db6"
+company_key: "amtd-digital-inc-american-depositary-shares-every-five-of-which-represent-two-class-a-ordinary-shares"
+company: "AMTD Digital Inc."
+source_id: "amtd-digital-inc-american-depositary-shares-every-five-of-which-represent-two-class-a-ordinary-shares-rss-cb25fee43a74"
+canonical_url: "https://www.amtdgroup.com/en/node/1137"
+published_at: "2019-05-09T06:46:31+00:00"
+first_seen_at: "2026-07-24T16:08:11.503191+00:00"
+fetched_at: "2026-07-28T21:06:00.870812+00:00"
+content_hash: "sha256:00318d8932a24d777463d65c680066a0e6b74e9156e1de726f595dcd0b96726c"
+---
+
+# Company News - 15 April 2019
+
+**
+
+
+**AMTD is delighted to join the ASEAN Financial Innovation Network (AFIN) as its first member** to promote the broader adoption of financial technology innovations within Asia. **Calvin Choi, Chairman of AMTD Foundation and AMTD Group, has accepted the invitation to join the Board of Directors of AFIN as a director.**
+
+
+The latest Global Findex 2017 report shows that a staggering 1.7 billion adults are still unbanked. These adults do not have a bank account because of challenges such as poverty, costs, travel distance and paperwork involved. In desperate times, they end up borrowing from friends and family – a common source of credit for loans.
+
+
+To help them gain access to financial products and services, AFIN established a platform called the API Exchange (APIX) in November 2018. This AFIN flagship product is the world’s first cross-border, open-architecture API platform where financial institutions and FinTechs can collaborate to deploy new solutions to serve the unbanked and underbanked populations in ASEAN and beyond.
+
+
+APIX has two functions – marketplace and sandbox. The marketplace enables financial institutions and FinTechs to discover one another on a curated, global marketplace. The sandbox, meanwhile, is like a playground where they are able to co-design, experiment with and validate new, innovative FinTech solutions within a virtual and secure environment.
+
+
+Language Undefined

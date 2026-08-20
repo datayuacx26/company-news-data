@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "910d355ea6907e268564ab8fe13fd652b1fc89db8731bc923096d9a7972f935a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/mistral-observability",
+    "canonical": "https://signoz.io/docs/mistral-observability"
+  },
+  "title": "Mistral AI Observability & Monitoring with OpenTelemetry",
+  "summary": "Setup Mistral AI observability with OpenTelemetry and SigNoz. Monitor LLM performance, track traces, logs, and metrics in unified dashboards.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T08:32:39.244533+00:00",
+  "last_updated_at": "2026-07-24T08:32:39.257481+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/91/910d355ea6907e268564ab8fe13fd652b1fc89db8731bc923096d9a7972f935a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/91/910d355ea6907e268564ab8fe13fd652b1fc89db8731bc923096d9a7972f935a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 687,
+    "sha256": "sha256:9a5f6fc9978a4820f721934e419c4ff38eb9c0c4e53b5906c6627027d7e2ac69",
+    "normalized_content_hash": "sha256:150cf728f6baa1b6d175f99492a8ef5c56988f86981d5e526701eac0760da3ce"
+  },
+  "provenance": {
+    "source_item_id": "1f86b9b1-bfb6-43bf-9f33-969ec908dfd3",
+    "external_id": "https://signoz.io/docs/mistral-observability"
+  }
+}

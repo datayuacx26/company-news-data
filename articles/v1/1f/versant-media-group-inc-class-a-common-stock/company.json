@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "versant-media-group-inc-class-a-common-stock",
+    "name": "Versant Media Group Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-05-04T20:30:41+00:00",
+  "last_published_at": "2026-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1f/versant-media-group-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 16610,
+        "sha256": "sha256:61a797928f01db5dc3cc1f2a0974a4c5a21c29eaff1dc27168e5f78fe83b1137",
+        "newest_at": "2026-08-17T00:00:00+00:00",
+        "oldest_at": "2026-05-04T20:30:41+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+---
+schema_version: "1.0.0"
+document_id: "c1258d39081c06c090e1f2d1ad5c96bc08d977a8065794344c615db7cb2dad11"
+company_key: "uranium-royalty-corp-common-stock"
+company: "Uranium Royalty Corp."
+source_id: "uranium-royalty-corp-common-stock-news-import-b2dea70a4d1e"
+canonical_url: "https://www.uraniumroyalty.com/news/uranium-royalty-appoints-new-directors-to-the-board"
+published_at: null
+first_seen_at: "2026-08-07T21:24:47.916628+00:00"
+fetched_at: "2026-08-07T21:24:49.474774+00:00"
+content_hash: "sha256:5d9760257ca97e515d5efe754bafa7a1a9ab59fd443b0d44d5bbc9b8c8ff1ca1"
+---
+
+# Uranium Royalty Appoints New Directors to the Board
+
+**Lakewood, Colorado** *– August 7, 2026 –* **Uranium Royalty Corp. (NASDAQ: UROY)** (" **URC** " or the " **Company** ") today announced the appointment of Kevin McQuilkin and Peter Rozenauers to the Company's Board of Directors, effective immediately. The Board has determined that Mr. McQuilkin is independent under the applicable rules of the Nasdaq Stock Market.
+
+
+Mr. Rozenauers has over 35 years of experience in the natural resources and finance industry. He is a non-executive Investment Committee member for the Orion Mine Finance and Orion Industrial Ventures, and previously served as Managing Partner and Portfolio Manager with Orion Resource Partners (Aus) Pty Limited from September 2013 to July 2026. Mr. Rozenauers holds a Bachelor of Mining Engineering (Hons I) from the University of New South Wales and a Master of Applied Finance from the University of Technology Sydney.
+
+
+Mr. McQuilkin has more than 35 years of experience in investment banking, including in the energy, metals and mining, and chemicals industries. He is an Executive in Residence and Adjunct Professor of Finance at the Gonzaga University School of Business. Prior to joining Gonzaga University, Mr. McQuilkin served in senior mergers and acquisitions and metals and mining investment banking roles at Wells Fargo Securities, Deutsche Bank Securities and J.P. Morgan. Mr. McQuilkin graduated with honors from Gonzaga University and received a Master’s in Management from Northwestern University's J.L. Kellogg Graduate School of Management.
+
+
+Scott Melbye, Chief Executive Officer of the Company, stated: “We are pleased to welcome Kevin McQuilkin and Peter Rozenauers to our Board of Directors. Each brings decades of experience across finance, mining and natural resources, and their perspectives will be a valuable addition as we take this historic next step for the Company. We look forward to working alongside them and benefiting from their guidance in the period ahead.”
+
+
+Messrs. Rozenauers and McQuilkin were each designated for nomination to the Board pursuant to the Investors Rights Agreement, dated as of July 27, 2026, by and among the Company, Orion Resource Partners (USA) LP, certain affiliated funds of Orion, HRG Metals LP and Ontario Teachers’ Pension Plan Board.
+
+
+**About Uranium Royalty Corp.**
+
+
+Uranium Royalty Corp. (URC) is the largest U.S. non-precious royalty & streaming platform with embedded, century-long exposure to uranium, energy, and industrial supply chains. URC provides investors with uranium commodity price exposure through strategic acquisitions in uranium interests, including royalties, streams, debt and equity in uranium companies, as well as through trading of physical uranium. Through a transformational combination in 2026 between URC and Sweetwater Royalties, URC has significant free cash flow, an unmatched reserve life of 100+ years on key assets and is the 2nd largest public company landowner in the U.S., and the largest landowner in Wyoming.
+
+
+**For further information** :
+
+
+Investor Relations:
+Toll Free: 1.855.396.8222
+Email:[\[email protected\]](https://www.uraniumroyalty.com/cdn-cgi/l/email-protection#d8b1b6beb798adaab9b6b1adb5aab7a1b9b4aca1f6bbb7b5)
+Website:[www.UraniumRoyalty.com](http://www.uraniumroyalty.com/)
+Corporate Office: 1188 West Georgia Street, Suite 1830, Vancouver, BC, V6E 4A2
+Phone: 604.396.8222

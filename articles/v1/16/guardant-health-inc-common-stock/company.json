@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "guardant-health-inc-common-stock",
+    "name": "Guardant Health Inc."
+  },
+  "record_count": 18,
+  "first_published_at": "2021-09-02T23:30:29+00:00",
+  "last_published_at": "2026-08-12T14:09:50+00:00",
+  "partitions": [
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/16/guardant-health-inc-common-stock/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 24256,
+        "sha256": "sha256:f1344c84a7a4fa64b815b48868b5422447e5bbf15d7af718ea0131c651ccd398",
+        "newest_at": "2026-08-12T14:09:50+00:00",
+        "oldest_at": "2021-09-02T23:30:29+00:00"
+      }
+    ]
+  }
+}

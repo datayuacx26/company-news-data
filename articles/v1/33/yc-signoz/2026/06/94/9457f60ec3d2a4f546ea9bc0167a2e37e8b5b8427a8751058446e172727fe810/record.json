@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9457f60ec3d2a4f546ea9bc0167a2e37e8b5b8427a8751058446e172727fe810",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/dashboards/dashboard-templates/db-calls-monitoring",
+    "canonical": "https://signoz.io/docs/dashboards/dashboard-templates/db-calls-monitoring"
+  },
+  "title": "DB Calls Monitoring Dashboard",
+  "summary": "Monitor comprehensive database operations including transaction rates, top DB statements, error rates, and slowest database calls for performance optimization.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/94/9457f60ec3d2a4f546ea9bc0167a2e37e8b5b8427a8751058446e172727fe810/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/94/9457f60ec3d2a4f546ea9bc0167a2e37e8b5b8427a8751058446e172727fe810/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 707,
+    "sha256": "sha256:e39b96068b28c4da351b96ea1f47bf5eab5f6d10e885828737b3ee5da63070ef",
+    "normalized_content_hash": "sha256:848b7f0be88f11bdfe25907cb73fa1157abf0afcdde12b1861d1ec07d82122ea"
+  },
+  "provenance": {
+    "source_item_id": "f58d5d62-5690-401e-ac39-ba6c12ad2b3b",
+    "external_id": "https://signoz.io/docs/dashboards/dashboard-templates/db-calls-monitoring"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9fc77659715e5e06cff2d26e68f37ac7bedc3ce5131b335af890a96d59d7c6f",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-144d960cd8f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/blog/identity-security/cmmc-level-2-commercial-iam-audit-risk/",
+    "canonical": "https://www.okta.com/blog/identity-security/cmmc-level-2-commercial-iam-audit-risk/"
+  },
+  "title": "CMMC Level 2: Do you really need FedRAMP for your IAM?",
+  "summary": "Is commercial IAM sufficient for CMMC Level 2? Learn how C3PAOs evaluate Security Protection Assets (SPAs) and FIPS 140-2 requirements.",
+  "published_at": "2026-07-30T07:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:31:06.584573+00:00",
+  "fetched_at": "2026-07-31T19:31:07.432136+00:00",
+  "last_updated_at": "2026-08-13T13:58:03.665422+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/d9/d9fc77659715e5e06cff2d26e68f37ac7bedc3ce5131b335af890a96d59d7c6f/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/d9/d9fc77659715e5e06cff2d26e68f37ac7bedc3ce5131b335af890a96d59d7c6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8387,
+    "sha256": "sha256:a4d457f38873f218d31eec232f671886bfd2d908238a19bcf000d9f35636f66b",
+    "normalized_content_hash": "sha256:046cb1c5670e1dfbd718f7d96a1ae952b230e41015890c8ab57adc2dca73c955"
+  },
+  "provenance": {
+    "source_item_id": "70e1a96e-8c68-44f1-974a-4523864f5643",
+    "external_id": "https://www.okta.com/blog/identity-security/cmmc-level-2-commercial-iam-audit-risk/"
+  }
+}

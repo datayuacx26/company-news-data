@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e40dc25bd92be30fff1f571363bc96c0535ca6eb5c5219a57356b061205cddd5",
+  "company": {
+    "key": "yc-infracost",
+    "name": "Infracost"
+  },
+  "source": {
+    "id": "yc-infracost-news-import-5e947f59e679",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.infracost.io/resources/blog/kubernetes-support",
+    "canonical": "https://www.infracost.io/resources/blog/kubernetes-support"
+  },
+  "title": "Kubernetes cost estimates and label policies in pull requests",
+  "summary": "See what a replica bump or a bigger memory request costs before it merges. Kubernetes cost estimates and label policies from the repo — no cluster access.",
+  "published_at": "2026-08-11T01:30:00+00:00",
+  "first_seen_at": "2026-08-13T19:09:40.314345+00:00",
+  "fetched_at": "2026-08-13T19:09:40.985056+00:00",
+  "last_updated_at": "2026-08-20T00:23:11.048076+00:00",
+  "paths": {
+    "article": "articles/v1/36/yc-infracost/2026/08/e4/e40dc25bd92be30fff1f571363bc96c0535ca6eb5c5219a57356b061205cddd5/article.md",
+    "record": "articles/v1/36/yc-infracost/2026/08/e4/e40dc25bd92be30fff1f571363bc96c0535ca6eb5c5219a57356b061205cddd5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11324,
+    "sha256": "sha256:b83e8e7d96d469b47b526f75f326569194e276689897badd9fc1f8242e3bdd22",
+    "normalized_content_hash": "sha256:37840f5189df12ef87c41912d31492e1d6967e3d7f1849ae357cfe398a31d746"
+  },
+  "provenance": {
+    "source_item_id": "0a623fc1-e8d3-4c13-93b8-b05bdcd2c013",
+    "external_id": "https://www.infracost.io/resources/blog/kubernetes-support"
+  }
+}

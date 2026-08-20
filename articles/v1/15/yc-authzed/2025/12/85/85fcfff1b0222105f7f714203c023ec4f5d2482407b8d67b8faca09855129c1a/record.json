@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85fcfff1b0222105f7f714203c023ec4f5d2482407b8d67b8faca09855129c1a",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/agentic-ai-is-not-secure",
+    "canonical": "https://authzed.com/blog/agentic-ai-is-not-secure"
+  },
+  "title": "Agentic AI is not Secure",
+  "summary": "MCP, A2A, and ACP standardize how AI agents communicate, but none adequately address authorization. This post analyzes specific vulnerabilities in token granularity, revocation propagation, and delegation chains, and outlines requirements for secure agent infrastructure.",
+  "published_at": "2025-12-23T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:54:56.230774+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2025/12/85/85fcfff1b0222105f7f714203c023ec4f5d2482407b8d67b8faca09855129c1a/article.md",
+    "record": "articles/v1/15/yc-authzed/2025/12/85/85fcfff1b0222105f7f714203c023ec4f5d2482407b8d67b8faca09855129c1a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14881,
+    "sha256": "sha256:132d083b3f181ad915e07962404f7a8b4f996ce2c0462e2112cca241eabf2231",
+    "normalized_content_hash": "sha256:5c3bec5131453cf1821695aebb25a298fcf67e5b0cc7e5f8ec97ccf5ff24ac22"
+  },
+  "provenance": {
+    "source_item_id": "a05db6eb-09ad-44f8-9698-c18857a2a943",
+    "external_id": "https://authzed.com/blog/agentic-ai-is-not-secure"
+  }
+}

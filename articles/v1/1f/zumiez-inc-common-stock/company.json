@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zumiez-inc-common-stock",
+    "name": "Zumiez Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2025-06-05T20:05:00+00:00",
+  "last_published_at": "2026-06-04T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1f/zumiez-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12647,
+        "sha256": "sha256:b531da14b4244fd0942b3d75a72c58a1eec85008d8f4535df36e20597312780a",
+        "newest_at": "2026-06-04T20:05:00+00:00",
+        "oldest_at": "2025-06-05T20:05:00+00:00"
+      }
+    ]
+  }
+}

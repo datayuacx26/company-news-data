@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f956533e650c590ae2277a84a9f73e708dd3429b7189beb75aaa9eb96bd4c012",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/questdb-9-4-0-release/",
+    "canonical": "https://questdb.com/blog/questdb-9-4-0-release/"
+  },
+  "title": "QuestDB 9.4.0: Posting index, cross-column fill, and smarter Web Console",
+  "summary": "QuestDB 9.4.0 adds a posting index for SYMBOL columns with optional covering data, cross-column FILL(PREV) for SAMPLE BY, and Web Console autocompletion.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/05/f9/f956533e650c590ae2277a84a9f73e708dd3429b7189beb75aaa9eb96bd4c012/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/05/f9/f956533e650c590ae2277a84a9f73e708dd3429b7189beb75aaa9eb96bd4c012/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13871,
+    "sha256": "sha256:c6b369087ce38a4656c12097568da420afcdb09acd4823602f06174fefaffd8d",
+    "normalized_content_hash": "sha256:15c609576840fc4a851f2a7e7e3ff47c0c90194fa65ee759a740bd18876b5c7c"
+  },
+  "provenance": {
+    "source_item_id": "496c693b-594a-4d3c-86f6-9fa81c4c5762",
+    "external_id": "https://questdb.com/blog/questdb-9-4-0-release/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dca9f5ce83a0fe75865d256e2273777676dbd0525de9a0d2d6cb97da5b98627b",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-69a1f8dc01ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/changelog/account-linking",
+    "canonical": "https://www.sourcebot.dev/changelog/account-linking"
+  },
+  "title": "Account linking",
+  "summary": "Link multiple identity providers to one Sourcebot user and sync permissions across code hosts.",
+  "published_at": "2025-11-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:52.577262+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-20T02:52:57.900818+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2025/11/dc/dca9f5ce83a0fe75865d256e2273777676dbd0525de9a0d2d6cb97da5b98627b/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2025/11/dc/dca9f5ce83a0fe75865d256e2273777676dbd0525de9a0d2d6cb97da5b98627b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1225,
+    "sha256": "sha256:15eb3b80d803e25e5c2407c559166023886266ea0734a83f6f23a5b6f85f67c4",
+    "normalized_content_hash": "sha256:5d08326f41cf253dab64970f112f417860cfc24cf089a5109cd8c5143b053962"
+  },
+  "provenance": {
+    "source_item_id": "6c06971e-3b03-4520-a5c4-5e345ac32b33",
+    "external_id": "https://www.sourcebot.dev/changelog/account-linking"
+  }
+}

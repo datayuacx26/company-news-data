@@ -1,0 +1,92 @@
+---
+schema_version: "1.0.0"
+document_id: "90e99999d472e67c9a3b1154965bf89bd396377b094ebc54dec9d3429d204466"
+company_key: "diginex-limited-ordinary-shares"
+company: "Diginex Limited"
+source_id: "diginex-limited-ordinary-shares-news-import-eda4500f5e99"
+canonical_url: "https://www.diginex.com/news/diginex-completes-acquisition-of-the-remedy-project"
+published_at: "2026-01-08T00:00:00+00:00"
+first_seen_at: "2026-07-24T08:40:54.002239+00:00"
+fetched_at: "2026-07-28T21:58:18.576112+00:00"
+content_hash: "sha256:aa6c24b6cd360e10608e6db0f1f7841b020218b06a0a2bae13441fc18604abab"
+---
+
+# Diginex completes acquisition of The Remedy Project
+
+Diginex Completes Acquisition of The Remedy Project Amid Growing Global Demand for Human Rights Due Diligence in Supply Chains
+
+
+January 8, 2026
+
+
+[PDF Version](https://ir.diginex.com/node/7346/pdf)
+
+
+LONDON, Jan. 08, 2026 (GLOBE NEWSWIRE) -- Diginex Limited (NASDAQ: DGNX), (“Diginex” or the “Company”), a leading provider of Sustainability RegTech solutions, today announced the successful closing of its acquisition of The Remedy Project Limited ("The Remedy Project"), a Hong Kong based advisory and research organization specializing in labor and human rights in global supply chains, with recognized expertise in human rights due diligence, grievance mechanisms, and remediation. As consideration for the acquisition Diginex issued the sole shareholder of The Remedy Project 1,000,000 shares of Diginex ordinary shares and committed to issue up to an additional 1,000,000 shares of Diginex ordinary shares, provided certain operating and earnout targets are met over the next three years. This strategic move combines Diginex's advanced supply chain technology with The Remedy Project's deep expertise in operational-level grievance mechanisms and worker rights, creating a comprehensive ecosystem for businesses to achieve resilient, ethical operations.
+
+
+The acquisition will align Diginex's innovative tools—such as diginexLUMEN for supply chain risk assessment and diginexAPPRISE for proactive worker engagement—with The Remedy Project's proven advisory services in human rights due diligence, capacity building, and data-driven insights. Together, these synergies will enable companies to not only identify and monitor human rights risks, but also to implement effective remediation strategies, enable compliance with evolving global regulations like the EU Corporate Sustainability Due Diligence Directive and enhance stakeholder trust.
+
+
+"Completing this acquisition marks a pivotal step in our mission to empower businesses with actionable sustainability solutions," said Mark Blick, CEO of Diginex. "By integrating The Remedy Project's specialized knowledge in human rights governance, we can amplify the impact of our supply chain platforms, helping clients build more transparent, accountable, and humane global operations," continued Mr. Blick.
+
+
+The Remedy Project, founded to address workers' rights violations through collaborative frameworks, brings a track record of partnering with companies, governments, and civil society to foster sustainable labor practices. Its expertise in uncovering risks and developing remedial strategies complements Diginex's data management and reporting capabilities, allowing for seamless end-to-end solutions—from risk identification and disclosure to ongoing improvement.
+
+
+This union strengthens Diginex’s leadership in supply chain compliance, equipping clients with more advanced, scalable tools to manage complex ESG requirements while accelerating measurable social impact across global operations.
+
+
+**About Diginex**
+
+
+Diginex Limited (Nasdaq: DGNX; ISIN KYG286871044), headquartered in London, is a sustainable RegTech business that empowers businesses and governments to streamline ESG, climate, and supply chain data collection and reporting. The Company utilizes blockchain, AI, machine learning and data analysis technology to lead change and increase transparency in corporate regulatory reporting and sustainable finance. Diginex’s products and services solutions enable companies to collect, evaluate and share sustainability data through easy-to-use software.
+
+
+The award-winning diginexESG platform supports 19 global frameworks, including GRI (the “Global Reporting Initiative”), SASB (the “Sustainability Accounting Standards Board”), and TCFD (the “Task Force on Climate-related Financial Disclosures”). Clients benefit from end-to-end support, ranging from materiality assessments and data management to stakeholder engagement, report generation and an ESG Ratings Support Service.
+
+
+For more information, please visit the Company’s website:
+
+
+[https://www.diginex.com/](https://www.globenewswire.com/Tracker?data=w73XRcE6J7IjuxcTVzZ3VZJejnB_QAHYX2R_4TRAi5VkxsiU0IhLDEoTA1jxy7j5kqgxpPapbnMP_525FMjfZ0Fm3eaJpc8Na3bGNv-pHILCuDoBA_DaoGkndr_UmiRxo5ojIJX2u8mlI0vs_x4ZqC5Z_FztyN_6FuqJvDS4uC_BGAngbVoL-ybZ3GgPplEh2gs6mDiBWDS5GksnkKmdW3JkiqMqUQcVIbzou05Ao7dHDP1O2BLI6sWyUFFR2-O4Ewi2D8Yv0OiaFzyLdqkfdUop0tvH32RS8b--3d_Uy00chdWSu4ajvEh4K-zg98gMKePKlatpEE8HfrgYMd-JQfjaz0CE1MWKIio40t2SfHxX6QkdMVeGoHElKJkeKMsKTKA_dE2X7fLr_uzWxFW1jwQa6QvWnWIdYFtuQDtYFhHQPO7UJSHtFv0iuE528pLUY_TTLYJYPmTLJXkxJIePlDUa72ysXbX8ighmksd34Uj5BCIB97khZwS_dnDRasmj1pV8URmFBPubWQlCvat3Icf7XOQnKe4s2TxfbGsuOhdBIHExVM_E1Dvi2cxw1jXL54Vz2wXcSgq05Wr215ciIzXxfbNJQkmX-iUhnk2xwXKCvTxe8RAZdZ2Ejm_hnl3Ay5fB57g_j4iea_7pFWZKDhLFbCDmJRWJ21wDsSQKi9z-4fTuQe-BJb-8GOKalpUpvFDwo90iuS_SlrITDUhlfnInPySuh8AxT1WcdenvGBPAhyC4njpOm1SjJixQHnvVWPfGhcVz81iM7AllVjGG1VyJGDlTG_ySBo5T66CxzFoBRWP3zdrYcnaP_9rA3Kk68JQuDDBjl58NiG-GOnFEsev2monbrWsaegnznpL9cbsEk3T5mo13Lgoft3XB2K173KlemHlDu3BUn5FeCJdyWkBVYqVZB4iagMvUsmIBbt4C_STJLClqC9lNUKa760COLQM-ahB_WWi6-VH2xoM__ZcKLlDIsN4kjO_O5rMCOOrQ2ldRllFcXvZ73zxnLd1SKTZ-5xK3R8W_MvrbwVJZtni_h5qDykTaCvE4oFKkw6zjVZXSebkjjT6g-qoSOlGgNM_xg__gbBLLBSAY2UGjIVn0oh2PrM6e8GMme0SNHrn0XFJNP4nZmOuVnLHZZaSBIQUEAIjQ4B3br5P5hHo-1ZwqthFTEto9a89N9k6sweqIHb5H3Virpna_asPwNM72TxN1RiReI2cdFYcvzQ9rmwlZ7OnGsROa0zKRIg9jvYw-pGQD2eoxGXbD4aM_qA7AuRzQ0NyF5t96AiGw0mnUwro_KTUMLydz6nBRdne4MYZgmtde9EHItvMeyy7k6SDQZ1xoLRND7-NTLdYWbGmxUAbbd-Gftm_F8zPAnwEz_cZARBICbioplUQ5YJuygN3H8y0ONRM1IGLATaGoNJilZjw5S0WGvtmBLxOdb18l9c-QBZB3LYqDrLQeIfDKHWi3AAK-RI8JaiOxyZSwmDa-BVBFvnfvmEwl1Bm6fS0YUeqFyUUA9uIlzX1dYqCy-ZxWBqgPh-vjtJgTOlziNUohNi9q19mpS8bS0GgVZ5Q3W-Kq_WxtZEbCg8s0B8E8EOYDwXMH3Bws6O2L4-IgcT-nOaJg3h1_LOKbivJngrHa4UKAB5578dnhtPdADOEpMWJ60tCJ9TWc46-_RJ7_awJJLqpYffh_Y3CEru6sGu3cje-tZLfJWyEj3pgJX8FMCwTIm0m4_15yz4EN9lP8b3cmZcf8gjNJl0gL3kTu4LeupzYCFVqzjnCy3Hhq0C_KCIWZz53RxFq-SrkagqrjhRV4CgUnBEKj3UJFrKRsdKKsPDKqvn4dg0H7GtYzRbx0W94ra7St8u8PukcInq8I-RlP_6oWFqQCQnU2PPJzOJcnrutL-d_8HPPaLasgODScL0dPQazRWpIhXEvrnZj4AmCeVXvnnsazjJY4kTtRoKkZo136q-YbQKWeNX108BdXIFrL1MRKs8h-EixKT40t788m1mQvThbkt24vSq3FdTC6XgTyFBEk9kGrxfOf7nUPcBUvCfNWMcdxbNw6kCS9q_80m1g9o0DzPvSuY_ega4XXoAp4_YonpSCVQu2H4x66GT88FyTxHBnZPRrw2ay_VIkLvb7Bl1i73B-UfmoprCH33bJYs349sHt4XSL8wG0RSjQ-IQrXsG2DB3w8X7AJVj5Fi01H0F__oyQZP0OuR6PY677NYyHFG_Tbd1aatpwau7U7qHNVCY83NSFse79qvuLkkOkB6aFSRQnaT_VfOyoOivE3DjFoIzUZmMpia2HTKdXL) .
+
+
+**About The Remedy Project**
+
+
+Founded in 2020, The Remedy Project is a Hong Kong-based social enterprise providing advisory, and capacity building services on labor and human rights in global supply chains. The organization works with companies, governments, multilaterals, and civil society to strengthen human rights due diligence, design and evaluate grievance mechanisms, and support effective remediation and access to remedy for workers, particularly in high-risk sectors and geographies across Asia.
+
+
+The Remedy Project is recognised for its rights-holder-centred and gender-responsive approaches, deep regional expertise, and contribution to global standard-setting and industry initiatives.
+
+
+For more information, please visit the Company’s website:
+
+
+[https://www.remedyproject.co/](https://www.globenewswire.com/Tracker?data=w73XRcE6J7IjuxcTVzZ3VYVyvZse3Jdd4LAJIgD4WCwNqGg4z3T-HGB0iIQZ9dkapHkzR3WxejCim4dFyq1ZWWW5ewVdJVGycXA5m4ILcQqGrWie8i6iRBOf0btU-dsi)
+
+
+**Forward-Looking Statements**
+Certain statements in this announcement are forward-looking statements. These forward-looking statements involve known and unknown risks and uncertainties and are based on the Company’s current expectations and projections about future events that the Company believes may affect its financial condition, results of operations, business strategy and financial needs. Investors can identify these forward-looking statements by words or phrases such as “approximates,” “believes,” “hopes,” “expects,” “anticipates,” “estimates,” “projects,” “intends,” “plans,” “will,” “would,” “should,” “could,” “may” or other similar expressions. The Company undertakes no obligation to update or revise publicly any forward-looking statements to reflect subsequent occurring events or circumstances, or changes in its expectations, except as may be required by law. Although the Company believes that the expectations expressed in these forward-looking statements are reasonable, it cannot assure you that such expectations will turn out to be correct, and the Company cautions investors that actual results may differ materially from the anticipated results and encourages investors to review other factors that may affect its future results disclosed in the Company's filings with the SEC.
+
+
+**Diginex**
+Investor Relations
+Email:[ir@diginex.com](https://www.globenewswire.com/Tracker?data=x38aeKbKt6NStjdL2Ku59LRe8WaLNmYNRhGcmRD2NiV286chGeAKrUM1p3Ws20rwM1sfBs4aCHKg2o5zvpzjXlMtlIPvUmqKP9o_bzqnDX1RYlKC64g2be9l04fjIm_quW_MwFYokpIg9djehd5clmr-NGEQHR_Sq-9TtZdwbnAg8p_GQmKdZ3pm4z983eFJ-2fvPfnlLPU6QPK4M6hR5gqCLMyizCst2vhIbSbgM8NS_yhnCMNV9N1UAoOpKqA4sT7jovvPqbBk80pVg4swWcmNp9SZswR-AmE7iPGl_AW7oKGTCbxBb6HgkrWjLqnqH1_QfobcZ9NEn7XQUkpAMjaOwPMPHJ5QwBS8E1PS58oD3BWJdgTWcWiW-f5kldB06clkF0VD9T5dxiA6tL50r9wD_TSC6MG7uhFDb6tvPh4yEo3YZyxmhFXIx-hNwiKEpCY89AhICj6gv72Qlg4d0Er2F4g2SXFjg-OKV5YYdNsE-6ri_WDVicRDp5n4GNf4LnlvBy5SHScn-yzRErT4d-bLaeSSh5xgl_-Yc2yeM7NwO4XByzR5vDJ039QLbA0g0vZ8FhwaB0tffaaOwq-vpzozSWQkeBA2KK8DpU-mjc_9H2-OrZAp5U25MRroS6-A8D2PUFvMzxvTPGftpgJYFXrxjO5U7LVfpCgCnhpPbsBTlC7sYrTfz4Ntlr0pgeKQb_PDCClLJofAZRxRJm0wSExFH_hVmZPNe4uj4zt6wKv-5dOjqgvR_-WtQrInTuSIXkIydJpC8wMrzSvmMpaehaSQvze7G1Lxsx9T1jZpv9mh0-SPSBg8eA5qNIwWLqjAsmQZPD4LgJ3IpDAfOP5L7NeiZ-Q-MEuxfArUeap6noa5XiE8tjZz_xGBZv1dwxULoG8qPv0n_qX0StM9GwugXrWCrdgHwaJi2t4NHdNJzUlo0Iq3NjzeHYfsNDL1XnasVLIpGV26Eguomf1o866V0NVQAS1uAL-0sjDWKllHql7d3-F75X4EI2cuG75TmoDV3k6NEJT9PgjFFyqwI-Z2RF0iJKfk3XCIFgDhTC1uelS4nAXTB9Em6SGxWzZBfEWFScaZl1YrDT682TJAPTFYYNvhOidX7IWM6hRtzGGs9c8ZgmdbBxzVUwfHSnyDT8C8SIE2jj3JuBnviiywqJAK-aB1xQkBQwmeU3DGYsb1Hg1mrhK9_A1rfdI9t2U4zer0W0NgNJiAVdRV7KQ3cAOmbV8FOdWRkgbFtvoHu-kdXVfpxs0dYWLMjuCKB-HszuYUsjwfjD_8XxU5XkrpBrWI250GxmCXDyaXmHIiXlQdOoaXe3IcZ27IxZv9oTb-AVzxMRyz4C7Ew5kn_DlUu98w26tHRmomd8RV18NSErksQISKSlxs2cW7dvLly8N_hn86Sd2WJK-AR0b-0NQ4OA5SUvkG1rOc_C_vyTFMA_OjHYFJfgMWKjKztIq3K-aypCiCfuu__HxFLcbegF62foNUyyTcUwIcSoeNkpj_pT57lmaz9EwoJ0wnz0fDb9PhCu2UGoEWDw8qPGduGWuYSSHIGX1KvWnK1irmHq57vIo-Cts=)
+
+
+**IR Contact - Europe**
+Anna Höffken
+Phone: +49.40.609186.0
+Email:[diginex@kirchhoff.de](https://www.globenewswire.com/Tracker?data=mwVbXm4PSvZrYh35qi8_1Lpzj0CxdbdRI3CFxAj-XBJdVWLW1So_i2SvPPFCK-3CDi5ZZqiEnAqOw-IaQS82gWgGPvs5CTgXj9fVu9KfBGdl582yAFGACnFEYVcx6C79_vmBSSaal0FUBGs9VPW9o9TBQqqjIehUexxt4JxvW4SCCeB9u7N3OOGbqihSx4CuFSGXzb3DF-mtlKP_WoH6DBaMLAxWFZQAx5p6px9aF9_YLixOrEgS4C_ZXdvSEBbt1wA-D7r0uVzub4YmlBTzUEOZVx3MvMPWMFA086IN9--WCS4zPANgyyo2k_ZSjhoN2okZW8DqiWIjA4dmUSwAcFHN1WXE3BF_qiSbjSJfbDSAOEQsAla2C3b9LnNscaRM4MmU_LmHew8EknLqVNQ2w95yLH0XYFuAqaqq2E8hcJwvTYZz7W282Ear28gnq1vrQ59PHdVoPTzn5C94M3BRawIXh79CZ6IYTmDQRHzpBa4c3sC_MLql8ydwZzu-8bIe1RHl9tv3V6s5Mbwq4aQQKl22m2WyoiUCuMqegNOlEGHMwZVa0aBSjbe5fJwaNSRGbMTW87xFnLn89RYGmjxEbh7HEyc3enoOtsd_wf_Vvko1wMi0dGlgmI2ns8f0384uf8NFzqWBHnt8jKV1m7oL36loy2tQUbr3hBLl3-7ujvenbPFckRM_IbO2iEoOUDQYrz0N-i6oRUfZgcwi58Q8zXXyIg5QUGs2-KhfdRE7Bm5GdAGn7wrpmg7bOytUfZ-OFAmTpRd17QQ9VccxNM8RQ3Gz3aZi25VOTi66tVbwXHCpX4dgx3MuIpuA_a7jz-zwMFMCuggm1a0XCbCo21oNknfpJdJHtUOeSqjmWTB-PAT97tqKYwcLmmngJQNyxe7t2SLR4x8OWpU0ydNflip3sGfaaj-Qmhn9b7GGMZneDOcYiMh1X-Es_A81iLGqN_E6XfeRaZP4ub0QOaqrce-Gi5iq6mvB3aYbenKbnhoOVPVndOpIvs_cqTkgQ6RMKDj1UAVbs7Tu4fFBFMZCcQ3tKDz1UA5Yzh-2sVUmQjI3l3zy3zQsW2f1Z24zvmefHk_gkyp2UwtuVX3CddUZjlYrRUjorH_Fg_DHEsB9hMm8wpk1X1e53jCPmcusKVpxqVCO1VCAJQpkNtebWYR9s91dCOybgLycIuEqRPVAnPgcpgiGAYeI_MEnGBXBgiRi_PQ17GdUmQrFXJKufPiz5PNyOOMrJdpSeAq5zRyOEQAhTFNLAoizR_4D2-jE1c8k1NEW_VogUYLIibAyTdLTfJ0aEPOlST6CF6pLELc3ySunGdqLTnGUHefR0bcDhaRyfCNb4lBY4ZFKU2_rSAD_g7AHAnCNiA-5ipmayxnlFrtTbnsXb1C4XzNxIAhMu-6Axd41pObhckFeiwzBUEC4eVDdPwDLGDP5n-H0CS_LOORdD1ZMunbdSExuCXScEfFcq-Nhsj-cv8o7fmLRch9OfzMGeHND-Lz_DJzw-5QrE7TAgAhf0b6gE93jb_xK0HJfEAO3MK_v-5DiNqaFCS5t8oEbDmjTssi3-pqkcZHVsYEQgp-LyrKhoITJMg6cG0MBhUl7WaJ3GMUmmwdKCl8dMhVKrRW1Nl4Ny1RyGLxk8oT2ZO97tqoav0H49-Cf0P92Wj5L68iRvQeXL5VFD3vsfBA9mwqyzaSZipGhpq-XdsuSO2imbMaP_5GNqRDwFP_lwCs2Do-UcTZ_u4gxmoJQepaIQQ==)
+
+
+**IR Contact - US**
+Jackson Lin
+Lambert by LLYC
+Phone: +1 (646) 717-4593
+Email:[jian.lin@llyc.global](https://www.globenewswire.com/Tracker?data=jZu41HwK5oe3nwMVkmcuHaYotjywYa0NfOaevw-Auy_tHh16oCl3BqVlPTtGkD7ZDvkx5g9MX7oC5l2ESOMzn4iEkgCbtWdzfdLKo1Z6ZlVT3fYEkABSHivsuvqX0SVZ8ZF4KSGTBq8IcCJpiklcALGMieMNQh718bSrgT2puAt32sqZoNT20cy3EWovCg4cgjlxYpDBikPXJN1lxbk3Dd9quBNU-BqxYOrrutENNKJEeacGuzUaE39KSazfmFokRHcNJMxT_NlwqKH319HhT8JvbNOdbKawPB86MALa0uA6cDLeQsRHCUDPCeJRe8N59GLv5C7HRjmyChH56UeAYR_AfOeX63XUUA2BoOi1_5fNeYXNYQfHc9eFOq6cI3iCkgLxKWkNgWhzaO8dcRHnCeI7qLbX798EuGeS5od4tJ1asatFiXRlqE4WgKFzSGBITD4u3gH3B41OLFGS6o26NISoZv3mNYpZZKAFnjxKmJU6m3eB22mUf3-B4HEnLjP8oyS6m-juoK6FgaoePPFSRS45TfYuWwNPIwnINojI_0tXXfkajt7r_TdTJikmr_Z_V0mZDgTCITAgr9kQq248zcJmXWFz22VduW336Bob01uLEMYmRNqi8JZTEHnXsKtJjq9T7WnjYJ8fVqhU-tvq_V1ISUBCBPPp3MvaqHiDmYBkuXIVeA5Y_JpAA5MsUIdARnjzoK2E_9i6qIdYlDaYw_nVHHAjbIJVaFfWMQIElX7Twy3OGZdhyRkzfXOxYhCKyPuCnve2LSW3Ll6GN0RKSgl9PelYEktwhEzyJt3Wo8BaHMl4Jeuhd2Xf9BLWuIvkZUoph3lMVScLXP65B-1fGEuv33oaUyRoEkMFnGHriz9hWUAYD_Tce4LrnX-xQ40Jhib0QKHnRb3bufmcWtVvGgTnSMPO7QbrTMYz29Yh3fHYDbnIWND3jxOjgPntjH_EzDluu5QNyVUFee3FyOwB3wW30LSJSEuhnTfbDSfROmdM0koky0gYnfQyRBNPV7jOJ_y8Nxh3qf5YCd7fvRAX98lL--T60jNpKY15of3fkwgha2HiN3PQe7q-G_qnJtHYwb_f8dQdMxUGZ8UI3NTpAT8AHg_pvl0o76u0Ai_S4LvVOT0KbAu4rD4C2YP6lwPCetVq-hwUdF1C12N4f8tm1Vc5ep9afdu09gAGtnsetsUuom6z4zM9zMpgbStzcxua8EWKPLle8nlQpgqEAov5zdyAJRV8cG0s76MUtOiI8AvsDpAWe4zU3uIDGkjvIWLJZxKpN4i9T6aU9tVMSk6Vd_BmtY1jFgs1U92NinZsKBJNoSigOSAd6cE2IxTugRTkBvmhiD_4Si-FbF6cQThV0g6WRRveozp9VSEiv4jVuCo5RU1sNWlQPa6_WYHgOdVEbTHXs6hqt4siEFZk1nfyn_p6_ZSTFQPHsNYx95AFB37EN08dzI4wUbJdZ2CjNdYNz00jWuohF9Pj8qhu-ODOfP8Wmsh4FAdTqP9SxYmy6tLLWDVyIz8sCIEnioG1JDn4jlwMyaglnZOO6B0iWVnmOmqCO2BDGhC92Yq_dN0F6wmK2GSDxsc698kTT0g1f0SSP8W5Y7KwPt4WvXG4ikkmcgT5GR9TuuO9iIcv-dHM3v6WfYtIKmuWSC5fC_71Kn_ts6PoLRXWhoi1C48My3CFVhc-4Isid7sdUQ-ExAXGG_YM8Lg0mzD8EldfhxMZyhns7_8kNLkBMzz2dhdiLzocrQ==)
+
+
+‍

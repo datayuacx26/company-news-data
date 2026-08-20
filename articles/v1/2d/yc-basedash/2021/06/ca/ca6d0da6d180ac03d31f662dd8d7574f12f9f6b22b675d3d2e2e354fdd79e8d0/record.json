@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca6d0da6d180ac03d31f662dd8d7574f12f9f6b22b675d3d2e2e354fdd79e8d0",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/optimizing-rest-api-calls/",
+    "canonical": "https://www.basedash.com/blog/optimizing-rest-api-calls/"
+  },
+  "title": "Optimizing REST API calls",
+  "summary": "How we migrated to React Query and reworked our API routes to reduce data-fetching calls by half and cut initial page-load data by 3x.",
+  "published_at": "2021-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2021/06/ca/ca6d0da6d180ac03d31f662dd8d7574f12f9f6b22b675d3d2e2e354fdd79e8d0/article.md",
+    "record": "articles/v1/2d/yc-basedash/2021/06/ca/ca6d0da6d180ac03d31f662dd8d7574f12f9f6b22b675d3d2e2e354fdd79e8d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10600,
+    "sha256": "sha256:1588a0c9269f55f53e3e47230e4e32e55b984ee98919b206805f1ab91865529b",
+    "normalized_content_hash": "sha256:1fafb7200a30a4cb938ef1dc11e525a0399bc69dfdfba1c078551b7440836e3a"
+  },
+  "provenance": {
+    "source_item_id": "0badfb1c-24ff-478f-ad22-d1e730dad8a4",
+    "external_id": "https://www.basedash.com/blog/optimizing-rest-api-calls/"
+  }
+}

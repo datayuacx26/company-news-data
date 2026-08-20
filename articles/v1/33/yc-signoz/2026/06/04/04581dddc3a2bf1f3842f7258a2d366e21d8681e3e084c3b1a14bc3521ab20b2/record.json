@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04581dddc3a2bf1f3842f7258a2d366e21d8681e3e084c3b1a14bc3521ab20b2",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-metrics-with-examples",
+    "canonical": "https://signoz.io/blog/opentelemetry-metrics-with-examples"
+  },
+  "title": "OpenTelemetry Metrics: A Complete Practical Guide",
+  "summary": "Learn what OpenTelemetry metrics are, how counters, gauges, and histograms work, and how to use views and exemplars, with practical code examples.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-07-28T22:07:34.703191+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/04/04581dddc3a2bf1f3842f7258a2d366e21d8681e3e084c3b1a14bc3521ab20b2/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/04/04581dddc3a2bf1f3842f7258a2d366e21d8681e3e084c3b1a14bc3521ab20b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25838,
+    "sha256": "sha256:d04937a6803467e3ec35cf21d2bd6a81d41756f8ce05d929bf85c48c5b319848",
+    "normalized_content_hash": "sha256:29b68b1bd10e5e69fea6bdd77d7620dc42913ea82a815637cbf57b92fcf2c862"
+  },
+  "provenance": {
+    "source_item_id": "6d51a570-cd5a-4a0d-b5c1-5cb6e21731ab",
+    "external_id": "https://signoz.io/blog/opentelemetry-metrics-with-examples"
+  }
+}

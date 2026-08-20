@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af235bbba863db6f36099fbaf92a7b99ba735ebc13b4b1b176979abfd9cb5d3b",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/writing-relationships-to-spicedb",
+    "canonical": "https://authzed.com/blog/writing-relationships-to-spicedb"
+  },
+  "title": "Writing relationships to SpiceDB",
+  "summary": "SpiceDB is a relationship-based permissions system inspired by the Google Zanzibar paper, storing relationships for fast and consistent access. Learn about different approaches to writing relationships into SpiceDB.",
+  "published_at": "2022-02-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2022/02/af/af235bbba863db6f36099fbaf92a7b99ba735ebc13b4b1b176979abfd9cb5d3b/article.md",
+    "record": "articles/v1/15/yc-authzed/2022/02/af/af235bbba863db6f36099fbaf92a7b99ba735ebc13b4b1b176979abfd9cb5d3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15450,
+    "sha256": "sha256:778b8be1e20db15a92dc60e2cb91295d9d8b6c4d9f27ca36f3c491abc35573ec",
+    "normalized_content_hash": "sha256:be51722f7674ea16d531e85b294673dde67bcb602ca474659a6ba7cc59bb23b7"
+  },
+  "provenance": {
+    "source_item_id": "93ee2e44-d034-410d-b480-66757e2091c7",
+    "external_id": "https://authzed.com/blog/writing-relationships-to-spicedb"
+  }
+}

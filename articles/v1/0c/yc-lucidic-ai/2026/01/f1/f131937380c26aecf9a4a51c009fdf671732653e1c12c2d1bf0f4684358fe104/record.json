@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f131937380c26aecf9a4a51c009fdf671732653e1c12c2d1bf0f4684358fe104",
+  "company": {
+    "key": "yc-lucidic-ai",
+    "name": "Lucidic AI"
+  },
+  "source": {
+    "id": "yc-lucidic-ai-news-import-f969a9536f72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lucidic.ai/research/gpt-4-1-mini-optimization/",
+    "canonical": "https://lucidic.ai/research/gpt-4-1-mini-optimization/"
+  },
+  "title": "Making GPT-4.1-mini as Good as GPT-5.2",
+  "summary": "We improved GPT-4.1-mini from 53% to 72% on τ²-bench using Lucidic's optimization algorithms, achieving performance comparable to GPT-5.2 at a fraction of the cost.",
+  "published_at": "2026-01-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T03:33:01.481958+00:00",
+  "fetched_at": "2026-07-28T22:23:35.329584+00:00",
+  "last_updated_at": "2026-08-19T14:27:08.222315+00:00",
+  "paths": {
+    "article": "articles/v1/0c/yc-lucidic-ai/2026/01/f1/f131937380c26aecf9a4a51c009fdf671732653e1c12c2d1bf0f4684358fe104/article.md",
+    "record": "articles/v1/0c/yc-lucidic-ai/2026/01/f1/f131937380c26aecf9a4a51c009fdf671732653e1c12c2d1bf0f4684358fe104/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4219,
+    "sha256": "sha256:7013bbe56740a91210b8557e12afd426eca99461efc5e35cba0567977113db53",
+    "normalized_content_hash": "sha256:e0e0d9641b0b8ba70028a653d7479a0443b5e9031ca0303bf716b6cd3cd17359"
+  },
+  "provenance": {
+    "source_item_id": "71468b95-5638-4add-8c90-6ff4d9cbe153",
+    "external_id": "https://lucidic.ai/research/gpt-4-1-mini-optimization/"
+  }
+}

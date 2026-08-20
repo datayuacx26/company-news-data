@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c57207268e4d71964cfbbc0217fc4fac0697f16845107a7f1eb8aa41806d17dc",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/08/05/setting-basic-auth-nginx/",
+    "canonical": "https://questdb.com/blog/2022/08/05/setting-basic-auth-nginx/"
+  },
+  "title": "Setting up Basic Authentication for QuestDB open source using Nginx",
+  "summary": "How to implement Nginx Basic Authentication for QuestDB open source.",
+  "published_at": "2022-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.080675+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/08/c5/c57207268e4d71964cfbbc0217fc4fac0697f16845107a7f1eb8aa41806d17dc/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/08/c5/c57207268e4d71964cfbbc0217fc4fac0697f16845107a7f1eb8aa41806d17dc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11774,
+    "sha256": "sha256:6e96d9d7d1fe53abe77ce587af9d742bc6d1632768ba36c4e19010c3a4dcee5e",
+    "normalized_content_hash": "sha256:f5375e7b0d2d7236cb839cc7ee7d47676810ace8f64ef4b6aba927da141f6135"
+  },
+  "provenance": {
+    "source_item_id": "ad193332-13fe-40ee-85f2-03eeba447d77",
+    "external_id": "https://questdb.com/blog/2022/08/05/setting-basic-auth-nginx/"
+  }
+}

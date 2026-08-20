@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b494b61196d62c17f09550091162d678ac964ba5ccf28721c66fba1bd0249429",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/mysql-transpose-rows-to-columns/",
+    "canonical": "https://www.basedash.com/blog/mysql-transpose-rows-to-columns/"
+  },
+  "title": "MySQL: Transpose Rows to Columns",
+  "summary": "Transposing rows to columns in MySQL involves reshaping data so that rows become columns, often for improved readability and data analysis.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/b4/b494b61196d62c17f09550091162d678ac964ba5ccf28721c66fba1bd0249429/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/b4/b494b61196d62c17f09550091162d678ac964ba5ccf28721c66fba1bd0249429/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3048,
+    "sha256": "sha256:fd357256e7d84ae7d5fa4b09646dd2613ff4451657c0e70a145b0af983e309a4",
+    "normalized_content_hash": "sha256:3c6409e0aa1a15a7975ae738d8add47ea95ae916044cbabfaca7a4c895cf3977"
+  },
+  "provenance": {
+    "source_item_id": "0516bf8f-2952-411f-ae30-5323dc8cc5ba",
+    "external_id": "https://www.basedash.com/blog/mysql-transpose-rows-to-columns/"
+  }
+}

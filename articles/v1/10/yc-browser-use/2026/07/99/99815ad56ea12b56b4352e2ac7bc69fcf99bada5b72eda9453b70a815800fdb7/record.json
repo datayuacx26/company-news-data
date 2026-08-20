@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99815ad56ea12b56b4352e2ac7bc69fcf99bada5b72eda9453b70a815800fdb7",
+  "company": {
+    "key": "yc-browser-use",
+    "name": "Browser Use"
+  },
+  "source": {
+    "id": "yc-browser-use-news-import-3219c37ba697",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://browser-use.com/posts/agentcore-migration",
+    "canonical": "https://browser-use.com/posts/agentcore-migration"
+  },
+  "title": "How We Built Secure, Scalable Agent Infrastructure with AWS Bedrock AgentCore",
+  "summary": "Agents should have nothing worth stealing and nothing worth preserving. Here's how we achieve that at scale using AWS Bedrock AgentCore.",
+  "published_at": "2026-07-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:50:46.032613+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-20T03:18:57.397492+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-browser-use/2026/07/99/99815ad56ea12b56b4352e2ac7bc69fcf99bada5b72eda9453b70a815800fdb7/article.md",
+    "record": "articles/v1/10/yc-browser-use/2026/07/99/99815ad56ea12b56b4352e2ac7bc69fcf99bada5b72eda9453b70a815800fdb7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8597,
+    "sha256": "sha256:be608b52f6abf03a010ee7d594599422083ab6725b1f5d41ec213d4ee998bc31",
+    "normalized_content_hash": "sha256:2923ef26d19127723f0c6334aba0a986c161b9fd02b57bcb10e03c2f254fd146"
+  },
+  "provenance": {
+    "source_item_id": "1766b0c4-2977-483a-886f-9c85a88815c7",
+    "external_id": "https://browser-use.com/posts/agentcore-migration"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-origami-2",
+    "name": "Origami"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-07-23T00:00:00+00:00",
+  "last_published_at": "2026-07-26T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1c/yc-origami-2/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 11584,
+        "sha256": "sha256:3e04e9f0ad94ef755e83cb4a0b2a5f2d014f897127c5f26b13ba4471aeecf650",
+        "newest_at": "2026-07-26T00:00:00+00:00",
+        "oldest_at": "2026-07-23T00:00:00+00:00"
+      }
+    ]
+  }
+}

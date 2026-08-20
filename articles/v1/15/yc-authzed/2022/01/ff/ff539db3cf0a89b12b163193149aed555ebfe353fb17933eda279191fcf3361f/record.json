@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff539db3cf0a89b12b163193149aed555ebfe353fb17933eda279191fcf3361f",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/using-github-to-manage-your-first-cve",
+    "canonical": "https://authzed.com/blog/using-github-to-manage-your-first-cve"
+  },
+  "title": "Using GitHub to manage your first CVE",
+  "summary": "Learn how the Authzed team remediated their first security issue on their open source project, SpiceDB, using GitHub Security Advisories. Follow their journey from identifying the issue to developing a fix privately and publishing a CVE and advisory.",
+  "published_at": "2022-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:04:10.558196+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2022/01/ff/ff539db3cf0a89b12b163193149aed555ebfe353fb17933eda279191fcf3361f/article.md",
+    "record": "articles/v1/15/yc-authzed/2022/01/ff/ff539db3cf0a89b12b163193149aed555ebfe353fb17933eda279191fcf3361f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19672,
+    "sha256": "sha256:3952371d8a2d1ce93842cd2948c11455bd3ee20deb7ffe2aac45e1ff5477076e",
+    "normalized_content_hash": "sha256:d7fff2aedd669abc80638cb5d4c6572092dd229600ea4129a99445e5f1d5b002"
+  },
+  "provenance": {
+    "source_item_id": "d4a65a9d-ef9c-48ba-8a44-4af2f803eac4",
+    "external_id": "https://authzed.com/blog/using-github-to-manage-your-first-cve"
+  }
+}

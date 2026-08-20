@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5958b971aec5e24b43c1afa77babddcaef22be23168eb26c32b63bd995b25ffb",
+  "company": {
+    "key": "yc-deepnote",
+    "name": "Deepnote"
+  },
+  "source": {
+    "id": "yc-deepnote-news-import-1c599340c4cd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepnote.com/blog/how-we-used-claude-to-fix-failing-tests",
+    "canonical": "https://deepnote.com/blog/how-we-used-claude-to-fix-failing-tests"
+  },
+  "title": "How we used Claude Opus 4.6 to fix failing E2E tests",
+  "summary": "We engineers hate writing tests. Fixing broken ones? Even less so. But for any enterprise-grade product, this is a must. So the true enjoyment of using AI in coding comes from using natural language and thinking models to address this issue. It all started with a regression after a release.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T08:11:39.657869+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-08-20T03:00:37.554296+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-deepnote/2026/07/59/5958b971aec5e24b43c1afa77babddcaef22be23168eb26c32b63bd995b25ffb/article.md",
+    "record": "articles/v1/2b/yc-deepnote/2026/07/59/5958b971aec5e24b43c1afa77babddcaef22be23168eb26c32b63bd995b25ffb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8511,
+    "sha256": "sha256:52ee4f7841090636ffa27191e2278b21dfd046736da06b511c82f54862409a3f",
+    "normalized_content_hash": "sha256:eba2fc293358996f2145346a793540ec54d22bf69e9b1270cc67afdff5bf49c6"
+  },
+  "provenance": {
+    "source_item_id": "6689afbf-5c2f-425a-9878-e71abbc750d7",
+    "external_id": "https://deepnote.com/blog/how-we-used-claude-to-fix-failing-tests"
+  }
+}

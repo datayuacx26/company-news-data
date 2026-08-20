@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "california-water-service-group-common-stock",
+    "name": "California Water Service Group"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-06-01T20:15:00+00:00",
+  "last_published_at": "2026-08-19T20:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/36/california-water-service-group-common-stock/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 32870,
+        "sha256": "sha256:a9ef1bc02389c1fd9726c96799282fd88a83cf1cf7473eccf02f9829c8714b2a",
+        "newest_at": "2026-08-19T20:15:00+00:00",
+        "oldest_at": "2026-06-01T20:15:00+00:00"
+      }
+    ]
+  }
+}

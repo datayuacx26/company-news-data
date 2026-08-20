@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "10071b48a3f5734cbe182a4a7f5e6c89a11bde2be6f004271a222702e7296b7d",
+  "company": {
+    "key": "yc-assemblyai",
+    "name": "AssemblyAI"
+  },
+  "source": {
+    "id": "yc-assemblyai-news-import-c38147bde659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.assemblyai.com/blog/how-to-evaluate-speech-recognition-models?ref=changelog.assemblyai.com",
+    "canonical": "https://www.assemblyai.com/blog/how-to-evaluate-speech-recognition-models"
+  },
+  "title": "How to evaluate speech recognition models",
+  "summary": "Learn how to evaluate speech-to-text models beyond Word Error Rate. This guide covers Semantic WER, Missed Entity Rate, ground truth correction, and practical benchmarking frameworks for 2026.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:06:00.112884+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-20T02:12:32.479055+00:00",
+  "paths": {
+    "article": "articles/v1/23/yc-assemblyai/2026/07/10/10071b48a3f5734cbe182a4a7f5e6c89a11bde2be6f004271a222702e7296b7d/article.md",
+    "record": "articles/v1/23/yc-assemblyai/2026/07/10/10071b48a3f5734cbe182a4a7f5e6c89a11bde2be6f004271a222702e7296b7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28902,
+    "sha256": "sha256:ffea98f7bb24f961f4aac3c44711ffd9ba1204f3b5ad9734bfb9f7f264d1df08",
+    "normalized_content_hash": "sha256:817049b1a93c988c7f9ac23926c09bdb995a4b68df3f73473c5f6ac92b02868b"
+  },
+  "provenance": {
+    "source_item_id": "15857fb8-d1eb-42c9-b515-69781b02f560",
+    "external_id": "https://www.assemblyai.com/blog/how-to-evaluate-speech-recognition-models"
+  }
+}

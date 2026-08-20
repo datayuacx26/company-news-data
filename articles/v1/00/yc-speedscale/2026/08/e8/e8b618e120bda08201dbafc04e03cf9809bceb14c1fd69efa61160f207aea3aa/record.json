@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8b618e120bda08201dbafc04e03cf9809bceb14c1fd69efa61160f207aea3aa",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/separate-app-latency-network-failure-hubble-proxymock/",
+    "canonical": "https://speedscale.com/blog/separate-app-latency-network-failure-hubble-proxymock/"
+  },
+  "title": "Separate Application Latency From Network Failure With Hubble",
+  "summary": "Use Cilium Hubble flow evidence and proxymock replay to prove whether a Kubernetes timeout came from your code, a dependency, or a dropped packet.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T22:41:53.571756+00:00",
+  "fetched_at": "2026-08-13T22:41:57.768476+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/08/e8/e8b618e120bda08201dbafc04e03cf9809bceb14c1fd69efa61160f207aea3aa/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/08/e8/e8b618e120bda08201dbafc04e03cf9809bceb14c1fd69efa61160f207aea3aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23531,
+    "sha256": "sha256:32a873d65af1fbc6a116e628b99d17aaa48d2b23305d41667fbcc770998630c9",
+    "normalized_content_hash": "sha256:53ea678d2fb47ccd243135f6b0286afee41ec67514fe3210c742bc898571b47e"
+  },
+  "provenance": {
+    "source_item_id": "893c1e3b-0a7a-4f5d-9648-b557ed18ccac",
+    "external_id": "https://speedscale.com/blog/separate-app-latency-network-failure-hubble-proxymock/"
+  }
+}

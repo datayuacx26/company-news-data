@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81efbf4c3fef6e5477d2270dc1a4aedadd6401e26225d589777070888a824015",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/ve-cve-2026-55040-microsoft-sharepoint-jwt-token-authentication-bypass-fixed",
+    "canonical": "https://www.rapid7.com/blog/post/ve-cve-2026-55040-microsoft-sharepoint-jwt-token-authentication-bypass-fixed"
+  },
+  "title": "CVE-2026-55040: Microsoft SharePoint JWT Token Authentication Bypass (FIXED)",
+  "summary": "Rapid7 Labs conducted a zero-day research project against Microsoft SharePoint, resulting in the discovery of 2 new vulnerabilities that – when chained together – achieve unauthenticated remote code execution against a vulnerable SharePoint server. More in a new technical blog post.",
+  "published_at": "2026-07-14T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:41.599179+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-07-30T15:39:13.946467+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/81/81efbf4c3fef6e5477d2270dc1a4aedadd6401e26225d589777070888a824015/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/81/81efbf4c3fef6e5477d2270dc1a4aedadd6401e26225d589777070888a824015/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8329,
+    "sha256": "sha256:fc8319241830739113f4173a5221a8e492d34a61863bcc324a57fc87ed1fe824",
+    "normalized_content_hash": "sha256:bccc6ae00fbe923766629c94ae367cd3b244e22144ca57d56e050dd4e52a73a7"
+  },
+  "provenance": {
+    "source_item_id": "06355fc3-a94b-49fb-a767-c9d0a1353774",
+    "external_id": "bltf8796a67500f23fd"
+  }
+}

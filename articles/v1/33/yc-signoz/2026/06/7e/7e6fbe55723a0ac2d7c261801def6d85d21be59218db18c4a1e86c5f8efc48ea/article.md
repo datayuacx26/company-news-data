@@ -1,0 +1,660 @@
+---
+schema_version: "1.0.0"
+document_id: "7e6fbe55723a0ac2d7c261801def6d85d21be59218db18c4a1e86c5f8efc48ea"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/blog/morgan-logger"
+published_at: "2026-06-11T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T21:11:25.860154+00:00"
+content_hash: "sha256:57f86559174e844b342912f689a08c6ab8b6a21f1f0585d456b869fabf8cf23b"
+---
+
+# Morgan Logger: Node.js HTTP Logging Guide
+
+# Morgan Logger: Node.js HTTP Logging Guide
+
+
+Last Updated: June 11, 2026
+
+
+10 min read
+
+
+[Morgan](https://github.com/expressjs/morgan) is a popular HTTP logging library for Node.js. It is designed to be a simple and flexible tool for logging HTTP requests and responses in Node.js applications.
+
+
+Using Morgan, you can easily log requests made to your Node.js server, including information such as the request method, the URL of the request, the status code of the response, and the length of the response body. You can also customize the format of the log messages and specify which requests should be logged and which should be ignored.
+
+
+## Why should you use Morgan Logger?
+
+
+Here are a few reasons why you should use Morgan:
+
+
+1. **It is easy to use** : Morgan Logger is a simple and lightweight logging library, making it easy to get started and integrate into your application.
+2. **It is flexible** : You can customize the format of log messages and specify which requests to log and which to ignore. This allows you to tailor the logging to your specific needs.
+3. **It provides useful information** : Morgan logs details about HTTP requests and responses, such as the request method, URL, status code, and response body length. This can be helpful for debugging and understanding how your application is being used.
+4. **It is widely used** : Morgan is a popular logging library for Node.js with over 8 million weekly downloads on[npm](https://www.npmjs.com/package/morgan) , and is a[dependency of more than 9600 packages](https://www.npmjs.com/package/morgan?activeTab=dependents) , meaning it is well-tested and supported.
+
+
+## Types of Log Output Formats in Morgan Logger
+
+
+Morgan provides different ways to format your log output. You can use predefined format strings for common use cases, a function-based format for full control, or custom tokens for extending the available data points.
+
+
+Let us learn about these methods in brief.
+
+
+### Pre-defined Morgan Log formats
+
+
+Morgan includes five predefined formats. Use any of them by passing the format name as a string:
+
+
+` morgan(’combined’)` :
+
+
+It follows the standard Apache combined output format while logging. This is the most detailed predefined format and is commonly used in production for access logs.
+
+
+combined-output-format
+
+
+```text
+:  remote -  addr  -    :  remote -  user  [  :  date [  clf ]  ]    ":method :url HTTP/:http-version"    :  status  :  res [  content -  length ]    ":referrer"    ":user-agent"
+
+
+```
+
+
+*Morgan logging combined format*
+
+
+` morgan(’common’)` :
+
+
+It follows the standard Apache common log format while logging, similar to combined but without the referrer and user-agent fields.
+
+
+common-output-format
+
+
+```text
+:  remote -  addr  -    :  remote -  user  [  :  date [  clf ]  ]    ":method :url HTTP/:http-version"    :  status  :  res [  content -  length ]
+
+
+```
+
+
+*Morgan Logger common format*
+
+
+` morgan('dev')` :
+
+
+It provides a concise output, colors it by response status, and targets development use. The system colors the` status` token green for success codes, red for server error codes, yellow for client error codes, cyan for redirection codes, and leaves it uncolored for information codes.
+
+
+dev-output-format
+
+
+```text
+:  method  :  url  :  status  :  response -  time ms  -    :  res [  content -  length ]
+
+
+```
+
+
+*Morgan Logger dev format*
+
+
+` morgan('short')` :
+
+
+It is shorter than the default format, including response time.
+
+
+short-output-format
+
+
+```text
+:  remote -  addr  :  remote -  user  :  method  :  url  HTTP  /  :  http -  version  :  status  :  res [  content -  length ]    -    :  response -  time ms
+
+
+```
+
+
+*Morgan Logger short format*
+
+
+` morgan('tiny')` :
+
+
+It gives minimal output while logging the HTTP requests in the following format.
+
+
+tiny-output-format
+
+
+```text
+:  method  :  url  :  status  :  res [  content -  length ]    -    :  response -  time ms
+
+
+```
+
+
+*Morgan Logger tiny format*
+
+
+### Function-based format
+
+
+In addition to format strings, Morgan accepts a function as the format argument. This gives you full control over the log output and is the standard way to produce structured JSON logs:
+
+
+function-based-format
+
+
+```text
+app .  use  (  morgan  (  function    (  tokens ,   req ,   res  )    {
+return    JSON  .  stringify  (  {
+method  :   tokens .  method  (  req ,   res )  ,
+url  :   tokens .  url  (  req ,   res )  ,
+status  :   tokens .  status  (  req ,   res )  ,
+responseTime  :   tokens [  'response-time'  ]  (  req ,   res )    +    ' ms'  ,
+contentLength  :   tokens .  res  (  req ,   res ,    'content-length'  )
+}  )  ;
+}  )  )  ;
+
+
+```
+
+
+The function receives` tokens` ,` req` , and` res` as arguments, and should return a string (the log line) or null/undefined to skip logging that request.
+
+
+### Creating Tokens in Morgan Logger
+
+
+In Morgan, tokens are functions are identified by a colon (:). You can also create your own tokens using the` .token()` method provided by the Morgan library.
+
+
+You can create your own tokens using` morgan.token()` :
+
+
+```text
+morgan .  token  (  'type'  ,    function    (  req ,   res  )    {
+return   req .  headers  [  'content-type'  ]
+}  )
+
+
+```
+
+
+Here’s a small example of creating tokens:
+
+
+index.js
+
+
+```text
+const   express  =    require  (  'express'  )
+const   morgan  =    require  (  'morgan'  )
+const   uuid  =    require  (  'uuid'  )
+const    PORT    =   process .  env  .  PORT    ||    "5555"  ;
+
+
+morgan .  token  (  'id'  ,    (  req  )    =>    {    //creating id token
+return   req .  id
+}  )
+
+
+const   app  =    express  (  )
+
+
+app .  use  (  assignId )
+app .  use  (  morgan  (  ':id :method :url :response-time'  )  )
+
+
+app .  get  (  '/'  ,    function    (  req ,   res  )    {
+res .  send  (  'hello, world!'  )
+}  )
+
+
+function    assignId    (  req ,   res ,   next  )    {
+const   id  =   uuid .  v4  (  )
+req .  id    =   id
+next  (  )
+}
+
+
+app .  listen  (  parseInt  (  PORT  ,    10  )  ,    (  )    =>    {
+console  .  log  (  `  Listening on http://localhost:  ${  PORT  }   `   )  ;
+}  )  ;
+
+
+```
+
+
+**Output:**
+
+
+**
+
+
+Let us use Morgan Logger in a sample Nodejs application and send the captured logs to an[open-source log management tool](https://signoz.io/blog/best-open-source-log-management-tools/) .
+
+
+## Getting Started with Morgan Logger
+
+
+### Prerequisites
+
+
+To follow along, you'll need[Node.js](https://nodejs.org/en/download) , which ships with npm out of the box. We'll use[Express](https://expressjs.com/) as our web framework. If you're new to logging in Node.js, our[Node.js Logging](https://signoz.io/guides/nodejs-logging/) guide covers the fundamentals and how Morgan fits alongside libraries like[Winston](https://signoz.io/blog/winston-logger/) and[Pino](https://signoz.io/guides/pino-logger-nodejs-logging-library/) .
+
+
+### Steps to use Morgan Logger
+
+
+Create a node project in the current directory:
+
+
+```text
+mkdir   morgan-nodejs-example
+cd   morgan-nodejs-example
+
+
+```
+
+
+Initialize an npm project:
+
+
+```text
+npm   init  -y
+
+
+```
+
+
+Install express and morgan packages:
+
+
+```text
+npm   i morgan express
+
+
+```
+
+
+Create an entry file called` index.js` :
+
+
+```text
+touch   index.js
+
+
+```
+
+
+Create a basic Hello-World Express app:
+
+
+index.js
+
+
+```text
+const   express  =    require  (  "express"  )  ;
+const    PORT    =   process .  env  .  PORT    ||    "5555"  ;
+const   app  =    express  (  )  ;
+
+
+app .  use  (  express .  json  (  )  )
+
+
+app .  get  (  "/"  ,    (  req ,   res  )    =>    {
+res .  json  (  {    method  :   req .  method  ,    message  :    "Hello World"  ,    ...  req .  body    }  )  ;
+}  )  ;
+
+
+app .  get  (  '/404'  ,    (  req ,   res  )    =>    {
+res .  sendStatus  (  404  )  ;
+}  )
+
+
+app .  get  (  "/user"  ,    (  req ,   res ,   next  )    =>    {
+try    {
+throw    new    Error  (  "Invalid user"  )  ;
+}    catch    (  error )    {
+res .  status  (  500  )  .  send  (  "Error!"  )  ;
+}
+}  )  ;
+
+
+app .  listen  (  parseInt  (  PORT  ,    10  )  ,    (  )    =>    {
+console  .  log  (  `  Listening on http://localhost:  ${  PORT  }   `   )  ;
+}  )  ;
+
+
+```
+
+
+Run the server with the below command and hit` http://localhost:5555` :
+
+
+```text
+node   index.js
+
+
+```
+
+
+If done correctly, the console should show` Listening on http://localhost:5555` . At this point, the project structure should look like this:
+
+
+project-structure
+
+
+```text
+morgan-nodejs-example/
+├── node_modules/
+├── index.js
+├── logger.js
+├── package-lock.json
+└── package.json
+
+
+```
+
+
+### Using the Morgan Logger
+
+
+In the` index.js` file, include require` morgan` .
+
+
+index.js
+
+
+```text
+const express  =   require (  "express"  )  ;
+const morgan  =   require (  "morgan"  )  ;
+..  .
+
+
+```
+
+
+To use Morgan in your Express server, you can call an instance of it and pass it as an argument to the` .use()` middleware before handling any HTTP requests. Morgan provides a set ofpredefined format strings , called presets, that you can use to create a logger middleware with a specific format and options. The` tiny` preset generates minimal output when logging HTTP requests.
+
+
+The final code in your` index.js` file will look like this.
+
+
+index.js
+
+
+```text
+const   express  =    require  (  "express"  )  ;
+const   morgan  =    require  (  "morgan"  )  ;
+const    PORT    =   process .  env  .  PORT    ||    "5555"  ;
+const   app  =    express  (  )  ;
+
+
+app .  use  (  express .  json  (  )  )
+app .  use  (  morgan  (  'tiny'  )  )
+
+
+app .  get  (  "/"  ,    (  req ,   res  )    =>    {
+}  )  ;
+
+
+app .  get  (  '/404'  ,    (  req ,   res  )    =>    {
+res .  sendStatus  (  404  )  ;
+}  )
+
+
+app .  get  (  "/user"  ,    (  req ,   res  )    =>    {
+try    {
+throw    new    Error  (  "Invalid user"  )  ;
+}    catch    (  error )    {
+res .  status  (  500  )  .  send  (  "Error!"  )  ;
+}
+}  )  ;
+
+
+app .  listen  (  parseInt  (  PORT  ,    10  )  ,    (  )    =>    {
+console  .  log  (  `  Listening on http://localhost:  ${  PORT  }   `   )  ;
+}  )  ;
+
+
+```
+
+
+Logs will be captured depending on the route we hit:
+
+
+*Logs generated using Morgan Logger*
+
+
+In a production environment, you will need a log management tool to store, search, and analyze your logs. In this tutorial, we will use[SigNoz](https://signoz.io/) , an all-in-one observability platform built natively on OpenTelemetry. SigNoz brings logs, traces, and metrics into a single unified interface, so you can jump from a Morgan access log straight to the underlying trace and see exactly what happened across your services. It's available as a[SigNoz Cloud](https://signoz.io/docs/cloud/) and[self-hosted](https://signoz.io/docs/install/self-host/) , we will be using SigNoz Cloud.
+
+
+## Sending logs to SigNoz
+
+
+Since Morgan writes to stdout via console.log by default, we can use OpenTelemetry's log SDK to intercept those console calls and send them directly to SigNoz Cloud.
+
+
+### Step 1: Create a SigNoz Cloud Account
+
+
+Sign up for a free[SigNoz Cloud account](https://signoz.io/teams/) (30-day free trial, no credit card required). Once you're in, generate and note your[ingestion key](https://signoz.io/docs/ingestion/signoz-cloud/keys/) and[ingestion URL](https://signoz.io/docs/ingestion/signoz-cloud/overview/#how-do-i-find-my-ingestion-url) from the Settings page. You'll need both in the next step.
+
+
+### Step 2: Install OpenTelemetry Dependencies
+
+
+In your existing morgan-nodejs-example project, install the required OpenTelemetry packages:
+
+
+```text
+npm    install    --save   @opentelemetry/api-logs  \
+@opentelemetry/sdk-logs  \
+@opentelemetry/exporter-logs-otlp-http  \
+@opentelemetry/resources  \
+@opentelemetry/semantic-conventions
+
+
+```
+
+
+### Step 3: Set Environment Variables
+
+
+Configure the OpenTelemetry exporter to point to your SigNoz Cloud instance:
+
+
+```text
+export    OTEL_EXPORTER_OTLP_ENDPOINT  =  "https://ingest.<region>.signoz.cloud:443"
+export    OTEL_EXPORTER_OTLP_HEADERS  =  "signoz-ingestion-key=<your-ingestion-key>"
+export    OTEL_SERVICE_NAME  =  "morgan-nodejs-example"
+
+
+```
+
+
+Replace` <region>` with your SigNoz Cloud region and` <your-ingestion-key>` with your ingestion key.
+
+
+### Step 4: Configure the OpenTelemetry Logger
+
+
+Create a file called` logger.js` in your project root. This sets up the OpenTelemetry log exporter that reads from the environment variables above:
+
+
+logger.js
+
+
+```text
+const    {    LoggerProvider  ,    BatchLogRecordProcessor    }    =    require  (  "@opentelemetry/sdk-logs"  )  ;
+const    {    OTLPLogExporter    }    =    require  (  "@opentelemetry/exporter-logs-otlp-http"  )  ;
+const    {   resourceFromAttributes  }    =    require  (  "@opentelemetry/resources"  )  ;
+const    {    ATTR_SERVICE_NAME    }    =    require  (  "@opentelemetry/semantic-conventions"  )  ;
+
+
+const   resource  =    resourceFromAttributes  (  {
+[  ATTR_SERVICE_NAME  ]  :   process .  env  .  OTEL_SERVICE_NAME    ||    "express-app"  ,
+}  )  ;
+
+
+const   logExporter  =    new    OTLPLogExporter  (  {  }  )  ;
+
+
+const   loggerProvider  =    new    LoggerProvider  (  {
+resource ,
+processors  :    [  new    BatchLogRecordProcessor  (  logExporter )  ]  ,
+}  )  ;
+
+
+module .  exports    =   loggerProvider ;
+
+
+```
+
+
+### Step 5: Instrument the Console
+
+
+Create a file called` console-instrumentation.js` . This wraps the default console methods so that everything Morgan writes to stdout is also forwarded to SigNoz via OpenTelemetry:
+
+
+console-instrumentation.js
+
+
+```text
+require  (  "@opentelemetry/api-logs"  )  ;
+const   loggerProvider  =    require  (  "./logger"  )  ;
+
+
+const   logger  =   loggerProvider .  getLogger  (  "default"  ,    "1.0.0"  )  ;
+
+
+const   originalConsole  =    {
+log  :    console  .  log  ,
+info  :    console  .  info  ,
+warn  :    console  .  warn  ,
+error  :    console  .  error  ,
+debug  :    console  .  debug  ,
+}  ;
+
+
+const    SeverityNumber    =    {    DEBUG  :    5  ,    INFO  :    9  ,    WARN  :    13  ,    ERROR  :    17    }  ;
+
+
+function    wrap  (  method ,   severityNumber ,   severityText  )    {
+console [  method ]    =    function    (  ...  args  )    {
+const   message  =   args
+.  map  (  (  a  )    =>    (  typeof   a  ===    "object"    ?    JSON  .  stringify  (  a )    :    String  (  a )  )  )
+.  join  (  " "  )  ;
+logger .  emit  (  {   severityNumber ,   severityText ,    body  :   message ,    attributes  :    {  }    }  )  ;
+originalConsole [  method ]  .  apply  (  console ,   args )  ;
+}  ;
+}
+
+
+wrap  (  "log"  ,      SeverityNumber  .  INFO  ,     "INFO"  )  ;
+wrap  (  "info"  ,     SeverityNumber  .  INFO  ,     "INFO"  )  ;
+wrap  (  "warn"  ,     SeverityNumber  .  WARN  ,     "WARN"  )  ;
+wrap  (  "error"  ,    SeverityNumber  .  ERROR  ,    "ERROR"  )  ;
+wrap  (  "debug"  ,    SeverityNumber  .  DEBUG  ,    "DEBUG"  )  ;
+
+
+```
+
+
+### Step 6: Update Your Application
+
+
+Add the console instrumentation at the very top of your` index.js` , before any other code and update the morgan to route its output through console.log by passing a custom stream:
+
+
+index.js
+
+
+```text
+require  (  './console-instrumentation'  )  ;
+const   express  =    require  (  "express"  )  ;
+const   morgan  =    require  (  "morgan"  )  ;
+const    PORT    =   process .  env  .  PORT    ||    "5555"  ;
+const   app  =    express  (  )  ;
+
+
+app .  use  (  express .  json  (  )  )
+app .  use  (  morgan  (  'tiny'  ,  {
+stream  :    {
+write  :    (  message  )    =>    console  .  log  (  message .  trim  (  )  )
+}
+}  )  )
+
+
+app .  get  (  "/"  ,    (  req ,   res  )    =>    {
+}  )  ;
+
+
+app .  get  (  '/404'  ,    (  req ,   res  )    =>    {
+res .  sendStatus  (  404  )  ;
+}  )
+
+
+app .  get  (  "/user"  ,    (  req ,   res  )    =>    {
+try    {
+throw    new    Error  (  "Invalid user"  )  ;
+}    catch    (  error )    {
+res .  status  (  500  )  .  send  (  "Error!"  )  ;
+}
+}  )  ;
+
+
+app .  listen  (  parseInt  (  PORT  ,    10  )  ,    (  )    =>    {
+console  .  log  (  `  Listening on http://localhost:  ${  PORT  }   `   )  ;
+}  )  ;
+
+
+```
+
+
+### Step 7: Run and Verify
+
+
+Start your application:
+
+
+```text
+node   index.js
+
+
+```
+
+
+Hit your routes (` /` ,` /404` ,` /user` ) and then navigate to the Logs Explorer in your SigNoz Cloud dashboard. You should see your Morgan access logs appearing with the service name` morgan-nodejs-example` . You can filter, search, and query them using SigNoz's query builder.
+
+
+*Morgan access logs appearing in the SigNoz Logs Explorer*
+
+
+If your logs aren't appearing, double-check that your region and ingestion key are correct, and that console-instrumentation.js is the first import in index.js. For more troubleshooting tips, see the[SigNoz Node.js logs documentation](https://signoz.io/docs/logs-management/send-logs/nodejs-logs/) .
+
+
+## Conclusion
+
+
+Logs are essential to a developer’s workflow and critical to debugging applications. Morgan is a simple logging library that makes the process more flexible and extensible. Once the logs are generated, you can collect them with SigNoz.
+
+
+SigNoz uses[OpenTelemetry](https://signoz.io/opentelemetry/) to collect logs. With OpenTelemetry, you can also correlate your logs with other telemetry signals like metrics and traces. Having contextual information in your logs can help you debug applications faster. You can get an overview of log management in SigNoz from the[logs documentation](https://signoz.io/docs/logs-management/overview/) .

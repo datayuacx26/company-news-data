@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7bae0273247f6f9eaaff03872b26d98d7dc0dbb5459bae1396ec72814f3f807d",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/ehr-integration-healthcare-ai",
+    "canonical": "https://www.integuru.com/blog/ehr-integration-healthcare-ai"
+  },
+  "title": "How Healthcare AI Companies Integrate with EHRs That Lack Modern APIs",
+  "summary": "FHIR covers patient data. Browser automation breaks on UI updates. This guide walks through the four EHR integration approaches healthcare AI teams use in 2026, where each one fails, and how direct HTTP access gets you to production in under a day.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:36.760286+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/7b/7bae0273247f6f9eaaff03872b26d98d7dc0dbb5459bae1396ec72814f3f807d/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/7b/7bae0273247f6f9eaaff03872b26d98d7dc0dbb5459bae1396ec72814f3f807d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11376,
+    "sha256": "sha256:2e71dd0040ffc96c4ebd8178928bf8731df9697d7396fb0f2a5f717fd40607e9",
+    "normalized_content_hash": "sha256:832b58a18497316bf9746709e75f5cfa5c9c4ac0fcee900e945eefb0d2bf84e0"
+  },
+  "provenance": {
+    "source_item_id": "5fcbb360-5329-438b-a445-641291569fba",
+    "external_id": "https://www.integuru.com/blog/ehr-integration-healthcare-ai"
+  }
+}

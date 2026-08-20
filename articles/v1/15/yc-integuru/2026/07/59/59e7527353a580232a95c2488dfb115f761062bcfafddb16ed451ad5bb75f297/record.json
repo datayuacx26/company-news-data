@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59e7527353a580232a95c2488dfb115f761062bcfafddb16ed451ad5bb75f297",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/integuru-vs-apify",
+    "canonical": "https://www.integuru.com/blog/integuru-vs-apify"
+  },
+  "title": "Integuru vs. Apify: API Generation vs. Web Scraping for Production Integrations",
+  "summary": "Your team needs data or actions from a platform with no official API. Apify and Integuru both solve this problem, but at different layers of the web stack. A fair comparison across latency, reliability, auth complexity, and maintenance burden.",
+  "published_at": "2026-07-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:10:38.353575+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/59/59e7527353a580232a95c2488dfb115f761062bcfafddb16ed451ad5bb75f297/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/59/59e7527353a580232a95c2488dfb115f761062bcfafddb16ed451ad5bb75f297/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17599,
+    "sha256": "sha256:7b25ed6d58ebbbff797451d10b5fe1dbf1f0e4056af2557390fae471ca16c7b9",
+    "normalized_content_hash": "sha256:a915f89bcb9b7041617fe72db009cbe4a168b54d3be853da4c5aa025f027edab"
+  },
+  "provenance": {
+    "source_item_id": "38df25b4-ce4a-4074-bf4d-4fe3ac48e540",
+    "external_id": "https://www.integuru.com/blog/integuru-vs-apify"
+  }
+}

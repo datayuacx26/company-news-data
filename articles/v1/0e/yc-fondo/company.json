@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fondo",
+    "name": "Fondo"
+  },
+  "record_count": 55,
+  "first_published_at": "2023-02-10T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 15
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0e/yc-fondo/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49271,
+        "sha256": "sha256:4826727d4673e0f908eb190f13f16d2c2ce8365e22c2173bb133e1be4d8a8d71",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-02-11T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0e/yc-fondo/index/pages/000002.json",
+        "record_count": 5,
+        "byte_count": 4481,
+        "sha256": "sha256:17b4140fa5772ce59c0d3c4c699a0d78ccde77f8800f4ed9a24cf462f6b9ddf1",
+        "newest_at": "2026-02-11T00:00:00+00:00",
+        "oldest_at": "2023-02-10T00:00:00+00:00"
+      }
+    ]
+  }
+}

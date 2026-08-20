@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed508208038ea3f307b4bd126b827f2613813cabdf0e82d58782e1c36b359405",
+  "company": {
+    "key": "yc-todesktop",
+    "name": "ToDesktop"
+  },
+  "source": {
+    "id": "yc-todesktop-news-import-b82ee277d06d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.todesktop.com/blog/posts/using-tailwind-for-styling-with-todesktop-builder",
+    "canonical": "https://www.todesktop.com/blog/posts/using-tailwind-for-styling-with-todesktop-builder"
+  },
+  "title": "Using Tailwind for styling with ToDesktop Builder",
+  "summary": "We're thrilled to announce a significant enhancement for developers using ToDesktop for their desktop app creation: Tailwind CSS support! This new feature stems from a simple yet powerful idea—integrating ToDesktop-specific Tailwind modifiers like `todesktop:hidden` and `mac:rounded-lg`. This integration streamlines the styling process, enabling developers to apply platform-specific styles effortlessly, without the need for a separate `global.css` file.",
+  "published_at": "2024-01-04T11:33:00+00:00",
+  "first_seen_at": "2026-07-24T04:14:47.478048+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T23:03:50.966981+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-todesktop/2024/01/ed/ed508208038ea3f307b4bd126b827f2613813cabdf0e82d58782e1c36b359405/article.md",
+    "record": "articles/v1/2b/yc-todesktop/2024/01/ed/ed508208038ea3f307b4bd126b827f2613813cabdf0e82d58782e1c36b359405/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6123,
+    "sha256": "sha256:dbb481eae4247018b549cd58b42bf648cf7b8cbf7e2095b09838f39b9b6d76d2",
+    "normalized_content_hash": "sha256:17e0c6954acd1a93025c7c51e824295784b1af875343be944ba1e93130076a57"
+  },
+  "provenance": {
+    "source_item_id": "c1dab646-7d7b-4f4d-97fe-6d5a94198e5e",
+    "external_id": "https://www.todesktop.com/blog/posts/using-tailwind-for-styling-with-todesktop-builder"
+  }
+}

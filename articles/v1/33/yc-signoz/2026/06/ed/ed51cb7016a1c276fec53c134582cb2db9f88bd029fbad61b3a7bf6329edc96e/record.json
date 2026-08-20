@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed51cb7016a1c276fec53c134582cb2db9f88bd029fbad61b3a7bf6329edc96e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-operator-complete-guide",
+    "canonical": "https://signoz.io/blog/opentelemetry-operator-complete-guide"
+  },
+  "title": "OpenTelemetry Operator Complete Guide [OTel Collector + Auto-Instrumentation Demo]",
+  "summary": "Learn how to deploy and manage OpenTelemetry in Kubernetes with the OpenTelemetry Operator, including auto-instrumenting a Java app.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-07-28T22:07:34.716994+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/ed/ed51cb7016a1c276fec53c134582cb2db9f88bd029fbad61b3a7bf6329edc96e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/ed/ed51cb7016a1c276fec53c134582cb2db9f88bd029fbad61b3a7bf6329edc96e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20527,
+    "sha256": "sha256:3f4934a20504531b5a0a9853225bfb1ac7df18aef368f5ccf53843570a025452",
+    "normalized_content_hash": "sha256:015c7741a5d687f35906de3557500d0094fb65d0facc4077ed9a3ceaf8c01a49"
+  },
+  "provenance": {
+    "source_item_id": "024c9783-0985-4bf5-a818-bc0ccbd4f070",
+    "external_id": "https://signoz.io/blog/opentelemetry-operator-complete-guide"
+  }
+}

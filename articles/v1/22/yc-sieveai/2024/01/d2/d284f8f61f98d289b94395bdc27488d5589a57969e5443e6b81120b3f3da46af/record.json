@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d284f8f61f98d289b94395bdc27488d5589a57969e5443e6b81120b3f3da46af",
+  "company": {
+    "key": "yc-sieveai",
+    "name": "sieve"
+  },
+  "source": {
+    "id": "yc-sieveai-news-import-c83e13839616",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usesieve.com/blog/verifying-filing-data",
+    "canonical": "https://usesieve.com/blog/verifying-filing-data"
+  },
+  "title": "Eliminating 3+ Hours of Daily Manual SEC Filing Verification",
+  "summary": "A team of quant researchers was plagued by missing and incorrect data in an expensive feed of SEC filing data. Learn how sieve saves multiple hours of research work per day",
+  "published_at": "2024-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:04:09.595708+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T20:27:12.471327+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-sieveai/2024/01/d2/d284f8f61f98d289b94395bdc27488d5589a57969e5443e6b81120b3f3da46af/article.md",
+    "record": "articles/v1/22/yc-sieveai/2024/01/d2/d284f8f61f98d289b94395bdc27488d5589a57969e5443e6b81120b3f3da46af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2343,
+    "sha256": "sha256:972466603668410ed4a99d28426cb7ae57d072f5554583de0f54c663c58a00c8",
+    "normalized_content_hash": "sha256:bb091b408d189985f7a0e0440c7ec38abbae96d1458d85c3b5ebad29128aa25c"
+  },
+  "provenance": {
+    "source_item_id": "3458d80b-89ff-4b4e-9ed3-268d974b0ee1",
+    "external_id": "https://usesieve.com/blog/verifying-filing-data"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7fedbe36516e496b2aa95631b7260bc60ab5e1ae19e8cdbda7681866d5bff8e7",
+  "company": {
+    "key": "yc-ionworks",
+    "name": "Ionworks"
+  },
+  "source": {
+    "id": "yc-ionworks-news-import-f340ab61a31b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ionworks.com/blog/fitting-degradation-modes-not-capacity",
+    "canonical": "https://ionworks.com/blog/fitting-degradation-modes-not-capacity"
+  },
+  "title": "Why we fit degradation modes, not capacity",
+  "summary": "Capacity fade is a projection of several aging mechanisms at once. Fitting it directly lets the optimizer reach the right answer for the wrong reasons. Fitting the degradation modes instead, following the case made by Li et al. (2025), recovers physically meaningful mechanism rates you can read and carry to untested conditions.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:33:30.651124+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-20T00:52:29.147754+00:00",
+  "paths": {
+    "article": "articles/v1/26/yc-ionworks/2026/06/7f/7fedbe36516e496b2aa95631b7260bc60ab5e1ae19e8cdbda7681866d5bff8e7/article.md",
+    "record": "articles/v1/26/yc-ionworks/2026/06/7f/7fedbe36516e496b2aa95631b7260bc60ab5e1ae19e8cdbda7681866d5bff8e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6696,
+    "sha256": "sha256:7b50f0f06cb2fbd1a0aa0c78ca2fb93ae409b3203189aefc90621261526513fe",
+    "normalized_content_hash": "sha256:d0473ea5f103813635a8ad463898211eb10bed534048972038126e67061d6e62"
+  },
+  "provenance": {
+    "source_item_id": "d7984ee4-0f53-44dc-822a-ebf28c9f594e",
+    "external_id": "https://ionworks.com/blog/fitting-degradation-modes-not-capacity"
+  }
+}

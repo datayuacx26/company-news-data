@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "091d2884864e0d43987922be48f59f1b3436c6cfc12046fc0033c8997ebcb860",
+  "company": {
+    "key": "yc-trainy",
+    "name": "Trainy"
+  },
+  "source": {
+    "id": "yc-trainy-rss-dacd52d4547a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.trainy.ai/blog/preflight-checks-gpu-fabric",
+    "canonical": "https://www.trainy.ai/blog/preflight-checks-gpu-fabric"
+  },
+  "title": "Preflight Checks for GPU Fabric before Multi-node Training",
+  "summary": "Given the scale of modern LLMs, having a performant GPU network fabric is one of the most important factors for your training speed.",
+  "published_at": "2025-03-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.988023+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T03:03:38.504832+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-trainy/2025/03/09/091d2884864e0d43987922be48f59f1b3436c6cfc12046fc0033c8997ebcb860/article.md",
+    "record": "articles/v1/2d/yc-trainy/2025/03/09/091d2884864e0d43987922be48f59f1b3436c6cfc12046fc0033c8997ebcb860/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10130,
+    "sha256": "sha256:005f05cb5a7b3def91432a5abdb3774929c98053b68f201f87aecb2d242518e8",
+    "normalized_content_hash": "sha256:44885c180183ff46bc9788e1a0a6601f059a95817d4c5ed6539378bc9ecb8224"
+  },
+  "provenance": {
+    "source_item_id": "7f57fd9b-5462-4a04-a665-75db2d1276bf",
+    "external_id": "https://www.trainy.ai/blog/preflight-checks-gpu-fabric"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1236c3ae2a49c7f602e0323de4fed21887a4c5aa461ca8082c561e8889956620",
+  "company": {
+    "key": "yc-cekura-ai",
+    "name": "Cekura"
+  },
+  "source": {
+    "id": "yc-cekura-ai-news-import-2109cda3ccd2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cekura.ai/blogs/self-improving-voice-agents-closing-eval-loop",
+    "canonical": "https://www.cekura.ai/blogs/self-improving-voice-agents-closing-eval-loop"
+  },
+  "title": "Self-Improving Voice Agents: Closing the Eval Loop Automatically",
+  "summary": "Learn how to build a self-improving voice agent loop that automatically diagnoses failing evals, applies prompt fixes, catches regressions, and iterates to 100% pass rate.",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:11:51.123297+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-08-19T23:36:43.858061+00:00",
+  "paths": {
+    "article": "articles/v1/16/yc-cekura-ai/2026/05/12/1236c3ae2a49c7f602e0323de4fed21887a4c5aa461ca8082c561e8889956620/article.md",
+    "record": "articles/v1/16/yc-cekura-ai/2026/05/12/1236c3ae2a49c7f602e0323de4fed21887a4c5aa461ca8082c561e8889956620/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13145,
+    "sha256": "sha256:43a81829e75d4f7391cfbde51e7868047535355348d2fabada423beb13f8643e",
+    "normalized_content_hash": "sha256:e7647310e811a5e901a8589664858d353f29f0b2813bb868da8033515b4d006b"
+  },
+  "provenance": {
+    "source_item_id": "e70b4e57-d5b2-4df1-af79-52e6aa9be1f6",
+    "external_id": "https://www.cekura.ai/blogs/self-improving-voice-agents-closing-eval-loop"
+  }
+}

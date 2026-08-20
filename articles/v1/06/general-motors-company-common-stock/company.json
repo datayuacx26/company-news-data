@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "general-motors-company-common-stock",
+    "name": "General Motors Company"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-04-03T13:00:00+00:00",
+  "last_published_at": "2026-07-21T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/06/general-motors-company-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11950,
+        "sha256": "sha256:718016be464f1c6dd76c7f9add6b0a60138bf9125a63f65317ffdbe5c464e7d8",
+        "newest_at": "2026-07-21T11:00:00+00:00",
+        "oldest_at": "2026-04-03T13:00:00+00:00"
+      }
+    ]
+  }
+}

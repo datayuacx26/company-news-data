@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d824408fe0078c73d3d116c50dfbddcb13f0eb75305defb49734337d829943e6",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/java-log",
+    "canonical": "https://signoz.io/guides/java-log"
+  },
+  "title": "Java Logging: From println to Production-Ready Logs",
+  "summary": "Learn Java logging with Log4j2, SLF4J, log levels, MDC, JSON logs, async logging, troubleshooting, and monitoring with SigNoz.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:48:41.890548+00:00",
+  "last_updated_at": "2026-07-28T20:48:56.628553+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/d8/d824408fe0078c73d3d116c50dfbddcb13f0eb75305defb49734337d829943e6/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/d8/d824408fe0078c73d3d116c50dfbddcb13f0eb75305defb49734337d829943e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30922,
+    "sha256": "sha256:e05071f6eb864b479c0fc99c99d622a705adce4bcf07f1b6eca629e5127a795a",
+    "normalized_content_hash": "sha256:fe5472832fd0521f4cd344371f140ea849b02e670503d98c0cb63fc54a56511d"
+  },
+  "provenance": {
+    "source_item_id": "1ae604b6-7317-44df-8ab9-4e10599d31a8",
+    "external_id": "https://signoz.io/guides/java-log"
+  }
+}

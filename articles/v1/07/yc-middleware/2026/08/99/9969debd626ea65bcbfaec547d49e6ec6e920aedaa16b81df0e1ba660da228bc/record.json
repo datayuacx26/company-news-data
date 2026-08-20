@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9969debd626ea65bcbfaec547d49e6ec6e920aedaa16b81df0e1ba660da228bc",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/incident-correlation/",
+    "canonical": "https://middleware.io/blog/incident-correlation/"
+  },
+  "title": "Incident Correlation: How to Automatically Group Related Alerts From the Same Root Cause",
+  "summary": "Learn how incident correlation groups related alerts by root cause, cuts alert noise, and speeds up MTTR with methods, and setup steps.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T09:40:34.263987+00:00",
+  "fetched_at": "2026-08-05T09:40:36.438037+00:00",
+  "last_updated_at": "2026-08-19T19:48:10.047752+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/08/99/9969debd626ea65bcbfaec547d49e6ec6e920aedaa16b81df0e1ba660da228bc/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/08/99/9969debd626ea65bcbfaec547d49e6ec6e920aedaa16b81df0e1ba660da228bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17016,
+    "sha256": "sha256:c5f1d421b6478c222b3a36f2b52625abc43886684e0091900496a9bf71324c6a",
+    "normalized_content_hash": "sha256:780995fe5973840dab3ff9956707944b269fb78c452d5e13f849b3a7dc148bac"
+  },
+  "provenance": {
+    "source_item_id": "f280caee-40a0-4b30-8b8d-173cf304d7d5",
+    "external_id": "https://middleware.io/blog/incident-correlation/"
+  }
+}

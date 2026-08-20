@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88f3bd11202e0b2f584e8b83adf874e34dfef89730d6d9c27fb2333acef4b4bc",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/security-center",
+    "canonical": "https://replit.com/blog/security-center"
+  },
+  "title": "Security Center 2.0: Act on vulnerabilities in bulk across all your apps",
+  "summary": "Replit is the most secure place to vibe code. Today, we're making it dramatically easier to use the Security Center to understand your security posture across all Replit projects in your business. We’re also making it possible to remediate urgent security holes, such as active critical vulnerabilities on multiple published projects, in seconds. You can reach the Security Center from the Replit Homepage, or your Settings. When you land there, the first thing we want to answer is simple: which of my projects are actually at risk right now? Start with what's urgent At the top of Security Center, we break your exposure down by critical and high severity vulnerabilities. You'll see how many of your projects have critical or high CVEs, how many of those projects are published, and — most importantly — how many are both published and public.",
+  "published_at": "2026-05-07T17:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:34:32.089077+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-08-17T01:53:09.253677+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/05/88/88f3bd11202e0b2f584e8b83adf874e34dfef89730d6d9c27fb2333acef4b4bc/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/05/88/88f3bd11202e0b2f584e8b83adf874e34dfef89730d6d9c27fb2333acef4b4bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3986,
+    "sha256": "sha256:9594b1b3e385df1aa642a9713e5a4eda4db25865d56f061c0cab927fcd7a2f2a",
+    "normalized_content_hash": "sha256:60faf022f435021593d88d9483e28b53afe8390c881d5fe036719271def5dda4"
+  },
+  "provenance": {
+    "source_item_id": "88e29c1c-f2d5-4c38-bd4b-89de2ef9fc99",
+    "external_id": "https://replit.com/blog/security-center"
+  }
+}

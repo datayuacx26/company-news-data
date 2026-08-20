@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "659c0d108fe4dfe690e5a52ef8dac2dab8aba1327ef4a2db0838ecc638b38607",
+  "company": {
+    "key": "yc-deepnote",
+    "name": "Deepnote"
+  },
+  "source": {
+    "id": "yc-deepnote-news-import-1c599340c4cd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepnote.com/blog/atomic-unit-for-reinforcement-learning",
+    "canonical": "https://deepnote.com/blog/atomic-unit-for-reinforcement-learning"
+  },
+  "title": "Data notebooks as the atomic unit for Reinforcement Learning",
+  "summary": "Reinforcement learning becomes central once a model is expected to act, not just generate. Real tasks are sequential decision processes with tool calls, partial observability, and long horizons. RL-based alignment work frames this as an optimization loop dependent on interaction data, reward signals, and reliable evaluation.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T16:01:05.618995+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-08-20T03:00:37.554296+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-deepnote/2026/07/65/659c0d108fe4dfe690e5a52ef8dac2dab8aba1327ef4a2db0838ecc638b38607/article.md",
+    "record": "articles/v1/2b/yc-deepnote/2026/07/65/659c0d108fe4dfe690e5a52ef8dac2dab8aba1327ef4a2db0838ecc638b38607/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18376,
+    "sha256": "sha256:8dcf8e4c0470db232f0d43cb60357f27b0ac025c737267ff5f397e2350fb9749",
+    "normalized_content_hash": "sha256:6197f0803f3a5702a2d397ff9462afe993bfb4c6f43169480866db8ad2c1bbac"
+  },
+  "provenance": {
+    "source_item_id": "d1e59db1-768d-4c6f-b17d-fe90f1487389",
+    "external_id": "https://deepnote.com/blog/atomic-unit-for-reinforcement-learning"
+  }
+}

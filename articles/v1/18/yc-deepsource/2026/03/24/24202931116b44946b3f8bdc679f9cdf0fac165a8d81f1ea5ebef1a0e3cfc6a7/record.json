@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24202931116b44946b3f8bdc679f9cdf0fac165a8d81f1ea5ebef1a0e3cfc6a7",
+  "company": {
+    "key": "yc-deepsource",
+    "name": "DeepSource"
+  },
+  "source": {
+    "id": "yc-deepsource-news-import-7d7bc2aa4aff",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepsource.com/blog/deepsource-cli-with-agents",
+    "canonical": "https://deepsource.com/blog/deepsource-cli-with-agents"
+  },
+  "title": "Code review for AI agents",
+  "summary": "Code review results come back as dashboard views and PR comments that agents can't parse. The DeepSource CLI gives them structured JSON — issues by file, Report Card grades, CVSS-scored vulnerabilities — so they can iterate with targeted fixes instead of guessing.",
+  "published_at": "2026-03-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:01:30.648789+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-08-20T03:06:52.311553+00:00",
+  "paths": {
+    "article": "articles/v1/18/yc-deepsource/2026/03/24/24202931116b44946b3f8bdc679f9cdf0fac165a8d81f1ea5ebef1a0e3cfc6a7/article.md",
+    "record": "articles/v1/18/yc-deepsource/2026/03/24/24202931116b44946b3f8bdc679f9cdf0fac165a8d81f1ea5ebef1a0e3cfc6a7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3624,
+    "sha256": "sha256:d91bc8eff32a3da7df61f26fbea5875e9d0a45e1c5d7c20c7f471218f46b8967",
+    "normalized_content_hash": "sha256:d7594684d79ebc15a30667ef0dbacceaa66266f9e353b7d02a5760cc72801d79"
+  },
+  "provenance": {
+    "source_item_id": "7f540d9c-1463-4012-b061-f25fc1a66132",
+    "external_id": "https://deepsource.com/blog/deepsource-cli-with-agents"
+  }
+}

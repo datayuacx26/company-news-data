@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d0cd2db108f3795d7005bc162fe337f08141053312f333e6cc7aa2d8996bad44",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/cicd-pipeline-incident-response",
+    "canonical": "https://tech.target.com/blog/cicd-pipeline-incident-response"
+  },
+  "title": "CI/CD Pipeline Incident Response",
+  "summary": "An article by Kyle Shattuck and Brandon Ingalls : An actionable incident response playbook for your CI/CD pipeline.",
+  "published_at": "2023-02-16T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2023/02/d0/d0cd2db108f3795d7005bc162fe337f08141053312f333e6cc7aa2d8996bad44/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2023/02/d0/d0cd2db108f3795d7005bc162fe337f08141053312f333e6cc7aa2d8996bad44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13617,
+    "sha256": "sha256:7327f4189cccf2499eaec0597a2e98798b5943e4d9a15bc98064df6c31589816",
+    "normalized_content_hash": "sha256:65783535774d59dadea72ef0ddaf1dd529632c84c2402032a64415f4fc546406"
+  },
+  "provenance": {
+    "source_item_id": "6f7e45e3-ccb0-4412-931a-4b89d5c46f90",
+    "external_id": "BLOG-10043"
+  }
+}

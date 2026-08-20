@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f385f390d8a8ddc5af7bd7fc43b1e986797d63d2fd90e009f2459b2a48b88ed",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/puppeteer-flaky-production-stable-approach",
+    "canonical": "https://www.integuru.com/blog/puppeteer-flaky-production-stable-approach"
+  },
+  "title": "Puppeteer vs. Direct HTTP: Why Integrations Break in Production",
+  "summary": "When Puppeteer breaks at 2am because a target site shipped a new checkout flow, the problem isn't your selector - it's the architecture. Direct HTTP integrations skip the DOM entirely, eliminating the root causes of browser automation flakiness in prod...",
+  "published_at": "2026-06-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.958808+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/7f/7f385f390d8a8ddc5af7bd7fc43b1e986797d63d2fd90e009f2459b2a48b88ed/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/7f/7f385f390d8a8ddc5af7bd7fc43b1e986797d63d2fd90e009f2459b2a48b88ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13281,
+    "sha256": "sha256:a69aa9a19c64aa20374d2e13e4e706e652db23ca6d3ff7e23e29f58571a796a4",
+    "normalized_content_hash": "sha256:f86a24f5b7802884d15c78e86313317b40903c1c43d24660b2f6964cd1d110d3"
+  },
+  "provenance": {
+    "source_item_id": "1f2a7d73-192c-477f-838c-ddcf4339a63d",
+    "external_id": "https://www.integuru.com/blog/puppeteer-flaky-production-stable-approach"
+  }
+}

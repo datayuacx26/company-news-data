@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "414c1772793ec4dc80de0da748dfcde908a7a20714658ea8fb00d39480f089c2",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-0524baf4a828",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.linkedin.com/feed/update/urn:li:activity:7488406960443183104/",
+    "canonical": "https://www.linkedin.com/feed/update/urn:li:activity:7488406960443183104/"
+  },
+  "title": "Some more detail on the ROIC Intelligence App I built yesterday and mentioned on today’s earnings call. I took the PDF that Brian Nowak at Morgan Stanley put together for Hyperscale ROIC this week and used Copilot code (coming in our new superapp) with a single prompt + skill (/drill-me) to create the plan, then used autopilot in auto to create the full app (with history, lookups, scenarios, what-ifs, etc). And /rubber-duck to test. [Read more]",
+  "summary": "Some more detail on the ROIC Intelligence App I built yesterday and mentioned on today's earnings call. I took the PDF that Brian Nowak at Morgan Stanley put together for Hyperscale ROIC this week and used Copilot code (coming in our new superapp) with a single prompt + skill (/drill-me) to create the plan, then used autopilot in auto to create the full app (with history, lookups, scenarios, what-ifs, etc). And /rubber-duck to test. And the best part is that all the artifacts are in my enterprise environment. My app is in Copilot, my code is in GitHub Enterprise; all my data pipelines/lake/semantic models are in Fabric. And everything is under Agent 365 IT/Sec/FinOps control! So this is not about Tokenmaxxing or vibe coding. Every step of the way the rails are engineered to create value, making everything a long-term reusable asset, with governance/security, and cost controls. This is the full system to drive business value. Disclosures: This is all pulled from public sources, and for illustrative purposes only...not financial advice! :) Here is the app and architecture... | 389 comments on LinkedIn",
+  "published_at": "2026-07-30T19:39:00+00:00",
+  "first_seen_at": "2026-08-05T16:21:55.371843+00:00",
+  "fetched_at": "2026-08-05T16:21:56.256447+00:00",
+  "last_updated_at": "2026-08-05T16:21:57.141556+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/41/414c1772793ec4dc80de0da748dfcde908a7a20714658ea8fb00d39480f089c2/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/41/414c1772793ec4dc80de0da748dfcde908a7a20714658ea8fb00d39480f089c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16110,
+    "sha256": "sha256:1c6470da11f4216811012e82f0e52510f2e0e66b668591ba039756dd57fff09b",
+    "normalized_content_hash": "sha256:9df0c600d710c639ef2c45887ab3a295afcc22bf59155e359767f711c976cf60"
+  },
+  "provenance": {
+    "source_item_id": "7eb8125c-e727-482a-870d-f8a18ad7eb8d",
+    "external_id": "https://news.microsoft.com/source/?p=25354"
+  }
+}

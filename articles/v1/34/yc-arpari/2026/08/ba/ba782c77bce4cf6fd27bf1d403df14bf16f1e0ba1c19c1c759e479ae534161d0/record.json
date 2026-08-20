@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba782c77bce4cf6fd27bf1d403df14bf16f1e0ba1c19c1c759e479ae534161d0",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/why-your-bank-reconciliation-process-breaks-before-it-even-starts",
+    "canonical": "https://www.arpari.com/post/why-your-bank-reconciliation-process-breaks-before-it-even-starts"
+  },
+  "title": "Why Your Bank Reconciliation Process Breaks Before It Even Starts",
+  "summary": "Bank reconciliation stalls in multi entity environments not because matching is complex but because the data assembly required to begin matching arrives fragmented and inconsistent.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-17T20:01:12.149587+00:00",
+  "fetched_at": "2026-08-17T20:01:13.663247+00:00",
+  "last_updated_at": "2026-08-19T23:08:36.923930+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/08/ba/ba782c77bce4cf6fd27bf1d403df14bf16f1e0ba1c19c1c759e479ae534161d0/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/08/ba/ba782c77bce4cf6fd27bf1d403df14bf16f1e0ba1c19c1c759e479ae534161d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5566,
+    "sha256": "sha256:e6441b71a128f9b080aa33d32c4da7f1287dfc68b9b49c708df40a037d340d31",
+    "normalized_content_hash": "sha256:2d778287f99945334b91f4197cfef6ae4a2f69e5182bf1adc67bc4fe7d11bb37"
+  },
+  "provenance": {
+    "source_item_id": "24bb6437-877a-409b-a40a-c39536fbafd0",
+    "external_id": "https://www.arpari.com/post/why-your-bank-reconciliation-process-breaks-before-it-even-starts"
+  }
+}

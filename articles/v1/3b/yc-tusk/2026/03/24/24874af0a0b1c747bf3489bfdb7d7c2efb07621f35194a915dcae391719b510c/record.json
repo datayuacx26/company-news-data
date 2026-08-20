@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24874af0a0b1c747bf3489bfdb7d7c2efb07621f35194a915dcae391719b510c",
+  "company": {
+    "key": "yc-tusk",
+    "name": "Tusk"
+  },
+  "source": {
+    "id": "yc-tusk-news-import-c7466264c659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usetusk.ai/resources/scaling-parallel-coding-agents-cvh-framework",
+    "canonical": "https://www.usetusk.ai/resources/scaling-parallel-coding-agents-cvh-framework"
+  },
+  "title": "Scaling Parallel Agents with the Context-Verification-Harness Framework",
+  "summary": "Engineers cap out at 5 parallel agent tasks. The CVH Framework covers the three code verification pillars—context, self-verification, and harnesses—to scale beyond that.",
+  "published_at": "2026-03-09T20:43:00.793+00:00",
+  "first_seen_at": "2026-07-26T03:20:25.565537+00:00",
+  "fetched_at": "2026-07-28T22:18:56.741769+00:00",
+  "last_updated_at": "2026-08-20T00:26:06.656026+00:00",
+  "paths": {
+    "article": "articles/v1/3b/yc-tusk/2026/03/24/24874af0a0b1c747bf3489bfdb7d7c2efb07621f35194a915dcae391719b510c/article.md",
+    "record": "articles/v1/3b/yc-tusk/2026/03/24/24874af0a0b1c747bf3489bfdb7d7c2efb07621f35194a915dcae391719b510c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6859,
+    "sha256": "sha256:5d6259ab8e1c97c223735c504be9e0578dc0297dfd6c10ebfaa1c3793954bae7",
+    "normalized_content_hash": "sha256:9378c0b086a72dacda204ec61e10e616d6c84396692bcf6d3846ecf856dd300b"
+  },
+  "provenance": {
+    "source_item_id": "151e65f7-cad2-4760-a7c2-8e86427d424f",
+    "external_id": "https://www.usetusk.ai/resources/scaling-parallel-coding-agents-cvh-framework"
+  }
+}

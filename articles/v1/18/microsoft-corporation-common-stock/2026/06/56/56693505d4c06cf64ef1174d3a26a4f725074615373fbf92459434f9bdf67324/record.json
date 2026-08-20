@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56693505d4c06cf64ef1174d3a26a4f725074615373fbf92459434f9bdf67324",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"
+  },
+  "title": "Announcing Microsoft Discovery general availability and Microsoft Discovery app preview",
+  "summary": "Discover Microsoft Discovery, now generally available, an agentic AI platform for building and managing workflows, with a new app in preview.",
+  "published_at": "2026-06-02T18:15:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-12T05:31:09.350525+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/56/56693505d4c06cf64ef1174d3a26a4f725074615373fbf92459434f9bdf67324/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/56/56693505d4c06cf64ef1174d3a26a4f725074615373fbf92459434f9bdf67324/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19949,
+    "sha256": "sha256:3abe3b17cee15c790e84e51d8101f9c6ef1642ef37f5094839d8eb8416c33183",
+    "normalized_content_hash": "sha256:bee28c35db09253e2902940b9ffd3d6feee9f8b6ac8b63ce27b757409653f23f"
+  },
+  "provenance": {
+    "source_item_id": "7fd52fc8-f47e-452f-85ec-083d7c300b80",
+    "external_id": "https://azure.microsoft.com/en-us/blog/announcing-microsoft-discovery-general-availability-and-microsoft-discovery-app-preview/"
+  }
+}

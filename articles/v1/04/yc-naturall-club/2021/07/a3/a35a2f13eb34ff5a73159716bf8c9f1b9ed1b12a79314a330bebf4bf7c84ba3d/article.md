@@ -1,0 +1,127 @@
+---
+schema_version: "1.0.0"
+document_id: "a35a2f13eb34ff5a73159716bf8c9f1b9ed1b12a79314a330bebf4bf7c84ba3d"
+company_key: "yc-naturall-club"
+company: "NaturAll Club"
+source_id: "yc-naturall-club-atom-71589d2c7346"
+canonical_url: "https://naturallclub.com/blogs/the-naturall-club-blog/the-guide-to-alopecia-and-natural-hair"
+published_at: "2021-07-14T03:52:53+00:00"
+first_seen_at: "2026-07-24T12:09:20.860655+00:00"
+fetched_at: "2026-07-28T21:04:52.597445+00:00"
+content_hash: "sha256:b31bc14f0c21a8a7ea37e4595f42c7ede04b7006f5f3f73aa39fb5c8ce18c9cc"
+---
+
+# The Guide to Alopecia and Natural Hair
+
+Hair loss may be one of the biggest fears for anyone to have; there aren’t many things worse than the image of your hair falling out when running your hands through it. Alopecia, most commonly known as simple hair loss, is something that many are fearful of developing. It also is something that is quite the mystery to those who have the condition. Here, we’ll discuss what Alopecia is, the different types you can have, and how to remedy it.
+
+
+## **Alopecia: What Is It?**
+
+
+Alopecia is an autoimmune disease that attacks your hair follicles that results in the follicles decreasing in size. This decrease in size ultimately slows down the hair growth and wears away at the health of the hair that’s already there. This can cause breakage or damage of the cuticle, making it so it doesn’t grow past the breakage point. Hair loss actually occurs when the follicles are so small that it blocks new follicles from coming through the scalp, stopping the growth all together. It is important to know that no matter how stagnant your growth is, or how much hair you lose, the follicles remain alive and active the entire time.
+
+
+There are three common forms of alopecia: Alopecia Areata, Alopecia Totalis, and Alopecia Universalis. Despite the technicality of the terms, they aren’t all that difficult to understand. Alopecia Areata is the most common form of the condition and is characterized by hair loss in patches. In terms of location, the hair loss can occur on the scalp or other areas of the body. Alopecia Totalis indicates total hair loss on the scalp. Finally, Alopecia Universalis indicates complete hair loss on all over the body, including the scalp and face.
+
+
+Treatment varies depending on how much hair is lost. If it is less than 50%, treatment is centered around stimulating the hair follicles or distracting the immune system from attacking the hair follicles. If it’s a more severe case (50% or more of hair is lost), medication is the main source of treatment. The percentage of hair loss refers to how much hair is lost in total, not just hair loss on the scalp. So if you have experienced a few patches of hair loss on your scalp that are less than 50%, you still can have a severe cause of Alopecia \[Universalis\] if you are experiencing a lot of hair loss on other parts of the body. The hair loss everywhere else besides the scalp doesn’t have to be 50% or more, but be enough to where the combination of that and the loss on your scalp is equal to 50% or more of hair on the body.
+
+
+Here, when we reference alopecia and how to treat it, we are referring to the most common type, Alopecia Areata. More specifically, we’ll be referring to Alopecia Areata located on the scalp instead of the rest of the body. Natural remedies and fixes (which is what we’ll focus on) can be found for Alopecia Areata as it is a mild cause of alopecia. Since the hair is falling out in patches and it hasn’t progressed from Areata to Totalis, it is likely that 50% or less of the hair on the scalp is missing. Recall from earlier that in this case, medication is not the go to remedy. However, it goes without saying that no matter how much hair is lost, it is always preferable to seek medical help and the opinion of a dermatologist regarding any hair loss.
+
+
+## **Alopecia: What Causes It?**
+
+
+Even though there isn’t much medical explanation as to what triggers the immune system to attack the hair follicles, a doctor can help to identify any recognizable issues that could contribute to the hair loss.
+
+
+When it comes to a lack of understanding the causes of Alopecia, it mainly is in regards to the three types we mentioned before. There is another form of Alopecia known as Traction Alopecia, which has a known cause that normally isn’t caused by any autoimmune condition. Even though there could be an issue within the body contributing to the loss of hair experienced with Traction Alopecia, the main culprit, as the name suggests, is traction on the scalp.
+
+
+Traction could refer to action traction between the scalp and another object, like a wig or hat. Traction can also refer to the tension on the scalp instead of actual rubbing between the scalp and another surface. This means that wigs and hats aren’t the only thing that can contribute to the hair loss with Traction Alopecia. High tension protective styles or a lot of manipulating of the hair can lead to the same result. Because Traction Alopecia can be narrowed down to a definite cause, there are ways to avoid it from happening.
+
+
+Taking breaks between wigs and allowing the hair to breathe will help prevent traction on the edges of the hair. You also want to pay attention to the fineness of your hair. Fine, thin hair can be prone to breakage, no matter how little traction or tension is present. If your hair is naturally thin and fragile, avoiding wigs all together may be your best option. If you’re doing protective styling, you don’t want extremely tight braids, twists, or ponytails. Avoid pulling the hair back tightly and twisting the strands around one another. The goal is to pull your hair as little as possible.
+
+
+Remember, this type of Alopecia is caused by a specific source whereas the source of the other types of Alopecia mentioned are unknown. The only thing we know about the others is that they are
+
+
+*caused* by an overactive immune system, however the source, or reason, for the overactive immune system is unknown.
+
+
+## **Alopecia: How To Treat It?**
+
+
+Ultimately, when it comes to treating mild Alopecia \[Areata\], the only thing that can be done outside the doctor's office is utilizing natural ingredients and remedies. When it comes to what ingredients will help the most, you want to focus on ingredients that are stimulating and nourishing. Stimulating the scalp is all about increasing blood flow to the hair follicles and it helps to open up the follicles, promoting new hair to find its way through. Next, we’ll go over natural and nourishing ingredients that will be helpful in stimulating growth while feeding the scalp as well.
+
+
+- **Onion Juice** : The sulfur found in onions helps to promote strong and healthy hair growth. Since sulfur helps in the production of proteins like collagen and keratin, onion juice can aid in strengthening the hair by allowing it to produce the adequate amount of protein needed to withstand breakage. Onion juice can be extracted from the onion by simply boiling onions in water, allowing the nutrients to infuse into the water. From there, you can use the onion juice infused water to rinse your hair before or after washing. Be forewarned, this concoction can have a very potent smell. You can offset the strong smell of onion by adding in any essential oils of your choice!
+
+
+- **Tea Tree Oil** : The main draw of Tea Tree Oil is that it is cleansing. It’s commonly used in shampoos and works to reduce any dirt, buildup, or bacteria on the hair or scalp. This antibacterial and anti-inflammatory ingredient is perfect for cleansing the scalp while soothing any irritation you may experience. Even though Alopecia doesn’t normally come with rashes or itching, the exposed skin can easily become irritated if not nourished properly. Tea tree oil will keep the scalp from drying while also fighting any bacteria that may come into contact with irritated areas (if they are present). When applying Tea Tree Oil, you never want to do so directly. The oil should always be diluted with a carrier oil, which are oils that aren’t heavily concentrated and are used to make application of essential oils non irritating and harmful. Applying your diluted Tea Tree Oil to your scalp and patches will help with any itching, dryness, or irritation
+
+
+- **Peppermint Oil** :
+
+
+This
+
+
+oil is also antimicrobial and anti-inflammatory, so it’s good for the same cleansing reasons as the previously mentioned ingredient. The heavy hitter in this oil is a compound found in it called Menthol. This compound is cooling, soothing, and is something known as a “
+
+
+vasodilator
+
+
+”.
+
+
+Vasodilators dilate the blood vessels, meaning it promotes blood flow to the area of application. This is especially good for growth, as the more blood flow to your follicles, the more awake they are, ready and able to work on pushing new growth out. Peppermint oil should also be diluted with a carrier oil before applying it to the scalp.
+
+
+- **Lavender Oil** : Antimicrobial and fragrant, Lavender Oil is gentle and can help feed the scalp to provide nourishment for growth. Lavender Oil doesn’t have to be diluted and could be a good oil to use in combination with others. Lavender oil is a good essential oil to use in your onion juice infused water. Our
+
+
+**[Lavender JBCO Growth Serum](https://naturallclub.com/products/original-jamaican-black-castor-oil-with-lavender)** is a thick, rich castor oil based serum that is formulated to nourish the scalp and fight dryness.
+
+
+- **Jojoba Oil** : A neutral carrier oil, Jojoba Oil is extremely nourishing as it is packed with vitamins. It can also help reduce dryness which in turn will reduce itchiness you may be experiencing. Overall, this oil is great to use for the nourishment and health of your scalp and hair.
+
+
+- **Olive Oil** : Extra Virgin Olive Oil makes a perfect carrier oil and works to fight dryness. It can be combined with any other oil to make a strong and nourishing oil.
+
+
+## **Tips**
+
+
+- Combine the ingredients you want to use as much as possible: Most, if not all, carrier oils have nourishing properties and will enhance the effects of any essential oils you use. Combining various essential oils into one (or more) carrier oil mix will optimize the oils’ remedies to hair loss
+
+
+- Work scalp massages into your daily routine: Massaging the scalp will help to improve blood flow, giving your scalp the stimulation it needs to work to produce new hair and continue growing hair. You can do these massages with or without your oil(s), however using them as you massage will only promote better circulation. It also could be helpful to hold your head upside down or tilted, so your blood is rushing towards your head and in turn, your scalp. Just make sure you don’t overdo it and make yourself dizzy!
+
+
+- Start using hair products that contain stimulating ingredients: Use shampoos that contain peppermint and or tea tree oil. Or conditioners that contain nourishing oils like jojoba oil. Spray some onion juice infused water on your scalp before or in place of oiling it. The more you work these helpful ingredients into your hair care, the better chance you have with these ingredients slowing down and reversing your hair loss.
+
+
+- Even if your Alopecia isn’t due to traction, it would be helpful to reduce the amount of tension you put on your scalp and hair. Avoiding tight protective styles or wigs that rub against your hairline will reduce the amount of hair you’ll lose.
+
+
+- Make sure you’re taking care of your hair as you would without the spotting. The hair you still have needs as much attention as the spots you have. As your hair is more prone to breakage and falling out, you want to make sure you’re nourishing it and keeping it strong. Deep conditioning every week and moisturizing between washes is encouraged. If you’re worried about manipulation to your hair, only deep condition when you wash your hair. Keeping your hair hydrated, moisturized, and nourished will prevent more physical damage to the hair cuticle like breakage and split ends. Our
+
+
+[Strengthening Fresh Frozé Treatment Deep Conditioner](https://naturallclub.com/products/ice-cream-treatment-strengthening-deep-conditioner-with-jamaican-black-castor-oil-carrot-monoi) would be perfect for those experiencing hair loss, as it will help to strengthen your hair while nourishing your scalp. It also will help to strengthen any new growth you have and work to prevent it from breaking.
+
+
+- Protect any spots or patches on the scalp: Remember that the scalp is skin. Skin can become very sensitive when exposed in ways it’s not used to. Weather conditions, whether they be extreme or mild, can shock newly exposed skin that is used to the protection your hair gives. Cold weather can cause dryness and itching whereas warm weather can cause irritation from sweat mixing in the oils on your hair/in the products you are using. Sun exposure can also cause extreme irritation and damage (depending on how sensitive your skin is). It may seem silly, but putting protective oil or even sunblock on your patches will help to reduce irritation or damage.
+
+
+- Pay attention to your diet: Along with genetics, diet is a major component in hair growth and loss. Your diet can help you maintain adequate levels of protein and other vitamins needed in order to maintain healthy, consistent growth. If your body is deprived of protein or other nutrients, the energy that would normally be put into growing your hair will be redirected to more important functions, like keeping your heart pumping. Keeping a healthy diet also reduces the chances of your Alopecia being the result of an issue within the body that was caused by your food intake.
+
+
+- After diet comes exercise: Ultimately, the healthier you are, the better off you’ll be at figuring out what causes your Alopecia. In general, exercise is also good for the overall health of the body and therefore directly benefits the hair. If you’re exercising the body and feeding it healthily, but are still losing hair, you know that the likelihood of your Alopecia being triggered by lifestyle habits decreases.
+
+
+Hopefully this reading leaves you a little more prepared and comfortable with dealing with your own hair loss, whether you’re experiencing now or will in the future!

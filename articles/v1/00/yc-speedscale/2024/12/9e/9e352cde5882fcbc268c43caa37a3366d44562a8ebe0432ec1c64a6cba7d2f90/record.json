@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e352cde5882fcbc268c43caa37a3366d44562a8ebe0432ec1c64a6cba7d2f90",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/test-kubernetes-ingress/",
+    "canonical": "https://speedscale.com/blog/test-kubernetes-ingress/"
+  },
+  "title": "Testing Kubernetes Ingress with Production Traffic",
+  "summary": "Kubernetes is an incredibly powerful solution, but testing the Kubernetes Ingress resources themselves can prove to be quite tricky.",
+  "published_at": "2024-12-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2024/12/9e/9e352cde5882fcbc268c43caa37a3366d44562a8ebe0432ec1c64a6cba7d2f90/article.md",
+    "record": "articles/v1/00/yc-speedscale/2024/12/9e/9e352cde5882fcbc268c43caa37a3366d44562a8ebe0432ec1c64a6cba7d2f90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21153,
+    "sha256": "sha256:75b3bcea2f9896fd233d161e6583d2caa51300d32d88ef56163d5214fd2eeb3a",
+    "normalized_content_hash": "sha256:fe51320df9d99f72046f9dd2f526f160ecdb2089a93d7e65109b27f047e20ded"
+  },
+  "provenance": {
+    "source_item_id": "2aa977ac-64c4-4f00-86c0-da967faf0761",
+    "external_id": "https://speedscale.com/blog/test-kubernetes-ingress/"
+  }
+}

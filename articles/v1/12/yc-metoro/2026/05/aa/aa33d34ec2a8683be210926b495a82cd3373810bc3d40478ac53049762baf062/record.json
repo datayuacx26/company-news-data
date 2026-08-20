@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa33d34ec2a8683be210926b495a82cd3373810bc3d40478ac53049762baf062",
+  "company": {
+    "key": "yc-metoro",
+    "name": "Metoro"
+  },
+  "source": {
+    "id": "yc-metoro-news-import-a8c8033caa18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metoro.io/blog/gke-monitoring",
+    "canonical": "https://metoro.io/blog/gke-monitoring"
+  },
+  "title": "GKE Monitoring in 2026: Tools, Metrics, and Setup Guide for Production Clusters",
+  "summary": "A practical GKE monitoring guide covering Google Cloud Monitoring, Prometheus, key metrics, logs, events, traces, tools, alerts, and Metoro.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:14:18.908490+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T19:49:32.643345+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-metoro/2026/05/aa/aa33d34ec2a8683be210926b495a82cd3373810bc3d40478ac53049762baf062/article.md",
+    "record": "articles/v1/12/yc-metoro/2026/05/aa/aa33d34ec2a8683be210926b495a82cd3373810bc3d40478ac53049762baf062/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20409,
+    "sha256": "sha256:29f69ea24f784b57aee68d452e7f3da6cdd899a1da3e7edc3d45ac415fc1dc17",
+    "normalized_content_hash": "sha256:319018dcf28f85cd3472fbf1d889e46f1aa670edc2628f8d06a59e1c0b8f03fb"
+  },
+  "provenance": {
+    "source_item_id": "ba97d57c-fa3c-4dfb-94aa-1c5c100aacd1",
+    "external_id": "https://metoro.io/blog/gke-monitoring"
+  }
+}

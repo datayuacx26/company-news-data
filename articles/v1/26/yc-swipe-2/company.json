@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-swipe-2",
+    "name": "Swipe"
+  },
+  "record_count": 55,
+  "first_published_at": "2026-01-27T00:00:00+00:00",
+  "last_published_at": "2026-08-18T12:14:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/26/yc-swipe-2/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50647,
+        "sha256": "sha256:c12f215a184ee7412bde278a6a713015becdb006eebf2ed4d4d5150daef8cb2c",
+        "newest_at": "2026-08-18T12:14:00+00:00",
+        "oldest_at": "2026-02-26T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/26/yc-swipe-2/index/pages/000002.json",
+        "record_count": 5,
+        "byte_count": 5022,
+        "sha256": "sha256:b5f4fac54388c374985b48e46253710bb2f6804fdc8c1981790e2ef5c3592d46",
+        "newest_at": "2026-01-29T00:00:00+00:00",
+        "oldest_at": "2026-01-27T00:00:00+00:00"
+      }
+    ]
+  }
+}

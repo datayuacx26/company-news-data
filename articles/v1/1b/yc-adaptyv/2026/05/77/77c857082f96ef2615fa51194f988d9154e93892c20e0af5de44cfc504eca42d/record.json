@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77c857082f96ef2615fa51194f988d9154e93892c20e0af5de44cfc504eca42d",
+  "company": {
+    "key": "yc-adaptyv",
+    "name": "Adaptyv"
+  },
+  "source": {
+    "id": "yc-adaptyv-news-import-3c8571c35bcb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.adaptyvbio.com/blog/agents-vs-humans",
+    "canonical": "https://www.adaptyvbio.com/blog/agents-vs-humans"
+  },
+  "title": "Can LLMs design proteins?",
+  "summary": "After a busy few weeks of binding assays, we're ready to release the results from the muni × Adaptyv TREM2 hackathon. 16 teams designed binders against TREM2 in a single day in San Francisco: 10 human teams and 6 fully autonomous AI agents, 141 designs total, top 100 by Boltz-2 ipSAE to the wet lab. Out of these, 37 were binders. Agents tied humans on hit rate and binding affinity distribution, with the best human binder at 1.11 nM and best agent at 3.64 nM, and all six LLM agents independently picked the same design tool.",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T14:21:15.816567+00:00",
+  "fetched_at": "2026-07-28T21:45:24.644708+00:00",
+  "last_updated_at": "2026-08-19T22:36:21.604809+00:00",
+  "paths": {
+    "article": "articles/v1/1b/yc-adaptyv/2026/05/77/77c857082f96ef2615fa51194f988d9154e93892c20e0af5de44cfc504eca42d/article.md",
+    "record": "articles/v1/1b/yc-adaptyv/2026/05/77/77c857082f96ef2615fa51194f988d9154e93892c20e0af5de44cfc504eca42d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16138,
+    "sha256": "sha256:d4a07dc254f559a77b2342bc51e60566c4ba57d979b46a9e481e01b96b592a86",
+    "normalized_content_hash": "sha256:a12a48dbaaf749ccf6abb0fcf60629911fc76d7ae6aa8c4d5d5a67fc369bfe24"
+  },
+  "provenance": {
+    "source_item_id": "e2cc1fc6-23d9-4457-9498-74c637f845a2",
+    "external_id": "https://www.adaptyvbio.com/blog/agents-vs-humans"
+  }
+}

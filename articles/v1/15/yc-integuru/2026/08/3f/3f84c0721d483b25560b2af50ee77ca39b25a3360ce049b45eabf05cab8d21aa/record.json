@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f84c0721d483b25560b2af50ee77ca39b25a3360ce049b45eabf05cab8d21aa",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/reverse-engineering-private-api-legal",
+    "canonical": "https://www.integuru.com/blog/reverse-engineering-private-api-legal"
+  },
+  "title": "Is Reverse-Engineering a Private API Legal? A Plain-Language Guide for Builders",
+  "summary": "Three separate legal questions, three direct answers. A plain-language breakdown of CFAA, DMCA §1201, and ToS for engineers doing diligence on reverse-engineered API integrations.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T21:05:06.493354+00:00",
+  "fetched_at": "2026-08-11T21:05:08.330548+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/08/3f/3f84c0721d483b25560b2af50ee77ca39b25a3360ce049b45eabf05cab8d21aa/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/08/3f/3f84c0721d483b25560b2af50ee77ca39b25a3360ce049b45eabf05cab8d21aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15880,
+    "sha256": "sha256:57d7c926a093ae59b0ed91d7eab8c06dd470baf21490218f75a7f9c6076b31bc",
+    "normalized_content_hash": "sha256:0b7348109ffbb271dcb816d8ac54f01ad6bd48ab0df397549039c288caec6ae7"
+  },
+  "provenance": {
+    "source_item_id": "86e9c850-3c6c-41c4-a053-3cc5c780bc1a",
+    "external_id": "https://www.integuru.com/blog/reverse-engineering-private-api-legal"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4a51394579913429a43873371c5aabadb87a613e1754468056c1f769905d8ac",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/07/special-olympics",
+    "canonical": "https://corporate.target.com/news-features/article/2026/07/special-olympics"
+  },
+  "title": "Target Celebrates the Power of Community at the 2026 Special Olympics USA Games",
+  "summary": "Learn how Target partnered with the Special Olympics USA Games as a Platinum Partner, advancing accessibility, representation and opportunities for our team, guests and communities.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/07/f4/f4a51394579913429a43873371c5aabadb87a613e1754468056c1f769905d8ac/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/07/f4/f4a51394579913429a43873371c5aabadb87a613e1754468056c1f769905d8ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5624,
+    "sha256": "sha256:85813e0fb696ce6b1a9d21fa45a03f963dfe2ccc7a561b1b6ea9e84aa3743c4d",
+    "normalized_content_hash": "sha256:3c289fe9f06753d464deb9f59d810f774bfabff19d68cbd0ee047f33246a92b4"
+  },
+  "provenance": {
+    "source_item_id": "d29568f1-b852-4031-a194-e59a7814381a",
+    "external_id": "https://corporate.target.com/news-features/article/2026/07/special-olympics"
+  }
+}

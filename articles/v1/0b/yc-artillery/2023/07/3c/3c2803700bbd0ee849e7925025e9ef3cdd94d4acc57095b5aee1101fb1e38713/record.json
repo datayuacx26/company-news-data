@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c2803700bbd0ee849e7925025e9ef3cdd94d4acc57095b5aee1101fb1e38713",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-69b75325e6e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/blog/introducing-fargate-playwright-browser-load-testing",
+    "canonical": "https://www.artillery.io/blog/introducing-fargate-playwright-browser-load-testing"
+  },
+  "title": "Introducing full AWS Fargate + Playwright support",
+  "summary": "Run load tests with real browsers, at high scale, and with zero DevOps work, using Artillery’s Playwright integration and AWS Fargate.",
+  "published_at": "2023-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:55:08.009846+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T02:15:44.547416+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2023/07/3c/3c2803700bbd0ee849e7925025e9ef3cdd94d4acc57095b5aee1101fb1e38713/article.md",
+    "record": "articles/v1/0b/yc-artillery/2023/07/3c/3c2803700bbd0ee849e7925025e9ef3cdd94d4acc57095b5aee1101fb1e38713/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6457,
+    "sha256": "sha256:fafc475385c73f229ae7277d9192173848b4a10263ee93fe11ca09cb062d8bc5",
+    "normalized_content_hash": "sha256:16ff3b4c92a09f1617d14a1573b79864b1acba23f8c174c63b7f1e51eb8a7988"
+  },
+  "provenance": {
+    "source_item_id": "6a6501ab-fea3-4701-a627-d950890e38fd",
+    "external_id": "https://www.artillery.io/blog/introducing-fargate-playwright-browser-load-testing"
+  }
+}

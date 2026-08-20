@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33b9767867a1caa001893671ec23ca6a1ab8441d52d404224c6d8c2dc001f090",
+  "company": {
+    "key": "corvex-inc-common-stock",
+    "name": "Corvex Inc."
+  },
+  "source": {
+    "id": "corvex-inc-common-stock-rss-5d3752083407",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.corvex.ai/blog/confidential-computing-how-to-shield-your-ip-in-shared-clusters",
+    "canonical": "https://www.corvex.ai/blog/confidential-computing-how-to-shield-your-ip-in-shared-clusters"
+  },
+  "title": "Confidential Computing: Shield Your IP in Shared Clusters",
+  "summary": "Protect your AI IP in shared GPU clusters using confidential computing, with TEEs, encryption, and attestation ensuring data, code, and model security in the cloud.",
+  "published_at": "2025-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T12:16:19.295968+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T02:24:00.096794+00:00",
+  "paths": {
+    "article": "articles/v1/12/corvex-inc-common-stock/2025/07/33/33b9767867a1caa001893671ec23ca6a1ab8441d52d404224c6d8c2dc001f090/article.md",
+    "record": "articles/v1/12/corvex-inc-common-stock/2025/07/33/33b9767867a1caa001893671ec23ca6a1ab8441d52d404224c6d8c2dc001f090/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6401,
+    "sha256": "sha256:547399ec1f8b9ff0d46463cb9abce17ecb175ebf0802f17b87c1d112fb1e9d0b",
+    "normalized_content_hash": "sha256:ea6b59b3fcc120b3dea9ba088002d73ad0a6b0b518385580c1f5ed44d2d29ea2"
+  },
+  "provenance": {
+    "source_item_id": "e9af1bb5-6784-473b-a215-956db9a8d901",
+    "external_id": "https://www.corvex.ai/blog/confidential-computing-how-to-shield-your-ip-in-shared-clusters"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f30bbf5a611badc243a584d3d1f3daef386bde905b5d8ce7746009cb2966a1d",
+  "company": {
+    "key": "yc-zatanna",
+    "name": "Zatanna"
+  },
+  "source": {
+    "id": "yc-zatanna-news-import-8e90f36473c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zatanna.ai/blog/how-to-turn-legacy-software-into-api",
+    "canonical": "https://www.zatanna.ai/blog/how-to-turn-legacy-software-into-api"
+  },
+  "title": "How to Turn Legacy Software Into an API Without Reverse Engineering",
+  "summary": "You don't need source code access or reverse engineering to create APIs from legacy software. Workflow observation captures the real request behavior and produces stable endpoints your systems can call.",
+  "published_at": "2026-02-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:55:15.963788+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T21:56:36.569036+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-zatanna/2026/02/5f/5f30bbf5a611badc243a584d3d1f3daef386bde905b5d8ce7746009cb2966a1d/article.md",
+    "record": "articles/v1/2d/yc-zatanna/2026/02/5f/5f30bbf5a611badc243a584d3d1f3daef386bde905b5d8ce7746009cb2966a1d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4736,
+    "sha256": "sha256:d9e6b0cc22ede3182fb6a84cbe27e899c90b3340b4b469c89a55d8775ed71e0b",
+    "normalized_content_hash": "sha256:175e00207f273baa7aa0537af966a2deebeeef450215dd2e8c3fd2e751c559ee"
+  },
+  "provenance": {
+    "source_item_id": "7d21864c-2ab6-49a2-957f-b61d12967dd5",
+    "external_id": "https://www.zatanna.ai/blog/how-to-turn-legacy-software-into-api"
+  }
+}

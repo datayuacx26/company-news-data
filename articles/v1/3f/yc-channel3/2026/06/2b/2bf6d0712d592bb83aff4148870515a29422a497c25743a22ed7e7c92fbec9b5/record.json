@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bf6d0712d592bb83aff4148870515a29422a497c25743a22ed7e7c92fbec9b5",
+  "company": {
+    "key": "yc-channel3",
+    "name": "Channel3"
+  },
+  "source": {
+    "id": "yc-channel3-news-import-a892b65a43cc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trychannel3.com/blog/search-products-by-color",
+    "canonical": "https://trychannel3.com/blog/search-products-by-color"
+  },
+  "title": "How to Search Products by Color with the Channel3 API (Color Filters, Now in Beta)",
+  "summary": "Add one or more hex colors to your Channel3 POST /v1/search call to get products that match. How color filters work, with examples. Live in beta.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:15:47.748960+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T02:46:14.661541+00:00",
+  "paths": {
+    "article": "articles/v1/3f/yc-channel3/2026/06/2b/2bf6d0712d592bb83aff4148870515a29422a497c25743a22ed7e7c92fbec9b5/article.md",
+    "record": "articles/v1/3f/yc-channel3/2026/06/2b/2bf6d0712d592bb83aff4148870515a29422a497c25743a22ed7e7c92fbec9b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5640,
+    "sha256": "sha256:c7b4e5c4fbf74531ff49548612465a01ac39f5e2e713d2b7688561fc6d8a9d80",
+    "normalized_content_hash": "sha256:101c0000daa1091c6fe6c1bf014c3c9df31d9341324b016cdb63698fb20acf8e"
+  },
+  "provenance": {
+    "source_item_id": "76ae3e8d-3cb4-4c90-8232-3b9a90a81cc7",
+    "external_id": "https://trychannel3.com/blog/search-products-by-color"
+  }
+}

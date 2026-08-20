@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "960c781eb19960e7ca1a5ac0cc9f0ce4970226ded347b2b9e1fc4a2873fdf4ed",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/actions-pricing",
+    "canonical": "https://www.blacksmith.sh/blog/actions-pricing"
+  },
+  "title": "The GitHub Actions control plane is no longer free",
+  "summary": "GitHub is adding a $0.002-per-minute fee on all GitHub Actions usage, so the control plane is no longer free.",
+  "published_at": "2025-12-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T22:24:57.117171+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/12/96/960c781eb19960e7ca1a5ac0cc9f0ce4970226ded347b2b9e1fc4a2873fdf4ed/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/12/96/960c781eb19960e7ca1a5ac0cc9f0ce4970226ded347b2b9e1fc4a2873fdf4ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4817,
+    "sha256": "sha256:b845f47353b5076e5f3e753562fd7d78e13c6d24410a3f657812f6bb693e0156",
+    "normalized_content_hash": "sha256:0cfc239bba3f314c2ee1061b7cf5e3790de0abc53c8b8d20c30022215641599a"
+  },
+  "provenance": {
+    "source_item_id": "c2e78586-3c15-42ef-95e3-ea4942c64ca9",
+    "external_id": "https://www.blacksmith.sh/blog/actions-pricing"
+  }
+}

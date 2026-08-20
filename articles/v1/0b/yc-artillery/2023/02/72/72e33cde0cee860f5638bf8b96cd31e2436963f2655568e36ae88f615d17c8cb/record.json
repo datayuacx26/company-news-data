@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72e33cde0cee860f5638bf8b96cd31e2436963f2655568e36ae88f615d17c8cb",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-69b75325e6e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/blog/load-testing-in-production",
+    "canonical": "https://www.artillery.io/blog/load-testing-in-production"
+  },
+  "title": "What’s stopping you from load testing in production?",
+  "summary": "At Artillery we believe that you should load test in production. It’s not rocket science, its dangers can be mitigated, and the benefits are worth a bit of extra work",
+  "published_at": "2023-02-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:55:08.009846+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T02:15:44.547416+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2023/02/72/72e33cde0cee860f5638bf8b96cd31e2436963f2655568e36ae88f615d17c8cb/article.md",
+    "record": "articles/v1/0b/yc-artillery/2023/02/72/72e33cde0cee860f5638bf8b96cd31e2436963f2655568e36ae88f615d17c8cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15182,
+    "sha256": "sha256:7a4e476814470f9abc74ade210cb94ad71858379b336a1ffcca24921bf15ee8c",
+    "normalized_content_hash": "sha256:1043bd2fc3811844772b246b164bb7202a299ad9823fb7326820887ecf37098f"
+  },
+  "provenance": {
+    "source_item_id": "48b8887f-7b2a-46a9-9d61-3b484a4710ca",
+    "external_id": "https://www.artillery.io/blog/load-testing-in-production"
+  }
+}

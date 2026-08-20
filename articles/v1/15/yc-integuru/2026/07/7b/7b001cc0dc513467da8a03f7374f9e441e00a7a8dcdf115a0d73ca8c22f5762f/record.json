@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b001cc0dc513467da8a03f7374f9e441e00a7a8dcdf115a0d73ca8c22f5762f",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/browser-automation-fragile-ai-agent-loop",
+    "canonical": "https://www.integuru.com/blog/browser-automation-fragile-ai-agent-loop"
+  },
+  "title": "Why Browser Automation Feels Fragile Inside an AI Agent Loop",
+  "summary": "Browser automation breaks differently inside an AI agent loop than in a test script. The latency ceiling, cascading errors, and concurrency overhead are structural. Here's what developers are doing instead, and why direct HTTP wins.",
+  "published_at": "2026-07-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:10:38.353575+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/7b/7b001cc0dc513467da8a03f7374f9e441e00a7a8dcdf115a0d73ca8c22f5762f/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/7b/7b001cc0dc513467da8a03f7374f9e441e00a7a8dcdf115a0d73ca8c22f5762f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11160,
+    "sha256": "sha256:bbcc16b8c6588f2690acd4f89143b43721876b586af183b13417d30b11f01692",
+    "normalized_content_hash": "sha256:957532b986dd56a0ad1183e64827bf19994341151d316a2b13e0eb73d6df8761"
+  },
+  "provenance": {
+    "source_item_id": "992557f4-6895-4fde-b840-400b01f3a9c7",
+    "external_id": "https://www.integuru.com/blog/browser-automation-fragile-ai-agent-loop"
+  }
+}

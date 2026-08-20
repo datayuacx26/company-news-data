@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "94bab6106feda214cb827c362e1bef4d945b54dafbe68c0db7f48839fb27a051",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/apm-vs-distributed-tracing",
+    "canonical": "https://signoz.io/blog/apm-vs-distributed-tracing"
+  },
+  "title": "How Distributed Tracing augments the APM experience?",
+  "summary": "APM vs distributed tracing in 2026: tracing is a technique within APM, not a rival. See how they fit together, when to use each, and where SigNoz fits.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.168298+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/94/94bab6106feda214cb827c362e1bef4d945b54dafbe68c0db7f48839fb27a051/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/94/94bab6106feda214cb827c362e1bef4d945b54dafbe68c0db7f48839fb27a051/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7931,
+    "sha256": "sha256:af91327d700d783cc6422a99da51dbf08fa95024ed17326ee45189b3ac9c8626",
+    "normalized_content_hash": "sha256:f341c9604c4c8b0248d15464e2f8802adaf4ab678471c6014ee93412098b41b7"
+  },
+  "provenance": {
+    "source_item_id": "6b7a6525-a330-4741-8b7e-9b8b18448379",
+    "external_id": "https://signoz.io/blog/apm-vs-distributed-tracing"
+  }
+}

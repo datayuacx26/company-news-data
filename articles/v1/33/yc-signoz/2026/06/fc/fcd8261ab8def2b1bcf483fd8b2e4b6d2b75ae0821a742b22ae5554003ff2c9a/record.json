@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fcd8261ab8def2b1bcf483fd8b2e4b6d2b75ae0821a742b22ae5554003ff2c9a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry",
+    "canonical": "https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry"
+  },
+  "title": "Apache Kafka and the OpenTelemetry Collector: Scaling with Multiple Collectors",
+  "summary": "Learn how to use Apache Kafka as a buffer between OpenTelemetry Collectors for a scalable multi-collector pipeline, with YAML configuration examples.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-07-28T21:13:53.205875+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/fc/fcd8261ab8def2b1bcf483fd8b2e4b6d2b75ae0821a742b22ae5554003ff2c9a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/fc/fcd8261ab8def2b1bcf483fd8b2e4b6d2b75ae0821a742b22ae5554003ff2c9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8693,
+    "sha256": "sha256:821ecfb17379210bf756e2f5828d0f07a894259be6e952ce1e53f86e85731c00",
+    "normalized_content_hash": "sha256:5f93f928022c886785c11415bfb1c61fef2d2c36176f352cbe3673fc125ee896"
+  },
+  "provenance": {
+    "source_item_id": "2440f27a-88e3-4ecc-987b-0d5a1e96ce3e",
+    "external_id": "https://signoz.io/blog/maximizing-scalability-apache-kafka-and-opentelemetry"
+  }
+}

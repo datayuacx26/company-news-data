@@ -1,0 +1,364 @@
+---
+schema_version: "1.0.0"
+document_id: "36b69b2e469af9cd559b7a6f625170a425affb5dc26c3fbb260e6febc7ebe435"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/blog/what-is-opentelemetry"
+published_at: "2026-06-16T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T21:15:24.341015+00:00"
+content_hash: "sha256:9467b17fb179a8762c2976f81caabc8deb552657b5d50dbe923c29bdb84a7501"
+---
+
+# What is OpenTelemetry? Architecture, Benefits, and How It Works
+
+# What is OpenTelemetry? Architecture, Benefits, and How It Works
+
+
+Published on: June 23, 2025
+
+
+Last Updated: June 16, 2026
+
+
+13 min read
+
+
+Observability used to be a fragmented mess. You had one agent for logs, a different library for metrics, and a proprietary SDK for distributed tracing. If you wanted to switch vendors, you had to rewrite your instrumentation code from scratch.
+
+
+OpenTelemetry (OTel) fixed this.
+
+
+It has become the second most active project in the CNCF (Cloud Native Computing Foundation), right behind Kubernetes. By standardizing how applications generate and transmit telemetry data, OpenTelemetry ensures you own your data, not your vendor.
+
+
+This guide covers what OpenTelemetry is, how its architecture works, and why it is now the default choice for modern infrastructure.
+
+
+*Comic explaining the power of OTel*
+
+
+## What is OpenTelemetry? A Quick Definition
+
+
+[OpenTelemetry](https://opentelemetry.io/) is an open-source observability framework that lets you generate, collect, and export telemetry data (traces, metrics, and logs). It is **not** a storage backend or a visualization tool. Instead, it acts as the universal language and delivery system for your telemetry data.
+
+
+Think of OpenTelemetry as the plumbing. It gathers data from your applications and infrastructure, processes it, and pipes it to the backend of your choice, whether that's SigNoz, Prometheus, Jaeger, or others.
+
+
+It formed in 2019 through the merger of two major projects: Google's **OpenCensus** and the CNCF's **OpenTracing** .
+
+
+The goal was to unify the industry on a single standard for instrumentation to enable:
+
+
+### Unified Telemetry
+
+
+OpenTelemetry unifies the three core pillars of observability into a single data stream.
+
+
+- **Traces:** These track the journey of a request as it moves through a distributed system. A trace is made of "[spans](https://signoz.io/blog/opentelemetry-spans/) ," where each span represents a specific operation (like a database query or an HTTP request). Traces tell you **where** the problem is.
+- **Metrics:** These are numerical data points measured over time, such as CPU usage, memory consumption, or request rates. Metrics tell you **when** a problem occurs.
+- **Logs:** These are timestamped text records of events, often containing error messages or status updates. Logs tell you **why** the problem happened.
+
+
+By using OTel for all three, you gain *the ability to correlate them automatically* . For example, you can look at a specific trace and immediately see the logs generated during that exact timeframe, carrying the same context tags.
+
+
+### Vendor Agnostic
+
+
+Using OTel, you will NOT be tied to a single vendor. It's very similar to *plug and play* . You can very easily plug a vendor/ observability backend of your choice.
+
+
+### Cross-Platform
+
+
+Supports various languages \[Java, Python, Go, etc.\] and platforms, making it versatile and adaptive for different development environments.
+
+
+## OpenTelemetry Architecture: Core Components
+
+
+*OpenTelemetry Framework*
+
+
+At the heart of OTel is its **specification** , a formal set of guidelines that defines how telemetry data should be generated, processed, and exported. The specification ensures interoperability across programming languages, tools, and vendors, providing a consistent model for observability data.
+
+
+The primary purpose of the OTel specification is to create a vendor-neutral standard for telemetry. It ensures that whether you're instrumenting an application in Go, Java, Python, or any other supported language, the data produced follows the same structure, semantics, and protocols.
+
+
+The[OpenTelemetry architecture](https://signoz.io/blog/opentelemetry-architecture/) consists of the following key components:
+
+
+### 1. OTel API & OTel SDK
+
+
+Beginners often confuse these two, but the distinction is vital for stability.
+
+
+- **The API (Interface):** This is what you use to instrument your code. It contains the classes and methods to create spans and record metrics. It is purely an interface, if you import the API but don't install an SDK, your code runs but produces no data (a "no-op" implementation). This ensures that instrumentation dependencies don't break your app logic.
+- **The SDK (Implementation):** The SDK plugs into the API to actually handle the data. It applies sampling rules, adds resource attributes (like` service.name` or` k8s.pod.name` ), batches the data, and sends it to an exporter.
+
+
+The primary reason for separating[the API from the SDK](https://signoz.io/comparisons/opentelemetry-api-vs-sdk/) is that it makes it easier to embed native instrumentation into open-source library code. OpenTelemetry's API is designed to be lightweight and safe to depend on. The signal's implementation provided by the SDK is significantly more complex and likely contains dependencies on other software. Forcing these dependencies on users could lead to conflicts with their particular software stack. Furthermore, it allows us to ship software with built-in observability without forcing the runtime cost of instrumentation onto users that don't need it.
+
+
+### 2. The OpenTelemetry Protocol (OTLP)
+
+
+[OTLP](https://signoz.io/blog/what-is-otlp/) is the native language of OpenTelemetry. It is a highly efficient protocol used to transmit data from the SDK to the Collector, or from the Collector to a backend. It supports both[gRPC and HTTP](https://signoz.io/comparisons/opentelemetry-grpc-vs-http/) transport. While OTel supports other formats (like Zipkin or Jaeger), OTLP is the recommended default protocol for efficiently transporting telemetry.
+
+
+### 3. The OpenTelemetry Collector
+
+
+The[OTel Collector](https://signoz.io/blog/opentelemetry-collector-complete-guide/) is a vendor-agnostic proxy that sits between your applications and your backend. While optional, it is highly recommended for[production environments](https://signoz.io/guides/is-opentelemetry-ready-for-production/) .
+
+
+It performs three main jobs:
+
+
+1. **Receive:** It accepts data in various formats (OTLP, Jaeger, Prometheus, etc.).
+2. **Process:** It cleans and modifies data. You can filter out health-check traces, scrub PII (Personally Identifiable Information), or add infrastructure tags.
+3. **Export:** It sends the data to one or more backends simultaneously.
+
+
+You can deploy the Collector as an **Agent** (a daemon running on every host) or as a **Gateway** (a centralized service).
+
+
+### 4. Semantic conventions
+
+
+These define common attribute names (e.g.,` http.request.method` ,` db.system` ) for uniformity across different components and services. This ensures that a database call looks the same whether it comes from a Python app or a Java app.
+
+
+The specification is what keeps OpenTelemetry *modular, extensible, and future-proof* . It's what enables you to instrument once and choose (or switch) backends later whether that's SigNoz, Prometheus, Grafana, Datadog, or any other observability tool that supports OTel.
+
+
+## How Does OpenTelemetry Work?
+
+
+We have already skimmed through the fact that OTel lets us collect, process and export telemetry data. Let's look at this in greater detail.
+
+
+1/ It all begins by instrumenting your code using OpenTelemetry's APIs. This tells the system *what* to measure, like HTTP latencies, DB queries, or error events and *how* to capture those signals.
+
+
+2/ The SDKs in your application pool collect the data generated by instrumentation. Then it is transported for processing and exporting.
+
+
+3/ The data reaches the[OTel Collector](https://signoz.io/blog/opentelemetry-collector-complete-guide/) , which acts as the processing hub. Here, telemetry can be sampled, filtered to reduce noise, or enriched using metadata from other systems. This step adds valuable context to raw signals.
+
+
+4/ The processed data is then converted, if needed, into formats expected by observability backends and passed to exporters. Exporters are responsible for delivering the data to its destination.
+
+
+5/ Before data leaves the Collector, it may undergo additional time-based batching and is then routed to one or more backend systems like SigNoz or any other cloud APM service.
+
+
+Thus, we understand that OTel enables a *telemetry pipeline* that begins inside your application and ends in your observability backend:
+
+
+*OpenTelemetry Illustration*
+
+
+Now let's break down why betting on OpenTelemetry might be the best observability move you make.
+
+
+## Benefits of OpenTelemetry (Why Developers Choose It)
+
+
+The shift to OpenTelemetry isn't just about following a trend; it solves specific engineering pain points. The benefits are many, here we have covered the ones that matter most in production.
+
+
+### No More Vendor Lock-in
+
+
+In the past, instrumenting code meant importing a vendor-specific agent (e.g., the Datadog or New Relic agent). If their pricing changed or you wanted a different tool, you had to rip out that code and re-instrument everything.
+
+
+With OTel, you instrument once using the standard API. To switch vendors, you simply change a configuration line in your Collector or Exporter. Your application code remains untouched.
+
+
+### Consistent Context Propagation
+
+
+Debugging microservices is difficult when context gets lost between boundaries. OTel standardizes **[context propagation](https://signoz.io/blog/opentelemetry-context-propagation/)** . When Service A calls Service B, OTel injects headers (like W3C Trace Context) that carry the trace ID. This ensures that even if the services are written in different languages (e.g., Go calling Python), the trace remains unbroken.
+
+
+### Observability as Code
+
+
+OTel moves observability from a "siloed operational task" to a developer concern. By using open standards, library maintainers are now adding OTel instrumentation natively. For example, many database drivers and HTTP frameworks now come with OTel hooks built-in, meaning you get telemetry simply by using the library.
+
+
+## OpenTelemetry Challenges and Limitations
+
+
+OpenTelemetry is powerful, but it has real limitations worth weighing before you adopt it.
+
+
+**Configuration Complexity:** The Collector is extremely flexible, which means it can be complex to configure correctly. Managing sampling rates and memory limits on the Collector requires attention.
+
+
+**Version Maturity:** Tracing is fully stable across most languages. Metrics are stable in major languages but still evolving in others. Logging is the newest signal and has varying levels of maturity depending on the language SDK.
+
+
+## OpenTelemetry vs. Prometheus & Jaeger
+
+
+A common confusion is how OTel compares to existing tools.
+
+
+Feature OpenTelemetry Prometheus Jaeger
+
+
+**Primary Role** Telemetry Generation & Collection Storage & Querying (Metrics) Storage & Visualization (Traces)
+
+
+**Signals** Traces, Metrics, Logs Metrics only (mostly) Traces only
+
+
+**Backend?** No Yes Yes
+
+
+**[OTel vs. Prometheus](https://signoz.io/blog/opentelemetry-vs-prometheus/) :** They are complementary. OTel can scrape metrics and export them *to* Prometheus. Alternatively, OTel can replace the scraping mechanism entirely, sending metrics directly to a backend that supports PromQL (like SigNoz).
+
+
+**[OTel vs. Jaeger](https://signoz.io/blog/opentelemetry-vs-jaeger/) :** Jaeger is a backend for storing and viewing traces. OTel is the pipeline that sends data *to* Jaeger. Note that the Jaeger *client libraries* have been deprecated in favor of OpenTelemetry SDKs.
+
+
+## How to Get Started with OpenTelemetry
+
+
+Implementing OpenTelemetry generally follows three steps.
+
+
+### 1. Instrumentation
+
+
+You can instrument your application in two ways:
+
+
+- **Auto-Instrumentation (Zero-code):** Ideal for getting started quickly. You attach an agent to your running application (e.g., the Java JAR agent or Python distro). It automatically captures HTTP requests, database queries, and standard metrics without you writing a single line of code. Instrumentation is language-specific, and implementation details vary between languages. OpenTelemetry[NodeJS](https://signoz.io/opentelemetry/nodejs/) and[Python](https://signoz.io/opentelemetry/python/) are some popular integrations for auto-instrumentation.
+- **Manual Instrumentation:** Used when you need custom business data. You import the API and manually create spans to track specific logic, such as` process_payment()` or` calculate_inventory()` .
+
+
+### 2. Collection
+
+
+Configure the OTel Collector to receive data from your app. A basic` config.yaml` might look like this:
+
+
+```text
+receivers  :
+otlp  :
+protocols  :
+grpc  :
+http  :
+
+
+processors  :
+batch  :
+
+
+exporters  :
+otlp  :
+endpoint  :    "ingest.us.signoz.cloud:443"      # use your region
+headers  :
+"signoz-ingestion-key"  :    "${SIGNOZ_INGESTION_KEY}"
+
+
+service  :
+pipelines  :
+traces  :
+receivers  :    [  otlp ]
+processors  :    [  batch ]
+exporters  :    [  otlp ]
+
+
+```
+
+
+### 3. Visualization
+
+
+Once your data reaches the Collector, you need somewhere to store, query, and visualize it. This is what an[OpenTelemetry backend](https://signoz.io/blog/opentelemetry-backend/) does — it ingests your telemetry, indexes it, and lets you explore it. Backends range from open-source tools like SigNoz to cloud-hosted APMs. If you want to compare your options, our guide to[OpenTelemetry tools](https://signoz.io/blog/opentelemetry-tools/) walks through the landscape.
+
+
+## Using SigNoz as an OpenTelemetry-Native Backend
+
+
+SigNoz is an observability platform built from the ground up with the idea of being *[OpenTelemetry native](https://signoz.io/blog/opentelemetry-apm/)* . In an OTel-based[observability stack](https://signoz.io/guides/observability-stack/) , SigNoz is a backend and visualisation layer for your telemetry data. We fully leverage OTel's semantic conventions, providing deeper, out-of-the-box insights.
+
+
+We've launched some features that doubles down on our OTel-native approach.
+
+
+- [Trace Funnels](https://signoz.io/blog/tracing-funnels-observability-distributed-systems/) : Intelligently sample and analyze traces to focus on what's important.
+- [External API Monitoring](https://signoz.io/docs/apm-and-distributed-tracing/application-details/) : Gain visibility into the performance of third-party APIs your application depends on.
+- [Out-of-the-box Messaging Queue Monitoring](https://signoz.io/blog/opentelemetry-powered-kafka-celery-monitoring/) : Effortlessly monitor popular queuing systems.
+
+
+*Traces collected from an application instrumented with OTel as visualized by SigNoz*
+
+
+[SigNoz](https://signoz.io/docs/introduction/) offers multiple deployment options to suit your needs:
+
+
+- [SigNoz Cloud](https://signoz.io/docs/cloud/) : A fully-managed, scalable solution for teams that want to focus on their core business without the overhead of managing an observability platform.
+- [SigNoz Enterprise](https://signoz.io/enterprise/) : For organizations with strict data residency or privacy requirements, we offer a self-hosted enterprise edition (bring-your-own-cloud or on-premise) with dedicated support and advanced security features.
+- [SigNoz Community](https://signoz.io/docs/install/self-host/) : A self-hosted, open-source version that's perfect for getting started and for teams with the capability to manage their own infrastructure.
+
+
+If you are someone who learns better by watching videos, we have a complete video guide that breaks down the OpenTelemetry architecture, the Collector, and how to get started:
+
+
+## Next Steps with OpenTelemetry
+
+
+Now that you've gotten a basic understanding of what OpenTelemetry is, here are a few next steps that you can try.
+
+
+- [Instrumenting your application with OpenTelemetry](https://signoz.io/docs/instrumentation/)
+- [Setting up the OpenTelemetry Demo Application](https://signoz.io/blog/opentelemetry-demo/)
+- [Instrumenting your infra with OpenTelemetry](https://signoz.io/docs/infrastructure-monitoring/overview/)
+
+
+With these next steps, you'll be well on your way to building systems that are easier to observe, debug, and improve. Thank you, OpenTelemetry, for making observability accessible for everyone! ❤️
+
+
+## FAQs
+
+
+### Is OpenTelemetry a monitoring tool?
+
+
+Not exactly. OpenTelemetry handles the *collection side* — it instruments your code, gathers telemetry, and ships it somewhere. It has no storage, no dashboards, and no alerting. That's the job of an observability backend like SigNoz. Think of OTel as the pipeline, and the backend as the place where you actually do your monitoring.
+
+
+### Do I need the OpenTelemetry Collector?
+
+
+You do not need an OpenTelemetry Collector for a quick proof-of-concept or simple observability pipelines; you can configure the SDK to export directly to a backend. When serving large volumes of telemetry or managing complex observability pipelines, you almost always want the Collector in between. It lets you apply sampling, scrub sensitive fields, fan out to multiple destinations, and decouple your applications from your backend. Skipping it works until it doesn't, and adding it later under pressure is painful.
+
+
+### Is OpenTelemetry good for beginners?
+
+
+Yes, OpenTelemetry is good for beginners, thanks in large part to auto-instrumentation. For most popular frameworks and languages, you can get traces and metrics flowing with a single command or a one-line agent flag, before writing any instrumentation code yourself. From there, you can layer in manual spans for business-specific logic as you get comfortable with how everything fits together.
+
+
+---
+
+
+Hope we answered all your questions regarding What is OpenTelemetry. If you have more questions, feel free to use the SigNoz AI chatbot, or join our[slack community](https://signoz.io/slack/) .
+
+
+You can also subscribe to our[newsletter](https://newsletter.signoz.io/) for insights from observability nerds at SigNoz, get open source, OpenTelemetry, and devtool building stories straight to your inbox.

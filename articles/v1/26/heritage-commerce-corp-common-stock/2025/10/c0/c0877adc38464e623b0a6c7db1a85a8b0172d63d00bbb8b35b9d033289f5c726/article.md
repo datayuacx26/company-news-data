@@ -1,0 +1,2277 @@
+---
+schema_version: "1.0.0"
+document_id: "c0877adc38464e623b0a6c7db1a85a8b0172d63d00bbb8b35b9d033289f5c726"
+company_key: "heritage-commerce-corp-common-stock"
+company: "Heritage Commerce Corp"
+source_id: "heritage-commerce-corp-common-stock-news-import-40f848bf69ef"
+canonical_url: "https://www.globenewswire.com/news-release/2025/10/23/3172546/9687/en/heritage-commerce-corp-reports-third-quarter-and-first-nine-months-of-2025-financial-results.html"
+published_at: "2025-10-23T21:23:29+00:00"
+first_seen_at: "2026-07-25T07:59:42.856315+00:00"
+fetched_at: "2026-07-28T21:27:39.672880+00:00"
+content_hash: "sha256:ecb9c23a3ed72f496e6f421146f13bec50c6b63a36e0e3e0a8c6a19bb078a9f4"
+---
+
+# Heritage Commerce Corp Reports Third Quarter and First Nine Months of 2025 Financial Results
+
+SAN JOSE, Calif., Oct. 23, 2025 (GLOBE NEWSWIRE) -- **Heritage Commerce Corp** **(Nasdaq: HTBK),** (the “Company”), the holding company for Heritage Bank of Commerce (the “Bank”) today announced its financial results for the third quarter and first nine months of 2025. All data are unaudited.
+
+
+**REPORTED THIRD QUARTER 2025 HIGHLIGHTS:**
+
+
+**Net Income** **Diluted Earnings Per Share ("EPS")** **Pre-Provision Net Revenue ("PPNR")** **Fully Tax Equivalent ("FTE") Net Interest Margin(1)** **Efficiency Ratio** **Return on Average Tangible Common Equity(1)**
+
+
+**$14.7 Million** **$** **0.24** **$21.0 Million** **3.60** **%** **58.05** **%** **11.14** **%**
+
+
+**CEO COMMENTARY:**
+
+
+“We executed well in the third quarter, generating double digit EPS growth and positive operating leverage,” said Clay Jones, President and Chief Executive Officer. “We had positive trends in loan and deposit growth, an expansion in our net interest margin, disciplined expense management, and an improvement in our asset quality. Loan and deposit growth was 1% and 3%, respectively, over the linked quarter, and we continue to add clients in key markets across our footprint, while maintaining our underwriting and pricing.”
+
+
+“Our financial foundation is solid — marked by high capital reserves, strong liquidity, and sound asset quality. These fundamentals position us to continue to execute on our strategy, which is focused on increasing market share, growing our client franchise, and generating profitable growth, as we continue to support our community, colleagues, and shareholders. We are strengthening our platform to perform and position ourselves to deliver sustained, high-quality financial results for our shareholders.” said Mr. Jones.
+
+
+**LINKED-QUARTER BASIS** **YEAR-OVER-YEAR**
+
+
+**FINANCIAL HIGHLIGHTS:**
+
+
+- Total revenue of $50.0 million, an increase of 5%, or $2.2 million
+- Cost of funds decreased to 1.54% from 1.57%
+- Reported net income of $14.7 million and reported EPS of $0.24, up 130% and 140%, from $6.4 million and $0.10, respectively
+- Adjusted net income(1) of $14.7 million and adjusted EPS(1) of $0.24, up 13% and 14%, from $13.0 million and $0.21, respectively
+
+
+- Total revenue of $50.0 million, an increase of 19%, or $7.9 million
+- Cost of funds decreased to 1.54% from 1.88%
+- PPNR of $21.0 million, an increase of 44% from $14.6 million
+- Net income of $14.7 million and EPS of $0.24, up 40% and 41%, respectively
+
+
+**BALANCE SHEET HIGHLIGHTS:**
+
+
+- Loans held-for-investment (“HFI”) of $3.6 billion, up $47.3 million, or 1%
+- Total deposits of $4.8 billion, up $149.2 million, or 3%
+- Loan to deposit ratio of 74.99%, a decrease of 2% from 76.38%
+- Total shareholders’ equity of $700.0 million, up $5.3 million
+
+
+- Increase in loans HFI of $171.4 million, or 5%
+- Increase in total deposits of $47.0 million, or 1%
+- Loan to deposit ratio of 74.99%, an increase of 4% from 72.11%
+- Total shareholders’ equity of $700.0 million, up $14.7 million
+
+
+**ASSET QUALITY:**
+
+
+- Nonperforming assets (“NPAs”) to total assets of 0.07%, compared to 0.11%
+- Classified assets to total assets of 0.62%, compared to 0.69%
+
+
+- NPAs to total assets of 0.07%, compared to 0.13%
+- Classified assets to total assets of 0.62%, compared to 0.59%
+
+
+**KEY PERFORMANCE METRICS:**
+
+
+- FTE net interest margin(1) of 3.60%, an increase of 6 basis points from 3.54%
+- Efficiency ratio of 58.05%, a decrease of 5% from adjusted efficiency ratio(1) of 61.01%
+- Return on average assets of 1.05%, an increase of 11% over adjusted return on average assets(1)
+- Return on average tangible common equity(1) of 11.14%, an increase of 12% over adjusted return on average tangible common equity(1)
+
+
+- FTE net interest margin(1) of 3.60%, an increase of 45 basis points from 3.15%
+- Efficiency ratio of 58.05%, a decrease of 11% from 65.37%
+- Return on average assets of 1.05%, an increase of 35%
+- Return on average tangible common equity(1) of 11.14%, an increase of 35%
+
+
+**CAPITAL MANAGEMENT:**
+
+
+- Common stock net repurchases of $2.2 million, compared to $1.9 million
+- Total capital ratio of 15.4%, compared to 15.5%
+- Common equity tier 1 capital ratio of 13.2%, compared to 13.3%
+- Tangible common equity ratio(1) of 9.67%, compared to 9.85%
+
+
+- Last twelve months ("LTM") common dividend of $31.9 million and dividend payout ratio of 74%
+- LTM common stock net repurchases of $4.0 million
+- Total capital ratio of 15.4%, compared to 15.6%
+- Common equity tier 1 capital ratio of 13.2%, compared to 13.4%
+- Tangible common equity ratio(1) of 9.67%, compared to 9.50%
+
+
+(1)This is a non-GAAP financial measure as defined and discussed under *“Non-GAAP Financial Measures”* in this press release. All references to “adjusted” operating metrics exclude the $9.2 million of pre-tax charges primarily related to a legal settlement in the second quarter and first nine months of 2025 as presented in the reconciliation of non-GAAP financial measures at the end of this press release.
+
+
+**Results of Operations:**
+
+
+Net income was $14.7 million, or $0.24 per average diluted common share, for the third quarter of 2025, compared to $6.4 million, or $0.10 for the second quarter of 2025, and $10.5 million, or $0.17 per average diluted common share for the third quarter of 2024. Adjusted net income(2) was $13.0 million, or $0.21 per average diluted common share, for the second quarter of 2025. The annualized return on average assets was 1.05%, the annualized return on average equity was 8.37%, and the annualized return on average tangible common equity(2) was 11.14% for the third quarter of 2025, compared to 0.47%, 3.68%, and 4.89%, respectively, for the second quarter of 2025, and 0.78%, 6.14%, and 8.27%, respectively, for the third quarter of 2024. The adjusted annualized return on average assets(2) was 0.95%, the adjusted annualized return on average equity(2) was 7.45%, and the adjusted annualized return on average tangible common equity(2) was 9.92%, for the second quarter of 2025.
+
+
+Net income was $32.7 million, or $0.53 per average diluted common share, for the first nine months of 2025. Adjusted net income(2) was $39.3 million, or $0.64 per average diluted common share, for the first nine months of 2025, compared to $29.9 million, or $0.49 per average diluted common share, for the first nine months of 2024. EPS increased 8% and adjusted EPS(2) increased 31% for the first nine months of 2025, compared to the first nine months of 2024. The annualized return on average assets was 0.79%, the annualized return on average equity was 6.29%, and the annualized return on average tangible common equity(2) was 8.38% for the nine months ended September 30, 2025, compared to 0.76%, 5.91%, and 7.98%, respectively, for the nine months ended September 30, 2024. The adjusted annualized return on average assets(2) was 0.95%, the adjusted annualized return on average equity(2) was 7.55%, and the adjusted annualized return on average tangible common equity(2) was 10.06%, for the nine months ended September 30, 2025.
+
+
+Total revenue, which is defined as net interest income before provision for credit losses on loans plus noninterest income, increased $2.2 million, or 5%, to $50.0 million for the third quarter of 2025, compared to $47.8 million for the second quarter of 2025, and increased $7.9 million, or 19%, from $42.2 million for the third quarter of 2024. Total revenue increased $17.8 million, or 14%, to $143.8 million for the first nine months of 2025, compared to $126.0 million for the first nine months of 2024.
+
+
+Net interest income totaled $46.8 million for the third quarter of 2025, representing an increase of $2.0 million, or 4%, compared to $44.8 million for the second quarter of 2025. The FTE net interest margin(2) was 3.60% for the third quarter of 2025, compared to 3.54% for the second quarter of 2025. The increase in the net interest margin is primarily attributable to higher average balances of loans and overnight funds, a higher average yield on securities, and a decrease in the average cost of deposits. The cost of deposits was down 4 basis points, driven by proactive management of exception based deposit pricing and favorable noninterest-bearing deposit mix shift. These factors were partially offset by a decrease in the average balances of securities due to maturities and paydowns.
+
+
+Net interest income increased $7.5 million, or 19%, to $46.8 million, compared to $39.3 million for the third quarter of 2024. The FTE net interest margin(2) increased from 3.15% for the third quarter of 2024 primarily due to lower rates paid on customer deposits, an increase in the average yields on loans and securities, a higher average balance of loans, and an increase in the average balance of deposits resulting in a higher average balance of overnight funds, partially offset by a lower average yield on overnight funds.
+
+
+For the first nine months of 2025, net interest income increased $17.3 million, or 15% to $135.0 million, compared to $117.7 million for the first nine months of 2024. The FTE net interest margin(2) increased 28 basis points to 3.51% for the first nine months of 2025, from 3.23% for the first nine months of 2024, primarily due to decrease in rates paid on client deposits, an increase in the average balances of average interest earning assets, and an increase in the average yields on loans and securities, partially offset by a lower yield on overnight funds.
+
+
+Total noninterest income increased 8% to $3.2 million for the third quarter of 2025, compared to $3.0 million for the second quarter of 2025, and increased 14% from $2.8 million for the third quarter of 2024. Total noninterest income increased 7% to $8.9 million for the first nine months of 2025, compared to $8.3 million for the first nine months of 2024. The increase in noninterest income for the third quarter and first nine months of 2025 was primarily driven by a $386,000 recovery on an acquired loan that had been previously charged off and by higher facility fees. For the first nine months of 2025, the increase was partially offset by a $219,000 gain on proceeds from company-owned life insurance recorded in the same period of 2024.
+
+
+(2)This is a non-GAAP financial measure as defined and discussed under *“Non-GAAP Financial Measures”* in this press release.
+
+
+Noninterest expense for the third quarter of 2025 totaled $29.0 million, compared to $38.3 million(3) for the second quarter of 2025, and $27.6 million for the third quarter of 2024. Adjusted noninterest expense(4) was $29.1 million for the second quarter of 2025. Noninterest expense totaled $96.8 million(3) for the first nine months of 2025, compared to $83.3 million for the first nine months of 2024. Adjusted noninterest expense(4) for the first nine months of 2025 increased to $87.6 million, compared to $83.3 million for the first nine months of 2024. The increase in adjusted noninterest expense(4) for the third quarter and first nine months of 2025 compared to the respective periods in 2024 was primarily due to higher salaries and employee benefits as a result of annual salary increases. The first nine months of 2025 was also impacted by higher professional fees and information technology related expenses as the Company invested in enhancing its infrastructure.
+
+
+For the third quarter the Company’s PPNR, which is defined as total revenue less adjusted noninterest expense was $21.0 million, compared to $9.4 million for the second quarter of 2025, and $14.6 million for the third quarter of 2024. For the third quarter the Company’s adjusted PPNR(4) increased 13% to $21.0 million from $18.6 million for the second quarter of 2025, and increased 44% from $14.6 million for the third quarter of 2024. For the first nine months of 2025, the Company’s PPNR was $47.0 million, compared to $42.7 million for the first nine months of 2024. For the first nine months of 2025, the Company’s adjusted PPNR(4) increased 31% to $56.2 million from $42.7 million for the first nine months of 2024.
+
+
+The provision for credit losses on loans totaled $416,000 for the third quarter of 2025, compared to a $516,000 provision for credit losses on loans for the second quarter of 2025 and a provision for credit losses on loans of $153,000 for the third quarter of 2024. Net recoveries totaled $378,000 for the third quarter of 2025, compared to net charge-offs of $145,000 for the second quarter of 2025, and net charge-offs of $288,000 for the third quarter of 2024.
+
+
+The provision for credit losses on loans totaled $1.2 million for the first nine months of 2025, compared to a $808,000 provision for credit losses on loans for the first nine months of 2024. Net charge-offs totaled $732,000 for the first nine months of 2025, compared to $947,000 for the first nine months of 2024.
+
+
+Income tax expense increased to $5.9 million for the third quarter of 2025, compared to $2.5 million for the second quarter of 2025, and $3.9 million for the third quarter of 2024, primarily due to higher pre-tax income. The effective tax rate for the third quarter of 2025 was 28.5% for both the third and second quarters of 2025, and 27.3% for the third quarter of 2024.
+
+
+Income tax expense for the nine months ended September 30, 2025 was $13.1 million, compared to $12.0 million for the nine months ended September 30, 2024. The effective tax rate for nine months ended September 30, 2025 was 28.6%, compared to 28.7% for the nine months ended September 30, 2024.
+
+
+The efficiency ratio was 58.05% for the third quarter of 2025, compared to 80.23% for the second quarter of 2025, and 65.37% for the third quarter of 2024. The adjusted efficiency ratio(4) improved to 58.05% for the third quarter of 2025, from 61.01% for the second quarter of 2025, and 65.37% for the third quarter of 2024, primarily due to higher total revenue. The reported efficiency ratio was 67.31% for the first nine months of 2025. The adjusted efficiency ratio(4) improved to 60.92% for the first nine months of 2025 from 66.08% for the first nine months of 2024, primarily due to higher total revenue, partially offset by higher noninterest expense.
+
+
+Full time equivalent employees were 350 at both September 30, 2025 and June 30, 2025, and 353 at September 30, 2024.
+
+
+(3)During the second quarter of 2025, the Company recorded expenses of $9.2 million, primarily due to pre-tax charges related to the settlement of certain litigation matters, including the anticipated settlement of a previously disclosed class action and California Private Attorneys General Act (“PAGA”) lawsuit that alleged the violation of certain California wage-and-hour and related laws and regulations, and charges related to the planned closure of a Bank branch.
+
+
+(4)This is a non-GAAP financial measure as defined and discussed under *“Non-GAAP Financial Measures”* in this press release.
+
+
+**Balance Sheet, Liquidity and Capital Management:**
+
+
+Total assets increased 3% to $5.6 billion at September 30, 2025, compared to $5.5 billion at June 30, 2025, primarily due to an increase in deposits resulting in an increase in overnight funds, purchases of investment securities, and an increase in loans. Total assets were relatively flat from $5.6 billion at September 30, 2024.
+
+
+Investment securities available-for-sale (at fair value) increased to $408.5 million at September 30, 2025, compared to $307.0 million at June 30, 2025, primarily due to purchases, partially offset by maturities and paydowns. At September 30, 2024, these securities totaled $237.6 million. The pre-tax unrealized loss on the securities available-for-sale portfolio was $652,000, or $540,000 net of taxes, which equaled less than 1% of total shareholders’ equity at September 30, 2025.
+
+
+During the first nine months of 2025, the Company purchased $174.2 million of agency mortgage-backed securities, $129.8 million of collateralized mortgage obligations, and $44.8 million of U.S. Treasury securities, for total purchases of $348.8 million in the available-for-sale portfolio. Securities purchased had a book yield of 4.92% and an average life of 5.42 years.
+
+
+Investment securities held-to-maturity (at amortized cost, net of an $11,000 allowance for credit losses), totaled $544.8 million at September 30, 2025, compared to $561.2 million at June 30, 2025, and $604.2 million at September 30, 2024. The fair value of the securities held-to-maturity portfolio was $476.8 million at September 30, 2025. The pre-tax unrecognized loss on the securities held-to-maturity portfolio was $68.0 million, or $47.9 million net of taxes, which equaled 7% of total shareholders’ equity at September 30, 2025.
+
+
+The unrealized and unrecognized losses in both the available-for-sale and held-to-maturity portfolios resulted from higher interest rates at September 30, 2025, compared to when the securities were purchased. The issuers are of high credit quality, and all principal amounts are expected to be repaid at maturity. Fair values are expected to recover as the securities approach maturity and/or if market rates decline.
+
+
+Loans HFI, net of deferred costs and fees, increased $47.3 million, or 1% to $3.6 billion at September 30, 2025, compared to $3.5 billion at June 30, 2025, and increased $171.4 million, or 5%, from $3.4 billion at September 30, 2024. Loans HFI, excluding residential mortgages, increased $58.6 million, or 2% to $3.14 billion at September 30, 2025, compared to $3.08 billion at June 30 2025, and increased $207.8 million, or 7%, from $2.93 billion at September 30, 2024.
+
+
+Commercial and industrial line utilization was 35% at September 30, 2025, compared to 32% at June 30, 2025, and 31% at September 30, 2024. Commercial real estate (“CRE”) loans totaled $2.0 billion at September 30, 2025, of which 31% were owner occupied and 69% were investor CRE loans. Owner occupied CRE loans also totaled 31% at both June 30, 2025 and September 30, 2024. Approximately 23% of the Company’s loan portfolio consisted of floating interest rate loans at September 30, 2025, compared to 24% at June 30, 2025, and 25% at September 30, 2024.
+
+
+At September 30, 2025, paydowns and maturities of investment securities and fixed interest rate loans maturing within one year totaled $343.8 million.
+
+
+Total deposits increased $149.2 million, or 3%, to $4.8 billion at September 30, 2025, compared to $4.6 billion at June 30, 2025, and increased $47.0 million, or 1% from $4.7 billion at September 30, 2024.
+
+
+The following table shows the Company’s deposit types as a percentage of total deposits at the dates indicated:
+
+
+**September 30,** **June 30,** **September 30,**
+
+
+**DEPOSITS TYPE % TO TOTAL DEPOSITS** **2025** **2025** **2024**
+
+
+Demand, noninterest-bearing 26 % 25 % 27 %
+
+
+Demand, interest-bearing 19 % 21 % 19 %
+
+
+Savings and money market 28 % 28 % 28 %
+
+
+Time deposits — under $250 1 % 1 % 1 %
+
+
+Time deposits — $250 and over 5 % 4 % 4 %
+
+
+Insured Cash Sweep ("ICS")/Certificate of Deposit Registry
+
+
+Service ("CDARS") - interest-bearing demand, money
+
+
+market and time deposits 21 % 21 % 21 %
+
+
+Total deposits 100 % 100 % 100 %
+
+
+The loan to deposit ratio was 74.99% at September 30, 2025, compared to 76.38% at June 30, 2025, and 72.11% at September 30, 2024.
+
+
+The Company’s total available liquidity and borrowing capacity was $3.3 billion at September 30, 2025, compared to $3.1 billion at June 30, 2025, and $3.2 billion at September 30, 2024.
+
+
+Total shareholders’ equity was $700.0 million at September 30, 2025, compared to $694.7 million at June 30, 2025, and $685.4 million at September 30, 2024.
+
+
+Total accumulated other comprehensive loss of $5.2 million at September 30, 2025 was comprised of $2.5 million in actuarial losses associated with split dollar insurance contracts, $2.1 million in actuarial losses associated with the supplemental executive retirement plan, unrealized losses on securities available-for-sale of $540,000, and a $40,000 unrealized gain on interest-only strip from SBA loans.
+
+
+Capital at September 30, 2025 was above well capitalized regulatory thresholds.
+
+
+The reported tangible book value per share(5) was $8.61 at September 30, 2025, compared to $8.49 at June 30, 2025, and $8.33 at September 30, 2024. The adjusted tangible book value per share(5) was $8.71, compared to $8.59 at June 30, 2025, and $8.33 at September 30, 2024.
+
+
+**Asset Quality:**
+
+
+The allowance for credit losses on loans (“ACLL”) at September 30, 2025 was $49.4 million, or 1.38% of total loans. The ACLL at June 30, 2025 was $48.6 million, or 1.38% of total loans. The ACLL at September 30, 2024 was $47.8 million, or 1.40% of total loans. The increase in the ACLL year-over-year is due to loan growth.
+
+
+NPAs were $3.7 million at September 30, 2025, compared to $6.2 million at June 30, 2025, and $7.2 million at September 30, 2024. There were no Shared National Credits (“SNCs”) in NPAs or total loans at September 30, 2025, June 30, 2025, or September 30, 2024.
+
+
+Classified assets totaled $34.6 million, or 0.62% of total assets, at September 30, 2025, compared to $37.5 million, or 0.69% of total assets, at June 30, 2025, and $32.6 million, or 0.59% of total assets, at September 30, 2024.
+
+
+**Announcing An Increase to the Company's Share Repurchase Program:**
+
+
+Today, the Board of Directors (the "Board") of the Company approved an increase in the maximum total value of shares authorized for repurchase under the Company’s share repurchase program, initially approved by the Board in July 2024 (the “Repurchase Program”), doubling the authorization from $15 million to $30 million. The term of the Repurchase Program was also extended by the Board to October 31, 2026. During the second and third quarters of 2025, the Company repurchased 439,187 shares of its common stock with a weighted average price of $9.22 per share for a total of $4.0 million. The remaining capacity under the Program after giving effect to the amendment as described above is $26 million at September 30, 2025.
+
+
+(5)This is a non-GAAP financial measure as defined and discussed under *“Non-GAAP Financial Measures”* in this press release.
+
+
+**Heritage Commerce Corp** , a bank holding company established in October 1997, is the parent company of Heritage Bank of Commerce, established in 1994 and headquartered in San Jose, CA with full-service branches in Danville, Fremont, Hollister, Livermore, Los Altos, Los Gatos, Morgan Hill, Oakland, Palo Alto, Pleasanton, Redwood City, San Francisco, San Jose, San Mateo, San Rafael, and Walnut Creek. Heritage Bank of Commerce is an SBA Preferred Lender. Bay View Funding, a subsidiary of Heritage Bank of Commerce, is based in San Jose, CA and provides business-essential working capital factoring financing to various industries throughout the United States. For more information, please visit[www.heritagecommercecorp.com](https://www.globenewswire.com/Tracker?data=2T45OX1pQSDZAVBHckxtJP4Pr1uu4B404tsATEgETH-VhLUMX-vYdqkDSoaHEigYbSRXy8eoJ2wDEQZf1I5rC6Fz2sSSHT5Xa6wyYxLxjG5JfixIPU14qk7moh71ktAw) . The contents of our website are not incorporated into, and do not form a part of, this release or of our filings with the Securities and Exchange Commission.
+
+
+**Reclassifications**
+
+
+During the first quarter of 2025, we reclassified Federal Home Loan Bank (“FHLB”) and Federal Reserve Bank (“FRB”) stock dividends from interest income to noninterest income and the related average asset balances were reclassified from interest earning assets to other assets on the *“Net Interest Income and Net Interest Margin”* tables. The amounts for the prior periods were reclassified to conform to the current presentation. These reclassifications did not affect previously reported net income or shareholders’ equity.
+
+
+**Non-GAAP Financial Measures**
+
+
+Financial results are presented in accordance with accounting principles generally accepted in the United States of America (“GAAP”) and prevailing practices in the banking industry. However, certain non-GAAP performance measures and ratios are used by management to evaluate and measure the Company’s performance. These measures include “adjusted” operating metrics that have been adjusted to exclude notable expenses incurred in the second quarter of 2025 as well as other performance measures and ratios adjusted for notable items. Management believes these non-GAAP financial measures enhance comparability between periods and in some instances are common in the banking industry. These non-GAAP financial measures should be supplemental to primary GAAP financial measures and should not be read in isolation or relied upon as a substitute for primary GAAP financial measures. A reconciliation of GAAP to non-GAAP financial measures is presented in the tables at the end of this press release under *“Reconciliation of Non-GAAP Financial Measures.”*
+
+
+**Forward-Looking Statement Disclaimer**
+
+
+Certain matters discussed in this press release constitute forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended. Such forward-looking statements are inherently uncertain in that they reflect plans and expectations for future events. These statements may include, among other things, those relating to the Company’s future financial performance, plans and objectives regarding future events, expectations regarding changes in interest rates and market conditions, projected cash flows of our investment securities portfolio, the performance of our loan portfolio, loan growth, expenses, net interest margin, estimated net interest income resulting from a shift in interest rates, expectation of high credit quality issuers ability to repay, as well as statements relating to the anticipated effects on the Company’s financial condition and results of operations from expected developments or events. Any statements that reflect our belief about, confidence in, or expectations for future events, performance or condition should be considered forward-looking statements. Readers should not construe these statements as assurances of a given level of performance, nor as promises that we will take actions that we currently expect to take. All statements are subject to various risks and uncertainties, many of which are outside our control and some of which may fall outside our ability to predict or anticipate. Accordingly, our actual results may differ materially from our projected results, and we may take actions or experience events that we do not currently expect. Risks and uncertainties that could cause our financial performance to differ materially from our goals, plans, expectations and projections expressed in forward-looking statements include those set forth in our filings with the Securities and Exchange Commission, Item 1A of the Company’s Quarterly Report on Form 10-Q for the quarter ended March 31,2025, and include: (i) cybersecurity risks that may affect us directly or may impact us indirectly by virtue of their effects on our clients, markets or vendors, including our ability to identify and address cybersecurity risks, including those posed by the increasing use of artificial intelligence (such as, but not limited to, ransomware, data security breaches, “denial of service” attacks, “hacking” and identity theft) affecting us, our clients, and our third-party vendors and service providers; (ii) events that affect our ability to attract, recruit, and retain qualified officers and other personnel to implement our strategic plan, and that enable current and future personnel to protect and develop our relationships with clients, and to promote our business, results of operations and growth prospects; (iii) media items and consumer confidence as those factors affect our clients’ confidence in the banking system generally and in our bank specifically; (iv) adequacy of our risk management framework, disclosure controls and procedures and internal control over financial reporting; (v) market, geographic and sociopolitical factors that arise by virtue of the fact that we operate primarily in the general San Francisco Bay Area of Northern California; (vi) risks of geographic concentration of our client base, our loans, and the collateral securing our loans, as those clients and assets may be particularly subject to natural disasters and to events and conditions that directly or indirectly affect those regions, including the particular risks of natural disasters (including earthquakes, fires, and flooding) and other events that disproportionately affect that region; (vii) political events that have accompanied or that may in the future accompany or result from recent political changes, particularly including the imposition of tariffs, sociopolitical events and conditions that result from political conflicts and law enforcement activities that may adversely affect our markets or our clients; (viii) our ability to estimate accurately, and to establish adequate reserves against, the risk of loss associated with our loan and lease portfolios and our factoring business; (ix) inflationary pressures and changes in the interest rate environment that reduce our margins and yields, the fair value of financial instruments or our level of loan originations, or increase the level of defaults, losses and prepayments on loans to clients, whether held in the portfolio or in the secondary market; (x) factors that affect the value and liquidity of our investment portfolios, particularly the values of securities available-for-sale; (xi) factors that affect our liquidity and our ability to meet client demands for withdrawals from deposit accounts and undrawn lines of credit, including our cash on hand and the availability of funds from our own lines of credit; (xii) increased capital requirements for our continual growth or as imposed by banking regulators, which may require us to raise capital at a time when capital is not available on favorable terms or at all; (xiii) the expense and uncertain resolution of litigation matters whether occurring in the ordinary course of business or otherwise, particularly including but not limited to the effects of recent and ongoing developments in California labor and employment laws, regulations and court decisions; (xiv) operational issues stemming from, and/or capital spending necessitated by, the potential need to adapt to industry changes in information technology systems, on which we are highly dependent; and (xv) our success in managing the risks involved in the foregoing factors.
+
+
+Member FDIC
+
+
+**For additional information, email:**
+[InvestorRelations@herbank.com](https://www.globenewswire.com/Tracker?data=OZJ0OtA2sib56mFs9x4Uuc4QXWb8_2kFMeyIL888zXP4DoGuBjkpcPM-7itsYU-w7ECi50S9ApZz7VQU9wB4wzUC3ih8ljLHESjysHOcuPNYmkrITZ3EnlZO5TtdrOJ8)
+
+
+**For the Quarter Ended:** **Percent Change From:** **For the Nine Months Ended:**
+
+
+**CONSOLIDATED INCOME STATEMENTS** **September 30,** **June 30,** **September 30,** **June 30,** **September 30,** **September 30,** **September 30,** **Percent**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2024** **2025** **2024** **2025** **2024** **Change**
+
+
+Interest income $ 65,094 $ 63,025 $ 60,852 3 % 7 % $ 189,951 $ 176,301 8 %
+
+
+Interest expense 18,306 18,220 21,523 0 % (15) % 54,998 58,603 (6) %
+
+
+Net interest income before provision
+
+
+for credit losses on loans 46,788 44,805 39,329 4 % 19 % 134,953 117,698 15 %
+
+
+Provision for credit losses on loans 416 516 153 (19) % 172 % 1,206 808 49 %
+
+
+Net interest income after provision
+
+
+for credit losses on loans 46,372 44,289 39,176 5 % 18 % 133,747 116,890 14 %
+
+
+Noninterest income:
+
+
+Service charges and fees on deposit
+
+
+accounts 898 929 908 (3) % (1) % 2,719 2,676 2 %
+
+
+FHLB and FRB stock dividends 587 584 586 1 % 0 % 1,761 1,765 0 %
+
+
+Increase in cash surrender value of
+
+
+life insurance 564 548 530 3 % 6 % 1,650 1,569 5 %
+
+
+Servicing income 77 61 108 26 % (29) % 220 348 -37 %
+
+
+Gain on sales of SBA loans — 87 94 (100) % (100) % 185 288 -36 %
+
+
+Termination fees — 227 46 (100) % (100) % 314 159 97 %
+
+
+Gain on proceeds from company-owned
+
+
+life insurance — — — N/A N/A — 219 -100 %
+
+
+Other 1,091 541 554 102 % 97 % 2,041 1,304 57 %
+
+
+Total noninterest income 3,217 2,977 2,826 8 % 14 % 8,890 8,328 7 %
+
+
+Noninterest expense:
+
+
+Salaries and employee benefits 16,948 16,227 15,673 4 % 8 % 49,750 46,976 6 %
+
+
+Occupancy and equipment 2,528 2,525 2,599 0 % (3) % 7,587 7,731 -2 %
+
+
+Professional fees 1,175 1,819 1,306 (35) % (10) % 4,574 3,705 23 %
+
+
+Other 8,375 17,764 7,977 (53) % 5 % 34,906 24,867 40 %
+
+
+Total noninterest expense 29,026 38,335 27,555 (24) % 5 % 96,817 83,279 16 %
+
+
+Income before income taxes 20,563 8,931 14,447 130 % 42 % 45,820 41,939 9 %
+
+
+Income tax expense 5,865 2,542 3,940 131 % 49 % 13,107 12,032 9 %
+
+
+**Net income** **$** **14,698** **$** **6,389** **$** **10,507** 130 % 40 % **$** **32,713** **$** **29,907** 9 %
+
+
+**PER COMMON SHARE DATA**
+
+
+**(unaudited)**
+
+
+Basic earnings per share $ 0.24 $ 0.10 $ 0.17 140 % 41 % $ 0.53 $ 0.49 8 %
+
+
+Diluted earnings per share $ 0.24 $ 0.10 $ 0.17 140 % 41 % $ 0.53 $ 0.49 8 %
+
+
+Weighted average shares outstanding - basic 61,333,951 61,508,180 61,295,877 0 % 0 % 61,440,570 61,254,138 0 %
+
+
+Weighted average shares outstanding - diluted 61,616,785 61,624,600 61,546,157 0 % 0 % 61,687,616 61,497,927 0 %
+
+
+Common shares outstanding at period-end 61,277,541 61,446,763 61,297,344 0 % 0 % 61,277,541 61,297,344 0 %
+
+
+Dividend per share $ 0.13 $ 0.13 $ 0.13 0 % 0 % $ 0.39 $ 0.39 0 %
+
+
+Book value per share $ 11.42 $ 11.31 $ 11.18 1 % 2 % $ 11.42 $ 11.18 2 %
+
+
+Tangible book value per share(1) $ 8.61 $ 8.49 $ 8.33 1 % 3 % $ 8.61 $ 8.33 3 %
+
+
+**KEY PERFORMANCE METRICS**
+
+
+**(in $000's, unaudited)**
+
+
+Annualized return on average equity 8.37 % 3.68 % 6.14 % 127 % 36 % 6.29 % 5.91 % 6 %
+
+
+Annualized return on average tangible
+
+
+common equity(1) 11.14 % 4.89 % 8.27 % 128 % 35 % 8.38 % 7.98 % 5 %
+
+
+Annualized return on average assets 1.05 % 0.47 % 0.78 % 123 % 35 % 0.79 % 0.76 % 4 %
+
+
+Annualized return on average tangible assets(1) 1.08 % 0.48 % 0.81 % 125 % 33 % 0.82 % 0.79 % 4 %
+
+
+Net interest margin (FTE)(1) 3.60 % 3.54 % 3.15 % 2 % 14 % 3.51 % 3.23 % 9 %
+
+
+Total revenue $ 50,005 $ 47,782 $ 42,155 5 % 19 % $ 143,843 $ 126,026 14 %
+
+
+Pre-provision net revenue $ 20,979 $ 9,447 $ 14,600 122 % 44 % $ 47,026 $ 42,747 10 %
+
+
+Efficiency ratio 58.05 % 80.23 % 65.37 % (28) % (11) % 67.31 % 66.08 % 2 %
+
+
+**AVERAGE BALANCES**
+
+
+**(in $000’s, unaudited)**
+
+
+Average assets $ 5,551,457 $ 5,458,420 $ 5,352,067 2 % 4 % $ 5,523,227 $ 5,248,338 5 %
+
+
+Average tangible assets(1) $ 5,378,468 $ 5,284,972 $ 5,177,114 2 % 4 % $ 5,349,786 $ 5,072,843 5 %
+
+
+Average earning assets $ 5,167,710 $ 5,087,089 $ 5,011,865 2 % 3 % $ 5,147,630 $ 4,909,240 5 %
+
+
+Average loans held-for-sale $ 1,230 $ 2,250 $ 1,493 (45) % (18) % $ 1,919 $ 1,913 0 %
+
+
+Average loans held-for-investment $ 3,519,775 $ 3,504,518 $ 3,359,647 0 % 5 % $ 3,484,769 $ 3,328,529 5 %
+
+
+Average deposits $ 4,687,294 $ 4,618,007 $ 4,525,946 2 % 4 % $ 4,674,162 $ 4,427,242 6 %
+
+
+Average demand deposits - noninterest-bearing $ 1,187,357 $ 1,146,494 $ 1,172,304 4 % 1 % $ 1,167,134 $ 1,158,891 1 %
+
+
+Average interest-bearing deposits $ 3,499,937 $ 3,471,513 $ 3,353,642 1 % 4 % $ 3,507,028 $ 3,268,351 7 %
+
+
+Average interest-bearing liabilities $ 3,539,706 $ 3,511,237 $ 3,393,264 1 % 4 % $ 3,546,754 $ 3,307,926 7 %
+
+
+Average equity $ 696,385 $ 697,016 $ 680,404 0 % 2 % $ 695,391 $ 675,951 3 %
+
+
+Average tangible common equity(1) $ 523,396 $ 523,568 $ 505,451 0 % 4 % $ 521,950 $ 500,456 4 %
+
+
+(1)This is a non-GAAP financial measure as defined and discussed under *“Non-GAAP Financial Measures”* in this press release.
+
+
+**For the Quarter Ended:**
+
+
+**CONSOLIDATED INCOME STATEMENTS** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2025** **2024** **2024**
+
+
+Interest income $ 65,094 $ 63,025 $ 61,832 $ 64,043 $ 60,852
+
+
+Interest expense 18,306 18,220 18,472 20,448 21,523
+
+
+Net interest income before provision
+
+
+for credit losses on loans 46,788 44,805 43,360 43,595 39,329
+
+
+Provision for credit losses on loans 416 516 274 1,331 153
+
+
+Net interest income after provision
+
+
+for credit losses on loans 46,372 44,289 43,086 42,264 39,176
+
+
+Noninterest income:
+
+
+Service charges and fees on deposit
+
+
+accounts 898 929 892 885 908
+
+
+FHLB and FRB stock dividends 587 584 590 590 586
+
+
+Increase in cash surrender value of
+
+
+life insurance 564 548 538 528 530
+
+
+Servicing income 77 87 98 125 94
+
+
+Gain on sales of SBA loans — 61 82 77 108
+
+
+Termination fees — 227 87 18 46
+
+
+Other 1,091 541 409 552 554
+
+
+Total noninterest income 3,217 2,977 2,696 2,775 2,826
+
+
+Noninterest expense:
+
+
+Salaries and employee benefits 16,948 16,227 16,575 16,976 15,673
+
+
+Occupancy and equipment 2,528 2,525 2,534 2,495 2,599
+
+
+Professional fees 1,175 1,819 1,580 1,711 1,306
+
+
+Other 8,375 17,764 8,767 9,122 7,977
+
+
+Total noninterest expense 29,026 38,335 29,456 30,304 27,555
+
+
+Income before income taxes 20,563 8,931 16,326 14,735 14,447
+
+
+Income tax expense 5,865 2,542 4,700 4,114 3,940
+
+
+**Net income** **$** **14,698** **$** **6,389** **$** **11,626** **$** **10,621** **$** **10,507**
+
+
+**PER COMMON SHARE DATA**
+
+
+**(unaudited)**
+
+
+Basic earnings per share $ 0.24 $ 0.10 $ 0.19 $ 0.17 $ 0.17
+
+
+Diluted earnings per share $ 0.24 $ 0.10 $ 0.19 $ 0.17 $ 0.17
+
+
+Weighted average shares outstanding - basic 61,333,951 61,508,180 61,479,579 61,320,505 61,295,877
+
+
+Weighted average shares outstanding - diluted 61,616,785 61,624,600 61,708,361 61,679,735 61,546,157
+
+
+Common shares outstanding at period-end 61,277,541 61,446,763 61,611,121 61,348,095 61,297,344
+
+
+Dividend per share $ 0.13 $ 0.13 $ 0.13 $ 0.13 $ 0.13
+
+
+Book value per share $ 11.42 $ 11.31 $ 11.30 $ 11.24 $ 11.18
+
+
+Tangible book value per share(1) $ 8.61 $ 8.49 $ 8.48 $ 8.41 $ 8.33
+
+
+**KEY PERFORMANCE METRICS**
+
+
+**(in $000's, unaudited)**
+
+
+Annualized return on average equity 8.37 % 3.68 % 6.81 % 6.16 % 6.14 %
+
+
+Annualized return on average tangible
+
+
+common equity(1) 11.14 % 4.89 % 9.09 % 8.25 % 8.27 %
+
+
+Annualized return on average assets 1.05 % 0.47 % 0.85 % 0.75 % 0.78 %
+
+
+Annualized return on average tangible assets(1) 1.08 % 0.48 % 0.88 % 0.78 % 0.81 %
+
+
+Net interest margin (FTE)(1) 3.60 % 3.54 % 3.39 % 3.32 % 3.15 %
+
+
+Total revenue $ 50,005 $ 47,782 $ 46,056 $ 46,370 $ 42,155
+
+
+Pre-provision net revenue $ 20,979 $ 9,447 $ 16,600 $ 16,066 $ 14,600
+
+
+Efficiency ratio 58.05 % 80.23 % 63.96 % 65.35 % 65.37 %
+
+
+**AVERAGE BALANCES**
+
+
+**(in $000’s, unaudited)**
+
+
+Average assets $ 5,551,457 $ 5,458,420 $ 5,559,896 $ 5,607,840 $ 5,352,067
+
+
+Average tangible assets(1) $ 5,378,468 $ 5,284,972 $ 5,386,001 $ 5,433,439 $ 5,177,114
+
+
+Average earning assets $ 5,167,710 $ 5,087,089 $ 5,188,317 $ 5,235,986 $ 4,980,082
+
+
+Average loans held-for-sale $ 1,230 $ 2,250 $ 2,290 $ 2,260 $ 1,493
+
+
+Average loans held-for-investment $ 3,519,775 $ 3,504,518 $ 3,429,014 $ 3,388,729 $ 3,359,647
+
+
+Average deposits $ 4,687,294 $ 4,618,007 $ 4,717,517 $ 4,771,491 $ 4,525,946
+
+
+Average demand deposits - noninterest-bearing $ 1,187,357 $ 1,146,494 $ 1,167,330 $ 1,222,393 $ 1,172,304
+
+
+Average interest-bearing deposits $ 3,499,937 $ 3,471,513 $ 3,550,187 $ 3,549,098 $ 3,353,642
+
+
+Average interest-bearing liabilities $ 3,539,706 $ 3,511,237 $ 3,589,872 $ 3,588,755 $ 3,393,264
+
+
+Average equity $ 696,385 $ 697,016 $ 692,733 $ 686,263 $ 680,404
+
+
+Average tangible common equity(1) $ 523,396 $ 523,568 $ 518,838 $ 511,862 $ 505,451
+
+
+**End of Period:** **Percent Change From:**
+
+
+**CONSOLIDATED BALANCE SHEETS** **September 30,** **June 30,** **September 30,** **June 30,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2024** **2025** **2024**
+
+
+**ASSETS**
+
+
+Cash and due from banks $ 42,442 $ 55,360 $ 49,722 (23 ) % (15 ) %
+
+
+Other investments and interest-bearing deposits
+
+
+in other financial institutions 705,300 666,432 906,588 6 % (22 ) %
+
+
+Securities available-for-sale, at fair value 408,456 307,035 237,612 33 % 72 %
+
+
+Securities held-to-maturity, at amortized cost 544,806 561,205 604,193 (3 ) % (10 ) %
+
+
+Loans - held-for-sale - SBA, including deferred costs 1,325 1,156 1,649 15 % (20 ) %
+
+
+Loans - held-for-investment:
+
+
+Commercial 523,110 492,231 481,266 6 % 9 %
+
+
+Real estate:
+
+
+CRE - owner occupied 629,855 627,810 602,062 0 % 5 %
+
+
+CRE - non-owner occupied 1,416,987 1,390,419 1,310,578 2 % 8 %
+
+
+Land and construction 137,170 149,460 125,761 (8 ) % 9 %
+
+
+Home equity 125,742 120,763 124,090 4 % 1 %
+
+
+Multifamily 290,077 285,016 273,103 2 % 6 %
+
+
+Residential mortgages 443,143 454,419 479,524 (2 ) % (8 ) %
+
+
+Consumer and other 15,938 14,661 14,179 9 % 12 %
+
+
+Loans 3,582,022 3,534,779 3,410,563 1 % 5 %
+
+
+Deferred loan fees, net (344 ) (446 ) (327 ) (23 ) % 5 %
+
+
+Total loans - held-for-investment, net of deferred fees 3,581,678 3,534,333 3,410,236 1 % 5 %
+
+
+Allowance for credit losses on loans (49,427 ) (48,633 ) (47,819 ) 2 % 3 %
+
+
+Loans, net 3,532,251 3,485,700 3,362,417 1 % 5 %
+
+
+Company-owned life insurance 82,861 82,296 80,682 1 % 3 %
+
+
+Premises and equipment, net 9,429 9,765 10,398 (3 ) % (9 ) %
+
+
+Goodwill 167,631 167,631 167,631 0 % 0 %
+
+
+Other intangible assets 5,078 5,532 6,966 (8 ) % (27 ) %
+
+
+Accrued interest receivable and other assets 124,141 125,125 123,738 (1) % 0 %
+
+
+**Total assets** **$** **5,623,720** **$** **5,467,237** **$** **5,551,596** 3 % 1 %
+
+
+**LIABILITIES AND SHAREHOLDERS’ EQUITY**
+
+
+**Liabilities:**
+
+
+Deposits:
+
+
+Demand, noninterest-bearing $ 1,241,603 $ 1,151,242 $ 1,272,139 8 % (2 ) %
+
+
+Demand, interest-bearing 922,077 955,504 913,910 (3 ) % 1 %
+
+
+Savings and money market 1,366,905 1,320,142 1,309,676 4 % 4 %
+
+
+Time deposits - under $250 32,462 35,356 39,060 (8 ) % (17 ) %
+
+
+Time deposits - $250 and over 223,496 210,818 196,945 6 % 13 %
+
+
+ICS/CDARS - interest-bearing demand, money market
+
+
+and time deposits 990,003 954,272 997,803 4 % (1 ) %
+
+
+Total deposits 4,776,546 4,627,334 4,729,533 3 % 1 %
+
+
+Subordinated debt, net of issuance costs 39,767 39,728 39,615 0 % 0 %
+
+
+Accrued interest payable and other liabilities 107,397 105,471 97,096 2 % 11 %
+
+
+Total liabilities 4,923,710 4,772,533 4,866,244 3 % 1 %
+
+
+**Shareholders’ Equity:**
+
+
+Common stock 508,664 509,888 509,134 0 % 0 %
+
+
+Retained earnings 196,526 189,794 185,110 4 % 6 %
+
+
+Accumulated other comprehensive loss (5,180 ) (4,978 ) (8,892 ) 4 % (42 ) %
+
+
+Total shareholders' equity 700,010 694,704 685,352 1 % 2 %
+
+
+**Total liabilities and shareholders’ equity** **$** **5,623,720** **$** **5,467,237** **$** **5,551,596** 3 % 1 %
+
+
+**End of Period:**
+
+
+**CONSOLIDATED BALANCE SHEETS** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025**
+**2025**
+**2025**
+**2024**
+**2024**
+
+
+**ASSETS**
+
+
+Cash and due from banks $ 42,442 $ 55,360 $ 44,281 $ 29,864 $ 49,722
+
+
+Other investments and interest-bearing deposits
+
+
+in other financial institutions 705,300 666,432 700,769 938,259 906,588
+
+
+Securities available-for-sale, at fair value 408,456 307,035 370,976 256,274 237,612
+
+
+Securities held-to-maturity, at amortized cost 544,806 561,205 576,718 590,016 604,193
+
+
+Loans - held-for-sale - SBA, including deferred costs 1,325 1,156 1,884 2,375 1,649
+
+
+Loans - held-for-investment:
+
+
+Commercial 523,110 492,231 489,241 531,350 481,266
+
+
+Real estate:
+
+
+CRE - owner occupied 629,855 627,810 616,825 601,636 602,062
+
+
+CRE - non-owner occupied 1,416,987 1,390,419 1,363,275 1,341,266 1,310,578
+
+
+Land and construction 137,170 149,460 136,106 127,848 125,761
+
+
+Home equity 125,742 120,763 119,138 127,963 124,090
+
+
+Multifamily 290,077 285,016 284,510 275,490 273,103
+
+
+Residential mortgages 443,143 454,419 465,330 471,730 479,524
+
+
+Consumer and other 15,938 14,661 12,741 14,837 14,179
+
+
+Loans 3,582,022 3,534,779 3,487,166 3,492,120 3,410,563
+
+
+Deferred loan fees, net (344 ) (446 ) (268 ) (183 ) (327 )
+
+
+Total loans - held-for-investment, net of deferred fees 3,581,678 3,534,333 3,486,898 3,491,937 3,410,236
+
+
+Allowance for credit losses on loans (49,427 ) (48,633 ) (48,262 ) (48,953 ) (47,819 )
+
+
+Loans, net 3,532,251 3,485,700 3,438,636 3,442,984 3,362,417
+
+
+Company-owned life insurance 82,861 82,296 81,749 81,211 80,682
+
+
+Premises and equipment, net 9,429 9,765 9,772 10,140 10,398
+
+
+Goodwill 167,631 167,631 167,631 167,631 167,631
+
+
+Other intangible assets 5,078 5,532 5,986 6,439 6,966
+
+
+Accrued interest receivable and other assets 124,141 125,125 115,853 119,813 123,738
+
+
+**Total assets** **$** **5,623,720** **$** **5,467,237** **$** **5,514,255** **$** **5,645,006** **$** **5,551,596**
+
+
+**LIABILITIES AND SHAREHOLDERS’ EQUITY**
+
+
+**Liabilities:**
+
+
+Deposits:
+
+
+Demand, noninterest-bearing $ 1,241,603 $ 1,151,242 $ 1,128,593 $ 1,214,192 $ 1,272,139
+
+
+Demand, interest-bearing 922,077 955,504 949,068 936,587 913,910
+
+
+Savings and money market 1,366,905 1,320,142 1,353,293 1,325,923 1,309,676
+
+
+Time deposits - under $250 32,462 35,356 37,592 38,988 39,060
+
+
+Time deposits - $250 and over 223,496 210,818 213,357 206,755 196,945
+
+
+ICS/CDARS - interest-bearing demand, money market
+
+
+and time deposits 990,003 954,272 1,001,365 1,097,586 997,803
+
+
+Total deposits 4,776,546 4,627,334 4,683,268 4,820,031 4,729,533
+
+
+Subordinated debt, net of issuance costs 39,767 39,728 39,691 39,653 39,615
+
+
+Accrued interest payable and other liabilities 107,397 105,471 95,106 95,595 97,096
+
+
+Total liabilities 4,923,710 4,772,533 4,818,065 4,955,279 4,866,244
+
+
+**Shareholders’ Equity:**
+
+
+Common stock 508,664 509,888 511,596 510,070 509,134
+
+
+Retained earnings 196,526 189,794 191,401 187,762 185,110
+
+
+Accumulated other comprehensive loss (5,180 ) (4,978 ) (6,807 ) (8,105 ) (8,892 )
+
+
+Total shareholders' equity 700,010 694,704 696,190 689,727 685,352
+
+
+**Total liabilities and shareholders’ equity** **5,623,720** **$** **5,467,237** **$** **5,514,255** **$** **5,645,006** **$** **5,551,596**
+
+
+**At or For the Quarter Ended:** **Percent Change From:**
+
+
+**ASSET QUALITY DATA** **September 30,** **June 30,** **September 30,** **June 30,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2024** **2025** **2024**
+
+
+Nonaccrual loans - held-for-investment:
+
+
+Land and construction loans $ 2,346 $ 4,198 $ 5,862 (44) % (60) %
+
+
+Home equity 655 728 84 (10) % 680 %
+
+
+Residential mortgages — 607 — (100) % N/A
+
+
+Commercial loans 467 491 752 (5) % (38) %
+
+
+CRE loans — 31 — (100) % N/A
+
+
+Total nonaccrual loans - held-for-investment: 3,468 6,055 6,698 (43) % (48) %
+
+
+Loans over 90 days past due
+
+
+and still accruing 194 123 460 58 % (58) %
+
+
+Total nonperforming loans 3,662 6,178 7,158 (41) % (49) %
+
+
+Foreclosed assets — — — N/A N/A
+
+
+Total nonperforming assets $ 3,662 $ 6,178 $ 7,158 (41) % (49) %
+
+
+Net (recoveries) charge-offs during the quarter $ (378 ) $ 145 $ 288 (361) % (231) %
+
+
+Provision for credit losses on loans during the quarter $ 416 $ 516 $ 153 (19) % 172 %
+
+
+Allowance for credit losses on loans $ 49,427 $ 48,633 $ 47,819 2 % 3 %
+
+
+Classified assets $ 34,633 $ 37,525 $ 32,609 (8) % 6 %
+
+
+Allowance for credit losses on loans to total loans 1.38 % 1.38 % 1.40 % 0 % (1) %
+
+
+Allowance for credit losses on loans to total nonperforming loans 1,349.73 % 787.20 % 668.05 % 71 % 102 %
+
+
+Nonperforming assets to total assets 0.07 % 0.11 % 0.13 % (36) % (46) %
+
+
+Nonperforming loans to total loans 0.10 % 0.17 % 0.21 % (41) % (52) %
+
+
+Classified assets to total assets 0.62 % 0.69 % 0.59 % (10) % 5 %
+
+
+Classified assets to Heritage Commerce Corp
+
+
+Tier 1 capital plus allowance for credit losses on loans 6 % 7 % 6 % (14) % 0 %
+
+
+Classified assets to Heritage Bank of Commerce
+
+
+Tier 1 capital plus allowance for credit losses on loans 6 % 6 % 6 % 0 % 0 %
+
+
+**OTHER PERIOD-END STATISTICS**
+
+
+**(in $000’s, unaudited)**
+
+
+**Heritage Commerce Corp:**
+
+
+Tangible common equity(1) $ 527,301 $ 521,541 $ 510,755 1 % 3 %
+
+
+Shareholders’ equity / total assets 12.45 % 12.71 % 12.35 % (2) % 1 %
+
+
+Tangible common equity / tangible assets(1) 9.67 % 9.85 % 9.50 % (2) % 2 %
+
+
+Loan to deposit ratio 74.99 % 76.38 % 72.11 % (2) % 4 %
+
+
+Noninterest-bearing deposits / total deposits 25.99 % 24.88 % 26.90 % 4 % (3) %
+
+
+Total capital ratio 15.4 % 15.5 % 15.6 % (1) % (1) %
+
+
+Tier 1 capital ratio 13.2 % 13.3 % 13.4 % (1) % (1) %
+
+
+Common Equity Tier 1 capital ratio 13.2 % 13.3 % 13.4 % (1) % (1) %
+
+
+Tier 1 leverage ratio 9.9 % 9.9 % 10.0 % 0 % (1) %
+
+
+**Heritage Bank of Commerce:**
+
+
+Tangible common equity / tangible assets(1) 10.13 % 10.28 % 9.86 % (1) % 3 %
+
+
+Total capital ratio 15.1 % 15.1 % 15.1 % 0 % 0 %
+
+
+Tier 1 capital ratio 13.8 % 13.8 % 13.9 % 0 % (1) %
+
+
+Common Equity Tier 1 capital ratio 13.8 % 13.8 % 13.9 % 0 % (1) %
+
+
+Tier 1 leverage ratio 10.3 % 10.4 % 10.4 % (1) % (1) %
+
+
+**At or For the Quarter Ended:**
+
+
+**ASSET QUALITY DATA** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025**
+**2025** **2025** **2024** **2024**
+
+
+Nonaccrual loans - held-for-investment:
+
+
+Land and construction loans $ 2,346 $ 4,198 $ 4,793 $ 5,874 $ 5,862
+
+
+Home equity 655 728 927 290 84
+
+
+Residential mortgages — 607 — — —
+
+
+Commercial loans 467 491 324 1,014 752
+
+
+CRE loans — 31 — — —
+
+
+Total nonaccrual loans - held-for-investment: 3,468 6,055 6,044 7,178 6,698
+
+
+Loans over 90 days past due
+
+
+and still accruing 194 123 268 489 460
+
+
+Total nonperforming loans 3,662 6,178 6,312 7,667 7,158
+
+
+Foreclosed assets — — — — —
+
+
+Total nonperforming assets $ 3,662 $ 6,178 $ 6,312 $ 7,667 $ 7,158
+
+
+Net (recoveries) charge-offs during the quarter $ (378 ) $ 145 $ 965 $ 197 $ 288
+
+
+Provision for credit losses on loans during the quarter $ 416 $ 516 $ 274 $ 1,331 $ 153
+
+
+Allowance for credit losses on loans $ 49,427 $ 48,633 $ 48,262 $ 48,953 $ 47,819
+
+
+Classified assets $ 34,633 $ 37,525 $ 40,034 $ 41,661 $ 32,609
+
+
+Allowance for credit losses on loans to total loans 1.38 % 1.38 % 1.38 % 1.40 % 1.40 %
+
+
+Allowance for credit losses on loans to total nonperforming loans 1,349.73 % 787.20 % 764.61 % 638.49 % 668.05 %
+
+
+Nonperforming assets to total assets 0.07 % 0.11 % 0.11 % 0.14 % 0.13 %
+
+
+Nonperforming loans to total loans 0.10 % 0.17 % 0.18 % 0.22 % 0.21 %
+
+
+Classified assets to total assets 0.62 % 0.69 % 0.73 % 0.74 % 0.59 %
+
+
+Classified assets to Heritage Commerce Corp
+
+
+Tier 1 capital plus allowance for credit losses on loans 6 % 7 % 7 % 7 % 6 %
+
+
+Classified assets to Heritage Bank of Commerce
+
+
+Tier 1 capital plus allowance for credit losses on loans 6 % 6 % 7 % 7 % 6 %
+
+
+**OTHER PERIOD-END STATISTICS**
+
+
+**(in $000’s, unaudited)**
+
+
+**Heritage Commerce Corp:**
+
+
+Tangible common equity(1) $ 527,301 $ 521,541 $ 522,573 $ 515,657 $ 510,755
+
+
+Shareholders’ equity / total assets 12.45 % 12.71 % 12.63 % 12.22 % 12.35 %
+
+
+Tangible common equity / tangible assets(1) 9.67 % 9.85 % 9.78 % 9.43 % 9.50 %
+
+
+Loan to deposit ratio 74.99 % 76.38 % 74.45 % 72.45 % 72.11 %
+
+
+Noninterest-bearing deposits / total deposits 25.99 % 24.88 % 24.10 % 25.19 % 26.90 %
+
+
+Total capital ratio 15.4 % 15.5 % 15.9 % 15.6 % 15.6 %
+
+
+Tier 1 capital ratio 13.2 % 13.3 % 13.6 % 13.4 % 13.4 %
+
+
+Common Equity Tier 1 capital ratio 13.2 % 13.3 % 13.6 % 13.4 % 13.4 %
+
+
+Tier 1 leverage ratio 9.9 % 9.9 % 9.8 % 9.6 % 10.0 %
+
+
+**Heritage Bank of Commerce:**
+
+
+Tangible common equity / tangible assets(1) 10.13 % 10.28 % 10.15 % 9.79 % 9.86 %
+
+
+Total capital ratio 15.1 % 15.1 % 15.4 % 15.1 % 15.1 %
+
+
+Tier 1 capital ratio 13.8 % 13.8 % 14.1 % 13.9 % 13.9 %
+
+
+Common Equity Tier 1 capital ratio 13.8 % 13.8 % 14.1 % 13.9 % 13.9 %
+
+
+Tier 1 leverage ratio 10.3 % 10.4 % 10.2 % 10.0 % 10.4 %
+
+
+**For the Quarter Ended** **For the Quarter Ended**
+
+
+**September 30, 2025** **June 30, 2025**
+
+
+**Interest** **Average** **Interest** **Average**
+
+
+**NET INTEREST INCOME AND NET INTEREST MARGIN** **Average** **Income/** **Yield/** **Average** **Income/** **Yield/**
+
+
+**(in $000’s, unaudited)** **Balance** **Expense** **Rate** **Balance** **Expense** **Rate**
+
+
+**Assets:**
+
+
+Loans, core bank $ 3,039,478 $ 42,655 5.57 % $ 3,020,534 $ 41,738 5.54 %
+
+
+Prepayment fees — 185 0.02 % — 473 0.06 %
+
+
+Bay View Funding factored receivables 74,353 3,654 19.50 % 67,756 3,347 19.81 %
+
+
+Purchased residential mortgages 408,810 3,472 3.37 % 420,280 3,548 3.39 %
+
+
+Loan fair value mark / accretion (1,636 ) 164 0.02 % (1,802 ) 172 0.02 %
+
+
+Loans, gross(1)(2) 3,521,005 50,130 5.65 % 3,506,768 49,278 5.64 %
+
+
+Securities - taxable 842,998 6,146 2.89 % 902,642 6,346 2.82 %
+
+
+Securities - exempt from Federal tax(3) 28,683 256 3.54 % 30,259 272 3.61 %
+
+
+Other investments and interest-bearing deposits
+
+
+in other financial institutions 775,024 8,615 4.41 % 647,420 7,186 4.45 %
+
+
+Total interest earning assets(3) 5,167,710 65,147 5.00 % 5,087,089 63,082 4.97 %
+
+
+Cash and due from banks 30,764 31,044
+
+
+Premises and equipment, net 9,651 9,958
+
+
+Goodwill and other intangible assets 172,989 173,448
+
+
+Other assets 170,343 156,881
+
+
+Total assets $ 5,551,457 $ 5,458,420
+
+
+**Liabilities and shareholders’ equity:**
+
+
+Deposits:
+
+
+Demand, noninterest-bearing $ 1,187,357 $ 1,146,494
+
+
+Demand, interest-bearing 932,996 1,463 0.62 % 949,867 1,484 0.63 %
+
+
+Savings and money market 1,340,419 8,452 2.50 % 1,313,054 8,205 2.51 %
+
+
+Time deposits - under $100 10,620 40 1.49 % 11,456 49 1.72 %
+
+
+Time deposits - $100 and over 233,145 1,977 3.36 % 231,644 1,995 3.45 %
+
+
+ICS/CDARS - interest-bearing demand, money market
+
+
+and time deposits 982,757 5,837 2.36 % 965,492 5,949 2.47 %
+
+
+Total interest-bearing deposits 3,499,937 17,769 2.01 % 3,471,513 17,682 2.04 %
+
+
+Total deposits 4,687,294 17,769 1.50 % 4,618,007 17,682 1.54 %
+
+
+Short-term borrowings 26 — 0.00 % 19 — 0.00 %
+
+
+Subordinated debt, net of issuance costs 39,743 537 5.36 % 39,705 538 5.43 %
+
+
+Total interest-bearing liabilities 3,539,706 18,306 2.05 % 3,511,237 18,220 2.08 %
+
+
+Total interest-bearing liabilities and demand,
+
+
+noninterest-bearing / cost of funds 4,727,063 18,306 1.54 % 4,657,731 18,220 1.57 %
+
+
+Other liabilities 128,009 103,673
+
+
+Total liabilities 4,855,072 4,761,404
+
+
+Shareholders’ equity 696,385 697,016
+
+
+Total liabilities and shareholders’ equity $ 5,551,457 $ 5,458,420
+
+
+Net interest income / margin(3) 46,841 3.60 % 44,862 3.54 %
+
+
+Less tax equivalent adjustment(3) (53 ) (57 )
+
+
+Net interest income $ 46,788 3.59 % $ 44,805 3.53 %
+
+
+(1)Includes loans held-for-sale. Nonaccrual loans are included in average balances.
+(2)Yield amounts earned on loans include fees and costs. The accretion of net deferred loan fees into loan interest income was $246,000 for the third quarter of 2025, compared to $253,000 for the second quarter of 2025. Prepayment fees totaled $185,000 for the third quarter of 2025, compared to $473,000 for the second quarter of 2025.
+(3)Reflects the FTE adjustment for Federal tax-exempt income based on a 21% tax rate. This is a non-GAAP financial measure as defined and discussed under *“Non-GAAP Financial* *Measures”* in this press release.
+
+
+**For the Quarter Ended** **For the Quarter Ended**
+
+
+**September 30, 2025** **September 30, 2024**
+
+
+**Interest** **Average** **Interest** **Average**
+
+
+**Assets:**
+
+
+Loans, core bank $ 3,039,478 $ 42,655 5.57 % $ 2,867,076 $ 39,621 5.50 %
+
+
+Prepayment fees — 185 0.02 % — 4 0.00 %
+
+
+Bay View Funding factored receivables 74,353 3,654 19.50 % 55,391 2,144 15.40 %
+
+
+Purchased residential mortgages 408,810 3,472 3.37 % 441,294 3,779 3.41 %
+
+
+Loan fair value mark / accretion (1,636 ) 164 0.02 % (2,621 ) 233 0.03 %
+
+
+Loans, gross(1)(2) 3,521,005 50,130 5.65 % 3,361,140 45,781 5.42 %
+
+
+Securities - taxable 842,998 6,146 2.89 % 838,375 4,676 2.22 %
+
+
+Securities - exempt from Federal tax(3) 28,683 256 3.54 % 31,311 282 3.58 %
+
+
+Other investments and interest-bearing deposits
+
+
+in other financial institutions 775,024 8,615 4.41 % 749,256 10,172 5.40 %
+
+
+Total interest earning assets(3) 5,167,710 65,147 5.00 % 4,980,082 60,911 4.87 %
+
+
+Cash and due from banks 30,764 33,425
+
+
+Premises and equipment, net 9,651 10,471
+
+
+Goodwill and other intangible assets 172,989 174,953
+
+
+Other assets 170,343 153,136
+
+
+Total assets $ 5,551,457 $ 5,352,067
+
+
+**Liabilities and shareholders’ equity:**
+
+
+Deposits:
+
+
+Demand, noninterest-bearing $ 1,187,357 $ 1,172,304
+
+
+Demand, interest-bearing 932,996 1,463 0.62 % 907,346 1,714 0.75 %
+
+
+Savings and money market 1,340,419 8,452 2.50 % 1,188,057 9,128 3.06 %
+
+
+Time deposits - under $100 10,620 40 1.49 % 11,133 47 1.68 %
+
+
+Time deposits - $100 and over 233,145 1,977 3.36 % 229,565 2,349 4.07 %
+
+
+ICS/CDARS - interest-bearing demand, money market
+
+
+and time deposits 982,757 5,837 2.36 % 1,017,541 7,747 3.03 %
+
+
+Total interest-bearing deposits 3,499,937 17,769 2.01 % 3,353,642 20,985 2.49 %
+
+
+Total deposits 4,687,294 17,769 1.50 % 4,525,946 20,985 1.84 %
+
+
+Short-term borrowings 26 — 0.00 % 32 — 0.00 %
+
+
+Subordinated debt, net of issuance costs 39,743 537 5.36 % 39,590 538 5.41 %
+
+
+Total interest-bearing liabilities 3,539,706 18,306 2.05 % 3,393,264 21,523 2.52 %
+
+
+Total interest-bearing liabilities and demand,
+
+
+noninterest-bearing / cost of funds 4,727,063 18,306 1.54 % 4,565,568 21,523 1.88 %
+
+
+Other liabilities 128,009 106,095
+
+
+Total liabilities 4,855,072 4,671,663
+
+
+Shareholders’ equity 696,385 680,404
+
+
+Total liabilities and shareholders’ equity $ 5,551,457 $ 5,352,067
+
+
+Net interest income / margin(3) 46,841 3.60 % 39,388 3.15 %
+
+
+Less tax equivalent adjustment(3) (53 ) (59 )
+
+
+Net interest income $ 46,788 3.59 % $ 39,329 3.14 %
+
+
+(2)Yield amounts earned on loans include fees and costs. The accretion of net deferred loan fees into loan interest income was $246,000 for the third quarter of 2025, compared to $184,000 for the third quarter of 2024. Prepayment fees totaled $185,000 for the third quarter of 2025, compared to $4,000 for the third quarter of 2024.
+
+
+**For the Nine Months Ended** **For the Nine Months Ended**
+
+
+**September 30, 2025** **September 30, 2024**
+
+
+**Interest** **Average** **Interest** **Average**
+
+
+**Assets:**
+
+
+Loans, core bank $ 3,002,040 $ 124,151 5.53 % $ 2,831,035 $ 115,838 5.47 %
+
+
+Prepayment fees — 882 0.04 % — 82 0.00 %
+
+
+Bay View Funding factored receivables 67,505 9,943 19.69 % 54,563 7,896 19.33 %
+
+
+Purchased residential mortgages 418,948 10,617 3.39 % 447,709 11,306 3.37 %
+
+
+Loan fair value mark / accretion (1,805 ) 517 0.02 % (2,865 ) 729 0.03 %
+
+
+Loans, gross(1)(2) 3,486,688 146,110 5.60 % 3,330,442 135,851 5.45 %
+
+
+Securities - taxable 873,789 18,051 2.76 % 940,755 16,342 2.32 %
+
+
+Securities - exempt from Federal tax(3) 29,801 803 3.60 % 31,683 853 3.60 %
+
+
+Other investments, interest-bearing deposits in other
+
+
+financial institutions and Federal funds sold 757,352 25,155 4.44 % 574,581 23,434 5.45 %
+
+
+Total interest earning assets(3) 5,147,630 190,119 4.94 % 4,877,461 176,480 4.85 %
+
+
+Cash and due from banks 31,222 33,353
+
+
+Premises and equipment, net 9,870 10,235
+
+
+Goodwill and other intangible assets 173,441 175,495
+
+
+Other assets 161,064 151,794
+
+
+Total assets $ 5,523,227 $ 5,248,338
+
+
+**Liabilities and shareholders’ equity:**
+
+
+Deposits:
+
+
+Demand, noninterest-bearing $ 1,167,134 $ 1,158,891
+
+
+Demand, interest-bearing 942,371 4,385 0.62 % 919,786 4,987 0.72 %
+
+
+Savings and money market 1,325,567 24,730 2.49 % 1,120,324 23,644 2.82 %
+
+
+Time deposits - under $100 11,150 135 1.62 % 11,020 135 1.64 %
+
+
+Time deposits - $100 and over 233,065 6,101 3.50 % 226,353 6,658 3.93 %
+
+
+ICS/CDARS - interest-bearing demand, money market
+
+
+and time deposits 994,875 18,034 2.42 % 990,868 21,565 2.91 %
+
+
+Total interest-bearing deposits 3,507,028 53,385 2.04 % 3,268,351 56,989 2.33 %
+
+
+Total deposits 4,674,162 53,385 1.53 % 4,427,242 56,989 1.72 %
+
+
+Short-term borrowings 21 — 0.00 % 22 — 0.00 %
+
+
+Subordinated debt, net of issuance costs 39,705 1,613 5.43 % 39,553 1,614 5.45 %
+
+
+Total interest-bearing liabilities 3,546,754 54,998 2.07 % 3,307,926 58,603 2.37 %
+
+
+Total interest-bearing liabilities and demand,
+
+
+noninterest-bearing / cost of funds 4,713,888 54,998 1.56 % 4,466,817 58,603 1.75 %
+
+
+Other liabilities 113,948 105,570
+
+
+Total liabilities 4,827,836 4,572,387
+
+
+Shareholders’ equity 695,391 675,951
+
+
+Total liabilities and shareholders’ equity $ 5,523,227 $ 5,248,338
+
+
+Net interest income / margin(3) 135,121 3.51 % 117,877 3.23 %
+
+
+Less tax equivalent adjustment(3) (168 ) (179 )
+
+
+Net interest income $ 134,953 3.51 % $ 117,698 3.22 %
+
+
+(2)Yield amounts earned on loans include fees and costs. The accretion of net deferred loan fees into loan interest income was $713,000 for the first nine months of 2025, compared to $461,000 for the first nine months of 2024. Prepayment fees totaled $882,000 for the first nine months of 2025, compared to $82,000 for the first nine months of 2024.
+
+
+**RECONCILIATION OF NON-GAAP FINANCIAL MEASURES**
+
+
+Management considers adjusted net income and adjusted earnings per share, which excludes the $9.2 million of charges primarily related to a legal settlement in the second quarter of 2025 and first nine months of 2025 as a useful measurement of the Company’s profitability compared to other periods presented.
+
+
+The following table summarizes components of net income and diluted earnings per share for the periods indicated:
+
+
+**NET INCOME AND** **For the Quarter Ended:**
+
+
+**DILUTED EARNINGS PER SHARE** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2025** **2024** **2024**
+
+
+Reported net income (GAAP) $ 14,698 $ 6,389 $ 11,626 $ 10,621 $ 10,507
+
+
+Add: pre-tax legal settlement and other charges — 9,184 — — —
+
+
+Less: related income taxes — (2,618 ) — — —
+
+
+Adjusted net income (non-GAAP) $ 14,698 $ 12,955 $ 11,626 $ 10,621 $ 10,507
+
+
+Reported diluted earnings per share (GAAP) $ 0.24 $ 0.10 $ 0.19 $ 0.17 $ 0.17
+
+
+Adjusted diluted earnings per share (non-GAAP) $ 0.24 $ 0.21 $ 0.19 $ 0.17 $ 0.17
+
+
+**NET INCOME AND** **For the Nine Months Ended:**
+
+
+**DILUTED EARNINGS PER SHARE** **September 30,** **September 30,**
+
+
+**(in $000’s, except per share amounts, unaudited)** **2025** **2024**
+
+
+Reported net income (GAAP) $ 32,713 $ 29,907
+
+
+Add: pre-tax legal settlement and other charges 9,184 —
+
+
+Less: related income taxes (2,618 ) —
+
+
+Adjusted net income (non-GAAP) $ 39,279 $ 29,907
+
+
+Weighted average shares outstanding - diluted 61,687,616 61,497,927
+
+
+Reported diluted earnings per share (GAAP) $ 0.53 $ 0.49
+
+
+Adjusted diluted earnings per share (non-GAAP) $ 0.64 $ 0.49
+
+
+Management considers tangible book value per share as a useful measurement of the Company’s equity. The Company references the return on average tangible common equity and the return on average tangible assets as measurements of profitability.
+
+
+The following table summarizes components of the tangible book value per share at the dates indicated:
+
+
+**TANGIBLE BOOK VALUE PER SHARE** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2025** **2024** **2024**
+
+
+Capital components:
+
+
+Total equity (GAAP) $ 700,010 $ 694,704 $ 696,190 $ 689,727 $ 685,352
+
+
+Less: preferred stock — — — — —
+
+
+Total common equity 700,010 694,704 696,190 689,727 685,352
+
+
+Less: goodwill (167,631 ) (167,631 ) (167,631 ) (167,631 ) (167,631 )
+
+
+Less: other intangible assets (5,078 ) (5,532 ) (5,986 ) (6,439 ) (6,966 )
+
+
+Reported tangible common equity (non-GAAP) 527,301 521,541 522,573 515,657 510,755
+
+
+Add: pre-tax legal settlement and other charges 9,184 9,184 — — —
+
+
+Less: related income taxes (2,618 ) (2,618 ) — — —
+
+
+Adjusted tangible common equity (non-GAAP) $ 533,867 $ 528,107 $ 522,573 $ 515,657 $ 510,755
+
+
+Reported tangible book value per share (non-GAAP) $ 8.61 $ 8.49 $ 8.48 $ 8.41 $ 8.33
+
+
+Adjusted tangible book value per share (non-GAAP) $ 8.71 $ 8.59 $ 8.48 $ 8.41 $ 8.33
+
+
+The following tables summarize components of the annualized return on average tangible common equity and the annualized return on average tangible assets for the periods indicated:
+
+
+**RETURN ON AVERAGE TANGIBLE COMMON** **For the Quarter Ended:**
+
+
+**EQUITY AND AVERAGE ASSETS** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2025** **2024** **2024**
+
+
+Reported net income (GAAP) $ 14,698 $ 6,389 $ 11,626 $ 10,621 $ 10,507
+
+
+Add: pre-tax legal settlement and other charges — 9,184 — — —
+
+
+Less: related income taxes — (2,618 ) — — —
+
+
+Adjusted net income (non-GAAP) $ 14,698 $ 12,955 $ 11,626 $ 10,621 $ 10,507
+
+
+Average tangible common equity components:
+
+
+Average equity (GAAP) $ 696,385 $ 697,016 $ 692,733 $ 686,263 $ 680,404
+
+
+Less: goodwill (167,631 ) (167,631 ) (167,631 ) (167,631 ) (167,631 )
+
+
+Less: other intangible assets (5,358 ) (5,817 ) (6,264 ) (6,770 ) (7,322 )
+
+
+Total average tangible common equity (non-GAAP) $ 523,396 $ 523,568 $ 518,838 $ 511,862 $ 505,451
+
+
+Reported annualized return on average equity (GAAP) 8.37 % 3.68 % 6.81 % 6.16 % 6.14 %
+
+
+Adjusted annualized return on average equity (non-GAAP) 8.37 % 7.45 % 6.81 % 6.16 % 6.14 %
+
+
+Reported annualized return on average
+
+
+tangible common equity (non-GAAP) 11.14 % 4.89 % 9.09 % 8.25 % 8.27 %
+
+
+Adjusted annualized return on average
+
+
+tangible common equity (non-GAAP) 11.14 % 9.92 % 9.09 % 8.25 % 8.27 %
+
+
+Average Assets (GAAP) $ 5,551,457 $ 5,458,420 $ 5,559,896 $ 5,607,840 $ 5,352,067
+
+
+Reported annualized return on average assets (GAAP) 1.05 % 0.47 % 0.85 % 0.75 % 0.78 %
+
+
+Adjusted annualized return on average assets (non-GAAP) 1.05 % 0.95 % 0.85 % 0.75 % 0.78 %
+
+
+**RETURN ON AVERAGE TANGIBLE COMMON** **For the Nine Months Ended:**
+
+
+**EQUITY AND AVERAGE ASSETS** **September 30,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2024**
+
+
+Reported net income (GAAP) $ 32,713 $ 29,907
+
+
+Add: pre-tax legal settlement and other charges 9,184 —
+
+
+Less: related income taxes (2,618 ) —
+
+
+Adjusted net income (non-GAAP) $ 39,279 $ 29,907
+
+
+Average tangible common equity components:
+
+
+Average equity (GAAP) $ 695,391 $ 675,951
+
+
+Less: goodwill (167,631 ) (167,631 )
+
+
+Less: other intangible assets (5,810 ) (7,864 )
+
+
+Total average tangible common equity (non-GAAP) $ 521,950 $ 500,456
+
+
+Reported annualized return on average equity (GAAP) 6.29 % 5.91 %
+
+
+Adjusted annualized return on average equity (non-GAAP) 7.55 % 5.91 %
+
+
+Reported annualized return on average
+
+
+tangible common equity (non-GAAP) 8.38 % 7.98 %
+
+
+Adjusted annualized return on average
+
+
+tangible common equity (non-GAAP) 10.06 % 7.98 %
+
+
+Average Assets (GAAP) $ 5,523,227 $ 5,248,338
+
+
+Reported annualized return on average assets (GAAP) 0.79 % 0.76 %
+
+
+Adjusted annualized return on average assets (non-GAAP) 0.95 % 0.76 %
+
+
+Management reviews yields on certain asset categories and the net interest margin of the Company on an FTE basis. In this non-GAAP presentation, net interest income is adjusted to reflect tax-exempt interest income on an equivalent before-tax basis using tax rates effective as of the end of the period. This measure ensures comparability of net interest income arising from both taxable and tax-exempt sources. The following tables summarize components of FTE net interest income of the Company for the periods indicated:
+
+
+**NET INTEREST INCOME** **For the Quarter Ended:**
+
+
+**AND NET INTEREST MARGIN** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2025** **2024** **2024**
+
+
+Net interest income before
+
+
+credit losses on loans (GAAP) $ 46,788 $ 44,805 $ 43,360 $ 43,595 $ 39,329
+
+
+Tax-equivalent adjustment on securities -
+
+
+exempt from Federal tax 53 57 58 58 59
+
+
+Net interest income, FTE (non-GAAP) $ 46,841 $ 44,862 $ 43,418 $ 43,653 $ 39,388
+
+
+Average balance of total interest earning assets $ 5,167,710 $ 5,087,089 $ 5,188,317 $ 5,235,986 $ 4,980,082
+
+
+Net interest margin (annualized net interest income divided by the
+
+
+average balance of total interest earnings assets) (GAAP) 3.59 % 3.53 % 3.39 % 3.31 % 3.14 %
+
+
+Net interest margin, FTE (annualized net interest income, FTE,
+
+
+divided by the average balance of total
+
+
+earnings assets) (non-GAAP) 3.60 % 3.54 % 3.39 % 3.32 % 3.15 %
+
+
+**NET INTEREST INCOME** **For the Nine Months Ended:**
+
+
+**AND NET INTEREST MARGIN** **September 30,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2024**
+
+
+Net interest income before
+
+
+credit losses on loans (GAAP) $ 134,953 $ 117,698
+
+
+Tax-equivalent adjustment on securities - exempt from Federal tax 168 179
+
+
+Net interest income, FTE (non-GAAP) $ 135,121 $ 117,877
+
+
+Average balance of total interest earning assets $ 5,147,630 $ 4,909,240
+
+
+Net interest margin (annualized net interest income divided by the
+
+
+average balance of total interest earnings assets) (GAAP) 3.51 % 3.22 %
+
+
+Net interest margin, FTE (annualized net interest income, FTE, divided by the
+
+
+average balance of total interest earnings assets) (non-GAAP) 3.51 % 3.23 %
+
+
+Management views its PPNR as a key metric for assessing the Company’s earnings power. The following table summarizes the components of PPNR for the periods indicated:
+
+
+**For the Quarter Ended:**
+
+
+**PRE-PROVISION NET REVENUE** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2025** **2024** **2024**
+
+
+Net interest income before credit losses on loans $ 46,788 $ 44,805 $ 43,360 $ 43,595 $ 39,329
+
+
+Noninterest income 3,217 2,977 2,696 2,775 2,826
+
+
+Total revenue 50,005 47,782 46,056 46,370 42,155
+
+
+Less: Noninterest expense (29,026 ) (38,335 ) (29,456 ) (30,304 ) (27,555 )
+
+
+Reported PPNR (GAAP) 20,979 9,447 16,600 16,066 14,600
+
+
+Add: pre-tax legal settlement and other charges — 9,184 — — —
+
+
+Adjusted PPNR (non-GAAP) $ 20,979 $ 18,631 $ 16,600 $ 16,066 $ 14,600
+
+
+**For the Nine Months Ended:**
+
+
+**PRE-PROVISION NET REVENUE** **September 30,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2024**
+
+
+Net interest income before credit losses on loans $ 134,953 $ 117,698
+
+
+Noninterest income 8,890 8,328
+
+
+Total revenue 143,843 126,026
+
+
+Less: Noninterest expense (96,817 ) (83,279 )
+
+
+Reported PPNR (GAAP) 47,026 42,747
+
+
+Add: pre-tax legal settlement and other charges 9,184 —
+
+
+Adjusted PPNR (non-GAAP) $ 56,210 $ 42,747
+
+
+The efficiency ratio, which is calculated by dividing noninterest expense by total revenue (net interest income plus noninterest income), measures how much it costs to produce one dollar of revenue. The following tables summarize components of the efficiency ratio of the Company for the periods indicated:
+
+
+**NONINTEREST EXPENSE AND** **For the Quarter Ended:**
+
+
+**EFFICIENCY RATIO** **September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2025** **2025** **2024** **2024**
+
+
+Reported noninterest expense (GAAP) $ 29,026 $ 38,335 $ 29,456 $ 30,304 $ 27,555
+
+
+Less: pre-tax legal settlement and other charges — (9,184 ) — — —
+
+
+Adjusted noninterest expense (non-GAAP) $ 29,026 $ 29,151 $ 29,456 $ 30,304 $ 27,555
+
+
+Noninterest income 3,217 2,977 2,696 2,775 2,826
+
+
+Total revenue $ 50,005 $ 47,782 $ 46,056 $ 46,370 $ 42,155
+
+
+Reported efficiency ratio (noninterest expense divided
+
+
+by total revenue) (GAAP) 58.05 % 80.23 % 63.96 % 65.35 % 65.37 %
+
+
+Adjusted efficiency ratio (adjusted noninterest expense
+
+
+divided by total revenue) (non-GAAP) 58.05 % 61.01 % 63.96 % 65.35 % 65.37 %
+
+
+**NONINTEREST EXPENSE AND** **For the Nine Months Ended:**
+
+
+**EFFICIENCY RATIO** **September 30,** **September 30,**
+
+
+**(in $000’s, unaudited)** **2025** **2024**
+
+
+Reported noninterest expense (GAAP) $ 96,817 $ 83,279
+
+
+Less: pre-tax legal settlement and other charges (9,184 ) —
+
+
+Adjusted noninterest expense (non-GAAP) $ 87,633 $ 83,279
+
+
+Net interest income before credit losses on loans $ 134,953 $ 117,698
+
+
+Noninterest income 8,890 8,328
+
+
+Total revenue $ 143,843 $ 126,026
+
+
+Reported efficiency ratio (noninterest expense divided
+
+
+by total revenue) (GAAP) 67.31 % 66.08 %
+
+
+Adjusted efficiency ratio (adjusted noninterest expense
+
+
+divided by total revenue) (non-GAAP) 60.92 % 66.08 %
+
+
+Management considers the tangible common equity ratio as a useful measurement of the Company’s and the Bank’s equity. The following table summarizes components of the tangible common equity to tangible assets ratio of the Company at the dates indicated:
+
+
+**TANGIBLE COMMON EQUITY TO TANGIBLE ASSETS**
+**September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**(in $000’s, unaudited)**
+**2025** **2025** **2025** **2024** **2024**
+
+
+**Heritage Commerce Corp:**
+
+
+Capital components:
+
+
+Total equity (GAAP)
+$ 700,010 $ 694,704 $ 696,190 $ 689,727 $ 685,352
+
+
+Less: preferred stock
+— — — — —
+
+
+Total common equity
+700,010 694,704 696,190 689,727 685,352
+
+
+Less: goodwill
+(167,631 ) (167,631 ) (167,631 ) (167,631 ) (167,631 )
+
+
+Less: other intangible assets
+(5,078 ) (5,532 ) (5,986 ) (6,439 ) (6,966 )
+
+
+Total tangible common equity (non-GAAP) $ 527,301 $ 521,541 $ 522,573 $ 515,657 $ 510,755
+
+
+Asset components:
+
+
+Total assets (GAAP)
+$ 5,623,720 $ 5,467,237 $ 5,514,255 $ 5,645,006 $ 5,551,596
+
+
+Less: goodwill
+(167,631 ) (167,631 ) (167,631 ) (167,631 ) (167,631 )
+
+
+Less: other intangible assets
+(5,078 ) (5,532 ) (5,986 ) (6,439 ) (6,966 )
+
+
+Total tangible assets (non-GAAP)
+$ 5,451,011 $ 5,294,074 $ 5,340,638 $ 5,470,936 $ 5,376,999
+
+
+Tangible common equity / tangible assets (non-GAAP)
+9.67 % 9.85 % 9.78 % 9.43 % 9.50 %
+
+
+The following table summarizes components of the tangible common equity to tangible assets ratio of the Bank at the dates indicated:
+
+
+**** **TANGIBLE COMMON EQUITY TO TANGIBLE ASSETS**
+**September 30,** **June 30,** **March 31,** **December 31,** **September 30,**
+
+
+**** **(in $000’s, unaudited)**
+**2025** **2025** **2025** **2024** **2024**
+
+
+**** **Heritage Bank of Commerce:**
+
+
+Capital components:
+
+
+Total Equity (GAAP)
+$ 724,780 $ 717,103 $ 715,605 $ 709,379 $ 704,585
+
+
+Less: Preferred Stock
+— — — — —
+
+
+Total Common Equity
+724,780 717,103 715,605 709,379 704,585
+
+
+Less: Goodwill
+(167,631 ) (167,631 ) (167,631 ) (167,631 ) (167,631 )
+
+
+Less: Other Intangible Assets
+(5,078 ) (5,532 ) (5,986 ) (6,439 ) (6,966 )
+
+
+Total Tangible Common Equity (non-GAAP) $ 552,071 $ 543,940 $ 541,988 $ 535,309 $ 529,988
+
+
+Asset components:
+
+
+Total Assets (GAAP)
+$ 5,620,681 $ 5,464,618 $ 5,512,160 $ 5,641,646 $ 5,548,576
+
+
+Less: Goodwill
+(167,631 ) (167,631 ) (167,631 ) (167,631 ) (167,631 )
+
+
+Less: Other Intangible Assets
+(5,078 ) (5,532 ) (5,986 ) (6,439 ) (6,966 )
+
+
+Total Tangible Assets (non-GAAP)
+$ 5,447,972 $ 5,291,455 $ 5,338,543 $ 5,467,576 $ 5,373,979
+
+
+Tangible common equity / tangible assets (non-GAAP)
+10.13 % 10.28 % 10.15 % 9.79 % 9.86 %

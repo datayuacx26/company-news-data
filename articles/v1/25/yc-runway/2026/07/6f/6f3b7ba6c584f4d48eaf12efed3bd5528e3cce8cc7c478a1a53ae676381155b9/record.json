@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f3b7ba6c584f4d48eaf12efed3bd5528e3cce8cc7c478a1a53ae676381155b9",
+  "company": {
+    "key": "yc-runway",
+    "name": "Runway"
+  },
+  "source": {
+    "id": "yc-runway-news-import-fe61d44f24da",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runway.team/blog/build-vs-buy-mobile-release-tooling-recap",
+    "canonical": "https://www.runway.team/blog/build-vs-buy-mobile-release-tooling-recap"
+  },
+  "title": "Build vs. buy for mobile release tooling: lessons from Monzo, Spotify, Tuist, and Etsy",
+  "summary": "There's no clean threshold for when to build vs. buy mobile release tooling. In a live panel, senior engineers from Monzo, Spotify, Tuist, and Etsy explained why the real cost is ongoing maintenance and coordination — not the first build — and why AI accelerates that trap rather than removing it.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T12:25:56.018278+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-08-20T01:59:33.257865+00:00",
+  "paths": {
+    "article": "articles/v1/25/yc-runway/2026/07/6f/6f3b7ba6c584f4d48eaf12efed3bd5528e3cce8cc7c478a1a53ae676381155b9/article.md",
+    "record": "articles/v1/25/yc-runway/2026/07/6f/6f3b7ba6c584f4d48eaf12efed3bd5528e3cce8cc7c478a1a53ae676381155b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14832,
+    "sha256": "sha256:0f35e37db026298de52c9155a069758a7509cd7c6332ed299ae41a34adf81653",
+    "normalized_content_hash": "sha256:c900cd95e7f61142345d1586e1221e6a7257af12d22bfcc9cca6cd644a522bc4"
+  },
+  "provenance": {
+    "source_item_id": "ed7c97fa-45ba-436c-a16a-f57b686fa2c6",
+    "external_id": "https://www.runway.team/blog/build-vs-buy-mobile-release-tooling-recap"
+  }
+}

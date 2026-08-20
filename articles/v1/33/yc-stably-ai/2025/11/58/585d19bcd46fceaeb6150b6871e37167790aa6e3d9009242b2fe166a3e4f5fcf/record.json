@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "585d19bcd46fceaeb6150b6871e37167790aa6e3d9009242b2fe166a3e4f5fcf",
+  "company": {
+    "key": "yc-stably-ai",
+    "name": "Stably AI"
+  },
+  "source": {
+    "id": "yc-stably-ai-news-import-4d9fcc9f146f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stably.ai/blog/real-auto-heal-for-end-to-end-tests",
+    "canonical": "https://www.stably.ai/blog/real-auto-heal-for-end-to-end-tests"
+  },
+  "title": "Real Auto-Heal for End-to-End Tests (Inside Your Infra)",
+  "summary": "Most 'AI test healing' tools only patch selectors and can't tell test drift from real bugs. At Stably, we built real auto-heal: an agent that runs in your CI, uses full context from your code and infra, and actually updates test code—cutting E2E test maintenance by 50–75%.",
+  "published_at": "2025-11-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:44:25.851186+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-20T03:08:54.793852+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-stably-ai/2025/11/58/585d19bcd46fceaeb6150b6871e37167790aa6e3d9009242b2fe166a3e4f5fcf/article.md",
+    "record": "articles/v1/33/yc-stably-ai/2025/11/58/585d19bcd46fceaeb6150b6871e37167790aa6e3d9009242b2fe166a3e4f5fcf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8008,
+    "sha256": "sha256:958efd8d2118e4ed417960e2019fdfe45edeb73ca84a67defdd26421677b3396",
+    "normalized_content_hash": "sha256:750ae4b002ee5c32b52c8943665bc0aebf7a97ecb713950e3e763620a930419d"
+  },
+  "provenance": {
+    "source_item_id": "62c990d0-2b3d-4b11-826f-fff240a14e7e",
+    "external_id": "https://www.stably.ai/blog/real-auto-heal-for-end-to-end-tests"
+  }
+}

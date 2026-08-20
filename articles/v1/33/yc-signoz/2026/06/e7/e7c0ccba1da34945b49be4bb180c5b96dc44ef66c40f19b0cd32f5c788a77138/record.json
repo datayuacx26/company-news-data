@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7c0ccba1da34945b49be4bb180c5b96dc44ef66c40f19b0cd32f5c788a77138",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/log-retention",
+    "canonical": "https://signoz.io/guides/log-retention"
+  },
+  "title": "Log Retention: Policy, Compliance, Best Practices, and Tools",
+  "summary": "Learn log retention policies, compliance requirements, storage challenges, best practices, and tools for managing retained logs.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:15:16.761066+00:00",
+  "last_updated_at": "2026-07-28T21:16:24.403438+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/e7/e7c0ccba1da34945b49be4bb180c5b96dc44ef66c40f19b0cd32f5c788a77138/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/e7/e7c0ccba1da34945b49be4bb180c5b96dc44ef66c40f19b0cd32f5c788a77138/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15104,
+    "sha256": "sha256:d0f57df8dd29545547e9fb7dc80caeffc3f0fd8facb5c5b8d0477f377f13e15c",
+    "normalized_content_hash": "sha256:c4949fd3d64d2e2a9c6a9c7fa54ecd7040444e60c4a13afb4fdf74adf001d997"
+  },
+  "provenance": {
+    "source_item_id": "8438b65d-b1c3-4c70-8fb3-811e7557702b",
+    "external_id": "https://signoz.io/guides/log-retention"
+  }
+}

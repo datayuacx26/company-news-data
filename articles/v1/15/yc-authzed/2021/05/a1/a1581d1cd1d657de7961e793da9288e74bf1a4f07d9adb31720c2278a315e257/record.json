@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a1581d1cd1d657de7961e793da9288e74bf1a4f07d9adb31720c2278a315e257",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/six-month-profile-page",
+    "canonical": "https://authzed.com/blog/six-month-profile-page"
+  },
+  "title": "The Challenge of ACL Filtering in Relational Databases",
+  "summary": "Learn about the challenges of ACL filtering in relational databases and the trade-offs between prefiltering and postfiltering, and consider alternative solutions like Authzed.",
+  "published_at": "2021-05-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2021/05/a1/a1581d1cd1d657de7961e793da9288e74bf1a4f07d9adb31720c2278a315e257/article.md",
+    "record": "articles/v1/15/yc-authzed/2021/05/a1/a1581d1cd1d657de7961e793da9288e74bf1a4f07d9adb31720c2278a315e257/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9220,
+    "sha256": "sha256:363f86162a49fbdee744343068dec77d0f2f0c9e7c9479bd6bce96d279d42122",
+    "normalized_content_hash": "sha256:bf44f764ec7ff85b615978b19f72c43730e6a1b696304a44a55aee35915b7b28"
+  },
+  "provenance": {
+    "source_item_id": "35442d14-1d6c-49f4-90b7-758b9daa585d",
+    "external_id": "https://authzed.com/blog/six-month-profile-page"
+  }
+}

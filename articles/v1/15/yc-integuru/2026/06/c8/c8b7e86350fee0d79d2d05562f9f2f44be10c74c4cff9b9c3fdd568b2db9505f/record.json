@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8b7e86350fee0d79d2d05562f9f2f44be10c74c4cff9b9c3fdd568b2db9505f",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/integuru-vs-playwright",
+    "canonical": "https://www.integuru.com/blog/integuru-vs-playwright"
+  },
+  "title": "Integuru vs. Playwright: When Browser Automation Isn't the Answer",
+  "summary": "Playwright is a real improvement over Puppeteer, but for third-party production integrations, it shares the same structural limits. A fair comparison of when each approach wins, and when skipping the browser entirely is the right call.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:46:31.447870+00:00",
+  "last_updated_at": "2026-07-28T21:47:31.764739+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/c8/c8b7e86350fee0d79d2d05562f9f2f44be10c74c4cff9b9c3fdd568b2db9505f/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/c8/c8b7e86350fee0d79d2d05562f9f2f44be10c74c4cff9b9c3fdd568b2db9505f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12410,
+    "sha256": "sha256:70ba2b6340df2d8134ed155a5810b318bfdc80e35141ea7a0f6c52cc5931ab4e",
+    "normalized_content_hash": "sha256:7ccfc44b24fb23800b6c880c8c9ed0bd114cdbc19b6311a951015b80ec527a68"
+  },
+  "provenance": {
+    "source_item_id": "7a9857bc-22da-4e9d-b2a2-edda10654971",
+    "external_id": "https://www.integuru.com/blog/integuru-vs-playwright"
+  }
+}

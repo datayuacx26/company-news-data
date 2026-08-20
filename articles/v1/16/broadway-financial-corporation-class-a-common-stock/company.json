@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "broadway-financial-corporation-class-a-common-stock",
+    "name": "Broadway Financial Corporation"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-09-18T14:33:32+00:00",
+  "last_published_at": "2026-05-07T23:06:56+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/16/broadway-financial-corporation-class-a-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10349,
+        "sha256": "sha256:172f37aec56df4432d3a55083607c42d910fa75fe2cc253cc97f6e8fc77edbf2",
+        "newest_at": "2026-05-07T23:06:56+00:00",
+        "oldest_at": "2025-09-18T14:33:32+00:00"
+      }
+    ]
+  }
+}

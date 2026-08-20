@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "565ae6ead60555684f304ce403fec71e59e39692f57ca3c6746867ff79d296da",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-we-cut-a-json-round-trip-out-of-our-query-cache/",
+    "canonical": "https://www.basedash.com/blog/how-we-cut-a-json-round-trip-out-of-our-query-cache/"
+  },
+  "title": "How we cut a JSON round-trip out of our query cache",
+  "summary": "On every cache hit, our run-query endpoint parsed JSON into objects just to serialize the same objects right back. Here's how we stored the raw bytes instead,…",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:47:51.174373+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/06/56/565ae6ead60555684f304ce403fec71e59e39692f57ca3c6746867ff79d296da/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/06/56/565ae6ead60555684f304ce403fec71e59e39692f57ca3c6746867ff79d296da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10725,
+    "sha256": "sha256:4b8605737500d3977f9cd6347851d5c11e52c7849e9b3152139de0808473500a",
+    "normalized_content_hash": "sha256:119c23c87351380ee4a621dddc3be1961fc6f3edfece69474372078f220ef41c"
+  },
+  "provenance": {
+    "source_item_id": "b0a2a2fd-db28-4ed6-83bf-03724d0cbf4a",
+    "external_id": "https://www.basedash.com/blog/how-we-cut-a-json-round-trip-out-of-our-query-cache/"
+  }
+}

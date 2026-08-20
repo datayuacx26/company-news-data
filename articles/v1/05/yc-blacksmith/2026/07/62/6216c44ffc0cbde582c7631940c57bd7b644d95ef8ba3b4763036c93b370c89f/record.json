@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6216c44ffc0cbde582c7631940c57bd7b644d95ef8ba3b4763036c93b370c89f",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching",
+    "canonical": "https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching"
+  },
+  "title": "The physics of Docker build caching",
+  "summary": "Concepts, rules of thumb, and what dissecting a few hundred CI builds says about them.",
+  "published_at": "2026-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T18:09:17.359875+00:00",
+  "fetched_at": "2026-07-31T18:09:18.106952+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2026/07/62/6216c44ffc0cbde582c7631940c57bd7b644d95ef8ba3b4763036c93b370c89f/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2026/07/62/6216c44ffc0cbde582c7631940c57bd7b644d95ef8ba3b4763036c93b370c89f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18021,
+    "sha256": "sha256:23eae544fe89ff8a61e343802e1d52ee90f85c40870379bfac89f6978a3bb1c0",
+    "normalized_content_hash": "sha256:75532ea2e5247f0812a9808e2b58ec79a8f164cfd945f873d104311840f8a5ba"
+  },
+  "provenance": {
+    "source_item_id": "0118ff6b-5a77-4f91-9c6e-5201609ee740",
+    "external_id": "https://www.blacksmith.sh/blog/the-physics-of-docker-build-caching"
+  }
+}

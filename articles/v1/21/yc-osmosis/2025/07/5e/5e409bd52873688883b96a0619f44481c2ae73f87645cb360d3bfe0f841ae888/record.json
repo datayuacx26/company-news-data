@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e409bd52873688883b96a0619f44481c2ae73f87645cb360d3bfe0f841ae888",
+  "company": {
+    "key": "yc-osmosis",
+    "name": "Osmosis"
+  },
+  "source": {
+    "id": "yc-osmosis-news-import-de01a8838bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://osmosis.ai/blogs/applying-rl-improving-code-merging",
+    "canonical": "https://osmosis.ai/blogs/applying-rl-improving-code-merging"
+  },
+  "title": "Applying RL: Improving Code Merging",
+  "summary": "While foundation models have continued to improve at coding capabilities, using foundation models for high specificity, low complexity tasks like code merging can be overkill. With that in mind, we saw an opportunity to use reinforcement learning to fine-tune a model (Qwen3-1.7B) for code merge - the result is a small model that’s better and faster than foundation models, while also able to run locally.",
+  "published_at": "2025-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:22:44.798253+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T19:56:56.890048+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-osmosis/2025/07/5e/5e409bd52873688883b96a0619f44481c2ae73f87645cb360d3bfe0f841ae888/article.md",
+    "record": "articles/v1/21/yc-osmosis/2025/07/5e/5e409bd52873688883b96a0619f44481c2ae73f87645cb360d3bfe0f841ae888/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4770,
+    "sha256": "sha256:af8cb1b7806bae28c5be48b2f2255268d3658b9f1709659dbf0c443d34590ac9",
+    "normalized_content_hash": "sha256:ab33fbc2d6280a2efe057703235e1330ffe763023490084c53d02022dd43977c"
+  },
+  "provenance": {
+    "source_item_id": "56ea6e7d-38e8-48cd-b87a-e9e223e5a0ab",
+    "external_id": "https://osmosis.ai/blogs/applying-rl-improving-code-merging"
+  }
+}

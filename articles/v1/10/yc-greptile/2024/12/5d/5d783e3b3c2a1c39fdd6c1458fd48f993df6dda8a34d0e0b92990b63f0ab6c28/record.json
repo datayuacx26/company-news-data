@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d783e3b3c2a1c39fdd6c1458fd48f993df6dda8a34d0e0b92990b63f0ab6c28",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-f703c271ba19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/make-llms-shut-up",
+    "canonical": "https://www.greptile.com/blog/make-llms-shut-up"
+  },
+  "title": "How to Make LLMs Shut Up",
+  "summary": "Lessons learned from our challenges reducing LLM output: Discover everything that went wrong when trying to make our models say less.",
+  "published_at": "2024-12-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.426026+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T02:09:10.875361+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2024/12/5d/5d783e3b3c2a1c39fdd6c1458fd48f993df6dda8a34d0e0b92990b63f0ab6c28/article.md",
+    "record": "articles/v1/10/yc-greptile/2024/12/5d/5d783e3b3c2a1c39fdd6c1458fd48f993df6dda8a34d0e0b92990b63f0ab6c28/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5294,
+    "sha256": "sha256:2e8a45b494f7de2c7820687c0e1e5cafa1ca377852f6139dd4012369302e691a",
+    "normalized_content_hash": "sha256:b22d5ff5fac49f125449713fcb3cac217f943295599fdbabad61a5de263e6689"
+  },
+  "provenance": {
+    "source_item_id": "d31f53a7-c850-4d2a-a047-937d9bea1b86",
+    "external_id": "https://www.greptile.com/blog/make-llms-shut-up"
+  }
+}

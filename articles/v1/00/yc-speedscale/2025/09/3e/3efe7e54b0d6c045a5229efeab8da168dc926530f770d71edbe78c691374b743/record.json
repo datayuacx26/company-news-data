@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3efe7e54b0d6c045a5229efeab8da168dc926530f770d71edbe78c691374b743",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/considerations-for-testing-grpc-streams/",
+    "canonical": "https://speedscale.com/blog/considerations-for-testing-grpc-streams/"
+  },
+  "title": "Considerations for Testing gRPC Streams",
+  "summary": "If you’ve spent any time building cloud-native systems, you’ve probably tripped over the tricky beast that is gRPC streaming. It’s powerful, flexible...",
+  "published_at": "2025-09-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2025/09/3e/3efe7e54b0d6c045a5229efeab8da168dc926530f770d71edbe78c691374b743/article.md",
+    "record": "articles/v1/00/yc-speedscale/2025/09/3e/3efe7e54b0d6c045a5229efeab8da168dc926530f770d71edbe78c691374b743/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5154,
+    "sha256": "sha256:852861dd7c1aa4abed70f292740342bfcbb04b91fd9b59c9f6dedf9beb1489db",
+    "normalized_content_hash": "sha256:5ec3c6026549587c0b3df0518d669a2cdd3b2b4ce37031d365b907a86992c8cc"
+  },
+  "provenance": {
+    "source_item_id": "7ae28abb-df37-4bf7-be59-be6a7238a05f",
+    "external_id": "https://speedscale.com/blog/considerations-for-testing-grpc-streams/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc0481edacdc574de5cbe315ed4efb8c96d48e271c6225ba66c6b01dc7368e91",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/hotspot-caching-in-google-zanzibar-and-spicedb",
+    "canonical": "https://authzed.com/blog/hotspot-caching-in-google-zanzibar-and-spicedb"
+  },
+  "title": "Hotspot Caching in Google Zanzibar and SpiceDB",
+  "summary": "Learn about the anatomy of a cache entry in Google's Zanzibar paper. Discover how hot spots are handled for low latency and high availability.",
+  "published_at": "2023-05-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2023/05/dc/dc0481edacdc574de5cbe315ed4efb8c96d48e271c6225ba66c6b01dc7368e91/article.md",
+    "record": "articles/v1/15/yc-authzed/2023/05/dc/dc0481edacdc574de5cbe315ed4efb8c96d48e271c6225ba66c6b01dc7368e91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17709,
+    "sha256": "sha256:fa3c43a900a39f607f77686878fb2d5de9b66e643afaddaa314cb3e57f9f90e4",
+    "normalized_content_hash": "sha256:44b92844d35ccaa28773917faae0191b6e4e02e01a9ab28949e3827d67b97c71"
+  },
+  "provenance": {
+    "source_item_id": "2ed41781-559e-40f8-b88b-f57432b9e394",
+    "external_id": "https://authzed.com/blog/hotspot-caching-in-google-zanzibar-and-spicedb"
+  }
+}

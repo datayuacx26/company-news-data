@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cgi-inc-common-stock",
+    "name": "CGI Inc."
+  },
+  "record_count": 348,
+  "first_published_at": "2026-07-21T12:00:00+00:00",
+  "last_published_at": "2026-07-21T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 345
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 7,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/13/cgi-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58765,
+        "sha256": "sha256:32f1b6dc34ab440f65472ab63f38b201806cd7481b864f16d17b8edc104bc081",
+        "newest_at": "2026-08-20T02:55:48.441956+00:00",
+        "oldest_at": "2026-07-28T21:08:32.413121+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/13/cgi-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 58069,
+        "sha256": "sha256:0124aff2d7a05cb49d1dd52f02bc7560c1340649c8608b27d5588bfa4c20f1c9",
+        "newest_at": "2026-07-28T21:08:32.413121+00:00",
+        "oldest_at": "2026-07-28T20:37:08.491459+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/13/cgi-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 61295,
+        "sha256": "sha256:7f47309b0286d77a6ea2c54d6873fe0c1a087adabc45642c9b5349d1359a3cbb",
+        "newest_at": "2026-07-28T20:37:08.491459+00:00",
+        "oldest_at": "2026-07-28T20:37:08.491459+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/13/cgi-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 60821,
+        "sha256": "sha256:4657c2461b9c1b71bf645767fafcf7e169f9f0d02830bc246c0df01b5ffdb3e8",
+        "newest_at": "2026-07-28T20:37:08.491459+00:00",
+        "oldest_at": "2026-07-28T20:37:08.491459+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/13/cgi-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 59118,
+        "sha256": "sha256:7607b8a592a4dd42d5ff698b676346cd98293255ced7142e690727d78dd94508",
+        "newest_at": "2026-07-28T20:37:08.491459+00:00",
+        "oldest_at": "2026-07-28T20:37:08.491459+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/13/cgi-inc-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 58262,
+        "sha256": "sha256:8a470bd8331df44ed5298a360939fd8423a431589e4b222aa9c7ce0335bf5535",
+        "newest_at": "2026-07-28T20:37:08.491459+00:00",
+        "oldest_at": "2026-07-28T20:37:08.491459+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/13/cgi-inc-common-stock/index/pages/000007.json",
+        "record_count": 48,
+        "byte_count": 56840,
+        "sha256": "sha256:5ea2717fecf068fec2ef5d5d8ba41fb949f75b385abded9f1cb444a2a7af8304",
+        "newest_at": "2026-07-28T20:34:24.680558+00:00",
+        "oldest_at": "2026-07-21T12:00:00+00:00"
+      }
+    ]
+  }
+}

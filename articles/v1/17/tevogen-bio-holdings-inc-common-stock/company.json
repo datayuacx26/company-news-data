@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "tevogen-bio-holdings-inc-common-stock",
+    "name": "Tevogen Bio Holdings Inc."
+  },
+  "record_count": 3,
+  "first_published_at": "2026-05-21T16:20:59+00:00",
+  "last_published_at": "2026-06-09T20:04:03+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/17/tevogen-bio-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3885,
+        "sha256": "sha256:61590d82fd1844d0f26b9154c152679f042b22bc9517c3a2996d8037689e6270",
+        "newest_at": "2026-06-09T20:04:03+00:00",
+        "oldest_at": "2026-05-21T16:20:59+00:00"
+      }
+    ]
+  }
+}

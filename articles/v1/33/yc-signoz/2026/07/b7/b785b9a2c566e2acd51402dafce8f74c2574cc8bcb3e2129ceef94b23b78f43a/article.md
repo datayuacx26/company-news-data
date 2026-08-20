@@ -1,0 +1,665 @@
+---
+schema_version: "1.0.0"
+document_id: "b785b9a2c566e2acd51402dafce8f74c2574cc8bcb3e2129ceef94b23b78f43a"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/guides/aws-elb-logs"
+published_at: "2026-07-06T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T20:47:27.048275+00:00"
+content_hash: "sha256:a3a2319def7dc107f290c66e554c394360a1952558d373f01585ff5dabda27eb"
+---
+
+# How to Monitor AWS ELB Logs using CloudWatch and Athena?
+
+# How to Monitor AWS ELB Logs using CloudWatch and Athena?
+
+
+Published on: January 30, 2026
+
+
+Last Updated: July 06, 2026
+
+
+15 min read
+
+
+[AWS Elastic Load Balancing (ELB) Monitoring Series](https://signoz.io/guides/aws-elb-monitoring/) Part 3 of 3
+
+
+In the previous parts of this series, we covered the fundamentals of AWS Elastic Load Balancer (ELB) monitoring, focusing on what to monitor and why it matters in production systems. We also covered the core ELB metrics and demonstrated how to collect and visualize these metrics using a centralized observability backend instead of relying solely on native tooling.
+
+
+In this guide, we will cover how to enable Application Load Balancer (ALB) access logs and how to analyze them using Athena, CloudWatch Logs and Signoz. Let's start by understanding how to enable logs on your ALB.
+
+
+## How to Enable ALB Access Logs?
+
+
+ALB access logs are disabled by default. Once enabled, the load balancer writes detailed request-level logs to an S3 bucket you specify. This is a prerequisite step before you can query logs with Athena, forward them to CloudWatch, or stream them to SigNoz.
+
+
+### Step 1: Create an S3 Bucket
+
+
+Go to the S3 console and create a dedicated bucket (e.g.,` alb-demo-logs-1234` ). Make sure to select the same region as your application load balancer. Leave the other settings at their defaults and click Create bucket.
+
+
+ALB requires permissions to write logs to your bucket. You need to add the policy to grant permission to it. To add the policy, go to the **Permissions tab** of your S3 bucket, scroll to **Bucket policy** and click **Edit** . Copy the policy in it and click **Save changes** .
+
+
+Replace the` YOUR-BUCKET-NAME` and` YOUR-ACCOUNT-ID` with your values.
+
+
+```text
+{
+"Version"  :    "2012-10-17"  ,
+"Statement"  :    [
+{
+"Effect"  :    "Allow"  ,
+"Principal"  :    {
+"Service"  :    "logdelivery.elasticloadbalancing.amazonaws.com"
+}  ,
+"Action"  :    "s3:PutObject"  ,
+"Resource"  :    "arn:aws:s3:::YOUR-BUCKET-NAME/AWSLogs/YOUR-ACCOUNT-ID/*"  ,
+"Condition"  :    {
+"StringEquals"  :    {
+"s3:x-amz-acl"  :    "bucket-owner-full-control"
+}
+}
+}
+]
+}
+
+
+```
+
+
+### Step 2: Enable Access Logs on Your ALB
+
+
+Open the EC2 Console and navigate to Load Balancers. Select your Application Load Balancer, go to the Attributes tab, and click Edit. Toggle Access logs to Enabled, enter your S3 bucket name, and click Save changes.
+
+
+*Configuring ALB access logs with an S3 bucket destination in the AWS console*
+
+
+Once enabled, ALB writes gzip-compressed log files to S3 approximately every 5 minutes. The logs are organized in a folder structure:
+
+
+```text
+AWSLogs/{account-id}/elasticloadbalancing/{region}/{year}/{month}/{day}/
+
+
+```
+
+
+With access logs enabled, you can now query them using Athena, forward them to CloudWatch Logs, or stream them to SigNoz.
+
+
+## Method 1: Querying AWS ELB Logs with Amazon Athena
+
+
+Amazon Athena lets you run SQL queries directly on your ALB logs stored in S3, without moving the data.
+
+
+### Step 1: Set up Athena for Querying Logs in an S3 Bucket
+
+
+Open the AWS Console and search for "Athena" to access the query editor. Before running any query, configure a query result location by clicking the Query Settings tab, then Manage. Enter an S3 path like` s3://your-bucket-name/` (make sure to replace` your-bucket-name` ) and click **Save** .
+
+
+### Step 2: Create a Database
+
+
+You first need a database to hold your table definitions. In the query editor, run:
+
+
+```text
+CREATE    DATABASE   alb_logs ;
+
+
+```
+
+
+The database will appear in the left sidebar under the "Database" dropdown.
+
+
+### Step 3: Create the Table Schema
+
+
+ALB logs are space-delimited. You need a regex serializer to map the raw text lines to columns. Replace the` LOCATION` with your specific` S3 bucket path` . Ensure you include the trailing slash` /` in your S3 path.
+
+
+Run the following query once ready.
+
+
+```text
+CREATE   EXTERNAL  TABLE   alb_logs .  alb_access_logs  (
+type   string ,
+time   string ,
+elb string ,
+client_ip string ,
+client_port  int  ,
+target_ip string ,
+target_port  int  ,
+request_processing_time  double  ,
+target_processing_time  double  ,
+response_processing_time  double  ,
+elb_status_code  int  ,
+target_status_code string ,
+received_bytes  bigint  ,
+sent_bytes  bigint  ,
+request_verb string ,
+request_url string ,
+request_proto string ,
+user_agent string ,
+ssl_cipher string ,
+ssl_protocol string ,
+target_group_arn string ,
+trace_id string ,
+domain_name string ,
+chosen_cert_arn string ,
+matched_rule_priority string ,
+request_creation_time string ,
+actions_executed string ,
+redirect_url string ,
+lambda_error_reason string ,
+target_port_list string ,
+target_status_code_list string ,
+classification string ,
+classification_reason string
+)
+ROW   FORMAT SERDE  'org.apache.hadoop.hive.serde2.RegexSerDe'
+WITH   SERDEPROPERTIES  (
+'serialization.format'    =    '1'  ,
+'input.regex'    =    '([^ ]**) ([^ ]**) ([^ ]**) ([^ ]**):([0-9]**) ([^ ]**)[:-]([0-9]**) ([-.0-9]**) ([-.0-9]**) ([-.0-9]**) (|[-0-9]**) (-|[-0-9]**) ([-0-9]**) ([-0-9]**) \"([^ ]**) (.**) (- |[^ ]**)\" \"([^\"]**)\" ([A-Z0-9-_]+) ([A-Za-z0-9.-]**) ([^ ]**) \"([^\"]**)\" \"([^\"]**)\" \"([^\"]**)\" ([-.0-9]**) ([^ ]**) \"([^\"]**)\" \"([^\"]**)\" \"([^ ]**)\" \"([^\s]+?)\" \"([^\s]+)\" \"([^ ]**)\" \"([^ ]**)\"'
+)
+LOCATION  's3://your-alb-logs-bucket/AWSLogs/YOUR_ACCOUNT_ID/elasticloadbalancing/YOUR_REGION/'  ;
+
+
+```
+
+
+The table "alb_access_logs" will appear under Tables in the left sidebar.
+
+
+### Step 4: Run Analysis Queries
+
+
+Now you can run SQL queries. Here is a sample troubleshooting query to find the distribution of HTTP status codes:
+
+
+```text
+SELECT   elb_status_code ,    COUNT  (  *  )    as   count
+FROM   alb_logs .  alb_access_logs
+GROUP    BY   elb_status_code
+ORDER    BY   count  DESC  ;
+
+
+```
+
+
+*Running an Athena query to count requests by ALB status code from the access logs table*
+
+
+## Limitations of Athena for Log Analysis
+
+
+While Athena is powerful for ad-hoc SQL queries, several limitations make it less suitable for operational log analysis:
+
+
+- **Complex table setup** : The ALB log format requires a RegexSerDe with a lengthy regex pattern. Any schema mismatch or regex error results in NULL values or failed queries, making initial setup error-prone.
+- **Cost unpredictability** : Athena charges per data scanned, not per query. A broad query without proper partitioning or WHERE clauses can scan terabytes of historical logs, resulting in unexpected costs.
+- **No alerting or dashboards** : Athena is a query engine, not a monitoring tool. You cannot create alerts on log patterns or build real-time dashboards without additional infrastructure.
+- **Manual partitioning required** : For cost-effective queries on large log volumes, you must configure partitions by date. Without partitioning, every query scans the entire dataset.
+- **No correlation with metrics** : Athena operates in isolation. Correlating a query result with CloudWatch metrics or distributed traces requires manual context-switching between services.
+
+
+For teams needing visibility, alerting, or correlation with other telemetry, Athena alone is insufficient.
+
+
+## Method 2: Forwarding ALB Logs to CloudWatch Logs
+
+
+Many teams prefer CloudWatch Logs because they are already using Logs Insights for application logs. However, AWS does not natively support sending ALB logs to CloudWatch. You must build a custom pipeline using an AWS Lambda function that reads logs from an S3 bucket and forwards them to CloudWatch.
+Once forwarded, these appear alongside your other[CloudWatch metrics](https://signoz.io/blog/cloudwatch-metrics/) for unified alerting.
+
+
+### Step 1: Create a CloudWatch Log Group
+
+
+CloudWatch Logs requires a log group as the destination for incoming logs. The Lambda function will write parsed ALB log entries to this group.
+
+
+Open the CloudWatch Console and expand **Logs** in the left sidebar, then click **Log management** . Click **Create log group** , enter a name like` /aws/alb/access-logs` , set a retention period based on your needs (1 day, 1 week, 1 month, etc.), then click **Create** .
+
+
+### Step 2: Create the Lambda Function
+
+
+Open the Lambda Console and click **Create function** . Choose **Author from scratch** , enter the function name as` alb-logs-to-cloudwatch` , select **(Python 3.12+)** as the runtime, and click **Create function** .
+
+
+Add the Lambda Code in the Code section by replacing the default code with the code below, and click on Deploy.
+
+
+```text
+import   boto3
+import   gzip
+import   os
+from   io  import   BytesIO
+import   time
+
+
+logs_client  =   boto3 .  client (  'logs'  )
+s3_client  =   boto3 .  client (  's3'  )
+
+
+LOG_GROUP  =   os .  environ .  get (  'LOG_GROUP'  ,    '/aws/alb/access-logs'  )
+
+
+def    lambda_handler  (  event ,   context )  :
+for   record  in   event [  'Records'  ]  :
+bucket  =   record [  's3'  ]  [  'bucket'  ]  [  'name'  ]
+key  =   record [  's3'  ]  [  'object'  ]  [  'key'  ]
+
+
+response  =   s3_client .  get_object (  Bucket =  bucket ,   Key =  key )
+with   gzip .  GzipFile (  fileobj =  BytesIO (  response [  'Body'  ]  .  read (  )  )  )    as   gz :
+log_content  =   gz .  read (  )  .  decode (  'utf-8'  )
+
+
+log_stream  =   key .  replace (  '/'  ,    '-'  )  .  replace (  '.gz'  ,    ''  )
+
+
+try  :
+logs_client .  create_log_stream (  logGroupName =  LOG_GROUP ,   logStreamName =  log_stream )
+except   logs_client .  exceptions .  ResourceAlreadyExistsException :
+pass
+
+
+log_events  =    [  ]
+for   line  in   log_content .  strip (  )  .  split (  '\n'  )  :
+if   line :
+log_events .  append (  {
+'timestamp'  :    int  (  time .  time (  )    *    1000  )  ,
+'message'  :   line
+}  )
+
+
+if   log_events :
+logs_client .  put_log_events (
+logGroupName =  LOG_GROUP ,
+logStreamName =  log_stream ,
+logEvents =  log_events
+)
+
+
+return    {  'statusCode'  :    200  }
+
+
+```
+
+
+This function triggers whenever a new file lands in S3, unzips it, parses the lines, and pushes them to CloudWatch.
+
+
+### Step 3: Configure Environment Variables for the function
+
+
+Go to the Configuration tab and select Environment variables. Click Edit, then Add environment variable. Set the Key-Value pair, then click Save.
+
+
+Key Value
+
+
+LOG_GROUP /aws/alb/access-logs
+
+
+### Step 4: Add IAM Permissions
+
+
+Navigate to Configuration > Permissions and click the role name. In IAM, attach the` AmazonS3ReadOnlyAccess` policy. Then create an inline policy using the JSON editor and paste the following:
+
+
+```text
+{
+"Version"  :    "2012-10-17"  ,
+"Statement"  :    [
+{
+"Effect"  :    "Allow"  ,
+"Action"  :    [
+"logs:CreateLogStream"  ,
+"logs:PutLogEvents"
+]  ,
+"Resource"  :    "arn:aws:logs:**:**:log-group:/aws/alb/access-logs:*"
+}
+]
+}
+
+
+```
+
+
+Name the policy` CloudWatchLogsAccess` and click Create policy.
+
+
+### Step 5: Add S3 Trigger
+
+
+In the Lambda function overview, click` + Add trigger` and select` S3` as the source. Choose your ALB logs bucket, set the event type to **All object create events** , add` .gz` as the suffix filter, acknowledge the recursive invocation warning, and click **Add** .
+
+
+*Setting up an S3 trigger to invoke the Lambda function when new .gz log files arrive*
+
+
+### Step 6: Query Logs with CloudWatch Logs Insights
+
+
+Open the CloudWatch Console, navigate to **Logs** → **Logs Insights** , and select your log group` /aws/alb/access-logs` . You can now run queries to analyze your ALB access logs. Here are some useful examples:
+
+
+**Count all requests:**
+
+
+```text
+fields    @timestamp  ,    @message
+|   stats  count  (  *  )    as   total
+
+
+```
+
+
+*CloudWatch Logs Insights query results showing ALB access log entries over time*
+
+
+## Limitations of CloudWatch Logs for ALB Log Analysis
+
+
+While CloudWatch Logs Insights enables log analysis, several limitations make it less practical for production ALB monitoring at scale.
+
+
+- **Ingestion and storage costs** : CloudWatch Logs charges` 0.50/GB for ingestion and` 0.03/GB per month for storage. High-traffic ALBs can generate gigabytes of logs daily, making costs unpredictable.
+- **Limited query language** : CloudWatch Logs Insights uses a proprietary query syntax that lacks the flexibility of SQL or full-text search engines. Complex log analysis requires regex parsing within queries.
+- **Unstructured log format** : ALB logs arrive as space-delimited strings rather than JSON. Extracting fields like status codes or latency requires regex parsing in every query, adding complexity and slowing down analysis.
+- **No built-in dashboards for access logs** : Unlike metrics, CloudWatch does not provide automatic dashboards for ALB access logs. You must manually create dashboards or use Logs Insights for every query.
+- **Limited alerting on log patterns** : Creating metric filters for log-based alerts requires additional configuration. Alerting on complex patterns like "5XX rate exceeds 5% of requests" is hard.
+- **Retention cost trade-offs** : Longer retention periods increase storage costs, but shorter retention means losing historical data for trend analysis or compliance.
+
+
+The limitations above compound when you need to troubleshoot production issues quickly. SigNoz addresses these gaps by providing a unified platform where ALB access logs and metrics coexist with native correlation capabilities.
+
+
+## How SigNoz Addresses Log Limitations
+
+
+SigNoz is an open-source, all-in-one observability platform that addresses these limitations. It correlates your ALB logs directly with metrics, allowing you to go from a "High Latency" alert to the exact log line in one click. For a broader AWS view, pair ELB logs with full[AWS monitoring guide](https://signoz.io/guides/aws-monitoring/) across EC2, Lambda, and ECS.
+
+
+### Real-Time Log Ingestion
+
+
+The log ingestion model differs fundamentally. Instead of querying logs where they land in S3, a lambda function forwards them to SigNoz as they arrive. The function is triggered by S3 events, parses each log entry, and sends structured data to SigNoz over HTTPS. This reduces delay after S3 delivery by forwarding logs as soon as new objects land in S3.
+
+
+### Structured Fields Without Regex
+
+
+SigNoz indexes log content for full-text search and extracts fields such as client IP, status code, and latency as typed attributes. Logs can be filtered using both free-text queries and precise field-based conditions without writing complex regex patterns.
+
+
+### Built-In Alerting
+
+
+SigNoz allows you to create alerts directly on log patterns or aggregations. If 5XX responses exceed a threshold within a time window, SigNoz triggers a notification without requiring intermediate infrastructure.
+
+
+### Correlation with Metrics, Logs and Traces
+
+
+When you see an error spike in your ALB metrics dashboard, you can pivot to access logs filtered to that exact time window. If your application emits distributed traces, you can drill from a slow request in the logs to the full trace showing which downstream service caused the latency.
+
+
+## Method 3: Forwarding ALB Access Logs to SigNoz
+
+
+If you followed the CloudWatch Logs setup earlier, the Lambda architecture remains the same: an S3 trigger invokes a function whenever new ALB log files arrive. The only differences are the Lambda code (which sends logs to SigNoz instead of CloudWatch) and the environment variables (SigNoz ingestion endpoint and access token instead of the CloudWatch log group name). The S3 trigger configuration and IAM permissions for S3 access stay unchanged.
+
+
+If you're setting this up fresh, you'll create a new Lambda function with the S3 trigge same steps as before, just with SigNoz-specific code and configuration.
+
+
+### Lambda Code
+
+
+Replace the Lambda function code with the following:
+
+
+```text
+import   json
+import   gzip
+import   urllib .  request
+import   os
+import   boto3
+import   re
+from   io  import   BytesIO
+
+
+def    parse_alb_log  (  line )  :
+"""
+Parse an ALB access log line into structured fields.
+ALB log format: https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
+"""
+# Regex to handle quoted fields and space-separated values
+pattern  =    r'([^ ]**) ([^ ]**) ([^ ]**) ([^ ]**):([0-9]**) ([^ ]**):([0-9]**) ([-.0-9]**) ([-.0-9]**) ([-.0-9]**) ([0-9]**) ([0-9]**) ([0-9]**) ([0-9]**) "([^"]**)" "([^"]**)" ([^ ]**) ([^ ]**) ([^ ]**) "([^"]**)" "([^"]**)" "([^"]**)" ([-.0-9]**) ([^ ]**) "([^"]**)" "([^"]**)" "([^"]**)" "([^"]**)" "([^"]**)"'
+
+
+match    =   re .  match  (  pattern ,   line )
+if    not    match  :
+# Fallback: return basic parsed data
+parts  =   line .  split (  ' '  )
+return    {
+"type"  :   parts [  0  ]    if    len  (  parts )    >    0    else    ""  ,
+"timestamp"  :   parts [  1  ]    if    len  (  parts )    >    1    else    ""  ,
+"raw"  :   line
+}
+
+
+groups  =    match  .  groups (  )
+
+
+return    {
+"type"  :   groups [  0  ]  ,
+"timestamp"  :   groups [  1  ]  ,
+"elb"  :   groups [  2  ]  ,
+"client_ip"  :   groups [  3  ]  ,
+"client_port"  :   groups [  4  ]  ,
+"target_ip"  :   groups [  5  ]  ,
+"target_port"  :   groups [  6  ]  ,
+"request_processing_time"  :    float  (  groups [  7  ]  )    if   groups [  7  ]    !=    '-'    else    0  ,
+"target_processing_time"  :    float  (  groups [  8  ]  )    if   groups [  8  ]    !=    '-'    else    0  ,
+"response_processing_time"  :    float  (  groups [  9  ]  )    if   groups [  9  ]    !=    '-'    else    0  ,
+"elb_status_code"  :   groups [  10  ]  ,
+"target_status_code"  :   groups [  11  ]  ,
+"received_bytes"  :    int  (  groups [  12  ]  )    if   groups [  12  ]    !=    '-'    else    0  ,
+"sent_bytes"  :    int  (  groups [  13  ]  )    if   groups [  13  ]    !=    '-'    else    0  ,
+"request"  :   groups [  14  ]  ,
+"user_agent"  :   groups [  15  ]  ,
+"ssl_cipher"  :   groups [  16  ]  ,
+"ssl_protocol"  :   groups [  17  ]  ,
+"target_group_arn"  :   groups [  18  ]  ,
+"trace_id"  :   groups [  19  ]  ,
+"domain_name"  :   groups [  20  ]  ,
+"chosen_cert_arn"  :   groups [  21  ]  ,
+"matched_rule_priority"  :   groups [  22  ]  ,
+"request_creation_time"  :   groups [  23  ]  ,
+"actions_executed"  :   groups [  24  ]  ,
+"redirect_url"  :   groups [  25  ]  ,
+"error_reason"  :   groups [  26  ]  ,
+"target_list"  :   groups [  27  ]  ,
+"target_status_list"  :   groups [  28  ]
+}
+
+
+def    lambda_handler  (  event ,   context )  :
+"""
+Lambda function to forward ALB access logs from S3 to SigNoz.
+Parses logs into structured fields for better querying.
+"""
+signoz_endpoint  =   os .  environ .  get (  'SIGNOZ_ENDPOINT'  )
+signoz_token  =   os .  environ .  get (  'SIGNOZ_TOKEN'  )
+
+
+if    not   signoz_endpoint  or    not   signoz_token :
+print  (  "Missing SIGNOZ_ENDPOINT or SIGNOZ_TOKEN"  )
+return    {  'statusCode'  :    500  ,    'body'  :    'Missing configuration'  }
+
+
+s3  =   boto3 .  client (  's3'  )
+logs_sent  =    0
+
+
+for   record  in   event [  'Records'  ]  :
+bucket  =   record [  's3'  ]  [  'bucket'  ]  [  'name'  ]
+key  =   record [  's3'  ]  [  'object'  ]  [  'key'  ]
+
+
+print  (  f"Processing: s3://  {  bucket }   /  {  key }   "   )
+
+
+# Download and decompress log file
+response  =   s3 .  get_object (  Bucket =  bucket ,   Key =  key )
+log_content  =   gz .  read (  )  .  decode (  'utf-8'  )
+
+
+# Parse and send each log line
+for   line  in   log_content .  strip (  )  .  split (  '\n'  )  :
+if    not   line :
+continue
+
+
+# Parse the log line
+parsed  =   parse_alb_log (  line )
+
+
+# Extract method and path from request
+request_parts  =   parsed .  get (  'request'  ,    ''  )  .  split (  ' '  )
+http_method  =   request_parts [  0  ]    if    len  (  request_parts )    >    0    else    ''
+request_url  =   request_parts [  1  ]    if    len  (  request_parts )    >    1    else    ''
+
+
+# Build structured log entry (service.name is in resources, not here)
+attributes  =    [
+{  "key"  :    "log.source"  ,    "value"  :    {  "stringValue"  :    "alb-access-logs"  }  }  ,
+{  "key"  :    "client_ip"  ,    "value"  :    {  "stringValue"  :   parsed .  get (  'client_ip'  ,    ''  )  }  }  ,
+{  "key"  :    "elb_status_code"  ,    "value"  :    {  "stringValue"  :   parsed .  get (  'elb_status_code'  ,    ''  )  }  }  ,
+{  "key"  :    "target_status_code"  ,    "value"  :    {  "stringValue"  :   parsed .  get (  'target_status_code'  ,    ''  )  }  }  ,
+{  "key"  :    "http_method"  ,    "value"  :    {  "stringValue"  :   http_method }  }  ,
+{  "key"  :    "request_url"  ,    "value"  :    {  "stringValue"  :   request_url }  }  ,
+{  "key"  :    "user_agent"  ,    "value"  :    {  "stringValue"  :   parsed .  get (  'user_agent'  ,    ''  )  }  }  ,
+{  "key"  :    "target_processing_time_ms"  ,    "value"  :    {  "doubleValue"  :   parsed .  get (  'target_processing_time'  ,    0  )    **    1000  }  }  ,
+{  "key"  :    "received_bytes"  ,    "value"  :    {  "intValue"  :   parsed .  get (  'received_bytes'  ,    0  )  }  }  ,
+{  "key"  :    "sent_bytes"  ,    "value"  :    {  "intValue"  :   parsed .  get (  'sent_bytes'  ,    0  )  }  }  ,
+{  "key"  :    "elb"  ,    "value"  :    {  "stringValue"  :   parsed .  get (  'elb'  ,    ''  )  }  }  ,
+]
+
+
+log_entry  =    {
+"resourceLogs"  :    [  {
+"resource"  :    {
+"attributes"  :    [
+{  "key"  :    "service.name"  ,    "value"  :    {  "stringValue"  :    "alb-demo"  }  }  ,
+{  "key"  :    "source"  ,    "value"  :    {  "stringValue"  :    "alb-access-logs"  }  }
+]
+}  ,
+"scopeLogs"  :    [  {
+"logRecords"  :    [  {
+"body"  :    {  "stringValue"  :   line }  ,
+"attributes"  :   attributes
+}  ]
+}  ]
+}  ]
+}
+
+
+# Send to SigNoz
+req  =   urllib .  request .  Request (
+f"  {  signoz_endpoint }   /v1/logs"   ,
+data =  json .  dumps (  log_entry )  .  encode (  'utf-8'  )  ,
+headers =  {
+'Content-Type'  :    'application/json'  ,
+'signoz-ingestion-key'  :   signoz_token
+}
+)
+
+
+try  :
+urllib .  request .  urlopen (  req )
+logs_sent  +=    1
+except   Exception  as   e :
+print  (  f"Error sending log:   {  e }   "   )
+
+
+print  (  f"Successfully sent   {  logs_sent }    logs to SigNoz"   )
+return    {  'statusCode'  :    200  ,    'body'  :    f'Processed   {  logs_sent }    logs'   }
+
+
+```
+
+
+### Environment Variables
+
+
+Go to **Configuration** → **Environment variables** , click **Edit** , and add the following variables:
+
+
+**Key** **Value**
+
+
+` SIGNOZ_ENDPOINT`` https://ingest.{region}.signoz.cloud:443` (replace` {region}` with your SigNoz region, e.g.,` us` ,` in` ,` eu` )
+
+
+` SIGNOZ_TOKEN` Your SigNoz ingestion key
+
+
+You can generate your SigNoz ingestion key by following the[Generate Ingestion Keys](https://signoz.io/docs/ingestion/signoz-cloud/keys/) guide.
+
+
+## Viewing ALB Logs in SigNoz
+
+
+Once logs start flowing, navigate to **Logs** → **Logs Explorer** in SigNoz. Filter by service name to see only ALB logs:
+
+
+```text
+service.name = alb-demo
+
+
+```
+
+
+You'll see your ALB access logs with parsed fields ready for filtering and analysis.
+
+
+*Viewing ALB access logs in SigNoz Logs Explorer with parsed fields and a frequency chart showing traffic patterns*
+
+
+## Conclusion
+
+
+This completes our AWS ELB monitoring series. You've set up both metrics and access logs streaming to SigNoz, giving you unified visibility into load balancer performance and request-level details.
+
+
+To receive more insights from observability nerds at SigNoz straight to your inbox, you can subscribe to our[newsletter](https://newsletter.signoz.io/) .
+
+
+---
+
+
+## Further Reading
+
+
+- [AWS Lambda Monitoring](https://signoz.io/guides/aws-lambda-monitoring/)
+- [EC2 Monitoring](https://signoz.io/guides/ec2-monitoring/)

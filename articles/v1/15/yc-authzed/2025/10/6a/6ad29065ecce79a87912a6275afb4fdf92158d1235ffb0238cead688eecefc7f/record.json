@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ad29065ecce79a87912a6275afb4fdf92158d1235ffb0238cead688eecefc7f",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/terraform-and-opentofu-provider-for-authzed-dedicated",
+    "canonical": "https://authzed.com/blog/terraform-and-opentofu-provider-for-authzed-dedicated"
+  },
+  "title": "Terraform and OpenTofu Provider for AuthZed Dedicated",
+  "summary": "AuthZed now supports Terraform and OpenTofu. You can manage service accounts, API tokens, roles, and permission system configuration as code, just like your other infrastructure. Define resources declaratively, version them in git, and automate deployments across environments without manual configuration steps.",
+  "published_at": "2025-10-30T10:40:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:55:32.133421+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2025/10/6a/6ad29065ecce79a87912a6275afb4fdf92158d1235ffb0238cead688eecefc7f/article.md",
+    "record": "articles/v1/15/yc-authzed/2025/10/6a/6ad29065ecce79a87912a6275afb4fdf92158d1235ffb0238cead688eecefc7f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5641,
+    "sha256": "sha256:666ea879591bc24343ac1a838f7cf9c7ac04fdcd3fb1f7f7aed53f67a88db2a3",
+    "normalized_content_hash": "sha256:076c069585059495f5f955596435c49075651277cfc62bcb31b1a7c18af0c9ec"
+  },
+  "provenance": {
+    "source_item_id": "b327f8be-bdf7-43e5-95c3-5b8b0641f59c",
+    "external_id": "https://authzed.com/blog/terraform-and-opentofu-provider-for-authzed-dedicated"
+  }
+}

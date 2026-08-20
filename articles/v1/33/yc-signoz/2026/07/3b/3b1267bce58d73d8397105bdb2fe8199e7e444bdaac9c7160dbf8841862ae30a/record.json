@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b1267bce58d73d8397105bdb2fe8199e7e444bdaac9c7160dbf8841862ae30a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/alerts-management/notification-channel/pagerduty",
+    "canonical": "https://signoz.io/docs/alerts-management/notification-channel/pagerduty"
+  },
+  "title": "Configure PagerDuty Notification Channel in SigNoz",
+  "summary": "Set up PagerDuty as a SigNoz notification channel, get your integration key, connect alerts, and test incident delivery end to end.",
+  "published_at": "2026-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/3b/3b1267bce58d73d8397105bdb2fe8199e7e444bdaac9c7160dbf8841862ae30a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/3b/3b1267bce58d73d8397105bdb2fe8199e7e444bdaac9c7160dbf8841862ae30a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 698,
+    "sha256": "sha256:35d45e41c84c6a63190a5a23b8e7f1aeadb70e12050f71adc77a9962063d61dd",
+    "normalized_content_hash": "sha256:1a269ddcfb4dc4c92923d9cc5950c3859a1807f664a7f6e59fd10b85fb305b11"
+  },
+  "provenance": {
+    "source_item_id": "17334fd7-9e59-4cdd-9966-764021c1ea60",
+    "external_id": "https://signoz.io/docs/alerts-management/notification-channel/pagerduty"
+  }
+}

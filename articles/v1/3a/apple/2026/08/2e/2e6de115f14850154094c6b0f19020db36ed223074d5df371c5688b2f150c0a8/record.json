@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e6de115f14850154094c6b0f19020db36ed223074d5df371c5688b2f150c0a8",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/mvicad2-delays-dilations",
+    "canonical": "https://machinelearning.apple.com/research/mvicad2-delays-dilations"
+  },
+  "title": "MVICAD2: Multi-View Independent Component Analysis with Delays and Dilations",
+  "summary": "Machine learning techniques in multi-view settings face significant challenges, particularly when integrating heterogeneous data, aligning…",
+  "published_at": null,
+  "first_seen_at": "2026-08-18T22:05:34.065730+00:00",
+  "fetched_at": "2026-08-18T22:05:36.322330+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/2e/2e6de115f14850154094c6b0f19020db36ed223074d5df371c5688b2f150c0a8/article.md",
+    "record": "articles/v1/3a/apple/2026/08/2e/2e6de115f14850154094c6b0f19020db36ed223074d5df371c5688b2f150c0a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2358,
+    "sha256": "sha256:2596f95d3f2ef51e4290e65e4ff1766d424b8260fdb4c6e5884784f4a8880bb4",
+    "normalized_content_hash": "sha256:b958af87995c062b7b16e2d8db00c1cdc550e8d9e725559c9ed3d403aa356503"
+  },
+  "provenance": {
+    "source_item_id": "3abc8d10-0360-4320-b49b-e285ea565cf2",
+    "external_id": "https://machinelearning.apple.com/research/mvicad2-delays-dilations"
+  }
+}

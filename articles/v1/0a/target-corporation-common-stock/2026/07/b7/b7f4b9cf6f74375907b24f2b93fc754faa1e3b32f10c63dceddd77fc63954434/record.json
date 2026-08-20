@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7f4b9cf6f74375907b24f2b93fc754faa1e3b32f10c63dceddd77fc63954434",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/07/picolette",
+    "canonical": "https://corporate.target.com/news-features/article/2026/07/picolette"
+  },
+  "title": "Behind the Brand: Olivia Culpo Launches Baby Collection Picolette, Exclusively at Target",
+  "summary": "Target introduces Picolette by Olivia Culpo, our largest Baby collaboration to date, full of beautiful, affordable baby clothes and essentials.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/07/b7/b7f4b9cf6f74375907b24f2b93fc754faa1e3b32f10c63dceddd77fc63954434/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/07/b7/b7f4b9cf6f74375907b24f2b93fc754faa1e3b32f10c63dceddd77fc63954434/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6579,
+    "sha256": "sha256:9cd0bdb0274753b2ea096f00446e31b17929a88c80ddc60c071585440542a8ed",
+    "normalized_content_hash": "sha256:02d9c163125bb93957aefcbf802b0c3b33d520bf6351ebc72fd99627cf62ae4c"
+  },
+  "provenance": {
+    "source_item_id": "3714d33f-dde1-4f7d-8ea4-949e22fb1c45",
+    "external_id": "https://corporate.target.com/news-features/article/2026/07/picolette"
+  }
+}

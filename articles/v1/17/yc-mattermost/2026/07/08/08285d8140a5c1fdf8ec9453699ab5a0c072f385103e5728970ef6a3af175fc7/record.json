@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "08285d8140a5c1fdf8ec9453699ab5a0c072f385103e5728970ef6a3af175fc7",
+  "company": {
+    "key": "yc-mattermost",
+    "name": "Mattermost"
+  },
+  "source": {
+    "id": "yc-mattermost-rss-3d807a20d23e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mattermost.com/blog/mattermost-v11-9-is-now-available/",
+    "canonical": "https://mattermost.com/blog/mattermost-v11-9-is-now-available/"
+  },
+  "title": "Mattermost v11.9: Channel-Level ABAC Policies, Ranked Attributes, Program Masking & More",
+  "summary": "Mattermost v11.9 puts more of your access control architecture in the hands of the people closest to the mission.",
+  "published_at": "2026-07-16T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:03.492829+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-20T02:45:42.683063+00:00",
+  "paths": {
+    "article": "articles/v1/17/yc-mattermost/2026/07/08/08285d8140a5c1fdf8ec9453699ab5a0c072f385103e5728970ef6a3af175fc7/article.md",
+    "record": "articles/v1/17/yc-mattermost/2026/07/08/08285d8140a5c1fdf8ec9453699ab5a0c072f385103e5728970ef6a3af175fc7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9636,
+    "sha256": "sha256:ac25a308750577ad739088d6a2b029d7b987f25d6de92f16492b949ac918e0ab",
+    "normalized_content_hash": "sha256:c70dd2d67e929cab66d93a05dcff9d52d7c3ed21d63dc2a5c7aeddb1d1f218fd"
+  },
+  "provenance": {
+    "source_item_id": "cafb57de-d972-4d0b-b6ef-5f7391d220c4",
+    "external_id": "https://mattermost.com/?p=58538"
+  }
+}

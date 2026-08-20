@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d0d16e63575d1efa1d31cee1bb5a2f2b990ba9e58167ac9074840fff80d0fbb",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/fix-403-auth-errors-traffic-replay-proxymock/",
+    "canonical": "https://speedscale.com/blog/fix-403-auth-errors-traffic-replay-proxymock/"
+  },
+  "title": "Fixing 403 auth errors when you replay traffic",
+  "summary": "Replay an authenticated flow and the protected calls fail with 403. Here is how proxymock recommendations fix the expired bearer token in one click.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/06/4d/4d0d16e63575d1efa1d31cee1bb5a2f2b990ba9e58167ac9074840fff80d0fbb/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/06/4d/4d0d16e63575d1efa1d31cee1bb5a2f2b990ba9e58167ac9074840fff80d0fbb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5220,
+    "sha256": "sha256:4a3f828f915aa9872a0b0378db3c9993d7dda1c8a9ee54ea1ef6caaf229e4dc4",
+    "normalized_content_hash": "sha256:35893f3542f388c83d5ca1c76e7aa0269ef5ba42f0a37e14ea8faa2590ddef8a"
+  },
+  "provenance": {
+    "source_item_id": "9ec41035-9b37-47a5-8f31-a6fe1783a7e7",
+    "external_id": "https://speedscale.com/blog/fix-403-auth-errors-traffic-replay-proxymock/"
+  }
+}

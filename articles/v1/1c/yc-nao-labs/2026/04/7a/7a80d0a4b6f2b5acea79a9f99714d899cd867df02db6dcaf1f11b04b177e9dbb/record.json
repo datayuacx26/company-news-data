@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a80d0a4b6f2b5acea79a9f99714d899cd867df02db6dcaf1f11b04b177e9dbb",
+  "company": {
+    "key": "yc-nao-labs",
+    "name": "nao Labs"
+  },
+  "source": {
+    "id": "yc-nao-labs-news-import-1dd8f9256e0a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getnao.io/blog/azure-entra-id-sso-ga/",
+    "canonical": "https://getnao.io/blog/azure-entra-id-sso-ga/"
+  },
+  "title": "Microsoft Entra ID SSO is GA in nao Enterprise",
+  "summary": "nao Enterprise now supports Microsoft Entra ID SSO in general availability, with identity-preserving runtime queries for teams using Azure AD federation.",
+  "published_at": "2026-04-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:14:42.862420+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T19:01:48.012330+00:00",
+  "paths": {
+    "article": "articles/v1/1c/yc-nao-labs/2026/04/7a/7a80d0a4b6f2b5acea79a9f99714d899cd867df02db6dcaf1f11b04b177e9dbb/article.md",
+    "record": "articles/v1/1c/yc-nao-labs/2026/04/7a/7a80d0a4b6f2b5acea79a9f99714d899cd867df02db6dcaf1f11b04b177e9dbb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3491,
+    "sha256": "sha256:711d72bfda74096e452b1c628b6148e5a4b673ea6b71a58ad00132daf61970e5",
+    "normalized_content_hash": "sha256:bead63c76cdf48864202591b09f8c4ad4d2e7ecc504e4f9abaf8dec1d1ac2a48"
+  },
+  "provenance": {
+    "source_item_id": "f1b99d5a-d4f2-4809-903b-a1db377a699d",
+    "external_id": "https://getnao.io/blog/azure-entra-id-sso-ga/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aac0029141e1c569f0e079c878be04ecd86a9be52917094f476a09dfffbe0445",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/claude-code-model-comparison",
+    "canonical": "https://signoz.io/blog/claude-code-model-comparison"
+  },
+  "title": "Are Claude’s Models Actually Getting Better? I Instrumented Claude Code to Find Out",
+  "summary": "Benchmark scores tell you whether a model solved a task, not what it cost to get there. I instrumented Claude Code with OpenTelemetry and SigNoz to compare Claude Sonnet 4.6, Opus 4.7, and Opus 4.8 across accuracy, cost per solved task, tokens, cache utilization, error rate, and active time, on a fixed Terminal-Bench task suite.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.184217+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/aa/aac0029141e1c569f0e079c878be04ecd86a9be52917094f476a09dfffbe0445/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/aa/aac0029141e1c569f0e079c878be04ecd86a9be52917094f476a09dfffbe0445/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22283,
+    "sha256": "sha256:95e468674562e65b6e8001610de82be4a601872dad102e768aae8167bdeee623",
+    "normalized_content_hash": "sha256:89ec5f4ed8d37bdb6ca0783bc972c63c3e000f743f1cbbc181c75fff8dacca46"
+  },
+  "provenance": {
+    "source_item_id": "a9445ae1-00a1-41b8-a836-399ffeadc3fd",
+    "external_id": "https://signoz.io/blog/claude-code-model-comparison"
+  }
+}

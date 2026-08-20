@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d6b74e5b7181f6c4d94da89f78bcd0730603782b091d2d4eeb66d355dc9bd83",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/ai-adoption",
+    "canonical": "https://replit.com/blog/ai-adoption"
+  },
+  "title": "AI adoption starts with truth",
+  "summary": "The semantic layer is the foundation AI adoption is limited by trust. A user who gets burned by a confidently wrong answer will double-check the next one, eventually routing consequential work around the system entirely. Once that happens, AI remains a tool at the edges rather than infrastructure at the center… useful, but never trusted with the workflows where its value compounds. Before a company can benefit from more capable agents, those agents need a reliable way to know what the company considers true. A semantic layer tells an agent which tables are sources of truth and how they relate. That's the floor. It is necessary, and it isn't sufficient. A semantic layer is not plumbing. It is the first act of governance for an AI-native company: the shared definitions of the business, the canonical metrics, the sources of truth, and the relationships an agent is allowed to rely on. Without it, an agent does not have a data problem. It has a language problem: several tables can each look plausible, and the model has no grounded way to know which one means \"revenue,\" \"active user,\" or \"customer.\" Getting that floor right changes the shape of everything above it. A semantic layer is not the product; it is the shared contract that lets a company safely add a system of specialized capabilities instead of one generic chatbot. Once an agent can ground itself in the right entities, metrics, and relationships, it can reliably run multi-step workflows, call focused tools, retain reviewed knowledge across runs, reuse validation and analysis code, and operate through durable services where work already happens.",
+  "published_at": "2026-08-03T16:15:17.465+00:00",
+  "first_seen_at": "2026-08-03T21:35:32.675412+00:00",
+  "fetched_at": "2026-08-03T22:52:40.984273+00:00",
+  "last_updated_at": "2026-08-19T20:16:15.956370+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/08/6d/6d6b74e5b7181f6c4d94da89f78bcd0730603782b091d2d4eeb66d355dc9bd83/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/08/6d/6d6b74e5b7181f6c4d94da89f78bcd0730603782b091d2d4eeb66d355dc9bd83/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12323,
+    "sha256": "sha256:f70b15a3821ccf3b5b3de2a54abc5bcd5ba7ccdda47bceee84edbe1a9d40d593",
+    "normalized_content_hash": "sha256:fb2035c9838874ebadf6da984a0b206c325126eaa8227ae5f0243b778347dd18"
+  },
+  "provenance": {
+    "source_item_id": "8c39d9ac-2513-4f66-8767-1c754bc17c55",
+    "external_id": "https://replit.com/blog/ai-adoption"
+  }
+}

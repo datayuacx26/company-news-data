@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "828a9b2f8856044f8b7a4a2afd5a18d5429097b9899adbfa3eb7fdfb4f48f361",
+  "company": {
+    "key": "cgi-inc-common-stock",
+    "name": "CGI Inc."
+  },
+  "source": {
+    "id": "cgi-inc-common-stock-rss-66ef697d2497",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cgi.com/en/blog/utilities/centralized-vs-blockchain-a-head-to-head-comparison-of-storage-requirements",
+    "canonical": "https://www.cgi.com/en/blog/utilities/centralized-vs-blockchain-a-head-to-head-comparison-of-storage-requirements"
+  },
+  "title": "Centralized vs. blockchain: A head-to-head comparison of storage requirements",
+  "summary": "In an earlier blog post, we addressed blockchain energy dependency. This time we take a look at blockchain storage requirements. Indeed, blockchain’s distributed data structure results in a significantly higher storage demand compared to traditional centralized databases. However, central systems often suffer from a lack of trust, resulting in “hidden” data silos and often additional labor costs.",
+  "published_at": null,
+  "first_seen_at": "2026-07-20T23:21:24.029549+00:00",
+  "fetched_at": "2026-07-28T20:37:08.491459+00:00",
+  "last_updated_at": "2026-08-20T02:55:48.623428+00:00",
+  "paths": {
+    "article": "articles/v1/13/cgi-inc-common-stock/2026/07/82/828a9b2f8856044f8b7a4a2afd5a18d5429097b9899adbfa3eb7fdfb4f48f361/article.md",
+    "record": "articles/v1/13/cgi-inc-common-stock/2026/07/82/828a9b2f8856044f8b7a4a2afd5a18d5429097b9899adbfa3eb7fdfb4f48f361/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7301,
+    "sha256": "sha256:2ec8a25d03ed01c005ee33b2527b3ec75f5546a7761f1b33272e290bfd72e440",
+    "normalized_content_hash": "sha256:b3c15492d21a756205a21dffc3211db7d7e473330e404aa903b73198e9e5ea50"
+  },
+  "provenance": {
+    "source_item_id": "58185f9a-050e-4753-9b2c-adf45b8bfdb6",
+    "external_id": "Centralized vs. blockchain: A head-to-head comparison of storage requirements"
+  }
+}

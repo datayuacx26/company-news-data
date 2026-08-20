@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9cca30c8d2899043a35fbffe884d9810ca91c164d745cdebd0a1d7222da500fc",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-nextjs-logging",
+    "canonical": "https://signoz.io/blog/opentelemetry-nextjs-logging"
+  },
+  "title": "Structured Logging in NextJS with OpenTelemetry",
+  "summary": "Implement structured logging in your Next.js app with OpenTelemetry, including the OTLP log exporter and full trace correlation.",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/9c/9cca30c8d2899043a35fbffe884d9810ca91c164d745cdebd0a1d7222da500fc/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/9c/9cca30c8d2899043a35fbffe884d9810ca91c164d745cdebd0a1d7222da500fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33242,
+    "sha256": "sha256:293db66f66f725b8a0a231ab7882282d24f309ec8987bbcfcab2a5c09236d94d",
+    "normalized_content_hash": "sha256:709486f0023050752ac4a81325501489b73e289c49bbbf10acfd392ed32baf2d"
+  },
+  "provenance": {
+    "source_item_id": "54a7826a-8c8e-47bf-858e-42590d2e31ae",
+    "external_id": "https://signoz.io/blog/opentelemetry-nextjs-logging"
+  }
+}

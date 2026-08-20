@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac824d922dec80929072e0bb1d4478fa8113ec683d422de9b17bd5b3241cc45c",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-f703c271ba19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/nvidia-nemotron-super-in-code-review",
+    "canonical": "https://www.greptile.com/blog/nvidia-nemotron-super-in-code-review"
+  },
+  "title": "NVIDIA Nemotron 3 Super in Code Reviews | Greptile",
+  "summary": "We tested Nvidia Nemotron Super 120B on real PRs. Despite being less than a tenth the size of frontier models, it caught real bugs with just 2 tool calls in 12.5 seconds.",
+  "published_at": "2026-03-11T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.426026+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-08-20T02:09:10.875361+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2026/03/ac/ac824d922dec80929072e0bb1d4478fa8113ec683d422de9b17bd5b3241cc45c/article.md",
+    "record": "articles/v1/10/yc-greptile/2026/03/ac/ac824d922dec80929072e0bb1d4478fa8113ec683d422de9b17bd5b3241cc45c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4778,
+    "sha256": "sha256:099afd28c5168bb19e7113d83dd69c9cd0d878085689706156c16a1b6bcd1ea9",
+    "normalized_content_hash": "sha256:cd9fa12f191119a66d17d7b34faacb49dea94e5601512154ff76aa2b30305981"
+  },
+  "provenance": {
+    "source_item_id": "9248849d-ca7c-4d5b-b904-58794e0f6306",
+    "external_id": "https://www.greptile.com/blog/nvidia-nemotron-super-in-code-review"
+  }
+}

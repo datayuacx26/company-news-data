@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2c1a3a6934a346beae8ceccf0aef1cd16112ea3271052fbb1ab63a622a83552",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/why-we-had-to-move-away-from-react-query/",
+    "canonical": "https://www.basedash.com/blog/why-we-had-to-move-away-from-react-query/"
+  },
+  "title": "Why we had to move away from React Query",
+  "summary": "Discover how Basedash left React Query behind for a more robust Redux setup. Explore the benefits of normalized state, fewer bugs, and improved scalability.",
+  "published_at": "2022-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2022/07/f2/f2c1a3a6934a346beae8ceccf0aef1cd16112ea3271052fbb1ab63a622a83552/article.md",
+    "record": "articles/v1/2d/yc-basedash/2022/07/f2/f2c1a3a6934a346beae8ceccf0aef1cd16112ea3271052fbb1ab63a622a83552/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7406,
+    "sha256": "sha256:beffa0479086d73a765c729e3dea95ac50487365f7a82b8f63434f7e18c8050c",
+    "normalized_content_hash": "sha256:862b90b711067f2756b2bcfa813207955047d3bbeec08a61e42fd59140d6f4d7"
+  },
+  "provenance": {
+    "source_item_id": "8290a639-f21e-40f5-82b2-1f45fea4dc9f",
+    "external_id": "https://www.basedash.com/blog/why-we-had-to-move-away-from-react-query/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "040b362d1dcb2cb203c506520246db303153a0863bb30d2dd98a04a0e72f8cda",
+  "company": {
+    "key": "yc-invert",
+    "name": "Invert"
+  },
+  "source": {
+    "id": "yc-invert-news-import-968576ef11e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://invertbio.com/blog/ipsc-trigger-timing-soft-sensor",
+    "canonical": "https://invertbio.com/blog/ipsc-trigger-timing-soft-sensor"
+  },
+  "title": "Using in-line signals to predict viable-cell yield across iPSC-derived production lots",
+  "summary": "Across 16 simulated iPSC-derived production lots (same donor material, medium, and feed), viable-cell yield still swung from about 1.35 to 4.68 ×10⁹ cells per lot. Invert Assist read all 16 lots as one dataset, built an in-line soft sensor that predicts harvest viable-cell count to within about 5–10% from reactor signals alone, and traced the swing to a single controllable variable: differentiation-trigger timing. A lot switched 48 hours late overshot in expansion, then crashed, and the soft sensor flagged it about 60 hours before the release assay could. (Simulated demonstration data.)",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:25:27.297188+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-20T00:53:24.767592+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-invert/2026/07/04/040b362d1dcb2cb203c506520246db303153a0863bb30d2dd98a04a0e72f8cda/article.md",
+    "record": "articles/v1/0e/yc-invert/2026/07/04/040b362d1dcb2cb203c506520246db303153a0863bb30d2dd98a04a0e72f8cda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4225,
+    "sha256": "sha256:b8bcecacbb61e9b43bfe9798446dee80f6e532bec477cce0f38fdd77083bb768",
+    "normalized_content_hash": "sha256:8af014ac8671b29b4a2a9891e1506a5b995561e4c4c3a5e48f4a10f3f31adbad"
+  },
+  "provenance": {
+    "source_item_id": "c0273ee6-2df1-4275-8eaf-00467b5c6b55",
+    "external_id": "https://invertbio.com/blog/ipsc-trigger-timing-soft-sensor"
+  }
+}

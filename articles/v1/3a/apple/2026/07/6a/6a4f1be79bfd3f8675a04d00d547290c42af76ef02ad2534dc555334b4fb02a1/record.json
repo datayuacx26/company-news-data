@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a4f1be79bfd3f8675a04d00d547290c42af76ef02ad2534dc555334b4fb02a1",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/environment-free",
+    "canonical": "https://machinelearning.apple.com/research/environment-free"
+  },
+  "title": "Environment-free Synthetic Data Generation for API-Calling Agents",
+  "summary": "Training API-calling large language model (LLM) agents demands massive amounts of high-quality trajectories. However, collecting such data…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T19:16:24.438497+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/6a/6a4f1be79bfd3f8675a04d00d547290c42af76ef02ad2534dc555334b4fb02a1/article.md",
+    "record": "articles/v1/3a/apple/2026/07/6a/6a4f1be79bfd3f8675a04d00d547290c42af76ef02ad2534dc555334b4fb02a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2012,
+    "sha256": "sha256:ccb1150df28078e441da6ec22acf591846f3a6bae5211a8c347c890b1fb1bc5c",
+    "normalized_content_hash": "sha256:be49703b89e13fa36a09a82e8fa315d0ac189907d3d28aaf85d92c62bb4d8a74"
+  },
+  "provenance": {
+    "source_item_id": "ea944498-d2dd-41cc-afc5-259be865a70d",
+    "external_id": "https://machinelearning.apple.com/research/environment-free"
+  }
+}

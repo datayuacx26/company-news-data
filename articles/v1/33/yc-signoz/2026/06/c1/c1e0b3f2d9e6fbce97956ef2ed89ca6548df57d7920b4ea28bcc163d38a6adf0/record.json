@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1e0b3f2d9e6fbce97956ef2ed89ca6548df57d7920b4ea28bcc163d38a6adf0",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/openmetrics-vs-opentelemetry",
+    "canonical": "https://signoz.io/blog/openmetrics-vs-opentelemetry"
+  },
+  "title": "OpenMetrics vs OpenTelemetry - A guide on understanding these two specifications",
+  "summary": "OpenMetrics vs OpenTelemetry in 2026: a metrics format vs a full telemetry framework. How they relate, when to use each, plus where SigNoz fits.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.285931+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/c1/c1e0b3f2d9e6fbce97956ef2ed89ca6548df57d7920b4ea28bcc163d38a6adf0/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/c1/c1e0b3f2d9e6fbce97956ef2ed89ca6548df57d7920b4ea28bcc163d38a6adf0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9799,
+    "sha256": "sha256:92d1dd90841be7f221d239ac504b18260132bded1e3ac19e9f7f0fb9ac8ce09c",
+    "normalized_content_hash": "sha256:b1263bf1959ecadc5d321a4bcebbb8feb4b6a78a4cd6770110c8410998419248"
+  },
+  "provenance": {
+    "source_item_id": "15ab7b39-d449-4b61-827b-bed1d12b6a2a",
+    "external_id": "https://signoz.io/blog/openmetrics-vs-opentelemetry"
+  }
+}

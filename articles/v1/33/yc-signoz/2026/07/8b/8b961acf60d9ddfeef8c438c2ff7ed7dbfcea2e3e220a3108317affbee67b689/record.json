@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b961acf60d9ddfeef8c438c2ff7ed7dbfcea2e3e220a3108317affbee67b689",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/opentelemetry-collector-vs-exporter",
+    "canonical": "https://signoz.io/guides/opentelemetry-collector-vs-exporter"
+  },
+  "title": "OpenTelemetry Collector vs Exporter - Key Differences Explained",
+  "summary": "Learn the key differences between the OpenTelemetry Collector and exporters, their roles in the telemetry pipeline, and when to use each.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:33:07.280239+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/8b/8b961acf60d9ddfeef8c438c2ff7ed7dbfcea2e3e220a3108317affbee67b689/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/8b/8b961acf60d9ddfeef8c438c2ff7ed7dbfcea2e3e220a3108317affbee67b689/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22061,
+    "sha256": "sha256:a40c992fbc3b60b6b357dd0d16a25ed60d0a8a7302691b458a0b186208299898",
+    "normalized_content_hash": "sha256:d18fb715e9261c7b29eff1b7c93cf2928d19227c41d2b9b5f1fa28620dad1303"
+  },
+  "provenance": {
+    "source_item_id": "d4d1b8d8-fa4e-4913-9f6e-869f8092e6e5",
+    "external_id": "https://signoz.io/guides/opentelemetry-collector-vs-exporter"
+  }
+}

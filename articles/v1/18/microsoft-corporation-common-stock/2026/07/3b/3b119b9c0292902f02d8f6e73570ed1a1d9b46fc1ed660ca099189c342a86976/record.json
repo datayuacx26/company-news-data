@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b119b9c0292902f02d8f6e73570ed1a1d9b46fc1ed660ca099189c342a86976",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/"
+  },
+  "title": "GPT-5.6 now available in Microsoft Foundry",
+  "summary": "Introducing OpenAI's latest frontier model series, the Asia Pacific Data Zone, and product agent capabilities, all generally available in Microsoft Foundry.",
+  "published_at": "2026-07-09T17:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-20T01:22:25.454424+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/3b/3b119b9c0292902f02d8f6e73570ed1a1d9b46fc1ed660ca099189c342a86976/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/3b/3b119b9c0292902f02d8f6e73570ed1a1d9b46fc1ed660ca099189c342a86976/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18047,
+    "sha256": "sha256:f66161067ac5995e18a627b553d5918df6290945ba7dfc330c754cdb3bc50741",
+    "normalized_content_hash": "sha256:6c082823a4e1ea25d772c4305a830e24968872f5b507d035e4bcff6420528e3c"
+  },
+  "provenance": {
+    "source_item_id": "eb0ee08e-1143-4df5-bdb5-03e4fc3741ed",
+    "external_id": "https://azure.microsoft.com/en-us/blog/gpt-5-6-now-available-in-microsoft-foundry/"
+  }
+}

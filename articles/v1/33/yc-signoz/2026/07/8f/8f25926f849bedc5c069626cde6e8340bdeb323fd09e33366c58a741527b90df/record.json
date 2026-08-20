@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f25926f849bedc5c069626cde6e8340bdeb323fd09e33366c58a741527b90df",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/alerts-management/anomaly-based-alerts",
+    "canonical": "https://signoz.io/docs/alerts-management/anomaly-based-alerts"
+  },
+  "title": "Anomaly based alerts",
+  "summary": "Learn how anomaly-based alerts work in SigNoz, including metric selection, alert conditions, seasonality options, z-score thresholds, and how anomalies are detected from historical patterns.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/8f/8f25926f849bedc5c069626cde6e8340bdeb323fd09e33366c58a741527b90df/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/8f/8f25926f849bedc5c069626cde6e8340bdeb323fd09e33366c58a741527b90df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 717,
+    "sha256": "sha256:98706a1cc9939750dcfd39d07dc19ebe836d453fe218f1ca275ccdabb93c2cf0",
+    "normalized_content_hash": "sha256:6320d24fe04ba913e3320ec9b4e88e2c4dcf7677e6725984e2e884ff69e4a885"
+  },
+  "provenance": {
+    "source_item_id": "cfad7017-9721-47be-b67b-3b6ddac5e477",
+    "external_id": "https://signoz.io/docs/alerts-management/anomaly-based-alerts"
+  }
+}

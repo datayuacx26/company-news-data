@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0db6e97031f2de0648b69bda7f2a2c7d5b0971d16ce298e974f57538eb99d4d",
+  "company": {
+    "key": "yc-cekura-ai",
+    "name": "Cekura"
+  },
+  "source": {
+    "id": "yc-cekura-ai-news-import-2109cda3ccd2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cekura.ai/blogs/red-teaming-chat-voice-ai-agents",
+    "canonical": "https://www.cekura.ai/blogs/red-teaming-chat-voice-ai-agents"
+  },
+  "title": "Red-Teaming Chat & Voice AI Agents: How Cekura Tests What Your Agent Should Never Say",
+  "summary": "Learn how Cekura's red-teaming framework tests chat and voice AI agents for bias, toxicity, and jailbreak vulnerabilities before they reach production.",
+  "published_at": "2026-03-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:11:51.123297+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-19T23:36:43.858061+00:00",
+  "paths": {
+    "article": "articles/v1/16/yc-cekura-ai/2026/03/b0/b0db6e97031f2de0648b69bda7f2a2c7d5b0971d16ce298e974f57538eb99d4d/article.md",
+    "record": "articles/v1/16/yc-cekura-ai/2026/03/b0/b0db6e97031f2de0648b69bda7f2a2c7d5b0971d16ce298e974f57538eb99d4d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9041,
+    "sha256": "sha256:2f0cbb85ec0ca578289d18ca6f5bfbc157ccbbdf7202e04ada220f52ddd719e0",
+    "normalized_content_hash": "sha256:6af539d6d4b8c5b8a8cf13446abf637bcee192bd7b4854b2e2aa4c77d764d523"
+  },
+  "provenance": {
+    "source_item_id": "c2cb351e-f86f-4613-b22d-23b082ecc54d",
+    "external_id": "https://www.cekura.ai/blogs/red-teaming-chat-voice-ai-agents"
+  }
+}

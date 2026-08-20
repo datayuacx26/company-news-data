@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b85c6fed894fd53b36b8b507aae96b2449599dcc8c26489e11bd63084cd3dab",
+  "company": {
+    "key": "yc-circuitlab",
+    "name": "CircuitLab"
+  },
+  "source": {
+    "id": "yc-circuitlab-rss-d25759254652",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.circuitlab.com/blog/2020/06/18/how-to-build-and-simulate-a-2x1-multiplexer-mux-from-nand/",
+    "canonical": "https://www.circuitlab.com/blog/2020/06/18/how-to-build-and-simulate-a-2x1-multiplexer-mux-from-nand/"
+  },
+  "title": "How to build and simulate a 2x1 multiplexer (MUX) from NAND gates",
+  "summary": "comment » In this video tutorial we build and simulate a two input 2x1 digital mux using only NAND gates . Video Circuit Transcript In this video we're going to build a two input multiplexer or two input digital mux made entirely out of NAND gates. So first what is a digital mux. A digital mux is a two input digital component that lets you select one of the two inputs based on the state of a third digital input. CircuitLab has a digital mux component you can use, but that's not the point here, instead I'm going to be building my own entirely out of NAND gates. So lets explore the NAND gate a little bit. Whenever I see a new component I like to simulate it just to see how it behaves. And the best way to do that is to just simulate it. [Set up simulation with single NAND gate] When the two inputs are digital low, the NAND gate makes the input high Let's see what happens when I make one of these inputs a digital one. My V(out) is still high. What happens when I make both inputs 1, now my V(out) is low. What I just went through is the truth table of a NAND gate. [show truth table in CircuitLab] That gives us a couple of very interesting properties. When one of the inputs is high, the output of a NAND gate is the opposite of the other input. I'm going to use that property later. Remember it. The other property is that it's very easy to build an inverter using a NAND gate. [set up NOT gate configuration] So bear with me while I drop a whole bunch of gates into my circuit here. [wire up the two input mux] I'm going to name some nodes just to make it easier. This is my select node, and these two are going to be my input nodes. So what is going to happen in this configuration? What happens when I put a digital low at the select input. This puts a digital low at this NAND gate which means the output of this NAND gate is always high. Going back to the truth table, if any of the inputs are low the output is always high. So this in1 doesn't matter. The other thing this does, is because the output is always high then this nand gate is in that passthrough inverting configuration. So lets go back to over here and see this NAND gate is a straight inverter here, which means this other NAND gate is also in this inverting pass through configuration. So in2 gets inverted twice, and ends up at the output. And we can see if I switch this select node to be a 1, then the opposite happens: in2 doesn't matter and in1 gets inverted twice at the output! We made a digital mux!",
+  "published_at": "2020-06-18T19:00:00+00:00",
+  "first_seen_at": "2026-07-24T22:19:16.775475+00:00",
+  "fetched_at": "2026-07-28T21:05:25.747778+00:00",
+  "last_updated_at": "2026-08-20T02:37:02.874202+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-circuitlab/2020/06/2b/2b85c6fed894fd53b36b8b507aae96b2449599dcc8c26489e11bd63084cd3dab/article.md",
+    "record": "articles/v1/00/yc-circuitlab/2020/06/2b/2b85c6fed894fd53b36b8b507aae96b2449599dcc8c26489e11bd63084cd3dab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7696,
+    "sha256": "sha256:4aca6ed101870904ee2cf3c84f07bade66f114abca8ff65ce8a1eb13acf66b5e",
+    "normalized_content_hash": "sha256:17fac1f73d701acb719008487bf945dc98e36678994d9a5bfee2c370f6744ff5"
+  },
+  "provenance": {
+    "source_item_id": "07b31943-dd54-44a8-b5dc-9965a4d17a72",
+    "external_id": "https://www.circuitlab.com/blog/2020/06/18/how-to-build-and-simulate-a-2x1-multiplexer-mux-from-nand/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "jazz-pharmaceuticals-plc-common-stock-ireland",
+    "name": "Jazz Pharmaceuticals plc Common Stock (Ireland)"
+  },
+  "record_count": 23,
+  "first_published_at": "2024-06-03T06:00:44+00:00",
+  "last_published_at": "2026-07-16T10:31:50+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/16/jazz-pharmaceuticals-plc-common-stock-ireland/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 62680,
+        "sha256": "sha256:9c1537485b41a20c9e34c49e4eb71754dcf2728f6139461abfb51edbf6d73fbb",
+        "newest_at": "2026-07-16T10:31:50+00:00",
+        "oldest_at": "2024-06-03T06:00:44+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b32f94a004b62459e206336c84d2481f3b355066763afa57911e5c00d420ca09",
+  "company": {
+    "key": "international-business-machines-corporation-common-stock",
+    "name": "International Business Machines Corporation"
+  },
+  "source": {
+    "id": "international-business-machines-corporation-common-stock-news-import-da8ebfcd6a45",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ibm.com/quantum/blog/qiskit-paulice",
+    "canonical": "https://www.ibm.com/quantum/blog/qiskit-paulice"
+  },
+  "title": "Qiskit Paulice: postselected quantum error correction for near-term hardware",
+  "summary": "Qiskit Paulice, a new Qiskit addon, improves the reliability of quantum circuits by detecting and filtering out errors.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T00:20:11.053223+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:21:59.438619+00:00",
+  "paths": {
+    "article": "articles/v1/25/international-business-machines-corporation-common-stock/2026/07/b3/b32f94a004b62459e206336c84d2481f3b355066763afa57911e5c00d420ca09/article.md",
+    "record": "articles/v1/25/international-business-machines-corporation-common-stock/2026/07/b3/b32f94a004b62459e206336c84d2481f3b355066763afa57911e5c00d420ca09/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14773,
+    "sha256": "sha256:864fe6e5110662721124942bfba080937ca51b10310326fd3c974968245645b3",
+    "normalized_content_hash": "sha256:5fc19d5a6aa4be34e66107895fd8d141bc0ca08af16695b2a913e0394a5b1966"
+  },
+  "provenance": {
+    "source_item_id": "750b84d1-a1f3-4eeb-9a32-3a134d806919",
+    "external_id": "https://www.ibm.com/quantum/blog/qiskit-paulice"
+  }
+}

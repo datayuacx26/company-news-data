@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "qiagen-n-v-common-shares",
+    "name": "Qiagen N.V. Common Shares"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-05-19T20:05:00+00:00",
+  "last_published_at": "2026-08-10T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2f/qiagen-n-v-common-shares/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 22088,
+        "sha256": "sha256:f1e629b8a851a22d44830ce1ba9eeb5fc62e81830f8c513e4de45d2f1559fe15",
+        "newest_at": "2026-08-10T20:05:00+00:00",
+        "oldest_at": "2026-05-19T20:05:00+00:00"
+      }
+    ]
+  }
+}

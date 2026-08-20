@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8c6ee1ba04470ec563c966824ef5a2442ba53f5f0f5533f4e92f5e7a781fccf",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/target-store-remodels-new-stores-strategy",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/target-store-remodels-new-stores-strategy"
+  },
+  "title": "How Target Is Transforming Our Stores to Better Serve Guests",
+  "summary": "Target is opening 300+ stores and remodeling locations to improve layouts, expand food options and deliver faster pickup and fulfillment services.",
+  "published_at": "2026-05-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-12T08:09:27.615755+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/a8/a8c6ee1ba04470ec563c966824ef5a2442ba53f5f0f5533f4e92f5e7a781fccf/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/a8/a8c6ee1ba04470ec563c966824ef5a2442ba53f5f0f5533f4e92f5e7a781fccf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4902,
+    "sha256": "sha256:f2a6a70c9577889339f9cbb707f3a6b46abb06e497a15123c5eed76838209fd0",
+    "normalized_content_hash": "sha256:f205d61acb05e77c2fc44d688597b7d35733e18bb83e998d96b686c21f61ff48"
+  },
+  "provenance": {
+    "source_item_id": "9ba09d58-92b5-420c-962b-652aff419594",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/target-store-remodels-new-stores-strategy"
+  }
+}

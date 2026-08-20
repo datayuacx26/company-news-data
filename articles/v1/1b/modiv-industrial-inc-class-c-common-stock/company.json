@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "modiv-industrial-inc-class-c-common-stock",
+    "name": "Modiv Industrial Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2025-09-12T10:00:32+00:00",
+  "last_published_at": "2026-08-10T22:52:20+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1b/modiv-industrial-inc-class-c-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 16433,
+        "sha256": "sha256:68833974b31d82a99905bcef143190fa555a492c26cc2a088fb2f073b3942ac1",
+        "newest_at": "2026-08-10T22:52:20+00:00",
+        "oldest_at": "2025-09-12T10:00:32+00:00"
+      }
+    ]
+  }
+}

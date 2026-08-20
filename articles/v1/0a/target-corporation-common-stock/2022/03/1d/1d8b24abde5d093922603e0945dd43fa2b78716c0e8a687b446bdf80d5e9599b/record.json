@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d8b24abde5d093922603e0945dd43fa2b78716c0e8a687b446bdf80d5e9599b",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/bert-model",
+    "canonical": "https://tech.target.com/blog/bert-model"
+  },
+  "title": "Using BERT Model to Generate Real-time Embeddings",
+  "summary": "An article by Pushkar Chennu and Amit Pande : How we chose and implemented an effective model to generate embeddings in real-time. Target has been exploring, leveraging, and releasing open source software for several years now, and we are seeing positive impact to how we work together already. In early 2021, our recommendations team started to consider real-time natural language input from guests, such as search queries, Instagram posts, and product reviews, because these signals can be useful for personalized product recommendations. We planned to generate representations of those guest inputs using the open source Bidirectional Encoder Representations from Transformers (BERT) model.",
+  "published_at": "2022-03-23T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/03/1d/1d8b24abde5d093922603e0945dd43fa2b78716c0e8a687b446bdf80d5e9599b/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/03/1d/1d8b24abde5d093922603e0945dd43fa2b78716c0e8a687b446bdf80d5e9599b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12004,
+    "sha256": "sha256:bfe7f5a6de9361928956451ae547160f01fd677cca73dd7d6533dac38cad006b",
+    "normalized_content_hash": "sha256:72ca119842f9ad58fbb361dd5f27a6d5f081c17b941b63b92398682106032948"
+  },
+  "provenance": {
+    "source_item_id": "18fadd75-b736-47ab-ab4c-592eb56b0a81",
+    "external_id": "BLOG-10025"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef535552db4ff4a23d20c8ad9c66288f921c7e7850e93148841127ae453b8695",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/semanticdotart",
+    "canonical": "https://www.lancedb.com/blog/semanticdotart"
+  },
+  "title": "SemanticDotArt: Rethinking Art Discovery with LanceDB",
+  "summary": "SemanticDotArt turns art discovery into a multimodal search experience, matching feelings, phrases, and images with LanceDB's hybrid retrieval.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:41.697181+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/ef/ef535552db4ff4a23d20c8ad9c66288f921c7e7850e93148841127ae453b8695/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/ef/ef535552db4ff4a23d20c8ad9c66288f921c7e7850e93148841127ae453b8695/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9635,
+    "sha256": "sha256:9b884f7cd80aa56fc2a9178202414ccfd24b56047da4b697acb4353b123b7a5c",
+    "normalized_content_hash": "sha256:87f0b606fac54b1f4a6a14d8e0b0f6d3ecfa08e4448b9f3cf7fe48135874540a"
+  },
+  "provenance": {
+    "source_item_id": "ba6ef028-c200-4077-b802-482a9b6dd4ff",
+    "external_id": "https://www.lancedb.com/blog/semanticdotart"
+  }
+}

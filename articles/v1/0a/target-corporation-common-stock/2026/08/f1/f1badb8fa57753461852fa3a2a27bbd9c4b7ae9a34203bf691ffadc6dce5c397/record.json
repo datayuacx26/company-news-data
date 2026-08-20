@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1badb8fa57753461852fa3a2a27bbd9c4b7ae9a34203bf691ffadc6dce5c397",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/08/target-proxima-digital-twin-supply-chain",
+    "canonical": "https://corporate.target.com/news-features/article/2026/08/target-proxima-digital-twin-supply-chain"
+  },
+  "title": "How Digital Twin Technology Is Helping Target Keep the Right Products on Shelves for Guests",
+  "summary": "See how Target’s Proxima digital twin helps teams test inventory changes, modernize our supply chain and deliver a more reliable guest experience.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T13:08:13.817140+00:00",
+  "fetched_at": "2026-08-13T13:08:15.964980+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/f1/f1badb8fa57753461852fa3a2a27bbd9c4b7ae9a34203bf691ffadc6dce5c397/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/f1/f1badb8fa57753461852fa3a2a27bbd9c4b7ae9a34203bf691ffadc6dce5c397/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4813,
+    "sha256": "sha256:7888876258d2e85cb82ffc927b95748636619c92244fdd494307b7532fb60ae1",
+    "normalized_content_hash": "sha256:5cac96e147a0ef92ed686f5fc4ee01272e98b77c15d2d28630af577b7b72ddc8"
+  },
+  "provenance": {
+    "source_item_id": "374df16a-7566-4cd9-98aa-257b2cc1823f",
+    "external_id": "https://corporate.target.com/news-features/article/2026/08/target-proxima-digital-twin-supply-chain"
+  }
+}

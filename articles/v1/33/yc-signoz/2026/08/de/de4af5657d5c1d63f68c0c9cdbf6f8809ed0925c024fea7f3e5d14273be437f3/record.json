@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de4af5657d5c1d63f68c0c9cdbf6f8809ed0925c024fea7f3e5d14273be437f3",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-nextjs",
+    "canonical": "https://signoz.io/blog/opentelemetry-nextjs"
+  },
+  "title": "How to Instrument Next.js Applications with OpenTelemetry",
+  "summary": "Learn how to instrument your Next.js application using OpenTelemetry and collect traces, metrics, and logs a for full-stack observability setup.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T10:39:43.410387+00:00",
+  "fetched_at": "2026-08-12T10:39:45.371133+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/08/de/de4af5657d5c1d63f68c0c9cdbf6f8809ed0925c024fea7f3e5d14273be437f3/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/08/de/de4af5657d5c1d63f68c0c9cdbf6f8809ed0925c024fea7f3e5d14273be437f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25205,
+    "sha256": "sha256:265a6123f974a355bf881d88e178ef6795e5c1636369d10c202015f04e6f3461",
+    "normalized_content_hash": "sha256:c467e14c2c6ed9637f499bf4e970262405f7ed4bd8034699592741575de65898"
+  },
+  "provenance": {
+    "source_item_id": "ed563684-2a36-4f92-bb32-01a70599ec91",
+    "external_id": "https://signoz.io/blog/opentelemetry-nextjs"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d460a479362d532dcf58da1cffd70ca329e656d5acc4810dabb81929255b23a2",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/12/13/using-prometheus-loki-grafana-monitor-questdb-kubernetes/",
+    "canonical": "https://questdb.com/blog/2022/12/13/using-prometheus-loki-grafana-monitor-questdb-kubernetes/"
+  },
+  "title": "Using Prometheus, Loki, and Grafana to monitor QuestDB in Kubernetes",
+  "summary": "How to monitor a QuestDB instance using Loki and Prometheus",
+  "published_at": "2022-12-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.212665+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/12/d4/d460a479362d532dcf58da1cffd70ca329e656d5acc4810dabb81929255b23a2/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/12/d4/d460a479362d532dcf58da1cffd70ca329e656d5acc4810dabb81929255b23a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14877,
+    "sha256": "sha256:016ec04e6e7c9beb64065a5bfe12a08bd42b971f472e36e3dd3c25c47d548abc",
+    "normalized_content_hash": "sha256:a5fc6f8fdaec20b03bda05d6e33c0f65f5f9efda6170b984ad6055a6e72ccfaf"
+  },
+  "provenance": {
+    "source_item_id": "6edcea91-7049-475d-82e0-9da991569a67",
+    "external_id": "https://questdb.com/blog/2022/12/13/using-prometheus-loki-grafana-monitor-questdb-kubernetes/"
+  }
+}

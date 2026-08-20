@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81dcf44931d020f5744aeb36fa28a48ab305390a6b2534ffdc7dd4286fdb3660",
+  "company": {
+    "key": "yc-luminal",
+    "name": "Luminal"
+  },
+  "source": {
+    "id": "yc-luminal-rss-feb481fe1771",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.luminal.com/p/compiling-models-to-megakernels",
+    "canonical": "https://blog.luminal.com/p/compiling-models-to-megakernels"
+  },
+  "title": "Compiling Models to Megakernels",
+  "summary": "Fine-grained synchronization, deep pipelines, and zero kernel launch overheads, automatically.",
+  "published_at": "2026-01-09T23:14:52+00:00",
+  "first_seen_at": "2026-07-24T10:14:26.080821+00:00",
+  "fetched_at": "2026-07-28T22:23:45.657833+00:00",
+  "last_updated_at": "2026-08-20T01:53:34.439439+00:00",
+  "paths": {
+    "article": "articles/v1/30/yc-luminal/2026/01/81/81dcf44931d020f5744aeb36fa28a48ab305390a6b2534ffdc7dd4286fdb3660/article.md",
+    "record": "articles/v1/30/yc-luminal/2026/01/81/81dcf44931d020f5744aeb36fa28a48ab305390a6b2534ffdc7dd4286fdb3660/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18213,
+    "sha256": "sha256:0397b2693a0850903b891cf4764578187aeac7eeebbea8675092081fbf086a63",
+    "normalized_content_hash": "sha256:d0a3ce7a8dad68b4422551e34f9384771e0a65d6413a812d016e26fa88416f00"
+  },
+  "provenance": {
+    "source_item_id": "b56b12ea-cfca-4648-97e7-2ed2f8a37796",
+    "external_id": "https://blog.luminal.com/p/compiling-models-to-megakernels"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec4750de0a4c8b23b39777ab53f3ea55be2da0010ee5b3076533fda150fbcab9",
+  "company": {
+    "key": "yc-stably-ai",
+    "name": "Stably AI"
+  },
+  "source": {
+    "id": "yc-stably-ai-news-import-4d9fcc9f146f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stably.ai/blog/cloud-browsers-scale-your-test-suite-without-the-infra-headache",
+    "canonical": "https://www.stably.ai/blog/cloud-browsers-scale-your-test-suite-without-the-infra-headache"
+  },
+  "title": "Cloud Browsers: Predictable Browser Capacity for Enterprise QA",
+  "summary": "With --browser=cloud, Stably CLI browser-backed commands run on managed cloud browsers instead of the local machine. Enterprise QA teams use it to increase parallelism, reduce resource-driven flakiness, and recover broken suites faster without overprovisioning CI.",
+  "published_at": "2026-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:44:25.851186+00:00",
+  "fetched_at": "2026-07-28T22:16:03.530620+00:00",
+  "last_updated_at": "2026-08-20T03:08:54.793852+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-stably-ai/2026/04/ec/ec4750de0a4c8b23b39777ab53f3ea55be2da0010ee5b3076533fda150fbcab9/article.md",
+    "record": "articles/v1/33/yc-stably-ai/2026/04/ec/ec4750de0a4c8b23b39777ab53f3ea55be2da0010ee5b3076533fda150fbcab9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8322,
+    "sha256": "sha256:a233ae7af8324445b66dcfd40ad43299e119c5217487afc7a0a06d87569f38aa",
+    "normalized_content_hash": "sha256:c52a59c3bbac07dbe2b4e5989bc40dfe6ef728b392c2617ec947a0ca3d6f7a71"
+  },
+  "provenance": {
+    "source_item_id": "c152cdf3-ff29-4f94-98c8-0b97efa5868a",
+    "external_id": "https://www.stably.ai/blog/cloud-browsers-scale-your-test-suite-without-the-infra-headache"
+  }
+}

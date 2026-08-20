@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6f0b5eef9cb5fb58c882ddfe9c2d77edc55843b172c1fe1e8ae91059efcabfc",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/clickhouse",
+    "canonical": "https://signoz.io/docs/integrations/clickhouse"
+  },
+  "title": "Clickhouse Metrics and Logs",
+  "summary": "Monitor ClickHouse metrics and logs in SigNoz using OpenTelemetry Collector and built-in dashboards.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/d6/d6f0b5eef9cb5fb58c882ddfe9c2d77edc55843b172c1fe1e8ae91059efcabfc/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/d6/d6f0b5eef9cb5fb58c882ddfe9c2d77edc55843b172c1fe1e8ae91059efcabfc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 619,
+    "sha256": "sha256:d03d20d5b7603e0e8c66544408c95a6372723cac19d4d407d6ed399f69d226ab",
+    "normalized_content_hash": "sha256:c02cd732bb17cc2da6eb2d215271a22cc2b6a6e555fae812477a2bffc61c5186"
+  },
+  "provenance": {
+    "source_item_id": "b41f1640-3c20-4522-9aaf-e7b794f29489",
+    "external_id": "https://signoz.io/docs/integrations/clickhouse"
+  }
+}

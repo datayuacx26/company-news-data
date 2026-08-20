@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58fee6a1b54b3b4a371d38f5a3872d6f1f2114d984c41d10b50cb278bca184cc",
+  "company": {
+    "key": "yc-frigade",
+    "name": "Frigade"
+  },
+  "source": {
+    "id": "yc-frigade-news-import-b5bda2b6da4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frigade.com/blog/when-an-agent-should-refuse",
+    "canonical": "https://frigade.com/blog/when-an-agent-should-refuse"
+  },
+  "title": "When an AI agent should refuse to answer",
+  "summary": "AI agents are wired to answer. The good ones know when to refuse. Why \"I don't know\" is the most expensive feature to build, and the one users trust most.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:12:25.171648+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-20T02:39:48.746351+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-frigade/2026/04/58/58fee6a1b54b3b4a371d38f5a3872d6f1f2114d984c41d10b50cb278bca184cc/article.md",
+    "record": "articles/v1/27/yc-frigade/2026/04/58/58fee6a1b54b3b4a371d38f5a3872d6f1f2114d984c41d10b50cb278bca184cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6000,
+    "sha256": "sha256:a04b5901695f528eac7d9df31530cbfd60a24e16d67e566604ac16fb68d17414",
+    "normalized_content_hash": "sha256:8c49172c6b5c90479899a7fcb7d00e746d169e0eafd53a45664a0884905c88a6"
+  },
+  "provenance": {
+    "source_item_id": "5dd0c27c-4f2c-4b2b-b560-324529ebd9c7",
+    "external_id": "https://frigade.com/blog/when-an-agent-should-refuse"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9093905689f86812dc517671187c2994d8e750fdc2eede851e348e6dcd33c8c4",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/smash-kitchen",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/smash-kitchen"
+  },
+  "title": "Behind the Brand: Glen Powell’s Fresh Take on Pantry Staples with Smash Kitchen",
+  "summary": "Go behind the brand with Glen Powell, co-founder of Smash Kitchen.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-18T01:54:38.884385+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/90/9093905689f86812dc517671187c2994d8e750fdc2eede851e348e6dcd33c8c4/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/90/9093905689f86812dc517671187c2994d8e750fdc2eede851e348e6dcd33c8c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5557,
+    "sha256": "sha256:6904f72761099a521b5ce5a60917f645675c03b321417777f0378c6a450ab677",
+    "normalized_content_hash": "sha256:17cb2cd8190c7cc885924b79fe3ff27d4764ed80ead1d93b29995154c0d88df7"
+  },
+  "provenance": {
+    "source_item_id": "2edaf50c-1c3d-42b3-8b3c-d7b2004c96f3",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/smash-kitchen"
+  }
+}

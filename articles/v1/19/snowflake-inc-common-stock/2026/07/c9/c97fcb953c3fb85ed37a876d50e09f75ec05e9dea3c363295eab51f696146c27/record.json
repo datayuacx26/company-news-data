@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c97fcb953c3fb85ed37a876d50e09f75ec05e9dea3c363295eab51f696146c27",
+  "company": {
+    "key": "snowflake-inc-common-stock",
+    "name": "Snowflake Inc."
+  },
+  "source": {
+    "id": "snowflake-inc-common-stock-rss-c0c3a844dab6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.snowflake.com/content/snowflake-site/global/en/blog/bidirectional-interoperability-snowflake-horizon-databricks",
+    "canonical": "https://www.snowflake.com/content/snowflake-site/global/en/blog/bidirectional-interoperability-snowflake-horizon-databricks"
+  },
+  "title": "The Open Interoperability Standard: Why Bidirectional Iceberg REST Matters",
+  "summary": "Discover why true data agency requires bidirectional interoperability. Learn how Snowflake Horizon implements the Iceberg REST Catalog protocol end-to-end, and why Databricks Unity Catalog's inbound-only approach falls short.",
+  "published_at": "2026-07-15T19:38:00+00:00",
+  "first_seen_at": "2026-07-24T01:53:21.113388+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-14T15:10:05.618011+00:00",
+  "paths": {
+    "article": "articles/v1/19/snowflake-inc-common-stock/2026/07/c9/c97fcb953c3fb85ed37a876d50e09f75ec05e9dea3c363295eab51f696146c27/article.md",
+    "record": "articles/v1/19/snowflake-inc-common-stock/2026/07/c9/c97fcb953c3fb85ed37a876d50e09f75ec05e9dea3c363295eab51f696146c27/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12802,
+    "sha256": "sha256:8d2a6630f650649c01a66682a0305cae40771dcf51fc9e7fbc8cbefc26fb8d07",
+    "normalized_content_hash": "sha256:288e0ef1a9eb93ed04ee0e5ff999b54fddab17b584ec5a13347eaade8696145c"
+  },
+  "provenance": {
+    "source_item_id": "f198609f-38aa-4bc8-ba11-b673787b8c1e",
+    "external_id": "https://www.snowflake.com/content/snowflake-site/global/en/blog/bidirectional-interoperability-snowflake-horizon-databricks"
+  }
+}

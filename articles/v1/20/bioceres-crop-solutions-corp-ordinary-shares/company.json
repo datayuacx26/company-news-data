@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bioceres-crop-solutions-corp-ordinary-shares",
+    "name": "Bioceres Crop Solutions Corp."
+  },
+  "record_count": 10,
+  "first_published_at": "2025-06-20T11:00:00+00:00",
+  "last_published_at": "2026-05-11T21:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/20/bioceres-crop-solutions-corp-ordinary-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12040,
+        "sha256": "sha256:705f7a1c326dcf2641ed77e75d4e64e9ede80cb8e1b91bbe7f3a9fe9af2d468a",
+        "newest_at": "2026-05-11T21:00:00+00:00",
+        "oldest_at": "2025-06-20T11:00:00+00:00"
+      }
+    ]
+  }
+}

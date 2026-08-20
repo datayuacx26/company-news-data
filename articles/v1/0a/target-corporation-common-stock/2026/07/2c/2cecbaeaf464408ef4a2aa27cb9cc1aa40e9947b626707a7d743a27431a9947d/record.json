@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2cecbaeaf464408ef4a2aa27cb9cc1aa40e9947b626707a7d743a27431a9947d",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9e9cef1eb453",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/press/fact-sheet/2026/07/back-to-school-2026",
+    "canonical": "https://corporate.target.com/press/fact-sheet/2026/07/back-to-school-2026"
+  },
+  "title": "Back-to-School 2026: Target Partners with Local Organizations to Prepare Students for the School Year",
+  "summary": "Learn how Target is strengthening our local communities across the country by partnering with nonprofits to provide back-to-school essentials for students",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T15:42:35.444421+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-11T05:21:24.700547+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/07/2c/2cecbaeaf464408ef4a2aa27cb9cc1aa40e9947b626707a7d743a27431a9947d/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/07/2c/2cecbaeaf464408ef4a2aa27cb9cc1aa40e9947b626707a7d743a27431a9947d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2601,
+    "sha256": "sha256:2e4f3a6236b33bef41b24fa86504399e8c4a1920927183fc82dc87292db4dace",
+    "normalized_content_hash": "sha256:a0fa98f99cfa26e43af6d8c4bbcd241f35339adc2a63a6506050fc4ef16ae30e"
+  },
+  "provenance": {
+    "source_item_id": "8b72ae7a-2310-41fd-983a-4afd975504fc",
+    "external_id": "https://corporate.target.com/press/fact-sheet/2026/07/back-to-school-2026"
+  }
+}

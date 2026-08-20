@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8dc2f69778c6cf17d01680a747d4663bec2fd28680c4cc9dd7221bc3dc30a8f5",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance",
+    "canonical": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance"
+  },
+  "title": "Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models",
+  "summary": "Large Language Models (LLMs) have achieved state-of-the-art performance on a broad range of Natural Language Processing (NLP) tasks…",
+  "published_at": null,
+  "first_seen_at": "2026-08-08T03:56:15.906765+00:00",
+  "fetched_at": "2026-08-08T03:56:17.231059+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/8d/8dc2f69778c6cf17d01680a747d4663bec2fd28680c4cc9dd7221bc3dc30a8f5/article.md",
+    "record": "articles/v1/3a/apple/2026/08/8d/8dc2f69778c6cf17d01680a747d4663bec2fd28680c4cc9dd7221bc3dc30a8f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2546,
+    "sha256": "sha256:779e803393782940f781d1a7cf87d7b2523a299a70a259452ea9f1c046f347ff",
+    "normalized_content_hash": "sha256:8a3f46981d3734f9ca69f438a1e9e91a61674d59e449792a9bb9329f8aefe844"
+  },
+  "provenance": {
+    "source_item_id": "ed049234-1bdd-4434-a5d8-372c2915577f",
+    "external_id": "https://machinelearning.apple.com/research/diffusion-autoregressive-performance"
+  }
+}

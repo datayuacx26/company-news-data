@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dba4a0b920da73ccdbf42873e16651ee7c481b50de71905b6f9a63d580ad3990",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/deepseek-monitoring",
+    "canonical": "https://signoz.io/docs/deepseek-monitoring"
+  },
+  "title": "DeepSeek Monitoring & Observability with OpenTelemetry",
+  "summary": "Set up DeepSeek monitoring with OpenTelemetry and SigNoz to track latency, error rates, and token usage for full DeepSeek observability.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/db/dba4a0b920da73ccdbf42873e16651ee7c481b50de71905b6f9a63d580ad3990/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/db/dba4a0b920da73ccdbf42873e16651ee7c481b50de71905b6f9a63d580ad3990/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 678,
+    "sha256": "sha256:a778d74cec0ef638b7e6012f1de4a33e72c7b6f369c6a30eab4a98b7cce3577b",
+    "normalized_content_hash": "sha256:8fbecbe51b0d46e5b9c5ee4324511d75cad9ca72d1f0042f1e6986df72fe5788"
+  },
+  "provenance": {
+    "source_item_id": "9e59312e-999b-47a2-85c6-da198ea0d355",
+    "external_id": "https://signoz.io/docs/deepseek-monitoring"
+  }
+}

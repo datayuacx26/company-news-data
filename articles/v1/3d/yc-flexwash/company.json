@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-flexwash",
+    "name": "FlexWash"
+  },
+  "record_count": 4,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3d/yc-flexwash/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4113,
+        "sha256": "sha256:ab9d4c7454ff11da912798b2e6238ca19fc26c3aff59fc17f70d979c6243ceac",
+        "newest_at": "2026-08-09T22:18:49.238557+00:00",
+        "oldest_at": "2026-08-09T22:18:49.238557+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4081ea687bb92ff1a9b39f3b098a04fae85df5be3a591528756ada3ea0d35bd4",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/"
+  },
+  "title": "AT&T and Microsoft scale trillion-token workloads with Microsoft Foundry and AMD",
+  "summary": "Discover how AT&T used Microsoft Foundry Managed Compute, AMD and NVIDIA GPUs, and open AI models to process one trillion tokens, reduce AI costs, and accelerate telecom AI innovation at scale.",
+  "published_at": "2026-07-23T18:30:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-08-20T01:22:25.454424+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/40/4081ea687bb92ff1a9b39f3b098a04fae85df5be3a591528756ada3ea0d35bd4/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/40/4081ea687bb92ff1a9b39f3b098a04fae85df5be3a591528756ada3ea0d35bd4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10108,
+    "sha256": "sha256:cdad5336a18d60e9aff9da6f6b0bc126908e320ed84481125bb91b8f20372dc8",
+    "normalized_content_hash": "sha256:2f775d8b782cc8e69f86f29765f653c2aa931d8a634f65e838eba182cb3ea017"
+  },
+  "provenance": {
+    "source_item_id": "673b5149-451f-4a56-8e3a-e68489e72376",
+    "external_id": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/"
+  }
+}

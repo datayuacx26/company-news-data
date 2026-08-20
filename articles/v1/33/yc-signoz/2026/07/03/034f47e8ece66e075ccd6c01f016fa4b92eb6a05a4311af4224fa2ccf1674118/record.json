@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "034f47e8ece66e075ccd6c01f016fa4b92eb6a05a4311af4224fa2ccf1674118",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/instrumentation/javascript/opentelemetry-nodejs",
+    "canonical": "https://signoz.io/docs/instrumentation/javascript/opentelemetry-nodejs"
+  },
+  "title": "Node.js OpenTelemetry Instrumentation Guide",
+  "summary": "Learn how to instrument your Node.js or NestJS app with OpenTelemetry. Use auto or manual instrumentation to send traces to SigNoz for faster debugging.",
+  "published_at": "2026-07-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/03/034f47e8ece66e075ccd6c01f016fa4b92eb6a05a4311af4224fa2ccf1674118/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/03/034f47e8ece66e075ccd6c01f016fa4b92eb6a05a4311af4224fa2ccf1674118/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 711,
+    "sha256": "sha256:6c5fed179a18710e1ac1cb03b7a4f8580ef41151a3a65047f48d03b5ec64f1d0",
+    "normalized_content_hash": "sha256:387647cc8e0736524f2a7d87f81f9048c18e5daaf7166783e867fecf44c58943"
+  },
+  "provenance": {
+    "source_item_id": "0e53f3ea-7e75-48a6-80c1-1779d68cb0ab",
+    "external_id": "https://signoz.io/docs/instrumentation/javascript/opentelemetry-nodejs"
+  }
+}

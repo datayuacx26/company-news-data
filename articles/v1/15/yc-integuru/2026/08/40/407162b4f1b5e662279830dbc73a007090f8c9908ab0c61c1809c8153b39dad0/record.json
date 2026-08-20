@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "407162b4f1b5e662279830dbc73a007090f8c9908ab0c61c1809c8153b39dad0",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/building-reliable-ai-agent-tool-loops-direct-http",
+    "canonical": "https://www.integuru.com/blog/building-reliable-ai-agent-tool-loops-direct-http"
+  },
+  "title": "Building Reliable AI Agent Tool Loops with Direct HTTP APIs: A Developer's Guide",
+  "summary": "Browser automation breaks agent tool loops at the latency level, not the code level. Here's how to structure direct HTTP APIs as agent tools (OpenAI, Anthropic, and MCP definitions included) so your tool chain holds in production.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T21:05:06.493354+00:00",
+  "fetched_at": "2026-08-11T21:05:08.330548+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/08/40/407162b4f1b5e662279830dbc73a007090f8c9908ab0c61c1809c8153b39dad0/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/08/40/407162b4f1b5e662279830dbc73a007090f8c9908ab0c61c1809c8153b39dad0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18177,
+    "sha256": "sha256:c4e488877785d26eb970acf99e4325482ca64ffc6bfe1c43514f645446412b9f",
+    "normalized_content_hash": "sha256:25c4cb40c5a5bfbb10606c70e5d7138936da21f4a6aef03cdf98b505aaa98df9"
+  },
+  "provenance": {
+    "source_item_id": "30aee2b6-5dfa-435e-bbba-16894ebdf78b",
+    "external_id": "https://www.integuru.com/blog/building-reliable-ai-agent-tool-loops-direct-http"
+  }
+}

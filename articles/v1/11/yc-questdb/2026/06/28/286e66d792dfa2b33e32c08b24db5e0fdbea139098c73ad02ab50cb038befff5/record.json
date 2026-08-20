@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "286e66d792dfa2b33e32c08b24db5e0fdbea139098c73ad02ab50cb038befff5",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/questdb-9-4-2-release/",
+    "canonical": "https://questdb.com/blog/questdb-9-4-2-release/"
+  },
+  "title": "QuestDB 9.4.2: shareable queries, new aggregates, and a hardening pass",
+  "summary": "QuestDB 9.4.2 adds shareable Web Console queries, the array_agg and regr_r2 aggregates, and hardens Parquet and posting-index paths under heavy ingestion.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/06/28/286e66d792dfa2b33e32c08b24db5e0fdbea139098c73ad02ab50cb038befff5/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/06/28/286e66d792dfa2b33e32c08b24db5e0fdbea139098c73ad02ab50cb038befff5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8109,
+    "sha256": "sha256:aa8cf099e9cc1ca02a4e2ad776a741e88af570571df6c4f87f7496ac56cc43ed",
+    "normalized_content_hash": "sha256:50fab21c9a327a1ba61888b562cd819bb03708783a2bb19a90eb4df65fc224c2"
+  },
+  "provenance": {
+    "source_item_id": "0e31548c-ec5a-4204-ba73-e28284c609ff",
+    "external_id": "https://questdb.com/blog/questdb-9-4-2-release/"
+  }
+}

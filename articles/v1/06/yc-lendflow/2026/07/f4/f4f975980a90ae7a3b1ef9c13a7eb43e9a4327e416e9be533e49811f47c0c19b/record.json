@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4f975980a90ae7a3b1ef9c13a7eb43e9a4327e416e9be533e49811f47c0c19b",
+  "company": {
+    "key": "yc-lendflow",
+    "name": "Lendflow"
+  },
+  "source": {
+    "id": "yc-lendflow-news-import-3be106fb87a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lendflow.com/post/technical-requirements-embedded-smb-lending",
+    "canonical": "https://www.lendflow.com/post/technical-requirements-embedded-smb-lending"
+  },
+  "title": "Technical Requirements for Embedding SMB Lending Into Your Platform",
+  "summary": "Embedding SMB lending into your platform sounds straightforward until you start mapping the technical requirements. What begins as \"add a loan application\" quickly expands into data pipelines, compliance orchestration, disbursement rails, and servicing infrastructure—each with its own integration complexity.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T12:06:07.527980+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T21:46:48.150201+00:00",
+  "paths": {
+    "article": "articles/v1/06/yc-lendflow/2026/07/f4/f4f975980a90ae7a3b1ef9c13a7eb43e9a4327e416e9be533e49811f47c0c19b/article.md",
+    "record": "articles/v1/06/yc-lendflow/2026/07/f4/f4f975980a90ae7a3b1ef9c13a7eb43e9a4327e416e9be533e49811f47c0c19b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14463,
+    "sha256": "sha256:89057723ff35e460f66f532e6023f7c657904c7dfe95a239cbf97ba249519e41",
+    "normalized_content_hash": "sha256:c44b1a5ce530a411f40b5ffec5d2977048eba0c6531ede80199fe311161cb7f2"
+  },
+  "provenance": {
+    "source_item_id": "9560ffc3-c7a8-4799-b6c6-e9ebaa13fe96",
+    "external_id": "https://www.lendflow.com/post/technical-requirements-embedded-smb-lending"
+  }
+}

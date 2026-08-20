@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1917953500b521b555a3c65f2a7771dfed8133b53277c49b1d3bbab0955ca186",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/setting-up-a-multi-architecture-kubernetes-cluster/",
+    "canonical": "https://speedscale.com/blog/setting-up-a-multi-architecture-kubernetes-cluster/"
+  },
+  "title": "Setting up a Multi-Architecture Kubernetes Cluster",
+  "summary": "In the last post we covered the industry shift towards ARM machines for both local and production software engineering.",
+  "published_at": "2022-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2022/08/19/1917953500b521b555a3c65f2a7771dfed8133b53277c49b1d3bbab0955ca186/article.md",
+    "record": "articles/v1/00/yc-speedscale/2022/08/19/1917953500b521b555a3c65f2a7771dfed8133b53277c49b1d3bbab0955ca186/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8648,
+    "sha256": "sha256:eeacf5977b9686d23c533dad413595d30d7d88f6aef2731931ec46c2179cc6c5",
+    "normalized_content_hash": "sha256:0143f27d2338e92d95bc3ee0bbfaf7a9a3892027f397a31686c5001663197217"
+  },
+  "provenance": {
+    "source_item_id": "d06b01a0-1bdb-43ac-8534-fb13aba4eba3",
+    "external_id": "https://speedscale.com/blog/setting-up-a-multi-architecture-kubernetes-cluster/"
+  }
+}

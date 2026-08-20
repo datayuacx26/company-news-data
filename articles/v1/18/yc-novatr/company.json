@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-novatr",
+    "name": "Novatr"
+  },
+  "record_count": 23,
+  "first_published_at": "2026-07-22T05:57:17+00:00",
+  "last_published_at": "2026-08-19T05:28:44+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/18/yc-novatr/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 22955,
+        "sha256": "sha256:cfa7e30bbd0b4b3c2d6df85f79c9deae7f9dcb50662a68a2145d2a07501ad96c",
+        "newest_at": "2026-08-19T05:28:44+00:00",
+        "oldest_at": "2026-07-22T05:57:17+00:00"
+      }
+    ]
+  }
+}

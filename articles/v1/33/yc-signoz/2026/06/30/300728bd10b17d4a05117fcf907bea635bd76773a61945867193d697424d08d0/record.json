@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "300728bd10b17d4a05117fcf907bea635bd76773a61945867193d697424d08d0",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/cassandra-monitoring",
+    "canonical": "https://signoz.io/guides/cassandra-monitoring"
+  },
+  "title": "Apache Cassandra Monitoring with OpenTelemetry [including dashboards and alerts]",
+  "summary": "Cassandra monitoring in 2026: collect key metrics over JMX with the OpenTelemetry Collector and track them in SigNoz. Checklist, demo, and troubleshooting.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:46.032882+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/30/300728bd10b17d4a05117fcf907bea635bd76773a61945867193d697424d08d0/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/30/300728bd10b17d4a05117fcf907bea635bd76773a61945867193d697424d08d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28586,
+    "sha256": "sha256:01eaaf80e08666acdb6f291b5666eb9a5a49c171df1f7ecd1cc0bd0f5bb9a9f1",
+    "normalized_content_hash": "sha256:7ad163d071e5e3ed58ad094704b907d8cdf041c29cc6490956d746aa2386f571"
+  },
+  "provenance": {
+    "source_item_id": "dacc123f-49b3-4544-afbb-6145bc425585",
+    "external_id": "https://signoz.io/guides/cassandra-monitoring"
+  }
+}

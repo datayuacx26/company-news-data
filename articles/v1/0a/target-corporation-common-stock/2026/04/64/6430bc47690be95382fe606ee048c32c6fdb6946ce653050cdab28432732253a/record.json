@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6430bc47690be95382fe606ee048c32c6fdb6946ce653050cdab28432732253a",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/page-layout-optimization-bandits",
+    "canonical": "https://tech.target.com/blog/page-layout-optimization-bandits"
+  },
+  "title": "What If Your Page Layout Could Learn? Optimizing with Bandits",
+  "summary": "We built an AI-powered, learning-based layout system that uses contextual bandits to personalize the page for each guest.",
+  "published_at": "2026-04-09T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-08-20T02:41:15.775861+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/04/64/6430bc47690be95382fe606ee048c32c6fdb6946ce653050cdab28432732253a/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/04/64/6430bc47690be95382fe606ee048c32c6fdb6946ce653050cdab28432732253a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 745,
+    "sha256": "sha256:023a1f63ada1bcda7b4b27e73188b1ec209d5418ca95d4fc010516d98a50a411",
+    "normalized_content_hash": "sha256:e7440970bd1654670f6fc371da3ed63e692d5e5e7a4dec0345610c4b98bc0619"
+  },
+  "provenance": {
+    "source_item_id": "f4b9cbb5-1bc3-4f59-95da-6da26fa1df94",
+    "external_id": "BLOG-10104"
+  }
+}

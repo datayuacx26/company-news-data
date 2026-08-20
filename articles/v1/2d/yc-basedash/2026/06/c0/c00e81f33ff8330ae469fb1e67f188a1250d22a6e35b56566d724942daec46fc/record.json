@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c00e81f33ff8330ae469fb1e67f188a1250d22a6e35b56566d724942daec46fc",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/we-replaced-liveblocks-with-postgres-and-sse/",
+    "canonical": "https://www.basedash.com/blog/we-replaced-liveblocks-with-postgres-and-sse/"
+  },
+  "title": "We replaced Liveblocks with Postgres and SSE",
+  "summary": "We were paying for a realtime vendor to show online avatars. We already had Server-Sent Events and Postgres LISTEN/NOTIFY in production, so we built presence…",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/06/c0/c00e81f33ff8330ae469fb1e67f188a1250d22a6e35b56566d724942daec46fc/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/06/c0/c00e81f33ff8330ae469fb1e67f188a1250d22a6e35b56566d724942daec46fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9702,
+    "sha256": "sha256:fd7c5ca7077abcc33c0e440163950165b316c0f04082ca9b2cec546568dc711f",
+    "normalized_content_hash": "sha256:42c6a91375a7ea3dd7f2fc244496ae27f6d4d96ee39550e93ce740f4bd127e45"
+  },
+  "provenance": {
+    "source_item_id": "9002e7ca-7339-4d90-b969-51daaf4dfbc6",
+    "external_id": "https://www.basedash.com/blog/we-replaced-liveblocks-with-postgres-and-sse/"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-taxgpt",
+    "name": "TaxGPT"
+  },
+  "record_count": 123,
+  "first_published_at": "2026-03-02T14:24:35+00:00",
+  "last_published_at": "2026-08-18T20:17:43+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 62
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 48
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 9
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/03/yc-taxgpt/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50726,
+        "sha256": "sha256:4949a1b651fb45318c87c91e8425e399a17325c7d4dcb702f8c479fde37fe10f",
+        "newest_at": "2026-08-18T20:17:43+00:00",
+        "oldest_at": "2026-07-22T21:24:41+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/03/yc-taxgpt/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 51030,
+        "sha256": "sha256:854dcfd44ca1d5b6736aa215b34214b44ea5f846c596909c2b2618befefd5bef",
+        "newest_at": "2026-07-22T21:24:41+00:00",
+        "oldest_at": "2026-06-17T13:31:15+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/03/yc-taxgpt/index/pages/000003.json",
+        "record_count": 23,
+        "byte_count": 23654,
+        "sha256": "sha256:d62fdec3d7695599d42356942be9146f341fe7610fc16103f4c449f821b5b58e",
+        "newest_at": "2026-06-17T13:31:15+00:00",
+        "oldest_at": "2026-03-02T14:24:35+00:00"
+      }
+    ]
+  }
+}

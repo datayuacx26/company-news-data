@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea4c79722bd5c25fdf55c4dfce2e774024893bb39c469092e49c8d6580d74fa4",
+  "company": {
+    "key": "ribbon-communications-inc-common-stock",
+    "name": "Ribbon Communications Inc."
+  },
+  "source": {
+    "id": "ribbon-communications-inc-common-stock-news-import-9103da99152d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ribboncommunications.com/company/media-center/blog/architects-guide-ipodwdm",
+    "canonical": "https://ribboncommunications.com/company/media-center/blog/architects-guide-ipodwdm"
+  },
+  "title": "An Architect's Guide to IPoDWDM",
+  "summary": "IPoDWDM is an architecture that integrates IP routing and Dense Wavelength Division Multiplexing into a single, converged platform. This integration is achieved by placing coherent optics directly into the ports of IP routers and switches, a fundamental shift from traditional network designs. Consequently, this approach eliminates the need for a separate, dedicated layer of optical transponders and their associated shelving.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T11:51:43.108752+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-20T02:18:34.234337+00:00",
+  "paths": {
+    "article": "articles/v1/19/ribbon-communications-inc-common-stock/2026/07/ea/ea4c79722bd5c25fdf55c4dfce2e774024893bb39c469092e49c8d6580d74fa4/article.md",
+    "record": "articles/v1/19/ribbon-communications-inc-common-stock/2026/07/ea/ea4c79722bd5c25fdf55c4dfce2e774024893bb39c469092e49c8d6580d74fa4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11007,
+    "sha256": "sha256:d591b37bf428961fd1ff6603304bbe8f4f77d803c256c5af6ddb9c2089aa8ade",
+    "normalized_content_hash": "sha256:520f9a4592c308646c0ff8bde9577ed821b860276300b8d7e2bea00a1c397c13"
+  },
+  "provenance": {
+    "source_item_id": "ed7f1031-2a26-46cb-ab8b-a601baf2a5e9",
+    "external_id": "https://ribboncommunications.com/company/media-center/blog/architects-guide-ipodwdm"
+  }
+}

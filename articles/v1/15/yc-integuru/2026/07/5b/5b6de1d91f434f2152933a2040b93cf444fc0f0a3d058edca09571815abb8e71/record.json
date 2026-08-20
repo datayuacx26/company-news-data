@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5b6de1d91f434f2152933a2040b93cf444fc0f0a3d058edca09571815abb8e71",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/non-public-api-integration",
+    "canonical": "https://www.integuru.com/blog/non-public-api-integration"
+  },
+  "title": "Non-Public API Integration: How to Connect to Platforms That Don't Expose Endpoints",
+  "summary": "A non-public API is the HTTP backend any authenticated web platform already has — just never published. This guide explains what non-public API integration means, how it differs from official API access, and why the real challenge is production mainten...",
+  "published_at": "2026-07-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:10:38.353575+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-20T00:13:39.739405+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/5b/5b6de1d91f434f2152933a2040b93cf444fc0f0a3d058edca09571815abb8e71/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/5b/5b6de1d91f434f2152933a2040b93cf444fc0f0a3d058edca09571815abb8e71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14629,
+    "sha256": "sha256:4f34901e6c7ad227c527ecd773db50514e2c70caaedcb9345a0e0147de98ab82",
+    "normalized_content_hash": "sha256:a7ef0edd982470f3cc4149799cade633e1979334980b2f089e938b29c33de8a1"
+  },
+  "provenance": {
+    "source_item_id": "e72a4d70-754f-4367-910b-0ff6e6e4e167",
+    "external_id": "https://www.integuru.com/blog/non-public-api-integration"
+  }
+}

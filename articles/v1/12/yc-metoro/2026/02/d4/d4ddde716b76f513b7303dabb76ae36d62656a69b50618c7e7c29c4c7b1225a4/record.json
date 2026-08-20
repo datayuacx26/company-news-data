@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4ddde716b76f513b7303dabb76ae36d62656a69b50618c7e7c29c4c7b1225a4",
+  "company": {
+    "key": "yc-metoro",
+    "name": "Metoro"
+  },
+  "source": {
+    "id": "yc-metoro-news-import-a8c8033caa18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metoro.io/blog/openclaw-kubernetes",
+    "canonical": "https://metoro.io/blog/openclaw-kubernetes"
+  },
+  "title": "Running OpenClaw on Kubernetes",
+  "summary": "How to deploy, monitor and maintain OpenClaw on Kubernetes",
+  "published_at": "2026-02-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:54.672278+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-07-28T21:27:33.113638+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-metoro/2026/02/d4/d4ddde716b76f513b7303dabb76ae36d62656a69b50618c7e7c29c4c7b1225a4/article.md",
+    "record": "articles/v1/12/yc-metoro/2026/02/d4/d4ddde716b76f513b7303dabb76ae36d62656a69b50618c7e7c29c4c7b1225a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4586,
+    "sha256": "sha256:92d7b1b370397bb98a050f0273962aa5db1c8573b27f2c43db0c93b70f5db69b",
+    "normalized_content_hash": "sha256:fa5e8523d94f1a5ea4d9af158a968d45ca694ca94c59579bd6793b9f1718b9b0"
+  },
+  "provenance": {
+    "source_item_id": "b6300ac0-a73c-4d2d-bd07-7672f66ee54e",
+    "external_id": "https://metoro.io/blog/openclaw-kubernetes"
+  }
+}

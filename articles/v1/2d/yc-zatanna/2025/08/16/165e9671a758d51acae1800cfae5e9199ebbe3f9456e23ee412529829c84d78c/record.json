@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "165e9671a758d51acae1800cfae5e9199ebbe3f9456e23ee412529829c84d78c",
+  "company": {
+    "key": "yc-zatanna",
+    "name": "Zatanna"
+  },
+  "source": {
+    "id": "yc-zatanna-news-import-8e90f36473c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zatanna.ai/blog/authentication-flows-legacy-applications",
+    "canonical": "https://www.zatanna.ai/blog/authentication-flows-legacy-applications"
+  },
+  "title": "Authentication Flows in Legacy Web Applications",
+  "summary": "Legacy web apps use diverse authentication patterns — form-based login, SSO, MFA, session cookies, and token refresh flows that automation must handle correctly.",
+  "published_at": "2025-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:55:15.963788+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-08-19T21:56:36.569036+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-zatanna/2025/08/16/165e9671a758d51acae1800cfae5e9199ebbe3f9456e23ee412529829c84d78c/article.md",
+    "record": "articles/v1/2d/yc-zatanna/2025/08/16/165e9671a758d51acae1800cfae5e9199ebbe3f9456e23ee412529829c84d78c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2701,
+    "sha256": "sha256:c648a137c8fad250505614e36a7885331862a46842180e3edf6fe1c3a3cdd00f",
+    "normalized_content_hash": "sha256:bfd3a4a4b5a1bd0b83799baf78c6269022fd97c1abec1849f967e2caa0056073"
+  },
+  "provenance": {
+    "source_item_id": "757228da-7b7a-4689-b265-a899eee8aa48",
+    "external_id": "https://www.zatanna.ai/blog/authentication-flows-legacy-applications"
+  }
+}

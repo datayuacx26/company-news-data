@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "webull-corporation-class-a-ordinary-shares",
+    "name": "Webull Corporation"
+  },
+  "record_count": 55,
+  "first_published_at": "2019-06-12T15:08:08+00:00",
+  "last_published_at": "2026-08-19T20:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 13
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/38/webull-corporation-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 61015,
+        "sha256": "sha256:50c4637d159423abaafaab935b2e0c29e76457a119d2574c355a4e031651cac9",
+        "newest_at": "2026-08-19T20:15:00+00:00",
+        "oldest_at": "2020-10-29T06:56:18+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/38/webull-corporation-class-a-ordinary-shares/index/pages/000002.json",
+        "record_count": 5,
+        "byte_count": 6207,
+        "sha256": "sha256:8b632f872ea65a6010582e26474f142de10ba73c0f636567ac42e40895942b70",
+        "newest_at": "2020-05-19T02:18:04+00:00",
+        "oldest_at": "2019-06-12T15:08:08+00:00"
+      }
+    ]
+  }
+}

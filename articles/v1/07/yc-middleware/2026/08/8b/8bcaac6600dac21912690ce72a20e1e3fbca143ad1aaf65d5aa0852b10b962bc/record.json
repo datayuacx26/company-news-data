@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8bcaac6600dac21912690ce72a20e1e3fbca143ad1aaf65d5aa0852b10b962bc",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/run-production-ahead-of-alerts-with-opsai/",
+    "canonical": "https://middleware.io/blog/run-production-ahead-of-alerts-with-opsai/"
+  },
+  "title": "Run Production Ahead of the Alert: How an AI SRE Agent Works From Inside Your Observability Platform",
+  "summary": "Most production toil has no alert. See how OpsAI, Middleware's AI SRE agent, catches failed deploys, investigates SLOs, and ships fixes as PRs.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T17:14:34.117370+00:00",
+  "fetched_at": "2026-08-10T17:14:36.395593+00:00",
+  "last_updated_at": "2026-08-19T19:48:10.047752+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/08/8b/8bcaac6600dac21912690ce72a20e1e3fbca143ad1aaf65d5aa0852b10b962bc/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/08/8b/8bcaac6600dac21912690ce72a20e1e3fbca143ad1aaf65d5aa0852b10b962bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15057,
+    "sha256": "sha256:986ae6274a22f66b11153db34b628fead1b66d2d0bb4bdcebaf81f6cf561d999",
+    "normalized_content_hash": "sha256:525ab36694e806390cf14fe813ca5251e852d4afd7b97c59670f8a4af5b1a1b1"
+  },
+  "provenance": {
+    "source_item_id": "527e8dce-2ba9-4144-a586-78573a087fcc",
+    "external_id": "https://middleware.io/blog/run-production-ahead-of-alerts-with-opsai/"
+  }
+}

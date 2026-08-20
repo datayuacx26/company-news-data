@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bb591350178b8869ea9b1786b22d35f4b31d456a7dbc373fe28fcf4abd49357",
+  "company": {
+    "key": "yc-andon-labs",
+    "name": "Andon Labs"
+  },
+  "source": {
+    "id": "yc-andon-labs-news-import-434be7be1d2e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://andonlabs.com/blog/openai-gpt-5-5-vending-bench",
+    "canonical": "https://andonlabs.com/blog/openai-gpt-5-5-vending-bench"
+  },
+  "title": "GPT-5.5 on Vending-Bench: Bad behavior is not necessary",
+  "summary": "GPT-5.5 wins Vending-Bench Arena without misconduct, showing that bad behavior is not necessary for a high score. We analyze its strategies and compare them to Claude Opus 4.7.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T16:44:42.479144+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T22:52:21.221350+00:00",
+  "paths": {
+    "article": "articles/v1/36/yc-andon-labs/2026/07/2b/2bb591350178b8869ea9b1786b22d35f4b31d456a7dbc373fe28fcf4abd49357/article.md",
+    "record": "articles/v1/36/yc-andon-labs/2026/07/2b/2bb591350178b8869ea9b1786b22d35f4b31d456a7dbc373fe28fcf4abd49357/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6523,
+    "sha256": "sha256:db64a9e4eee7536ac63c8dac60015110f41ea232937c41205f2d498ee9eb15ad",
+    "normalized_content_hash": "sha256:7467579f6aa1e5c26bb4ce5ccd0ac2cae71b076616eaca1e54b085a184de331e"
+  },
+  "provenance": {
+    "source_item_id": "bde2fdba-baca-4a86-bc96-001daf2deb7b",
+    "external_id": "https://andonlabs.com/blog/openai-gpt-5-5-vending-bench"
+  }
+}

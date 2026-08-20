@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d508d2d2172d2736b63b4aee6fdedf735b3decf1a66fc4686032d7c07fd0c941",
+  "company": {
+    "key": "yc-nao-labs",
+    "name": "nao Labs"
+  },
+  "source": {
+    "id": "yc-nao-labs-news-import-1dd8f9256e0a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getnao.io/blog/launching-nao-mcp/",
+    "canonical": "https://getnao.io/blog/launching-nao-mcp/"
+  },
+  "title": "Launching the nao MCP",
+  "summary": "nao now exposes itself as an MCP server. Run governed analytics from Claude, Cursor, Codex, or any MCP-compatible tool.",
+  "published_at": "2026-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:14:42.862420+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-19T19:01:48.012330+00:00",
+  "paths": {
+    "article": "articles/v1/1c/yc-nao-labs/2026/05/d5/d508d2d2172d2736b63b4aee6fdedf735b3decf1a66fc4686032d7c07fd0c941/article.md",
+    "record": "articles/v1/1c/yc-nao-labs/2026/05/d5/d508d2d2172d2736b63b4aee6fdedf735b3decf1a66fc4686032d7c07fd0c941/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7434,
+    "sha256": "sha256:9d05549b71aa426d380944968867f01aec3b2a2fed9f6809dad2aaadd3535535",
+    "normalized_content_hash": "sha256:db15daf2d24ab1b3d3152945627f524e51c33bf66e382e3d3a8151ff972978ca"
+  },
+  "provenance": {
+    "source_item_id": "70b86205-8a17-44a1-a891-f8677d4a34ac",
+    "external_id": "https://getnao.io/blog/launching-nao-mcp/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e4b98bf37b7f94e27e7d71955c09db0b947c83a1fab08b59f34f2cb3fa9f447",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-to-enable-row-level-security-rls-in-postgresql/",
+    "canonical": "https://www.basedash.com/blog/how-to-enable-row-level-security-rls-in-postgresql/"
+  },
+  "title": "How to enable row-level security (RLS) in PostgreSQL",
+  "summary": "Row-level security (RLS) is a feature in PostgreSQL that allows you to define policies to restrict access to individual rows in a table.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/3e/3e4b98bf37b7f94e27e7d71955c09db0b947c83a1fab08b59f34f2cb3fa9f447/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/3e/3e4b98bf37b7f94e27e7d71955c09db0b947c83a1fab08b59f34f2cb3fa9f447/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3038,
+    "sha256": "sha256:c4e7b64deb1c8cc8ec3c04281f24371e20005df230b03c290afaefac0b727c34",
+    "normalized_content_hash": "sha256:0b7333b8f7ea5ce3f7a8aa2cad5142959aeae0f6ec2a6e6573ec2da9c143aa7d"
+  },
+  "provenance": {
+    "source_item_id": "2532f96b-bbb5-494b-ae74-f355e29abec3",
+    "external_id": "https://www.basedash.com/blog/how-to-enable-row-level-security-rls-in-postgresql/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8391e8ccf09a8f5548d0cb4df3e8aa9a39ebc20ff37810e34270b45cc8780f50",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/self-reflective-program-search",
+    "canonical": "https://machinelearning.apple.com/research/self-reflective-program-search"
+  },
+  "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
+  "summary": "Long-context handling remains a core challenge for language models: even with extended context windows, models often fail to reliably…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:41:59.697997+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/83/8391e8ccf09a8f5548d0cb4df3e8aa9a39ebc20ff37810e34270b45cc8780f50/article.md",
+    "record": "articles/v1/3a/apple/2026/07/83/8391e8ccf09a8f5548d0cb4df3e8aa9a39ebc20ff37810e34270b45cc8780f50/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2739,
+    "sha256": "sha256:6d28108ce8dd3c9cf246675848af8d060bddb3645ea710b230687ea7cc6f86ab",
+    "normalized_content_hash": "sha256:86fbc28f8fd3b25444cfe56137a5e63bde06194b34a81d5a1d52d9429817b8e3"
+  },
+  "provenance": {
+    "source_item_id": "8ab721fb-a402-41e1-aeaf-445df884f7d9",
+    "external_id": "https://machinelearning.apple.com/research/self-reflective-program-search"
+  }
+}

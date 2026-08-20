@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae842650c5e0c8861cf40846acd3a7704793bab80fa90019b52cfa57d59fed2d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/how-to-insert-newline-in-python-logging",
+    "canonical": "https://signoz.io/guides/how-to-insert-newline-in-python-logging"
+  },
+  "title": "Python Logging - How to Insert Newlines Correctly",
+  "summary": "Learn how to insert newlines in Python logging correctly, improve log readability, and avoid common multiline pitfalls.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.492570+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/ae/ae842650c5e0c8861cf40846acd3a7704793bab80fa90019b52cfa57d59fed2d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/ae/ae842650c5e0c8861cf40846acd3a7704793bab80fa90019b52cfa57d59fed2d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31477,
+    "sha256": "sha256:d620830c7c4d92185dd3eee91bfaf1829ed8ee525d3ca2b2d4cdcdf44774d3a9",
+    "normalized_content_hash": "sha256:cc793e0185a91dfa1681f1eb7f6a9e63d13c4df6246a13324eb4d33e5d8c3d99"
+  },
+  "provenance": {
+    "source_item_id": "ab9d6b46-eef6-4966-b358-1e10f3a951c8",
+    "external_id": "https://signoz.io/guides/how-to-insert-newline-in-python-logging"
+  }
+}

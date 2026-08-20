@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bde71ef465407f7be6efe2043c78a3486c3c757e02425baf55bd45f59f166b98",
+  "company": {
+    "key": "csp-inc-common-stock",
+    "name": "CSP Inc."
+  },
+  "source": {
+    "id": "csp-inc-common-stock-news-import-a1f8bc775bf8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.ariacybersecurity.com/blog/unitedhealth-groups-optum-subsidiary-disrupted-by-cyberattack",
+    "canonical": "https://blog.ariacybersecurity.com/blog/unitedhealth-groups-optum-subsidiary-disrupted-by-cyberattack"
+  },
+  "title": "UnitedHealth Group’s Optum Subsidiary disrupted by Cyberattack putting critical patient needs at risk.",
+  "summary": "A major cyberattack has just hit the systems of a subsidiary of US health insurance giant, UnitedHealth. The attack is causing widespread disruption in the healthcare sector.",
+  "published_at": "2024-02-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T06:52:08.583478+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-06T04:15:12.924456+00:00",
+  "paths": {
+    "article": "articles/v1/36/csp-inc-common-stock/2024/02/bd/bde71ef465407f7be6efe2043c78a3486c3c757e02425baf55bd45f59f166b98/article.md",
+    "record": "articles/v1/36/csp-inc-common-stock/2024/02/bd/bde71ef465407f7be6efe2043c78a3486c3c757e02425baf55bd45f59f166b98/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3104,
+    "sha256": "sha256:8c7a6adaeff7adef556568a122ddf7e56f30b3d29eef70d112859ddb98f4a496",
+    "normalized_content_hash": "sha256:8465765a93c73f83c0f71f0709fe1ebdb0e2d8ba90891dc38ffad0d1a8dab1d7"
+  },
+  "provenance": {
+    "source_item_id": "31210ad9-f1f6-426c-b333-c014b48a5840",
+    "external_id": "https://blog.ariacybersecurity.com/blog/unitedhealth-groups-optum-subsidiary-disrupted-by-cyberattack"
+  }
+}

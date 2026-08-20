@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c253b369c28387c26858fbafc6a618ec73ebd01c9049de8c08e858f8d6a4be46",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/what-i-learned-from-building-an-ebpf-based-traffic-capture-application/",
+    "canonical": "https://speedscale.com/blog/what-i-learned-from-building-an-ebpf-based-traffic-capture-application/"
+  },
+  "title": "What I Learned From Building an eBPF-Based Traffic Capture Application",
+  "summary": "Building a targeted eBPF network traffic capture tool reveals why a general-purpose eBPF observability agent is exponentially harder.",
+  "published_at": "2025-12-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2025/12/c2/c253b369c28387c26858fbafc6a618ec73ebd01c9049de8c08e858f8d6a4be46/article.md",
+    "record": "articles/v1/00/yc-speedscale/2025/12/c2/c253b369c28387c26858fbafc6a618ec73ebd01c9049de8c08e858f8d6a4be46/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21686,
+    "sha256": "sha256:6655e46249dd1eab640a66fa639c1168ea38f4018441e67ea7b0ca36b139dcd0",
+    "normalized_content_hash": "sha256:f1cb348fdbd3681b5ab33b829df801f79ddcb319ca6350c00aabf3601504e92a"
+  },
+  "provenance": {
+    "source_item_id": "8a1ca8c0-7292-4148-a7ce-339190a051a0",
+    "external_id": "https://speedscale.com/blog/what-i-learned-from-building-an-ebpf-based-traffic-capture-application/"
+  }
+}

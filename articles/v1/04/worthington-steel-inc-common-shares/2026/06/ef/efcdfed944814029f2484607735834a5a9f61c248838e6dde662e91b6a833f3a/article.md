@@ -1,0 +1,124 @@
+---
+schema_version: "1.0.0"
+document_id: "efcdfed944814029f2484607735834a5a9f61c248838e6dde662e91b6a833f3a"
+company_key: "worthington-steel-inc-common-shares"
+company: "Worthington Steel Inc. Common Shares"
+source_id: "worthington-steel-inc-common-shares-news-import-e7b62d10fa81"
+canonical_url: "https://www.worthingtonsteel.com/news/worthington-steel-completes-acquisition-of-kloeckner---co-and-announces-intention-to-launch-delisting-tender-offer"
+published_at: "2026-06-03T00:00:00+00:00"
+first_seen_at: "2026-07-24T07:30:12.564347+00:00"
+fetched_at: "2026-07-28T21:54:56.147054+00:00"
+content_hash: "sha256:59ed0f32f45c85436177aee5b1f154bc772ff246ed046ec2c9219fbac40af64a"
+---
+
+# Worthington Steel Completes Acquisition of Kloeckner & Co and Announces Intention to Launch Delisting Tender Offer
+
+**COLUMBUS, OHIO (June 3, 2026) –** Worthington Steel, Inc. (NYSE: WS) today completed its voluntary public takeover offer (the “Takeover Offer”) for Kloeckner & Co SE (“Kloeckner”), a leading global service center and metal processing company, following satisfaction of all closing conditions. Worthington Steel has currently secured approximately 62% of Kloeckner’s outstanding shares.
+
+
+Completion of the Takeover Offer establishes the foundation for a strong strategic partnership between Worthington Steel and Kloeckner. Worthington Steel expects the transaction to broaden its product portfolio, diversify end-market exposure and strengthen its geographic footprint. Over time, the combined company anticipates it will benefit from increased scale, operational efficiencies and the sharing of best practices across both organizations.
+
+
+“This is an important milestone for Worthington Steel and a meaningful step forward in our growth strategy,” said Geoff Gilmore, Worthington Steel President and CEO. “Kloeckner brings strong capabilities, a talented team and a shared commitment to performance. We are excited about what we can build together over time and will continue to take a disciplined approach as we move toward integration - stronger together.”
+
+
+“With the completion of this transaction, a new chapter begins for Kloeckner,” said Guido Kerkhoff, CEO of Kloeckner & Co SE. “This is the outcome of a deliberate strategic journey: focusing our business on higher-value products and services, building scale in North America and Europe, and finding in Worthington Steel a partner that shares our vision. Our employees, customers and commercial partners can count on continuity and can rely on a stronger platform for long-term growth.”
+
+
+**Worthington Steel pursues Delisting of Kloeckner**
+
+
+Worthington Steel intends to launch a Public Delisting Tender Offer (“Delisting Offer”) for all outstanding Kloeckner shares (ISIN: DE000KC01000) not already held by Worthington Steel. The company expects to offer remaining Kloeckner shareholders EUR 11.00 in cash per Kloeckner share.
+
+
+The delisting is expected to reduce administrative and regulatory obligations associated with maintaining Kloeckner‘s stock exchange listing, while providing greater flexibility to support the long-term strategic development of the business.
+
+
+Following the effectiveness of the delisting, Kloeckner shares will no longer be admitted to trading on a regulated market in Germany or on a comparable market abroad, which may result in significantly reduced liquidity and limited price discovery for Kloeckner shares.
+
+
+The Delisting Offer will not be subject to any closing conditions and will not include a minimum acceptance threshold. It will be made pursuant to the terms and conditions set forth in the Delisting Offer Document to be reviewed by the German Federal Financial Supervisory Authority (BaFin). Following BaFin approval, the Delisting Offer Document and all further information regarding the Delisting Offer will be published in accordance with the German Securities Acquisition and Takeover Act at[www.strong-for-good.com](http://www.strong-for-good.com/) . Further details regarding the Delisting Offer and the expected timetable will be announced with the publication of the offer document.
+
+
+**About Worthington Steel**
+
+
+Worthington Steel (NYSE:WS) is a metals processor that partners with customers to deliver highly technical and customized solutions. Worthington Steel’s expertise in carbon flat-roll steel processing, electrical steel laminations and tailor welded solutions is driving steel toward a more sustainable future.
+
+
+As one of the most trusted metals processors in North America, Worthington Steel and its approximately 6,000 employees harness the power of steel to advance our customers’ visions through value-added processing capabilities including galvanizing, pickling, configured blanking, specialty cold reduction, lightweighting and electrical lamination. Headquartered in Columbus, Ohio, Worthington Steel operates 37 facilities in seven states and 10 countries. Following a people-first Philosophy, commitment to sustainability and proven business system, Worthington Steel’s purpose is to generate positive returns by providing trusted and innovative solutions for customers, creating opportunities for employees and strengthening its communities.
+
+
+**About Kloeckner & Co**
+
+
+Kloeckner & Co is now one of the largest producer-independent metals processors and one of the leading steel service center companies. With its distribution and service network of around 110 warehouse and processing locations, primarily in North America and the “DACH” region (Germany, Austria and Switzerland), Kloeckner & Co supplies more than 60,000 customers. Currently, the Group has more than 6,000 employees. Kloeckner & Co had sales of some €6.4 billion in fiscal year 2025. By consistently implementing its corporate strategy, Kloeckner & Co strives to become one of the leading service center and metal processing companies in North America and Europe. The focus is on continued targeted expansion of the service center and higher value-added business, diversification of the product and service portfolio as well as integration of additional CO2-reduced solutions under the Nexigen® umbrella brand. The shares of Kloeckner & Co SE are admitted to trading on the regulated market segment (Regulierter Markt) of the Frankfurt Stock Exchange (Frankfurter Wertpapierbörse) with further post-admission obligations (Prime Standard). Kloeckner & Co shares are listed in the SDAX® index of Deutsche Börse.
+
+
+ISIN: DE000KC01000; WKN: KC0100 ISIN: DE000KC01V24; WKN: KC01V2
+
+
+****
+
+
+**Media Contacts:**
+
+
+**Worthington Steel**
+
+
+Melissa Dykstra
+
+
+Vice President, Corporate Communications and Investor Relations
+
+
+Phone: 614-840-4144
+
+
+Melissa.Dykstra@WorthingtonSteel.com
+
+
+**European Media Contact**
+
+
+**Brunswick Group**
+
+
+Julia Klostermann
+
+
+Director
+
+
++49 174-740-2796
+
+
+Jklostermann@brunswickgroup.com
+
+
+**Important information:**
+
+
+This press release constitutes neither an offer to purchase nor a solicitation of an offer to sell Kloeckner shares. The terms and conditions relating to the offer (the “Delisting Offer”) are set out in the offer document which will be published following authorization by the German Federal Financial Supervisory Authority ( *Bundesanstalt für Finanzdienstleistungsaufsicht –* BaFin). The bidder reserves the right to deviate from the key points set out herein in the final terms of the Delisting Offer to the extent legally permissible. Investors and Kloeckner shareholders are strongly advised to read the offer document and all other documents relating to the Delisting Offer as soon as they are published, as they contain important information.
+
+
+The Delisting Offer will be made exclusively on the basis of the applicable provisions of German law, in particular the German Securities Acquisition and Takeover Act ( *Wertpapiererwerbs und Übernahmegesetz – WpÜG* ) and certain securities laws provisions of the United States of America (the " **United States** " or " **U.S.** "). The Delisting Offer will not be made in accordance with the legal requirements of any jurisdiction other than the Federal Republic of Germany or the United States (to the extent applicable). Accordingly, no announcements, registrations, approvals or authorizations for the offer have been made, arranged for or granted outside the Federal Republic of Germany or the United States (to the extent applicable). Investors and holders of Kloeckner shares may not claim to be protected by the investor protection laws of any jurisdiction other than the Federal Republic of Germany or the United States (as applicable). Subject to the exceptions described in the offer document and any exemptions to be granted by the relevant regulatory authorities, no Delisting Offer will be made, directly or indirectly, in any jurisdiction where to do so would constitute a violation of applicable national law. This press release may not be published or otherwise distributed, in whole or in part, in any jurisdiction in which the Delisting Offer would be prohibited by applicable national law.
+
+
+The bidder and its affiliates or affiliates of its financial advisor reserve the right to directly or indirectly purchase or arrange to purchase Kloeckner shares or any other securities that are convertible into, exchangeable for or exercisable for such Kloeckner shares outside of the Delisting Offer, provided that such purchases or arrangements to purchase are not made in the United States and comply with the applicable German statutory provisions, in particular the WpÜG. These purchases may occur either in the open market at prevailing prices or in private transactions at negotiated prices. Information about such purchases or arrangements to purchase, including the number of Kloeckner shares purchased or to be purchased and the consideration paid or agreed, will be published in German and English language without undue delay if and to the extent required under the laws of the Federal Republic of Germany, the United States or any other relevant jurisdiction.
+
+
+The Delisting Offer referenced in this press release relates to shares in a German company and is subject to the statutory provisions of the Federal Republic of Germany on the implementation of such an offer, which differ from those of the United States and other jurisdictions in certain material respects. The financial information relating to the bidder and Kloeckner included elsewhere, including in the offer document, are prepared in accordance with provisions applicable in the Federal Republic of Germany and are not prepared in accordance with generally accepted accounting principles in the United States; therefore, it may not be comparable to financial information relating to United States companies or companies from other jurisdictions outside the Federal Republic of Germany. The Delisting Offer will not be submitted to the review or registration procedures of any securities regulator outside of Germany and has not been approved or recommended by any other securities regulator. Kloeckner shareholders whose place of residence, incorporation or place of habitual abode is in the United States should note that the Delisting Offer will be made in respect of securities of a company which is a foreign private issuer within the meaning of the U.S. Securities Exchange Act of 1934, as amended (the " **U.S. Exchange Act** ") and the shares of which are not registered under Section 12 of the U.S. Exchange Act and that the company is not subject to the periodic reporting requirements of the U.S. Exchange Act, and is not required to, and does not, file any reports with the U.S. Securities and Exchange Commission (the " **SEC** ") thereunder. The Delisting Offer will be made in the United States pursuant to Section 14(e) and Regulation 14E under the Exchange Act, subject to the exemption provided under Rule 14d-1(d) under the U.S. Exchange Act, for a Tier II tender offer and is principally governed by disclosure and other regulations and procedures of the Federal Republic of Germany, including with respect to the Delisting Offer timetable, settlement procedures, withdrawal, waiver of conditions and timing of payments, which are different from those of the United States. The Delisting Offer will be made to Kloeckner’s shareholders resident in the United States on the same terms and conditions as those made to all other shareholders of Kloeckner to whom an offer is made. Any informational documents, including this press release, will be disseminated to U.S. shareholders on a basis comparable to the method that such documents are provided to the Kloeckner’s other shareholders. To the extent that the Delisting Offer is subject to United States securities laws, such laws only apply to Kloeckner shareholders in the United States, and no other person has any claims under such laws.
+
+
+Any agreement concluded with the bidder as a result of the acceptance of the Delisting Offer will be governed exclusively by the laws of the Federal Republic of Germany and shall be construed accordingly. It may be difficult for Kloeckner shareholders from the United States (or from jurisdictions other than Germany) to enforce their rights and claims arising in connection with the Delisting Offer under the Securities Act of 1933 (or other laws known to them) because the bidder and the Kloeckner are located outside the United States (or the jurisdiction in which the shareholder is domiciled) and their respective officers and directors are domiciled outside the United States (or the jurisdiction in which the shareholder is domiciled). It may be impossible to sue a non-U.S. company or its officers and directors in a non-U.S. court for violations of U.S. securities laws. It may also be impossible to compel a non-U.S. company or its subsidiaries to submit to the judgment of a U.S. court.
+
+
+**Forward-looking statements**
+
+
+This press release includes forward-looking statements, including forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the U.S. Exchange Act. Such forward-looking statements include, but are not limited to, statements regarding Worthington Steel’s and Kloeckner’s plans, objectives, expectations and intentions related to the acquisition and the benefits of the transaction, the expected outcomes of the proposed acquisition, including estimated cost, operations and commercial synergies and the timeline to realize such synergies, the impact on Worthington Steel’s earnings, Worthington Steel’s expected pro forma net leverage ratio following the transaction and net leverage ratio goals following the transaction, the expected timeline for completing the acquisition, and other statements that are not historical or current fact and are characterized by terms like “expects,” “believes,” “anticipates”, “is of the opinion,” “tries,” “estimates,” “intends,” “plans,” “assumes” “may,” “will,” “would,” “should” and “aims” and similar expressions. Forward-looking statements are based on current intentions, assumptions or expectations and involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied in such forward-looking statements. Factors that could cause results to differ materially from current expectations include, but are not limited to, risks and uncertainties regarding Worthington Steel’s and Kloeckner’s respective businesses and the proposed acquisition, and actual results may differ materially. These risks and uncertainties include, but are not limited to, (i) the ability of the parties to successfully complete the proposed acquisition on the anticipated terms and timing, including obtaining required regulatory approvals, (ii) the financing arrangements relating to the acquisition, (iii) the effects of the transaction on Worthington Steel’s and Kloeckner’s operations, including on the combined company’s future financial condition and performance, operating results, strategy and plans, including anticipated
+
+
+tax treatment, unforeseen liabilities, future capital expenditures, revenues, expenses, earnings, synergies, economic performance, indebtedness, losses, future prospects, and business and management strategies for the management, expansion and growth of the new combined company’s operations, (iv) the potential impact of the announcement or consummation of the proposed acquisition on relationships with customers, suppliers and other third parties, (v) the ability of the combined company to achieve the anticipated cost synergies or accretion to earnings per share, and (vi) the other factors detailed in Worthington Steel’s reports filed with the SEC, including its most recent Annual Report on Form 10-K and subsequent Quarterly Reports on Form 10-Q under the caption “Risk Factors,” as well as the other risks discussed in Worthington Steel’s filings with the SEC. In addition, these statements are based on assumptions that are subject to change. Further, it cannot be ruled out that Worthington Steel and/or Kloeckner will change their intentions and assessments expressed in documents or notifications or in the offer document after publication of the documents, notifications or the offer document. This press release speaks only as of the date hereof. Each of Worthington Steel and Kloeckner disclaims any duty to update the information herein.

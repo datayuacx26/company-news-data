@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da707815e5ad3b76b051601761382a0f1afe35e40f993ef9f6a03f613b20a3aa",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/feature-engineering-examples",
+    "canonical": "https://www.lancedb.com/blog/feature-engineering-examples"
+  },
+  "title": "Feature Engineering for Multimodal Data: From Laptop to Cluster with LanceDB",
+  "summary": "Run a multimodal feature-engineering pipeline in ten minutes with geneva-examples, then rebuild its CLIP embedding step with LanceDB's feature engineering API, the same calls you'd use to enrich your own tables on LanceDB Enterprise.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T22:20:24.455801+00:00",
+  "fetched_at": "2026-08-06T00:00:02.187047+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/08/da/da707815e5ad3b76b051601761382a0f1afe35e40f993ef9f6a03f613b20a3aa/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/08/da/da707815e5ad3b76b051601761382a0f1afe35e40f993ef9f6a03f613b20a3aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24581,
+    "sha256": "sha256:7642ce1f7ec1d59143f869273cba62821e8708bdb7bece8551b54cc526983b21",
+    "normalized_content_hash": "sha256:087ee58776f14d7c1ff4aa92bbf51acad277e1af50ad966f95321790bfeb65c3"
+  },
+  "provenance": {
+    "source_item_id": "0d9a5363-9b81-40e4-8864-16b0108400f6",
+    "external_id": "https://www.lancedb.com/blog/feature-engineering-examples"
+  }
+}

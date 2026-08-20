@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62b9374afec3f77cceac05cdcb2334965cf3aeaae8e22ffbeb7ba72d4e2a15f1",
+  "company": {
+    "key": "yc-zatanna",
+    "name": "Zatanna"
+  },
+  "source": {
+    "id": "yc-zatanna-news-import-8e90f36473c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zatanna.ai/blog/anti-bot-detection-web-scraping",
+    "canonical": "https://www.zatanna.ai/blog/anti-bot-detection-web-scraping"
+  },
+  "title": "How Anti-Bot Detection Works and Why It Breaks Web Scrapers",
+  "summary": "Modern anti-bot systems use TLS fingerprinting, behavioral analysis, and device attestation to block scrapers. Understanding these techniques explains why browser automation fails and what alternatives exist.",
+  "published_at": "2026-02-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:55:15.963788+00:00",
+  "fetched_at": "2026-07-28T22:20:18.906160+00:00",
+  "last_updated_at": "2026-08-19T21:56:36.569036+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-zatanna/2026/02/62/62b9374afec3f77cceac05cdcb2334965cf3aeaae8e22ffbeb7ba72d4e2a15f1/article.md",
+    "record": "articles/v1/2d/yc-zatanna/2026/02/62/62b9374afec3f77cceac05cdcb2334965cf3aeaae8e22ffbeb7ba72d4e2a15f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5346,
+    "sha256": "sha256:9ccce89523cb94d47fca4b0880d58bd8ea03a0c734b06ddd0cf1c089a825ba55",
+    "normalized_content_hash": "sha256:759a37e7bdc62a6e6f7457b0032993cc56ee533e3471013d4bdc1f898f6e6258"
+  },
+  "provenance": {
+    "source_item_id": "05c2ab34-7f14-40ae-819c-16ec3919b98f",
+    "external_id": "https://www.zatanna.ai/blog/anti-bot-detection-web-scraping"
+  }
+}

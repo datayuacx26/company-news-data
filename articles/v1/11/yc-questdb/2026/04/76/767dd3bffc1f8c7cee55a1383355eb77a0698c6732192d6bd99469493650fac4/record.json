@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "767dd3bffc1f8c7cee55a1383355eb77a0698c6732192d6bd99469493650fac4",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/aquis-case-study/",
+    "canonical": "https://questdb.com/blog/aquis-case-study/"
+  },
+  "title": "Aquis Exchange (SIX Group) runs exchange-wide surveillance on QuestDB",
+  "summary": "QuestDB is used by Aquis Exchange to store their infrastructure and business metrics in a single place and analyze them in real time across multiple dimensions.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/04/76/767dd3bffc1f8c7cee55a1383355eb77a0698c6732192d6bd99469493650fac4/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/04/76/767dd3bffc1f8c7cee55a1383355eb77a0698c6732192d6bd99469493650fac4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5116,
+    "sha256": "sha256:1ca1f26c56b635d327b45b7c56da9896c170e286d21089892ecc195af76fe095",
+    "normalized_content_hash": "sha256:938eb85663db6fea1d4e4a0662d9e16f7abdc73b8bf37e975a7ba3750d6f4476"
+  },
+  "provenance": {
+    "source_item_id": "ab81b08b-4899-415f-8533-f588014e3fc0",
+    "external_id": "https://questdb.com/blog/aquis-case-study/"
+  }
+}

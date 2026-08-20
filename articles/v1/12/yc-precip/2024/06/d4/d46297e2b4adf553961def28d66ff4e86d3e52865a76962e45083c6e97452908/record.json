@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d46297e2b4adf553961def28d66ff4e86d3e52865a76962e45083c6e97452908",
+  "company": {
+    "key": "yc-precip",
+    "name": "Precip"
+  },
+  "source": {
+    "id": "yc-precip-rss-f59c0f39e1b1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://precip.ai/blog/measuring-rain-with-rain-gauges-is-hard/",
+    "canonical": "https://precip.ai/blog/measuring-rain-with-rain-gauges-is-hard/"
+  },
+  "title": "Measuring rain with gauges and weather stations is harder than you might think",
+  "summary": "For every one mile per hour of wind speed, you can expect about a 1% loss in precipitation being caught in the gauge.",
+  "published_at": "2024-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:06.643563+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T02:00:38.381877+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-precip/2024/06/d4/d46297e2b4adf553961def28d66ff4e86d3e52865a76962e45083c6e97452908/article.md",
+    "record": "articles/v1/12/yc-precip/2024/06/d4/d46297e2b4adf553961def28d66ff4e86d3e52865a76962e45083c6e97452908/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5567,
+    "sha256": "sha256:37ee280719df8239540d187fb71d04b1a85d5279489a547d274ef7c58442d2c7",
+    "normalized_content_hash": "sha256:aa430a589f95fac4f543c86ed131c29bd142a7907a1587df5e4c99d1ce7617cf"
+  },
+  "provenance": {
+    "source_item_id": "8ef95363-48b8-4e48-955e-689021db0f1c",
+    "external_id": "https://precip.ai/blog/measuring-rain-with-rain-gauges-is-hard/"
+  }
+}

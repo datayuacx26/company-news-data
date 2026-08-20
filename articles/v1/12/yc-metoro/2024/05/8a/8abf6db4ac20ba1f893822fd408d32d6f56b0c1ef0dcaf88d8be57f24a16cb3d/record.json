@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8abf6db4ac20ba1f893822fd408d32d6f56b0c1ef0dcaf88d8be57f24a16cb3d",
+  "company": {
+    "key": "yc-metoro",
+    "name": "Metoro"
+  },
+  "source": {
+    "id": "yc-metoro-news-import-a8c8033caa18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metoro.io/blog/ebpf-kubernetes-auto-instrumentation-landscape",
+    "canonical": "https://metoro.io/blog/ebpf-kubernetes-auto-instrumentation-landscape"
+  },
+  "title": "eBPF Auto Instrumentation in Kubernetes Landscape",
+  "summary": "Understand ebpf, how it can be used in kubernetes and what tools are currently out there",
+  "published_at": "2024-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:11:54.672278+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-07-28T22:04:10.125210+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-metoro/2024/05/8a/8abf6db4ac20ba1f893822fd408d32d6f56b0c1ef0dcaf88d8be57f24a16cb3d/article.md",
+    "record": "articles/v1/12/yc-metoro/2024/05/8a/8abf6db4ac20ba1f893822fd408d32d6f56b0c1ef0dcaf88d8be57f24a16cb3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10456,
+    "sha256": "sha256:9e5aed9585669dbd62df5d8c7589f2c62ec26cc0b12398bf5a2feadf87f76093",
+    "normalized_content_hash": "sha256:d3b898274342b4f177cf5e066305c8166d9ac212f87451fec64869e144c4a985"
+  },
+  "provenance": {
+    "source_item_id": "b3267e25-2292-44fb-bbdc-d65a9fa75969",
+    "external_id": "https://metoro.io/blog/ebpf-kubernetes-auto-instrumentation-landscape"
+  }
+}

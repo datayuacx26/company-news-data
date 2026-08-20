@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "30c0e14099b9921de1ea9d908a25e5626ea1b23df48e364ef491e18baff5120b",
+  "company": {
+    "key": "yelp-inc-common-stock",
+    "name": "Yelp Inc."
+  },
+  "source": {
+    "id": "yelp-inc-common-stock-news-import-b397c8068d5a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.yelp.com/news/yelp-chatgpt-integration/",
+    "canonical": "https://blog.yelp.com/news/yelp-chatgpt-integration/"
+  },
+  "title": "Yelp Brings Reservations and Waitlist to ChatGPT",
+  "summary": "Today, we’re announcing an integration with OpenAI’s ChatGPT that brings Yelp Reservations and Waitlist directly to ChatGPT users, allowing people to book a table or join a waitlist through Yelp—all without leaving their chat. This builds on our existing content integration, which provides ChatGPT users with reliable local recommendations by surfacing Yelp’s trusted reviews, ratings, […]",
+  "published_at": "2026-08-10T15:00:00+00:00",
+  "first_seen_at": "2026-08-10T16:41:48.391150+00:00",
+  "fetched_at": "2026-08-10T16:41:50.618505+00:00",
+  "last_updated_at": "2026-08-19T18:04:51.081893+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yelp-inc-common-stock/2026/08/30/30c0e14099b9921de1ea9d908a25e5626ea1b23df48e364ef491e18baff5120b/article.md",
+    "record": "articles/v1/0d/yelp-inc-common-stock/2026/08/30/30c0e14099b9921de1ea9d908a25e5626ea1b23df48e364ef491e18baff5120b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5185,
+    "sha256": "sha256:96fcc9362a96ed343bfa482b2144f55e6deb22bcb82fb1420eba88f8251574d7",
+    "normalized_content_hash": "sha256:88d5179ee92cab6714aacb6ac1590a190600f2f4a08b02ff0c3cdb852d9a43a0"
+  },
+  "provenance": {
+    "source_item_id": "f01836d2-62e8-4556-a64f-63705633e301",
+    "external_id": "https://blog.yelp.com/news/yelp-chatgpt-integration/"
+  }
+}

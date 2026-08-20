@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4fb0468e4e1ed9bb54e30daa98038c03402a05ae78553cf03456fbc1ea986d9",
+  "company": {
+    "key": "yc-aviator",
+    "name": "Aviator"
+  },
+  "source": {
+    "id": "yc-aviator-rss-35144b27026a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.aviator.co/blog/ai-code-review-is-still-a-review/",
+    "canonical": "https://www.aviator.co/blog/ai-code-review-is-still-a-review/"
+  },
+  "title": "AI Code Review Is Still a Review",
+  "summary": "AI code reviewed by AI can look correct, tests pass, style is fine and reviews approve, but still miss real requirements. The issue is not ability, it is circular validation. Both systems rely on the same patterns. Without a human-checked spec as the source of truth, correct can still be wrong.",
+  "published_at": "2026-05-28T09:15:37+00:00",
+  "first_seen_at": "2026-07-20T23:23:35.507164+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T18:48:04.813973+00:00",
+  "paths": {
+    "article": "articles/v1/3c/yc-aviator/2026/05/a4/a4fb0468e4e1ed9bb54e30daa98038c03402a05ae78553cf03456fbc1ea986d9/article.md",
+    "record": "articles/v1/3c/yc-aviator/2026/05/a4/a4fb0468e4e1ed9bb54e30daa98038c03402a05ae78553cf03456fbc1ea986d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11203,
+    "sha256": "sha256:6f78993b9ab5597d3f75e08b5675bdfdc8b0bf545e9b3d9520b81c1f87a019e4",
+    "normalized_content_hash": "sha256:2570da059c5ded4a1125600f0168e888845da7157a92da1dc81a553f065f41aa"
+  },
+  "provenance": {
+    "source_item_id": "b1c33d18-fbef-4322-84ce-4f73819f8b55",
+    "external_id": "https://www.aviator.co/blog/?p=5698"
+  }
+}

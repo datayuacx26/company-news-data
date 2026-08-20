@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "326b8490d6d6202be4c4a73f233f233f158274ccb8713d598f6ddf0e4440e951",
+  "company": {
+    "key": "yc-asteroid",
+    "name": "Asteroid"
+  },
+  "source": {
+    "id": "yc-asteroid-news-import-1b74f0bf6416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://asteroid.ai/blog/computer-use-in-healthcare/",
+    "canonical": "https://asteroid.ai/blog/computer-use-in-healthcare/"
+  },
+  "title": "Claude computer use in healthcare",
+  "summary": "How Asteroid and Anthropic are making computer use production-ready in healthcare: better Claude models, engineering around legacy EHRs, and workflows now running at scale.",
+  "published_at": "2026-08-20T00:00:00+00:00",
+  "first_seen_at": "2026-08-20T02:20:59.043392+00:00",
+  "fetched_at": "2026-08-20T02:21:00.414349+00:00",
+  "last_updated_at": "2026-08-20T02:21:00.534807+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-asteroid/2026/08/32/326b8490d6d6202be4c4a73f233f233f158274ccb8713d598f6ddf0e4440e951/article.md",
+    "record": "articles/v1/15/yc-asteroid/2026/08/32/326b8490d6d6202be4c4a73f233f233f158274ccb8713d598f6ddf0e4440e951/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21283,
+    "sha256": "sha256:5c025a8899d03a91eec3c1b7d137b6f745fb6387c666c2bc6e4220c1a8399dc9",
+    "normalized_content_hash": "sha256:22d7fea03c1624ba90f644e58eeb9585e3cf2610e9ea9634b0451c3d99a620ed"
+  },
+  "provenance": {
+    "source_item_id": "b30f86dc-0752-4938-87d1-5f8bd3dc18c7",
+    "external_id": "https://asteroid.ai/blog/computer-use-in-healthcare/"
+  }
+}

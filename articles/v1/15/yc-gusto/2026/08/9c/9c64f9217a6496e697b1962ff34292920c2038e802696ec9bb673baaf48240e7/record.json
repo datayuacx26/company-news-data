@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c64f9217a6496e697b1962ff34292920c2038e802696ec9bb673baaf48240e7",
+  "company": {
+    "key": "yc-gusto",
+    "name": "Gusto"
+  },
+  "source": {
+    "id": "yc-gusto-engineering-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.gusto.com/eval-driven-design-systems-part-2-5b989d492281?source=rss----645edd256348---4",
+    "canonical": "https://engineering.gusto.com/eval-driven-design-systems-part-2-5b989d492281"
+  },
+  "title": "Eval-Driven Design Systems (Part 2)",
+  "summary": "In our previous post, we treated Zod schemas as agent-readable contracts. But a schema is just a hypothesis; without tests, you’re shipping…",
+  "published_at": "2026-08-03T18:02:56+00:00",
+  "first_seen_at": "2026-08-03T20:17:48.268393+00:00",
+  "fetched_at": "2026-08-03T20:38:58.255627+00:00",
+  "last_updated_at": "2026-08-20T01:03:50.294664+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-gusto/2026/08/9c/9c64f9217a6496e697b1962ff34292920c2038e802696ec9bb673baaf48240e7/article.md",
+    "record": "articles/v1/15/yc-gusto/2026/08/9c/9c64f9217a6496e697b1962ff34292920c2038e802696ec9bb673baaf48240e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8956,
+    "sha256": "sha256:c81bb2012c5a488c54d4e1b8b5e9844810d9f7c4bdba45725cc8816a1f31cd06",
+    "normalized_content_hash": "sha256:af8a28516df3594b3771a8eb997ea6033c4a924ff92016862fbbba78f6787179"
+  },
+  "provenance": {
+    "source_item_id": "7a37fdfa-5e8a-45d4-a40b-3bef21ef23cf",
+    "external_id": "https://medium.com/p/5b989d492281"
+  }
+}

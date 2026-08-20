@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ingevity-corporation-common-stock",
+    "name": "Ingevity Corporation"
+  },
+  "record_count": 26,
+  "first_published_at": "2019-10-16T17:58:34+00:00",
+  "last_published_at": "2026-08-18T13:00:40+00:00",
+  "partitions": [
+    {
+      "partition": "2019-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/24/ingevity-corporation-common-stock/index/pages/000001.json",
+        "record_count": 26,
+        "byte_count": 32542,
+        "sha256": "sha256:dc480bcdc8540134dea1d85c06a782a928d874ec11dd42043941af8174e8b89f",
+        "newest_at": "2026-08-18T13:00:40+00:00",
+        "oldest_at": "2019-10-16T17:58:34+00:00"
+      }
+    ]
+  }
+}

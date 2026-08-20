@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5bc37774daaa1252be2abe0ab5237ea61ca892f65f792592a0e1b696d89ed9bb",
+  "company": {
+    "key": "yc-arpari",
+    "name": "Arpari"
+  },
+  "source": {
+    "id": "yc-arpari-news-import-d67ae8fe8438",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arpari.com/post/built-on-broken-data-why-short-term-cash-forecasting-fails-before-the-model-even-runs",
+    "canonical": "https://www.arpari.com/post/built-on-broken-data-why-short-term-cash-forecasting-fails-before-the-model-even-runs"
+  },
+  "title": "Built on Broken Data: Why Short Term Cash Forecasting Fails Before the Model Even Runs",
+  "summary": "Short term cash forecasts miss not because the models are weak but because fragmented, manual data assembly corrupts the inputs before the model ever runs.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T23:19:32.855643+00:00",
+  "fetched_at": "2026-08-10T23:19:35.640902+00:00",
+  "last_updated_at": "2026-08-19T23:08:36.923930+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-arpari/2026/08/5b/5bc37774daaa1252be2abe0ab5237ea61ca892f65f792592a0e1b696d89ed9bb/article.md",
+    "record": "articles/v1/34/yc-arpari/2026/08/5b/5bc37774daaa1252be2abe0ab5237ea61ca892f65f792592a0e1b696d89ed9bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7024,
+    "sha256": "sha256:e64c4064f88c41ee8566ae25f4035512fe2db6da29306e049cf27a4bf1229edb",
+    "normalized_content_hash": "sha256:3ef55d4758abc998b1ad12ecb1407d4375529d6d6ec4135954348dfb536cc0d0"
+  },
+  "provenance": {
+    "source_item_id": "932a3de2-4e7d-4197-876c-55ce9cc69798",
+    "external_id": "https://www.arpari.com/post/built-on-broken-data-why-short-term-cash-forecasting-fails-before-the-model-even-runs"
+  }
+}

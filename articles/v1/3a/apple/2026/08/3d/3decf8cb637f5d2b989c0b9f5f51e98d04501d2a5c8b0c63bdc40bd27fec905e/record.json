@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3decf8cb637f5d2b989c0b9f5f51e98d04501d2a5c8b0c63bdc40bd27fec905e",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/semismooth-newton-optimal-transport",
+    "canonical": "https://machinelearning.apple.com/research/semismooth-newton-optimal-transport"
+  },
+  "title": "A Specialized Semismooth Newton Method for Kernel-Based Optimal Transport",
+  "summary": "Kernel-based optimal transport (OT) estimators offer an alternative, functional estimation procedure to address OT problems from samples…",
+  "published_at": null,
+  "first_seen_at": "2026-08-19T12:44:48.398250+00:00",
+  "fetched_at": "2026-08-19T12:44:50.170902+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/3d/3decf8cb637f5d2b989c0b9f5f51e98d04501d2a5c8b0c63bdc40bd27fec905e/article.md",
+    "record": "articles/v1/3a/apple/2026/08/3d/3decf8cb637f5d2b989c0b9f5f51e98d04501d2a5c8b0c63bdc40bd27fec905e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1928,
+    "sha256": "sha256:662485b12459c36d8a4a99ca228193bb1ec5a5866bf043125cf8c5b4dfb681c0",
+    "normalized_content_hash": "sha256:88eae3093eaa5c6dbf760db52ceb65c324da433113b136d75861e0fb23cdbb10"
+  },
+  "provenance": {
+    "source_item_id": "cb9eef1c-22ef-425e-87b0-8f14383bcd47",
+    "external_id": "https://machinelearning.apple.com/research/semismooth-newton-optimal-transport"
+  }
+}

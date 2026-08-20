@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "938c9075585a49c7bfa3491074c6388b3d182a5cedd942909a2003e61c09b143",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-couchdb",
+    "canonical": "https://signoz.io/blog/opentelemetry-couchdb"
+  },
+  "title": "Monitoring CouchDB with OpenTelemetry and SigNoz",
+  "summary": "Monitor CouchDB with OpenTelemetry using the Collector's CouchDB receiver, and visualize the metrics in SigNoz.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/93/938c9075585a49c7bfa3491074c6388b3d182a5cedd942909a2003e61c09b143/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/93/938c9075585a49c7bfa3491074c6388b3d182a5cedd942909a2003e61c09b143/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17145,
+    "sha256": "sha256:8a529edc5c48651e39d98086b9c0404f2893c972cb3dcac880b19e0dd6f9de03",
+    "normalized_content_hash": "sha256:94b8584dd4396b3909c204ecf82eb0131b7e9f50f4caa9a51cd983be949302d7"
+  },
+  "provenance": {
+    "source_item_id": "7f0ae781-194c-41c0-945f-59d0330cae87",
+    "external_id": "https://signoz.io/blog/opentelemetry-couchdb"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "802504f0e26836b5e4b665e784a421cb1a7677cec21df0d8ef426a299d7a3cf8",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling",
+    "canonical": "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling"
+  },
+  "title": "Uncertainty Quantification for LLM Function-Calling",
+  "summary": "Large Language Models (LLMs) are increasingly deployed to autonomously solve real-world tasks. A key ingredient for this is the LLM…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-03T13:54:57.759858+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/80/802504f0e26836b5e4b665e784a421cb1a7677cec21df0d8ef426a299d7a3cf8/article.md",
+    "record": "articles/v1/3a/apple/2026/07/80/802504f0e26836b5e4b665e784a421cb1a7677cec21df0d8ef426a299d7a3cf8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2101,
+    "sha256": "sha256:15f60727e54903fdb3a98b3c28f45f64158a1f8c483024083ffb579bb2ed469d",
+    "normalized_content_hash": "sha256:aad8bc3251e7af993e5edcd3bb020ca392c83e03be8c6672d3f7b48c2c17f6fe"
+  },
+  "provenance": {
+    "source_item_id": "b161de91-395e-4086-ad5c-a31a0aa264e1",
+    "external_id": "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling"
+  }
+}

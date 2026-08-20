@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "kyndryl-holdings-inc-common-stock",
+    "name": "Kyndryl Holdings Inc."
+  },
+  "record_count": 55,
+  "first_published_at": "2026-06-10T13:00:00+00:00",
+  "last_published_at": "2026-08-19T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 35
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 16
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/27/kyndryl-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 59268,
+        "sha256": "sha256:348625610bb103f729ec9f3c464e2f5993f02e01d2a2a2569d0bf5a4943a6056",
+        "newest_at": "2026-08-19T21:43:50.191337+00:00",
+        "oldest_at": "2026-07-01T16:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/27/kyndryl-holdings-inc-common-stock/index/pages/000002.json",
+        "record_count": 5,
+        "byte_count": 6935,
+        "sha256": "sha256:75bcf0d1423e3e2da107e2be57c03aeba09bc22e6cf648367faa445275dbc7b2",
+        "newest_at": "2026-07-01T13:00:00+00:00",
+        "oldest_at": "2026-06-10T13:00:00+00:00"
+      }
+    ]
+  }
+}

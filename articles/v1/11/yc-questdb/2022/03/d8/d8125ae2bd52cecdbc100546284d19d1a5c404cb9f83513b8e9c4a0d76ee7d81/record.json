@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8125ae2bd52cecdbc100546284d19d1a5c404cb9f83513b8e9c4a0d76ee7d81",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/03/29/crypto-volumes-julia-questdb/",
+    "canonical": "https://questdb.com/blog/2022/03/29/crypto-volumes-julia-questdb/"
+  },
+  "title": "Crypto Volume Profiles with QuestDB and Julia",
+  "summary": "Build Bitcoin volume curves using Julia and QuestDB to better understand the flow of trading throughout the day.",
+  "published_at": "2022-03-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-07-28T21:37:28.128033+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/03/d8/d8125ae2bd52cecdbc100546284d19d1a5c404cb9f83513b8e9c4a0d76ee7d81/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/03/d8/d8125ae2bd52cecdbc100546284d19d1a5c404cb9f83513b8e9c4a0d76ee7d81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20867,
+    "sha256": "sha256:91a570b67eb84f24fbb60c0e6c4c98f86076476430b8abfadf55590806c34c58",
+    "normalized_content_hash": "sha256:afbca648dd7fbaa80baf6e5d72a0cdc2b9e675afe13170ac77ff1fac5eeae9de"
+  },
+  "provenance": {
+    "source_item_id": "ef19b7df-757c-4fcd-8a0b-2be1e7b03889",
+    "external_id": "https://questdb.com/blog/2022/03/29/crypto-volumes-julia-questdb/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59b68ead33a27239cd0c9eb2a46c8bc21c9976efbba4d22d42d6f8ad0007b483",
+  "company": {
+    "key": "yc-asteroid",
+    "name": "Asteroid"
+  },
+  "source": {
+    "id": "yc-asteroid-news-import-1b74f0bf6416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://asteroid.ai/blog/building-reliable-browser-automation/",
+    "canonical": "https://asteroid.ai/blog/building-reliable-browser-automation/"
+  },
+  "title": "After browser agent version 47, you need an eval",
+  "summary": "Once you have iterated a browser agent dozens of times, you need an eval. Learn the principles for reliable, mission-critical browser agents. Read the guide.",
+  "published_at": "2025-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:09:50.096820+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T02:20:59.043392+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-asteroid/2025/06/59/59b68ead33a27239cd0c9eb2a46c8bc21c9976efbba4d22d42d6f8ad0007b483/article.md",
+    "record": "articles/v1/15/yc-asteroid/2025/06/59/59b68ead33a27239cd0c9eb2a46c8bc21c9976efbba4d22d42d6f8ad0007b483/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6772,
+    "sha256": "sha256:5a92d9fec9725e45947224dedfd6bab657f581073bdfd3eaf1f701f3f424391d",
+    "normalized_content_hash": "sha256:54f27a2e51397aea52bb576fce73b7cd3494b6276e776a7012593d51e694ccb6"
+  },
+  "provenance": {
+    "source_item_id": "532ea4e0-408c-491a-82da-b698f368dab0",
+    "external_id": "https://asteroid.ai/blog/building-reliable-browser-automation/"
+  }
+}

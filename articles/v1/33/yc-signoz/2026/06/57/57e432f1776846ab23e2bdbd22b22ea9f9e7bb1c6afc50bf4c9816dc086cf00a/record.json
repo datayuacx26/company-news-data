@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "57e432f1776846ab23e2bdbd22b22ea9f9e7bb1c6afc50bf4c9816dc086cf00a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/microservices-logging",
+    "canonical": "https://signoz.io/blog/microservices-logging"
+  },
+  "title": "Microservices Logging: Best Practices and Architecture",
+  "summary": "Learn microservices logging patterns, centralized collection, correlation, best practices, and monitoring with SigNoz.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:49.270050+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/57/57e432f1776846ab23e2bdbd22b22ea9f9e7bb1c6afc50bf4c9816dc086cf00a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/57/57e432f1776846ab23e2bdbd22b22ea9f9e7bb1c6afc50bf4c9816dc086cf00a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33028,
+    "sha256": "sha256:081e70f5f465aaf24f4713077745bcab3eca7529ccef1b5d784a184cf2143f68",
+    "normalized_content_hash": "sha256:59939a9d6981d69f3c037501a1731688637479d82a552a966a5f9404ffd4b60f"
+  },
+  "provenance": {
+    "source_item_id": "4ef016ce-26dc-4d2c-8979-e9cc4afe6d9b",
+    "external_id": "https://signoz.io/blog/microservices-logging"
+  }
+}

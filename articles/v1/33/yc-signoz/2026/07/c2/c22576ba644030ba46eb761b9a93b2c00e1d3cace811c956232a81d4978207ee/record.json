@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c22576ba644030ba46eb761b9a93b2c00e1d3cace811c956232a81d4978207ee",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/how-to-log-all-the-processes-running-inside-a-docker-container",
+    "canonical": "https://signoz.io/guides/how-to-log-all-the-processes-running-inside-a-docker-container"
+  },
+  "title": "How to log all the processes running inside a Docker container - Step by Step Guide",
+  "summary": "Learn methods to log and monitor processes running inside Docker containers, from docker top to centralized process logging.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.515732+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/c2/c22576ba644030ba46eb761b9a93b2c00e1d3cace811c956232a81d4978207ee/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/c2/c22576ba644030ba46eb761b9a93b2c00e1d3cace811c956232a81d4978207ee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 42064,
+    "sha256": "sha256:e89db2b4f55652ecac28cf832b3bb1f33f584bae7b7ff95b7b52e744860e9677",
+    "normalized_content_hash": "sha256:db307a9526e2233d1ed058d18cbfdff2a4d2d0948fa4ab90a0f88526edfa6d62"
+  },
+  "provenance": {
+    "source_item_id": "0d27cd97-66c9-4e5a-93a9-ea235c555702",
+    "external_id": "https://signoz.io/guides/how-to-log-all-the-processes-running-inside-a-docker-container"
+  }
+}

@@ -1,0 +1,59 @@
+---
+schema_version: "1.0.0"
+document_id: "4816ec9cbfb97b14fa0aaf4095a083021c707c77e8a3d7b8630e560f3a897c83"
+company_key: "tmc-the-metals-company-inc-common-stock"
+company: "TMC the metals company Inc."
+source_id: "tmc-the-metals-company-inc-common-stock-rss-e95c215e80f5"
+canonical_url: "https://investors.metals.co/news-releases/news-release-details/noaa-determines-tmc-usas-consolidated-deep-seabed-mining-0"
+published_at: "2026-05-01T12:00:31+00:00"
+first_seen_at: "2026-07-20T23:22:02.324529+00:00"
+fetched_at: "2026-07-28T21:44:49.635544+00:00"
+content_hash: "sha256:2d0b3ff05371de187640ea7cfc806ab784a239673cbb7e5d12c7f83f079506f4"
+---
+
+# NOAA Determines TMC USA’s Consolidated Deep-Seabed Mining Application is in Full Compliance
+
+- Full compliance represents a key milestone in the regulatory approval process for TMC USA’s consolidated exploration and commercial recovery application
+- TMC USA’s consolidated application submitted earlier this year covers areas previously applied for in April 2025 and increases the commercial recovery area from ~25,000 to ~65,000 km2, with an estimated resource of 619 million tonnes (Mt) of wet nodules and potential exploration upside of an additional 200 Mt
+- NOAA’s updated regulatory framework allows applicants with exploration-phase data to submit a consolidated application for both an exploration license and commercial recovery permit, supporting a more efficient permitting timeline
+- Determination of full compliance represents another step along the path of regulatory milestones that the Company expects will result in a permit before the end of Q1 2027
+
+
+NEW YORK, May 01, 2026 (GLOBE NEWSWIRE) -- TMC the metals company Inc. (Nasdaq: TMC) (“TMC” or the “Company”), a leading developer of the world’s largest resource of critical metals essential to energy, defense, manufacturing and infrastructure, today announced that the National Oceanic and Atmospheric Administration (NOAA) has determined that the consolidated application submitted by the Company’s subsidiary, The Metals Company USA LLC (“TMC USA”), for an exploration license and commercial recovery permit under the Deep Seabed Hard Mineral Resources Act (DSHMRA) is in full compliance with the requirements of the Act and its implementing regulations.
+
+
+The determination of full compliance follows the determination of substantial compliance in March and represents another key step in a steady, transparent cadence of expected regulatory milestones:
+
+
+- The consolidated application now moves into the certification stage of the review process and will be posted to the Federal Register
+- Following certification, a draft Environmental Impact Statement (EIS) for TMC USA’s project will be published for public comment
+- Following the public comment period, the EIS will be finalized and NOAA will make a final determination on whether to issue the license and permit
+- TMC USA expects the process will conclude before the end of Q1 2027
+
+
+Earlier this year, TMC USA submitted[a consolidated application](https://www.globenewswire.com/Tracker?data=iwXdJ_yysKy11kVH_XbiekXrJAVkrwhn9WTBh9zKjyZQ2cFt6nCAOltN4XnpXBA93hHrC0krx8tonTkzTvYt-MH1WFI3TR2z-fbDtFf10CRkmCObTshNGK1tZlqSGkTwRqU_iv3yihv0TQu1iIAQnPba-IrhVr8DkLpvhuHyYPF8SKfek7YDvjUDYcX607-jmJo2BxzQrXHuFGDl1IAFD7GV9ULH9o6wC3X8mtjgfQX4QM2JOPmiVEwvKAavMzqZ_E2DD9pBXA1s6OggHMr71da3hAVBert3esx574qZPP7uMh4O5wS9NMQCfE50B5HJVyaHMa_MEthnqEtuXfYPLQIF7kOYDyZA51OIfIi2fpq-VxqBFNAczSZycxLxQF5_Tn1ixnMNh7fKvBD049fGIxDRRf9iIfgbwNlsKl5RMXvbvuvapXifqLS45OTEDR3RDqo81XXenfv2Acd2sIOCoA==) for an exploration license and a commercial recovery permit for polymetallic nodules in international waters of the Clarion Clipperton Zone (CCZ) in the Pacific Ocean. The application was filed under NOAA’s[new consolidated application and review process](https://www.globenewswire.com/Tracker?data=SNTCztpYTOO_LuKDKhCkMc1tP7ro81bFCYUn3uwFSKLXhz05OfzYj6415LBBPVsRqxPkPQbRbKVGZqljTMCL_f5RQGOfDQreBlfrHrcQ7QasH8jNKFMBo85qjNd7pbPCmM6yW8MwXoCxsEE_12HOjbXi1fwp73qoshGepchsnJammdtOf5KtR5hAckYz5G_fxrrijL3pkF359Lw3ow7xzVbsj3LKDrOFG8lrgfvrsZpZl5oapBSgfpDpbjO2b5na_u0WTbd3hvLGDdk2vaNlmr0gkPgcD9TF93obo8SpQ9LHLx31L1HlJ2vrB0pgG1BV65yMt0XPv68hb-hEi7nTYjRKXZm2hDhlV9ZLfa5Iziu-fCJ3VIs8Vt9a5WmSTcJESeSpzErbtsENnO5GHkbDCRkK2zQ4OwUaw7tnrQmT0c715H_RSEzpCfjUn0wRozuqOhG4StuJOwgk1Zi_-_Hehr4qPc6sdrGAS7L9kEhpDSCFFTpB2Os06V_r1ApGL1C953NMJsy6LMq55lpkSF54Yw==) and represents the first submission of its kind. It covers a ~65,000 km2 exploration and commercial recovery area in the CCZ, compared to a commercial recovery area of ~25,000 km2 in TMC USA’s initial commercial recovery permit application from April 2025.
+
+
+Gerard Barron, Chairman and CEO of The Metals Company, said: “This determination marks an important step forward in NOAA’s transparent, rules-based process, and brings us ever closer to providing the U.S. with a new, abundant and lower-impact source of critical metals. It reflects the sheer scale of scientific, environmental and engineering effort and expertise that have been brought to bear on this project over the last 15 years, which provides us with sufficient information to move efficiently and responsibly into commercial operations under NOAA’s oversight.”
+
+
+The consolidated application process provides a more efficient regulatory timeline by allowing exploration-phase environmental, geological and engineering data to be incorporated directly into the commercial recovery review process.
+
+
+TMC USA’s application is informed by more than a decade of environmental baseline studies, scientific[research](https://www.globenewswire.com/Tracker?data=6PPsRTsMiMAz_4Kcop7ycPDqjIgudrlYjBORd4cuV_WgS9cXcJzSxrG8szfJIQirlqYK6aYmzlhnnoxnAYD0y15unTr_Mgr8UC688_g_BaYIOuPltHemKcFoLOq-3V6Dx38JgqebfpfQC-cXU1JDRYhTfZxWM9ke5Rl-xFqLUmKrxh-MxxUER1iWllzQKWOBUn_BmS86-E1jk9o0427h_Gf-fbu3WdrnkQ-RpuK6yT4=) and[offshore engineering](https://www.globenewswire.com/Tracker?data=YNDazsB8qsiTbwooRkpQKaoBHhFtfus4IZE-Puyx4BLkCJobqzS7iZEvuwHu2QsMx0xEuREvdpDt1fABjq5nlUs2EqFbw5RewiSwUBDIFAS5VOgZyhZlWaDUBM-wm3qbXaLravVKNjFswReVqICeqn88KPDusj40mMvW5fqXlZq0rrQBa9YoFtx1GYi12UufNvL6ldnyYhNF8LyDUp09NmA6dcyBLtaaXMEJckUPK6kUafnEs3e8bFwCk_OKCyNsmVdv9xhaRDL01euEvY91XzMmjVrcFNPSuwdDZtwvAJk=) conducted by the Company and its partners, building one of the most comprehensive datasets ever assembled on polymetallic nodules and their surrounding ecosystems.
+
+
+NOAA has played a central role in advancing scientific understanding of deep seabed mining impacts since the 1970s, including conducting environmental research cruises in the Clarion Clipperton Zone, monitoring early nodule collection trials and publishing a Programmatic Environmental Impact Statement covering the area that included the CCZ in 1981. The agency issued implementing regulations under DSHMRA for exploration licenses in 1981 and commercial recovery permits in 1989 and has maintained an active licensing program since that time.
+
+
+**About The Metals Company**
+The Metals Company is a developer of lower-impact critical metals from seafloor polymetallic nodules, on a dual mission: (1) supply metals for energy, defense, manufacturing and infrastructure with net positive impacts compared to conventional production routes and (2) trace, recover and recycle the metals we supply to help create a metal commons that can be used in perpetuity. The Company has conducted more than a decade of research into the environmental and social impacts of offshore nodule collection and onshore processing. More information is available at www.metals.co.
+
+
+**Contacts**
+Media |[\[email protected\]](https://www.globenewswire.com/Tracker?data=llb2SLMiy1fhjyV7_hDyJNEcWCFHw1frZdNsEA2AaSFDYcS58AAOAoEgYnJivT3RQoYKGxWdU-KBhHT2JLn8QAv_nSMdtOTZCSzAPvAOrxgOYx35ZXq3QhyrY5U79cPF_5wg0zOY2CQ56MCZS8-z-oNA7cLM6XQ41dM9Fqo7yQLgHghqqxIfmYRyctexfupaBKTlPQkF5GUBTrSB9PYU8bDaCl69e5P9KqI_uStn4-qCj22blLc04e2hzVTmjT7IvnDqBNdzPf4AtDiUx7hb1g==)
+Investors |[\[email protected\]](https://www.globenewswire.com/Tracker?data=0l_jLyGpvK7KjZndDOtQF3lsFhOrv2tDgtL3QF_oxtdTQ7CqpE2blQ4nTrwt6NPj3PrN0FJSLFZLMGcxuMgfnWyofJZR64P3eR9Dft7fbsYeCMZbDNG-F2Ageir3aVIFHTpCLKiqNf6diUi9uEa-I2It2MDAL5umnZ4peVYr-RzBuMJyfcDhyoKb9sg31h0I2wyKsGi9goCDLbqruLraomUBXwJpW25mVTiexqOwnJyScLVS2X6s2JdLBh84_HmUugEBnEVV8QAlLTpfuwIOvQ==)
+
+
+**Forward-Looking Statements**
+This press release contains forward-looking statements and information within the meaning of the Private Securities Litigation Reform Act of 1995. These statements may be identified by words such as believes, could, expects, may, plans, possible, potential, will and variations of these words or similar expressions, although not all forward-looking statements contain these words. Forward-looking statements in this press release include, but are not limited to, statements with respect to the Company’s strategy to pursue commercial recovery of seafloor polymetallic nodules under the U.S. regulatory regime; the implications of NOAA’s determination that TMC USA’s consolidated application is in full compliance with the requirements of DSHMRA and its implementing regulations; the anticipated certification, public notice, public comment, environmental review and final determination process for the consolidated application submitted under NOAA’s regulations under DSHMRA; the Company’s expectation that the process will conclude before the end of Q1 2027; the anticipated scope, timing and outcome of NOAA’s review of the consolidated application; the expected initial operations of the Company in the event the consolidated application is approved; the size of the exploration and commercial recovery area covered by the consolidated application and the estimated resource potential within that area; the expected biological communities and near-bottom sediment plume dynamics in the mining sites; the results of the PFS, including project economics, capital and operating cost projections, expected production volumes, recoveries and grades; and the anticipated commercial development upon approval of the consolidated application. The Company may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements, and you should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in these forward-looking statements as a result of various factors, including, among other things, NOAA’s review of the consolidated application and any determinations made during that review, including with respect to the scope of any exploration license or commercial recovery permit that may ultimately be granted; the outcome and timing of regulatory reviews by NOAA under the Deep Seabed Hard Mineral Resources Act of 1980 and the regulations promulgated thereunder; the ability to obtain an exploitation contract from the International Seabed Authority or permits from the U.S. government; risks related to the Company’s dual path permitting strategy; changes in environmental, mining and other applicable laws and regulations; the development, testing and scaling of offshore collection systems; risks related to strategic partnerships and technology sharing; uncertainties relating to processing nodules at commercial scale; the outcome of any pending or future litigation; and other risks and uncertainties described in greater detail in the section entitled Risk Factors in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, filed with the U.S. Securities and Exchange Commission on March 31, 2026. Any forward-looking statements contained in this press release speak only as of the date hereof, and the Company expressly disclaims any obligation to update any forward-looking statements contained herein, whether because of new information, future events, changed circumstances or otherwise, except as required by law.

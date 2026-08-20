@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2881019c6bae20303bfe97b9009ee3c5b5915401d549b4756b82d64cf452d635",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/metrics-management/volume-control",
+    "canonical": "https://signoz.io/docs/metrics-management/volume-control"
+  },
+  "title": "Metric Volume Control - Reduce Cardinality and Cost",
+  "summary": "Reduce metric cardinality and cost by aggregating away high-cardinality attributes at storage with per-metric volume control rules.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/28/2881019c6bae20303bfe97b9009ee3c5b5915401d549b4756b82d64cf452d635/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/28/2881019c6bae20303bfe97b9009ee3c5b5915401d549b4756b82d64cf452d635/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 684,
+    "sha256": "sha256:4d8f48e2c4b3b0fe4e1b71288410b66976b8279a8c1573f53d3a03f6e4730710",
+    "normalized_content_hash": "sha256:d281803f37931f6402d1c2c4c2fc6fd79452317026c8858395968f6e2adeca40"
+  },
+  "provenance": {
+    "source_item_id": "ba69e376-c89b-4ece-bb88-418b805b309d",
+    "external_id": "https://signoz.io/docs/metrics-management/volume-control"
+  }
+}

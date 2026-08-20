@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d63396e828e2b8bb9987f3aa325196c06a0a9f536a76408817b275c6388f069",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/traffic-data-lake/",
+    "canonical": "https://speedscale.com/blog/traffic-data-lake/"
+  },
+  "title": "Capture once, test forever",
+  "summary": "Production traffic is the most complete record of what your system does, and most teams throw it away. One capture powers reproduce, validate, and sandbox.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:49:06.862285+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/06/4d/4d63396e828e2b8bb9987f3aa325196c06a0a9f536a76408817b275c6388f069/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/06/4d/4d63396e828e2b8bb9987f3aa325196c06a0a9f536a76408817b275c6388f069/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7482,
+    "sha256": "sha256:311af50359aeee940e55d1ef1d0219e1fd176b2bca0dfd572ea9362237a8fceb",
+    "normalized_content_hash": "sha256:a92c3b81556d313b6182bdb71710bbca69fd6404529b3f29a2c5a4d4df8aae40"
+  },
+  "provenance": {
+    "source_item_id": "427e5402-b34d-473e-92df-50691707e097",
+    "external_id": "https://speedscale.com/blog/traffic-data-lake/"
+  }
+}

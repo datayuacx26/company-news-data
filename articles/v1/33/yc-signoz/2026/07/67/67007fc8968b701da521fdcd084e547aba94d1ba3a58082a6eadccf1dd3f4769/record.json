@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67007fc8968b701da521fdcd084e547aba94d1ba3a58082a6eadccf1dd3f4769",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/java-lang-classnotfoundexception-org-apache-logging-log4j-logger-after-updating-log4j-1-2-17-to-2-13-0",
+    "canonical": "https://signoz.io/guides/java-lang-classnotfoundexception-org-apache-logging-log4j-logger-after-updating-log4j-1-2-17-to-2-13-0"
+  },
+  "title": "How to Fix Log4j ClassNotFoundException After Upgrade to 2.x",
+  "summary": "Learn how to fix the Log4j ClassNotFoundException when upgrading from 1.x to 2.x, with step-by-step classpath and dependency fixes.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.558017+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/67/67007fc8968b701da521fdcd084e547aba94d1ba3a58082a6eadccf1dd3f4769/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/67/67007fc8968b701da521fdcd084e547aba94d1ba3a58082a6eadccf1dd3f4769/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22086,
+    "sha256": "sha256:f3edfd20eb353b0d29350e99d264a250ce676b44897a062a68dd7a1ab65e5db9",
+    "normalized_content_hash": "sha256:2bc048142d8af152e721677443dc1136538334f02e9b107357bb8dd29d33b61c"
+  },
+  "provenance": {
+    "source_item_id": "2e697776-5fb3-4ada-870c-daae0bf0acd4",
+    "external_id": "https://signoz.io/guides/java-lang-classnotfoundexception-org-apache-logging-log4j-logger-after-updating-log4j-1-2-17-to-2-13-0"
+  }
+}

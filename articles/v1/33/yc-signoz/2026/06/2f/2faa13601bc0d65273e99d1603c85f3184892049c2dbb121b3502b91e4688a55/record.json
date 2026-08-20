@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2faa13601bc0d65273e99d1603c85f3184892049c2dbb121b3502b91e4688a55",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/database-monitoring",
+    "canonical": "https://signoz.io/guides/database-monitoring"
+  },
+  "title": "Database Monitoring 101 - Essential Guide for Performance",
+  "summary": "Database monitoring in 2026: track query performance, connections, and resource metrics with OpenTelemetry and SigNoz. Metrics, setup, and best practices.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:46.052182+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/2f/2faa13601bc0d65273e99d1603c85f3184892049c2dbb121b3502b91e4688a55/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/2f/2faa13601bc0d65273e99d1603c85f3184892049c2dbb121b3502b91e4688a55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20055,
+    "sha256": "sha256:6641357e5dbeb5ad1927ad509aad3b2b23a4b2a8091f6c36d9132403bef32539",
+    "normalized_content_hash": "sha256:c2cac9bd89ebea803c7c8ffbff27effb600bffc775f84446d1745f0dd95c6738"
+  },
+  "provenance": {
+    "source_item_id": "00a314fb-b68a-4a6f-bc2b-e3fe8acad985",
+    "external_id": "https://signoz.io/guides/database-monitoring"
+  }
+}

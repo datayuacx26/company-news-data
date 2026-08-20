@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66a22b8bf08f26c81760ddec1e708823ca1146077d993efab93644b438bd464d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/ai/use-cases/noz-tune-noisy-alert",
+    "canonical": "https://signoz.io/docs/ai/use-cases/noz-tune-noisy-alert"
+  },
+  "title": "Tune a Noisy Alert with Noz",
+  "summary": "When an alert pages too often, ask Noz to read its firing history and recommend a threshold and evaluation window that cut the noise without missing real incidents.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/66/66a22b8bf08f26c81760ddec1e708823ca1146077d993efab93644b438bd464d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/66/66a22b8bf08f26c81760ddec1e708823ca1146077d993efab93644b438bd464d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 693,
+    "sha256": "sha256:fbc84604df4e72d2d70fb879bf254b75d53fa1a87a33bfcf542fe4e60e010bd9",
+    "normalized_content_hash": "sha256:ac98978c36252c1284da63b1579df555e1ccfc3d3c549b15e96e95cd382199b2"
+  },
+  "provenance": {
+    "source_item_id": "5d7ae555-ee6d-4984-b1d0-9166ac6f75ed",
+    "external_id": "https://signoz.io/docs/ai/use-cases/noz-tune-noisy-alert"
+  }
+}

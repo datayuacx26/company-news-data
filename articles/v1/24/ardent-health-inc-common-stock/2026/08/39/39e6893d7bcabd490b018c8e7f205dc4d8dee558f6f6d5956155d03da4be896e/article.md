@@ -1,0 +1,63 @@
+---
+schema_version: "1.0.0"
+document_id: "39e6893d7bcabd490b018c8e7f205dc4d8dee558f6f6d5956155d03da4be896e"
+company_key: "ardent-health-inc-common-stock"
+company: "Ardent Health Inc."
+source_id: "ardent-health-inc-common-stock-rss-64d4a1dda5eb"
+canonical_url: "https://ardenthealth.com/our-stories/oklahoma-heart-institute-brings-new-national-cardiovascular-trials-and-technologies"
+published_at: "2026-08-11T14:02:45+00:00"
+first_seen_at: "2026-08-11T15:31:03.176905+00:00"
+fetched_at: "2026-08-11T15:31:04.300182+00:00"
+content_hash: "sha256:ce58612d6c0a6679b8ef7a29732c6c66aa7d54d7487ea60e6e49399f2685e19a"
+---
+
+# Oklahoma Heart Institute brings new national cardiovascular trials and technologies to patients across the region
+
+##### Nationally recognized structural heart program first in the country to use the next-generation Supira heart pump in a national clinical trial
+
+
+**BRENTWOOD, Tenn. and TULSA, Okla. (Aug. 11, 2026)** —[Oklahoma Heart Institute](https://oklahomaheart.com/) (OHI), part of Hillcrest HealthCare System and Ardent Health (NYSE: ARDT), is now the only site in Oklahoma and the surrounding region participating in several leading national cardiovascular trials – and recently became the first in the United States to use the next-generation Supira percutaneous left ventricular assist device (pVAD) as part of the[SUPPORT II clinical trial](https://supiramedical.com/supira-medical-announces-fda-approval-for-support-ii-pivotal-trial-advances-in-cardiogenic-shock-and-appointment-of-d-keith-grossman-to-board-of-directors/) . Through this research, OHI is expanding access to emerging therapies often available only at select academic medical centers.
+
+
+The Supira pVAD is a minimally invasive heart pump that supports the left ventricle as it moves blood through the heart during high-risk stenting procedures. Its smaller profile is designed to safely extend these complex procedures to more patients who previously had limited options.
+
+
+The SUPPORT II trial is one of several national studies OHI is participating in to evaluate emerging technologies for patients with complex heart conditions. Structural heart specialist Kamran Muhammad, MD, FACC, FSCAI, has helped build OHI's national profile – performing Tulsa's first transcatheter aortic valve replacement (TAVR) procedure in 2012 and establishing OHI as a destination for advanced cardiovascular care.
+
+
+"Our goal has always been to ensure patients in our region have access to the same innovative therapies and research opportunities available at the nation's leading cardiovascular centers," said Dr. Muhammad. "Clinical research plays a critical role in advancing patient care, and we're proud that Oklahoma Heart Institute continues to bring promising new technologies and treatment options to our region."
+
+
+Earlier this year, Dr. Muhammad was invited to present OHI's experience in the STAR Trial during a symposium at New York Valves, a leading global conference focused on structural heart and valve disease. The STAR Trial is evaluating a next-generation transcatheter aortic valve replacement technology and has generated significant interest within the cardiology community. OHI's participation is helping evaluate technologies designed to improve outcomes for patients with structural heart disease and expand local access to emerging therapies.
+
+
+OHI's leadership in cardiovascular research extends beyond current studies. The institute was recognized as the leading global enroller in the landmark ENCIRCLE Trial, which supported FDA approval of the Edwards SAPIEN M3 transcatheter mitral valve replacement (TMVR) system in 2025 – the first device to replace the mitral valve without open heart surgery. OHI was among the first centers in the nation to offer the therapy following approval and is currently the only provider of the technology in Oklahoma and one of only a few centers in the region offering the therapy – helping expand access to advanced, minimally invasive treatment options for patients who previously had limited alternatives. Results from the ENCIRCLE Trial were published in The Lancet in 2025, with Dr. Muhammad serving as a contributing author.
+
+
+Dr. Muhammad's work and OHI's research program reflect Ardent Health's broader commitment to advancing care through physician-led innovation, clinical research and strategic investment in emerging technologies. By participating in leading national studies, OHI is helping expand patient access to promising new therapies while contributing to the future of cardiovascular care.
+
+
+"What's happening at Oklahoma Heart Institute is proof that leading-edge cardiovascular care doesn't only happen at academic medical centers – it can happen close to home," said Ardent Health Chief Medical Officer F.J. Campbell, MD. "The breadth of research underway at OHI demonstrates the expertise of our team and Ardent Health's commitment to investing in innovation, clinical excellence and expanded treatment options for the patients and communities we serve."
+
+
+The Siegel TAVR System being evaluated in the STAR Trial is an investigational device and has not received FDA approval. The Supira System is also an investigational device and is not approved for sale in the United States.
+
+
+**About Oklahoma Heart Institute**
+As the cardiovascular institute of Hillcrest HealthCare System,[Oklahoma Heart Institute](https://oklahomaheart.com/) (OHI) is a nationally recognized cardiovascular program providing advanced heart and vascular care across Oklahoma and the surrounding region. For more than 30 years, OHI has combined nationally recognized physicians, state-of-the-art technology and a commitment to advancing cardiovascular care to deliver comprehensive services – from prevention and diagnostics to structural heart interventions, open-heart surgery and rehabilitation. A leader in cardiovascular research and clinical trials, OHI helps expand access to emerging therapies and advanced treatment options while advancing the future of heart care through expertise, innovation and compassionate care.
+
+
+**About Ardent Health**
+[Ardent Health](https://ardenthealth.com/) (NYSE: ARDT) is a leading provider of healthcare in growing mid-sized urban communities across the U.S. The Company delivers care through its subsidiaries, which include 30 acute care hospitals and more than 280 sites of care with over 2,000 employed and affiliated providers across six states. Anchored by a shared operating model and a commitment to investing in innovative services and technologies that improve quality, access and experience, Ardent is focused on delivering strong clinical outcomes and improving the health of the patients and communities it serves.
+
+
+**Investor contact:**
+Dave Styblo, CFA
+investor.relations@ardenthealth.com
+(615) 296-3016
+
+
+**Media contact:**
+Rebecca Kirkham
+rebecca.kirkham@ardenthealth.com
+(615) 296-3000

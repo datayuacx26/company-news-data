@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a15b35a19f7edc04243f89ee70b1d18c0c3f83403f472815d33526715e92061",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/alerts-management/trace-based-alerts",
+    "canonical": "https://signoz.io/docs/alerts-management/trace-based-alerts"
+  },
+  "title": "Trace based alerts",
+  "summary": "Create trace-based alerts in SigNoz using the Traces Query Builder to monitor span attributes, latency, and error rates.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/3a/3a15b35a19f7edc04243f89ee70b1d18c0c3f83403f472815d33526715e92061/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/3a/3a15b35a19f7edc04243f89ee70b1d18c0c3f83403f472815d33526715e92061/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 643,
+    "sha256": "sha256:a8bc540424055eddac4d2f5f39ee8d34a73473d9802af0c6dfdcef59a6e03507",
+    "normalized_content_hash": "sha256:44cd8d1c0078c01a34bbc7de4db8f983ea5d1aa25cc9d4a5318bebcb8dc8d4a0"
+  },
+  "provenance": {
+    "source_item_id": "7e2c1505-62f8-41c8-a131-f843ada783b8",
+    "external_id": "https://signoz.io/docs/alerts-management/trace-based-alerts"
+  }
+}

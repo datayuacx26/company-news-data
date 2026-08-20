@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34810b0e37331989efd827ed9f37b2c85d6a2a8ca5ca92f5dc915094a9f680f4",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/qwp-vs-ilp-ingestion-benchmark/",
+    "canonical": "https://questdb.com/blog/qwp-vs-ilp-ingestion-benchmark/"
+  },
+  "title": "Introducing QuestDB's new binary ingestion protocol: QWP",
+  "summary": "QuestDB's new binary Wire Protocol vs InfluxDB Line Protocol in TSBS: 33M rows/s on one machine even at a million series, about 3.6x faster than ILP over a network.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T04:34:11.142948+00:00",
+  "fetched_at": "2026-08-07T04:34:11.988409+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/08/34/34810b0e37331989efd827ed9f37b2c85d6a2a8ca5ca92f5dc915094a9f680f4/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/08/34/34810b0e37331989efd827ed9f37b2c85d6a2a8ca5ca92f5dc915094a9f680f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15752,
+    "sha256": "sha256:d7f8883e6b32808dc6c10a53b815657dcccc125408dfd4fdeaca26e3eabcbba8",
+    "normalized_content_hash": "sha256:142d9647b9e30916eab6977458204171a70c4059961af1de0fe41ac610edae72"
+  },
+  "provenance": {
+    "source_item_id": "cc73db27-0f25-4666-afd8-54d3861e01f2",
+    "external_id": "https://questdb.com/blog/qwp-vs-ilp-ingestion-benchmark/"
+  }
+}

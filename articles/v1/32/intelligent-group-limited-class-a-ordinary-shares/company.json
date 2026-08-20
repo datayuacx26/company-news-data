@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "intelligent-group-limited-class-a-ordinary-shares",
+    "name": "Intelligent Group Limited"
+  },
+  "record_count": 7,
+  "first_published_at": "2022-02-17T23:03:17+00:00",
+  "last_published_at": "2025-06-20T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/32/intelligent-group-limited-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 10478,
+        "sha256": "sha256:e5eac5b782c0ba950b8220561f23f38e71b20ee59cb300420607efd974cd9289",
+        "newest_at": "2025-06-20T13:00:00+00:00",
+        "oldest_at": "2022-02-17T23:03:17+00:00"
+      }
+    ]
+  }
+}

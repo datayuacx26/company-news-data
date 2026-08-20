@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d82a0196b372a3dfe41857962ed778d9190f350d00b93eb7b58ae9d7533cc396",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/aws-ecs-monitoring",
+    "canonical": "https://signoz.io/blog/aws-ecs-monitoring"
+  },
+  "title": "AWS ECS Monitoring | Breaking out of the observability vendor lock-in with SigNoz",
+  "summary": "AWS ECS monitoring in 2026: instrument ECS tasks with OpenTelemetry (ADOT) and monitor metrics, traces, and logs in SigNoz. Setup and best practices.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.363451+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/d8/d82a0196b372a3dfe41857962ed778d9190f350d00b93eb7b58ae9d7533cc396/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/d8/d82a0196b372a3dfe41857962ed778d9190f350d00b93eb7b58ae9d7533cc396/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11216,
+    "sha256": "sha256:1644a1681cdb0854b933ed1ecd9931e08ab93f295aea6f1058b41837d6b08fdc",
+    "normalized_content_hash": "sha256:d04714e58e638eea64e3c28d9152078c403e156df24203bcfd9fc81834230893"
+  },
+  "provenance": {
+    "source_item_id": "c5526c63-998f-4094-a557-c651b6a169dc",
+    "external_id": "https://signoz.io/blog/aws-ecs-monitoring"
+  }
+}

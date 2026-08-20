@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2246c9d726836968b72f0754bb1aa4b587eab12d966c5c5f02a9a9016a15eb11",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/"
+  },
+  "title": "Proving application resilience on Azure with Chaos Studio",
+  "summary": "Validate application resilience on Azure with Chaos Studio Workspaces. Simulate real-world outages, uncover gaps, and test recovery before production failures occur.",
+  "published_at": "2026-07-01T16:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T01:22:25.454424+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/22/2246c9d726836968b72f0754bb1aa4b587eab12d966c5c5f02a9a9016a15eb11/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/22/2246c9d726836968b72f0754bb1aa4b587eab12d966c5c5f02a9a9016a15eb11/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16004,
+    "sha256": "sha256:6a974a447126100124617d97f5eb95afe5e37def7ada3879f5f04ccc59341c5b",
+    "normalized_content_hash": "sha256:fc21499b0267f7909d404dc6e3664d7322bdb4241468f8b4069d14173671300d"
+  },
+  "provenance": {
+    "source_item_id": "928cc182-4144-42b3-9d47-11a34fce04dd",
+    "external_id": "https://azure.microsoft.com/en-us/blog/proving-application-resilience-on-azure-with-chaos-studio/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "001e52a84349ec44c8e94d913de0139821c96efc6c4c8cc03efb9c32e9d3286e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/jmx-monitoring",
+    "canonical": "https://signoz.io/guides/jmx-monitoring"
+  },
+  "title": "JMX Monitoring - A Beginner's Guide to Java Performance",
+  "summary": "Learn how JMX monitoring can improve Java application performance. This guide covers JMX basics, implementation, and advanced techniques for developers.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:46.108529+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/00/001e52a84349ec44c8e94d913de0139821c96efc6c4c8cc03efb9c32e9d3286e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/00/001e52a84349ec44c8e94d913de0139821c96efc6c4c8cc03efb9c32e9d3286e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28946,
+    "sha256": "sha256:bc2e203cb48418f10f789f668435fd65c18b7fe768b5c982eb64015e26c5adc4",
+    "normalized_content_hash": "sha256:fb181ad3dd897dc90cf059935e62b4867f726011f217e8d34ca192c55ffbd925"
+  },
+  "provenance": {
+    "source_item_id": "11375fb8-5f50-4d1c-8670-09a9d659b21c",
+    "external_id": "https://signoz.io/guides/jmx-monitoring"
+  }
+}

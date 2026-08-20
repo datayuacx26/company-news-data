@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cca89dfd3994920ad94e66c3bab9f600e67b0f46b014846ea15e4e3568627610",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/questdb-10-release/",
+    "canonical": "https://questdb.com/blog/questdb-10-release/"
+  },
+  "title": "QuestDB 10.0: QWP, one binary streaming protocol for writes and Arrow reads",
+  "summary": "QuestDB 10.0 ships QWP, a binary columnar protocol that both writes data in and streams Arrow back out, from a single client. It also brings live views in beta, notebooks driven by coding agents, and the storage work that QuestDB Enterprise 4.0 builds cold storage on.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T04:34:11.142948+00:00",
+  "fetched_at": "2026-08-07T04:34:11.988409+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/08/cc/cca89dfd3994920ad94e66c3bab9f600e67b0f46b014846ea15e4e3568627610/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/08/cc/cca89dfd3994920ad94e66c3bab9f600e67b0f46b014846ea15e4e3568627610/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23876,
+    "sha256": "sha256:dc1dcd07b536a8d82f2fcde101945aa81bc612430e7a9a1d9af609382c01f3f0",
+    "normalized_content_hash": "sha256:0aeec4ceb73097042d9723283bd7071fd8a116afc14678d557df606e507dfd5e"
+  },
+  "provenance": {
+    "source_item_id": "91e2e212-644c-4285-a50a-167c6f8758bb",
+    "external_id": "https://questdb.com/blog/questdb-10-release/"
+  }
+}

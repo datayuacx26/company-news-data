@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3ba1a3fd212bea34ce883b6457996bac5b94afbd60865980eaa05f19019cc971",
+  "company": {
+    "key": "yc-runway",
+    "name": "Runway"
+  },
+  "source": {
+    "id": "yc-runway-news-import-fe61d44f24da",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runway.team/blog/why-you-should-shift-left-when-testing-your-mobile-app",
+    "canonical": "https://www.runway.team/blog/why-you-should-shift-left-when-testing-your-mobile-app"
+  },
+  "title": "Why you should shift left when testing your mobile app",
+  "summary": "Shift left is about more than just testing your code and your user experience, it’s also part of a philosophy of bringing development, security, and operations (DevSecOps) to every single stage of development. Shift left is particularly impactful for mobile teams because mobile app updates have inherently slower release cycles. The App Store review process and slower adoption of updates across devices mean it takes longer to find and fix issues that are discovered later in the development cycle. This means issues have a bigger impact on users, and we know that mobile app users in general are less tolerant of buggy, crashy apps.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T12:25:56.018278+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-08-20T01:59:33.257865+00:00",
+  "paths": {
+    "article": "articles/v1/25/yc-runway/2026/07/3b/3ba1a3fd212bea34ce883b6457996bac5b94afbd60865980eaa05f19019cc971/article.md",
+    "record": "articles/v1/25/yc-runway/2026/07/3b/3ba1a3fd212bea34ce883b6457996bac5b94afbd60865980eaa05f19019cc971/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14502,
+    "sha256": "sha256:3b56316c890d3db755a3aa75455325e7c49b740e130d2319ce75aff500009e5a",
+    "normalized_content_hash": "sha256:8f5a252b182d924159ab05555adf112a20dbed8129a82a8f741b5626377174a6"
+  },
+  "provenance": {
+    "source_item_id": "26d15a67-dad8-44b4-8ae6-8da26471ed86",
+    "external_id": "https://www.runway.team/blog/why-you-should-shift-left-when-testing-your-mobile-app"
+  }
+}

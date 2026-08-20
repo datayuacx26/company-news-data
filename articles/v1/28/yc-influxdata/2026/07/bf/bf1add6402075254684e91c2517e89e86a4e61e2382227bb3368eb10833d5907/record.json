@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf1add6402075254684e91c2517e89e86a4e61e2382227bb3368eb10833d5907",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/influxdb-3-11/",
+    "canonical": "https://www.influxdata.com/blog/influxdb-3-11/"
+  },
+  "title": "What’s New in InfluxDB 3.11: A Significant Performance Upgrade for Complex Time Series Workloads",
+  "summary": "InfluxDB 3.11 delivers major performance and data management updates for time series workloads, with significantly faster queries on recent data, expanded support for wide and ultra-sparse schemas, and a more predictable resource profile under load.",
+  "published_at": "2026-07-30T07:30:00+00:00",
+  "first_seen_at": "2026-07-30T16:00:11.802254+00:00",
+  "fetched_at": "2026-07-30T16:00:14.101665+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/07/bf/bf1add6402075254684e91c2517e89e86a4e61e2382227bb3368eb10833d5907/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/07/bf/bf1add6402075254684e91c2517e89e86a4e61e2382227bb3368eb10833d5907/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6914,
+    "sha256": "sha256:fe7e48e208f6077ea0142611365a452675edd3092c1f16712c2a2c233eeaa911",
+    "normalized_content_hash": "sha256:16fdfce8010b0072c6676ee1887c86ede516692e47ef44a79364aafb500147da"
+  },
+  "provenance": {
+    "source_item_id": "469b05cc-22ba-4461-8d05-d3ad2efa922c",
+    "external_id": "https://www.influxdata.com/blog/influxdb-3-11/"
+  }
+}

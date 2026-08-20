@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb78304c77ce765db5e6ff2a4fe5c2e509a373ff44f088e21f1e3c5264ebf130",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/kubernetes-audit-logs",
+    "canonical": "https://signoz.io/blog/kubernetes-audit-logs"
+  },
+  "title": "Kubernetes Audit Logs - Best Practices And Configuration",
+  "summary": "Learn how to configure Kubernetes audit logs with audit policies and levels for a complete security record of API server activity.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/eb/eb78304c77ce765db5e6ff2a4fe5c2e509a373ff44f088e21f1e3c5264ebf130/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/eb/eb78304c77ce765db5e6ff2a4fe5c2e509a373ff44f088e21f1e3c5264ebf130/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15944,
+    "sha256": "sha256:80c81b33b1139f7b435bd1e5b279e8b7f3d9636f20e62dd293ebed51aa6ded29",
+    "normalized_content_hash": "sha256:2e948e1a5c476dee12b9cf60572e4bbe5a571bfdfedbfb6bc8cfeb4b99d0da6b"
+  },
+  "provenance": {
+    "source_item_id": "73e3a41c-9f19-46be-b7d0-951522e2712b",
+    "external_id": "https://signoz.io/blog/kubernetes-audit-logs"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eff4a0433fb587e46bc3da9f52bba258eedbcb90846436dceea7b03ffacf20c1",
+  "company": {
+    "key": "yc-aspire",
+    "name": "Aspire"
+  },
+  "source": {
+    "id": "yc-aspire-news-import-2536b3b9499f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aspireapp.com/blog/email-and-credential-compromise-your-inbox",
+    "canonical": "https://aspireapp.com/blog/email-and-credential-compromise-your-inbox"
+  },
+  "title": "How email and credential compromise turns your inbox into a threat",
+  "summary": "Fraudsters compromise your inbox by intercepting OTPs, suppressing alerts, and moving funds before you notice. Learn how the attack works and how to stop it.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T02:30:41.255281+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-18T04:34:15.297013+00:00",
+  "paths": {
+    "article": "articles/v1/2a/yc-aspire/2026/07/ef/eff4a0433fb587e46bc3da9f52bba258eedbcb90846436dceea7b03ffacf20c1/article.md",
+    "record": "articles/v1/2a/yc-aspire/2026/07/ef/eff4a0433fb587e46bc3da9f52bba258eedbcb90846436dceea7b03ffacf20c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16162,
+    "sha256": "sha256:831d9e2d713490ead3aeb677635fd598bbf528697ca79ddf0bbca1802b0a81c4",
+    "normalized_content_hash": "sha256:5c6a760573e8adf8bafd6f728cead1cae8a42c6800285730dd1c5e40e741c34b"
+  },
+  "provenance": {
+    "source_item_id": "333b88f4-4c83-4a64-934a-e650ac48b970",
+    "external_id": "https://aspireapp.com/blog/email-and-credential-compromise-your-inbox"
+  }
+}

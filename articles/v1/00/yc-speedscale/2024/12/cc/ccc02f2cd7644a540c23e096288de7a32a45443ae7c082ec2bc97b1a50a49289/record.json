@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccc02f2cd7644a540c23e096288de7a32a45443ae7c082ec2bc97b1a50a49289",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/memory-leak/",
+    "canonical": "https://speedscale.com/blog/memory-leak/"
+  },
+  "title": "What is a Memory Leak?",
+  "summary": "Memory leaks happen when a program fails to release memory it no longer needs, and can be a big issue for developers and system administrators alike...",
+  "published_at": "2024-12-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2024/12/cc/ccc02f2cd7644a540c23e096288de7a32a45443ae7c082ec2bc97b1a50a49289/article.md",
+    "record": "articles/v1/00/yc-speedscale/2024/12/cc/ccc02f2cd7644a540c23e096288de7a32a45443ae7c082ec2bc97b1a50a49289/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16898,
+    "sha256": "sha256:3e34bede2e7c81045fab470af9943c55f05fc0f333363c04d0e695c17e602795",
+    "normalized_content_hash": "sha256:b693559be33fa728e9206c7e83db459425782ad5320171dfadfae733fb43da30"
+  },
+  "provenance": {
+    "source_item_id": "47e15c48-f0cf-4743-bffc-7338dfb96a12",
+    "external_id": "https://speedscale.com/blog/memory-leak/"
+  }
+}

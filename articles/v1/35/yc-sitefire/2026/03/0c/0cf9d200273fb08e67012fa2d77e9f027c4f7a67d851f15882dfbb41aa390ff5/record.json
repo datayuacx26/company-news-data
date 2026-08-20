@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0cf9d200273fb08e67012fa2d77e9f027c4f7a67d851f15882dfbb41aa390ff5",
+  "company": {
+    "key": "yc-sitefire",
+    "name": "sitefire"
+  },
+  "source": {
+    "id": "yc-sitefire-news-import-97a7181f264f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sitefire.ai/blog/detect-ai-agent-traffic-openclaw",
+    "canonical": "https://sitefire.ai/blog/detect-ai-agent-traffic-openclaw"
+  },
+  "title": "How to Detect AI Agents Like OpenClaw Visiting Your Website",
+  "summary": "AI agents like OpenClaw send Accept: text/markdown - a header no browser uses. Learn how to detect agent traffic on Vercel, Cloudflare, Nginx, and more.",
+  "published_at": "2026-03-08T23:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:58:46.205658+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-08-19T22:27:56.930422+00:00",
+  "paths": {
+    "article": "articles/v1/35/yc-sitefire/2026/03/0c/0cf9d200273fb08e67012fa2d77e9f027c4f7a67d851f15882dfbb41aa390ff5/article.md",
+    "record": "articles/v1/35/yc-sitefire/2026/03/0c/0cf9d200273fb08e67012fa2d77e9f027c4f7a67d851f15882dfbb41aa390ff5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14023,
+    "sha256": "sha256:8e3f99be82a394902c3b9897c6e59928b3938a47b03f883b45a6141282560995",
+    "normalized_content_hash": "sha256:d803ff74290bfda4bae56df8e170855a7ef6550d6b877df66f87ab7de2aec112"
+  },
+  "provenance": {
+    "source_item_id": "9713b7b9-874b-48c2-a434-4b999ee09c11",
+    "external_id": "https://sitefire.ai/blog/detect-ai-agent-traffic-openclaw"
+  }
+}

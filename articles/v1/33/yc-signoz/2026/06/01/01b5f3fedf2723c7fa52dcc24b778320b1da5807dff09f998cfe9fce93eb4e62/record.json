@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01b5f3fedf2723c7fa52dcc24b778320b1da5807dff09f998cfe9fce93eb4e62",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/logs-management/guides/drop-logs",
+    "canonical": "https://signoz.io/docs/logs-management/guides/drop-logs"
+  },
+  "title": "Drop and Filter Logs in SigNoz",
+  "summary": "Learn how to drop or filter logs in SigNoz pipelines to reduce noise, control costs, and keep high-value log data.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/01/01b5f3fedf2723c7fa52dcc24b778320b1da5807dff09f998cfe9fce93eb4e62/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/01/01b5f3fedf2723c7fa52dcc24b778320b1da5807dff09f998cfe9fce93eb4e62/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 645,
+    "sha256": "sha256:3c3b44f68c0c6d6d91f85829c379ea971471400e2b96a787fa5de4b18216ea3c",
+    "normalized_content_hash": "sha256:3d9692b5d62db63373fb18a0de5e93d723d4d0aebd98b1a0d9409161dd3441b7"
+  },
+  "provenance": {
+    "source_item_id": "b6ab084c-b008-46f9-9d95-e5e162f1aa6f",
+    "external_id": "https://signoz.io/docs/logs-management/guides/drop-logs"
+  }
+}

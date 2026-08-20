@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-khatabook",
+    "name": "Khatabook"
+  },
+  "record_count": 10,
+  "first_published_at": "2023-09-06T00:00:00+00:00",
+  "last_published_at": "2023-09-06T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0f/yc-khatabook/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10149,
+        "sha256": "sha256:ae36bf76fc0675bc3059cb4d875fbdca0b9ce8b4e2158092c2d86b89de2b71e8",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2023-09-06T00:00:00+00:00"
+      }
+    ]
+  }
+}

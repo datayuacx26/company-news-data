@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50aff42ff79063fef84725dcb93b8c1aff3ca64602f01893fcf47720b706df44",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/new-enemies",
+    "canonical": "https://authzed.com/blog/new-enemies"
+  },
+  "title": "Enforcing Causal Ordering in Distributed Systems: The Importance of Permissions Checking",
+  "summary": "Learn how Authzed's Zookie token guarantees causal ordering for data mutations and permissions, preventing permission checking problems in distributed systems.",
+  "published_at": "2021-02-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2021/02/50/50aff42ff79063fef84725dcb93b8c1aff3ca64602f01893fcf47720b706df44/article.md",
+    "record": "articles/v1/15/yc-authzed/2021/02/50/50aff42ff79063fef84725dcb93b8c1aff3ca64602f01893fcf47720b706df44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14831,
+    "sha256": "sha256:0b2653eab9de70c7ff2a2defd7c41a859b81146fdc1260b0df380c14e0269e7f",
+    "normalized_content_hash": "sha256:143cc5c99ac94b2e536fd55420179348a9f224fc0060289425a7c4ccc3209bf3"
+  },
+  "provenance": {
+    "source_item_id": "adff4d6b-e464-45ae-90fd-0af1ded04ab4",
+    "external_id": "https://authzed.com/blog/new-enemies"
+  }
+}

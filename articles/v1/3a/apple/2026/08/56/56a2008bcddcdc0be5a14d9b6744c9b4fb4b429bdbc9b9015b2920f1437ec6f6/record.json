@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56a2008bcddcdc0be5a14d9b6744c9b4fb4b429bdbc9b9015b2920f1437ec6f6",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal",
+    "canonical": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal"
+  },
+  "title": "The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs",
+  "summary": "Modern AI agents increasingly rely on search infrastructure to execute complex, neuro-symbolic reasoning workflows. These workflows often…",
+  "published_at": null,
+  "first_seen_at": "2026-08-20T03:26:17.324945+00:00",
+  "fetched_at": "2026-08-20T03:26:20.724183+00:00",
+  "last_updated_at": "2026-08-20T03:26:20.901734+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/56/56a2008bcddcdc0be5a14d9b6744c9b4fb4b429bdbc9b9015b2920f1437ec6f6/article.md",
+    "record": "articles/v1/3a/apple/2026/08/56/56a2008bcddcdc0be5a14d9b6744c9b4fb4b429bdbc9b9015b2920f1437ec6f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2219,
+    "sha256": "sha256:3b9138aa04c4488f47631e741623d88f47179bab441e75ea0bd2a2500b83f88e",
+    "normalized_content_hash": "sha256:ae974bb775571e17e6c000e691d1481cf654411b0982dc492844d97be816bfa4"
+  },
+  "provenance": {
+    "source_item_id": "67fb2d97-2b0e-4c47-8edd-fe6cec02a1cc",
+    "external_id": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal"
+  }
+}

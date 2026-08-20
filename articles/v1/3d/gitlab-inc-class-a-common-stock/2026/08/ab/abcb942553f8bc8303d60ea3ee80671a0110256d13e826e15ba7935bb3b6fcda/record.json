@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "abcb942553f8bc8303d60ea3ee80671a0110256d13e826e15ba7935bb3b6fcda",
+  "company": {
+    "key": "gitlab-inc-class-a-common-stock",
+    "name": "GitLab Inc."
+  },
+  "source": {
+    "id": "gitlab-inc-class-a-common-stock-atom-8616b2ef668b",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://about.gitlab.com/blog/git-clone-override-policy/",
+    "canonical": "https://about.gitlab.com/blog/git-clone-override-policy/"
+  },
+  "title": "Avoid the massive end-to-end tax of default full history clones",
+  "summary": "Learn how the Git Clone Override Policy automates repository cloning optimizations (like shallow/partial clones) via a repo-stored TOML file, reducing load and cost.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T21:30:55.444427+00:00",
+  "fetched_at": "2026-08-18T21:30:57.742133+00:00",
+  "last_updated_at": "2026-08-20T03:07:25.968255+00:00",
+  "paths": {
+    "article": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/08/ab/abcb942553f8bc8303d60ea3ee80671a0110256d13e826e15ba7935bb3b6fcda/article.md",
+    "record": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/08/ab/abcb942553f8bc8303d60ea3ee80671a0110256d13e826e15ba7935bb3b6fcda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15843,
+    "sha256": "sha256:5a36edce75822f7d98a6aa46e72d6623982dc7b028cc85dc8aaa79a4ed357b2a",
+    "normalized_content_hash": "sha256:f98aab052511ce73123cda2ceeeb72db66c4bd3fc049870c55990f56eeeb1c00"
+  },
+  "provenance": {
+    "source_item_id": "2d1d0781-3107-44a8-890d-7cc471abebba",
+    "external_id": "https://about.gitlab.com/blog/git-clone-override-policy/"
+  }
+}

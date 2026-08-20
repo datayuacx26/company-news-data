@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f61669679d8c406fdb8a3b8ad3dae04c6bbd53c8f2d7cd0baab0bda603c52d99",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles",
+    "canonical": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-lot-of-summer-shells-and-fit-http-profiles"
+  },
+  "title": "Metasploit Wrap Up: Lot of summer shells and fit http profiles",
+  "summary": "This wrap-up brings a full-on shell parade. Thirteen shiny new modules landed, starting with a buffet of RCEs. WordPress WP2Shell, Ghost CMS, Joomla JCE, Langflow, OpenCATS, Pterodactyl Panel, SonicWall SMA1000, Ray Dashboard, a Pix-for-WooCommerce, and for those who like their exploits closer to the bare-metal, the Fragnesia Linux kernel LPE (CVE-2026-46300). Metasploit also got the glow-up of the summer with the new http malleable profiles, MCP functionality and linux multi fetch payloads (more details on the official 6.5 release blog post!). Windows on ARM confirm to be the new first-class citizenship thanks to brand-new AArch64 reverse-TCP shells (both inline and staged), so your Snapdragon boxes can join the party too. Last but not least, an important message: Nyan Nyan Nyan Nyan Nyan Nyan.",
+  "published_at": "2026-08-14T21:27:45+00:00",
+  "first_seen_at": "2026-08-14T23:14:31.969643+00:00",
+  "fetched_at": "2026-08-14T23:14:33.373498+00:00",
+  "last_updated_at": "2026-08-20T03:36:55.072704+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/08/f6/f61669679d8c406fdb8a3b8ad3dae04c6bbd53c8f2d7cd0baab0bda603c52d99/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/08/f6/f61669679d8c406fdb8a3b8ad3dae04c6bbd53c8f2d7cd0baab0bda603c52d99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20157,
+    "sha256": "sha256:35635fc2b5460eb98ba40d49188995a9d4dc2a32e558230f6c05203e665f0535",
+    "normalized_content_hash": "sha256:d0268d1f551f5938d4e03251131594d15b7d4d8bd71dba9a6239f91020eb4b54"
+  },
+  "provenance": {
+    "source_item_id": "cad8a709-529c-4e51-8d5c-5eac1bc8aa73",
+    "external_id": "bltc90240c4d39c7b86"
+  }
+}

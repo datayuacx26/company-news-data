@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4801c4cbf1be009a519c20ab3a8f9c6882103e0dfb9ed63e66dd87352e1d7cf5",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/behind-the-scenes-of-merry-maker",
+    "canonical": "https://tech.target.com/blog/behind-the-scenes-of-merry-maker"
+  },
+  "title": "Behind the Scenes of Merry Maker",
+  "summary": "An article by Eric Brandel and Caleb Walch : We recently introduced Target’s cybersecurity tool “Merry Maker” and open sourced the framework to help others protect against digital skimming.",
+  "published_at": "2022-02-01T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/02/48/4801c4cbf1be009a519c20ab3a8f9c6882103e0dfb9ed63e66dd87352e1d7cf5/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/02/48/4801c4cbf1be009a519c20ab3a8f9c6882103e0dfb9ed63e66dd87352e1d7cf5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7004,
+    "sha256": "sha256:302292b617ee4b0fd339afafb15c796f92980cd177bcfce4f1c6ecf874caebd8",
+    "normalized_content_hash": "sha256:deb4cebd66b4e8b0a46b2829180f95af0a2b5082e52735c92fbbbb6ce2634cdc"
+  },
+  "provenance": {
+    "source_item_id": "d62ae4fc-da26-4634-9d03-cb6a3c949829",
+    "external_id": "BLOG-10019"
+  }
+}

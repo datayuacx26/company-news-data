@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3012d686cadc7dde6638259c00d103404a9ef21b49178794b906fd3ae23aed76",
+  "company": {
+    "key": "yc-gitstart",
+    "name": "GitStart"
+  },
+  "source": {
+    "id": "yc-gitstart-news-import-dd59d8b4a88d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gitstart.com/blog/hn-launch",
+    "canonical": "https://gitstart.com/blog/hn-launch"
+  },
+  "title": "Lessons From our HackerNews Launch",
+  "summary": "We got on the front page of HN! We learned a lot and want to share what worked, didn't work and our learnings looking back",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T21:42:29.769626+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:21:50.975930+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-gitstart/2026/07/30/3012d686cadc7dde6638259c00d103404a9ef21b49178794b906fd3ae23aed76/article.md",
+    "record": "articles/v1/00/yc-gitstart/2026/07/30/3012d686cadc7dde6638259c00d103404a9ef21b49178794b906fd3ae23aed76/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3385,
+    "sha256": "sha256:a1d61f6b102114653373e5fb59b2b86fdc222ba5710f69ce14613b5c58ecda8e",
+    "normalized_content_hash": "sha256:6180c101372385f1660dc3e2ed72551bffa8d9c7e0c91ab23e2dda7bcb7862c0"
+  },
+  "provenance": {
+    "source_item_id": "5b924f69-2736-4518-8d74-d299cb63b086",
+    "external_id": "https://gitstart.com/blog/hn-launch"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af40f4de6813cc24fb9a6f1654a2b7f2d3cf81e391c073f1ca7750072e8fb30d",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9e9cef1eb453",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/press/fact-sheet/2026/07/inclusive-design-and-guest-experience",
+    "canonical": "https://corporate.target.com/press/fact-sheet/2026/07/inclusive-design-and-guest-experience"
+  },
+  "title": "Target’s Focus on Inclusive Design and Guest Experience",
+  "summary": "Target incorporates inclusive design into the products and experiences we create. Examples include everything from adaptive self-checkout to adaptive and sensory-friendly apparel and inclusive store design to make shopping Target easy to navigate for all.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T15:42:35.444421+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-03T01:01:35.086960+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/07/af/af40f4de6813cc24fb9a6f1654a2b7f2d3cf81e391c073f1ca7750072e8fb30d/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/07/af/af40f4de6813cc24fb9a6f1654a2b7f2d3cf81e391c073f1ca7750072e8fb30d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3850,
+    "sha256": "sha256:683861eccbc18e7817a64f1a8cd7e4c3b21b46b71f2fe8042d846ef3364ecbd4",
+    "normalized_content_hash": "sha256:cce3d1c6d01ea4c09091eb3655b59d85f732ddea9b8ce7466fbdd9a1fabceaa3"
+  },
+  "provenance": {
+    "source_item_id": "1a34eb0b-8619-4f73-adf5-09a26587c253",
+    "external_id": "https://corporate.target.com/press/fact-sheet/2026/07/inclusive-design-and-guest-experience"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f419cfcf8e6a3887cea77f458aab997179cce12225b0e9f9a4c92e3834a50b5a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/opentelemetry/logging-in-python",
+    "canonical": "https://signoz.io/opentelemetry/logging-in-python"
+  },
+  "title": "Configure OpenTelemetry logging SDK in a Python application",
+  "summary": "Learn how to configure the OpenTelemetry logging SDK in a Python application and send structured logs to SigNoz for correlation with traces.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.589527+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/f4/f419cfcf8e6a3887cea77f458aab997179cce12225b0e9f9a4c92e3834a50b5a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/f4/f419cfcf8e6a3887cea77f458aab997179cce12225b0e9f9a4c92e3834a50b5a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3894,
+    "sha256": "sha256:704c4620a9cea140de9c658a1dc5a28600916a4efc3780a971c16de5a95fef8c",
+    "normalized_content_hash": "sha256:0cd31bdb3942825a368f92102cfd95b45b623ded1c4ade44dc4446ebcdaf069e"
+  },
+  "provenance": {
+    "source_item_id": "7ef8f308-8c03-4fcc-a389-d0be4fb8b2f0",
+    "external_id": "https://signoz.io/opentelemetry/logging-in-python"
+  }
+}

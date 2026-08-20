@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8544acf67f037ce1265b24232642144a2849584bbf518725da86a5f4ee2999ff",
+  "company": {
+    "key": "yc-palitronica-inc",
+    "name": "Palitronica Inc"
+  },
+  "source": {
+    "id": "yc-palitronica-inc-rss-9d07e8cf508a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.palitronica.com/post/ai-powered-firmware-assessment-without-source-code",
+    "canonical": "https://www.palitronica.com/post/ai-powered-firmware-assessment-without-source-code"
+  },
+  "title": "AI-Powered Firmware Assessment Without Source Code",
+  "summary": "By combining AI-powered fuzzing with power side-channel analysis, PowerFuzzer detects undocumented functionality, hidden behaviour, firmware changes, and potential backdoors without requiring source code access. It supports the assessment of embedded systems across aerospace, automotive, industrial, security, networking, and critical infrastructure applications.",
+  "published_at": "2026-06-10T15:31:57+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.337712+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-08-20T02:17:45.071678+00:00",
+  "paths": {
+    "article": "articles/v1/14/yc-palitronica-inc/2026/06/85/8544acf67f037ce1265b24232642144a2849584bbf518725da86a5f4ee2999ff/article.md",
+    "record": "articles/v1/14/yc-palitronica-inc/2026/06/85/8544acf67f037ce1265b24232642144a2849584bbf518725da86a5f4ee2999ff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2950,
+    "sha256": "sha256:afd131503c80a9c876dc4416210a7bbfff8a43d53e207909f72caa84d6edc8c4",
+    "normalized_content_hash": "sha256:41baf2e083a1ffc5d7b7b5357a3277f839bebaf7d9d94a1670cc378063fb87b4"
+  },
+  "provenance": {
+    "source_item_id": "ef826429-2bcf-4449-8e34-584f24489141",
+    "external_id": "6a29773ec2fa1c07ef3b0c8d"
+  }
+}

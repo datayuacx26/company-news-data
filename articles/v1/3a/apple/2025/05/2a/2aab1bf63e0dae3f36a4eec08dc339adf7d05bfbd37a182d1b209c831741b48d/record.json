@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2aab1bf63e0dae3f36a4eec08dc339adf7d05bfbd37a182d1b209c831741b48d",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation",
+    "canonical": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation"
+  },
+  "title": "MoMo: Dial Motion Mode in Robot Manipulation with Spatiotemporal Action Tokenization",
+  "summary": "To operate effectively across diverse contexts, robots must not only perform manipulation tasks accurately but also adapt how their actions…",
+  "published_at": "2025-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:31:58.014784+00:00",
+  "fetched_at": "2026-07-31T19:31:59.789873+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2025/05/2a/2aab1bf63e0dae3f36a4eec08dc339adf7d05bfbd37a182d1b209c831741b48d/article.md",
+    "record": "articles/v1/3a/apple/2025/05/2a/2aab1bf63e0dae3f36a4eec08dc339adf7d05bfbd37a182d1b209c831741b48d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2326,
+    "sha256": "sha256:365bdf8c3dafa97c7237e318c3b2302fca0228b4b4fd425baae6a3eb820cfa75",
+    "normalized_content_hash": "sha256:71b98ef63dda8533ed9d278689a51701f65da0c48b87aa8d9bdf14f6e74c94f8"
+  },
+  "provenance": {
+    "source_item_id": "fd09c041-519e-4716-a11e-045161cb387c",
+    "external_id": "https://machinelearning.apple.com/research/momo-motion-mode-manipulation"
+  }
+}

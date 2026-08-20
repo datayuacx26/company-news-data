@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ec802474c4f70c12f8312bb79ed6dfddea262de62adc8b2df33fe2d310680eb",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-fastapi",
+    "canonical": "https://signoz.io/blog/opentelemetry-fastapi"
+  },
+  "title": "A Practical Guide to OpenTelemetry FastAPI Instrumentation",
+  "summary": "Learn how to instrument FastAPI with OpenTelemetry: auto-instrumentation, multi-worker setups, structured logging, and production sampling strategies.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/4e/4ec802474c4f70c12f8312bb79ed6dfddea262de62adc8b2df33fe2d310680eb/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/4e/4ec802474c4f70c12f8312bb79ed6dfddea262de62adc8b2df33fe2d310680eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 32643,
+    "sha256": "sha256:8922069219714f8f61cee110e17b90dd70fe934db4a3d81a1606e4462e8e471c",
+    "normalized_content_hash": "sha256:c6b2ffc6cd94f1527115c6c1f61b72a08566784e97af976d2d8fae907e56ab81"
+  },
+  "provenance": {
+    "source_item_id": "3b339cb3-9f74-45de-b868-a6613f63048d",
+    "external_id": "https://signoz.io/blog/opentelemetry-fastapi"
+  }
+}

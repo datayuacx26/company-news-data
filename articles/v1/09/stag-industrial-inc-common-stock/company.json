@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "stag-industrial-inc-common-stock",
+    "name": "Stag Industrial Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2025-12-04T21:20:53+00:00",
+  "last_published_at": "2026-08-06T20:02:52+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/09/stag-industrial-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 13692,
+        "sha256": "sha256:669e588b371f2755dbdc9c7d50cf90f8fa39082ff4735071af3b3d4eff93f5fb",
+        "newest_at": "2026-08-06T20:02:52+00:00",
+        "oldest_at": "2025-12-04T21:20:53+00:00"
+      }
+    ]
+  }
+}

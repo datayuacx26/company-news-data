@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62bcb01f8b4c965f7a0c2780e853ac64b066bfe9e80f3100b407887fef12449b",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/synthetics-assurance-of-detection-components",
+    "canonical": "https://tech.target.com/blog/synthetics-assurance-of-detection-components"
+  },
+  "title": "Synthetics: Continuous Assurance of Detection Components",
+  "summary": "An article by Paul Hutelmyer : This post provides a solution for utilizing synthetic events for the purpose of validating signature integrity and functionality, with the goal of achieving continuous assurance of a system’s detection signatures.",
+  "published_at": "2022-12-13T06:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/12/62/62bcb01f8b4c965f7a0c2780e853ac64b066bfe9e80f3100b407887fef12449b/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/12/62/62bcb01f8b4c965f7a0c2780e853ac64b066bfe9e80f3100b407887fef12449b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7389,
+    "sha256": "sha256:ab4069c00b16b6a22875cbfd8acd6d84f5e12a63fef6b8a8a90f8eb8f2b64b71",
+    "normalized_content_hash": "sha256:f77fe045f1eefe58bd0a6f5cf858c8b34ebd65c37964f103bd3aa925e8304172"
+  },
+  "provenance": {
+    "source_item_id": "3c41c7fe-2b57-4755-bed6-7529f6e79d50",
+    "external_id": "BLOG-10040"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sensient-technologies-corporation-common-stock",
+    "name": "Sensient Technologies Corporation"
+  },
+  "record_count": 20,
+  "first_published_at": "2025-10-31T10:55:00+00:00",
+  "last_published_at": "2026-07-24T10:55:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0b/sensient-technologies-corporation-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 29443,
+        "sha256": "sha256:c7a630f1461f87c21e393c4c5bd472f46f368346a756933b36079f83cd487a19",
+        "newest_at": "2026-07-24T10:55:00+00:00",
+        "oldest_at": "2025-10-31T10:55:00+00:00"
+      }
+    ]
+  }
+}

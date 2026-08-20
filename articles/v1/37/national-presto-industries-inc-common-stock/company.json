@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "national-presto-industries-inc-common-stock",
+    "name": "National Presto Industries Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2024-07-01T00:00:00+00:00",
+  "last_published_at": "2026-01-29T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/37/national-presto-industries-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14028,
+        "sha256": "sha256:c3ea523664d1d8043ca8a24c53501f0fa8086bf1adaaaab3bca4e14ea91dc23e",
+        "newest_at": "2026-01-29T00:00:00+00:00",
+        "oldest_at": "2024-07-01T00:00:00+00:00"
+      }
+    ]
+  }
+}

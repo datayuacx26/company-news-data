@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-magic-hour",
+    "name": "Magic Hour"
+  },
+  "record_count": 38,
+  "first_published_at": "2026-06-10T00:00:00+00:00",
+  "last_published_at": "2026-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 9
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0d/yc-magic-hour/index/pages/000001.json",
+        "record_count": 38,
+        "byte_count": 39683,
+        "sha256": "sha256:0853fd4b28e4609de426b1d4eedd9632eb4084973f843aebe491767b9f7f4b66",
+        "newest_at": "2026-08-17T00:00:00+00:00",
+        "oldest_at": "2026-06-10T00:00:00+00:00"
+      }
+    ]
+  }
+}

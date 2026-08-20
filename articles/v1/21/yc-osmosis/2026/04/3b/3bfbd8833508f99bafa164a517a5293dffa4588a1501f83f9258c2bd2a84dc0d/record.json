@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3bfbd8833508f99bafa164a517a5293dffa4588a1501f83f9258c2bd2a84dc0d",
+  "company": {
+    "key": "yc-osmosis",
+    "name": "Osmosis"
+  },
+  "source": {
+    "id": "yc-osmosis-news-import-de01a8838bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://osmosis.ai/blogs/testing-data-overlap-between-sft-and-grpo-on-autoformalization",
+    "canonical": "https://osmosis.ai/blogs/testing-data-overlap-between-sft-and-grpo-on-autoformalization"
+  },
+  "title": "Testing Data Overlap Between SFT and GRPO on Autoformalization",
+  "summary": "SFT followed by GRPO is the standard post-training recipe for reasoning models. You collect labeled data, fine-tune, then run reinforcement learning with a reward signal. But there's a design decision that's unexplored: how much of your GRPO data should overlap with your SFT data?",
+  "published_at": "2026-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:22:44.798253+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T19:56:56.890048+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-osmosis/2026/04/3b/3bfbd8833508f99bafa164a517a5293dffa4588a1501f83f9258c2bd2a84dc0d/article.md",
+    "record": "articles/v1/21/yc-osmosis/2026/04/3b/3bfbd8833508f99bafa164a517a5293dffa4588a1501f83f9258c2bd2a84dc0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7569,
+    "sha256": "sha256:1dd2de33a158fd00bcea5e3bb5c0c8d3d8081de8eb6a408945d3621060b23483",
+    "normalized_content_hash": "sha256:94d0114fc7497603a1ae209237bf3f19370dab376c66c1c71e54b3805f48026b"
+  },
+  "provenance": {
+    "source_item_id": "64113a2c-21ba-4ae1-ac6b-9648d5e09cf3",
+    "external_id": "https://osmosis.ai/blogs/testing-data-overlap-between-sft-and-grpo-on-autoformalization"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f145692ab5d2791cb1a09ebfe03db2dcdbdee4fc61800612fd79aa51b8fad97",
+  "company": {
+    "key": "yc-zatanna",
+    "name": "Zatanna"
+  },
+  "source": {
+    "id": "yc-zatanna-news-import-8e90f36473c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zatanna.ai/blog/web-scraping-vs-workflow-api",
+    "canonical": "https://www.zatanna.ai/blog/web-scraping-vs-workflow-api"
+  },
+  "title": "Web Scraping vs. Workflow APIs: Why Scraping Breaks and What to Use Instead",
+  "summary": "Web scraping replays browser clicks and breaks when UIs change. Workflow APIs reconstruct the underlying request behavior for reliable automation that doesn't depend on the UI layer.",
+  "published_at": "2026-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:55:15.963788+00:00",
+  "fetched_at": "2026-07-28T22:18:56.741769+00:00",
+  "last_updated_at": "2026-08-19T21:56:36.569036+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-zatanna/2026/03/8f/8f145692ab5d2791cb1a09ebfe03db2dcdbdee4fc61800612fd79aa51b8fad97/article.md",
+    "record": "articles/v1/2d/yc-zatanna/2026/03/8f/8f145692ab5d2791cb1a09ebfe03db2dcdbdee4fc61800612fd79aa51b8fad97/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3917,
+    "sha256": "sha256:b30fb3fa48510df59b886b372d3c7830ffb09d7054a9207f78608f0034f6ae10",
+    "normalized_content_hash": "sha256:3786a0d7101e4e14f9600475ececb65ec996e06095c3a3e3447054b12f9245d3"
+  },
+  "provenance": {
+    "source_item_id": "b48c074a-1bd3-4f9a-91b8-19d96b10f465",
+    "external_id": "https://www.zatanna.ai/blog/web-scraping-vs-workflow-api"
+  }
+}

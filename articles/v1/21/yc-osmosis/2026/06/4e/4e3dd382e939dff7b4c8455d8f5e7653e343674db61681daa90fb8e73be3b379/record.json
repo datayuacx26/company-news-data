@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e3dd382e939dff7b4c8455d8f5e7653e343674db61681daa90fb8e73be3b379",
+  "company": {
+    "key": "yc-osmosis",
+    "name": "Osmosis"
+  },
+  "source": {
+    "id": "yc-osmosis-news-import-de01a8838bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://osmosis.ai/blogs/cutting-memory-in-long-context-rl-with-fused-logprobs",
+    "canonical": "https://osmosis.ai/blogs/cutting-memory-in-long-context-rl-with-fused-logprobs"
+  },
+  "title": "Cutting Memory in Long-Context RL with Fused Logprobs",
+  "summary": "Long-context RL training has become increasingly popular as open source models have continued improving, and companies have adopted more agentic use cases that require multi-turn tool use.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:22:44.798253+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-19T19:56:56.890048+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-osmosis/2026/06/4e/4e3dd382e939dff7b4c8455d8f5e7653e343674db61681daa90fb8e73be3b379/article.md",
+    "record": "articles/v1/21/yc-osmosis/2026/06/4e/4e3dd382e939dff7b4c8455d8f5e7653e343674db61681daa90fb8e73be3b379/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11615,
+    "sha256": "sha256:987d898f2d67b3e76bc62a393e04c80ea9d8b21c37c2fae1dceb8fd44f9d943b",
+    "normalized_content_hash": "sha256:0cd0cb2447fa3a0433bf2cbf99d87f48cb553b9c68b4542062d0281ac55f4415"
+  },
+  "provenance": {
+    "source_item_id": "7a9630fd-8c83-4b86-9ab8-063b6901db31",
+    "external_id": "https://osmosis.ai/blogs/cutting-memory-in-long-context-rl-with-fused-logprobs"
+  }
+}

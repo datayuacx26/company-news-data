@@ -1,0 +1,78 @@
+---
+schema_version: "1.0.0"
+document_id: "992025e1e28dccabffae988634970e5fb5f81b69f228314dd3da21dd53467449"
+company_key: "palvella-therapeutics-inc-common-stock"
+company: "Palvella Therapeutics Inc."
+source_id: "palvella-therapeutics-inc-common-stock-news-import-c8dfd5e8f96e"
+canonical_url: "https://www.globenewswire.com/news-release/2026/06/29/3318869/0/en/palvella-therapeutics-submits-first-module-of-rolling-new-drug-application-to-fda-for-qtorin-rapamycin-for-the-treatment-of-microcystic-lymphatic-malformations.html"
+published_at: "2026-06-29T11:30:00+00:00"
+first_seen_at: "2026-07-24T22:11:34.114129+00:00"
+fetched_at: "2026-07-28T21:52:24.088997+00:00"
+content_hash: "sha256:61d57b750d1bd11152fb56cd7c160aee6676527aaa0cb6b07e16c991878fae82"
+---
+
+# Palvella Therapeutics Submits First Module of Rolling New Drug Application to FDA for QTORIN™ Rapamycin for the Treatment of Microcystic Lymphatic Malformations
+
+*FDA’s rolling review process is intended to facilitate expedited review, enabling FDA to begin evaluating completed modules of the NDA before the full application is submitted*
+
+
+*FDA previously granted Breakthrough Therapy and Fast Track designations for QTORIN™ rapamycin, providing an expedited development and review pathway based on its potential to address a serious unmet medical need*
+
+
+*Palvella remains on track to complete the NDA submission in the second half of 2026 while accelerating U.S. launch readiness for a potential standalone commercial launch of* *QTORIN™ rapamycin* *in the first half of 2027, if approved*
+
+
+*QTORIN™ rapamycin has the potential to become the first FDA-approved therapy and standard of care for the estimated more than 30,000 individuals with microcystic lymphatic malformations in the U.S.*
+
+
+WAYNE, Pa., June 29, 2026 (GLOBE NEWSWIRE) -- Palvella Therapeutics, Inc. (Palvella or the “Company”) (Nasdaq: PVLA), a clinical-stage biopharmaceutical company focused on developing and commercializing novel therapies for serious, rare skin diseases and vascular malformations for which there are no U.S. Food and Drug Administration (FDA)-approved therapies, today announced that the Company has submitted the first module of its rolling New Drug Application (NDA) to the FDA seeking approval of QTORIN™ 3.9% rapamycin anhydrous gel (QTORIN™ rapamycin) for the treatment of microcystic lymphatic malformations (microcystic LMs). Palvella remains on track to submit the remaining modules and complete the NDA submission in the second half of 2026.
+
+
+“Initiating the rolling NDA submission represents an important milestone in advancing QTORIN™ rapamycin toward potential approval for patients living with microcystic LMs, a serious, chronically debilitating genetic disease for which there are no FDA-approved therapies,” said Jeff Martini, Ph.D., Chief Scientific Officer of Palvella Therapeutics. “Recent advances in molecular genetics have established aberrant activation of the PI3K/mTOR pathway as the central molecular driver of microcystic LMs, creating the opportunity to develop targeted therapies that address the underlying biology of the disease. QTORIN™ rapamycin was designed to deliver rapamycin directly to pathogenic skin tissue to achieve local, on-target inhibition of mTOR signaling while minimizing systemic exposure. The Phase 3 SELVA study demonstrated highly statistically significant improvements across the primary endpoint, key secondary endpoint, and all prespecified secondary endpoints, and QTORIN™ rapamycin was well tolerated, supporting the potential of this on-target, in-tissue approach.”
+
+
+As Palvella advances toward completion of the NDA submission, the Company is accelerating U.S. launch readiness for a potential standalone commercial launch of QTORIN™ rapamycin in the first half of 2027, if approved. Palvella has recruited core leadership across its commercial, medical affairs, and patient services organizations, including leaders with track records of successfully launching first-in-disease therapies for serious and rare skin diseases. The Company continues to build these organizations through the addition of field commercial leaders, medical science liaisons, and patient access liaisons. In March 2026, Palvella launched the BEYOND mLM campaign and BeyondMLM.com in collaboration with CaNVAS, LGDA, LE&RN, PeDRA, and VAccess.org to increase disease awareness, support earlier recognition and diagnosis, and advance disease education among physicians caring for patients with microcystic LMs, including specialists at vascular anomaly centers.
+
+
+“For patients and families living with microcystic LMs, submission of the first NDA module brings us closer to our goal of delivering the first FDA-approved therapy for this serious and lifelong disease,” said Wes Kaupinen, Founder and Chief Executive Officer of Palvella Therapeutics. “We are completing the remaining NDA modules and U.S. launch-readiness activities with urgency, discipline, and a deep sense of responsibility to the patients, families, and physicians we seek to serve.”
+
+
+QTORIN™ rapamycin has received Breakthrough Therapy, Orphan Drug, and Fast Track designations from the FDA for the treatment of microcystic LMs, as well as an FDA Orphan Products Development grant.
+
+
+**About Microcystic Lymphatic Malformations**
+
+
+Microcystic LMs are a rare, chronically debilitating genetic disease driven by dysregulation of the PI3K/mTOR pathway. Malformed lymphatic vessels can protrude through the skin, persistently leak and bleed, and cause recurrent infections, cellulitis and hospitalization. Published natural history studies demonstrate that microcystic LMs are persistent and progressive and do not spontaneously regress. Advances in molecular genetics have established dysregulated PI3K/mTOR signaling as a central disease driver, supporting precision, mechanism-based treatment. There are no FDA-approved treatments for the estimated 30,000 or more people diagnosed with microcystic LMs in the United States.
+
+
+**About Palvella Therapeutics**
+
+
+Founded and led by rare disease biotech veterans, Palvella Therapeutics, Inc. (Nasdaq: PVLA) is a clinical-stage biopharmaceutical company focused on developing and commercializing novel therapies to treat patients living with serious, rare skin diseases and vascular malformations for which there are no FDA-approved therapies. Palvella is developing a broad pipeline of product candidates based on its patented QTORIN™ platform, with an initial focus on serious, rare skin diseases and vascular malformations, many of which are lifelong in nature. Palvella’s lead product candidate, QTORIN™ 3.9% rapamycin anhydrous gel (QTORIN™ rapamycin), is currently being developed for the treatment of microcystic lymphatic malformations, cutaneous venous malformations, and clinically significant angiokeratomas. Palvella’s second product candidate, QTORIN™ pitavastatin, is currently being developed for the treatment of disseminated superficial actinic porokeratosis. For more information, please visit[www.palvellatx.com](https://www.globenewswire.com/Tracker?data=kHjNOgARdLFO_SrsrFVyTzMNv9nPXvjx5QvhY3DCMdsMmVvtKMerBxQm4pxmNG0kU_8_z366SeQWecghY2GB1mihvTHx9zdDYJ-sgYxePrevSHJYphaXlOe6GIge5QCYVlDPL_6guqJUIOFk89YkAQd5S4pjYAgMWXAbazaCo7SNyB3CXPzc6DJ11jL_yz8y6v1P9Y1Qjo3nevUpO0Wk3-4aG5ZdT526IRl35WwrPxCVZDZfhRhwbfwWAW5CTBI6StjeggtWY8erKVk-hg_VqraBJyaFqUDh4epXhKjpEbJO_satjL1DHeXGZb2u1Y5iKJZaiv4_f_jFwAW7c363ifHrtC9i8zxjPlBV00Vlin4tx2hqDxNzAei7P76y1pW6V9eoo6oORkGaouUAn2sTuU45n6mF2zUAHdr8WbTMAHs-cyufRhQxZIEPl27Pgt42dmU1DvmLEllrPz4dmpdS7UyKLAQMQaVgyVPSsot-CdYTDzYqitZm1M8BjV8wVBxiH6DmoUaK40qJfXYMJ4n9dlzCv12XqDQMYjM4IlIv2_pH-0M4Oa9TAdFrp8aMmfXkcTacd828uLyvEtAaXX5Rf8YcNM11rsamlE4_HrR9sJZ-XyuQDadT-ZSpYXQ2WhBzRzr6szktUq2DBnrxKlRRKIDXo7tUWH7xCw9rftjCQ4iJrSAi5ML6t9gKWJb0N-CVAD8Hw2kkgNqWf_nEN-xe4QhR1BFgvxvWwZ3E29IzEUhKTF-UnbGZViXxCkadNFnX1ajWj4h1jZDhEoZPVp-Fvg==) or follow Palvella on[LinkedIn](https://www.globenewswire.com/Tracker?data=Gm6q-pjEd-jtZCxP3LYVYpMXPbx2lwEYzsTxsqkqGcE8_UMdN6SHrV8deByG5DCdGmoBN5E3BilXNgOTUQIK6mv1sWKMv_DjwWYiqZIYAfz6LKxbNGYa_B72F__FagZYaxK4Oc7YO1q1wVftuKWvocx48nZCh6j57n2_xKfP7gkvoL0io_ujtrpPyIsAbd-4jtenBycHfOUBLHHK65O_971FdS4cTrd7WsIe9nrIVPlzskit8W5jAU0sU0iIGcBz7zWXQcQR80Fu3z5C3gt2AW3C86_EtVSbNrIua687AO-HcfMNfqQu2GOr0vQB6buT3EGdXLM0crUZqKuMSNjnl_qSDQs0CKnDedgZmcpfedjDPyPvlekw3rMJfTQkfZkgYJemN7dkAKzjmtBz_9J3Od9t1tgIQsbBaz94kF3gojIabAKGJY5RlCc_4KDz8yjbUQZW7mIszb7U53CJPwuGV40Bi7B3InEQbMO1MFHkdclb5JwQKRh1m4D_e2zbWhBVNW614vucS4yeY6mEuLeUzY694BXUY1Fyln9soBktZjk9wrQ1kfjkYsJ0XgH-SoazsgenPWG84EAlYOnQA_CSJiWeI-QjLdtt58WgZ-YgWD-VMJ2aBz3k-5gtH8cgU7uDBwerlvG6cFEkHIieVIACP-srs9aeljn-Uw5-4AL7fTgkl2-MExjda888TmXBnZ6QeZhkfXDzEbg8VANLt5P-Ag3wkCM-WzVgxgr3YZkQZLki6a7HGMn5SpVXla716LYA) or[X](https://www.globenewswire.com/Tracker?data=H_6JWZ6jGtKRHynLzCDfD1_Fx-Q0vNY_OvCq6kIfEhAgi20Icz4r1KfWFr8px0gAXPL7FkgHEw4WU8cbyfJIvMN-xLLLI_EpkeD2Nk_8LeD0CKEs7YnwMltYolIpGMK-wPL3QOKdtmPuQxkPlGbEHC4h8rwxPTILUnMfOIAeWDbPjHeKwgk71oYouwJSEZoNEy2rL8rumodHlAx8_EtYwO7mNcdlitAYyQlBF8pDwsb_23upDfWRz_qzZSeSY1ChihkYbul12RVB6czjr9L8Q_ff3y3C85_wowIHOeDYA5JOSybQfeLnk7wljZblbGISYQ9hW6JMB7z9KESOVAJ_lpxsYaQ_J0GkxICIg9xzM7xfoGj0AEEOpXglVwH32ilQOXbJKnHTV3HMc8qSB4NjYV2H5aC_n4VurKjU3TX5RDexYsbCg0jhdPhZ133MsAUq5ZlfilMbr379u0HHfxzah94T0BMt4EQHjJz8_S2UO_dAGnj3Yer-Pu5FOTigT-So9lFV-i9IqNoRGbFoSZqE73FSrgZqskRO9yK5WFrUufBsS6erHagBtxOFsyserdGKPqS2za3gvVXFW2N0bVmWUVh34uNJCVJOni5OSADNmqs=) (formerly known as Twitter).
+
+
+QTORIN™ rapamycin and QTORIN™ pitavastatin are for investigational use only and neither has been approved by the FDA or by any other regulatory agency for any indication.
+
+
+**Forward-Looking Statements**
+
+
+This press release contains forward-looking statements (including within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended (Securities Act)). These statements may discuss goals, intentions, and expectations as to future plans, trends, events, results of operations or financial condition, or otherwise, based on current beliefs of the management of Palvella, as well as assumptions made by, and information currently available to, the management of Palvella. Forward-looking statements generally include statements that are predictive in nature and depend upon or refer to future events or conditions, and include words such as “may,” “will,” “should,” “would,” “expect,” “anticipate,” “plan,” “likely,” “believe,” “estimate,” “project,” “intend,” and other similar expressions or the negative or plural of these words, or other similar expressions that are predictions or indicate future events or prospects, although not all forward-looking statements contain these words. Statements that are not historical facts are forward-looking statements. Forward-looking statements include, but are not limited to, statements regarding the expected timing of the presentation of data from clinical trials, Palvella’s clinical development plans and related anticipated development milestones and anticipated timing of regulatory submissions, Palvella’s plans with respect to the timing of, and anticipated FDA review process for, the NDA for QTORIN™ rapamycin, Palvella’s plans to pursue Breakthrough Therapy Designation, Palvella’s plans to meet with regulatory authorities, Palvella’s expectations regarding the benefits of orphan drug designation and potential benefit of orphan drug exclusivity for QTORIN™ rapamycin for the treatment of microcystic lymphatic malformations, Palvella’s cash, financial resources and expected runway, Palvella’s expectations regarding its programs, including QTORIN™ rapamycin and QTORIN™ pitavastatin, and its research-stage opportunities, including its expected therapeutic potential and market opportunity. Forward-looking statements are based on current beliefs and assumptions that are subject to risks and uncertainties and are not guarantees of future performance. Actual results could differ materially from those contained in any forward-looking statement as a result of various factors, including, without limitation: the ability to raise additional capital to finance operations; the ability to advance product candidates through preclinical and clinical development; the ability to make regulatory submissions on anticipated timelines; the ability to obtain regulatory approval for, and ultimately commercialize, Palvella’s product candidates, including QTORIN™ rapamycin and QTORIN™ pitavastatin; the outcome of early clinical trials for Palvella’s product candidates, including the ability of those trials to satisfy relevant governmental or regulatory requirements; the fact that data and results from clinical studies may not necessarily be indicative of future results; Palvella’s limited experience in designing clinical trials and lack of experience in conducting clinical trials; Palvella’s limited experience in commercial manufacturing; the ability to identify and pivot to other programs, product candidates, or indications that may be more profitable or successful than Palvella’s current product candidates; the substantial competition Palvella faces in discovering, developing, or commercializing products; the negative impacts of global events on operations, including ongoing and planned clinical trials and ongoing and planned preclinical studies; the ability to attract, hire, and retain skilled executive officers and employees; the ability of Palvella to protect its intellectual property and proprietary technologies; reliance on third parties, contract manufacturers, and contract research organizations; and the risks and uncertainties described in the filings made by Palvella with the Securities and Exchange Commission (SEC), including the annual report on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K, filed with or furnished to the SEC and available at[www.sec.gov](https://www.globenewswire.com/Tracker?data=KVCdnBK2ikh6KVGezA76ncgAjjfSn9bU6SI-jJkWg3aYm-oSMAYQLFS_KtnCD13bKtJiaNKq24_HyGP9cOr1ymW9UHxV8PkLspViyeFS0X4maIgjCSrkHlBlok6Yy2UrX4RBC9nLk6g40j1Z7xtGdEuE9Q5AEjkLhIqMIakkOZ428Zk8SWZ765_0txXjRamL2hOSWl18objN_VKI2yUTj_5t86_MFQXTtwFMfhzlUlj4mKBp2qy26wyBrYvPy_sleXELgnGBqK0dfsLhdV9lKCZvNAbzXNTC8CY7dWdz5chseCxca3abfI5N1cz5PiHcgtJD5Qqsy74SRR2mCK_hiCYZR4apBLYGpXaC1eGDVcGMRKxqzStr-zLLXGY5xbjTIOqio0wmB4hFzgGUfYdP7aTmwjM7dScgxjnno1tpvEgpTHl4DFTW0N-I2_E1p94CYPKvE3pU-s5tw_GPM0QVjU3C2J6NsYY96tcP0SjbuwhB1qEPCg35YrHPYqKhS70EqD5P6_ReujQsYOrtRlCHU75CV1MhBnveoa20nJg6pTAkT9ukoDy34hmT9in-QWGliabq1K1wilNK5bGWLfoGYq9LPiaL6AyM7yvAjTyroQiBGFwvexCMIMkvCWmzamBFM2hAQDEjLQzA6OtJBXnW1oC7k1NVN0M2tay6mmWB6yI=) . The events and circumstances reflected in our forward-looking statements may not be achieved or occur, and actual results could differ materially from those projected in the forward-looking statements. New risk factors and uncertainties may emerge from time to time, and it is not possible for management to predict all risk factors and uncertainties that Palvella may face. Except as required by applicable law, Palvella does not plan to publicly update or revise any forward-looking statements contained herein, whether as a result of any new information, future events, changed circumstances or otherwise. This press release contains hyperlinks to information that is not deemed to be incorporated by reference into this press release.
+
+
+**Contact Information**
+
+
+Investors
+Wesley H. Kaupinen
+Founder and CEO
+Palvella Therapeutics
+wes.kaupinen@palvellatx.com
+
+
+Media
+Marcy Nanus
+Vice President of Investor Relations and Corporate Affairs
+Palvella Therapeutics
+marcy.nanus@palvellatx.com

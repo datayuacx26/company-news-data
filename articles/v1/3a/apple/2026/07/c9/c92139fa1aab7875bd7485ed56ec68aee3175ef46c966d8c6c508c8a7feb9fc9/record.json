@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c92139fa1aab7875bd7485ed56ec68aee3175ef46c966d8c6c508c8a7feb9fc9",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs",
+    "canonical": "https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs"
+  },
+  "title": "Doubly Sub-linear Interactive Proofs of Proximity",
+  "summary": "We study doubly sub-linear interactive proofs of proximity (dsIPPs): proofs that are ultra-fast to generate, and can be used to prove…",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-13T16:01:54.794046+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/c9/c92139fa1aab7875bd7485ed56ec68aee3175ef46c966d8c6c508c8a7feb9fc9/article.md",
+    "record": "articles/v1/3a/apple/2026/07/c9/c92139fa1aab7875bd7485ed56ec68aee3175ef46c966d8c6c508c8a7feb9fc9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2568,
+    "sha256": "sha256:15df0544b733f34667a2d0554138e94b847ce6cc2279b643540670acc0306065",
+    "normalized_content_hash": "sha256:9bb2f922addbc2513070ccbafdf82487e5af4ddbe86dafa03bede6acb9a01497"
+  },
+  "provenance": {
+    "source_item_id": "a41eb67b-ce50-4a9d-82c1-4850348af08f",
+    "external_id": "https://machinelearning.apple.com/research/doubly-sublinear-interactive-proofs"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65c320bf37736b27a8d118600557aba89ffee5ee1d76c821ba97d367a8d5f7e5",
+  "company": {
+    "key": "yc-onyx",
+    "name": "Onyx"
+  },
+  "source": {
+    "id": "yc-onyx-news-import-2a3a6e22cda1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://onyx.app/blog/agent-search-with-langgraph",
+    "canonical": "https://onyx.app/blog/agent-search-with-langgraph"
+  },
+  "title": "Beyond RAG: Implementing Agent Search with LangGraph for Smarter Knowledge Retrieval",
+  "summary": "A technical deep dive into how Onyx built Agent Search with LangGraph, including decomposition, parallel sub-queries, refinement loops, and orchestration tradeoffs.",
+  "published_at": "2025-02-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:58:53.878122+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T22:20:21.248043+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-onyx/2025/02/65/65c320bf37736b27a8d118600557aba89ffee5ee1d76c821ba97d367a8d5f7e5/article.md",
+    "record": "articles/v1/3a/yc-onyx/2025/02/65/65c320bf37736b27a8d118600557aba89ffee5ee1d76c821ba97d367a8d5f7e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17074,
+    "sha256": "sha256:9ce74a0bda140d41e843f95d8b7059fa512ec21a3eb3dfa408c2bd5eb866d797",
+    "normalized_content_hash": "sha256:52e412d63f93681bdda2b6133c3cd2a89f52258a839c4bc25be10bf4873aea8f"
+  },
+  "provenance": {
+    "source_item_id": "c1b13429-835b-4cdc-b96a-6679e06787f2",
+    "external_id": "https://onyx.app/blog/agent-search-with-langgraph"
+  }
+}

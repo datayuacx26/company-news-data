@@ -1,0 +1,55 @@
+---
+schema_version: "1.0.0"
+document_id: "332c3d2e894b02a6f822566aa14ef49031148e177bd505eda8a5e50a01d5b4dd"
+company_key: "logistic-properties-of-the-americas-ordinary-shares"
+company: "Logistic Properties of the Americas"
+source_id: "logistic-properties-of-the-americas-ordinary-shares-rss-03de7fdaa01e"
+canonical_url: "https://ir.lpamericas.com/news-events/news/news-details/2026/Logistic-Properties-of-the-Americas-Announces-Filing-of-Its-Form-20-F-for-Fiscal-Year-2025/default.aspx"
+published_at: "2026-03-18T20:29:00+00:00"
+first_seen_at: "2026-07-26T04:52:04.973940+00:00"
+fetched_at: "2026-08-12T11:08:33.141453+00:00"
+content_hash: "sha256:6dc5920c74e3b258aed062066971086cc378ac20b0163d3fa675d06492361d2f"
+---
+
+# Logistic Properties of the Americas Announces Filing of Its Form 20-F for Fiscal Year 2025
+
+SAN JOSE, Costa Rica--(BUSINESS WIRE)--
+
+
+**Logistic Properties of the Americas (NYSE American: LPA) (“LPA” or the “Company”)** today announced that it has filed its Annual Report on Form 20-F for the fiscal year ended December 31, 2025 with the Securities and Exchange Commission (the “SEC”).
+
+
+LPA’s Annual Report on Form 20-F can be accessed by visiting either the SEC’s website at[www.sec.gov](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.sec.gov&esheet=54454167&newsitemid=20260318682014&lan=en-US&anchor=www.sec.gov&index=1&md5=c77524d6ece654554be4a6059a82a8f7) or the “SEC Filings” section of the Company’s Investor Relations website at[https://ir.lpamericas.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fir.lpamericas.com&esheet=54454167&newsitemid=20260318682014&lan=en-US&anchor=https%3A%2F%2Fir.lpamericas.com&index=2&md5=970c0689ede617be79b80b36f6ebb6e2) . In addition, the Company will provide a hard copy of the Annual Report containing audited consolidated financial statements, free of charge, to its shareholders upon request. Requests should be directed to the Company's Investor Relations Department atir@lpamericas.com .
+
+
+**About Logistic Properties of the Americas**
+
+
+Logistic Properties of the Americas is a leading developer, owner, and manager of institutional quality industrial and logistics real estate in high-growth and high-barrier-to-entry markets in Latin America. LPA’s customers are multinational and regional e-commerce retailers, third-party logistic operators, business-to-business distributors, and retail distribution companies among others. LPA expects to continue its future growth with strong client relationships, and insight into and through the acquisition and development of high-quality, strategically located facilities in its target markets. As of December 31, 2025, LPA’s operating and development portfolio was comprised of 35 logistics facilities in Costa Rica, Colombia, Peru, and Mexico totaling approximately 560,000 square meters (or approximately 6.0 million sq. ft.) of gross leasable area. For more information visit[https://ir.lpamericas.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fir.lpamericas.com&esheet=54454167&newsitemid=20260318682014&lan=en-US&anchor=https%3A%2F%2Fir.lpamericas.com&index=3&md5=2da204a6eee685a593d76b01c3512285) .
+
+
+**Forward-Looking Statements**
+
+
+This press release contains certain forward-looking information, which may not be included in future public filings or investor guidance. The inclusion of forward-looking information in this press release should not be construed as a commitment by LPA to provide guidance on such information in the future. Certain statements in this press release may be considered forward-looking statements within the meaning of the U.S. federal securities laws. Forward-looking statements include, without limitation, statements about future events or LPA’s future financial or operating performance. These forward-looking statements regarding future events and the future results of LPA are based on current expectations, estimates, forecasts, and projections about the industry in which LPA operates, as well as the beliefs and assumptions of LPA’s management. These forward-looking statements are only predictions and are subject to known and unknown risks, uncertainties, assumptions and other factors beyond LPA’s control that are difficult to predict because they relate to events and depend on circumstances that will occur in the future. They are neither statements of historical fact nor promises or guarantees of future performance. Therefore, LPA’s actual results may differ materially and adversely from those expressed or implied in any forward-looking statements and LPA therefore caution against relying on any of these forward-looking statements.
+
+
+These forward-looking statements are based upon estimates and assumptions that, while considered reasonable by LPA and its management, are inherently uncertain and are inherently subject to risks variability and contingencies, many of which are beyond LPA’s control. Factors that may cause actual results to differ materially from current expectations include, but are not limited to: (i) the possibility of any economic slowdown or downturn in real estate asset values or leasing activity or in the geographic markets where LPA operates; (ii) LPA’s ability to manage growth; (iii) LPA’s ability to continue to comply with applicable listing standards of NYSE American; (iv) changes in applicable laws, regulations, political and economic developments; (v) the possibility that LPA may be adversely affected by other economic, business and/or competitive factors; (vi) LPA’s estimates of expenses and profitability; (vii) the outcome of any legal proceedings that may be instituted against LPA and (viii) other risks and uncertainties set forth in the filings by LPA with the U.S. Securities and Exchange Commission. There may be additional risks that LPA does not presently know or that LPA currently believes are immaterial that could also cause actual results to differ from those contained in the forward-looking statements. Any forward-looking statements made by or on behalf of LPA speak only as of the date they are made. Except as otherwise required by applicable law, LPA disclaims any obligation to publicly update or revise any forward-looking statements to reflect any changes in their respective expectations with regard thereto or any changes in events, conditions or circumstances on which any such statement is based. Accordingly, you should not place undue reliance on forward-looking statements due to their inherent uncertainty.
+
+
+Nothing within this press release should be regarded as a representation by any person that the forward-looking statements set forth herein will be achieved or that any of the contemplated results of such forward-looking statements will be achieved. You should not place undue reliance on forward-looking statements, which speak only as of the date they are made.
+
+
+**Investor Relations**
+Camilo Ulloa
+Logistic Properties of the Americas
++506 6293 9083
+camilo@lpamericas.com
+
+
+Barbara Cano/Ivan Peill
+InspIR Group
+barbara@inspirgroup.com /ivan@inspirgroup.com
+
+
+Source: Logistic Properties of the Americas

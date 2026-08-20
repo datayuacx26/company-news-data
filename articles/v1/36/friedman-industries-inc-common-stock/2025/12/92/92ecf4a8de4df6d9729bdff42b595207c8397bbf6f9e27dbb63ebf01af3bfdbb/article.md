@@ -1,0 +1,31 @@
+---
+schema_version: "1.0.0"
+document_id: "92ecf4a8de4df6d9729bdff42b595207c8397bbf6f9e27dbb63ebf01af3bfdbb"
+company_key: "friedman-industries-inc-common-stock"
+company: "Friedman Industries Inc."
+source_id: "friedman-industries-inc-common-stock-rss-e4dbe5ed12d2"
+canonical_url: "https://ir.friedmanindustries.com/news-releases/news-release-details/friedman-industries-incorporated-announces-cash-dividend-22"
+published_at: "2025-12-16T20:16:16+00:00"
+first_seen_at: "2026-07-25T05:45:38.289509+00:00"
+fetched_at: "2026-07-28T20:55:00.595584+00:00"
+content_hash: "sha256:1430aff44ce24fabe426032ae68757041a5b00a295637e4c583729b272944d16"
+---
+
+# Friedman Industries, Incorporated Announces Cash Dividend
+
+## Friedman Industries, Incorporated Announces Cash Dividend
+
+
+December 16, 2025
+
+
+[PDF Version](https://ir.friedmanindustries.com/node/11271/pdf)
+
+
+LONGVIEW, Texas, Dec. 16, 2025 (GLOBE NEWSWIRE) -- The Board of Directors (the “Board”) of Friedman Industries, Incorporated, (NASDAQ/GS: FRD) a Texas-based company engaged in metals processing, pipe manufacturing, and metals distribution, declared on December 16, 2025, a cash dividend of $0.04 per share on the Common Stock of the Company. The Company will pay the cash dividend on February 13, 2026 to shareholders of record at the close of business on January 16, 2026. This dividend marks the Company’s 216th consecutive quarterly cash dividend since becoming publicly traded in 1972.
+
+
+Dividends are declared at the discretion of the Board and reviewed on a quarterly basis. The Board’s desire is to pay a dividend at a level that it feels can be held stable for the foreseeable future and which may be increased periodically as the Company’s financial position and operations become supportive of a new amount that the Board believes is sustainable. The determination to pay cash dividends takes into account various factors, including our financial condition, operating results, current and anticipated cash needs and growth plans. While we have paid a dividend every quarter since becoming a public company in 1972 and currently intend to continue that practice, there is no guarantee that payments of dividends will always continue in the future.
+
+
+For further information regarding this dividend, please contact Mr. Alex LaRue, Chief Financial Officer – Secretary and Treasurer at (903)758-3431.

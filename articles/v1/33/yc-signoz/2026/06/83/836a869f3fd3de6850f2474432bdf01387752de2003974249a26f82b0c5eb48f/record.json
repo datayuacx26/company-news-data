@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "836a869f3fd3de6850f2474432bdf01387752de2003974249a26f82b0c5eb48f",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/golang-slog",
+    "canonical": "https://signoz.io/guides/golang-slog"
+  },
+  "title": "Complete Guide to Logging in Golang with slog",
+  "summary": "Learn Go's slog package for structured logging: setup, handlers, log levels, groups, and shipping slog logs to SigNoz.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:48:41.890548+00:00",
+  "last_updated_at": "2026-07-28T20:48:56.601246+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/83/836a869f3fd3de6850f2474432bdf01387752de2003974249a26f82b0c5eb48f/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/83/836a869f3fd3de6850f2474432bdf01387752de2003974249a26f82b0c5eb48f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28176,
+    "sha256": "sha256:beeebe407866d02c25e25ba163f3cea30e10dfbaf675207f9fa20a7b4dbdec99",
+    "normalized_content_hash": "sha256:d227f94daff10c9f77238cafdd138614ece66463dc5973db1b96b75adfa82eb2"
+  },
+  "provenance": {
+    "source_item_id": "c5020603-0610-451f-b0b0-59fefdaf2883",
+    "external_id": "https://signoz.io/guides/golang-slog"
+  }
+}

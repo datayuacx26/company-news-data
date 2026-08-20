@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "891dc8576e7dc457b4bfac0687d7f3c1e3ff0a5be73c13233ec4b794c06f5853",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/django-logging",
+    "canonical": "https://signoz.io/guides/django-logging"
+  },
+  "title": "Django Logging: Setup, Configuration, and Best Practices",
+  "summary": "Learn Django logging setup, configuration, handlers, formatters, levels, errors, and monitoring with SigNoz.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.300221+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/89/891dc8576e7dc457b4bfac0687d7f3c1e3ff0a5be73c13233ec4b794c06f5853/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/89/891dc8576e7dc457b4bfac0687d7f3c1e3ff0a5be73c13233ec4b794c06f5853/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 32754,
+    "sha256": "sha256:a16f0f65ab1bbf5b9a258000308bddcb7e4fdb97c2316a9a6a706e157a424dbb",
+    "normalized_content_hash": "sha256:4f5ed86a4393742c6e914848a3cc1f3e3a9d1d992b5bc6a2ef7ad800ce5bd8ea"
+  },
+  "provenance": {
+    "source_item_id": "a018f996-a283-4d80-917c-51b91f2cf740",
+    "external_id": "https://signoz.io/guides/django-logging"
+  }
+}

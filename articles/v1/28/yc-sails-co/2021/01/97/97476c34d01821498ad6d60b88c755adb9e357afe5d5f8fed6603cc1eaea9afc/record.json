@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97476c34d01821498ad6d60b88c755adb9e357afe5d5f8fed6603cc1eaea9afc",
+  "company": {
+    "key": "yc-sails-co",
+    "name": "Sails Co."
+  },
+  "source": {
+    "id": "yc-sails-co-rss-a888f7fb03bc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.sailscasts.com/how-to-paginate-your-sails-apis/",
+    "canonical": "https://blog.sailscasts.com/how-to-paginate-your-sails-apis/"
+  },
+  "title": "How to paginate your Sails APIs",
+  "summary": "Pagination helps splits the dataset being returned to a user into smaller chunks and return the rest as requested. In this article we will look at a couple of options on implementing pagination in your Sails APIs.",
+  "published_at": "2021-01-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:05:07.405322+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T00:44:19.732721+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-sails-co/2021/01/97/97476c34d01821498ad6d60b88c755adb9e357afe5d5f8fed6603cc1eaea9afc/article.md",
+    "record": "articles/v1/28/yc-sails-co/2021/01/97/97476c34d01821498ad6d60b88c755adb9e357afe5d5f8fed6603cc1eaea9afc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9389,
+    "sha256": "sha256:7de77b769b822f7523b68cf2ef3880add49ce7cb8e3611fb65d03ece24e61b38",
+    "normalized_content_hash": "sha256:be0df46ef4ee2a9f64720ef1846fc3c6d20043c2012ffaa0627022d2d336419f"
+  },
+  "provenance": {
+    "source_item_id": "561bb061-65cb-42b2-8b0b-30a494c6cf27",
+    "external_id": "https://blog.sailscasts.com/how-to-paginate-your-sails-apis/"
+  }
+}

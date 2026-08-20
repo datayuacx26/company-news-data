@@ -1,0 +1,282 @@
+---
+schema_version: "1.0.0"
+document_id: "af332e95465687a8b9542e8607eb3a9f070b35011ac11f3b40b88d6adeddaff8"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/guides/slo-vs-sla"
+published_at: "2026-06-26T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T21:08:50.237722+00:00"
+content_hash: "sha256:c010001b6bd9b62d2541931bb9b4a5c26a330ed3761de8ccf0c4010d273c8bea"
+---
+
+# SLO vs SLA: Understanding the Differences with Real-World Examples
+
+# SLO vs SLA: Understanding the Differences with Real-World Examples
+
+
+Published on: November 20, 2024
+
+
+Last Updated: June 26, 2026
+
+
+11 min read
+
+
+SLAs define what you commit to customers. SLOs define what you aim for internally. Getting this distinction right determines whether you're proactively improving reliability or reactively firefighting incidents. Both SLA and SLO depend on a third concept, Service Level Indicators (SLIs), which measure the actual performance you're tracking.
+
+
+In this article, we'll break down how SLIs, SLOs, and SLAs connect, with real examples from AWS and Google's SRE practices.
+
+
+## What Are SLIs, SLOs, and SLAs?
+
+
+The Google SRE team defines these three concepts with clear boundaries helping you set better targets and avoid over-promising to customers.
+
+
+*SLI vs SLO vs SLA Relationship Flow*
+
+
+### Service Level Indicators
+
+
+An **SLI** , according to the[Google SRE Book](https://sre.google/sre-book/service-level-objectives/) , is "a carefully defined quantitative measure of some aspect of the level of service that is provided." In simpler terms, it's any metric that tells you how well your service is performing.
+
+
+Common SLIs include latency (how long it takes to return a response), availability (the fraction of time the service is usable), error rate (the proportion of requests that fail), and throughput (requests per second the system can handle). The key is choosing SLIs that reflect what users actually experience. Server-side latency is easier to measure than client-side latency, but client-side latency is what users feel.
+
+
+### Service Level Objectives
+
+
+An **SLO** is a target value for an SLI. If your SLI is latency, your SLO might be "99% of requests complete in under 200ms over a 30-day window."
+
+
+The structure typically follows this pattern:` \[SLI metric\] \[comparison\] \[target\] over \[time window\]` . For example, you might set "99.9% of API requests return successfully within 200ms over a rolling 30-day period" or "error rate below 0.1% per day."
+
+
+SLOs are internal targets that guide engineering priorities and help teams decide when reliability work should take precedence over new features.
+
+
+### Service Level Agreements
+
+
+An **SLA** is a contract with consequences. The[Google SRE Book](https://sre.google/sre-book/service-level-objectives/) puts it simply: "SLAs are an explicit or implicit contract with your users that includes consequences of meeting (or missing) the SLOs they contain."
+
+
+The consequences are usually financial—service credits or refunds but they can also affect contract renewal or reputation. While SLAs are often associated with external customer contracts, many organizations use internal SLAs between teams or departments. An internal SLA between your platform team and product teams can formalize expectations and accountability without external customers involved.
+
+
+## SLO vs SLA: Key Differences
+
+
+Aspect SLO SLA
+
+
+**Audience** Internal (engineering, ops teams) External (customers) or internal (between teams)
+
+
+**Binding** Guideline, no formal consequences Contract with defined consequences
+
+
+**Flexibility** Changed based on capacity and priorities Requires formal renegotiation
+
+
+**Target level** Set higher than SLA to create a buffer Set at what you're willing to guarantee
+
+
+**Metrics** Often more granular (p99 latency, per-endpoint) Often simpler (overall availability)
+
+
+The relationship works like this: you set SLOs stricter than your SLA commitments. If your SLA promises 99.9% availability, your internal SLO might target 99.95%. This buffer lets you catch problems before they become SLA violations.
+
+
+## Real-World Example: AWS EC2 SLA
+
+
+AWS provides a documented example of how SLAs work in practice. The[AWS Compute SLA](https://aws.amazon.com/compute/sla/) for EC2 includes two separate commitments.
+
+
+For EC2 instances deployed across two or more Availability Zones in the same region, AWS commits to 99.99% monthly uptime. For a single EC2 instance, the commitment drops to 99.5% uptime.
+
+
+Monthly Uptime Service Credit
+
+
+Less than 99.99% but ≥ 99.0% 10%
+
+
+Less than 99.0% but ≥ 95.0% 30%
+
+
+Less than 95.0% 100%
+
+
+Notice how the credits are tiered, not linear. You don't get "10% credit for each 0.1% below target." The tiers create clear boundaries that AWS can operationalize. This distinction matters for your architecture. If you need 99.99% availability guarantees, you need to run across multiple AZs. A single instance only gets you 99.5%.
+
+
+## How SLOs and SLAs Work Together
+
+
+The Google Cloud team recommends setting internal SLOs stricter than external SLAs because it creates a safety buffer. If you're burning through your error budget against your SLO, you have time to fix issues before hitting SLA thresholds. Your SLA defines what you're contractually obligated to provide, while the gap between current performance and your SLO tells you whether to focus on reliability or features.
+
+
+### The Error Budget Concept
+
+
+If your SLO is 99.9% availability over 30 days, your **error budget** is 0.1%—about 43 minutes of downtime per month. As long as you stay within budget, you can take calculated risks like deployments or infrastructure changes. When you burn through the budget, you prioritize reliability work over feature development. This creates a data-driven conversation between engineering and product teams.
+
+
+Consider this example: Your SLA commitment is 99.9%, which allows 43.2 minutes of downtime per month. Your internal SLO is 99.95%, allowing only 21.6 minutes. This creates a 21.6-minute buffer before you breach your SLA. If an incident burns 15 minutes of downtime, you've used 69% of your SLO budget but only 35% of your SLA budget. You have breathing room to investigate before customer commitments are at risk.
+
+
+## Setting Effective SLOs
+
+
+Before setting targets, measure your current performance. A target of 99.99% availability means nothing if you're currently at 99.5%. Start with achievable targets and increase them as your reliability improves.
+
+
+Pick metrics that reflect user experience. For a web application, you might track page load time, successful request rate, and error rate by type. For an API, response time at various percentiles (p50, p95, p99), success rate, and rate limiting events all matter.
+
+
+Choose your time windows carefully, a rolling window like the past 30 days is sensitive to recent incidents and good for operational awareness. A calendar window like "this month" aligns with billing cycles and business reporting.
+
+
+A complete SLO definition documents everything in one place:
+
+
+```text
+SLO Name  :   API Response Time
+SLI  :   Latency of successful HTTP requests to /api/*
+Target  :   99% of requests complete in < 200ms
+Window  :   Rolling 30 days
+Measurement  :   Sampled at 1 -  minute intervals from server -  side metrics
+Owner  :   Platform Team
+Review Frequency  :   Quarterly
+
+
+```
+
+
+## Real-World SLO Challenges
+
+
+Setting SLOs is easier than living with them.
+
+
+### Low-Traffic Services
+
+
+Request-based SLOs can be unreliable for services with low traffic. A single failed request out of 100 drops your success rate to 99%, which might trigger alerts even though the service is fundamentally healthy.
+
+
+The solution is to use synthetic probes with tools like Prometheus` blackbox_exporter` to send regular synthetic requests, creating a baseline of traffic that smooths out the impact of individual failures. Alternatively, use window-based SLOs. Instead of "99.9% of requests succeed," use "99.9% of 5-minute windows were healthy" to reduce flakiness.
+
+
+### Dependency Chains
+
+
+Your SLO cannot exceed your dependencies' SLAs. If you rely on a third-party API with a 99.5% SLA, you cannot realistically promise 99.99% availability for your own service.
+
+
+When calculating your achievable SLO, multiply the availability of each dependency. If your service is 99.99%, your database is 99.95%, and a third-party API is 99.5%, your realistic maximum is approximately 99.44%. Document these dependencies and use them to set honest expectations with stakeholders.
+
+
+### Alert Fatigue
+
+
+Alerting on every SLO violation leads to alert fatigue. A better approach is **burn-rate alerting** , where you alert based on how fast you're consuming your error budget rather than absolute threshold breaches.
+
+
+If your monthly budget is 43 minutes of downtime, alert if you're on track to burn 100% of budget in 1 hour (critical) or 100% of budget in 6 hours (warning). This approach reduces noise while still catching genuine reliability issues.
+
+
+## What to Do When You Breach an SLO
+
+
+An error budget is only useful if it drives action. When you exhaust your budget, you need a pre-agreed framework to shift engineering focus from features back to reliability.
+
+
+Budget Remaining Action
+
+
+50%+ remaining Normal operations, ship features
+
+
+25-50% remaining Increase caution on risky changes
+
+
+10-25% remaining Alert on-call, pause non-critical deployments
+
+
+0-10% remaining Trigger reliability sprint, freeze features
+
+
+Exceeded Full stop on new work, all hands on reliability
+
+
+A feature freeze doesn't mean all work stops. It means no new feature deployments until error budget recovers, all engineering effort goes to reliability improvements, an exception process exists for critical security patches, and daily check-ins track budget recovery progress. Document this policy before you need it. Having a pre-agreed policy prevents arguments during incidents.
+
+
+When an incident consumes significant error budget, for example more than 20% of monthly budget then conduct a blameless post-mortem. Cover how much budget was consumed, root cause analysis, action items to prevent recurrence, and whether this incident reveals the SLO target is too aggressive.
+
+
+## Sample SLA Clause Checklist
+
+
+When reviewing or drafting an SLA, ensure these elements are covered:
+
+
+- **Service scope** : What exactly is covered (specific APIs, regions, features)
+- **Uptime commitment** : The percentage guaranteed
+- **Measurement method** : How uptime is calculated (downtime definition, measurement window)
+- **Exclusions** : Scheduled maintenance, customer-caused issues, force majeure
+- **Credit structure** : What credits apply at what thresholds
+- **Credit request process** : How and when to request compensation
+- **Credit caps** : Maximum credit per incident or billing period
+- **Termination rights** : What happens with repeated breaches
+
+
+## Monitoring SLOs with SigNoz
+
+
+[SigNoz](https://signoz.io/) is an OpenTelemetry-native observability platform that helps you track SLIs and implement SLO monitoring. Since SigNoz is built on OpenTelemetry, you instrument your applications using standard OTel SDKs and collectors, avoiding vendor lock-in.
+
+
+SigNoz provides custom dashboards where you can build views displaying your key SLIs like request latency percentiles, error rates, and availability metrics. You create panels that show current performance against target thresholds. With alerts, you configure notifications when metrics approach SLO thresholds—for example, burn-rate alerts that fire when you're consuming your error budget faster than sustainable.
+
+
+When latency SLOs are breached, distributed tracing helps you identify which services in your request path contributed to the slowdown. The correlation across signals connects metrics spikes to specific traces and logs, making it faster to diagnose why an SLI degraded.
+
+
+After instrumenting your application with OpenTelemetry, you can create a dashboard panel showing p99 latency for your critical endpoints, add a threshold line at your SLO target (say, 200ms), configure an alert when p99 exceeds the threshold for more than 5 minutes, and link the alert to relevant traces for rapid debugging. This approach gives you visibility into SLO compliance without requiring a dedicated SLO management tool.
+
+
+For related reading, see[Availability vs Reliability](https://signoz.io/comparisons/availability-vs-reliability/) ,[Observability vs Monitoring](https://signoz.io/blog/observability-vs-monitoring/) , and[OpenTelemetry alternatives](https://signoz.io/blog/opentelemetry-alternatives/) , as well as[APM vs Observability](https://signoz.io/guides/apm-vs-observability/) ,[Observability vs Monitoring vs Telemetry](https://signoz.io/guides/observability-vs-monitoring-vs-telemetry/) , and the[APM tools](https://signoz.io/blog/apm-tools/) guide.
+
+
+## Get Started with SigNoz
+
+
+You can choose between various deployment options in SigNoz. The easiest way to get started is[SigNoz Cloud](https://signoz.io/teams/) , which offers a 30-day free trial with access to all features.
+
+
+If you have data privacy concerns and can't send telemetry outside your infrastructure, you can sign up for the[enterprise self-hosted or BYOC offering](https://signoz.io/contact-us/) . If you have the expertise to manage SigNoz yourself or want to start with a free self-hosted option, the[community edition](https://signoz.io/docs/install/self-host/) is available.
+
+
+## Key Takeaways
+
+
+**SLIs** measure service quality—latency, availability, error rate. **SLOs** are internal targets for SLIs that guide engineering priorities. **SLAs** are contracts with consequences when SLOs aren't met. Set internal SLOs stricter than external SLAs to create a safety buffer. Error budgets give you a data-driven way to balance reliability and feature development. Real SLAs like AWS EC2 use tiered credit structures, not linear formulas. SigNoz helps you monitor SLIs through dashboards, alerts, and distributed tracing built on OpenTelemetry.
+
+
+---
+
+
+Hope we answered all your questions regarding SLO vs SLA. If you have more questions, feel free to use the SigNoz AI chatbot, or join our[slack community](https://signoz.io/slack/) .
+
+
+You can also subscribe to our[newsletter](https://newsletter.signoz.io/) for insights from observability nerds at SigNoz, get open source, OpenTelemetry, and devtool building stories straight to your inbox.

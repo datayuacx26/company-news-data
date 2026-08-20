@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-bits-to-atoms",
+    "name": "Bits to Atoms"
+  },
+  "record_count": 10,
+  "first_published_at": "2023-09-05T13:16:04+00:00",
+  "last_published_at": "2024-04-02T10:46:32+00:00",
+  "partitions": [
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/10/yc-bits-to-atoms/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12241,
+        "sha256": "sha256:8b24a0060d8525daa97c90a17a5452cc94a5c6c85a6b6dfeb4c88d41bc14a62f",
+        "newest_at": "2024-04-02T10:46:32+00:00",
+        "oldest_at": "2023-09-05T13:16:04+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3c8d1d9483a02348acc6170f3e0304ff1e435b03f9cb0b8c2b65b5c921046b9",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/stopping-xmin-horizon-blocking-postgres-vacuuming",
+    "canonical": "https://trigger.dev/blog/stopping-xmin-horizon-blocking-postgres-vacuuming"
+  },
+  "title": "How we stopped xmin horizon blocking Postgres vacuuming: a deepdive",
+  "summary": "We encountered an issue with xmin horizon blocking Postgres vacuuming, causing system slowdowns. Learn about our troubleshooting process, the solution we implemented, and our steps to prevent similar incidents in the future.",
+  "published_at": "2024-08-16T21:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:26:40.243460+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2024/08/e3/e3c8d1d9483a02348acc6170f3e0304ff1e435b03f9cb0b8c2b65b5c921046b9/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2024/08/e3/e3c8d1d9483a02348acc6170f3e0304ff1e435b03f9cb0b8c2b65b5c921046b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12142,
+    "sha256": "sha256:4c6cec4c68240644aed37603c5b813a1119f299bdc17b5435ccb18fd4f2c3420",
+    "normalized_content_hash": "sha256:7ccf25275458287a788620f3948b21f4871bd48f7889212091393c7e0946ccd2"
+  },
+  "provenance": {
+    "source_item_id": "2fcb1e59-e886-43fb-9b6b-9e40082a3376",
+    "external_id": "https://trigger.dev/blog/stopping-xmin-horizon-blocking-postgres-vacuuming"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81be91605ad244ee6cca7e3e71592f9bc12cbf633ef8028f14d9c22e1a5cc23b",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/reverse-engineer-website-private-api",
+    "canonical": "https://www.integuru.com/blog/reverse-engineer-website-private-api"
+  },
+  "title": "How to Reverse-Engineer a Website's Private API: A Developer's Guide",
+  "summary": "Every modern web app has an internal API. The frontend is just a client that calls it. This guide walks through capturing XHR requests in Chrome DevTools, identifying auth patterns, and replaying calls with curl, plus what it takes to maintain that pro...",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-28T21:46:26.744966+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/81/81be91605ad244ee6cca7e3e71592f9bc12cbf633ef8028f14d9c22e1a5cc23b/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/81/81be91605ad244ee6cca7e3e71592f9bc12cbf633ef8028f14d9c22e1a5cc23b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14828,
+    "sha256": "sha256:58391bda0f4b20daf55453bb13b031e2b49907f2578de64bb9ae9e914875e91b",
+    "normalized_content_hash": "sha256:6fa4588713a0779d36c1f9fb5ebcc5ec2b89d0e18f1bfcad2c83654c50c4283b"
+  },
+  "provenance": {
+    "source_item_id": "33dc9feb-cb82-4d56-9e35-352c7c5bc222",
+    "external_id": "https://www.integuru.com/blog/reverse-engineer-website-private-api"
+  }
+}

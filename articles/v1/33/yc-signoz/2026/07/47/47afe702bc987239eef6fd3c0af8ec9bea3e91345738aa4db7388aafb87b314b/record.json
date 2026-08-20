@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "47afe702bc987239eef6fd3c0af8ec9bea3e91345738aa4db7388aafb87b314b",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/log-messages-appearing-twice-with-python-logging",
+    "canonical": "https://signoz.io/guides/log-messages-appearing-twice-with-python-logging"
+  },
+  "title": "How to Fix Duplicate Log Messages in Python Logging",
+  "summary": "Learn how to fix duplicate log messages in Python logging. This guide covers common causes, quick fixes, and advanced techniques for clean logging.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-07-28T21:09:53.404208+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/47/47afe702bc987239eef6fd3c0af8ec9bea3e91345738aa4db7388aafb87b314b/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/47/47afe702bc987239eef6fd3c0af8ec9bea3e91345738aa4db7388aafb87b314b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37953,
+    "sha256": "sha256:689c1e0c6037c4a06ac62507cedb7a8eb1f341e09e9b09230b7237dcee752ae3",
+    "normalized_content_hash": "sha256:2abb245df10566d33a7a627a1a7c0cf37f613c5b9b113fe7e8dc515f1ec2c763"
+  },
+  "provenance": {
+    "source_item_id": "b0b92e4e-17da-4696-b48e-a59ffa97ba9d",
+    "external_id": "https://signoz.io/guides/log-messages-appearing-twice-with-python-logging"
+  }
+}

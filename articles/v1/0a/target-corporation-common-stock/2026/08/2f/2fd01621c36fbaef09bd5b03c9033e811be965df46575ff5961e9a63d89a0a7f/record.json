@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fd01621c36fbaef09bd5b03c9033e811be965df46575ff5961e9a63d89a0a7f",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/08/disaster-readiness",
+    "canonical": "https://corporate.target.com/news-features/article/2026/08/disaster-readiness"
+  },
+  "title": "20 Years of Readiness: How Target Supports Team Members and Communities Before, During and After Disasters",
+  "summary": "Learn how Target is strengthening our local communities across the country before, during and after disasters strike and how our Corporate Command Center empowers us to take action instantly.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T00:00:01.613149+00:00",
+  "fetched_at": "2026-08-05T03:48:27.623827+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/2f/2fd01621c36fbaef09bd5b03c9033e811be965df46575ff5961e9a63d89a0a7f/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/2f/2fd01621c36fbaef09bd5b03c9033e811be965df46575ff5961e9a63d89a0a7f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4832,
+    "sha256": "sha256:200f0ad09733f87fddfb92ceaf9e3e64f33e1bdfc477a40a9ac2162267fc65d9",
+    "normalized_content_hash": "sha256:c64003bd5699aef2a34ded6d386cd1d237b3a0a6980f637f1107c8beaa6af5fb"
+  },
+  "provenance": {
+    "source_item_id": "fa3e2188-a090-4a4d-932b-9f3626fc6bac",
+    "external_id": "https://corporate.target.com/news-features/article/2026/08/disaster-readiness"
+  }
+}

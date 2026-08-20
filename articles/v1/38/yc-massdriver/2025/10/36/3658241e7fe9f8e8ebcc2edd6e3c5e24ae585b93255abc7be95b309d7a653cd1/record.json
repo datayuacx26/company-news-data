@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3658241e7fe9f8e8ebcc2edd6e3c5e24ae585b93255abc7be95b309d7a653cd1",
+  "company": {
+    "key": "yc-massdriver",
+    "name": "Massdriver"
+  },
+  "source": {
+    "id": "yc-massdriver-rss-63dfbe6093ab",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.massdriver.cloud/blogs/15-years-of-duct-tape-why-iac-adoption-stalled-at-30",
+    "canonical": "https://www.massdriver.cloud/blogs/15-years-of-duct-tape-why-iac-adoption-stalled-at-30"
+  },
+  "title": "15 Years of Duct Tape: Why IaC Adoption Stalled at 30%",
+  "summary": "Struggling to scale Infrastructure as Code? This post explains why CI/CD pipelines and Git workflows break down for modern cloud infrastructure, how brittle IaC practices slow teams, and why a new foundation—pipeline-less delivery with built-in policy, compliance, and orchestration—can help DevOps scale and empower developers safely.",
+  "published_at": "2025-10-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T21:32:22.131944+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T01:35:24.578462+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-massdriver/2025/10/36/3658241e7fe9f8e8ebcc2edd6e3c5e24ae585b93255abc7be95b309d7a653cd1/article.md",
+    "record": "articles/v1/38/yc-massdriver/2025/10/36/3658241e7fe9f8e8ebcc2edd6e3c5e24ae585b93255abc7be95b309d7a653cd1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11809,
+    "sha256": "sha256:5d9eb8029d4969a2d0a6c8d979c2cd265c7dc4109f11678618ee683063a0f92c",
+    "normalized_content_hash": "sha256:a809f80af00a08ad7615ddf765e68b4d02b75809e343e5d1d4db1917b476b210"
+  },
+  "provenance": {
+    "source_item_id": "902c607d-e481-4998-a2cf-e2ea3a3cb4df",
+    "external_id": "https://www.massdriver.cloud/blogs/15-years-of-duct-tape-why-iac-adoption-stalled-at-30"
+  }
+}

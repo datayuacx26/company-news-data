@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9fa37e5e15717759d3fd925e5d6a52f0c41a4a14fbaad3e4b320dcc9947dd9bd",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/setup/docker/troubleshooting/faq",
+    "canonical": "https://signoz.io/docs/setup/docker/troubleshooting/faq"
+  },
+  "title": "Troubleshooting SigNoz on Docker and Docker Swarm",
+  "summary": "Resolve Docker and Swarm-specific SigNoz issues like missing Compose tooling, inactive Swarm, unhealthy containers, stuck bootstrap jobs, and restart loops.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/9f/9fa37e5e15717759d3fd925e5d6a52f0c41a4a14fbaad3e4b320dcc9947dd9bd/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/9f/9fa37e5e15717759d3fd925e5d6a52f0c41a4a14fbaad3e4b320dcc9947dd9bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 706,
+    "sha256": "sha256:98748fab30fd9c8f2347d937b457cdce9826b90c046ba3433f78912c2d687c28",
+    "normalized_content_hash": "sha256:39a4db8d980481111adfab13a24ebd395a260180ef72928065cefb4ef22fff13"
+  },
+  "provenance": {
+    "source_item_id": "1272798c-df99-4950-b61d-e476997b506b",
+    "external_id": "https://signoz.io/docs/setup/docker/troubleshooting/faq"
+  }
+}

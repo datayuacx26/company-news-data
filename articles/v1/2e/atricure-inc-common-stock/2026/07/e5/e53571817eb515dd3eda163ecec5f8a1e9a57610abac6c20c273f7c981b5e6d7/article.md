@@ -1,0 +1,103 @@
+---
+schema_version: "1.0.0"
+document_id: "e53571817eb515dd3eda163ecec5f8a1e9a57610abac6c20c273f7c981b5e6d7"
+company_key: "atricure-inc-common-stock"
+company: "AtriCure Inc."
+source_id: "atricure-inc-common-stock-news-import-dff164c39544"
+canonical_url: "https://news.atricure.com/media-releases/atricure-announces-first-use-atriclip-pro-minir-device"
+published_at: null
+first_seen_at: "2026-07-21T08:27:17.357693+00:00"
+fetched_at: "2026-07-28T21:21:00.620727+00:00"
+content_hash: "sha256:7dc0c12db622885b5d7a092922a6c80109cac9d646c371bb1dac195820291c2d"
+---
+
+# AtriCure Announces First Use of the AtriClip PRO-Mini® Device
+
+# AtriCure Announces First Use of the AtriClip PRO-Mini® Device
+
+
+April 10, 2025
+
+
+MASON, Ohio--(BUSINESS WIRE)--Apr. 10, 2025--[AtriCure, Inc.](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.Atricure.com&esheet=54236051&newsitemid=20250410554216&lan=en-US&anchor=AtriCure%2C+Inc.&index=1&md5=36e750417ed908c7ac52d4399bc07352) ([Nasdaq: ATRC](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fir.atricure.com%2Fphoenix.zhtml%3Fc%3D189981%26p%3Dirol-irhome&esheet=54236051&newsitemid=20250410554216&lan=en-US&anchor=Nasdaq%3A+ATRC&index=2&md5=7a665052f6e7af2ef0fd7a92091dad1b) ), a leading innovator in surgical treatments and therapies for atrial fibrillation (Afib), left atrial appendage (LAA) management, and post-operative pain management, today announced the first use of the newest AtriClip ® device for minimally invasive concomitant procedures, the AtriClip PRO-Mini® LAA Exclusion System. The AtriClip PRO-Mini device received FDA 510K clearance earlier this year and is a testament to AtriCure’s commitment to innovating the lowest profile and most effective surgical LAA devices on the market.
+
+
+Building upon the proven technology of AtriCure’s AtriClip platform as the most widely implanted surgical LAA device globally, the AtriClip PRO-Mini device is preloaded with the smallest surgical LAA Management implant available in the market. This revolutionary implant is 60% smaller than the next lowest profile AtriClip device. This significant size reduction provides surgeons with enhanced visualization, ensuring precise and secure exclusion of the LAA during minimally invasive procedures.
+
+
+“The AtriClip PRO-Mini device represents a leap forward in surgical LAA management," said Michael Carrel, President and Chief Executive Officer at AtriCure
+
+
+. "This device demonstrates our unwavering commitment to innovating best-in-class surgical solutions and builds upon our 20+ year legacy in surgical appendage management. This technology is empowering surgeons with improved visualization and precision.”
+
+
+The AtriClip PRO-Mini device offers significant benefits to surgeons, including:
+
+
+- Significant Size Reduction: The lower profile enhances visualization and enables precise placement, which is particularly important in minimally invasive procedures.
+- Consistent and Secure Exclusion: Designed to apply uniform pressure, it ensures reliable and permanent LAA closure consistent with other AtriClip products.
+- Familiar and Trusted Applier Technology: Featuring omnidirectional head articulation, end effector lock, ambidextrous lever release trigger, and streamlined applier removal, similar to the AtriClip PRO2® LAA Exclusion System.
+
+
+"The AtriClip PRO-Mini device immediately impressed me with its significantly smaller profile,” said Dr. Ahmed Romeya, cardiovascular surgeon at Midwest Heart and Vascular Specialists
+
+
+in Overland Park, Kansas. “It maintained the parallel closure and uniform pressure necessary for effective left atrial appendage exclusion. The enhanced visualization offered by the AtriClip PRO-Mini device will undoubtedly increase surgeon confidence during these procedures."
+
+
+For more information about the AtriClip line of products, visit our website at[www.atricure.com/laa-exclusion](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fnam12.safelinks.protection.outlook.com%2F%3Furl%3Dhttp%253A%252F%252Fwww.atricure.com%252Flaa-exclusion%26data%3D05%257C02%257CVStorch-Willhaus%2540atricure.com%257C9e66d4845c9d40a9592c08dc742b5152%257C95b31e49550f49b385bcf6d234756d30%257C0%257C0%257C638512976614037909%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C4000%257C%257C%257C%26sdata%3D%252FzdnnnEPjbfVw0SdYukO%252Bizpn6htt6mN0N22nyNrlQ8%253D%26reserved%3D0&esheet=54236051&newsitemid=20250410554216&lan=en-US&anchor=www.atricure.com%2Flaa-exclusion&index=3&md5=f4823bf553bf79240ea848c31cb9a097)
+
+
+**Forward-Looking Statements**
+
+
+Certain statements in this press release are forward-looking in nature and are subject to risks, uncertainties and assumptions about us. Our business and operations are subject to a variety of risks and uncertainties and, consequently, actual results may differ materially from those projected by any forward-looking statements. These risks and uncertainties include, but are not limited to, the following: our estimate of the market for our products; the rate and degree of market acceptance of our products; negative clinical data; competition from existing and new products and procedures, including the development of drugs or catheter-based technologies; our reliance on independent distributors to sell our products; inventory-related charges; the timing of and ability to obtain and maintain regulatory clearances and approvals for our products; impacts of rising healthcare costs; our ability to comply with extensive FDA regulations; the timing of and ability to obtain third party payor reimbursement of procedures utilizing our products; unfavorable publicity; the potential impact of any acquisitions, mergers, dispositions, joint ventures or investments we may make; disruptions to our manufacturing operations; our failure to properly manage growth; disruptions of critical information systems or material breaches in the security of our systems; our ability to manage our intellectual property rights to provide meaningful protection; fluctuation of quarterly financial results; fluctuations in foreign currency exchange rates; reliance on third party manufacturers and suppliers; and litigation, administrative or other proceedings. These risks and uncertainties, as well as others, are discussed in greater detail in our filings with the Securities and Exchange Commission
+
+
+(" SEC
+
+
+"), including our Annual Report on Form 10-K for the year ended December 31, 2024 filed with the SEC
+
+
+on February 14, 2025. There may be additional risks of which we are not presently aware or that we currently believe are immaterial which could have an adverse impact on our business. Any forward-looking statements are based on our current expectations, estimates and assumptions regarding future events and are applicable only as of the dates of such statements. We make no commitment to revise or update any forward-looking statements in order to reflect events or circumstances that may change.
+
+
+**About** **AtriCure**
+
+
+****
+AtriCure, Inc.
+
+
+provides innovative technologies for the treatment of Afib and related conditions. Afib affects more than 59 million people worldwide. Electrophysiologists, cardiothoracic and thoracic surgeons around the globe use AtriCure
+
+
+technologies for the treatment of Afib and reduction of Afib related complications, and the treatment of post-operative pain. AtriCure’s Isolator® Synergy™ Ablation System is the first medical device to receive FDA approval for the treatment of persistent Afib. AtriCure’s AtriClip® Left Atrial Appendage Exclusion System products are the most widely sold LAA management devices worldwide. AtriCure’s Hybrid AF™ Therapy is a minimally invasive procedure that provides a lasting solution for long-standing persistent Afib patients. AtriCure’s cryoICE cryoSPHERE® probes are cleared for temporary ablation of peripheral nerves to block pain, providing pain relief in cardiac and thoracic procedures. For more information, visit[AtriCure.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.atricure.com%2F&esheet=54236051&newsitemid=20250410554216&lan=en-US&anchor=AtriCure.com&index=4&md5=759ec6d94a16ee6bb664644c5493773a) or follow us on Twitter @AtriCure.
+
+
+View source version on
+
+
+[businesswire.com](http://businesswire.com/) :
+
+
+[https://www.businesswire.com/news/home/20250410554216/en/](https://www.businesswire.com/news/home/20250410554216/en/)
+
+
+Angie Wirick
+Investor Relations
+Chief Financial Officer
+(513) 755-5334
+[\[email protected\]](https://news.atricure.com/cdn-cgi/l/email-protection#aecfd9c7dcc7cdc5eeefdadcc7eddbdccb80cdc1c3)
+
+
+Valerie Storch-Willhaus
+Media Relations
+Vice President, Corporate Marketing & Communications
+
+
+[\[email protected\]](https://news.atricure.com/cdn-cgi/l/email-protection#6f191c1b001d0c074218060303070e1a1c2f0e1b1d060c1a1d0a410c0002)
+
+
+Source: AtriCure, Inc.

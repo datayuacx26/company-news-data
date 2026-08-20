@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "83ceef9c87159dc5276f9ae84e67d6f82e619b5c57a12f08bb3838aab1a932ac",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-to-build-dashboards-on-clickhouse-data/",
+    "canonical": "https://www.basedash.com/blog/how-to-build-dashboards-on-clickhouse-data/"
+  },
+  "title": "How to build dashboards on ClickHouse data",
+  "summary": "How to build dashboards on ClickHouse: how to connect a BI tool, the FINAL gotcha that makes results wrong, materialized views vs raw tables, and when not to.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T14:01:59.621446+00:00",
+  "fetched_at": "2026-07-29T14:02:03.295268+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/07/83/83ceef9c87159dc5276f9ae84e67d6f82e619b5c57a12f08bb3838aab1a932ac/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/07/83/83ceef9c87159dc5276f9ae84e67d6f82e619b5c57a12f08bb3838aab1a932ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19845,
+    "sha256": "sha256:9a8961d7e439f96e2a59426182813e82c6c548ea7b046ece676675974e60a41b",
+    "normalized_content_hash": "sha256:5bcb5cbe1d94b6de26f98b31d94dce81af8a32c480a751aa81958891d41f4f1a"
+  },
+  "provenance": {
+    "source_item_id": "c8e6b6dd-3a86-49c3-aa2a-ca40abbac94c",
+    "external_id": "https://www.basedash.com/blog/how-to-build-dashboards-on-clickhouse-data/"
+  }
+}

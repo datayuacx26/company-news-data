@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1f137d5764a5c777348ffdcd5c7f53f99575825d136b3429fe3182d8d66d1c8",
+  "company": {
+    "key": "yc-thematic",
+    "name": "Thematic"
+  },
+  "source": {
+    "id": "yc-thematic-news-import-d60ff6e474dd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getthematic.com/insights/control-who-sees-customer-feedback",
+    "canonical": "https://getthematic.com/insights/control-who-sees-customer-feedback"
+  },
+  "title": "How Do You Control Who Can See Which Customer Feedback in an Analytics Platform?",
+  "summary": "Control who sees which customer feedback by separating authentication, authorization, and provisioning. Thematic scopes permissions per dataset and dashboard.",
+  "published_at": null,
+  "first_seen_at": "2026-07-31T23:56:58.141334+00:00",
+  "fetched_at": "2026-07-31T23:56:59.512489+00:00",
+  "last_updated_at": "2026-08-19T18:49:08.225897+00:00",
+  "paths": {
+    "article": "articles/v1/0a/yc-thematic/2026/07/b1/b1f137d5764a5c777348ffdcd5c7f53f99575825d136b3429fe3182d8d66d1c8/article.md",
+    "record": "articles/v1/0a/yc-thematic/2026/07/b1/b1f137d5764a5c777348ffdcd5c7f53f99575825d136b3429fe3182d8d66d1c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13016,
+    "sha256": "sha256:6fac41df9214d51e3f176c9746bc6d5f1dd21e9c020898204fececba33b8cf02",
+    "normalized_content_hash": "sha256:c98e08aa768dad47ee1636a8dee9f134071b5ab5404389928c772dceb6cf6073"
+  },
+  "provenance": {
+    "source_item_id": "f1327ac6-46bd-42d1-bc32-7ef5025bc329",
+    "external_id": "https://getthematic.com/insights/control-who-sees-customer-feedback"
+  }
+}

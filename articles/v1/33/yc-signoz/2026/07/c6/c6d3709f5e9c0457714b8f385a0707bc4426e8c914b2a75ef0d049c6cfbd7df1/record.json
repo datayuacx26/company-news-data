@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c6d3709f5e9c0457714b8f385a0707bc4426e8c914b2a75ef0d049c6cfbd7df1",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/N-1-query-distributed-tracing",
+    "canonical": "https://signoz.io/blog/N-1-query-distributed-tracing"
+  },
+  "title": "What is N+1 query problem and how distributed tracing solves it?",
+  "summary": "Find N+1 query problems with distributed tracing: spot repeated database spans in a trace, diagnose the cause, and fix the query pattern in SigNoz.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.129498+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/c6/c6d3709f5e9c0457714b8f385a0707bc4426e8c914b2a75ef0d049c6cfbd7df1/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/c6/c6d3709f5e9c0457714b8f385a0707bc4426e8c914b2a75ef0d049c6cfbd7df1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7170,
+    "sha256": "sha256:09379feb25548940c629fda2a50e9d97a31c67e1f9a4e5cb88c6911c0d4f60cc",
+    "normalized_content_hash": "sha256:9d9688116b1d9ef816e4f1c7d685ef062d409b52d774da13b173d6156dfd7f14"
+  },
+  "provenance": {
+    "source_item_id": "54ad9ea4-22ad-4be3-8a73-8ac49c77364e",
+    "external_id": "https://signoz.io/blog/N-1-query-distributed-tracing"
+  }
+}

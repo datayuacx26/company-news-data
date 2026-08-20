@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00174b5e73d30be7c54cc63ba31888db0c3dae95713a956d48901ce065bd457f",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/instrumentation/python/manual-instrumentation",
+    "canonical": "https://signoz.io/docs/instrumentation/python/manual-instrumentation"
+  },
+  "title": "How to add manual instrumentation in Python",
+  "summary": "Learn how to add manual instrumentation in Python using OpenTelemetry. Create custom spans, set attributes, and capture business logic for deeper observability.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/00/00174b5e73d30be7c54cc63ba31888db0c3dae95713a956d48901ce065bd457f/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/00/00174b5e73d30be7c54cc63ba31888db0c3dae95713a956d48901ce065bd457f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 717,
+    "sha256": "sha256:2a3bab4913b8278b04eca9059aedc26f9156c4bbb797b94cb303f73f2660e073",
+    "normalized_content_hash": "sha256:f38d6eebc664fcf0d8f91fc2f6a8511e309867b479b8b01611c07c4ba6b12749"
+  },
+  "provenance": {
+    "source_item_id": "282b0ba6-9780-4f7a-af48-88d0f300c277",
+    "external_id": "https://signoz.io/docs/instrumentation/python/manual-instrumentation"
+  }
+}

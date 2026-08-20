@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86a269aaa366cdf701120daac7a1b75d564132e0255f658bcc07e1d629db31d9",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/newsletter-may-2026",
+    "canonical": "https://www.lancedb.com/blog/newsletter-may-2026"
+  },
+  "title": "🌍 Lance-Backed World Model Platform, 🦆 Multimodal SQL with Lance DuckDB Extension, 💰 LanceDB vs OpenSearch Cost Breakdown",
+  "summary": "stable-worldmodel standardizes world model pipelines on Lance, DuckDB Lance extension adds native multimodal SQL, and LanceDB benchmarks 100M vectors at ~$779/month, plus upcoming events, enterprise updates, and community updates.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/86/86a269aaa366cdf701120daac7a1b75d564132e0255f658bcc07e1d629db31d9/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/86/86a269aaa366cdf701120daac7a1b75d564132e0255f658bcc07e1d629db31d9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19535,
+    "sha256": "sha256:15d2ae4e88cf7cc66c84f528eb14cce5cdd1ce06ca1b2e255a0907c8abfe2acf",
+    "normalized_content_hash": "sha256:383c32acf68739c3d23e70493e5160dcbb9208e18c9224aa18e8acd7be744ff5"
+  },
+  "provenance": {
+    "source_item_id": "97ba6faa-7e99-48dc-95a6-8602453ba11a",
+    "external_id": "https://www.lancedb.com/blog/newsletter-may-2026"
+  }
+}

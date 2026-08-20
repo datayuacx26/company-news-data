@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12044443368bd13b86e303db0a8cc2e3255d877e2d9c539c84d94dc8994bfcbf",
+  "company": {
+    "key": "yelp-inc-common-stock",
+    "name": "Yelp Inc."
+  },
+  "source": {
+    "id": "yelp-inc-common-stock-rss-c1f3492370c5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineeringblog.yelp.com/2026/05/partition-access-visualizations.html",
+    "canonical": "https://engineeringblog.yelp.com/2026/05/partition-access-visualizations.html"
+  },
+  "title": "How Partition Access Visualizations Reduced our Data Lake S3 Cost by 33%",
+  "summary": "How Partition Access Visualizations Reduced our Data Lake S3 Cost by 33% Nick Del Nano, Data Streaming May 21, 2026 Introduction In large analytics environments, data teams often struggle to...",
+  "published_at": "2026-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:26.702617+00:00",
+  "fetched_at": "2026-07-28T20:50:36.289404+00:00",
+  "last_updated_at": "2026-08-20T00:29:13.677681+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yelp-inc-common-stock/2026/05/12/12044443368bd13b86e303db0a8cc2e3255d877e2d9c539c84d94dc8994bfcbf/article.md",
+    "record": "articles/v1/0d/yelp-inc-common-stock/2026/05/12/12044443368bd13b86e303db0a8cc2e3255d877e2d9c539c84d94dc8994bfcbf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9922,
+    "sha256": "sha256:74bcc575e79f1094bef94a584ecba1060b1008d139f286891b17d2907516e714",
+    "normalized_content_hash": "sha256:8ec0c1c28bff8cb8d2f99c07369dc302d4d6ab4c6f07e7b9d126416c173f061f"
+  },
+  "provenance": {
+    "source_item_id": "231e3259-ab63-43cf-b2d8-09a5b030dee1",
+    "external_id": "https://engineeringblog.yelp.com/2026/05/partition-access-visualizations.html"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d03c34bd45e0da62102c73929c7ec4d5b9a762a606579016f1a46a4eb151c929",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck",
+    "canonical": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck"
+  },
+  "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+  "summary": "Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on…",
+  "published_at": "2024-10-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T22:30:51.060022+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2024/10/d0/d03c34bd45e0da62102c73929c7ec4d5b9a762a606579016f1a46a4eb151c929/article.md",
+    "record": "articles/v1/3a/apple/2024/10/d0/d03c34bd45e0da62102c73929c7ec4d5b9a762a606579016f1a46a4eb151c929/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2348,
+    "sha256": "sha256:ee0c815a07684350b8778de08eab32ac8d877257430d4fe8c78700024e1660da",
+    "normalized_content_hash": "sha256:5f3f03904f4727fb1e5b5f143a2bc5e5ce7073c7149bba9436c33cfa9b52697c"
+  },
+  "provenance": {
+    "source_item_id": "2b3ac5ae-989d-4722-b8a2-8cc72909932c",
+    "external_id": "https://machinelearning.apple.com/research/lead-no-recovery-bottleneck"
+  }
+}

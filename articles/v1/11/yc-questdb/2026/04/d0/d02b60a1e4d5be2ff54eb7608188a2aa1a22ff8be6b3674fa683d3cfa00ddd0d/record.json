@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d02b60a1e4d5be2ff54eb7608188a2aa1a22ff8be6b3674fa683d3cfa00ddd0d",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/code-review-tripled-histogram-speedup/",
+    "canonical": "https://questdb.com/blog/code-review-tripled-histogram-speedup/"
+  },
+  "title": "Code review turned a 3x speedup into 8.9x (off-heap HdrHistogram in QuestDB)",
+  "summary": "A community PR ports HdrHistogram off-heap for QuestDB's approx_percentile(): fast in parallel but regressing single-threaded, until review reached 8.9x.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-17T12:44:19.529516+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/04/d0/d02b60a1e4d5be2ff54eb7608188a2aa1a22ff8be6b3674fa683d3cfa00ddd0d/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/04/d0/d02b60a1e4d5be2ff54eb7608188a2aa1a22ff8be6b3674fa683d3cfa00ddd0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10959,
+    "sha256": "sha256:75793f042c17ac81c835a5314fbd21051120f7ec5eccb97f400b9245dd4dde84",
+    "normalized_content_hash": "sha256:e8665f2c717edf5dfbcf9016c02f9b98bbf8fa73b08595eaef38ae360a692d46"
+  },
+  "provenance": {
+    "source_item_id": "2c0872bf-8f22-4f4a-b760-e948693ee81c",
+    "external_id": "https://questdb.com/blog/code-review-tripled-histogram-speedup/"
+  }
+}

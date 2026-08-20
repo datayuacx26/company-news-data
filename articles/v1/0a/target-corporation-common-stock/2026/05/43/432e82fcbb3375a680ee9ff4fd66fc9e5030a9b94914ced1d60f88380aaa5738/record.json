@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "432e82fcbb3375a680ee9ff4fd66fc9e5030a9b94914ced1d60f88380aaa5738",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/q1-2026-earnings",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/q1-2026-earnings"
+  },
+  "title": "A Closer Look at Q1 2026 Results",
+  "summary": "Explore Target’s first quarter 2026 financial results with an infographic featuring highlights from the company’s earnings release.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/43/432e82fcbb3375a680ee9ff4fd66fc9e5030a9b94914ced1d60f88380aaa5738/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/43/432e82fcbb3375a680ee9ff4fd66fc9e5030a9b94914ced1d60f88380aaa5738/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5106,
+    "sha256": "sha256:7ba2aed31fa931a9c459c6ba6a530728a4eb66897873fd2bbc1a880412c8c05c",
+    "normalized_content_hash": "sha256:3e425381ce8514423441faedab13ae42ed78bdeac20c05c8a656dcf1460848ec"
+  },
+  "provenance": {
+    "source_item_id": "9b060cdd-e577-4fe8-8e7f-c01409e1cccb",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/q1-2026-earnings"
+  }
+}

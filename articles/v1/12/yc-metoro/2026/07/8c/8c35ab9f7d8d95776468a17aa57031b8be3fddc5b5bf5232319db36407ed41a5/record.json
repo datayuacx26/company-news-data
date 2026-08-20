@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c35ab9f7d8d95776468a17aa57031b8be3fddc5b5bf5232319db36407ed41a5",
+  "company": {
+    "key": "yc-metoro",
+    "name": "Metoro"
+  },
+  "source": {
+    "id": "yc-metoro-news-import-a8c8033caa18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://metoro.io/blog/introducing-kubernetes-native-rbac",
+    "canonical": "https://metoro.io/blog/introducing-kubernetes-native-rbac"
+  },
+  "title": "Introducing Kubernetes-native RBAC for Metoro",
+  "summary": "Row-level telemetry controls and CRD-managed permissions give platform teams precise, auditable access control through Kubernetes and GitOps.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:14:18.908490+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-19T19:49:32.643345+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-metoro/2026/07/8c/8c35ab9f7d8d95776468a17aa57031b8be3fddc5b5bf5232319db36407ed41a5/article.md",
+    "record": "articles/v1/12/yc-metoro/2026/07/8c/8c35ab9f7d8d95776468a17aa57031b8be3fddc5b5bf5232319db36407ed41a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9152,
+    "sha256": "sha256:fb649fbd9900a245d0d0948d9e6fe06469666a58a297b94037d072a2c172ddad",
+    "normalized_content_hash": "sha256:4a1e0b0fa8855a6ccd8575571ec92d071c8f668c2fae5fc0a9a717356e7ae546"
+  },
+  "provenance": {
+    "source_item_id": "ee6b8bfb-5194-45f7-8b69-991a8946879a",
+    "external_id": "https://metoro.io/blog/introducing-kubernetes-native-rbac"
+  }
+}

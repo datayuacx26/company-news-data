@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-frigade",
+    "name": "Frigade"
+  },
+  "record_count": 48,
+  "first_published_at": "2023-01-01T00:00:00+00:00",
+  "last_published_at": "2026-08-04T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/27/yc-frigade/index/pages/000001.json",
+        "record_count": 48,
+        "byte_count": 48379,
+        "sha256": "sha256:826d47698ca0d046da032ba4399b2f8d99a3fd700652296ad8691ba4d854b86f",
+        "newest_at": "2026-08-04T00:00:00+00:00",
+        "oldest_at": "2023-01-01T00:00:00+00:00"
+      }
+    ]
+  }
+}

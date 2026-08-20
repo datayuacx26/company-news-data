@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "mntn-inc-class-a-common-stock",
+    "name": "MNTN Inc."
+  },
+  "record_count": 88,
+  "first_published_at": "2025-10-09T16:37:38+00:00",
+  "last_published_at": "2026-08-19T13:15:33+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 29
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3d/mntn-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55028,
+        "sha256": "sha256:19309e46c66a4145fc083772889651065cf5fd275a66a2ef8092f7943c79353f",
+        "newest_at": "2026-08-19T13:15:33+00:00",
+        "oldest_at": "2026-04-17T17:09:47+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/3d/mntn-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 38,
+        "byte_count": 44289,
+        "sha256": "sha256:018befa4a721c3ede90a863933342cea9c76acdfcdb16a98bbe7969e90de3450",
+        "newest_at": "2026-04-17T16:51:36+00:00",
+        "oldest_at": "2025-10-09T16:37:38+00:00"
+      }
+    ]
+  }
+}

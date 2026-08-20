@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "truist-financial-corporation-common-stock",
+    "name": "Truist Financial Corporation"
+  },
+  "record_count": 9,
+  "first_published_at": "2026-06-18T20:15:00+00:00",
+  "last_published_at": "2026-07-28T20:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/29/truist-financial-corporation-common-stock/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 10689,
+        "sha256": "sha256:3307662f005f84bebc75213a215162d169e6c1eaf1f3c3fadd6f97f0ed09a270",
+        "newest_at": "2026-07-28T20:15:00+00:00",
+        "oldest_at": "2026-06-18T20:15:00+00:00"
+      }
+    ]
+  }
+}

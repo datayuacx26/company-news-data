@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f85f698a792fe4fb2f324b0f6df179c508365342206d0482518e1c1575ef2cc1",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/opentelemetry/nodejs",
+    "canonical": "https://signoz.io/opentelemetry/nodejs"
+  },
+  "title": "OpenTelemetry Node.js - Getting Started with Tracing, Logs, and Metrics",
+  "summary": "The complete guide to instrumenting Node.js with OpenTelemetry. Implement auto & manual instrumentation to visualize traces and logs in a few simple steps.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/f8/f85f698a792fe4fb2f324b0f6df179c508365342206d0482518e1c1575ef2cc1/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/f8/f85f698a792fe4fb2f324b0f6df179c508365342206d0482518e1c1575ef2cc1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22491,
+    "sha256": "sha256:b0da12f085d7780262b60f98781846daa071d53608a867cf628ef2eb0f801efa",
+    "normalized_content_hash": "sha256:9250f1c90fc5c839347df430416647a862decceba7abc5b15304c2efba2b80c4"
+  },
+  "provenance": {
+    "source_item_id": "76042896-b12e-47f0-a6dc-3cd0d150458d",
+    "external_id": "https://signoz.io/opentelemetry/nodejs"
+  }
+}

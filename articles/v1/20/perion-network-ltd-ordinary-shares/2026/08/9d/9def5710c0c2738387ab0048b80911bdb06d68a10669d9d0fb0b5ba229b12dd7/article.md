@@ -1,0 +1,413 @@
+---
+schema_version: "1.0.0"
+document_id: "9def5710c0c2738387ab0048b80911bdb06d68a10669d9d0fb0b5ba229b12dd7"
+company_key: "perion-network-ltd-ordinary-shares"
+company: "Perion Network Ltd."
+source_id: "perion-network-ltd-ordinary-shares-news-import-95d8ae87be39"
+canonical_url: "https://perion.com/blog/can-you-really-measure-footfall-from-dooh-ads/"
+published_at: "2026-08-05T12:40:57+00:00"
+first_seen_at: "2026-08-10T01:47:08.643647+00:00"
+fetched_at: "2026-08-10T01:47:10.009575+00:00"
+content_hash: "sha256:fe16d08bd19194f338865e2cb069a66e814e0e2fa22b859670bf09fe499747a1"
+---
+
+# Can You Really Measure Footfall from DOOH Ads?
+
+Digital out-of-home advertising promises real-world impact, but proving it requires reliable DOOH footfall traffic attribution. This article examines how brands measure foot traffic lift from DOOH campaigns, the metrics that matter, the shift toward cookieless solutions, and how to select measurement partners that deliver trustworthy, actionable results.
+
+
+## **Key Takeaways**
+
+
+**Q: What does DOOH footfall traffic attribution actually measure?** **** A: It connects a consumer’s exposure to a digital out-of-home ad with a subsequent visit to a physical location, comparing exposed-group visitation rates against a matched control group.
+
+
+**Q: Which industries benefit most from measuring foot traffic lift in DOOH campaigns?** **** A: Categories with high in-store purchase intent—such as QSR, grocery, automotive, and retail apparel—see the greatest value from DOOH footfall traffic attribution because final transactions happen offline.
+
+
+**Q: Why is third-party measurement in DOOH critical for trustworthy results?** **** A: Independent measurement partners eliminate conflicts of interest inherent in self-reported metrics, providing audit-grade data with disclosed methodologies, confidence intervals, and sample sizes.
+
+
+**Q: How does cookieless foot traffic attribution work as mobile identifiers decline?** **** A: It relies on consented panel-based modeling, aggregated mobility data, first-party CRM matching, and clean room environments to maintain attribution quality without depending on IDFA or GAID.
+
+
+**Q: What is Cost Per Incremental Visit, and why does it matter for programmatic DOOH measurement?** **** A: CPIV divides total campaign spend by the number of store visits directly attributable to the ad, enabling advertisers to benchmark DOOH efficiency against channels like paid search or social.
+
+
+**Q: What minimum scale is needed for reliable DOOH footfall traffic attribution studies?** **** A: Campaigns typically require several hundred thousand exposures and multiple store locations to generate statistically significant visitation lift with narrow confidence intervals.
+
+
+**Q: How can advertisers unify DOOH footfall traffic attribution with other channel performance?** **** A: Platforms like Perion offer cross-channel programmatic capabilities that integrate DOOH attribution data alongside display, video, and CTV metrics for a unified view of media-driven foot traffic.
+
+
+## **What Is DOOH Footfall Traffic Attribution?**
+
+
+DOOH footfall traffic attribution is the process of connecting a consumer’s exposure to a digital out-of-home advertisement with a subsequent visit to a physical location, such as a retail store, restaurant, or dealership. Unlike click-based digital attribution, footfall attribution must bridge the gap between a screen in a public space and a person walking through a door, often days later.
+
+
+### **The Core Concept**
+
+
+At its simplest, footfall attribution answers one question: did the people who saw my DOOH ad visit my store at a higher rate than people who did not? To answer that question, measurement systems must accomplish three things:
+
+
+- **Identify exposed audiences:** Determine which mobile device IDs or anonymized identifiers were in proximity to a DOOH screen during an ad play.
+- **Track subsequent visits:** Observe whether those same identifiers later appeared at a designated point-of-interest location.
+- **Establish a baseline:** Compare visitation rates of the exposed group against a statistically matched control group that was not exposed.
+
+
+### **Why It Matters for Advertisers**
+
+
+Without attribution, DOOH budgets are justified on reach and impressions alone. Footfall attribution transforms DOOH from a brand-awareness channel into a performance-measurable medium. Advertisers can calculate cost per visit, compare DOOH efficiency against paid search or social, and reallocate spend based on which screen locations, creatives, or dayparts drive the most store visits.
+
+
+This capability is especially valuable for categories with high in-store purchase intent, including quick-service restaurants, grocery, automotive, and retail apparel, where the final transaction happens offline.
+
+
+## **Understanding How Foot Traffic Lift Is Measured in DOOH**
+
+
+Measuring how foot traffic lift is generated by a DOOH campaign involves several methodological steps, each of which introduces its own considerations around accuracy, scale, and privacy. The process has matured significantly as location data providers and demand-side platforms have refined their techniques.
+
+
+### **Step 1: Exposure Detection**
+
+
+The measurement begins at the screen. When a DOOH ad plays, the system identifies devices within a defined geofence around the screen. This geofence is typically calibrated based on screen size, viewing angle, and environment. A highway billboard may use a 300-meter radius, while a mall kiosk may use 15 meters.
+
+
+### **Step 2: Building Exposed and Control Groups**
+
+
+Once exposed devices are identified, the measurement partner constructs a control group. This group consists of devices that were in similar geographic areas and share demographic or behavioral characteristics but were not exposed to the ad. Proper control group construction is critical because it isolates the incremental effect of the DOOH ad from organic visitation patterns.
+
+
+### **Step 3: Visitation Observation**
+
+
+Both exposed and control groups are monitored over a defined attribution window, typically 7 to 14 days, for visits to the advertiser’s locations. Visits are detected through SDK-based location data, GPS signals, or Wi-Fi probe data, depending on the measurement provider’s methodology.
+
+
+### **Step 4: Calculating Lift**
+
+
+The foot traffic lift is expressed as the percentage increase in visitation rate among the exposed group compared to the control group. For example:
+
+
+**Group** **Total Devices** **Store Visitors** **Visitation Rate**
+
+
+Exposed 100,000 2,400 2.40%
+
+
+Control 100,000 1,800 1.80%
+
+
+Incremental Lift – 600 33.3%
+
+
+A 33.3% lift means the DOOH campaign drove a meaningful increase in store visits above what would have occurred naturally. This type of analysis is how foot traffic lift is measured in DOOH across most leading platforms.
+
+
+## **Key Metrics for Programmatic DOOH Measurement**
+
+
+Programmatic DOOH measurement extends beyond simple footfall counts. Because programmatic buying introduces audience targeting, real-time bidding, and dynamic creative, the measurement framework must capture a broader set of performance indicators.
+
+
+### **Primary Footfall Metrics**
+
+
+- **Visitation Rate:** The percentage of exposed devices that visited the target location within the attribution window.
+- **Incremental Visits:** The number of store visits attributable to the campaign after subtracting baseline visitation.
+- **Cost Per Incremental Visit (CPIV):** Total campaign spend divided by incremental visits, enabling direct comparison with other media channels.
+- **Foot Traffic and Visitation Lift:** The percentage increase in visits among exposed audiences versus the control group.
+
+
+### **Audience and Reach Metrics**
+
+
+- **Unique Reach:** The number of distinct devices or individuals exposed to the campaign, deduplicated across screens and days.
+- **Frequency:** Average number of times each unique device was exposed to the ad.
+- **Audience Composition:** Demographic and behavioral profile of the exposed audience, often validated through third-party data partnerships.
+
+
+### **Campaign Efficiency Metrics**
+
+
+Beyond footfall, programmatic DOOH measurement should also track:
+
+
+1. **Effective CPM (eCPM):** The cost per thousand impressions adjusted for actual audience delivery rather than estimated loop plays.
+2. **Dwell Time Correlation:** Whether longer exposure times near screens correlate with higher visitation rates.
+3. **Daypart Performance:** Which times of day generate the highest lift, informing future scheduling decisions.
+4. **Geographic Performance:** Which screen locations or DMAs produce the strongest results, enabling budget optimization across markets.
+
+
+Platforms like Perion, which operate across programmatic DOOH and other digital channels, can help advertisers unify these metrics alongside display, video, and CTV performance data, giving a more complete picture of cross-channel efficiency.
+
+
+## **The Role of Third-Party Measurement in DOOH for Accuracy**
+
+
+Self-reported metrics from media sellers have long been a concern across all advertising channels. In DOOH, where impression counting itself involves estimation models, independent validation becomes even more important. Third-party measurement in DOOH provides the objectivity needed to build advertiser confidence.
+
+
+### **Why Independence Matters**
+
+
+When the same company selling DOOH inventory also reports on its effectiveness, there is an inherent conflict of interest. Third-party measurement partners operate independently from the media transaction, which means their incentives are aligned with accuracy rather than favorable reporting. This separation is essential for large advertisers who need audit-grade data for budget allocation decisions.
+
+
+### **Leading Measurement Providers**
+
+
+Several established companies specialize in third-party measurement for DOOH footfall attribution:
+
+
+- **Foursquare (formerly Factual):** Uses its extensive panel of location-enabled apps to measure visitation lift from DOOH exposure.
+- **Cuebiq:** Provides footfall analytics based on first-party location data collected through SDK partnerships.
+- **PlaceIQ (now part of Precisely):** Offers location intelligence and attribution studies for OOH and DOOH campaigns.
+- **Adsquare:** Specializes in spatial data and footfall measurement across European and North American markets.
+
+
+### **What to Look for in a Third-Party Partner**
+
+
+Not all third-party measurement is equally rigorous. Advertisers should evaluate potential partners on the following criteria:
+
+
+1. **Panel size and representativeness:** Larger, more diverse panels produce more statistically reliable results.
+2. **Control group methodology:** Partners should use matched-market or propensity-score matching, not simple geographic exclusion.
+3. **Transparency:** The partner should disclose data sources, sample sizes, confidence intervals, and methodology documentation.
+4. **Privacy compliance:** All data collection and processing must comply with GDPR, CCPA, and other applicable regulations.
+
+
+Advertisers working with platforms like Perion benefit from pre-integrated partnerships with these third-party measurement providers, reducing setup friction and ensuring consistent methodology across campaigns.
+
+
+## **Correctly Calculating Foot Traffic and Visitation Lift**
+
+
+Foot traffic and visitation lift is the single most important metric in DOOH footfall attribution, yet it is frequently miscalculated or misinterpreted. Getting the math right, and understanding what the numbers actually mean, is essential for making sound media investment decisions.
+
+
+### **The Lift Formula**
+
+
+The standard formula for visitation lift is straightforward:
+
+
+**Visitation Lift (%) = ((Exposed Visitation Rate – Control Visitation Rate) / Control Visitation Rate) x 100**
+
+
+For example, if 3.2% of exposed devices visited the store and 2.5% of control devices visited, the lift is ((3.2 – 2.5) / 2.5) x 100 = 28%. This means the DOOH campaign increased the likelihood of a store visit by 28% compared to unexposed consumers.
+
+
+### **Common Calculation Errors**
+
+
+- **Using raw visit counts instead of rates:** If the exposed group is larger than the control group, raw counts will be misleading. Always normalize to rates.
+- **Ignoring statistical significance:** A 50% lift based on 12 visits is meaningless. Results should include confidence intervals, typically requiring a 90% or 95% confidence level.
+- **Double-counting multi-location visits:** If a consumer visits two different store locations, the system must decide whether to count one visit or two. The methodology should be documented and consistent.
+- **Overlapping attribution windows:** When multiple campaigns or channels run simultaneously, visits can be attributed to more than one source. Multi-touch attribution models or holdout tests help resolve this.
+
+
+### **Interpreting Lift in Context**
+
+
+A 15% visitation lift may sound modest, but context matters significantly. Consider these benchmarks:
+
+
+**Category** **Typical DOOH Visitation Lift Range**
+
+
+Quick-Service Restaurants 10% – 25%
+
+
+Grocery and Convenience 8% – 20%
+
+
+Retail Apparel 15% – 40%
+
+
+Automotive Dealerships 20% – 50%
+
+
+Entertainment Venues 25% – 60%
+
+
+Categories with lower baseline visitation rates tend to show higher percentage lifts because even a small absolute increase represents a large relative change. Advertisers should always pair lift percentages with incremental visit counts and CPIV to assess true business impact.
+
+
+## **Navigating the Shift to Cookieless Foot Traffic Attribution**
+
+
+The deprecation of third-party cookies, tightening mobile identifier restrictions from Apple and Google, and stricter privacy regulations are reshaping how advertisers track consumer behavior across channels. Cookieless foot traffic attribution is not a future concern; it is a present reality that DOOH advertisers must address now.
+
+
+### **Why DOOH Is Better Positioned Than Most Channels**
+
+
+DOOH has a structural advantage in the cookieless transition. Unlike display or programmatic video, DOOH never relied on cookies in the first place. The medium operates in public spaces and measures exposure through proximity detection rather than browser-based tracking. This means the core methodology for DOOH footfall attribution does not break when cookies disappear.
+
+
+However, the location data that powers footfall measurement does depend on mobile device identifiers, specifically Apple’s IDFA and Google’s GAID. As opt-in rates for these identifiers decline, measurement panels shrink, and attribution models must adapt.
+
+
+### **Emerging Cookieless Approaches**
+
+
+- **Panel-based modeling:** Using consented, opted-in panels as a representative sample and projecting results to the broader population through statistical modeling.
+- **Aggregated location signals:** Working with anonymized, aggregated foot traffic data from sources like mobility data providers rather than individual device tracking.
+- **First-party data integration:** Matching DOOH exposure data against an advertiser’s own CRM or loyalty program data, with proper consent, to measure store visits.
+- **Clean room environments:** Using privacy-safe data collaboration platforms where exposure and visitation datasets can be matched without either party sharing raw data.
+
+
+### **What Advertisers Should Do Now**
+
+
+The transition to cookieless foot traffic attribution requires proactive steps. Advertisers should audit their current measurement partners to understand how much of their attribution relies on IDFA or GAID. They should also test panel-based and modeled approaches alongside deterministic methods to calibrate accuracy. Perion and other advanced programmatic platforms are already investing in privacy-first measurement integrations that maintain attribution quality without depending on deprecated identifiers.
+
+
+## **Common Challenges in Linking DOOH Ads to Store Visits**
+
+
+Even with mature technology and established methodologies, DOOH footfall traffic attribution faces real-world challenges that can compromise accuracy or limit scale. Understanding these obstacles helps advertisers set realistic expectations and design campaigns that are measurable from the start.
+
+
+### **Challenge 1: Exposure Verification**
+
+
+Unlike a digital ad served directly to a user’s screen, a DOOH ad plays on a public display. Being within a geofence does not guarantee the person actually looked at the screen. Measurement systems use probabilistic models to estimate attention, but this introduces uncertainty that does not exist in one-to-one digital channels.
+
+
+### **Challenge 2: Small Sample Sizes**
+
+
+In lower-traffic areas or for advertisers with few store locations, the number of exposed devices that subsequently visit a store can be very small. Small samples produce unreliable lift calculations with wide confidence intervals. Campaigns need sufficient scale, typically a minimum of several hundred thousand exposures, to generate statistically meaningful results.
+
+
+### **Challenge 3: Multi-Channel Contamination**
+
+
+Consumers are exposed to multiple advertising touchpoints before visiting a store. A person might see a DOOH ad, then a mobile retargeting ad, then a social media post before walking into a location. Isolating the DOOH contribution requires multi-touch attribution or incrementality testing, which adds complexity and cost.
+
+
+### **Challenge 4: Latency and Attribution Windows**
+
+
+The gap between DOOH exposure and store visit varies by category. A coffee shop visit might happen within hours, while an automotive dealership visit could take weeks. Choosing the wrong attribution window either inflates results by capturing organic visits or deflates them by missing legitimate delayed conversions.
+
+
+### **Mitigating These Challenges**
+
+
+1. Use multiple data sources to cross-validate exposure and visitation signals.
+2. Set minimum campaign thresholds for impressions and store locations before committing to footfall studies.
+3. Run holdout tests where certain markets receive no DOOH spend, providing a true control for incrementality.
+4. Test multiple attribution windows and report results at each interval for transparency.
+
+
+## **Best Practices for Actionable DOOH Attribution in 2026**
+
+
+As measurement methodologies mature and privacy requirements tighten, advertisers need a disciplined approach to DOOH attribution that balances rigor with practicality. The following best practices reflect what leading brands and agencies are implementing in 2026.
+
+
+### **Design for Measurement from the Start**
+
+
+Attribution should not be an afterthought. Before launching a DOOH campaign, advertisers should define the KPIs, select measurement partners, establish control groups, and confirm that store location data is accurate and complete. Retrofitting measurement after a campaign has run rarely produces trustworthy results.
+
+
+### **Combine Deterministic and Modeled Approaches**
+
+
+Relying solely on deterministic device-level tracking produces increasingly incomplete data as identifier availability declines. Combining deterministic signals with modeled projections, calibrated against known ground truth data, provides both accuracy and scale. This hybrid approach is becoming the standard for cookieless foot traffic attribution.
+
+
+### **Standardize Methodology Across Campaigns**
+
+
+Comparing results across campaigns is only valid if the methodology is consistent. Advertisers should standardize:
+
+
+- Geofence sizes for exposure detection
+- Attribution window length
+- Control group construction method
+- Minimum confidence level thresholds
+- Visit counting rules (unique visitors vs. total visits)
+
+
+### **Integrate DOOH Attribution with Broader Media Measurement**
+
+
+DOOH does not operate in isolation. The most valuable attribution insights come from understanding how DOOH interacts with other channels. Platforms like Perion that offer cross-channel programmatic capabilities can help advertisers see how DOOH exposure amplifies or complements mobile, display, video, and CTV campaigns, providing a unified view of media-driven foot traffic.
+
+
+### **Report Honestly and Include Limitations**
+
+
+Every footfall study has limitations, whether related to panel coverage, sample size, or attribution window selection. Transparent reporting that includes confidence intervals, sample sizes, and known methodological constraints builds long-term trust between advertisers, agencies, and measurement partners.
+
+
+## **How to Choose the Right DOOH Measurement Partner**
+
+
+Selecting a measurement partner for DOOH footfall traffic attribution is a strategic decision that affects data quality, campaign optimization, and budget allocation. The wrong choice can lead to inflated results, wasted spend, or an inability to compare performance across markets and time periods.
+
+
+### **Evaluation Framework**
+
+
+Use the following framework to assess potential partners across five critical dimensions:
+
+
+**Dimension** **Key Questions to Ask**
+
+
+Data Quality What are your data sources? What is your panel size? How do you validate location accuracy?
+
+
+Methodology How do you construct control groups? What statistical tests do you apply? Do you provide confidence intervals?
+
+
+Privacy Compliance Are you compliant with GDPR, CCPA, and state-level privacy laws? Do you rely on opt-in consent?
+
+
+Integration Can you integrate with our DSP, SSP, or programmatic platform? Do you support automated reporting?
+
+
+Future Readiness How does your methodology adapt as IDFA and GAID availability declines? Do you support clean room integrations?
+
+
+### **Red Flags to Watch For**
+
+
+- **Guaranteed lift numbers before a campaign runs:** No legitimate partner can promise specific results in advance.
+- **Refusal to disclose methodology or data sources:** Transparency is non-negotiable for credible measurement.
+- **Extremely small or undisclosed panel sizes:** Results based on thin data are unreliable regardless of how they are presented.
+- **No support for control groups or incrementality testing:** Without a control, there is no way to distinguish campaign-driven visits from organic traffic.
+
+
+### **Making the Final Decision**
+
+
+The best measurement partner is one whose methodology is transparent, whose data is defensible, and whose technology integrates smoothly with your programmatic DOOH buying platform. Advertisers working with Perion, for instance, can leverage existing integrations with major third-party measurement providers, reducing implementation time and ensuring methodological consistency across campaigns.
+
+
+Ultimately, the answer to whether you can really measure footfall from DOOH ads is yes, but only if you invest in the right methodology, partners, and processes. DOOH footfall traffic attribution is not perfect, and no attribution model in any channel is. However, with disciplined execution, transparent reporting, and a commitment to privacy-compliant measurement, advertisers can confidently quantify the real-world impact of their DOOH investments and optimize accordingly.
+
+
+Found this useful? Share it:
+
+
+-
+-
+-
+
+
+Perion Marketing

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "aixcrypto-holdings-inc-common-stock",
+    "name": "AIxCrypto Holdings Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-03-25T02:01:00+00:00",
+  "last_published_at": "2026-08-18T13:27:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/06/aixcrypto-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 18177,
+        "sha256": "sha256:ea774b0625b5fe9b0a24f68b4f9ed1d5db0c7d4cd6adc3839a39c8ae28fceb4b",
+        "newest_at": "2026-08-18T13:27:00+00:00",
+        "oldest_at": "2026-03-25T02:01:00+00:00"
+      }
+    ]
+  }
+}

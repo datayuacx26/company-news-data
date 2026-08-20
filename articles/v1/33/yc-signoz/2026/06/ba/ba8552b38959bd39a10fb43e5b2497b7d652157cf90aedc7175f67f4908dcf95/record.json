@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba8552b38959bd39a10fb43e5b2497b7d652157cf90aedc7175f67f4908dcf95",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/dashboards/dashboard-templates/pgbouncer-dashboard",
+    "canonical": "https://signoz.io/docs/dashboards/dashboard-templates/pgbouncer-dashboard"
+  },
+  "title": "PgBouncer Metrics Dashboard",
+  "summary": "Monitor PgBouncer connection-pool health in SigNoz, covering pool states, query throughput, client wait times, and per-database connections.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/ba/ba8552b38959bd39a10fb43e5b2497b7d652157cf90aedc7175f67f4908dcf95/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/ba/ba8552b38959bd39a10fb43e5b2497b7d652157cf90aedc7175f67f4908dcf95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 686,
+    "sha256": "sha256:331946c4c28932ad79f67d889051ddae3b31ab04a727b3d35c056ee17f3a6f61",
+    "normalized_content_hash": "sha256:ed703b5171e7614542e805f2c9bf4f58da72585a0e26c0b56204fb6a27056e77"
+  },
+  "provenance": {
+    "source_item_id": "c0c3a9a3-ed07-463a-93b8-e2a8b0e0594e",
+    "external_id": "https://signoz.io/docs/dashboards/dashboard-templates/pgbouncer-dashboard"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "rh-common-stock",
+    "name": "RH"
+  },
+  "record_count": 52,
+  "first_published_at": "2023-11-14T18:15:00+00:00",
+  "last_published_at": "2026-07-23T10:46:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/14/rh-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53683,
+        "sha256": "sha256:53ddebd36be2323531e18a93a81bc9298baedd19c776f2aac36e40d7912957be",
+        "newest_at": "2026-07-23T10:46:00+00:00",
+        "oldest_at": "2023-11-30T21:05:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/14/rh-common-stock/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2321,
+        "sha256": "sha256:2d87c44562202dd15d40676474b9100b6c44fa221fc66cfd2f8bd995431ca90b",
+        "newest_at": "2023-11-20T14:17:00+00:00",
+        "oldest_at": "2023-11-14T18:15:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65ab138ee870722c6dd1d848aa8d811c4399f845c672cdd4a2a362fa0aa03854",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-auto-instrumentation",
+    "canonical": "https://signoz.io/blog/opentelemetry-auto-instrumentation"
+  },
+  "title": "How OpenTelemetry Auto-instrumentation Works - Behind the Scenes",
+  "summary": "How OpenTelemetry auto-instrumentation works under the hood: monkey-patching, bytecode instrumentation, and AST modification across languages.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:36:35.395462+00:00",
+  "last_updated_at": "2026-07-28T22:37:10.839127+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/65/65ab138ee870722c6dd1d848aa8d811c4399f845c672cdd4a2a362fa0aa03854/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/65/65ab138ee870722c6dd1d848aa8d811c4399f845c672cdd4a2a362fa0aa03854/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12378,
+    "sha256": "sha256:e1443ab8aa0f77e66d729d0109c742fdea69b20b4c33f35aeebefc0b306512b3",
+    "normalized_content_hash": "sha256:b23de12775a4aa3126c5a14df760b9a8b153adbdbf2ff70f38a455838a40f452"
+  },
+  "provenance": {
+    "source_item_id": "e92b4aa5-7b0e-4a9f-b26c-19f46f940686",
+    "external_id": "https://signoz.io/blog/opentelemetry-auto-instrumentation"
+  }
+}

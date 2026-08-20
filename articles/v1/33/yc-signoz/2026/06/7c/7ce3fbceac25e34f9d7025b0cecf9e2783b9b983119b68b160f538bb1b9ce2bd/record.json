@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ce3fbceac25e34f9d7025b0cecf9e2783b9b983119b68b160f538bb1b9ce2bd",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/slf4j-logger",
+    "canonical": "https://signoz.io/guides/slf4j-logger"
+  },
+  "title": "SLF4J Logger: Java Logging Guide",
+  "summary": "Learn SLF4J logging for Java, including setup, bindings, log levels, MDC, structured logs, and monitoring with SigNoz.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:48:41.890548+00:00",
+  "last_updated_at": "2026-07-28T20:48:56.710994+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/7c/7ce3fbceac25e34f9d7025b0cecf9e2783b9b983119b68b160f538bb1b9ce2bd/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/7c/7ce3fbceac25e34f9d7025b0cecf9e2783b9b983119b68b160f538bb1b9ce2bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 45551,
+    "sha256": "sha256:923260b3dc87facdab76367a79aadcaff24c277a6ee223b56ac79106201afbfc",
+    "normalized_content_hash": "sha256:261cf920be908643b912b150c477139b30f45871acc40cff15dd1d050d626edf"
+  },
+  "provenance": {
+    "source_item_id": "33ff3953-baa0-4faf-8b32-01f24db60991",
+    "external_id": "https://signoz.io/guides/slf4j-logger"
+  }
+}

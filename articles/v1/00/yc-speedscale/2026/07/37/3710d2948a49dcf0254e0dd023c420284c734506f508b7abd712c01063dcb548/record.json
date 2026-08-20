@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3710d2948a49dcf0254e0dd023c420284c734506f508b7abd712c01063dcb548",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/compare-sql-between-runs/",
+    "canonical": "https://speedscale.com/blog/compare-sql-between-runs/"
+  },
+  "title": "The API tests passed. The database didn't.",
+  "summary": "Our v2 release looked clean in HTTP tests until we diffed the SQL workload — an N+1 loop, a startup migration, and 70 ms of extra DB time hiding in plain sight. Here's how to compare two releases without database access.",
+  "published_at": "2026-07-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/07/37/3710d2948a49dcf0254e0dd023c420284c734506f508b7abd712c01063dcb548/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/07/37/3710d2948a49dcf0254e0dd023c420284c734506f508b7abd712c01063dcb548/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6567,
+    "sha256": "sha256:5ac02a12cab0ea5edd43f9115ff6d76d6f5c420f75d7ba8e013a8fd2e0ce279e",
+    "normalized_content_hash": "sha256:80fa13e9d7f0319ca3da7832ec2a9743e469b206393f28154db64f22b4d6f231"
+  },
+  "provenance": {
+    "source_item_id": "ab6e5b68-4785-4d61-b399-176438afc3d4",
+    "external_id": "https://speedscale.com/blog/compare-sql-between-runs/"
+  }
+}

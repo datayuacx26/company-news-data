@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aea3333055019f854cfaefb40461ca668323a21f3ad6c4f3512420c6611dff4d",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-69a1f8dc01ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/changelog/v4",
+    "canonical": "https://www.sourcebot.dev/changelog/v4"
+  },
+  "title": "Sourcebot v4 release",
+  "summary": "Code navigation, required authentication, faster search results, and more.",
+  "published_at": "2025-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:52.577262+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T02:52:57.900818+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2025/05/ae/aea3333055019f854cfaefb40461ca668323a21f3ad6c4f3512420c6611dff4d/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2025/05/ae/aea3333055019f854cfaefb40461ca668323a21f3ad6c4f3512420c6611dff4d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2460,
+    "sha256": "sha256:6bc6a3329c04b10ac08480e5fa59e48761a1943f7f8c3e3740b699e7693bd3d3",
+    "normalized_content_hash": "sha256:d59ed804fb5b09a0ba2d0ee78e9d9159d64100dd4b33ad15563a362f2b4bb725"
+  },
+  "provenance": {
+    "source_item_id": "6b16fc9a-4805-4fe9-9d67-f91d7e163a7f",
+    "external_id": "https://www.sourcebot.dev/changelog/v4"
+  }
+}

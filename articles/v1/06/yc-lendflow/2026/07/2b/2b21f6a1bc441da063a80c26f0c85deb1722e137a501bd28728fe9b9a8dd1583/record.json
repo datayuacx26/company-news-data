@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b21f6a1bc441da063a80c26f0c85deb1722e137a501bd28728fe9b9a8dd1583",
+  "company": {
+    "key": "yc-lendflow",
+    "name": "Lendflow"
+  },
+  "source": {
+    "id": "yc-lendflow-news-import-3be106fb87a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lendflow.com/post/credit-data-api-guide",
+    "canonical": "https://www.lendflow.com/post/credit-data-api-guide"
+  },
+  "title": "Credit Data API: The Definitive Guide for Lenders and Developers",
+  "summary": "Pulling credit data used to mean logging into bureau portals, downloading PDFs, and manually keying information into loan systems. A credit data API replaces that workflow with a single programmatic call that returns structured credit reports, scores, and payment history in seconds.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T19:27:58.682847+00:00",
+  "fetched_at": "2026-07-29T19:28:00.693204+00:00",
+  "last_updated_at": "2026-08-19T21:46:48.150201+00:00",
+  "paths": {
+    "article": "articles/v1/06/yc-lendflow/2026/07/2b/2b21f6a1bc441da063a80c26f0c85deb1722e137a501bd28728fe9b9a8dd1583/article.md",
+    "record": "articles/v1/06/yc-lendflow/2026/07/2b/2b21f6a1bc441da063a80c26f0c85deb1722e137a501bd28728fe9b9a8dd1583/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15341,
+    "sha256": "sha256:c69ca56ddb54b3ae08cc225082a9f741e4c9c83acedf83558269a5f9bb2ad696",
+    "normalized_content_hash": "sha256:e52b16e38ffe3a17a819503f5068b2a711952d93d25eb85a7c032819eb296c38"
+  },
+  "provenance": {
+    "source_item_id": "c806d587-54b4-45a5-94a5-aa8d4a897c48",
+    "external_id": "https://www.lendflow.com/post/credit-data-api-guide"
+  }
+}

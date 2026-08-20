@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ea44149ca87503eec0258ec1c4632a50183954e28a3ac065cccb84b126af17b",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/blacksmith-achieves-soc-2-type-2-compliance",
+    "canonical": "https://www.blacksmith.sh/blog/blacksmith-achieves-soc-2-type-2-compliance"
+  },
+  "title": "Blacksmith achieves SOC 2 Type 2 compliance",
+  "summary": "We passed our SOC 2 Type 2 audit. That means our security controls not only look good on paper (Type 1), but actually work in practice (Type 2). From Firecracker-isolated ephemeral VMs to tight access controls and disaster recovery, we take your data seriously. Security isn’t a checkbox — it’s the product.",
+  "published_at": "2024-09-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-07-30T13:24:19.374377+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2024/09/7e/7ea44149ca87503eec0258ec1c4632a50183954e28a3ac065cccb84b126af17b/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2024/09/7e/7ea44149ca87503eec0258ec1c4632a50183954e28a3ac065cccb84b126af17b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3871,
+    "sha256": "sha256:9e05929989724f1aabf93b9dac99e562972a2a140f3985f14fa6e66654cb440b",
+    "normalized_content_hash": "sha256:5805c0b84e175baaae2e036e6a1822aae4341caada858812e85f6839f763b67e"
+  },
+  "provenance": {
+    "source_item_id": "4cd8e234-5249-4b39-8341-c76b2d257d01",
+    "external_id": "https://www.blacksmith.sh/blog/blacksmith-achieves-soc-2-type-2-compliance"
+  }
+}

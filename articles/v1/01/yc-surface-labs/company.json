@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-surface-labs",
+    "name": "Surface Labs"
+  },
+  "record_count": 52,
+  "first_published_at": "2026-07-09T06:02:37.490+00:00",
+  "last_published_at": "2026-08-19T11:00:07.507+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 43
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/01/yc-surface-labs/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52192,
+        "sha256": "sha256:742cb8fd7705ccaa95ac3c0e046b54454fb6f30bfa1aa7c4df53fb8416cbc2eb",
+        "newest_at": "2026-08-19T11:00:07.507+00:00",
+        "oldest_at": "2026-07-15T14:34:03.453+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/01/yc-surface-labs/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2250,
+        "sha256": "sha256:a7c7dfaed61cdde7e8b2c2677433c84ae16bd9480a8ccb1bfa225d1caff5e4f4",
+        "newest_at": "2026-07-14T11:32:04.548+00:00",
+        "oldest_at": "2026-07-09T06:02:37.490+00:00"
+      }
+    ]
+  }
+}

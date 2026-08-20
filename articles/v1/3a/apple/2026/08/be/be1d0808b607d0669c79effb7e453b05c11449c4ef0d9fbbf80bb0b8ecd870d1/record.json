@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be1d0808b607d0669c79effb7e453b05c11449c4ef0d9fbbf80bb0b8ecd870d1",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/deepambigqa-multihop-questions",
+    "canonical": "https://machinelearning.apple.com/research/deepambigqa-multihop-questions"
+  },
+  "title": "DeepAmbigQA: Ambiguous Multi-hop Questions for Benchmarking LLM Answer Completeness",
+  "summary": "Large language models (LLMs) with integrated search tools show strong promise in open-domain question answering (QA), yet they often…",
+  "published_at": null,
+  "first_seen_at": "2026-08-07T13:25:19.043576+00:00",
+  "fetched_at": "2026-08-07T13:25:20.192873+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/be/be1d0808b607d0669c79effb7e453b05c11449c4ef0d9fbbf80bb0b8ecd870d1/article.md",
+    "record": "articles/v1/3a/apple/2026/08/be/be1d0808b607d0669c79effb7e453b05c11449c4ef0d9fbbf80bb0b8ecd870d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2491,
+    "sha256": "sha256:8c6f71922b476fc539cc3cc22d24d5a0a85b672e6541178413d8d0bb059c4b75",
+    "normalized_content_hash": "sha256:46182469d38f90734d263e67bb7b55c20e3733f567382d6ac3d210c25de3965e"
+  },
+  "provenance": {
+    "source_item_id": "d314a507-5265-42ca-92b0-1ac1534e5cc6",
+    "external_id": "https://machinelearning.apple.com/research/deepambigqa-multihop-questions"
+  }
+}

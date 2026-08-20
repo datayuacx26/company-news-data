@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d575894036b57bf52a0d8f93f7ee019c439a525dc38954cfa171f2db35cffbdd",
+  "company": {
+    "key": "yc-osmosis",
+    "name": "Osmosis"
+  },
+  "source": {
+    "id": "yc-osmosis-news-import-de01a8838bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://osmosis.ai/blogs/unlocking-lora-moe-rl-for-qwen3-5",
+    "canonical": "https://osmosis.ai/blogs/unlocking-lora-moe-rl-for-qwen3-5"
+  },
+  "title": "Unlocking LoRA MoE RL for Qwen3.5",
+  "summary": "In order to train large MoE models with RL, you need two systems: a training cluster and an inference cluster. Our stack pairs Megatron-LM with SGLang for this purpose. We wanted to share the process of how we added support for LoRA within our training stack - specifically for the Qwen3.5 MoE models.",
+  "published_at": "2026-04-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:22:44.798253+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-08-19T19:56:56.890048+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-osmosis/2026/04/d5/d575894036b57bf52a0d8f93f7ee019c439a525dc38954cfa171f2db35cffbdd/article.md",
+    "record": "articles/v1/21/yc-osmosis/2026/04/d5/d575894036b57bf52a0d8f93f7ee019c439a525dc38954cfa171f2db35cffbdd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14105,
+    "sha256": "sha256:68efbc19eb553aaf0dc7c22d513f2c7fa67f0716fac094db2377b78868859db1",
+    "normalized_content_hash": "sha256:90be6fbf0555d3e0927ace30958bcd76175dc58b54197bcd0533ad5e92aaafe5"
+  },
+  "provenance": {
+    "source_item_id": "b5fae42a-2e39-4378-bb57-1837d6d75ddf",
+    "external_id": "https://osmosis.ai/blogs/unlocking-lora-moe-rl-for-qwen3-5"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e98bcd77e1ad55e25c2e3a71d1fd30fd4f581fb3617dcd42fbb7c3667e2b358f",
+  "company": {
+    "key": "yc-osmosis",
+    "name": "Osmosis"
+  },
+  "source": {
+    "id": "yc-osmosis-news-import-de01a8838bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://osmosis.ai/blogs/applying-rl-fixing-structured-outputs",
+    "canonical": "https://osmosis.ai/blogs/applying-rl-fixing-structured-outputs"
+  },
+  "title": "Applying RL: Fixing Structured Outputs",
+  "summary": "A significant portion of AI use cases revolve around structured outputs - i.e. using the model to ingest unstructured textual data to generate a structured output, typically in JSON format. However, this leads to a performance decrease in tasks that are not strictly just formatting changes since structured output mode enforces a schema and stops the model from thinking ‘freely’.",
+  "published_at": "2025-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:22:44.798253+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T19:56:56.890048+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-osmosis/2025/05/e9/e98bcd77e1ad55e25c2e3a71d1fd30fd4f581fb3617dcd42fbb7c3667e2b358f/article.md",
+    "record": "articles/v1/21/yc-osmosis/2025/05/e9/e98bcd77e1ad55e25c2e3a71d1fd30fd4f581fb3617dcd42fbb7c3667e2b358f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3367,
+    "sha256": "sha256:808e46096da2dea99119515619e7653b6982db560d3b9a6bbca34949a4d7593f",
+    "normalized_content_hash": "sha256:724fe1b5e5a2f32695abdb4d7011f2b97b0570f177df8b2f2ef52c5cb91c6c58"
+  },
+  "provenance": {
+    "source_item_id": "ca2be597-fcb4-4852-b77f-f93fe5beab14",
+    "external_id": "https://osmosis.ai/blogs/applying-rl-fixing-structured-outputs"
+  }
+}

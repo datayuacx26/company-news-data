@@ -1,0 +1,408 @@
+---
+schema_version: "1.0.0"
+document_id: "63d16a2d98952012c57840113a92b9c6b7bc610526930612db4dcca4666bd1df"
+company_key: "synaptics-incorporated-common-stock-0-001-par-value"
+company: "Synaptics Incorporated Common Stock $0.001 Par Value"
+source_id: "synaptics-incorporated-common-stock-0-001-par-value-rss-37ccc1913767"
+canonical_url: "https://www.synaptics.com/assets/product-brief/displaylink-integrated-chipset/dl-6000"
+published_at: "2026-07-27T17:11:48+00:00"
+first_seen_at: "2026-07-27T18:56:32.293752+00:00"
+fetched_at: "2026-08-20T03:43:50.971736+00:00"
+content_hash: "sha256:507bc7c52216fdcc19178ae4678eb943193120dceb94088dcf8f7ea00e1876fb"
+---
+
+# DisplayLink DL-6000 Series
+
+DisplayLink DL-6000 Series
+
+
+[Home](https://www.synaptics.com/) /[DisplayLink Graphics](https://www.synaptics.com/products/displaylink-graphics) / DisplayLink DL-6xxx Series
+
+
+# DisplayLink DL-6xxx Series
+
+
+## Product Family Overview
+
+
+##
+
+
+The DisplayLink DL-6xxx family, trusted by Dell, Lenovo, HP, Targus, Plugable, StarTech, Kensington, HTC, Wavlink, and many others, has been integrated into hundreds of products worldwide across enterprise, conferencing, industrial, embedded, and retail segments.
+
+
+Supporting dual 4K60 displays through integrated DisplayPort or HDMI interfaces, the DL-6xxx family combines Modern Standby, GOP, Wake-on-LAN (WoL), PXE boot, MAPT, Gigabit Ethernet, and 5.1-channel audio over USB 3.0. It is an ideal solution for mainstream docking stations, adapters, handset cradles, monitor docks, and conferencing systems. Integrated eDP support also enables monitors, robotic displays, embedded panels, and point-of-sale displays.
+
+
+Contact[Synaptics Sales](https://www.synaptics.com/contact) for further details.
+
+
+###### Ultra-Low Latency Performance
+
+
+###### Link-Aware Bandwidth Adaptation
+
+
+###### DisplayLink Direct
+
+
+###### USB Link
+
+
+### Features
+
+
+Feature / IC Earlier DL-3xxx IC DL-6350 DL-6700 DL-6950 DL-6910
+
+
+Applications -
+
+
+- Docking Station
+
+
+- Docking Station / Adapter
+- Handset Cradle
+- Meeting Video Bar
+- Meeting Switcher / Hub / PC
+- Customer POS Display
+- Embedded Panel
+- Robotics Display
+
+
+- Docking Station / Adapter
+- Handset Cradle
+- Meeting Video Bar
+- Meeting Switcher / Hub / PC
+- Customer POS Display
+- Embedded Panel
+- Robotics Display
+
+
+- Docking Station
+
+
+Video Outputs 2 2 1 2 4
+
+
+Maximum Resolution 1* WQHD or 2* QWXGA **1* UHD or 2* WQXGA** **1* UHD** **1* 5K or 2* UHD** **2* 5K or 4* UHD**
+
+
+Ingress USB3 5Gbps USB3 5Gbps USB3 5Gbps USB3 5Gbps USB3 5Gbps
+
+
+Memory
+
+
+- External DRAM
+- DDR2 or DDR3
+
+
+- External DRAM
+- DDR3
+
+
+- External DRAM
+- DDR3
+
+
+- External DRAM
+- DDR3
+
+
+- External DRAM
+- DDR3
+
+
+LVDS - - - - -
+
+
+eDP Supported **Integrated** **Integrated** **Integrated** **Integrated**
+
+
+Digital RGB - - - - -
+
+
+VGA Integrated - - - -
+
+
+DVI Integrated - - - -
+
+
+HDMI Integrated v1.3 **Integrated 2.0** **Integrated 2.0** **Integrated 2.0** **Integrated 2.0**
+
+
+DP Supported v1.1 **Integrated v1.2** **Integrated v1.2** **Integrated v1.2** **Integrated v1.2**
+
+
+Codec DL3 DL3 DL3 DL3 DL3
+
+
+HDCP Integrated Integrated Integrated Integrated Integrated
+
+
+Ethernet 1Gbps 1Gbps 1Gbps 1Gbps 1Gbps
+
+
+Audio 5.1 Channel 5.1 Channel 5.1 Channel 5.1 Channel 5.1 Channel
+
+
+DDC/CI Supported Supported Supported Supported Supported
+
+
+DisplayLink Direct Supported Supported Supported Supported Supported
+
+
+Enterprise Features
+
+
+- Wake On LAN
+- PXE Boot
+- MAPT
+
+
+- **GOP**
+- **Modern Standby**
+- Wake On LAN
+- PXE Boot
+- MAPT
+
+
+- **GOP**
+- **Modern Standby**
+- Wake On LAN
+- PXE Boot
+- MAPT
+
+
+- **GOP**
+- **Modern Standby**
+- Wake On LAN
+- PXE Boot
+- MAPT
+
+
+- **GOP**
+- **Modern Standby**
+- Wake On LAN
+- PXE Boot
+- MAPT
+
+
+## Certification
+
+
+DisplayLink certified not only signifies that the product is enabled by one of our many award-winning chipsets, it also highlights that the design has been scrutinized and meets the stringent design needs to carry our certified brand mark. Buying products that carry the brand equally signifies to end users a level of uncompromisable compatibility, allowing products from multiple vendors to work seamlessly together. Building confidence, ensuring usability, enabling freedom of choice, plus our unequaled extensibility.
+
+
+## Products
+
+
+DL-6910
+
+
+#### USB-C™ Universal Quad 4K (QV4K) Docking Station with 100W Power Delivery – DOCK570 (with subtitles)
+
+
+[Learn more →](https://www.youtube.com/watch?v=spWtSm1P20g)
+
+
+DL-6950
+
+
+#### Plugable TBT-6950PD: An Easier Way To Add 4 Screens to Mac or Windows
+
+
+[Learn more →](https://www.youtube.com/watch?v=5wiyFiSbKkU)
+
+
+DL-6950
+
+
+#### ThinkPad Hybrid USB-C with USB A Dock Product Tour
+
+
+[Learn more →](https://www.youtube.com/watch?v=IAMaVYgS2II)
+
+
+DL-6950
+
+
+#### This $99 Adapter Solves Mac's Biggest Display Problem
+
+
+[Learn more →](https://www.youtube.com/watch?v=zykb-UeU5Vk)
+
+
+DL-6950
+
+
+#### Introducing the OWC USB-C Dual HDMI Adapter
+
+
+[Learn more →](https://www.youtube.com/watch?v=puJyn1FmPx8)
+
+
+DL-6950
+
+
+#### WAVLINK WL-UG6902H: Dual HDMI Splitter for 4K Dual Monitor Setup!
+
+
+[Learn more →](https://www.youtube.com/watch?v=gZiJ8mFrhN0)
+
+
+DL-6950 / DL-6700
+
+
+#### Plug and Play Meetings with TeamConnect Bar | Sennheiser
+
+
+[Learn more →](https://www.youtube.com/watch?v=q1hCOVYVHfI)
+
+
+DL-6700
+
+
+#### Bose Videobar VB1 全功能USB會議設備
+
+
+[Learn more →](https://www.youtube.com/watch?v=Nfp5M_Wgq9U)
+
+
+DL-6950
+
+
+#### ISE 2025 – Explore Taurus Dual Screen: Maximize Your Workspace with Extended Desktop
+
+
+[Learn more →](https://www.youtube.com/watch?v=eHl1Gej3wWo)
+
+
+DL-1950
+
+
+#### COMPUTEX 2023 Thinkbook WirelessDock demo
+
+
+[Learn more →](https://www.youtube.com/watch?v=I8NQrkw5eZk)
+
+
+DL-6950
+
+
+#### CMS Tech Hub | Softwired Docking Station
+
+
+[Learn more →](https://www.youtube.com/watch?v=5x8aM82qxxw)
+
+
+DL-6950
+
+
+#### Conference Table Connectivity Box | StarTech.com
+
+
+[Learn more →](https://www.youtube.com/watch?v=zN6rfuQBhiY)
+
+
+DL-8020
+
+
+#### Wireless VR is here! VIVE Wireless Adapter
+
+
+[Learn more →](https://www.youtube.com/watch?v=B6BUiCkBFcA)
+
+
+### Award-Winning Innovation
+
+
+Recognized for quality, reliability, and results that consistently stand out above expectations.
+
+
+[Explore Opportunities](https://careers.synaptics.com/search/jobs)
+
+
+[Macworld Best of 2026](https://plugable.com/products/usbc-6950m)
+
+
+Plugable USB C to HDMI Adapter, Dual Monitor 4K 60Hz for Apple Mac M1/M2/M3
+
+
+[Best in Market 2025](https://www.lightware.com/en/news/taurus-ucx-pro-av-award)
+
+
+Pro AV Winner
+AV Technology
+
+
+Lightware Visual Engineering
+
+
+[CES Innovation Awards 2020 Honoree](https://us.targus.com/blogs/press-room/targus-named-ces-2020-innovation-awards-honoree-for-world-s-first-usb-c-universal-quad-4k-docking-station-with-power)
+
+
+Targus Named CES 2020 Innovation Awards Honoree for World’s First USB-C Universal Quad 4K Docking Station with Power
+
+
+[gamescom Award Winner 2018](https://blog.vive.com/us/vive-wireless-adapter-wins-best-of-gamescom/)
+
+
+Best Hardware
+
+
+Vive Wireless Adapter Scoops “Best Hardware” at the Gamescom Awards 2018!
+
+
+[Macworld Best of 2026](https://plugable.com/products/usbc-6950m)
+
+
+Plugable USB C to HDMI Adapter, Dual Monitor 4K 60Hz for Apple Mac M1/M2/M3
+
+
+[Best in Market 2025](https://www.lightware.com/en/news/taurus-ucx-pro-av-award)
+
+
+Pro AV Winner
+AV Technology
+
+
+Lightware Visual Engineering
+
+
+Best Hardware
+
+
+Vive Wireless Adapter Scoops “Best Hardware” at the Gamescom Awards 2018!
+
+
+[Macworld Best of 2026](https://plugable.com/products/usbc-6950m)
+
+
+Plugable USB C to HDMI Adapter, Dual Monitor 4K 60Hz for Apple Mac M1/M2/M3
+
+
+[Best in Market 2025](https://www.lightware.com/en/news/taurus-ucx-pro-av-award)
+
+
+Pro AV Winner
+AV Technology
+
+
+Lightware Visual Engineering
+
+
+Best Hardware
+
+
+Vive Wireless Adapter Scoops “Best Hardware” at the Gamescom Awards 2018!
+
+
+## Contact Us to Learn More!
+
+
+intern
+
+
+Mon, 07/27/2026 - 10:11

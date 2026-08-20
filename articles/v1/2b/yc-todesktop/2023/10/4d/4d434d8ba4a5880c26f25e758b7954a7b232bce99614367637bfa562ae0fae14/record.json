@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d434d8ba4a5880c26f25e758b7954a7b232bce99614367637bfa562ae0fae14",
+  "company": {
+    "key": "yc-todesktop",
+    "name": "ToDesktop"
+  },
+  "source": {
+    "id": "yc-todesktop-news-import-b82ee277d06d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.todesktop.com/blog/posts/how-to-gracefully-switch-to-a-new-code-signing-cert-on-mac",
+    "canonical": "https://www.todesktop.com/blog/posts/how-to-gracefully-switch-to-a-new-code-signing-cert-on-mac"
+  },
+  "title": "How to gracefully switch to a new code signing cert on Mac",
+  "summary": "Transitioning from an individual developer's certificate to an organization's certificate for an Electron app on macOS can be a tricky process, particularly when it comes to **maintaining a seamless auto-update experience for your users**. In this guide, we'll walk through the steps to ensure a smooth transition between certificates, preventing errors and ensuring your app's designated requirements (DR) are met.",
+  "published_at": "2023-10-27T17:13:00+00:00",
+  "first_seen_at": "2026-07-24T04:14:47.478048+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T23:03:50.966981+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-todesktop/2023/10/4d/4d434d8ba4a5880c26f25e758b7954a7b232bce99614367637bfa562ae0fae14/article.md",
+    "record": "articles/v1/2b/yc-todesktop/2023/10/4d/4d434d8ba4a5880c26f25e758b7954a7b232bce99614367637bfa562ae0fae14/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6704,
+    "sha256": "sha256:4c4af90f71cf75e0a30f854c66e12061acf0c5436ad8de02f43d11365a248691",
+    "normalized_content_hash": "sha256:9438c2a1196ea108689b0e0b3702d098f5aa134de12f424eda9d5994858dde8e"
+  },
+  "provenance": {
+    "source_item_id": "2276e9ff-f5cc-47dd-83cd-4c9ccaf8bb8c",
+    "external_id": "https://www.todesktop.com/blog/posts/how-to-gracefully-switch-to-a-new-code-signing-cert-on-mac"
+  }
+}

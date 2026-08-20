@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b85150f63a3cedb6285fedce891985c3c4cc036a0e86585944865080b2c1f16",
+  "company": {
+    "key": "yc-asteroid",
+    "name": "Asteroid"
+  },
+  "source": {
+    "id": "yc-asteroid-news-import-1b74f0bf6416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://asteroid.ai/blog/browser-employees/",
+    "canonical": "https://asteroid.ai/blog/browser-employees/"
+  },
+  "title": "Asteroid 2.0: From a browser tool to a browser employee",
+  "summary": "Asteroid Gen 2 agents get their own computer, write code, self-heal, and learn over time, cutting one workflow from six minutes to 67 seconds. Meet Gen 2.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:09:50.096820+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T02:20:59.043392+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-asteroid/2026/04/1b/1b85150f63a3cedb6285fedce891985c3c4cc036a0e86585944865080b2c1f16/article.md",
+    "record": "articles/v1/15/yc-asteroid/2026/04/1b/1b85150f63a3cedb6285fedce891985c3c4cc036a0e86585944865080b2c1f16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7895,
+    "sha256": "sha256:07f952439086eaae50e59e68e2e1b8ffc5d7c8f61cf1399b964095eb62ac56b3",
+    "normalized_content_hash": "sha256:edb04860a6092cadb1a7c7843a33536442f36d3be71aaa943a6f1bf6db1e2e80"
+  },
+  "provenance": {
+    "source_item_id": "6639e0e0-9153-4623-8dc0-02e7e9916f86",
+    "external_id": "https://asteroid.ai/blog/browser-employees/"
+  }
+}

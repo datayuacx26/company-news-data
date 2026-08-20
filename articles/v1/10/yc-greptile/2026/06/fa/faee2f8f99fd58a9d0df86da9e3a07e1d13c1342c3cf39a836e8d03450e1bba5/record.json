@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "faee2f8f99fd58a9d0df86da9e3a07e1d13c1342c3cf39a836e8d03450e1bba5",
+  "company": {
+    "key": "yc-greptile",
+    "name": "Greptile"
+  },
+  "source": {
+    "id": "yc-greptile-news-import-f703c271ba19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.greptile.com/blog/nvidia-nemotron-ultra-in-code-review",
+    "canonical": "https://www.greptile.com/blog/nvidia-nemotron-ultra-in-code-review"
+  },
+  "title": "Frontier Code Review Accuracy at Lower Cost with NVIDIA Nemotron 3 Ultra",
+  "summary": "Greptile gives 22,000 engineering teams senior-level code review on every pull request. Here is the multi-model architecture behind it, and what we found when we put NVIDIA Nemotron Ultra to the test.",
+  "published_at": "2026-06-04T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:07:23.426026+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T02:09:10.875361+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-greptile/2026/06/fa/faee2f8f99fd58a9d0df86da9e3a07e1d13c1342c3cf39a836e8d03450e1bba5/article.md",
+    "record": "articles/v1/10/yc-greptile/2026/06/fa/faee2f8f99fd58a9d0df86da9e3a07e1d13c1342c3cf39a836e8d03450e1bba5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9442,
+    "sha256": "sha256:eebc2771cf1655015e846154c3bef3178453d2fde251286da9d3aaafbfd3bf83",
+    "normalized_content_hash": "sha256:94f17cf0b2851afb2d5ec84a5cf60b509605de74e53ad7ae7d9f23fb50658d4d"
+  },
+  "provenance": {
+    "source_item_id": "b1aaf76f-9563-4ae7-920d-53edadc49789",
+    "external_id": "https://www.greptile.com/blog/nvidia-nemotron-ultra-in-code-review"
+  }
+}

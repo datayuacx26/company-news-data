@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9170fc039929a7c04569d41da6d0a882fa9fd93e754e31c1efce3cf99f95530c",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-news-import-1696a61650a4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/tado-smart-thermostat-influxdb3/",
+    "canonical": "https://www.influxdata.com/blog/tado-smart-thermostat-influxdb3/"
+  },
+  "title": "tado° Optimizes Smart Thermostat Data Infrastructure with InfluxDB 3",
+  "summary": "Installed in more than one million homes and managing over five million smart thermostats, tado° relies on InfluxDB 3 to process billions of time series records daily, advancing its mission to provide smart, sustainable heating.",
+  "published_at": "2025-11-20T08:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:50:03.450269+00:00",
+  "fetched_at": "2026-07-28T22:25:11.092082+00:00",
+  "last_updated_at": "2026-08-20T00:20:22.444866+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2025/11/91/9170fc039929a7c04569d41da6d0a882fa9fd93e754e31c1efce3cf99f95530c/article.md",
+    "record": "articles/v1/28/yc-influxdata/2025/11/91/9170fc039929a7c04569d41da6d0a882fa9fd93e754e31c1efce3cf99f95530c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5136,
+    "sha256": "sha256:8b233072f37ca981f8491f92e51367ac0ada1c2ca3623d3987c87a25c4bb3555",
+    "normalized_content_hash": "sha256:ee97e15605969c007f31bc239e001269fed7f169cfe60c2a5036c726053b07e8"
+  },
+  "provenance": {
+    "source_item_id": "051869d4-6647-4d82-b995-446d96d7c538",
+    "external_id": "https://www.influxdata.com/blog/tado-smart-thermostat-influxdb3/"
+  }
+}

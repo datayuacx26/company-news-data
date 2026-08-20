@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a14fce5020513dc09283c6e5fa1c631630dbaffc727f982e9772ad97ed5e5d25",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-microsoft-entra",
+    "canonical": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-microsoft-entra"
+  },
+  "title": "SAML Authentication with Microsoft Entra ID",
+  "summary": "Configure SAML single sign-on between Microsoft Entra ID (Azure AD) and SigNoz for team authentication.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/a1/a14fce5020513dc09283c6e5fa1c631630dbaffc727f982e9772ad97ed5e5d25/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/a1/a14fce5020513dc09283c6e5fa1c631630dbaffc727f982e9772ad97ed5e5d25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 678,
+    "sha256": "sha256:8ad73e505093ebab3c7b67a45566dfed98333b9d34a9b1ffd4ce0c8b5e6635e3",
+    "normalized_content_hash": "sha256:495e9afa7b942157cd25c95a452e71d9f4f88738ff7fb31a7165ec5c26633376"
+  },
+  "provenance": {
+    "source_item_id": "fdb0543d-6132-4ab7-9401-d55fc56724a1",
+    "external_id": "https://signoz.io/docs/manage/administrator-guide/sso/user-guides/saml-microsoft-entra"
+  }
+}

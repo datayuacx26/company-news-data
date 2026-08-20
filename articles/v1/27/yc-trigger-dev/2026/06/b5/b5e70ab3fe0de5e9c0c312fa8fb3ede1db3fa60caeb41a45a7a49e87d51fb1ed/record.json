@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5e70ab3fe0de5e9c0c312fa8fb3ede1db3fa60caeb41a45a7a49e87d51fb1ed",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/incident-report-jun-22-2026",
+    "canonical": "https://trigger.dev/blog/incident-report-jun-22-2026"
+  },
+  "title": "Incident report on June 22, 2026",
+  "summary": "On June 22–23, 2026, both of our regions had spells where they couldn't start new runs, and recovery took the best part of a day. Here's what happened, what it cost, and what we're changing so it can't happen the same way again.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:26:40.243460+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2026/06/b5/b5e70ab3fe0de5e9c0c312fa8fb3ede1db3fa60caeb41a45a7a49e87d51fb1ed/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2026/06/b5/b5e70ab3fe0de5e9c0c312fa8fb3ede1db3fa60caeb41a45a7a49e87d51fb1ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23581,
+    "sha256": "sha256:ded5266d3a483795a7fb83102954684510fd40dba49ffea1b237bcc65d498ca4",
+    "normalized_content_hash": "sha256:f23e235a8a9b7a70d710c5c64bce690c243e9ff9fcab93b42c625a684a63fd6d"
+  },
+  "provenance": {
+    "source_item_id": "5bb1e85c-4cf7-43a7-9dde-1222e0c28335",
+    "external_id": "https://trigger.dev/blog/incident-report-jun-22-2026"
+  }
+}

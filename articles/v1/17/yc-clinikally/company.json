@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-clinikally",
+    "name": "Clinikally"
+  },
+  "record_count": 33,
+  "first_published_at": "2022-10-15T15:26:43+00:00",
+  "last_published_at": "2026-08-18T17:29:22+00:00",
+  "partitions": [
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 14
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/17/yc-clinikally/index/pages/000001.json",
+        "record_count": 33,
+        "byte_count": 34054,
+        "sha256": "sha256:7e1948b1c6f657b90871d9e3c1b4ee832945570221cbb87752e26e7c55d1e6f8",
+        "newest_at": "2026-08-18T17:29:22+00:00",
+        "oldest_at": "2022-10-15T15:26:43+00:00"
+      }
+    ]
+  }
+}

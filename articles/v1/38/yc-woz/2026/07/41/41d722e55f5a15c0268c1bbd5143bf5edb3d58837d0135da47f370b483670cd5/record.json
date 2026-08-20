@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41d722e55f5a15c0268c1bbd5143bf5edb3d58837d0135da47f370b483670cd5",
+  "company": {
+    "key": "yc-woz",
+    "name": "Woz"
+  },
+  "source": {
+    "id": "yc-woz-news-import-ac8bcbd945f9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wozcode.com/blog/opus-4-7-pricing",
+    "canonical": "https://wozcode.com/blog/opus-4-7-pricing"
+  },
+  "title": "As Opus gets smarter, WOZCODE's edge gets bigger",
+  "summary": "Same prompts, default Claude Code config. Vanilla 4.7 cost 80% more than vanilla 4.6. WOZCODE stayed roughly flat. Savings widened from −41% to −63%.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T07:30:19.491643+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T22:05:11.248633+00:00",
+  "paths": {
+    "article": "articles/v1/38/yc-woz/2026/07/41/41d722e55f5a15c0268c1bbd5143bf5edb3d58837d0135da47f370b483670cd5/article.md",
+    "record": "articles/v1/38/yc-woz/2026/07/41/41d722e55f5a15c0268c1bbd5143bf5edb3d58837d0135da47f370b483670cd5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7902,
+    "sha256": "sha256:d1f2f0ffa453315bd8a09a590ad7823cbfa8d0ae6cc67846fbeffe47714ad6f2",
+    "normalized_content_hash": "sha256:feba73188224f824c7f6223d638c0894e5fa549334c81e17824da6aece612e3f"
+  },
+  "provenance": {
+    "source_item_id": "04bc4686-5e05-47bf-9e84-86fe17fa9f5b",
+    "external_id": "https://wozcode.com/blog/opus-4-7-pricing"
+  }
+}

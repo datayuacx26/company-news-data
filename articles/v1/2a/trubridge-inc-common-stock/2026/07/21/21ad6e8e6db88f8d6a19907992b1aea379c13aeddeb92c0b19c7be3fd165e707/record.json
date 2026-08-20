@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "21ad6e8e6db88f8d6a19907992b1aea379c13aeddeb92c0b19c7be3fd165e707",
+  "company": {
+    "key": "trubridge-inc-common-stock",
+    "name": "TruBridge Inc."
+  },
+  "source": {
+    "id": "trubridge-inc-common-stock-news-import-b9e03b8024f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trubridge.com/resources/promise-healthcare-group/",
+    "canonical": "https://trubridge.com/resources/promise-healthcare-group/"
+  },
+  "title": "Promise Healthcare Group Case Study",
+  "summary": "See how Promise Healthcare exceeded a $25M accounts receivable recovery goal post-bankruptcy with TruBridge AR cleanup and recovery services.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T17:19:55.782522+00:00",
+  "fetched_at": "2026-07-28T22:07:07.393518+00:00",
+  "last_updated_at": "2026-08-19T18:14:01.979652+00:00",
+  "paths": {
+    "article": "articles/v1/2a/trubridge-inc-common-stock/2026/07/21/21ad6e8e6db88f8d6a19907992b1aea379c13aeddeb92c0b19c7be3fd165e707/article.md",
+    "record": "articles/v1/2a/trubridge-inc-common-stock/2026/07/21/21ad6e8e6db88f8d6a19907992b1aea379c13aeddeb92c0b19c7be3fd165e707/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1802,
+    "sha256": "sha256:faa0c8ae48c02971e3ff3b525e8850da9dcdb275a1218a3218cbf72e17a9fecd",
+    "normalized_content_hash": "sha256:a0aacdb103002120c6ed0a0b2dfa1650d66cd6a471fcc23b16480606f49e4f82"
+  },
+  "provenance": {
+    "source_item_id": "e00e7f60-ab93-4ea8-bda0-1c1f738a81d8",
+    "external_id": "https://trubridge.com/resources/promise-healthcare-group/"
+  }
+}

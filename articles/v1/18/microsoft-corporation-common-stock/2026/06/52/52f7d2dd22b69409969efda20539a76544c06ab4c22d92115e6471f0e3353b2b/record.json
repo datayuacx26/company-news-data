@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "52f7d2dd22b69409969efda20539a76544c06ab4c22d92115e6471f0e3353b2b",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-55baf9c2c2ac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+    "canonical": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/"
+  },
+  "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+  "summary": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.",
+  "published_at": "2026-06-29T21:14:22+00:00",
+  "first_seen_at": "2026-07-20T04:34:28.884326+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T01:02:39.268669+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/52/52f7d2dd22b69409969efda20539a76544c06ab4c22d92115e6471f0e3353b2b/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/52/52f7d2dd22b69409969efda20539a76544c06ab4c22d92115e6471f0e3353b2b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10212,
+    "sha256": "sha256:f517a015e247144d2396efceb1c8a3cdfa6b33a01222ac507f95476bdddd8b51",
+    "normalized_content_hash": "sha256:09dc18d88207cbe685e48d640b3dfaa5051c61b288ac3acef56ef1a901b7d25e"
+  },
+  "provenance": {
+    "source_item_id": "1a88236b-5c06-455c-a5a1-5163d9389663",
+    "external_id": "https://www.microsoft.com/en-us/research/?p=1176834"
+  }
+}

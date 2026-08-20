@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf3e1a4d293b29a77247ca95fbb22c659e8db969cd8a9289ec0e3cf26cdf50a8",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/five-things-your-logs-will-never-tell-you/",
+    "canonical": "https://speedscale.com/blog/five-things-your-logs-will-never-tell-you/"
+  },
+  "title": "Five things your logs will never tell you",
+  "summary": "Logs, metrics, and traces are a lossy compression of production. Five things you can do with a traffic data lake that observability can't.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/06/bf/bf3e1a4d293b29a77247ca95fbb22c659e8db969cd8a9289ec0e3cf26cdf50a8/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/06/bf/bf3e1a4d293b29a77247ca95fbb22c659e8db969cd8a9289ec0e3cf26cdf50a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7840,
+    "sha256": "sha256:1e6c4acb0a9030b8a87c12287b46cebccd0ea03607e32a4cd87c8ee2d97fe1e9",
+    "normalized_content_hash": "sha256:093cca04ec989aabf9b2742c873541db3e42f5eeb96342587c89b231a25d1cd7"
+  },
+  "provenance": {
+    "source_item_id": "2c99bda3-5725-470c-b1ab-38f9799a3b9c",
+    "external_id": "https://speedscale.com/blog/five-things-your-logs-will-never-tell-you/"
+  }
+}

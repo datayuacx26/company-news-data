@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "773c86a8d23b2bbc044163d777271ffdad446434ec4e72666213f6860bf2a481",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-rss-2844690dfd24",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.target.com/blog/point-of-sale-ecosystem",
+    "canonical": "https://tech.target.com/blog/point-of-sale-ecosystem"
+  },
+  "title": "Triaging in Target’s Distributed Point of Sale Ecosystem",
+  "summary": "An article by Tyghe Vallard : Across Target.com and nearly 2,000 stores, we run a complex and highly distributed point of sale (POS) ecosystem. And as we invest heavily in a great omnichannel POS experience, we continue to develop and scale new features for a variety of applications including store registers and self-checkout, our team members’ handheld myDevices, and our award-winning guest mobile app. As a result, we manage more software with a growing number of interactions – a single scan of an item during checkout could mean touching a distributed tree of dozens of services, with hundreds of thousands of these done per minute.",
+  "published_at": "2022-06-09T05:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:39.462984+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T02:41:15.902489+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2022/06/77/773c86a8d23b2bbc044163d777271ffdad446434ec4e72666213f6860bf2a481/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2022/06/77/773c86a8d23b2bbc044163d777271ffdad446434ec4e72666213f6860bf2a481/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6958,
+    "sha256": "sha256:7f0d46157d35fbf944dd346d2fb2533edf689e335389c0d3a2c6e17b982442a6",
+    "normalized_content_hash": "sha256:7a3f5b66d8d319d47d47fe4a6d2eaeda3239886e7415e9f3c56a269629407954"
+  },
+  "provenance": {
+    "source_item_id": "c21f2e76-116c-44ff-bfed-a27554cde7c7",
+    "external_id": "BLOG-10027"
+  }
+}

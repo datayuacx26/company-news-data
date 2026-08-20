@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f2490c0b961e9ce8216500988fcaf9fc26e66584a2ce728755d05634032f705",
+  "company": {
+    "key": "yc-overstand-labs",
+    "name": "Overstand Labs"
+  },
+  "source": {
+    "id": "yc-overstand-labs-news-import-7afefb015732",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://overstandlabs.com/blogs/epstein-files-data-pipelines",
+    "canonical": "https://overstandlabs.com/blogs/epstein-files-data-pipelines"
+  },
+  "title": "The Epstein Files — We Made Them Rigorously Searchable With One-Off Data Pipelines",
+  "summary": "How we made the DOJ's release of the Epstein files semantically searchable with one-off data pipelines per query — no traditional RAG involved.",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:01:10.100806+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T18:04:47.220803+00:00",
+  "paths": {
+    "article": "articles/v1/02/yc-overstand-labs/2026/02/8f/8f2490c0b961e9ce8216500988fcaf9fc26e66584a2ce728755d05634032f705/article.md",
+    "record": "articles/v1/02/yc-overstand-labs/2026/02/8f/8f2490c0b961e9ce8216500988fcaf9fc26e66584a2ce728755d05634032f705/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1511,
+    "sha256": "sha256:837bdd1f6b6fef3841bf858d5e502b34e508a4edb9898821d0f1edc6c249bf15",
+    "normalized_content_hash": "sha256:e9a79b11d056aea124d870ebcc971b91e5ecf57451506b1a3af7231a79a5b72d"
+  },
+  "provenance": {
+    "source_item_id": "456d789c-761f-4f04-b4a2-489161448714",
+    "external_id": "https://overstandlabs.com/blogs/epstein-files-data-pipelines"
+  }
+}

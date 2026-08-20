@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13d72ce026eaf965bcd5587ea89d703f2694e9af89f318ffec398410c3d97a3c",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/opentelemetry-collection-agents/opentelemetry-collector/cardinality-processor",
+    "canonical": "https://signoz.io/docs/opentelemetry-collection-agents/opentelemetry-collector/cardinality-processor"
+  },
+  "title": "Control OpenTelemetry Metric Cardinality with a Processor",
+  "summary": "Use a community OpenTelemetry Collector processor to detect and contain metric cardinality explosions before they reach SigNoz, keeping dashboards working.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:40:53.890178+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/13/13d72ce026eaf965bcd5587ea89d703f2694e9af89f318ffec398410c3d97a3c/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/13/13d72ce026eaf965bcd5587ea89d703f2694e9af89f318ffec398410c3d97a3c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 758,
+    "sha256": "sha256:c66a1b5f36fb581c6d6b893dac27eac29ef13f058b1cbec0c58b77f0c09c41c3",
+    "normalized_content_hash": "sha256:1b1391c876302bcc008569a0a030b7e3a1d1d035fe8916197e6b3af886e4124e"
+  },
+  "provenance": {
+    "source_item_id": "4cb22601-e0ff-490b-bf4a-24879ec0b5d3",
+    "external_id": "https://signoz.io/docs/opentelemetry-collection-agents/opentelemetry-collector/cardinality-processor"
+  }
+}

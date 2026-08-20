@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38d270e5aaec0f8b1456826b47bb9a80200ae30de550d734d4e9c83f9fe55044",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/winston-logger",
+    "canonical": "https://signoz.io/blog/winston-logger"
+  },
+  "title": "Winston Logger: Node.js Logging Guide",
+  "summary": "Learn how to use Winston logger for Node.js with transports, formats, levels, error handling, and monitoring with SigNoz.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:49.372943+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/38/38d270e5aaec0f8b1456826b47bb9a80200ae30de550d734d4e9c83f9fe55044/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/38/38d270e5aaec0f8b1456826b47bb9a80200ae30de550d734d4e9c83f9fe55044/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20995,
+    "sha256": "sha256:3a7d3111cf09bf7ab83322fa97f68790f401e2fd1c2e65a26f346142de3190ab",
+    "normalized_content_hash": "sha256:7df8a92c8a2e67e3ff4430893b7f02aa24e4fc75b8970239fa764053da7c1aa7"
+  },
+  "provenance": {
+    "source_item_id": "091214f3-78f4-4400-b2d0-c93b84290ef1",
+    "external_id": "https://signoz.io/blog/winston-logger"
+  }
+}

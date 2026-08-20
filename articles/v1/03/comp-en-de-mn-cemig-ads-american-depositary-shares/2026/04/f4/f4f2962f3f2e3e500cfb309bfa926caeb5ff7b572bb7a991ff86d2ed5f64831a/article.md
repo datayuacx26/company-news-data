@@ -1,0 +1,31 @@
+---
+schema_version: "1.0.0"
+document_id: "f4f2962f3f2e3e500cfb309bfa926caeb5ff7b572bb7a991ff86d2ed5f64831a"
+company_key: "comp-en-de-mn-cemig-ads-american-depositary-shares"
+company: "Comp En De Mn Cemig ADS"
+source_id: "comp-en-de-mn-cemig-ads-american-depositary-shares-news-import-9017d6d98f16"
+canonical_url: "https://www.cemig.com.br/en/news/but-what-are-hour-seasonal-rates-anyway/"
+published_at: "2026-04-29T16:34:09+00:00"
+first_seen_at: "2026-07-21T14:36:24.193331+00:00"
+fetched_at: "2026-07-28T21:25:33.541420+00:00"
+content_hash: "sha256:b48556aff85ceb551a6ae29da7d65738d57d873e0bcb6c9aa04f86f985f39020"
+---
+
+# But what are hour-seasonal rates anyway?
+
+You have probably heard of hourly rates. This modality, also called THS, is a set of tariffs applied to energy consumption and contracted demand for group A customers, which is usually served by a substation with higher voltage and high energy consumption, such as industries, businesses and large condominiums.
+
+
+The prices of your tariff vary according to the time the energy is consumed and according to the annual seasonality related to the rainy period. In other words: energy consumed during peak hours is more expensive and fares are also different for wet and dry periods during the year.
+
+
+The main objective of this modality is to discourage energy consumption in the busiest hours, considered peak hours (PH), which usually range from 5 pm to 8 pm.
+
+
+The experience has already achieved a reduction of about 12.5% in the charging of electrical systems in Brazil, increasing their reliability, improving the compliance of voltage levels and postponing expansion investments initially identified as necessary.
+
+
+The advantage is that, with increased feeder productivity, there is a long-term reduction in the costs of using distribution systems and an increase in the quality of the service provided by the company, passed on to consumers, since both interruptions and oscillations in voltage levels are minimized.
+
+
+The establishment of electricity tariffs that optimize the transport capacity and also consider the elasticity of consumer units in the calculation process, contributes to the efficient use of available generation capacity.

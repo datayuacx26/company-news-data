@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09ceaddfdeafd8444ab60c59e23e1075ee7328ebc367ea021e43a495e650cbf8",
+  "company": {
+    "key": "yc-frigade",
+    "name": "Frigade"
+  },
+  "source": {
+    "id": "yc-frigade-news-import-5962136a45f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frigade.com/updates/question-grouping",
+    "canonical": "https://frigade.com/updates/question-grouping"
+  },
+  "title": "Grouping Conversations in the Questions Dashboard",
+  "summary": "The Questions dashboard now groups questions by conversation. Each row represents a single session, and opening it shows the full back-and-forth in one thread. Prior chats are rolled up retroactively",
+  "published_at": "2026-05-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:57:52.614663+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-20T03:25:56.227650+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-frigade/2026/05/09/09ceaddfdeafd8444ab60c59e23e1075ee7328ebc367ea021e43a495e650cbf8/article.md",
+    "record": "articles/v1/27/yc-frigade/2026/05/09/09ceaddfdeafd8444ab60c59e23e1075ee7328ebc367ea021e43a495e650cbf8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1002,
+    "sha256": "sha256:66ddf5862015d3f6f4c8d24fbee68a753a86c486cbbce1af76cbf9264ab56b1d",
+    "normalized_content_hash": "sha256:a731b0c6032e9cb85d5fef36bc8eddba84a9e610795f9aaa2eeae4ffd5b7dfc8"
+  },
+  "provenance": {
+    "source_item_id": "a5f9de51-61ea-4eac-b5d3-087a6122c3f6",
+    "external_id": "https://frigade.com/updates/question-grouping"
+  }
+}

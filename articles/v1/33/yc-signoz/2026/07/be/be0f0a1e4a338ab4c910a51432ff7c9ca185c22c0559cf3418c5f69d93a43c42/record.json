@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be0f0a1e4a338ab4c910a51432ff7c9ca185c22c0559cf3418c5f69d93a43c42",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/cloudwatch-metrics",
+    "canonical": "https://signoz.io/blog/cloudwatch-metrics"
+  },
+  "title": "What are Cloudwatch Metrics? How to implement Custom Metrics in Cloudwatch?",
+  "summary": "Amazon CloudWatch metrics explained: types, namespaces, dimensions, and how to collect and export them with OpenTelemetry.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-07-28T20:48:00.495329+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/be/be0f0a1e4a338ab4c910a51432ff7c9ca185c22c0559cf3418c5f69d93a43c42/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/be/be0f0a1e4a338ab4c910a51432ff7c9ca185c22c0559cf3418c5f69d93a43c42/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21506,
+    "sha256": "sha256:a5c7f0c7d4a7626be765e65bce314c68dfe75a92aaa8929853be2842776d8d17",
+    "normalized_content_hash": "sha256:d3c5fe1d02205c378966e7dadb5f08f459fc0e48c835458ae3b91c77c666f586"
+  },
+  "provenance": {
+    "source_item_id": "6fe41974-4e6e-4cee-adea-58a2c271432f",
+    "external_id": "https://signoz.io/blog/cloudwatch-metrics"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "729422e6ab8d9f9b427f4e6a331abca61b8a647e7a2f5998cb8091dd2bd5536b",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/bess-reference-architecture-influxdb3/",
+    "canonical": "https://www.influxdata.com/blog/bess-reference-architecture-influxdb3/"
+  },
+  "title": "A Runnable Reference Architecture for Battery Energy Storage Systems on InfluxDB 3",
+  "summary": "Today, we're walking through the InfluxDB 3 BESS Reference Architecture, an open source, runnable blueprint for battery energy storage that you can stand up locally in about two minutes with docker compose.",
+  "published_at": "2026-05-08T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T22:15:23.630573+00:00",
+  "last_updated_at": "2026-07-29T12:07:16.917027+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/05/72/729422e6ab8d9f9b427f4e6a331abca61b8a647e7a2f5998cb8091dd2bd5536b/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/05/72/729422e6ab8d9f9b427f4e6a331abca61b8a647e7a2f5998cb8091dd2bd5536b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14522,
+    "sha256": "sha256:7e34c91a69d420e6611b742dc485880ad36ad1c8d91e556028d014e731869638",
+    "normalized_content_hash": "sha256:a600b90231a8e12baef1feaf3ff9ccba2d49814bfe44aa30f9d61ceef6378ea0"
+  },
+  "provenance": {
+    "source_item_id": "4580e8b6-fe93-4242-a95d-1eadf0fa370c",
+    "external_id": "https://www.influxdata.com/blog/bess-reference-architecture-influxdb3/"
+  }
+}

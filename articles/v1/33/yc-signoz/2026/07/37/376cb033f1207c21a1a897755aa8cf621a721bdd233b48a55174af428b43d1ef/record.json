@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "376cb033f1207c21a1a897755aa8cf621a721bdd233b48a55174af428b43d1ef",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/n8n-monitoring-with-opentelemetry",
+    "canonical": "https://signoz.io/blog/n8n-monitoring-with-opentelemetry"
+  },
+  "title": "Bringing Observability to your n8n Workflows: OpenTelemetry in Action",
+  "summary": "Monitor your n8n workflows with OpenTelemetry: capture execution traces, metrics, and failures in one place.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/37/376cb033f1207c21a1a897755aa8cf621a721bdd233b48a55174af428b43d1ef/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/37/376cb033f1207c21a1a897755aa8cf621a721bdd233b48a55174af428b43d1ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12726,
+    "sha256": "sha256:a570f3243836f0bfd7bbdbbaaec9e912c24f1a3f7cfecbcc538e1ca3fe30122e",
+    "normalized_content_hash": "sha256:81472c5c8e3cfc59d5492d679d53d46e1d6dacec0607997397c6f0364006de03"
+  },
+  "provenance": {
+    "source_item_id": "d8a8e3ea-ce08-4ae2-8b01-b045bbe31ce7",
+    "external_id": "https://signoz.io/blog/n8n-monitoring-with-opentelemetry"
+  }
+}

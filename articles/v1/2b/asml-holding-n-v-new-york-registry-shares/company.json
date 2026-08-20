@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "asml-holding-n-v-new-york-registry-shares",
+    "name": "ASML Holding N.V. New York Registry Shares"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-05-16T14:34:00+00:00",
+  "last_published_at": "2026-07-15T05:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2b/asml-holding-n-v-new-york-registry-shares/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3544,
+        "sha256": "sha256:2d83a2a4f4224a477d6788bd7a64043e82bbff4d7b353af82d615d7d663c5edc",
+        "newest_at": "2026-07-15T05:30:00+00:00",
+        "oldest_at": "2026-05-16T14:34:00+00:00"
+      }
+    ]
+  }
+}

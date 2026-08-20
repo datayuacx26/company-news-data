@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3620b6decf5c49fdd57ae9178b2a13b8de93be074f1bfedb7b1659925ed909ea",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/spicedb-architecture",
+    "canonical": "https://authzed.com/blog/spicedb-architecture"
+  },
+  "title": "Google Zanzibar Open Source: The Architecture of SpiceDB",
+  "summary": "Learn how SpiceDB implements Google's Zanzibar paper in this comprehensive open-source project. Discover how requests are received, validated, and handled, and how dispatch, caching, and the datastore work together to persist relationship data.",
+  "published_at": "2021-11-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:04:10.558196+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2021/11/36/3620b6decf5c49fdd57ae9178b2a13b8de93be074f1bfedb7b1659925ed909ea/article.md",
+    "record": "articles/v1/15/yc-authzed/2021/11/36/3620b6decf5c49fdd57ae9178b2a13b8de93be074f1bfedb7b1659925ed909ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22579,
+    "sha256": "sha256:e221aa0fe75a7a0d347f328afa216d2e1c86012ef734eb4ec916d9af3f6e2312",
+    "normalized_content_hash": "sha256:ae25a16ba2e5f50afd3682f719cc4668b17a14ed87640141af0a8da2ce2b3a7b"
+  },
+  "provenance": {
+    "source_item_id": "3d92014f-f8db-43ab-b93e-35f8499b8376",
+    "external_id": "https://authzed.com/blog/spicedb-architecture"
+  }
+}

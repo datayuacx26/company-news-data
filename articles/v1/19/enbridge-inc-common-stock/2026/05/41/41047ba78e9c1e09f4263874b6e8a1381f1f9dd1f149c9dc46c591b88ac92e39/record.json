@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41047ba78e9c1e09f4263874b6e8a1381f1f9dd1f149c9dc46c591b88ac92e39",
+  "company": {
+    "key": "enbridge-inc-common-stock",
+    "name": "Enbridge Inc"
+  },
+  "source": {
+    "id": "enbridge-inc-common-stock-news-import-a0f24e62dc2d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.enbridge.com/media-center/news/details?id=123876&lang=en",
+    "canonical": "https://www.enbridge.com/media-center/news/details?id=123876"
+  },
+  "title": "Enbridge Inc. Announces Election of Directors",
+  "summary": "Enbridge Inc. (TSX: ENB) (NYSE: ENB) (Enbridge or the Company) held its Annual Meeting of Shareholders today. On a vote during the regular business proceedings at the meeting, shareholders...",
+  "published_at": "2026-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:43:38.520208+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T01:31:38.569017+00:00",
+  "paths": {
+    "article": "articles/v1/19/enbridge-inc-common-stock/2026/05/41/41047ba78e9c1e09f4263874b6e8a1381f1f9dd1f149c9dc46c591b88ac92e39/article.md",
+    "record": "articles/v1/19/enbridge-inc-common-stock/2026/05/41/41047ba78e9c1e09f4263874b6e8a1381f1f9dd1f149c9dc46c591b88ac92e39/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2891,
+    "sha256": "sha256:69a1b85746cd4c87837dd9ad07e415ff00592ea33b25afde3b2b0005395cbba1",
+    "normalized_content_hash": "sha256:d37f665c931b402ae3449a21a4033fa4966493a99e19095637eb308a22de0411"
+  },
+  "provenance": {
+    "source_item_id": "43c16574-10d0-420b-8353-18bb5b2f477f",
+    "external_id": "https://www.enbridge.com/media-center/news/details?id=123876&lang=en"
+  }
+}

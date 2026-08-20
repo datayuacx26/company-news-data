@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b61c9b361129c1d7198e8fd87a480e54c15fbb05f6f1d9bfa3e4c7577150cb7",
+  "company": {
+    "key": "yc-kapa-ai",
+    "name": "kapa.ai"
+  },
+  "source": {
+    "id": "yc-kapa-ai-news-import-d4974854d4ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "canonical": "https://www.kapa.ai/blog/how-we-prune-rag-context"
+  },
+  "title": "How we taught a small LLM to throw away 68% of our RAG context - kapa.ai - Instant AI answers to technical questions",
+  "summary": "Pruning agent context down to what the answer actually needs, while keeping 96% of recall",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T13:19:19.793244+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T00:24:10.025144+00:00",
+  "paths": {
+    "article": "articles/v1/06/yc-kapa-ai/2026/07/9b/9b61c9b361129c1d7198e8fd87a480e54c15fbb05f6f1d9bfa3e4c7577150cb7/article.md",
+    "record": "articles/v1/06/yc-kapa-ai/2026/07/9b/9b61c9b361129c1d7198e8fd87a480e54c15fbb05f6f1d9bfa3e4c7577150cb7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10319,
+    "sha256": "sha256:881a5e1ebbb0f11be67ce6b23ffe1d0c16cc83c59995e484bc5e98cf2d3b4891",
+    "normalized_content_hash": "sha256:ef0085eacb616c0e2ae1c7a2c68056b90e50529cdd3488e1e68037b25cac3b3d"
+  },
+  "provenance": {
+    "source_item_id": "a7ed8b6a-d202-40f6-ab89-4b9efdc1f9be",
+    "external_id": "https://www.kapa.ai/blog/how-we-prune-rag-context"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b562c21700d5e06ae8c2036b9db5b89fbd4dc888cbf2e09196fed42aabf6657",
+  "company": {
+    "key": "yc-clipboard",
+    "name": "Clipboard"
+  },
+  "source": {
+    "id": "yc-clipboard-news-import-8e3049d214a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clipboardworks.com/resources/blog/865-endpoints-across-800-prs-in-4-weeks-prod-safe-patterns-for-agent-driven-migrations",
+    "canonical": "https://www.clipboardworks.com/resources/blog/865-endpoints-across-800-prs-in-4-weeks-prod-safe-patterns-for-agent-driven-migrations"
+  },
+  "title": "865 Endpoints Across 800 PRs in 4 Weeks: Prod-Safe Patterns for Agent-Driven Migrations",
+  "summary": "Our highest-traffic, most business-critical endpoints were the last ones we wanted to touch. They were also the ones that needed type safety the most, and the ones where our existing contracts were most likely to be wrong, since we hadn't enabled response validation at all.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:50:39.766093+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T01:59:24.699356+00:00",
+  "paths": {
+    "article": "articles/v1/2a/yc-clipboard/2026/06/1b/1b562c21700d5e06ae8c2036b9db5b89fbd4dc888cbf2e09196fed42aabf6657/article.md",
+    "record": "articles/v1/2a/yc-clipboard/2026/06/1b/1b562c21700d5e06ae8c2036b9db5b89fbd4dc888cbf2e09196fed42aabf6657/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1412,
+    "sha256": "sha256:ffa3e9250fe428e3f7cc4b98d4454031a8d31b61b2901815f912cc9cafca9cfd",
+    "normalized_content_hash": "sha256:16885db1864f85f01dba805ce004a5ae54cebacb00ec5ac5e3ed8c3a59d2672c"
+  },
+  "provenance": {
+    "source_item_id": "1da07a63-0baa-4ff2-ab8e-391bd3ca5945",
+    "external_id": "https://www.clipboardworks.com/resources/blog/865-endpoints-across-800-prs-in-4-weeks-prod-safe-patterns-for-agent-driven-migrations"
+  }
+}

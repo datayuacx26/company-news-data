@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-numeral",
+    "name": "Numeral"
+  },
+  "record_count": 18,
+  "first_published_at": "2026-07-07T00:00:00+00:00",
+  "last_published_at": "2026-07-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 18
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3b/yc-numeral/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 17996,
+        "sha256": "sha256:8514e8552c853b137882cc310b6fcbc93a6690347b5a0a6a9846b7330b4f76ae",
+        "newest_at": "2026-07-28T21:38:32.326002+00:00",
+        "oldest_at": "2026-07-07T00:00:00+00:00"
+      }
+    ]
+  }
+}

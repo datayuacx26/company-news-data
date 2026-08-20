@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd9b224de6b2a6cc52a17b48fddfa6c0224c9da28f3e16bb01af2b3c847e064e",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-69b75325e6e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/blog/boost-graphql-with-stellate-graphcdn",
+    "canonical": "https://www.artillery.io/blog/boost-graphql-with-stellate-graphcdn"
+  },
+  "title": "Load testing Stellate, the CDN for your GraphQL API",
+  "summary": "Artillery can help you regularly test your GraphQL APIs to detect and eliminate potential problems, however, GraphQL’s flexibility also makes it easy to have a less-performant API.",
+  "published_at": "2022-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:55:08.009846+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-08-20T02:15:44.547416+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2022/06/fd/fd9b224de6b2a6cc52a17b48fddfa6c0224c9da28f3e16bb01af2b3c847e064e/article.md",
+    "record": "articles/v1/0b/yc-artillery/2022/06/fd/fd9b224de6b2a6cc52a17b48fddfa6c0224c9da28f3e16bb01af2b3c847e064e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12248,
+    "sha256": "sha256:87e52f508598d0cf5fe2315d8d09b724b4a4a7bfc73a4301ca533fe7e896f162",
+    "normalized_content_hash": "sha256:66e8ff46c88d8bfce50312806987ed4e410941d73196eff5a2a6ba834cd08e5f"
+  },
+  "provenance": {
+    "source_item_id": "f5b69b3e-168a-45db-aaac-4fd00dc5c0d6",
+    "external_id": "https://www.artillery.io/blog/boost-graphql-with-stellate-graphcdn"
+  }
+}

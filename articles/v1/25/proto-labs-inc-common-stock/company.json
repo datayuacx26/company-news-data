@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "proto-labs-inc-common-stock",
+    "name": "Proto Labs Inc."
+  },
+  "record_count": 71,
+  "first_published_at": "2025-10-10T00:00:00+00:00",
+  "last_published_at": "2026-07-09T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 59
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/25/proto-labs-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55840,
+        "sha256": "sha256:0c147a97d1d50ab16751dce9fb0e21f223046f40b83cbe877e1c394379b09d8b",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2026-07-28T21:18:37.293716+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/25/proto-labs-inc-common-stock/index/pages/000002.json",
+        "record_count": 21,
+        "byte_count": 23978,
+        "sha256": "sha256:65f8187c8b6ca2a0df7f50f3773675a787e8bd318ea1e75c1edf298cfeb9d722",
+        "newest_at": "2026-07-28T21:18:37.293716+00:00",
+        "oldest_at": "2025-10-10T00:00:00+00:00"
+      }
+    ]
+  }
+}

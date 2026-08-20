@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dae4a75b63d8e564ab9508d6d8f7c85c001b65720c103a3bc1422f54a72a3e99",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/server-health-monitoring",
+    "canonical": "https://signoz.io/guides/server-health-monitoring"
+  },
+  "title": "Essential Guide to Server Health Monitoring - Tools and Best Practices",
+  "summary": "Server health monitoring in 2026: track CPU, memory, disk, and uptime with OpenTelemetry and SigNoz. Key metrics, checks, and best practices.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:57.669129+00:00",
+  "last_updated_at": "2026-07-28T20:48:01.366745+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/da/dae4a75b63d8e564ab9508d6d8f7c85c001b65720c103a3bc1422f54a72a3e99/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/da/dae4a75b63d8e564ab9508d6d8f7c85c001b65720c103a3bc1422f54a72a3e99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26336,
+    "sha256": "sha256:3b46d3744362c6ab4da1dfa3a2b621ed3022c98572d6d9ce50fd8cada0262829",
+    "normalized_content_hash": "sha256:e179c1b5544f1b3782cd9e809722a39a93ad23764af8fd0ff601ad80e24af1bb"
+  },
+  "provenance": {
+    "source_item_id": "74fdd2dd-aa2f-49f9-a8b7-e5da545a450e",
+    "external_id": "https://signoz.io/guides/server-health-monitoring"
+  }
+}

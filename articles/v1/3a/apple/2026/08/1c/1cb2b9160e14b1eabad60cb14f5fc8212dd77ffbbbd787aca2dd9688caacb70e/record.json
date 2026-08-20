@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1cb2b9160e14b1eabad60cb14f5fc8212dd77ffbbbd787aca2dd9688caacb70e",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/taming-outlier-tokens",
+    "canonical": "https://machinelearning.apple.com/research/taming-outlier-tokens"
+  },
+  "title": "Taming Outlier Tokens in Diffusion Transformers",
+  "summary": "We study outlier tokens in Diffusion Transformers (DiTs) for image generation. Prior work has shown that Vision Transformers (ViTs) can…",
+  "published_at": null,
+  "first_seen_at": "2026-08-06T08:50:57.010371+00:00",
+  "fetched_at": "2026-08-06T08:50:57.924596+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/1c/1cb2b9160e14b1eabad60cb14f5fc8212dd77ffbbbd787aca2dd9688caacb70e/article.md",
+    "record": "articles/v1/3a/apple/2026/08/1c/1cb2b9160e14b1eabad60cb14f5fc8212dd77ffbbbd787aca2dd9688caacb70e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1921,
+    "sha256": "sha256:b09b45f2752cc00e7c7906f016c886ca1e5266860c7d46c99042db77e816a5c2",
+    "normalized_content_hash": "sha256:297b44f032efaa976e78b8f61fc8a448c331c580039533b9796086ef2220c78f"
+  },
+  "provenance": {
+    "source_item_id": "919a2dd5-d8d9-4e69-aaa0-2b1744864cfe",
+    "external_id": "https://machinelearning.apple.com/research/taming-outlier-tokens"
+  }
+}

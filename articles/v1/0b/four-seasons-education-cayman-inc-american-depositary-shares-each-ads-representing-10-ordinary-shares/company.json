@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "four-seasons-education-cayman-inc-american-depositary-shares-each-ads-representing-10-ordinary-shares",
+    "name": "Four Seasons Education (Cayman) Inc."
+  },
+  "record_count": 5,
+  "first_published_at": "2025-06-26T10:50:00+00:00",
+  "last_published_at": "2026-06-17T11:07:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0b/four-seasons-education-cayman-inc-american-depositary-shares-each-ads-representing-10-ordinary-shares/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 6766,
+        "sha256": "sha256:053190c7ffb2dd25030c8fbe0bbaf8469c8bfdad200f4e41f8a5073d6f8de527",
+        "newest_at": "2026-06-17T11:07:00+00:00",
+        "oldest_at": "2025-06-26T10:50:00+00:00"
+      }
+    ]
+  }
+}

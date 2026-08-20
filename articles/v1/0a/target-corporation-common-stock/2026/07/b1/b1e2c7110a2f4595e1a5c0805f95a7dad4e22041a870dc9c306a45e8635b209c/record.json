@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1e2c7110a2f4595e1a5c0805f95a7dad4e22041a870dc9c306a45e8635b209c",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9e9cef1eb453",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/press/release/2026/07/target-helps-students-head-back-to-school-and-college-with-style-and-savings",
+    "canonical": "https://corporate.target.com/press/release/2026/07/target-helps-students-head-back-to-school-and-college-with-style-and-savings"
+  },
+  "title": "Target Helps Students Head Back to School and College with Style and Savings",
+  "summary": "Target is making back-to-school and back-to-college shopping more affordable for busy families with lower prices on thousands of items and 95% of school supply deals at or below last year's prices...",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:35.444421+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-19T04:24:03.827969+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/07/b1/b1e2c7110a2f4595e1a5c0805f95a7dad4e22041a870dc9c306a45e8635b209c/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/07/b1/b1e2c7110a2f4595e1a5c0805f95a7dad4e22041a870dc9c306a45e8635b209c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5886,
+    "sha256": "sha256:f930a6a2cd1cac1ccd57cd17c18c871326a67034952a4497726206090c237537",
+    "normalized_content_hash": "sha256:1ec49401ebf98fa4c285f99dfbff62e8344ff6ef6abf61c37b0e643cd7c5f3e6"
+  },
+  "provenance": {
+    "source_item_id": "862bf0c3-83c1-4461-bdde-cfbc4d6f637f",
+    "external_id": "https://corporate.target.com/press/release/2026/07/target-helps-students-head-back-to-school-and-college-with-style-and-savings"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51ac00b03f598a308318d7f382c2d5b8b3745e0daaa5ce1c94af1d3bb42482c8",
+  "company": {
+    "key": "yc-capy",
+    "name": "Capy"
+  },
+  "source": {
+    "id": "yc-capy-news-import-5b2116e2cc05",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://capy.ai/articles/background-coding-agents-guide",
+    "canonical": "https://capy.ai/articles/background-coding-agents-guide"
+  },
+  "title": "What Are Background Coding Agents?",
+  "summary": "Learn how background coding agents differ from editor and CLI agents, how isolated cloud environments work, and when async development is the right fit.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T04:45:19.150408+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T23:36:23.134686+00:00",
+  "paths": {
+    "article": "articles/v1/1a/yc-capy/2026/06/51/51ac00b03f598a308318d7f382c2d5b8b3745e0daaa5ce1c94af1d3bb42482c8/article.md",
+    "record": "articles/v1/1a/yc-capy/2026/06/51/51ac00b03f598a308318d7f382c2d5b8b3745e0daaa5ce1c94af1d3bb42482c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15179,
+    "sha256": "sha256:3fb6db9dcd1eb3ebfc07d8471c62691c9a7271830746ef34592522a37bf60ac6",
+    "normalized_content_hash": "sha256:651739b905b34fafedf9a890758a268b25335946aff829977f4d76250c5486e9"
+  },
+  "provenance": {
+    "source_item_id": "6abfeb44-903d-4eed-98f4-7dbb7874b0f6",
+    "external_id": "https://capy.ai/articles/background-coding-agents-guide"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6590063f9d5c1d094af567c6c1ecad0936ebe136fa4b25f74e2eb74893d740e1",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/metrics-management/dropping-metric-labels",
+    "canonical": "https://signoz.io/docs/metrics-management/dropping-metric-labels"
+  },
+  "title": "Dropping Metric Labels (Attributes)",
+  "summary": "Explains why dropping metric labels (attributes) does not reduce cardinality or sample count and provides correct alternatives.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/65/6590063f9d5c1d094af567c6c1ecad0936ebe136fa4b25f74e2eb74893d740e1/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/65/6590063f9d5c1d094af567c6c1ecad0936ebe136fa4b25f74e2eb74893d740e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 672,
+    "sha256": "sha256:2e0f5991cb0c3e254f00be5c6a443623d12e4dc5db03ebba977ad8e28bf059dd",
+    "normalized_content_hash": "sha256:1a00bedf6907b16fe4eba015e00411937f71a585b4cc6f7a7211a02d4ef31293"
+  },
+  "provenance": {
+    "source_item_id": "1bf7009e-504a-47ae-a5b4-d6aa0706aaae",
+    "external_id": "https://signoz.io/docs/metrics-management/dropping-metric-labels"
+  }
+}

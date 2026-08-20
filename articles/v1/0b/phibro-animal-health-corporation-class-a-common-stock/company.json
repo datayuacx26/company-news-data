@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "phibro-animal-health-corporation-class-a-common-stock",
+    "name": "Phibro Animal Health Corporation"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-02-03T21:10:00+00:00",
+  "last_published_at": "2026-08-19T20:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0b/phibro-animal-health-corporation-class-a-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14567,
+        "sha256": "sha256:f7f898e0100e6449745582b3cf18b174e5037dabbe534b97affa2ccd5af12edf",
+        "newest_at": "2026-08-19T20:30:00+00:00",
+        "oldest_at": "2026-02-03T21:10:00+00:00"
+      }
+    ]
+  }
+}

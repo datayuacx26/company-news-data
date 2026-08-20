@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27a58fbd984ee087b98dfc6e4b2b523352011b213f563a89ce576348887042a0",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/lvsum-video-summarization",
+    "canonical": "https://machinelearning.apple.com/research/lvsum-video-summarization"
+  },
+  "title": "LVSum: A Benchmark for Timestamp-Aware Long Video Summarization",
+  "summary": "Long video summarization presents significant challenges for multimodal large language models (MLLMs), particularly in maintaining temporal…",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-19T12:44:48.398250+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/27/27a58fbd984ee087b98dfc6e4b2b523352011b213f563a89ce576348887042a0/article.md",
+    "record": "articles/v1/3a/apple/2026/07/27/27a58fbd984ee087b98dfc6e4b2b523352011b213f563a89ce576348887042a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2529,
+    "sha256": "sha256:ecc98684c59e060b3d6eace178d83f10fa2a59ba35486228e80a56b9680a5686",
+    "normalized_content_hash": "sha256:26d4856c75e6716d578eae291d9ee7f1c79e8796e70135f949abe2192f4ec6f2"
+  },
+  "provenance": {
+    "source_item_id": "52dccfa1-7ed9-46fe-9e37-1e7cfd53a9fe",
+    "external_id": "https://machinelearning.apple.com/research/lvsum-video-summarization"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-okteto",
+    "name": "Okteto"
+  },
+  "record_count": 102,
+  "first_published_at": "2019-09-09T00:00:00+00:00",
+  "last_published_at": "2026-03-20T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 9
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 9
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/01/yc-okteto/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49320,
+        "sha256": "sha256:fa3c11068c4627b432f08556b00701f1231fbb744cc9d1a47a7d48035886c86e",
+        "newest_at": "2026-03-20T00:00:00+00:00",
+        "oldest_at": "2023-02-15T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/01/yc-okteto/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 47565,
+        "sha256": "sha256:60e8189b5fc81aba285b91ed6b2a85f2f2724f1ad449b5df03a9d35aedfd8176",
+        "newest_at": "2023-02-07T00:00:00+00:00",
+        "oldest_at": "2020-10-29T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/01/yc-okteto/index/pages/000003.json",
+        "record_count": 2,
+        "byte_count": 1960,
+        "sha256": "sha256:ff176031cdadc624e6b4f6e13b04e301ae1198ccb5c9b4a5edd8da833020ef16",
+        "newest_at": "2019-09-22T00:00:00+00:00",
+        "oldest_at": "2019-09-09T00:00:00+00:00"
+      }
+    ]
+  }
+}

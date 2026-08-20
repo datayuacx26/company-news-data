@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f615f9376a1557f65d9256fdc41ea7c3542b9d5cf02a44ef28bfd31d914c2f7c",
+  "company": {
+    "key": "cgi-inc-common-stock",
+    "name": "CGI Inc."
+  },
+  "source": {
+    "id": "cgi-inc-common-stock-rss-66ef697d2497",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cgi.com/en/blog/artificial-intelligence/guardrails-data-protection-age-genai",
+    "canonical": "https://www.cgi.com/en/blog/artificial-intelligence/guardrails-data-protection-age-genai"
+  },
+  "title": "Guardrails for data protection in the age of GenAI",
+  "summary": "To mitigate the risks of data exposure, major AI and cloud technology vendors provide responsible use frameworks and the ability to use GenAI tools in secure environments without risking data leakage to the public models. However, in a multi-model AI ecosystem, where AI models are fine-tuned with proprietary data, organizations also need to supplement vendor safeguards with their own.",
+  "published_at": null,
+  "first_seen_at": "2026-07-20T23:21:24.029549+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-08-20T02:55:48.623428+00:00",
+  "paths": {
+    "article": "articles/v1/13/cgi-inc-common-stock/2026/07/f6/f615f9376a1557f65d9256fdc41ea7c3542b9d5cf02a44ef28bfd31d914c2f7c/article.md",
+    "record": "articles/v1/13/cgi-inc-common-stock/2026/07/f6/f615f9376a1557f65d9256fdc41ea7c3542b9d5cf02a44ef28bfd31d914c2f7c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8468,
+    "sha256": "sha256:a2c9ffa6c85af3f2d808bfdb38aadec145ad52cee65ef270d2b50f4fafd09b1d",
+    "normalized_content_hash": "sha256:7b5a9d83d5d744df41b6a2c99d17d27705264add2cf3ea7328476180359fa87a"
+  },
+  "provenance": {
+    "source_item_id": "8b608e15-6cc7-4602-92ac-3d47070471e5",
+    "external_id": "Guardrails for data protection in the age of GenAI"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a18e51772358d27e4377bf1eb402b6b6db0a12e346767f837e962be539e3fe7",
+  "company": {
+    "key": "yc-sourcebot",
+    "name": "Sourcebot"
+  },
+  "source": {
+    "id": "yc-sourcebot-news-import-399c01bf3b04",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sourcebot.dev/blog/bug-zero",
+    "canonical": "https://www.sourcebot.dev/blog/bug-zero"
+  },
+  "title": "How we reached bug zero using Linear",
+  "summary": "We're committing to a zero bug policy. Here's how we do it using Linear.",
+  "published_at": "2026-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:19:49.815269+00:00",
+  "fetched_at": "2026-07-28T22:19:38.682305+00:00",
+  "last_updated_at": "2026-08-20T03:32:11.624296+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-sourcebot/2026/02/4a/4a18e51772358d27e4377bf1eb402b6b6db0a12e346767f837e962be539e3fe7/article.md",
+    "record": "articles/v1/01/yc-sourcebot/2026/02/4a/4a18e51772358d27e4377bf1eb402b6b6db0a12e346767f837e962be539e3fe7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3966,
+    "sha256": "sha256:ea08ffd1339f2ccfb37ed3b0e6fae232b6f0ea3d32c99ca5508e212a38c999c4",
+    "normalized_content_hash": "sha256:bc2576663f4f3f5358bad2b1bd0dfd2b0c27176012fbab26f107ce8f11331cce"
+  },
+  "provenance": {
+    "source_item_id": "342d9199-6fe4-4379-a46e-a24fc2a174f8",
+    "external_id": "https://www.sourcebot.dev/blog/bug-zero"
+  }
+}

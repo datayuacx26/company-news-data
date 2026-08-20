@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "249b39770f22badf4f6e2dd51e1841ecfa4c005008765e787fcd11ac8f096a8b",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/what-is-a-scout",
+    "canonical": "https://posthog.com/blog/what-is-a-scout"
+  },
+  "title": "What is a Scout? A technical deep dive",
+  "summary": "A scout is a small scheduled agent that watches your PostHog data, learns what is worth knowing, and emits useful signals you (or your agents) can act on. Here is how they work, with real examples.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2026/06/24/249b39770f22badf4f6e2dd51e1841ecfa4c005008765e787fcd11ac8f096a8b/article.md",
+    "record": "articles/v1/0e/yc-posthog/2026/06/24/249b39770f22badf4f6e2dd51e1841ecfa4c005008765e787fcd11ac8f096a8b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37987,
+    "sha256": "sha256:e163a18377591b6d744dc2b1760aecd8abb517dde97d1ba0caaaaea799e5db53",
+    "normalized_content_hash": "sha256:42ea0c48567a3ec921ee787028979ec33f817a1dcfaaf96dd4010293837ee742"
+  },
+  "provenance": {
+    "source_item_id": "972da0b0-08ff-4a58-a042-90a0e7802bb5",
+    "external_id": "d39cea50-eb65-5d8c-b633-1fd7ce60c9cc"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c25f4a797ad35bb50e1dc5b5116200b9a22f53adb50619429506921d21eb00f1",
+  "company": {
+    "key": "yc-trainy",
+    "name": "Trainy"
+  },
+  "source": {
+    "id": "yc-trainy-rss-dacd52d4547a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.trainy.ai/blog/gpu-utilization-misleading-metric",
+    "canonical": "https://www.trainy.ai/blog/gpu-utilization-misleading-metric"
+  },
+  "title": "GPU Utilization is a Misleading Metric",
+  "summary": "The most common metric ML teams use to understand GPU usage is GPU Utilization, but it can be misleading — you can hit 100% utilization while doing zero computations. Here's what to track instead.",
+  "published_at": "2025-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.988023+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T03:03:38.504832+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-trainy/2025/02/c2/c25f4a797ad35bb50e1dc5b5116200b9a22f53adb50619429506921d21eb00f1/article.md",
+    "record": "articles/v1/2d/yc-trainy/2025/02/c2/c25f4a797ad35bb50e1dc5b5116200b9a22f53adb50619429506921d21eb00f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11074,
+    "sha256": "sha256:ab2c602338545ce62953ac7671e4dd84afbf0dd16534b14cde9157a1f4f7b324",
+    "normalized_content_hash": "sha256:de23b8cf37ac6cca714f79b5b3989909967388e55628351d958ebbe2a3b560b8"
+  },
+  "provenance": {
+    "source_item_id": "2327a71e-2b3b-4c93-bb18-2c6614e695c8",
+    "external_id": "https://www.trainy.ai/blog/gpu-utilization-misleading-metric"
+  }
+}

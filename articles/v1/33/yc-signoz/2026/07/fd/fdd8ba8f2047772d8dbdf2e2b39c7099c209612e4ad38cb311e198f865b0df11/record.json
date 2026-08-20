@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fdd8ba8f2047772d8dbdf2e2b39c7099c209612e4ad38cb311e198f865b0df11",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-deployment-patterns",
+    "canonical": "https://signoz.io/blog/opentelemetry-deployment-patterns"
+  },
+  "title": "Patterns for Deploying OpenTelemetry Collector at Scale",
+  "summary": "Compare OpenTelemetry Collector deployment patterns - agent, gateway, sidecar, and no-collector - and when to use each.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/fd/fdd8ba8f2047772d8dbdf2e2b39c7099c209612e4ad38cb311e198f865b0df11/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/fd/fdd8ba8f2047772d8dbdf2e2b39c7099c209612e4ad38cb311e198f865b0df11/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13648,
+    "sha256": "sha256:3807eb18203eec830e8fbe5e7e1e64137a1d960176772e1ce8dbcd0483bc22c1",
+    "normalized_content_hash": "sha256:f27338c084c78a4398cde3b467528615ecce955860d11a11d93c9f028d34b849"
+  },
+  "provenance": {
+    "source_item_id": "62b039ae-37b0-4d2a-9f81-b5eb368d54ea",
+    "external_id": "https://signoz.io/blog/opentelemetry-deployment-patterns"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3dfdc2b38748ceefea97547c9595f12f5a5799c2724bb0d4970747ca796946b7",
+  "company": {
+    "key": "corvex-inc-common-stock",
+    "name": "Corvex Inc."
+  },
+  "source": {
+    "id": "corvex-inc-common-stock-rss-5d3752083407",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.corvex.ai/blog/liquid-cooling-nvidia-b200-ai-infrastructure",
+    "canonical": "https://www.corvex.ai/blog/liquid-cooling-nvidia-b200-ai-infrastructure"
+  },
+  "title": "Cool New Reality: The Advantage of Liquid Cooling for NVIDIA B200s",
+  "summary": "When we were designing our Blackwell deployment at Corvex, we faced a choice when it came to cooling: air versus liquid. We chose liquid cooling as the best way to ensure the best reliability in our data center and to keep our fleet of B200s running at peak performance. Here’s how we approached the problem.",
+  "published_at": "2025-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T19:33:03.363948+00:00",
+  "fetched_at": "2026-08-07T19:33:04.062086+00:00",
+  "last_updated_at": "2026-08-20T02:24:00.096794+00:00",
+  "paths": {
+    "article": "articles/v1/12/corvex-inc-common-stock/2025/07/3d/3dfdc2b38748ceefea97547c9595f12f5a5799c2724bb0d4970747ca796946b7/article.md",
+    "record": "articles/v1/12/corvex-inc-common-stock/2025/07/3d/3dfdc2b38748ceefea97547c9595f12f5a5799c2724bb0d4970747ca796946b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4109,
+    "sha256": "sha256:363f3cda4251d14e5a519b13fa520c7f7f47183d1fa00595feaa44bf8bad9fd6",
+    "normalized_content_hash": "sha256:66814000f0610b934bbd268c73f4d94a77870eb8182123902e6016c80620f245"
+  },
+  "provenance": {
+    "source_item_id": "165f0883-e39d-483e-a103-6a22699c9400",
+    "external_id": "https://www.corvex.ai/blog/liquid-cooling-nvidia-b200-ai-infrastructure"
+  }
+}

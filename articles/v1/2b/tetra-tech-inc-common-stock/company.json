@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "tetra-tech-inc-common-stock",
+    "name": "Tetra Tech Inc."
+  },
+  "record_count": 37,
+  "first_published_at": "2024-11-25T22:56:27+00:00",
+  "last_published_at": "2026-08-18T16:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2b/tetra-tech-inc-common-stock/index/pages/000001.json",
+        "record_count": 37,
+        "byte_count": 44218,
+        "sha256": "sha256:3719b2c872d48c6352da1178a0a26ad8777bdb4d09a6737ee43d97b94974b74b",
+        "newest_at": "2026-08-18T16:00:00+00:00",
+        "oldest_at": "2024-11-25T22:56:27+00:00"
+      }
+    ]
+  }
+}

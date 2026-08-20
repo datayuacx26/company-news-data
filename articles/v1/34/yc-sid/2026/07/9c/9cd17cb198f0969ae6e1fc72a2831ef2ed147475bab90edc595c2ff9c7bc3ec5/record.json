@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9cd17cb198f0969ae6e1fc72a2831ef2ed147475bab90edc595c2ff9c7bc3ec5",
+  "company": {
+    "key": "yc-sid",
+    "name": "SID"
+  },
+  "source": {
+    "id": "yc-sid-news-import-30f4e157198f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sid.ai/research/sid-1-technical-report",
+    "canonical": "https://www.sid.ai/research/sid-1-technical-report"
+  },
+  "title": "SID-1 Technical Report: Test-Time Compute for Retrieval",
+  "summary": "SID-1 is the first model trained end-to-end with RL solely for agentic retrieval. It reaches 0.84 recall on a diverse benchmark, compared to 0.78 for GPT-5.1 and 0.45 for traditional reranking pipelines. This report covers our infrastructure, reward design, synthetic data, and issues with common GRPO formulations.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T23:59:57.623768+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-19T20:27:15.126067+00:00",
+  "paths": {
+    "article": "articles/v1/34/yc-sid/2026/07/9c/9cd17cb198f0969ae6e1fc72a2831ef2ed147475bab90edc595c2ff9c7bc3ec5/article.md",
+    "record": "articles/v1/34/yc-sid/2026/07/9c/9cd17cb198f0969ae6e1fc72a2831ef2ed147475bab90edc595c2ff9c7bc3ec5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1392,
+    "sha256": "sha256:6322d000b8c4231557649b806f7c30a17150f69df58c398f1fab58d0399cd0e8",
+    "normalized_content_hash": "sha256:c1f7dc2d89f297679b28ad3a36bd5e85e11cc1010d668e1a0ac9efa180c370a7"
+  },
+  "provenance": {
+    "source_item_id": "18e27bef-ab60-483a-a886-27fcf0641119",
+    "external_id": "https://www.sid.ai/research/sid-1-technical-report"
+  }
+}

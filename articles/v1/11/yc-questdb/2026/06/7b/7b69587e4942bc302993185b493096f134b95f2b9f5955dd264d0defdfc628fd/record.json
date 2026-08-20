@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b69587e4942bc302993185b493096f134b95f2b9f5955dd264d0defdfc628fd",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/questdb-enterprise-3-3-1-release/",
+    "canonical": "https://questdb.com/blog/questdb-enterprise-3-3-1-release/"
+  },
+  "title": "QuestDB Enterprise 3.3.1: storage policies, custom CA, and finer-grained access control",
+  "summary": "QuestDB Enterprise 3.3.1 brings the new storage policy engine for tiering data to Parquet, posting indexes, a custom root CA for replication object stores, and column-level GRANT/REVOKE with EXCLUDE, on top of the QuestDB 9.4.2 engine.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T00:50:11.237173+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/06/7b/7b69587e4942bc302993185b493096f134b95f2b9f5955dd264d0defdfc628fd/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/06/7b/7b69587e4942bc302993185b493096f134b95f2b9f5955dd264d0defdfc628fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8614,
+    "sha256": "sha256:de29c2cea03ab4f3d49063e23b0fc5904798f95bf0f00735a09bae5f5d6651e6",
+    "normalized_content_hash": "sha256:026a997c87d556d9e250eadc8d5355f1ed9381f8b0d91e730e497eb24456d7f9"
+  },
+  "provenance": {
+    "source_item_id": "28284d2e-d0c7-4b9d-8593-588c7dfaf63a",
+    "external_id": "https://questdb.com/blog/questdb-enterprise-3-3-1-release/"
+  }
+}

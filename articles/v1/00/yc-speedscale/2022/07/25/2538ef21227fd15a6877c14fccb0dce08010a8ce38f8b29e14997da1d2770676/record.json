@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2538ef21227fd15a6877c14fccb0dce08010a8ce38f8b29e14997da1d2770676",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/how-to-build-multi-arch-docker-images/",
+    "canonical": "https://speedscale.com/blog/how-to-build-multi-arch-docker-images/"
+  },
+  "title": "How to Build Multi-Arch Docker Images",
+  "summary": "With ARM based dev machines and servers becoming more common, it is become increasingly important to build Docker images that support multiple.",
+  "published_at": "2022-07-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2022/07/25/2538ef21227fd15a6877c14fccb0dce08010a8ce38f8b29e14997da1d2770676/article.md",
+    "record": "articles/v1/00/yc-speedscale/2022/07/25/2538ef21227fd15a6877c14fccb0dce08010a8ce38f8b29e14997da1d2770676/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8378,
+    "sha256": "sha256:f446918266e920ff66d53f5a9e62f773767953ce6830524773a6c3d7fa03e59e",
+    "normalized_content_hash": "sha256:5593d8c6be89097543b13b009403cc3b4385db3920ae4cfea6f9904228893d9b"
+  },
+  "provenance": {
+    "source_item_id": "dc831657-3a67-4875-a50d-78ff621d7a9c",
+    "external_id": "https://speedscale.com/blog/how-to-build-multi-arch-docker-images/"
+  }
+}

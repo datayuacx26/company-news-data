@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "international-business-machines-corporation-common-stock",
+    "name": "International Business Machines Corporation"
+  },
+  "record_count": 30,
+  "first_published_at": "2026-07-08T13:00:00+00:00",
+  "last_published_at": "2026-08-19T10:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/25/international-business-machines-corporation-common-stock/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 39228,
+        "sha256": "sha256:5eaa1bed08b3dcf6e4e1a214baf4aa2e69224758e69fef5f6dac7c940203372e",
+        "newest_at": "2026-08-19T10:00:00+00:00",
+        "oldest_at": "2026-07-08T13:00:00+00:00"
+      }
+    ]
+  }
+}

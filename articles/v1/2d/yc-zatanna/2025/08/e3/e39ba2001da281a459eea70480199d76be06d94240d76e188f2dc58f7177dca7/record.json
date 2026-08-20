@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e39ba2001da281a459eea70480199d76be06d94240d76e188f2dc58f7177dca7",
+  "company": {
+    "key": "yc-zatanna",
+    "name": "Zatanna"
+  },
+  "source": {
+    "id": "yc-zatanna-news-import-8e90f36473c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zatanna.ai/blog/browser-automation-timing-race-conditions",
+    "canonical": "https://www.zatanna.ai/blog/browser-automation-timing-race-conditions"
+  },
+  "title": "Timing Issues and Race Conditions in Browser Automation",
+  "summary": "Browser scripts constantly fight timing — waiting for elements, handling async loads, dealing with animations. Request automation has none of these problems because there's no rendering.",
+  "published_at": "2025-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:55:15.963788+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-08-19T21:56:36.569036+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-zatanna/2025/08/e3/e39ba2001da281a459eea70480199d76be06d94240d76e188f2dc58f7177dca7/article.md",
+    "record": "articles/v1/2d/yc-zatanna/2025/08/e3/e39ba2001da281a459eea70480199d76be06d94240d76e188f2dc58f7177dca7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5150,
+    "sha256": "sha256:6636c29107fd5c9978aa55767cae41fb1ba0f873d87fe1076def10f35d53e7c1",
+    "normalized_content_hash": "sha256:60318d7393163d1d6a091960c105444620d88ee3a77f7a2a9ab8127d5513963f"
+  },
+  "provenance": {
+    "source_item_id": "066980cf-7cc1-4396-8cc5-a2bfb445d603",
+    "external_id": "https://www.zatanna.ai/blog/browser-automation-timing-race-conditions"
+  }
+}

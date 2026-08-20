@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d77e59d3e13370bc55ce0354e45990d635e6b0f7336440f4cae9a615ad48e4e1",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/dashboards/dashboard-templates/planetscale-vitess-dashboard",
+    "canonical": "https://signoz.io/docs/dashboards/dashboard-templates/planetscale-vitess-dashboard"
+  },
+  "title": "PlanetScale Vitess (MySQL) Metrics Dashboard",
+  "summary": "Monitor PlanetScale Vitess query rate, latency, pools, MySQL internals, replication lag, VTOrc, storage, and pod resources. Filter by branch, keyspace, and tablet type.",
+  "published_at": "2026-06-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/d7/d77e59d3e13370bc55ce0354e45990d635e6b0f7336440f4cae9a615ad48e4e1/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/d7/d77e59d3e13370bc55ce0354e45990d635e6b0f7336440f4cae9a615ad48e4e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 740,
+    "sha256": "sha256:42b1abde7a5f51a54b519c30d505959647097ec0cfb4d8dc633bd0dd727e7629",
+    "normalized_content_hash": "sha256:54d9fe8e7562593bbe83d29a58b197c6749cbac0812c296a82adec4119c17af1"
+  },
+  "provenance": {
+    "source_item_id": "6d197eaf-94f8-4576-882d-557b929028fb",
+    "external_id": "https://signoz.io/docs/dashboards/dashboard-templates/planetscale-vitess-dashboard"
+  }
+}

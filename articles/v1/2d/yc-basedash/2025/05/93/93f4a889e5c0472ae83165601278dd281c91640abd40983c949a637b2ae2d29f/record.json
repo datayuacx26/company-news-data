@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "93f4a889e5c0472ae83165601278dd281c91640abd40983c949a637b2ae2d29f",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-we-built-light-mode-without-tailwind-s-dark-class/",
+    "canonical": "https://www.basedash.com/blog/how-we-built-light-mode-without-tailwind-s-dark-class/"
+  },
+  "title": "How We Built Light Mode Without Tailwind’s dark: Class",
+  "summary": "Skip Tailwind’s dark: modifier. Learn how Basedash uses CSS variables, global state, and zero-flicker theming for a scalable light/dark mode system.",
+  "published_at": "2025-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/05/93/93f4a889e5c0472ae83165601278dd281c91640abd40983c949a637b2ae2d29f/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/05/93/93f4a889e5c0472ae83165601278dd281c91640abd40983c949a637b2ae2d29f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7237,
+    "sha256": "sha256:b8771c437f0067d50fc60e96bcd32049497b0a6605a059c68cefe676016b50f7",
+    "normalized_content_hash": "sha256:00c056b29cbb4f41dcf457d9a1848c7249eb783aef2e1c55b9c980837406beba"
+  },
+  "provenance": {
+    "source_item_id": "78d3454e-1556-4635-b3c0-63b8594c1e8c",
+    "external_id": "https://www.basedash.com/blog/how-we-built-light-mode-without-tailwind-s-dark-class/"
+  }
+}

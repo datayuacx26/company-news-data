@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ryde-group-ltd-class-a-ordinary-shares",
+    "name": "Ryde Group Ltd."
+  },
+  "record_count": 10,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/36/ryde-group-ltd-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10340,
+        "sha256": "sha256:8e611df15b5987c5979fc9c7bf40c644a5649fd9c37e6730f80e6c4a6a484331",
+        "newest_at": "2026-07-28T21:18:37.293716+00:00",
+        "oldest_at": "2026-07-28T21:18:37.293716+00:00"
+      }
+    ]
+  }
+}

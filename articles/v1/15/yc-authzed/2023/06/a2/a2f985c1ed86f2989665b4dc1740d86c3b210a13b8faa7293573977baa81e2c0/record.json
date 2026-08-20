@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a2f985c1ed86f2989665b4dc1740d86c3b210a13b8faa7293573977baa81e2c0",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/maximizing-cockroachdb-performance",
+    "canonical": "https://authzed.com/blog/maximizing-cockroachdb-performance"
+  },
+  "title": "Maximizing CockroachDB Performance: Our Journey to 1 Million QPS",
+  "summary": "Learn how to scale CockroachDB to 1 million authorization events per second. Discover potential challenges, how to solve them and maximize CockroachDB performance.",
+  "published_at": "2023-06-07T14:29:48.209+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2023/06/a2/a2f985c1ed86f2989665b4dc1740d86c3b210a13b8faa7293573977baa81e2c0/article.md",
+    "record": "articles/v1/15/yc-authzed/2023/06/a2/a2f985c1ed86f2989665b4dc1740d86c3b210a13b8faa7293573977baa81e2c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21173,
+    "sha256": "sha256:343d13267cc39450408972fe93b743e0c374d0b2e58b3b4c2e0499d520e8e9a2",
+    "normalized_content_hash": "sha256:808ffed2598615474ade2a5e6c09d5c801e81e077555a8a09fe901d42cc748ae"
+  },
+  "provenance": {
+    "source_item_id": "b71b68af-9de0-4c25-b7d6-6ca26a287d28",
+    "external_id": "https://authzed.com/blog/maximizing-cockroachdb-performance"
+  }
+}

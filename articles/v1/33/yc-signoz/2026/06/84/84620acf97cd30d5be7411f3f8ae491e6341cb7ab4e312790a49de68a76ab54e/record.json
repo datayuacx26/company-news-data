@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84620acf97cd30d5be7411f3f8ae491e6341cb7ab4e312790a49de68a76ab54e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/amazon-bedrock-monitoring",
+    "canonical": "https://signoz.io/docs/amazon-bedrock-monitoring"
+  },
+  "title": "Amazon Bedrock Monitoring and Observability with OpenTelemetry",
+  "summary": "Setup Amazon Bedrock monitoring using OpenTelemetry and SigNoz. Track model performance, latency, error rates, and usage across foundation models.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/84/84620acf97cd30d5be7411f3f8ae491e6341cb7ab4e312790a49de68a76ab54e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/84/84620acf97cd30d5be7411f3f8ae491e6341cb7ab4e312790a49de68a76ab54e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 702,
+    "sha256": "sha256:d14144914e94f156f949d924ed442a8d103ceb0f7bd2098f7ece50cb53355c6d",
+    "normalized_content_hash": "sha256:3f96a71fe50ebbbe159d461e60507951f27f1f500768550fff5fceb0f737d16e"
+  },
+  "provenance": {
+    "source_item_id": "4e6f8651-47fd-44dd-aca6-8b6db6a08c3e",
+    "external_id": "https://signoz.io/docs/amazon-bedrock-monitoring"
+  }
+}

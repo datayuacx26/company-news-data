@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77a571091798d9342860bc54310b2251ae9eaf1babd17bc7904c3070ccccaa1e",
+  "company": {
+    "key": "enbridge-inc-common-stock",
+    "name": "Enbridge Inc"
+  },
+  "source": {
+    "id": "enbridge-inc-common-stock-news-import-2b8a4b0103c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.enbridge.com/stories/2026/august/enbridge-option-to-acquire-ttc-connector-pipeline-gulf-coast-connectivity-lng-exports",
+    "canonical": "https://www.enbridge.com/stories/2026/august/enbridge-option-to-acquire-ttc-connector-pipeline-gulf-coast-connectivity-lng-exports"
+  },
+  "title": "Enbridge signs option to acquire ‘last-mile’ Gulf Coast LNG supply project",
+  "summary": "TTC Connector Pipeline will connect our Tres Palacios gas storage with Freeport LNG",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T00:33:31.188885+00:00",
+  "fetched_at": "2026-08-06T00:33:33.434540+00:00",
+  "last_updated_at": "2026-08-20T01:24:19.326811+00:00",
+  "paths": {
+    "article": "articles/v1/19/enbridge-inc-common-stock/2026/08/77/77a571091798d9342860bc54310b2251ae9eaf1babd17bc7904c3070ccccaa1e/article.md",
+    "record": "articles/v1/19/enbridge-inc-common-stock/2026/08/77/77a571091798d9342860bc54310b2251ae9eaf1babd17bc7904c3070ccccaa1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4835,
+    "sha256": "sha256:8873ebaa3dc8c03babd3a10f0a8d40b7787cb23923af5e957ea4de689b27cefb",
+    "normalized_content_hash": "sha256:347fb47604c53dc0d14bff0902462f7cef1e6c6f57cf8edd6491bdbe0b4a8c1a"
+  },
+  "provenance": {
+    "source_item_id": "74e36801-d31c-4371-9b3f-cb1fba6a2434",
+    "external_id": "https://www.enbridge.com/stories/2026/august/enbridge-option-to-acquire-ttc-connector-pipeline-gulf-coast-connectivity-lng-exports"
+  }
+}

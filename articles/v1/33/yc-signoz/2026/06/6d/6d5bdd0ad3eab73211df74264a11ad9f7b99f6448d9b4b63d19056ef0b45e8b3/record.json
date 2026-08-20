@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d5bdd0ad3eab73211df74264a11ad9f7b99f6448d9b4b63d19056ef0b45e8b3",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/health-check-monitoring-with-opentelemetry",
+    "canonical": "https://signoz.io/blog/health-check-monitoring-with-opentelemetry"
+  },
+  "title": "Health Check Monitoring With OpenTelemetry | Complete Code Tutorial",
+  "summary": "Health check monitoring with OpenTelemetry: use the Collector's httpcheck receiver to probe HTTP endpoints and track uptime in SigNoz. Step-by-step guide.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.412403+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/6d/6d5bdd0ad3eab73211df74264a11ad9f7b99f6448d9b4b63d19056ef0b45e8b3/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/6d/6d5bdd0ad3eab73211df74264a11ad9f7b99f6448d9b4b63d19056ef0b45e8b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26566,
+    "sha256": "sha256:f6d75cfd337875c831d40069e958a976e158a4b7a0c15c0d9b978caf1deaeb13",
+    "normalized_content_hash": "sha256:f5de1ddbcadd8320a958279eaeb26fcb53404da18956376676c2075f2eb38409"
+  },
+  "provenance": {
+    "source_item_id": "223bd2ac-6527-4da8-85ac-afb5c585fc49",
+    "external_id": "https://signoz.io/blog/health-check-monitoring-with-opentelemetry"
+  }
+}

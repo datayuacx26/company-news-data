@@ -1,0 +1,104 @@
+---
+schema_version: "1.0.0"
+document_id: "b175c1acc933163dd6b65e6b4c591bae864adbc1482e5dbaf33224b59e588a20"
+company_key: "poet-technologies-inc-common-shares"
+company: "POET Technologies Inc. Common Shares"
+source_id: "poet-technologies-inc-common-shares-news-import-205931d85634"
+canonical_url: "https://www.poet-technologies.com/news/poet-technologies-reports-first-quarter-2026-financial-results"
+published_at: "2026-05-14T00:00:00+00:00"
+first_seen_at: "2026-07-25T19:28:15.855860+00:00"
+fetched_at: "2026-07-28T22:13:09.708388+00:00"
+content_hash: "sha256:3c1048009d669ec822dd02f76328bdb896895bcc24a8d1f1977486e0a68df125"
+---
+
+# POET Technologies Reports First Quarter 2026 Financial Results
+
+‍ **TORONTO, Ontario, May 14, 2026** – POET Technologies Inc. (“ **POET** ” or the “ **Company** ”) (NASDAQ: POET), the designer and developer of Photonic Integrated Circuits (PICs), light sources and optical modules for the AI and data center markets, today reported its unaudited condensed consolidated financial results for the first quarter ended March 31, 2026. The Company’s financial results as well as the Management Discussion and Analysis have been filed on SEDAR+. All financial figures are in United States dollars (“USD”) unless otherwise indicated.
+
+
+**Management Commentary:**
+
+
+"During the first quarter of 2026, we made significant progress in expanding POET’s strategic position within the AI and hyperscale data center ecosystem,” said Dr. Suresh Venkatesan, Chairman & CEO of POET Technologies. “Our partnerships with industry leaders such as LITEON, Lessengers and Lumilens validate the growing demand for POET’s Optical Interposer platform and our ability to enable next-generation photonic integration solutions.
+
+
+The joint development agreement with Lumilens, including an initial $50 million purchase order for EOI-based optical engines, represents an important commercial milestone for the Company and establishes the framework for what we believe could become a substantial long-term supplier relationship supporting frontier AI infrastructure.”
+
+
+“We also continued to advance our product roadmap through the joint development of a 1.6T transceiver platform with Lessengers, while strengthening our global market position through our collaboration with LITEON. Combined with our plan to domicile our headquarters in the U.S., these initiatives further align POET with the evolving requirements of customers, partners and investors as demand for AI networking infrastructure accelerates.”
+
+
+**Notable Business Highlights:**
+
+
+- Announced a strategic collaboration with LITEON Technology, one of the world’s leading providers of optoelectronic semiconductor components and high-power optical systems. The partnership aims to co-develop next-generation optical communication modules built on POET’s patented optical interposer technology and integration platform.
+
+
+- Announced the joint development of a 1.6T 2×DR4 optical transceiver module designed for next-generation AI clusters and hyperscale data center networks with Lessengers.
+
+
+- Announced its intention to move the Company’s headquarters to and domicile the Company in the U.S. so that it will no longer be a foreign corporation, which would eliminate the possibility of the Company being classified as a PFIC in future years.
+
+
+- Entered into a supply agreement that establishes a strategic joint development and commercial technology partnership to advance a new class of wafer-level photonic integration for frontier AI infrastructure. The supply agreement between Lumilens and the Company establishes a commercial framework to support the joint development program, and, as part of that framework, Lumilens has placed an initial purchase order with the Company for the manufacturing of EOI-based engines valued at $50 million. This purchase order represents the first phase of a broader supplier relationship that could scale to $500+ million in cumulative purchases from the Company over five years.
+
+
+**Non-IFRS Financial Summary**
+
+
+The Company reported non-recurring engineering (“NRE”) and product revenue of $503,389 in the first quarter of 2026 compared to $166,760 for the same period in 2025 and $341,202 in the fourth quarter of 2025. Historically, the Company provided NRE services to multiple customers for unique projects that are being addressed utilizing the capabilities of the POET Optical Interposer.
+
+
+The Company reported a net loss of $12.3 million, or ($0.08) per share, in the first quarter of 2026 compared with a net income of $6.3 million, or 0.08 per share, for the same period in 2025 and a net loss of $42.7 million, or ($0.32) per share, in the fourth quarter of 2025. The net income in the first quarter of 2026 included research and development costs of $4.5 million compared to $4.3 million for the same period in 2025 and $4.6 million in the fourth quarter of 2025. Fluctuations in R&D for a Company of this size and this stage of growth is expected on a period-over-period basis as the Company transitions from technology development to product development.
+
+
+The largest component of the Company’s income in the first quarter of 2025 was from the non-cash gain in fair value adjustment to derivative warrant liability of $15.4 million. The derivative liability adjustment in the first quarter of 2026 was a gain of $1.6 million. The Company reported a loss of $30.7 million in the fourth quarter of 2025. This non-cash item relates to warrants issued in a foreign currency and is periodically remeasured.
+
+
+Other non-cash expenses in the first quarter of 2026 included stock-based compensation of $3.4 million and depreciation and amortization of $1.0 million. Non-cash stock-based compensation and depreciation and amortization in the same period of 2025 were $0.8 million and $0.7 million, respectively. Fourth quarter 2025 stock-based compensation and depreciation and amortization were $2.2 million and $0.9 million, respectively. The Company had non-cash finance costs of $47,000 in the first quarter of 2026 compared to non-cash finance costs of $33,000 in the first quarter of 2025 and non-cash costs of $49,000 in the fourth quarter of 2025.
+
+
+The Company recognized other income, including interest of $4.0 million in the first quarter of 2026, compared to $528,000 in the same period in 2025 and $2.5 million in the fourth quarter of 2025.
+
+
+Cash flow from operating activities in the first quarter of 2026 was ($8.8) million compared to ($8.9) million in the first quarter of 2025 and ($11.6) million in the fourth quarter of 2025.
+
+
+**Summary of Financial Performance**
+
+
+The following is a summary of the Company’s operations over the five quarters ending March 31, 2026. This information should be read in conjunction with the Company’s financial statements filed on Sedar+ on May 14, 2026.
+
+
+**About POET Technologies Inc.**
+
+
+POET is a design and development company offering high-speed optical modules, optical engines and light source products to the artificial intelligence systems market and to hyperscale data centers. POET’s photonic integration solutions are based on the POET Optical Interposer™, a novel, patented platform that allows the seamless integration of electronic and photonic devices into a single chip using advanced wafer-level semiconductor manufacturing techniques. POET's Optical Interposer-based products are lower cost, consume less power than comparable products, are smaller in size and are readily scalable to high production volumes. In addition to providing high-speed (800G, 1.6T and above) optical engines and optical modules for AI clusters and hyperscale data centers, POET has designed and produced novel light source products for chip-to-chip data communication within and between AI servers, the next frontier for solving bandwidth and latency problems in AI systems. POET’s Optical Interposer platform also solves device integration challenges in 5G networks, machine-to-machine communication, self-contained "Edge" computing applications and sensing applications, such as LIDAR systems for autonomous vehicles. POET is headquartered in Toronto, Canada, with operations in Allentown, PA, Shenzhen, China, and Singapore. More information about POET is available on our website at[www.poet-technologies.com](http://www.poet-technologies.com/) .
+
+
+**Media Relations Contact:** ‍
+
+
+Adrian Brijbassiadrian.brijbassi@poet.tech
+
+
+**Company Contact:** Thomas R. Mika, EVP & CFO
+tm@poet.tech
+
+
+**Forward-Looking Statements**
+
+
+This news release contains “forward-looking information” (within the meaning of applicable Canadian securities laws) and “forward-looking statements” (within the meaning of the U.S. Private Securities Litigation Reform Act of 1995). Such statements or information are identified with words such as “anticipate”, “believe”, “expect”, “plan”, “intend”, “potential”, “estimate”, “propose”, “project”, “outlook”, “foresee” or similar words suggesting future outcomes or statements regarding any potential outcome. Such statements include the Company’s expectations with respect to its move of production capacity from China to Malaysia, the ability of its partners to install and operate production equipment, the reaction of customers and partners to the Company’s product offerings, the success of the Company’s product development efforts, the performance of its products, the expected results of its operations, meeting revenue targets, and the expectation of continued success in the financing efforts, the capability, functionality, performance and cost of the Company’s technology as well as the market acceptance, inclusion and timing of the Company’s technology in current and future products and expectations for approval of proposals at the Company’s annual meeting of shareholders.
+
+
+Such forward-looking information or statements are based on a number of risks, uncertainties and assumptions which may cause actual results or other expectations to differ materially from those anticipated and which may prove to be incorrect. Assumptions have been made regarding, among other things, management’s expectations regarding its move of production capacity from China to Malaysia, the ability of its partner to meet production expectations, the reaction of customers and partners to the Company’s product offerings, the success and timing for completion of its development efforts, the introduction of new products, financing activities, future growth, recruitment of personnel, opening of offices, the form and potential of its joint venture, plans for and completion of projects by the Company’s consultants, contractors and partners, availability of capital, and the necessity to incur capital and other expenditures. Actual results could differ materially due to a number of factors, including, without limitation, the failure to achieve high volume production in Malaysia on time, the failure of its products to meet performance requirements or to be produced in Malaysia on time and budget, the lack of sales in its products, once released, operational risks in the completion of the Company’s anticipated projects, risks affecting the Company’s ability to execute projects, the ability of the Company to generate sales for its products, the ability to attract key personnel, the ability to raise additional capital and the agreement by shareholders to approve proposals put forth by the Company at shareholders’ meetings. Although the Company believes that the expectations reflected in the forward-looking information or statements are reasonable, prospective investors in the Company’s securities should not place undue reliance on forward-looking statements because the Company can provide no assurance that such expectations will prove to be correct. Forward-looking information and statements contained in this news release are as of the date of this news release and the Company assumes no obligation to update or revise this forward-looking information and statements except as required by law.
+
+
+**Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**
+
+
+**120 Eglinton Avenue, East, Suite 1107, Toronto, ON, M4P 1E2- Tel: 416-368-9411 - Fax: 416-322-5075**
+
+
+‍

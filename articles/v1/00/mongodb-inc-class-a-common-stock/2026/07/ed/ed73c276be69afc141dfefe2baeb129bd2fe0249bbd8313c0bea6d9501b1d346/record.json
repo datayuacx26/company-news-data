@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed73c276be69afc141dfefe2baeb129bd2fe0249bbd8313c0bea6d9501b1d346",
+  "company": {
+    "key": "mongodb-inc-class-a-common-stock",
+    "name": "MongoDB Inc."
+  },
+  "source": {
+    "id": "mongodb-inc-class-a-common-stock-news-import-1184c6a0a051",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mongodb.com/company/newsroom/news-coverage",
+    "canonical": "https://www.mongodb.com/company/newsroom/news-coverage"
+  },
+  "title": "MongoDB News",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:48:41.529866+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-08-19T19:26:49.100191+00:00",
+  "paths": {
+    "article": "articles/v1/00/mongodb-inc-class-a-common-stock/2026/07/ed/ed73c276be69afc141dfefe2baeb129bd2fe0249bbd8313c0bea6d9501b1d346/article.md",
+    "record": "articles/v1/00/mongodb-inc-class-a-common-stock/2026/07/ed/ed73c276be69afc141dfefe2baeb129bd2fe0249bbd8313c0bea6d9501b1d346/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2123,
+    "sha256": "sha256:29fb8794d55a333d4aa6a2d2b55cdaf581556c1c029bc61155ae8bcfc43a89e0",
+    "normalized_content_hash": "sha256:bcc3d039d67924598a090129366ede74ebe0b4b84182d8d90c4c564d57aba3f2"
+  },
+  "provenance": {
+    "source_item_id": "11d73088-0b63-49b1-bfe0-a85560b84501",
+    "external_id": "https://www.mongodb.com/company/newsroom/news-coverage"
+  }
+}

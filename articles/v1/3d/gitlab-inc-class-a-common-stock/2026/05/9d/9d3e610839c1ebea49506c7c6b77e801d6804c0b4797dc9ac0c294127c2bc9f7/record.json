@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d3e610839c1ebea49506c7c6b77e801d6804c0b4797dc9ac0c294127c2bc9f7",
+  "company": {
+    "key": "gitlab-inc-class-a-common-stock",
+    "name": "GitLab Inc."
+  },
+  "source": {
+    "id": "gitlab-inc-class-a-common-stock-news-import-53e8505a9d97",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/",
+    "canonical": "https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/"
+  },
+  "title": "Consolidate your GitLab stack with Gitaly on Kubernetes",
+  "summary": "Discover how to install Gitaly on Kubernetes, which is now generally available.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T06:37:24.143169+00:00",
+  "fetched_at": "2026-07-28T21:44:45.479848+00:00",
+  "last_updated_at": "2026-08-19T15:42:41.630010+00:00",
+  "paths": {
+    "article": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/05/9d/9d3e610839c1ebea49506c7c6b77e801d6804c0b4797dc9ac0c294127c2bc9f7/article.md",
+    "record": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/05/9d/9d3e610839c1ebea49506c7c6b77e801d6804c0b4797dc9ac0c294127c2bc9f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5653,
+    "sha256": "sha256:d480c087775f6831136df6efa2e2ec45228165e9a208e58241aa516df2eb8477",
+    "normalized_content_hash": "sha256:01c4e078b9b637b2ded510d20894c53166b536cf6878d1475fbfbe229d156b27"
+  },
+  "provenance": {
+    "source_item_id": "5b14e5da-c69c-47d7-834e-a920f0955a92",
+    "external_id": "https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/"
+  }
+}

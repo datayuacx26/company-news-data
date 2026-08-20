@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11267da9dc1377055f734bf9c506b0238eacd3f9ef2e50770b31a239b32d5b61",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/dashboards/dashboard-templates/planetscale-postgres-dashboard",
+    "canonical": "https://signoz.io/docs/dashboards/dashboard-templates/planetscale-postgres-dashboard"
+  },
+  "title": "PlanetScale PostgreSQL Metrics Dashboard",
+  "summary": "Monitor PlanetScale Postgres connections, session states, PgBouncer pools, commits, locks, WAL archiving, storage, and pod resources. Filter by branch and role.",
+  "published_at": "2026-06-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/11/11267da9dc1377055f734bf9c506b0238eacd3f9ef2e50770b31a239b32d5b61/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/11/11267da9dc1377055f734bf9c506b0238eacd3f9ef2e50770b31a239b32d5b61/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 730,
+    "sha256": "sha256:6e21b6d31c17e1f2064c8c9b5fe49e20387fac2ae7cb1cb993364883fc673fe5",
+    "normalized_content_hash": "sha256:b5452b9567675395534f9a445a8263010e02588b94a9b53932fd3a8ad1aab8a0"
+  },
+  "provenance": {
+    "source_item_id": "057396d7-f489-4824-8577-f2ef252127e4",
+    "external_id": "https://signoz.io/docs/dashboards/dashboard-templates/planetscale-postgres-dashboard"
+  }
+}

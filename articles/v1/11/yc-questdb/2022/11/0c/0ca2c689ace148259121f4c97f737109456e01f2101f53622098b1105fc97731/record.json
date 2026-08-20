@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0ca2c689ace148259121f4c97f737109456e01f2101f53622098b1105fc97731",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/2022/11/02/data-lifecycle-questdb/",
+    "canonical": "https://questdb.com/blog/2022/11/02/data-lifecycle-questdb/"
+  },
+  "title": "Data Lifecycle with QuestDB",
+  "summary": "This tutorial shows ways to downsample data and detach or drop partitions when old data is no longer necessary using QuestDB.",
+  "published_at": "2022-11-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:47:49.914954+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:42.147439+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2022/11/0c/0ca2c689ace148259121f4c97f737109456e01f2101f53622098b1105fc97731/article.md",
+    "record": "articles/v1/11/yc-questdb/2022/11/0c/0ca2c689ace148259121f4c97f737109456e01f2101f53622098b1105fc97731/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7751,
+    "sha256": "sha256:33d625601dbec921c9abbb776da7c74eb3213902d8ac699d81d076d5c4c5ad11",
+    "normalized_content_hash": "sha256:4ce4bddb9c4efafa68079db3e048a96417544d6b88130247cda30546792c60f6"
+  },
+  "provenance": {
+    "source_item_id": "fcc88856-56a0-4907-a4cd-96b1b3e90621",
+    "external_id": "https://questdb.com/blog/2022/11/02/data-lifecycle-questdb/"
+  }
+}

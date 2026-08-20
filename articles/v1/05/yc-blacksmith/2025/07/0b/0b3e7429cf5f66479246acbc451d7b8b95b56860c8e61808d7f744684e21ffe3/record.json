@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b3e7429cf5f66479246acbc451d7b8b95b56860c8e61808d7f744684e21ffe3",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/logging",
+    "canonical": "https://www.blacksmith.sh/blog/logging"
+  },
+  "title": "How we built a logging platform for GitHub Actions with ClickHouse",
+  "summary": "When it comes to observability in CI, logs are still the main tool in a developer’s toolbox. Yet, the experience still sucks in GitHub Actions — until now.",
+  "published_at": "2025-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/07/0b/0b3e7429cf5f66479246acbc451d7b8b95b56860c8e61808d7f744684e21ffe3/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/07/0b/0b3e7429cf5f66479246acbc451d7b8b95b56860c8e61808d7f744684e21ffe3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8437,
+    "sha256": "sha256:63d8ea682a0bc7af23464ccb4eb76d22901977020b3544b79238d8501db66802",
+    "normalized_content_hash": "sha256:c92486a9a69cbfc0da2665c63a376740a69f68965ed6a430bd4dc2a7eba75e56"
+  },
+  "provenance": {
+    "source_item_id": "c1a27f8e-4b74-4832-995e-cda391cb4c25",
+    "external_id": "https://www.blacksmith.sh/blog/logging"
+  }
+}

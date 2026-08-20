@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afe0f1b8b677d7b8bf1cbb1f63ccd9e513c5eb71b145a595c0beabfac303af64",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/decomposing-iam",
+    "canonical": "https://authzed.com/blog/decomposing-iam"
+  },
+  "title": "It's Time to Decompose IAM",
+  "summary": "IAM has never been a single thing—and treating it like one is holding us back. Authentication and authorization are fundamentally different disciplines, and agentic AI might finally force us to address them separately.",
+  "published_at": "2026-04-04T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2026/04/af/afe0f1b8b677d7b8bf1cbb1f63ccd9e513c5eb71b145a595c0beabfac303af64/article.md",
+    "record": "articles/v1/15/yc-authzed/2026/04/af/afe0f1b8b677d7b8bf1cbb1f63ccd9e513c5eb71b145a595c0beabfac303af64/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6573,
+    "sha256": "sha256:42645500078c35985f3a32f3bd4361046200fbd77aa321e87ed85fe3fd62aebd",
+    "normalized_content_hash": "sha256:d1b2554b238163ad0fdc2a0823a5dd88a18f01f36ee8a070d946f7310dabdf97"
+  },
+  "provenance": {
+    "source_item_id": "b0a240c9-5a45-4785-94ae-f1c1cba7561a",
+    "external_id": "https://authzed.com/blog/decomposing-iam"
+  }
+}

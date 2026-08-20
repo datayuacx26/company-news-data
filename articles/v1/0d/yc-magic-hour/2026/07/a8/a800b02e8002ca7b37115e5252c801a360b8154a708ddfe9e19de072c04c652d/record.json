@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a800b02e8002ca7b37115e5252c801a360b8154a708ddfe9e19de072c04c652d",
+  "company": {
+    "key": "yc-magic-hour",
+    "name": "Magic Hour"
+  },
+  "source": {
+    "id": "yc-magic-hour-news-import-988efd6b5de7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://magichour.ai/blog/ltx-2-3-vs-wan-2-2",
+    "canonical": "https://magichour.ai/blog/ltx-2-3-vs-wan-2-2"
+  },
+  "title": "LTX-2.3 vs Wan 2.2: the two open video models compared",
+  "summary": "LTX-2.3 vs Wan 2.2: Wan wins motion, faces, and licensing; LTX is ~6x faster with synced audio and 30-second clips. How to pick for your pipeline.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:27:13.496224+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-19T17:55:08.316482+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yc-magic-hour/2026/07/a8/a800b02e8002ca7b37115e5252c801a360b8154a708ddfe9e19de072c04c652d/article.md",
+    "record": "articles/v1/0d/yc-magic-hour/2026/07/a8/a800b02e8002ca7b37115e5252c801a360b8154a708ddfe9e19de072c04c652d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18652,
+    "sha256": "sha256:401489f43a46e85a07360f6e65693f5e6eeae50cdb0877f0da164fc4d4fa2634",
+    "normalized_content_hash": "sha256:a5bc0110b3bd5d717e623f3fd6327d00415944fd32dbffd5f9176b71f2dcc62b"
+  },
+  "provenance": {
+    "source_item_id": "762a412d-e02c-42d6-894a-e28116d9979d",
+    "external_id": "https://magichour.ai/blog/ltx-2-3-vs-wan-2-2"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a3a40bd6148eabb2929901039d0ee35c86eaf30fe036de16f621edf736116b89",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/influxdb-3-mcp-server-v1-3/",
+    "canonical": "https://www.influxdata.com/blog/influxdb-3-mcp-server-v1-3/"
+  },
+  "title": "InfluxDB 3 MCP Server v1.3.0: AI Access to Time Series Data",
+  "summary": "This release enhances the InfluxDB 3 MCP server—which already allows AI agents to read from and write to InfluxDB 3 using natural language, with key improvements, including protocol compliance and integration tests, and a properly scoped npm package.",
+  "published_at": "2026-05-28T02:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/05/a3/a3a40bd6148eabb2929901039d0ee35c86eaf30fe036de16f621edf736116b89/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/05/a3/a3a40bd6148eabb2929901039d0ee35c86eaf30fe036de16f621edf736116b89/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12393,
+    "sha256": "sha256:cbbc7086449551be2c5b4a9a573b961661f9e68d07b70c7a080b5dfd425ca620",
+    "normalized_content_hash": "sha256:449e1131f30dd28f85015599485bd188d9a7579ee64b9863917206fe887da360"
+  },
+  "provenance": {
+    "source_item_id": "470e3d76-ada8-48c6-871b-fef3c8375de8",
+    "external_id": "https://www.influxdata.com/blog/influxdb-3-mcp-server-v1-3/"
+  }
+}

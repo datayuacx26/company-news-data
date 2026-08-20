@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1f0eae9493d594331a67aeed21e306e5f0848f150ee22f87d5e7e3b76641595",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/the-pii-testing-dilemma/",
+    "canonical": "https://speedscale.com/blog/the-pii-testing-dilemma/"
+  },
+  "title": "The PII Testing Dilemma",
+  "summary": "Software is hard to test when production data contains PII and AI systems are causing an explosion in bugs.",
+  "published_at": "2026-01-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:23:16.767603+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/01/b1/b1f0eae9493d594331a67aeed21e306e5f0848f150ee22f87d5e7e3b76641595/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/01/b1/b1f0eae9493d594331a67aeed21e306e5f0848f150ee22f87d5e7e3b76641595/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8517,
+    "sha256": "sha256:92484f868348311ee6d613f609e3fcff6aeb8de95ab3ce69a1da7d9c7df5484a",
+    "normalized_content_hash": "sha256:b1b155f16910df6ab35c3c8da75e9cfa27226ed086b2eb8d456aa4cfafbebb38"
+  },
+  "provenance": {
+    "source_item_id": "5e9686b8-af77-43d8-b61e-a465f8b88975",
+    "external_id": "https://speedscale.com/blog/the-pii-testing-dilemma/"
+  }
+}

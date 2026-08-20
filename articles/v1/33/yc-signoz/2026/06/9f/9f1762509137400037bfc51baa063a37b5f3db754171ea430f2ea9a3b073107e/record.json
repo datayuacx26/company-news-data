@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f1762509137400037bfc51baa063a37b5f3db754171ea430f2ea9a3b073107e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/alien-intelligence-ai-sre-workflow-signoz",
+    "canonical": "https://signoz.io/blog/alien-intelligence-ai-sre-workflow-signoz"
+  },
+  "title": "How Alien Intelligence Built an AI SRE Workflow with SigNoz",
+  "summary": "A case study of how Alien Intelligence built an AI SRE workflow on SigNoz to triage alerts, reduce noise, and keep humans in the loop.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-28T21:12:49.132432+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/9f/9f1762509137400037bfc51baa063a37b5f3db754171ea430f2ea9a3b073107e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/9f/9f1762509137400037bfc51baa063a37b5f3db754171ea430f2ea9a3b073107e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20398,
+    "sha256": "sha256:fecc9877c3e87aa40a76f33b19aeb50d6274e8f0cfe69d6760f2a0ab6099345f",
+    "normalized_content_hash": "sha256:8e025ba58af02a88ba80f021e8dbb89315c20854d463b59b6870b13264e76a18"
+  },
+  "provenance": {
+    "source_item_id": "00c1ebaf-983b-4233-a2c6-9de4a3458391",
+    "external_id": "https://signoz.io/blog/alien-intelligence-ai-sre-workflow-signoz"
+  }
+}

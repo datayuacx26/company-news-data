@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d494326094d94d8e9866d698ab01271bd067f2ab72dea1eb5ae6bd3160302ea",
+  "company": {
+    "key": "precipio-inc-common-stock",
+    "name": "Precipio Inc."
+  },
+  "source": {
+    "id": "precipio-inc-common-stock-news-import-621bca641785",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.precipiodx.com/precipio-identifies-unauthorized-access-to-isolated-storage-no-operational-impact/",
+    "canonical": "https://www.precipiodx.com/precipio-identifies-unauthorized-access-to-isolated-storage-no-operational-impact/"
+  },
+  "title": "Precipio Identifies Unauthorized Access to Isolated Storage; No Operational Impact",
+  "summary": "NEW HAVEN, CT, (December 4, 2025) – Precipio, Inc. reports that the Company recently identified a single, limited scope unauthorized access to a specific data folder stored within its secure cloud file environment. The incident was limited to its file storage server and did not impact any of Precipio’s operations, diagnostics processes, or customer services, and [...]",
+  "published_at": "2025-12-04T13:19:01+00:00",
+  "first_seen_at": "2026-07-23T21:27:55.759788+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-19T17:08:53.869883+00:00",
+  "paths": {
+    "article": "articles/v1/3d/precipio-inc-common-stock/2025/12/3d/3d494326094d94d8e9866d698ab01271bd067f2ab72dea1eb5ae6bd3160302ea/article.md",
+    "record": "articles/v1/3d/precipio-inc-common-stock/2025/12/3d/3d494326094d94d8e9866d698ab01271bd067f2ab72dea1eb5ae6bd3160302ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7609,
+    "sha256": "sha256:3d733004731dbfdb06adfacf881e40f36a76d3e4e91e2180cd48848bc360ba77",
+    "normalized_content_hash": "sha256:238590ef625193e5d40a52c75e5e5102ed536bdb5753c2684637a5a838d5f7cf"
+  },
+  "provenance": {
+    "source_item_id": "8c478609-3590-4aff-8f3a-1edfbb8a9030",
+    "external_id": "https://www.precipiodx.com/precipio-identifies-unauthorized-access-to-isolated-storage-no-operational-impact/"
+  }
+}

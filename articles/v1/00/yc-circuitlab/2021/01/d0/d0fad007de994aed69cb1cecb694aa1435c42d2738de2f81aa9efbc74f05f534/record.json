@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d0fad007de994aed69cb1cecb694aa1435c42d2738de2f81aa9efbc74f05f534",
+  "company": {
+    "key": "yc-circuitlab",
+    "name": "CircuitLab"
+  },
+  "source": {
+    "id": "yc-circuitlab-rss-d25759254652",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.circuitlab.com/blog/2021/01/27/live-dc-simulation/",
+    "canonical": "https://www.circuitlab.com/blog/2021/01/27/live-dc-simulation/"
+  },
+  "title": "Live DC Simulation!",
+  "summary": "comment » We're happy to announce a new feature that will make playing with your circuits easier and faster. The new feature we're calling Live DC Simulation continuously watches for changes in your circuit and runs a DC Simulation in the background, much like the universe would do for you in real life. This allows you to hover your mouse over wires, elements, and element terminals and see their values in real time as you change your circuit. Mouse over wires and node names to see the voltage at that node: Mouse over element endpoints to see currents flowing into those terminals: Some circuit elements have custom useful information when you mouse over them. BJTs, for example, will show you the relative terminal voltages like Vbe and Vce, as well as currents Ib, Ic, and Ie: The new DC Solve Status Indicator at the bottom right of the CircuitLab window lets you know the current state of the Live DC Solver. The indicator will have one of three states: Green means your circuit is valid and live mouse-over values are available. Yellow indicates your circuit was too complex to solve in real time, but you can still go to the Simulate tab to simulate your circuit. Red means your circuit failed to simulate. This means your circuit is invalid: often it means you are missing a ground node, or you have unconnected elements. The Live DC Solve feature is a powerful tool to quickly probe your circuit and gain insight into what is going on at DC. Note that this idea only makes sense for steady state DC. If you wish to investigate the transient behavior of your circuit, you still need to think of the conditions you wish to explore, and set those in the Time Domain Simulation tab.",
+  "published_at": "2021-01-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T22:19:16.775475+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T02:37:02.874202+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-circuitlab/2021/01/d0/d0fad007de994aed69cb1cecb694aa1435c42d2738de2f81aa9efbc74f05f534/article.md",
+    "record": "articles/v1/00/yc-circuitlab/2021/01/d0/d0fad007de994aed69cb1cecb694aa1435c42d2738de2f81aa9efbc74f05f534/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7711,
+    "sha256": "sha256:aec91c533b4fcdce8dc24203c6d58ddd819e73f2e61b28104ee3d02db8893e7a",
+    "normalized_content_hash": "sha256:6c767d009a9e3c65350209d8dbac2529bf103ec4fb1cf8c08c08bc7854437b8c"
+  },
+  "provenance": {
+    "source_item_id": "a7bb1846-1e33-43a2-9f71-9213d915bd86",
+    "external_id": "https://www.circuitlab.com/blog/2021/01/27/live-dc-simulation/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7fc27f3dd8db5f0b9c2ade9200d40f953707f69b91082f13498a4479fe64701",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/target-teacher-appreciation",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/target-teacher-appreciation"
+  },
+  "title": "Local Target Teams Deliver Appreciation to Teachers in Communities Nationwide",
+  "summary": "Target is celebrating teachers in local communities with appreciation packages during Teacher Appreciation Week and showing gratitude nationwide throughout the year with special discounts.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:44:45.479848+00:00",
+  "last_updated_at": "2026-08-11T05:30:33.351303+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/c7/c7fc27f3dd8db5f0b9c2ade9200d40f953707f69b91082f13498a4479fe64701/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/c7/c7fc27f3dd8db5f0b9c2ade9200d40f953707f69b91082f13498a4479fe64701/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3797,
+    "sha256": "sha256:cef835a60a353548a7944e5a8fbaa639530a8b46132a635a1d90993ad737f1b7",
+    "normalized_content_hash": "sha256:52db16debac34bc114c7fe71ca596f0e4016c3e86b477f66bf230250231c2966"
+  },
+  "provenance": {
+    "source_item_id": "20a6d19d-a339-4173-b3ea-dd8783de1c44",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/target-teacher-appreciation"
+  }
+}

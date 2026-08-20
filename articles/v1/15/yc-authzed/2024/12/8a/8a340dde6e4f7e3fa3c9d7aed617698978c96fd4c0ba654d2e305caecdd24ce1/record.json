@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a340dde6e4f7e3fa3c9d7aed617698978c96fd4c0ba654d2e305caecdd24ce1",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/fine-grained-authorization-using-spicedb-for-retrieval-augmented-generation-rag",
+    "canonical": "https://authzed.com/blog/fine-grained-authorization-using-spicedb-for-retrieval-augmented-generation-rag"
+  },
+  "title": "Fine Grained Authorization using SpiceDB for Retrieval Augmented Generation (RAG)",
+  "summary": "Want to build enterprise-ready AI that respects data access permissions? Learn how Relationship-based Access Control (ReBAC) provides superior security for Retrieval-Augmented Generation (RAG) systems by enabling pre-filtered queries and granular access control through relationship-based access controls. Read on to discover why ReBAC outperforms traditional authorization models for AI applications.",
+  "published_at": "2024-12-04T06:41:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:59:48.691285+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2024/12/8a/8a340dde6e4f7e3fa3c9d7aed617698978c96fd4c0ba654d2e305caecdd24ce1/article.md",
+    "record": "articles/v1/15/yc-authzed/2024/12/8a/8a340dde6e4f7e3fa3c9d7aed617698978c96fd4c0ba654d2e305caecdd24ce1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22922,
+    "sha256": "sha256:da32130cb744e2205d71ca0072f327c1d0476812e3a6e9f0e231ea0fdc387351",
+    "normalized_content_hash": "sha256:077bc9af96e3a11ed89eee1e2f950cfb1e3ee7a43765572d6b54d22376440cc3"
+  },
+  "provenance": {
+    "source_item_id": "e271d904-7e63-427f-8494-61b94ac7b837",
+    "external_id": "https://authzed.com/blog/fine-grained-authorization-using-spicedb-for-retrieval-augmented-generation-rag"
+  }
+}

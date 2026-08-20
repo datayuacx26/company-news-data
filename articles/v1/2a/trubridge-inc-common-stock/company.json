@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "trubridge-inc-common-stock",
+    "name": "TruBridge Inc."
+  },
+  "record_count": 30,
+  "first_published_at": "2026-02-04T06:00:00+00:00",
+  "last_published_at": "2026-02-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 26
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2a/trubridge-inc-common-stock/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 32650,
+        "sha256": "sha256:dcc96375d6eb4ddbe8d2430730a1199629699049a7fa589447665c1474c321d3",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2026-02-04T06:00:00+00:00"
+      }
+    ]
+  }
+}

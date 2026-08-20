@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3323d5f1b6e398078f20304e7f5f2ef2a01cebc28bdfa317ebacd4b5f3f525be",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-context-propagation",
+    "canonical": "https://signoz.io/blog/opentelemetry-context-propagation"
+  },
+  "title": "An overview of Context Propagation in OpenTelemetry",
+  "summary": "OpenTelemetry context propagation: how propagators, W3C Trace Context, and baggage carry trace context across services. Setup and examples for SigNoz.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.202002+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/33/3323d5f1b6e398078f20304e7f5f2ef2a01cebc28bdfa317ebacd4b5f3f525be/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/33/3323d5f1b6e398078f20304e7f5f2ef2a01cebc28bdfa317ebacd4b5f3f525be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12287,
+    "sha256": "sha256:ca644db86b4f9089671463707aacb0ee89db8c8e78121c7ada8d5221c09e759a",
+    "normalized_content_hash": "sha256:15068f1f075ca89adb2d065776ceeb6d64ffc07e81325e46ebcb6641738c4720"
+  },
+  "provenance": {
+    "source_item_id": "4c85232b-aa52-4727-a41e-1f42afde0236",
+    "external_id": "https://signoz.io/blog/opentelemetry-context-propagation"
+  }
+}

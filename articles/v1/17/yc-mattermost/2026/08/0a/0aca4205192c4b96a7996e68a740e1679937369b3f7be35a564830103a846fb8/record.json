@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0aca4205192c4b96a7996e68a740e1679937369b3f7be35a564830103a846fb8",
+  "company": {
+    "key": "yc-mattermost",
+    "name": "Mattermost"
+  },
+  "source": {
+    "id": "yc-mattermost-rss-3d807a20d23e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mattermost.com/blog/mattermost-v11-10-is-now-available/",
+    "canonical": "https://mattermost.com/blog/mattermost-v11-10-is-now-available/"
+  },
+  "title": "Mattermost v11.10: Team ABAC Membership, Native User Attributes in ABAC, AI Agent Enhancements & More",
+  "summary": "Mattermost v11.10 gives security admins tighter, faster control over who accesses what. ABAC governance now reaches team-level membership and native user attributes let admins write policies without any extra integration work. AI agents get more capable and reliable, too, with dynamic tool calling, on-demand file context, and automatic fallback if a model goes down. The ...Read More",
+  "published_at": "2026-08-14T13:00:00+00:00",
+  "first_seen_at": "2026-08-14T15:12:54.445281+00:00",
+  "fetched_at": "2026-08-14T15:12:56.294758+00:00",
+  "last_updated_at": "2026-08-20T02:45:42.683063+00:00",
+  "paths": {
+    "article": "articles/v1/17/yc-mattermost/2026/08/0a/0aca4205192c4b96a7996e68a740e1679937369b3f7be35a564830103a846fb8/article.md",
+    "record": "articles/v1/17/yc-mattermost/2026/08/0a/0aca4205192c4b96a7996e68a740e1679937369b3f7be35a564830103a846fb8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12759,
+    "sha256": "sha256:002f4419e87dd72fef2d234d7492ae8d47402a90519fa66e9339add0cc6221d4",
+    "normalized_content_hash": "sha256:ccbbd9283b19dbc4033028f820346890e5b19c10e0223b59a50dc34fffe0a084"
+  },
+  "provenance": {
+    "source_item_id": "c2edcd74-baeb-4b48-82ed-6e2569d47f51",
+    "external_id": "https://mattermost.com/?p=58727"
+  }
+}

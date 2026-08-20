@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c804d0b9fa15509d24515723dd5d4c05d2ca488bbe274288b205eadae68e9a71",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/improving-posthog-deployments",
+    "canonical": "https://posthog.com/blog/improving-posthog-deployments"
+  },
+  "title": "How we’re making PostHog deployments easier",
+  "summary": "When PostHog was born in 2020, it was a simple Python application (Django + Celery) backed by a PostgreSQL datastore. Troubleshooting was easy, while…",
+  "published_at": "2022-03-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2022/03/c8/c804d0b9fa15509d24515723dd5d4c05d2ca488bbe274288b205eadae68e9a71/article.md",
+    "record": "articles/v1/0e/yc-posthog/2022/03/c8/c804d0b9fa15509d24515723dd5d4c05d2ca488bbe274288b205eadae68e9a71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9284,
+    "sha256": "sha256:a766d0f35427514d036fd480f3047d37e2f24ba93684a4b03beb80cbb0987414",
+    "normalized_content_hash": "sha256:eb25fb4bb84b20defbfcbae9f283378ac6ceec81d4b707a4bd9fd66c1afb4659"
+  },
+  "provenance": {
+    "source_item_id": "3a0f7366-457b-41a3-a3ba-20c1bb173396",
+    "external_id": "f3edf84f-ff08-5af3-a445-a57140923017"
+  }
+}

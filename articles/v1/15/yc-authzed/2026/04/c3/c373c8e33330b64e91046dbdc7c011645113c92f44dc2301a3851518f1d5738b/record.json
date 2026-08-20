@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c373c8e33330b64e91046dbdc7c011645113c92f44dc2301a3851518f1d5738b",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents",
+    "canonical": "https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents"
+  },
+  "title": "Introducing SpiceBox and spicedb-dev",
+  "summary": "AI coding agents need better permissions, and so does the code they write. SpiceBox enforces fine-grained permissions on AI coding agents using SpiceDB, while spicedb-dev gives agents the authorization context they need to generate code with proper access control from the start. Both are open source.",
+  "published_at": "2026-04-08T14:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:52:48.201959+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2026/04/c3/c373c8e33330b64e91046dbdc7c011645113c92f44dc2301a3851518f1d5738b/article.md",
+    "record": "articles/v1/15/yc-authzed/2026/04/c3/c373c8e33330b64e91046dbdc7c011645113c92f44dc2301a3851518f1d5738b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12560,
+    "sha256": "sha256:79ce81ed2e3b474d251eafbb0689ccc716232b12b9d135bc9711ebf80c282f11",
+    "normalized_content_hash": "sha256:5e7e2bf56b681139accef3ea10516cb685fcd9ffccb1d74fbe04e93088128f94"
+  },
+  "provenance": {
+    "source_item_id": "fdacd613-2600-4022-b5ae-db4f89711d63",
+    "external_id": "https://authzed.com/blog/spicedb-dev-and-spicebox-add-permissions-for-ai-coding-agents"
+  }
+}

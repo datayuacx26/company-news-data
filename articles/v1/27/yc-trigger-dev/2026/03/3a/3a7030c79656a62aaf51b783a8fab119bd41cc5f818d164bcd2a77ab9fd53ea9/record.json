@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a7030c79656a62aaf51b783a8fab119bd41cc5f818d164bcd2a77ab9fd53ea9",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/firebun",
+    "canonical": "https://trigger.dev/blog/firebun"
+  },
+  "title": "Why we replaced Node.js with Bun for 5x throughput",
+  "summary": "How we took our warm start service from 2,099 req/s on Node + SQLite to 10,700 req/s on a compiled Bun binary, and found a subtle memory leak that only exists in Bun's HTTP model.",
+  "published_at": "2026-03-27T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:13:09.827889+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2026/03/3a/3a7030c79656a62aaf51b783a8fab119bd41cc5f818d164bcd2a77ab9fd53ea9/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2026/03/3a/3a7030c79656a62aaf51b783a8fab119bd41cc5f818d164bcd2a77ab9fd53ea9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20265,
+    "sha256": "sha256:6c9f1ea3eed30fada6648e974a2ec9499c2e57f0cc8cd93a302aef9cd84aadfb",
+    "normalized_content_hash": "sha256:b51ef16c656018ec7b65d0680c6e00f1dd7b857edaaccbad3b4f32d629a60dc2"
+  },
+  "provenance": {
+    "source_item_id": "4a3c74e3-b360-452d-a66d-52b4aacd68b1",
+    "external_id": "https://trigger.dev/blog/firebun"
+  }
+}

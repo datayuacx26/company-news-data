@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89e26cf0a1798969d970c81dc63f79e2486f5542b2c7ecbb6e4939c08c73dbdc",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/scalable-feature-engineering-on-multimodal-datasets",
+    "canonical": "https://www.lancedb.com/blog/scalable-feature-engineering-on-multimodal-datasets"
+  },
+  "title": "Scalable Feature Engineering on Multimodal Datasets",
+  "summary": "How LanceDB uses the Lance format's flexible data evolution features to enable scalable feature engineering for multimodal datasets.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/06/89/89e26cf0a1798969d970c81dc63f79e2486f5542b2c7ecbb6e4939c08c73dbdc/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/06/89/89e26cf0a1798969d970c81dc63f79e2486f5542b2c7ecbb6e4939c08c73dbdc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25578,
+    "sha256": "sha256:547280839ed024687f907d4075b0a5ca507121bba29a17d2a98a8d636f23394c",
+    "normalized_content_hash": "sha256:22db76466eaca253bb1d3d7da73e72aec732a34e1149097bae01606f9ad756e8"
+  },
+  "provenance": {
+    "source_item_id": "062e10cf-d533-4009-a5b3-78398c40d089",
+    "external_id": "https://www.lancedb.com/blog/scalable-feature-engineering-on-multimodal-datasets"
+  }
+}

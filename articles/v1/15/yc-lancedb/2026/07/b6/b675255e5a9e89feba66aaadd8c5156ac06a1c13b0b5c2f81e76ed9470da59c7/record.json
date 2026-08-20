@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b675255e5a9e89feba66aaadd8c5156ac06a1c13b0b5c2f81e76ed9470da59c7",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/volcano-engine-autonomous-driving-data-lake-solution",
+    "canonical": "https://www.lancedb.com/blog/volcano-engine-autonomous-driving-data-lake-solution"
+  },
+  "title": "Volcano Engine LAS's Lance-Based PB-Scale Autonomous Driving Data Lake Solution",
+  "summary": "How Bytedance Volcano Engine LAS (Lake for AI Service) leverages Lance as the core storage format, rapidly constructing a next-gen AI data lake to efficiently store, manage, and process multimodal data (text, images, audio/video).",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T14:00:34.339937+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/b6/b675255e5a9e89feba66aaadd8c5156ac06a1c13b0b5c2f81e76ed9470da59c7/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/b6/b675255e5a9e89feba66aaadd8c5156ac06a1c13b0b5c2f81e76ed9470da59c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6583,
+    "sha256": "sha256:e163f762e53f76bce4bfd591126e1ebe920467172c8949e2f8dead4641cb9487",
+    "normalized_content_hash": "sha256:af51bfdb1b30344e3257b25480214691b126e5963040ac1dda9c183008c9d85e"
+  },
+  "provenance": {
+    "source_item_id": "eba403ea-c1ba-4220-99eb-79bbfb7772a8",
+    "external_id": "https://www.lancedb.com/blog/volcano-engine-autonomous-driving-data-lake-solution"
+  }
+}

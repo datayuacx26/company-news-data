@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d4ba792dcf79ddd798f14ea44336a2fc0d33984303ae070d16affb7859ea6b2",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-f76a50baf54b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/newsroom/articles/under-the-hood-the-identity-engine-behind-mclaren-racing-club/",
+    "canonical": "https://www.okta.com/newsroom/articles/under-the-hood-the-identity-engine-behind-mclaren-racing-club/"
+  },
+  "title": "Under the hood: The identity engine behind McLaren Racing Club",
+  "summary": "Auth0 provides the scalable identity foundation McLaren Racing Club needs to handle Grand Prix traffic spikes and secure partner access.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:05:39.149088+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-12T03:02:56.900517+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/6d/6d4ba792dcf79ddd798f14ea44336a2fc0d33984303ae070d16affb7859ea6b2/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/6d/6d4ba792dcf79ddd798f14ea44336a2fc0d33984303ae070d16affb7859ea6b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5432,
+    "sha256": "sha256:ceaa8e8ffe591fc68030b6c0e27f5219f140651632b24998814bd41c2fd2b5aa",
+    "normalized_content_hash": "sha256:eaebae0f6cdbc58351f36f802a98bea7fc5f0b22d5a7aceeeb9350257b34c0ce"
+  },
+  "provenance": {
+    "source_item_id": "88aaf94c-a31c-4508-9cba-82c05320134c",
+    "external_id": "https://www.okta.com/newsroom/articles/under-the-hood-the-identity-engine-behind-mclaren-racing-club/"
+  }
+}

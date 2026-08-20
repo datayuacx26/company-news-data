@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61240bd7389d6304eedaf85f5ec53368f644fc4ff89e905a4847116f9dc878a2",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-demo",
+    "canonical": "https://signoz.io/blog/opentelemetry-demo"
+  },
+  "title": "Understanding OpenTelemetry Demo: A Hands-on Guide",
+  "summary": "Set up the OpenTelemetry Demo (Astronomy Shop) with SigNoz, view the service map, and debug real failure scenarios across traces, metrics, and logs.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-07-28T22:07:34.595311+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/61/61240bd7389d6304eedaf85f5ec53368f644fc4ff89e905a4847116f9dc878a2/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/61/61240bd7389d6304eedaf85f5ec53368f644fc4ff89e905a4847116f9dc878a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21420,
+    "sha256": "sha256:f82487390861d1c81eb2fa13bdee9fcecd09f080a72f687b36f2eb1259885e43",
+    "normalized_content_hash": "sha256:d652e65db831d009ec3d3fa33bb26a3084dd29dc0d533b4cebb75d233aae156d"
+  },
+  "provenance": {
+    "source_item_id": "00de36b6-a096-4a2c-9c46-5232cecb2914",
+    "external_id": "https://signoz.io/blog/opentelemetry-demo"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4dbd6e38f8ebca2da1b737f9f8fd4acc3e4aea34b7947ad95a8b584e1fd7283",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-agent",
+    "canonical": "https://signoz.io/blog/opentelemetry-agent"
+  },
+  "title": "How Do OpenTelemetry Auto-Instrumentation Agents Work?",
+  "summary": "Understand what OpenTelemetry Auto-Instrumentation Agents are, how they work, and the best practices for instrumenting your applications",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/a4/a4dbd6e38f8ebca2da1b737f9f8fd4acc3e4aea34b7947ad95a8b584e1fd7283/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/a4/a4dbd6e38f8ebca2da1b737f9f8fd4acc3e4aea34b7947ad95a8b584e1fd7283/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13541,
+    "sha256": "sha256:ef23904f08210ef5b94877eb8f5ab5f8a5f80ffcb52f6c13555143a94f983814",
+    "normalized_content_hash": "sha256:f11429fd2165e9608d0363cc75fd4f9eca7df9a0fb71e3814e2c99c5478dd996"
+  },
+  "provenance": {
+    "source_item_id": "f94bff03-2947-48c9-b492-52e6996dbd6e",
+    "external_id": "https://signoz.io/blog/opentelemetry-agent"
+  }
+}

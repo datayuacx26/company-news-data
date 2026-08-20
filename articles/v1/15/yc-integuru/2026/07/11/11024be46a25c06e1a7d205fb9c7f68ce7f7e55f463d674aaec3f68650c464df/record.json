@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11024be46a25c06e1a7d205fb9c7f68ce7f7e55f463d674aaec3f68650c464df",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/high-throughput-api-integration",
+    "canonical": "https://www.integuru.com/blog/high-throughput-api-integration"
+  },
+  "title": "What Is High-Throughput API Integration? Scaling Beyond What RPA Can Handle",
+  "summary": "High-throughput API integration is an architecture designed to handle thousands of concurrent API calls within defined latency constraints; it requires a fundamentally different approach than browser automation or RPA. Here is what the math looks like,...",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T05:10:38.353575+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-11T07:19:50.453725+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/07/11/11024be46a25c06e1a7d205fb9c7f68ce7f7e55f463d674aaec3f68650c464df/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/07/11/11024be46a25c06e1a7d205fb9c7f68ce7f7e55f463d674aaec3f68650c464df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11004,
+    "sha256": "sha256:8f350b7e45cc8fb753f56559e199e63c8b85f1deb4e9147eb76db35b3678c5bd",
+    "normalized_content_hash": "sha256:47d3bf8c6aa4ad1119995879ee153ba8e6cde6db8944cdf9f73812491801933f"
+  },
+  "provenance": {
+    "source_item_id": "69b7a5ce-5754-4a20-bd5a-adfd04dff5df",
+    "external_id": "https://www.integuru.com/blog/high-throughput-api-integration"
+  }
+}

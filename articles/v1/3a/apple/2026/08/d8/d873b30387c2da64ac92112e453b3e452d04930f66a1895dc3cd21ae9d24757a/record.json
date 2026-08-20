@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d873b30387c2da64ac92112e453b3e452d04930f66a1895dc3cd21ae9d24757a",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
+    "canonical": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps"
+  },
+  "title": "Scaling Categorical Flow Maps",
+  "summary": "Continuous diffusion and flow matching models could represent a powerful alternative to autoregressive approaches for language modelling…",
+  "published_at": null,
+  "first_seen_at": "2026-08-08T03:56:15.906765+00:00",
+  "fetched_at": "2026-08-08T03:56:17.231059+00:00",
+  "last_updated_at": "2026-08-20T03:26:17.324945+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/08/d8/d873b30387c2da64ac92112e453b3e452d04930f66a1895dc3cd21ae9d24757a/article.md",
+    "record": "articles/v1/3a/apple/2026/08/d8/d873b30387c2da64ac92112e453b3e452d04930f66a1895dc3cd21ae9d24757a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2022,
+    "sha256": "sha256:35be3df7c43013ffb524f1faeed0905cfaaa3db6cfff9858aa0db8d65b3490cd",
+    "normalized_content_hash": "sha256:a1f7e6aed5a1b4017f60040e0f80e9357e4bd834670ce9ef002dd54905dd2b34"
+  },
+  "provenance": {
+    "source_item_id": "a48bd550-6678-4e98-849f-017143fa8741",
+    "external_id": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps"
+  }
+}

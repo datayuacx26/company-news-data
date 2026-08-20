@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4a34ab495334dc73fa12faf1aaddcfdccfc5e6de96bc43e3888fad893db5265",
+  "company": {
+    "key": "yc-cekura-ai",
+    "name": "Cekura"
+  },
+  "source": {
+    "id": "yc-cekura-ai-news-import-2109cda3ccd2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cekura.ai/blogs/how-we-built-an-autoscalable-infrastructure-for-voice-ai-agents",
+    "canonical": "https://www.cekura.ai/blogs/how-we-built-an-autoscalable-infrastructure-for-voice-ai-agents"
+  },
+  "title": "How We Built an Autoscalable Infrastructure for Voice AI Agents",
+  "summary": "Learn how Cekura built a custom autoscaling engine using Redis, Celery, and AWS ECS to handle unpredictable spikes, enforce multi-tenant fairness, and scale from one to hundreds of workers.",
+  "published_at": "2026-02-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:11:51.123297+00:00",
+  "fetched_at": "2026-07-28T22:19:30.840186+00:00",
+  "last_updated_at": "2026-07-29T12:29:54.713428+00:00",
+  "paths": {
+    "article": "articles/v1/16/yc-cekura-ai/2026/02/c4/c4a34ab495334dc73fa12faf1aaddcfdccfc5e6de96bc43e3888fad893db5265/article.md",
+    "record": "articles/v1/16/yc-cekura-ai/2026/02/c4/c4a34ab495334dc73fa12faf1aaddcfdccfc5e6de96bc43e3888fad893db5265/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8559,
+    "sha256": "sha256:6ea7e36ce93671564889e67fe1d8e3931e1794639e9a9de4a68ad48dd92a6cdd",
+    "normalized_content_hash": "sha256:d0c792bf79e035f2ef76a2688d092fe8eb1a2c5442c4ea1c61fc284561af57fb"
+  },
+  "provenance": {
+    "source_item_id": "5a197cef-e1fe-48e7-bd33-ed9a90e07626",
+    "external_id": "https://www.cekura.ai/blogs/how-we-built-an-autoscalable-infrastructure-for-voice-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6dea73600090405839c896411347b8538e71930010ef39591d063ca02afcb988",
+  "company": {
+    "key": "yc-onyx",
+    "name": "Onyx"
+  },
+  "source": {
+    "id": "yc-onyx-news-import-2a3a6e22cda1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://onyx.app/blog/retrieval-corpus-scaling",
+    "canonical": "https://onyx.app/blog/retrieval-corpus-scaling"
+  },
+  "title": "Intrinsic Knowledge Retrieval Scaling Challenge",
+  "summary": "A study of the impact of corpus scaling on semantic and BM25 retrieval.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:58:53.878122+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-19T22:20:21.248043+00:00",
+  "paths": {
+    "article": "articles/v1/3a/yc-onyx/2026/06/6d/6dea73600090405839c896411347b8538e71930010ef39591d063ca02afcb988/article.md",
+    "record": "articles/v1/3a/yc-onyx/2026/06/6d/6dea73600090405839c896411347b8538e71930010ef39591d063ca02afcb988/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 46615,
+    "sha256": "sha256:b48f3823f9c3dc5633ef25cf849fdeb30fb10741f9a54bb8601dd48dc9998057",
+    "normalized_content_hash": "sha256:ec79d9c2fd372e27d521aad67ca0744b119d5908c4d9473e923f0474a3fb8c4a"
+  },
+  "provenance": {
+    "source_item_id": "ef305fc0-afc5-4490-86b4-025afd29f827",
+    "external_id": "https://onyx.app/blog/retrieval-corpus-scaling"
+  }
+}

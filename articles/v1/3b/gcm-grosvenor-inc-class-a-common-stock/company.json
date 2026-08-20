@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gcm-grosvenor-inc-class-a-common-stock",
+    "name": "GCM Grosvenor Inc."
+  },
+  "record_count": 14,
+  "first_published_at": "2026-05-18T15:06:36+00:00",
+  "last_published_at": "2026-08-10T07:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3b/gcm-grosvenor-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 17243,
+        "sha256": "sha256:757dbd3b90c059ffd996a05060972cbbf7372e077eeb73f0c77fa5d16db6363b",
+        "newest_at": "2026-08-10T07:30:00+00:00",
+        "oldest_at": "2026-05-18T15:06:36+00:00"
+      }
+    ]
+  }
+}

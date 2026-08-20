@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c274d68d25d81732ab0fadecded6b1b9e85df7ece09d357646694c07fb49c23",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/",
+    "canonical": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/"
+  },
+  "title": "Apple scores record 89 Emmy Award nominations",
+  "summary": "Apple scored a historic 89 nominations across 15 programs for the 78th Primetime Emmy Awards.",
+  "published_at": "2026-07-09T00:42:00.573+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.179592+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-20T01:48:18.088383+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/3c/3c274d68d25d81732ab0fadecded6b1b9e85df7ece09d357646694c07fb49c23/article.md",
+    "record": "articles/v1/3a/apple/2026/07/3c/3c274d68d25d81732ab0fadecded6b1b9e85df7ece09d357646694c07fb49c23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23392,
+    "sha256": "sha256:808928a41018082b2518f0f852d03dd6601804a30bbaf3297df46b0f4e731ce4",
+    "normalized_content_hash": "sha256:8ec91eaffc1baf37796bd637393497a44a5a181a1a3b1fc650e50a6142ef029a"
+  },
+  "provenance": {
+    "source_item_id": "56415239-3e3b-4af6-89ad-61a13b83996c",
+    "external_id": "https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/"
+  }
+}

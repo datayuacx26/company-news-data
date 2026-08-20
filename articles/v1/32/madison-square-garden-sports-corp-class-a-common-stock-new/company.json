@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "madison-square-garden-sports-corp-class-a-common-stock-new",
+    "name": "Madison Square Garden Sports Corp."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-05-01T20:30:00+00:00",
+  "last_published_at": "2026-08-14T21:16:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/32/madison-square-garden-sports-corp-class-a-common-stock-new/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 16132,
+        "sha256": "sha256:3e02a4080e0f20329235c1b3e7b29f6513c4890f537cee58fa531de56b2b5cad",
+        "newest_at": "2026-08-14T21:16:00+00:00",
+        "oldest_at": "2026-05-01T20:30:00+00:00"
+      }
+    ]
+  }
+}

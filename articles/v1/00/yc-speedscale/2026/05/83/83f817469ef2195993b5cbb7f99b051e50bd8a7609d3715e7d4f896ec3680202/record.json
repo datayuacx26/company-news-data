@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "83f817469ef2195993b5cbb7f99b051e50bd8a7609d3715e7d4f896ec3680202",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/proxymock-observability-with-nettap/",
+    "canonical": "https://speedscale.com/blog/proxymock-observability-with-nettap/"
+  },
+  "title": "The Kubeshark Workflow That Doesn't Stop at the Dashboard",
+  "summary": "A Kubeshark alternative that goes beyond observability. Stream live cluster traffic into proxymock, then replay or mock it locally from your laptop.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/05/83/83f817469ef2195993b5cbb7f99b051e50bd8a7609d3715e7d4f896ec3680202/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/05/83/83f817469ef2195993b5cbb7f99b051e50bd8a7609d3715e7d4f896ec3680202/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15841,
+    "sha256": "sha256:b37214b09f7399af3ab29abb974dee6eaf51ae159b83cb3dae81500c77bb6d34",
+    "normalized_content_hash": "sha256:a6149bd29e707425c35a433996ab5fc638b0ef4c4ca5b49bcc49f02aa04acf4b"
+  },
+  "provenance": {
+    "source_item_id": "d5123ede-5d98-4f3b-bd5d-a9cc9a21cb44",
+    "external_id": "https://speedscale.com/blog/proxymock-observability-with-nettap/"
+  }
+}

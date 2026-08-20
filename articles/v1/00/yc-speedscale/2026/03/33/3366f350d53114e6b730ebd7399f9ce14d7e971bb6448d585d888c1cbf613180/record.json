@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3366f350d53114e6b730ebd7399f9ce14d7e971bb6448d585d888c1cbf613180",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/llm-simulation-missing-runtime-enterprise-ai-agents/",
+    "canonical": "https://speedscale.com/blog/llm-simulation-missing-runtime-enterprise-ai-agents/"
+  },
+  "title": "The Hidden AI Bill: Why Non-Prod LLM Costs Spiral",
+  "summary": "Production AI spend gets attention. Non-prod LLM calls in development, CI, and load tests often do not. Simulation fixes that.",
+  "published_at": "2026-03-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:18:23.526103+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/03/33/3366f350d53114e6b730ebd7399f9ce14d7e971bb6448d585d888c1cbf613180/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/03/33/3366f350d53114e6b730ebd7399f9ce14d7e971bb6448d585d888c1cbf613180/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10175,
+    "sha256": "sha256:940c0eaf12a77e22fe0c81a45827e1f7c862dbc45ea28ab25c4c230ec08b0ea7",
+    "normalized_content_hash": "sha256:421698402c34c1c2c188936f843bba21197b1b302c518a3ac8e11d1761d5393d"
+  },
+  "provenance": {
+    "source_item_id": "b66eaab1-f61b-4f28-ab9d-0cf3f9cc052c",
+    "external_id": "https://speedscale.com/blog/llm-simulation-missing-runtime-enterprise-ai-agents/"
+  }
+}

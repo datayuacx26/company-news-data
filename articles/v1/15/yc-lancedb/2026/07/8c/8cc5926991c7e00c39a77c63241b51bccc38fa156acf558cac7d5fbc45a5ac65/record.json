@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8cc5926991c7e00c39a77c63241b51bccc38fa156acf558cac7d5fbc45a5ac65",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7",
+    "canonical": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7"
+  },
+  "title": "My SIMD Is Faster than Yours",
+  "summary": "An untold story about how we make LanceDB vector search fast. Get practical steps and examples from 'My SIMD is faster than Yours'.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:41.587652+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/8c/8cc5926991c7e00c39a77c63241b51bccc38fa156acf558cac7d5fbc45a5ac65/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/8c/8cc5926991c7e00c39a77c63241b51bccc38fa156acf558cac7d5fbc45a5ac65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13063,
+    "sha256": "sha256:733d2490940a7582c0c5376aca294df0b5c24cd982d7100f9e254dd34f76bdc2",
+    "normalized_content_hash": "sha256:b80b0eab18164e273cb36f423a376b7e05aae8aa1f4a58b121c6a3479b46acde"
+  },
+  "provenance": {
+    "source_item_id": "e54091c8-1b71-4e94-a0d8-0915081e961d",
+    "external_id": "https://www.lancedb.com/blog/my-simd-is-faster-than-yours-fb2989bf25e7"
+  }
+}

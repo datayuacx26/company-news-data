@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-markaz-technologies",
+    "name": "Markaz Technologies"
+  },
+  "record_count": 55,
+  "first_published_at": "2024-09-28T07:10:07+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 15
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0a/yc-markaz-technologies/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53718,
+        "sha256": "sha256:08c025bbaf689e5c9829d024688fc8f883095172bf7090e70b2f6e0f75bb1f37",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2024-10-31T10:11:52+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/0a/yc-markaz-technologies/index/pages/000002.json",
+        "record_count": 5,
+        "byte_count": 5312,
+        "sha256": "sha256:39f56710f40518e9c6da6ae18ba5d6c0b4d85a4a60604dc862186131e4e89573",
+        "newest_at": "2024-10-30T10:54:52+00:00",
+        "oldest_at": "2024-09-28T07:10:07+00:00"
+      }
+    ]
+  }
+}

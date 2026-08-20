@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee6accbe46524a2e647b4788499fea845ce9ec2352bf959bcaecf452deb7f1c1",
+  "company": {
+    "key": "yc-revyl",
+    "name": "Revyl"
+  },
+  "source": {
+    "id": "yc-revyl-news-import-bdee0e34c3b5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://revyl.com/blog/why-revyl-tests-by-sight/",
+    "canonical": "https://revyl.com/blog/why-revyl-tests-by-sight/"
+  },
+  "title": "Why Revyl Tests by Sight",
+  "summary": "Revyl grounds mobile tests on the rendered screen, not the accessibility tree. Here's why we went vision-only, where the tree falls short, and how the loop works.",
+  "published_at": "2026-06-23T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T21:41:44.227724+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T01:42:13.681967+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-revyl/2026/06/ee/ee6accbe46524a2e647b4788499fea845ce9ec2352bf959bcaecf452deb7f1c1/article.md",
+    "record": "articles/v1/01/yc-revyl/2026/06/ee/ee6accbe46524a2e647b4788499fea845ce9ec2352bf959bcaecf452deb7f1c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8666,
+    "sha256": "sha256:54a0ecf832d33340c0ec466e5d22cf4d7c14e31ffb51a93d96aec89a7c04241a",
+    "normalized_content_hash": "sha256:04d76b87d686eabdba6bdbded60600c2e7226dcc2f6e7f9eb60ad0fdf1ae3017"
+  },
+  "provenance": {
+    "source_item_id": "f2b9b47e-e1eb-456e-abb4-bb1b127ec241",
+    "external_id": "https://revyl.com/blog/why-revyl-tests-by-sight/"
+  }
+}

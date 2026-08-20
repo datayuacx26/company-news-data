@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "twilio-inc-class-a-common-stock",
+    "name": "Twilio Inc."
+  },
+  "record_count": 66,
+  "first_published_at": "2026-06-11T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 30
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 21
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1e/twilio-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56006,
+        "sha256": "sha256:7ee50ed12fc11b3333fc608ffd470b1e232c0500a83e329f10f6657ef818e7d5",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-07-07T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/1e/twilio-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 16,
+        "byte_count": 18111,
+        "sha256": "sha256:72daff9729d8f15c8765db8b3c1a90679d8825f15c1bfd9a46e62e099d90d28a",
+        "newest_at": "2026-07-01T00:00:00+00:00",
+        "oldest_at": "2026-06-11T00:00:00+00:00"
+      }
+    ]
+  }
+}

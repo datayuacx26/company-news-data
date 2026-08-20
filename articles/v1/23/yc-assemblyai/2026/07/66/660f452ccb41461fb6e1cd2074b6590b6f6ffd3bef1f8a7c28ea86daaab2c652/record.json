@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "660f452ccb41461fb6e1cd2074b6590b6f6ffd3bef1f8a7c28ea86daaab2c652",
+  "company": {
+    "key": "yc-assemblyai",
+    "name": "AssemblyAI"
+  },
+  "source": {
+    "id": "yc-assemblyai-news-import-c38147bde659",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.assemblyai.com/blog/decoding-strategies-how-llms-choose-the-next-word?ref=changelog.assemblyai.com",
+    "canonical": "https://www.assemblyai.com/blog/decoding-strategies-how-llms-choose-the-next-word"
+  },
+  "title": "Decoding Strategies: How LLMs Choose The Next Word",
+  "summary": "Large Language Models are trained to guess the next word. But when generating text, the combination of their probability estimates with algorithms known as decoding strategies is what determines how they actually choose words. Learn how decoding strategies work in this article.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T08:04:01.744114+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:12:32.479055+00:00",
+  "paths": {
+    "article": "articles/v1/23/yc-assemblyai/2026/07/66/660f452ccb41461fb6e1cd2074b6590b6f6ffd3bef1f8a7c28ea86daaab2c652/article.md",
+    "record": "articles/v1/23/yc-assemblyai/2026/07/66/660f452ccb41461fb6e1cd2074b6590b6f6ffd3bef1f8a7c28ea86daaab2c652/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28725,
+    "sha256": "sha256:40ca4cd48d3d7648c4644c2eddd2b45384792577e0bb41ccf95fc64a6f7905d5",
+    "normalized_content_hash": "sha256:f3904df12deeb7a49e3119ed263208e5abd68b8fd1ab1f2a8de567ccf9dd0bd2"
+  },
+  "provenance": {
+    "source_item_id": "facfc6b8-90bb-4193-9e0e-ecbbbf3d7c7c",
+    "external_id": "https://www.assemblyai.com/blog/decoding-strategies-how-llms-choose-the-next-word"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5bfc7a1c3a4e677d064a2f4034c522c18ecaaf40e3f4621d966c0d0e2da60c75",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/outposts/cloudflare-workers",
+    "canonical": "https://signoz.io/docs/integrations/outposts/cloudflare-workers"
+  },
+  "title": "Monitor Cloudflare Workers Traces and Logs with SigNoz",
+  "summary": "Ship traces and logs from Cloudflare Workers to SigNoz using native OTLP export. Configure destinations in Workers Observability. No code changes needed.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/5b/5bfc7a1c3a4e677d064a2f4034c522c18ecaaf40e3f4621d966c0d0e2da60c75/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/5b/5bfc7a1c3a4e677d064a2f4034c522c18ecaaf40e3f4621d966c0d0e2da60c75/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 716,
+    "sha256": "sha256:3b148db312342b935ea466fbbffe057de7adf0acf9e9324a28b43cae9bba00d6",
+    "normalized_content_hash": "sha256:6bf835bc277554be3351225c27d02d06151140f55f9e4c9483c98f248d998976"
+  },
+  "provenance": {
+    "source_item_id": "f3e7ff07-9624-418f-8234-f8d821ab0883",
+    "external_id": "https://signoz.io/docs/integrations/outposts/cloudflare-workers"
+  }
+}

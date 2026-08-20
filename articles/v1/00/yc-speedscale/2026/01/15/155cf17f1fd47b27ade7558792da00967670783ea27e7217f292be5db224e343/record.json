@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "155cf17f1fd47b27ade7558792da00967670783ea27e7217f292be5db224e343",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/kubernetes-load-testing-made-easy/",
+    "canonical": "https://speedscale.com/blog/kubernetes-load-testing-made-easy/"
+  },
+  "title": "Kubernetes Load Testing Made Easy with Speedscale",
+  "summary": "See how to get visibility into your Kubernetes workloads and run realistic load tests without writing YAML files or kubectl commands.",
+  "published_at": "2026-01-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/01/15/155cf17f1fd47b27ade7558792da00967670783ea27e7217f292be5db224e343/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/01/15/155cf17f1fd47b27ade7558792da00967670783ea27e7217f292be5db224e343/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5858,
+    "sha256": "sha256:e9d6439f82ba3df11d8fe3d2bd919e58a92bd4cb4e1d3b69ae9bfc0b6906352e",
+    "normalized_content_hash": "sha256:f4ceb7f0d0b68c9314e8dd202455eb91af401af606552b6613d61ac8b19f8cf7"
+  },
+  "provenance": {
+    "source_item_id": "7196ff61-6f8d-4e97-b7aa-f240586e0162",
+    "external_id": "https://speedscale.com/blog/kubernetes-load-testing-made-easy/"
+  }
+}

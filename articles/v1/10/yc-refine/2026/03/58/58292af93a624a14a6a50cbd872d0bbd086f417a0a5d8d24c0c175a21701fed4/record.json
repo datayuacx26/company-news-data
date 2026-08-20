@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "58292af93a624a14a6a50cbd872d0bbd086f417a0a5d8d24c0c175a21701fed4",
+  "company": {
+    "key": "yc-refine",
+    "name": "refine"
+  },
+  "source": {
+    "id": "yc-refine-news-import-5281f2a007d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://refine.dev/blog/avoid-vendor-lock-in/",
+    "canonical": "https://refine.dev/blog/avoid-vendor-lock-in/"
+  },
+  "title": "How to Avoid the Vendor Lock-in Trap in Modern Software Development",
+  "summary": "Learn what vendor lock-in is, why it's risky for growing teams, and how open-source tools and code ownership help you avoid long-term dependency.",
+  "published_at": "2026-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T11:12:37.276072+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-19T20:12:42.074328+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-refine/2026/03/58/58292af93a624a14a6a50cbd872d0bbd086f417a0a5d8d24c0c175a21701fed4/article.md",
+    "record": "articles/v1/10/yc-refine/2026/03/58/58292af93a624a14a6a50cbd872d0bbd086f417a0a5d8d24c0c175a21701fed4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13542,
+    "sha256": "sha256:7478da287844899fb7cc96dec8899bda8c25ac4ff730a26e71abdc778b2125fc",
+    "normalized_content_hash": "sha256:dba6590d33499ab44ee9bde1ad7946d5901f6b78196d5fe38266bd1c86b9db3c"
+  },
+  "provenance": {
+    "source_item_id": "0c1d6ddb-43da-489b-a6ef-4804f1b89ed0",
+    "external_id": "https://refine.dev/blog/avoid-vendor-lock-in/"
+  }
+}

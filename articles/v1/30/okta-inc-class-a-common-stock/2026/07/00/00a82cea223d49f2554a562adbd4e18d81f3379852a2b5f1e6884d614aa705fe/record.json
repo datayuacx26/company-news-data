@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "00a82cea223d49f2554a562adbd4e18d81f3379852a2b5f1e6884d614aa705fe",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-144d960cd8f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/blog/threat-intelligence/vishing-actors-target-microsoft-entra-passkey-enrollment-/",
+    "canonical": "https://www.okta.com/blog/threat-intelligence/vishing-actors-target-microsoft-entra-passkey-enrollment-/"
+  },
+  "title": "Vishing actors target Entra passkey enrollment",
+  "summary": "Okta Threat Intelligence has observed a phishing kit used to trick users into approving attacker registration of passkeys into a Microsoft Entra account.",
+  "published_at": "2026-07-04T16:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:05:37.626494+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:45.463344+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/00/00a82cea223d49f2554a562adbd4e18d81f3379852a2b5f1e6884d614aa705fe/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/07/00/00a82cea223d49f2554a562adbd4e18d81f3379852a2b5f1e6884d614aa705fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14255,
+    "sha256": "sha256:ca1ca4ed15da5ebe59fdf3cb33f415c14de3bdcf55d7c6f164c3f3d48c4709dd",
+    "normalized_content_hash": "sha256:cd8a9f36ac24b7dddd9a4c3e9f210fc439c3ddd9af2832de3a5011f81b03b9fa"
+  },
+  "provenance": {
+    "source_item_id": "e148e6fb-7aac-4f51-8562-b407b7b62c9a",
+    "external_id": "https://www.okta.com/blog/threat-intelligence/vishing-actors-target-microsoft-entra-passkey-enrollment-/"
+  }
+}

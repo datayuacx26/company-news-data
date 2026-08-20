@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50dcfef8fa720351e0cea684943cacd038b175520411a3fdb67b60e8244e73b6",
+  "company": {
+    "key": "yc-cekura-ai",
+    "name": "Cekura"
+  },
+  "source": {
+    "id": "yc-cekura-ai-news-import-2109cda3ccd2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cekura.ai/blogs/engineering-reliability-voice-ai-cicd-pipeline",
+    "canonical": "https://www.cekura.ai/blogs/engineering-reliability-voice-ai-cicd-pipeline"
+  },
+  "title": "Engineering Reliability: Why Your Voice AI Needs a CI/CD Pipeline",
+  "summary": "In Voice AI, small changes are dangerous. Learn how to build a production-grade CI/CD pipeline with unit tests, E2E infrastructure testing, and a production feedback loop that catches failures before they reach users.",
+  "published_at": "2026-04-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:11:51.123297+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-19T23:36:43.858061+00:00",
+  "paths": {
+    "article": "articles/v1/16/yc-cekura-ai/2026/04/50/50dcfef8fa720351e0cea684943cacd038b175520411a3fdb67b60e8244e73b6/article.md",
+    "record": "articles/v1/16/yc-cekura-ai/2026/04/50/50dcfef8fa720351e0cea684943cacd038b175520411a3fdb67b60e8244e73b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7353,
+    "sha256": "sha256:0de883259a257d41edbac35b7032de67e26e7e9dfaa316d23339da67079b59ce",
+    "normalized_content_hash": "sha256:8617b1c3464b2368097717c3f162b809340867379bdf1fb290af772d73c51755"
+  },
+  "provenance": {
+    "source_item_id": "2d074a18-266e-4786-b482-b8a7eefa12f9",
+    "external_id": "https://www.cekura.ai/blogs/engineering-reliability-voice-ai-cicd-pipeline"
+  }
+}

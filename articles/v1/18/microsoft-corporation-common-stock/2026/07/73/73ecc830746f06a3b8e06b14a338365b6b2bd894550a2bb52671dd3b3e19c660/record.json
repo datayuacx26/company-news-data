@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73ecc830746f06a3b8e06b14a338365b6b2bd894550a2bb52671dd3b3e19c660",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-rss-5eeb9d1ed7ff",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents/",
+    "canonical": "https://devblogs.microsoft.com/blog/dont-rewrite-your-cli-for-agents/"
+  },
+  "title": "Don’t rewrite your CLI for agents",
+  "summary": "There's advice making the rounds: replace your CLI args with a single --json payload so agents can use your tool more effectively. The thinking being,",
+  "published_at": "2026-07-07T13:52:06+00:00",
+  "first_seen_at": "2026-07-20T04:34:25.944233+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T03:15:43.483532+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/07/73/73ecc830746f06a3b8e06b14a338365b6b2bd894550a2bb52671dd3b3e19c660/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/07/73/73ecc830746f06a3b8e06b14a338365b6b2bd894550a2bb52671dd3b3e19c660/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12304,
+    "sha256": "sha256:3786dc29879ca7cc562219c36010396adde52a21e174b27fd1b8fd280cdb1399",
+    "normalized_content_hash": "sha256:00d996cc33d8513ebf38606ef764dfc88fdb15859416d7d816eb9effdfa98589"
+  },
+  "provenance": {
+    "source_item_id": "390f17a7-2dd2-4038-8291-325d83d4f31d",
+    "external_id": "https://devblogs.microsoft.com/?p=21961"
+  }
+}

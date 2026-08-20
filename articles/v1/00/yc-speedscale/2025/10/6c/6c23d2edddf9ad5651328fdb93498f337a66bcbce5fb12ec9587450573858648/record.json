@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6c23d2edddf9ad5651328fdb93498f337a66bcbce5fb12ec9587450573858648",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/how-to-build-a-traffic-capture-system/",
+    "canonical": "https://speedscale.com/blog/how-to-build-a-traffic-capture-system/"
+  },
+  "title": "Part 1: Building a Production-Grade Traffic Capture and Replay System",
+  "summary": "Learn how to build a production-grade traffic capture system using proxies, eBPF, and tcpdump.",
+  "published_at": "2025-10-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T20:55:41.466450+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2025/10/6c/6c23d2edddf9ad5651328fdb93498f337a66bcbce5fb12ec9587450573858648/article.md",
+    "record": "articles/v1/00/yc-speedscale/2025/10/6c/6c23d2edddf9ad5651328fdb93498f337a66bcbce5fb12ec9587450573858648/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24104,
+    "sha256": "sha256:af10c4b4d267ebf062a5cfe506d3e3c5769316a0aa8832885c9db3410f5d4c99",
+    "normalized_content_hash": "sha256:0c3faa63975f3b70a1e4bbcfb65e6eb5d957ff194b8d21164641b794857282f6"
+  },
+  "provenance": {
+    "source_item_id": "96b9dba7-f83f-439e-92f8-811a4ac01239",
+    "external_id": "https://speedscale.com/blog/how-to-build-a-traffic-capture-system/"
+  }
+}

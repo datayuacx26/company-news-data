@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca100bfa1b5e0ef87f3d89b6a342e0b7b9e17ca3041d5006df93378af373aa8e",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/08/new-stores-logan-utah",
+    "canonical": "https://corporate.target.com/news-features/article/2026/08/new-stores-logan-utah"
+  },
+  "title": "College Life Starts at Target in Logan, Utah",
+  "summary": "Target’s Logan store provides a new stage of growth for its community, team members and our business.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T13:44:05.438133+00:00",
+  "fetched_at": "2026-08-05T13:44:06.817244+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/08/ca/ca100bfa1b5e0ef87f3d89b6a342e0b7b9e17ca3041d5006df93378af373aa8e/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/08/ca/ca100bfa1b5e0ef87f3d89b6a342e0b7b9e17ca3041d5006df93378af373aa8e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8543,
+    "sha256": "sha256:424c5ef966ce85a08222ede1330a8045a5b3159d458c937f5b5ba8dc40cd07b6",
+    "normalized_content_hash": "sha256:777fe2a1e33ef3b7a18a0268973bf0e48dfdda7ed9b58efaa68212edb5b65d6f"
+  },
+  "provenance": {
+    "source_item_id": "d89d1672-c720-471f-bc42-db7119610a90",
+    "external_id": "https://corporate.target.com/news-features/article/2026/08/new-stores-logan-utah"
+  }
+}

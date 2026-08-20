@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "690cbdcc193030ff74efe9f8ed12f312a44ac86127023d06fa69dfce3fb312db",
+  "company": {
+    "key": "yc-activeloop",
+    "name": "Activeloop"
+  },
+  "source": {
+    "id": "yc-activeloop-news-import-11accf1de1c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deeplake.ai/blog/agent-sandbox",
+    "canonical": "https://deeplake.ai/blog/agent-sandbox"
+  },
+  "title": "Your Agents Are Drowning in Quicksand. Give Their Data a Sandbox.",
+  "summary": "Databases were built for applications. Deeplake is built for agents. A sandboxed, serverless Postgres instance that spins up with every agent, scales with the swarm, and dies when the job is done.",
+  "published_at": "2026-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T14:16:27.843975+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-08-19T22:18:41.863567+00:00",
+  "paths": {
+    "article": "articles/v1/30/yc-activeloop/2026/03/69/690cbdcc193030ff74efe9f8ed12f312a44ac86127023d06fa69dfce3fb312db/article.md",
+    "record": "articles/v1/30/yc-activeloop/2026/03/69/690cbdcc193030ff74efe9f8ed12f312a44ac86127023d06fa69dfce3fb312db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7235,
+    "sha256": "sha256:abcf38b4aa0057c5a9222a6f74b108cc75afeb7cc55ed5104aaf3d6444c7d20a",
+    "normalized_content_hash": "sha256:3d3ea4b476db6cc634046651124313b2a900dd8b21dd21eb65320f5358ef2aeb"
+  },
+  "provenance": {
+    "source_item_id": "16bb05c0-e2ae-42a2-923e-052aaaa7fff3",
+    "external_id": "https://deeplake.ai/blog/agent-sandbox"
+  }
+}

@@ -1,0 +1,142 @@
+---
+schema_version: "1.0.0"
+document_id: "3c48642ccb4b23446ff784f8b13c7f96dbf105d2bf6396bffa7186615a85e0c6"
+company_key: "yc-naturall-club"
+company: "NaturAll Club"
+source_id: "yc-naturall-club-atom-71589d2c7346"
+canonical_url: "https://naturallclub.com/blogs/the-naturall-club-blog/can-i-cut-my-own-natural-hair"
+published_at: "2021-08-25T19:11:35+00:00"
+first_seen_at: "2026-07-24T12:09:20.860655+00:00"
+fetched_at: "2026-07-28T21:04:47.382363+00:00"
+content_hash: "sha256:2869deffc6a945ae25daa01d43a0cec8b696188e0b711d547bb5959a20bc43e4"
+---
+
+# Can I Cut My Own Natural Hair?
+
+When it comes to naturals getting their hair cut, it can be a daunting experience for some. The worries of whether their stylist will understand their vision or if they’ll cut too much off are understandably present. Because of this, a lot of naturals take it upon themselves to cut their own hair themselves. Even then, cutting the hair at home can be just as worrisome as someone else doing it if you’ve ever attempted it before. When done correctly, cutting your hair at home can save you time and money that would go towards getting it done at a salon.
+
+
+Here, we’ll discuss how to safely and effectively cut your hair at home. Before we get into how to cut your hair, let’s go over why you would want to cut your hair and when you can tell your hair needs to be cut…
+
+
+## When to Cut Your Hair
+
+
+When referring to “cutting your hair”, we’re normally talking about cutting your hair into a shape or cutting it evenly all at the same length. It is important to distinguish it from just “trimming” the hair, which means you’re taking very minimal length off the hair.
+
+
+### Trimming
+
+
+Trimming the hair implies you are taking less than an inch (typically a quarter or half of an inch) from the hair. Removing such short amounts of hair is done in order to:
+
+
+1. Maintain the hair's shape: If your hair has already been cut into a particular shape or style (or grows in that way), you’ll need to remove some length from the hair as it grows out. If you allow the hair to grow in without any trimming, it will grow out of the desired shape and become uneven and choppy looking.
+
+
+Even if you’d like for your hair to grow longer in length while keeping the same shape, you’ll have to trim your hair to keep the shape's edge as your hair doesn’t grow all at equal lengths. This means that even if a section of your hair is at one length, it does not mean every hair in that section will grow out to the same length. Trimming will ensure every hair is in line to the shape you want without it looking uneven throughout the different sections.
+
+
+This also applies to if you want your hair at an even, unshaped, straight cut. Trimming will ensure your cut is completely even and every section is at the same length.
+
+
+2. Maintain the health of your hair: Since the hair grows from the scalp, the oldest parts of your hair are your ends, the parts that need trimming. Because they are the oldest part of the hair, they are the weakest part of the hair and easily damaged. In the process of styling your hair, washing it, or
+
+
+[putting it up and down for bed](https://naturallclub.com/blogs/the-naturall-club-blog/5-easy-hairstyles-for-sleeping-with-natural-hair) , your ends can go through some wear and tear. Trimming the hair is essential for maintaining the health of the hair; it allows the ends of the hair to remain healthy by removing any damage that could travel up the hair shaft. So
+
+
+[single strand knots](https://naturallclub.com/blogs/the-naturall-club-blog/how-to-prevent-single-strand-knots) ,
+
+
+[split ends](https://naturallclub.com/blogs/the-naturall-club-blog/everything-you-need-to-know-about-split-ends) , and
+
+
+[breakage](https://naturallclub.com/blogs/the-naturall-club-blog/10-ways-to-reduce-breakage) that occur on the ends of the hair need to be removed in order to reduce damage to the rest of the hair.
+
+
+When it comes to single strand knots, they need to be removed since they are practically impossible to untie (due to them being so small). If they aren’t removed, the hair right above the knot can become strained and weak. Leaving single strand knots also increases the chances of the strand looping around itself again to create another knot further up the strand. This leaves more hair needing to be removed, as the knots will continue to form up the length of the strand, moving towards the scalp.
+
+
+Split ends is also a damage that is irreversible, as you cannot bring (or mend) a hair shaft together after it’s been split. Because of this, the only way to remedy split ends is to cut them off. Doing so promptly is important as the split can move up the length of the strand. This, again, leads to more hair needing to be cut off if you don’t get rid of the split soon. Split ends can also weaken the hair above the split, so the hair can actually break off at a point even if the split hasn’t reached that part of the hair yet.
+
+
+Breakage can be caused by single strand knots and split ends, however it also can occur without the presence of any. Hair that has been consistently manipulated or dried out becomes weakened. Certain points on the hair strand can bend and lose elasticity due to over manipulation or dryness. When this occurs, the hair has lost its strength and will break off. When the hair breaks, it is highly likely that a split end will result at the point of breakage; it is hardly ever a clean break when your hair breaks off. Because of this, breakage leads to more damage and requires you to pay close attention to it. You want to make sure you’re looking at how your hair is shedding. If you notice small, short pieces falling out of your head (that haven’t fallen out from the root), then you are experiencing breakage and want to make sure you trim that hair to prevent split ends.
+
+
+Overall, trimming your hair will prevent you from having to cut off large amounts of your hair. This is because you are keeping up with your old, weak hair and getting rid of it before it breaks off or develops any other physical damage.
+
+
+### Cutting/Shaping
+
+
+Cutting your hair implies you are removing at least an inch or two from your hair in order to change the shape or length. Naturally, when cutting the hair you won’t have to worry about trimming it as well since your ends will be freshly cut. Removing more length from your hair can be done in order to:
+
+
+1. Shape/Change the shape of your hair: Whether your hair is at a straight, even length or has a shape you’d like to change, taking large amounts of hair off the ends will help you achieve your desired shape. When shaping your hair, you will need to pay close attention to the length your hair is in different sections and what length the hair in each section must be in order to get the shape you want. We’ll go over this in greater detail when going over how to cut the hair when shaping.
+
+
+2. Change the length of your hair: It may be an obvious point to make, but removing a large amount of your hair will naturally reduce it’s length. So when you want to shorten your hair, you will want to go above and beyond a trim.
+
+
+Now that we’ve gone over the difference between trimming and cutting, let’s get into how to cut your hair depending on your end goal…
+
+
+## How to Cut Your Natural Hair
+
+
+Here, we’ll go over how to cut your hair depending on if you’re looking to shape it or shorten it.
+
+
+### Should You Cut Your Hair While It’s Wet or Dry?
+
+
+There is a lot of debate over whether hair should be cut (or even trimmed) while it’s wet or dry. Most professionals advise those who are cutting their hair at home to do so while it’s dry. Because your hair is at its weakest when it’s wet, non-professionals take less risk while cutting dry hair than they do cutting wet hair in its weakened state.
+
+
+Cutting while your hair is wet or dry does garner different results. Cutting on wet hair allows for a clean, exact, sharp cut. You can clearly see how much hair you’re taking off and will be able to see how the cuts on your wet hair transform when the hair dries. Cutting on dry hair allows for you to make cuts that you know will be seen on your dry hair (since you’re cutting it on dry hair). There is no need to try and guess how the hair will look once it dries. This also means that shaping on dry hair is a little easier to do since you don’t have to visualize how the cuts will dry.
+
+
+Not cutting the hair carefully with the right tools can lead to split and jagged ends. Because of this, it is always recommended that you use salon/professional grade hair shears to trim or cut your hair. The blades on these scissors are extremely sharp and allow a clean cut without damaging the strands. You can find such scissors online or in a beauty supply store.
+
+
+Whether you decide to cut your hair while it’s wet or dry, make sure you’re doing so gently and slowly.
+
+
+### Shaping your hair
+
+
+When it comes to shaping your hair, it is important to have a clear vision of what you want. You also want to get a good idea of how your hair is already shaped and how it lays. This will allow you to know how you need to transform the shape into the one you want. Always remember that you can take more off as you go, so it’s better to take a little hair off at a time. It may help to think of shaping as a continuous trim, where you trim your hair little by little until the desired result is achieved.
+
+
+- Once you have the shape you want figured out, think about how you want to start and go about cutting. If you’re cutting your hair while wet, it may help to work section by section. If you’re cutting your hair dry, it may be better to cut your hair without separating it, moving along the edges of your hair with the scissors like you’re shaping the leaves of a bush.
+
+
+- If sectioning your hair while wet, you really have to be careful about how you’re cutting since you have to guess how the hair will lay once it dries. With each cut, make sure you’re pulling the hair taught and straight out from your scalp. Every cut you make should be at an angle; this is what creates shaping in the hair. The sharper the angle, the more height the layer will have. Sharp angles are good for those looking to create volume through layers.
+
+
+- If cutting while dry and sectioning your hair, you still want to pull the hair taught before making your angled cut. You also want to make sure your hair is detangled and as smooth as possible. This will allow for evenness throughout the sections.
+
+
+- If cutting your hair while dry without sectioning it, you’re shaping based on the shape it’s already in. You don’t have to pull the hair taught or cut at an angle since you are working in sections; you’re simply trimming off of the edges in order to create your desired shape. If you do pull out little clumps of hair, make sure to hold them taught and make a clean, careful cut. Randomly pulling little sections out like that can be fun to do, but may result in uneven cuts since you’re not using other sections as a reference.
+
+
+### Shortening your hair
+
+
+Shortening the hair is easier since you don’t have to worry about any shape; you’re simply taking length off. You may decide to shorten your hair and then shape it. If so, make sure to follow these steps first and then move on to shaping.
+
+
+- Decide on the length you want. If cutting while dry, make sure your hair is detangled and pulled straight. Whether you’re cutting the hair while dry or wet, you want to make sure to account for any shrinkage that will occur. You want to leave the hair a little longer than your desired length, depending on how much you know your hair to shrink up.
+
+
+- When making the cuts, you want them to be straight, not at an angle, so you know exactly how much you’re taking off in each section. This will allow you to keep your hair all at the same length without having to go back and make more cuts to correct any uneven parts. Pull the sections straight down so you’re ensuring they aren’t being cut at an angle.
+
+
+- Working in sections when taking length off isn’t as important since you’ll know the shorter pieces are the reference you need to work off of.
+
+
+- If you are taking a large amount of length off, you don’t have to cut off a little at a time. However, still remain conscious of shrinkage so you don’t end up with a shorter length than desired.
+
+
+We hope these tips help with your at home styling! Let us know if you regularly cut your own below!

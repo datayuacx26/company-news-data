@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "96462ec0ce7e67dbc7f13f96d9e47f90c3f758c6b66fbf1bb41b0e686d8a2af3",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/databricksjune2026",
+    "canonical": "https://replit.com/blog/databricksjune2026"
+  },
+  "title": "Replit | Databricks: Where fast app building meets granular data governance",
+  "summary": "Today, we're excited to announce two significant updates to the Replit and Databricks integration we launched in February: the user-to-machine (U2M) connector feature is now live, and the integration is now open for public preview sign-up. ICYMI: Our February announcement introduced our joint integration for enterprise teams: the ability to build applications in Replit and deploy them directly into Databricks with the inherent governance, security, and compliance controls your organization already has in place, without any extra overhead. That initial release was powered by a machine-to-machine (M2M) connector and today, the addition of user-to-machine (U2M) takes it a level further, unlocking a new class of applications that simply weren't possible before. Sensitive data has always been the hardest problem to solve in enterprise app development. Our newest U2M is how we're solving it. After a Replit application is built and deployed, Databricks is able to govern what each user can access based on Unity Catalog permissions on an individual user level without any separate builds or permission workarounds. This ensures that no users are granted access to data they wouldn’t normally be able to access. From M2M to U2M While M2M is powerful for company-wide tools with publicly sharable information, one of the drawbacks is that every user is granted access to the same view of the data.",
+  "published_at": "2026-06-10T21:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:34:32.089077+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-19T20:16:15.956370+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/06/96/96462ec0ce7e67dbc7f13f96d9e47f90c3f758c6b66fbf1bb41b0e686d8a2af3/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/06/96/96462ec0ce7e67dbc7f13f96d9e47f90c3f758c6b66fbf1bb41b0e686d8a2af3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5178,
+    "sha256": "sha256:d328a72998758e548ebe4d8c315ebf5abf4cfd949c156c698dc3033a6824a183",
+    "normalized_content_hash": "sha256:6c09ad846702569f6e4595fbeeadfa5961caafaea06d6cc96cecc19769497089"
+  },
+  "provenance": {
+    "source_item_id": "2a847636-f995-4784-a40c-ee6c1a3b5fed",
+    "external_id": "https://replit.com/blog/databricksjune2026"
+  }
+}

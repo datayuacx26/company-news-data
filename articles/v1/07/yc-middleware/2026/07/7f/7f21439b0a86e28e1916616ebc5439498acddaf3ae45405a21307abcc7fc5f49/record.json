@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f21439b0a86e28e1916616ebc5439498acddaf3ae45405a21307abcc7fc5f49",
+  "company": {
+    "key": "yc-middleware",
+    "name": "Middleware"
+  },
+  "source": {
+    "id": "yc-middleware-news-import-fe54c9028845",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://middleware.io/blog/ai-alerts-catch-memory-leak-before-outage/",
+    "canonical": "https://middleware.io/blog/ai-alerts-catch-memory-leak-before-outage/"
+  },
+  "title": "How AI-driven alerts caught a memory leak before it became an outage",
+  "summary": "A memory leak grew silently until an AI alert caught it before an outage. See how proactive observability cuts MTTR for Kubernetes and Docker teams.",
+  "published_at": "2026-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:20:55.832849+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-29T11:56:07.199057+00:00",
+  "paths": {
+    "article": "articles/v1/07/yc-middleware/2026/07/7f/7f21439b0a86e28e1916616ebc5439498acddaf3ae45405a21307abcc7fc5f49/article.md",
+    "record": "articles/v1/07/yc-middleware/2026/07/7f/7f21439b0a86e28e1916616ebc5439498acddaf3ae45405a21307abcc7fc5f49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17473,
+    "sha256": "sha256:c45a9594f34d2143dab88b1f0ce1ac862423641e302755146cd38b91854a45a1",
+    "normalized_content_hash": "sha256:7136ce78bd69cb318cab486f7791486911e06dfe2fdb6c36393b22781cb1d0a7"
+  },
+  "provenance": {
+    "source_item_id": "22217c6a-f4d2-4a78-b56a-19c14176bf65",
+    "external_id": "https://middleware.io/blog/ai-alerts-catch-memory-leak-before-outage/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa6204acc9affcdc98e22e2cf0cc786f4e37a335220bf57dfcf81ea23460e9de",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/tr-operation-asterix-crypto-fraud-vishing-phishing",
+    "canonical": "https://www.rapid7.com/blog/post/tr-operation-asterix-crypto-fraud-vishing-phishing"
+  },
+  "title": "Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline",
+  "summary": "Rapid7 Labs identified an exposed web directory on infrastructure used to support a cryptocurrency fraud operation. Raw phone-number datasets, phishing panels, voice-dialing scripts & more, alongside evidence that the operator relied on AI coding assistants throughout the campaign's development, together provide an unusual view into AI's impact on modern scams.",
+  "published_at": "2026-08-17T11:29:31+00:00",
+  "first_seen_at": "2026-08-17T14:36:47.829765+00:00",
+  "fetched_at": "2026-08-17T14:36:48.714338+00:00",
+  "last_updated_at": "2026-08-20T03:36:55.072704+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/08/fa/fa6204acc9affcdc98e22e2cf0cc786f4e37a335220bf57dfcf81ea23460e9de/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/08/fa/fa6204acc9affcdc98e22e2cf0cc786f4e37a335220bf57dfcf81ea23460e9de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 35339,
+    "sha256": "sha256:c1d9a42d77c0f38b2b086ec40dda0d362bb36c1983c5cb7a99d4c958664c2ec7",
+    "normalized_content_hash": "sha256:70d648ce3d9d18be23e8ace8e20d7f59641368c6f7d98c78ca5005d7825fbb51"
+  },
+  "provenance": {
+    "source_item_id": "1ef58b14-6e04-4af2-8db2-2a4f9d5f4cdf",
+    "external_id": "bltaa2a3fb749678dcb"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a065a3daf0553466a2859381958f65d2ae8b439938a6c771684903622c2f8949",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-nestjs",
+    "canonical": "https://signoz.io/blog/opentelemetry-nestjs"
+  },
+  "title": "OpenTelemetry NestJS Implementation Guide: Complete Setup for Production [2026]",
+  "summary": "Implement OpenTelemetry in NestJS applications with automatic instrumentation, distributed tracing, and production-ready config, plus troubleshooting tips.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:15:24.341015+00:00",
+  "last_updated_at": "2026-07-28T21:16:19.863417+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/a0/a065a3daf0553466a2859381958f65d2ae8b439938a6c771684903622c2f8949/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/a0/a065a3daf0553466a2859381958f65d2ae8b439938a6c771684903622c2f8949/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33418,
+    "sha256": "sha256:9758a7ad33dabcc7aeaca4040bb8060d87931edc358e8dda1f458a86897f8769",
+    "normalized_content_hash": "sha256:197031f8452f6bb8d14f9240a617a8f0204144c4e67ff749cb29fe1606fc260f"
+  },
+  "provenance": {
+    "source_item_id": "9f9a6fa2-dba8-474a-aa0b-560d0d5b3587",
+    "external_id": "https://signoz.io/blog/opentelemetry-nestjs"
+  }
+}

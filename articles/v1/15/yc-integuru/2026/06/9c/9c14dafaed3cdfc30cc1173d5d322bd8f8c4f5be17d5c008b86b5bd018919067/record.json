@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c14dafaed3cdfc30cc1173d5d322bd8f8c4f5be17d5c008b86b5bd018919067",
+  "company": {
+    "key": "yc-integuru",
+    "name": "Integuru"
+  },
+  "source": {
+    "id": "yc-integuru-news-import-ab81679661d6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.integuru.com/blog/ai-agents-web-platform-access",
+    "canonical": "https://www.integuru.com/blog/ai-agents-web-platform-access"
+  },
+  "title": "How AI Agents Access Web Platforms Without an Official API",
+  "summary": "AI agents have hard latency requirements: a tool call inside a live conversation must complete in 2–5 seconds. Browser-based tools fail that bar by a factor of 5–10x. This post explains why browser automation breaks at agent scale and how direct HTTP i...",
+  "published_at": "2026-06-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:14:53.521545+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:19.597786+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-integuru/2026/06/9c/9c14dafaed3cdfc30cc1173d5d322bd8f8c4f5be17d5c008b86b5bd018919067/article.md",
+    "record": "articles/v1/15/yc-integuru/2026/06/9c/9c14dafaed3cdfc30cc1173d5d322bd8f8c4f5be17d5c008b86b5bd018919067/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12564,
+    "sha256": "sha256:9a4ee35c94b1ee2c823f76bd059aab16a8eeb91e6d8328cf02cb80833190bcb7",
+    "normalized_content_hash": "sha256:a5bf4800a205c0a9fe8ccfb84d50b4dfcde64afaf68a8144424fde918a0831d1"
+  },
+  "provenance": {
+    "source_item_id": "9968b929-9d6e-47ee-94dc-18ccb7ae23e0",
+    "external_id": "https://www.integuru.com/blog/ai-agents-web-platform-access"
+  }
+}

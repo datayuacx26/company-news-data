@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "534b2f15ea95ac311709f7ed4347866b4068a753334c9ae283d10f6b5d4122fd",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/etr-cve-2026-58644-microsoft-sharepoint-server-unauthenticated-remote-code-execution-vulnerability-exploited-in-the-wild",
+    "canonical": "https://www.rapid7.com/blog/post/etr-cve-2026-58644-microsoft-sharepoint-server-unauthenticated-remote-code-execution-vulnerability-exploited-in-the-wild"
+  },
+  "title": "CVE-2026-58644: Microsoft SharePoint Server Unauthenticated Remote Code Execution Vulnerability Exploited in the Wild",
+  "summary": "On July 14, 2026, Microsoft published a security advisory addressing CVE-2026-58644, a critical remote code execution (RCE) vulnerability affecting on-premises Microsoft SharePoint Server deployments.",
+  "published_at": "2026-07-17T18:18:53+00:00",
+  "first_seen_at": "2026-07-20T23:19:41.599179+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-03T16:41:20.820651+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/53/534b2f15ea95ac311709f7ed4347866b4068a753334c9ae283d10f6b5d4122fd/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/53/534b2f15ea95ac311709f7ed4347866b4068a753334c9ae283d10f6b5d4122fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5005,
+    "sha256": "sha256:e96f615bef753a6fc90c421ffb1faf8cc0abbaac564cc695838312dadb8da37a",
+    "normalized_content_hash": "sha256:76c897bdbf3cc1fc2fa00449bbe77978f49d03a5dc27039c41b1de68ed935a33"
+  },
+  "provenance": {
+    "source_item_id": "641f5304-e8bf-4a0c-bb47-717b3dccb5b8",
+    "external_id": "blt6964e8d39440f50b"
+  }
+}

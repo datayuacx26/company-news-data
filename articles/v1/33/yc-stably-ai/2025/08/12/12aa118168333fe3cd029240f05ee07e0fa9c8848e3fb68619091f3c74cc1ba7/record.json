@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12aa118168333fe3cd029240f05ee07e0fa9c8848e3fb68619091f3c74cc1ba7",
+  "company": {
+    "key": "yc-stably-ai",
+    "name": "Stably AI"
+  },
+  "source": {
+    "id": "yc-stably-ai-news-import-4d9fcc9f146f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.stably.ai/blog/test-2fa-using-stably",
+    "canonical": "https://www.stably.ai/blog/test-2fa-using-stably"
+  },
+  "title": "Test 2FA Using Stably",
+  "summary": "2FA flows are critical—but traditionally painful to test. You need an inbox, you need to extract the OTP or magic link, and you need tests that can run cleanly in CI without flakiness. Stably makes this trivial.",
+  "published_at": "2025-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:44:25.851186+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T03:08:54.793852+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-stably-ai/2025/08/12/12aa118168333fe3cd029240f05ee07e0fa9c8848e3fb68619091f3c74cc1ba7/article.md",
+    "record": "articles/v1/33/yc-stably-ai/2025/08/12/12aa118168333fe3cd029240f05ee07e0fa9c8848e3fb68619091f3c74cc1ba7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2730,
+    "sha256": "sha256:590c69c8b6d69775c8db3bc948f2d437c18e77554acf3fd81026c034b5262053",
+    "normalized_content_hash": "sha256:36aadc46808c7ae1a4c21cf8dc3556e60a8ea9365e2a25ff9ce4bde88c31daf0"
+  },
+  "provenance": {
+    "source_item_id": "5a588c06-7bd0-46d6-be76-7c317d08e5ed",
+    "external_id": "https://www.stably.ai/blog/test-2fa-using-stably"
+  }
+}

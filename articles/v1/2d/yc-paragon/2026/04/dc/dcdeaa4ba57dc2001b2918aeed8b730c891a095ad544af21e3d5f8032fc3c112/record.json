@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dcdeaa4ba57dc2001b2918aeed8b730c891a095ad544af21e3d5f8032fc3c112",
+  "company": {
+    "key": "yc-paragon",
+    "name": "Paragon"
+  },
+  "source": {
+    "id": "yc-paragon-news-import-425709159824",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.useparagon.com/blog/paragon-vs-merge-different-approaches-to-file-storage-permissions",
+    "canonical": "https://www.useparagon.com/blog/paragon-vs-merge-different-approaches-to-file-storage-permissions"
+  },
+  "title": "Where Merge’s Permissions Fall Short, and How Paragon Solves the Permissions Challenge",
+  "summary": "Your integrations infrastructure platform should be robust in handling permissions. Paragon and Merge handle file permissions very differently for integrations like Google Drive, Confluence, and SharePoint. Read about the differences in design and what those differences mean for you, the end user.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:46:04.995159+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-13T08:25:59.074268+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-paragon/2026/04/dc/dcdeaa4ba57dc2001b2918aeed8b730c891a095ad544af21e3d5f8032fc3c112/article.md",
+    "record": "articles/v1/2d/yc-paragon/2026/04/dc/dcdeaa4ba57dc2001b2918aeed8b730c891a095ad544af21e3d5f8032fc3c112/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 874,
+    "sha256": "sha256:d32b5b7332e59e3be4b8de6c8193453a3695012be37f3bd88edb73c3c3dd1c39",
+    "normalized_content_hash": "sha256:cba0242e3f3339f5239fb5fe02259b5b9693ae2358701bedf0c37e68dd9a0d61"
+  },
+  "provenance": {
+    "source_item_id": "21b99a29-4871-42f0-b1e3-58e369d03857",
+    "external_id": "https://www.useparagon.com/blog/paragon-vs-merge-different-approaches-to-file-storage-permissions"
+  }
+}

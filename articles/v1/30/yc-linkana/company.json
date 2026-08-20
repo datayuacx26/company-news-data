@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-linkana",
+    "name": "Linkana"
+  },
+  "record_count": 512,
+  "first_published_at": "2019-03-06T00:00:00+00:00",
+  "last_published_at": "2026-08-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 8
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 15
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 14
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 11
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 10
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 29
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 26
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 35
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 16
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 13
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 12
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 16
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 8
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 11
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 13
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 12
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/30/yc-linkana/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49751,
+        "sha256": "sha256:4fb208b0fa3a74b37e93fb2af6fbacf7fc718e8700f67f7158232b784ebe2d59",
+        "newest_at": "2026-08-12T00:00:00+00:00",
+        "oldest_at": "2025-03-17T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/30/yc-linkana/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49878,
+        "sha256": "sha256:52a8c392236802b8b1849156c9c7804860a4063c0fc29dd50fe521808f58cf42",
+        "newest_at": "2025-03-14T00:00:00+00:00",
+        "oldest_at": "2024-10-28T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/30/yc-linkana/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49834,
+        "sha256": "sha256:955e7b4d66ccfafe6781a10cfb96bc4740e524cd24ab72274ef1a96524744696",
+        "newest_at": "2024-10-27T00:00:00+00:00",
+        "oldest_at": "2023-12-22T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/30/yc-linkana/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49578,
+        "sha256": "sha256:aa59ebf1d71fbf2b697ba60f33cd8f8d9e8f86b7a26e7df24d577448dd7e442d",
+        "newest_at": "2023-12-21T00:00:00+00:00",
+        "oldest_at": "2023-07-10T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/30/yc-linkana/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 49719,
+        "sha256": "sha256:29c984c99db038e6758d28b7c3cc390f51997642acbdea70982a7f8a52b25598",
+        "newest_at": "2023-07-09T00:00:00+00:00",
+        "oldest_at": "2023-03-13T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/30/yc-linkana/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 50056,
+        "sha256": "sha256:a927f6873bce4f774d5d7e00e17f94e977314344f9c9f7d8ea811a9a421f182e",
+        "newest_at": "2023-03-11T00:00:00+00:00",
+        "oldest_at": "2022-12-24T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/30/yc-linkana/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 50135,
+        "sha256": "sha256:cd4b903cca11d5e1f125ae656e48aeef866cc28cafe3e6ae97c44e6dec29c2a5",
+        "newest_at": "2022-12-23T00:00:00+00:00",
+        "oldest_at": "2022-10-07T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/30/yc-linkana/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 49813,
+        "sha256": "sha256:da9526d99e6f8b14a709f0ef0b9d52b444af674f2eecf6e694111c41be205d65",
+        "newest_at": "2022-10-06T00:00:00+00:00",
+        "oldest_at": "2022-06-03T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/30/yc-linkana/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 50253,
+        "sha256": "sha256:1cbee319cc7dfd78de44bc00d446d72b07e7a539142493634b401a3a7a679a82",
+        "newest_at": "2022-05-31T00:00:00+00:00",
+        "oldest_at": "2021-09-30T00:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/30/yc-linkana/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 50467,
+        "sha256": "sha256:0016b210cb1d529b5def8cd47f6339edbfe4895d6847f60fc63dfd52e0f7c193",
+        "newest_at": "2021-09-29T00:00:00+00:00",
+        "oldest_at": "2020-11-10T00:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/30/yc-linkana/index/pages/000011.json",
+        "record_count": 12,
+        "byte_count": 12217,
+        "sha256": "sha256:3c740ae2db5045a19ff7b8bc3766169c1168961f0024b3f6e80683e2e4445eb7",
+        "newest_at": "2020-11-03T00:00:00+00:00",
+        "oldest_at": "2019-03-06T00:00:00+00:00"
+      }
+    ]
+  }
+}

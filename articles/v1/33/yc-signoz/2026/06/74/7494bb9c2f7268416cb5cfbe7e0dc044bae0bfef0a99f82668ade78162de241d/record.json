@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7494bb9c2f7268416cb5cfbe7e0dc044bae0bfef0a99f82668ade78162de241d",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-visualization",
+    "canonical": "https://signoz.io/blog/opentelemetry-visualization"
+  },
+  "title": "OpenTelemetry Visualization: A Practical Guide",
+  "summary": "Learn how to visualize OpenTelemetry data for better observability: key components, choosing a tool, and best practices, with SigNoz examples.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-07-28T22:07:34.731400+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/74/7494bb9c2f7268416cb5cfbe7e0dc044bae0bfef0a99f82668ade78162de241d/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/74/7494bb9c2f7268416cb5cfbe7e0dc044bae0bfef0a99f82668ade78162de241d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22732,
+    "sha256": "sha256:2fa682bbb3460ab72ddb9410eff4babf7da9417c3329b50d024f65a17c2dedd2",
+    "normalized_content_hash": "sha256:bbe0745f5f6238c3c904d67033e69972d30039532e5691e580bbf8c4ce922827"
+  },
+  "provenance": {
+    "source_item_id": "b1b87879-bf17-4258-abd8-4728bb092911",
+    "external_id": "https://signoz.io/blog/opentelemetry-visualization"
+  }
+}

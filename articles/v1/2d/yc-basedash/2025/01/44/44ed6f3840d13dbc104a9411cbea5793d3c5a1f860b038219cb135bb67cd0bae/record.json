@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44ed6f3840d13dbc104a9411cbea5793d3c5a1f860b038219cb135bb67cd0bae",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/how-to-create-a-materialized-view-in-mysql/",
+    "canonical": "https://www.basedash.com/blog/how-to-create-a-materialized-view-in-mysql/"
+  },
+  "title": "How to Create a Materialized View in MySQL",
+  "summary": "A materialized view is a database object that contains the results of a query. It’s similar to a regular view, except that the data is physically stored.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/44/44ed6f3840d13dbc104a9411cbea5793d3c5a1f860b038219cb135bb67cd0bae/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/44/44ed6f3840d13dbc104a9411cbea5793d3c5a1f860b038219cb135bb67cd0bae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2781,
+    "sha256": "sha256:e99e6e7502d3e3967a145393b75e491f337342eea798af18fd26f694b6139dee",
+    "normalized_content_hash": "sha256:02cb1f07d82ffd875c2272dbdfdcddfb2d78b7bfaaec5f9472592ac2810fe013"
+  },
+  "provenance": {
+    "source_item_id": "492b7766-a79d-40b5-8b5b-1c1ebc3dfd14",
+    "external_id": "https://www.basedash.com/blog/how-to-create-a-materialized-view-in-mysql/"
+  }
+}

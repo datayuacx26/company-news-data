@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5a84c205c59e7ad03c55353ea5911e90970078fc7b7d86f84a2d88fcbbbca7e",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/metrics-management/opentelemetry-cloudnative-pg",
+    "canonical": "https://signoz.io/docs/metrics-management/opentelemetry-cloudnative-pg"
+  },
+  "title": "Send CloudNativePG Metrics to SigNoz with OpenTelemetry",
+  "summary": "Scrape CloudNativePG instance metrics with the OpenTelemetry Collector and send cluster health, replication, WAL, and checkpoint metrics to SigNoz.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/b5/b5a84c205c59e7ad03c55353ea5911e90970078fc7b7d86f84a2d88fcbbbca7e/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/b5/b5a84c205c59e7ad03c55353ea5911e90970078fc7b7d86f84a2d88fcbbbca7e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 718,
+    "sha256": "sha256:4100b3a764c2f822bb61a12765be09063196d7806803c61803087acabe90aacb",
+    "normalized_content_hash": "sha256:a497d93820d7e382fcd602aa148024124bbde2143b04714c1ceb1f5152e30558"
+  },
+  "provenance": {
+    "source_item_id": "3f08375f-a0b5-4edf-9c58-938261ae7efe",
+    "external_id": "https://signoz.io/docs/metrics-management/opentelemetry-cloudnative-pg"
+  }
+}

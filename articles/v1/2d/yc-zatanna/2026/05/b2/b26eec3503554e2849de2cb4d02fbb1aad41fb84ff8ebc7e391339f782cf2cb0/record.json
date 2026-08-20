@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b26eec3503554e2849de2cb4d02fbb1aad41fb84ff8ebc7e391339f782cf2cb0",
+  "company": {
+    "key": "yc-zatanna",
+    "name": "Zatanna"
+  },
+  "source": {
+    "id": "yc-zatanna-news-import-3a347cd3961c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zatanna.ai/articles/betting-against-computer-use",
+    "canonical": "https://www.zatanna.ai/articles/betting-against-computer-use"
+  },
+  "title": "Why We're Betting Against Computer Use",
+  "summary": "Computer use is the same browser-automation tradeoff in a new wrapper: slow, expensive, and brittle. For enterprise software, the real unlock is decompiling the app, finding the database, and giving the LLM the source code instead of screenshots.",
+  "published_at": "2026-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T07:55:16.296366+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-19T22:00:43.945293+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-zatanna/2026/05/b2/b26eec3503554e2849de2cb4d02fbb1aad41fb84ff8ebc7e391339f782cf2cb0/article.md",
+    "record": "articles/v1/2d/yc-zatanna/2026/05/b2/b26eec3503554e2849de2cb4d02fbb1aad41fb84ff8ebc7e391339f782cf2cb0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7915,
+    "sha256": "sha256:b190a2e6a0fe8d6758da41fb9706de6c3467c456ae28610ba2820d00f34dc802",
+    "normalized_content_hash": "sha256:44ed552728024f93d6e963235aea822d6bd9c2392838fa370dc020f4d5d4bbe5"
+  },
+  "provenance": {
+    "source_item_id": "40a0b710-f28b-44db-8c62-d4fce85fbb4b",
+    "external_id": "https://www.zatanna.ai/articles/betting-against-computer-use"
+  }
+}

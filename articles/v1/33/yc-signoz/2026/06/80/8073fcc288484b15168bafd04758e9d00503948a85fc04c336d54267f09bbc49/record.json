@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8073fcc288484b15168bafd04758e9d00503948a85fc04c336d54267f09bbc49",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/langchain-observability",
+    "canonical": "https://signoz.io/docs/langchain-observability"
+  },
+  "title": "LangChain & LangGraph Observability with OpenTelemetry",
+  "summary": "Set up LangChain and LangGraph observability with OpenTelemetry and SigNoz. Monitor agent reasoning, tool calls, and chain execution with real-time traces.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-22T03:40:23.403970+00:00",
+  "last_updated_at": "2026-07-22T03:40:23.413559+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/80/8073fcc288484b15168bafd04758e9d00503948a85fc04c336d54267f09bbc49/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/80/8073fcc288484b15168bafd04758e9d00503948a85fc04c336d54267f09bbc49/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 701,
+    "sha256": "sha256:bfe3a87ef5bd1937c470b41512377186945e7462668626b12fc4f0e9329b19d5",
+    "normalized_content_hash": "sha256:7ab694b7066d3591bc5b99bcbd7eca2b67246107a31ace58bd5ead718312d256"
+  },
+  "provenance": {
+    "source_item_id": "8524e22c-140b-44b2-9169-c3b7446c523c",
+    "external_id": "https://signoz.io/docs/langchain-observability"
+  }
+}

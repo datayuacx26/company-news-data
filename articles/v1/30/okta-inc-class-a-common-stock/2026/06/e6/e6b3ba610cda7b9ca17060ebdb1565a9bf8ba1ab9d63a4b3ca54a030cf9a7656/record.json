@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6b3ba610cda7b9ca17060ebdb1565a9bf8ba1ab9d63a4b3ca54a030cf9a7656",
+  "company": {
+    "key": "okta-inc-class-a-common-stock",
+    "name": "Okta Inc."
+  },
+  "source": {
+    "id": "okta-inc-class-a-common-stock-news-import-144d960cd8f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.okta.com/blog/ai/ai-agent-security-vs-service-apps/",
+    "canonical": "https://www.okta.com/blog/ai/ai-agent-security-vs-service-apps/"
+  },
+  "title": "An AI agent is not a service app: Securing agentic identity",
+  "summary": "Treating AI agents as service apps creates severe privilege escalation risks. Learn why securing agents requires a first-class identity and Cross-App Access.",
+  "published_at": "2026-06-24T07:00:00+00:00",
+  "first_seen_at": "2026-07-31T19:31:06.584573+00:00",
+  "fetched_at": "2026-07-31T19:31:07.432136+00:00",
+  "last_updated_at": "2026-08-14T17:15:38.862341+00:00",
+  "paths": {
+    "article": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/e6/e6b3ba610cda7b9ca17060ebdb1565a9bf8ba1ab9d63a4b3ca54a030cf9a7656/article.md",
+    "record": "articles/v1/30/okta-inc-class-a-common-stock/2026/06/e6/e6b3ba610cda7b9ca17060ebdb1565a9bf8ba1ab9d63a4b3ca54a030cf9a7656/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27982,
+    "sha256": "sha256:ea1bb31a7610f65707da54db8c727965869b2a9e014779f0ad5e8d2a7bbf078b",
+    "normalized_content_hash": "sha256:294b0cf602a176740076453d0404846df4630b8d39ab7149cdb482d2974708b4"
+  },
+  "provenance": {
+    "source_item_id": "335450c6-75e5-403f-b39d-99dbcfd6e733",
+    "external_id": "https://www.okta.com/blog/ai/ai-agent-security-vs-service-apps/"
+  }
+}

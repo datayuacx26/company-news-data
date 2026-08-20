@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c266b651d06783bb5c309a3de58d9b1089ee6c9262a725d3ff4d4d220c62fc97",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/jeff-england",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/jeff-england"
+  },
+  "title": "Meet Jeff England, Target’s New Chief Supply Chain and Logistics Officer",
+  "summary": "Target names Jeff England its new chief supply chain and logistics officer.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-08-19T04:36:30.416622+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/c2/c266b651d06783bb5c309a3de58d9b1089ee6c9262a725d3ff4d4d220c62fc97/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/c2/c266b651d06783bb5c309a3de58d9b1089ee6c9262a725d3ff4d4d220c62fc97/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5016,
+    "sha256": "sha256:2bdf1baefed74f084389c8c27829be5297b8c615961e3f5ce198c9a842137cad",
+    "normalized_content_hash": "sha256:81c86fb55e5459dc436e2bb939d469f1e8c274b9b65df70b4cfb95f0f229a779"
+  },
+  "provenance": {
+    "source_item_id": "713a3bd8-9110-41fe-8f3a-35b54a086e1b",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/jeff-england"
+  }
+}

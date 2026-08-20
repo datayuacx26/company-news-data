@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "788feb39a85fc0aed5255f96212518c9a6f126417bd23d1d80f8990cdce93828",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/location-invariant-functions",
+    "canonical": "https://machinelearning.apple.com/research/location-invariant-functions"
+  },
+  "title": "Location-Invariant Properties of Functions Versus Properties of Distributions: United in Testing but Separated in Verification",
+  "summary": "A property of functions is called location-invariant (or symmetric) if it can be characterized in terms of the frequencies in which each…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-07T13:25:19.043576+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/78/788feb39a85fc0aed5255f96212518c9a6f126417bd23d1d80f8990cdce93828/article.md",
+    "record": "articles/v1/3a/apple/2026/07/78/788feb39a85fc0aed5255f96212518c9a6f126417bd23d1d80f8990cdce93828/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2912,
+    "sha256": "sha256:db564c0af98770cd17d816c902a21092eaee4edbebb24709ef373a25b8d16ab5",
+    "normalized_content_hash": "sha256:61252800a4ea09ed4aa0031926fd5a2fc21ce3018d156019b9239a4a59a38bbe"
+  },
+  "provenance": {
+    "source_item_id": "fa768f24-2ff6-4528-a59e-7e23bae2378b",
+    "external_id": "https://machinelearning.apple.com/research/location-invariant-functions"
+  }
+}

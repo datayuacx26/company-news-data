@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "617ebe8bed0b981011719bd98e6b9806802cc86d88e9b35a5702341a886a2bcb"
+company_key: "arthur-j-gallagher-co-common-stock"
+company: "Arthur J. Gallagher & Co."
+source_id: "arthur-j-gallagher-co-common-stock-rss-4a6c70b51a08"
+canonical_url: "https://investor.ajg.com/news/news-details/2026/Arthur-J--Gallagher--Co--Announces-Regular-Third-Quarter-Dividend/default.aspx"
+published_at: "2026-07-29T20:30:00+00:00"
+first_seen_at: "2026-07-29T22:43:56.597940+00:00"
+fetched_at: "2026-08-19T15:29:51.636735+00:00"
+content_hash: "sha256:7f3dcd4c9b23eb562084cd980be203fc82e66dd8fbd1605a2baf354c6db42a82"
+---
+
+# Arthur J. Gallagher & Co. Announces Regular Third Quarter Dividend
+
+

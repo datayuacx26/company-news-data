@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d8fb9a3bfb74ff20d7ccb23d11764ed7b4ced7a497b4c9b15ca49d4e474e5d5",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity",
+    "canonical": "https://www.rapid7.com/blog/post/etr-cve-2026-63077-critical-unauthenticated-remote-code-execution-in-jetbrains-teamcity"
+  },
+  "title": "CVE-2026-63077: Critical unauthenticated remote code execution in JetBrains TeamCity",
+  "summary": "On July 27, 2026, JetBrains published a security advisory for CVE-2026-63077, a critical unauthenticated vulnerability affecting all versions of TeamCity On-Premises. The issue is classified as deserialization of untrusted data and has a CVSS score of 9.8. An unauthenticated remote attacker with HTTP(S) access to a TeamCity server can exploit the agent polling protocol to bypass authentication checks and execute arbitrary operating system commands with the privileges of the TeamCity server process.",
+  "published_at": "2026-07-29T16:16:48+00:00",
+  "first_seen_at": "2026-07-29T17:43:09.865281+00:00",
+  "fetched_at": "2026-07-29T17:43:10.561050+00:00",
+  "last_updated_at": "2026-08-19T15:38:50.338825+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/0d/0d8fb9a3bfb74ff20d7ccb23d11764ed7b4ced7a497b4c9b15ca49d4e474e5d5/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/0d/0d8fb9a3bfb74ff20d7ccb23d11764ed7b4ced7a497b4c9b15ca49d4e474e5d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3270,
+    "sha256": "sha256:0e2e5ad90ec21856145ddab9601d153d80ea7854ece9365ebd26ac5e9d6f7b16",
+    "normalized_content_hash": "sha256:904231a3af5ffab4899a657610651d31c3c4b26bf8dc25e4d5cbd0bfe6aa36bf"
+  },
+  "provenance": {
+    "source_item_id": "0c2a63dd-0187-455f-8515-e39997bdd3ce",
+    "external_id": "blt0dc15d9ebe354558"
+  }
+}

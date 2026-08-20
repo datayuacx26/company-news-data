@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "462f166f16e0a4056fe97d779b26092e822725aabe49f68d5b87bd77d9184d0a",
+  "company": {
+    "key": "marsh-common-stock",
+    "name": "Marsh"
+  },
+  "source": {
+    "id": "marsh-common-stock-news-import-c3f81f8d88b9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.marsh.com/en/insights/featured-insights.html",
+    "canonical": "https://www.marsh.com/en/insights/featured-insights.html"
+  },
+  "title": "Featured insights",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-08-10T00:24:51.375310+00:00",
+  "fetched_at": "2026-08-10T00:24:52.954248+00:00",
+  "last_updated_at": "2026-08-19T16:46:36.044170+00:00",
+  "paths": {
+    "article": "articles/v1/16/marsh-common-stock/2026/08/46/462f166f16e0a4056fe97d779b26092e822725aabe49f68d5b87bd77d9184d0a/article.md",
+    "record": "articles/v1/16/marsh-common-stock/2026/08/46/462f166f16e0a4056fe97d779b26092e822725aabe49f68d5b87bd77d9184d0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5818,
+    "sha256": "sha256:e7ba74e1135f6da7fe6648d34ca4a1c48685ed23f070ecad77d9b4d50c50a2a0",
+    "normalized_content_hash": "sha256:6e1f0af64682ef0546d15aec31054b5e3acbdabd4e37fc091ebb439212424623"
+  },
+  "provenance": {
+    "source_item_id": "10fb0bc4-6024-49be-a235-a5e0d399a6ed",
+    "external_id": "https://www.marsh.com/en/insights/featured-insights.html"
+  }
+}

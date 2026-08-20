@@ -1,0 +1,28 @@
+---
+schema_version: "1.0.0"
+document_id: "c571b3ca9e68c07412687bdb02cef5bf9fd06f2cf62dd8906bdddd2d6e8bf45a"
+company_key: "sintx-technologies-inc-common-stock"
+company: "SiNtx Technologies Inc."
+source_id: "sintx-technologies-inc-common-stock-rss-13bd61a94c21"
+canonical_url: "https://investors.sintx.com/news-releases/news-release-details/hc-wainwright-initiates-coverage-sintx-technologies-buy-rating"
+published_at: "2026-04-13T16:00:00+00:00"
+first_seen_at: "2026-07-25T23:14:37.692808+00:00"
+fetched_at: "2026-07-28T21:56:46.217382+00:00"
+content_hash: "sha256:9e76f99d5588060a44c52c2dbf3077149c15a4275ebc3a9253902118c5c29406"
+---
+
+# H.C. Wainwright Initiates Coverage on SINTX Technologies with Buy Rating, Highlighting Silicon Nitride Platform Opportunity
+
+## H.C. Wainwright Initiates Coverage on SINTX Technologies with Buy Rating, Highlighting Silicon Nitride Platform Opportunity
+
+
+April 13, 2026
+
+
+[PDF Version](https://investors.sintx.com/node/10166/pdf)
+
+
+**H.C. Wainwright Initiates Coverage on SINTX Technologies with Buy Rating, Highlighting Silicon Nitride Platform Opportunity**
+
+
+Independent analyst coverage underscores SINTX’s transition to a commercial-stage biomaterials company, citing its silicon nitride technology, recent FDA clearance and first human implant, and a scalable platform strategy across orthopedics and adjacent healthcare markets.

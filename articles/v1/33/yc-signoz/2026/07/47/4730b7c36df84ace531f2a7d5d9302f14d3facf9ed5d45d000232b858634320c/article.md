@@ -1,0 +1,244 @@
+---
+schema_version: "1.0.0"
+document_id: "4730b7c36df84ace531f2a7d5d9302f14d3facf9ed5d45d000232b858634320c"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/opentelemetry/custom-metrics-nodejs"
+published_at: "2026-07-14T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:42.602972+00:00"
+fetched_at: "2026-07-28T20:41:19.924237+00:00"
+content_hash: "sha256:f9d092145f584674489864f0db5b8d2585e02baa54cfe640109b57804e8a1e6a"
+---
+
+# Setting up Custom Metrics - OpenTelemetry NodeJS
+
+# Setting up Custom Metrics - OpenTelemetry NodeJS
+
+
+Published on: June 05, 2024
+
+
+Last Updated: July 14, 2026
+
+
+6 min read
+
+
+This article is part of the **OpenTelemetry NodeJS series** :
+
+
+- Previous Article:[Manual Instrumentation for Traces - OpenTelemetry NodeJS](https://signoz.io/opentelemetry/add-manual-span-to-traces-nodejs/)
+- **You are here:** Setting up Custom Metrics - OpenTelemetry NodeJS
+- Next Article:[Sending Logs to SigNoz - OpenTelemetry NodeJS](https://signoz.io/opentelemetry/logging-nodejs/)
+
+
+Check out the complete series at:[Overview - Implementing OpenTelemetry in NodeJS with SigNoz - OpenTelemetry NodeJS](https://signoz.io/opentelemetry/nodejs-tutorial-overview/)
+
+
+OpenTelemetry provides a unified approach to track application behaviors through logs, traces, and metrics. This article focuses on leveraging custom metrics to enhance observability in microservices, specifically within an Order service using OpenTelemetry and SigNoz for visualization.
+
+
+### Prerequisites
+
+
+To follow along, you should have a basic understanding of Docker, microservices architecture, and OpenTelemetry. Previous articles have covered setting up OpenTelemetry for tracing; now, we will expand those setups to include custom metrics.
+
+
+### Understanding Metrics in OpenTelemetry
+
+
+Metrics in OpenTelemetry offer a way to quantify the properties of a system at a point in time. There are three primary types of metrics:
+
+
+- **Counters** : For counting occurrences of events, such as the number of failed login attempts.
+- **Gauges** : For measuring values that increase and decrease, such as the current number of active sessions.
+- **Histograms** : For capturing distributions of values across dimensions, which is ideal for tracking performance metrics like response times or durations.
+
+
+For our tutorial, we focus on **Histograms** to monitor the duration of order validation processes—a critical operation within our Order service.
+
+
+### Setting Up Custom Metrics
+
+
+1. **Defining the Metric**
+
+
+We aim to measure the duration of the order validation process. This metric helps identify performance bottlenecks and ensures that the order processing time remains within acceptable limits.
+
+
+1. **Setup Metric Collection**
+
+
+Configure the **` MeterProvider`** with an **` OTLPMetricExporter`** in the **` telemetry.js`** file to send metrics to SigNoz via[OpenTelemetry](https://signoz.io/opentelemetry/) Collector.
+
+
+```text
+import    {   metrics  }     from    '@opentelemetry/api'  ;
+import    {    MeterProvider  ,    PeriodicExportingMetricReader  ,    ConsoleMetricExporter    }     from    '@opentelemetry/sdk-metrics'  ;
+import    {    Resource    }     from    '@opentelemetry/resources'  ;
+import    {    SEMRESATTRS_SERVICE_NAME  ,    SEMRESATTRS_SERVICE_VERSION    }    from    '@opentelemetry/semantic-conventions'  ;
+import    {    OTLPMetricExporter    }     from    '@opentelemetry/exporter-metrics-otlp-http'  ;
+
+
+// Define resource with service name
+const   resource  =    Resource  .  default  (  )  .  merge  (
+new    Resource  (  {
+[  SEMRESATTRS_SERVICE_NAME  ]  :    'order-service'
+}  )  ,
+)  ;  metrics
+
+
+// Configure OTLP metrics exporter
+const   otlpMetricsExporter  =    new    OTLPMetricExporter  (  {
+url  :    'http://otel-collector:4318/v1/metrics'
+}  )  ;
+
+
+const   metricReader  =    new    PeriodicExportingMetricReader  (  {
+exporter  :   otlpMetricsExporter ,
+
+
+// Default is 60000ms (60 seconds). Set to 10 seconds for demonstrative purposes only.
+exportIntervalMillis  :    10000  ,
+}  )  ;
+
+
+// Initialize MeterProvider
+const   myServiceMeterProvider  =    new    MeterProvider  (  {
+resource  :   resource ,
+readers  :    [  metricReader ]  ,
+}  )  ;
+
+
+// Set this MeterProvider to be global to the app being instrumented.
+metrics .  setGlobalMeterProvider  (  myServiceMeterProvider )  ;
+
+
+```
+
+
+1. **Collect Metrics in Business Logic**
+
+
+Modify the **` validateOrder`** function in **` server.js`** to measure and record the duration of order validations using a histogram.
+
+
+```text
+// import the telemetry.js to initialize the meter
+import    './telemetry.js'  ;
+import    express ,    {   json  }     from    'express'  ;
+import    fetch    from    'node-fetch'  ;
+import    mongoose    from    'mongoose'  ;
+import    {    performance    }     from    'perf_hooks'  ;
+const    {   connect ,    Schema  ,   model  }    =   mongoose ;
+
+
+import    {   trace ,   metrics ,    SpanStatusCode  }     from    '@opentelemetry/api'  ;
+
+
+const   tracer  =   trace .  getTracer  (  'order-service'  )  ;
+// Get the meter to be used in the validate order function
+const   meter  =   metrics .  getMeter  (  'order-service'  )  ;
+
+
+const   app  =    express  (  )  ;
+const   port  =    3001  ;
+
+
+const   dbUrl  =    'mongodb://mongodb:27017/orders'  ;
+connect  (  dbUrl ,    {    useNewUrlParser  :    true  ,    useUnifiedTopology  :    true    }  )  ;
+
+
+// ...rest of the code as it is
+
+
+async    function    validateOrder  (  order  )    {
+const   startTime  =    performance  .  now  (  )  ;     // Start timing
+
+
+// Creating a histogram to track order validation duration
+const   orderValidationDurationHistogram  =   meter .  createHistogram  (  'order_validation_duration'  ,    {
+description  :    'Measures the duration of order validation'  ,
+unit  :    'ms'    // unit of measure
+}  )  ;
+
+
+// Start a new span for the validation process
+return   tracer .  startActiveSpan  (  'validate-order'  ,    async    (  span  )    =>    {
+try    {
+
+
+// ...rest of the code as it is
+
+
+// End timing and record the duration
+const   duration  =    performance  .  now  (  )    -   startTime ;
+
+
+orderValidationDurationHistogram .  record  (  duration ,    {
+'order.id'  :   order .  _id  .  toString  (  )  ,
+'status'  :    'validated'
+}  )  ;
+
+
+span .  setStatus  (  {    code  :    SpanStatusCode  .  OK    }  )  ;
+}    catch    (  error )    {
+// Record the error and set the span status to error
+span .  setStatus  (  {    code  :    SpanStatusCode  .  ERROR  ,    message  :   error .  message    }  )  ;
+span .  recordException  (  error )  ;
+throw   error ;
+}    finally    {
+// End the span
+span .  end  (  )  ;
+}
+}  )  ;
+}
+
+
+```
+
+
+Do note that the same instrument types apply in other languages, such as[custom metrics in Python](https://signoz.io/opentelemetry/python-custom-metrics/) .
+
+
+## Verifying and Visualizing Metrics
+
+
+Hit the post request to the order-service endpoint multiple times and once metrics are being sent to SigNoz, you can use its[query builder](https://signoz.io/blog/query-builder-v5/) to visualize the recorded metrics. If metrics do not appear, use tools like **` curl`** to verify the OpenTelemetry Collector's endpoints.
+
+
+1. Log in to SigNoz and navigate to the Dashboard.
+2. Create a new dashboard and add a panel
+3. Select the Query Builder to create a new visualization.
+4. Choose the metric` order_validation_duration` from the list of available metrics.
+5. Configure the visualization type as Bar or any suitable chart to represent the distribution of validation times.
+6. Save and add the visualization to your dashboard for continuous monitoring.
+
+
+Your browser does not support the video tag.
+
+
+### Best Practices for Implementing Custom Metrics
+
+
+- **Select Metrics Wisely** : Focus on metrics that provide insights into system performance and business impact.
+- **Optimize Collection Frequency** : Balance the granularity of metrics collection with system overhead to avoid performance degradation.
+
+
+### Conclusion
+
+
+- **Improved System Reliability** : By tracking specific metrics, such as order validation durations, organizations can pinpoint inefficiencies and potential failures before they impact users, ensuring higher system reliability.
+- **Enhanced Service Quality** : Custom metrics provide detailed visibility into the behavior and performance of services, allowing teams to optimize processes and improve service delivery.
+- **Proactive Performance Management** : With real-time data on critical operations, teams can proactively address performance bottlenecks, leading to smoother and more efficient service operations.
+
+
+Implementing custom metrics with OpenTelemetry offers deeper insights into microservices operations, enhancing observability and aiding in proactive performance management. By integrating these metrics into your observability strategy, you can ensure better system reliability and service quality.
+
+
+**Next steps:** Future articles explores advanced topics such as setting alerts based on metrics but before that lets dive into setting up the[logs monitoring](https://signoz.io/blog/log-monitoring/) .
+
+
+Read Next Article of OpenTelemetry NodeJS series on[Sending Logs to SigNoz - OpenTelemetry NodeJS](https://signoz.io/opentelemetry/logging-nodejs/)

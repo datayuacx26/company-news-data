@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ac9b69a124b9b0fd509d5b5dc6714c981bce4ced5060160f77662e36a4cb499",
+  "company": {
+    "key": "yc-redbird",
+    "name": "Redbird"
+  },
+  "source": {
+    "id": "yc-redbird-news-import-aa4eafcdfe87",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.redbird.io/post/how-to-connect-mysql-to-your-reporting-workflow",
+    "canonical": "https://www.redbird.io/post/how-to-connect-mysql-to-your-reporting-workflow"
+  },
+  "title": "How to Connect MySQL to Your Reporting Workflow",
+  "summary": "If your company uses MySQL, the challenge usually is not storing data. It is getting that data into the reports and workflows people actually use. For most analysts, that means filing a ticket with engineering and waiting. This article is about what happens when that bottleneck goes away. Why MySQL Access Runs Through Engineering In most organizations, analysts do not have direct access to MySQL databases. They know the data exists. They may even know which tables they need. But connecting a",
+  "published_at": "2026-04-22T01:51:00+00:00",
+  "first_seen_at": "2026-07-25T20:43:21.703271+00:00",
+  "fetched_at": "2026-07-28T22:15:44.247179+00:00",
+  "last_updated_at": "2026-08-19T23:16:21.386401+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-redbird/2026/04/7a/7ac9b69a124b9b0fd509d5b5dc6714c981bce4ced5060160f77662e36a4cb499/article.md",
+    "record": "articles/v1/12/yc-redbird/2026/04/7a/7ac9b69a124b9b0fd509d5b5dc6714c981bce4ced5060160f77662e36a4cb499/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8289,
+    "sha256": "sha256:039f386d24fc9422ebc26dbe16aa04cb956edc3e44ca3d5f310bdf81e364948f",
+    "normalized_content_hash": "sha256:2682bdc38a7a7d0d41013cb39812d0b5a9c77bcc5385481c26389d8e5e871176"
+  },
+  "provenance": {
+    "source_item_id": "e47fa6da-019b-407b-ac70-fdaa47bc51e4",
+    "external_id": "https://www.redbird.io/post/how-to-connect-mysql-to-your-reporting-workflow"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86dd89a0baef4342efd4b9298effacbff6a28531560a5e6848b6da0ee4535847",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/google-scale-authorization",
+    "canonical": "https://authzed.com/blog/google-scale-authorization"
+  },
+  "title": "Google-Scale Authorization: Getting to 1 Million QPS on AuthZed Dedicated with CockroachDB",
+  "summary": "Achieve 1 million requests per second with 1% writes while maintaining 5.76ms P95 on CheckPermission. The SpiceDB Dedicated product was deployed on AWS with CockroachDB as the backing datastore.",
+  "published_at": "2023-07-12T12:05:53.554+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2023/07/86/86dd89a0baef4342efd4b9298effacbff6a28531560a5e6848b6da0ee4535847/article.md",
+    "record": "articles/v1/15/yc-authzed/2023/07/86/86dd89a0baef4342efd4b9298effacbff6a28531560a5e6848b6da0ee4535847/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26658,
+    "sha256": "sha256:b4772155f0c5ff459ba24b1731681d563fe546bbe9118704775ed2867a8e9732",
+    "normalized_content_hash": "sha256:9770dc141ccd7fbc0cb24c3cc625d498ee67c5d8aab30ab07cd94bd08917c183"
+  },
+  "provenance": {
+    "source_item_id": "a779e9b0-96c8-4917-a6c8-987a8808ffc9",
+    "external_id": "https://authzed.com/blog/google-scale-authorization"
+  }
+}

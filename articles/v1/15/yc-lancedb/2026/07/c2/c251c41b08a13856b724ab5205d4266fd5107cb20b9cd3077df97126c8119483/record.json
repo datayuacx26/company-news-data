@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c251c41b08a13856b724ab5205d4266fd5107cb20b9cd3077df97126c8119483",
+  "company": {
+    "key": "yc-lancedb",
+    "name": "LanceDB"
+  },
+  "source": {
+    "id": "yc-lancedb-news-import-bc01535eeacf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.lancedb.com/blog/building-a-storage-format-for-the-next-era-of-biology",
+    "canonical": "https://www.lancedb.com/blog/building-a-storage-format-for-the-next-era-of-biology"
+  },
+  "title": "Building A Storage Format For The Next Era of Biology",
+  "summary": "How Lance can serve as the foundation for AI on single-cell genomics atlases and a new generation for modeling in biology.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T01:53:54.773349+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-08-19T17:31:09.089473+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-lancedb/2026/07/c2/c251c41b08a13856b724ab5205d4266fd5107cb20b9cd3077df97126c8119483/article.md",
+    "record": "articles/v1/15/yc-lancedb/2026/07/c2/c251c41b08a13856b724ab5205d4266fd5107cb20b9cd3077df97126c8119483/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29660,
+    "sha256": "sha256:196ddbb2aee70f3a9febf8f78db7ad82d86f8ba4dc7cbf3d4373212eb74829a9",
+    "normalized_content_hash": "sha256:18a192ee360b5af267192b9f698d579ea21a00cf01c54ec1eaff8098d5dc4ead"
+  },
+  "provenance": {
+    "source_item_id": "d05b6fd2-d2a7-4a0e-b5de-ae800e319855",
+    "external_id": "https://www.lancedb.com/blog/building-a-storage-format-for-the-next-era-of-biology"
+  }
+}

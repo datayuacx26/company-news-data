@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "91a2acf67b248cc844b77cac9d1e31e504d0e300a62444ca1a4cd00633a2b6ed",
+  "company": {
+    "key": "yc-influxdata",
+    "name": "InfluxData"
+  },
+  "source": {
+    "id": "yc-influxdata-rss-012b8d0fa152",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.influxdata.com/blog/predictive-maintenance-plugin-tutorial/",
+    "canonical": "https://www.influxdata.com/blog/predictive-maintenance-plugin-tutorial/"
+  },
+  "title": "Building a Predictive Maintenance Plugin with the InfluxDB 3 Processing Engine",
+  "summary": "In this tutorial, we'll build a working predictive maintenance plugin from scratch. We'll install InfluxDB 3 Core, load a public dataset, write a Python plugin to estimate Remaining Useful Life (RUL), and have it raise maintenance alerts automatically.",
+  "published_at": "2026-06-09T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:23:58.693982+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T03:08:18.046459+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-influxdata/2026/06/91/91a2acf67b248cc844b77cac9d1e31e504d0e300a62444ca1a4cd00633a2b6ed/article.md",
+    "record": "articles/v1/28/yc-influxdata/2026/06/91/91a2acf67b248cc844b77cac9d1e31e504d0e300a62444ca1a4cd00633a2b6ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24927,
+    "sha256": "sha256:ed5c09b7a3e0c85f6548b08230c6b61740a52ea6780823bbb4d6e2fa44554fdd",
+    "normalized_content_hash": "sha256:65d34d4f82d623484f5518b62d9b0e240d95fbda99a2a4e255c702374046f699"
+  },
+  "provenance": {
+    "source_item_id": "7cd25c2c-1607-455d-b0e1-35404ead1c16",
+    "external_id": "https://www.influxdata.com/blog/predictive-maintenance-plugin-tutorial/"
+  }
+}

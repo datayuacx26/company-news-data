@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "221a04f82b697a81af10471fcdcbdbc691afba1506b9f90bad7f1e72f1198921",
+  "company": {
+    "key": "yc-blacksmith",
+    "name": "Blacksmith"
+  },
+  "source": {
+    "id": "yc-blacksmith-news-import-a006191a9a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blacksmith.sh/blog/you-have-5-days-before-the-new-dockerhub-limits-f-ck-you-over",
+    "canonical": "https://www.blacksmith.sh/blog/you-have-5-days-before-the-new-dockerhub-limits-f-ck-you-over"
+  },
+  "title": "You have 5 days before the new DockerHub limits f*ck you over",
+  "summary": "Docker Hub is slamming the brakes on free usage April 1st. These strict pull limits will silently break your CI if you’re not ready. You could build a registry mirror, audit 500 workflows, or... just switch to Blacksmith. Our runners come preconfigured with a pull-through cache that makes Docker pull limits a non-issue.",
+  "published_at": "2025-03-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T03:46:48.319296+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T23:41:23.162103+00:00",
+  "paths": {
+    "article": "articles/v1/05/yc-blacksmith/2025/03/22/221a04f82b697a81af10471fcdcbdbc691afba1506b9f90bad7f1e72f1198921/article.md",
+    "record": "articles/v1/05/yc-blacksmith/2025/03/22/221a04f82b697a81af10471fcdcbdbc691afba1506b9f90bad7f1e72f1198921/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7715,
+    "sha256": "sha256:c944d4771f02fe638d02a3950d7f2edc8f7f5f3e24c92d6f5c89f5c682662661",
+    "normalized_content_hash": "sha256:fe5013edd19a30dad22c7f356e7223f9512b9a8d6bd2dcfa9cc66f71bad608c5"
+  },
+  "provenance": {
+    "source_item_id": "236cddd7-2d0f-42fb-a57c-5d47ff6a9e73",
+    "external_id": "https://www.blacksmith.sh/blog/you-have-5-days-before-the-new-dockerhub-limits-f-ck-you-over"
+  }
+}

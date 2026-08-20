@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97e5e2e27ca91ea579142f9684ecbe5a211ed7028269198dec2743361f1b17e7",
+  "company": {
+    "key": "yc-moss",
+    "name": "Moss"
+  },
+  "source": {
+    "id": "yc-moss-rss-e49397d0a304",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.moss.dev/blog/retrieval-latency-tax",
+    "canonical": "https://www.moss.dev/blog/retrieval-latency-tax"
+  },
+  "title": "The Retrieval Latency Tax: Why Your AI Agent Feels Slow (And It's Not the LLM)",
+  "summary": "Everyone blames the model. But in real-time AI, the real bottleneck is retrieval. Here's the data that proves it, and what it means for the next generation of AI applications.",
+  "published_at": "2026-03-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T03:53:19.807128+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-08-20T03:50:54.528493+00:00",
+  "paths": {
+    "article": "articles/v1/01/yc-moss/2026/03/97/97e5e2e27ca91ea579142f9684ecbe5a211ed7028269198dec2743361f1b17e7/article.md",
+    "record": "articles/v1/01/yc-moss/2026/03/97/97e5e2e27ca91ea579142f9684ecbe5a211ed7028269198dec2743361f1b17e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14606,
+    "sha256": "sha256:6e1c09a595717e984070582ff10186a702ec3a2187e72bc71bbbf64267f635ff",
+    "normalized_content_hash": "sha256:22053e609520dae34823c2a6ef6d2dec6ec341772432919e8a460c3c454092f5"
+  },
+  "provenance": {
+    "source_item_id": "b5dac927-9e7d-4955-a40b-c0a62acbe802",
+    "external_id": "https://www.moss.dev/blog/retrieval-latency-tax"
+  }
+}

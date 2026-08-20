@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf7da13526908523ab8e77a1fbf309b01444eaf00983c21010fb196d959916f3",
+  "company": {
+    "key": "yc-browser-use",
+    "name": "Browser Use"
+  },
+  "source": {
+    "id": "yc-browser-use-news-import-545dadaa110d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://browser-use.com/changelog/20-7-2026",
+    "canonical": "https://browser-use.com/changelog/20-7-2026"
+  },
+  "title": "Recording Controls & OAuth Browser Access",
+  "summary": "Client-controlled browser recording on the Browser Harness API, plus OAuth read access to browsers.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:47:20.405701+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-20T03:17:32.879886+00:00",
+  "paths": {
+    "article": "articles/v1/10/yc-browser-use/2026/07/bf/bf7da13526908523ab8e77a1fbf309b01444eaf00983c21010fb196d959916f3/article.md",
+    "record": "articles/v1/10/yc-browser-use/2026/07/bf/bf7da13526908523ab8e77a1fbf309b01444eaf00983c21010fb196d959916f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1319,
+    "sha256": "sha256:b5c30fdbab947493bdc7ec92f8c7d0539bdfcb3da374db67030dc6c9e1888623",
+    "normalized_content_hash": "sha256:d2c0b46b46aa0ca4933f073e9633c6995b893f88300a8160a3cc318aa4b21795"
+  },
+  "provenance": {
+    "source_item_id": "1d72486e-f6e1-4c4b-bb01-ee803683e064",
+    "external_id": "https://browser-use.com/changelog/20-7-2026"
+  }
+}

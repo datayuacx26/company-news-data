@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ccc76efc835728559cbfc27f53f11d432f0fdf04afb14539773b56acefe00b3",
+  "company": {
+    "key": "enbridge-inc-common-stock",
+    "name": "Enbridge Inc"
+  },
+  "source": {
+    "id": "enbridge-inc-common-stock-news-import-a0f24e62dc2d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.enbridge.com/media-center/news/details?id=123884&lang=en",
+    "canonical": "https://www.enbridge.com/media-center/news/details?id=123884"
+  },
+  "title": "Enbridge Inc. Declares Quarterly Dividends",
+  "summary": "Enbridge Inc. (TSX: ENB) (NYSE: ENB) (Enbridge or the Company) announced that its Board of Directors has declared a quarterly dividend of $0.9700 per common share, payable on September 1, 2026 to...",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T20:25:25.391383+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-20T01:31:38.569017+00:00",
+  "paths": {
+    "article": "articles/v1/19/enbridge-inc-common-stock/2026/07/5c/5ccc76efc835728559cbfc27f53f11d432f0fdf04afb14539773b56acefe00b3/article.md",
+    "record": "articles/v1/19/enbridge-inc-common-stock/2026/07/5c/5ccc76efc835728559cbfc27f53f11d432f0fdf04afb14539773b56acefe00b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3111,
+    "sha256": "sha256:0f4adafeec780bafcef428c456bdbd5632d71e30fbbe2459c1f584a47d3b5cc4",
+    "normalized_content_hash": "sha256:2933c098c49ecf1720c9b439ac200a45ecf49d593faf1eaf6314973acd77120e"
+  },
+  "provenance": {
+    "source_item_id": "63d66b8f-3d9f-4890-9865-c3667fec4115",
+    "external_id": "https://www.enbridge.com/media-center/news/details?id=123884&lang=en"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c6b0a96fe44afdec4d634d26f0784ee937038b00cc8e2da8157592e0b846f81a",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/azure/redis",
+    "canonical": "https://signoz.io/docs/integrations/azure/redis"
+  },
+  "title": "Azure Cache for Redis Monitoring Integration with SigNoz",
+  "summary": "Monitor Azure Cache for Redis with SigNoz. Collect platform metrics and diagnostic logs from your Redis instances using One-Click Azure Integration.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/c6/c6b0a96fe44afdec4d634d26f0784ee937038b00cc8e2da8157592e0b846f81a/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/c6/c6b0a96fe44afdec4d634d26f0784ee937038b00cc8e2da8157592e0b846f81a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 697,
+    "sha256": "sha256:f904bdfe1d09807cc813d5f924c92f493720aec7a2625e3c3e4e165d904c1364",
+    "normalized_content_hash": "sha256:db88e823937248ce1a76775562e434edc55ecfa701229131563c83b53fd332a8"
+  },
+  "provenance": {
+    "source_item_id": "8b2cd550-527b-4bcc-ad96-7d9a90c9fdb4",
+    "external_id": "https://signoz.io/docs/integrations/azure/redis"
+  }
+}

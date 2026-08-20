@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "288a6227d3c629d24010d5702d81b475ac7d105c54ae1cff78496eb0162202d2",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/building-a-multi-tenant-rag-with-fine-grain-authorization-using-motia-and-spicedb",
+    "canonical": "https://authzed.com/blog/building-a-multi-tenant-rag-with-fine-grain-authorization-using-motia-and-spicedb"
+  },
+  "title": "Build a Multi-Tenant RAG with Fine-Grain Authorization using Motia and SpiceDB",
+  "summary": "Learn how to build a complete retrieval-augmented generation pipeline with multi-tenant authorization using Motia's event-driven framework, OpenAI embeddings, Pinecone vector search, SpiceDB permissions, and natural language querying.",
+  "published_at": "2025-11-18T17:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:55:16.082008+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2025/11/28/288a6227d3c629d24010d5702d81b475ac7d105c54ae1cff78496eb0162202d2/article.md",
+    "record": "articles/v1/15/yc-authzed/2025/11/28/288a6227d3c629d24010d5702d81b475ac7d105c54ae1cff78496eb0162202d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 55003,
+    "sha256": "sha256:851f868c1a9890224faee2450cb06bc874a2a5a48a63e0f322a8a07593ac9f65",
+    "normalized_content_hash": "sha256:75ced0b72f21f38d0cf28bf0daeee38815cef4e4c5a350d742c8cbf9c3169bec"
+  },
+  "provenance": {
+    "source_item_id": "3088e8f9-5311-4ca0-9fed-9f5a42cfbd0b",
+    "external_id": "https://authzed.com/blog/building-a-multi-tenant-rag-with-fine-grain-authorization-using-motia-and-spicedb"
+  }
+}

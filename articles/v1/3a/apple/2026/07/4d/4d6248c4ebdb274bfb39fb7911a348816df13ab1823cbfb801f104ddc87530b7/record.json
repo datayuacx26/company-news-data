@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d6248c4ebdb274bfb39fb7911a348816df13ab1823cbfb801f104ddc87530b7",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/personalizing-incremental-video-search",
+    "canonical": "https://machinelearning.apple.com/research/personalizing-incremental-video-search"
+  },
+  "title": "Personalizing Incremental Video Search with Hybrid Text and ID Embeddings",
+  "summary": "Incremental video search requires high-quality ranking after each keystroke, where intent is often underspecified (e.g., 1–3 character…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-06T23:08:34.959267+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/4d/4d6248c4ebdb274bfb39fb7911a348816df13ab1823cbfb801f104ddc87530b7/article.md",
+    "record": "articles/v1/3a/apple/2026/07/4d/4d6248c4ebdb274bfb39fb7911a348816df13ab1823cbfb801f104ddc87530b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2677,
+    "sha256": "sha256:8480139ab5c1460bc2031bce5df2d18c7e5f70282e909407fb233a7dfb239077",
+    "normalized_content_hash": "sha256:bac01363044fd892463c0184cdcdbebbd52c4a15f23f4424fb1aad3320c05060"
+  },
+  "provenance": {
+    "source_item_id": "9bd52c57-cbd0-4e29-9960-a60d49fae6fd",
+    "external_id": "https://machinelearning.apple.com/research/personalizing-incremental-video-search"
+  }
+}

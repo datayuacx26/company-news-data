@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a0de14313bbd6cb6b5591102be176edc9edbb4413503195fc11eee7160f1a304",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/instrumentation/javascript/opentelemetry-react-native",
+    "canonical": "https://signoz.io/docs/instrumentation/javascript/opentelemetry-react-native"
+  },
+  "title": "React Native OpenTelemetry Setup Guide",
+  "summary": "Learn how to instrument your React Native app with OpenTelemetry. Auto-capture network requests and create custom spans for mobile observability.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/a0/a0de14313bbd6cb6b5591102be176edc9edbb4413503195fc11eee7160f1a304/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/a0/a0de14313bbd6cb6b5591102be176edc9edbb4413503195fc11eee7160f1a304/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 705,
+    "sha256": "sha256:d7376990e230613686ce4c73ea585c5e6fbce73889c3553e595730d356034164",
+    "normalized_content_hash": "sha256:8ec225bfd2d0ef91ae7764f73ae1246e13724491fb11c6cbf4df1d9e282d2d18"
+  },
+  "provenance": {
+    "source_item_id": "b0d4881c-3ec7-446c-9082-bbb0f13d8f10",
+    "external_id": "https://signoz.io/docs/instrumentation/javascript/opentelemetry-react-native"
+  }
+}

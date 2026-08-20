@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-mars-auto",
+    "name": "Mars Auto"
+  },
+  "record_count": 9,
+  "first_published_at": "2017-09-05T06:17:49+00:00",
+  "last_published_at": "2024-02-03T10:19:55+00:00",
+  "partitions": [
+    {
+      "partition": "2017-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/12/yc-mars-auto/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 8783,
+        "sha256": "sha256:3f4296c13097b4ce41d9f5b9dc126c28aaa9bcf3c7dfb4e3d56e5fafe000d5ee",
+        "newest_at": "2024-02-03T10:19:55+00:00",
+        "oldest_at": "2017-09-05T06:17:49+00:00"
+      }
+    ]
+  }
+}

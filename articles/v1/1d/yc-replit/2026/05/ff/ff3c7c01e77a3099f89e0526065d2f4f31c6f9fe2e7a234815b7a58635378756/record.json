@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ff3c7c01e77a3099f89e0526065d2f4f31c6f9fe2e7a234815b7a58635378756",
+  "company": {
+    "key": "yc-replit",
+    "name": "Replit"
+  },
+  "source": {
+    "id": "yc-replit-news-import-9d99ff8f4466",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://replit.com/blog/secure-more-apps",
+    "canonical": "https://replit.com/blog/secure-more-apps"
+  },
+  "title": "Secure more apps with External Access Tokens and Private Publishing",
+  "summary": "At Replit, we want all users to be able to build secure applications. In addition to features like Security Agent and Auto Protect, you can restrict access to your apps with Private Publishing. Private Publishing is ideal for apps that should only be accessible to a specific set of users — whether that’s a personal tool, an internal app for teammates, or an early prototype shared with close collaborators. Today, we’re introducing two updates that expand secure access for Replit builders: Private Publishing is now available to Core and Starter plan users. Previously, private deployments were limited to Pro and Enterprise plans. External Access Tokens are now available for all private apps. External Access Tokens let trusted external services securely access private apps without exposing the entire application to the public internet. Private Publishing works at the network level. When publishing, simply choose your desired access level and Replit will prevent unauthorized user requests from ever reaching your app.",
+  "published_at": "2026-05-06T16:06:10.093+00:00",
+  "first_seen_at": "2026-07-23T23:34:32.089077+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-03T08:07:44.379443+00:00",
+  "paths": {
+    "article": "articles/v1/1d/yc-replit/2026/05/ff/ff3c7c01e77a3099f89e0526065d2f4f31c6f9fe2e7a234815b7a58635378756/article.md",
+    "record": "articles/v1/1d/yc-replit/2026/05/ff/ff3c7c01e77a3099f89e0526065d2f4f31c6f9fe2e7a234815b7a58635378756/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3340,
+    "sha256": "sha256:5e2a5d61773dcdd17607a3ba88b5fb175416d65b2db0759e85d0cdf94adc5db3",
+    "normalized_content_hash": "sha256:7315c9ca525485b420284f6e8425254cdda03f9e722c71caa480e80617640fd7"
+  },
+  "provenance": {
+    "source_item_id": "604952c4-d20b-4f81-8db8-8c7c1fa769b7",
+    "external_id": "https://replit.com/blog/secure-more-apps"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f2167c9458d593f209769dd43588c202c5e27c525718d8f06b6e4a3ef5f7159",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/implementing-re-ordering-at-the-database-level-our-experience/",
+    "canonical": "https://www.basedash.com/blog/implementing-re-ordering-at-the-database-level-our-experience/"
+  },
+  "title": "Implementing Re-Ordering at the Database Level: Our Experience",
+  "summary": "Learn how Basedash simplified sidebar page re-ordering by switching from integer indices to floating-point values. Discover the challenges, solutions, and best…",
+  "published_at": "2023-03-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2023/03/0f/0f2167c9458d593f209769dd43588c202c5e27c525718d8f06b6e4a3ef5f7159/article.md",
+    "record": "articles/v1/2d/yc-basedash/2023/03/0f/0f2167c9458d593f209769dd43588c202c5e27c525718d8f06b6e4a3ef5f7159/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8923,
+    "sha256": "sha256:11a321cc4ef0a0fdb8c1495d14529d0909e2b2c0aba5a79641f9de8db089c70d",
+    "normalized_content_hash": "sha256:2121a1872fb68b3bdb164bf4688c9980473262e91d28ae84691a13d74724a2da"
+  },
+  "provenance": {
+    "source_item_id": "7de924e9-b547-4d8c-bcc5-332284c08884",
+    "external_id": "https://www.basedash.com/blog/implementing-re-ordering-at-the-database-level-our-experience/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "936c3ef8d89a6892c1cebac4ce481a90ec9364c42cef32147af15b81aff503d1",
+  "company": {
+    "key": "yc-osmosis",
+    "name": "Osmosis"
+  },
+  "source": {
+    "id": "yc-osmosis-news-import-de01a8838bba",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://osmosis.ai/blogs/exploring-foundation-models-tool-use-efficacy",
+    "canonical": "https://osmosis.ai/blogs/exploring-foundation-models-tool-use-efficacy"
+  },
+  "title": "Exploring Foundation Models' Tool-Use Efficacy",
+  "summary": "Model Context Protocol (MCP) is an open protocol launched by Anthropic to standardize the way LLMs use external tools. AI agents use MCP to enable multi-turn workflows, where an LLM (via products like [Claude Desktop](https://claude.ai/download) or [Cursor](https://docs.cursor.com/en/tools/mcp)) can select and coordinate between tools in multiple MCP servers. Since its introduction, MCP has quickly become the de facto standard for tool integrations with LLMs.",
+  "published_at": "2025-10-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:22:44.798253+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T19:56:56.890048+00:00",
+  "paths": {
+    "article": "articles/v1/21/yc-osmosis/2025/10/93/936c3ef8d89a6892c1cebac4ce481a90ec9364c42cef32147af15b81aff503d1/article.md",
+    "record": "articles/v1/21/yc-osmosis/2025/10/93/936c3ef8d89a6892c1cebac4ce481a90ec9364c42cef32147af15b81aff503d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7223,
+    "sha256": "sha256:1385bd5943718714e33edc2a12ea73d3461b06a04cf0026ab016b9ad85d9b651",
+    "normalized_content_hash": "sha256:650edb6d1c58700f988f229732e267c4ac5998d66532fcc88946c569b07a8791"
+  },
+  "provenance": {
+    "source_item_id": "02432125-10c3-4435-bc4c-3aaed408ce2e",
+    "external_id": "https://osmosis.ai/blogs/exploring-foundation-models-tool-use-efficacy"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba2c38a6ada2fcb316c6a11b69969af7a34c220df5348bbfb40f9ea256ba2035",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation",
+    "canonical": "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation"
+  },
+  "title": "Behavioral Privacy Leakage in Agentic Negotiation: Formalizing and Mitigating Inference Attacks via Randomized Policies",
+  "summary": "This paper was accepted at the AI4TCI (Workshop on AI for Secure and Trustworthy Critical Infrastructure Systems) Workshop at the…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:21:53.638511+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/ba/ba2c38a6ada2fcb316c6a11b69969af7a34c220df5348bbfb40f9ea256ba2035/article.md",
+    "record": "articles/v1/3a/apple/2026/07/ba/ba2c38a6ada2fcb316c6a11b69969af7a34c220df5348bbfb40f9ea256ba2035/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1937,
+    "sha256": "sha256:1e5a778a7bad7777e0dcef104094c888be4d9aa145da5fac5735d99a42d70b2b",
+    "normalized_content_hash": "sha256:938652e5f74e1d076c4acb838ce3fdc48e0ad81e5e57ae236546970788ef54f0"
+  },
+  "provenance": {
+    "source_item_id": "f05b8a80-ef78-41a9-a5dd-3a12ce879b49",
+    "external_id": "https://machinelearning.apple.com/research/behavioral-privacy-agentic-negotiation"
+  }
+}

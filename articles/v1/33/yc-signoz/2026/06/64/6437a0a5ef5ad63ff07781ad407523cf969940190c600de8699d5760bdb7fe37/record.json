@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6437a0a5ef5ad63ff07781ad407523cf969940190c600de8699d5760bdb7fe37",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/comparisons/aws-x-ray-vs-cloudwatch",
+    "canonical": "https://signoz.io/comparisons/aws-x-ray-vs-cloudwatch"
+  },
+  "title": "AWS X-Ray vs CloudWatch Explained: Metrics, Logs, Traces, and When to Use Each",
+  "summary": "CloudWatch handles metrics, logs, and alarms. X-Ray traces request paths across services. Learn how they differ, how they work together, and when you need more.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:42.336159+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/64/6437a0a5ef5ad63ff07781ad407523cf969940190c600de8699d5760bdb7fe37/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/64/6437a0a5ef5ad63ff07781ad407523cf969940190c600de8699d5760bdb7fe37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23539,
+    "sha256": "sha256:ccceaff3b679e2b614303c9b0d168ffd41accc083914130bcf3038e7644f7a27",
+    "normalized_content_hash": "sha256:3becc5a881f68e5fcc3cf40e3760dad1f51eca98dd1a274800c89067efb758b0"
+  },
+  "provenance": {
+    "source_item_id": "95b7b602-fe0f-44b1-a047-e9b3c67bbcc5",
+    "external_id": "https://signoz.io/comparisons/aws-x-ray-vs-cloudwatch"
+  }
+}

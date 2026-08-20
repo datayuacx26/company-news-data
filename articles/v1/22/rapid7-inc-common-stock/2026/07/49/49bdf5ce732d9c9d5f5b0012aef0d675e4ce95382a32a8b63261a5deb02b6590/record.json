@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "49bdf5ce732d9c9d5f5b0012aef0d675e4ce95382a32a8b63261a5deb02b6590",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "source": {
+    "id": "rapid7-inc-common-stock-rss-ea5a9037191f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410",
+    "canonical": "https://www.rapid7.com/blog/post/etr-rapid7-mdr-team-discovers-new-sonicwall-sma1000-zero-days-being-actively-exploited-cve-2026-15409-cve-2026-15410"
+  },
+  "title": "Rapid7 MDR Team Discovers New SonicWall SMA1000 Zero Days being Actively Exploited (CVE-2026-15409, CVE-2026-15410)",
+  "summary": "On July 14, 2026, SonicWall published a security advisory addressing two vulnerabilities affecting SMA1000 Series remote access appliances, including the critical server-side request forgery (SSRF) vulnerability CVE-2026-15409 (CVSS 10.0) and the high-severity code injection vulnerability CVE-2026-15410. The advisory urges customers to immediately apply the latest platform hotfix releases.",
+  "published_at": "2026-07-15T16:19:26+00:00",
+  "first_seen_at": "2026-07-20T23:19:41.599179+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-03T07:58:52.370043+00:00",
+  "paths": {
+    "article": "articles/v1/22/rapid7-inc-common-stock/2026/07/49/49bdf5ce732d9c9d5f5b0012aef0d675e4ce95382a32a8b63261a5deb02b6590/article.md",
+    "record": "articles/v1/22/rapid7-inc-common-stock/2026/07/49/49bdf5ce732d9c9d5f5b0012aef0d675e4ce95382a32a8b63261a5deb02b6590/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13762,
+    "sha256": "sha256:8387cc4869d568d211f20b1ae6902dd7e862359fb8b03de7bfb1962bbf061bce",
+    "normalized_content_hash": "sha256:ad494f965c1be6ef931659a8b67a497a5f3664562240b7c4aa7cb8ef237e3f99"
+  },
+  "provenance": {
+    "source_item_id": "74a82a49-fc7c-479d-9a9d-eaaa6c5af9d5",
+    "external_id": "bltfb1c918a8a50c247"
+  }
+}

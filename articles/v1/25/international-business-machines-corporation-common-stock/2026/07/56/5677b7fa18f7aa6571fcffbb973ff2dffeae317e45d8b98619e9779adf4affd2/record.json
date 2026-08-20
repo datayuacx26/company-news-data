@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5677b7fa18f7aa6571fcffbb973ff2dffeae317e45d8b98619e9779adf4affd2",
+  "company": {
+    "key": "international-business-machines-corporation-common-stock",
+    "name": "International Business Machines Corporation"
+  },
+  "source": {
+    "id": "international-business-machines-corporation-common-stock-news-import-da8ebfcd6a45",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code",
+    "canonical": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code"
+  },
+  "title": "IBM open sources CodeAlchemy, a massive synthetic dataset of high-quality code",
+  "summary": "Introducing CodeAlchemy, a synthetic data pipeline that has already produced nearly 1 trillion tokens of open-source code",
+  "published_at": "2026-07-16T16:20:00+00:00",
+  "first_seen_at": "2026-07-24T12:23:30.059185+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-18T20:19:32.038911+00:00",
+  "paths": {
+    "article": "articles/v1/25/international-business-machines-corporation-common-stock/2026/07/56/5677b7fa18f7aa6571fcffbb973ff2dffeae317e45d8b98619e9779adf4affd2/article.md",
+    "record": "articles/v1/25/international-business-machines-corporation-common-stock/2026/07/56/5677b7fa18f7aa6571fcffbb973ff2dffeae317e45d8b98619e9779adf4affd2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11039,
+    "sha256": "sha256:9069d7d597e2730ff6c8a964d291c2ba2b76d3db1d5398db66f4189e9ad3b39a",
+    "normalized_content_hash": "sha256:63a775e96258146d83845d313fb66fa0bd604f4382a7804609847871b97e75ab"
+  },
+  "provenance": {
+    "source_item_id": "62c4dc62-9858-4a9e-9225-80cc3c85d378",
+    "external_id": "https://research.ibm.com/blog/code-alchemy-for-synthetic-code"
+  }
+}

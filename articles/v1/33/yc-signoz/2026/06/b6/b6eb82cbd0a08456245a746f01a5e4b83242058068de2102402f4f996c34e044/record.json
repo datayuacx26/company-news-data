@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6eb82cbd0a08456245a746f01a5e4b83242058068de2102402f4f996c34e044",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/redis-monitoring",
+    "canonical": "https://signoz.io/blog/redis-monitoring"
+  },
+  "title": "Redis Monitoring 101: A Complete Beginner's Guide (2026)",
+  "summary": "Redis monitoring in 2026: key metrics (memory, hit rate, ops/sec, replication), dashboards, and alerts in SigNoz, via the OpenTelemetry redis receiver.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-07-28T21:10:45.574694+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/b6/b6eb82cbd0a08456245a746f01a5e4b83242058068de2102402f4f996c34e044/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/b6/b6eb82cbd0a08456245a746f01a5e4b83242058068de2102402f4f996c34e044/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18074,
+    "sha256": "sha256:e9c63943e97fa9734bb07dfd6850d85246279e73bc0d74b7258d2cd0a8792b0e",
+    "normalized_content_hash": "sha256:f0d577c2858122e93cf50e7ebb8178e2475e457204f07ac4f2edc3536dd2deca"
+  },
+  "provenance": {
+    "source_item_id": "e1535b1e-5869-415f-83cf-6aa68264d6cc",
+    "external_id": "https://signoz.io/blog/redis-monitoring"
+  }
+}

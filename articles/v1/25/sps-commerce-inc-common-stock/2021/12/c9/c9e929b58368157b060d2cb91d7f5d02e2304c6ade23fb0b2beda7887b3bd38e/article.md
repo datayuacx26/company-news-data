@@ -1,0 +1,28 @@
+---
+schema_version: "1.0.0"
+document_id: "c9e929b58368157b060d2cb91d7f5d02e2304c6ade23fb0b2beda7887b3bd38e"
+company_key: "sps-commerce-inc-common-stock"
+company: "SPS Commerce Inc."
+source_id: "sps-commerce-inc-common-stock-rss-e53e7c01950b"
+canonical_url: "https://tech.spscommerce.com/2021/12/08/technology-internship-positions.html"
+published_at: "2021-12-08T18:50:32+00:00"
+first_seen_at: "2026-07-20T23:19:01.810458+00:00"
+fetched_at: "2026-07-28T21:04:10.558196+00:00"
+content_hash: "sha256:59bfd9735e2cba5d66b8c06d34bff2ae881d72a71a32caae90001e37e6def63d"
+---
+
+# 2022 Technology Internship Positions Now Open!
+
+Our interns are the coolest bunch around, and we are looking forward to meeting the next round of incredible minds for our 2022 program. (Seriously, read about our team from last year and you will see![Goodbye Summer Interns](https://tech.spscommerce.com/2021/08/20/goodbye-summer-interns.html) )
+
+
+TeamSPS is hiring 11 interns for our summer 2022 internship program. You will work as part of our larger technology team of over 300 people around the globe. SPS internships are paid. You will be an active contributing member of the team. You will use the same technologies our engineers use and work side-by-side with them on our production systems running at a massive scale in the cloud. We also believe in growing our interns both professionally and personally. You can expect many learning sessions about how to build your professional network, create an attractive resume, and job searching in today’s market, in addition to improving your technical knowledge. Our intern program is designed for you to continue your learning and gain usable experience. As a result, no one will ask you to get coffee, make copies, or run errands. Instead, you will be expected to ask questions and help us create production-quality code.
+
+
+There are available positions in Software Engineering, on our Corporate Security, and Technology Learning Services Teams.
+
+
+[Check out this link to learn more about SPS Internships!](https://lnkd.in/grSZGwqU)
+
+
+[SPS Technology](https://tech.spscommerce.com/)[@spstech](https://micro.blog/spstech)

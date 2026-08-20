@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61c0e7e9af37c82312223596d4b2ec8a07a1413065066b32d831990ea84f25f4",
+  "company": {
+    "key": "yc-questdb",
+    "name": "QuestDB"
+  },
+  "source": {
+    "id": "yc-questdb-news-import-d0368e5a3210",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://questdb.com/blog/questdb-9-3-4-and-enterprise-3-2-4-release/",
+    "canonical": "https://questdb.com/blog/questdb-9-3-4-and-enterprise-3-2-4-release/"
+  },
+  "title": "QuestDB 9.3.4: Dynamic WINDOW JOIN & Parquet Bloom Filters",
+  "summary": "QuestDB 9.3.4 adds dynamic WINDOW JOIN ranges, Parquet bloom filters, and array analytics, plus Enterprise 3.2.4's COPY PERMISSIONS and permission cleanup.",
+  "published_at": "2026-04-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T21:54:08.144992+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-08-06T14:25:34.798942+00:00",
+  "paths": {
+    "article": "articles/v1/11/yc-questdb/2026/04/61/61c0e7e9af37c82312223596d4b2ec8a07a1413065066b32d831990ea84f25f4/article.md",
+    "record": "articles/v1/11/yc-questdb/2026/04/61/61c0e7e9af37c82312223596d4b2ec8a07a1413065066b32d831990ea84f25f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12305,
+    "sha256": "sha256:e28a859d8f3e02461bc5ec7ba630b704cd258e5029ac77eb13a96fc7043bea51",
+    "normalized_content_hash": "sha256:b2bd972a721fdb5d4f0172e253797b165d5f03a0059d45864dc666c08e2fad68"
+  },
+  "provenance": {
+    "source_item_id": "82ae76d1-5a69-4a66-b760-b0b111c706dc",
+    "external_id": "https://questdb.com/blog/questdb-9-3-4-and-enterprise-3-2-4-release/"
+  }
+}

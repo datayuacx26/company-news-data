@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8bcae941ae74ef4602b4abb3bcc8ecba8bc6b5c219c494a51e41b8c0630504b2",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/post-mortem-feb-2022",
+    "canonical": "https://authzed.com/blog/post-mortem-feb-2022"
+  },
+  "title": "Post-Mortem: Feb 16 2022",
+  "summary": "Learn about the root cause of the Authzed API latency issue on February 16th 2022, how it was resolved, and steps taken to prevent future incidents.",
+  "published_at": "2022-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2022/02/8b/8bcae941ae74ef4602b4abb3bcc8ecba8bc6b5c219c494a51e41b8c0630504b2/article.md",
+    "record": "articles/v1/15/yc-authzed/2022/02/8b/8bcae941ae74ef4602b4abb3bcc8ecba8bc6b5c219c494a51e41b8c0630504b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11121,
+    "sha256": "sha256:6fbe25f9353a3d691f37f9e92e54a1793348fd2e907ec0169d001757f78dfb08",
+    "normalized_content_hash": "sha256:2ebe186bb6cbf4fa0ebb3764343eb4e48d7b6fddb0c401ac3efd64ca4efae4d5"
+  },
+  "provenance": {
+    "source_item_id": "2ce80af6-fda8-48ed-9475-d2c3815b75aa",
+    "external_id": "https://authzed.com/blog/post-mortem-feb-2022"
+  }
+}

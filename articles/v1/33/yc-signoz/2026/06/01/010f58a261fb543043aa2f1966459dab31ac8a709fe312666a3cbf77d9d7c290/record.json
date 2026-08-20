@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "010f58a261fb543043aa2f1966459dab31ac8a709fe312666a3cbf77d9d7c290",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/integrations/nginx",
+    "canonical": "https://signoz.io/docs/integrations/nginx"
+  },
+  "title": "Nginx Logs",
+  "summary": "Monitor NGINX logs in SigNoz for querying, aggregation, and troubleshooting.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/01/010f58a261fb543043aa2f1966459dab31ac8a709fe312666a3cbf77d9d7c290/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/01/010f58a261fb543043aa2f1966459dab31ac8a709fe312666a3cbf77d9d7c290/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 573,
+    "sha256": "sha256:78bdd91d2248668569180a8901364f49b626834e184e3ab34b9f04c76206df3f",
+    "normalized_content_hash": "sha256:817216be064df75c19bce154120578beb596e2fbe4f401b410cc57089c1ff876"
+  },
+  "provenance": {
+    "source_item_id": "88229716-9ba7-48c6-a272-d1e081465fcf",
+    "external_id": "https://signoz.io/docs/integrations/nginx"
+  }
+}

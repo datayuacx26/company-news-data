@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bde86cd994b97e40947931551747abdd14384a7658e0cd633031cff7dd60d1da",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/spicedb-reflection-apis",
+    "canonical": "https://authzed.com/blog/spicedb-reflection-apis"
+  },
+  "title": "Announcing Reflection APIs in SpiceDB",
+  "summary": "SpiceDB's latest update introduces experimental reflection APIs, enabling developers to examine the structure and dependencies within their authorization schema dynamically. Enhance your understanding and management of SpiceDB permissions with these powerful tools.",
+  "published_at": "2024-06-03T19:37:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2024/06/bd/bde86cd994b97e40947931551747abdd14384a7658e0cd633031cff7dd60d1da/article.md",
+    "record": "articles/v1/15/yc-authzed/2024/06/bd/bde86cd994b97e40947931551747abdd14384a7658e0cd633031cff7dd60d1da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13037,
+    "sha256": "sha256:2038da7b75600ac174c83a7704aeadcb35823e8a3832c6f1af39e2a7baff87a0",
+    "normalized_content_hash": "sha256:5f7ae3fc46fef92a10872a28565f28016582650c83b3fe5e834ceb83661ece50"
+  },
+  "provenance": {
+    "source_item_id": "551c456c-45bf-4eaa-ba6b-9f2c143c5d3f",
+    "external_id": "https://authzed.com/blog/spicedb-reflection-apis"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "494e4a748407a641659693abd0cc3177625ef17d8a7603277b9385be6c375fe2",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/karpathy-autoresearch-query-engine-bug",
+    "canonical": "https://posthog.com/blog/karpathy-autoresearch-query-engine-bug"
+  },
+  "title": "Karpathy's Autoresearch found a 3-year-old bug in our query engine (and improved performance by 11%)",
+  "summary": "A few weeks ago at a team offsite in Lisbon, we pointed an AI agent at our query engine, fed it slow queries from production, and let it run overnight…",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2026/06/49/494e4a748407a641659693abd0cc3177625ef17d8a7603277b9385be6c375fe2/article.md",
+    "record": "articles/v1/0e/yc-posthog/2026/06/49/494e4a748407a641659693abd0cc3177625ef17d8a7603277b9385be6c375fe2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13412,
+    "sha256": "sha256:84042b4486085ac18a3e533a566a75f1302167a4e495b08076320b1cbd65f8b8",
+    "normalized_content_hash": "sha256:3e980531767c492c3511dc8157dd9a3b3c98369f03c8d24667b3a6fbe5f5ef60"
+  },
+  "provenance": {
+    "source_item_id": "43423ba5-71c3-4674-9113-8955d582648a",
+    "external_id": "ca405ab6-dab7-56d3-9d91-db6bffcda269"
+  }
+}

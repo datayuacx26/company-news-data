@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-munify",
+    "name": "Munify"
+  },
+  "record_count": 8,
+  "first_published_at": "2025-04-25T00:00:00+00:00",
+  "last_published_at": "2026-08-13T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/18/yc-munify/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 8798,
+        "sha256": "sha256:a81c42b6737ffba0e5315aba3a7543773902854a1cc738b2af5e56a587c1ec8f",
+        "newest_at": "2026-08-13T00:00:00+00:00",
+        "oldest_at": "2025-04-25T00:00:00+00:00"
+      }
+    ]
+  }
+}

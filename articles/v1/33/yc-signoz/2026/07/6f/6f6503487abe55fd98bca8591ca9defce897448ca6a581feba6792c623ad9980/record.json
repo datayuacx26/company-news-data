@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f6503487abe55fd98bca8591ca9defce897448ca6a581feba6792c623ad9980",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/inkeep-ai-agent-monitoring",
+    "canonical": "https://signoz.io/blog/inkeep-ai-agent-monitoring"
+  },
+  "title": "How Inkeep Monitors Their AI Agent Framework with SigNoz",
+  "summary": "How Inkeep monitors its AI agent framework with SigNoz and OpenTelemetry: tracing agent runs, tool calls, and token usage via GenAI conventions.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-07-28T20:48:00.504529+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/6f/6f6503487abe55fd98bca8591ca9defce897448ca6a581feba6792c623ad9980/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/6f/6f6503487abe55fd98bca8591ca9defce897448ca6a581feba6792c623ad9980/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17548,
+    "sha256": "sha256:dc2acc4908a7662f9bfa522583286829b06ff7269db4f87f2e61c290120e4369",
+    "normalized_content_hash": "sha256:c1256c059088db7a22fe261dab1d59ff0df2931f2293ace5d45275df36389f11"
+  },
+  "provenance": {
+    "source_item_id": "78b55163-6d1c-45cb-a13e-b968d83185ca",
+    "external_id": "https://signoz.io/blog/inkeep-ai-agent-monitoring"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2ae4af2e265e7d5a371dbf29bea4e4007cc2943fe6ddc53cc94f7096c59e588",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/when-to-add-a-data-warehouse-signals-your-startup-has-outgrown-its-production-database/",
+    "canonical": "https://www.basedash.com/blog/when-to-add-a-data-warehouse-signals-your-startup-has-outgrown-its-production-database/"
+  },
+  "title": "When to add a data warehouse: signals your startup has outgrown its production database",
+  "summary": "A practical decision framework for startups: when analytics on a production database is fine, when to add a read replica, and when a real warehouse is overdue.",
+  "published_at": "2026-05-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T22:13:09.708388+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/05/f2/f2ae4af2e265e7d5a371dbf29bea4e4007cc2943fe6ddc53cc94f7096c59e588/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/05/f2/f2ae4af2e265e7d5a371dbf29bea4e4007cc2943fe6ddc53cc94f7096c59e588/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21332,
+    "sha256": "sha256:fba2f9eb08bc9685d2727553b5571435d3dd6ec2c0871939457d742a88aa3b22",
+    "normalized_content_hash": "sha256:0e26b582d8280cd5653ee53a9c229adabb3a53604ba351a5dc2a156c7bf87924"
+  },
+  "provenance": {
+    "source_item_id": "e8a199dd-b0fe-4ce8-93ce-5c282d3f7dfe",
+    "external_id": "https://www.basedash.com/blog/when-to-add-a-data-warehouse-signals-your-startup-has-outgrown-its-production-database/"
+  }
+}

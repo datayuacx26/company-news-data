@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f7087499f62097e0cc769313b7aec6c742f4383b3e690e99b23022425c9666db",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/go-ecosystem",
+    "canonical": "https://authzed.com/blog/go-ecosystem"
+  },
+  "title": "We picked Go for the Ecosystem",
+  "summary": "Authzed builds a platform to manage app permissions. SpiceDB, their open-source graph database, was initially built in Python but was later rebuilt in Go to address architectural concerns. ion.",
+  "published_at": "2021-10-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:04:47.382363+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2021/10/f7/f7087499f62097e0cc769313b7aec6c742f4383b3e690e99b23022425c9666db/article.md",
+    "record": "articles/v1/15/yc-authzed/2021/10/f7/f7087499f62097e0cc769313b7aec6c742f4383b3e690e99b23022425c9666db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9327,
+    "sha256": "sha256:34e8fcc82005a1062eb0fe3526801eb76a1bcd1c68dd86066be0966142668c8f",
+    "normalized_content_hash": "sha256:ccbe40ae534d0b9890f1217e28a115ff76c2a7bf5bf8321caed80d024735f727"
+  },
+  "provenance": {
+    "source_item_id": "2a9a8659-dfe2-4ecb-8a56-3167898c3112",
+    "external_id": "https://authzed.com/blog/go-ecosystem"
+  }
+}

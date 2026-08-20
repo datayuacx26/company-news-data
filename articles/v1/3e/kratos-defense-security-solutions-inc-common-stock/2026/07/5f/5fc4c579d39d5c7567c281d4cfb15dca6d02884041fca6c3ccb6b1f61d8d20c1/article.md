@@ -1,0 +1,33 @@
+---
+schema_version: "1.0.0"
+document_id: "5fc4c579d39d5c7567c281d4cfb15dca6d02884041fca6c3ccb6b1f61d8d20c1"
+company_key: "kratos-defense-security-solutions-inc-common-stock"
+company: "Kratos Defense & Security Solutions Inc."
+source_id: "kratos-defense-security-solutions-inc-common-stock-news-import-8a9393f1d5ed"
+canonical_url: "https://www.kratosdefense.com/newsroom/kratos-receives-approximate-36-million-air-defense-system-single-award-contract"
+published_at: "2026-07-02T12:06:29+00:00"
+first_seen_at: "2026-07-22T01:42:27.041188+00:00"
+fetched_at: "2026-07-28T21:43:26.997349+00:00"
+content_hash: "sha256:511f076eaef38a0a8540ca45ac158387c64ec2168eaf59d2aff18fce1353f71c"
+---
+
+# Kratos Receives Approximate $36 Million Air Defense System Single Award Contract
+
+SAN DIEGO, July 02, 2026 (GLOBE NEWSWIRE) — Kratos Defense & Security Solutions, Inc. (Nasdaq: KTOS), a technology company in the defense, national security and global markets, today announced that it has recently received an approximate $36 million sole-source contract award for a new air defense missile system. Kratos is a recognized industry leader in the rapid engineering, development and production at scale of affordable military-grade hardware, products and systems, including for hypersonic, missile, radar, air defense, directed energy, high-powered microwave, counter unmanned aerial system (C-UAS), chemical, biological, radiological, and nuclear (CBRN), unmanned aerial drone, strategic, and other systems.
+
+
+**Tom Mills, President of Kratos’ C5ISR Division** , said, “Building military-grade hardware on schedule and on budget, hardware that must work every time, is hard, and is also a clear differentiating capability of Kratos. The entire C5ISR team is proud to have been selected for this critical national security program.”
+
+
+**Eric DeMarco, President and CEO of Kratos** , said, “Kratos’ air defense related hardware, products, and systems business, both in the United States and internationally, is currently seeing increased demand from numerous customers for multiple systems, platforms and technologies. Over the past several years, Kratos has made significant investments in property, plant, equipment and facilities, which we are continuing as we are laser focused on supporting the United States Department of War and the rebuild and recapitalization of our nation’s defense industrial base.”
+
+
+Work under this contract award will be performed at a secure Kratos manufacturing facility. Due to security related, competitive and other considerations, no additional information related to this program will be provided.
+
+
+**About Kratos Defense & Security Solutions**
+Kratos Defense & Security Solutions, Inc. (NASDAQ: KTOS) is a technology, products, system and software company addressing the defense, national security, and commercial markets. Kratos makes true internally funded research, development, capital and other investments, to rapidly develop, produce and field solutions that address our customers’ mission critical needs and requirements. At Kratos, affordability is a technology, and we seek to utilize proven, leading-edge approaches and technology, not unproven bleeding edge approaches or technology, with Kratos’ approach designed to reduce cost, schedule and risk, enabling us to be first to market with cost effective solutions. We believe that Kratos is known as an innovative disruptive change agent in the industry, a company that is an expert in designing products and systems up front for successful rapid, large quantity, low-cost future manufacturing which is a value-add competitive differentiator for our large traditional prime system integrator partners and also to our government and commercial customers. Kratos intends to pursue program and contract opportunities as the prime or lead contractor when we believe that our probability of win (PWin) is high and any investment required by Kratos is within our capital resource comfort level. We intend to partner and team with a large, traditional system integrator when our assessment of PWin is greater or required investment is beyond Kratos’ comfort level. Kratos’ primary business areas include virtualized ground systems for satellites and space vehicles including software for command & control (C2) and telemetry, tracking and control (TT&C), jet powered unmanned aerial drone systems, hypersonic vehicles and rocket systems, propulsion systems for drones, missiles, loitering munitions, supersonic systems, space craft and launch systems, C5ISR and microwave electronic products for missile, radar, missile defense, space, satellite, counter UAS, directed energy, communication and other systems, and virtual & augmented reality training systems for the warfighter. For more information, visit[www.KratosDefense.com](https://www.globenewswire.com/Tracker?data=HetbBeLL0anLvVJ4MJ2_vhCVxIw85G4I4DI2eVewvZ9H9LQg7keXLrlJLxmubuWGiGx6_AyZxVRBeFXuDfgMFZlpnPQau98QtNAnJAdtsYk=) and follow Kratos on[LinkedIn](https://www.globenewswire.com/Tracker?data=DipJL45BzFXL8ITf3FnKUnYCTd7GqqUBa_9rXeSKs40-D4mpdaPP2YAzxRLQpcSCzma7IzkK7Si-YJSfciTu3nGAUKPSDnt6JgUoRO9bIds764oj7Pa1IFgV-esy56qWGvD9g8dc8NsUrjhziYxFIw==) and[X](https://www.globenewswire.com/Tracker?data=XGWmEGsckSO0pexVvxVp6rbOy62wqsvyTQdKrlwx5OPX-hNGCeQQRGeXw7pmukerZgPJYAnW3wM8KLkcplNpZg==) .
+
+
+**Notice Regarding Forward-Looking Statements**
+Certain statements in this press release may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are made on the basis of the current beliefs, expectations and assumptions of the management of Kratos and are subject to significant risks and uncertainty. Investors are cautioned not to place undue reliance on any such forward-looking statements. All such forward-looking statements speak only as of the date they are made, and Kratos undertakes no obligation to update or revise these statements, whether as a result of new information, future events or otherwise. Although Kratos believes that the expectations reflected in these forward-looking statements are reasonable, these statements involve many risks and uncertainties that may cause actual results to differ materially from what may be expressed or implied in these forward-looking statements. For a further discussion of risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to the business of Kratos in general, see the risk disclosures in the Annual Report on Form 10-K of Kratos for the year ended December 28, 2025, and in subsequent reports on Forms 10-Q and 8-K and other filings made with the SEC by Kratos.

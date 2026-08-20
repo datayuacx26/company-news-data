@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2439a4d164b584175ddecef8e8ba86cd5f2e2f8e9fc7165b3b472a31b537419a",
+  "company": {
+    "key": "yc-camelai",
+    "name": "camelAI"
+  },
+  "source": {
+    "id": "yc-camelai-news-import-786838659b06",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://camelai.com/blog/we-tried-every-container-service-then-built-our-own",
+    "canonical": "https://camelai.com/blog/we-tried-every-container-service-then-built-our-own"
+  },
+  "title": "We tried Modal, Cloudflare Containers, and Sprites before building our own persistent container service",
+  "summary": "Every user on camelAI gets a persistent computer. We tried Modal, Cloudflare Containers, and Sprites — none fit. So we built our own container service in a week, and it was simpler than expected.",
+  "published_at": "2026-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:13:37.473099+00:00",
+  "fetched_at": "2026-07-28T21:56:54.694470+00:00",
+  "last_updated_at": "2026-08-20T02:48:12.385654+00:00",
+  "paths": {
+    "article": "articles/v1/24/yc-camelai/2026/03/24/2439a4d164b584175ddecef8e8ba86cd5f2e2f8e9fc7165b3b472a31b537419a/article.md",
+    "record": "articles/v1/24/yc-camelai/2026/03/24/2439a4d164b584175ddecef8e8ba86cd5f2e2f8e9fc7165b3b472a31b537419a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9736,
+    "sha256": "sha256:167ea82cfbdc98a1a398fb0b4c3c24af975dd650660f7bcbcea266dab63ea70d",
+    "normalized_content_hash": "sha256:0f08a0324f575ebd394d3efe700519770f3f713d57fc356ae34fb44401a800a0"
+  },
+  "provenance": {
+    "source_item_id": "75b37588-b8bf-4f61-915f-7ec2b524015a",
+    "external_id": "https://camelai.com/blog/we-tried-every-container-service-then-built-our-own"
+  }
+}

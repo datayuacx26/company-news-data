@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c419e1d8b525eb612c78329226a7f9ab5477a9625c79451911eaf4c13cb7fac",
+  "company": {
+    "key": "yc-boundary",
+    "name": "Boundary"
+  },
+  "source": {
+    "id": "yc-boundary-news-import-b6810cf62b42",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://boundaryml.com/blog/uuid-swap",
+    "canonical": "https://boundaryml.com/blog/uuid-swap"
+  },
+  "title": "Using UUIDs in prompts is bad",
+  "summary": "Guidance on dealing with entity IDs in LLM functions",
+  "published_at": "2025-10-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:11:53.929220+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T19:19:32.174101+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-boundary/2025/10/9c/9c419e1d8b525eb612c78329226a7f9ab5477a9625c79451911eaf4c13cb7fac/article.md",
+    "record": "articles/v1/22/yc-boundary/2025/10/9c/9c419e1d8b525eb612c78329226a7f9ab5477a9625c79451911eaf4c13cb7fac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8739,
+    "sha256": "sha256:18ac4fb4048fd366f760cd43abfa2baa3be855a1c6f360bd21c88dfff14c564b",
+    "normalized_content_hash": "sha256:47c60d406c2ac81fc6c805c2a47bef231fbea4ebd5ada0c069066dc1f0cadf91"
+  },
+  "provenance": {
+    "source_item_id": "e605265c-274b-4072-bc68-0b85be4280d1",
+    "external_id": "https://boundaryml.com/blog/uuid-swap"
+  }
+}

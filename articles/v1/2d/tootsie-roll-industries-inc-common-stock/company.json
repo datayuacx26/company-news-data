@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "tootsie-roll-industries-inc-common-stock",
+    "name": "Tootsie Roll Industries Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2024-09-26T23:05:29+00:00",
+  "last_published_at": "2025-01-28T17:15:56+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/2d/tootsie-roll-industries-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11008,
+        "sha256": "sha256:cfe0fa930c45b7349d662f207237cf63696e4b84810203fc127a6089917bb354",
+        "newest_at": "2025-01-28T17:15:56+00:00",
+        "oldest_at": "2024-09-26T23:05:29+00:00"
+      }
+    ]
+  }
+}

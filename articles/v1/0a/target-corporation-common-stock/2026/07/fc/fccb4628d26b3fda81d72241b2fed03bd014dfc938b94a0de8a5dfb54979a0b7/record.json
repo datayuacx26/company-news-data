@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fccb4628d26b3fda81d72241b2fed03bd014dfc938b94a0de8a5dfb54979a0b7",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9e9cef1eb453",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/press/release/2026/07/target-appoints-former-7-eleven-ceo-to-board-of-directors",
+    "canonical": "https://corporate.target.com/press/release/2026/07/target-appoints-former-7-eleven-ceo-to-board-of-directors"
+  },
+  "title": "Target Appoints Former 7-Eleven CEO to Board of Directors",
+  "summary": "Joe DePinto will join Target's Board of Directors on Aug. 1 and serve on Infrastructure & Finance and Audit & Risk committees. DePinto adds expertise in operations, loyalty, fresh food and...",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:35.444421+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-19T17:38:58.640482+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/07/fc/fccb4628d26b3fda81d72241b2fed03bd014dfc938b94a0de8a5dfb54979a0b7/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/07/fc/fccb4628d26b3fda81d72241b2fed03bd014dfc938b94a0de8a5dfb54979a0b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3309,
+    "sha256": "sha256:f4da4289d0a33de92182479f0142cbad9658bf50d80d40ec986068daabe0a34e",
+    "normalized_content_hash": "sha256:2d5739170b8c08c2f0211fff6b3eb359b53c42b582056e845b16f7033f8a5543"
+  },
+  "provenance": {
+    "source_item_id": "7c8bf077-798a-44f3-bba2-6afed92558e4",
+    "external_id": "https://corporate.target.com/press/release/2026/07/target-appoints-former-7-eleven-ceo-to-board-of-directors"
+  }
+}

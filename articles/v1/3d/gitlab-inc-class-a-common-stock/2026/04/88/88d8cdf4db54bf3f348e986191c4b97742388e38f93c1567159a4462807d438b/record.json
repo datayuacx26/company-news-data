@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88d8cdf4db54bf3f348e986191c4b97742388e38f93c1567159a4462807d438b",
+  "company": {
+    "key": "gitlab-inc-class-a-common-stock",
+    "name": "GitLab Inc."
+  },
+  "source": {
+    "id": "gitlab-inc-class-a-common-stock-news-import-53e8505a9d97",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.gitlab.com/blog/curl-removed-from-omnibus-gitlab-fips-packages-in-19-0/",
+    "canonical": "https://about.gitlab.com/blog/curl-removed-from-omnibus-gitlab-fips-packages-in-19-0/"
+  },
+  "title": "curl removed from Omnibus-GitLab FIPS packages in 19.0",
+  "summary": "With the Omnibus-GitLab 19.0 Release, GitLab will stop building curl for FIPS customers. Here’s what you need to know.",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T06:37:24.143169+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-19T15:42:41.630010+00:00",
+  "paths": {
+    "article": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/04/88/88d8cdf4db54bf3f348e986191c4b97742388e38f93c1567159a4462807d438b/article.md",
+    "record": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/04/88/88d8cdf4db54bf3f348e986191c4b97742388e38f93c1567159a4462807d438b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2736,
+    "sha256": "sha256:27ce4583ab54e5911ece975a2b628104b1c9b797899d91ad65d21439527a48af",
+    "normalized_content_hash": "sha256:94d4e698148b9dc22319da0a29c6211feaeabd8f28f828683022d3310564b6b9"
+  },
+  "provenance": {
+    "source_item_id": "2af2f170-f296-4400-b43a-e62df2867cf8",
+    "external_id": "https://about.gitlab.com/blog/curl-removed-from-omnibus-gitlab-fips-packages-in-19-0/"
+  }
+}

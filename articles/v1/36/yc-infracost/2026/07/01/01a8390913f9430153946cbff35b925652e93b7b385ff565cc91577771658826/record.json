@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01a8390913f9430153946cbff35b925652e93b7b385ff565cc91577771658826",
+  "company": {
+    "key": "yc-infracost",
+    "name": "Infracost"
+  },
+  "source": {
+    "id": "yc-infracost-news-import-5e947f59e679",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.infracost.io/resources/blog/terraform-plan-output-support-cli-v2",
+    "canonical": "https://www.infracost.io/resources/blog/terraform-plan-output-support-cli-v2"
+  },
+  "title": "Cost your Terraform plan JSON directly",
+  "summary": "Point infracost scan at your Terraform or OpenTofu plan JSON (from terraform show -json) for a full cost breakdown. Available in CLI v2.4.2 or later.",
+  "published_at": "2026-07-02T00:10:00+00:00",
+  "first_seen_at": "2026-07-23T11:56:51.837513+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T00:23:11.048076+00:00",
+  "paths": {
+    "article": "articles/v1/36/yc-infracost/2026/07/01/01a8390913f9430153946cbff35b925652e93b7b385ff565cc91577771658826/article.md",
+    "record": "articles/v1/36/yc-infracost/2026/07/01/01a8390913f9430153946cbff35b925652e93b7b385ff565cc91577771658826/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3111,
+    "sha256": "sha256:9021e8940814dd27fca5a483f705f9675496d3a8e98874ce3a831fad17010f8c",
+    "normalized_content_hash": "sha256:a4ae2b1fdbea657b77d108f989bcdcdf2745814a4d1fabbce1b8a51551ee5e35"
+  },
+  "provenance": {
+    "source_item_id": "67a20c71-32f8-433f-be76-4fa906fb482d",
+    "external_id": "https://www.infracost.io/resources/blog/terraform-plan-output-support-cli-v2"
+  }
+}

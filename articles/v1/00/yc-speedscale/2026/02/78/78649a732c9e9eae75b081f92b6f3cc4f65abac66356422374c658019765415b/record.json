@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78649a732c9e9eae75b081f92b6f3cc4f65abac66356422374c658019765415b",
+  "company": {
+    "key": "yc-speedscale",
+    "name": "Speedscale"
+  },
+  "source": {
+    "id": "yc-speedscale-rss-29bb6cbf6f6f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://speedscale.com/blog/kubernetes-chaos-engineering-tools/",
+    "canonical": "https://speedscale.com/blog/kubernetes-chaos-engineering-tools/"
+  },
+  "title": "Top 7 Kubernetes Chaos Engineering Tools",
+  "summary": "Developing highly resilient Kubernetes deployments is crucial for ensuring that your hosted applications in Kubernetes can effectively manage and recover.",
+  "published_at": "2026-02-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:41.172985+00:00",
+  "fetched_at": "2026-07-28T22:22:42.278869+00:00",
+  "last_updated_at": "2026-08-20T01:47:18.560493+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-speedscale/2026/02/78/78649a732c9e9eae75b081f92b6f3cc4f65abac66356422374c658019765415b/article.md",
+    "record": "articles/v1/00/yc-speedscale/2026/02/78/78649a732c9e9eae75b081f92b6f3cc4f65abac66356422374c658019765415b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 32028,
+    "sha256": "sha256:832e05f900bc5528cfe91e6207225f4f91b552950c610b1570e488f6a1b34318",
+    "normalized_content_hash": "sha256:f4375b6d85ca9bbe24afc5c6db7a9d088182dbcb3f4f5a526ea832a467e3c02a"
+  },
+  "provenance": {
+    "source_item_id": "19c2fb69-15be-43d5-b0c9-538a4baa391b",
+    "external_id": "https://speedscale.com/blog/kubernetes-chaos-engineering-tools/"
+  }
+}

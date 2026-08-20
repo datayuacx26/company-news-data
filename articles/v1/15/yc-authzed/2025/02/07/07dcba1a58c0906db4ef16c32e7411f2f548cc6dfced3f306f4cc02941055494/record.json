@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07dcba1a58c0906db4ef16c32e7411f2f548cc6dfced3f306f4cc02941055494",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/build-time-bound-permissions-with-relationship-expiration-in-spicedb",
+    "canonical": "https://authzed.com/blog/build-time-bound-permissions-with-relationship-expiration-in-spicedb"
+  },
+  "title": "Build Time-Bound Permissions with Relationship Expiration in SpiceDB",
+  "summary": "Today we are announcing the experimental release of Relationship Expiration, which is a straightforward, secure, and dynamic way to manage time-bound permissions directly within SpiceDB.",
+  "published_at": "2025-02-13T10:16:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2025/02/07/07dcba1a58c0906db4ef16c32e7411f2f548cc6dfced3f306f4cc02941055494/article.md",
+    "record": "articles/v1/15/yc-authzed/2025/02/07/07dcba1a58c0906db4ef16c32e7411f2f548cc6dfced3f306f4cc02941055494/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8681,
+    "sha256": "sha256:54cf9605f4181200285233371da5286a859be16afd89f1afbe051d9e1e23611b",
+    "normalized_content_hash": "sha256:25d1cff957e354fced418b3b258cfefebe7a25075476d1756ac5397e76749b75"
+  },
+  "provenance": {
+    "source_item_id": "b6fa9f93-3c06-4d9a-8692-5d3495c757f5",
+    "external_id": "https://authzed.com/blog/build-time-bound-permissions-with-relationship-expiration-in-spicedb"
+  }
+}

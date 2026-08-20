@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf10f8c0dcc717d1bb31dcf25489907ab102a3cbdce576a078d686d58aa02a2b",
+  "company": {
+    "key": "microsoft-corporation-common-stock",
+    "name": "Microsoft Corporation"
+  },
+  "source": {
+    "id": "microsoft-corporation-common-stock-news-import-bfb1f574a3a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/",
+    "canonical": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/"
+  },
+  "title": "Accelerate modern Linux workloads with Azure Files",
+  "summary": "Explore how Azure Files NFS supports modern Linux workloads across AI, cloud-native, enterprise modernization, and partner or ISV scenarios.",
+  "published_at": "2026-06-29T15:00:00+00:00",
+  "first_seen_at": "2026-07-25T02:59:23.665583+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-06T01:28:57.133884+00:00",
+  "paths": {
+    "article": "articles/v1/18/microsoft-corporation-common-stock/2026/06/cf/cf10f8c0dcc717d1bb31dcf25489907ab102a3cbdce576a078d686d58aa02a2b/article.md",
+    "record": "articles/v1/18/microsoft-corporation-common-stock/2026/06/cf/cf10f8c0dcc717d1bb31dcf25489907ab102a3cbdce576a078d686d58aa02a2b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11631,
+    "sha256": "sha256:f0912865c2184c0d9d4b77b3e2cdd70021e796900a66ef29a4b7a8a5497fe11f",
+    "normalized_content_hash": "sha256:ea1a3216020c43fd82a271df03bc6318a860ffb8c89385335968a08730c361ad"
+  },
+  "provenance": {
+    "source_item_id": "d965df47-60b9-41e8-8b68-51604025feb9",
+    "external_id": "https://azure.microsoft.com/en-us/blog/accelerate-modern-linux-workloads-with-azure-files/"
+  }
+}

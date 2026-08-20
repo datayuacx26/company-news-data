@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d261c77a7fa76fcff3fbd5490c069f9621c21852f48815f802f7201c893a89c",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/docker-logs-grep",
+    "canonical": "https://signoz.io/guides/docker-logs-grep"
+  },
+  "title": "How to Grep Docker Logs - A Quick Guide",
+  "summary": "Learn how to use grep with Docker logs for efficient filtering and troubleshooting, from basic patterns to advanced multiline search.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.353189+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/3d/3d261c77a7fa76fcff3fbd5490c069f9621c21852f48815f802f7201c893a89c/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/3d/3d261c77a7fa76fcff3fbd5490c069f9621c21852f48815f802f7201c893a89c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21855,
+    "sha256": "sha256:a1cd1cc1291626b568ac09eff8dad879f0362d8220026c7381156ed8de9ecd23",
+    "normalized_content_hash": "sha256:06076f5f4abac2766558eaaf26a75f44f46d646dcfac460272c3226095fa478f"
+  },
+  "provenance": {
+    "source_item_id": "a8522763-7211-486a-9188-0b2100434ede",
+    "external_id": "https://signoz.io/guides/docker-logs-grep"
+  }
+}

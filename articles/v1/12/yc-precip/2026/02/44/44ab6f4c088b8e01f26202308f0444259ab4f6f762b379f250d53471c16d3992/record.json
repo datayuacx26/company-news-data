@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44ab6f4c088b8e01f26202308f0444259ab4f6f762b379f250d53471c16d3992",
+  "company": {
+    "key": "yc-precip",
+    "name": "Precip"
+  },
+  "source": {
+    "id": "yc-precip-rss-f59c0f39e1b1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://precip.ai/blog/precipitation-charts-compare-and-noncumulative/",
+    "canonical": "https://precip.ai/blog/precipitation-charts-compare-and-noncumulative/"
+  },
+  "title": "Precipitation charts in Precip",
+  "summary": "Compare multiple years on cumulative charts and view precipitation by day, month, or year with the non-cumulative chart.",
+  "published_at": "2026-02-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:06.643563+00:00",
+  "fetched_at": "2026-07-28T22:22:21.045319+00:00",
+  "last_updated_at": "2026-08-20T02:00:38.381877+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-precip/2026/02/44/44ab6f4c088b8e01f26202308f0444259ab4f6f762b379f250d53471c16d3992/article.md",
+    "record": "articles/v1/12/yc-precip/2026/02/44/44ab6f4c088b8e01f26202308f0444259ab4f6f762b379f250d53471c16d3992/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2556,
+    "sha256": "sha256:9e46e580de4e31c42fad0ba2109fe1627a1458227cf4835a761144408d7dd41e",
+    "normalized_content_hash": "sha256:6cda77217c181b17d7fda46b4c470874db44656b210ec5a4c78ddd267abff67a"
+  },
+  "provenance": {
+    "source_item_id": "89b363b4-a5b1-4ed7-b47e-6795aa382e8c",
+    "external_id": "https://precip.ai/blog/precipitation-charts-compare-and-noncumulative/"
+  }
+}

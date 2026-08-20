@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-openbuilder",
+    "name": "OpenBuilder"
+  },
+  "record_count": 3,
+  "first_published_at": "2024-02-23T00:00:00+00:00",
+  "last_published_at": "2024-04-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/3f/yc-openbuilder/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 2977,
+        "sha256": "sha256:ec4eae3e08f122ff9b41c0ad95e096a21f69df3bf5a2ddb0c193a9bd74837e04",
+        "newest_at": "2024-04-23T00:00:00+00:00",
+        "oldest_at": "2024-02-23T00:00:00+00:00"
+      }
+    ]
+  }
+}

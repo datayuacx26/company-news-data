@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8efc86b6e1fa6b28e9fc9748859e5315803bea9fe0e2bfd0840ef34fb642a076",
+  "company": {
+    "key": "yc-clipboard",
+    "name": "Clipboard"
+  },
+  "source": {
+    "id": "yc-clipboard-news-import-8e3049d214a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clipboardworks.com/resources/blog/agents-cant-iterate-against-tests-that-lie",
+    "canonical": "https://www.clipboardworks.com/resources/blog/agents-cant-iterate-against-tests-that-lie"
+  },
+  "title": "Agents Can't Iterate Against Tests That Lie",
+  "summary": "Between February 2025 and February 2026, coding agents went from writing none of Clipboard's code to nearly all of it. Seemingly overnight, agents made writing code cheap. More code amplified our flakiness. A flake is a test that exhibits both a passing and failing status across multiple runs for the same commit.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:50:39.766093+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T01:59:24.699356+00:00",
+  "paths": {
+    "article": "articles/v1/2a/yc-clipboard/2026/04/8e/8efc86b6e1fa6b28e9fc9748859e5315803bea9fe0e2bfd0840ef34fb642a076/article.md",
+    "record": "articles/v1/2a/yc-clipboard/2026/04/8e/8efc86b6e1fa6b28e9fc9748859e5315803bea9fe0e2bfd0840ef34fb642a076/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1262,
+    "sha256": "sha256:a7f5085561ed8e84c293046906f010a1395c8cdecad689071ca0c42bb3085c7f",
+    "normalized_content_hash": "sha256:dd9c2bb6ec01b4dbf90e644186c09c0ba3f489d1e655afc262153efb7fdea218"
+  },
+  "provenance": {
+    "source_item_id": "b2b12f73-330b-400c-abc6-e7404f0a9fa3",
+    "external_id": "https://www.clipboardworks.com/resources/blog/agents-cant-iterate-against-tests-that-lie"
+  }
+}

@@ -1,0 +1,338 @@
+---
+schema_version: "1.0.0"
+document_id: "ce5bae069d7a380059513865e8af34ca3beb17da8b9a198aaaed67f502e784cf"
+company_key: "yc-signoz"
+company: "SigNoz"
+source_id: "yc-signoz-rss-564a62b873f8"
+canonical_url: "https://signoz.io/guides/how-to-reduce-datadog-costs"
+published_at: "2026-07-23T00:00:00+00:00"
+first_seen_at: "2026-07-23T14:07:04.119296+00:00"
+fetched_at: "2026-07-28T20:34:24.680558+00:00"
+content_hash: "sha256:f3f4c27f668e176cdd6dd508838446d9448c93a7cdfc3f9b2b679aceccde78ac"
+---
+
+# How to Reduce Datadog Costs Without Sacrificing Observability
+
+# How to Reduce Datadog Costs Without Sacrificing Observability
+
+
+Last Updated: July 23, 2026
+
+
+14 min read
+
+
+Many teams that are new to Datadog are surprised when their invoices are significantly higher than they originally estimated. This often happens because they assume Datadog is billed as a single platform with one unified pricing model. In reality, Datadog charges separately for each product, and every product has its own pricing meter and billing rules.
+
+
+For example, Datadog Logs are billed based on both data ingestion and indexing, while custom metrics are priced according to cardinality. Because each product follows a different pricing model, understanding what is driving your bill and identifying opportunities to reduce costs can quickly become challenging.
+
+
+This guide breaks down the major Datadog products that typically contribute the most to your bill, explains the factors that influence their costs, and shares practical strategies to help you optimize usage and lower your Datadog spend.
+
+
+Before optimizing your Datadog costs, it's important to understand how each product is billed. If you're looking for a detailed breakdown of Datadog's pricing model and product rate cards, check out our **[Datadog Pricing Breakdown](https://signoz.io/blog/datadog-pricing/)** guide. We also have dedicated articles explaining the pricing models for **[Datadog Logs Pricing](https://signoz.io/blog/datadog-logs-pricing/)** and **[Datadog Custom Metrics Pricing](https://signoz.io/blog/datadog-custom-metrics-pricing/)** , which cover how these products are billed and the factors that influence their costs.
+
+
+## Identify Your Biggest Datadog Cost Drivers
+
+
+Before making any changes, identify which Datadog product or billing dimension is contributing the most to your overall costs.[Datadog’s Cost Details documentation](https://docs.datadoghq.com/account_management/plan_and_usage/cost_details/) page provides a detailed breakdown of your usage and spending, allowing you to compare estimated, projected, and historical costs across different products and billing dimensions. Reviewing this data helps you pinpoint where your Datadog spend is concentrated and prioritize optimization efforts accordingly.
+
+
+When analyzing your bill, use a completed billing period whenever possible. Current-month costs are often estimates and may change before the billing cycle closes, whereas completed billing periods provide finalized usage and charges that are more reliable for cost analysis.
+
+
+Once you've identified the product responsible for the largest share of your Datadog bill, continue to the corresponding optimization section below to learn how to reduce those costs.
+
+
+## Reduce Costs for Your Highest-Cost Datadog Product
+
+
+Start with the product or billing dimension identified in the previous section. You do not need to apply every recommendation below. Focus on the largest charge first, make one controlled change, and run a before-and-after comparison. Many unexpected increases in Datadog bills are caused by evolving usage patterns over time, rather than explicit cost increases.
+
+
+For example, autoscaling events can significantly increase the number of monitored hosts, new integrations may begin emitting hundreds of additional metrics, verbose production logging can drive up log ingestion costs, and dynamic tags can create[high-cardinality](https://signoz.io/blog/high-cardinality-data/) metrics that are much more expensive to store. Because Datadog's pricing scales with your usage of hosts, metrics, logs, traces, and other signals, uncontrolled growth in any of these areas can quickly translate into a much higher bill.
+
+
+The strategies below are intended as starting points for investigation rather than guaranteed cost-saving measures. The actual reduction you achieve will depend on factors such as your Datadog pricing plan, current usage patterns, and how much telemetry your organization can safely reduce without compromising visibility into your applications and infrastructure.
+
+
+### 1. Control Custom Metrics and Cardinality
+
+
+Custom-metric costs are affected by the number of distinct metric and tag-value combinations under Datadog’s cardinality-based[billing model](https://signoz.io/blog/datadog-custom-metrics-pricing/#how-the-monthly-custom-metrics-bill-is-calculated) . A single metric can produce thousands of billable timeseries when it contains an unbounded tag such as` user_id` ,` request_id` , a` UUID` , or a` timestamp` . For example, if a metric` api.request.count` has a tag` user_id` with 1,000 distinct values, that’s 1,000 custom metrics right there. It adds up fast.
+
+
+#### Eliminate High-Cardinality Tags
+
+
+- Never use a tag with` user IDs` ,` UUIDs` ,` timestamps` , or highly unique values.
+- Replace` user_id` with` user_tier` or` region` (group users into categories).
+- Each tag you add should have a low number of possible values.
+
+
+#### Consolidate Redundant Metrics
+
+
+Check if you are tracking the same thing in multiple ways. It’s common to accidentally duplicate metrics, e.g., recording request latency as a custom metric while an integration or APM also reports it.
+
+
+- Audit for duplicate metrics across teams
+- Remove metrics already provided by integrations or APM
+- Use a single load balancer metric instead of per-service request counts
+
+
+#### Use Metrics Without Limits
+
+
+Datadog offers[Metrics Without Limits](https://signoz.io/blog/datadog-custom-metrics-pricing/#metrics-without-limits) to decouple ingestion from indexing. This means you can ingest high-cardinality metrics but index (make queryable) only the tag values that you need.
+
+
+- Ingest high-cardinality metrics but index only essential tag combinations.
+- Example: ingest with` user_id` but index only by` service` and` region` .
+
+
+Be careful, with this feature, you might pay for two volumes: ingested vs indexed metrics. However, it lets you retain the raw data if needed while lowering the cost of what you actively index.
+
+
+#### Pre-Aggregate When Possible
+
+
+If you only need high-level trends and not granular details, consider aggregating metrics *before* sending to Datadog. For example, instead of sending a custom metric with` {user_id}` tag for every user’s action (and incurring one series per user), aggregate counts or sums by minute and send a metric like` app.feature.usage_count` with no user tag.
+
+
+#### Monitor Metric Usage
+
+
+Use Datadog's **Metrics Summary** page to identify top metrics by cardinality. Set up alerts when metric counts spike unexpectedly.
+
+
+*Metrics Summary page showing highest cardinality metrics. (Source: Datadog docs)*
+
+
+### 2. Optimize Log Collection, Indexing, and Retention
+
+
+For many organizations, logs account for a significant portion of their Datadog bill. Datadog's[Logging without Limits](https://signoz.io/blog/datadog-logs-pricing/#how-datadog-log-management-pricing-works-the-billing-model) approach allows you to ingest all of your logs without indexing every one of them. This gives you the flexibility to decide which logs should be indexed for search and analysis, which can be excluded, and how long different categories of logs should be retained. Making thoughtful decisions around ingestion, indexing, and retention is one of the most effective ways to reduce Datadog logging costs.
+
+
+#### Filter at Source
+
+
+Configure the Datadog Agent to drop logs before ingestion:
+
+
+```text
+logs  :
+-    type  :   file
+path  :   /var/log/myapp/app.log
+service  :   myapp
+source  :   python
+log_processing_rules  :
+-    type  :   exclude_at_match
+name  :   exclude_healthchecks
+pattern  :    "healthcheck"
+-    type  :   exclude_at_match
+name  :   exclude_debug
+pattern  :    " DEBUG "
+
+
+```
+
+
+The above configuration will **drop any log line containing "healthcheck" or " DEBUG "** (note the spaces to target log level in context). The` exclude_at_match` rule ensures matching logs are not sent to Datadog. By doing this, you stop paying for logs that provide little value.
+
+
+**Why filter before sending?** Once data reaches Datadog, you’re incurring ingestion costs. Dropping data *after* ingestion (via exclusion filters) saves on indexing but not on ingestion costs. So it’s often best to do initial filtering in your logging agent or pipeline on your infrastructure.
+
+
+When filtering, ensure you’re not[dropping logs](https://signoz.io/docs/logs-management/guides/drop-logs/) that you’ll regret losing during an incident. A good approach is to involve developers in deciding which logs are mission-critical.
+
+
+#### Use Exclusion Filters for Indexing
+
+
+Even after filtering at source, you’ll have logs that you **do** send to Datadog for archive or metrics, but perhaps you don’t need all of them indexed (searchable) in real-time. Datadog lets you define **Log Exclusion Filters** on indexes, i.e rules that say “ingest the log (for archive or live tail) but don’t index it for search”. For example, you might keep ERROR and` WARN` logs indexed, but exclude` INFO` logs from indexing to save on storage costs.
+
+
+#### Shorten Retention Periods
+
+
+Reduce from 15 days to 7 or 3 days. Shortening to 3 days saves ~37% on storage costs.
+
+
+#### Archive and Rehydrate
+
+
+Configure automated archiving to S3. Rehydrate only when needed for investigations. This means you have a long-term record at low cost (since your cloud storage is cheaper per GB than Datadog).
+
+
+#### Drop Unneeded Log Fields
+
+
+Another subtle way to reduce log ingestion size is to remove unnecessary attributes from logs. (Example: large user-agent strings)
+
+
+` Smaller log events = fewer GB ingested = lower cost` . Datadog suggests using an “edit” processor to remove unused attributes and reduce log size.
+
+
+#### Set Daily Quotas
+
+
+Hard caps prevent runaway costs. Set quotas slightly above normal peak usage. When exceeded, additional logs are dropped from indexing.
+
+
+*Log index configuration showing daily quotas. (source: Datadog docs)*
+
+
+### 3. Clean Up Unused Metrics, Dashboards, and Pipelines
+
+
+Over time, it’s common for organizations to accumulate cruft in their monitoring setup such as old metrics that are no longer emitted, dashboards nobody views, log pipelines for defunct services, etc. Cleaning these up can reduce costs (and also reduce confusion in the tooling).
+
+
+#### Audit Unused Metrics
+
+
+1. Use Metrics Summary to find metrics not queried in 30+ days
+2. Check "Metrics Related Assets" to see if metrics are referenced anywhere
+3. Stop sending unused metrics from your code or integrations
+
+
+#### Clean Up Dashboards
+
+
+1. Sort by last viewed/modified date
+2. Bulk delete dashboards not accessed in 3+ months
+3. Use Datadog's 30-day recycle bin as a safety net
+
+
+*Recently deleted dashboards can be recovered using the recycle bin. (source: Datadog docs)*
+
+
+While dashboards themselves don’t incur direct cost, they often pull in metrics (and people might keep metrics because “it’s on some dashboard”).
+
+
+#### Remove Unused Log Pipelines
+
+
+An unused pipeline might not incur a cost directly, but it adds processing overhead and complexity. More importantly, some pipelines extract custom attributes or generate metrics from logs which *do cost money* . Delete pipelines for retired services or those generating unused metrics from logs.
+
+
+### 4. Set Up Proactive Billing Alerts and Usage Caps
+
+
+Just as you monitor CPU or error rates, you can monitor your Datadog spend. Datadog’s Cloud Cost Management features let you create **cost monitors** that trigger alerts based on usage or cost thresholds.
+
+
+#### Cost Monitors
+
+
+Create monitors that alert on cost thresholds:
+
+
+- Monthly log indexing exceeds $500
+- Custom metrics grow >5% week-over-week
+- Total usage increases >20% month-over-month
+
+
+#### Usage Attribution Budgets
+
+
+Allocate costs by team using tags. Set budgets and alert when teams exceed allocations.
+
+
+#### Treat your observability usage as a monitored system
+
+
+Set thresholds, get alerted on abnormal usage, and react quickly – either by optimizing usage or contacting Datadog to adjust the plan if truly needed.
+
+
+*Datadog cost monitor dashboard.*
+
+
+### 5. When Optimization Isn’t Enough: Rethink the Pricing Model
+
+
+Every strategy above works within Datadog’s pricing model. But there’s a ceiling to how much you can save when the model itself is the cost driver. You can drop logs, prune tags, and cap retention, and still watch the bill climb the moment traffic grows, a new service ships, or a tag you need for debugging pushes cardinality up.
+
+
+Meanwhile, your team must keep monitoring host counts, maintaining log filters, adjusting retention, controlling metric cardinality, and tracking separate usage meters as the infrastructure evolves. At some point, controlling these costs becomes a recurring engineering task, and the question stops being, *“How do I use Datadog more carefully?”* and becomes, *“Why am I paying per host and per tag combination at all?”*
+
+
+When optimization requires continuous maintenance or forces you to discard telemetry that could be valuable during an incident, *it may be time to stop working around Datadog’s pricing model and consider[Datadog alternatives](https://signoz.io/blog/datadog-alternatives/) designed to make observability costs more predictable.*
+
+
+## SigNoz: A Cost-Effective Datadog Alternative
+
+
+[SigNoz](https://signoz.io/) is an[OpenTelemetry-native](https://signoz.io/opentelemetry/) observability platform that unifies logs, metrics, and traces in a single application, available as a fully managed cloud service or self-hosted.
+
+
+Where Datadog meters each product separately and scales your bill with hosts, indexed events, and tag combinations, SigNoz Cloud prices on one axis: the volume of telemetry you send. Logs and traces are` $0.30` per GB with storage, querying, and retention included, so there is no separate indexing meter, and metrics are` $0.10` per million samples with no per-series or cardinality charge. There is no per-host fee, which means the biggest lever behind a Datadog bill does not exist.
+
+
+*Source:[SigNoz pricing page](https://signoz.io/pricing/)*
+
+
+That billing model removes two cost decisions. Adding a tag costs nothing extra (additional tag combinations can increase the number of metric samples sent and therefore increase usage-based costs), and indexing every log you ingest costs nothing extra, so cardinality control and index tuning stop being recurring billing tasks. Because your spend follows data volume, you can estimate next month's bill from this month's usage instead of modelling event counts. And since SigNoz is OpenTelemetry native, data sent through OTel is never surcharged the way it is in Datadog, and your instrumentation stays portable if you ever move.
+
+
+There is also no vendor lock-in. Datadog's proprietary agents tie your instrumentation to the vendor, so leaving means re-instrumenting everything, which is a cost in itself. With SigNoz, your telemetry is standard OpenTelemetry that you own, so you can move between SigNoz Cloud, self-hosted, or any other[OTel-compatible backend](https://signoz.io/blog/opentelemetry-backend/) without rewriting a line of instrumentation.
+
+
+**Cost driver** **Datadog** **SigNoz Cloud**
+
+
+**Billing model** Per host + per-product usage Usage-based on data volume
+
+
+**Infrastructure hosts**` $15` Pro or` $23` Enterprise per host/month under annual billing No per-host fee
+
+
+**Custom metrics** Public list shows` $5 per 100` beyond allotment; actual treatment depends on the contract and pricing model No separate custom-metric surcharge; billed by samples
+
+
+**Logs**` $0.10/GB` ingestion plus` $1.06` –` $2.50` per million indexed events, depending on retention, under annual billing` $0.30/GB` at 15-day retention; no separate indexed-event fee
+
+
+**APM**` $31` ,` $35` , or` $40` per APM host/month under annual billing, with usage charges beyond included allowances Traces at` $0.30/GB` with 15-day retention
+
+
+**Metrics** Cardinality-based or Metric Name pricing, depending on the contract` $0.10` per million samples with one-month retention
+
+
+If your Datadog invoice is concentrated in host counts, custom metrics, and indexed logs, a volume-based model is worth pricing against your own numbers before your next renewal. You can compare the same workload on both tools with the[Datadog pricing calculator](https://signoz.io/datadog-pricing-calculator/) , and if you decide to switch, the[automated migration tool](https://signoz.io/datadog-migration-tool/) moves your dashboards over in minutes.
+
+
+### Get started with SigNoz
+
+
+The easiest way to try SigNoz is[SigNoz Cloud](https://signoz.io/teams/) , which comes with a 30-day free trial with access to all features.
+
+
+Teams with data-privacy requirements that prevent sending data outside their infrastructure can use the[enterprise self-hosted or BYOC offering](https://signoz.io/contact-us/) . Teams that prefer to manage everything themselves can start with the free, self-hosted[community edition](https://signoz.io/docs/install/self-host/) .
+
+
+Logs and traces at $0.30/GB, metrics at $0.10/M samples. No host or user-based fees. Compare with the SigNoz Datadog Pricing Calculator.
+
+
+[Get Started - Free](https://signoz.io/teams/)
+
+
+Explore a feature-by-feature comparison of[SigNoz vs. Datadog](https://signoz.io/datadog-alternative/) to evaluate what's best for your stack.
+
+
+## Key Takeaways
+
+
+- **Audit regularly:** Review metrics, logs, and usage monthly. Set up cost monitors.
+- **Filter aggressively:** Drop 70-90% of low-value logs and metrics before they hit Datadog.
+- **Control cardinality:** Avoid high-cardinality tags. Use controlled vocabularies.
+- **Set hard limits:** Use daily quotas and usage caps to prevent bill shock.
+- **Consider alternatives:** For high-volume workloads, tools like SigNoz can offer 90%+ savings.
+- **Optimize incrementally:** Start with biggest cost drivers (usually custom metrics and logs).
+
+
+Most teams can reduce Datadog costs by 30-70% through these optimizations while maintaining essential observability. The key is treating cost as a first-class metric to monitor and optimize continuously.

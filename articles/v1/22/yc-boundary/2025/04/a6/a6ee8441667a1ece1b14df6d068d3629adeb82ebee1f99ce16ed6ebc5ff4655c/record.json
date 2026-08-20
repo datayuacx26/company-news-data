@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a6ee8441667a1ece1b14df6d068d3629adeb82ebee1f99ce16ed6ebc5ff4655c",
+  "company": {
+    "key": "yc-boundary",
+    "name": "Boundary"
+  },
+  "source": {
+    "id": "yc-boundary-news-import-b6810cf62b42",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://boundaryml.com/blog/llama-api-tool-calling",
+    "canonical": "https://boundaryml.com/blog/llama-api-tool-calling"
+  },
+  "title": "Tool use with Llama API (and reasoning)",
+  "summary": "How to do tool-calling or function-calling with Llama API (with reasoning)",
+  "published_at": "2025-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:11:53.929220+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T19:19:32.174101+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-boundary/2025/04/a6/a6ee8441667a1ece1b14df6d068d3629adeb82ebee1f99ce16ed6ebc5ff4655c/article.md",
+    "record": "articles/v1/22/yc-boundary/2025/04/a6/a6ee8441667a1ece1b14df6d068d3629adeb82ebee1f99ce16ed6ebc5ff4655c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3861,
+    "sha256": "sha256:f8b389255db247ea3594a83fa309f458e7d8341afdaa0505fa6accd0407d2a62",
+    "normalized_content_hash": "sha256:6d2d9ac5155622cea3c0e2c2bf2fa30a3e2d63faf415f9875b39a9b90f240f3f"
+  },
+  "provenance": {
+    "source_item_id": "afa5691e-8092-4299-b176-7faf78a54cdf",
+    "external_id": "https://boundaryml.com/blog/llama-api-tool-calling"
+  }
+}

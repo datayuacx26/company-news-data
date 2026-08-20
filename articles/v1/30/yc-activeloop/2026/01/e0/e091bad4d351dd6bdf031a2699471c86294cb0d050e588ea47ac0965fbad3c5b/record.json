@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e091bad4d351dd6bdf031a2699471c86294cb0d050e588ea47ac0965fbad3c5b",
+  "company": {
+    "key": "yc-activeloop",
+    "name": "Activeloop"
+  },
+  "source": {
+    "id": "yc-activeloop-news-import-11accf1de1c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deeplake.ai/blog/coding-agent-15h",
+    "canonical": "https://deeplake.ai/blog/coding-agent-15h"
+  },
+  "title": "Software Factory Ran Autonomously for 15h, 2x Speed Up on TPC-H, ASAN-verified, Cost $160",
+  "summary": "How an AI agent autonomously optimized a C++ codebase over 15 hours, achieving a 2x performance improvement on TPC-H benchmarks with an 8:1 test-to-code ratio.",
+  "published_at": "2026-01-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T14:16:27.843975+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-19T22:18:41.863567+00:00",
+  "paths": {
+    "article": "articles/v1/30/yc-activeloop/2026/01/e0/e091bad4d351dd6bdf031a2699471c86294cb0d050e588ea47ac0965fbad3c5b/article.md",
+    "record": "articles/v1/30/yc-activeloop/2026/01/e0/e091bad4d351dd6bdf031a2699471c86294cb0d050e588ea47ac0965fbad3c5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14631,
+    "sha256": "sha256:00b9168c975a00174e43574f5b60c2b8489802679f4efcae77a40328c90724f4",
+    "normalized_content_hash": "sha256:a5294f9725e5bc4f7c4c1e65b4874fdfa04c165a6486c4b9b8309735fab1685a"
+  },
+  "provenance": {
+    "source_item_id": "10f786e8-9bc3-47f6-b147-45dffce3d2f0",
+    "external_id": "https://deeplake.ai/blog/coding-agent-15h"
+  }
+}

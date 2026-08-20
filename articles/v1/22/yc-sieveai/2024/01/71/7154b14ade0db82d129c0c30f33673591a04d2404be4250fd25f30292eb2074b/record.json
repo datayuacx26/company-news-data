@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7154b14ade0db82d129c0c30f33673591a04d2404be4250fd25f30292eb2074b",
+  "company": {
+    "key": "yc-sieveai",
+    "name": "sieve"
+  },
+  "source": {
+    "id": "yc-sieveai-news-import-c83e13839616",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usesieve.com/blog/extracting-accurate-commodities-export-data",
+    "canonical": "https://usesieve.com/blog/extracting-accurate-commodities-export-data"
+  },
+  "title": "Eliminating 5:30 AM Pagerduty Alerts from Data Pipeline Breakages",
+  "summary": "See how sieve addresses data quality issues that previously led to production breakages/stoppages for a group of commodities-focused investors",
+  "published_at": "2024-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:04:09.595708+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T20:27:12.471327+00:00",
+  "paths": {
+    "article": "articles/v1/22/yc-sieveai/2024/01/71/7154b14ade0db82d129c0c30f33673591a04d2404be4250fd25f30292eb2074b/article.md",
+    "record": "articles/v1/22/yc-sieveai/2024/01/71/7154b14ade0db82d129c0c30f33673591a04d2404be4250fd25f30292eb2074b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2057,
+    "sha256": "sha256:521e8ae2386ba3276d5413be3977956094ebc424e50635efa23a16179e12fba4",
+    "normalized_content_hash": "sha256:f60daeb0b020b6783a24899fa502ba6ad035121d1f0cf5f240e65acf6733d82f"
+  },
+  "provenance": {
+    "source_item_id": "59d018ee-697b-43b5-8cab-13d14e4d043b",
+    "external_id": "https://usesieve.com/blog/extracting-accurate-commodities-export-data"
+  }
+}

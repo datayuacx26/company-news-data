@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8dcbcc24a7d23ca0ef4e83efa238a0f38397915a5fe72f478b5def7fd9760e18",
+  "company": {
+    "key": "target-corporation-common-stock",
+    "name": "Target Corporation"
+  },
+  "source": {
+    "id": "target-corporation-common-stock-news-import-9a1251fd031b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corporate.target.com/news-features/article/2026/05/pokemon-x-target-drop-2",
+    "canonical": "https://corporate.target.com/news-features/article/2026/05/pokemon-x-target-drop-2"
+  },
+  "title": "Pokémon x Target Returns with Drop 2, Designed for Fans, by Fans",
+  "summary": "Launching June 6 in Target stores and online, Pokémon x Target Drop 2 continues to celebrate 30 years of the beloved franchise with more than 40 new products featuring deep fandom details.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:42:34.968558+00:00",
+  "fetched_at": "2026-07-28T21:55:52.188627+00:00",
+  "last_updated_at": "2026-08-19T17:50:16.495731+00:00",
+  "paths": {
+    "article": "articles/v1/0a/target-corporation-common-stock/2026/05/8d/8dcbcc24a7d23ca0ef4e83efa238a0f38397915a5fe72f478b5def7fd9760e18/article.md",
+    "record": "articles/v1/0a/target-corporation-common-stock/2026/05/8d/8dcbcc24a7d23ca0ef4e83efa238a0f38397915a5fe72f478b5def7fd9760e18/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8530,
+    "sha256": "sha256:1402e75cfdf7f2ae1e2bb1b4d7df2f7cf478cdd96c4a3f6d96779326f3289b4e",
+    "normalized_content_hash": "sha256:2e921a8674a6e8190d9f3a23bc50ac8d7e393d5c2f4afa9eb913d86c900d17ee"
+  },
+  "provenance": {
+    "source_item_id": "7759c9d0-4d24-4b9a-aa52-619e0d87d74c",
+    "external_id": "https://corporate.target.com/news-features/article/2026/05/pokemon-x-target-drop-2"
+  }
+}

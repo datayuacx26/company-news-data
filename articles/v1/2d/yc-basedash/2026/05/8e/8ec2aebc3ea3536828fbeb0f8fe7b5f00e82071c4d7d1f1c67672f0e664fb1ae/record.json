@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ec2aebc3ea3536828fbeb0f8fe7b5f00e82071c4d7d1f1c67672f0e664fb1ae",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/what-was-killing-our-healthy-kubernetes-pods/",
+    "canonical": "https://www.basedash.com/blog/what-was-killing-our-healthy-kubernetes-pods/"
+  },
+  "title": "What was killing our healthy Kubernetes pods",
+  "summary": "Our pods were crash-looping and the logs said nothing. We chased an OOM, found something else entirely, and learned a Kubernetes default that should not be a…",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/05/8e/8ec2aebc3ea3536828fbeb0f8fe7b5f00e82071c4d7d1f1c67672f0e664fb1ae/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/05/8e/8ec2aebc3ea3536828fbeb0f8fe7b5f00e82071c4d7d1f1c67672f0e664fb1ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13290,
+    "sha256": "sha256:339807a2a0631e7fd041c23c92a505511243050349c223d725da045ed466d036",
+    "normalized_content_hash": "sha256:07164d3640f33cf8fecda095e3379e4b4ad15228da9a5b6edaa243080e96494b"
+  },
+  "provenance": {
+    "source_item_id": "4d7e5009-1b8d-48a0-ae1e-f21130c25c29",
+    "external_id": "https://www.basedash.com/blog/what-was-killing-our-healthy-kubernetes-pods/"
+  }
+}

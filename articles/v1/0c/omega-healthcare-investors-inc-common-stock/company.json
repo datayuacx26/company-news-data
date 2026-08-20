@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "omega-healthcare-investors-inc-common-stock",
+    "name": "Omega Healthcare Investors Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2025-10-24T19:00:00+00:00",
+  "last_published_at": "2026-07-29T20:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0c/omega-healthcare-investors-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14733,
+        "sha256": "sha256:0fcaa59d4af28b3afb106a9d880ff1f47867f56cf9657f5a3c221e7a125f3bac",
+        "newest_at": "2026-07-29T20:15:00+00:00",
+        "oldest_at": "2025-10-24T19:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a0173a0c6037a36e2b48381c7bdaf0779e293e0b8d2f54f42519d53e47a97e23",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/userguide/exceptions",
+    "canonical": "https://signoz.io/docs/userguide/exceptions"
+  },
+  "title": "Errors and Exceptions - Record, View, and Group Them",
+  "summary": "Learn how to record exceptions in your traces using OpenTelemetry across Java, Go, Python, JavaScript, Ruby, .NET, and other languages.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/a0/a0173a0c6037a36e2b48381c7bdaf0779e293e0b8d2f54f42519d53e47a97e23/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/a0/a0173a0c6037a36e2b48381c7bdaf0779e293e0b8d2f54f42519d53e47a97e23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 676,
+    "sha256": "sha256:6f19f56ca41b2c520560f56adf81bac63f664f6e34a22135393c81125105edd4",
+    "normalized_content_hash": "sha256:5f1b590addb9a7d986aad057eb4a423a993b1dd402704169c476596f7d48eeb7"
+  },
+  "provenance": {
+    "source_item_id": "d755adaa-24e3-498f-baed-103b2d0e9717",
+    "external_id": "https://signoz.io/docs/userguide/exceptions"
+  }
+}

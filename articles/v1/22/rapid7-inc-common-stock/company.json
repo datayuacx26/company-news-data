@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "rapid7-inc-common-stock",
+    "name": "Rapid7 Inc."
+  },
+  "record_count": 70,
+  "first_published_at": "2025-01-07T14:00:00+00:00",
+  "last_published_at": "2026-08-19T16:46:06+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 44
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 17
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/22/rapid7-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 61528,
+        "sha256": "sha256:540b43e4558bd0cef739283756ba5d32dc95a0c073c41eea98b118ea379fc807",
+        "newest_at": "2026-08-19T16:46:06+00:00",
+        "oldest_at": "2026-07-16T13:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/22/rapid7-inc-common-stock/index/pages/000002.json",
+        "record_count": 20,
+        "byte_count": 24853,
+        "sha256": "sha256:f786fc3b600bf5596e5c56f0a55b119fb5290d02541215b53bed236cbafaefd0",
+        "newest_at": "2026-07-15T16:19:26+00:00",
+        "oldest_at": "2025-01-07T14:00:00+00:00"
+      }
+    ]
+  }
+}

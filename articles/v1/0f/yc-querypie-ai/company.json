@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-querypie-ai",
+    "name": "QueryPie AI"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-06-04T00:00:00+00:00",
+  "last_published_at": "2026-06-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0f/yc-querypie-ai/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5865,
+        "sha256": "sha256:57bb042e52410b1d6cbd2bb85dfa5b9ef157f307a80ade83818c28cc4247bd01",
+        "newest_at": "2026-08-07T14:21:49.346545+00:00",
+        "oldest_at": "2026-06-04T00:00:00+00:00"
+      }
+    ]
+  }
+}

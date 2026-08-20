@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "a7b3c54c6e6fc705fb925c0c1f9fb76ede6c6bd5e9526f973415e0d6625ae3f4"
+company_key: "union-pacific-corporation-common-stock"
+company: "Union Pacific Corporation"
+source_id: "union-pacific-corporation-common-stock-rss-504780cd1567"
+canonical_url: "http://www.washingtonpost.com/sf/brand-connect/wp/2014/06/09/on-track-with-union-pacific-insight-from-chairman-ceo-jack-koraleski/"
+published_at: null
+first_seen_at: "2026-07-20T04:35:56.067609+00:00"
+fetched_at: "2026-07-24T18:23:43.807022+00:00"
+content_hash: "sha256:595c740d759fe57fbc6ec1d0ae3b627d5e41d72190bb667d7e2eacd221a0c9db"
+---
+
+# On Track with Union Pacific, Insight from Chairman and CEO Jack Koraleski
+
+*Washington Post* (6/9/14)

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "impact-biomedical-inc-common-stock",
+    "name": "Impact BioMedical Inc."
+  },
+  "record_count": 6,
+  "first_published_at": "2024-01-30T17:35:16+00:00",
+  "last_published_at": "2025-06-23T00:00:03+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/1c/impact-biomedical-inc-common-stock/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 8187,
+        "sha256": "sha256:023134bd81827414f84d3b6b632b4324f75c5e737a03352fc09f99614101dd2f",
+        "newest_at": "2025-06-23T00:00:03+00:00",
+        "oldest_at": "2024-01-30T17:35:16+00:00"
+      }
+    ]
+  }
+}

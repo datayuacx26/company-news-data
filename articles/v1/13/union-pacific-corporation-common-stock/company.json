@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "union-pacific-corporation-common-stock",
+    "name": "Union Pacific Corporation"
+  },
+  "record_count": 282,
+  "first_published_at": "2013-03-18T14:39:20+00:00",
+  "last_published_at": "2026-08-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2013-03",
+      "record_count": 14
+    },
+    {
+      "partition": "2013-04",
+      "record_count": 15
+    },
+    {
+      "partition": "2013-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2013-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2013-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2013-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2013-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2013-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2013-11",
+      "record_count": 9
+    },
+    {
+      "partition": "2013-12",
+      "record_count": 8
+    },
+    {
+      "partition": "2014-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2014-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2014-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-04",
+      "record_count": 9
+    },
+    {
+      "partition": "2014-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2014-06",
+      "record_count": 11
+    },
+    {
+      "partition": "2014-07",
+      "record_count": 8
+    },
+    {
+      "partition": "2014-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2014-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2014-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2014-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2014-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2015-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2015-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2015-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 76
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 6,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52918,
+        "sha256": "sha256:7cf8e0d3406a80c3495ae73b5aacc89a93276840259aac1d62e3d859087b90c4",
+        "newest_at": "2026-08-12T00:00:00+00:00",
+        "oldest_at": "2026-07-24T18:23:43.807022+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 60107,
+        "sha256": "sha256:60857b697d25902dfa591f7345119c2b5e1db4112f2f9cca904caafcbc8b6112",
+        "newest_at": "2026-07-24T18:23:43.807022+00:00",
+        "oldest_at": "2025-04-23T13:30:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 58001,
+        "sha256": "sha256:1a6969aa21e9eed16d585469170edfed7420f698387f443b1abf1c3c3b2924e3",
+        "newest_at": "2015-11-05T14:30:00+00:00",
+        "oldest_at": "2014-09-02T20:21:13+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 58344,
+        "sha256": "sha256:04e33e7a6a605ee8dc94ec0ee55bbbe373d050be353c3951e2674616d308f8f2",
+        "newest_at": "2014-08-22T18:01:26+00:00",
+        "oldest_at": "2014-01-27T21:29:44+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57129,
+        "sha256": "sha256:1d4e5921074dac39019218559b55afc9967073162730d5c46342e177c2d8830d",
+        "newest_at": "2014-01-20T14:59:14+00:00",
+        "oldest_at": "2013-05-16T19:55:47+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/13/union-pacific-corporation-common-stock/index/pages/000006.json",
+        "record_count": 32,
+        "byte_count": 36318,
+        "sha256": "sha256:0e78091bdc92421f7645b154a3d241bd1e587e73a699ae278b7a145e8e9972c3",
+        "newest_at": "2013-05-14T14:11:35+00:00",
+        "oldest_at": "2013-03-18T14:39:20+00:00"
+      }
+    ]
+  }
+}

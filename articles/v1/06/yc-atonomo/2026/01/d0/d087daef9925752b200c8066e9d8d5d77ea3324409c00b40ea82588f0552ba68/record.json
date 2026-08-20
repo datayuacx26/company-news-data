@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d087daef9925752b200c8066e9d8d5d77ea3324409c00b40ea82588f0552ba68",
+  "company": {
+    "key": "yc-atonomo",
+    "name": "Atonomo"
+  },
+  "source": {
+    "id": "yc-atonomo-news-import-1e84588cb145",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.codecanary.ai/blog/poorly-configured-exposure-criteria-with-posthog-experiments",
+    "canonical": "https://www.codecanary.ai/blog/poorly-configured-exposure-criteria-with-posthog-experiments"
+  },
+  "title": "Poorly configured exposure criteria with server-side PostHog experiments",
+  "summary": "Configuration mistakes in exposure criteria, despite a correctly implemented server-side A/B test, can delay statistical significance.",
+  "published_at": "2026-01-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:30:33.811787+00:00",
+  "fetched_at": "2026-07-28T22:23:13.149633+00:00",
+  "last_updated_at": "2026-08-20T02:19:43.918704+00:00",
+  "paths": {
+    "article": "articles/v1/06/yc-atonomo/2026/01/d0/d087daef9925752b200c8066e9d8d5d77ea3324409c00b40ea82588f0552ba68/article.md",
+    "record": "articles/v1/06/yc-atonomo/2026/01/d0/d087daef9925752b200c8066e9d8d5d77ea3324409c00b40ea82588f0552ba68/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4506,
+    "sha256": "sha256:3b7a171ce6cf11de2b171467a228a19492b730f5efb106f561e790a67d1b2a81",
+    "normalized_content_hash": "sha256:afeb54abe4b58d467b591aada1b01cd64e70a6290e55fd5741ba10b4181e3b54"
+  },
+  "provenance": {
+    "source_item_id": "3e809779-974c-48b4-8f1b-cbf03fa564c1",
+    "external_id": "https://www.codecanary.ai/blog/poorly-configured-exposure-criteria-with-posthog-experiments"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7385f879fb4c4e79103d5cb8177cfd7ed8fb246ec4c995cd39ae48a7850f655b",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/embedded-analytics-provisioning-api",
+    "canonical": "https://posthog.com/blog/embedded-analytics-provisioning-api"
+  },
+  "title": "How to build a PostHog integration with the provisioning API",
+  "summary": "I built a fake farm-website company on PostHog's provisioning API. Here's how it creates accounts for its users and reads their analytics back, with the gotchas I hit.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2026/07/73/7385f879fb4c4e79103d5cb8177cfd7ed8fb246ec4c995cd39ae48a7850f655b/article.md",
+    "record": "articles/v1/0e/yc-posthog/2026/07/73/7385f879fb4c4e79103d5cb8177cfd7ed8fb246ec4c995cd39ae48a7850f655b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16031,
+    "sha256": "sha256:703b66aa090670272dbf84bb38051bd797536251790bcb772da5c846087b3f54",
+    "normalized_content_hash": "sha256:213e666544f4b23741df5e84c30f0f1bcbd7920e5852d78f5242f42deae327db"
+  },
+  "provenance": {
+    "source_item_id": "ca704e0f-76f6-4857-b30d-82bdaa751d75",
+    "external_id": "7aef15e7-d354-5ed7-b8ff-f2ee5f172fb9"
+  }
+}

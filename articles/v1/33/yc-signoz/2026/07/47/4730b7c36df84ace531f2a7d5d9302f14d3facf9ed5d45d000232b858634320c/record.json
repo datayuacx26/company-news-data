@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4730b7c36df84ace531f2a7d5d9302f14d3facf9ed5d45d000232b858634320c",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/opentelemetry/custom-metrics-nodejs",
+    "canonical": "https://signoz.io/opentelemetry/custom-metrics-nodejs"
+  },
+  "title": "Setting up Custom Metrics - OpenTelemetry NodeJS",
+  "summary": "Set up custom metrics in your Node.js microservices with OpenTelemetry, from counters to histograms, and visualize them in SigNoz.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/47/4730b7c36df84ace531f2a7d5d9302f14d3facf9ed5d45d000232b858634320c/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/47/4730b7c36df84ace531f2a7d5d9302f14d3facf9ed5d45d000232b858634320c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9336,
+    "sha256": "sha256:31c7dad023f6623225cba764bf74e185e06e13e43829482caa959ba67e89a876",
+    "normalized_content_hash": "sha256:f9d092145f584674489864f0db5b8d2585e02baa54cfe640109b57804e8a1e6a"
+  },
+  "provenance": {
+    "source_item_id": "bda97d26-c9c1-4720-afe8-0b8b13a7d80b",
+    "external_id": "https://signoz.io/opentelemetry/custom-metrics-nodejs"
+  }
+}

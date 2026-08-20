@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9a987b43342fa1f193977ac9c268ca4af3c7fefa30cfa818779ea50d826c403",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/memcached-monitoring-with-opentelemetry",
+    "canonical": "https://signoz.io/blog/memcached-monitoring-with-opentelemetry"
+  },
+  "title": "Memcached Metrics Monitoring with OpenTelemetry",
+  "summary": "Monitor Memcached with OpenTelemetry using the Collector's Memcached receiver, and visualize cache metrics in SigNoz.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/d9/d9a987b43342fa1f193977ac9c268ca4af3c7fefa30cfa818779ea50d826c403/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/d9/d9a987b43342fa1f193977ac9c268ca4af3c7fefa30cfa818779ea50d826c403/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19185,
+    "sha256": "sha256:c9fd82ddbca4dd3d08a1f9220fd21c5d1a13917add568264f121a0940c716890",
+    "normalized_content_hash": "sha256:cbb21cc773943e864e8249feea6c3e4313f559582003820ea3e97be49b3f86c2"
+  },
+  "provenance": {
+    "source_item_id": "fc05adb9-92ae-44e1-9db4-c0d6697d89d0",
+    "external_id": "https://signoz.io/blog/memcached-monitoring-with-opentelemetry"
+  }
+}

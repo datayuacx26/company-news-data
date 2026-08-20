@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b03818c890739bd11f55b90f4f54dbb969eacd323a3a7fe92fe1ebbd3bbcff22",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/multi-tenant-analytics-architecture-how-to-isolate-customer-data-in-embedded-dashboards/",
+    "canonical": "https://www.basedash.com/blog/multi-tenant-analytics-architecture-how-to-isolate-customer-data-in-embedded-dashboards/"
+  },
+  "title": "Multi-tenant analytics architecture: how to isolate customer data in embedded dashboards",
+  "summary": "Multi-tenant analytics architecture for SaaS embedded dashboards. Compares silo, pool, and bridge models, where to enforce tenant isolation, and common…",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/06/b0/b03818c890739bd11f55b90f4f54dbb969eacd323a3a7fe92fe1ebbd3bbcff22/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/06/b0/b03818c890739bd11f55b90f4f54dbb969eacd323a3a7fe92fe1ebbd3bbcff22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24636,
+    "sha256": "sha256:195f96f04175270dded69b58c89717d0272617256db8616be76237fa19b369a9",
+    "normalized_content_hash": "sha256:6dbf1b83fc9464446eb69a0a38bc9421a18ebe35d6509b4effd52be55af39592"
+  },
+  "provenance": {
+    "source_item_id": "8ff4fdff-d977-4dec-bad9-55d9bf524b08",
+    "external_id": "https://www.basedash.com/blog/multi-tenant-analytics-architecture-how-to-isolate-customer-data-in-embedded-dashboards/"
+  }
+}

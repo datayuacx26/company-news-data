@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9af40ea605ae321b19957f91b19d183f45983f1f882968cb79fa537e50be825",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/clickhouse-vs-bigquery",
+    "canonical": "https://posthog.com/blog/clickhouse-vs-bigquery"
+  },
+  "title": "In-depth: ClickHouse vs BigQuery",
+  "summary": "Both BigQuery and ClickHouse are databases designed to handle lots of data (like loads of data), but they have distinct philosophies and use cases…",
+  "published_at": "2023-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2023/04/f9/f9af40ea605ae321b19957f91b19d183f45983f1f882968cb79fa537e50be825/article.md",
+    "record": "articles/v1/0e/yc-posthog/2023/04/f9/f9af40ea605ae321b19957f91b19d183f45983f1f882968cb79fa537e50be825/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16614,
+    "sha256": "sha256:a50a0e1c98de448aab08b92827c7c3e6dced733bb3fe4394cf8eaacbb61d9bb0",
+    "normalized_content_hash": "sha256:ecd3f17f44350df756fb81bb6fbf129eee0540630374e1d7b0b02b890f7148d8"
+  },
+  "provenance": {
+    "source_item_id": "a5b6002c-1da0-4b0b-bed8-c6d4f57c2483",
+    "external_id": "da8a4d2a-457e-5bf3-9e6f-2d797d116c49"
+  }
+}

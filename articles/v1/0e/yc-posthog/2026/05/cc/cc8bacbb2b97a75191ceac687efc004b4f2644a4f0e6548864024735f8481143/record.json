@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc8bacbb2b97a75191ceac687efc004b4f2644a4f0e6548864024735f8481143",
+  "company": {
+    "key": "yc-posthog",
+    "name": "PostHog"
+  },
+  "source": {
+    "id": "yc-posthog-rss-39b8c8c5a5d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://posthog.com/blog/local-flag-evals-rust",
+    "canonical": "https://posthog.com/blog/local-flag-evals-rust"
+  },
+  "title": "From 270GB RAM to 5GB: Moving local flag evaluation from Django to Rust",
+  "summary": "How we moved PostHog's feature flags local evaluation endpoint from Django to Rust and dropped CPU usage by 24x and memory by 56x.",
+  "published_at": "2026-05-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:52.157750+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-20T02:54:32.251796+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-posthog/2026/05/cc/cc8bacbb2b97a75191ceac687efc004b4f2644a4f0e6548864024735f8481143/article.md",
+    "record": "articles/v1/0e/yc-posthog/2026/05/cc/cc8bacbb2b97a75191ceac687efc004b4f2644a4f0e6548864024735f8481143/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7885,
+    "sha256": "sha256:c0be739c7193a052652a4b658a8218933ac2784deee8e004f4cdf78d15a14934",
+    "normalized_content_hash": "sha256:52ef4a66b2c1b43ae813bd46dcdeb3871fe63a03e8b49ec95c969e564beb0bda"
+  },
+  "provenance": {
+    "source_item_id": "2e92be7e-1eca-46ab-b7a5-f70696253eaa",
+    "external_id": "d51e66ee-ba40-5c21-997d-0faab68a6c8b"
+  }
+}

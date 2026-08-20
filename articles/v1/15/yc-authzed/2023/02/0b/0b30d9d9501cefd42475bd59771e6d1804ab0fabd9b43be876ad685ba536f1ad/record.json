@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b30d9d9501cefd42475bd59771e6d1804ab0fabd9b43be876ad685ba536f1ad",
+  "company": {
+    "key": "yc-authzed",
+    "name": "authzed"
+  },
+  "source": {
+    "id": "yc-authzed-atom-b2bb1b68ff0a",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://authzed.com/blog/crdb_v23",
+    "canonical": "https://authzed.com/blog/crdb_v23"
+  },
+  "title": "CockroachDB 23.1 new defaults impact SpiceDB",
+  "summary": "SpiceDB is a fairly unique database when it comes to consistency. Most databases implement a pattern called MVCC. Without going too deeply, when a query is made to an MVCC database, it runs that query against a snapshot of the data it manages.",
+  "published_at": "2023-02-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:06.042051+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T03:38:46.235191+00:00",
+  "paths": {
+    "article": "articles/v1/15/yc-authzed/2023/02/0b/0b30d9d9501cefd42475bd59771e6d1804ab0fabd9b43be876ad685ba536f1ad/article.md",
+    "record": "articles/v1/15/yc-authzed/2023/02/0b/0b30d9d9501cefd42475bd59771e6d1804ab0fabd9b43be876ad685ba536f1ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9213,
+    "sha256": "sha256:98b62c3a129d1efbec387ada52038f4a7cde8e8eb283c35fe51b16016ea4cc4d",
+    "normalized_content_hash": "sha256:f6eac7c408102aa5cda7747b0a67262a58d51990fd1f15b2f8be65fa5d2458ce"
+  },
+  "provenance": {
+    "source_item_id": "56e30ac3-44f3-409e-b45d-9d3e51a0b863",
+    "external_id": "https://authzed.com/blog/crdb_v23"
+  }
+}

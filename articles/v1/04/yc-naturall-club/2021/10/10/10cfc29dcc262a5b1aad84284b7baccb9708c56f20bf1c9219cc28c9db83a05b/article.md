@@ -1,0 +1,163 @@
+---
+schema_version: "1.0.0"
+document_id: "10cfc29dcc262a5b1aad84284b7baccb9708c56f20bf1c9219cc28c9db83a05b"
+company_key: "yc-naturall-club"
+company: "NaturAll Club"
+source_id: "yc-naturall-club-atom-71589d2c7346"
+canonical_url: "https://naturallclub.com/blogs/the-naturall-club-blog/is-oil-moisturizing"
+published_at: "2021-10-08T16:39:20+00:00"
+first_seen_at: "2026-07-24T12:09:20.860655+00:00"
+fetched_at: "2026-07-28T22:27:35.666824+00:00"
+content_hash: "sha256:f352e79e7ea78491168d8c2ae89edcdb61ffabfd5cc66531db193175f6e7d9e7"
+---
+
+# Is Oil Moisturizing?
+
+If you’re active on the online natural hair community, you’ll know that oils are a hot topic of conversation. Many naturals are debating whether oils are moisturizing or hydrating and whether they help to moisturize or hydrate your hair. Even though those two things may seem like the same thing, you’ll find that the word choice matters here. In this blog, we’ll discuss if oils are moisturizing, if they help to moisturize, and why this is such a polarizing topic within the community.
+
+
+Before we get into the nitty gritty of oils being moisturizing vs helping to moisturize, let’s first address the difference between two words commonly interchanged with each other…
+
+
+## Moisturizing vs. Hydrating
+
+
+Within the conversation of oils, the words “moisturizing” and “hydrating” are used frequently. It also can be seen, in and out of the conversation of oils, that these two terms are used interchangeably. However, using “moisturizing” and “hydrating” interchangeably only confuses the topic more. These two terms are drastically different;
+
+
+[understanding their difference](https://naturallclub.com/blogs/the-naturall-club-blog/hydration-vs-moisturization?_pos=1&_psq=moisturiz&_ss=e&_v=1.0) will not only make understanding the topic of oils easier, but understanding any concept that has to do with mitigating dryness.
+
+
+In short, hydration is the act of applying water to the hair whereas moisturization is the act of locking moisture in the hair. This means you can only “hydrate” the hair by applying water. Applying anything other than water to the hair will be “moisturizing” to the hair.
+
+
+Taking this into account, we’ll only be using the word “moisturize” when it comes to oils and its effects on the hair. Again, this is because oils cannot be “hydrating” since oils are not water.
+
+
+## Why Are Oils Moisturizing
+
+
+As mentioned before, an ingredient or product is moisturizing if it works to “lock” in water. Since oil is used to retain hydration, making it harder for water to get in and out of the strand, oil is moisturizing.
+
+
+This idea may be hard to wrap your head around simply because of the way “moisturize” and “hydrate” are used as if they mean the same things. If you remember anything from this blog, it should be that
+
+
+*technically, the only thing that provides hydration is water* .
+
+
+##
+
+
+## Why Some Think Oils Aren’t Moisturizing
+
+
+If we can agree on one thing, it’s that water and oil don’t mix. This fact is typically the reasoning as to why someone claims “oils can’t moisturize the hair”. However, point is the very reason why oils can aid in the moisturization process.
+
+
+When it comes to adding oil on wet hair without any other products, the oil will act as a sealant for the water. When we say “sealant”, many naturals think it’s an impenetrable wall. It’s important to note that oils do create a barrier between the outside environment and the hair cuticle, however this barrier isn’t indestructible. So is it difficult to get moisture in and out of the shaft with oil? Yes, however it is not impossible for moisture to get in or escape, just more difficult.
+
+
+This means when applying an oil, you’re just making it harder for moisture to penetrate or escape the hair strands. This is why oil should be the last step when moisturizing your hair, as you want to make it difficult for other products and their benefits to escape the hair strand.
+
+
+## Oils vs Other Moisturizers
+
+
+Now, the act of locking in moisture makes sense when talking about oils, but what about other products that typically are considered to be “moisturizing”.
+
+
+Products that are recommended to use after washing and before styling are typically referred to as moisturizers or leave-in conditioners. But that begs the question: “do they also ‘lock’ in hydration?”
+
+
+The answer (by definition) is “yes”! Since all leave-ins and moisturizers have added ingredients other than water, they also are automatically moisturizing. The moisturizing property of the product is in the retention aspect (sealing/locking in). Our
+
+
+[Hydrating Leave-In Conditioner](https://naturallclub.com/products/hydrating-leave-in-conditioner-with-avocado-kiwi) and
+
+
+[Hydrating Moisturizer](https://naturallclub.com/products/hydrating-moisturizer-with-avocado-kiwi) both contain
+
+
+[Avocado Oil](https://naturallclub.com/blogs/the-naturall-club-blog/the-benefits-of-avocado-oil-for-natural-hair?_pos=1&_sid=62cd759c1&_ss=r) , making them moisturizing (as well as hydrating).
+
+
+Leave-in conditioners and moisturizers have ingredients that help to draw and add hydration to the hair while also helping in retaining the hydration added. Ingredients that draw in or attract water are called “humectants”. You’ll find that our Hydrating Leave-In Conditioner and Hydrating Moisturizer both contain
+
+
+[glycerin](https://naturallclub.com/blogs/the-naturall-club-blog/glycerin-the-truth-about-using-it-in-natural-hair?_pos=1&_sid=d9fc7e98a&_ss=r) , which is a humectant that attracts water to it. This makes the leave-in and moisturizer hydrating products, as they will aid in drawing (and therefore adding) water to the hair. They also are hydrating simply for the fact that they are both water based, and therefore provide the hair with water whether they contain the humectants or not.
+
+
+Because hydration is being drawn and absorbed into the cuticles, leave-ins and moisturizers can also be hydrating. This means that if the product is water based or contains water attracting ingredients, then the product is hydrating. Our
+
+
+[Hydrating Collection](https://naturallclub.com/collections/hydrating-avokiwi-collection) is a good example of this. The collection contains Kiwi, which is roughly 90% water. This makes Kiwi an extremely hydrating ingredient since it is providing water content to the hair. With the addition of
+
+
+[Avocado Oil](https://naturallclub.com/products/hydrating-oil-blend-with-avocado-kiwi) (also found in our Hydrating Collection) the products now become moisturizing as well (since they are providing a retention factor with the oil).
+
+
+When it comes to stylers like gels, custards, and creams, the same can be said in terms of their moisturizing properties. Depending on the styler, it may be water based or otherwise. No matter if it is water based or not (and therefore hydrating as well), they will always be moisturizing as they most likely will contain some sort of oil or hydration-retaining ingredient.
+
+
+So when you apply an oil on top of a leave-in conditioner, moisturizer, or styler, you are creating a barrier over the hair cuticle that makes it difficult for any water in the hair to evaporate or escape the shaft. This barrier also makes it difficult for water (or hydration) to penetrate the strand.
+
+
+This is why it’s important to use products that are water-based and moisturizing before using an oil, so all that water is retained in the strand. With that, the humectants in the leave-ins, moisturizers, or stylers help to draw in any moisture that is able to penetrate the strand. Like mentioned before, it’s important to note the oil barrier is not impenetrable, just difficult to get through!
+
+
+Using water-based, humectant-filled, moisturizing products before an oil adds water to the hair, attracts water to the hair, and seals water in the hair. These processes are important when it comes to keeping the hair hydrated and moisturized. The hair is hydrated since water is always being attracted and therefore added to the hair. The hair is moisturized since it’s water content is always being preserved and retained.
+
+
+##
+
+
+## Can you use oils by themselves?
+
+
+When someone thinks of oil as being drying or the opposite of moisturizing, it’s most likely because they are imagining the hair with only oil applied or the hair with too much oil applied.
+
+
+In the case of the hair only having oil on it after applying water, it is easy for the hair to dry out because there are no other products on the hair that draw in more hydration. Even though oil makes it harder for water to evaporate or leave the hair, at some point the water will absorb into the cuticle, leaving the water content less than it was before. If there are no other moisturizers on the hair like a leave-in or moisturizer, the oil will sit on the hair. This will make it harder for any water applied to the hair to penetrate the strand.
+
+
+Since there are no hydration drawing products under the oil barrier, any water applied isn’t drawn to try to penetrate the strands anyways. This makes it more likely that the oil barrier will prevent the water from entering altogether. This, of course, will leave the hair dry, unhydrated (since there is little to no water content), and unmoisturized (since there is little to no water to retain or lock in).
+
+
+The same goes for if too much oil is applied. The thicker the layer of oil, the less likely any hydration can penetrate the oil barrier. In this case, even if there were other moisturizers added under the thick oil layer, it would be difficult for those moisturizers to draw more hydration to the shaft. This means the only hydration the moisturizers have to lock in is the water already in the hair. Once this water has fully absorbed, it would be very difficult to draw in more.
+
+
+This is why some people come to the conclusion that oils are drying and leave the hair brittle and stripped. They most likely are applying too much oil to their hair. Since everyone’s hair is different, the amount of oil that is “too much oil” will be different for everyone. Those with thin, fine, or easily weighed down hair don’t need a lot of oil on top of other moisturizers in order for it to do its job.
+
+
+Those with low porosity may find that oils sit on top of their strands like a slick cast instead of working into the hair to create a barrier. Most oils have molecules that are too large to absorb into the hair, which can also contribute to the hair getting weighed down depending on the hair type. Those with denser or more porous hair may find their strands can handle more oil (or heavier oils) before it gets to be too much.
+
+
+It also is likely that instead of applying too much oil, there isn’t enough hydrating properties to the other moisturizers being used. If you aren’t using water based leave-ins, moisturizers, or stylers that have humectants in them, your hair will only have the water you initially put on it before applying these products. Since you’re not allowing your hair to be able to attract more water, the oil will create a barrier that makes it difficult to even allow water from the air to absorb into your hair.
+
+
+## How To Use Oils To Moisturize
+
+
+Now that we’ve covered how and why oils are moisturizing, let’s go over what the process of using them should look like in order to avoid a bad experience…
+
+
+1. Start on freshly washed hair. This will ensure that any buildup or dirt on your scalp and strands are cleared away. This will allow your hair to absorb added water and moisturizers better since there isn’t anything else on the hair.
+
+
+After cleansing your hair, we highly recommend deep conditioning. This will provide your hair with a deep moisture treatment that will nourish your hair and allow it to retain hydration and other moisturizers better. Most of our
+
+
+[Fresh Frozé Treatment Deep Conditioners](https://naturallclub.com/collections/ice-cream-treatment-line) are *mostly* Avocado based with water being in the top 5 ingredients. This means that they are very moisturizing as well as hydrating. Applying them to damp and cleansed hair will allow your hair to absorb all of it’s rich goodness!
+
+
+2. Pick a leave-in conditioner or moisturizer for your hair. This will provide your hair with moisture (and hydration if your product is water based). When applying your base product, like a leave-in or moisturizer, you should make sure your hair is damp at the very least. Applying products to damp or wet hair not only allows the product to take to your hair better, but also makes sure the product has hydration it can seal in. The wetter your hair when applying products, the more moisturized you’ll find your hair being. When applying any product to the hair, whether it be a base product or styler, you want to make sure you’re taking time to really smooth the product into your strands. This will not only help the hair absorb the product and hydration, but it also will reduce frizz and help encourage your curls to clump, which will increase your definition.
+
+
+3. After applying your base moisturizers, you can choose to apply stylers. If so, make sure that you’re working them in very well so it incorporates with the rest of the product already on the hair. If you can find water based stylers, this will help your hair remain hydrated until the next time you wash or rehydrate your hair.
+
+
+4. After applying all the products you’d like, you can go ahead and apply the oil of your choice. Even though everyone’s hair will react differently to different oils, it’s safe to go with lightweight oils no matter your hair type. Another option you can take instead of applying oil on the hair directly after applying products is applying oil after the hair has dried. This option is good for those who are styling their hair, and therefore would be using oil to takedown the hair. Just remember that if you’re applying oil to hair that has dried, you are sealing in the moisture from the products you applied. You will not be sealing in any of the hydration present in your hair when it was initially wet.
+
+
+We hope you now have a better understanding of what oils are and do for the hair. Let us know your favorite oil for sealing and moisturizing below!

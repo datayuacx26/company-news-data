@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ddc5b7bed3cdb6fd29fd8d7bababd7e00c4227a5d370a7b99fcba25cc526983",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/distributed-tracing-golang",
+    "canonical": "https://signoz.io/blog/distributed-tracing-golang"
+  },
+  "title": "Implementing Distributed Tracing in a Golang application",
+  "summary": "Distributed tracing in Go with OpenTelemetry: instrument a Go service with the SDK, export traces over OTLP, and visualize them in SigNoz. Step-by-step.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.151484+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/5d/5ddc5b7bed3cdb6fd29fd8d7bababd7e00c4227a5d370a7b99fcba25cc526983/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/5d/5ddc5b7bed3cdb6fd29fd8d7bababd7e00c4227a5d370a7b99fcba25cc526983/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19404,
+    "sha256": "sha256:f8bc9b4e60c87ea57156a89277674fd97200aec7a4ae59fa3896aa4597b4ba0c",
+    "normalized_content_hash": "sha256:56a1597c25d8698661241ce9d8640dc06e51eb578189408fb234fc5b3663e5b1"
+  },
+  "provenance": {
+    "source_item_id": "5b4e1d1c-2761-4a84-9c7e-e58b14d5d370",
+    "external_id": "https://signoz.io/blog/distributed-tracing-golang"
+  }
+}

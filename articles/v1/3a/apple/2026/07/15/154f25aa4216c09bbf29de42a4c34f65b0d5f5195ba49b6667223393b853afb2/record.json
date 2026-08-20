@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "154f25aa4216c09bbf29de42a4c34f65b0d5f5195ba49b6667223393b853afb2",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "apple-news-import-9ba92da28538",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://machinelearning.apple.com/research/rayrope-projective-ray",
+    "canonical": "https://machinelearning.apple.com/research/rayrope-projective-ray"
+  },
+  "title": "RayRoPE: Projective Ray Positional Encoding for Multi-View Attention",
+  "summary": "We study positional encodings for multi-view transformers that process tokens from a set of posed input images, and seek a mechanism that…",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T07:16:20.305331+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-18T22:05:34.065730+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/15/154f25aa4216c09bbf29de42a4c34f65b0d5f5195ba49b6667223393b853afb2/article.md",
+    "record": "articles/v1/3a/apple/2026/07/15/154f25aa4216c09bbf29de42a4c34f65b0d5f5195ba49b6667223393b853afb2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1934,
+    "sha256": "sha256:fdb9d3dcda56ce973e0adc6dc0f9b4c1e83933b6f61d22ae514774603eaae2ee",
+    "normalized_content_hash": "sha256:3d2ee75d6993d56165d210503cd80f29071ee50bdd76f4bffdaeb8ef56aa89bf"
+  },
+  "provenance": {
+    "source_item_id": "16022997-de4f-438c-871e-000b1dc8f88e",
+    "external_id": "https://machinelearning.apple.com/research/rayrope-projective-ray"
+  }
+}

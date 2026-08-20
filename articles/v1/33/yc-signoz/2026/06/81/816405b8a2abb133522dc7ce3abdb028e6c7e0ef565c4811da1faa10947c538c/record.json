@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "816405b8a2abb133522dc7ce3abdb028e6c7e0ef565c4811da1faa10947c538c",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/json-logs",
+    "canonical": "https://signoz.io/blog/json-logs"
+  },
+  "title": "JSON Logs: Examples, Benefits, and Best Practices",
+  "summary": "Learn what JSON logs are, see JSON log examples, compare benefits, and follow best practices for structured logging.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-07-28T21:13:53.132463+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/81/816405b8a2abb133522dc7ce3abdb028e6c7e0ef565c4811da1faa10947c538c/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/81/816405b8a2abb133522dc7ce3abdb028e6c7e0ef565c4811da1faa10947c538c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9553,
+    "sha256": "sha256:89aa2feab2dfb0aa4f575585d49cd19db5c25aaed53276e0cca991a46f730073",
+    "normalized_content_hash": "sha256:2fb168eb2f63b577a13695e2942dcbf0d2806acd61247f2ef07671d07c285022"
+  },
+  "provenance": {
+    "source_item_id": "621e84f2-8ec5-41b0-9787-ab8a6622b36c",
+    "external_id": "https://signoz.io/blog/json-logs"
+  }
+}

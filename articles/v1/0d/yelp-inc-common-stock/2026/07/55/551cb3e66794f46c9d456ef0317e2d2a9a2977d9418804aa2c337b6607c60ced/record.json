@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "551cb3e66794f46c9d456ef0317e2d2a9a2977d9418804aa2c337b6607c60ced",
+  "company": {
+    "key": "yelp-inc-common-stock",
+    "name": "Yelp Inc."
+  },
+  "source": {
+    "id": "yelp-inc-common-stock-news-import-edc60bdde10d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.yelp.com/engineering/whats-it-like",
+    "canonical": "https://www.yelp.com/engineering/whats-it-like"
+  },
+  "title": "What’s it really like to work at Yelp?",
+  "summary": "Our engineers have shared their thoughts with the world already on our blog. Those posts do a good job of showing what day-to-day life looks like at Yelp, but what about the tougher questions that haunt/plague job seekers?",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T20:50:01.059675+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-19T18:07:43.230022+00:00",
+  "paths": {
+    "article": "articles/v1/0d/yelp-inc-common-stock/2026/07/55/551cb3e66794f46c9d456ef0317e2d2a9a2977d9418804aa2c337b6607c60ced/article.md",
+    "record": "articles/v1/0d/yelp-inc-common-stock/2026/07/55/551cb3e66794f46c9d456ef0317e2d2a9a2977d9418804aa2c337b6607c60ced/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10348,
+    "sha256": "sha256:dea4ed4eb616a8f3714f98c0fd3f1e80ececda30f8f3977599df272b333f94f1",
+    "normalized_content_hash": "sha256:446a84877d665ab4d7d7779a47169eb808cc33504df01147b8564f5c32526a13"
+  },
+  "provenance": {
+    "source_item_id": "b7a39e85-8b6e-48d5-a819-c20948f187de",
+    "external_id": "https://www.yelp.com/engineering/whats-it-like"
+  }
+}

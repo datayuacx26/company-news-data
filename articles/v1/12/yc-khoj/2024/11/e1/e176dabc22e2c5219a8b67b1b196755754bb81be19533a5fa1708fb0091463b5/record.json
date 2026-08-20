@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e176dabc22e2c5219a8b67b1b196755754bb81be19533a5fa1708fb0091463b5",
+  "company": {
+    "key": "yc-khoj",
+    "name": "Khoj"
+  },
+  "source": {
+    "id": "yc-khoj-rss-06f7f2cb1884",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.khoj.dev/posts/evaluate-khoj-quality/",
+    "canonical": "https://blog.khoj.dev/posts/evaluate-khoj-quality/"
+  },
+  "title": "Evaluating Khoj for Helpfulness",
+  "summary": "A deep dive into how we implemented an automated evaluation harness and Khoj's excellent performance on modern factuality and reasoning benchmarks.",
+  "published_at": "2024-11-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T10:45:44.578572+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:07:06.871950+00:00",
+  "paths": {
+    "article": "articles/v1/12/yc-khoj/2024/11/e1/e176dabc22e2c5219a8b67b1b196755754bb81be19533a5fa1708fb0091463b5/article.md",
+    "record": "articles/v1/12/yc-khoj/2024/11/e1/e176dabc22e2c5219a8b67b1b196755754bb81be19533a5fa1708fb0091463b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10794,
+    "sha256": "sha256:a5f490bf881426e9ce32b5bcedce8bb53303ef5248f7c181f4a514e4e480f268",
+    "normalized_content_hash": "sha256:9c98bf5c92d79d9f2af8631791223c9de953a33f5623becdf475e0c5f1d41077"
+  },
+  "provenance": {
+    "source_item_id": "a46b9e95-4dd4-4abd-ba25-d1580c3b9d69",
+    "external_id": "https://blog.khoj.dev/posts/evaluate-khoj-quality/"
+  }
+}

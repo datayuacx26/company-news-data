@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98d6ad2ba9ca0f7e9c5044d3446c2255ccd98acf8d5a32905952e837ee1487c0",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/opentelemetry-dotnet-logs",
+    "canonical": "https://signoz.io/blog/opentelemetry-dotnet-logs"
+  },
+  "title": "How to Collect .NET Application Logs with OpenTelemetry",
+  "summary": "Learn how to collect logs from .NET 8 applications using OpenTelemetry, from the OTLP exporter setup to shipping logs to a backend.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-17T08:31:36.954597+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/98/98d6ad2ba9ca0f7e9c5044d3446c2255ccd98acf8d5a32905952e837ee1487c0/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/98/98d6ad2ba9ca0f7e9c5044d3446c2255ccd98acf8d5a32905952e837ee1487c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13561,
+    "sha256": "sha256:d993562f1fae726b9856b340db8d9396f3aa08e6820315bcceb0ca021313127a",
+    "normalized_content_hash": "sha256:91a1615f2f6f62f4b40b8dc420ed84a95f91fc6bf8266803eca810614c5b8008"
+  },
+  "provenance": {
+    "source_item_id": "0e64982d-c6a7-4914-acbe-aa4715d3b5a9",
+    "external_id": "https://signoz.io/blog/opentelemetry-dotnet-logs"
+  }
+}

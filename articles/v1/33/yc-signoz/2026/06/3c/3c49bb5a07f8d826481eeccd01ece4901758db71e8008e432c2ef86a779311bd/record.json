@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c49bb5a07f8d826481eeccd01ece4901758db71e8008e432c2ef86a779311bd",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/spring-boot-logging",
+    "canonical": "https://signoz.io/guides/spring-boot-logging"
+  },
+  "title": "Spring Boot Logging Guide",
+  "summary": "Learn Spring Boot logging setup, configuration, levels, patterns, structured logs, and monitoring with SigNoz.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:48:41.890548+00:00",
+  "last_updated_at": "2026-07-28T20:48:56.731309+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/3c/3c49bb5a07f8d826481eeccd01ece4901758db71e8008e432c2ef86a779311bd/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/3c/3c49bb5a07f8d826481eeccd01ece4901758db71e8008e432c2ef86a779311bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21177,
+    "sha256": "sha256:b955744c43a513f0e801b19488dd2f6fc9292953d044a345c17310a516ff25dc",
+    "normalized_content_hash": "sha256:b3c74c3897b57e14dc3266b93c5108de87bcc24b87241bca3cc5ee8c16df2c2f"
+  },
+  "provenance": {
+    "source_item_id": "ff500ae3-e9fd-432c-932d-5600a5f802a2",
+    "external_id": "https://signoz.io/guides/spring-boot-logging"
+  }
+}

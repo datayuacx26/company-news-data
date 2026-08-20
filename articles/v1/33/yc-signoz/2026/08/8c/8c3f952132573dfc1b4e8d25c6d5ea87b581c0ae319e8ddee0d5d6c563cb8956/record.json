@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c3f952132573dfc1b4e8d25c6d5ea87b581c0ae319e8ddee0d5d6c563cb8956",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/blog/msi-signoz-mcp-full-stack-debugging",
+    "canonical": "https://signoz.io/blog/msi-signoz-mcp-full-stack-debugging"
+  },
+  "title": "How MSI Uses SigNoz MCP to Debug Slow Sales Orders Across the Stack",
+  "summary": "MSI's sales-order workflow runs across the UI, APIs, database, and its ERP. Engineers already used SigNoz for API traces and logs. Here's how Taylor Mattison uses SigNoz MCP with Claude to compare traces at scale, connect telemetry to code, and get to a clear answer for where slowdowns actually live.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T12:28:14.879007+00:00",
+  "fetched_at": "2026-08-12T12:28:16.728975+00:00",
+  "last_updated_at": "2026-08-18T08:42:20.731671+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/08/8c/8c3f952132573dfc1b4e8d25c6d5ea87b581c0ae319e8ddee0d5d6c563cb8956/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/08/8c/8c3f952132573dfc1b4e8d25c6d5ea87b581c0ae319e8ddee0d5d6c563cb8956/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9492,
+    "sha256": "sha256:e55cb2089c1fcd99e2510e7b40aa4b4f14cb814147ad6c04c73d7165723ce04b",
+    "normalized_content_hash": "sha256:c5d9139857a1ea8c446cba12986399cb9d2ca396623be1737ad5c0a7c29844fb"
+  },
+  "provenance": {
+    "source_item_id": "6c1b55e0-67fb-4ece-8a94-b76ee6513dc4",
+    "external_id": "https://signoz.io/blog/msi-signoz-mcp-full-stack-debugging"
+  }
+}

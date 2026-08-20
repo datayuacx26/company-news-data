@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b94a393d91df1084dd7c532bc4041527740bf84b2d341c5301a3226b97a4be8e",
+  "company": {
+    "key": "yc-deepnote",
+    "name": "Deepnote"
+  },
+  "source": {
+    "id": "yc-deepnote-news-import-1c599340c4cd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deepnote.com/blog/tracking-the-ripple-effect-how-adverse-drug-events-move-pharma-markets",
+    "canonical": "https://deepnote.com/blog/tracking-the-ripple-effect-how-adverse-drug-events-move-pharma-markets"
+  },
+  "title": "Tracking the ripple effect: how adverse drug events move pharma markets",
+  "summary": "Event‑study walkthrough showing how adverse drug event signals map to pharma stock moves, combining price data with FAERS counts to measure market reactions. A practical framework for analysis, with a clear focus on method and interpretation.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T08:11:39.657869+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-08-20T03:00:37.554296+00:00",
+  "paths": {
+    "article": "articles/v1/2b/yc-deepnote/2026/07/b9/b94a393d91df1084dd7c532bc4041527740bf84b2d341c5301a3226b97a4be8e/article.md",
+    "record": "articles/v1/2b/yc-deepnote/2026/07/b9/b94a393d91df1084dd7c532bc4041527740bf84b2d341c5301a3226b97a4be8e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15154,
+    "sha256": "sha256:2e621460da99aba6ed7a31f2147c23daf29105f6f94af64d28aba951a610a0d1",
+    "normalized_content_hash": "sha256:031cec4a0a2b7381a03be690d4cb649558a96106bd5062660c27bcff499a2c17"
+  },
+  "provenance": {
+    "source_item_id": "b47f511c-e4ce-4d3d-967e-1017405aaa50",
+    "external_id": "https://deepnote.com/blog/tracking-the-ripple-effect-how-adverse-drug-events-move-pharma-markets"
+  }
+}

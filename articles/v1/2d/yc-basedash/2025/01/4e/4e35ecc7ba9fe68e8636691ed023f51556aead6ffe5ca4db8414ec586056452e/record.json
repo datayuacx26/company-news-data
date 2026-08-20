@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e35ecc7ba9fe68e8636691ed023f51556aead6ffe5ca4db8414ec586056452e",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/automating-postgresql-materialized-view-refreshes-for-optimal-performance/",
+    "canonical": "https://www.basedash.com/blog/automating-postgresql-materialized-view-refreshes-for-optimal-performance/"
+  },
+  "title": "Automating PostgreSQL Materialized View Refreshes for Optimal Performance",
+  "summary": "Materialized views in PostgreSQL store the result of a complex query physically, optimizing query performance significantly.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2025/01/4e/4e35ecc7ba9fe68e8636691ed023f51556aead6ffe5ca4db8414ec586056452e/article.md",
+    "record": "articles/v1/2d/yc-basedash/2025/01/4e/4e35ecc7ba9fe68e8636691ed023f51556aead6ffe5ca4db8414ec586056452e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3159,
+    "sha256": "sha256:409ee2b8f2be34e3e2d8123df19a3f7a3d7a676a1b63aad1005bf87d75671a8a",
+    "normalized_content_hash": "sha256:a30a3cc7a4990b0598d05277592212d53cd0cdab0329b1348a47c08438170e93"
+  },
+  "provenance": {
+    "source_item_id": "99d99afe-b6d8-4c70-bb14-9d337f1445be",
+    "external_id": "https://www.basedash.com/blog/automating-postgresql-materialized-view-refreshes-for-optimal-performance/"
+  }
+}

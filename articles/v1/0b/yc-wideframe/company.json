@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-wideframe",
+    "name": "Wideframe"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-03-31T13:00:00+00:00",
+  "last_published_at": "2026-04-03T15:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/0b/yc-wideframe/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 20800,
+        "sha256": "sha256:3ac1c0b6d3feff0c2997e6c876aaf9563ae4736f476410f4ce5ee62e73d782d9",
+        "newest_at": "2026-04-03T15:00:00+00:00",
+        "oldest_at": "2026-03-31T13:00:00+00:00"
+      }
+    ]
+  }
+}

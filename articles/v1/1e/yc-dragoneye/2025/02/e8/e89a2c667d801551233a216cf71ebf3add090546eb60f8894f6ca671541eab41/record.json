@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e89a2c667d801551233a216cf71ebf3add090546eb60f8894f6ca671541eab41",
+  "company": {
+    "key": "yc-dragoneye",
+    "name": "Dragoneye"
+  },
+  "source": {
+    "id": "yc-dragoneye-news-import-90c782d80d34",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dragoneye.ai/blog/a-guide-to-bounding-box-formats/",
+    "canonical": "https://dragoneye.ai/blog/a-guide-to-bounding-box-formats/"
+  },
+  "title": "A Guide to Bounding Box Formats",
+  "summary": "Learn the most common bounding box formats used in computer vision, including COCO, YOLO, and Pascal VOC. This quick guide explains how bounding boxes represent objects in images, the key format differences, and how to choose the right one for your object detection projects.",
+  "published_at": "2025-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:13:15.346930+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T03:32:42.969641+00:00",
+  "paths": {
+    "article": "articles/v1/1e/yc-dragoneye/2025/02/e8/e89a2c667d801551233a216cf71ebf3add090546eb60f8894f6ca671541eab41/article.md",
+    "record": "articles/v1/1e/yc-dragoneye/2025/02/e8/e89a2c667d801551233a216cf71ebf3add090546eb60f8894f6ca671541eab41/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7544,
+    "sha256": "sha256:b00ad1fe9d068c10d14306436bbcfa4ce4e8dacfd664cfc85cc2c0fbf188247d",
+    "normalized_content_hash": "sha256:003876f325522218230be6592f2b787365a215dc60d0d98a57f8ff032d286068"
+  },
+  "provenance": {
+    "source_item_id": "0bbfcf04-3207-429c-b4fd-6e58bc080709",
+    "external_id": "https://dragoneye.ai/blog/a-guide-to-bounding-box-formats/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "171b67b90d143ac91b9af7654b63f8bd57d12b86651b9512813c424ad0e49a4c",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/docs/apm-and-distributed-tracing/querying-traces",
+    "canonical": "https://signoz.io/docs/apm-and-distributed-tracing/querying-traces"
+  },
+  "title": "Querying Traces",
+  "summary": "Query traces in SigNoz using the Query Builder in Trace Explorer and Dashboards, with ClickHouse SQL available in Dashboards.",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-24T14:59:04.261318+00:00",
+  "last_updated_at": "2026-07-24T14:59:04.291719+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/06/17/171b67b90d143ac91b9af7654b63f8bd57d12b86651b9512813c424ad0e49a4c/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/06/17/171b67b90d143ac91b9af7654b63f8bd57d12b86651b9512813c424ad0e49a4c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 652,
+    "sha256": "sha256:bf51178ccea774c66f561f448ee4e7b88df655a22159b3dcff187a675f30abc5",
+    "normalized_content_hash": "sha256:8b64b26dae4bbc85604f08e3c9c18fdd2b9bca7f44efad0020f6e3e9a68fa7c6"
+  },
+  "provenance": {
+    "source_item_id": "82ddfff8-9c0f-4b71-93af-4f1d0bb4fe6b",
+    "external_id": "https://signoz.io/docs/apm-and-distributed-tracing/querying-traces"
+  }
+}

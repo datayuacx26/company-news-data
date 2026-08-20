@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ee7cf4f17c555066133c6695793f3ea6cc2f4242250e9799572ea4d705fbffe",
+  "company": {
+    "key": "yc-artillery",
+    "name": "Artillery"
+  },
+  "source": {
+    "id": "yc-artillery-news-import-69b75325e6e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artillery.io/blog/extend-artillery-by-creating-your-own-engines",
+    "canonical": "https://www.artillery.io/blog/extend-artillery-by-creating-your-own-engines"
+  },
+  "title": "Building a custom Artillery engine",
+  "summary": "We designed Artillery to be easy to extend and customize through a variety of extension APIs. Artillery comes with batteries included and many out-of-the-box integrations, but every non-trivial load testing project will require at least some customization at some point.",
+  "published_at": "2023-01-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T07:55:08.009846+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-20T02:15:44.547416+00:00",
+  "paths": {
+    "article": "articles/v1/0b/yc-artillery/2023/01/2e/2ee7cf4f17c555066133c6695793f3ea6cc2f4242250e9799572ea4d705fbffe/article.md",
+    "record": "articles/v1/0b/yc-artillery/2023/01/2e/2ee7cf4f17c555066133c6695793f3ea6cc2f4242250e9799572ea4d705fbffe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16223,
+    "sha256": "sha256:95231adfed71950bf3662b6e69c7225d79bb1ac92f1f9b3ebdcdf26bb5a605ee",
+    "normalized_content_hash": "sha256:853edf083de928ee9a5e884cbed1fe820f45102d5a96371bbbb7dc1474b11252"
+  },
+  "provenance": {
+    "source_item_id": "650a4a80-2a44-4067-9e34-63b27bb5de3e",
+    "external_id": "https://www.artillery.io/blog/extend-artillery-by-creating-your-own-engines"
+  }
+}

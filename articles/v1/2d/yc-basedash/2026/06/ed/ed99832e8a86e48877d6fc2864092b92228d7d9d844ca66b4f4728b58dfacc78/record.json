@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed99832e8a86e48877d6fc2864092b92228d7d9d844ca66b4f4728b58dfacc78",
+  "company": {
+    "key": "yc-basedash",
+    "name": "Basedash"
+  },
+  "source": {
+    "id": "yc-basedash-rss-86d6e075e8cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.basedash.com/blog/what-we-learned-running-background-jobs-on-postgres/",
+    "canonical": "https://www.basedash.com/blog/what-we-learned-running-background-jobs-on-postgres/"
+  },
+  "title": "What we learned running background jobs on Postgres",
+  "summary": "We run every async job in Basedash on Postgres with pg-boss. Three production incidents later, here's what we changed: a queue policy that silently dropped 92%…",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:59.901198+00:00",
+  "fetched_at": "2026-07-28T22:07:09.326483+00:00",
+  "last_updated_at": "2026-08-20T00:26:26.924977+00:00",
+  "paths": {
+    "article": "articles/v1/2d/yc-basedash/2026/06/ed/ed99832e8a86e48877d6fc2864092b92228d7d9d844ca66b4f4728b58dfacc78/article.md",
+    "record": "articles/v1/2d/yc-basedash/2026/06/ed/ed99832e8a86e48877d6fc2864092b92228d7d9d844ca66b4f4728b58dfacc78/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10996,
+    "sha256": "sha256:e95143b616954c2bc19685a15618614f91405ada02789aa7e5a41768a19dffb4",
+    "normalized_content_hash": "sha256:b7d0535074fa9d6d028c160c5bd99dc4134dda8bd5e5d9784667b492b6e7d23e"
+  },
+  "provenance": {
+    "source_item_id": "18282afb-63ed-4a98-b96b-f7c6d8cd251f",
+    "external_id": "https://www.basedash.com/blog/what-we-learned-running-background-jobs-on-postgres/"
+  }
+}

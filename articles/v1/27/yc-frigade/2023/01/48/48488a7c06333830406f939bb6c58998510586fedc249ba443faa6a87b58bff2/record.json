@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "48488a7c06333830406f939bb6c58998510586fedc249ba443faa6a87b58bff2",
+  "company": {
+    "key": "yc-frigade",
+    "name": "Frigade"
+  },
+  "source": {
+    "id": "yc-frigade-news-import-b5bda2b6da4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://frigade.com/blog/hello-world",
+    "canonical": "https://frigade.com/blog/hello-world"
+  },
+  "title": "Hello world",
+  "summary": "Day one. Christian and I have started a new company called Frigade. We're building toward a problem we've felt firsthand. More to come.",
+  "published_at": "2023-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:57:52.164816+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-07-28T21:35:39.678799+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-frigade/2023/01/48/48488a7c06333830406f939bb6c58998510586fedc249ba443faa6a87b58bff2/article.md",
+    "record": "articles/v1/27/yc-frigade/2023/01/48/48488a7c06333830406f939bb6c58998510586fedc249ba443faa6a87b58bff2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1019,
+    "sha256": "sha256:ae4ab02b1f187aa705f37c702d55389144a6535b7c2c261978e96a0b2a434088",
+    "normalized_content_hash": "sha256:fbdf1118eab5e794d190ecfc1a25834497afde7ae0aa4f5cf44bb872cf205561"
+  },
+  "provenance": {
+    "source_item_id": "f5c96cac-9635-4b4d-a026-d0797f483ddc",
+    "external_id": "https://frigade.com/blog/hello-world"
+  }
+}

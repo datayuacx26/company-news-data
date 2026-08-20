@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "18b0b791336cd4a8e0b20fb42448b56bdcd219e6d9fbc53953020d53fa8985b2",
+  "company": {
+    "key": "apple",
+    "name": "Apple"
+  },
+  "source": {
+    "id": "co-aapl-newsroom-rss",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+    "canonical": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/"
+  },
+  "title": "Apple reports third quarter results",
+  "summary": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
+  "published_at": "2026-07-30T20:30:21.672+00:00",
+  "first_seen_at": "2026-07-31T19:46:43.003230+00:00",
+  "fetched_at": "2026-07-31T19:46:43.920459+00:00",
+  "last_updated_at": "2026-08-20T01:48:18.088383+00:00",
+  "paths": {
+    "article": "articles/v1/3a/apple/2026/07/18/18b0b791336cd4a8e0b20fb42448b56bdcd219e6d9fbc53953020d53fa8985b2/article.md",
+    "record": "articles/v1/3a/apple/2026/07/18/18b0b791336cd4a8e0b20fb42448b56bdcd219e6d9fbc53953020d53fa8985b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2947,
+    "sha256": "sha256:53df35bbb54122628ddb5779dd76e97f3408672a24e311c8f01ce3514e3cab80",
+    "normalized_content_hash": "sha256:f74a62506e37960c770a8117affbce9a0509042a6a4057d473283022e7f675c4"
+  },
+  "provenance": {
+    "source_item_id": "25431f34-c83a-48e5-a14d-af3b7c54aee9",
+    "external_id": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7fbef6f096865ec888140fe42cb6b1af307d4717e566e01788358d71c2fa021d",
+  "company": {
+    "key": "yc-circuitlab",
+    "name": "CircuitLab"
+  },
+  "source": {
+    "id": "yc-circuitlab-rss-d25759254652",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.circuitlab.com/blog/2021/01/14/digital-adders-and-wider-muxes/",
+    "canonical": "https://www.circuitlab.com/blog/2021/01/14/digital-adders-and-wider-muxes/"
+  },
+  "title": "Digital Adders and Wider Muxes",
+  "summary": "comment » Today we’re launching six new digital combinational gates, now available in your CircuitLab toolbox. These pair well with our recent Quick Toggle feature allowing you to rapidly do digital simulations. Four new gates are binary adders: a full adder, half adder (no carry input), 4-bit adder, and 8-bit adder: These can be used for making counters or even an Arithmetic Logic Unit (ALU) of a small CPU. For example, check out this simulation where we use the 4-bit adder to create a counter which counts up from 0 to 15 before overflowing: Click to open the circuit above and try the simulation. Can you modify the circuit to increment by 3 instead? The other two new gates are wider muxes with 4 and 8 data inputs (and 2 and 3 control inputs, respectively): This allows you to more compactly express higher-bit-width multiplexers without needing to wire up trees of CircuitLab’s old 2x1 muxes. The new gates are available to all users immediately. This adds to CircuitLab’s existing digital simulation features, bringing us to 5 different types of flip-flops plus 21 different combinational logic gates.",
+  "published_at": "2021-01-14T22:55:00+00:00",
+  "first_seen_at": "2026-07-24T22:19:16.775475+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T02:37:02.874202+00:00",
+  "paths": {
+    "article": "articles/v1/00/yc-circuitlab/2021/01/7f/7fbef6f096865ec888140fe42cb6b1af307d4717e566e01788358d71c2fa021d/article.md",
+    "record": "articles/v1/00/yc-circuitlab/2021/01/7f/7fbef6f096865ec888140fe42cb6b1af307d4717e566e01788358d71c2fa021d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6003,
+    "sha256": "sha256:b6ae56dc2e9d77722a707e0596489c8c3f65e732744b5485c35565ebf287e700",
+    "normalized_content_hash": "sha256:1f530fedaa2bded5137f27104fd39b97ccfaac2c236c1c670b5567a80c9645f9"
+  },
+  "provenance": {
+    "source_item_id": "8399a5c3-e919-4dc8-b15f-3fd4a71433a0",
+    "external_id": "https://www.circuitlab.com/blog/2021/01/14/digital-adders-and-wider-muxes/"
+  }
+}

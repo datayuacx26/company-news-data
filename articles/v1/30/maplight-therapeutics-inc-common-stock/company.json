@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "maplight-therapeutics-inc-common-stock",
+    "name": "MapLight Therapeutics Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2025-12-16T12:00:54+00:00",
+  "last_published_at": "2026-08-13T20:05:42+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/30/maplight-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 17999,
+        "sha256": "sha256:c130326bd2f9e95bfbea496df42fac3b7be7ff3269a858ee3c6743dfeb6fa6db",
+        "newest_at": "2026-08-13T20:05:42+00:00",
+        "oldest_at": "2025-12-16T12:00:54+00:00"
+      }
+    ]
+  }
+}

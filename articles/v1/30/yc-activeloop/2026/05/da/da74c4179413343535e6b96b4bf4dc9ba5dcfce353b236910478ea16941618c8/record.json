@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da74c4179413343535e6b96b4bf4dc9ba5dcfce353b236910478ea16941618c8",
+  "company": {
+    "key": "yc-activeloop",
+    "name": "Activeloop"
+  },
+  "source": {
+    "id": "yc-activeloop-news-import-11accf1de1c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://deeplake.ai/blog/agentfield",
+    "canonical": "https://deeplake.ai/blog/agentfield"
+  },
+  "title": "A Deployable Annotation Service for Robotics Datasets",
+  "summary": "Roboscribe-AF is an open-source example that runs multi-agent robotics annotation with AgentField and stores the resulting multimodal dataset branches in Deeplake.",
+  "published_at": "2026-05-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T14:16:27.843975+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T22:18:41.863567+00:00",
+  "paths": {
+    "article": "articles/v1/30/yc-activeloop/2026/05/da/da74c4179413343535e6b96b4bf4dc9ba5dcfce353b236910478ea16941618c8/article.md",
+    "record": "articles/v1/30/yc-activeloop/2026/05/da/da74c4179413343535e6b96b4bf4dc9ba5dcfce353b236910478ea16941618c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12053,
+    "sha256": "sha256:dba0ec2e21d6653aa31558b045b2fa00cf2da081f81017372df971bbc9b6f5e5",
+    "normalized_content_hash": "sha256:1d96f94ff9d79e2f35ce551eba8b35fa2d82ab50320b763b3c40f9a0d6b2e15d"
+  },
+  "provenance": {
+    "source_item_id": "f0e8ca04-b3c0-4c66-96de-006136cb31a2",
+    "external_id": "https://deeplake.ai/blog/agentfield"
+  }
+}

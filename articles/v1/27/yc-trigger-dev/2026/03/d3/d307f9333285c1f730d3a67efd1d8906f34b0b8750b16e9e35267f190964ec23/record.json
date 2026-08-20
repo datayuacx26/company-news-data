@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d307f9333285c1f730d3a67efd1d8906f34b0b8750b16e9e35267f190964ec23",
+  "company": {
+    "key": "yc-trigger-dev",
+    "name": "Trigger.dev"
+  },
+  "source": {
+    "id": "yc-trigger-dev-news-import-c59968a07222",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://trigger.dev/blog/how-trql-works",
+    "canonical": "https://trigger.dev/blog/how-trql-works"
+  },
+  "title": "How we give every user SQL access to a shared ClickHouse cluster",
+  "summary": "A deep dive into TRQL — the SQL-like language behind Query. How we parse, validate, and compile queries to secure, tenant-safe ClickHouse SQL.",
+  "published_at": "2026-03-05T16:00:00+00:00",
+  "first_seen_at": "2026-07-22T17:13:09.827889+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-19T18:40:33.668398+00:00",
+  "paths": {
+    "article": "articles/v1/27/yc-trigger-dev/2026/03/d3/d307f9333285c1f730d3a67efd1d8906f34b0b8750b16e9e35267f190964ec23/article.md",
+    "record": "articles/v1/27/yc-trigger-dev/2026/03/d3/d307f9333285c1f730d3a67efd1d8906f34b0b8750b16e9e35267f190964ec23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22963,
+    "sha256": "sha256:1f8bea2e10c4e1f78c12201fd53590708c6bd50dabcb3c45a625c97a095114c0",
+    "normalized_content_hash": "sha256:ad9578f4f4f244b045189ff83467f3a645446afd3a79a40ef1f8f250103ec096"
+  },
+  "provenance": {
+    "source_item_id": "7ba669d3-53b4-4b99-950d-6f4dc4298bef",
+    "external_id": "https://trigger.dev/blog/how-trql-works"
+  }
+}

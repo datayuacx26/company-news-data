@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdb0bb811afa2c753b8589472e98ca405d81655e57df044d19d4126347069fc7",
+  "company": {
+    "key": "gitlab-inc-class-a-common-stock",
+    "name": "GitLab Inc."
+  },
+  "source": {
+    "id": "gitlab-inc-class-a-common-stock-news-import-53e8505a9d97",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://about.gitlab.com/blog/passkeys-now-available-for-passwordless-sign-in-and-2fa-on-gitlab/",
+    "canonical": "https://about.gitlab.com/blog/passkeys-now-available-for-passwordless-sign-in-and-2fa-on-gitlab/"
+  },
+  "title": "Passkeys now available for passwordless sign-in and 2FA on GitLab",
+  "summary": "Learn how to register a passkey to your account and how two-factor authentication works as a phishing-resistant method.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T06:37:24.143169+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T15:42:41.630010+00:00",
+  "paths": {
+    "article": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/02/cd/cdb0bb811afa2c753b8589472e98ca405d81655e57df044d19d4126347069fc7/article.md",
+    "record": "articles/v1/3d/gitlab-inc-class-a-common-stock/2026/02/cd/cdb0bb811afa2c753b8589472e98ca405d81655e57df044d19d4126347069fc7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2646,
+    "sha256": "sha256:ac35958a54454cf7b21f49a65ee68ec7e2229a0f9babc826b40fc10e917fea15",
+    "normalized_content_hash": "sha256:dd35d7f47830f7dbefc101fc240fc11d444a1626e3092a1ec4b06778dbb5c745"
+  },
+  "provenance": {
+    "source_item_id": "d7a98096-4fe2-4959-864d-8ffb60ee35fc",
+    "external_id": "https://about.gitlab.com/blog/passkeys-now-available-for-passwordless-sign-in-and-2fa-on-gitlab/"
+  }
+}

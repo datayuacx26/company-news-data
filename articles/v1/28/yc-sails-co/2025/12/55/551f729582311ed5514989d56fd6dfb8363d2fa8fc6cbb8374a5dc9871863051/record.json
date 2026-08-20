@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "551f729582311ed5514989d56fd6dfb8363d2fa8fc6cbb8374a5dc9871863051",
+  "company": {
+    "key": "yc-sails-co",
+    "name": "Sails Co."
+  },
+  "source": {
+    "id": "yc-sails-co-rss-a888f7fb03bc",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.sailscasts.com/virtual-request-pattern/",
+    "canonical": "https://blog.sailscasts.com/virtual-request-pattern/"
+  },
+  "title": "The Virtual Request Pattern in Sails.js",
+  "summary": "A technical examination of how Sails.js uses virtual requests to handle HTTP and WebSocket protocols with a single codebase, eliminating duplication.",
+  "published_at": "2025-12-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:05:07.405322+00:00",
+  "fetched_at": "2026-07-28T20:55:00.595584+00:00",
+  "last_updated_at": "2026-08-20T00:44:19.732721+00:00",
+  "paths": {
+    "article": "articles/v1/28/yc-sails-co/2025/12/55/551f729582311ed5514989d56fd6dfb8363d2fa8fc6cbb8374a5dc9871863051/article.md",
+    "record": "articles/v1/28/yc-sails-co/2025/12/55/551f729582311ed5514989d56fd6dfb8363d2fa8fc6cbb8374a5dc9871863051/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12430,
+    "sha256": "sha256:1150be01c6d1a8726278023cf87a7d48210a54ff27e0ce4d49f7902a20966cfc",
+    "normalized_content_hash": "sha256:727922e3d80cb5c33ee8b04159f332e22988965d36af02da30a760d4d0d8d869"
+  },
+  "provenance": {
+    "source_item_id": "2c803a7d-d509-4d37-9da4-bba7915ba5a5",
+    "external_id": "https://blog.sailscasts.com/virtual-request-pattern/"
+  }
+}

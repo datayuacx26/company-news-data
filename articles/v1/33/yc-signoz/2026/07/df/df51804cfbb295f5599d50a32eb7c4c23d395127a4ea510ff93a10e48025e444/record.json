@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df51804cfbb295f5599d50a32eb7c4c23d395127a4ea510ff93a10e48025e444",
+  "company": {
+    "key": "yc-signoz",
+    "name": "SigNoz"
+  },
+  "source": {
+    "id": "yc-signoz-rss-564a62b873f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://signoz.io/guides/how-can-i-limit-the-size-of-apache-access-log-and-limit-the-number-of-archived-logs-it-keeps",
+    "canonical": "https://signoz.io/guides/how-can-i-limit-the-size-of-apache-access-log-and-limit-the-number-of-archived-logs-it-keeps"
+  },
+  "title": "How to Limit Apache Access Log Size and Archives - A Quick Guide",
+  "summary": "Learn how to limit Apache access log size and control archived logs using logrotate and RotateLogs, with best practices for log management.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:42.602972+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-07-28T20:47:45.433856+00:00",
+  "paths": {
+    "article": "articles/v1/33/yc-signoz/2026/07/df/df51804cfbb295f5599d50a32eb7c4c23d395127a4ea510ff93a10e48025e444/article.md",
+    "record": "articles/v1/33/yc-signoz/2026/07/df/df51804cfbb295f5599d50a32eb7c4c23d395127a4ea510ff93a10e48025e444/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20226,
+    "sha256": "sha256:56ee2ffcd8d77eb687ec59462ae1cc2cbebc30b455e58a61bb34d76887333e9b",
+    "normalized_content_hash": "sha256:27b669cbc61023ee43d37d24a3ae46e2d89ed7aaba2b8b147fcda290eb12b251"
+  },
+  "provenance": {
+    "source_item_id": "7c7cea0d-85e1-4cf1-8835-e1cb10c990ce",
+    "external_id": "https://signoz.io/guides/how-can-i-limit-the-size-of-apache-access-log-and-limit-the-number-of-archived-logs-it-keeps"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4893a762bf0547140a63fabefa19365a0755800d332603f52966ab5af01627a1",
+  "company": {
+    "key": "yc-kontigo",
+    "name": "Kontigo"
+  },
+  "source": {
+    "id": "yc-kontigo-news-import-fc52ff9f0792",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kontigo.com/en/article/security-incident-postmortem-unauthorized-account-access",
+    "canonical": "https://www.kontigo.com/en/article/security-incident-postmortem-unauthorized-account-access"
+  },
+  "title": "Security Incident Report",
+  "summary": "Kontigo security incident report covering unauthorized account access, impact, containment, refunds, and the security improvements we’ve implemented.",
+  "published_at": "2026-01-11T18:19:42.351+00:00",
+  "first_seen_at": "2026-07-26T07:01:22.539657+00:00",
+  "fetched_at": "2026-07-28T22:23:45.657833+00:00",
+  "last_updated_at": "2026-08-19T15:50:56.350894+00:00",
+  "paths": {
+    "article": "articles/v1/0e/yc-kontigo/2026/01/48/4893a762bf0547140a63fabefa19365a0755800d332603f52966ab5af01627a1/article.md",
+    "record": "articles/v1/0e/yc-kontigo/2026/01/48/4893a762bf0547140a63fabefa19365a0755800d332603f52966ab5af01627a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8984,
+    "sha256": "sha256:55f6d25798f434ebb5b02428ef9e2ffb6b10057b05e2a73871ab8c7c7a10d195",
+    "normalized_content_hash": "sha256:e064467ed826ef10caeaac746a748bfb15bdeb72e3004e9aa5e02e70feec9078"
+  },
+  "provenance": {
+    "source_item_id": "94c4bea7-5d42-40f7-9b30-d9cc6808b103",
+    "external_id": "https://www.kontigo.com/en/article/security-incident-postmortem-unauthorized-account-access"
+  }
+}
