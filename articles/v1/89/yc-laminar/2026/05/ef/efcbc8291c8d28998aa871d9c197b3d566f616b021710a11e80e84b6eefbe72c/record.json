@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efcbc8291c8d28998aa871d9c197b3d566f616b021710a11e80e84b6eefbe72c",
+  "company": {
+    "key": "yc-laminar",
+    "name": "Laminar"
+  },
+  "source": {
+    "id": "yc-laminar-news-import-2ad91bbdebb7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://laminar.sh/blog/laminar-20x-agent-trace-compression",
+    "canonical": "https://laminar.sh/blog/laminar-20x-agent-trace-compression"
+  },
+  "title": "How Laminar compresses agent traces by 20x",
+  "summary": "How Laminar compresses agent traces by 20x - from the Laminar team",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:53:15.322428+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-08-20T00:04:57.192437+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-laminar/2026/05/ef/efcbc8291c8d28998aa871d9c197b3d566f616b021710a11e80e84b6eefbe72c/article.md",
+    "record": "articles/v1/89/yc-laminar/2026/05/ef/efcbc8291c8d28998aa871d9c197b3d566f616b021710a11e80e84b6eefbe72c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7835,
+    "sha256": "sha256:f2880a13a9107c45197949a9fd7856828343da63c7878bfd73f4972552c4516f",
+    "normalized_content_hash": "sha256:8dfab389fe5358b82c0b3cb170a5699351544362786a3ecb2ba99508f910a962"
+  },
+  "provenance": {
+    "source_item_id": "5ca6b374-550b-40b7-8657-01079342ccb6",
+    "external_id": "https://laminar.sh/blog/laminar-20x-agent-trace-compression"
+  }
+}

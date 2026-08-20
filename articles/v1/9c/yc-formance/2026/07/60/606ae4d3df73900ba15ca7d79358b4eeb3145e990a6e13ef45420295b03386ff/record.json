@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "606ae4d3df73900ba15ca7d79358b4eeb3145e990a6e13ef45420295b03386ff",
+  "company": {
+    "key": "yc-formance",
+    "name": "Formance"
+  },
+  "source": {
+    "id": "yc-formance-news-import-baf47baa49b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.formance.com/blog/financial-operations/event-sourcing-vs-event-driven-architecture",
+    "canonical": "https://www.formance.com/blog/financial-operations/event-sourcing-vs-event-driven-architecture"
+  },
+  "title": "Event sourcing vs event-driven architecture: what's the difference?",
+  "summary": "Event sourcing stores state as immutable facts. Event-driven architecture routes messages between services. Learn how financial systems need both.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T15:40:58.350186+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T15:47:04.948511+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-formance/2026/07/60/606ae4d3df73900ba15ca7d79358b4eeb3145e990a6e13ef45420295b03386ff/article.md",
+    "record": "articles/v1/9c/yc-formance/2026/07/60/606ae4d3df73900ba15ca7d79358b4eeb3145e990a6e13ef45420295b03386ff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14334,
+    "sha256": "sha256:da7977d3c1308ca215e594787e191ab3bcc466872f0c653784fac4532ce9d28f",
+    "normalized_content_hash": "sha256:1b647a9bf0f51fc5a6f8e47c1bde9a59152b35cf7431907007e666d2814e362e"
+  },
+  "provenance": {
+    "source_item_id": "27e6da8b-516f-4898-8bfe-660e7e3183d0",
+    "external_id": "https://www.formance.com/blog/financial-operations/event-sourcing-vs-event-driven-architecture"
+  }
+}

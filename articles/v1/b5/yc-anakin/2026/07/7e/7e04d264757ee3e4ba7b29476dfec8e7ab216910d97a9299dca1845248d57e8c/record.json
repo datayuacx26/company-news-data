@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e04d264757ee3e4ba7b29476dfec8e7ab216910d97a9299dca1845248d57e8c",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/authenticated-scraping-behind-the-login",
+    "canonical": "https://anakin.io/blog/authenticated-scraping-behind-the-login"
+  },
+  "title": "The Best Data Is Behind a Login: Authenticated Scraping for AI Agents",
+  "summary": "Passwords are master keys with no expiry. Sessions are scoped, temporary and revocable, and all an agent ever needed. See…",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T00:49:53.361744+00:00",
+  "fetched_at": "2026-08-05T03:48:37.411401+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/07/7e/7e04d264757ee3e4ba7b29476dfec8e7ab216910d97a9299dca1845248d57e8c/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/07/7e/7e04d264757ee3e4ba7b29476dfec8e7ab216910d97a9299dca1845248d57e8c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10259,
+    "sha256": "sha256:6d7c274360947c448f97f05cf0b8b8a6ffa7ea138a81f93e5ffc83cef8aba3f1",
+    "normalized_content_hash": "sha256:75986f57ecaa310fcc207d27325ed6159e06278ec35d307c1a43bb2e29cd4151"
+  },
+  "provenance": {
+    "source_item_id": "b9cd9db4-21c2-4fb8-9357-06ee255a281f",
+    "external_id": "https://anakin.io/blog/authenticated-scraping-behind-the-login"
+  }
+}

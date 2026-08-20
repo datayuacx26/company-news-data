@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e42db9364f579fbc3757a011357b1c87afbee0fdb51e08619d091ce0d765d303",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/"
+  },
+  "title": "Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug",
+  "summary": "Learn how an unassuming Postgres error led us to discover a bug in Postgres for Arm.",
+  "published_at": "2025-01-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/01/e4/e42db9364f579fbc3757a011357b1c87afbee0fdb51e08619d091ce0d765d303/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/01/e4/e42db9364f579fbc3757a011357b1c87afbee0fdb51e08619d091ce0d765d303/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33199,
+    "sha256": "sha256:5e5ba961ed4403e167061dbde2b3edc7a290a6d77d9c9f1768455e6f89546fd2",
+    "normalized_content_hash": "sha256:beaf9eecd504f4d9dba6a97ed69d1076fe601c20c1f49d5df0a34a28a90f9099"
+  },
+  "provenance": {
+    "source_item_id": "28a90277-d849-4942-95d8-c8121df99998",
+    "external_id": "https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/"
+  }
+}

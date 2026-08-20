@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8726e18525045430ddd948a72c413842f46eb3ef1554b424b893c5dc53e8763",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/iot",
+    "canonical": "https://s2.dev/blog/iot"
+  },
+  "title": "Blazing-fast IoT data pipeline for infrared monitoring",
+  "summary": "Build a low-latency IoT pipeline with a Raspberry Pi thermal sensor, S2 streams, and TypeScript for real-time monitoring.",
+  "published_at": "2025-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/01/e8/e8726e18525045430ddd948a72c413842f46eb3ef1554b424b893c5dc53e8763/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/01/e8/e8726e18525045430ddd948a72c413842f46eb3ef1554b424b893c5dc53e8763/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8639,
+    "sha256": "sha256:c74be4121f7aa3a0268f30e8d56b0902ae438edff0c5e64146d2f73781f0bb14",
+    "normalized_content_hash": "sha256:f68fe81c3186b03523bfca21585396d94806cad99e5fe7bd48286922c02c8eb5"
+  },
+  "provenance": {
+    "source_item_id": "dfa9137e-760d-43f4-a77c-32dfe08dfce1",
+    "external_id": "https://s2.dev/blog/iot"
+  }
+}

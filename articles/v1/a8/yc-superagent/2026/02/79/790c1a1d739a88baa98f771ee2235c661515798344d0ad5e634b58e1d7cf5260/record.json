@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "790c1a1d739a88baa98f771ee2235c661515798344d0ad5e634b58e1d7cf5260",
+  "company": {
+    "key": "yc-superagent",
+    "name": "Superagent"
+  },
+  "source": {
+    "id": "yc-superagent-news-import-3c33ed06ece7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.superagent.sh/blog/launching-brin-sh",
+    "canonical": "https://www.superagent.sh/blog/launching-brin-sh"
+  },
+  "title": "Launching brin.sh — realtime threat detection for agents",
+  "summary": "Protect your agents from getting hacked. Brin scores everything your agent is about to consume before it does. Integrates with Cursor, Claude Code, Codex, LangChain, and more.",
+  "published_at": "2026-02-17T12:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:47:34.464363+00:00",
+  "fetched_at": "2026-07-28T22:19:49.030055+00:00",
+  "last_updated_at": "2026-08-18T04:36:02.945621+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-superagent/2026/02/79/790c1a1d739a88baa98f771ee2235c661515798344d0ad5e634b58e1d7cf5260/article.md",
+    "record": "articles/v1/a8/yc-superagent/2026/02/79/790c1a1d739a88baa98f771ee2235c661515798344d0ad5e634b58e1d7cf5260/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3451,
+    "sha256": "sha256:546c70b27aba987874f19d1b95d80e0249082904a29627b456948ef12fe8d9aa",
+    "normalized_content_hash": "sha256:92ce8aedde4c7cab2c9b800154c3f0a4f9473b595e3229b51e748d082e456111"
+  },
+  "provenance": {
+    "source_item_id": "f7409c76-0f8b-489f-bcfb-fecbce3b00d1",
+    "external_id": "https://www.superagent.sh/blog/launching-brin-sh"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1249bd20f06f28425a0017a3a22898f25cc16924e8d23c3d658e7b516328e5a0",
+  "company": {
+    "key": "yc-ramain",
+    "name": "RamAIn"
+  },
+  "source": {
+    "id": "yc-ramain-news-import-43a68eac1f6d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ramain.ai/resources/credential-vaults",
+    "canonical": "https://ramain.ai/resources/credential-vaults"
+  },
+  "title": "Credential vaults: storing secrets without hard-coding workflows",
+  "summary": "How Ramain separates credentials, cookies, inboxes, and session state into encrypted agent profiles with ownership and audit controls.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T11:17:00.876485+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T20:12:18.192182+00:00",
+  "paths": {
+    "article": "articles/v1/85/yc-ramain/2026/07/12/1249bd20f06f28425a0017a3a22898f25cc16924e8d23c3d658e7b516328e5a0/article.md",
+    "record": "articles/v1/85/yc-ramain/2026/07/12/1249bd20f06f28425a0017a3a22898f25cc16924e8d23c3d658e7b516328e5a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2105,
+    "sha256": "sha256:127a53b2c471f3b58bcada51a25956f90abac9826922faee2ea0c5d1461dc385",
+    "normalized_content_hash": "sha256:555b333ae00473cf783fb12bff32028bf2c772149217a97b2369cedfd38748a7"
+  },
+  "provenance": {
+    "source_item_id": "8f881788-70e7-4537-9374-6c8e5f7cacb2",
+    "external_id": "https://ramain.ai/resources/credential-vaults"
+  }
+}

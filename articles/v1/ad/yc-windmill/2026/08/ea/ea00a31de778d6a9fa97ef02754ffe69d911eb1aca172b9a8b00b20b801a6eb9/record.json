@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea00a31de778d6a9fa97ef02754ffe69d911eb1aca172b9a8b00b20b801a6eb9",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ai-artifact-version-history",
+    "canonical": "https://www.windmill.dev/changelog/ai-artifact-version-history"
+  },
+  "title": "Version history for AI session artifacts",
+  "summary": "Every revision of an AI session artifact is now saved as a version, labelled with a short note describing what changed. A picker in the artifact viewer header lets you read an earlier version, with a banner marking the view as stale and a button back to the latest. The AI can list and read past versions too, so you can ask it to restore earlier wording instead of rewriting it. History is capped per artifact, and larger documents keep fewer versions.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T15:49:25.757524+00:00",
+  "fetched_at": "2026-08-14T15:49:28.085235+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/08/ea/ea00a31de778d6a9fa97ef02754ffe69d911eb1aca172b9a8b00b20b801a6eb9/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/08/ea/ea00a31de778d6a9fa97ef02754ffe69d911eb1aca172b9a8b00b20b801a6eb9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1950,
+    "sha256": "sha256:866934318641d3837f1ced650dae9dc2cdf6652d837080a12994fd38b9194ef1",
+    "normalized_content_hash": "sha256:a7a339b4f5ce4078ff416c161935f7f38641be2780204fbbf525d0d2b848068c"
+  },
+  "provenance": {
+    "source_item_id": "87b9106f-09d2-45ca-ba5e-9da52ddd176b",
+    "external_id": "https://www.windmill.dev/changelog/ai-artifact-version-history"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ce71108884a86e114a390969410d1fd384c2d4b4adc84d2bdbb2a1eec8c1075",
+  "company": {
+    "key": "yc-medplum",
+    "name": "Medplum"
+  },
+  "source": {
+    "id": "yc-medplum-atom-baaaecda9acc",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.medplum.com/blog/april-2026-update",
+    "canonical": "https://www.medplum.com/blog/april-2026-update"
+  },
+  "title": "Medplum Monthly Update - April 2026",
+  "summary": "Medplum stayed active this April, with 130+ commits from 20+ contributors amounting to three patch releases — v5.1.7, v5.1.8, and v5.1.9. The Provider app's billing and coverage workflows took a major step forward with integrated claim submission and live eligibility visibility. Scheduling added support for service line configurations on HealthcareService, aligning with R5/R6 FHIR conventions. Spaces, an AI-powered chat workspace inside the Provider App, now surfaces tool calls and responses directly in the chat so you can see exactly what the AI is doing. Clinical documentation expanded across intake, care plans, diagnostics, authentication, and integrations. All of this continues to drive forward our 2026 roadmap priorities.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.588032+00:00",
+  "fetched_at": "2026-07-28T22:15:29.906392+00:00",
+  "last_updated_at": "2026-08-20T02:35:00.277855+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-medplum/2026/05/5c/5ce71108884a86e114a390969410d1fd384c2d4b4adc84d2bdbb2a1eec8c1075/article.md",
+    "record": "articles/v1/8d/yc-medplum/2026/05/5c/5ce71108884a86e114a390969410d1fd384c2d4b4adc84d2bdbb2a1eec8c1075/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15236,
+    "sha256": "sha256:f9a9bb46ad0247974e5385fe0c980b1a7900024279583928b6179fbdc1d7effa",
+    "normalized_content_hash": "sha256:801877360c318eed61fea26e3a1236c5ae821aa0ce34cbcd9360d04441b9d051"
+  },
+  "provenance": {
+    "source_item_id": "7e485fa9-971e-47cd-b348-5ddf107605ca",
+    "external_id": "https://www.medplum.com/blog/april-2026-update"
+  }
+}

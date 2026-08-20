@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fd80eab09bf46e4ccf5a140653da0c92f4ca6d6c71800140287852e30b7e551",
+  "company": {
+    "key": "yc-formance",
+    "name": "Formance"
+  },
+  "source": {
+    "id": "yc-formance-news-import-baf47baa49b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.formance.com/blog/engineering/transaction-reconciliation-at-scale-for-eng",
+    "canonical": "https://www.formance.com/blog/engineering/transaction-reconciliation-at-scale-for-eng"
+  },
+  "title": "Transaction Reconciliation at Scale: An Engineering Guide",
+  "summary": "Learn transaction reconciliation architecture for ledger invariants, provider normalization, matching, and exception handling as transaction volume grows.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:07:59.167261+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-13T12:01:32.170369+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-formance/2026/07/5f/5fd80eab09bf46e4ccf5a140653da0c92f4ca6d6c71800140287852e30b7e551/article.md",
+    "record": "articles/v1/9c/yc-formance/2026/07/5f/5fd80eab09bf46e4ccf5a140653da0c92f4ca6d6c71800140287852e30b7e551/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16358,
+    "sha256": "sha256:560171d22b1480e14f8f408ff7a5b6d46cf0206234713db6648d0546eeccbdb6",
+    "normalized_content_hash": "sha256:0a4d93226dc16d138572cf5600ed6534ee81fbd8ec144aa4509d29e53f937453"
+  },
+  "provenance": {
+    "source_item_id": "c5bf3b6f-51cf-4cde-b8f2-058435854597",
+    "external_id": "https://www.formance.com/blog/engineering/transaction-reconciliation-at-scale-for-eng"
+  }
+}

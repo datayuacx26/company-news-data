@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "284b998db10b051ae37a93dd90c01fc3b28e9e5c4e576b74abfd937912af5150",
+  "company": {
+    "key": "yc-pluggy",
+    "name": "Pluggy"
+  },
+  "source": {
+    "id": "yc-pluggy-news-import-388d271f0e5d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.pluggy.ai/blog/pix-automatico-api-erp-guia-tecnico",
+    "canonical": "https://pluggy.ai/blog/pix-automatico-api-erp-guia-tecnico"
+  },
+  "title": "Como implementar Pix Automático no seu ERP: guia técnico com a API da Pluggy",
+  "summary": "Setup da API, criação de mandato (valor fixo e variável), fluxo de consentimento, webhooks, agendamento e retry automático, e testes no sandbox antes da produção.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:38:50.569956+00:00",
+  "fetched_at": "2026-07-28T22:15:28.620730+00:00",
+  "last_updated_at": "2026-08-19T19:58:51.354514+00:00",
+  "paths": {
+    "article": "articles/v1/9a/yc-pluggy/2026/05/28/284b998db10b051ae37a93dd90c01fc3b28e9e5c4e576b74abfd937912af5150/article.md",
+    "record": "articles/v1/9a/yc-pluggy/2026/05/28/284b998db10b051ae37a93dd90c01fc3b28e9e5c4e576b74abfd937912af5150/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7595,
+    "sha256": "sha256:55e880bdceb842d230c7607dc021039106bcf36ff0adcf9216bfb49aed131902",
+    "normalized_content_hash": "sha256:21903066c30b89a03913f7c08b133693f59c5ca7dd6c2433ff8f676742d5d042"
+  },
+  "provenance": {
+    "source_item_id": "3b5bebc7-8748-4151-bcb9-f6201b0d85c1",
+    "external_id": "https://pluggy.ai/blog/pix-automatico-api-erp-guia-tecnico"
+  }
+}

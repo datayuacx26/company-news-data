@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "411e35bfaedeffb80c638ea2d1696717e372b83ce16b9ff66f17ee34b6d68fb4",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/ai-agents-aws-agentcore/",
+    "canonical": "https://goteleport.com/blog/ai-agents-aws-agentcore/"
+  },
+  "title": "When AI Agents Call AWS, Who Does AWS Think They Are?",
+  "summary": "Learn how to use Teleport JWTs to give MCP tools a verified identity in Amazon Bedrock AgentCore.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:57:37.609410+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T00:27:53.070714+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/07/41/411e35bfaedeffb80c638ea2d1696717e372b83ce16b9ff66f17ee34b6d68fb4/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/07/41/411e35bfaedeffb80c638ea2d1696717e372b83ce16b9ff66f17ee34b6d68fb4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10060,
+    "sha256": "sha256:bfc1c079728edcf2cecfff36f22ee197ec1af419e561882505157a0100b6950a",
+    "normalized_content_hash": "sha256:a8b040ea1cea170101ecb3a0a20d2c08cf8527d37b5a298eb75fc2f12a21d232"
+  },
+  "provenance": {
+    "source_item_id": "e02589a5-0939-4512-85c3-51f7e5b0307e",
+    "external_id": "https://goteleport.com/blog/ai-agents-aws-agentcore/"
+  }
+}

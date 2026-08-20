@@ -1,0 +1,412 @@
+---
+schema_version: "1.0.0"
+document_id: "acd2792e640ac2da46fc16a63c010edc39014fdf80a4fbaf7255842f4799a3f7"
+company_key: "yc-pump-co"
+company: "Pump.co"
+source_id: "yc-pump-co-news-import-86a46b79533f"
+canonical_url: "https://www.pump.co/blog/aws-bedrock-pricing/"
+published_at: "2025-01-07T00:00:00+00:00"
+first_seen_at: "2026-07-25T20:15:23.871807+00:00"
+fetched_at: "2026-08-19T19:04:30.281743+00:00"
+content_hash: "sha256:c0afb37f6c19263ce025f32857b8642ef6e674258670d38fb3e0e8770ce221f8"
+---
+
+# AWS Bedrock Pricing - Cost Breakdown & Savings Guide
+
+[Amazon Bedrock](https://aws.amazon.com/bedrock/) has transformed how businesses approach generative AI. If you are a DevOps professional, a startup founder, or a member of a FinOps team, it is important to know its pricing structure as it helps with budgeting, resource allocation, and ROI. As a result of generative AI, spending up to 40% of overall Cost for AI initiatives could potentially be optimized through effective cost management.
+
+
+This blog highlights[Amazon Bedrock pricing](https://aws.amazon.com/bedrock/pricing/) features, key attributes, pricing models, and provides tips on how to make the most out of your investment on AI. Get ready to take your planning to the next level!
+
+
+## **What is Amazon Bedrock?**
+
+
+**(Image Source:**[AWS](https://aws.amazon.com/solutions/guidance/generating-product-descriptions-with-amazon-bedrock/) **)**
+
+
+[Amazon Bedrock](https://aws.amazon.com/bedrock/) is a service offered by AWS that manages generative AI applications on a single platform. Developers are able to concentrate on developing rather than ordinance because Bedrock utilizes FMs, removing the burden of managing infrastructure. Bedrock allows API access to premier models such as **Amazon’s Titan, Anthropic’s Claude, Meta’s Llama 2, Cohere, and Stability AI** . Bedrock enables its users to advance AI outside the boundaries of extensive machine learning models experience through its powerful AI capabilities. Finding new solutions, enhancing chatbots, or even producing new content are all achievable with Bedrock. As a resource for generative AI, it is easily amenable.
+
+
+### **Key Features of Amazon Bedrock**
+
+
+-
+
+
+**Foundational Models** : Access a wide range of models, including large language models for text generation, embedding models for search, and image generation models.
+
+
+-
+
+
+**Customization** : Using your own data, personalize the models to fit specific business requirements without risking any security guarantee.
+
+
+-
+
+
+**Serverless Infrastructure** : Spend more time creating instead of worrying about how to keep an infrastructure standing.
+
+
+-
+
+
+**Seamless Integration** : Use with other AWS services, such as S3 and CloudFront, for streamlined workflows.
+
+
+-
+
+
+**Data Security** : Protect your data with encryption and IAM controls.
+
+
+## **How Does Amazon Bedrock Work?**
+
+
+[Amazon Bedrock](https://aws.amazon.com/bedrock/) streamlines the process of using generative AI in just three simple steps:
+
+
+1.
+
+
+**Choose a Foundation Model:** Start by[selecting a model that fits your specific needs](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html) . Amazon Bedrock has a number of pre-trained generative AI models that specialize in tasks such as:
+
+
+-
+
+
+**Amazon Titan** : Ideal for text-based tasks like writing, summarizing, or translating.
+
+
+-
+
+
+**Stability AI** : Perfect for generating high-quality images from descriptions.
+
+
+-
+
+
+**Meta Llama 2** : Designed for multilingual conversational AI, enabling advanced communication in multiple languages.
+
+
+1.
+
+
+**Send API Requests:**[Developers send input prompts via Bedrock’s API](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-api.html) . For example, prompts can be made in text form to generate answers, content, images, or data embeddings. Bedrock processes the information and sends it back in the required format.
+
+
+2.
+
+
+**Seamless Integration with AWS:** Once the output is ready, Bedrock saves it in[AWS services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html) such as Amazon S3, encrypting the data in the process. Results can then be used as part of the business workflows, such as building chatbots, customizing customer service, or automating menial tasks.
+
+
+## **Deep Dive into Amazon Bedrock Pricing Models**
+
+
+[Amazon Bedrock has three main pricing models](https://aws.amazon.com/bedrock/pricing/) which can suit any organizations. Pricing varies in regard to the type of model, the number of tokens consumed or produced, and the service levels. Here’s a breakdown:
+
+
+### **1. On-Demand Pricing Model**
+
+
+The on-demand pricing model works on a **pay-as-you-go basis** . This model is especially helpful for projects that might be short-term or unpredictable in nature. Costs are calculated based on:
+
+
+-
+
+
+**Input Tokens** : Data sent to the model.
+
+
+-
+
+
+**Output Tokens** : Data generated by the model (e.g., text responses, images).
+
+
+**Cost Examples for US East (N. Virginia)**
+
+
+**Text Generation** :
+
+
+-
+
+
+Anthropic Claude 3.5 Sonnet (per 1,000 tokens): Input $0.003 / Output $0.015
+
+
+-
+
+
+Amazon Titan Text Lite (per 1,000 tokens): Input $0.0015 / Output $0.0002
+
+
+**Image Generation** :
+
+
+-
+
+
+SDXL 1.0 (1024x1024): $0.08 per image (premium quality).
+
+
+Startups looking to experiment with generative AI would find these services useful, however, the cost per token does exceed the other pricing models.
+
+
+### **2. Provisioned Throughput Model**
+
+
+[Provisioned Throughput pricing](https://aws.amazon.com/bedrock/pricing/#:~:text=%249.38-,Provisioned%20Throughput%20pricing,-Amazon%20Titan%20models) is beneficial for long-term users who have a steady workload. Users commit to a set throughput (input/output token rate) for 1 or 6-month periods and, in return, will greatly reduce their expenses.
+
+
+#### **Examples of Costs**
+
+
+-
+
+
+**Claude 2.0** (6-month commitment): $35/hour per model unit.
+
+
+-
+
+
+**Titan Image Generator** (Standard, 1-month commitment): $16.20/hour per model unit.
+
+
+-
+
+
+**Amazon Titan Text Lite:** $7.10/per hour with no commitment, $6.40/per hour with 1 month commitment, $5.10/per hour with 6 month commitment.
+
+
+### **3. Batch Processing Mode**
+
+
+This is best suited for[large-scale tasks or periodic batch jobs](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference.html) . Users can enjoy **up to 50%** lower costs compared to on-demand pricing. The batch of multiple requests is stored and processed together in Amazon S3 and can be used anytime in the future.
+
+
+#### **Examples of Costs**
+
+
+-
+
+
+Anthropic Claude 3.5 Sonnet: Batch Input Token Cost (1,000 tokens): $0.0015 and Batch Output Token Cost (1,000 tokens): $0.0075
+
+
+Batch processing works best for use cases such as[demand forecasting](https://docs.aws.amazon.com/whitepapers/latest/demand-forecasting/demand-forecasting.html) and[data analysis](https://aws.amazon.com/big-data/datalakes-and-analytics/) that require processing large amounts of data volumes.
+
+
+### **Additional Features Affecting Costs**
+
+
+-
+
+
+[Prompt Caching](https://aws.amazon.com/bedrock/prompt-caching/) **:** Costs can be lowered by **up to 90%** during repetitive work processes. For example, during the answering of FAQs, if the same type of response is required more than once, cached prompts will allow users to avoid generating new requests to pay for.
+
+
+-
+
+
+**Customization & Storage:** Do you wish to enhance[Amazon Titan Text Lite](https://aws.amazon.com/bedrock/pricing/) to suit your purposes? You can for just $0.001 per 1000 tokens. For example, if you are teaching the model how to write email templates for your business, the cost is quite reasonable. Also, all custom models can be stored at a very low cost of **$1.95 per month** which is great for new AI companies or low budget businesses.
+
+
+-
+
+
+**Cross-Region Processing:** Is Bedrock your main application, but do you need it to work in different AWS regions? No issue at all![Cross region processing comes at no extra cost](https://pump.co/blog/aws-availability-zones-affect-pricing) . For example, if your source region is US and your need to deploy is in Europe, there is no charge for the region in which you deploy the model.
+
+
+### **Pricing Tools**
+
+
+-
+
+
+**Amazon Bedrock Flows** : $0.035 per 1,000 node transitions
+
+
+-
+
+
+**SQL Generation** : $3.00 per 1,000 queries
+
+
+-
+
+
+**Data Automation** (currently available only in US West \[Oregon\]):
+
+
+**- Audio** : $0.006 per minute
+
+
+**- Images** : $0.0003 per image
+
+
+**- Video** : $0.050 per minute
+
+
+**- Documents** : $0.010 per page
+
+
+## **Case Study: Tapestry Improves Feedback with AWS and Amazon Bedrock**
+
+
+[Tapestry](https://www.tapestry.com/) , the parent company of Coach, Kate Spade New York, and Stuart Weitzman, faced a daunting problem: gathering feedback from thousands of store associates and putting it to use for improving customer service operations.
+
+
+**Solution**
+
+
+Building an AI engine with two applications, Tell Rexy and Ask Rexy, Tapestry was able to use[Amazon Bedrock and around 20 AWS services](https://aws.amazon.com/solutions/case-studies/tapestry-generative-ai-case-study/?did=cr_card&trk=cr_card) :
+
+
+-
+
+
+**Tell Rexy** : Collects feedback from associates through store devices, using Amazon Transcribe for speech recognition and Amazon Translate for multilingual support.
+
+
+-
+
+
+**Ask Rexy** : A chatbot that lets corporate teams query and analyze feedback data for actionable insights.
+
+
+**Results** :
+
+
+-
+
+
+**30,000 feedback pieces** were collected in one year.
+
+
+-
+
+
+More efficient business decisions like improved inventory and better matching supply with demand.
+
+
+-
+
+
+**10x faster development** of generative AI applications.
+
+
+-
+
+
+Better engagement from employees and increased customer support.
+
+
+[Tapestry’s scalable AI solution](https://www.tapestry.com/) integrates in-store insights with corporate decision-making, enabling novel solutions to be developed at the company level and implemented at the brand level.
+
+
+## **Tools and Tips for Cutting Amazon Bedrock Costs**
+
+
+Managing costs on AWS Bedrock doesn’t have to be overwhelming. Follow these simple, actionable strategies to stay within budget without compromising performance:
+
+
+### **1. Keep an Eye on Costs**
+
+
+Track your spending with the help of[AWS Cost Explorer](https://pump.co/blog/how-to-use-aws-cost-explorer-to-understand-aws-costs) . The application keeps an eye on how many tokens you use, helping you take timely measures towards spending before it gets out of control.
+
+
+**Pro Tip:** Set up cost alerts so that you are notified whenever you reach your budget limit.
+
+
+### **2. Be Smart About Token Usage**
+
+
+Tokens can be expensive, so make sure you spend your money effectively. For example:
+
+
+-
+
+
+Instruct in clear English: “Tell me briefly why the US is a great nation?”
+
+
+-
+
+
+Setting limits on how long the model's responses can be, especially for repetitive or simple tasks.
+
+
+**Pro Tip:**[Test and tweak your prompts](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html) to minimize unnecessary token usage.
+
+
+### **3. Take Advantage of Batch Processing**
+
+
+For requests that do not need instant replies, make use of batch processing. Remember that requests made during peak hours are more expensive so do it during off-peak hours to lower costs.
+
+
+### **4. Use Provisioned Throughput Wisely**
+
+
+If you know that there is going to be a lot of work coming in, save money by subscribing to time-based provisioned throughput. For pre-committed time periods, this option is much cheaper than pay-as-you-go.
+
+
+### **5. Try Embedded Models**
+
+
+For use cases like search engines,[Titan Embeddings](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters-titan-embed-text.html) is an example of an embedding model which is a lot simpler and less expensive than using generative models. Embedded models are cost-efficient and quick for very specific tasks.
+
+
+**Pro Tip:** Use embeddings models for repetitive or low-complexity use cases to save costs.
+
+
+## **Conclusion**
+
+
+[Amazon Bedrock](https://aws.amazon.com/bedrock/) provides users with the ability to efficiently scale generative AI applications, which is why it is such a powerful resource. However, knowing how to manage the cost structure prevents users from spending unnecessarily. Choosing intelligently between on-demand pricing, provisioned throughput, and batch processing, while also minimizing token spend, enables your organization to save money and work more efficiently.
+
+
+## **Join Pump for Free**
+
+
+If you are an early-stage startup that wants to save on cloud costs, use this opportunity. If you are a start-up business owner who wants to cut down the cost of using the cloud, then this is your chance.[Pump helps you save up to 60% in cloud costs](https://pump.co/) , and the best thing about it is that it is absolutely free!
+
+
+Pump provides personalized solutions that allow you to effectively manage and optimize your **AWS and GCP spending** .[Take complete control over your cloud expenses](https://pump.co/why-pump) and ensure that you get the most from what you have invested. Who would pay more when we can save better?
+
+
+Are you ready to take control of your cloud expenses?
+
+
+## **Similar Blog Posts**
+
+
+-
+
+
+[Understanding AWS Data Transfer Pricing Strategies](https://pump.co/blog/aws-data-transfer-pricing)
+
+
+-
+
+
+[Understanding AWS Snowball Pricing and Costs](https://pump.co/blog/aws-snowball-pricing)
+
+
+-
+
+
+[Understanding the AWS Lambda Pricing and Costs](https://pump.co/blog/aws-lambda-pricing)
+
+
+-
+
+
+[What Is Cloud Monitoring? All You Need to Know](https://pump.co/blog/cloud-monitoring)

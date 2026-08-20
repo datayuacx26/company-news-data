@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef69c402025f696669026661bb5a43bceddd0b7a85904bf1af732d09e292234f",
+  "company": {
+    "key": "yc-suger",
+    "name": "Suger"
+  },
+  "source": {
+    "id": "yc-suger-news-import-2505a48c7131",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.suger.io/resources/blog/when-usage-records-fail/",
+    "canonical": "https://www.suger.io/resources/blog/when-usage-records-fail/"
+  },
+  "title": "When Usage Records Fail: Batching and Retries",
+  "summary": "Why AWS Marketplace usage records get rejected: the 25-record batch cap, the 24-hour submission window, and which failures to retry rather than fix.",
+  "published_at": "2026-08-16T00:00:00+00:00",
+  "first_seen_at": "2026-08-16T12:03:27.187135+00:00",
+  "fetched_at": "2026-08-16T12:03:28.828961+00:00",
+  "last_updated_at": "2026-08-18T20:23:46.515720+00:00",
+  "paths": {
+    "article": "articles/v1/8f/yc-suger/2026/08/ef/ef69c402025f696669026661bb5a43bceddd0b7a85904bf1af732d09e292234f/article.md",
+    "record": "articles/v1/8f/yc-suger/2026/08/ef/ef69c402025f696669026661bb5a43bceddd0b7a85904bf1af732d09e292234f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10762,
+    "sha256": "sha256:30b100772de32e12f31a1b036e1fdccf281f71abc206d2a220fc2044fb159ab7",
+    "normalized_content_hash": "sha256:fda80182d8013e08bf23b56198aa572b1f49c35242b84fd1ae1bb3d3fb79390b"
+  },
+  "provenance": {
+    "source_item_id": "2a237f3a-7dba-48fa-b503-c35fb64c3e43",
+    "external_id": "https://www.suger.io/resources/blog/when-usage-records-fail/"
+  }
+}

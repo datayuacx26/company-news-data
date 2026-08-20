@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f08364e2bbde3227b451f571bd8de391fd4da64e700b41d0cf80c215b409008",
+  "company": {
+    "key": "yc-suger",
+    "name": "Suger"
+  },
+  "source": {
+    "id": "yc-suger-news-import-2505a48c7131",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.suger.io/resources/blog/authentication-for-marketplace-apis/",
+    "canonical": "https://www.suger.io/resources/blog/authentication-for-marketplace-apis/"
+  },
+  "title": "How Authentication Works for Marketplace APIs",
+  "summary": "Marketplace API access is machine-to-machine, long-lived and organisation-scoped. That combination breaks most of the credential habits teams bring to it.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T09:12:25.375763+00:00",
+  "fetched_at": "2026-08-15T09:12:26.807099+00:00",
+  "last_updated_at": "2026-08-18T20:23:46.515720+00:00",
+  "paths": {
+    "article": "articles/v1/8f/yc-suger/2026/08/5f/5f08364e2bbde3227b451f571bd8de391fd4da64e700b41d0cf80c215b409008/article.md",
+    "record": "articles/v1/8f/yc-suger/2026/08/5f/5f08364e2bbde3227b451f571bd8de391fd4da64e700b41d0cf80c215b409008/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8831,
+    "sha256": "sha256:5b6d0ef1336835dc0cb9bffb042aea949f810cc5b3a43debb911338a173c0e87",
+    "normalized_content_hash": "sha256:f210eba7265df0ad1ae93b3058ecb2a7722370ba39a817f872a4d489b84a06f8"
+  },
+  "provenance": {
+    "source_item_id": "15ddb92b-42ca-4444-ac5a-7d48757ecf8f",
+    "external_id": "https://www.suger.io/resources/blog/authentication-for-marketplace-apis/"
+  }
+}

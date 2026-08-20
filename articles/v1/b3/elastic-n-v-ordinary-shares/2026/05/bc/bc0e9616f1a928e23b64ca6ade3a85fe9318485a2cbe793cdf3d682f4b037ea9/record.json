@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bc0e9616f1a928e23b64ca6ade3a85fe9318485a2cbe793cdf3d682f4b037ea9",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/entity-analytics-watchlists",
+    "canonical": "https://www.elastic.co/security-labs/entity-analytics-watchlists"
+  },
+  "title": "Know who to watch before the incident finds you",
+  "summary": "Elastic Security v9.4 introduces Entity Analytics Watchlists, a way to codify what your team already knows about high-risk entities and feed that context directly into risk scoring, without custom pipelines or detection engineering overhead",
+  "published_at": "2026-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T22:12:48.521638+00:00",
+  "last_updated_at": "2026-07-29T14:06:29.589636+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/bc/bc0e9616f1a928e23b64ca6ade3a85fe9318485a2cbe793cdf3d682f4b037ea9/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/bc/bc0e9616f1a928e23b64ca6ade3a85fe9318485a2cbe793cdf3d682f4b037ea9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11788,
+    "sha256": "sha256:5d8765fb930e16beddb04e909326f3d1877685bd3a162b4c2ceb10bf85645cf2",
+    "normalized_content_hash": "sha256:25cd5298c51f297b7d485b93f1bb1baa0a32df5a0432ccecba7d2dc0287f68ef"
+  },
+  "provenance": {
+    "source_item_id": "e72679e3-e358-4e90-8364-eb5cf2ba1bac",
+    "external_id": "entity-analytics-watchlists"
+  }
+}

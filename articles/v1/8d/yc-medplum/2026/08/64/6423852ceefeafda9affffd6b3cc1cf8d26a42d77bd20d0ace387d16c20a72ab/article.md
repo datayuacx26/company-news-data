@@ -1,0 +1,112 @@
+---
+schema_version: "1.0.0"
+document_id: "6423852ceefeafda9affffd6b3cc1cf8d26a42d77bd20d0ace387d16c20a72ab"
+company_key: "yc-medplum"
+company: "Medplum"
+source_id: "yc-medplum-atom-baaaecda9acc"
+canonical_url: "https://www.medplum.com/blog/yc-medplum-hackathon-2026"
+published_at: "2026-08-01T00:00:00+00:00"
+first_seen_at: "2026-07-22T22:41:17.945468+00:00"
+fetched_at: "2026-08-01T00:00:00.779085+00:00"
+content_hash: "sha256:9cfb030beb66492f38583d46033ccd1926ca0b9db3d2279e37cdfca212255fe9"
+---
+
+# YC x Medplum Hackathon
+
+Today is the day: Medplum is hosting the **Agentic Healthcare Hackathon** with Y Combinator at the YC office in San Francisco on **Saturday, August 1, 2026** .
+
+
+## Sign Up​
+
+
+Apply here:[https://events.ycombinator.com/medplum-hackathon-26](https://events.ycombinator.com/medplum-hackathon-26)
+
+
+## Date and Time​
+
+
+**Saturday, August 1, 2026** at Y Combinator in San Francisco. Doors open at 9:00am, awards at 7:00pm PT.
+
+
+Time Activity
+
+
+9:00am Doors open and breakfast
+
+
+10:00am Opening remarks and sponsor intros
+
+
+12:30pm Lunch
+
+
+3:00pm Sponsor workshops and office hours
+
+
+5:00pm Submissions close
+
+
+6:00pm Dinner and presentations
+
+
+7:00pm Awards
+
+
+## Prizes​
+
+
+- **First place:** YC interview + sponsor credits
+- **Second place:** AirPods Max + sponsor credits
+- **Third place:** Sponsor credits
+
+
+Every attendee walks out with swag!
+
+
+## Resources for Hackers​
+
+
+Join us on Discord for help during the event:
+
+
+- Join the[Medplum Discord](https://discord.gg/medplum) , then head to the[hackathon channel](https://discord.com/channels/905144809105260605/1522992086314389504)
+
+
+Get building:
+
+
+- [Medplum docs](https://www.medplum.com/docs) - the open source healthcare developer platform
+- [Building on Medplum with AI coding assistants](https://www.medplum.com/docs/building-with-ai-coding-assistants)
+- [Stedi test mode](https://www.stedi.com/docs/healthcare/test-mode) - build and test healthcare APIs without real payers
+- [Create a free Deepgram account](https://console.deepgram.com/signup?utm_campaign=49600264-0726%20Medplum%20Hackathon%20San%20Francisco&utm_source=Event&utm_medium=QR%20Code) - $200 in free credits for speech-to-text, text-to-speech, and voice agent APIs, no card required
+- [Deepgram Startup Program](https://deepgram.com/startup-program?utm_campaign=49600264-0726%20Medplum%20Hackathon%20San%20Francisco&utm_source=Event&utm_medium=QR%20Code) - keep building after the hackathon with credits that scale up to $100K as you grow
+
+
+## Judges​
+
+
+**[Diana Hu](https://www.linkedin.com/in/sdianahu)** is a Partner at Y Combinator. Before YC, she was co-founder and CTO of Escher Reality (YC S17), an augmented reality backend acquired by Niantic.
+
+
+**[Cody Ebberson](https://www.linkedin.com/in/codyebberson/)** is co-founder and CTO of Medplum. He is a 2x YC founder, first with the medical imaging startup MedXT (YC W13) and now with Medplum (YC S22).
+
+
+**[Ana Yoon Faria de Lima](https://www.linkedin.com/in/ana-yoon-faria-de-lima/)** is co-founder of Pavoot (YC P26), an AI event manager for customer events. Previously, she built AI and data systems at Itaú Unibanco and BTG Pactual, two of Latin America's largest banks. She won 20+ Scientific Olympiad medals, ranked first in Computer Science at USP, Latin America's top university, and started an MSc in AI at ETH Zurich.
+
+
+**[Naomi Carrigan](https://www.linkedin.com/in/naomi-lgbt/)** is cultivating online communities for Deepgram, the voice AI platform for speech-to-text and text-to-speech APIs. She is the founder of NHCarrigan - senior software engineer, community manager, developer educator, and all around girlboss
+
+
+**[Victor Wang](https://www.linkedin.com/in/vwang1111/)** is a Staff Software Engineer at Deepgram focused on partner platform engineering. Before joining Deepgram, Victor held multiple roles at AWS including SDE, Consultant, TPM, and SA.
+
+
+**[Sri Raghu Malireddi](https://www.linkedin.com/in/r4ghu/)** is co-founder of Moss (YC F25), a real-time semantic search runtime that lets voice agents and copilots retrieve and respond in under 10 milliseconds. Previously, he was an ML lead at Grammarly and Microsoft.
+
+
+## Hack Submission Form​
+
+
+Submit your hack here:[https://docs.google.com/forms/d/e/1FAIpQLSdqhh466ADsUm-44CSkjC0xkOcm431wkJx_n_r7W4qT8FCRgA/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSdqhh466ADsUm-44CSkjC0xkOcm431wkJx_n_r7W4qT8FCRgA/viewform?usp=header)
+
+
+See you Saturday!

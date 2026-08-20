@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df7a8b854c78931f090f37a95892bc14eadc9bbf3a17b2424cf5ae32d1cf4b77",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge",
+    "canonical": "https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge"
+  },
+  "title": "Stablecoin payments for Stripe developers: zero crypto knowledge required",
+  "summary": "Learn how to add stablecoin payments to your Stripe integration in under an hour. Accept USDC on Ethereum, Solana, Polygon, and Base with zero blockchain knowledge—just add 'crypto' to your existing payment methods.",
+  "published_at": "2025-11-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/11/df/df7a8b854c78931f090f37a95892bc14eadc9bbf3a17b2424cf5ae32d1cf4b77/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/11/df/df7a8b854c78931f090f37a95892bc14eadc9bbf3a17b2424cf5ae32d1cf4b77/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3338,
+    "sha256": "sha256:ecbac5037c610ed231740415d48b7fb724e7dff4f6890c228b0fd1fc7090328f",
+    "normalized_content_hash": "sha256:4d4611ba55d1f129439cf258ae06d16d0c1421062e836bf91d51fcc8fa1dc27a"
+  },
+  "provenance": {
+    "source_item_id": "e3a7497a-c33b-4ebf-9a0b-92b6be490961",
+    "external_id": "https://stripe.dev/blog/using-stripe-stablecoin-payments-no-crypto-knowledge"
+  }
+}

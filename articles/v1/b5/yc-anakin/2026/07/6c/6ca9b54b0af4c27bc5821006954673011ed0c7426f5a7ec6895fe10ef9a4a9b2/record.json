@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ca9b54b0af4c27bc5821006954673011ed0c7426f5a7ec6895fe10ef9a4a9b2",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/http-429-errors-scrapers-despite-delays",
+    "canonical": "https://anakin.io/blog/http-429-errors-scrapers-despite-delays"
+  },
+  "title": "Why Scrapers Still Hit HTTP 429 Errors Despite Delays",
+  "summary": "Adding delays isn't enough. Fix HTTP 429 errors by tackling fingerprint inconsistency, session leakage, and rate-bucket…",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:45:54.754455+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/07/6c/6ca9b54b0af4c27bc5821006954673011ed0c7426f5a7ec6895fe10ef9a4a9b2/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/07/6c/6ca9b54b0af4c27bc5821006954673011ed0c7426f5a7ec6895fe10ef9a4a9b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22724,
+    "sha256": "sha256:3b2456b8fc6936c017b2aa4456e9edf1125a713264fc01e0c32f5b6c7d3c67a1",
+    "normalized_content_hash": "sha256:1ffd55f6bcb3b5b3199c50079c5176f78ed102d7b46d13dedf1d1f50a7c785c9"
+  },
+  "provenance": {
+    "source_item_id": "ac0d5145-5366-4772-95c0-1fcefb1698ec",
+    "external_id": "https://anakin.io/blog/http-429-errors-scrapers-despite-delays"
+  }
+}

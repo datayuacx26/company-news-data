@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67ce196342809041f42485a7fc2d728face98f0cc0e69b04d8e91488b17008f7",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2026-02-18-from-always-on-to-on-demand-scaling-kafka-sinks-with-keda/",
+    "canonical": "https://tech.trivago.com/post/2026-02-18-from-always-on-to-on-demand-scaling-kafka-sinks-with-keda/"
+  },
+  "title": "From Always-On to On-Demand: Scaling Kafka Sinks with KEDA",
+  "summary": "Kafka sits at the heart of how we move data between systems at trivago. Many teams publish changes to Kafka, and downstream services consume those changes to keep user-facing features up to date...",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:19:43.789522+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2026/02/67/67ce196342809041f42485a7fc2d728face98f0cc0e69b04d8e91488b17008f7/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2026/02/67/67ce196342809041f42485a7fc2d728face98f0cc0e69b04d8e91488b17008f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21663,
+    "sha256": "sha256:8cf0a1c515af5c3e8a559039746295e831bd4017e1274c1072ae1f775a70507d",
+    "normalized_content_hash": "sha256:ca6fcc2fd83f88949e1fd0d4385dd783afd8e1b879bdb3bf5c7c10b46b651489"
+  },
+  "provenance": {
+    "source_item_id": "e3aeeb94-9c8d-4d40-bd4e-495fffd01a70",
+    "external_id": "https://tech.trivago.com/post/2026-02-18-from-always-on-to-on-demand-scaling-kafka-sinks-with-keda/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c93123903e603f3c40252360a9fe5a7f687a61d3c6c35e66d2cc77ebf9862f0",
+  "company": {
+    "key": "yc-reducto",
+    "name": "Reducto"
+  },
+  "source": {
+    "id": "yc-reducto-news-import-9027c8a6c8d0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reducto.ai/blog/10k-document",
+    "canonical": "https://reducto.ai/blog/10k-document"
+  },
+  "title": "Parsing the 10-K: why financial filings defeat standard PDF pipelines",
+  "summary": "Most financial RAG pipelines fail before the model ever runs. Here's where the parser loses the structure and what it takes to get it back.",
+  "published_at": "2026-06-08T12:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:11:50.013054+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-19T20:13:43.815092+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-reducto/2026/06/7c/7c93123903e603f3c40252360a9fe5a7f687a61d3c6c35e66d2cc77ebf9862f0/article.md",
+    "record": "articles/v1/99/yc-reducto/2026/06/7c/7c93123903e603f3c40252360a9fe5a7f687a61d3c6c35e66d2cc77ebf9862f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8896,
+    "sha256": "sha256:9a079a2112eb59e98f214aea7c1cf66734152dbd50771ad407ea42f713aec953",
+    "normalized_content_hash": "sha256:e24b351ec0d5a0aa115faddf14d15e1dbaa77874b5bfb304640384ef72ef353b"
+  },
+  "provenance": {
+    "source_item_id": "901ecc95-8c89-4169-8b1d-42b9ef28e02f",
+    "external_id": "https://reducto.ai/blog/10k-document"
+  }
+}

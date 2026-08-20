@@ -1,0 +1,91 @@
+---
+schema_version: "1.0.0"
+document_id: "f09a68d37ef8335bd46258a5570cfb6321728c6eb986360f6cfe238342ef709a"
+company_key: "yc-ramen-vr"
+company: "Ramen VR"
+source_id: "yc-ramen-vr-atom-8d2a75475800"
+canonical_url: "https://zenithmmo.com/blogs/news/letter-from-the-devs"
+published_at: "2023-05-11T21:16:10+00:00"
+first_seen_at: "2026-07-25T20:28:01.905287+00:00"
+fetched_at: "2026-07-28T22:26:26.378360+00:00"
+content_hash: "sha256:6d0de78fc1d7f074afce13ca713049df8d8cc42a99b4912426049eaccc75e3f4"
+---
+
+# Letter from the Devs
+
+Hey Folks,
+
+
+Been awhile since our last major update so the team and I wanted to take some time to address the community.
+
+
+First of all – It’s hard to believe that Zenith has been out for almost 1.5 years. It’s incredible to think of all that we have accomplished and built together – and I do mean we: without a community, we wouldn’t have an MMORPG – so from the bottom of our hearts, we’d like to thank you for all your support.
+
+
+Over that time we’ve released some amazing features, 4 instanced dungeons and 3 raids and a thrilling end game boss fight. Plus we put out creature catching and pets alongside a complete revamp of our first time user experience.
+
+
+We believe this is just the beginning, which is why we made all these updates free for players.
+
+
+Everything we’ve done to date pales in comparison to the Skyward Summit update which is our biggest, and most exciting update yet. We’re excited to introduce massive game-changing features that make Zenith feel like a brand new experience including:
+
+
+- Cyber Ninja
+
+
+- PVP Duels
+
+
+- Grappling Based Locomotion
+
+
+- 3 New Lifeskills
+
+
+- 3 New Zones – Set on a completely new continent.
+
+
+- Player Housing
+
+
+- And finally Core Combat Improvements
+
+
+We’re looking forward to hearing your feedback!
+
+
+I also wanted to share our vision for after 1.3 — Skyward Summit.
+
+
+We envision Zenith as a place where players can build lifelong friendships and discover their true potential. With that vision in mind, and with feedback from players, we’ve revamped our game development strategy to focus on Quality, Speed, and Usability.
+
+
+First – on quality – our focus on Zenith will shift towards making the game more stable, performant, and bug free. In addition you can expect more polish and improvements on existing features, instead of all brand new systems. On the content side, our goal will be to improve the quality of our content (more fun, less repetitive, more social.).
+
+
+Second – on speed – while I am very proud of the amount of content and systems in total, we are shipping too far and in between. Going forward, you can expect faster updates for bugs as well as content additions much more regularly. In fact – 1.3.1 is in production now and will unlock a new zone - we’re planning to ship that sometime in June. While it’ll take some time we’d like to eventually get to a point where we’re content shipping updates every 2-3 weeks.
+
+
+Lastly on usability. It’s been clear to us for some time that Zenith’s UI has room for improvement. Our goal is to work to make the game more accessible and easy to pick-up over time. Making these improvements mean we’ll be able to increase our community size faster, but it also means you’ll be getting a better and more fun user experience, no matter how long you’ve been playing Zenith.
+
+
+These updates to our development process underpin why we decided to ship Skyward Summit with the Cyber Ninja DPS class and 3 zones. We wanted to have the time to polish and improve on the content. We also cut scope to make sure we could focus on content we believed in.
+
+
+With faster release processes, tooling, and focus you’ll start to see new content updates start to ramp up overtime at a faster pace and continuous improvement of bugs and features in a way that you haven’t in the past.
+
+
+Once again, we just wanted to extend a heartfelt thank you to the entire community for believing in us. We can’t wait to see you in Skylands!
+
+
+Thanks,
+
+
+Andy
+
+
+PS For a full list of all the exciting changes check this post from Dottz!
+
+
+[Patch 1.3 Notes: Skyward Summit – Zenith: The Last City](https://zenithmmo.com/blogs/news/patch-1-3-notes-skyward-summit)

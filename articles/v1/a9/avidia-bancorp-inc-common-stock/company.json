@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "avidia-bancorp-inc-common-stock",
+    "name": "Avidia Bancorp Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2024-06-03T16:52:58+00:00",
+  "last_published_at": "2026-01-15T16:29:33+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/avidia-bancorp-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13396,
+        "sha256": "sha256:6a40aa7328ac065f3764b0647db45a8977849a90b0ed4fb0cf1b3097d9b658c1",
+        "newest_at": "2026-01-15T16:29:33+00:00",
+        "oldest_at": "2024-06-03T16:52:58+00:00"
+      }
+    ]
+  }
+}

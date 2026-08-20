@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df9e5f4039e73213f5e453739cb76ef08940299070b78da5c2bbf5097a65e016",
+  "company": {
+    "key": "yc-mage-legal",
+    "name": "Mage Legal"
+  },
+  "source": {
+    "id": "yc-mage-legal-news-import-389f7de0f02c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://magelegal.com/blog/how-to-architect-a-document-ai-pipeline-for-legal",
+    "canonical": "https://magelegal.com/blog/how-to-architect-a-document-ai-pipeline-for-legal"
+  },
+  "title": "How to Architect a Document AI Pipeline for Legal",
+  "summary": "A practitioner's view of the architecture under modern legal AI: ingestion, classification, structured extraction, multi-document reasoning, validation, and output. What goes where, and why.",
+  "published_at": "2026-04-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:07:51.367861+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-03T07:47:03.149897+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-mage-legal/2026/04/df/df9e5f4039e73213f5e453739cb76ef08940299070b78da5c2bbf5097a65e016/article.md",
+    "record": "articles/v1/93/yc-mage-legal/2026/04/df/df9e5f4039e73213f5e453739cb76ef08940299070b78da5c2bbf5097a65e016/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8411,
+    "sha256": "sha256:eb67a7ac63dbd5c1711465331cc8e42499c3ebf65438b22629d8ec87e25fde89",
+    "normalized_content_hash": "sha256:b6c8737266aea18c2b0388e2c058525d53a16262471e16f9e1f3f49c107e87cc"
+  },
+  "provenance": {
+    "source_item_id": "680ec721-0a7b-4e82-9775-3b45880bdbd5",
+    "external_id": "https://magelegal.com/blog/how-to-architect-a-document-ai-pipeline-for-legal"
+  }
+}

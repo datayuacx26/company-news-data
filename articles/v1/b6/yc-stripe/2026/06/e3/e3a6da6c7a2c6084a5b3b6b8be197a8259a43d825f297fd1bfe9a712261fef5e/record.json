@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3a6da6c7a2c6084a5b3b6b8be197a8259a43d825f297fd1bfe9a712261fef5e",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/integrating-services-with-agents-stripe-projects",
+    "canonical": "https://stripe.dev/blog/integrating-services-with-agents-stripe-projects"
+  },
+  "title": "From hobby to real world: integrating the hard stuff with agents",
+  "summary": "When building with agents, most guides will give you the happy path - how to do something the best way, without friction. This post is all friction, and how to get through it when things go wrong.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/e3/e3a6da6c7a2c6084a5b3b6b8be197a8259a43d825f297fd1bfe9a712261fef5e/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/e3/e3a6da6c7a2c6084a5b3b6b8be197a8259a43d825f297fd1bfe9a712261fef5e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3904,
+    "sha256": "sha256:666caebed4fd94b7a8c3637bd39761dffe396acfecf79b4e4012d6f0482119e0",
+    "normalized_content_hash": "sha256:9680afbd389d1d93e6342843a7f3f5bc37b4ba64e3da9d9ab3fe3159bfc86a32"
+  },
+  "provenance": {
+    "source_item_id": "c24f80f1-3eb4-4ab2-8670-b40b2a24acc8",
+    "external_id": "https://stripe.dev/blog/integrating-services-with-agents-stripe-projects"
+  }
+}

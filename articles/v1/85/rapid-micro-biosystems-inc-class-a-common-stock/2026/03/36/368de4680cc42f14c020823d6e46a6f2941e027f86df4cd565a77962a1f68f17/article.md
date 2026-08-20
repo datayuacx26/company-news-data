@@ -1,0 +1,28 @@
+---
+schema_version: "1.0.0"
+document_id: "368de4680cc42f14c020823d6e46a6f2941e027f86df4cd565a77962a1f68f17"
+company_key: "rapid-micro-biosystems-inc-class-a-common-stock"
+company: "Rapid Micro Biosystems Inc."
+source_id: "rapid-micro-biosystems-inc-class-a-common-stock-rss-90650ff7773e"
+canonical_url: "https://www.rapidmicrobio.com/company/news/rapid-micro-biosystems-to-participate-in-keybanc-capital-markets-healthcare-forum-3-10-26"
+published_at: "2026-03-10T12:00:00+00:00"
+first_seen_at: "2026-08-13T07:52:26.333050+00:00"
+fetched_at: "2026-08-13T07:52:27.933937+00:00"
+content_hash: "sha256:d6ece34c0367182e7d496c8accdef20e02f5477f1c56f020c5c0b02ae7209aaa"
+---
+
+# Rapid Micro Biosystems to Participate in KeyBanc Capital Markets Healthcare Forum
+
+LEXINGTON, Mass., March 10, 2026 (GLOBE NEWSWIRE) -- Rapid Micro Biosystems, Inc. (Nasdaq: RPID) (the “Company”), an innovative life sciences technology company providing mission critical automation solutions to facilitate the efficient manufacturing and fast, safe release of healthcare products, today announced that the Company will participate in the KeyBanc Capital Markets Healthcare Forum.
+
+
+The Company is scheduled to participate in a virtual question and answer session with the host analyst on Tuesday, March 17, 2026, at 11:15 a.m. Eastern Time. A live webcast will be available on the Rapid Micro Biosystems investor relations website at[https://investors.rapidmicrobio.com/](https://www.globenewswire.com/Tracker?data=rLucb5d9b8Hxu702F5by894ifhIFkFO97dlzs-WacHr8QLgTEv57ZmjhkkAUiT5tyOtNusvarbgtCaGAIzX3ZD9pcs-BSt0k6hTIZyb0hFK97EdH6GQo9aTFhPs4uJ0KlUgQOOUpY4S1w42a-f62AccblnMKdnklHekowukn56BqbIngo_A72jk2fMk-b0WkH6yXGeJwO_WFvay-9vSKYxcGZoXQ-oADGaEZlTw_r2UOBNZMpMm2g8nbgv3nAG8_DprhqILcfjrUj2hBsOylGTXSMS6licfM6IW2ihmG-WjlFcPsJuuid4cHCVe65pK_) and can be accessed[here](https://www.globenewswire.com/Tracker?data=hR999cAdcNG1PFZzS-k_dMQiyC6-Nwy8UQRGM03seKgXRTGVkYLAar2omP-rTwmEGold91luedrhUChziKumjVwJlt0KHsrGqV_kSZrMnhxveHDxP_Qbla8gXlb9E4lUIVzgf9fHbTNZlCG9lYZPvivmOKnvSk7jV88UB3s_ip0D_fKcTGzvfkXfJ223G3HOWC692ADX8eY9JbU4L8TbMB3HYpbrKcnZyplVNcWPOzLRF_zd8ksm_og1CWeSgr_aq7ksjfDpHrM3EdeiNkmt9A==) . The webcast will be archived and available for replay after the event.
+
+
+**About Rapid Micro Biosystems**
+
+
+Rapid Micro Biosystems is an innovative life sciences technology company providing mission critical automation solutions to facilitate the efficient manufacturing and fast, safe release of healthcare products such as biologics, vaccines, cell and gene therapies, and sterile injectables. The Company’s flagship Growth Direct system automates and modernizes the antiquated, manual microbial quality control (“MQC”) testing workflows used in the largest and most complex pharmaceutical manufacturing operations across the globe. The Growth Direct system brings the quality control lab to the manufacturing floor, unlocking the power of MQC automation to deliver the faster results, greater accuracy, increased operational efficiency, better compliance with data integrity regulations, and quicker decision making that customers rely on to ensure safe and consistent supply of important healthcare products. The Company is headquartered Lexington, Massachusetts, and has U.S. manufacturing in Lowell, Massachusetts, with global locations in Switzerland, Germany, and the Netherlands. For more information, please visit[www.rapidmicrobio.com](https://www.globenewswire.com/Tracker?data=TN_Os_qdFypbJhfx2nfq5IZ58SC6-OdBNH6a3rTgkSTEetLp1fX40vJAGbaQ9hy4T_Rv7N4dGd45SjojmuPsNky3Ey-k3BNgi1duoyW88l0FiBAoKS6nXDvqfkmrgN5Yiy3SzqlltzZou-n14cRFZuR-Y6-x4BFxRCy4X5r19Oshx33gtJ6UQRcVeVkXqsS6G3EVXXPN2kMbjFOpmyhNk_6RNzDLHqZRB8B1mpmlk6EEB9KQdlfqx4HRMhFBgk283WbkkdmgnxhmNrTsz7d6nA==) or follow the Company on X (formerly known as Twitter) at[@rapidmicrobio](https://www.globenewswire.com/Tracker?data=A4mqvMOdhd1Hcp2s8ed2im9-laGluevgA9bsUbN_3BMsXNlgJxZWO_Q00K_hNAGQ27eMYQxM531Mao2uspTCD7G7lJTrppeiKVo0gK0oWGyQKJOGs96AqtLD-IYtat8Ps4wZs65x2HCEjV3p2o0gmswoXQP7AGe55N_zFQwO4BKbfUtv5qLVVjA_yGZcxx5EOzlv2KeheikwWN7fpx4bI5IINkO5R4JFiOXfvCwGClZ7YV9jpOstNbz74jls76-CK8Hidaf8xt3ma_1472h2uWF5jyS2Fnew0-1eUKPmutw-0WosgQqrytw9s6bf4VN5mJTV9VDUqm5D0gP89mv4oYbiIC97yVwTlVzkn8vcxgEK-iGa6VQBgPqy8W7LFQdzVu-Yu5oMqmr0qoNvE9DulKpI09PH2lwBdQ3wHNAj6JZtmHr0A5ywK3Bs-HfDlZeRN3_iL62Saf1BekNzrq3C82SPIR0euaz_0S2zNzmiiex200ov4SMYwoUGAbw-MkZ2E6qAKoNZN-J758c-jvu1fw1xCGUgXaHfgeljl0gg0FLXZw9GxhnlQ1_awMkCk4ng6DC2UE_gMKLXUDbZgihHwCvrIe_r6IRXAf06-ielsogd375Qg05rKCve8s2zNgMEJmZeuK6C6YML1GYCkGuOm8ScLWXlMUVMWVWRHc6KhRRdVg3c061x-ffyhc-H-A6XXx6HbunLjf6Mko4_w0CltHFmaA9barcySCEkUDo-zpw=) or on[LinkedIn](https://www.globenewswire.com/Tracker?data=rYp25MwACzIWYvm1OCHvY-5CVr9CaznE4OfrZHgl8zYeSMK3T-LxjZqwZ7ObJ9O1SHHcDnG93q5YL5z7-QwYRlcV3dXYy4lkh4fFKvHo3Nf7c8Gr1ztqdM228P4y-ihGbcF73h1rJ4ZmCy21SVT8sNu5VtmQZYV_TMaRO2r4xQIrJE_x29jkMcONEd4f2FwS8SMdXV65oHhgsKMaQUlpKY-jisxHWNUKnJ8-1-1mwgRREnWyJyP0F5eKgJf5R_xkHO711_riN9UQhQws_qSnWRpXaMNs69BUprGR4J2I75XsYqrtkRpAyZUa5GRb8mevf22XxJKcnwqoBqDH2uj3soetbvA5KUC30-ItLP_9BaBIQfciUzOiMwJviqCT7HoZmhFywtAcbSFH8rnnOrN1v3D-lfWYTCNTO711uqXMM0zE6Fgw3dGnQkVFbbgDBc4i9kDXDnNzFosBbPrlIwlae5uBbwOaU_ri_NAGLBHDcQKV3R6IFvEEe39aqVGz8C-ITSW0ON6R1KeX86KMYgDbsn70ue-5BrxxRKXxzBc9yMJGdCzVcGV1NBr7lDUyL_ALR5o9FEXx1lo5Gwqi5PQTylR3F6_bB06bJ-VGuzY0pl6HBZPc4ln13_gvGAd2UqaaWc96f6UdypgzWXzr5EL430PQ20x2Z9XKWvT2sSQZt1EFEilJ4I0TeYm5GbhOFUSoy883kpUKv6biYjG4weDFc5XzojfjiKKAffzgajcCG7bc7KaKi3BLA69jI9LXJYm5) .
+
+
+Investor Contact: Michael Beaulieu, CFA Vice President, Investor Relations and Corporate Communications mbeaulieu@rapidmicrobio.com Media Contact: media@rapidmicrobio.com

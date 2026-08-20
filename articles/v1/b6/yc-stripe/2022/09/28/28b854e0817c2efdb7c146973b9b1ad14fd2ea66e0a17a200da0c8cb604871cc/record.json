@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28b854e0817c2efdb7c146973b9b1ad14fd2ea66e0a17a200da0c8cb604871cc",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/markdoc",
+    "canonical": "https://stripe.dev/blog/markdoc"
+  },
+  "title": "How Stripe builds interactive docs with Markdoc",
+  "summary": "Markdoc delivers a good user experience without compromising the authoring experience. It enables writers to express interactivity and simple page logic without mixing code and content.",
+  "published_at": "2022-09-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:03:09.867162+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2022/09/28/28b854e0817c2efdb7c146973b9b1ad14fd2ea66e0a17a200da0c8cb604871cc/article.md",
+    "record": "articles/v1/b6/yc-stripe/2022/09/28/28b854e0817c2efdb7c146973b9b1ad14fd2ea66e0a17a200da0c8cb604871cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3098,
+    "sha256": "sha256:dac736fd449a4640d0e975ad944f96e060a00d1c582513120eab37ab9c01759d",
+    "normalized_content_hash": "sha256:2254329776cd9f9e3e63b6ffa2120b80c06a2646ed7f0e6d01c4d15f161dcacc"
+  },
+  "provenance": {
+    "source_item_id": "503c35d3-7c6c-4f5a-8b3e-0e61843cbb40",
+    "external_id": "https://stripe.dev/blog/markdoc"
+  }
+}

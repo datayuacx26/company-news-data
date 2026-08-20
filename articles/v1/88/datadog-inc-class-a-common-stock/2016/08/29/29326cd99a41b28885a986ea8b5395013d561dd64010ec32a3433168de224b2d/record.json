@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "29326cd99a41b28885a986ea8b5395013d561dd64010ec32a3433168de224b2d",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/consul-at-datadog/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/consul-at-datadog/"
+  },
+  "title": "Consul at Datadog",
+  "summary": "We’ve been using Consul for about 18 months at Datadog and it’s an important part of our production stack. In this post we will discuss some of the lessons we have learned.",
+  "published_at": "2016-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:27:31.756931+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2016/08/29/29326cd99a41b28885a986ea8b5395013d561dd64010ec32a3433168de224b2d/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2016/08/29/29326cd99a41b28885a986ea8b5395013d561dd64010ec32a3433168de224b2d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7021,
+    "sha256": "sha256:35456c8bdc684fdcd0f6d12d390b1b7dce6b3af50afbcfd19e1e600c3437a37e",
+    "normalized_content_hash": "sha256:33fc85ed8da260e9cbd102bdd7aa21f549ce4cb475ff96024c7968b7954f6556"
+  },
+  "provenance": {
+    "source_item_id": "c44ae3e0-c5bc-4bca-b97c-4f260935b92e",
+    "external_id": "https://www.datadoghq.com/blog/engineering/consul-at-datadog/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b65eefe299593e3d62d5035904e2e36512de7c6e2f7aefc805166108109a807",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/moving-a-jobsystem-to-kubernetes/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/moving-a-jobsystem-to-kubernetes/"
+  },
+  "title": "How we minimized the overhead of Kubernetes in our job system",
+  "summary": "Solving performance problems when moving an application to Kubernetes",
+  "published_at": "2021-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2021/02/4b/4b65eefe299593e3d62d5035904e2e36512de7c6e2f7aefc805166108109a807/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2021/02/4b/4b65eefe299593e3d62d5035904e2e36512de7c6e2f7aefc805166108109a807/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15019,
+    "sha256": "sha256:ebe75a3d87d3c9d99de831d7327103ad7db9f91c65b6200852a4f73bf0b30f66",
+    "normalized_content_hash": "sha256:b5c99c797f2bfa74fcdfd1c8fe131f975c0f6c50dad87fb80fba173f170cffd5"
+  },
+  "provenance": {
+    "source_item_id": "ea6aec9f-9d38-407f-86a2-a754b699655e",
+    "external_id": "https://www.datadoghq.com/blog/engineering/moving-a-jobsystem-to-kubernetes/"
+  }
+}

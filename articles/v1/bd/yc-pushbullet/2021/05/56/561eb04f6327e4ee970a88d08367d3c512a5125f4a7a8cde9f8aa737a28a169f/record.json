@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "561eb04f6327e4ee970a88d08367d3c512a5125f4a7a8cde9f8aa737a28a169f",
+  "company": {
+    "key": "yc-pushbullet",
+    "name": "Pushbullet"
+  },
+  "source": {
+    "id": "yc-pushbullet-rss-4ba42a362971",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.pushbullet.com/2021/05/20/an-update-for-pushbullet-facebook-login-users",
+    "canonical": "https://blog.pushbullet.com/2021/05/20/an-update-for-pushbullet-facebook-login-users"
+  },
+  "title": "An Update For Pushbullet Facebook Login Users",
+  "summary": "For more context on this issue, take a look at our previous post for more information about Facebook’s unexpected blocking of Pushbullet. Unexpectedly losing access to your Pushbullet account due Facebook Login being blocked is very frustrating for many Pushbullet users (and for us at Pushbullet). To help reduce the stress and inconvenience, we’ve been working to enable a smooth transition so affected users can continue to access their Pushbullet account. While working through this, our top priority is ensuring we continue to maintain the security of the affected Pushbullet accounts. While we don’t have a perfect solution for all possible situations just yet, I wanted to share some updates and straightforward ways to continue accessing a Pushbullet account without Facebook Login. Option #1: Use a Google account with the same email address. Many people have one main email address they use to log in to many sites. Very often this is an @gmail.com email, so this option may work great for many affected users. If you have a Google account set up for the email address you use to log in on Facebook, you can continue accessing the same Pushbullet account by using Google to sign in intead of Facebook. Wondering what email address your Facebook account uses? You can check this on your Facebook Account’s settings page here . Option #2: Migrate to Google sign in and a new Pushbullet account. If your main use of Pushbullet is for SMS sync and Notification Mirroring, switching to a new Pushbullet account is actually a very easy option. You can make the switch by simply signing out of our app and website, then sign in using the Google account you’d like to start using. This is not a great option for those that have valuable files or push history in their current Pushbullet account. In this case, Option #1 is a better idea if it is possible. These options don’t cover everyone, but they give some immediate options to many of you affected by the Facebook Login block. We hope this helps provide some helpful guidance to many of you wondering how to best continue accessing a Pushbullet account without Facebook Login. For those whom are not served well by these options, stay tuned for another update.",
+  "published_at": "2021-05-20T05:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:08:48.518680+00:00",
+  "fetched_at": "2026-08-20T03:16:18.952870+00:00",
+  "last_updated_at": "2026-08-20T03:16:19.034999+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-pushbullet/2021/05/56/561eb04f6327e4ee970a88d08367d3c512a5125f4a7a8cde9f8aa737a28a169f/article.md",
+    "record": "articles/v1/bd/yc-pushbullet/2021/05/56/561eb04f6327e4ee970a88d08367d3c512a5125f4a7a8cde9f8aa737a28a169f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2989,
+    "sha256": "sha256:43efa8a7a8fe827657dcb760a386dba8e2b71037c8891c2cf91642adbf04ee9c",
+    "normalized_content_hash": "sha256:f85c6204704223817d5dd70002bf81070e996fe4b68ca7f912d29e5545983bd6"
+  },
+  "provenance": {
+    "source_item_id": "0a24cf1b-1185-4510-b37d-eba9c35f9ee3",
+    "external_id": "http://blog.pushbullet.com/2021/05/20/an-update-for-pushbullet-facebook-login-users"
+  }
+}

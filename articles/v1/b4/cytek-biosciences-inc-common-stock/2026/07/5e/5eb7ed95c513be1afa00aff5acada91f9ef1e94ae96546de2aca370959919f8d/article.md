@@ -1,0 +1,138 @@
+---
+schema_version: "1.0.0"
+document_id: "5eb7ed95c513be1afa00aff5acada91f9ef1e94ae96546de2aca370959919f8d"
+company_key: "cytek-biosciences-inc-common-stock"
+company: "Cytek Biosciences Inc."
+source_id: "cytek-biosciences-inc-common-stock-news-import-5395ed888036"
+canonical_url: "https://cytekbio.com/blogs/news/cytek-biosciences-opens-new-innovation-center-in-bellevue"
+published_at: "2026-07-15T21:10:57+00:00"
+first_seen_at: "2026-07-22T23:56:43.284609+00:00"
+fetched_at: "2026-07-28T21:21:05.434568+00:00"
+content_hash: "sha256:31f878b8899b574d9b2e7e981642742422b1724cceae71f1d8158ea44d2fd801"
+---
+
+# Cytek® Biosciences Opens New Innovation Center in Bellevue to Advance R&D and Customer Engagement
+
+**FREMONT, Calif., July 15, 2026**
+
+
+– Spectral flow cytometry leader
+
+
+[Cytek Biosciences, Inc.](https://cytekbio.com/)
+
+
+(Nasdaq: CTKB) today announced the opening of a new innovation center in Bellevue, Washington, marking the relocation of its previous Seattle-area operations to a dedicated facility designed to support research and development (R&D) while strengthening collaboration and customer engagement.
+
+
+The new site has been renovated to serve as a dedicated hub for innovation and technical excellence. As the sole tenant of the building, Cytek has designed the space to bring together key capabilities under one roof. The facility includes R&D laboratories and dedicated areas for instrument service training and customer demonstrations, along with assembly and testing operations.
+
+
+The Bellevue innovation center reflects Cytek’s strategic investment in an environment that fosters collaboration and accelerates product development. It is designed to enable R&D teams to develop the next generation of technologies. Located in a region known for its concentration of global technology companies, the facility positions Cytek within a dynamic ecosystem that supports ongoing scientific advancements.
+
+
+In addition to its core technical functions, the site incorporates employee-focused amenities and collaborative workspaces intended to encourage creativity, idea exchange, and cross-functional teamwork. The design supports Cytek’s vision of creating an environment where teams can develop and refine new solutions that address evolving needs in research and clinical applications.
+
+
+“ The Bellevue innovation center represents an important step in strengthening our ability to develop and deliver new technologies,” said Wenbin Jiang, Ph.D., CEO of Cytek Biosciences. “It highlights our commitment to building the infrastructure needed to advance scientific discovery and enable meaningful innovation.”
+
+
+The opening of the Bellevue facility underscores Cytek’s continued investment in infrastructure that supports its long-term growth and reinforces its efforts to advance high-dimensional cell analysis through innovation, training, and customer support.
+
+
+For more information, please visit
+
+
+[https://cytekbio.com/](https://cytekbio.com/)
+
+
+.
+
+
+**About Cytek Biosciences, Inc.**
+
+
+Cytek Biosciences (Nasdaq: CTKB) is a leading cell analysis solutions company advancing the next generation of cell analysis tools by delivering high-resolution, high-content and high-sensitivity cell analysis utilizing its patented Full Spectrum Profiling™ (FSP
+
+
+®
+
+
+) technology. Cytek’s novel approach harnesses the power of information within the entire spectrum of a fluorescent signal to achieve a higher level of multiplexing with precision and sensitivity. Cytek’s platform includes: its core FSP instruments, the Cytek Aurora™, Northern Lights™, Cytek Aurora™ CS and Cytek Aurora™ Evo systems; the Muse
+
+
+®
+
+
+Micro system; the Cytek Orion™ reagent cocktail preparation system; the Enhanced Small Particle™ (ESP™) detection technology; the flow cytometers and imaging products under the Amnis
+
+
+®
+
+
+and Guava
+
+
+®
+
+
+brands; and reagents, software and services to provide a comprehensive and integrated suite of solutions for its customers. Cytek is headquartered in Fremont, California with offices and distribution channels across the globe. More information about the company and its products is available at
+
+
+[www.cytekbio.com](http://www.cytekbio.com/)
+
+
+.
+
+
+Cytek’s products are for research use only and not for use in diagnostic procedures (other than Cytek’s Northern Lights-CLC system and certain reagents, which are available for clinical use only in China and the European Union).
+
+
+Cytek, Full Spectrum Profiling, FSP, Cytek Aurora, Northern Lights, Enhanced Small Particle, ESP, Cytek Orion, Muse, Amnis and Guava are trademarks or registered trademarks of Cytek Biosciences, Inc.
+
+
+In addition to filings with the Securities and Exchange Commission (SEC), press releases, public conference calls and webcasts, Cytek uses its website (
+
+
+[www.cytekbio.com](http://www.cytekbio.com/)
+
+
+),
+
+
+[LinkedIn page](https://www.linkedin.com/company/cytek-biosciences/)
+
+
+and
+
+
+[X account](https://twitter.com/CytekBio)
+
+
+as channels of distribution of information about its company, products, planned financial and other announcements, attendance at upcoming investor and industry conferences and other matters. Such information may be deemed material information and Cytek may use these channels to comply with its disclosure obligations under Regulation FD. Therefore, investors should monitor Cytek’s website, LinkedIn page, and X account in addition to following its SEC filings, news releases, public conference calls and webcasts.
+
+
+**Forward-Looking Statements**
+
+
+****
+
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 as contained in Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections. All statements other than statements of historical facts are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms or expressions. These forward-looking statements include statements regarding Cytek’s manufacturing strategy and capacity, service and training capabilities, supply chain resilience and investments in infrastructure. These statements are based on management’s current expectations, forecasts, beliefs, assumptions and information currently available to management. These statements also deal with future events and involve known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements to be materially different from the information expressed or implied by these forward-looking statements. Factors that could cause actual results to differ materially include global geopolitical, economic and market conditions; Cytek’s ability to manage the impacts of recent and future export controls and licensing requirements, tariffs and NIH funding policies on its business; Cytek's ability to evaluate its prospects for future viability and predict future performance; Cytek’s ability to accurately forecast customer demand and adoption of its products; Cytek’s ability to recognize the anticipated benefits of collaborations; Cytek’s dependence on certain sole and single source suppliers; competition; market acceptance of Cytek’s current and potential products; Cytek’s ability to manage the growth and complexity of its organization, maintain relationships with customers and suppliers and hire and retain key employees; Cytek’s ability to manufacture its products in high-quality commercial quantities successfully and consistently to meet demand; Cytek’s ability to increase penetration in its existing markets and expand into adjacent markets; Cytek’s ability to secure additional distributors or maintain good relationships with its existing distributors; Cytek’s ability to successfully develop and introduce new products; Cytek’s ability to maintain, protect and enhance its intellectual property; Cytek’s ability to continue to stay in compliance with its material contractual obligations, applicable laws and regulations; and foreign currency exchange impacts. You should refer to the section entitled “Risk Factors” set forth in Cytek’s Annual Report on Form 10-K filed on February 26, 2026 with the SEC, and other filings Cytek makes with the SEC from time to time for a discussion of important factors that may cause actual results to differ materially from those expressed or implied by Cytek’s forward-looking statements. Although Cytek believes that the expectations reflected in the forward-looking statements are reasonable, it cannot provide any assurance that these expectations will prove to be correct nor can it guarantee that the events and circumstances reflected in the forward-looking statements will occur. The forward-looking statements in this press release are based on information available to Cytek as of the date hereof, and Cytek disclaims any obligation to update any forward-looking statements provided to reflect any change in its expectations or any change in events, conditions, or circumstances on which any such statement is based, except as required by law. These forward-looking statements should not be relied upon as representing Cytek’s views as of any date subsequent to the date of this press release.
+
+
+**Media Contact:**
+Stephanie Olsen
+Lages & Associates
+(949) 453-8080
+stephanie@lages.com
+
+
+**Investor Contact:**
+Paul Goodson
+Head of Investor Relations
+Cytek Biosciences
+pgoodson@cytekbio.com
+
+
+# # #

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "94f9925da6ba3dbb2549feb2a6829b636e4602a907e7de2311580e73fcafc5af",
+  "company": {
+    "key": "yc-authologic",
+    "name": "Authologic"
+  },
+  "source": {
+    "id": "yc-authologic-news-import-90df22b47317",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://authologic.com/blog/simplest-eudi-wallet-implementation",
+    "canonical": "https://authologic.com/blog/simplest-eudi-wallet-implementation"
+  },
+  "title": "The simplest way to implement the EUDI Wallet is the one you don't rebuild later",
+  "summary": "The simplest EUDI Wallet implementation is the one you don't rebuild: one orchestration layer for all 27 national wallets, with fallback built in.",
+  "published_at": "2026-07-23T16:36:52.749+00:00",
+  "first_seen_at": "2026-07-23T20:46:04.483878+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-08-20T02:19:38.050092+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-authologic/2026/07/94/94f9925da6ba3dbb2549feb2a6829b636e4602a907e7de2311580e73fcafc5af/article.md",
+    "record": "articles/v1/bd/yc-authologic/2026/07/94/94f9925da6ba3dbb2549feb2a6829b636e4602a907e7de2311580e73fcafc5af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1449,
+    "sha256": "sha256:b92d7ca62d809cd33ffe313d179c5b4c5bd3752fbf8a08a616b69fb6743ec1e0",
+    "normalized_content_hash": "sha256:4f277a7032caa300de4c7b06db455e73200694434b4ed17466967bfa7f611e98"
+  },
+  "provenance": {
+    "source_item_id": "781b3894-274a-47b9-a422-a278fa7578dc",
+    "external_id": "https://authologic.com/blog/simplest-eudi-wallet-implementation"
+  }
+}

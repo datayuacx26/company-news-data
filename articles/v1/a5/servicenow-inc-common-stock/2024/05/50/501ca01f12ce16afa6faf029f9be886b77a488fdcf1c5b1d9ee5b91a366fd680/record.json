@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "501ca01f12ce16afa6faf029f9be886b77a488fdcf1c5b1d9ee5b91a366fd680",
+  "company": {
+    "key": "servicenow-inc-common-stock",
+    "name": "ServiceNow Inc."
+  },
+  "source": {
+    "id": "servicenow-inc-common-stock-rss-e68ea5e3c60f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-record-producers-using-rrp-variables-in/ba-p/2941470",
+    "canonical": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-record-producers-using-rrp-variables-in/ba-p/2941470"
+  },
+  "title": "Service Bridge - Remote Record Producers - Using RRP variables in your flows",
+  "summary": "One of the powerful outcomes of using Remote Record Producers (RRP) with Service Bridge, is that once a consumer submits an RRP, you will collect structured data that can be used to automate your workflows on your Provider instance. When configuring a Remote Record Producer, a subflow is linked to d...",
+  "published_at": "2024-05-23T15:51:09+00:00",
+  "first_seen_at": "2026-07-20T04:36:33.238428+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-20T00:29:45.889683+00:00",
+  "paths": {
+    "article": "articles/v1/a5/servicenow-inc-common-stock/2024/05/50/501ca01f12ce16afa6faf029f9be886b77a488fdcf1c5b1d9ee5b91a366fd680/article.md",
+    "record": "articles/v1/a5/servicenow-inc-common-stock/2024/05/50/501ca01f12ce16afa6faf029f9be886b77a488fdcf1c5b1d9ee5b91a366fd680/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2833,
+    "sha256": "sha256:720fe3f3d7fa386dd2e110154a0a4ba9774497c960fe449df1d8cef2bf8b0639",
+    "normalized_content_hash": "sha256:4532aee108328c00b8e544c3b150083366bce1ad6c1b4c6972f2a3041fc4f6ec"
+  },
+  "provenance": {
+    "source_item_id": "df02b9c6-13e1-4f4d-acad-825f5abbb941",
+    "external_id": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-record-producers-using-rrp-variables-in/ba-p/2941470"
+  }
+}

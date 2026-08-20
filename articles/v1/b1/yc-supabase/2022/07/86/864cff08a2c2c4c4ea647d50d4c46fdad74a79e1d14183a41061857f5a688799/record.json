@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "864cff08a2c2c4c4ea647d50d4c46fdad74a79e1d14183a41061857f5a688799",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/seen-by-in-postgresql",
+    "canonical": "https://supabase.com/blog/seen-by-in-postgresql"
+  },
+  "title": "Implementing \"seen by\" functionality with Postgres",
+  "summary": "Different approaches for tracking visitor counts with PostgreSQL.",
+  "published_at": "2022-07-18T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2022/07/86/864cff08a2c2c4c4ea647d50d4c46fdad74a79e1d14183a41061857f5a688799/article.md",
+    "record": "articles/v1/b1/yc-supabase/2022/07/86/864cff08a2c2c4c4ea647d50d4c46fdad74a79e1d14183a41061857f5a688799/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33110,
+    "sha256": "sha256:f4b923b02017b823bf763dce15cef3a8d0c140353d5e46c4f5ed843f650f45ea",
+    "normalized_content_hash": "sha256:782f85667337d8378ef40281b5d3d9fb57e70791df994f7178629160bd2405cc"
+  },
+  "provenance": {
+    "source_item_id": "c348d43f-6b4f-4e4c-b675-0b4741811da7",
+    "external_id": "https://supabase.com/blog/seen-by-in-postgresql"
+  }
+}

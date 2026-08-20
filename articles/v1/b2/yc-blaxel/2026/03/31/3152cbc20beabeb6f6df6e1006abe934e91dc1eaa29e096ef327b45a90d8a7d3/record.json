@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3152cbc20beabeb6f6df6e1006abe934e91dc1eaa29e096ef327b45a90d8a7d3",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/trusted-execution-environment",
+    "canonical": "https://blaxel.ai/blog/trusted-execution-environment"
+  },
+  "title": "What is a trusted execution environment? Secure infrastructure for AI agents",
+  "summary": "TEEs protect AI agent data during active computation — a gap encryption at rest and in transit can't close. Covers how TEEs work and where they fit.",
+  "published_at": "2026-03-30T07:39:25+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T22:19:09.568001+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/03/31/3152cbc20beabeb6f6df6e1006abe934e91dc1eaa29e096ef327b45a90d8a7d3/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/03/31/3152cbc20beabeb6f6df6e1006abe934e91dc1eaa29e096ef327b45a90d8a7d3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19992,
+    "sha256": "sha256:c73f2adb23f4424c2a2e11c29992e9ad192bf1a7fd14556f06989060423d3aa6",
+    "normalized_content_hash": "sha256:77c4cdb86aef465c144570df4e4d0034cc83be85f3f43baaa015874083abeb95"
+  },
+  "provenance": {
+    "source_item_id": "fd1850f9-731c-4413-a900-34535013c64f",
+    "external_id": "https://blaxel.ai/blog/trusted-execution-environment"
+  }
+}

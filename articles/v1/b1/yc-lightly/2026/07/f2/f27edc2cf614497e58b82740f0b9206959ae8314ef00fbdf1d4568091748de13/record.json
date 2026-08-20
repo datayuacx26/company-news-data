@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f27edc2cf614497e58b82740f0b9206959ae8314ef00fbdf1d4568091748de13",
+  "company": {
+    "key": "yc-lightly",
+    "name": "Lightly"
+  },
+  "source": {
+    "id": "yc-lightly-news-import-b9754ffe9935",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lightly.ai/blog/nvidia-b200-vs-h100",
+    "canonical": "https://lightly.ai/blog/nvidia-b200-vs-h100"
+  },
+  "title": "NVIDIA Blackwell B200 vs H100: Real-World Benchmarks, Costs, and Why We Self-Host",
+  "summary": "The B200 is up to 57% faster for model training than the H100, up to 10x cheaper to run when self-hosted, and we’ve broken down all the costs, performance metrics, and power consumption data inside.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T02:26:12.148445+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T17:27:18.778367+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-lightly/2026/07/f2/f27edc2cf614497e58b82740f0b9206959ae8314ef00fbdf1d4568091748de13/article.md",
+    "record": "articles/v1/b1/yc-lightly/2026/07/f2/f27edc2cf614497e58b82740f0b9206959ae8314ef00fbdf1d4568091748de13/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12999,
+    "sha256": "sha256:2c2d0c65a446861f2b0855fbd72024aa56d44070519abc254d75915f3d6cea84",
+    "normalized_content_hash": "sha256:85fa0f90db7dc6acfe0c2900ec79ee816aad268ee71ec323ee51f90c31a9cf0d"
+  },
+  "provenance": {
+    "source_item_id": "8ae51967-6a6a-4321-b150-7504da8e03b5",
+    "external_id": "https://lightly.ai/blog/nvidia-b200-vs-h100"
+  }
+}

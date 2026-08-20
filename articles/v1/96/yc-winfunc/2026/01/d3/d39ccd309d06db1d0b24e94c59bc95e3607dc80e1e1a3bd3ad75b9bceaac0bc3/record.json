@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d39ccd309d06db1d0b24e94c59bc95e3607dc80e1e1a3bd3ad75b9bceaac0bc3",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-3108",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-3108"
+  },
+  "title": "mmctl terminal escape injection via unsanitized server-controlled output (CVE-2026-3108)",
+  "summary": "Mattermost's mmctl plain-text output path accumulated values from API responses and templates in printer.Lines, then wrote each line directly to stdout…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/d3/d39ccd309d06db1d0b24e94c59bc95e3607dc80e1e1a3bd3ad75b9bceaac0bc3/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/d3/d39ccd309d06db1d0b24e94c59bc95e3607dc80e1e1a3bd3ad75b9bceaac0bc3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7597,
+    "sha256": "sha256:7e35acda19faa9801e6cf0df8ac307963477e3be872491f3bfeba5143cbe6e52",
+    "normalized_content_hash": "sha256:5bf2a5c3202c408a72240e9f20cbfff0feaea290b9acae14da3e6b7c4ad5ded7"
+  },
+  "provenance": {
+    "source_item_id": "a5948038-9a3a-42ff-b816-4d76c72a3ac5",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-3108"
+  }
+}

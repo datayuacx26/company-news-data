@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-persana-ai",
+    "name": "Persana AI"
+  },
+  "record_count": 20,
+  "first_published_at": "2025-03-20T00:00:00+00:00",
+  "last_published_at": "2025-03-20T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9d/yc-persana-ai/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 19958,
+        "sha256": "sha256:bdefcd94211d9e9534e1dc5f0aaed6d807dbdb81bcf6fbc56099bbedb69549c2",
+        "newest_at": "2026-07-28T22:07:07.393518+00:00",
+        "oldest_at": "2025-03-20T00:00:00+00:00"
+      }
+    ]
+  }
+}

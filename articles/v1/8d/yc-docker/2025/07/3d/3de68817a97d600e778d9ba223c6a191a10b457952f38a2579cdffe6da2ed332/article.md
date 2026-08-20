@@ -1,0 +1,67 @@
+---
+schema_version: "1.0.0"
+document_id: "3de68817a97d600e778d9ba223c6a191a10b457952f38a2579cdffe6da2ed332"
+company_key: "yc-docker"
+company: "Docker"
+source_id: "yc-docker-news-import-e250f7226063"
+canonical_url: "https://www.docker.com/press-release/wearedevelopers-bring-worlds-largest-developer-event-to-north-america-in-2026/"
+published_at: "2025-07-10T19:00:14+00:00"
+first_seen_at: "2026-07-25T01:48:04.001658+00:00"
+fetched_at: "2026-07-28T22:01:03.825556+00:00"
+content_hash: "sha256:6355f0864fb9610036e0b0550d60e459780e3719216194f63c4ef083c1032b72"
+---
+
+# Docker and WeAreDevelopers Bring World’s Largest Developer Event to North America in 2026
+
+Press Release
+
+
+# **Docker and WeAreDevelopers Bring World’s Largest Developer Event to North America in 2026**
+
+
+**First North American edition brings WeAreDevelopers’ festival-style energy, world-class speakers, and real talk for real devs**
+
+
+**BERLIN – 10 July 2025 –**[Docker, Inc.®](https://www.docker.com/) , a provider of cloud-native application and AI-native application development solutions and infrastructure, and[WeAreDevelopers](https://www.wearedevelopers.com/) , Europe’s leading community for developers, today announced a strategic partnership to co-host and launch *WeAreDevelopers World Congress: North America,* which is expected to be the continent’s largest developer-only event.
+
+
+To be held in September 2026, this will be the first time WeAreDevelopers brings its wildly popular format across the Atlantic. Part tech conference, part high-energy festival, the event is designed for developers of all stripes, from AI engineers and open source contributors to backend devs and cloud-native builders. No hype. Just real tools, real stories, and real people building the future.
+
+
+The event also signals a new era for Docker, blending its long tradition of engaging and community-driven developer events with WeAreDevelopers’ festival-like energy to create an experience that’s bigger, bolder, and more globally connected.
+
+
+“Developers are the heart of innovation,” said Don Johnson, CEO of Docker. “We’re thrilled to join forces with WeAreDevelopers to bring this global experience to North America. This event will celebrate the energy, creativity, and ambition that make this community so powerful.”
+
+
+WeAreDevelopers is recognized as Europe’s leading developer community, reaching over 2 million tech professionals through its platform. The organization is dedicated to supporting the professional and personal growth of developers by delivering valuable content, career opportunities, and outstanding events throughout the year. Among these events, the WeAreDevelopers World Congress has become a flagship gathering, attracting more than 15,000 attendees and 500 speakers, including tech legends like Steve Wozniak, Tim Berners-Lee, Amanda Silver, Joel Spolsky, and Cassie Kozyrkov, alongside rising stars and hands-on practitioners solving real-world engineering challenges.
+
+
+The decision to bring WeAreDevelopers World Congress to North America for the first time reflects a shared commitment to the future of software and the people building it. As co-host and presenting partner, Docker joins forces with WeAreDevelopers to deliver something developers have been asking for: the return of a truly immersive, community-driven event in North America. This moment is about more than scale. It’s about bringing the magic of WeAreDevelopers’ global conference to a new continent, and reigniting the spirit of DockerCon for a new era. With developers leading the charge into AI, cloud-native platforms, and open source innovation, this event will serve as a high-energy home for builders of all kinds, a space to connect, explore, and shape what comes next.
+
+
+“We’re excited to bring our signature format to North America—with big-name speakers, live coding, and the kind of hallway conversations that spark real innovation,” said Sead Ahmetović, CEO and co-founder of WeAreDevelopers. “Together with Docker, we’re building the most inclusive, high-impact developer event in the U.S.”
+
+
+The announcement was made live at *WeAreDevelopers World Congress* in Berlin—first during an exclusive VIP event and then on the main stage just ahead of the European Coding Championships.
+
+
+More details, including registration and speaker line-up, will be released in early 2026.
+
+
+**About WeAreDevelopers**
+
+
+[WeAreDevelopers](https://www.wearedevelopers.com/) runs a global platform for software and AI expertise – connecting developers with the skills, knowledge, and opportunities they need to grow. Through high-quality content, tailored career offerings, and world-class events, WeAreDevelopers supports the continuous development of tech talent and fosters a community of professionals who are shaping the future of the industry. The company gained global recognition as the host of the WeAreDevelopers World Congress, the world’s largest annual event for developers – bringing together over 15,000 participants and 500 speakers to share insights, exchange ideas, and explore the latest trends in technology. The international developer community gathers here alongside leading voices such as Steve Wozniak, Sir Tim Berners-Lee, Joel Spolsky, Amanda Silver, Cassie Kozyrkov, Garry Kasparov, Thomas Dohmke, Stormy Peters, and many more icons of the tech world. Learn more about WeAreDevelopers at[www.wearedevelopers.com](http://www.wearedevelopers.com/) .
+
+
+**About Docker**
+
+
+Docker drives modern software development by making it easy to adopt container technology to radically boost productivity, security, testing, and collaboration at every step of the developer experience. Embraced by over 20 million developers worldwide, Docker’s unmatched flexibility and choice make it the preferred tool for developers seeking efficiency and innovation for creating modern applications. Learn more about Docker at[www.docker.com](http://www.docker.com/) .
+
+
+**Contact** David Oro
+
+
+press@docker.com

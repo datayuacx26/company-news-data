@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8917c60e53a6e689b55dd8da50dbe04ef6b70bbd116fe12d9e8c84543d674bf",
+  "company": {
+    "key": "yc-casco",
+    "name": "Casco"
+  },
+  "source": {
+    "id": "yc-casco-news-import-3e4503ef629e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://casco.com/blog/mcp-tool-poisoning",
+    "canonical": "https://casco.com/blog/mcp-tool-poisoning"
+  },
+  "title": "Understanding MCP Security: Tool Poisoning",
+  "summary": "Why unverified MCPs can be a major vulnerability",
+  "published_at": "2025-07-03T20:26:00+00:00",
+  "first_seen_at": "2026-07-21T12:40:29.812234+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-07-29T07:59:37.981896+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-casco/2025/07/e8/e8917c60e53a6e689b55dd8da50dbe04ef6b70bbd116fe12d9e8c84543d674bf/article.md",
+    "record": "articles/v1/a1/yc-casco/2025/07/e8/e8917c60e53a6e689b55dd8da50dbe04ef6b70bbd116fe12d9e8c84543d674bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5076,
+    "sha256": "sha256:de5bde1803d7b79caed906439bd60ae3c0a3258a2d9ec74b730f1f5566ef7371",
+    "normalized_content_hash": "sha256:c654fce6e1ee9fc2f82b293a480e23cb0b7fea00172ab8f12f0d1329bb17502c"
+  },
+  "provenance": {
+    "source_item_id": "2a4876eb-7a0a-44b2-921e-33e280c41013",
+    "external_id": "https://casco.com/blog/mcp-tool-poisoning"
+  }
+}

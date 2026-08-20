@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8001df015645b8313891ea12624b2b210330b1ab6309a8193c72d10c26107bb",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/lloyds-and-stripe",
+    "canonical": "https://stripe.com/newsroom/news/lloyds-and-stripe"
+  },
+  "title": "Stripe powers Lloyds' new suite of payment tools for UK small businesses",
+  "summary": "Stripe today announced a major partnership with Lloyds, the UK’s largest digital bank.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:06:01.421437+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-20T02:16:33.048642+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/f8/f8001df015645b8313891ea12624b2b210330b1ab6309a8193c72d10c26107bb/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/f8/f8001df015645b8313891ea12624b2b210330b1ab6309a8193c72d10c26107bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1991,
+    "sha256": "sha256:51a65c5e88627b2efd4db5085597c8a93ab22b40103bca250e4e2cda0a484072",
+    "normalized_content_hash": "sha256:99c993986c46ed18ecd4e20435ff9540b6d5604ccc231257deb304d5e1cc6358"
+  },
+  "provenance": {
+    "source_item_id": "5566bae6-6fc6-4e5a-8f56-10707c8272cf",
+    "external_id": "https://stripe.com/newsroom/news/lloyds-and-stripe"
+  }
+}

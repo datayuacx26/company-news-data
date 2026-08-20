@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a549a15f1a2fa1f64531095c092037d5658d09eed522c9ea2ffb6fe026fb289",
+  "company": {
+    "key": "yc-parea",
+    "name": "Parea"
+  },
+  "source": {
+    "id": "yc-parea-news-import-2baa56c7e8be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.parea.ai/blog/identify-unreliable-llm-app-inputs-of-production-traffic",
+    "canonical": "https://docs.parea.ai/blog/identify-unreliable-llm-app-inputs-of-production-traffic"
+  },
+  "title": "How to detect unreliable behavior of LLM apps",
+  "summary": "LLM logs are useful but it's hard to prioritize which production log to review. High entropy responses are a good starting point.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T08:15:23.356185+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:25:47.393099+00:00",
+  "paths": {
+    "article": "articles/v1/b3/yc-parea/2026/07/1a/1a549a15f1a2fa1f64531095c092037d5658d09eed522c9ea2ffb6fe026fb289/article.md",
+    "record": "articles/v1/b3/yc-parea/2026/07/1a/1a549a15f1a2fa1f64531095c092037d5658d09eed522c9ea2ffb6fe026fb289/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6155,
+    "sha256": "sha256:5517d877dfc1655a35ea4e30d3380c5fe7f27a5cd71e79a8552539cebc9348d6",
+    "normalized_content_hash": "sha256:d0ca6d99f6caa3b9523ba8e7fa7973d518e68d7721c70a3d83c7d572aa4c511f"
+  },
+  "provenance": {
+    "source_item_id": "93da03d9-580f-4cf4-8fb0-55ab89f04a6e",
+    "external_id": "https://docs.parea.ai/blog/identify-unreliable-llm-app-inputs-of-production-traffic"
+  }
+}

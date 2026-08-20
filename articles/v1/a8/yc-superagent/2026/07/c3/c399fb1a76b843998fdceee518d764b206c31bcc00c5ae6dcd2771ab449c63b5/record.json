@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c399fb1a76b843998fdceee518d764b206c31bcc00c5ae6dcd2771ab449c63b5",
+  "company": {
+    "key": "yc-superagent",
+    "name": "Superagent"
+  },
+  "source": {
+    "id": "yc-superagent-news-import-3c33ed06ece7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.superagent.sh/blog/when-terminal-output-owns-your-clipboard-osc-52-in-warp",
+    "canonical": "https://www.superagent.sh/blog/when-terminal-output-owns-your-clipboard-osc-52-in-warp"
+  },
+  "title": "When Terminal Output Owns Your Clipboard: OSC 52 in Warp",
+  "summary": "Affected Warp builds honored OSC 52 clipboard sequences from terminal output, allowing silent clipboard reads and writes. How CVE-2026-48725 worked.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:47:34.464363+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-19T23:41:00.202139+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-superagent/2026/07/c3/c399fb1a76b843998fdceee518d764b206c31bcc00c5ae6dcd2771ab449c63b5/article.md",
+    "record": "articles/v1/a8/yc-superagent/2026/07/c3/c399fb1a76b843998fdceee518d764b206c31bcc00c5ae6dcd2771ab449c63b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4422,
+    "sha256": "sha256:e7e1e40494dfe1bbfc5a1602014b9ebf7b1a6a08c10e0a353e2e1078165e8ac3",
+    "normalized_content_hash": "sha256:c7d73a00ed74c4668719b0f96c304b439735d8f9e840d96ee12db888643a1c54"
+  },
+  "provenance": {
+    "source_item_id": "eb78dac2-5a34-460d-8017-6ff1db6e6a98",
+    "external_id": "https://www.superagent.sh/blog/when-terminal-output-owns-your-clipboard-osc-52-in-warp"
+  }
+}

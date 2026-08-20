@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d23ca8ae0c926e952f16e7f4f5f4c1bed8ace9a71beb5565111ef5bae0437e9",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/building-with-agents-stripe-projects",
+    "canonical": "https://stripe.dev/blog/building-with-agents-stripe-projects"
+  },
+  "title": "From init to deploy: building with agents and Stripe Projects",
+  "summary": "Stripe Projects makes it easy to spin up a useful, complex application that uses various SaaS providers. This post describes how one of our developer advocates built an internal transcript editing application using Stripe Projects, Vercel, and OpenRouter.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/04/8d/8d23ca8ae0c926e952f16e7f4f5f4c1bed8ace9a71beb5565111ef5bae0437e9/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/04/8d/8d23ca8ae0c926e952f16e7f4f5f4c1bed8ace9a71beb5565111ef5bae0437e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3872,
+    "sha256": "sha256:e14f8bd8dda076e19f2051c8f02d59e512c403982c4c8df10f8ef08db5fe3434",
+    "normalized_content_hash": "sha256:8c609b7c2658b6140bf1ab9e7bac1c7e94e7bb230a65a7f34f8acd2d4fa48bd0"
+  },
+  "provenance": {
+    "source_item_id": "b2bbd884-5505-40d8-b55d-651602369745",
+    "external_id": "https://stripe.dev/blog/building-with-agents-stripe-projects"
+  }
+}

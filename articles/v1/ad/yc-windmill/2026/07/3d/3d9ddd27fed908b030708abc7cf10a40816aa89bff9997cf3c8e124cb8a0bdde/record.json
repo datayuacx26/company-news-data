@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d9ddd27fed908b030708abc7cf10a40816aa89bff9997cf3c8e124cb8a0bdde",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/bigquery-snowflake-in-community-edition",
+    "canonical": "https://www.windmill.dev/changelog/bigquery-snowflake-in-community-edition"
+  },
+  "title": "BigQuery and Snowflake available in the community edition",
+  "summary": "The BigQuery and Snowflake script languages are no longer gated behind an Enterprise license. Both are now selectable in the script editor, the flow step picker and the app inline script picker on every edition, including self-hosted community instances, and both executors ship in the standard community builds. Oracle DB and MS SQL remain Enterprise-only runtimes.",
+  "published_at": "2026-07-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T10:27:53.432388+00:00",
+  "fetched_at": "2026-07-28T20:32:33.872616+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/3d/3d9ddd27fed908b030708abc7cf10a40816aa89bff9997cf3c8e124cb8a0bdde/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/3d/3d9ddd27fed908b030708abc7cf10a40816aa89bff9997cf3c8e124cb8a0bdde/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1736,
+    "sha256": "sha256:0938eaeb782b5e6b15e866fe8c50a855dba3a4c40d7b8c79e8044a5cb7353c8c",
+    "normalized_content_hash": "sha256:f1dbb0fad920e659340b38eee03c3cecd3350989a890be673352ce4d8595fdd8"
+  },
+  "provenance": {
+    "source_item_id": "aa181ff1-ef69-47e6-99f6-8f3fb48ab50b",
+    "external_id": "https://www.windmill.dev/changelog/bigquery-snowflake-in-community-edition"
+  }
+}

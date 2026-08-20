@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64c05a37f1eebf00be532df6dbfa91ca93b035c60c1763e7c6b292431d92bcc8",
+  "company": {
+    "key": "yc-momentic",
+    "name": "Momentic"
+  },
+  "source": {
+    "id": "yc-momentic-news-import-348aec23cbaf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://momentic.ai/blog/claude-is-for-code-not-for-testing",
+    "canonical": "https://momentic.ai/blog/claude-is-for-code-not-for-testing"
+  },
+  "title": "Claude is For Code, Not For Testing",
+  "summary": "Claude Code speeds up test creation, but it can’t manage sessions, detect flaky tests, or analyze failures. Here’s why testing needs more than code generation.",
+  "published_at": "2025-10-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:45:46.439360+00:00",
+  "fetched_at": "2026-08-19T18:58:31.052183+00:00",
+  "last_updated_at": "2026-08-19T18:58:33.250833+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-momentic/2025/10/64/64c05a37f1eebf00be532df6dbfa91ca93b035c60c1763e7c6b292431d92bcc8/article.md",
+    "record": "articles/v1/99/yc-momentic/2025/10/64/64c05a37f1eebf00be532df6dbfa91ca93b035c60c1763e7c6b292431d92bcc8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11593,
+    "sha256": "sha256:359e85eef0d35f895c3791a574231450b608cf88c2061e6c892a88293fc9d22b",
+    "normalized_content_hash": "sha256:b452b399c0ebd00dadf7bd0f0bc270bc5f5356cd33c6be2ccafdc92ebd16e171"
+  },
+  "provenance": {
+    "source_item_id": "ddb7363b-369d-4d0e-966d-252d182e8ba2",
+    "external_id": "https://momentic.ai/blog/claude-is-for-code-not-for-testing"
+  }
+}

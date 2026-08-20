@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccb8bdc3db9c9dc701193acdd7ddb8b01f7d370799b779313466546c5eadcace",
+  "company": {
+    "key": "dynatrace-inc-common-stock",
+    "name": "Dynatrace Inc."
+  },
+  "source": {
+    "id": "dynatrace-inc-common-stock-rss-2f172b160f47",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.dynatrace.com/news/blog/create-histogram-metrics-at-ingest-with-openpipeline/",
+    "canonical": "https://www.dynatrace.com/news/blog/create-histogram-metrics-at-ingest-with-openpipeline/"
+  },
+  "title": "Create histogram metrics at ingest with OpenPipeline",
+  "summary": "Extract histogram metrics from spans and logs with OpenPipeline to improve percentile analysis, SLOs, and reliability.",
+  "published_at": "2026-08-14T10:21:17+00:00",
+  "first_seen_at": "2026-08-14T11:50:02.253577+00:00",
+  "fetched_at": "2026-08-14T11:50:03.747054+00:00",
+  "last_updated_at": "2026-08-20T01:05:31.658059+00:00",
+  "paths": {
+    "article": "articles/v1/90/dynatrace-inc-common-stock/2026/08/cc/ccb8bdc3db9c9dc701193acdd7ddb8b01f7d370799b779313466546c5eadcace/article.md",
+    "record": "articles/v1/90/dynatrace-inc-common-stock/2026/08/cc/ccb8bdc3db9c9dc701193acdd7ddb8b01f7d370799b779313466546c5eadcace/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7866,
+    "sha256": "sha256:bb40cdec12b1372207bb53abe7bfe41c6d0ec1218b67d288c738e3b15235ca58",
+    "normalized_content_hash": "sha256:f3b36cc2825ad7eeef162130b345343a3ec2ce1bc500594483ea75f857c0df89"
+  },
+  "provenance": {
+    "source_item_id": "7418e885-c061-4014-bd36-c8e55cacc3ad",
+    "external_id": "https://www.dynatrace.com/news/?p=75098"
+  }
+}

@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "cde6dd632fa9ab5d3ab20ed245514aac369911080defbc260d6a0171ff2137b0"
+company_key: "new-york-times-company-the-common-stock"
+company: "New York Times Company (The)"
+source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
+canonical_url: "https://www.nytimes.com/2026/07/28/upshot/arbitration-medical-prices.html"
+published_at: "2026-07-28T17:07:57+00:00"
+first_seen_at: "2026-07-28T16:46:08.230306+00:00"
+fetched_at: "2026-07-28T19:31:05.894561+00:00"
+content_hash: "sha256:a7e8b11f01538614542b81ae38fee711edfd0c798f5947edd4883ac72cca738f"
+---
+
+# Do You Work in No Surprises Act Arbitration? Tell Us About It.
+
+New York Times reporters are looking into how government contractors resolve medical billing disputes.

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cytek-biosciences-inc-common-stock",
+    "name": "Cytek Biosciences Inc."
+  },
+  "record_count": 4,
+  "first_published_at": "2025-11-12T22:03:30+00:00",
+  "last_published_at": "2026-07-15T21:10:57+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b4/cytek-biosciences-inc-common-stock/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 43333,
+        "sha256": "sha256:a67405a49e3297e2a04c5a9b5bceafa24179f1c974485009e906bf5107c3c226",
+        "newest_at": "2026-07-15T21:10:57+00:00",
+        "oldest_at": "2025-11-12T22:03:30+00:00"
+      }
+    ]
+  }
+}

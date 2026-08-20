@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c25f1a58fe5c3ab13207a46abca4aae85a073829be03b37b74de4f2ed8a1eb2a",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations",
+    "canonical": "https://stripe.dev/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations"
+  },
+  "title": "How Stripe’s document databases supported 99.999% uptime with zero-downtime data migrations",
+  "summary": "In this blog post we’ll share an overview of Stripe’s database infrastructure and discuss the design and application of the Data Movement Platform.",
+  "published_at": "2024-06-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/06/c2/c25f1a58fe5c3ab13207a46abca4aae85a073829be03b37b74de4f2ed8a1eb2a/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/06/c2/c25f1a58fe5c3ab13207a46abca4aae85a073829be03b37b74de4f2ed8a1eb2a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3824,
+    "sha256": "sha256:2cfe89661bb8ed3b25b1b9fec867058c48edb1c90ab4fa8cd87cdbdfed3b5568",
+    "normalized_content_hash": "sha256:c2223ed6996bb7adb47bdb551507fe520fd141187c32eca23212af7b16a21f88"
+  },
+  "provenance": {
+    "source_item_id": "3bc082b2-57c5-415a-9e8f-4c3f503cc26e",
+    "external_id": "https://stripe.dev/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations"
+  }
+}

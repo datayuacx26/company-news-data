@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8aaaeb09f4254c1ddf156c044f0c5550432d723c4e2aef31cf6cd7d7812d0417",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/"
+  },
+  "title": "How we migrated our acceptance tests to use Synthetic Monitoring",
+  "summary": "How Datadog’s Frontend DevX team migrated a codebase from flaky, hard-to-maintain acceptance testing with Puppeteer to more robust Synthetic tests.",
+  "published_at": "2023-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2023/06/8a/8aaaeb09f4254c1ddf156c044f0c5550432d723c4e2aef31cf6cd7d7812d0417/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2023/06/8a/8aaaeb09f4254c1ddf156c044f0c5550432d723c4e2aef31cf6cd7d7812d0417/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9711,
+    "sha256": "sha256:a07260b18f034408f5334cfc53989296aeb0bee9dc3bf071e1cd4f15ece86719",
+    "normalized_content_hash": "sha256:1ddaf30d77193dfc0c7bfc50a1be5b118b68d5011efb9e96a81970ccf805a8fb"
+  },
+  "provenance": {
+    "source_item_id": "f9fcf6e7-28af-48cd-8a2a-49a6c2454e15",
+    "external_id": "https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/"
+  }
+}

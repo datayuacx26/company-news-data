@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c60dc4fb76b5b757ec6d18c1efa356e90e0e025688000930523c71ae71ede4de",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/5-things-to-know-about-context-engineering",
+    "canonical": "https://www.mezmo.com/blog/5-things-to-know-about-context-engineering"
+  },
+  "title": "5 Things to Know About Context Engineering",
+  "summary": "Context engineering helps SREs and AI agents reason over telemetry by designing structure, lineage, and intent into every signal for modern operations.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/c6/c60dc4fb76b5b757ec6d18c1efa356e90e0e025688000930523c71ae71ede4de/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/c6/c60dc4fb76b5b757ec6d18c1efa356e90e0e025688000930523c71ae71ede4de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3203,
+    "sha256": "sha256:6c08fbbac96b0e0197663c0ba010e72c0a39a6efaf58c9b29227e4768e14885d",
+    "normalized_content_hash": "sha256:5fc846d325586a9fb3c3f8769af5d41c9f6a1138e69ba284f109ddd39223390f"
+  },
+  "provenance": {
+    "source_item_id": "11f6b34c-f936-4f94-87b9-e3121286663e",
+    "external_id": "https://www.mezmo.com/blog/5-things-to-know-about-context-engineering"
+  }
+}

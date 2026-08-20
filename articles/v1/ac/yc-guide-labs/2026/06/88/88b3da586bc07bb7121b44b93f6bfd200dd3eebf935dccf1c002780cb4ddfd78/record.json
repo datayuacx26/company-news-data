@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88b3da586bc07bb7121b44b93f6bfd200dd3eebf935dccf1c002780cb4ddfd78",
+  "company": {
+    "key": "yc-guide-labs",
+    "name": "Guide Labs"
+  },
+  "source": {
+    "id": "yc-guide-labs-news-import-41fe5d9b8b28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.guidelabs.ai/post/dataloader-how-we-built/",
+    "canonical": "https://www.guidelabs.ai/post/dataloader-how-we-built/"
+  },
+  "title": "Making a Dataloader for Scale and Flexibility Without Compromises",
+  "summary": "Why and how we built a custom dataloader for training models at scale with concepts without compromises.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:19:32.933709+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T15:50:29.163183+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-guide-labs/2026/06/88/88b3da586bc07bb7121b44b93f6bfd200dd3eebf935dccf1c002780cb4ddfd78/article.md",
+    "record": "articles/v1/ac/yc-guide-labs/2026/06/88/88b3da586bc07bb7121b44b93f6bfd200dd3eebf935dccf1c002780cb4ddfd78/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 50984,
+    "sha256": "sha256:23d374017d1fee49a33bdc8187240e02376e495983896d51a839f766ce74e0ed",
+    "normalized_content_hash": "sha256:3a41dd6ed9240abc35ff53798ff6a2d267dcc8846a31defe7a4ad596747cd079"
+  },
+  "provenance": {
+    "source_item_id": "b09016bd-fbb8-4210-997d-d8227d90e1d0",
+    "external_id": "https://www.guidelabs.ai/post/dataloader-how-we-built/"
+  }
+}

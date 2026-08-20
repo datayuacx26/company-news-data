@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28fa465b816b519f01aea559654aa2c16a8769d7462b23e6ec335e7440bd6dec",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/introducing-etleap-s-sap-odata-connector",
+    "canonical": "https://etleap.com/blog/introducing-etleap-s-sap-odata-connector"
+  },
+  "title": "Introducing Etleap’s SAP OData Connector",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:08:49.604130+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T17:45:57.423913+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/28/28fa465b816b519f01aea559654aa2c16a8769d7462b23e6ec335e7440bd6dec/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/28/28fa465b816b519f01aea559654aa2c16a8769d7462b23e6ec335e7440bd6dec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2988,
+    "sha256": "sha256:aa08c09fd0b5ab8e242e7d839b2f27671a63dab846e7a935a61ef703f9b4cddc",
+    "normalized_content_hash": "sha256:27f737bdee141c30f6ad94186b8e8cd50615deef358656b494facc9ad26d7c86"
+  },
+  "provenance": {
+    "source_item_id": "832619f9-115d-45cf-ac83-fbd5ce5062e8",
+    "external_id": "https://etleap.com/blog/introducing-etleap-s-sap-odata-connector"
+  }
+}

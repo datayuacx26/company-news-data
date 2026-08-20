@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-airfordable",
+    "name": "Airfordable"
+  },
+  "record_count": 1,
+  "first_published_at": "2020-04-17T21:54:59+00:00",
+  "last_published_at": "2020-04-17T21:54:59+00:00",
+  "partitions": [
+    {
+      "partition": "2020-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8a/yc-airfordable/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1051,
+        "sha256": "sha256:ee42adfdc75f59fa6c1c178381b0f83e0bcd650889cd205ccfb86e4e1cab768b",
+        "newest_at": "2020-04-17T21:54:59+00:00",
+        "oldest_at": "2020-04-17T21:54:59+00:00"
+      }
+    ]
+  }
+}

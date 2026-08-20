@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ead539dfaaae1d684104a326e8a86cf15fd9ceb82281b1f855b43de1a8d3b297",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/cross-session-identity-resolution-in-agent-memory",
+    "canonical": "https://mem0.ai/blog/cross-session-identity-resolution-in-agent-memory"
+  },
+  "title": "Cross-Session Identity Resolution in Agent Memory",
+  "summary": "Cross-session identity resolution unifies persistent user identity for LLM agents, isolates users, and merges duplicate memory graphs. With runnable Mem0 code.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T18:30:59.228146+00:00",
+  "fetched_at": "2026-08-04T18:43:13.169222+00:00",
+  "last_updated_at": "2026-08-19T17:37:03.162806+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/08/ea/ead539dfaaae1d684104a326e8a86cf15fd9ceb82281b1f855b43de1a8d3b297/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/08/ea/ead539dfaaae1d684104a326e8a86cf15fd9ceb82281b1f855b43de1a8d3b297/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20714,
+    "sha256": "sha256:3c232fd17f1724c13c9ee2d65c3b017f8226f7b56eb33d127cbb660af798bd5d",
+    "normalized_content_hash": "sha256:152f9abcbb837bc099264666f69436bf27d42a00cbf86d5a0abb848bc86e0aa8"
+  },
+  "provenance": {
+    "source_item_id": "44557b0b-f702-488a-a709-bbb1f607518a",
+    "external_id": "https://mem0.ai/blog/cross-session-identity-resolution-in-agent-memory"
+  }
+}

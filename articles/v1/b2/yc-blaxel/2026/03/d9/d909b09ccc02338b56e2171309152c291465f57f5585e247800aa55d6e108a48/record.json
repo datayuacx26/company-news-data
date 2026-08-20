@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d909b09ccc02338b56e2171309152c291465f57f5585e247800aa55d6e108a48",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/what-is-llm-function-calling",
+    "canonical": "https://blaxel.ai/blog/what-is-llm-function-calling"
+  },
+  "title": "What is LLM function calling? How AI agents connect to external tools and APIs",
+  "summary": "LLM function calling lets agents generate structured JSON to invoke external tools instead of hallucinating data. Covers how it works and use cases.",
+  "published_at": "2026-03-20T22:24:40+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:53:13.933878+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/03/d9/d909b09ccc02338b56e2171309152c291465f57f5585e247800aa55d6e108a48/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/03/d9/d909b09ccc02338b56e2171309152c291465f57f5585e247800aa55d6e108a48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19767,
+    "sha256": "sha256:0c661559906b335a44e1423202febf12e85d87f3cd8dfc8e9fd404c35946a5ae",
+    "normalized_content_hash": "sha256:7aa88ce128203d3c94b8d47e3e711b627c09b15980a04f44de40c66aeba6758b"
+  },
+  "provenance": {
+    "source_item_id": "0a1dfdc8-fb3d-4367-aa71-22f9e7c1ba00",
+    "external_id": "https://blaxel.ai/blog/what-is-llm-function-calling"
+  }
+}

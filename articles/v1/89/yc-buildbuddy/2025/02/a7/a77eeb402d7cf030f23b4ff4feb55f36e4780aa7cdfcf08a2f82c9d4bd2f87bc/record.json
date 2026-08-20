@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a77eeb402d7cf030f23b4ff4feb55f36e4780aa7cdfcf08a2f82c9d4bd2f87bc",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-9eed3a34e5de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/blog/bisect-bazel",
+    "canonical": "https://www.buildbuddy.io/blog/bisect-bazel"
+  },
+  "title": "Troubleshooting Bazel with Git Bisect",
+  "summary": "A guide to using Git bisect to troubleshoot Bazel issues",
+  "published_at": "2025-02-18T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:54.250593+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T03:45:46.032492+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2025/02/a7/a77eeb402d7cf030f23b4ff4feb55f36e4780aa7cdfcf08a2f82c9d4bd2f87bc/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2025/02/a7/a77eeb402d7cf030f23b4ff4feb55f36e4780aa7cdfcf08a2f82c9d4bd2f87bc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22922,
+    "sha256": "sha256:64da433ef981f0869dbc573aa15c2b4d8e4f39cc25ae2e330a8fc6df9488c534",
+    "normalized_content_hash": "sha256:ea08804dfc06fb72c481b198545a68481e2e0a364f19a5fc2b53f555d363a1d9"
+  },
+  "provenance": {
+    "source_item_id": "41686797-a503-4e66-9156-2b8d446964f6",
+    "external_id": "https://www.buildbuddy.io/blog/bisect-bazel"
+  }
+}

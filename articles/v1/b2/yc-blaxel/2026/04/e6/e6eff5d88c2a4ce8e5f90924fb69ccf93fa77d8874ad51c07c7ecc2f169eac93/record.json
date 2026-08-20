@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6eff5d88c2a4ce8e5f90924fb69ccf93fa77d8874ad51c07c7ecc2f169eac93",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/serverless-vs-containers-vs-micro-vms-ai-agents",
+    "canonical": "https://blaxel.ai/blog/serverless-vs-containers-vs-micro-vms-ai-agents"
+  },
+  "title": "Serverless vs. containers: why micro-VMs fit code-executing AI agent workloads better",
+  "summary": "Compare serverless, containers, and micro-VMs for AI agents. See how cold starts, isolation, state, and cost differ across all three architectures.",
+  "published_at": "2026-04-20T11:38:01+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:52:31.063760+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/04/e6/e6eff5d88c2a4ce8e5f90924fb69ccf93fa77d8874ad51c07c7ecc2f169eac93/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/04/e6/e6eff5d88c2a4ce8e5f90924fb69ccf93fa77d8874ad51c07c7ecc2f169eac93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23338,
+    "sha256": "sha256:e6d7eaf19e7aef29da57d393218cd7ffcb7fa0733e5a7c87952839bf7a8699e5",
+    "normalized_content_hash": "sha256:54f091730b98329c7fabc0acf18665854e739a12057049f11be163c8517082df"
+  },
+  "provenance": {
+    "source_item_id": "d051db09-6648-4717-ab0e-97cd50171ead",
+    "external_id": "https://blaxel.ai/blog/serverless-vs-containers-vs-micro-vms-ai-agents"
+  }
+}

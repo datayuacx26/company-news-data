@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b13608b4e2a4857a6a2876d4bfb9e5b9dc5f738911f0e307d101dcfad0316479",
+  "company": {
+    "key": "yc-lago",
+    "name": "Lago"
+  },
+  "source": {
+    "id": "yc-lago-news-import-cc6c03d3f684",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlago.com/blog/events-based-billing",
+    "canonical": "https://getlago.com/blog/events-based-billing"
+  },
+  "title": "Event-Based Billing Explained: Examples & How to Build It",
+  "summary": "Event-based billing charges customers for actual usage, not flat fees. See how it works, real examples (Stripe, OpenAI), and a step-by-step guide to building it",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T15:44:22.920553+00:00",
+  "fetched_at": "2026-08-10T15:44:23.925845+00:00",
+  "last_updated_at": "2026-08-18T00:50:24.007165+00:00",
+  "paths": {
+    "article": "articles/v1/bf/yc-lago/2026/08/b1/b13608b4e2a4857a6a2876d4bfb9e5b9dc5f738911f0e307d101dcfad0316479/article.md",
+    "record": "articles/v1/bf/yc-lago/2026/08/b1/b13608b4e2a4857a6a2876d4bfb9e5b9dc5f738911f0e307d101dcfad0316479/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8293,
+    "sha256": "sha256:9ae6be927ee06b5b79882ab57ff22037bb09c2fb4db963e3f8f7bf371a20f53c",
+    "normalized_content_hash": "sha256:eeb6d5ef34a63a2b23e50fe4ffabc98af856521d94bcefe9b67369ded0a12aff"
+  },
+  "provenance": {
+    "source_item_id": "f47d51da-23ee-469c-a738-5a9fc5ffaccd",
+    "external_id": "https://getlago.com/blog/events-based-billing"
+  }
+}

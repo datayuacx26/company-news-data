@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "4933752fda1df98793f836d60c73f65b280d6aeb01347be88a6ae4587c2acf8c"
+company_key: "canadian-imperial-bank-of-commerce-common-stock"
+company: "Canadian Imperial Bank of Commerce"
+source_id: "canadian-imperial-bank-of-commerce-common-stock-rss-f16511a0d6fe"
+canonical_url: "https://cibc.mediaroom.com/2026-07-24-CIBC-Announces-Canadian-Depositary-Receipts-Identifier-Changes"
+published_at: "2026-07-24T13:00:00+00:00"
+first_seen_at: "2026-07-24T13:28:38.065821+00:00"
+fetched_at: "2026-07-24T18:24:35.561191+00:00"
+content_hash: "sha256:274dfd56fe314e4af240b5d3155f84fff7ab3a8c5f2e2fafb9479723a0ad9c92"
+---
+
+# CIBC Announces Canadian Depositary Receipts Identifier Changes
+
+

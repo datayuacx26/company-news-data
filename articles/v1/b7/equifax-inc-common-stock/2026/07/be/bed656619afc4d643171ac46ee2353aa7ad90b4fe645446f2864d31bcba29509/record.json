@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bed656619afc4d643171ac46ee2353aa7ad90b4fe645446f2864d31bcba29509",
+  "company": {
+    "key": "equifax-inc-common-stock",
+    "name": "Equifax Inc."
+  },
+  "source": {
+    "id": "equifax-inc-common-stock-news-import-59bd2d823a3c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.equifax.com/newsroom/all-news/-/story/may-2026-u-s-national-consumer-credit-trends-report/",
+    "canonical": "https://www.equifax.com/newsroom/all-news/-/story/may-2026-u-s-national-consumer-credit-trends-report/"
+  },
+  "title": "May 2026 U.S. National Consumer Credit Trends Report",
+  "summary": "Highlights: As of May 2026, total U.S. consumer debt climbed to $18.23 trillion — a 2.4% year-over-year increase — with mortgage debt accounting for the vast majority",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T08:51:14.656788+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-04T04:59:40.604813+00:00",
+  "paths": {
+    "article": "articles/v1/b7/equifax-inc-common-stock/2026/07/be/bed656619afc4d643171ac46ee2353aa7ad90b4fe645446f2864d31bcba29509/article.md",
+    "record": "articles/v1/b7/equifax-inc-common-stock/2026/07/be/bed656619afc4d643171ac46ee2353aa7ad90b4fe645446f2864d31bcba29509/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5248,
+    "sha256": "sha256:6d551132cee11de45e6e60bb9647484a993885cb6ce3f764eae874687cb72f11",
+    "normalized_content_hash": "sha256:a0cf7a3ac90ae664fd5a9abe5f0a11692265db3099abe93c50402699d2c40751"
+  },
+  "provenance": {
+    "source_item_id": "2d60b9e4-6501-423d-9a5e-8be4bbcee15f",
+    "external_id": "https://www.equifax.com/newsroom/all-news/-/story/may-2026-u-s-national-consumer-credit-trends-report/"
+  }
+}

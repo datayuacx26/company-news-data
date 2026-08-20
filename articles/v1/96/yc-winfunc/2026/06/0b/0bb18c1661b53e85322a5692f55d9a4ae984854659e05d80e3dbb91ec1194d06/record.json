@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bb18c1661b53e85322a5692f55d9a4ae984854659e05d80e3dbb91ec1194d06",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/nginx-grpc-forwarded-header-hpack-overflow",
+    "canonical": "https://winfunc.com/hacktivity/nginx-grpc-forwarded-header-hpack-overflow"
+  },
+  "title": "gRPC forwarded headers can overflow the upstream HPACK request buffer (CVE-2026-42055)",
+  "summary": "When an HTTP/1.x request reaches a grpcpass location, NGINX forwards client request headers by default. Before the fix, ngxhttpgrpccreaterequest() sized…",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/06/0b/0bb18c1661b53e85322a5692f55d9a4ae984854659e05d80e3dbb91ec1194d06/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/06/0b/0bb18c1661b53e85322a5692f55d9a4ae984854659e05d80e3dbb91ec1194d06/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10173,
+    "sha256": "sha256:56fb856eb08ca62d3687f5a1276583ae7fcb5b0628f6ebd3586130ebe4da1822",
+    "normalized_content_hash": "sha256:61a55c439a876cf8dbafdc63873315d10943b390f72c306a289d6ecce6e802b0"
+  },
+  "provenance": {
+    "source_item_id": "e0c8c802-fdfd-4418-bf1b-958d2ed17765",
+    "external_id": "https://winfunc.com/hacktivity/nginx-grpc-forwarded-header-hpack-overflow"
+  }
+}

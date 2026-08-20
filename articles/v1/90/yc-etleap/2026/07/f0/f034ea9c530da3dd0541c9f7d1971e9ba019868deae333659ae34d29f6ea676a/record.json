@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f034ea9c530da3dd0541c9f7d1971e9ba019868deae333659ae34d29f6ea676a",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/how-etleap-and-amazon-redshift-serverless-optimize-costs-for-etl",
+    "canonical": "https://etleap.com/blog/how-etleap-and-amazon-redshift-serverless-optimize-costs-for-etl"
+  },
+  "title": "How Etleap and Amazon Redshift Serverless optimize costs for ETL",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:08:49.604130+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T17:45:57.423913+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/f0/f034ea9c530da3dd0541c9f7d1971e9ba019868deae333659ae34d29f6ea676a/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/f0/f034ea9c530da3dd0541c9f7d1971e9ba019868deae333659ae34d29f6ea676a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12537,
+    "sha256": "sha256:40cfda6b240475c2183dc61584640216010088e53c734aaa484eab8f70c66271",
+    "normalized_content_hash": "sha256:5f8c17d32b0a614bfdf98822d4bb85c33ca758c66f1fb9dda36264836f92dfc3"
+  },
+  "provenance": {
+    "source_item_id": "61b2a0c7-0cb9-46fb-b8eb-7077a92e98aa",
+    "external_id": "https://etleap.com/blog/how-etleap-and-amazon-redshift-serverless-optimize-costs-for-etl"
+  }
+}

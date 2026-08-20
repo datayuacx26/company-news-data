@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a157442da83a150982c989217c556546f80983f5d70ef9123a6d9eac16ff4b9",
+  "company": {
+    "key": "yc-parea",
+    "name": "Parea"
+  },
+  "source": {
+    "id": "yc-parea-news-import-2baa56c7e8be",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use",
+    "canonical": "https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use"
+  },
+  "title": "Anthropic's Haiku Beats GPT-4 Turbo in Tool Use - Sometimes",
+  "summary": "Haiku > GPT-4 Turbo > Opus >>> GPT-3.5 Turbo if not using parallel function calling.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T08:15:23.356185+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-08-19T18:25:47.393099+00:00",
+  "paths": {
+    "article": "articles/v1/b3/yc-parea/2026/07/7a/7a157442da83a150982c989217c556546f80983f5d70ef9123a6d9eac16ff4b9/article.md",
+    "record": "articles/v1/b3/yc-parea/2026/07/7a/7a157442da83a150982c989217c556546f80983f5d70ef9123a6d9eac16ff4b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7881,
+    "sha256": "sha256:1603dd43ef99500f4014cddbf6d708b5dd5fafdb262d2f957a965515ce113f7b",
+    "normalized_content_hash": "sha256:5687cf0701c55d496d92d13c3df3f71624d0e508fb40e8a4bc5d0a8244e4eda8"
+  },
+  "provenance": {
+    "source_item_id": "de2ac240-8d7e-48b9-bbdf-0021f0826e44",
+    "external_id": "https://docs.parea.ai/blog/benchmarking-anthropic-beta-tool-use"
+  }
+}

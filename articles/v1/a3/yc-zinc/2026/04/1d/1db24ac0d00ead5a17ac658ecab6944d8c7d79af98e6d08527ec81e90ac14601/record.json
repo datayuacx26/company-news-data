@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1db24ac0d00ead5a17ac658ecab6944d8c7d79af98e6d08527ec81e90ac14601",
+  "company": {
+    "key": "yc-zinc",
+    "name": "Zinc"
+  },
+  "source": {
+    "id": "yc-zinc-news-import-01c857d42648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zinc.com/blog/mpp-vs-x402",
+    "canonical": "https://www.zinc.com/blog/mpp-vs-x402"
+  },
+  "title": "MPP vs x402: Which Agent Payment Protocol to Use?",
+  "summary": "MPP (Stripe + Tempo) and x402 (Coinbase) both revive HTTP 402 for agent payments. Here is a technical comparison and when to use each, with code.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:08:25.932611+00:00",
+  "fetched_at": "2026-07-28T22:15:52.361502+00:00",
+  "last_updated_at": "2026-08-19T20:20:45.368981+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-zinc/2026/04/1d/1db24ac0d00ead5a17ac658ecab6944d8c7d79af98e6d08527ec81e90ac14601/article.md",
+    "record": "articles/v1/a3/yc-zinc/2026/04/1d/1db24ac0d00ead5a17ac658ecab6944d8c7d79af98e6d08527ec81e90ac14601/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17090,
+    "sha256": "sha256:5b54a58d7f254f51f5a3978c5497c8f27addf65b5588d2ff8db6eb3d4c6a9ca8",
+    "normalized_content_hash": "sha256:cb8a620bdc73601cb7889fd657e47ed1bb8142489d77eda9718ab3c51ee2361b"
+  },
+  "provenance": {
+    "source_item_id": "98f9fc42-c87b-49a8-86b8-b6d03c6f326e",
+    "external_id": "https://www.zinc.com/blog/mpp-vs-x402"
+  }
+}

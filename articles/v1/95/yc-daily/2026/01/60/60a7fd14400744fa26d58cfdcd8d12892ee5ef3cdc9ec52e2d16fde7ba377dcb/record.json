@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "60a7fd14400744fa26d58cfdcd8d12892ee5ef3cdc9ec52e2d16fde7ba377dcb",
+  "company": {
+    "key": "yc-daily",
+    "name": "Daily"
+  },
+  "source": {
+    "id": "yc-daily-rss-fbcbe287eccb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.daily.co/blog/smart-turn-v3-2-handling-noisy-environments-and-short-responses/",
+    "canonical": "https://www.daily.co/blog/smart-turn-v3-2-handling-noisy-environments-and-short-responses/"
+  },
+  "title": "Smart Turn v3.2: Handling noisy environments and short responses",
+  "summary": "Smart Turn v3.2 improves AI voice agent turn detection with 40% better accuracy for short utterances and enhanced background noise handling. Open-source model with full weights, datasets, and training code available on HuggingFace.",
+  "published_at": "2026-01-07T18:05:44+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.254949+00:00",
+  "fetched_at": "2026-07-28T22:24:01.443100+00:00",
+  "last_updated_at": "2026-08-20T02:45:43.680839+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-daily/2026/01/60/60a7fd14400744fa26d58cfdcd8d12892ee5ef3cdc9ec52e2d16fde7ba377dcb/article.md",
+    "record": "articles/v1/95/yc-daily/2026/01/60/60a7fd14400744fa26d58cfdcd8d12892ee5ef3cdc9ec52e2d16fde7ba377dcb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3829,
+    "sha256": "sha256:2b3a7022d8f2ccdeec27e4a475b9a833560d9b19e76a7eda947e5e35dfd50724",
+    "normalized_content_hash": "sha256:d990ffc066306e5d071f2cf8c7dcdd8020c79196d6d12e54b3bff53102329fa2"
+  },
+  "provenance": {
+    "source_item_id": "4123a41f-f989-4575-a42c-0820e778fc26",
+    "external_id": "695bc61c34ed070001852631"
+  }
+}

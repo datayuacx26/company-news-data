@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a58fe1ddd8b3aac5ceccf12607b39de70268fcd7e9f93848de31c40196cba27d",
+  "company": {
+    "key": "yc-bellabeat",
+    "name": "Bellabeat"
+  },
+  "source": {
+    "id": "yc-bellabeat-news-import-b626e1833136",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bellabeat.com/press/bellabeat-implements-private-key-encryption/",
+    "canonical": "https://bellabeat.com/press/bellabeat-implements-private-key-encryption/"
+  },
+  "title": "Bellabeat Implements Private Key Encryption",
+  "summary": "In light of the overturning of Roe Vs. Wade, Bellabeat has implemented a new layer of data security, Private Key Encryption (AES-256).",
+  "published_at": "2023-01-27T15:12:01+00:00",
+  "first_seen_at": "2026-07-27T08:00:38.340274+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T21:52:30.625922+00:00",
+  "paths": {
+    "article": "articles/v1/8b/yc-bellabeat/2023/01/a5/a58fe1ddd8b3aac5ceccf12607b39de70268fcd7e9f93848de31c40196cba27d/article.md",
+    "record": "articles/v1/8b/yc-bellabeat/2023/01/a5/a58fe1ddd8b3aac5ceccf12607b39de70268fcd7e9f93848de31c40196cba27d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10551,
+    "sha256": "sha256:eb4d1434f5cc659bdb4428d9bde396f0a156586f1f73aa832c5a4ee050b3c881",
+    "normalized_content_hash": "sha256:0f1c05ac51e869c9ef91e5968aa82f73266514ea5e7b71584f13bf6315f38feb"
+  },
+  "provenance": {
+    "source_item_id": "557330ae-caca-49ba-b0cd-281412a5ce69",
+    "external_id": "https://bellabeat.com/press/bellabeat-implements-private-key-encryption/"
+  }
+}

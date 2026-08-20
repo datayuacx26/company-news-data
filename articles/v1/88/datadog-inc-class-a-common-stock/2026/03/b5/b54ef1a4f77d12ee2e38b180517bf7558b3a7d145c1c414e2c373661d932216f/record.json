@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b54ef1a4f77d12ee2e38b180517bf7558b3a7d145c1c414e2c373661d932216f",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/mcp-server-agent-tools/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/mcp-server-agent-tools/"
+  },
+  "title": "Designing MCP tools for agents: Lessons from building Datadog’s MCP server",
+  "summary": "We share lessons learned building Datadog’s MCP server, from designing agent-friendly tools and managing context windows to using queries instead of raw data retrieval.",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/03/b5/b54ef1a4f77d12ee2e38b180517bf7558b3a7d145c1c414e2c373661d932216f/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/03/b5/b54ef1a4f77d12ee2e38b180517bf7558b3a7d145c1c414e2c373661d932216f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12360,
+    "sha256": "sha256:348a7302dc21f6726fd1a4978b09c162874b00abf4508c01e1c41a7e48c17d98",
+    "normalized_content_hash": "sha256:835c15cc1dc605bc6b0b18db4c2fe0c370d94661bc4d3a316a90cac04c2e00a2"
+  },
+  "provenance": {
+    "source_item_id": "672f81ff-115a-4086-8d0d-0a74dd0aa00b",
+    "external_id": "https://www.datadoghq.com/blog/engineering/mcp-server-agent-tools/"
+  }
+}

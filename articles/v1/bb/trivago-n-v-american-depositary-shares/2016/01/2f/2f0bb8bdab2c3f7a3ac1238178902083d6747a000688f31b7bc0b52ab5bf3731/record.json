@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2f0bb8bdab2c3f7a3ac1238178902083d6747a000688f31b7bc0b52ab5bf3731",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2016-01-19-logstash_protobuf_codec/",
+    "canonical": "https://tech.trivago.com/post/2016-01-19-logstash_protobuf_codec/"
+  },
+  "title": "Better Log Parsing with Logstash and Google Protocol Buffers",
+  "summary": "At trivago we rely heavily on the ELK stack for our log processing. We stream our webserver access logs, error logs, performance benchmarks and all kind of diagnostic data into Kafka and process...",
+  "published_at": "2016-01-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:32.834035+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2016/01/2f/2f0bb8bdab2c3f7a3ac1238178902083d6747a000688f31b7bc0b52ab5bf3731/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2016/01/2f/2f0bb8bdab2c3f7a3ac1238178902083d6747a000688f31b7bc0b52ab5bf3731/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6115,
+    "sha256": "sha256:d9388fc013cf5f5c5b057c309f53d3358569c25b87df1443c4781cb70234d06b",
+    "normalized_content_hash": "sha256:07cfedb6ed9ac4f5e0a8f2aa6051f6d820bd03d09df38c50f25dfb633bfa77b3"
+  },
+  "provenance": {
+    "source_item_id": "f971f935-8bb2-4c1e-81e3-b97afbf4b053",
+    "external_id": "https://tech.trivago.com/post/2016-01-19-logstash_protobuf_codec/"
+  }
+}

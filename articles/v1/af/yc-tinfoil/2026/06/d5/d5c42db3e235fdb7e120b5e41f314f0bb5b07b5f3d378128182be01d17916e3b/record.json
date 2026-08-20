@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d5c42db3e235fdb7e120b5e41f314f0bb5b07b5f3d378128182be01d17916e3b",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2026-06-16-towards-search-memory-and-more",
+    "canonical": "https://tinfoil.sh/blog/2026-06-16-towards-search-memory-and-more"
+  },
+  "title": "Towards Search, Memory, and More",
+  "summary": "A look at the infrastructure groundwork behind two features coming to Tinfoil Chat: semantic search across your history and cross-chat memory that does not compromise on privacy.",
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2026/06/d5/d5c42db3e235fdb7e120b5e41f314f0bb5b07b5f3d378128182be01d17916e3b/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2026/06/d5/d5c42db3e235fdb7e120b5e41f314f0bb5b07b5f3d378128182be01d17916e3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10501,
+    "sha256": "sha256:2d38f42a40fb22584712dda0726e4d4e87caa82e65377c2bb343a42584b6c611",
+    "normalized_content_hash": "sha256:e25fcce273dfa3bb8529e5780ee92b635b915b6cb3cb7033695913e2d3a2bf39"
+  },
+  "provenance": {
+    "source_item_id": "1a430807-574b-48ca-ba29-55f243afb457",
+    "external_id": "https://tinfoil.sh/blog/2026-06-16-towards-search-memory-and-more"
+  }
+}

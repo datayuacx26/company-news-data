@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab269298ab80a1bf6bfe9552680f743f9048c6a8582db5e714dddc38224ab73c",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2026-01-26-private-url-sharing",
+    "canonical": "https://tinfoil.sh/blog/2026-01-26-private-url-sharing"
+  },
+  "title": "Sharing Conversations Without Sharing With Tinfoil",
+  "summary": "How we built shareable conversation links while preserving conversation privacy.",
+  "published_at": "2026-01-26T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T22:23:07.215004+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2026/01/ab/ab269298ab80a1bf6bfe9552680f743f9048c6a8582db5e714dddc38224ab73c/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2026/01/ab/ab269298ab80a1bf6bfe9552680f743f9048c6a8582db5e714dddc38224ab73c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9257,
+    "sha256": "sha256:033c4ef30cb7e60f91af049429f2da24de4de65a9be9e7f5e4b6f73440687e48",
+    "normalized_content_hash": "sha256:fbe5a54d27c1910b64eea3774d1020714d58c0308060ff3d9407a8e5bcfb4044"
+  },
+  "provenance": {
+    "source_item_id": "2e436dfe-d294-468c-b7ef-b981a622a57c",
+    "external_id": "https://tinfoil.sh/blog/2026-01-26-private-url-sharing"
+  }
+}

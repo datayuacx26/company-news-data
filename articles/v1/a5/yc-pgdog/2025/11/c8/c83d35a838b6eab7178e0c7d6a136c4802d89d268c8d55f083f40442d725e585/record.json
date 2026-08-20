@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c83d35a838b6eab7178e0c7d6a136c4802d89d268c8d55f083f40442d725e585",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/shard-your-database",
+    "canonical": "https://pgdog.dev/blog/shard-your-database"
+  },
+  "title": "You should shard your database",
+  "summary": "An on-call story about a 300 GB sequential scan, what default_statistics_target really controls, and why tuning autovacuum eventually loses to horizontal sharding.",
+  "published_at": "2025-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.478310+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T02:38:54.029156+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2025/11/c8/c83d35a838b6eab7178e0c7d6a136c4802d89d268c8d55f083f40442d725e585/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2025/11/c8/c83d35a838b6eab7178e0c7d6a136c4802d89d268c8d55f083f40442d725e585/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10073,
+    "sha256": "sha256:5c9115f5e344523ce12305d4380b182112026bccf1b40592c8ccac83bb9e7402",
+    "normalized_content_hash": "sha256:b53777ceccd0e27c017d4e4f17122e998866c65dd2ec4adef3ae3da4aa255dc9"
+  },
+  "provenance": {
+    "source_item_id": "24cb0213-1874-4fd1-becb-b1016da27d15",
+    "external_id": "https://pgdog.dev/blog/shard-your-database"
+  }
+}

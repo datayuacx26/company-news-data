@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "868e917498bdb1f9b1b1600fff2df461f3b659f91fa167aa23d7cfc97529dd3e",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/guardrails-money-movement-integrating-stripe-mcp-portia-ai",
+    "canonical": "https://stripe.dev/blog/guardrails-money-movement-integrating-stripe-mcp-portia-ai"
+  },
+  "title": "Guardrails for money movement: Integrating Stripe MCP with Portia AI",
+  "summary": "Learn how to build secure AI agents for payment processing using Stripe MCP and Portia AI, with built-in guardrails and human approval workflows.",
+  "published_at": "2025-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/08/86/868e917498bdb1f9b1b1600fff2df461f3b659f91fa167aa23d7cfc97529dd3e/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/08/86/868e917498bdb1f9b1b1600fff2df461f3b659f91fa167aa23d7cfc97529dd3e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3474,
+    "sha256": "sha256:f956ffbeacc7037efaa6822549497c86cefa87f84af00315153a18cb2a01d569",
+    "normalized_content_hash": "sha256:bf78053173947c18b55313047162abbdfeff4409eef44dbe8a675cdd2f1f8513"
+  },
+  "provenance": {
+    "source_item_id": "4089a1b6-7c65-4300-937e-f6afbeb95c1c",
+    "external_id": "https://stripe.dev/blog/guardrails-money-movement-integrating-stripe-mcp-portia-ai"
+  }
+}

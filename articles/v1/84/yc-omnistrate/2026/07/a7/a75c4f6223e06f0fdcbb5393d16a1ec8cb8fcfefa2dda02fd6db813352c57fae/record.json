@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a75c4f6223e06f0fdcbb5393d16a1ec8cb8fcfefa2dda02fd6db813352c57fae",
+  "company": {
+    "key": "yc-omnistrate",
+    "name": "Omnistrate"
+  },
+  "source": {
+    "id": "yc-omnistrate-news-import-f408a10afc71",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://omnistrate.com/blog/beyond-operators-the-enterprise-control-plane-layer",
+    "canonical": "https://omnistrate.com/blog/beyond-operators-the-enterprise-control-plane-layer"
+  },
+  "title": "Beyond Operators: The Enterprise Control Plane Layer",
+  "summary": "A control-plane layer can handle tenant, infrastructure, subscription, lifecycle, Day-2 operations, and deployment-model concerns around an operator-backed application.",
+  "published_at": "2026-07-14T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:13:55.392025+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T19:10:44.711195+00:00",
+  "paths": {
+    "article": "articles/v1/84/yc-omnistrate/2026/07/a7/a75c4f6223e06f0fdcbb5393d16a1ec8cb8fcfefa2dda02fd6db813352c57fae/article.md",
+    "record": "articles/v1/84/yc-omnistrate/2026/07/a7/a75c4f6223e06f0fdcbb5393d16a1ec8cb8fcfefa2dda02fd6db813352c57fae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17925,
+    "sha256": "sha256:9da13f40b02b3e69ebcd3166a0157140411519816c68c0b52ad82a1acf2cc385",
+    "normalized_content_hash": "sha256:03ead23225f2777ad4cda2f165441c20b8203ef56597ac07fc80f2c3b0f6929b"
+  },
+  "provenance": {
+    "source_item_id": "ba10a598-7e5e-4c5f-9c3e-130cfcb85eae",
+    "external_id": "https://omnistrate.com/blog/beyond-operators-the-enterprise-control-plane-layer"
+  }
+}

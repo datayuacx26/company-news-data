@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8286e356ad9efc6c68b512167f81fb16eb95db5e274db21d08a707105579e823",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/soc-72-minute-race/",
+    "canonical": "https://unit42.paloaltonetworks.com/soc-72-minute-race/"
+  },
+  "title": "Inside the Modern SOC: The 72-Minute Race",
+  "summary": "Attackers can move from access to exfiltration in 72 minutes. Learn how modern SOC teams close the speed gap with Unit 42's AI-driven automation, threat hunting, MDR and Managed XSIAM.",
+  "published_at": "2026-06-15T23:00:19+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-07-30T08:08:54.839734+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/06/82/8286e356ad9efc6c68b512167f81fb16eb95db5e274db21d08a707105579e823/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/06/82/8286e356ad9efc6c68b512167f81fb16eb95db5e274db21d08a707105579e823/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8696,
+    "sha256": "sha256:1376a6125b9fcac3708fa353d61a3a9b5fdaa60cbce83f85ac31b0e29ab7fae1",
+    "normalized_content_hash": "sha256:e2f79c848d1c0fc319a5061baba3788a421a1f08a35b5ebdb0c41e6eb0425e42"
+  },
+  "provenance": {
+    "source_item_id": "74fdaddf-f6fd-4b52-af4b-9f9387d1916d",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=182568"
+  }
+}

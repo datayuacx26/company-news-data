@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9503201ee47eade8423e714261801cf672cd390080895cab5ea54cbb23c99dce",
+  "company": {
+    "key": "yc-lago",
+    "name": "Lago"
+  },
+  "source": {
+    "id": "yc-lago-news-import-cc6c03d3f684",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlago.com/blog/paypal-x-lago",
+    "canonical": "https://getlago.com/blog/paypal-x-lago"
+  },
+  "title": "Why PayPal uses Lago for complex billing at enterprise scale",
+  "summary": "When PayPal wanted to offer billing to merchants on its platform, they didn’t want to build complex billing from scratch and maintain it forever. That’s why they picked Lago. In PayPal’s integrated finance ecosystem, billing was the missing piece. Why It Matters If you're evaluating billing infrastructure in a regulated industry like financial services, PayPal's decision reveals something important: the market has changed. First, complex billing is becoming more important: AI is increasing",
+  "published_at": "2026-02-13T12:02:46+00:00",
+  "first_seen_at": "2026-07-25T11:29:02.565124+00:00",
+  "fetched_at": "2026-07-28T21:57:41.767482+00:00",
+  "last_updated_at": "2026-08-19T16:09:29.517908+00:00",
+  "paths": {
+    "article": "articles/v1/bf/yc-lago/2026/02/95/9503201ee47eade8423e714261801cf672cd390080895cab5ea54cbb23c99dce/article.md",
+    "record": "articles/v1/bf/yc-lago/2026/02/95/9503201ee47eade8423e714261801cf672cd390080895cab5ea54cbb23c99dce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4156,
+    "sha256": "sha256:c1c41699bf48401476fcd1403b6518dbbdc30d7f8e498a8b8915b747133829e7",
+    "normalized_content_hash": "sha256:4df932f9e93a36fdf2af6d5f4700d94b39cdded108c5acdd3e5aa379a169f407"
+  },
+  "provenance": {
+    "source_item_id": "01782f6e-737b-40d6-a8b7-7845e9eb87e3",
+    "external_id": "https://getlago.com/blog/paypal-x-lago"
+  }
+}

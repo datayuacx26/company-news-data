@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ff93b64633b94ef6d9f567378a6c8a3c974389f17bb73a5d82fdb17e362f080",
+  "company": {
+    "key": "spotify-technology-s-a-ordinary-shares",
+    "name": "Spotify Technology S.A."
+  },
+  "source": {
+    "id": "spotify-technology-s-a-ordinary-shares-rss-e59c2e9a43cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/",
+    "canonical": "https://engineering.atspotify.com/2026/7/indexing-the-data-lake-for-online-point-queries/"
+  },
+  "title": "Indexing the Data Lake for Online Point Queries",
+  "summary": "Companies like Spotify need vast quantities of data accessible at low latency for online services and, increasingly, AI Agents acting on behalf of users. Online services — such as portals and personalization features that use or display a user's listening history — need to look up and paginate through per-user data at interactive speeds. AI Agents answering questions like, \"what was I listening to last summer?\" need to retrieve a user's data quickly so they can reason over it — filtering, aggregating, or even running SQL locally — to build context for LLM prompts. Both patterns share the same underlying primitive: fast point queries by key over datasets that are often far too large to economically keep resident in a key-value (KV) store like Bigtable or DynamoDB.",
+  "published_at": "2026-07-27T20:34:28+00:00",
+  "first_seen_at": "2026-07-27T21:14:52.976806+00:00",
+  "fetched_at": "2026-07-28T20:32:04.512542+00:00",
+  "last_updated_at": "2026-08-20T01:09:27.272443+00:00",
+  "paths": {
+    "article": "articles/v1/a4/spotify-technology-s-a-ordinary-shares/2026/07/4f/4ff93b64633b94ef6d9f567378a6c8a3c974389f17bb73a5d82fdb17e362f080/article.md",
+    "record": "articles/v1/a4/spotify-technology-s-a-ordinary-shares/2026/07/4f/4ff93b64633b94ef6d9f567378a6c8a3c974389f17bb73a5d82fdb17e362f080/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16625,
+    "sha256": "sha256:d495ff1f19f8bb8aa09429573353f751d024ed1084b4c273009b30d320d4e4c4",
+    "normalized_content_hash": "sha256:5fd06a9573af12dddd0e85eaa1fb9332198df947b4fc774a3c32861ec533ba73"
+  },
+  "provenance": {
+    "source_item_id": "ee955e45-d784-4693-8f50-7eb32edaabd4",
+    "external_id": "https://engineering.atspotify.com/?p=2BHiaulFaaun4MVkEBakNn"
+  }
+}

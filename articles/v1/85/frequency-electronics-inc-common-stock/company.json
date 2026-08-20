@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "frequency-electronics-inc-common-stock",
+    "name": "Frequency Electronics Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-03-09T20:01:00+00:00",
+  "last_published_at": "2026-07-29T02:08:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/85/frequency-electronics-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 16188,
+        "sha256": "sha256:7cef9bc073580d9a541019bd08f98d482ab48b02fbc18e452ae0ebf526ab24b3",
+        "newest_at": "2026-07-29T02:08:00+00:00",
+        "oldest_at": "2026-03-09T20:01:00+00:00"
+      }
+    ]
+  }
+}

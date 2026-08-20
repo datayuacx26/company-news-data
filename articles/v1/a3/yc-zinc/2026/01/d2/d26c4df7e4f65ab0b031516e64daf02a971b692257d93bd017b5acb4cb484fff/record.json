@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d26c4df7e4f65ab0b031516e64daf02a971b692257d93bd017b5acb4cb484fff",
+  "company": {
+    "key": "yc-zinc",
+    "name": "Zinc"
+  },
+  "source": {
+    "id": "yc-zinc-news-import-01c857d42648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zinc.com/blog/multi-product-ordering",
+    "canonical": "https://www.zinc.com/blog/multi-product-ordering"
+  },
+  "title": "Multi-Product Ordering API: Order Multiple SKUs Across Retailers at Scale",
+  "summary": "Order multiple products with quantities in a single API request. Multi-SKU checkout across Amazon, Walmart, Target, and 50+ retailers with Zinc.",
+  "published_at": "2026-01-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:08:25.932611+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-07-28T21:59:16.262714+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-zinc/2026/01/d2/d26c4df7e4f65ab0b031516e64daf02a971b692257d93bd017b5acb4cb484fff/article.md",
+    "record": "articles/v1/a3/yc-zinc/2026/01/d2/d26c4df7e4f65ab0b031516e64daf02a971b692257d93bd017b5acb4cb484fff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6445,
+    "sha256": "sha256:29eec2562dc46d41c2e64a69afe4cb6b32291131db573f7546d61ca1c8d0ca5c",
+    "normalized_content_hash": "sha256:b9c01512b68a73f4f9fb06ac76d0e0cd180b0e46c48f3bcdd0b0b8c4392770f2"
+  },
+  "provenance": {
+    "source_item_id": "47421d48-8571-47af-b129-788959e4f510",
+    "external_id": "https://www.zinc.com/blog/multi-product-ordering"
+  }
+}

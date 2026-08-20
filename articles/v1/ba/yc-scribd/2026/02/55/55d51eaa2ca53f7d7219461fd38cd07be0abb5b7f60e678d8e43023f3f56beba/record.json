@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55d51eaa2ca53f7d7219461fd38cd07be0abb5b7f60e678d8e43023f3f56beba",
+  "company": {
+    "key": "yc-scribd",
+    "name": "Scribd"
+  },
+  "source": {
+    "id": "yc-scribd-atom-fa6b4578b753",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech.scribd.com/blog/2026/content-trust-score.html",
+    "canonical": "https://tech.scribd.com/blog/2026/content-trust-score.html"
+  },
+  "title": "Dual-Embedding Trust Scoring",
+  "summary": "Scribd is a digital library serving academics and lifelong learners, offering hundreds of millions of documents. This very nature presents a significant concern: content trust and safety. Protecting our library from undesirable and unsafe content is a top priority, but the multilingual and multimodal (text and images) nature of our platform makes this mission very challenging. Also, while third-party tools exist, they often fall short, lacking the nuance to handle our specific trust and safety categories.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:26:02.289998+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T02:21:21.168233+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-scribd/2026/02/55/55d51eaa2ca53f7d7219461fd38cd07be0abb5b7f60e678d8e43023f3f56beba/article.md",
+    "record": "articles/v1/ba/yc-scribd/2026/02/55/55d51eaa2ca53f7d7219461fd38cd07be0abb5b7f60e678d8e43023f3f56beba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18911,
+    "sha256": "sha256:679f2399fc079c286efba475dfb2a04c8fde0744d293d27298b3119b87b58a6c",
+    "normalized_content_hash": "sha256:5968cac8869188320eba9718ea5a82b540d920bc2f3215073b98ed4c5a35b28c"
+  },
+  "provenance": {
+    "source_item_id": "37b4e63f-0941-4f17-97a6-849bb7bd9bdd",
+    "external_id": "https://tech.scribd.com/blog/2026/content-trust-score"
+  }
+}

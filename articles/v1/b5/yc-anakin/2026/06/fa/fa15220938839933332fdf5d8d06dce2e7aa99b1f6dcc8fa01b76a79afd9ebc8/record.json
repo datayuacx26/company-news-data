@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa15220938839933332fdf5d8d06dce2e7aa99b1f6dcc8fa01b76a79afd9ebc8",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/how-anakin-handles-credentials-and-data",
+    "canonical": "https://anakin.io/blog/how-anakin-handles-credentials-and-data"
+  },
+  "title": "How Anakin Handles Your Credentials and Data",
+  "summary": "Anakin never stores your passwords. See how credentials, sessions, and authentication data are protected - encryption,…",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:45:54.754455+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-04T11:22:12.634119+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/06/fa/fa15220938839933332fdf5d8d06dce2e7aa99b1f6dcc8fa01b76a79afd9ebc8/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/06/fa/fa15220938839933332fdf5d8d06dce2e7aa99b1f6dcc8fa01b76a79afd9ebc8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7063,
+    "sha256": "sha256:dc956c387a679c025ffc31b247518c045253fdeb466a1f94dfb8b163b6ff0c9d",
+    "normalized_content_hash": "sha256:44e21554b5d325d8cfb741b3185e9a38fd3101de5e62cc4435e8b7c1f193adf7"
+  },
+  "provenance": {
+    "source_item_id": "7c065109-60c2-4c7c-ba50-8714120b7b87",
+    "external_id": "https://anakin.io/blog/how-anakin-handles-credentials-and-data"
+  }
+}

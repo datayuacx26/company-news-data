@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f57d459695d97ab17044647f698da517948011289fabb282b456de1f4d8956a",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-21636",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-21636"
+  },
+  "title": "Permission model bypass via unchecked Unix Domain Socket connections (CVE-2026-21636)",
+  "summary": "Node.js permission model fails to enforce network restrictions for Unix Domain Socket (UDS) connections. With --permission enabled and without --allow-n…",
+  "published_at": "2025-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2025/01/4f/4f57d459695d97ab17044647f698da517948011289fabb282b456de1f4d8956a/article.md",
+    "record": "articles/v1/96/yc-winfunc/2025/01/4f/4f57d459695d97ab17044647f698da517948011289fabb282b456de1f4d8956a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6440,
+    "sha256": "sha256:23b0c782898af3d193af4f4fef1993305976c990f4347a04f1ae107e2ce5c349",
+    "normalized_content_hash": "sha256:18ca13262da90f0a84b2ff067ef79476471f7f6604285cc65488b46ccbd72ddd"
+  },
+  "provenance": {
+    "source_item_id": "bf23b6e4-1962-44f0-a74f-1767f2d1b1cb",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-21636"
+  }
+}

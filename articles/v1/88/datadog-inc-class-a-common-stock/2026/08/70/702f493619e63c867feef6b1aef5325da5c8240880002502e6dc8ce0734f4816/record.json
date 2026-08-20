@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "702f493619e63c867feef6b1aef5325da5c8240880002502e6dc8ce0734f4816",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/two-ways-to-measure-cumulative-impact/",
+    "canonical": "https://www.datadoghq.com/blog/two-ways-to-measure-cumulative-impact/"
+  },
+  "title": "Two ways to measure the cumulative impact of experiments",
+  "summary": "Summing individual wins overstates true impact. See two accurate methods, holdouts and Datadog’s Cumulative Impact, and how to choose between them.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T15:15:40.130379+00:00",
+  "fetched_at": "2026-08-18T15:15:42.259939+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/70/702f493619e63c867feef6b1aef5325da5c8240880002502e6dc8ce0734f4816/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/70/702f493619e63c867feef6b1aef5325da5c8240880002502e6dc8ce0734f4816/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12684,
+    "sha256": "sha256:239f28d106577e939cc5695aa9a4fde569072ec3fc6bd4c1d9e57ceb9bbbd33a",
+    "normalized_content_hash": "sha256:097d6274387bcb48e22e65ede13e25aa423a7d6d6e3564035451a7fb3d9a6c19"
+  },
+  "provenance": {
+    "source_item_id": "74f06b84-6883-4343-91d6-cb87bc40d929",
+    "external_id": "https://www.datadoghq.com/blog/two-ways-to-measure-cumulative-impact/"
+  }
+}

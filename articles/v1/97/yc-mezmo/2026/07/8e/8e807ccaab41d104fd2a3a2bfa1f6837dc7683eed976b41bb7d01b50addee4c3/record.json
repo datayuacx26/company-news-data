@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e807ccaab41d104fd2a3a2bfa1f6837dc7683eed976b41bb7d01b50addee4c3",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/builder-in-the-loop-tony-rogers-on-stress-testing-aura-before-production",
+    "canonical": "https://www.mezmo.com/blog/builder-in-the-loop-tony-rogers-on-stress-testing-aura-before-production"
+  },
+  "title": "Builder in the loop: Tony Rogers on stress-testing AURA before production",
+  "summary": "Tony Rogers explains how Mezmo tests AURA with internal benchmarks, trace inspection, and workflow validation to make agentic SRE reliable before production",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/8e/8e807ccaab41d104fd2a3a2bfa1f6837dc7683eed976b41bb7d01b50addee4c3/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/8e/8e807ccaab41d104fd2a3a2bfa1f6837dc7683eed976b41bb7d01b50addee4c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12276,
+    "sha256": "sha256:98c0b664fcbc8543c5288dca87422e0f45b493564c005b54a5acb63ff79f668b",
+    "normalized_content_hash": "sha256:38dfa2e40146f0cf1c9681a84e80f0aef600754859bd37bd0726c871fb3421ef"
+  },
+  "provenance": {
+    "source_item_id": "8bdefbf7-fa44-48b9-969a-f6e495592547",
+    "external_id": "https://www.mezmo.com/blog/builder-in-the-loop-tony-rogers-on-stress-testing-aura-before-production"
+  }
+}

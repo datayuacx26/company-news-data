@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a519d452d1fbf8284bb4f65ab7849e6531b03eee15ca15221e2ec012731c9c6c",
+  "company": {
+    "key": "yc-svix",
+    "name": "Svix"
+  },
+  "source": {
+    "id": "yc-svix-news-import-06ae021bd4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.svix.com/blog/receive-webhooks-in-openclaw-and-hermes/",
+    "canonical": "https://www.svix.com/blog/receive-webhooks-in-openclaw-and-hermes/"
+  },
+  "title": "Receive webhooks in OpenClaw and Hermes",
+  "summary": "Two new open-source plugins let OpenClaw and Hermes agents receive webhooks without a public webhook endpoint.",
+  "published_at": "2026-07-28T12:00:00+00:00",
+  "first_seen_at": "2026-07-30T02:08:22.185307+00:00",
+  "fetched_at": "2026-07-30T02:08:23.755635+00:00",
+  "last_updated_at": "2026-08-20T01:05:38.755361+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-svix/2026/07/a5/a519d452d1fbf8284bb4f65ab7849e6531b03eee15ca15221e2ec012731c9c6c/article.md",
+    "record": "articles/v1/a5/yc-svix/2026/07/a5/a519d452d1fbf8284bb4f65ab7849e6531b03eee15ca15221e2ec012731c9c6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6649,
+    "sha256": "sha256:b8cc4191543bba9a5bdc51cb92db0b6a809d5b7c0c7204aba4079b3e884a6100",
+    "normalized_content_hash": "sha256:0cfcc0bf283358e59fb76e09db03b6d93ccb34823ce08155e52b2e1973ddd830"
+  },
+  "provenance": {
+    "source_item_id": "fe958c92-dfeb-462c-805a-89e9d2627c94",
+    "external_id": "https://www.svix.com/blog/receive-webhooks-in-openclaw-and-hermes/"
+  }
+}

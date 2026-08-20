@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e84886b479142a8eb7c31cec77c1a4724e33793b8fc626506f958475343d3dc3",
+  "company": {
+    "key": "groupon-inc-common-stock",
+    "name": "Groupon Inc."
+  },
+  "source": {
+    "id": "groupon-inc-common-stock-rss-99044b78d036",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://medium.com/groupon-eng/varnish-to-redis-migration-887ad6d805d2?source=rss----5c13a88f9872---4",
+    "canonical": "https://medium.com/groupon-eng/varnish-to-redis-migration-887ad6d805d2"
+  },
+  "title": "Varnish to Redis Migration",
+  "summary": "At Groupon, we are in the process of migrating our app workloads to AWS EKS. As part of the migration, we are also in the process of…",
+  "published_at": "2022-03-22T15:39:20+00:00",
+  "first_seen_at": "2026-07-20T04:36:53.869647+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T00:24:14.323315+00:00",
+  "paths": {
+    "article": "articles/v1/a3/groupon-inc-common-stock/2022/03/e8/e84886b479142a8eb7c31cec77c1a4724e33793b8fc626506f958475343d3dc3/article.md",
+    "record": "articles/v1/a3/groupon-inc-common-stock/2022/03/e8/e84886b479142a8eb7c31cec77c1a4724e33793b8fc626506f958475343d3dc3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7308,
+    "sha256": "sha256:eb2bbba58d3ccbb533e338b3fa63d955299145c46a035b4d0d40f3e91dad92b0",
+    "normalized_content_hash": "sha256:62cc4388cfd08f65dd8736b240c887fc6d3e88c130a4debab67996b63adea593"
+  },
+  "provenance": {
+    "source_item_id": "9df47380-458d-428f-9f3e-3a301f1b329b",
+    "external_id": "https://medium.com/p/887ad6d805d2"
+  }
+}

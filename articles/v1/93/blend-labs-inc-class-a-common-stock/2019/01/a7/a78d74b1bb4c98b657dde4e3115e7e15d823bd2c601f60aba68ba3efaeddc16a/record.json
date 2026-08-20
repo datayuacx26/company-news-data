@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a78d74b1bb4c98b657dde4e3115e7e15d823bd2c601f60aba68ba3efaeddc16a",
+  "company": {
+    "key": "blend-labs-inc-class-a-common-stock",
+    "name": "Blend Labs Inc."
+  },
+  "source": {
+    "id": "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://full-stack.blend.com/moving-to-multitenancy.html",
+    "canonical": "https://full-stack.blend.com/moving-to-multitenancy.html"
+  },
+  "title": "Moving to Multitenancy",
+  "summary": "Here at Blend, we recently shifted to a multitenant paradigm for our core application. That is to say we moved from a paradigm where a single instance of our app served traffic from a single customer to one where a single instance can serve any number of them. Why didn’t we start that way? If you have a system where customers need to interact with each other, multitenancy is necessary from the start.",
+  "published_at": "2019-01-21T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:43.300114+00:00",
+  "fetched_at": "2026-08-20T00:34:47.711311+00:00",
+  "last_updated_at": "2026-08-20T00:34:47.824667+00:00",
+  "paths": {
+    "article": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/01/a7/a78d74b1bb4c98b657dde4e3115e7e15d823bd2c601f60aba68ba3efaeddc16a/article.md",
+    "record": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/01/a7/a78d74b1bb4c98b657dde4e3115e7e15d823bd2c601f60aba68ba3efaeddc16a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 990,
+    "sha256": "sha256:f06d51296036b04df3485e7dfa4a0e8b5bfa6e974f6a566e8b04f39c0e0bca14",
+    "normalized_content_hash": "sha256:71fec09f2be423af6b28a0304c159e33096193e69cd4b3c1e4a5a0ca0d652b11"
+  },
+  "provenance": {
+    "source_item_id": "e3708a79-6e56-4872-9082-6f553e7abe21",
+    "external_id": "https://full-stack.blend.com/moving-to-multitenancy.html"
+  }
+}

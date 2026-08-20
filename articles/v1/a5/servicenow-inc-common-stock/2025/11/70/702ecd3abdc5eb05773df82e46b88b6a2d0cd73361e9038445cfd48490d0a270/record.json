@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "702ecd3abdc5eb05773df82e46b88b6a2d0cd73361e9038445cfd48490d0a270",
+  "company": {
+    "key": "servicenow-inc-common-stock",
+    "name": "ServiceNow Inc."
+  },
+  "source": {
+    "id": "servicenow-inc-common-stock-rss-e68ea5e3c60f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.servicenow.com/community/technology-blog/learnings-service-bridge-amp-domain-separation/ba-p/3249940",
+    "canonical": "https://www.servicenow.com/community/technology-blog/learnings-service-bridge-amp-domain-separation/ba-p/3249940"
+  },
+  "title": "Learnings Service Bridge & Domain Separation",
+  "summary": "Service Bridge natively support multiple integrations between the 2 same instances. So I went about identifying whether it could be supported for a Remote Task between a Domain Separated 'Consumer' and a 'Provider'. The scenario. A service provider runs a Domain Separated instance to host shared...",
+  "published_at": "2025-11-07T23:40:41+00:00",
+  "first_seen_at": "2026-07-20T04:36:33.238428+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T00:29:45.889683+00:00",
+  "paths": {
+    "article": "articles/v1/a5/servicenow-inc-common-stock/2025/11/70/702ecd3abdc5eb05773df82e46b88b6a2d0cd73361e9038445cfd48490d0a270/article.md",
+    "record": "articles/v1/a5/servicenow-inc-common-stock/2025/11/70/702ecd3abdc5eb05773df82e46b88b6a2d0cd73361e9038445cfd48490d0a270/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4514,
+    "sha256": "sha256:75a8a42351546febb2f754d8c710b5468efdfbfdcc3884292ee17f8086713166",
+    "normalized_content_hash": "sha256:983a427b6c35c648e62567928e5663959d9ac38703c5d17e19bd4bbbd8a60c5a"
+  },
+  "provenance": {
+    "source_item_id": "0f5b5e77-daf4-4ecd-9a9d-8562191f5b8b",
+    "external_id": "https://www.servicenow.com/community/technology-blog/learnings-service-bridge-amp-domain-separation/ba-p/3249940"
+  }
+}

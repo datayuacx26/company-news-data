@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ae02daeb5eb60b74a563a66b7171ddf397904a31b248c4651724546299b03f3",
+  "company": {
+    "key": "yc-sola",
+    "name": "Sola"
+  },
+  "source": {
+    "id": "yc-sola-news-import-2dc63e1087a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sola.security/insights/ispm-visibility-ai-security-benchmarks/",
+    "canonical": "https://sola.security/insights/ispm-visibility-ai-security-benchmarks/"
+  },
+  "title": "A practical benchmark for AI-driven identity security",
+  "summary": "First benchmark for AI-driven ISPM visibility achieves 80% accuracy on real production environments, across AWS, Okta, Google Workspace. Moving security AI toward evidence.",
+  "published_at": "2026-01-29T10:24:16+00:00",
+  "first_seen_at": "2026-07-24T01:34:47.750416+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-20T02:14:34.251577+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-sola/2026/01/9a/9ae02daeb5eb60b74a563a66b7171ddf397904a31b248c4651724546299b03f3/article.md",
+    "record": "articles/v1/b5/yc-sola/2026/01/9a/9ae02daeb5eb60b74a563a66b7171ddf397904a31b248c4651724546299b03f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10578,
+    "sha256": "sha256:4af60de0ed4c769d35b70a285725154c9de1da5b5315608e918f0a7bae1c9f04",
+    "normalized_content_hash": "sha256:db0488c4c57b177281e71ad74caa74ccdf973972dd527edd1e224589697cb280"
+  },
+  "provenance": {
+    "source_item_id": "062d7598-eaf7-4a28-9ad6-4d42ae4b826d",
+    "external_id": "https://sola.security/insights/ispm-visibility-ai-security-benchmarks/"
+  }
+}

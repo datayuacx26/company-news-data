@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "32052ed5cf9ec2192dd51860016bb23127554e66653a752a2cf792ec45fee155",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/how-boost-insurance-made-their-snowflake-pipelines-more-reliable",
+    "canonical": "https://etleap.com/blog/how-boost-insurance-made-their-snowflake-pipelines-more-reliable"
+  },
+  "title": "How Boost Insurance Made Their Snowflake Pipelines More Reliable",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:08:49.604130+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T17:45:57.423913+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/32/32052ed5cf9ec2192dd51860016bb23127554e66653a752a2cf792ec45fee155/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/32/32052ed5cf9ec2192dd51860016bb23127554e66653a752a2cf792ec45fee155/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3199,
+    "sha256": "sha256:0fb98184280fc98182b069ad1e0fcd59c2d7040b7be140f660417ef8428319fb",
+    "normalized_content_hash": "sha256:16e5aa23626fd8010831750bead94932d174e25a3a5f66965337bcce37969174"
+  },
+  "provenance": {
+    "source_item_id": "fc49f296-64be-4bd4-81ed-c127fe1e90d6",
+    "external_id": "https://etleap.com/blog/how-boost-insurance-made-their-snowflake-pipelines-more-reliable"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df63db97ca4e0db186879070f33bbefee2d49ddd68ee33e00f51ac2f6900ac5c",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-4f82164f35c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/changelog/drilldowns",
+    "canonical": "https://www.buildbuddy.io/changelog/drilldowns"
+  },
+  "title": "Drilldowns: find similarities between slow or failing builds",
+  "summary": "The drilldown view displays heatmaps of build and execution metrics over time. It can help isolate why a subset of builds is slower or failing more often.",
+  "published_at": "2026-03-09T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:16.628240+00:00",
+  "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+  "last_updated_at": "2026-08-20T03:35:53.428661+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/03/df/df63db97ca4e0db186879070f33bbefee2d49ddd68ee33e00f51ac2f6900ac5c/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/03/df/df63db97ca4e0db186879070f33bbefee2d49ddd68ee33e00f51ac2f6900ac5c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1012,
+    "sha256": "sha256:1dd379a208db6be5bd00940aebaea32d3d60be919bfa840544f685ca03f43fe3",
+    "normalized_content_hash": "sha256:f407fce01473a72e81092ea3679f913a0bb437ad15dd23ef46d28cf12c38aeaf"
+  },
+  "provenance": {
+    "source_item_id": "a865412d-e34e-4983-af45-34f84f6b9307",
+    "external_id": "https://www.buildbuddy.io/changelog/drilldowns"
+  }
+}

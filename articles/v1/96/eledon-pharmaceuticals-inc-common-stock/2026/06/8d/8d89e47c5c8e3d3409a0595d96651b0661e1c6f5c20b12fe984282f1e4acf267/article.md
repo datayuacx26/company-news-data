@@ -1,0 +1,59 @@
+---
+schema_version: "1.0.0"
+document_id: "8d89e47c5c8e3d3409a0595d96651b0661e1c6f5c20b12fe984282f1e4acf267"
+company_key: "eledon-pharmaceuticals-inc-common-stock"
+company: "Eledon Pharmaceuticals Inc."
+source_id: "eledon-pharmaceuticals-inc-common-stock-rss-9503bfd0bf7b"
+canonical_url: "https://ir.eledon.com/news-releases/news-release-details/eledon-announces-presentation-updated-data-investigator"
+published_at: "2026-06-04T20:31:00+00:00"
+first_seen_at: "2026-07-25T10:07:06.716513+00:00"
+fetched_at: "2026-07-28T21:11:40.706155+00:00"
+content_hash: "sha256:9c786fe5906abf5238a9e20cbac2bde8b8ecb06bbe0e7684bf7521de00dbd11c"
+---
+
+# Eledon Announces Presentation of Updated Data from Investigator-Initiated Islet Transplant Trial of Tegoprubart in Patients with Type 1 Diabetes at American Diabetes Association (ADA) 2026 Scientific Sessions
+
+## Eledon Announces Presentation of Updated Data from Investigator-Initiated Islet Transplant Trial of Tegoprubart in Patients with Type 1 Diabetes at American Diabetes Association (ADA) 2026 Scientific Sessions
+
+
+June 4, 2026
+
+
+[PDF Version](https://ir.eledon.com/node/11161/pdf)
+
+
+IRVINE, Calif., June 04, 2026 (GLOBE NEWSWIRE) -- Eledon Pharmaceuticals, Inc. (“Eledon”) (Nasdaq: ELDN) today announced that updated results from an investigator-initiated trial being conducted at the University of Chicago Medicine Transplant Institute will be presented by Piotr Witkowski, M.D., Ph.D., Director of the Pancreas and Islet Transplant Program at UChicago Medicine, at the American Diabetes Association 86th Scientific Sessions, taking place June 5-9, 2026, in New Orleans, Louisiana.
+
+
+Details of the oral presentation are as follows:
+
+
+**Presentation Title:** Anti-CD40L to Induce Graft Survival and Function in Islet Allotransplantation
+**Session:** Immune Modulatory Strategies for Next-Generation Cell Therapies
+**Date:** Sunday, June 7, 2026
+**Time:** 2:30 p.m. – 3:00 p.m. CT
+**Room:** 343 (Level 3)
+
+
+**About Eledon Pharmaceuticals and tegoprubart**
+
+
+Eledon Pharmaceuticals, Inc. is a clinical stage biotechnology company that is developing immune-modulating therapies for the management and treatment of life-threatening conditions. The Company’s lead investigational product is tegoprubart, an anti-CD40L antibody with high affinity for the CD40 Ligand, a well-validated biological target that has broad therapeutic potential. The central role of CD40L signaling in both adaptive and innate immune cell activation and function positions it as an attractive target for non-lymphocyte depleting, immunomodulatory therapeutic intervention. The Company is building upon a deep historical knowledge of anti-CD40 Ligand biology to conduct preclinical and clinical studies in kidney allograft transplantation, xenotransplantation, islet cell transplantation, liver transplantation and amyotrophic lateral sclerosis (ALS). Eledon is headquartered in Irvine, California. For more information, please visit the Company’s website at[www.eledon.com](https://www.globenewswire.com/Tracker?data=nzWIhRm9hhrLDM6WogpamPXyzuD-a12AxEinCN7P8ZjkHB9W-PWcCzFxJ6Lre1Zu9M4GgAhA5D1hpNdILW4RzH8gWeqr6UWD6pPNtZg5BEBXADuJzJ8wS2b3EvEaYzu6tk-GloH1bq9LYfm-lwWZV-w2rfemMMvYX_fGb6W1fKCMBmhPb4yVesG7SssawIj3rGhMhFlo1E2SYd8VCHEMTNB5RCKGv6fwPnq2PrJ0lAo=) .
+
+
+Follow Eledon Pharmaceuticals on social media:[LinkedIn](https://www.globenewswire.com/Tracker?data=mn_sRW00Hk4JCnw3HMZAz79ZsRgYNXFBb-_jiEcTB3-oECfVL_pW5FFwGDbR4WF3ZqQK-6w7pY531jss0bBXxlrG0n4m5ZywfvzUs8JzlIt-JIZHuALmN5V2TQiw3IhgrZSeUBnYMGaHny-8M4PFtS2yOzeJlFb-vuxJKDxRLMK-xICPpbSlnIdmn6a24G_1yst_KopsaL6SqKSx7aNnRiNuiLgo-hpdbdAYU-sNcnlhX6dYRigHIks3r6pplMeJAmZanGUUFK3Trs2xMro4pB2Cduo4RlghTXde8eZ9z79quX7Et-gv_ZHwi4bzRkqHmX_d7maDEfJv-vOHn16fezGpVQkldWLcek7r85AF_A7gzmE-Nz_GkTom1KWUIKZzNMrRV9gylupFt4rFCU-dnXhr5X_FqmkjtBsImI_C64HUNq25l7Fk2gfl99rgDtkevNYJYa4Wkp7rz1La6rHnj6DqiPnLM-qjf5EbrkB-jPODyXTVeLkMN4J_mAj4_ls3b8h8YddgtWDNY7AIItGheveX-PrT-E81HdQt4IgBJt_OmjRGlWwANQr2Jg4s0vkLU355pvsP0vhRIdlYeGAogX2RyIYELbUn2cdmwPia0Ous9vxj0Z0XcVmjzrYHb2QBT09ryL0wMk69-A499JuL1LGLk94foV4gc4jeyqj4IML4byy7anz2yNHiqIP_u1OZDXT2wimzbQeKOstaUKqqgH9TqhKNyaelA6bha38AdUNVYuhGh3i_XNuIiYPDBCiJyT8u3DRMpZ1si8hlnHr3vmYJ461TU4WYjM3CMD1V-u9kKY9gAps5crWz8TYu67m7uP5JJvXAvBcPa0MH4-WVp821kXGhtHWlvX09jF9brdIojc_3_f5T88H36zgxyalC8rexg9EWXIsLiMz1spBchyKEx1C4YQQyZYcQWV_OWLad_jojWISyEBUe7tEJ6nsYyxBfvw9ARw-2pcIGYIIdyiyK2LTXf8gQqgQCACvAX52LOszqS9D1LFwiCaWGeyozRQfLxcAKjwmlKwng6M1WeC4WbecPsp28mDR_b9ubsFoRJjBdHtXuYTloKJYaFaDHa2T7NaWdjOXtndD4Vb7MKcrNRovmx63CAPKzHaL7Bca4qv25TiZZw-Jbj5jM_OZEBtGo_OkGty1rA-eSapg9QMpCEMBQEV5xpAWczcgD0r7rEghf73rUyF9xnTD7Xz_930oHzydJu8FFeUBE67S2IeUUt1u43t0wfqkKIX-ecRUa5pcfpt7BWfPqDSYVFgDFnxxXNDnINhPsHXP1x38CSWwyr3MCQ1TYJrjffJtnIE7MoU84c3YJT3X5y8tcJcl_2tAAqH16B2fI0Hn_RTy7MW0tWTc1iIiZpQoangruHxZ1n0e4Tk8DvnuNatYhgSp577BoSJ4kM1wrJMVNG7_mVv9HvuD6dlwBBhrialSOmsHD20H8eQUoE8dKU3zjRS_dehEN29qMKII-sUfAoUiSKeeG3GzJRwlk_yBVI_eLYfM=) ;[Twitter](https://www.globenewswire.com/Tracker?data=BK9beE5LF8_VWKwRTc2-QU6GdCgTAuJl8CTbKXE1LJw31hD88gMB7amhWeqTFZcaAWMo_TuaNIV9Zf3GkLwJiQAGnfR7KJfgAEexF_1a20FtY8M7JPsB7xX5E54YgwOqenBNUEHlUzuL9uUQO5o89OTacy9eJwWiJM4MlIQa8MT9cdtfXKFLXJK3fAH12pQeIt4BQ4R53oPGzx7AgGchc9vin1MT7Lmo4EP7qbLhs_RZwPl8yQ00_kxvXLbam_rWRCOsr6ophBaT39DL84Fkgd5OqWRjHXNonEwuUaa5uU6Nm7uEgCUizVVdw-zaMh1QsL2J_oDwtoyhzqrO8R68RM7Zdt_2e6q4GpcGKBrd2YhSLkfNtoqOhpFNYTyfLfdyl3FS3e5GfP5Vr-tLJsYM8zwMfveB-4EGmLCGDRJtQYp6WL_QvAc5QSrfEj5gEyA_iHlu4XoeRbuJkDeu_g12aOKyoU_ZPosUUe4BgH7RFd7f9ZFNBouF7YyW5zfHGjrxgrknYYarkJCGcdK8ryRFVytpY-OW_8EEuylErEy_pOEsgmr8ADmmm89OrKmnm5i64bjUljq-_w2RGP5qFSoNsQoDl-KoPuRzTyGpKU8vIQHBjCkjeG4oTveIMpr0j9BICM3BqNX1IDo8eTFvIVBg8iHhuoJHC4ripPaqHg_NJoCMb0PGTtDih1veeI6LrlBWitsLY3P4HOZqaOBT7eNcHpYSLEpUM7uPZoB38gUFi9yroaFT5HIEjGxvVZOP33QScFGeJ2V34A0_kzn7IfP9kdwpql6t77UgKANnv_zvulGblhbGNe_jHpz2pNZhHb9UWT2LwXgX0XUP00Fe3J4-1lbvQ2Sh9jFdO8YKL-cGdE8aKvb4u9KkvYj4e-SxojP5_-C5qAMUgVbo5xlxS47KfpmpWtDkA83qTZ43UaZ4DYEo0-epKsWZqIzmT91sSBZI0HcjCbdVZCclL-xgmuRw3SR_gEyeqIdZJSu4fGEDq-wJCzhcr3nRub9XPnFTN8F-yO8OkYRRaHaai0sgV0SbEpo5UkjRKJ-gEMaQm2jXM8d09OlxSvd_1sQUuntEvV7oA58L6_MrAjDwK1B-MoPP-pYhrheKJJEFVcW_mjfpLVNMnBCpTXLYiueyZyBZamlRaGiYPZUKoY0Ti6DvVMLVcIqsGVGjfWNaGm_WUzF23yOSCO1Ng4JKlRigjYd98_djKogQGRrC9f-C4cKUz-Sbky2_6XB8JRUG6UcsmYgda_f4hlh2kKpjim5dHMJRekNxVX6db7vZOWsABb6V1K0sF__N3JEdMA07s2pgGJnZATg4ZXDYqChOiG3PmDGKzzuZXkdQWzOE71aUVbPuujrSRFNzROGZQ2EwjcWc6vmSkPn55647H3RVNK2BKI7YCjJvoodn0b50FlW-JqoMYZzdb2IyW6qrSjO744RiAKWgONz-hQdM_XS1Dyfh1VM7I5Bm)
+
+
+**Investor Contact:** Stephen Jasper
+Gilmartin Group
+(858) 525 2047
+[stephen@gilmartinir.com](https://www.globenewswire.com/Tracker?data=uYAtdvOsMsgeKMkgg5zLZ8PIIL6NMEc8fD7rmCEoMoTPU0Z_CirLgcQcEE98XXkZaPS54TSXeX8C3mN-2pIks22GsHOGd46_Ji8dmZFOb34rF7auvqRDC6ffYgGlFHUYEZBe4BkL8JILoA_clPjaZlbMPmlHOFYEwGQk3FxQ9yMmXtFmffMMwHxIu9zL20xMYIWll6zCJ0psWO3KSuNuMYWtFHsyFlmtrHIdZOLGhmQ2iYP4MHZH-MEVyuajzNT0g1qyoH6ICcOj-of1a-wchx1ti5eNJSQXayMkLbKir0lMYvnbgzd4Y8-VzOnl7t5wei-mJmPfu7T8bsJqWBdcHy8m39sz3WSg43wO7ElbhYntVDRFlDzWhLAPILJCsLqqRirGKk4zUGvN-YYT-SVva0p6gwNCjAaNjm25XczUdroiFYp5bZAlypDlkiZiqmFICwr4nUunrjYwEWusXO-_YOtjut18_i7gbkjyp22j9dazPuQIFg0-4DpRc9lzXjWHeIWPmL6ARjMcO2jEK1oZ4vqI8uRnjikHE6YD6HRwYAVMXZcKQbpmSZwpXgjnM9SQlp2-hUiLECLhoq3z6mCDbwv39i9rQbCQysbIJ4u8Wx4p4nsrSy-9Rx1B8gYilVU_7rsaZ8LqglLM5WHFhS03YSeeE5V0C8S9yLHYLbt6ijC8qxwrIXUMaEX6j-gsUqLkMos4J1n60NlmHmV1JFA6qVMfD2Fmk-pevWCEbrvJS2vtkEcvW-9TtlgTHagYGLUsXDcL5Y75j1yskHrSUzCx8IRZCpcjpv9v2bJ_npc1C9d38Hw16nyOJh6vvshbBuynow3T1T-CIIWWL5zws-eo2JdaYxTdkA7RHhHIYUGhvu2F8kcfBYc2GnY-VjNaF1kR7RE7nkwEdP1Q4vG9C-JKgYfsnIRWzatRF-59TDg3F4te09d8NkO8-fcYy0pb8XS563acvHgYIMefa8d_5xgf20RCpHxIrQqvxDPx2w4lrJmkK98xdiGTH1tAblJ7WoX7abDZp0agxn7GiTw6BuCfc0DHMxQTsQeo3fvWK62xn-RmYUljMw1dgsIKbFN51fkWmP-Zr1E9uPxqYwmo8cJj3JuXSiCqm6znWKqdb5TmrIDwi7qCcq6H6txnPZtFyWPmdZNuKVgDIRHYGPJjH6JnNgfIOnK04VjCTa6BjCQcyqlRmUMYd-EV4k8hatG9Iwv2)
+
+
+**Media Contact:** Jenna Urban
+CG Life
+(212) 253 8881
+[jurban@cglife.com](https://www.globenewswire.com/Tracker?data=GK80fifi5dAmFKscS0sUOhiU3-FfrMsPwEu2e92vyj89VgZ4yMl1zrx-3X_RlNvD8BC80pBwa07_-WXYT4Nfz1-iS4U7O91EKC4p6tAN7Xw=)
+
+
+Source: Eledon Pharmaceuticals

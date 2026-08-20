@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68607f43f416953bcd756db24fa949cdd741272b13e0f4bf10364321e6b8e314",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+    "canonical": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
+  },
+  "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+  "summary": "This is the story of how our Developer Productivity team extended and rolled out rubyfmt, our Rust-based zero-config, ultra-fast autoformatter across the world's largest Ruby codebase.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/04/68/68607f43f416953bcd756db24fa949cdd741272b13e0f4bf10364321e6b8e314/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/04/68/68607f43f416953bcd756db24fa949cdd741272b13e0f4bf10364321e6b8e314/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3820,
+    "sha256": "sha256:0f2ec50677241a6205707e35a302a821bbc211f31dcfaf3849b8c767f92113e7",
+    "normalized_content_hash": "sha256:6ce8a1d970e99f5af41085a039ceac64d80c1ece5a6a8c4b70454c988467141b"
+  },
+  "provenance": {
+    "source_item_id": "ecc3bed6-ccdc-420e-a10f-c914a10c4c68",
+    "external_id": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
+  }
+}

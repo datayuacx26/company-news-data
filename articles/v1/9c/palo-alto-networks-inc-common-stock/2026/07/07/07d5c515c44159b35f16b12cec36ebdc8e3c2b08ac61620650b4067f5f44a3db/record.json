@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07d5c515c44159b35f16b12cec36ebdc8e3c2b08ac61620650b4067f5f44a3db",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
+    "canonical": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/"
+  },
+  "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
+  "summary": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more.",
+  "published_at": "2026-07-01T01:00:11+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-08-06T22:21:30.685010+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/07/07d5c515c44159b35f16b12cec36ebdc8e3c2b08ac61620650b4067f5f44a3db/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/07/07d5c515c44159b35f16b12cec36ebdc8e3c2b08ac61620650b4067f5f44a3db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 43142,
+    "sha256": "sha256:afe231987a7440bbba5abadbcb8f1de2a2874865e6b924104f8516be1175c1ef",
+    "normalized_content_hash": "sha256:afa1ca209118595b9c9bbc4207ccc167e81e68aa4bf5c758e018ec3feb223918"
+  },
+  "provenance": {
+    "source_item_id": "49efa5a8-52c8-4fa8-a026-e0e3a926d07b",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=183096"
+  }
+}

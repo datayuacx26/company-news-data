@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66f13674004098c19ce5fbec4c29b37a3c76fd7d9d76df320a674bc39434f8a7",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/bbq-quantization-jina-embeddings-v5",
+    "canonical": "https://www.elastic.co/search-labs/blog/bbq-quantization-jina-embeddings-v5"
+  },
+  "title": "How BBQ shrinks Jina v5 embeddings by 29x without losing recall in Elasticsearch",
+  "summary": "See how BBQ quantization shrinks Jina embeddings v5 vectors 29x in Elasticsearch while keeping recall above 98.9%.",
+  "published_at": "2026-07-10T02:50:43+00:00",
+  "first_seen_at": "2026-07-22T05:42:30.133836+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.477568+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/66/66f13674004098c19ce5fbec4c29b37a3c76fd7d9d76df320a674bc39434f8a7/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/66/66f13674004098c19ce5fbec4c29b37a3c76fd7d9d76df320a674bc39434f8a7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15765,
+    "sha256": "sha256:0f7bafeb08bb5d9b9bf7d0e0c0ee8a6472a92a4ab50ef1fa441dbd40abd8b30f",
+    "normalized_content_hash": "sha256:9d301a6d8a6cd2a46f67fb80f25a7fb10a35a4fd439862707afca84792aaca33"
+  },
+  "provenance": {
+    "source_item_id": "62100e5a-ec78-429e-83c8-eaf7d9f01ec6",
+    "external_id": "https://www.elastic.co/search-labs/blog/bbq-quantization-jina-embeddings-v5"
+  }
+}

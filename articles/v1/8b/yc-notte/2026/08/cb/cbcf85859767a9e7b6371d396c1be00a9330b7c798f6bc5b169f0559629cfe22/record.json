@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cbcf85859767a9e7b6371d396c1be00a9330b7c798f6bc5b169f0559629cfe22",
+  "company": {
+    "key": "yc-notte",
+    "name": "Notte"
+  },
+  "source": {
+    "id": "yc-notte-news-import-7238aba58520",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.notte.cc/blog/why-a-coding-agent-needs-two-browsers-coshell-x-notte",
+    "canonical": "https://www.notte.cc/blog/why-a-coding-agent-needs-two-browsers-coshell-x-notte"
+  },
+  "title": "Coshell x Notte: What a Coding Agent Can't Learn from Localhost",
+  "summary": "Coshell ships a localhost browser that answers one question: does it render? Every other question lives outside the sandbox. Here is why a coding agent needs a second browser, who gets to step into it, and what a Notte persona can finish that an inbox alone cannot.",
+  "published_at": "2026-08-04T09:10:00+00:00",
+  "first_seen_at": "2026-08-18T16:01:00.928611+00:00",
+  "fetched_at": "2026-08-18T16:01:03.186610+00:00",
+  "last_updated_at": "2026-08-19T19:06:37.269710+00:00",
+  "paths": {
+    "article": "articles/v1/8b/yc-notte/2026/08/cb/cbcf85859767a9e7b6371d396c1be00a9330b7c798f6bc5b169f0559629cfe22/article.md",
+    "record": "articles/v1/8b/yc-notte/2026/08/cb/cbcf85859767a9e7b6371d396c1be00a9330b7c798f6bc5b169f0559629cfe22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4944,
+    "sha256": "sha256:292e0fc5d2ab66aa5ef64d91250a91acdf29923037885c974bcd00c880bc22f3",
+    "normalized_content_hash": "sha256:4d2c2e0ab7aa60e86cde6cdae7d4b21f98a28fdc893df05f368ae0897a1569e4"
+  },
+  "provenance": {
+    "source_item_id": "9c861cef-10dd-4ae1-919d-458aab4b1b55",
+    "external_id": "https://www.notte.cc/blog/why-a-coding-agent-needs-two-browsers-coshell-x-notte"
+  }
+}

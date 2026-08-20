@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "73bad459247b24a9453aa03ac40e3f20c37d86e067a97422521be12c71b0d032"
+company_key: "new-york-times-company-the-common-stock"
+company: "New York Times Company (The)"
+source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
+canonical_url: "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-castle-damage.html"
+published_at: "2026-07-28T13:38:39+00:00"
+first_seen_at: "2026-07-28T13:46:27.581409+00:00"
+fetched_at: "2026-07-28T16:46:08.203519+00:00"
+content_hash: "sha256:9ab49d7c7ff724091b1b63000bdddb3bb06cb408885c08da6cbaf8da41e9e438"
+---
+
+# Kumamoto Castle, a Famed Landmark, Is Damaged in the Japan Earthquake
+
+The centuries-old castle, one of the country’s best-known, was also affected by the region’s 2016 earthquakes.

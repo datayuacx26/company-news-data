@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44eae6b20f6fad9ba9b061f3f3225497871fb7621f23156a3a6222a81a2639b7",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-24458",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-24458"
+  },
+  "title": "Oversized password login DoS in legacy password comparison (CVE-2026-24458)",
+  "summary": "Mattermost validates password length when passwords are created or changed, but affected login comparison paths did not consistently apply the same maxi…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/44/44eae6b20f6fad9ba9b061f3f3225497871fb7621f23156a3a6222a81a2639b7/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/44/44eae6b20f6fad9ba9b061f3f3225497871fb7621f23156a3a6222a81a2639b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6534,
+    "sha256": "sha256:d9864b082c6ebfc6154906018e1e5cef62e942fb7aa46732fb263e7a075c869c",
+    "normalized_content_hash": "sha256:cce847c38887274158a660f098d123774a63ecfc034e3f2b7802e2ebd12d4faa"
+  },
+  "provenance": {
+    "source_item_id": "07af4be1-c78b-405d-a65f-4d00852793f3",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-24458"
+  }
+}

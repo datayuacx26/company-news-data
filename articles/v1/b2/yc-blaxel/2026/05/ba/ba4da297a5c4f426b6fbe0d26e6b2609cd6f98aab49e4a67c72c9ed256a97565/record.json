@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba4da297a5c4f426b6fbe0d26e6b2609cd6f98aab49e4a67c72c9ed256a97565",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/how-to-fix-cold-start-latency-for-ai-agents",
+    "canonical": "https://blaxel.ai/blog/how-to-fix-cold-start-latency-for-ai-agents"
+  },
+  "title": "How to fix cold start latency in AI sandboxes: techniques and tradeoffs",
+  "summary": "Learn why cold starts hit AI agents harder than web apps and how to fix them with pre-warming, snapshots, co-location, and perpetual standby.",
+  "published_at": "2026-05-21T18:26:23+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/05/ba/ba4da297a5c4f426b6fbe0d26e6b2609cd6f98aab49e4a67c72c9ed256a97565/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/05/ba/ba4da297a5c4f426b6fbe0d26e6b2609cd6f98aab49e4a67c72c9ed256a97565/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26724,
+    "sha256": "sha256:49233bf9f5961e717a9e65ffc85a474ec6bb700420cb91e9d2bc1608958156ee",
+    "normalized_content_hash": "sha256:edd6c81454c73d4d672a630b32b60d5204a25b0e16b5cc8fa90e523a41210874"
+  },
+  "provenance": {
+    "source_item_id": "b8f57ee1-9309-4719-981a-92c78d09e625",
+    "external_id": "https://blaxel.ai/blog/how-to-fix-cold-start-latency-for-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b4845e5c3fc1e0058901dc66cb4c840ea510fdc78671a3117a7752e116d461de",
+  "company": {
+    "key": "yc-autumn",
+    "name": "Autumn"
+  },
+  "source": {
+    "id": "yc-autumn-news-import-b2979559dee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://useautumn.com/blog/building-an-api-for-agents",
+    "canonical": "https://useautumn.com/blog/building-an-api-for-agents"
+  },
+  "title": "Building an API for agents",
+  "summary": "Some patterns we've found ourselves adopting as we design Autumn's API increasingly for agents instead of humans.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:43:21.090032+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T02:38:41.109775+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-autumn/2026/07/b4/b4845e5c3fc1e0058901dc66cb4c840ea510fdc78671a3117a7752e116d461de/article.md",
+    "record": "articles/v1/9c/yc-autumn/2026/07/b4/b4845e5c3fc1e0058901dc66cb4c840ea510fdc78671a3117a7752e116d461de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6629,
+    "sha256": "sha256:6d9097e34142fa9c848d4b8ebce2633ea7e50a502e0c884b72a7c841ceb602f1",
+    "normalized_content_hash": "sha256:0fd387c757afc27dc1ae70f3f30a95b01a526d23e6407e2c25974e7db52c9734"
+  },
+  "provenance": {
+    "source_item_id": "3e745eab-ffe0-44b1-8bb1-6b11447d0516",
+    "external_id": "https://useautumn.com/blog/building-an-api-for-agents"
+  }
+}

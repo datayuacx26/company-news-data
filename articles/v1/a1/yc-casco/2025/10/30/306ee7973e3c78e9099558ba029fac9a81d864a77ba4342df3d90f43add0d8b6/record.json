@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "306ee7973e3c78e9099558ba029fac9a81d864a77ba4342df3d90f43add0d8b6",
+  "company": {
+    "key": "yc-casco",
+    "name": "Casco"
+  },
+  "source": {
+    "id": "yc-casco-news-import-3e4503ef629e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://casco.com/blog/the-importance-of-rate-limiting",
+    "canonical": "https://casco.com/blog/the-importance-of-rate-limiting"
+  },
+  "title": "Why You Need Account-Based Rate Limits",
+  "summary": "The Importance of Rate Limiting.",
+  "published_at": "2025-10-13T20:26:00+00:00",
+  "first_seen_at": "2026-07-21T12:40:29.812234+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-30T10:52:56.528750+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-casco/2025/10/30/306ee7973e3c78e9099558ba029fac9a81d864a77ba4342df3d90f43add0d8b6/article.md",
+    "record": "articles/v1/a1/yc-casco/2025/10/30/306ee7973e3c78e9099558ba029fac9a81d864a77ba4342df3d90f43add0d8b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8081,
+    "sha256": "sha256:5b7d0f5945daa93301be1c50c75094f22ad019798d12e9b9ce7528499cd3f136",
+    "normalized_content_hash": "sha256:a014050e32684836c2b62c9ea256790addf7e684a783ec46c9ebfbee7c53cc97"
+  },
+  "provenance": {
+    "source_item_id": "dda90d4c-46d7-4a3d-9247-9bd24c0885fd",
+    "external_id": "https://casco.com/blog/the-importance-of-rate-limiting"
+  }
+}

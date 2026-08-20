@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "b2gold-corp-common-shares-canada",
+    "name": "B2Gold Corp Common shares (Canada)"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-04-01T11:00:00+00:00",
+  "last_published_at": "2026-08-07T15:03:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/92/b2gold-corp-common-shares-canada/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 56592,
+        "sha256": "sha256:e041db9d089cfeb17efebb81f6826cbcc3c9ceb32453a7735573eb75c6aeb04b",
+        "newest_at": "2026-08-07T15:03:00+00:00",
+        "oldest_at": "2026-04-01T11:00:00+00:00"
+      }
+    ]
+  }
+}

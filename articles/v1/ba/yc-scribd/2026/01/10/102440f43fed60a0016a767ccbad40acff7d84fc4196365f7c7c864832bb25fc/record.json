@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "102440f43fed60a0016a767ccbad40acff7d84fc4196365f7c7c864832bb25fc",
+  "company": {
+    "key": "yc-scribd",
+    "name": "Scribd"
+  },
+  "source": {
+    "id": "yc-scribd-atom-fa6b4578b753",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech.scribd.com/blog/2026/teraform-oidc-module.html",
+    "canonical": "https://tech.scribd.com/blog/2026/teraform-oidc-module.html"
+  },
+  "title": "Don’t hardcode IAM credentials in GitHub!",
+  "summary": "Scribd deploys a lot of code from GitHub to AWS using GitHub Actions, which means many of our Actions need to access AWS resources. Managing AWS API keys and tokens for different IAM users is time-consuming, brittle, and insecure. Managing key-distribution between AWS and GitHub also makes it difficult to track which keys go where, when they should be rotated, and what permissions those keys have. Fortunately AWS supports creating OpenID Connect identity providers which is an ideal tool handle this kind of cross-cloud authentication in a more maintainable way.",
+  "published_at": "2026-01-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:26:02.289998+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-08-20T02:21:21.168233+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-scribd/2026/01/10/102440f43fed60a0016a767ccbad40acff7d84fc4196365f7c7c864832bb25fc/article.md",
+    "record": "articles/v1/ba/yc-scribd/2026/01/10/102440f43fed60a0016a767ccbad40acff7d84fc4196365f7c7c864832bb25fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3746,
+    "sha256": "sha256:628cc7aab617de5f67ed15f85d937af15d9b5b6c963c29c653222ef2c789c87a",
+    "normalized_content_hash": "sha256:aeac934af8acfd024defc87edcb8406950a9295ec1b5bafaeffeaeb966ea005c"
+  },
+  "provenance": {
+    "source_item_id": "a5522e91-1724-4387-b5d8-0b01f5aed03d",
+    "external_id": "https://tech.scribd.com/blog/2026/teraform-oidc-module"
+  }
+}

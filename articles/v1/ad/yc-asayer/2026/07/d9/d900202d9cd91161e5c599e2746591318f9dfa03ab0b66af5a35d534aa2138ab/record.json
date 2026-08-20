@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d900202d9cd91161e5c599e2746591318f9dfa03ab0b66af5a35d534aa2138ab",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/how-llms-work/",
+    "canonical": "https://blog.openreplay.com/how-llms-work/"
+  },
+  "title": "How LLMs Actually Work",
+  "summary": "How LLMs work: tokens, embeddings, transformer attention, training, sampling, temperature, hallucinations, and why ChatGPT can get things wrong.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:22:59.059570+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/d9/d900202d9cd91161e5c599e2746591318f9dfa03ab0b66af5a35d534aa2138ab/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/d9/d900202d9cd91161e5c599e2746591318f9dfa03ab0b66af5a35d534aa2138ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20982,
+    "sha256": "sha256:6ca8eb123edf844ab70b8c87ec76513338373d689fcbb88303973f38f4a38ed3",
+    "normalized_content_hash": "sha256:721bcea9360740ccf37029862b7e835cb07cda25b0d011d4981b7ad8b34cbf1a"
+  },
+  "provenance": {
+    "source_item_id": "35851e33-1445-4f3a-b924-d06e790b46f4",
+    "external_id": "https://blog.openreplay.com/how-llms-work/"
+  }
+}

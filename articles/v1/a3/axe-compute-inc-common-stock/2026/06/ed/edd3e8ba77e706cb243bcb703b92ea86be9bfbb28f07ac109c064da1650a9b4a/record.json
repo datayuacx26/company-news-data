@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "edd3e8ba77e706cb243bcb703b92ea86be9bfbb28f07ac109c064da1650a9b4a",
+  "company": {
+    "key": "axe-compute-inc-common-stock",
+    "name": "Axe Compute Inc."
+  },
+  "source": {
+    "id": "axe-compute-inc-common-stock-rss-ffaba1d535a1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://axecompute.com/ai-inference-latency-geography/",
+    "canonical": "https://axecompute.com/ai-inference-latency-geography/"
+  },
+  "title": "Latency is a geography problem",
+  "summary": "Real-time AI inference latency is set by fiber distance, not GPU speed. We quantify the propagation cost by region and show when bare-metal compute in-region is the only answer.",
+  "published_at": "2026-06-25T03:36:16+00:00",
+  "first_seen_at": "2026-07-26T23:17:51.553128+00:00",
+  "fetched_at": "2026-07-28T20:48:18.651537+00:00",
+  "last_updated_at": "2026-07-28T20:48:22.845653+00:00",
+  "paths": {
+    "article": "articles/v1/a3/axe-compute-inc-common-stock/2026/06/ed/edd3e8ba77e706cb243bcb703b92ea86be9bfbb28f07ac109c064da1650a9b4a/article.md",
+    "record": "articles/v1/a3/axe-compute-inc-common-stock/2026/06/ed/edd3e8ba77e706cb243bcb703b92ea86be9bfbb28f07ac109c064da1650a9b4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15355,
+    "sha256": "sha256:3039c1645f30859e0376400776e80dde82240ad8f67071b313ac8b24274c09b1",
+    "normalized_content_hash": "sha256:bfb270a0d81b97e5114616d106a978a0d9e350cc159c6cd5938e9f306b837bdb"
+  },
+  "provenance": {
+    "source_item_id": "f1398a1b-9515-47f4-9050-9cea6533fca8",
+    "external_id": "https://axecompute.com/?p=1049"
+  }
+}

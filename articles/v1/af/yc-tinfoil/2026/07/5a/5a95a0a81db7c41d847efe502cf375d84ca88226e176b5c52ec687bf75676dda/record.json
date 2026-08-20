@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a95a0a81db7c41d847efe502cf375d84ca88226e176b5c52ec687bf75676dda",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2026-07-14-secure-prompt-caching",
+    "canonical": "https://tinfoil.sh/blog/2026-07-14-secure-prompt-caching"
+  },
+  "title": "Architecting secure prompt caching",
+  "summary": "How Tinfoil implemented prompt caching for the Inference API without compromising on privacy, using client-side cache secrets.",
+  "published_at": "2026-07-14T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2026/07/5a/5a95a0a81db7c41d847efe502cf375d84ca88226e176b5c52ec687bf75676dda/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2026/07/5a/5a95a0a81db7c41d847efe502cf375d84ca88226e176b5c52ec687bf75676dda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13146,
+    "sha256": "sha256:8211573d5d3ae658fde095087563453e74c1cc759a3d76a466e031e2b2e2e9df",
+    "normalized_content_hash": "sha256:04863c0a9da5cdb092aa835cdf20b92a041df43175e74d807a5f177e4b3c8b98"
+  },
+  "provenance": {
+    "source_item_id": "efc54645-27e8-4c8c-98b0-291a70f4852c",
+    "external_id": "https://tinfoil.sh/blog/2026-07-14-secure-prompt-caching"
+  }
+}

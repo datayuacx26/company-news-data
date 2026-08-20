@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8253a77607c413b1f3dee1f20da0a22a481eae7f5ebe844a3d262a341d7e62c4",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/husky-query-architecture/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/husky-query-architecture/"
+  },
+  "title": "Inside Husky’s query engine: Real-time access to 100 trillion events",
+  "summary": "See how Husky enables interactive querying across 100 trillion events daily by combining caching, smart indexing, and query pruning.",
+  "published_at": "2025-10-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/10/82/8253a77607c413b1f3dee1f20da0a22a481eae7f5ebe844a3d262a341d7e62c4/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/10/82/8253a77607c413b1f3dee1f20da0a22a481eae7f5ebe844a3d262a341d7e62c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 39680,
+    "sha256": "sha256:9fd04a75684e59adff10c8958ab9cacbecaa8c83929dfb248a0093c6726e085e",
+    "normalized_content_hash": "sha256:5ce9d86601b3d30eeaaeb60f4986ccce541df7d7fe1ede1285d640246aa93955"
+  },
+  "provenance": {
+    "source_item_id": "b8da28e6-1a07-4438-bdd9-fa5477f68151",
+    "external_id": "https://www.datadoghq.com/blog/engineering/husky-query-architecture/"
+  }
+}

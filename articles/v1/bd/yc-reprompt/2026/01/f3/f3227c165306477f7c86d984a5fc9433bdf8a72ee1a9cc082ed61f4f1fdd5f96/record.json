@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f3227c165306477f7c86d984a5fc9433bdf8a72ee1a9cc082ed61f4f1fdd5f96",
+  "company": {
+    "key": "yc-reprompt",
+    "name": "Reprompt"
+  },
+  "source": {
+    "id": "yc-reprompt-news-import-f6b2fbe9777c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://repromptai.com/blog/web-agents-200m-poi-data",
+    "canonical": "https://repromptai.com/blog/web-agents-200m-poi-data"
+  },
+  "title": "Web agents on 200M+ POI data",
+  "summary": "How we evaluate agent performance at scale, the tooling patterns we've adopted, and lessons learned from building production-grade enrichment pipelines on over 200 million data points.",
+  "published_at": "2026-01-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:37:40.595312+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-20T02:21:13.738975+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-reprompt/2026/01/f3/f3227c165306477f7c86d984a5fc9433bdf8a72ee1a9cc082ed61f4f1fdd5f96/article.md",
+    "record": "articles/v1/bd/yc-reprompt/2026/01/f3/f3227c165306477f7c86d984a5fc9433bdf8a72ee1a9cc082ed61f4f1fdd5f96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4885,
+    "sha256": "sha256:2d4803520a6d2acf912a9c8907f2b8c06d5afd5f394b90308c58ea92fdad1ace",
+    "normalized_content_hash": "sha256:cfb595dcfcaf73af8d0737752f2a21f2f4f99c7c65a2ffbf3b1524e4259d881b"
+  },
+  "provenance": {
+    "source_item_id": "ec681fa2-3ea3-4c69-b37b-b720fc20b217",
+    "external_id": "https://repromptai.com/blog/web-agents-200m-poi-data"
+  }
+}

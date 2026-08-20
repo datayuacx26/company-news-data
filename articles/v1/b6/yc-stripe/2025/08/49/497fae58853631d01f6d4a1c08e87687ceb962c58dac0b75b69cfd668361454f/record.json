@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "497fae58853631d01f6d4a1c08e87687ceb962c58dac0b75b69cfd668361454f",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-3",
+    "canonical": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-3"
+  },
+  "title": "Real-time vs batch reconciliation: Practical patterns for keeping data in sync",
+  "summary": "Learn effective data reconciliation strategies to keep product information synchronized between your internal systems and Stripe. Explore real-time vs batch processing tools, validation techniques, and best practices for maintaining consistent data across multiple platforms as your business scales.",
+  "published_at": "2025-08-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/08/49/497fae58853631d01f6d4a1c08e87687ceb962c58dac0b75b69cfd668361454f/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/08/49/497fae58853631d01f6d4a1c08e87687ceb962c58dac0b75b69cfd668361454f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6154,
+    "sha256": "sha256:4c00d2f5196c4e2a4f81fb97dae81b0901182842b319bbcd427e54afd91a3316",
+    "normalized_content_hash": "sha256:4761919e85d277b502cdf4e1ae7a565ae36a64951828a7ddaf95c31a6562d2cb"
+  },
+  "provenance": {
+    "source_item_id": "23f3d357-c046-4969-8c77-14811e3e0af2",
+    "external_id": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-3"
+  }
+}

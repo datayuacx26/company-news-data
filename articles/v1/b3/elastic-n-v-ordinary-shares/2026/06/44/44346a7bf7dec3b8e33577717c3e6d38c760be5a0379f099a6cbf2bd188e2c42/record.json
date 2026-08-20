@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44346a7bf7dec3b8e33577717c3e6d38c760be5a0379f099a6cbf2bd188e2c42",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/oxloader-malware-loader-infostealer",
+    "canonical": "https://www.elastic.co/security-labs/oxloader-malware-loader-infostealer"
+  },
+  "title": "Lost in relocation: analysis of a new loader distributing CASTLESTEALER",
+  "summary": "Elastic Security Labs uncovers OXLOADER: a new Windows loader using .reloc section abuse and anti-VM checks to drop infostealer malware via Google Ads.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-07T11:17:01.761853+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/44/44346a7bf7dec3b8e33577717c3e6d38c760be5a0379f099a6cbf2bd188e2c42/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/44/44346a7bf7dec3b8e33577717c3e6d38c760be5a0379f099a6cbf2bd188e2c42/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22234,
+    "sha256": "sha256:ef3b55e6b6bc3efa3e41753bc4929c4fdad81e120c7d73d467705fb835b004d7",
+    "normalized_content_hash": "sha256:77235c18b6022a75cab986ad5eb5e11aabb16f2c1a58a32e1fd1e1fbf564445a"
+  },
+  "provenance": {
+    "source_item_id": "2cc6e4a2-01a7-4eb9-b5e1-c09b01b129bd",
+    "external_id": "oxloader-malware-loader-infostealer"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "duos-technologies-group-inc-common-stock",
+    "name": "Duos Technologies Group Inc."
+  },
+  "record_count": 16,
+  "first_published_at": "2026-05-19T08:35:00+00:00",
+  "last_published_at": "2026-08-17T16:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/82/duos-technologies-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 17517,
+        "sha256": "sha256:57f982d8e6cbc23d7f2b3c496617edf2000f0c9d6362e83d538a4700b134b76b",
+        "newest_at": "2026-08-17T16:00:00+00:00",
+        "oldest_at": "2026-05-19T08:35:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d2f57d5547c505db835b0d586cc340bab3e8055498b7c2c92b2a5826730c0e4",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/azure-ai-foundry",
+    "canonical": "https://www.windmill.dev/changelog/azure-ai-foundry"
+  },
+  "title": "Azure AI Foundry support for Windmill AI",
+  "summary": "Azure AI Foundry is now natively supported as an AI provider in Windmill, exposing the broader Foundry catalog (OpenAI models plus Llama, DeepSeek, Mistral, Phi and more) over an OpenAI-compatible API in both AI chat and AI agent steps.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/9d/9d2f57d5547c505db835b0d586cc340bab3e8055498b7c2c92b2a5826730c0e4/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/9d/9d2f57d5547c505db835b0d586cc340bab3e8055498b7c2c92b2a5826730c0e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1364,
+    "sha256": "sha256:b235f3a2e1d0b1b5fd63dd20a16cb3c192c03c3d31f096b81123921c7de28f02",
+    "normalized_content_hash": "sha256:d7cc542d4050f7628fed67e90798bcea161710bbbaa1b42e08fd13490cb734ca"
+  },
+  "provenance": {
+    "source_item_id": "ed995365-1ba0-4168-9f2e-c1b232d68867",
+    "external_id": "https://www.windmill.dev/changelog/azure-ai-foundry"
+  }
+}

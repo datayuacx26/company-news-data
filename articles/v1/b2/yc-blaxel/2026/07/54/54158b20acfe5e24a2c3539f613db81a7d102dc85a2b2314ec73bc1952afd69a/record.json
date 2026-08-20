@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54158b20acfe5e24a2c3539f613db81a7d102dc85a2b2314ec73bc1952afd69a",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/multi-tenant-isolation-ai-agents",
+    "canonical": "https://blaxel.ai/blog/multi-tenant-isolation-ai-agents"
+  },
+  "title": "Multi-tenant AI agent isolation for SaaS platforms",
+  "summary": "Learn how to architect multi-tenant isolation for AI agents across compute, data, identity, and orchestration layers to prevent cross-tenant data leakage.",
+  "published_at": "2026-07-30T14:29:36+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:52:31.063760+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/07/54/54158b20acfe5e24a2c3539f613db81a7d102dc85a2b2314ec73bc1952afd69a/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/07/54/54158b20acfe5e24a2c3539f613db81a7d102dc85a2b2314ec73bc1952afd69a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24961,
+    "sha256": "sha256:29f911a5d36ca88eccd933bc6441333e13eadf689a9abdeeadacb68476885f54",
+    "normalized_content_hash": "sha256:77350ea6c6a3de76ee6c305779b7971e2e0d5cc4eeca12928c2b5dbd5eca92cb"
+  },
+  "provenance": {
+    "source_item_id": "0d50008c-85ed-436b-82d6-9097f3798371",
+    "external_id": "https://blaxel.ai/blog/multi-tenant-isolation-ai-agents"
+  }
+}

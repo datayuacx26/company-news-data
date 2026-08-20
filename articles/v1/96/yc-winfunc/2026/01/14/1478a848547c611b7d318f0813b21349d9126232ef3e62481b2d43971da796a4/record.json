@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1478a848547c611b7d318f0813b21349d9126232ef3e62481b2d43971da796a4",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-23864",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-23864"
+  },
+  "title": "RSC reply decoder DoS via $K FormData amplification (CVE-2026-23864)",
+  "summary": "The server-side React Flight reply decoder treats $K<id tokens as nested FormData and reconstructs them by scanning the backing request form and copying…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/14/1478a848547c611b7d318f0813b21349d9126232ef3e62481b2d43971da796a4/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/14/1478a848547c611b7d318f0813b21349d9126232ef3e62481b2d43971da796a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6906,
+    "sha256": "sha256:3d944ad1b37ea188f04eb50316b8ee929ee644ce0fa8bc3b3d560b02a381a4e6",
+    "normalized_content_hash": "sha256:488c1b4cfec209b68f18119aa003f62517b8c886cf4207f4bf819819812d4dd3"
+  },
+  "provenance": {
+    "source_item_id": "d82927bf-3b68-472c-ab7b-b75f2681e505",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-23864"
+  }
+}

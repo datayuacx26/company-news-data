@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bcd198623b36fd5aedcb994c3c6c77a1e75b58ace097b2a10fa245e7f094abd",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/from-alert-to-answer-a-hands-on-investigation-with-trace-analysis-in-mezmo",
+    "canonical": "https://www.mezmo.com/blog/from-alert-to-answer-a-hands-on-investigation-with-trace-analysis-in-mezmo"
+  },
+  "title": "From alert to answer: a hands-on investigation with trace analysis in Mezmo",
+  "summary": "Walk through OpenTelemetry trace analysis in Mezmo, from service maps and anomalous traces to AI-powered investigations and root cause analysis.",
+  "published_at": null,
+  "first_seen_at": "2026-08-19T05:27:43.720767+00:00",
+  "fetched_at": "2026-08-19T05:27:46.723420+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/08/0b/0bcd198623b36fd5aedcb994c3c6c77a1e75b58ace097b2a10fa245e7f094abd/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/08/0b/0bcd198623b36fd5aedcb994c3c6c77a1e75b58ace097b2a10fa245e7f094abd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16360,
+    "sha256": "sha256:1be3b75e4366758196935ce7ffda127dd7be00fc06ec01bb3c6dd20f6f5fec1e",
+    "normalized_content_hash": "sha256:e6711d429de9c882d575bb9e09b047d36b31af22e66cb8fe8aff287aeb74e0dc"
+  },
+  "provenance": {
+    "source_item_id": "ceb4ba45-8229-42a3-bb08-5693a7c1f09e",
+    "external_id": "https://www.mezmo.com/blog/from-alert-to-answer-a-hands-on-investigation-with-trace-analysis-in-mezmo"
+  }
+}

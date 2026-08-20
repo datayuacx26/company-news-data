@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e5a6fa6df908af4c21971bc2a51f00ca33860afc1cd840f9d545ab66fb67d4b4",
+  "company": {
+    "key": "yc-evidently-ai",
+    "name": "Evidently AI"
+  },
+  "source": {
+    "id": "yc-evidently-ai-news-import-f9abf95c6ead",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evidentlyai.com/blog/open-source-llm-tracing",
+    "canonical": "https://www.evidentlyai.com/blog/open-source-llm-tracing"
+  },
+  "title": "Evidently 0.7.17: open-source LLM tracing and dataset management",
+  "summary": "We released a major update that brings previously closed functionality to the open-source. Evidently Open-source now supports data storage backend, raw dataset management, LLM tracing storage and viewer.",
+  "published_at": "2025-11-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:14:03.070856+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-20T00:18:03.155881+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-evidently-ai/2025/11/e5/e5a6fa6df908af4c21971bc2a51f00ca33860afc1cd840f9d545ab66fb67d4b4/article.md",
+    "record": "articles/v1/93/yc-evidently-ai/2025/11/e5/e5a6fa6df908af4c21971bc2a51f00ca33860afc1cd840f9d545ab66fb67d4b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6635,
+    "sha256": "sha256:5747b56aa010bcc2a5d5d7eb2e5ec010bbe78db0a6d0595f9f78a4936b8e9036",
+    "normalized_content_hash": "sha256:590211ae1f18272fb73fabb643508e1f1eac2f293474e9e1e22ed277309e471b"
+  },
+  "provenance": {
+    "source_item_id": "26d09aad-af2b-4290-b8db-6204ad156df8",
+    "external_id": "https://www.evidentlyai.com/blog/open-source-llm-tracing"
+  }
+}

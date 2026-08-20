@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "647a0dc11c8a7603bba877873fd168bbf6ec36fd8f76fced67b9bcf30d2ed10f",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
+    "canonical": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/"
+  },
+  "title": "Russian Global Webmail Espionage",
+  "summary": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials.",
+  "published_at": "2026-07-23T14:10:53+00:00",
+  "first_seen_at": "2026-07-23T14:22:59.818071+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/64/647a0dc11c8a7603bba877873fd168bbf6ec36fd8f76fced67b9bcf30d2ed10f/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/64/647a0dc11c8a7603bba877873fd168bbf6ec36fd8f76fced67b9bcf30d2ed10f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7486,
+    "sha256": "sha256:efe23555a1ef0173a52dae6f43dac459b9e2e73658ddb13fcf2c36f493acf619",
+    "normalized_content_hash": "sha256:a8921976746da6e93ccd081324beb8f864cd32d3174fa387f2b2544e89fe73bb"
+  },
+  "provenance": {
+    "source_item_id": "1bdaadaa-f7ee-4ce1-a982-6ee8f3b57630",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=184075"
+  }
+}

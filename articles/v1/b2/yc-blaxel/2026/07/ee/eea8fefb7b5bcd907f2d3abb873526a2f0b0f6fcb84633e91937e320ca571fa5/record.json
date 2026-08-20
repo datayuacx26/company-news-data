@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eea8fefb7b5bcd907f2d3abb873526a2f0b0f6fcb84633e91937e320ca571fa5",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/cold-start-latency-agent-tool-calls",
+    "canonical": "https://blaxel.ai/blog/cold-start-latency-agent-tool-calls"
+  },
+  "title": "The compounding cost of cold starts across agent tool calls",
+  "summary": "Cold start latency compounds across agent tool calls, adding seconds of overhead per interaction. Learn how to measure, quantify, and eliminate it.",
+  "published_at": "2026-07-07T01:31:20+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/07/ee/eea8fefb7b5bcd907f2d3abb873526a2f0b0f6fcb84633e91937e320ca571fa5/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/07/ee/eea8fefb7b5bcd907f2d3abb873526a2f0b0f6fcb84633e91937e320ca571fa5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20047,
+    "sha256": "sha256:54b66fe18e43861d8167b8758ea98cd27550f049b1042c39b52c195af18d16bc",
+    "normalized_content_hash": "sha256:bb48adb57cb513a4e87fb55db35ccfacd4708aa91fe47c315a55fdb259fa00cc"
+  },
+  "provenance": {
+    "source_item_id": "657b6578-4422-4689-b39e-76a778ee9539",
+    "external_id": "https://blaxel.ai/blog/cold-start-latency-agent-tool-calls"
+  }
+}

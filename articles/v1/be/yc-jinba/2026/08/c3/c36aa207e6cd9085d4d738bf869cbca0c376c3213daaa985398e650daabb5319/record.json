@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c36aa207e6cd9085d4d738bf869cbca0c376c3213daaa985398e650daabb5319",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/ai-inference-cost-statistics",
+    "canonical": "https://jinba.io/blog/ai-inference-cost-statistics"
+  },
+  "title": "AI Inference Cost in 2026: A Forensic Breakdown of the Enterprise Invoice",
+  "summary": "Enterprise AI inference cost now consumes 55–80% of GPU spend, yet per-token prices fell 92% in 17 months. This forensic breakdown explains the Jevons paradox behind every growing inference invoice, with sourced dollar figures for H100 on-demand rates, hidden reasoning tokens, context bloat, and idle GPU waste.",
+  "published_at": "2026-08-16T16:00:00+00:00",
+  "first_seen_at": "2026-08-16T09:48:29.699791+00:00",
+  "fetched_at": "2026-08-16T16:00:02.274049+00:00",
+  "last_updated_at": "2026-08-20T00:02:43.534284+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/c3/c36aa207e6cd9085d4d738bf869cbca0c376c3213daaa985398e650daabb5319/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/c3/c36aa207e6cd9085d4d738bf869cbca0c376c3213daaa985398e650daabb5319/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21978,
+    "sha256": "sha256:a973c895e95d9a98eade73610593ed26a941f8c28453882c7daae95cbefe85ea",
+    "normalized_content_hash": "sha256:46d7526ce6fc95bd086b69a3089e87f09cfaecbe49c15d9601683a6f90712122"
+  },
+  "provenance": {
+    "source_item_id": "7108e2cd-42a1-40ad-aba2-9a70a48c1e5b",
+    "external_id": "https://jinba.io/blog/ai-inference-cost-statistics"
+  }
+}

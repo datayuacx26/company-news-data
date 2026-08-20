@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61db4715f451af8fbf83b8cebf6fc12feb144ebc2ecf338e85d2f3082dd8fb73",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/prompt-caching-input-costs-real-problem",
+    "canonical": "https://jinba.io/blog/prompt-caching-input-costs-real-problem"
+  },
+  "title": "Prompt Caching Slashes Input Costs Without Solving the Real Problem",
+  "summary": "Prompt caching delivers a real 75–90% discount on cached input tokens across Anthropic, OpenAI, AWS Bedrock, and Google Gemini — but it never touches output tokens, which dominate spend at scale. Engineers who treat it as a cost solution are discounting a symptom while the actual line item keeps compounding.",
+  "published_at": "2026-08-17T12:40:43.069+00:00",
+  "first_seen_at": "2026-08-18T04:43:40.400777+00:00",
+  "fetched_at": "2026-08-18T04:43:41.951356+00:00",
+  "last_updated_at": "2026-08-20T00:02:43.534284+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/61/61db4715f451af8fbf83b8cebf6fc12feb144ebc2ecf338e85d2f3082dd8fb73/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/61/61db4715f451af8fbf83b8cebf6fc12feb144ebc2ecf338e85d2f3082dd8fb73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18747,
+    "sha256": "sha256:9ce13204e3cdde555ab3547ccacc8ed287eabe0bd09e9ede5c69eeb51dc874b6",
+    "normalized_content_hash": "sha256:07aa47a9c761086a4201ff941f8b8bee92a127c9c13cfe2da470170e89c8f0b2"
+  },
+  "provenance": {
+    "source_item_id": "69d7b3d4-0137-4863-8d03-6a6b13a653bc",
+    "external_id": "https://jinba.io/blog/prompt-caching-input-costs-real-problem"
+  }
+}

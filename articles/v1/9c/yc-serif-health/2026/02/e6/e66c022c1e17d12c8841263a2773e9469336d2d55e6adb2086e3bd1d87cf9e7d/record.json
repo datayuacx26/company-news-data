@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e66c022c1e17d12c8841263a2773e9469336d2d55e6adb2086e3bd1d87cf9e7d",
+  "company": {
+    "key": "yc-serif-health",
+    "name": "Serif Health"
+  },
+  "source": {
+    "id": "yc-serif-health-news-import-98e88b19e297",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.serifhealth.com/blog/tic-2-schema-adoption-analysis",
+    "canonical": "https://www.serifhealth.com/blog/tic-2-schema-adoption-analysis"
+  },
+  "title": "TiC 2.0 Adoption: Real Progress, Partial Compliance, and a Few New Headaches",
+  "summary": "CMS was explicit about the goals of TiC 2.0: reduce duplication, normalize file structure, and make machine-readable files more usable at scale. One month in, we’re seeing meaningful progress—and some familiar patterns of “compliance in name only.” But as always with TiC, the details matter. In this edition of MRF Processing Notes, I’ll break down the adoption of 2.0 and where it’s helping (or hurting) the cause of usable transparency data.",
+  "published_at": "2026-02-23T20:31:00+00:00",
+  "first_seen_at": "2026-07-24T01:12:39.675945+00:00",
+  "fetched_at": "2026-07-28T22:19:22.533448+00:00",
+  "last_updated_at": "2026-08-20T02:49:34.652326+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-serif-health/2026/02/e6/e66c022c1e17d12c8841263a2773e9469336d2d55e6adb2086e3bd1d87cf9e7d/article.md",
+    "record": "articles/v1/9c/yc-serif-health/2026/02/e6/e66c022c1e17d12c8841263a2773e9469336d2d55e6adb2086e3bd1d87cf9e7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14791,
+    "sha256": "sha256:8a72812940c83e83a80be13f0bc89320b898d25d75b78db9329bf064d7edb771",
+    "normalized_content_hash": "sha256:7bee2a92874c898832ffbd5d4217d6c7cc036d7a7b9dedd5c02630dfc6a66dff"
+  },
+  "provenance": {
+    "source_item_id": "ccb68f0a-8714-4d75-8ff1-39de821bd06d",
+    "external_id": "https://www.serifhealth.com/blog/tic-2-schema-adoption-analysis"
+  }
+}

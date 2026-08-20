@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb7e2e229827a1e065f77e0783745cd8ff22376f81afac39ca6c7a931f638659",
+  "company": {
+    "key": "yc-cofactor-genomics",
+    "name": "Cofactor Genomics"
+  },
+  "source": {
+    "id": "yc-cofactor-genomics-rss-8d01d31e56b4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://link.springer.com/article/10.1007/s00432-023-05205-z#new_tab",
+    "canonical": "https://link.springer.com/article/10.1007/s00432-023-05205-z"
+  },
+  "title": "Multidimensional biomarker predicts disease control",
+  "summary": "Purpose Anti-PD-1 therapy provides clinical benefit in 40–50% of patients with relapsed and/or metastatic head and neck squamous cell carcinoma (RM-HNSCC). Selection of anti- PD-1 therapy is typically based on patient PD-L1 immunohistochemistry (IHC) which has low specificity for predicting disease control. Therefore, there is a critical need for a clinical biomarker that will predict clinical benefit to anti-PD-1 treatment with high specificity. Methods Clinical treatment and outcomes data for 103 RM-HNSCC patients were paired with RNA-sequencing data from formalin-fixed patient samples. Using logistic regression methods, we developed a novel biomarker classifier based on expression patterns in the tumor immune microenvironment to predict disease control with monotherapy PD-1 inhibitors (pembrolizumab and nivolumab). The performance of the biomarker was internally validated using out-of-bag methods. Results The biomarker significantly predicted disease control (65% in predicted non-progressors vs. 17% in predicted progressors, p < 0.001) and was significantly correlated with overall survival (OS; p = 0.004). In addition, the biomarker outperformed PD-L1 IHC across numerous metrics including sensitivity (0.79 vs 0.64, respectively; p = 0.005) and specificity (0.70 vs 0.61, respectively; p = 0.009). Conclusion This novel assay uses tumor immune microenvironment expression data to predict disease control and OS with high sensitivity and specificity in patients with RM-HNSCC treated with anti-PD-1 monotherapy.",
+  "published_at": "2023-11-20T22:10:29+00:00",
+  "first_seen_at": "2026-07-20T23:20:23.761393+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T03:01:31.959854+00:00",
+  "paths": {
+    "article": "articles/v1/86/yc-cofactor-genomics/2023/11/bb/bb7e2e229827a1e065f77e0783745cd8ff22376f81afac39ca6c7a931f638659/article.md",
+    "record": "articles/v1/86/yc-cofactor-genomics/2023/11/bb/bb7e2e229827a1e065f77e0783745cd8ff22376f81afac39ca6c7a931f638659/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 36531,
+    "sha256": "sha256:c20d9f26942d8e6e78862d420ef8914e43962b0fd84e4c02791330711b14026d",
+    "normalized_content_hash": "sha256:690da3f191df28c817ce79af3e037daf4c3cd1d994ff7515ac45c981aeb107e3"
+  },
+  "provenance": {
+    "source_item_id": "deda298e-de62-4ec0-989f-2542da6ef774",
+    "external_id": "https://cofactorgenomics.com/?p=18721"
+  }
+}

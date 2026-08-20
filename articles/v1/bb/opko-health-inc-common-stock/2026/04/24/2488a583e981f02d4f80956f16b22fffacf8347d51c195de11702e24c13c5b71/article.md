@@ -1,0 +1,76 @@
+---
+schema_version: "1.0.0"
+document_id: "2488a583e981f02d4f80956f16b22fffacf8347d51c195de11702e24c13c5b71"
+company_key: "opko-health-inc-common-stock"
+company: "OPKO Health Inc."
+source_id: "opko-health-inc-common-stock-rss-30e738c91e49"
+canonical_url: "https://www.opko.com/investors/news-events/press-releases/detail/540/opko-healths-modex-therapeutics-initiates-clinical-trial-of-mdx2301-for-the-prevention-of-covid-19"
+published_at: "2026-04-08T12:00:00+00:00"
+first_seen_at: "2026-07-20T23:17:40.265581+00:00"
+fetched_at: "2026-07-28T22:15:58.980681+00:00"
+content_hash: "sha256:bc8ca8ae2852bbee8fd366d2e412f0dfdda4364827ed2ca821985f6b9ea7baef"
+---
+
+# OPKO Health’s ModeX Therapeutics Initiates Clinical Trial of MDX2301 for the Prevention of COVID-19
+
+# OPKO Health’s ModeX Therapeutics Initiates Clinical Trial of MDX2301 for the Prevention of COVID-19
+
+
+April 08, 2026 8:00am EDT[Download as PDF](https://d1io3yog0oux5.cloudfront.net/_58a1d2df0011f0c108f0b5e24aa58480/opko/news/2026-04-08_OPKO_Health_s_ModeX_Therapeutics_Initiates_540.pdf)
+
+
+### Subjects dosed in Phase 1 study evaluating safety and tolerability of a first-in-class multispecific antibody
+
+
+WESTON, Mass., April 08, 2026 (GLOBE NEWSWIRE) -- ModeX Therapeutics Inc., an OPKO Health company (NASDAQ: OPK), today announced that the first participants have been dosed in a Phase 1 clinical trial evaluating MDX2301 for the prevention of COVID-19. MDX2301 is a tetravalent bispecific antibody that has the potential to neutralize all known variants of SARS-CoV-2. The study is evaluating the safety and tolerability of MDX2301 administered via different routes in healthy volunteers and in adults at high risk for severe COVID-19. By combining multiple antibody binding domains in a single molecule, MDX2301 is designed to provide high potency and greater breadth compared to conventional monoclonal antibodies.
+
+
+“Despite progress in prevention and treatment, COVID-19 poses a significant public health risk, particularly for vulnerable populations,” said John Mascola, M.D, Chief Scientific Officer of ModeX Therapeutics. “This clinical trial represents an important milestone for the ModeX multispecific antibody platform. By incorporating distinct binding domains into a single tetravalent molecule, MDX2301 is designed to address the challenge of ongoing SARS-CoV2 evolution and deliver more broad and durable protection.”
+
+
+“SARS-CoV2 continues to circulate widely, posing a threat to individuals with immune impairment, including the elderly, cancer patients and the chronically ill. Our multispecific MDX2301 antibody neutralizes all known variants of the virus and has potential to protect such patients. If successful, the platform could also address other global health threats such as influenza and newly emerging viruses,” said Gary Nabel, M.D., Ph.D., President and CEO of ModeX and Chief Innovation Officer of OPKO Health.
+
+
+This Phase 1 trial is a randomized, double-blind, placebo-controlled, dose-escalation study primarily evaluating safety and tolerability, and secondarily evaluating pharmacokinetics, anti-drug antibodies, and neutralizing activity of MDX2301 administered by intravenous, intramuscular, or subcutaneous routes in healthy adults and adults at higher risk for severe COVID-19. The study is expected to enroll 80 participants. Additional information can be found at[NCT07445971](https://www.globenewswire.com/Tracker?data=uVExP48CqEuhtsbqQWITcKDqUqg1UEyhnwsK1B8xZiiBDz3NQuQ_Vjm92eVxVxwWqIb48QkcPivGAznJkK-kqZ7y4jAwtRJMZzhvjp-uNNz9gNhelSCIkjoHgODUtV1I3iocKjdE92W1upc__Xm1Hjh8_6OiaCwoJtMSqply-k8=) .
+
+
+This trial is being funded in whole with federal funds from the U.S. Department of Health and Human Services (HHS) Administration for Strategic Preparedness and Response (ASPR), Biomedical Advanced Research and Development Authority (BARDA), under contract number 75A50123C00056. The contract and federal funding are not an endorsement of the study results, product or company.
+
+
+**About MDX2301**
+MDX2301 is a **multispecific antibody therapy for the prevention of COVID-19** designed to neutralize diverse SARS-CoV-2 variants. The ModeX multispecific antibody format enables the rational combination of multiple binding sites in a single antibody, aiming to broaden coverage against current and future viral variants while enabling potent neutralization and the potential for enhanced therapeutic efficacy.
+
+
+**About ModeX Therapeutics**
+ModeX Therapeutics is a clinical-stage biopharmaceutical company developing innovative multispecific biologics for cancer, immunology, and infectious diseases. Its platforms unite the power of multiple biologics in a single molecule to create multispecific antibody therapeutics designed to address complex diseases. The ModeX pipeline includes first-in-class candidates for oncology indications against both solid and hematologic tumors, autoimmune and immunological diseases, and for infectious disease indications against the most pressing viral threats. Its founding team includes globally recognized medical innovators with proven track records of delivering breakthrough medicines for patients. ModeX Therapeutics Inc., an OPKO Health company (NASDAQ: OPK), is based in Weston, Massachusetts. For more information, visit[www.modextx.com](https://www.globenewswire.com/Tracker?data=Q1mgE2JwJhO7UJsDNhFenjmARK-tu0Mw9U51SdgTrRQFxnsj-tX2rtu5sRFWNOcO2xFgiyiBMufBZcZ6eXyPyAdbhkZ6hP66LfWOgpOv6xc=) .
+
+
+**About OPKO Health, Inc.**
+OPKO is a multinational biopharmaceutical and diagnostics company that seeks to establish industry-leading positions in large, rapidly growing markets by leveraging its discovery, development and commercialization expertise, and novel and proprietary technologies. For more information, visit[www.opko.com](https://www.globenewswire.com/Tracker?data=vLCQYsF3lIwO7UgMeGHNIawMe_O7V51G_eplZBhYapdfOZTRLO8zdzrf-DyxQYGU4Vz7o72n63AIeNMipdsAIw==) .
+
+
+***Cautionary Statement Regarding Forward-Looking Statements***
+*This press release contains "forward-looking statements," as that term is defined under the Private Securities Litigation Reform Act of 1995 (PSLRA), which statements may be identified by words such as "expects," "plans," "projects," "will," “could,” "may," "anticipates," "believes," "should," "intends," "estimates," and other words of similar meaning, including whether and when we will initiate and complete the clinical studies contemplated for MDX2301 and whether final study data will be positive, whether data will support marketing approval, our ability to develop and commercialize MDX2301, whether MDX2301 is capable of effectively preventing COVID-19, whether the multispecific design of MDX2301 will prove to provide higher potency and greater breadth compared to conventional monoclonal antibodies, whether MDX2301 will be safe, or have any impact on the severity of disease, expectations regarding the product, its efficacy, safety and market potential, the platform’s applicability for other viruses, as well as other non-historical statements about our expectations, beliefs or intentions regarding our business, technologies and products, financial condition, strategies or prospects. Many factors could cause our actual activities or results to differ materially from the activities and results anticipated in forward-looking statements. These factors include those described in our Annual Reports on Form 10-K filed and to be filed with the Securities and Exchange Commission and in our other filings with the Securities and Exchange Commission, as well as liquidity issues and the risks inherent in funding, developing and obtaining regulatory approvals of new, commercially-viable and competitive products and treatments, the success of our relationship with our commercial partners, that earlier clinical results of effectiveness and safety may not be reproducible or indicative of future results, and that currently available over-the-counter and prescription products, as well as products under development by others, may prove to be as or more effective than our products for the indications being studied. In addition, forward-looking statements may also be adversely affected by general market factors, competitive product development, product availability, federal and state regulations and legislation, the regulatory process for new products and indications, manufacturing issues that may arise, patent positions and litigation, among other factors. The forward-looking statements contained in this press release speak only as of the date the statements were made, and we do not undertake any obligation to update forward-looking statements. We intend that all forward-looking statements be subject to the safe-harbor provisions of the PSLRA.*
+
+
+**Contacts:**
+
+
+**Investors:**
+Alliance Advisors IR
+Yvonne Briggs, 310-691-7100
+[ybriggs@allianceadvisors.com](https://www.globenewswire.com/Tracker?data=in8mj9e3ozUa5ExhXneQacpttyryx3wKkvJyh7n86plcYbMTK2uen8FsgipJb7P2AvnsbYuivrlm30tmAIhIEVHVLXEvOicz1AhiwCs12nYHYL6mrVXJW9jWxY9a2JY0)
+or
+Bruce Voss, 310-691-7100
+[bvoss@allianceadvisors.com](https://www.globenewswire.com/Tracker?data=1Q4zcB2El_rUzxNP1JwdZS-U2WTQonsafL0dGTD0n5g8XPSWz2X8kZlA31lyzg8tdgBaIgL6ShNsKyN6iHFG448L9_no9Q6Voit_frK8F4uYDi8W2MHBtOVpplyDXhqa)
+
+
+**Media:**
+ModeX Media Relations
+[media@modextx.com](https://www.globenewswire.com/Tracker?data=-mgumrxHFMXuI1swJ36DQQH0WNnRD2DdfMj-6iBaO7G5P_d-8EF0eaetuQ3KFIslw8XxUzxri05wVlKEqF0Hxux558gDnkSbKJbDvMtAdOw=)
+
+
+Source: OPKO Health, Inc.
+
+
+Released April 8, 2026

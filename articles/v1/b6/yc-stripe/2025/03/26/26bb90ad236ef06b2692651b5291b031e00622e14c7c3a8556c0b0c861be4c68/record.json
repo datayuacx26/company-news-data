@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26bb90ad236ef06b2692651b5291b031e00622e14c7c3a8556c0b0c861be4c68",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/stripes-ai-assistant-vs-code",
+    "canonical": "https://stripe.dev/blog/stripes-ai-assistant-vs-code"
+  },
+  "title": "Stripe’s new AI Assistant in VS Code",
+  "summary": "Learn about the Stripe AI assistant in VS Code and how we built it, including technical details on retrieval, evaluations, measurement, and more.",
+  "published_at": "2025-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/03/26/26bb90ad236ef06b2692651b5291b031e00622e14c7c3a8556c0b0c861be4c68/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/03/26/26bb90ad236ef06b2692651b5291b031e00622e14c7c3a8556c0b0c861be4c68/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3054,
+    "sha256": "sha256:ad3cdb491d1942d636422ca5eb820547c9efc7cd7fca6d2c7873ec80c39eeec3",
+    "normalized_content_hash": "sha256:80c7a2d156543c1ee014645e797aba2300c65672f454e493d5ea3160f9108812"
+  },
+  "provenance": {
+    "source_item_id": "d5f1d267-4a3e-431a-adcf-52df00b86899",
+    "external_id": "https://stripe.dev/blog/stripes-ai-assistant-vs-code"
+  }
+}

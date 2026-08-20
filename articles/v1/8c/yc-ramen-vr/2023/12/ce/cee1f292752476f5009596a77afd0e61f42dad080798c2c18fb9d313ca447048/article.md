@@ -1,0 +1,112 @@
+---
+schema_version: "1.0.0"
+document_id: "cee1f292752476f5009596a77afd0e61f42dad080798c2c18fb9d313ca447048"
+company_key: "yc-ramen-vr"
+company: "Ramen VR"
+source_id: "yc-ramen-vr-atom-8d2a75475800"
+canonical_url: "https://zenithmmo.com/blogs/news/future-of-zenith-2-0-design-pillars"
+published_at: "2023-12-13T18:12:55+00:00"
+first_seen_at: "2026-07-25T20:28:01.905287+00:00"
+fetched_at: "2026-07-28T22:26:20.635269+00:00"
+content_hash: "sha256:9393e8943967ef72536b88fa05b393d2a2d8fc8060304d1fa2a05e224c2a951e"
+---
+
+# The Future of Zenith: 2.0 Design Pillars
+
+Hi everyone 🙂
+
+
+It's Andy here and today I'd like to share with you our vision for the future of Zenith.
+
+
+As many of you know from the AMA, we’ve been working on some fundamental changes to Zenith that will take place in our next major update.
+
+
+We’ve spent the past 5 years building Zenith together with you. Above all I want to thank the community for all our dedication and support over the past half decade. During that time, we’ve learned a lot about our amazing community, the VR market, and what makes our game fun. We’re planning on incorporating all of those learnings into a massive 2.0 update, that will change the game in exhilarating and exciting ways.
+
+
+I’ll be real with you. Some of these changes will likely prompt some discussion. But everything is being done with our core principles in mind of “Do Right By The Player” – and we’ll do our best to live up to your expectations.
+
+
+So – what exactly is guiding the changes to come? That’s where our design pillars come into play! Huh? What are design pillars? Design pillars are simple principles that align the team and define the way we want the game to “feel”.
+
+
+Because designing a VR MMO is a massively complex endeavor that requires thousands upon thousands of hours to build, design pillars are necessary to ensure we achieve our ultimate vision.
+Without further ado the core design pillars for 2.0 are:
+
+
+##
+Feel Like A God:
+
+
+We know one of the primary reasons to play MMORPGs like Zenith is the feeling of power and progression that comes with your time investment and dedication to learning the game. So one of our core pillars for Zenith 2.0 is to make sure that players of all skill levels can feel powerful when they are playing.
+
+
+## Better With Friends:
+
+
+Hopefully not too surprising either :). In Zenith, the biggest reason that people stick around is the amazing community. However, we don’t actually do the best job of incentivizing or promoting group oriented play right now.
+
+
+Anything you have fun doing alone should be even more fun with other players. It should also be easier than ever for you to meet new people, and hang out with your old friends.
+
+
+Also, it should never be a negative experience to see someone in the world besides you. We shouldn’t reward things like spawn camping, for example, because that creates toxicity between players.
+
+
+## Time To Fun = 0s;
+
+
+There’s a lot to like about Zenith, from player housing, to raid bosses, to our new skill tree – but oftentimes, you have to put up with a lot to get to that delicious and juicy core. We want Zenith to be a rewarding game for hardcore and casual players alike. Our goal with 2.0 is to greatly simplify our core systems and our core gameplay loop without losing the magic that makes the game what it is.
+
+
+In 2.0, we’re going to have a much tighter gameplay loop that is more satisfying and rewarding, right from the start.
+
+
+## Always Something New:
+
+
+With Zenith 2.0, our goal is to provide exciting and fresh updates regularly so that you always have new levels to experience, and exciting loot to acquire.
+
+
+We want the core gameplay of Zenith to be so enjoyable, you’ll want to keep coming back to experience it in new and different ways. We’re thinking through ways to accomplish this, whether it’s through our loot, or the way you build your character - we want every playthrough to be fresh and exciting.
+
+
+## Easy To Learn, Hard To Master:
+
+
+Games like WoW, and Destiny are great examples of easy to learn, but hard to master. (Not so much Souls-Likes or League! :) ). We want you to instantly have fun when you pick Zenith up, but reward higher skill and get even more fun over time.
+
+
+Learning Zenith should feel as satisfying as playing a real sport, or learning a new instrument. You should walk away from every experience obsessing about ways to get better the next time you play.
+
+
+## Built for VR:
+
+
+We’re doubling down on XR because we believe it’s the future of games and game development. Our goal is to evolve both established VR mechanics and innovate new ones to build gameplay that is only possible in virtual reality.
+
+
+Too much innovation can lead to a mediocre product (trying to change too much at the same time!) – so as a part of this we will also acknowledge and know when to adopt tried and tested gameplay models, such as progression or social elements – and when to innovate – like on movement, combat, or skill expression.
+
+
+While we have dreams to eventually make Zenith cross platform to flatscreen – it’s clear that we have to nail one platform first before thinking about more.
+
+
+## Anyways...
+
+
+In the coming weeks, we’ll release a post which outlines some of the rationale for why we’re making big changes in the game.
+
+
+Our goal is to build 2.0 into an experience that you will enjoy. In order to do that, we are gathering user feedback and running playtests all of the time. In fact, we’ve already been running playtests on 2.0 to get as much data as we can.
+
+
+We’ll be announcing more details on a NDA Closed Alpha soon(™) that will include hundreds if not thousands of community members. As always – we want to incorporate your feedback as we embark in a new and exciting direction.
+
+
+While there will be lots of discussions and debate in the days to come – understand that our goal is to produce the best iteration of Zenith you’ve ever seen. We’re looking forward to hearing your feedback as we share our designs.
+
+
+More to come soon!
+Andy

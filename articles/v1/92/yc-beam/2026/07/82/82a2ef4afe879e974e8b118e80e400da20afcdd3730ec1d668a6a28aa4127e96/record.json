@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82a2ef4afe879e974e8b118e80e400da20afcdd3730ec1d668a6a28aa4127e96",
+  "company": {
+    "key": "yc-beam",
+    "name": "Beam"
+  },
+  "source": {
+    "id": "yc-beam-news-import-8ae061011ee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.beam.cloud/blog/serverless-gpu-reinforcement-learning",
+    "canonical": "https://www.beam.cloud/blog/serverless-gpu-reinforcement-learning"
+  },
+  "title": "Serverless GPU for Reinforcement Learning",
+  "summary": "Fan out thousands of RL rollouts across serverless GPUs with one .map() call. Snapshot environments, scale to zero between updates, run on your own cloud.",
+  "published_at": "2026-07-02T13:17:27+00:00",
+  "first_seen_at": "2026-07-22T21:28:59.137691+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-19T18:11:14.704688+00:00",
+  "paths": {
+    "article": "articles/v1/92/yc-beam/2026/07/82/82a2ef4afe879e974e8b118e80e400da20afcdd3730ec1d668a6a28aa4127e96/article.md",
+    "record": "articles/v1/92/yc-beam/2026/07/82/82a2ef4afe879e974e8b118e80e400da20afcdd3730ec1d668a6a28aa4127e96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11755,
+    "sha256": "sha256:08813a3e60ade2f3775a0bfc85588d68d09ba6b200cce408d01cde8daa913657",
+    "normalized_content_hash": "sha256:f618b16d41839bcb7a035f3e260751ddc5d18e02da886d4986d3f36c23d6fe9a"
+  },
+  "provenance": {
+    "source_item_id": "49170fe1-7889-4cd1-9794-dbb546aa2bc1",
+    "external_id": "https://www.beam.cloud/blog/serverless-gpu-reinforcement-learning"
+  }
+}

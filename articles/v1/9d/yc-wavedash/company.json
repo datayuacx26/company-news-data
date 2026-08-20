@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-wavedash",
+    "name": "Wavedash"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-02-23T00:00:00+00:00",
+  "last_published_at": "2026-08-10T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9d/yc-wavedash/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 4973,
+        "sha256": "sha256:d68b4ae44f68a828ee04b598930b567d37ba8b732d0da0dd74ff34f75b7f7179",
+        "newest_at": "2026-08-10T00:00:00+00:00",
+        "oldest_at": "2026-02-23T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "758096f0d059cfe63f1332e0dd7ed1f575b685ae2fc9ae2dd97a29883d2319a0",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/access-apps-without-vpn/",
+    "canonical": "https://goteleport.com/blog/access-apps-without-vpn/"
+  },
+  "title": "How to Access Internal Web Apps Without a VPN",
+  "summary": "Replace VPN access to internal web apps with an identity-aware proxy: one login, one audit trail, and per-app access for every user.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:50:34.285709+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T00:27:53.070714+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/07/75/758096f0d059cfe63f1332e0dd7ed1f575b685ae2fc9ae2dd97a29883d2319a0/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/07/75/758096f0d059cfe63f1332e0dd7ed1f575b685ae2fc9ae2dd97a29883d2319a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6823,
+    "sha256": "sha256:24bf40c072f844550ea3c5ef8a82d6ab74bcced7886d010d4269841c679d2225",
+    "normalized_content_hash": "sha256:50e231ff3ae1ad72a0274921a8e46da84799ab6bafae59bc39d22986d0f2d99d"
+  },
+  "provenance": {
+    "source_item_id": "34c87578-a5c5-4ae8-83b0-05aa3d3bdea3",
+    "external_id": "https://goteleport.com/blog/access-apps-without-vpn/"
+  }
+}

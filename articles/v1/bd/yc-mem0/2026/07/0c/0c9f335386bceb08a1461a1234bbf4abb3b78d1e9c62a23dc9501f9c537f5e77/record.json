@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c9f335386bceb08a1461a1234bbf4abb3b78d1e9c62a23dc9501f9c537f5e77",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/kimi-k3-tutorial-build-a-vision-coding-agent-with-persistent-memory",
+    "canonical": "https://mem0.ai/blog/kimi-k3-tutorial-build-a-vision-coding-agent-with-persistent-memory"
+  },
+  "title": "Kimi K3 Tutorial: Build a Vision Coding Agent with Persistent Memory",
+  "summary": "Kimi K3 has a 1M-token context window but no memory across sessions. We tested it with Mem0 and cut design regressions from 60% to 0%.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T17:29:03.310285+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-19T17:37:03.162806+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/07/0c/0c9f335386bceb08a1461a1234bbf4abb3b78d1e9c62a23dc9501f9c537f5e77/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/07/0c/0c9f335386bceb08a1461a1234bbf4abb3b78d1e9c62a23dc9501f9c537f5e77/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18946,
+    "sha256": "sha256:c9a4fcefad731d3a950f01e90d5628ccf20d6ad31ce3d52a6c23a81a2699bf02",
+    "normalized_content_hash": "sha256:ea7aa4bdd010056cb9b55bcca4f2491e5823639234e208cd46ae2973813b92b1"
+  },
+  "provenance": {
+    "source_item_id": "b35f08c9-dc49-4aec-b668-7466d3677e47",
+    "external_id": "https://mem0.ai/blog/kimi-k3-tutorial-build-a-vision-coding-agent-with-persistent-memory"
+  }
+}

@@ -1,0 +1,49 @@
+---
+schema_version: "1.0.0"
+document_id: "38ab9ebec2d5ad7e8435155b61f8842467edc89cfc42b7c308dfb915e0422f7a"
+company_key: "yc-plivo"
+company: "Plivo"
+source_id: "yc-plivo-rss-7fc8cee78b57"
+canonical_url: "https://www.plivo.com/blog/laz-webinar-recap/"
+published_at: "2022-09-06T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:51.132542+00:00"
+fetched_at: "2026-07-28T21:03:09.867162+00:00"
+content_hash: "sha256:8ac4533ce649801eac88896b1c52b07b73674e74ef0f4c2514517d10938f052e"
+---
+
+# Webinar Recap: LAZ Parking Sends More than a Million SMS Messages
+
+Recently, in a live webinar, Plivo customer LAZ Parking shared the story of how they created a Text to Park revenue stream with the help of Plivo’s[SMS API](https://www.plivo.com/sms/) . You can view the[recording on demand](https://www.plivo.com/resources/webinar/laz-parking/) , or, if you’re more of a reader than a watcher, you can look at the[LAZ Parking customer case study](https://www.plivo.com/customers/laz-parking/) we wrote about.
+
+
+## Parking lots — lots of parking
+
+
+LAZ manages payments for more than 3,500 parking facilities in the US with more than a million parking spaces.
+
+
+Patrick Ryan, vice president of innovation at LAZ, talked with Plivo Product Marketing Manager Tony Graham about how the company relies on Plivo’s SMS API to power a huge number of revenue-producing transactions every day.
+
+
+Some of the lots LAZ manages had pay stations, which take time and effort and money to support — and when COVID came in, no one wanted to be touching public surfaces. LAZ wanted a mobile-friendly solution, because almost everyone now carries a smartphone. The company already had a mobile app, which was fine for repeat customers, but did they want to force people who might be using a lot just one time to download a new app?
+
+
+In the webinar we asked attendees how they’d prefer to pay: a pay station, an app, or a text link. Two-thirds chose the link, while one-third liked the old-school pay station. No one wanted to download the app.
+
+
+One of Ryan’s mottos is “think like a customer,” so LAZ got it right with a text-friendly solution. They rented a short code — a single five-digit number that could accept text messages across the entire country. At each lot, they put up a sign that asked consumers to text a unique code for that lot to their short code. LAZ then automatically replies to the incoming text with the URL of a web page on which customers can enter their license plate and payment information.
+
+
+## Making everyone happy
+
+
+Customers love the simplicity of texting — and that made lot owners happy too. Many of them removed their pay stations — or just put a bag over them — which cut down on their costs. Some gated garage owners now want to get in on the texting solution that LAZ’s surface lots are enjoying. Today, LAZ sends out more than a million text messages every day using Plivo’s SMS API, with messages traveling over its[Premium Communications Network](https://www.plivo.com/resources/premium-carrier-network/) . In the future, they’re considering expanding their use of SMS to send reminders when customers’ time is running out with a link to extend the time, and to provide one-time passwords for added security when customers access saved payment information.
+
+
+As LAZ ramped up its use of texting, one of the webinar attendees asked, did it experience any issues with scaling? “Literally not a one,” Ryan said. The[Plivo API](https://www.plivo.com/) calls put less load on his systems than the application code.
+
+
+“We’re dealing with a company that really are experts in the cloud space,” he said. ”It really is a best-in-class experience.”
+
+
+See for yourself how adding Plivo’s SMS APIs to your application code can generate new revenue for your organization.[Get started with a free trial](https://console.plivo.com/accounts/register/) .

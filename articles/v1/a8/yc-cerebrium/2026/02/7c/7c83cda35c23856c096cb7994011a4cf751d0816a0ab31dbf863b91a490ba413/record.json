@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c83cda35c23856c096cb7994011a4cf751d0816a0ab31dbf863b91a490ba413",
+  "company": {
+    "key": "yc-cerebrium",
+    "name": "Cerebrium"
+  },
+  "source": {
+    "id": "yc-cerebrium-news-import-eb465eef12b4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cerebrium.ai/blog/how-tavus-scaled-human-like-ai-experiences-with-cerebrium",
+    "canonical": "https://cerebrium.ai/blog/how-tavus-scaled-human-like-ai-experiences-with-cerebrium"
+  },
+  "title": "How Tavus Scaled Human-like AI Experiences with Cerebrium",
+  "summary": "See how Tavus scaled its human-like AI video infrastructure on Cerebrium, killing GPU cold starts and auto-scaling through unpredictable traffic spikes.",
+  "published_at": "2026-02-26T16:45:09+00:00",
+  "first_seen_at": "2026-07-21T13:06:54.599340+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T03:11:50.289453+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-cerebrium/2026/02/7c/7c83cda35c23856c096cb7994011a4cf751d0816a0ab31dbf863b91a490ba413/article.md",
+    "record": "articles/v1/a8/yc-cerebrium/2026/02/7c/7c83cda35c23856c096cb7994011a4cf751d0816a0ab31dbf863b91a490ba413/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4481,
+    "sha256": "sha256:453cec04c99f5fe649bec89cd26a6e7a92f7723ad20b32d38cbe8f3b7b2e2901",
+    "normalized_content_hash": "sha256:e73fd1c78d93914d189750e065f9e619441f650724a7cdcc47f9f71cba080f8e"
+  },
+  "provenance": {
+    "source_item_id": "ff8bb41e-bc71-4afe-a536-04c2b2a36e33",
+    "external_id": "https://cerebrium.ai/blog/how-tavus-scaled-human-like-ai-experiences-with-cerebrium"
+  }
+}

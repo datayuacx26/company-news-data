@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b48258f5e0e53706b1caa7986240fdf5209a1193d964fcacd24a2f7dfdc12a4a",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/",
+    "canonical": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/"
+  },
+  "title": "Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered",
+  "summary": "Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here.",
+  "published_at": "2026-06-12T22:00:14+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-07-28T21:13:58.749045+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/06/b4/b48258f5e0e53706b1caa7986240fdf5209a1193d964fcacd24a2f7dfdc12a4a/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/06/b4/b48258f5e0e53706b1caa7986240fdf5209a1193d964fcacd24a2f7dfdc12a4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4978,
+    "sha256": "sha256:4bc2ad91ce3a0cea63e9735212edbe0f34eb433cb0d950455317e946cafa7320",
+    "normalized_content_hash": "sha256:f43bc3f55c81815d29a1b1ac796a8c0fd68fcc8a89935df2fdb3701f6cb264b5"
+  },
+  "provenance": {
+    "source_item_id": "706d1e78-ca6c-49af-bda4-a81c87fe8fc3",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=182477"
+  }
+}

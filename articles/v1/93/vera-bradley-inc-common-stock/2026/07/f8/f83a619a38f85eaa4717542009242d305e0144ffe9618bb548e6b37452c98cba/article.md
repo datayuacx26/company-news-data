@@ -1,0 +1,131 @@
+---
+schema_version: "1.0.0"
+document_id: "f83a619a38f85eaa4717542009242d305e0144ffe9618bb548e6b37452c98cba"
+company_key: "vera-bradley-inc-common-stock"
+company: "Vera Bradley Inc."
+source_id: "vera-bradley-inc-common-stock-atom-26d47e3bd189"
+canonical_url: "https://verabradley.com/blogs/the-vb-blog/not-every-summer-bag-has-to-be-on-vacation"
+published_at: "2026-07-01T02:12:09+00:00"
+first_seen_at: "2026-08-12T14:33:23.935767+00:00"
+fetched_at: "2026-08-12T14:33:24.903752+00:00"
+content_hash: "sha256:15557b98682d1af873210660c8ffc6ef03edd9b76dafc6d0d6b472d8d301201b"
+---
+
+# Not Every Summer Bag Has to Be on Vacation
+
+Not every summer bag needs to be photographed next to a passport and a poolside drink. Some bags are built for the summer you’re actually having: workdays, errands, shuttling kids to summer camps and activities, grocery runs, lunch dates, and that one quick stop that somehow turns into five.
+
+
+For days like those, Vera Bradley’s lightweight purses and handbags bring the personality without asking you to overpack your life.
+
+
+## The Original Vera Tote: For the Woman Who Carries the Day
+
+
+Some bags whisper, "You’ve got this." The[Original Vera Tote](https://verabradley.com/products/original-vera-tote-5525324011) shows up with six interior slip pockets and says, "Already handled!"
+
+
+This classic large tote is made for anyone whose day does not fit neatly into one tiny compartment. With a roomy interior, zip closure, exterior slip and zip pockets, it’s one of those everyday tote bags for women that earns its place fast. Laptop? Notebook? Water bottle? Snacks you absolutely meant to share? There’s space.
+
+
+The Original Vera Tote has a timeless, polished shape that works from[weekday to weekend](https://verabradley.com/blogs/the-vb-blog/one-tote-three-lives) . It is structured enough to feel pulled together, practical enough to use constantly, and expressive enough to remind everyone that dependable does not mean dull.
+
+
+> "Great color and print especially for summer." ~ Rose
+
+
+## The Branning Tote: Minimal Effort, Maximum "I Meant to Look This Good"
+
+
+The[Branning Tote](https://verabradley.com/products/branning-tote-5548524065) is for the days when you want your bag to do its job beautifully and not make a whole speech about it.
+
+
+Light, soft, and simple, this effortless carryall is easy to throw over your shoulder and take wherever the day points you. Its clean silhouette gives it a refined everyday feel, while its spacious design makes it useful for work, errands, or casual summer outings.
+
+
+For anyone searching for a great everyday bag for women, this tote makes a strong case without trying too hard. Which, frankly, is very chic of it.
+
+
+## The Mini Roxbury Crescent Shoulder Bag: Small Bag, Main Character Energy
+
+
+There is no rule that practical has to mean oversized. Our[Mini Roxbury Crescent Shoulder Bag](https://verabradley.com/products/mini-roxbury-crescent-shoulder-bag-5248923457) is the purse option for casual days, fun nights, and moments when you only want the essentials tagging along.
+
+
+Its sleek crescent shape brings a modern finish to summer outfits, while the zip closure and interior slip pocket help keep the little things from staging a disappearance. Compact, lightweight, and easy to wear, it's made for the woman who knows exactly what she needs and does not feel the need to carry the rest of the household just in case.
+
+
+A little polish. A little personality. A lot of "yes, this counts as being prepared."
+
+
+> "Beautiful spring summer purse." ~ Lizbeth
+
+
+## The Original Zip Hipster: Hands-Free, Because You Have Things to Do
+
+
+The[Original Zip Hipster](https://verabradley.com/products/original-zip-hipster-5531123469) is your crossbody choice for summer days that involve movement, multitasking, and carrying an iced coffee like it is a personality trait. We support this.
+
+
+This bag is designed to keep essentials organized and easy to reach. You’ll love the:
+
+
+- • three zippered compartments
+
+
+- • exterior zip pocket
+
+
+- • interior zip pocket
+- • adjustable longer strap
+
+
+It’s one of those everyday crossbody bags for women that feels made for errands, day trips, walks, farmers markets, and any plan where hands-free is not a preference but a lifestyle.
+
+
+Because digging for your keys at the bottom of a bag in 89-degree weather? Absolutely not.
+
+
+> "It's a great 'medium' size, holding everything I need, without being too heavy." ~ Nancy
+
+
+## The Large Berkhill Backpack: For the Day That Starts at Dawn and Runs Long
+
+
+Our[Large Berkhill Backpack](https://verabradley.com/products/large-berkhill-backpack-5451220183) is built for busy days with a little more going on. Lightweight, casual, and ready for whatever the day brings, it offers the kind of organization that makes you feel slightly more in control of your calendar. We love a bag with emotional range.
+
+
+This backpack has all the features you need:
+
+
+- • two exterior zip pockets
+
+
+- • two side pockets - toss your water bottle in one and a spare in the other!
+
+
+- • trolley sleeve for your next trip
+
+
+- • multiple interior pockets
+
+
+- • comfortable, adjustable straps
+
+
+- • room for up to a 15-inch laptop
+
+
+The Large Berkhill Backpack is ideal for commuting, travel days, work sessions, and packed summer schedules. It has space for the useful things, the backup things, and the "I might need this" things. No judgment.
+
+
+## Casual Summer Handbags for the Life You Actually Live
+
+
+The right bag does not need to wait for a boarding pass. These casual summer handbags are made for real days, real outfits, and real women who already know what works for them.
+
+
+Whether you reach for a[roomy tote](https://verabradley.com/collections/tote-bags) , a compact[shoulder bag](https://verabradley.com/collections/shoulder-bags) , a[hands-free crossbody](https://verabradley.com/collections/crossbody-bags) , or a[laptop-friendly backpack](https://verabradley.com/collections/backpacks) , the point is not to look like you’re on vacation. Carry what you need in a way that feels light, useful, expressive, and unmistakably yours!
+
+
+[SHOP YOUR NEW FAVORITE EVERYDAY BAG](https://verabradley.com/collections/new-arrivals)

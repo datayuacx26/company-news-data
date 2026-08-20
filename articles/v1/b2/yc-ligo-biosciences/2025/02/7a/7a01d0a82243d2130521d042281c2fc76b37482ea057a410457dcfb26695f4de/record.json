@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a01d0a82243d2130521d042281c2fc76b37482ea057a410457dcfb26695f4de",
+  "company": {
+    "key": "yc-ligo-biosciences",
+    "name": "Ligo Biosciences"
+  },
+  "source": {
+    "id": "yc-ligo-biosciences-news-import-973af58cf9cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://research.ligo.bio/posts/how-muon-lost-its-geometry/",
+    "canonical": "https://research.ligo.bio/posts/how-muon-lost-its-geometry/"
+  },
+  "title": "How Muon Lost Its Geometry",
+  "summary": "A Ligo research note on how popular Muon implementations lost the scaling rule behind maximal-update geometry.",
+  "published_at": "2025-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T12:46:43.869589+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T16:00:13.111013+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-ligo-biosciences/2025/02/7a/7a01d0a82243d2130521d042281c2fc76b37482ea057a410457dcfb26695f4de/article.md",
+    "record": "articles/v1/b2/yc-ligo-biosciences/2025/02/7a/7a01d0a82243d2130521d042281c2fc76b37482ea057a410457dcfb26695f4de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30811,
+    "sha256": "sha256:4c2c45697b22c99b2b123e8622f1f647dddc055307a44c279903e3b54c0a2d3b",
+    "normalized_content_hash": "sha256:6f2284fc85e557a9321de425fb4b4cebcf5e894464e05c9fe16cf41a588a5882"
+  },
+  "provenance": {
+    "source_item_id": "f69cf3c4-6bd7-4073-bfa7-511f5b162fad",
+    "external_id": "https://research.ligo.bio/posts/how-muon-lost-its-geometry/"
+  }
+}

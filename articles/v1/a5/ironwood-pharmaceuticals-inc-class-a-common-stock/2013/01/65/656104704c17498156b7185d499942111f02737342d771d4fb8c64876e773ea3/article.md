@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "656104704c17498156b7185d499942111f02737342d771d4fb8c64876e773ea3"
+company_key: "ironwood-pharmaceuticals-inc-class-a-common-stock"
+company: "Ironwood Pharmaceuticals Inc."
+source_id: "ironwood-pharmaceuticals-inc-class-a-common-stock-rss-0257ece950a4"
+canonical_url: "https://investor.ironwoodpharma.com/press-releases/press-release-details/2013/Ironwood-Pharmaceuticals-Provides-Fourth-Quarter-2012-Investor-Update/default.aspx"
+published_at: "2013-01-15T05:00:00+00:00"
+first_seen_at: "2026-08-18T10:31:29.990145+00:00"
+fetched_at: "2026-08-19T17:42:13.567804+00:00"
+content_hash: "sha256:f12c518e898e9de94a8437e96682a9d60b9b7ced4580fe81f95fa7a055580e75"
+---
+
+# Ironwood Pharmaceuticals Provides Fourth Quarter 2012 Investor Update
+
+

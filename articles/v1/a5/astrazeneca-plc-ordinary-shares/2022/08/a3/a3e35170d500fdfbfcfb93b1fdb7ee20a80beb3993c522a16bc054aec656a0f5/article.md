@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "a3e35170d500fdfbfcfb93b1fdb7ee20a80beb3993c522a16bc054aec656a0f5"
+company_key: "astrazeneca-plc-ordinary-shares"
+company: "AstraZeneca PLC"
+source_id: "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27"
+canonical_url: "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2022/enhertu-approved-in-us-for-her2-mutant-nsclc.html"
+published_at: "2022-08-12T01:30:00+00:00"
+first_seen_at: "2026-07-26T23:00:47.318234+00:00"
+fetched_at: "2026-07-28T03:42:03.141221+00:00"
+content_hash: "sha256:01caba7f105daf123c62162e301fb1abf28aafc5e1d8fbe6feee46db1b5c42cf"
+---
+
+# Enhertu approved in the US as the first HER2-directed therapy for patients with previously treated HER2-mutant metastatic non-small cell lung cancer
+
+

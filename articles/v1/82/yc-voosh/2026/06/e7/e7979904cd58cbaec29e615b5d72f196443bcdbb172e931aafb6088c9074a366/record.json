@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7979904cd58cbaec29e615b5d72f196443bcdbb172e931aafb6088c9074a366",
+  "company": {
+    "key": "yc-voosh",
+    "name": "Voosh"
+  },
+  "source": {
+    "id": "yc-voosh-news-import-c6183ddb3096",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.voosh.ai/blogs/uber-eats-store-currently-unavailable",
+    "canonical": "https://www.voosh.ai/blogs/uber-eats-store-currently-unavailable"
+  },
+  "title": "Uber Eats Store \"Currently Unavailable\"? Why It Happens and How to Fix It",
+  "summary": "When customers see \"Currently unavailable\" on your Uber Eats listing, your store is paused - not delisted. Uber's published guidance documents three ways it happens automatically: multiple orders in a row going unaccepted, signals that the store is too busy or unavailable to take orders, and a delivery person reporting your store closed followed by a missed confirmation call. Resuming takes seconds from the tablet's Paused bar or the Uber Eats Manager app - and if nobody acts, an automatic pause lifts by 6:00am the next day, which means the platform's failsafe assumes you can afford to lose the rest of today. Prevention is configuration plus discipline; at multi-unit scale, it's automated monitoring, because two platforms times every location is too many pause surfaces to watch by hand.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:35:28.885791+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-08T06:02:10.794734+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-voosh/2026/06/e7/e7979904cd58cbaec29e615b5d72f196443bcdbb172e931aafb6088c9074a366/article.md",
+    "record": "articles/v1/82/yc-voosh/2026/06/e7/e7979904cd58cbaec29e615b5d72f196443bcdbb172e931aafb6088c9074a366/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9502,
+    "sha256": "sha256:86eba44e66393e781bf2b048faeab93afe2e9e2485b817624a67227467c2ee21",
+    "normalized_content_hash": "sha256:af0a465323c3746f0bfee3afff52e9cfb885c36b0e07f4b666bc39c3c3cc7c27"
+  },
+  "provenance": {
+    "source_item_id": "2728d1cf-83c2-4394-b712-bc3bd0346d56",
+    "external_id": "https://www.voosh.ai/blogs/uber-eats-store-currently-unavailable"
+  }
+}

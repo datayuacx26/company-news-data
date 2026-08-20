@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2edb29da74191c65eab678c9b1e10eadb465697762e6b0825ff18e24f0710e7a",
+  "company": {
+    "key": "yc-hatchet-run",
+    "name": "Hatchet"
+  },
+  "source": {
+    "id": "yc-hatchet-run-rss-3f16f06bd764",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://hatchet.run/blog/fastest-postgres-inserts",
+    "canonical": "https://hatchet.run/blog/fastest-postgres-inserts"
+  },
+  "title": "The fastest Postgres inserts",
+  "summary": "How to speed up your Postgres insert performance.",
+  "published_at": "2025-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:57:06.374584+00:00",
+  "fetched_at": "2026-08-09T22:57:07.291413+00:00",
+  "last_updated_at": "2026-08-20T03:51:48.022662+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-hatchet-run/2025/05/2e/2edb29da74191c65eab678c9b1e10eadb465697762e6b0825ff18e24f0710e7a/article.md",
+    "record": "articles/v1/95/yc-hatchet-run/2025/05/2e/2edb29da74191c65eab678c9b1e10eadb465697762e6b0825ff18e24f0710e7a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13552,
+    "sha256": "sha256:948963f7835d089b31bfd129bf3f50c196ac16ab77ca7d19224cef4b6ddea271",
+    "normalized_content_hash": "sha256:6a1ff0d64ff5a7f152e0b77a513ba4cb8a623626d7f459c0984f24b1617b06a4"
+  },
+  "provenance": {
+    "source_item_id": "e8a3d0f8-e1c2-4c31-b717-fe0382343c9f",
+    "external_id": "https://hatchet.run/blog/fastest-postgres-inserts"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sensata-technologies-holding-plc-ordinary-shares",
+    "name": "Sensata Technologies Holding plc"
+  },
+  "record_count": 23,
+  "first_published_at": "2026-04-15T20:05:00+00:00",
+  "last_published_at": "2026-07-29T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/sensata-technologies-holding-plc-ordinary-shares/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 34616,
+        "sha256": "sha256:dc827b2a154bd5ffc83b2b3a51e0fc2aa76544732b8f95142624b1c22e63cd1e",
+        "newest_at": "2026-08-19T21:14:07.360798+00:00",
+        "oldest_at": "2026-04-15T20:05:00+00:00"
+      }
+    ]
+  }
+}

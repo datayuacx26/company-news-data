@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de89f62621ff215382cf0962d1973d26a642429743c2929b9e24b40b7c67eabb",
+  "company": {
+    "key": "yc-plivo",
+    "name": "Plivo"
+  },
+  "source": {
+    "id": "yc-plivo-rss-7fc8cee78b57",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.plivo.com/blog/how-to-secure-plivo-webhook-urls-in-python/",
+    "canonical": "https://www.plivo.com/blog/how-to-secure-plivo-webhook-urls-in-python/"
+  },
+  "title": "How to Secure Plivo Webhook URLs in Python",
+  "summary": "Learn how to secure Plivo webhook URLs in Python with signature validation, using hash-based message authentication codes to verify incoming requests.",
+  "published_at": "2022-08-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:51.132542+00:00",
+  "fetched_at": "2026-07-28T21:03:09.867162+00:00",
+  "last_updated_at": "2026-08-20T02:00:51.733569+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-plivo/2022/08/de/de89f62621ff215382cf0962d1973d26a642429743c2929b9e24b40b7c67eabb/article.md",
+    "record": "articles/v1/bc/yc-plivo/2022/08/de/de89f62621ff215382cf0962d1973d26a642429743c2929b9e24b40b7c67eabb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3817,
+    "sha256": "sha256:0fde2a4b38d6ef9b1b70273161e0cfaa23ca7fee09a1a8a49f3e5c522d7943d0",
+    "normalized_content_hash": "sha256:a1314eb6039b7b4e0e7ca009a05bcb381313208b1915d54d17795ca2e25367ad"
+  },
+  "provenance": {
+    "source_item_id": "2b64e572-9679-4577-be41-6b50f62a2300",
+    "external_id": "https://www.plivo.com/blog/how-to-secure-plivo-webhook-urls-in-python/"
+  }
+}

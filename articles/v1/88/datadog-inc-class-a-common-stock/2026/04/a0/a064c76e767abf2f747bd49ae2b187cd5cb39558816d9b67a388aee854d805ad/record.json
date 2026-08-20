@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a064c76e767abf2f747bd49ae2b187cd5cb39558816d9b67a388aee854d805ad",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/"
+  },
+  "title": "How we built a real-world evaluation platform for autonomous SRE agents at scale",
+  "summary": "Find out how we built a scalable evaluation platform for Datadog’s Bits AI SRE agent that replays real incidents, detects regressions, and measures agent performance across production scenarios.",
+  "published_at": "2026-04-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/04/a0/a064c76e767abf2f747bd49ae2b187cd5cb39558816d9b67a388aee854d805ad/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/04/a0/a064c76e767abf2f747bd49ae2b187cd5cb39558816d9b67a388aee854d805ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23402,
+    "sha256": "sha256:ed86220a2ed7f64ba801e66064bccd059e521fe5d13758964cd53666481d4ba8",
+    "normalized_content_hash": "sha256:6600f080e1fc1e08558e1eb738a0639214970d099199f53e1affefb2fd0dd3fb"
+  },
+  "provenance": {
+    "source_item_id": "54006c7a-d5bc-44e4-8e1a-473989dc216b",
+    "external_id": "https://www.datadoghq.com/blog/engineering/bits-ai-eval-platform/"
+  }
+}

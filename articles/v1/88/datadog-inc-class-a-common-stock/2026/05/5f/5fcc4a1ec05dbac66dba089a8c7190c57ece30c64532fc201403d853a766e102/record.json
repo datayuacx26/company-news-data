@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fcc4a1ec05dbac66dba089a8c7190c57ece30c64532fc201403d853a766e102",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/detect-http2-abuse-apache-web-server-logs/",
+    "canonical": "https://www.datadoghq.com/blog/detect-http2-abuse-apache-web-server-logs/"
+  },
+  "title": "How to detect HTTP/2 abuse in Apache web server logs",
+  "summary": "Understand how HTTP/2 stream reset attacks exploit RST_STREAM to crash Apache workers or cause DoS. Detect them with Apache debug logs and Datadog Cloud SIEM.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-07T11:25:37.290066+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/5f/5fcc4a1ec05dbac66dba089a8c7190c57ece30c64532fc201403d853a766e102/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/5f/5fcc4a1ec05dbac66dba089a8c7190c57ece30c64532fc201403d853a766e102/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17598,
+    "sha256": "sha256:2c49978953f7dfd716e70c69df449c30405d0a500422673f9226dc686636e2b6",
+    "normalized_content_hash": "sha256:e909e1531245266220006e53bbacd0124290abf528e871cfdb1b8a032c54e359"
+  },
+  "provenance": {
+    "source_item_id": "bc167d35-cac6-4b2d-8b3a-8491ee390293",
+    "external_id": "https://www.datadoghq.com/blog/detect-http2-abuse-apache-web-server-logs/"
+  }
+}

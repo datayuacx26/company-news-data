@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54e0992e1388afc896c32f1dc9e482ec9437d1b14925724502e4998bc831b48d",
+  "company": {
+    "key": "yc-notte",
+    "name": "Notte"
+  },
+  "source": {
+    "id": "yc-notte-news-import-7238aba58520",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.notte.cc/blog/claude-managed-agents-notte-browsers",
+    "canonical": "https://www.notte.cc/blog/claude-managed-agents-notte-browsers"
+  },
+  "title": "Claude Managed Agents x Notte: What the Sandbox Can't Reach",
+  "summary": "Claude Managed Agents gives an agent a sandbox, a credential vault, and a schedule. It does not give it a browser. Here is why the web outside the sandbox is a structurally different problem, how the vault hands over a key without handing over the key, and what a Notte persona can finish that a browser alone cannot.",
+  "published_at": "2026-08-04T09:00:00+00:00",
+  "first_seen_at": "2026-08-18T16:01:00.928611+00:00",
+  "fetched_at": "2026-08-18T16:01:03.186610+00:00",
+  "last_updated_at": "2026-08-19T19:06:37.269710+00:00",
+  "paths": {
+    "article": "articles/v1/8b/yc-notte/2026/08/54/54e0992e1388afc896c32f1dc9e482ec9437d1b14925724502e4998bc831b48d/article.md",
+    "record": "articles/v1/8b/yc-notte/2026/08/54/54e0992e1388afc896c32f1dc9e482ec9437d1b14925724502e4998bc831b48d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4681,
+    "sha256": "sha256:f3d955f4014b4ff1e524e479026bc43e9693a6376edfec7fb36b743671555d49",
+    "normalized_content_hash": "sha256:75f1a03af72cf05888ef84e982426d82cb42db27a02332d3231e94b979be9776"
+  },
+  "provenance": {
+    "source_item_id": "a79e8093-d301-4d10-8204-e00edd7b3680",
+    "external_id": "https://www.notte.cc/blog/claude-managed-agents-notte-browsers"
+  }
+}

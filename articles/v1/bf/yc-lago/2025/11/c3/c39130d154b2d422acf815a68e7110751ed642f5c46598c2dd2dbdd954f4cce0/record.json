@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c39130d154b2d422acf815a68e7110751ed642f5c46598c2dd2dbdd954f4cce0",
+  "company": {
+    "key": "yc-lago",
+    "name": "Lago"
+  },
+  "source": {
+    "id": "yc-lago-news-import-cc6c03d3f684",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlago.com/blog/flipside-billing",
+    "canonical": "https://getlago.com/blog/flipside-billing"
+  },
+  "title": "How Flipside Crypto Built Usage-Based Billing for Blockchain Data",
+  "summary": "Flipside Crypto charges for API access and Snowflake integration on a usage basis. No prior billing system. Here's how they went from zero to production with Lago.",
+  "published_at": "2025-11-13T14:45:11+00:00",
+  "first_seen_at": "2026-07-25T11:29:02.565124+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T16:09:29.517908+00:00",
+  "paths": {
+    "article": "articles/v1/bf/yc-lago/2025/11/c3/c39130d154b2d422acf815a68e7110751ed642f5c46598c2dd2dbdd954f4cce0/article.md",
+    "record": "articles/v1/bf/yc-lago/2025/11/c3/c39130d154b2d422acf815a68e7110751ed642f5c46598c2dd2dbdd954f4cce0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4000,
+    "sha256": "sha256:b7e5c679fe7a2b8b2b4dabf852de3b47d8f4f38791dc834c9443560d09786359",
+    "normalized_content_hash": "sha256:44bcf9db87608f6c2d52d2251c9fd961b64ad7e2c221f9e4f70bb86d7fba6496"
+  },
+  "provenance": {
+    "source_item_id": "6d7291f1-9c05-4c6d-9167-741909fa3599",
+    "external_id": "https://getlago.com/blog/flipside-billing"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "global-partners-lp-common-units-representing-limited-partner-interests",
+    "name": "Global Partners LP Common Units representing Limited Partner Interests"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-03-18T16:12:06+00:00",
+  "last_published_at": "2026-08-07T10:10:30+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a6/global-partners-lp-common-units-representing-limited-partner-interests/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 18749,
+        "sha256": "sha256:9cd2a73371ff740b71d0bb61c55825c2696e983ccc8e02e4a86fa659717bc865",
+        "newest_at": "2026-08-07T10:10:30+00:00",
+        "oldest_at": "2026-03-18T16:12:06+00:00"
+      }
+    ]
+  }
+}

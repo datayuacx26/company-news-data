@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63e1e7c3529b749f8121fc8e90aded50f4e0ff82c18d3e5d24db96a914abb4b0",
+  "company": {
+    "key": "blend-labs-inc-class-a-common-stock",
+    "name": "Blend Labs Inc."
+  },
+  "source": {
+    "id": "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://full-stack.blend.com/moving-a-business-critical-monolith-to-kubernetes.html",
+    "canonical": "https://full-stack.blend.com/moving-a-business-critical-monolith-to-kubernetes.html"
+  },
+  "title": "Moving a Business-Critical Monolith to Kubernetes",
+  "summary": "At Blend we have been pushing for Kubernetes adoption across all services for the last two years. Migrating our monolith from AWS ECS to a self-hosted Kubernetes cluster marked a major milestone. Moving business-critical applications in general requires deliberate planning and in many cases major updates to deployment pipelines, system monitoring, testing, and infrastructure. This post will explore the migration strategies and lessons learned as we got the monolith up and running across deployments with zero downtime.",
+  "published_at": "2019-12-19T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:43.300114+00:00",
+  "fetched_at": "2026-08-20T00:34:47.711311+00:00",
+  "last_updated_at": "2026-08-20T00:34:47.824667+00:00",
+  "paths": {
+    "article": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/12/63/63e1e7c3529b749f8121fc8e90aded50f4e0ff82c18d3e5d24db96a914abb4b0/article.md",
+    "record": "articles/v1/93/blend-labs-inc-class-a-common-stock/2019/12/63/63e1e7c3529b749f8121fc8e90aded50f4e0ff82c18d3e5d24db96a914abb4b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1162,
+    "sha256": "sha256:5471a5e830aedb2d7d44f7ed7acf9b23ae6a7e07cea2ae8de73b9666169f698b",
+    "normalized_content_hash": "sha256:0735a018def020135025c821b516d1579e6062f4500f2c7f9e8b273b6d46a78a"
+  },
+  "provenance": {
+    "source_item_id": "f5fd8150-1622-49dc-a613-5bf2399cc910",
+    "external_id": "https://full-stack.blend.com/moving-a-business-critical-monolith-to-kubernetes.html"
+  }
+}

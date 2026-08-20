@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf017023dc89df405ceb3c9b11539fbe61b8d86970a686ebfc864778bab7f40f",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/optimizing-stripe-api-performance-lambda-caching-elasticache-dynamodb",
+    "canonical": "https://stripe.dev/blog/optimizing-stripe-api-performance-lambda-caching-elasticache-dynamodb"
+  },
+  "title": "Optimizing Stripe API performance in Lambda with caching strategies",
+  "summary": "Discover advanced caching strategies to optimize Stripe API performance in AWS Lambda using Amazon ElastiCache and DynamoDB. Learn how to manage API rate limits, reduce latency, and minimize costs while ensuring data consistency and scalability in high-volume applications.",
+  "published_at": "2025-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:57:45.279486+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/04/bf/bf017023dc89df405ceb3c9b11539fbe61b8d86970a686ebfc864778bab7f40f/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/04/bf/bf017023dc89df405ceb3c9b11539fbe61b8d86970a686ebfc864778bab7f40f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6070,
+    "sha256": "sha256:d2b7c510fe9983c269e888e6a9ce93693574208b3ed05527e4e6695f53348536",
+    "normalized_content_hash": "sha256:ef6d4596524988f28dddf663684871d99a14b24cbf406c6999f73cbb950162b3"
+  },
+  "provenance": {
+    "source_item_id": "66bf72b9-009b-4fc7-9b3b-a05d4cc0b1c9",
+    "external_id": "https://stripe.dev/blog/optimizing-stripe-api-performance-lambda-caching-elasticache-dynamodb"
+  }
+}

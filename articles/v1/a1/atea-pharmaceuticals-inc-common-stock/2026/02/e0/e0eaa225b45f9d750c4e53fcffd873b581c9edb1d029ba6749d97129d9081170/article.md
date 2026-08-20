@@ -1,0 +1,75 @@
+---
+schema_version: "1.0.0"
+document_id: "e0eaa225b45f9d750c4e53fcffd873b581c9edb1d029ba6749d97129d9081170"
+company_key: "atea-pharmaceuticals-inc-common-stock"
+company: "Atea Pharmaceuticals Inc."
+source_id: "atea-pharmaceuticals-inc-common-stock-rss-b1886ff4ab2e"
+canonical_url: "https://ir.ateapharma.com/news-releases/news-release-details/atea-pharmaceuticals-presents-preclinical-results-supporting"
+published_at: "2026-02-24T12:00:35+00:00"
+first_seen_at: "2026-07-28T21:27:03.431089+00:00"
+fetched_at: "2026-07-28T21:27:35.329570+00:00"
+content_hash: "sha256:eb86915bd7b282981a915ffcc4201902d49270e310132199d7ffc57a6874ed08"
+---
+
+# Atea Pharmaceuticals Presents Preclinical Results Supporting First-in-Class Potential of AT-587 for Treatment of Hepatitis E Virus at CROI 2026
+
+*Results Demonstrate AT-587 To Be Highly Potent In Vitro Against Hepatitis E Virus*
+
+
+*Initiation of Phase 1 Clinical Program Anticipated Mid-2026*
+
+
+BOSTON, Feb. 24, 2026 (GLOBE NEWSWIRE) -- Atea Pharmaceuticals, Inc. (Nasdaq: AVIR) (Atea or Company), a late-stage clinical biopharmaceutical company engaged in the discovery and development of oral antiviral therapeutics for serious viral diseases, today announced *in vitro* results showing that two proprietary oral nucleotide analogs, AT-587 and AT-2490, exhibit promising antiviral profiles as potential first-in-class inhibitors for the treatment of Hepatitis E virus (HEV) infection, a positive-sense, single-stranded RNA virus that primarily infects liver cells. These[results](https://www.globenewswire.com/Tracker?data=oxLvUmq8IRhC2H80a2QVXzcVgT4xhgjOk77HWsqEKD2y0LcuC-BUvwCDbIxpiI41SW9iI3ApkxTdLmq9E7MGaLHXSuFhoBJhvAbTHNj3_VJq5gzkju8XG3pxM7nxcUSL) were presented at the Conference on Retroviruses and Opportunistic Infections (CROI), taking place February 22-25 in Denver, Colorado.
+
+
+*In vitro* studies demonstrated that AT-587 and AT-2490 were potent inhibitors of HEV replication. AT-587 and AT-2490 were 30-150-fold more potent against HEV compared to sofosbuvir and ribavirin. Analyses showed the two compounds were also active against other viruses, including all flaviviruses tested, rubella and chikungunya. Antiviral activity of AT-587 and AT-2490 in the tissue of interest -- human liver cells -- was indicated by the formation of high amounts of active metabolite of each compound. Neither compound showed any toxicity.
+
+
+In January, Atea[announced](https://www.globenewswire.com/Tracker?data=37mv8R7XV33cTpn9X13K6t0VQD8ZRH36RpnE_bIozXnTeJAkNWTt0XMmb0U2trWnV0hgzw_FvZ3msE5t3pTrfqrwp9KVbJXhCoLjCNch-Q-ZhLOhqEq6symxc7uaayefXPYa4Va11Fuz1oh7rJhkL-BdUi0uU_b5BfiuALjW80bKNaYpF8V2aJuNfjAMV8dZR544uQkukTOwP4JwDxPeAw==) the selection of AT-587 as the lead product candidate for the HEV clinical program and plans to initiate a Phase 1 program mid-year.
+
+
+“We are excited to share these preclinical results at CROI showing the potent activity and promising *in vitro* safety profiles of AT-2490 and AT-587, our HEV product candidate. These results underscore the potential of AT-587 as a first-in-class direct acting antiviral for HEV,” said Jean-Pierre Sommadossi, PhD, Chief Executive Officer and Founder of Atea. “With no antivirals currently marketed for HEV, AT-587 has the potential to address a significant unmet need for a treatment option for patients with chronic HEV infection who are immunocompromised or at high risk for rapid progression to cirrhosis. We look forward to advancing AT-587 to a Phase 1 program mid-year.”
+
+
+HEV, the causative agent of hepatitis E, is a significant public health concern in developing regions of Asia and Africa (genotypes 1 and 2) and is also endemic in industrialized countries, including the US and Europe, where genotypes 3 and 4 predominate. In recent years, chronic HEV genotype 3 and 4 infections have been increasingly recognized as a potentially life-threatening viral infection in immunocompromised individuals — a population that includes solid-organ and hematopoietic stem-cell transplant recipients, and patients with hematologic malignancies or pre-existing liver disease. In these vulnerable populations, chronic HEV can result in rapid progression to cirrhosis within three to five years. There is currently no approved antiviral therapy for HEV, and current off-label treatments have limited efficacy and tolerability, underscoring a clear and urgent unmet medical need.
+
+
+More information about the CROI presentation is below:
+
+
+**Poster Number:** 596
+**Title:** Discovery and Preclinical Profiles of Potent Pan-Genotypic Hepatitis E Virus Inhibitors
+**Poster Session:** (I-01) Beyond the C: Hepatitis D, B, and E
+**Lead Author:** Qi Huang, PhD
+
+
+**About HEV**
+
+
+HEV is a positive-sense, single-stranded RNA virus which infects the liver and remains an under-recognized global health challenge with an estimated 20 million infections annually. While typically self-limiting in healthy individuals, HEV can cause chronic disease in those with compromised immunity, including solid organ and stem cell transplant recipients, people living with HIV, and those with hematologic or rheumatic conditions, often progressing rapidly to cirrhosis. HEV genotypes 1 and 2 drive waterborne, acute epidemics in developing regions, whereas genotypes 3 and 4 predominate in high-income countries with expanding at-risk populations through zoonotic, foodborne transmission that can lead to chronic infection. Despite this burden, no antiviral therapy is approved for the treatment of HEV, and current off-label treatments have limited efficacy and tolerability. Atea’s initial HEV clinical efforts will focus on developing AT-587 for the treatment of immunocompromised patients with chronic HEV genotype 3 and 4 infections.
+
+
+**About Atea Pharmaceuticals**
+
+
+Atea is a late-stage clinical biopharmaceutical company focused on discovering, developing and commercializing oral antiviral therapies to address the unmet medical needs of patients with serious viral infections. Leveraging Atea’s deep understanding of antiviral drug development, nucleos(t)ide chemistry, biology, biochemistry and virology, Atea has built a proprietary nucleos(t)ide prodrug platform to develop novel product candidates to treat single stranded ribonucleic acid, or ssRNA, viruses, which are a prevalent cause of serious viral diseases. Atea plans to continue to build its pipeline of antiviral product candidates by augmenting its nucleos(t)ide platform with other classes of antivirals that may be used in combination with its nucleos(t)ide product candidates. Atea’s Phase 3 program is evaluating the regimen of bemnifosbuvir, a nucleotide analog polymerase inhibitor, and ruzasvir, an NS5A inhibitor, to treat HCV. Atea anticipates advancing AT-587, a nucleotide analog, into Phase 1 for the treatment of HEV. For more information, please visit[www.ateapharma.com](https://www.globenewswire.com/Tracker?data=436jEg3ViHkx_jy6SUL5QcojbzskRKmXIweK4Jo9vSZJH1knM1sYosIHsa6hxcRy_44gQunWu_3ipjYpnRni-8eXHXw4apM4WVr7YoiQIR4uFAppfc7bZfAyuSFKHX5iZwIhLtU93lzVXsiksQd04rYFSjiHsiTRjRf6RPH0xcA93U53y0eb20sOUGkAgKAJpyp4Pgow453HylI3uH0A411qBVCBNBQC3WhNo96i8OJt7b8PC-rv2mjWgvMTAwq39jk8MkjgcwoqdBBU9i5gD34RkWlekgSwe6e9ksqwZXPwW9QM2zBjHJjtmBmrleY_QDAJvqYygYLtinCXjQEs1F2UsotsHCE7ykKoiMNuzFHLJ3APOYGOuekagR8wT3rDrrOLN-ux6I3lWTCM8Sr2C3nVawu45TxKkytu3Gq28po06od_MpMY3Oo1CXKRPsRiRol9fgZ1Cpt7bWKpns-Y9x6O5sR4vb1WVUp4vKVavojqUOyuUNvZpL39rNUtIu-9gS-AP01yu-UGnKQX3dXGxsCSuAzxJMBxf4Z12MG_2OtMV-SKJIU9MZ2AIIHmTeiEgKVysavtNJBAvJzxyiAo0zKng0URx9bqItSB6houq76YCtleWTRWgdvX7LrWImHOzShywERXVVE_onTrpdeBdR4E0TNW3XZENV-1sHIWDaR6gu0QxuGW69bR6oK7Lc-El6AEyMML9ouH_MlAGLv17itYi6W2449dvmse_uL9CpyUnRLJ82NqY2RpEAQ9dOC5qhVnPiL5zPCUTo1frrvD-FLPsz0luTgSLImpyY0Q2H8=) .
+
+
+**Forward-Looking Statements**
+
+
+This press release includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements in this press release include but are not limited to statements regarding the potential development of AT-587 for the treatment of HEV and anticipated milestone events and timelines for initiation of the HEV Phase 1 program. When used herein, words including “expected,” “should,” “anticipated,” “believe,” “will,” “plans”, and similar expressions are intended to identify forward-looking statements. In addition, any statements or information that refer to expectations, beliefs, plans, projections, objectives, performance or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking. All forward-looking statements are based upon Atea’s current expectations and various assumptions. Atea believes there is a reasonable basis for its expectations and beliefs, but they are inherently uncertain. Atea may not realize its expectations, and its beliefs may not prove correct. Actual results could differ materially from those described or implied by such forward-looking statements as a result of various important factors, including, without limitation, uncertainties inherent in the drug discovery and development process and the regulatory submission or approval process, unexpected or unfavorable safety or efficacy data or results observed during preclinical development, clinical trials or in data readouts; delays in or disruptions to clinical trials or our business; our reliance on third parties over which we may not always have full control; our ability to manufacture sufficient clinical supply and commercial product; as well as the other important factors discussed under the caption “Risk Factors” in Atea’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2025 as such factors may be updated from time to time in its other filings with the SEC, which are accessible on the SEC’s website at www.sec.gov. These and other important factors could cause actual results to differ materially from those indicated by the forward-looking statements made in this press release. Any such forward-looking statements represent management’s estimates as of the date of this press release. While Atea may elect to update such forward-looking statements at some point in the future, except as required by law, it disclaims any obligation to do so, even if subsequent events cause our views to change. These forward-looking statements should not be relied upon as representing Atea’s views as of any date subsequent to the date of this press release.
+
+
+**Contacts**
+
+
+Jonae Barnes
+SVP, Investor Relations and Corporate Communications
+617-818-2985
+[Barnes.jonae@ateapharma.com](https://www.globenewswire.com/Tracker?data=KU0A6DaKYN98UwJKgCLAi6p4t2GTZlzTYtHZarmrSdbjugyNUcZLYprwIP9iyFMbhmxslIUnz-xq5Bp7dQKfsbfa6LI1sZPuJcZT64YlLxSm7yXqUvOHWzxRnemzDKQx)
+
+
+Joyce Allaire
+LifeSci Advisors
+[jallaire@lifesciadvisors.com](https://www.globenewswire.com/Tracker?data=IdvxXR8HXsyi1YLQ9zTtWIRNtBOqi8VjIAcI2-XlulU_PoXPs_DeypRzTO8QqSzvrRKZX9ovP5PT_yFA0iv_hNcZvnZpxHkNsOLeBBjAhMb6s62BDsE4Cq1vJMJ5r1eG)

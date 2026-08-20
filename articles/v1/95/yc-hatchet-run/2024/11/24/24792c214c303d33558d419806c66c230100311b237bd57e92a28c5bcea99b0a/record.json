@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24792c214c303d33558d419806c66c230100311b237bd57e92a28c5bcea99b0a",
+  "company": {
+    "key": "yc-hatchet-run",
+    "name": "Hatchet"
+  },
+  "source": {
+    "id": "yc-hatchet-run-rss-3f16f06bd764",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://hatchet.run/blog/postgres-events-table",
+    "canonical": "https://hatchet.run/blog/postgres-events-table"
+  },
+  "title": "Use Postgres for your events table",
+  "summary": "How to use Postgres for events tables without needing specialized time-series databases.",
+  "published_at": "2024-11-20T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:57:06.374584+00:00",
+  "fetched_at": "2026-08-09T22:57:07.291413+00:00",
+  "last_updated_at": "2026-08-20T03:51:48.022662+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-hatchet-run/2024/11/24/24792c214c303d33558d419806c66c230100311b237bd57e92a28c5bcea99b0a/article.md",
+    "record": "articles/v1/95/yc-hatchet-run/2024/11/24/24792c214c303d33558d419806c66c230100311b237bd57e92a28c5bcea99b0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12966,
+    "sha256": "sha256:5b6a600bd3211ac98875280b71f803e96488b69a58922a3e5cfea71bf92d3f38",
+    "normalized_content_hash": "sha256:fceeaca2bf1b663765f7e4e0e65f4849abca43dcf3d3a72094a867a636ccf219"
+  },
+  "provenance": {
+    "source_item_id": "5e0f850f-93d4-4b2f-9f97-306751a53041",
+    "external_id": "https://hatchet.run/blog/postgres-events-table"
+  }
+}

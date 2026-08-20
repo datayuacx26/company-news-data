@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9655a1a656555c446c8350aca4537128bdc24291176e66fb5e210e2a3bef8f99",
+  "company": {
+    "key": "yc-notte",
+    "name": "Notte"
+  },
+  "source": {
+    "id": "yc-notte-news-import-7238aba58520",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.notte.cc/blog/agent-execution-tax",
+    "canonical": "https://www.notte.cc/blog/agent-execution-tax"
+  },
+  "title": "What Is the Agent Execution Tax?",
+  "summary": "The Agent Execution Tax is the share of LLM inference an agent wastes on malformed output and retries. Here is what it means, how it is calculated, and how to reduce it.",
+  "published_at": "2026-05-19T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T06:23:42.732156+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T19:06:37.269710+00:00",
+  "paths": {
+    "article": "articles/v1/8b/yc-notte/2026/05/96/9655a1a656555c446c8350aca4537128bdc24291176e66fb5e210e2a3bef8f99/article.md",
+    "record": "articles/v1/8b/yc-notte/2026/05/96/9655a1a656555c446c8350aca4537128bdc24291176e66fb5e210e2a3bef8f99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7843,
+    "sha256": "sha256:581daf3968cb461c9c600f336f9208ea34582015627ea1e70acc62e429800117",
+    "normalized_content_hash": "sha256:5df60113cb36fa580e0d0eb4d5b273cfdeba67aaebc05ffdd056ae81bc8448b2"
+  },
+  "provenance": {
+    "source_item_id": "2a22c96c-56bb-4c61-a7c1-7a42b24f2aed",
+    "external_id": "https://www.notte.cc/blog/agent-execution-tax"
+  }
+}

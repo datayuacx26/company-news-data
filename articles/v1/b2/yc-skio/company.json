@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-skio",
+    "name": "Skio"
+  },
+  "record_count": 19,
+  "first_published_at": "2026-06-12T19:15:26.114+00:00",
+  "last_published_at": "2026-08-13T01:58:05.590+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b2/yc-skio/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 20077,
+        "sha256": "sha256:45c8aaac087bec1d2ac372a5f2fbfb67603208eb3e2f35b8408a9e3a3f8a6568",
+        "newest_at": "2026-08-13T01:58:05.590+00:00",
+        "oldest_at": "2026-06-12T19:15:26.114+00:00"
+      }
+    ]
+  }
+}

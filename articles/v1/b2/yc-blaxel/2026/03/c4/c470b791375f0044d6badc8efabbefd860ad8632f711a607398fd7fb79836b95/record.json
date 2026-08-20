@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c470b791375f0044d6badc8efabbefd860ad8632f711a607398fd7fb79836b95",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/ai-runtime-security",
+    "canonical": "https://blaxel.ai/blog/ai-runtime-security"
+  },
+  "title": "AI runtime security: how to protect agent code execution in production",
+  "summary": "AI agents that write and run code need runtime security beyond traditional AppSec. Covers threats, microVM isolation, and layered defenses for eng leaders.",
+  "published_at": "2026-03-18T14:53:45+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:53:18.235079+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/03/c4/c470b791375f0044d6badc8efabbefd860ad8632f711a607398fd7fb79836b95/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/03/c4/c470b791375f0044d6badc8efabbefd860ad8632f711a607398fd7fb79836b95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19728,
+    "sha256": "sha256:cd130cb95ea7234644c9a0a4c96c990205d0c4aecbba65204a9bdd3453430d7f",
+    "normalized_content_hash": "sha256:cadde0a7dbd2e0c5b21869401d86aedb0c14ca00ef6c03d6949eaddfd52d2337"
+  },
+  "provenance": {
+    "source_item_id": "bdd2ba8d-6022-4d99-926f-94f654a140ab",
+    "external_id": "https://blaxel.ai/blog/ai-runtime-security"
+  }
+}

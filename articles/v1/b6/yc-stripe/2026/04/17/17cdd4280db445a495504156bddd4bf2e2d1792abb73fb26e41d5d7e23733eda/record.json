@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "17cdd4280db445a495504156bddd4bf2e2d1792abb73fb26e41d5d7e23733eda",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/everything-we-announced-at-sessions-2026",
+    "canonical": "https://stripe.com/blog/everything-we-announced-at-sessions-2026"
+  },
+  "title": "Everything we announced at Sessions 2026",
+  "summary": "We’re making Stripe even more programmable; protecting and propelling your business with the strength of the Stripe network; and building economic infrastructure for AI.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:05:27.623858+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-07-28T21:21:56.178096+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/04/17/17cdd4280db445a495504156bddd4bf2e2d1792abb73fb26e41d5d7e23733eda/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/04/17/17cdd4280db445a495504156bddd4bf2e2d1792abb73fb26e41d5d7e23733eda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 61530,
+    "sha256": "sha256:583959ac16ce36ceb785247c5c172b6413e5212a2f91df56e6c154ffe2486b34",
+    "normalized_content_hash": "sha256:15e68a21b3dd8604770588e30cf7b412d13431480d8b9d58a4613cbd979c97ac"
+  },
+  "provenance": {
+    "source_item_id": "09b5c14e-177a-4ace-add2-1ee752bf6752",
+    "external_id": "https://stripe.com/blog/everything-we-announced-at-sessions-2026"
+  }
+}

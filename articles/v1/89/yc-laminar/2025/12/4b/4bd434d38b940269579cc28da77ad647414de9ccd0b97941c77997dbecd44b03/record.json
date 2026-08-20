@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4bd434d38b940269579cc28da77ad647414de9ccd0b97941c77997dbecd44b03",
+  "company": {
+    "key": "yc-laminar",
+    "name": "Laminar"
+  },
+  "source": {
+    "id": "yc-laminar-news-import-2ad91bbdebb7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://laminar.sh/blog/2025-12-03-claude-agent-sdk-instrumentation",
+    "canonical": "https://laminar.sh/blog/2025-12-03-claude-agent-sdk-instrumentation"
+  },
+  "title": "How we instrumented Claude Agent SDK using a tiny Rust proxy",
+  "summary": "How we instrumented Claude Agent SDK using a tiny Rust proxy - from the Laminar team",
+  "published_at": "2025-12-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:53:15.322428+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-20T00:04:57.192437+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-laminar/2025/12/4b/4bd434d38b940269579cc28da77ad647414de9ccd0b97941c77997dbecd44b03/article.md",
+    "record": "articles/v1/89/yc-laminar/2025/12/4b/4bd434d38b940269579cc28da77ad647414de9ccd0b97941c77997dbecd44b03/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9781,
+    "sha256": "sha256:8464c3b277542c5e8b8cb5aab35ea5f394578bb4fed40fedeead068f6bd454d2",
+    "normalized_content_hash": "sha256:fd383c8ca002d1d4a3f6730c15c479c4f7012b5bb270b0d45a3444f66bb4cf17"
+  },
+  "provenance": {
+    "source_item_id": "b8eff472-912f-438d-8f69-0a6d2e1c08a5",
+    "external_id": "https://laminar.sh/blog/2025-12-03-claude-agent-sdk-instrumentation"
+  }
+}

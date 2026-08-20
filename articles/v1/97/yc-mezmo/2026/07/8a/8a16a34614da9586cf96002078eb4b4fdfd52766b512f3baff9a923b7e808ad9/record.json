@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a16a34614da9586cf96002078eb4b4fdfd52766b512f3baff9a923b7e808ad9",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/why-sre-agents-need-orchestration-not-just-more-tools",
+    "canonical": "https://www.mezmo.com/blog/why-sre-agents-need-orchestration-not-just-more-tools"
+  },
+  "title": "Why SRE agents need orchestration, not just more tools",
+  "summary": "Single SRE agents hit a ceiling fast. See how AURA's orchestration mode routes work across scoped agents to cut tool overload and context confusion.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/8a/8a16a34614da9586cf96002078eb4b4fdfd52766b512f3baff9a923b7e808ad9/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/8a/8a16a34614da9586cf96002078eb4b4fdfd52766b512f3baff9a923b7e808ad9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9493,
+    "sha256": "sha256:890df71ff2b2f94d10feb4ea041484d97f98609c310afacb683063ccdc235eb5",
+    "normalized_content_hash": "sha256:3c1c19afdab81c1fabd5bbd5413d81e793c55761bd50e4bc9020ea1ba30488db"
+  },
+  "provenance": {
+    "source_item_id": "c6b4b6cf-4615-4e08-922d-a6c4530ad449",
+    "external_id": "https://www.mezmo.com/blog/why-sre-agents-need-orchestration-not-just-more-tools"
+  }
+}

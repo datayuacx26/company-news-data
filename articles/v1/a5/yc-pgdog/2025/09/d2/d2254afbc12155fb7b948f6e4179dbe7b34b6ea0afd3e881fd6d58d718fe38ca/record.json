@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2254afbc12155fb7b948f6e4179dbe7b34b6ea0afd3e881fd6d58d718fe38ca",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/writing-nothing-but-docs",
+    "canonical": "https://pgdog.dev/blog/writing-nothing-but-docs"
+  },
+  "title": "Writing nothing but docs for a week",
+  "summary": "Lessons from a week of writing PgDog's documentation: validating TOML examples with configcheck, parsing SQL snippets with pglast in CI, and why LLMs can't write the why.",
+  "published_at": "2025-09-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.478310+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-20T02:38:54.029156+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2025/09/d2/d2254afbc12155fb7b948f6e4179dbe7b34b6ea0afd3e881fd6d58d718fe38ca/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2025/09/d2/d2254afbc12155fb7b948f6e4179dbe7b34b6ea0afd3e881fd6d58d718fe38ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6207,
+    "sha256": "sha256:efdf61e00c26cf5c821208bbc2fe6b9a696c4953ca99ae340fbcb6160151d4a8",
+    "normalized_content_hash": "sha256:9986a8d9ac415175131f25b655627f32cb43b34d68787b5d2a6ca520362550bb"
+  },
+  "provenance": {
+    "source_item_id": "f19e3e81-376a-4af5-a475-5fdf9c5d0cf0",
+    "external_id": "https://pgdog.dev/blog/writing-nothing-but-docs"
+  }
+}

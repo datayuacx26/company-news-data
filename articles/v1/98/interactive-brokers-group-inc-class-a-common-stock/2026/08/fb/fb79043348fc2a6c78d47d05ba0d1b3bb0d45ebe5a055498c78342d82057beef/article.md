@@ -1,0 +1,43 @@
+---
+schema_version: "1.0.0"
+document_id: "fb79043348fc2a6c78d47d05ba0d1b3bb0d45ebe5a055498c78342d82057beef"
+company_key: "interactive-brokers-group-inc-class-a-common-stock"
+company: "Interactive Brokers Group Inc."
+source_id: "interactive-brokers-group-inc-class-a-common-stock-rss-6a7d331824b8"
+canonical_url: "https://www.interactivebrokers.com/campus/traders-insight/securities/macro/breaking-down-big-techs-q2-earnings/"
+published_at: "2026-08-04T14:45:00+00:00"
+first_seen_at: "2026-08-04T15:59:56.016091+00:00"
+fetched_at: "2026-08-04T17:31:37.256081+00:00"
+content_hash: "sha256:4889ca7b76abea13c00074bfca8db0056c3d3b7fd9e1000806c8cb268c54f7e1"
+---
+
+# Breaking down Big Tech’s Q2 earnings
+
+###### Disclosure: BMO Exchange Traded Funds
+
+
+*Commissions, management fees and expenses all may be associated with investments in exchange traded funds. Please read the ETF Facts or prospectus of the BMO ETFs before investing. Exchange traded funds are not guaranteed, their values change frequently and past performance may not be repeated.*
+
+
+*For a summary of the risks of an investment in the BMO ETFs, please see the specific risks set out in the BMO ETF’s prospectus. BMO ETFs trade like stocks, fluctuate in market value and may trade at a discount to their net asset value, which may increase the risk of loss. Distributions are not guaranteed and are subject to change and/or elimination.*
+
+
+*BMO ETFs are managed by BMO Asset Management Inc., which is an investment fund manager and a portfolio manager, and a separate legal entity from Bank of Montreal.*
+
+
+*®/™Registered trade-marks/trade-mark of Bank of Montreal, used under licence.*
+
+
+###### Disclosure: Interactive Brokers Third Party
+
+
+Information posted on IBKR Campus that is provided by third-parties does NOT constitute a recommendation that you should contract for the services of that third party. Third-party participants who contribute to IBKR Campus are independent of Interactive Brokers and Interactive Brokers does not make any representations or warranties concerning the services offered, their past or future performance, or the accuracy of the information provided by the third party. Past performance is no guarantee of future results.
+
+
+This material is from BMO Exchange Traded Funds and is being posted with its permission. The views expressed in this material are solely those of the author and/or BMO Exchange Traded Funds and Interactive Brokers is not endorsing or recommending any investment or trading discussed in the material. This material is not and should not be construed as an offer to buy or sell any security. It should not be construed as research or investment advice or a recommendation to buy, sell or hold any security or commodity. This material does not and is not intended to take into account the particular financial conditions, investment objectives or requirements of individual customers. Before acting on this material, you should consider whether it is suitable for your particular circumstances and, as necessary, seek professional advice.
+
+
+###### Disclosure: Futures Trading
+
+
+Futures are not suitable for all investors. The amount you may lose may be greater than your initial investment. Before trading futures, please read the CFTC Risk Disclosure. A copy and additional information are available at ibkr.com.

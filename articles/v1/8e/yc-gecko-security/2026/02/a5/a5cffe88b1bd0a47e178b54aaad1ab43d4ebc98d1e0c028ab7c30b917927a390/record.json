@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a5cffe88b1bd0a47e178b54aaad1ab43d4ebc98d1e0c028ab7c30b917927a390",
+  "company": {
+    "key": "yc-gecko-security",
+    "name": "Gecko Security"
+  },
+  "source": {
+    "id": "yc-gecko-security-news-import-02715d60c1a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gecko.security/blog/cve-2026-21894",
+    "canonical": "https://www.gecko.security/blog/cve-2026-21894"
+  },
+  "title": "CVE-2026-21894: n8n Missing Stripe-Signature Verification Allows Forged Webhooks",
+  "summary": "Authentication bypass in n8n's StripeTrigger node allows unauthenticated attackers to forge arbitrary Stripe webhooks without knowing the signing secret.",
+  "published_at": "2026-02-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:22:16.875303+00:00",
+  "fetched_at": "2026-07-28T22:21:48.311987+00:00",
+  "last_updated_at": "2026-08-20T03:09:25.114394+00:00",
+  "paths": {
+    "article": "articles/v1/8e/yc-gecko-security/2026/02/a5/a5cffe88b1bd0a47e178b54aaad1ab43d4ebc98d1e0c028ab7c30b917927a390/article.md",
+    "record": "articles/v1/8e/yc-gecko-security/2026/02/a5/a5cffe88b1bd0a47e178b54aaad1ab43d4ebc98d1e0c028ab7c30b917927a390/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5069,
+    "sha256": "sha256:cb97a7e92d77bb825f6b3e06c8d2cc80865517141a22f3d726f9262ab8046125",
+    "normalized_content_hash": "sha256:d78ca277aee583846e538ac2235cd61375f85b4de9c04f9372b6df9977180528"
+  },
+  "provenance": {
+    "source_item_id": "30b1bc25-cfbd-4068-86b9-f587c32080ee",
+    "external_id": "https://www.gecko.security/blog/cve-2026-21894"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "156d7d3d7afd96825c42085b739f6479af9a66ad7704c0c52ff78be68d8fbffa",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/self-hosted-crashed-after-adding-s3/546#post_1",
+    "canonical": "https://forum.openreplay.com/t/self-hosted-crashed-after-adding-s3/546"
+  },
+  "title": "Self Hosted Crashed after adding S3",
+  "summary": "I have deployed a selfhosted version of openreplay on ec2, we ran into storage issue, therefore carefully went tghrough documentations, after adding all the required detailes in openreplay -e, the pods crashed, and does not work.",
+  "published_at": "2025-08-22T18:31:03+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2025/08/15/156d7d3d7afd96825c42085b739f6479af9a66ad7704c0c52ff78be68d8fbffa/article.md",
+    "record": "articles/v1/ad/yc-asayer/2025/08/15/156d7d3d7afd96825c42085b739f6479af9a66ad7704c0c52ff78be68d8fbffa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2764,
+    "sha256": "sha256:8aa0c2a5a6336f50d0254bed919ad86e88fdb7568592a907021328b772eb2424",
+    "normalized_content_hash": "sha256:144438b22eaff10bafccbdae2336d24293b128b4179e96adb63a7565b286066c"
+  },
+  "provenance": {
+    "source_item_id": "6229942e-5ae0-430f-a0a9-b795d50aa2c5",
+    "external_id": "forum.openreplay.com-post-1415"
+  }
+}

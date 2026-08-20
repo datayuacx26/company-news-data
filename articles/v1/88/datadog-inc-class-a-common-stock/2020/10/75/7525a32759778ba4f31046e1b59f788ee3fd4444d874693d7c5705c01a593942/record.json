@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7525a32759778ba4f31046e1b59f788ee3fd4444d874693d7c5705c01a593942",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/"
+  },
+  "title": "How we wrote a Python profiler",
+  "summary": "Adventures in developing a Python profiler",
+  "published_at": "2020-10-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:05:18.773660+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2020/10/75/7525a32759778ba4f31046e1b59f788ee3fd4444d874693d7c5705c01a593942/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2020/10/75/7525a32759778ba4f31046e1b59f788ee3fd4444d874693d7c5705c01a593942/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10835,
+    "sha256": "sha256:0f9094b6daa72298e40b306803d7e215b82bcdd0792663048b9061781ac20323",
+    "normalized_content_hash": "sha256:f54409b32d0e58dfc3128a9c5e4c73e97bd4966af90031722518ba5f92285c6b"
+  },
+  "provenance": {
+    "source_item_id": "add972fc-bd94-410f-8d8c-ea1a59587b9c",
+    "external_id": "https://www.datadoghq.com/blog/engineering/how-we-wrote-a-python-profiler/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "679c1d3d9fe6a676366c1384a456e70d6616cb0386b07d48fb721c0e71081fef",
+  "company": {
+    "key": "yc-dyneti-technologies",
+    "name": "Dyneti Technologies"
+  },
+  "source": {
+    "id": "yc-dyneti-technologies-news-import-1c6d539de66b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dyneti.com/blog/solutions-for-sophisticated-fraud",
+    "canonical": "https://dyneti.com/blog/solutions-for-sophisticated-fraud"
+  },
+  "title": "How to deal with fraud beyond account bans and manual review?",
+  "summary": "It starts with a sudden spike in transaction disputes as customers claim they never placed orders through your app. Is this friendly fraud, or something more sinister? Your investigation reveals a disturbing pattern. Dozens of different user accounts are making purchases with the same stolen credit cards, none belonging to the actual account holders. The picture becomes clear: fraudsters have exploited a vulnerability in your checkout system, launching a coordinated attack using compromised payment methods at scale. Your response is immediate but blunt - block suspicious transactions. Unfortunately, legitimate customers get caught in the crossfire, their valid purchases declined along with the fraudulent ones. If this scenario sounds familiar, keep reading.",
+  "published_at": "2025-09-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T08:07:54.578685+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T20:49:08.368104+00:00",
+  "paths": {
+    "article": "articles/v1/81/yc-dyneti-technologies/2025/09/67/679c1d3d9fe6a676366c1384a456e70d6616cb0386b07d48fb721c0e71081fef/article.md",
+    "record": "articles/v1/81/yc-dyneti-technologies/2025/09/67/679c1d3d9fe6a676366c1384a456e70d6616cb0386b07d48fb721c0e71081fef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6305,
+    "sha256": "sha256:428eb692eb85b18ce201c3752ac87bf175f7228c1e8573912cb04d873a41159e",
+    "normalized_content_hash": "sha256:fdbae14509bc5a0ba2f5589fa1b267a221b94a25de896c2fbf178d217e0f71a7"
+  },
+  "provenance": {
+    "source_item_id": "eb41b9f2-7a54-4d05-b95c-b4b8cc28c6a5",
+    "external_id": "https://dyneti.com/blog/solutions-for-sophisticated-fraud"
+  }
+}

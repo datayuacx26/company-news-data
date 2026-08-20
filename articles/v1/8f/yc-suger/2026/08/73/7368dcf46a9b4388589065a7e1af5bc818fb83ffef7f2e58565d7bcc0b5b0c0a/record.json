@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7368dcf46a9b4388589065a7e1af5bc818fb83ffef7f2e58565d7bcc0b5b0c0a",
+  "company": {
+    "key": "yc-suger",
+    "name": "Suger"
+  },
+  "source": {
+    "id": "yc-suger-news-import-2505a48c7131",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.suger.io/resources/blog/marketplace-provisioning-failures/",
+    "canonical": "https://www.suger.io/resources/blog/marketplace-provisioning-failures/"
+  },
+  "title": "When a Buyer Pays but Provisioning Never Happens",
+  "summary": "Why an AWS Marketplace buyer ends up with no access after paying: the ResolveCustomer handshake, the subscription events, and six silent failure points.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T08:10:57.347630+00:00",
+  "fetched_at": "2026-08-11T08:11:00.150542+00:00",
+  "last_updated_at": "2026-08-14T19:55:43.751900+00:00",
+  "paths": {
+    "article": "articles/v1/8f/yc-suger/2026/08/73/7368dcf46a9b4388589065a7e1af5bc818fb83ffef7f2e58565d7bcc0b5b0c0a/article.md",
+    "record": "articles/v1/8f/yc-suger/2026/08/73/7368dcf46a9b4388589065a7e1af5bc818fb83ffef7f2e58565d7bcc0b5b0c0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11948,
+    "sha256": "sha256:f7cdcd0a7a5fa4a2c29ffcbe60db32c7327b91a22026bae99ab7b21812483eda",
+    "normalized_content_hash": "sha256:a92b13939778e69cb90056cd59bef0c086a5430c4d2f0689d5a9550195ab14cc"
+  },
+  "provenance": {
+    "source_item_id": "013f88ab-befe-479e-b35c-fb13ba1db0c4",
+    "external_id": "https://www.suger.io/resources/blog/marketplace-provisioning-failures/"
+  }
+}

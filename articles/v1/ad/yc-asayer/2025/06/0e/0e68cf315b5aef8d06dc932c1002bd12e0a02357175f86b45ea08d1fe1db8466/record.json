@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0e68cf315b5aef8d06dc932c1002bd12e0a02357175f86b45ea08d1fe1db8466",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/how-to-build-openreplay-assist-js-from-source/530#post_1",
+    "canonical": "https://forum.openreplay.com/t/how-to-build-openreplay-assist-js-from-source/530"
+  },
+  "title": "How to build openreplay-assist.js from source?",
+  "summary": "Is there a build guide for compiling/bundling the openreplay-assist.js script from the source? I have tried building the tracker and tracker-assist module but encountered several issues. When I try to build it using bun run build I get several compile errors, after some tweaking on the code I was able to run the build successfully. But the rollup config file inside the tracker directory only produces code with cjs and es format s. The tracker-assist plugin doesn’t even have a rollup config. ...",
+  "published_at": "2025-06-18T18:17:12+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2025/06/0e/0e68cf315b5aef8d06dc932c1002bd12e0a02357175f86b45ea08d1fe1db8466/article.md",
+    "record": "articles/v1/ad/yc-asayer/2025/06/0e/0e68cf315b5aef8d06dc932c1002bd12e0a02357175f86b45ea08d1fe1db8466/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3067,
+    "sha256": "sha256:acb3081ce504161a57e44d99885169b1ddb37fabd22c1996f9a4f34ebafd93fe",
+    "normalized_content_hash": "sha256:3e0138ab4b9700ba48fd7d794c1a5f98343a478ae00ab9d46aff7f71bad4cf9e"
+  },
+  "provenance": {
+    "source_item_id": "bed2984b-66fc-4602-a8b9-b75699b2ace6",
+    "external_id": "forum.openreplay.com-post-1375"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "brightspring-health-services-inc-tangible-equity-unit",
+    "name": "BrightSpring Health Services Inc. Tangible Equity Unit"
+  },
+  "record_count": 18,
+  "first_published_at": "2019-07-19T16:16:00+00:00",
+  "last_published_at": "2026-08-12T22:05:23+00:00",
+  "partitions": [
+    {
+      "partition": "2019-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/brightspring-health-services-inc-tangible-equity-unit/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 23509,
+        "sha256": "sha256:0d2cf7bc41bf7522f95fd18e7b1aa60b7ee9762c97c5b1a30a64c1104ea2a897",
+        "newest_at": "2026-08-12T22:05:23+00:00",
+        "oldest_at": "2019-07-19T16:16:00+00:00"
+      }
+    ]
+  }
+}

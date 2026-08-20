@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "05aa42aa52b32147e8b26dae2e6033b181c381ad782d7dcd0aaaf449e0a76e0b",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/building-persistent-memory-for-a-therapy-ai-assistant",
+    "canonical": "https://mem0.ai/blog/building-persistent-memory-for-a-therapy-ai-assistant"
+  },
+  "title": "Building Persistent Memory for a Therapy AI Assistant",
+  "summary": "A therapist's AI captures 14 structured facts over 3 sessions. The referral letter keeps 4 sentences. See what the psychiatrist's assistant knows with and without shared memory.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T17:29:03.310285+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-07-28T21:44:15.954894+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/06/05/05aa42aa52b32147e8b26dae2e6033b181c381ad782d7dcd0aaaf449e0a76e0b/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/06/05/05aa42aa52b32147e8b26dae2e6033b181c381ad782d7dcd0aaaf449e0a76e0b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17904,
+    "sha256": "sha256:47af5a842adc11fd48be749f872e668d124b60c453e65445716c1fb4eaf1723c",
+    "normalized_content_hash": "sha256:512ae196b8822987a57d62122c74efbe979886a04c2699e66ca442aa91f64af0"
+  },
+  "provenance": {
+    "source_item_id": "e435a0f8-9709-4b34-9b26-9293d4ab5d7a",
+    "external_id": "https://mem0.ai/blog/building-persistent-memory-for-a-therapy-ai-assistant"
+  }
+}

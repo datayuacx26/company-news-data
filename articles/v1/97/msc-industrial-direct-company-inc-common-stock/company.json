@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "msc-industrial-direct-company-inc-common-stock",
+    "name": "MSC Industrial Direct Company Inc."
+  },
+  "record_count": 32,
+  "first_published_at": "2026-07-07T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/97/msc-industrial-direct-company-inc-common-stock/index/pages/000001.json",
+        "record_count": 32,
+        "byte_count": 40369,
+        "sha256": "sha256:516bdd569cd671f0c78b08cebf4ea24667f174b00c78fd920990aa49a6591c90",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2026-07-07T00:00:00+00:00"
+      }
+    ]
+  }
+}

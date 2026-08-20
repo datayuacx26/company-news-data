@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ace88d08134b4f45580ccf514b3b388b201d2aef32515c2e367926d85ec56e0",
+  "company": {
+    "key": "yc-monarcha",
+    "name": "Monarcha"
+  },
+  "source": {
+    "id": "yc-monarcha-news-import-ca6488fb1f69",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://monarcha.ai/blog/heterogeneous-vs-homogeneous-georeferencing",
+    "canonical": "https://monarcha.ai/blog/heterogeneous-vs-homogeneous-georeferencing"
+  },
+  "title": "Heterogeneous vs Homogeneous Georeferencing: Why the Modality Gap Breaks Legacy Map Pipelines",
+  "summary": "A technical primer on cross-modal image matching and why the modality gap is the single biggest reason traditional georeferencing tools fail on legacy archives.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:03:32.579277+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-19T18:58:29.700529+00:00",
+  "paths": {
+    "article": "articles/v1/8c/yc-monarcha/2026/05/5a/5ace88d08134b4f45580ccf514b3b388b201d2aef32515c2e367926d85ec56e0/article.md",
+    "record": "articles/v1/8c/yc-monarcha/2026/05/5a/5ace88d08134b4f45580ccf514b3b388b201d2aef32515c2e367926d85ec56e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9034,
+    "sha256": "sha256:f45fe30659b5e2f425a780b9cae81237f86f4d7810db3e98493edb0529eabb5a",
+    "normalized_content_hash": "sha256:a9a88686c67acbec04520ee98fb0779d0c3977275cd84f2c654c1ce461849904"
+  },
+  "provenance": {
+    "source_item_id": "d224fe42-4f5b-42d1-8400-45b7828351a9",
+    "external_id": "https://monarcha.ai/blog/heterogeneous-vs-homogeneous-georeferencing"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1152c2c40260dd154312cf655b5651a63a76641cb2d60f4e343c69c99404a00",
+  "company": {
+    "key": "yc-moda",
+    "name": "Moda"
+  },
+  "source": {
+    "id": "yc-moda-news-import-ace8c1d7597a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://moda.dev/blog/clustering",
+    "canonical": "https://moda.dev/blog/clustering"
+  },
+  "title": "How We Clustered 150 Million Conversation Segments Without a Single Label",
+  "summary": "Conversations are the wrong unit of analysis. Here's the pipeline we built to segment, summarize, cluster, label, and track user behavior across 50M+ conversations -- fully unsupervised.",
+  "published_at": "2026-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:44:21.515931+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-19T19:25:13.097676+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-moda/2026/04/b1/b1152c2c40260dd154312cf655b5651a63a76641cb2d60f4e343c69c99404a00/article.md",
+    "record": "articles/v1/ba/yc-moda/2026/04/b1/b1152c2c40260dd154312cf655b5651a63a76641cb2d60f4e343c69c99404a00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15010,
+    "sha256": "sha256:82853118f65fc2fd7a65804a42633c806292119bf6650b4a254cf63f600a786d",
+    "normalized_content_hash": "sha256:e8da743f4dc8fbf40b7cff2e219e64fe3dd63b242cdcf4242036672f60ceea86"
+  },
+  "provenance": {
+    "source_item_id": "4a3a2a1d-e1fd-4b7b-babd-9e8b1ac55413",
+    "external_id": "https://moda.dev/blog/clustering"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "696b4e6d3166fa996953acfc48ba054179da4ff95a480285731703f74b342e72",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/"
+  },
+  "title": "Unbiased Java CPU profiling with JFR in JDK 25",
+  "summary": "Modern Java profilers often rely on unsupported JVM internals for accurate CPU profiling. Here’s how engineers from Datadog, SAP, Amazon, and the OpenJDK community helped bring a new CPU profiling event to JDK 25.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T10:14:43.110573+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/69/696b4e6d3166fa996953acfc48ba054179da4ff95a480285731703f74b342e72/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/69/696b4e6d3166fa996953acfc48ba054179da4ff95a480285731703f74b342e72/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17100,
+    "sha256": "sha256:edd5dfe44688a14fc0af81d63d314dfdea90b93d1cba0a92a249895a258dbc0d",
+    "normalized_content_hash": "sha256:7ba943fa851e4108a500643948a4791dd9111b5e2ee7c7d23dc54a6f94c99af5"
+  },
+  "provenance": {
+    "source_item_id": "770cd085-fb99-4f78-9caf-e12d94c1d390",
+    "external_id": "https://www.datadoghq.com/blog/engineering/jfr-cpu-time-profiling/"
+  }
+}

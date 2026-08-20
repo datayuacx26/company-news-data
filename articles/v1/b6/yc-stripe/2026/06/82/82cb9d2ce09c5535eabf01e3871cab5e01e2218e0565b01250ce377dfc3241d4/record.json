@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82cb9d2ce09c5535eabf01e3871cab5e01e2218e0565b01250ce377dfc3241d4",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/extending-stripes-network-with-stablecoins",
+    "canonical": "https://stripe.dev/blog/extending-stripes-network-with-stablecoins"
+  },
+  "title": "Extending Stripe’s network with stablecoins",
+  "summary": "Most of the world's money still moves in batches. A wire submitted at 2pm might settle by end of day, if you made the cutoff. ACH takes one to three business days. Cross-border payments touch correspondent banks, each adding lag and a fee. Stripe has spent over a decade building the Global Payments and Treasury Network (GPTN), a programmable infrastructure for global money movement that batches transfers to reduce cost, nets opposing flows to minimize actual cash moved, and routes through the optimal path between accounts. Under the hood, it's a graph with accounts as nodes, and payment rails as edges.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/82/82cb9d2ce09c5535eabf01e3871cab5e01e2218e0565b01250ce377dfc3241d4/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/82/82cb9d2ce09c5535eabf01e3871cab5e01e2218e0565b01250ce377dfc3241d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4425,
+    "sha256": "sha256:7f1324864f50c129cbecf3bb72cd6a9cbd61e446b5ac3721b2ea778e4752ef39",
+    "normalized_content_hash": "sha256:1dfcecfa794b3128c7ad48454e843f26303777317346503148a750fc92fcf509"
+  },
+  "provenance": {
+    "source_item_id": "6fe43efa-bb06-46e4-b60b-7fa9713bd0a8",
+    "external_id": "https://stripe.dev/blog/extending-stripes-network-with-stablecoins"
+  }
+}

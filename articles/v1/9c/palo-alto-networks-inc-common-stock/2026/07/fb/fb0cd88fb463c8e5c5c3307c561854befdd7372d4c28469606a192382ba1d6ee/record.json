@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb0cd88fb463c8e5c5c3307c561854befdd7372d4c28469606a192382ba1d6ee",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+    "canonical": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/"
+  },
+  "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
+  "summary": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more.",
+  "published_at": "2026-07-15T23:00:33+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/fb/fb0cd88fb463c8e5c5c3307c561854befdd7372d4c28469606a192382ba1d6ee/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/fb/fb0cd88fb463c8e5c5c3307c561854befdd7372d4c28469606a192382ba1d6ee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 67398,
+    "sha256": "sha256:cbd38b80e94b8d042e782a576fc11b76b2bbdae6c075158f24567fd3373b8ff9",
+    "normalized_content_hash": "sha256:ecda78fcbf9e2caea7c5c967a4e9530eb5356bca2140f31d736068fd9c7a218a"
+  },
+  "provenance": {
+    "source_item_id": "bb769891-23fc-4d78-90a6-ffaf8408437d",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=179395"
+  }
+}

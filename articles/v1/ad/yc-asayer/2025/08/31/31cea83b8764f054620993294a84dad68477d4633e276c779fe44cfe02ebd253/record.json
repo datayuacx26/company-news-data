@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31cea83b8764f054620993294a84dad68477d4633e276c779fe44cfe02ebd253",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/changing-the-domain-name-for-an-existing-deployment/545#post_1",
+    "canonical": "https://forum.openreplay.com/t/changing-the-domain-name-for-an-existing-deployment/545"
+  },
+  "title": "Changing the domain name for an existing deployment",
+  "summary": "I installed openreplay with a domain name that I’d now like to change. I see openreplay -–edit allows me to change the domain name, but doing so doesn’t seem to propagate to the wide variety of Ingress/Deployment resources that are still using the old name. Do I have to update all of these one by one? Is there a better way to change the domain name on an existing deployment?",
+  "published_at": "2025-08-17T13:13:57+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2025/08/31/31cea83b8764f054620993294a84dad68477d4633e276c779fe44cfe02ebd253/article.md",
+    "record": "articles/v1/ad/yc-asayer/2025/08/31/31cea83b8764f054620993294a84dad68477d4633e276c779fe44cfe02ebd253/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2862,
+    "sha256": "sha256:2582d1495be50b8f3f691e7a0054a809cafab76e348c07e50ff52a58a88d54a3",
+    "normalized_content_hash": "sha256:7f4f938cfc59c5289cb050504d7ddd2d6e52c21ea6de75363fe8224964c19181"
+  },
+  "provenance": {
+    "source_item_id": "03e31139-bb1e-4176-bf7f-7f08702752e8",
+    "external_id": "forum.openreplay.com-post-1414"
+  }
+}

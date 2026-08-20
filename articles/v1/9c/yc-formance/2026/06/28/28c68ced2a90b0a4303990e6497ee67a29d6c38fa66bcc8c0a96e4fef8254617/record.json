@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28c68ced2a90b0a4303990e6497ee67a29d6c38fa66bcc8c0a96e4fef8254617",
+  "company": {
+    "key": "yc-formance",
+    "name": "Formance"
+  },
+  "source": {
+    "id": "yc-formance-news-import-baf47baa49b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.formance.com/blog/industry-analysis/an-engineering-buying-framework-for-a-payment-processor",
+    "canonical": "https://www.formance.com/blog/industry-analysis/an-engineering-buying-framework-for-a-payment-processor"
+  },
+  "title": "How to Evaluate a Payment Processor | Engineering Buying Framework",
+  "summary": "An engineering framework for evaluating payment processors on idempotency, failover, ledger, reconciliation, and compliance.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:58:17.775073+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-28T21:44:17.037951+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-formance/2026/06/28/28c68ced2a90b0a4303990e6497ee67a29d6c38fa66bcc8c0a96e4fef8254617/article.md",
+    "record": "articles/v1/9c/yc-formance/2026/06/28/28c68ced2a90b0a4303990e6497ee67a29d6c38fa66bcc8c0a96e4fef8254617/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18412,
+    "sha256": "sha256:6a1b22adbc4193dd6e2b646df1641f79569b24e5bd592398c38f6e73f4f7881f",
+    "normalized_content_hash": "sha256:0179bf023c0e1087c5fcb382ab17da70c857c1df10c80d15b6b74ec9fe0b9ad1"
+  },
+  "provenance": {
+    "source_item_id": "ea4e8df1-958c-4dfc-af20-788c93d940cf",
+    "external_id": "https://www.formance.com/blog/industry-analysis/an-engineering-buying-framework-for-a-payment-processor"
+  }
+}

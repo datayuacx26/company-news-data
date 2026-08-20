@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2d5cfd672804a58da858f1efc4bfee8c8c8027f98f50280e95d6f564f83d1564",
+  "company": {
+    "key": "new-york-times-company-the-common-stock",
+    "name": "New York Times Company (The)"
+  },
+  "source": {
+    "id": "new-york-times-company-the-common-stock-rss-077dcf020701",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+    "canonical": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html"
+  },
+  "title": "This A.I. Just Created Viruses Not Found in Nature",
+  "summary": "Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable, yielding new viruses.",
+  "published_at": "2026-08-07T00:30:08+00:00",
+  "first_seen_at": "2026-08-06T18:52:05.481676+00:00",
+  "fetched_at": "2026-08-07T07:30:38.170469+00:00",
+  "last_updated_at": "2026-08-07T07:30:38.218721+00:00",
+  "paths": {
+    "article": "articles/v1/92/new-york-times-company-the-common-stock/2026/08/2d/2d5cfd672804a58da858f1efc4bfee8c8c8027f98f50280e95d6f564f83d1564/article.md",
+    "record": "articles/v1/92/new-york-times-company-the-common-stock/2026/08/2d/2d5cfd672804a58da858f1efc4bfee8c8c8027f98f50280e95d6f564f83d1564/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 824,
+    "sha256": "sha256:bb3a7d689cb702f51e34e2b9ba602037e9284b7a6115af2f8a3bc8919a8e61dd",
+    "normalized_content_hash": "sha256:d95e50a76149e5ce5583e9460c9a9063bf15022c53365250f3bc6f61c8cd5b8e"
+  },
+  "provenance": {
+    "source_item_id": "10c18ba0-7061-44a5-b523-08a5ea52c5c9",
+    "external_id": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html"
+  }
+}

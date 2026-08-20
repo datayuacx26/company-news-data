@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d882c8a8b64bdf8986b1280658cd906384aa11035d3d3f6f723155a00c3e760",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2020-07-17-workloadplacementguidelines/",
+    "canonical": "https://tech.trivago.com/post/2020-07-17-workloadplacementguidelines/"
+  },
+  "title": "Google Cloud Workload-Placement-Guide",
+  "summary": "At trivago we operate a hybrid infrastructure of both on-premise machines and clusters on Google Cloud. Over time, we came up with a set of deployment guidelines for running our workloads as mor...",
+  "published_at": "2020-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:05:18.773660+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2020/07/9d/9d882c8a8b64bdf8986b1280658cd906384aa11035d3d3f6f723155a00c3e760/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2020/07/9d/9d882c8a8b64bdf8986b1280658cd906384aa11035d3d3f6f723155a00c3e760/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12616,
+    "sha256": "sha256:57d461c074c707b07692172f0f4d46674dba2b2a11ee5dd796b383b7b29b0ca8",
+    "normalized_content_hash": "sha256:cd22270a2eaca81398c455575c231366e7059c04004f544a213bdcb0dc0ad360"
+  },
+  "provenance": {
+    "source_item_id": "b588e419-65a5-4d7f-b6d4-c41356de730a",
+    "external_id": "https://tech.trivago.com/post/2020-07-17-workloadplacementguidelines/"
+  }
+}

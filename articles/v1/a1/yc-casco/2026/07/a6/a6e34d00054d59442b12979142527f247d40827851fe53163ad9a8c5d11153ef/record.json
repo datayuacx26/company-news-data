@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a6e34d00054d59442b12979142527f247d40827851fe53163ad9a8c5d11153ef",
+  "company": {
+    "key": "yc-casco",
+    "name": "Casco"
+  },
+  "source": {
+    "id": "yc-casco-news-import-3e4503ef629e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://casco.com/blog/network-observability",
+    "canonical": "https://casco.com/blog/network-observability"
+  },
+  "title": "Identify and Trace AI Pentest Traffic | Casco Observability",
+  "summary": "Every Casco request carries x-casco-request-id. Verify it against your network signature, trace exploits through your logs, and enforce scope below the agent.",
+  "published_at": "2026-07-31T17:00:00+00:00",
+  "first_seen_at": "2026-07-31T18:50:42.124553+00:00",
+  "fetched_at": "2026-07-31T18:50:43.655795+00:00",
+  "last_updated_at": "2026-08-20T02:45:37.533025+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-casco/2026/07/a6/a6e34d00054d59442b12979142527f247d40827851fe53163ad9a8c5d11153ef/article.md",
+    "record": "articles/v1/a1/yc-casco/2026/07/a6/a6e34d00054d59442b12979142527f247d40827851fe53163ad9a8c5d11153ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5078,
+    "sha256": "sha256:4db5bb5f9ca6a83ce5a31678348859468bb36708799bd03efe2ad702e3734b35",
+    "normalized_content_hash": "sha256:ae7f3a5cf6fa308a7d81e95819fadb3270a8e14683461e4b8ee31d4d2b77b3fd"
+  },
+  "provenance": {
+    "source_item_id": "5df14bbe-e8b7-46d6-ab29-6956f68f87a6",
+    "external_id": "https://casco.com/blog/network-observability"
+  }
+}

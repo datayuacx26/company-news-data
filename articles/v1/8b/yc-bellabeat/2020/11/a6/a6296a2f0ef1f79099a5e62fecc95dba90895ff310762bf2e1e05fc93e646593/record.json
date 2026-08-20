@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a6296a2f0ef1f79099a5e62fecc95dba90895ff310762bf2e1e05fc93e646593",
+  "company": {
+    "key": "yc-bellabeat",
+    "name": "Bellabeat"
+  },
+  "source": {
+    "id": "yc-bellabeat-news-import-b626e1833136",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bellabeat.com/press/bellabeat-launches-spring/",
+    "canonical": "https://bellabeat.com/press/bellabeat-launches-spring/"
+  },
+  "title": "Bellabeat Launches Spring",
+  "summary": "Bellabeat Spring is the first smart water bottle powered by AI that can tell you exactly how much water you should be drinking based on your needs.",
+  "published_at": "2020-11-20T14:50:23+00:00",
+  "first_seen_at": "2026-07-27T08:00:38.340274+00:00",
+  "fetched_at": "2026-07-28T21:33:49.818370+00:00",
+  "last_updated_at": "2026-08-19T21:52:30.625922+00:00",
+  "paths": {
+    "article": "articles/v1/8b/yc-bellabeat/2020/11/a6/a6296a2f0ef1f79099a5e62fecc95dba90895ff310762bf2e1e05fc93e646593/article.md",
+    "record": "articles/v1/8b/yc-bellabeat/2020/11/a6/a6296a2f0ef1f79099a5e62fecc95dba90895ff310762bf2e1e05fc93e646593/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4041,
+    "sha256": "sha256:564e0eefdab06e68c824dd3d237c937888fed04f42dd2aceec5439725b4f261c",
+    "normalized_content_hash": "sha256:a09ee0bc584db032c913564e0449edda13c1d27c67178b1fb9cf4935df6c6033"
+  },
+  "provenance": {
+    "source_item_id": "08870d64-b435-4fba-8f49-ef50a5c05040",
+    "external_id": "https://bellabeat.com/press/bellabeat-launches-spring/"
+  }
+}

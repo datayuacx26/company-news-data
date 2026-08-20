@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4d060ad15d3c829bea6acca31b77abd6cd7241dbd7bc114acb4a00be61a8c8ac",
+  "company": {
+    "key": "yc-skyvern",
+    "name": "Skyvern"
+  },
+  "source": {
+    "id": "yc-skyvern-rss-4bc1426a1548",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.skyvern.com/blog/rustwright-playwright-rewritten-in-rust-that-occupies-70-less-memory-and-is-2-55x-faster/",
+    "canonical": "https://www.skyvern.com/blog/rustwright-playwright-rewritten-in-rust-that-occupies-70-less-memory-and-is-2-55x-faster/"
+  },
+  "title": "Rustwright: Playwright rewritten in rust that occupies 70% less memory (and is 2.55x faster)",
+  "summary": "Hey everyone, Suchintan from Skyvern (YC S23). We run browser automation for AI agents at scale, and we're launching Rustwright: Playwright on an in-process Rust CDP engine. The engine consumes 70% less memory than Playwright, and is 2.55x faster to boot. We built this to improve Skyvern’",
+  "published_at": "2026-07-15T15:15:11+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.914365+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T02:25:03.076210+00:00",
+  "paths": {
+    "article": "articles/v1/b9/yc-skyvern/2026/07/4d/4d060ad15d3c829bea6acca31b77abd6cd7241dbd7bc114acb4a00be61a8c8ac/article.md",
+    "record": "articles/v1/b9/yc-skyvern/2026/07/4d/4d060ad15d3c829bea6acca31b77abd6cd7241dbd7bc114acb4a00be61a8c8ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3276,
+    "sha256": "sha256:3587c2114f6406ccf380051623a12545d8d36fdb83276cbacb077246a438ffb5",
+    "normalized_content_hash": "sha256:40dcd6cf05ffefa74347ab666b067cd83c7e8387662820074d1bd5133e7ea71a"
+  },
+  "provenance": {
+    "source_item_id": "13573e07-7cfa-4a30-a44f-a224d9a1a171",
+    "external_id": "6a56ff38702808000184cec1"
+  }
+}

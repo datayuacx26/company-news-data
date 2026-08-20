@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67ff20bfdb47bfc6667e6451239fafb05bee5f19e8088f5b16516aab135a4412",
+  "company": {
+    "key": "yc-svix",
+    "name": "Svix"
+  },
+  "source": {
+    "id": "yc-svix-news-import-06ae021bd4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.svix.com/blog/webhooks-autoconfig/",
+    "canonical": "https://www.svix.com/blog/webhooks-autoconfig/"
+  },
+  "title": "Introducing Webhooks AutoConfig",
+  "summary": "Webhooks AutoConfig is a declarative way of setting up your webhook endpoints that automatically keeps your webhook configuration in sync with your code, with no manual steps.",
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:22:16.880049+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-18T05:16:10.600049+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-svix/2026/07/67/67ff20bfdb47bfc6667e6451239fafb05bee5f19e8088f5b16516aab135a4412/article.md",
+    "record": "articles/v1/a5/yc-svix/2026/07/67/67ff20bfdb47bfc6667e6451239fafb05bee5f19e8088f5b16516aab135a4412/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5498,
+    "sha256": "sha256:acbec5890196f1d72622b8b5305675eaa7a2f8f290aab78391176a6be39f4306",
+    "normalized_content_hash": "sha256:10333c57ca5386b48f9d77169469e0fc104d6d1250a863c03ec5284cba34aab4"
+  },
+  "provenance": {
+    "source_item_id": "7f6be2b9-9951-4db1-bc61-25a9b7102e18",
+    "external_id": "https://www.svix.com/blog/webhooks-autoconfig/"
+  }
+}

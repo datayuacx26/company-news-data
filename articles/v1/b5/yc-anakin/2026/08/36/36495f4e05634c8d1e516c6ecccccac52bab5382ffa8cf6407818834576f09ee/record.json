@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36495f4e05634c8d1e516c6ecccccac52bab5382ffa8cf6407818834576f09ee",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/anakin-vs-zyte",
+    "canonical": "https://anakin.io/blog/anakin-vs-zyte"
+  },
+  "title": "Anakin vs Zyte: one credit, not five pricing tiers",
+  "summary": "Zyte pioneered web scraping and built Scrapy, but its pricing has 5 opaque tiers. Anakin answers with one flat credit,…",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-17T12:09:53.306792+00:00",
+  "fetched_at": "2026-08-17T12:09:54.610078+00:00",
+  "last_updated_at": "2026-08-19T05:19:48.213518+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/08/36/36495f4e05634c8d1e516c6ecccccac52bab5382ffa8cf6407818834576f09ee/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/08/36/36495f4e05634c8d1e516c6ecccccac52bab5382ffa8cf6407818834576f09ee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14603,
+    "sha256": "sha256:04150e2b1cf67e667bd4ddb477f17215370b29ce5e4cfa17bffde8cf946c15dc",
+    "normalized_content_hash": "sha256:a7e0f77196879ebc521af131aa6260ea902a4c5082c67b57b4776a4080620db1"
+  },
+  "provenance": {
+    "source_item_id": "5adf2bb3-50ed-4683-ab83-9021667fea14",
+    "external_id": "https://anakin.io/blog/anakin-vs-zyte"
+  }
+}

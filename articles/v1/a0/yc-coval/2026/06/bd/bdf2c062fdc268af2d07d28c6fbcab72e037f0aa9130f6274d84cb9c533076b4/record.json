@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdf2c062fdc268af2d07d28c6fbcab72e037f0aa9130f6274d84cb9c533076b4",
+  "company": {
+    "key": "yc-coval",
+    "name": "Coval"
+  },
+  "source": {
+    "id": "yc-coval-news-import-66f2770dd546",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coval.ai/blog/how-to-create-ai-judge-metrics-you-can-trust",
+    "canonical": "https://www.coval.ai/blog/how-to-create-ai-judge-metrics-you-can-trust/"
+  },
+  "title": "How to Create AI Judge Metrics You Can Trust",
+  "summary": "How to use human review in Coval to calibrate your LLM-as-a-judge metrics: label conversations, check agreement, read disagreements, fix the prompt, and re-test.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T15:11:00.592145+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T02:08:50.828293+00:00",
+  "paths": {
+    "article": "articles/v1/a0/yc-coval/2026/06/bd/bdf2c062fdc268af2d07d28c6fbcab72e037f0aa9130f6274d84cb9c533076b4/article.md",
+    "record": "articles/v1/a0/yc-coval/2026/06/bd/bdf2c062fdc268af2d07d28c6fbcab72e037f0aa9130f6274d84cb9c533076b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7885,
+    "sha256": "sha256:6e9909e977784653d61fbd7f00ef1f81d698c27b18b29825e42fa330c8b842e4",
+    "normalized_content_hash": "sha256:59081bc6de3f44bad99cd6cfc0e790fc6065a57dc390daf413bcaaa37b9b1c97"
+  },
+  "provenance": {
+    "source_item_id": "2642b217-2f57-4e61-bfb2-483207579f07",
+    "external_id": "https://www.coval.ai/blog/how-to-create-ai-judge-metrics-you-can-trust/"
+  }
+}

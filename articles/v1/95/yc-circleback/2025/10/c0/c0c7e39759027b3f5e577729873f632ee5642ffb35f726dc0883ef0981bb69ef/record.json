@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0c7e39759027b3f5e577729873f632ee5642ffb35f726dc0883ef0981bb69ef",
+  "company": {
+    "key": "yc-circleback",
+    "name": "Circleback"
+  },
+  "source": {
+    "id": "yc-circleback-news-import-b22aa3eada49",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://circleback.ai/blog/how-we-fixed-postgres-connection-pooling-on-serverless-with-pgdog",
+    "canonical": "https://circleback.ai/blog/how-we-fixed-postgres-connection-pooling-on-serverless-with-pgdog"
+  },
+  "title": "How we fixed Postgres connection pooling on serverless with PgDog",
+  "summary": "We were afraid to deploy during business hours. Not because of bad code, but because our connection pooler couldn't handle the spike. Every deploy to Vercel spun up a flood of new serverless functions, each one grabbing a database connection. The pooler would buckle, users would see errors, and we'd wait a few minutes for things to settle. For a startup that needs to ship fast, \"don't deploy during peak hours\" is not a viable strategy.",
+  "published_at": "2025-10-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:33:40.934837+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-20T02:27:58.373236+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-circleback/2025/10/c0/c0c7e39759027b3f5e577729873f632ee5642ffb35f726dc0883ef0981bb69ef/article.md",
+    "record": "articles/v1/95/yc-circleback/2025/10/c0/c0c7e39759027b3f5e577729873f632ee5642ffb35f726dc0883ef0981bb69ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6290,
+    "sha256": "sha256:5c59f31e9f1f8767dec7266123f688976f8ea078f707920580ed2052df1bf6f0",
+    "normalized_content_hash": "sha256:48bf7e64faa0a2b1a24860003c985a255742e4e83ac4ea02cf0c766326797ab0"
+  },
+  "provenance": {
+    "source_item_id": "18669047-2908-4cd6-9a5e-09b09e9c7a8a",
+    "external_id": "https://circleback.ai/blog/how-we-fixed-postgres-connection-pooling-on-serverless-with-pgdog"
+  }
+}

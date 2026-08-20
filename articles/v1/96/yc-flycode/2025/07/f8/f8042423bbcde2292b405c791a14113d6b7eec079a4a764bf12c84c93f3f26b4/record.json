@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8042423bbcde2292b405c791a14113d6b7eec079a4a764bf12c84c93f3f26b4",
+  "company": {
+    "key": "yc-flycode",
+    "name": "FlyCode"
+  },
+  "source": {
+    "id": "yc-flycode-news-import-523b281c6a73",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flycode.com/blog/stripe-generic-decline-code-what-it-means-why-it-happens-and-how-flycode-recovers-the-revenue",
+    "canonical": "https://www.flycode.com/blog/stripe-generic-decline-code-what-it-means-why-it-happens-and-how-flycode-recovers-the-revenue"
+  },
+  "title": "Stripe Generic Decline Code: What it means, why it happens, and how FlyCode recovers the revenue",
+  "summary": "Stripe uses its own decline codes, which cover many of the same potential reasons as the traditional issuer decline codes, but define the problem more clearly.",
+  "published_at": "2025-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:50:45.349061+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T23:56:29.146281+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-flycode/2025/07/f8/f8042423bbcde2292b405c791a14113d6b7eec079a4a764bf12c84c93f3f26b4/article.md",
+    "record": "articles/v1/96/yc-flycode/2025/07/f8/f8042423bbcde2292b405c791a14113d6b7eec079a4a764bf12c84c93f3f26b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11302,
+    "sha256": "sha256:bc07e2f59116a89cbec29aa5c8f2d9c21e7dd88d996e21a15c73c116affebfe3",
+    "normalized_content_hash": "sha256:58cfcf00a5cd1a4cab2a55c3b746bdadc1a63c5a28624bf579092c104b917b11"
+  },
+  "provenance": {
+    "source_item_id": "3362f3f5-d0e2-475b-9849-aac752fcc4f7",
+    "external_id": "https://www.flycode.com/blog/stripe-generic-decline-code-what-it-means-why-it-happens-and-how-flycode-recovers-the-revenue"
+  }
+}

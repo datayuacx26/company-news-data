@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7fa346309ce1b9d8b20293c7dc79baf89221b2e351e55b170066862116457f7a",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/openreplay-spots-get-stuck-with-you-re-viewing-the-original-recording-processed-spot-will-be-available-here-shortly/553#post_1",
+    "canonical": "https://forum.openreplay.com/t/openreplay-spots-get-stuck-with-you-re-viewing-the-original-recording-processed-spot-will-be-available-here-shortly/553"
+  },
+  "title": "OpenReplay Spots get stuck with \"You’re viewing the original recording. Processed Spot will be available here shortly.\"",
+  "summary": "I have recently setup a self-hosted OpenReplay server on AWS following the guide on the docs page: Deploy to AWS - OpenReplay Documentation . I am using this for the OpenReplay Spots feature so we can record sessions for our application without changing the code (future plan). Sometimes when I record a session with the OpenReplay Spot extension (on Brave browser), I get stuck on the following message: “You’re viewing the original recording. Processed Spot will be available here shortly”. This ...",
+  "published_at": "2025-12-12T16:37:36+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2025/12/7f/7fa346309ce1b9d8b20293c7dc79baf89221b2e351e55b170066862116457f7a/article.md",
+    "record": "articles/v1/ad/yc-asayer/2025/12/7f/7fa346309ce1b9d8b20293c7dc79baf89221b2e351e55b170066862116457f7a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3738,
+    "sha256": "sha256:2bc406ad90b8817283eff3d2f335cedca74dcbd297badbc742b14f7209810b7c",
+    "normalized_content_hash": "sha256:4c4948c47b330f19e8def1f8b450f1195b928cbbc97c9c5f50e7394469c480ee"
+  },
+  "provenance": {
+    "source_item_id": "a0548b3c-1970-4649-a475-01ee600ea649",
+    "external_id": "forum.openreplay.com-post-1422"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd50062232e82d6bd067e17d2fe5fc88e5c7772af4b000c58c00e4bcb8f2c866",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/how-to-slash-sandbox-memory-usage-by-75-using-overlayfs",
+    "canonical": "https://blaxel.ai/blog/how-to-slash-sandbox-memory-usage-by-75-using-overlayfs"
+  },
+  "title": "How to slash sandbox memory usage by 75% using OverlayFS",
+  "summary": "We improved sandbox performance with OverlayFS and EROFS technologies, cutting memory usage by 75%. Discover how we did it.",
+  "published_at": "2025-12-03T13:52:12+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T22:25:05.780563+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2025/12/dd/dd50062232e82d6bd067e17d2fe5fc88e5c7772af4b000c58c00e4bcb8f2c866/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2025/12/dd/dd50062232e82d6bd067e17d2fe5fc88e5c7772af4b000c58c00e4bcb8f2c866/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4442,
+    "sha256": "sha256:1aada0d5a0ca33f1ce84f439aff40a195a6ea32c227ee9b980f22f7385ec4b56",
+    "normalized_content_hash": "sha256:51c9a34d9f5b3d8abab87413900849dc501b9df4f0d3d64e189fa52b859245ea"
+  },
+  "provenance": {
+    "source_item_id": "f1837e7b-3db9-4c58-b349-7c224a6f8968",
+    "external_id": "https://blaxel.ai/blog/how-to-slash-sandbox-memory-usage-by-75-using-overlayfs"
+  }
+}

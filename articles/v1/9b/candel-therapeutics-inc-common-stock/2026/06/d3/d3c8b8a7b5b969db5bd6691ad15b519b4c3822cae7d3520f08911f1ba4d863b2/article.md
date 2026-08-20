@@ -1,0 +1,68 @@
+---
+schema_version: "1.0.0"
+document_id: "d3c8b8a7b5b969db5bd6691ad15b519b4c3822cae7d3520f08911f1ba4d863b2"
+company_key: "candel-therapeutics-inc-common-stock"
+company: "Candel Therapeutics Inc."
+source_id: "candel-therapeutics-inc-common-stock-rss-695c433a7b2b"
+canonical_url: "https://candeltx.gcs-web.com/news-releases/news-release-details/candel-therapeutics-appoints-mark-sims-chief-commercial-officer"
+published_at: "2026-06-25T12:05:48+00:00"
+first_seen_at: "2026-07-26T11:05:54.983533+00:00"
+fetched_at: "2026-07-28T21:10:03.278263+00:00"
+content_hash: "sha256:4fe3ec47ea6eeb4ce91f92d9ca5eb001964d03e734fbe67b52a4b46df0ad2a02"
+---
+
+# Candel Therapeutics Appoints Mark Sims as Chief Commercial Officer
+
+- *Appointment supports planned Biologics License Application (BLA) submission in the fourth quarter of 2026 and potential 2027 launch of aglatimagene besadenovec in localized prostate cancer*
+
+
+NEEDHAM, Mass., June 25, 2026 (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical-stage biopharmaceutical company focused on developing multimodal immunotherapies to improve disease outcomes for patients with cancer, today announced the appointment of Mark Sims as the Company’s Chief Commercial Officer, effective July 6, 2026. Mr. Sims will lead Candel’s commercial strategy and launch readiness for aglatimagene besadenovec (aglatimagene or CAN-2409) in intermediate- to high-risk localized prostate cancer.
+
+
+“The appointment of Mark Sims represents another important step in Candel's evolution toward becoming a potential commercial-stage oncology company. With positive phase 3 clinical trial data, the FDA’s Regenerative Medicine Advanced Therapy designation, a planned BLA submission for aglatimagene in the fourth quarter of 2026, and preparation for a potential commercial launch already underway, we are building the capabilities required to bring aglatimagene, if approved, to patients as efficiently as possible,” said Paul Peter Tak, M.D., Ph.D., FMedSci, President and Chief Executive Officer of Candel. “We believe that intermediate- to high-risk localized prostate cancer represents a large and well-defined market opportunity, with approximately 65,000 patients diagnosed annually in the United States who are candidates for radiotherapy-based treatment approaches with curative intent. Mr. Sims has led and scaled some of oncology’s most significant franchises, and we believe his deep experience bringing innovative therapies to market will be instrumental to making aglatimagene, if approved, available to patients.”
+
+
+Aglatimagene is an off-the-shelf, replication-defective adenovirus designed to induce immunogenic cell death and activate a systemic anti-tumor immune response. The Company has adopted a partnership-driven commercial model, working with EVERSANA on commercialization and IDEA Pharma on strategic positioning, designed to provide immediate access to leading commercial capabilities while maintaining the financial flexibility that has characterized Candel’s approach to development. Commercial preparations are underway across market access, medical affairs, manufacturing, physician engagement, and launch planning activities. Mr. Sims will work closely with these partners as Candel prepares for a potential commercial launch of aglatimagene following its planned BLA submission in the fourth quarter of 2026.
+
+
+“Aglatimagene has the potential to establish a new treatment paradigm in localized prostate cancer by combining a differentiated mechanism of action with a practical treatment approach that can be readily integrated into existing radiotherapy workflows. The strength of the phase 3 data, together with Candel’s thoughtful and capital-efficient commercialization strategy, creates a compelling opportunity to deliver meaningful value for patients, physicians and shareholders,” said Mark Sims, who will join Candel as Chief Commercial Officer on July 6, 2026.
+
+
+Mr. Sims is a seasoned oncology commercial leader with more than 25 years of experience building and advancing Global and US cancer franchises. Most recently, he served as Vice President and Global Franchise Head for EGFRm Lung Cancer at AstraZeneca, where he led global commercial strategy for one of the company’s largest business franchises. During his eight-year tenure at AstraZeneca, he also served as Global Commercial Head - Lung Cancer, Head of Oncology Business Unit - Canada, and US Business Franchise Head – DDR/Women’s Cancer. Prior to AstraZeneca, Mr. Sims spent a decade at Novartis in various senior oncology leadership roles, including Vice President and Global Disease Lead for Breast Cancer and Business Franchise Head for Hematology in Canada. Earlier in his career, he held commercial positions at Idenix Pharmaceuticals and Merck & Co. Inc. Mr. Sims earned an MBA from the Thunderbird School of Global Management, Arizona State University and a Bachelor of Commerce from McMaster University.
+
+
+**About aglatimagene besadenovec (CAN-2409)**
+
+
+Aglatimagene, Candel’s most advanced multimodal biological immunotherapy candidate, is an investigational, off-the-shelf, replication-defective adenovirus designed to deliver the herpes simplex virus thymidine kinase (HSV-tk) gene to a patient’s tumor. After intratumoral administration, HSV-tk enzyme activity results in conversion of prodrug (valacyclovir) into deoxyribonucleic acid (DNA)-incorporating nucleotide analogs, leading to immunogenic cell death in cells exhibiting DNA damage and proliferating cells, with subsequent release of a variety of tumor (neo)antigens in the tumor microenvironment. At the same time, the adenoviral serotype 5 capsid proteins promote inflammation through the induction of expression of pro-inflammatory cytokines, chemokines, and adhesion molecules. Together, this regimen is designed to induce an individualized and specific CD8+ T cell-mediated response against the injected tumor and uninjected distant metastases for broad anti-tumor activity, based on in situ immunization against a variety of tumor antigens. Aglatimagene has the potential to treat a broad range of solid tumors. Encouraging monotherapy activity as well as combination activity with standard of care radiotherapy, surgery, chemotherapy, and immune checkpoint inhibitors have previously been shown in several preclinical and clinical settings. More than 1,000 patients have been dosed with aglatimagene in clinical trials with a favorable tolerability profile to date, supporting the potential for use with standard of care, when indicated. Aglatimagene is currently not approved by the U.S. Food and Drug Administration (FDA) or any other regulatory authority for any use.
+
+
+**About Candel Therapeutics**
+
+
+Candel is a clinical-stage biopharmaceutical company focused on developing off-the-shelf multimodal biological immunotherapies that elicit an individualized, systemic anti-tumor immune response to help patients fight cancer. Candel has established two clinical-stage multimodal biological immunotherapy platforms based on novel, genetically modified adenovirus and herpes simplex virus (HSV) gene constructs, respectively. Aglatimagene is the lead product candidate from the adenovirus platform. The Company recently completed successful phase 2a clinical trials of aglatimagene in non-small cell lung cancer (NSCLC) and pancreatic ductal adenocarcinoma (PDAC), and a pivotal, placebo-controlled, phase 3 clinical trial of aglatimagene in localized prostate cancer, conducted under a Special Protocol Assessment agreed with the FDA. The FDA also granted Fast Track Designation and Regenerative Medicine Advanced Therapy Designation to aglatimagene for the treatment of newly diagnosed localized prostate cancer in patients with intermediate- to high-risk disease, Fast Track Designation in NSCLC, and both Fast Track Designation and Orphan Drug Designation to aglatimagene for the treatment of PDAC.
+
+
+Linoserpaturev (CAN-3110) is the lead product candidate from the HSV platform and is currently in an ongoing phase 1b clinical trial in recurrent high-grade glioma, evaluating the effects of repeat linoserpaturev injections. Initial results were published in[Nature](https://www.globenewswire.com/Tracker?data=wPtbK6zEdqxAm0aj50e-XL-EfqWnzbqffcr_pFUG3ycLFsaxt4BoHx3SI_Lq5qQ4i30pSyRK2JTUWpJT8eRVi9dgGvuVFOXyxGYpLXDQD8kQJseSKdex334C4X869hWhBp6rZZF67RhTreMtq8p1SzAFs3iVZJ67Xz1IfN7gUvQ6OA4mPqlFCoVa3lT6m8h_kMdb_jaYKStXcsrkGBz7PzJgXwyISpOGz9P5YGH2TqH0zsQM09budCU0p41EMY1TqbKxfXhyq5HtJOA6NpzHZQ==) and[Science Translational Medicine](https://www.globenewswire.com/Tracker?data=GLzorBoqfZqWvO-wXzAhx51m096Fyidqf4CTxBnJB092Coo79Qglhg0_Pus1fQtpi4C34eWjtcdaWY4WafHrspIqFrdfVEhEzQrLwoxnw17_e5nYs2zmhCwukY4naAq_KnU27ctJmqYRssD4NEEmJnkVGJhmwotO1Ll33i9K0Ena4_jubEmrRh8nEH7VG-yVlCkxIHXO0eCPMj-MLlg3Pcga7tCmyI7ZO5jKMdT82b7ZlFX6FN-vU8-LFzIqCfe0P9LnSp_cY93NVQvPMWVkB06EOllJkRYEBvtnjE3rJPg7TdaJgoCOV6EDzei7I9TKiEqXPJjBX927s3RbNpMkWgkyV2GaUzzZbJ1T7GecrKIQDetytYw_mFjFRIaAnUO3) and linoserpaturev received Fast Track Designation and Orphan Drug Designation from the FDA. Finally, Candel’s enLIGHTEN™ Discovery Platform is a systematic, iterative HSV-based discovery platform leveraging human biology and advanced analytics to create new viral immunotherapies for solid tumors.
+
+
+For more information about Candel, visit:[www.candeltx.com](https://www.globenewswire.com/Tracker?data=v_qIkEEDHACnaHUj4jrNB6wI-qzo1lIXAo5VAuZmqOF_x3-3u2OOtA_GU8eTxSMmC0xRCequS7XVUVGL7H_G1K6gzGRn0QG_WRTuP-v7oNY=) .
+
+
+**Forward-Looking Statements**
+
+
+This press release includes certain disclosures that contain “forward-looking statements,” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, express or implied statements regarding the timing and advancement of current and future development programs; expectations regarding the submission of the BLA for aglatimagene in intermediate- to high-risk localized prostate cancer; expectations regarding early biological readouts as predictor of clinical response; expectations regarding the therapeutic benefit of the Company’s platforms, including the ability of its platforms to improve overall survival and/or disease-free survival of patients living with difficult-to-treat, solid tumors; expectations regarding the potential benefits conferred by regulatory designations; and expectations regarding the potential benefits conferred by the publication of the Company’s findings in *The Lancet Oncology* . The words “may,” “will,” “could,” “would,” “should,” “expect,” “plan,” “anticipate,” “intend,” “believe,” “estimate,” “predict,” “project,” “potential,” “continue,” “target” and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this press release are based on management’s current expectations and beliefs and are subject to a number of risks, uncertainties and important factors that may cause actual events or results to differ materially from those expressed or implied by any forward-looking statements contained in this press release, including, without limitation, those risks and uncertainties related to the timing and advancement of development programs; expectations regarding the therapeutic benefit of the Company’s programs; that final data from the Company’s preclinical studies and completed clinical trials may differ materially from reported interim data from ongoing studies and trials; the Company’s ability to efficiently discover and develop product candidates; the Company’s ability to obtain and maintain regulatory approval of product candidates; the Company’s ability to maintain its intellectual property; the implementation of the Company’s business model, including strategic plans for the Company’s business and product candidates; the impact of the Company’s existing and any future indebtedness on its ability to operate its business; the Company’s ability to access any future tranches under its debt facility and to comply with all of its obligations thereunder; and other risks identified in the Company’s filings with the U.S. Securities and Exchange Commission (SEC), including the Company’s most recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q for the quarter ended March 31, 2026, each as filed with the SEC and any subsequent filings with the SEC. The Company cautions you not to place undue reliance on any forward-looking statements, which speak only as of the date they are made. The Company disclaims any obligation to publicly update or revise any such statements to reflect any change in expectations or in events, conditions, or circumstances on which any such statements may be based, or that may affect the likelihood that actual results will differ from those set forth in the forward-looking statements. Any forward-looking statements contained in this press release represent the Company’s views only as of the date hereof and should not be relied upon as representing its views as of any subsequent date.
+
+
+**Investor Contact**
+Theodore Jenkins
+Vice President, Investor Relations, and Business Development
+Candel Therapeutics, Inc.
+[tjenkins@candeltx.com](https://www.globenewswire.com/Tracker?data=PviXnvbiXEnupAdJ-RsyP_8xiz2ujC0hhlVEWZ-P51msgDQVr3RW2QcYsLSuYk669ovL5J1kGjZN5IxbmiRtooiQ-gDEB2KFzMGjwjOgI4I=)
+
+
+**Media Contact**
+Ben Shannon
+ICR Healthcare
+[CandelPR@icrhealthcare.com](https://www.globenewswire.com/Tracker?data=XfeRwTkDA7-3ac7tRgP6AOwhG9qb-yphqwPueR4bbRPAe0dlU_HRXzdaYDeVMYmptdm8LBWk4xQZI7ZvGwIDv0xaJWcdAM12IKoxu1hQN6mg56Mz2DH0MHBCO_Vk9v_R)

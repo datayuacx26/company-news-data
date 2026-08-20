@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "848108e2b69861b20315b3c4a1627bb74dd81b37f4b9078dfd0135084d841fd0",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-we-built-it-stripe-radar",
+    "canonical": "https://stripe.dev/blog/how-we-built-it-stripe-radar"
+  },
+  "title": "How we built it: Stripe Radar",
+  "summary": "What makes Radar, Stripe’s fraud prevention solution, so powerful? Here are some of the key decisions made—and lessons learned—in the years it has taken to build it.",
+  "published_at": "2023-03-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2023/03/84/848108e2b69861b20315b3c4a1627bb74dd81b37f4b9078dfd0135084d841fd0/article.md",
+    "record": "articles/v1/b6/yc-stripe/2023/03/84/848108e2b69861b20315b3c4a1627bb74dd81b37f4b9078dfd0135084d841fd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3294,
+    "sha256": "sha256:3209c5b74adb5f2266f6a52b6d972114844d354abae4fc3d4360ea063ae8257c",
+    "normalized_content_hash": "sha256:4bb90f8c3a1c1da1111c3cce39bf5f5f624110959e66081038a7cc0521c165f9"
+  },
+  "provenance": {
+    "source_item_id": "bb0045c4-c520-4234-add6-5ef418f5f19f",
+    "external_id": "https://stripe.dev/blog/how-we-built-it-stripe-radar"
+  }
+}

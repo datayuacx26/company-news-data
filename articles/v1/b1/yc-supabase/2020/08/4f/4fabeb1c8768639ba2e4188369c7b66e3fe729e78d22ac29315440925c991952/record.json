@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4fabeb1c8768639ba2e4188369c7b66e3fe729e78d22ac29315440925c991952",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/continuous-postgresql-backup-walg",
+    "canonical": "https://supabase.com/blog/continuous-postgresql-backup-walg"
+  },
+  "title": "Continuous PostgreSQL Backups using WAL-G",
+  "summary": "Have you ever wanted to restore your database's state to a particular moment in time? This post explains how, using WAL-G.",
+  "published_at": "2020-08-02T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:05:18.773660+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2020/08/4f/4fabeb1c8768639ba2e4188369c7b66e3fe729e78d22ac29315440925c991952/article.md",
+    "record": "articles/v1/b1/yc-supabase/2020/08/4f/4fabeb1c8768639ba2e4188369c7b66e3fe729e78d22ac29315440925c991952/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9705,
+    "sha256": "sha256:eae854f9ab4bf8409c3d47fc42abda4861e0e8330165f7a4874a60e78b96342d",
+    "normalized_content_hash": "sha256:0a510372852ab13c7d74052a3d67e7d096280de00391a1242e13b40e16cd1d44"
+  },
+  "provenance": {
+    "source_item_id": "7dea907a-d5a0-43e6-a8f8-d533bc4b6f6f",
+    "external_id": "https://supabase.com/blog/continuous-postgresql-backup-walg"
+  }
+}

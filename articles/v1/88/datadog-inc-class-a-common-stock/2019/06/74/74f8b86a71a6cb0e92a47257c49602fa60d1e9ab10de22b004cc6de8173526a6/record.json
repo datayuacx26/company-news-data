@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "74f8b86a71a6cb0e92a47257c49602fa60d1e9ab10de22b004cc6de8173526a6",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/"
+  },
+  "title": "Secure publication of Datadog Agent integrations with TUF and in-toto",
+  "summary": "How to guarantee end-to-end security when using automation to package and publish Datadog Agent integrations",
+  "published_at": "2019-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2019/06/74/74f8b86a71a6cb0e92a47257c49602fa60d1e9ab10de22b004cc6de8173526a6/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2019/06/74/74f8b86a71a6cb0e92a47257c49602fa60d1e9ab10de22b004cc6de8173526a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8763,
+    "sha256": "sha256:edaff689d6b396a2151ee6fe4c17ebb1a25a2d9e9a5b591aaf7a97d1fab95b50",
+    "normalized_content_hash": "sha256:dd29e57c52deaffb91c24c33ec0710724e30b954af409bbd950a4dcd509dd1bd"
+  },
+  "provenance": {
+    "source_item_id": "d5b14504-484a-4398-abf0-a37d204b4bdf",
+    "external_id": "https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/"
+  }
+}

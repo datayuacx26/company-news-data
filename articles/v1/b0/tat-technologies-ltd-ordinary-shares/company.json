@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "tat-technologies-ltd-ordinary-shares",
+    "name": "TAT Technologies Ltd."
+  },
+  "record_count": 30,
+  "first_published_at": "2018-07-23T09:21:56+00:00",
+  "last_published_at": "2026-08-05T11:16:43+00:00",
+  "partitions": [
+    {
+      "partition": "2018-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b0/tat-technologies-ltd-ordinary-shares/index/pages/000001.json",
+        "record_count": 30,
+        "byte_count": 34810,
+        "sha256": "sha256:d4741d1feb559d8877432fcc1141fe5c00e689e1d7e84c4132d1a21f128f714f",
+        "newest_at": "2026-08-05T11:16:43+00:00",
+        "oldest_at": "2018-07-23T09:21:56+00:00"
+      }
+    ]
+  }
+}

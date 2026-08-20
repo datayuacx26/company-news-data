@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5bcc73bccd26d7bcf6cfd2e4073d70d88c78cf43084903ec1c9925f3710b1d44",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/azure-secretless-authentication/",
+    "canonical": "https://www.datadoghq.com/blog/azure-secretless-authentication/"
+  },
+  "title": "Avoid Azure secret rotation with secretless authentication",
+  "summary": "Learn how secretless authentication for Datadog’s Azure integration helps prevent telemetry interruptions that result from expired client secrets.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T15:46:20.345289+00:00",
+  "fetched_at": "2026-08-12T15:46:21.708772+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/5b/5bcc73bccd26d7bcf6cfd2e4073d70d88c78cf43084903ec1c9925f3710b1d44/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/5b/5bcc73bccd26d7bcf6cfd2e4073d70d88c78cf43084903ec1c9925f3710b1d44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4093,
+    "sha256": "sha256:3288c9868e11a28086ff04cba2b5102ce8c1a72e7b55039d50009e399e11a147",
+    "normalized_content_hash": "sha256:0a44a389511aaf7bb5495c49d46f014bfc64ced52cf8e126ac8f945bec7139e5"
+  },
+  "provenance": {
+    "source_item_id": "57256495-cdb0-4bcb-909c-efb1083c9dd6",
+    "external_id": "https://www.datadoghq.com/blog/azure-secretless-authentication/"
+  }
+}

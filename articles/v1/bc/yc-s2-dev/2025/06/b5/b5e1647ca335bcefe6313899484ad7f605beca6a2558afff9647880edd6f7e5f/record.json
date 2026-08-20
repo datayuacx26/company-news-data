@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b5e1647ca335bcefe6313899484ad7f605beca6a2558afff9647880edd6f7e5f",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/access-control",
+    "canonical": "https://s2.dev/blog/access-control"
+  },
+  "title": "Streams as web resources with access controls",
+  "summary": "Learn how S2 access tokens scope stream operations by resource, prefix, and expiration for browser, app, and agent clients.",
+  "published_at": "2025-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/06/b5/b5e1647ca335bcefe6313899484ad7f605beca6a2558afff9647880edd6f7e5f/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/06/b5/b5e1647ca335bcefe6313899484ad7f605beca6a2558afff9647880edd6f7e5f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7440,
+    "sha256": "sha256:64468cd78f8b567d95002a77695759b6cd9f1617ae8d0275ef063d4f67729666",
+    "normalized_content_hash": "sha256:3cb4e04930fd77d26b6d74824473d2d5d6c933ae2099a74d2fd2f3889de8a3b1"
+  },
+  "provenance": {
+    "source_item_id": "07c34291-a830-44dc-98e2-9a864cd9126d",
+    "external_id": "https://s2.dev/blog/access-control"
+  }
+}

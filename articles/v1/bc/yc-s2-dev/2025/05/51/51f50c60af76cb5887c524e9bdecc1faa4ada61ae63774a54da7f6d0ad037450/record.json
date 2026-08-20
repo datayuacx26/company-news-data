@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51f50c60af76cb5887c524e9bdecc1faa4ada61ae63774a54da7f6d0ad037450",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/timestamping",
+    "canonical": "https://s2.dev/blog/timestamping"
+  },
+  "title": "Keeping time on a stream",
+  "summary": "How S2 indexes stream records by timestamp so readers can seek by time, replay event history, and handle real-world event time.",
+  "published_at": "2025-05-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/05/51/51f50c60af76cb5887c524e9bdecc1faa4ada61ae63774a54da7f6d0ad037450/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/05/51/51f50c60af76cb5887c524e9bdecc1faa4ada61ae63774a54da7f6d0ad037450/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6026,
+    "sha256": "sha256:84d705c28f7c2265a4f22d58ad3c1b7154214e4176120713d7c1ceee9196e6f4",
+    "normalized_content_hash": "sha256:6edc27f1f66d08566f98b75573d137647da2abcee5bca58749d8a5f0f1d2db8e"
+  },
+  "provenance": {
+    "source_item_id": "b9384f20-6418-46df-85f9-30006a48c788",
+    "external_id": "https://s2.dev/blog/timestamping"
+  }
+}

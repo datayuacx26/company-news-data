@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66dba196d2fb91f9ac26f930d7c385a704becb7cb186393d9cdc99b85be926e0",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/supabase-sql-injection-via-queue-names",
+    "canonical": "https://winfunc.com/hacktivity/supabase-sql-injection-via-queue-names"
+  },
+  "title": "SQL Injection via queueName in getDatabaseQueuesMetrics",
+  "summary": "getDatabaseQueuesMetrics builds SQL statements with queueName interpolated directly into table identifiers and literals. The queueName value originates…",
+  "published_at": "2025-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2025/01/66/66dba196d2fb91f9ac26f930d7c385a704becb7cb186393d9cdc99b85be926e0/article.md",
+    "record": "articles/v1/96/yc-winfunc/2025/01/66/66dba196d2fb91f9ac26f930d7c385a704becb7cb186393d9cdc99b85be926e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7498,
+    "sha256": "sha256:c895aac0ee681d7a482ff712dd91b256889f35a5ccc1f452c69ba126c0edb0ed",
+    "normalized_content_hash": "sha256:04b90da37c27b883758722967bb768ee7e294c45178caa86242af2107927037d"
+  },
+  "provenance": {
+    "source_item_id": "fa3f1c28-811f-4dd6-9a44-9a71b7404fd0",
+    "external_id": "https://winfunc.com/hacktivity/supabase-sql-injection-via-queue-names"
+  }
+}

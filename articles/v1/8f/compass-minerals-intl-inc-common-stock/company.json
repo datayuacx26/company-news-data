@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "compass-minerals-intl-inc-common-stock",
+    "name": "Compass Minerals Intl Inc"
+  },
+  "record_count": 7,
+  "first_published_at": "2026-02-05T16:26:44+00:00",
+  "last_published_at": "2026-08-06T14:06:21+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8f/compass-minerals-intl-inc-common-stock/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8477,
+        "sha256": "sha256:fe62a8a92c2da446a493789bbf0260831cb0979f09f24c031de4120dc4a3673f",
+        "newest_at": "2026-08-06T14:06:21+00:00",
+        "oldest_at": "2026-02-05T16:26:44+00:00"
+      }
+    ]
+  }
+}

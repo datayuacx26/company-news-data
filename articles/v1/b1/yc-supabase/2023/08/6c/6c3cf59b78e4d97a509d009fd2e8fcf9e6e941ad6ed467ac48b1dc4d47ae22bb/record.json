@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6c3cf59b78e4d97a509d009fd2e8fcf9e6e941ad6ed467ac48b1dc4d47ae22bb",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/supavisor-1-million",
+    "canonical": "https://supabase.com/blog/supavisor-1-million"
+  },
+  "title": "Supavisor: Scaling Postgres to 1 Million Connections",
+  "summary": "Supavisor is a scalable, cloud-native Postgres connection pooler. We connected a million clients to it to see how it performs.",
+  "published_at": "2023-08-11T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2023/08/6c/6c3cf59b78e4d97a509d009fd2e8fcf9e6e941ad6ed467ac48b1dc4d47ae22bb/article.md",
+    "record": "articles/v1/b1/yc-supabase/2023/08/6c/6c3cf59b78e4d97a509d009fd2e8fcf9e6e941ad6ed467ac48b1dc4d47ae22bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11605,
+    "sha256": "sha256:a6157e0db93aab6841e1f1b7cb6d063120e8802a0d25609139d92f8cb6f67c54",
+    "normalized_content_hash": "sha256:e91bb7e713fe2288160d107ff9260d7cae8d04bb509f2a8e98acc84d16069cb3"
+  },
+  "provenance": {
+    "source_item_id": "de3f3374-e989-4336-90d0-2e468d497311",
+    "external_id": "https://supabase.com/blog/supavisor-1-million"
+  }
+}

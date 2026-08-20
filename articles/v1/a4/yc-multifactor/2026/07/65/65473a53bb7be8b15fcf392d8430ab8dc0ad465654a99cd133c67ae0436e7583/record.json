@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65473a53bb7be8b15fcf392d8430ab8dc0ad465654a99cd133c67ae0436e7583",
+  "company": {
+    "key": "yc-multifactor",
+    "name": "Multifactor"
+  },
+  "source": {
+    "id": "yc-multifactor-news-import-864f66d5ce56",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://multifactor.com/blog/teaching-software-to-log-into-any-website",
+    "canonical": "https://multifactor.com/blog/teaching-software-to-log-into-any-website"
+  },
+  "title": "Teaching Software to Log Into Any Website",
+  "summary": "How Checkpoint uses AI reconnaissance to build deterministic login flows, then replays them inside a trusted execution environment, with no AI near your credentials.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:04:58.540173+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T19:01:06.796808+00:00",
+  "paths": {
+    "article": "articles/v1/a4/yc-multifactor/2026/07/65/65473a53bb7be8b15fcf392d8430ab8dc0ad465654a99cd133c67ae0436e7583/article.md",
+    "record": "articles/v1/a4/yc-multifactor/2026/07/65/65473a53bb7be8b15fcf392d8430ab8dc0ad465654a99cd133c67ae0436e7583/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14686,
+    "sha256": "sha256:1591f400cdf849a480b431ea3073dc71b7ccacad48325ee089686657923eee28",
+    "normalized_content_hash": "sha256:d5c8bbfc55952a15b5b67afea26c8140d302966bcb32267943cb64083d0c2a7c"
+  },
+  "provenance": {
+    "source_item_id": "87bc77e4-33af-4021-a02f-4896341e8d7e",
+    "external_id": "https://multifactor.com/blog/teaching-software-to-log-into-any-website"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66bebbc26851f87dec6c65c3ec08d76c0cdc920cd86c35bbc9f8f9d1ba951304",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-12b6d71fe86e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/blog/smtp-server",
+    "canonical": "https://www.windmill.dev/blog/smtp-server"
+  },
+  "title": "Implementing an SMTP server in Rust",
+  "summary": "In this article, we will implement a simple SMTP server in Rust for receiving emails.",
+  "published_at": "2024-10-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:07.070377+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T02:40:36.450549+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2024/10/66/66bebbc26851f87dec6c65c3ec08d76c0cdc920cd86c35bbc9f8f9d1ba951304/article.md",
+    "record": "articles/v1/ad/yc-windmill/2024/10/66/66bebbc26851f87dec6c65c3ec08d76c0cdc920cd86c35bbc9f8f9d1ba951304/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29789,
+    "sha256": "sha256:72a9d397553bb718c931ab8c4bb35868996356d96028c755c94ede7d320c06f5",
+    "normalized_content_hash": "sha256:d6ac701b2278fad3cb626adfdb065906628d9db378db187a00cdaa0c6aa8f032"
+  },
+  "provenance": {
+    "source_item_id": "1ade23be-d3cb-4865-82ac-da49dfb0c8b5",
+    "external_id": "https://www.windmill.dev/blog/smtp-server"
+  }
+}

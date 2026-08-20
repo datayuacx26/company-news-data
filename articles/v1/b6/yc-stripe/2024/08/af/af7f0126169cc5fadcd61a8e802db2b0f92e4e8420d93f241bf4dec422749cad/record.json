@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af7f0126169cc5fadcd61a8e802db2b0f92e4e8420d93f241bf4dec422749cad",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/resolving-production-issues-in-your-aws-stripe-integration-using-workbench",
+    "canonical": "https://stripe.dev/blog/resolving-production-issues-in-your-aws-stripe-integration-using-workbench"
+  },
+  "title": "Resolving production issues in your AWS/Stripe integration using Workbench",
+  "summary": "This blog shows how to find when something is wrong in production, avoid jumping between tabs/docs to find information, and resolving issues quickly in the troubleshooting process, using an AWS integration as a starting point.",
+  "published_at": "2024-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/08/af/af7f0126169cc5fadcd61a8e802db2b0f92e4e8420d93f241bf4dec422749cad/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/08/af/af7f0126169cc5fadcd61a8e802db2b0f92e4e8420d93f241bf4dec422749cad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6173,
+    "sha256": "sha256:f9c00527c165854a9d54550137c541e6d351ece602e50083eb7c7eec3e92a17f",
+    "normalized_content_hash": "sha256:ae70db3618a5b84e15d4d19f3ef867629bc8356e39753f6cbb9f7f5baeab145a"
+  },
+  "provenance": {
+    "source_item_id": "6ea14290-2fc0-471c-89f3-6897411db69c",
+    "external_id": "https://stripe.dev/blog/resolving-production-issues-in-your-aws-stripe-integration-using-workbench"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2d9c7cf4516b16fd4ee824a139fd9c84be623d458e0d9fffa4909ee2b93787a",
+  "company": {
+    "key": "yc-sendbird",
+    "name": "Sendbird"
+  },
+  "source": {
+    "id": "yc-sendbird-news-import-8f7056c4fa29",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sendbird.com/blog/aws-eks-migration-optimizations",
+    "canonical": "https://sendbird.com/blog/aws-eks-migration-optimizations"
+  },
+  "title": "7 AWS EKS Optimizations When Migrating From EC2-ASG",
+  "summary": "Learn how Sendbird migrated from EC2-based Auto Scaling Groups to Amazon EKS and implemented 7 key optimizations.",
+  "published_at": "2025-05-13T19:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:12:22.102175+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T21:13:45.706567+00:00",
+  "paths": {
+    "article": "articles/v1/9e/yc-sendbird/2025/05/f2/f2d9c7cf4516b16fd4ee824a139fd9c84be623d458e0d9fffa4909ee2b93787a/article.md",
+    "record": "articles/v1/9e/yc-sendbird/2025/05/f2/f2d9c7cf4516b16fd4ee824a139fd9c84be623d458e0d9fffa4909ee2b93787a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25079,
+    "sha256": "sha256:88bb70f63a23773d288c191d63e57b765cda6558323534b7c85e5e42075262bc",
+    "normalized_content_hash": "sha256:7b063a1a6db0d72e887c713e09274dd9928cf933cc68bb016bfeb990890ed90d"
+  },
+  "provenance": {
+    "source_item_id": "1cf25c3f-4d47-4bcf-a3b2-fedf3ce8ed5b",
+    "external_id": "https://sendbird.com/blog/aws-eks-migration-optimizations"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "047dfe19bc390dba8398d54eeefba198896cb6d2f8191597d6784d5e1be5ce5f",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/workspace-forks-on-cloud",
+    "canonical": "https://www.windmill.dev/changelog/workspace-forks-on-cloud"
+  },
+  "title": "Workspace forks on Windmill Cloud",
+  "summary": "Workspace forks are now available on app.windmill.dev for workspaces on a paid plan. A fork inherits its parent (root) workspace's premium status and usage limits, and its executions are metered into the parent's billing. Free-tier workspaces cannot fork, and the number of forks is capped at 5 per paid developer seat of the root workspace.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-15T23:13:10.294428+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/04/047dfe19bc390dba8398d54eeefba198896cb6d2f8191597d6784d5e1be5ce5f/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/04/047dfe19bc390dba8398d54eeefba198896cb6d2f8191597d6784d5e1be5ce5f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1532,
+    "sha256": "sha256:12f2663a0478f96d9eba5cfb576d05ccb0a9a9cb970cc206f817bfc96fa1fd61",
+    "normalized_content_hash": "sha256:e3509185781bc6d62d09bbe4768b3f92e28b5a7fba1de8cd67a249a530e9282d"
+  },
+  "provenance": {
+    "source_item_id": "f8b333ee-4d0a-47a4-a3f0-f23da7a32c94",
+    "external_id": "https://www.windmill.dev/changelog/workspace-forks-on-cloud"
+  }
+}

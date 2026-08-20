@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "92774e0f29b9ce30c376ca72d682b65025f3506302577c81be7dbda2fad19970",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/ai-agent-architecture",
+    "canonical": "https://www.firecrawl.dev/blog/ai-agent-architecture"
+  },
+  "title": "What Is AI Agent Architecture? Components and Patterns (2026)",
+  "summary": "AI agent architecture is an LLM wrapped in a harness of tools, memory, a knowledge base, and orchestration. These components turn a model into an agent.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:10:35.258497+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-05T20:36:03.741488+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/06/92/92774e0f29b9ce30c376ca72d682b65025f3506302577c81be7dbda2fad19970/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/06/92/92774e0f29b9ce30c376ca72d682b65025f3506302577c81be7dbda2fad19970/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16647,
+    "sha256": "sha256:8c5c63df0a566ddd17a0c5557618848845029ca1c8067cb112b31d422ca225b9",
+    "normalized_content_hash": "sha256:0894f7fd532f416cc51e48500c92950ff02d484bd762c10cbadfa68582902a6e"
+  },
+  "provenance": {
+    "source_item_id": "2537d029-e81e-49ec-8b4d-9779dacaa483",
+    "external_id": "https://www.firecrawl.dev/blog/ai-agent-architecture"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a010902ad9c648dcfa8cc3e23d401d697ba9d327dd4eaf5e9e4418dfdbd8374",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/force-https-htaccess/",
+    "canonical": "https://blog.openreplay.com/force-https-htaccess/"
+  },
+  "title": "How to Force HTTPS with .htaccess",
+  "summary": "Force HTTPS with .htaccess using Apache rewrite rules, fix redirect loops behind CDNs or load balancers, and set up www and HSTS safely.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T18:37:30.227787+00:00",
+  "fetched_at": "2026-08-18T18:37:31.619257+00:00",
+  "last_updated_at": "2026-08-19T22:39:41.923610+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/7a/7a010902ad9c648dcfa8cc3e23d401d697ba9d327dd4eaf5e9e4418dfdbd8374/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/7a/7a010902ad9c648dcfa8cc3e23d401d697ba9d327dd4eaf5e9e4418dfdbd8374/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12460,
+    "sha256": "sha256:c17904a8f8b3e3dbcd0078412e7751499663ab7d72cd166c24f421001f5e3aeb",
+    "normalized_content_hash": "sha256:8c1069d50b0c304b1c81f4e12593c1bcd12a6f2819487e48a3e7766d93079c35"
+  },
+  "provenance": {
+    "source_item_id": "3419ec34-4e6b-4a4c-a7ce-01e8ffc9b086",
+    "external_id": "https://blog.openreplay.com/force-https-htaccess/"
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "xometry-inc-class-a-common-stock",
+    "name": "Xometry Inc."
+  },
+  "record_count": 563,
+  "first_published_at": "2020-09-18T16:01:29+00:00",
+  "last_published_at": "2026-08-13T03:00:18+00:00",
+  "partitions": [
+    {
+      "partition": "2020-09",
+      "record_count": 7
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 28
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 17
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 14
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 13
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 18
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 11
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 24
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 12
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 9
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 9
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 12
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 18
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 18
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 18
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 29
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 20
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 30
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 16
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 24
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 11
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 18
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 8
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 7
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 9
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 10
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 21
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 16
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 12,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54466,
+        "sha256": "sha256:37e7f362b90a6b672ad3a4a34e4f5cca12be796ccc48d631463551bd4a200d3c",
+        "newest_at": "2026-08-13T03:00:18+00:00",
+        "oldest_at": "2026-06-10T18:13:16+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 54976,
+        "sha256": "sha256:de0716c633cc26d18deebd20889f2bfd94f96923292812113bfd1376a11b6b5f",
+        "newest_at": "2026-06-10T18:13:16+00:00",
+        "oldest_at": "2024-10-01T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 55288,
+        "sha256": "sha256:b69ac66e28fe4503a5b338a39685dd1491a5d07d030c7320fc4bb1d7e4ab1f8a",
+        "newest_at": "2024-09-27T00:00:00+00:00",
+        "oldest_at": "2024-01-19T07:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 53899,
+        "sha256": "sha256:4082462f55d09504d45fa6af43726021ffcdd2b154d7d541a8d139b7b30e5c99",
+        "newest_at": "2024-01-19T07:00:00+00:00",
+        "oldest_at": "2023-10-24T06:00:10+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 54597,
+        "sha256": "sha256:4a20fbd49b01ae563f1e3ca62139332462cc711462ab123c6ce6181eb565d4c4",
+        "newest_at": "2023-10-18T06:00:04+00:00",
+        "oldest_at": "2023-08-10T14:55:50+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 53817,
+        "sha256": "sha256:89c748b5bb1e2a0aae796138fba92eee46f815a66e84282e6fb93c3a8e4fc79c",
+        "newest_at": "2023-08-08T03:00:02+00:00",
+        "oldest_at": "2023-06-07T03:00:01+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 52246,
+        "sha256": "sha256:fa9bfb1d9ce68772c7de939426c4360af43591f442aff849b41b8ca434b11be9",
+        "newest_at": "2023-05-31T03:00:13+00:00",
+        "oldest_at": "2023-03-16T04:00:10+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 51735,
+        "sha256": "sha256:1163b75c5f7d736e0a0a30d915b6bd08e556400465a6b806be5eec479984937e",
+        "newest_at": "2023-03-15T00:04:16+00:00",
+        "oldest_at": "2022-10-24T03:12:09+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 51389,
+        "sha256": "sha256:5bc5529d5d3bc8d46b0c53fa93cf9da7e2659c3c9213a4a8b7fd3ebe0c4961cf",
+        "newest_at": "2022-10-24T03:12:09+00:00",
+        "oldest_at": "2022-07-28T15:02:03+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 51868,
+        "sha256": "sha256:7635724dcfb28b34e20655263b7d60d70e657919c8b1cf0d3b0cf81e799ecf82",
+        "newest_at": "2022-07-27T02:45:20+00:00",
+        "oldest_at": "2022-03-22T13:30:11+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000011.json",
+        "record_count": 50,
+        "byte_count": 58252,
+        "sha256": "sha256:605bfbef95ea8fa0631ecb0f6a93af7e6d67dcba3fb35f2dc1deaf4c10de22d0",
+        "newest_at": "2022-03-11T19:46:34+00:00",
+        "oldest_at": "2020-10-09T03:58:58+00:00"
+      },
+      {
+        "page": 12,
+        "path": "articles/v1/a4/xometry-inc-class-a-common-stock/index/pages/000012.json",
+        "record_count": 13,
+        "byte_count": 14724,
+        "sha256": "sha256:307a4f652d735dc416f2c3a4acaae9ceacfa8ed8f55a556776f0674cbd4292c0",
+        "newest_at": "2020-10-09T03:09:28+00:00",
+        "oldest_at": "2020-09-18T16:01:29+00:00"
+      }
+    ]
+  }
+}

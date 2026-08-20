@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68bfdb47ee9c76f294ec45cae9e4b50ddb34585e8f9813f2bf7ed218ed7e7df7",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/seamlessly-connect-stripe-events-to-your-frontend",
+    "canonical": "https://stripe.dev/blog/seamlessly-connect-stripe-events-to-your-frontend"
+  },
+  "title": "Seamlessly connect Stripe events to your frontend",
+  "summary": "Learn how to connect Stripe events to your frontend applications using real-time subscriptions, webhooks, and AWS services. Build responsive payment UIs that react instantly to transaction updates, subscription changes, and account modifications with event-driven architecture.",
+  "published_at": "2025-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/09/68/68bfdb47ee9c76f294ec45cae9e4b50ddb34585e8f9813f2bf7ed218ed7e7df7/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/09/68/68bfdb47ee9c76f294ec45cae9e4b50ddb34585e8f9813f2bf7ed218ed7e7df7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3414,
+    "sha256": "sha256:c452cde2be4fa1b1b8cc2160a2ec1bfa3b93b9ba8427b04eba9b5d6c10fb58aa",
+    "normalized_content_hash": "sha256:12efc5ce5857f7ea5b56e485bdf6c0b5e24e27a7f4f375c22f06878e9d5a0654"
+  },
+  "provenance": {
+    "source_item_id": "c30b5797-a0ec-4579-b011-c45a8aaba8b2",
+    "external_id": "https://stripe.dev/blog/seamlessly-connect-stripe-events-to-your-frontend"
+  }
+}

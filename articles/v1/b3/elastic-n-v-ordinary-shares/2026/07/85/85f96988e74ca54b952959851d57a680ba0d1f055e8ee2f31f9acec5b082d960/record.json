@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85f96988e74ca54b952959851d57a680ba0d1f055e8ee2f31f9acec5b082d960",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/ai-agent-attack-detection-hugging-face-breach",
+    "canonical": "https://www.elastic.co/security-labs/ai-agent-attack-detection-hugging-face-breach"
+  },
+  "title": "Exploring the Hugging Face Breach: mapping AI agent tactics to Elastic Defend",
+  "summary": "Elastic Defend and SIEM rules already cover Hugging Face's 17,000-event AI agent attack. A stage-by-stage GenAI detection checklist for ML workers.",
+  "published_at": "2026-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T15:38:56.051346+00:00",
+  "fetched_at": "2026-07-31T06:29:34.714502+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/85/85f96988e74ca54b952959851d57a680ba0d1f055e8ee2f31f9acec5b082d960/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/85/85f96988e74ca54b952959851d57a680ba0d1f055e8ee2f31f9acec5b082d960/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 41771,
+    "sha256": "sha256:eb8085d8993fd9eb649b518803629264cbf509f96ba09d32a794a7a822bf670a",
+    "normalized_content_hash": "sha256:35df65a5c3fde7b68ffc923f1babfe9dd1f55677b858e87e47179f1de0ab3d06"
+  },
+  "provenance": {
+    "source_item_id": "06e6a35e-6079-4134-a714-efb0b2d8c4cd",
+    "external_id": "ai-agent-attack-detection-hugging-face-breach"
+  }
+}

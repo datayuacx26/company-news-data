@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-lightmeter",
+    "name": "Lightmeter"
+  },
+  "record_count": 1,
+  "first_published_at": "2024-02-05T16:55:07+00:00",
+  "last_published_at": "2024-02-05T16:55:07+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ac/yc-lightmeter/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1171,
+        "sha256": "sha256:5ad5687ac3f10fce7ec68d7cc103c67b8206e8bb79b86f93f11f7bb12f1f842a",
+        "newest_at": "2024-02-05T16:55:07+00:00",
+        "oldest_at": "2024-02-05T16:55:07+00:00"
+      }
+    ]
+  }
+}

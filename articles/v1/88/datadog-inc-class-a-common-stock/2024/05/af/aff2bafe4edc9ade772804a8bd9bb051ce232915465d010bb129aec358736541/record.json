@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aff2bafe4edc9ade772804a8bd9bb051ce232915465d010bb129aec358736541",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/how-we-built-the-datadog-heatmap-to-visualize-distributions-over-time-at-arbitrary-scale/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/how-we-built-the-datadog-heatmap-to-visualize-distributions-over-time-at-arbitrary-scale/"
+  },
+  "title": "How we built the Datadog heatmap to visualize distributions over time at arbitrary scale",
+  "summary": "Learn how we used DDSketch to enhance our heatmap visualizations, allowing us to represent and analyze high cardinality data distributions at scale.",
+  "published_at": "2024-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/05/af/aff2bafe4edc9ade772804a8bd9bb051ce232915465d010bb129aec358736541/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/05/af/aff2bafe4edc9ade772804a8bd9bb051ce232915465d010bb129aec358736541/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17964,
+    "sha256": "sha256:02859151139669baa8ceedaec0cbf49bbb148714b6c925ecdcbc1389b31fb089",
+    "normalized_content_hash": "sha256:5f60a90756a70d9f49512e928d1d805966ccf607f88ac749b8d0cdb728a7d85f"
+  },
+  "provenance": {
+    "source_item_id": "60d28ac8-e976-4a04-98dd-ae07d8ade4e0",
+    "external_id": "https://www.datadoghq.com/blog/engineering/how-we-built-the-datadog-heatmap-to-visualize-distributions-over-time-at-arbitrary-scale/"
+  }
+}

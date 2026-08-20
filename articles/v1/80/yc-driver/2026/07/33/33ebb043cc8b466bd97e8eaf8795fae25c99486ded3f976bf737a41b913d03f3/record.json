@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33ebb043cc8b466bd97e8eaf8795fae25c99486ded3f976bf737a41b913d03f3",
+  "company": {
+    "key": "yc-driver",
+    "name": "Driver"
+  },
+  "source": {
+    "id": "yc-driver-news-import-217796f58c6f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.driver.ai/blog/why-ai-tools-fail-at-service-boundaries",
+    "canonical": "https://www.driver.ai/blog/why-ai-tools-fail-at-service-boundaries/"
+  },
+  "title": "The Multi-Codebase Problem: Why AI Coding Tools Fail at Service Boundaries",
+  "summary": "Your agent can only reason about code it can see. In a microservices architecture, it can't see enough.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T17:03:14.637812+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:15:57.442275+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-driver/2026/07/33/33ebb043cc8b466bd97e8eaf8795fae25c99486ded3f976bf737a41b913d03f3/article.md",
+    "record": "articles/v1/80/yc-driver/2026/07/33/33ebb043cc8b466bd97e8eaf8795fae25c99486ded3f976bf737a41b913d03f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10643,
+    "sha256": "sha256:d8e36213ceb696a857a542c88eb30bcac556efcbe655501441325219031023c0",
+    "normalized_content_hash": "sha256:fefc5f515952b509f1fd0a5984084ae31ae449c9cc29fd6cb62a3246ce04f0d5"
+  },
+  "provenance": {
+    "source_item_id": "e47afb8c-f7ef-4abc-8f81-f7f8a4fa6294",
+    "external_id": "https://www.driver.ai/blog/why-ai-tools-fail-at-service-boundaries/"
+  }
+}

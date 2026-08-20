@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b09b2010e09dd4752b1b988394bcd41421f7d3bd92b9eda91dcdf425c9222aa",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-7184",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-7184"
+  },
+  "title": "Remote cluster PATCH response leaked authentication tokens (CVE-2026-7184)",
+  "summary": "Mattermost's remote-cluster API already treated token and remotetoken as sensitive fields: list, create, accept, and get handlers called RemoteCluster.S…",
+  "published_at": "2026-05-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:13:05.421454+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/05/1b/1b09b2010e09dd4752b1b988394bcd41421f7d3bd92b9eda91dcdf425c9222aa/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/05/1b/1b09b2010e09dd4752b1b988394bcd41421f7d3bd92b9eda91dcdf425c9222aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7416,
+    "sha256": "sha256:d1ed3b71b0daa41328e921c8b526d782a7f449454ee2bcce7c15386fe60d542b",
+    "normalized_content_hash": "sha256:b9dde5054f7c8a46faa15030d3dac88cb1d905f4985ce04fc5e9beb7f1ae3559"
+  },
+  "provenance": {
+    "source_item_id": "8f66fdc7-1245-4f4d-91c2-4174c48a2bc8",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-7184"
+  }
+}

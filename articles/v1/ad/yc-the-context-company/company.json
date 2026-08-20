@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-the-context-company",
+    "name": "The Context Company"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-02-24T00:00:00+00:00",
+  "last_published_at": "2026-07-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ad/yc-the-context-company/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6148,
+        "sha256": "sha256:6fa4d5baba0da6533ae1a60c80f311eb7eab39c2e427b0a7b809981e5b25428d",
+        "newest_at": "2026-07-15T00:00:00+00:00",
+        "oldest_at": "2026-02-24T00:00:00+00:00"
+      }
+    ]
+  }
+}

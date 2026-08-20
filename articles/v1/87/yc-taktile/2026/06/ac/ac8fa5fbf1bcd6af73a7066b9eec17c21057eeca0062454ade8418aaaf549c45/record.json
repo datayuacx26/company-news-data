@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ac8fa5fbf1bcd6af73a7066b9eec17c21057eeca0062454ade8418aaaf549c45",
+  "company": {
+    "key": "yc-taktile",
+    "name": "Taktile"
+  },
+  "source": {
+    "id": "yc-taktile-news-import-01317932feb4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/",
+    "canonical": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/"
+  },
+  "title": "Your Lambda isn't leaking memory — your metrics are lying to you",
+  "summary": "How a P2 incident led us down a rabbit hole of glibc arenas, cgroup high-water marks, and the realization that none of our memory metrics meant what we thought they meant.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:38:54.472601+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T00:37:36.752881+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-taktile/2026/06/ac/ac8fa5fbf1bcd6af73a7066b9eec17c21057eeca0062454ade8418aaaf549c45/article.md",
+    "record": "articles/v1/87/yc-taktile/2026/06/ac/ac8fa5fbf1bcd6af73a7066b9eec17c21057eeca0062454ade8418aaaf549c45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8311,
+    "sha256": "sha256:18270d3175502c8aa46a29d65b350877589bf8ea4f7d31adcecf5b15a8f8f0bb",
+    "normalized_content_hash": "sha256:76429cb83a749499b1bb1613ae27e1378cb74438d53922652e246104f56a9d34"
+  },
+  "provenance": {
+    "source_item_id": "cebf2164-0f77-4561-ae50-a8371d311ee7",
+    "external_id": "https://engineering.taktile.com/blog/onnx-memory-usage-on-lambda/"
+  }
+}

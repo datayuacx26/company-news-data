@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "992825a766eb208f52145de2d695df1c8ec848809076a1221f576eab01abe243"
+company_key: "astrazeneca-plc-ordinary-shares"
+company: "AstraZeneca PLC"
+source_id: "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27"
+canonical_url: "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/astrazeneca-licenses-novel-egfr-inhibitor.html"
+published_at: "2026-07-14T01:30:00+00:00"
+first_seen_at: "2026-07-26T23:00:47.318234+00:00"
+fetched_at: "2026-07-28T03:42:03.141221+00:00"
+content_hash: "sha256:3f28ec68ff69106a7ff0b1fed248aa77e4e2ac6f26c1efba7d216e5c986763b6"
+---
+
+# AstraZeneca enters exclusive global license agreement for novel oral EGFR inhibitor Zegfrovy for lung cancer with Dizal Pharmaceutical
+
+

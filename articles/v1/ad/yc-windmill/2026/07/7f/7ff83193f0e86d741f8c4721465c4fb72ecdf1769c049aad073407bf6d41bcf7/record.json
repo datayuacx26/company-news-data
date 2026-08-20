@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ff83193f0e86d741f8c4721465c4fb72ecdf1769c049aad073407bf6d41bcf7",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ai-chat-text-file-attachments",
+    "canonical": "https://www.windmill.dev/changelog/ai-chat-text-file-attachments"
+  },
+  "title": "Attach text files to AI chat messages",
+  "summary": "Text files can now be attached to individual AI chat messages via picker, drag and drop, or paste. They show as chips in the input box and are sent with the next message. Content is read on demand by the AI through file tools instead of being inlined, so it is never resent with the conversation history.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:58:44.512719+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/7f/7ff83193f0e86d741f8c4721465c4fb72ecdf1769c049aad073407bf6d41bcf7/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/7f/7ff83193f0e86d741f8c4721465c4fb72ecdf1769c049aad073407bf6d41bcf7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1592,
+    "sha256": "sha256:d225130e5d7317189c4351f75e3a09b93fb65597d0b12a4222a9972f7b21c79d",
+    "normalized_content_hash": "sha256:9db73ac740341d3f457d04531d9ee0fa08c5914b0a5dfc4c78d8d45afa2704e5"
+  },
+  "provenance": {
+    "source_item_id": "bb8ed47c-e701-4b58-b60e-3efaa2ef513b",
+    "external_id": "https://www.windmill.dev/changelog/ai-chat-text-file-attachments"
+  }
+}

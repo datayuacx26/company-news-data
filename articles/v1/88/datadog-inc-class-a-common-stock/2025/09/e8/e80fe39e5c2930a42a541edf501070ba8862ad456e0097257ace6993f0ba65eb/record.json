@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e80fe39e5c2930a42a541edf501070ba8862ad456e0097257ace6993f0ba65eb",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/self-optimizing-system/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/self-optimizing-system/"
+  },
+  "title": "From hand-tuned Go to self-optimizing code: Building BitsEvolve",
+  "summary": "Learn how we turned hot-path optimizations into a system for continuous, AI-assisted performance improvements and saved thousands of cores in the process.",
+  "published_at": "2025-09-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/09/e8/e80fe39e5c2930a42a541edf501070ba8862ad456e0097257ace6993f0ba65eb/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/09/e8/e80fe39e5c2930a42a541edf501070ba8862ad456e0097257ace6993f0ba65eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28754,
+    "sha256": "sha256:a8c3bdf0df703a397a62dd9c2ecb4df467d0b195940a14ad2cc47b35682fe6db",
+    "normalized_content_hash": "sha256:adb177f75d95263fabf614cb087727a11bd16b8dc77fb9a8701b27f76d98722b"
+  },
+  "provenance": {
+    "source_item_id": "e2551af0-ac31-4023-9b77-a9ccff87aa0f",
+    "external_id": "https://www.datadoghq.com/blog/engineering/self-optimizing-system/"
+  }
+}

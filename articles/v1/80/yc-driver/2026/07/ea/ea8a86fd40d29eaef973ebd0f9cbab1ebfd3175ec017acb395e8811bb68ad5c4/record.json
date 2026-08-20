@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea8a86fd40d29eaef973ebd0f9cbab1ebfd3175ec017acb395e8811bb68ad5c4",
+  "company": {
+    "key": "yc-driver",
+    "name": "Driver"
+  },
+  "source": {
+    "id": "yc-driver-news-import-217796f58c6f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.driver.ai/blog/intelligence-efficacy-why-we-built-compiler-not-search-engine",
+    "canonical": "https://www.driver.ai/blog/intelligence-efficacy-why-we-built-compiler-not-search-engine/"
+  },
+  "title": "Intelligence ≠ Efficacy: Why We Built a Compiler, Not a Search Engine",
+  "summary": "The Data Processing Inequality proves that an AI agent's output is bounded by its input. We built a compiler architecture because information theory told us search would never be enough.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T17:03:14.637812+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:15:57.442275+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-driver/2026/07/ea/ea8a86fd40d29eaef973ebd0f9cbab1ebfd3175ec017acb395e8811bb68ad5c4/article.md",
+    "record": "articles/v1/80/yc-driver/2026/07/ea/ea8a86fd40d29eaef973ebd0f9cbab1ebfd3175ec017acb395e8811bb68ad5c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11942,
+    "sha256": "sha256:db4a7d43d896bdc35d9317057f1deb3ff935f179b11c15dc5c3540e133fefa0c",
+    "normalized_content_hash": "sha256:c7177056adc72969e01bcd16c5e3bcbe7e53fbc6fe84ea6b9f4d3d4208027792"
+  },
+  "provenance": {
+    "source_item_id": "bc1c9a80-18cb-4def-88a0-1fda7ac98095",
+    "external_id": "https://www.driver.ai/blog/intelligence-efficacy-why-we-built-compiler-not-search-engine/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f32633235c74cb6e9917dc9d616d1f518f17203c58198bd9fc3258a822cc9702",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/infra-continuously-updating-ai-systems-web-data",
+    "canonical": "https://anakin.io/blog/infra-continuously-updating-ai-systems-web-data"
+  },
+  "title": "5 infrastructure patterns for continuously-updated AI systems",
+  "summary": "Architect the data-fetch layer for continuously-updated AI systems with async job patterns, session lifecycle management,…",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:45:54.754455+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/06/f3/f32633235c74cb6e9917dc9d616d1f518f17203c58198bd9fc3258a822cc9702/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/06/f3/f32633235c74cb6e9917dc9d616d1f518f17203c58198bd9fc3258a822cc9702/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24746,
+    "sha256": "sha256:d9bb17c492e74bf8c1b4efd2f77f0dc97c519b4a9c3786560479b4a4cf46c310",
+    "normalized_content_hash": "sha256:e7b771bd7dfb28fe624235291b25c9e4d93bd5ba6f9a62a93cbb31a72160d6a3"
+  },
+  "provenance": {
+    "source_item_id": "1db1fed7-3f1c-48c4-9399-d651b7e300a8",
+    "external_id": "https://anakin.io/blog/infra-continuously-updating-ai-systems-web-data"
+  }
+}

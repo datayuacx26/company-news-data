@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d69513191b0acdd032c05137e944d2fb5d1d55fb5a9154b59fab417b09aa1b2d",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "canonical": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
+  },
+  "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+  "summary": "Baseten, Cognition, Deep Infra, Together AI and Cursor are seeing compounding value from NVIDIA’s software and open source ecosystem.",
+  "published_at": "2026-06-30T15:00:57+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.753056+00:00",
+  "fetched_at": "2026-07-28T20:47:51.174373+00:00",
+  "last_updated_at": "2026-07-28T20:48:03.204030+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/06/d6/d69513191b0acdd032c05137e944d2fb5d1d55fb5a9154b59fab417b09aa1b2d/article.md",
+    "record": "articles/v1/8d/nvidia/2026/06/d6/d69513191b0acdd032c05137e944d2fb5d1d55fb5a9154b59fab417b09aa1b2d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8601,
+    "sha256": "sha256:27cc578d169703e6025f4f89ba883cd9fcfc40b458738daa9c27d79ae9c3ea55",
+    "normalized_content_hash": "sha256:dfcfc3d375ccbfca2d129e0a824845e1734e7b1dc260604697a1aebfcd74319e"
+  },
+  "provenance": {
+    "source_item_id": "b8023cf9-7757-4c42-9520-feadf2a7281c",
+    "external_id": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/"
+  }
+}

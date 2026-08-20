@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62f255e632fa5207da7f7196c94f6da7ae9c804b86d44a407b9b79523fb785ad",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/fork-ducklake-data-environments",
+    "canonical": "https://www.windmill.dev/changelog/fork-ducklake-data-environments"
+  },
+  "title": "Fork data environments for DuckLake materialization",
+  "summary": "Workspace forks now get an isolated data environment per DuckLake by default. Materializing pipelines in a fork write to a fork-scoped metadata schema and bucket prefix instead of the parent's tables, and tables the fork has not materialized yet are read from the parent through read-only defer views, so one node can be iterated on without rebuilding upstream. The fork-creation dialog adds a per-lake Isolated / Shared with parent choice, the pipeline graph shows deferred vs fork chips on DuckLake assets, and deleting a fork can drop its forked namespaces.",
+  "published_at": "2026-07-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/62/62f255e632fa5207da7f7196c94f6da7ae9c804b86d44a407b9b79523fb785ad/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/62/62f255e632fa5207da7f7196c94f6da7ae9c804b86d44a407b9b79523fb785ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2337,
+    "sha256": "sha256:35cf85f7ed7b34c39814c25c3fac7316892eb912d0e32df92a1b44caaf2656ea",
+    "normalized_content_hash": "sha256:a49a40268dcd3ad04ca2a07c917b7f21f2a2ef2e820d6f7e84f4ae214da84e9d"
+  },
+  "provenance": {
+    "source_item_id": "1b328c65-c0f5-4491-9764-98dbfe3eb40d",
+    "external_id": "https://www.windmill.dev/changelog/fork-ducklake-data-environments"
+  }
+}

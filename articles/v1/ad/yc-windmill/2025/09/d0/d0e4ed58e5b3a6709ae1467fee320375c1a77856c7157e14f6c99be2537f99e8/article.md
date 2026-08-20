@@ -1,0 +1,278 @@
+---
+schema_version: "1.0.0"
+document_id: "d0e4ed58e5b3a6709ae1467fee320375c1a77856c7157e14f6c99be2537f99e8"
+company_key: "yc-windmill"
+company: "Windmill"
+source_id: "yc-windmill-rss-12b6d71fe86e"
+canonical_url: "https://www.windmill.dev/blog/windmill-for-soar-case-study"
+published_at: "2025-09-10T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:21:07.070377+00:00"
+fetched_at: "2026-07-28T22:01:02.064378+00:00"
+content_hash: "sha256:92def1265b9e323e23b4747bba180009fb58ffcbe21d3709fe19d9cfefd35e78"
+---
+
+# Windmill for SOAR - From Code to Security Operations in Minutes
+
+A few major organizations with 10,000+ employees and 50+ person security teams have migrated from specialized SOAR platforms like[Palo Alto Networks](https://www.paloaltonetworks.com/) and[Tines](https://www.tines.com/) to Windmill, drawn by the freedom, performance, and flexibility of a more generic, power-user oriented tool. In this blog post, we'll explore how these organizations leverage Windmill effectively for SOAR use cases.
+
+
+This case study shows why teams pick Windmill for SOAR and walks through a live demo we presented to[FEMA](https://www.fema.gov/) , including an automated incident response flow.
+
+
+Jump to parts of the demo video
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+## The SOAR Problem and Solution​
+
+
+Having worked in the security industry for 15+ years, including time in SOCs and managed security providers handling security incidents, I've seen the same pattern repeatedly: organizations outgrow managed SOAR platforms as their security infrastructure becomes more complex.
+
+
+The challenges are consistent across organizations of all sizes:
+
+
+- **Rigid workflows** that don't map to unique organizational structures and custom internal systems
+- **Waiting for vendor features** when you need integration with proprietary or government-specific systems
+- **Limited to pre-built integrations** while your security stack includes custom tools and APIs
+- **Complex pricing models** that scale poorly as automation needs grow
+
+
+As one security engineer noted: "Our workflows got very complex because our infrastructure is complex, and we weren't able to map our playbooks anymore in the managed system."
+
+
+Windmill addresses these challenges by giving you the flexibility to build exactly what you need:
+
+
+**Code-first approach** : Write and compose security scripts and workflows in Python, TypeScript, Bash, SQL, and more. Use your existing codebase as-is with no proprietary language or framework lock-in. Import existing scripts directly using the[CLI](https://www.windmill.dev/docs/advanced/cli) and develop locally with the[VS Code extension](https://www.windmill.dev/docs/cli_local_dev/vscode-extension) .
+
+
+**Performance and control** : Fastest job orchestration and workflow engine with near-zero overhead built on PostgreSQL and Rust. Self-hosted and open-source, so you keep ownership of your automation without waiting on vendors or hitting API limits. See our[benchmarks](https://www.windmill.dev/docs/misc/benchmarks/competitors) .
+
+
+**Rapid iteration** : Test and deploy in minutes, not weeks. The built-in IDE, CLI, and AI assistance help engineers build faster. Use any library, any API, and the[integrations](https://www.windmill.dev/docs/integrations/integrations_on_windmill) your team already relies on.[Windmill's AI assistant](https://www.windmill.dev/docs/core_concepts/ai_generation) helps you write and debug code, compose flows, and helps users that may not be proficient in code to easily build and debug their workflows.
+
+
+Your browser does not support the video tag.[Download the video](https://www.windmill.dev/assets/medias/aiflow-7225781ddf6771bf53c2639168342b8d.mp4) .
+
+
+## Building a Complete SOAR Workflow: From Alert to Remediation​
+
+
+Let's see how this works in practice. In SOAR terminology, a "playbook" is a predefined sequence of actions that security teams follow to respond to specific types of incidents.
+
+
+Common SOAR playbooks include incident response, threat hunting, vulnerability management, compliance reporting, and user provisioning. Windmill can handle all of these and more, from simple alert triage to complex multi-stage investigations.
+
+
+After presenting Windmill's approach to security automation to[FEMA's](https://www.fema.gov/) Office of the Chief Information Security Officer (OCISO) during their SOAR capabilities workshop, we decided to open-source the materials we had prepared for that event. This blog post shares those insights and the complete workflow demonstration, from initial detection through complete remediation.
+
+
+> **Try it yourself** : All the scripts, flows, and configurations shown in this example are available in our[GitHub repository](https://github.com/alpetric/windmill-soar) . You can deploy the complete SOAR demo to your own Windmill instance and test the workflows with realistic mock services.
+
+
+### The Trigger: IDS Alert Webhook​
+
+
+In most SOAR setups, playbooks are kicked off by events coming from SIEM/IDS/IPS, EDR, TIPs, ticketing systems, email parsers, chat-ops, schedulers, or message queues (Kafka/SQS/Pub/Sub). Windmill supports these patterns via[triggers](https://www.windmill.dev/docs/triggers) . In this example, the flow is triggered by a webhook to start the flow and pass an initial alert context. (watch 12:00 )
+
+
+E.g. an intrusion detection system detects suspicious activity and sends a webhook to Windmill with:
+
+
+- Username:` jdoe`
+- IP address:` 192.168.1.100`
+- Hostname:` workstation-015`
+- Timestamp:` 2024-01-15T14:30:00Z`
+
+
+### Phase 1: Data Collection (Parallel Execution)​
+
+
+The first phase is enrichment. Typical SOAR playbooks query sources like SIEM, IAM/HR/CMDB, EDR/NDR/AV, MDM/NAC, and threat intel (IP/domain/hash), plus geo/WHOIS and audit logs to add context and reduce false positives. In Windmill, each enrichment is its own flow step that runs in parallel across multiple workers; failures are isolated and do not block the rest.[Error handling](https://www.windmill.dev/docs/core_concepts/error_handling) is built in and can be configured per step.
+
+
+In this example, Windmill immediately launches five parallel enrichment flow steps:
+
+
+**SIEM Query**
+
+
+This script shows the pattern: call your SIEM over its API, then return a small, normalized payload that downstream steps can use. Use any HTTP client or vendor SDK, authenticate with[variables and secrets](https://www.windmill.dev/docs/core_concepts/variables_and_secrets) , and keep the return shape simple for composition.
+
+
+```text
+def     main  (  username  :     str  ,   ip  :     str  ,   hostname  :     str  )     -  >     dict  :           # Query SIEM for related events         events   =   siem_client  .  query  (               f"username:  {  username  }   OR ip:  {  ip  }   OR hostname:  {  hostname  }  "  ,             time_range  =  "last_24h"           )                   return     {               "events"  :   events  ,               "failed_logins"  :     len  (  [  e   for   e   in   events   if   e  .  type     ==     "login"     and     not   e  .  success  ]  )           }
+```
+
+
+**Threat Intelligence**
+
+
+- Queries external threat feeds for IP reputation etc.
+- Returns risk score (0-100) and malicious indicators
+
+
+**Identity System**
+
+
+- Fetches user details: department, role, managed devices
+- Critical for determining blast radius and appropriate response
+
+
+**Virus/Malware Scan**
+
+
+- Scans all devices associated with the user
+- Returns infection status and detected threats
+
+
+**Compliance & Audit Logs**
+
+
+- Checks recent permission changes and access requests
+- Identifies potential insider threats or compromised credentials
+
+
+### Phase 2: Analysis & Classification​
+
+
+The analysis phase is where SOAR playbooks combine all the collected signals to determine incident severity and appropriate response. This typically involves scoring models, rule-based logic, or machine learning to produce a severity level and rationale. Some teams plug in external scoring services or ML models, but the interface stays the same: produce a severity and rationale.
+
+
+In this workflow, the outputs from Phase 1 are combined into a risk score and severity level.
+
+
+Our example uses a basic heuristic that produces a numeric risk score and severity. It's intentionally simple and transparent: each signal contributes a fixed weight, and thresholds are easy to tune. Teams often start here and later evolve weights or swap in a learned model.
+
+
+In Windmill, this logic lives in[code and scripts](https://www.windmill.dev/docs/getting_started/scripts_quickstart) that are easy to review, test, and version. You can swap it for a model or API without changing the flow structure.
+
+
+**Risk Scoring Algorithm**
+
+
+```text
+def     main  (  failed_logins  :     int  ,   threats  :   List  [  str  ]  ,   infected  :     bool  ,                risk_score_ip  :     int  ,   is_malicious_ip  :     bool  ,   permissions_ok  :     bool  ,              compliance_risks  :   List  [  str  ]  ,   audit_logs  :   List  [  dict  ]  ,   department  :     str  )  :                 score   =     0                   # SIEM analysis           if   failed_logins   >=     5  :             score   +=     20                   # Virus scan results             if   infected  :             score   +=     40           if   threats  :             score   +=     10                   # Threat intelligence           if   risk_score_ip   >=     80  :             score   +=     30           elif   risk_score_ip   >=     50  :             score   +=     15           if   is_malicious_ip  :             score   +=     10                   # Identity context           if   department  .  lower  (  )     in     [  "finance"  ,     "admin"  ,     "security"  ]  :             score   +=     10      # Higher risk for privileged departments                   # Compliance violations           if     not   permissions_ok  :             score   +=     20           if   compliance_risks  :             score   +=     10                   # Recent suspicious activities           for   entry   in   audit_logs  :               if   entry  [  "action"  ]     in     [  "request_access"  ,     "add_user"  ,     "enable_ssh"  ]  :                 score   +=     10                   break                   # Classification           if   score   >=     100  :             severity   =     "critical"           elif   score   >=     70  :             severity   =     "high"           elif   score   >=     40  :             severity   =     "medium"           else  :             severity   =     "low"                   return     {               "risk_score"  :   score  ,               "severity"  :   severity  ,               "should_auto_respond"  :   severity   in     [  "high"  ,     "critical"  ]           }
+```
+
+
+**AI-Powered Incident Summary**
+
+
+The enrichment outputs are consolidated into a structured prompt for ChatGPT or Claude to generate a concise, human‑readable incident summary. The result includes the key signals, a rationale for the severity, and a prefilled ticket body with recommended next actions.
+
+
+This is where Windmill's[AI Agent flow step](https://www.windmill.dev/docs/core_concepts/ai_agents) comes into play. An AI flow step can use tools (e.g calling VirusTotal, a Threat Intelligence API, etc.) as well as outputs from other steps to generate a structured response based on an output schema provided.
+
+
+**Automatic Ticket Creation**
+
+
+The flow then creates a ticket in Linear or ServiceNow with the generated summary and deep links back to the live dashboard, so analysts can jump directly into the investigation.
+
+
+### Phase 3: Response Actions​
+
+
+Response covers notification, ticketing, and containment: disable or lock accounts, revoke sessions/keys, quarantine devices, block indicators (firewall/EDR/SWG), reset credentials, and update ACLs. SOAR playbooks often gate destructive actions behind approvals. In Windmill,[flows](https://www.windmill.dev/docs/getting_started/flows_quickstart) branch by severity, pause for[approvals](https://www.windmill.dev/docs/flows/flow_approval) in[Slack](https://www.windmill.dev/docs/integrations/slack) or[Teams](https://www.windmill.dev/docs/integrations/teams) when needed, and then fan out actions in parallel with retries and full audit trails.
+
+
+In this example, based on the calculated risk score, Windmill branches out the remediation steps:
+
+
+**🟢 Low Severity (Default branch)** :
+
+
+- Log incident to SIEM
+- No further action needed
+
+
+**🟡 Medium Severity** :
+
+
+- Send Slack alert to` #security` channel
+- Create monitoring ticket for analyst review
+
+
+**🟠 High Severity** :
+
+
+- [Interactive approval workflow via Slack](https://www.windmill.dev/docs/flows/flow_approval#slack-approval-step)
+- Security analyst can approve/deny quarantine actions
+
+
+**🔴 Critical Severity** :
+
+
+- Immediate user account disable
+- Automatic device quarantine
+- Emergency Slack notification with dashboard link
+
+
+### Investigation Dashboard: Live Context and Controls​
+
+
+This dashboard gives analysts a single place to review the incident, understand blast radius, and take action without switching tools. It pulls live signals from the workflow and overlays them with user and device context so the next step is obvious. (watch 29:20 )
+
+
+It is built with[Windmill's app builder](https://www.windmill.dev/docs/apps/app_editor) and connects directly to flow steps' data, SQL, and REST APIs. Components are bound to the run, which keeps the view in sync as enrichment completes and decisions are made. Actions on the page can trigger scripts and flows with approvals when needed.
+
+
+**Incident Overview Panel** The dashboard opens with a live threat summary produced by the AI analysis, paired with a risk score that highlights the main contributing factors. It also surfaces the user and device context pulled from identity systems so analysts immediately see who is impacted and how.
+
+
+**Geographic Context Map** A map provides IP geolocation with threat indicators and an at a glance topology view of affected systems, helping analysts understand blast radius and potential lateral movement.
+
+
+**Interactive Controls** From the same screen, analysts can trigger manual quarantine actions, request or grant approvals, and launch custom investigation tools without leaving the dashboard.
+
+
+**Background Data Refresh** Threat feeds and SIEM data refresh automatically every 60 seconds, and compliance status updates in real time to keep the view accurate throughout an investigation.
+
+
+## Key Security Features​
+
+
+Windmill takes care of the security plumbing you expect from a platform built for operations. Credentials live in[variables and secrets](https://www.windmill.dev/docs/core_concepts/variables_and_secrets) , or via[OIDC](https://www.windmill.dev/docs/core_concepts/oidc) for external key management such as HashiCorp Vault, AWS KMS, and Azure Key Vault. (watch 14:15 )
+
+
+Every run and approval is recorded in[audit logs](https://www.windmill.dev/docs/core_concepts/audit_logs) and can be exported to your SIEM when needed. Access is managed with[roles and permissions](https://www.windmill.dev/docs/core_concepts/roles_and_permissions) , so you can control who runs, edits, or approves. (watch 15:57 ) When actions need human review,[flow approvals](https://www.windmill.dev/docs/flows/flow_approval) work from the UI, Slack, or Teams, including on mobile. (watch 26:42 )
+
+
+Apps and assets inherit access from[groups and folders](https://www.windmill.dev/docs/core_concepts/groups_and_folders) , and you can keep changes safe with separate[staging and production](https://www.windmill.dev/docs/advanced/git_sync#git-promotion-workflow-cross-instance-deployment-using-a-git-workflow) environments.
+
+
+## Getting Started with Windmill for SOAR​
+
+
+Security teams need automation that matches the complexity of today's threats. Windmill lets you build the workflows you need, from simple alert handling to full incident response. After years of watching teams struggle with inflexible SOAR platforms, it's clear that the future belongs to platforms that adapt to your processes, not the other way around.
+
+
+Join 2,000+ organizations already using Windmill for mission-critical automation, including government agencies, financial institutions, and security-first companies.
+
+
+Start with a[30-day free trial](https://www.windmill.dev/pricing) that includes enterprise features like SAML, external secrets management, and dedicated support and deploy Windmill[self-hosted](https://www.windmill.dev/docs/advanced/self_host) on your infrastructure with[Kubernetes](https://github.com/windmill-labs/windmill-helm-charts) , Docker, or bare metal.
+
+
+[Windmill SOAR Demo Repository Complete SOAR demonstration with mock services and Windmill workspace configuration. Includes automated incident response flows, interactive dashboards, and integration examples.](https://github.com/alpetric/windmill-soar)
+
+
+[Windmill](https://www.windmill.dev/) is an[open-source](https://github.com/windmill-labs/windmill) and[self-hostable](https://www.windmill.dev/docs/advanced/self_host/) developer platform to build, orchestrate, and monitor internal tools and data pipelines, combining the power of code with the velocity of low-code. We turn your scripts into internal apps and composable steps of flows that automate repetitive workflows.
+
+
+You can[self-host](https://www.windmill.dev/docs/advanced/self_host/) Windmill using a` docker compose up` , or go with the[cloud app](https://app.windmill.dev/user/login) .

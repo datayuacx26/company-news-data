@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7b73adb42353c348ddee405ae2d39a99736bc85cf887211f4522039d1af2cdb",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/javascript-cleanup/",
+    "canonical": "https://blog.openreplay.com/javascript-cleanup/"
+  },
+  "title": "How JavaScript Finally Learned to Clean Up After Itself",
+  "summary": "JavaScript Explicit Resource Management with using, await using, DisposableStack, and SuppressedError for deterministic cleanup of files, locks, sockets, and connections.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T14:41:35.298132+00:00",
+  "fetched_at": "2026-07-30T14:41:37.626549+00:00",
+  "last_updated_at": "2026-08-09T22:46:23.853414+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/d7/d7b73adb42353c348ddee405ae2d39a99736bc85cf887211f4522039d1af2cdb/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/d7/d7b73adb42353c348ddee405ae2d39a99736bc85cf887211f4522039d1af2cdb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19105,
+    "sha256": "sha256:617fb082702e4846a3cebd1330ea8b7221505825d83cde4388da6d58b28f4e86",
+    "normalized_content_hash": "sha256:e6ee6bb48cf3043900d53400dae0a7689c615895c518a74e30af60218828d2d6"
+  },
+  "provenance": {
+    "source_item_id": "d59000d7-9207-44d6-bc04-945f47adf60c",
+    "external_id": "https://blog.openreplay.com/javascript-cleanup/"
+  }
+}

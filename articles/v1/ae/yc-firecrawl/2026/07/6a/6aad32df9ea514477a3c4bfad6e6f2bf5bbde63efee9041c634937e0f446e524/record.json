@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6aad32df9ea514477a3c4bfad6e6f2bf5bbde63efee9041c634937e0f446e524",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/converting-pdf-files-to-json",
+    "canonical": "https://www.firecrawl.dev/blog/converting-pdf-files-to-json"
+  },
+  "title": "How do you convert PDF files to JSON? (2026)",
+  "summary": "Docling, PyMuPDF, pdf2json, pdf-parse, and Firecrawl compared for converting PDF files to structured JSON.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-12T08:51:41.511252+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/07/6a/6aad32df9ea514477a3c4bfad6e6f2bf5bbde63efee9041c634937e0f446e524/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/07/6a/6aad32df9ea514477a3c4bfad6e6f2bf5bbde63efee9041c634937e0f446e524/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20932,
+    "sha256": "sha256:d12288919d7c51f4022664c22e1bbf03d1b35dc68831c0d86e4e7cebefbbd0e3",
+    "normalized_content_hash": "sha256:465f9af2d229d298953a284c7b86562e3cb4776857b8fab5730a41708dd400b6"
+  },
+  "provenance": {
+    "source_item_id": "a0e05fbc-dd54-492f-8795-2f267b69844e",
+    "external_id": "https://www.firecrawl.dev/blog/converting-pdf-files-to-json"
+  }
+}

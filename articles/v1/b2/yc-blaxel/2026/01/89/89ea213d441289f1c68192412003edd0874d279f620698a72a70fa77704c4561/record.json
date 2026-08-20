@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89ea213d441289f1c68192412003edd0874d279f620698a72a70fa77704c4561",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/we-slashed-our-network-latency-to-under-50-ms",
+    "canonical": "https://blaxel.ai/blog/we-slashed-our-network-latency-to-under-50-ms"
+  },
+  "title": "We slashed our network latency to under 50 milliseconds",
+  "summary": "Blaxel’s network routing layer cuts latency by 9×, enabling sub-50ms response times for fast, multi-step AI agents.",
+  "published_at": "2026-01-05T10:26:47+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:54:56.230774+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/01/89/89ea213d441289f1c68192412003edd0874d279f620698a72a70fa77704c4561/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/01/89/89ea213d441289f1c68192412003edd0874d279f620698a72a70fa77704c4561/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17387,
+    "sha256": "sha256:8b5c9e28211cdc19a08a7c174ecf2fe02c8be2cb796c8daff879ab451db8e1cf",
+    "normalized_content_hash": "sha256:fe1fc2e816feac3031ec399b3e2db3073308d747e0932eea97011ac3caf76b17"
+  },
+  "provenance": {
+    "source_item_id": "fb354966-89b6-4298-93e0-dac15dc1eec9",
+    "external_id": "https://blaxel.ai/blog/we-slashed-our-network-latency-to-under-50-ms"
+  }
+}

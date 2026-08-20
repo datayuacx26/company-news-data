@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5383cc9b001ddd43cdbef7f9f1466ed002ceaad58711a7b76a5c0167c77604d7",
+  "company": {
+    "key": "yc-cosmic-new",
+    "name": "Cosmic"
+  },
+  "source": {
+    "id": "yc-cosmic-new-atom-eb157756d832",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.cosmicjs.com/blog/mcp-control-plane-agent-access-content",
+    "canonical": "https://www.cosmicjs.com/blog/mcp-control-plane-agent-access-content"
+  },
+  "title": "MCP Needs a Control Plane: How Cosmic Governs Agent Access to Your Content",
+  "summary": "The case for a control plane over an app store is the right one for MCP. Discovery is the easy part. The hard part is governing what agents can read, write, and do once they connect. Here is how Cosmic's MCP server treats your content as a governed resource, not an open door.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T08:40:33.238493+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T03:53:08.898516+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-cosmic-new/2026/06/53/5383cc9b001ddd43cdbef7f9f1466ed002ceaad58711a7b76a5c0167c77604d7/article.md",
+    "record": "articles/v1/8a/yc-cosmic-new/2026/06/53/5383cc9b001ddd43cdbef7f9f1466ed002ceaad58711a7b76a5c0167c77604d7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7798,
+    "sha256": "sha256:9078c7ee48a6060fa415bc4a348782a37050c86259b320e01c364d7d93af852f",
+    "normalized_content_hash": "sha256:780f4eb24ec2c11d93a93a1ef4d91fceea6a2ad132b07a901a45123685885b89"
+  },
+  "provenance": {
+    "source_item_id": "f4b8e81b-9a75-4e86-af41-b92a02207924",
+    "external_id": "https://www.cosmicjs.com/blog/mcp-control-plane-agent-access-content"
+  }
+}

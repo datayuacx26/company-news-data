@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d767f7f6817bac51ac3ce862fd356e2e570e1eb7aca3e5feda22c4598e6d029e",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/scrape-every-page-firecrawl-pagination",
+    "canonical": "https://www.firecrawl.dev/blog/scrape-every-page-firecrawl-pagination"
+  },
+  "title": "How to Scrape a Paginated Website with Firecrawl",
+  "summary": "Most agents grab page one of a paginated site and call it done. Here's how to walk every page with the Firecrawl SDK and know exactly when to stop.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-12T08:51:41.511252+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/07/d7/d767f7f6817bac51ac3ce862fd356e2e570e1eb7aca3e5feda22c4598e6d029e/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/07/d7/d767f7f6817bac51ac3ce862fd356e2e570e1eb7aca3e5feda22c4598e6d029e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6679,
+    "sha256": "sha256:4587eeb69de67116f6e09bc3ad1607eab8d5525a4e7033d4f50025c2662ca524",
+    "normalized_content_hash": "sha256:e40aba8e916ca0fca0b83de2605a1fe2f9859d49f3140e9815ab766b77e7117e"
+  },
+  "provenance": {
+    "source_item_id": "5ed862a9-7bce-4c13-9249-ae57eb89d134",
+    "external_id": "https://www.firecrawl.dev/blog/scrape-every-page-firecrawl-pagination"
+  }
+}

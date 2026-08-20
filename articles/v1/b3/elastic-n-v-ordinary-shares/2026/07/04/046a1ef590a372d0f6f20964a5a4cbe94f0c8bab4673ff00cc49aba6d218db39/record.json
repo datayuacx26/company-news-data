@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "046a1ef590a372d0f6f20964a5a4cbe94f0c8bab4673ff00cc49aba6d218db39",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/vector-quantization-auto-calibration-elasticsearch",
+    "canonical": "https://www.elastic.co/search-labs/blog/vector-quantization-auto-calibration-elasticsearch"
+  },
+  "title": "How Elasticsearch auto-tunes vector quantization to hit your recall target",
+  "summary": "Elasticsearch auto-selects vector quantization bit counts, rerank depth and preconditioning to hit a recall target. Learn the math behind the model (R² > 0.98).",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T17:41:41.822757+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-04T06:31:57.718844+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/04/046a1ef590a372d0f6f20964a5a4cbe94f0c8bab4673ff00cc49aba6d218db39/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/04/046a1ef590a372d0f6f20964a5a4cbe94f0c8bab4673ff00cc49aba6d218db39/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 41200,
+    "sha256": "sha256:d92da0508901e5d3f1ac8aad689e915c2521818ed05437f29f27d68dfc7e6a2f",
+    "normalized_content_hash": "sha256:36eca27c5f97fd6617bd0b067d274af13dd06f669bf49212e2395e064d45c15e"
+  },
+  "provenance": {
+    "source_item_id": "d013e6ce-c71b-4804-8bb8-e4e33ab2309b",
+    "external_id": "https://www.elastic.co/search-labs/blog/vector-quantization-auto-calibration-elasticsearch"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a0bbfbd6daebe64425660332681fd4710fef3bf1a1962f131a3d3be2e49aef5",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/",
+    "canonical": "https://unit42.paloaltonetworks.com/siemens-rox-ii-zero-day-vulnerabilities/"
+  },
+  "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
+  "summary": "A technical analysis of three chained zero-day vulnerabilities in Siemens ROX II OT switches that allow privilege escalation and persistent root access.",
+  "published_at": "2026-07-17T10:00:24+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/1a/1a0bbfbd6daebe64425660332681fd4710fef3bf1a1962f131a3d3be2e49aef5/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/1a/1a0bbfbd6daebe64425660332681fd4710fef3bf1a1962f131a3d3be2e49aef5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20178,
+    "sha256": "sha256:d9052bdf36d50ceaedea7b254f26ad1493ea477a9b0e408c8261a8da8a7fb437",
+    "normalized_content_hash": "sha256:bcdc00aad50656d01a78c6b4ab201c97d28385b20d983de14bd92b3cf9ddb129"
+  },
+  "provenance": {
+    "source_item_id": "5189cbbf-a13a-4b7b-8e7d-6c13dc4e9867",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=183790"
+  }
+}

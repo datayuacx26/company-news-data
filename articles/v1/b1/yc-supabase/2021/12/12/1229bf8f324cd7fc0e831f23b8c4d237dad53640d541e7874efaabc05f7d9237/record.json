@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1229bf8f324cd7fc0e831f23b8c4d237dad53640d541e7874efaabc05f7d9237",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/realtime-row-level-security-in-postgresql",
+    "canonical": "https://supabase.com/blog/realtime-row-level-security-in-postgresql"
+  },
+  "title": "Realtime Postgres RLS now available on Supabase",
+  "summary": "Realtime database changes are now broadcast to authenticated users, respecting the same PostgreSQL policies that you use for Row Level Security.",
+  "published_at": "2021-12-01T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:04:10.558196+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2021/12/12/1229bf8f324cd7fc0e831f23b8c4d237dad53640d541e7874efaabc05f7d9237/article.md",
+    "record": "articles/v1/b1/yc-supabase/2021/12/12/1229bf8f324cd7fc0e831f23b8c4d237dad53640d541e7874efaabc05f7d9237/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8695,
+    "sha256": "sha256:e4968911533782aa367d12910ccb5dafcac24ebe7852d2ad519439c7dd10a015",
+    "normalized_content_hash": "sha256:4c357a33e6cdadc30e38c26df1c68de872ad58b9e2de5980bae62f9e06d7f48c"
+  },
+  "provenance": {
+    "source_item_id": "917e1847-080f-487a-b754-756004b8c290",
+    "external_id": "https://supabase.com/blog/realtime-row-level-security-in-postgresql"
+  }
+}

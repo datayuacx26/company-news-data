@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2399cd63cdd594f19cbf372e0d37aa57af06339e75c94c53eda8845ede14f287",
+  "company": {
+    "key": "yc-ridecell",
+    "name": "Ridecell"
+  },
+  "source": {
+    "id": "yc-ridecell-news-import-1074b151deb4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ridecell.com/blog/from-microservices-to-modular-monolith/",
+    "canonical": "https://ridecell.com/blog/from-microservices-to-modular-monolith/"
+  },
+  "title": "From Microservices to Modular Monolith: How We Cut Algorithm Runtime by 12× and Eliminated Peak-Hour Downtime",
+  "summary": "How we consolidated three co-dependent microservices into a modular monolith: a 12x faster matching algorithm, 97% fewer database operations, and the end of peak-hour downtime, shipped by a team of two to three engineers.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T21:51:40.131543+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-20T01:43:20.185697+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-ridecell/2026/07/23/2399cd63cdd594f19cbf372e0d37aa57af06339e75c94c53eda8845ede14f287/article.md",
+    "record": "articles/v1/a7/yc-ridecell/2026/07/23/2399cd63cdd594f19cbf372e0d37aa57af06339e75c94c53eda8845ede14f287/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17224,
+    "sha256": "sha256:39c56c0fb42d55299605e479a8197a416913a8e9768e3cfaade97cad9768f7df",
+    "normalized_content_hash": "sha256:fdc1554fadf2601e0bc173414da0a3e472990421b7fecab43c66180d763cf7bc"
+  },
+  "provenance": {
+    "source_item_id": "53d95e84-378b-4993-bd69-f02de1bdb4e7",
+    "external_id": "https://ridecell.com/blog/from-microservices-to-modular-monolith/"
+  }
+}

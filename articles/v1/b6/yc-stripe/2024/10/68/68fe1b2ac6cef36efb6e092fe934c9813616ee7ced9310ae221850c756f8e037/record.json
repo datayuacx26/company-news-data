@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68fe1b2ac6cef36efb6e092fe934c9813616ee7ced9310ae221850c756f8e037",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/testing-subscriptions-with-stripe-test-clocks-and-workbench",
+    "canonical": "https://stripe.dev/blog/testing-subscriptions-with-stripe-test-clocks-and-workbench"
+  },
+  "title": "Testing subscriptions with Stripe Test Clocks and Workbench",
+  "summary": "Validating payment logic that gets triggered over a period of time is challenging and sometimes results in inelegant solutions.The combination of test clocks and workbench will improve the ability for developers to build and debug recurring payments.",
+  "published_at": "2024-10-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:25:54.866601+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/10/68/68fe1b2ac6cef36efb6e092fe934c9813616ee7ced9310ae221850c756f8e037/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/10/68/68fe1b2ac6cef36efb6e092fe934c9813616ee7ced9310ae221850c756f8e037/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4328,
+    "sha256": "sha256:b52c4feae7d74e10d6952adb5112c6035ab2dd7d1c6d75d7b7cf1b0e74b388c5",
+    "normalized_content_hash": "sha256:ce9ff8fc7b030fbb6ce39dde11aaa879746c34a01bf60b100121806b76e54a29"
+  },
+  "provenance": {
+    "source_item_id": "2fd7bfe7-5857-47d5-afa4-b9d5592d042f",
+    "external_id": "https://stripe.dev/blog/testing-subscriptions-with-stripe-test-clocks-and-workbench"
+  }
+}

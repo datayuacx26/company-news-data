@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c40c275ce2f346b2b21068065d990f94a7365c0712e6e344c564a53bcc5ecd0",
+  "company": {
+    "key": "yc-lightly",
+    "name": "Lightly"
+  },
+  "source": {
+    "id": "yc-lightly-news-import-b9754ffe9935",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lightly.ai/blog/efficient-vlm-training",
+    "canonical": "https://lightly.ai/blog/efficient-vlm-training"
+  },
+  "title": "Efficient Training for Multimodal Vision Models: Techniques and Trade-offs",
+  "summary": "This article explores the evolution and key design choices in training multimodal vision language models (VLMs). It examines two main architectural approaches: cross-attention (pioneered by Flamingo) and self-attention (used in FROMAGe and BLIP2). We highlight how most modern VLMs build upon pre-trained unimodal backbones rather than training from scratch and discuss various techniques to boost performance, including masked training and resolution adaptation. It also outlines the typical three-stage training process: pre-training, supervised fine-tuning, and alignment, each serving distinct purposes in model development.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T02:26:12.148445+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T17:27:18.778367+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-lightly/2026/07/5c/5c40c275ce2f346b2b21068065d990f94a7365c0712e6e344c564a53bcc5ecd0/article.md",
+    "record": "articles/v1/b1/yc-lightly/2026/07/5c/5c40c275ce2f346b2b21068065d990f94a7365c0712e6e344c564a53bcc5ecd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17716,
+    "sha256": "sha256:97169b5149eb27dc0407213282d3cbc47bd596898e3d04fcf92f328853c95602",
+    "normalized_content_hash": "sha256:df85ce055d15cb3fc8591a57efa94f6502cbca4b21af0fbc31c7c6dbf82c36f9"
+  },
+  "provenance": {
+    "source_item_id": "e592d23d-32fe-4e33-a36c-442d992eee0a",
+    "external_id": "https://lightly.ai/blog/efficient-vlm-training"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "335a43d49b22cf4e1fc6cb96d98b61797ac88129a8a141fe50569fa29a2ef44d",
+  "company": {
+    "key": "yc-fly-io",
+    "name": "Fly.io"
+  },
+  "source": {
+    "id": "yc-fly-io-news-import-54d37e81cc45",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fly.io/blog/corrosion/",
+    "canonical": "https://fly.io/blog/corrosion/"
+  },
+  "title": "Corrosion",
+  "summary": "Corrosion is distributed service discovery based on Rust, SQLite, and CRDTs.",
+  "published_at": "2025-10-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:38:55.214316+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-20T03:15:48.943438+00:00",
+  "paths": {
+    "article": "articles/v1/b4/yc-fly-io/2025/10/33/335a43d49b22cf4e1fc6cb96d98b61797ac88129a8a141fe50569fa29a2ef44d/article.md",
+    "record": "articles/v1/b4/yc-fly-io/2025/10/33/335a43d49b22cf4e1fc6cb96d98b61797ac88129a8a141fe50569fa29a2ef44d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15627,
+    "sha256": "sha256:74b71e3f4bdbda024aadbf708dde3c262af6dea77464bb5a339beb02d53f5e09",
+    "normalized_content_hash": "sha256:8d803e53bfe49869bb958a2b87581f898899967da1237cc8a6ebeb258a5e675d"
+  },
+  "provenance": {
+    "source_item_id": "b852b6a0-f537-414b-8ce1-89dc588eb2d5",
+    "external_id": "https://fly.io/blog/corrosion/"
+  }
+}

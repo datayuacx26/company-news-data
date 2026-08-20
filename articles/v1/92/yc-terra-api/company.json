@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-terra-api",
+    "name": "Terra API"
+  },
+  "record_count": 27,
+  "first_published_at": "2022-06-06T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/92/yc-terra-api/index/pages/000001.json",
+        "record_count": 27,
+        "byte_count": 26774,
+        "sha256": "sha256:c7419c4483e5a2498b981c9105008ea7ff299a682e1422b36966bab60cdf3d85",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2022-06-06T00:00:00+00:00"
+      }
+    ]
+  }
+}

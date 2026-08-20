@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-nano-technologies",
+    "name": "Nano Technologies"
+  },
+  "record_count": 14,
+  "first_published_at": "2026-05-16T09:31:24+00:00",
+  "last_published_at": "2026-08-17T08:32:57+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b6/yc-nano-technologies/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 13915,
+        "sha256": "sha256:a6b7dbb52b384fa568d145bb03e2e1c2e3774f5b2b8f897687b8ea67fbd0649d",
+        "newest_at": "2026-08-17T08:32:57+00:00",
+        "oldest_at": "2026-05-16T09:31:24+00:00"
+      }
+    ]
+  }
+}

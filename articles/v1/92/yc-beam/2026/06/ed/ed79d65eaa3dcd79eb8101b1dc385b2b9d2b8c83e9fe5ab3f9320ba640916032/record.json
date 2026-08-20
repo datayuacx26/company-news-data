@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed79d65eaa3dcd79eb8101b1dc385b2b9d2b8c83e9fe5ab3f9320ba640916032",
+  "company": {
+    "key": "yc-beam",
+    "name": "Beam"
+  },
+  "source": {
+    "id": "yc-beam-news-import-8ae061011ee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.beam.cloud/blog/batch-inference-serverless-gpu",
+    "canonical": "https://www.beam.cloud/blog/batch-inference-serverless-gpu"
+  },
+  "title": "Batch Inference on Serverless GPU",
+  "summary": "Learn how to fan out batch inference across GPUs with one .map() call.",
+  "published_at": "2026-06-29T14:22:48+00:00",
+  "first_seen_at": "2026-07-22T21:28:59.137691+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-19T18:11:14.704688+00:00",
+  "paths": {
+    "article": "articles/v1/92/yc-beam/2026/06/ed/ed79d65eaa3dcd79eb8101b1dc385b2b9d2b8c83e9fe5ab3f9320ba640916032/article.md",
+    "record": "articles/v1/92/yc-beam/2026/06/ed/ed79d65eaa3dcd79eb8101b1dc385b2b9d2b8c83e9fe5ab3f9320ba640916032/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12804,
+    "sha256": "sha256:2ae87ba12fc3730d92846fa62b563a92bd3b3aa3f838ea869ded93fb295abc62",
+    "normalized_content_hash": "sha256:a608c940fa71bed59f23e0bab7b3801fa3a2b08d8f7c7c10ead907caaff83ac2"
+  },
+  "provenance": {
+    "source_item_id": "cd977567-cec4-4e9c-8f07-79f6897a16d5",
+    "external_id": "https://www.beam.cloud/blog/batch-inference-serverless-gpu"
+  }
+}

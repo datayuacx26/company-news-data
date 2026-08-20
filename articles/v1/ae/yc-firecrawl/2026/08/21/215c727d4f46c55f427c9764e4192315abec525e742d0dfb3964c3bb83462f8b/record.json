@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "215c727d4f46c55f427c9764e4192315abec525e742d0dfb3964c3bb83462f8b",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/use-other-models-in-claude-code",
+    "canonical": "https://www.firecrawl.dev/blog/use-other-models-in-claude-code"
+  },
+  "title": "How to Use GPT, Gemini, and Grok Models Inside Claude Code with CLI Proxy",
+  "summary": "Claude Code expects Claude models. CLI Proxy is a local proxy server that translates API formats both ways, so you can point Claude Code at GPT, Gemini, or Grok and keep skills, subagents, and reasoning efforts working.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T20:36:03.741488+00:00",
+  "fetched_at": "2026-08-05T20:36:05.816521+00:00",
+  "last_updated_at": "2026-08-20T02:25:45.443161+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/08/21/215c727d4f46c55f427c9764e4192315abec525e742d0dfb3964c3bb83462f8b/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/08/21/215c727d4f46c55f427c9764e4192315abec525e742d0dfb3964c3bb83462f8b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12360,
+    "sha256": "sha256:0a844a23ccaea8097d002cf100e1d926ae10fc3f751d33eb9b26feb6c550366f",
+    "normalized_content_hash": "sha256:6bb2233b572278db4606969534516bc13651ccb58a1dd97b3aba087004497125"
+  },
+  "provenance": {
+    "source_item_id": "ee56f817-1f7c-41bc-a54b-6984bbcc5cce",
+    "external_id": "https://www.firecrawl.dev/blog/use-other-models-in-claude-code"
+  }
+}

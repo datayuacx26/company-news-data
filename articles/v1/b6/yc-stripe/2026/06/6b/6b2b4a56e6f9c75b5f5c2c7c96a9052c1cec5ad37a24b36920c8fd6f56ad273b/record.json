@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b2b4a56e6f9c75b5f5c2c7c96a9052c1cec5ad37a24b36920c8fd6f56ad273b",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls",
+    "canonical": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls"
+  },
+  "title": "Stripe Projects adds new agent integrations, more providers, and custom developer controls",
+  "summary": "Our data shows that agents are capable of independently writing code and integrating with APIs like Stripe’s. Yet, many steps adjacent to writing code are still too hard for agents to do on their own. We’re expanding Stripe Projects to solve this.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:05:27.623858+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T02:17:02.759010+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/6b/6b2b4a56e6f9c75b5f5c2c7c96a9052c1cec5ad37a24b36920c8fd6f56ad273b/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/6b/6b2b4a56e6f9c75b5f5c2c7c96a9052c1cec5ad37a24b36920c8fd6f56ad273b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5530,
+    "sha256": "sha256:5877b0bc2d8ef1879164a5d666647572491b048ecbbabf25be1aab5c0e7e68d0",
+    "normalized_content_hash": "sha256:81e3e9d946a3d66cfcc21b4b608ad66ca37331e87e839db0a9b5acd8cfcf039f"
+  },
+  "provenance": {
+    "source_item_id": "112983cb-0041-4a9a-9742-6e6059b1869d",
+    "external_id": "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls"
+  }
+}

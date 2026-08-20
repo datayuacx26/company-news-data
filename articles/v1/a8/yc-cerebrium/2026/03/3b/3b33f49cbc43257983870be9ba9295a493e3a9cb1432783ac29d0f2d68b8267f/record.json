@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b33f49cbc43257983870be9ba9295a493e3a9cb1432783ac29d0f2d68b8267f",
+  "company": {
+    "key": "yc-cerebrium",
+    "name": "Cerebrium"
+  },
+  "source": {
+    "id": "yc-cerebrium-news-import-eb465eef12b4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cerebrium.ai/blog/achieving-speed-improvements-in-custom-container-images",
+    "canonical": "https://cerebrium.ai/blog/achieving-speed-improvements-in-custom-container-images"
+  },
+  "title": "Achieving 83% Speed Improvements in Custom Container Images",
+  "summary": "How Cerebrium reworked node startup and initialization on AWS to cut machine boot time by 83%, shrinking the long tail of cold starts and excess warm capacity.",
+  "published_at": "2026-03-31T15:56:54+00:00",
+  "first_seen_at": "2026-07-21T13:06:54.599340+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-08-20T03:11:50.289453+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-cerebrium/2026/03/3b/3b33f49cbc43257983870be9ba9295a493e3a9cb1432783ac29d0f2d68b8267f/article.md",
+    "record": "articles/v1/a8/yc-cerebrium/2026/03/3b/3b33f49cbc43257983870be9ba9295a493e3a9cb1432783ac29d0f2d68b8267f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10451,
+    "sha256": "sha256:1f69e186272b54d43fe3d8802ca150b70b431601b40d7ea9d2510cee5028f970",
+    "normalized_content_hash": "sha256:08bb4cda9fe7733cb8ec11f016bb8deb40d5985cfb6bbb5473c5ff67472e735b"
+  },
+  "provenance": {
+    "source_item_id": "23dade53-0bbb-45c6-aa41-735e4fae3321",
+    "external_id": "https://cerebrium.ai/blog/achieving-speed-improvements-in-custom-container-images"
+  }
+}

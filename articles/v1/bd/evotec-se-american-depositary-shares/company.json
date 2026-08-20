@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "evotec-se-american-depositary-shares",
+    "name": "Evotec SE"
+  },
+  "record_count": 102,
+  "first_published_at": "2024-02-21T08:30:00+00:00",
+  "last_published_at": "2026-08-13T05:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 8
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bd/evotec-se-american-depositary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 66844,
+        "sha256": "sha256:ba3fcfaa204a2485fcb385b678ba02792d6118401b1da7956479b19db3df00a9",
+        "newest_at": "2026-08-13T05:30:00+00:00",
+        "oldest_at": "2025-04-16T22:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/bd/evotec-se-american-depositary-shares/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 64761,
+        "sha256": "sha256:fe8891e5e3fc52fd58c26e4339a21829bbbf7927d9fe7f3e45ba939729d223f4",
+        "newest_at": "2025-03-04T06:30:00+00:00",
+        "oldest_at": "2024-03-14T10:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/bd/evotec-se-american-depositary-shares/index/pages/000003.json",
+        "record_count": 2,
+        "byte_count": 3226,
+        "sha256": "sha256:eb33becc92c85fa263ae733875a7857c50b6a666d6aca6feffdc716c9c73be50",
+        "newest_at": "2024-03-06T06:30:00+00:00",
+        "oldest_at": "2024-02-21T08:30:00+00:00"
+      }
+    ]
+  }
+}

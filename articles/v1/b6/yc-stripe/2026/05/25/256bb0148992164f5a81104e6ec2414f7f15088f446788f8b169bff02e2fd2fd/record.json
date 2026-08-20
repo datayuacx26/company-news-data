@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "256bb0148992164f5a81104e6ec2414f7f15088f446788f8b169bff02e2fd2fd",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/aws-stripe-agentcore-privy",
+    "canonical": "https://stripe.com/newsroom/news/aws-stripe-agentcore-privy"
+  },
+  "title": "Stripe partners with AWS to power AgentCore payments with Privy",
+  "summary": "Privy, a Stripe company, is providing the wallet infrastructure and payment rails that power the first set of capabilities, alongside Coinbase.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:06:01.421437+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T02:16:33.048642+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/25/256bb0148992164f5a81104e6ec2414f7f15088f446788f8b169bff02e2fd2fd/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/25/256bb0148992164f5a81104e6ec2414f7f15088f446788f8b169bff02e2fd2fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1472,
+    "sha256": "sha256:47e5817667e4b026f391c3366e98b2c82e24e187c8449d146633e38c0b2425e5",
+    "normalized_content_hash": "sha256:62f9c7ed382811e25b11b220e2176f9b43e9ee21448784e97c48333568ca39f1"
+  },
+  "provenance": {
+    "source_item_id": "74d589b9-75e7-4e12-95d8-30e2b614cf86",
+    "external_id": "https://stripe.com/newsroom/news/aws-stripe-agentcore-privy"
+  }
+}

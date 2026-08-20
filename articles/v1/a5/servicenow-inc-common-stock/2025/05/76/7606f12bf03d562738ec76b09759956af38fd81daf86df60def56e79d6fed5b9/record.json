@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7606f12bf03d562738ec76b09759956af38fd81daf86df60def56e79d6fed5b9",
+  "company": {
+    "key": "servicenow-inc-common-stock",
+    "name": "ServiceNow Inc."
+  },
+  "source": {
+    "id": "servicenow-inc-common-stock-rss-e68ea5e3c60f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.servicenow.com/community/technology-blog/handling-attachment-restrictions-gracefully/ba-p/3260026",
+    "canonical": "https://www.servicenow.com/community/technology-blog/handling-attachment-restrictions-gracefully/ba-p/3260026"
+  },
+  "title": "Handling Attachment restrictions gracefully",
+  "summary": "Service Bridge on Remote Task definitions can be configured to send attachments between tasks, based on the following settings. https://www.servicenow.com/docs/bundle/yokohama-service-bridge/page/product/tmt-service-bridge-2/task/service-bridge-v2-create-remote-tasks-defs.html However, at...",
+  "published_at": "2025-05-11T22:48:42+00:00",
+  "first_seen_at": "2026-07-20T04:36:33.238428+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T00:29:45.889683+00:00",
+  "paths": {
+    "article": "articles/v1/a5/servicenow-inc-common-stock/2025/05/76/7606f12bf03d562738ec76b09759956af38fd81daf86df60def56e79d6fed5b9/article.md",
+    "record": "articles/v1/a5/servicenow-inc-common-stock/2025/05/76/7606f12bf03d562738ec76b09759956af38fd81daf86df60def56e79d6fed5b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3640,
+    "sha256": "sha256:29f459fefc679c5943cc464ecae19dad882ce3380c6e6de0aa3ead7b7ec0f2b7",
+    "normalized_content_hash": "sha256:3ac36361b300560bb7962b1a26d65cdd475bb7c7d7c8fa520ae55c1fca2278bb"
+  },
+  "provenance": {
+    "source_item_id": "e380d306-1135-4b7a-8d57-94f58e8f3f9d",
+    "external_id": "https://www.servicenow.com/community/technology-blog/handling-attachment-restrictions-gracefully/ba-p/3260026"
+  }
+}

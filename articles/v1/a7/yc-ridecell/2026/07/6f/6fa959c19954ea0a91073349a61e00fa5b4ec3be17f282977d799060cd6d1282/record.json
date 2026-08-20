@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6fa959c19954ea0a91073349a61e00fa5b4ec3be17f282977d799060cd6d1282",
+  "company": {
+    "key": "yc-ridecell",
+    "name": "Ridecell"
+  },
+  "source": {
+    "id": "yc-ridecell-news-import-1074b151deb4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ridecell.com/blog/why-fleet-ai-needs-a-knowledge-graph/",
+    "canonical": "https://ridecell.com/blog/why-fleet-ai-needs-a-knowledge-graph/"
+  },
+  "title": "Why Fleet AI Needs a Knowledge Graph",
+  "summary": "Most off-the-shelf AI tools stall the same way on fleet operations: they summarize the data but cannot reason about it. The difference between a trained AI eye and an untrained one is the knowledge graph behind it.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T21:51:40.131543+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-20T01:43:20.185697+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-ridecell/2026/07/6f/6fa959c19954ea0a91073349a61e00fa5b4ec3be17f282977d799060cd6d1282/article.md",
+    "record": "articles/v1/a7/yc-ridecell/2026/07/6f/6fa959c19954ea0a91073349a61e00fa5b4ec3be17f282977d799060cd6d1282/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7021,
+    "sha256": "sha256:ef37f0340949b1aba9fc574970dc1ae7007bcc11b6269ca32c52569f8fb998a4",
+    "normalized_content_hash": "sha256:5faf7b3fef8b4b6a0a79d03958c7d86fa0ad5b620b0c55c58f90ef2b50fe64ba"
+  },
+  "provenance": {
+    "source_item_id": "5a590116-e39c-4b22-9820-622a9d2938cf",
+    "external_id": "https://ridecell.com/blog/why-fleet-ai-needs-a-knowledge-graph/"
+  }
+}

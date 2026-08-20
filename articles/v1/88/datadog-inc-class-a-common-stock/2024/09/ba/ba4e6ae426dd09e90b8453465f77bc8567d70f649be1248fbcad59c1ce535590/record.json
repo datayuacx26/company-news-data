@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba4e6ae426dd09e90b8453465f77bc8567d70f649be1248fbcad59c1ce535590",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/llms-for-postmortems/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/llms-for-postmortems/"
+  },
+  "title": "How we optimized LLM use for cost, quality, and safety to facilitate writing postmortems",
+  "summary": "Learn about the challenges and solutions we discovered while using LLMs to automate writing postmortems.",
+  "published_at": "2024-09-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/09/ba/ba4e6ae426dd09e90b8453465f77bc8567d70f649be1248fbcad59c1ce535590/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/09/ba/ba4e6ae426dd09e90b8453465f77bc8567d70f649be1248fbcad59c1ce535590/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21676,
+    "sha256": "sha256:9268e16f3c9eff23900ed58fb133cc3cb902076eeca7a84fb30e731d2ea208aa",
+    "normalized_content_hash": "sha256:b73bb7fc66b828d26c2abd8cfe6976b9081ad8f1f3edbd03a2253b46794c8852"
+  },
+  "provenance": {
+    "source_item_id": "ebe0d35c-7641-46c7-837e-124075a03c3b",
+    "external_id": "https://www.datadoghq.com/blog/engineering/llms-for-postmortems/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e976bb80350d5e70db0e4ac68639b73c9ab52b49e2d498dd6a446f3afacfdb46",
+  "company": {
+    "key": "ouster-inc-common-stock",
+    "name": "Ouster Inc."
+  },
+  "source": {
+    "id": "ouster-inc-common-stock-news-import-d3df9a0809e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ouster.com/insights/blog/sensor-config-for-crisp-mapping",
+    "canonical": "https://ouster.com/insights/blog/sensor-config-for-crisp-mapping"
+  },
+  "title": "Optimal Sensor and SLAM Configuration for “Crisp” Mapping",
+  "summary": "Optimal SLAM configurations, beam collimation benefits, and ouster-cli commands for voxel sizing and reflectivity filtering to maximize spatial accuracy.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:00:35.952779+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:55:30.856387+00:00",
+  "paths": {
+    "article": "articles/v1/b1/ouster-inc-common-stock/2026/07/e9/e976bb80350d5e70db0e4ac68639b73c9ab52b49e2d498dd6a446f3afacfdb46/article.md",
+    "record": "articles/v1/b1/ouster-inc-common-stock/2026/07/e9/e976bb80350d5e70db0e4ac68639b73c9ab52b49e2d498dd6a446f3afacfdb46/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5400,
+    "sha256": "sha256:105d42a22a16ca5e4074cf8328e7dc6c9e17e9958fa40e5bf94320fd2c24ca79",
+    "normalized_content_hash": "sha256:a2076a8db29811843471525813da0e644798ba5645338514205ebf36c0bc4689"
+  },
+  "provenance": {
+    "source_item_id": "3818aa8f-2801-4960-b2e9-9c09b13c0253",
+    "external_id": "https://ouster.com/insights/blog/sensor-config-for-crisp-mapping"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b9fa50a9029ebbc92fc2e6fa46d180b7b0aebdcc50656ce482813a74650a2d84",
+  "company": {
+    "key": "yc-superagent",
+    "name": "Superagent"
+  },
+  "source": {
+    "id": "yc-superagent-news-import-3c33ed06ece7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.superagent.sh/blog/when-a-trusted-contributor-gets-compromised",
+    "canonical": "https://www.superagent.sh/blog/when-a-trusted-contributor-gets-compromised"
+  },
+  "title": "When a Trusted Contributor Gets Compromised",
+  "summary": "We analyzed 8,897 evidence-backed GitHub posture findings across 1,611 repositories to measure the blast radius of a compromised contributor in CI today.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T19:30:35.424322+00:00",
+  "fetched_at": "2026-08-18T19:30:37.239150+00:00",
+  "last_updated_at": "2026-08-19T23:41:00.202139+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-superagent/2026/08/b9/b9fa50a9029ebbc92fc2e6fa46d180b7b0aebdcc50656ce482813a74650a2d84/article.md",
+    "record": "articles/v1/a8/yc-superagent/2026/08/b9/b9fa50a9029ebbc92fc2e6fa46d180b7b0aebdcc50656ce482813a74650a2d84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3235,
+    "sha256": "sha256:f5d63114d760caab900b7bccf809870c74f83d86c0c62019633a9d7d10a415bc",
+    "normalized_content_hash": "sha256:6342ce5bb09bba24fb0d894fbba782f057be9d94cf688c2e635cf594b9fd3f41"
+  },
+  "provenance": {
+    "source_item_id": "90619932-7722-4fe2-95ab-b80a23ede0f0",
+    "external_id": "https://www.superagent.sh/blog/when-a-trusted-contributor-gets-compromised"
+  }
+}

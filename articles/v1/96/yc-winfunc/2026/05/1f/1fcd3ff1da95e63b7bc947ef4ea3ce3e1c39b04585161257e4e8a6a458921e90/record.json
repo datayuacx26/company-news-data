@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fcd3ff1da95e63b7bc947ef4ea3ce3e1c39b04585161257e4e8a6a458921e90",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-7387",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-7387"
+  },
+  "title": "Group syncable scheme_admin authorization bypass (CVE-2026-7387)",
+  "summary": "Mattermost group syncables let LDAP groups be linked to teams or channels and can optionally mark synchronized group members as scheme admins. Before th…",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:13:17.137376+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/05/1f/1fcd3ff1da95e63b7bc947ef4ea3ce3e1c39b04585161257e4e8a6a458921e90/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/05/1f/1fcd3ff1da95e63b7bc947ef4ea3ce3e1c39b04585161257e4e8a6a458921e90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9021,
+    "sha256": "sha256:8f74a5a4480ac4a95ecf35411a9a0a978b595fda3a702f8921145e7d8be5a1af",
+    "normalized_content_hash": "sha256:282d403b46f70ef86ff85c898eddbd155962dd4c9f7571108a5182f75957e60b"
+  },
+  "provenance": {
+    "source_item_id": "34fca85a-7ab5-4abb-a4b4-09fc6bc5e1f4",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-7387"
+  }
+}

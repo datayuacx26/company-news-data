@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "52d52a4592bddf09af8126c5cc28d00ec5033c971f4f9c9116c147357f13eb43",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/designing-flexible-payment-flows-with-checkoutsessions",
+    "canonical": "https://stripe.dev/blog/designing-flexible-payment-flows-with-checkoutsessions"
+  },
+  "title": "Designing flexible payment flows with Checkout Session",
+  "summary": "Learn how to build a future-proof, global-ready checkout by implementing Stripe Checkout Session with embeddable Elements for flexible payments, tax calculation, and multi-currency support.",
+  "published_at": "2026-03-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/03/52/52d52a4592bddf09af8126c5cc28d00ec5033c971f4f9c9116c147357f13eb43/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/03/52/52d52a4592bddf09af8126c5cc28d00ec5033c971f4f9c9116c147357f13eb43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3395,
+    "sha256": "sha256:023beff077ff47aefcc743f424dec68d835eff7478f6c4b8cda82d2895640992",
+    "normalized_content_hash": "sha256:c77fcc727a3e3937a45e88f281466aa06e9dcf24c27519a059a5f40f4d84ea45"
+  },
+  "provenance": {
+    "source_item_id": "bfb934b5-712d-48c4-a82a-abad4bbb3eab",
+    "external_id": "https://stripe.dev/blog/designing-flexible-payment-flows-with-checkoutsessions"
+  }
+}

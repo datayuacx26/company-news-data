@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0fd5adb64dc584595064e3f927d0eeffc97efa5244e04f10e83b668d05dbf5f0",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/schema-on-read-esql-json-keys",
+    "canonical": "https://www.elastic.co/search-labs/blog/schema-on-read-esql-json-keys"
+  },
+  "title": "Skip the mapping explosion: ES|QL queries schemaless JSON keys without dynamic mapping",
+  "summary": "Flattened fields let you skip dynamic mapping and query schemaless data at read time. ES|QL's FIELD_EXTRACT pulls any key with columnar pushdown.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T21:21:24.536891+00:00",
+  "fetched_at": "2026-08-18T21:21:26.260324+00:00",
+  "last_updated_at": "2026-08-20T02:23:13.375428+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/0f/0fd5adb64dc584595064e3f927d0eeffc97efa5244e04f10e83b668d05dbf5f0/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/0f/0fd5adb64dc584595064e3f927d0eeffc97efa5244e04f10e83b668d05dbf5f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22260,
+    "sha256": "sha256:1f1ab9eaa63614053667ff572e7b755e5ff66aa78fd6b0704a2fbf419c935bd4",
+    "normalized_content_hash": "sha256:b90048322985d4e18292e5dc7b09ec2a244439ef34f0e820dff6bada409f6c7a"
+  },
+  "provenance": {
+    "source_item_id": "db3a7d19-aeee-4043-8ac7-2ab8dd4c47b7",
+    "external_id": "https://www.elastic.co/search-labs/blog/schema-on-read-esql-json-keys"
+  }
+}

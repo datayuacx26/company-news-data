@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "799f4750a83a24be92bb755ff3f8cec017281b6d952ad12982b604d929a87836",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/postgres-dynamic-table-partitioning",
+    "canonical": "https://supabase.com/blog/postgres-dynamic-table-partitioning"
+  },
+  "title": "Dynamic Table Partitioning in Postgres",
+  "summary": "Learn how to scale large postgres tables in place and increase query performance.",
+  "published_at": "2023-10-03T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2023/10/79/799f4750a83a24be92bb755ff3f8cec017281b6d952ad12982b604d929a87836/article.md",
+    "record": "articles/v1/b1/yc-supabase/2023/10/79/799f4750a83a24be92bb755ff3f8cec017281b6d952ad12982b604d929a87836/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29564,
+    "sha256": "sha256:e8e5a40a1b699c69ded5a0008b04ae55a775c4c59c4fb1a50ffbd9cce00d4356",
+    "normalized_content_hash": "sha256:19afa442b8648606e9d0cecf43ad0c4ba54c88a375ffdb609a600c0722e43c0f"
+  },
+  "provenance": {
+    "source_item_id": "71ab5a11-3db8-478a-8f3a-4376e89961d5",
+    "external_id": "https://supabase.com/blog/postgres-dynamic-table-partitioning"
+  }
+}

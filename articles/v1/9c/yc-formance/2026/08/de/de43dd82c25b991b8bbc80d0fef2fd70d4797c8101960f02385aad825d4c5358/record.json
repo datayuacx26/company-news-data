@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de43dd82c25b991b8bbc80d0fef2fd70d4797c8101960f02385aad825d4c5358",
+  "company": {
+    "key": "yc-formance",
+    "name": "Formance"
+  },
+  "source": {
+    "id": "yc-formance-news-import-baf47baa49b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.formance.com/blog/financial-operations/core-banking-system-architecture",
+    "canonical": "https://www.formance.com/blog/financial-operations/core-banking-system-architecture"
+  },
+  "title": "Core Banking System Architecture: A Reference Model For Modern Stacks",
+  "summary": "A core banking system architecture model separating ledger, money movement, compliance, and APIs to reduce reconciliation drift.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T15:05:55.153996+00:00",
+  "fetched_at": "2026-08-14T15:05:57.282861+00:00",
+  "last_updated_at": "2026-08-19T15:47:04.948511+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-formance/2026/08/de/de43dd82c25b991b8bbc80d0fef2fd70d4797c8101960f02385aad825d4c5358/article.md",
+    "record": "articles/v1/9c/yc-formance/2026/08/de/de43dd82c25b991b8bbc80d0fef2fd70d4797c8101960f02385aad825d4c5358/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17224,
+    "sha256": "sha256:783df3a9525130432a2b21f0f7cb130d91b6f16aa8207dbedfa770077aac92db",
+    "normalized_content_hash": "sha256:a958057c5a47d9696779ddfda5763dddb92014f106467ea3428972c088d4ffdf"
+  },
+  "provenance": {
+    "source_item_id": "7808fb3a-7f57-4401-8f8d-6e3c5c494351",
+    "external_id": "https://www.formance.com/blog/financial-operations/core-banking-system-architecture"
+  }
+}

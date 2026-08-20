@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c44906afaf239849539abf60a211bbc1a68232fb95f4204122eb3f17493f9dfb",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/authentication-strategy-web-app/",
+    "canonical": "https://blog.openreplay.com/authentication-strategy-web-app/"
+  },
+  "title": "Choosing an Authentication Strategy for a New Web App",
+  "summary": "Choose web app auth in 2026: sessions vs JWTs, OAuth 2.0/OIDC, passkeys, and managed providers, with practical guidance on revocation, CSRF, and UX.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-30T01:24:07.321988+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/c4/c44906afaf239849539abf60a211bbc1a68232fb95f4204122eb3f17493f9dfb/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/c4/c44906afaf239849539abf60a211bbc1a68232fb95f4204122eb3f17493f9dfb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21495,
+    "sha256": "sha256:2e249630b785c16d38549a1734054977c77b440084ab6c3da1c9c25d3149a9e9",
+    "normalized_content_hash": "sha256:2e7d6eb850a5109b6464b7135a54ea29dd20eb29d7294e96511328648d7de89d"
+  },
+  "provenance": {
+    "source_item_id": "2377a245-3758-4c27-ad36-654c49c71339",
+    "external_id": "https://blog.openreplay.com/authentication-strategy-web-app/"
+  }
+}

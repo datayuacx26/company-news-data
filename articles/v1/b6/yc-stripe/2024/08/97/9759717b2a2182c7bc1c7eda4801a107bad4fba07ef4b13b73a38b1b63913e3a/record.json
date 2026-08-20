@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9759717b2a2182c7bc1c7eda4801a107bad4fba07ef4b13b73a38b1b63913e3a",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/peeking-under-the-hood-of-stripe-invoicing",
+    "canonical": "https://stripe.dev/blog/peeking-under-the-hood-of-stripe-invoicing"
+  },
+  "title": "Peeking under the hood of Stripe Invoicing",
+  "summary": "Stripe Invoicing offers a no-code solution for sending invoices to customers. Because this option handles the complexity of all underlying API calls, developers sometimes struggle to understand the different phases a Stripe invoice goes through, which is problematic when attempting to debug payment failures.",
+  "published_at": "2024-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/08/97/9759717b2a2182c7bc1c7eda4801a107bad4fba07ef4b13b73a38b1b63913e3a/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/08/97/9759717b2a2182c7bc1c7eda4801a107bad4fba07ef4b13b73a38b1b63913e3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4158,
+    "sha256": "sha256:5eba44b2c2be3e53ded5d3090b0b74852df9b377f9fe9e669a48cad7b04ccc90",
+    "normalized_content_hash": "sha256:a6e6fcf5c7c5d02a69ddb9bd56cd47d59d6d77701fa80fcfd91df2bb022106df"
+  },
+  "provenance": {
+    "source_item_id": "aa4b2963-17a0-467a-86a5-c9f717c0bc3e",
+    "external_id": "https://stripe.dev/blog/peeking-under-the-hood-of-stripe-invoicing"
+  }
+}

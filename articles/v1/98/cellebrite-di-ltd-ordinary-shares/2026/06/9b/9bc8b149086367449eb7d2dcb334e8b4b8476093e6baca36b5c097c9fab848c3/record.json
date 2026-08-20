@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bc8b149086367449eb7d2dcb334e8b4b8476093e6baca36b5c097c9fab848c3",
+  "company": {
+    "key": "cellebrite-di-ltd-ordinary-shares",
+    "name": "Cellebrite DI Ltd."
+  },
+  "source": {
+    "id": "cellebrite-di-ltd-ordinary-shares-news-import-5108dc200e80",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cellebrite.com/en/blog/automate-android-and-ios-device-interactions-with-a-corellium-linux-server/",
+    "canonical": "https://cellebrite.com/en/blog/automate-android-and-ios-device-interactions-with-a-corellium-linux-server/"
+  },
+  "title": "Automate Android and iOS Device Interactions with a Corellium Linux Server",
+  "summary": "Corellium 7.10 introduces Generic Linux Virtual Machines (VMs) that can run inside the same isolated Corellium project as your virtual Android and iOS devices. For Android Appium automation, that matters for one practical reason: that Appium server, test script, and Android device can live next to each other in the same project network. That removes a lot of […]",
+  "published_at": "2026-06-08T18:42:52+00:00",
+  "first_seen_at": "2026-07-21T12:57:31.558749+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-13T05:25:30.311303+00:00",
+  "paths": {
+    "article": "articles/v1/98/cellebrite-di-ltd-ordinary-shares/2026/06/9b/9bc8b149086367449eb7d2dcb334e8b4b8476093e6baca36b5c097c9fab848c3/article.md",
+    "record": "articles/v1/98/cellebrite-di-ltd-ordinary-shares/2026/06/9b/9bc8b149086367449eb7d2dcb334e8b4b8476093e6baca36b5c097c9fab848c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19600,
+    "sha256": "sha256:481c236261d80e52f6536d428b5514827cb0bc3ca177f874babe22f722d06222",
+    "normalized_content_hash": "sha256:545ddcece3c346e59b71cf3caf7b4ff70b78008acf6cd0a9e7b05be1c7b9ed3f"
+  },
+  "provenance": {
+    "source_item_id": "8e68fd48-e918-4377-88bf-0811db919f9e",
+    "external_id": "https://cellebrite.com/en/blog/automate-android-and-ios-device-interactions-with-a-corellium-linux-server/"
+  }
+}

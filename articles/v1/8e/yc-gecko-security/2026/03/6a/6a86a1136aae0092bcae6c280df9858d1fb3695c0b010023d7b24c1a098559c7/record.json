@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a86a1136aae0092bcae6c280df9858d1fb3695c0b010023d7b24c1a098559c7",
+  "company": {
+    "key": "yc-gecko-security",
+    "name": "Gecko Security"
+  },
+  "source": {
+    "id": "yc-gecko-security-news-import-02715d60c1a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gecko.security/blog/business-logic-appsecs-unsolved-problem",
+    "canonical": "https://www.gecko.security/blog/business-logic-appsecs-unsolved-problem"
+  },
+  "title": "Business Logic Is AppSec's Unsolved Problem",
+  "summary": "Broken access control has been the #1 vulnerability class since 2021. This post explores why it's unsolved, why it will get worse, and how LLMs can bridge the gap.",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:22:16.875303+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T03:09:25.114394+00:00",
+  "paths": {
+    "article": "articles/v1/8e/yc-gecko-security/2026/03/6a/6a86a1136aae0092bcae6c280df9858d1fb3695c0b010023d7b24c1a098559c7/article.md",
+    "record": "articles/v1/8e/yc-gecko-security/2026/03/6a/6a86a1136aae0092bcae6c280df9858d1fb3695c0b010023d7b24c1a098559c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12816,
+    "sha256": "sha256:28e6ecc7bb51ef00a7935406c6e55b1732f5461af87e8bb5cee404325aef339a",
+    "normalized_content_hash": "sha256:b0c04fa1309970b2c32084229e70112850d29fc40aa1dc51c05fe4786c7ee953"
+  },
+  "provenance": {
+    "source_item_id": "d0e1dcd7-7ce8-4ee4-bf49-2af6fc2b23f8",
+    "external_id": "https://www.gecko.security/blog/business-logic-appsecs-unsolved-problem"
+  }
+}

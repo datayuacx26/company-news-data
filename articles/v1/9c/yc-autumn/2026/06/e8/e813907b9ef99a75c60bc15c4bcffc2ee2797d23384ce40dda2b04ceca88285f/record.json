@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e813907b9ef99a75c60bc15c4bcffc2ee2797d23384ce40dda2b04ceca88285f",
+  "company": {
+    "key": "yc-autumn",
+    "name": "Autumn"
+  },
+  "source": {
+    "id": "yc-autumn-news-import-b2979559dee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://useautumn.com/blog/we-built-a-billing-company-but-didnt-replace-stripe-billing",
+    "canonical": "https://useautumn.com/blog/we-built-a-billing-company-but-didnt-replace-stripe-billing"
+  },
+  "title": "Building on top of Stripe billing",
+  "summary": "Why Autumn builds around Stripe Billing instead of replacing subscriptions and invoices, and where the real complexity has moved for credit-based pricing.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:47:32.127868+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-20T02:38:41.109775+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-autumn/2026/06/e8/e813907b9ef99a75c60bc15c4bcffc2ee2797d23384ce40dda2b04ceca88285f/article.md",
+    "record": "articles/v1/9c/yc-autumn/2026/06/e8/e813907b9ef99a75c60bc15c4bcffc2ee2797d23384ce40dda2b04ceca88285f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5951,
+    "sha256": "sha256:2f59af14ca30d0e2bc82c5736863bfca0ff24005a9e530f66adb26cb0d4dfa26",
+    "normalized_content_hash": "sha256:9d80df32adbbc3e8a5db86832a9d59194da8e8aa52b8ce12eccc3c732c9d6a5c"
+  },
+  "provenance": {
+    "source_item_id": "b1320ce8-3082-4efe-9ee4-319a9b2f0874",
+    "external_id": "https://useautumn.com/blog/we-built-a-billing-company-but-didnt-replace-stripe-billing"
+  }
+}

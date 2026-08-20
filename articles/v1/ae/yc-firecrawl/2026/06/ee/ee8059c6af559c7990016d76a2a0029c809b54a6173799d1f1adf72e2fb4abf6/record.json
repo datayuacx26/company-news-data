@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee8059c6af559c7990016d76a2a0029c809b54a6173799d1f1adf72e2fb4abf6",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/codex-multi-agent-orchestration",
+    "canonical": "https://www.firecrawl.dev/blog/codex-multi-agent-orchestration"
+  },
+  "title": "Multi-Agent Orchestration With Codex",
+  "summary": "How to run multiple Codex agents in parallel using subagents, custom TOML agents, git worktrees, and Symphony — with a runnable three-agent review workflow.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:55.239825+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/06/ee/ee8059c6af559c7990016d76a2a0029c809b54a6173799d1f1adf72e2fb4abf6/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/06/ee/ee8059c6af559c7990016d76a2a0029c809b54a6173799d1f1adf72e2fb4abf6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18294,
+    "sha256": "sha256:f96964921d184cc611489aa15c7d3e2e322647def3b9a4f7910bbc7dab49eea6",
+    "normalized_content_hash": "sha256:9557d4a52231328ff2bdcc89f6b93b7a592f88b2f1f8964c41fe4d1ac2485264"
+  },
+  "provenance": {
+    "source_item_id": "39a3495f-3e57-4fd5-9f52-05b073e7330e",
+    "external_id": "https://www.firecrawl.dev/blog/codex-multi-agent-orchestration"
+  }
+}

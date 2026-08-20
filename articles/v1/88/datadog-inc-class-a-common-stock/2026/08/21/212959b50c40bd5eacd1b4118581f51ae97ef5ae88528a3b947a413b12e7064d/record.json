@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "212959b50c40bd5eacd1b4118581f51ae97ef5ae88528a3b947a413b12e7064d",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/trace-aws-lambda-durable-functions/",
+    "canonical": "https://www.datadoghq.com/blog/trace-aws-lambda-durable-functions/"
+  },
+  "title": "Trace AWS Lambda durable functions with Datadog",
+  "summary": "Trace AWS Lambda durable executions across invocations to investigate operations, retries, failures, waits, and function status in Datadog.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T22:54:53.737487+00:00",
+  "fetched_at": "2026-08-18T22:54:57.365127+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/21/212959b50c40bd5eacd1b4118581f51ae97ef5ae88528a3b947a413b12e7064d/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/21/212959b50c40bd5eacd1b4118581f51ae97ef5ae88528a3b947a413b12e7064d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11889,
+    "sha256": "sha256:6d810cdf29ac95469203fdcddc4719041f31338779ccd4bc7f92c8f9ab4b39a0",
+    "normalized_content_hash": "sha256:2ed2b437694baee11067030d825d3967956c65f6b2ebdf3ade450b28580b20ad"
+  },
+  "provenance": {
+    "source_item_id": "ac4c62d1-1e2d-4fe5-a2a7-ae38a3042653",
+    "external_id": "https://www.datadoghq.com/blog/trace-aws-lambda-durable-functions/"
+  }
+}

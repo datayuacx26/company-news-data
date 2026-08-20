@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66e14c153f4a006c194ad2afca1faa1dd5b50102a7c919a8f20400ea13cdd1ea",
+  "company": {
+    "key": "yc-courtyard-io",
+    "name": "Courtyard.io"
+  },
+  "source": {
+    "id": "yc-courtyard-io-news-import-299396b692d9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://courtyard.io/blog/post/from-a-slack-link-to-production-in-under-48-hours-cloning-shopifys-quick-with-devin",
+    "canonical": "https://courtyard.io/blog/post/from-a-slack-link-to-production-in-under-48-hours-cloning-shopifys-quick-with-devin"
+  },
+  "title": "From a Slack link to production in under 48 hours: cloning Shopify's \"Quick\" with Devin",
+  "summary": "The gap between \"someone should build that\" and \"it’s live\" is collapsing. Read how we used Devin to build a production-grade internal deployment tool—complete with Go, Bazel, and Terraform—in less than a day.",
+  "published_at": "2026-06-12T21:40:08.883+00:00",
+  "first_seen_at": "2026-07-25T00:50:41.643845+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-30T10:01:28.189465+00:00",
+  "paths": {
+    "article": "articles/v1/9f/yc-courtyard-io/2026/06/66/66e14c153f4a006c194ad2afca1faa1dd5b50102a7c919a8f20400ea13cdd1ea/article.md",
+    "record": "articles/v1/9f/yc-courtyard-io/2026/06/66/66e14c153f4a006c194ad2afca1faa1dd5b50102a7c919a8f20400ea13cdd1ea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10654,
+    "sha256": "sha256:f6041acfbd18ecdfc0740d0c120d08ba07c53b592d480885170376ed62ff1c36",
+    "normalized_content_hash": "sha256:9a4b249b475e65baeef5d88c6f5138633acc485b49570392ff964586cd8a3e53"
+  },
+  "provenance": {
+    "source_item_id": "7cb484e5-fefa-419f-bac1-cabba9e08f83",
+    "external_id": "https://courtyard.io/blog/post/from-a-slack-link-to-production-in-under-48-hours-cloning-shopifys-quick-with-devin"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a3ef13958366b7a2782b29301182c4c6f414c92ac0d1962c07f560bb1f243992",
+  "company": {
+    "key": "yc-zinc",
+    "name": "Zinc"
+  },
+  "source": {
+    "id": "yc-zinc-news-import-01c857d42648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zinc.com/blog/tracking",
+    "canonical": "https://www.zinc.com/blog/tracking"
+  },
+  "title": "Order Tracking Across Every Retailer: Automatic Carrier & Tracking Numbers",
+  "summary": "Zinc extracts tracking numbers and carriers automatically when orders ship—UPS, FedEx, USPS, Amazon Logistics, DHL—across every retailer we support. No email parsing required.",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:08:25.932611+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-08-19T20:20:45.368981+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-zinc/2026/01/a3/a3ef13958366b7a2782b29301182c4c6f414c92ac0d1962c07f560bb1f243992/article.md",
+    "record": "articles/v1/a3/yc-zinc/2026/01/a3/a3ef13958366b7a2782b29301182c4c6f414c92ac0d1962c07f560bb1f243992/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4088,
+    "sha256": "sha256:b595715833d023df8f77e0cc0ab5417b83bfbb414aaff3ec8f24bbfc16b2769b",
+    "normalized_content_hash": "sha256:e217220edbf47a9d324209d85f763f73e87b37e5cb47da6dc4439cffce83b1c0"
+  },
+  "provenance": {
+    "source_item_id": "356364f2-e660-499f-916b-6c3ff64ca2fa",
+    "external_id": "https://www.zinc.com/blog/tracking"
+  }
+}

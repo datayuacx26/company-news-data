@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b87b417a6224a9224ffd666a0abea108ac23f7d852debe0738f464435059ec66",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure",
+    "canonical": "https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure"
+  },
+  "title": "Configuring Stripe using Terraform and AI agents",
+  "summary": "Learn why using AI agents to author Terraform code is safer than direct API calls for Stripe configuration. Get transparent, consistent, and auditable infrastructure with code review workflows.",
+  "published_at": "2026-01-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:23:06.268498+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/01/b8/b87b417a6224a9224ffd666a0abea108ac23f7d852debe0738f464435059ec66/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/01/b8/b87b417a6224a9224ffd666a0abea108ac23f7d852debe0738f464435059ec66/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3220,
+    "sha256": "sha256:e2125b7eb248d31e3ab5938b8c4f249422898fca7b9ad5b60e908012ca7dd0d3",
+    "normalized_content_hash": "sha256:8590841a360fcbbf8845eeeaa33d0ecaae6c2e0a976995adc86aac02c70f98d6"
+  },
+  "provenance": {
+    "source_item_id": "7a54eb5d-7128-4e85-8855-6aad50b90b52",
+    "external_id": "https://stripe.dev/blog/ai-agents-terraform-stripe-infrastructure"
+  }
+}

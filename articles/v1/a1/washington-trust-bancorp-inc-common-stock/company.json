@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "washington-trust-bancorp-inc-common-stock",
+    "name": "Washington Trust Bancorp Inc."
+  },
+  "record_count": 25,
+  "first_published_at": "2026-01-16T13:51:00+00:00",
+  "last_published_at": "2026-07-20T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 15
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a1/washington-trust-bancorp-inc-common-stock/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 36471,
+        "sha256": "sha256:bc7da58fff7cc8777f3a0f6ea1305a04505f0b0c6c466574d91adb5db75739f7",
+        "newest_at": "2026-08-19T21:50:58.207440+00:00",
+        "oldest_at": "2026-01-16T13:51:00+00:00"
+      }
+    ]
+  }
+}

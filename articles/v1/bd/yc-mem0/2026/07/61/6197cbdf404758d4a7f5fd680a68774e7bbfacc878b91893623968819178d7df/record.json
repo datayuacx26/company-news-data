@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6197cbdf404758d4a7f5fd680a68774e7bbfacc878b91893623968819178d7df",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/mem0-vs-building-your-own-vector-store-for-agent-memory",
+    "canonical": "https://mem0.ai/blog/mem0-vs-building-your-own-vector-store-for-agent-memory"
+  },
+  "title": "Mem0 vs. Building Your Own Vector Store for Agent Memory",
+  "summary": "Compare Mem0 with building a custom vector store for AI agent memory, covering identity, extraction, lifecycle, retrieval, and production tradeoffs.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:53:59.780181+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-05T07:51:00.654893+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/07/61/6197cbdf404758d4a7f5fd680a68774e7bbfacc878b91893623968819178d7df/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/07/61/6197cbdf404758d4a7f5fd680a68774e7bbfacc878b91893623968819178d7df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26881,
+    "sha256": "sha256:775e1ccc00cf4c490a8aee15c56b219a661df0908e42eacaf5fff43412549c11",
+    "normalized_content_hash": "sha256:8bbe9bcc021a83f94fe2841f2ab1cc3bc38c897ba203bdfd63e55788cd4923bc"
+  },
+  "provenance": {
+    "source_item_id": "0ded6470-926d-44fc-9b8a-b2ecab8b2266",
+    "external_id": "https://mem0.ai/blog/mem0-vs-building-your-own-vector-store-for-agent-memory"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46a31bd8151fe5ae87cdcba0a29f0894ab2a41e9e1ecdb910ec10f6d5454ae39",
+  "company": {
+    "key": "yc-runanywhere",
+    "name": "RunAnywhere"
+  },
+  "source": {
+    "id": "yc-runanywhere-news-import-450c102900e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runanywhere.ai/blog/metalrt-vlm-fastest-vision-language-model-apple-silicon",
+    "canonical": "https://www.runanywhere.ai/blog/metalrt-vlm-fastest-vision-language-model-apple-silicon"
+  },
+  "title": "MetalRT Now Runs Vision Language Models. Fastest on Apple Silicon.",
+  "summary": "MetalRT adds VLM support and wins every decode benchmark. 279 tok/s vision decode, 92ms time-to-output, 1.22x faster than mlx-vlm across all resolutions on a single M4 Max.",
+  "published_at": "2026-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:25:59.131595+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-08-20T02:00:47.205360+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-runanywhere/2026/03/46/46a31bd8151fe5ae87cdcba0a29f0894ab2a41e9e1ecdb910ec10f6d5454ae39/article.md",
+    "record": "articles/v1/98/yc-runanywhere/2026/03/46/46a31bd8151fe5ae87cdcba0a29f0894ab2a41e9e1ecdb910ec10f6d5454ae39/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4455,
+    "sha256": "sha256:b1114ec766fee0c49d3c128d2e2acc9b84cb540bd5c89be0a1f1cdb00c6a31ca",
+    "normalized_content_hash": "sha256:f01dad0da56fde4ebc1f394d3e57962f2b7c47133e825cc3a32f53819d11b44b"
+  },
+  "provenance": {
+    "source_item_id": "a536ad38-4c98-4382-a579-66946a63ccbc",
+    "external_id": "https://www.runanywhere.ai/blog/metalrt-vlm-fastest-vision-language-model-apple-silicon"
+  }
+}

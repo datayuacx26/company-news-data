@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b650c04cf582c7e17bb0719c7d4bd2559f3114baa6ad1c19a544871fdaafe9aa",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/fewer-dimensions-are-better-pgvector",
+    "canonical": "https://supabase.com/blog/fewer-dimensions-are-better-pgvector"
+  },
+  "title": "pgvector: Fewer dimensions are better",
+  "summary": "Increase performance in pgvector by using embedding vectors with fewer dimensions",
+  "published_at": "2023-08-03T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:01:50.039250+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2023/08/b6/b650c04cf582c7e17bb0719c7d4bd2559f3114baa6ad1c19a544871fdaafe9aa/article.md",
+    "record": "articles/v1/b1/yc-supabase/2023/08/b6/b650c04cf582c7e17bb0719c7d4bd2559f3114baa6ad1c19a544871fdaafe9aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11491,
+    "sha256": "sha256:163080db0426e9c07e1f40f2f7d5b5e46bdfb6b8b549ba33185d950fb149d5f2",
+    "normalized_content_hash": "sha256:b5db2b9690f1d28aec3c92144f88bbc00d5e7a57b4a141089c0e7907f9671bd6"
+  },
+  "provenance": {
+    "source_item_id": "7847dbf7-053b-44f6-8063-fa8897e39a0c",
+    "external_id": "https://supabase.com/blog/fewer-dimensions-are-better-pgvector"
+  }
+}

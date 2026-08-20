@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a77f577b3eed5c7df2118125391bc1606583f417b0f9154bf94c1d4588e0c2e6",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/sharded-primary-keys",
+    "canonical": "https://pgdog.dev/blog/sharded-primary-keys"
+  },
+  "title": "Primary keys in sharded databases",
+  "summary": "Guaranteeing globally unique BIGSERIAL primary keys across shards using Postgres's satisfies_hash_partition function, with no UUIDs and no external ID generation services.",
+  "published_at": "2025-09-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.478310+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T02:38:54.029156+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2025/09/a7/a77f577b3eed5c7df2118125391bc1606583f417b0f9154bf94c1d4588e0c2e6/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2025/09/a7/a77f577b3eed5c7df2118125391bc1606583f417b0f9154bf94c1d4588e0c2e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8389,
+    "sha256": "sha256:87899bd593cf97a87540aa0170dc06a73e98164ab5504a0dc4c6723eb5cf267b",
+    "normalized_content_hash": "sha256:3d4d775af55d9d887a067fefaf2fc9b71ee771488424d069d1b31e82a728e384"
+  },
+  "provenance": {
+    "source_item_id": "0537121d-f738-4e15-bc93-616f574d3298",
+    "external_id": "https://pgdog.dev/blog/sharded-primary-keys"
+  }
+}

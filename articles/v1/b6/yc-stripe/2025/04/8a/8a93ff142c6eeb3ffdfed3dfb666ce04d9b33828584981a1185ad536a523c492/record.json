@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a93ff142c6eeb3ffdfed3dfb666ce04d9b33828584981a1185ad536a523c492",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/because-nobody-likes-being-charged-twice",
+    "canonical": "https://stripe.dev/blog/because-nobody-likes-being-charged-twice"
+  },
+  "title": "Because nobody likes being charged twice",
+  "summary": "In complex, high-volume systems, even minor failures—like a dropped internet connection—can lead to major headaches, such as duplicate charges. This post explores advanced patterns for integrating Stripe into your enterprise applications with a focus on building fault-tolerant, user-friendly payment systems. Learn how strategies like idempotency and message queues can protect your users from double charges, reduce operational errors, and improve reliability as your system scales.",
+  "published_at": "2025-04-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:06.165020+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/04/8a/8a93ff142c6eeb3ffdfed3dfb666ce04d9b33828584981a1185ad536a523c492/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/04/8a/8a93ff142c6eeb3ffdfed3dfb666ce04d9b33828584981a1185ad536a523c492/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5333,
+    "sha256": "sha256:01973f5ea2b1701b422a9a24f9865a336ff2d24d3fd6b7d9a35fecbd390bdfaf",
+    "normalized_content_hash": "sha256:b769075f5bd143ba5cb5c1edfa3b00a67c1c2e971675bd1e67f1ad404cff8f49"
+  },
+  "provenance": {
+    "source_item_id": "32a27ac0-0097-4d0b-98fb-d8675479b1da",
+    "external_id": "https://stripe.dev/blog/because-nobody-likes-being-charged-twice"
+  }
+}

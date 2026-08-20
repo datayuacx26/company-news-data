@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eeba6772f06eccc0baf9322f1a92658589da20ffea52056f9232f6fa74f96bfe",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/releasing-czlib-and-zstd-go-bindings/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/releasing-czlib-and-zstd-go-bindings/"
+  },
+  "title": "Releasing czlib and zstd Go bindings",
+  "summary": "To commemorate the third annual GopherCon US in Denver this week, we’re releasing cgo bindings to two compression libraries that we’ve been using in production at Datadog for a while now: czlib and zstd.",
+  "published_at": "2016-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:27:31.756931+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2016/07/ee/eeba6772f06eccc0baf9322f1a92658589da20ffea52056f9232f6fa74f96bfe/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2016/07/ee/eeba6772f06eccc0baf9322f1a92658589da20ffea52056f9232f6fa74f96bfe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4091,
+    "sha256": "sha256:f4b3e93c5e38fe00f624ae0badbd72a1810f511c3b31009f2ea8da2e09cea6f8",
+    "normalized_content_hash": "sha256:fdab30523e327bc03b3090fba0822613d27e465535cf68f7c1a5ab02762295fb"
+  },
+  "provenance": {
+    "source_item_id": "a96eef2a-7359-4c4b-a671-8a53caf2962b",
+    "external_id": "https://www.datadoghq.com/blog/engineering/releasing-czlib-and-zstd-go-bindings/"
+  }
+}

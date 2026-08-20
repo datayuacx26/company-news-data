@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e5524944a6628ba45f6f2bb81848ee283e398dd93a621b96fae75b7c0b3705e",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/trace-azure-managed-services-dotnet/",
+    "canonical": "https://www.datadoghq.com/blog/trace-azure-managed-services-dotnet/"
+  },
+  "title": "Trace Azure-managed services in .NET applications with Datadog",
+  "summary": "Monitor Azure Service Bus, Event Hubs, Cosmos DB, and API Management in end-to-end distributed traces for .NET applications.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/8e/8e5524944a6628ba45f6f2bb81848ee283e398dd93a621b96fae75b7c0b3705e/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/8e/8e5524944a6628ba45f6f2bb81848ee283e398dd93a621b96fae75b7c0b3705e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8117,
+    "sha256": "sha256:2d06710dcc129ca405b3b077dd549f0641d828a2b9cd3033a1c162ed08f64b19",
+    "normalized_content_hash": "sha256:5c0b03b32611a3eff8d6649a5ebec717e9da4aa607f25f64c8f4c46de3ef17ca"
+  },
+  "provenance": {
+    "source_item_id": "62fc134c-a77c-444c-9fb1-4ccef094fb2c",
+    "external_id": "https://www.datadoghq.com/blog/trace-azure-managed-services-dotnet/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "774e5228431b5deb3488f279608207c93a0d7bd39c1a2153b23d2f494a9758c5",
+  "company": {
+    "key": "yc-runanywhere",
+    "name": "RunAnywhere"
+  },
+  "source": {
+    "id": "yc-runanywhere-news-import-450c102900e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retrieval-augmented-voice-ai",
+    "canonical": "https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retrieval-augmented-voice-ai"
+  },
+  "title": "FastVoice RAG: Sub-200ms Voice AI with Retrieval-Augmented Generation, Entirely On-Device",
+  "summary": "We added hybrid retrieval (BM25 + vector search) to our on-device voice pipeline. Retrieval adds less than 4ms. The real cost is LLM prefill — but word-level flushing absorbs it. Sub-200ms first-audio on 5,016 chunks with zero cloud dependencies.",
+  "published_at": "2026-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:25:59.131595+00:00",
+  "fetched_at": "2026-07-28T22:19:21.440084+00:00",
+  "last_updated_at": "2026-08-20T02:00:47.205360+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-runanywhere/2026/02/77/774e5228431b5deb3488f279608207c93a0d7bd39c1a2153b23d2f494a9758c5/article.md",
+    "record": "articles/v1/98/yc-runanywhere/2026/02/77/774e5228431b5deb3488f279608207c93a0d7bd39c1a2153b23d2f494a9758c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9116,
+    "sha256": "sha256:c686d60c3b35a01a0ae592aa2fbbdf10877a4417a65bb5d446d73c37d64e198c",
+    "normalized_content_hash": "sha256:3880e974e2f30bdf12ad183cc22f0af7e262d4dd4d2456c873755b0cb7efcf4b"
+  },
+  "provenance": {
+    "source_item_id": "bec5bca3-f8ad-4c0e-af8a-baf4e1f82052",
+    "external_id": "https://www.runanywhere.ai/blog/fastvoice-rag-on-device-retrieval-augmented-voice-ai"
+  }
+}

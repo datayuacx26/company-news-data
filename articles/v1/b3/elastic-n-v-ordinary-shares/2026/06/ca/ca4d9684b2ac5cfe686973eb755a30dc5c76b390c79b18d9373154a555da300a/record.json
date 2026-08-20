@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca4d9684b2ac5cfe686973eb755a30dc5c76b390c79b18d9373154a555da300a",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-e107b7ff8c21",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/blog/liveperson-observability",
+    "canonical": "https://www.elastic.co/blog/liveperson-observability"
+  },
+  "title": "How LivePerson optimized Logstash and Kafka performance on Google Cloud through benchmarking",
+  "summary": "LivePerson found that benchmarking Google Cloud machine types cut Logstash costs by over half using AMD Milan instances, while Kafka compression codec selection significantly boosted throughput.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T21:20:39.411797+00:00",
+  "fetched_at": "2026-08-13T21:20:42.205031+00:00",
+  "last_updated_at": "2026-08-20T03:51:13.311433+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/ca/ca4d9684b2ac5cfe686973eb755a30dc5c76b390c79b18d9373154a555da300a/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/ca/ca4d9684b2ac5cfe686973eb755a30dc5c76b390c79b18d9373154a555da300a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9349,
+    "sha256": "sha256:d56d70e301f15ed5f40f9034a17f663af9425cf3def1474d62f2f929d6aa7d65",
+    "normalized_content_hash": "sha256:cf46c5bec681cd845a777ca2545964e98e31fc94efa124600f8d2a040330fd1f"
+  },
+  "provenance": {
+    "source_item_id": "9eb28d1e-630d-4a0a-a2e6-c1e8f1a3b40a",
+    "external_id": "https://www.elastic.co/blog/liveperson-observability"
+  }
+}

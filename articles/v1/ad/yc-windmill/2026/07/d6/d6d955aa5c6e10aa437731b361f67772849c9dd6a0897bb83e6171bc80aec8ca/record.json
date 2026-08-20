@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6d955aa5c6e10aa437731b361f67772849c9dd6a0897bb83e6171bc80aec8ca",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ansible-repo-ansible-cfg",
+    "canonical": "https://www.windmill.dev/changelog/ansible-repo-ansible-cfg"
+  },
+  "title": "Use a repo-provided ansible.cfg when delegating to a git repository",
+  "summary": "Ansible scripts that delegate to a git repository can set the new ansible_cfg field, a repo-relative path to an ansible.cfg that becomes the effective configuration via ANSIBLE_CONFIG, so repo settings like roles paths, inventory plugins and callbacks apply. Windmill only re-applies runtime-bound settings (temp directories, vault password) and prepends its own roles and collections install paths. Requires workers running with DISABLE_NSJAIL=true; without the field, Windmill's generated config takes precedence as before.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-14T11:10:25.590818+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/d6/d6d955aa5c6e10aa437731b361f67772849c9dd6a0897bb83e6171bc80aec8ca/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/d6/d6d955aa5c6e10aa437731b361f67772849c9dd6a0897bb83e6171bc80aec8ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2210,
+    "sha256": "sha256:9b60c12e897b09da1a3847ba00d25c5154e068d4b228161cefc08b4837045c77",
+    "normalized_content_hash": "sha256:4bd7d306afbf16766cd2f31c0d4efcaaa1d3bb9375b299ae797188721fd0f163"
+  },
+  "provenance": {
+    "source_item_id": "b6ba0dac-fb4e-40bf-8d56-b84aa1c5ab81",
+    "external_id": "https://www.windmill.dev/changelog/ansible-repo-ansible-cfg"
+  }
+}

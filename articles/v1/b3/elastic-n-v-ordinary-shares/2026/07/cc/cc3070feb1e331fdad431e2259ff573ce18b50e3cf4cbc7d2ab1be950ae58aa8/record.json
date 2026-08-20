@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc3070feb1e331fdad431e2259ff573ce18b50e3cf4cbc7d2ab1be950ae58aa8",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/contagious-interview-malware-svg-steganography",
+    "canonical": "https://www.elastic.co/security-labs/contagious-interview-malware-svg-steganography"
+  },
+  "title": "New North Korean campaign uses fake coding interviews to steal developer credentials",
+  "summary": "Contagious Interview malware uses SVG steganography to hide payloads in a developer coding challenge. No antivirus vendor detected it.",
+  "published_at": "2026-07-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/cc/cc3070feb1e331fdad431e2259ff573ce18b50e3cf4cbc7d2ab1be950ae58aa8/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/cc/cc3070feb1e331fdad431e2259ff573ce18b50e3cf4cbc7d2ab1be950ae58aa8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29661,
+    "sha256": "sha256:9c9bd3c78f9294d438e58b3c832ddbf33464e26772d4673311c75d32a05da30b",
+    "normalized_content_hash": "sha256:98ac20f3e4f3d4557f6c1b441f4483997c30d18ff0bc471978a8e0aed1faf4bd"
+  },
+  "provenance": {
+    "source_item_id": "ba0a400e-55a1-421b-b49a-80ec1710c735",
+    "external_id": "contagious-interview-malware-svg-steganography"
+  }
+}

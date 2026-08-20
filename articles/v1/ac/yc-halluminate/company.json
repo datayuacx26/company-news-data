@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-halluminate",
+    "name": "Halluminate"
+  },
+  "record_count": 12,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ac/yc-halluminate/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 11637,
+        "sha256": "sha256:0ec150faaa90b17cab8f44ae26638b7778191bf80dd18a9bbc8b22fea638bf30",
+        "newest_at": "2026-08-12T23:22:01.277366+00:00",
+        "oldest_at": "2026-07-28T21:33:52.463534+00:00"
+      }
+    ]
+  }
+}

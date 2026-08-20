@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23d010704553b64596ae69999697286f01ff3cdfd9b9f4a0e4e251eeda76cbe4",
+  "company": {
+    "key": "yc-circleback",
+    "name": "Circleback"
+  },
+  "source": {
+    "id": "yc-circleback-news-import-b22aa3eada49",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+    "canonical": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift"
+  },
+  "title": "How we rebuilt our Electron recording engine in Swift",
+  "summary": "How we moved our Electron app's recording engine from the render process to native Swift, bridging ScreenCaptureKit and libobs to React with a Combine-to-Jotai tool.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:33:40.934837+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T02:27:58.373236+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-circleback/2026/04/23/23d010704553b64596ae69999697286f01ff3cdfd9b9f4a0e4e251eeda76cbe4/article.md",
+    "record": "articles/v1/95/yc-circleback/2026/04/23/23d010704553b64596ae69999697286f01ff3cdfd9b9f4a0e4e251eeda76cbe4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6108,
+    "sha256": "sha256:a080fae1ee50a24bd3d4130a63ed3da56abea8ad92fbb68c6b286aa027bf4cd5",
+    "normalized_content_hash": "sha256:c7e158f6148cd5dcde32de3f4ab4696070652260f4b5d37fd2d08b12e0fcf814"
+  },
+  "provenance": {
+    "source_item_id": "39014e96-720e-4c0b-b12f-7dbdd0780808",
+    "external_id": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift"
+  }
+}

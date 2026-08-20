@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "964ef4e74ecc6d36de5cb142c24ce44520551fc481b6f7c8911777dcc3fd468c",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ce-workspace-storage-quota",
+    "canonical": "https://www.windmill.dev/changelog/ce-workspace-storage-quota"
+  },
+  "title": "10GiB workspace storage quota replaces 50MB upload cap on Community Edition",
+  "summary": "The Community Edition 50MB per-file upload cap on workspace object storage is replaced by a 10GiB total storage quota per workspace. Files of any individual size can be uploaded up to the quota, usage is shown in the workspace settings under S3 Storage with a recount button, and reads and deletes are never blocked even when over quota. Enterprise Edition remains unlimited.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/96/964ef4e74ecc6d36de5cb142c24ce44520551fc481b6f7c8911777dcc3fd468c/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/96/964ef4e74ecc6d36de5cb142c24ce44520551fc481b6f7c8911777dcc3fd468c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1872,
+    "sha256": "sha256:82fbcce32ebd57cdff8bc306877ff775083a0ba1ca684c4ef2f0577d4594e1ce",
+    "normalized_content_hash": "sha256:8f06e1ddebd1b0a49c2c9c8dcd8f84173d972474f3cf82a06d2d4962fef3a69b"
+  },
+  "provenance": {
+    "source_item_id": "7df696db-82f5-4a6c-b555-dd27f49c2809",
+    "external_id": "https://www.windmill.dev/changelog/ce-workspace-storage-quota"
+  }
+}

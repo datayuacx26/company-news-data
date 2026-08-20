@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "47d7549d4181b8f715e505f84e7d19994302e218bb2807de59df6377e8f9e1b3",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/why-we-open-sourced-aura-infrastructure-for-production-ai",
+    "canonical": "https://www.mezmo.com/blog/why-we-open-sourced-aura-infrastructure-for-production-ai"
+  },
+  "title": "Why we open-sourced AURA: Infrastructure for production AI",
+  "summary": "AURA was built to be an open-source standard for production AI, designed to connect your models so you can trust what you see.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/47/47d7549d4181b8f715e505f84e7d19994302e218bb2807de59df6377e8f9e1b3/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/47/47d7549d4181b8f715e505f84e7d19994302e218bb2807de59df6377e8f9e1b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5045,
+    "sha256": "sha256:35f725f1c1aefdafef04d461ea23d5081675f239b67da407868d4189695952c7",
+    "normalized_content_hash": "sha256:c1186d5f8ad76f7d60ced85257ab9c9d68f49a33066b0335a133fe8d67bbab54"
+  },
+  "provenance": {
+    "source_item_id": "604e62d3-be27-4b69-a66d-afb4ac1d6986",
+    "external_id": "https://www.mezmo.com/blog/why-we-open-sourced-aura-infrastructure-for-production-ai"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-sigmamind-ai",
+    "name": "SigmaMind AI"
+  },
+  "record_count": 46,
+  "first_published_at": "2026-06-04T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 24
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b7/yc-sigmamind-ai/index/pages/000001.json",
+        "record_count": 46,
+        "byte_count": 49343,
+        "sha256": "sha256:4442b534b03cc1da5bacad87743f66b8ec0cecf8311404f12650344c495149ac",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2026-06-04T00:00:00+00:00"
+      }
+    ]
+  }
+}

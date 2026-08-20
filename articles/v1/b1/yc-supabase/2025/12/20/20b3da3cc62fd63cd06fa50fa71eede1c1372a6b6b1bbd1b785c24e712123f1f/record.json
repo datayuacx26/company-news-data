@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20b3da3cc62fd63cd06fa50fa71eede1c1372a6b6b1bbd1b785c24e712123f1f",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/adding-async-streaming-to-pg-fdw",
+    "canonical": "https://supabase.com/blog/adding-async-streaming-to-pg-fdw"
+  },
+  "title": "Adding Async Streaming to Postgres Foreign Data Wrappers",
+  "summary": "Supabase Wrappers introduces asynchronous streaming to Postgres Foreign Data Wrappers, enabling efficient, memory-safe queries for massive analytical workloads.",
+  "published_at": "2025-12-04T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2025/12/20/20b3da3cc62fd63cd06fa50fa71eede1c1372a6b6b1bbd1b785c24e712123f1f/article.md",
+    "record": "articles/v1/b1/yc-supabase/2025/12/20/20b3da3cc62fd63cd06fa50fa71eede1c1372a6b6b1bbd1b785c24e712123f1f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6971,
+    "sha256": "sha256:15f07adbbd6137af6612c1c6807549fe62e6ee22440e800bd7eae6fa3a539abf",
+    "normalized_content_hash": "sha256:c78f847841ae45229724b74d2bc84948f6f2b22343a72804ef281f6acfdf402b"
+  },
+  "provenance": {
+    "source_item_id": "208a5b07-2fae-4031-abf4-2f0d2f12ab75",
+    "external_id": "https://supabase.com/blog/adding-async-streaming-to-pg-fdw"
+  }
+}

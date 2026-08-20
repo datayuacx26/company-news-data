@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "950191028a27e721d50b8b1160266cbbe4f4338b44e98f8ce8bc2ba51fbd1462",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/esql-completion-curl-wget-detection-triage",
+    "canonical": "https://www.elastic.co/security-labs/esql-completion-curl-wget-detection-triage"
+  },
+  "title": "How Elasticsearch ES|QL COMPLETION turns noisy curl and wget rules into high-fidelity cloud security alerts",
+  "summary": "ES|QL COMPLETION triages noisy curl and wget alerts with an LLM after deterministic filters, so only real threats reach an analyst. Full rule pattern inside.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T16:00:42.438119+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/95/950191028a27e721d50b8b1160266cbbe4f4338b44e98f8ce8bc2ba51fbd1462/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/95/950191028a27e721d50b8b1160266cbbe4f4338b44e98f8ce8bc2ba51fbd1462/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28874,
+    "sha256": "sha256:8a43b1e12ed169f69599529fce913367ecc285af2d0b693fe5bdae9c0ed327c5",
+    "normalized_content_hash": "sha256:cd8771ecc14fa7e33f4e8a39c7e17bc85acbdc14d81ebfcf5eabbdc14f22681a"
+  },
+  "provenance": {
+    "source_item_id": "9c81ee5b-ff82-44fc-b655-f0ea07140339",
+    "external_id": "esql-completion-curl-wget-detection-triage"
+  }
+}

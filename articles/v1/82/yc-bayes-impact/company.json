@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-bayes-impact",
+    "name": "Bayes Impact"
+  },
+  "record_count": 2,
+  "first_published_at": "2026-07-20T00:00:00+00:00",
+  "last_published_at": "2026-07-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/82/yc-bayes-impact/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2248,
+        "sha256": "sha256:167888ab19b849059ec313417f211f855c2a1cb0cc7e147d1e3e7af7a5fb257d",
+        "newest_at": "2026-07-30T00:00:00+00:00",
+        "oldest_at": "2026-07-20T00:00:00+00:00"
+      }
+    ]
+  }
+}

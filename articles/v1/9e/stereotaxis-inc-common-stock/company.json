@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "stereotaxis-inc-common-stock",
+    "name": "Stereotaxis Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2018-12-28T15:44:36+00:00",
+  "last_published_at": "2021-05-25T20:02:45+00:00",
+  "partitions": [
+    {
+      "partition": "2018-12",
+      "record_count": 8
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9e/stereotaxis-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10514,
+        "sha256": "sha256:0d71a84f480ac106f7c25dd6720c7407f9fa10168ecc463226c1502fa3ea9354",
+        "newest_at": "2021-05-25T20:02:45+00:00",
+        "oldest_at": "2018-12-28T15:44:36+00:00"
+      }
+    ]
+  }
+}

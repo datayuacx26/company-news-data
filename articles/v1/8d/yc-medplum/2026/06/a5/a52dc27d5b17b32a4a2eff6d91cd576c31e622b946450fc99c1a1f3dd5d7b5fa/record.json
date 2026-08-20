@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a52dc27d5b17b32a4a2eff6d91cd576c31e622b946450fc99c1a1f3dd5d7b5fa",
+  "company": {
+    "key": "yc-medplum",
+    "name": "Medplum"
+  },
+  "source": {
+    "id": "yc-medplum-atom-baaaecda9acc",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.medplum.com/blog/may-2026-update",
+    "canonical": "https://www.medplum.com/blog/may-2026-update"
+  },
+  "title": "Medplum Monthly Update - May 2026",
+  "summary": "May was a heavy month for Medplum, with 100+ commits from 20+ contributors and four patch releases — v5.1.10 through v5.1.13. Scheduling was the headline: the full appointment operation suite — $find, $hold, $book, $confirm, and $cancel — landed in Alpha. The Provider App also gained medication ordering components, order set import, and operation-based claim submission. On the enterprise side, a new data warehouse export features were enabled, and the platform team shipped passwordless magic-link login, AWS GuardDuty malware protection, and a round of OAuth2 spec-compliance fixes. All of this continues to drive forward our 2026 roadmap priorities.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.588032+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T02:35:00.277855+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-medplum/2026/06/a5/a52dc27d5b17b32a4a2eff6d91cd576c31e622b946450fc99c1a1f3dd5d7b5fa/article.md",
+    "record": "articles/v1/8d/yc-medplum/2026/06/a5/a52dc27d5b17b32a4a2eff6d91cd576c31e622b946450fc99c1a1f3dd5d7b5fa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16064,
+    "sha256": "sha256:b48b5300607782e2371a89903850c4cbbce61e7a8631be51811f97a94d085f9d",
+    "normalized_content_hash": "sha256:51e93af0d9c3e52fece24ac0554f25db2f640f4b2620a5b9b8719e1e108767c2"
+  },
+  "provenance": {
+    "source_item_id": "32196341-664a-48d2-a4ed-af9ac84e6324",
+    "external_id": "https://www.medplum.com/blog/may-2026-update"
+  }
+}

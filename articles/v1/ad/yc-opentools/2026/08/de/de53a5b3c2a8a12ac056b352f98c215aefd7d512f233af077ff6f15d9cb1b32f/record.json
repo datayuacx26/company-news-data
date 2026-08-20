@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de53a5b3c2a8a12ac056b352f98c215aefd7d512f233af077ff6f15d9cb1b32f",
+  "company": {
+    "key": "yc-opentools",
+    "name": "OpenTools"
+  },
+  "source": {
+    "id": "yc-opentools-news-import-1cd1635c0457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://opentools.ai/news/infrastructure-for-continuous-web-data-collection",
+    "canonical": "https://opentools.ai/news/infrastructure-for-continuous-web-data-collection"
+  },
+  "title": "Infrastructure for Continuous Web Data Collection",
+  "summary": "A one‑off scrape is a weekend project. Running the same collection job every hour for three years is an infrastructure problem, and most teams underestimate how different those two things are. Continuous collection breaks in ways that batch jobs don't. Sites redesign their markup, rate limits tighten overnight, and the IP pool that worked in March gets flagged by June. The stack has to absorb all of it without a human watching the logs. Here's what the working parts look like when a pipeline actually holds up.",
+  "published_at": "2026-08-14T17:52:04.232+00:00",
+  "first_seen_at": "2026-08-15T02:09:04.708867+00:00",
+  "fetched_at": "2026-08-15T02:09:06.519315+00:00",
+  "last_updated_at": "2026-08-19T22:35:40.659723+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-opentools/2026/08/de/de53a5b3c2a8a12ac056b352f98c215aefd7d512f233af077ff6f15d9cb1b32f/article.md",
+    "record": "articles/v1/ad/yc-opentools/2026/08/de/de53a5b3c2a8a12ac056b352f98c215aefd7d512f233af077ff6f15d9cb1b32f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5379,
+    "sha256": "sha256:da4cdc55faf58ef2d0889aba1e392ec0d249c553a24271f71b7e7bb2c5aef7e6",
+    "normalized_content_hash": "sha256:fc6d6eb0bd012f16f22700ce1ad6508a448b649f50451cf9d685f60ac7f1edd2"
+  },
+  "provenance": {
+    "source_item_id": "c64dfd2f-9653-482b-ac9b-4918fe9ec6e6",
+    "external_id": "https://opentools.ai/news/infrastructure-for-continuous-web-data-collection"
+  }
+}

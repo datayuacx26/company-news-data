@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a56621fdd87e9663bda0365e5fb916a91313e9377b8d251c47c3965ca5ab9a14",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/wire-identity-sources-launch",
+    "canonical": "https://anakin.io/blog/wire-identity-sources-launch"
+  },
+  "title": "Introducing Identity Sources for Wire: Passwords Never Enter Anakin",
+  "summary": "Wire reads credentials from your vault only when needed, uses them once, and keeps only the session. Your agents never see…",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:45:54.754455+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-04T11:22:12.634119+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/06/a5/a56621fdd87e9663bda0365e5fb916a91313e9377b8d251c47c3965ca5ab9a14/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/06/a5/a56621fdd87e9663bda0365e5fb916a91313e9377b8d251c47c3965ca5ab9a14/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7079,
+    "sha256": "sha256:1ef7af56689790aa65050a9d5ee0e61f46b8dcb901a80a95c11d14a07ff3c3f7",
+    "normalized_content_hash": "sha256:dc41dbf4526fbcb7d9c3bb95866afa7a9a79fa7be0c28aa96f8ce15eb4f7344f"
+  },
+  "provenance": {
+    "source_item_id": "8de25efd-87d9-4e89-a397-75e6f701f2ef",
+    "external_id": "https://anakin.io/blog/wire-identity-sources-launch"
+  }
+}

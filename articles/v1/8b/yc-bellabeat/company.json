@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-bellabeat",
+    "name": "Bellabeat"
+  },
+  "record_count": 10,
+  "first_published_at": "2020-11-20T14:35:10+00:00",
+  "last_published_at": "2023-01-27T15:12:01+00:00",
+  "partitions": [
+    {
+      "partition": "2020-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8b/yc-bellabeat/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10323,
+        "sha256": "sha256:8c3e71a2d403e742b7915b4f09cd547545f634517ada57f2f65d2adf5681ed0a",
+        "newest_at": "2026-07-28T21:33:52.463534+00:00",
+        "oldest_at": "2020-11-20T14:35:10+00:00"
+      }
+    ]
+  }
+}

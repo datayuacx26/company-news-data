@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "toyota-motor-corporation-common-stock",
+    "name": "Toyota Motor Corporation"
+  },
+  "record_count": 111,
+  "first_published_at": "2026-05-08T07:00:00+00:00",
+  "last_published_at": "2026-08-19T13:58:13+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 46
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 23
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a2/toyota-motor-corporation-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 63887,
+        "sha256": "sha256:2f5f9606368671504a9477fca159dee3ea3855e1dd3b14dc3996b0208a921d63",
+        "newest_at": "2026-08-19T13:58:13+00:00",
+        "oldest_at": "2026-07-16T13:58:36+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a2/toyota-motor-corporation-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 62240,
+        "sha256": "sha256:008bd9c553bb367ac9148d2d420d75f33a9da6111c41455627e21a7fc0a08758",
+        "newest_at": "2026-07-16T13:58:19+00:00",
+        "oldest_at": "2026-05-15T06:30:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/a2/toyota-motor-corporation-common-stock/index/pages/000003.json",
+        "record_count": 11,
+        "byte_count": 13669,
+        "sha256": "sha256:21971740dc040f950b06c83aee005dcde4140c83c07a551fae7fc527464e2178",
+        "newest_at": "2026-05-14T04:30:00+00:00",
+        "oldest_at": "2026-05-08T07:00:00+00:00"
+      }
+    ]
+  }
+}

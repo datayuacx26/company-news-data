@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "fortrea-holdings-inc-common-stock",
+    "name": "Fortrea Holdings Inc."
+  },
+  "record_count": 38,
+  "first_published_at": "2026-07-06T10:53:20+00:00",
+  "last_published_at": "2026-08-19T13:57:22+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 16
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8b/fortrea-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 38,
+        "byte_count": 41724,
+        "sha256": "sha256:f57b7a6254680860aacc8463485986a41b659d1f259029ec87e0d23f59db95dd",
+        "newest_at": "2026-08-19T13:57:22+00:00",
+        "oldest_at": "2026-07-06T10:53:20+00:00"
+      }
+    ]
+  }
+}

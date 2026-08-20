@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ddc68bb2a444a29ba8f899d72cbcb86b3e8ea05b892f71a6d83062dbc5ce108",
+  "company": {
+    "key": "yc-guide-labs",
+    "name": "Guide Labs"
+  },
+  "source": {
+    "id": "yc-guide-labs-news-import-41fe5d9b8b28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.guidelabs.ai/post/scaling-interpretable-models-8b/",
+    "canonical": "https://www.guidelabs.ai/post/scaling-interpretable-models-8b/"
+  },
+  "title": "Scaling Interpretable Language Models to 8 Billion Parameters",
+  "summary": "We have developed an architecture and a training recipe for an interpretable model that is adaptable to auto-regressive and diffusion language models.",
+  "published_at": "2025-12-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:19:32.933709+00:00",
+  "fetched_at": "2026-07-28T22:25:04.749708+00:00",
+  "last_updated_at": "2026-08-19T15:50:29.163183+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-guide-labs/2025/12/4d/4ddc68bb2a444a29ba8f899d72cbcb86b3e8ea05b892f71a6d83062dbc5ce108/article.md",
+    "record": "articles/v1/ac/yc-guide-labs/2025/12/4d/4ddc68bb2a444a29ba8f899d72cbcb86b3e8ea05b892f71a6d83062dbc5ce108/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19719,
+    "sha256": "sha256:3aa0cf4be6c51d3f7160f481ba60ac69dbeb908079363086584a522270bfaa65",
+    "normalized_content_hash": "sha256:0ae6e3dbb99a5bdfb34b6b8b4dda1bdf9b6691458091e6b450dbe0e54f2bfc32"
+  },
+  "provenance": {
+    "source_item_id": "c926c35f-1999-42d5-b57d-6b21dfd084cb",
+    "external_id": "https://www.guidelabs.ai/post/scaling-interpretable-models-8b/"
+  }
+}

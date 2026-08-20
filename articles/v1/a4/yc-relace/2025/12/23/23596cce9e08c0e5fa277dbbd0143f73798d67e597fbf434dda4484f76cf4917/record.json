@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23596cce9e08c0e5fa277dbbd0143f73798d67e597fbf434dda4484f76cf4917",
+  "company": {
+    "key": "yc-relace",
+    "name": "Relace"
+  },
+  "source": {
+    "id": "yc-relace-news-import-8821aa3570c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://relace.ai/blog/fast-agentic-search",
+    "canonical": "https://relace.ai/blog/fast-agentic-search"
+  },
+  "title": "Exploiting parallel tool calls to make agentic search 4x faster",
+  "summary": "Today we're releasing Fast Agentic Search (FAS), a code-specific subagent trained with RL to search through codebases for files relevant to a user request.",
+  "published_at": "2025-12-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T11:35:43.760091+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-19T18:37:23.785603+00:00",
+  "paths": {
+    "article": "articles/v1/a4/yc-relace/2025/12/23/23596cce9e08c0e5fa277dbbd0143f73798d67e597fbf434dda4484f76cf4917/article.md",
+    "record": "articles/v1/a4/yc-relace/2025/12/23/23596cce9e08c0e5fa277dbbd0143f73798d67e597fbf434dda4484f76cf4917/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17088,
+    "sha256": "sha256:bc6d706516013455c3eec65b65c15dfa5d68835e6e4b2771d12cf1ee24ce02c1",
+    "normalized_content_hash": "sha256:a061b96353b67fe10c5c1accf8c8dbf51c1d5333dd0753e0566d3acb1a413716"
+  },
+  "provenance": {
+    "source_item_id": "a7fbfb19-fcd0-4210-bd80-8b56d1898f94",
+    "external_id": "https://relace.ai/blog/fast-agentic-search"
+  }
+}

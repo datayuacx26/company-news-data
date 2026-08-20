@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f41a34940c9688f8715c034afd2372d619f0db6677c6f8f45da7d50ee0e3d057",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-12b6d71fe86e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/blog/run-background-jobs",
+    "canonical": "https://www.windmill.dev/blog/run-background-jobs"
+  },
+  "title": "How to run background jobs",
+  "summary": "A background job is a process or task that runs independently and asynchronously in the background, allowing the main application or user interface to continue operating without interruption.",
+  "published_at": "2024-08-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:07.070377+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T02:40:36.450549+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2024/08/f4/f41a34940c9688f8715c034afd2372d619f0db6677c6f8f45da7d50ee0e3d057/article.md",
+    "record": "articles/v1/ad/yc-windmill/2024/08/f4/f41a34940c9688f8715c034afd2372d619f0db6677c6f8f45da7d50ee0e3d057/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 38696,
+    "sha256": "sha256:cba4953630c0d293c9271da606089cda56534a8611f7832f74e1c6c672f8b9c4",
+    "normalized_content_hash": "sha256:f08cc1203c26bdecbe8e9ced9ea1a06583355e1477aa6dc8cd1a7f17dc0a4cd7"
+  },
+  "provenance": {
+    "source_item_id": "5493cd5b-4eab-4686-b1a7-563612fa01f8",
+    "external_id": "https://www.windmill.dev/blog/run-background-jobs"
+  }
+}

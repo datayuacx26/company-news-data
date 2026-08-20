@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7fb0d5b7e1aa6b0a9307e7435f2e3ce62cb011213174e30851ce1ed819fb17f6",
+  "company": {
+    "key": "yc-momentic",
+    "name": "Momentic"
+  },
+  "source": {
+    "id": "yc-momentic-news-import-348aec23cbaf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://momentic.ai/blog/teaching-browser-agents-user-intent",
+    "canonical": "https://momentic.ai/blog/teaching-browser-agents-user-intent"
+  },
+  "title": "Most Browser Agents \"See\" the DOM. Ours Had to Understand User Intent.",
+  "summary": "Browser agents look at the DOM. Momentic understands what the user actually meant. Here's how we scaled intent-based caching to maintain a 95%+ cache hit rate and be significantly more reliable.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:02:31.373763+00:00",
+  "fetched_at": "2026-08-19T18:58:31.052183+00:00",
+  "last_updated_at": "2026-08-19T18:58:33.250833+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-momentic/2026/06/7f/7fb0d5b7e1aa6b0a9307e7435f2e3ce62cb011213174e30851ce1ed819fb17f6/article.md",
+    "record": "articles/v1/99/yc-momentic/2026/06/7f/7fb0d5b7e1aa6b0a9307e7435f2e3ce62cb011213174e30851ce1ed819fb17f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10628,
+    "sha256": "sha256:b3177fb096b9b5ee98cef803fe4614ad444c08e2f3f9ffcb8e45aba2aeff2f9a",
+    "normalized_content_hash": "sha256:5af5540024bac8eb04cc1bdd4049fc31f48b249d815b87881ce321cf6074fb8e"
+  },
+  "provenance": {
+    "source_item_id": "1ff943ec-7bbe-44f3-b007-2d9745130953",
+    "external_id": "https://momentic.ai/blog/teaching-browser-agents-user-intent"
+  }
+}

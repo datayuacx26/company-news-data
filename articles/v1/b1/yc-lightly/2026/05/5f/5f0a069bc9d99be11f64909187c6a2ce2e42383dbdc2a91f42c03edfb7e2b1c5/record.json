@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f0a069bc9d99be11f64909187c6a2ce2e42383dbdc2a91f42c03edfb7e2b1c5",
+  "company": {
+    "key": "yc-lightly",
+    "name": "Lightly"
+  },
+  "source": {
+    "id": "yc-lightly-news-import-b9754ffe9935",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lightly.ai/blog/vision-transformers-vit",
+    "canonical": "https://lightly.ai/blog/vision-transformers-vit"
+  },
+  "title": "Introduction to ViT (Vision Transformers): Everything You Need to Know",
+  "summary": "Vision Transformers (ViTs) apply transformer architecture to image data, replacing traditional convolutional layers. Learn how they process images as sequences, why they're effective for classification tasks, and how they compare to CNNs in performance and scalability.",
+  "published_at": "2026-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:25:05.125057+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-19T17:27:18.778367+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-lightly/2026/05/5f/5f0a069bc9d99be11f64909187c6a2ce2e42383dbdc2a91f42c03edfb7e2b1c5/article.md",
+    "record": "articles/v1/b1/yc-lightly/2026/05/5f/5f0a069bc9d99be11f64909187c6a2ce2e42383dbdc2a91f42c03edfb7e2b1c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26858,
+    "sha256": "sha256:92b9da579a75cdec5871d5d881db9ba956f75c6082789ef49d04ddb3c07f9ffb",
+    "normalized_content_hash": "sha256:36774c52bb0741af70129fbfcbfff64e0d3f683b9d4140dbfd29ec971c7d47fa"
+  },
+  "provenance": {
+    "source_item_id": "c24cfbbf-44d3-43f1-b8e0-80468bf2c37d",
+    "external_id": "https://lightly.ai/blog/vision-transformers-vit"
+  }
+}

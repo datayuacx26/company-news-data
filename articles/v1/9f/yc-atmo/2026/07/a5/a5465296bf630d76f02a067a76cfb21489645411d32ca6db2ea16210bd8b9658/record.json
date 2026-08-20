@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a5465296bf630d76f02a067a76cfb21489645411d32ca6db2ea16210bd8b9658",
+  "company": {
+    "key": "yc-atmo",
+    "name": "Atmo"
+  },
+  "source": {
+    "id": "yc-atmo-news-import-0c2d65ad85a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.atmo.ai/news/philippines-ai-transition",
+    "canonical": "https://atmo.ai/news/philippines-ai-transition"
+  },
+  "title": "Southeast Asia's AI Weather Transition Begins in the Philippines",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T08:24:28.942270+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-08-20T02:01:19.357496+00:00",
+  "paths": {
+    "article": "articles/v1/9f/yc-atmo/2026/07/a5/a5465296bf630d76f02a067a76cfb21489645411d32ca6db2ea16210bd8b9658/article.md",
+    "record": "articles/v1/9f/yc-atmo/2026/07/a5/a5465296bf630d76f02a067a76cfb21489645411d32ca6db2ea16210bd8b9658/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4232,
+    "sha256": "sha256:8c30528cf403feb4e1c1b3e8b7deb4c4cd7efb277a15a4cd365fe51b62320c5e",
+    "normalized_content_hash": "sha256:c597c3de5f856d1d287a6d80c9ffc868673d7f3dd71989afc1e68b47750e0680"
+  },
+  "provenance": {
+    "source_item_id": "eef71068-fffd-45c5-9eb6-651bc06e2a4a",
+    "external_id": "https://atmo.ai/news/philippines-ai-transition"
+  }
+}

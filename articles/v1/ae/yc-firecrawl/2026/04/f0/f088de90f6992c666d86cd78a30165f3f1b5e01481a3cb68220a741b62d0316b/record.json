@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f088de90f6992c666d86cd78a30165f3f1b5e01481a3cb68220a741b62d0316b",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/lockdown-mode-launch",
+    "canonical": "https://www.firecrawl.dev/blog/lockdown-mode-launch"
+  },
+  "title": "Lockdown Mode: /scrape Without Touching the Web",
+  "summary": "Lockdown Mode is Firecrawl's new cache-only scrape mode - no outbound request, zero data retention, one flag across every SDK, the CLI, and MCP.",
+  "published_at": "2026-04-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-28T21:26:20.423385+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/04/f0/f088de90f6992c666d86cd78a30165f3f1b5e01481a3cb68220a741b62d0316b/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/04/f0/f088de90f6992c666d86cd78a30165f3f1b5e01481a3cb68220a741b62d0316b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5194,
+    "sha256": "sha256:9df6c436d555b437993e018e8fdeae7bdd51c72b9fdb3ce5c0b7020e7b018b3b",
+    "normalized_content_hash": "sha256:a669c0f115dbccdef6138d9739ceb722bb2884150e41a705b5f287b004e893aa"
+  },
+  "provenance": {
+    "source_item_id": "0975447c-b6a1-4a41-af25-daa7ce72968d",
+    "external_id": "https://www.firecrawl.dev/blog/lockdown-mode-launch"
+  }
+}

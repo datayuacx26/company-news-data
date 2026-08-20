@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "961dbff9d4877428455b095ee3cd6b82b7629af919be7cd3585026881b2ff073",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/tclbanker-brazilian-banking-trojan",
+    "canonical": "https://www.elastic.co/security-labs/tclbanker-brazilian-banking-trojan"
+  },
+  "title": "TCLBANKER: Brazilian Banking Trojan Spreading via WhatsApp and Outlook",
+  "summary": "REF3076 uses a trojanized Logitech installer to deploy TCLBANKER, a Brazilian banking trojan with environment-gated payloads, WPF fraud overlays, and self-propagating WhatsApp and Outlook worm modules.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T22:12:44.576485+00:00",
+  "last_updated_at": "2026-07-30T15:38:56.051346+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/96/961dbff9d4877428455b095ee3cd6b82b7629af919be7cd3585026881b2ff073/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/96/961dbff9d4877428455b095ee3cd6b82b7629af919be7cd3585026881b2ff073/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 46327,
+    "sha256": "sha256:3d74a876e304ca799ad4095064f356bb74a26bbcaae7e40c8c87b3abe79dab7f",
+    "normalized_content_hash": "sha256:0443606b1b6133f5775c5c5960d9a7927eccd19daa49b1c9c7ce498f642a8944"
+  },
+  "provenance": {
+    "source_item_id": "be093fc4-0590-4179-8f61-b2ce562aa2ad",
+    "external_id": "tclbanker-brazilian-banking-trojan"
+  }
+}

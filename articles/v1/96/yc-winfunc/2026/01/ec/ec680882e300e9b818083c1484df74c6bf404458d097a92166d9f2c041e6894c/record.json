@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec680882e300e9b818083c1484df74c6bf404458d097a92166d9f2c041e6894c",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/GHSA-xhj4-vrgc-hr34",
+    "canonical": "https://winfunc.com/hacktivity/GHSA-xhj4-vrgc-hr34"
+  },
+  "title": "HTTP/1.1 CL.TE request smuggling in actix-http (GHSA-xhj4-vrgc-hr34)",
+  "summary": "The HTTP/1.1 request parser in actix-http accepted requests containing both Content-Length and Transfer-Encoding: chunked. During header conversion, Mes…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/ec/ec680882e300e9b818083c1484df74c6bf404458d097a92166d9f2c041e6894c/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/ec/ec680882e300e9b818083c1484df74c6bf404458d097a92166d9f2c041e6894c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7369,
+    "sha256": "sha256:260a500255fedf6a33c943cc33a766d1754ec49a63b54c28dae943957b5399ef",
+    "normalized_content_hash": "sha256:63cd9a496d11a3134ce6e5b86b22186f3ac4517a972dc5ac37bab77ddf4549e3"
+  },
+  "provenance": {
+    "source_item_id": "086fec1e-1032-4d02-9a70-6e432a7a1261",
+    "external_id": "https://winfunc.com/hacktivity/GHSA-xhj4-vrgc-hr34"
+  }
+}

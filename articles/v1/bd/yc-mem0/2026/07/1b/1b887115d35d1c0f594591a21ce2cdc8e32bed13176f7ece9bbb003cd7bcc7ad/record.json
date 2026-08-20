@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b887115d35d1c0f594591a21ce2cdc8e32bed13176f7ece9bbb003cd7bcc7ad",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/reasoning-tokens-and-memory-8x-cost-reduction-test",
+    "canonical": "https://mem0.ai/blog/reasoning-tokens-and-memory-8x-cost-reduction-test"
+  },
+  "title": "Reasoning Tokens and Memory: 8x Cost Reduction Test",
+  "summary": "Mem0 memory cut GPT-5 mini reasoning tokens from 9,651 to 1,136 per question: 8.4x cheaper, 9/10 quality held. Cross-vendor test with Gemini 3.6 Flash.",
+  "published_at": "2026-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T20:09:45.452514+00:00",
+  "fetched_at": "2026-07-31T20:09:46.269261+00:00",
+  "last_updated_at": "2026-08-19T17:37:03.162806+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/07/1b/1b887115d35d1c0f594591a21ce2cdc8e32bed13176f7ece9bbb003cd7bcc7ad/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/07/1b/1b887115d35d1c0f594591a21ce2cdc8e32bed13176f7ece9bbb003cd7bcc7ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15852,
+    "sha256": "sha256:62ed762aaf7e5baa6c47eccea641771e73563bc0b0c9c513b035a28e841ed64b",
+    "normalized_content_hash": "sha256:b56ccdb70a8166ce9ce441ed8238fcd2f073dc9a32f173e293679cd90c5bfcca"
+  },
+  "provenance": {
+    "source_item_id": "0ca5d142-7766-4e0d-a1f0-b2c17294889f",
+    "external_id": "https://mem0.ai/blog/reasoning-tokens-and-memory-8x-cost-reduction-test"
+  }
+}

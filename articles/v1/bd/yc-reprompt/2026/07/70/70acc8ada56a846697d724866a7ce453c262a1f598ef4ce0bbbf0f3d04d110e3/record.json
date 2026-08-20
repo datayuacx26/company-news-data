@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "70acc8ada56a846697d724866a7ce453c262a1f598ef4ce0bbbf0f3d04d110e3",
+  "company": {
+    "key": "yc-reprompt",
+    "name": "Reprompt"
+  },
+  "source": {
+    "id": "yc-reprompt-news-import-f6b2fbe9777c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://repromptai.com/blog/deep-research-places-benchmark",
+    "canonical": "https://repromptai.com/blog/deep-research-places-benchmark"
+  },
+  "title": "Reprompt outperforms OpenAI, Claude, Gemini on hard places research tasks",
+  "summary": "We benchmarked our places agent against GPT-5.5, o3-deep-research, Gemini 3.5 Flash, and Claude Opus 4.8 on real-world human-verified places in Europe, North America, and Southeast Asia. The general agents do well on the easy web, but Reprompt outperforms on difficult geographies and tasks requiring deeper research.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:37:40.595312+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T02:21:13.738975+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-reprompt/2026/07/70/70acc8ada56a846697d724866a7ce453c262a1f598ef4ce0bbbf0f3d04d110e3/article.md",
+    "record": "articles/v1/bd/yc-reprompt/2026/07/70/70acc8ada56a846697d724866a7ce453c262a1f598ef4ce0bbbf0f3d04d110e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7577,
+    "sha256": "sha256:d67bb060cfec3dd5241adfa173a7761ba157b5d0bc26fa06f500679667cc2c6d",
+    "normalized_content_hash": "sha256:b3b90576b060f4a115210d17241dc092dfd685f2d4af7aeffc7b1a6a4612f06c"
+  },
+  "provenance": {
+    "source_item_id": "a4e61d23-5cd1-4650-aae9-901dc9b73837",
+    "external_id": "https://repromptai.com/blog/deep-research-places-benchmark"
+  }
+}

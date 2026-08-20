@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca121a3904c0474df62ba7eaef686ef135f21f5cd672bb6fbaf8d0a894460dac",
+  "company": {
+    "key": "yc-govly",
+    "name": "Govly"
+  },
+  "source": {
+    "id": "yc-govly-news-import-a238b411d40a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.govly.com/blog/govly-claude-connector",
+    "canonical": "https://www.govly.com/blog/govly-claude-connector"
+  },
+  "title": "Govly Is Now a Claude Connector",
+  "summary": "Govly is now a Claude Connector. Query FED and SLED market data directly inside Claude.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T02:49:41.936658+00:00",
+  "fetched_at": "2026-08-13T02:49:45.544155+00:00",
+  "last_updated_at": "2026-08-20T02:08:43.019673+00:00",
+  "paths": {
+    "article": "articles/v1/a2/yc-govly/2026/08/ca/ca121a3904c0474df62ba7eaef686ef135f21f5cd672bb6fbaf8d0a894460dac/article.md",
+    "record": "articles/v1/a2/yc-govly/2026/08/ca/ca121a3904c0474df62ba7eaef686ef135f21f5cd672bb6fbaf8d0a894460dac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10227,
+    "sha256": "sha256:bc77c6408eafa10f8fa6d8f995c3aba65038403523d37546d282b3e264f6d3db",
+    "normalized_content_hash": "sha256:a63e2a8f2ff7232c5358d8a5a0510bcab5a242b14fc2ac41b8379d4d2effaf29"
+  },
+  "provenance": {
+    "source_item_id": "5acf85c6-5e15-4e09-8255-3ed83db0b8d6",
+    "external_id": "https://www.govly.com/blog/govly-claude-connector"
+  }
+}

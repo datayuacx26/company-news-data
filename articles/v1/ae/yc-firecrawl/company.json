@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "record_count": 51,
+  "first_published_at": "2026-04-06T00:00:00+00:00",
+  "last_published_at": "2026-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 13
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/yc-firecrawl/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51439,
+        "sha256": "sha256:e8f5762127337ce3ae0f108443c33e725f542b56ed6cc7e8ba9bd8a453284eca",
+        "newest_at": "2026-08-17T00:00:00+00:00",
+        "oldest_at": "2026-04-07T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ae/yc-firecrawl/index/pages/000002.json",
+        "record_count": 1,
+        "byte_count": 1167,
+        "sha256": "sha256:a607789e07e932c879f01fb7528154345f7d245745871cc7dcde1dd8e92b03c5",
+        "newest_at": "2026-04-06T00:00:00+00:00",
+        "oldest_at": "2026-04-06T00:00:00+00:00"
+      }
+    ]
+  }
+}

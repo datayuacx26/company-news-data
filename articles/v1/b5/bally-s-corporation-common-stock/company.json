@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bally-s-corporation-common-stock",
+    "name": "Bally's Corporation"
+  },
+  "record_count": 13,
+  "first_published_at": "2025-12-08T14:00:00+00:00",
+  "last_published_at": "2026-08-14T21:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b5/bally-s-corporation-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 14265,
+        "sha256": "sha256:8b644087a7092f2532dc948529d59c2dc8f1aadde76ee8d4cbb46524ed12ea9f",
+        "newest_at": "2026-08-14T21:15:00+00:00",
+        "oldest_at": "2025-12-08T14:00:00+00:00"
+      }
+    ]
+  }
+}

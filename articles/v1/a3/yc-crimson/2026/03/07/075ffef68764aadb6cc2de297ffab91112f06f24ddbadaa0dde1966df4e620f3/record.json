@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "075ffef68764aadb6cc2de297ffab91112f06f24ddbadaa0dde1966df4e620f3",
+  "company": {
+    "key": "yc-crimson",
+    "name": "Crimson"
+  },
+  "source": {
+    "id": "yc-crimson-news-import-a8cc0fd580f2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crimson.law/blog/why-rag-alone-isnt-enough-for-litigation",
+    "canonical": "https://crimson.law/blog/why-rag-alone-isnt-enough-for-litigation"
+  },
+  "title": "Why RAG Alone Isn't Enough for Complex Litigation",
+  "summary": "Most legal AI tools rely on the same retrieval architecture under the hood. For research and contract review, it works well enough — but litigation demands something fundamentally different.",
+  "published_at": "2026-03-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:46:44.831003+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-19T18:11:25.044299+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-crimson/2026/03/07/075ffef68764aadb6cc2de297ffab91112f06f24ddbadaa0dde1966df4e620f3/article.md",
+    "record": "articles/v1/a3/yc-crimson/2026/03/07/075ffef68764aadb6cc2de297ffab91112f06f24ddbadaa0dde1966df4e620f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6227,
+    "sha256": "sha256:105c98ac6318cd6d75da70393bfaf70be8fe02582b2d7e401620d3337c722dab",
+    "normalized_content_hash": "sha256:ba736733f59e573dbc58bdadfca73449d047da85ac7551a9512994d7d9a01f0d"
+  },
+  "provenance": {
+    "source_item_id": "8df1e5ca-6011-4572-bd3f-dd409d5a1fa6",
+    "external_id": "https://crimson.law/blog/why-rag-alone-isnt-enough-for-litigation"
+  }
+}

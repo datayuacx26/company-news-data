@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61e5c5fcc3190f566aaedf0a7329bbac1182fa350925319153d5dad8d05b3a9a",
+  "company": {
+    "key": "yc-scribd",
+    "name": "Scribd"
+  },
+  "source": {
+    "id": "yc-scribd-atom-fa6b4578b753",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech.scribd.com/blog/2025/cloud-native-data-ingestion.html",
+    "canonical": "https://tech.scribd.com/blog/2025/cloud-native-data-ingestion.html"
+  },
+  "title": "Cloud-native Data Ingestion with AWS Aurora and Delta Lake",
+  "summary": "Delta Lake is a fantastic technology for quickly querying massive data sets, but first you need those massive data sets! In this talk from Data and AI Summit 2025 I dive into the cloud-native architecture Scribd has adopted to ingest data from AWS Aurora, SQS, Kinesis Data Firehose and more!",
+  "published_at": "2025-01-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:26:02.289998+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:21:21.168233+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-scribd/2025/01/61/61e5c5fcc3190f566aaedf0a7329bbac1182fa350925319153d5dad8d05b3a9a/article.md",
+    "record": "articles/v1/ba/yc-scribd/2025/01/61/61e5c5fcc3190f566aaedf0a7329bbac1182fa350925319153d5dad8d05b3a9a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1683,
+    "sha256": "sha256:92086fb7561f6c964f19d43ed72a53663f7c0a7180b186ffd9303704a0e6f9a9",
+    "normalized_content_hash": "sha256:c3168a4e79eaf889c514edf58d7e722551b5bb7617d63495b38bb35f50da69c7"
+  },
+  "provenance": {
+    "source_item_id": "b7cdf7f3-96d5-4092-90c8-c207a04542f4",
+    "external_id": "https://tech.scribd.com/blog/2025/cloud-native-data-ingestion"
+  }
+}

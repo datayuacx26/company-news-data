@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "487d9dba25123eea07bcc006ad5e387279ad6e346f3ccf2ebe12bca4d1318371",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/event-triggers-wo-superuser",
+    "canonical": "https://supabase.com/blog/event-triggers-wo-superuser"
+  },
+  "title": "PostgreSQL Event Triggers without superuser access",
+  "summary": "Using Postgres Hooks to allow regular users to create event triggers",
+  "published_at": "2025-05-08T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T20:57:45.279486+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2025/05/48/487d9dba25123eea07bcc006ad5e387279ad6e346f3ccf2ebe12bca4d1318371/article.md",
+    "record": "articles/v1/b1/yc-supabase/2025/05/48/487d9dba25123eea07bcc006ad5e387279ad6e346f3ccf2ebe12bca4d1318371/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5108,
+    "sha256": "sha256:cbfbecce7635034fd3c2a6cf6bf3750b75fa5e14b45081f4e91833665fa7d07b",
+    "normalized_content_hash": "sha256:6380c225898134c6c79b5a3e740c68245e67d796dd80f4af5026772d930e3718"
+  },
+  "provenance": {
+    "source_item_id": "5017666c-73a0-4c5d-bf93-ccf9ac69837a",
+    "external_id": "https://supabase.com/blog/event-triggers-wo-superuser"
+  }
+}

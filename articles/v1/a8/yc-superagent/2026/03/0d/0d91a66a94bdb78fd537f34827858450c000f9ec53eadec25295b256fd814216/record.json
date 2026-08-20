@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d91a66a94bdb78fd537f34827858450c000f9ec53eadec25295b256fd814216",
+  "company": {
+    "key": "yc-superagent",
+    "name": "Superagent"
+  },
+  "source": {
+    "id": "yc-superagent-news-import-3c33ed06ece7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.superagent.sh/blog/frontier-models-miss-57-percent-of-threats",
+    "canonical": "https://www.superagent.sh/blog/frontier-models-miss-57-percent-of-threats"
+  },
+  "title": "Frontier models miss 57% of threats in agent context",
+  "summary": "We benchmarked Claude 4.6 Opus against brin on 485 real artifacts across six categories. The model missed 57% of threats, including 100% of graph-based signals. Full results and methodology.",
+  "published_at": "2026-03-24T12:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:47:34.464363+00:00",
+  "fetched_at": "2026-07-28T22:19:21.440084+00:00",
+  "last_updated_at": "2026-08-19T23:41:00.202139+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-superagent/2026/03/0d/0d91a66a94bdb78fd537f34827858450c000f9ec53eadec25295b256fd814216/article.md",
+    "record": "articles/v1/a8/yc-superagent/2026/03/0d/0d91a66a94bdb78fd537f34827858450c000f9ec53eadec25295b256fd814216/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5583,
+    "sha256": "sha256:e3a3c563e4766fa2d10c3d6e415684896b2d84871ab31975229443fdeca74390",
+    "normalized_content_hash": "sha256:f4db5aa6c815f0dce8f44bd98a4251cda691c67308d33374b63ec4d7bc20977b"
+  },
+  "provenance": {
+    "source_item_id": "9aa6ddfb-5834-40fa-aedb-931a2bff7a63",
+    "external_id": "https://www.superagent.sh/blog/frontier-models-miss-57-percent-of-threats"
+  }
+}

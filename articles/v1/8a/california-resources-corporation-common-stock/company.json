@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "california-resources-corporation-common-stock",
+    "name": "California Resources Corporation"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-03-02T13:01:51+00:00",
+  "last_published_at": "2026-08-10T12:02:28+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8a/california-resources-corporation-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 18439,
+        "sha256": "sha256:1aa8e8992c0c8413ef79593c143c1ea6757f52b9bd16e4c22745c2be1e4fd78e",
+        "newest_at": "2026-08-10T12:02:28+00:00",
+        "oldest_at": "2026-03-02T13:01:51+00:00"
+      }
+    ]
+  }
+}

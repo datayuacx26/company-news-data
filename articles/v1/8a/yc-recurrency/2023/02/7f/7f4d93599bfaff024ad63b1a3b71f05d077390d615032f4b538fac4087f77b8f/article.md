@@ -1,0 +1,181 @@
+---
+schema_version: "1.0.0"
+document_id: "7f4d93599bfaff024ad63b1a3b71f05d077390d615032f4b538fac4087f77b8f"
+company_key: "yc-recurrency"
+company: "Recurrency"
+source_id: "yc-recurrency-news-import-efe4d20cb718"
+canonical_url: "https://www.recurrency.com/post/series-a"
+published_at: "2023-02-01T00:00:00+00:00"
+first_seen_at: "2026-07-25T20:42:05.588221+00:00"
+fetched_at: "2026-07-28T21:33:46.196319+00:00"
+content_hash: "sha256:055b80b987a35d9aba367c7b9f55f3084f0cdabf3dc44be63bc09e927dd85f2f"
+---
+
+# Recurrency - Announcing Series A
+
+Recurrency raises $22 million to revolutionize ERP for distribution.
+
+
+February 1, 2023
+
+
+Sam Oshay
+
+
+CEO + Founder
+
+
+# Accelerating our ability to empower distributors.
+
+
+﻿
+
+
+We started
+
+
+[Recurrency](https://www.recurrency.com/) with the mission to modernize the world’s supply chain software. Today, our team is overjoyed to share a key milestone: Recurrency has raised $22 million in funding from Bessemer Venture Partners, Lachy Groom, Elad Gil, Y Combinator Continuity, and numerous other world-class investors. This new capital will enable us to further invest in our product, our team, and – most importantly – our customers.
+
+
+# Today’s announcement is 70+ years in the making.
+
+
+I grew up in a third-generation family distribution business. In 1952, my grandfather came to America and started a hardware wholesale business in Los Angeles, which my uncle still runs today. In the 1990s, my father split off and started his own distributorship, which today is a global supplier of packaging, safety, janitorial, and industrial products.
+
+
+﻿
+
+
+Growing up, I saw first-hand how my family businesses struggled with technology. Forgotten orders, unprofitable inventory, stockouts, overstock, negative-margin pricing, customers lost to competitors, wasted team productivity, and reactive operations were all frequent headaches, despite continual investment in their ERP systems. Today, US distributors earn over $7 trillion in collective annual revenues, though the leading distribution ERP systems are still decades behind. If you’re a distributor using one of these ERPs, you likely know exactly what I’m talking about.
+
+
+﻿
+
+
+Inspired by my experience at the family businesses, I started developing an internal tool tailored for distributors, and as such, Recurrency was born.
+
+
+From generation to generation. My grandfather and uncle at the hardware showroom. Distribution runs in Recurrency’s blood.
+
+
+# Recurrency is what ERP was always meant to be.
+
+
+Today, Recurrency serves distributors with three artificial intelligence-powered products:
+
+
+﻿
+
+
+1. ﻿
+
+
+[Recurrency Sales](https://www.recurrency.com/products/sales) – supercharged sales, service, and front counter
+
+
+2. ﻿
+
+
+[Recurrency Purchasing](https://www.recurrency.com/https;/www.recurrency.com/products/purchasing) – advanced forecasting and one-click purchasing
+
+
+3. ﻿
+
+
+[Recurrency Reporting](https://www.recurrency.com/reporting) – free, customizable, and real-time ERP reporting
+
+
+﻿
+
+
+We launched Recurrency Sales in early 2020. Our users spend the majority of their computer time in our product every day, using Recurrency as the fastest interface to their ERP data (global search, customers, product information, inventory, pricing, reports, dashboards, and more), as well as the easiest place to take core actions (quotes, orders, pick tickets, packing lists, transfers, special orders, invoices, and more).
+
+
+﻿
+
+
+Our sales AI is seamlessly embedded into familiar screens – like the customer master or quote-and-order entry – empowering every salesperson with proactive recommendations on who to talk to and what to sell them. For our average sales user, these customer retention and expansion recommendations drive a 12.9+% lift in top-line sales growth and a 15.0+% increase in average order value.
+
+
+﻿
+
+
+In mid-2022, we launched Recurrency Purchasing, which has quickly gained recognition as one of the most accurate and streamlined demand planning tools in the distribution ecosystem. Our users rave about our combination of cutting-edge demand and lead time forecasting with hyper-streamlined workflows, like the ability to generate a vendor-optimized purchase order in your ERP in just a few clicks. Even in our product’s first year, our customers are already seeing significant improvements in inventory turnover, net working capital, and fill rates.
+
+
+﻿
+
+
+Most importantly, all of Recurrency’s products are seamlessly integrated with the existing ERP, so customers can experience all of the value without any of the pain of having to re-platform or migrate their legacy system. Our customers typically integrate Recurrency into production in under one hour!
+
+
+﻿
+
+
+Feedback from customers has been so positive that in December, after a thorough vetting process,
+
+
+[Affiliated Distributors](https://www.adhq.com/) selected Recurrency as a preferred software partner to their members. We are also proud to partner with and support the
+
+
+[Epicor Prophet 21 Worldwide User Group](https://www.p21ww.org/) (P21WWUG), the
+
+
+[Americas’ SAP Users’ Group](https://www.asug.com/) (ASUG), and the
+
+
+[National Association of Wholesaler-Distributors](https://www.naw.org/) (NAW).
+
+
+﻿
+
+
+The best-in-class sales and purchasing platform is just the starting point for our product vision. Over time, we intend to develop additional ERP modules, including payments processing, pricing and profitability optimization, and an e-commerce and marketplace management platform. This full suite is what we like to call ERP Automation.
+
+
+﻿
+
+
+# Our partners bring technology and operating expertise that will benefit distributors.
+
+
+﻿
+
+
+As part of this $22 million fundraise, we’ve gained numerous investors and advisors who strengthen Recurrency’s brain trust. Kent Bennett of Bessemer Venture Partners led our financing and has joined our Board of Directors. Kent has shared his analysis of Recurrency, distribution, and the ERP market’s opportunity for innovation
+
+
+[here.](https://www.bvp.com/news/our-investment-in-recurrency) ﻿
+
+
+﻿
+
+
+Lachy Groom, Elad Gil, and Y Combinator Continuity joined our financing as major participants. In addition, we’re lucky to have support from Contrary Capital, Sequoia Capital, Operator Partners, TQ Ventures, SV Angel, Diagram Capital, and Hack VC, as well as founders and executives from Yahoo, Adobe, Plaid, and Ramp.
+
+
+﻿
+
+
+# What our customers can expect going forward.
+
+
+﻿
+
+
+Recurrency’s core value #1 is to create wildly successful customers. As such, this funding significantly amplifies our ability to deliver wildly successful outcomes for our customers. It allows us to invest in the team necessary to always exceed customer expectations, as well as to develop new tools to further eliminate ERP pain points that distributors experience.
+
+
+﻿
+
+
+We’ve never been more excited to leverage technology to empower distributors, and we could not be more grateful to our customers and investors for empowering us on this journey.
+
+
+﻿
+
+
+As someone deeply passionate about distribution and ERP, I’d love to hear about the challenges you may be facing and explore how Recurrency might help. If you’d like to connect, please reach out to me personally at
+
+
+sam@recurrency.com ﻿

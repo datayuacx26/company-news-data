@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "137ce639efd3c01d26bbc923c72502ac4456fed44ac8dd1661796e7816363a65",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/e2b-session-limit",
+    "canonical": "https://blaxel.ai/blog/e2b-session-limit"
+  },
+  "title": "The E2B session limit (and what happens to agent state)",
+  "summary": "E2B enforces a 24-hour session limit on Pro. Learn what happens to agent state, how pause/resume works, and when to consider alternatives.",
+  "published_at": "2026-08-19T16:29:14+00:00",
+  "first_seen_at": "2026-08-19T18:44:07.874563+00:00",
+  "fetched_at": "2026-08-19T18:44:10.590664+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/08/13/137ce639efd3c01d26bbc923c72502ac4456fed44ac8dd1661796e7816363a65/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/08/13/137ce639efd3c01d26bbc923c72502ac4456fed44ac8dd1661796e7816363a65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17972,
+    "sha256": "sha256:d5198dbc1ec50491796bd4f62c4b9320579ad928976d4392c0be3b7c04d9b964",
+    "normalized_content_hash": "sha256:4460964a33e53c1e74d12d5ce343535c96afe9803fccf226b550570bb22570e2"
+  },
+  "provenance": {
+    "source_item_id": "246a89f8-02ac-4123-b945-f56c8b395717",
+    "external_id": "https://blaxel.ai/blog/e2b-session-limit"
+  }
+}

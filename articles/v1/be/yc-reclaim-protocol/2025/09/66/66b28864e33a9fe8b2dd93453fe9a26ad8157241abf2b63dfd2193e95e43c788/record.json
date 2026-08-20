@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66b28864e33a9fe8b2dd93453fe9a26ad8157241abf2b63dfd2193e95e43c788",
+  "company": {
+    "key": "yc-reclaim-protocol",
+    "name": "Reclaim Protocol"
+  },
+  "source": {
+    "id": "yc-reclaim-protocol-news-import-8b5fb76919cb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.reclaimprotocol.org/posts/zkfetch-cardano",
+    "canonical": "https://blog.reclaimprotocol.org/posts/zkfetch-cardano"
+  },
+  "title": "zkFetch: Unlocking Verifiable Data for Next-Generation DApps on Cardano",
+  "summary": "Imagine being able to prove that your smart contract fetched real weather data from AccuWeather, stock prices from Bloomberg, or sports results from ESPN, all without revealing your API credentials or trusting intermediaries. This isn't a distant dream, it's exactly what zkFetch brings to the Cardano ecosystem today.",
+  "published_at": "2025-09-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:39:06.647660+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T23:07:04.632447+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-reclaim-protocol/2025/09/66/66b28864e33a9fe8b2dd93453fe9a26ad8157241abf2b63dfd2193e95e43c788/article.md",
+    "record": "articles/v1/be/yc-reclaim-protocol/2025/09/66/66b28864e33a9fe8b2dd93453fe9a26ad8157241abf2b63dfd2193e95e43c788/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7477,
+    "sha256": "sha256:ddb4f24123f00d757dd2ede5e58c3609ff723496da8b85483f6244127db87bd3",
+    "normalized_content_hash": "sha256:3dbcaad7ecaad833bb30c16112ffa79864057d729b47d2e945901c4472ec2020"
+  },
+  "provenance": {
+    "source_item_id": "f6822159-474e-48ed-86bf-61deb6a4272a",
+    "external_id": "https://blog.reclaimprotocol.org/posts/zkfetch-cardano"
+  }
+}

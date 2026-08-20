@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2ac5970b02f3fa63b085545c761f7587ba13996b6129fd1dd7e26e9d8bd24d6",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-news-import-538a148a7a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://supabase.com/changelog/admin-api-metrics-panic-fix",
+    "canonical": "https://supabase.com/changelog/admin-api-metrics-panic-fix"
+  },
+  "title": "Fixed a panic in project metrics collection that could drop metrics",
+  "summary": "Fixed a panic in project metrics collection that could drop metrics",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T23:01:14.192857+00:00",
+  "fetched_at": "2026-07-29T23:01:15.477466+00:00",
+  "last_updated_at": "2026-08-19T23:40:47.211484+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2026/07/d2/d2ac5970b02f3fa63b085545c761f7587ba13996b6129fd1dd7e26e9d8bd24d6/article.md",
+    "record": "articles/v1/b1/yc-supabase/2026/07/d2/d2ac5970b02f3fa63b085545c761f7587ba13996b6129fd1dd7e26e9d8bd24d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1001,
+    "sha256": "sha256:d99d4cbd552bd6f0b02d53669897ef89b99a9158db8dcf03b6fd2a6082d04409",
+    "normalized_content_hash": "sha256:0b8fc04bcbde85539e2bf1ef496ce3cf6942d292248870d2d1ca0bf07cc21a51"
+  },
+  "provenance": {
+    "source_item_id": "913ac019-73fa-4f6b-8736-c6fbd5f27ef2",
+    "external_id": "https://supabase.com/changelog/admin-api-metrics-panic-fix"
+  }
+}

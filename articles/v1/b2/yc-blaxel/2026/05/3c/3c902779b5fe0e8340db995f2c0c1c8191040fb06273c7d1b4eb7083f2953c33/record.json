@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c902779b5fe0e8340db995f2c0c1c8191040fb06273c7d1b4eb7083f2953c33",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/zero-data-retention-ai-sandboxes",
+    "canonical": "https://blaxel.ai/blog/zero-data-retention-ai-sandboxes"
+  },
+  "title": "Zero data retention AI sandboxes: how to evaluate vendor claims",
+  "summary": "ZDR claims often miss execution logs, memory snapshots, and telemetry. Learn how to audit vendor DPAs and find architectures that hold up under procurement.",
+  "published_at": "2026-05-21T16:09:10+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:50:36.289404+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/05/3c/3c902779b5fe0e8340db995f2c0c1c8191040fb06273c7d1b4eb7083f2953c33/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/05/3c/3c902779b5fe0e8340db995f2c0c1c8191040fb06273c7d1b4eb7083f2953c33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25139,
+    "sha256": "sha256:11cd6165bdb5b00a4925fa8a99c4e982b39b06f6a096772fa5a6485dc3271106",
+    "normalized_content_hash": "sha256:711346d4bb0f065770fac6764a3b222fa9048037c5601d284a211a5a8dcff436"
+  },
+  "provenance": {
+    "source_item_id": "0e23739c-a8e7-4bcb-a1bf-378120179df3",
+    "external_id": "https://blaxel.ai/blog/zero-data-retention-ai-sandboxes"
+  }
+}

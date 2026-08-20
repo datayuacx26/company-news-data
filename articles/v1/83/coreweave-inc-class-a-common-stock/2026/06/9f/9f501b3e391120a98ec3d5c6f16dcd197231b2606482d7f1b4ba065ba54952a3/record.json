@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f501b3e391120a98ec3d5c6f16dcd197231b2606482d7f1b4ba065ba54952a3",
+  "company": {
+    "key": "coreweave-inc-class-a-common-stock",
+    "name": "CoreWeave Inc."
+  },
+  "source": {
+    "id": "coreweave-inc-class-a-common-stock-news-import-30332681496c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coreweave.com/news/coreweave-sets-new-ai-training-records-in-mlperf-r-training-v6-0-training-deepseek-v3-in-approximately-two-minutes",
+    "canonical": "https://www.coreweave.com/news/coreweave-sets-new-ai-training-records-in-mlperf-r-training-v6-0-training-deepseek-v3-in-approximately-two-minutes"
+  },
+  "title": "CoreWeave Sets New MLPerf Training Records",
+  "summary": "CoreWeave set MLPerf Training v6.0 records, training DeepSeek-V3 in 2.02 minutes on 8,192 NVIDIA GB300 GPUs.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:41:32.785334+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-19T23:07:29.830766+00:00",
+  "paths": {
+    "article": "articles/v1/83/coreweave-inc-class-a-common-stock/2026/06/9f/9f501b3e391120a98ec3d5c6f16dcd197231b2606482d7f1b4ba065ba54952a3/article.md",
+    "record": "articles/v1/83/coreweave-inc-class-a-common-stock/2026/06/9f/9f501b3e391120a98ec3d5c6f16dcd197231b2606482d7f1b4ba065ba54952a3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7336,
+    "sha256": "sha256:2b8e63bd810393fa3250e541c6df36e9fd98f5b3b87d1f46d686febc2f167524",
+    "normalized_content_hash": "sha256:44537d4bf5a06e2cca9b01bb372ef2c7470af1b5fa43c7c96bf29ac37048f502"
+  },
+  "provenance": {
+    "source_item_id": "643e823b-52dd-4cdc-9855-ac1aecfaa073",
+    "external_id": "https://www.coreweave.com/news/coreweave-sets-new-ai-training-records-in-mlperf-r-training-v6-0-training-deepseek-v3-in-approximately-two-minutes"
+  }
+}

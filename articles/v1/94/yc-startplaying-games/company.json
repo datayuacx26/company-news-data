@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-startplaying-games",
+    "name": "StartPlaying.Games"
+  },
+  "record_count": 24,
+  "first_published_at": "2025-05-13T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/94/yc-startplaying-games/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 27782,
+        "sha256": "sha256:f12231f60dc4ffd0acfa808f068d8bb51817ec918b5e5dc8726976b619131417",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2025-05-13T00:00:00+00:00"
+      }
+    ]
+  }
+}

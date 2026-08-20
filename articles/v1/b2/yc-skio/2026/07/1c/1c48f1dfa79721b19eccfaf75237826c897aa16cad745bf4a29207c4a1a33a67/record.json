@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c48f1dfa79721b19eccfaf75237826c897aa16cad745bf4a29207c4a1a33a67",
+  "company": {
+    "key": "yc-skio",
+    "name": "Skio"
+  },
+  "source": {
+    "id": "yc-skio-news-import-cdeaee5c7d9f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://skio.com/blog/gift-card-redemption-subscriptions",
+    "canonical": "https://skio.com/blog/gift-card-redemption-subscriptions"
+  },
+  "title": "Gift Card Redemption on Subscriptions: Why It Breaks (And What to Use Instead) | skio",
+  "summary": "Shopify gift cards silently fail on recurring orders because they can't be vaulted as payment methods — store credits apply as checkout-level discounts instead, and they work on every subscription order.",
+  "published_at": "2026-07-31T18:34:37.946+00:00",
+  "first_seen_at": "2026-08-01T07:08:56.851472+00:00",
+  "fetched_at": "2026-08-01T07:08:57.851324+00:00",
+  "last_updated_at": "2026-08-19T22:27:41.682419+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-skio/2026/07/1c/1c48f1dfa79721b19eccfaf75237826c897aa16cad745bf4a29207c4a1a33a67/article.md",
+    "record": "articles/v1/b2/yc-skio/2026/07/1c/1c48f1dfa79721b19eccfaf75237826c897aa16cad745bf4a29207c4a1a33a67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19625,
+    "sha256": "sha256:0891e741102ca1f8ddc95b90b5430832e3ebe82e949240e8ec36fee3a75e29b6",
+    "normalized_content_hash": "sha256:a536d4b3b935e5c891f2cb3526a505b3d2b736694cd69d7062b635be607de34f"
+  },
+  "provenance": {
+    "source_item_id": "e2a95262-c058-42f9-9a37-b356449ec38c",
+    "external_id": "https://skio.com/blog/gift-card-redemption-subscriptions"
+  }
+}

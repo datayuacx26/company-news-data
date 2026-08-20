@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee7c992118a78cd24f067604a0e89673c1d7e25482cee3356be12ea5531afdb6",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/search-click-tracking-opentelemetry-esql",
+    "canonical": "https://www.elastic.co/search-labs/blog/search-click-tracking-opentelemetry-esql"
+  },
+  "title": "15 lines of click tracking code that tell you what search logs can't",
+  "summary": "Calculate CTR, MRR and click position distribution in ES|QL to find which search queries need relevance tuning. All from OpenTelemetry click data....",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-03T16:31:09.223823+00:00",
+  "fetched_at": "2026-08-03T18:22:19.433930+00:00",
+  "last_updated_at": "2026-08-11T08:27:06.150200+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/ee/ee7c992118a78cd24f067604a0e89673c1d7e25482cee3356be12ea5531afdb6/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/ee/ee7c992118a78cd24f067604a0e89673c1d7e25482cee3356be12ea5531afdb6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29156,
+    "sha256": "sha256:6d8b0287fc1636f37066c41453a30aa87232ea19d33d427f97c349c7e4a14978",
+    "normalized_content_hash": "sha256:bf97a9946946f282c39a4fb1947e266c10faf372fbbaac6935a4f891545fd0c6"
+  },
+  "provenance": {
+    "source_item_id": "690ae05a-4a73-487e-b8a0-190ebaf11516",
+    "external_id": "https://www.elastic.co/search-labs/blog/search-click-tracking-opentelemetry-esql"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e1363b3755ad1467685a92a6abd7ebd9ae5beab0ec2ba9ccd66fe8863ab47677",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc."
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-rss-b23fdbdd1cee",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/08/fortibleed-fortigate-credential-reuse-internet-exposed",
+    "canonical": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/08/fortibleed-fortigate-credential-reuse-internet-exposed"
+  },
+  "title": "FortiBleed: Credential Reuse, Legacy Hashes, and the Risk of Internet-Exposed FortiGate Devices",
+  "summary": "FortiBleed is large-scale credential exposure and abuse targeting internet-exposed FortiGate devices, publicly reported in June 2026.",
+  "published_at": "2026-07-08T17:38:12+00:00",
+  "first_seen_at": "2026-07-20T03:31:07.801512+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-07-28T21:09:48.931542+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/07/e1/e1363b3755ad1467685a92a6abd7ebd9ae5beab0ec2ba9ccd66fe8863ab47677/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/07/e1/e1363b3755ad1467685a92a6abd7ebd9ae5beab0ec2ba9ccd66fe8863ab47677/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23365,
+    "sha256": "sha256:6d9ac8f720311915caa64dd49b2f3025513708310470f2fca581c9f00da20375",
+    "normalized_content_hash": "sha256:70bca23e8cee4656893f881f28856a32c66a0bec48bcebd2f511718ff3b617b4"
+  },
+  "provenance": {
+    "source_item_id": "230fb8de-2acc-40dc-ae76-46f9f34b728f",
+    "external_id": "https://blog.qualys.com/?p=40864"
+  }
+}

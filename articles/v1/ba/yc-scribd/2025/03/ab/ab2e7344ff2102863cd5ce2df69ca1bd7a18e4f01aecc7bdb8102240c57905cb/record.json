@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab2e7344ff2102863cd5ce2df69ca1bd7a18e4f01aecc7bdb8102240c57905cb",
+  "company": {
+    "key": "yc-scribd",
+    "name": "Scribd"
+  },
+  "source": {
+    "id": "yc-scribd-atom-fa6b4578b753",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech.scribd.com/blog/2025/terraform-oxbow-module.html",
+    "canonical": "https://tech.scribd.com/blog/2025/terraform-oxbow-module.html"
+  },
+  "title": "Terraform module to manage Oxbow Lambda and its components",
+  "summary": "Oxbow is a project to take an existing storage location which contains Apache Parquet files into a Delta Lake table. It is intended to run both as an AWS Lambda or as a command line application. We are excited to introduce terraform-oxbow, an open-source Terraform module that simplifies the deployment and management of AWS Lambda and its supporting components. Whether you’re working with AWS Glue, Kinesis Data Firehose, SQS, or DynamoDB, this module provides a streamlined approach to infrastructure as code (IaC) in AWS.",
+  "published_at": "2025-03-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:26:02.289998+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T02:21:21.168233+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-scribd/2025/03/ab/ab2e7344ff2102863cd5ce2df69ca1bd7a18e4f01aecc7bdb8102240c57905cb/article.md",
+    "record": "articles/v1/ba/yc-scribd/2025/03/ab/ab2e7344ff2102863cd5ce2df69ca1bd7a18e4f01aecc7bdb8102240c57905cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3342,
+    "sha256": "sha256:089811d6990474aa5d7aa79ea5917a9cc4584d9d4244f1cdbe21dab707300c98",
+    "normalized_content_hash": "sha256:7b3999ec87d54218160446bd3c61696459bc486366ce7f0cdc085e4d734a9891"
+  },
+  "provenance": {
+    "source_item_id": "10d1da86-22c3-4bc4-abb6-0213178eda3c",
+    "external_id": "https://tech.scribd.com/blog/2025/terraform-oxbow-module"
+  }
+}

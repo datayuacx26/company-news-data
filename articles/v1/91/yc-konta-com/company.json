@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-konta-com",
+    "name": "Konta.com"
+  },
+  "record_count": 168,
+  "first_published_at": "2022-09-20T15:23:46+00:00",
+  "last_published_at": "2026-02-07T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-09",
+      "record_count": 24
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 13
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 102
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 4,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 44212,
+        "sha256": "sha256:eaee0e0e9233f17e7aed9fbeb1c089b78461f8c968c93543f55b1628bd65039e",
+        "newest_at": "2026-02-07T12:00:00+00:00",
+        "oldest_at": "2023-11-25T00:45:44+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 44225,
+        "sha256": "sha256:d44b4163aa164763cd89afcb35b3631fa85a67245e013e2d45eb97af5e736290",
+        "newest_at": "2023-11-25T00:45:44+00:00",
+        "oldest_at": "2023-11-25T00:45:44+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 43780,
+        "sha256": "sha256:0e1574328719dbd07579eb90af0d020c16786b96a9bc658326c7aaaee8efcdb2",
+        "newest_at": "2023-11-25T00:45:44+00:00",
+        "oldest_at": "2022-09-21T14:58:06+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/91/yc-konta-com/index/pages/000004.json",
+        "record_count": 18,
+        "byte_count": 15819,
+        "sha256": "sha256:59239904bb15c78d9e6ee54954b38602b08578db44b96db6c17dddac9071be08",
+        "newest_at": "2022-09-20T16:11:25+00:00",
+        "oldest_at": "2022-09-20T15:23:46+00:00"
+      }
+    ]
+  }
+}

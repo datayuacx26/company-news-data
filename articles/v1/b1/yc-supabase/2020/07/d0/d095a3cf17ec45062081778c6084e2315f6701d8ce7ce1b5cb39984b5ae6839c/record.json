@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d095a3cf17ec45062081778c6084e2315f6701d8ce7ce1b5cb39984b5ae6839c",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/postgresql-physical-logical-backups",
+    "canonical": "https://supabase.com/blog/postgresql-physical-logical-backups"
+  },
+  "title": "Physical vs Logical Backups in PostgreSQL",
+  "summary": "What are physical and logical backups in Postgres?",
+  "published_at": "2020-07-07T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T22:26:47.413551+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2020/07/d0/d095a3cf17ec45062081778c6084e2315f6701d8ce7ce1b5cb39984b5ae6839c/article.md",
+    "record": "articles/v1/b1/yc-supabase/2020/07/d0/d095a3cf17ec45062081778c6084e2315f6701d8ce7ce1b5cb39984b5ae6839c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5518,
+    "sha256": "sha256:764e9c5ea16b582298350e1a05314fbb5fded8358e580e7bc8fc13cc17fdd37b",
+    "normalized_content_hash": "sha256:fb2c0e4a6d7f61526ea2c280e51e4bcdb5e46c713aef8aa7e9d79fb4ad87159f"
+  },
+  "provenance": {
+    "source_item_id": "360fb40a-a1ea-4474-8ab1-e52ce4dfb755",
+    "external_id": "https://supabase.com/blog/postgresql-physical-logical-backups"
+  }
+}

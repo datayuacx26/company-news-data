@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a88206ba12f25f6f85d1949ff1a08c72ef5a10f7d0ce63d7627eb3e6befe8eab",
+  "company": {
+    "key": "yc-wave",
+    "name": "Wave"
+  },
+  "source": {
+    "id": "yc-wave-rss-404ae0f13af9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wave.com/en/blog/simple-architecture/",
+    "canonical": "https://www.wave.com/en/blog/simple-architecture/"
+  },
+  "title": "Some benefits of simple software architectures",
+  "summary": "Wave is a $1.7B company with 70 engineers1 whose product is a CRUD app that adds and subtracts numbers. In keeping with this, our architecture is a standard CRUD app architecture, a Python monolith on top of Postgres. Starting with a simple architecture and solving problems in simple ways where possible has allowed us to scale to this size while engineers mostly focus on work that delivers value to users.",
+  "published_at": "2022-03-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:52:44.556575+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:42:10.862393+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-wave/2022/03/a8/a88206ba12f25f6f85d1949ff1a08c72ef5a10f7d0ce63d7627eb3e6befe8eab/article.md",
+    "record": "articles/v1/a1/yc-wave/2022/03/a8/a88206ba12f25f6f85d1949ff1a08c72ef5a10f7d0ce63d7627eb3e6befe8eab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1950,
+    "sha256": "sha256:f2b7dadbc9eec8bfe6300a48d65c18db1c1723120ed955299963c0c7365a93ed",
+    "normalized_content_hash": "sha256:ddc137f22fb7781d1a80ac53f70eb2b692703fbcd76e4c10d58a0bda767b4738"
+  },
+  "provenance": {
+    "source_item_id": "302e5152-c70e-449b-836c-7455a3876986",
+    "external_id": "https://www.wave.com/en/blog/simple-architecture/"
+  }
+}

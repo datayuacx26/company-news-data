@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "record_count": 53,
+  "first_published_at": "2024-07-12T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ad/yc-windmill/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58266,
+        "sha256": "sha256:87e94af54627784b3cf2025d8c9f47a5d4169e449881427f7829eed7105fe4d0",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2024-10-07T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ad/yc-windmill/index/pages/000002.json",
+        "record_count": 3,
+        "byte_count": 2996,
+        "sha256": "sha256:84357d78d06ca95abb21d43fa3bc06cafc9640fbdc21c88299e791e9bb7626de",
+        "newest_at": "2024-08-29T00:00:00+00:00",
+        "oldest_at": "2024-07-12T00:00:00+00:00"
+      }
+    ]
+  }
+}

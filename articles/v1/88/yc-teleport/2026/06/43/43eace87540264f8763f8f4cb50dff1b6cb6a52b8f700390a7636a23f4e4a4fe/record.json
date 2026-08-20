@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43eace87540264f8763f8f4cb50dff1b6cb6a52b8f700390a7636a23f4e4a4fe",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/your-ai-agent-needs-to-know-who-you-are/",
+    "canonical": "https://goteleport.com/blog/your-ai-agent-needs-to-know-who-you-are/"
+  },
+  "title": "Your AI Agent Needs to Know Who You Are",
+  "summary": "Learn how Teleport JWTs propagate human identity through MCP tool calls for audit, authorization, and access control.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:57:37.609410+00:00",
+  "fetched_at": "2026-07-28T21:23:16.325685+00:00",
+  "last_updated_at": "2026-08-10T02:07:05.796133+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/06/43/43eace87540264f8763f8f4cb50dff1b6cb6a52b8f700390a7636a23f4e4a4fe/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/06/43/43eace87540264f8763f8f4cb50dff1b6cb6a52b8f700390a7636a23f4e4a4fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10995,
+    "sha256": "sha256:727a94d5a6c120d51ec454110436a6742888ba83fdf5f50896af58d9a70daae1",
+    "normalized_content_hash": "sha256:f56cb869311c45d38a69e697f6691cf8b4f4206eb7569b9a7d6c14e21e549aeb"
+  },
+  "provenance": {
+    "source_item_id": "d20fbffd-06dd-4123-81b8-afec11e07bc7",
+    "external_id": "https://goteleport.com/blog/your-ai-agent-needs-to-know-who-you-are/"
+  }
+}

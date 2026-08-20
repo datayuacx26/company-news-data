@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "595fe18659aab9d7c624616cf98a9ae4e6376c009ed8b1ce197a79d83c89227b",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/better-auth-multi-session-signout-ato",
+    "canonical": "https://winfunc.com/hacktivity/better-auth-multi-session-signout-ato"
+  },
+  "title": "Multi-session sign-out hook allows forged cookies to revoke arbitrary sessions",
+  "summary": "The multiSession plugin's /sign-out after-hook (packages/better-auth/src/plugins/multi-session/index.ts) blindly trusts every cookie whose name matches…",
+  "published_at": "2025-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2025/01/59/595fe18659aab9d7c624616cf98a9ae4e6376c009ed8b1ce197a79d83c89227b/article.md",
+    "record": "articles/v1/96/yc-winfunc/2025/01/59/595fe18659aab9d7c624616cf98a9ae4e6376c009ed8b1ce197a79d83c89227b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7293,
+    "sha256": "sha256:a36709ccc4ac7b30965c579c203ab9d77c9c5544a10fa41836187039d8ac955a",
+    "normalized_content_hash": "sha256:6755285a8eb72d55eef2c5bd36ffb7471e5b41b7be8beeb7a22d423cf74d998f"
+  },
+  "provenance": {
+    "source_item_id": "bfbd23cc-516e-42c6-94d7-06e66a713946",
+    "external_id": "https://winfunc.com/hacktivity/better-auth-multi-session-signout-ato"
+  }
+}

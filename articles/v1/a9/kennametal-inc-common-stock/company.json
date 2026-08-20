@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "kennametal-inc-common-stock",
+    "name": "Kennametal Inc."
+  },
+  "record_count": 53,
+  "first_published_at": "2026-04-15T10:30:00+00:00",
+  "last_published_at": "2026-08-18T20:10:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 40
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/kennametal-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57875,
+        "sha256": "sha256:a5853515297328d5467c9f4df92bb3e5a77267fed2fbbe0c07b492dc5c87ca6b",
+        "newest_at": "2026-08-19T20:37:30.121804+00:00",
+        "oldest_at": "2026-05-19T13:15:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a9/kennametal-inc-common-stock/index/pages/000002.json",
+        "record_count": 3,
+        "byte_count": 4052,
+        "sha256": "sha256:c27877dd56ee8927c674ad9d656d9c8c3e8e13be88095f1c24611f646bf33be5",
+        "newest_at": "2026-05-18T17:00:00+00:00",
+        "oldest_at": "2026-04-15T10:30:00+00:00"
+      }
+    ]
+  }
+}

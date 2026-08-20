@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e1d42ba34959d5ded4608e64a9bcdded2954dbe84f045afc883288e96af7206b",
+  "company": {
+    "key": "yc-driver",
+    "name": "Driver"
+  },
+  "source": {
+    "id": "yc-driver-news-import-217796f58c6f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.driver.ai/blog/context-engineering-how-driver-solves-it",
+    "canonical": "https://www.driver.ai/blog/context-engineering-how-driver-solves-it/"
+  },
+  "title": "Context Engineering: Why It is Hard and How Driver is Solving It",
+  "summary": "What is context engineering? Learn the three failure modes that break AI coding agents and how Driver's compiler-inspired architecture solves them.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T17:03:14.637812+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:15:57.442275+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-driver/2026/07/e1/e1d42ba34959d5ded4608e64a9bcdded2954dbe84f045afc883288e96af7206b/article.md",
+    "record": "articles/v1/80/yc-driver/2026/07/e1/e1d42ba34959d5ded4608e64a9bcdded2954dbe84f045afc883288e96af7206b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15740,
+    "sha256": "sha256:1eb1a43b6652589178f95b6d40d7f6f1bc57d53f3e7c7f6f4b634fe9fad42c02",
+    "normalized_content_hash": "sha256:92776aaf3eade5944730ed46ce5e8ecfe338fb9006492fad157d390d2a570ebd"
+  },
+  "provenance": {
+    "source_item_id": "605f4c28-e90f-44c6-b1d0-fdd488dd7e23",
+    "external_id": "https://www.driver.ai/blog/context-engineering-how-driver-solves-it/"
+  }
+}

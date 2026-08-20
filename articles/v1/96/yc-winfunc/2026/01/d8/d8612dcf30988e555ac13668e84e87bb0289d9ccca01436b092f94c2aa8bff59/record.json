@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8612dcf30988e555ac13668e84e87bb0289d9ccca01436b092f94c2aa8bff59",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-3113",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-3113"
+  },
+  "title": "mmctl export downloads created world-readable local files (CVE-2026-3113)",
+  "summary": "mmctl export download and related export download flows write potentially sensitive export archives to the administrator's local filesystem. The shared…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/d8/d8612dcf30988e555ac13668e84e87bb0289d9ccca01436b092f94c2aa8bff59/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/d8/d8612dcf30988e555ac13668e84e87bb0289d9ccca01436b092f94c2aa8bff59/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5630,
+    "sha256": "sha256:083ae806629e4ec3cf6ce992b0bf3c65717db4b4a54c0f0a71a959304aec8eea",
+    "normalized_content_hash": "sha256:3c7ea6ea962e9a4f2322977b260f64506956928ca313541b70d03611517d5f59"
+  },
+  "provenance": {
+    "source_item_id": "7c3c9c54-70df-47cf-9dc0-cc15554e7dea",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-3113"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "265add791a9f4cae6f7ca2d566524af5e2e54ad9be3cbae2d1f8a9448804323e",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/",
+    "canonical": "https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/"
+  },
+  "title": "Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes",
+  "summary": "Build ESP32 firmware with reproducible Docker environments and use Docker Sandboxes for isolated AI-assisted development and hardware testing.",
+  "published_at": "2026-08-14T13:00:00+00:00",
+  "first_seen_at": "2026-08-14T13:20:17.795546+00:00",
+  "fetched_at": "2026-08-14T13:20:20.280637+00:00",
+  "last_updated_at": "2026-08-20T03:29:18.763507+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/08/26/265add791a9f4cae6f7ca2d566524af5e2e54ad9be3cbae2d1f8a9448804323e/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/08/26/265add791a9f4cae6f7ca2d566524af5e2e54ad9be3cbae2d1f8a9448804323e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14046,
+    "sha256": "sha256:fc0417494f80dc658ed55f3a926e8fb1ec1e071e730f78b973e715b0052a8788",
+    "normalized_content_hash": "sha256:5cac78a315f5aff9686e4eb986c5099a6e2e216edf4dd6d45b1d53cddbc3c2dd"
+  },
+  "provenance": {
+    "source_item_id": "e6a20f64-f083-4300-b5a4-36954aa61098",
+    "external_id": "https://www.docker.com/?p=92784"
+  }
+}

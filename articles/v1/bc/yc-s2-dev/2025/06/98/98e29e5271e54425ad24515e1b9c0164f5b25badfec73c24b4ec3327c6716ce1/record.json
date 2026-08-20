@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98e29e5271e54425ad24515e1b9c0164f5b25badfec73c24b4ec3327c6716ce1",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/sequin",
+    "canonical": "https://s2.dev/blog/sequin"
+  },
+  "title": "Postgres CDC made simple",
+  "summary": "A tutorial for streaming Postgres change data capture into S2 with Sequin for low-latency, durable CDC pipelines.",
+  "published_at": "2025-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/06/98/98e29e5271e54425ad24515e1b9c0164f5b25badfec73c24b4ec3327c6716ce1/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/06/98/98e29e5271e54425ad24515e1b9c0164f5b25badfec73c24b4ec3327c6716ce1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11751,
+    "sha256": "sha256:b301d946f73b436e47383738978239b5bb56cf5ec578e06b836f96bf21a85976",
+    "normalized_content_hash": "sha256:04829be36548960bcda396670d2ff185c28663b671bebc1c70969f728b05f6a3"
+  },
+  "provenance": {
+    "source_item_id": "5a288f33-22a1-43ed-a9d9-3d4b8b9f13b2",
+    "external_id": "https://s2.dev/blog/sequin"
+  }
+}

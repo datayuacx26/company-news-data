@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eac1f9c24854f54d119d8fbdd4235aee9755fccb2f1952f23613bfe818af0784",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-news-import-538a148a7a76",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://supabase.com/changelog/restore-credential-resync",
+    "canonical": "https://supabase.com/changelog/restore-credential-resync"
+  },
+  "title": "Fixed stale database credentials left behind after a restore",
+  "summary": "Fixed stale database credentials left behind after a restore",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T01:46:03.369367+00:00",
+  "fetched_at": "2026-08-05T03:48:36.198781+00:00",
+  "last_updated_at": "2026-08-19T23:40:47.211484+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2026/07/ea/eac1f9c24854f54d119d8fbdd4235aee9755fccb2f1952f23613bfe818af0784/article.md",
+    "record": "articles/v1/b1/yc-supabase/2026/07/ea/eac1f9c24854f54d119d8fbdd4235aee9755fccb2f1952f23613bfe818af0784/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1670,
+    "sha256": "sha256:4956f2d55c270bad44135caff830c6cd1aecf1f6c81d6f27a69f99da6d9980f1",
+    "normalized_content_hash": "sha256:b34c034ae75de01acf723b4348acba2a98673de1928d2a628897c6651bd2a683"
+  },
+  "provenance": {
+    "source_item_id": "6e19ac04-f59a-492b-9b24-7a690819a042",
+    "external_id": "https://supabase.com/changelog/restore-credential-resync"
+  }
+}

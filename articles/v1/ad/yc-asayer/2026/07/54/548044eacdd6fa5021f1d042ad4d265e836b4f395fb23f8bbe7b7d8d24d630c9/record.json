@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "548044eacdd6fa5021f1d042ad4d265e836b4f395fb23f8bbe7b7d8d24d630c9",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/migrate-react-app-axios-fetch/",
+    "canonical": "https://blog.openreplay.com/migrate-react-app-axios-fetch/"
+  },
+  "title": "Migrating a React App from Axios to Fetch",
+  "summary": "Migrate a React app from Axios to fetch with a safe wrapper, error handling, timeouts, and a copy-paste client that avoids regressions.",
+  "published_at": "2026-07-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-31T20:09:38.230352+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/54/548044eacdd6fa5021f1d042ad4d265e836b4f395fb23f8bbe7b7d8d24d630c9/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/54/548044eacdd6fa5021f1d042ad4d265e836b4f395fb23f8bbe7b7d8d24d630c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19222,
+    "sha256": "sha256:157fabce0613ec5859d820c25b19b49646dac9475a6fd934a696d31d17df648c",
+    "normalized_content_hash": "sha256:70719bad998efe6872d55a2af7cd26823ac07eb157f2b40f0a172121145ab748"
+  },
+  "provenance": {
+    "source_item_id": "5ca07290-8761-4f61-82a6-8e1fcc584cfd",
+    "external_id": "https://blog.openreplay.com/migrate-react-app-axios-fetch/"
+  }
+}

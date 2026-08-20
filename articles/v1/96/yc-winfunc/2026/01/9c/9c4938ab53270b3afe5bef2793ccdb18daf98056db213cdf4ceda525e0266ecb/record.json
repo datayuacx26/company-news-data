@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c4938ab53270b3afe5bef2793ccdb18daf98056db213cdf4ceda525e0266ecb",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-3114",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-3114"
+  },
+  "title": "Zip bomb memory exhaustion in recursive document extraction (CVE-2026-3114)",
+  "summary": "Mattermost enforces FileSettings.MaxFileSize on uploaded files, but the document extraction service previously did not apply that same limit to each dec…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/9c/9c4938ab53270b3afe5bef2793ccdb18daf98056db213cdf4ceda525e0266ecb/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/9c/9c4938ab53270b3afe5bef2793ccdb18daf98056db213cdf4ceda525e0266ecb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6643,
+    "sha256": "sha256:87adc60600f92940af53e0d1b822dfacc34e7a0218d4a3bad34cf40b7b0932a8",
+    "normalized_content_hash": "sha256:26b3c0c0940c3e85de09d76f29305ab1a13ed8a75451cf4a7ee573be6b4424ba"
+  },
+  "provenance": {
+    "source_item_id": "c01bff3e-3d9a-44bc-b2a4-9187ebf1d128",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-3114"
+  }
+}

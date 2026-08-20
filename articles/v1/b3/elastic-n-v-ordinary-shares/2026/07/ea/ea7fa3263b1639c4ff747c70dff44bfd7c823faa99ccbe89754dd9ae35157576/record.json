@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea7fa3263b1639c4ff747c70dff44bfd7c823faa99ccbe89754dd9ae35157576",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/vector-quantization-auto-calibration-diskbbq",
+    "canonical": "https://www.elastic.co/search-labs/blog/vector-quantization-auto-calibration-diskbbq"
+  },
+  "title": "17% faster search, zero config: auto-calibrating vector quantization in Elasticsearch",
+  "summary": "Auto calibration picks optimal vector quantization parameters per segment at merge time, averaging 17% faster Elasticsearch queries across 18 benchmarks.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T00:10:11.482706+00:00",
+  "fetched_at": "2026-07-29T00:10:13.250041+00:00",
+  "last_updated_at": "2026-08-07T02:39:15.888121+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/ea/ea7fa3263b1639c4ff747c70dff44bfd7c823faa99ccbe89754dd9ae35157576/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/ea/ea7fa3263b1639c4ff747c70dff44bfd7c823faa99ccbe89754dd9ae35157576/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20599,
+    "sha256": "sha256:4cb4b9210b90c04a349adfaf773ec13f6d3c7dcb46270ef50e6643d1b5f0b33a",
+    "normalized_content_hash": "sha256:631d678d939aa68097c9e060b926d8546cd08db31251264137e6c268f0607057"
+  },
+  "provenance": {
+    "source_item_id": "fd1d6007-0682-47d5-b521-0854a8a4c6b5",
+    "external_id": "https://www.elastic.co/search-labs/blog/vector-quantization-auto-calibration-diskbbq"
+  }
+}

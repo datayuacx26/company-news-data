@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "83f1d6f6acf73812c2d2ac3475c4c0bb6319d85807c28993363add21204036f9",
+  "company": {
+    "key": "yc-specific",
+    "name": "Specific"
+  },
+  "source": {
+    "id": "yc-specific-news-import-e2a51d9495af",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://specific.dev/blog/what-is-durable-execution",
+    "canonical": "https://specific.dev/blog/what-is-durable-execution"
+  },
+  "title": "What Is Durable Execution?",
+  "summary": "Durable execution makes code survive crashes, restarts, and outages by recording every step and resuming exactly where it left off. How it works, when to use it, and how to try it.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T16:09:56.950104+00:00",
+  "fetched_at": "2026-08-13T16:09:58.669298+00:00",
+  "last_updated_at": "2026-08-20T03:14:53.860417+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-specific/2026/08/83/83f1d6f6acf73812c2d2ac3475c4c0bb6319d85807c28993363add21204036f9/article.md",
+    "record": "articles/v1/97/yc-specific/2026/08/83/83f1d6f6acf73812c2d2ac3475c4c0bb6319d85807c28993363add21204036f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7111,
+    "sha256": "sha256:443b117a38702be9389680c231111bf6917ca1a4a095a20cf12bd1ca9be50c99",
+    "normalized_content_hash": "sha256:a5da98050c76429df600c558a0415f44efd44a66559cf668b0ba0776bce36d69"
+  },
+  "provenance": {
+    "source_item_id": "ab677780-78de-4606-a6aa-b3e1f4c34e34",
+    "external_id": "https://specific.dev/blog/what-is-durable-execution"
+  }
+}

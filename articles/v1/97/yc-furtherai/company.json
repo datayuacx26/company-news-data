@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-furtherai",
+    "name": "FurtherAI"
+  },
+  "record_count": 26,
+  "first_published_at": "2026-08-18T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/97/yc-furtherai/index/pages/000001.json",
+        "record_count": 26,
+        "byte_count": 26162,
+        "sha256": "sha256:aeb88c0fe722a520c83032e6fed956f7a95000ae4788c9dd8e686a3d596d6a0d",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2026-07-28T21:33:52.463534+00:00"
+      }
+    ]
+  }
+}

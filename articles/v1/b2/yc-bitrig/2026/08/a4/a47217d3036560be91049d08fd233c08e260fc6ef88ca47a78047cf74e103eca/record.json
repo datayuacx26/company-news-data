@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a47217d3036560be91049d08fd233c08e260fc6ef88ca47a78047cf74e103eca",
+  "company": {
+    "key": "yc-bitrig",
+    "name": "bitrig"
+  },
+  "source": {
+    "id": "yc-bitrig-news-import-267282887e75",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitrig.com/blog/ai-context-window-context-rot",
+    "canonical": "https://bitrig.com/blog/ai-context-window-context-rot"
+  },
+  "title": "AI Context Window: Context Rot Explained",
+  "summary": "Why do AI coding agents get worse over time? Learn how context windows, context rot, and compaction work, plus simple ways to keep sessions focused longer.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T18:44:27.343745+00:00",
+  "fetched_at": "2026-08-09T18:44:28.060744+00:00",
+  "last_updated_at": "2026-08-19T05:59:10.313468+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-bitrig/2026/08/a4/a47217d3036560be91049d08fd233c08e260fc6ef88ca47a78047cf74e103eca/article.md",
+    "record": "articles/v1/b2/yc-bitrig/2026/08/a4/a47217d3036560be91049d08fd233c08e260fc6ef88ca47a78047cf74e103eca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15459,
+    "sha256": "sha256:2956231f2d66246382e07405b03a74f14d1e0db4d5a840fb0697a7a1b5f88d71",
+    "normalized_content_hash": "sha256:2fb69f4fc1fdda17a9d145a47643ed59dd30f1f6553102542df7fabceccf778b"
+  },
+  "provenance": {
+    "source_item_id": "9c85c3ea-5cbd-4c9c-8f8f-3dcf08996e16",
+    "external_id": "https://bitrig.com/blog/ai-context-window-context-rot"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "entravision-communications-corporation-common-stock",
+    "name": "Entravision Communications Corporation"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-11-04T21:05:00+00:00",
+  "last_published_at": "2026-08-05T19:23:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b2/entravision-communications-corporation-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 22528,
+        "sha256": "sha256:1a7cbc4b77412f3916997ef02723efa4e02ca5e2edfbaba7404d924d22d6a1b2",
+        "newest_at": "2026-08-05T19:23:00+00:00",
+        "oldest_at": "2025-11-04T21:05:00+00:00"
+      }
+    ]
+  }
+}

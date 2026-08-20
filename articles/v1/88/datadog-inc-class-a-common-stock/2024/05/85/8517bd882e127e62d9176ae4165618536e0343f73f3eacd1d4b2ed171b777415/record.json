@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8517bd882e127e62d9176ae4165618536e0343f73f3eacd1d4b2ed171b777415",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
+  },
+  "title": "How we migrated our static analyzer from Java to Rust",
+  "summary": "Learn how we enhanced our static analyzer by migrating from Java to Rust, tripling performance improvements and a 10x reduction in memory usage.",
+  "published_at": "2024-05-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/05/85/8517bd882e127e62d9176ae4165618536e0343f73f3eacd1d4b2ed171b777415/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/05/85/8517bd882e127e62d9176ae4165618536e0343f73f3eacd1d4b2ed171b777415/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13562,
+    "sha256": "sha256:856bb8fd6bec23e8fdfb6e754701dd6156089a2fe4f13f78e11275748d6b175a",
+    "normalized_content_hash": "sha256:2779955665cd0c0793dd821bb3c0b72e55cb442f08bf5578d45b870c1deab474"
+  },
+  "provenance": {
+    "source_item_id": "c14483ea-d60c-4008-9a9c-94b14476e4b0",
+    "external_id": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
+  }
+}

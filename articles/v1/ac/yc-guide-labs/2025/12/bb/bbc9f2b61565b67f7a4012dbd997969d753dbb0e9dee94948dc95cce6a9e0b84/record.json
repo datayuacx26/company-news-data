@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbc9f2b61565b67f7a4012dbd997969d753dbb0e9dee94948dc95cce6a9e0b84",
+  "company": {
+    "key": "yc-guide-labs",
+    "name": "Guide Labs"
+  },
+  "source": {
+    "id": "yc-guide-labs-news-import-41fe5d9b8b28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.guidelabs.ai/post/block-causal-diffusion-language-model/",
+    "canonical": "https://www.guidelabs.ai/post/block-causal-diffusion-language-model/"
+  },
+  "title": "Causal Diffusion Language Models",
+  "summary": "We have developed a new type of discrete diffusion language model that replaces traditional full attention with block causal attention.",
+  "published_at": "2025-12-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:19:32.933709+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-19T15:50:29.163183+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-guide-labs/2025/12/bb/bbc9f2b61565b67f7a4012dbd997969d753dbb0e9dee94948dc95cce6a9e0b84/article.md",
+    "record": "articles/v1/ac/yc-guide-labs/2025/12/bb/bbc9f2b61565b67f7a4012dbd997969d753dbb0e9dee94948dc95cce6a9e0b84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15908,
+    "sha256": "sha256:7e55f2a9b7f9aace2ca79e6a21d7a89ec8a6fe504c05e8cf39c6fe3d8830cae3",
+    "normalized_content_hash": "sha256:d0f2b83d9089b307fa629cd03147ee270dddc21ef61413ac1cd6e98cefaffd06"
+  },
+  "provenance": {
+    "source_item_id": "d25d4dbc-ca79-4552-8d86-3d692a404692",
+    "external_id": "https://www.guidelabs.ai/post/block-causal-diffusion-language-model/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf75f03c1c7e7fbbff795b4e8e83a2d0e65783e85e5086cc73486d8fc3d894c9",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/ramp-and-stripe",
+    "canonical": "https://stripe.com/newsroom/news/ramp-and-stripe"
+  },
+  "title": "Ramp uses Stripe to power stablecoin payments and accounts",
+  "summary": "Stripe is powering two new stablecoin products from Ramp",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:06:18.712373+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:16:33.048642+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/07/cf/cf75f03c1c7e7fbbff795b4e8e83a2d0e65783e85e5086cc73486d8fc3d894c9/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/07/cf/cf75f03c1c7e7fbbff795b4e8e83a2d0e65783e85e5086cc73486d8fc3d894c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2764,
+    "sha256": "sha256:aa356c9511cf6e9fc6d989e3ed0286bcbe50a5c36ac4e7d7b3d81524266ee876",
+    "normalized_content_hash": "sha256:a1f35edb18f75dfc42d47cb438ed5d0da0f6dd8c5b498913c5536d3ba7609b8f"
+  },
+  "provenance": {
+    "source_item_id": "2fe168d5-6cf0-4270-8d52-faa5996d4f61",
+    "external_id": "https://stripe.com/newsroom/news/ramp-and-stripe"
+  }
+}

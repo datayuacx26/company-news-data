@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ab1a22d74f7bd9c9433065124804ca85b41501ed822b4a041afebdb26f7470e",
+  "company": {
+    "key": "new-york-times-company-the-common-stock",
+    "name": "New York Times Company (The)"
+  },
+  "source": {
+    "id": "new-york-times-company-the-common-stock-news-import-40fcef764cb2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nytco.com/press/a-new-reporter-on-metro/",
+    "canonical": "https://www.nytco.com/press/a-new-reporter-on-metro/"
+  },
+  "title": "A New Reporter on Metro",
+  "summary": "",
+  "published_at": "2026-08-05T20:45:00+00:00",
+  "first_seen_at": "2026-08-06T06:42:30.316570+00:00",
+  "fetched_at": "2026-08-06T06:42:32.987792+00:00",
+  "last_updated_at": "2026-08-13T05:35:56.074695+00:00",
+  "paths": {
+    "article": "articles/v1/92/new-york-times-company-the-common-stock/2026/08/4a/4ab1a22d74f7bd9c9433065124804ca85b41501ed822b4a041afebdb26f7470e/article.md",
+    "record": "articles/v1/92/new-york-times-company-the-common-stock/2026/08/4a/4ab1a22d74f7bd9c9433065124804ca85b41501ed822b4a041afebdb26f7470e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4043,
+    "sha256": "sha256:4a8cdae06b8bf05c2ba7f6860752f90682f51107aa53502e6b9f7bdc71bcc7ba",
+    "normalized_content_hash": "sha256:0143e4b605470f455fc1771f70d18100c9b6b2bf88c85869cc7fb630003733fc"
+  },
+  "provenance": {
+    "source_item_id": "7b73d01f-71ba-457a-a406-aba649c22187",
+    "external_id": "https://www.nytco.com/press/a-new-reporter-on-metro/"
+  }
+}

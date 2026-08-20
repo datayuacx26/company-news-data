@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ab451916e9d62ada9f401b2be779e33a031e88df36d6a7e761b69efc247c2ef",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/managing-saas-access-control-with-stripe-entitlements-api",
+    "canonical": "https://stripe.dev/blog/managing-saas-access-control-with-stripe-entitlements-api"
+  },
+  "title": "Managing SaaS access control with Stripe’s Entitlements API",
+  "summary": "This post introduces how to manage SaaS feature entitlements efficiently using the Stripe API. It explains why it's important to provide multiple plans to your customers and how to differentiate each plan through entitlement management. With the Stripe API, managing entitlements can become more straightforward, allowing you to focus on building and improving your core services.",
+  "published_at": "2024-10-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/10/1a/1ab451916e9d62ada9f401b2be779e33a031e88df36d6a7e761b69efc247c2ef/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/10/1a/1ab451916e9d62ada9f401b2be779e33a031e88df36d6a7e761b69efc247c2ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4508,
+    "sha256": "sha256:998c487266c73c066ecffff111e91af29dd26b598f62fcd92aaf97133a9eadd8",
+    "normalized_content_hash": "sha256:e126d6d9ba100eb23cbac6b5e0edf787b1526ebd395066432dccf133a1582250"
+  },
+  "provenance": {
+    "source_item_id": "20ba3cf0-b4ef-4dc8-8afa-0be5be7c195e",
+    "external_id": "https://stripe.dev/blog/managing-saas-access-control-with-stripe-entitlements-api"
+  }
+}

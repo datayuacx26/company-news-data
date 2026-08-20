@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a88f2a6c5d1b06eb5e4d7b1837ac8ca0936f544430514b14b712cb1653295ee",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/strategies-avoiding-browser-fingerprint-detection",
+    "canonical": "https://anakin.io/blog/strategies-avoiding-browser-fingerprint-detection"
+  },
+  "title": "6 Ways to Reduce Browser Fingerprint Detection",
+  "summary": "Learn strategies for avoiding browser fingerprint detection with canvas/WebGL spoofing, TLS rotation, proxy-geo alignment,…",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:48:15.187734+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/07/2a/2a88f2a6c5d1b06eb5e4d7b1837ac8ca0936f544430514b14b712cb1653295ee/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/07/2a/2a88f2a6c5d1b06eb5e4d7b1837ac8ca0936f544430514b14b712cb1653295ee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27380,
+    "sha256": "sha256:83bfdf9700726d34020f34b312e6c962495370f88f055e5051f6667c58d2482b",
+    "normalized_content_hash": "sha256:86cafe96523d007d2dd6e837fbcdbed8aafdb9c8640714e1b22450c8caf955d3"
+  },
+  "provenance": {
+    "source_item_id": "9c16dd35-1f78-492f-a880-e0df3f23c10d",
+    "external_id": "https://anakin.io/blog/strategies-avoiding-browser-fingerprint-detection"
+  }
+}

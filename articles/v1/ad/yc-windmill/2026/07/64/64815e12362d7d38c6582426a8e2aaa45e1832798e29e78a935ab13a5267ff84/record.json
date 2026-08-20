@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64815e12362d7d38c6582426a8e2aaa45e1832798e29e78a935ab13a5267ff84",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/duckdb-macro-libraries",
+    "canonical": "https://www.windmill.dev/changelog/duckdb-macro-libraries"
+  },
+  "title": "Workspace DuckDB macro libraries",
+  "summary": "Share SQL logic across a workspace with macro libraries. A DuckDB script annotated `// macros` publishes engine-native CREATE MACRO definitions on deploy; any DuckDB script that calls a registered macro gets the definitions injected at run time, with no import or compile step. Includes editor autocomplete, a workspace macros explorer, and library nodes in the pipeline graph.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/64/64815e12362d7d38c6582426a8e2aaa45e1832798e29e78a935ab13a5267ff84/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/64/64815e12362d7d38c6582426a8e2aaa45e1832798e29e78a935ab13a5267ff84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2037,
+    "sha256": "sha256:bfeab33ed33ebdea8fc503df6c3e37a6b09587b66cf3d7eec521474380659356",
+    "normalized_content_hash": "sha256:47d3e9161415fc733abb51612daa7be238d46a7534f18a88b732e4d142fa2aaf"
+  },
+  "provenance": {
+    "source_item_id": "9f75d538-2dbf-4bfb-aa37-f414f712c01f",
+    "external_id": "https://www.windmill.dev/changelog/duckdb-macro-libraries"
+  }
+}

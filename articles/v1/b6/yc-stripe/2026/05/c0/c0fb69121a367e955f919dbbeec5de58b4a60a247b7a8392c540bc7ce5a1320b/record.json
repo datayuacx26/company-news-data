@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0fb69121a367e955f919dbbeec5de58b4a60a247b7a8392c540bc7ce5a1320b",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/learnings-from-building-with-agents-stripe-projects",
+    "canonical": "https://stripe.dev/blog/learnings-from-building-with-agents-stripe-projects"
+  },
+  "title": "Learnings from init to deploy",
+  "summary": "This post is a follow-up to last week’s “From init to deploy: building with agents and Stripe Projects” and explores the learnings gained along the way.",
+  "published_at": "2026-05-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:15:27.754583+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/c0/c0fb69121a367e955f919dbbeec5de58b4a60a247b7a8392c540bc7ce5a1320b/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/c0/c0fb69121a367e955f919dbbeec5de58b4a60a247b7a8392c540bc7ce5a1320b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3713,
+    "sha256": "sha256:e71ed1403dbeb132affd0285b9a21b69017aceb209beae2701df4a7c70dc592a",
+    "normalized_content_hash": "sha256:5172f1ddc3a8c2630db349b33f159b24777f7b48d333bbc90a4b4f6ef0f0bfe9"
+  },
+  "provenance": {
+    "source_item_id": "a4674145-17ae-47ca-9368-d8b607b60cb3",
+    "external_id": "https://stripe.dev/blog/learnings-from-building-with-agents-stripe-projects"
+  }
+}

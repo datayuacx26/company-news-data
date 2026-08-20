@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95a7f4e1252c5177a32092b059976b835f41b2ad3814d89babb33dcceaae2640",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/increase-performance-pgvector-hnsw",
+    "canonical": "https://supabase.com/blog/increase-performance-pgvector-hnsw"
+  },
+  "title": "pgvector v0.5.0: Faster semantic search with HNSW indexes",
+  "summary": "Increase performance in pgvector using HNSW indexes",
+  "published_at": "2023-09-06T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2023/09/95/95a7f4e1252c5177a32092b059976b835f41b2ad3814d89babb33dcceaae2640/article.md",
+    "record": "articles/v1/b1/yc-supabase/2023/09/95/95a7f4e1252c5177a32092b059976b835f41b2ad3814d89babb33dcceaae2640/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10981,
+    "sha256": "sha256:19f75c4b5543f500ca9e64e01bb2895de398b7e3957aaffb3f10720a07b4bd9e",
+    "normalized_content_hash": "sha256:6ee84520d271c10785506107dbf2bc2a51ea449876be2d516c10236b6dca5a67"
+  },
+  "provenance": {
+    "source_item_id": "88fba09f-8e77-4dcd-9cab-d40a6e91fbd8",
+    "external_id": "https://supabase.com/blog/increase-performance-pgvector-hnsw"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0cbd6e0fc4784711e95a855dc8d6d987532389fead2f20eddf0bdec3f36e7253",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/daft-v0-7-15",
+    "canonical": "https://www.eventual.ai/blog/daft-v0-7-15"
+  },
+  "title": "Daft v0.7.15: Safe Type Conversions, Flight Shuffle Optimizations, and PostgreSQL Support",
+  "summary": "Daft v0.7.15 ships with try_cast for safe type conversion, Flight shuffle LZ4 compression, UUIDv7 timestamp extraction, and PostgreSQL support.",
+  "published_at": "2026-06-07T08:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:47:26.048705+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:55.098755+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/06/0c/0cbd6e0fc4784711e95a855dc8d6d987532389fead2f20eddf0bdec3f36e7253/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/06/0c/0cbd6e0fc4784711e95a855dc8d6d987532389fead2f20eddf0bdec3f36e7253/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12304,
+    "sha256": "sha256:ef4321674ae5b70680def38d6afcea6068a81ee347ed8194a3d5e7a3edd7a44a",
+    "normalized_content_hash": "sha256:8e61dce2abaa46f9ea42fda04b041cbb4f78a42bbb55195187523dfeb0a10e5f"
+  },
+  "provenance": {
+    "source_item_id": "f8d363f4-ec01-4c14-8d9d-e94d9764634a",
+    "external_id": "https://www.eventual.ai/blog/daft-v0-7-15"
+  }
+}

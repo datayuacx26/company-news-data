@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the9-limited-american-depository-shares",
+    "name": "The9 Limited American Depository Shares"
+  },
+  "record_count": 23,
+  "first_published_at": "2024-05-20T08:00:00+00:00",
+  "last_published_at": "2026-08-17T12:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9a/the9-limited-american-depository-shares/index/pages/000001.json",
+        "record_count": 23,
+        "byte_count": 29694,
+        "sha256": "sha256:dc27695aa44e080bcb63470435d6d82ac45ec8b337908399c0766a1e4192f930",
+        "newest_at": "2026-08-17T12:30:00+00:00",
+        "oldest_at": "2024-05-20T08:00:00+00:00"
+      }
+    ]
+  }
+}

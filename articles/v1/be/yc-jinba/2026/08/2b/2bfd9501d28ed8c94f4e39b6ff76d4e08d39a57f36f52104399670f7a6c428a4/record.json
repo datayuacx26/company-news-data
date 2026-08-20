@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bfd9501d28ed8c94f4e39b6ff76d4e08d39a57f36f52104399670f7a6c428a4",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/deterministic-workflows-auditors-cost-reduction",
+    "canonical": "https://jinba.io/blog/deterministic-workflows-auditors-cost-reduction"
+  },
+  "title": "Why Deterministic Workflows Solve Audit Compliance and LLM Cost Collapse at Once",
+  "summary": "Enterprise teams evaluating deterministic vs agentic AI treat auditability and cost as separate wins. They are not. A fixed, versioned pipeline that logs every decision for an auditor is, by construction, the same pipeline that eliminates repeated model calls, retries, and self-correction loops inflating the inference bill. Uber's engineering org burned its full-year AI budget by April 2026 on agentic workflows — not because tokens got expensive, but because agentic architecture multiplies token volume by design.",
+  "published_at": "2026-08-17T12:40:43.069+00:00",
+  "first_seen_at": "2026-08-17T12:47:30.522971+00:00",
+  "fetched_at": "2026-08-17T12:47:31.996178+00:00",
+  "last_updated_at": "2026-08-20T00:02:43.534284+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/2b/2bfd9501d28ed8c94f4e39b6ff76d4e08d39a57f36f52104399670f7a6c428a4/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/2b/2bfd9501d28ed8c94f4e39b6ff76d4e08d39a57f36f52104399670f7a6c428a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17321,
+    "sha256": "sha256:70d1501ad1cc58ec0c30fc6b492f179ab900dc4fe613d24a7ad51fa148efc14b",
+    "normalized_content_hash": "sha256:9764ac2a47699db3b6a3c982f5c9a3c6a4247ea64b23dd8be9823d392197bbf2"
+  },
+  "provenance": {
+    "source_item_id": "9e9398ab-fc2f-4872-9ddb-0209e7dbd7d3",
+    "external_id": "https://jinba.io/blog/deterministic-workflows-auditors-cost-reduction"
+  }
+}

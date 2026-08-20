@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d923c8e95e51020256e9c5534d44147ec083bdb9b2413d1cf84f1ebf9f04573b",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ai-agent-reasoning-effort",
+    "canonical": "https://www.windmill.dev/changelog/ai-agent-reasoning-effort"
+  },
+  "title": "Reasoning effort for AI agent steps",
+  "summary": "AI agent steps can now use extended thinking, configured with a model-adaptive reasoning effort dropdown in the provider/model picker. Supported on Anthropic Claude, OpenAI o-series and GPT-5, Azure OpenAI, Google AI Gemini, AWS Bedrock Claude, OpenRouter, DeepSeek, and Mistral, with an explicit off option. Reasoning tokens are billed, and thinking is streamed into a collapsible Thinking box in chat mode.",
+  "published_at": "2026-07-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/d9/d923c8e95e51020256e9c5534d44147ec083bdb9b2413d1cf84f1ebf9f04573b/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/d9/d923c8e95e51020256e9c5534d44147ec083bdb9b2413d1cf84f1ebf9f04573b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1729,
+    "sha256": "sha256:6b0960bb7eedb51b3e9914d8be00ffa2a24b40869477f1b20a08398168bc3a28",
+    "normalized_content_hash": "sha256:ca34c685be9808303c714aad37c2a9c88d024beca7c05e4e4d88d4abd519f6a3"
+  },
+  "provenance": {
+    "source_item_id": "13433b06-cf9a-43da-b227-dabd065e6c31",
+    "external_id": "https://www.windmill.dev/changelog/ai-agent-reasoning-effort"
+  }
+}

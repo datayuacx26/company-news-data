@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d43a95500b87d4be748bcd7a554692376d45b6efdd8847643e060025e347bbeb",
+  "company": {
+    "key": "yc-decentro",
+    "name": "Decentro"
+  },
+  "source": {
+    "id": "yc-decentro-news-import-cdeb59691175",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.decentro.tech/changelog/flow-release-notes-388",
+    "canonical": "https://docs.decentro.tech/changelog/flow-release-notes-388"
+  },
+  "title": "Flow Release Notes | Version 3.8.8",
+  "summary": "Feature Name : Remaining Representation Attempts Count for Presentations Deployment Date: April 13th, 2026 We have enhanced the remaining_representation_attempts logic in Presentation Status API and callbacks to make it more accurate and aligned with NPCI rules. Representation attempts are now dynam...",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:33:54.013008+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-20T01:35:43.076429+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-decentro/2026/07/d4/d43a95500b87d4be748bcd7a554692376d45b6efdd8847643e060025e347bbeb/article.md",
+    "record": "articles/v1/8a/yc-decentro/2026/07/d4/d43a95500b87d4be748bcd7a554692376d45b6efdd8847643e060025e347bbeb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1725,
+    "sha256": "sha256:c4dfef22ef26e1c1ad1a1265cff2de294f8b31cb32a70794a4705bb582afd814",
+    "normalized_content_hash": "sha256:417e9f0eaff4f53704c5dc0c9b16c61aa844f9567b69964bd1814623184745f6"
+  },
+  "provenance": {
+    "source_item_id": "f098c91a-5a1e-475e-a83f-5e4e7ff88d9e",
+    "external_id": "https://docs.decentro.tech/changelog/flow-release-notes-388"
+  }
+}

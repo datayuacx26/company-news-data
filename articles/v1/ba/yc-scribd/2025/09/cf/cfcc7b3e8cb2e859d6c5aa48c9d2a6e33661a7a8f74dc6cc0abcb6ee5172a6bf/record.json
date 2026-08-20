@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cfcc7b3e8cb2e859d6c5aa48c9d2a6e33661a7a8f74dc6cc0abcb6ee5172a6bf",
+  "company": {
+    "key": "yc-scribd",
+    "name": "Scribd"
+  },
+  "source": {
+    "id": "yc-scribd-atom-fa6b4578b753",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech.scribd.com/blog/2025/building-scalable-data-warehouse-backup-system.html",
+    "canonical": "https://tech.scribd.com/blog/2025/building-scalable-data-warehouse-backup-system.html"
+  },
+  "title": "Building a Scalable Data Lake Backup System with AWS",
+  "summary": "We designed and implemented a scalable, cost-optimized backup system for S3 data warehouses that runs automatically on a monthly schedule. The system handles petabytes of data across multiple databases and uses a hybrid approach: AWS Lambda for small workloads and ECS Fargate for larger ones. At its core, the pipeline performs incremental backups — copying only new or changed parquet files while always preserving delta logs — dramatically reducing costs and runtime compared to full backups. Data is validated through S3 Inventory manifests, processed in parallel, and stored in Glacier for long-term retention. To avoid data loss and reduce storage costs, we also implemented a safe deletion workflow. Files older than 90 days, successfully backed up, and no longer present in the source are tagged for lifecycle-based cleanup instead of being deleted immediately. This approach ensures reliability, efficiency, and safety: backups scale seamlessly from small to massive datasets, compute resources are right-sized, and storage is continuously optimized.",
+  "published_at": "2025-09-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:26:02.289998+00:00",
+  "fetched_at": "2026-07-28T21:59:43.481629+00:00",
+  "last_updated_at": "2026-08-20T02:21:21.168233+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-scribd/2025/09/cf/cfcc7b3e8cb2e859d6c5aa48c9d2a6e33661a7a8f74dc6cc0abcb6ee5172a6bf/article.md",
+    "record": "articles/v1/ba/yc-scribd/2025/09/cf/cfcc7b3e8cb2e859d6c5aa48c9d2a6e33661a7a8f74dc6cc0abcb6ee5172a6bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5751,
+    "sha256": "sha256:f59b9ed951e8f88d891e14499ea980f17426d3ddee1072e1164ec507f0a7eaa9",
+    "normalized_content_hash": "sha256:4ef9b01d1882df2d7f6f85a148fa51a2351945dc9096c75d9d08f2c03cbe3f16"
+  },
+  "provenance": {
+    "source_item_id": "147c77d2-8bdd-4dc2-8928-62cbe48a74a3",
+    "external_id": "https://tech.scribd.com/blog/2025/building-scalable-data-warehouse-backup-system"
+  }
+}

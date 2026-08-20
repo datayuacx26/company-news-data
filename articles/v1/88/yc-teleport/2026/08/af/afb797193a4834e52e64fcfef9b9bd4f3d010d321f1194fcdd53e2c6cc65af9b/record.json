@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afb797193a4834e52e64fcfef9b9bd4f3d010d321f1194fcdd53e2c6cc65af9b",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/secretless-github-actions-for-kubernetes/",
+    "canonical": "https://goteleport.com/blog/secretless-github-actions-for-kubernetes/"
+  },
+  "title": "How to Use Teleport and GitHub Actions to Deploy to Kubernetes Without Shared Secrets",
+  "summary": "Learn how use GitHub Actions to deploy to Kubernetes using short-lived, verifiable identities.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T18:17:57.160881+00:00",
+  "fetched_at": "2026-08-10T18:17:58.271876+00:00",
+  "last_updated_at": "2026-08-20T00:27:53.070714+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/08/af/afb797193a4834e52e64fcfef9b9bd4f3d010d321f1194fcdd53e2c6cc65af9b/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/08/af/afb797193a4834e52e64fcfef9b9bd4f3d010d321f1194fcdd53e2c6cc65af9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22363,
+    "sha256": "sha256:fae772bbe001339f5c9d9c0935f9cc3a5ad2ff5daacf0a3aa91ff088194bc9ed",
+    "normalized_content_hash": "sha256:106021581d86b26b133ffda8ce69af8fd1838dd1bcbaff9f23fab1ce83d52825"
+  },
+  "provenance": {
+    "source_item_id": "904e5cc4-d3b1-4073-a7ca-807885587f07",
+    "external_id": "https://goteleport.com/blog/secretless-github-actions-for-kubernetes/"
+  }
+}

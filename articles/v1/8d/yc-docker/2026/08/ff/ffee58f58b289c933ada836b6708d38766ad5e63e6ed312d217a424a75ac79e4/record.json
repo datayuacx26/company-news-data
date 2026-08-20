@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffee58f58b289c933ada836b6708d38766ad5e63e6ed312d217a424a75ac79e4",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/empty-sandboxes-break-developer-experience/",
+    "canonical": "https://www.docker.com/blog/empty-sandboxes-break-developer-experience/"
+  },
+  "title": "Empty sandboxes break developer experience",
+  "summary": "Learn how Docker Sandbox kits turn empty sandboxes into productive development environments with repeatable tooling, credentials, and configuration.",
+  "published_at": "2026-08-03T13:00:00+00:00",
+  "first_seen_at": "2026-08-03T13:07:48.193676+00:00",
+  "fetched_at": "2026-08-03T14:10:52.670502+00:00",
+  "last_updated_at": "2026-08-20T03:29:18.763507+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/08/ff/ffee58f58b289c933ada836b6708d38766ad5e63e6ed312d217a424a75ac79e4/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/08/ff/ffee58f58b289c933ada836b6708d38766ad5e63e6ed312d217a424a75ac79e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8805,
+    "sha256": "sha256:865e2f0648b05051fa22c358e7a3e63bb1d6f61e2f9a93a2e30fff9053ada79e",
+    "normalized_content_hash": "sha256:dc03249e4db33ec506be1164f0d56f3ec2d0728eb92e5ba425c3eda7ae3b4af1"
+  },
+  "provenance": {
+    "source_item_id": "02a32da7-b404-438d-8ef1-8fa1ecff0955",
+    "external_id": "https://www.docker.com/?p=92667"
+  }
+}

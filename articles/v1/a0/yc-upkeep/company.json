@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-upkeep",
+    "name": "UpKeep"
+  },
+  "record_count": 32,
+  "first_published_at": "2025-11-20T00:00:00+00:00",
+  "last_published_at": "2026-08-13T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a0/yc-upkeep/index/pages/000001.json",
+        "record_count": 32,
+        "byte_count": 32433,
+        "sha256": "sha256:4af3186ea10f9d45d1cebc293c3c121a4709af42fe51c2f73ea4aea6ddbc7f97",
+        "newest_at": "2026-08-13T04:50:18.525956+00:00",
+        "oldest_at": "2025-11-20T00:00:00+00:00"
+      }
+    ]
+  }
+}

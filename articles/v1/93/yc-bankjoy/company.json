@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-bankjoy",
+    "name": "Bankjoy"
+  },
+  "record_count": 18,
+  "first_published_at": "2024-05-29T00:00:00+00:00",
+  "last_published_at": "2026-06-03T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/93/yc-bankjoy/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 20171,
+        "sha256": "sha256:7d145f952bc33e61c8c4218432dc5cf9c690d46642150f073ca3bf3ea7097e9d",
+        "newest_at": "2026-06-03T00:00:00+00:00",
+        "oldest_at": "2024-05-29T00:00:00+00:00"
+      }
+    ]
+  }
+}

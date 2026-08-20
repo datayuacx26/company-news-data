@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82c5f802c2a2990c301768c7b809cc98ca863f8609a6a5a3f52cd816a3ccde01",
+  "company": {
+    "key": "new-york-times-company-the-common-stock",
+    "name": "New York Times Company (The)"
+  },
+  "source": {
+    "id": "new-york-times-company-the-common-stock-news-import-40fcef764cb2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nytco.com/press/new-hires-on-audience/",
+    "canonical": "https://www.nytco.com/press/new-hires-on-audience/"
+  },
+  "title": "New Hires on Audience",
+  "summary": "",
+  "published_at": "2026-07-16T19:30:00+00:00",
+  "first_seen_at": "2026-07-22T05:58:05.267779+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-03T11:55:18.913828+00:00",
+  "paths": {
+    "article": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/82/82c5f802c2a2990c301768c7b809cc98ca863f8609a6a5a3f52cd816a3ccde01/article.md",
+    "record": "articles/v1/92/new-york-times-company-the-common-stock/2026/07/82/82c5f802c2a2990c301768c7b809cc98ca863f8609a6a5a3f52cd816a3ccde01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7353,
+    "sha256": "sha256:07eb8fe41598ff2854b76360b52ecfcc88fa626eb6a55c935125ecb155ee5135",
+    "normalized_content_hash": "sha256:377afc18e9a317c17d68abf54b99366e6ba0ac2186cd595a7f331fe0770dc8b1"
+  },
+  "provenance": {
+    "source_item_id": "2fe3f7a2-77b0-4dfb-a01f-109d6e769ff3",
+    "external_id": "https://www.nytco.com/press/new-hires-on-audience/"
+  }
+}

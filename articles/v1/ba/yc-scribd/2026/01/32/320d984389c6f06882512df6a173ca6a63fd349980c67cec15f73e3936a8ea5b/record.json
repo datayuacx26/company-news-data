@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "320d984389c6f06882512df6a173ca6a63fd349980c67cec15f73e3936a8ea5b",
+  "company": {
+    "key": "yc-scribd",
+    "name": "Scribd"
+  },
+  "source": {
+    "id": "yc-scribd-atom-ed6db55b60f0",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech.scribd.com/blog/2026/photodna-csam-detection.html",
+    "canonical": "https://tech.scribd.com/blog/2026/photodna-csam-detection.html"
+  },
+  "title": "Deploying a Cost-Effective, Scalable PhotoDNA System for CSAM Detection",
+  "summary": "Child safety is a non‑negotiable responsibility for any platform that hosts user‑generated content. Over the last year, we designed and deployed a production system that detects known Child Sexual Abuse Material (CSAM) using PhotoDNA perceptual hashes, integrates with the National Center for Missing and Exploted Children’s (NCMEC) reporting system, and scales efficiently across our ingestion surfaces. This post explains the problem we set out to solve, how PhotoDNA hashing works, the online child-protection ecosystem (NCMEC, Tech Coalition, Project Lantern), our architecture and operational model, cost considerations, and key learnings.",
+  "published_at": "2026-01-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:26:01.324176+00:00",
+  "fetched_at": "2026-07-28T22:23:25.248280+00:00",
+  "last_updated_at": "2026-08-20T02:12:12.070557+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-scribd/2026/01/32/320d984389c6f06882512df6a173ca6a63fd349980c67cec15f73e3936a8ea5b/article.md",
+    "record": "articles/v1/ba/yc-scribd/2026/01/32/320d984389c6f06882512df6a173ca6a63fd349980c67cec15f73e3936a8ea5b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10272,
+    "sha256": "sha256:0e4fcc548e8a740a52d4f5a61d7d8849db838b93f007466a3f41379ca3012111",
+    "normalized_content_hash": "sha256:5823780507a4b2d6ed1415333f15e6d0ae131e43397e3c4946ec2b538e5dc36f"
+  },
+  "provenance": {
+    "source_item_id": "349c2438-6870-4bf3-90fa-2cef496b5458",
+    "external_id": "https://tech.scribd.com/blog/2026/photodna-csam-detection"
+  }
+}

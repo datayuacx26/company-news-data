@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba11a7dc85c2611a5a7aa9d180b22db8c1969a6e60a81e5087dc2613e11d9350",
+  "company": {
+    "key": "yc-coval",
+    "name": "Coval"
+  },
+  "source": {
+    "id": "yc-coval-news-import-66f2770dd546",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coval.ai/blog/word-error-rate-stt-2026",
+    "canonical": "https://www.coval.ai/blog/word-error-rate-stt-2026/"
+  },
+  "title": "Word Error Rate 2026: The Production Accuracy Filter for STT",
+  "summary": "Word error rate (WER) is the production filter for STT models. What it measures, why it matters for voice agents, and what Coval benchmark data shows.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T15:11:00.592145+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-20T02:08:50.828293+00:00",
+  "paths": {
+    "article": "articles/v1/a0/yc-coval/2026/07/ba/ba11a7dc85c2611a5a7aa9d180b22db8c1969a6e60a81e5087dc2613e11d9350/article.md",
+    "record": "articles/v1/a0/yc-coval/2026/07/ba/ba11a7dc85c2611a5a7aa9d180b22db8c1969a6e60a81e5087dc2613e11d9350/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15531,
+    "sha256": "sha256:5472ffe99a26afaf0f4853161c5c4c13a4194b5e50510efa1dc6b37d1350f825",
+    "normalized_content_hash": "sha256:d2cc51bdadf851ddc950da2925fbb2159cb78e24a6960780a1c4bd1fe872674a"
+  },
+  "provenance": {
+    "source_item_id": "53009c4e-7670-48eb-9fc7-b692318e83e2",
+    "external_id": "https://www.coval.ai/blog/word-error-rate-stt-2026/"
+  }
+}

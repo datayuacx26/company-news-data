@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "92faab5d994c134a663e3a4a0b6a6866d21644f517855e695cc4744f85dec76a",
+  "company": {
+    "key": "godaddy-inc-class-a-common-stock",
+    "name": "GoDaddy Inc."
+  },
+  "source": {
+    "id": "godaddy-inc-class-a-common-stock-news-import-cf537cccbea7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.godaddy.com/resources/news/beyond-sast-automating-ai-agent-security-with-nemesis",
+    "canonical": "https://www.godaddy.com/resources/news/beyond-sast-automating-ai-agent-security-with-nemesis"
+  },
+  "title": "Beyond SAST: Automating AI Agent Security with Nemesis",
+  "summary": "Nemesis is an automated adversarial red-teaming framework developed at GoDaddy to continuously stress-test our Generative AI agents against agent specific prompt injection, jailbreaks, and social engineering attacks. Nemesis tries to break our agents in a safe and observable environment before a real hacker does.",
+  "published_at": "2026-06-08T06:15:00+00:00",
+  "first_seen_at": "2026-07-21T21:50:09.149998+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-04T13:44:37.586053+00:00",
+  "paths": {
+    "article": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/06/92/92faab5d994c134a663e3a4a0b6a6866d21644f517855e695cc4744f85dec76a/article.md",
+    "record": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/06/92/92faab5d994c134a663e3a4a0b6a6866d21644f517855e695cc4744f85dec76a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10573,
+    "sha256": "sha256:cac7d7a8594e7121c47994751574b6d1a4b50465ffeafe37f99851353f21ff41",
+    "normalized_content_hash": "sha256:321d2b7abdf55db3924905ff9a4d49f1ca52bc24c5b7c58ad7a6e7a3ab5d6068"
+  },
+  "provenance": {
+    "source_item_id": "858c8f96-c199-43e5-80ac-b57843273f70",
+    "external_id": "https://www.godaddy.com/resources/news/beyond-sast-automating-ai-agent-security-with-nemesis"
+  }
+}

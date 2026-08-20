@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f37f9c9b71df627855fd5cf36583e23f389b05c1d7dcab273fcec805c16deb2a",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/security-advisory-automation-rag-elastic-agent-builder",
+    "canonical": "https://www.elastic.co/security-labs/security-advisory-automation-rag-elastic-agent-builder"
+  },
+  "title": "From vulnerability report to CVE draft in minutes: how Elastic automated security advisories with AI",
+  "summary": "Learn how Elastic automated CVE advisory drafting with RAG and Elastic Agent Builder, grounded in MITRE CWE and CAPEC data indexed in Elasticsearch.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-13T06:52:50.817093+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/f3/f37f9c9b71df627855fd5cf36583e23f389b05c1d7dcab273fcec805c16deb2a/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/f3/f37f9c9b71df627855fd5cf36583e23f389b05c1d7dcab273fcec805c16deb2a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 34482,
+    "sha256": "sha256:41161586165ba64f703331a021cdf9a48fa8ab818c52a4b8d7c26376318ae123",
+    "normalized_content_hash": "sha256:72d0b9203cd6651ff2d46236d404c9a6064d38d1fe17c914ea85805adf99488f"
+  },
+  "provenance": {
+    "source_item_id": "74bcda34-6d1e-4d4e-827e-c5baf1d270d0",
+    "external_id": "security-advisory-automation-rag-elastic-agent-builder"
+  }
+}

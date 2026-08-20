@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "39058aaff2147b23789e631e6fe41e4dc3bb8b9ed319b41b286750960ec819f6",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet",
+    "canonical": "https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet"
+  },
+  "title": "How Stripe uses graph search and state machines to auto-remediate a global database fleet",
+  "summary": "Discover how we modeled our MongoDB infrastructure as a traversable graph and then use pathfinding algorithms to dynamically compute and execute recovery plans. This automated approach reduced pager volume by 30% (~200 pages/year), eliminated 12 days of unhealthy shard states annually, and supports new shard layouts with zero manual effort.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/07/39/39058aaff2147b23789e631e6fe41e4dc3bb8b9ed319b41b286750960ec819f6/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/07/39/39058aaff2147b23789e631e6fe41e4dc3bb8b9ed319b41b286750960ec819f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4231,
+    "sha256": "sha256:1ec159da452833cd7b1828a36df72c158b9b0d256849928587dd96a00ba85f04",
+    "normalized_content_hash": "sha256:218544730d1ce8d8c28b7af9cc54fc0d5a6978f8d00f280bc2fa1b2e97aeb7f6"
+  },
+  "provenance": {
+    "source_item_id": "f9b31a77-b81f-4f33-9bf5-7f1e07656e64",
+    "external_id": "https://stripe.dev/blog/how-stripe-uses-graph-search-and-state-machines-to-auto-remediate-a-global-database-fleet"
+  }
+}

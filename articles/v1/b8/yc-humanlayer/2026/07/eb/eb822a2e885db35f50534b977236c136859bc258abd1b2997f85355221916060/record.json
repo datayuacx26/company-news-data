@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb822a2e885db35f50534b977236c136859bc258abd1b2997f85355221916060",
+  "company": {
+    "key": "yc-humanlayer",
+    "name": "HumanLayer"
+  },
+  "source": {
+    "id": "yc-humanlayer-news-import-a7d3053d1b06",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.humanlayer.dev/blog/long-context-isnt-the-answer",
+    "canonical": "https://www.humanlayer.dev/blog/long-context-isnt-the-answer"
+  },
+  "title": "Long-Context Isn't the Answer",
+  "summary": "We tried Opus with 1M context for coding agents, and now we're switching back. It turns out it's not about the size of the context window - it's about the quality.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T08:50:39.103220+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-19T19:49:59.988199+00:00",
+  "paths": {
+    "article": "articles/v1/b8/yc-humanlayer/2026/07/eb/eb822a2e885db35f50534b977236c136859bc258abd1b2997f85355221916060/article.md",
+    "record": "articles/v1/b8/yc-humanlayer/2026/07/eb/eb822a2e885db35f50534b977236c136859bc258abd1b2997f85355221916060/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8561,
+    "sha256": "sha256:f2c794415e21dece41b5b647a2415e634770e2e105af2a20189e1edc07dafb89",
+    "normalized_content_hash": "sha256:bcb836a39160878e843958a0c62618d1bfbc85f8af5ef63fc0a8a8fd748fe210"
+  },
+  "provenance": {
+    "source_item_id": "a99a65d7-c6c9-4ad8-83f1-eac915a70e76",
+    "external_id": "https://www.humanlayer.dev/blog/long-context-isnt-the-answer"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de5990798745fe7603c8857f3782fe295ee315f2ab25b4817c8f5fad924a79d7",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/bun-yaml-dos",
+    "canonical": "https://winfunc.com/hacktivity/bun-yaml-dos"
+  },
+  "title": "Exponential merge keys in Bun&apos;s YAML implementation leads to DoS",
+  "summary": "Bun.YAML.parse materialises YAML mappings by iterating every merge (<<) entry and blindly appending the referenced property list to the target object (s…",
+  "published_at": "2025-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2025/01/de/de5990798745fe7603c8857f3782fe295ee315f2ab25b4817c8f5fad924a79d7/article.md",
+    "record": "articles/v1/96/yc-winfunc/2025/01/de/de5990798745fe7603c8857f3782fe295ee315f2ab25b4817c8f5fad924a79d7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5344,
+    "sha256": "sha256:e29e52f166b60941b8bd3f0edb8f3b4b6d414cc47f6d49ea2fe2c6b0bb72633d",
+    "normalized_content_hash": "sha256:cd4b9b7fee3ac85bf87fc6a3d2e3d6bc17d5b61aecad5eb67473c1a59ab5df74"
+  },
+  "provenance": {
+    "source_item_id": "ba719f73-c3f6-4162-8409-2db8707e1fde",
+    "external_id": "https://winfunc.com/hacktivity/bun-yaml-dos"
+  }
+}

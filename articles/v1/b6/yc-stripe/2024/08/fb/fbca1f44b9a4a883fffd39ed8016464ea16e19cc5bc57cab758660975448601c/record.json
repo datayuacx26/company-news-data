@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fbca1f44b9a4a883fffd39ed8016464ea16e19cc5bc57cab758660975448601c",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/doing-more-with-less-reducing-requests-to-the-stripe-api",
+    "canonical": "https://stripe.dev/blog/doing-more-with-less-reducing-requests-to-the-stripe-api"
+  },
+  "title": "Doing more with less: Reducing requests to the Stripe API",
+  "summary": "The performance of an application can directly affect the customer experience. Using the expand feature along with caching techniques, developers can improve the performance of their application by reducing the number of API calls to Stripe.",
+  "published_at": "2024-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/08/fb/fbca1f44b9a4a883fffd39ed8016464ea16e19cc5bc57cab758660975448601c/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/08/fb/fbca1f44b9a4a883fffd39ed8016464ea16e19cc5bc57cab758660975448601c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4196,
+    "sha256": "sha256:40cb0454363f7ab051f6123bd7ac8353df34844f7c0dc0ba4e3ae6f3c52568c4",
+    "normalized_content_hash": "sha256:88d58ae8cbe6a4b0407d209970442e7654af35bfdf3d4dc87e070d8ee3f6b18e"
+  },
+  "provenance": {
+    "source_item_id": "0f895ad9-9865-40db-a641-34b82bc03b70",
+    "external_id": "https://stripe.dev/blog/doing-more-with-less-reducing-requests-to-the-stripe-api"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0354ee5ab1a01a8491ec9ae52972c4b71fd854d421a718bf3c8db4c564fbad5d",
+  "company": {
+    "key": "yc-sweetspot",
+    "name": "Sweetspot"
+  },
+  "source": {
+    "id": "yc-sweetspot-news-import-95ae5efddaf0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sweetspot.so/articles/zero-static-credentials/",
+    "canonical": "https://www.sweetspot.so/articles/zero-static-credentials/"
+  },
+  "title": "Zero Static Credentials: What Passwordless Infrastructure Looks Like in Practice",
+  "summary": "Learn how to eliminate static credentials from cloud infrastructure using workload identity federation, secrets management, and fine-grained authorization for CMMC compliance.",
+  "published_at": "2026-02-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:25:11.786592+00:00",
+  "fetched_at": "2026-07-28T22:19:36.583779+00:00",
+  "last_updated_at": "2026-08-19T21:14:36.529894+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-sweetspot/2026/02/03/0354ee5ab1a01a8491ec9ae52972c4b71fd854d421a718bf3c8db4c564fbad5d/article.md",
+    "record": "articles/v1/ac/yc-sweetspot/2026/02/03/0354ee5ab1a01a8491ec9ae52972c4b71fd854d421a718bf3c8db4c564fbad5d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9356,
+    "sha256": "sha256:53c78f53573f398061e9c8dce2e4c9df039f2b1d1c0b697c22f5e1b07091b100",
+    "normalized_content_hash": "sha256:bdab08dd195b25d5bc7d623e1b4890fd24f6cf2e93e0cd6f681ded4734e7afeb"
+  },
+  "provenance": {
+    "source_item_id": "5e891683-dac0-4d82-9cf6-c8356e1ab9bb",
+    "external_id": "https://www.sweetspot.so/articles/zero-static-credentials/"
+  }
+}

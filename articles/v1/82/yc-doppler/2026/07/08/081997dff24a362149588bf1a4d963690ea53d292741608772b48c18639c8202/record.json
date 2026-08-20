@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "081997dff24a362149588bf1a4d963690ea53d292741608772b48c18639c8202",
+  "company": {
+    "key": "yc-doppler",
+    "name": "Doppler"
+  },
+  "source": {
+    "id": "yc-doppler-news-import-86fd2de2d678",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.doppler.com/blog/5-pillars-of-secrets-management",
+    "canonical": "https://www.doppler.com/blog/5-pillars-of-secrets-management"
+  },
+  "title": "The 5 pillars of secrets management",
+  "summary": "A five-pillar framework for secure secrets management: centralized storage, governance and access control, orchestration and secure delivery, lifecycle automation, and visibility.",
+  "published_at": null,
+  "first_seen_at": "2026-07-31T20:03:16.362893+00:00",
+  "fetched_at": "2026-07-31T20:03:17.847039+00:00",
+  "last_updated_at": "2026-08-19T14:27:17.422364+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-doppler/2026/07/08/081997dff24a362149588bf1a4d963690ea53d292741608772b48c18639c8202/article.md",
+    "record": "articles/v1/82/yc-doppler/2026/07/08/081997dff24a362149588bf1a4d963690ea53d292741608772b48c18639c8202/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13901,
+    "sha256": "sha256:aea6eaa14dd7ee0032620032e58dea8c3230107757932971e5e7134ebdc2d1bb",
+    "normalized_content_hash": "sha256:379be4696d3a1e35286638d0e6faaf940453c3bdc840eb534111bbe1ff98784c"
+  },
+  "provenance": {
+    "source_item_id": "ae9f6396-c993-4df5-bca7-3d4bd02bbcfe",
+    "external_id": "https://www.doppler.com/blog/5-pillars-of-secrets-management"
+  }
+}

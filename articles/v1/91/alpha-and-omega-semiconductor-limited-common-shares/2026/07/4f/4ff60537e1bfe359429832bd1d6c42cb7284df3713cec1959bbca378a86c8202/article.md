@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "4ff60537e1bfe359429832bd1d6c42cb7284df3713cec1959bbca378a86c8202"
+company_key: "alpha-and-omega-semiconductor-limited-common-shares"
+company: "Alpha and Omega Semiconductor Limited Common Shares"
+source_id: "alpha-and-omega-semiconductor-limited-common-shares-rss-c75c286b6c68"
+canonical_url: "http://investor.aosmd.com/press-releases/press-release-details/2026/Alpha-and-Omega-Semiconductor-Announces-Appointment-of-New-Director/default.aspx"
+published_at: "2026-07-10T20:01:00+00:00"
+first_seen_at: "2026-07-25T01:37:38.330172+00:00"
+fetched_at: "2026-08-20T00:55:06.606727+00:00"
+content_hash: "sha256:3b5894937b6595f1b7d1c191af29706873e3c2bf5f7f0848d4761897b107e590"
+---
+
+# Alpha and Omega Semiconductor Announces Appointment of New Director
+
+

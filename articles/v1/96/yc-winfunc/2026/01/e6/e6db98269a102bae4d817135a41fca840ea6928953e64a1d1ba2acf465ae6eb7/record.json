@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6db98269a102bae4d817135a41fca840ea6928953e64a1d1ba2acf465ae6eb7",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-21386",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-21386"
+  },
+  "title": "Private channel enumeration through /mute error messages (CVE-2026-21386)",
+  "summary": "The /mute slash command accepts an optional channel handle, strips the leading , and looks up the named channel with Store().Channel().GetByName(channel…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:25.720028+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/e6/e6db98269a102bae4d817135a41fca840ea6928953e64a1d1ba2acf465ae6eb7/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/e6/e6db98269a102bae4d817135a41fca840ea6928953e64a1d1ba2acf465ae6eb7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5188,
+    "sha256": "sha256:cb5669e17adcfb350376a5012ef3b549303910c04618101bc7b8c0a3ee6aa883",
+    "normalized_content_hash": "sha256:c0c027a397a3208644d0056da4d5a206c7507bd9c9bb351b26f98179646cb25d"
+  },
+  "provenance": {
+    "source_item_id": "e6879a8e-dafb-486f-b183-f0e35d406735",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-21386"
+  }
+}

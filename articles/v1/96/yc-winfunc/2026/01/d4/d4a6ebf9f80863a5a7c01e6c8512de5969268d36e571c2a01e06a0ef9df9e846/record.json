@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4a6ebf9f80863a5a7c01e6c8512de5969268d36e571c2a01e06a0ef9df9e846",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-28755",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-28755"
+  },
+  "title": "stream accepts revoked client certificates despite ssl_ocsp on (CVE-2026-28755)",
+  "summary": "When a stream listener is configured with both sslverifyclient on and sslocsp on, nginx performs the OCSP request and learns that the presented client c…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:25.720028+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/d4/d4a6ebf9f80863a5a7c01e6c8512de5969268d36e571c2a01e06a0ef9df9e846/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/d4/d4a6ebf9f80863a5a7c01e6c8512de5969268d36e571c2a01e06a0ef9df9e846/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7932,
+    "sha256": "sha256:a8fa96f61ac62633392a95aeffbd7809aa18069504e6b9fabe04274fe154758c",
+    "normalized_content_hash": "sha256:d48d6b58dd8585cbbc05428b418d92d0fb48479f949da8dcf82e57d886927588"
+  },
+  "provenance": {
+    "source_item_id": "f1150f9c-df54-428b-b767-7d2ea72865da",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-28755"
+  }
+}

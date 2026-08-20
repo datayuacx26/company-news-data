@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e9875eafc98392c0505e4ddc3a4812aa7d2afe5f533aa06f941388de6224212b",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/aad-graph-activity-logs-threat-detection",
+    "canonical": "https://www.elastic.co/security-labs/aad-graph-activity-logs-threat-detection"
+  },
+  "title": "Azure AD Graph Activity Logs: Ingestion and threat detection to close the visibility gap",
+  "summary": "Azure AD Graph Activity Logs land in Elastic with full ECS parsing. Detect ROADrecon and AADInternals enumeration with ready-to-use detection rules.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-07T14:52:03.108937+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/e9/e9875eafc98392c0505e4ddc3a4812aa7d2afe5f533aa06f941388de6224212b/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/06/e9/e9875eafc98392c0505e4ddc3a4812aa7d2afe5f533aa06f941388de6224212b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28137,
+    "sha256": "sha256:59a5d253069f73223bc0639096d7a58a9ad589279cf104dcaee3975bb412a747",
+    "normalized_content_hash": "sha256:bf260ccabcf1b8bbb16523e9154be79603dd784ee37f76c3b843a8b4ec3a3fcb"
+  },
+  "provenance": {
+    "source_item_id": "311fbb93-f346-46d5-ad4d-8405ba731513",
+    "external_id": "aad-graph-activity-logs-threat-detection"
+  }
+}

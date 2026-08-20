@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "430467a225616acce65c7a75ed70f5e6a7b3533b21094309b8aeed7c15e35449",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler/"
+  },
+  "title": ".NET Continuous Profiler: Under the hood",
+  "summary": "Our .NET profiler was designed and implemented to run 24/7 in production, at any scale, with negligible impact. Here are the details of how we built it.",
+  "published_at": "2024-01-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:26:19.240569+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/01/43/430467a225616acce65c7a75ed70f5e6a7b3533b21094309b8aeed7c15e35449/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/01/43/430467a225616acce65c7a75ed70f5e6a7b3533b21094309b8aeed7c15e35449/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15404,
+    "sha256": "sha256:8e69dbbfc67f5184533fcc4802a044f7f1e0a620a22b3ef8070a98d5bb0594b2",
+    "normalized_content_hash": "sha256:57b2c5b2dc50a1cd1a06dc92d203d7f03fceeeeb1db122edbdb7e8b52b798de2"
+  },
+  "provenance": {
+    "source_item_id": "1b1703bc-8cd6-492d-8663-60ca6e6c5ded",
+    "external_id": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler/"
+  }
+}

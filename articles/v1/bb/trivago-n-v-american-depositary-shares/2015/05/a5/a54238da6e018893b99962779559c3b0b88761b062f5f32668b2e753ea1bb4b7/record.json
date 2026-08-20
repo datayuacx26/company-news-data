@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a54238da6e018893b99962779559c3b0b88761b062f5f32668b2e753ea1bb4b7",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2015-05-28-introduce-webpack/",
+    "canonical": "https://tech.trivago.com/post/2015-05-28-introduce-webpack/"
+  },
+  "title": "Risk-free Migration From Assetic to Webpack",
+  "summary": "Learn how we introduced webpack to build our JavaScript assets. One of the main challenges was to run both Assetic and webpack in parallel for some time, in order to run tests and to make sure n...",
+  "published_at": "2015-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:44.458928+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/05/a5/a54238da6e018893b99962779559c3b0b88761b062f5f32668b2e753ea1bb4b7/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/05/a5/a54238da6e018893b99962779559c3b0b88761b062f5f32668b2e753ea1bb4b7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15381,
+    "sha256": "sha256:f71115d8f26034e9d4fefae0fe042c037007146eff77377ed8baefe6129f237e",
+    "normalized_content_hash": "sha256:5e745cfb22d25eae7bd50e440e3515b62d3b31a4961aaa54cd996af95855382b"
+  },
+  "provenance": {
+    "source_item_id": "cab2bd8c-930b-4acb-bf55-8db8fc6aa598",
+    "external_id": "https://tech.trivago.com/post/2015-05-28-introduce-webpack/"
+  }
+}

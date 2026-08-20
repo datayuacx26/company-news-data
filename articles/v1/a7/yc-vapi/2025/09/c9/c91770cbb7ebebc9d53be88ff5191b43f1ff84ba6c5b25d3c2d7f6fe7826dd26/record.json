@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c91770cbb7ebebc9d53be88ff5191b43f1ff84ba6c5b25d3c2d7f6fe7826dd26",
+  "company": {
+    "key": "yc-vapi",
+    "name": "Vapi"
+  },
+  "source": {
+    "id": "yc-vapi-news-import-8dd0a49247bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://vapi.ai/blog/how-we-built-vapi-s-voice-ai-pipeline-part-2",
+    "canonical": "https://vapi.ai/blog/how-we-built-vapi-s-voice-ai-pipeline-part-2"
+  },
+  "title": "How We Built Vapi's Voice AI Pipeline: Part 2 - Vapi AI Blog",
+  "summary": "Explore Part 2 of our guide to building a streaming voice AI. We break down the engineering behind VAD, audio preprocessing, STT, and advanced endpointing solutions.",
+  "published_at": "2025-09-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:51:02.715878+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-19T20:20:20.967962+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-vapi/2025/09/c9/c91770cbb7ebebc9d53be88ff5191b43f1ff84ba6c5b25d3c2d7f6fe7826dd26/article.md",
+    "record": "articles/v1/a7/yc-vapi/2025/09/c9/c91770cbb7ebebc9d53be88ff5191b43f1ff84ba6c5b25d3c2d7f6fe7826dd26/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7871,
+    "sha256": "sha256:ec532ba37a518512e073d64315a58f89b3204d17a873314733ee7690d08796cb",
+    "normalized_content_hash": "sha256:1563df4de3f32331f5168757db316b439a4149755aac97b59801bc1063d4c147"
+  },
+  "provenance": {
+    "source_item_id": "c2c32de4-b711-4709-b04f-f0a50737f814",
+    "external_id": "https://vapi.ai/blog/how-we-built-vapi-s-voice-ai-pipeline-part-2"
+  }
+}

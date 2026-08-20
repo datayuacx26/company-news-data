@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "895262bbe227287fe8596ccf045922c7036b9e5a8fa12f61e87c04363ee9cc07",
+  "company": {
+    "key": "yc-aspect-inc",
+    "name": "Aspect"
+  },
+  "source": {
+    "id": "yc-aspect-inc-news-import-ad28d86e40e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aspect.inc/blog/post-production/how-to-build-automated-backups-with-rsync-and-rclone",
+    "canonical": "https://aspect.inc/blog/post-production/how-to-build-automated-backups-with-rsync-and-rclone"
+  },
+  "title": "How to Build Automated Backups with rsync and rclone",
+  "summary": "Build a reliable post-production backup workflow with rsync for local copies, rclone for cloud offsite storage, scheduling, logging, verification, and failure alerts.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T23:35:05.778838+00:00",
+  "fetched_at": "2026-08-14T23:35:06.585712+00:00",
+  "last_updated_at": "2026-08-19T11:36:25.335736+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-aspect-inc/2026/08/89/895262bbe227287fe8596ccf045922c7036b9e5a8fa12f61e87c04363ee9cc07/article.md",
+    "record": "articles/v1/ad/yc-aspect-inc/2026/08/89/895262bbe227287fe8596ccf045922c7036b9e5a8fa12f61e87c04363ee9cc07/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22959,
+    "sha256": "sha256:00ee8eee2a97d792f0fbbc40c43210604a4f3479c0949e0e55f99e69551a75b1",
+    "normalized_content_hash": "sha256:2526d460b3b9b8e69adc120c6965206fa1a1f09d9e245f54b03fd0ae3b959455"
+  },
+  "provenance": {
+    "source_item_id": "2c3c388d-1a16-4365-a560-6aea5253f8d0",
+    "external_id": "https://aspect.inc/blog/post-production/how-to-build-automated-backups-with-rsync-and-rclone"
+  }
+}

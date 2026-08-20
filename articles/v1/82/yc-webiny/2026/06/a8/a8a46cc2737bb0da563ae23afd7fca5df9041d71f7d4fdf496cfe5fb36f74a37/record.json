@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8a46cc2737bb0da563ae23afd7fca5df9041d71f7d4fdf496cfe5fb36f74a37",
+  "company": {
+    "key": "yc-webiny",
+    "name": "Webiny"
+  },
+  "source": {
+    "id": "yc-webiny-news-import-09ea055e8444",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.webiny.com/blog/a-smarter-way-to-give-llms-project-context",
+    "canonical": "https://www.webiny.com/blog/a-smarter-way-to-give-llms-project-context"
+  },
+  "title": "Scaling AI Context: Manifest-Based Prompt Architecture for Production LLM Applications | Webiny",
+  "summary": "Learn how Webiny built a scalable AI content generation system using manifest-based prompts, on-demand file retrieval, image querying, caching, telemetry, and tool calling to reduce token costs and improve performance.",
+  "published_at": "2026-06-02T12:44:54.095+00:00",
+  "first_seen_at": "2026-07-22T19:34:09.199841+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T20:00:48.935724+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-webiny/2026/06/a8/a8a46cc2737bb0da563ae23afd7fca5df9041d71f7d4fdf496cfe5fb36f74a37/article.md",
+    "record": "articles/v1/82/yc-webiny/2026/06/a8/a8a46cc2737bb0da563ae23afd7fca5df9041d71f7d4fdf496cfe5fb36f74a37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15075,
+    "sha256": "sha256:48bde227226d952f4faa4aa010a28ed448cc321015322a379e3650331ef51973",
+    "normalized_content_hash": "sha256:3ea56bc4d680836ec12f74ae802197d799d13853914eab59cd95f8c749e6073c"
+  },
+  "provenance": {
+    "source_item_id": "b7cb8376-6f34-4ea7-9904-d772f9b291d8",
+    "external_id": "https://www.webiny.com/blog/a-smarter-way-to-give-llms-project-context"
+  }
+}

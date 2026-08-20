@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "843e1d6382a125a8379c6a39dc2fdafc541c0e77973bb6221d0db85b6cd04e0b",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2019-04-09-circuitbreakerwithawsstepfunctions/",
+    "canonical": "https://tech.trivago.com/post/2019-04-09-circuitbreakerwithawsstepfunctions/"
+  },
+  "title": "Circuit Breaker with AWS Step Functions",
+  "summary": "At trivago, we have several workflows which interact with external services. The health and availability of external services can have an impact on keeping our workflows alive and responsive. Th...",
+  "published_at": "2019-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2019/04/84/843e1d6382a125a8379c6a39dc2fdafc541c0e77973bb6221d0db85b6cd04e0b/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2019/04/84/843e1d6382a125a8379c6a39dc2fdafc541c0e77973bb6221d0db85b6cd04e0b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6726,
+    "sha256": "sha256:c0dfd43ea79ffe38f8b0f15024f9e3e84de35549c28b5f235f393d558ecf4601",
+    "normalized_content_hash": "sha256:512c33f5ce34f99fc5711f2c8337713831ffc47642cee937deb1ce3cd1f59e8f"
+  },
+  "provenance": {
+    "source_item_id": "67ef1aec-e87f-48dd-a9c6-d7be4b15baeb",
+    "external_id": "https://tech.trivago.com/post/2019-04-09-circuitbreakerwithawsstepfunctions/"
+  }
+}

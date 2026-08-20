@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c94c59965d54f3c452876da67c92ee2fe5b9337ba87354000617f0da935b201",
+  "company": {
+    "key": "yc-aspect-inc",
+    "name": "Aspect"
+  },
+  "source": {
+    "id": "yc-aspect-inc-news-import-ad28d86e40e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aspect.inc/blog/post-production/how-to-verify-media-offloads-with-checksum-tools",
+    "canonical": "https://aspect.inc/blog/post-production/how-to-verify-media-offloads-with-checksum-tools"
+  },
+  "title": "How to Verify Media Offloads with Checksum Tools",
+  "summary": "Learn how to checksum-verify media offloads against source cards, choose xxHash, MD5, or SHA1, script comparisons, and log results for reliable production records.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T08:11:15.735962+00:00",
+  "fetched_at": "2026-07-30T08:11:16.568967+00:00",
+  "last_updated_at": "2026-08-06T07:17:16.721422+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-aspect-inc/2026/07/2c/2c94c59965d54f3c452876da67c92ee2fe5b9337ba87354000617f0da935b201/article.md",
+    "record": "articles/v1/ad/yc-aspect-inc/2026/07/2c/2c94c59965d54f3c452876da67c92ee2fe5b9337ba87354000617f0da935b201/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25133,
+    "sha256": "sha256:e6f2725c00f81e037c1c0e3d855e3c013e9c03a9542a4ef980c7a54e7c5f5d12",
+    "normalized_content_hash": "sha256:f8c82ae0548f809b2c77564cff683d810c1bd0f0d02c35c534bf560bab58ff15"
+  },
+  "provenance": {
+    "source_item_id": "29f6bc2d-c053-4fbf-93b3-89f81eb24294",
+    "external_id": "https://aspect.inc/blog/post-production/how-to-verify-media-offloads-with-checksum-tools"
+  }
+}

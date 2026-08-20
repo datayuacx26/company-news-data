@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e02990b2084281a413b81ede490b3af0be606f3e2d669daa2629ef09a3889d4",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-4f82164f35c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/changelog/bb-explain",
+    "canonical": "https://www.buildbuddy.io/changelog/bb-explain"
+  },
+  "title": "bb explain: understand why your build re-ran actions",
+  "summary": "bb explain shows a structural diff of two compact execution logs. It helps answer the common questions: \"Why did Bazel re-execute that action?\" and \"What changed between these builds?\"",
+  "published_at": "2026-03-09T11:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:16.628240+00:00",
+  "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+  "last_updated_at": "2026-08-20T03:35:53.428661+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/03/9e/9e02990b2084281a413b81ede490b3af0be606f3e2d669daa2629ef09a3889d4/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/03/9e/9e02990b2084281a413b81ede490b3af0be606f3e2d669daa2629ef09a3889d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1193,
+    "sha256": "sha256:4e551718ac2b518f6b09c50ab0f5e80d37d1fcd74ab69e89dff0e918893a3e89",
+    "normalized_content_hash": "sha256:177c47a891476c02490590fcd0625f92fd0317581026b64e42437810601e66b3"
+  },
+  "provenance": {
+    "source_item_id": "70256c16-17e8-42d9-beae-e8dcbe3fcd0c",
+    "external_id": "https://www.buildbuddy.io/changelog/bb-explain"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb310e8aa472211d6f70ff898c49a55899a1064292e71776b2f448c74d75795f",
+  "company": {
+    "key": "yc-subimage",
+    "name": "SubImage"
+  },
+  "source": {
+    "id": "yc-subimage-news-import-96b948f674dd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.subimage.io/blog/shift-right-attack-paths/",
+    "canonical": "https://www.subimage.io/blog/shift-right-attack-paths/"
+  },
+  "title": "Shift-right: attack path analysis that never wastes a good incident",
+  "summary": "Each incident response should leave fewer attack paths than the last",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:23.667341+00:00",
+  "fetched_at": "2026-07-28T22:15:57.305389+00:00",
+  "last_updated_at": "2026-08-19T16:56:51.266094+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-subimage/2026/04/fb/fb310e8aa472211d6f70ff898c49a55899a1064292e71776b2f448c74d75795f/article.md",
+    "record": "articles/v1/9c/yc-subimage/2026/04/fb/fb310e8aa472211d6f70ff898c49a55899a1064292e71776b2f448c74d75795f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6450,
+    "sha256": "sha256:ff35c8cfa6867b74be2ec21b5fce8f45b682c49e420c54416a1e992f54ffdd28",
+    "normalized_content_hash": "sha256:115b0502e3f38197303c20075fc38ea91472a3467e19c2ea69bfa4d084fd74be"
+  },
+  "provenance": {
+    "source_item_id": "cfacf91a-f08f-4e42-b332-299c9987c238",
+    "external_id": "https://www.subimage.io/blog/shift-right-attack-paths/"
+  }
+}

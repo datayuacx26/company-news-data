@@ -1,0 +1,218 @@
+---
+schema_version: "1.0.0"
+document_id: "0a37e2f30d27c6d7d97d5cd337caf7d6f9246474673be3397232f5033e903957"
+company_key: "ceragon-networks-ltd-ordinary-shares"
+company: "Ceragon Networks Ltd."
+source_id: "ceragon-networks-ltd-ordinary-shares-rss-c97c4721a138"
+canonical_url: "https://www.ceragon.com/news/ceragon-reports-fourth-quarter-and-full-year-2025-financial-results"
+published_at: "2026-02-17T12:25:14+00:00"
+first_seen_at: "2026-07-20T23:18:29.711229+00:00"
+fetched_at: "2026-07-28T22:19:49.030055+00:00"
+content_hash: "sha256:70e0148374e0bf4cf8445fa27798fb2253237387bbf7636d706aaf081af60623"
+---
+
+# Ceragon Reports Fourth Quarter and Full-Year 2025 Financial Results
+
+*Results in-line with January update; Guidance reiterated and balance sheet strengthened*
+
+
+**Rosh Ha’ain, Israel, February 17, 2026**
+
+
+-
+
+
+Ceragon (NASDAQ: CRNT), a leading solutions provider of end-to-end wireless connectivity, today reported its financial results for the fourth quarter and full-year ended December 31, 2025.The results are in-line with the preliminary results disclosed on January 8, 2026.
+
+
+***Q4 2025 Financial Highlights:***
+
+
+- Revenues of $82.3 million, in line with January update
+- GAAP operating income of $2.4
+
+
+million, non-GAAP operating income of $3.4 million
+
+
+-
+
+
+GAAP net income of$0.1 million, or $0.00 per diluted share; non-GAAP net income of $1.4 million, or $0.02 per diluted share
+
+
+***FY 2025 Financial Highlights:***
+
+
+- Revenue of $338.7 million
+
+
+- GAAP operating income of $7.2 million; non-GAAP operating income of $18.0 million
+
+
+- GAAP net loss of $(2.1) million, or $(0.02) per diluted share; non-GAAP net income of $8.2 million, or $0.09 per diluted share
+
+
+***Q4 2025 Business Highlights:***
+
+
+- **North American Momentum Continued** : Revenue in the fourth quarter was slightly less than the record level achieved in Q3 2025, and backlog entering 2026 is nearly double what it was entering 2025.
+
+
+- **India Progress** : Revenue was stable sequentially from Q3 2025 and tracked expectations.
+
+
+- **Balance Sheet Progress** : Ceragon ended 2025 with $38.4 million in cash and cash equivalents and a net cash position of $19.4 million, up from a net cash position of $10.1 million at the end of 2024, reflecting improved cash generation and disciplined execution, inclusive of the acquisition of E2E.
+
+
+Ceragon’s CEO, Doron Arazi, commented: “Our fourth quarter and full-year results are consistent with the preliminary results we shared in January. We remained profitable on a non-GAAP basis for both the fourth quarter and full-year 2025 and had strong free cash flow in the fourth quarter. We delivered on what we communicated, strengthened our balance sheet, and exited the year with a significantly higher backlog in North America. Our outlook for 2026 remains unchanged, and we are reiterating our revenue guidance of $355 million to $385 million, which at the midpoint implies near double-digit growth based on the current environment.”
+
+
+**Primary Fourth Quarter 2025 Financial Results:**
+
+
+**Revenues** were $82.3 million, down 23.0% from $106.9 million in Q4 2024.
+
+
+**GAAP Gross profit** was $27.7 million, with **gross margin** of 33.6%, compared to a gross margin of 34.0%
+
+
+in Q4 2024.
+
+
+**GAAP Operating income** was $2.4
+
+
+million compared with $9.5 million in Q4 2024.
+
+
+**GAAP Net income** was $0.1 million, or $0.00 per diluted share, compared with $3.6 million, or $0.04 per diluted share in Q4 2024.
+
+
+**Non-GAAP results** were as follows **:** Gross margin was 34.3%, operating income was $3.4 million, and net income of $1.4 million, or $0.02 per diluted share.
+
+
+**Primary Full-Year 202 5 Financial Results:**
+
+
+**Revenues** were $338.7 million, down 14.1% from $394.2 million in 2024.
+
+
+**GAAP Gross profit** was $114.6 million, with **gross margin** of 33.8%, compared to a gross margin of 34.7% in 2024.
+
+
+**GAAP Operating income** was a record **** $7.2
+
+
+million compared to $38.7 million for 2024.
+
+
+**GAAP Net income (loss)** was ($2.1) million, or ($0.02) per diluted share, compared to $24.1 million, or $0.27 per diluted share for 2024.
+
+
+**Non-GAAP results** were as follows **:** Gross margin was 34.5%, operating profit was $18.0 million, and net income was $8.2 million, or $0.09 per diluted share.
+
+
+**Balance Sheet**
+
+
+**Cash and cash equivalents** were $38.4 million on December 31, 2025, compared to $35.3 on December 31, 2024.
+
+
+Fora reconciliation of GAAP to non-GAAP results, see the attached tables.
+
+
+**Revenue Breakout by Geography:**
+
+
+Q4 2025
+
+
+· North America
+
+
+39%
+
+
+· India
+
+
+30%
+
+
+· EMEA
+
+
+15%
+
+
+· Latin America
+
+
+10%
+
+
+· APAC
+
+
+6%
+
+
+**Outlook**
+
+
+For 2026,management expects revenue between $355 million and $385 million and non-GAAP operating margin to be between 6.5% to 7.5% at the midpoint of the provided revenue range. This margin outlook reflects the currency assumptions established in January, and management will closely monitor and evaluate currency fluctuations as the year progresses.
+
+
+**Conference Call**
+
+
+The Company will host a Zoom web conference today at 8:30 a.m. ET to discuss the financial results, followed by a question-and-answer session for the investment community.
+
+
+Investors are invited to register by clicking[here](https://get-events.zoom.us/webinar/register/WN_yALfMLWtSKqj6WzwVZ3XGw#/registration) . All relevant information will be sent upon registration.
+
+
+For investors unable to join the live call, a replay will be available on the Company’s website at[www.ceragon.com.](https://www.ceragon.com/)
+
+
+**About Ceragon**
+
+
+Ceragon (NASDAQ: CRNT) is the global innovator and leading solutions provider of end-to-end wireless connectivity, specializing in transport, access, and AI-powered managed & professional services. Through our commitment to excellence, we empower customers to elevate operational efficiency and enrich the quality of experience for their end users.
+
+
+Our customers include service providers, utilities, public safety organizations, government agencies, energy companies, and more, who rely on our wireless expertise and cutting-edge solutions for 5G & 4G broadband wireless connectivity, mission-critical services, and an array of applications that harness our ultra-high reliability and speed. Ceragon solutions are deployed by more than 600 service providers, as well as more than 1,600 private network owners, in more than 130 countries. Through our innovative, end-to-end solutions, covering hardware, software, and managed & professional services, we enable our customers to embrace the future of wireless technology with confidence, shaping the next generation of connectivity and service delivery. Ceragon delivers extremely reliable, fast to deploy, high-capacity wireless solutions for a wide range of communication network use cases, optimized to lower TCO through minimal use of spectrum, power, real estate, and labor resources - driving simple, quick, and cost-effective network modernization and positioning Ceragon as a leading solutions provider for the “connectivity everywhere” era.
+
+
+For more information, please visit:[www.ceragon.com](https://ceragon.sharepoint.com/sites/Finance-QuarterlyPR/Shared%20Documents/General/2024/Q2%2024/www.ceragon.com)
+
+
+Ceragon Networks® and FibeAir® are registered trademarks of Ceragon Networks Ltd. in the United States and other countries. CERAGON® is a trademark of Ceragon, registered in various countries. Other names mentioned are owned by their respective holders.
+
+
+**Safe Harbor**
+
+
+*This press release contains statements that constitute "forward-looking statements" within the meaning of the Securities Act of 1933, as amended and the Securities Exchange Act of 1934, as amended, and the safe-harbor provisions of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are based on the current beliefs, expectations and assumptions of Ceragon's management about Ceragon's business, financial condition, results of operations, micro and macro market trends and other issues addressed or reflected therein. Examples of forward-looking statements include, but are not limited to, statements regarding: projections of demand, revenues, net income, gross margin, capital expenditures and liquidity, competitive pressures, order timing, supply chain and shipping, components availability; growth prospects, product development, financial resources, cost savings and other financial and market matters. You may identify these and other forward-looking statements by the use of words such as "may", "plans", "anticipates", "believes", "estimates", "targets"," expects", "intends", "potential" or the negative of such terms, or other comparable terminology, although not all forward-looking statements contain these identifying words.*
+
+
+*Although we believe that the projections reflected in such forward-looking statements are based upon reasonable assumptions, we can give no assurance that our expectations will be obtained or that any deviations there from will not be material. Such forward-looking statements involve known and unknown risks and uncertainties that may cause Ceragon's future results or performance to differ materially from those anticipated, expressed or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to: Company's forward-looking forecasts, with respect to which there is no assurance that such forecasts will materialize; Company's ability to future plan, business, marketing and product strategies on the forecasted evolution of the market developments, such as market and territory trends, future use cases, business concepts, technologies, future demand, and necessary inventory levels; the effects of fluctuations in currency exchange rates between the currencies in which we operate; the effects of global economic trends, including recession, rising inflation, rising interest rates, commodity price increases and fluctuations, commodity shortages and exposure to economic slowdown; risks related to conditions in Israel and the escalation of hostilities in the Middle East; risks associated with delays in the transition to 5G technologies and in the 5G rollout; risks relating to the concentration of our business on a limited number of large mobile operators and the fact that the significant weight of their ordering, compared to the overall ordering by other customers, coupled with inconsistent ordering patterns, could negatively affect us; risks resulting from the volatility in our revenues, margins and working capital needs; disagreements with tax authorities regarding tax positions that we have taken could result in increased tax liabilities; the high volatility in the supply needs of our customers, which from time to time lead to delivery issues and may lead to us being unable to timely fulfil our customer commitments; and such other risks, uncertainties and other factors that could affect our results of operation, as further detailed in Ceragon's most recent Annual Report on Form 20-F, as published on March 25, 2025, as well as other documents that may be subsequently filed by Ceragon from time to time with the Securities and Exchange Commission.*
+
+
+*We caution you not to place undue reliance onforward-looking statements, which speak only as of the date hereof. Ceragon does not assume any obligation to update any forward-looking statements in order to reflect events or circumstances that may arise after the date of this release unless required by law.*
+
+
+*While we believe that we have a reasonable basis for each forward-looking statement contained in this press release, we caution you that these statements are based on a combination of facts and factors currently known by us and our projections of the future, about which we cannot be certain. In addition, any forward-looking statements represent Ceragon's views only as of the date of this press release and should not be relied upon as representing its views as of any subsequent date. Ceragon does not assume any obligation to update any forward-looking statements unless required by law.*
+
+
+*The results reported in this press release are preliminary and unaudited results, and investors should be aware of possible discrepancies between these results and the audited results to be reported, due to various factors.*
+
+
+*Ceragon's public filings are available on the Securities and Exchange Commission's website at*[www.sec.gov](http://www.sec.gov/) *and may also be obtained from Ceragon's website at*[www.ceragon.com](https://www.ceragon.com/) *.*
+
+
+*-Tables to be downloaded below -*
+
+
+**

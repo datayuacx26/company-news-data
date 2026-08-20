@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56bd59882a15cf1fc58d0ab598a8733eedaaee8dd0f3cc0724ccf9458c2b54f5",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/writing-dbt-models-to-iceberg-with-snowflake",
+    "canonical": "https://etleap.com/blog/writing-dbt-models-to-iceberg-with-snowflake"
+  },
+  "title": "Writing dbt Models to Iceberg with Snowflake",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T18:50:49.183689+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-19T17:45:57.423913+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/56/56bd59882a15cf1fc58d0ab598a8733eedaaee8dd0f3cc0724ccf9458c2b54f5/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/56/56bd59882a15cf1fc58d0ab598a8733eedaaee8dd0f3cc0724ccf9458c2b54f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11759,
+    "sha256": "sha256:008af96b08d9effd0dcd8936a449c95dc55444821ee5fd3c651023b3926817d2",
+    "normalized_content_hash": "sha256:6c4f2ad244ab140424156199c55bbf760a970e1bdf982217a09c132a0da0e658"
+  },
+  "provenance": {
+    "source_item_id": "1b8a0ab0-f1d9-42a0-ba5e-3e36de57b705",
+    "external_id": "https://etleap.com/blog/writing-dbt-models-to-iceberg-with-snowflake"
+  }
+}

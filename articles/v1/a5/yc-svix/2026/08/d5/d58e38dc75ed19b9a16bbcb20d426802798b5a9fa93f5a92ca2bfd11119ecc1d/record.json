@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d58e38dc75ed19b9a16bbcb20d426802798b5a9fa93f5a92ca2bfd11119ecc1d",
+  "company": {
+    "key": "yc-svix",
+    "name": "Svix"
+  },
+  "source": {
+    "id": "yc-svix-news-import-06ae021bd4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.svix.com/blog/svix-sdks-v2/",
+    "canonical": "https://www.svix.com/blog/svix-sdks-v2/"
+  },
+  "title": "Svix SDKs and CLI v2 released",
+  "summary": "What to expect of v2.0.0",
+  "published_at": "2026-08-19T12:00:00+00:00",
+  "first_seen_at": "2026-08-20T01:05:38.755361+00:00",
+  "fetched_at": "2026-08-20T01:05:40.232391+00:00",
+  "last_updated_at": "2026-08-20T01:05:40.383568+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-svix/2026/08/d5/d58e38dc75ed19b9a16bbcb20d426802798b5a9fa93f5a92ca2bfd11119ecc1d/article.md",
+    "record": "articles/v1/a5/yc-svix/2026/08/d5/d58e38dc75ed19b9a16bbcb20d426802798b5a9fa93f5a92ca2bfd11119ecc1d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4241,
+    "sha256": "sha256:e1a60061d98ca3b588dfdca602c706746777ed9073de2c3752b9627f7473c8d9",
+    "normalized_content_hash": "sha256:28f46714068c50ae013964e9eacf4f287e7f29e3b7580352e9470658c9fbdc8b"
+  },
+  "provenance": {
+    "source_item_id": "9f450c18-fa12-4e17-9a87-894753534b39",
+    "external_id": "https://www.svix.com/blog/svix-sdks-v2/"
+  }
+}

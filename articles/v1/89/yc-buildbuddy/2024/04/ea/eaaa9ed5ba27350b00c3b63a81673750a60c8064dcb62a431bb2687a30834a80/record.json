@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eaaa9ed5ba27350b00c3b63a81673750a60c8064dcb62a431bb2687a30834a80",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-9eed3a34e5de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/blog/debugging-slow-bazel-builds",
+    "canonical": "https://www.buildbuddy.io/blog/debugging-slow-bazel-builds"
+  },
+  "title": "Why is my Bazel build so slow?",
+  "summary": "The promise of Bazel is the promise of fast builds. So what do you do if your build was slow? Curse out the developer that convinced your company to migrate to Bazel? Of course not! You’d never do that, right? 🙂",
+  "published_at": "2024-04-02T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:54.250593+00:00",
+  "fetched_at": "2026-07-28T22:26:02.237076+00:00",
+  "last_updated_at": "2026-08-20T03:45:46.032492+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2024/04/ea/eaaa9ed5ba27350b00c3b63a81673750a60c8064dcb62a431bb2687a30834a80/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2024/04/ea/eaaa9ed5ba27350b00c3b63a81673750a60c8064dcb62a431bb2687a30834a80/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18389,
+    "sha256": "sha256:4b6686a7eb110d2a28d85ebd313ba358e4f7be34d2963759dbf36d1263958281",
+    "normalized_content_hash": "sha256:d4e16a85c367f0a45cf068ade68719726b25605f6f498ef1153dcc1f5ff68a24"
+  },
+  "provenance": {
+    "source_item_id": "42e915c2-4581-47a7-a972-4cab7c44d06c",
+    "external_id": "https://www.buildbuddy.io/blog/debugging-slow-bazel-builds"
+  }
+}

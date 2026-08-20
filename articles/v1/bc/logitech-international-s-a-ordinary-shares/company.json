@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "logitech-international-s-a-ordinary-shares",
+    "name": "Logitech International S.A."
+  },
+  "record_count": 85,
+  "first_published_at": "2026-01-07T18:32:12+00:00",
+  "last_published_at": "2026-08-17T12:10:33+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bc/logitech-international-s-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 70582,
+        "sha256": "sha256:0c22e24c4d6dfa18fd5ad2e30d5b1ecb83664c0189448f9116fda12c3486d83a",
+        "newest_at": "2026-08-17T12:10:33+00:00",
+        "oldest_at": "2026-04-28T10:45:53+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/bc/logitech-international-s-a-ordinary-shares/index/pages/000002.json",
+        "record_count": 35,
+        "byte_count": 49545,
+        "sha256": "sha256:89dd8adf188991b088e84ab92cb7e8462d8949870b44f5d39d5de555120b22d8",
+        "newest_at": "2026-04-28T07:03:51+00:00",
+        "oldest_at": "2026-01-07T18:32:12+00:00"
+      }
+    ]
+  }
+}

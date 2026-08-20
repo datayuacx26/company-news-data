@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bce-inc-common-stock",
+    "name": "BCE Inc."
+  },
+  "record_count": 1,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/bce-inc-common-stock/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 982,
+        "sha256": "sha256:dbdeca092bb55615d6e7add7fbe3edd3d534faab334197a462a532777447f54b",
+        "newest_at": "2026-07-28T21:33:52.463534+00:00",
+        "oldest_at": "2026-07-28T21:33:52.463534+00:00"
+      }
+    ]
+  }
+}

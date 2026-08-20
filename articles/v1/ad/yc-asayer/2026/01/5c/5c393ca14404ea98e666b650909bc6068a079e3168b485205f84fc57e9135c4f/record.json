@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c393ca14404ea98e666b650909bc6068a079e3168b485205f84fc57e9135c4f",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/popup-child-window-not-recorded-in-openreplay-v16/556#post_1",
+    "canonical": "https://forum.openreplay.com/t/popup-child-window-not-recorded-in-openreplay-v16/556"
+  },
+  "title": "Popup (Child Window) Not Recorded in OpenReplay v16",
+  "summary": "Is popup window recording supported in OpenReplay v16 integrated in react? Summary: OpenReplay is not recording activity in a child window (popup). Only the parent window is captured. Current Behavior: Parent window is recorded when start() is called. Popup window is not recorded at all. Reason / Analysis: start(true) is executed in the parent window context, so tracking restarts only in the parent, not the popup. The popup runs in a separate JavaScript context and does not ini...",
+  "published_at": "2026-01-15T11:48:45+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/01/5c/5c393ca14404ea98e666b650909bc6068a079e3168b485205f84fc57e9135c4f/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/01/5c/5c393ca14404ea98e666b650909bc6068a079e3168b485205f84fc57e9135c4f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2536,
+    "sha256": "sha256:23d8dbbf2d0ec450f05f1b93ad43a17900b9074122ffd3485923c789c951c655",
+    "normalized_content_hash": "sha256:d2e68766dfe3cbd8d3d87dd61e6006ab46df329ea8e062063793f0d0878f18a0"
+  },
+  "provenance": {
+    "source_item_id": "4e99e16f-2a56-478c-8634-11770d3c9494",
+    "external_id": "forum.openreplay.com-post-1428"
+  }
+}

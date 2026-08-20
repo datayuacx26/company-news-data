@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5bddca28ff219259bf6cb7d9fbd4d2586559e3bee490679481e12d3ad9fba9fb",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/reduce-cdn-log-costs-with-searchable-archives/",
+    "canonical": "https://www.datadoghq.com/blog/reduce-cdn-log-costs-with-searchable-archives/"
+  },
+  "title": "Reduce CDN log costs with searchable archives",
+  "summary": "Reduce CDN log indexing costs with Datadog Observability Pipelines and Archive Search. Route raw edge logs to object storage and query them when you need them.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/5b/5bddca28ff219259bf6cb7d9fbd4d2586559e3bee490679481e12d3ad9fba9fb/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/5b/5bddca28ff219259bf6cb7d9fbd4d2586559e3bee490679481e12d3ad9fba9fb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12463,
+    "sha256": "sha256:1d515666aa9784eb4a9b6683f3e7ad31f3ddd61a04918ae5aaf4c0a5ae837aeb",
+    "normalized_content_hash": "sha256:00c1514accb59b18d1a994616666c4b7b9b493240f21fcf36c261bac1e152fc4"
+  },
+  "provenance": {
+    "source_item_id": "7e82d4f1-20a2-41da-a950-a84d10d908f7",
+    "external_id": "https://www.datadoghq.com/blog/reduce-cdn-log-costs-with-searchable-archives/"
+  }
+}

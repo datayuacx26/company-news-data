@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5cc0284e753470b943f7dd7ed56c4b3c3d7f7c72ada08aa0607db65db47561ca",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/postgres-audit",
+    "canonical": "https://supabase.com/blog/postgres-audit"
+  },
+  "title": "Postgres Auditing in 150 lines of SQL",
+  "summary": "PostgreSQL has a robust set of features which we can leverage to create a generic auditing solution in 150 lines of SQL.",
+  "published_at": "2022-03-08T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2022/03/5c/5cc0284e753470b943f7dd7ed56c4b3c3d7f7c72ada08aa0607db65db47561ca/article.md",
+    "record": "articles/v1/b1/yc-supabase/2022/03/5c/5cc0284e753470b943f7dd7ed56c4b3c3d7f7c72ada08aa0607db65db47561ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12746,
+    "sha256": "sha256:609cc93c8cb8039c28f5d7308458b6e478e3eff95c7c69b7d68c46ce4830b38c",
+    "normalized_content_hash": "sha256:5615d6c6c2605cc7077d49b963d6c8619b3db56bb513cb7ce34c11ebe520f9d3"
+  },
+  "provenance": {
+    "source_item_id": "040d7278-f73a-4e29-b702-69397174e34c",
+    "external_id": "https://supabase.com/blog/postgres-audit"
+  }
+}

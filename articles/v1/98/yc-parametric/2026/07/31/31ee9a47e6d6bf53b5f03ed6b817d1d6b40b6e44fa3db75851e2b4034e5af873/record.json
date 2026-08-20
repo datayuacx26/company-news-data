@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31ee9a47e6d6bf53b5f03ed6b817d1d6b40b6e44fa3db75851e2b4034e5af873",
+  "company": {
+    "key": "yc-parametric",
+    "name": "Parametric"
+  },
+  "source": {
+    "id": "yc-parametric-news-import-eb04a40d8d59",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.parametric.company/blog/monosemantic-features-in-vlas",
+    "canonical": "https://parametric.company/blog/monosemantic-features-in-vlas"
+  },
+  "title": "Monosemantic Features in Vision-Language-Action Models",
+  "summary": "We trained transcoders on π₀-FAST to uncover interpretable features in robotics models, revealing \"scene\" features that highlight objectives and \"ego\" features focused on the robot itself.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T00:39:21.525691+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T22:34:50.315450+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-parametric/2026/07/31/31ee9a47e6d6bf53b5f03ed6b817d1d6b40b6e44fa3db75851e2b4034e5af873/article.md",
+    "record": "articles/v1/98/yc-parametric/2026/07/31/31ee9a47e6d6bf53b5f03ed6b817d1d6b40b6e44fa3db75851e2b4034e5af873/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8559,
+    "sha256": "sha256:0946fb603e15266ab8fc098b82c0a0ab4f653c72603c91b76d453f10ea8ee06a",
+    "normalized_content_hash": "sha256:618f79bd5610d62f6374bf28425b77c350aab2b26a7975bf4ae9a20c9d6c5780"
+  },
+  "provenance": {
+    "source_item_id": "46bbfbc5-d9c9-48b8-8309-01ba0821133c",
+    "external_id": "https://parametric.company/blog/monosemantic-features-in-vlas"
+  }
+}

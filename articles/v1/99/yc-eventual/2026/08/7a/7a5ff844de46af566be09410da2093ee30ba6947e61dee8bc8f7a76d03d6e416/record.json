@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a5ff844de46af566be09410da2093ee30ba6947e61dee8bc8f7a76d03d6e416",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/cutting-dead-frames-from-droid",
+    "canonical": "https://www.eventual.ai/blog/cutting-dead-frames-from-droid"
+  },
+  "title": "Cutting dead frames from DROID: 500 hours of robot data in 32 seconds",
+  "summary": "The robot state recorded next to the video tells you which frames matter before you decode any pixels. Trimming all of DROID takes 32 seconds on a laptop.",
+  "published_at": "2026-08-03T08:00:00+00:00",
+  "first_seen_at": "2026-08-03T14:21:40.196725+00:00",
+  "fetched_at": "2026-08-03T16:10:47.640296+00:00",
+  "last_updated_at": "2026-08-20T01:29:00.224908+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/08/7a/7a5ff844de46af566be09410da2093ee30ba6947e61dee8bc8f7a76d03d6e416/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/08/7a/7a5ff844de46af566be09410da2093ee30ba6947e61dee8bc8f7a76d03d6e416/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5927,
+    "sha256": "sha256:e1caf1e4408799a832f13a349a862ee42a6abd2a9de6f4d4c70d5314463d5c76",
+    "normalized_content_hash": "sha256:d59da4e9e1ec9d2dc3683de7d2964a25fab78fdc17d6c7094c54314c8e1cc477"
+  },
+  "provenance": {
+    "source_item_id": "d4005c8d-99f5-42cb-939b-44f3a9703b2e",
+    "external_id": "https://www.eventual.ai/blog/cutting-dead-frames-from-droid"
+  }
+}

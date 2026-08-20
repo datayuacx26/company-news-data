@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1319401f8369dbe962c7b73439653c1f767e8f5219e2088ae08484c9fb824381",
+  "company": {
+    "key": "weave-communications-inc-common-stock",
+    "name": "Weave Communications Inc."
+  },
+  "source": {
+    "id": "weave-communications-inc-common-stock-rss-cb397ff18858",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.getweave.com/post/go-jwt-1/",
+    "canonical": "https://engineering.getweave.com/post/go-jwt-1/"
+  },
+  "title": "Distributed Auth With Go: From JWT to HTTP to gRPC - Part 1",
+  "summary": "How to use JWT to build a highly scalable authentication system for your Go stack. This part teaches the fundamentals of JWT and builds a basic command-line issuer and validator using Go",
+  "published_at": "2022-04-01T18:26:46+00:00",
+  "first_seen_at": "2026-07-20T23:19:36.973215+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-07-28T21:05:04.449284+00:00",
+  "paths": {
+    "article": "articles/v1/aa/weave-communications-inc-common-stock/2022/04/13/1319401f8369dbe962c7b73439653c1f767e8f5219e2088ae08484c9fb824381/article.md",
+    "record": "articles/v1/aa/weave-communications-inc-common-stock/2022/04/13/1319401f8369dbe962c7b73439653c1f767e8f5219e2088ae08484c9fb824381/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26885,
+    "sha256": "sha256:bca2d75cee9835affc2b416f9a57c3a33eb22fde7be3c2129913d3159f056952",
+    "normalized_content_hash": "sha256:228060bcb75d9cefcfe5e4cdd25a02e8fd3cfd83df060257c45e0e0556c62865"
+  },
+  "provenance": {
+    "source_item_id": "14b4e42d-9b50-4089-b607-566dfd99a542",
+    "external_id": "https://engineering.getweave.com/post/go-jwt-1/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cd31e03a6b9ebecb8a61b9fff52c3e97fcc0a4cbb532b0e87c46f56a39d90ef6",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business",
+    "canonical": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business"
+  },
+  "title": "Expanding Stripe Radar to protect more of your business",
+  "summary": "Radar now blocks high-risk transactions across all supported payment methods; defends against new fraud types; and gives platforms new tools to evaluate and mitigate merchant risk on and off Stripe.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:05:27.623858+00:00",
+  "fetched_at": "2026-07-28T21:55:52.188627+00:00",
+  "last_updated_at": "2026-08-19T11:44:38.576104+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/cd/cd31e03a6b9ebecb8a61b9fff52c3e97fcc0a4cbb532b0e87c46f56a39d90ef6/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/cd/cd31e03a6b9ebecb8a61b9fff52c3e97fcc0a4cbb532b0e87c46f56a39d90ef6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11146,
+    "sha256": "sha256:3bf9feb43398a69b707aab9da72324a3bd045ce7ca501ca3e7b16ef3afd33ac8",
+    "normalized_content_hash": "sha256:defffccd51a427cc78282c24c287da8a23a6e782a43efabb0570424764d3553f"
+  },
+  "provenance": {
+    "source_item_id": "c689807f-4f09-4f1d-ad04-8479ed9a4286",
+    "external_id": "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-listia",
+    "name": "Listia"
+  },
+  "record_count": 10,
+  "first_published_at": "2021-11-10T19:28:02+00:00",
+  "last_published_at": "2023-11-15T16:43:56+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/86/yc-listia/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10329,
+        "sha256": "sha256:93e609087e74b6fcf0988695632a05d6f83d0006debd2d059e20ea5b9ccdba55",
+        "newest_at": "2023-11-15T16:43:56+00:00",
+        "oldest_at": "2021-11-10T19:28:02+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "record_count": 141,
+  "first_published_at": "2022-10-12T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 54
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 42
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/elastic-n-v-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55477,
+        "sha256": "sha256:a2959e429a1fd1edc1495c7f93f9fb4f686c75f2ea13a8ce3e66c929f3926315",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-07-28T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b3/elastic-n-v-ordinary-shares/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 55145,
+        "sha256": "sha256:b8d11b33fafb4dc7c486cf01194316151afb964bc77a20d8d794716cbe7da9ca",
+        "newest_at": "2026-07-28T00:00:00+00:00",
+        "oldest_at": "2026-06-29T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/b3/elastic-n-v-ordinary-shares/index/pages/000003.json",
+        "record_count": 41,
+        "byte_count": 46181,
+        "sha256": "sha256:34ad42fd975e27afb195d0d3c9430bc676fdd50e37b124046e5b051087e321ee",
+        "newest_at": "2026-06-23T00:00:00+00:00",
+        "oldest_at": "2022-10-12T00:00:00+00:00"
+      }
+    ]
+  }
+}

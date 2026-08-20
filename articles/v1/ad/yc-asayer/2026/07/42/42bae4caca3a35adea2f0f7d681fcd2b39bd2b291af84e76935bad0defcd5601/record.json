@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42bae4caca3a35adea2f0f7d681fcd2b39bd2b291af84e76935bad0defcd5601",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/bun-built-in-redis-client/",
+    "canonical": "https://blog.openreplay.com/bun-built-in-redis-client/"
+  },
+  "title": "Using Bun's Built-In Redis Client",
+  "summary": "Bun built-in Redis client guide: connect, use typed commands, Pub/Sub, auto-pipelining, rate limiting, and when to switch to ioredis.",
+  "published_at": "2026-07-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-07T00:13:29.908393+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/42/42bae4caca3a35adea2f0f7d681fcd2b39bd2b291af84e76935bad0defcd5601/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/42/42bae4caca3a35adea2f0f7d681fcd2b39bd2b291af84e76935bad0defcd5601/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16491,
+    "sha256": "sha256:4caaafcfc5eade632ec34d33d730cdb73c8f12234deb73898f134b24fbd6e6d1",
+    "normalized_content_hash": "sha256:28898afd733a4ccacb4d07a530bff6e8777822f3a34fbcf7404a75ea8fae56ff"
+  },
+  "provenance": {
+    "source_item_id": "54aa3810-024d-4170-92a8-69ad8c1362d6",
+    "external_id": "https://blog.openreplay.com/bun-built-in-redis-client/"
+  }
+}

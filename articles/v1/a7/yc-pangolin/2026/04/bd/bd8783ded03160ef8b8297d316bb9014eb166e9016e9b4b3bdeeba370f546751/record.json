@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd8783ded03160ef8b8297d316bb9014eb166e9016e9b4b3bdeeba370f546751",
+  "company": {
+    "key": "yc-pangolin",
+    "name": "Pangolin"
+  },
+  "source": {
+    "id": "yc-pangolin-news-import-841387734568",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://pangolin.net/news/1-18-release",
+    "canonical": "https://pangolin.net/news/1-18-release"
+  },
+  "title": "Pangolin 1.18: HTTPS Private Resources, Multi-Site, & Alerts",
+  "summary": "Pangolin 1.18 adds HTTPS private resources, multi-site routing, uptime tracking, alert rules, and wildcard resources.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T08:11:44.188163+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-19T18:02:58.347278+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-pangolin/2026/04/bd/bd8783ded03160ef8b8297d316bb9014eb166e9016e9b4b3bdeeba370f546751/article.md",
+    "record": "articles/v1/a7/yc-pangolin/2026/04/bd/bd8783ded03160ef8b8297d316bb9014eb166e9016e9b4b3bdeeba370f546751/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7025,
+    "sha256": "sha256:9b9a735cb0123f3f034baa07d945cae3094301d3c8f93c202f5a2d34386772eb",
+    "normalized_content_hash": "sha256:f5214b30e0c159e50a753653445b8466a93ac3c8ef1e931d72931ffd04600f8c"
+  },
+  "provenance": {
+    "source_item_id": "5d49bc13-4c40-4512-94c3-7b379f11c10b",
+    "external_id": "https://pangolin.net/news/1-18-release"
+  }
+}

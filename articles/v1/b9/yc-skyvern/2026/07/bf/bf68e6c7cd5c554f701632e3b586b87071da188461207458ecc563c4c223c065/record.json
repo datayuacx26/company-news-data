@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf68e6c7cd5c554f701632e3b586b87071da188461207458ecc563c4c223c065",
+  "company": {
+    "key": "yc-skyvern",
+    "name": "Skyvern"
+  },
+  "source": {
+    "id": "yc-skyvern-rss-4bc1426a1548",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.skyvern.com/blog/skyvern-changelog-june-2026/",
+    "canonical": "https://www.skyvern.com/blog/skyvern-changelog-june-2026/"
+  },
+  "title": "Skyvern Changelog — June 2026",
+  "summary": "Everything we shipped in June 2026 — weeks of June 1, 8, 15, and 22. Workflows Are Now Agents We renamed Workflows to Agents across the product, the public API, and the docs. The API now lives under /agents (e.g. POST /v1/run/agents) and accepts an agent_id alias",
+  "published_at": "2026-07-01T12:57:25+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.914365+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-07T15:48:35.445259+00:00",
+  "paths": {
+    "article": "articles/v1/b9/yc-skyvern/2026/07/bf/bf68e6c7cd5c554f701632e3b586b87071da188461207458ecc563c4c223c065/article.md",
+    "record": "articles/v1/b9/yc-skyvern/2026/07/bf/bf68e6c7cd5c554f701632e3b586b87071da188461207458ecc563c4c223c065/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6849,
+    "sha256": "sha256:8e3de83fc05d8774db9ea8ff9f0de452f0e274513b36c69c22ef9d30545e828c",
+    "normalized_content_hash": "sha256:9159c9e82fd2fcacf9053d619b1a002cfb6e13eed82e6b36f3818100706c14e4"
+  },
+  "provenance": {
+    "source_item_id": "e5774ac2-4ee2-4f08-8d33-8f893452dd9e",
+    "external_id": "6a449b3ae12dd90001ad3f01"
+  }
+}

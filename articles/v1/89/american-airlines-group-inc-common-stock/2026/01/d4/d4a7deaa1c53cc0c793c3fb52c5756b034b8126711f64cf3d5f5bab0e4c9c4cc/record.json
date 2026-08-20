@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4a7deaa1c53cc0c793c3fb52c5756b034b8126711f64cf3d5f5bab0e4c9c4cc",
+  "company": {
+    "key": "american-airlines-group-inc-common-stock",
+    "name": "American Airlines Group Inc."
+  },
+  "source": {
+    "id": "american-airlines-group-inc-common-stock-news-import-aa1b8ed8edb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.aa.com/news/news-details/2026/American-Airlines-reports-fourth-quarter-and-full-year-2025-financial-results-CORP-FI-01/default.aspx",
+    "canonical": "https://news.aa.com/news/news-details/2026/American-Airlines-reports-fourth-quarter-and-full-year-2025-financial-results-CORP-FI-01/default.aspx"
+  },
+  "title": "American Airlines reports fourth-quarter and full-year 2025 financial results",
+  "summary": "American Airlines Group Inc. (NASDAQ: AAL) today reported its fourth-quarter and full-year 2025 financial results, including: Record fourth-quarter revenue of $14.0 billion and record full-year revenue of $54.6 billion.",
+  "published_at": "2026-01-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T01:45:10.249277+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-19T18:10:19.673715+00:00",
+  "paths": {
+    "article": "articles/v1/89/american-airlines-group-inc-common-stock/2026/01/d4/d4a7deaa1c53cc0c793c3fb52c5756b034b8126711f64cf3d5f5bab0e4c9c4cc/article.md",
+    "record": "articles/v1/89/american-airlines-group-inc-common-stock/2026/01/d4/d4a7deaa1c53cc0c793c3fb52c5756b034b8126711f64cf3d5f5bab0e4c9c4cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20570,
+    "sha256": "sha256:5a087e3bdb7bfc7b30a20a4b182dda6ebe257425b8e7b095e7a763e53b934e90",
+    "normalized_content_hash": "sha256:f58c4e9b32360aa01179fbbd28ce13bc286a0251e995296ed11cef505ad758ae"
+  },
+  "provenance": {
+    "source_item_id": "89d36daa-993d-4329-a481-9c237d4fb2bd",
+    "external_id": "https://news.aa.com/news/news-details/2026/American-Airlines-reports-fourth-quarter-and-full-year-2025-financial-results-CORP-FI-01/default.aspx"
+  }
+}

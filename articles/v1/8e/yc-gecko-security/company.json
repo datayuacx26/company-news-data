@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-gecko-security",
+    "name": "Gecko Security"
+  },
+  "record_count": 7,
+  "first_published_at": "2025-07-31T00:00:00+00:00",
+  "last_published_at": "2026-03-11T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8e/yc-gecko-security/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 7650,
+        "sha256": "sha256:1b32cc0f9d43dd2128b67918060f9d24f2190e1317c0e27a336a9bf72e8d5d0d",
+        "newest_at": "2026-03-11T00:00:00+00:00",
+        "oldest_at": "2025-07-31T00:00:00+00:00"
+      }
+    ]
+  }
+}

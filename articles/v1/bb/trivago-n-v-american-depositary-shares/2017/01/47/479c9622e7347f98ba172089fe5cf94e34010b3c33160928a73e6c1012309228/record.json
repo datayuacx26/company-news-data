@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "479c9622e7347f98ba172089fe5cf94e34010b3c33160928a73e6c1012309228",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/learn-redis-the-hard-way/",
+    "canonical": "https://tech.trivago.com/post/learn-redis-the-hard-way/"
+  },
+  "title": "Learn Redis the hard way (in production)",
+  "summary": "For our products, like the trivago hotel search, we are using Redis a lot. The use cases vary: Caching, temporary storage of...",
+  "published_at": "2017-01-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:28.827282+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2017/01/47/479c9622e7347f98ba172089fe5cf94e34010b3c33160928a73e6c1012309228/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2017/01/47/479c9622e7347f98ba172089fe5cf94e34010b3c33160928a73e6c1012309228/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24817,
+    "sha256": "sha256:19b33d83e36c2d4ae06767bf91d0c887c833d59f035da01f531ae6bbb5be0f15",
+    "normalized_content_hash": "sha256:2e5875893e641dfdb6420ca5af8040cdae40b9e576c96386a0f92229fc0050b2"
+  },
+  "provenance": {
+    "source_item_id": "7e48c0d6-34a0-4cc1-b743-3e55fae03ac9",
+    "external_id": "https://tech.trivago.com/post/learn-redis-the-hard-way/"
+  }
+}

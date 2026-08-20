@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3328dcf7fb71e406195e48145a817fde9f13e34e7b31be25f9fb60da02fdb0bf",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/agent-go-binaries/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/agent-go-binaries/"
+  },
+  "title": "How we reduced the size of our Agent Go binaries by up to 77%",
+  "summary": "Get an inside look at shrinking large Go binaries in the Datadog Agent through dependency and linker analysis.",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:54:15.153981+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/02/33/3328dcf7fb71e406195e48145a817fde9f13e34e7b31be25f9fb60da02fdb0bf/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/02/33/3328dcf7fb71e406195e48145a817fde9f13e34e7b31be25f9fb60da02fdb0bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22358,
+    "sha256": "sha256:acb9c78585dde8674c6338c0a5bd9c33a8fde1a095708daa6bee3e7c1ecd4008",
+    "normalized_content_hash": "sha256:a187939c37e792405bde6614da45361ec5fc97e3ba410ce6996586969f86e55e"
+  },
+  "provenance": {
+    "source_item_id": "60e6936f-df7c-4acc-a289-9a745decac14",
+    "external_id": "https://www.datadoghq.com/blog/engineering/agent-go-binaries/"
+  }
+}

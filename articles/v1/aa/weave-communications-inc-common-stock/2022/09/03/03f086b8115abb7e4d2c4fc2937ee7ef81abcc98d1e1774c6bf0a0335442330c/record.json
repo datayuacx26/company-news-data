@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03f086b8115abb7e4d2c4fc2937ee7ef81abcc98d1e1774c6bf0a0335442330c",
+  "company": {
+    "key": "weave-communications-inc-common-stock",
+    "name": "Weave Communications Inc."
+  },
+  "source": {
+    "id": "weave-communications-inc-common-stock-rss-cb397ff18858",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.getweave.com/post/api-gateway-and-grpc-generation-1/",
+    "canonical": "https://engineering.getweave.com/post/api-gateway-and-grpc-generation-1/"
+  },
+  "title": "GitOps at Weave: API gateway & gRPC Generation - Part 1",
+  "summary": "An in-depth look at our API gateway which involves our custom proto generation pipeline",
+  "published_at": "2022-09-08T00:12:22+00:00",
+  "first_seen_at": "2026-07-20T23:19:36.973215+00:00",
+  "fetched_at": "2026-07-28T21:03:09.867162+00:00",
+  "last_updated_at": "2026-07-28T21:04:01.564194+00:00",
+  "paths": {
+    "article": "articles/v1/aa/weave-communications-inc-common-stock/2022/09/03/03f086b8115abb7e4d2c4fc2937ee7ef81abcc98d1e1774c6bf0a0335442330c/article.md",
+    "record": "articles/v1/aa/weave-communications-inc-common-stock/2022/09/03/03f086b8115abb7e4d2c4fc2937ee7ef81abcc98d1e1774c6bf0a0335442330c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21680,
+    "sha256": "sha256:6eae93bb7601da6c8369ffdace4ac885f5072b4452570770c4656c55f314a547",
+    "normalized_content_hash": "sha256:9fc0f6499d711e29b2473134f0897267d5e6295859fae7166359b47dcd2c1510"
+  },
+  "provenance": {
+    "source_item_id": "2454784a-7d96-442b-b032-25b038d8a963",
+    "external_id": "https://engineering.getweave.com/post/api-gateway-and-grpc-generation-1/"
+  }
+}

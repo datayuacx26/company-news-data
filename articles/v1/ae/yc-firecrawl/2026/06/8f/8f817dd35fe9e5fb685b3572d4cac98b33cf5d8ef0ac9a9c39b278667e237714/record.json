@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f817dd35fe9e5fb685b3572d4cac98b33cf5d8ef0ac9a9c39b278667e237714",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/build-slack-ai-agent-eve",
+    "canonical": "https://www.firecrawl.dev/blog/build-slack-ai-agent-eve"
+  },
+  "title": "Vercel eve Tutorial: Build a Slack AI Agent with eve and Firecrawl",
+  "summary": "Build a Slack AI agent with eve, Vercel's filesystem-first framework, and wire in Firecrawl web search for cited answers in any thread.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-07-29T18:26:26.899997+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/06/8f/8f817dd35fe9e5fb685b3572d4cac98b33cf5d8ef0ac9a9c39b278667e237714/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/06/8f/8f817dd35fe9e5fb685b3572d4cac98b33cf5d8ef0ac9a9c39b278667e237714/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19990,
+    "sha256": "sha256:809e5a3dfc417c24d075eb837f38eb11659276838be940f8bfb1a839bd06c2f1",
+    "normalized_content_hash": "sha256:cb35dbf78ed29856e17cf4a72861e7cce6af172ac1246b77f67f0b74fd85d63c"
+  },
+  "provenance": {
+    "source_item_id": "29fac6c9-a3b5-487b-ac13-efdffcdac9f9",
+    "external_id": "https://www.firecrawl.dev/blog/build-slack-ai-agent-eve"
+  }
+}

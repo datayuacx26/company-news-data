@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27f9fac87b6c13ea810bef63173f8074d8b2173aa0a07eb5dc8cf58c03ca2ad0",
+  "company": {
+    "key": "yc-finlens",
+    "name": "Finlens"
+  },
+  "source": {
+    "id": "yc-finlens-news-import-eb6409796ae1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.finlens.app/blogs/multi-currency-stripe-reconciliation",
+    "canonical": "https://www.finlens.app/blogs/multi-currency-stripe-reconciliation"
+  },
+  "title": "Multi Currency Stripe Reconciliation: Handling FX, Settlement Currency, and Multi Entity GL Posting",
+  "summary": "Stripe converts at its rate. QBO uses its rate. Your bank applies a third. Here's how to reconcile multi currency Stripe transactions under ASC 830 with worked journal entries and mistakes that create phantom FX variances.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T22:39:39.250313+00:00",
+  "fetched_at": "2026-07-31T22:39:40.641602+00:00",
+  "last_updated_at": "2026-08-02T14:59:30.666360+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-finlens/2026/06/27/27f9fac87b6c13ea810bef63173f8074d8b2173aa0a07eb5dc8cf58c03ca2ad0/article.md",
+    "record": "articles/v1/89/yc-finlens/2026/06/27/27f9fac87b6c13ea810bef63173f8074d8b2173aa0a07eb5dc8cf58c03ca2ad0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14823,
+    "sha256": "sha256:5402703e67d1bd297c3d95a379872cb093aec580725f50da002eaaf69afa2ca1",
+    "normalized_content_hash": "sha256:0b094d04d5853d4f57d5320a52ab3d7b8e8e2b0928c1bac1ffa230a9090b4e1f"
+  },
+  "provenance": {
+    "source_item_id": "b6c7c24c-efc4-4574-8125-e2ce73667309",
+    "external_id": "https://www.finlens.app/blogs/multi-currency-stripe-reconciliation"
+  }
+}

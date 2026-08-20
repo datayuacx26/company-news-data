@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a635ac221a00f20895d31763374dfcb759b0bdf55ea368ca12e4b625bdb90788",
+  "company": {
+    "key": "yc-wave",
+    "name": "Wave"
+  },
+  "source": {
+    "id": "yc-wave-rss-404ae0f13af9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wave.com/en/blog/split/",
+    "canonical": "https://www.wave.com/en/blog/split/"
+  },
+  "title": "How we split our codebase down the middle",
+  "summary": "By far the biggest code improvement we made to Wave was to split our codebase in half. Our first product was building faster and cheaper money transfer to Africa, by delivering funds directly to M-Pesa and similar systems. That business grew incredibly quickly, but eventually hit a wall: most countries in Africa didn’t have a system like M-Pesa. We realized that this roadblock was actually an opportunity. Instead of just international money transfer, why not build our own mobile money systems in the countries that didn’t have them yet?",
+  "published_at": "2019-07-26T20:58:47+00:00",
+  "first_seen_at": "2026-07-24T06:52:44.556575+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:42:10.862393+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-wave/2019/07/a6/a635ac221a00f20895d31763374dfcb759b0bdf55ea368ca12e4b625bdb90788/article.md",
+    "record": "articles/v1/a1/yc-wave/2019/07/a6/a635ac221a00f20895d31763374dfcb759b0bdf55ea368ca12e4b625bdb90788/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10099,
+    "sha256": "sha256:85068cf678790f41dd78f6e6f9be934c4aeef149fe0a05a0e144f1412fe3fb89",
+    "normalized_content_hash": "sha256:dc83858e5685c2c33a08f1fcc0b1a13413ecfa67b1279a95ed4f2ea4dc457a86"
+  },
+  "provenance": {
+    "source_item_id": "e59dcd13-1893-4c73-b161-2037ee300a74",
+    "external_id": "https://www.wave.com/en/blog/split/"
+  }
+}

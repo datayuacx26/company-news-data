@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "gogo-inc-common-stock",
+    "name": "Gogo Inc."
+  },
+  "record_count": 5,
+  "first_published_at": "2024-10-22T12:00:00+00:00",
+  "last_published_at": "2024-12-04T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/gogo-inc-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5537,
+        "sha256": "sha256:b352cd17dacea83f6279bfc4541859b0369a618bd311f2e39bd4b32da7a7685c",
+        "newest_at": "2024-12-04T12:00:00+00:00",
+        "oldest_at": "2024-10-22T12:00:00+00:00"
+      }
+    ]
+  }
+}

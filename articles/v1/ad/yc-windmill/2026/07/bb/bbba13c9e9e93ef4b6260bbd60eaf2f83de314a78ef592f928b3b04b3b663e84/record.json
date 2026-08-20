@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbba13c9e9e93ef4b6260bbd60eaf2f83de314a78ef592f928b3b04b3b663e84",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ai-session-artifacts",
+    "canonical": "https://www.windmill.dev/changelog/ai-session-artifacts"
+  },
+  "title": "Markdown artifacts in AI sessions",
+  "summary": "In AI sessions, the assistant can now save longer structured output like plans, specs and design write-ups as markdown artifacts that persist for the whole session. Artifacts open in the session preview panel with Copy, Download as .md and a Preview / View source toggle, and are listed in the new status line above the chat input that gathers the session's drafts, artifacts and jobs. They are stored locally in your browser, restored when you reopen the session and removed when the session is deleted.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T15:49:25.757524+00:00",
+  "fetched_at": "2026-08-14T15:49:28.085235+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/bb/bbba13c9e9e93ef4b6260bbd60eaf2f83de314a78ef592f928b3b04b3b663e84/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/bb/bbba13c9e9e93ef4b6260bbd60eaf2f83de314a78ef592f928b3b04b3b663e84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1939,
+    "sha256": "sha256:71b7c97b3738b7a94c9248fc6aa9fe2784e3e826f092a8f54bee54984494ac81",
+    "normalized_content_hash": "sha256:d95e0722bbef7adcc70c5dfbe17095757332f02c02ffa152b891cf3fa5ce291c"
+  },
+  "provenance": {
+    "source_item_id": "eed51538-6f68-49ca-b57b-bef795f66b07",
+    "external_id": "https://www.windmill.dev/changelog/ai-session-artifacts"
+  }
+}

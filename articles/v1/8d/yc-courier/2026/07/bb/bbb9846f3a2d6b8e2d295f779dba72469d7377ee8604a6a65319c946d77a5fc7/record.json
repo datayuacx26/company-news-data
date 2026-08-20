@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbb9846f3a2d6b8e2d295f779dba72469d7377ee8604a6a65319c946d77a5fc7",
+  "company": {
+    "key": "yc-courier",
+    "name": "Courier"
+  },
+  "source": {
+    "id": "yc-courier-news-import-df9818472bef",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.courier.com/blog/notification-cost-at-scale",
+    "canonical": "https://www.courier.com/blog/notification-cost-at-scale"
+  },
+  "title": "The real cost of notifications at scale",
+  "summary": "Notification costs scale on two axes at once: volume and users. Here's how to model the real total, the levers that cut it, and where build vs buy lands.",
+  "published_at": "2026-07-20T17:00:00+00:00",
+  "first_seen_at": "2026-07-25T00:50:30.955928+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-17T19:25:42.440178+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-courier/2026/07/bb/bbb9846f3a2d6b8e2d295f779dba72469d7377ee8604a6a65319c946d77a5fc7/article.md",
+    "record": "articles/v1/8d/yc-courier/2026/07/bb/bbb9846f3a2d6b8e2d295f779dba72469d7377ee8604a6a65319c946d77a5fc7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12677,
+    "sha256": "sha256:a1c4f7b907c60ebde2b2e4e3a616c297f29a3c91de0cc31ab13c2dd150656f51",
+    "normalized_content_hash": "sha256:71b1159ccd73a33e1899f9027ee9755eab2cebe5a194fad6fac93aa9bbf1b815"
+  },
+  "provenance": {
+    "source_item_id": "e38b8894-6e57-4b77-a38a-e7de7cabfb5d",
+    "external_id": "https://www.courier.com/blog/notification-cost-at-scale"
+  }
+}

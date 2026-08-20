@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nice-ltd-american-depositary-shares",
+    "name": "NICE Ltd"
+  },
+  "record_count": 36,
+  "first_published_at": "2026-06-09T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/92/nice-ltd-american-depositary-shares/index/pages/000001.json",
+        "record_count": 36,
+        "byte_count": 42641,
+        "sha256": "sha256:eab1f33c286b55bc068b097a95485df6114ac42426b15c695c4e2bfe2537b2af",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2026-06-09T00:00:00+00:00"
+      }
+    ]
+  }
+}

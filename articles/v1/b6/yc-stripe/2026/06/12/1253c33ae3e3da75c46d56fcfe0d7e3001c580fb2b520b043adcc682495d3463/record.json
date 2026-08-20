@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1253c33ae3e3da75c46d56fcfe0d7e3001c580fb2b520b043adcc682495d3463",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/microservice-testing-with-apache-spark-part-2",
+    "canonical": "https://stripe.dev/blog/microservice-testing-with-apache-spark-part-2"
+  },
+  "title": "Scaling up your microservice testing with Apache Spark—Part 2",
+  "summary": "Some microservices are difficult to test because their behavior depends on a long tail of inputs that are hard to model by hand. This post focuses on how to build a repeatable Apache Spark replay harness for testing without creating a second implementation of the service.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/12/1253c33ae3e3da75c46d56fcfe0d7e3001c580fb2b520b043adcc682495d3463/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/12/1253c33ae3e3da75c46d56fcfe0d7e3001c580fb2b520b043adcc682495d3463/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3628,
+    "sha256": "sha256:5d7ba4d715e08cedbdd831787cd7e12f2d36065c282eaf5d705c0374d2f7f4fe",
+    "normalized_content_hash": "sha256:1360e2570cb61409b0993db658c22be5db97cd3a7e674bd02febd388aef06b79"
+  },
+  "provenance": {
+    "source_item_id": "a6ede806-e132-46fd-ba8f-902e2519cca1",
+    "external_id": "https://stripe.dev/blog/microservice-testing-with-apache-spark-part-2"
+  }
+}

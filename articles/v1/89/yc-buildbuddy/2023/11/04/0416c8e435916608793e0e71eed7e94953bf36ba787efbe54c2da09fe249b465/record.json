@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0416c8e435916608793e0e71eed7e94953bf36ba787efbe54c2da09fe249b465",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-9eed3a34e5de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/blog/image-streaming",
+    "canonical": "https://www.buildbuddy.io/blog/image-streaming"
+  },
+  "title": "Lazily Pulling Container Images with Podman and SOCI Snapshotter",
+  "summary": "We’re excited to share how we're making \"podman pull\" ten times faster by lazily fetching container images using the SOCI Snapshotter.",
+  "published_at": "2023-11-15T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:54.250593+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T03:45:46.032492+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2023/11/04/0416c8e435916608793e0e71eed7e94953bf36ba787efbe54c2da09fe249b465/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2023/11/04/0416c8e435916608793e0e71eed7e94953bf36ba787efbe54c2da09fe249b465/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12238,
+    "sha256": "sha256:95ff678c736ade01fa915448f038f7aa1255d0a80f7fb50902da7cc6c47223b7",
+    "normalized_content_hash": "sha256:1a6327efc8dc062a436ff7051182ab2ec330fcc172a244fe0688c57a2650425f"
+  },
+  "provenance": {
+    "source_item_id": "034c2f60-3f07-4f8e-9267-f0f21bf023e0",
+    "external_id": "https://www.buildbuddy.io/blog/image-streaming"
+  }
+}

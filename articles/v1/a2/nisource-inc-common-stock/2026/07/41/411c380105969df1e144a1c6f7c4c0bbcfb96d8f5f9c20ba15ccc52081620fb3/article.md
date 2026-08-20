@@ -1,0 +1,65 @@
+---
+schema_version: "1.0.0"
+document_id: "411c380105969df1e144a1c6f7c4c0bbcfb96d8f5f9c20ba15ccc52081620fb3"
+company_key: "nisource-inc-common-stock"
+company: "NiSource Inc"
+source_id: "nisource-inc-common-stock-news-import-ea97306455be"
+canonical_url: "https://www.nisource.com/news/article/nisource-announces-1.5-billion-at-the-market-(atm)-equity-issuance-program-through-2028"
+published_at: null
+first_seen_at: "2026-07-25T17:04:03.102630+00:00"
+fetched_at: "2026-07-28T21:16:50.994015+00:00"
+content_hash: "sha256:8e62970438a908f9777dede14d06510bc6c587ad071642c1b635414dea4c79bd"
+---
+
+# NiSource announces $1.5 billion at-the-market (ATM) equity issuance program through 2028
+
+**MERRILLVILLE, Ind.** - NiSource Inc. (NYSE: NI) (“NiSource”, “we” and “our”) announced today that it has established an “at-the-market” equity offering program under which NiSource may sell shares of its common stock, par value $0.01 per share (“Common Stock”), having an aggregate gross sales price of up to $1.5 billion through December 31, 2028 (the “Offering”).
+
+
+NiSource has entered into separate equity distribution agreements with each of Barclays Capital Inc., BMO Capital Markets Corp., BNP Paribas Securities Corp., BofA Securities, Inc., Goldman Sachs & Co. LLC, J.P. Morgan Securities LLC, Mizuho Securities USA LLC, Morgan Stanley & Co. LLC, MUFG Securities Americas Inc., Scotia Capital (USA) Inc. and Wells Fargo Securities, LLC in their respective capacities as sales agents and as forward sellers (collectively, the “Agents”). Pursuant to these agreements, shares of Common Stock may be offered and sold by any method or payment permitted by law to be an “at the market offering” as defined in Rule 415 under the Securities Act of 1933, as amended (the “Securities Act”), including by means of ordinary brokers’ transactions on the New York Stock Exchange, the existing trading market for shares of Common Stock, or otherwise at market prices prevailing at the time of sale, or sales made to or through a market maker or through an electronic communications network.
+
+
+In addition to the issuance and sale of shares of Common Stock through the Agents, NiSource may also enter into forward sale agreements under a separate master forward sale confirmation and related supplemental confirmation with the Agents or certain of their respective affiliates, each in their capacity as forward purchasers (collectively, the “Forward Purchasers”). In connection with each forward sale agreement, the relevant Forward Purchaser will, at NiSource’s request, attempt to borrow from third parties and, through the relevant Agent, sell a number of shares of Common Stock equal to the number of shares of Common Stock that underlie the forward sale agreement to hedge such forward sale agreement.
+
+
+NiSource intends to use the proceeds from the sales, if any, of the shares of Common Stock for general corporate purposes, including to finance capital expenditures, for working capital and to repay existing indebtedness.
+
+
+The offering supersedes and replaces the $900,000,000 “at-the-market” equity offering we established on February 22, 2024 and is inclusive of approximately $47.5 million of our Common Stock that was unsold under that offering.
+
+
+The Offering is being made by means of a prospectus supplement to the prospectus contained in the effective registration statement on Form S-3 filed with the U.S. Securities and Exchange Commission (the “SEC”) on October 30, 2025. Before making an investment in the Common Stock, potential investors should read the prospectus supplement and the accompanying prospectus for more complete information about NiSource and the Offering. Potential investors may obtain these documents for free by visiting EDGAR on the SEC’s website at www.sec.gov. Alternatively, potential investors may contact any Agent participating in the Offering, who will arrange to send them these documents: Barclays Capital Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, New York 11717, email: barclaysprospectus@broadridge.com, telephone: (888) 603-5847; BMO Capital Markets Corp., Attn: Equity Syndicate Department, 151 W 42nd Street, 32nd Floor, New York, NY 10036, email: bmoprospectus@bmo.com; BNP Paribas Securities Corp., 787 7th Avenue, New York, New York 10019, Attn: BNP Paribas Prospectus Requests, email: DL.prospectus_requests@us.bnpparibas.com, telephone: 212-471-6700; BofA Securities, NC1-022-02-25, 201 North Tryon Street, Charlotte, NC 28255-0001, Attn: Prospectus Department, email: dg.prospectus_requests@bofa.com; Goldman Sachs & Co. LLC, Prospectus Department, 200 West Street, New York, NY 10282, email Prospectus-ny@ny.email.gs.com, telephone: 1-866-471-2526; J.P. Morgan Securities LLC, c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717, telephone: (866) 803-9204; Mizuho Securities USA LLC, 1271 Avenue of the Americas, 3rd Floor, New York, NY 10020, Attn: Equity Capital Markets, email: US-ECM@mizuhogroup.com, telephone: (212) 205-7600; Morgan Stanley & Co. LLC, Attn: Prospectus Department, 180 Varick Street, 2nd Floor, New York, NY 10014; MUFG Securities Americas Inc., 1221 Avenue of the Americas, 6th Floor, New York, New York 10020-1001, email: ECM@us.sc.mufg.jp, telephone: (212) 405-6653; Scotia Capital (USA) Inc., c/o ScotiaCapital (USA) Inc., 250 Vesey Street, 24th Floor, New York, NY 10281, email: US.ECM@scotiabank.com, telephone: collect at (855) 346-4015; Wells Fargo Securities, 90 South 7th Street, 5th Floor, Minneapolis, MN 55402, email: WFScustomerservice@wellsfargo.com, telephone: (800) 645-3751 (option #5).
+
+
+This press release shall not constitute an offer to sell or the solicitation of an offer to buy, nor shall there be any sale of shares of Common Stock, in any state or other jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or other jurisdiction.
+
+
+**About NiSource**
+
+
+NiSource Inc. (NYSE: NI) is one of the largest fully-regulated utility companies in the United States, serving approximately 3.3 million natural gas customers and 500,000 electric customers across six states through its local Columbia Gas and NIPSCO brands. The mission of our approximately 7,700 employees is to deliver safe, reliable energy that drives value to our customers. NiSource is a member of the Dow Jones Sustainability - North America Index and is on Forbes lists of America’s Best Employers for Women and Diversity.
+
+
+NI-F
+
+
+**Forward-Looking Statements**
+
+
+This press release contains “forward-looking statements,” within the meaning of Section 27A of the Securities Act and Section 21E of the Securities Exchange Act of 1934, as amended. Investors and prospective investors should understand that many factors govern whether any forward-looking statement contained herein will be or can be realized. Any one of those factors could cause actual results to differ materially from those projected. Forward-looking statements in this press release include, but are not limited to, statements concerning the anticipated use of proceeds and any and all underlying assumptions and other statements that are other than statements of historical fact. Expressions of future goals and expectations and similar expressions, including “may,” “will,” “should,” “could,” “would,” “aims,” “seeks,” “expects,” “plans,” “anticipates,” “intends,” “believes,” “estimates,” “predicts,” “potential,” “targets,” “forecast,” and “continue,” reflecting something other than historical fact are intended to identify forward-looking statements. All forward-looking statements are based on assumptions that management believes to be reasonable; however, there can be no assurance that actual results will not differ materially.
+
+
+Factors that could cause actual results to differ materially from the projections, forecasts, estimates and expectations discussed in this press release include, among other things: our ability to execute our business plan or growth strategy, including utility infrastructure investments, or business opportunities, such as data center development and related generation sources and transmission capabilities to meet potential load growth; our ability to manage data center growth in our service territories; potential incidents and other operating risks associated with our business; our ability to work successfully with our third-party investors; our ability to construct, develop and place into service the generation and transmission assets we plan to construct to serve the customer under the data center contract (the “Contract Assets”) on time or at all and consistent with initial cost estimates, as well as the performance of these assets once constructed and placed into service; our ability to obtain the significant additional financing that will be required to construct the Contract Assets on favorable terms, if at all; our ability to recover our investments and realize our expected return under the data center contract; our ability to maintain our investment grade credit ratings as we finance and pursue our data center strategy, including our performance under the data center contract; our customer’s performance under the data center contract and any decision by our customer to terminate the data center contract or reduce the committed capacity thereunder; potential changes in the MISO accreditation treatment of capacity resources; our ability to adapt to, and manage costs related to, advances in technology, including alternative energy sources and changes in laws and regulations; our increased dependency on technology; impacts related to our aging infrastructure; our ability to obtain sufficient insurance coverage and whether such coverage will protect us against significant losses; the success of our electric generation strategy; construction risks and supply risks; fluctuations in demand from residential and commercial customers; fluctuations in the price of energy commodities and related transportation costs or an inability to obtain an adequate, reliable and cost-effective fuel supply to meet customer demand; our ability to attract, retain or re-skill a qualified, diverse workforce and maintain good labor relations; our ability to manage new initiatives and organizational changes; the performance and quality of third-party suppliers and service providers; our ability to manage the financial and operational risks related to achieving our carbon emission reduction goals, including our Net Zero Goal (as defined in our Annual Report on Form 10-K for the year ended December 31, 2024), including any future associated impact from business opportunities such as data center development as those opportunities evolve; potential cybersecurity attacks or security breaches; increased requirements and costs related to cybersecurity; the actions of activist stockholders; any damage to our reputation; the impacts of natural disasters, potential terrorist attacks or other catastrophic events; the physical impacts of climate change and the transition to a lower carbon future; our debt obligations; any changes to our credit rating or the credit rating of certain of our subsidiaries; adverse economic and capital market conditions, including increases in inflation or interest rates, recession, or changes in investor sentiment; economic regulation and the impact of regulatory rate reviews; our ability to obtain expected financial or regulatory outcomes; economic conditions in certain industries; the reliability of customers and suppliers to fulfill their payment and contractual obligations; the ability of our subsidiaries to generate cash; pension funding obligations; potential impairments of goodwill; the outcome of legal and regulatory proceedings, investigations, incidents, claims and litigation; compliance with changes in, or new interpretations of applicable laws, regulations and tariffs, including impacts of state and federal orders on our ability to carry out our business plan and growth strategy; the cost of compliance with environmental laws and regulations and the costs of associated liabilities; changes in tax laws or the interpretation thereof; and other risk factors disclosed in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024, the Company’s Quarterly Reports on Form 10-Q for the quarters ended March 31, 2025, June 30, 2025 and September 30, 2025, and the Company’s subsequent filings with the SEC, some of which risks are beyond our control.
+
+
+We qualify all of our forward-looking statements by these cautionary statements. Forward-looking statements speak only as of the date they are made, and we expressly disclaim an obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required by law.
+
+
+**FOR ADDITIONAL INFORMATION**
+
+
+**** **Media**media@nisource.com ****
+
+
+**Investors**
+investors@nisource.com

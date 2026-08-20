@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-risotto",
+    "name": "Risotto"
+  },
+  "record_count": 16,
+  "first_published_at": "2026-03-02T00:00:00+00:00",
+  "last_published_at": "2026-08-03T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9d/yc-risotto/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 15797,
+        "sha256": "sha256:26f8b658733f5ba1a3353f5c4be47f651138b9919ce5956b1b6790592aa1ac67",
+        "newest_at": "2026-08-12T14:29:12.534391+00:00",
+        "oldest_at": "2026-03-02T00:00:00+00:00"
+      }
+    ]
+  }
+}

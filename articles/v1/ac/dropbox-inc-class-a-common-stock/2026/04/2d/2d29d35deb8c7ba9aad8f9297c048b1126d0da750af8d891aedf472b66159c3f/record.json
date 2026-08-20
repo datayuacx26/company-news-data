@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2d29d35deb8c7ba9aad8f9297c048b1126d0da750af8d891aedf472b66159c3f",
+  "company": {
+    "key": "dropbox-inc-class-a-common-stock",
+    "name": "Dropbox Inc."
+  },
+  "source": {
+    "id": "dropbox-inc-class-a-common-stock-rss-58b41d3bcd8e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store",
+    "canonical": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store"
+  },
+  "title": "Improving storage efficiency in Magic Pocket, our immutable blob store",
+  "summary": "By turning compaction into a layered, adaptive pipeline and strengthening our monitoring and controls, we made Magic Pocket more resilient to workload changes.",
+  "published_at": "2026-04-02T17:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:44.950471+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T02:53:45.637311+00:00",
+  "paths": {
+    "article": "articles/v1/ac/dropbox-inc-class-a-common-stock/2026/04/2d/2d29d35deb8c7ba9aad8f9297c048b1126d0da750af8d891aedf472b66159c3f/article.md",
+    "record": "articles/v1/ac/dropbox-inc-class-a-common-stock/2026/04/2d/2d29d35deb8c7ba9aad8f9297c048b1126d0da750af8d891aedf472b66159c3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19629,
+    "sha256": "sha256:c12248918b98566ab61a5dc8ea30333e4926c4302822637e812aae6bc02fa511",
+    "normalized_content_hash": "sha256:8a25cdbfeed12304b586b0fa7c84bd0e59fbcc925f2d3ab3dce8dfb504393106"
+  },
+  "provenance": {
+    "source_item_id": "a42f2108-b89c-42d0-b443-af61a7ae87a0",
+    "external_id": "https://dropbox.tech/infrastructure/improving-storage-efficiency-in-magic-pocket-our-immutable-blob-store"
+  }
+}

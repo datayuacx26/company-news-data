@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdcba68ea52327c459acdcca4a21cd571cb1d6a3f394bac865694ea3c54fa4db",
+  "company": {
+    "key": "yc-curvenote",
+    "name": "Curvenote"
+  },
+  "source": {
+    "id": "yc-curvenote-news-import-2221551dc8c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://curvenote.com/blog/architecture-of-a-myst-website",
+    "canonical": "https://curvenote.com/blog/architecture-of-a-myst-website"
+  },
+  "title": "Architecture of MyST and Curvenote Websites",
+  "summary": "Curvenote and MyST websites create structured data, which can be rendered by any number of \"theme servers\", which are in charge of turning that structured data into a reading experience.",
+  "published_at": "2023-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T06:57:34.135292+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T14:58:58.235006+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-curvenote/2023/01/bd/bdcba68ea52327c459acdcca4a21cd571cb1d6a3f394bac865694ea3c54fa4db/article.md",
+    "record": "articles/v1/ae/yc-curvenote/2023/01/bd/bdcba68ea52327c459acdcca4a21cd571cb1d6a3f394bac865694ea3c54fa4db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9646,
+    "sha256": "sha256:9b595bead2899cdddb1148c1743f9944556da929f2c4954a2cf8e243a1dc9373",
+    "normalized_content_hash": "sha256:fa313ced2a5410ed03fb8a9cf2d48e89738ca72e2d2ac6884bda9821f719d822"
+  },
+  "provenance": {
+    "source_item_id": "297052ac-eae9-4b60-a3fc-167a4a15185b",
+    "external_id": "https://curvenote.com/blog/architecture-of-a-myst-website"
+  }
+}

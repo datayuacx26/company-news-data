@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1a775af7eb003e2099cccb76ef7f960360b410ec2adea556f4505adeae11e1ce",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/jspi-javascript-wasm-bridge/",
+    "canonical": "https://blog.openreplay.com/jspi-javascript-wasm-bridge/"
+  },
+  "title": "JSPI Explained: A Better Bridge Between JavaScript and Wasm",
+  "summary": "JSPI bridges JavaScript and WebAssembly so synchronous Wasm can call Promise-based APIs like fetch, with Suspending and promising, plus browser support status.",
+  "published_at": "2026-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-02T13:12:05.513475+00:00",
+  "fetched_at": "2026-08-05T03:48:28.288743+00:00",
+  "last_updated_at": "2026-08-11T15:29:32.412738+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/1a/1a775af7eb003e2099cccb76ef7f960360b410ec2adea556f4505adeae11e1ce/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/1a/1a775af7eb003e2099cccb76ef7f960360b410ec2adea556f4505adeae11e1ce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13562,
+    "sha256": "sha256:6a5377b129a650385744137da7c818a42b3414b06d489c97352a31bc19b1d51d",
+    "normalized_content_hash": "sha256:a27bd7d635cb4a03964f5344e437b6b3531e7253819d3dc6f9db10b25eb4b871"
+  },
+  "provenance": {
+    "source_item_id": "74585359-8142-4c34-a639-14a7106eded2",
+    "external_id": "https://blog.openreplay.com/jspi-javascript-wasm-bridge/"
+  }
+}

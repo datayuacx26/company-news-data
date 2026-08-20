@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b810f9a665f352baf65f44030704931a13f658327c99be21819c855b3d284b48",
+  "company": {
+    "key": "blend-labs-inc-class-a-common-stock",
+    "name": "Blend Labs Inc."
+  },
+  "source": {
+    "id": "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://full-stack.blend.com/migrating-the-kubernetes-network-overlay-with-zero-downtime.html",
+    "canonical": "https://full-stack.blend.com/migrating-the-kubernetes-network-overlay-with-zero-downtime.html"
+  },
+  "title": "Migrating the Kubernetes Network Overlay With Zero Downtime",
+  "summary": "At Blend, we make extensive use of Kubernetes on AWS to power our infrastructure. Kubernetes has many moving parts, and most of these components are swappable, allowing us to customize clusters to our needs. An important component of any cluster is the Container Network Interface (CNI), which handles the networking for all pods running on the cluster. Choosing the right CNI for each use case is critically important and making changes, once serving production traffic, can be painful.",
+  "published_at": "2020-02-03T23:46:57+00:00",
+  "first_seen_at": "2026-07-20T23:18:43.300114+00:00",
+  "fetched_at": "2026-08-20T00:34:47.711311+00:00",
+  "last_updated_at": "2026-08-20T00:34:47.824667+00:00",
+  "paths": {
+    "article": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/b8/b810f9a665f352baf65f44030704931a13f658327c99be21819c855b3d284b48/article.md",
+    "record": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/02/b8/b810f9a665f352baf65f44030704931a13f658327c99be21819c855b3d284b48/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1146,
+    "sha256": "sha256:b80ce58ebb6ce6d92a51a548b911ac43054ae03e36e1f5889d9e426db69205fe",
+    "normalized_content_hash": "sha256:6de5ed5c0f8b9369fe5614b9cc53c6313fc0d1192e0f9cb0bea707d2427a58cd"
+  },
+  "provenance": {
+    "source_item_id": "e6158350-1efe-484e-a894-d98155210bde",
+    "external_id": "https://full-stack.blend.com/migrating-the-kubernetes-network-overlay-with-zero-downtime.html"
+  }
+}

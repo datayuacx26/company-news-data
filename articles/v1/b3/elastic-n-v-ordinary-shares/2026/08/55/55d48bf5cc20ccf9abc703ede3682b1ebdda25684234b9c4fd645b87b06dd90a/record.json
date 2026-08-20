@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55d48bf5cc20ccf9abc703ede3682b1ebdda25684234b9c4fd645b87b06dd90a",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/llm-benchmarking-agentic-soc",
+    "canonical": "https://www.elastic.co/security-labs/llm-benchmarking-agentic-soc"
+  },
+  "title": "Benchmarking the Agentic SOC: How we evaluate LLMs for security workflows",
+  "summary": "Elastic's LLM benchmarking framework runs every model through the same security agent and data, then scores tool use blind. Rankings flip by task.",
+  "published_at": "2026-08-04T23:59:59+00:00",
+  "first_seen_at": "2026-08-03T17:38:59.274611+00:00",
+  "fetched_at": "2026-08-03T18:22:19.433930+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/55/55d48bf5cc20ccf9abc703ede3682b1ebdda25684234b9c4fd645b87b06dd90a/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/55/55d48bf5cc20ccf9abc703ede3682b1ebdda25684234b9c4fd645b87b06dd90a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29296,
+    "sha256": "sha256:4372f2430f4b6a1a1f85fb9b1ad1143ee42a45ed85772f868f9f1a8e66b8e389",
+    "normalized_content_hash": "sha256:d774876d868bcb28502d30678220da52cc24c6e2cb8776888aa25ca4358cf390"
+  },
+  "provenance": {
+    "source_item_id": "a977f6ca-ef99-4639-9a82-375af2da2eb0",
+    "external_id": "llm-benchmarking-agentic-soc"
+  }
+}

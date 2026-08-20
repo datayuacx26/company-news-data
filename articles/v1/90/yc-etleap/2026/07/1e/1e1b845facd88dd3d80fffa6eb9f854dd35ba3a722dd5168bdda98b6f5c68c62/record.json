@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e1b845facd88dd3d80fffa6eb9f854dd35ba3a722dd5168bdda98b6f5c68c62",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/introducing-the-iceberg-pipeline-platform",
+    "canonical": "https://etleap.com/blog/introducing-the-iceberg-pipeline-platform"
+  },
+  "title": "Introducing the Iceberg pipeline platform",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T18:50:49.183689+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-19T17:45:57.423913+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/1e/1e1b845facd88dd3d80fffa6eb9f854dd35ba3a722dd5168bdda98b6f5c68c62/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/1e/1e1b845facd88dd3d80fffa6eb9f854dd35ba3a722dd5168bdda98b6f5c68c62/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8455,
+    "sha256": "sha256:abcbfcdf510cd070fca1ff2ebdc957ddae1199069b8911814a18a577b7c1d0f1",
+    "normalized_content_hash": "sha256:d2f9cafa5b0cc171dc90e3661d28c4dddb23054fa1a21d13800aae355d471345"
+  },
+  "provenance": {
+    "source_item_id": "a76e6830-80bd-496b-a8ba-fd4b59389407",
+    "external_id": "https://etleap.com/blog/introducing-the-iceberg-pipeline-platform"
+  }
+}

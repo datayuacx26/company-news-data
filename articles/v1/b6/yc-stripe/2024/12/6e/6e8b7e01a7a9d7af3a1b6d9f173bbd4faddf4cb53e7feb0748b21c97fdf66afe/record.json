@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e8b7e01a7a9d7af3a1b6d9f173bbd4faddf4cb53e7feb0748b21c97fdf66afe",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/enhance-your-monitoring-by-integrating-stripe-events-with-aws-cloudwatch-log-groups",
+    "canonical": "https://stripe.dev/blog/enhance-your-monitoring-by-integrating-stripe-events-with-aws-cloudwatch-log-groups"
+  },
+  "title": "Enhance your monitoring by integrating Stripe events with AWS CloudWatch Log Groups",
+  "summary": "Integrating Stripe events with AWS CloudWatch Log Groups enhances monitoring by enabling real-time tracking and analysis of Stripe transactions. This setup allows for seamless transfer of Stripe data to CloudWatch via Amazon EventBridge, streamlining payment operations. It provides the tools to visualize, monitor, and respond to events efficiently, optimizing strategic decisions.",
+  "published_at": "2024-12-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/12/6e/6e8b7e01a7a9d7af3a1b6d9f173bbd4faddf4cb53e7feb0748b21c97fdf66afe/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/12/6e/6e8b7e01a7a9d7af3a1b6d9f173bbd4faddf4cb53e7feb0748b21c97fdf66afe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4249,
+    "sha256": "sha256:8a5db0a0598e7192d6cf033d7a36f2964a78825fec95ac5411bd755bbdfc7c09",
+    "normalized_content_hash": "sha256:ad8a89825a36015bfe0aedc97c762f7012e570feeac1625cf0490a585c00ea95"
+  },
+  "provenance": {
+    "source_item_id": "ed13afb5-e6fc-4a82-9710-e459c6ed8061",
+    "external_id": "https://stripe.dev/blog/enhance-your-monitoring-by-integrating-stripe-events-with-aws-cloudwatch-log-groups"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "255dae15a0626e64d02554d98e21981306b2f73333d9ecf296dfce5fe8ffb816",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/elasticsearch-columnar-storage",
+    "canonical": "https://www.elastic.co/search-labs/blog/elasticsearch-columnar-storage"
+  },
+  "title": "Why Elasticsearch is becoming a columnar database",
+  "summary": "Columnar Mode turns Elasticsearch into a columnar database. Storage shrinks, analytical queries run faster, and your APIs and dashboards don't change.",
+  "published_at": "2026-07-09T05:14:33+00:00",
+  "first_seen_at": "2026-07-22T05:42:30.133836+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.656312+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/25/255dae15a0626e64d02554d98e21981306b2f73333d9ecf296dfce5fe8ffb816/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/25/255dae15a0626e64d02554d98e21981306b2f73333d9ecf296dfce5fe8ffb816/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33788,
+    "sha256": "sha256:50383e810e0dcdfd27717d5ddbf12d571b8f39b31b889bb609ccf1ec1aa345be",
+    "normalized_content_hash": "sha256:b58069ddcf82f8f3ccae46336496af2859e8f4669661249d2430e65ff8b09e2f"
+  },
+  "provenance": {
+    "source_item_id": "3b4fc603-f493-47e6-b615-7dbad5c1da27",
+    "external_id": "https://www.elastic.co/search-labs/blog/elasticsearch-columnar-storage"
+  }
+}

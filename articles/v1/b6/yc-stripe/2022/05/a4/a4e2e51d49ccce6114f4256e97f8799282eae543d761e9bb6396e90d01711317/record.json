@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4e2e51d49ccce6114f4256e97f8799282eae543d761e9bb6396e90d01711317",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/fast-secure-builds-choose-two",
+    "canonical": "https://stripe.dev/blog/fast-secure-builds-choose-two"
+  },
+  "title": "Fast builds, secure builds. Choose two",
+  "summary": "Stripe's continuous integration system is responsible for orchestrating build pipelines and executing tens of thousands of test suites. To meet our exceptionally high security bar, we lean on a combination of open-source tech and novel engineering.",
+  "published_at": "2022-05-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2022/05/a4/a4e2e51d49ccce6114f4256e97f8799282eae543d761e9bb6396e90d01711317/article.md",
+    "record": "articles/v1/b6/yc-stripe/2022/05/a4/a4e2e51d49ccce6114f4256e97f8799282eae543d761e9bb6396e90d01711317/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3319,
+    "sha256": "sha256:0b4fb1e045b854a44acd69651ee78cf6e8a4e18a204f93ad5f21aadb536d5f45",
+    "normalized_content_hash": "sha256:482991bdc0614caf06a44591d7d17be18ee55bbda24f952b63fa9cc66aace20c"
+  },
+  "provenance": {
+    "source_item_id": "720c2bf5-9b73-416e-941e-26bbe229a83b",
+    "external_id": "https://stripe.dev/blog/fast-secure-builds-choose-two"
+  }
+}

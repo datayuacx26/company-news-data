@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "060e0d7f962826537162f7aa17cd0825da9c57e82f1718fa65c3686ba05a19fa",
+  "company": {
+    "key": "yc-lago",
+    "name": "Lago"
+  },
+  "source": {
+    "id": "yc-lago-news-import-cc6c03d3f684",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlago.com/blog/we-killed-our-motion-design-job",
+    "canonical": "https://getlago.com/blog/we-killed-our-motion-design-job"
+  },
+  "title": "We killed our motion design job",
+  "summary": "We never hired a motion designer. Now we never will. Every major Lago feature now ships with a launch film. A coding agent produces it through a skill we wrote. The skill creates three artifacts: a storyboard, an animatic, and the final film. A human approves the first two. The expensive render only starts after both gates pass. Six videos in, feedback dropped from a dozen rounds to about one. The marginal cost is now one prompt, two approvals, and thirty minutes of unattended rendering. We t",
+  "published_at": "2026-07-21T00:13:11+00:00",
+  "first_seen_at": "2026-07-25T11:29:02.565124+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T16:09:29.517908+00:00",
+  "paths": {
+    "article": "articles/v1/bf/yc-lago/2026/07/06/060e0d7f962826537162f7aa17cd0825da9c57e82f1718fa65c3686ba05a19fa/article.md",
+    "record": "articles/v1/bf/yc-lago/2026/07/06/060e0d7f962826537162f7aa17cd0825da9c57e82f1718fa65c3686ba05a19fa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9778,
+    "sha256": "sha256:6da4feaedbebb5677040dec661cd8dcb136a00e6d5e36a76ba7744a24281b66a",
+    "normalized_content_hash": "sha256:4afcfb8680676fb76f7b75050710845e99ff79314ba375a76b6f0c9cf9b50c4a"
+  },
+  "provenance": {
+    "source_item_id": "3628c215-c807-4b9f-a7a1-c7602fb2e393",
+    "external_id": "https://getlago.com/blog/we-killed-our-motion-design-job"
+  }
+}

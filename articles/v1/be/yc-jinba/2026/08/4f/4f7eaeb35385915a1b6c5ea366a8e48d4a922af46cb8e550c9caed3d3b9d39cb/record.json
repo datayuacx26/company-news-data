@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f7eaeb35385915a1b6c5ea366a8e48d4a922af46cb8e550c9caed3d3b9d39cb",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/regulated-ai-workflow-claude-jinba",
+    "canonical": "https://jinba.io/blog/regulated-ai-workflow-claude-jinba"
+  },
+  "title": "Claude Cowork Enterprise vs Jinba: Team Governance Comparison",
+  "summary": "Claude Cowork lacks audit logs and isn't built for regulated workloads. Anthropic says so. Jinba is built for exactly those workloads, with RBAC, SSO, on-prem, and full audit trails.",
+  "published_at": "2026-08-07T14:39:02.867+00:00",
+  "first_seen_at": "2026-08-07T18:35:24.561275+00:00",
+  "fetched_at": "2026-08-07T18:35:25.376755+00:00",
+  "last_updated_at": "2026-08-17T12:47:30.522971+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/4f/4f7eaeb35385915a1b6c5ea366a8e48d4a922af46cb8e550c9caed3d3b9d39cb/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/4f/4f7eaeb35385915a1b6c5ea366a8e48d4a922af46cb8e550c9caed3d3b9d39cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17565,
+    "sha256": "sha256:ff040c5d259ebcd94751a6be71c14df30db86f8a63267022e017588666301973",
+    "normalized_content_hash": "sha256:64469674e75e3897ec6bc46adc3610b6d48ef58e00583c5b5065cd5f9caba593"
+  },
+  "provenance": {
+    "source_item_id": "d5f1bceb-550c-42eb-9957-1d69cedbf894",
+    "external_id": "https://jinba.io/blog/regulated-ai-workflow-claude-jinba"
+  }
+}

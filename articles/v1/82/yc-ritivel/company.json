@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ritivel",
+    "name": "Ritivel"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-01-14T00:00:00+00:00",
+  "last_published_at": "2026-01-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/82/yc-ritivel/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5470,
+        "sha256": "sha256:9d790acaa305bbbe71042abe70b509daccd4a37ca0da16b70bf737ac5f6e334f",
+        "newest_at": "2026-01-23T00:00:00+00:00",
+        "oldest_at": "2026-01-14T00:00:00+00:00"
+      }
+    ]
+  }
+}

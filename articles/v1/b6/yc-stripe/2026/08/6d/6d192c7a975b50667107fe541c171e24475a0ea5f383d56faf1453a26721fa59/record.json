@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d192c7a975b50667107fe541c171e24475a0ea5f383d56faf1453a26721fa59",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/reduce-fx-costs-with-stripe",
+    "canonical": "https://stripe.com/blog/reduce-fx-costs-with-stripe"
+  },
+  "title": "New currency capabilities for global businesses to cut FX costs",
+  "summary": "Two new product upgrades make it easy for global businesses to manage FX entirely on Stripe. We’re expanding multicurrency settlement to more markets and currencies, and we’re introducing the ability to convert currencies instantly—all on Stripe.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-17T20:08:45.576113+00:00",
+  "fetched_at": "2026-08-17T20:08:47.050690+00:00",
+  "last_updated_at": "2026-08-20T02:17:02.759010+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/08/6d/6d192c7a975b50667107fe541c171e24475a0ea5f383d56faf1453a26721fa59/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/08/6d/6d192c7a975b50667107fe541c171e24475a0ea5f383d56faf1453a26721fa59/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7341,
+    "sha256": "sha256:891e1a975e7d5661fde7568b20c0aa2dda59bdd2be16831c4f9c18c69531f83e",
+    "normalized_content_hash": "sha256:da8da9bfa89cc8cbe36fc5a8b4205de349156d663c0f1c9d5d48f7fccd0b5626"
+  },
+  "provenance": {
+    "source_item_id": "9ad1b103-5b09-40fd-beaf-c560e6d3f7c1",
+    "external_id": "https://stripe.com/blog/reduce-fx-costs-with-stripe"
+  }
+}

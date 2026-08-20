@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "163682449ddb0d2c139223bb3c9f9b75483f536d6ebed08580872ead86b401de",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/"
+  },
+  "title": "2023-03-08 incident: A deep dive into the platform-level impact",
+  "summary": "A deep dive into what happened at the platform level during the outage of March 8, 2023.",
+  "published_at": "2023-05-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2023/05/16/163682449ddb0d2c139223bb3c9f9b75483f536d6ebed08580872ead86b401de/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2023/05/16/163682449ddb0d2c139223bb3c9f9b75483f536d6ebed08580872ead86b401de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28593,
+    "sha256": "sha256:c401c4f12c656e8ee11bd917aa0f4b9c1293220338d9c5e29c9f72776327a172",
+    "normalized_content_hash": "sha256:e3fb4b20e673f8e7dd79582bbca1ed7ed87c015d36fb4d37954302712c8f75b2"
+  },
+  "provenance": {
+    "source_item_id": "0b5683a3-96bf-4c43-9155-f645873a380d",
+    "external_id": "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/"
+  }
+}

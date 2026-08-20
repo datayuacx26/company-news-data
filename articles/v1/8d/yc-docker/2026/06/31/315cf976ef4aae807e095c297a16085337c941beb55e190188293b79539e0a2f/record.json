@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "315cf976ef4aae807e095c297a16085337c941beb55e190188293b79539e0a2f",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/sbom-generation-for-container-workflows/",
+    "canonical": "https://www.docker.com/blog/sbom-generation-for-container-workflows/"
+  },
+  "title": "How to Generate an SBOM for Container Workflows",
+  "summary": "Learn when, where, and how to generate SBOMs for container images. Covers build-time vs. post-build approaches, quality criteria, and CI/CD integration.",
+  "published_at": "2026-06-25T20:44:07+00:00",
+  "first_seen_at": "2026-07-20T23:20:22.390152+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:43.887994+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/06/31/315cf976ef4aae807e095c297a16085337c941beb55e190188293b79539e0a2f/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/06/31/315cf976ef4aae807e095c297a16085337c941beb55e190188293b79539e0a2f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17181,
+    "sha256": "sha256:d07c64172308c9c18443da47830abe85e6b3b1de28af5e0b2719683e0a7dd25f",
+    "normalized_content_hash": "sha256:087decd6d755ff517bec365c8477e382da43c62eca0b55a00a605a28d267d945"
+  },
+  "provenance": {
+    "source_item_id": "4d79ba9b-bb21-4618-80de-7a57593c6ad0",
+    "external_id": "https://www.docker.com/?p=91638"
+  }
+}

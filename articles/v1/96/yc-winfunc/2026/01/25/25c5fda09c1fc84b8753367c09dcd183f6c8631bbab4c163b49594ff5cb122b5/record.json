@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25c5fda09c1fc84b8753367c09dcd183f6c8631bbab4c163b49594ff5cb122b5",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-25783",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-25783"
+  },
+  "title": "User-Agent version parser panic during session creation (CVE-2026-25783)",
+  "summary": "DoLogin parses the HTTP User-Agent header while creating a session and stores platform, OS, browser name, and browser version on the session. The versio…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/25/25c5fda09c1fc84b8753367c09dcd183f6c8631bbab4c163b49594ff5cb122b5/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/25/25c5fda09c1fc84b8753367c09dcd183f6c8631bbab4c163b49594ff5cb122b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6101,
+    "sha256": "sha256:b545a15f8ccfefdc8f9af683d9452601ae1c9543a6f0cddbf9ca0ae31ce539ab",
+    "normalized_content_hash": "sha256:b6aa6b2750eebbf1b10f28f871402c9f657da1ae379d179535f99f0f92d45f3b"
+  },
+  "provenance": {
+    "source_item_id": "1f010884-4a8b-4c19-ad3d-43f61e1d19b4",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-25783"
+  }
+}

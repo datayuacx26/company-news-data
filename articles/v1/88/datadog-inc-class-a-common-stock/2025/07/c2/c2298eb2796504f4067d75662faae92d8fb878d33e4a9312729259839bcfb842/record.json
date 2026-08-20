@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2298eb2796504f4067d75662faae92d8fb878d33e4a9312729259839bcfb842",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/go-memory-regression/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/go-memory-regression/"
+  },
+  "title": "How we tracked down a Go 1.24 memory regression across hundreds of pods",
+  "summary": "We rolled out Go 1.24 and saw a memory regression. Here’s how we dug into system metrics, uncovered a bug in the runtime allocator, and worked with the Go team to help fix it.",
+  "published_at": "2025-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/07/c2/c2298eb2796504f4067d75662faae92d8fb878d33e4a9312729259839bcfb842/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/07/c2/c2298eb2796504f4067d75662faae92d8fb878d33e4a9312729259839bcfb842/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13683,
+    "sha256": "sha256:ea18cdc234d2989e66722bb178788e83e944a633ced5ff11fed28aa5357e4494",
+    "normalized_content_hash": "sha256:ba7e978d120ebbfbd4fceeafd594874eec9c3fa2821219649a8d7938676a8a96"
+  },
+  "provenance": {
+    "source_item_id": "7d8deb09-b7d5-4c50-99eb-be9fe471d78d",
+    "external_id": "https://www.datadoghq.com/blog/engineering/go-memory-regression/"
+  }
+}

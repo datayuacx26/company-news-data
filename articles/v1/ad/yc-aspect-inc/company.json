@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-aspect-inc",
+    "name": "Aspect"
+  },
+  "record_count": 62,
+  "first_published_at": "2026-06-27T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 44
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ad/yc-aspect-inc/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52880,
+        "sha256": "sha256:739d5e00c8f56f78b81075840b55a2910d8f77da97e0f54d58cff03ba368396c",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-07-29T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ad/yc-aspect-inc/index/pages/000002.json",
+        "record_count": 12,
+        "byte_count": 12740,
+        "sha256": "sha256:e2377d61b085c2828af16f0b18a527f23495b4a68c77d28a6e5613428204fe7d",
+        "newest_at": "2026-07-29T00:00:00+00:00",
+        "oldest_at": "2026-06-27T00:00:00+00:00"
+      }
+    ]
+  }
+}

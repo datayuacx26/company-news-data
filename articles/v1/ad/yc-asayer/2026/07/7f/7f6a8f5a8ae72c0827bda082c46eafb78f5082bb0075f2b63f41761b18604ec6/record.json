@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f6a8f5a8ae72c0827bda082c46eafb78f5082bb0075f2b63f41761b18604ec6",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/end-dual-cjs-esm-builds-nodejs/",
+    "canonical": "https://blog.openreplay.com/end-dual-cjs-esm-builds-nodejs/"
+  },
+  "title": "The End of Dual CJS/ESM Builds in Node.js",
+  "summary": "Node.js now supports require(esm), making ESM-only the default for many libraries. See when to drop CJS, avoid top-level await, and migrate safely.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T08:20:17.967412+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-07T14:49:13.247278+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/7f/7f6a8f5a8ae72c0827bda082c46eafb78f5082bb0075f2b63f41761b18604ec6/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/7f/7f6a8f5a8ae72c0827bda082c46eafb78f5082bb0075f2b63f41761b18604ec6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17930,
+    "sha256": "sha256:c800b766e6609af920e2091e2ba0c57b92c4adce400888fb5d220b114446ee71",
+    "normalized_content_hash": "sha256:9d24b990251cf2437f8d66fdbbf596a652bdc7527f073e535e7076751a940e4b"
+  },
+  "provenance": {
+    "source_item_id": "57f1d708-f4e0-4471-ba60-a4892c8849de",
+    "external_id": "https://blog.openreplay.com/end-dual-cjs-esm-builds-nodejs/"
+  }
+}

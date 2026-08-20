@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-levro",
+    "name": "Levro"
+  },
+  "record_count": 20,
+  "first_published_at": "2022-05-17T00:00:00+00:00",
+  "last_published_at": "2024-01-02T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a4/yc-levro/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 16942,
+        "sha256": "sha256:70e3c60a2b663015fa84e53cb60bd9ca53a91342baa2009b43c491213b35a5c2",
+        "newest_at": "2024-01-02T00:00:00+00:00",
+        "oldest_at": "2022-05-17T00:00:00+00:00"
+      }
+    ]
+  }
+}

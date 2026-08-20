@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fec9eca971df4bf45d0799219cecef4387457b24cb5b3c67da9f4b187df828b4",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/datadog-lambda-extension-rust/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/datadog-lambda-extension-rust/"
+  },
+  "title": "Squeezing every millisecond: How we rebuilt the Datadog Lambda Extension in Rust",
+  "summary": "Learn how we rewrote the Datadog Lambda Extension in Rust, cutting cold starts by 82 percent, shrinking the binary 87 percent, and slashing memory use without sacrificing observability.",
+  "published_at": "2025-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:58:06.165020+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/04/fe/fec9eca971df4bf45d0799219cecef4387457b24cb5b3c67da9f4b187df828b4/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/04/fe/fec9eca971df4bf45d0799219cecef4387457b24cb5b3c67da9f4b187df828b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14449,
+    "sha256": "sha256:04620b346f0199da771c64dd9c175e2fc4df0d3ef2581da0ae717b81d2f7f76b",
+    "normalized_content_hash": "sha256:863007034a71aa676088517651f79f7059bf83faaf39340a62e50af76149a782"
+  },
+  "provenance": {
+    "source_item_id": "0a7a8538-9650-455d-867c-6cf945416565",
+    "external_id": "https://www.datadoghq.com/blog/engineering/datadog-lambda-extension-rust/"
+  }
+}

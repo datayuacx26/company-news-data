@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1cf25fca31b0c469faa17bcb5f1d24bea2a6b8265cd8d72cc8755fa481f4bcda",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/debugging-your-stripe-invoicing-integration-with-workbench",
+    "canonical": "https://stripe.dev/blog/debugging-your-stripe-invoicing-integration-with-workbench"
+  },
+  "title": "Debugging your Stripe Invoicing integration with Workbench",
+  "summary": "With Stripe Invoicing, you can create and manage invoices for one-time and recurring payments. Whether caused by infrastructure issues or coding bugs, integration failures do sometimes happen, which can prevent invoices from being paid in a timely manner.",
+  "published_at": "2024-08-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/08/1c/1cf25fca31b0c469faa17bcb5f1d24bea2a6b8265cd8d72cc8755fa481f4bcda/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/08/1c/1cf25fca31b0c469faa17bcb5f1d24bea2a6b8265cd8d72cc8755fa481f4bcda/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4089,
+    "sha256": "sha256:009d29b69118f0c68305b1c975671331737dae8e878001395389433ba15ffebb",
+    "normalized_content_hash": "sha256:fd0898ef059f401faf82430375d516eb75678d3a99ebf80e994a890d959a2838"
+  },
+  "provenance": {
+    "source_item_id": "b5b32a45-04f2-4d0f-bb8d-49a3ee80f114",
+    "external_id": "https://stripe.dev/blog/debugging-your-stripe-invoicing-integration-with-workbench"
+  }
+}

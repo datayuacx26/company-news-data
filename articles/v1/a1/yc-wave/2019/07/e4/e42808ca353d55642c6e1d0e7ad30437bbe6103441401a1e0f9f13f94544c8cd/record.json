@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e42808ca353d55642c6e1d0e7ad30437bbe6103441401a1e0f9f13f94544c8cd",
+  "company": {
+    "key": "yc-wave",
+    "name": "Wave"
+  },
+  "source": {
+    "id": "yc-wave-rss-404ae0f13af9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wave.com/en/blog/android/",
+    "canonical": "https://www.wave.com/en/blog/android/"
+  },
+  "title": "Our Android framework",
+  "summary": "We built our first Android app in 2014. Like most 2014-era Android apps, it was a mess of fat Activities, heavily-nested callbacks, and spaghetti dataflow. Fortunately, since then Google has iterated a lot on their Android best practices, and we’ve iterated a lot on our apps, giving us plenty of chances to make things better. During the most recent time we rebuilt our agent app, we looked at the new androidx libraries and decided that they almost met our needs–but they left a few crucial gaps that still made writing Android apps more painful than it should be.",
+  "published_at": "2019-07-29T16:08:29+00:00",
+  "first_seen_at": "2026-07-24T06:52:44.556575+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:42:10.862393+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-wave/2019/07/e4/e42808ca353d55642c6e1d0e7ad30437bbe6103441401a1e0f9f13f94544c8cd/article.md",
+    "record": "articles/v1/a1/yc-wave/2019/07/e4/e42808ca353d55642c6e1d0e7ad30437bbe6103441401a1e0f9f13f94544c8cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11973,
+    "sha256": "sha256:dfd308df7c8302d854fb8d9130586cc0e6edab73fe77f666169a1f54c90f9f07",
+    "normalized_content_hash": "sha256:41323439cdc82b427337842fb02987b416fbc594bc267f0343737416e47a6add"
+  },
+  "provenance": {
+    "source_item_id": "b2dca922-5c2b-4983-b6e7-bea3d0bedaa3",
+    "external_id": "https://www.wave.com/en/blog/android/"
+  }
+}

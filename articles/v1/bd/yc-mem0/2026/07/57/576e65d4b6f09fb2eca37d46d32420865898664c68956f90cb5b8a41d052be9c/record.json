@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "576e65d4b6f09fb2eca37d46d32420865898664c68956f90cb5b8a41d052be9c",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/how-mem0-cut-claude-code-s-memory-footprint-by-97",
+    "canonical": "https://mem0.ai/blog/how-mem0-cut-claude-code-s-memory-footprint-by-97"
+  },
+  "title": "How Mem0 Cut Claude Code's Memory Footprint by 97%",
+  "summary": "Two side-by-side Claude Code experiments testing Mem0: how much memory footprint actually drops, and whether a stated preference survives a full context wipe.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T17:29:03.310285+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-19T17:37:03.162806+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/07/57/576e65d4b6f09fb2eca37d46d32420865898664c68956f90cb5b8a41d052be9c/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/07/57/576e65d4b6f09fb2eca37d46d32420865898664c68956f90cb5b8a41d052be9c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9587,
+    "sha256": "sha256:441b7a0c160a6a38e837a047b8382d8eb038dfd0fa5fd909b000bd7acdf39543",
+    "normalized_content_hash": "sha256:789bb6e4cdbf6170624af4623de3af7bccff319feec6cd9a9a85405fa40f325b"
+  },
+  "provenance": {
+    "source_item_id": "087f6207-2ed9-4d9c-9cf8-fd4a000611a7",
+    "external_id": "https://mem0.ai/blog/how-mem0-cut-claude-code-s-memory-footprint-by-97"
+  }
+}

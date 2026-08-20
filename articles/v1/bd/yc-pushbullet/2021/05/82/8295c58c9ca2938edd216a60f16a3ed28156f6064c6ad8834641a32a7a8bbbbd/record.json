@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8295c58c9ca2938edd216a60f16a3ed28156f6064c6ad8834641a32a7a8bbbbd",
+  "company": {
+    "key": "yc-pushbullet",
+    "name": "Pushbullet"
+  },
+  "source": {
+    "id": "yc-pushbullet-rss-4ba42a362971",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.pushbullet.com/2021/05/03/notice-to-pushbullet-facebook-login-users",
+    "canonical": "https://blog.pushbullet.com/2021/05/03/notice-to-pushbullet-facebook-login-users"
+  },
+  "title": "Notice to Pushbullet Facebook Login Users",
+  "summary": "Facebook has blocked pushbullet.com, preventing Facebook Login from working for Pushbullet users. We’re working to remove Facebook Login but this will take a little bit. It was recently reported to us by a Pushbullet user that Facebook Login is no longer working on pushbullet.com . After doing some investigating, we have learned that Facebook has blocked the Pushbullet domain (pushbullet.com) as “malicious and/or abusive”: Further research unfortunately did not turn up any additional info, simply stating that pushbullet.com does not meet Facebook’s Community Standards . We have not received any communication from Facebook. We have reported the issue, but Facebook specifically states that “we aren’t able to review individual reports” so it is unfortunately not likely this will result in the issue being addressed. It is our belief that pushbullet.com has been incorrectly blacklisted by an automated process at Facebook. There is no process to correct this that we have found. Currently Facebook Login is only blocked on the Pushbullet website. Facebook Login in the Pushbullet Android app continues to work as of today so Facebook Login users are still able to access their accounts for the time being. To ensure Pushbullet Facebook Login users can maintain access to their accounts going forward, we’re working to remove Facebook Login and set up an alternative. More updates on this to come.",
+  "published_at": "2021-05-03T05:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:08:48.518680+00:00",
+  "fetched_at": "2026-08-20T03:16:18.952870+00:00",
+  "last_updated_at": "2026-08-20T03:16:19.034999+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-pushbullet/2021/05/82/8295c58c9ca2938edd216a60f16a3ed28156f6064c6ad8834641a32a7a8bbbbd/article.md",
+    "record": "articles/v1/bd/yc-pushbullet/2021/05/82/8295c58c9ca2938edd216a60f16a3ed28156f6064c6ad8834641a32a7a8bbbbd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2124,
+    "sha256": "sha256:63eb3ba4010644d2641b2d5f75e5c0ea3f3066d7d87b0f28bfb819c4825a5d07",
+    "normalized_content_hash": "sha256:b0e51e8c0283eff6e01d31f8787e935e25dc009f4f179777a5378668d2637036"
+  },
+  "provenance": {
+    "source_item_id": "2e165a46-3737-4e45-9c91-f5ebc01e3f2e",
+    "external_id": "http://blog.pushbullet.com/2021/05/03/notice-to-pushbullet-facebook-login-users"
+  }
+}

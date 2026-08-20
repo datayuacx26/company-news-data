@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "286f2e456f70c5ccaac3855f1c2d9ab16c2ecbacd4bd594b22a4f107739a81dd",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/llm-routing-kubernetes-inference-extension/",
+    "canonical": "https://www.datadoghq.com/blog/llm-routing-kubernetes-inference-extension/"
+  },
+  "title": "Monitor LLM routing with the Kubernetes Inference Extension",
+  "summary": "Learn how to use inference-aware routing for your LLM workloads in Kubernetes, and how to monitor performance with Datadog.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-18T12:58:15.880652+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/28/286f2e456f70c5ccaac3855f1c2d9ab16c2ecbacd4bd594b22a4f107739a81dd/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/28/286f2e456f70c5ccaac3855f1c2d9ab16c2ecbacd4bd594b22a4f107739a81dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24764,
+    "sha256": "sha256:da396ede1fa6cd5e58b7682c709316574e118e6e245deb2b675d1e02d25dcdce",
+    "normalized_content_hash": "sha256:1e49fa90494c363d6d0ff5597e8153571e5505edac73e8628a87b170ba23c1c3"
+  },
+  "provenance": {
+    "source_item_id": "748165a9-dddc-411f-a0fa-899c6504073a",
+    "external_id": "https://www.datadoghq.com/blog/llm-routing-kubernetes-inference-extension/"
+  }
+}

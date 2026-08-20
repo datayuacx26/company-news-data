@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d64c6b121cd17cb43bce48efdd207f01bc9dfef5a2ace990edbef5aea579d62",
+  "company": {
+    "key": "spotify-technology-s-a-ordinary-shares",
+    "name": "Spotify Technology S.A."
+  },
+  "source": {
+    "id": "spotify-technology-s-a-ordinary-shares-rss-e59c2e9a43cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/",
+    "canonical": "https://engineering.atspotify.com/2026/7/content-ingestion-and-podcast-video-incident-report/"
+  },
+  "title": "Content Ingestion & Podcast Video Incident Report",
+  "summary": "Over the past two months, podcast creators have experienced a series of reliability issues on Spotify. This report covers the most significant of these, the June 24 publishing delay, in full detail and describes the broader reliability program now underway across our publishing pipeline.",
+  "published_at": "2026-07-20T16:24:48+00:00",
+  "first_seen_at": "2026-07-20T16:36:15.512264+00:00",
+  "fetched_at": "2026-07-28T20:37:08.491459+00:00",
+  "last_updated_at": "2026-08-20T01:09:27.272443+00:00",
+  "paths": {
+    "article": "articles/v1/a4/spotify-technology-s-a-ordinary-shares/2026/07/5d/5d64c6b121cd17cb43bce48efdd207f01bc9dfef5a2ace990edbef5aea579d62/article.md",
+    "record": "articles/v1/a4/spotify-technology-s-a-ordinary-shares/2026/07/5d/5d64c6b121cd17cb43bce48efdd207f01bc9dfef5a2ace990edbef5aea579d62/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6717,
+    "sha256": "sha256:2c2b2cbece6778f2b44d113662380174e3499d14ac63065b432fd699877e205c",
+    "normalized_content_hash": "sha256:e18a6fecac3e889e658ef015c76a74f4ce14fbcb5905aa4307dd65e8149e0324"
+  },
+  "provenance": {
+    "source_item_id": "ab3149eb-7681-4128-8f09-4edda5801ca8",
+    "external_id": "https://engineering.atspotify.com/?p=60dcNVzos5DWmTFQLUR5O2"
+  }
+}

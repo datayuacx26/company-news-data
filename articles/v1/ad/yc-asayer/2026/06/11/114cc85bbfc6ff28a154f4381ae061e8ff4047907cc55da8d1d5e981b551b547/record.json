@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "114cc85bbfc6ff28a154f4381ae061e8ff4047907cc55da8d1d5e981b551b547",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/using-polyfills-2026/",
+    "canonical": "https://blog.openreplay.com/using-polyfills-2026/"
+  },
+  "title": "Is Anyone Still Using Polyfills in 2026?",
+  "summary": "Polyfills in 2026? Audit core-js, Browserslist, and Babel usage to remove dead weight, keep real exceptions like Temporal, and ditch polyfill.io.",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:38:53.548823+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-07-28T21:44:12.778496+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/06/11/114cc85bbfc6ff28a154f4381ae061e8ff4047907cc55da8d1d5e981b551b547/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/06/11/114cc85bbfc6ff28a154f4381ae061e8ff4047907cc55da8d1d5e981b551b547/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22342,
+    "sha256": "sha256:b14866b073b766fb905a87d0c54af733ed5c47ce0fbbbaf9783ab227bf26cbdb",
+    "normalized_content_hash": "sha256:d5c59ed8687b8bb3e409d9ebb3b394505ac2e913db23550ede57c6469eb010b4"
+  },
+  "provenance": {
+    "source_item_id": "da925291-88e2-431f-befe-522477680f89",
+    "external_id": "https://blog.openreplay.com/using-polyfills-2026/"
+  }
+}

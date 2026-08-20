@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c14d31503825ff1136447ec081154910740e27846914623d5f719f87450e959a",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/biggest-updates-sessions-2024",
+    "canonical": "https://stripe.com/blog/biggest-updates-sessions-2024"
+  },
+  "title": "Our biggest product updates from Sessions 2024",
+  "summary": "We announced AI-powered payments, our biggest-ever upgrades to Stripe Connect, new support for usage-based billing, increased interoperability, and a lot more.",
+  "published_at": "2024-04-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:05:27.623858+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-20T02:17:02.759010+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/04/c1/c14d31503825ff1136447ec081154910740e27846914623d5f719f87450e959a/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/04/c1/c14d31503825ff1136447ec081154910740e27846914623d5f719f87450e959a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12944,
+    "sha256": "sha256:c92dfc0769b7d7205116354f52477bbd47834bafeaba622497d93bdbb35369b5",
+    "normalized_content_hash": "sha256:c918bdac13d8d88747bb16ed8209ba961b3a649976d9271f5b2cf2a5c0d1e14b"
+  },
+  "provenance": {
+    "source_item_id": "1cff39db-20a5-4691-a940-fbb24c9568ef",
+    "external_id": "https://stripe.com/blog/biggest-updates-sessions-2024"
+  }
+}

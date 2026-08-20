@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-qventus",
+    "name": "Qventus"
+  },
+  "record_count": 9,
+  "first_published_at": "2026-02-26T14:00:04+00:00",
+  "last_published_at": "2026-08-11T13:00:10+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8e/yc-qventus/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 10599,
+        "sha256": "sha256:b05f373139b87f3eb96b75026afe7e3414040f854a7672b5d0bef144189eea70",
+        "newest_at": "2026-08-11T13:00:10+00:00",
+        "oldest_at": "2026-02-26T14:00:04+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2573 @@
+---
+schema_version: "1.0.0"
+document_id: "55b4faefd19d0850bfb6475e6f359e86938b11c6b18c827e2060bdca63401bd6"
+company_key: "zkh-group-limited-american-depositary-shares-each-representing-thirty-five-35-class-a-ordinary-shares"
+company: "ZKH Group Limited"
+source_id: "zkh-group-limited-american-depositary-shares-each-representing-thirty-five-35-class-a-ordinary-shares-news-import-1f2ad41d255f"
+canonical_url: "https://www.prnewswire.com/news-releases/zkh-group-limited-announces-second-quarter-2024-unaudited-financial-results-302228436.html"
+published_at: "2024-08-22T10:00:00+00:00"
+first_seen_at: "2026-07-27T06:15:38.823467+00:00"
+fetched_at: "2026-07-28T22:01:06.812214+00:00"
+content_hash: "sha256:408984e130c9240892ef966a5b974f63423ffa9542cb921bd3a677ac8c0e5dc6"
+---
+
+# ZKH Group Limited Announces Second Quarter 2024 Unaudited Financial Results
+
+SHANGHAI
+
+
+, Aug. 22, 2024
+
+
+/PRNewswire/ -- ZKH Group Limited ("ZKH" or the "Company") (NYSE:ZKH ), a leading maintenance, repair and operations ("MRO") procurement service platform in China
+
+
+, today announced its unaudited financial results for the second quarter ended June 30, 2024
+
+
+.
+
+
+**Second Quarter 2024 Operational and Financial Highlights**
+
+
+*in thousand RMB, except for number of customers, percentage and basis points ("bps")*
+
+
+**Second Quarter**
+
+
+2023
+
+
+2024
+
+
+Change
+
+
+**GMV\[1\]**
+
+
+2,608,851
+
+
+2,754,591
+
+
+5.6 %
+
+
+***GMV by Platform***
+
+
+ZKH Platform
+
+
+2,375,584
+
+
+2,479,915
+
+
+4.4 %
+
+
+GBB Platform
+
+
+233,267
+
+
+274,676
+
+
+17.8 %
+
+
+***GMV by Business Model***
+
+
+Product Sales (1P)
+
+
+1,995,108
+
+
+2,185,351
+
+
+9.5 %
+
+
+Marketplace (3P)
+
+
+613,743
+
+
+569,240
+
+
+-7.3 %
+
+
+**Number of Customers\[2\]**
+
+
+38,980
+
+
+48,766
+
+
+25.1 %
+
+
+ZKH Platform
+
+
+28,909
+
+
+34,360
+
+
+18.9 %
+
+
+GBB Platform
+
+
+10,071
+
+
+14,406
+
+
+43.0 %
+
+
+**Net Revenues\[3\]**
+
+
+2,073,453
+
+
+2,249,996
+
+
+8.5 %
+
+
+**Gross Profit**
+
+
+335,071
+
+
+382,991
+
+
+14.3 %
+
+
+*% of Net Revenues*
+
+
+*16.2 %*
+
+
+*17.0 %*
+
+
+*86.2bps*
+
+
+**Operating Loss**
+
+
+(123,093)
+
+
+(71,213)
+
+
+-42.1 %
+
+
+*% of Net Revenues*
+
+
+*-5.9 %*
+
+
+*-3.2 %*
+
+
+*277.2bps*
+
+
+**Non-GAAP EBITDA\[4\]**
+
+
+(107,851)
+
+
+(47,068)
+
+
+-56.4 %
+
+
+*% of Net Revenues*
+
+
+*-5.2 %*
+
+
+*-2.1 %*
+
+
+*311.0bps*
+
+
+**Net Loss**
+
+
+(129,580)
+
+
+(66,289)
+
+
+-48.8 %
+
+
+*% of Net Revenues*
+
+
+*-6.2 %*
+
+
+*-2.9 %*
+
+
+*330.3bps*
+
+
+**Non-GAAP Adjusted Net Loss\[5\]**
+
+
+(129,498)
+
+
+(34,857)
+
+
+-73.1 %
+
+
+*% of Net Revenues*
+
+
+*-6.2 %*
+
+
+*-1.5 %*
+
+
+*469.6bps*
+
+
+Mr. Eric Long Chen
+
+
+, Chairman and Chief Executive Officer of ZKH, stated, "Bolstered by our leadership position in the MRO industry, we achieved solid performance in the second quarter of 2024, driving further profitability improvement despite macroeconomic headwinds. Specifically, we continued to invest in strengthening our supply chain capabilities, enabling us to offer better value-for-money product offerings. Concurrently, we enhanced our customer coverage and service capabilities by optimizing the sales team structure to foster closer customer engagement. In parallel, we redoubled our efforts to advance our digitalization and artificial intelligence capabilities by promoting digital and intelligent applications across various business areas. Looking ahead, we remain steadfast in our commitment to doing what is right for the long-term success of our business. Our unique value proposition of providing digitalized and one-stop MRO procurement solutions to our customers serves as the foundation for our continued growth. Leveraging this strong market positioning, we are well-poised to seize the vast opportunities in the MRO market and deliver sustainable revenue growth."
+
+
+Mr. Max Chun Chiu Lai
+
+
+, Chief Financial Officer of ZKH, added, "We are pleased with the solid growth in the second quarter, with GMV and net revenue increasing by 5.6% and 8.5% year over year, respectively. This performance was underpinned by a 25.1% year-over-year increase in customer numbers and continued strong demand in the MRO market. While delivering continued topline growth, our profitability strengthened further with an improvement in the gross margin and a narrowing of the net loss. Our gross profit increased by 14.3% with gross margin expanding by 86.2 basis points year over year and adjusted net loss narrowed by 73.1%, with a corresponding margin improvement of 469.6 basis points year over year, marking our ninth consecutive quarter of year-over-year improvement. Moving forward, we will continue our share repurchase program initiated earlier this year and remain focused on sustaining growth and delivering long-term value to all our stakeholders."
+
+
+\[1\] GMV is the total transaction value of orders placed on the Company's platform and shipped to customers, excluding taxes, net of the returned amount.
+
+
+\[2\] Customers are customers that transacted with the Company during the period of time, which mainly include enterprise customers in various industries.
+
+
+\[3\] The proportion of GMV generated by the marketplace model was 23.5% and 20.7% for the second quarter of 2023 and 2024, respectively.
+
+
+\[4\] Non-GAAP EBITDA is defined as net loss before interest expenses, income tax expenses/(benefits) and depreciation and amortization expenses.
+
+
+\[5\] Non-GAAP adjusted net loss is defined as net loss excluding share-based compensation expenses.
+
+
+**Second Quarter 2024 Financial Results**
+
+
+***Net Revenues.*** Net revenues were RMB2,250.0 million
+
+
+( US$309.6 million
+
+
+), representing an increase of 8.5% from RMB2,073.5 million
+
+
+in the same period of 2023, mainly due to the strong increase in customer numbers and continued growth in MRO market demand.
+
+
+*i n thousand RMB, except for percentage*
+
+
+Second Quarter
+
+
+2023
+
+
+2024
+
+
+Change
+
+
+Net Revenues
+
+
+2,073,453
+
+
+2,249,996
+
+
+8.5 %
+
+
+Net Product Revenues
+
+
+1,986,555
+
+
+2,163,721
+
+
+8.9 %
+
+
+*From ZKH Platform*
+
+
+*1,756,114*
+
+
+*1,893,447*
+
+
+*7.8 %*
+
+
+*From GBB Platform*
+
+
+*230,441*
+
+
+*270,274*
+
+
+*17.3 %*
+
+
+Net Service Revenues
+
+
+69,865
+
+
+69,161
+
+
+-1.0 %
+
+
+Other Revenues
+
+
+17,033
+
+
+17,114
+
+
+0.5 %
+
+
+- ***Net Product Revenues.*** Net product revenues were RMB2,163.7 million
+
+
+( US$297.7 million
+
+
+), representing an increase of 8.9% from RMB1,986.6 million
+
+
+in the same period of 2023. The increase was mainly due to higher net product revenues generated from both the *ZKH* and *GBB platforms* , primarily driven by the strong increase in customer numbers.
+
+
+- ***Net Service Revenues.*** Net service revenues were RMB69.2 million
+
+
+( US$9.5 million
+
+
+), a decrease of 1.0% from RMB69.9 million
+
+
+in the same period of 2023, primarily due to lower proportion of GMV generated by the marketplace model on the *ZKH platform* .
+
+
+- ***Other Revenues.*** Other revenues were RMB17.1 million
+
+
+( US$2.4 million
+
+
+), compared with RMB17.0 million in the same period of 2023.
+
+
+***Cost of Revenues.*** Cost of revenues was RMB1,867.0 million
+
+
+( US$256.9 million
+
+
+), representing an increase of 7.4% from RMB1,738.4 million
+
+
+in the same period of 2023, which was lower than the growth in product revenues, mainly attributable to the payoff of the Company's measures to reduce the overall product procurement costs.
+
+
+***Gross Profit and Gross Margin.*** Gross profit was RMB383.0 million
+
+
+( US$52.7 million
+
+
+), an increase of 14.3% from RMB335.1 million
+
+
+in the same period of 2023. Gross margin was 17.0%, compared with 16.2% in the same period of 2023. The increase in gross margin was driven by higher gross margin of product sales model (1P) and increased take-rate of marketplace model (3P) on the *ZKH platform* , partially offset by lower gross margin of the
+
+
+*GBB platform* .
+
+
+*in thousand RMB, except for percentage and basis points ("bps")*
+
+
+Second Quarter
+
+
+2023
+
+
+2024
+
+
+Change
+
+
+Gross Profit
+
+
+335,071
+
+
+382,991
+
+
+14.3 %
+
+
+*% of Net Revenues*
+
+
+*16.2 %*
+
+
+*17.0 %*
+
+
+*86.2bps*
+
+
+Under Product Sales (1P)
+
+
+*ZKH Platform*
+
+
+240,896
+
+
+294,022
+
+
+22.1 %
+
+
+*% of Net Product Revenues from ZKH Platform*
+
+
+*13.7 %*
+
+
+*15.5 %*
+
+
+*181.1bps*
+
+
+*GBB Platform*
+
+
+13,565
+
+
+15,133
+
+
+11.6 %
+
+
+*% of Net Product Revenues from GBB Platform*
+
+
+*5.9 %*
+
+
+*5.6 %*
+
+
+*-28.7bps*
+
+
+Under Marketplace (3P)\[6\]
+
+
+69,865
+
+
+69,161
+
+
+-1.0 %
+
+
+*% of Net Service Revenues*
+
+
+*100.0 %*
+
+
+*100.0 %*
+
+
+*-*
+
+
+Others
+
+
+10,745
+
+
+4,675
+
+
+-56.5 %
+
+
+*% of Other Revenues*
+
+
+*63.1 %*
+
+
+*27.3 %*
+
+
+*-3,576.7bps*
+
+
+\[6\] Take rate of marketplace model was 12.2% and 11.4% for the second quarter of 2024 and 2023, respectively. Take rate of market place model represents gross profit from marketplace model divided by GMV from marketplace model.
+
+
+***Operating Expenses.*** Operating expenses were RMB454.2 million
+
+
+( US$62.5 million
+
+
+), a decrease of 0.9% from RMB458.2 million
+
+
+in the same period of 2023. Operating expenses as a percentage of net revenues were 20.2%, compared with 22.1% in the same period of 2023, demonstrating the Company's improved operational efficiency.
+
+
+- ***Fulfillment Expenses.*** Fulfillment expenses were RMB99.1 million
+
+
+( US$13.6 million
+
+
+), a decrease of 7.1% from RMB106.7 million
+
+
+in the same period of 2023. The decrease was primarily attributable to lower employee benefit costs and warehouse rental costs, partially offset by higher distribution expenses. Fulfillment expenses as a percentage of net revenues were 4.4%, compared with 5.1% in the same period of 2023.
+
+
+- ***Sales and Marketing Expenses.*** Sales and marketing expenses were RMB157.7 million
+
+
+( US$21.7 million
+
+
+), a decrease of 6.5% from RMB168.6 million
+
+
+in the same period of 2023. The decrease was primarily attributable to lower travel expenses and employee benefit costs. Sales and marketing expenses as a percentage of net revenues were 7.0%, compared with 8.1% in the same period of 2023.
+
+
+- ***Research and Development Expenses*** . Research and development expenses were RMB38.4 million
+
+
+( US$5.3 million
+
+
+), a decrease of 16.4% from RMB46.0 million
+
+
+in the same period of 2023. The decrease was primarily attributable to lower employee benefit costs. Research and development expenses as a percentage of net revenues were 1.7%, compared with 2.2% in the same period of 2023.
+
+
+- ***General and Administrative Expenses.*** General and administrative expenses were RMB159.0 million
+
+
+( US$21.9 million
+
+
+), an increase of 16.1% from RMB136.9 million
+
+
+in the same period of 2023. The increase was primarily attributable to higher share-based compensation expenses, partially offset by the decrease in employee benefit costs. General and administrative expenses as a percentage of net revenues were 7.1%, compared with 6.6% in the same period of 2023.
+
+
+***Loss from Operations.*** Loss from operations was RMB71.2 million
+
+
+( US$9.8 million
+
+
+), compared with RMB123.1 million
+
+
+in the same period of 2023. Operating loss margin was 3.2%, compared with 5.9% in the same period of 2023.
+
+
+***Non-GAAP EBITDA.*** Non-GAAP EBITDA was negative RMB47.1 million
+
+
+( US$6.5 million
+
+
+), compared with negative RMB107.9 million
+
+
+in the same period of 2023. Non-GAAP EBITDA margin was negative 2.1%, compared with negative 5.2% in the same period of 2023.
+
+
+***Net Loss.*** Net loss was RMB66.3 million
+
+
+( US$9.1 million
+
+
+), compared with RMB129.6 million
+
+
+in the same period of 2023. Net loss margin was 2.9%, compared with 6.2% in the same period of 2023.
+
+
+***Non-GAAP Adjusted Net Loss.*** Non-GAAP adjusted net loss was RMB34.9 million
+
+
+( US$4.8 million
+
+
+), compared with RMB129.5 million
+
+
+in the same period of 2023. Non-GAAP adjusted net loss margin was 1.5%, compared with 6.2% in the same period of 2023.
+
+
+***Basic and Diluted Net Loss per ADS **\[7\]** and Non-GAAP Adjusted Basic and Diluted Net Loss per ADS **\[8\]** .*** Basic and diluted net loss per ADS were RMB0.40
+
+
+(US$0.06)
+
+
+, compared with RMB14.52
+
+
+in the same period of 2023. Non-GAAP adjusted basic and diluted net loss per ADS were RMB0.21
+
+
+(US$0.03)
+
+
+, compared with RMB3.43
+
+
+in the same period of 2023.
+
+
+\[7\] ADSs are American depositary shares, each of which represents thirty-five (35) Class A ordinary shares of the Company.
+
+
+\[8\] Non-GAAP adjusted basic and diluted net loss per ADS is a non-GAAP financial measure, which is calculated by dividing non-GAAP net loss attributable to the Company's ordinary shareholders by the weighted average number of ADSs.
+
+
+**Balance Sheet and Cash Flow**
+
+
+As of June 30, 2024
+
+
+, the Company had cash and cash equivalents, restricted cash and short-term investments of RMB2.04 billion
+
+
+( US$280.8 million
+
+
+), compared with RMB2.12 billion
+
+
+as of December 31, 2023
+
+
+.
+
+
+Net cash generated from operating activities was RMB122.1 million
+
+
+( US$16.8 million
+
+
+) in the second quarter of 2024, compared with net cash used in operating activities of RMB236.2 million
+
+
+in the same period of 2023.
+
+
+**Exchange Rate**
+
+
+This announcement contains translations of certain Renminbi ("RMB") amounts into U.S. dollars ("US$") at specified rates solely for the convenience of the reader. Unless otherwise noted, all translations from RMB to US$ were made at a rate of RMB7.2672
+
+
+to US$1.00
+
+
+, the exchange rate in effect as of June 28, 2024
+
+
+, as set forth in the H.10 statistical release of The Board of Governors of the Federal Reserve System. The Company makes no representation that any RMB or US$ amounts could have been, or could be, converted into US$ or RMB, as the case may be, at any particular rate, or at all.
+
+
+**Conference Call Information**
+
+
+The Company's management will hold a conference call on Thursday, August 22, 2024
+
+
+, at 8:00 A.M.
+
+
+U.S. Eastern Time or 8:00 P.M.
+
+
+Beijing Time to discuss its financial results and operating performance for the second quarter of 2024.
+
+
+United States (toll free):
+
+
++1-888-317-6003
+
+
+International:
+
+
++1-412-317-6061
+
+
+Mainland China (toll free):
+
+
+400-120-6115
+
+
+Hong Kong (toll free):
+
+
+800-963-976
+
+
+Hong Kong:
+
+
++852-5808-1995
+
+
+Access Code:
+
+
+7845776
+
+
+The replay will be accessible through August 29, 2024
+
+
+, by dialing the following numbers:
+
+
+United States:
+
+
++1-877-344-7529
+
+
+International:
+
+
++1-412-317-0088
+
+
+Replay Access Code:
+
+
+2271132
+
+
+A live and archived webcast of the conference call will also be available on the Company's investor relations website at[https://ir.zkh.com](https://ir.zkh.com/) .
+
+
+**About ZKH Group Limited**
+
+
+ZKH Group Limited (NYSE:ZKH ) is a leading MRO procurement service platform in China
+
+
+, dedicated to propelling the MRO industry's digital transformation to drive cost reduction and efficiency improvement industry-wide. Leveraging its outstanding product selection and recommendation capabilities, ZKH provides digitalized, one-stop MRO procurement solutions that enable its customers to transparently and efficiently access a wide selection of quality products at competitive prices. The Company also facilitates timely and reliable product delivery with professional fulfillment services. By catering specifically to the needs of MRO suppliers and customers through its unmatched digital infrastructure, the Company empowers all participants in the value chain to achieve more.
+
+
+For more information, please visit:[https://ir.zkh.com](https://ir.zkh.com/) .
+
+
+**Use of Non-GAAP Financial Measures**
+
+
+This press release contains the following non-GAAP financial measures: non-GAAP adjusted net profit/(loss), non-GAAP adjusted net profit/(loss) per ADS, basic and diluted, and non-GAAP EBITDA. The non-GAAP financial measures should not be considered in isolation from or construed as alternatives to their most directly comparable financial measures prepared in accordance with accounting principles generally accepted in the United States of America
+
+
+. Investors are encouraged to review the historical non-GAAP financial measures in reconciliation to their most directly comparable GAAP financial measures.
+
+
+The Company defines non-GAAP adjusted net profit/(loss) for a specific period as net profit/(loss) in the same period excluding share-based compensation expenses. The Company defines non-GAAP EBITDA as profit/(loss) before interest expenses, income tax expenses/(benefits) and depreciation and amortization expenses. Non-GAAP adjusted net profit/(loss) per ADS is calculated by dividing adjusted net profit/(loss) attributable to the Company's ordinary shareholders by the weighted average number of ordinary shares outstanding during the periods and then multiplied by 35.
+
+
+The Company presents these non-GAAP financial measures because they are used by the management to evaluate the Company's operating performance and formulate business plans. The Company believes that these non-GAAP financial measures help identify underlying trends in its business that could otherwise be distorted by the effect of certain expenses that are included in net profit/(loss) and certain expenses that are not expected to result in future cash payments or that are non-recurring in nature. The Company also believes that the use of these non-GAAP financial measures facilitates investors' assessment of its operating performance, enhances the overall understanding of its past performance and future prospects and allows for greater visibility with respect to key metrics used by the management in financial and operational decision making.
+
+
+The non-GAAP financial measures have material limitations as analytical metrics and may not be calculated in the same manner by all companies. The Company's non-GAAP financial measures do not include all income and expense items that affect the Company's operations. They may not be comparable to other similarly titled measures used by other companies. In light of the foregoing limitations, you should not consider the non-GAAP financial measures as substitutes for, or superior to, their most directly comparable financial measures prepared in accordance with GAAP. The Company encourages investors and others to review its financial information in its entirety and not rely on a single financial measure.
+
+
+For more information on these non-GAAP financial measures, please see the table captioned "Reconciliations of Non-GAAP Results" set forth at the end of this press release.
+
+
+**Safe Harbor Statement**
+
+
+This press release contains forward-looking statements. These statements are made pursuant to the "safe harbor" provisions of the U.S. Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terminology such as "may," "will," "expects," "anticipates," "aim," "estimates," "intends," "plans," "believes," "is/are likely to," "potential," "continue," and similar statements. Among other things, the quotations from management in this press release and ZKH's strategic and operational plans contain forward-looking statements. ZKH may also make written or oral forward-looking statements in its periodic reports to the U.S. Securities and Exchange Commission (the "SEC"), in its annual report to shareholders, in press release and other written materials and in oral statements made by its officers, directors or employees to third parties. Statements that are not historical facts, including statements about ZKH's beliefs and expectations, are forward-looking statements. Forward-looking statements involve inherent risks and uncertainties. A number of factors could cause actual results to differ materially from those contained in any forward-looking statement, including but not limited to the following: ZKH's mission, goals and strategies; ZKH's future business development, financial condition and results of operations; the expected changes in its revenues, expenses or expenditures; the expected growth of the MRO procurement service industry in China
+
+
+and globally; changes in customer or product mix; ZKH's expectations regarding the prospects of its business model and the demand for and market acceptance of its products and services; ZKH's expectations regarding its relationships with customers, suppliers, and service providers on its platform; competition in the Company's industry; government policies and regulations relating to ZKH's industry; general economic and business conditions in China
+
+
+and globally; the outcome of any current and future legal or administrative proceedings; and assumptions underlying or related to any of the foregoing. Further information regarding these and other risks is included in ZKH's filings with the SEC. All information provided herein is as of the date of this announcement, and ZKH undertakes no obligation to update any forward-looking statement, except as required under applicable law.
+
+
+**For investor and media inquiries, please contact:**
+
+
+**In China :**
+
+
+ZKH Group Limited
+IR Department
+E-mail:[\[email protected\]](https://www.prnewswire.com/cdn-cgi/l/email-protection#ace5feecd6c7c482cfc3c1)
+
+
+Piacente Financial Communications
+Hui Fan
+
+
+Tel: +86-10-6508-0677
+E-mail:[\[email protected\]](https://www.prnewswire.com/cdn-cgi/l/email-protection#c7bdacaf87b3afa2b7aea6a4a2a9b3a2a0b5a8b2b7e9a4a8aa)
+
+
+**In the United States :**
+
+
+Piacente Financial Communications
+Brandi Piacente
+
+
+Tel: +1-212-481-2050
+
+
+**ZKH GROUP LIMITED**
+
+
+**UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS**
+
+
+(All amounts in thousands, except share, ADS, per share and per ADS data)
+
+
+**As of**
+**December 31,**
+
+
+**As of**
+**June 30,**
+
+
+**2023**
+
+
+**2024**
+
+
+**RMB**
+
+
+**RMB**
+
+
+**US$**
+
+
+**Assets**
+
+
+**Current assets:**
+
+
+Cash and cash equivalents
+
+
+1,090,621
+
+
+1,308,972
+
+
+180,121
+
+
+Restricted cash
+
+
+159,751
+
+
+150,305
+
+
+20,683
+
+
+Short-term investments
+
+
+874,210
+
+
+581,203
+
+
+79,976
+
+
+Accounts receivable (net of allowance
+for credit losses of RMB107,032 and
+RMB127,007 as of December 31,
+2023 and June 30, 2024,
+respectively)
+
+
+3,639,794
+
+
+3,398,738
+
+
+467,682
+
+
+Notes receivable
+
+
+352,997
+
+
+274,726
+
+
+37,804
+
+
+Inventories
+
+
+668,984
+
+
+672,534
+
+
+92,544
+
+
+Prepayments and other current assets
+
+
+168,117
+
+
+182,692
+
+
+25,138
+
+
+**Total current assets**
+
+
+**6,954,474**
+
+
+**6,569,170**
+
+
+**903,948**
+
+
+**Non-current assets:**
+
+
+Property and equipment, net
+
+
+145,288
+
+
+173,586
+
+
+23,886
+
+
+Land use right
+
+
+11,033
+
+
+10,920
+
+
+1,503
+
+
+Operating lease right-of-use assets, net
+
+
+224,930
+
+
+196,811
+
+
+27,082
+
+
+Intangible assets, net
+
+
+20,096
+
+
+17,918
+
+
+2,466
+
+
+Goodwill
+
+
+30,807
+
+
+30,807
+
+
+4,239
+
+
+**Total non-current assets**
+
+
+**432,154**
+
+
+**430,042**
+
+
+**59,176**
+
+
+**Total assets**
+
+
+**7,386,628**
+
+
+**6,999,212**
+
+
+**963,124**
+
+
+**Liabilities**
+
+
+**Current liabilities:**
+
+
+Short-term borrowings
+
+
+585,000
+
+
+591,000
+
+
+81,324
+
+
+Accounts and notes payable
+
+
+2,883,370
+
+
+2,599,001
+
+
+357,634
+
+
+Operating lease liabilities
+
+
+91,230
+
+
+86,940
+
+
+11,963
+
+
+Advance from customers
+
+
+19,907
+
+
+19,095
+
+
+2,628
+
+
+Accrued expenses and other current
+liabilities
+
+
+448,225
+
+
+362,294
+
+
+49,854
+
+
+**Total current liabilities**
+
+
+**4,027,732**
+
+
+**3,658,330**
+
+
+**503,403**
+
+
+**Non-current liabilities:**
+
+
+Long-term borrowings
+
+
+-
+
+
+19,813
+
+
+2,726
+
+
+Non-current operating lease liabilities
+
+
+146,970
+
+
+122,024
+
+
+16,791
+
+
+Other non-current liabilities
+
+
+507
+
+
+441
+
+
+61
+
+
+**Total non-current liabilities**
+
+
+**147,477**
+
+
+**142,278**
+
+
+**19,578**
+
+
+**Total liabilities**
+
+
+**4,175,209**
+
+
+**3,800,608**
+
+
+**522,981**
+
+
+**ZKH Group Limited shareholders'**
+**equity:**
+
+
+Ordinary shares (USD0.0000001 par value;
+500,000,000,000 and 500,000,000,000 shares
+authorized; 5,621,490,964 and 5,652,210,884 shares
+issued and outstanding as of December 31, 2023
+and June 30, 2024, respectively)
+
+
+4
+
+
+4
+
+
+1
+
+
+Additional paid-in capital
+
+
+8,139,349
+
+
+8,274,123
+
+
+1,138,557
+
+
+Statutory reserves
+
+
+6,013
+
+
+6,013
+
+
+827
+
+
+Accumulated other comprehensive loss
+
+
+(25,154)
+
+
+(12,683)
+
+
+(1,745)
+
+
+Accumulated deficit
+
+
+(4,908,793)
+
+
+(5,065,983)
+
+
+(697,102)
+
+
+Treasury stock
+
+
+-
+
+
+(2,870)
+
+
+(395)
+
+
+**Total ZKH Group Limited**
+**shareholders' equity**
+
+
+**3,211,419**
+
+
+**3,198,604**
+
+
+**440,143**
+
+
+Non-controlling interests
+
+
+-
+
+
+-
+
+
+-
+
+
+**Total shareholders' equity**
+
+
+**3,211,419**
+
+
+**3,198,604**
+
+
+**440,143**
+
+
+**Total liabilities and shareholders' deficit**
+
+
+**7,386,628**
+
+
+**6,999,212**
+
+
+**963,124**
+
+
+**ZKH GROUP LIMITED**
+
+
+**UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF INCOME**
+
+
+(All amounts in thousands, except share, ADS, per share and per ADS data)
+
+
+**For the three months ended**
+
+
+**For the six months ended**
+
+
+**June 30, 2023**
+
+
+**June 30, 2024**
+
+
+**June 30, 2023**
+
+
+**June 30, 2024**
+
+
+**RMB**
+
+
+**RMB**
+
+
+**US$**
+
+
+**RMB**
+
+
+**RMB**
+
+
+**US$**
+
+
+**Net revenues**
+
+
+Net product revenues
+
+
+1,986,555
+
+
+2,163,721
+
+
+297,738
+
+
+3,853,214
+
+
+3,938,740
+
+
+541,989
+
+
+Net service revenues
+
+
+69,865
+
+
+69,161
+
+
+9,517
+
+
+128,933
+
+
+135,815
+
+
+18,689
+
+
+Other revenues
+
+
+17,033
+
+
+17,114
+
+
+2,355
+
+
+30,066
+
+
+35,850
+
+
+4,933
+
+
+**Total net revenues**
+
+
+**2,073,453**
+
+
+**2,249,996**
+
+
+**309,610**
+
+
+**4,012,213**
+
+
+**4,110,405**
+
+
+**565,611**
+
+
+**Cost of revenues**
+
+
+(1,738,382)
+
+
+(1,867,005)
+
+
+(256,908)
+
+
+(3,346,344)
+
+
+(3,393,338)
+
+
+(466,939)
+
+
+**Operating expenses**
+
+
+Fulfillment
+
+
+(106,674)
+
+
+(99,097)
+
+
+(13,636)
+
+
+(217,582)
+
+
+(196,445)
+
+
+(27,032)
+
+
+Sales and marketing
+
+
+(168,620)
+
+
+(157,689)
+
+
+(21,699)
+
+
+(348,496)
+
+
+(321,802)
+
+
+(44,281)
+
+
+Research and development
+
+
+(45,977)
+
+
+(38,431)
+
+
+(5,288)
+
+
+(93,718)
+
+
+(78,267)
+
+
+(10,770)
+
+
+General and administrative
+
+
+(136,893)
+
+
+(158,987)
+
+
+(21,877)
+
+
+(276,584)
+
+
+(321,380)
+
+
+(44,223)
+
+
+**Loss from operations**
+
+
+**(123,093)**
+
+
+**(71,213)**
+
+
+**(9,798)**
+
+
+**(270,511)**
+
+
+**(200,827)**
+
+
+**(27,634)**
+
+
+Interest and investment income
+
+
+17,606
+
+
+14,446
+
+
+1,988
+
+
+29,417
+
+
+32,500
+
+
+4,472
+
+
+Interest expense
+
+
+(4,507)
+
+
+(5,522)
+
+
+(760)
+
+
+(7,600)
+
+
+(11,217)
+
+
+(1,544)
+
+
+Others, net
+
+
+(19,537)
+
+
+(3,934)
+
+
+(541)
+
+
+21,432
+
+
+22,508
+
+
+3,097
+
+
+**Loss before income tax**
+
+
+**(129,531)**
+
+
+**(66,223)**
+
+
+**(9,111)**
+
+
+**(227,262)**
+
+
+**(157,036)**
+
+
+**(21,609)**
+
+
+Income tax expenses
+
+
+(49)
+
+
+(66)
+
+
+(9)
+
+
+(181)
+
+
+(154)
+
+
+(21)
+
+
+**Net loss**
+
+
+**(129,580)**
+
+
+**(66,289)**
+
+
+**(9,120)**
+
+
+**(227,443)**
+
+
+**(157,190)**
+
+
+**(21,630)**
+
+
+Less: net income attributable to non-
+controlling interests
+
+
+(33)
+
+
+-
+
+
+-
+
+
+238
+
+
+-
+
+
+-
+
+
+Less: net income attributable to redeemable
+non-controlling interests
+
+
+(7)
+
+
+-
+
+
+-
+
+
+(193)
+
+
+-
+
+
+-
+
+
+**Net loss attributable to ZKH Group**
+**Limited**
+
+
+**(129,540)**
+
+
+**(66,289)**
+
+
+**(9,120)**
+
+
+**(227,488)**
+
+
+**(157,190)**
+
+
+**(21,630)**
+
+
+Accretion on preferred shares to
+redemption value
+
+
+(419,425)
+
+
+-
+
+
+-
+
+
+(475,803)
+
+
+-
+
+
+-
+
+
+**Net loss attributable to ZKH Group**
+**Limited's ordinary shareholders**
+
+
+**(548,965)**
+
+
+**(66,289)**
+
+
+**(9,120)**
+
+
+**(703,291)**
+
+
+**(157,190)**
+
+
+**(21,630)**
+
+
+**Net loss**
+
+
+(129,580)
+
+
+(66,289)
+
+
+(9,120)
+
+
+(227,443)
+
+
+(157,190)
+
+
+(21,630)
+
+
+**Other comprehensive loss:**
+
+
+Foreign currency translation adjustments
+
+
+(81,370)
+
+
+(9,121)
+
+
+(1,255)
+
+
+(60,220)
+
+
+(12,471)
+
+
+(1,716)
+
+
+**Total comprehensive loss**
+
+
+(210,950)
+
+
+(75,410)
+
+
+(10,375)
+
+
+(287,663)
+
+
+(169,661)
+
+
+(23,346)
+
+
+Less: comprehensive income attributable
+to non-controlling interests
+
+
+(33)
+
+
+-
+
+
+-
+
+
+238
+
+
+-
+
+
+-
+
+
+Less: comprehensive loss attributable to
+redeemable non-controlling interests
+
+
+(7)
+
+
+-
+
+
+-
+
+
+(193)
+
+
+-
+
+
+-
+
+
+**Comprehensive loss attributable to ZKH**
+**Group Limited**
+
+
+(210,910)
+
+
+(75,410)
+
+
+(10,375)
+
+
+(287,708)
+
+
+(169,661)
+
+
+(23,346)
+
+
+Accretion on Preferred Shares to
+redemption value
+
+
+(419,425)
+
+
+-
+
+
+-
+
+
+(475,803)
+
+
+-
+
+
+-
+
+
+**Total comprehensive loss attributable to**
+**ZKH Group Limited's ordinary**
+**shareholders**
+
+
+(630,335)
+
+
+(75,410)
+
+
+(10,375)
+
+
+(763,511)
+
+
+(169,661)
+
+
+(23,346)
+
+
+**Net loss per ordinary share attributable**
+**to ordinary shareholders**
+
+
+Basic and diluted
+
+
+(0.41)
+
+
+(0.01)
+
+
+(0.00)
+
+
+(0.53)
+
+
+(0.03)
+
+
+(0.00)
+
+
+**Weighted average number of shares**
+
+
+Basic and diluted
+
+
+1,322,841,307
+
+
+5,747,591,752
+
+
+5,747,591,752
+
+
+1,322,841,307
+
+
+5,745,856,349
+
+
+5,745,856,349
+
+
+**Net loss per ADS attributable to**
+**ordinary shareholders**
+
+
+Basic and diluted
+
+
+(14.52)
+
+
+(0.40)
+
+
+(0.06)
+
+
+(18.61)
+
+
+(0.96)
+
+
+(0.13)
+
+
+**Weighted average number of ADS ( 35**
+**Class A ordinary shares equal to 1**
+**ADS)**
+
+
+Basic and diluted
+
+
+37,795,466
+
+
+164,216,907
+
+
+164,216,907
+
+
+37,795,466
+
+
+164,167,324
+
+
+164,167,324
+
+
+**ZKH GROUP LIMITED**
+
+
+**RECONCILIATIONS OF GAAP AND NON-GAAP RESULTS**
+
+
+(All amounts in thousands, except share, ADS, per share and per ADS data)
+
+
+**For the three months ended**
+
+
+**For the six months ended**
+
+
+**June 30, 2023**
+
+
+**June 30, 2024**
+
+
+**June 30, 2023**
+
+
+**June 30, 2024**
+
+
+**RMB**
+
+
+**RMB**
+
+
+**US$**
+
+
+**RMB**
+
+
+**RMB**
+
+
+**US$**
+
+
+**Net loss**
+
+
+**(129,580)**
+
+
+**(66,289)**
+
+
+**(9,120)**
+
+
+**(227,443)**
+
+
+**(157,190)**
+
+
+**(21,630)**
+
+
+Income tax expenses
+
+
+49
+
+
+66
+
+
+9
+
+
+181
+
+
+154
+
+
+12
+
+
+Interest expense
+
+
+4,507
+
+
+5,522
+
+
+760
+
+
+7,600
+
+
+11,217
+
+
+1,544
+
+
+Depreciation and amortization expense
+
+
+17,173
+
+
+13,633
+
+
+1,876
+
+
+40,586
+
+
+28,703
+
+
+3,950
+
+
+**Non-GAAP EBITDA**
+
+
+**(107,851)**
+
+
+**(47,068)**
+
+
+**(6,475)**
+
+
+**(179,076)**
+
+
+**(117,116)**
+
+
+**(16,124)**
+
+
+**For the three months ended**
+
+
+**For the six months ended**
+
+
+**June 30, 2023**
+
+
+**June 30, 2024**
+
+
+**June 30, 2023**
+
+
+**June 30, 2024**
+
+
+**RMB**
+
+
+**RMB**
+
+
+**US$**
+
+
+**RMB**
+
+
+**RMB**
+
+
+**US$**
+
+
+**Net loss**
+
+
+**(129,580)**
+
+
+**(66,289)**
+
+
+**(9,120)**
+
+
+**(227,443)**
+
+
+**(157,190)**
+
+
+**(21,630)**
+
+
+**Add:**
+
+
+Share-based compensation expenses
+
+
+82
+
+
+31,432
+
+
+4,325
+
+
+11,072
+
+
+78,874
+
+
+10,853
+
+
+**Non-GAAP adjusted net loss**
+
+
+**(129,498)**
+
+
+**(34,857)**
+
+
+**(4,796)**
+
+
+**(216,371)**
+
+
+**(78,316)**
+
+
+**(10,777)**
+
+
+**Non-GAAP adjusted net loss**
+**attributable to ordinary shareholders**
+**per share**
+
+
+Basic and diluted
+
+
+(0.10)
+
+
+(0.01)
+
+
+(0.00)
+
+
+(0.16)
+
+
+(0.01)
+
+
+(0.00)
+
+
+**Weighted average number of ordinary**
+**shares**
+
+
+Basic and diluted
+
+
+1,322,841,307
+
+
+5,747,591,752
+
+
+5,747,591,752
+
+
+1,322,841,307
+
+
+5,745,856,349
+
+
+5,745,856,349
+
+
+**Non-GAAP adjusted net loss**
+**attributable to ordinary shareholders**
+**per ADS**
+
+
+Basic and diluted
+
+
+(3.43)
+
+
+(0.21)
+
+
+(0.03)
+
+
+(5.72)
+
+
+(0.48)
+
+
+(0.07)
+
+
+**Weighted average number of ADS ( 35**
+**Class A ordinary shares equal to 1**
+**ADS)**
+
+
+Basic and diluted
+
+
+37,795,466
+
+
+164,216,907
+
+
+164,216,907
+
+
+37,795,466
+
+
+164,167,324
+
+
+164,167,324
+
+
+SOURCE ZKH Group Limited

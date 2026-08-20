@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c328cf44da8534167b8ca6b1d4a266b30a4984511927f79549d5e67d91a8ff6",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/1password-with-wire-service-accounts",
+    "canonical": "https://anakin.io/blog/1password-with-wire-service-accounts"
+  },
+  "title": "1Password Service Accounts with Wire: Scoping and Access",
+  "summary": "A 1Password Service Account is scoped from birth and revocable in one step. See what Wire reads, when, and why every read…",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T00:49:53.361744+00:00",
+  "fetched_at": "2026-08-05T03:48:36.198781+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/07/1c/1c328cf44da8534167b8ca6b1d4a266b30a4984511927f79549d5e67d91a8ff6/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/07/1c/1c328cf44da8534167b8ca6b1d4a266b30a4984511927f79549d5e67d91a8ff6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7615,
+    "sha256": "sha256:3b12e7c311b9e1235397a76e3d5eba16725532335f4ddd4b35182d15d494de9a",
+    "normalized_content_hash": "sha256:c105656a632a91ccdfc002c963675b8108ec0b326c6d38a897e4a36e4b4ffd54"
+  },
+  "provenance": {
+    "source_item_id": "c9f68f9a-063a-4d98-965f-b9828a2a09aa",
+    "external_id": "https://anakin.io/blog/1password-with-wire-service-accounts"
+  }
+}

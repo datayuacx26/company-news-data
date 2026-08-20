@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "6a2fb2e10b8a53128af8f38d7f9ced64ec4f7bb0488e02f2ea67b958fbbf40ca"
+company_key: "forestar-group-inc-common-stock"
+company: "Forestar Group Inc"
+source_id: "forestar-group-inc-common-stock-rss-56dd446a3930"
+canonical_url: "https://investor.forestar.com/press-releases/2026/04-21-2026-113054271"
+published_at: "2026-04-21T11:30:00+00:00"
+first_seen_at: "2026-07-25T05:30:06.252+00:00"
+fetched_at: "2026-08-20T02:06:20.457715+00:00"
+content_hash: "sha256:7ca5cfbc336940608b835132e8820e74218308973a3347b16ad078d66931df6b"
+---
+
+# Forestar Reports Fiscal 2026 Second Quarter Results
+
+

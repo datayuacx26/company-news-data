@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "723c006c6a94cddc0b63fe960128c6156b9267a15c1e944527633488fa98832d",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/agent-sessions",
+    "canonical": "https://s2.dev/blog/agent-sessions"
+  },
+  "title": "Stream per agent session",
+  "summary": "Why AI agent sessions need their own durable streams for memory, auditability, isolation, branching, and reliable resume.",
+  "published_at": "2025-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/07/72/723c006c6a94cddc0b63fe960128c6156b9267a15c1e944527633488fa98832d/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/07/72/723c006c6a94cddc0b63fe960128c6156b9267a15c1e944527633488fa98832d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9983,
+    "sha256": "sha256:664bf736594ee43459ae0c425fea44b9544292abeb5b1d477a2f8e434a7eff55",
+    "normalized_content_hash": "sha256:7f7607683c31ec2364a26b11da85fb9100b55c3699b2762cf7ce8ef6aab7c89d"
+  },
+  "provenance": {
+    "source_item_id": "2a2ac61d-83e6-4789-83dc-6c5b0307bd6e",
+    "external_id": "https://s2.dev/blog/agent-sessions"
+  }
+}

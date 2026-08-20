@@ -1,0 +1,54 @@
+---
+schema_version: "1.0.0"
+document_id: "9853559baebea6244f4f6da34f34a6b5e7a1fc224f0dce12d32d380b9c8c7e04"
+company_key: "installed-building-products-inc-common-stock"
+company: "Installed Building Products Inc."
+source_id: "installed-building-products-inc-common-stock-rss-d2baef4f0be0"
+canonical_url: "https://investors.installedbuildingproducts.com/news-releases/news-release-details/installed-building-products-announces-acquisition-diamond-energy"
+published_at: "2026-05-19T11:30:00+00:00"
+first_seen_at: "2026-07-25T09:35:29.734486+00:00"
+fetched_at: "2026-07-28T20:50:41.166574+00:00"
+content_hash: "sha256:c756319dea2bf6c56bbfb713d2562bddcae75ea2a89c6ec8452da13c8bc5dc52"
+---
+
+# Installed Building Products Announces the Acquisition of Diamond Energy Systems, Inc. and a Share Repurchase Update
+
+[PDF Version](https://investors.installedbuildingproducts.com/node/13171/pdf)
+
+
+*Acquisition Adds Approximately $12 Million of Annual Revenue*
+
+
+COLUMBUS, Ohio--(BUSINESS WIRE)--May 19, 2026-- Installed Building Products, Inc. (the “Company” or “IBP”) (NYSE: IBP), an industry-leading installer of insulation and complementary building products, today announced the acquisition of Diamond Energy Systems, Inc. (“DESI”). With headquarters in St. Joseph, MN, DESI specializes in mechanical insulation with the majority of its sales derived from retrofit work between industrial and commercial applications.
+
+
+“DESI adds approximately $12 million of annual revenue and expands our mechanical insulation offerings throughout the Upper Midwest region,” stated Jeff Edwards, Chairman and Chief Executive Officer. “To date in 2026, we have acquired approximately $40 million in annual revenue. Acquisitions remain a key component of our growth strategy and we continue to focus on expansion across multiple geographies, products, and end markets. On behalf of everyone at Installed Building Products, I want to welcome DESI onto our team.”
+
+
+During the month of May through May 18, 2026, IBP repurchased approximately 240 thousand shares of its common stock at a total cost of $51.2 million, including commissions, under its existing stock repurchase program. At May 19, 2026, the Company has approximately $425 million available under this program.
+
+
+**Forward-Looking Statements**
+
+
+This press release contains forward-looking statements within the meaning of the federal securities laws, including with respect to the housing market and the commercial market, our operations, industry and economic conditions, our financial and business model, the demand for our services and product offerings, expansion of our national footprint and end markets, diversification of our products, our ability to grow and strengthen our market position, our ability to pursue and integrate value-enhancing acquisitions and the expected amount of acquired revenue, our ability to improve sales and profitability, and expectations for demand for our services and our earnings. Forward-looking statements may generally be identified by the use of words such as "anticipate," "believe," "expect," "intends," "plan," and "will" or, in each case, their negative, or other variations or comparable terminology. These forward-looking statements include all matters that are not historical facts. By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. Any forward-looking statements that we make herein and in any future reports and statements are not guarantees of future performance, and actual results may differ materially from those expressed in or suggested by such forward-looking statements as a result of various factors, including, without limitation, general economic and industry conditions; increases in mortgage interest rates and rising home prices; inflation and interest rates; the material price and supply environment; the timing of increases in our selling prices; increased tariffs; federal government shutdowns and uncertainty regarding the federal government's policy changes; geopolitical conflicts; and the factors discussed in the “Risk Factors” section of the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, as the same may be updated from time to time in our subsequent filings with the Securities and Exchange Commission. In addition, the timing and amount of any repurchases under the stock repurchase program is determined by the Company at its discretion based on a variety of factors, including the market price of our common stock, corporate considerations, general market and economic conditions, legal requirements and other factors. The program may be modified, discontinued or suspended at any time. Any forward-looking statement made by the Company in this press release speaks only as of the date hereof. New risks and uncertainties arise from time to time, and it is impossible for the Company to predict these events or how they may affect it. The Company has no obligation, and does not intend, to update any forward-looking statements after the date hereof, except as required by federal securities laws.
+
+
+**About Installed Building Products**
+
+
+Installed Building Products, Inc. is one of the nation's largest new residential insulation installers and is a diversified installer of complementary building products, including waterproofing, fire-stopping, fireproofing, garage doors, rain gutters, window blinds, shower doors, closet shelving and mirrors and other products for residential and commercial builders located in the continental United States. The Company manages all aspects of the installation process for its customers, from direct purchase and receipt of materials from national manufacturers to its timely supply of materials to job sites and quality installation. The Company offers its portfolio of services for new and existing single-family and multi-family residential and commercial building projects in all 48 continental states and the District of Columbia from its national network of over 250 branch locations.
+
+
+View source version on[businesswire.com](http://businesswire.com/) :
+
+
+[https://www.businesswire.com/news/home/20260518445349/en/](https://www.businesswire.com/news/home/20260518445349/en/)
+
+
+Investor Relations:
+614-221-9944
+investorrelations@installed.net
+
+
+Source: Installed Building Products, Inc.

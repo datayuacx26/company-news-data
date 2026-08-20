@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b40942ec126c5ab5e71ff56a244f1e2768e8ad6a53d96d89cd4203e56f0102d0",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/piecewise-regression/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/piecewise-regression/"
+  },
+  "title": "Piecewise regression: When one line simply isn’t enough",
+  "summary": "A piecewise regression can model multiple trends in a single data set. Learn how Datadog automates piecewise regression on our timeseries data.",
+  "published_at": "2017-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:27:26.939710+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2017/07/b4/b40942ec126c5ab5e71ff56a244f1e2768e8ad6a53d96d89cd4203e56f0102d0/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2017/07/b4/b40942ec126c5ab5e71ff56a244f1e2768e8ad6a53d96d89cd4203e56f0102d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8198,
+    "sha256": "sha256:fc80b345a921fb0da3760ced5842155a93fc0fe1979f8b4fc21beeafe4e6e5a3",
+    "normalized_content_hash": "sha256:90fab0aa4965278591ac3719dbcaaaf3f31efea8d7d11f5c124dddce711e0bc4"
+  },
+  "provenance": {
+    "source_item_id": "8c911fc9-4a12-40e2-a3a9-4049592e0deb",
+    "external_id": "https://www.datadoghq.com/blog/engineering/piecewise-regression/"
+  }
+}

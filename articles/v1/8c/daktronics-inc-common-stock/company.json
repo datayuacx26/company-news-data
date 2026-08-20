@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "daktronics-inc-common-stock",
+    "name": "Daktronics Inc."
+  },
+  "record_count": 88,
+  "first_published_at": "2025-07-21T00:00:00+00:00",
+  "last_published_at": "2026-08-10T14:27:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8c/daktronics-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 61086,
+        "sha256": "sha256:b84a0f4ca8d5f0d80954f107eca1a63c164c2c61ba48facd3188dd93ba3eb817",
+        "newest_at": "2026-08-10T14:27:00+00:00",
+        "oldest_at": "2026-02-25T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/8c/daktronics-inc-common-stock/index/pages/000002.json",
+        "record_count": 38,
+        "byte_count": 48065,
+        "sha256": "sha256:11c76813bdb60733f46eb52ed4c798a6e305a8ae05067c7c74de9fccf0ed0d9b",
+        "newest_at": "2026-02-20T00:00:00+00:00",
+        "oldest_at": "2025-07-21T00:00:00+00:00"
+      }
+    ]
+  }
+}

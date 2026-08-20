@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d04748685b1f0719eed43ef8bd67a14959bb0549cc805d2a1797e811231373b",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/run-untrusted-llm-generated-code-safely",
+    "canonical": "https://blaxel.ai/blog/run-untrusted-llm-generated-code-safely"
+  },
+  "title": "How to run untrusted LLM-generated code safely in production",
+  "summary": "Learn how to isolate, constrain, and govern LLM-generated code in production using microVMs, runtime safeguards, and egress controls.",
+  "published_at": "2026-08-19T16:25:45+00:00",
+  "first_seen_at": "2026-08-19T18:44:07.874563+00:00",
+  "fetched_at": "2026-08-19T18:44:10.590664+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/08/6d/6d04748685b1f0719eed43ef8bd67a14959bb0549cc805d2a1797e811231373b/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/08/6d/6d04748685b1f0719eed43ef8bd67a14959bb0549cc805d2a1797e811231373b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19635,
+    "sha256": "sha256:fe2cb813c73e589a99d5f509bd132ef99095ea920fbe199cd4a901e6a603a4b5",
+    "normalized_content_hash": "sha256:0a13b6b48d88ab3846ec22eb4407cc6eee3d42f751ecfbb37ea4e4beb1533e43"
+  },
+  "provenance": {
+    "source_item_id": "bbfb9e8f-9e7e-4741-82df-ddccc040668b",
+    "external_id": "https://blaxel.ai/blog/run-untrusted-llm-generated-code-safely"
+  }
+}

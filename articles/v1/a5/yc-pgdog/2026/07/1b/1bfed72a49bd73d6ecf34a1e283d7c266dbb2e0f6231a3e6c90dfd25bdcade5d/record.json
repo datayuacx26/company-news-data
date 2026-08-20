@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1bfed72a49bd73d6ecf34a1e283d7c266dbb2e0f6231a3e6c90dfd25bdcade5d",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+    "canonical": "https://pgdog.dev/blog/why-yet-another-connection-pooler"
+  },
+  "title": "Why we built yet another Postgres connection pooler",
+  "summary": "PgDog is a connection pooler, load balancer, and sharding proxy for PostgreSQL. Scale Postgres horizontally without rewriting your application.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.478310+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T02:38:54.029156+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2026/07/1b/1bfed72a49bd73d6ecf34a1e283d7c266dbb2e0f6231a3e6c90dfd25bdcade5d/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2026/07/1b/1bfed72a49bd73d6ecf34a1e283d7c266dbb2e0f6231a3e6c90dfd25bdcade5d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6810,
+    "sha256": "sha256:1aabbf2cfa5f5a19cb38379d42dc4c84af5d908e921c16ed4b941e4de772a136",
+    "normalized_content_hash": "sha256:fbad11e36d16c9968d2615c3837811dc6b0514a537a9ef7da8cac0fb865ac549"
+  },
+  "provenance": {
+    "source_item_id": "c57365ea-9ad6-4e8d-9e2d-7f5885683498",
+    "external_id": "https://pgdog.dev/blog/why-yet-another-connection-pooler"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aecb321f55bc139b0c2191be5e0f7542a9b2c87334bc23ed81959b4d9d8cc1ce",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-9eed3a34e5de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/blog/remote-bazel-with-agents",
+    "canonical": "https://www.buildbuddy.io/blog/remote-bazel-with-agents"
+  },
+  "title": "Remote Bazel: The missing piece for AI coding agents",
+  "summary": "AI coding agents like Claude, Cursor, and Codex are transforming how developers write software. For many developers coding with agents, the bottleneck has shifted from writing code to validating code written by agents - with builds and tests.",
+  "published_at": "2026-03-02T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:54.250593+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T03:45:46.032492+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/03/ae/aecb321f55bc139b0c2191be5e0f7542a9b2c87334bc23ed81959b4d9d8cc1ce/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/03/ae/aecb321f55bc139b0c2191be5e0f7542a9b2c87334bc23ed81959b4d9d8cc1ce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11756,
+    "sha256": "sha256:dd8fdec040c775f64773f9154e538d1697aceaeee23bbb9478f3e5d1edf5d6fd",
+    "normalized_content_hash": "sha256:fc5da7ed306b064cfe0041116ecafe7c28a0b750bb005f1fa40549a95bffd110"
+  },
+  "provenance": {
+    "source_item_id": "c69e5c36-b993-4bc6-a873-0a82deb9f116",
+    "external_id": "https://www.buildbuddy.io/blog/remote-bazel-with-agents"
+  }
+}

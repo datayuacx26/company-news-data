@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f11425b509e84223d7c6de4cf2acabdceee0123974dd7aeb5f151cec49f98bf8",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/research/hacking-the-old-hackernews-codebase",
+    "canonical": "https://winfunc.com/research/hacking-the-old-hackernews-codebase"
+  },
+  "title": "Hacking the old HackerNews codebase",
+  "summary": "Auditing the old HackerNews codebase for security vulnerabilities with LLMs on a specialized harness.",
+  "published_at": "2026-04-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:15:51.462388+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/04/f1/f11425b509e84223d7c6de4cf2acabdceee0123974dd7aeb5f151cec49f98bf8/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/04/f1/f11425b509e84223d7c6de4cf2acabdceee0123974dd7aeb5f151cec49f98bf8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18022,
+    "sha256": "sha256:6361e845f0091f29dabc1fbefda0678f0c97a0b96ae926250c3d8e91b49eb927",
+    "normalized_content_hash": "sha256:471fc2873f4c73977918d523040951d6afbff986602227a5b7373b2d0524cf1e"
+  },
+  "provenance": {
+    "source_item_id": "4bb379a7-d728-41ae-b66b-c84bbb062f3e",
+    "external_id": "https://winfunc.com/research/hacking-the-old-hackernews-codebase"
+  }
+}

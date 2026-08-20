@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e6b30d48503016c3fc2df125daf5e197508cffa6c0fc139cedb38df39f2b1cc",
+  "company": {
+    "key": "yc-hatchet-run",
+    "name": "Hatchet"
+  },
+  "source": {
+    "id": "yc-hatchet-run-rss-3f16f06bd764",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://hatchet.run/blog/first-idempotency-key",
+    "canonical": "https://hatchet.run/blog/first-idempotency-key"
+  },
+  "title": "The first idempotency key",
+  "summary": "Discovering what we've all copied from Xerox.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:57:06.374584+00:00",
+  "fetched_at": "2026-08-09T22:57:07.291413+00:00",
+  "last_updated_at": "2026-08-20T03:51:48.022662+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-hatchet-run/2026/07/7e/7e6b30d48503016c3fc2df125daf5e197508cffa6c0fc139cedb38df39f2b1cc/article.md",
+    "record": "articles/v1/95/yc-hatchet-run/2026/07/7e/7e6b30d48503016c3fc2df125daf5e197508cffa6c0fc139cedb38df39f2b1cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11606,
+    "sha256": "sha256:3c28208d5586c29e100670cea0d82fbdbbc130dd8ed307e2ef6bbd5561739ea1",
+    "normalized_content_hash": "sha256:482ae1a8dfa58e861905bdda7ed0ddbdf8566e3dda02807c75a5fd902205a00b"
+  },
+  "provenance": {
+    "source_item_id": "72f3f57b-bff5-4bc2-8d42-499d21c191ca",
+    "external_id": "https://hatchet.run/blog/first-idempotency-key"
+  }
+}

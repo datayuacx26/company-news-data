@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8bb05662568c84a456a63acb758d7426c183d56e7d180b126bf77f67cce3fa3a",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/managing-multiple-stripe-test-environments-from-aws",
+    "canonical": "https://stripe.dev/blog/managing-multiple-stripe-test-environments-from-aws"
+  },
+  "title": "Managing multiple Stripe test environments from your AWS-hosted application",
+  "summary": "Stripe sandboxes enhance test environment management, offering improved functionality over test mode, allowing isolated accounts, multiple developers, and better access control while integrating seamlessly with AWS applications.",
+  "published_at": "2024-11-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/11/8b/8bb05662568c84a456a63acb758d7426c183d56e7d180b126bf77f67cce3fa3a/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/11/8b/8bb05662568c84a456a63acb758d7426c183d56e7d180b126bf77f67cce3fa3a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6037,
+    "sha256": "sha256:eef46fcfb5e3a09b1a212e646ddde4fe605d40a403e170eb64ea949fa7abd18c",
+    "normalized_content_hash": "sha256:981adfd908f25f61cb2ad77e49a0fa637efc509333e0202ee05327b55bac168c"
+  },
+  "provenance": {
+    "source_item_id": "072d088e-a320-4bac-9ed7-6545cb22f856",
+    "external_id": "https://stripe.dev/blog/managing-multiple-stripe-test-environments-from-aws"
+  }
+}

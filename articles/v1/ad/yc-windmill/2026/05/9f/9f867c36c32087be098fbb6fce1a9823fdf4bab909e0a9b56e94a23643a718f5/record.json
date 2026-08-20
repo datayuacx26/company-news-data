@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f867c36c32087be098fbb6fce1a9823fdf4bab909e0a9b56e94a23643a718f5",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/audit-logs-object-storage",
+    "canonical": "https://www.windmill.dev/changelog/audit-logs-object-storage"
+  },
+  "title": "Export audit logs to object storage",
+  "summary": "Continuously export audit logs as newline-delimited JSON to a dedicated logs/audit/ folder in instance object storage, for SIEM forwarding and archival.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T22:13:03.870884+00:00",
+  "last_updated_at": "2026-07-28T22:15:05.732532+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/05/9f/9f867c36c32087be098fbb6fce1a9823fdf4bab909e0a9b56e94a23643a718f5/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/05/9f/9f867c36c32087be098fbb6fce1a9823fdf4bab909e0a9b56e94a23643a718f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1530,
+    "sha256": "sha256:ac10476c11d4449b894def184302204cf6e03aa15615779a0acc3faddf7c45c6",
+    "normalized_content_hash": "sha256:afcde8c4329abcd4d01f6222def6fd138eaa9380adfb98802fea8a4e35dce94d"
+  },
+  "provenance": {
+    "source_item_id": "1b3d6f5c-7bc3-49b2-b9e0-7e47a523c258",
+    "external_id": "https://www.windmill.dev/changelog/audit-logs-object-storage"
+  }
+}

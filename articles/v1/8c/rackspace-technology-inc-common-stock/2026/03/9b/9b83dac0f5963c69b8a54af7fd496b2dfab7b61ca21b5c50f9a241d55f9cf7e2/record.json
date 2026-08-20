@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b83dac0f5963c69b8a54af7fd496b2dfab7b61ca21b5c50f9a241d55f9cf7e2",
+  "company": {
+    "key": "rackspace-technology-inc-common-stock",
+    "name": "Rackspace Technology Inc."
+  },
+  "source": {
+    "id": "rackspace-technology-inc-common-stock-news-import-038771c82b17",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://spot.rackspace.com/blog/cinder-csi-vs-ceph-rbd-csi-in-kubernetes-an-analysis-of-persistent-volume-lifecycle-performance-on-rackspace-spot",
+    "canonical": "https://spot.rackspace.com/blog/cinder-csi-vs-ceph-rbd-csi-in-kubernetes-an-analysis-of-persistent-volume-lifecycle-performance-on-rackspace-spot"
+  },
+  "title": "Cinder CSI vs Ceph RBD CSI in Kubernetes: An Analysis of Persistent Volume Lifecycle Performance on Rackspace Spot",
+  "summary": "This article investigates why some Kubernetes storage classes on Rackspace Spot attach volumes faster than others. Users have occasionally reported Pods stuck in Pending due to PVC attachment delays. By examining the architecture of Cinder CSI and Ceph CSI, we show how multiple control plane layers in Cinder can introduce lifecycle latency, and how Ceph’s architecture reduces these delays.",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:47:01.830546+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T20:08:52.087283+00:00",
+  "paths": {
+    "article": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/03/9b/9b83dac0f5963c69b8a54af7fd496b2dfab7b61ca21b5c50f9a241d55f9cf7e2/article.md",
+    "record": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/03/9b/9b83dac0f5963c69b8a54af7fd496b2dfab7b61ca21b5c50f9a241d55f9cf7e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33033,
+    "sha256": "sha256:3669592b3db98242499db5d83a627de4376adaa3804b8b9b5a82a6344449cf4d",
+    "normalized_content_hash": "sha256:604727de5ccbffc07b079de30d54e3a92665b4389cb3d7d75c4ccd300be605e3"
+  },
+  "provenance": {
+    "source_item_id": "54eef44e-ee15-4c4c-940a-8b355500fa8b",
+    "external_id": "https://spot.rackspace.com/blog/cinder-csi-vs-ceph-rbd-csi-in-kubernetes-an-analysis-of-persistent-volume-lifecycle-performance-on-rackspace-spot"
+  }
+}

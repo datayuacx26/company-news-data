@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69c234be398deffeb13471cc4bffa7e1ce1215650a8b043934ec55032529900c",
+  "company": {
+    "key": "stitch-fix-inc-class-a-common-stock",
+    "name": "Stitch Fix Inc."
+  },
+  "source": {
+    "id": "stitch-fix-inc-class-a-common-stock-rss-75294c3181e6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/",
+    "canonical": "https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/"
+  },
+  "title": "Accelerating AI: Implementing Multi-GPU Distributed Training for Personalized Recommendations",
+  "summary": "How Stitch Fix implemented distributed model training to accelerate developer velocity and ability to improve models.",
+  "published_at": "2023-06-08T09:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:28.351732+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T00:38:49.585142+00:00",
+  "paths": {
+    "article": "articles/v1/bd/stitch-fix-inc-class-a-common-stock/2023/06/69/69c234be398deffeb13471cc4bffa7e1ce1215650a8b043934ec55032529900c/article.md",
+    "record": "articles/v1/bd/stitch-fix-inc-class-a-common-stock/2023/06/69/69c234be398deffeb13471cc4bffa7e1ce1215650a8b043934ec55032529900c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15742,
+    "sha256": "sha256:75614c94375404d70698097df35033fb35a52af8cc1addc81a738fd563b6dd35",
+    "normalized_content_hash": "sha256:4c5dbf38a6ed317eba429ef4669230b3e13ca1df51344730e29f715f7c501ea8"
+  },
+  "provenance": {
+    "source_item_id": "0a71152c-8eb8-48ed-a5b6-8e700314d07e",
+    "external_id": "https://multithreaded.stitchfix.com/blog/2023/06/08/distributed-model-training/"
+  }
+}

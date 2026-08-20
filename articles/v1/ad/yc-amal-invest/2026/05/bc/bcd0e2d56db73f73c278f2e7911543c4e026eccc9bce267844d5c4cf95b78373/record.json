@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bcd0e2d56db73f73c278f2e7911543c4e026eccc9bce267844d5c4cf95b78373",
+  "company": {
+    "key": "yc-amal-invest",
+    "name": "Amal Invest"
+  },
+  "source": {
+    "id": "yc-amal-invest-news-import-cb58b37e0a38",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://amalinvest.com/changelog/2026-05",
+    "canonical": "https://amalinvest.com/changelog/2026-05"
+  },
+  "title": "A new trading engine",
+  "summary": "The trading layer was rewritten so every dollar is auditable. Plus chart timeframes, CSV export, and fixes for the bumps the rewrite caused.",
+  "published_at": "2026-05-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:14:08.584317+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-19T18:30:24.860305+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-amal-invest/2026/05/bc/bcd0e2d56db73f73c278f2e7911543c4e026eccc9bce267844d5c4cf95b78373/article.md",
+    "record": "articles/v1/ad/yc-amal-invest/2026/05/bc/bcd0e2d56db73f73c278f2e7911543c4e026eccc9bce267844d5c4cf95b78373/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3044,
+    "sha256": "sha256:e8f4e432082b3ba92ae02b2c5d9f1774b5ac5235349b1b604db72f4c41c694db",
+    "normalized_content_hash": "sha256:b89e5f2ef5d672e5d7e8d1be5b2aaf17e1a65d2ca3572cfda9115aa059a0d8a8"
+  },
+  "provenance": {
+    "source_item_id": "9aa6d4d7-b917-4c98-b468-6def27c7c9e3",
+    "external_id": "https://amalinvest.com/changelog/2026-05"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-billforward",
+    "name": "Billforward"
+  },
+  "record_count": 10,
+  "first_published_at": "2022-06-17T04:00:00+00:00",
+  "last_published_at": "2023-12-21T12:48:23+00:00",
+  "partitions": [
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/98/yc-billforward/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10372,
+        "sha256": "sha256:1ac23459116e051eadf4877d51da11c627dcb525d38ff6e6384b331b7c1eee83",
+        "newest_at": "2023-12-21T12:48:23+00:00",
+        "oldest_at": "2022-06-17T04:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81c53adb96a79b8da83e6ec0491624c2c390b43e37b409f7d4f4ef4b4df840f0",
+  "company": {
+    "key": "commvault-systems-inc-common-stock",
+    "name": "Commvault Systems Inc."
+  },
+  "source": {
+    "id": "commvault-systems-inc-common-stock-news-import-d7ff9e033aa3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.commvault.com/blogs/terraform-builds-your-cloud-commvault-cloud-rewind-recovers-it",
+    "canonical": "https://www.commvault.com/blogs/terraform-builds-your-cloud-commvault-cloud-rewind-recovers-it"
+  },
+  "title": "Terraform Builds Your Cloud. Commvault® Cloud Rewind™ Recovers It.",
+  "summary": "Terraform and Cloud Rewind address different parts of the cloud lifecycle. Understanding the difference helps you avoid a dangerous assumption: that your IaC tooling doubles as a recovery plan.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T16:34:28.548296+00:00",
+  "fetched_at": "2026-08-13T16:34:30.794599+00:00",
+  "last_updated_at": "2026-08-20T02:01:47.590511+00:00",
+  "paths": {
+    "article": "articles/v1/83/commvault-systems-inc-common-stock/2026/08/81/81c53adb96a79b8da83e6ec0491624c2c390b43e37b409f7d4f4ef4b4df840f0/article.md",
+    "record": "articles/v1/83/commvault-systems-inc-common-stock/2026/08/81/81c53adb96a79b8da83e6ec0491624c2c390b43e37b409f7d4f4ef4b4df840f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6315,
+    "sha256": "sha256:ac76d279741d44135bc328e321862f3778e5cd7ffc706df820ca5f7e5dd8151c",
+    "normalized_content_hash": "sha256:e8e0fb17377077d14816e0ccd2e37c61095ca1a151515bba462e12d571a4d22b"
+  },
+  "provenance": {
+    "source_item_id": "fc75d601-768b-4d0d-a8d6-1391e1e98794",
+    "external_id": "https://www.commvault.com/blogs/terraform-builds-your-cloud-commvault-cloud-rewind-recovers-it"
+  }
+}

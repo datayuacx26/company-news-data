@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e53a55cfd9d3626b4d076c5f2f8daae33a5d878cec36e039735ed1c93c295744",
+  "company": {
+    "key": "yc-lumari",
+    "name": "Lumari"
+  },
+  "source": {
+    "id": "yc-lumari-news-import-140e3221891d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lumari.ai/blog/3-way-match",
+    "canonical": "https://lumari.ai/blog/3-way-match"
+  },
+  "title": "3-Way Match: The AP Process That Catches What Procurement Missed",
+  "summary": "A 3-way match compares the purchase order, the goods receipt, and the supplier invoice before AP pays. When all three agree, the invoice gets paid. When they don't, somebody has to figure out why.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T23:40:56.159161+00:00",
+  "fetched_at": "2026-08-09T23:40:57.548506+00:00",
+  "last_updated_at": "2026-08-19T23:07:51.049148+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-lumari/2026/05/e5/e53a55cfd9d3626b4d076c5f2f8daae33a5d878cec36e039735ed1c93c295744/article.md",
+    "record": "articles/v1/98/yc-lumari/2026/05/e5/e53a55cfd9d3626b4d076c5f2f8daae33a5d878cec36e039735ed1c93c295744/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9398,
+    "sha256": "sha256:7236078d8aa6560c3f4bf078745078f3019de814374fcdbeb4b68b723aa885cb",
+    "normalized_content_hash": "sha256:34009cf1129c7a096e93839c48990e4092523bc43a6d564e09e0a8786e095905"
+  },
+  "provenance": {
+    "source_item_id": "e4ffa59f-7e8e-4861-9cee-73e98549dbc6",
+    "external_id": "https://lumari.ai/blog/3-way-match"
+  }
+}

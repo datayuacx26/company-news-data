@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "331f9f165f2a3621f31ae84689b908138d5d06e30e47c6aafdf0a60f088fcf72",
+  "company": {
+    "key": "yc-guide-labs",
+    "name": "Guide Labs"
+  },
+  "source": {
+    "id": "yc-guide-labs-news-import-41fe5d9b8b28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.guidelabs.ai/post/prism/",
+    "canonical": "https://www.guidelabs.ai/post/prism/"
+  },
+  "title": "PRISM: Training Data Prototypes for Language Models",
+  "summary": "We introduce a new family of interpretable language models, PRISM, that enables us to trace predictions back to training data.",
+  "published_at": "2025-12-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:19:32.933709+00:00",
+  "fetched_at": "2026-07-28T22:25:04.749708+00:00",
+  "last_updated_at": "2026-08-19T15:50:29.163183+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-guide-labs/2025/12/33/331f9f165f2a3621f31ae84689b908138d5d06e30e47c6aafdf0a60f088fcf72/article.md",
+    "record": "articles/v1/ac/yc-guide-labs/2025/12/33/331f9f165f2a3621f31ae84689b908138d5d06e30e47c6aafdf0a60f088fcf72/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25408,
+    "sha256": "sha256:e4fed049229dcf605c0ef3ded889f94fc1ab1eb8eccc56a0cc761153625b75a8",
+    "normalized_content_hash": "sha256:cd50c08b1a6c98005a3cbdf8c62b7b016673c5b7eacac47450254c617f7d2caf"
+  },
+  "provenance": {
+    "source_item_id": "2936b370-1994-41d6-8cfd-7b1afec147db",
+    "external_id": "https://www.guidelabs.ai/post/prism/"
+  }
+}

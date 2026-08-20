@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "17ba3dcce6643bec652ec9c6b492b5784b75716ebc75ca8f98b5a9002c37bbfd",
+  "company": {
+    "key": "yc-better-auth",
+    "name": "Better Auth"
+  },
+  "source": {
+    "id": "yc-better-auth-rss-ab6aa45cffa8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://better-auth.com/blog/security-update-july-2026",
+    "canonical": "https://better-auth.com/blog/security-update-july-2026"
+  },
+  "title": "Auth.js security update: July 2026",
+  "summary": "Four security advisories fixed across Auth.js this cycle, in @auth/core, next-auth v4, and next-auth v5, with the release to update to for each.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T18:52:17.785032+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T03:14:04.092350+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-better-auth/2026/07/17/17ba3dcce6643bec652ec9c6b492b5784b75716ebc75ca8f98b5a9002c37bbfd/article.md",
+    "record": "articles/v1/a5/yc-better-auth/2026/07/17/17ba3dcce6643bec652ec9c6b492b5784b75716ebc75ca8f98b5a9002c37bbfd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5168,
+    "sha256": "sha256:35cb04e2ecc7e4c495d041961cf4a3f468b5bc9ea1265e3fec7b0d987d5b7f2c",
+    "normalized_content_hash": "sha256:8a41d9b180d65408e813cc24906eafd0bcdbc0ba6b3599709fc086100abae938"
+  },
+  "provenance": {
+    "source_item_id": "8917dbf6-64b3-4829-8fbe-7d331ecffe06",
+    "external_id": "/blog/security-update-july-2026"
+  }
+}

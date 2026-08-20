@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "673ceff5a8db44501ecfb3a158836d2a600ca2d1f5dae91744cc0fce2b15e02d",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/linearizability",
+    "canonical": "https://s2.dev/blog/linearizability"
+  },
+  "title": "Linearizability testing S2 with deterministic simulation",
+  "summary": "How S2 validates strong consistency with Porcupine linearizability checking and deterministic simulation testing.",
+  "published_at": "2025-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/08/67/673ceff5a8db44501ecfb3a158836d2a600ca2d1f5dae91744cc0fce2b15e02d/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/08/67/673ceff5a8db44501ecfb3a158836d2a600ca2d1f5dae91744cc0fce2b15e02d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19243,
+    "sha256": "sha256:9e4e9ffb108dda197e3d6f26dc7c43f74d03240fe914afc6977f52281e807154",
+    "normalized_content_hash": "sha256:0d3ee2e0c0ff4dd6dbe4a844e08508b52baf073af1e22bd2afa3f1326fc38716"
+  },
+  "provenance": {
+    "source_item_id": "b0b66eb6-cbeb-4e0e-adf0-9307f6cc6c7a",
+    "external_id": "https://s2.dev/blog/linearizability"
+  }
+}

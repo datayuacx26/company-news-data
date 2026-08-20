@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d50c0a357d840ec8edad034dbdf39ffb551d6d36fe21f08b2d80c7cdb4d61e7",
+  "company": {
+    "key": "yc-reducto",
+    "name": "Reducto"
+  },
+  "source": {
+    "id": "yc-reducto-news-import-9027c8a6c8d0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://reducto.ai/blog/reducto-raises-frontier-model-accuracy",
+    "canonical": "https://reducto.ai/blog/reducto-raises-frontier-model-accuracy"
+  },
+  "title": "Reducto Raises Frontier Model Accuracy on GDP.pdf",
+  "summary": "Frontier models score under 30% on GDP.pdf, a benchmark of 100 real professional documents. We ran the same tasks with Reducto's structured parse added: macro accuracy jumped 9pp, reasoning tokens dropped 13%, and answers arrived faster despite 82% more input.",
+  "published_at": "2026-06-16T12:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:11:50.013054+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T20:13:43.815092+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-reducto/2026/06/3d/3d50c0a357d840ec8edad034dbdf39ffb551d6d36fe21f08b2d80c7cdb4d61e7/article.md",
+    "record": "articles/v1/99/yc-reducto/2026/06/3d/3d50c0a357d840ec8edad034dbdf39ffb551d6d36fe21f08b2d80c7cdb4d61e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7860,
+    "sha256": "sha256:caa3c0800db65f06666d510a92754dd0913827cbe00efae1b2558f70c8fee8f1",
+    "normalized_content_hash": "sha256:b07254caf292d7e01166f26e709b847b58953809aa5cc099b23879f416cf6bb4"
+  },
+  "provenance": {
+    "source_item_id": "02dad10a-4720-4539-bab5-c27b520f3a8b",
+    "external_id": "https://reducto.ai/blog/reducto-raises-frontier-model-accuracy"
+  }
+}

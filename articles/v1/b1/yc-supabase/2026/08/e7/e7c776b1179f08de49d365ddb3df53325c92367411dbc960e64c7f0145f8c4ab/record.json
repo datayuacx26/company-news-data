@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7c776b1179f08de49d365ddb3df53325c92367411dbc960e64c7f0145f8c4ab",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/postgres-changes-filters-and-column-selection",
+    "canonical": "https://supabase.com/blog/postgres-changes-filters-and-column-selection"
+  },
+  "title": "Postgres Changes gets AND filters, new operators, and column selection",
+  "summary": "Postgres Changes subscriptions can now combine filters with AND, match on more operators, and select only the columns you need in the payload.",
+  "published_at": "2026-08-05T07:00:00+00:00",
+  "first_seen_at": "2026-08-05T16:52:14.232586+00:00",
+  "fetched_at": "2026-08-05T16:52:21.087367+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2026/08/e7/e7c776b1179f08de49d365ddb3df53325c92367411dbc960e64c7f0145f8c4ab/article.md",
+    "record": "articles/v1/b1/yc-supabase/2026/08/e7/e7c776b1179f08de49d365ddb3df53325c92367411dbc960e64c7f0145f8c4ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4997,
+    "sha256": "sha256:c204c3fbc2714317d7a778e9866859d3e5472e26a417d81c3e003a9ccc316c27",
+    "normalized_content_hash": "sha256:e4979caea8471fa71d9590d0546610ba9544a30b8ca861427da6de7670bf5cc8"
+  },
+  "provenance": {
+    "source_item_id": "e7f82171-742b-48a0-b746-a4f35993ce29",
+    "external_id": "https://supabase.com/blog/postgres-changes-filters-and-column-selection"
+  }
+}

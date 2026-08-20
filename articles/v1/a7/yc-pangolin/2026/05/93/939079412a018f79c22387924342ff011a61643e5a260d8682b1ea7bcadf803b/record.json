@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "939079412a018f79c22387924342ff011a61643e5a260d8682b1ea7bcadf803b",
+  "company": {
+    "key": "yc-pangolin",
+    "name": "Pangolin"
+  },
+  "source": {
+    "id": "yc-pangolin-news-import-841387734568",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://pangolin.net/news/gitops-pangolin-blueprints-ci-cd",
+    "canonical": "https://pangolin.net/news/gitops-pangolin-blueprints-ci-cd"
+  },
+  "title": "GitOps for Pangolin Blueprints: Access Control via CI/CD",
+  "summary": "Manage Pangolin Blueprints with GitOps using declarative YAML, pull request review, and GitHub Actions automation.",
+  "published_at": "2026-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T08:11:44.188163+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T18:02:58.347278+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-pangolin/2026/05/93/939079412a018f79c22387924342ff011a61643e5a260d8682b1ea7bcadf803b/article.md",
+    "record": "articles/v1/a7/yc-pangolin/2026/05/93/939079412a018f79c22387924342ff011a61643e5a260d8682b1ea7bcadf803b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9392,
+    "sha256": "sha256:ade25528f8c30206570325a3ca21fb2365efb5915c9995c4a48c3a415a1d6af4",
+    "normalized_content_hash": "sha256:1154b5391f637c86f32293ea259252de9491ac0626299aa867acecb085826241"
+  },
+  "provenance": {
+    "source_item_id": "ef055f92-7824-4e46-ba2b-94265d0d8c8b",
+    "external_id": "https://pangolin.net/news/gitops-pangolin-blueprints-ci-cd"
+  }
+}

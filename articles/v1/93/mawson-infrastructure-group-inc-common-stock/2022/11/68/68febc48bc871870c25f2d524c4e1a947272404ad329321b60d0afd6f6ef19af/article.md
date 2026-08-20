@@ -1,0 +1,50 @@
+---
+schema_version: "1.0.0"
+document_id: "68febc48bc871870c25f2d524c4e1a947272404ad329321b60d0afd6f6ef19af"
+company_key: "mawson-infrastructure-group-inc-common-stock"
+company: "Mawson Infrastructure Group Inc."
+source_id: "mawson-infrastructure-group-inc-common-stock-rss-8e61b7fe9dbc"
+canonical_url: "http://www.bigdigital.energy/news/post/mawson-infrastructure-group-inc-announces-october-2022-operational-update"
+published_at: "2022-11-21T06:00:00+00:00"
+first_seen_at: "2026-07-25T03:22:07.630495+00:00"
+fetched_at: "2026-08-20T02:05:22.373511+00:00"
+content_hash: "sha256:fbe4cde15787017edc5fa8f1419364d2973b7ebc0060759e22ba246d4955311c"
+---
+
+# Mawson Infrastructure Group Inc Announces October 2022 Operational Update
+
+**Mawson Infrastructure Group Inc Announces October 2022 Operational Update** *Mawson’s installed operational capacity at approximately 2.5 Exahash as at the end of October across Bitcoin Self-Mining and Hosting Co-location* *Approximately $1.8 Million generated from Mawson’s Energy Market Program in October, in addition to the $6.3 Million generated in Q3, 2022* **Atlanta, Georgia and Sydney, Australia — November 21, 2022 —** Mawson Infrastructure Group Inc. (NASDAQ:MIGI) (“Mawson” or the “Company”), a digital infrastructure provider, announces unaudited Bitcoin production and operational update for October 2022. *“October saw the Mawson team close the sale of the Sandersville, Georgia facility and operational handover of the site to CleanSpark, Inc. The sale is expected to result in an unaudited profit on sale of approximately $18 million, to be recognized in the fourth quarter of 2022. Our Pennsylvania facilities are large-scale, benefit from low energy costs and enable us to continue to participate in our Energy Markets Program which generated $6.3 million in revenue in Q3, 2022, and an additional approximately $1.8 million in October. The exit from Georgia presents Mawson with the ability to refocus its expansion efforts on our largest and highest return on capital infrastructure assets moving forward - our Pennsylvania facilities have combined capacity of 220MW, or approximately 8.0 Exahash. During October Mawson continued with its diversified revenue model ensuring the group continues to operate strongly through the current tough economic climate.” **said James Manning, CEO.*** **October** **Bitcoin Self-Mining, Energy Market Program & Hosting Co-location Update:**
+
+
+- Equivalent total Bitcoin Production: 145
+- Equivalent BTC production from Energy Market Program: 92 (based on average price of Bitcoin in October of $19,651)
+- Self-Mined Bitcoin produced: 53
+- Self-Mining Installed Capacity: 0.5 Exahash
+- Year to date self-mined Bitcoin: 1284
+- Energy Market Program revenue: approximately $1.8 million
+- Year to date Energy Market Program revenue: approximately $8.1 million
+- Hosting Co-location installed capacity: 2.1 Exahash
+- Hosting Co-location megawatts online as at end October: approximately 64 megawatts
+- Total installed capacity across Bitcoin Self-Mining and Hosting Co-location: 2.5 Exahash
+
+
+**Sale of Georgia Assets:** As announced to the market on October 11, 2022, Mawson has completed the sale of certain assets at its Sandersville, Georgia facility to CleanSpark, Inc (NASDAQ:CLSK) for approximately $40.0 Million\[1\] . $20.6 million in cash has been received from CleanSpark, Inc. throughout October and November, with the balance of the cash and stock expected to be received in Q4, 2022 and Q1 2023 as per previous guidance. **Post Georgia Sale Expansion and 2023 Strategy** As a result of the sale of certain assets at the Sandersville, Georgia facility to CleanSpark, Inc, the Company intends to focus on the following activities in the fourth quarter of 2022:
+
+
+1. Expand Bitcoin Self-Mining and Hosting Co-location operations to 4.5 Exahash by Q1, 2023 and to our anticipated 8.0 Exahash by Q4, 2023.
+2. Continue the expansion of our 220 megawatt Pennsylvania facilities, where the company has low energy costs and large scale expansion opportunities.
+3. Continue with our Energy Markets Program, which generates revenue and reduces overall costs of production.
+4. Continue with our strong ESG focus across our business.
+5. Secure a portfolio of site(s) in our preferred geographies and jurisdictions for long term digital infrastructure capacity.
+6. Explore opportunities to expand our digital infrastructure business.
+7. Develop strategic partnerships and relationships with customers and communities.
+8. Continue to explore further asset or development site sales to free up capital for deployment at our preferred sites / those sites which best meet Mawson's investment criteria.
+
+
+*Aerial view of Midland, Pennsylvania facility expansion* **About Mawson Infrastructure** Mawson Infrastructure Group (NASDAQ: MIGI) is a digital infrastructure provider, with multiple operations throughout the USA and Australia. Mawson’s vertically integrated model is based on a long-term strategy to promote the global transition to the new digital economy. Mawson matches sustainable energy infrastructure with next-generation Mobile Data Center (MDC) solutions, enabling low-cost Bitcoin production and on-demand deployment of infrastructure assets. With a strong focus on shareholder returns and an aligned board and management, Mawson Infrastructure Group is emerging as a global leader in ESG focused Bitcoin mining and digital infrastructure. For more information, visit:[www.mawsoninc.com](https://mawsoninc.com/) **Statements about hashrate capacity** Statements in the press release about hashrate capacity or ‘nameplate’ capacity, will often differ negatively from actual or observed hashrates. Hashrate capacity or ‘nameplate’ capacity generally makes certain assumptions about the efficiency of the ASIC miners that are in use. Some ASIC miners will consume less power per Bitcoin produced than other ASIC miners (typically more recent models are more efficient). Many ASIC miner fleets are blended fleets, with different ASIC miners with various efficiency ratings. Construction and development delays are a common risk for mining data centers, for example due to weather, permitting delays, or labor and equipment shortages. Hashrate capacity figures typically assume 100% deployment of ASIC miners. Given the large numbers of computing units (often numbering in the tens of thousands), ASIC mining fleets are rarely 100% deployed and online at any one time. This can be due to a variety of factors, including ASIC miners being under maintenance, in repair workshops, in storage, in transit, or due to technical faults and breakdowns. Once deployed and online, actual or observed hashrates can be influenced by other factors such as heat, overclocking (causing the ASIC miner to perform at levels higher than the manufacturer’s specifications), the age, and wear and tear exhibited by the ASIC miners and also by the surrounding infrastructure. Other factors may include power outages, MDC and transformer breakdowns. Investors should consider all risk factors related to uptime when considering these figures, which are a best case scenario. The above information is for general information purposes only, and are forward looking statements which should not be relied upon as being necessarily indicative of future results. Mawson takes no responsibility for the accuracy of third party information, including websites. Please see our Risk Factors in our Annual Report on Form 10-K filed March 21, 2022, under the Sub-Heading Risks Relating to Our Business and Management for important risks related to our Self-Mining. **CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS** Mawson cautions that statements in this press release that are not a description of historical fact are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words referencing future events or circumstances such as “expect,” “intend,” “plan,” “anticipate,” “believe,” and “will,” among others. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. These forward-looking statements are based upon Mawson’s current expectations and involve assumptions that may never materialize or may prove to be incorrect. Actual results and the timing of events could differ materially from those anticipated in such forward-looking statements as a result of various risks and uncertainties, which include, without limitation, the possibility that Mawson’s need and ability to raise additional capital, the development and acceptance of digital asset networks and digital assets and their protocols and software, the reduction in incentives to mine digital assets over time, the costs associated with digital asset mining, the volatility in the value and prices of cryptocurrencies and further or new regulation of digital assets. More detailed information about the risks and uncertainties affecting Mawson is contained under the heading “Risk Factors” included in Mawson’s Annual Report on Form 10-K filed with the SEC on March 21, 2022, and Mawson’s Quarterly Report on Form 10-Q filed with the SEC on August 22, 2022, and in other filings Mawson has made and may make with the SEC in the future. One should not place undue reliance on these forward-looking statements, which speak only as of the date on which they were made. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. Mawson undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made, except as may be required by law. **Investor Contact:**
+
+
+Brett Maas 646-536-7331brett@haydenir.com www.haydenir.com
+
+
+\[1\] Assumes maximum earn outs are achieved, no adjustments are made to the purchase price, and uses the CleanSpark, Inc. stock price as at October 7, 2022, and rounding.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55dd66f9acee33b4f305d8e64d041314fb2b102228f4e43c87b6f23f60bca717",
+  "company": {
+    "key": "arteris-inc-common-stock",
+    "name": "Arteris Inc."
+  },
+  "source": {
+    "id": "arteris-inc-common-stock-news-import-b55a70a8b442",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arteris.com/blog/semiconductor-engineering-reducing-avoidable-memory-trips-in-hbm-systems/",
+    "canonical": "https://www.arteris.com/blog/semiconductor-engineering-reducing-avoidable-memory-trips-in-hbm-systems/"
+  },
+  "title": "Semiconductor Engineering: Reducing Avoidable Memory Trips In HBM Systems",
+  "summary": "As AI and high-performance SoCs increasingly rely on HBM, memory bandwidth alone is no longer enough to maximize performance. This article discusses why the intelligent data movement and cache efficiency are critical to unlocking the full benefits of HBM-based architectures.",
+  "published_at": "2026-06-25T08:22:27+00:00",
+  "first_seen_at": "2026-07-23T02:24:35.785039+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-13T21:46:20.949468+00:00",
+  "paths": {
+    "article": "articles/v1/bf/arteris-inc-common-stock/2026/06/55/55dd66f9acee33b4f305d8e64d041314fb2b102228f4e43c87b6f23f60bca717/article.md",
+    "record": "articles/v1/bf/arteris-inc-common-stock/2026/06/55/55dd66f9acee33b4f305d8e64d041314fb2b102228f4e43c87b6f23f60bca717/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6031,
+    "sha256": "sha256:31534e995c8f20c58e127e81f93133e945409660b4de0744cc7cdbe81eeb243e",
+    "normalized_content_hash": "sha256:e2aa3b300e58a687609bc6acb9c4f6713c6dfad81fea10490d3299e0a829d75b"
+  },
+  "provenance": {
+    "source_item_id": "e99c2d24-69b4-49f2-868f-ef576b3fc008",
+    "external_id": "https://www.arteris.com/blog/semiconductor-engineering-reducing-avoidable-memory-trips-in-hbm-systems/"
+  }
+}

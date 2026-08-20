@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e99f7771003d2284fc0d00a4e10773903e61b8c7606deb41ea314b59fa8bee69",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-incident-response/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-incident-response/"
+  },
+  "title": "2023-03-08 incident: A deep dive into our incident response",
+  "summary": "This post sketches out our incident response process, where it succeeded and where it stumbled on March 8, and what we learned along the way.",
+  "published_at": "2023-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:01:55.089772+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2023/06/e9/e99f7771003d2284fc0d00a4e10773903e61b8c7606deb41ea314b59fa8bee69/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2023/06/e9/e99f7771003d2284fc0d00a4e10773903e61b8c7606deb41ea314b59fa8bee69/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25880,
+    "sha256": "sha256:af970ee8b75002b1dd4eecc36fc6b58fa2fe2d436a04addac0b2d445dccf9db3",
+    "normalized_content_hash": "sha256:0ea8ad12fc55d50c696f3f9305462854bee0d91190a1047987a6c09ce045ab70"
+  },
+  "provenance": {
+    "source_item_id": "c84f5467-42a7-4a01-b95b-8b811ecf7e16",
+    "external_id": "https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-incident-response/"
+  }
+}

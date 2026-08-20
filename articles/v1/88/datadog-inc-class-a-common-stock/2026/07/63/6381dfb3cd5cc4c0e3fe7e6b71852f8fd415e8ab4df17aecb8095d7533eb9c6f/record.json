@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6381dfb3cd5cc4c0e3fe7e6b71852f8fd415e8ab4df17aecb8095d7533eb9c6f",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/observability-pipelines-google-secops/",
+    "canonical": "https://www.datadoghq.com/blog/observability-pipelines-google-secops/"
+  },
+  "title": "Normalize security logs to Google SecOps UDM with Observability Pipelines",
+  "summary": "Learn how Observability Pipelines normalizes your telemetry to Google SecOps UDM, enabling both consistent investigations across sources and precise upstream control over your SIEM ingest.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T15:43:26.260226+00:00",
+  "fetched_at": "2026-07-28T20:32:33.872616+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/63/6381dfb3cd5cc4c0e3fe7e6b71852f8fd415e8ab4df17aecb8095d7533eb9c6f/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/63/6381dfb3cd5cc4c0e3fe7e6b71852f8fd415e8ab4df17aecb8095d7533eb9c6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8262,
+    "sha256": "sha256:ea114e3c1fc910a79b0682b3060e56d73e6830492a0063ded68efaefc4a390bc",
+    "normalized_content_hash": "sha256:d45b28adfe5f5d00c264e84b982b81cce290ae57badaa9f631028217bc1aaae0"
+  },
+  "provenance": {
+    "source_item_id": "4a008f3f-cd2f-49ef-8f5f-4570d0454b97",
+    "external_id": "https://www.datadoghq.com/blog/observability-pipelines-google-secops/"
+  }
+}

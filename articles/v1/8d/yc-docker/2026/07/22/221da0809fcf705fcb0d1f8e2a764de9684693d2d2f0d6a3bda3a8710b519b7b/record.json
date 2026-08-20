@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "221da0809fcf705fcb0d1f8e2a764de9684693d2d2f0d6a3bda3a8710b519b7b",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/",
+    "canonical": "https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/"
+  },
+  "title": "Coding Agent Horror Stories: The 29 Million Secret Problem",
+  "summary": "Learn how AI coding agents can expose credentials in supply chain attacks and how Docker Sandboxes keep secrets out of an agent's reach.",
+  "published_at": "2026-07-28T13:00:00+00:00",
+  "first_seen_at": "2026-07-28T14:14:22.532559+00:00",
+  "fetched_at": "2026-07-28T20:31:35.420648+00:00",
+  "last_updated_at": "2026-08-17T12:07:29.853958+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/07/22/221da0809fcf705fcb0d1f8e2a764de9684693d2d2f0d6a3bda3a8710b519b7b/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/07/22/221da0809fcf705fcb0d1f8e2a764de9684693d2d2f0d6a3bda3a8710b519b7b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18043,
+    "sha256": "sha256:0d5703175b976c311c0e8a7a3633ccd27d3f7a1bdf03dc479a72da6f6877cdef",
+    "normalized_content_hash": "sha256:a9f8e8bc7c7f7201c54f80e7f76f516699913114c9388e9103059d86780c2cc4"
+  },
+  "provenance": {
+    "source_item_id": "5f19ddbb-eba2-4c2a-a45d-4e9c1f72b75b",
+    "external_id": "https://www.docker.com/?p=92541"
+  }
+}

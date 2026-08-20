@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "06cb43c26c889884ebd15a611d0a268c46ebc9c6b199ac751a9da0d1c159e179",
+  "company": {
+    "key": "yc-pangolin",
+    "name": "Pangolin"
+  },
+  "source": {
+    "id": "yc-pangolin-news-import-841387734568",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://pangolin.net/news/pangolin-remote-nodes-guide",
+    "canonical": "https://pangolin.net/news/pangolin-remote-nodes-guide"
+  },
+  "title": "Pangolin Remote Nodes: Cloud Control Plane & Failover",
+  "summary": "Pangolin remote nodes let you keep the traffic edge on infrastructure you control while Pangolin Cloud handles DNS, certificates, health checks, and failover.",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T08:11:44.188163+00:00",
+  "fetched_at": "2026-07-28T21:45:30.754431+00:00",
+  "last_updated_at": "2026-08-19T18:02:58.347278+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-pangolin/2026/04/06/06cb43c26c889884ebd15a611d0a268c46ebc9c6b199ac751a9da0d1c159e179/article.md",
+    "record": "articles/v1/a7/yc-pangolin/2026/04/06/06cb43c26c889884ebd15a611d0a268c46ebc9c6b199ac751a9da0d1c159e179/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14289,
+    "sha256": "sha256:d8c183c4d1ad64148ee9cdf907937cb6f507d98dcf68a258cef37e192fcd9db6",
+    "normalized_content_hash": "sha256:42fc245a41be67c6d6953d05d187c4c5d6b66af04a3d861167a7274e410a67b4"
+  },
+  "provenance": {
+    "source_item_id": "b8c9bc7c-f82d-4e4f-b721-ba35ddda3604",
+    "external_id": "https://pangolin.net/news/pangolin-remote-nodes-guide"
+  }
+}

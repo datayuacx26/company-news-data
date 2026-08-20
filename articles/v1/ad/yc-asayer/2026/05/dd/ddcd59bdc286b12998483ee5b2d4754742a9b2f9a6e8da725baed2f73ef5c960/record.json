@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ddcd59bdc286b12998483ee5b2d4754742a9b2f9a6e8da725baed2f73ef5c960",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/issue-with-openreplay-ingress-nginx-controller-while-installation/569#post_1",
+    "canonical": "https://forum.openreplay.com/t/issue-with-openreplay-ingress-nginx-controller-while-installation/569"
+  },
+  "title": "Issue with openreplay-ingress-nginx-controller while installation",
+  "summary": "At the moment, I’ve run into another issue with the OpenReplay installation. It has simply stopped installing using the official instructions from the website. It gets stuck while configuring openreplay-ingress-nginx-controller and cannot assign an external IP to it sudo wget https://raw.githubusercontent.com/openreplay/openreplay/main/scripts/helmcharts/openreplay-cli -O /bin/openreplay sudo chmod +x /bin/openreplay openreplay -i ss.mysite.com It will hang for a long time at that step, re...",
+  "published_at": "2026-05-13T05:59:28+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/05/dd/ddcd59bdc286b12998483ee5b2d4754742a9b2f9a6e8da725baed2f73ef5c960/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/05/dd/ddcd59bdc286b12998483ee5b2d4754742a9b2f9a6e8da725baed2f73ef5c960/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2028,
+    "sha256": "sha256:527d512e3ea5e8916d568052511025fe5255d4f61092d3fe59bf806207e66041",
+    "normalized_content_hash": "sha256:5c11b79a2ca0523fe057a01fb9bde511708b116c9f119d8c9c16a7db8467e34b"
+  },
+  "provenance": {
+    "source_item_id": "f6b20ca6-6ed4-43bf-8daa-1e054b29d18a",
+    "external_id": "forum.openreplay.com-post-1462"
+  }
+}

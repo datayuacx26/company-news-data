@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44408f9485a59a2a3ff83877fc5547b2f63fc0c11a34006ce2041c584bdc7d8b",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/read-replicas-vs-bigger-compute",
+    "canonical": "https://supabase.com/blog/read-replicas-vs-bigger-compute"
+  },
+  "title": "When to use Read Replicas vs. bigger compute",
+  "summary": "A practical guide to diagnosing database slowdowns and choosing between vertical scaling and Read Replicas based on your workload, budget, and performance bottlenecks.",
+  "published_at": "2026-01-15T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T22:23:35.329584+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2026/01/44/44408f9485a59a2a3ff83877fc5547b2f63fc0c11a34006ce2041c584bdc7d8b/article.md",
+    "record": "articles/v1/b1/yc-supabase/2026/01/44/44408f9485a59a2a3ff83877fc5547b2f63fc0c11a34006ce2041c584bdc7d8b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18166,
+    "sha256": "sha256:5cef7dbb1b1fa268df863d8d0e6241205bed90f97070697bc36510bc34dc0d98",
+    "normalized_content_hash": "sha256:52ee7d39b3fc0ddf4caba7106badcb0ff57a1bb1fb047ec18ff66d4eb42097de"
+  },
+  "provenance": {
+    "source_item_id": "7486ecba-c59a-46f7-9e26-433a3dca9969",
+    "external_id": "https://supabase.com/blog/read-replicas-vs-bigger-compute"
+  }
+}

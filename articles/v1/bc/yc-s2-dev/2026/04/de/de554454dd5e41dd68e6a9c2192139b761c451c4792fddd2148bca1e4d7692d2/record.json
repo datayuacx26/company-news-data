@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de554454dd5e41dd68e6a9c2192139b761c451c4792fddd2148bca1e4d7692d2",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/encryption",
+    "canonical": "https://s2.dev/blog/encryption"
+  },
+  "title": "Your data, your keys",
+  "summary": "S2 now supports client-supplied encryption keys for durable streams, giving teams control over key material without changing record APIs.",
+  "published_at": "2026-04-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2026/04/de/de554454dd5e41dd68e6a9c2192139b761c451c4792fddd2148bca1e4d7692d2/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2026/04/de/de554454dd5e41dd68e6a9c2192139b761c451c4792fddd2148bca1e4d7692d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5931,
+    "sha256": "sha256:b67f44fdaa6688e6c532df13ce172f46a46de06955faa52414d1600344102f07",
+    "normalized_content_hash": "sha256:8a83ca3d28ade4b6d81b96c6e3347bfd68fb79609b10b1f4b48a50975febf02b"
+  },
+  "provenance": {
+    "source_item_id": "9985a314-e225-4ccd-beb4-4ff7e50f9fc5",
+    "external_id": "https://s2.dev/blog/encryption"
+  }
+}

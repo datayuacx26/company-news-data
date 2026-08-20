@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1b95a89df979efb50f2152c700cc0e3e139b103cdf798c0a9c5578ea6a3a082",
+  "company": {
+    "key": "v2x-inc-common-stock",
+    "name": "V2X Inc."
+  },
+  "source": {
+    "id": "v2x-inc-common-stock-news-import-3b5a81aa4f42",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gov2x.com/news/v2x-awarded-modernization-contract-for-aircraft-survivability-systems/",
+    "canonical": "https://gov2x.com/news/v2x-awarded-modernization-contract-for-aircraft-survivability-systems/"
+  },
+  "title": "V2X Awarded Modernization Contract for Aircraft Survivability Systems",
+  "summary": "NYSE: VVX) has been awarded a contract by the U.S. Navy’s Naval Air Systems Command to support the Large Aircraft Infrared Countermeasures (LAIRCM) program, a critical system designed to protect military aircraft from infrared-guided missile threats.",
+  "published_at": "2026-05-18T13:01:38+00:00",
+  "first_seen_at": "2026-07-22T18:21:35.420809+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-08-20T01:32:19.668826+00:00",
+  "paths": {
+    "article": "articles/v1/b6/v2x-inc-common-stock/2026/05/b1/b1b95a89df979efb50f2152c700cc0e3e139b103cdf798c0a9c5578ea6a3a082/article.md",
+    "record": "articles/v1/b6/v2x-inc-common-stock/2026/05/b1/b1b95a89df979efb50f2152c700cc0e3e139b103cdf798c0a9c5578ea6a3a082/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3316,
+    "sha256": "sha256:755cb651038e4d20060a105a4d6fee8bd459efba045a7f87c8f5aa3642c4820c",
+    "normalized_content_hash": "sha256:01fa9fb9ef4747f5b61c6bdd5a4960d5d1277b5bc806d4ba945a72f47bf573d4"
+  },
+  "provenance": {
+    "source_item_id": "5d80a2ba-f51b-43f4-bb39-19d4b1764d96",
+    "external_id": "https://gov2x.com/news/v2x-awarded-modernization-contract-for-aircraft-survivability-systems/"
+  }
+}

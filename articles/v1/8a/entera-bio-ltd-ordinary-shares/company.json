@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "entera-bio-ltd-ordinary-shares",
+    "name": "Entera Bio Ltd."
+  },
+  "record_count": 13,
+  "first_published_at": "2025-07-28T06:33:55+00:00",
+  "last_published_at": "2026-08-04T13:37:41+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8a/entera-bio-ltd-ordinary-shares/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 19760,
+        "sha256": "sha256:f2338bb7bb62a0fa9d8be3d457c87c800d049f0a308f051fa6554aab454d941b",
+        "newest_at": "2026-08-04T13:37:41+00:00",
+        "oldest_at": "2025-07-28T06:33:55+00:00"
+      }
+    ]
+  }
+}

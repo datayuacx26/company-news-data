@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b9d9ddc7e89d60a32372ef904590693d26a3f614cef98d5ef80714c652e7f5c",
+  "company": {
+    "key": "rxo-inc-common-stock",
+    "name": "RXO Inc."
+  },
+  "source": {
+    "id": "rxo-inc-common-stock-news-import-a56a19d89dc3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rxo.com/news/rxo-announces-fourth-quarter-results/",
+    "canonical": "https://rxo.com/news/rxo-announces-fourth-quarter-results/"
+  },
+  "title": "RXO Announces Fourth-Quarter Results",
+  "summary": "Full-truckload market tightened significantly, squeezing Brokerage gross margin, driven by continued reductions in truckload capacity.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T12:27:32.476329+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-06T10:11:30.403034+00:00",
+  "paths": {
+    "article": "articles/v1/99/rxo-inc-common-stock/2026/07/3b/3b9d9ddc7e89d60a32372ef904590693d26a3f614cef98d5ef80714c652e7f5c/article.md",
+    "record": "articles/v1/99/rxo-inc-common-stock/2026/07/3b/3b9d9ddc7e89d60a32372ef904590693d26a3f614cef98d5ef80714c652e7f5c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13816,
+    "sha256": "sha256:4f6b12b1b34168cddca78a988b56ec7077a549dbb564fe40889ea46ee10f8051",
+    "normalized_content_hash": "sha256:bf1e6fb928cdec22a256aeac8d8f7ce9c1112b2d0c96f40e1da5baed79a51d3b"
+  },
+  "provenance": {
+    "source_item_id": "29450e37-88ca-455a-bfa1-e1efd3b67d44",
+    "external_id": "https://rxo.com/news/rxo-announces-fourth-quarter-results/"
+  }
+}

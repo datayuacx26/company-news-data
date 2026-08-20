@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef8bdd227e7790ab43f4fd718a55c68406fe4734d4a507f0e0f7eb6a6812ced9",
+  "company": {
+    "key": "yc-coval",
+    "name": "Coval"
+  },
+  "source": {
+    "id": "yc-coval-news-import-66f2770dd546",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.coval.ai/blog/voice-ai-production-gap",
+    "canonical": "https://www.coval.ai/blog/voice-ai-production-gap/"
+  },
+  "title": "Voice AI in Production: Why Agents That Pass Testing Still Break in the Wild",
+  "summary": "Why voice AI in production handles 60-70% of calls when staging suggested 95%. The conditions test sets miss, and how Coval teams close the gap.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T15:11:00.592145+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-08-20T02:08:50.828293+00:00",
+  "paths": {
+    "article": "articles/v1/a0/yc-coval/2026/05/ef/ef8bdd227e7790ab43f4fd718a55c68406fe4734d4a507f0e0f7eb6a6812ced9/article.md",
+    "record": "articles/v1/a0/yc-coval/2026/05/ef/ef8bdd227e7790ab43f4fd718a55c68406fe4734d4a507f0e0f7eb6a6812ced9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22531,
+    "sha256": "sha256:346d13382695f83503ddc42775c8c232f67e98d64cfbbacb63a6f6a0b9b0b43c",
+    "normalized_content_hash": "sha256:41d1de118d415e710d752ecaf94bb75fe25fb457d8f70e90bf1b11ef98ad3bad"
+  },
+  "provenance": {
+    "source_item_id": "82c07064-e54f-46d8-a348-7a7a9c2f175c",
+    "external_id": "https://www.coval.ai/blog/voice-ai-production-gap/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-volta-labs-inc",
+    "name": "Volta Labs, Inc."
+  },
+  "record_count": 7,
+  "first_published_at": "2025-04-25T00:00:00+00:00",
+  "last_published_at": "2025-12-10T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/80/yc-volta-labs-inc/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8814,
+        "sha256": "sha256:2a8288b0f933dbf70e61064c6e7b8e0aa803fcfdcd4795248700d0f6ba7bb3ce",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2025-04-25T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+---
+schema_version: "1.0.0"
+document_id: "c815739eb79346f677837e9de338b18d463b6e89d393591d827f38e653b7e679"
+company_key: "ideaya-biosciences-inc-common-stock"
+company: "IDEAYA Biosciences Inc."
+source_id: "ideaya-biosciences-inc-common-stock-news-import-ea64a538d74b"
+canonical_url: "https://media.ideayabio.com/2026-05-29-IDEAYA-Biosciences-Announces-Inducement-Grants-under-Nasdaq-Listing-Rule-5635-c-4"
+published_at: "2026-05-29T00:00:00+00:00"
+first_seen_at: "2026-07-25T09:02:10.724186+00:00"
+fetched_at: "2026-07-28T21:24:31.593744+00:00"
+content_hash: "sha256:63a434c3a7a8933dbf2ba87b379b4801d241c98d56ee5be4ac8286225d56b816"
+---
+
+# IDEAYA Biosciences Announces Inducement Grants under Nasdaq Listing Rule 5635(c)(4)
+
+SOUTH SAN FRANCISCO, Calif.
+
+
+, May 29, 2026
+
+
+/[PRNewswire](http://www.prnewswire.com/) / -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted therapeutics, today announced that, on May 28, 2026, the Compensation Committee of IDEAYA's Board of Directors granted non-qualified stock options to purchase an aggregate of 221,000 shares of the Company's common stock to six newly hired employees. The stock options were granted under the IDEAYA Biosciences, Inc. 2023 Employment Inducement Incentive Award Plan (2023 Inducement Plan) as an inducement material to such individuals' entering into employment with IDEAYA in accordance with Nasdaq Listing Rule 5635(c)(4).
+
+
+The 2023 Inducement Plan is used exclusively for the grant of equity awards to individuals who were not previously employees of IDEAYA, or following a bona fide period of non-employment, as an inducement material to such individuals' entering into employment with IDEAYA, pursuant to Nasdaq Listing Rule 5635(c)(4).
+
+
+The stock options have an exercise price of $29.34 per share, which is equal to the closing price of IDEAYA's common stock on The Nasdaq Global Select Market on the date of grant. The stock options have a 10-year term and will vest over four years, with 25% of the options vesting on the first anniversary of the vesting commencement date and the remaining 75% of the options vesting in equal monthly installments over the three years thereafter. Vesting of the stock options is subject to such employee's continued service to IDEAYA on each vesting date.
+
+
+**About IDEAYA Biosciences**
+
+
+IDEAYA is a precision medicine oncology company committed to the discovery, development, and commercialization of transformative therapies for cancer. Our approach integrates expertise in small-molecule drug discovery, structural biology and bioinformatics with robust internal capabilities in identifying and validating translational biomarkers to develop tailored, potentially first-in-class targeted therapies aligned to the genetic drivers of disease. We have built a deep pipeline of product candidates focused on synthetic lethality and antibody-drug conjugates, or ADCs, for molecularly defined solid tumor indications. Our mission is to bring forth the next wave of precision oncology therapies that are more selective, more effective, and deeply personalized with the goal of altering the course of disease and improving clinical outcomes for patients with cancer.
+
+
+**Investor and Media Contact**
+IDEAYA Biosciences
+Joshua Bleharski, Ph.D.
+Chief Financial Officer
+investor@ideayabio.com
+
+
+SOURCE IDEAYA Biosciences, Inc.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5a104293904ea543cac5a619ccbe062d36d0e0cd01b7574ad7e1c4b1e80031d2",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/introducing-glommio/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/introducing-glommio/"
+  },
+  "title": "Introducing Glommio, a thread-per-core crate for Rust and Linux",
+  "summary": "Glommio (pronounced glom-io or |glomjəʊ|) is a cooperative thread-per-core crate for Rust & Linux based on io_uring. It allows you to write asynchronous code that takes advantage of rust async/await, but it doesn’t use helper threads anywhere.",
+  "published_at": "2020-11-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:05:18.773660+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2020/11/5a/5a104293904ea543cac5a619ccbe062d36d0e0cd01b7574ad7e1c4b1e80031d2/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2020/11/5a/5a104293904ea543cac5a619ccbe062d36d0e0cd01b7574ad7e1c4b1e80031d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19299,
+    "sha256": "sha256:40685001e207d85fea4004551891be932b2d0b4b1a452afc76e5fb9a1702e273",
+    "normalized_content_hash": "sha256:304a78437ba2ad08166961f50e16cb456ec9eb58389d3bca2f90c02d62739ebb"
+  },
+  "provenance": {
+    "source_item_id": "bf3f3209-b628-44a1-9319-71524baa9782",
+    "external_id": "https://www.datadoghq.com/blog/engineering/introducing-glommio/"
+  }
+}

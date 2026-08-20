@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f267dc5424db19a4b82fa85c23fb20c5f13938b92e8fa6fc85f779725ded9fec",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/kubernetes-agent-identity-access/",
+    "canonical": "https://goteleport.com/blog/kubernetes-agent-identity-access/"
+  },
+  "title": "Kubernetes for Agentic AI: Best Practices for Identity and Access",
+  "summary": "When agents act autonomously beyond a user's session, they need their own identity, least-privilege access, and full audit trails.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:57:37.609410+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T00:27:53.070714+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/07/f2/f267dc5424db19a4b82fa85c23fb20c5f13938b92e8fa6fc85f779725ded9fec/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/07/f2/f267dc5424db19a4b82fa85c23fb20c5f13938b92e8fa6fc85f779725ded9fec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9123,
+    "sha256": "sha256:afbc3b171f9d766a3672573ce00d7beffbfb906f6406cc46c349c468458f7b3b",
+    "normalized_content_hash": "sha256:20377d8619916e9ca3eff98da64efa8ee86566ca6a1d1f82a19f231e091672be"
+  },
+  "provenance": {
+    "source_item_id": "f0c9a520-717a-4ed4-9c46-e06a7bcda7fa",
+    "external_id": "https://goteleport.com/blog/kubernetes-agent-identity-access/"
+  }
+}

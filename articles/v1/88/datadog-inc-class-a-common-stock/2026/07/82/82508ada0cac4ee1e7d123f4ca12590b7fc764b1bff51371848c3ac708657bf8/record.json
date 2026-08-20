@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82508ada0cac4ee1e7d123f4ca12590b7fc764b1bff51371848c3ac708657bf8",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/data-pipeline-completeness/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/data-pipeline-completeness/"
+  },
+  "title": "How we measure data completeness at scale",
+  "summary": "Learn how Datadog helps ensure data completeness at scale, enabling accurate alerts and safer automated decisions across distributed pipelines.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/82/82508ada0cac4ee1e7d123f4ca12590b7fc764b1bff51371848c3ac708657bf8/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/82/82508ada0cac4ee1e7d123f4ca12590b7fc764b1bff51371848c3ac708657bf8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25458,
+    "sha256": "sha256:51a9045fc738a7dc2b16649466cb1c834efcb3070753cab092bf68e5f2bb9003",
+    "normalized_content_hash": "sha256:f12f5357a9b372e26cfaa37070f477bb7df3a4a636bf47bbc685a18f952728f4"
+  },
+  "provenance": {
+    "source_item_id": "52f0d970-d615-4f5a-b38b-f4624fd3e289",
+    "external_id": "https://www.datadoghq.com/blog/engineering/data-pipeline-completeness/"
+  }
+}

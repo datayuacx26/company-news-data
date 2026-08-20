@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8593e182d0da1dfecbabbbddbf5f511b3e8409922fbd32efb2bd4ad065dd04f3",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/ten-years-in-france",
+    "canonical": "https://stripe.com/newsroom/news/ten-years-in-france"
+  },
+  "title": "Stripe marks ten years in France",
+  "summary": "Stripe now works with nearly 800,000 businesses and solopreneurs in France",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:06:01.421437+00:00",
+  "fetched_at": "2026-07-28T21:44:23.277081+00:00",
+  "last_updated_at": "2026-08-20T02:16:33.048642+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/85/8593e182d0da1dfecbabbbddbf5f511b3e8409922fbd32efb2bd4ad065dd04f3/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/85/8593e182d0da1dfecbabbbddbf5f511b3e8409922fbd32efb2bd4ad065dd04f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1657,
+    "sha256": "sha256:f272fbcb7b396bb5ecf5d0e52d0a3628241e9befd98c8cebfa8c7fe1e6544a1a",
+    "normalized_content_hash": "sha256:e2c3670138feb890871ec1d3371310ba1facfe10f67818f0e222f3165534238b"
+  },
+  "provenance": {
+    "source_item_id": "04e3d044-ae4a-4b57-aa90-572a4f429223",
+    "external_id": "https://stripe.com/newsroom/news/ten-years-in-france"
+  }
+}

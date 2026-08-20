@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25c84bb527b74457616250019e2a68b5e90038164be08aea4b2f9551799cc494",
+  "company": {
+    "key": "yc-kashikoi",
+    "name": "Kashikoi"
+  },
+  "source": {
+    "id": "yc-kashikoi-rss-651c469da509",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.getkashikoi.com/2026/01/21/a-practical-playbook-use-alpha-beta-to-ship-agents/",
+    "canonical": "https://blog.getkashikoi.com/2026/01/21/a-practical-playbook-use-alpha-beta-to-ship-agents/"
+  },
+  "title": "A Practical Playbook: Use Alpha/Beta to Ship Agents",
+  "summary": "Evals are your accounting system for agents. Define a “market baseline” (beta), measure floors and tail risks, and treat guardrails as a beta knob. Then invest your creativity where it compounds, to create durable alpha.",
+  "published_at": "2026-01-21T19:18:24+00:00",
+  "first_seen_at": "2026-07-25T10:30:20.185118+00:00",
+  "fetched_at": "2026-07-28T20:54:46.350230+00:00",
+  "last_updated_at": "2026-08-20T02:19:34.362038+00:00",
+  "paths": {
+    "article": "articles/v1/9b/yc-kashikoi/2026/01/25/25c84bb527b74457616250019e2a68b5e90038164be08aea4b2f9551799cc494/article.md",
+    "record": "articles/v1/9b/yc-kashikoi/2026/01/25/25c84bb527b74457616250019e2a68b5e90038164be08aea4b2f9551799cc494/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4251,
+    "sha256": "sha256:eb016605e9872218e30d64d19ea746913a1e8a015d52b9cf90d243a560331286",
+    "normalized_content_hash": "sha256:49ebe87dfeeebf4d49b6298df1ad93ca35a594cc8d0b1d45defca8f2b3acaec6"
+  },
+  "provenance": {
+    "source_item_id": "72f5f670-dd39-408f-aee7-0d096191f1d6",
+    "external_id": "https://blog.getkashikoi.com/?p=266"
+  }
+}

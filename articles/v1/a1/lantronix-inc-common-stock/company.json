@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "lantronix-inc-common-stock",
+    "name": "Lantronix Inc."
+  },
+  "record_count": 130,
+  "first_published_at": "2020-03-05T20:59:44+00:00",
+  "last_published_at": "2026-08-18T19:11:01+00:00",
+  "partitions": [
+    {
+      "partition": "2020-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 15
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a1/lantronix-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53667,
+        "sha256": "sha256:241a5335803a2dd3276b9f3e4ade08e78cc7dd033361e960e407fd6d5c4ff681",
+        "newest_at": "2026-08-18T19:11:01+00:00",
+        "oldest_at": "2025-02-03T22:12:10+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a1/lantronix-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 51350,
+        "sha256": "sha256:0f6bb2dbc16633ac62600f7cef04c4b60437d273b073b912f44d82bed7029eff",
+        "newest_at": "2025-01-10T19:35:18+00:00",
+        "oldest_at": "2021-07-26T14:00:36+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/a1/lantronix-inc-common-stock/index/pages/000003.json",
+        "record_count": 30,
+        "byte_count": 31205,
+        "sha256": "sha256:57ebe517c219696bb4e02d7dde1606ac818c5d93c37ec9faa29b16c636be2551",
+        "newest_at": "2021-07-20T14:00:10+00:00",
+        "oldest_at": "2020-03-05T20:59:44+00:00"
+      }
+    ]
+  }
+}

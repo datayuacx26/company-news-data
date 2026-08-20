@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "30ecdb1d56337331c7a02b3f181b0fec75d8ebe961f7cf298d31f0c0cbff428e",
+  "company": {
+    "key": "yc-blink-new",
+    "name": "Blink"
+  },
+  "source": {
+    "id": "yc-blink-new-rss-0c236d2832c1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blink.new/blog/how-to-deploy-what-claude-code-builds",
+    "canonical": "https://blink.new/blog/how-to-deploy-what-claude-code-builds"
+  },
+  "title": "How to Deploy What Claude Code Builds: The Infrastructure Guide",
+  "summary": "Claude Code writes the app. Deploying it takes 3+ hours and 6 accounts. Here's the before/after: DIY stack vs. Blink's 2-command path.",
+  "published_at": "2026-05-02T00:26:47+00:00",
+  "first_seen_at": "2026-07-24T19:35:33.186925+00:00",
+  "fetched_at": "2026-07-28T20:51:46.128682+00:00",
+  "last_updated_at": "2026-08-20T03:39:45.542839+00:00",
+  "paths": {
+    "article": "articles/v1/a6/yc-blink-new/2026/05/30/30ecdb1d56337331c7a02b3f181b0fec75d8ebe961f7cf298d31f0c0cbff428e/article.md",
+    "record": "articles/v1/a6/yc-blink-new/2026/05/30/30ecdb1d56337331c7a02b3f181b0fec75d8ebe961f7cf298d31f0c0cbff428e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8686,
+    "sha256": "sha256:2f62a07b08c5921ef94bb50d17a0c942295cf04ea91e2569b23ff3d0998bcec7",
+    "normalized_content_hash": "sha256:0916aeef654874862bd0430f153b5c0ae6ed0756b872b69828993ddc9ff21f2f"
+  },
+  "provenance": {
+    "source_item_id": "8d12b144-4eee-4f32-af67-69c1ba6c7a55",
+    "external_id": "https://blink.new/blog/how-to-deploy-what-claude-code-builds"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "15032e3e90fa09b3577e355cbe135ecf3396bf258b83f91bb4f894a540e20574",
+  "company": {
+    "key": "yc-pangolin",
+    "name": "Pangolin"
+  },
+  "source": {
+    "id": "yc-pangolin-news-import-841387734568",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://pangolin.net/news/how-to-ssh-with-pangolin",
+    "canonical": "https://pangolin.net/news/how-to-ssh-with-pangolin"
+  },
+  "title": "How to SSH with Pangolin: Browser Access and Private CLI",
+  "summary": "SSH to private servers through Pangolin with a browser terminal or private CLI over a scoped tunnel. Automatic user provisioning via PAM, without opening port 22 or distributing static keys.",
+  "published_at": "2026-06-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T08:11:44.188163+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-19T18:02:58.347278+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-pangolin/2026/06/15/15032e3e90fa09b3577e355cbe135ecf3396bf258b83f91bb4f894a540e20574/article.md",
+    "record": "articles/v1/a7/yc-pangolin/2026/06/15/15032e3e90fa09b3577e355cbe135ecf3396bf258b83f91bb4f894a540e20574/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14474,
+    "sha256": "sha256:b63d9920ef579b14fcf22d216c626f6b5cfe6214938cd436d2ca3e823eb5e7c5",
+    "normalized_content_hash": "sha256:62dec5ec4d7a9e51fca49c56d5699f7d0afcc476c2af22baba16f2ab66c927b2"
+  },
+  "provenance": {
+    "source_item_id": "0f04aeda-6230-47e6-aba9-587186ed77bb",
+    "external_id": "https://pangolin.net/news/how-to-ssh-with-pangolin"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97983e2418fb63289b72dc52ae86d7e3ad11baba7e447e9c24307a0544bcee6c",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/creating-reusable-dev-environments-with-sandboxes",
+    "canonical": "https://stripe.dev/blog/creating-reusable-dev-environments-with-sandboxes"
+  },
+  "title": "Creating reusable developer environments with Stripe Sandboxes",
+  "summary": "When onboarding new team members, getting their development environments setup can be very time consuming. Preprovisioned environments with Stripe sandboxes and development containers can speed up their time to productivity.",
+  "published_at": "2024-10-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/10/97/97983e2418fb63289b72dc52ae86d7e3ad11baba7e447e9c24307a0544bcee6c/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/10/97/97983e2418fb63289b72dc52ae86d7e3ad11baba7e447e9c24307a0544bcee6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4201,
+    "sha256": "sha256:8ab9afbf3aef0041c5ff5b3a4aeeed21842a4d73988aa4f84f269f14f9b65e85",
+    "normalized_content_hash": "sha256:3463fa496dcdfda45fc5d570e3d44129c03787e422149bd46bf927b898f82224"
+  },
+  "provenance": {
+    "source_item_id": "3f5d99ad-15af-49d6-a318-7b4ba15612f2",
+    "external_id": "https://stripe.dev/blog/creating-reusable-dev-environments-with-sandboxes"
+  }
+}

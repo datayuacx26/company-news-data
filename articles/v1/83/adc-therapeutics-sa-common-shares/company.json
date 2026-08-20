@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "adc-therapeutics-sa-common-shares",
+    "name": "ADC Therapeutics SA Common Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-02-18T23:39:54+00:00",
+  "last_published_at": "2025-02-25T18:32:41+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/83/adc-therapeutics-sa-common-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12926,
+        "sha256": "sha256:d190d798b800c9f280c34c290cefe24ebb3f44767e497e579715f60f3ec6e750",
+        "newest_at": "2025-02-25T18:32:41+00:00",
+        "oldest_at": "2025-02-18T23:39:54+00:00"
+      }
+    ]
+  }
+}

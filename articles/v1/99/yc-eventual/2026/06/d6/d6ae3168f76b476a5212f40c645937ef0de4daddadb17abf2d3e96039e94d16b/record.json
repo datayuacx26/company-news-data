@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6ae3168f76b476a5212f40c645937ef0de4daddadb17abf2d3e96039e94d16b",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/daft-v0-7-16",
+    "canonical": "https://www.eventual.ai/blog/daft-v0-7-16"
+  },
+  "title": "Daft v0.7.16: DROID Robotics Dataset, PyTorch DataLoader, and Resilient File Reads",
+  "summary": "Daft v0.7.16 ships DROID robotics dataset support, a native PyTorch DataLoader, daft.concat() for multi-DataFrame workflows, and ignore_corrupt_files for resilient batch processing.",
+  "published_at": "2026-06-30T08:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:47:26.048705+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.118046+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/06/d6/d6ae3168f76b476a5212f40c645937ef0de4daddadb17abf2d3e96039e94d16b/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/06/d6/d6ae3168f76b476a5212f40c645937ef0de4daddadb17abf2d3e96039e94d16b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16845,
+    "sha256": "sha256:746f23017c441c8d05e850d159477c3f59fd4f04ee2259d0c746e5296b839f3b",
+    "normalized_content_hash": "sha256:069aed909492a568e7203178dd869ca23447fc97c6ec09fc12732b3a4b6c00b7"
+  },
+  "provenance": {
+    "source_item_id": "8f65ae6a-ef3c-4cf6-8aba-22fb29e5622d",
+    "external_id": "https://www.eventual.ai/blog/daft-v0-7-16"
+  }
+}

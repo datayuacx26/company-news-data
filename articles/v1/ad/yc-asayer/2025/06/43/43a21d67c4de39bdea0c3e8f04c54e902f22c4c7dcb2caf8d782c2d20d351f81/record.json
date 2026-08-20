@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43a21d67c4de39bdea0c3e8f04c54e902f22c4c7dcb2caf8d782c2d20d351f81",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/self-hosted-spot-keeps-crashing/513#post_2",
+    "canonical": "https://forum.openreplay.com/t/self-hosted-spot-keeps-crashing/513"
+  },
+  "title": "Self hosted spot keeps crashing",
+  "summary": "I have self hosted an openreplay instance on AWS, i have used an AWS Load Balancer to handle SSL. he DNS provider is cloudflare ( i am aware of the proxy-body-size bug and have changed it to 40m from a default value of 10m) Here is the output of openreplay -s This machine is AMD (x86_64) architecture. �[0;32m[INFO] Using KUBECONFIG /etc/rancher/k3s/k3s.yaml �[0m �[1;37m- Checking OpenReplay Components Status �[0m �[0;32m[INFO] OpenReplay Version �[0m v1.22.0 �[0;32m[INFO] Disk �[0m Filesyste...",
+  "published_at": "2025-06-24T18:00:44+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2025/06/43/43a21d67c4de39bdea0c3e8f04c54e902f22c4c7dcb2caf8d782c2d20d351f81/article.md",
+    "record": "articles/v1/ad/yc-asayer/2025/06/43/43a21d67c4de39bdea0c3e8f04c54e902f22c4c7dcb2caf8d782c2d20d351f81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1247,
+    "sha256": "sha256:2caa6e563ab156d26e91c052e72cba7b496495c44a3c971fd5016646927cf3ca",
+    "normalized_content_hash": "sha256:f296dadf64d4d616f3d0527a143e6598d933dc908c04d8d8a5916bc02e5fb53f"
+  },
+  "provenance": {
+    "source_item_id": "875d70a9-c633-47c3-b426-e06256ab6760",
+    "external_id": "forum.openreplay.com-post-1385"
+  }
+}

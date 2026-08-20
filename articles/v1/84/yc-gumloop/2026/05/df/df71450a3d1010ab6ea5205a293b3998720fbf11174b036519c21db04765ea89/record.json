@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df71450a3d1010ab6ea5205a293b3998720fbf11174b036519c21db04765ea89",
+  "company": {
+    "key": "yc-gumloop",
+    "name": "Gumloop"
+  },
+  "source": {
+    "id": "yc-gumloop-news-import-488d75a2156b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gumloop.com/blog/subagents-launch",
+    "canonical": "https://www.gumloop.com/blog/subagents-launch"
+  },
+  "title": "Agents can command other agents",
+  "summary": "Introducing subagents: Gumloop agents can clone themselves to work in parallel and call other agents.",
+  "published_at": "2026-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:19:59.182624+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-07-28T21:21:58.204818+00:00",
+  "paths": {
+    "article": "articles/v1/84/yc-gumloop/2026/05/df/df71450a3d1010ab6ea5205a293b3998720fbf11174b036519c21db04765ea89/article.md",
+    "record": "articles/v1/84/yc-gumloop/2026/05/df/df71450a3d1010ab6ea5205a293b3998720fbf11174b036519c21db04765ea89/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4539,
+    "sha256": "sha256:73857865f063d40223c256883f313bf1860cde1e7cadd4138550004c62a8f31a",
+    "normalized_content_hash": "sha256:54ff54466b5d8cd08821ef08b766f509fceac70218a70dfa699452362ccc833e"
+  },
+  "provenance": {
+    "source_item_id": "c90614d0-76fa-4f26-81af-1093cab3f31f",
+    "external_id": "https://www.gumloop.com/blog/subagents-launch"
+  }
+}

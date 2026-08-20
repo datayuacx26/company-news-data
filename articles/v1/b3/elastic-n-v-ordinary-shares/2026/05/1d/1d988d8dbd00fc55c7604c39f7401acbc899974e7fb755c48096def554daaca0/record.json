@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d988d8dbd00fc55c7604c39f7401acbc899974e7fb755c48096def554daaca0",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/detecting-web-server-probing-and-fuzzing",
+    "canonical": "https://www.elastic.co/security-labs/detecting-web-server-probing-and-fuzzing"
+  },
+  "title": "Detecting Web Server Probing & Fuzzing in Traefik with Automated Cloudflare Response",
+  "summary": "This article shows how a customized Elastic Security ES|QL detection rule can identify web server probing and fuzzing activity in Traefik logs and automatically block the attacking IP via Cloudflare.",
+  "published_at": "2026-05-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T22:15:23.630573+00:00",
+  "last_updated_at": "2026-07-30T15:38:56.051346+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/1d/1d988d8dbd00fc55c7604c39f7401acbc899974e7fb755c48096def554daaca0/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/1d/1d988d8dbd00fc55c7604c39f7401acbc899974e7fb755c48096def554daaca0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18728,
+    "sha256": "sha256:445c2eff6a0f95a3d96e66ede9f513bda05903b1bf67960daa5fbd94cdf4e6dd",
+    "normalized_content_hash": "sha256:af56ea458830eef0355b2f7e75db7b155827ab1848ecc2006ec1c7b73d515ad6"
+  },
+  "provenance": {
+    "source_item_id": "8c0996ab-5942-42e5-959d-abf4b33acf19",
+    "external_id": "detecting-web-server-probing-and-fuzzing"
+  }
+}

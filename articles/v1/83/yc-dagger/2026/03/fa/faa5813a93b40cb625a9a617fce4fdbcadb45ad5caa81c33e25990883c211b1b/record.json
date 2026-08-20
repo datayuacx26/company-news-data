@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "faa5813a93b40cb625a9a617fce4fdbcadb45ad5caa81c33e25990883c211b1b",
+  "company": {
+    "key": "yc-dagger",
+    "name": "Dagger"
+  },
+  "source": {
+    "id": "yc-dagger-news-import-d3f1ddf31a06",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://dagger.io/blog/cache-control-for-modules/",
+    "canonical": "https://dagger.io/blog/cache-control-for-modules/"
+  },
+  "title": "Cache control for modules",
+  "summary": "Module functions are now cached by default. Control cache behavior per function with TTL, session, or never policies.",
+  "published_at": "2026-03-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T15:47:35.732544+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-08-20T02:13:52.307506+00:00",
+  "paths": {
+    "article": "articles/v1/83/yc-dagger/2026/03/fa/faa5813a93b40cb625a9a617fce4fdbcadb45ad5caa81c33e25990883c211b1b/article.md",
+    "record": "articles/v1/83/yc-dagger/2026/03/fa/faa5813a93b40cb625a9a617fce4fdbcadb45ad5caa81c33e25990883c211b1b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4120,
+    "sha256": "sha256:ff24ae1edef48b0d8763e9cfbfd1d5b6f708dcc85aad904afa1c6bb5f7e050a4",
+    "normalized_content_hash": "sha256:1fea08546df1389b5c96193e0478e41b1f1e8c629a831966bc6fe2a9eee69b99"
+  },
+  "provenance": {
+    "source_item_id": "245061bf-bf22-4e99-a234-f7727559e4e7",
+    "external_id": "https://dagger.io/blog/cache-control-for-modules/"
+  }
+}

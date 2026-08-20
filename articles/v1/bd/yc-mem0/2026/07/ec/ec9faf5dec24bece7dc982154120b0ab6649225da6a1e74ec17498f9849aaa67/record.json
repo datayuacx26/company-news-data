@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec9faf5dec24bece7dc982154120b0ab6649225da6a1e74ec17498f9849aaa67",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/how-we-cut-vector-search-latency-by-70x",
+    "canonical": "https://mem0.ai/blog/how-we-cut-vector-search-latency-by-70x"
+  },
+  "title": "How We Cut Vector Search Latency by 70x",
+  "summary": "Our HNSW indexes recorded zero scans in production. Here's why Postgres skipped them, and how moving vector search to turbopuffer cut retrieval time by 70x.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T17:53:59.780181+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-19T17:37:03.162806+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/07/ec/ec9faf5dec24bece7dc982154120b0ab6649225da6a1e74ec17498f9849aaa67/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/07/ec/ec9faf5dec24bece7dc982154120b0ab6649225da6a1e74ec17498f9849aaa67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13016,
+    "sha256": "sha256:50c7ffcad8fcb062e9a1c8c2bd5fb08ed21182c01a35be34fb38dd1cc0325d5a",
+    "normalized_content_hash": "sha256:04eff318f5f7f81fb58e76e216d609e9bfc3fe9ea14fa52d61e2affbf953b045"
+  },
+  "provenance": {
+    "source_item_id": "bae49a39-9d66-47c8-b78c-71c1c33b683b",
+    "external_id": "https://mem0.ai/blog/how-we-cut-vector-search-latency-by-70x"
+  }
+}

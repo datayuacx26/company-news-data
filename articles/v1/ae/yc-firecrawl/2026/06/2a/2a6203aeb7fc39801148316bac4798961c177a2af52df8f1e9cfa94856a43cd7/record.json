@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a6203aeb7fc39801148316bac4798961c177a2af52df8f1e9cfa94856a43cd7",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/what-is-a-web-crawler",
+    "canonical": "https://www.firecrawl.dev/blog/what-is-a-web-crawler"
+  },
+  "title": "What Is a Web Crawler and How Do They Work?",
+  "summary": "A web crawler is a program that follows links to discover and collect web pages. Here is how the crawl loop works, the policies that govern it, and how to run one for an AI agent.",
+  "published_at": "2026-06-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:10:35.258497+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-29T18:26:26.899997+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/06/2a/2a6203aeb7fc39801148316bac4798961c177a2af52df8f1e9cfa94856a43cd7/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/06/2a/2a6203aeb7fc39801148316bac4798961c177a2af52df8f1e9cfa94856a43cd7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21694,
+    "sha256": "sha256:da7ff32076001340e2d97674dbfd07f645d3aabb25be1f397100b1bd5dcd1eb3",
+    "normalized_content_hash": "sha256:71f5ba172a584f583e54a9354ac3f60e28f06c5e7834237ae55da29929e11bb8"
+  },
+  "provenance": {
+    "source_item_id": "907ce70f-25b1-4ae0-a2ae-9320afcb1ffb",
+    "external_id": "https://www.firecrawl.dev/blog/what-is-a-web-crawler"
+  }
+}

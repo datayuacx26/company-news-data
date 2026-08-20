@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43e705a5f30bf8ec77151e126ff3322349c7b73a9e10ebf6260c06fd23389efd",
+  "company": {
+    "key": "yc-evidently-ai",
+    "name": "Evidently AI"
+  },
+  "source": {
+    "id": "yc-evidently-ai-news-import-f9abf95c6ead",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evidentlyai.com/blog/llm-hallucination-examples",
+    "canonical": "https://www.evidentlyai.com/blog/llm-hallucination-examples"
+  },
+  "title": "LLM hallucinations and failures: lessons from 5 examples",
+  "summary": "Real-world examples of LLM hallucinations and other failures that can occur in LLM-powered products in the wild, such as prompt injection and out-of-scope usage scenarios.",
+  "published_at": "2024-09-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:04:26.767431+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:52.887888+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-evidently-ai/2024/09/43/43e705a5f30bf8ec77151e126ff3322349c7b73a9e10ebf6260c06fd23389efd/article.md",
+    "record": "articles/v1/93/yc-evidently-ai/2024/09/43/43e705a5f30bf8ec77151e126ff3322349c7b73a9e10ebf6260c06fd23389efd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15089,
+    "sha256": "sha256:f337083352d1769ebb15b6b73046204088ae592b5762114934c67654698cf676",
+    "normalized_content_hash": "sha256:be580cc50891e9a434faa4eccd3e766ea126079925b6f8a110c3b08adbb3f761"
+  },
+  "provenance": {
+    "source_item_id": "405f7bed-c33d-47fe-b1ae-2620be4c7624",
+    "external_id": "https://www.evidentlyai.com/blog/llm-hallucination-examples"
+  }
+}

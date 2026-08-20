@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d713ce663b2fd2252b89eb66ea484256ebd06ccc7567882ef0a505a949f8008e",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/otel-metrics-cumulative-delta-elasticsearch",
+    "canonical": "https://www.elastic.co/search-labs/blog/otel-metrics-cumulative-delta-elasticsearch"
+  },
+  "title": "Skip the stateful OTel Collector: Elasticsearch 9.5 natively stores both metric temporalities",
+  "summary": "Store both OpenTelemetry metrics temporalities natively in Elasticsearch 9.5 and skip stateful OTel Collector conversion. ES|QL and PromQL handle the rest.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T20:14:06.247167+00:00",
+  "fetched_at": "2026-08-14T20:14:08.046658+00:00",
+  "last_updated_at": "2026-08-20T02:23:13.375428+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/d7/d713ce663b2fd2252b89eb66ea484256ebd06ccc7567882ef0a505a949f8008e/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/d7/d713ce663b2fd2252b89eb66ea484256ebd06ccc7567882ef0a505a949f8008e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15491,
+    "sha256": "sha256:5754f0a5bc4035fba24a1ebf30c402c8d12cf68f1b3ff9b0610ecb989da5c930",
+    "normalized_content_hash": "sha256:b31153c8cb5a75f083d8896daf622054032fe69f255368b395c440db93ecb03f"
+  },
+  "provenance": {
+    "source_item_id": "c4fb4f6e-d4e1-44ed-8791-04073b19f0d4",
+    "external_id": "https://www.elastic.co/search-labs/blog/otel-metrics-cumulative-delta-elasticsearch"
+  }
+}

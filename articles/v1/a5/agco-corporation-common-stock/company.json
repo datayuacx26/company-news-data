@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "agco-corporation-common-stock",
+    "name": "AGCO Corporation"
+  },
+  "record_count": 8,
+  "first_published_at": "2026-06-02T12:25:00+00:00",
+  "last_published_at": "2026-08-12T12:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/agco-corporation-common-stock/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 9561,
+        "sha256": "sha256:a79935c95c3cb771140c25d014dc74b6d2bad7e4d339b3ffbb8e399e9387537d",
+        "newest_at": "2026-08-12T12:15:00+00:00",
+        "oldest_at": "2026-06-02T12:25:00+00:00"
+      }
+    ]
+  }
+}

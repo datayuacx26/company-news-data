@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-yoshi-mobility",
+    "name": "Yoshi Mobility"
+  },
+  "record_count": 5,
+  "first_published_at": "2023-07-14T22:40:00+00:00",
+  "last_published_at": "2026-05-27T16:54:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/97/yc-yoshi-mobility/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 6119,
+        "sha256": "sha256:70dc29f7a29b1ac866033328b3ffb2346ef9a6e0cd162f8f367f4f0d36897e18",
+        "newest_at": "2026-05-27T16:54:00+00:00",
+        "oldest_at": "2023-07-14T22:40:00+00:00"
+      }
+    ]
+  }
+}

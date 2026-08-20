@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9791380f6c117ad3bcc40820416a9c3dfe592e619a3aa2aa8d05308b41c60b71",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/claude-cowork-enterprise-ai-gaps",
+    "canonical": "https://jinba.io/blog/claude-cowork-enterprise-ai-gaps"
+  },
+  "title": "7 Claude Cowork Limitations That Break Enterprise AI Workflows",
+  "summary": "Claude Cowork has 7 critical gaps for regulated enterprises: no audit logs, no RBAC, no on-prem, and Anthropic's own docs advise against compliance workloads.",
+  "published_at": "2026-08-13T12:54:11.536+00:00",
+  "first_seen_at": "2026-08-13T14:26:40.808236+00:00",
+  "fetched_at": "2026-08-13T14:26:42.775267+00:00",
+  "last_updated_at": "2026-08-20T00:02:43.534284+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/97/9791380f6c117ad3bcc40820416a9c3dfe592e619a3aa2aa8d05308b41c60b71/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/97/9791380f6c117ad3bcc40820416a9c3dfe592e619a3aa2aa8d05308b41c60b71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17883,
+    "sha256": "sha256:eae97dfd1b6d3e5cb9b33fe00c68e91c0e2a91c6fd57a12666b03245c56ed459",
+    "normalized_content_hash": "sha256:44f2fd86aa848acf336d9a81cf52fabaaf4f05964a11b56974021d258bc0e558"
+  },
+  "provenance": {
+    "source_item_id": "894ab309-c137-4be0-ba95-f70de6e46d92",
+    "external_id": "https://jinba.io/blog/claude-cowork-enterprise-ai-gaps"
+  }
+}

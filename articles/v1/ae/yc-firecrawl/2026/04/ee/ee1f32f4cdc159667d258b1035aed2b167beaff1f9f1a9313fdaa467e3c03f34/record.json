@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee1f32f4cdc159667d258b1035aed2b167beaff1f9f1a9313fdaa467e3c03f34",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/fire-pdf-launch",
+    "canonical": "https://www.firecrawl.dev/blog/fire-pdf-launch"
+  },
+  "title": "Introducing Fire-PDF: Firecrawl's New PDF Parsing Engine",
+  "summary": "Fire-PDF is our new Rust-based PDF parsing engine — 3.5-5x faster, smarter about what hits GPU, and more accurate on complex layouts.",
+  "published_at": "2026-04-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:54.039894+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/04/ee/ee1f32f4cdc159667d258b1035aed2b167beaff1f9f1a9313fdaa467e3c03f34/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/04/ee/ee1f32f4cdc159667d258b1035aed2b167beaff1f9f1a9313fdaa467e3c03f34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4963,
+    "sha256": "sha256:caf0be769c9da94eedf6fa8654c370b50ce00506f8b96071a58552dc25217fec",
+    "normalized_content_hash": "sha256:9acd0f3f810e5ac59fa225d4906858dd5afa9435443374d1872cc7b49846bcda"
+  },
+  "provenance": {
+    "source_item_id": "de3da162-2694-49c9-911a-4763dea01f3c",
+    "external_id": "https://www.firecrawl.dev/blog/fire-pdf-launch"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b0216c211404fb32338b13f5cb6c685fd90c86e440c5e76e760675f6b44b1ec",
+  "company": {
+    "key": "bill-holdings-inc-common-stock",
+    "name": "BILL Holdings Inc."
+  },
+  "source": {
+    "id": "bill-holdings-inc-common-stock-news-import-d6a5e86450c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bill.com/blog/bill-data-smbs-are-traveling-more-spending-same-price-per-trip",
+    "canonical": "https://www.bill.com/blog/bill-data-smbs-are-traveling-more-spending-same-price-per-trip"
+  },
+  "title": "BILL data: SMBs are traveling more, and spending same price per trip",
+  "summary": "New BILL Spend & Expense data shows SMB travel activity and spend has increased, with average cost per travel transaction remaining steady.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:10:23.121799+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-20T01:47:51.287192+00:00",
+  "paths": {
+    "article": "articles/v1/89/bill-holdings-inc-common-stock/2026/04/4b/4b0216c211404fb32338b13f5cb6c685fd90c86e440c5e76e760675f6b44b1ec/article.md",
+    "record": "articles/v1/89/bill-holdings-inc-common-stock/2026/04/4b/4b0216c211404fb32338b13f5cb6c685fd90c86e440c5e76e760675f6b44b1ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3865,
+    "sha256": "sha256:825b6df887cbc00abbbb7c73c707c9caea5cb4a7f79f16e09dbaa9e95f8d6895",
+    "normalized_content_hash": "sha256:95a9da75fcbc1f60146cbc6b78147778f72679866a123085f72fe83b02e2501a"
+  },
+  "provenance": {
+    "source_item_id": "4f74ccad-a40e-488b-9b2c-bf2d2797bfea",
+    "external_id": "https://www.bill.com/blog/bill-data-smbs-are-traveling-more-spending-same-price-per-trip"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0e2df11b172d7e1b224465d1d8d3aa86aff3fab652e990259c8f2f044db48f23",
+  "company": {
+    "key": "stitch-fix-inc-class-a-common-stock",
+    "name": "Stitch Fix Inc."
+  },
+  "source": {
+    "id": "stitch-fix-inc-class-a-common-stock-rss-75294c3181e6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/",
+    "canonical": "https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/"
+  },
+  "title": "Polymorphic, Recursive Interfaces Using Go Generics",
+  "summary": "Go's generics solve a previously-unsolvable problem with interfaces, but awkwardly",
+  "published_at": "2023-02-01T09:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:28.351732+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T00:38:49.585142+00:00",
+  "paths": {
+    "article": "articles/v1/bd/stitch-fix-inc-class-a-common-stock/2023/02/0e/0e2df11b172d7e1b224465d1d8d3aa86aff3fab652e990259c8f2f044db48f23/article.md",
+    "record": "articles/v1/bd/stitch-fix-inc-class-a-common-stock/2023/02/0e/0e2df11b172d7e1b224465d1d8d3aa86aff3fab652e990259c8f2f044db48f23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7797,
+    "sha256": "sha256:d2b6fc3f0fbcaafc2ab34f249a3c1f5ab51a897f2b2ae16c6679c969209ad5d1",
+    "normalized_content_hash": "sha256:1f4b616879fd423ba76410285c56d628bdaf13dc71982b796a2cd7135bc1590b"
+  },
+  "provenance": {
+    "source_item_id": "93a630cf-552a-453a-865c-5737f5553723",
+    "external_id": "https://multithreaded.stitchfix.com/blog/2023/02/01/go-polymorphic-interfaces/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbd1b8f9e7f012f3aec27b3dd42a7560b6bc054dc5fda2a2e487adac9163e410",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-do-i-store-inventory-data-in-my-stripe-application",
+    "canonical": "https://stripe.dev/blog/how-do-i-store-inventory-data-in-my-stripe-application"
+  },
+  "title": "How do I store inventory data in my Stripe application",
+  "summary": "Explore the critical importance of managing real-time inventory updates for both online marketplaces and physical stores. This blog post details the development of an event-driven architecture designed to synchronize inventory levels with Stripe payment events using AWS cloud services. The demonstration centers around the DevRel Swag Store, showcasing a practical application used at the GOTO Chicago event, which integrates serverless technologies like Amazon DynamoDB, AWS Lambda, and IoT Core for efficient inventory management. Learn about the challenges of using Stripe metadata for inventory, and discover robust solutions for handling race conditions and implementing dynamic inventory checks. Additionally, understand the trade-offs between using Stripe Payment Links and custom payment processes for real-time stock validation.",
+  "published_at": "2024-12-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/12/bb/bbd1b8f9e7f012f3aec27b3dd42a7560b6bc054dc5fda2a2e487adac9163e410/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/12/bb/bbd1b8f9e7f012f3aec27b3dd42a7560b6bc054dc5fda2a2e487adac9163e410/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5833,
+    "sha256": "sha256:cb0ae20aafaf122e95c3916eac931bd31d48b5affa5e871ceb9799c499f8a960",
+    "normalized_content_hash": "sha256:eafb7f0eba90e8e60dfcd17af903f64ca08c62ea76caeec52765db97e1cb5a4e"
+  },
+  "provenance": {
+    "source_item_id": "c540915a-e44b-4f5a-9343-6ef249c24b7b",
+    "external_id": "https://stripe.dev/blog/how-do-i-store-inventory-data-in-my-stripe-application"
+  }
+}

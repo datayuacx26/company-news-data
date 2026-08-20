@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-pine-park-health",
+    "name": "Pine Park Health"
+  },
+  "record_count": 7,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9b/yc-pine-park-health/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8025,
+        "sha256": "sha256:fcf65eb84e78152279c88170ac451cbfe48abafe742859d3d76612c2a1c0d64e",
+        "newest_at": "2026-07-28T21:16:50.994015+00:00",
+        "oldest_at": "2026-07-28T21:16:50.994015+00:00"
+      }
+    ]
+  }
+}

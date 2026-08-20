@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e20c97fa82fce98b0cd02eaaca1450092082a99b95a073d63de2e36ed043ff80",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/sharding-postgres-at-network-speed",
+    "canonical": "https://pgdog.dev/blog/sharding-postgres-at-network-speed"
+  },
+  "title": "Sharding Postgres at network speed",
+  "summary": "Resharding terabytes of Postgres in minutes using parallel logical replication slots on streaming replicas, a Postgres 16 feature that finally makes online sharding practical.",
+  "published_at": "2025-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.478310+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T02:38:54.029156+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2025/07/e2/e20c97fa82fce98b0cd02eaaca1450092082a99b95a073d63de2e36ed043ff80/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2025/07/e2/e20c97fa82fce98b0cd02eaaca1450092082a99b95a073d63de2e36ed043ff80/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11913,
+    "sha256": "sha256:266964a8e800c29f4daedfbf6baf4938fa2e4d9f58525ffd6dc7fbaf31707f2d",
+    "normalized_content_hash": "sha256:1440b5b40518cb79ffca0c1e4adce5d1b191a61d61adb01dccd09f92c27563e2"
+  },
+  "provenance": {
+    "source_item_id": "3f474167-c96c-4d1b-a7b1-b9fa4e79c98c",
+    "external_id": "https://pgdog.dev/blog/sharding-postgres-at-network-speed"
+  }
+}

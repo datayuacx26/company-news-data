@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "16911b0410efeb8b4a3b2d81af7ad40488c849eaf279a7e9080cf4e41d5f98a3",
+  "company": {
+    "key": "yc-gecko-security",
+    "name": "Gecko Security"
+  },
+  "source": {
+    "id": "yc-gecko-security-news-import-02715d60c1a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gecko.security/blog/cve-2026-25055",
+    "canonical": "https://www.gecko.security/blog/cve-2026-25055"
+  },
+  "title": "CVE-2026-25055: n8n Arbitrary File Write on Remote Systems via SSH Node",
+  "summary": "Path traversal vulnerability in n8n's Webhook node allows attackers to write files to arbitrary locations on remote servers connected via SSH.",
+  "published_at": "2026-02-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:22:16.875303+00:00",
+  "fetched_at": "2026-07-28T22:21:48.311987+00:00",
+  "last_updated_at": "2026-08-20T03:09:25.114394+00:00",
+  "paths": {
+    "article": "articles/v1/8e/yc-gecko-security/2026/02/16/16911b0410efeb8b4a3b2d81af7ad40488c849eaf279a7e9080cf4e41d5f98a3/article.md",
+    "record": "articles/v1/8e/yc-gecko-security/2026/02/16/16911b0410efeb8b4a3b2d81af7ad40488c849eaf279a7e9080cf4e41d5f98a3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4888,
+    "sha256": "sha256:9b27cb0a5a72b01137a9a4dcf1c032d8a512d0d45b5d43ecee59ac88f37b0b58",
+    "normalized_content_hash": "sha256:ab0aff83d2dfce368b67ebf929130de26ed08757b948021cd515ce66883e442a"
+  },
+  "provenance": {
+    "source_item_id": "6e575a10-772a-4356-9f3c-17fc5a867ae9",
+    "external_id": "https://www.gecko.security/blog/cve-2026-25055"
+  }
+}

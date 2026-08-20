@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7bceb841e9eff0a4870aeaf4d5307ba6616588675f3869a222132923f3fe3586",
+  "company": {
+    "key": "yc-laminar",
+    "name": "Laminar"
+  },
+  "source": {
+    "id": "yc-laminar-news-import-2ad91bbdebb7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://laminar.sh/blog/transcript-view-agent-traces",
+    "canonical": "https://laminar.sh/blog/transcript-view-agent-traces"
+  },
+  "title": "Agent traces aren't backend traces. Stop reading them like they are.",
+  "summary": "Laminar gives you three views to read an agent trace: timeline for where time went, chat with trace for why it broke, transcript for what happened.",
+  "published_at": "2026-04-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:53:15.322428+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-20T00:04:57.192437+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-laminar/2026/04/7b/7bceb841e9eff0a4870aeaf4d5307ba6616588675f3869a222132923f3fe3586/article.md",
+    "record": "articles/v1/89/yc-laminar/2026/04/7b/7bceb841e9eff0a4870aeaf4d5307ba6616588675f3869a222132923f3fe3586/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8164,
+    "sha256": "sha256:2301ee3f2e05ee9e8060ef45027a8a54b095750d9099e753eb9435cdb7a59ed5",
+    "normalized_content_hash": "sha256:e5997f1f0a4194a3cbf23117107156021acdb90a03ecf3ec332aafa96b453070"
+  },
+  "provenance": {
+    "source_item_id": "561e7c1d-dd59-4448-bfe2-9df6fb4438bd",
+    "external_id": "https://laminar.sh/blog/transcript-view-agent-traces"
+  }
+}

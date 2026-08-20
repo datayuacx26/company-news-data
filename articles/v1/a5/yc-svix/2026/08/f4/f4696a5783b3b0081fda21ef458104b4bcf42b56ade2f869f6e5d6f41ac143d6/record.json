@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4696a5783b3b0081fda21ef458104b4bcf42b56ade2f869f6e5d6f41ac143d6",
+  "company": {
+    "key": "yc-svix",
+    "name": "Svix"
+  },
+  "source": {
+    "id": "yc-svix-news-import-06ae021bd4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.svix.com/blog/announcing-app-portal-mcp/",
+    "canonical": "https://www.svix.com/blog/announcing-app-portal-mcp/"
+  },
+  "title": "Announcing the App Portal MCP Server: Debug Webhooks with your Agent",
+  "summary": "The App Portal now has an MCP server, so your customers can debug the webhooks you send them without ever leaving their editor.",
+  "published_at": "2026-08-11T12:00:00+00:00",
+  "first_seen_at": "2026-08-13T03:27:41.985928+00:00",
+  "fetched_at": "2026-08-13T03:27:43.342928+00:00",
+  "last_updated_at": "2026-08-20T01:05:38.755361+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-svix/2026/08/f4/f4696a5783b3b0081fda21ef458104b4bcf42b56ade2f869f6e5d6f41ac143d6/article.md",
+    "record": "articles/v1/a5/yc-svix/2026/08/f4/f4696a5783b3b0081fda21ef458104b4bcf42b56ade2f869f6e5d6f41ac143d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4946,
+    "sha256": "sha256:26e5e021031053937c79595505a223e0410751230e0d174ed7853829b37ab815",
+    "normalized_content_hash": "sha256:830fc647f0a76f205225dd430e6cafb3b72b206bb1029f2a84a162058e03ca71"
+  },
+  "provenance": {
+    "source_item_id": "2698706a-9a2d-47d2-87ab-b757e0ba0530",
+    "external_id": "https://www.svix.com/blog/announcing-app-portal-mcp/"
+  }
+}

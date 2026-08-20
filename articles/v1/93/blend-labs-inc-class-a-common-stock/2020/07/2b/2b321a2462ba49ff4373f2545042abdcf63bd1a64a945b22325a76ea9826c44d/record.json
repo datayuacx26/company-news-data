@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b321a2462ba49ff4373f2545042abdcf63bd1a64a945b22325a76ea9826c44d",
+  "company": {
+    "key": "blend-labs-inc-class-a-common-stock",
+    "name": "Blend Labs Inc."
+  },
+  "source": {
+    "id": "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://full-stack.blend.com/a-day-in-the-life-of-a-secure-request.html",
+    "canonical": "https://full-stack.blend.com/a-day-in-the-life-of-a-secure-request.html"
+  },
+  "title": "A Day in the Life of a (Secure) Request",
+  "summary": "All hops Introduction In this post, we will walk through the infrastructure components we use at Blend to secure incoming requests—a day in the life of a request, if you will. There are a variety of commonly-used mechanisms to secure cloud computing environments, which often involve load balancers and special-purpose proxy servers. As a result, requests from a client to an application server typically make a number of intermediate network hops en route to their final destination.",
+  "published_at": "2020-07-27T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:43.300114+00:00",
+  "fetched_at": "2026-08-20T00:34:47.711311+00:00",
+  "last_updated_at": "2026-08-20T00:34:47.824667+00:00",
+  "paths": {
+    "article": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/07/2b/2b321a2462ba49ff4373f2545042abdcf63bd1a64a945b22325a76ea9826c44d/article.md",
+    "record": "articles/v1/93/blend-labs-inc-class-a-common-stock/2020/07/2b/2b321a2462ba49ff4373f2545042abdcf63bd1a64a945b22325a76ea9826c44d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1103,
+    "sha256": "sha256:07bd3a2ed0679dddc771064e400623b95d2d37eb6c42dfdded1403f154fc3474",
+    "normalized_content_hash": "sha256:51107844b7e8b79d77efc18227e29a2b8c97b3f575ca70fc8b1e5d39c8af2282"
+  },
+  "provenance": {
+    "source_item_id": "34fabbbf-74d5-4d2d-b4ce-9059051bdebd",
+    "external_id": "https://full-stack.blend.com/a-day-in-the-life-of-a-secure-request.html"
+  }
+}

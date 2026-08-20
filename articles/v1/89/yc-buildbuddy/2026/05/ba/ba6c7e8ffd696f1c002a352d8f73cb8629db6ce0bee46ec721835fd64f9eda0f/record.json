@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba6c7e8ffd696f1c002a352d8f73cb8629db6ce0bee46ec721835fd64f9eda0f",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-4f82164f35c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/changelog/workflow-auto-cancel",
+    "canonical": "https://www.buildbuddy.io/changelog/workflow-auto-cancel"
+  },
+  "title": "Auto-cancel duplicate CI runs on the same branch",
+  "summary": "Starting June 1, 2026, BuildBuddy will automatically cancel in-progress Workflow runs when a newer run is triggered for the same action on a non-default branch. This helps avoid wasting resources on outdated runs when, for example, several commits are pushed in quick succession to a pull request branch.",
+  "published_at": "2026-05-04T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:16.628240+00:00",
+  "fetched_at": "2026-07-28T22:15:26.754194+00:00",
+  "last_updated_at": "2026-08-20T03:35:53.428661+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/05/ba/ba6c7e8ffd696f1c002a352d8f73cb8629db6ce0bee46ec721835fd64f9eda0f/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/05/ba/ba6c7e8ffd696f1c002a352d8f73cb8629db6ce0bee46ec721835fd64f9eda0f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1252,
+    "sha256": "sha256:d669f4fa8dc69c37df0d6b7936a1557ef6da75860bc26325d4d6ad1cd193e6b0",
+    "normalized_content_hash": "sha256:6f197cb849d348dfcd5d6ee610c3aafedcc1ca768bcb23c78f69e563d5ba1ef8"
+  },
+  "provenance": {
+    "source_item_id": "88dd52e9-3405-4de6-9cdb-20ae37b9f428",
+    "external_id": "https://www.buildbuddy.io/changelog/workflow-auto-cancel"
+  }
+}

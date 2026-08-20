@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86a901feeb94190063ac524ba5e6fb33e34499220431d785446983bde7ba2272",
+  "company": {
+    "key": "yc-increase",
+    "name": "Increase"
+  },
+  "source": {
+    "id": "yc-increase-news-import-16282b6988d7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://increase.com/articles/canary-transfers",
+    "canonical": "https://increase.com/articles/canary-transfers"
+  },
+  "title": "Canary transfers: testing banking infrastructure in production — Increase",
+  "summary": "How Increase uses canary transfers, continuously sending money over every payment rail, to shrink the time between a failure happening and someone noticing.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:41:43.316828+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T00:31:48.227914+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-increase/2026/07/86/86a901feeb94190063ac524ba5e6fb33e34499220431d785446983bde7ba2272/article.md",
+    "record": "articles/v1/82/yc-increase/2026/07/86/86a901feeb94190063ac524ba5e6fb33e34499220431d785446983bde7ba2272/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6047,
+    "sha256": "sha256:65cc7573bf8875d9b7b19a7efe545f68a2279173455b784bf74fbda8d14d5c1b",
+    "normalized_content_hash": "sha256:d5fb9d43a5a5ba0e2f835b296db75858101bed6baedf10914968be2a7ba4b133"
+  },
+  "provenance": {
+    "source_item_id": "7bcaae42-79a8-4445-b725-fc15328d64b3",
+    "external_id": "https://increase.com/articles/canary-transfers"
+  }
+}

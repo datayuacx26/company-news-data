@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3db9a89a0c6fd0e647c74484a55ff9a86cb5c6d1bd758c995b5ca46c0873f725",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/video-conferencing",
+    "canonical": "https://s2.dev/blog/video-conferencing"
+  },
+  "title": "Video Conferencing with Durable Streams",
+  "summary": "Build a video conferencing demo on S2 streams with live media reads, replay, retention controls, and durable frame history.",
+  "published_at": "2026-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2026/03/3d/3db9a89a0c6fd0e647c74484a55ff9a86cb5c6d1bd758c995b5ca46c0873f725/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2026/03/3d/3db9a89a0c6fd0e647c74484a55ff9a86cb5c6d1bd758c995b5ca46c0873f725/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5063,
+    "sha256": "sha256:7415f442fc480e79520edf0ebbd69a12558d4131d203e2eb99f80e567adf764d",
+    "normalized_content_hash": "sha256:bf094b122f50374de1a3bd075b46bfd2699a3e858382fdacd86a9ef8b8306123"
+  },
+  "provenance": {
+    "source_item_id": "15d0fe5b-406c-49ee-a435-8a65d56aa082",
+    "external_id": "https://s2.dev/blog/video-conferencing"
+  }
+}

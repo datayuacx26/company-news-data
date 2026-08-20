@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7a607c097f5c15b0b481a5e6a67e351526c5f0a11c3ad9eac9d75493dd5ebeac",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/ai-vulnerability-triage-bug-bounty-hackerone",
+    "canonical": "https://www.elastic.co/security-labs/ai-vulnerability-triage-bug-bounty-hackerone"
+  },
+  "title": "Agents vs. agents: how we triage HackerOne reports for $2 each, 85% as well as a human",
+  "summary": "Elastic built an AI agentic workflow that triages bug bounty reports for ~$2 each, matching human analysts 85% of the time. Architecture, threat model and results.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T16:53:44.245370+00:00",
+  "fetched_at": "2026-08-04T17:31:37.256081+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/7a/7a607c097f5c15b0b481a5e6a67e351526c5f0a11c3ad9eac9d75493dd5ebeac/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/7a/7a607c097f5c15b0b481a5e6a67e351526c5f0a11c3ad9eac9d75493dd5ebeac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33301,
+    "sha256": "sha256:50b26b62d5c4615a4e623602a11168275ea75e1e46cb46dadd90ed464889b844",
+    "normalized_content_hash": "sha256:1e777576b0f416361b1783caa37cbaa4d78e4259ed3e5599eafd372d9f236990"
+  },
+  "provenance": {
+    "source_item_id": "1cb264a7-c9e3-4d74-9408-aff7d08e48e6",
+    "external_id": "ai-vulnerability-triage-bug-bounty-hackerone"
+  }
+}

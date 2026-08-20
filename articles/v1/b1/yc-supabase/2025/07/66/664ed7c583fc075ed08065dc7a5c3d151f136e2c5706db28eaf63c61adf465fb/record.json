@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "664ed7c583fc075ed08065dc7a5c3d151f136e2c5706db28eaf63c61adf465fb",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/stripe-engine-as-sync-library",
+    "canonical": "https://supabase.com/blog/stripe-engine-as-sync-library"
+  },
+  "title": "Stripe-To-Postgres Sync Engine as standalone Library",
+  "summary": "Sync Stripe webhook data directly to Postgres using standalone TypeScript library.",
+  "published_at": "2025-07-15T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2025/07/66/664ed7c583fc075ed08065dc7a5c3d151f136e2c5706db28eaf63c61adf465fb/article.md",
+    "record": "articles/v1/b1/yc-supabase/2025/07/66/664ed7c583fc075ed08065dc7a5c3d151f136e2c5706db28eaf63c61adf465fb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5655,
+    "sha256": "sha256:0174570622eada59a02be799f2992feda0a50c3353aa42af4e3155740c792a5b",
+    "normalized_content_hash": "sha256:847cb5c53bed0489935f8678947abf5a4426774e05c7214aca55b16f30d8867d"
+  },
+  "provenance": {
+    "source_item_id": "e9fecd2b-4ef7-4d10-b147-9c366521d143",
+    "external_id": "https://supabase.com/blog/stripe-engine-as-sync-library"
+  }
+}

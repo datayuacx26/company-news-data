@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4277b384c8d41f81f290c9fd4a3bf28aa7d31d79eeeba4233fa6ad83d288b571",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/vector-memory-pressure-autoops",
+    "canonical": "https://www.elastic.co/search-labs/blog/vector-memory-pressure-autoops"
+  },
+  "title": "The mystery stress your heap chart can't see: AutoOps now watches vector off-heap memory",
+  "summary": "Dense vectors use off-heap memory your heap chart never shows. AutoOps detects memory pressure before vector RAM stress causes OOM.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T02:39:15.888121+00:00",
+  "fetched_at": "2026-08-07T02:39:17.068337+00:00",
+  "last_updated_at": "2026-08-17T01:56:09.251626+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/42/4277b384c8d41f81f290c9fd4a3bf28aa7d31d79eeeba4233fa6ad83d288b571/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/42/4277b384c8d41f81f290c9fd4a3bf28aa7d31d79eeeba4233fa6ad83d288b571/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11378,
+    "sha256": "sha256:e80501f52b77c4b1b0aee81e4cbdb039e35f6ce6ab8b5523b019722ad34b022f",
+    "normalized_content_hash": "sha256:19dc823d0dd7ba9ba10e5bd4479599e1b5bb4cba46b1fe98054e6d8e9cb17369"
+  },
+  "provenance": {
+    "source_item_id": "68588ef0-3075-4cae-b4fd-933e0190b462",
+    "external_id": "https://www.elastic.co/search-labs/blog/vector-memory-pressure-autoops"
+  }
+}

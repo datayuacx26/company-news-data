@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f658e6c938298007bf306645ff6bf29f12eb0f1be581dd65ddc16551020c3cb",
+  "company": {
+    "key": "american-airlines-group-inc-common-stock",
+    "name": "American Airlines Group Inc."
+  },
+  "source": {
+    "id": "american-airlines-group-inc-common-stock-news-import-aa1b8ed8edb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.aa.com/news/news-details/2026/American-Airlines-Group-announces-webcast-of-second-quarter-2026-financial-results-CORP-FI/default.aspx",
+    "canonical": "https://news.aa.com/news/news-details/2026/American-Airlines-Group-announces-webcast-of-second-quarter-2026-financial-results-CORP-FI/default.aspx"
+  },
+  "title": "American Airlines Group announces webcast of second-quarter 2026 financial results",
+  "summary": "American Airlines Group (NASDAQ: AAL) will webcast a live audio feed of its second-quarter 2026 financial results conference call July 23 at 7:30 a.m. CT.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T01:45:10.249277+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-19T18:10:19.673715+00:00",
+  "paths": {
+    "article": "articles/v1/89/american-airlines-group-inc-common-stock/2026/07/0f/0f658e6c938298007bf306645ff6bf29f12eb0f1be581dd65ddc16551020c3cb/article.md",
+    "record": "articles/v1/89/american-airlines-group-inc-common-stock/2026/07/0f/0f658e6c938298007bf306645ff6bf29f12eb0f1be581dd65ddc16551020c3cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3280,
+    "sha256": "sha256:6f6c5dae7328f80c33b10c02feabb187635fb2232097a9eb38c621c228f65906",
+    "normalized_content_hash": "sha256:742fdd8145b6b9cfcb877220f55b7314b24e32ea5b7cf4754d8e524dbde43995"
+  },
+  "provenance": {
+    "source_item_id": "46b86b7d-0319-4980-806d-e6426e3afbcb",
+    "external_id": "https://news.aa.com/news/news-details/2026/American-Airlines-Group-announces-webcast-of-second-quarter-2026-financial-results-CORP-FI/default.aspx"
+  }
+}

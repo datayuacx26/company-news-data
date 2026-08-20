@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f5ab3bf3cb68f435d3890b3e46b36955fa068f9ba0917aed3124f6c1298fbfe",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
+    "canonical": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity"
+  },
+  "title": "How Tinfoil Proves Exactly What Model Is Running",
+  "summary": "How we cryptographically guarantee that we are serving specific, untampered model weights that clients can verify on each request.",
+  "published_at": "2026-02-03T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T22:22:19.644306+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2026/02/3f/3f5ab3bf3cb68f435d3890b3e46b36955fa068f9ba0917aed3124f6c1298fbfe/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2026/02/3f/3f5ab3bf3cb68f435d3890b3e46b36955fa068f9ba0917aed3124f6c1298fbfe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14284,
+    "sha256": "sha256:f2e72bb1f4927e68d7c733824cb908d9a529fb52ef8aada0bb6b3abde3fd3798",
+    "normalized_content_hash": "sha256:dc16a519aab942c11c4e565a9578917a8218b6cb6a8ee6a2d178fce5af9e2c48"
+  },
+  "provenance": {
+    "source_item_id": "0e5885dc-2d98-46f7-a4a2-ed16b718c2d6",
+    "external_id": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity"
+  }
+}

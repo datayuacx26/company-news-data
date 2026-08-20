@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da0cb3d77579560cd236766a7d4ec6ec59106be4952fbac292b04e3ca284f7a8",
+  "company": {
+    "key": "yc-daily",
+    "name": "Daily"
+  },
+  "source": {
+    "id": "yc-daily-rss-fbcbe287eccb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/",
+    "canonical": "https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/"
+  },
+  "title": "Building Voice Agents with NVIDIA Open Models",
+  "summary": "Build an ultra-low-latency voice agent with NVIDIA open models. Learn how Nemotron Speech ASR achieves sub-25ms transcription, how Nemotron 3 Nano LLM and Magpie TTS work together, and how to optimize architecture for real-time voice AI deployment.",
+  "published_at": "2026-01-06T01:34:53+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.254949+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-08-20T02:45:43.680839+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-daily/2026/01/da/da0cb3d77579560cd236766a7d4ec6ec59106be4952fbac292b04e3ca284f7a8/article.md",
+    "record": "articles/v1/95/yc-daily/2026/01/da/da0cb3d77579560cd236766a7d4ec6ec59106be4952fbac292b04e3ca284f7a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24061,
+    "sha256": "sha256:ae4d1e7044e278b997c85d895fdb6de61adfc1b749096e35114b90fa4cfddd6a",
+    "normalized_content_hash": "sha256:b6492a42e15c85736706955841f5659e0fca25cee4f1607c90ba5ec0049419f9"
+  },
+  "provenance": {
+    "source_item_id": "a1c766c0-2b72-49e1-9b65-9286126d9682",
+    "external_id": "695967a434ed070001852597"
+  }
+}

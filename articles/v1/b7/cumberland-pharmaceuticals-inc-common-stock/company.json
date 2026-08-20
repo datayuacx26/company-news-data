@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cumberland-pharmaceuticals-inc-common-stock",
+    "name": "Cumberland Pharmaceuticals Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2024-03-13T14:55:25+00:00",
+  "last_published_at": "2026-08-12T18:41:38+00:00",
+  "partitions": [
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b7/cumberland-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 15817,
+        "sha256": "sha256:bcfdcb8aee3d1e1724092aa2155010e5e420296c8011fc568fba1ac12aca5ae3",
+        "newest_at": "2026-08-12T18:41:38+00:00",
+        "oldest_at": "2024-03-13T14:55:25+00:00"
+      }
+    ]
+  }
+}

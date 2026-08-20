@@ -1,0 +1,250 @@
+---
+schema_version: "1.0.0"
+document_id: "cff6396b303dbca1b00a78526143729ee76b51b21ecdb69054e206ac8e117f2e"
+company_key: "pegasystems-inc-common-stock"
+company: "Pegasystems Inc."
+source_id: "pegasystems-inc-common-stock-rss-deafc2cd455e"
+canonical_url: "https://community.pega.com/blog/your-ai-workflows-look-governed-are-they"
+published_at: "2026-06-26T12:00:00+00:00"
+first_seen_at: "2026-07-25T01:11:26.395289+00:00"
+fetched_at: "2026-07-28T20:48:11.217348+00:00"
+content_hash: "sha256:c981e5243f185d1a3059341a8f95ebab03a7b0488cc8dd30c10ca12a0a18d0cf"
+---
+
+# Your AI Workflows Look Governed. Are They?
+
+In my last article, I introduced the
+
+
+[AI Workflow Autonomy Spectrum](https://community.pega.com/blog/you-let-ai-run-you-workflows-ask-yourself-two-questions) — two spectrums, not one. Design time: how was the workflow built? Run time: how does it execute? Different questions. Different risks. You need to know where you sit on both.
+
+
+The response told me something I suspected: people know they need governance. They just don't know where to start.
+
+
+Here's where to start.
+
+
+Run each workflow through four questions. They'll tell you where it sits on each spectrum and what kind of governance it actually needs.
+
+
+But first — a framing that changes the exercise.
+
+
+## Most of Your Workflows Aren't the Problem
+
+
+A colleague of mine who talks to C-suite at banks put it this way: 90 to 95 percent of what a financial services firm does should be straight-through processing. Standardized. Predictable. Same steps, same order, same types of requests.
+
+
+That's not where the governance question lives.
+
+
+The governance question lives in the other 5 to 10 percent. The edge cases. The exceptions. The discretionary decisions. The situations where someone has to exercise judgment.
+
+
+*In financial services, the edge cases are where the trouble lies.*
+
+
+And edge cases are exactly where AI orchestration and autonomous execution introduce the most risk. A routine request handled deterministically? Low risk. An AI agent encountering something non-standard and making routing decisions on the fly? Different story entirely.
+
+
+Keep that in mind as you work through these four questions. The goal isn't to govern everything equally. It's to identify which workflows carry the most regulatory weight — and make sure those are the ones where humans are in control.
+
+
+## The Four Questions
+
+
+**1. Does this workflow directly execute a regulated activity?**
+
+
+Trust distributions. Investment recommendations. Suitability assessments. KYC/AML checks. Beneficiary changes. Fiduciary reviews.
+
+
+If yes — human-led design, deterministic execution. Full stop.
+
+
+If a workflow directly touches a regulatory obligation, you need to explain why it's designed the way it is *and* prove it runs the same way every time. Upper-left corner of the matrix: AI-assisted design at most, deterministic run time.
+
+
+No AI orchestration deciding which steps to invoke. No autonomous execution reasoning through the process differently each time. A human designed it. A human approved it. It runs the same way for every client.
+
+
+When a regulator asks — and they will — you can whip out the blueprint.
+
+
+**2. Does this workflow produce artifacts that become part of the regulatory record?**
+
+
+Client communications. Trade documentation. Compliance reports. Supervisory logs.
+
+
+These don't execute a regulated activity directly. But they produce the paper trail regulators examine. If an AI-generated workflow is producing your compliance reports, you'd better be able to explain the design decisions behind it.
+
+
+If yes — strong design governance with documented human review. Deterministic execution.
+
+
+Here's the thing: AI can absolutely help produce these artifacts faster. But the design of the workflow that produces them needs human ownership. And the execution needs to be consistent — because the moment your audit trail shows inconsistency, someone's going to ask why.
+
+
+**3. Is there an AI layer making routing decisions that connect to a regulated outcome?**
+
+
+This is the downstream entanglement question. And it's the one most people miss.
+
+
+The idea is simple. The workflow itself isn't regulated. But its output feeds into something that is. That creates exposure — and most people haven't mapped it.
+
+
+Here's what I keep seeing.
+
+
+A trust officer uses an AI-orchestrated process to research a client's tax situation. The individual research workflows are well-designed. Each one runs deterministically. Looks governed.
+
+
+But the AI layer above those workflows decided which ones to invoke, in what sequence, with what data. That research informs a discretionary distribution decision.
+
+
+Six months later a beneficiary challenges the distribution. The firm has to reconstruct how the research was done. They can show the individual workflows — each one is clean. They can't explain why those specific workflows were chosen, in that sequence, for that client.
+
+
+*The workflows weren't the problem. The routing decisions were.*
+
+
+This is where downstream entanglement hides. Not in the workflows themselves — in the connections between them. In the AI layer that decides which pieces to assemble and how.
+
+
+**Where to look for it:**
+
+
+Think about the workflows in your firm that feel operational but quietly feed regulated decisions. Research that informs investment recommendations. Data aggregation that feeds suitability assessments. Analysis that shapes fiduciary reviews.
+
+
+None of those are regulated in isolation. All of them become compliance liabilities if their execution can't be reconstructed.
+
+
+**What to do about it:**
+
+
+If the routing decisions can be explained — not just recorded, but *explained* — you might be okay with AI orchestration. As long as you're governing it deliberately.
+
+
+If they can't? You have options. Replace the AI routing with deterministic logic. Define the workflow sequences up front. Constrain which workflows can connect to which. Move the orchestration decisions from run time back to design time — make them human decisions, not AI decisions.
+
+
+A log of what an AI chose isn't the same as a system that enforced the choice. That distinction matters when someone asks you to prove what happened.
+
+
+The orchestration layer risk is containable. Unlike fully autonomous execution — where the entire process is a black box — AI orchestration gives you a specific place where the risk lives. You can isolate it. You can constrain it. You can replace it.
+
+
+But only if you know it's there.
+
+
+**4. Is this workflow purely operational with no plausible regulatory touchpoint?**
+
+
+Internal scheduling. Meeting prep. Research summarization for personal use. Facility management. IT service requests.
+
+
+If yes — go get the efficiency gains. Use as much AI as you want on both spectrums.
+
+
+Governance isn't the goal. Value is the goal. Governance is how you protect the value in regulated spaces.
+
+
+*Governance isn't the goal. Value is the goal.*
+
+
+For workflows with no regulatory touchpoint, AI orchestration and even autonomous execution can capture real efficiency. No compliance exposure. No over-engineering.
+
+
+Don't freeze up where you don't need to. That's how you miss the opportunity entirely.
+
+
+## **The Classification in Practice**
+
+
+Map your workflows. Run each one through the four questions. Plot it on both spectrums — where does it sit on design time, and where on run time?
+
+
+What you'll find: most of your workflows fall into Question 4. Purely operational. Low regulatory risk. Let AI run.
+
+
+A smaller set falls into Questions 1 and 2. Directly regulated or producing regulatory artifacts. Human-led design, deterministic execution. No ambiguity.
+
+
+And then there's Question 3. The workflows you thought were operational but turn out to have downstream connections to regulated decisions. This is where the classification earns its keep. These are the workflows where firms get surprised.
+
+
+*Not by what the workflow does, but by what it feeds.*
+
+
+The firms that do this work will adopt AI faster — and with more confidence — than the ones that rush in blind or freeze up out of fear.
+
+
+## **What Comes Next**
+
+
+The framework gives you a way to think about the problem. The four questions give you a way to act on it. But there's a step between thinking and acting that most people skip: building the internal capability to evaluate AI-generated workflows with real rigor.
+
+
+That means reviewers who can do more than confirm a workflow "looks right." Documentation practices that capture not just what was approved, but *why* . And treating the orchestration layer as a governance surface — not a technical convenience.
+
+
+The regulatory framework for AI in financial services isn't just being written anymore — it's getting operational. In February, Treasury released the Financial Services AI Risk Management Framework with 230 control objectives for AI governance. It's voluntary for now. But when the federal government publishes a sector-specific remediation blueprint with that level of detail, the direction is clear.
+
+
+If your AI is making decisions, you own those decisions. If your AI is executing supervised activities, you own the supervision.
+
+
+The role of the agent is not to run the process — but to follow the process.
+
+
+Start with the classification. The rest follows from there.
+
+
+### **Further Reading**
+
+
+FINRA, "2026 Annual Regulatory Oversight Report," December 2025. Retrieved March 12, 2026.
+
+
+[https://www.finra.org/sites/default/files/2025-12/2026-annual-regulatory-oversight-report.pdf](https://www.finra.org/sites/default/files/2025-12/2026-annual-regulatory-oversight-report.pdf)
+
+
+Snell & Wilmer, "FINRA's 2026 Oversight Report Signals a Supervisory Reckoning for Autonomous AI," December 18, 2025. Retrieved March 12, 2026.
+
+
+[https://www.jdsupra.com/legalnews/finra-s-2026-oversight-report-signals-a-4923301/](https://www.jdsupra.com/legalnews/finra-s-2026-oversight-report-signals-a-4923301/)
+
+
+U.S. Department of the Treasury, "Treasury Releases Two New Resources to Guide AI Use in the Financial Sector," February 19, 2026. Retrieved June 13, 2026.
+
+
+[https://home.treasury.gov/news/press-releases/sb0401](https://home.treasury.gov/news/press-releases/sb0401)
+
+
+Taft Stettinius & Hollister, "AI in the Crosshairs: New Guidance from FINRA and Treasury," April 8, 2026. Retrieved June 13, 2026.
+
+
+[https://www.taftlaw.com/news-events/law-bulletins/ai-in-the-crosshairs-new-guidance-from-finra-and-treasury/](https://www.taftlaw.com/news-events/law-bulletins/ai-in-the-crosshairs-new-guidance-from-finra-and-treasury/)
+
+
+SEC, "SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence," March 18, 2024. Retrieved March 12, 2026.
+
+
+[https://www.sec.gov/newsroom/press-releases/2024-36](https://www.sec.gov/newsroom/press-releases/2024-36)
+
+
+CPO Magazine, "2026 AI Legal Forecast: From Innovation to Compliance," January 15, 2026. Retrieved March 12, 2026.
+
+
+[https://www.cpomagazine.com/data-protection/2026-ai-legal-forecast-from-innovation-to-compliance/](https://www.cpomagazine.com/data-protection/2026-ai-legal-forecast-from-innovation-to-compliance/)
+
+
+*These are my own observations from working in enterprise software for financial services. Practitioner perspective, not legal advice. Talk to your compliance and legal teams for guidance specific to your firm.*
+
+
+*This framework benefited from conversations with[Fritz von Bulow](https://www.linkedin.com/in/fritz-von-bulow/)* *[,](https://www.linkedin.com/in/fritz-von-bulow/) who challenged me to separate design-time and run-time risk into distinct dimensions. Better frameworks come from better questions.*

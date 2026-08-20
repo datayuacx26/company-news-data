@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f612e1d9fcc9b277805dccba3e344567626920ed52498be8bba4bae7098d6df",
+  "company": {
+    "key": "yc-voker",
+    "name": "Voker"
+  },
+  "source": {
+    "id": "yc-voker-news-import-d9168a6d6fb2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://voker.ai/blog/putting-skillopt-to-the-test",
+    "canonical": "https://voker.ai/blog/putting-skillopt-to-the-test"
+  },
+  "title": "Putting SkillOpt to the test",
+  "summary": "We tested SkillOpt (Microsoft's new self-evolving skill optimizer) on a real benchmark — starting with a 3-line skill and letting it iteratively rewrite itself over multiple training epochs.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:09:16.557037+00:00",
+  "fetched_at": "2026-07-28T21:42:09.561502+00:00",
+  "last_updated_at": "2026-08-19T19:39:22.675515+00:00",
+  "paths": {
+    "article": "articles/v1/8c/yc-voker/2026/06/6f/6f612e1d9fcc9b277805dccba3e344567626920ed52498be8bba4bae7098d6df/article.md",
+    "record": "articles/v1/8c/yc-voker/2026/06/6f/6f612e1d9fcc9b277805dccba3e344567626920ed52498be8bba4bae7098d6df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20392,
+    "sha256": "sha256:6f8d8731fd95fc6cbc96a700f24f882a47bc12f54d8dc5fb30ddc8c398901ace",
+    "normalized_content_hash": "sha256:7b7a03c2693fe18a9727bb630434a4d00ad92b9a782b231cea3ad455a5788a86"
+  },
+  "provenance": {
+    "source_item_id": "1f6ce34e-bd18-40e2-ad26-d93bee4e1260",
+    "external_id": "https://voker.ai/blog/putting-skillopt-to-the-test"
+  }
+}

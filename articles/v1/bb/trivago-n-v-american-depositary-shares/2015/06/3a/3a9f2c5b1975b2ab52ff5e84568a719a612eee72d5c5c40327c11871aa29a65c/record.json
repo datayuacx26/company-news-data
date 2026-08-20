@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a9f2c5b1975b2ab52ff5e84568a719a612eee72d5c5c40327c11871aa29a65c",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2015-06-22-gollum/",
+    "canonical": "https://tech.trivago.com/post/2015-06-22-gollum/"
+  },
+  "title": "Introducing Gollum: A NxM message multiplexer written in Go",
+  "summary": "Here at trivago we write a huge number of log messages every day that need to be stored and monitored. To handle all these messages we created Gollum, a tool that enables us to conveniently send...",
+  "published_at": "2015-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:37.879348+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/06/3a/3a9f2c5b1975b2ab52ff5e84568a719a612eee72d5c5c40327c11871aa29a65c/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/06/3a/3a9f2c5b1975b2ab52ff5e84568a719a612eee72d5c5c40327c11871aa29a65c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18650,
+    "sha256": "sha256:88b4127aed479c16bdc3f2c1c7c5f01c811769caa2656a676170d48bf168abfe",
+    "normalized_content_hash": "sha256:6796a16bd8fd60eaf3d25689fefb75a6e385b335f38a5b4de7c77ccaa2bce46d"
+  },
+  "provenance": {
+    "source_item_id": "caf9bd41-c9bf-42c9-a961-195daca902a2",
+    "external_id": "https://tech.trivago.com/post/2015-06-22-gollum/"
+  }
+}

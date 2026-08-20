@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af1b8ef45e8f6662c09d3766bc5c1e587d085923d702fd4a4d9a42f1bb58db4d",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/workload-protection-ebpf-fim/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/workload-protection-ebpf-fim/"
+  },
+  "title": "Scaling real-time file monitoring with eBPF: How we filtered billions of kernel events per minute",
+  "summary": "Learn how Datadog scaled eBPF-powered file monitoring to handle more than 10 billion kernel events per minute while preserving full detection coverage.",
+  "published_at": "2025-11-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:25:12.063826+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/11/af/af1b8ef45e8f6662c09d3766bc5c1e587d085923d702fd4a4d9a42f1bb58db4d/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/11/af/af1b8ef45e8f6662c09d3766bc5c1e587d085923d702fd4a4d9a42f1bb58db4d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13332,
+    "sha256": "sha256:ef996c640fe4d931c1db121e4839d9b50e02b14382d1ffa09efe16fab588b361",
+    "normalized_content_hash": "sha256:5a443f109d6c62c5e2ed7aa2edcaee1c35879940ada4589404f332997649ab2f"
+  },
+  "provenance": {
+    "source_item_id": "a89e74d8-de2c-40dd-9abc-70c7bcf24c52",
+    "external_id": "https://www.datadoghq.com/blog/engineering/workload-protection-ebpf-fim/"
+  }
+}

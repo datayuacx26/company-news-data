@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "553fd9065660ee61ab48537902ce2446499b86d487f5f9705dacb9c6b1b4291e",
+  "company": {
+    "key": "yc-taktile",
+    "name": "Taktile"
+  },
+  "source": {
+    "id": "yc-taktile-news-import-01317932feb4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://engineering.taktile.com/blog/llm-wiki-agent-memory/",
+    "canonical": "https://engineering.taktile.com/blog/llm-wiki-agent-memory/"
+  },
+  "title": "We gave our agent a memory: building an LLM Wiki over sources that never sit still",
+  "summary": "Our agent kept re-deriving the same answers from scratch, burning minutes and dollars on every question. So we gave it a persistent memory. Here's how we built it, how we tested four ways to search it, and what changed.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:38:54.472601+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-20T00:37:36.752881+00:00",
+  "paths": {
+    "article": "articles/v1/87/yc-taktile/2026/07/55/553fd9065660ee61ab48537902ce2446499b86d487f5f9705dacb9c6b1b4291e/article.md",
+    "record": "articles/v1/87/yc-taktile/2026/07/55/553fd9065660ee61ab48537902ce2446499b86d487f5f9705dacb9c6b1b4291e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11687,
+    "sha256": "sha256:39a1eaa4ddf341d12801232a4e78102fe6d27e986a10c0c72e4c7d184cff6c76",
+    "normalized_content_hash": "sha256:576e6e92f108cd74d8218c34b3f21e04cce476425bfff846dc41e09ac86314ce"
+  },
+  "provenance": {
+    "source_item_id": "24e10252-379e-4d2f-badf-8d9e56a228b7",
+    "external_id": "https://engineering.taktile.com/blog/llm-wiki-agent-memory/"
+  }
+}

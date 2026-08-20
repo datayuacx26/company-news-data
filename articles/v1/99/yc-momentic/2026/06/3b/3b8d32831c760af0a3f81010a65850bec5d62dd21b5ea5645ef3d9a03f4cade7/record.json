@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3b8d32831c760af0a3f81010a65850bec5d62dd21b5ea5645ef3d9a03f4cade7",
+  "company": {
+    "key": "yc-momentic",
+    "name": "Momentic"
+  },
+  "source": {
+    "id": "yc-momentic-news-import-348aec23cbaf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://momentic.ai/blog/postgres-to-clickhouse-migration",
+    "canonical": "https://momentic.ai/blog/postgres-to-clickhouse-migration"
+  },
+  "title": "How We Ditched Postgres for ClickHouse to Process 12 Billion Caches Per Day",
+  "summary": "From Postgres pain to ClickHouse speed: how we re-architected caching to serve 2M+ cache queries and 20B entries per day, while maintaining ~250ms average resolution latency.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:02:31.373763+00:00",
+  "fetched_at": "2026-08-19T18:58:31.052183+00:00",
+  "last_updated_at": "2026-08-19T18:58:33.250833+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-momentic/2026/06/3b/3b8d32831c760af0a3f81010a65850bec5d62dd21b5ea5645ef3d9a03f4cade7/article.md",
+    "record": "articles/v1/99/yc-momentic/2026/06/3b/3b8d32831c760af0a3f81010a65850bec5d62dd21b5ea5645ef3d9a03f4cade7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8330,
+    "sha256": "sha256:a85d34c2f2ae861223c965ea05f32547bac77d20e83da85c88ee9385bea8a5ee",
+    "normalized_content_hash": "sha256:6baff65f1b9adfdffa6a8d8fec02bb1f7a8413df43670455d0d5a62e18919e09"
+  },
+  "provenance": {
+    "source_item_id": "f92df0cb-ff33-49df-9191-f98a65268045",
+    "external_id": "https://momentic.ai/blog/postgres-to-clickhouse-migration"
+  }
+}

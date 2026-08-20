@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-martin",
+    "name": "Martin"
+  },
+  "record_count": 13,
+  "first_published_at": "2024-09-05T00:00:00+00:00",
+  "last_published_at": "2025-04-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/89/yc-martin/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 12734,
+        "sha256": "sha256:906bc5b8b4e90521ff9f150a20471a9627e5f3d1f31f13212321ab48227e1e5e",
+        "newest_at": "2025-04-23T00:00:00+00:00",
+        "oldest_at": "2024-09-05T00:00:00+00:00"
+      }
+    ]
+  }
+}

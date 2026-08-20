@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "765c1b120d132f0600f3fcefe1c4b75645ff9af92bb3d202dadb36d36b776a63",
+  "company": {
+    "key": "yc-frekil",
+    "name": "Frekil"
+  },
+  "source": {
+    "id": "yc-frekil-rss-a6f9e192a2a2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.frekil.com/blog/causal-inference-real-world-data-propensity-scores",
+    "canonical": "https://www.frekil.com/blog/causal-inference-real-world-data-propensity-scores"
+  },
+  "title": "Causal Inference in Real-World Evidence: From DAGs to Target Trials",
+  "summary": "A practical walkthrough of causal inference for RWE: why naive comparisons fail, how DAGs clarify assumptions, and how target trial emulation turns messy data into a credible study design.",
+  "published_at": "2026-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T05:42:05.860173+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-20T00:44:05.643424+00:00",
+  "paths": {
+    "article": "articles/v1/a0/yc-frekil/2026/04/76/765c1b120d132f0600f3fcefe1c4b75645ff9af92bb3d202dadb36d36b776a63/article.md",
+    "record": "articles/v1/a0/yc-frekil/2026/04/76/765c1b120d132f0600f3fcefe1c4b75645ff9af92bb3d202dadb36d36b776a63/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13998,
+    "sha256": "sha256:e43e20090d24c035ef2f9080d8955743599b8902f0c322a830f99eb7d4a2e06f",
+    "normalized_content_hash": "sha256:7b17f57812b8e562ebff13ecb47605aa0eddcb690e63a8e01eb766884db1334a"
+  },
+  "provenance": {
+    "source_item_id": "0337de26-2685-44b0-9bfa-824af0eff2ab",
+    "external_id": "https://www.frekil.com/blog/causal-inference-real-world-data-propensity-scores"
+  }
+}

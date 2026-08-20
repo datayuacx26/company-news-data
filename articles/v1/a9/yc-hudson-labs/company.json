@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-hudson-labs",
+    "name": "Hudson Labs (formerly Bedrock AI)"
+  },
+  "record_count": 48,
+  "first_published_at": "2026-06-03T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 24
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 16
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/yc-hudson-labs/index/pages/000001.json",
+        "record_count": 48,
+        "byte_count": 51570,
+        "sha256": "sha256:b3a7d8195f656e02d5e94ed6c92ad8f2e24ce43978068f5e9923accfdd6b9951",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-06-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

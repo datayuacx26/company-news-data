@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24f3c39813f0b0ab2e9ac4dbb26791933d54beebb10bd33d1ca36efd3572a440",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/real-time-iceberg-ingestion-with-aws-dms",
+    "canonical": "https://etleap.com/blog/real-time-iceberg-ingestion-with-aws-dms"
+  },
+  "title": "Real-time Iceberg ingestion with AWS DMS",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T18:50:49.183689+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-19T17:45:57.423913+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/24/24f3c39813f0b0ab2e9ac4dbb26791933d54beebb10bd33d1ca36efd3572a440/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/24/24f3c39813f0b0ab2e9ac4dbb26791933d54beebb10bd33d1ca36efd3572a440/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11973,
+    "sha256": "sha256:f6c6233fc9ff0db54d67aa18f7248e6764d0531099be10daf57e3d56068ec0db",
+    "normalized_content_hash": "sha256:f880d45cdecb284269d32c6f23f49704e0b56f13f12e2bda3ec9d35902e4e9d3"
+  },
+  "provenance": {
+    "source_item_id": "ab04fab7-5601-4c98-8328-465b2b674d90",
+    "external_id": "https://etleap.com/blog/real-time-iceberg-ingestion-with-aws-dms"
+  }
+}

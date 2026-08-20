@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d141c75c5d88e07f81cf0845bd6dd27a1e5de40daaefae01d5a96b58f428011b",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ducklake-scheduled-maintenance",
+    "canonical": "https://www.windmill.dev/changelog/ducklake-scheduled-maintenance"
+  },
+  "title": "Scheduled Ducklake maintenance",
+  "summary": "Ducklakes can now run scheduled maintenance to keep growth in check - snapshot expiry with a configurable retention window (default 7 days), compaction of adjacent small parquet files, and orphaned file cleanup. Configured per lake in the workspace Ducklake settings with a cron cadence (default daily at 03h UTC) and executed as observable jobs whose run history is the audit trail. Enterprise feature.",
+  "published_at": "2026-07-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/d1/d141c75c5d88e07f81cf0845bd6dd27a1e5de40daaefae01d5a96b58f428011b/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/d1/d141c75c5d88e07f81cf0845bd6dd27a1e5de40daaefae01d5a96b58f428011b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2427,
+    "sha256": "sha256:c94bc466e4c8f2c4bdbb7e3a454899c3b889634a2470f0cc2cf1d88ad6baccaf",
+    "normalized_content_hash": "sha256:7c6115ccd0c87d00925da975fd0d8791d16256d0eab9a1c1277efbe0ffb42e4e"
+  },
+  "provenance": {
+    "source_item_id": "af83809a-24d0-4093-87e8-475ad55499e6",
+    "external_id": "https://www.windmill.dev/changelog/ducklake-scheduled-maintenance"
+  }
+}

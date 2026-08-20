@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87158e97d54aaeedcd9635a3c3faba57a4a2b7f0d3bb1e7d7b88c49ff3a92043",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/secure-openclaw",
+    "canonical": "https://www.firecrawl.dev/blog/secure-openclaw"
+  },
+  "title": "Is OpenClaw Safe? 7 Real Vulnerabilities and How to Fix Them",
+  "summary": "Seven documented OpenClaw security risks with proof and a specific fix for each one, from gateway exposure to config drift.",
+  "published_at": "2026-04-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-07-28T21:57:34.054474+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/04/87/87158e97d54aaeedcd9635a3c3faba57a4a2b7f0d3bb1e7d7b88c49ff3a92043/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/04/87/87158e97d54aaeedcd9635a3c3faba57a4a2b7f0d3bb1e7d7b88c49ff3a92043/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28005,
+    "sha256": "sha256:1910f2b2e94ae3e1c805134d1f4276f48c0f18bdb9da4c7cf25ec4f2e2d5c9c8",
+    "normalized_content_hash": "sha256:1413f8cf7e7c94be112d7d6b3fa2dc315aea5cd32a098b4509c16e394998e95e"
+  },
+  "provenance": {
+    "source_item_id": "6059f702-754f-4068-8f3f-1ba86ca2e7bb",
+    "external_id": "https://www.firecrawl.dev/blog/secure-openclaw"
+  }
+}

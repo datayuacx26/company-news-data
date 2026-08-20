@@ -1,0 +1,140 @@
+---
+schema_version: "1.0.0"
+document_id: "2f0bb8bdab2c3f7a3ac1238178902083d6747a000688f31b7bc0b52ab5bf3731"
+company_key: "trivago-n-v-american-depositary-shares"
+company: "trivago N.V."
+source_id: "trivago-n-v-american-depositary-shares-rss-0be0766927d8"
+canonical_url: "https://tech.trivago.com/post/2016-01-19-logstash_protobuf_codec/"
+published_at: "2016-01-19T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:19:44.896445+00:00"
+fetched_at: "2026-07-28T22:27:32.834035+00:00"
+content_hash: "sha256:07cfedb6ed9ac4f5e0a8f2aa6051f6d820bd03d09df38c50f25dfb633bfa77b3"
+---
+
+# Better Log Parsing with Logstash and Google Protocol Buffers
+
+At trivago we rely heavily on the ELK stack for our log processing. We stream our webserver access logs, error logs, performance benchmarks and all kind of diagnostic data into Kafka and process it from there into Elasticsearch using Logstash. Our preferred encoding within this pipeline is Google’s[Protocol Buffers](https://developers.google.com/protocol-buffers/) , short protobuf. In this blog post, we will explain with an example how to read protobuf encoded messages from Kafka using Logstash.
+
+
+Protobufs are an efficient serialization format for data with known structure. More and more of our Kafka traffic is becoming encoded using Protocol Buffers. The advantage of using protocol buffer encoded messages is that the messages are shorter than most other log formats. A JSON message, for example, requires key names plus a lot of curly braces to describe the document structure. Given that document structures are not likely to change a lot, this is a waste of ressources. When sender and receiver agree on a document layout, transmitting the skeleton of the document becomes unnecessary. Ressources can be saved along the whole log processing toolchain. Secondly, any consumer of the data can rely on the promise that all messages will be of a certain structure and that there will be no surprising additional fields and no renamed field names. There is much less potential for misunderstandings of the contents of a log message.
+
+
+Unfortunately, Logstash does not natively understand the protobuf codec. It currently supports plain and[JSON messages](https://github.com/logstash-plugins/logstash-codec-json) and some other formats. So we decided to write our own codec to match our decoding needs.
+
+
+## How to write a Logstash codec
+
+
+Writing a new Logstash plugin is quite easy. You will need some basic Ruby knowledge, but it’s absolutely possible to aquire that on the fly while looking at the example source code. A helpful website for learning some Ruby for beginners has been[tryruby.org](http://tryruby.org/) . You will also have to install Jruby on your development machine. Other requirements, such as bundler are described in[elastic’s documentation](https://www.elastic.co/guide/en/logstash/current/_how_to_write_a_logstash_codec_plugin.html) . Don’t be frustrated when you discover that the example github codec skeleton project is empty. Clone the repository for the[JSON codec](https://github.com/logstash-plugins/logstash-codec-json) or the[plain codec](https://github.com/logstash-plugins/logstash-codec-plain) instead. This way you’ll also see how the existing codec plugins are made up and learn a little Ruby on the way.
+
+
+### Get the protobufs into your Logstash
+
+
+You can download the final plugin for protobuf decoding[here](https://github.com/trivago/logstash-codec-protobuf) . For using this plugin you will need some protobuf definitions and some protobuf encoded messages. If you already have an application which sends protobuf data then you only need to create Ruby versions of your already existing protobuf definitions. If your application is not set up yet, you might want to take a protobuf primer at[Google’s developer pages](https://developers.google.com/protocol-buffers/?hl=en) , find the toolchain which fits your programming language and create protocol buffer definitions for your document’s structure.
+
+
+### Install the plugin
+
+
+Download the gemfile from[rubygems](https://rubygems.org/gems/logstash-codec-protobuf) . In your Logstash directory, execute the following command:
+
+
+```text
+bin/plugin   install   PATH_TO_DOWNLOADED   FILE
+```
+
+
+The codec supports both Logstash 1.x and 2.x.
+
+
+### Create Ruby versions of your protobuf definitions
+
+
+Imagine the following` unicorn.pb` is your existing protobuf definition that you want to decode messages for:
+
+
+```text
+package Animal;
+
+
+message Unicorn {
+
+
+// colour of unicorn
+optional string colour: 1;
+
+
+// horn length
+optional int32 horn_length: 2;
+
+
+// unix timestamp for last observation
+optional int64 last_seen: 3;
+
+
+}
+```
+
+
+Download the[ruby-protoc](https://github.com/codekitchen/ruby-protocol-buffers) compiler. Then run
+
+
+```text
+ruby-protoc   unicorn.pb
+```
+
+
+The compiler will create a new file with the extension .rb, such as` unicorn.rb.pb` . It contains a Ruby version of your definition:
+
+
+```text
+#!/usr/bin/env ruby
+# Generated by the protocol buffer compiler. DO NOT EDIT!
+
+
+require   'protocol_buffers'
+
+
+module   Animal
+# forward declarations
+class   Unicorn   <   ::ProtocolBuffers::Message  ;   end
+
+
+class   Unicorn   <   ::ProtocolBuffers::Message
+set_fully_qualified_name   "animal.Unicorn"
+
+
+optional   :string  ,   :colour  ,   1
+optional   :int32  ,   :horn_length  ,   2
+optional   :int64  ,   :last_seen  ,   3
+end
+
+
+end
+```
+
+
+Now you need to make this file known to Logstash by providing its location in the configuration.
+
+
+## Logstash configuration
+
+
+You can use the codec in any input source for Logstash. In this example, we will use Kafka as the data source. Our config for reading messages of the protobuf class Unicorn looks like this:
+
+
+```text
+{
+zk_connect:> "127.0.0.1"
+topic_id:> "unicorns_protobuffed"
+codec:> protobuf
+{
+class_name:> "Animal::Unicorn"
+include_path:> ['/path/to/compiled/protobuf/definitions/unicorn.pb.rb']
+}
+}
+```
+
+
+A more sophisticated example can be found in the[documentation on GitHub](https://github.com/trivago/logstash-codec-protobuf) . Now fire up your Logstash and let us know how it works! :)

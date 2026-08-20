@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "76946e9a568a03901c89069f309b13423a1923379d8b9e338eceff766668e948",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/openrouter-and-stripe",
+    "canonical": "https://stripe.com/newsroom/news/openrouter-and-stripe"
+  },
+  "title": "Stripe powers OpenRouter’s global AI model access for millions of developers",
+  "summary": "OpenRouter, a platform that gives over 5 million developers access to hundreds of AI models through a single interface, is building on Stripe to support its revenue growth, global expansion, and fraud protection.",
+  "published_at": "2026-01-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:06:01.421437+00:00",
+  "fetched_at": "2026-07-28T22:22:56.687510+00:00",
+  "last_updated_at": "2026-08-20T02:16:33.048642+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/01/76/76946e9a568a03901c89069f309b13423a1923379d8b9e338eceff766668e948/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/01/76/76946e9a568a03901c89069f309b13423a1923379d8b9e338eceff766668e948/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3343,
+    "sha256": "sha256:c0e30da435df94aaf78b6daa31fe8b428e2563cf1b2737b310e2fa5f66083ace",
+    "normalized_content_hash": "sha256:5e80e58524f98a589ce24bee793f316659fa50a71919bddfdb55b3806bc015a2"
+  },
+  "provenance": {
+    "source_item_id": "b2da9ca9-ff36-45f3-b971-34067ba9c6d4",
+    "external_id": "https://stripe.com/newsroom/news/openrouter-and-stripe"
+  }
+}

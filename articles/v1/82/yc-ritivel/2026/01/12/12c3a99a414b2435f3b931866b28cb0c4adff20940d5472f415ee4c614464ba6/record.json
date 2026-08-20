@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12c3a99a414b2435f3b931866b28cb0c4adff20940d5472f415ee4c614464ba6",
+  "company": {
+    "key": "yc-ritivel",
+    "name": "Ritivel"
+  },
+  "source": {
+    "id": "yc-ritivel-news-import-f2b2dd915304",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ritivel.com/blog/retrieval-benchmark-confusable-drug-names",
+    "canonical": "https://www.ritivel.com/blog/retrieval-benchmark-confusable-drug-names"
+  },
+  "title": "Why Drug Name Confusion Breaks RAG Systems — And How to Fix It",
+  "summary": "Standard retrieval fails on 50% of queries involving similar drug names. Context-enriched retrieval cuts that failure rate by 80%. Here's what we learned building a benchmark to test it.",
+  "published_at": "2026-01-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T23:10:20.911041+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-08-19T22:01:46.035199+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-ritivel/2026/01/12/12c3a99a414b2435f3b931866b28cb0c4adff20940d5472f415ee4c614464ba6/article.md",
+    "record": "articles/v1/82/yc-ritivel/2026/01/12/12c3a99a414b2435f3b931866b28cb0c4adff20940d5472f415ee4c614464ba6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11768,
+    "sha256": "sha256:4ac992219d4d9f370ec0e1b55f72d7fa2a2667388a0b727ac210937c2b260f9a",
+    "normalized_content_hash": "sha256:6fd455a0bb19395a008cf77830049b2e7a48bfa41ffe67a14a4af1aac2549783"
+  },
+  "provenance": {
+    "source_item_id": "263b9f2b-6f64-462f-b512-744797dbc96a",
+    "external_id": "https://www.ritivel.com/blog/retrieval-benchmark-confusable-drug-names"
+  }
+}

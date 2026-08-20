@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf1c61590a4f0eca579f2b1b084a6b98c26b7a012d0020e6556ee21db8926e94",
+  "company": {
+    "key": "yc-supertokens",
+    "name": "SuperTokens"
+  },
+  "source": {
+    "id": "yc-supertokens-news-import-aefd79906d61",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://supertokens.com/blog/session-hijacking-fixation",
+    "canonical": "https://supertokens.com/blog/session-hijacking-fixation"
+  },
+  "title": "Mastering Session Security: SuperTokens’ Attack Mitigation",
+  "summary": "Stop session hijacking and fixation with a layered plan: timeouts, cookie flags, rotation, and SuperTokens’ theft detection for secure authentication sessions.",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T22:54:12.971215+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-20T01:07:11.715587+00:00",
+  "paths": {
+    "article": "articles/v1/86/yc-supertokens/2026/07/cf/cf1c61590a4f0eca579f2b1b084a6b98c26b7a012d0020e6556ee21db8926e94/article.md",
+    "record": "articles/v1/86/yc-supertokens/2026/07/cf/cf1c61590a4f0eca579f2b1b084a6b98c26b7a012d0020e6556ee21db8926e94/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15625,
+    "sha256": "sha256:995c1a053f20cc69b4aed6db1174e0a0ac65104fed281effae6f5a634ebb373b",
+    "normalized_content_hash": "sha256:cc90ad3fb18fcbfb8ffb2788d708714eb97b7ed3c935a678e835ab2fba687a44"
+  },
+  "provenance": {
+    "source_item_id": "e54015ef-746f-4ccb-bedc-258dcd02b5a6",
+    "external_id": "https://supertokens.com/blog/session-hijacking-fixation"
+  }
+}

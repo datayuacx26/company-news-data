@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-kaizen",
+    "name": "Kaizen"
+  },
+  "record_count": 28,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 27
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/87/yc-kaizen/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 27847,
+        "sha256": "sha256:25ec4d864ee3a00bd91e647ad0972e9b43d26ab251a7ec37543b4ab790557b5d",
+        "newest_at": "2026-08-14T05:28:16.718424+00:00",
+        "oldest_at": "2026-07-28T21:18:37.293716+00:00"
+      }
+    ]
+  }
+}

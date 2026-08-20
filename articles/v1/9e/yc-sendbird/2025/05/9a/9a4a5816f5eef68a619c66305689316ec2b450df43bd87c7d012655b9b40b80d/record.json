@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9a4a5816f5eef68a619c66305689316ec2b450df43bd87c7d012655b9b40b80d",
+  "company": {
+    "key": "yc-sendbird",
+    "name": "Sendbird"
+  },
+  "source": {
+    "id": "yc-sendbird-news-import-8f7056c4fa29",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sendbird.com/blog/global-edge-proxy",
+    "canonical": "https://sendbird.com/blog/global-edge-proxy"
+  },
+  "title": "Sendbird Global Edge Proxy Architecture: Testing & Results",
+  "summary": "Discover how Sendbird re-architected its global communication network with a unified edge proxy to improve cost efficiency, control, & observability.",
+  "published_at": "2025-05-22T17:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:12:22.102175+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T21:13:45.706567+00:00",
+  "paths": {
+    "article": "articles/v1/9e/yc-sendbird/2025/05/9a/9a4a5816f5eef68a619c66305689316ec2b450df43bd87c7d012655b9b40b80d/article.md",
+    "record": "articles/v1/9e/yc-sendbird/2025/05/9a/9a4a5816f5eef68a619c66305689316ec2b450df43bd87c7d012655b9b40b80d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18763,
+    "sha256": "sha256:85822d39ee21d8247c41938903ae933df6d0439ab7d808b889b4681a5e2c0694",
+    "normalized_content_hash": "sha256:a928833947be33689d57640390f0ecd04c54f1ed4a0997ef0ea838d34bf08fd9"
+  },
+  "provenance": {
+    "source_item_id": "ede3a0ee-4b9f-4cf8-a69d-4e084c5827c7",
+    "external_id": "https://sendbird.com/blog/global-edge-proxy"
+  }
+}

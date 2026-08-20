@@ -1,0 +1,66 @@
+---
+schema_version: "1.0.0"
+document_id: "8631bfcf91c22c9e7191fb0c4e7c0bdf5f95d38399d09ce54d0690c52dc53729"
+company_key: "ibio-inc-common-stock"
+company: "iBio Inc."
+source_id: "ibio-inc-common-stock-rss-591c1500b560"
+canonical_url: "https://ir.ibioinc.com/news-events/press-releases/detail/254/ibio-to-participate-in-upcoming-investor-conferences"
+published_at: "2026-02-24T12:00:00+00:00"
+first_seen_at: "2026-07-20T23:19:52.798351+00:00"
+fetched_at: "2026-07-28T22:03:45.188546+00:00"
+content_hash: "sha256:3bd1966276421501de22a0cfe1edd0d768835d50fd391f92d54922114c0f5421"
+---
+
+# iBio to Participate in Upcoming Investor Conferences
+
+# iBio to Participate in Upcoming Investor Conferences
+
+
+February 24, 2026 7:00am EST
+
+
+SAN DIEGO, Feb. 24, 2026 (GLOBE NEWSWIRE) --[iBio, Inc.](https://www.globenewswire.com/Tracker?data=GmYWHE-n_t2-caF_vBAgDUKSi5zWFQjFNSvL2w4DNj57XsBvw6P4Z2F0oGID07nbtIDTC53N36E2UfgLt0sIiQzwRD76VusjoQNWG0ZFO6u97N-0XDM5mj9_7W0DUwpYlF7dyh5Mvzl0h1zDM027fn3p8d5c6xjWMSX3chna1J3O8vkwpTsm8LeTSBW9-c9QJaBdTE5DEGR4u5VJP-oCIFV2_KG5k3wOOC6Q6XGcBas=) **(NASDAQ: IBIO),** an AI-driven innovator of precision antibody therapies, today announced that Martin Brenner, DVM, Ph.D., Chief Executive Officer and Chief Scientific Officer, and Felipe Duran, Chief Financial Officer, will participate in fireside chats at the Oppenheimer 36th Annual Healthcare Life Sciences Conference and the Leerink Global Healthcare Conference.
+
+
+**Oppenheimer 36** **th** **Annual Healthcare Life Sciences Conference**
+Presentation Date: Thursday, February 26, 2026
+Time: 2:00 p.m. ET
+Location: Virtual
+A livestream of the event can be accessed[here](https://www.globenewswire.com/Tracker?data=8ktRzw-YomSsOpi4cBEbuFv3hDOvty45XgCuCAmqTzn0_S3igibtQMG346Fqqscw1QD_IVD1ZXze28oGR-TcIXbAqBpKwAA6TSP4F9ZXkHG9PhUzNsbq1jMtIh-MtvnVNpn8SDINp_x4csI2u-vifB13scUzCDJA395R3aGoa1ZKvoicPSNt8cJ-1wA_HPvW) .
+
+
+**Leerink Global Healthcare Conference**
+Presentation Date: Monday, March 9, 2026
+Time: 4:20 p.m. ET
+Location: Miami, FL
+A livestream of the event can be accessed[here](https://www.globenewswire.com/Tracker?data=8ktRzw-YomSsOpi4cBEbuA-FK8LJA-42s4bU2cRpSBklPt7bLIsaQ0ccR91CEO_b9R6xZUDM-kfmKOZ64Y4mHCWL9FGR5vM-PyttQdHe4IEMc9N0XwMIH4hDTGbMqaHDGzavzx8C1VmY_CCFqTPFYDghswn7yRaiZDc2o_bRDlHQK2Sn3hEQ6rZZjb29PRhy) .
+
+
+Dr. Brenner and Mr. Duran will be available for one-on-one meetings during both conferences.
+
+
+A link to access each of the replays will be available on the[Investor section](https://www.globenewswire.com/Tracker?data=NCwfBcDZ2B7_MCfVm8f7xLWLvb8GkMxpBZxF25lcifprjnG9QoI2cdxQ7TwvX81FOrHq6MfqLDGOf6lVoloGWbJCx3lVTU9f4a6d8vFOKHDYJtlpE5DI5EnSR-4odl86) of the iBio website for 90 days after the event.
+
+
+**About iBio, Inc.**
+
+
+iBio (Nasdaq: **IBIO** ) is a cutting-edge biotech company leveraging AI and advanced computational biology to develop next-generation biopharmaceuticals for cardiometabolic diseases, obesity, cancer and other hard-to-treat diseases. By combining proprietary 3D modeling with innovative drug discovery platforms, iBio is creating a pipeline of breakthrough antibody treatments to address significant unmet medical needs. iBio’s mission is to transform drug discovery, accelerate development timelines, and unlock new possibilities in precision medicine. For more information, visit[www.ibioinc.com](https://www.globenewswire.com/Tracker?data=0M8vJNiQN7Epgf6QxIPmQmgeCkZJMdGJ0xWUtqDXleHwuMGPwJwz_jL96y-Q9tB8xlljIfJN59AUDDhkgy3bOhVZwilUrwtg1rUxVgf-45Lbvwvw29lbhnA-5wotkffZjloXveSlf25WTABJ4R633TWh8u7NaIydVDPkx6Bbd6Qk1jGNe_VS1Wjrb0Twhn7U7afkfZi9zddQYLwaZYj_1JJHGs5q6Y8QjAwLjCLePG_g-dLXMbsfv7QmCys5gsq-d8_13uhqjtNYcP84FXEI1oB3Dw0Iz9-DoaXnz6FoqJ6gusmqXTTAqZCHDL87eou1k6fDMsv_kfi8HAGSmBGzIggaS3wGtvBfhOKR0zsm9xjBZ1R36-iwHsAQAWV7E9XJoA7Lj8mvSIiVRar_5sVxk3SJGYDEkGRGt5vhXX1mXnP_wMcy1naE2813DMv84LSb) or follow us on[LinkedIn](https://www.globenewswire.com/Tracker?data=_bgU8RmGfNJYuPQiDE40GxsFw65WnaQnaLKpyb7Dj9aIcZ9zuA_ybAOp7hyWiyWH9feQMMRLg-9y6F9yE4kmF9JEuLjuOtA4x_BR3p66jEwBDp6fsRp5z08B5nZfdDa1hw1UfBI3DxIbbRkQdi_PR8ZfF36MQuMeVAq8YH_vwHSJtJAJA_kLy4GjizeJys8gd8H5QI2XzSK1CV_irCSlkYRdYRYW0U8YBYIiJ3NhonfI3Ttmzf7AcJNMxHTJ7eYtCZNzhJZ3K6saUtYz-fg86DEm0i78XyF0FuY3i9AxbPuEnEcmHP6wzs9Bu0rxe7h0OVdPmKWplLT_2a_KMGRhF4BxysWSGnbVwNs0vRczE8LNvPAL08hFayoR3qhD2XL13WtERumH54jw33NFk_P_gd6VEVXeOFBdz2n5QM-5FTh06pspM8kmZ-3e_jP7o3LEavYOjI7rh-BjJaqa8V3ho2vPeGgc-_FA9yp0irM8pvY=) .
+
+
+**Corporate Contact:**
+iBio, Inc.
+Investor Relations
+[ir@ibioinc.com](https://www.globenewswire.com/Tracker?data=zHOj6od-5B4eSq36hbm5p1psks780w5akhAt27pemXViCGhMIyxColpTRbAGwjVJrd2Sy5cji64rF9VTiimiazbADWuYnSp5dAQb4vg-8smmrUugRlGPZZy3tV681acyjzJoqb9K88rPlYFET4t29otyiWW473z9WCoPbZNro1aO2j_aNHT4zOEVQWeYlApY-FG5lyPMCkCic9GA-DHTmdqdrxlDgLjPZoBKUSe8y7xNrPoD4DwmAvLkgX-PNp1miVQB_VLe13-n0caUYKjHgexVtyFwtEK6AXSnUJvLtzkjeuitr5sL331X8sPGGT6sHKzOEQegpZ1EQbp_qt7zN6_3BLbw0DqraDCxySq6IYFve-hZk6OZ2solftVWJ0PJUKLuZqumW-SV1CWvESsZLRb31ynMdbRDw-QF8ojkiuYCN6X02o8rx646pFo6UsMyB2KDBR35iVZLP0HI8C6V-rzVrA38QddvioaekLix_r8CR6m0Ffnk-9c_SZI-o1M9HWZ-Lae5wkMXlSOnkowsGi3A_TPlXpjxOvuu1wkQDPqVGChhKAUUUzZZv0N1otl37W9xSfS8AcJhcHIojPB4KSYquUuqnq8Ddl6RkUg-fhuwHLPRU_e6PX_1lkoncHyslwOnA7G7U6r6oLTSfdh3ClDJEXvnVTSyWpoT6rRxhFk2GycSen3am4Asm6AtwQoY2vYfiiVlxP01AYdnCEspxKe2WgJokhgAGkYkg8i4Pmxt6kYVlCa7bi3tP7KgtDvtu7-YfeYpEY7tz5TP7sQrZjo9OD5YBTXbm1n4CHq0So8hMc0UW3FZpKW0LxnWJTai3N5rdAyPDHXZaG8kZiviuvf9oVZl9SCxEaTyKCDaldRmox7VV5r4STMzmgX6vCsfcaFYuXjc1tzFILVUQN-OH1Ad84G2ykpBThfzKv9eIJhTd4PIHXPuUtcHwedMB4DJ_VfEsqG6fsKISq4D8csb1yFEyI-QrJzCRjqJyfYkYbDjc0T4iGa5myVCcZGZ3PVoI2PVUsq1I90oAR0c3YXsmWhtkaw1pSmGhyVmdbs1uUgH63RhvV4aSLE_aYcISPegaqBsCAYMI9wwP5kwQ9__hjqUN3audFTAMNQ5z_IJ9lcVlQb9tVwiFq0-gtrrH8v_ZyWQMHqDAii32DRSUOPWTjMGxW2YKNvtNsnk6kqbDQ91RLZXLBOaBP6IkadUAy0tSxig89UvqlogIG7gPN0I8I_3tHl4NEo3RHXZxnfwc_mOBC_1xPXwFRbd0hNfBY_47BdEUO6fbbbJJ8WqY8t70B3AHYYCmZ1zD9qQhX4mkxcj3p9hMsnqu4F8wV3DbPRgp3OqA7qWu9eSihjQI2oJLy4zfZkbmOZ3DgcHBhqUJ3wkpLxSMEg-kwcqKl7yPx8pKDT8g7OKD9SW5lWze7KpksyMLp9x7QgQDR4pIPUVfc90Rxq7LGvtTSBXRF0Ol5ZfjqdJxby-qrnbXipMFwKxFw==)
+
+
+**Media Contacts:**
+Ignacio Guerrero-Ros, Ph.D., or David Schull
+Russo Partners, LLC
+[Ignacio.guerrero-ros@russopartnersllc.com](https://www.globenewswire.com/Tracker?data=L1I_OZKGz_29Qpqjs_E4HPiCV2H-6-svz_Sfs9H42M4u4OoGFqzsEDXbXguyFdUrzxRjzVR23mX5XJ8uhxmGP1mRayM1Kvk3Z0dWbRyyV51DE1x7hWPRoN2qD1NMZfji1lkCxkSjqns5mUiAd0XG6GPnF3CBpMlF4VrzLJAp5twlGJapSz4c1MnF_yRIM6TeUKhtZGFUN6YKkWF3T7borDilewSOYEPxPCosjVH6tOBpS6le1lhUTnKkpUuJ_2PC7E3Wf7UsChL8zP-RTVurraRLywlIhF_FC0N406g4846zKdIYFtH7x_H2Zdmzm7o3qhVY02F3G6PWrVt77aN1j7gGERoqo1U82P16yrSpHY95-4QvW1Kyqbu_EohTOy4SupCqqWtb-YFXKG4l_g17zJznM3kdn7oQm3no6PbwswWo8apx_rRzTSrB4dm1vxdPI6M2NAXaNyERVBW12CW6PKCEKNQcPRCgNYTsMCp1ufH3PwDQApijZ2QasqEh6ryq8dQYXkRCH4rNOdw-f7cnd7-68q-wtRjcghD6qBE4-O4FlPcnV9VO-Pk73-Xa_0yA5rxIeZUor84Xjn8hUFYhXhnaZNnZ2-HQ9q5k0F2UH7nZgwcNkvNcXq9p51A2Xvk7cY58Ps3z3G3rzwxIKhDsAw==)[David.schull@russopartnersllc.com](https://www.globenewswire.com/Tracker?data=vCmV1Uqvwu8rbqOvdaZL8wANiRWJfZRVgbw-oNahQsW9OuRo7U1gudLzmGNG_FHSusVAyko5cozufrm123BLLcRefTTBsg_jCnV0NPwXGSeHKLE6E3jbgOf9EkwFnrYLKlhPqBCuqtiQFnNWIFS9Mwb1P6dozbKe1OBOYEwwUbIcPTLl0bydurKZyM3-NhV8HVvfwakm2MuZKt6yy-Ufe7NMtvUSURpywXDojWTEaTx20q9eJKdwwZyxypOdxG5H1mhjutIdLQ-L5EEN9ATFlii4QAmTsyDPAwYH7OW_zTBbQIMwG0SNfVBLsH-5ZnlCTtGANzT7YwSCEeH1xqynuiagrc6KZ0_VkPdgNDMcVj9RFTXtVAmhWCx33aiVrKBidhmzaZjhZ-Krr4gUvAinhyzL9bESDZII3hrJii1cqJF51yKPuE4YKgGmGbSOKx7YxBFRcffdz3bAyfA9MdJH_EX9yigeZvioC7HmZx14ZnJjSjWMuhhRA53zUxuZFqL1HwVR2XzEErnms0uK_rTpTLyMsdYm969DDz3qkeHvZ7bfIKg3VIbi8T3jIA0jbr7CVAsTZhK6sxn1EPDgC7jAgA==) (858) 717-2310 or (646) 942-5604
+
+
+Source: iBio, Inc.
+
+
+Released February 24, 2026

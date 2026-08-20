@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f26104c9ad32367089a89b2c4263dce7209a1d53c936f2c72c13f03c0248dfdc",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2015-04-14-timeseries_influxdb/",
+    "canonical": "https://tech.trivago.com/post/2015-04-14-timeseries_influxdb/"
+  },
+  "title": "Realtime metrics with Go: Running InfluxDB in production",
+  "summary": "At trivago we love hotels above everything else, but we also like metrics, we love to measure everything, compare, decide, improve and then rinse and repeat. In this blog entry we are going to d...",
+  "published_at": "2015-04-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:45.809734+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/04/f2/f26104c9ad32367089a89b2c4263dce7209a1d53c936f2c72c13f03c0248dfdc/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/04/f2/f26104c9ad32367089a89b2c4263dce7209a1d53c936f2c72c13f03c0248dfdc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8945,
+    "sha256": "sha256:64e3468bbcf051d9e301f487950e3f00d876870b230eed4f7031491127042255",
+    "normalized_content_hash": "sha256:6e2d8851c36bd49cf787802b5e29090f79bdf86c9c78d937b67279d5778a1627"
+  },
+  "provenance": {
+    "source_item_id": "fe80988d-edc2-4eff-8dac-527ef9f3a4bc",
+    "external_id": "https://tech.trivago.com/post/2015-04-14-timeseries_influxdb/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "newamsterdam-pharma-company-n-v-ordinary-shares",
+    "name": "NewAmsterdam Pharma Company N.V."
+  },
+  "record_count": 14,
+  "first_published_at": "2026-04-08T12:00:36+00:00",
+  "last_published_at": "2026-08-06T20:01:19+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ab/newamsterdam-pharma-company-n-v-ordinary-shares/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 19526,
+        "sha256": "sha256:cb7e523cc8bccb1a81a5c404a5edadb52f1c7f0a2552395d3857c95ff192292a",
+        "newest_at": "2026-08-06T20:01:19+00:00",
+        "oldest_at": "2026-04-08T12:00:36+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b6e913d69506cabd2d2f627c4fef209bd7df549ecf49615209fec1002204d0d",
+  "company": {
+    "key": "yc-sweetspot",
+    "name": "Sweetspot"
+  },
+  "source": {
+    "id": "yc-sweetspot-news-import-95ae5efddaf0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sweetspot.so/articles/fips-140-architecture/",
+    "canonical": "https://www.sweetspot.so/articles/fips-140-architecture/"
+  },
+  "title": "FIPS 140 Compliance Is an Architecture Decision",
+  "summary": "Learn why FIPS 140 compliance requires validated cryptography across all six layers of your stack: OS, service mesh, load balancers, registry, dependencies, and storage.",
+  "published_at": "2026-02-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:23:10.673345+00:00",
+  "fetched_at": "2026-07-28T22:19:31.715486+00:00",
+  "last_updated_at": "2026-08-19T21:14:36.529894+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-sweetspot/2026/02/0b/0b6e913d69506cabd2d2f627c4fef209bd7df549ecf49615209fec1002204d0d/article.md",
+    "record": "articles/v1/ac/yc-sweetspot/2026/02/0b/0b6e913d69506cabd2d2f627c4fef209bd7df549ecf49615209fec1002204d0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9161,
+    "sha256": "sha256:eb5ea64fa114f6a22e73137fd1f891a2b0efa3cd9d5cd3f397b22458d368cfe4",
+    "normalized_content_hash": "sha256:bec6548c3def75257d06d223596236c11c3da39b7069ea2274b33b4a33f5e318"
+  },
+  "provenance": {
+    "source_item_id": "0f290b0e-9ceb-4909-8dda-8f7b37e86262",
+    "external_id": "https://www.sweetspot.so/articles/fips-140-architecture/"
+  }
+}

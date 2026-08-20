@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9fa60e8c48197861ca1931f6512c9df4ec33fd05114712b4e56e2dfaccd8e4ad",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-4f82164f35c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/changelog/cli-run-log-streaming",
+    "canonical": "https://www.buildbuddy.io/changelog/cli-run-log-streaming"
+  },
+  "title": "Run log streaming",
+  "summary": "In addition to build logs, you can now use the bb CLI to stream bazel run executable output to our servers and view live-updating run logs from the UI.",
+  "published_at": "2026-04-21T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:16.628240+00:00",
+  "fetched_at": "2026-07-28T22:15:48.391228+00:00",
+  "last_updated_at": "2026-08-20T03:35:53.428661+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/04/9f/9fa60e8c48197861ca1931f6512c9df4ec33fd05114712b4e56e2dfaccd8e4ad/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/04/9f/9fa60e8c48197861ca1931f6512c9df4ec33fd05114712b4e56e2dfaccd8e4ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1086,
+    "sha256": "sha256:11eb7953a9953eebd28c5a2c48d2e1aec1a6f116833d9e6f659dc995ee3dce77",
+    "normalized_content_hash": "sha256:28e1976946de6ce9634aadbcc6468e525bebb93a33c6e6cd00a915056470436f"
+  },
+  "provenance": {
+    "source_item_id": "e2b3604e-03c0-4e3c-bf8f-0124dc6d8e3e",
+    "external_id": "https://www.buildbuddy.io/changelog/cli-run-log-streaming"
+  }
+}

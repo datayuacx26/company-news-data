@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b9bc89f60e042a01f4f517f7c1d463cf873ba4fffa914bda56e4397c257720d",
+  "company": {
+    "key": "yc-flycode",
+    "name": "FlyCode"
+  },
+  "source": {
+    "id": "yc-flycode-news-import-523b281c6a73",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flycode.com/blog/flycode-vs-redux-payments",
+    "canonical": "https://www.flycode.com/blog/flycode-vs-redux-payments"
+  },
+  "title": "Redux Payments vs FlyCode: Rule-Based Retries vs a Recovery Platform",
+  "summary": "Redux and FlyCode both recover failed payments on Stripe, but they are different categories. Redux is a rule-based retry layer that adds attempts on top of Stripe, which can lower your authorization rate. FlyCode is a full recovery platform: adaptive per-merchant retries, backup cards, outreach, revenue agents, and Slack, across Stripe, Shopify, Recharge, Skio, and Chargebee, powered with partnerships with Visa, Mastercard, Stripe, and Shopify.",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:50:45.349061+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-08-19T23:56:29.146281+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-flycode/2026/06/0b/0b9bc89f60e042a01f4f517f7c1d463cf873ba4fffa914bda56e4397c257720d/article.md",
+    "record": "articles/v1/96/yc-flycode/2026/06/0b/0b9bc89f60e042a01f4f517f7c1d463cf873ba4fffa914bda56e4397c257720d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8709,
+    "sha256": "sha256:e16d7fef4f049019d4996aa799337d1af5864f79facd2478e0b54a6d70ca6899",
+    "normalized_content_hash": "sha256:8b74626ef59dd9f8d10a1108b0aba93a6cded151e397a1d33095990f52bd9640"
+  },
+  "provenance": {
+    "source_item_id": "675253e4-a63e-4ef0-b159-105ae5aee57b",
+    "external_id": "https://www.flycode.com/blog/flycode-vs-redux-payments"
+  }
+}

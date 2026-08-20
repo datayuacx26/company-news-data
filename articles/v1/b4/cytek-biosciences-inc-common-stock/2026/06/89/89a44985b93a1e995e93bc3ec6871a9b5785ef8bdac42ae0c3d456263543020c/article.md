@@ -1,0 +1,272 @@
+---
+schema_version: "1.0.0"
+document_id: "89a44985b93a1e995e93bc3ec6871a9b5785ef8bdac42ae0c3d456263543020c"
+company_key: "cytek-biosciences-inc-common-stock"
+company: "Cytek Biosciences Inc."
+source_id: "cytek-biosciences-inc-common-stock-news-import-5395ed888036"
+canonical_url: "https://cytekbio.com/blogs/news/cytek-biosciences-to-unveil-next-generation-spectral-flow-cytometry-innovations-at-cyto-2026"
+published_at: "2026-06-02T21:12:21+00:00"
+first_seen_at: "2026-07-22T23:56:43.284609+00:00"
+fetched_at: "2026-07-28T21:24:31.593744+00:00"
+content_hash: "sha256:c30dee5385d13f216dc5dbc51ed165312fd99bc7a867d412e73a11f113a63ff6"
+---
+
+# Cytek® Biosciences to Unveil Next-Generation Spectral Flow Cytometry Innovations at CYTO 2026
+
+***New 7-Laser Cytek Borealis™ System With Deep Ultraviolet and Infrared cFluor® Reagents; Cytek Aurora™ Evo System Enhancements for Automation and Workflow Efficiency***
+
+
+**FREMONT, Calif., June 2, 2026**
+
+
+– At
+
+
+[CYTO 2026](https://www.cytoconference.org/)
+
+
+, the industry’s premier flow cytometry conference, spectral flow cytometry leader
+
+
+[Cytek Biosciences, Inc.](https://cytekbio.com/)
+
+
+(Nasdaq: CTKB) will showcase its expanding portfolio of end-to-end cell analysis solutions, including the public debut of a new 7-laser
+
+
+[Cytek Borealis full spectrum flow cytometer](http://cytekbio.com/pages/borealis)
+
+
+, as well as automation-ready configurations of the
+
+
+[Cytek Aurora Evo system](https://cytekbio.com/pages/aurora-evo)
+
+
+.
+
+
+The 39th annual Congress, themed
+
+
+*Cytometry: The Next Wave*
+
+
+, will spotlight emerging technologies shaping the future of the field. Cytek continues to play a central role in that evolution, advancing high-parameter analysis through innovations designed to increase flexibility, scalability, and insight across a wide range of applications.
+
+
+Cytek's Full Spectrum Profiling™ (FSP
+
+
+®
+
+
+) technology has gained widespread adoption among researchers worldwide, with more than 3,900 peer-reviewed publications demonstrating its capacity to uncover deeper biological insights without compromising workflow efficiency or cost effectiveness.
+
+
+**New: Cytek Borealis 7-Laser Full Spectrum Flow Cytometer**
+
+
+CYTO attendees will get a first look at the Cytek Borealis system, a next-generation platform that integrates full spectrum flow cytometry with future cellular imaging capabilities in a single system.
+
+
+Available through an Early Access Program (EAP), this new system with 120 detectors (110 fluorescence and 10 scatter) across seven laser lines - including newly added Deep Ultraviolet (DUV) and Infrared (IR) lasers - expands the range of detectable signals, enabling the development of high-resolution 60-color panels, with the potential to go beyond. To support these expanded optical capabilities, Cytek has developed DUV and IR cFluor reagents optimized for use with the system. These new dyes are now available via EAP for custom panel design and evaluation, with broader commercial availability planned. This allows researchers a fully integrated solution for accessing new spectral space and scaling panel complexity that no other platform currently offers.
+
+
+The platform builds on Cytek’s expertise in high-parameter cytometry with future imaging capabilities acquired through its Luminex ImageStream assets, resulting in a unified system designed to extend what can be learned from a single sample. By incorporating imaging alongside spectral detection, the Cytek Borealis system provides a more complete view of cellular behavior and structure.
+
+
+**New: Cytek Aurora Evo Instrument Configurations with Automation Capabilities**
+
+
+Cytek will also highlight new automation and throughput enhancements to the Cytek Aurora Evo platform. The updates on the new configurations aim to enable integration of full spectrum flow cytometry into automated environments, adding scalability and reducing the need for manual involvement.
+
+
+Building on the Cytek Aurora Evo system’s existing automation and throughput capabilities - including increased flow rates and automated startup and shutdown - Cytek is further extending this foundation with new hardware features and software API integrations. Scientists will be able to automate their full spectrum workflows by connecting to robotic plate handling systems and third-party scheduling platforms.
+
+
+These capabilities are particularly relevant for biopharma organizations and contract research organizations (CROs), where efficiency, reproducibility, and system integration are critical to large-scale studies.
+
+
+**CYTO 2026 Details**
+
+
+June 6–10, 2026
+West Palm Beach, Florida
+Cytek Booth: 100
+
+
+As a Platinum sponsor, Cytek will host two tutorial sessions:
+
+
+**1. Expanding the Frontiers of Flow Cytometry with the Cytek Borealis Full Spectrum Imaging Flow Cytometer**
+
+
+***Presenters:***
+
+
+****
+
+
+Maria C. Jaimes, Vice President, Laboratory Services, Cytek Biosciences
+
+
+***Date:***
+
+
+****
+
+
+Tuesday, June 9, 2026, 12:15 p.m. – 1:15 p.m.
+
+
+**2. Streamlining High-Dimensional Flow Cytometry Workflows With Cytek**
+
+
+**®**
+
+
+**Cloud**
+
+
+***Presenter:***
+
+
+****
+
+
+Mark Edinger, Vice President of Scientific Affairs, Cytek Biosciences
+
+
+****
+
+
+***Date:***
+
+
+****
+
+
+Monday, June 8, 2026, 12:15 p.m. – 1:15 p.m.
+
+
+“We’re excited to be part of CYTO 2026, where the flow cytometry community comes together to explore new ideas and emerging technologies,” said Wenbin Jiang, Ph.D., CEO of Cytek Biosciences. “Our latest innovations reflect a continued commitment to expanding what is possible - delivering solutions that help researchers generate deeper insights from one sample with greater efficiency and confidence.”
+
+
+For more information, please visit
+
+
+[https://cytekbio.com/](https://cytekbio.com/)
+
+
+.
+
+
+**About Cytek Biosciences, Inc.**
+
+
+Cytek Biosciences (Nasdaq: CTKB) is a leading cell analysis solutions company advancing the next generation of cell analysis tools by delivering high-resolution, high-content and high-sensitivity cell analysis utilizing its patented Full Spectrum Profiling™ (FSP
+
+
+®
+
+
+) technology. Cytek’s novel approach harnesses the power of information within the entire spectrum of a fluorescent signal to achieve a higher level of multiplexing with precision and sensitivity. Cytek’s platform includes: its core FSP instruments, the Cytek Aurora™, Northern Lights™, Cytek Aurora™ CS and Cytek Aurora™ Evo systems; the Muse
+
+
+®
+
+
+Micro system; the Cytek Orion™ reagent cocktail preparation system; the Enhanced Small Particle™ (ESP™) detection technology; the flow cytometers and imaging products under the Amnis
+
+
+®
+
+
+and Guava
+
+
+®
+
+
+brands; and reagents, software and services to provide a comprehensive and integrated suite of solutions for its customers. Cytek is headquartered in Fremont, California with offices and distribution channels across the globe. More information about the company and its products is available at
+
+
+[www.cytekbio.com](http://www.cytekbio.com/)
+
+
+.
+
+
+Cytek’s products are for research use only and not for use in diagnostic procedures (other than Cytek’s Northern Lights-CLC system and certain reagents, which are available for clinical use only in China and the European Union).
+
+
+Cytek, Full Spectrum Profiling, FSP, Cytek Aurora, Cytek Borealis, Northern Lights, Enhanced Small Particle, ESP, Cytek Orion, Muse, Amnis and Guava are trademarks of Cytek Biosciences, Inc.
+
+
+In addition to filings with the Securities and Exchange Commission (SEC), press releases, public conference calls and webcasts, Cytek uses its website (
+
+
+[www.cytekbio.com](http://www.cytekbio.com/)
+
+
+),
+
+
+[LinkedIn page](https://www.linkedin.com/company/cytek-biosciences/)
+
+
+and
+
+
+[X account](https://twitter.com/CytekBio)
+
+
+as channels of distribution of information about its company, products, planned financial and other announcements, attendance at upcoming investor and industry conferences and other matters. Such information may be deemed material information and Cytek may use these channels to comply with its disclosure obligations under Regulation FD. Therefore, investors should monitor Cytek’s website, LinkedIn page, and X account in addition to following its SEC filings, news releases, public conference calls and webcasts.
+
+
+**Forward-Looking Statements**
+
+
+****
+
+
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 as contained in Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections. All statements other than statements of historical facts are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “anticipate,” “believe,” “contemplate,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” or “would” or the negative of these words or other similar terms or expressions. These forward-looking statements include statements regarding Cytek’s business strategies, market opportunities, product plans and expectations, including with respect to its new 7-laser Cytek Borealis full spectrum flow cytometer, automation-ready configurations of the Cytek Aurora Evo system and
+
+
+DUV and IR cFluor
+
+
+®
+
+
+reagents, and the capabilities and timing of commercial availability of such products; and Cytek’s plans to provide
+
+
+future cellular imaging capabilities on the
+
+
+Cytek Borealis
+
+
+system
+
+
+. These statements are based on management’s current expectations, forecasts, beliefs, assumptions and information currently available to management. These statements also deal with future events and involve known and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements to be materially different from the information expressed or implied by these forward-looking statements. Factors that could cause actual results to differ materially include global geopolitical, economic and market conditions; Cytek’s ability to manage the impacts of recent and future export controls and licensing requirements, tariffs and NIH funding policies on its business; Cytek's ability to evaluate its prospects for future viability and predict future performance; Cytek’s ability to accurately forecast customer demand and adoption of its products; Cytek’s ability to recognize the anticipated benefits of collaborations; Cytek’s dependence on certain sole and single source suppliers; competition; market acceptance of Cytek’s current and potential products; Cytek’s ability to manage the growth and complexity of its organization, maintain relationships with customers and suppliers and hire and retain key employees; Cytek’s ability to manufacture its products in high-quality commercial quantities successfully and consistently to meet demand; Cytek’s ability to increase penetration in its existing markets and expand into adjacent markets; Cytek’s ability to secure additional distributors or maintain good relationships with its existing distributors; Cytek’s ability to successfully develop and introduce new products; Cytek’s ability to maintain, protect and enhance its intellectual property; Cytek’s ability to continue to stay in compliance with its material contractual obligations, applicable laws and regulations; and foreign currency exchange impacts. You should refer to the section entitled “Risk Factors” set forth in Cytek’s Quarterly Report on Form 10-Q filed on May 7, 2026 with the SEC, and other filings Cytek makes with the SEC from time to time for a discussion of important factors that may cause actual results to differ materially from those expressed or implied by Cytek’s forward-looking statements. Although Cytek believes that the expectations reflected in the forward-looking statements are reasonable, it cannot provide any assurance that these expectations will prove to be correct nor can it guarantee that the events and circumstances reflected in the forward-looking statements will occur. The forward-looking statements in this press release are based on information available to Cytek as of the date hereof, and Cytek disclaims any obligation to update any forward-looking statements provided to reflect any change in its expectations or any change in events, conditions, or circumstances on which any such statement is based, except as required by law. These forward-looking statements should not be relied upon as representing Cytek’s as of any date subsequent to the date of this press release.
+
+
+**Media Contact:**
+Stephanie Olsen
+Lages & Associates
+(949) 453-8080
+stephanie@lages.com
+
+
+**Investor Contact:**
+Paul Goodson
+Head of Investor Relations
+Cytek Biosciences
+pgoodson@cytekbio.com
+
+
+# # #

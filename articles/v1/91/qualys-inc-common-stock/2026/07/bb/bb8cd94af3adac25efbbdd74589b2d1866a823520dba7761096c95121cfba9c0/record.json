@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb8cd94af3adac25efbbdd74589b2d1866a823520dba7761096c95121cfba9c0",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc."
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-rss-b23fdbdd1cee",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/21/cve-2026-8933-snap-confine-local-privilege-escalation",
+    "canonical": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/21/cve-2026-8933-snap-confine-local-privilege-escalation"
+  },
+  "title": "CVE-2026-8933: Local Privilege Escalation in Set-Capabilities snap-confine",
+  "summary": "Qualys TRU discovered CVE-2026-8933, a High-severity Local Privilege Escalation in snap-confine affecting Ubuntu Desktop 24.04, 25.10, and 26.04. Learn detection with Qualys QIDs and how to remediate.",
+  "published_at": "2026-07-21T15:02:12+00:00",
+  "first_seen_at": "2026-07-21T15:44:45.631952+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-10T11:44:36.504586+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/07/bb/bb8cd94af3adac25efbbdd74589b2d1866a823520dba7761096c95121cfba9c0/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/07/bb/bb8cd94af3adac25efbbdd74589b2d1866a823520dba7761096c95121cfba9c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6221,
+    "sha256": "sha256:13ba2f8955d081859001a90f14d06481c3133430ff09f28698653cc7658f2a2e",
+    "normalized_content_hash": "sha256:b086ea10c908ccd0f20f099dc1f2d3b9841f8252cc399082a5626d8404a9628b"
+  },
+  "provenance": {
+    "source_item_id": "b5eeaafa-d43d-4b43-b6e9-f7025bd78674",
+    "external_id": "https://blog.qualys.com/?p=41149"
+  }
+}

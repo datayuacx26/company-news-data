@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "993d8d6812f95350717c9cb5c3735b82179a3ace2b6a98ab0cac5e2e24adb641",
+  "company": {
+    "key": "godaddy-inc-class-a-common-stock",
+    "name": "GoDaddy Inc."
+  },
+  "source": {
+    "id": "godaddy-inc-class-a-common-stock-news-import-cf537cccbea7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.godaddy.com/resources/news/logs-as-runtime-documentation",
+    "canonical": "https://www.godaddy.com/resources/news/logs-as-runtime-documentation"
+  },
+  "title": "Logs As Runtime Documentation",
+  "summary": "On an iOS prototype with Claude Code in the loop, we burned tokens on file reads and wrong guesses when the device's real behavior was unclear. Scoped, consistent logs in Console worked as runtime documentation and cut estimated session spend by about 40%, for engineers and for the assistant alike.",
+  "published_at": "2026-06-29T06:15:00+00:00",
+  "first_seen_at": "2026-07-21T21:50:09.149998+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-20T01:53:41.166779+00:00",
+  "paths": {
+    "article": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/06/99/993d8d6812f95350717c9cb5c3735b82179a3ace2b6a98ab0cac5e2e24adb641/article.md",
+    "record": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/06/99/993d8d6812f95350717c9cb5c3735b82179a3ace2b6a98ab0cac5e2e24adb641/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17400,
+    "sha256": "sha256:28f4df4b27dbed06fbfeb51c87bd829ec22ac7bc3e44d58cacc7939f53099bde",
+    "normalized_content_hash": "sha256:e719bbb68a9eff8cf4ef503894bfad3bbdc17a07854a81a11b9f8ba89cc27859"
+  },
+  "provenance": {
+    "source_item_id": "233af88c-e78e-4bd5-b2a7-145968c3bbb2",
+    "external_id": "https://www.godaddy.com/resources/news/logs-as-runtime-documentation"
+  }
+}

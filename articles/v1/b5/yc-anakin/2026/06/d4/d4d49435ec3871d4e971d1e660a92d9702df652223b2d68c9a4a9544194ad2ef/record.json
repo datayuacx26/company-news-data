@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4d49435ec3871d4e971d1e660a92d9702df652223b2d68c9a4a9544194ad2ef",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/wire-vs-skyvern",
+    "canonical": "https://anakin.io/blog/wire-vs-skyvern"
+  },
+  "title": "Wire vs Skyvern: Network Layer vs AI Browser Automation (2026)",
+  "summary": "Wire calls the private API underneath any website's frontend. Skyvern opens a real browser and reasons visually. Same goal,…",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:45:54.754455+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-06T04:13:34.393934+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/06/d4/d4d49435ec3871d4e971d1e660a92d9702df652223b2d68c9a4a9544194ad2ef/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/06/d4/d4d49435ec3871d4e971d1e660a92d9702df652223b2d68c9a4a9544194ad2ef/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15056,
+    "sha256": "sha256:bc8a34a7db518dea9793665ae943487c4c406773443d6f83930f821d083c3058",
+    "normalized_content_hash": "sha256:d989dcfa33c8fe4caaf5628871429ce1d438976e80c86ce5ec67795e3143b16a"
+  },
+  "provenance": {
+    "source_item_id": "7ab561fb-dc5d-42c7-897b-f672f75d9863",
+    "external_id": "https://anakin.io/blog/wire-vs-skyvern"
+  }
+}

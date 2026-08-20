@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "314aa8e2e28fadd2df20651d2c5413ee5d318d7a0ff37bb013001128850e39ac",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/how-we-optimized-mcp-servers-for-serverless",
+    "canonical": "https://blaxel.ai/blog/how-we-optimized-mcp-servers-for-serverless"
+  },
+  "title": "How we optimized MCP servers for serverless (or: From SSE to WebSockets)",
+  "summary": "A deep-dive into our journey making MCP servers compatible with WebSockets.",
+  "published_at": "2025-12-03T13:52:16+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T22:25:05.780563+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2025/12/31/314aa8e2e28fadd2df20651d2c5413ee5d318d7a0ff37bb013001128850e39ac/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2025/12/31/314aa8e2e28fadd2df20651d2c5413ee5d318d7a0ff37bb013001128850e39ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15932,
+    "sha256": "sha256:f743ef4335b00ec500b40c42d0d6e9553b3ee9bf54737bc6d554ea1478f62484",
+    "normalized_content_hash": "sha256:ff90e88552ea5c61fbe24d8f7a82060c30ca0dc588b0646bdb8413c6763b0e72"
+  },
+  "provenance": {
+    "source_item_id": "7d4754e6-14da-4add-b8ec-88f6683fdef2",
+    "external_id": "https://blaxel.ai/blog/how-we-optimized-mcp-servers-for-serverless"
+  }
+}

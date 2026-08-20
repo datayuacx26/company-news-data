@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a616a9d8ae17edf358dfb815552ed780c9f60b7c9f437a440ad78cd70fa70ed",
+  "company": {
+    "key": "rambus-inc-common-stock",
+    "name": "Rambus Inc."
+  },
+  "source": {
+    "id": "rambus-inc-common-stock-news-import-b51b587c8dec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.rambus.com/blogs/macsec/",
+    "canonical": "https://www.rambus.com/blogs/macsec/"
+  },
+  "title": "MACsec Explained: Everything You Need to Know",
+  "summary": "MACsec (Media Access Control Security) is an Ethernet security standard that encrypts and authenticates data in motion at Layer 2 of the OSI model, protecting traffic as it moves between directly connected devices. In this blog, we’ll explore what MACsec is, how it works, how it compares to higher-layer security approaches, and why it is essential for modern Ethernet-based systems.",
+  "published_at": "2026-04-08T08:00:21+00:00",
+  "first_seen_at": "2026-07-25T20:32:34.030231+00:00",
+  "fetched_at": "2026-07-28T22:15:58.980681+00:00",
+  "last_updated_at": "2026-08-19T19:12:54.049045+00:00",
+  "paths": {
+    "article": "articles/v1/8e/rambus-inc-common-stock/2026/04/6a/6a616a9d8ae17edf358dfb815552ed780c9f60b7c9f437a440ad78cd70fa70ed/article.md",
+    "record": "articles/v1/8e/rambus-inc-common-stock/2026/04/6a/6a616a9d8ae17edf358dfb815552ed780c9f60b7c9f437a440ad78cd70fa70ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25814,
+    "sha256": "sha256:01b742b7a9d26e1a1902ea245d789b5ae1d376479edf1b1a520050181b966e16",
+    "normalized_content_hash": "sha256:75da40ed2a1f94bba024c81f3a3bf773b9bf56f5d44b90449259506d9eb69d8a"
+  },
+  "provenance": {
+    "source_item_id": "f9efe8ba-3c11-49eb-a3d7-844706d5e445",
+    "external_id": "https://www.rambus.com/blogs/macsec/"
+  }
+}

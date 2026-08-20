@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3dd341d921892445380d038956af654b3855961161d8de0e6d679de3d705573",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/federated-logs-databricks-clickhouse-snowflake/",
+    "canonical": "https://www.datadoghq.com/blog/federated-logs-databricks-clickhouse-snowflake/"
+  },
+  "title": "Investigate logs across your entire stack with Federated Logs",
+  "summary": "Learn how to use Federated Logs to investigate logs across Datadog, Databricks, ClickHouse, Amazon S3, and Snowflake.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/e3/e3dd341d921892445380d038956af654b3855961161d8de0e6d679de3d705573/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/e3/e3dd341d921892445380d038956af654b3855961161d8de0e6d679de3d705573/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8197,
+    "sha256": "sha256:6ecece81a68b1b70f8076b2cba66989f3e016fd846027103e30ae355764735d6",
+    "normalized_content_hash": "sha256:36b74035079d0ef3356bcf4b7558f47d2add8710b8b2381b290349aed4f30779"
+  },
+  "provenance": {
+    "source_item_id": "5867de80-5bde-4cb3-b969-9053f6178c8c",
+    "external_id": "https://www.datadoghq.com/blog/federated-logs-databricks-clickhouse-snowflake/"
+  }
+}

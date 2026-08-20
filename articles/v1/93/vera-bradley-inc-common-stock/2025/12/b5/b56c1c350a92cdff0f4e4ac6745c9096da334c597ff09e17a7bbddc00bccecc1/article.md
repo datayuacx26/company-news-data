@@ -1,0 +1,141 @@
+---
+schema_version: "1.0.0"
+document_id: "b56c1c350a92cdff0f4e4ac6745c9096da334c597ff09e17a7bbddc00bccecc1"
+company_key: "vera-bradley-inc-common-stock"
+company: "Vera Bradley Inc."
+source_id: "vera-bradley-inc-common-stock-atom-26d47e3bd189"
+canonical_url: "https://verabradley.com/blogs/the-vb-blog/your-calendars-full-your-bag-shouldnt-be"
+published_at: "2025-12-17T03:17:49+00:00"
+first_seen_at: "2026-08-12T14:33:23.935767+00:00"
+fetched_at: "2026-08-12T14:33:24.903752+00:00"
+content_hash: "sha256:222acc339c9f3806028113b4411c06bcbc46ac733ba1f727307c592ed5f33ce2"
+---
+
+# Your Calendar's Full. Your Bag Shouldn’t Be.
+
+Your schedule has officially stopped asking for permission. School pick-ups, last-minute flights, the meeting that could have been an email, and somehow you're doing it all without breaking stride.
+
+
+Your bag? It needs to keep up.
+
+
+These organizational tote bags, backpacks, and duffel bags are built for real life, real women, and real “Did I seriously just do all that?” days.
+
+
+## Bancroft Backpack: When Your Hands are Busy Running the World
+
+
+This is the backpack that understood the assignment: stay sleek, stay smart, stay ready. The[Bancroft Backpack](https://verabradley.com/products/bancroft-backpack-5386920089) is for the woman who juggles calendars like a circus act and still remembers everyone's allergies.
+
+
+### Why It Works:
+
+
+- • A dedicated laptop compartment for up to 15" because your tech deserves its own VIP suite.
+- • A front zip pocket that's basically your command center: four slips and a pen pocket keep your essentials right where your brain thinks they are.
+- • Two side slip pockets (one with elastic and a pleat) because hydration is not optional.
+- • The trolley sleeve turns airport sprints into airport glides.
+- • And yes, there's a ring for your keys or[charms](https://verabradley.com/collections/keychains-and-charms) so they stop disappearing like it's their hobby.
+
+
+The look? Clean, modern confidence. The feel? "I've got this" in backpack form.
+
+
+> "I'm a teacher and this is the perfect size for my laptop and other items needed for work. I like that it will be easy to clean. There is plenty of room and pockets for anything I need to transport." ~ Jennifer
+
+
+## Original Zip Tote Bag: A Timeless Tote with Plenty of Pockets
+
+
+Our[classic tote](https://verabradley.com/products/original-zip-tote-bag-5334822510) is the dependable friend who always shows up, but now with a few updates she absolutely deserves: a zip-top closure and a longer, easier strap drop.
+
+
+### Why It Works:
+
+
+- • A spacious open interior with two slip pockets and a zip pocket for everyday organization without rummaging around.
+- • Exterior slip and zip pockets for quick-grab essentials (parking garage ticket, lipstick, the snack you swear you didn't forget).
+- • A new zip closure to keep the day contained, even when the day is doing the most.
+
+
+Your calendar may be stacked, but your tote stays unbothered.
+
+
+> "This bag was exactly what i was looking for in a work or travel bag. I love that it is a large bag that also zips. Plenty of room and pockets." ~ Michele
+
+
+## Large Original Duffel Bag: Your "Yes, I Can Make That Happen" Bag
+
+
+For the woman who's equal parts spontaneous and prepared, the[Large Original Duffel](https://verabradley.com/products/large-original-duffel-bag-5012022531) is your soft-sided, big-hearted companion for gym days, road trips, and the kind of weekends that just keep unfolding.
+
+
+### Why It Works:
+
+
+- • Front and side slip pockets make it easy to separate the “right now” from the “later.”
+- • A roomy interior with three slip pockets keeps shoes away from… well, everything.
+- • Lightweight but spacious enough for whatever your day throws at you.
+
+
+This bag was made for women who do everything and do it well.
+
+
+> "I was surprised how much I could pack easily without adding the extra weight of a suitcase. There were more pockets than I had anticipated; color and pattern are fun and bright!" ~ Becky
+
+
+## Knollton Tote Bag: For When Your Travel Style Says "First Class," Even If Your Ticket Doesn't
+
+
+Our[Knollton Tote](https://verabradley.com/products/knollton-tote-bag-5017822528) is the definition of polished utility: structured, spacious, and ready for every airport, office lobby, and hotel hallway you breeze through.
+
+
+### Why It Works:
+
+
+- • A full-zip main compartment that keeps your day contained, not chaotic.
+- • A dedicated zip laptop pocket so your tech stays secure and separate.
+- • A back zip pocket with a trolley sleeve for truly smooth travel.
+- • Inside: three slip pockets and a zip pocket to keep the details from scattering.
+
+
+It's the tote that whispers, "I'm organized, even on the days you aren't."
+
+
+> "The perfect travel tote! It fits so much and the pattern is adorable!" ~ Kristen
+
+
+## Hathaway Tote Bag: For the Days You Want Effortless But Not Ordinary
+
+
+Your life has layers, and this tote gets that. The[Hathaway Tote](https://verabradley.com/products/hathaway-tote-bag-5037322546) keeps things simple without ever feeling basic.
+
+
+### Why It Works:
+
+
+- • Streamlined silhouette with an exterior slip pocket that's the perfect phone spot.
+- • Inside, another slip pocket keeps essentials in place.
+- • The tie and button closure feels unfussy but still secure.
+- • A wider top width means your “just one more thing” habit is fully supported.
+
+
+When your outfit is doing its own thing, and your calendar is doing the absolute most, the Hathaway steps in with quiet confidence.
+
+
+> "The perfect tote bag for work. Plenty of space to hold work and personal items." ~ Cheryl
+
+
+## Your Life Isn't Slowing Down, But Your Search for the Right Bag Can
+
+
+Your days are full of people, places, projects, and passions. And while the world keeps asking more of you, your bag should quietly handle the small details so you can stay focused on the things that matter most. Every pocket, slip, sleeve, and zip we design is crafted with one thought in mind: you already know what you're doing, so your bag is just here to keep up.
+
+
+If a style here sparked something, trust that instinct. Your muse is you, after all.
+
+
+Browse our full collection to find the bag that works as brilliantly as you do.
+
+
+[SHOP ALL BAGS](https://verabradley.com/collections/bags)

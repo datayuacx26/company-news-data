@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b20c36ac4df92ca85a946f11c04ca678fffd840a935d2c85bb431a59d2e4d4e4",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/search-conversion-tracking-opentelemetry",
+    "canonical": "https://www.elastic.co/search-labs/blog/search-conversion-tracking-opentelemetry"
+  },
+  "title": "From search to checkout in 20 lines of code: building a 4-stage conversion funnel with OpenTelemetry",
+  "summary": "Add cart and purchase spans to build a full search conversion funnel. Query revenue attribution, conversion rates and average order value with ES|QL.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T02:39:15.888121+00:00",
+  "fetched_at": "2026-08-07T02:39:17.068337+00:00",
+  "last_updated_at": "2026-08-14T06:42:19.237360+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/b2/b20c36ac4df92ca85a946f11c04ca678fffd840a935d2c85bb431a59d2e4d4e4/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/b2/b20c36ac4df92ca85a946f11c04ca678fffd840a935d2c85bb431a59d2e4d4e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31115,
+    "sha256": "sha256:27a3d7bc1ae5c4767ce7f6a222b8c470081d33647aa0b682f2956e448e7d5f6c",
+    "normalized_content_hash": "sha256:0e53ddbb7523825bbd02eed26acbb6bb19870483f07e7c03097a60523a132c4e"
+  },
+  "provenance": {
+    "source_item_id": "b243bd22-17ca-417d-adb8-91bff07609c1",
+    "external_id": "https://www.elastic.co/search-labs/blog/search-conversion-tracking-opentelemetry"
+  }
+}

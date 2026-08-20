@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8904eef44c51a9971c7774006bcdfed046a91ac79786679f810fdd36cef9b6f",
+  "company": {
+    "key": "yc-bitrig",
+    "name": "bitrig"
+  },
+  "source": {
+    "id": "yc-bitrig-news-import-267282887e75",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitrig.com/blog/interpreter-bytecode",
+    "canonical": "https://bitrig.com/blog/interpreter-bytecode"
+  },
+  "title": "Bitrig’s Swift Interpreter: From Code to Bytecode",
+  "summary": "How Bitrig's interpreter converts Swift constructs into bytecode.",
+  "published_at": "2025-09-16T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T05:20:11.535942+00:00",
+  "fetched_at": "2026-08-06T05:20:13.067880+00:00",
+  "last_updated_at": "2026-08-08T00:30:30.665834+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-bitrig/2025/09/d8/d8904eef44c51a9971c7774006bcdfed046a91ac79786679f810fdd36cef9b6f/article.md",
+    "record": "articles/v1/b2/yc-bitrig/2025/09/d8/d8904eef44c51a9971c7774006bcdfed046a91ac79786679f810fdd36cef9b6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23789,
+    "sha256": "sha256:c21dab36051f36b718838d6daa9a4fdbf8ba39b7969026e20c15dce429e91509",
+    "normalized_content_hash": "sha256:e28e91df9be85b81885ea49821ae9c3c79486c940faf6914f771dda60f5c8c63"
+  },
+  "provenance": {
+    "source_item_id": "4cb98414-0635-4111-993a-6272298c3660",
+    "external_id": "https://bitrig.com/blog/interpreter-bytecode"
+  }
+}

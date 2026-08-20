@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d186f2b935f97393816aaa2f1bfad69f3d65e40b9f5f0ea304e4e6e9fd529c9d",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/firecrawl-101",
+    "canonical": "https://www.firecrawl.dev/blog/firecrawl-101"
+  },
+  "title": "Firecrawl 101: Web Context APIs for AI Agents",
+  "summary": "Firecrawl covers Search, Scrape, Crawl, Map, Interact, and Parse. Here's which endpoint to reach for and how to compose them in an agent workflow.",
+  "published_at": "2026-05-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-07-28T22:00:54.067304+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/05/d1/d186f2b935f97393816aaa2f1bfad69f3d65e40b9f5f0ea304e4e6e9fd529c9d/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/05/d1/d186f2b935f97393816aaa2f1bfad69f3d65e40b9f5f0ea304e4e6e9fd529c9d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11596,
+    "sha256": "sha256:21383d54835eea7d688e0a9cb581d823029ed74f17dddf1f580068f335fb3c4e",
+    "normalized_content_hash": "sha256:4ab47eebcc323a577f7958c69ced631dce947ea934fb2b908ea111a86230e08b"
+  },
+  "provenance": {
+    "source_item_id": "45d178e4-86e8-4126-8dc0-772a95a0d4d5",
+    "external_id": "https://www.firecrawl.dev/blog/firecrawl-101"
+  }
+}

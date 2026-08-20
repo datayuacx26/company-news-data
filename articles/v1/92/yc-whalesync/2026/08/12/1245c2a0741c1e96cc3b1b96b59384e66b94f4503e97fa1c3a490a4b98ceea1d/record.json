@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1245c2a0741c1e96cc3b1b96b59384e66b94f4503e97fa1c3a490a4b98ceea1d",
+  "company": {
+    "key": "yc-whalesync",
+    "name": "Whalesync"
+  },
+  "source": {
+    "id": "yc-whalesync-news-import-4fcd9b7a082a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.whalesync.com/blog/how-to-get-a-google-sheets-api-key",
+    "canonical": "https://www.whalesync.com/blog/how-to-get-a-google-sheets-api-key"
+  },
+  "title": "How to Get a Google Sheets API Key",
+  "summary": "Get a Google Sheets API key with read and write access by creating a Google Cloud service account and minting tokens from the command line.",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T08:25:37.902095+00:00",
+  "fetched_at": "2026-08-12T08:25:38.438144+00:00",
+  "last_updated_at": "2026-08-19T18:20:38.228004+00:00",
+  "paths": {
+    "article": "articles/v1/92/yc-whalesync/2026/08/12/1245c2a0741c1e96cc3b1b96b59384e66b94f4503e97fa1c3a490a4b98ceea1d/article.md",
+    "record": "articles/v1/92/yc-whalesync/2026/08/12/1245c2a0741c1e96cc3b1b96b59384e66b94f4503e97fa1c3a490a4b98ceea1d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5557,
+    "sha256": "sha256:d6d310bb860d0912882e08e628012fd1c316542490b862095fe2ad45be379b83",
+    "normalized_content_hash": "sha256:36ce65f66d6ba5b3d85db81dd607e3dec64632e68bd24a6361e7a9f023e9a74d"
+  },
+  "provenance": {
+    "source_item_id": "9fb91b77-b7e7-424f-b95a-967195bf129d",
+    "external_id": "https://www.whalesync.com/blog/how-to-get-a-google-sheets-api-key"
+  }
+}

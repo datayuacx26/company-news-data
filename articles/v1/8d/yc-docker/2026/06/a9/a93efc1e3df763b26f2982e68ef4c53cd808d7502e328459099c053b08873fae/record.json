@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a93efc1e3df763b26f2982e68ef4c53cd808d7502e328459099c053b08873fae",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/eu-cyber-resilience-act-overview/",
+    "canonical": "https://www.docker.com/blog/eu-cyber-resilience-act-overview/"
+  },
+  "title": "EU Cyber Resilience Act: Overview, Requirements, and Timelines",
+  "summary": "Learn what the EU Cyber Resilience Act requires, including SBOM mandates, vulnerability reporting, and compliance deadlines for container teams.",
+  "published_at": "2026-06-25T15:36:43+00:00",
+  "first_seen_at": "2026-07-20T23:20:22.390152+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-07-28T21:10:43.873855+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/06/a9/a93efc1e3df763b26f2982e68ef4c53cd808d7502e328459099c053b08873fae/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/06/a9/a93efc1e3df763b26f2982e68ef4c53cd808d7502e328459099c053b08873fae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21725,
+    "sha256": "sha256:5a64071252a08a95d3943ddba21d07d8a2e9366a7ad5fd5c81dc863806afd2fb",
+    "normalized_content_hash": "sha256:eea49517433b6803cc00ad4f6f0c6c0dd25517f2dedd0d0318acb5e364855eff"
+  },
+  "provenance": {
+    "source_item_id": "89028903-32b9-4d29-8961-a4d7eb8abadb",
+    "external_id": "https://www.docker.com/?p=91643"
+  }
+}

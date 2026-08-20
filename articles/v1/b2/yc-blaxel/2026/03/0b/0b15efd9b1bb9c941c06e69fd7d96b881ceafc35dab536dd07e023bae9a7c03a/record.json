@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b15efd9b1bb9c941c06e69fd7d96b881ceafc35dab536dd07e023bae9a7c03a",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/llm-coding-benchmarks",
+    "canonical": "https://blaxel.ai/blog/llm-coding-benchmarks"
+  },
+  "title": "LLM coding benchmarks explained: how to evaluate models for production coding agents",
+  "summary": "LLM coding benchmarks don't predict production performance. Learn which ones matter, run internal evals, and build a model selection framework.",
+  "published_at": "2026-03-20T21:13:44+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:53:13.933878+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/03/0b/0b15efd9b1bb9c941c06e69fd7d96b881ceafc35dab536dd07e023bae9a7c03a/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/03/0b/0b15efd9b1bb9c941c06e69fd7d96b881ceafc35dab536dd07e023bae9a7c03a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17133,
+    "sha256": "sha256:2e73224fc74fbf638ca08f1826bc2fcfcfcf03896863ff2e44c6750958be61ca",
+    "normalized_content_hash": "sha256:f736e929de20e7831f4394800db8c8b32b4dad5b0298ef9d00253105b5bba80b"
+  },
+  "provenance": {
+    "source_item_id": "297029b0-708b-478d-9fec-edf55d0bc6c3",
+    "external_id": "https://blaxel.ai/blog/llm-coding-benchmarks"
+  }
+}

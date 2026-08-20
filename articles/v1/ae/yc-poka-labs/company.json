@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-poka-labs",
+    "name": "Poka Labs"
+  },
+  "record_count": 8,
+  "first_published_at": "2024-10-24T00:00:00+00:00",
+  "last_published_at": "2026-04-24T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/yc-poka-labs/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 7631,
+        "sha256": "sha256:4def2cd65379c25e1897631245b18160a9694da569c9336ae0e4add1bae9d647",
+        "newest_at": "2026-04-24T00:00:00+00:00",
+        "oldest_at": "2024-10-24T00:00:00+00:00"
+      }
+    ]
+  }
+}

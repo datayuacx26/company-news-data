@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "239135993c6e9424ad6a2488c59f78fe781de45e4698296d0b6776a28c6663fd",
+  "company": {
+    "key": "yc-layerup",
+    "name": "Layerup"
+  },
+  "source": {
+    "id": "yc-layerup-news-import-60fa3a01cf26",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.uselayerup.com/blog/purpose-built-agents-for-underwriting-and-claims-lines",
+    "canonical": "https://uselayerup.com/blog/purpose-built-agents-for-underwriting-and-claims-lines"
+  },
+  "title": "Purpose-built, not general-purpose: why Layerup ships a different agent for every underwriting and claims line",
+  "summary": "An agent that underwrites IDI is not an agent that underwrites life, and neither is a general-purpose model with a long prompt. The performance gap is architectural, and it shows up in every line-specific detail.",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:01:56.334076+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-19T17:27:33.335244+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-layerup/2026/06/23/239135993c6e9424ad6a2488c59f78fe781de45e4698296d0b6776a28c6663fd/article.md",
+    "record": "articles/v1/98/yc-layerup/2026/06/23/239135993c6e9424ad6a2488c59f78fe781de45e4698296d0b6776a28c6663fd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15648,
+    "sha256": "sha256:acccc42c8c8f9c1a616181d2ca96612090f5cbcde9382d6db9891348a28e739a",
+    "normalized_content_hash": "sha256:84861415f365945a05a36b6f7efec7aae4d3c349e11a2f738ce0c82eecb37d01"
+  },
+  "provenance": {
+    "source_item_id": "c9133c10-b0ae-45a7-a65e-02cc60404a34",
+    "external_id": "https://uselayerup.com/blog/purpose-built-agents-for-underwriting-and-claims-lines"
+  }
+}

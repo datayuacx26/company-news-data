@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e813b445c6fbdcfb4f1060c05e6ae0b613c4a189bb487bd57d8105cfc0a90962",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/adding-persistent-memory-to-claude-with-mem0",
+    "canonical": "https://mem0.ai/blog/adding-persistent-memory-to-claude-with-mem0"
+  },
+  "title": "Adding Persistent Memory to Claude with Mem0",
+  "summary": "We tested the Mem0 Claude connector with a real two-chat memory test: state a preference once, then see if Claude recalls it with zero hints. Here's what happened.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T17:29:03.310285+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-14T02:45:04.844602+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/07/e8/e813b445c6fbdcfb4f1060c05e6ae0b613c4a189bb487bd57d8105cfc0a90962/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/07/e8/e813b445c6fbdcfb4f1060c05e6ae0b613c4a189bb487bd57d8105cfc0a90962/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5545,
+    "sha256": "sha256:cdadcde32e56bda199deba13f1fc7cfdb589cbeea26aaa0352cea5307a4356c3",
+    "normalized_content_hash": "sha256:f20236a2bb4dac5f06427651a1442377b4d5da63e96d79ef592c37cabcf05219"
+  },
+  "provenance": {
+    "source_item_id": "895a2926-db5d-4e9b-8eee-cfb261cb9f72",
+    "external_id": "https://mem0.ai/blog/adding-persistent-memory-to-claude-with-mem0"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b8f6a7d331f3ebed75c06f29c2f23dec577031157f04a9961361e54b3f74bd8b",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/how-to-keep-sandbox-warm",
+    "canonical": "https://blaxel.ai/blog/how-to-keep-sandbox-warm"
+  },
+  "title": "How to keep AI sandboxes warm without paying for idle compute",
+  "summary": "Learn how snapshot-based standby removes the cold-start tax from AI sandbox infrastructure and cuts idle compute costs for agent workloads.",
+  "published_at": "2026-05-21T17:50:15+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:50:36.289404+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/05/b8/b8f6a7d331f3ebed75c06f29c2f23dec577031157f04a9961361e54b3f74bd8b/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/05/b8/b8f6a7d331f3ebed75c06f29c2f23dec577031157f04a9961361e54b3f74bd8b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20958,
+    "sha256": "sha256:f1a7f8a2de4ba9d52a52fc8c1b89db7ffbfc25d75b3973e11f046a35acb7c985",
+    "normalized_content_hash": "sha256:83deed33dfb7fbec3b051791ff8655a893197737315bf30740c01d22ac88ec12"
+  },
+  "provenance": {
+    "source_item_id": "daf24924-bfb9-4f4f-85aa-5c7a34139129",
+    "external_id": "https://blaxel.ai/blog/how-to-keep-sandbox-warm"
+  }
+}

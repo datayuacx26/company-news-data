@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04bb01b2eacc9e47da3631ed39cfbf5c76bae7b4dab7ce4e022c27730b5e747a",
+  "company": {
+    "key": "yc-dailybot",
+    "name": "DailyBot"
+  },
+  "source": {
+    "id": "yc-dailybot-rss-59e03def7d75",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.dailybot.com/blog/how-we-migrated-dailybot-to-astro/",
+    "canonical": "https://www.dailybot.com/blog/how-we-migrated-dailybot-to-astro/"
+  },
+  "title": "Rebuilding dailybot.com for the agentic era: from a visual-editor CMS to Astro",
+  "summary": "How we moved every page, every language, and every publishing loop into a codebase where agents and engineers work against the same files.",
+  "published_at": "2026-04-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:17.151433+00:00",
+  "fetched_at": "2026-07-28T22:15:51.462388+00:00",
+  "last_updated_at": "2026-08-20T03:36:31.842384+00:00",
+  "paths": {
+    "article": "articles/v1/94/yc-dailybot/2026/04/04/04bb01b2eacc9e47da3631ed39cfbf5c76bae7b4dab7ce4e022c27730b5e747a/article.md",
+    "record": "articles/v1/94/yc-dailybot/2026/04/04/04bb01b2eacc9e47da3631ed39cfbf5c76bae7b4dab7ce4e022c27730b5e747a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18907,
+    "sha256": "sha256:bfb9ebda0440c2aefa82e2183728c3a1e79e0a4fe06fb04dfa84bb12a074bcba",
+    "normalized_content_hash": "sha256:4f73dc100a367b8b424ae74e10f159612fb2feed6fd7a2a3f3f2ac2b82734a70"
+  },
+  "provenance": {
+    "source_item_id": "8b97241f-e5f9-49fd-8a6e-097b3879b0e4",
+    "external_id": "https://www.dailybot.com/blog/how-we-migrated-dailybot-to-astro/"
+  }
+}

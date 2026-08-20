@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf32fb23a4f7a94aced9f9241a4c145a6c9815bfce012d95407bc60f526a21c1",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/we-built-an-sre-bot-on-aura-heres-what-we-learned",
+    "canonical": "https://www.mezmo.com/blog/we-built-an-sre-bot-on-aura-heres-what-we-learned"
+  },
+  "title": "We built an SRE bot on AURA. Here's what we learned.",
+  "summary": "We put AURA behind a Slack bot, connected it to PagerDuty, Prometheus, and Mezmo via MCP, and pointed it at our own production environment. Here's what worked.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/bf/bf32fb23a4f7a94aced9f9241a4c145a6c9815bfce012d95407bc60f526a21c1/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/bf/bf32fb23a4f7a94aced9f9241a4c145a6c9815bfce012d95407bc60f526a21c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4498,
+    "sha256": "sha256:200707bbda3cdb3e600c0a17c6ead0e27d145c2c2fa861efa4a98c0ecc2126e6",
+    "normalized_content_hash": "sha256:9aaa86832df72c239d9bf38de3d0eecf43881f638f0680752c4e2b08adca6685"
+  },
+  "provenance": {
+    "source_item_id": "a23b3529-2b51-451a-8d6e-9d7db96e3e02",
+    "external_id": "https://www.mezmo.com/blog/we-built-an-sre-bot-on-aura-heres-what-we-learned"
+  }
+}

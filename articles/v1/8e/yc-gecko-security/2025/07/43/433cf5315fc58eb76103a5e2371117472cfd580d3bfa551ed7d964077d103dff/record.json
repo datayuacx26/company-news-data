@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "433cf5315fc58eb76103a5e2371117472cfd580d3bfa551ed7d964077d103dff",
+  "company": {
+    "key": "yc-gecko-security",
+    "name": "Gecko Security"
+  },
+  "source": {
+    "id": "yc-gecko-security-news-import-02715d60c1a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gecko.security/blog/gecko-30-0day-vulnerabilities",
+    "canonical": "https://www.gecko.security/blog/gecko-30-0day-vulnerabilities"
+  },
+  "title": "How Gecko Discovered 30 0-Day Vulnerabilities No AppSec Tool Found",
+  "summary": "Previously, there were entire classes of business logic and multi-step vulnerabilities that have long been invisible to SAST. Today, that changes.",
+  "published_at": "2025-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:22:16.875303+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T03:09:25.114394+00:00",
+  "paths": {
+    "article": "articles/v1/8e/yc-gecko-security/2025/07/43/433cf5315fc58eb76103a5e2371117472cfd580d3bfa551ed7d964077d103dff/article.md",
+    "record": "articles/v1/8e/yc-gecko-security/2025/07/43/433cf5315fc58eb76103a5e2371117472cfd580d3bfa551ed7d964077d103dff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7387,
+    "sha256": "sha256:9e2b040f6351a6671ee7a1ba5358e196ee65f5e1246b10cbf9d5e10b0e0b2789",
+    "normalized_content_hash": "sha256:ceb003d62842460b434d83a8c68757e46ba18430a52603abc3cbcb1bf03aad14"
+  },
+  "provenance": {
+    "source_item_id": "0de54bce-27c7-4d64-b6ba-e03482d024cc",
+    "external_id": "https://www.gecko.security/blog/gecko-30-0day-vulnerabilities"
+  }
+}

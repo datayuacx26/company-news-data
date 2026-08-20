@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fb66480743c53f4acbc8b8c9ad577b510812bc9549c282eaeb5a0dd498a3133b",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/grpc-dns-and-load-balancing-incident/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/grpc-dns-and-load-balancing-incident/"
+  },
+  "title": "It’s always DNS . . . except when it’s not: A deep dive through gRPC, Kubernetes, and AWS networking",
+  "summary": "The story of a seemingly simple issue that led us into the hidden complexities of gRPC, DNS, and Kubernetes.",
+  "published_at": "2022-04-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2022/04/fb/fb66480743c53f4acbc8b8c9ad577b510812bc9549c282eaeb5a0dd498a3133b/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2022/04/fb/fb66480743c53f4acbc8b8c9ad577b510812bc9549c282eaeb5a0dd498a3133b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26093,
+    "sha256": "sha256:5c43c04f9a11878ef17d703b03a6d011d556ab851e5a4bc818f7ba44b7efd4d5",
+    "normalized_content_hash": "sha256:ec037b918ccabcb33700aabf8fe79ed5004d6b8bc9938439c2da3ddc4410f408"
+  },
+  "provenance": {
+    "source_item_id": "f3511883-ab45-4695-b795-2dde9148a9b9",
+    "external_id": "https://www.datadoghq.com/blog/engineering/grpc-dns-and-load-balancing-incident/"
+  }
+}

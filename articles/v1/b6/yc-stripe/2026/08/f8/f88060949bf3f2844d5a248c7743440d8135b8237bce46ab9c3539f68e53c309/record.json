@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f88060949bf3f2844d5a248c7743440d8135b8237bce46ab9c3539f68e53c309",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent",
+    "canonical": "https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent"
+  },
+  "title": "Reading the signals: Helping your AI-built payment integration understand business intent",
+  "summary": "The low-level code that makes a payment go through is getting cheap, fast. What is becoming valuable is the judgment above it: knowing what the money is supposed to do and making sure the code obeys it.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T18:45:58.277531+00:00",
+  "fetched_at": "2026-08-14T00:00:02.684398+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/08/f8/f88060949bf3f2844d5a248c7743440d8135b8237bce46ab9c3539f68e53c309/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/08/f8/f88060949bf3f2844d5a248c7743440d8135b8237bce46ab9c3539f68e53c309/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3552,
+    "sha256": "sha256:9e79a4a1005cf8d1f0770345fefd9ebe3ac789c875fe9c678c7791eecc4b3f16",
+    "normalized_content_hash": "sha256:5f88aa329ca37a2c91e354551d5f5365fc630759c35cdb102a4a41e429759843"
+  },
+  "provenance": {
+    "source_item_id": "87ef60db-615f-486e-9bd4-5c49bacc29d4",
+    "external_id": "https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent"
+  }
+}

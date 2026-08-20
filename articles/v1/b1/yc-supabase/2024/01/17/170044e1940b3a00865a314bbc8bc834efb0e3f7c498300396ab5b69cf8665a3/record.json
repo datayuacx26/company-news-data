@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "170044e1940b3a00865a314bbc8bc834efb0e3f7c498300396ab5b69cf8665a3",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/pgvector-fast-builds",
+    "canonical": "https://supabase.com/blog/pgvector-fast-builds"
+  },
+  "title": "pgvector 0.6.0: 30x faster with parallel index builds",
+  "summary": "pgvector 0.6.0 brings a significant improvement: parallel index builds for HNSW. Building an HNSW index is now up to 30x faster for unlogged tables.",
+  "published_at": "2024-01-30T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T22:26:16.511012+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2024/01/17/170044e1940b3a00865a314bbc8bc834efb0e3f7c498300396ab5b69cf8665a3/article.md",
+    "record": "articles/v1/b1/yc-supabase/2024/01/17/170044e1940b3a00865a314bbc8bc834efb0e3f7c498300396ab5b69cf8665a3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5386,
+    "sha256": "sha256:3de8168d7cc5f93506dd3d18f404daf0450b6e6e5f29440e2d18ee36e8fabfcd",
+    "normalized_content_hash": "sha256:0c093b3f97c79430e003301249e1caca70ae39f1732ef6d2889a5aea3324b58e"
+  },
+  "provenance": {
+    "source_item_id": "8dc2482d-6e24-4cbd-8618-b94d652ea687",
+    "external_id": "https://supabase.com/blog/pgvector-fast-builds"
+  }
+}

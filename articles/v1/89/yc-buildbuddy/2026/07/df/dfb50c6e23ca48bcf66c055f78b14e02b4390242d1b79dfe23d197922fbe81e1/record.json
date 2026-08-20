@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dfb50c6e23ca48bcf66c055f78b14e02b4390242d1b79dfe23d197922fbe81e1",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-4f82164f35c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/changelog/detect-nondeterminism",
+    "canonical": "https://www.buildbuddy.io/changelog/detect-nondeterminism"
+  },
+  "title": "bb detect nondeterminism",
+  "summary": "You can now use the bb CLI to detect non-deterministic builds using the bb detect nondeterminism command.",
+  "published_at": "2026-07-01T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:16.628240+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-20T03:35:53.428661+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/07/df/dfb50c6e23ca48bcf66c055f78b14e02b4390242d1b79dfe23d197922fbe81e1/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/07/df/dfb50c6e23ca48bcf66c055f78b14e02b4390242d1b79dfe23d197922fbe81e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2365,
+    "sha256": "sha256:d7725b089fea2cf3a8b754a2828700ee0346c8336d05ff725ca4134eb5f104c5",
+    "normalized_content_hash": "sha256:97d6ef9d426f8d6f7121b62f374fb5de89d309870c6d1341b6a45fd76e80a808"
+  },
+  "provenance": {
+    "source_item_id": "670b34d2-7283-47c8-996f-21a89aef049f",
+    "external_id": "https://www.buildbuddy.io/changelog/detect-nondeterminism"
+  }
+}

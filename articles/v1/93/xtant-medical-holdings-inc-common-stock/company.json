@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "xtant-medical-holdings-inc-common-stock",
+    "name": "Xtant Medical Holdings Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2025-09-11T18:07:45+00:00",
+  "last_published_at": "2025-12-12T17:19:54+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/93/xtant-medical-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10740,
+        "sha256": "sha256:64d833d09a14d172d732b963b30393f6d620a928336888efbcb44392ecfa919a",
+        "newest_at": "2025-12-12T17:19:54+00:00",
+        "oldest_at": "2025-09-11T18:07:45+00:00"
+      }
+    ]
+  }
+}

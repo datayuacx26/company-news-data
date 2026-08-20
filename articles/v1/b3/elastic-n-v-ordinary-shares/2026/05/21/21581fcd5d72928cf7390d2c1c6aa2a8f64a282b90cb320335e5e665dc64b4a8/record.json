@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "21581fcd5d72928cf7390d2c1c6aa2a8f64a282b90cb320335e5e665dc64b4a8",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/blockchain-c2-phantompulse-rat-sinkhole",
+    "canonical": "https://www.elastic.co/security-labs/blockchain-c2-phantompulse-rat-sinkhole"
+  },
+  "title": "PHANTOMPULSE: anatomy of a hijackable blockchain-C2 RAT",
+  "summary": "PHANTOMPULSE uses blockchain C2 with no sender verification. Defenders can sinkhole every implant with one transaction or hunt sibling wallets via the 580c XOR signature.",
+  "published_at": "2026-05-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-03T15:07:42.908696+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/21/21581fcd5d72928cf7390d2c1c6aa2a8f64a282b90cb320335e5e665dc64b4a8/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/21/21581fcd5d72928cf7390d2c1c6aa2a8f64a282b90cb320335e5e665dc64b4a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 49559,
+    "sha256": "sha256:82a4e21b60116bbf1a5e3cc22056d217fadf9d239e346438b707888d1e026c6a",
+    "normalized_content_hash": "sha256:d10dd5e22de8da59b3ab01beabf60734748c4638fc0307e5b7e38c33764b56a7"
+  },
+  "provenance": {
+    "source_item_id": "ece3e48f-7477-4ddd-9f52-b2e2c31f4fe5",
+    "external_id": "blockchain-c2-phantompulse-rat-sinkhole"
+  }
+}

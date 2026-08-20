@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f1dc35d881e90fe1a7f3fff383ce95b205eb5dbc0c8b6574a277c5f9a0fcbf0",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/list-and-range-sharding",
+    "canonical": "https://pgdog.dev/blog/list-and-range-sharding"
+  },
+  "title": "Sharding multi-tenant Postgres databases",
+  "summary": "PgDog now supports list and range-based sharding alongside hash, with config-driven tenant routing, COPY ingestion across shards, and manual shard hints inside transactions.",
+  "published_at": "2025-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.478310+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-17T18:38:00.486199+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2025/07/6f/6f1dc35d881e90fe1a7f3fff383ce95b205eb5dbc0c8b6574a277c5f9a0fcbf0/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2025/07/6f/6f1dc35d881e90fe1a7f3fff383ce95b205eb5dbc0c8b6574a277c5f9a0fcbf0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7647,
+    "sha256": "sha256:7c043f6840217dd4a8a12c5e3a3f2d8bdff4fa440993433db776cbe519e94c9d",
+    "normalized_content_hash": "sha256:7d4ea44fe006a1023712801226ec4e8471f357987a73ec5e1f4a95edd26145da"
+  },
+  "provenance": {
+    "source_item_id": "c5f8aadc-b690-41f3-9d4e-073a3f76d610",
+    "external_id": "https://pgdog.dev/blog/list-and-range-sharding"
+  }
+}

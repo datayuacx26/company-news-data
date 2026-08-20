@@ -1,0 +1,64 @@
+---
+schema_version: "1.0.0"
+document_id: "915cf6f924920680334a3874e44c4cc70186961a3a110692d45394413a1b95c0"
+company_key: "urban-edge-properties-common-shares-of-beneficial-interest"
+company: "Urban Edge Properties Common Shares of Beneficial Interest"
+source_id: "urban-edge-properties-common-shares-of-beneficial-interest-rss-ba947e605795"
+canonical_url: "https://uedge.com/property/shops-west-falls-church"
+published_at: "2026-07-17T01:20:37+00:00"
+first_seen_at: "2026-08-10T04:30:25.520184+00:00"
+fetched_at: "2026-08-19T23:42:24.424928+00:00"
+content_hash: "sha256:6f555e8df27ef75fc39577c4abdc9bc5a41ffae2b94a628d965edd4a064ea77a"
+---
+
+# The Shops at West Falls Church
+
+The Shops at West Falls Church
+
+
+ueadmin
+
+
+Thu, 07/16/2026 - 21:20
+
+
+The Shops at West Falls Church
+
+
+Falls Church
+
+
+Virginia
+
+
+85265
+
+
+Image
+
+
+Image
+
+
+Image
+
+
+Image
+
+
+Image
+
+
+Image
+
+
+Image
+
+
+Floor Plan
+
+
+01
+
+
+Image

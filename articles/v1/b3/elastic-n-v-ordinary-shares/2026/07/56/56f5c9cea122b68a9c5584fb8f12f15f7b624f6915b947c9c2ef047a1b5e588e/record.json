@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56f5c9cea122b68a9c5584fb8f12f15f7b624f6915b947c9c2ef047a1b5e588e",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/elasticsearch-performance-diagnosis",
+    "canonical": "https://www.elastic.co/search-labs/blog/elasticsearch-performance-diagnosis"
+  },
+  "title": "98.9% faster queries, 4x more indexing throughput: a systematic Elasticsearch performance diagnosis",
+  "summary": "Diagnose Elasticsearch performance problems systematically using AutoOps, the Profile API and ES Rally, with benchmarks showing 98.9% faster queries.",
+  "published_at": "2026-07-14T03:17:49+00:00",
+  "first_seen_at": "2026-07-21T17:41:41.822757+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-28T21:23:09.514929+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/56/56f5c9cea122b68a9c5584fb8f12f15f7b624f6915b947c9c2ef047a1b5e588e/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/56/56f5c9cea122b68a9c5584fb8f12f15f7b624f6915b947c9c2ef047a1b5e588e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19157,
+    "sha256": "sha256:71329ae8d49d684219615d181978dd72505d03f8e48cb3152ccd261d7df7595e",
+    "normalized_content_hash": "sha256:c96be393d0404a4ca40637c13745422e30673f331cdb85219b5adeb2c5f70ef0"
+  },
+  "provenance": {
+    "source_item_id": "1e8cf46a-e9fb-4f31-826e-5ca93df66596",
+    "external_id": "https://www.elastic.co/search-labs/blog/elasticsearch-performance-diagnosis"
+  }
+}

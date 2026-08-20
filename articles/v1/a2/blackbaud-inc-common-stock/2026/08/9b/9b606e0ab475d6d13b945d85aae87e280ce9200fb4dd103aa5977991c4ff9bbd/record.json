@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b606e0ab475d6d13b945d85aae87e280ce9200fb4dd103aa5977991c4ff9bbd",
+  "company": {
+    "key": "blackbaud-inc-common-stock",
+    "name": "Blackbaud Inc."
+  },
+  "source": {
+    "id": "blackbaud-inc-common-stock-news-import-f15f3df66a77",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blackbaud.com/newsroom/all-news",
+    "canonical": "https://www.blackbaud.com/newsroom/all-news"
+  },
+  "title": "View All News",
+  "summary": "",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:28:04.045554+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-20T02:24:53.311514+00:00",
+  "paths": {
+    "article": "articles/v1/a2/blackbaud-inc-common-stock/2026/08/9b/9b606e0ab475d6d13b945d85aae87e280ce9200fb4dd103aa5977991c4ff9bbd/article.md",
+    "record": "articles/v1/a2/blackbaud-inc-common-stock/2026/08/9b/9b606e0ab475d6d13b945d85aae87e280ce9200fb4dd103aa5977991c4ff9bbd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3638,
+    "sha256": "sha256:86b9fd1cf044f0b2bdb3584595f125b86ca54b3b9966657b5b941be5089af7b7",
+    "normalized_content_hash": "sha256:d3a714970387ec368d5ad201bf3d800e622b3814a065fffe9bb069433111059a"
+  },
+  "provenance": {
+    "source_item_id": "bad5c316-fe61-42e3-a62a-cb12494240ac",
+    "external_id": "https://www.blackbaud.com/newsroom/all-news"
+  }
+}

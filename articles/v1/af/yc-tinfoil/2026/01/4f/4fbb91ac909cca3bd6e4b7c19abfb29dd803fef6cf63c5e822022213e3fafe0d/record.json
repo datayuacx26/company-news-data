@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4fbb91ac909cca3bd6e4b7c19abfb29dd803fef6cf63c5e822022213e3fafe0d",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2026-01-22-private-ai-web-search",
+    "canonical": "https://tinfoil.sh/blog/2026-01-22-private-ai-web-search"
+  },
+  "title": "How We Implemented Private AI Web Search",
+  "summary": "A look into our system design, threat model, and evaluation for private web search—architected so that even Tinfoil cannot see your search queries.",
+  "published_at": "2026-01-22T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2026/01/4f/4fbb91ac909cca3bd6e4b7c19abfb29dd803fef6cf63c5e822022213e3fafe0d/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2026/01/4f/4fbb91ac909cca3bd6e4b7c19abfb29dd803fef6cf63c5e822022213e3fafe0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15353,
+    "sha256": "sha256:c0db8365e5345e19f3dce1bf182864913b34d6af22a4eadbe51acac0fe158b17",
+    "normalized_content_hash": "sha256:90c22a627c99ae113e36b9fcf783812dab8a33172cb7299f7ea3b5daf3b48540"
+  },
+  "provenance": {
+    "source_item_id": "63f811eb-7716-41d8-b4de-69f6a8d70353",
+    "external_id": "https://tinfoil.sh/blog/2026-01-22-private-ai-web-search"
+  }
+}

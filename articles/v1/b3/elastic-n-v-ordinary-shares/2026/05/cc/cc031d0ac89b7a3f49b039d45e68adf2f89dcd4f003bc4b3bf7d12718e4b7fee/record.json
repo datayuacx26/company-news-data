@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc031d0ac89b7a3f49b039d45e68adf2f89dcd4f003bc4b3bf7d12718e4b7fee",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/tycoon-2fa-aitm-detection-engineering",
+    "canonical": "https://www.elastic.co/security-labs/tycoon-2fa-aitm-detection-engineering"
+  },
+  "title": "Detecting Tycoon 2FA AiTM attacks across Entra ID and Google Workspace",
+  "summary": "Tycoon 2FA bypasses MFA on Entra ID and Google Workspace. We map telemetry fingerprints, ship detection rules, and contain incidents in under 10 seconds.",
+  "published_at": "2026-05-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-04T15:21:54.327350+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/cc/cc031d0ac89b7a3f49b039d45e68adf2f89dcd4f003bc4b3bf7d12718e4b7fee/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/cc/cc031d0ac89b7a3f49b039d45e68adf2f89dcd4f003bc4b3bf7d12718e4b7fee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 34495,
+    "sha256": "sha256:71e86b2eaa9fc3919f52b450503f12bd1278330fb0c163c95c59b3481ea5c048",
+    "normalized_content_hash": "sha256:6c7326a42dc9f3b4d65a4b2d5f4e4d747d631358b7439f3862d3ccf9824ca4f2"
+  },
+  "provenance": {
+    "source_item_id": "225008d6-ed02-4a9c-a412-b85af201893f",
+    "external_id": "tycoon-2fa-aitm-detection-engineering"
+  }
+}

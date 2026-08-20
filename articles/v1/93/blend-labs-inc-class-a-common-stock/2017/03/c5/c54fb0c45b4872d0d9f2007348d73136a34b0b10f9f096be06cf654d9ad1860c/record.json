@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c54fb0c45b4872d0d9f2007348d73136a34b0b10f9f096be06cf654d9ad1860c",
+  "company": {
+    "key": "blend-labs-inc-class-a-common-stock",
+    "name": "Blend Labs Inc."
+  },
+  "source": {
+    "id": "blend-labs-inc-class-a-common-stock-rss-4631133ca4a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://full-stack.blend.com/centralizing-logs-in-an-isolated-aws-account.html",
+    "canonical": "https://full-stack.blend.com/centralizing-logs-in-an-isolated-aws-account.html"
+  },
+  "title": "Centralizing Logs in an Isolated AWS Account",
+  "summary": "As a member of the information security team here at Blend, I recently teamed up with the business analytics team to re-architect our log pipeline to increase the security and availability of both the log delivery system and access to the logs themselves. Since the logs provide crucial insight into the production environment for many different teams at Blend, we found ourselves with a list of different requirements to accommodate each team.",
+  "published_at": "2017-03-15T08:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:18:43.300114+00:00",
+  "fetched_at": "2026-08-20T00:34:47.711311+00:00",
+  "last_updated_at": "2026-08-20T00:34:47.824667+00:00",
+  "paths": {
+    "article": "articles/v1/93/blend-labs-inc-class-a-common-stock/2017/03/c5/c54fb0c45b4872d0d9f2007348d73136a34b0b10f9f096be06cf654d9ad1860c/article.md",
+    "record": "articles/v1/93/blend-labs-inc-class-a-common-stock/2017/03/c5/c54fb0c45b4872d0d9f2007348d73136a34b0b10f9f096be06cf654d9ad1860c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1073,
+    "sha256": "sha256:0bbd9c2b16c9f3ea43975a618562c528086ee036e5a4e5ee5b96e7f4cd2215dd",
+    "normalized_content_hash": "sha256:e453879ea5303be826ef39897306053e9b9843cdb31c18bf0b23a7836623607a"
+  },
+  "provenance": {
+    "source_item_id": "378d7884-b0fd-4cf3-b8e5-a0af905a90e0",
+    "external_id": "https://full-stack.blend.com/centralizing-logs-in-an-isolated-aws-account.html"
+  }
+}

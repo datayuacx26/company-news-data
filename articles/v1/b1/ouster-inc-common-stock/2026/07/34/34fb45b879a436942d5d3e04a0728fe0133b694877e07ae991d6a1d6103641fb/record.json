@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34fb45b879a436942d5d3e04a0728fe0133b694877e07ae991d6a1d6103641fb",
+  "company": {
+    "key": "ouster-inc-common-stock",
+    "name": "Ouster Inc."
+  },
+  "source": {
+    "id": "ouster-inc-common-stock-news-import-d3df9a0809e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ouster.com/insights/blog/tum-bridging-sim-to-real-with-lidar",
+    "canonical": "https://ouster.com/insights/blog/tum-bridging-sim-to-real-with-lidar"
+  },
+  "title": "TUM: Bridging the Sim-to-Real Gap with Digital Twins and Digital Lidar",
+  "summary": "TUM’s EDGAR uses Ouster digital lidar and an open-source digital twin to bridge the sim-to-real gap, accelerating the path to production for Physical AI.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:00:35.952779+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:55:30.856387+00:00",
+  "paths": {
+    "article": "articles/v1/b1/ouster-inc-common-stock/2026/07/34/34fb45b879a436942d5d3e04a0728fe0133b694877e07ae991d6a1d6103641fb/article.md",
+    "record": "articles/v1/b1/ouster-inc-common-stock/2026/07/34/34fb45b879a436942d5d3e04a0728fe0133b694877e07ae991d6a1d6103641fb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2569,
+    "sha256": "sha256:966892c5b34e244a9c74f1ed697ab37ecc52970549c353c03af10df172798cf3",
+    "normalized_content_hash": "sha256:1dfca0a27c0355729e5fa67e638a99d3dab0548bc03736ced6a05f0445dcc10d"
+  },
+  "provenance": {
+    "source_item_id": "59bc939f-54d5-4312-870c-4474c5727dce",
+    "external_id": "https://ouster.com/insights/blog/tum-bridging-sim-to-real-with-lidar"
+  }
+}

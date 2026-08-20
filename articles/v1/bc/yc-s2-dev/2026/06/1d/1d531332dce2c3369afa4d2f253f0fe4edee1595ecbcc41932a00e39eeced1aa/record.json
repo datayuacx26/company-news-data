@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d531332dce2c3369afa4d2f253f0fe4edee1595ecbcc41932a00e39eeced1aa",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/local-ai",
+    "canonical": "https://s2.dev/blog/local-ai"
+  },
+  "title": "Serving Local AI on my Jetson through Durable Streams",
+  "summary": "Its time to self-host!",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2026/06/1d/1d531332dce2c3369afa4d2f253f0fe4edee1595ecbcc41932a00e39eeced1aa/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2026/06/1d/1d531332dce2c3369afa4d2f253f0fe4edee1595ecbcc41932a00e39eeced1aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16690,
+    "sha256": "sha256:ad7eede306691adc70237ac708f0fb628fe9370a37ecfb41ab701a8ac60d66a8",
+    "normalized_content_hash": "sha256:c3519434a6372711f2db76f5ec6f0a49d284455965209010e3ea359775a34d3a"
+  },
+  "provenance": {
+    "source_item_id": "4f2910a7-a7fd-4226-b30d-0d5df68e357d",
+    "external_id": "https://s2.dev/blog/local-ai"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cd33ebd5f6887bd9ada8fac8ed92fc4d936468d139ddcb93cf48517f7336b9fe",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/relational-database-design-mistakes/",
+    "canonical": "https://blog.openreplay.com/relational-database-design-mistakes/"
+  },
+  "title": "Common Relational Database Design Mistakes",
+  "summary": "Avoid common relational database design mistakes in Postgres and MySQL: enforce constraints, choose keys, index joins, and store timestamps correctly.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T12:34:13.837817+00:00",
+  "fetched_at": "2026-07-29T12:34:15.089730+00:00",
+  "last_updated_at": "2026-08-08T05:17:41.693999+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/cd/cd33ebd5f6887bd9ada8fac8ed92fc4d936468d139ddcb93cf48517f7336b9fe/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/cd/cd33ebd5f6887bd9ada8fac8ed92fc4d936468d139ddcb93cf48517f7336b9fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17473,
+    "sha256": "sha256:7dd29f9fe5f243abe149e20f56e95e524c7636c88431244b6d57e839b687832d",
+    "normalized_content_hash": "sha256:a96733620711bb88062903f9063c63d73072b1f5110fca32a933c09f1016bdee"
+  },
+  "provenance": {
+    "source_item_id": "ccf5af3c-d9e4-4bcf-80b2-45c37fcf41d9",
+    "external_id": "https://blog.openreplay.com/relational-database-design-mistakes/"
+  }
+}

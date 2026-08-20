@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "46938b4724908d6e284c0ca418beaf75d632e47cb4dc50addaeb26125579474c",
+  "company": {
+    "key": "yc-posh",
+    "name": "Posh"
+  },
+  "source": {
+    "id": "yc-posh-news-import-f698d2ed19c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.poshenergy.com/articles/battery-fires-in-focus",
+    "canonical": "https://poshenergy.com/articles/battery-fires-in-focus"
+  },
+  "title": "Battery Fires in Focus: Dissecting the Moss Landing Incident",
+  "summary": "In light of the Moss Landing fire, we share our thoughts on the causes, impact and approaches to make sure how such incidents can be prevented in the future.",
+  "published_at": "2025-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T02:02:38.001931+00:00",
+  "fetched_at": "2026-08-10T02:02:39.525089+00:00",
+  "last_updated_at": "2026-08-19T20:54:59.893808+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-posh/2025/01/46/46938b4724908d6e284c0ca418beaf75d632e47cb4dc50addaeb26125579474c/article.md",
+    "record": "articles/v1/b2/yc-posh/2025/01/46/46938b4724908d6e284c0ca418beaf75d632e47cb4dc50addaeb26125579474c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4268,
+    "sha256": "sha256:88db22cd8768ac8c7e7e7b3829a3e7f910fc546570aacec0127330334d33e1f0",
+    "normalized_content_hash": "sha256:65f3f5dfa8fc8c6ae181b36e15126fbf2ec0c0888d1d18508a7e7db121461401"
+  },
+  "provenance": {
+    "source_item_id": "2851227f-de45-4bc6-957e-7f6a71905332",
+    "external_id": "https://poshenergy.com/articles/battery-fires-in-focus"
+  }
+}

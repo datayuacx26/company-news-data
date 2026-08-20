@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ce806402183e3c93bac5001067e838ab5249fce044d236418f3164dd0e7136a",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/upgrading-your-stripe-plugin-security",
+    "canonical": "https://stripe.dev/blog/upgrading-your-stripe-plugin-security"
+  },
+  "title": "Upgrading your Stripe plugin security",
+  "summary": "Secure your Stripe integrations by ditching unrestricted secret keys—learn how to protect merchant accounts with restricted access API keys and OAuth 2.0, and avoid compliance fees.",
+  "published_at": "2024-09-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/09/9c/9ce806402183e3c93bac5001067e838ab5249fce044d236418f3164dd0e7136a/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/09/9c/9ce806402183e3c93bac5001067e838ab5249fce044d236418f3164dd0e7136a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4909,
+    "sha256": "sha256:d70a23a96b437e03cb46009ccfafb9771b08b29d31598465d3a5d6e04cd305a5",
+    "normalized_content_hash": "sha256:44e3af45c96cdd4b493210f3f303f99ef13d2e753e8303d0241adf324c3d2c2b"
+  },
+  "provenance": {
+    "source_item_id": "d7027e6e-4757-4a3f-820e-2d42c5287603",
+    "external_id": "https://stripe.dev/blog/upgrading-your-stripe-plugin-security"
+  }
+}

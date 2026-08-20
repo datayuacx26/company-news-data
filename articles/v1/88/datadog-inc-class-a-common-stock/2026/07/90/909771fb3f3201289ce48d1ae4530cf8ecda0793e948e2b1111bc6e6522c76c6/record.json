@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "909771fb3f3201289ce48d1ae4530cf8ecda0793e948e2b1111bc6e6522c76c6",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/choosing-apm-instrumentation/",
+    "canonical": "https://www.datadoghq.com/blog/choosing-apm-instrumentation/"
+  },
+  "title": "From zero to traces: Choosing the right APM instrumentation method for your stack",
+  "summary": "Learn why Single Step Instrumentation is our default recommendation for setting up APM traces, and when to consider other methods.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/90/909771fb3f3201289ce48d1ae4530cf8ecda0793e948e2b1111bc6e6522c76c6/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/90/909771fb3f3201289ce48d1ae4530cf8ecda0793e948e2b1111bc6e6522c76c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8382,
+    "sha256": "sha256:f4334ff46a313c95fb223d6f1b3e8e0a72b3ea49aa1d55d4a5d48f52d06a550a",
+    "normalized_content_hash": "sha256:656aa8cc52300f4cec45fc6265ee316c9b0d1ff4ec8c8fe6f40df6036303963e"
+  },
+  "provenance": {
+    "source_item_id": "b2892b57-5fb2-462d-9c1b-205ab7a22ad6",
+    "external_id": "https://www.datadoghq.com/blog/choosing-apm-instrumentation/"
+  }
+}

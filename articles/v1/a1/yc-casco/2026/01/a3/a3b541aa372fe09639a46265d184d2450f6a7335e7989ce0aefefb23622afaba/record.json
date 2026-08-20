@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a3b541aa372fe09639a46265d184d2450f6a7335e7989ce0aefefb23622afaba",
+  "company": {
+    "key": "yc-casco",
+    "name": "Casco"
+  },
+  "source": {
+    "id": "yc-casco-news-import-3e4503ef629e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://casco.com/blog/owasp-top-10-2025-navigating-the-new-security-landscape",
+    "canonical": "https://casco.com/blog/owasp-top-10-2025-navigating-the-new-security-landscape"
+  },
+  "title": "OWASP Top 10 2025: Navigating the New Security Landscape",
+  "summary": "The release of the OWASP Top 10 2025 marks a pivotal moment for application security. While some classic vulnerabilities remain, the list reflects a world where software is increasingly complex and interconnected. For security teams, this means the goalposts have moved from finding simple bugs to securing entire ecosystems.",
+  "published_at": "2026-01-28T20:26:00+00:00",
+  "first_seen_at": "2026-07-21T12:40:29.812234+00:00",
+  "fetched_at": "2026-07-28T22:23:02.996601+00:00",
+  "last_updated_at": "2026-08-20T02:45:37.533025+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-casco/2026/01/a3/a3b541aa372fe09639a46265d184d2450f6a7335e7989ce0aefefb23622afaba/article.md",
+    "record": "articles/v1/a1/yc-casco/2026/01/a3/a3b541aa372fe09639a46265d184d2450f6a7335e7989ce0aefefb23622afaba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4636,
+    "sha256": "sha256:000cecf92fd179b29da1cacdb25df2259996bfc27483336cb7d8ef1f08f873d7",
+    "normalized_content_hash": "sha256:ce1d9b5dab5ffbaebee16350c98998fa5b6a0089839eaef8fc436000ee6b045a"
+  },
+  "provenance": {
+    "source_item_id": "087ce0db-a5a3-44da-aea1-fc5cd10f39eb",
+    "external_id": "https://casco.com/blog/owasp-top-10-2025-navigating-the-new-security-landscape"
+  }
+}

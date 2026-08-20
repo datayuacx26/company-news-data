@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ligo-biosciences",
+    "name": "Ligo Biosciences"
+  },
+  "record_count": 2,
+  "first_published_at": "2025-02-24T00:00:00+00:00",
+  "last_published_at": "2026-05-20T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b2/yc-ligo-biosciences/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2172,
+        "sha256": "sha256:be6b78a06ee4ef80584b6cee935f49e2499527854a8fa17a4e6185275846e648",
+        "newest_at": "2026-05-20T00:00:00+00:00",
+        "oldest_at": "2025-02-24T00:00:00+00:00"
+      }
+    ]
+  }
+}

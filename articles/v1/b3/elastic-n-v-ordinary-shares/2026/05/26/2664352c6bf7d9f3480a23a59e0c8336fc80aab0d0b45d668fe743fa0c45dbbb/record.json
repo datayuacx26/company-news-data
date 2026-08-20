@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2664352c6bf7d9f3480a23a59e0c8336fc80aab0d0b45d668fe743fa0c45dbbb",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/copy-fail-dirtyfrag-linux-page-bugs-in-the-wild",
+    "canonical": "https://www.elastic.co/security-labs/copy-fail-dirtyfrag-linux-page-bugs-in-the-wild"
+  },
+  "title": "Copy Fail and DirtyFrag: Linux Page Cache Bugs in the Wild",
+  "summary": "This research analyzes the Linux kernel privilege escalation vulnerabilities Copy Fail and DirtyFrag, which exploit subtle page cache corruption bugs to create reliable paths to root access. Additionally, Elastic Security Labs is releasing detection logic for these vulnerabilities.",
+  "published_at": "2026-05-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:30:09.053610+00:00",
+  "fetched_at": "2026-07-28T22:15:07.431097+00:00",
+  "last_updated_at": "2026-07-30T15:38:56.051346+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/26/2664352c6bf7d9f3480a23a59e0c8336fc80aab0d0b45d668fe743fa0c45dbbb/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/05/26/2664352c6bf7d9f3480a23a59e0c8336fc80aab0d0b45d668fe743fa0c45dbbb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16666,
+    "sha256": "sha256:ffd10b783f49057ab019299a0994d5725650fa0c104f5930ee634cb0dc7766c8",
+    "normalized_content_hash": "sha256:84a9f3f2db2045666ccdfb7c10a31393986a268b6e2e8554bb25990d4a060e04"
+  },
+  "provenance": {
+    "source_item_id": "839d0384-e8c5-4e74-a904-066c45dcf7a9",
+    "external_id": "copy-fail-dirtyfrag-linux-page-bugs-in-the-wild"
+  }
+}

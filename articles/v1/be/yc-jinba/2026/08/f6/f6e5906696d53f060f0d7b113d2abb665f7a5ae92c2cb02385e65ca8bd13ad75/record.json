@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6e5906696d53f060f0d7b113d2abb665f7a5ae92c2cb02385e65ca8bd13ad75",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/reduce-openai-api-costs-regulated-enterprises",
+    "canonical": "https://jinba.io/blog/reduce-openai-api-costs-regulated-enterprises"
+  },
+  "title": "How to Reduce OpenAI API Costs for Regulated Enterprise Workloads",
+  "summary": "Standard OpenAI cost tips fail regulated enterprises. Learn the 4 architectural levers, private hosting, deterministic workflows, on-prem, and governed reuse, that cut costs 15-60x.",
+  "published_at": "2026-08-02T17:00:00+00:00",
+  "first_seen_at": "2026-08-03T04:14:34.998373+00:00",
+  "fetched_at": "2026-08-03T04:26:23.705919+00:00",
+  "last_updated_at": "2026-08-13T01:06:09.775781+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/f6/f6e5906696d53f060f0d7b113d2abb665f7a5ae92c2cb02385e65ca8bd13ad75/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/f6/f6e5906696d53f060f0d7b113d2abb665f7a5ae92c2cb02385e65ca8bd13ad75/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16910,
+    "sha256": "sha256:3aabb834b98f6fdbd5fa3da79fa06aa717f972870eb19b18a29f8da819474aff",
+    "normalized_content_hash": "sha256:7a37c2ac0a034b2ddedf1c2eba0399ae4bf3cddaa3aa2162d31b9d0dfaa46321"
+  },
+  "provenance": {
+    "source_item_id": "732be955-8102-40c7-b626-092c08709bb6",
+    "external_id": "https://jinba.io/blog/reduce-openai-api-costs-regulated-enterprises"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68087039517c93dfb76d36fab4f35168db5e963878ba757250884ad2a4979ef6",
+  "company": {
+    "key": "sentinelone-inc-class-a-common-stock",
+    "name": "SentinelOne Inc."
+  },
+  "source": {
+    "id": "sentinelone-inc-class-a-common-stock-rss-86808feccfbf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.sentinelone.com/blog/mount-here-read-there-twin-path-traversal-cves-in-kubernetes-storage/",
+    "canonical": "https://www.sentinelone.com/blog/mount-here-read-there-twin-path-traversal-cves-in-kubernetes-storage/"
+  },
+  "title": "Mount Here, Read There: Twin Path Traversal CVEs in Kubernetes Storage",
+  "summary": "Discover how a filepath.Join misconception caused cross-tenant path traversal vulnerabilities in Kubernetes CSI drivers.",
+  "published_at": "2026-07-23T13:00:50+00:00",
+  "first_seen_at": "2026-07-23T13:41:30.567190+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T00:23:50.865701+00:00",
+  "paths": {
+    "article": "articles/v1/90/sentinelone-inc-class-a-common-stock/2026/07/68/68087039517c93dfb76d36fab4f35168db5e963878ba757250884ad2a4979ef6/article.md",
+    "record": "articles/v1/90/sentinelone-inc-class-a-common-stock/2026/07/68/68087039517c93dfb76d36fab4f35168db5e963878ba757250884ad2a4979ef6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17576,
+    "sha256": "sha256:b269f1c2f9e0f42a283c32c27606db0ea71267a23fead22a105e899d04065c69",
+    "normalized_content_hash": "sha256:7fa442c5ea4061d18de8533b0ff4cbfd802ad0ba5d4abeb1152ff9cb6c264218"
+  },
+  "provenance": {
+    "source_item_id": "a6b5a28d-0b62-44f0-879b-36de45e2e40f",
+    "external_id": "https://www.sentinelone.com/?p=141388"
+  }
+}

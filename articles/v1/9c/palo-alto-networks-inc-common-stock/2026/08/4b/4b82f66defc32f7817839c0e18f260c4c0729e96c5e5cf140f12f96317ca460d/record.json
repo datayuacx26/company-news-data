@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b82f66defc32f7817839c0e18f260c4c0729e96c5e5cf140f12f96317ca460d",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
+    "canonical": "https://unit42.paloaltonetworks.com/soc-identity-front-door/"
+  },
+  "title": "Inside the Modern SOC: The Identity Front Door",
+  "summary": "Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond.",
+  "published_at": "2026-08-07T23:00:01+00:00",
+  "first_seen_at": "2026-08-08T01:31:26.677639+00:00",
+  "fetched_at": "2026-08-08T01:31:27.665339+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/4b/4b82f66defc32f7817839c0e18f260c4c0729e96c5e5cf140f12f96317ca460d/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/4b/4b82f66defc32f7817839c0e18f260c4c0729e96c5e5cf140f12f96317ca460d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6989,
+    "sha256": "sha256:811b5e02931eda54bca585c027570f9d275c5d80d0100bb7b1ee659c57c88a6c",
+    "normalized_content_hash": "sha256:787ba4c042a32b42fa5a704d89fa8daecd30cf98560bbfcb14144466e38122fe"
+  },
+  "provenance": {
+    "source_item_id": "2a5b4ab6-d998-414e-a4a9-12c08ac1ec2b",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=184235"
+  }
+}

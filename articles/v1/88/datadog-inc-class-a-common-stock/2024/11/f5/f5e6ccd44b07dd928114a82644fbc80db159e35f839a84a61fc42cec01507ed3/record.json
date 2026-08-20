@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5e6ccd44b07dd928114a82644fbc80db159e35f839a84a61fc42cec01507ed3",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/formal-modeling-and-simulation/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/formal-modeling-and-simulation/"
+  },
+  "title": "How we use formal modeling, lightweight simulations, and chaos testing to design reliable distributed systems",
+  "summary": "Learn how we used formal modeling and simulation to analyze a distributed, multi-tenant queueing system.",
+  "published_at": "2024-11-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:58:43.171296+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/11/f5/f5e6ccd44b07dd928114a82644fbc80db159e35f839a84a61fc42cec01507ed3/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/11/f5/f5e6ccd44b07dd928114a82644fbc80db159e35f839a84a61fc42cec01507ed3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 36724,
+    "sha256": "sha256:3f202520588a31976e1b179040fba54fe1901f88ab2ced63f2b7c350b34c94a4",
+    "normalized_content_hash": "sha256:92d19195f945c46013284581f60d295e3550b10198efff7cae7151eb0ed40da1"
+  },
+  "provenance": {
+    "source_item_id": "47e872bd-1a6d-496b-9ecd-c5e7b5b76815",
+    "external_id": "https://www.datadoghq.com/blog/engineering/formal-modeling-and-simulation/"
+  }
+}

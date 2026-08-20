@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b13361ab4cd89c405b5dfdbd0bd7b9fa5d7e3e2c3aa523870e15b28f98d49bb",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/ncc-cryptography-audit-go-ssh/",
+    "canonical": "https://goteleport.com/blog/ncc-cryptography-audit-go-ssh/"
+  },
+  "title": "How Two Small Bugs Led to a Critical Vulnerability and a Cryptography Audit of Go’s SSH Library",
+  "summary": "Learn about NCC Group's cryptographic audit of Go's SSH package.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T18:17:57.160881+00:00",
+  "fetched_at": "2026-08-10T18:17:58.271876+00:00",
+  "last_updated_at": "2026-08-20T00:27:53.070714+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/08/9b/9b13361ab4cd89c405b5dfdbd0bd7b9fa5d7e3e2c3aa523870e15b28f98d49bb/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/08/9b/9b13361ab4cd89c405b5dfdbd0bd7b9fa5d7e3e2c3aa523870e15b28f98d49bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3930,
+    "sha256": "sha256:68d481697ec8dedf7f920596a6aa33623255c66639768b8295073e7f557c7dcd",
+    "normalized_content_hash": "sha256:4d46e96d513e052365ab50c0f3cc299bd3c1bb16e1f4e305f820a8b36dea3a16"
+  },
+  "provenance": {
+    "source_item_id": "0309f570-2cfa-48f5-8665-fdf6594faae5",
+    "external_id": "https://goteleport.com/blog/ncc-cryptography-audit-go-ssh/"
+  }
+}

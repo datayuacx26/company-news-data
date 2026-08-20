@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-hiration",
+    "name": "Hiration"
+  },
+  "record_count": 48,
+  "first_published_at": "2026-07-09T15:50:00+00:00",
+  "last_published_at": "2026-08-18T05:32:32+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 29
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 19
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/yc-hiration/index/pages/000001.json",
+        "record_count": 48,
+        "byte_count": 50201,
+        "sha256": "sha256:ddd7118d20c301af95ca9babd9994d6dac139fecb6196188c9c71b13e1840210",
+        "newest_at": "2026-08-18T05:32:32+00:00",
+        "oldest_at": "2026-07-09T15:50:00+00:00"
+      }
+    ]
+  }
+}

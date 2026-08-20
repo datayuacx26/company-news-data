@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "406a76b86e0ec477e6f8e48462ce3b9a281da96385d9678ac67219a133389393",
+  "company": {
+    "key": "arteris-inc-common-stock",
+    "name": "Arteris Inc."
+  },
+  "source": {
+    "id": "arteris-inc-common-stock-news-import-b55a70a8b442",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arteris.com/blog/electronic-design-the-missing-layer-in-ai-systems-design-is-predictable-scalable-data-movement/",
+    "canonical": "https://www.arteris.com/blog/electronic-design-the-missing-layer-in-ai-systems-design-is-predictable-scalable-data-movement/"
+  },
+  "title": "Electronic Design: The Missing Layer in AI Systems Design is Predictable, Scalable Data Movement",
+  "summary": "The article explores why predictable, scalable data movement is becoming a critical architectural requirement for AI systems as compute complexity and bandwidth demands continue to grow.",
+  "published_at": "2026-08-07T10:13:36+00:00",
+  "first_seen_at": "2026-08-14T11:16:47.114080+00:00",
+  "fetched_at": "2026-08-14T11:16:49.294100+00:00",
+  "last_updated_at": "2026-08-19T23:38:47.439305+00:00",
+  "paths": {
+    "article": "articles/v1/bf/arteris-inc-common-stock/2026/08/40/406a76b86e0ec477e6f8e48462ce3b9a281da96385d9678ac67219a133389393/article.md",
+    "record": "articles/v1/bf/arteris-inc-common-stock/2026/08/40/406a76b86e0ec477e6f8e48462ce3b9a281da96385d9678ac67219a133389393/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6121,
+    "sha256": "sha256:47c63fd91bf83dac799c616738544bd85a226f50f0b76097ea1f0302708b0ace",
+    "normalized_content_hash": "sha256:16d89c0a8edd56875ddcf63126003ab8836273905958c3bff8c27988d78249b5"
+  },
+  "provenance": {
+    "source_item_id": "566d3870-391c-49ef-a8c5-fb184476e977",
+    "external_id": "https://www.arteris.com/blog/electronic-design-the-missing-layer-in-ai-systems-design-is-predictable-scalable-data-movement/"
+  }
+}

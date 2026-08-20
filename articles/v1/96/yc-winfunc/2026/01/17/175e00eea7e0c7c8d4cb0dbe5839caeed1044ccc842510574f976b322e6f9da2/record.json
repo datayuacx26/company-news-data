@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "175e00eea7e0c7c8d4cb0dbe5839caeed1044ccc842510574f976b322e6f9da2",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-42926",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-42926"
+  },
+  "title": "HTTP/2 upstream frame injection via oversized proxy_set_body (CVE-2026-42926)",
+  "summary": "When proxyhttpversion 2 selected the HTTP/2 upstream proxy path and proxysetbody generated a custom request body, ngxhttpproxyv2createrequest() appended…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/17/175e00eea7e0c7c8d4cb0dbe5839caeed1044ccc842510574f976b322e6f9da2/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/17/175e00eea7e0c7c8d4cb0dbe5839caeed1044ccc842510574f976b322e6f9da2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12600,
+    "sha256": "sha256:514da1edfdf4e0fe7d34ce0744bffc6bade869222fda98c88475f22ce37cc7de",
+    "normalized_content_hash": "sha256:aba84938720a8691393a6dd4f4d5c95827da92c641566b119ba6a8054ccd1a47"
+  },
+  "provenance": {
+    "source_item_id": "b0a568ae-a1fe-4691-9034-d222b3ae70f3",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-42926"
+  }
+}

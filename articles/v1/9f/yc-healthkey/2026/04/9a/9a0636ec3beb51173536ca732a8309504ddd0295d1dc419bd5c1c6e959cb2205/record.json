@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9a0636ec3beb51173536ca732a8309504ddd0295d1dc419bd5c1c6e959cb2205",
+  "company": {
+    "key": "yc-healthkey",
+    "name": "HealthKey"
+  },
+  "source": {
+    "id": "yc-healthkey-news-import-1fd531f6f800",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://gethealthkey.com/blog/rheumatology",
+    "canonical": "https://gethealthkey.com/blog/rheumatology"
+  },
+  "title": "Rheumatology",
+  "summary": "HealthKey uses AI to prescreen your entire EHR to surface patients who actually qualify for your clinical trials. Instead of CRCs spending hours manually scrubbing charts, we scan 80,000 patients and find the exact 42 who are eligible, ranked by how likely they are to enroll. The result is accelerated enrollment, reduced screen failures, and fewer delayed trials -- ultimately getting patients access to potentially life-changing treatments faster.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:36:55.969292+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T01:09:00.061309+00:00",
+  "paths": {
+    "article": "articles/v1/9f/yc-healthkey/2026/04/9a/9a0636ec3beb51173536ca732a8309504ddd0295d1dc419bd5c1c6e959cb2205/article.md",
+    "record": "articles/v1/9f/yc-healthkey/2026/04/9a/9a0636ec3beb51173536ca732a8309504ddd0295d1dc419bd5c1c6e959cb2205/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1656,
+    "sha256": "sha256:e5b2ffd1c0a92f252fb09440f897a7205c3760775dc17cd27c3b6a8b67088262",
+    "normalized_content_hash": "sha256:433031280f28a376e6970951e09d6f49ae4ef3301da4e41ace8a4edd13daa7c6"
+  },
+  "provenance": {
+    "source_item_id": "d70c200c-e17f-4adb-ae02-510c7c0f3014",
+    "external_id": "https://gethealthkey.com/blog/rheumatology"
+  }
+}

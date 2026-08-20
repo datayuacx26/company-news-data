@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "record_count": 57,
+  "first_published_at": "2026-06-30T15:00:57+00:00",
+  "last_published_at": "2026-08-17T12:34:51+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 38
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 17
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8d/nvidia/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 54801,
+        "sha256": "sha256:b83315f1d8fe9c97d54d8426779feb848628e27d05adae2cc566bba21dad2d7d",
+        "newest_at": "2026-08-17T12:34:51+00:00",
+        "oldest_at": "2026-07-07T06:00:26+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/8d/nvidia/index/pages/000002.json",
+        "record_count": 7,
+        "byte_count": 7310,
+        "sha256": "sha256:347b99972ff31ac2b83b651d183ded50023efbc0caae416ac3b898f7bf608990",
+        "newest_at": "2026-07-06T16:00:00+00:00",
+        "oldest_at": "2026-06-30T15:00:57+00:00"
+      }
+    ]
+  }
+}

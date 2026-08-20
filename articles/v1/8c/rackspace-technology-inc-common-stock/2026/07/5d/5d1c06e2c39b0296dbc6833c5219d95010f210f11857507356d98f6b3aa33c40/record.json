@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d1c06e2c39b0296dbc6833c5219d95010f210f11857507356d98f6b3aa33c40",
+  "company": {
+    "key": "rackspace-technology-inc-common-stock",
+    "name": "Rackspace Technology Inc."
+  },
+  "source": {
+    "id": "rackspace-technology-inc-common-stock-news-import-038771c82b17",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://spot.rackspace.com/blog/default-kibana-username-kubernetes",
+    "canonical": "https://spot.rackspace.com/blog/default-kibana-username-kubernetes"
+  },
+  "title": "What Is the Default Kibana Username in Kubernetes? (And How to Find Your Password)",
+  "summary": "The default Kibana username on Kubernetes is elastic, not kibana_system. Learn how to retrieve the auto-generated password with ECK, Helm, or manifests.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T16:39:53.912266+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-08-05T00:00:46.589759+00:00",
+  "paths": {
+    "article": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/07/5d/5d1c06e2c39b0296dbc6833c5219d95010f210f11857507356d98f6b3aa33c40/article.md",
+    "record": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/07/5d/5d1c06e2c39b0296dbc6833c5219d95010f210f11857507356d98f6b3aa33c40/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17013,
+    "sha256": "sha256:ea739428e6a2c6a4b9504498f1af516675dba151e29d0fad2f2a55de39066d8d",
+    "normalized_content_hash": "sha256:9c14f3750d68096774ecc277d9919387f75bf0a65caf0355237262740a12b81d"
+  },
+  "provenance": {
+    "source_item_id": "b2789fa9-0927-4a61-81fc-149a8ec40e12",
+    "external_id": "https://spot.rackspace.com/blog/default-kibana-username-kubernetes"
+  }
+}

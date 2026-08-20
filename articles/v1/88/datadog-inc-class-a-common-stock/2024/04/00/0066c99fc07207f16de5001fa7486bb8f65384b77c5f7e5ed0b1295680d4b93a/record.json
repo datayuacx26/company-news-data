@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0066c99fc07207f16de5001fa7486bb8f65384b77c5f7e5ed0b1295680d4b93a",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-3/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-3/"
+  },
+  "title": ".NET Continuous Profiler: Exception and lock contention",
+  "summary": "How we handle exceptions and lock contention in our .NET continuous profiler.",
+  "published_at": "2024-04-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:26:02.237076+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/04/00/0066c99fc07207f16de5001fa7486bb8f65384b77c5f7e5ed0b1295680d4b93a/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/04/00/0066c99fc07207f16de5001fa7486bb8f65384b77c5f7e5ed0b1295680d4b93a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16011,
+    "sha256": "sha256:2320efe0116225d0d6081b52ee1086ac62e1d613eced9c47640f7a9da8cf2a1a",
+    "normalized_content_hash": "sha256:816bae8682037c30175db9f49f15965a04597a8cba493d04acd65785c2f487a6"
+  },
+  "provenance": {
+    "source_item_id": "7f3efa48-941c-4711-9332-9ecf2bc614ed",
+    "external_id": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-3/"
+  }
+}

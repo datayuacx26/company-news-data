@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26421136a3a1fbc9efbf21299d7ad15bb962d743e4b7b16e6e73cfed2291d5d4",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending",
+    "canonical": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending"
+  },
+  "title": "What Link data tells us about AI spending",
+  "summary": "We analyzed spending patterns across the 250 million customers paying with Link. We found that Link customers are spending more on AI than they were three months prior, investing heavily in platforms that let them build with AI.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:05:27.623858+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T02:17:02.759010+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/26/26421136a3a1fbc9efbf21299d7ad15bb962d743e4b7b16e6e73cfed2291d5d4/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/26/26421136a3a1fbc9efbf21299d7ad15bb962d743e4b7b16e6e73cfed2291d5d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2737,
+    "sha256": "sha256:49317010f5de5d745dfdb4dddef45eea833d812735be2536e9da16e7820a8c11",
+    "normalized_content_hash": "sha256:a0388bc11f1b81237b98912d69ff492bb1659996b082230d5125ae68f0074409"
+  },
+  "provenance": {
+    "source_item_id": "9fcd45be-493a-4fe5-8ddf-2d4063a71e51",
+    "external_id": "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending"
+  }
+}

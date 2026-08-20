@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f8e1e236a7c9e2f1c9d9b4e737dbedefb941953d3abd0e398cd5864a2bea40a",
+  "company": {
+    "key": "cellebrite-di-ltd-ordinary-shares",
+    "name": "Cellebrite DI Ltd."
+  },
+  "source": {
+    "id": "cellebrite-di-ltd-ordinary-shares-news-import-5108dc200e80",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cellebrite.com/en/blog/ios-device-orientation-tracking-forensics-unified-logs/",
+    "canonical": "https://cellebrite.com/en/blog/ios-device-orientation-tracking-forensics-unified-logs/"
+  },
+  "title": "Can You Tell if a Device was Picked Up? iOS Device Orientation Tracking in Forensics",
+  "summary": "Learn how iOS Unified Logs track device orientation for forensic investigations, indicating physical handling even when the screen was off.",
+  "published_at": "2026-06-12T07:39:43+00:00",
+  "first_seen_at": "2026-07-21T12:57:31.558749+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T02:45:26.159506+00:00",
+  "paths": {
+    "article": "articles/v1/98/cellebrite-di-ltd-ordinary-shares/2026/06/8f/8f8e1e236a7c9e2f1c9d9b4e737dbedefb941953d3abd0e398cd5864a2bea40a/article.md",
+    "record": "articles/v1/98/cellebrite-di-ltd-ordinary-shares/2026/06/8f/8f8e1e236a7c9e2f1c9d9b4e737dbedefb941953d3abd0e398cd5864a2bea40a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8608,
+    "sha256": "sha256:dd45078a90f20e2766f504d94fab4cee3985d3bcb70bb05a46c32e7e62fb70a8",
+    "normalized_content_hash": "sha256:ac94325d86c3ef568498a454131adc67d467f9defc1803926c79222dea180b3d"
+  },
+  "provenance": {
+    "source_item_id": "d7ef89a3-afbb-4916-8d63-c5740980279f",
+    "external_id": "https://cellebrite.com/en/blog/ios-device-orientation-tracking-forensics-unified-logs/"
+  }
+}

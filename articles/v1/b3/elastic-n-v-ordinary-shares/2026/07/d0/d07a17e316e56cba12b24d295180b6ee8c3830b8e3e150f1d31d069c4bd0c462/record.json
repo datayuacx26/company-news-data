@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d07a17e316e56cba12b24d295180b6ee8c3830b8e3e150f1d31d069c4bd0c462",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/vector-search-benchmark-elasticsearch-qdrant",
+    "canonical": "https://www.elastic.co/search-labs/blog/vector-search-benchmark-elasticsearch-qdrant"
+  },
+  "title": "The disk that never woke up: what actually decided our Qdrant vector search benchmark rematch",
+  "summary": "A reproduced vector search benchmark shows Elasticsearch and Qdrant land in the same range once setup and segment count are matched.",
+  "published_at": "2026-07-13T13:56:02+00:00",
+  "first_seen_at": "2026-07-21T17:41:41.822757+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:37.037659+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/d0/d07a17e316e56cba12b24d295180b6ee8c3830b8e3e150f1d31d069c4bd0c462/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/d0/d07a17e316e56cba12b24d295180b6ee8c3830b8e3e150f1d31d069c4bd0c462/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27105,
+    "sha256": "sha256:2e8b6724bfdeb1e4507e4b0c2a3ac0a36c8c95ba365f7c33d268412d3f6c5e1d",
+    "normalized_content_hash": "sha256:34f4d4d5de34f9bed5e033cf782296872ba56a501d19b7678a5e02e888ef6fc5"
+  },
+  "provenance": {
+    "source_item_id": "eb727c74-b45b-4972-adea-e908892f697b",
+    "external_id": "https://www.elastic.co/search-labs/blog/vector-search-benchmark-elasticsearch-qdrant"
+  }
+}

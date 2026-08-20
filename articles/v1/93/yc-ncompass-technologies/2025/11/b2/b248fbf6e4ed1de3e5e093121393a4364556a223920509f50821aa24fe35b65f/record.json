@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b248fbf6e4ed1de3e5e093121393a4364556a223920509f50821aa24fe35b65f",
+  "company": {
+    "key": "yc-ncompass-technologies",
+    "name": "nCompass Technologies"
+  },
+  "source": {
+    "id": "yc-ncompass-technologies-rss-225d7ec730f1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://community.ncompass.tech/t/sdk-tracepoint-injection-fails-when-enable-rewrites-is-called-from-the-same-script-that-is-profiled/19",
+    "canonical": "https://community.ncompass.tech/t/sdk-tracepoint-injection-fails-when-enable-rewrites-is-called-from-the-same-script-that-is-profiled/19"
+  },
+  "title": "SDK tracepoint injection fails when enable_rewrites is called from the same script that is profiled",
+  "summary": "We’re working on this. For now, it would be ideal if you could setup the SDK and call enable_rewrites in a different file to the file that contains the function you are profiling.",
+  "published_at": "2025-11-20T23:02:57+00:00",
+  "first_seen_at": "2026-07-25T15:45:43.528659+00:00",
+  "fetched_at": "2026-07-28T22:25:10.100738+00:00",
+  "last_updated_at": "2026-08-20T02:33:23.503903+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-ncompass-technologies/2025/11/b2/b248fbf6e4ed1de3e5e093121393a4364556a223920509f50821aa24fe35b65f/article.md",
+    "record": "articles/v1/93/yc-ncompass-technologies/2025/11/b2/b248fbf6e4ed1de3e5e093121393a4364556a223920509f50821aa24fe35b65f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1316,
+    "sha256": "sha256:ee965c9b462ce60150fb805273e5c3b329e5ca1961944e58d8ec495891d65b96",
+    "normalized_content_hash": "sha256:54a4b3041bbd7488fe00529a2cd5eab076fd15f1bd5ada5ff1f96276b6b3e27a"
+  },
+  "provenance": {
+    "source_item_id": "2b7dee6c-426f-4d0a-a1c8-d5ec830a6769",
+    "external_id": "community.ncompass.tech-topic-19"
+  }
+}

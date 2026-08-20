@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65b30af0599fe29f6af0c812d2236852b0bc8c2f34c7033fbb9fca443ac8e81d",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/claude-code-codex-web-data-layer-anakin-mcp",
+    "canonical": "https://anakin.io/blog/claude-code-codex-web-data-layer-anakin-mcp"
+  },
+  "title": "Anakin MCP - How to give Claude Code and Codex a real web data layer",
+  "summary": "Claude Code's WebSearch returns links, not content. Anakin's remote MCP connector gives your agent real web access -…",
+  "published_at": "2026-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:45:54.754455+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/07/65/65b30af0599fe29f6af0c812d2236852b0bc8c2f34c7033fbb9fca443ac8e81d/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/07/65/65b30af0599fe29f6af0c812d2236852b0bc8c2f34c7033fbb9fca443ac8e81d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9375,
+    "sha256": "sha256:aa03d23ac50cc5dc245ce09a3249f9738d4d5a4e88c60dce458fc6b9eaebef42",
+    "normalized_content_hash": "sha256:3cd1445b6e37be03bb9953e07fe16f525e08ae8ec7615fa6071ce550f333d9cd"
+  },
+  "provenance": {
+    "source_item_id": "b4f0fcb2-5a45-4561-b75d-593bd62aca9d",
+    "external_id": "https://anakin.io/blog/claude-code-codex-web-data-layer-anakin-mcp"
+  }
+}

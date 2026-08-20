@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd11048bd5afde8c3c1093987dafa31a4a96f6b81d2705de576919611f0118ad",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/review-ai-generated-code-difftastic/",
+    "canonical": "https://blog.openreplay.com/review-ai-generated-code-difftastic/"
+  },
+  "title": "Reviewing AI-Generated Code with Difftastic",
+  "summary": "Use Difftastic to review AI-generated code with structural diffs, install it in git, and isolate behavior changes from reformatting noise.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T07:50:16.961097+00:00",
+  "fetched_at": "2026-08-05T07:50:18.082714+00:00",
+  "last_updated_at": "2026-08-15T02:08:33.520652+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/bd/bd11048bd5afde8c3c1093987dafa31a4a96f6b81d2705de576919611f0118ad/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/bd/bd11048bd5afde8c3c1093987dafa31a4a96f6b81d2705de576919611f0118ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11050,
+    "sha256": "sha256:1f77351940170750a5cbee870aa2c29707185dbb001ee2c8bf9525f4967ee33d",
+    "normalized_content_hash": "sha256:6d5649821b7c79090bec169eb50ee5abc1f4390aa7418709d2ec3757314b737b"
+  },
+  "provenance": {
+    "source_item_id": "06b9402d-a7c2-4d45-9994-c370bb93758a",
+    "external_id": "https://blog.openreplay.com/review-ai-generated-code-difftastic/"
+  }
+}

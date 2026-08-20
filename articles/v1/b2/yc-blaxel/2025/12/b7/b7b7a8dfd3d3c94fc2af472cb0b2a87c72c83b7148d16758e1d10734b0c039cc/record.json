@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7b7a8dfd3d3c94fc2af472cb0b2a87c72c83b7148d16758e1d10734b0c039cc",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/stop-paying-for-idle-how-we-built-per-second-metering-for-blaxel-sandboxes",
+    "canonical": "https://blaxel.ai/blog/stop-paying-for-idle-how-we-built-per-second-metering-for-blaxel-sandboxes"
+  },
+  "title": "Stop paying for idle: how we built per-second metering for Blaxel Sandboxes",
+  "summary": "How we built event-driven usage metering for Blaxel Sandboxes, AI Hosting and Batch Jobs, to ensure credit-based billing only for when compute is really used.",
+  "published_at": "2025-12-03T13:52:15+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:55:10.614706+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2025/12/b7/b7b7a8dfd3d3c94fc2af472cb0b2a87c72c83b7148d16758e1d10734b0c039cc/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2025/12/b7/b7b7a8dfd3d3c94fc2af472cb0b2a87c72c83b7148d16758e1d10734b0c039cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11465,
+    "sha256": "sha256:0a32689fc224fd3f9caed7c6ac8e652b1a9b29b6bc87f312df63edb83eabb649",
+    "normalized_content_hash": "sha256:baa9b5399583d8f8884338616d9443c63d801fa006ce713bd76484b9b74cc515"
+  },
+  "provenance": {
+    "source_item_id": "fb3952be-0fb5-4933-aa80-9ec955380da1",
+    "external_id": "https://blaxel.ai/blog/stop-paying-for-idle-how-we-built-per-second-metering-for-blaxel-sandboxes"
+  }
+}

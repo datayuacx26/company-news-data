@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13e7412a661b01f3d92b3b9cd27a34e95db551681f19d7fc2ab23e0def0b793a",
+  "company": {
+    "key": "yc-suger",
+    "name": "Suger"
+  },
+  "source": {
+    "id": "yc-suger-news-import-2505a48c7131",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.suger.io/resources/blog/exporting-marketplace-data-to-your-warehouse/",
+    "canonical": "https://www.suger.io/resources/blog/exporting-marketplace-data-to-your-warehouse/"
+  },
+  "title": "Exporting Marketplace Data to Your Warehouse",
+  "summary": "Marketplace data arrives daily, in CSV, with two different timestamps on every row. Here is how to land it in a warehouse without corrupting your history.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T09:12:25.375763+00:00",
+  "fetched_at": "2026-08-15T09:12:26.807099+00:00",
+  "last_updated_at": "2026-08-18T20:23:46.515720+00:00",
+  "paths": {
+    "article": "articles/v1/8f/yc-suger/2026/08/13/13e7412a661b01f3d92b3b9cd27a34e95db551681f19d7fc2ab23e0def0b793a/article.md",
+    "record": "articles/v1/8f/yc-suger/2026/08/13/13e7412a661b01f3d92b3b9cd27a34e95db551681f19d7fc2ab23e0def0b793a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9825,
+    "sha256": "sha256:a6d1e191109f6ce76be75fa668ca013362638f6f60f6653602b8ce3d59e35351",
+    "normalized_content_hash": "sha256:dbe7b011c88f73cb4eb677962c9b62410f926f861bf59af0592c5028c2b1e03a"
+  },
+  "provenance": {
+    "source_item_id": "b83f4131-47e5-45b5-9335-22619c15f588",
+    "external_id": "https://www.suger.io/resources/blog/exporting-marketplace-data-to-your-warehouse/"
+  }
+}

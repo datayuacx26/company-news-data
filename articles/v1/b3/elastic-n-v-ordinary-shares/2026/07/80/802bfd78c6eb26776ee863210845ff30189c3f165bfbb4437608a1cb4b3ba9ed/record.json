@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "802bfd78c6eb26776ee863210845ff30189c3f165bfbb4437608a1cb4b3ba9ed",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/wp2shell-wordpress-rce-detection-elastic-defend",
+    "canonical": "https://www.elastic.co/security-labs/wp2shell-wordpress-rce-detection-elastic-defend"
+  },
+  "title": "wp2shell hits WordPress: detecting pre-auth RCE from plugin drop to command execution",
+  "summary": "We ran the wp2shell WordPress RCE chain end-to-end with Elastic Defend. Detection rule walkthrough, IOCs, and hunt guidance.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:57:23.739169+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/80/802bfd78c6eb26776ee863210845ff30189c3f165bfbb4437608a1cb4b3ba9ed/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/80/802bfd78c6eb26776ee863210845ff30189c3f165bfbb4437608a1cb4b3ba9ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26238,
+    "sha256": "sha256:963168de20773aac97e7f375a0a42effc4e98a7770257efe8d5e9f3d5227e78f",
+    "normalized_content_hash": "sha256:3288695153997c488e6d681c1ef992048e7cdfc403074e48bd8754cc28d8a01a"
+  },
+  "provenance": {
+    "source_item_id": "8be72972-9bd7-4974-a1c7-70ba0395cf85",
+    "external_id": "wp2shell-wordpress-rce-detection-elastic-defend"
+  }
+}

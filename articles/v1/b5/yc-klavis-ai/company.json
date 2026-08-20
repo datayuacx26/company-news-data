@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-klavis-ai",
+    "name": "Klavis AI"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-10-25T00:00:00+00:00",
+  "last_published_at": "2025-12-16T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b5/yc-klavis-ai/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12970,
+        "sha256": "sha256:555922e1a413bb2d1447da850e46f484a337ec4a0439c8fe944e85cf622f8211",
+        "newest_at": "2025-12-16T00:00:00+00:00",
+        "oldest_at": "2025-10-25T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c35311e81cbaf39ad65b6f21ae85e88ec9a32867b2c86bd9e4db155ea21516a4",
+  "company": {
+    "key": "yc-skyvern",
+    "name": "Skyvern"
+  },
+  "source": {
+    "id": "yc-skyvern-rss-4bc1426a1548",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.skyvern.com/blog/html-vs-json-llm-tokens-cost-reduction-success-rate/",
+    "canonical": "https://www.skyvern.com/blog/html-vs-json-llm-tokens-cost-reduction-success-rate/"
+  },
+  "title": "How We Cut Token Count by 11% and Boosted Success Rate by 3.9% Using HTML Instead of JSON in LLM Calls (Updated June 2026)",
+  "summary": "We switched from JSON to HTML for Skyvern LLM actions and cut token costs by 11.4% while increasing success rate by 3.9%. Updated June 2026 case study results.",
+  "published_at": "2026-06-19T23:05:50+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.914365+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-07-28T21:13:58.127180+00:00",
+  "paths": {
+    "article": "articles/v1/b9/yc-skyvern/2026/06/c3/c35311e81cbaf39ad65b6f21ae85e88ec9a32867b2c86bd9e4db155ea21516a4/article.md",
+    "record": "articles/v1/b9/yc-skyvern/2026/06/c3/c35311e81cbaf39ad65b6f21ae85e88ec9a32867b2c86bd9e4db155ea21516a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12083,
+    "sha256": "sha256:e1a556b14ed1ea16e9f82d33fdc61617845133f9653c546fda58ff715827f250",
+    "normalized_content_hash": "sha256:09476f5f6a69988a473c4be8a77c711f76d589afb575a9e8d902c89b87a5df9b"
+  },
+  "provenance": {
+    "source_item_id": "c0a2c177-453e-4df7-adbe-390643d2efe4",
+    "external_id": "6a35cb4e7f77470001005720"
+  }
+}

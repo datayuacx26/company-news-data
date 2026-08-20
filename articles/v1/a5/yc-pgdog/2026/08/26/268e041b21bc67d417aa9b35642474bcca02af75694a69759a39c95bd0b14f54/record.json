@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "268e041b21bc67d417aa9b35642474bcca02af75694a69759a39c95bd0b14f54",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/pgdog-vs-rds-proxy",
+    "canonical": "https://pgdog.dev/blog/pgdog-vs-rds-proxy"
+  },
+  "title": "PgDog vs. RDS Proxy",
+  "summary": "PgDog is a connection pooler, load balancer, and sharding proxy for PostgreSQL. Scale Postgres horizontally without rewriting your application.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-17T21:14:14.212202+00:00",
+  "fetched_at": "2026-08-17T21:14:15.462251+00:00",
+  "last_updated_at": "2026-08-20T02:38:54.029156+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2026/08/26/268e041b21bc67d417aa9b35642474bcca02af75694a69759a39c95bd0b14f54/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2026/08/26/268e041b21bc67d417aa9b35642474bcca02af75694a69759a39c95bd0b14f54/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7620,
+    "sha256": "sha256:8673a97820c65e2bc6b04cc82a509ebda2f98ba7c80255607fc061009f7d976d",
+    "normalized_content_hash": "sha256:2bdeabd6a4e871896c53523322456078eef50681686b5b6e09c6ae5123da5b87"
+  },
+  "provenance": {
+    "source_item_id": "e12f628e-1038-431f-8476-75013e68e408",
+    "external_id": "https://pgdog.dev/blog/pgdog-vs-rds-proxy"
+  }
+}

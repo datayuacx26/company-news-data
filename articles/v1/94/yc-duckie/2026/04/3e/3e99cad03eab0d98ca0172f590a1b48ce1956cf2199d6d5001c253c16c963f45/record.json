@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e99cad03eab0d98ca0172f590a1b48ce1956cf2199d6d5001c253c16c963f45",
+  "company": {
+    "key": "yc-duckie",
+    "name": "Duckie"
+  },
+  "source": {
+    "id": "yc-duckie-news-import-5dbf38d576c9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://duckie.ai/blog/ai-support-agents-that-process-refunds-2026",
+    "canonical": "https://duckie.ai/blog/ai-support-agents-that-process-refunds-2026"
+  },
+  "title": "AI Support Agents That Process Refunds, Not Suggest Them",
+  "summary": "AI support agents that process refunds connect to your payment system, verify the request, call the Stripe Refunds API, log every step, and close the ticket.",
+  "published_at": "2026-04-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:20:41.598001+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-20T02:59:18.158093+00:00",
+  "paths": {
+    "article": "articles/v1/94/yc-duckie/2026/04/3e/3e99cad03eab0d98ca0172f590a1b48ce1956cf2199d6d5001c253c16c963f45/article.md",
+    "record": "articles/v1/94/yc-duckie/2026/04/3e/3e99cad03eab0d98ca0172f590a1b48ce1956cf2199d6d5001c253c16c963f45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14026,
+    "sha256": "sha256:211d42377e67df58038e341a6bb92ce3179eb8fb6be8f3b01e1635164d6f3f14",
+    "normalized_content_hash": "sha256:16e5476a096c9dd93df618430cd3b70c1e0e1609930ba55918762dd79baca6c0"
+  },
+  "provenance": {
+    "source_item_id": "6b15ad3d-0e78-465e-9023-1dbe98aec91f",
+    "external_id": "https://duckie.ai/blog/ai-support-agents-that-process-refunds-2026"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c18ae201b984297fb6b436d7e0cdccc4c009ace4061e279aa0604a2dda8a2698",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/agentic-ocr",
+    "canonical": "https://www.firecrawl.dev/blog/agentic-ocr"
+  },
+  "title": "What is Agentic OCR? (2026)",
+  "summary": "Agentic OCR wraps traditional OCR in an AI agent that reviews, corrects, and re-runs extraction until the output is clean. Here's how it works, plus a working Python agent built on Firecrawl.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T00:42:27.511400+00:00",
+  "fetched_at": "2026-08-13T00:42:29.708270+00:00",
+  "last_updated_at": "2026-08-20T02:25:45.443161+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/08/c1/c18ae201b984297fb6b436d7e0cdccc4c009ace4061e279aa0604a2dda8a2698/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/08/c1/c18ae201b984297fb6b436d7e0cdccc4c009ace4061e279aa0604a2dda8a2698/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17979,
+    "sha256": "sha256:545bda7045370250adb550a8d8f1a7b5bc2d5e5de41cafc50d8af45f144a76e3",
+    "normalized_content_hash": "sha256:c86c6b17692c55badda6baa53238b38e72fdf88a4bd137a434365e96e29aa1ed"
+  },
+  "provenance": {
+    "source_item_id": "8d45271a-e775-4935-8b26-6b76213c11af",
+    "external_id": "https://www.firecrawl.dev/blog/agentic-ocr"
+  }
+}

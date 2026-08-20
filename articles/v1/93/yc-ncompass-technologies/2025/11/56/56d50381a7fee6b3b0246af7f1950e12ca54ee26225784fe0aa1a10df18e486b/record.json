@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56d50381a7fee6b3b0246af7f1950e12ca54ee26225784fe0aa1a10df18e486b",
+  "company": {
+    "key": "yc-ncompass-technologies",
+    "name": "nCompass Technologies"
+  },
+  "source": {
+    "id": "yc-ncompass-technologies-rss-225d7ec730f1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://community.ncompass.tech/t/sdk-tracepoint-injection-fails-when-region-is-a-single-line-inside-a-torch-profiler-context/20",
+    "canonical": "https://community.ncompass.tech/t/sdk-tracepoint-injection-fails-when-region-is-a-single-line-inside-a-torch-profiler-context/20"
+  },
+  "title": "SDK tracepoint injection fails when region is a single line inside a torch profiler context",
+  "summary": "If you have the following code: 33 with torch.profiler.profile(….) as prof: 34 some_func() and you mark line 34 in the VSCode editor as the tracepoint, the trace marker won’t show up when you run a profile. If you have more than 1 line as follows: 33 with torch.profiler.profile(….) as prof: 34 some_func() 35 ...some_other_code... and then you place the tracepoint on line 34, it’ll work fine. We’re working on figuring out what the issue is.",
+  "published_at": "2025-11-20T23:06:35+00:00",
+  "first_seen_at": "2026-07-25T15:45:43.528659+00:00",
+  "fetched_at": "2026-07-28T22:25:10.100738+00:00",
+  "last_updated_at": "2026-08-20T02:33:23.503903+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-ncompass-technologies/2025/11/56/56d50381a7fee6b3b0246af7f1950e12ca54ee26225784fe0aa1a10df18e486b/article.md",
+    "record": "articles/v1/93/yc-ncompass-technologies/2025/11/56/56d50381a7fee6b3b0246af7f1950e12ca54ee26225784fe0aa1a10df18e486b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1606,
+    "sha256": "sha256:00f95f1cdaebac1d079aaadaa47421f13560220375de8448eeda9911ccbd4311",
+    "normalized_content_hash": "sha256:f3f1de017b11b70a28658fa25e845c52cd3f9171baa412020073119e44d6f9e1"
+  },
+  "provenance": {
+    "source_item_id": "fc5987b5-ebe7-49c1-83b0-785027a5046b",
+    "external_id": "community.ncompass.tech-topic-20"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e5220a243843f63004ca5d950baa99a7ad9361835bacbc8a545a9af87784d81",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2024-34347",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2024-34347"
+  },
+  "title": "Hoppscotch CLI sandbox escape through Node vm pre-request scripts (CVE-2024-34347)",
+  "summary": "Hoppscotch CLI executes collection-supplied pre-request and test scripts while running hopp test. Unlike the web and desktop clients, the CLI could not…",
+  "published_at": "2024-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2024/01/2e/2e5220a243843f63004ca5d950baa99a7ad9361835bacbc8a545a9af87784d81/article.md",
+    "record": "articles/v1/96/yc-winfunc/2024/01/2e/2e5220a243843f63004ca5d950baa99a7ad9361835bacbc8a545a9af87784d81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9088,
+    "sha256": "sha256:0c7a6b79cda6608d58f40d715bfe78344f3aaa8b58c58fcbf23e2656e40eae12",
+    "normalized_content_hash": "sha256:ad3dc92e281328db0c6bb610566824d3ac0da520a49c57487ef4d7e181b804db"
+  },
+  "provenance": {
+    "source_item_id": "9b374d3a-b5f6-41f4-8f83-4b540dff7f86",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2024-34347"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "25efc6213a70e17e64c86fc5f6ab80b84122d3fc0567079a763d567d8dc4c3df",
+  "company": {
+    "key": "yc-pgdog",
+    "name": "PgDog"
+  },
+  "source": {
+    "id": "yc-pgdog-rss-662afb283f74",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://pgdog.dev/blog/replace-protobuf-with-rust",
+    "canonical": "https://pgdog.dev/blog/replace-protobuf-with-rust"
+  },
+  "title": "Replacing Protobuf with Rust to go 5 times faster",
+  "summary": "Forking pg_query.rs to replace Protobuf with bindgen-generated direct C-to-Rust struct mappings, yielding 5x faster query parsing and 10x faster deparsing in PgDog.",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:49.478310+00:00",
+  "fetched_at": "2026-07-28T22:23:15.131655+00:00",
+  "last_updated_at": "2026-08-20T02:38:54.029156+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-pgdog/2026/01/25/25efc6213a70e17e64c86fc5f6ab80b84122d3fc0567079a763d567d8dc4c3df/article.md",
+    "record": "articles/v1/a5/yc-pgdog/2026/01/25/25efc6213a70e17e64c86fc5f6ab80b84122d3fc0567079a763d567d8dc4c3df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10686,
+    "sha256": "sha256:4f2fb8b7e8c7d0c05738dd68d0350c20e419c5bbf8eb514eca883ca06c2be4b4",
+    "normalized_content_hash": "sha256:d08b31afae1066da52582fbb91dad73bc2e5771e480c982f9433fcc36b1d0497"
+  },
+  "provenance": {
+    "source_item_id": "934333c7-4843-4d36-9ab1-750b700f5898",
+    "external_id": "https://pgdog.dev/blog/replace-protobuf-with-rust"
+  }
+}

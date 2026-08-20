@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ef10d66e5560a601a38d2d57151901fa6478c9488ec3f5ad3d9386402d60b93",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/computing-accurate-percentiles-with-ddsketch/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/computing-accurate-percentiles-with-ddsketch/"
+  },
+  "title": "Computing accurate percentiles with DDSketch",
+  "summary": "Introducing DDSketch, the first fully-mergeable, relative-error quantile sketching algorithm with formal guarantees.",
+  "published_at": "2019-09-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2019/09/2e/2ef10d66e5560a601a38d2d57151901fa6478c9488ec3f5ad3d9386402d60b93/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2019/09/2e/2ef10d66e5560a601a38d2d57151901fa6478c9488ec3f5ad3d9386402d60b93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16124,
+    "sha256": "sha256:a6794c2ade8639add6b8b112c14e955f6fde7b28f5758d051ccfb28d17b9bf59",
+    "normalized_content_hash": "sha256:52fe98cf750c2630ee6815c00cb84f0a08f9467e6ac9b2f0ab509190088ccf4e"
+  },
+  "provenance": {
+    "source_item_id": "3254874a-e308-46e9-b502-316bbdc8e70e",
+    "external_id": "https://www.datadoghq.com/blog/engineering/computing-accurate-percentiles-with-ddsketch/"
+  }
+}

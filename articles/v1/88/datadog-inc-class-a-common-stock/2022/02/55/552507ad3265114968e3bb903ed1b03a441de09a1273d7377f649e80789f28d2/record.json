@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "552507ad3265114968e3bb903ed1b03a441de09a1273d7377f649e80789f28d2",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/profiling-improvements-in-go-1-18/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/profiling-improvements-in-go-1-18/"
+  },
+  "title": "Profiling improvements in Go 1.18",
+  "summary": "How several patches and fixes in Go 1.18 bring improved profiling accuracy.",
+  "published_at": "2022-02-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2022/02/55/552507ad3265114968e3bb903ed1b03a441de09a1273d7377f649e80789f28d2/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2022/02/55/552507ad3265114968e3bb903ed1b03a441de09a1273d7377f649e80789f28d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13272,
+    "sha256": "sha256:68d08cc896532e85af928cbe29ba90ca4bbc8c4076f0f0942230a47cd354ebce",
+    "normalized_content_hash": "sha256:9c92e5a8c544d9e54330de0dfeb3a0532b94ab36a110128204c13bfae5a7a11b"
+  },
+  "provenance": {
+    "source_item_id": "6f2b9a52-46f9-4743-b9b2-4820bfd4e048",
+    "external_id": "https://www.datadoghq.com/blog/engineering/profiling-improvements-in-go-1-18/"
+  }
+}

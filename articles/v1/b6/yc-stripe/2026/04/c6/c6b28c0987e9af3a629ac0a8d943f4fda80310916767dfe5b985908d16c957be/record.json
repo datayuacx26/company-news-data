@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c6b28c0987e9af3a629ac0a8d943f4fda80310916767dfe5b985908d16c957be",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-we-built-stripe-credits-a-programmable-auditable-way-to-pay-your-stripe-fees",
+    "canonical": "https://stripe.dev/blog/how-we-built-stripe-credits-a-programmable-auditable-way-to-pay-your-stripe-fees"
+  },
+  "title": "How we built Stripe Credits: A programmable, auditable way to pay your Stripe fees",
+  "summary": "In this post we’ll dive into how we built a virtual cashless payment method that works for prepaid and Stripe-issued credits, and cleanly integrates with our accounting, compliance, and other frameworks.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/04/c6/c6b28c0987e9af3a629ac0a8d943f4fda80310916767dfe5b985908d16c957be/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/04/c6/c6b28c0987e9af3a629ac0a8d943f4fda80310916767dfe5b985908d16c957be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4237,
+    "sha256": "sha256:62c967b240f99796d1261de8f3ae866ef3aac573ec4875d5dc6ff6c8904519b3",
+    "normalized_content_hash": "sha256:1d3d790a5c17b9d8afaa2506c65a3c0333bb5da64674c45ce3734c284210a2cd"
+  },
+  "provenance": {
+    "source_item_id": "784852c4-0b15-4987-8407-10e38432281d",
+    "external_id": "https://stripe.dev/blog/how-we-built-stripe-credits-a-programmable-auditable-way-to-pay-your-stripe-fees"
+  }
+}

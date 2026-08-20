@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "posco-holdings-inc-american-depositary-shares-each-representing-1-4th-of-a-share-of-common-stock",
+    "name": "POSCO HOLDINGS INC."
+  },
+  "record_count": 27,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/posco-holdings-inc-american-depositary-shares-each-representing-1-4th-of-a-share-of-common-stock/index/pages/000001.json",
+        "record_count": 27,
+        "byte_count": 35911,
+        "sha256": "sha256:364807c4309799f48aadb8fafa119fae234f733e307c7a938989a6f4cfd896a2",
+        "newest_at": "2026-08-18T04:27:13.191744+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

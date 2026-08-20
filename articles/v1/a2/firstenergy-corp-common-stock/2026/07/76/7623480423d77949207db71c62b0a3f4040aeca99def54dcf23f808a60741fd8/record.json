@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7623480423d77949207db71c62b0a3f4040aeca99def54dcf23f808a60741fd8",
+  "company": {
+    "key": "firstenergy-corp-common-stock",
+    "name": "FirstEnergy Corp."
+  },
+  "source": {
+    "id": "firstenergy-corp-common-stock-news-import-d7e6958e51fd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firstenergycorp.com/newsroom/news_articles/jcpl-power-restoration-update-july-4-2026.html",
+    "canonical": "https://www.firstenergycorp.com/newsroom/news_articles/jcpl-power-restoration-update-july-4-2026.html"
+  },
+  "title": "Media Advisory: JCP&L Power Restoration Update",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T20:13:03.926175+00:00",
+  "fetched_at": "2026-07-22T11:42:07.787541+00:00",
+  "last_updated_at": "2026-07-22T11:42:09.754262+00:00",
+  "paths": {
+    "article": "articles/v1/a2/firstenergy-corp-common-stock/2026/07/76/7623480423d77949207db71c62b0a3f4040aeca99def54dcf23f808a60741fd8/article.md",
+    "record": "articles/v1/a2/firstenergy-corp-common-stock/2026/07/76/7623480423d77949207db71c62b0a3f4040aeca99def54dcf23f808a60741fd8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3221,
+    "sha256": "sha256:d8a5ca2a12bb9984829de3acc9132b12654191c0b7e11ef0afb19c8d0635324f",
+    "normalized_content_hash": "sha256:0fdbd0d4e8cdb395f3421109332f5bbe9b30261ff264aa403ba61344ec60e33d"
+  },
+  "provenance": {
+    "source_item_id": "02146c99-ada8-4331-bbf6-6517fe519e2b",
+    "external_id": "https://www.firstenergycorp.com/newsroom/news_articles/jcpl-power-restoration-update-july-4-2026.html"
+  }
+}

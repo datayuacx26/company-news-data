@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6dde942793ed4d579a3828f6610197facfb382a43c4b7faf14f8fe0042808353",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/builder-in-the-loop-eric-lake-on-on-making-aura-smarter-after-every-incident",
+    "canonical": "https://www.mezmo.com/blog/builder-in-the-loop-eric-lake-on-on-making-aura-smarter-after-every-incident"
+  },
+  "title": "Builder in the loop: Eric Lake on making AURA smarter after every incident",
+  "summary": "Mezmo SRE Eric Lake connected AURA to GitHub runbooks via MCP, auto-generates missing ones, and stores investigation memory across incidents.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/6d/6dde942793ed4d579a3828f6610197facfb382a43c4b7faf14f8fe0042808353/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/6d/6dde942793ed4d579a3828f6610197facfb382a43c4b7faf14f8fe0042808353/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8573,
+    "sha256": "sha256:fac1e6f72ca897c1b9fcf7936d5f07d96f60658e10a6e56e023c810eee38d12b",
+    "normalized_content_hash": "sha256:d9cad6ea30831c40f306a84c5a6e50387df2130b3609096b675cc2feed917c8b"
+  },
+  "provenance": {
+    "source_item_id": "5c654f82-9980-4fc5-b928-8a79385d72e5",
+    "external_id": "https://www.mezmo.com/blog/builder-in-the-loop-eric-lake-on-on-making-aura-smarter-after-every-incident"
+  }
+}

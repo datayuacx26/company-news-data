@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "e151d4f96ecc09975c42121d0faae278fae96000a04421b423ec8d7cad48c56d"
+company_key: "astrazeneca-plc-ordinary-shares"
+company: "AstraZeneca PLC"
+source_id: "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27"
+canonical_url: "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2024/imfinzi-approved-in-us-for-limited-stage-sclc.html"
+published_at: "2024-12-05T01:30:00+00:00"
+first_seen_at: "2026-07-26T23:00:47.318234+00:00"
+fetched_at: "2026-07-28T03:42:03.141221+00:00"
+content_hash: "sha256:76f691d2201f2b93d7dc6b5cd8083e7e91f79aa0fb92f432414941f3dcfbc201"
+---
+
+# Imfinzi approved in the US as first and only immunotherapy regimen for patients with limited-stage small cell lung cancer
+
+

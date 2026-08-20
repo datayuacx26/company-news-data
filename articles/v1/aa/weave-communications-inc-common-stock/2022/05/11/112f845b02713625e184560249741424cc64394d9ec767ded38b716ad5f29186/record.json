@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "112f845b02713625e184560249741424cc64394d9ec767ded38b716ad5f29186",
+  "company": {
+    "key": "weave-communications-inc-common-stock",
+    "name": "Weave Communications Inc."
+  },
+  "source": {
+    "id": "weave-communications-inc-common-stock-rss-cb397ff18858",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.getweave.com/post/go-jwt-3/",
+    "canonical": "https://engineering.getweave.com/post/go-jwt-3/"
+  },
+  "title": "Distributed Auth With Go: From JWT to HTTP to gRPC - Part 3",
+  "summary": "This final part uses middleware to completely automate auth and eliminate all the toil to create a platform that is secure by default.",
+  "published_at": "2022-05-08T18:26:47+00:00",
+  "first_seen_at": "2026-07-20T23:19:36.973215+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-07-28T21:04:44.386334+00:00",
+  "paths": {
+    "article": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/11/112f845b02713625e184560249741424cc64394d9ec767ded38b716ad5f29186/article.md",
+    "record": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/11/112f845b02713625e184560249741424cc64394d9ec767ded38b716ad5f29186/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30015,
+    "sha256": "sha256:8f2b26521f7d71a646f28029ac65f4aed8bcbab0a890d3e88968aeca85d2ec0c",
+    "normalized_content_hash": "sha256:cb9a867b4ae81525787b67fcdc8bd354ad77aa1b1856bb2b2d3acddc18ab3123"
+  },
+  "provenance": {
+    "source_item_id": "3cc893b4-df93-48ca-86a2-820c57be624e",
+    "external_id": "https://engineering.getweave.com/post/go-jwt-3/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3970a5ba4ae9d76898039bad0cc13527467df742a401c46e113f98a00877096",
+  "company": {
+    "key": "yc-synth-3",
+    "name": "Synth"
+  },
+  "source": {
+    "id": "yc-synth-3-news-import-d5c503e27bee",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usesynth.ai/blog/jesterky-dynamic-workflows",
+    "canonical": "https://www.usesynth.ai/blog/jesterky-dynamic-workflows"
+  },
+  "title": "jesterky runs agent workflows as replayable programs",
+  "summary": "An open Rust workflow substrate for research engineers: fan out model work into seeded sandboxes, capture artifacts, and replay the orchestration path without pretending future model calls are deterministic.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:58:53.081142+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T00:36:48.843108+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-synth-3/2026/07/e3/e3970a5ba4ae9d76898039bad0cc13527467df742a401c46e113f98a00877096/article.md",
+    "record": "articles/v1/a1/yc-synth-3/2026/07/e3/e3970a5ba4ae9d76898039bad0cc13527467df742a401c46e113f98a00877096/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14447,
+    "sha256": "sha256:71a8f8c8e57f45ce5f332c8f23b428e25d0d60fdb4e1b55d8d1bfe3f9aa3a3ac",
+    "normalized_content_hash": "sha256:62bd32faaa14537427817ec864fa45df1bb0860284768eba54249a074c85dc7e"
+  },
+  "provenance": {
+    "source_item_id": "60b66fd4-fc50-4a5d-971c-5ce04a5741a7",
+    "external_id": "https://www.usesynth.ai/blog/jesterky-dynamic-workflows"
+  }
+}

@@ -1,0 +1,50 @@
+---
+schema_version: "1.0.0"
+document_id: "12f27ca85f046786abf5a4cd89fe3e188a11ea3f42dd335aca3d911d2f7b25b3"
+company_key: "tecnoglass-inc-ordinary-shares"
+company: "Tecnoglass Inc."
+source_id: "tecnoglass-inc-ordinary-shares-rss-28fda9a14db9"
+canonical_url: "https://investors.tecnoglass.com/Press-Releases/news-details/2026/Tecnoglass-Announces-First-Quarter-2026-Dividend/default.aspx"
+published_at: "2026-03-18T11:00:00+00:00"
+first_seen_at: "2026-07-26T07:49:24.047986+00:00"
+fetched_at: "2026-07-28T22:27:55.087291+00:00"
+content_hash: "sha256:0327507ae915e2aafb68cdedde3e4bde2138c6238446cceda9afd2deb603fb07"
+---
+
+# Tecnoglass Announces First Quarter 2026 Dividend
+
+[View All News](https://investors.tecnoglass.com/Press-Releases/default.aspx)
+
+
+### Tecnoglass Announces First Quarter 2026 Dividend
+
+
+March 18, 2026
+
+
+**Miami, FL, March 18, 2026 (GLOBE NEWSWIRE) -- Tecnoglass, Inc. (NYSE: TGLS) ("Tecnoglass" or the "Company")** , a leading producer of high-end aluminum and vinyl windows and architectural glass for the global residential and commercial end markets, today announced that its Board of Directors has declared a quarterly dividend of $0.15 per share, or $0.60 per share on an annualized basis, for the first quarter of 2026. Shareholders of record as of the close of business on March 31, 2026 will be paid a dividend of $0.15 on April 30, 2026.
+
+
+**About Tecnoglass**
+
+
+Tecnoglass Inc. is a leading producer of high-end aluminum and vinyl windows and architectural glass serving the multi-family, single-family, and commercial end markets. Tecnoglass is the second largest glass fabricator serving the U.S. and the #1 architectural glass transformation company in Latin America. Located in Barranquilla, Colombia, the Company’s 5.8 million square foot, vertically integrated, and state-of-the-art manufacturing complex provide efficient access to nearly 1,000 customers in North, Central and South America, with the United States accounting for 95% of total revenues. Tecnoglass’ tailored, high-end products are found on some of the world’s most distinctive properties, including One Thousand Museum (Miami), Paramount (Miami), Salesforce Tower (San Francisco), Via 57 West (NY), Hub50House (Boston), Aeropuerto Internacional El Dorado (Bogotá), One Plaza (Medellín), Pabellon de Cristal (Barranquilla). For more information, please visit[www.tecnoglass.com](https://www.globenewswire.com/Tracker?data=GaWkf4hjI3x3aLzXEEDGMFJhONEr0OxAh7ilm80x1YkK2CcWUTDsxq6RfgLr_RxyxK3k2tvNmCqqAw6a_7KXNO9oO9pXqf2ZUqKqpYW4x1w=) or view our corporate video at[https://vimeo.com/134429998](https://www.globenewswire.com/Tracker?data=V1mx2yiA9icFea2C_3pUaxOQOMqtbDa_mwVRjFKEtRQoyqf7LR1QWUpulYB4EP8f7ncvUmZ3JNUYnN0oq2nZrzyw2AV1UJRlmyMu4-2xHFHVyif-2w-sMdiRtbjW7sTF) .
+
+
+**Forward Looking Statements**
+
+
+This press release includes certain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding future financial performance, future growth and future acquisitions. These statements are based on Tecnoglass’ current expectations or beliefs and are subject to uncertainty and changes in circumstances. Actual results may vary materially from those expressed or implied by the statements herein due to changes in economic, business, competitive and/or regulatory factors, and other risks and uncertainties affecting the operation of Tecnoglass’ business. These risks, uncertainties and contingencies are indicated from time to time in Tecnoglass’ filings with the Securities and Exchange Commission. The information set forth herein should be read in light of such risks. Further, investors should keep in mind that Tecnoglass’ financial results in any particular period may not be indicative of future results. Tecnoglass is under no obligation to, and expressly disclaims any obligation to, update or alter its forward-looking statements, whether as a result of new information, future events and changes in assumptions or otherwise, except as required by law.
+
+
+**Investor Relations:**
+Santiago Giraldo
+CFO
+305-503-9062
+[investorrelations@tecnoglass.com](https://www.globenewswire.com/Tracker?data=kf0urJBaWVAfDcaoWg_2jMkKjjYFmbNUH4ee0GYYccuE73mkETVv5N3tMCHzLy5KbmEMgOlTfR4xEYTjFtRwH9cyl7-NDzBandjsGt8dEuXldIkIbcMJ-Bf_0YWawOHnYwja0Y2_yB54YzfsI3DBZQ==)
+
+
+Source: Tecnoglass Inc.
+
+
+[View All News](https://investors.tecnoglass.com/Press-Releases/default.aspx)

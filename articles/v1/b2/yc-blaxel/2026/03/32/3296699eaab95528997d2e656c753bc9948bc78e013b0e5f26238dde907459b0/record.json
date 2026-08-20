@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3296699eaab95528997d2e656c753bc9948bc78e013b0e5f26238dde907459b0",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/how-do-ai-agents-execute-code",
+    "canonical": "https://blaxel.ai/blog/how-do-ai-agents-execute-code"
+  },
+  "title": "How do AI agents execute code?",
+  "summary": "Learn how AI agents execute code end to end: reasoning loops, runtime isolation, MCP tool calling, and the infrastructure decisions for safe production.",
+  "published_at": "2026-03-25T19:36:59+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T22:00:16.885857+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/03/32/3296699eaab95528997d2e656c753bc9948bc78e013b0e5f26238dde907459b0/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/03/32/3296699eaab95528997d2e656c753bc9948bc78e013b0e5f26238dde907459b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21305,
+    "sha256": "sha256:ddda699f17c9f783b54bd98c8c136de092b9c674f795681470017434da6feb5b",
+    "normalized_content_hash": "sha256:57dbb7f7e51eb980d57b50bec9bd44275ce707c3c706a80fd320c63918983156"
+  },
+  "provenance": {
+    "source_item_id": "43a1a7d5-37e5-45a0-884c-825bb31befbc",
+    "external_id": "https://blaxel.ai/blog/how-do-ai-agents-execute-code"
+  }
+}

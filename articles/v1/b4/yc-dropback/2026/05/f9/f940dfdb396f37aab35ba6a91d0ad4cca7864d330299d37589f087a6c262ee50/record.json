@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f940dfdb396f37aab35ba6a91d0ad4cca7864d330299d37589f087a6c262ee50",
+  "company": {
+    "key": "yc-dropback",
+    "name": "Dropback"
+  },
+  "source": {
+    "id": "yc-dropback-news-import-0e7760b83150",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dropback.com/blog/data-engine-whitepaper",
+    "canonical": "https://www.dropback.com/blog/data-engine-whitepaper"
+  },
+  "title": "How we built it: The Dropback Data Engine",
+  "summary": "A technical breakdown of the Dropback Data Engine — extensible backend infrastructure for elite college sports programs. Entity resolution, append-only storage, bitemporal truth, and graph-native queries at trillion-row scale.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:16:14.910720+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-20T02:25:02.263126+00:00",
+  "paths": {
+    "article": "articles/v1/b4/yc-dropback/2026/05/f9/f940dfdb396f37aab35ba6a91d0ad4cca7864d330299d37589f087a6c262ee50/article.md",
+    "record": "articles/v1/b4/yc-dropback/2026/05/f9/f940dfdb396f37aab35ba6a91d0ad4cca7864d330299d37589f087a6c262ee50/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20205,
+    "sha256": "sha256:8b671279624e48768ce3ce7c941b589ff1462b6d9d4a49af7cf7c94250771a15",
+    "normalized_content_hash": "sha256:803aaec42210b9eb74630e64b20893a1b3a1c7197aa35fa2b28aa767b14ba2d9"
+  },
+  "provenance": {
+    "source_item_id": "ac45de49-f42f-4915-a40b-1ddc45c81ac6",
+    "external_id": "https://www.dropback.com/blog/data-engine-whitepaper"
+  }
+}

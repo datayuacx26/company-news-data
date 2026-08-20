@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "295d10b0720b419a7e19bb1d86f7f083c6e9dd2a06d433919a52f95924f0a7f4",
+  "company": {
+    "key": "yc-doppler",
+    "name": "Doppler"
+  },
+  "source": {
+    "id": "yc-doppler-news-import-86fd2de2d678",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.doppler.com/blog/june-26-product-update",
+    "canonical": "https://www.doppler.com/blog/june-26-product-update"
+  },
+  "title": "June '26 product updates",
+  "summary": "OIDC for Terraform, secret notes as code, and more updates across the Doppler platform.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:53:43.668103+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T14:27:17.422364+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-doppler/2026/07/29/295d10b0720b419a7e19bb1d86f7f083c6e9dd2a06d433919a52f95924f0a7f4/article.md",
+    "record": "articles/v1/82/yc-doppler/2026/07/29/295d10b0720b419a7e19bb1d86f7f083c6e9dd2a06d433919a52f95924f0a7f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2360,
+    "sha256": "sha256:52bbf6a88132c2db148f2c011a988efd4f3f69aca996c1a7cdff9fd8a3e0293f",
+    "normalized_content_hash": "sha256:07ba6c89ade56d8fe0947eb3a56697594ed33ad3ab89ec3434e42d6492db7285"
+  },
+  "provenance": {
+    "source_item_id": "8e0abf47-9db5-4555-8666-e16288ba202c",
+    "external_id": "https://www.doppler.com/blog/june-26-product-update"
+  }
+}

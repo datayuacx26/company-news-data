@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4a82936bfc771c993db7ec9068bdba98ec31c1803bc2426ca67703555d0d2e0",
+  "company": {
+    "key": "kennametal-inc-common-stock",
+    "name": "Kennametal Inc."
+  },
+  "source": {
+    "id": "kennametal-inc-common-stock-news-import-b1531c135564",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kennametal.com/us/en/news/123195.html",
+    "canonical": "https://www.kennametal.com/us/en/news/123195.html"
+  },
+  "title": "Kennametal Announces Fiscal 2026 Third Quarter Results",
+  "summary": "<p>Sales of $593 million increased 22 percent and 19 percent on a reported and organic basis, respectively Operating income of $79 million and adjusted operating income of $82 million, up 80 percent...</p>",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:36:33.938073+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-08-19T20:37:29.045170+00:00",
+  "paths": {
+    "article": "articles/v1/a9/kennametal-inc-common-stock/2026/07/d4/d4a82936bfc771c993db7ec9068bdba98ec31c1803bc2426ca67703555d0d2e0/article.md",
+    "record": "articles/v1/a9/kennametal-inc-common-stock/2026/07/d4/d4a82936bfc771c993db7ec9068bdba98ec31c1803bc2426ca67703555d0d2e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24098,
+    "sha256": "sha256:97ed7f386b50bb0a207a9132e01e2d66d9be3b9e05752a41a81c5bcfda94c8e4",
+    "normalized_content_hash": "sha256:62ba2c637f52be181b099ccf77a6dc327819be25d44fb6ccc2b330a6fbd4e2bb"
+  },
+  "provenance": {
+    "source_item_id": "1d87f6b6-84ed-401e-8707-572d35146a90",
+    "external_id": "https://www.kennametal.com/us/en/news/123195.html"
+  }
+}

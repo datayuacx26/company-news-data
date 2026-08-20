@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3adb40676eff0b6f9b63b21d06d0d5cf50ecaf875808784ad721bac07d682a6b",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/api-pagination-patterns/",
+    "canonical": "https://blog.openreplay.com/api-pagination-patterns/"
+  },
+  "title": "Pagination Patterns for Modern APIs",
+  "summary": "Compare offset, cursor, keyset, page tokens, and Relay GraphQL pagination with TypeScript and SQL examples for modern APIs.",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:22:58.860888+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/3a/3adb40676eff0b6f9b63b21d06d0d5cf50ecaf875808784ad721bac07d682a6b/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/3a/3adb40676eff0b6f9b63b21d06d0d5cf50ecaf875808784ad721bac07d682a6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20905,
+    "sha256": "sha256:3baa75cb675e6c70318480f51dec8224b9a4dbf2cd6be29abd7f87d4b1396d6a",
+    "normalized_content_hash": "sha256:93f26c80349f6799a84a58a7aef8ac060e59a4e06050aa2b75bb3bbc5e520d44"
+  },
+  "provenance": {
+    "source_item_id": "9dd2f363-21c8-40b9-aeee-f98e01d3fc1d",
+    "external_id": "https://blog.openreplay.com/api-pagination-patterns/"
+  }
+}

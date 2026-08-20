@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e30bec8106ef1d0473c83cff8d1abb076b0ca69e28712f3b45fa4e35258ba10",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/",
+    "canonical": "https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/"
+  },
+  "title": "Coding Agent Horror Stories: The Agent That Deleted Production",
+  "summary": "Learn how an AI coding agent caused a 13-hour outage and how Docker Sandboxes help reduce risk with scoped identities and isolated execution.",
+  "published_at": "2026-07-20T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:22.390152+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-12T15:31:21.314306+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/07/6e/6e30bec8106ef1d0473c83cff8d1abb076b0ca69e28712f3b45fa4e35258ba10/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/07/6e/6e30bec8106ef1d0473c83cff8d1abb076b0ca69e28712f3b45fa4e35258ba10/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27369,
+    "sha256": "sha256:43b018aa983f3a5c9ca1dfdd31de32fc60dd798ba14fb60be8c76ffbc5617e6a",
+    "normalized_content_hash": "sha256:d5f9769e7bda81e5d44e50c4e091c07e2611a2210cbf088e01cf311ad9931685"
+  },
+  "provenance": {
+    "source_item_id": "5f74890f-e01e-4337-b620-ec9876c6e1d5",
+    "external_id": "https://www.docker.com/?p=91314"
+  }
+}

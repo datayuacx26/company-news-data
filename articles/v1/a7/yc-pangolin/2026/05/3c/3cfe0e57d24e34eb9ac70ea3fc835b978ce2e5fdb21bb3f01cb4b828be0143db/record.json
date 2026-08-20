@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3cfe0e57d24e34eb9ac70ea3fc835b978ce2e5fdb21bb3f01cb4b828be0143db",
+  "company": {
+    "key": "yc-pangolin",
+    "name": "Pangolin"
+  },
+  "source": {
+    "id": "yc-pangolin-news-import-841387734568",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://pangolin.net/news/building-a-peer-to-edge-peer-reverse-proxy",
+    "canonical": "https://pangolin.net/news/building-a-peer-to-edge-peer-reverse-proxy"
+  },
+  "title": "Peer-to-Peer Alternative to Cloudflare Tunnels with Edge TLS Termination",
+  "summary": "How Pangolin built a peer-to-edge reverse proxy that keeps TLS termination and private application traffic on infrastructure you control.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T08:11:44.188163+00:00",
+  "fetched_at": "2026-07-28T21:55:52.188627+00:00",
+  "last_updated_at": "2026-08-19T18:02:58.347278+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-pangolin/2026/05/3c/3cfe0e57d24e34eb9ac70ea3fc835b978ce2e5fdb21bb3f01cb4b828be0143db/article.md",
+    "record": "articles/v1/a7/yc-pangolin/2026/05/3c/3cfe0e57d24e34eb9ac70ea3fc835b978ce2e5fdb21bb3f01cb4b828be0143db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10816,
+    "sha256": "sha256:6bbfec3c2b3fd10528abc7b7789a8a2c523a4631ad0dc904597d2786b543d513",
+    "normalized_content_hash": "sha256:af5adf2b979fa791ec2ec37acb65166262c947c02a704221d00e83226d7c2313"
+  },
+  "provenance": {
+    "source_item_id": "09f8178a-6fcd-4d95-a381-94d0411542f2",
+    "external_id": "https://pangolin.net/news/building-a-peer-to-edge-peer-reverse-proxy"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zoetis-inc-class-a-common-stock",
+    "name": "Zoetis Inc."
+  },
+  "record_count": 11,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a1/zoetis-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 12435,
+        "sha256": "sha256:d14d78022c4ab79ad06c85e1615206c3f208cb5a34544ff580f05db37f8005d6",
+        "newest_at": "2026-07-28T21:39:52.838477+00:00",
+        "oldest_at": "2026-07-28T21:37:36.757263+00:00"
+      }
+    ]
+  }
+}

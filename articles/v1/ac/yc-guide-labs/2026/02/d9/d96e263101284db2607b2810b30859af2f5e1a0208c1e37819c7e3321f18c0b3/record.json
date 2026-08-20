@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d96e263101284db2607b2810b30859af2f5e1a0208c1e37819c7e3321f18c0b3",
+  "company": {
+    "key": "yc-guide-labs",
+    "name": "Guide Labs"
+  },
+  "source": {
+    "id": "yc-guide-labs-news-import-41fe5d9b8b28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+    "canonical": "https://www.guidelabs.ai/post/steerling-steering-8b/"
+  },
+  "title": "Steering Interpretable Language Models",
+  "summary": "We demonstrate reliable, fine-grained control over language model generation by directly injecting, suppressing, and composing human-interpretable concepts at inference time.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:19:32.933709+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T15:50:29.163183+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-guide-labs/2026/02/d9/d96e263101284db2607b2810b30859af2f5e1a0208c1e37819c7e3321f18c0b3/article.md",
+    "record": "articles/v1/ac/yc-guide-labs/2026/02/d9/d96e263101284db2607b2810b30859af2f5e1a0208c1e37819c7e3321f18c0b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9421,
+    "sha256": "sha256:65123b559c73bbd02667e3beeba1bc9b3dd462da3b9b829d2d3ea823c67cb569",
+    "normalized_content_hash": "sha256:9f30283c1811ae1a683a6eb1a1a5e02e6884dd5668e3807c0ee8b6de505102dc"
+  },
+  "provenance": {
+    "source_item_id": "594f1fb2-dac3-48f1-ae55-484ce3cbd9d2",
+    "external_id": "https://www.guidelabs.ai/post/steerling-steering-8b/"
+  }
+}

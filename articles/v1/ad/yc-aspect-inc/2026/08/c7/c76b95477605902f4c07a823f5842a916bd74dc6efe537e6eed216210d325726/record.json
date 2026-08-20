@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c76b95477605902f4c07a823f5842a916bd74dc6efe537e6eed216210d325726",
+  "company": {
+    "key": "yc-aspect-inc",
+    "name": "Aspect"
+  },
+  "source": {
+    "id": "yc-aspect-inc-news-import-ad28d86e40e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aspect.inc/blog/post-production/guide-to-broadcast-safe-levels-and-sdr-legalization",
+    "canonical": "https://aspect.inc/blog/post-production/guide-to-broadcast-safe-levels-and-sdr-legalization"
+  },
+  "title": "Guide to Broadcast Safe Levels and SDR Legalization",
+  "summary": "Learn how SDR broadcast safe levels work, how hard clipping differs from soft roll-off, and how to configure Resolve legalization for cleaner QC-ready delivery.",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T12:37:00.177103+00:00",
+  "fetched_at": "2026-08-11T12:37:01.948724+00:00",
+  "last_updated_at": "2026-08-17T06:50:01.197449+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-aspect-inc/2026/08/c7/c76b95477605902f4c07a823f5842a916bd74dc6efe537e6eed216210d325726/article.md",
+    "record": "articles/v1/ad/yc-aspect-inc/2026/08/c7/c76b95477605902f4c07a823f5842a916bd74dc6efe537e6eed216210d325726/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18959,
+    "sha256": "sha256:fbbe1cc9716d4e79654c597a746c7ac8d5aa7d7c825283ed502a9fd19663a11d",
+    "normalized_content_hash": "sha256:116beade6a55cae0fc22c5856e742c020a86ce316701e93e865d05254de38e94"
+  },
+  "provenance": {
+    "source_item_id": "ada86d1b-0d23-4e97-aefc-fd5bad5b86f9",
+    "external_id": "https://aspect.inc/blog/post-production/guide-to-broadcast-safe-levels-and-sdr-legalization"
+  }
+}

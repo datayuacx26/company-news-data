@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "14e2fc804450409fa4e720e4281c2aeb0e82ea67a3f427154ea6d048a73f7dc7",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/ai-generated-code-container-escape",
+    "canonical": "https://blaxel.ai/blog/ai-generated-code-container-escape"
+  },
+  "title": "What happens when AI-generated code escapes the sandbox",
+  "summary": "LLM-generated code breaks container security assumptions every request. Learn why hypervisor-level isolation protects multi-tenant AI infrastructure.",
+  "published_at": "2026-08-13T18:58:20+00:00",
+  "first_seen_at": "2026-08-13T22:29:35.063832+00:00",
+  "fetched_at": "2026-08-13T22:29:39.910118+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/08/14/14e2fc804450409fa4e720e4281c2aeb0e82ea67a3f427154ea6d048a73f7dc7/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/08/14/14e2fc804450409fa4e720e4281c2aeb0e82ea67a3f427154ea6d048a73f7dc7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23930,
+    "sha256": "sha256:e516c1ef90e3c53c87d551b51c7cecdd23aa9e417479ececb4cab067248c0241",
+    "normalized_content_hash": "sha256:9031d078449f7c08b68317679580ff82d99ba5091542dd1b00a8529bf31f49d1"
+  },
+  "provenance": {
+    "source_item_id": "744b0730-12ee-4001-9284-e85e1fadeffd",
+    "external_id": "https://blaxel.ai/blog/ai-generated-code-container-escape"
+  }
+}

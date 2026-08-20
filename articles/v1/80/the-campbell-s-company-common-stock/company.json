@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the-campbell-s-company-common-stock",
+    "name": "The Campbell's Company"
+  },
+  "record_count": 18,
+  "first_published_at": "2025-11-25T13:49:32+00:00",
+  "last_published_at": "2026-08-14T17:58:34+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/80/the-campbell-s-company-common-stock/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 24301,
+        "sha256": "sha256:9a2adc09521c91ba2855caef93f7019889a206b873702aede6e602fc0603b1b6",
+        "newest_at": "2026-08-14T17:58:34+00:00",
+        "oldest_at": "2025-11-25T13:49:32+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fde2e3510c1dedf032bf65ba878acc389f0afd13e65bafbde91a3c3e04043ddd",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/javascript-time-zones/",
+    "canonical": "https://blog.openreplay.com/javascript-time-zones/"
+  },
+  "title": "Handling Time Zones in JavaScript Without Losing Your Mind",
+  "summary": "Handle JavaScript time zones with UTC instants, IANA zone IDs, Intl.DateTimeFormat, Temporal, and DST-safe rules for storing and displaying dates.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T10:01:41.758251+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-08T05:17:41.693999+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/fd/fde2e3510c1dedf032bf65ba878acc389f0afd13e65bafbde91a3c3e04043ddd/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/fd/fde2e3510c1dedf032bf65ba878acc389f0afd13e65bafbde91a3c3e04043ddd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18755,
+    "sha256": "sha256:7b4c7a14640b710d33e23a86346e988cfd715b197b473c127bf9afb67dc0eeba",
+    "normalized_content_hash": "sha256:210affad3dfb7bba656442e996b09bac21a4124d6d2f4025aeee1fb7a30f27e5"
+  },
+  "provenance": {
+    "source_item_id": "a48d3c43-4b77-4598-937c-3d1b0125540c",
+    "external_id": "https://blog.openreplay.com/javascript-time-zones/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c53db34182af3d7d268ba13780e7fd3e65a28b9239be462422e6e8770fe52848",
+  "company": {
+    "key": "yc-casco",
+    "name": "Casco"
+  },
+  "source": {
+    "id": "yc-casco-news-import-3e4503ef629e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://casco.com/blog/automatic-context-refinement-loops",
+    "canonical": "https://casco.com/blog/automatic-context-refinement-loops"
+  },
+  "title": "False Positives Are Context Failures.",
+  "summary": "Casco's context refinement loops turn every false positive into application context. Default 5% false-positive rate, tunable below 1%, editable in Settings.",
+  "published_at": "2026-07-29T17:00:00+00:00",
+  "first_seen_at": "2026-07-29T21:36:52.479365+00:00",
+  "fetched_at": "2026-07-29T21:36:53.501082+00:00",
+  "last_updated_at": "2026-08-20T02:45:37.533025+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-casco/2026/07/c5/c53db34182af3d7d268ba13780e7fd3e65a28b9239be462422e6e8770fe52848/article.md",
+    "record": "articles/v1/a1/yc-casco/2026/07/c5/c53db34182af3d7d268ba13780e7fd3e65a28b9239be462422e6e8770fe52848/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5567,
+    "sha256": "sha256:5402bf22622dd6c157372e8c30de45747c7583edacf31cb668e711317d6e1a53",
+    "normalized_content_hash": "sha256:16b1d7b0d952616a07050607c4877cd6c46c80fe3e03b9ea079e8ee9433bb0f7"
+  },
+  "provenance": {
+    "source_item_id": "a21f0f76-60b6-406c-93cf-6f215eda6fce",
+    "external_id": "https://casco.com/blog/automatic-context-refinement-loops"
+  }
+}

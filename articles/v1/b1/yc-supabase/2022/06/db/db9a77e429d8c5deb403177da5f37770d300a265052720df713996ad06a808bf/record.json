@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db9a77e429d8c5deb403177da5f37770d300a265052720df713996ad06a808bf",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/partial-postgresql-data-dumps-with-rls",
+    "canonical": "https://supabase.com/blog/partial-postgresql-data-dumps-with-rls"
+  },
+  "title": "Partial data dumps using Postgres Row Level Security",
+  "summary": "Using RLS to create seed files for local PostgreSQL testing.",
+  "published_at": "2022-06-28T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2022/06/db/db9a77e429d8c5deb403177da5f37770d300a265052720df713996ad06a808bf/article.md",
+    "record": "articles/v1/b1/yc-supabase/2022/06/db/db9a77e429d8c5deb403177da5f37770d300a265052720df713996ad06a808bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6797,
+    "sha256": "sha256:9ca61bf2f7d9553f07d73fd3316cdbc15a865910c14d19369642191a6c2ce6dd",
+    "normalized_content_hash": "sha256:3a5c184153f9f9105e7a2b49bfc7ae5413d433a660191d7180acb33453cba643"
+  },
+  "provenance": {
+    "source_item_id": "7626dda2-e598-4abd-ace0-fd123919a642",
+    "external_id": "https://supabase.com/blog/partial-postgresql-data-dumps-with-rls"
+  }
+}

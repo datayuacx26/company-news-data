@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "575b5025466a2c8672b1ec99225ae4536c935b861a313ecb744bd9a3709b1af3",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/kubectl-remote-clusters/",
+    "canonical": "https://goteleport.com/blog/kubectl-remote-clusters/"
+  },
+  "title": "Securing kubectl on Remote Kubernetes Clusters Without Static Credentials or VPNs",
+  "summary": "Learn how to secure Kubernetes access across remote fleets without creating risk.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:57:37.609410+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T00:27:53.070714+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/07/57/575b5025466a2c8672b1ec99225ae4536c935b861a313ecb744bd9a3709b1af3/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/07/57/575b5025466a2c8672b1ec99225ae4536c935b861a313ecb744bd9a3709b1af3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20849,
+    "sha256": "sha256:f369fca0c2df9a2bab1d05278e6ae6a376e33d0a4aeff61a0e69e1d8bdc3aae1",
+    "normalized_content_hash": "sha256:fc249e59bddb780cb24abdfdb92f5d9db0b51034469a759b20cf2b95ac305de4"
+  },
+  "provenance": {
+    "source_item_id": "965e55dc-f92c-4469-be54-a9e622eecb59",
+    "external_id": "https://goteleport.com/blog/kubectl-remote-clusters/"
+  }
+}

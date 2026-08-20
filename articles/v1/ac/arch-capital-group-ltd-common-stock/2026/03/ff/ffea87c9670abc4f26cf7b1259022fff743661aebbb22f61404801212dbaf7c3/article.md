@@ -1,0 +1,65 @@
+---
+schema_version: "1.0.0"
+document_id: "ffea87c9670abc4f26cf7b1259022fff743661aebbb22f61404801212dbaf7c3"
+company_key: "arch-capital-group-ltd-common-stock"
+company: "Arch Capital Group Ltd."
+source_id: "arch-capital-group-ltd-common-stock-rss-7caebd8330ba"
+canonical_url: "https://www.archgroup.com/arch-capital-group-ltd-to-report-2026-first-quarter-results-on-april-28/"
+published_at: "2026-03-17T08:03:00+00:00"
+first_seen_at: "2026-07-20T04:35:32.810642+00:00"
+fetched_at: "2026-07-28T22:00:56.367665+00:00"
+content_hash: "sha256:598a940d0c3b405db79e07596485c42701a0c8d2fcd034bf1f901b5c5026db21"
+---
+
+# Arch Capital Group Ltd. to Report 2026 First Quarter Results on April 28
+
+March 17, 2026
+
+
+# Arch Capital Group Ltd. to Report 2026 First Quarter Results on April 28
+
+
+PEMBROKE, Bermuda–(BUSINESS WIRE)–
+
+
+Arch Capital Group Ltd. (NASDAQ: ACGL) (“Arch” or the “Company”) today announced it expects to release its 2026 first quarter results after the close of regular stock market hours on Tuesday, April 28. The Company will hold a conference call for investors and analysts at 10 a.m. ET on Wednesday, April 29.
+
+
+A live webcast of this call will be available via the Investors section of the Company’s website at[http://www.archgroup.com/investors](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.archgroup.com%2Finvestors&esheet=54451766&newsitemid=20260317221479&lan=en-US&anchor=http%3A%2F%2Fwww.archgroup.com%2Finvestors&index=1&md5=3ab8b85c6868207e597325f75139b8dc) .
+
+
+A recording of the webcast will be available in the Investors section of the Company’s website approximately two hours after the event concludes. A transcript of the webcast will also be available in the Investors section of the Company’s website approximately 24 hours after the posting of the recording.
+
+
+Both the recording and the transcript will be archived on the site for one year.
+
+
+**About Arch Capital Group Ltd.**
+
+
+Arch Capital Group Ltd. (Nasdaq: ACGL) is a publicly listed Bermuda exempted company with approximately $26.9 billion in capital at December 31, 2025. Arch, which is part of the S&P 500 Index, provides insurance, reinsurance and mortgage insurance on a worldwide basis through its wholly owned subsidiaries.
+
+
+**Cautionary Note Regarding Forward-Looking Statements**
+
+
+The Private Securities Litigation Reform Act of 1995 provides a “safe harbor” for forward−looking statements. This release or any other written or oral statements made by or on behalf of Arch Capital Group Ltd. and its subsidiaries may include forward−looking statements, which reflect the Company’s current views with respect to future events and financial performance. All statements other than statements of historical fact included in or incorporated by reference in this release are forward−looking statements.
+
+
+Forward−looking statements can generally be identified by the use of forward−looking terminology such as “may,” “will,” “expect,” “intend,” “estimate,” “anticipate,” “believe” or “continue” or their negative or variations or similar terminology. Forward−looking statements involve the Company’s current assessment of risks and uncertainties. Actual events and results may differ materially from those expressed or implied in these statements. A non-exclusive list of the important factors that could cause actual results to differ materially from those in such forward-looking statements includes the following: adverse general economic and market conditions; increased competition; pricing and policy term trends; fluctuations in the actions of rating agencies and the Company’s ability to maintain and improve its ratings; investment performance; the loss of key personnel; the adequacy of the Company’s loss reserves, severity and/or frequency of losses, greater than expected loss ratios and adverse development on claim and/or claim expense liabilities; greater frequency or severity of unpredictable natural and man-made catastrophic events, including the effect of contagious diseases on our business; the impact of acts of terrorism and acts of war; changes in regulations and/or tax laws in the United States or elsewhere; statutory or regulatory developments, including as to tax matters and insurance and other regulatory matters; ability to successfully integrate, establish and maintain operating procedures as well as integrate the businesses the Company has acquired or may acquire into the existing operations; changes in accounting principles or policies; material differences between actual and expected assessments for guaranty funds and mandatory pooling arrangements; availability and cost to the Company of reinsurance to manage our gross and net exposures; the failure of others to meet their obligations to the Company; an incident, disruption in operations or other cyber event caused by cyber attacks, the use of artificial intelligence technologies or other technology on the Company’s systems or those of the Company’s business partners and service providers, which could negatively impact the Company’s business and/or expose the Company to litigation; and the other matters set forth under ITEM 1A “Risk Factors”, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and other sections of our 2025 10-K, as well as the other factors set forth in our other documents on file with the SEC, and management’s response to any of the aforementioned factors.
+
+
+The foregoing review of important factors should not be construed as exhaustive and should be read in conjunction with other cautionary statements that are included herein or elsewhere. All subsequent written and oral forward−looking statements attributable to us or persons acting on the Company’s behalf are expressly qualified in their entirety by these cautionary statements. The Company’s forward-looking statements speak only as of the date of this press release or as of the date they are made, and the Company undertakes no obligation to publicly update or revise any forward−looking statement, whether as a result of new information, future events or otherwise.
+
+
+**Source:** Arch Capital Group Ltd.
+
+
+arch-corporate
+
+
+**Media Contact:**
+Greg Hare —[\[email protected\]](https://www.archgroup.com/cdn-cgi/l/email-protection#9ff8f7feedfadffeedfcf7f8edf0eaefb1fcf0f2)
+
+
+Source: Arch Capital Group Ltd.

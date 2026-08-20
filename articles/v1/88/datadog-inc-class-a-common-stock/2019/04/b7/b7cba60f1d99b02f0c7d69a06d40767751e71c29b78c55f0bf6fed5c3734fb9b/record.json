@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b7cba60f1d99b02f0c7d69a06d40767751e71c29b78c55f0bf6fed5c3734fb9b",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/"
+  },
+  "title": "Building highly reliable data pipelines at Datadog",
+  "summary": "A look at how Datadog builds and operates data pipelines reliably at scale.",
+  "published_at": "2019-04-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:06:00.870812+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2019/04/b7/b7cba60f1d99b02f0c7d69a06d40767751e71c29b78c55f0bf6fed5c3734fb9b/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2019/04/b7/b7cba60f1d99b02f0c7d69a06d40767751e71c29b78c55f0bf6fed5c3734fb9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12830,
+    "sha256": "sha256:d063cc949b8760d40ec352609e407abafac3c3d2eb2d30152ea9a27ac7957afa",
+    "normalized_content_hash": "sha256:fe24f97bb396cac1c8e81462ec7fd4142d5090b7b8fa59039dd92a8b8104f99b"
+  },
+  "provenance": {
+    "source_item_id": "436561f4-d2f9-49df-9b9e-0e882985b113",
+    "external_id": "https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "399bb728dd048fa5e6038268e024431d8d12b9fff84185353c9f98e44f4211f3",
+  "company": {
+    "key": "yc-runanywhere",
+    "name": "RunAnywhere"
+  },
+  "source": {
+    "id": "yc-runanywhere-news-import-450c102900e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-engine-apple-silicon",
+    "canonical": "https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-engine-apple-silicon"
+  },
+  "title": "We Built the Fastest LLM Decode Engine for Apple Silicon. Here Are the Numbers.",
+  "summary": "MetalRT delivers 658 tok/s decode and 6.6ms time-to-first-token, winning decode on 3 of 4 models we tested on a single M4 Max.",
+  "published_at": "2026-03-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:25:05.894272+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T02:00:47.205360+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-runanywhere/2026/03/39/399bb728dd048fa5e6038268e024431d8d12b9fff84185353c9f98e44f4211f3/article.md",
+    "record": "articles/v1/98/yc-runanywhere/2026/03/39/399bb728dd048fa5e6038268e024431d8d12b9fff84185353c9f98e44f4211f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4000,
+    "sha256": "sha256:45622a41f7776561bd65f9a05c6e1a81a7038a3a7b3397ba89cf3644e3c158b5",
+    "normalized_content_hash": "sha256:b06312813c9aaaca251f035fdff3181fa34b9c2aacad647255d53c7617bac961"
+  },
+  "provenance": {
+    "source_item_id": "a7fa8086-17fb-4b1e-8e3b-632697735b2d",
+    "external_id": "https://www.runanywhere.ai/blog/metalrt-fastest-llm-decode-engine-apple-silicon"
+  }
+}

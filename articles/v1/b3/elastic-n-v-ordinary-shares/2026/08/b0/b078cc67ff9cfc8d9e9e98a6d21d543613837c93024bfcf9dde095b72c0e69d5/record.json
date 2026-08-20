@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b078cc67ff9cfc8d9e9e98a6d21d543613837c93024bfcf9dde095b72c0e69d5",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/kibana-dashboards-esql-fast-mode",
+    "canonical": "https://www.elastic.co/search-labs/blog/kibana-dashboards-esql-fast-mode"
+  },
+  "title": "Close enough is fast enough: How ES|QL Fast mode makes Kibana dashboards up to 100x faster",
+  "summary": "Fast mode samples data instead of scanning every row. Also: click-to-filter for ES|QL charts, query-powered controls, and improved chart defaults....",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T19:47:14.307175+00:00",
+  "fetched_at": "2026-08-04T20:28:10.240209+00:00",
+  "last_updated_at": "2026-08-12T11:31:51.943238+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/b0/b078cc67ff9cfc8d9e9e98a6d21d543613837c93024bfcf9dde095b72c0e69d5/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/b0/b078cc67ff9cfc8d9e9e98a6d21d543613837c93024bfcf9dde095b72c0e69d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10508,
+    "sha256": "sha256:a8ab21572a9f6804b7b01cbef0e6f0ba31f32375539f7edea8fc0fbab235662b",
+    "normalized_content_hash": "sha256:1db113e98a4cc5ec3fe0e7565c3ecd25588a35f6a3d0a0b23d3b468b32c284c4"
+  },
+  "provenance": {
+    "source_item_id": "7e1017c9-0b73-42b3-9458-8ee1642d4d12",
+    "external_id": "https://www.elastic.co/search-labs/blog/kibana-dashboards-esql-fast-mode"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "somnigroup-international-inc-common-stock",
+    "name": "Somnigroup International Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-01-15T11:55:00+00:00",
+  "last_published_at": "2026-08-06T10:37:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/88/somnigroup-international-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 25101,
+        "sha256": "sha256:89d1fcf0cc0a4a40580d6b817f6112dce00a98cd1e5bd4faad1c968cb2b7eb1f",
+        "newest_at": "2026-08-06T10:37:00+00:00",
+        "oldest_at": "2026-01-15T11:55:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "be7418bbd23126a3eedc82864663b2f6f1066ddfaa6435bdc474a51940742e0e"
+company_key: "new-york-times-company-the-common-stock"
+company: "New York Times Company (The)"
+source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
+canonical_url: "https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html"
+published_at: "2026-08-07T13:54:23+00:00"
+first_seen_at: "2026-08-07T11:00:03.680031+00:00"
+fetched_at: "2026-08-07T17:53:23.904098+00:00"
+content_hash: "sha256:ce4a7e1d8a28240e5c2aa0198a9457302610def39ec3ed643c2efbef69c4785b"
+---
+
+# ‘The First Time I Voted for Donald Trump, I Thought It Was Going to Make a Difference’
+
+In Georgia, where Black voters could help decide control of the Senate, Mara Gay asks what they want from America and the Democratic Party.

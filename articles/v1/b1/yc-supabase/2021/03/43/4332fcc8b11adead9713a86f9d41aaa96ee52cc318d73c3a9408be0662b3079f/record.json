@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4332fcc8b11adead9713a86f9d41aaa96ee52cc318d73c3a9408be0662b3079f",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/postgres-as-a-cron-server",
+    "canonical": "https://supabase.com/blog/postgres-as-a-cron-server"
+  },
+  "title": "Postgres as a CRON Server",
+  "summary": "Running repetitive tasks with your Postgres database.",
+  "published_at": "2021-03-05T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2021/03/43/4332fcc8b11adead9713a86f9d41aaa96ee52cc318d73c3a9408be0662b3079f/article.md",
+    "record": "articles/v1/b1/yc-supabase/2021/03/43/4332fcc8b11adead9713a86f9d41aaa96ee52cc318d73c3a9408be0662b3079f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9458,
+    "sha256": "sha256:4ae116abe44dab19b2f395304759992326cafcc3c9c1bc011e057eadcdc2792d",
+    "normalized_content_hash": "sha256:4729840e6eb857e0eefa423818e9e60f2a4bb34f7f3b48138c5da5eadbce9a9f"
+  },
+  "provenance": {
+    "source_item_id": "3f146f5f-b37e-4a72-90ab-fbdf0a61c60d",
+    "external_id": "https://supabase.com/blog/postgres-as-a-cron-server"
+  }
+}

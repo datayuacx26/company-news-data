@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "320c73138b4978e4bfd2e9d2c7977d8f22ba41052b24c399f7901806852acdd3",
+  "company": {
+    "key": "yc-synth-3",
+    "name": "Synth"
+  },
+  "source": {
+    "id": "yc-synth-3-news-import-d5c503e27bee",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usesynth.ai/blog/go-explore",
+    "canonical": "https://www.usesynth.ai/blog/go-explore"
+  },
+  "title": "GELO: Archive-Based Optimization for Long-Horizon Agents",
+  "summary": "Go-Explore Long-Horizon Optimizer (GELO) is a checkpoint-native optimizer for language agents in sparse, long-horizon environments. GELO maintains an archive of high-value trajectory states, opens scoped theme searches from those checkpoints, and promotes candidates only when replayed heldout evidence improves the archive. In Craftax, NetHack, and Crafter, GELO turns undifferentiated prompt mutation into targeted frontier search over skills such as furnace placement, coal and iron recovery, and dungeon coverage.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:58:53.081142+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-15T10:04:49.241700+00:00",
+  "paths": {
+    "article": "articles/v1/a1/yc-synth-3/2026/06/32/320c73138b4978e4bfd2e9d2c7977d8f22ba41052b24c399f7901806852acdd3/article.md",
+    "record": "articles/v1/a1/yc-synth-3/2026/06/32/320c73138b4978e4bfd2e9d2c7977d8f22ba41052b24c399f7901806852acdd3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 35440,
+    "sha256": "sha256:945c8b7f13e4378b2150ecf8b8377a655da8a916a5e729ccb45ad3fc9195173d",
+    "normalized_content_hash": "sha256:617f223ac5290317d5e3854b448b8f68c6e8cfb69c41930799f2d4590029b433"
+  },
+  "provenance": {
+    "source_item_id": "744c3b6f-4e11-4f05-b89e-f3f15da54f79",
+    "external_id": "https://www.usesynth.ai/blog/go-explore"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95c2a06e7431ea61add4c287048f5d7324669b0696ca4622af25eeb550b1db0f",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/ai-sre-agent-kubernetes-investigation",
+    "canonical": "https://www.mezmo.com/blog/ai-sre-agent-kubernetes-investigation"
+  },
+  "title": "What an AI SRE agent actually finds when you point it at a broken Kubernetes cluster",
+  "summary": "Build a working AI SRE agent that investigates Kubernetes incidents using real cluster state and Prometheus metrics, with least-privilege tool access.",
+  "published_at": null,
+  "first_seen_at": "2026-08-14T17:33:59.781375+00:00",
+  "fetched_at": "2026-08-14T17:34:02.476866+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/08/95/95c2a06e7431ea61add4c287048f5d7324669b0696ca4622af25eeb550b1db0f/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/08/95/95c2a06e7431ea61add4c287048f5d7324669b0696ca4622af25eeb550b1db0f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26941,
+    "sha256": "sha256:1862ee745481c0b836d4551ebb33cd5a50376230e21d47a077249c38aa32367b",
+    "normalized_content_hash": "sha256:91640a13209c0c00f603e517c9e105f46d3e8081c079ec215246cb9ae263ab6f"
+  },
+  "provenance": {
+    "source_item_id": "b48e5808-1a42-41a4-b94a-431f4f8f9169",
+    "external_id": "https://www.mezmo.com/blog/ai-sre-agent-kubernetes-investigation"
+  }
+}

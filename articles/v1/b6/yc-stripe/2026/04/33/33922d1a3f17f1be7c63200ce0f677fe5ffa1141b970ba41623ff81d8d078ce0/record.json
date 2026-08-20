@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33922d1a3f17f1be7c63200ce0f677fe5ffa1141b970ba41623ff81d8d078ce0",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/giving-agents-the-ability-to-pay",
+    "canonical": "https://stripe.com/blog/giving-agents-the-ability-to-pay"
+  },
+  "title": "Giving agents the ability to pay",
+  "summary": "Link’s wallet for agents gives agents programmatic access to Link, including the ability to generate a one-time-use card or SPT backed by the cards and bank accounts already in your wallet. It’s built on Stripe’s new Issuing for agents.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:05:27.623858+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-11T12:22:45.536134+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/04/33/33922d1a3f17f1be7c63200ce0f677fe5ffa1141b970ba41623ff81d8d078ce0/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/04/33/33922d1a3f17f1be7c63200ce0f677fe5ffa1141b970ba41623ff81d8d078ce0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5714,
+    "sha256": "sha256:3f39533db0b495fcac129b473c111ff58225a6254c3403c83f52d7cd7aed7d74",
+    "normalized_content_hash": "sha256:c17803da0140ee3913b9209d51aee6cbab81a4e2f5263b7f9fad284537e5923f"
+  },
+  "provenance": {
+    "source_item_id": "030e892d-d59b-4e1f-931b-06c75922e4d9",
+    "external_id": "https://stripe.com/blog/giving-agents-the-ability-to-pay"
+  }
+}

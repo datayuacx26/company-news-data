@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee99da0ad46196e0147f1faaa6f08578ee510443dd2419bbd5dbc6ef6c48c4f7",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/"
+  },
+  "title": "When upserts don’t update but still write: Debugging Postgres performance at scale",
+  "summary": "When a high-volume upsert doubled disk writes, Datadog engineers traced the issue to Postgres WAL behavior and rewrote the query to eliminate hidden costs.",
+  "published_at": "2026-03-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:17:58.599767+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/03/ee/ee99da0ad46196e0147f1faaa6f08578ee510443dd2419bbd5dbc6ef6c48c4f7/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/03/ee/ee99da0ad46196e0147f1faaa6f08578ee510443dd2419bbd5dbc6ef6c48c4f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18081,
+    "sha256": "sha256:6a332032ab5ba636349b90a3507363753d5a53a7da01fdf58bd47bfd4bbd760f",
+    "normalized_content_hash": "sha256:012abb6323b17925a584ce789d5ca3fade793b523bfde9d38412c4f2c83c56a3"
+  },
+  "provenance": {
+    "source_item_id": "403f3ea2-bd65-4c58-95b5-bf33902fa9eb",
+    "external_id": "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "clarivate-plc-ordinary-shares",
+    "name": "Clarivate Plc"
+  },
+  "record_count": 58,
+  "first_published_at": "2023-05-22T11:26:28+00:00",
+  "last_published_at": "2026-08-18T08:13:53+00:00",
+  "partitions": [
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 18
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bf/clarivate-plc-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58913,
+        "sha256": "sha256:992987052f064e3f7becd59ac77552709c0aae6bb1442d543f4973bf750a8fd3",
+        "newest_at": "2026-08-18T08:13:53+00:00",
+        "oldest_at": "2026-03-26T07:23:35+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/bf/clarivate-plc-ordinary-shares/index/pages/000002.json",
+        "record_count": 8,
+        "byte_count": 9489,
+        "sha256": "sha256:59a86956ace9b86b87446795ed29a3ba878b7d36ade50658ab7918b6d6dd2ff7",
+        "newest_at": "2026-03-02T09:01:18+00:00",
+        "oldest_at": "2023-05-22T11:26:28+00:00"
+      }
+    ]
+  }
+}

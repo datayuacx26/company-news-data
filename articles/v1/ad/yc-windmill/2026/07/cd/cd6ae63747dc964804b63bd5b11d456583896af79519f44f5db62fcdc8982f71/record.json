@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cd6ae63747dc964804b63bd5b11d456583896af79519f44f5db62fcdc8982f71",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/automatic-git-to-windmill-sync",
+    "canonical": "https://www.windmill.dev/changelog/automatic-git-to-windmill-sync"
+  },
+  "title": "Automatic git-to-Windmill sync",
+  "summary": "The Git to Windmill direction of git sync now works fully in-app, making the documented GitHub Actions optional. Enable 'Automatically deploy changes from Git' on a repository and new commits to the tracked branch deploy into the workspace, instantly via webhooks for GitHub App repositories (with polling as a safety net) or by polling about every minute for token repositories. Windmill can also open pull requests for promotion and fork deploy branches, post a 'Windmill diff' check and managed comment on pull requests showing what merging would deploy, post a deploy status check on synced commits, and automatically deploy fork branch changes into fork workspaces from a single parent-level toggle.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/cd/cd6ae63747dc964804b63bd5b11d456583896af79519f44f5db62fcdc8982f71/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/cd/cd6ae63747dc964804b63bd5b11d456583896af79519f44f5db62fcdc8982f71/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2795,
+    "sha256": "sha256:c4e9003471d980462d53c5ed039d2f79c57c8e52d68f6c7f92a67e6c16d705a7",
+    "normalized_content_hash": "sha256:e452aa9f9fb707fbbf49b9f2a8416c629e06d40e01687762140a9fbc21844f0c"
+  },
+  "provenance": {
+    "source_item_id": "961db219-f62e-4376-9eb2-7b903d096cbc",
+    "external_id": "https://www.windmill.dev/changelog/automatic-git-to-windmill-sync"
+  }
+}

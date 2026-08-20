@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ca28b33666ed92b7accdf42cc0f04d40077ef518a1ec629326320c6e8bacbd4",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/prepare-for-api-upgrades",
+    "canonical": "https://stripe.dev/blog/prepare-for-api-upgrades"
+  },
+  "title": "Preparing for Stripe API upgrades",
+  "summary": "New Stripe API versions come with new, and sometimes breaking, changes which should be evaluated before upgrading. Stripe Sandboxes and Workbench provide tooling to create isolated workspaces to test applications against these new changes.",
+  "published_at": "2024-10-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:25:54.198084+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/10/2c/2ca28b33666ed92b7accdf42cc0f04d40077ef518a1ec629326320c6e8bacbd4/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/10/2c/2ca28b33666ed92b7accdf42cc0f04d40077ef518a1ec629326320c6e8bacbd4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4091,
+    "sha256": "sha256:a709d6bc19588be772f028d7f661a49f2e13ee2c70c2028434d77b06b8b936e3",
+    "normalized_content_hash": "sha256:a345c32eaedb5780a9c0bc17f9b2382bfe8d5ff25fe173391f1bc78411bc8959"
+  },
+  "provenance": {
+    "source_item_id": "e6339beb-4522-433e-947c-cd3fddc06a87",
+    "external_id": "https://stripe.dev/blog/prepare-for-api-upgrades"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f308849a05e2fd79e2389c38875266c41445d55f4f4f145aea62edb1d7bfa2d2",
+  "company": {
+    "key": "yc-svix",
+    "name": "Svix"
+  },
+  "source": {
+    "id": "yc-svix-news-import-06ae021bd4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.svix.com/blog/enabling-ecs-events-with-terraform/",
+    "canonical": "https://www.svix.com/blog/enabling-ecs-events-with-terraform/"
+  },
+  "title": "Enabling ECS Events with Terraform",
+  "summary": "Managing the new-ish 'ECS Events' feature with Terraform",
+  "published_at": "2026-01-20T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T15:22:16.880049+00:00",
+  "fetched_at": "2026-07-28T21:58:17.349618+00:00",
+  "last_updated_at": "2026-07-28T21:59:15.369993+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-svix/2026/01/f3/f308849a05e2fd79e2389c38875266c41445d55f4f4f145aea62edb1d7bfa2d2/article.md",
+    "record": "articles/v1/a5/yc-svix/2026/01/f3/f308849a05e2fd79e2389c38875266c41445d55f4f4f145aea62edb1d7bfa2d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7737,
+    "sha256": "sha256:477b073d473575fa38836989877fc732cf4169774ab53698de131efa1c12f0b5",
+    "normalized_content_hash": "sha256:561f9590e43e9cfd41968b0edb9122e6527ee71aafeaf46e43d314281f0ea2ef"
+  },
+  "provenance": {
+    "source_item_id": "0f9e1afc-8de4-491e-a20f-4b69429dd496",
+    "external_id": "https://www.svix.com/blog/enabling-ecs-events-with-terraform/"
+  }
+}

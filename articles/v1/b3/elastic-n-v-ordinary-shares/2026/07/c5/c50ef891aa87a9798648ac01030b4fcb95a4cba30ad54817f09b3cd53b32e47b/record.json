@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c50ef891aa87a9798648ac01030b4fcb95a4cba30ad54817f09b3cd53b32e47b",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/vulnerable-driver-detection-elastic-defend-byovd",
+    "canonical": "https://www.elastic.co/security-labs/vulnerable-driver-detection-elastic-defend-byovd"
+  },
+  "title": "What's new in Elastic Defend: 800+ vulnerable driver rules, automated troubleshooting, and ARM support",
+  "summary": "Elastic Defend now ships vulnerable driver YARA rules continuously, closing the timing gap BYOVD attacks exploit to disable endpoint protection.",
+  "published_at": "2026-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T17:52:30.959585+00:00",
+  "fetched_at": "2026-07-31T17:52:31.997851+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/c5/c50ef891aa87a9798648ac01030b4fcb95a4cba30ad54817f09b3cd53b32e47b/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/c5/c50ef891aa87a9798648ac01030b4fcb95a4cba30ad54817f09b3cd53b32e47b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12483,
+    "sha256": "sha256:a1939850b6f4f23f505437aeccea5da9bfe56adf0d43e474214a2f24458386a4",
+    "normalized_content_hash": "sha256:83791974f40df8a2f0af9184f9e379fc1fa6e4d492eee31a958534f6be935279"
+  },
+  "provenance": {
+    "source_item_id": "ae876f93-eebf-4ebc-b677-d1afd4f9b488",
+    "external_id": "vulnerable-driver-detection-elastic-defend-byovd"
+  }
+}

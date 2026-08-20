@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a13ccf9ba68d5ab3ecda56fb22bda90c5e06bb225169d21586643a37ac2246ae",
+  "company": {
+    "key": "yc-daily",
+    "name": "Daily"
+  },
+  "source": {
+    "id": "yc-daily-rss-fbcbe287eccb",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.daily.co/blog/benchmarking-llms-for-voice-agent-use-cases/",
+    "canonical": "https://www.daily.co/blog/benchmarking-llms-for-voice-agent-use-cases/"
+  },
+  "title": "Benchmarking LLMs for Voice Agent Use Cases",
+  "summary": "Comparing LLM performance for voice agents. The open source benchmark aiewf-eval tests latency, tool calling, instruction following, and knowledge grounding in long, multi-turn conversations.",
+  "published_at": "2026-02-02T21:37:13+00:00",
+  "first_seen_at": "2026-07-20T23:23:39.254949+00:00",
+  "fetched_at": "2026-07-28T22:22:53.892181+00:00",
+  "last_updated_at": "2026-08-20T02:45:43.680839+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-daily/2026/02/a1/a13ccf9ba68d5ab3ecda56fb22bda90c5e06bb225169d21586643a37ac2246ae/article.md",
+    "record": "articles/v1/95/yc-daily/2026/02/a1/a13ccf9ba68d5ab3ecda56fb22bda90c5e06bb225169d21586643a37ac2246ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27223,
+    "sha256": "sha256:2ac2f81e4939cfdb779db09246dfd5b7b95b9254117ca6d6917802827e7e0597",
+    "normalized_content_hash": "sha256:a40d7e086398b715a96783aec6bb9e7165a8a2d54cf3bfd28bf8767d4214a755"
+  },
+  "provenance": {
+    "source_item_id": "0fc51cd2-7f72-4d7d-8290-cc998fe673b3",
+    "external_id": "6980e0e0173b8a0001688df5"
+  }
+}

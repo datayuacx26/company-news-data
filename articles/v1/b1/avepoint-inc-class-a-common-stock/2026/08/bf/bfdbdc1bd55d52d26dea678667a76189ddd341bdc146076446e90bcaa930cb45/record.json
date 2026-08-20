@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bfdbdc1bd55d52d26dea678667a76189ddd341bdc146076446e90bcaa930cb45",
+  "company": {
+    "key": "avepoint-inc-class-a-common-stock",
+    "name": "AvePoint Inc."
+  },
+  "source": {
+    "id": "avepoint-inc-class-a-common-stock-news-import-1c9c9e9520bc",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.avepoint.com/blog/protect/open-weight-ai-models-cybersecurity-threat",
+    "canonical": "https://www.avepoint.com/blog/protect/open-weight-ai-models-cybersecurity-threat"
+  },
+  "title": "Are Open-Weight AI Models a Cybersecurity Threat?",
+  "summary": "Open-weight AI models are models whose trained parameters are published for anyone to download, run, or modify, unlike frontier closed-weight models accessed only through a vendor’s application programming interface (API).",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T02:22:35.463178+00:00",
+  "fetched_at": "2026-08-10T02:22:37.560183+00:00",
+  "last_updated_at": "2026-08-13T02:35:21.393372+00:00",
+  "paths": {
+    "article": "articles/v1/b1/avepoint-inc-class-a-common-stock/2026/08/bf/bfdbdc1bd55d52d26dea678667a76189ddd341bdc146076446e90bcaa930cb45/article.md",
+    "record": "articles/v1/b1/avepoint-inc-class-a-common-stock/2026/08/bf/bfdbdc1bd55d52d26dea678667a76189ddd341bdc146076446e90bcaa930cb45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22492,
+    "sha256": "sha256:9cb602db9c8304f04b2d216c351bb030e090f37d289728edc46de78663c29045",
+    "normalized_content_hash": "sha256:908286446be2ba54beaa682807515bd9759a2ff1fbe9ad2b32fc8d8e9d395c79"
+  },
+  "provenance": {
+    "source_item_id": "27d5b2ba-2a21-4d94-8c57-a21f87a6a609",
+    "external_id": "https://www.avepoint.com/blog/protect/open-weight-ai-models-cybersecurity-threat"
+  }
+}

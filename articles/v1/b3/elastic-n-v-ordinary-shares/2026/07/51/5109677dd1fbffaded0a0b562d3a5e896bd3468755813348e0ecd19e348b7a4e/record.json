@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5109677dd1fbffaded0a0b562d3a5e896bd3468755813348e0ecd19e348b7a4e",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/sentinel-detection-rules-migration",
+    "canonical": "https://www.elastic.co/security-labs/sentinel-detection-rules-migration"
+  },
+  "title": "Stop rewriting detection rules by hand: automatic Sentinel-to-Elastic migration is here",
+  "summary": "Export your Sentinel rules, upload to Elastic, and get translated detections back. Scheduled, NRT, watchlists and severity mappings supported.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T17:43:11.677045+00:00",
+  "fetched_at": "2026-07-29T17:43:13.146694+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/51/5109677dd1fbffaded0a0b562d3a5e896bd3468755813348e0ecd19e348b7a4e/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/51/5109677dd1fbffaded0a0b562d3a5e896bd3468755813348e0ecd19e348b7a4e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10209,
+    "sha256": "sha256:5f778a95511fbbed2432dbb90301c57300e7619dfaf929d84f97ab3bb7f8dfbf",
+    "normalized_content_hash": "sha256:a381c57f2cb0129f2af1f6945bccb4dfe8fa39210d3aac02374cef508aa783ec"
+  },
+  "provenance": {
+    "source_item_id": "e2be4d89-d2e7-4a1e-be97-8ad8f763802a",
+    "external_id": "sentinel-detection-rules-migration"
+  }
+}

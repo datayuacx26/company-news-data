@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d103a52f21fee5c1b87dac2fa046afd5714c35ab1b090dd5ad50d9fabeab3338",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/connect-client-traces-to-your-logs",
+    "canonical": "https://supabase.com/blog/connect-client-traces-to-your-logs"
+  },
+  "title": "Connect client traces to your logs",
+  "summary": "supabase-js now propagates W3C Trace Context to Supabase, so a client trace and the matching Supabase log share one trace_id.",
+  "published_at": "2026-08-18T07:00:00+00:00",
+  "first_seen_at": "2026-08-18T18:53:11.682834+00:00",
+  "fetched_at": "2026-08-18T18:53:19.905743+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2026/08/d1/d103a52f21fee5c1b87dac2fa046afd5714c35ab1b090dd5ad50d9fabeab3338/article.md",
+    "record": "articles/v1/b1/yc-supabase/2026/08/d1/d103a52f21fee5c1b87dac2fa046afd5714c35ab1b090dd5ad50d9fabeab3338/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5862,
+    "sha256": "sha256:ea64be586efafb18da6ca6887ac1e13584416340728414097c45e169936c755c",
+    "normalized_content_hash": "sha256:9140f6f84e65e3d9917617befbd8e32b72eb6c67e79d33e7725889e67e763c06"
+  },
+  "provenance": {
+    "source_item_id": "6f1e0f80-8df1-45ac-9d45-62d8b8fdb605",
+    "external_id": "https://supabase.com/blog/connect-client-traces-to-your-logs"
+  }
+}

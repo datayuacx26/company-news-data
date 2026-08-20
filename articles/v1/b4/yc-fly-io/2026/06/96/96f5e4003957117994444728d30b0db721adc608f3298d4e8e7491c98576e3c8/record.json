@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "96f5e4003957117994444728d30b0db721adc608f3298d4e8e7491c98576e3c8",
+  "company": {
+    "key": "yc-fly-io",
+    "name": "Fly.io"
+  },
+  "source": {
+    "id": "yc-fly-io-news-import-54d37e81cc45",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fly.io/blog/building-agents-that-dont-break-themselves/",
+    "canonical": "https://fly.io/blog/building-agents-that-dont-break-themselves/"
+  },
+  "title": "Building Agents that Don't Break Themselves",
+  "summary": "Where your agent runs and where it runs code are two different questions. Answer them separately.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:38:55.214316+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-20T03:15:48.943438+00:00",
+  "paths": {
+    "article": "articles/v1/b4/yc-fly-io/2026/06/96/96f5e4003957117994444728d30b0db721adc608f3298d4e8e7491c98576e3c8/article.md",
+    "record": "articles/v1/b4/yc-fly-io/2026/06/96/96f5e4003957117994444728d30b0db721adc608f3298d4e8e7491c98576e3c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9010,
+    "sha256": "sha256:efac6dacb089c9683b041dfa783577782b8fd011d68ef5f6927432be4644173d",
+    "normalized_content_hash": "sha256:e34f76114ba72546880b15e3e2329f2ca741d92391062fc398bafb1b24971e43"
+  },
+  "provenance": {
+    "source_item_id": "d6bea318-9c77-4c1a-b991-36cd1a8c0e08",
+    "external_id": "https://fly.io/blog/building-agents-that-dont-break-themselves/"
+  }
+}

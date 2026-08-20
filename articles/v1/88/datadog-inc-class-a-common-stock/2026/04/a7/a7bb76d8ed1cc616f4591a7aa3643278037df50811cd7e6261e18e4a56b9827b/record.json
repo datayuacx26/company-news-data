@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7bb76d8ed1cc616f4591a7aa3643278037df50811cd7e6261e18e4a56b9827b",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/steganography-at-scale/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/steganography-at-scale/"
+  },
+  "title": "Steganography at scale: Embedding share URLs in Datadog widget screenshots",
+  "summary": "Learn how we embed widget metadata into screenshots using invisible, resilient watermarks, enabling self-describing visualizations at scale.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:15:48.391228+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/04/a7/a7bb76d8ed1cc616f4591a7aa3643278037df50811cd7e6261e18e4a56b9827b/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/04/a7/a7bb76d8ed1cc616f4591a7aa3643278037df50811cd7e6261e18e4a56b9827b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27846,
+    "sha256": "sha256:7359614165af27ed3aafaa9b74074e4e9c7c3570724f5d55e2979ca0d4ce091a",
+    "normalized_content_hash": "sha256:23921a2d4997cabc6d4ca1bfa7d26654eebe2c1f16eac6cd3c6a85a4a5c7af4f"
+  },
+  "provenance": {
+    "source_item_id": "0d026a8c-f182-488b-8d1a-c23f74c436b5",
+    "external_id": "https://www.datadoghq.com/blog/engineering/steganography-at-scale/"
+  }
+}

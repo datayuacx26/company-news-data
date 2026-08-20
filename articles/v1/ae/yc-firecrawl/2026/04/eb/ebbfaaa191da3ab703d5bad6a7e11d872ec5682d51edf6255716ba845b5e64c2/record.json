@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ebbfaaa191da3ab703d5bad6a7e11d872ec5682d51edf6255716ba845b5e64c2",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/introducing-parse",
+    "canonical": "https://www.firecrawl.dev/blog/introducing-parse"
+  },
+  "title": "Introducing /parse: Turn any document into LLM-ready data",
+  "summary": "Upload a PDF, Word doc, or spreadsheet and get back clean markdown, a summary, or structured JSON in one call.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:06:32.273956+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-28T21:46:24.375255+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/04/eb/ebbfaaa191da3ab703d5bad6a7e11d872ec5682d51edf6255716ba845b5e64c2/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/04/eb/ebbfaaa191da3ab703d5bad6a7e11d872ec5682d51edf6255716ba845b5e64c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4773,
+    "sha256": "sha256:398f646dd3714b058f5a13d6e76b08d437e988f523e38c53d8cc8ceb869ad95d",
+    "normalized_content_hash": "sha256:1db764df14fd240c78263a8aa28a5c70a679531afdf4d3d9f7efd53d53010d32"
+  },
+  "provenance": {
+    "source_item_id": "1c0c88a0-ce51-4262-a8c0-1ad2d13f2de0",
+    "external_id": "https://www.firecrawl.dev/blog/introducing-parse"
+  }
+}

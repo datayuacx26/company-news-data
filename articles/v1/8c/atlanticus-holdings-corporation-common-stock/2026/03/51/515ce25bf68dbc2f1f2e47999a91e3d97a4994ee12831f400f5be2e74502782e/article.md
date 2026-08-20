@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "515ce25bf68dbc2f1f2e47999a91e3d97a4994ee12831f400f5be2e74502782e"
+company_key: "atlanticus-holdings-corporation-common-stock"
+company: "Atlanticus Holdings Corporation"
+source_id: "atlanticus-holdings-corporation-common-stock-rss-d84479ac0894"
+canonical_url: "https://investors.atlanticus.com/news/news-details/2026/Atlanticus-Reports-Fourth-Quarter-2025-Financial-Results/default.aspx"
+published_at: "2026-03-12T20:24:00+00:00"
+first_seen_at: "2026-07-26T09:43:59.749390+00:00"
+fetched_at: "2026-08-19T12:51:17.441883+00:00"
+content_hash: "sha256:2f0625bc1e36ffc7b47eb05e8f79e19c61e472f3d815ddb703ae8bf77f2512d7"
+---
+
+# Atlanticus Reports Fourth Quarter 2025 Financial Results
+
+

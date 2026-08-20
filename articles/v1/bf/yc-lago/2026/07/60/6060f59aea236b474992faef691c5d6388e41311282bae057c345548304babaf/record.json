@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6060f59aea236b474992faef691c5d6388e41311282bae057c345548304babaf",
+  "company": {
+    "key": "yc-lago",
+    "name": "Lago"
+  },
+  "source": {
+    "id": "yc-lago-news-import-cc6c03d3f684",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlago.com/blog/agent-sdk-bill-the-dollar-cost-of-llm-calls-margin-built-in",
+    "canonical": "https://getlago.com/blog/agent-sdk-bill-the-dollar-cost-of-llm-calls-margin-built-in"
+  },
+  "title": "Agent SDK: bill the dollar cost of LLM calls, margin built in",
+  "summary": "Bill LLM resale in dollars, not tokens. The Lago Agent SDK's price mode turns usage into cost automatically, using Lago-maintained price lists and your markup, no price file to build or maintain.",
+  "published_at": "2026-07-21T00:40:05+00:00",
+  "first_seen_at": "2026-07-25T11:29:02.565124+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T16:09:29.517908+00:00",
+  "paths": {
+    "article": "articles/v1/bf/yc-lago/2026/07/60/6060f59aea236b474992faef691c5d6388e41311282bae057c345548304babaf/article.md",
+    "record": "articles/v1/bf/yc-lago/2026/07/60/6060f59aea236b474992faef691c5d6388e41311282bae057c345548304babaf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2658,
+    "sha256": "sha256:f78757deb55885fee944a416d0e9e094429ce8d34b7696ec5b2790c6adf5d5eb",
+    "normalized_content_hash": "sha256:6019df2df66b21eef41c3f5eab717608cf81bf6375ad5b44dee1a11ac222267c"
+  },
+  "provenance": {
+    "source_item_id": "6de82999-8855-4ffd-9740-6940febfc082",
+    "external_id": "https://getlago.com/blog/agent-sdk-bill-the-dollar-cost-of-llm-calls-margin-built-in"
+  }
+}

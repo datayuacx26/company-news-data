@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "603669bcd6153c12099b07aec9b239dce55ab0916213411683f0191fd1950877",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/self-hosted-openreplay-unable-to-read-the-uploaded-sourcemaps/536#post_1",
+    "canonical": "https://forum.openreplay.com/t/self-hosted-openreplay-unable-to-read-the-uploaded-sourcemaps/536"
+  },
+  "title": "Self hosted openreplay unable to read the uploaded sourcemaps",
+  "summary": "In the above screenshot you’ll see the warning that the sourcemaps must be uploaded to openreplay. However, we’re uploading the sourcemaps via our CI/CD to our selfhosted openreplay server See the above image where the sourcemaps are uploaded to the self hosted openreplay server successfully.",
+  "published_at": "2025-06-24T17:59:07+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2025/06/60/603669bcd6153c12099b07aec9b239dce55ab0916213411683f0191fd1950877/article.md",
+    "record": "articles/v1/ad/yc-asayer/2025/06/60/603669bcd6153c12099b07aec9b239dce55ab0916213411683f0191fd1950877/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2984,
+    "sha256": "sha256:f3d983fac956c7fe30a1518039b8190a0909b4d34b3a5096de93b7c9c8ce003d",
+    "normalized_content_hash": "sha256:841dcc67c518b333075a4bd64d8a464c8e79c3333a85adc6750703518b12d85c"
+  },
+  "provenance": {
+    "source_item_id": "8d071817-3b5c-475b-bca2-f5fda73efe39",
+    "external_id": "forum.openreplay.com-post-1382"
+  }
+}

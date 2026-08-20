@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9b667e7d8a83a7eb678b385cc6c6188933c65ef656a12f64a7beb9cc0622289c",
+  "company": {
+    "key": "yc-dailybot",
+    "name": "DailyBot"
+  },
+  "source": {
+    "id": "yc-dailybot-rss-59e03def7d75",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.dailybot.com/blog/agent-harnesses-are-the-new-ci/",
+    "canonical": "https://www.dailybot.com/blog/agent-harnesses-are-the-new-ci/"
+  },
+  "title": "Agent harnesses are the new CI: what Firefox, Google, and others are proving",
+  "summary": "Agent harnesses turn LLMs into structured bug-hunting pipelines. We break down the Firefox case study, Google Big Sleep, and the engineering patterns behind scaling agents for real codebases.",
+  "published_at": "2026-05-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:17.151433+00:00",
+  "fetched_at": "2026-07-28T22:15:23.630573+00:00",
+  "last_updated_at": "2026-08-20T03:36:31.842384+00:00",
+  "paths": {
+    "article": "articles/v1/94/yc-dailybot/2026/05/9b/9b667e7d8a83a7eb678b385cc6c6188933c65ef656a12f64a7beb9cc0622289c/article.md",
+    "record": "articles/v1/94/yc-dailybot/2026/05/9b/9b667e7d8a83a7eb678b385cc6c6188933c65ef656a12f64a7beb9cc0622289c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13866,
+    "sha256": "sha256:51ab91cbb92fc8847dc05ab4587f7897c329abed00edf546e7827e6c2213173b",
+    "normalized_content_hash": "sha256:7d7dc705305f48c3b91efb0c322cff2ea3bf3e5ba2e57729adeca8f5d0641cc9"
+  },
+  "provenance": {
+    "source_item_id": "b616da2f-f2db-4288-81bb-f8692388e31f",
+    "external_id": "https://www.dailybot.com/blog/agent-harnesses-are-the-new-ci/"
+  }
+}

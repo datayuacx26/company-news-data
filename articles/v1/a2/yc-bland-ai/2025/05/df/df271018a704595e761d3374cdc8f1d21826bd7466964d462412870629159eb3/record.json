@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df271018a704595e761d3374cdc8f1d21826bd7466964d462412870629159eb3",
+  "company": {
+    "key": "yc-bland-ai",
+    "name": "Bland AI"
+  },
+  "source": {
+    "id": "yc-bland-ai-news-import-c77b84ac3c61",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bland.ai/blog/llm-security-data-privacy",
+    "canonical": "https://www.bland.ai/blog/llm-security-data-privacy"
+  },
+  "title": "Addressing LLM Security and Data Privacy",
+  "summary": "Discover how Bland’s inference-only LLM architecture protects sensitive data. Learn how our AI voice agents ensure complete session isolation, zero retention, and safe deployment across customer…",
+  "published_at": "2025-05-13T13:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:41:07.173500+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T18:06:47.390558+00:00",
+  "paths": {
+    "article": "articles/v1/a2/yc-bland-ai/2025/05/df/df271018a704595e761d3374cdc8f1d21826bd7466964d462412870629159eb3/article.md",
+    "record": "articles/v1/a2/yc-bland-ai/2025/05/df/df271018a704595e761d3374cdc8f1d21826bd7466964d462412870629159eb3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10551,
+    "sha256": "sha256:f0e7d01317b1177448d5b1dcf588f673347f4799f36873f6de6a4b3aeffb5106",
+    "normalized_content_hash": "sha256:e0bd6d2db1f73b3cf38b75151738daf22a7757d7fae2128c6a93fb75484f5082"
+  },
+  "provenance": {
+    "source_item_id": "6243cbf1-3e80-4752-9c94-316894a26106",
+    "external_id": "https://www.bland.ai/blog/llm-security-data-privacy"
+  }
+}

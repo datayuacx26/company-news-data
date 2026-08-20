@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44a30fcadcc54a9c6bb74b590d5c0ea942212c31c8e42a268a28024fc32bcf0e",
+  "company": {
+    "key": "yc-zinc",
+    "name": "Zinc"
+  },
+  "source": {
+    "id": "yc-zinc-news-import-01c857d42648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zinc.com/blog/what-is-mpp",
+    "canonical": "https://www.zinc.com/blog/what-is-mpp"
+  },
+  "title": "What Is MPP? A Developer's Guide to Machine Payments",
+  "summary": "MPP lets AI agents pay for anything over HTTP without an account. Here's how the Machine Payments Protocol actually works, how it compares to x402 and ACP, and real production code.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:14:52.140847+00:00",
+  "fetched_at": "2026-07-28T22:15:52.361502+00:00",
+  "last_updated_at": "2026-08-04T06:18:35.923135+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-zinc/2026/04/44/44a30fcadcc54a9c6bb74b590d5c0ea942212c31c8e42a268a28024fc32bcf0e/article.md",
+    "record": "articles/v1/a3/yc-zinc/2026/04/44/44a30fcadcc54a9c6bb74b590d5c0ea942212c31c8e42a268a28024fc32bcf0e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21804,
+    "sha256": "sha256:d5529002ffcd0fad92d8b430d4bb79cc7561cf6bcdb3f849d47dc6f19e58a493",
+    "normalized_content_hash": "sha256:da7af5333532c15884db1ff07240cf76ed67fb303ae56575c0ec88fba12f4637"
+  },
+  "provenance": {
+    "source_item_id": "1464a96a-f815-43af-b661-da4563516b25",
+    "external_id": "https://www.zinc.com/blog/what-is-mpp"
+  }
+}

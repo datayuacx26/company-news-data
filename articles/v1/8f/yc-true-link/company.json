@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-true-link",
+    "name": "True Link"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-06-03T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8f/yc-true-link/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 15882,
+        "sha256": "sha256:701156bf9e5be9bf63ed62dbc4fb811afc25ba27d8c660c3376467cd8422c0b0",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-06-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

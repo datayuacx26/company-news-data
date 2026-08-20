@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-solve-intelligence",
+    "name": "Solve Intelligence"
+  },
+  "record_count": 20,
+  "first_published_at": "2026-01-15T17:02:10.934+00:00",
+  "last_published_at": "2026-08-05T16:51:28.568+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/yc-solve-intelligence/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 23137,
+        "sha256": "sha256:5eedd9999c8bc5ea15e02a4921007e7daebea88be42844f54a24040bcbb9892b",
+        "newest_at": "2026-08-05T16:51:28.568+00:00",
+        "oldest_at": "2026-01-15T17:02:10.934+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5249ab062018ca63c719b9468a89e6e00137f86d9753d125dc0bab375561f94b",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/datadog-clickhouse-log-management/",
+    "canonical": "https://www.datadoghq.com/blog/datadog-clickhouse-log-management/"
+  },
+  "title": "Store and search high-volume logs with ClickHouse and Datadog",
+  "summary": "Route logs to ClickHouse with Observability Pipelines and search them from the Datadog Log Explorer.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/52/5249ab062018ca63c719b9468a89e6e00137f86d9753d125dc0bab375561f94b/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/52/5249ab062018ca63c719b9468a89e6e00137f86d9753d125dc0bab375561f94b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4765,
+    "sha256": "sha256:6ee985b948178cf34552e75c42e8ebc59f12e12ec1ec276facb5601fa4006da7",
+    "normalized_content_hash": "sha256:cfb3514fd3292f9918c714347117a8425630e8df61dfc32c930ca601c42baf5d"
+  },
+  "provenance": {
+    "source_item_id": "3d18fd26-77eb-4194-9dc0-c9532af3ca75",
+    "external_id": "https://www.datadoghq.com/blog/datadog-clickhouse-log-management/"
+  }
+}

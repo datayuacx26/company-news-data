@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c9b668e15d49581955fe99c3ab1808f3264d3ad6ef770adf1486925d815aa56",
+  "company": {
+    "key": "yc-blink-new",
+    "name": "Blink"
+  },
+  "source": {
+    "id": "yc-blink-new-rss-0c236d2832c1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blink.new/blog/how-to-build-a-slack-bot",
+    "canonical": "https://blink.new/blog/how-to-build-a-slack-bot"
+  },
+  "title": "How to Build a Slack Bot With AI (No AWS Lambda Required)",
+  "summary": "Build a full-featured AI Slack bot that responds to slash commands and events — without configuring IAM roles, VPCs, or CloudFormation. Step-by-step guide.",
+  "published_at": "2026-05-10T01:08:26+00:00",
+  "first_seen_at": "2026-07-24T19:35:33.186925+00:00",
+  "fetched_at": "2026-07-28T20:51:07.653203+00:00",
+  "last_updated_at": "2026-08-20T03:39:45.542839+00:00",
+  "paths": {
+    "article": "articles/v1/a6/yc-blink-new/2026/05/0c/0c9b668e15d49581955fe99c3ab1808f3264d3ad6ef770adf1486925d815aa56/article.md",
+    "record": "articles/v1/a6/yc-blink-new/2026/05/0c/0c9b668e15d49581955fe99c3ab1808f3264d3ad6ef770adf1486925d815aa56/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8535,
+    "sha256": "sha256:251c4536b8d2c2db38b65c5cd1fe56287cd1a5aba5d2f36a459332fcadae8e0c",
+    "normalized_content_hash": "sha256:b1e2113284b7be49770447130b634cb0d792067b22a186abd64dab3c9798cbf9"
+  },
+  "provenance": {
+    "source_item_id": "b4cb229b-6fde-4f3e-a741-53915640f14b",
+    "external_id": "https://blink.new/blog/how-to-build-a-slack-bot"
+  }
+}

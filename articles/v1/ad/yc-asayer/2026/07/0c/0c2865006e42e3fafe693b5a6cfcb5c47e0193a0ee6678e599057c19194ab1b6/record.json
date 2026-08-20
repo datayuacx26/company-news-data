@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c2865006e42e3fafe693b5a6cfcb5c47e0193a0ee6678e599057c19194ab1b6",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/coding-agents-yolo-mode/",
+    "canonical": "https://blog.openreplay.com/coding-agents-yolo-mode/"
+  },
+  "title": "Running Coding Agents in YOLO Mode Without Nuking Your Laptop",
+  "summary": "YOLO mode for coding agents needs layered isolation: devcontainers, microVMs, egress controls, and credential-safe git workflows.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-01T22:41:39.909424+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/0c/0c2865006e42e3fafe693b5a6cfcb5c47e0193a0ee6678e599057c19194ab1b6/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/0c/0c2865006e42e3fafe693b5a6cfcb5c47e0193a0ee6678e599057c19194ab1b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18522,
+    "sha256": "sha256:fa8019b2acbfcb9ab09bfce59eb2cd5561a77a6bdd933921bcdc029b0fce50b9",
+    "normalized_content_hash": "sha256:23da21eeca73c4efd2868774597ebe2e4944118872244866889e9eed375188dd"
+  },
+  "provenance": {
+    "source_item_id": "4a1294e8-e769-433c-9d6a-6d19948e546f",
+    "external_id": "https://blog.openreplay.com/coding-agents-yolo-mode/"
+  }
+}

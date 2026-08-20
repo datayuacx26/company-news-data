@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0a75c415efd790f937b4c989b080d8662034ebf389d216a2e451d28e49b149fc",
+  "company": {
+    "key": "yc-flycode",
+    "name": "FlyCode"
+  },
+  "source": {
+    "id": "yc-flycode-news-import-523b281c6a73",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flycode.com/blog/stacked-retries-auth-rate-damage-2026",
+    "canonical": "https://www.flycode.com/blog/stacked-retries-auth-rate-damage-2026"
+  },
+  "title": "The Hidden Cost of Stacked Retries: How Adding a Second Recovery Tool Can Quietly Lower Your Auth Rate",
+  "summary": "Stacking a second retry tool on top of your payment processor can quietly lower your authorization rate and cost more than it recovers. Here is the mechanism, the math, and the architecture that avoids it.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:50:45.349061+00:00",
+  "fetched_at": "2026-07-28T21:46:32.935029+00:00",
+  "last_updated_at": "2026-08-19T23:56:29.146281+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-flycode/2026/05/0a/0a75c415efd790f937b4c989b080d8662034ebf389d216a2e451d28e49b149fc/article.md",
+    "record": "articles/v1/96/yc-flycode/2026/05/0a/0a75c415efd790f937b4c989b080d8662034ebf389d216a2e451d28e49b149fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11278,
+    "sha256": "sha256:abffd89e5966753c819f939995feda6828e949f0c80323c60c29e855326c2c15",
+    "normalized_content_hash": "sha256:550bbde6d0ed657de7ac8595f014d23350320149b09a4def7c0d311e0a380264"
+  },
+  "provenance": {
+    "source_item_id": "0c0f9b25-8a32-4b47-b9a4-48d5d4f1b207",
+    "external_id": "https://www.flycode.com/blog/stacked-retries-auth-rate-damage-2026"
+  }
+}

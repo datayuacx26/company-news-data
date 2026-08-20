@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aac674e1638ac72604c29df657379fcc7cd7296526e0b3b88e343caa3f4e827a",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/building-serverless-usage-notification-with-aws",
+    "canonical": "https://stripe.dev/blog/building-serverless-usage-notification-with-aws"
+  },
+  "title": "Building serverless usage notification with AWS",
+  "summary": "In this article, we will guide you on how to set up usage threshold alerts based on consumption for customers with pay-as-you-go plans. By integrating AWS's serverless tools with Stripe, you can create a streamlined and easy-to-manage notification system with minimal coding.",
+  "published_at": "2025-02-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/02/aa/aac674e1638ac72604c29df657379fcc7cd7296526e0b3b88e343caa3f4e827a/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/02/aa/aac674e1638ac72604c29df657379fcc7cd7296526e0b3b88e343caa3f4e827a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4334,
+    "sha256": "sha256:c3af982458f41aad03405e13b7e99a1b872ff096647ef1c22e6827366955c6c4",
+    "normalized_content_hash": "sha256:6c5394246666cae503982400afe8d489b726021859e560bb1ff8f91e4b0c8f3f"
+  },
+  "provenance": {
+    "source_item_id": "ba63519f-a556-491d-aa4e-063ee6844aa2",
+    "external_id": "https://stripe.dev/blog/building-serverless-usage-notification-with-aws"
+  }
+}

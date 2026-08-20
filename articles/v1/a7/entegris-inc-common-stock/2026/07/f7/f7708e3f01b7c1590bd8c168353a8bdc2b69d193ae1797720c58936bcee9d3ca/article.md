@@ -1,0 +1,74 @@
+---
+schema_version: "1.0.0"
+document_id: "f7708e3f01b7c1590bd8c168353a8bdc2b69d193ae1797720c58936bcee9d3ca"
+company_key: "entegris-inc-common-stock"
+company: "Entegris Inc."
+source_id: "entegris-inc-common-stock-news-import-eba5f4a5c832"
+canonical_url: "https://investor.entegris.com/news/news-details/2026/Entegris-Announces-Changes-to-Board-of-Directors/default.aspx"
+published_at: null
+first_seen_at: "2026-07-30T03:18:40.699951+00:00"
+fetched_at: "2026-07-30T03:18:42.490863+00:00"
+content_hash: "sha256:577e777d8cf35623ea3a33e1f091e47e947fcfe8d8554a45000c9f1032770ef8"
+---
+
+# Entegris Announces Changes to Board of Directors
+
+[View All News](https://investor.entegris.com/news/default.aspx)
+
+
+### Entegris Announces Changes to Board of Directors
+
+
+Jul 29, 2026
+
+
+*Robert A. Bruggeworth, President and Chief Executive Officer of Qorvo, Appointed to Board*
+
+
+*Executive Chair Bertrand Loy to Retire; Lead Independent Director James F. Gentilcore to Become Chair of the Board*
+
+
+BILLERICA, Mass.--(BUSINESS WIRE)--
+
+
+Entegris, Inc. (Nasdaq: ENTG), a global leader in advanced materials and purity solutions for the semiconductor industry, today announced the appointment of Robert A. Bruggeworth, President and Chief Executive Officer of Qorvo, to the Board, effective August 3, 2026. In addition, the Company announced that Bertrand Loy, Executive Chair of the Board of Directors, will retire from Entegris on July 31, 2026. At that time, James F. Gentilcore, currently the Company’s Lead Independent Director, will become Chair of the Board. Mr. Loy’s retirement from the Board reflects the successful culmination of the Company’s CEO succession plan, following Dave Reeder’s appointment as CEO in 2025. These Board changes will bring the total number of Entegris board members to eight.
+
+
+“We’re pleased to welcome Bob to the Entegris Board,” said James F. Gentilcore, Lead Independent Director. “His corporate leadership and board experience, as well as his deep expertise in the semiconductor and electronic connectivity solutions industries, will bring valuable perspectives to the Board as Entegris continues to drive growth and scale rapidly over the coming years.”
+
+
+“On behalf of the entire Board, I want to thank Bertrand for his two decades of extraordinary service to Entegris,” Mr. Gentilcore continued. “Under his leadership as President and CEO for 13 years, Entegris built an incredibly strong foundation and a leading global position across the semiconductor industry. We are grateful for his continued support during the transition and wish him all the best in his well-deserved retirement. With a strong leadership team in place, we are confident in Entegris’ path forward and its next chapter of growth. I look forward to stepping into the Chair role as the Board continues to focus on advancing the Company’s momentum and delivering value for our shareholders, customers and employees.”
+
+
+Dave Reeder, Entegris’ President and Chief Executive Officer, said: “It has been a privilege to work alongside Bertrand over the last year. We are grateful for the significant impact he has made on the business throughout his tenure. I am confident that Bob will be a greatly valued member of our Board as we continue to focus on driving growth and continued success.”
+
+
+**About Robert A. Bruggeworth**
+
+
+Mr. Bruggeworth has served as President and CEO of Qorvo, a leading global provider of connectivity and power solutions, since 2015. Prior to the merger of RF Micro Devices (RFMD) and TriQuint Semiconductor to form Qorvo, he served as the President and CEO of RFMD for nearly 10 years. He also held various leadership positions at AMP Inc., a supplier of electrical and electronic connection devices for sixteen years beginning in 1983. Mr. Bruggeworth serves as Chairman of MSA Safety Incorporated, a global leader in advanced industrial safety technology products and solutions, and is a board member at Qorvo and the Semiconductor Industry Association.
+
+
+**About Entegris**
+
+
+Entegris is a leading supplier of advanced materials and process solutions for the semiconductor and other high-tech industries. Entegris has approximately 7,700 employees throughout its global operations and is ISO 9001 certified. It has manufacturing, customer service and/or research facilities in the United States, Canada, China, Germany, Israel, Japan, Malaysia, Singapore, South Korea, and Taiwan. Additional information can be found at[www.entegris.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.entegris.com&esheet=54578497&newsitemid=20260729893870&lan=en-US&anchor=www.entegris.com&index=1&md5=7b645615de3de432ee61eae82f9310c1) .
+
+
+**Cautionary Note on Forward-Looking Statements**
+
+
+This news release contains “forward-looking statements.” The words “believe,” “expect,” “anticipate,” “intend,” “estimate,” “forecast,” “project,” “should,” “may,” “will,” “would” or the negative thereof and similar expressions are intended to identify such forward-looking statements. These forward-looking statements are based on current management expectations and assumptions only as of the date of this news release. They are not guarantees of future performance and they involve substantial risks and uncertainties that are difficult to predict and that could cause actual results to differ materially from the results expressed in, or implied by, these forward-looking statements. These risks and uncertainties include, but are not limited to, potential disruptions to the Company’s business, strategy or stakeholder relationships arising from changes in Board leadership, including the retirement of the Executive Chair and the transition to a new Chair; failure to realize the anticipated benefits of new Board appointments; challenges in retaining key personnel during periods of leadership transition; and other matters. These risks and uncertainties also include, but are not limited to, the risk factors and additional information described in the Company’s filings with the U.S. Securities and Exchange Commission (the “SEC”), including under the heading “Risk Factors” in Item 1A of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed on February 11, 2026, and in the Company’s other SEC filings. Except as required under the federal securities laws and the rules and regulations of the SEC, the Company undertakes no obligation to update publicly any forward-looking statements or information contained herein, which speak only as of their respective dates.
+
+
+Entegris, Inc.
+Jeffrey Schnell
+Vice President, Investor Relations
++ 1 201-207-3029
+Jeffrey.schnell@entegris.com
+
+
+Source: Entegris, Inc.
+
+
+[View All News](https://investor.entegris.com/news/default.aspx)

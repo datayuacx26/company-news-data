@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09b8a2c17fc55a69bfadfd573fafd7aeb240beda54e980eadcaa690c66854922",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/first-class-observability-in-daft",
+    "canonical": "https://www.eventual.ai/blog/first-class-observability-in-daft"
+  },
+  "title": "First-class observability in Daft",
+  "summary": "A new dashboard, per-operator memory attribution, and OTel endpoints for your existing collector. Everything you need to see what Daft is doing with your query.",
+  "published_at": "2026-05-25T08:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:47:26.048705+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T01:29:00.224908+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/05/09/09b8a2c17fc55a69bfadfd573fafd7aeb240beda54e980eadcaa690c66854922/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/05/09/09b8a2c17fc55a69bfadfd573fafd7aeb240beda54e980eadcaa690c66854922/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10969,
+    "sha256": "sha256:7e6c3f085b2409d138b2211991800c40b9c553bc282cc17368f85dffb83546a7",
+    "normalized_content_hash": "sha256:90ed359df4e40cb23991085e2b79a860f723e783f490323e4af5b7581cf4150b"
+  },
+  "provenance": {
+    "source_item_id": "2e21a194-f6a7-45ed-ab2b-32d4542a5777",
+    "external_id": "https://www.eventual.ai/blog/first-class-observability-in-daft"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f98984c2b163eadb994e8d7d2707dd8a7c01c914e4a40359af3ee0bf7e02fdf",
+  "company": {
+    "key": "commvault-systems-inc-common-stock",
+    "name": "Commvault Systems Inc."
+  },
+  "source": {
+    "id": "commvault-systems-inc-common-stock-news-import-d7ff9e033aa3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.commvault.com/blogs/openai-hugging-face-security-incident-cyber-resilience",
+    "canonical": "https://www.commvault.com/blogs/openai-hugging-face-security-incident-cyber-resilience"
+  },
+  "title": "What OpenAI’s Hugging Face Security Incident Means for Cyber Resilience",
+  "summary": "An OpenAI evaluation unexpectedly became a real-world security incident after advanced AI models exploited vulnerabilities, escaped their test environment, and compromised Hugging Face infrastructure.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T16:39:35.443534+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-11T08:15:26.050180+00:00",
+  "paths": {
+    "article": "articles/v1/83/commvault-systems-inc-common-stock/2026/07/7f/7f98984c2b163eadb994e8d7d2707dd8a7c01c914e4a40359af3ee0bf7e02fdf/article.md",
+    "record": "articles/v1/83/commvault-systems-inc-common-stock/2026/07/7f/7f98984c2b163eadb994e8d7d2707dd8a7c01c914e4a40359af3ee0bf7e02fdf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4358,
+    "sha256": "sha256:eff90b065cbc2b52687d43ffae49b73eec27ffd52ca1cd2b848d414fce67e6a0",
+    "normalized_content_hash": "sha256:10f0256cb455dc9ac1493d96321735c7eef6fcb370ea90879c0b897ef878590f"
+  },
+  "provenance": {
+    "source_item_id": "e466b03b-37e3-440f-b89f-3f5c18195de2",
+    "external_id": "https://www.commvault.com/blogs/openai-hugging-face-security-incident-cyber-resilience"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87812d332a162248c0ffa7956d97efd9a803a10b1166ac380b36265d3c1621eb",
+  "company": {
+    "key": "yc-superagent",
+    "name": "Superagent"
+  },
+  "source": {
+    "id": "yc-superagent-news-import-3c33ed06ece7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.superagent.sh/blog/a-bad-patch-is-worse-than-no-patch",
+    "canonical": "https://www.superagent.sh/blog/a-bad-patch-is-worse-than-no-patch"
+  },
+  "title": "A bad patch is worse than no patch.",
+  "summary": "AI makes finding vulnerabilities cheap, but real security value comes from validating findings, fixing safely, and merging patches into production code.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:47:34.464363+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T23:41:00.202139+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-superagent/2026/06/87/87812d332a162248c0ffa7956d97efd9a803a10b1166ac380b36265d3c1621eb/article.md",
+    "record": "articles/v1/a8/yc-superagent/2026/06/87/87812d332a162248c0ffa7956d97efd9a803a10b1166ac380b36265d3c1621eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3160,
+    "sha256": "sha256:6e992160bc378d012b200ce078cfc790811244ba0be37a2fa6dfe18f4bd485b9",
+    "normalized_content_hash": "sha256:24533df9d20fcdb84134a140cc21d702cd16633180bf1c65a0464f6c0594ddf6"
+  },
+  "provenance": {
+    "source_item_id": "6a784456-c120-4131-8f32-04480cf23124",
+    "external_id": "https://www.superagent.sh/blog/a-bad-patch-is-worse-than-no-patch"
+  }
+}

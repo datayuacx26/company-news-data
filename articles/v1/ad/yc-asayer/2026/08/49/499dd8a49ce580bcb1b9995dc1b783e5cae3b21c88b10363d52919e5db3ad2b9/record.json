@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "499dd8a49ce580bcb1b9995dc1b783e5cae3b21c88b10363d52919e5db3ad2b9",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/browser-tab-sync-broadcastchannel/",
+    "canonical": "https://blog.openreplay.com/browser-tab-sync-broadcastchannel/"
+  },
+  "title": "Browser Tab Synchronization with BroadcastChannel",
+  "summary": "BroadcastChannel syncs tabs in real time with structured-clone messages, cleanup, fallback support, and practical patterns for auth, cart, and theme state.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T18:30:11.746057+00:00",
+  "fetched_at": "2026-08-04T18:43:13.169222+00:00",
+  "last_updated_at": "2026-08-13T23:11:12.448752+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/49/499dd8a49ce580bcb1b9995dc1b783e5cae3b21c88b10363d52919e5db3ad2b9/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/49/499dd8a49ce580bcb1b9995dc1b783e5cae3b21c88b10363d52919e5db3ad2b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12192,
+    "sha256": "sha256:13ab07227d1da916878bc4a2f75ed3379071a5a1e69348d5bfeeb4b2f957b745",
+    "normalized_content_hash": "sha256:a6a1931593760d4199656c73fbf010e20d2a0480a7d4c497f0c1408e6a2abb64"
+  },
+  "provenance": {
+    "source_item_id": "0171628e-5ace-4356-a679-d9d4a09feba3",
+    "external_id": "https://blog.openreplay.com/browser-tab-sync-broadcastchannel/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f68ddf3adb534565a8767323ac347bdd57937db5f5a5605005113e5896ffeb20",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/aws-data-perimeters/",
+    "canonical": "https://www.datadoghq.com/blog/aws-data-perimeters/"
+  },
+  "title": "A deep dive into AWS data perimeter misconfigurations",
+  "summary": "Explore how threat emulation can help you find gaps in your AWS data perimeter policies, then learn which organization-level policies can close them.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-19T14:10:26.188858+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/f6/f68ddf3adb534565a8767323ac347bdd57937db5f5a5605005113e5896ffeb20/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/f6/f68ddf3adb534565a8767323ac347bdd57937db5f5a5605005113e5896ffeb20/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33768,
+    "sha256": "sha256:448592481610dd9f21160658ebf348d4dab710c7ae5a603d9bd8fd0c4ff5e203",
+    "normalized_content_hash": "sha256:8ad85bfc7736d7a9fdb535704d9dfd59e0be0b62690b3217e606a754174be587"
+  },
+  "provenance": {
+    "source_item_id": "4a21a9e9-7799-4f3d-a7d2-63b465efd2e0",
+    "external_id": "https://www.datadoghq.com/blog/aws-data-perimeters/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "899813ffaebf90986d81e374be5a5a42fdb869d8fe3042e50088d334cd3b6038",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/datadog-disaster-recovery/",
+    "canonical": "https://www.datadoghq.com/blog/datadog-disaster-recovery/"
+  },
+  "title": "Maintain observability during cloud outages with Datadog Disaster Recovery",
+  "summary": "Datadog Disaster Recovery lets you fail over to a secondary Datadog site to preserve visibility and telemetry continuity when your primary site is impacted.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/89/899813ffaebf90986d81e374be5a5a42fdb869d8fe3042e50088d334cd3b6038/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/89/899813ffaebf90986d81e374be5a5a42fdb869d8fe3042e50088d334cd3b6038/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9048,
+    "sha256": "sha256:89b3817a59430e4586c5adde3b057c3082093727619cf5dd3fd45a3b0190c835",
+    "normalized_content_hash": "sha256:15a5374d1e95acde6a85742ee8a21806b89814cd1e2af1d041d0dff804278969"
+  },
+  "provenance": {
+    "source_item_id": "b0e3a998-246b-41be-9bf5-db446398343b",
+    "external_id": "https://www.datadoghq.com/blog/datadog-disaster-recovery/"
+  }
+}

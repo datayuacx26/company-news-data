@@ -1,0 +1,68 @@
+---
+schema_version: "1.0.0"
+document_id: "35ff8293ac0f8e37144a7425951ee0d803daf36984351b0697544aae91f194fd"
+company_key: "b2gold-corp-common-shares-canada"
+company: "B2Gold Corp Common shares (Canada)"
+source_id: "b2gold-corp-common-shares-canada-rss-03122df7d041"
+canonical_url: "https://www.b2gold.com/news-media/news-releases/news-details/2026/B2Gold-Reports-Fire-Related-Incident-to-the-Crushing-Circuit-at-the-Goose-Mine/default.aspx"
+published_at: "2026-04-19T03:59:00+00:00"
+first_seen_at: "2026-07-26T10:00:33.300803+00:00"
+fetched_at: "2026-08-18T11:02:04.438185+00:00"
+content_hash: "sha256:881bfffb9e249c6f90fb8c84f1e501a3f17102e9cf31328e9c9e6e7ec9da9205"
+---
+
+# B2Gold Reports Fire-Related Incident to the Crushing Circuit at the Goose Mine
+
+VANCOUVER, British Columbia, April 17, 2026 (GLOBE NEWSWIRE) -- B2Gold Corp. (TSX: BTO, NYSE AMERICAN: BTG, NSX: B2G) (“B2Gold” or the “Company”) announced today that a fire occurred in certain areas of the crushing circuit at the Goose Mine in the evening on April 16, 2026. On-site emergency responders were deployed and immediately initiated response procedures, and the fire was fully extinguished. No injuries were reported, no medical treatment was required, and mining operations are continuing on plan. The Company has been in contact with the relevant regulatory authorities.
+
+
+The Company is investigating the cause of the fire, as well as assessing the damage and potential impact on the operation. The Company’s initial assessment indicates that the fire was localized to the secondary crusher screen and feed belt. Further updates will be provided as more information becomes available.
+
+
+**About B2Gold Corp.**
+
+
+B2Gold is a responsible international gold producer headquartered in Vancouver, Canada. Founded in 2007, today, B2Gold has operating gold mines in Canada, Mali, Namibia and the Philippines, and numerous development and exploration projects in various countries.
+
+
+**ON BEHALF OF B2GOLD** **CORP.**
+" **Clive T. Johnson** "
+**President and Chief Executive Officer**
+
+
+Source: B2Gold Corp.
+
+
+*The Toronto Stock Exchange and NYSE American LLC neither approve nor disapprove the information contained in this news release.*
+
+
+*This news release includes certain "forward-looking information" and "forward-looking statements" (collectively "forward-looking statements") within the meaning of applicable Canadian and United States securities legislation, including: projections; outlook; guidance; forecasts; estimates; and other statements regarding future or estimated financial and operational performance, gold production and sales, revenues and cash flows, and capital costs (sustaining and non-sustaining) and operating costs, including projected cash operating costs and all-in sustaining costs, and budgets on a consolidated and mine by mine basis, which if they occur, would have on our business, our planned capital and exploration expenditures; future or estimated mine life, metal price assumptions, ore grades or sources, gold recovery rates, stripping ratios, throughput, ore processing; statements regarding anticipated exploration, drilling, development, construction, permitting and other activities or achievements of B2Gold; and including, without limitation: mining operations at Goose are continuing on plan; the Company’s initial assessment that the* *fire was localized to the secondary crusher screen and feed belt* *. All statements in this news release that address events or developments that we expect to occur in the future are forward-looking statements. Forward-looking statements are statements that are not historical facts and are generally, although not always, identified by words such as "expect", "plan", "anticipate", "project", "target", "potential", "schedule", "forecast", "budget", "estimate", "intend" or "believe" and similar expressions or their negative connotations, or that events or conditions "will", "would", "may", "could", "should" or "might" occur. All such forward-looking statements are based on the opinions and estimates of management as of the date such statements are made.*
+
+
+*Forward-looking statements necessarily involve assumptions, risks and uncertainties, certain of which are beyond B2Gold's control, including risks associated with or related to: the volatility of metal prices and B2Gold's common shares; changes in tax laws; the dangers inherent in exploration, development and mining activities; the uncertainty of reserve and resource estimates; not achieving production, cost or other estimates; actual production, development plans and costs differing materially from the estimates in B2Gold's feasibility and other studies; the ability to obtain and maintain any necessary permits, consents or authorizations required for mining activities; environmental regulations or hazards and compliance with complex regulations associated with mining activities; climate change and climate change regulations; the ability to replace mineral reserves and identify acquisition opportunities; the unknown liabilities of companies acquired by B2Gold; the ability to successfully integrate new acquisitions; fluctuations in exchange rates; the availability of financing; financing and debt activities, including potential restrictions imposed on B2Gold's operations as a result thereof and the ability to generate sufficient cash flows; operations in foreign and developing countries and the compliance with foreign laws, including those associated with operations in Mali, Namibia, the Philippines and Colombia and including risks related to changes in foreign laws and changing policies related to mining and local ownership requirements or resource nationalization generally; remote operations and the availability of adequate infrastructure; fluctuations in price and availability of energy and other inputs necessary for mining operations; shortages or cost increases in necessary equipment, supplies and labour; regulatory, political and country risks, including local instability or acts of terrorism and the effects thereof; the reliance upon contractors, third parties and joint venture partners; the lack of sole decision-making authority related to Filminera Resources Corporation, which owns the Masbate Project; challenges to title or surface rights; the dependence on key personnel and the ability to attract and retain skilled personnel; the risk of an uninsurable or uninsured loss; adverse climate and weather conditions; litigation risk; competition with other mining companies; community support for B2Gold's operations, including risks related to strikes and the halting of such operations from time to time; conflicts with small scale miners; failures of information systems or information security threats; the ability to maintain adequate internal controls over financial reporting as required by law, including Section 404 of the Sarbanes-Oxley Act; compliance with anti-corruption laws, and sanctions or other similar measures; social media and B2Gold's reputation; as well as other factors identified and as described in more detail under the heading "Risk Factors" in B2Gold's most recent Annual Information Form, B2Gold's current Form 40-F Annual Report and B2Gold's other filings with Canadian securities regulators and the U.S. Securities and Exchange Commission (the "SEC"), which may be viewed at[www.sedarplus.ca](http://www.sedarplus.ca/) and[www.sec.gov](http://www.sec.gov/) , respectively (the "Websites"). The list is not exhaustive of the factors that may affect B2Gold's forward-looking statements.*
+
+
+*B2Gold's forward-looking statements are based on the applicable assumptions and factors management considers reasonable as of the date hereof, based on the information available to management at such time. These assumptions and factors include, but are not limited to, assumptions and factors related to B2Gold's ability to carry on current and future operations, including: development and exploration activities; the timing, extent, duration and economic viability of such operations, including any mineral resources or reserves identified thereby; the accuracy and reliability of estimates, projections, forecasts, studies and assessments; B2Gold's ability to meet or achieve estimates, projections and forecasts; the availability and cost of inputs; the price and market for outputs, including gold; foreign exchange rates; taxation levels; the timely receipt of necessary approvals or permits; the ability to meet current and future obligations; the ability to obtain timely financing on reasonable terms when required; the current and future social, economic and political conditions; and other assumptions and factors generally associated with the mining industry.*
+
+
+*B2Gold's forward-looking statements are based on the opinions and estimates of management and reflect their current expectations regarding future events and operating performance and speak only as of the date hereof. B2Gold does not assume any obligation to update forward-looking statements if circumstances or management's beliefs, expectations or opinions should change other than as required by applicable law. There can be no assurance that forward-looking statements will prove to be accurate, and actual results, performance or achievements could differ materially from those expressed in, or implied by, these forward-looking statements. Accordingly, no assurance can be given that any events anticipated by the forward-looking statements will transpire or occur, or if any of them do, what benefits or liabilities B2Gold will derive therefrom. For the reasons set forth above, undue reliance should not be placed on forward-looking statements.*
+
+
+```text
+For more information on B2Gold please visit the Company website at  www.b2gold.com   or contact:
+
+
+Michael McDonald
+VP, IR, Corporate Development & Treasury
++1 604-681-8371
+investor@b2gold.com
+
+
+Cherry DeGeer
+Director, Corporate Communications
++1 604-681-8371
+investor@b2gold.com
+```
+
+
+Source: B2Gold Corp.

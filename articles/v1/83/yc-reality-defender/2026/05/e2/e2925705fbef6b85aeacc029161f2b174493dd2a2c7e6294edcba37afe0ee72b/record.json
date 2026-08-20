@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e2925705fbef6b85aeacc029161f2b174493dd2a2c7e6294edcba37afe0ee72b",
+  "company": {
+    "key": "yc-reality-defender",
+    "name": "Reality Defender"
+  },
+  "source": {
+    "id": "yc-reality-defender-news-import-247f3b081c39",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.realitydefender.com/insights/lab-benchmarks-ineffective-in-deepfake-detection",
+    "canonical": "https://www.realitydefender.com/insights/lab-benchmarks-ineffective-in-deepfake-detection"
+  },
+  "title": "Why Lab Benchmarks Fail Real-World Deepfake Detection",
+  "summary": "Lab benchmarks show 99% accuracy. Real-world deepfake detection drops significantly. Here is why single-model detectors fail in production and what parallel defense achieves.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:42:34.349058+00:00",
+  "fetched_at": "2026-07-28T22:13:07.113521+00:00",
+  "last_updated_at": "2026-08-19T23:03:17.906744+00:00",
+  "paths": {
+    "article": "articles/v1/83/yc-reality-defender/2026/05/e2/e2925705fbef6b85aeacc029161f2b174493dd2a2c7e6294edcba37afe0ee72b/article.md",
+    "record": "articles/v1/83/yc-reality-defender/2026/05/e2/e2925705fbef6b85aeacc029161f2b174493dd2a2c7e6294edcba37afe0ee72b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12251,
+    "sha256": "sha256:10511a499796b726fcfdc35f913fc84042efddf9b261ef550486088cc36e4e3f",
+    "normalized_content_hash": "sha256:47c0ffabf5769ae0ad2b7ae8af22545effba3d591849accb6235f1227bbc92ae"
+  },
+  "provenance": {
+    "source_item_id": "65ef44ad-cb13-44df-967d-a703e17a0c62",
+    "external_id": "https://www.realitydefender.com/insights/lab-benchmarks-ineffective-in-deepfake-detection"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d171d1f8d95ab350be4d3b4865da6c5fa67be5e101d2f409bb072299bd44da6",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/coding-agent-launchagent-tunnel-detection",
+    "canonical": "https://www.elastic.co/security-labs/coding-agent-launchagent-tunnel-detection"
+  },
+  "title": "Living off the coding agent: Two tales of tunnels and LaunchAgents",
+  "summary": "Agent-parented reverse tunnels and LaunchAgents can expose a local admin app to the internet. Endpoint still needs to treat that as high severity even when the activity looks like vibe-coded ops, not confirmed malware.",
+  "published_at": "2026-08-07T23:59:59+00:00",
+  "first_seen_at": "2026-08-07T18:12:01.041968+00:00",
+  "fetched_at": "2026-08-08T00:00:01.391582+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/9d/9d171d1f8d95ab350be4d3b4865da6c5fa67be5e101d2f409bb072299bd44da6/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/9d/9d171d1f8d95ab350be4d3b4865da6c5fa67be5e101d2f409bb072299bd44da6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23420,
+    "sha256": "sha256:1ef633b5a7c4156eb19e8511c551a6225a63159bc795ddf654466241d113ad20",
+    "normalized_content_hash": "sha256:0325b72597ddc63ea24f6f0a73044dbc19e5f3b41f9b68ba2e61e38e57c1d76c"
+  },
+  "provenance": {
+    "source_item_id": "a1623304-6ef4-4f92-8582-d7300ca153e8",
+    "external_id": "coding-agent-launchagent-tunnel-detection"
+  }
+}

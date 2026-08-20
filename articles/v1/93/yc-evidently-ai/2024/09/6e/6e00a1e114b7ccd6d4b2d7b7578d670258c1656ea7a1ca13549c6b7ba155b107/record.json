@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e00a1e114b7ccd6d4b2d7b7578d670258c1656ea7a1ca13549c6b7ba155b107",
+  "company": {
+    "key": "yc-evidently-ai",
+    "name": "Evidently AI"
+  },
+  "source": {
+    "id": "yc-evidently-ai-news-import-f9abf95c6ead",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evidentlyai.com/blog/llm-as-a-judge-tutorial",
+    "canonical": "https://www.evidentlyai.com/blog/llm-as-a-judge-tutorial"
+  },
+  "title": "Wrong but useful: an LLM-as-a-judge tutorial",
+  "summary": "This tutorial shows how to create, tune, and use LLM judges. We'll make a toy dataset and assess correctness and verbosity. You can apply the same workflow for other criteria.",
+  "published_at": "2024-09-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:04:26.767431+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-07-28T21:20:52.871080+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-evidently-ai/2024/09/6e/6e00a1e114b7ccd6d4b2d7b7578d670258c1656ea7a1ca13549c6b7ba155b107/article.md",
+    "record": "articles/v1/93/yc-evidently-ai/2024/09/6e/6e00a1e114b7ccd6d4b2d7b7578d670258c1656ea7a1ca13549c6b7ba155b107/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15889,
+    "sha256": "sha256:78dee200d7f5238e95a6d656ae480bdfe16e6c7f975970a26dd2a33560ac94a6",
+    "normalized_content_hash": "sha256:ed72a85c488dd9b98680681c1ee33b97ec6516161019d8164fea30f617d82815"
+  },
+  "provenance": {
+    "source_item_id": "b8e6bddf-15eb-4012-9981-6abb521ae539",
+    "external_id": "https://www.evidentlyai.com/blog/llm-as-a-judge-tutorial"
+  }
+}

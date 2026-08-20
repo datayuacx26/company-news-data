@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb7c483710d7fe14330cd681feba5baba17e6883a00395c938be1c07b3a07afb",
+  "company": {
+    "key": "yc-pangolin",
+    "name": "Pangolin"
+  },
+  "source": {
+    "id": "yc-pangolin-news-import-841387734568",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://pangolin.net/news/browser-based-ssh-remote-access",
+    "canonical": "https://pangolin.net/news/browser-based-ssh-remote-access"
+  },
+  "title": "SSH in the Browser: Web-Based Terminal Access Without a Client",
+  "summary": "Run a full SSH session in any modern browser. Users connect with a URL and authentication, without installing an SSH client, VPN, or desktop app.",
+  "published_at": "2026-06-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T08:11:44.188163+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-19T18:02:58.347278+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-pangolin/2026/06/eb/eb7c483710d7fe14330cd681feba5baba17e6883a00395c938be1c07b3a07afb/article.md",
+    "record": "articles/v1/a7/yc-pangolin/2026/06/eb/eb7c483710d7fe14330cd681feba5baba17e6883a00395c938be1c07b3a07afb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8470,
+    "sha256": "sha256:e540914430baab0277c3bbba8cda90970c151880471f352ec73b587187c50b8a",
+    "normalized_content_hash": "sha256:f91ef0a5540bdf237cfca2617b43ff6df9ce0dd124c96016f65be3f977090dbd"
+  },
+  "provenance": {
+    "source_item_id": "6a8a8495-a6f1-473b-a335-1c246cf4852f",
+    "external_id": "https://pangolin.net/news/browser-based-ssh-remote-access"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5be9fdce25577c4abd529e910e7d34d31d36abf37344b2dadc4f59f52bed27d8",
+  "company": {
+    "key": "rackspace-technology-inc-common-stock",
+    "name": "Rackspace Technology Inc."
+  },
+  "source": {
+    "id": "rackspace-technology-inc-common-stock-news-import-038771c82b17",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://spot.rackspace.com/blog/apply-kubernetes-files-nested-directory",
+    "canonical": "https://spot.rackspace.com/blog/apply-kubernetes-files-nested-directory"
+  },
+  "title": "How to Apply All Kubernetes Files in a Nested Directory with kubectl",
+  "summary": "Learn the exact kubectl command to apply all Kubernetes files in a nested directory, the -R flag, the error it fixes, and when to use Kustomize instead.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T17:42:44.088922+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-05T13:44:31.368704+00:00",
+  "paths": {
+    "article": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/07/5b/5be9fdce25577c4abd529e910e7d34d31d36abf37344b2dadc4f59f52bed27d8/article.md",
+    "record": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/07/5b/5be9fdce25577c4abd529e910e7d34d31d36abf37344b2dadc4f59f52bed27d8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11002,
+    "sha256": "sha256:15581e22c55199aec290f8e0ab167c67f5df2c4e1b4700a0202996e880a6f40c",
+    "normalized_content_hash": "sha256:37f062a40bde35427a8a485acbd6aebe46c6e9b0f8beae8f43c2741ee6a8b82d"
+  },
+  "provenance": {
+    "source_item_id": "d8d759dc-dc86-4e51-9aaf-579f619afd29",
+    "external_id": "https://spot.rackspace.com/blog/apply-kubernetes-files-nested-directory"
+  }
+}

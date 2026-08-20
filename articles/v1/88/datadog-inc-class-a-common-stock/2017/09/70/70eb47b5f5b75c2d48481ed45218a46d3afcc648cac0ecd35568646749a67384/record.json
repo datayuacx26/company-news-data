@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "70eb47b5f5b75c2d48481ed45218a46d3afcc648cac0ecd35568646749a67384",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/secure-aws-account-iam-setup/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/secure-aws-account-iam-setup/"
+  },
+  "title": "Secure (and usable) multi-AWS account IAM setup",
+  "summary": "If you are part of the team managing the AWS infrastructure at your organization, you’ve likely had to wrestle with the complexity of managing multiple accounts for some time now.",
+  "published_at": "2017-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:27:25.846890+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2017/09/70/70eb47b5f5b75c2d48481ed45218a46d3afcc648cac0ecd35568646749a67384/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2017/09/70/70eb47b5f5b75c2d48481ed45218a46d3afcc648cac0ecd35568646749a67384/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26687,
+    "sha256": "sha256:ca7e56e499cc9bead4ca828260a95ace3eaa2e59fbda7044a4d94e556f414581",
+    "normalized_content_hash": "sha256:d9b865cccc97114dd7252e35ee8b20341e7fa5facd1aed2d74ed6c45d4e944d0"
+  },
+  "provenance": {
+    "source_item_id": "af0f7908-657f-46ef-b914-ffba81c1b318",
+    "external_id": "https://www.datadoghq.com/blog/engineering/secure-aws-account-iam-setup/"
+  }
+}

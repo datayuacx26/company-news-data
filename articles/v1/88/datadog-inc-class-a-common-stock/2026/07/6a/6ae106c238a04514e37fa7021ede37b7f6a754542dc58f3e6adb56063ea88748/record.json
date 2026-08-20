@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ae106c238a04514e37fa7021ede37b7f6a754542dc58f3e6adb56063ea88748",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/native-otel-with-datadog/",
+    "canonical": "https://www.datadoghq.com/blog/native-otel-with-datadog/"
+  },
+  "title": "Use OpenTelemetry-native observability with Datadog from ingestion to investigation",
+  "summary": "Learn how you can use vendor-neutral telemetry while preserving Datadog’s infrastructure and APM experiences.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/6a/6ae106c238a04514e37fa7021ede37b7f6a754542dc58f3e6adb56063ea88748/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/6a/6ae106c238a04514e37fa7021ede37b7f6a754542dc58f3e6adb56063ea88748/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10122,
+    "sha256": "sha256:109bfd3f1e669fe90f6c6c6e684ea7dc0084aeb23a5ade3d4a423e4b36a14ec0",
+    "normalized_content_hash": "sha256:2c187a61cf7bc6ff6db32efa2ddee412f5d1a98e415eeeb6b4dfa873d5d7346c"
+  },
+  "provenance": {
+    "source_item_id": "9c618b4d-765a-4317-aa13-dd43b7d1a52c",
+    "external_id": "https://www.datadoghq.com/blog/native-otel-with-datadog/"
+  }
+}

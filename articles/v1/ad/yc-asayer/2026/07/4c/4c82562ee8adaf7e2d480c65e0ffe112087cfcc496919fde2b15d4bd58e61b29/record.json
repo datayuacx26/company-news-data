@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c82562ee8adaf7e2d480c65e0ffe112087cfcc496919fde2b15d4bd58e61b29",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/typescript-best-practices-large-projects/",
+    "canonical": "https://blog.openreplay.com/typescript-best-practices-large-projects/"
+  },
+  "title": "TypeScript Best Practices for Large Projects",
+  "summary": "TypeScript best practices for large projects: strict mode, noUncheckedIndexedAccess, exactOptionalPropertyTypes, generated types, runtime validation, and CI guardrails.",
+  "published_at": "2026-07-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T19:47:49.227479+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-07T14:49:13.247278+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/4c/4c82562ee8adaf7e2d480c65e0ffe112087cfcc496919fde2b15d4bd58e61b29/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/4c/4c82562ee8adaf7e2d480c65e0ffe112087cfcc496919fde2b15d4bd58e61b29/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18205,
+    "sha256": "sha256:e6f21293dd6ad9855976f98439af3804501c96e84d9a184c018195be4d6cbfd5",
+    "normalized_content_hash": "sha256:f49b7af6e7a85c047a1aa4270977d79e98e4fc8e920c96108444b915d309f036"
+  },
+  "provenance": {
+    "source_item_id": "2eed6209-7f03-4f80-8acc-7ebffd1653d4",
+    "external_id": "https://blog.openreplay.com/typescript-best-practices-large-projects/"
+  }
+}

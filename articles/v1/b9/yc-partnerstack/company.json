@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-partnerstack",
+    "name": "PartnerStack"
+  },
+  "record_count": 40,
+  "first_published_at": "2025-03-14T16:38:23.389+00:00",
+  "last_published_at": "2025-03-14T16:38:23.389+00:00",
+  "partitions": [
+    {
+      "partition": "2025-03",
+      "record_count": 27
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b9/yc-partnerstack/index/pages/000001.json",
+        "record_count": 40,
+        "byte_count": 39706,
+        "sha256": "sha256:02fa1662c9acfbf9bd8791d3a8df1e8e7e5735d979edecc85baa2265bacc6d95",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2025-03-14T16:38:23.389+00:00"
+      }
+    ]
+  }
+}

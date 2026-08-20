@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12073f6f3f3536fb05afddac695358c463945695b7b47eff7bb7792459d2b0cd",
+  "company": {
+    "key": "yc-voker",
+    "name": "Voker"
+  },
+  "source": {
+    "id": "yc-voker-news-import-d9168a6d6fb2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://voker.ai/blog/should-you-be-nice-to-your-agents",
+    "canonical": "https://voker.ai/blog/should-you-be-nice-to-your-agents"
+  },
+  "title": "Should you be nice to your agents?",
+  "summary": "We tested 6 tones (neutral, polite, urgent, rude, hostile, flattering) on the same hard coding prompt across OpenAI and Anthropic models.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:09:16.557037+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T19:39:22.675515+00:00",
+  "paths": {
+    "article": "articles/v1/8c/yc-voker/2026/06/12/12073f6f3f3536fb05afddac695358c463945695b7b47eff7bb7792459d2b0cd/article.md",
+    "record": "articles/v1/8c/yc-voker/2026/06/12/12073f6f3f3536fb05afddac695358c463945695b7b47eff7bb7792459d2b0cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4008,
+    "sha256": "sha256:3f96246c8cafa3dba33ca80dff7fa36bba248044e877eb392eb2936d52ca69ea",
+    "normalized_content_hash": "sha256:174ed4f12ec41b1055af9b8e40186bad28dc3c672cc7826c2628ab568b835583"
+  },
+  "provenance": {
+    "source_item_id": "9bb7b497-a7e2-429a-8e02-73c6f55db60f",
+    "external_id": "https://voker.ai/blog/should-you-be-nice-to-your-agents"
+  }
+}

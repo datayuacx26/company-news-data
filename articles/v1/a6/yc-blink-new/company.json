@@ -1,0 +1,135 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-blink-new",
+    "name": "Blink"
+  },
+  "record_count": 507,
+  "first_published_at": "2026-04-19T12:47:37+00:00",
+  "last_published_at": "2026-08-19T06:04:24+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 36
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 299
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 165
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51380,
+        "sha256": "sha256:1e08947a8f03d49569f9f5a1bc9718469cfba828769af336bcc719f3266488a8",
+        "newest_at": "2026-08-19T06:04:24+00:00",
+        "oldest_at": "2026-06-11T12:32:44+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 50544,
+        "sha256": "sha256:f17eac78ed8a082355c1b7d2d5aef31c99d77d0cd85ff70c1c8f445d454b1b8f",
+        "newest_at": "2026-06-11T12:32:30+00:00",
+        "oldest_at": "2026-06-07T00:28:10+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 50680,
+        "sha256": "sha256:49c42ab73f80c29946f701c387f525b8bffe07134232b49fd37c372cb827270b",
+        "newest_at": "2026-06-07T00:25:15+00:00",
+        "oldest_at": "2026-06-02T12:39:17+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 50801,
+        "sha256": "sha256:5a05440c78ad8511e5aa6e426adced3bafb5daf6481f687188c831f83fc2be71",
+        "newest_at": "2026-06-02T12:31:49+00:00",
+        "oldest_at": "2026-05-29T00:25:57+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 51244,
+        "sha256": "sha256:31dd5f809f08f5740344d655524ce8b7cd42b5d24766cd237b9bbab7d4c3c0c8",
+        "newest_at": "2026-05-29T00:24:49+00:00",
+        "oldest_at": "2026-05-25T12:17:11+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 51165,
+        "sha256": "sha256:eed79aeac6bdb66acde37ba5e2a78e3332211bd21d4792f925f0d2a572267274",
+        "newest_at": "2026-05-25T12:15:56+00:00",
+        "oldest_at": "2026-05-21T12:39:33+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 50570,
+        "sha256": "sha256:7a7a9f066dbd6c3d5f6d9cd67e6cde8c00ea40894accf401afb18c6948aadb88",
+        "newest_at": "2026-05-21T12:37:07+00:00",
+        "oldest_at": "2026-05-17T00:26:30+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 50579,
+        "sha256": "sha256:f90c31df1433ffad9a8dcd30c34d859f090558520e4ebdb37ab71a37d329c8a9",
+        "newest_at": "2026-05-17T00:18:19+00:00",
+        "oldest_at": "2026-05-09T12:30:24+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 50717,
+        "sha256": "sha256:9934f4c6bc89c22c861562de2f491a54ef6cf83bbb27671ab3e42e1700cf96cc",
+        "newest_at": "2026-05-09T12:17:52+00:00",
+        "oldest_at": "2026-05-04T12:19:22+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 50531,
+        "sha256": "sha256:fa78841738f5174c2296582119e523ab0294e2fb743c4c5d791e33dd656fe6b7",
+        "newest_at": "2026-05-04T00:37:35+00:00",
+        "oldest_at": "2026-04-22T13:02:30+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/a6/yc-blink-new/index/pages/000011.json",
+        "record_count": 7,
+        "byte_count": 7206,
+        "sha256": "sha256:8cda10763bb33142b1b05f7f89f62e413445a1cacaed17a1b354496400e7ba3f",
+        "newest_at": "2026-04-22T12:58:10+00:00",
+        "oldest_at": "2026-04-19T12:47:37+00:00"
+      }
+    ]
+  }
+}

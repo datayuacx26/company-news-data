@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c60e332fe0017f2f48d8d3ef97e1bf5e9ea813a13d790daabb0ea5691b60b23",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/merge-into-any-workspace",
+    "canonical": "https://www.windmill.dev/changelog/merge-into-any-workspace"
+  },
+  "title": "Compare & Deploy into any workspace",
+  "summary": "Compare & Deploy now accepts an arbitrary target workspace, not just the parent. Pick it from the destination badge in the merge header, compute a full diff over both workspaces, and deploy the items you select one way into the target. Requires being an admin of both workspaces. The Deployment UI settings tab is now part of Dev workspace.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T17:41:07.360869+00:00",
+  "fetched_at": "2026-07-31T17:41:08.668363+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/3c/3c60e332fe0017f2f48d8d3ef97e1bf5e9ea813a13d790daabb0ea5691b60b23/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/3c/3c60e332fe0017f2f48d8d3ef97e1bf5e9ea813a13d790daabb0ea5691b60b23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1826,
+    "sha256": "sha256:4f9b1e9872e2ba8e36b81a286743c4931365a9883a2e7c13522a9b6688b69f5f",
+    "normalized_content_hash": "sha256:e714b2cb8d8703c79ec828bdbc096ef8c210038b1a2d622678416f923879893c"
+  },
+  "provenance": {
+    "source_item_id": "5854e617-e81d-4610-a0a0-538c901cb40f",
+    "external_id": "https://www.windmill.dev/changelog/merge-into-any-workspace"
+  }
+}

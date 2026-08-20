@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3e152324d9be4f0ff2536aa39e55f5f9f0393d57e5205e788f700c9b8be96fac",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
+    "canonical": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/"
+  },
+  "title": "How We Added WebAuthn to a Browser-Based RDP Client",
+  "summary": "A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection.",
+  "published_at": "2026-07-02T22:00:39+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-07T22:02:23.356041+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/3e/3e152324d9be4f0ff2536aa39e55f5f9f0393d57e5205e788f700c9b8be96fac/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/3e/3e152324d9be4f0ff2536aa39e55f5f9f0393d57e5205e788f700c9b8be96fac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16321,
+    "sha256": "sha256:0bb17ef7400c311108cead9e344e30990a23f21295725345fe0d849de130e1e3",
+    "normalized_content_hash": "sha256:fbf2dbd39538a83aff83746a9444257f64d6925a586d8e5c46f43448482a7e96"
+  },
+  "provenance": {
+    "source_item_id": "310d6b4a-27e6-4752-86ae-2f717f956410",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=183236"
+  }
+}

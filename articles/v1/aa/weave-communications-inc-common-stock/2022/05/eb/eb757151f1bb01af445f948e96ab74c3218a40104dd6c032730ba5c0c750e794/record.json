@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb757151f1bb01af445f948e96ab74c3218a40104dd6c032730ba5c0c750e794",
+  "company": {
+    "key": "weave-communications-inc-common-stock",
+    "name": "Weave Communications Inc."
+  },
+  "source": {
+    "id": "weave-communications-inc-common-stock-rss-cb397ff18858",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.getweave.com/talk/stop-using-package-variables/",
+    "canonical": "https://engineering.getweave.com/talk/stop-using-package-variables/"
+  },
+  "title": "Stop Using Package Variables",
+  "summary": "Package variables are often an anti-pattern in Go",
+  "published_at": "2022-05-10T05:02:11+00:00",
+  "first_seen_at": "2026-07-20T23:19:36.973215+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-07-28T21:04:44.423019+00:00",
+  "paths": {
+    "article": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/eb/eb757151f1bb01af445f948e96ab74c3218a40104dd6c032730ba5c0c750e794/article.md",
+    "record": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/eb/eb757151f1bb01af445f948e96ab74c3218a40104dd6c032730ba5c0c750e794/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3946,
+    "sha256": "sha256:6f0966d518d88e7a9cd5093aaaa60211ca4811be5842a0be22241e151deda274",
+    "normalized_content_hash": "sha256:0dc9c0c6a87347e035675588eb86ff041d7896c2a7cc70d971598467e75184f9"
+  },
+  "provenance": {
+    "source_item_id": "7069acc3-1ddd-4d45-adec-096898577b4a",
+    "external_id": "https://engineering.getweave.com/talk/stop-using-package-variables/"
+  }
+}

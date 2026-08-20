@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6d91a37c023666b64895fc3677cb6c5cedb3191f40961163b071fc6e5e1e4ec",
+  "company": {
+    "key": "servicenow-inc-common-stock",
+    "name": "ServiceNow Inc."
+  },
+  "source": {
+    "id": "servicenow-inc-common-stock-rss-e68ea5e3c60f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-record-producer-getting-the-display-value/ba-p/3018717",
+    "canonical": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-record-producer-getting-the-display-value/ba-p/3018717"
+  },
+  "title": "Service Bridge - Remote Record Producer: Getting the display value of a reference variable",
+  "summary": "Remote Record Producers in Service Bridge for Providers application are service requests published in consumer instances. They enable consumers to request provider services through their service catalog via Service Bridge. Remote Record Producers use questions also known as variables to gather infor...",
+  "published_at": "2024-08-22T14:37:50+00:00",
+  "first_seen_at": "2026-07-20T04:36:33.238428+00:00",
+  "fetched_at": "2026-07-28T22:25:54.866601+00:00",
+  "last_updated_at": "2026-08-20T00:29:45.889683+00:00",
+  "paths": {
+    "article": "articles/v1/a5/servicenow-inc-common-stock/2024/08/d6/d6d91a37c023666b64895fc3677cb6c5cedb3191f40961163b071fc6e5e1e4ec/article.md",
+    "record": "articles/v1/a5/servicenow-inc-common-stock/2024/08/d6/d6d91a37c023666b64895fc3677cb6c5cedb3191f40961163b071fc6e5e1e4ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3851,
+    "sha256": "sha256:350561984d07229ae7bbae5c2919b61acec71988d021d5cd4887e6b2e874a613",
+    "normalized_content_hash": "sha256:4133698f8e0fb43753528e2102b8a9997fdc008f8a4373f88d43fbeedaa1ec53"
+  },
+  "provenance": {
+    "source_item_id": "c25ae4de-5859-4ef2-b4ee-db1d6c2cdd8e",
+    "external_id": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-record-producer-getting-the-display-value/ba-p/3018717"
+  }
+}

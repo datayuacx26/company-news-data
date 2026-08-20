@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4449c9de1893070d2dd4d8665b1fc831c1b61ddad8741907c397f6dce860c04d",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/how-we-saved-with-kubernetes-autoscaling/",
+    "canonical": "https://www.datadoghq.com/blog/how-we-saved-with-kubernetes-autoscaling/"
+  },
+  "title": "How we saved over $3 million in idle compute costs with Datadog Kubernetes Autoscaling",
+  "summary": "See how how multidimensional autoscaling reduced overprovisioning and mitigated reliability risks at scale.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/44/4449c9de1893070d2dd4d8665b1fc831c1b61ddad8741907c397f6dce860c04d/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/44/4449c9de1893070d2dd4d8665b1fc831c1b61ddad8741907c397f6dce860c04d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8384,
+    "sha256": "sha256:eb725d546f48e8828849a694d6f85f7231e234742086e08054e74ed03e5ed917",
+    "normalized_content_hash": "sha256:4feaf5a5e510033f8b0c854cd96e1b664aba29e72944a384d8c0513c086bb0e8"
+  },
+  "provenance": {
+    "source_item_id": "be0cc809-f4c4-48d5-bcb7-6bb7b9f5b03e",
+    "external_id": "https://www.datadoghq.com/blog/how-we-saved-with-kubernetes-autoscaling/"
+  }
+}

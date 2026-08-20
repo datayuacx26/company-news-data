@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4f9011619c7c7fec6a85623a33b0f11fceda0436b6d77030752babb5e33ed2f6",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/pipeline-schema-contracts",
+    "canonical": "https://www.windmill.dev/changelog/pipeline-schema-contracts"
+  },
+  "title": "Schema contracts for pipeline consumers",
+  "summary": "Consumer scripts referencing materialized DuckLake tables are now validated against the captured producer schemas at save time. Missing columns, dropped lineage sources and mismatched relationship types surface as warnings (never errors) after deploy, as live editor squiggles, and column names autocomplete with their types when typing `.` after a `ducklake://` reference on annotation lines. Producers can declare a deliberately unstable schema with `on_schema_change=ignore` on the `// materialize` line to collapse downstream warnings into a single note.",
+  "published_at": "2026-07-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/4f/4f9011619c7c7fec6a85623a33b0f11fceda0436b6d77030752babb5e33ed2f6/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/4f/4f9011619c7c7fec6a85623a33b0f11fceda0436b6d77030752babb5e33ed2f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2420,
+    "sha256": "sha256:647574db3f3f6ec90ae63268c80e2ce36a605174b91863895e8448a8439ebf12",
+    "normalized_content_hash": "sha256:8f3a6c224711ea505bb7cfd0b41a1e56ce34fa4a8e79798301bf0b580a558f69"
+  },
+  "provenance": {
+    "source_item_id": "f82eb8b5-4267-434d-9cfb-843895b7787d",
+    "external_id": "https://www.windmill.dev/changelog/pipeline-schema-contracts"
+  }
+}

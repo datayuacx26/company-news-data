@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "77fa063256353823fd823b015c72e42f15eea7a1301413a6a301ef47a44534fe",
+  "company": {
+    "key": "american-airlines-group-inc-common-stock",
+    "name": "American Airlines Group Inc."
+  },
+  "source": {
+    "id": "american-airlines-group-inc-common-stock-news-import-aa1b8ed8edb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.aa.com/news/news-details/2026/Statement-from-American-Airlines-CORP-OTH-04/default.aspx",
+    "canonical": "https://news.aa.com/news/news-details/2026/Statement-from-American-Airlines-CORP-OTH-04/default.aspx"
+  },
+  "title": "Statement from American Airlines",
+  "summary": "FORT WORTH, Texas — American Airlines Group Inc. (NASDAQ: AAL) today issued the following statement",
+  "published_at": "2026-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T01:45:10.249277+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T18:10:19.673715+00:00",
+  "paths": {
+    "article": "articles/v1/89/american-airlines-group-inc-common-stock/2026/04/77/77fa063256353823fd823b015c72e42f15eea7a1301413a6a301ef47a44534fe/article.md",
+    "record": "articles/v1/89/american-airlines-group-inc-common-stock/2026/04/77/77fa063256353823fd823b015c72e42f15eea7a1301413a6a301ef47a44534fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2536,
+    "sha256": "sha256:acc646052a9ec9770ef3d893dda28665e0cda124cfe2d42af814e0dbba4ef056",
+    "normalized_content_hash": "sha256:4996be25eeed7bf9605e01ef6d40bdd02aa857cd81472b368b7d082b872c2cbb"
+  },
+  "provenance": {
+    "source_item_id": "3c5d1165-9a6c-4276-b365-0b7b14be266b",
+    "external_id": "https://news.aa.com/news/news-details/2026/Statement-from-American-Airlines-CORP-OTH-04/default.aspx"
+  }
+}

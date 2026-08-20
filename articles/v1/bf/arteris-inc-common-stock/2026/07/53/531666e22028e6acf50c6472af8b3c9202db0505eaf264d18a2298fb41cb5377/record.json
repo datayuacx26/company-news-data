@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "531666e22028e6acf50c6472af8b3c9202db0505eaf264d18a2298fb41cb5377",
+  "company": {
+    "key": "arteris-inc-common-stock",
+    "name": "Arteris Inc."
+  },
+  "source": {
+    "id": "arteris-inc-common-stock-news-import-b55a70a8b442",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.arteris.com/blog/the-ai-journal-making-chiplets-work-for-ai-requires-more-than-connectivity/",
+    "canonical": "https://www.arteris.com/blog/the-ai-journal-making-chiplets-work-for-ai-requires-more-than-connectivity/"
+  },
+  "title": "The AI Journal: Making chiplets work for AI requires more than connectivity",
+  "summary": "This article explains why building successful AI chiplet architectures requires more than high-speed die-to-die connectivity. It explores how efficient data movement, protocol selection, coherency, and intelligent NoC architecture are critical to maximizing performance, scalability, and energy efficiency in next-generation AI systems.",
+  "published_at": "2026-07-22T10:10:56+00:00",
+  "first_seen_at": "2026-07-27T19:16:50.378641+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-08-19T23:38:47.439305+00:00",
+  "paths": {
+    "article": "articles/v1/bf/arteris-inc-common-stock/2026/07/53/531666e22028e6acf50c6472af8b3c9202db0505eaf264d18a2298fb41cb5377/article.md",
+    "record": "articles/v1/bf/arteris-inc-common-stock/2026/07/53/531666e22028e6acf50c6472af8b3c9202db0505eaf264d18a2298fb41cb5377/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5614,
+    "sha256": "sha256:f8c04e4d9dba9cc16ac18cc050298ac5338e2ba15cb1d88faaaf091b007db253",
+    "normalized_content_hash": "sha256:9b733a58e9dbfd6249bcf4e73250be415ce5e01a5602f51e2ff331cfa028bbe7"
+  },
+  "provenance": {
+    "source_item_id": "2c4e5fa6-ecf3-4282-863a-71b3f722531a",
+    "external_id": "https://www.arteris.com/blog/the-ai-journal-making-chiplets-work-for-ai-requires-more-than-connectivity/"
+  }
+}

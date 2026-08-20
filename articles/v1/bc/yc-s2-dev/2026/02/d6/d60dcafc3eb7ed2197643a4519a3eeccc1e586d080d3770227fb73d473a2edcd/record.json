@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d60dcafc3eb7ed2197643a4519a3eeccc1e586d080d3770227fb73d473a2edcd",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/ga",
+    "canonical": "https://s2.dev/blog/ga"
+  },
+  "title": "General availability & our seed round",
+  "summary": "S2 is generally available, backed by a $3.85M seed round led by Accel, and ready for production durable stream workloads.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2026/02/d6/d60dcafc3eb7ed2197643a4519a3eeccc1e586d080d3770227fb73d473a2edcd/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2026/02/d6/d60dcafc3eb7ed2197643a4519a3eeccc1e586d080d3770227fb73d473a2edcd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4967,
+    "sha256": "sha256:a3573e6b828d67e04375f9fefd17a2aa28ea8efe70c7b0229460f2e892176a46",
+    "normalized_content_hash": "sha256:0b94eade720c9efad999bb4b4f20bb2753d562ab48eba2069b0c4d88f80d6e6f"
+  },
+  "provenance": {
+    "source_item_id": "8f6e7f55-93a9-4ddf-8f53-f0b44c71e8b4",
+    "external_id": "https://s2.dev/blog/ga"
+  }
+}

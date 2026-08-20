@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09fc0f10ecaf440de6d477dc69dd8aecdc7e8058c38436640f71ab1119d88c42",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/how-to-migrate-feature-flags/",
+    "canonical": "https://www.datadoghq.com/blog/how-to-migrate-feature-flags/"
+  },
+  "title": "How to migrate feature flags without breaking production",
+  "summary": "Feature flag migrations have a reputation for stalling. Learn how to structure the process in a few steps: audit legacy flags, validate evaluation parity with shadow mode, and cut over with confidence.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/09/09fc0f10ecaf440de6d477dc69dd8aecdc7e8058c38436640f71ab1119d88c42/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/09/09fc0f10ecaf440de6d477dc69dd8aecdc7e8058c38436640f71ab1119d88c42/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11751,
+    "sha256": "sha256:d9983e3015e9e099cedd153b977fb7981c418882ca6f62aaf9b17453807eb86e",
+    "normalized_content_hash": "sha256:621e1bfcc86d53f7543d5f27b76c2f8b1dfa805cb04be0ad1e5e07116a4a2662"
+  },
+  "provenance": {
+    "source_item_id": "36bb9ffc-c098-4aa8-936d-9bd96646a9a9",
+    "external_id": "https://www.datadoghq.com/blog/how-to-migrate-feature-flags/"
+  }
+}

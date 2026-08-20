@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "dxc-technology-company-common-stock",
+    "name": "DXC Technology Company"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-04-28T00:00:00+00:00",
+  "last_published_at": "2026-07-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/93/dxc-technology-company-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5616,
+        "sha256": "sha256:bd6df69f3cb41920d2b47cd07fa747e52abf66c601e0ab191c4da458f73962cb",
+        "newest_at": "2026-07-30T00:00:00+00:00",
+        "oldest_at": "2026-04-28T00:00:00+00:00"
+      }
+    ]
+  }
+}

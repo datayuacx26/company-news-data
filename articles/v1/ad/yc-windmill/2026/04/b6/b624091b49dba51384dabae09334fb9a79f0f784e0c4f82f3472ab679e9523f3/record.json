@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b624091b49dba51384dabae09334fb9a79f0f784e0c4f82f3472ab679e9523f3",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-12b6d71fe86e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/blog/windows-workflow-engine",
+    "canonical": "https://www.windmill.dev/blog/windows-workflow-engine"
+  },
+  "title": "Native Windows automation without Docker, WSL, or workarounds",
+  "summary": "How do I automate Windows servers without Docker? Windmill runs natively on Windows as a service with PowerShell, C#, MSSQL Kerberos auth, and Teams integration.",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:07.070377+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-20T02:40:36.450549+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/04/b6/b624091b49dba51384dabae09334fb9a79f0f784e0c4f82f3472ab679e9523f3/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/04/b6/b624091b49dba51384dabae09334fb9a79f0f784e0c4f82f3472ab679e9523f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18980,
+    "sha256": "sha256:dd1dddd8de526c4856c4b532e1e3c02b1061b3c10d1e49d68dd93534863f940d",
+    "normalized_content_hash": "sha256:815389d63be3005684db0c70680a014d9e6165836f9fd268d86390d6431b88ac"
+  },
+  "provenance": {
+    "source_item_id": "97c4959d-030e-47e4-8f2a-58ec135bec2e",
+    "external_id": "https://www.windmill.dev/blog/windows-workflow-engine"
+  }
+}

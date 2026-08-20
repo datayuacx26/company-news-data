@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sono-tek-corporation-common-stock",
+    "name": "Sono-Tek Corporation"
+  },
+  "record_count": 20,
+  "first_published_at": "2021-11-09T16:31:39+00:00",
+  "last_published_at": "2026-07-14T20:35:30+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/99/sono-tek-corporation-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 26616,
+        "sha256": "sha256:5efe0a5d2d875754a67ab4891e0e88c35aa135f70facdb0922861aed399f4258",
+        "newest_at": "2026-07-14T20:35:30+00:00",
+        "oldest_at": "2021-11-09T16:31:39+00:00"
+      }
+    ]
+  }
+}

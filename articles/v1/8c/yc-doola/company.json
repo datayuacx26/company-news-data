@@ -1,0 +1,110 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-doola",
+    "name": "doola"
+  },
+  "record_count": 58,
+  "first_published_at": "2021-11-16T06:28:00+00:00",
+  "last_published_at": "2026-08-13T13:49:07+00:00",
+  "partitions": [
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 12
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8c/yc-doola/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49420,
+        "sha256": "sha256:b306b9c8be485c594fe6cad14952c7ad86291a0fc2772258ca58436d62df73af",
+        "newest_at": "2026-08-13T13:49:07+00:00",
+        "oldest_at": "2024-06-24T05:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/8c/yc-doola/index/pages/000002.json",
+        "record_count": 8,
+        "byte_count": 8806,
+        "sha256": "sha256:51e17e61e7603befce94142d536f9be6bd03adc4873900738273de7356a69e46",
+        "newest_at": "2024-02-22T13:46:44+00:00",
+        "oldest_at": "2021-11-16T06:28:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "45d602fa986df3f150351c67a138e956659e5a06c5cc481d2d7b8d9a34f3e7dd",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/give-your-ai-agents-live-datadog-access-from-the-command-line/",
+    "canonical": "https://www.datadoghq.com/blog/give-your-ai-agents-live-datadog-access-from-the-command-line/"
+  },
+  "title": "Give your AI agents live Datadog access from the command line",
+  "summary": "Learn how Pup CLI gives AI agents secure, token-efficient access to the full Datadog platform from the command line, with no long-lived API keys required.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/45/45d602fa986df3f150351c67a138e956659e5a06c5cc481d2d7b8d9a34f3e7dd/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/45/45d602fa986df3f150351c67a138e956659e5a06c5cc481d2d7b8d9a34f3e7dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11160,
+    "sha256": "sha256:c858cdc23a1401f0b3ea15adacf068d18ea6040a5e7736db89c77d4438005e2c",
+    "normalized_content_hash": "sha256:b4610777b3f0944db17d3c880bcbe5b81f853d2834d110bf4122c4ed7dda444a"
+  },
+  "provenance": {
+    "source_item_id": "5d790a1c-6651-4457-a2b6-e1e34c7abdb9",
+    "external_id": "https://www.datadoghq.com/blog/give-your-ai-agents-live-datadog-access-from-the-command-line/"
+  }
+}

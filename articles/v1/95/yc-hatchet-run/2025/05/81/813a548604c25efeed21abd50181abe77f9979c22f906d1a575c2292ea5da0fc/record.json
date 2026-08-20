@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "813a548604c25efeed21abd50181abe77f9979c22f906d1a575c2292ea5da0fc",
+  "company": {
+    "key": "yc-hatchet-run",
+    "name": "Hatchet"
+  },
+  "source": {
+    "id": "yc-hatchet-run-rss-3f16f06bd764",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://hatchet.run/blog/warning-event-loop-blocked",
+    "canonical": "https://hatchet.run/blog/warning-event-loop-blocked"
+  },
+  "title": "Warning! The Event Loop May Be Blocked",
+  "summary": "Understanding and debugging blocked event loops in Python async applications and Hatchet workers.",
+  "published_at": "2025-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:57:06.374584+00:00",
+  "fetched_at": "2026-08-09T22:57:07.291413+00:00",
+  "last_updated_at": "2026-08-20T03:51:48.022662+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-hatchet-run/2025/05/81/813a548604c25efeed21abd50181abe77f9979c22f906d1a575c2292ea5da0fc/article.md",
+    "record": "articles/v1/95/yc-hatchet-run/2025/05/81/813a548604c25efeed21abd50181abe77f9979c22f906d1a575c2292ea5da0fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11087,
+    "sha256": "sha256:ff7574100abb5bc318303d3f3bcb910f9bbd82015b467324b5dd3b06bc5af0f4",
+    "normalized_content_hash": "sha256:844bedd8e3de79361ce8f8282b28420743bc4c0ea5760ac000261015df375d58"
+  },
+  "provenance": {
+    "source_item_id": "e3f581d3-be2c-45ba-96dd-384c9a4b5971",
+    "external_id": "https://hatchet.run/blog/warning-event-loop-blocked"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9aaedfa9b6f40bd8a5d1a65543ba4272d23d5982393a88185b8831deef6c0801",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-9256",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-9256"
+  },
+  "title": "rewrite overlapping captures heap overflow (CVE-2026-9256)",
+  "summary": "A regex rewrite such as rewrite ^/((.))$ http://127.0.0.1:18081/$1$2 redirect; can make $1 and $2 cover the same attacker-controlled URI bytes. In NGINX…",
+  "published_at": "2026-05-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/05/9a/9aaedfa9b6f40bd8a5d1a65543ba4272d23d5982393a88185b8831deef6c0801/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/05/9a/9aaedfa9b6f40bd8a5d1a65543ba4272d23d5982393a88185b8831deef6c0801/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9801,
+    "sha256": "sha256:9420d61b5933fef6a74bb7d9feac04c38173c77faf323074a98786039ab41abd",
+    "normalized_content_hash": "sha256:894ceba7fe25cf17d498a0b20ea2c718cb05f4b3d9f1b20b83be16ebdbdefe82"
+  },
+  "provenance": {
+    "source_item_id": "7f1fc3be-d448-442f-8a47-6ebb776d941e",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-9256"
+  }
+}

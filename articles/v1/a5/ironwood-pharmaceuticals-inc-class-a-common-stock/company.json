@@ -1,0 +1,838 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ironwood-pharmaceuticals-inc-class-a-common-stock",
+    "name": "Ironwood Pharmaceuticals Inc."
+  },
+  "record_count": 451,
+  "first_published_at": "2008-03-04T05:00:00+00:00",
+  "last_published_at": "2026-08-06T11:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2008-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2008-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2008-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2008-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2008-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2009-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2009-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2009-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2009-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2010-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2010-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2010-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2010-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2010-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2010-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2010-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2011-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2011-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2011-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2011-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2011-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2011-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2011-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2011-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2011-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2012-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2012-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2012-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2012-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2012-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2012-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2012-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2013-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2013-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2013-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2013-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2014-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2014-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2014-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2014-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2014-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2016-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2016-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2016-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2016-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2017-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2018-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2018-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 62348,
+        "sha256": "sha256:e6e64c742da37096fdda7a16374fd5de27488bcdbd65a8138c840e0618178888",
+        "newest_at": "2026-08-06T11:05:00+00:00",
+        "oldest_at": "2023-10-26T20:01:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 61759,
+        "sha256": "sha256:8acaea8a5a74d944f19f719c70856ea37dc8e5bbc58c3229dfc2e3c74c214115",
+        "newest_at": "2023-10-23T11:30:00+00:00",
+        "oldest_at": "2021-05-26T20:01:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 59883,
+        "sha256": "sha256:40c493db02aa744d3e3cac026d94ae980f9af86f820e4fead79d56853411f64e",
+        "newest_at": "2021-05-24T12:00:00+00:00",
+        "oldest_at": "2019-05-09T12:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 60411,
+        "sha256": "sha256:07948553eb2498e181870fc3a789df6a88677cd7f8b39cd9df32ef22d6b1103d",
+        "newest_at": "2019-05-07T20:05:00+00:00",
+        "oldest_at": "2018-01-02T05:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 59974,
+        "sha256": "sha256:e651ca044496e27ab21e8ea03938b24272944b68915829ebc25eb1881f9fac67",
+        "newest_at": "2017-12-21T05:00:00+00:00",
+        "oldest_at": "2016-08-04T04:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 59696,
+        "sha256": "sha256:a1358680e6e25345fa85acd619bcdafbb37802bde64cda909a00fbc890899764",
+        "newest_at": "2016-07-21T04:00:00+00:00",
+        "oldest_at": "2015-03-09T04:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 58947,
+        "sha256": "sha256:14e63b638972a005a8aadf9314867a629ffd37b2d5ac3b3740345d792197f03e",
+        "newest_at": "2015-03-05T05:00:00+00:00",
+        "oldest_at": "2013-06-13T04:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 59044,
+        "sha256": "sha256:3bedb4e560e723615e29b44cb80bb337526e3c48a737d3adce17f38f5509b3a2",
+        "newest_at": "2013-06-04T04:00:00+00:00",
+        "oldest_at": "2011-09-29T04:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 59201,
+        "sha256": "sha256:a21c5e5a6c3131e501803a5aefeb532df29a099fa98366c49e09c88993e64476",
+        "newest_at": "2011-09-21T04:00:00+00:00",
+        "oldest_at": "2008-03-31T04:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/a5/ironwood-pharmaceuticals-inc-class-a-common-stock/index/pages/000010.json",
+        "record_count": 1,
+        "byte_count": 1268,
+        "sha256": "sha256:7a3cf9cf2dcc06eedf6d6ce27f0a6508f28aa2708addc41324d835ee4d65dcfc",
+        "newest_at": "2008-03-04T05:00:00+00:00",
+        "oldest_at": "2008-03-04T05:00:00+00:00"
+      }
+    ]
+  }
+}

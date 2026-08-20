@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "567a83dc49e699fd376723f258a6e4e4637b2afd5cae5378e53261d00417a5b1",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/",
+    "canonical": "https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/"
+  },
+  "title": "ChainDrop: Inside a Self-Propagating npm Worm",
+  "summary": "Analysis of ChainDrop, an npm supply chain worm extracting GitHub Actions runner secrets and using Ethereum smart contracts for C2 routing.",
+  "published_at": "2026-08-06T22:26:39+00:00",
+  "first_seen_at": "2026-08-07T01:28:32.069223+00:00",
+  "fetched_at": "2026-08-07T01:28:34.164058+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/56/567a83dc49e699fd376723f258a6e4e4637b2afd5cae5378e53261d00417a5b1/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/56/567a83dc49e699fd376723f258a6e4e4637b2afd5cae5378e53261d00417a5b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 44990,
+    "sha256": "sha256:01b6a3d9d49cdb683c1f7d3cd3bbfcdedd372123e53851601a4d09c0b0a8bd8b",
+    "normalized_content_hash": "sha256:15439f14d94c98c53e768294b8c2df54fef3ea15628d665a6c34f4b07fa123f1"
+  },
+  "provenance": {
+    "source_item_id": "1ddc8a06-1827-45ad-a190-89602362825a",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=184924"
+  }
+}

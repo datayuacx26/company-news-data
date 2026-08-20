@@ -1,0 +1,68 @@
+---
+schema_version: "1.0.0"
+document_id: "3f08860f332529593c4ec06f0f6df8a14cbd23aed98c5c66480a855d20b39c53"
+company_key: "dominari-holdings-inc-common-stock"
+company: "Dominari Holdings Inc."
+source_id: "dominari-holdings-inc-common-stock-rss-1f26d788019f"
+canonical_url: "https://www.dominarisecurities.com/unusual-machines-announces-pricing-of-1-96-million-private-placement"
+published_at: "2024-10-29T19:38:00+00:00"
+first_seen_at: "2026-07-29T14:56:39.191574+00:00"
+fetched_at: "2026-07-29T14:56:41.916263+00:00"
+content_hash: "sha256:e55ded3b72d19d9eb432c4aeeeb514c73d66bcb33316eb13942593443e68fb63"
+---
+
+# Unusual Machines Announces Pricing of $1.96 Million Private Placement
+
+Drone and drone components manufacturer Unusual Machines (UMAC) announced the pricing of a private placement with institutional investors, securing approximately $1.96 million in gross cash proceeds.
+
+
+ORLANDO, FL / ACCESSWIRE / October 29, 2024 /
+
+
+Unusual Machines, Inc. (NYSE American:UMAC) ("Unusual Machines" or the "Company"), a drone and drone components manufacturer, today announced the pricing of a private placement with certain institutional investors. The aggregate gross cash proceeds were approximately $1.96 million, before deducting fees to the placement agent and other offering expenses payable by the Company. The Company intends to use the net proceeds from the private placement for general corporate purposes and working capital.
+
+
+In connection with the private placement, the Company will issue an aggregate of 1,286,300 units at a per unit price of $1.52 per unit. Each unit consists of one share of common stock and one warrant, each exercisable for one share of common stock at an exercise price of $1.99 per share. The warrants are exercisable beginning 180 days after the closing date. The warrants have a term of 5 years from the closing date. The exercise price and number of shares of common stock issuable upon exercise of the warrants are subject to adjustment upon future dilutive issuances and stock splits, subject to a floor, as described in more detail in the Current Report on Form 8-K to be filed in connection with the private placement.
+
+
+Allan Evans, the Company's Chief Executive Officer and Sanford Rich and Robert Lowry, each a member of the Company's Board of Directors, will invest an aggregate of $250,000 in the private placement on identical terms.
+
+
+The closing of the private placement is expected to close on October 30, 2024.
+
+
+Dominari Securities LLC acted as the Exclusive Placement Agent for the private placement. Nason, Yeager, Gerson, Harris & Fumero, P.A served as counsel to the Company. Sichenzia Ross Ference Carmel LLP served as counsel to Dominari.
+
+
+The securities described above will be sold in a private placement exempt from the registration requirements of the Securities Act of 1933, as amended (the "Act"), and have not been registered under the Act, or applicable state securities laws. Accordingly, the securities may not be offered or sold in the United States except pursuant to an effective registration statement or an applicable exemption from the registration requirements of the Act and such applicable state securities laws. Pursuant to a registration rights agreement with the investor, the Company has agreed to file one or more registration statements with the Securities and Exchange Commission (the "SEC") covering the resale of the common stock to be sold in the private placement and the common stock issuable upon exercise of the warrants to be sold in the private placement.
+
+
+This press release shall not constitute an offer to sell or the solicitation of an offer to buy any of the securities described herein, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation, or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction.
+
+
+About Unusual Machines
+
+
+Unusual Machines manufactures and sells drone components and drones across a diversified brand portfolio, which includes Fat Shark, the leader in FPV (first-person view) ultra-low latency video goggles for drone pilots. The Company also retails small, acrobatic FPV drones and equipment directly to consumers through the curated Rotor Riot e-commerce store. With a changing regulatory environment, Unusual Machines seeks to be a dominant Tier-1 parts supplier to the fast-growing multi-billion-dollar U.S. drone industry. According to Fact.MR, the global drone accessories market is currently valued at $17.5 billion and is set to top $115 billion by 2032.
+
+
+For more information visit Unusual Machines at
+
+
+[https://www.unusualmachines.com/](https://pr.report/3v3d) .
+
+
+Contact
+
+
+CS Investor Relations
+917-633-8980
+
+
+investors@unusualmachines.com
+
+
+SOURCE: Unusual Machines, Inc.
+
+
+[View Original Article](https://finance.yahoo.com/news/unusual-machines-announces-pricing-1-171500195.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFhp6BczuAJAtCRBnoVyn844dForZD4dxQOQSZG_ahwz4HJVvKpcnATBQhzDXMAFYSHlLZu5X6IDx2EpZkmyzomou9RvRcR-G7YKTLj0-ckYG2Bcfm_glc4UhH_77roYTbPfab5FlIK1fGYAeoc-nV6D5eil7lQUOoxFb8wPx8WC)

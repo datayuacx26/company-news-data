@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84d2fd20408d1d9670d9d4da779f6a03da1378eeecb2e570db4f536b3aa57a01",
+  "company": {
+    "key": "yc-teleport",
+    "name": "Teleport"
+  },
+  "source": {
+    "id": "yc-teleport-news-import-16bebfbed724",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://goteleport.com/blog/role-explosion-rbac-nested-access-lists/",
+    "canonical": "https://goteleport.com/blog/role-explosion-rbac-nested-access-lists/"
+  },
+  "title": "How to Prevent RBAC Role Explosion with Nested Access Lists",
+  "summary": "Learn how to use access lists to prevent RBAC role explosion.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-17T14:10:22.271050+00:00",
+  "fetched_at": "2026-08-17T14:10:24.787467+00:00",
+  "last_updated_at": "2026-08-20T00:27:53.070714+00:00",
+  "paths": {
+    "article": "articles/v1/88/yc-teleport/2026/08/84/84d2fd20408d1d9670d9d4da779f6a03da1378eeecb2e570db4f536b3aa57a01/article.md",
+    "record": "articles/v1/88/yc-teleport/2026/08/84/84d2fd20408d1d9670d9d4da779f6a03da1378eeecb2e570db4f536b3aa57a01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7588,
+    "sha256": "sha256:fba992d2c1a6876fb4318f3af9115c8410bed531545761c9e2d84645467c8ce3",
+    "normalized_content_hash": "sha256:2319fbca74d14cb7775febbf7f02c746e515f4e2aecd6731fdea6e90c2c253dc"
+  },
+  "provenance": {
+    "source_item_id": "dfb6c805-08fd-45a6-9ae5-8965555ded42",
+    "external_id": "https://goteleport.com/blog/role-explosion-rbac-nested-access-lists/"
+  }
+}

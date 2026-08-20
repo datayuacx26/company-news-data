@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4a1756950b2b232a4a692ea4b00e3e0f12829797db23bf21f3e239465808882",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-ac4ed02840f0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations",
+    "canonical": "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations"
+  },
+  "title": "Can AI agents build real Stripe integrations? We built a benchmark to find out",
+  "summary": "State-of-the-art LLMs can solve many scoped coding tasks, but can they execute end-to-end software projects? To find out, we built the Stripe integration benchmark: an agentic test of real API integration work in a production-realistic environment.",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:05:27.623858+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T02:17:02.759010+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/03/f4/f4a1756950b2b232a4a692ea4b00e3e0f12829797db23bf21f3e239465808882/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/03/f4/f4a1756950b2b232a4a692ea4b00e3e0f12829797db23bf21f3e239465808882/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11908,
+    "sha256": "sha256:5e626c4afca29bff4734c49dec38fcc2c697937b2f5ab19088839e14ff13c9ec",
+    "normalized_content_hash": "sha256:6b18628cd393e239feea7253658b093d83e79660b5d33cf168aab9504c23b7a2"
+  },
+  "provenance": {
+    "source_item_id": "1d85cba1-3225-4d35-a230-01df63a584f5",
+    "external_id": "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations"
+  }
+}

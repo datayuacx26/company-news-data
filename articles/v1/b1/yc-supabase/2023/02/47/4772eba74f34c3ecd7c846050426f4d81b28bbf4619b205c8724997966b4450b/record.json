@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4772eba74f34c3ecd7c846050426f4d81b28bbf4619b205c8724997966b4450b",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/openai-embeddings-postgres-vector",
+    "canonical": "https://supabase.com/blog/openai-embeddings-postgres-vector"
+  },
+  "title": "Storing OpenAI embeddings in Postgres with pgvector",
+  "summary": "An example of how to build an AI-powered search engine using OpenAI's embeddings and PostgreSQL.",
+  "published_at": "2023-02-06T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2023/02/47/4772eba74f34c3ecd7c846050426f4d81b28bbf4619b205c8724997966b4450b/article.md",
+    "record": "articles/v1/b1/yc-supabase/2023/02/47/4772eba74f34c3ecd7c846050426f4d81b28bbf4619b205c8724997966b4450b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18473,
+    "sha256": "sha256:29f58cfcbce854bd1c007e76a7c434c5673b2319dcea7de8aaf83b77aee0d902",
+    "normalized_content_hash": "sha256:0905f608f72ed4c62f13223d781a95b840703bc551fe8929161e1dd91aa68b58"
+  },
+  "provenance": {
+    "source_item_id": "546b3864-3018-473f-a31b-9f85bd317358",
+    "external_id": "https://supabase.com/blog/openai-embeddings-postgres-vector"
+  }
+}

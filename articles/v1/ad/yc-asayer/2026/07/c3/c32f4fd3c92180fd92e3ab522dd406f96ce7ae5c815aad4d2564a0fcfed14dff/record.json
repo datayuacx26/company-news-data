@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c32f4fd3c92180fd92e3ab522dd406f96ce7ae5c815aad4d2564a0fcfed14dff",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/nodejs-event-loop-worker-threads-concurrency/",
+    "canonical": "https://blog.openreplay.com/nodejs-event-loop-worker-threads-concurrency/"
+  },
+  "title": "The Event Loop, Worker Threads, and Concurrency in Node.js",
+  "summary": "Node.js event loop, libuv thread pool, worker threads, and cluster explained with clear guidance on I/O vs CPU-bound concurrency.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-07-31T20:09:38.230352+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/c3/c32f4fd3c92180fd92e3ab522dd406f96ce7ae5c815aad4d2564a0fcfed14dff/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/c3/c32f4fd3c92180fd92e3ab522dd406f96ce7ae5c815aad4d2564a0fcfed14dff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22287,
+    "sha256": "sha256:1171f58df112ae2e61fc8bac1652c035234bec2c93e7e804a00b9d88963a403b",
+    "normalized_content_hash": "sha256:8180396e3769bcdaec1b5e6c4c65a21fd510c925800eb9df1c2bb685d8476f98"
+  },
+  "provenance": {
+    "source_item_id": "9651e962-c3d2-4a9e-9de4-dbd8e728d252",
+    "external_id": "https://blog.openreplay.com/nodejs-event-loop-worker-threads-concurrency/"
+  }
+}

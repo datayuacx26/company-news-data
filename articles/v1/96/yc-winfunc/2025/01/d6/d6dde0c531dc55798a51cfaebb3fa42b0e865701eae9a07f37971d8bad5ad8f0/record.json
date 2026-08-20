@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6dde0c531dc55798a51cfaebb3fa42b0e865701eae9a07f37971d8bad5ad8f0",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/gumroad-helper-auth-bypass-ato",
+    "canonical": "https://winfunc.com/hacktivity/gumroad-helper-auth-bypass-ato"
+  },
+  "title": "0-click Account Takeover and Admin Operations via helper endpoint authorization bypass",
+  "summary": "The helper endpoint responsible for updating user email addresses performs a sensitive account mutation without performing any authentication or authori…",
+  "published_at": "2025-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2025/01/d6/d6dde0c531dc55798a51cfaebb3fa42b0e865701eae9a07f37971d8bad5ad8f0/article.md",
+    "record": "articles/v1/96/yc-winfunc/2025/01/d6/d6dde0c531dc55798a51cfaebb3fa42b0e865701eae9a07f37971d8bad5ad8f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5668,
+    "sha256": "sha256:b658545420ffce6cda69331d0b0d29f8ff2755ca330ab4ed6189ecfd08f0e390",
+    "normalized_content_hash": "sha256:93c718877ebdb6460bc2e5b39850a4d6ec7b019c90d3162a82bcd99229e6d364"
+  },
+  "provenance": {
+    "source_item_id": "452ad39f-1adf-406b-8783-95fdadc26c50",
+    "external_id": "https://winfunc.com/hacktivity/gumroad-helper-auth-bypass-ato"
+  }
+}

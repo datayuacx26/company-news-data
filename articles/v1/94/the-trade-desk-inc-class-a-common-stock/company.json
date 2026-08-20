@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "the-trade-desk-inc-class-a-common-stock",
+    "name": "The Trade Desk Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-05-07T20:01:00+00:00",
+  "last_published_at": "2026-08-06T20:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/94/the-trade-desk-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 39193,
+        "sha256": "sha256:0cc325ec25f00654c9ae55ad6fdb7616bcabf3d8054df772269323b888f5d165",
+        "newest_at": "2026-08-06T20:01:00+00:00",
+        "oldest_at": "2026-05-07T20:01:00+00:00"
+      }
+    ]
+  }
+}

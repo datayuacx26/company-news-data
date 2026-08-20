@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6ec0869c6b5c54971fa638f80c278440b80075bda91904d1e94e6eccefd8681",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/run-etleap-inside-your-vpc",
+    "canonical": "https://etleap.com/blog/run-etleap-inside-your-vpc"
+  },
+  "title": "Run Etleap Inside Your VPC",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T18:50:49.183689+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-07-28T21:41:57.831295+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/b6/b6ec0869c6b5c54971fa638f80c278440b80075bda91904d1e94e6eccefd8681/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/b6/b6ec0869c6b5c54971fa638f80c278440b80075bda91904d1e94e6eccefd8681/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7061,
+    "sha256": "sha256:056968c2700e9f8300ea102af7666fe81fa5fc5c74dff939d0d668416995b739",
+    "normalized_content_hash": "sha256:4644a55af9c93beefb6cca22d92766af4d1788a6adeea224b3d720cb9b756efa"
+  },
+  "provenance": {
+    "source_item_id": "5056ac7d-1153-4e30-9e0d-c84820bb577f",
+    "external_id": "https://etleap.com/blog/run-etleap-inside-your-vpc"
+  }
+}

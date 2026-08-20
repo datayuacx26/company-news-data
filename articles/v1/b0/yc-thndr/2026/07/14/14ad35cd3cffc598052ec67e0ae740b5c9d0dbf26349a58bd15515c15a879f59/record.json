@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "14ad35cd3cffc598052ec67e0ae740b5c9d0dbf26349a58bd15515c15a879f59",
+  "company": {
+    "key": "yc-thndr",
+    "name": "Thndr"
+  },
+  "source": {
+    "id": "yc-thndr-news-import-00d458bb2ee0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://thndr.app/blogpost/how-we-reduced-redis-latency-at-thndr/",
+    "canonical": "https://thndr.app/blogpost/how-we-reduced-redis-latency-at-thndr/"
+  },
+  "title": "Reducing Redis Latency for Enhanced Investing at Thndr",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:04:20.660794+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T17:21:09.588792+00:00",
+  "paths": {
+    "article": "articles/v1/b0/yc-thndr/2026/07/14/14ad35cd3cffc598052ec67e0ae740b5c9d0dbf26349a58bd15515c15a879f59/article.md",
+    "record": "articles/v1/b0/yc-thndr/2026/07/14/14ad35cd3cffc598052ec67e0ae740b5c9d0dbf26349a58bd15515c15a879f59/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14648,
+    "sha256": "sha256:419fe288d564560d4ff6a2bb20af4021762c90ca0262feba32024adfa421f966",
+    "normalized_content_hash": "sha256:8459da62ac64746b935270c15c3b21f16b607fd34ffcd7db0a2916322ff3ae76"
+  },
+  "provenance": {
+    "source_item_id": "b8866f0a-1f1c-4adf-914a-470b659c3816",
+    "external_id": "https://thndr.app/blogpost/how-we-reduced-redis-latency-at-thndr/"
+  }
+}

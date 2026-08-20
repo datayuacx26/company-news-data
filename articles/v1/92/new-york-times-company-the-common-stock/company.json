@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "new-york-times-company-the-common-stock",
+    "name": "New York Times Company (The)"
+  },
+  "record_count": 1315,
+  "first_published_at": "2025-05-01T23:29:59+00:00",
+  "last_published_at": "2026-08-20T02:49:13+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 375
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 933
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 27,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57854,
+        "sha256": "sha256:3f5fd287d3926712c9bf1d0fb143ef132f860cc70f2cb2579bd5c8c79831a458",
+        "newest_at": "2026-08-20T02:49:13+00:00",
+        "oldest_at": "2026-08-19T09:57:51+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 57841,
+        "sha256": "sha256:589f078abccb45b61929a2bd8302f86607fd5a111832c78827527f0c2fba9a4f",
+        "newest_at": "2026-08-19T09:36:27+00:00",
+        "oldest_at": "2026-08-18T14:30:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57765,
+        "sha256": "sha256:06fa29628ca75aaa44c8161d6699f402a6f96eda681af110092c0db5a74e27d3",
+        "newest_at": "2026-08-18T14:25:45+00:00",
+        "oldest_at": "2026-08-17T19:04:23+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 57934,
+        "sha256": "sha256:4c574be208beb0437e4294de9ab0e7de3aa715a462731a784ef65c69706a6a6b",
+        "newest_at": "2026-08-17T19:02:41+00:00",
+        "oldest_at": "2026-08-16T11:31:33+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57164,
+        "sha256": "sha256:18b86c79a53b7aeb824bc07564fb1e7b94115d8a3b61f89883b99db38fd5a824",
+        "newest_at": "2026-08-16T10:00:18+00:00",
+        "oldest_at": "2026-08-14T21:01:21+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 57860,
+        "sha256": "sha256:4597cbe9173d59b683ddcc7ae9698833dcad0367b5bbbd6f4766e6f49c5d7b6b",
+        "newest_at": "2026-08-14T20:51:31+00:00",
+        "oldest_at": "2026-08-13T23:20:33+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 58023,
+        "sha256": "sha256:0a9e587423c4a3e93978a820e8cc8646327cf1fe5bd39c78552afe1f672173d2",
+        "newest_at": "2026-08-13T22:47:10+00:00",
+        "oldest_at": "2026-08-13T06:11:44+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 58018,
+        "sha256": "sha256:524587d5a2eb79c1279c39348247353c9a9bed5473f60ab454d42ebd7d7be969",
+        "newest_at": "2026-08-13T05:40:17+00:00",
+        "oldest_at": "2026-08-12T09:00:22+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 57895,
+        "sha256": "sha256:86d5c8abce49e9bad7c887b7e85a676dfebbd0500b5b47e18646d5476645b40a",
+        "newest_at": "2026-08-12T08:43:46+00:00",
+        "oldest_at": "2026-08-11T11:43:18+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 57926,
+        "sha256": "sha256:fe7eb903bb250ff56545b768f539c0480c2ba05ef5fa0b427e5a03bd95092273",
+        "newest_at": "2026-08-11T11:36:44+00:00",
+        "oldest_at": "2026-08-10T15:43:14+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000011.json",
+        "record_count": 50,
+        "byte_count": 57266,
+        "sha256": "sha256:36f18fc55fb711b3c8ed18e4b9bb70b361965454f673259022491076fba34c5f",
+        "newest_at": "2026-08-10T15:41:28+00:00",
+        "oldest_at": "2026-08-09T12:58:12+00:00"
+      },
+      {
+        "page": 12,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000012.json",
+        "record_count": 50,
+        "byte_count": 57467,
+        "sha256": "sha256:d342be5b48319ce2a3cf20216434514c21d4aa7ad588f0fa10d5f3eab2f6a62d",
+        "newest_at": "2026-08-09T12:52:25+00:00",
+        "oldest_at": "2026-08-07T17:42:06+00:00"
+      },
+      {
+        "page": 13,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000013.json",
+        "record_count": 50,
+        "byte_count": 57392,
+        "sha256": "sha256:04656cf867c09dd6e06466453f443cf098f1891fcbf4228b30054ded50ca410c",
+        "newest_at": "2026-08-07T17:29:11+00:00",
+        "oldest_at": "2026-08-06T21:09:33+00:00"
+      },
+      {
+        "page": 14,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000014.json",
+        "record_count": 50,
+        "byte_count": 57773,
+        "sha256": "sha256:dcce3996f9c545acfd4ccf8738ffe97093b48db1b5640da2af42e6c79f584c82",
+        "newest_at": "2026-08-06T21:00:52+00:00",
+        "oldest_at": "2026-08-05T20:45:53+00:00"
+      },
+      {
+        "page": 15,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000015.json",
+        "record_count": 50,
+        "byte_count": 57464,
+        "sha256": "sha256:275f0366cbd3a39b1ef3d92c19ab5af40272daaa17c8e7ac8078713bd9aef611",
+        "newest_at": "2026-08-05T20:45:00+00:00",
+        "oldest_at": "2026-08-05T00:17:54+00:00"
+      },
+      {
+        "page": 16,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000016.json",
+        "record_count": 50,
+        "byte_count": 57552,
+        "sha256": "sha256:b70f8e74999fb1a3ea7bb3acc28e171f76876cefd923e1388cfde3b0b6f375c8",
+        "newest_at": "2026-08-04T23:30:16+00:00",
+        "oldest_at": "2026-08-04T09:47:42+00:00"
+      },
+      {
+        "page": 17,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000017.json",
+        "record_count": 50,
+        "byte_count": 58210,
+        "sha256": "sha256:cde2fe55a30e2eb07644872afe2a6a2ece666776bec6ae803cce8e3c94df23b8",
+        "newest_at": "2026-08-04T09:04:29+00:00",
+        "oldest_at": "2026-08-03T14:15:00+00:00"
+      },
+      {
+        "page": 18,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000018.json",
+        "record_count": 50,
+        "byte_count": 57977,
+        "sha256": "sha256:c9c00b8ce9cbdff497e3899cb67cab87c953a2125344068c1c58a014a87a8ea4",
+        "newest_at": "2026-08-03T14:02:46+00:00",
+        "oldest_at": "2026-08-01T22:59:45+00:00"
+      },
+      {
+        "page": 19,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000019.json",
+        "record_count": 50,
+        "byte_count": 58114,
+        "sha256": "sha256:6eb9e180f6bda32852228b8a04093591b0fe304ff68b08e1c88ef640b260cb7d",
+        "newest_at": "2026-08-01T22:49:51+00:00",
+        "oldest_at": "2026-07-31T17:16:31+00:00"
+      },
+      {
+        "page": 20,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000020.json",
+        "record_count": 50,
+        "byte_count": 57934,
+        "sha256": "sha256:73b3095b646887d25a4de440a9cf234c09fb4b252140723d06d105eefc1d2ad1",
+        "newest_at": "2026-07-31T17:01:04+00:00",
+        "oldest_at": "2026-07-30T10:57:15+00:00"
+      },
+      {
+        "page": 21,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000021.json",
+        "record_count": 50,
+        "byte_count": 57243,
+        "sha256": "sha256:e73a0885f37673edb8b5791c8d247ad6b4bf271e229edc458b852f6167c7cd95",
+        "newest_at": "2026-07-30T10:00:15+00:00",
+        "oldest_at": "2026-07-29T13:12:42+00:00"
+      },
+      {
+        "page": 22,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000022.json",
+        "record_count": 50,
+        "byte_count": 57622,
+        "sha256": "sha256:02c1732c068ff399e9293d3fb63dd15cc1f0e94e4a956ec64bed67ecb27cc371",
+        "newest_at": "2026-07-29T12:57:59+00:00",
+        "oldest_at": "2026-07-28T19:24:01+00:00"
+      },
+      {
+        "page": 23,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000023.json",
+        "record_count": 50,
+        "byte_count": 57334,
+        "sha256": "sha256:557ab5132521dda7cc926174f6fc71f69458d294046fc230aa4d1f29919c0297",
+        "newest_at": "2026-07-28T19:22:00+00:00",
+        "oldest_at": "2026-07-27T23:47:11+00:00"
+      },
+      {
+        "page": 24,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000024.json",
+        "record_count": 50,
+        "byte_count": 57362,
+        "sha256": "sha256:93b4ea9c88cddba1211120285526e506ac1d34724614e2c0eb29b9cf3fe75e6c",
+        "newest_at": "2026-07-27T23:13:13+00:00",
+        "oldest_at": "2026-07-27T06:19:53+00:00"
+      },
+      {
+        "page": 25,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000025.json",
+        "record_count": 50,
+        "byte_count": 58123,
+        "sha256": "sha256:8225ba1cf4d5c0ca67210c3995c57a4d0b7ae96a29dc99042b6e01151f9d67cf",
+        "newest_at": "2026-07-27T04:59:14+00:00",
+        "oldest_at": "2026-07-25T13:53:43+00:00"
+      },
+      {
+        "page": 26,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000026.json",
+        "record_count": 50,
+        "byte_count": 56111,
+        "sha256": "sha256:945157d00cc06a5fe84de7ac06b58803bb6671ff44f4a24399ce909255758500",
+        "newest_at": "2026-07-25T13:19:53+00:00",
+        "oldest_at": "2026-07-15T20:17:21+00:00"
+      },
+      {
+        "page": 27,
+        "path": "articles/v1/92/new-york-times-company-the-common-stock/index/pages/000027.json",
+        "record_count": 15,
+        "byte_count": 16811,
+        "sha256": "sha256:ae5726dd42514ac127f1c77bf9e0b6432eab4e0d1f7092e686fe353796bc13c9",
+        "newest_at": "2026-07-15T17:51:23+00:00",
+        "oldest_at": "2025-05-01T23:29:59+00:00"
+      }
+    ]
+  }
+}

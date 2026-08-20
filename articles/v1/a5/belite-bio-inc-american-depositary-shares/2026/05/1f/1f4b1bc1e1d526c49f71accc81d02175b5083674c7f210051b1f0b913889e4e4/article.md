@@ -1,0 +1,51 @@
+---
+schema_version: "1.0.0"
+document_id: "1f4b1bc1e1d526c49f71accc81d02175b5083674c7f210051b1f0b913889e4e4"
+company_key: "belite-bio-inc-american-depositary-shares"
+company: "Belite Bio Inc"
+source_id: "belite-bio-inc-american-depositary-shares-rss-c7b7fec190d8"
+canonical_url: "https://investors.belitebio.com/news-releases/news-release-details/belite-bio-announces-oral-presentation-27th-fundus-disease-forum"
+published_at: "2026-05-15T12:00:43+00:00"
+first_seen_at: "2026-07-26T10:17:09.272879+00:00"
+fetched_at: "2026-07-28T21:15:16.761066+00:00"
+content_hash: "sha256:18c67db00f53255a26916390f232a5bf0ba4e94785d7066d28207d7a29bbc6eb"
+---
+
+# Belite Bio Announces Oral Presentation at the 27th Fundus Disease Forum and International Retinal Symposium (Retina China 2026)
+
+[PDF Version](https://investors.belitebio.com/node/9386/pdf)
+
+
+SAN DIEGO, May 15, 2026 (GLOBE NEWSWIRE) --[Belite Bio](https://www.globenewswire.com/Tracker?data=VqzXOsMLbM3qumh0r2_Ch_SWSGXULYqIOq27g41BTlrTCwzkXjxw5avqCUwt55Q4RHdQj1wzz2LZqi7BviiRHzS_q4CVnyRhA96Eo6Ng3aChY4Wf9v52fFJN_j5aqcFMHC18hWDnYBM14EPq8khzvlyESTQRTBvp_DpYHxFdoyupOh2XNoalQPqwfsXqfwcxJ5U0T7s6iVJuN2o8qmxJPPIc8mQLpqQpddoDTD4UeCE=) , Inc. (NASDAQ: BLTE), (“Belite Bio®” or the “Company”), a clinical-stage biopharmaceutical drug development company focused on advancing novel therapeutics targeting degenerative retinal diseases that have significant unmet medical needs, today announced that the Company will give an oral presentation at the 27th Fundus Disease Forum and International Retinal Symposium (Retina China 2026) being held from May 21-23, 2026, in Nanjing, China.
+
+
+The presentation will cover the previously disclosed positive topline results from the Phase 3 DRAGON trial, which evaluated tinlarebant for the treatment of Stargardt disease type 1 (STGD1). In the study, tinlarebant demonstrated a clinically meaningful 35.7% reduction in the growth rate of atrophic retinal lesions compared to placebo and was generally well tolerated with side effects consistent with its mechanism of action.
+
+
+**Presentation Details**
+**Session:** Fundus Disease in Children
+**Title:** Topline Results from the Phase 3 DRAGON Study of Tinlarebant for Adolescent Stargardt’s Disease
+**Presenter:** Ruifang Sui, M.D., Ph.D., Peking Union Medical College Hospital
+**Date and Time:** May 22, 2026, 1:54-2:02 p.m. CST
+**Location:** Nanjing Yangtze River International Conference Center, No. 299, Jiangbin Avenue, Pukou District, Nanjing, Jiangsu Province, China
+
+
+**About Tinlarebant (a/k/a LBS-008)**
+Tinlarebant is a novel oral therapy that is intended to reduce the accumulation of vitamin A-based toxins (known as bisretinoids) that cause retinal disease in STGD1 and also contribute to disease progression in geographic atrophy (GA), or advanced dry age-related macular degeneration (AMD). Bisretinoids are by-products of the visual cycle, which is dependent on the supply of vitamin A (retinol) to the eye. Tinlarebant works by reducing and maintaining levels of serum retinol binding protein 4 (RBP4), the sole carrier protein for retinol transport from the liver to the eye. By modulating the amount of retinol entering the eye, tinlarebant reduces the formation of bisretinoids. Tinlarebant has been granted Breakthrough Therapy Designation, Fast Track Designation, and Rare Pediatric Disease Designation in the U.S., Orphan Drug Designation in the U.S., Europe, Japan, and Sakigake Designation in Japan for the treatment of STGD1. In April 2026, Belite Bio initiated a rolling submission to the U.S. Food and Drug Administration for tinlarebant in the treatment of STGD1.
+
+
+**About Stargardt Disease (STGD1)**
+STGD1 is the most common inherited macular dystrophy in both adults and children. The disease is caused by mutations in a retina-specific gene ( *ABCA4* ), which results in progressive accumulation of bisretinoids leading to retinal cell death and progressive loss of central vision. The fluorescent properties of bisretinoids and the development of high-resolution retinal imaging systems have helped ophthalmologists identify and monitor disease progression. Currently, there are no approved treatments for STGD1.
+
+
+**About Belite Bio**
+Belite Bio is a clinical-stage drug development company focused on advancing novel therapeutics targeting degenerative retinal diseases that have significant unmet medical need, such as Stargardt disease type 1 (STGD1) and geographic atrophy (GA) in advanced dry age-related macular degeneration (AMD), in addition to specific metabolic diseases. Belite Bio’s lead candidate, tinlarebant, is an oral therapy intended to reduce the accumulation of bisretinoid toxins in the eye. The Company has completed a Phase 3 trial (DRAGON) in adolescent and adult STGD1 subjects and is currently being evaluated in a Phase 2/3 trial (DRAGON II) in adolescent STGD1 subjects and a Phase 3 trial (PHOENIX) in subjects with GA. For more information, follow us on[X](https://www.globenewswire.com/Tracker?data=R4RC_-0NPX8lPTnI2hNNdWVgh0NvP5TpT-4IZk-3HjDL4--nMJV0hWumjdJuPbNy8M1EojIBCDQXn9G-Tan5dUt8QkyVgcHzp-j3EVq8gLazbyFsQnPui3NuX9wpXDO645pc9VUddInakt9k8VbmrRU9Mx7NVNvBUA09YGgym0kSzmlbZb1qpe8tbeHTcy7Ky-wt3T_AcwmK5-EQf4Y4nQ1Lswh5x_xdcEPEFP1_XelSvk7UXdnetYtdhiU8TiIfixPZWgcS0sW0Vq3F-LSsiUUhJTi0Nq-TcjDl4nLxpo_lSABEqSeOLf-mfQla61Nf0GkPSxfBodBHK9e38tp4B8aperkbI-z1azoWHZB1aEvXBeNslZdSy_OVdow-5-K-lXjInPt6D0yes3P8nCaUwN3npXjEUbHG6NgXWQp2HafEe22mToxf1lpODP8JyUIQvTvmQZRha5v2stNTfkHYWY4aD9PaT5ictAd8lCbCOLCY8YiDAz4o_1Hoq5mKVYSY-QurWSCaRp7Tnd5TI28LzgT6NWnS5ZgNbvY4FvBHIVj5uhfUEguDVI8bFiPTVZytiqkwuDGfkmPHCEf276soNdnjYjuvhUhUTu6MPkL1N2JdezwJvkBy4V9qPl6A8eD7TccLzDBYUVA7wTQlzEGuQzg4rxMPRd7f9lQ0D9QxiTDAQFD7f83xeKxvrjfqkQGW8fNFyAP9fx09LG8nxM-YWYNMiPhNrNhr06PpKwaTKm7HjsvsCdv86CqcB0eb-v1cKUjd0RrrbZ1Ax_dqm48RvC90oNAv7jVTki_4t35biLkOqORRuTSWlkosX9NLB4COA2iKrbVmYyiaojZM1uxUvh5JbR-hceCTK0n1rCDxYd1epFqLH7VML8-a5L6-sVujGSD_b8zIRP4bB6SVIYfGaCEVVk86DLDzKVatga-CN9A=) ,[Instagram](https://www.globenewswire.com/Tracker?data=j2XZ2vcOb_z_kuORuptp-v6F0iXMVwQVTYKxQK_4xpimKO3Bf0PaB-6KFLKd7FNpZbOieAb3KBpFS0LVAJnH9CmIYQ5D6AN3sIU_ij4VqYUrgfb5WFY02NbI3A1HTLWtSl5nfNdaHrr25Nc6ogRfWCFPcJIQtKbIBVBN1JUlRpuNllNP35qNyw_ZlHJGJAd4THaWCOGL2UeGl7OAaMe6wP6bQ5g2SS17LWxaiueMl62s_Sxg2EBaBdd5U--AuelmIAupKEpfxuhhtfhTks9RQtSKNtv2dabStkSfQVHFGyiVfyXAQetzhSBhmyAi4ozMZCb7efbtqmLMBW70rNIx3j-d6K2NGM3o9N_eqaxMBDPFe4i8ndnaTQVgLLcSK2qcUvB0LFu97Dz8EXsMfkeRCDNUX28mxeahcPyMGZHTrPheqDPK3lHDBP76NV-ySRDpKplV1ANTQ7vlHkjgEYFTsc2mphibovPBUCLu0FwSDoF6EILMXTLb2lu2Qj25OGaBD2XZNzTUeCzJSDkFiweSboQndto9agzhWeip7WB22u56hRNHuDGO4rehZXp0rSeKJMJyTS3s9R2vQLEalJEGzGdgmFvxtLxzp0pB91Od9nal6QXj8CiZMY0cS34LjKuScqoMJPT8d7mWxJQJRrhcai5TDNHlmo_4gCF_IjnPUiN4A1nQdlA6fdujpSCytNT-Wg4YSYAKEafIpgls8xqQvbvlVK-85NRd0leOQ2qctDPUkY-_y2H63JQtdtAYSDT92yTgG05PZnofwGwRJelC6K0du1IkXlcMI1HOyhPqXSjwvYRyO3FKnhJvcfbCm7c8nwaDunGgaMFnBRwltcdap8mVE3TkIZYC3JhnP7cLsdae3RBI4jSJoCMPzg7kiwpCHMV7f6_3GT53YgWQ9_nT9ANIBacJUwss7NHZ1OjzsMp5-OWZJUZTogLSvhJUPzQNl30Z24OoNtK7_i5CD0Yl7hAFMtTXSIyC4khoy9xw71VSr-U61WYeLVNb7Hb49U1d4uWK6yW0k6GbFuiC2J6Gyw==) ,[LinkedIn](https://www.globenewswire.com/Tracker?data=J34CChm8f4xcVesas6Az0JUnQfgZEthzPvIyIzNYyXuq32eZAHoQ9aMyA2zq_vuI2nskNvkfUmtwBLCpcsN4InwSljxPoWFHLaxy9dAmgLzjc6KbIq8M3pdBpuEeH3BZVahOaPzDb8KUy3xL7pLS8N2WrqIX1aaJ9jG1XduJ5axRLIh8tdX2iZHxcKp7kIKy1AXeoCvBIuzfaUHvwkKxLSDW2SUpkzshK37RxUeRvLbtCIPKz5sWFMhKnxJhRrrH5oUd-zkmJtUPlesGcsDeu11cNq5nGBG32AdEgVPxjidFj8npk9-dpTMVqixr_mRzONDVarWeWwV2MA_kC52T87-g83st526unT8ZUjFg-b7ZTjYVsT6T4HKj_j77qc0LLFArCRfZJbKcXYeziRPD6MJkNKLesokP76bGpXgcmM4V_P1rYMFJdpYRzPU_K5kLbEpRIkKUDj2YgOpi_Q4rJMClaGR_vaa9XiOD3VTlr6gazDptg62q4Rqr2VBWb3uotRZyFbPF5tGkGaiB2FzK1kHHPnUGGy_3kLjhO_g03FDlHxGoroBuodQBvEfjq9M-R36zpIeEJBI99kWu_Go-3-mXe-1IBrJjGvbQFhDF-mZJMJUsmX8mfG_KXARLG8ztMko3YbQaD8z11rgH0HpgCiTcOCg5nAARsX9fjop2xsll5BbqIONm_f7dpSJkGZhh) , and[Facebook](https://www.globenewswire.com/Tracker?data=qsaZMNct85yngPvniBsQvoMzvFI9X8z6zlY13a0whP-AEGcPPdCVjxFPTjVbdRecHA4GPTzhl4hhIPR0es6Dgfo0GAwkRavGEXMs5X3lBMP5WooDocilRmcEkdXLuBMWuytx1HAWayxD6EFIkI9HQ27PrkG_d2ZncG9o2x6PXvG881_Gum4ZjUFz8aOk0FFFSVLuO5kmTWzMgaNAlTkgZqdul583esA7P99X5DhzhgWg20XNkABYO10w_X25JPEX1Ss4RIx6trYXm1hJocxC8NgqCik0Pkhgu7ozkWovziZbYBfAd3ULWh0Dq_cJDjNVhnccz4m-JDFlQyZ0bC8MD7gIeyCXDAODlmRfq_fFVQoTKxil7QmKZ5kMtfC1V45SsVS_6rnELXI0nYSGNG0QzeAX2lIMwKT6cbtfUsNSw8kQKrKhac3PW6ahqZbNDdPw92Y0ViVwCD9gmj5EQUNfVwtyU6xPlMIRU336axLK1abNOciKqEU75gztcCVD56NLndPRWqpHSJ3snwmKL3G2c2JM3FYnsFPYWfbyeHXZmOTVe9OtimNnDoczZn4ypga7aq5ORFegRO4Fw4R3UOuKXkfJ0vCCGtJv4X_q4RRNz7Ydc3CuTa1sPQhYXEMFYkPbmN89nfve4ha_vZgLpsQPwLW668vWXBt-bs3zB9aDHXiNrEUY2NDA7Kc4E1Erh0sdU0yohaO9lZwKejM7KjB7hTi7GmFxoG8YzFTH2ZvXn60k4kTRu67m2t8BD7gCoHMoyujPYjpo_H0zrs5bX3EzxrL8nxwL7UvKvLKtHD4vXpZZQsyO6O_EqhxAK6bzJLL7z332e66PVaiPIz96ibx1Wx_jqRQmcw6hCjmDoj3T_-6uyzlwQwLqS-hah7T7sFMuuUM4CZk1pv4CT5UuwmwtRBOgK_lu7WS-7Zovc1z-_eczCZIvLfSvf30N2D-EXro9CUpCYXnsuIYnC7KUUKI3sCS6DvnYD4kVxhtKJ_HSFHA-r4jjXNDp4SCQw5NzC8IL7q3MY41K9dwOvQI2QaCerA==) , or visit us at[www.belitebio.com](https://www.globenewswire.com/Tracker?data=uN4So_9Q24UvrtRoYIbawxaESHyHbpomUH0l0IK2Ah64RGEKzh-xNNAFBn9dTTH_7VMY7d4WG_xEcp-2_QVMc9QmmhOMJnH7f3u8vWDpJ9OYc7WdPiT5EeB_XicUthxLAF4tLGyXcWNIQy_JsQ1ze_tt4Yc7ULU6te58Xw5oJBHKSBdHa4Wb-4z6d3VWIq06tx_nKJ0CkveYpw03YC8UzXxIeENEOrPodYoBLl4nfy6sOFrYPKg4FHWsOXHyLzCNgwjxT8TZOeWPCIBzzDv7tfMurZ5cEBXvam1rqZEX2JUABTRyLbwHlv5ssmsQ_XXCeMyaPW2W7ophVpWGWv98G5CK3mebKKF0DoUp3vWil_GTtR4MdTPzQ6UthNgHUNmGG4pDhp2MBqrFxkCDkhZg2xDVTG1i6zHu7M9RA71jzoA8g8lqjakAy54ISuK4HEbmJvNeE1Cw6mx5aAFV_kRz8Dos6QWNpwsWdVVkEFgeFW0=) .
+
+
+**Media and Investor Relations Contact:**
+Jennifer Wu
+[ir@belitebio.com](https://www.globenewswire.com/Tracker?data=xxqPHsnfl41BX_hWVUa41qITwjAKiRkfTsi3YkwlPnmw7dGdZXgjhwivPLRBJl8IMd512bWT_zdbQvFa6iMpr-7GqpEIugn0aVtjsoSUZOaNRSdtbPYLXZfKsXJYPzahWK064FNleDyQSRpvw4xERYp3a_ZVJcZXk4mr7scAy8cXVeDEelClE7kNQpfB6PqtBuw5vCxbCcsXgVWso5yePoZQxEPRc1XlQQK30qm_flaF1aLQZEqwzMgLDjG_3NjzClD7R0CNNuf5ufPQUMYG_g==)
+
+
+Julie Fallon
+[belite@argotpartners.com](https://www.globenewswire.com/Tracker?data=Mwpt_kaO60Xp77Hu71zHAS3yQmJJ80afE3-EGhqYbEh2Gd_jD26EN--2S5szk_XO8n9NYPV6xex1JJT5Ywg-DVATU3TQdwqN4S1Zj2RVBgtopb82V2oUTFzwWl3g483vR4RZ5fVJCbthE2DDd0k5GHVYrvjwAYzW2gTsgq1XkgB6MzwYFDPUcQ3wkUROvBc3JbZzF4lbXI8UQQlaKXJgrJaGx1Bas0Y49N6wAeOLwh2exrR7xCcljgXtWh_CI6xK5XAFLkSmCgHbNCIcHDKyjH09AkszaUivMkBr17D2ukI=)

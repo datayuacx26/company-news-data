@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "747f6abdbbdfe63f4e5c113cb664db78466570442c7e52cbc159b4d0dd26f337",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/research/endginx",
+    "canonical": "https://winfunc.com/research/endginx"
+  },
+  "title": "Finding six NGINX vulnerabilities with open models",
+  "summary": "We used GLM-5.1 and GLM-5.2 to scan NGINX. The scan produced six security findings with five CVE identifiers. This report describes the affected code, analysis traces, and proof conditions.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T16:08:30.630794+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/07/74/747f6abdbbdfe63f4e5c113cb664db78466570442c7e52cbc159b4d0dd26f337/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/07/74/747f6abdbbdfe63f4e5c113cb664db78466570442c7e52cbc159b4d0dd26f337/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28876,
+    "sha256": "sha256:4db2bc64f9c589db0015685fa859edfa5fe7825462e90db151ae911bc7015e80",
+    "normalized_content_hash": "sha256:ef32b8645a57d28dce583a65eddb3d0fef48202d580f7619da2429cb1fc0d9ba"
+  },
+  "provenance": {
+    "source_item_id": "7a8f4f85-f64b-445f-b702-3f95efee55eb",
+    "external_id": "https://winfunc.com/research/endginx"
+  }
+}

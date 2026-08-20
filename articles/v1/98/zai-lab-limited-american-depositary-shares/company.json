@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "zai-lab-limited-american-depositary-shares",
+    "name": "Zai Lab Limited"
+  },
+  "record_count": 9,
+  "first_published_at": "2025-11-06T14:49:48+00:00",
+  "last_published_at": "2026-01-06T13:56:29+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/98/zai-lab-limited-american-depositary-shares/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 14015,
+        "sha256": "sha256:844ead050b4fe05f624112e58657a70dab192ae9ea59d09b0c02daca82a539d6",
+        "newest_at": "2026-01-06T13:56:29+00:00",
+        "oldest_at": "2025-11-06T14:49:48+00:00"
+      }
+    ]
+  }
+}

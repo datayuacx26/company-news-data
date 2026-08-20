@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c3dedaa6cf7cb2a46f6634606123ab7f6a19dc13d35f8e08136ade3544beb18",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ai-sessions",
+    "canonical": "https://www.windmill.dev/changelog/ai-sessions"
+  },
+  "title": "AI sessions (beta)",
+  "summary": "AI sessions are now in beta and enabled by default. Each session ties an AI chat to a workspace or fork with a live preview panel; the AI builds scripts, flows and apps as drafts you review in a unified diff drawer and deploy. Run many sessions in parallel; a banner switches back to the legacy chat.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:58:44.512719+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/5c/5c3dedaa6cf7cb2a46f6634606123ab7f6a19dc13d35f8e08136ade3544beb18/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/5c/5c3dedaa6cf7cb2a46f6634606123ab7f6a19dc13d35f8e08136ade3544beb18/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2444,
+    "sha256": "sha256:b458cd66b0e0d4392f95024d8743b76603b1aa47b28225a34d2c3f01b6b5636f",
+    "normalized_content_hash": "sha256:c533837b202847ded60cf37a3cc6fe986c9bff37552db36c52a12e5f45ba3751"
+  },
+  "provenance": {
+    "source_item_id": "8fa01c17-b7d5-430b-b4b9-f416f8dd75fe",
+    "external_id": "https://www.windmill.dev/changelog/ai-sessions"
+  }
+}

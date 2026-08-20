@@ -1,0 +1,141 @@
+---
+schema_version: "1.0.0"
+document_id: "e7f0737f6212cb8b0acf3f2fc17eb579de5b2c25fb88c3eca77acd2e89ade8ce"
+company_key: "vera-bradley-inc-common-stock"
+company: "Vera Bradley Inc."
+source_id: "vera-bradley-inc-common-stock-atom-26d47e3bd189"
+canonical_url: "https://verabradley.com/blogs/the-vb-blog/why-a-vera-bradley-gift-is-more-than-just-a-bag"
+published_at: "2025-11-18T16:55:43+00:00"
+first_seen_at: "2026-08-12T14:33:23.935767+00:00"
+fetched_at: "2026-08-12T14:33:24.903752+00:00"
+content_hash: "sha256:4ac283af7e7541cabc239b061bb9d48d78086f75e3d127c1091c00353e9354cd"
+---
+
+# Why a Vera Bradley Gift Is More Than Just a Bag
+
+Some gifts come and go. A Vera Bradley gift becomes part of someone's story.
+
+
+It's not just the colors or the quilting (though those are iconic). It's the way every piece is designed: thoughtfully, artfully, and always with real life in mind. Because we know the women who carry Vera Bradley don't just move through the world, they make things happen in it.
+
+
+When you give[Vera Bradley as a gift](https://verabradley.com/collections/all-gifts) , you're giving more than a bag or accessory. You're giving[craftsmanship passed down through generations](https://verabradley.com/pages/brand-history)
+
+
+, creativity stitched into every seam, and a reminder that function and beauty aren't opposites; they're partners.
+
+
+That's the magic of our[Heritage Collection](https://verabradley.com/collections/heritage-collection) . These are the styles that built our legacy, updated for today's independent, inspired, can-do-it-all woman.
+
+
+## Original Vera Tote: A Classic Designed to Handle Your Everyday Life
+
+
+Meet the tote that started it all! This classic large tote has a zip-top closure and longer straps for even more ease. Our[Original Vera Tote](https://verabradley.com/products/original-vera-tote-5525323448)
+
+
+is your reliable, go-anywhere companion with space for your wallet, planner, snacks, and that “just-in-case” extra layer.
+
+
+> "The fabric and color are fabulous!" ~ Maya
+
+
+With smart interior pockets and a sleek exterior slip pocket, this is what timeless functionality looks like when it has great taste. This is the perfect gift for that friend who's always down for anything and somehow always seems effortlessly put-together.
+
+
+**Dimensions:** 15.0" w x 14.5" h x 6.0" d
+**Handle drop:** 12.0"
+**Features:** Zip closure; six interior slip pockets; exterior slip pocket and zip pocket; quilted cotton lining
+
+
+## Large Original Duffel: A Bag That's Born to Explore
+
+
+Our[Large Original Duffel](https://verabradley.com/products/large-original-duffel-bag-5018123453)
+
+
+was built for the woman who's always in motion, whether it's a yoga retreat, a cross-country flight, or just a well-deserved weekend away. Spacious without being bulky, this duffel holds everything with ease (and yes, there's room for shoes).
+
+
+> "The best bag for travel." ~ Emily
+
+
+Multiple pockets keep your essentials organized, while its soft, quilted design adds a touch of personality that no plain black bag could ever compete with.
+
+
+**Dimensions:** 22.0" w x 11.5" h x 11.5" d
+**Handle drop:** 12.0"
+**Features:** Zip closure; three interior pockets; three exterior slip pockets
+
+
+## Original Zip Hipster: Full of Personality
+
+
+For days that never slow down, our[Original Zip Hipster](https://verabradley.com/products/original-zip-hipster-53333234817)
+
+
+is your new best friend. With three zippered compartments and a sleek, crossbody silhouette, it keeps essentials safe and close while letting you move how you want: unbothered, unburdened, and undeniably stylish.
+
+
+> "I LOVE this bag! It's the perfect size for me, not too big or small." ~ Kathy
+
+
+Customize the Original Zip Hipster thanks to adjustable straps, while the classic quilted design keeps it unmistakably Vera Bradley.
+
+
+**Dimensions:** 11.0" w x 9.0" h x 2.75" d
+**Strap drop (longest):** 26.5"
+**Features:** Adjustable strap; zip closure; interior zip pocket; two exterior zip pockets
+
+
+## Large Miramar Weekender: A Bag That Truly Understands Your Needs
+
+
+The[Large Miramar Weekender](https://verabradley.com/products/large-miramar-weekender-5021221362) doesn't just hold your travel essentials, it keeps your calm intact. With a dedicated laptop compartment, trolley sleeve, and plenty of interior organization, it's proof that smart can still be stunning.
+
+
+> "From the pattern to the layout of the bag, everything is perfect. My favorite part of the bag is owning such a work of art." ~ Gracee
+
+
+Whether it's a quick road trip or a flight to somewhere fabulous, this weekender makes packing feel like part of the adventure.
+
+
+**Dimensions:** 19.5" w x 12.5" h x 8.5" d
+**Handle drop:** 10.5"
+**Strap drop (longest):** 22"
+**Features:** Removable adjustable strap; three interior pockets; exterior laptop compartment and slip pocket; trolley sleeve
+
+
+## Original 100 Handbag: Where Our Story Began and Yours Continues
+
+
+This is more than a handbag. It's history stitched in color. The[Original 100 Handbag](https://verabradley.com/products/original-100-handbag-5499323446)
+
+
+is the heart of the Heritage Collection, with a design that launched a movement in self-expression through pattern and craft.
+
+
+> "This is gorgeous and happy the classic style is back." ~ Mary
+
+
+Its timeless silhouette, signature Vera Bradley quilting, and thoughtfully designed pockets remind us why we fell in love in the first place. Decades later, it still feels just right because true style never goes out of fashion.
+
+
+Carry it with pride. Carry it with purpose. Carry it because it's part of who you are.
+
+
+**Dimensions:** 11.0" w x 5.75" h x 5.5" d
+**Handle drop:** 13.5"
+**Features:** Zip closure; quilted cotton lining; five interior slip pockets; three exterior slip pockets
+
+
+## The Gift That Says More
+
+
+Every Vera Bradley piece comes with a story, one that's still being written every time it's carried.
+
+
+When you give a Vera Bradley gift, you're celebrating artistry, individuality, and joy in motion. You're giving something designed to last, not just in quality, but in meaning. Because she won't just use it; she'll live with it. She'll take it to work, to brunch, to the airport, to the grocery store, and through it all, it'll remind her of the thought, the love, and the color that came with it.
+
+
+[SHOP THE HERITAGE COLLECTION](https://verabradley.com/collections/heritage-collection)

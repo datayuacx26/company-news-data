@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b7b3d42c36bb3a86beffb314b0fd1ae719800d9950c926ea30b12ae498b7cdb",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/change-point-detection-time-series-esql",
+    "canonical": "https://www.elastic.co/search-labs/blog/change-point-detection-time-series-esql"
+  },
+  "title": "How Elasticsearch detects multiple change points in time series with 0.99 recall",
+  "summary": "ES|QL's CHANGE_POINT command finds structural shifts, variance changes and spikes in any metric in ~1ms, without tuning anything per series.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T18:13:13.783478+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-06T12:31:36.441796+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/7b/7b7b3d42c36bb3a86beffb314b0fd1ae719800d9950c926ea30b12ae498b7cdb/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/7b/7b7b3d42c36bb3a86beffb314b0fd1ae719800d9950c926ea30b12ae498b7cdb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 43051,
+    "sha256": "sha256:5103e24dcbff862c6db9358287c3c75f2123dce89f0c0d54b1b21b1e41597b9f",
+    "normalized_content_hash": "sha256:1d559ce712be167a9d0bd60f220a33e04d4fdeea6d3464b240b20a156671995b"
+  },
+  "provenance": {
+    "source_item_id": "da846bf1-0317-4b65-b35d-0a72b393a285",
+    "external_id": "https://www.elastic.co/search-labs/blog/change-point-detection-time-series-esql"
+  }
+}

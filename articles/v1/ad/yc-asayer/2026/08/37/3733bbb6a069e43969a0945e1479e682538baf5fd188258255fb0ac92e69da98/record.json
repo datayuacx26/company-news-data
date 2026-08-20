@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3733bbb6a069e43969a0945e1479e682538baf5fd188258255fb0ac92e69da98",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/fetch-data-react-server-components/",
+    "canonical": "https://blog.openreplay.com/fetch-data-react-server-components/"
+  },
+  "title": "Fetching Data Inside React Server Components",
+  "summary": "Fetch data in React Server Components with async functions, understand Next.js 15/16 caching defaults, and avoid waterfalls with Promise.all.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T18:30:11.746057+00:00",
+  "fetched_at": "2026-08-04T18:43:13.169222+00:00",
+  "last_updated_at": "2026-08-13T23:11:12.448752+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/37/3733bbb6a069e43969a0945e1479e682538baf5fd188258255fb0ac92e69da98/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/37/3733bbb6a069e43969a0945e1479e682538baf5fd188258255fb0ac92e69da98/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14781,
+    "sha256": "sha256:f22e4c21e94595463ba6743ac007f6bac42531e44089fbd3f89974f686c8be37",
+    "normalized_content_hash": "sha256:3a3d8e463a34444651f07410d9e6d5214b53136b2244629eb63f0ad3669064ac"
+  },
+  "provenance": {
+    "source_item_id": "e8e4db9a-662f-4520-bc68-4dca673428ee",
+    "external_id": "https://blog.openreplay.com/fetch-data-react-server-components/"
+  }
+}

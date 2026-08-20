@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c4704349e272f7edee88ae10e1089a0ae09ab44086d3c02ae57f385a4e7a8c7",
+  "company": {
+    "key": "ouster-inc-common-stock",
+    "name": "Ouster Inc."
+  },
+  "source": {
+    "id": "ouster-inc-common-stock-news-import-d3df9a0809e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ouster.com/insights/blog/3-2-firmware",
+    "canonical": "https://ouster.com/insights/blog/3-2-firmware"
+  },
+  "title": "Firmware 3.2: New Features & Improved Data Quality",
+  "summary": "Native 3D Zone Monitoring, advanced Window Blockage Detection, and Synchronous IMU. Enhance SLAM accuracy and offload compute requirements with edge-processing.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:00:35.952779+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T17:55:30.856387+00:00",
+  "paths": {
+    "article": "articles/v1/b1/ouster-inc-common-stock/2026/07/3c/3c4704349e272f7edee88ae10e1089a0ae09ab44086d3c02ae57f385a4e7a8c7/article.md",
+    "record": "articles/v1/b1/ouster-inc-common-stock/2026/07/3c/3c4704349e272f7edee88ae10e1089a0ae09ab44086d3c02ae57f385a4e7a8c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1980,
+    "sha256": "sha256:df77a2967aabd8937abba1efe065a6e98eb9ed276e5f8a723651d387693e5c95",
+    "normalized_content_hash": "sha256:2e7587ef1020db0ead8b0a78450fc5265eb4a7f347865e5eda43d234b9b06a87"
+  },
+  "provenance": {
+    "source_item_id": "eb4ced67-044b-4150-86a7-b6b8a43ae9d2",
+    "external_id": "https://ouster.com/insights/blog/3-2-firmware"
+  }
+}

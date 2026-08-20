@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-tab",
+    "name": "Tab"
+  },
+  "record_count": 12,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b4/yc-tab/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12776,
+        "sha256": "sha256:5f007c3c2039f4ac246dfcfd991c7ac7d18ca060b535a85f358392409c2ad51e",
+        "newest_at": "2026-08-19T17:44:38.887435+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      }
+    ]
+  }
+}

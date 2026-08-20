@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-fazz",
+    "name": "FAZZ"
+  },
+  "record_count": 52,
+  "first_published_at": "2025-06-18T06:09:50+00:00",
+  "last_published_at": "2026-08-19T08:51:53+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 31
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/93/yc-fazz/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 44774,
+        "sha256": "sha256:aa1f254144ab41cbbb2fa82496b853ca80d1e8b7f9bfbe195202c85ed6e99be0",
+        "newest_at": "2026-08-19T08:51:53+00:00",
+        "oldest_at": "2026-07-13T04:27:18+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/93/yc-fazz/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 1947,
+        "sha256": "sha256:6cc9c266f055e7a5cfbf8f5aacc5c24926e066b9baee9ba86a4126e8e75aee6f",
+        "newest_at": "2026-07-13T00:00:00+00:00",
+        "oldest_at": "2025-06-18T06:09:50+00:00"
+      }
+    ]
+  }
+}

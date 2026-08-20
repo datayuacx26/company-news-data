@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-routine",
+    "name": "Routine"
+  },
+  "record_count": 28,
+  "first_published_at": "2021-10-24T00:00:00+00:00",
+  "last_published_at": "2026-08-14T06:47:46.289+00:00",
+  "partitions": [
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8e/yc-routine/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 27899,
+        "sha256": "sha256:f0d8d6f64fe594734538ff1618875c2ac04bbd01b15125e726b1f3091bbfcc9a",
+        "newest_at": "2026-08-14T06:47:46.289+00:00",
+        "oldest_at": "2021-10-24T00:00:00+00:00"
+      }
+    ]
+  }
+}

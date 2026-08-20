@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3ebae954db8c3b51ef9915e1c84887ae4ba9b2a6cbcde0a88c7ae6fc294dddce",
+  "company": {
+    "key": "yc-doppler",
+    "name": "Doppler"
+  },
+  "source": {
+    "id": "yc-doppler-news-import-86fd2de2d678",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.doppler.com/blog/secrets-management-env-files-to-control",
+    "canonical": "https://www.doppler.com/blog/secrets-management-env-files-to-control"
+  },
+  "title": "5 secrets management best practices beyond .env files | Doppler",
+  "summary": "Learn why .env files don't scale for production and discover five secrets management best practices for secure storage, rotation, access control, and auditing.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:53:43.668103+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-19T14:27:17.422364+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-doppler/2026/07/3e/3ebae954db8c3b51ef9915e1c84887ae4ba9b2a6cbcde0a88c7ae6fc294dddce/article.md",
+    "record": "articles/v1/82/yc-doppler/2026/07/3e/3ebae954db8c3b51ef9915e1c84887ae4ba9b2a6cbcde0a88c7ae6fc294dddce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14120,
+    "sha256": "sha256:a10912ec8cdbeb7c83b59b81c5f4b0d5678faea15d737c92daf00921d2fb4de8",
+    "normalized_content_hash": "sha256:ac327ccbf4721ba5e26477f06ceb46e0d38d92ba25026bd95c606903a2b9e93c"
+  },
+  "provenance": {
+    "source_item_id": "20816f22-9bfb-46d2-bf4d-bd22dd08cef3",
+    "external_id": "https://www.doppler.com/blog/secrets-management-env-files-to-control"
+  }
+}

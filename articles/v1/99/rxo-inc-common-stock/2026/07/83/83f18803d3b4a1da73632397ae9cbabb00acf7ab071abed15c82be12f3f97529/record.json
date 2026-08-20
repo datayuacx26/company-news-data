@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "83f18803d3b4a1da73632397ae9cbabb00acf7ab071abed15c82be12f3f97529",
+  "company": {
+    "key": "rxo-inc-common-stock",
+    "name": "RXO Inc."
+  },
+  "source": {
+    "id": "rxo-inc-common-stock-news-import-a56a19d89dc3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rxo.com/news/rxo-announces-first-quarter-results-and-second-quarter-outlook/",
+    "canonical": "https://rxo.com/news/rxo-announces-first-quarter-results-and-second-quarter-outlook/"
+  },
+  "title": "RXO Announces First-Quarter Results and Second-Quarter Outlook",
+  "summary": "Full truckload volume improved every month as the first quarter progressed.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T12:27:32.476329+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-20T03:26:57.529156+00:00",
+  "paths": {
+    "article": "articles/v1/99/rxo-inc-common-stock/2026/07/83/83f18803d3b4a1da73632397ae9cbabb00acf7ab071abed15c82be12f3f97529/article.md",
+    "record": "articles/v1/99/rxo-inc-common-stock/2026/07/83/83f18803d3b4a1da73632397ae9cbabb00acf7ab071abed15c82be12f3f97529/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15314,
+    "sha256": "sha256:43c8a982b9b45aa094ec7bbf375a1a80ee46369572be3815317b6da0e50cfab4",
+    "normalized_content_hash": "sha256:dc0624051c64b01a8d5eaed1157047a66d66dccc38e9cad25aa8fabbd17a3967"
+  },
+  "provenance": {
+    "source_item_id": "7bee808f-e0d8-4a6d-815f-e77e2621a01b",
+    "external_id": "https://rxo.com/news/rxo-announces-first-quarter-results-and-second-quarter-outlook/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6e75e7a5b4770edbfdb343e305435c8c8585ed35763d8ba66af72a35db7e94e",
+  "company": {
+    "key": "yc-cosmic-new",
+    "name": "Cosmic"
+  },
+  "source": {
+    "id": "yc-cosmic-new-atom-eb157756d832",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.cosmicjs.com/blog/c2pa-content-credentials-headless-cms",
+    "canonical": "https://www.cosmicjs.com/blog/c2pa-content-credentials-headless-cms"
+  },
+  "title": "C2PA Content Credentials in a Headless CMS: How to Store and Serve Provenance Metadata",
+  "summary": "How to store and serve C2PA Content Credentials from a headless CMS: a provenance data model, a REST API example with the Cosmic TypeScript SDK, and editorial workflow notes.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T21:08:13.928479+00:00",
+  "fetched_at": "2026-08-14T21:08:17.746154+00:00",
+  "last_updated_at": "2026-08-20T03:53:08.898516+00:00",
+  "paths": {
+    "article": "articles/v1/8a/yc-cosmic-new/2026/08/f6/f6e75e7a5b4770edbfdb343e305435c8c8585ed35763d8ba66af72a35db7e94e/article.md",
+    "record": "articles/v1/8a/yc-cosmic-new/2026/08/f6/f6e75e7a5b4770edbfdb343e305435c8c8585ed35763d8ba66af72a35db7e94e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6075,
+    "sha256": "sha256:2a3d777512c7804b704b18bcb126630e42a0b901a4a23631880d6b8857f1f5af",
+    "normalized_content_hash": "sha256:7635be4ca3af06c479d7f04843735f7fb6d75766504735aa9dc29c5c227d750c"
+  },
+  "provenance": {
+    "source_item_id": "e68a622f-eeca-4e69-b9ca-6a2c3706e465",
+    "external_id": "https://www.cosmicjs.com/blog/c2pa-content-credentials-headless-cms"
+  }
+}

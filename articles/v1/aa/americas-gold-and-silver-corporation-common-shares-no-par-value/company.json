@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "americas-gold-and-silver-corporation-common-shares-no-par-value",
+    "name": "Americas Gold and Silver Corporation Common Shares no par value"
+  },
+  "record_count": 10,
+  "first_published_at": "2016-11-01T13:26:57+00:00",
+  "last_published_at": "2026-08-19T01:51:43+00:00",
+  "partitions": [
+    {
+      "partition": "2016-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/aa/americas-gold-and-silver-corporation-common-shares-no-par-value/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12836,
+        "sha256": "sha256:0ffb43bd2832ea9c1558c2ad93521786caa51543fa9a11ec0ad17c18b1db3da9",
+        "newest_at": "2026-08-19T01:51:43+00:00",
+        "oldest_at": "2016-11-01T13:26:57+00:00"
+      }
+    ]
+  }
+}

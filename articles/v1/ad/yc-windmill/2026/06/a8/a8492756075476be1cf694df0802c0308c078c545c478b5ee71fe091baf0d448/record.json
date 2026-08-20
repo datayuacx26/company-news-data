@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8492756075476be1cf694df0802c0308c078c545c478b5ee71fe091baf0d448",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/k8s-scale-in-pod-deletion-cost",
+    "canonical": "https://www.windmill.dev/changelog/k8s-scale-in-pod-deletion-cost"
+  },
+  "title": "Kubernetes autoscaling scale-in prefers idle worker pods",
+  "summary": "The native Kubernetes autoscaling integration now annotates worker pods with pod-deletion-cost before scaling in, so the ReplicaSet controller deletes idle pods first instead of picking victims blindly. Busy pods are protected proportionally to the age of their oldest running job. The annotation pass is best-effort and requires optional list/patch RBAC on pods; without it, scaling proceeds as before with a warning.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-30T15:27:37.960603+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/06/a8/a8492756075476be1cf694df0802c0308c078c545c478b5ee71fe091baf0d448/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/06/a8/a8492756075476be1cf694df0802c0308c078c545c478b5ee71fe091baf0d448/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1901,
+    "sha256": "sha256:9bb01daccd54feaf79bfcb537dfe980a2b546e405d2748c08ed6d7fea64d6cbb",
+    "normalized_content_hash": "sha256:55482fe64ba21a15fc2cfe90f6908bc56d5d7decc7372243c32655a6f7cd7180"
+  },
+  "provenance": {
+    "source_item_id": "016831b0-9651-48ee-88ba-fbc568f0ba87",
+    "external_id": "https://www.windmill.dev/changelog/k8s-scale-in-pod-deletion-cost"
+  }
+}

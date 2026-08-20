@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2e288371160cf4a4f9f78a10145a1f36914a1966ec9c35b16b047515651ef6e",
+  "company": {
+    "key": "yc-butter",
+    "name": "Butter"
+  },
+  "source": {
+    "id": "yc-butter-rss-cfe99054af6a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.butter.dev/on-automatic-template-induction-for-response-caching",
+    "canonical": "https://blog.butter.dev/on-automatic-template-induction-for-response-caching"
+  },
+  "title": "On Automatic Template Induction for Response Caching",
+  "summary": "In this blog post, we discuss how Butter automatically caches templates corresponding to the messages in LLM interactions.",
+  "published_at": "2026-01-07T04:51:07+00:00",
+  "first_seen_at": "2026-07-24T22:18:01.434032+00:00",
+  "fetched_at": "2026-07-28T20:54:56.230774+00:00",
+  "last_updated_at": "2026-08-20T02:29:47.571954+00:00",
+  "paths": {
+    "article": "articles/v1/a2/yc-butter/2026/01/d2/d2e288371160cf4a4f9f78a10145a1f36914a1966ec9c35b16b047515651ef6e/article.md",
+    "record": "articles/v1/a2/yc-butter/2026/01/d2/d2e288371160cf4a4f9f78a10145a1f36914a1966ec9c35b16b047515651ef6e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20531,
+    "sha256": "sha256:a39d5b676a81c7b9659fc256f37ba25653b8c465322ad709120a75724dfff552",
+    "normalized_content_hash": "sha256:ebebdb3e30a3788bae317e14a74fa5c6905ded4f37e757d3ee8c545a7d86ef17"
+  },
+  "provenance": {
+    "source_item_id": "6c17031d-13af-4555-8e38-069a19001336",
+    "external_id": "https://blog.butter.dev/on-automatic-template-induction-for-response-caching"
+  }
+}

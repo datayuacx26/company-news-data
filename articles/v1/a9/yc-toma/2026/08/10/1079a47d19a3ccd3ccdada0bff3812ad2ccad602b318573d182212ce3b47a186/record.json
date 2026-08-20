@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1079a47d19a3ccd3ccdada0bff3812ad2ccad602b318573d182212ce3b47a186",
+  "company": {
+    "key": "yc-toma",
+    "name": "Toma"
+  },
+  "source": {
+    "id": "yc-toma-rss-1eeeda85d3f8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.toma.com/blog/multi-threaded-audio-processing-in-node-js",
+    "canonical": "https://www.toma.com/blog/multi-threaded-audio-processing-in-node-js"
+  },
+  "title": "Multi-threaded Audio Processing in Node.js: Lessons from Building a High-throughput Voice AI System",
+  "summary": "How we scaled realtime audio processing to handle 80ms chunks with sub-500ms latency using Bun runtime and worker threads.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:33.368971+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T03:50:01.184559+00:00",
+  "paths": {
+    "article": "articles/v1/a9/yc-toma/2026/08/10/1079a47d19a3ccd3ccdada0bff3812ad2ccad602b318573d182212ce3b47a186/article.md",
+    "record": "articles/v1/a9/yc-toma/2026/08/10/1079a47d19a3ccd3ccdada0bff3812ad2ccad602b318573d182212ce3b47a186/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29569,
+    "sha256": "sha256:4107cb0cf9bd0a9d9825571ce6e5ece2f73f6c60b13df6024c21e2d39ed539f3",
+    "normalized_content_hash": "sha256:974757a24265cf552941d1cf28828709a78527288fa1fafa124f9ee31a5e64a0"
+  },
+  "provenance": {
+    "source_item_id": "892f51fa-7a3b-4474-a723-5d2c3a19b29f",
+    "external_id": "https://www.toma.com/blog/multi-threaded-audio-processing-in-node-js"
+  }
+}

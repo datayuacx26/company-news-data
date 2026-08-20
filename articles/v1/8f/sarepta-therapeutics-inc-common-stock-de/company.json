@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sarepta-therapeutics-inc-common-stock-de",
+    "name": "Sarepta Therapeutics Inc. Common Stock (DE)"
+  },
+  "record_count": 44,
+  "first_published_at": "2026-04-22T12:30:00+00:00",
+  "last_published_at": "2026-08-05T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 14
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8f/sarepta-therapeutics-inc-common-stock-de/index/pages/000001.json",
+        "record_count": 44,
+        "byte_count": 56080,
+        "sha256": "sha256:4d78d471bd21c0f29b2c6836edf1a65dde3424f254b1dfe6b31da9ff5faf3cd4",
+        "newest_at": "2026-08-10T02:55:14.088493+00:00",
+        "oldest_at": "2026-04-22T12:30:00+00:00"
+      }
+    ]
+  }
+}

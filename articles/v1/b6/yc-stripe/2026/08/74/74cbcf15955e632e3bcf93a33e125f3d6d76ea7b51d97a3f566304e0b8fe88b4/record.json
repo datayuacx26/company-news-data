@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "74cbcf15955e632e3bcf93a33e125f3d6d76ea7b51d97a3f566304e0b8fe88b4",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter",
+    "canonical": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter"
+  },
+  "title": "Stripe agrees to acquire OpenRouter to help businesses optimize token routing and usage",
+  "summary": "Stripe, the programmable financial services company, today announced that it has agreed to acquire OpenRouter, a leading AI model gateway and routing platform.",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-20T02:16:33.048642+00:00",
+  "fetched_at": "2026-08-20T02:16:34.829113+00:00",
+  "last_updated_at": "2026-08-20T02:16:35.102756+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/08/74/74cbcf15955e632e3bcf93a33e125f3d6d76ea7b51d97a3f566304e0b8fe88b4/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/08/74/74cbcf15955e632e3bcf93a33e125f3d6d76ea7b51d97a3f566304e0b8fe88b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3034,
+    "sha256": "sha256:7284d29d9e909d8afbfe139c59ab31ed2eb2dfe3813c1cf6856eecd213f09eb2",
+    "normalized_content_hash": "sha256:22217775edb39d4fca6540acb1e17474003f14d96e2ac1c976ebca967b0d5b56"
+  },
+  "provenance": {
+    "source_item_id": "bb83b36e-08d2-4967-96c6-a0f20ca1bacd",
+    "external_id": "https://stripe.com/newsroom/news/stripe-agrees-to-acquire-openrouter"
+  }
+}

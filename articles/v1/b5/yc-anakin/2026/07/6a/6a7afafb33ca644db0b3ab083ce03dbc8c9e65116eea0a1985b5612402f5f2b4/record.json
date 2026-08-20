@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a7afafb33ca644db0b3ab083ce03dbc8c9e65116eea0a1985b5612402f5f2b4",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/wire-vs-browserbase",
+    "canonical": "https://anakin.io/blog/wire-vs-browserbase"
+  },
+  "title": "Wire vs Browserbase: why the layer your agent uses matters",
+  "summary": "Browse.sh cuts browser agent costs 45%. Wire costs 120x less per call. Same problem, different architecture. Here's the…",
+  "published_at": "2026-07-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T06:45:54.754455+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-18T02:21:24.662147+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/07/6a/6a7afafb33ca644db0b3ab083ce03dbc8c9e65116eea0a1985b5612402f5f2b4/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/07/6a/6a7afafb33ca644db0b3ab083ce03dbc8c9e65116eea0a1985b5612402f5f2b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10625,
+    "sha256": "sha256:2ee13c0aea5addfaac7b4ed41a07a49e2cfb69dabd7d38db182bd6f8afef23c9",
+    "normalized_content_hash": "sha256:0f4d2a66735b95bb7a8f68b36fad9afa3836c4b19faf153cc216217bc1f8b081"
+  },
+  "provenance": {
+    "source_item_id": "469aafe4-5525-4d2c-9c00-dbe476e1e6de",
+    "external_id": "https://anakin.io/blog/wire-vs-browserbase"
+  }
+}

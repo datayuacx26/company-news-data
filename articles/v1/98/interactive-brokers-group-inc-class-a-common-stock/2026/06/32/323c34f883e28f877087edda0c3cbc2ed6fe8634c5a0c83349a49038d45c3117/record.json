@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "323c34f883e28f877087edda0c3cbc2ed6fe8634c5a0c83349a49038d45c3117",
+  "company": {
+    "key": "interactive-brokers-group-inc-class-a-common-stock",
+    "name": "Interactive Brokers Group Inc."
+  },
+  "source": {
+    "id": "interactive-brokers-group-inc-class-a-common-stock-rss-cfec0d92c0e6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.interactivebrokers.com/campus/ibkr-quant-news/a-multi-agent-ddqn-strategic-audit-engine-for-silver-markets-using-keras-tensorflow/",
+    "canonical": "https://www.interactivebrokers.com/campus/ibkr-quant-news/a-multi-agent-ddqn-strategic-audit-engine-for-silver-markets-using-keras-tensorflow/"
+  },
+  "title": "A Multi-Agent DDQN Strategic Audit Engine for Silver Markets using Keras/TensorFlow",
+  "summary": "This technical article implements an automated Strategic Audit Engine designed to evaluate algorithmic execution regimes in the Silver futures market (SI=F).",
+  "published_at": "2026-06-11T12:20:45+00:00",
+  "first_seen_at": "2026-07-20T03:32:57.275492+00:00",
+  "fetched_at": "2026-07-28T22:36:36.514477+00:00",
+  "last_updated_at": "2026-07-28T22:36:40.882009+00:00",
+  "paths": {
+    "article": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/06/32/323c34f883e28f877087edda0c3cbc2ed6fe8634c5a0c83349a49038d45c3117/article.md",
+    "record": "articles/v1/98/interactive-brokers-group-inc-class-a-common-stock/2026/06/32/323c34f883e28f877087edda0c3cbc2ed6fe8634c5a0c83349a49038d45c3117/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3529,
+    "sha256": "sha256:9e82fccb23c00662b1fe1e377bb2c77a7ae96f3c44967f2dc993fbbdf3b6b579",
+    "normalized_content_hash": "sha256:a19937504718542ae54f99edf5c51ddacbdc3c9c70084475e69962b38d693c87"
+  },
+  "provenance": {
+    "source_item_id": "40f51f62-e7bf-4bb8-9ab2-6ccb23d865dd",
+    "external_id": "https://ibkrcampus.com/campus/?p=244086"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a28f2d442729d0f5ee63bf5da530478ce4fe7d2ae843e7259a4d875d8cb27465",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/securing-ai-agents-guardrail-placement/",
+    "canonical": "https://www.datadoghq.com/blog/securing-ai-agents-guardrail-placement/"
+  },
+  "title": "Securing AI agents: Why guardrail placement is a key design decision",
+  "summary": "We compare where you can place guardrails in Amazon Bedrock Agents versus a self-orchestrated agent using Datadog AI Guard, using an indirect prompt injection demo scenario.",
+  "published_at": "2026-05-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T20:50:31.360725+00:00",
+  "last_updated_at": "2026-07-30T14:41:41.958989+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/a2/a28f2d442729d0f5ee63bf5da530478ce4fe7d2ae843e7259a4d875d8cb27465/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/05/a2/a28f2d442729d0f5ee63bf5da530478ce4fe7d2ae843e7259a4d875d8cb27465/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25561,
+    "sha256": "sha256:f90f88774b29849d13d4ec2dae6f7bbef02ea474a5a4c3bc037ad9e48c2d0718",
+    "normalized_content_hash": "sha256:7a712759d830ba5a1bfd77dc585c0c0b0a5985080f5a9b3d517d00168fd7696a"
+  },
+  "provenance": {
+    "source_item_id": "f85cd61e-1f79-439f-88aa-120c6badafb5",
+    "external_id": "https://www.datadoghq.com/blog/securing-ai-agents-guardrail-placement/"
+  }
+}

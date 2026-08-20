@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ddf3c2e136310592d585c1d1b29b46c4fbc66c35e4bdda4699621f08c6620c2",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/cdc-replication-search/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/cdc-replication-search/"
+  },
+  "title": "Replication redefined: How we built a low-latency, multi-tenant data replication platform",
+  "summary": "Discover how Datadog engineered a scalable Change Data Capture (CDC) platform to replicate data across systems in near real time—reducing search latency by 87%, increasing availability, and powering diverse, multi-tenant use cases across the company.",
+  "published_at": "2025-11-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/11/6d/6ddf3c2e136310592d585c1d1b29b46c4fbc66c35e4bdda4699621f08c6620c2/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/11/6d/6ddf3c2e136310592d585c1d1b29b46c4fbc66c35e4bdda4699621f08c6620c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16252,
+    "sha256": "sha256:672b98fd3681f3519c6d83b15768dba9974314ac36b3976498327f6d5ff13825",
+    "normalized_content_hash": "sha256:f997783a832fcfba4436cecac0aed545500aebd2b523bde2301d5ad128d66bae"
+  },
+  "provenance": {
+    "source_item_id": "bc6d1b5c-452e-45bf-935d-3ec95434fdb5",
+    "external_id": "https://www.datadoghq.com/blog/engineering/cdc-replication-search/"
+  }
+}

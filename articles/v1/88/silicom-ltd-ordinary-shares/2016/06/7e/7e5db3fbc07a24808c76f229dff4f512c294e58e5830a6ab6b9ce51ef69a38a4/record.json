@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e5db3fbc07a24808c76f229dff4f512c294e58e5830a6ab6b9ce51ef69a38a4",
+  "company": {
+    "key": "silicom-ltd-ordinary-shares",
+    "name": "Silicom Ltd"
+  },
+  "source": {
+    "id": "silicom-ltd-ordinary-shares-rss-23a299f84053",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.silicom-usa.com/the-case-for-intel-fm10000-in-kvm-acceleration-part-ii/",
+    "canonical": "https://www.silicom-usa.com/the-case-for-intel-fm10000-in-kvm-acceleration-part-ii/"
+  },
+  "title": "The Case for Intel® FM10000 in KVM Acceleration Part II",
+  "summary": "The Case for Intel® FM10000 in KVM Acceleration Part II DPDK OVS to Bridge the Gap General Attaching a physical PCIe device, most commonly a network interface, in pass through mode to one specific VM is not a new idea. In fact, it is a basic technique, exposing the device control and data planes solely […]",
+  "published_at": "2016-06-17T10:13:34+00:00",
+  "first_seen_at": "2026-07-20T23:19:15.462150+00:00",
+  "fetched_at": "2026-07-28T22:27:31.756931+00:00",
+  "last_updated_at": "2026-08-20T00:27:21.754842+00:00",
+  "paths": {
+    "article": "articles/v1/88/silicom-ltd-ordinary-shares/2016/06/7e/7e5db3fbc07a24808c76f229dff4f512c294e58e5830a6ab6b9ce51ef69a38a4/article.md",
+    "record": "articles/v1/88/silicom-ltd-ordinary-shares/2016/06/7e/7e5db3fbc07a24808c76f229dff4f512c294e58e5830a6ab6b9ce51ef69a38a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8276,
+    "sha256": "sha256:1d61f320dc7a033119aa59bda3a1c1ed8b19fdeeca3769e2c570247db97d05c9",
+    "normalized_content_hash": "sha256:a865a0109fbf5d33a6d76ea2232e0b724c713b0f1c3a658186300c2a3f91f97b"
+  },
+  "provenance": {
+    "source_item_id": "b5ab232e-dd18-45ed-93ab-d4e533e513d7",
+    "external_id": "http://www.silicom-usa.com/?p=2278"
+  }
+}

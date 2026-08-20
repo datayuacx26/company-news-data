@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c053e16aa9a3c18abb2d5cce86e4685224eabbdb20edd4b189fd4b047848d377",
+  "company": {
+    "key": "yc-cerebrium",
+    "name": "Cerebrium"
+  },
+  "source": {
+    "id": "yc-cerebrium-news-import-eb465eef12b4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts",
+    "canonical": "https://cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts"
+  },
+  "title": "Rethinking Container Image Distribution to eliminate cold starts",
+  "summary": "Why 10GB+ ML container images cause GPU cold starts, and how rethinking image distribution eliminates pull-and-unpack time for real-time AI like voice agents.",
+  "published_at": "2026-03-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T13:06:54.599340+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T03:11:50.289453+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-cerebrium/2026/03/c0/c053e16aa9a3c18abb2d5cce86e4685224eabbdb20edd4b189fd4b047848d377/article.md",
+    "record": "articles/v1/a8/yc-cerebrium/2026/03/c0/c053e16aa9a3c18abb2d5cce86e4685224eabbdb20edd4b189fd4b047848d377/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20058,
+    "sha256": "sha256:a1470bd120e5f6540ec29ca480e2fac588368ba33d5f0b68060ae5ba8d86616b",
+    "normalized_content_hash": "sha256:5850e647d337650897cfe0c33a23309ad8c8c6cda1d51cec5408ea039ccce0d6"
+  },
+  "provenance": {
+    "source_item_id": "585c7360-c557-4fbf-a9e8-ecf116f3b446",
+    "external_id": "https://cerebrium.ai/blog/rethinking-container-image-distribution-to-eliminate-cold-starts"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eae159f4fdb22f47c63b6a8a1943c93ef3cbb830fb95c102da96bc83bd121948",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/clarification-about-requests-table-usage-in-postgresql-vs-clickhouse-self-hosted-setup/551#post_1",
+    "canonical": "https://forum.openreplay.com/t/clarification-about-requests-table-usage-in-postgresql-vs-clickhouse-self-hosted-setup/551"
+  },
+  "title": "Clarification about requests table usage in PostgreSQL vs ClickHouse (self-hosted setup)",
+  "summary": "Hi everyone, We’re running a self-hosted OpenReplay setup and noticed that there is a requests table present in both PostgreSQL and ClickHouse. The issue we’re facing is that the requests table in PostgreSQL keeps growing very quickly, which raises some storage concerns. To better understand its role, we ran a small test: We generated a new session, Then manually deleted all data from the requests table in PostgreSQL, After that, we were still able to view the full session, including...",
+  "published_at": "2025-10-27T12:47:03+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2025/10/ea/eae159f4fdb22f47c63b6a8a1943c93ef3cbb830fb95c102da96bc83bd121948/article.md",
+    "record": "articles/v1/ad/yc-asayer/2025/10/ea/eae159f4fdb22f47c63b6a8a1943c93ef3cbb830fb95c102da96bc83bd121948/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2963,
+    "sha256": "sha256:9254ceb8a31814b895ebdd072598f3e0a5d0124ad881452ad6628290a54ebcb0",
+    "normalized_content_hash": "sha256:7a45a338e5c6c8bccd6accaace70bf4a0749113d262adeda9a6889053eb66c29"
+  },
+  "provenance": {
+    "source_item_id": "b1ebd5f0-6cad-4511-8ba9-9ab145ea028c",
+    "external_id": "forum.openreplay.com-post-1420"
+  }
+}

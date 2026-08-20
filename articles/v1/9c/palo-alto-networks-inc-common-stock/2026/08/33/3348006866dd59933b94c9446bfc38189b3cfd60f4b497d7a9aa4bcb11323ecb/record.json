@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3348006866dd59933b94c9446bfc38189b3cfd60f4b497d7a9aa4bcb11323ecb",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/",
+    "canonical": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/"
+  },
+  "title": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
+  "summary": "Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution.",
+  "published_at": "2026-08-10T22:00:02+00:00",
+  "first_seen_at": "2026-08-10T22:11:37.011286+00:00",
+  "fetched_at": "2026-08-10T22:11:37.698590+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/33/3348006866dd59933b94c9446bfc38189b3cfd60f4b497d7a9aa4bcb11323ecb/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/33/3348006866dd59933b94c9446bfc38189b3cfd60f4b497d7a9aa4bcb11323ecb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 39722,
+    "sha256": "sha256:eb97134585b5883483fb891e2a4319f3db2a5e4a342aa83e8d719a2617bac9ea",
+    "normalized_content_hash": "sha256:7ab8b4bfd8824e2a00963c910964a879f6eef3eba0c5e61c55dcddb14c80e9bd"
+  },
+  "provenance": {
+    "source_item_id": "19a0a062-cdc2-4837-9dcc-063265a0a0ca",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=185207"
+  }
+}

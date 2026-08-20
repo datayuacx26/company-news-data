@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-ironledger-ai",
+    "name": "IronLedger.ai"
+  },
+  "record_count": 3,
+  "first_published_at": "2025-09-30T00:00:00+00:00",
+  "last_published_at": "2025-12-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/yc-ironledger-ai/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3124,
+        "sha256": "sha256:693379107d53b28e0626e4948149a2b8fa80344bd3311d90947709bbffaff594",
+        "newest_at": "2025-12-30T00:00:00+00:00",
+        "oldest_at": "2025-09-30T00:00:00+00:00"
+      }
+    ]
+  }
+}

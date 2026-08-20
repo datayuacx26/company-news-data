@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "vodafone-group-plc-american-depositary-shares",
+    "name": "Vodafone Group Plc"
+  },
+  "record_count": 18,
+  "first_published_at": "2026-08-03T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-08",
+      "record_count": 18
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/vodafone-group-plc-american-depositary-shares/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 19246,
+        "sha256": "sha256:0b8535dd422bf0482eebb060b28f946045b4ae532bb01c9f9bf69e69099e8def",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2026-08-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

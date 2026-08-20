@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc227e57bba5bbc8b7a52d4e6ddced1c3f8b1bf052896efb0de510cfee7e058f",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/cidr-notation-ip-ranges/",
+    "canonical": "https://blog.openreplay.com/cidr-notation-ip-ranges/"
+  },
+  "title": "Understanding CIDR Notation and IP Ranges",
+  "summary": "CIDR notation, IP ranges, and subnet math explained for IPv4 and IPv6. See how to read prefixes, size networks, and avoid overlap and open rules.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T12:44:22.742634+00:00",
+  "fetched_at": "2026-08-14T12:44:24.576878+00:00",
+  "last_updated_at": "2026-08-19T22:39:41.923610+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/dc/dc227e57bba5bbc8b7a52d4e6ddced1c3f8b1bf052896efb0de510cfee7e058f/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/dc/dc227e57bba5bbc8b7a52d4e6ddced1c3f8b1bf052896efb0de510cfee7e058f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12071,
+    "sha256": "sha256:ac9b15f87e168e0785e866dd764d129ec763cc8eb661160eb1f16a22ad2cd8c2",
+    "normalized_content_hash": "sha256:09fea017a739eb53cfef4804c866a79a7e8581dcdab4519d14eb91c3be93a0db"
+  },
+  "provenance": {
+    "source_item_id": "07d8d525-c842-47a8-806f-c9f89cacd0ea",
+    "external_id": "https://blog.openreplay.com/cidr-notation-ip-ranges/"
+  }
+}

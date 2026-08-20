@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba01d4d1aaebc41137b45065ac1e0a104f0beb678b63a47fb6fef6ec4ff89016",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/scaling-asof-joins",
+    "canonical": "https://www.eventual.ai/blog/scaling-asof-joins"
+  },
+  "title": "Scaling As-of Joins",
+  "summary": "How we built, broke, and re-built our ASOF joins — 5.5x faster, half the memory of pandas, and scaled to a distributed cluster.",
+  "published_at": "2026-05-13T08:00:00+00:00",
+  "first_seen_at": "2026-07-28T08:49:54.145619+00:00",
+  "fetched_at": "2026-07-28T21:45:24.644708+00:00",
+  "last_updated_at": "2026-08-20T01:29:00.224908+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/05/ba/ba01d4d1aaebc41137b45065ac1e0a104f0beb678b63a47fb6fef6ec4ff89016/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/05/ba/ba01d4d1aaebc41137b45065ac1e0a104f0beb678b63a47fb6fef6ec4ff89016/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13752,
+    "sha256": "sha256:300f8c823b8cd0ebaf4bc55fcba95cf43d95a8f2a57eea1539d1d488aa4b60b3",
+    "normalized_content_hash": "sha256:b9d084fe6789a80b07cb7f8add191c2ab06aa1184902caf2d0d8cb0c9d136fdc"
+  },
+  "provenance": {
+    "source_item_id": "00431bf3-7b6a-4f6c-9e7d-e6c442ce30a5",
+    "external_id": "https://www.eventual.ai/blog/scaling-asof-joins"
+  }
+}

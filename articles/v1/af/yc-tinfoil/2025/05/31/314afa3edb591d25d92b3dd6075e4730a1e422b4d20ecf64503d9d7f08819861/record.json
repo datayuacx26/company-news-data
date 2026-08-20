@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "314afa3edb591d25d92b3dd6075e4730a1e422b4d20ecf64503d9d7f08819861",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2025-05-15-side-channels",
+    "canonical": "https://tinfoil.sh/blog/2025-05-15-side-channels"
+  },
+  "title": "What About Side-Channels?",
+  "summary": "A deep dive into side channel attacks, why they matter for AI security, and how Tinfoil provides defenses against these sophisticated threats.",
+  "published_at": "2025-05-15T12:00:29+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2025/05/31/314afa3edb591d25d92b3dd6075e4730a1e422b4d20ecf64503d9d7f08819861/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2025/05/31/314afa3edb591d25d92b3dd6075e4730a1e422b4d20ecf64503d9d7f08819861/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10498,
+    "sha256": "sha256:8cf0c5d0eff044c7846f7972653d051063b4fc080fa7a069c27d74c35b93ffbb",
+    "normalized_content_hash": "sha256:39cf561614e3040ac9021135ada3524aadab52824d76f934bae2a9c4c69e85ee"
+  },
+  "provenance": {
+    "source_item_id": "4b89fe46-7381-45bb-a3d0-e88037018ca3",
+    "external_id": "https://tinfoil.sh/blog/2025-05-15-side-channels"
+  }
+}

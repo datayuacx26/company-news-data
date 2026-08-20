@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "784df61215b11198b6244487da67678d314cb38c9e92c72cb5bebef893d147c0",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc."
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-rss-b23fdbdd1cee",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600",
+    "canonical": "https://blog.qualys.com/vulnerabilities-threat-research/2026/07/22/refluxfs-a-linux-kernel-local-privilege-escalation-to-root-in-xfs-cve-2026-64600"
+  },
+  "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
+  "summary": "Qualys Threat Research Unit (TRU) identified CVE-2026-64600, a race condition in the Linux kernel’s XFS filesystem copy-on-write path. An attacker with an ordinary local account can exploit this race…",
+  "published_at": "2026-07-22T16:23:46+00:00",
+  "first_seen_at": "2026-07-22T16:58:27.524166+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-13T15:19:19.262630+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/07/78/784df61215b11198b6244487da67678d314cb38c9e92c72cb5bebef893d147c0/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/07/78/784df61215b11198b6244487da67678d314cb38c9e92c72cb5bebef893d147c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14353,
+    "sha256": "sha256:b19a64fe9a9b011da6018494115cfeb7f6ef1f13c9ead8c8adde5c82e99130fb",
+    "normalized_content_hash": "sha256:8969a83054daadb1dd3e3f6d8f5460a8fc835d3e31e88a601a415c920d554acc"
+  },
+  "provenance": {
+    "source_item_id": "d5d90f28-8782-45e6-957e-2bd67ba25dad",
+    "external_id": "https://blog.qualys.com/?p=41222"
+  }
+}

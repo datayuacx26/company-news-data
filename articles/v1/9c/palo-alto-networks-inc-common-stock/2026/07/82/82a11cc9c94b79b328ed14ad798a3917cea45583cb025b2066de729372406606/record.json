@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82a11cc9c94b79b328ed14ad798a3917cea45583cb025b2066de729372406606",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/",
+    "canonical": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/"
+  },
+  "title": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
+  "summary": "A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination.",
+  "published_at": "2026-07-07T22:00:21+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:52:24.088997+00:00",
+  "last_updated_at": "2026-08-10T20:06:50.665375+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/82/82a11cc9c94b79b328ed14ad798a3917cea45583cb025b2066de729372406606/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/82/82a11cc9c94b79b328ed14ad798a3917cea45583cb025b2066de729372406606/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28713,
+    "sha256": "sha256:8682b13fc25adc1b7c9223ebaaff71afac5aa408ef7c9a6d202839fe20745836",
+    "normalized_content_hash": "sha256:2bcfa258dabbe8ada49c200c705d9de37a7b1ebc060a414f2ad4a6f65d981dac"
+  },
+  "provenance": {
+    "source_item_id": "577381db-0763-47f3-91a9-d8445b3586d9",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=183287"
+  }
+}

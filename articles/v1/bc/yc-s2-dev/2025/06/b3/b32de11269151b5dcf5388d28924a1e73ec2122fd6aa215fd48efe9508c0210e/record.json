@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b32de11269151b5dcf5388d28924a1e73ec2122fd6aa215fd48efe9508c0210e",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/s2-term",
+    "canonical": "https://s2.dev/blog/s2-term"
+  },
+  "title": "Multi-player, serverless, durable terminals",
+  "summary": "How S2 can power multiplayer, replayable terminal sessions with durable stream I/O and no SSH server to configure.",
+  "published_at": "2025-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/06/b3/b32de11269151b5dcf5388d28924a1e73ec2122fd6aa215fd48efe9508c0210e/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/06/b3/b32de11269151b5dcf5388d28924a1e73ec2122fd6aa215fd48efe9508c0210e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9140,
+    "sha256": "sha256:f804e6ead438af08edda1b583cd9fe516010cda3ff2a471a76bace2bfd32129b",
+    "normalized_content_hash": "sha256:a1a36e9283263f37eeb907c206dc4cbc2b5f56519560f66fbf9accda23a1df93"
+  },
+  "provenance": {
+    "source_item_id": "46ea7a6d-8698-468b-80b4-1e0a8687d233",
+    "external_id": "https://s2.dev/blog/s2-term"
+  }
+}

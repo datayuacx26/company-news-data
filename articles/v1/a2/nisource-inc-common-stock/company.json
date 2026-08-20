@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nisource-inc-common-stock",
+    "name": "NiSource Inc"
+  },
+  "record_count": 24,
+  "first_published_at": "2026-08-07T00:00:00+00:00",
+  "last_published_at": "2026-08-07T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a2/nisource-inc-common-stock/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 32821,
+        "sha256": "sha256:573e6ea8ee923375c268e5465a93428b2f422773392b43e7822a32df968ef09d",
+        "newest_at": "2026-08-12T05:15:57.938520+00:00",
+        "oldest_at": "2026-07-28T21:16:50.994015+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "909d249f86cb948f327bd5fcb2decef038f4a63f93c2cdd8fb63f1d4e9943910",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/fix-err-too-many-redirects/",
+    "canonical": "https://blog.openreplay.com/fix-err-too-many-redirects/"
+  },
+  "title": "How to Fix 'ERR_TOO_MANY_REDIRECTS'",
+  "summary": "Fix ERR_TOO_MANY_REDIRECTS with a diagnosis-first guide to redirect loops, HTTP to HTTPS mismatches, Cloudflare SSL, and proxy settings.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T05:07:29.970247+00:00",
+  "fetched_at": "2026-08-12T05:07:31.849756+00:00",
+  "last_updated_at": "2026-08-19T22:39:41.923610+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/90/909d249f86cb948f327bd5fcb2decef038f4a63f93c2cdd8fb63f1d4e9943910/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/90/909d249f86cb948f327bd5fcb2decef038f4a63f93c2cdd8fb63f1d4e9943910/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13573,
+    "sha256": "sha256:1b48e50dbfa02285ed225051d6cedbbe8f7a38f8fc27f55c0f541c12abbc4c22",
+    "normalized_content_hash": "sha256:5fa5622a3cfeb0bd224f8536016282d5289be3d51604564acee5a821b5a3479c"
+  },
+  "provenance": {
+    "source_item_id": "4d135cce-9ded-495d-9dbb-061f6a523271",
+    "external_id": "https://blog.openreplay.com/fix-err-too-many-redirects/"
+  }
+}

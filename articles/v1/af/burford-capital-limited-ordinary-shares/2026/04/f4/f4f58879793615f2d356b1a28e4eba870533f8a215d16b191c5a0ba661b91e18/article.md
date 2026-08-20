@@ -1,0 +1,19 @@
+---
+schema_version: "1.0.0"
+document_id: "f4f58879793615f2d356b1a28e4eba870533f8a215d16b191c5a0ba661b91e18"
+company_key: "burford-capital-limited-ordinary-shares"
+company: "Burford Capital Limited"
+source_id: "burford-capital-limited-ordinary-shares-rss-30e9f2c50d93"
+canonical_url: "https://www.burfordcapital.com/insights-news-events/news-press-releases/bilanz-reports-on-the-rapid-global-growth-of-legal-finance-and-its-evolution-into-a-corporate-finance-tool/"
+published_at: "2026-04-13T12:00:00+00:00"
+first_seen_at: "2026-07-24T22:17:59.893218+00:00"
+fetched_at: "2026-07-28T22:00:13.771809+00:00"
+content_hash: "sha256:d8bb414c4034f9db7faa3a99198358cb46256556e2d729026205e13a093f4d54"
+---
+
+# Bilanz reports on the rapid global growth of legal finance and its evolution into a corporate finance tool
+
+Managing Director[Jörn Eschment](https://www.burfordcapital.com/about-us/our-team/joern-eschment/) discusses in *Bilanz* the rapid global growth of legal finance and its evolution into a corporate finance tool, with a focus on Switzerland and the broader European markets. Eschment, based in Switzerland, highlights how companies are using legal finance to monetize claims, manage litigation risk and reduce balance sheet volatility as demand accelerates worldwide.
+
+
+Read the full article[here](https://www.bilanz.ch/unternehmen/prozessfinanzierung-milliardenmarkt-waechst-bis-50-mrd-usd/mjs9fwb) .

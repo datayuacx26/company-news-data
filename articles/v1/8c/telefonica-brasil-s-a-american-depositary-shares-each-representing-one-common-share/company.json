@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "telefonica-brasil-s-a-american-depositary-shares-each-representing-one-common-share",
+    "name": "Telefonica Brasil S.A."
+  },
+  "record_count": 81,
+  "first_published_at": "2023-03-07T09:00:00+00:00",
+  "last_published_at": "2026-08-17T07:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 46
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8c/telefonica-brasil-s-a-american-depositary-shares-each-representing-one-common-share/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 70844,
+        "sha256": "sha256:f0764c310de5337aa78a14acc702e1601e11c74604c0a2ba2d37e8ebf4a353bd",
+        "newest_at": "2026-08-17T07:30:00+00:00",
+        "oldest_at": "2026-07-01T11:10:48+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/8c/telefonica-brasil-s-a-american-depositary-shares-each-representing-one-common-share/index/pages/000002.json",
+        "record_count": 31,
+        "byte_count": 42585,
+        "sha256": "sha256:edf80d813c425fc87e699c91c3744a4ead37f245231e5cec319eedcbcde4dfd9",
+        "newest_at": "2026-07-01T07:30:00+00:00",
+        "oldest_at": "2023-03-07T09:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "365233cc4ce588933edd40a443938a44cabf0a19748bd6c7ed70e812c9f2ed99",
+  "company": {
+    "key": "yc-quickchat-ai",
+    "name": "Quickchat AI"
+  },
+  "source": {
+    "id": "yc-quickchat-ai-rss-bd17510cf053",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://quickchat.ai/post/one-prompt-arxiv-filter",
+    "canonical": "https://quickchat.ai/post/one-prompt-arxiv-filter"
+  },
+  "title": "One-prompt arXiv filter: parse email digest, output three must-read papers",
+  "summary": "I turn the daily arXiv firehose into three must-read papers using IMAP + a single LLM prompt.",
+  "published_at": "2025-11-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:54.491295+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T02:28:15.770058+00:00",
+  "paths": {
+    "article": "articles/v1/b3/yc-quickchat-ai/2025/11/36/365233cc4ce588933edd40a443938a44cabf0a19748bd6c7ed70e812c9f2ed99/article.md",
+    "record": "articles/v1/b3/yc-quickchat-ai/2025/11/36/365233cc4ce588933edd40a443938a44cabf0a19748bd6c7ed70e812c9f2ed99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13170,
+    "sha256": "sha256:b81a14b478e9a2b481abf493beff4e7771e28c24f0b72b0c403454911236e402",
+    "normalized_content_hash": "sha256:419f3ddd155ad28f0cdb42c0e61c11081cd9828ec0ab6b92d7c9ed6c4a68b6aa"
+  },
+  "provenance": {
+    "source_item_id": "73b866dd-d4d4-4afe-82b7-1e120ce2fc25",
+    "external_id": "https://quickchat.ai/post/one-prompt-arxiv-filter"
+  }
+}

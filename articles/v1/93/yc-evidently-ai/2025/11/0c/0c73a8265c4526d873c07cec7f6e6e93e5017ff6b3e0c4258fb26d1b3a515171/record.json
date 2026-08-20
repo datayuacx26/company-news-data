@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c73a8265c4526d873c07cec7f6e6e93e5017ff6b3e0c4258fb26d1b3a515171",
+  "company": {
+    "key": "yc-evidently-ai",
+    "name": "Evidently AI"
+  },
+  "source": {
+    "id": "yc-evidently-ai-news-import-f9abf95c6ead",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evidentlyai.com/blog/how-to-align-llm-judge-with-human-labels",
+    "canonical": "https://www.evidentlyai.com/blog/how-to-align-llm-judge-with-human-labels"
+  },
+  "title": "How to align LLM judge with human labels: a hands-on tutorial",
+  "summary": "In this tutorial, we will walk you through the process of designing and testing an LLM evaluator. We will also create an LLM judge that evaluates the quality of LLM-generated code reviews.",
+  "published_at": "2025-11-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:14:03.070856+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-20T00:18:03.155881+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-evidently-ai/2025/11/0c/0c73a8265c4526d873c07cec7f6e6e93e5017ff6b3e0c4258fb26d1b3a515171/article.md",
+    "record": "articles/v1/93/yc-evidently-ai/2025/11/0c/0c73a8265c4526d873c07cec7f6e6e93e5017ff6b3e0c4258fb26d1b3a515171/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16700,
+    "sha256": "sha256:339fbb496eacd95de28ec6f16a2237216b243d6de5db24a6bcaff3a8efc5ac6b",
+    "normalized_content_hash": "sha256:35c84f450ffb20ab7b39cb0655e4ebfda6bd92cca7ccaa31ef825ea4026a19ec"
+  },
+  "provenance": {
+    "source_item_id": "84927c6f-d45f-460d-a6a1-472cff269051",
+    "external_id": "https://www.evidentlyai.com/blog/how-to-align-llm-judge-with-human-labels"
+  }
+}

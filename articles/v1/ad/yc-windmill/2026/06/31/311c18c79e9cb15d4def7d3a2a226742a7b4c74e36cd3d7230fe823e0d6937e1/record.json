@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "311c18c79e9cb15d4def7d3a2a226742a7b4c74e36cd3d7230fe823e0d6937e1",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/ssh-execution",
+    "canonical": "https://www.windmill.dev/changelog/ssh-execution"
+  },
+  "title": "Run bash scripts on a remote SSH host",
+  "summary": "Bash scripts starting with a `#ssh <resource_path>` directive now run on the remote host described by the referenced `ssh_target` resource, for jump/utility nodes where no worker can be placed. Full parity with local bash jobs - typed positional args, structured result, live streamed logs, cancellation and remote exit-code propagation. Enterprise feature, off by default (`ssh_execution_enabled` instance setting). Agent workers remain the recommended way to run code in isolated environments.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T21:11:25.860154+00:00",
+  "last_updated_at": "2026-07-30T08:39:13.454110+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/06/31/311c18c79e9cb15d4def7d3a2a226742a7b4c74e36cd3d7230fe823e0d6937e1/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/06/31/311c18c79e9cb15d4def7d3a2a226742a7b4c74e36cd3d7230fe823e0d6937e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2218,
+    "sha256": "sha256:3071b51f4653dafb17056a356e4df8619fcd21f4915c08602681a34724613ab8",
+    "normalized_content_hash": "sha256:109941369bf504adc20a89f7f0e4dd45029a32f0b1a0c28f0b18da257f3defe7"
+  },
+  "provenance": {
+    "source_item_id": "858be4f2-338e-4a96-a573-fe614eb5f1b5",
+    "external_id": "https://www.windmill.dev/changelog/ssh-execution"
+  }
+}

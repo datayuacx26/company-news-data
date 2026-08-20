@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "026afc9502a576a0c15b1091774655a65e009794c9da49c998c411d4d7d1da67",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/automatic-code-reviews-codeowners/",
+    "canonical": "https://blog.openreplay.com/automatic-code-reviews-codeowners/"
+  },
+  "title": "Automatic Code Reviews with CODEOWNERS",
+  "summary": "Set up GitHub CODEOWNERS, avoid silent failures, and enforce code review with the right patterns, permissions, and branch protection.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T10:22:48.360362+00:00",
+  "fetched_at": "2026-08-06T10:22:50.657562+00:00",
+  "last_updated_at": "2026-08-18T04:06:32.634344+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/02/026afc9502a576a0c15b1091774655a65e009794c9da49c998c411d4d7d1da67/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/02/026afc9502a576a0c15b1091774655a65e009794c9da49c998c411d4d7d1da67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12952,
+    "sha256": "sha256:da6be0fb919cd1bbdd38e861333d5b62daf30cb8f2df758e4d871089235d4dce",
+    "normalized_content_hash": "sha256:36862bba4961881427a9ba54a7ad545732ffab1aded874df3934213312606bc8"
+  },
+  "provenance": {
+    "source_item_id": "18a4d24c-cb16-4dad-8acf-9f3eb21c6182",
+    "external_id": "https://blog.openreplay.com/automatic-code-reviews-codeowners/"
+  }
+}

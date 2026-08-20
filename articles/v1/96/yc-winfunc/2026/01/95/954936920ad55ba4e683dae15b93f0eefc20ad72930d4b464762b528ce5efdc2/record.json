@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "954936920ad55ba4e683dae15b93f0eefc20ad72930d4b464762b528ce5efdc2",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/CVE-2026-2455",
+    "canonical": "https://winfunc.com/hacktivity/CVE-2026-2455"
+  },
+  "title": "SSRF protection bypass via IPv4-mapped IPv6 literals (CVE-2026-2455)",
+  "summary": "Mattermost's shared HTTP service protects untrusted outbound requests by resolving the target host and passing each IP through allowIP, which calls IsRe…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:15.603719+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/95/954936920ad55ba4e683dae15b93f0eefc20ad72930d4b464762b528ce5efdc2/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/95/954936920ad55ba4e683dae15b93f0eefc20ad72930d4b464762b528ce5efdc2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6406,
+    "sha256": "sha256:3fbd3a8a0329aff5289b5a8f4784df96250114671ef0bc3a3756b2eedc3338e3",
+    "normalized_content_hash": "sha256:6a2b4514f4cae3e14217806d7cb2400560f8d45a24ce2bac3747c2bdb011e5ed"
+  },
+  "provenance": {
+    "source_item_id": "a7923655-3c4f-4cb9-b2e7-368140719edc",
+    "external_id": "https://winfunc.com/hacktivity/CVE-2026-2455"
+  }
+}

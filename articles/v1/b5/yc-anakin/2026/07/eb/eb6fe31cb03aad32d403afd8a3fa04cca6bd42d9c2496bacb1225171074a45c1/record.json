@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eb6fe31cb03aad32d403afd8a3fa04cca6bd42d9c2496bacb1225171074a45c1",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/azure-key-vault-wire-rbac-scoping",
+    "canonical": "https://anakin.io/blog/azure-key-vault-wire-rbac-scoping"
+  },
+  "title": "Using Azure Key Vault with Wire: RBAC, Scoping & the Role Everyone Gets Wrong",
+  "summary": "Azure Key Vault automation for Wire: four-step setup, the RBAC role everyone assigns wrong, and why every secret read lands…",
+  "published_at": "2026-07-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T00:49:53.361744+00:00",
+  "fetched_at": "2026-08-05T03:48:37.411401+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/07/eb/eb6fe31cb03aad32d403afd8a3fa04cca6bd42d9c2496bacb1225171074a45c1/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/07/eb/eb6fe31cb03aad32d403afd8a3fa04cca6bd42d9c2496bacb1225171074a45c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8107,
+    "sha256": "sha256:ea73ff5b611e27d8d55a85bbf5aa9ea4f51a3935681095e5a6c1f1c6da973b22",
+    "normalized_content_hash": "sha256:a519e5ad5d01b28fc3e93807bbcb82e3c99864cabc9a8a0a0f61a7dda1e82a18"
+  },
+  "provenance": {
+    "source_item_id": "2de9027b-f991-4410-be44-dc59283a1abe",
+    "external_id": "https://anakin.io/blog/azure-key-vault-wire-rbac-scoping"
+  }
+}

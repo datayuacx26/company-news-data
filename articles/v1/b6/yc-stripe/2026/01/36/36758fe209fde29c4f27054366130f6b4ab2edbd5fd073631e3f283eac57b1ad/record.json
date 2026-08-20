@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "36758fe209fde29c4f27054366130f6b4ab2edbd5fd073631e3f283eac57b1ad",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/stripe-completes-metronome-acquisition",
+    "canonical": "https://stripe.com/newsroom/news/stripe-completes-metronome-acquisition"
+  },
+  "title": "Stripe completes Metronome acquisition",
+  "summary": "Stripe, the programmable financial services company, today announced that it has completed its acquisition of Metronome, the leader in orchestrating billing for the most complex usage-based models.",
+  "published_at": "2026-01-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:06:01.421437+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-08-18T05:52:01.916894+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/01/36/36758fe209fde29c4f27054366130f6b4ab2edbd5fd073631e3f283eac57b1ad/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/01/36/36758fe209fde29c4f27054366130f6b4ab2edbd5fd073631e3f283eac57b1ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2296,
+    "sha256": "sha256:b2504d8babe2945c68c83c7280811c6de250644e216fbbc70aef1d906f3fd2e3",
+    "normalized_content_hash": "sha256:5a82874031a756f88b00c8320df51002215cd89d3d2724ed2a119b5b9b68d240"
+  },
+  "provenance": {
+    "source_item_id": "44db56fa-a26f-434d-945e-48b723cdf6cd",
+    "external_id": "https://stripe.com/newsroom/news/stripe-completes-metronome-acquisition"
+  }
+}

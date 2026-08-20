@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a97a2a75aaeb2db8b33c6d80102ce6ddd29543af6b3fdb842f6215de5a19ddb",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/ai-agent-security-systems-problem/",
+    "canonical": "https://www.docker.com/blog/ai-agent-security-systems-problem/"
+  },
+  "title": "17,600 Actions: Agent Security Is a Systems Problem",
+  "summary": "The OpenAI/Hugging Face incident exposed a new challenge for AI agent security. 17,600 attacker actions show why AI agent security can’t rely on human review. Explore the controls needed to constrain, observe, and govern agents at speed.",
+  "published_at": "2026-08-18T16:00:00+00:00",
+  "first_seen_at": "2026-08-18T17:29:30.548950+00:00",
+  "fetched_at": "2026-08-18T17:29:33.030295+00:00",
+  "last_updated_at": "2026-08-20T03:29:18.763507+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/08/3a/3a97a2a75aaeb2db8b33c6d80102ce6ddd29543af6b3fdb842f6215de5a19ddb/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/08/3a/3a97a2a75aaeb2db8b33c6d80102ce6ddd29543af6b3fdb842f6215de5a19ddb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16933,
+    "sha256": "sha256:df3afe413995c84acf623f40316823a67a1b0aecad739ca6529b03d1c6d98972",
+    "normalized_content_hash": "sha256:a0796a72ce9fdd02d2fa113d55c4d90b587541072491a938c91c6a0f1a5707d0"
+  },
+  "provenance": {
+    "source_item_id": "bef17ef9-c0c2-487f-858f-b0a32e7e3732",
+    "external_id": "https://www.docker.com/?p=92915"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cross-country-healthcare-inc-common-stock-0-0001-par-value",
+    "name": "Cross Country Healthcare Inc. Common Stock $0.0001 Par Value"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-04-22T06:30:00.615+00:00",
+  "last_published_at": "2026-07-21T13:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b2/cross-country-healthcare-inc-common-stock-0-0001-par-value/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 7308,
+        "sha256": "sha256:83579edb513bf82f5eb08decb69bf4ad88d1bedfc6b0743f7f5e80b1902cd348",
+        "newest_at": "2026-07-21T13:30:00+00:00",
+        "oldest_at": "2026-04-22T06:30:00.615+00:00"
+      }
+    ]
+  }
+}

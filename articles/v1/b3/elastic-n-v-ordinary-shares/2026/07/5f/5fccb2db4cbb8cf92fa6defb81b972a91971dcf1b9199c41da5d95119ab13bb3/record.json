@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fccb2db4cbb8cf92fa6defb81b972a91971dcf1b9199c41da5d95119ab13bb3",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/search-analytics-opentelemetry",
+    "canonical": "https://www.elastic.co/search-labs/blog/search-analytics-opentelemetry"
+  },
+  "title": "How to build search analytics on Elastic using OpenTelemetry, no extra pipeline required",
+  "summary": "Track click-through rate and zero-result searches with OpenTelemetry traces already flowing into Elasticsearch. No extra pipeline needed.",
+  "published_at": "2026-07-08T05:01:16+00:00",
+  "first_seen_at": "2026-07-22T05:42:30.133836+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-07-28T21:23:08.680441+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/5f/5fccb2db4cbb8cf92fa6defb81b972a91971dcf1b9199c41da5d95119ab13bb3/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/5f/5fccb2db4cbb8cf92fa6defb81b972a91971dcf1b9199c41da5d95119ab13bb3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20332,
+    "sha256": "sha256:069777bfdb402d5190f4da37a91733a155fadcd34cf4b8ed3d8cfaececbaefda",
+    "normalized_content_hash": "sha256:1c4558fa276828f70d81f8d5c29156c4350354ba71e6406a09f577baaa40e6aa"
+  },
+  "provenance": {
+    "source_item_id": "78139611-dc78-4228-864c-12dff428d1de",
+    "external_id": "https://www.elastic.co/search-labs/blog/search-analytics-opentelemetry"
+  }
+}

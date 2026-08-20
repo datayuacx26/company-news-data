@@ -1,0 +1,61 @@
+---
+schema_version: "1.0.0"
+document_id: "b9d6dfbb9b66694df345669b5ea42b69fa1614b0c15ba393b3d65a390d5bb759"
+company_key: "iradimed-corporation-common-stock"
+company: "iRadimed Corporation"
+source_id: "iradimed-corporation-common-stock-news-import-33f127f4ad9c"
+canonical_url: "https://www.iradimed.com/news/iradimed-corporation-to-present-at-the-43rd-annual-jp-morgan-healthcare-conference"
+published_at: null
+first_seen_at: "2026-07-22T00:36:20.788709+00:00"
+fetched_at: "2026-07-28T21:38:27.854613+00:00"
+content_hash: "sha256:1b7d08ef8aa575686b8b8b69efbc670b5fb1d2f4989d2d7603d48c6f2f459efa"
+---
+
+# IRADIMED CORPORATION to Present at the 43rd Annual J.P. Morgan Healthcare Conference
+
+Winter Springs, Florida, December 19, 2024 – IRADIMED CORPORATION (the “Company”) (NASDAQ: IRMD), a leading provider of innovative magnetic resonance imaging (“MRI”) compatible medical devices and the only provider of a non-magnetic intravenous (“IV”) infusion pump system announced today that Roger Susi, Chief Executive Officer and Jack Glenn, Chief Financial Officer, will present at the 43rd Annual J.P. Morgan Healthcare Conference.
+
+
+The Company presentation will take place on Wednesday, January 15, 2025, at 5:15 p.m. Pacific Time. Interested parties may access a live and archived webcast of the presentation on the “Events and Presentations” section of the Company’s investor website at[https://www.iradimed.com/investors/events](https://protect.checkpoint.com/v2/___https:/www.iradimed.com/investors/events___.YzJ1OmlyYWRpbWVkY29ycG9yYXRpb25wb2M6YzpvOmYwZGZiZjI2OGE4OWFkMzVkMTY2NTljMTRhOTBhYzFiOjY6NjllMTowMzBhNWY4YzE5MDBlNTY2ZDg3YmU1ZTVjYTA5ZmI2Mzk0YmNjMDdhYmYwYmY0MmNjNzFlNDA4OWZjMmEyYjI4OnA6VDpO) .
+
+
+[Download PDF](https://www.iradimed.com/s/IRMD-JPM-Healthcare-Conference-2025-PR_Draft-002.pdf)
+
+
+**About IRADIMED CORPORATION**
+
+
+IRADIMED CORPORATION is a leader in developing innovative Magnetic Resonance Imaging (“MRI”) compatible medical devices. We design, manufacture, market, and distribute MRI-compatible medical devices, accessories, disposables, and related services.
+
+
+We are the only known provider of a non-magnetic intravenous (“IV”) infusion pump system specifically designed to be safe for use during MRI procedures. We were the first to develop an infusion delivery system that essentially eliminates many dangers and problems during MRI procedures. Standard infusion pumps contain magnetic and electronic components that can create radio frequency interference and are dangerous to operate in the presence of the powerful magnet that drives an MRI system. Our patented MRidium® MRI compatible IV infusion pump system has a non-magnetic ultrasonic motor, uniquely designed non-ferrous parts, and other special features to safely and predictably deliver anesthesia and other IV fluids during various MRI procedures. Our pump solution provides a seamless approach that enables accurate, safe, and dependable fluid delivery before, during, and after an MRI scan, which is essential to critically ill patients who cannot be removed from their vital medications and children and infants who must generally be sedated to remain immobile during an MRI scan.
+
+
+Our 3880 MRI-compatible patient vital signs monitoring system has been designed with non-magnetic components and other special features to safely and accurately monitor a patient’s vital signs during various MRI procedures. The Iradimed 3880 system operates dependably in magnetic fields up to 30,000 gauss, which means it can operate virtually anywhere in the MRI scanner room. The Iradimed 3880 has a compact, lightweight design, allowing it to travel with the patient from their critical care unit to the MRI and back, resulting in increased patient safety through uninterrupted vital signs monitoring and decreasing the amount of time critically ill patients are away from critical care units. The features of the Iradimed 3880 include wireless ECG with dynamic gradient filtering; wireless SpO2 using Masimo® algorithms; non-magnetic respiratory CO2; invasive and non-invasive blood pressure; patient temperature, and optional advanced multi-gas anesthetic agent unit featuring continuous Minimum Alveolar Concentration measurements. The Iradimed 3880 MRI-compatible patient vital signs monitoring system has an easy-to-use design and effectively communicates patient vital signs information to clinicians.
+
+
+For more information, please visit[www.iradimed.com](https://protect.checkpoint.com/v2/___http:/www.iradimed.com___.YzJ1OmlyYWRpbWVkY29ycG9yYXRpb25wb2M6YzpvOmYwZGZiZjI2OGE4OWFkMzVkMTY2NTljMTRhOTBhYzFiOjY6MWU3ZToyOGZkNTBjMTRhOTZkYTRhMTJlMzdlOTk1NmU5NmY2NzU1N2RiYTRkMjMwMWNiYWYwYTgxMjMyN2I5ZTQyYzgyOnA6VDpO) .
+
+
+**Forward-Looking Statements**
+
+
+This release and any oral statements made regarding the subject of this release contain forward-looking statements as defined under Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements, other than statements of historical facts, that address activities that the Company assumes, plans, expects, believes, intends, projects, indicates, estimates, or anticipates (and other similar expressions) will, should, or may occur in the future are forward-looking statements, including statements relating financial guidance, future quarterly cash dividends, construction costs for the Company’s new facility in Orlando, Florida, and the Company’s strategic plans, objectives, and intentions. The forward-looking statements are based on management’s current belief and currently available information on the outcome and timing of future events. The forward-looking statements involve risks and uncertainties, including, among others, that our business plans may change as circumstances warrant.
+
+
+Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date that they are made, which reflect management’s current estimates, projections, expectations, or beliefs, and which involve risks and uncertainties that could cause actual results and outcomes to be materially different. Risks and uncertainties that may affect the future results of the company include, but are not limited to; potential disruptions in our limited supply chain for our products; the Company’s ability to receive U.S. Food and Drug Administration (“FDA”) 510(k) clearance for new products and product candidates; unexpected costs, delays or diversion of management’s attention associated with the design, manufacturing or sale of new products; the Company’s ability to implement successful sales techniques for existing and future products and evaluate the effectiveness of its sales techniques; additional actions, warnings or requests from the FDA or other regulatory bodies; our significant reliance on a limited number of products; a reduction in international distribution; actions of the FDA or other regulatory bodies that could delay, limit or suspend product development, manufacturing or sales; the effect of recalls, patient adverse events or deaths on our business; difficulties or delays in the development, production, manufacturing and marketing of new or existing products and services; and changes in laws and regulations or in the interpretation or application of laws or regulations. Additional factors which could affect the forward-looking statements can be found in the Company’s annual report on Form 10-K, quarterly reports on Form 10-Q, and current reports on Form 8-K filed with the U.S. Securities and Exchange Commission (the “SEC”) and available on the SEC’s website at[http://www.sec.gov](https://protect.checkpoint.com/v2/___http:/www.sec.gov___.YzJ1OmlyYWRpbWVkY29ycG9yYXRpb25wb2M6YzpvOmYwZGZiZjI2OGE4OWFkMzVkMTY2NTljMTRhOTBhYzFiOjY6NzBiMjphNGI2MDZkMzZlM2JjMDY3NDc5MjRhNzQ5Y2Q4YmUyMGNmNjdlMWI0YzY2MmFhOGZkNzYyNjU2N2Q5YjA0N2JjOnA6VDpO) . All forward-looking statements are based on information available to us on the date hereof, and we assume no obligation to update forward-looking statements.
+
+
+**Media Contact:**
+
+
+Jack Glenn
+
+
+IRADIMED CORPORATION
+
+
+(407) 677‑8022
+
+
+InvestorRelations@iradimed.com

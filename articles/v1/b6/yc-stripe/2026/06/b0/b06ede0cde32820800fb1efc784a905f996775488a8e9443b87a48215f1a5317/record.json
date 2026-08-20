@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b06ede0cde32820800fb1efc784a905f996775488a8e9443b87a48215f1a5317",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/aws-waf-and-stripe",
+    "canonical": "https://stripe.com/newsroom/news/aws-waf-and-stripe"
+  },
+  "title": "With Stripe, AWS enables AI agent payments for content owners and publishers",
+  "summary": "Stripe will be providing the financial infrastructure for a new AWS Web Application Firewall (WAF) capability that enables publishers to monetize AI agent traffic.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:06:01.421437+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T02:16:33.048642+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/b0/b06ede0cde32820800fb1efc784a905f996775488a8e9443b87a48215f1a5317/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/b0/b06ede0cde32820800fb1efc784a905f996775488a8e9443b87a48215f1a5317/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2282,
+    "sha256": "sha256:110002ceab697f8276d24e2ab5811ebd3b50d7e174ba51ec1b22d5f5495b6ceb",
+    "normalized_content_hash": "sha256:4dec926806abed8aea876c4c424c4e674073bbf1dd4f0e326b96c266e7ade8f5"
+  },
+  "provenance": {
+    "source_item_id": "2669ed0c-c50a-47e9-9f91-dd11bfceffe0",
+    "external_id": "https://stripe.com/newsroom/news/aws-waf-and-stripe"
+  }
+}

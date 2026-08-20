@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "babce32f5de49bf5c91a538226eb0186542a3924df595945655d62cac81e241e",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/growing-your-stripe-integration-with-event-destinations",
+    "canonical": "https://stripe.dev/blog/growing-your-stripe-integration-with-event-destinations"
+  },
+  "title": "Growing your Stripe integration With Event Destinations",
+  "summary": "Event Destinations has begun rolling out to general availability as of 10/30 and will soon be enabled for all accounts. This post explores how to use Stripe Event Destinations and Amazon EventBridge to achieve near infinite customization possibilities for your payment solutions without disrupting your existing integrations.",
+  "published_at": "2024-10-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/10/ba/babce32f5de49bf5c91a538226eb0186542a3924df595945655d62cac81e241e/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/10/ba/babce32f5de49bf5c91a538226eb0186542a3924df595945655d62cac81e241e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5157,
+    "sha256": "sha256:3af2a7132eda9d6823519a5891256f8ad78392f48b4801a7271b8635e789f84b",
+    "normalized_content_hash": "sha256:91bf23d7f087616157758c4b3b9c89f8de29e4ef5412b731a5c5b2fcfa43fe7d"
+  },
+  "provenance": {
+    "source_item_id": "62717866-8822-4f1f-a225-2ddfb4558dd7",
+    "external_id": "https://stripe.dev/blog/growing-your-stripe-integration-with-event-destinations"
+  }
+}

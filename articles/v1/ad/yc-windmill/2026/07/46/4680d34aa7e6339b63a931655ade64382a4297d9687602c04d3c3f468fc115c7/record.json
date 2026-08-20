@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4680d34aa7e6339b63a931655ade64382a4297d9687602c04d3c3f468fc115c7",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/asset-freshness",
+    "canonical": "https://www.windmill.dev/changelog/asset-freshness"
+  },
+  "title": "Asset freshness with fresh/stale badge and automatic watchdog",
+  "summary": "The `// freshness <window>` annotation on pipeline scripts now shows a live fresh/stale verdict on the pipeline graph, emerald when the last successful run completed within the window and amber when it is stale or has never run. On Enterprise Edition, a freshness watchdog re-runs stale unpartitioned scripts automatically with exponential backoff capped at the window; watchdog runs skip the downstream cascade, are attributed to pseudo-user freshness-<path> with the new freshness trigger kind, and can be disabled instance-wide with DISABLE_FRESHNESS_WATCHDOG.",
+  "published_at": "2026-07-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T03:49:16.149+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/46/4680d34aa7e6339b63a931655ade64382a4297d9687602c04d3c3f468fc115c7/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/46/4680d34aa7e6339b63a931655ade64382a4297d9687602c04d3c3f468fc115c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2367,
+    "sha256": "sha256:6b26c28e55a25e0bec1db8ce6b7fa23b0a4f780cd23e8606229f2ed49fe9150b",
+    "normalized_content_hash": "sha256:9fad2685c67d03c2bfd9270e5fa2ee9e490a2ba77a07f644ce4a03ffc6990a2d"
+  },
+  "provenance": {
+    "source_item_id": "25dd4703-52d5-4b5f-9507-fe632d45e188",
+    "external_id": "https://www.windmill.dev/changelog/asset-freshness"
+  }
+}

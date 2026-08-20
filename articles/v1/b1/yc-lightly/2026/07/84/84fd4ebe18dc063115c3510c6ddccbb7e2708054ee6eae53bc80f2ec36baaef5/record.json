@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84fd4ebe18dc063115c3510c6ddccbb7e2708054ee6eae53bc80f2ec36baaef5",
+  "company": {
+    "key": "yc-lightly",
+    "name": "Lightly"
+  },
+  "source": {
+    "id": "yc-lightly-news-import-b9754ffe9935",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lightly.ai/blog/how-redundant-is-your-dataset",
+    "canonical": "https://lightly.ai/blog/how-redundant-is-your-dataset"
+  },
+  "title": "How to filter redundant data",
+  "summary": "Many interesting Deep learning applications rely on the use of complex architectures fueled by large datasets. However, when doing so, a new challenge surfaces: data redundancy.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T02:25:05.125057+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-08-19T17:27:18.778367+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-lightly/2026/07/84/84fd4ebe18dc063115c3510c6ddccbb7e2708054ee6eae53bc80f2ec36baaef5/article.md",
+    "record": "articles/v1/b1/yc-lightly/2026/07/84/84fd4ebe18dc063115c3510c6ddccbb7e2708054ee6eae53bc80f2ec36baaef5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11875,
+    "sha256": "sha256:66774df2906dc46323f5446a11200c038dde8fc47d23dfc5b984f7224ac63f69",
+    "normalized_content_hash": "sha256:cba04961d6e42e018271da3899a21b4fc17b2411635f4dd2a378da040df06e49"
+  },
+  "provenance": {
+    "source_item_id": "3b53a079-ba1e-4c7a-b9a0-a506bdbdd306",
+    "external_id": "https://lightly.ai/blog/how-redundant-is-your-dataset"
+  }
+}

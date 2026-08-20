@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b055539e32bde800dad5186cf07c032198f417866dd713b53eeca0318078932b",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc."
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-rss-d1030f25037f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/product-tech/2026/08/18/cve-2026-68820-kev-bod-26-04-requirements",
+    "canonical": "https://blog.qualys.com/product-tech/2026/08/18/cve-2026-68820-kev-bod-26-04-requirements"
+  },
+  "title": "CVE-2026-68820 is in KEV. Here Is What CISA BOD 26-04 Actually Requires Now",
+  "summary": "Microsoft patched CVE-2026-68820 on August 11. CISA added it to KEV the same day. Learn the 3-day and 14-day deadlines, why reboot is mandatory, and how to close the exposure.",
+  "published_at": "2026-08-18T18:06:38+00:00",
+  "first_seen_at": "2026-08-18T21:31:01.825892+00:00",
+  "fetched_at": "2026-08-18T21:31:03.025998+00:00",
+  "last_updated_at": "2026-08-20T03:06:26.797715+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/08/b0/b055539e32bde800dad5186cf07c032198f417866dd713b53eeca0318078932b/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/08/b0/b055539e32bde800dad5186cf07c032198f417866dd713b53eeca0318078932b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6076,
+    "sha256": "sha256:ed7a4d467f3b48308032e9e5a87d09b698dfe92f533b49f2b7263187a03cdb3a",
+    "normalized_content_hash": "sha256:49e84244bd11f2b7cb57dbe362d7dd8bb1f7ead720aad31fbbce0388f161f822"
+  },
+  "provenance": {
+    "source_item_id": "5ca3932a-19be-4f3f-8369-e9df40a0e01c",
+    "external_id": "https://blog.qualys.com/?p=41818"
+  }
+}

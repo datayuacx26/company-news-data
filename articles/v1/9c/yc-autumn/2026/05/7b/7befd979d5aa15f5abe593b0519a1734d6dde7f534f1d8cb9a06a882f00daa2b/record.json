@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7befd979d5aa15f5abe593b0519a1734d6dde7f534f1d8cb9a06a882f00daa2b",
+  "company": {
+    "key": "yc-autumn",
+    "name": "Autumn"
+  },
+  "source": {
+    "id": "yc-autumn-news-import-b2979559dee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://useautumn.com/blog/building-an-ai-agent-to-investigate-support-tickets",
+    "canonical": "https://useautumn.com/blog/building-an-ai-agent-to-investigate-support-tickets"
+  },
+  "title": "How we use agents for billing support",
+  "summary": "How we automated customer support investigations by structuring our logs and giving Claude Code the right primitives.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T08:43:21.090032+00:00",
+  "fetched_at": "2026-07-28T21:55:52.188627+00:00",
+  "last_updated_at": "2026-08-20T02:38:41.109775+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-autumn/2026/05/7b/7befd979d5aa15f5abe593b0519a1734d6dde7f534f1d8cb9a06a882f00daa2b/article.md",
+    "record": "articles/v1/9c/yc-autumn/2026/05/7b/7befd979d5aa15f5abe593b0519a1734d6dde7f534f1d8cb9a06a882f00daa2b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8807,
+    "sha256": "sha256:1e4306ed9a4c17327d5142499e686f3e5afe1b9381f5f761b19daedc093255e1",
+    "normalized_content_hash": "sha256:517d5c245bac06c44017c14878c4b72af2b27c2e416904da8d0b231252e1d387"
+  },
+  "provenance": {
+    "source_item_id": "04e6c7d9-40d1-4d6b-87c4-a06f59da1d4f",
+    "external_id": "https://useautumn.com/blog/building-an-ai-agent-to-investigate-support-tickets"
+  }
+}

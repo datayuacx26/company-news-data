@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fefcb94c56960684a9b0dac006be90e0c68da57cd824c63aaad449447eecd2a",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/wordpress-application-styles-are-not-recording-on-openreplay/557#post_1",
+    "canonical": "https://forum.openreplay.com/t/wordpress-application-styles-are-not-recording-on-openreplay/557"
+  },
+  "title": "WordPress application – Styles are not recording on OpenReplay",
+  "summary": "Hi team, I’m experiencing an issue with OpenReplay session recordings in my WordPress application (hosted on ESC with Docker). The session content is being captured, but the recordings show only plain HTML—none of the CSS styles are applied. Has anyone encountered this problem before, or does anyone know how to get OpenReplay to record and display sessions with the correct styling? Any tips or troubleshooting steps would be greatly appreciated! Thank you!",
+  "published_at": "2026-01-23T06:12:02+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/01/5f/5fefcb94c56960684a9b0dac006be90e0c68da57cd824c63aaad449447eecd2a/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/01/5f/5fefcb94c56960684a9b0dac006be90e0c68da57cd824c63aaad449447eecd2a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1629,
+    "sha256": "sha256:1c2b59c4880e49e80f15b93cdb68824f85c2152c5fa570b69d11c82f8bc5789e",
+    "normalized_content_hash": "sha256:5872812d62e2d0abdf0043816ca54cc128406002548af6b5749794da0b86fd2a"
+  },
+  "provenance": {
+    "source_item_id": "53d007fa-054b-4707-916e-a02d90edf0ed",
+    "external_id": "forum.openreplay.com-post-1436"
+  }
+}

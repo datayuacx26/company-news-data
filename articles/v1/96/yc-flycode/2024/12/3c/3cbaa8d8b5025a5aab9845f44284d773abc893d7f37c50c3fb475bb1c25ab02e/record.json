@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3cbaa8d8b5025a5aab9845f44284d773abc893d7f37c50c3fb475bb1c25ab02e",
+  "company": {
+    "key": "yc-flycode",
+    "name": "FlyCode"
+  },
+  "source": {
+    "id": "yc-flycode-news-import-523b281c6a73",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.flycode.com/blog/how-to-deal-with-failed-payments-if-you-re-using-stripe",
+    "canonical": "https://www.flycode.com/blog/how-to-deal-with-failed-payments-if-you-re-using-stripe"
+  },
+  "title": "Top 8 strategies to recover more failed payments",
+  "summary": "6%-12% of a Merchants ARR is lost due to payment failures, errors like insufficient funds or processing errors. Most rely on brute force or fixed-interval retry strategies, a legacy approach that ultimately reduces retry success rates and increases customer churn",
+  "published_at": "2024-12-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:50:45.349061+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T23:56:29.146281+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-flycode/2024/12/3c/3cbaa8d8b5025a5aab9845f44284d773abc893d7f37c50c3fb475bb1c25ab02e/article.md",
+    "record": "articles/v1/96/yc-flycode/2024/12/3c/3cbaa8d8b5025a5aab9845f44284d773abc893d7f37c50c3fb475bb1c25ab02e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13115,
+    "sha256": "sha256:28920a674d3ac6a83560516fb1a350377669123c2439aec39226d7445a27e58b",
+    "normalized_content_hash": "sha256:fa19bc9cfb041c958e376c535ec97a95cd0662d54fb29ef4fd887357e808b555"
+  },
+  "provenance": {
+    "source_item_id": "19d4aa87-3d55-4ec0-8299-e2296d47a5a0",
+    "external_id": "https://www.flycode.com/blog/how-to-deal-with-failed-payments-if-you-re-using-stripe"
+  }
+}

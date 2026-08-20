@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "054d086de608b8ef3be85f00ce33bda8ea8e1dea996b4c0a1f93ed81b033f173",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/tax-id-validation-at-checkout",
+    "canonical": "https://stripe.dev/blog/tax-id-validation-at-checkout"
+  },
+  "title": "Compliance versus conversion: Tax ID validation at checkout",
+  "summary": "For product-led businesses, conversion is paramount, so an important consideration is deciding whether to implement synchronous or asynchronous tax ID validation in a checkout flow. One is friendlier for conversion, but the other can keep your business compliant.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/05/054d086de608b8ef3be85f00ce33bda8ea8e1dea996b4c0a1f93ed81b033f173/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/05/054d086de608b8ef3be85f00ce33bda8ea8e1dea996b4c0a1f93ed81b033f173/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3402,
+    "sha256": "sha256:03bfcfd0a40fc6063a9f0e21064de5ae8973e381de9793df6221e74f86fe565a",
+    "normalized_content_hash": "sha256:f29bf8f0d65db0fc9e5399b400413d5df19f6cfedadefee855483ec80c018c84"
+  },
+  "provenance": {
+    "source_item_id": "e86cff46-74de-4b6a-b4ff-15e0bf0396e1",
+    "external_id": "https://stripe.dev/blog/tax-id-validation-at-checkout"
+  }
+}

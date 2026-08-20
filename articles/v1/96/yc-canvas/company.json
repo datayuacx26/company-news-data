@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-canvas",
+    "name": "Canvas"
+  },
+  "record_count": 3,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/96/yc-canvas/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 2956,
+        "sha256": "sha256:7a6ce2d0bd361841e7dde5ce9ffa2c644e142b4511983ee9c95ce991642b92e9",
+        "newest_at": "2026-08-09T20:23:25.334371+00:00",
+        "oldest_at": "2026-08-09T20:23:25.334371+00:00"
+      }
+    ]
+  }
+}

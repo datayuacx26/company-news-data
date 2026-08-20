@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae1c0c330bcadab3949a5218bf1a5d022d93304c7e772d18a2915b0980e87343",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/",
+    "canonical": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/"
+  },
+  "title": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
+  "summary": "Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor.",
+  "published_at": "2026-06-25T22:00:52+00:00",
+  "first_seen_at": "2026-07-22T17:15:05.756127+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-08-04T10:56:00.812935+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/06/ae/ae1c0c330bcadab3949a5218bf1a5d022d93304c7e772d18a2915b0980e87343/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/06/ae/ae1c0c330bcadab3949a5218bf1a5d022d93304c7e772d18a2915b0980e87343/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20298,
+    "sha256": "sha256:409493d7328e90e32d86f4de4ef6a222cc116115ee9aa178a2d52a17c7af6357",
+    "normalized_content_hash": "sha256:6248dbf4130a9c963212f0efa41722a0040b194cbe55628743ee820779442aba"
+  },
+  "provenance": {
+    "source_item_id": "97f5aec6-6a87-45d1-8d29-a3d31b53d94c",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=182868"
+  }
+}

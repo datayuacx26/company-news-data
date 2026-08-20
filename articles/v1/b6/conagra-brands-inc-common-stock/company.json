@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "conagra-brands-inc-common-stock",
+    "name": "ConAgra Brands Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2025-01-02T14:31:35+00:00",
+  "last_published_at": "2026-05-04T13:03:23+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b6/conagra-brands-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10376,
+        "sha256": "sha256:2328407e314a9e71fac3d920da816b26cdd8b3f3da69fb5876c6ac5f43371033",
+        "newest_at": "2026-05-04T13:03:23+00:00",
+        "oldest_at": "2025-01-02T14:31:35+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26aa63a2f6a04b10e59de976be2eb87dad17acc57c0cc0f48baa4311c3debc97",
+  "company": {
+    "key": "weave-communications-inc-common-stock",
+    "name": "Weave Communications Inc."
+  },
+  "source": {
+    "id": "weave-communications-inc-common-stock-rss-cb397ff18858",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.getweave.com/talk/nil-is-not-nil/",
+    "canonical": "https://engineering.getweave.com/talk/nil-is-not-nil/"
+  },
+  "title": "Nil Is Not Nil",
+  "summary": "Nil in go can be tricky when you are working with interfaces",
+  "published_at": "2022-05-10T05:02:11+00:00",
+  "first_seen_at": "2026-07-20T23:19:36.973215+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-07-28T21:04:44.417019+00:00",
+  "paths": {
+    "article": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/26/26aa63a2f6a04b10e59de976be2eb87dad17acc57c0cc0f48baa4311c3debc97/article.md",
+    "record": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/26/26aa63a2f6a04b10e59de976be2eb87dad17acc57c0cc0f48baa4311c3debc97/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4756,
+    "sha256": "sha256:33dd412a408246ab7acc0bd4d85453bdbab9e1df13805caabab79583eb5affda",
+    "normalized_content_hash": "sha256:0736aa8fbd27621b7c8e80ab343c74a490980037574fad6a036a6868ad2a8722"
+  },
+  "provenance": {
+    "source_item_id": "9b7760c6-8cc2-4050-aef0-d9e24a8caff9",
+    "external_id": "https://engineering.getweave.com/talk/nil-is-not-nil/"
+  }
+}

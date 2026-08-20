@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce85762674f0b6ae001b89ac6f2cf4018258786a37754ac070846f69022f35d3",
+  "company": {
+    "key": "ouster-inc-common-stock",
+    "name": "Ouster Inc."
+  },
+  "source": {
+    "id": "ouster-inc-common-stock-news-import-d3df9a0809e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ouster.com/insights/blog/kth-joint-modeling-tgm-transportation",
+    "canonical": "https://ouster.com/insights/blog/kth-joint-modeling-tgm-transportation"
+  },
+  "title": "KTH: Joint Modeling of Static and Dynamic Occupancy for Intelligent Transportation",
+  "summary": "KTH researchers are solving dynamic SLAM with Transitional Grid Maps (TGMs) and Ouster OS1 digital lidar to model static and dynamic occupancy.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T08:00:35.952779+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:55:30.856387+00:00",
+  "paths": {
+    "article": "articles/v1/b1/ouster-inc-common-stock/2026/07/ce/ce85762674f0b6ae001b89ac6f2cf4018258786a37754ac070846f69022f35d3/article.md",
+    "record": "articles/v1/b1/ouster-inc-common-stock/2026/07/ce/ce85762674f0b6ae001b89ac6f2cf4018258786a37754ac070846f69022f35d3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2144,
+    "sha256": "sha256:5ac453824b5c10d38448d8afe894f23bc83bdddb32e15f8a139fae6d0a8e9a46",
+    "normalized_content_hash": "sha256:065cc8c7135e726d787b66a6a3f60dc4ac9cefcf784f341a3cf8f9a54c8789b4"
+  },
+  "provenance": {
+    "source_item_id": "64767e6f-63dd-46eb-9f43-8fada9dc2450",
+    "external_id": "https://ouster.com/insights/blog/kth-joint-modeling-tgm-transportation"
+  }
+}

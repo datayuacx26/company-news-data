@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ce20fb200798128479284ddd75be45d75ccfcb672facb7d72a0e4e0e28f32c0",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/observing-immediate-versus-delayed-payments-with-stripe-workbench",
+    "canonical": "https://stripe.dev/blog/observing-immediate-versus-delayed-payments-with-stripe-workbench"
+  },
+  "title": "Observing immediate versus delayed payments with Stripe Workbench",
+  "summary": "Immediate and delayed payments need to be handled differently within an integration. It’s important to understand what events to listen for and properties to inspect for relevant changes.",
+  "published_at": "2024-08-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:59:29.484597+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/08/8c/8ce20fb200798128479284ddd75be45d75ccfcb672facb7d72a0e4e0e28f32c0/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/08/8c/8ce20fb200798128479284ddd75be45d75ccfcb672facb7d72a0e4e0e28f32c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4263,
+    "sha256": "sha256:2718bed65b8222cd1f0d0b8ab3f9c2cb3ce3d4607e5542e2628b48780e90ed7a",
+    "normalized_content_hash": "sha256:190701e2342235e5f39e7f84d16f398a57476e333bbf3e16506ed38272146098"
+  },
+  "provenance": {
+    "source_item_id": "d8c23899-f965-4990-9c52-10f2b4c62722",
+    "external_id": "https://stripe.dev/blog/observing-immediate-versus-delayed-payments-with-stripe-workbench"
+  }
+}

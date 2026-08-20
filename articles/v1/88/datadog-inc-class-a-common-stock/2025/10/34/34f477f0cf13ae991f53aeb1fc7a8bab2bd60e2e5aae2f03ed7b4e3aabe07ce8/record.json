@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34f477f0cf13ae991f53aeb1fc7a8bab2bd60e2e5aae2f03ed7b4e3aabe07ce8",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/rethinking-reliability/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/rethinking-reliability/"
+  },
+  "title": "Failure is inevitable: Learning from a large outage, and building for reliability in depth at Datadog",
+  "summary": "After a major outage, we re-architected Datadog systems to degrade gracefully under failure. Here’s what we learned—and how we’re building forward.",
+  "published_at": "2025-10-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/10/34/34f477f0cf13ae991f53aeb1fc7a8bab2bd60e2e5aae2f03ed7b4e3aabe07ce8/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/10/34/34f477f0cf13ae991f53aeb1fc7a8bab2bd60e2e5aae2f03ed7b4e3aabe07ce8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18787,
+    "sha256": "sha256:6aa35e649c0d945fbadbb868fef7c043cdd8885fba80d9f0b350adbe0fe1617d",
+    "normalized_content_hash": "sha256:b28d3ec7f566e4eb3da527f23041ec368eb9a01ce53bf96cd99e73fe8381f74e"
+  },
+  "provenance": {
+    "source_item_id": "95db1024-e4f5-4085-bb9d-d75d2e8b0c45",
+    "external_id": "https://www.datadoghq.com/blog/engineering/rethinking-reliability/"
+  }
+}

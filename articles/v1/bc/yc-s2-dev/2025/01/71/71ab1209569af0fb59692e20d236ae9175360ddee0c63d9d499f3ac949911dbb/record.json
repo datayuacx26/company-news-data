@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "71ab1209569af0fb59692e20d236ae9175360ddee0c63d9d499f3ac949911dbb",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/kv-store",
+    "canonical": "https://s2.dev/blog/kv-store"
+  },
+  "title": "One weird trick to durably replicate your KV store",
+  "summary": "A deep dive on using S2 as a shared log to replicate a strongly consistent KV store with append, read, and check-tail operations.",
+  "published_at": "2025-01-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2025/01/71/71ab1209569af0fb59692e20d236ae9175360ddee0c63d9d499f3ac949911dbb/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2025/01/71/71ab1209569af0fb59692e20d236ae9175360ddee0c63d9d499f3ac949911dbb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 39589,
+    "sha256": "sha256:b89932181f2241ca07b79c2123b4926006339fe0b6a3fef273da8e0fb5f5bf09",
+    "normalized_content_hash": "sha256:caae7567bb1da8224d2ccf6886da38279a9b221502eaf43dfbe32a8ae4863227"
+  },
+  "provenance": {
+    "source_item_id": "47dc8423-da17-4f29-ba97-81ed791f574b",
+    "external_id": "https://s2.dev/blog/kv-store"
+  }
+}

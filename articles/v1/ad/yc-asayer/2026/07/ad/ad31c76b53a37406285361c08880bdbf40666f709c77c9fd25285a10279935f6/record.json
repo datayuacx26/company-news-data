@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ad31c76b53a37406285361c08880bdbf40666f709c77c9fd25285a10279935f6",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/accessible-modals-dialog-vs-library/",
+    "canonical": "https://blog.openreplay.com/accessible-modals-dialog-vs-library/"
+  },
+  "title": "Building Accessible Modals: Native `<dialog>` or a Library?",
+  "summary": "Native <dialog> vs library for accessible modals: focus, inert background, ESC, scroll lock, and when custom focus traps still matter.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:38:53.548823+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-03T02:14:43.693941+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/ad/ad31c76b53a37406285361c08880bdbf40666f709c77c9fd25285a10279935f6/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/ad/ad31c76b53a37406285361c08880bdbf40666f709c77c9fd25285a10279935f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20939,
+    "sha256": "sha256:af4a78ac4f9c6cd3a5356ab10b62e5f7e5c4fbc4aeb07ac86b733a16a33680b5",
+    "normalized_content_hash": "sha256:c545a2372506d469abf448d879da4b879325d52014093d0936676f19e089500e"
+  },
+  "provenance": {
+    "source_item_id": "4d9a4ed5-0ada-4eb2-ba3f-0ee70c0da43e",
+    "external_id": "https://blog.openreplay.com/accessible-modals-dialog-vs-library/"
+  }
+}

@@ -1,0 +1,54 @@
+---
+schema_version: "1.0.0"
+document_id: "77a2e82da3aaddfa7f92c408e9440d4fc90465a4f5d9dc6fdd30621538c6d14e"
+company_key: "ftai-aviation-ltd-common-stock"
+company: "FTAI Aviation Ltd."
+source_id: "ftai-aviation-ltd-common-stock-rss-c499715317ea"
+canonical_url: "https://ir.ftaiaviation.com/news-releases/news-release-details/ftai-aviation-ltd-announces-timing-second-quarter-2026-earnings"
+published_at: "2026-06-30T10:30:00+00:00"
+first_seen_at: "2026-07-25T05:51:38.631198+00:00"
+fetched_at: "2026-07-28T21:52:24.088997+00:00"
+content_hash: "sha256:71643337076fe5fb36d5896d774e69622886fc513274d28557574ac29e4ac7e0"
+---
+
+# FTAI Aviation Ltd. Announces Timing of Second Quarter 2026 Earnings and Conference Call
+
+[PDF Version](https://ir.ftaiaviation.com/node/13021/pdf)
+
+
+NEW YORK, June 30, 2026 (GLOBE NEWSWIRE) -- FTAI Aviation Ltd. (NASDAQ: FTAI; the "Company" or “FTAI”) plans to announce its financial results for the second quarter 2026 after the closing of Nasdaq on Wednesday, July 29, 2026. A copy of the press release and an earnings supplement will be posted to the Investor Relations section of the Company's website,[https://www.ftaiaviation.com/](https://www.globenewswire.com/Tracker?data=FXEhNv-PSBWmotma_mhXoDIWSf82tYUYgA7k5a1qYjKZ_miqUN0bxpeXqvzFX8-48bLuYdd_bTaIAmcURJENyJDo5ighVeSCMRR7hgE198nHOyL7A_8Ll9YrhTiUtOL66sd7-cXH2GqMK1NqgvwX8novZ1mjN0cQFu-PgO0eU-ezqKa98mOq2K9E5eFKIs_10E48yy9F9Jj6ukKCPqmDkmIJbvalvujrWBcbXC0K13ty_wI4RrIEIKuAt88gdoovzwO_p86fUhS7qTC5B624BbtEPcc0mWI5K1ctTubRv-nFFGjVTGOw3Cw_lBFe0DgaILZ2gtz3lrjS-MkfiF8o_rfgP8ATcrMKxzraX-9Zd0UUi39hta0Z82BePjdpCeslZoSRRxldiV2-pOziDBNo8bZ_DRMNOc7LNFPdCSL3FoMue9bp-21IsnUlUzyAjUNBqN-gmn8SEKfsUgiZdXB-DYfw2woqO1VHOSp60l9TVE2yhE4pivPC1sHg_Nxyovc_Xt64dm9nQ0n7qa8zVwoNYY_IyAbFNndkvIq-bpclDiGPpCQfdDIVA_Eu05LHY749) .
+
+
+In addition, management will host a conference call on Thursday, July 30, 2026 at 8:00 A.M. Eastern Time. The conference call may be accessed by registering via the following link[https://register-conf.media-server.com/register/BI9c65a898178b489f8ac3487fcee4b03f](https://www.globenewswire.com/Tracker?data=FXEhNv-PSBWmotma_mhXoPFgfWlJmzWOAQN5ACHoOOj5SBjhzB7yollf-fg3yUNKKrpMnTrjIOsuwbria46W2MQetMeGQZRMfwcWR4JkXSn4q6uDW0ZEAZUPMOmHyi-NoD5P1Xim6U4roERYq0gf7moNfvZdA9MkHTswQFL1OSQa6-4UWaOVhYhykwxzzAkP7WRkUAB-EbUTM-9zJ0mLFo8Kj8Ut_ACIGErEyqQ7gMdw0VYgBqYoBs2lrqCdz33BEz1068zINslrHn4zNM51gGhNKMyIS-ww_5yrq1WJmtnzysW-yUiKKyqfremhPNvllFSXirovz4M1biyEZ4SCGrpqFXiS53VDxSZO1Vi9vjfggWtvKOXIzgLZ1XRIL7cV72fyoJYfTA93riZBb4z_f8Abq6JGWkYp4YXbggUb8btx9FxElQEq-OrnBucTjOnIaf6ZmPwTQbt268GnD_SIfUp1HA1WJ2lmPDbiEtAQV_i2ZhYNI9be34H9lOEGOxQ7qgpM7VF14TAh_PKaqv7YSg3OBwH71DzMc3PjFkqiPNY=) . Once registered, participants will receive a dial-in and unique pin to access the call.
+
+
+A simultaneous webcast of the conference call will be available to the public on a listen-only basis at[https://www.ftaiaviation.com/](https://www.globenewswire.com/Tracker?data=FXEhNv-PSBWmotma_mhXoDIWSf82tYUYgA7k5a1qYjJ_kgsai2FJGLu9CHLoWmTsEQ-qKLUYqZhZs6Gu9-0h-tZcJ6kq05l0vY1xx-Jh7U6m0EMj2_9Ymv1JY7h5q5sBucpV1t03M9ZEuqEDyqXTnP8Mcx0CsfsmwzB_tE5zqv0RU34vbX85T0tcrf-CWuCRoZ_nmfx4erfVAiK9gqFhFPrRTkgKgSNe4-l4Gv97CNKxG_zI1h8ckPtpUs1vSyBXmGjvBVlbkvQf26SuGjn_Jn2H3GFdQgsh69rijGv7Iv3F21UGhQU7YhWeTX0X5dniz7o-tZvk0iI5RTFc3FWxsZ-2nFRewclbltj4lqHIQ9cUEQwvi1qLFALcMuI8hhLWujVWRT0jxU65_613d0d_0A8SD_BxuHKk9B2u15N3ra43zOHqw8a02tAe03ZWwF9Gp7MsW02Q2ai8vJQYbKmaWTdlopoYp6lRl2LfxPqKTb0FIFp_vq7RAmpbQyJSgsD0m8GzqoD8Ac9NGq8AFWpdrtb0DXopqh7rslr8xCo9RxhgIrloz4NtvnYcCvP3Aida) . Please allow extra time prior to the call to visit the site and download the necessary software required to listen to the internet broadcast.
+
+
+A replay of the conference call will be available after 11:30 A.M. on Thursday, July 30, 2026 through 11:30 A.M. on Thursday, August 6, 2026 on[https://ir.ftaiaviation.com/news-events/event-calendar/](https://www.globenewswire.com/Tracker?data=FXEhNv-PSBWmotma_mhXoAHUeZihA6WyajHK0Aj9Mt9qilZkjKQrrZBdb3EA9s5lrH8rMrfAfgqprL6mOLvevhJleukwPBeTCDz-luyeb_iDWMBtYrgzszKx58UT1bZrYvX2J5fsepzaHTgJ-d-oLm_VTPN9oEmromzA9bDab6lTpgmPokHMHeAucl1ibvVqR0o3dbSK8ceyJXDUyO826OaDBUzlpGooQed24u3l_J8eCY5WwKBJMzSaLUiGAZkZpdWAyyTtzCjVXAjfMzJpq7gI3EyaMugevNjF6iKhK8LQlLVrGlw8P_NqSzBwXvC4GaUPUbtqxrf5xrBswR9FfcBey-tdvy52baUZryuJIu2KT_QdIH_NCYK1Nd0xdmPT8zIWg_b1VylIVAl4cG-Jv6lS4W3dIr2Klcrpv5o4RRw=) .
+
+
+The information contained on, or accessible through, any websites included in this press release is not incorporated by reference into, and should not be considered a part of, this press release.
+
+
+**About FTAI Aviation Ltd.**
+
+
+FTAI owns and maintains CFM56 and V2500 aircraft engines that power the world’s most widely used commercial aircraft. FTAI’s differentiated Maintenance, Repair and Exchange (“MRE”) product offers time and cost savings to airlines and asset owners globally. In addition, FTAI acquires and manages on-lease aircraft and engines in partnership with institutional investors. Additional information is available at[https://www.ftaiaviation.com/](https://www.globenewswire.com/Tracker?data=FXEhNv-PSBWmotma_mhXoDIWSf82tYUYgA7k5a1qYjLNXAbgZYN6GiriDPjPuN4NwIT__M0WYafXvhGAbzdWqq21JAWdHpg22mx5NLfmhUGKD1r5EU5vVL-GSUE5k9igDbxHPI1Dho2Z7YxVD6tu0alyPFnjqdqZ9Ppe5_kkoVgitsQQQIXaMc2rFB8nW4XzFjc7Q5WE_BCBdj08Nx9EHzraDZuqATgBr2i_Vo4fsU1jG_C-bdcIzUH9eHxG3JED2DS0G7nRQxdWB28ckYF7MC90M6IGcziVoGh9Png-xropfwgoM0O9mECWxPbc3XXx) .
+
+
+**Contacts**
+
+
+Investors
+Alan Andreini
+Investor Relations
+FTAI Aviation Ltd.
+(646) 734-9414
+[aandreini@ftaiaviation.com](https://www.globenewswire.com/Tracker?data=aAlsksM9ROUCDji2QjvULM4L9EtpVhDNlUNy00MZAIqsk96Qbcp_a2ukqqJKPKkUrWFS0X_szxMxzVq3_0vbURgR8GgF8sRKp2R_wb4Oh4AD25km3k0Q6_2Vg5F3OZgP0pG4Cpo_36MopHgvdTDwFeuYuaOjA88GSwUDqWnz3ZYpzrBSPaQX--Dku81SIPY75GegrALtRS0JyBMW4XqRpEdrnpBYleFTh9mza1pAuYqcF78SVMfTpgueETxZzj4JxOWEBbQrakEkZaUy2V0htUAqfh4QDw6qIepKNf9gy5H5UqmhWio5GFPsHOU5QcuTKvDXk5dD6pb-Ed2DTlw5_6u2-6xh5twcsvQaXKXT7Zdu0q6McPDRO2fqUxCVBUpwW-AqIapE52cAThyGJQqims3ABzwTIaS0Aw31KmYJWOao7Yrb_b0moPg0txirwMzi5fWrkZuI6oiKg9MsIgOP6rTY_YUFka9kjtQa9ukg1np0Knfy75QMVjI_oTUts-TCYZKV4UBkVrIMnOkgeNfzK31h55omooZhdcD-enbQWlUU0trlQgBlxci856W0Spay7kkBUQBMOLz0uIVNQ2zQ97vF3ylZKk72ESxyxWbKHOWZOfm_9oXGW8vR3Ussqx1kpeFL6dbX0Dm6knMGu3Swjalh_-JKEPQuKvdySGJ3_qt-9KVvI2hPs4LivOQqNQlUYtbZF-9eN1I-QsI7Jqjcyq8hfA17ttGCZb8mdXL-uuSVHpQFhJ_BgjpjQhajyVg-p4cgVfoK5A9wgWLsFp8Q5hyNJhyy2O2LId5Fywm34m7kRoOB1Z6OcRC2sAlF0NFyrGR0QVoizuMvAwBjPT_lNgTeUMFaaVXHkEX9l6h9G5gyRDdXF9gGfjyuZyMzPEPJ1hodhC-_UYbPMLYKZ6kBXCNDMbBWeKv3yRabRcYWbAdX-kIy_xzF-qrRN9z4mfVdrMRL7oUfkA8ZRoF6Hp3LdET9lELlbIaAHojySABK6cjqxysKJ7cVAfCYtRqNAjCA20fKl7Hc7SzI6uCZFZamAfIvDkqAjQ_njGhg1DPrT-8AxnT9GGsF57z_zrQmO06Y9sWmFfMu-PK-x2mWqQSUECCaEpeQCtfyo_lkBR5cdLmBdelKNmJr-0Cn58yUDNDzTywN48cwfljih5zDeMiuP61SehDEFWIKkhf2pccRIcJcNPiaTS4P580cNiiA6Ha9ZHG7weZlgSNpQ9__3l9_GzRBfBmgwfviuKvv6KuUw4eBEUXSIqo37lDMsssgwbnhrMGpI2YFGlnwQ9VA3UMjejSYt2n40Otoo50MmmtUc4O_5Bpy0Cc7bVs0qGSQgphVm6pVn3DtdgbwAv_bJbuzCPlHa23xjO0wdlmnNHcsOC9zdd6Vy6_TIFCyrECpQhr7v0JDW-0ZtHLvd5I4VZ9xjx60UpJTbUb2jJB6diRMh91EHJpi1sQO_R3g_PvbWkvGKPOtkMZNw-yiLhMigL5jSkkR8dhbDUv_dZTER4WyyrB9Q5Muzndh5uN9UOJWOJnfJwBxgL6KDxTw16v1UpglqenVHCIJFTR9rHB2V0CZELlfJMqjUDSn736CjHVnYkz-DrE2fMF56iSmxwgUG9kG2iqFg2Ed6ACaxzD0HhX7KJsqCRdGryNEB68pXJT9S-d3urmPxKbblnZcxYyG56Sdzo7WojAjZsjCcuiHvNt9_-3GqEswdkbkKcu_PChnZbjLAGflQT01KO5iaScUsrgnhuwdweR8zJwf3wRmvLhFuigDE6vWItEb23-JRISJKa7Wr_bm2f6MQ_Zc94pGOovY7A-4VIjp5oxSPxzYk3Zscyrl2ig77XEI_66S_X1PaMQUhdb1AKaIt-4Adtz-ueAUxQ==)
+
+
+Media
+Tim Lynch / Aaron Palash / Kelly Sullivan
+Joele Frank, Wilkinson Brimmer Katcher
+(212) 355-4449

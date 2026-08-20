@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "553e6f3409a06862d65c040c31c4268e14b7af8615ff94dca857c257d062402b",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster",
+    "canonical": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster"
+  },
+  "title": "How we made our LeRobot video reader up to 15× faster",
+  "summary": "LeRobot has emerged as the dominant open format for robot learning data, but decoding frames is expensive. Here's how we made Daft's native LeRobot reader up to 15× faster.",
+  "published_at": "2026-07-16T08:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:47:26.048705+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T01:29:00.224908+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/07/55/553e6f3409a06862d65c040c31c4268e14b7af8615ff94dca857c257d062402b/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/07/55/553e6f3409a06862d65c040c31c4268e14b7af8615ff94dca857c257d062402b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6393,
+    "sha256": "sha256:31026858c88ca3f060ec42d509c3a590e2473a852a157e8ffb98cf8ea09b41d3",
+    "normalized_content_hash": "sha256:d389d20366d5ae433be776acbc2c09f7321e802b334b5fae9efa72dde079bf4d"
+  },
+  "provenance": {
+    "source_item_id": "de7f5571-9f61-42b0-8e33-d7fbc5c5831f",
+    "external_id": "https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster"
+  }
+}

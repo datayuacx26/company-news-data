@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6874fa8ef2576a25c51026b1229c7a77a98e1e9e9bbb482b7e6c3e1a32b6caa2",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
+    "canonical": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/"
+  },
+  "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
+  "summary": "Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing.",
+  "published_at": "2026-08-11T10:00:16+00:00",
+  "first_seen_at": "2026-08-11T11:22:23.839261+00:00",
+  "fetched_at": "2026-08-11T11:22:25.879278+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/68/6874fa8ef2576a25c51026b1229c7a77a98e1e9e9bbb482b7e6c3e1a32b6caa2/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/68/6874fa8ef2576a25c51026b1229c7a77a98e1e9e9bbb482b7e6c3e1a32b6caa2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24171,
+    "sha256": "sha256:529fc057c1c8f90bcc52396d443c473d9a5e0a31dd92909c5a711225336451c5",
+    "normalized_content_hash": "sha256:b6d04e154e10a8668646e74fad2ccb59f85998e0dccb90f2c930e12e550f07c5"
+  },
+  "provenance": {
+    "source_item_id": "040d0151-0e48-46d2-8028-c0ff7b582c28",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=185086"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "892e7ef9f7d26640ee254709125604700f121579a8201e116ea54f9cb0b83e32",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/scaling-config-delivery-containers/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/scaling-config-delivery-containers/"
+  },
+  "title": "How we scaled fast, reliable configuration distribution to thousands of workload containers",
+  "summary": "Learn how Datadog engineered a highly reliable, low-latency system to distribute per-tenant configuration data across thousands of containers, enabling real-time log processing at scale.",
+  "published_at": "2025-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:57:27.560850+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/89/892e7ef9f7d26640ee254709125604700f121579a8201e116ea54f9cb0b83e32/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/89/892e7ef9f7d26640ee254709125604700f121579a8201e116ea54f9cb0b83e32/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19645,
+    "sha256": "sha256:570f71d522d9f628759e8c50ed867fc236b260bf49b61f0c18b47dcdd35d40fb",
+    "normalized_content_hash": "sha256:9b821def144792eb410fdc465cfd52565e73bbd3ebb802e575bdd5d67d22ad73"
+  },
+  "provenance": {
+    "source_item_id": "7614cea9-2e14-4346-bbae-02645aee72ec",
+    "external_id": "https://www.datadoghq.com/blog/engineering/scaling-config-delivery-containers/"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "wipro-limited-common-stock",
+    "name": "Wipro Limited"
+  },
+  "record_count": 58,
+  "first_published_at": "2020-08-24T17:12:13+00:00",
+  "last_published_at": "2023-10-06T18:03:07+00:00",
+  "partitions": [
+    {
+      "partition": "2020-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 7
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 30
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b9/wipro-limited-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58479,
+        "sha256": "sha256:b37ae2266bd9e83dd64b0c24cb63d18401d7cc19ea20927881f677a68b453e5d",
+        "newest_at": "2026-08-14T15:48:05.815523+00:00",
+        "oldest_at": "2020-10-13T16:51:38+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b9/wipro-limited-common-stock/index/pages/000002.json",
+        "record_count": 8,
+        "byte_count": 11244,
+        "sha256": "sha256:fea8db36d3a9fcddf1e9ed6b7395cced9658f70723ff4200efdfc06b9bcac711",
+        "newest_at": "2020-09-28T08:26:07+00:00",
+        "oldest_at": "2020-08-24T17:12:13+00:00"
+      }
+    ]
+  }
+}

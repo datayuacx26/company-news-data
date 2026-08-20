@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "burford-capital-limited-ordinary-shares",
+    "name": "Burford Capital Limited"
+  },
+  "record_count": 512,
+  "first_published_at": "2024-01-23T00:00:00+00:00",
+  "last_published_at": "2026-08-14T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 22
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 15
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 22
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 18
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 21
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 13
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 8
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 20
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 19
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 18
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 13
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 14
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 21
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 12
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 15
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 18
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 25
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 25
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 23
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 11,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 68380,
+        "sha256": "sha256:fd36ca528ffa463bb91f8f0448db0b7f8748948290eaf178ab530f0b3fcf18b1",
+        "newest_at": "2026-08-14T00:00:00+00:00",
+        "oldest_at": "2026-05-13T12:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 68231,
+        "sha256": "sha256:8031ae2d30a781ea96108aa609f2628f4795d9ed287ef69c28320c0811689d14",
+        "newest_at": "2026-05-12T12:00:00+00:00",
+        "oldest_at": "2026-01-29T12:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 67151,
+        "sha256": "sha256:132a40cb1e7fcdfc1f7e47ffdcf3729586995f5f88ba4c5d343f2db0cca38069",
+        "newest_at": "2026-01-29T12:00:00+00:00",
+        "oldest_at": "2025-11-12T12:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 65028,
+        "sha256": "sha256:aa22cc650de3ded08fe82e8d31ea60bafa1bf9951ff3085ea096f70b42759cb5",
+        "newest_at": "2025-11-11T12:00:00+00:00",
+        "oldest_at": "2025-09-09T12:00:05+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 65608,
+        "sha256": "sha256:cacdb7581bfc589ae3e642c7753f855966db383b3c88bc64d3bce2422579a0bf",
+        "newest_at": "2025-09-09T12:00:04+00:00",
+        "oldest_at": "2025-05-22T12:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 61809,
+        "sha256": "sha256:1e843d07b815d48b0b2cfb8c4c0bb62d81cbf6e17c0dbf4278fc3f287b05a748",
+        "newest_at": "2025-05-22T12:00:00+00:00",
+        "oldest_at": "2025-02-13T00:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 64534,
+        "sha256": "sha256:00a2f4c130ec38ded7fbbeff10cd7041924ebf23c6aa522c2c63dcefe34ee876",
+        "newest_at": "2025-02-10T00:00:00+00:00",
+        "oldest_at": "2024-10-31T00:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 63615,
+        "sha256": "sha256:7378700e314263f16f55ee051f299b9e78f3199c2e03b5b55c23db6599174bd2",
+        "newest_at": "2024-10-30T00:00:00+00:00",
+        "oldest_at": "2024-07-21T00:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 61778,
+        "sha256": "sha256:ab6305067713bf1f5654e96cb862621dbe5753c86e360b62c9598c8cd6c308ec",
+        "newest_at": "2024-07-18T00:00:00+00:00",
+        "oldest_at": "2024-04-22T01:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 61440,
+        "sha256": "sha256:4e7664a5de29659f154fed379b4927805aeefbe4f25bb6f7c36091749f58f9b2",
+        "newest_at": "2024-04-18T12:00:00+00:00",
+        "oldest_at": "2024-02-08T00:00:00+00:00"
+      },
+      {
+        "page": 11,
+        "path": "articles/v1/af/burford-capital-limited-ordinary-shares/index/pages/000011.json",
+        "record_count": 12,
+        "byte_count": 14427,
+        "sha256": "sha256:32ae69cc47637f3a89a0489baf3ef0cc9cebb725789bdefb5512cfcc497a3eae",
+        "newest_at": "2024-02-07T00:00:00+00:00",
+        "oldest_at": "2024-01-23T00:00:00+00:00"
+      }
+    ]
+  }
+}

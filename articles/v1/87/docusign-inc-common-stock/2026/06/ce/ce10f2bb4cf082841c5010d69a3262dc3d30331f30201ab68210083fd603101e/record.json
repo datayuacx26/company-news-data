@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce10f2bb4cf082841c5010d69a3262dc3d30331f30201ab68210083fd603101e",
+  "company": {
+    "key": "docusign-inc-common-stock",
+    "name": "DocuSign Inc."
+  },
+  "source": {
+    "id": "docusign-inc-common-stock-news-import-9953cf346b2b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.docusign.com/blog/architecting-for-millions-how-docusign-processes-agreements-at-scale",
+    "canonical": "https://www.docusign.com/blog/architecting-for-millions-how-docusign-processes-agreements-at-scale"
+  },
+  "title": "Architecting for Millions: How Docusign Processes Agreements at Scale",
+  "summary": "Docusign's AI engine processes over a million agreements a day, extracting more than 50 data points per document at sub-cent inference cost. This is the first post in a four-part series on how we built that pipeline.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:48:27.982719+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T03:23:46.470168+00:00",
+  "paths": {
+    "article": "articles/v1/87/docusign-inc-common-stock/2026/06/ce/ce10f2bb4cf082841c5010d69a3262dc3d30331f30201ab68210083fd603101e/article.md",
+    "record": "articles/v1/87/docusign-inc-common-stock/2026/06/ce/ce10f2bb4cf082841c5010d69a3262dc3d30331f30201ab68210083fd603101e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16681,
+    "sha256": "sha256:fa81fe947a263e501900bca3d2d79848875a26b1fdcae95cec06e202868b2b12",
+    "normalized_content_hash": "sha256:5d1619344a3fcda7ae555db91b25744038ea98f92b401bceac0a0ebb74fd6bd8"
+  },
+  "provenance": {
+    "source_item_id": "a7c64b38-d66e-42cb-968f-2002876c6834",
+    "external_id": "https://www.docusign.com/blog/architecting-for-millions-how-docusign-processes-agreements-at-scale"
+  }
+}

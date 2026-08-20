@@ -1,0 +1,802 @@
+---
+schema_version: "1.0.0"
+document_id: "67ab156de957799c7d66da4f639b69fc79e1b35e66b0487522ceffba9224e6dc"
+company_key: "toro-corp-common-stock"
+company: "Toro Corp."
+source_id: "toro-corp-common-stock-news-import-cfea15e3867e"
+canonical_url: "https://www.globenewswire.com/news-release/2026/05/28/3302909/0/en/toro-corp-reports-net-income-of-0-5-million-for-the-three-months-ended-march-31-2026.html"
+published_at: "2026-05-28T13:00:00+00:00"
+first_seen_at: "2026-07-27T12:25:23.435173+00:00"
+fetched_at: "2026-07-28T21:46:32.935029+00:00"
+content_hash: "sha256:7109e51b4eb5cd65d3fcda0d80f211c1bee7bef41d78e84fab2ee8e1e4ea54e5"
+---
+
+# Toro Corp. Reports Net Income of $0.5 Million for the Three Months Ended March 31, 2026
+
+LIMASSOL, Cyprus, May 28, 2026 (GLOBE NEWSWIRE) -- Toro Corp. (NASDAQ: TORO), (“Toro”, or the “Company”), a global energy transportation provider, today announced its results for the three months ended March 31, 2026.
+
+
+**Highlights of the First Quarter Ended March 31, 2026:**
+
+
+- **Total vessel revenues from continuing operations: $6.0 million, as compared to $5.5 million for the three months ended March 31, 2025, or a 9.1% increase;**
+- **Net income from continuing operations: $0.5 million, as compared to $1.5 million for the three months ended March 31, 2025, or a 66.7% decrease;**
+- **Net income: $0.5 million, as compared to $1.6 million for the three months ended March 31, 2025, or a 68.8% decrease;**
+- **(Loss)/Earnings per common share, basic, from continuing operations: $(0.023) per share, as compared to $0.019 per share for the three months ended March 31, 2025;**
+- **EBITDA** **(1)** **from continuing operations: $1.3 million, as compared to $1.0 million for the three months ended March 31, 2025;**
+- **Cash of $81.6 million as of March 31, 2026, as compared to $87.4 million as of December 31, 2025;**
+- **On December 5, 2025, we declared a special dividend of $1.75 per common share, consisting of either cash or our common shares. The dividend was payable to our shareholders of record at the close of business on December 16, 2025 and was paid on January 16, 2026** **in the form of $9.3 million in cash and 7,378,575 shares of our common stock.**
+- **On March 30, 2026, we entered into an up to $60.0 million revolving credit facility with a leading European financial institution which was partially drawn down on April 2, 2026.**
+
+
+(1) EBITDA is not a recognized measure under United States generally accepted accounting principles (“U.S. GAAP”). Please refer to Appendix B for the definition and reconciliation of this measure to Net income, the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP.
+
+
+**Management Commentary:**
+
+
+Mr. Petros Panagiotidis, Chief Executive Officer of the Company, commented:
+
+
+“In the first quarter of 2026, we delivered solid operational performance across our fleet, reflecting both disciplined execution and full charter coverage. Our strong balance sheet and the recently signed revolving credit facility of up to $60.0 million, provide us with significant financial flexibility and strategic optionality. We remain focused on executing our strategy, pursuing accretive opportunities, and creating sustainable long-term value for our shareholders.”
+
+
+**Earnings Commentary:**
+
+
+**First quarter ended March 31, 2026, and 2025 Results**
+
+
+Total vessel revenues from continuing operations increased to $6.0 million for the three months ended March 31, 2026, compared to $5.5 million for the same period in 2025. This $0.5 million increase mainly reflects the higher contractual hire rates for our LPG carrier and MR tanker vessels, partially offset by the decrease in the Available Days (as defined below) of our fleet to 360 days in the three months ended March 31, 2026 from 446 days in the same period in 2025, due to the change in the composition of our fleet. During the three months ended March 31, 2026, our fleet earned an average Daily TCE Rate of $15,531, compared to $11,480 in the same period of 2025, this increase is mainly due to the change in the composition of our fleet. Daily TCE Rate is not a recognized measure under U.S. GAAP. Please refer to Appendix B for the definition and reconciliation of this measure to Total vessel revenues, the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP.
+
+
+Voyage expenses from continuing operations for our fleet decreased to $0.37 million for the three months ended March 31, 2026, compared to $0.42 million for the same period in 2025. This decrease in voyage expenses was mainly a result of the decrease by $0.08 million in port and other expenses due to the lower costs of European Union Allowances (“EUAs”).
+
+
+The decrease in vessel operating expenses from continuing operations by $0.3 million to $2.3 million in the three months ended March 31, 2026, from $2.6 million in the same period in 2025, mainly reflects the decrease in the Ownership Days (as defined below) of our fleet to 360 days in the three months ended March 31, 2026, from 450 days in the corresponding period in 2025, partially offset by the increase in the Daily vessel operating expenses (defined below) of the vessels in our fleet to $6,479 in the three months ended March 31, 2026 from $5,715 in the same period in 2025, mainly due to the change in the composition of our fleet following the addition in the third quarter of 2025 of the MR tanker vessels which incur higher Daily vessel operating expenses than the LPG carrier vessels.
+
+
+Management fees from continuing operations decreased to $0.4 million in the three months ended March 31, 2026, from $0.5 million in the corresponding period in 2025. This decrease of $0.1 million reflects the decrease in the Ownership Days of our fleet, offset by the increase in management fees from $1,071 per vessel per day to $1,100 per vessel per day effective July 1, 2025, under the terms of the amended and restated master management agreement between us, our ship owning subsidiaries and Castor Ships S.A.
+
+
+Depreciation expenses from continuing operations amounted to $1.3 million in the three months ended March 31, 2026, whereas, in the same period of 2025, depreciation expenses amounted to $1.1 million. This increase is mainly due to higher depreciation expenses of *M/T Wonder Altair* and *M/T Wonder Maia* , offset by the decrease in the Ownership Days of our fleet in the three months ended March 31, 2026, compared to the same period in 2025. Dry-dock amortization charges from continuing operations amounted to $0.1 million for the three months ended March 31, 2026, compared to a charge of $0.2 million in the three months ended March 31, 2025. For the period of three months ended March 31, 2026, the dry-dock amortization charges are related to *LPG Dream Arrax* and *LPG Dream Vermax* which completed their scheduled dry-dock in the second quarter of 2025 and third quarter of 2025, respectively. For the three months ended March 31, 2025, the dry-dock amortization charges are related to *M/T Wonder Mimosa* , which completed its scheduled dry-dock in the third quarter of 2024.
+
+
+General and administrative expenses from continuing operations in the three months ended March 31, 2026, amounted to $2.9 million, whereas, in the same period of 2025, general and administrative expenses totaled $2.4 million. This increase is mainly associated with the stock-based compensation cost for non-vested shares granted under our Equity Incentive Plans amounting to $1.7 million and $0.9 million for the three months ended March 31, 2026 and 2025, respectively.
+
+
+Interest and finance costs, net, from continuing operations amounted to $(0.7) million in the three months ended March 31, 2026, whereas, in the same period of 2025, interest and finance costs, net amounted to $(1.8) million. This variation is mainly due to the decrease in interest income from Castor Maritime Inc. (“Castor”) we earned for the period of three months ended March 31, 2025, as compared with the same period of 2026, as a result of the full repayment by Castor of the $100.0 million senior term loan facility on May 5, 2025.
+
+
+**Recent** **Financial** **Developments Commentary:**
+
+
+**Equity update**
+
+
+On April 15, 2026, we paid to Castor a dividend amounting to $0.4 million on our 1.00% Series A Fixed Rate Cumulative Perpetual Convertible Preferred Shares (the “Series A Preferred Shares”) for the period from January 15, 2026 to April 14, 2026.
+
+
+As of May 28, 2026, we had 28,852,084 common shares issued and outstanding.
+
+
+**Liquidity/Financing/Cash flow update**
+
+
+Our consolidated cash position decreased by $5.8 million, from $87.4 million as of December 31, 2025, to $81.6 million as of March 31, 2026. During the three months ended March 31, 2026, this decrease was mainly driven by (i) $9.6 million of net financing cash flows used in continuing operations, mainly reflecting a $9.3 million payment of special dividend on January 16, 2026 and (ii) $0.4 million of net investing cash flows used in continuing operations, which relates to purchase of debt securities of $0.6 million partially offset by the proceeds from sale of equity securities of $0.4 million. These above net cash outflows were partially offset by (i) $3.8 million of net operating cash flows provided by continuing operations and (iii) $0.4 million of net cash provided by discontinued operations reflecting the decrease in due from related parties.
+
+
+**Recent** **Business** **Developments Commentary:**
+
+
+On April 15, 2026, we received from Castor a dividend on the Castor Series D Preferred Shares, amounting to $1,250,000 for the dividend period from January 15, 2026 to April 14, 2026.
+
+
+On April 15, 2026, we received from Robin a dividend on the Robin Series A Preferred Shares, amounting to $125,000 for the dividend period from January 15, 2026 to April 14, 2026.
+
+
+**Payment of Special Dividend of $1.75 per common share**
+
+
+On December 5, 2025, we declared a special dividend of $1.75 per common share, consisting of either cash or our common shares. The dividend was paid on January 16, 2026 to shareholders of record as of December 16, 2025. Based on shareholder elections, the dividend was paid in the form of $9.3 million in cash and 7,378,575 shares of the Company’s common stock. The number of common shares included for the common share dividend election was calculated based on the 20-day volume weighted average of the trading prices of our common shares on the Nasdaq Stock Market through December 4, 2025, or $3.8386 per share.
+
+
+**New loan facility**
+
+
+On March 30, 2026, we entered into an up to $60.0 million revolving credit facility (the "Facility") with a leading European financial institution which was partially drawn down of $15.0 million on April 2, 2026. The Facility has a tenor of five years, bears interest at a rate of Term SOFR plus a margin, and is secured by, among others, a first priority mortgage over all of the Company’s vessels. The net proceeds from the Facility are expected to be used for general corporate purposes.
+
+
+**Declaration of Special Dividend of $0.90 per common share**
+
+
+On April 22, 2026, we declared a special dividend of $0.90 per common share, consisting of either cash or our common shares. The dividend is payable to our shareholders of record at the close of business on May 4, 2026 and is expected to be paid on June 5, 2026. The number of common shares included for the common share dividend election was calculated based on the 20-day volume weighted average of the trading prices of the Company's common shares on the Nasdaq Stock Market through April 21, 2026, or $3.8821 per share. We reserve the right to determine, at any time up to midnight on June 4, 2026, to pay the dividend entirely in cash, notwithstanding any elections we have received and without prior notice to shareholders.
+
+
+**Fleet Employment Status (as of May 28, 2026):** During the three months ended March 31, 2026, we operated on average 4.0 vessels earning a Daily TCE Rate(1) of $15,531 as compared to an average of 5.0 vessels earning a Daily TCE Rate(1) of $11,480 during the same period in 2025. Our employment profile as of May 28, 2026 is presented immediately below.
+
+
+(1) Daily TCE Rate is not a recognized measure under U.S. GAAP. Please refer to Appendix B for the definition and reconciliation of this measure to Total vessel revenues, the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP.
+
+
+***LPG Carriers***
+
+
+***Name***
+
+
+**Type**
+
+
+**DWT**
+
+
+**Year**
+**Built**
+
+
+**Country of Construction**
+
+
+**Type of Employment**
+
+
+**Gross Charter Rate**
+
+
+**Estimated Redelivery Date**
+
+
+**Earliest** **Latest**
+
+
+*Dream Arrax* LPG carrier 5,000 cbm 4,753 2015 Japan Time Charter period(1) $371,500 per month Nov-26 Dec-26
+
+
+*Dream Vermax* LPG carrier 5,000 cbm 5,155 2015 Japan Time Charter period(2) $362,000 per month Mar- 27 Apr-27
+
+
+***Eco Tankers***
+
+
+***Name***
+
+
+**Type**
+
+
+**DWT**
+
+
+**Year**
+**Built**
+
+
+**Country of Construction**
+
+
+**Type of Employment**
+
+
+**Gross Charter Rate**
+
+
+**Estimated Redelivery Date**
+
+
+**Earliest** **Latest**
+
+
+*M/T Wonder Altair* MR2 50,303 2021 China Time Charter period $20,600 per day Dec-26 Mar-27
+
+
+***Non-Eco Tankers***
+
+
+***Name***
+
+
+**Type**
+
+
+**DWT**
+
+
+**Year**
+**Built**
+
+
+**Country of Construction**
+
+
+**Type of Employment**
+
+
+**Gross Charter Rate**
+
+
+**Estimated Redelivery Date**
+
+
+**Earliest** **Latest**
+
+
+*M/T Wonder Maia* MR2 50,880 2014 South Korea Time Charter
+period $34,000
+per day Apr-27 Jun-27
+
+
+(1) On May 21, 2026, the vessel has been fixed under a new time charter period contract of six months (plus or minus fifteen days in charterer’s option) at $371,500 per day, plus six months at the charterer’s option (plus or minus fifteen days in charterer’s option). The rate for the optional period will be mutually agreed between us and the charterer.
+
+
+(2) On January 23, 2026, it was agreed between us and the charterer that from March 22, 2026 until March 22, 2027 (plus or minus twenty days in charterer’s option), the rate is $362,000 per month, plus twelve months at the charterer’s option (plus or minus twenty days in charterer’s option). The rate for the optional period will be mutually agreed between us and the charterer.
+
+
+**Financial Results (Continuing Operations) Overview:**
+
+
+Set forth below are selected financial and operational data of our fleet (continuing operations) for each of the three months ended March 31, 2026 and 2025, respectively:
+
+
+**Three Months Ended**
+
+
+***(Expressed in U.S. dollars)*** **March 31, 2026** (unaudited) **March 31, 2025** (unaudited)
+
+
+Total vessel revenues $ 5,963,021 $ 5,538,912
+
+
+Operating loss $ (1,478,720 ) $ (1,600,497)
+
+
+Net income and comprehensive income $ 529,409 $ 1,482,736
+
+
+EBITDA(1) $ 1,315,311 $ 955,627
+
+
+(Loss)/Earnings per common share, basic $ (0.023 ) $ 0.019
+
+
+(Loss)/Earnings per common share, diluted $ (0.023 ) 0.017
+
+
+(1) EBITDA is not a recognized measure under U.S. GAAP. Please refer to Appendix B of this release for the definition and reconciliation of this measure to Net income, the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP.
+
+
+**Consolidated Fleet Selected Financial and Operational Data (Continuing Operations):**
+
+
+Set forth below are selected financial and operational data of our fleet (continuing operations) for each of the three months ended March 31, 2026 and 2025, respectively, that we believe are useful in analyzing trends in our results of operations.
+
+
+**Three Months Ended**
+**March 31,**
+
+
+***(Expressed in U.S. dollars except for operational data)*** **2026** **2025**
+
+
+Ownership Days(1)(7) 360 450
+
+
+Available Days(2)(7) 360 446
+
+
+Operating Days(3)(7) 360 446
+
+
+Daily TCE Rate(4) **$** **15,531** **$** **11,480**
+
+
+Fleet Utilization(5)(7) 100% 100%
+
+
+Daily vessel operating expenses(6) **$** **6,479** **$** **5,715**
+
+
+(1) Ownership Days are the total number of calendar days in a period during which we owned a vessel.
+
+
+(2) Available Days are the Ownership Days in a period less the aggregate number of days our vessels are off-hire due to scheduled repairs, dry-dockings or special or intermediate surveys.
+
+
+(3) Operating Days are the Available Days in a period after subtracting unscheduled off-hire and idle days.
+
+
+(4) Daily TCE Rate is not a recognized measure under U.S. GAAP. Please refer to Appendix B for the definition and reconciliation of this measure to Total vessel revenues, the most directly comparable financial measure calculated and presented in accordance with U.S. GAAP.
+
+
+(5) Fleet Utilization is calculated by dividing the Operating Days during a period by the number of Available Days during that period.
+
+
+(6) Daily vessel operating expenses are calculated by dividing vessel operating expenses for the relevant period by the Ownership Days for such period.
+
+
+(7) Our definitions of Ownership Days, Available Days, Operating Days and Fleet Utilization may not be comparable to those reported by other companies.
+
+
+**APPENDIX A**
+
+
+**TORO CORP.** **Unaudited Condensed Consolidated Statements of Comprehensive Income** **(Expressed in U.S. Dollars—except for number of share data)**
+
+
+**Three Months Ended**
+**March 31,**
+
+
+**2026** **2025**
+
+
+**REVENUES**
+
+
+Time charter revenues 5,963,021 3,951,748
+
+
+Pool revenues — 1,587,164
+
+
+**Total vessel revenues** **$** **5,963,021** **$** **5,538,912**
+
+
+**EXPENSES**
+
+
+Voyage expenses (including commissions to related party)
+
+
+(371,944
+
+
+)
+
+
+(418,808
+
+
+)
+
+
+Vessel operating expenses (2,332,266 ) (2,571,739 )
+
+
+General and administrative expenses (including related party fees)
+
+
+(2,902,970
+
+
+)
+
+
+(2,386,061
+
+
+)
+
+
+Management fees - related parties (396,500 ) (481,950 )
+
+
+Depreciation and amortization (1,438,061 ) (1,280,851 )
+
+
+**Operating loss** **$** **(1,478,720** **)** **$** **(1,600,497** **)**
+
+
+Interest and finance costs, net (1)
+
+
+652,159
+
+
+1,807,960
+
+
+Other expenses, net(2) (19,030 ) 25,273
+
+
+Dividend income from related party 1,375,000 1,250,000
+
+
+**Net income and comprehensive income** **from continuing operations, net of taxes**
+
+
+**$** **529,409** **$** **1,482,736**
+
+
+**Net (loss)/income and comprehensive (loss)/income from discontinued operations, net of taxes**
+
+
+**$** **(2,425** **)** **$** **102,360**
+
+
+**Net income and comprehensive income** **$** **526,984** **$** **1,585,096**
+
+
+Dividend on Series A Preferred Shares (350,000 ) (350,000 )
+
+
+Deemed dividend on Series A Preferred Shares (810,702 ) (771,129 )
+
+
+**Net (loss)/income attributable to common shareholders**
+
+
+**$** **(633,718** **)** **$** **463,967**
+
+
+**(Loss)/Earnings per common share, basic, continuing operations** **$** **(0.023** **)** **$** **0.019**
+
+
+**(Loss)/Earnings per common share, diluted, continuing operations** **$** **(0.023** **)** **$** **0.017**
+
+
+**(Loss)/Earnings per common share, basic, discontinued operations** **$** **(0.0001** **)** **$** **0.006**
+
+
+**(Loss)/Earnings per common share, diluted, discontinued operations** **$** **(0.0001** **)** **$** **0.001**
+
+
+**(Loss)/Earnings per common share, basic, total** **$** **(0.023** **)** **$** **0.025**
+
+
+**(Loss)/Earnings per common share, diluted, total** **$** **(0.023** **)** **$** **0.018**
+
+
+Weighted average number of common shares outstanding, basic: 24,392,322 17,653,853
+
+
+Weighted average number of common shares outstanding, diluted: 24,392,322 87,342,635
+
+
+(1) Includes interest and finance costs and interest income (including interest income from related party), if any.
+(2) Includes aggregated amounts for foreign exchange gains/(losses), gain/(loss) on equity and debt securities and other income, as applicable in each period.
+
+
+**TORO CORP. Unaudited Condensed Consolidated Balance Sheets (Expressed in U.S. Dollars—except for number of share data)** ****
+
+
+**March 31,**
+**2026** **December 31,**
+**2025**
+
+
+**ASSETS**
+
+
+**CURRENT ASSETS:**
+
+
+Cash and cash equivalents **$** 81,639,618 **$** 87,418,906
+
+
+Due from related parties 6,905,876 7,431,696
+
+
+Other current assets 1,457,244 1,037,668
+
+
+Current assets of discontinued operations 9,340 416,159
+
+
+**Total current assets** **90,012,078** **96,304,429**
+
+
+**NON-CURRENT ASSETS:**
+
+
+Vessels, net 94,843,835 96,180,562
+
+
+Due from related parties 1,341,549 1,341,549
+
+
+Investment in related party 127,118,569 127,118,569
+
+
+Other non-currents assets 10,305,588 10,402,187
+
+
+**Total non-current assets** **233,609,541** **235,042,867**
+
+
+**Total assets** **323,621,619** **331, 347,296**
+
+
+**LIABILITIES, MEZZANINE EQUITY AND SHAREHOLDERS’ EQUITY**
+
+
+**CURRENT LIABILITIES:**
+
+
+Due to related parties 299,444 299,444
+
+
+Other current liabilities 2,434,753 2,745,421
+
+
+Dividend Payable — 37,578,641
+
+
+Current liabilities of discontinued operations 1,314,075 1,315,502
+
+
+**Total current liabilities** **4,048,272** **41,939,008**
+
+
+**NON-CURRENT LIABILITIES:**
+
+
+**Total non-current liabilities** —
+
+
+**Total liabilities** **4,048,272** **41,939,008**
+
+
+**MEZZANINE EQUITY:**
+
+
+1.00% Series A fixed rate cumulative perpetual convertible
+preferred shares: 140,000 shares issued and outstanding as of March 31, 2026
+and December 31, 2025, respectively, aggregate liquidation
+preference of $140,000,000 as of March 31, 2026 and December 31,
+2025, respectively. 126,619,935 125,809,233
+
+
+**Total mezzanine equity** **126,619,935** **125,809,233**
+
+
+**SHAREHOLDERS’ EQUITY:**
+
+
+Common shares, $0.001 par value: 3,900,000,000 shares authorized;
+28,852,084 and 21,473,059 issued and outstanding as of March 31,
+2026 and December 31, 2025, respectively. 28,852 21,474
+
+
+Preferred shares, $0.001 par value: 100,000,000 shares authorized;
+Series B preferred shares: 40,000 shares issued and outstanding as of
+March 31, 2026 and December 31, 2025, respectively. 40 40
+
+
+Additional paid-in capital 89,285,511 59,304,814
+
+
+Retained Earnings 103,639,009 104,272,727
+
+
+**Total shareholders’ equity** **192,953,412** **163,599,055**
+
+
+**Total liabilities, mezzanine equity and shareholders’ equity** **$** **323,621,619** **$** **331,347,296**
+
+
+**TORO CORP.**
+**Unaudited Condensed Consolidated Statements of Cash Flows**
+
+
+**(Expressed in U.S. Dollars)** **Three Months Ended March 31,**
+
+
+**2026** **2025**
+
+
+**Cash Flows (used in)/provided by Operating Activities** **of continuing operations:**
+
+
+Net income $ 526,984 $ 1,585,096
+
+
+Less: Net loss/(income) from discontinued operations, net of taxes 2,425 (102,360 )
+
+
+Net income from continuing operations, net of taxes 529,409 1,482,736
+
+
+**Adjustments to reconcile net income from continuing operations to net cash provided by Operating activities:**
+
+
+Depreciation and amortization 1,438,061 1,280,851
+
+
+Amortization of investment in debt securities (6,119 ) —
+
+
+Stock based compensation cost 1,664,678 927,842
+
+
+Straight line amortization of hire (2,945 ) (80,211 )
+
+
+Unrealized gain on equity securities — (21,177 )
+
+
+Unrealized foreign exchange loss on debt securities 16,489 —
+
+
+Realized loss on sale of equity securities 3,735 —
+
+
+**Changes in operating assets and liabilities:**
+
+
+Accounts receivable trade (45,788 ) (175,431 )
+
+
+Inventories (59,590 ) (148,885 )
+
+
+Due from/to related parties 525,820 1,568,368
+
+
+Prepaid expenses and other assets 52,291 (105,133 )
+
+
+Accounts payable 180,876 726,965
+
+
+Accrued liabilities 93,305 447,457
+
+
+Deferred revenue (383,433 ) —
+
+
+Dry-dock costs paid (189,451 ) (15,669 )
+
+
+**Net Cash provided by Operating Activities from continuing operations** **3,817,338** **5,887,713**
+
+
+**Cash flow (used in)/provided by Investing Activities** **of continuing operations:**
+
+
+Other vessel improvements (11,407 ) —
+
+
+Purchase of debt securities (588,135 ) —
+
+
+Proceeds from sale of equity securities 205,751 —
+
+
+Proceeds from repayment of loan to related party — 50,000,000
+
+
+**Net cash (used in)/provided by Investing Activities** **from continuing operations** **(393,791** **)** **50,000,000**
+
+
+**Cash flows (used in)/provided by Financing Activities of continuing operations:**
+
+
+Payments for expenses pursuant to Tender Offer (559 ) —
+
+
+Payment of Dividend on Series A Preferred
+
+
+Shares (350,000 ) (350,000 )
+
+
+Payment of special dividend (9,255,243 ) —
+
+
+**Net cash used in Financing Activities from continuing operations** **(9,605,802** **)** **(350,000** **)**
+
+
+**Cash flows of discontinued operations:**
+
+
+Net cash provided by/(used in) Operating Activities from discontinued operations 402,684 (7,065 )
+
+
+**Net cash provided by/(used in) discontinued operations** **402,684** **(7,065** **)**
+
+
+**Net (decrease)/increase in cash and cash equivalents** **(5,779,571** **)** **55,530,648**
+
+
+**Cash and cash equivalents at the beginning of the period from continuing and discontinued operations**
+
+
+**87,422,427**
+
+
+**37,197,848**
+
+
+**Cash and cash equivalents at the end of the period from continuing and discontinued operations** **$**
+
+
+**81,642,856** **$**
+
+
+**92,728,496**
+
+
+**APPENDIX B**
+
+
+**Non-GAAP Financial Information**
+
+
+**Daily Time Charter Equivalent (“TCE”) Rate.** The Daily Time Charter Equivalent Rate (“Daily TCE Rate”), is a measure of the average daily revenue performance of a vessel. The Daily TCE Rate is not a measure of financial performance under U.S. GAAP (i.e., it is a non-GAAP measure) and should not be considered as an alternative to any measure of financial performance presented in accordance with U.S. GAAP. We calculate Daily TCE Rate by dividing total revenues (time charter and/or voyage charter revenues, and/or pool revenues, net of charterers’ commissions), less voyage expenses, by the number of Available Days during that period. Under a time charter, the charterer pays substantially all the vessel voyage related expenses. However, we may incur voyage related expenses when positioning or repositioning vessels before or after the period of a time or other charter, during periods of commercial waiting time or while off-hire during dry-docking or due to other unforeseen circumstances. Under voyage charters, the majority of voyage expenses are generally borne by us whereas for vessels in a pool, such expenses are borne by the pool operator. The Daily TCE Rate is a standard shipping industry performance measure used primarily to compare period-to-period changes in a company’s performance and, management believes that the Daily TCE Rate provides meaningful information to our investors because it compares daily net earnings generated by our vessels irrespective of the mix of charter types (e.g., time charter, voyage charter, pools) under which our vessels are employed between the periods while it further assists our management in making decisions regarding the deployment and use of our vessels and in evaluating our financial performance. Our calculation of the Daily TCE Rates may be different from and may not be comparable to that reported by other companies.
+
+
+The following table reconciles the calculation of the Daily TCE Rate for our fleet (continuing operations) to Total vessel revenues, the most directly comparable U.S. GAAP financial measure, for the periods presented:
+
+
+**Three Months Ended**
+**March 31,**
+
+
+*(In U.S. dollars, except for Available Days)* **2026** **2025**
+
+
+Total vessel revenues $ 5,963,021 $ 5,538,912
+
+
+Voyage expenses including commissions to related party (371,944 ) (418,808 )
+
+
+**TCE revenues** **$** **5,591,077** **$** **5,120,104**
+
+
+Available Days 360 446
+
+
+**Daily TCE Rate** **$** **15,531** **$** **11,480**
+
+
+**EBITDA.** EBITDA is not a measure of financial performance under U.S. GAAP, does not represent and should not be considered as an alternative to net income, operating income, cash flow from operating activities or any other measure of financial performance presented in accordance with U.S. GAAP. We define EBITDA as earnings before interest and finance costs (if any), net of interest income, taxes (when incurred), depreciation and amortization of deferred dry-docking costs. EBITDA is used as a supplemental financial measure by management and external users of financial statements to assess our operating performance. We believe that EBITDA assists our management by providing useful information that increases the comparability of our operating performance from period to period and against the operating performance of other companies in our industry that provide EBITDA information. This increased comparability is achieved by excluding the potentially disparate effects between periods or companies of interest, other financial items, depreciation and amortization and taxes, which items are affected by various and possibly changing financing methods, capital structure and historical cost basis and which items may significantly affect net income between periods. We believe that including EBITDA as a measure of operating performance benefits investors in (a) selecting between investing in us and other investment alternatives and (b) monitoring our ongoing financial and operational strength. EBITDA as presented below may be different from and may not be comparable to similarly titled measures of other companies. The following table reconciles EBITDA to Net Income from continuing operations, net of taxes, the most directly comparable U.S. GAAP financial measure, for the periods presented:
+
+
+**Reconciliation of EBITDA to Net Income**
+
+
+**Three Months Ended March 31,**
+
+
+*(In U.S. dollars)* **2026** **2025**
+
+
+**Net Income from continuing operations, net of taxes** **$**
+
+
+**529,409** **$**
+
+
+**1,482,736**
+
+
+Depreciation and amortization 1,438,061 1,280,851
+
+
+Interest and finance costs, net(1) (652,159) (1,807,960)
+
+
+**EBITDA** **$** **1,315,311** **$** **955,627**
+
+
+**Cautionary Statement Regarding Forward-Looking Statements**
+
+
+Matters discussed in this press release may constitute forward-looking statements. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Forward-looking statements include statements concerning plans, objectives, goals, strategies, future events or performance, and underlying assumptions and other statements, which are other than statements of historical facts. We are including this cautionary statement in connection with this safe harbor legislation. The words “believe,” “anticipate,” “intend,” “estimate,” “forecast,” “project,” “plan,” “potential,” “will,” “may,” “should,” “expect,” “pending” and similar expressions identify forward-looking statements.
+
+
+The forward-looking statements in this press release are based upon various assumptions, many of which are based, in turn, upon further assumptions, including without limitation, our management’s examination of current or historical operating trends, data contained in our records and other data available from third parties. Although we believe that these assumptions were reasonable when made, because these assumptions are inherently subject to significant uncertainties and contingencies which are difficult or impossible to predict and are beyond our control, we cannot assure you that we will achieve or accomplish these forward-looking statements, including these expectations, beliefs or projections. In addition to these important factors, other important factors that, in our view, could cause actual results to differ materially from those discussed in the forward‐looking statements include generally: the effects of our spin-off from Castor Maritime Inc., the effects of the Robin Spin-Off, our business strategy, expected capital spending and other plans and objectives for future operations, including our ability to expand our business as a new entrant to the tanker and liquefied petroleum gas shipping industry, market conditions and trends, including volatility and cyclicality in charter rates (particularly for vessels employed in the spot voyage market or pools), factors affecting supply and demand for vessels, such as fluctuations in demand for and the price of the products we transport, fluctuating vessel values, changes in worldwide fleet capacity, opportunities for the profitable operations of vessels in the segments of the shipping industry in which we operate and global economic and financial conditions, including interest rates, inflation and the growth rates of world economies, our ability to realize the expected benefits of vessel acquisitions or sales and the effects of any change in our fleet’s size or composition, increased transactions costs and other adverse effects (such as lost profit) due to any failure to consummate any sale of our vessels, our future financial condition, operating results, future revenues and expenses, future liquidity and the adequacy of cash flows from our operations, our relationships with our current and future service providers and customers, including the ongoing performance of their obligations, dependence on their expertise, compliance with applicable laws, and any impacts on our reputation due to our association with them, our ability to comply with the covenants contained in our existing credit facility, the availability of additional debt or equity financing on acceptable terms and our ability to comply with the covenants contained in agreements relating thereto, in particular due to economic, financial or operational reasons, our continued ability to enter into time charters, voyage charters or pool arrangements with existing and new customers and pool operators and to re-charter our vessels upon the expiry of the existing charters or pool agreements, any failure by our contractual counterparties to meet their obligations, changes in our operating and capitalized expenses, including bunker prices, dry-docking, insurance costs, costs associated with regulatory compliance and costs associated with climate change, our ability to fund future capital expenditures and investments in the acquisition and refurbishment of our vessels (including the amount and nature thereof and the timing of completion thereof, the delivery and commencement of operations dates, expected downtime and lost revenue), instances of off-hire, fluctuations in interest rates and currencies, including the value of the U.S. dollar relative to other currencies, any malfunction or disruption of information technology systems and networks that our operations rely on or any impact of a possible cybersecurity breach, existing or future disputes, proceedings or litigation, future sales of our securities in the public market, our ability to maintain compliance with applicable listing standards or the delisting of our common shares, volatility in our share price, potential conflicts of interest involving members of our board of directors, senior management and certain of our service providers that are related parties, general domestic and international political conditions, such as political instability, events or conflicts (including armed conflicts, such as the war in Ukraine and the conflict in the Middle East, including the outbreak of war in Iran and effective closure of the Strait of Hormuz, as well as any further broadening of the conflict), acts of piracy or maritime aggression, such as recent maritime incidents involving vessels in and around the Red Sea, sanctions, “trade wars” (including the imposition of tariffs) and potential governmental requisitioning of our vessels during a period of war or emergency, global public health threats and major outbreaks of disease, any material cybersecurity incident, changes in seaborne and other transportation, including due to the maritime incidents in and around the Red Sea, fluctuating demand for tanker and LPG carriers and/or disruption of shipping routes due to accidents, political events, international sanctions, international hostilities and instability, piracy, smuggling or acts of terrorism, changes in governmental rules and regulations or actions taken by regulatory authorities, including changes to environmental regulations applicable to the shipping industry and to vessel rules and regulations, as well as changes in inspection procedures and import and export controls, inadequacies in our insurance coverage, developments in tax laws, treaties or regulations or their interpretation in any country in which we operate and changes in our tax treatment or classification, the impact of climate change, adverse weather and natural disasters, accidents or the occurrence of other unexpected events, including in relation to the operational risks associated with transporting LPG, crude oil and/or refined petroleum products and any other factors described in our filings with the SEC.
+
+
+The information set forth herein speaks only as of the date hereof, and we disclaim any intention or obligation to update any forward‐looking statements as a result of developments occurring after the date of this communication, except to the extent required by applicable law. New factors emerge from time to time, and it is not possible for us to predict all or any of these factors. Further, we cannot assess the impact of each such factor on our business or the extent to which any factor, or combination of factors, may cause actual results to be materially different from those contained in any forward-looking statement. Please see our filings with the Securities and Exchange Commission for a more complete discussion of these foregoing and other risks and uncertainties. These factors and the other risk factors described in this press release are not necessarily all of the important factors that could cause actual results or developments to differ materially from those expressed in any of our forward-looking statements. Given these uncertainties, prospective investors are cautioned not to place undue reliance on such forward-looking statements.
+
+
+**CONTACT DETAILS**
+For further information please contact:
+
+
+Investor Relations
+Toro Corp.
+Email: ir@torocorp.com

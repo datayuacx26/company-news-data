@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b41cd05c264994506aa5ef6f8b998b21b7c87d459e400ac4d7f4137b4703fae",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/nginx-proxy-v2-forwarded-header-hpack-overflow",
+    "canonical": "https://winfunc.com/hacktivity/nginx-proxy-v2-forwarded-header-hpack-overflow"
+  },
+  "title": "HTTP/2 upstream proxy request encoder permits heap overflow with oversized raw headers (CVE-2026-42055)",
+  "summary": "When proxyhttpversion 2 sends a request to an HTTP/2 upstream, ngxhttpproxyv2createrequest() builds an HPACK-compressed request header block. Before the…",
+  "published_at": "2026-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/06/8b/8b41cd05c264994506aa5ef6f8b998b21b7c87d459e400ac4d7f4137b4703fae/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/06/8b/8b41cd05c264994506aa5ef6f8b998b21b7c87d459e400ac4d7f4137b4703fae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9590,
+    "sha256": "sha256:3edd9c0dd4d3fab67dd00bceaa4c89d94db06b79fa5fc72ccb1e053ffd0a4acd",
+    "normalized_content_hash": "sha256:57034d7091d412add37c367393323c54f834558bb730494940845bccf65cff9c"
+  },
+  "provenance": {
+    "source_item_id": "d7da3740-9775-4a23-af10-6a3cd5d28b15",
+    "external_id": "https://winfunc.com/hacktivity/nginx-proxy-v2-forwarded-header-hpack-overflow"
+  }
+}

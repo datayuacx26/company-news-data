@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "263bb571c96293f51fa7f8b026a0c413842004033cc285e0edec307581baae4c",
+  "company": {
+    "key": "yc-autumn",
+    "name": "Autumn"
+  },
+  "source": {
+    "id": "yc-autumn-news-import-b2979559dee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://useautumn.com/blog/ai-billing-infrastructure",
+    "canonical": "https://useautumn.com/blog/ai-billing-infrastructure"
+  },
+  "title": "How to build a credit ledger that scales",
+  "summary": "Metering token usage needs a different type of infrastructure. This article is about how to build a counter and ledger that works at high throughput and concurrency.",
+  "published_at": "2026-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:47:32.127868+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-20T02:38:41.109775+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-autumn/2026/07/26/263bb571c96293f51fa7f8b026a0c413842004033cc285e0edec307581baae4c/article.md",
+    "record": "articles/v1/9c/yc-autumn/2026/07/26/263bb571c96293f51fa7f8b026a0c413842004033cc285e0edec307581baae4c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16531,
+    "sha256": "sha256:14c345dfe7f899c895863fe32e96554a92bdea1086d871977d58471e63225d63",
+    "normalized_content_hash": "sha256:1d7eaaedc2fbaa2df6d53dc732744a9f345d8640f1c3b56790b7a685ba726573"
+  },
+  "provenance": {
+    "source_item_id": "ce885051-f85e-450b-a329-25a56d0fddde",
+    "external_id": "https://useautumn.com/blog/ai-billing-infrastructure"
+  }
+}

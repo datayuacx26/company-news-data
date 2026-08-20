@@ -1,0 +1,119 @@
+---
+schema_version: "1.0.0"
+document_id: "6ee5811cc6ae66e3739990df2040430347831183b131379278f8da042432c024"
+company_key: "yc-flagright"
+company: "Flagright"
+source_id: "yc-flagright-news-import-ace9cee3e95e"
+canonical_url: "https://www.flagright.com/post/stop-choosing-between-ai-and-aml-rules"
+published_at: "2026-05-12T00:00:00+00:00"
+first_seen_at: "2026-07-25T05:15:45.844172+00:00"
+fetched_at: "2026-08-19T15:57:35.732127+00:00"
+content_hash: "sha256:f19b032fabf227d1d21bd367b8dda6ce167105ab044b3e2a2bbb2128d97046d2"
+---
+
+# Stop Choosing Between AI and Rules —The Winning Strategy Uses Both
+
+Every compliance technology conversation eventually arrives at some version of the same question: are we moving toward AI, or staying with rules? The framing implies a choice: an either/or decision about where to place your institution's detection bet.
+
+
+That framing is wrong. And the institutions that treat it as a real choice are building programs with unnecessary blind spots.
+
+
+This piece makes the case for a different architecture: one where rules and AI are not competing philosophies but complementary layers, each purpose-built for the work it does best. For compliance and technology executives, understanding where this boundary sits, and how to manage the interface between the two, is becoming one of the most important design decisions in financial crime program management.
+
+
+## **The Case for Rules: Don't Discard What Works**
+
+
+[Rules-based detection](https://www.flagright.com/post/ai-vs-rules-based-transaction-monitoring-why-a-hybrid-approach-wins) has been the backbone of financial crime compliance for decades, and there are good reasons it has lasted. A well-crafted rule is fast, transparent, and directly traceable to a regulatory requirement. When a rule flags a cash transaction above ten thousand dollars, there is nothing ambiguous about why the alert was generated. The logic is explicit, the mapping to regulation is clear, and any examiner can follow the chain from transaction to alert in seconds.
+
+
+This explainability is not a secondary concern; it is a compliance requirement. Rules have been tested in examinations, documented in procedures, and approved by regulators. For many of the most clear-cut requirements in AML and sanctions compliance, rules do exactly what they are supposed to do, and they do it reliably.
+
+
+The argument for abandoning rules in favor of AI-only detection misunderstands what rules are actually for. They are not a[legacy system waiting to be replaced](https://www.flagright.com/post/best-practices-for-switching-from-a-legacy-transaction-monitoring-tool) . They are a precise, accountable mechanism for detecting known, well-defined patterns of behavior — and for those patterns, they remain the right tool.
+
+
+## **Where Rules Fall Short**
+
+
+Rules fail at nuance. That is not a criticism; it is a design characteristic. A rule operates on explicit conditions: if X happens, generate an alert. What rules cannot do is reason about context, detect patterns that span multiple accounts over time, identify behavioral shifts, or recognize the kind of sophisticated layering that characterizes the most serious financial crime.
+
+
+Consider structuring: the practice of breaking large cash transactions into smaller ones to stay below reporting thresholds. A rule can flag transactions that come close to the threshold, and it will. But distinguishing legitimate small transactions from deliberate structuring requires analyzing patterns across time, understanding the customer's normal behavior, examining counterparty relationships, and applying judgment about what the aggregate picture suggests. Rules can generate the alerts. They cannot investigate them.
+
+
+- **Structuring schemes** that stay just below detection thresholds across multiple accounts and time periods
+- **Layering transactions** through complex counterparty webs designed to obscure the origin of funds
+- **Subtle behavioral shifts** that indicate a change in a customer's risk profile without triggering any single rule
+- **Novel typologies** that do not match any existing rule pattern but share characteristics with known schemes
+
+
+For these patterns, AI is not a nice-to-have; it is the only tool capable of doing the work. Therefore, the question is not whether AI belongs in a compliance program. It is where.
+
+
+## **The Architecture That Actually Works**
+
+
+The answer is not to choose between rules and AI. It is to understand that they operate at different stages of the same workflow and to build an architecture that uses each layer where it performs best.
+
+
+- **Rules handle detection.** They are the front line because they are fast, explicit, regulator-approved, and directly traceable to policy requirements. Their job is to generate alerts when defined conditions are met. They do this well, and they should continue to do it.
+- **AI handles investigation.** Once an alert is generated by a rule, by a model, or by any other detection mechanism, the question of what to do with it is a different kind of problem. It requires gathering evidence, applying judgment, reasoning about context, and reaching a defensible conclusion. This is where AI forensics operates.
+
+
+## **Integration in Practice**
+
+
+The practical question for compliance executives is how to build this integration without creating a patchwork of disconnected systems that is difficult to govern and impossible to audit consistently.
+
+
+The most effective approach treats the rules layer and the AI layer as part of a single compliance infrastructure with shared back-testing capabilities, shared observability, and shared governance frameworks. This matters for several reasons.
+
+
+First, **performance measurement.** If you can back-test a rule against historical transaction data to see how many alerts it would have generated and at what accuracy, you should be able to back-test an AI agent against the same data to see how it would have disposed of those alerts. Using the same infrastructure for both creates a consistent basis for evaluating performance across the entire detection-and-investigation stack.
+
+
+Second, **observability** . Compliance leaders need visibility into what is happening at every layer of their program, not separate dashboards for rules and AI, but integrated monitoring that shows the end-to-end flow from transaction to disposition. When something goes wrong, you need to be able to trace it through the entire chain quickly.
+
+
+Third, **regulatory presentation** . When an examiner reviews your compliance program, they are looking at the whole, not the rules layer separately from the AI layer. Being able to present an integrated, coherent program where every component is documented, tested, and governed consistently is meaningfully different from presenting two separate systems that happen to be connected.
+
+
+## **Testing Before You Deploy**
+
+
+One of the most important operational practices for institutions running integrated rules-and-AI programs is rigorous back-testing before any change goes into production, whether that change is a new rule, a modified threshold, or a new AI agent configuration.
+
+
+Flagright's platform shares back-testing infrastructure between rules and AI agents. Institutions can validate both detection logic and investigative AI against the same historical data, creating a consistent performance baseline before any deployment decision.
+
+
+For[AI Forensics](https://www.flagright.com/ai-forensics) specifically, back-testing works by running the configured agent against historical alert data and comparing its dispositions to what analysts actually decided on those same cases. This gives compliance leaders empirical evidence, not theoretical confidence, about how the agent performs in their specific environment, with their specific customer base and transaction patterns.
+
+
+This capability is particularly important in regulated environments where[the cost of getting it wrong is high](https://www.flagright.com/post/the-high-cost-of-aml-non-compliance) . A back-test that shows the agent dispositioning 95 percent of alerts consistently with analyst judgment along with well-documented rationale for the remaining 5 percent is a meaningful piece of evidence for regulators, for the board, and for the compliance team's own confidence in the system.
+
+
+## **The Governance Imperative**
+
+
+Integrated programs require integrated governance. For executives thinking about how to manage this architecture, a few principles are worth establishing clearly.
+
+
+**Human oversight remains the default.** Unless a specific queue has been explicitly approved for autonomous operation based on demonstrated performance, defined risk appetite, and documented governance controls, alerts require human review. The AI recommends; the human decides. This is not a limitation of the technology; it is the appropriate posture for building regulatory trust over time.
+
+
+**Autonomy is earned incrementally.** As agents demonstrate consistent, well-reasoned performance on back-tested data and then on live alerts in assisted mode, the case for expanding their autonomy grows. Institutions that approach this expansion systematically: documenting each step, monitoring performance continuously, and maintaining clear escalation paths; build programs that regulators can examine and understand.
+
+
+[Explainability is non-negotiable at every layer.](https://www.flagright.com/post/ensuring-explanability-in-your-fraud-detection-models) Whether an alert was generated by a rule or flagged by an AI model, and whether the disposition was made by an agent or a human analyst, every step must be traceable. In a regulated environment, "the AI decided" is not a sufficient answer. "The AI agent followed this SOP, consulted these data sources, applied this reasoning, and recommended this disposition which the analyst reviewed and confirmed" is.
+
+
+## **The Strategic Conclusion**
+
+
+The financial institutions that will lead on financial crime compliance over the next decade are not the ones that adopt the most AI. They are the ones that build the most coherent, defensible, and scalable programs where every layer is doing the right work, every decision is traceable, and every component is governed with the rigor that regulators expect.
+
+
+Rules and AI are not alternatives. They are partners. The architecture that uses both, with clarity about where each belongs and shared infrastructure to govern the whole, is the architecture that wins.

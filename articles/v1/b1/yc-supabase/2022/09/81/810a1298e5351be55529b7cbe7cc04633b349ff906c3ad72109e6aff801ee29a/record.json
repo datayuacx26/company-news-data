@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "810a1298e5351be55529b7cbe7cc04633b349ff906c3ad72109e6aff801ee29a",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/choosing-a-postgres-primary-key",
+    "canonical": "https://supabase.com/blog/choosing-a-postgres-primary-key"
+  },
+  "title": "Choosing a Postgres Primary Key",
+  "summary": "Turns out the question of which identifier to use as a Primary Key is complicated -- we're going to dive into some of the complexity and inherent trade-offs, and figure things out",
+  "published_at": "2022-09-08T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:03:09.867162+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2022/09/81/810a1298e5351be55529b7cbe7cc04633b349ff906c3ad72109e6aff801ee29a/article.md",
+    "record": "articles/v1/b1/yc-supabase/2022/09/81/810a1298e5351be55529b7cbe7cc04633b349ff906c3ad72109e6aff801ee29a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24365,
+    "sha256": "sha256:6c80e0cfa630ad26adf0c28b5ee993082b0f7c5cd59a69b7b3b24c4e18bfeac5",
+    "normalized_content_hash": "sha256:60a73c9a55488a8fc6ad05cc1b80dd6369042b406f773dde31f09b94c0f361a2"
+  },
+  "provenance": {
+    "source_item_id": "c6951210-45c9-4f71-adf1-400bff31d3cd",
+    "external_id": "https://supabase.com/blog/choosing-a-postgres-primary-key"
+  }
+}

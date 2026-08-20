@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "alpha-teknova-inc-common-stock",
+    "name": "Alpha Teknova Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2025-05-08T20:01:14+00:00",
+  "last_published_at": "2026-08-05T20:01:58+00:00",
+  "partitions": [
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a6/alpha-teknova-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 15719,
+        "sha256": "sha256:fb13d866e823f6470a1b234d03799abb4f5a25c320c6680bb5f2cfb34241af04",
+        "newest_at": "2026-08-05T20:01:58+00:00",
+        "oldest_at": "2025-05-08T20:01:14+00:00"
+      }
+    ]
+  }
+}

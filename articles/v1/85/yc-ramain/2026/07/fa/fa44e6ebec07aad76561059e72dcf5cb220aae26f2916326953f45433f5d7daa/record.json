@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fa44e6ebec07aad76561059e72dcf5cb220aae26f2916326953f45433f5d7daa",
+  "company": {
+    "key": "yc-ramain",
+    "name": "RamAIn"
+  },
+  "source": {
+    "id": "yc-ramain-news-import-43a68eac1f6d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ramain.ai/resources/network-request-reverse-engineering",
+    "canonical": "https://ramain.ai/resources/network-request-reverse-engineering"
+  },
+  "title": "Network request reverse engineering: when the browser UI is not enough",
+  "summary": "How Ramain can enrich browser traces with network and console evidence so workflow compilation understands hidden API behavior behind the page.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T11:17:00.876485+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T20:12:18.192182+00:00",
+  "paths": {
+    "article": "articles/v1/85/yc-ramain/2026/07/fa/fa44e6ebec07aad76561059e72dcf5cb220aae26f2916326953f45433f5d7daa/article.md",
+    "record": "articles/v1/85/yc-ramain/2026/07/fa/fa44e6ebec07aad76561059e72dcf5cb220aae26f2916326953f45433f5d7daa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2068,
+    "sha256": "sha256:0c1620f259dc9d64659c72cb1305d5991f6446632014b80be00a3d7d50c4186a",
+    "normalized_content_hash": "sha256:fa78491d26de9efc92e3122c78270ceab204cad512af458a01a83a351d3d802c"
+  },
+  "provenance": {
+    "source_item_id": "ce3f52b9-6a9b-4c7d-b7ec-faf2fe34d1c7",
+    "external_id": "https://ramain.ai/resources/network-request-reverse-engineering"
+  }
+}

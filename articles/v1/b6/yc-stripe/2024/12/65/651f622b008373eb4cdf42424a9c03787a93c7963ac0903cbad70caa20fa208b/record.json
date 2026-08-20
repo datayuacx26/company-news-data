@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "651f622b008373eb4cdf42424a9c03787a93c7963ac0903cbad70caa20fa208b",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/testing-connect-onboarding-with-sandboxes",
+    "canonical": "https://stripe.dev/blog/testing-connect-onboarding-with-sandboxes"
+  },
+  "title": "Testing Connect onboarding with Sandboxes",
+  "summary": "As a platform, you can accelerate your Connect development with Sandboxes, by replicating your live settings to test out the merchant onboarding flow.",
+  "published_at": "2024-12-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/12/65/651f622b008373eb4cdf42424a9c03787a93c7963ac0903cbad70caa20fa208b/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/12/65/651f622b008373eb4cdf42424a9c03787a93c7963ac0903cbad70caa20fa208b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3853,
+    "sha256": "sha256:8c0f6b32819b9a6f96191728df5a6810a8604e6592ac2fe48644ad1a145ed0c8",
+    "normalized_content_hash": "sha256:83e8a02c1ebe3a0cd63b8af3d281f9c79947d1cec4a4c823d9da9e155651afe0"
+  },
+  "provenance": {
+    "source_item_id": "5b024197-36de-4771-87a2-906bd8d22cc6",
+    "external_id": "https://stripe.dev/blog/testing-connect-onboarding-with-sandboxes"
+  }
+}

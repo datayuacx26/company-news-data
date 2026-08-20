@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e9f7c2bb6184f56f419082b7975c8767c7d396fe83cf1fcbce41a8d695774396",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/perpetual-sandbox",
+    "canonical": "https://blaxel.ai/blog/perpetual-sandbox"
+  },
+  "title": "Defining the perpetual sandbox",
+  "summary": "A perpetual sandbox preserves agent state, stops billing during idle, and resumes in under 25ms. Learn how it differs from ephemeral and persistent models.",
+  "published_at": "2026-06-18T15:29:03+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T21:13:02.492982+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/06/e9/e9f7c2bb6184f56f419082b7975c8767c7d396fe83cf1fcbce41a8d695774396/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/06/e9/e9f7c2bb6184f56f419082b7975c8767c7d396fe83cf1fcbce41a8d695774396/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15596,
+    "sha256": "sha256:7a3714884d13b8b2a65502c5e6eef1663bfe3852dc259a24718aa09ea2df4fde",
+    "normalized_content_hash": "sha256:c8ac67dfd91fe5eb34ba92b70a249f5a15ff772bf71edb95688c150774470530"
+  },
+  "provenance": {
+    "source_item_id": "3e8c1f6a-d7f1-49a7-a1a6-02c9a8d03301",
+    "external_id": "https://blaxel.ai/blog/perpetual-sandbox"
+  }
+}

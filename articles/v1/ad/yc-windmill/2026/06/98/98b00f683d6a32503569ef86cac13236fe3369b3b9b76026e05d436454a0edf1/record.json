@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98b00f683d6a32503569ef86cac13236fe3369b3b9b76026e05d436454a0edf1",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/dev-workspaces",
+    "canonical": "https://www.windmill.dev/changelog/dev-workspaces"
+  },
+  "title": "Dev workspaces paired with a lockable prod workspace",
+  "summary": "Pair a persistent dev workspace with a prod workspace that can be locked so changes only reach it through promotion. Edit safely in dev, mark resources and variables workspace-specific to keep separate values per environment, and promote manually from Compare & Deploy.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-03T21:29:59.466183+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/06/98/98b00f683d6a32503569ef86cac13236fe3369b3b9b76026e05d436454a0edf1/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/06/98/98b00f683d6a32503569ef86cac13236fe3369b3b9b76026e05d436454a0edf1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1745,
+    "sha256": "sha256:32d4e3d9e44a95443fb068706cfb493bd264170f772e74618c36fddc0c715e8e",
+    "normalized_content_hash": "sha256:589ff02fa65e04f42e0aacf1c2f73a62608bb5085651cacfb655a266f1129a08"
+  },
+  "provenance": {
+    "source_item_id": "20cd3cc4-2a07-41f2-aaf1-a71ba00e89cc",
+    "external_id": "https://www.windmill.dev/changelog/dev-workspaces"
+  }
+}

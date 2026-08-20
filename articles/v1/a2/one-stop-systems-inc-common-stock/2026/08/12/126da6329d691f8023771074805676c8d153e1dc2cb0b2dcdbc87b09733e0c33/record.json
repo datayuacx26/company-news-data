@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "126da6329d691f8023771074805676c8d153e1dc2cb0b2dcdbc87b09733e0c33",
+  "company": {
+    "key": "one-stop-systems-inc-common-stock",
+    "name": "One Stop Systems Inc."
+  },
+  "source": {
+    "id": "one-stop-systems-inc-common-stock-atom-3c5790b2a18f",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://onestopsystems.com/blogs/one-stop-systems-blog/unlocking-datacenter-silicon-at-50-c-the-system-level-engineering-behind-oss-rugged-edge-ai-platforms",
+    "canonical": "https://onestopsystems.com/blogs/one-stop-systems-blog/unlocking-datacenter-silicon-at-50-c-the-system-level-engineering-behind-oss-rugged-edge-ai-platforms"
+  },
+  "title": "Unlocking Datacenter Silicon at 50°C: The System-Level Engineering Behind OSS Rugged Edge AI Platforms",
+  "summary": "By Jim Ison, Chief Products Officer The Challenge: Commercial datacenter motherboards and accelerators are qualified for benign air-conditioned environments (0°C to 35°C inlet air). Deploying these high-TDP engines into defense and autonomous platforms requires operation up to 50°C ambient without sacrificing silicon performance or reliability. The Core Engineering Delta: OSS bridges this 15°Co-operating gap through holistic, system-level thermal management (dynamic airflow curves, optimized heatsink geometries, U-BMC telemetry), advanced liquid/immersion cooling, and MIL-STD structural stabilization. The Program Value: Prime contractors gain immediate access to the latest PCIe Gen 5/6 datacenter GPUs and high-density NVMe storage—accelerating time-to-field while maintaining full enterprise warranty coverage. The Datasheet Paradox: Datacenter Specs vs. Edge Computing Reality A recurring question from defense program offices and autonomous vehicle system architects centers on an apparent specification mismatch:",
+  "published_at": "2026-08-06T20:53:16+00:00",
+  "first_seen_at": "2026-08-06T22:54:33.698312+00:00",
+  "fetched_at": "2026-08-06T22:54:35.651981+00:00",
+  "last_updated_at": "2026-08-20T01:38:38.654448+00:00",
+  "paths": {
+    "article": "articles/v1/a2/one-stop-systems-inc-common-stock/2026/08/12/126da6329d691f8023771074805676c8d153e1dc2cb0b2dcdbc87b09733e0c33/article.md",
+    "record": "articles/v1/a2/one-stop-systems-inc-common-stock/2026/08/12/126da6329d691f8023771074805676c8d153e1dc2cb0b2dcdbc87b09733e0c33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7245,
+    "sha256": "sha256:44260e454065f6d21b8454a98616f71d6d45c62b1e533295e2b9bb5a6203aa11",
+    "normalized_content_hash": "sha256:6234ff3555adf69217c99602b099091de6c17dcaaf33d9919c40e3b9733ee245"
+  },
+  "provenance": {
+    "source_item_id": "b914c8e4-24b2-4b04-af27-c9d3e241ce22",
+    "external_id": "https://onestopsystems.com/blogs/one-stop-systems-blog/unlocking-datacenter-silicon-at-50-c-the-system-level-engineering-behind-oss-rugged-edge-ai-platforms"
+  }
+}

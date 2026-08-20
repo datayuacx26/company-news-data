@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cd35b7311a903f7fe49e9f8adff388639fc0f3d7cf4d389a51fc0defc846299c",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/remote-box-agentic-coding-setup/",
+    "canonical": "https://blog.openreplay.com/remote-box-agentic-coding-setup/"
+  },
+  "title": "Setting Up a Remote Box for Agentic Coding",
+  "summary": "Set up Claude Code on a remote box with Tailscale, tmux, mosh, and systemd, plus security steps for SSH keys, secrets, and private access.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:33.036523+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/cd/cd35b7311a903f7fe49e9f8adff388639fc0f3d7cf4d389a51fc0defc846299c/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/cd/cd35b7311a903f7fe49e9f8adff388639fc0f3d7cf4d389a51fc0defc846299c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20553,
+    "sha256": "sha256:868016442d07adcead6785af2dc6313111d2c743936003ba3d7922b81452b85f",
+    "normalized_content_hash": "sha256:4cfc46ba0120583984571dd069c6a80642bc9fbcba5732eab7d0092894e12eb5"
+  },
+  "provenance": {
+    "source_item_id": "fad13fe6-148a-4ebc-b755-10ed5c2f3f12",
+    "external_id": "https://blog.openreplay.com/remote-box-agentic-coding-setup/"
+  }
+}

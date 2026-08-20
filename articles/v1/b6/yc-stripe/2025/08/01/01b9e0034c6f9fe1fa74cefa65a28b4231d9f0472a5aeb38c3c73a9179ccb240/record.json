@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01b9e0034c6f9fe1fa74cefa65a28b4231d9f0472a5aeb38c3c73a9179ccb240",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-1",
+    "canonical": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-1"
+  },
+  "title": "Keeping product data aligned with Stripe as your systems scale",
+  "summary": "Learn how product data synchronization between internal databases and payment providers like Stripe evolves from simple scripts to complex architectural challenges as your business scales from hundreds to millions of products.",
+  "published_at": "2025-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/08/01/01b9e0034c6f9fe1fa74cefa65a28b4231d9f0472a5aeb38c3c73a9179ccb240/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/08/01/01b9e0034c6f9fe1fa74cefa65a28b4231d9f0472a5aeb38c3c73a9179ccb240/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6057,
+    "sha256": "sha256:b222777ac09940c67d76b29df973066df1224963131c8470577dde021cb17297",
+    "normalized_content_hash": "sha256:83905768559428434dcb00e40f8f73d40debb33c860417897a7919663bf82cce"
+  },
+  "provenance": {
+    "source_item_id": "ddae57c3-c085-4def-a5b8-068093f004f8",
+    "external_id": "https://stripe.dev/blog/database-reconciliation-growing-businesses-part-1"
+  }
+}

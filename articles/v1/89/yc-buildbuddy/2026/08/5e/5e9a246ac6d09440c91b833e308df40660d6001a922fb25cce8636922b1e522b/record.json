@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e9a246ac6d09440c91b833e308df40660d6001a922fb25cce8636922b1e522b",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-4f82164f35c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/changelog/bb-explain-profile",
+    "canonical": "https://www.buildbuddy.io/changelog/bb-explain-profile"
+  },
+  "title": "Analyze slow builds with bb explain profile",
+  "summary": "You can now use the bb CLI to analyze a Bazel timing profile with an AI coding agent using bb explain profile.",
+  "published_at": "2026-08-12T10:00:00+00:00",
+  "first_seen_at": "2026-08-13T21:05:38.102607+00:00",
+  "fetched_at": "2026-08-13T21:05:38.835450+00:00",
+  "last_updated_at": "2026-08-20T03:35:53.428661+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/08/5e/5e9a246ac6d09440c91b833e308df40660d6001a922fb25cce8636922b1e522b/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/08/5e/5e9a246ac6d09440c91b833e308df40660d6001a922fb25cce8636922b1e522b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1496,
+    "sha256": "sha256:3a0f2bfc7c13269afd52ab9a672c8b4644e31f4d1c555581c2a47a3f77579d82",
+    "normalized_content_hash": "sha256:75703e08216e11f5566ca9074bf207beee0ad54064fa73dea9b6cb232c8aaed4"
+  },
+  "provenance": {
+    "source_item_id": "0fc0650f-e797-4237-89be-e5e8a6dcbeec",
+    "external_id": "https://www.buildbuddy.io/changelog/bb-explain-profile"
+  }
+}

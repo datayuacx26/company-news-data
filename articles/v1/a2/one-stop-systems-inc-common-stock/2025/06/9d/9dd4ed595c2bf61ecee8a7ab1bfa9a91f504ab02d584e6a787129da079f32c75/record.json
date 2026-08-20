@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9dd4ed595c2bf61ecee8a7ab1bfa9a91f504ab02d584e6a787129da079f32c75",
+  "company": {
+    "key": "one-stop-systems-inc-common-stock",
+    "name": "One Stop Systems Inc."
+  },
+  "source": {
+    "id": "one-stop-systems-inc-common-stock-atom-3c5790b2a18f",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://onestopsystems.com/blogs/one-stop-systems-blog/tackling-the-thermal-challenge-of-600w-devices-in-high-density-computing-systems",
+    "canonical": "https://onestopsystems.com/blogs/one-stop-systems-blog/tackling-the-thermal-challenge-of-600w-devices-in-high-density-computing-systems"
+  },
+  "title": "Tackling the Thermal Challenge of 600W+ Devices in High-Density Computing Systems",
+  "summary": "When the PCI-SIG formally added support for 675W add-in card devices in the PCI Express Card Electromechanical (CEM) specification in August 2023, NVIDIA’s most powerful CEM GPU, the NVIDIA H100 80GB had a maximum power consumption of 350W. While some devices were starting to push the limits of datacenter thermodynamics – high density systems of many 675W devices seemed like a distant reality. However, with power constraints uncapped and the need for higher performing GPUs skyrocketing, the industry quickly came out with devices taking full advantage of the new specification capability. NVIDIA quickly replaced the H100 80GB with the H100 NVL, increasing power density to 400W. While this small jump was manageable for existing installations, NVIDIA then dove all-in with the H200 NVL released in late 2024 at 600W. The rapid transition from 350W to 600W has put power and cooling technologies in the spotlight in a race to solve this next generation challenge.",
+  "published_at": "2025-06-02T16:56:13+00:00",
+  "first_seen_at": "2026-07-20T23:19:18.941877+00:00",
+  "fetched_at": "2026-07-28T22:29:52.182713+00:00",
+  "last_updated_at": "2026-08-20T01:38:38.654448+00:00",
+  "paths": {
+    "article": "articles/v1/a2/one-stop-systems-inc-common-stock/2025/06/9d/9dd4ed595c2bf61ecee8a7ab1bfa9a91f504ab02d584e6a787129da079f32c75/article.md",
+    "record": "articles/v1/a2/one-stop-systems-inc-common-stock/2025/06/9d/9dd4ed595c2bf61ecee8a7ab1bfa9a91f504ab02d584e6a787129da079f32c75/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9212,
+    "sha256": "sha256:9935a3089a0c7db89a5437e4adbe472d07f1a802da7e4339ace276320eee64cd",
+    "normalized_content_hash": "sha256:045acf7dfcdf5610353e4d7068c7ecd7e44974998e1d2205d3886c508e2ee14f"
+  },
+  "provenance": {
+    "source_item_id": "5c6cedef-f0d6-48eb-8b51-0c6d085232d7",
+    "external_id": "https://onestopsystems.com/blogs/one-stop-systems-blog/tackling-the-thermal-challenge-of-600w-devices-in-high-density-computing-systems"
+  }
+}

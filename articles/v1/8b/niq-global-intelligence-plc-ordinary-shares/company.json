@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "niq-global-intelligence-plc-ordinary-shares",
+    "name": "NIQ Global Intelligence plc"
+  },
+  "record_count": 52,
+  "first_published_at": "2026-03-12T22:05:55+00:00",
+  "last_published_at": "2026-08-06T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8b/niq-global-intelligence-plc-ordinary-shares/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 62276,
+        "sha256": "sha256:ee108e5622d0ae88aaa84b866f64374e2110ff5bc10fd7d5e4c4d5ff783a1b1a",
+        "newest_at": "2026-08-06T11:00:00+00:00",
+        "oldest_at": "2026-03-18T13:23:59+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/8b/niq-global-intelligence-plc-ordinary-shares/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2512,
+        "sha256": "sha256:ba4f92add0ad9150ad7fd3d5652399a32e597a78013b4e3151a205da05c9e02d",
+        "newest_at": "2026-03-13T13:50:45+00:00",
+        "oldest_at": "2026-03-12T22:05:55+00:00"
+      }
+    ]
+  }
+}

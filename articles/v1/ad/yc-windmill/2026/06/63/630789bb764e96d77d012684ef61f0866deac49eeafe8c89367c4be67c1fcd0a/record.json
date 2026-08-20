@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "630789bb764e96d77d012684ef61f0866deac49eeafe8c89367c4be67c1fcd0a",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/sandboxed-container-runtime",
+    "canonical": "https://www.windmill.dev/changelog/sandboxed-container-runtime"
+  },
+  "title": "Sandboxed daemonless container runtime",
+  "summary": "Bash scripts can now run any container image with the `# sandbox <image>` annotation. The image rootfs is pulled with crane and run chrooted inside the job's own nsjail, so it is daemonless, needs no Docker socket or dind sidecar, and is safe to run for untrusted multi-tenant code. Docker scripts are now allowed on Windmill Cloud.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T21:11:40.706155+00:00",
+  "last_updated_at": "2026-07-28T21:13:08.648089+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/06/63/630789bb764e96d77d012684ef61f0866deac49eeafe8c89367c4be67c1fcd0a/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/06/63/630789bb764e96d77d012684ef61f0866deac49eeafe8c89367c4be67c1fcd0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1740,
+    "sha256": "sha256:a009bfe6f75cf2f44afe193cf1c9e5adc5c0cdfc384a3ed2a99681ff035fd2ae",
+    "normalized_content_hash": "sha256:f468d7f4aefe526de7614e9cd15c9f6ffa9ea7ffa0eff5f252fba3660aa9c080"
+  },
+  "provenance": {
+    "source_item_id": "4634a542-9bb4-4556-b268-650df8356074",
+    "external_id": "https://www.windmill.dev/changelog/sandboxed-container-runtime"
+  }
+}

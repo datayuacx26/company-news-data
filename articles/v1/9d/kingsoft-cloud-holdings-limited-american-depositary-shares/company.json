@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "kingsoft-cloud-holdings-limited-american-depositary-shares",
+    "name": "Kingsoft Cloud Holdings Limited"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-08-07T11:00:00+00:00",
+  "last_published_at": "2026-08-19T08:44:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9d/kingsoft-cloud-holdings-limited-american-depositary-shares/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 17433,
+        "sha256": "sha256:486fac3429fcf328c995408730d1eae1c463bfbdf333cd0974166963b71527dc",
+        "newest_at": "2026-08-19T08:44:00+00:00",
+        "oldest_at": "2025-08-07T11:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "255f61649d467ee27c5240e932b7f617c98f67588dafcd7f5bae739a1bce9ef3",
+  "company": {
+    "key": "ge-aerospace-common-stock",
+    "name": "GE Aerospace"
+  },
+  "source": {
+    "id": "ge-aerospace-common-stock-news-import-bf1931810cc2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.geaerospace.com/news/press-releases/jet2-plc-confirms-leap-engine-all-its-airbus-a321neo-aircraft",
+    "canonical": "https://www.geaerospace.com/news/press-releases/jet2-plc-confirms-leap-engine-all-its-airbus-a321neo-aircraft"
+  },
+  "title": "Jet2 plc confirms LEAP engine for all its Airbus A321neo aircraft",
+  "summary": "Published on 24th July 2026 on the CFM news pageJet2 plc selects CFM LEAP-1A engines for 54 A321neo aircraft, bringing Jet2 fleet to 146 aircraft, plus nine aircraft on",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T00:10:59.804709+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-20T03:09:23.131526+00:00",
+  "paths": {
+    "article": "articles/v1/96/ge-aerospace-common-stock/2026/07/25/255f61649d467ee27c5240e932b7f617c98f67588dafcd7f5bae739a1bce9ef3/article.md",
+    "record": "articles/v1/96/ge-aerospace-common-stock/2026/07/25/255f61649d467ee27c5240e932b7f617c98f67588dafcd7f5bae739a1bce9ef3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3402,
+    "sha256": "sha256:e795a8d4f1f01f56b1748a887ce52eb31c09a12aa6600507762427e787896936",
+    "normalized_content_hash": "sha256:97b900421771c5282818b3b1e34b53377e30989c99a1e12ff7e9f7ecddcabebf"
+  },
+  "provenance": {
+    "source_item_id": "011cab29-4d85-4ff2-b30d-879364fd9cd6",
+    "external_id": "https://www.geaerospace.com/news/press-releases/jet2-plc-confirms-leap-engine-all-its-airbus-a321neo-aircraft"
+  }
+}

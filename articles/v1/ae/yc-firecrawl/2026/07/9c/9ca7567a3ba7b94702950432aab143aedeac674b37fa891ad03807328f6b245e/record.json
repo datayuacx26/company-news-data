@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ca7567a3ba7b94702950432aab143aedeac674b37fa891ad03807328f6b245e",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/introducing-our-most-accurate-search-yet?utm_source=firecrawl-web&utm_medium=banner&utm_campaign=introducing-our-most-accurate-search-yet",
+    "canonical": "https://www.firecrawl.dev/blog/introducing-our-most-accurate-search-yet"
+  },
+  "title": "Introducing our most accurate search yet",
+  "summary": "Firecrawl /search now uses a new custom relevance model to return the excerpts that best answer your query. Agents using /search score 94.7% on SimpleQA while using 10x fewer tokens than processing full pages.",
+  "published_at": "2026-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T20:07:52.339347+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-20T02:25:45.443161+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/07/9c/9ca7567a3ba7b94702950432aab143aedeac674b37fa891ad03807328f6b245e/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/07/9c/9ca7567a3ba7b94702950432aab143aedeac674b37fa891ad03807328f6b245e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4745,
+    "sha256": "sha256:1fdc0c02d8940e06371fd70e98582b53a6a58e9ec4c1aae604e946eef4f0c2fa",
+    "normalized_content_hash": "sha256:1c5d4e42e1ab542285942622be57043f218d4014986f46d595b3c848c2a88f32"
+  },
+  "provenance": {
+    "source_item_id": "e3b17d14-5d84-4d6f-8230-9fd538ffc376",
+    "external_id": "https://www.firecrawl.dev/blog/introducing-our-most-accurate-search-yet"
+  }
+}

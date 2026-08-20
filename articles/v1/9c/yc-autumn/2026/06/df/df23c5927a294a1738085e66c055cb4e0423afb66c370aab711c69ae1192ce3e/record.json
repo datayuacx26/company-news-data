@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "df23c5927a294a1738085e66c055cb4e0423afb66c370aab711c69ae1192ce3e",
+  "company": {
+    "key": "yc-autumn",
+    "name": "Autumn"
+  },
+  "source": {
+    "id": "yc-autumn-news-import-b2979559dee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://useautumn.com/blog/active-active-redis-cache",
+    "canonical": "https://useautumn.com/blog/active-active-redis-cache"
+  },
+  "title": "Saying goodbye to multi-region (for now)",
+  "summary": "Why we moved Autumn to a multi-region architecture, the tradeoffs we hit with active-active Redis, and why we eventually returned to a simpler single-region setup.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:47:32.127868+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-20T02:38:41.109775+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-autumn/2026/06/df/df23c5927a294a1738085e66c055cb4e0423afb66c370aab711c69ae1192ce3e/article.md",
+    "record": "articles/v1/9c/yc-autumn/2026/06/df/df23c5927a294a1738085e66c055cb4e0423afb66c370aab711c69ae1192ce3e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10910,
+    "sha256": "sha256:c77160e8bbbf297d76b7508252a446918150bbdfdc80b6ff64033bb4ec6effdf",
+    "normalized_content_hash": "sha256:700a0fb6f7210e450206d98d75d5d16c0f18a434b0319cb040afe28d8d5f8ee6"
+  },
+  "provenance": {
+    "source_item_id": "cb5c82e9-19ba-4147-bde0-742fc0ca9286",
+    "external_id": "https://useautumn.com/blog/active-active-redis-cache"
+  }
+}

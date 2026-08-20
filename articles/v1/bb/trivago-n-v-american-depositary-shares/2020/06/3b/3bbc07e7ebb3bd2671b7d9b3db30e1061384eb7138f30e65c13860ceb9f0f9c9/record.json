@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3bbc07e7ebb3bd2671b7d9b3db30e1061384eb7138f30e65c13860ceb9f0f9c9",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2020-06-03-elasticwarsepisodeivanewfield/",
+    "canonical": "https://tech.trivago.com/post/2020-06-03-elasticwarsepisodeivanewfield/"
+  },
+  "title": "ElasticWars Episode IV: A new field",
+  "summary": "On a normal day, we ingest a lot of data into our ELK clusters (~6TB across all of our data centers). This is mostly operational data (logs) from different components in our infrastructure. This...",
+  "published_at": "2020-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:05:25.747778+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2020/06/3b/3bbc07e7ebb3bd2671b7d9b3db30e1061384eb7138f30e65c13860ceb9f0f9c9/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2020/06/3b/3bbc07e7ebb3bd2671b7d9b3db30e1061384eb7138f30e65c13860ceb9f0f9c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11525,
+    "sha256": "sha256:6e35a4457151f705a7a192bf09fc685e2179c51c2be526fb3968e83044bf3533",
+    "normalized_content_hash": "sha256:b6ae7634c4927a309811b04f1b84bfd662a7238dbe52e03079c835d07fccf822"
+  },
+  "provenance": {
+    "source_item_id": "96fb71f2-9aef-4807-a8bd-2becd93df9f9",
+    "external_id": "https://tech.trivago.com/post/2020-06-03-elasticwarsepisodeivanewfield/"
+  }
+}

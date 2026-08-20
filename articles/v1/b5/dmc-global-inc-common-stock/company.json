@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "dmc-global-inc-common-stock",
+    "name": "DMC Global Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2025-08-05T20:05:00+00:00",
+  "last_published_at": "2026-07-29T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b5/dmc-global-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 12589,
+        "sha256": "sha256:3de2b1ef61b30e05f3309aaa631a67c1e00b83530278569bc378bb07e0b29b11",
+        "newest_at": "2026-07-29T20:05:00+00:00",
+        "oldest_at": "2025-08-05T20:05:00+00:00"
+      }
+    ]
+  }
+}

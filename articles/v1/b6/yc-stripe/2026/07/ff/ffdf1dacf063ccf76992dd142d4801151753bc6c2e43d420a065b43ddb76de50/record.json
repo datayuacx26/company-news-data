@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffdf1dacf063ccf76992dd142d4801151753bc6c2e43d420a065b43ddb76de50",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/fund-segregation-stripe-connect",
+    "canonical": "https://stripe.dev/blog/fund-segregation-stripe-connect"
+  },
+  "title": "Keeping funds where they belong: Implementing fund segregation in Stripe Connect",
+  "summary": "Learn how to implement fund segregation in Stripe Connect using allocated balances to ring-fence seller funds from your platform's operational balance - covering payment creation, transfers, refunds, disputes, and preparing for upcoming PSD3 regulatory requirements.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/07/ff/ffdf1dacf063ccf76992dd142d4801151753bc6c2e43d420a065b43ddb76de50/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/07/ff/ffdf1dacf063ccf76992dd142d4801151753bc6c2e43d420a065b43ddb76de50/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3892,
+    "sha256": "sha256:9d13823c49ae6380b34919e09abafa4081cec579a9717f995713115163892894",
+    "normalized_content_hash": "sha256:d1b77ab6a37ede72ef6cefacd7b2a48c73c0775f6c676ba6c4ec66da08d500ea"
+  },
+  "provenance": {
+    "source_item_id": "389273ad-0e77-4290-8eba-a50e35b0635b",
+    "external_id": "https://stripe.dev/blog/fund-segregation-stripe-connect"
+  }
+}

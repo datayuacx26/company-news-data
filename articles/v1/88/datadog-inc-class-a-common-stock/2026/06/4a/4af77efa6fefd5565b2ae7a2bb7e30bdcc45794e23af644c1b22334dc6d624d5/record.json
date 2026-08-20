@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4af77efa6fefd5565b2ae7a2bb7e30bdcc45794e23af644c1b22334dc6d624d5",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/ai-assisted-storage-migration/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/ai-assisted-storage-migration/"
+  },
+  "title": "How we migrated a live routing system using AI-assisted refactoring",
+  "summary": "Using AI-assisted refactoring, we migrated our live routing brain to a relational model, safely validating changes against live production traffic.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:09:56.516023+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/4a/4af77efa6fefd5565b2ae7a2bb7e30bdcc45794e23af644c1b22334dc6d624d5/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/4a/4af77efa6fefd5565b2ae7a2bb7e30bdcc45794e23af644c1b22334dc6d624d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19915,
+    "sha256": "sha256:b2b86a701f7d6819d47496cc183195d09a7ac63fef899dd74f9f991e41b19ea6",
+    "normalized_content_hash": "sha256:83e45f8cd88f6f24c8839f4f5b76fca263a74c22073fcf8f60860db8fd70db96"
+  },
+  "provenance": {
+    "source_item_id": "5f69a912-1817-44eb-bd1d-ba67e75bcbe9",
+    "external_id": "https://www.datadoghq.com/blog/engineering/ai-assisted-storage-migration/"
+  }
+}

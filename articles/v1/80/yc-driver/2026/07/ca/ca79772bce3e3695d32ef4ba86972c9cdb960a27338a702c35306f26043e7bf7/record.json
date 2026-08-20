@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca79772bce3e3695d32ef4ba86972c9cdb960a27338a702c35306f26043e7bf7",
+  "company": {
+    "key": "yc-driver",
+    "name": "Driver"
+  },
+  "source": {
+    "id": "yc-driver-news-import-217796f58c6f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.driver.ai/blog/why-current-approaches-fail",
+    "canonical": "https://www.driver.ai/blog/why-current-approaches-fail/"
+  },
+  "title": "Why Current Approaches to Context Fail and What Replaces Them",
+  "summary": "RAG and runtime discovery fail at scale. Learn why code context requires compilation, not retrieval, and how to build context as infrastructure.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T17:03:14.637812+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-20T02:15:57.442275+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-driver/2026/07/ca/ca79772bce3e3695d32ef4ba86972c9cdb960a27338a702c35306f26043e7bf7/article.md",
+    "record": "articles/v1/80/yc-driver/2026/07/ca/ca79772bce3e3695d32ef4ba86972c9cdb960a27338a702c35306f26043e7bf7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17462,
+    "sha256": "sha256:f9628cf93a2f95918093f3df4f9fdf6ef8cd6122aa6e7de6d1b523d0bf099c21",
+    "normalized_content_hash": "sha256:aa13f4e5f2556b750863e2b016f87349fe417532f5b8ebf80eeed710320cad4b"
+  },
+  "provenance": {
+    "source_item_id": "98524df8-393d-4adb-90ff-d681e8d7ff87",
+    "external_id": "https://www.driver.ai/blog/why-current-approaches-fail/"
+  }
+}

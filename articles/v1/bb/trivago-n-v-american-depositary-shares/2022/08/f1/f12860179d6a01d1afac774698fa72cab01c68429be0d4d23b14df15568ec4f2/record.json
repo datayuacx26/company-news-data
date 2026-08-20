@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f12860179d6a01d1afac774698fa72cab01c68429be0d4d23b14df15568ec4f2",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2022-08-23-how-we-scaled-our-prometheus-setup/",
+    "canonical": "https://tech.trivago.com/post/2022-08-23-how-we-scaled-our-prometheus-setup/"
+  },
+  "title": "How we scaled our Prometheus setup",
+  "summary": "In 2020 we started to migrate one of our most significant workloads, our Node.js based GraphQL API and many of its microservices, from our datacenter to Google Kubernetes Engine. We deploy it in...",
+  "published_at": "2022-08-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2022/08/f1/f12860179d6a01d1afac774698fa72cab01c68429be0d4d23b14df15568ec4f2/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2022/08/f1/f12860179d6a01d1afac774698fa72cab01c68429be0d4d23b14df15568ec4f2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13609,
+    "sha256": "sha256:2d9ccc44f92a7d8fba0b35bb090817771209b9b00155dbf522d0cce34905bdda",
+    "normalized_content_hash": "sha256:adfd5c7d0f9e0bc58b2da7005b1b0610143475e28f6400fe5b6f157a70eb796a"
+  },
+  "provenance": {
+    "source_item_id": "08e72724-4d8c-465c-93cb-5443e594d65c",
+    "external_id": "https://tech.trivago.com/post/2022-08-23-how-we-scaled-our-prometheus-setup/"
+  }
+}

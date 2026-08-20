@@ -1,0 +1,115 @@
+---
+schema_version: "1.0.0"
+document_id: "d27bdcf5ef5cca7ec56941aabb961520a2b95b524f3b6ebcbf841bd63f729378"
+company_key: "pegasystems-inc-common-stock"
+company: "Pegasystems Inc."
+source_id: "pegasystems-inc-common-stock-rss-deafc2cd455e"
+canonical_url: "https://community.pega.com/blog/discovery-isnt-done-until-its-buildable"
+published_at: "2026-06-17T12:00:00+00:00"
+first_seen_at: "2026-07-25T01:11:26.395289+00:00"
+fetched_at: "2026-07-28T21:10:58.759142+00:00"
+content_hash: "sha256:6c2cdcbc14df8f4702a5726ff4499bdd662d95097a66942384e0883ae8e3cb23"
+---
+
+# Discovery Isn’t Done Until It’s Buildable
+
+We’re still treating discovery like a conversation, not a design step.
+
+
+For as long as I can remember, pre ‑
+
+
+sales discovery has been focused on understanding the problem well enough to explain the solution. We asked good questions, aligned stakeholders, and produced artifacts like slide decks, notes, or demos that could be handed off.
+
+
+*That model is breaking* . We’ve been calling discovery “done” when everyone agrees, not when it’s actually ready to build. The result of that well-intentioned oversight? Rework. Re ‑
+
+
+architecture. Teams trying to reconstruct what was meant. By the time it reaches delivery, the original intent is already slipping.
+
+
+## **Why Discovery Needs to Change**
+
+
+As delivery accelerates, there’s less room for reinterpretation. “We’ll figure it out later” isn’t a strategy anymore, and it never should have been.
+
+
+The problem isn’t discovery itself. It’s the outputs of discovery. We’ve treated alignment and explanation as the goal. And they’re not…they’re just table stakes.
+
+
+## **Explanation Isn’t the Goal Anymore**
+
+
+In today’s world, explaining a solution isn’t hard. We have AI tools that can summarize conversations, generate flows, and draft designs in seconds. What it can’t do is decide *what should exist,* or more importantly *why something should exist* .
+
+
+That’s why the most valuable pre‑sales skill now isn’t explanation…it’s **direction** .
+
+
+The real question discovery needs to answer is simple:
+
+
+*Could a team actually build from this…without guessing what mattered most?*
+
+
+## **What “Buildable” Really Means**
+
+
+Buildable doesn’t mean complete. It means the intent is clear enough to hold up under pressure. Key decisions are explicit. Any potential tradeoffs are surfaced early. Assumptions are entirely visible.
+
+
+When discovery produces something buildable, delivery doesn’t have to reinterpret the story…it can start building immediately. So what does that actually look like in practice?
+
+
+## **Turning Discovery into Something Buildable**
+
+
+The strongest pre ‑
+
+
+sales practitioners are exceptional presenters and demo artists. Those skills are paramount to what we do. What’s changed is the outcome those skills are expected to produce.
+
+
+Today, the best presentations and demos don’t just impress, they lock in clarity. They make priorities explicit. They surface key decisions, constraints, and tradeoffs. And they co ‑
+
+
+create something concrete with the client…a set of workflows, a working outline, a version of the solution they’ve already seen. Something that a delivery team can actually build from, without having to reinterpret.
+
+
+*That’s what it means to make discovery buildable.*
+
+
+## **Where the Solution Designer Fits**
+
+
+This is where most teams struggle. They know discovery needs to be buildable, but they don’t always have someone owning that outcome. Conversations stay at 35,000 feet, decisions remain implicit, and what gets handed to delivery still requires interpretation.
+
+
+This is where the Solution Designer shows up. Not as that late-stage translator I spoke of in my[last piece](https://community.pega.com/blog/ai-wont-replace-you-it-will-rewrite-your-role) , but as the one making sure discovery produces something a team can build from. They do that by driving clarity, surfacing tradeoffs, and turning discussion into defined direction early.
+
+
+They don’t replace pre ‑
+
+
+sales, *they make sure discovery delivers what it now needs to.*
+
+
+## **What Comes Next**
+
+
+If discovery is becoming buildable, how does this scale?
+
+
+What happens when organizations move to product ‑
+
+
+centric teams, shared platforms, and continuous delivery, where intent needs to survive across teams and time?
+
+
+That’s where things get harder.
+
+
+In the next post, I’ll explore why the Solution Designer becomes the missing bridge, and why clarity isn’t just a pre ‑
+
+
+sales concern anymore. It’s an operating model requirement.

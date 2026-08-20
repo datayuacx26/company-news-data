@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "catalyst-pharmaceuticals-inc-common-stock",
+    "name": "Catalyst Pharmaceuticals Inc."
+  },
+  "record_count": 4,
+  "first_published_at": "2026-01-23T19:08:05+00:00",
+  "last_published_at": "2026-04-24T20:21:11+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9c/catalyst-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 5031,
+        "sha256": "sha256:88a3be81c057ffd8451ef014459bc15f610a1d7812b84faab7895f834fc4770c",
+        "newest_at": "2026-04-24T20:21:11+00:00",
+        "oldest_at": "2026-01-23T19:08:05+00:00"
+      }
+    ]
+  }
+}

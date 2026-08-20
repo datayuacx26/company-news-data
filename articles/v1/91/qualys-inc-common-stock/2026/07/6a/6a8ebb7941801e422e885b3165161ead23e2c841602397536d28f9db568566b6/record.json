@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a8ebb7941801e422e885b3165161ead23e2c841602397536d28f9db568566b6",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc."
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-rss-d1030f25037f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/product-tech/2026/07/09/cisa-bod-26-04-3-day-remediation-sla",
+    "canonical": "https://blog.qualys.com/product-tech/2026/07/09/cisa-bod-26-04-3-day-remediation-sla"
+  },
+  "title": "How to Meet a 3-Day Remediation SLA & Comply with CISA BOD 26-04",
+  "summary": "CISA BOD 26-04 requires 72-hour remediation for high-risk vulnerabilities. Learn the two-track strategy that lets you automate endpoints at scale while carefully orchestrating production systems with rollback rates below 0.1%.",
+  "published_at": "2026-07-09T19:30:37+00:00",
+  "first_seen_at": "2026-07-20T03:32:58.378885+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-03T14:11:09.104120+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/07/6a/6a8ebb7941801e422e885b3165161ead23e2c841602397536d28f9db568566b6/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/07/6a/6a8ebb7941801e422e885b3165161ead23e2c841602397536d28f9db568566b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8883,
+    "sha256": "sha256:20380fda18d0152590b3493c76b91573b3d8fe72a66533241eb431ff329bc188",
+    "normalized_content_hash": "sha256:fad64712ca9dfc558adfb9ae1965b8ec6bd05fc07a5f6abf976d7ea3cd4edc19"
+  },
+  "provenance": {
+    "source_item_id": "a8dc1ce5-2aee-49c4-bcb4-333223504441",
+    "external_id": "https://blog.qualys.com/?p=40954"
+  }
+}

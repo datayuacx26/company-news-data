@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5cb99e0514d6b461f358adcc791f57abb17e6f8c7d938796d6a7b864872381f",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/"
+  },
+  "title": "Evolving our real-time timeseries storage again: Built in Rust for performance at scale",
+  "summary": "Discover how we reengineered our metrics storage engine for massive scale with Rust, a shard-per-core model, and real-time performance.",
+  "published_at": "2025-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/08/f5/f5cb99e0514d6b461f358adcc791f57abb17e6f8c7d938796d6a7b864872381f/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/08/f5/f5cb99e0514d6b461f358adcc791f57abb17e6f8c7d938796d6a7b864872381f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33024,
+    "sha256": "sha256:b81e696cb6742f9d931b84380e3d9219bd4c9bbb11ebdad56f127a07a974bca7",
+    "normalized_content_hash": "sha256:7fcc39f88f5fb51d7d503619c16e860649d6ba52271732c6fe2ae271f34fcaf0"
+  },
+  "provenance": {
+    "source_item_id": "3325909a-30cd-4515-8c08-40dafaa6ad4c",
+    "external_id": "https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/"
+  }
+}

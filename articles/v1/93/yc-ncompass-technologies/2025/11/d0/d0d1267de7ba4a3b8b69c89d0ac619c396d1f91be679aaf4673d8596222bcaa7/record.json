@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d0d1267de7ba4a3b8b69c89d0ac619c396d1f91be679aaf4673d8596222bcaa7",
+  "company": {
+    "key": "yc-ncompass-technologies",
+    "name": "nCompass Technologies"
+  },
+  "source": {
+    "id": "yc-ncompass-technologies-rss-225d7ec730f1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://community.ncompass.tech/t/system-relies-on-docker/18",
+    "canonical": "https://community.ncompass.tech/t/system-relies-on-docker/18"
+  },
+  "title": "System relies on Docker",
+  "summary": "Our VSCode extension launches Docker in the backend for the “business logic”, but we’ve noticed that it’s a pain to setup on various systems. We’ve built it this way primarily for reproducibility. We’re building a version of the tool which doesn’t run docker on the backend, so our tool is easier to setup on people’s machines.",
+  "published_at": "2025-11-20T23:00:02+00:00",
+  "first_seen_at": "2026-07-25T15:45:43.528659+00:00",
+  "fetched_at": "2026-07-28T22:25:10.100738+00:00",
+  "last_updated_at": "2026-08-20T02:33:23.503903+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-ncompass-technologies/2025/11/d0/d0d1267de7ba4a3b8b69c89d0ac619c396d1f91be679aaf4673d8596222bcaa7/article.md",
+    "record": "articles/v1/93/yc-ncompass-technologies/2025/11/d0/d0d1267de7ba4a3b8b69c89d0ac619c396d1f91be679aaf4673d8596222bcaa7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1300,
+    "sha256": "sha256:97c5f1dc498e1352c6d70bac735b61d562f7f0b2cd654abbca83b6113c27ef48",
+    "normalized_content_hash": "sha256:7cbf610311cd1ebc8dd4ce57d59c0f65d107a79e3535efd94e5058d68ea2ad4a"
+  },
+  "provenance": {
+    "source_item_id": "bd92f321-df6f-443b-9ca6-62539bbca616",
+    "external_id": "community.ncompass.tech-topic-18"
+  }
+}

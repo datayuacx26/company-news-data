@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9a76c75789a04a8957f318d0ab9d0e9dab68d2c56441a1cda71c79e75edc1d03",
+  "company": {
+    "key": "yc-diversion",
+    "name": "Diversion"
+  },
+  "source": {
+    "id": "yc-diversion-news-import-29544632d9e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.diversion.dev/blog/single-sign-on-comes-to-diversion-with-okta",
+    "canonical": "https://www.diversion.dev/blog/single-sign-on-comes-to-diversion-with-okta"
+  },
+  "title": "Single sign-on comes to Diversion with Okta",
+  "summary": "Diversion now supports SAML 2.0 single sign-on with Okta as the identity provider. Teams sign in with their existing Okta credentials, and admins manage access centrally.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:43:54.628145+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T03:22:54.868804+00:00",
+  "paths": {
+    "article": "articles/v1/a9/yc-diversion/2026/06/9a/9a76c75789a04a8957f318d0ab9d0e9dab68d2c56441a1cda71c79e75edc1d03/article.md",
+    "record": "articles/v1/a9/yc-diversion/2026/06/9a/9a76c75789a04a8957f318d0ab9d0e9dab68d2c56441a1cda71c79e75edc1d03/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1906,
+    "sha256": "sha256:49e199b9552d82a9108f09af6c2bbe39eef7793a2f28b27301c3ccb1e721083a",
+    "normalized_content_hash": "sha256:f1f0c90b2fd45a0dad13f5f0c3d62ff43ce3ef3ed6472378729b3b96e37cf05e"
+  },
+  "provenance": {
+    "source_item_id": "f2ebfcc8-95fe-4287-aa4c-1dd2df4e5828",
+    "external_id": "https://www.diversion.dev/blog/single-sign-on-comes-to-diversion-with-okta"
+  }
+}

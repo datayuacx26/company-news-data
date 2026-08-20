@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c118c2e643bf9a53861f883e399341a1a533194988414199114657eb7244e08",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service",
+    "canonical": "https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service"
+  },
+  "title": "Modern Java at Stripe: Language upgrades as a service",
+  "summary": "We all know the stereotypes of working at enterprise tech companies: endless bureaucracy and behemoth codebases running on a years-old language version. Most organizations know they should modernize quickly, but haven’t figured out how to build an upgrade path compatible with a large codebase. The recurring cost of upgrading keeps most large JVM codebases trailing behind the latest Java versions.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/2c/2c118c2e643bf9a53861f883e399341a1a533194988414199114657eb7244e08/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/2c/2c118c2e643bf9a53861f883e399341a1a533194988414199114657eb7244e08/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3800,
+    "sha256": "sha256:1d6afc8b8aa67fb765f3d6cdf3fcaeae35d69bd535c4f3c8b4cd0649fddf931c",
+    "normalized_content_hash": "sha256:4d9e48fb6952088a84e6dbd5de4cc53026260924574d86530cda722972fbc241"
+  },
+  "provenance": {
+    "source_item_id": "233d9425-03a1-4608-858c-498720b10ef4",
+    "external_id": "https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service"
+  }
+}

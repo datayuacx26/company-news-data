@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "78f91a86bf591add893c1c8ba4c33be177521bdd4428b507d79936df7f7c996f",
+  "company": {
+    "key": "yc-zinc",
+    "name": "Zinc"
+  },
+  "source": {
+    "id": "yc-zinc-news-import-01c857d42648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zinc.com/blog/what-is-acp",
+    "canonical": "https://www.zinc.com/blog/what-is-acp"
+  },
+  "title": "What Is ACP? The Agentic Commerce Protocol Explained",
+  "summary": "ACP is the open protocol for agent-to-merchant checkout from Stripe and OpenAI. Here's how it works, its four endpoints, Shared Payment Tokens, and what it can't do.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:08:25.932611+00:00",
+  "fetched_at": "2026-07-28T22:15:52.361502+00:00",
+  "last_updated_at": "2026-08-19T20:20:45.368981+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-zinc/2026/04/78/78f91a86bf591add893c1c8ba4c33be177521bdd4428b507d79936df7f7c996f/article.md",
+    "record": "articles/v1/a3/yc-zinc/2026/04/78/78f91a86bf591add893c1c8ba4c33be177521bdd4428b507d79936df7f7c996f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16506,
+    "sha256": "sha256:a661a0046d8f3ccd81a192dc6f0cacabc7b57350004c05720b846dec1a63c5b2",
+    "normalized_content_hash": "sha256:c15a845a28db277ba83771dfcabff8179c776dcc1cc1ae3d91f10330541f1e7b"
+  },
+  "provenance": {
+    "source_item_id": "8c365fe4-da5c-409d-ac16-8f4728a2b44e",
+    "external_id": "https://www.zinc.com/blog/what-is-acp"
+  }
+}

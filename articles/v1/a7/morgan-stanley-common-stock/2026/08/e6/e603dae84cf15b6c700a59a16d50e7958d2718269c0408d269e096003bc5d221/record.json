@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e603dae84cf15b6c700a59a16d50e7958d2718269c0408d269e096003bc5d221",
+  "company": {
+    "key": "morgan-stanley-common-stock",
+    "name": "Morgan Stanley"
+  },
+  "source": {
+    "id": "morgan-stanley-common-stock-news-import-97046185d101",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.morganstanley.com/insights/articles/how-does-ai-reduce-costs-in-healthcare-aging",
+    "canonical": "https://www.morganstanley.com/insights/articles/how-does-ai-reduce-costs-in-healthcare-aging"
+  },
+  "title": "Can AI Reduce the Costs of Healthcare and Aging?",
+  "summary": "Increasing life expectancy is placing growing pressure on healthcare systems and spending.",
+  "published_at": null,
+  "first_seen_at": "2026-08-15T06:10:21.064525+00:00",
+  "fetched_at": "2026-08-15T06:10:22.259956+00:00",
+  "last_updated_at": "2026-08-19T18:30:11.297265+00:00",
+  "paths": {
+    "article": "articles/v1/a7/morgan-stanley-common-stock/2026/08/e6/e603dae84cf15b6c700a59a16d50e7958d2718269c0408d269e096003bc5d221/article.md",
+    "record": "articles/v1/a7/morgan-stanley-common-stock/2026/08/e6/e603dae84cf15b6c700a59a16d50e7958d2718269c0408d269e096003bc5d221/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3529,
+    "sha256": "sha256:c5d379ca2c13bcec26fd310d24152b37bf37c009d53e657c52f81e537549c66a",
+    "normalized_content_hash": "sha256:4799e7283c4756c4ab0b5c7d1191c9457655b06d3082e80647f60695a186e1e8"
+  },
+  "provenance": {
+    "source_item_id": "62fe0dbe-65b7-4f90-a77d-0af7d73cb2fd",
+    "external_id": "https://www.morganstanley.com/insights/articles/how-does-ai-reduce-costs-in-healthcare-aging"
+  }
+}

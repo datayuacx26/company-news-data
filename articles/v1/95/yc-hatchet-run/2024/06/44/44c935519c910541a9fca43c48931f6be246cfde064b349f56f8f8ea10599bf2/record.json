@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44c935519c910541a9fca43c48931f6be246cfde064b349f56f8f8ea10599bf2",
+  "company": {
+    "key": "yc-hatchet-run",
+    "name": "Hatchet"
+  },
+  "source": {
+    "id": "yc-hatchet-run-rss-3f16f06bd764",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://hatchet.run/blog/problems-with-celery",
+    "canonical": "https://hatchet.run/blog/problems-with-celery"
+  },
+  "title": "The problems with (Python's) Celery",
+  "summary": "An in-depth look at the challenges and limitations of using Celery in modern Python applications, from missing features to questionable defaults and observability issues.",
+  "published_at": "2024-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:57:06.374584+00:00",
+  "fetched_at": "2026-08-09T22:57:07.291413+00:00",
+  "last_updated_at": "2026-08-20T03:51:48.022662+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-hatchet-run/2024/06/44/44c935519c910541a9fca43c48931f6be246cfde064b349f56f8f8ea10599bf2/article.md",
+    "record": "articles/v1/95/yc-hatchet-run/2024/06/44/44c935519c910541a9fca43c48931f6be246cfde064b349f56f8f8ea10599bf2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18875,
+    "sha256": "sha256:b93fad09792e3ac86b98f8ce2d0ddd3a747e49da3cbd8fe04f74fb021994f34e",
+    "normalized_content_hash": "sha256:1b103cc5b44efe9b016ea8b85b83059e01ff7d2267ea49e70536e60aab081c3f"
+  },
+  "provenance": {
+    "source_item_id": "d26ed43d-dcd1-4019-9586-c00e4047be57",
+    "external_id": "https://hatchet.run/blog/problems-with-celery"
+  }
+}

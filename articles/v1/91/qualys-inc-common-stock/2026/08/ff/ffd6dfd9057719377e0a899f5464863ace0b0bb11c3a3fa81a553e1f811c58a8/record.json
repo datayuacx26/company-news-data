@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffd6dfd9057719377e0a899f5464863ace0b0bb11c3a3fa81a553e1f811c58a8",
+  "company": {
+    "key": "qualys-inc-common-stock",
+    "name": "Qualys Inc."
+  },
+  "source": {
+    "id": "qualys-inc-common-stock-rss-b23fdbdd1cee",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.qualys.com/vulnerabilities-threat-research/2026/08/19/oracle-critical-patch-update-august-2026-security-update-review",
+    "canonical": "https://blog.qualys.com/vulnerabilities-threat-research/2026/08/19/oracle-critical-patch-update-august-2026-security-update-review"
+  },
+  "title": "Oracle Critical Patch Update, August 2026 Security Update Review",
+  "summary": "Oracle released its August edition of Critical Patch Update. The update received patches for 943 security vulnerabilities. Some of the vulnerabilities addressed in this update impact more than one…",
+  "published_at": "2026-08-19T13:49:27+00:00",
+  "first_seen_at": "2026-08-19T14:59:02.288117+00:00",
+  "fetched_at": "2026-08-19T14:59:04.655506+00:00",
+  "last_updated_at": "2026-08-20T02:34:37.981244+00:00",
+  "paths": {
+    "article": "articles/v1/91/qualys-inc-common-stock/2026/08/ff/ffd6dfd9057719377e0a899f5464863ace0b0bb11c3a3fa81a553e1f811c58a8/article.md",
+    "record": "articles/v1/91/qualys-inc-common-stock/2026/08/ff/ffd6dfd9057719377e0a899f5464863ace0b0bb11c3a3fa81a553e1f811c58a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4689,
+    "sha256": "sha256:a1579d8b6089e1bdc5c6e61d59d660b42adb2cfd5819d1b119652406a9c42689",
+    "normalized_content_hash": "sha256:c5cda9c8db0729bf667199d815d80b65a355ba1dc27680130e99a23f33c15b3e"
+  },
+  "provenance": {
+    "source_item_id": "c422a552-6fa1-43ca-b0f2-3ab08bb4145e",
+    "external_id": "https://blog.qualys.com/?p=41957"
+  }
+}

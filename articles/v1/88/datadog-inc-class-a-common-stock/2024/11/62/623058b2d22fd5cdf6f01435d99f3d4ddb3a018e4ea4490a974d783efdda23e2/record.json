@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "623058b2d22fd5cdf6f01435d99f3d4ddb3a018e4ea4490a974d783efdda23e2",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/ruby-test-impact-analysis/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/ruby-test-impact-analysis/"
+  },
+  "title": "How we built a Ruby library that saves 50% in testing time",
+  "summary": "Learn how we built a test impact analysis library in Ruby, the challenges we faced, the solutions we found, and what we discovered about tracing the Ruby VM.",
+  "published_at": "2024-11-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/11/62/623058b2d22fd5cdf6f01435d99f3d4ddb3a018e4ea4490a974d783efdda23e2/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/11/62/623058b2d22fd5cdf6f01435d99f3d4ddb3a018e4ea4490a974d783efdda23e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20697,
+    "sha256": "sha256:4a507eeffb51a81ccad4ec0916c3d339e39fc0781457e807c4fd843750b281c9",
+    "normalized_content_hash": "sha256:50e45a1ab2bbdef637184ce5bd1d20e21139f16707e689eadfcbf37fefec6e1d"
+  },
+  "provenance": {
+    "source_item_id": "f53f46a4-48d9-4320-a451-2fc6ebb1f8af",
+    "external_id": "https://www.datadoghq.com/blog/engineering/ruby-test-impact-analysis/"
+  }
+}

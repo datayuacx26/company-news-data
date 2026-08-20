@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f19a3b9f4eeb290456ce8de5fbc706893958eea5d02df47983de5d857a27c707",
+  "company": {
+    "key": "yc-pangolin",
+    "name": "Pangolin"
+  },
+  "source": {
+    "id": "yc-pangolin-news-import-841387734568",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://pangolin.net/news/1-21-release",
+    "canonical": "https://pangolin.net/news/1-21-release"
+  },
+  "title": "Pangolin 1.21: Same Network Detection",
+  "summary": "Pangolin 1.21 adds same-network detection for clients and sites, improves share links and access tokens, and tightens the pending sites provisioning workflow.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T08:11:44.188163+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T18:02:58.347278+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-pangolin/2026/07/f1/f19a3b9f4eeb290456ce8de5fbc706893958eea5d02df47983de5d857a27c707/article.md",
+    "record": "articles/v1/a7/yc-pangolin/2026/07/f1/f19a3b9f4eeb290456ce8de5fbc706893958eea5d02df47983de5d857a27c707/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4547,
+    "sha256": "sha256:4e786749211f6ff701070f425b4007a9b10c5598307bd16375f945669831ac4e",
+    "normalized_content_hash": "sha256:b5d200248c6076f4dbd0b744f2cde6112f507d5a41b1b734db4e8af08df68c15"
+  },
+  "provenance": {
+    "source_item_id": "41a7d55e-01a5-4069-8967-078a6757f9f2",
+    "external_id": "https://pangolin.net/news/1-21-release"
+  }
+}

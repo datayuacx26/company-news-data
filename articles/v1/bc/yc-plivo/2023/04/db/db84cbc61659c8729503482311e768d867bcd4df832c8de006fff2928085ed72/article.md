@@ -1,0 +1,104 @@
+---
+schema_version: "1.0.0"
+document_id: "db84cbc61659c8729503482311e768d867bcd4df832c8de006fff2928085ed72"
+company_key: "yc-plivo"
+company: "Plivo"
+source_id: "yc-plivo-rss-7fc8cee78b57"
+canonical_url: "https://www.plivo.com/blog/consent/"
+published_at: "2023-04-28T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:51.132542+00:00"
+fetched_at: "2026-07-28T21:01:55.089772+00:00"
+content_hash: "sha256:4be9000243f117e17a323dee1e6080742880a36734e9ec4a66d8a8115af5e09e"
+---
+
+# Contending with Consent for Marketing Messaging and Calls
+
+If you plan to send bulk text messages or make marketing voice calls — two common uses for Plivo’s[SMS API](https://plivo-webflow.webflow.io/sms) and[Voice API](https://plivo-webflow.webflow.io/voice) — you must gain consent from recipients before you launch your campaigns.
+
+
+The requirement for consent has been in place for a long time, starting on the voice side. In the US, the 1991 Telephone Consumer Protection Act ([TCPA](https://www.fcc.gov/sites/default/files/tcpa-rules.pdf) ) put restrictions on telemarketing and set out consent rules. Without explicit consent from consumers, companies must adhere to strict solicitation rules and honor the National Do Not Call Registry. TCPA also sets forth consent rules for SMS. Telemarketing in the US is also subject to the 1995 Telemarketing Sales Rule (TSR), administered by the Federal Trade Commission (FTC).
+
+
+Meanwhile, the European Union has its own laws. The EU’s 2002[ePrivacy Directive](https://edps.europa.eu/data-protection/our-work/subjects/eprivacy-directive_en) states, in part, “The use of automated calling and communication systems without human intervention (automatic calling machines) … for the purposes of direct marketing may be allowed only in respect of subscribers or users who have given their prior consent.” The GDPR further codifies[regulations around consent](https://gdpr-info.eu/issues/consent/) .
+
+
+Other countries have other regulations. And in addition to country-specific laws, industry groups such as the CTIA also provide[consent guidelines](https://api.ctia.org/wp-content/uploads/2019/07/190719-CTIA-Messaging-Principles-and-Best-Practices-FINAL.pdf) .
+
+
+Many countries also maintain “do not disturb” databases of people who register their numbers to deny permission for businesses to send them unsolicited commercial communications. For instance, the US has a[National Do Not Call Registry](https://www.donotcall.gov/) , while India has a National Customer Preference Register (NCPR), informally known as the Do Not Disturb registry. However, businesses are allowed to call consumers who have given express agreement to receive calls, even if their numbers are in the national do not call registry.
+
+
+The key takeaway from all of these laws and guidelines is that businesses should send messages to customers only after receiving opt-in permission.
+
+
+We don’t need to explain why these rules are in place, do we? People don’t want just anyone reaching out and giving them an electronic tap on the shoulder. They don’t want to have to waste time fighting off unsolicited attention. People want to maintain control of the communications they receive via electronic channels, no matter how well-intentioned those communications are.
+
+
+## How to manage consent
+
+
+So if we’re all agreed that consent is A Good Thing as well as the law, how should we follow consent best practices?
+
+
+- First, collect consumer consent yourself. Don’t use consent acquired from a third party — that’s prohibited in the US, and in some other countries as well.
+- Make it easy for people to opt in. You can use keyword opt-in via text message (“text START to 75486 to subscribe to our notification services”), web opt-in via a form (perhaps displayed when consumers register for an account, or, old-school as it is, paper opt-in, by filling out a paper form at a store or kiosk. Notice that in all of these cases, the consumer explicitly contacts you before you contact them.
+
+
+If you use a web form, make sure that consumers give their consent with a clear affirmative action. In other words, people must take a deliberate action to opt in — pre-ticked boxes don’t count as consent. And you can’t make opting in to messaging a prerequisite for purchasing goods and services — that’s prohibited.
+
+
+Consent for voice calls must be expressed and informed. Under the TSR, consent is express if it’s affirmatively and unambiguously articulated by the consumer. Consent is informed when a consumer receives appropriate and relevant required disclosures prior to giving consent.
+
+
+- When people opt in, send them (or, on a web page, display for them) a confirmation message that includes details about what they’ve opted in for. Mention the use case, possible charges, and whether they’ll get recurring messages. You should also tell them how to withdraw their consent — opt out, in other words.
+
+
+Here’s an example of a good confirmation message to be sent via SMS:
+
+
+Welcome to Plivo developer outreach. Reply HELP for help, STOP to cancel. Message and data rates may apply.
+
+
+Carriers, mobile network operators (MNO), and cloud communications platforms like[Plivo](https://www.plivo.com/) bear part of the responsibility of delivering potential spam to consumers, so they (we) are likely to suspend or terminate messaging services of any organization that fails to comply with opt-in guidelines.
+
+
+## How consumers can withdraw consent
+
+
+So you’ve obtained consent — that’s great, but consent lasts only as long as your recipients want it to. You must allow users to opt out of your messages easily. To do that for SMS, provide opt-out instructions in your messages, particularly for informational, marketing, and promotional messages. Plivo recommends adding “Reply STOP to unsubscribe” or “reply STOP to cancel” to the end of your message.
+
+
+Your systems must not send messages to contacts who have opted out. A general best practice is to send recipients a confirmation that they have been opted out and add instructions on how to opt back in; for example:
+
+
+You replied with STOP, which blocks all the texts from this number. Text UNSTOP to receive messages again.
+
+
+Not providing an opt-out option or sending people messages after they have opted out is another kind of violation that could result in the termination of your messaging campaigns.
+
+
+## Consent for recording
+
+
+So far we’ve talked only about consent for marketing outreach, but there’s one more common case where consent is a concern: call recording. Some jurisdictions have strict consent laws that require you to obtain consent from all participants before recording calls; others require consent of at least one of the participants. Since you may not know where all parties are calling from, it’s good practice to follow the rules for the strictest cases.
+
+
+If you plan to record phone calls, disclose that fact to your users and obtain consent from all participants beforehand, and keep a record of how you obtained consent. If a participant revokes consent, you must no longer record their calls.
+
+
+Another consideration is where call recordings are stored. Plivo, for instance, stores call recordings in a cloud instance hosted in the US. Some countries prohibit data from leaving the country. Check your local requirements.
+
+
+Determining what laws apply to call recording can be complicated when participants are in multiple states or countries. In today’s world, you can’t be 100% sure where a participant is calling from. Nevertheless, you must familiarize yourself with the laws and standards that apply to your business and use case so that you record calls in a legally compliant manner. Ultimately, you are responsible for ensuring that your business complies with all applicable laws and regulations.
+
+
+## We are not a lawyer
+
+
+If you follow all of these guidelines, you’re on the right track for managing consent for both messaging and voice marketing. However, please don’t take this post as legal advice, and don’t imagine we’ve comprehensively covered the topic.
+
+
+We’ve talked here only about US and EU policies here; plenty of Plivo customers live elsewhere in the world. It’s Plivo’s business to know the consent and opt-in requirements for each country and each carrier we work with so that we can serve our customers, but it’s your responsibility to know the guidelines that apply to your business so that you don’t accidentally violate them and get yourselves cut off from your campaigns and your customers.
+
+
+We’ll let Sharita Passariello, Senior CRM Manager at Fluent and a guest in a recent Plivo webinar, have the last word: “It is extremely vital to me that we have expressed consent for these SMS messages. \[so\] the user knows exactly what they’re going to receive, what kind of updates they’re going to get, and who the updates are coming from. That’s so critical because it helps with overall long-term sustainability and performance. At the end of the day we’re using SMS to provide a service to our consumers. We’d like to help them.” In other words, consent isn’t just the law — it’s also good business practice.

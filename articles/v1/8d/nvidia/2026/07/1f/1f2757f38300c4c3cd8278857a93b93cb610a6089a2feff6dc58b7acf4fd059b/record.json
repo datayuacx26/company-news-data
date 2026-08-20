@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f2757f38300c4c3cd8278857a93b93cb610a6089a2feff6dc58b7acf4fd059b",
+  "company": {
+    "key": "nvidia",
+    "name": "NVIDIA"
+  },
+  "source": {
+    "id": "co-nvda-newsroom-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+    "canonical": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"
+  },
+  "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+  "summary": "NVIDIA Vera exemplifies a new class of CPU, architected for the era of agents and being adopted by AI innovators including Perplexity; NVIDIA CPU roadmap continues with the NVIDIA Rosa CPU and its Rigel core.",
+  "published_at": "2026-07-07T15:00:52+00:00",
+  "first_seen_at": "2026-07-19T06:54:21.753056+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-07-28T21:09:49.058733+00:00",
+  "paths": {
+    "article": "articles/v1/8d/nvidia/2026/07/1f/1f2757f38300c4c3cd8278857a93b93cb610a6089a2feff6dc58b7acf4fd059b/article.md",
+    "record": "articles/v1/8d/nvidia/2026/07/1f/1f2757f38300c4c3cd8278857a93b93cb610a6089a2feff6dc58b7acf4fd059b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8123,
+    "sha256": "sha256:5a6ea5859a3cef8f001a7650039d4b25e355191352568c24ecc8c13dd7a1dba0",
+    "normalized_content_hash": "sha256:1edc10682f2fe832dde8b822440111c2ec81a7f0f5828c80470b9b95509718f2"
+  },
+  "provenance": {
+    "source_item_id": "92abd18a-b4f4-479b-bcd0-0071bed324e5",
+    "external_id": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/"
+  }
+}

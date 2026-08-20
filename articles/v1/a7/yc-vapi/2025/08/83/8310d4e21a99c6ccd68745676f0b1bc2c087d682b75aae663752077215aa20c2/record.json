@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8310d4e21a99c6ccd68745676f0b1bc2c087d682b75aae663752077215aa20c2",
+  "company": {
+    "key": "yc-vapi",
+    "name": "Vapi"
+  },
+  "source": {
+    "id": "yc-vapi-news-import-8dd0a49247bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://vapi.ai/blog/how-we-built-vapi-s-voice-ai-pipeline-part-1",
+    "canonical": "https://vapi.ai/blog/how-we-built-vapi-s-voice-ai-pipeline-part-1"
+  },
+  "title": "How We Built Vapi's Voice AI Pipeline: Part 1 - Vapi AI Blog",
+  "summary": "Most voice AIs sound robotic because of a broken system design—discover how we tore it apart and rebuilt a pipeline that finally makes conversations feel human",
+  "published_at": "2025-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:51:02.715878+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-19T20:20:20.967962+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-vapi/2025/08/83/8310d4e21a99c6ccd68745676f0b1bc2c087d682b75aae663752077215aa20c2/article.md",
+    "record": "articles/v1/a7/yc-vapi/2025/08/83/8310d4e21a99c6ccd68745676f0b1bc2c087d682b75aae663752077215aa20c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6273,
+    "sha256": "sha256:f223da7a73cc6c42f72640623ebfd12251889781f3dfa697284f0cc86f6b1023",
+    "normalized_content_hash": "sha256:b079190172cfab6761d52edcd75c5ea4050a065751b48be33bc35f4357a39d5a"
+  },
+  "provenance": {
+    "source_item_id": "1027aa60-58c8-4ba2-8712-be9f6b0c6155",
+    "external_id": "https://vapi.ai/blog/how-we-built-vapi-s-voice-ai-pipeline-part-1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "goosehead-insurance-inc-class-a-common-stock",
+    "name": "Goosehead Insurance Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-30T20:01:00+00:00",
+  "last_published_at": "2026-07-22T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/bb/goosehead-insurance-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 13993,
+        "sha256": "sha256:bc4c7d8960b406dcf43500b66db93c84fe1a041c2da5e2dfcf2e5b469f8fc165",
+        "newest_at": "2026-07-22T20:05:00+00:00",
+        "oldest_at": "2026-03-30T20:01:00+00:00"
+      }
+    ]
+  }
+}

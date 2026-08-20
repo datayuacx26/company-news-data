@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a660a83841844669d1cf2b441db4519583a76515f052c605d92cc48c5356603c",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/research/what-an-automated-vulnerability-research-system-actually-found",
+    "canonical": "https://winfunc.com/research/what-an-automated-vulnerability-research-system-actually-found"
+  },
+  "title": "What an automated vulnerability research system actually found",
+  "summary": "Thirteen patched bugs across nine projects, including Node.js, React, NGINX, Mattermost, Supabase, Bun, Gumroad, Anthropic's MCP SDK, and Better-Auth. What the system got right, where it still falls over, and why executable PoCs matter more than model reasoning.",
+  "published_at": "2026-03-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:00:16.885857+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/03/a6/a660a83841844669d1cf2b441db4519583a76515f052c605d92cc48c5356603c/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/03/a6/a660a83841844669d1cf2b441db4519583a76515f052c605d92cc48c5356603c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14140,
+    "sha256": "sha256:ff6e2dca6ed8161753e616514e34b780fc8f67a8af337c1e24726b84aaa7c016",
+    "normalized_content_hash": "sha256:c2cb211e68d3f5cdcf638a900a444566b222f615fba9bd7a4c142c3f8a7a5e01"
+  },
+  "provenance": {
+    "source_item_id": "750a90e5-4e95-4d3f-80b9-dde28d2faa61",
+    "external_id": "https://winfunc.com/research/what-an-automated-vulnerability-research-system-actually-found"
+  }
+}

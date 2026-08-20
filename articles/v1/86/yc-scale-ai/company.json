@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-scale-ai",
+    "name": "Scale AI"
+  },
+  "record_count": 8,
+  "first_published_at": "2026-07-15T17:23:00+00:00",
+  "last_published_at": "2026-08-17T08:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/86/yc-scale-ai/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 8564,
+        "sha256": "sha256:e1720013339e4f6eccc994c65f820625c956978742d24b6a8d57a675bd94edbf",
+        "newest_at": "2026-08-17T08:15:00+00:00",
+        "oldest_at": "2026-07-15T17:23:00+00:00"
+      }
+    ]
+  }
+}

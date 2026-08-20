@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2c935c1b1c3af538fb718e7d06e4b498e70a1de98f71667e5518edb301f8b416",
+  "company": {
+    "key": "yc-butter",
+    "name": "Butter"
+  },
+  "source": {
+    "id": "yc-butter-rss-cfe99054af6a",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.butter.dev/changelog-0007",
+    "canonical": "https://blog.butter.dev/changelog-0007"
+  },
+  "title": "Changelog #0007",
+  "summary": "Hi all, this week’s changelog is quick and simple, nothing user-visible to announce. We’ve been making R&D progress towards better template-aware-caching, and infra progress rethinking the storage system to work with higher availability. We’ve also p...",
+  "published_at": "2025-11-22T04:16:32+00:00",
+  "first_seen_at": "2026-07-24T22:18:01.434032+00:00",
+  "fetched_at": "2026-07-28T20:55:16.082008+00:00",
+  "last_updated_at": "2026-08-20T02:29:47.571954+00:00",
+  "paths": {
+    "article": "articles/v1/a2/yc-butter/2025/11/2c/2c935c1b1c3af538fb718e7d06e4b498e70a1de98f71667e5518edb301f8b416/article.md",
+    "record": "articles/v1/a2/yc-butter/2025/11/2c/2c935c1b1c3af538fb718e7d06e4b498e70a1de98f71667e5518edb301f8b416/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1026,
+    "sha256": "sha256:5955f39df7ef2cd71fcc4c0e93847da673fd88f9443c217a9b2e65fbc3357be1",
+    "normalized_content_hash": "sha256:170e1608bb1c0b6acea063c3d1bdf48775e5e0805658d99804d9fb5595cc1d6d"
+  },
+  "provenance": {
+    "source_item_id": "3f30f035-8c6d-40cc-9358-416cc2a98f59",
+    "external_id": "https://blog.butter.dev/changelog-0007"
+  }
+}

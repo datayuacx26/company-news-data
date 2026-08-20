@@ -1,0 +1,37 @@
+---
+schema_version: "1.0.0"
+document_id: "1551d87f942ca457e0d9476d1bad404a886ab827aff27454fce32c1fa6d7173d"
+company_key: "huntsman-corporation-common-stock"
+company: "Huntsman Corporation"
+source_id: "huntsman-corporation-common-stock-rss-f72558126447"
+canonical_url: "https://www.huntsman.com/investors/newsroom/news-releases/detail/630/huntsman-announces-third-quarter-2026-common-dividend"
+published_at: "2026-07-30T20:20:00+00:00"
+first_seen_at: "2026-07-31T17:00:24.795102+00:00"
+fetched_at: "2026-07-31T17:00:26.061684+00:00"
+content_hash: "sha256:5fe4487c962c7d0be0a2bb2413321acbbe9b0f4c64829d2cefe181dc3a029855"
+---
+
+# Huntsman Announces Third Quarter 2026 Common Dividend
+
+THE WOODLANDS, Texas
+
+
+, July 30, 2026
+
+
+/PRNewswire/ -- Huntsman Corporation (NYSE: HUN) announced today that its Board of Directors has declared a $0.0875 per share cash dividend on its common stock. The dividend is payable on September 30, 2026, to stockholders of record as of September 15, 2026.
+
+
+**About Huntsman:** *Huntsman Corporation is a publicly traded global manufacturer and marketer of diversified chemical products with 2025 revenues of approximately $6 billion from our continuing operations. Our chemical products number in the thousands and are sold worldwide to manufacturers serving a broad and diverse range of consumer and industrial end markets. We operate more than 55 manufacturing, R&D and operations facilities in approximately 25 countries and employ approximately 6,000 associates within our continuing operations. For more information about Huntsman, please visit the company's website at*[www.huntsman.com](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4742158-1&h=1014946961&u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4643852-1%26h%3D2294755937%26u%3Dhttps%253A%252F%252Fwww.huntsman.com%252F%26a%3Dwww.huntsman.com&a=www.huntsman.com) *.*
+
+
+**Social Media:** *X* *:*[www.x.com/Huntsman_Corp](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4742158-1&h=2216242930&u=http%3A%2F%2Fwww.x.com%2FHuntsman_Corp&a=www.x.com%2FHuntsman_Corp) *Facebook* *:*[www.facebook.com/huntsmancorp](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4742158-1&h=67648201&u=http%3A%2F%2Fwww.facebook.com%2Fhuntsmancorp&a=www.facebook.com%2Fhuntsmancorp) *LinkedIn* *:*[www.linkedin.com/company/huntsman](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4742158-1&h=950104099&u=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fhuntsman&a=www.linkedin.com%2Fcompany%2Fhuntsman)
+
+
+**Forward-Looking Statements:** *Certain information in this release constitutes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These statements are based on management's current beliefs and expectations. The forward-looking statements in this release are subject to uncertainty and changes in circumstances and involve risks and uncertainties that may affect the company's operations, markets, products, services, prices and other factors as discussed under the caption "Risk Factors" in the Huntsman companies' filings with the U.S. Securities and Exchange Commission. Significant risks and uncertainties may relate to, but are not limited to, volatile global economic conditions, cyclical and volatile product markets, disruptions in production at manufacturing facilities, reorganization or restructuring of Huntsman's operations, including any delay of, or other negative developments affecting the ability to implement cost reductions, timing of proposed transactions, and manufacturing optimization improvements in Huntsman businesses and realize anticipated cost savings, and other financial, economic, competitive, environmental, political, legal, regulatory and technological factors. The company assumes no obligation to provide revisions to any forward-looking statements should circumstances change, except as otherwise required by applicable laws.*
+
+
+View original content to download multimedia:[https://www.prnewswire.com/news-releases/huntsman-announces-third-quarter-2026-common-dividend-302839481.html](https://www.prnewswire.com/news-releases/huntsman-announces-third-quarter-2026-common-dividend-302839481.html)
+
+
+SOURCE Huntsman Corporation

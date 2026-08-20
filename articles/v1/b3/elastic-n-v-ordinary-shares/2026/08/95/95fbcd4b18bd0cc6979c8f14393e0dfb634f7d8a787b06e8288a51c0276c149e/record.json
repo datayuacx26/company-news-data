@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95fbcd4b18bd0cc6979c8f14393e0dfb634f7d8a787b06e8288a51c0276c149e",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/dynamic-filtering-esql-where-in-subquery",
+    "canonical": "https://www.elastic.co/search-labs/blog/dynamic-filtering-esql-where-in-subquery"
+  },
+  "title": "One ES|QL query instead of two: WHERE IN subquery replaces the copy-paste loop in Elasticsearch",
+  "summary": "Skip the copy-paste loop: ES|QL's WHERE IN subquery builds dynamic filter lists from Elasticsearch subquery results. Supports nested subqueries and NOT IN.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T16:57:11.913468+00:00",
+  "fetched_at": "2026-08-07T16:57:12.625932+00:00",
+  "last_updated_at": "2026-08-18T05:55:59.519145+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/95/95fbcd4b18bd0cc6979c8f14393e0dfb634f7d8a787b06e8288a51c0276c149e/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/95/95fbcd4b18bd0cc6979c8f14393e0dfb634f7d8a787b06e8288a51c0276c149e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12372,
+    "sha256": "sha256:57601b90f4645d529d13340b671a2f20552e700b11e253a177127a8e8b0602c7",
+    "normalized_content_hash": "sha256:1b2de89e5fa85a4d368d242c180b3835150a7cfbaa03ab5d59c8483a876a6fb0"
+  },
+  "provenance": {
+    "source_item_id": "7a6f95e3-21fb-4e9c-a8e4-c8141791d7b6",
+    "external_id": "https://www.elastic.co/search-labs/blog/dynamic-filtering-esql-where-in-subquery"
+  }
+}

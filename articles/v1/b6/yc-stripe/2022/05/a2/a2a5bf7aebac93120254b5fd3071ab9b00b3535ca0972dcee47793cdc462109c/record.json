@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a2a5bf7aebac93120254b5fd3071ab9b00b3535ca0972dcee47793cdc462109c",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/migrating-to-typescript",
+    "canonical": "https://stripe.dev/blog/migrating-to-typescript"
+  },
+  "title": "Migrating millions of lines of code to TypeScript",
+  "summary": "On Sunday, March 6, we migrated we converted more than 3.7 million lines of code with a single pull request. The next day, hundreds of engineers came in to start writing TypeScript for their projects.",
+  "published_at": "2022-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2022/05/a2/a2a5bf7aebac93120254b5fd3071ab9b00b3535ca0972dcee47793cdc462109c/article.md",
+    "record": "articles/v1/b6/yc-stripe/2022/05/a2/a2a5bf7aebac93120254b5fd3071ab9b00b3535ca0972dcee47793cdc462109c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3202,
+    "sha256": "sha256:b769322caa3da70683ec082a3707555dd2d43fbcbe92a4b33bf3bffef4817b85",
+    "normalized_content_hash": "sha256:f6b25137836a9c6f294853830ed8655cff940ca1375debe1ae374e0d8dfce156"
+  },
+  "provenance": {
+    "source_item_id": "bf77f9e0-fdea-475a-84fb-2a8adbea90cf",
+    "external_id": "https://stripe.dev/blog/migrating-to-typescript"
+  }
+}

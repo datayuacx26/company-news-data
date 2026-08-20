@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50a77ea06806576d5c97179c58ef2b302e85f9167cfa45d2ed45b7f9fb1c7397",
+  "company": {
+    "key": "yc-revenuecat",
+    "name": "RevenueCat"
+  },
+  "source": {
+    "id": "yc-revenuecat-rss-41fa37a4cb36",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.revenuecat.com/blog/engineering/verify-revenuecat-entitlements-flutter-firebase",
+    "canonical": "https://www.revenuecat.com/blog/engineering/verify-revenuecat-entitlements-flutter-firebase"
+  },
+  "title": "Don’t trust your Flutter app: verifying RevenueCat entitlements with the Firebase Extension",
+  "summary": "Anyone can patch isPremium to true and stream your premium content for free — here's how to verify RevenueCat entitlements properly with Firebase.",
+  "published_at": "2026-06-09T09:58:34+00:00",
+  "first_seen_at": "2026-07-20T23:24:09.080214+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T01:08:03.720698+00:00",
+  "paths": {
+    "article": "articles/v1/9f/yc-revenuecat/2026/06/50/50a77ea06806576d5c97179c58ef2b302e85f9167cfa45d2ed45b7f9fb1c7397/article.md",
+    "record": "articles/v1/9f/yc-revenuecat/2026/06/50/50a77ea06806576d5c97179c58ef2b302e85f9167cfa45d2ed45b7f9fb1c7397/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33968,
+    "sha256": "sha256:17de999f7997f6d26b74249fd461bf38fc18c88f30d1c5a1f69a0d34a60ebade",
+    "normalized_content_hash": "sha256:f4a3bbae020face611afa6712a34fe2821cf90ffde8c874418c6ad793f2209b2"
+  },
+  "provenance": {
+    "source_item_id": "1461a029-0c0b-4ada-9f05-e2b22b044c0d",
+    "external_id": "https://www.revenuecat.com/blog/engineering/verify-revenuecat-entitlements-flutter-firebase"
+  }
+}

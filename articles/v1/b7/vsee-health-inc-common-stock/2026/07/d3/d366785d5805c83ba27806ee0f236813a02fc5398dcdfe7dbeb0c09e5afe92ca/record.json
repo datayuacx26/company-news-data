@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d366785d5805c83ba27806ee0f236813a02fc5398dcdfe7dbeb0c09e5afe92ca",
+  "company": {
+    "key": "vsee-health-inc-common-stock",
+    "name": "VSee Health Inc."
+  },
+  "source": {
+    "id": "vsee-health-inc-common-stock-news-import-53c418ab6063",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://vsee.com/blog/fedramp-authorized-vs-in-process/",
+    "canonical": "https://vsee.com/blog/fedramp-authorized-vs-in-process/"
+  },
+  "title": "FedRAMP EHR Status: What “Ready, In Process, Authorized, Moderate, and High Actually Mean",
+  "summary": "Is a FedRAMP EHR required for government agencies? Yes for cloud systems handling federal health data — here’s the FISMA/FedRAMP policy chain, plainly explained",
+  "published_at": "2026-07-30T22:43:29+00:00",
+  "first_seen_at": "2026-08-01T00:40:21.274183+00:00",
+  "fetched_at": "2026-08-01T00:40:22.411840+00:00",
+  "last_updated_at": "2026-08-19T22:09:51.349019+00:00",
+  "paths": {
+    "article": "articles/v1/b7/vsee-health-inc-common-stock/2026/07/d3/d366785d5805c83ba27806ee0f236813a02fc5398dcdfe7dbeb0c09e5afe92ca/article.md",
+    "record": "articles/v1/b7/vsee-health-inc-common-stock/2026/07/d3/d366785d5805c83ba27806ee0f236813a02fc5398dcdfe7dbeb0c09e5afe92ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12633,
+    "sha256": "sha256:ccd11606661d921098115cb6e7c44960fd8534c63d6efaf935442f4bf812ab46",
+    "normalized_content_hash": "sha256:80601efe08f55cea63efcf81af12b4cdc8d26d904db90742fd72d327ee56d9e8"
+  },
+  "provenance": {
+    "source_item_id": "c237f5b9-52f9-4ab7-9c6a-569a14efa4ea",
+    "external_id": "https://vsee.com/blog/fedramp-authorized-vs-in-process/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4fa4c9dc9b279f6b74efa7670ec3a6084f639ac1fdabb5d69f0d1258d33411c3",
+  "company": {
+    "key": "yc-doppler",
+    "name": "Doppler"
+  },
+  "source": {
+    "id": "yc-doppler-news-import-86fd2de2d678",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.doppler.com/blog/migrate-from-hcp-vault-secrets-to-doppler",
+    "canonical": "https://www.doppler.com/blog/migrate-from-hcp-vault-secrets-to-doppler"
+  },
+  "title": "HashiCorp Vault Secrets is going away. What now?",
+  "summary": "HCP Vault Secrets is shutting down. Compare HashiCorp's recommended migration path with Doppler and learn how to migrate your secrets in as little as one day.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:53:43.668103+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-19T14:27:17.422364+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-doppler/2026/07/4f/4fa4c9dc9b279f6b74efa7670ec3a6084f639ac1fdabb5d69f0d1258d33411c3/article.md",
+    "record": "articles/v1/82/yc-doppler/2026/07/4f/4fa4c9dc9b279f6b74efa7670ec3a6084f639ac1fdabb5d69f0d1258d33411c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14456,
+    "sha256": "sha256:0f62721e91ac186f04508fa2c2db9fef757ed385251c046287a892bbc9ed1a44",
+    "normalized_content_hash": "sha256:6add37fe9c44fd4055917de5955ea466e3f426f8f2121c043f8f1e4ac5fca28a"
+  },
+  "provenance": {
+    "source_item_id": "f44671c2-73b5-4456-a999-de6b6137c237",
+    "external_id": "https://www.doppler.com/blog/migrate-from-hcp-vault-secrets-to-doppler"
+  }
+}

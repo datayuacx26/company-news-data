@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "462e7804d2bc20289bf744ec21fe7a1a225744cf342d1fa74905021b82ed1818",
+  "company": {
+    "key": "yc-overwatch",
+    "name": "Overwatch"
+  },
+  "source": {
+    "id": "yc-overwatch-news-import-3db2f07671db",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overwatchdata.ai/blog/ai-powered-cybercrime",
+    "canonical": "https://www.overwatchdata.ai/blog/ai-powered-cybercrime"
+  },
+  "title": "AI-Powered Cybercrime: When Machines Run Criminal Operations",
+  "summary": "AI now runs cybercrime operations independently. One attacker used Claude to hit 17 organizations with AI calculating $500K ransoms. North Korean operatives fake into Fortune 500 companies using AI despite having no coding skills. Sophisticated attacks no longer require sophisticated attackers.",
+  "published_at": "2025-09-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:59:37.209926+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T19:55:25.730349+00:00",
+  "paths": {
+    "article": "articles/v1/b8/yc-overwatch/2025/09/46/462e7804d2bc20289bf744ec21fe7a1a225744cf342d1fa74905021b82ed1818/article.md",
+    "record": "articles/v1/b8/yc-overwatch/2025/09/46/462e7804d2bc20289bf744ec21fe7a1a225744cf342d1fa74905021b82ed1818/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4832,
+    "sha256": "sha256:cc8afe83bee3ab3def8c3ac67a1c8c6abd6f001e15ca03c32d85c72a5c318f3c",
+    "normalized_content_hash": "sha256:da49e959e336d6aeef85779e0d97880f6dd99612419f0863a869f72c796100d9"
+  },
+  "provenance": {
+    "source_item_id": "76e0bf83-3490-45db-a3e4-4e8905c4b27e",
+    "external_id": "https://www.overwatchdata.ai/blog/ai-powered-cybercrime"
+  }
+}

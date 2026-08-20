@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "14964277601218614b48795fcb974d925a967952caef091bfbc3df932d6b3774",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/event-notification-handlers-thin-events",
+    "canonical": "https://stripe.dev/blog/event-notification-handlers-thin-events"
+  },
+  "title": "Introducing a better way to process Stripe's thin events",
+  "summary": "Event destinations are central to Stripe integrations but hard to get right. Event notification handlers encapsulate the setup and wiring, letting you focus on business logic and surface errors at development time instead of in production.",
+  "published_at": "2026-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/14/14964277601218614b48795fcb974d925a967952caef091bfbc3df932d6b3774/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/14/14964277601218614b48795fcb974d925a967952caef091bfbc3df932d6b3774/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3687,
+    "sha256": "sha256:4ee6099709fcf4fd44d348307c542c6113280d49a1f46a9cd37d2035b22f6e1d",
+    "normalized_content_hash": "sha256:7a82df46b33053550cfbc76bbbef1494da658d71e4926ff70597f935f2606c43"
+  },
+  "provenance": {
+    "source_item_id": "653cf957-8861-4ad2-ba3b-1278c17055fa",
+    "external_id": "https://stripe.dev/blog/event-notification-handlers-thin-events"
+  }
+}

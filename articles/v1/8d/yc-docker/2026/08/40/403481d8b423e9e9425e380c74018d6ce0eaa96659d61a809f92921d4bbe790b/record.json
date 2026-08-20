@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "403481d8b423e9e9425e380c74018d6ce0eaa96659d61a809f92921d4bbe790b",
+  "company": {
+    "key": "yc-docker",
+    "name": "Docker"
+  },
+  "source": {
+    "id": "yc-docker-rss-8dbda93e62b5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/",
+    "canonical": "https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/"
+  },
+  "title": "Coding Agent Horror Stories: The Command You Already Approved",
+  "summary": "Learn how AI coding agents can run attacker code through commands you already approved and how Docker Sandboxes limit what an attack can reach.",
+  "published_at": "2026-08-18T13:00:00+00:00",
+  "first_seen_at": "2026-08-18T14:21:58.307655+00:00",
+  "fetched_at": "2026-08-18T14:21:59.723143+00:00",
+  "last_updated_at": "2026-08-20T03:29:18.763507+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-docker/2026/08/40/403481d8b423e9e9425e380c74018d6ce0eaa96659d61a809f92921d4bbe790b/article.md",
+    "record": "articles/v1/8d/yc-docker/2026/08/40/403481d8b423e9e9425e380c74018d6ce0eaa96659d61a809f92921d4bbe790b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22189,
+    "sha256": "sha256:bb11b316779503749d3acdff2c612015790a1700b5a2fee933c9811e65be7e8b",
+    "normalized_content_hash": "sha256:7ab08e91f614731fb75db780e7e76ce36170d045d3a420a48575c030a79738d6"
+  },
+  "provenance": {
+    "source_item_id": "9ef66059-b783-46c4-9e01-76285d2e5454",
+    "external_id": "https://www.docker.com/?p=92821"
+  }
+}

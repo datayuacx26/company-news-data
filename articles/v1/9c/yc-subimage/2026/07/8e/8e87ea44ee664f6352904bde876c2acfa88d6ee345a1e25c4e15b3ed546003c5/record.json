@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e87ea44ee664f6352904bde876c2acfa88d6ee345a1e25c4e15b3ed546003c5",
+  "company": {
+    "key": "yc-subimage",
+    "name": "SubImage"
+  },
+  "source": {
+    "id": "yc-subimage-news-import-96b948f674dd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.subimage.io/blog/screwing-up-vuln-mgmt-at-scale/",
+    "canonical": "https://www.subimage.io/blog/screwing-up-vuln-mgmt-at-scale/"
+  },
+  "title": "Screwing up vulnerability management at scale, and building a startup to fix it",
+  "summary": "Introducing SubImage Issues: the vulnerability remediation loop I always needed but could never build",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T02:26:23.667341+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T16:56:51.266094+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-subimage/2026/07/8e/8e87ea44ee664f6352904bde876c2acfa88d6ee345a1e25c4e15b3ed546003c5/article.md",
+    "record": "articles/v1/9c/yc-subimage/2026/07/8e/8e87ea44ee664f6352904bde876c2acfa88d6ee345a1e25c4e15b3ed546003c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9012,
+    "sha256": "sha256:b60041c2b61b645541ca413fd7d8813aa7a56ad73f57b5675e6e885800e07395",
+    "normalized_content_hash": "sha256:28547f8324eaf4360ab92feb6b236953ff5ca2d829f94f294fccdbf1e2904571"
+  },
+  "provenance": {
+    "source_item_id": "ce78bdda-9936-4843-93c7-2a6af9f160bd",
+    "external_id": "https://www.subimage.io/blog/screwing-up-vuln-mgmt-at-scale/"
+  }
+}

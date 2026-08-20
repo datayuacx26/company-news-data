@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "faef5078a547a950b0d96b8ad09b2210f3a695a9bdce867237ef05c5bbd32267",
+  "company": {
+    "key": "yc-plivo",
+    "name": "Plivo"
+  },
+  "source": {
+    "id": "yc-plivo-rss-7fc8cee78b57",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.plivo.com/blog/caller-id-vs-sender-id/",
+    "canonical": "https://www.plivo.com/blog/caller-id-vs-sender-id/"
+  },
+  "title": "Caller ID vs. Sender ID",
+  "summary": "Caller ID identifies who is calling you, while sender ID accompanies text messages. This primer explains how the two work and where each one is used.",
+  "published_at": "2022-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:51.132542+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T02:00:51.733569+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-plivo/2022/08/fa/faef5078a547a950b0d96b8ad09b2210f3a695a9bdce867237ef05c5bbd32267/article.md",
+    "record": "articles/v1/bc/yc-plivo/2022/08/fa/faef5078a547a950b0d96b8ad09b2210f3a695a9bdce867237ef05c5bbd32267/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5749,
+    "sha256": "sha256:4bf55f86d01b5b2d271728472697157b0dd86543154354f272b32dd093d240c4",
+    "normalized_content_hash": "sha256:e70a55d9940407282bc992bae41134285cfae55f7270d3b2a5a6f72043b61452"
+  },
+  "provenance": {
+    "source_item_id": "38842b25-cc97-4854-8b36-40042d6b0342",
+    "external_id": "https://www.plivo.com/blog/caller-id-vs-sender-id/"
+  }
+}

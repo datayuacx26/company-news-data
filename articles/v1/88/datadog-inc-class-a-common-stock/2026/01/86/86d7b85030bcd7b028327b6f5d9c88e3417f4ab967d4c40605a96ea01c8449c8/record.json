@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86d7b85030bcd7b028327b6f5d9c88e3417f4ab967d4c40605a96ea01c8449c8",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/ebpf-workload-protection-lessons/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/ebpf-workload-protection-lessons/"
+  },
+  "title": "Hardening eBPF for runtime security: Lessons from Datadog Workload Protection",
+  "summary": "Learn field-tested lessons for eBPF-powered workload protection.",
+  "published_at": "2026-01-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:58:18.576112+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/01/86/86d7b85030bcd7b028327b6f5d9c88e3417f4ab967d4c40605a96ea01c8449c8/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/01/86/86d7b85030bcd7b028327b6f5d9c88e3417f4ab967d4c40605a96ea01c8449c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 58006,
+    "sha256": "sha256:a8e68e3ad7ba4216bcb856848b78293a06ffa4d7949dfaf46f5d11b242efabfa",
+    "normalized_content_hash": "sha256:b63a241223f1831ae008481572063c0f0744585aeee31c92dea78936bd0946ae"
+  },
+  "provenance": {
+    "source_item_id": "acb00fd1-a6f1-4f8a-a1c6-b6815d329156",
+    "external_id": "https://www.datadoghq.com/blog/engineering/ebpf-workload-protection-lessons/"
+  }
+}

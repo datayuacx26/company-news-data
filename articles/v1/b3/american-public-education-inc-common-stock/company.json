@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "american-public-education-inc-common-stock",
+    "name": "American Public Education Inc."
+  },
+  "record_count": 24,
+  "first_published_at": "2026-04-14T19:48:20+00:00",
+  "last_published_at": "2026-08-05T23:01:32+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 12
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b3/american-public-education-inc-common-stock/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 29931,
+        "sha256": "sha256:60d5a6683686f6e38033a52d6c8fd7da41db64d79e9a2f9ff1b1922280e410d9",
+        "newest_at": "2026-08-05T23:01:32+00:00",
+        "oldest_at": "2026-04-14T19:48:20+00:00"
+      }
+    ]
+  }
+}

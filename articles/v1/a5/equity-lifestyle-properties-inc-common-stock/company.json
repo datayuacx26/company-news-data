@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "equity-lifestyle-properties-inc-common-stock",
+    "name": "Equity Lifestyle Properties Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-01-20T23:03:00+00:00",
+  "last_published_at": "2026-07-28T21:14:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a5/equity-lifestyle-properties-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14835,
+        "sha256": "sha256:0cb1f54b8c8dfdefa6975531d28f7edc852b9e8770c092dd147c8783f521215a",
+        "newest_at": "2026-07-28T21:14:00+00:00",
+        "oldest_at": "2026-01-20T23:03:00+00:00"
+      }
+    ]
+  }
+}

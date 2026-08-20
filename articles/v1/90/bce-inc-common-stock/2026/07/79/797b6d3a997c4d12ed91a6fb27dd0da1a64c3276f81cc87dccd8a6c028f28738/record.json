@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "797b6d3a997c4d12ed91a6fb27dd0da1a64c3276f81cc87dccd8a6c028f28738",
+  "company": {
+    "key": "bce-inc-common-stock",
+    "name": "BCE Inc."
+  },
+  "source": {
+    "id": "bce-inc-common-stock-news-import-c0c80212e2b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.bce.ca/news-and-media/perspectives",
+    "canonical": "https://www.bce.ca/news-and-media/perspectives"
+  },
+  "title": "Perspectives",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T08:00:13.329738+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T21:51:35.029313+00:00",
+  "paths": {
+    "article": "articles/v1/90/bce-inc-common-stock/2026/07/79/797b6d3a997c4d12ed91a6fb27dd0da1a64c3276f81cc87dccd8a6c028f28738/article.md",
+    "record": "articles/v1/90/bce-inc-common-stock/2026/07/79/797b6d3a997c4d12ed91a6fb27dd0da1a64c3276f81cc87dccd8a6c028f28738/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1062,
+    "sha256": "sha256:db38abbe0e8e8ef3b0c761cae1ec5bfa08d6848bc7a0c6dda93798bc98205647",
+    "normalized_content_hash": "sha256:d8bc2940baab8e09eef90a917398db16214116e887c0d22ba163b79b6e78ffc5"
+  },
+  "provenance": {
+    "source_item_id": "e5955545-cb8c-4afe-a0b2-fc1c2b2b2d94",
+    "external_id": "https://www.bce.ca/news-and-media/perspectives"
+  }
+}

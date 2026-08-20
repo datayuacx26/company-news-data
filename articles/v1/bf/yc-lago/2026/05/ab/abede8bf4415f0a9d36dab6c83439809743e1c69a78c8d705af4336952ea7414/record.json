@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "abede8bf4415f0a9d36dab6c83439809743e1c69a78c8d705af4336952ea7414",
+  "company": {
+    "key": "yc-lago",
+    "name": "Lago"
+  },
+  "source": {
+    "id": "yc-lago-news-import-cc6c03d3f684",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlago.com/blog/ai-billing-is-mostly-token-plumbing",
+    "canonical": "https://getlago.com/blog/ai-billing-is-mostly-token-plumbing"
+  },
+  "title": "AI Billing is (mostly) token plumbing",
+  "summary": "Why we built the Lago Agent SDK, and what we're shipping next. We just released the Lago Agent SDK. Two libraries, Python and TypeScript. They wrap your LLM client and send token usage to Lago for billing. That's the surface. The point is what you stop doing. The token plumbing Every team that shipped an AI feature in the last 18 months built the same thing. Smart search, inbox triage, meeting summaries, coding agents, vibe-coded apps. All of them ended up writing token-extraction middlewar",
+  "published_at": "2026-05-26T21:00:43+00:00",
+  "first_seen_at": "2026-07-25T11:29:02.565124+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-19T16:09:29.517908+00:00",
+  "paths": {
+    "article": "articles/v1/bf/yc-lago/2026/05/ab/abede8bf4415f0a9d36dab6c83439809743e1c69a78c8d705af4336952ea7414/article.md",
+    "record": "articles/v1/bf/yc-lago/2026/05/ab/abede8bf4415f0a9d36dab6c83439809743e1c69a78c8d705af4336952ea7414/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9501,
+    "sha256": "sha256:805da9568a00d22db8238adbeb9e71d01b75eaaf1f080f37c90d27bb2a051ed9",
+    "normalized_content_hash": "sha256:35136644093ee752298a2e4a543177b25b9f4d4992678541d832e368d7e64e60"
+  },
+  "provenance": {
+    "source_item_id": "ffd9607b-4dfe-437d-acb3-465062ff0c84",
+    "external_id": "https://getlago.com/blog/ai-billing-is-mostly-token-plumbing"
+  }
+}

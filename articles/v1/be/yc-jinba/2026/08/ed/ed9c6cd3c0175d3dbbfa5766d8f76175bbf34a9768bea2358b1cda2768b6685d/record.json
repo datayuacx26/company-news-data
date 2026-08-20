@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed9c6cd3c0175d3dbbfa5766d8f76175bbf34a9768bea2358b1cda2768b6685d",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/monitor-reduce-openai-api-costs",
+    "canonical": "https://jinba.io/blog/monitor-reduce-openai-api-costs"
+  },
+  "title": "7 Tools to Monitor and Reduce OpenAI API Costs in Production",
+  "summary": "7 tools to monitor and cut OpenAI API costs: OpenAI dashboard, token logging, Helicone, LangSmith, Batch API, model routing, and Jinba Flow.",
+  "published_at": "2026-08-02T17:00:00+00:00",
+  "first_seen_at": "2026-08-03T04:14:34.998373+00:00",
+  "fetched_at": "2026-08-03T04:26:23.705919+00:00",
+  "last_updated_at": "2026-08-13T01:06:09.775781+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/ed/ed9c6cd3c0175d3dbbfa5766d8f76175bbf34a9768bea2358b1cda2768b6685d/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/ed/ed9c6cd3c0175d3dbbfa5766d8f76175bbf34a9768bea2358b1cda2768b6685d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17566,
+    "sha256": "sha256:8a6bd94dfc393057721db45c39d3ab465f5e1f476c772aef00a8c17274d798b3",
+    "normalized_content_hash": "sha256:17fb65748026455ccf61c82d0a1d724ddf60540d463640128e189b2125914dc0"
+  },
+  "provenance": {
+    "source_item_id": "6ff1a1a3-4dc2-44c9-b135-03017dc90410",
+    "external_id": "https://jinba.io/blog/monitor-reduce-openai-api-costs"
+  }
+}

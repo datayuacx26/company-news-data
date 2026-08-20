@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a374e20d52edf0c2fcd341a79e7aa47d27281ec91610b2fe48490c221ce2f0d0",
+  "company": {
+    "key": "yc-etleap",
+    "name": "Etleap"
+  },
+  "source": {
+    "id": "yc-etleap-news-import-75d796be5177",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://etleap.com/blog/introducing-apache-iceberg-in-etleap-achieve-fresh-and-unified-data-seamlessly",
+    "canonical": "https://etleap.com/blog/introducing-apache-iceberg-in-etleap-achieve-fresh-and-unified-data-seamlessly"
+  },
+  "title": "Introducing Apache Iceberg in Etleap: Achieve Fresh and Unified Data Seamlessly",
+  "summary": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T03:08:49.604130+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T17:45:57.423913+00:00",
+  "paths": {
+    "article": "articles/v1/90/yc-etleap/2026/07/a3/a374e20d52edf0c2fcd341a79e7aa47d27281ec91610b2fe48490c221ce2f0d0/article.md",
+    "record": "articles/v1/90/yc-etleap/2026/07/a3/a374e20d52edf0c2fcd341a79e7aa47d27281ec91610b2fe48490c221ce2f0d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9988,
+    "sha256": "sha256:58d014a64157662ca339319ffb68704b5fd12ec94aee3b89954db864f4b23d9f",
+    "normalized_content_hash": "sha256:828fa41a8272ea6ea68a68a52f6eefc7cc15f06646ada98a740d0f617c8c4d96"
+  },
+  "provenance": {
+    "source_item_id": "f8dc5ca6-01d3-46a8-a1e0-c43272bcb76d",
+    "external_id": "https://etleap.com/blog/introducing-apache-iceberg-in-etleap-achieve-fresh-and-unified-data-seamlessly"
+  }
+}

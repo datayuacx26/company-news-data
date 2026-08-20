@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e4627c787db3c096c1763813cd145ffe2b73175024e9640f8531a87e8951b82",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-9eed3a34e5de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/blog/fast-runners-at-scale",
+    "canonical": "https://www.buildbuddy.io/blog/fast-runners-at-scale"
+  },
+  "title": "Snapshot, Chunk, Clone: Fast Runners at Scale",
+  "summary": "At BuildBuddy, our core mission is to make builds faster. We use Firecracker snapshots to keep warmed-up workers available on demand.",
+  "published_at": "2026-01-26T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:54.250593+00:00",
+  "fetched_at": "2026-07-28T22:23:07.215004+00:00",
+  "last_updated_at": "2026-08-20T03:45:46.032492+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/01/7e/7e4627c787db3c096c1763813cd145ffe2b73175024e9640f8531a87e8951b82/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/01/7e/7e4627c787db3c096c1763813cd145ffe2b73175024e9640f8531a87e8951b82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19370,
+    "sha256": "sha256:59429ad465d0ba5bc9e92d96fb0fb5da6616a0dbc637dc8bd26a594dd52bdb34",
+    "normalized_content_hash": "sha256:bcf780ca34d1a1afd11fc3c7df4fcdd697c6929e706632e45b896c0a749426ea"
+  },
+  "provenance": {
+    "source_item_id": "b9a37229-3b12-4ca3-ac21-7551a8d6b6c1",
+    "external_id": "https://www.buildbuddy.io/blog/fast-runners-at-scale"
+  }
+}

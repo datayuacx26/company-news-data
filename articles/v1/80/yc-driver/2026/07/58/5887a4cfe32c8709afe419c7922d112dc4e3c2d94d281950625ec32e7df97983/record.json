@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5887a4cfe32c8709afe419c7922d112dc4e3c2d94d281950625ec32e7df97983",
+  "company": {
+    "key": "yc-driver",
+    "name": "Driver"
+  },
+  "source": {
+    "id": "yc-driver-news-import-217796f58c6f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.driver.ai/blog/compiling-context-delivering-signal",
+    "canonical": "https://www.driver.ai/blog/compiling-context-delivering-signal/"
+  },
+  "title": "Compiling Context, Delivering Signal",
+  "summary": "Intelligence without the right signal cannot deliver. Daniel explains how Driver's compiler frontend, atomic guiding documents, and a focused runtime step, including gather_task_context, jointly optimize exhaustiveness and high signal-to-noise for AI agents at scale.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T17:03:14.637812+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-08-20T02:15:57.442275+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-driver/2026/07/58/5887a4cfe32c8709afe419c7922d112dc4e3c2d94d281950625ec32e7df97983/article.md",
+    "record": "articles/v1/80/yc-driver/2026/07/58/5887a4cfe32c8709afe419c7922d112dc4e3c2d94d281950625ec32e7df97983/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19082,
+    "sha256": "sha256:475a84cfc516dc27e117e1af456fe738fc3dd2f5c0e6ae2e42f3565fa308ca23",
+    "normalized_content_hash": "sha256:8293c00effc8d29aa567e3602a78159c6376d8e3b10c9d4f68778247505a1b4f"
+  },
+  "provenance": {
+    "source_item_id": "7180c89f-547a-49d0-8810-857779296ac9",
+    "external_id": "https://www.driver.ai/blog/compiling-context-delivering-signal/"
+  }
+}

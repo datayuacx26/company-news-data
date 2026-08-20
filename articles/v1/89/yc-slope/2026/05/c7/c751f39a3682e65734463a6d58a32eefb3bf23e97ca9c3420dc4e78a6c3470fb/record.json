@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c751f39a3682e65734463a6d58a32eefb3bf23e97ca9c3420dc4e78a6c3470fb",
+  "company": {
+    "key": "yc-slope",
+    "name": "Slope"
+  },
+  "source": {
+    "id": "yc-slope-news-import-2fd6ca50c1b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://slopepay.com/blog/context-aware-ai-bank-transaction-labels",
+    "canonical": "https://slopepay.com/blog/context-aware-ai-bank-transaction-labels"
+  },
+  "title": "From Transaction Labels to Customer Understanding: The Third Layer of Slope Transformer",
+  "summary": "Why per-transaction text labels have a structural ceiling in cashflow underwriting, and how we're teaching an AI to reason about transactions in context, producing both the corrections our ML model needs and the questions our risk team should be asking.",
+  "published_at": null,
+  "first_seen_at": "2026-07-26T00:45:22.788113+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-20T01:55:32.888572+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-slope/2026/05/c7/c751f39a3682e65734463a6d58a32eefb3bf23e97ca9c3420dc4e78a6c3470fb/article.md",
+    "record": "articles/v1/89/yc-slope/2026/05/c7/c751f39a3682e65734463a6d58a32eefb3bf23e97ca9c3420dc4e78a6c3470fb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26900,
+    "sha256": "sha256:88d3582ba46b11dd44f271d37a1fcdbd4dcb1f033ed8506616db57865d1ea84c",
+    "normalized_content_hash": "sha256:5699e68564eace31a91c9e4d088ea000b8dac93c478d89cdafb7b5df76a9cd1a"
+  },
+  "provenance": {
+    "source_item_id": "5e7c45b0-5285-4836-b44f-8b8b434b194d",
+    "external_id": "https://slopepay.com/blog/context-aware-ai-bank-transaction-labels"
+  }
+}

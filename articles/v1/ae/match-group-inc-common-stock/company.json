@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "match-group-inc-common-stock",
+    "name": "Match Group Inc."
+  },
+  "record_count": 274,
+  "first_published_at": "2021-12-10T06:21:04+00:00",
+  "last_published_at": "2026-08-13T21:27:52+00:00",
+  "partitions": [
+    {
+      "partition": "2021-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 7
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 12
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 14
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 11
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 9
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 16
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 6,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/match-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49229,
+        "sha256": "sha256:801ea45a0facd757057d3207e73d639e7d047e516a937fe79297dafecf6bcc11",
+        "newest_at": "2026-08-13T21:27:52+00:00",
+        "oldest_at": "2026-03-17T20:17:17+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ae/match-group-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 54822,
+        "sha256": "sha256:1d0ed537bfc27e49f19cf5cdc6de6505ac32af0534f4d0ea7bc5fa91403c8bca",
+        "newest_at": "2026-03-14T20:17:42+00:00",
+        "oldest_at": "2025-08-06T05:28:09+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/ae/match-group-inc-common-stock/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 54090,
+        "sha256": "sha256:d2a7aae66990ca73692ea065a21b3c4da3f57388084f812063a58b90de2e8ecc",
+        "newest_at": "2025-08-06T04:57:43+00:00",
+        "oldest_at": "2025-01-16T00:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/ae/match-group-inc-common-stock/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 49592,
+        "sha256": "sha256:6eea9f61e65e3bafc6775fffa3d9be4df703d4f933ea3918af49c5b205ce1e88",
+        "newest_at": "2024-12-15T00:00:00+00:00",
+        "oldest_at": "2023-08-03T00:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/ae/match-group-inc-common-stock/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 49378,
+        "sha256": "sha256:79d25fd572ca032387047155b987689ad5a9ce76e23be4666593940d3287a7fe",
+        "newest_at": "2023-08-01T00:00:00+00:00",
+        "oldest_at": "2022-08-02T00:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/ae/match-group-inc-common-stock/index/pages/000006.json",
+        "record_count": 24,
+        "byte_count": 23821,
+        "sha256": "sha256:5d8f1a48077f90cfa638bfcd7c1d099944d76d0a8c57f2ee8cf0fdeadf4d7cd9",
+        "newest_at": "2022-07-13T00:00:00+00:00",
+        "oldest_at": "2021-12-10T06:21:04+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c620985e868bfdfe675f1bfe05bfe6cb199a05a0fab080b56d9f976bdb61b398",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/noise-suppression-library/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/noise-suppression-library/"
+  },
+  "title": "How we built a real-time, client-side noise suppression library without server dependencies",
+  "summary": "Learn how we implemented and open-sourced a noise filter for real-time audio chat without compromising performance. Better yet, try the demo and add it to your own project today.",
+  "published_at": "2025-06-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/c6/c620985e868bfdfe675f1bfe05bfe6cb199a05a0fab080b56d9f976bdb61b398/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/c6/c620985e868bfdfe675f1bfe05bfe6cb199a05a0fab080b56d9f976bdb61b398/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20489,
+    "sha256": "sha256:cdfe657d68c015f50998e49d6318a5aba524dfaae4109cca75fe81cc8e2fe4cb",
+    "normalized_content_hash": "sha256:78ab4f3056e2a9dc194236eceb3e8ccaffb521b47e8b513cb3f2c6a100e96290"
+  },
+  "provenance": {
+    "source_item_id": "7c211e2a-c400-45d6-9867-9a45fdbe0636",
+    "external_id": "https://www.datadoghq.com/blog/engineering/noise-suppression-library/"
+  }
+}

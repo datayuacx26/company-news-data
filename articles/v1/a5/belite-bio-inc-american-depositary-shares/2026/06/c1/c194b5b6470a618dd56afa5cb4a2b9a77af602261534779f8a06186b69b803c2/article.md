@@ -1,0 +1,32 @@
+---
+schema_version: "1.0.0"
+document_id: "c194b5b6470a618dd56afa5cb4a2b9a77af602261534779f8a06186b69b803c2"
+company_key: "belite-bio-inc-american-depositary-shares"
+company: "Belite Bio Inc"
+source_id: "belite-bio-inc-american-depositary-shares-rss-c7b7fec190d8"
+canonical_url: "https://investors.belitebio.com/news-releases/news-release-details/belite-bio-participate-goldman-sachs-47th-annual-global"
+published_at: "2026-06-02T12:00:57+00:00"
+first_seen_at: "2026-07-26T10:17:09.272879+00:00"
+fetched_at: "2026-07-28T20:49:52.299135+00:00"
+content_hash: "sha256:6da4c95000aea3d1cc686dfeb7e8835a3c707c675537336c8339896f246e4bc0"
+---
+
+# Belite Bio to Participate in the Goldman Sachs 47th Annual Global Healthcare Conference
+
+[PDF Version](https://investors.belitebio.com/node/9431/pdf)
+
+
+SAN DIEGO, June 02, 2026 (GLOBE NEWSWIRE) --[Belite Bio](https://www.globenewswire.com/Tracker?data=SIc0d_E_QHeQvpQzMfkVQrmljKHShAmKY8UQlHVTZS-w490EAN_U6yaXLPUXJVTFphdWi43mbf-rzN0X6pWlk66eOPMbyVzGIVDAc9FyMsK-OXXnQQKfUJBDh6vfs18o3OT2gsgkrtuDoVmhq0Gq0O_-1bD2SxxAOTcJ9w70fPX6gaQcbcLvQRnwlqkScCd0yJ8WhwN7gUs2r1TAovH72kiFm6K1hCvOs1A7rTgWL_w=) , Inc (NASDAQ: BLTE) (“Belite Bio®” or the “Company”), a clinical-stage drug development company focused on advancing novel therapeutics targeting degenerative retinal diseases that have significant unmet medical needs, today announced that the Company will participate in a fireside chat at the Goldman Sachs 47th Annual Global Healthcare Conference on Monday, June 8, 2026 at 4:00 pm ET.
+
+
+**Webcast Link Instructions**
+Webcasts of the presentations can be accessed under "Events" in the investor relations section of the Belite Bio website at:[https://investors.belitebio.com/presentations-events/events](https://www.globenewswire.com/Tracker?data=9cR1TzRh3ryxrvWmdCrBsFvYxj9o5m0hRxy-8JlhL3svhZJ8-m8cZiRfpfH21cSP3ML4w9BHPZyXXH_ZALFSEaWwFnHDlOnQ8Y_RMbqH5hIoAo5etaDJjV-kBcw69fLQoVN59lr7rRo2vYyf0PN4Zw--IlG92ilevVEaToKpeZbpLYdm96DwcBBZ3PNb5A0MXoXA7MJPaAEp-R1kQIt2Ag==) . The replays will be archived for 90 days following the presentation date.
+
+
+**About Belite Bio**
+Belite Bio is a clinical-stage drug development company focused on advancing novel therapeutics targeting degenerative retinal diseases that have significant unmet medical need, such as Stargardt disease type 1 (STGD1) and geographic atrophy (GA) in advanced dry age-related macular degeneration (AMD), in addition to specific metabolic diseases. Belite Bio’s lead candidate, tinlarebant, is an oral therapy intended to reduce the accumulation of bisretinoid toxins in the eye. The Company has completed a Phase 3 trial (DRAGON) in adolescent and adult subjects with STGD1, which met its primary endpoint, and the drug is currently being evaluated in a Phase 2/3 trial (DRAGON II) in adolescent and adult subjects with STGD1 and a Phase 3 trial (PHOENIX) in subjects with GA. For more information, follow us on[X](https://www.globenewswire.com/Tracker?data=3tQuAUya2RVWgZIcTwIv8cHHLccMu8QOjUUGwPecR-w-hf6_5BD1_piYzFgZYeNhp68ptswH6Hyhsm2b98_8VXSON9iH6rGMgjFB8lU8jlhyaMMtSNH75srQnpfD4E_EnTNEsZ5p82PVTZnEpgTt3c8ou2zntfGU-VxO2vNzNcR9nzljApNm8GgkJr7UXlHNNqKhifVAFGZ-SrOmZWHB6CwOoSg6MgYyngUyYWeE8cED-fRjASWi1egmKpORFdqh2EX_NTjn2739cp3HdRBHimp43QipJgahT9sJ9FzkZYslVaIxZqtNhMW9sg3JMWqs4UG8o9s3VAO8DDdJM_zaUvcsyeCg1p5rfYJN-SeYd1X86FntAjZBigIzFt_kX5lC-YFpPfOH9HuGoV8olWSiHKHAvU4O0cWUMS07wL3HZg34PuHEQAV0ZnhHoM3DYs5Vl-rjoHeVBlphHTz7HzCRvNDeQQfyKEWcngJnT10-DwdQKsAD_5e-5NMo53fN4fI1WLp62XwZNln8ICj0NY8Oym-M8n4Fz4pVhLFXwvU9ItPIKo04WVdvjWfkQvqxnO7piKgacu0Z-QdXdgTpRApQ6KRVrB7bpMOBhh3ZVSII1Rg=) ,[Instagram](https://www.globenewswire.com/Tracker?data=VXuihATULc8b5TOBsVCFyrZ33O2-6zJnaJuoV5L6k-HpSpAWSosc4DNa2Pi6exXVyT-2GafnUHuGlmJrYnF6Aok2HJ6dHfMJjmAwBagn1PLWUUyZ-gpuls7JB6Dfi_Qcys9-OfCS4LMhH84mjycT6ZkTqsC1VcO7fBPT8sLcDBMIU-XFF6MVl9MrO56jFRK5ukuCbNeJlM8vECS1Tuz8at6cW4DHn3ZlaLxu5fzUaQHP-EBk1peP0QRHD5U72V5ZIyKg2gvB_i4KkRSYkEBM92t_nKIRRMUyoupFHhdSnGeijf_YiogNrISEcGF9ScCcNT6qG-GbIKqaPYiZpEWvUdExbuPYJG_DA2cYTbjhJR37vaGxJWLFBM7it0JFer2aIS0YwLIdNd2eViBLnDwSv3TKn9MsHREGgoBq4W0h2-MPIB8ZiP-uvwlte8q8ETsryb2gHjzO_ZMlczQTTtsgLM2nA5Y7lP2BhVKKnXKgM981-hQ-FKilZOqVa2fYb0EDzWh-vWvS_1KJ4mJwCIIwaFwE4a5_GzB9LBXsoF9idL0eT2NRx3diVpgtvuanAjURIvdVFa2Gl3WCOi4Adl_A9ACwOEhKXHRAm7yRij_Wa6_u69_s2U6PmiVqpT6lN2sZ0TFO5gTlwftP6n8Q4Mh4B7uI3XLkr8Mbv0Q8JM8VMSvds2LDkcv_JMgBYcc1sqQK) ,[LinkedIn](https://www.globenewswire.com/Tracker?data=FZG4DVfwQb7T9AGPGfBpS3zAM9N9DgMOTcWebtOL79Sl_yXkPg06hmzgsJRhwNS8Ive_hfJE7wGfrsYXt5709FNzjs9cvPpUtOhMH3vP-XK8hzUVrzmRCpI_Pd5WP2EhqJFfxbO9n5YOkLfzntmQ9EytoPk4aSJuz17gxuysm_JCGuNaZx6aZdWI0rqE3eD08kmh4g5yztXckQaX2c8HOvtwix8grJSsLi6tKHNwL3rOAxM41qxpWleHPvzdfeB0RHP6ZDssUllKq71zeOrmOiaQz4J5XPu6b4LQloCOs6le1epEJfghOG9iCMkToa74aaA-Cg3lPlxoccqeUQaGOjdn5ljqI5JHx4sYWbthcXeTEcVMLdoUoQUgfp2QqgI92tb1rMnePN6UB-QznFXM9e5Yte0RTd3l0UbpDlvGIcKpdwBTZ2l0FDEuvb0oJ91JqrDplG9RQ_z_cq5RUpY9o93Kt6P4OwlODgQVpPUtINdCxRaJ0Pt1gqC077VRDUfRpY0G9jU1bjZk8I30jnJoOOXtxVW3X-wGgM2pKn5W8aunO6WgagFWnxhDMfkWjICxHFDlQj62WarEBxvuHuUE8X1UazZd-3m5-rjnKn0IUDa5KQjbZo5WzbpJbDxGnIAvpVWyiIuask3UkW5_Aicyl8gZGrs7wl26i91eNc-y3G_dIRpDhj2rj9v1IUYnvNoj) , and[Facebook](https://www.globenewswire.com/Tracker?data=A6swgQfy5zmKoYkzDnqQZeyx_yybaY5YInX7JWkaTrikXroofMnTLF-z-qThKXAl2PsXsvf80jyKgQEfP9xgWBt47Vo_ueyK25sSPWry-6NSQ21Z1fBn-z0226HYpRH0zmzLSEG-Qsb4sgtCGC6FU9zgaixVasGdubK2viMMvnXhhCJ5fsvqYfn4bVhHuzBVzk1XnN3Yf_oYGw2OJnrtdBjrE3xPsxLIfoqzZNrZYlR4ZfS64U4keI8M_GZTsXlnaGQ8swYiua8K7XpD1JKye9L6_3-lfrAJqR4ydcKfjwpAt51MUDt9T3WoWzkG7ANK-FXv3lelVVLFDRlEbIlEv5XMw20zVuxhL2qLvaECnZ-A6T5RHJBBZR5ll9LCtKpOWZroj8UG7aK0DZcciHTPLCP1VAwVy2WiqFXYsyDzAIY3LtSm4_2OIiu4GkuLsklhRmJSbuqhhCygX3AsVQHF5bMTYF_i5RSNENRF59fnpO9Kze8p1HmX7bdS3nJiaZp53uJegJnvEefzk7RBICMyTwFj_VD9SxLqUL6A13SICKl9oysR5WjQPmnEmk23pTFWA8BJzG-fthJVIf3JeRf1Yp-uKnxydDKiEaqGzXg760ACYyDpAqxgfAWQZY1ukGYvBhoIGOI-ZXdFu-IpcZdZIJIi07WdSgwFhUAPGnlCEoGaHxw92jsmqWLfXuav7yXn) , or visit us at[www.belitebio.com](https://www.globenewswire.com/Tracker?data=BqgAX69mBk3CH0zn-U1cZm9BD6cA3Snyjd5VfuPRRM9GzQ0CI7Hu6kkqEj8L1M2SS7i4p3H0M4LI4TDzVOHppyv43uEnCjsyhfl8DuDCPu0=) .
+
+
+**Media and Investor Relations Contacts:**
+**Jennifer Wu /**[ir@belitebio.com](https://www.globenewswire.com/Tracker?data=t1hNKyPDupV4QIfPlrXTVwEkbqkAzUvA92hpt448NnA2GWdbxwlox2zsxVPbsGIxCwIreGQC53Mtb_pGjx-sTwpJjjqX4u3ORglegYAu6MI=)
+**Argot Partners /**[belite@argotpartners.com](https://www.globenewswire.com/Tracker?data=iDaHFwLw3TW3C1zt1n21XSs8Re8MioZz4JPWOSFWsaC8BqPFVxrtQ8vSX1pAWyP5J06OQPm2bFx4ViLp8JbaheaL07WIn_a4AH4FX9kcbS7u6YbubyHPwB0UJjWiHq83) ****

@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-jet-admin",
+    "name": "Jet Admin"
+  },
+  "record_count": 98,
+  "first_published_at": "2023-03-07T18:32:12+00:00",
+  "last_published_at": "2026-07-28T20:29:10+00:00",
+  "partitions": [
+    {
+      "partition": "2023-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 86
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9f/yc-jet-admin/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 59343,
+        "sha256": "sha256:4e63b20ec04a0c70ab33312b137e9ec3df59c3cc93c95cc31f03146fdbf913fe",
+        "newest_at": "2026-07-28T20:29:10+00:00",
+        "oldest_at": "2026-07-24T11:50:48+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/9f/yc-jet-admin/index/pages/000002.json",
+        "record_count": 48,
+        "byte_count": 56730,
+        "sha256": "sha256:d7bab7fb16c428a3d1ac260254595c830bac8cfdd9668ed10c37d1361ba26d21",
+        "newest_at": "2026-07-24T11:27:41+00:00",
+        "oldest_at": "2023-03-07T18:32:12+00:00"
+      }
+    ]
+  }
+}

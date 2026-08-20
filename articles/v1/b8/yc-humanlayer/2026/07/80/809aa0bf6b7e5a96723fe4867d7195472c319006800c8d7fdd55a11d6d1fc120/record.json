@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "809aa0bf6b7e5a96723fe4867d7195472c319006800c8d7fdd55a11d6d1fc120",
+  "company": {
+    "key": "yc-humanlayer",
+    "name": "HumanLayer"
+  },
+  "source": {
+    "id": "yc-humanlayer-news-import-a7d3053d1b06",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md",
+    "canonical": "https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md"
+  },
+  "title": "Getting Claude to Actually Read Your CLAUDE.md",
+  "summary": "Using conditional XML blocks to make Claude pay attention to the right instructions at the right time.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T08:50:39.103220+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-19T19:49:59.988199+00:00",
+  "paths": {
+    "article": "articles/v1/b8/yc-humanlayer/2026/07/80/809aa0bf6b7e5a96723fe4867d7195472c319006800c8d7fdd55a11d6d1fc120/article.md",
+    "record": "articles/v1/b8/yc-humanlayer/2026/07/80/809aa0bf6b7e5a96723fe4867d7195472c319006800c8d7fdd55a11d6d1fc120/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3129,
+    "sha256": "sha256:dca17291e30d65f5cf7a2511a38492fad05043b5066bd46668a42a16519d6be0",
+    "normalized_content_hash": "sha256:40fb6c4782de08315e557346ac06dbbeb07a825277e83bda60664ff98857c10f"
+  },
+  "provenance": {
+    "source_item_id": "b4f2206a-568d-4ea6-bcdd-7c43c3234139",
+    "external_id": "https://www.humanlayer.dev/blog/stop-claude-from-ignoring-your-claude-md"
+  }
+}

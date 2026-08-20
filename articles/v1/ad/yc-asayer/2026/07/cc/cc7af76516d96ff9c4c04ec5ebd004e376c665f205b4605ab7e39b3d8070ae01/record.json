@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc7af76516d96ff9c4c04ec5ebd004e376c665f205b4605ab7e39b3d8070ae01",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/orm-or-raw-sql/",
+    "canonical": "https://blog.openreplay.com/orm-or-raw-sql/"
+  },
+  "title": "ORM vs Raw SQL: Which Should You Choose?",
+  "summary": "ORM vs raw SQL explained: compare safety, speed, and control, see why N+1 hurts more than abstraction, and choose the right tool for each query.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-01T22:41:39.909424+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/cc/cc7af76516d96ff9c4c04ec5ebd004e376c665f205b4605ab7e39b3d8070ae01/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/cc/cc7af76516d96ff9c4c04ec5ebd004e376c665f205b4605ab7e39b3d8070ae01/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17343,
+    "sha256": "sha256:bd615547395253d3f31438ce117ccdcff2598ac849f45aa25525f65f2e1ff380",
+    "normalized_content_hash": "sha256:289fd2ea034f74016d8ee7eb63d62d8105d98200aef2a036b275d9d1fc192102"
+  },
+  "provenance": {
+    "source_item_id": "706de9c7-80d7-4775-8b9e-870d016ee5a2",
+    "external_id": "https://blog.openreplay.com/orm-or-raw-sql/"
+  }
+}

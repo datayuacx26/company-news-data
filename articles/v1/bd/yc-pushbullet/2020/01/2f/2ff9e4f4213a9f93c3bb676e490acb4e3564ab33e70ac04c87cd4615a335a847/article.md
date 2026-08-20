@@ -1,0 +1,58 @@
+---
+schema_version: "1.0.0"
+document_id: "2ff9e4f4213a9f93c3bb676e490acb4e3564ab33e70ac04c87cd4615a335a847"
+company_key: "yc-pushbullet"
+company: "Pushbullet"
+source_id: "yc-pushbullet-rss-4ba42a362971"
+canonical_url: "https://blog.pushbullet.com/2020/01/27/on-demand-exports-of-your-pushbullet-data"
+published_at: "2020-01-27T06:00:00+00:00"
+first_seen_at: "2026-07-25T20:08:48.518680+00:00"
+fetched_at: "2026-08-20T03:16:18.952870+00:00"
+content_hash: "sha256:bfef8b962b6df5d74017667a2d7f038a64ca693e8163e3abe7a59c425c6d66f4"
+---
+
+# On-Demand Exports Of Your Pushbullet Data
+
+**Starting today, you can request an export of your Pushbullet data with just the click of a button.**
+
+
+Did you know Pushbullet is now officially 7 years old? 7 years is a long time! To celebrate, we wanted to do a little something special and that’s what we’re sharing with you today.
+
+
+Having been around now for 7 years, many Pushbullet users have accumulated a lot of really important history in our app. Since all the data in your Pushbullet account belongs to you, it makes sense that you should be able to download it all really easily.
+
+
+Unfortunately, even though that does make sense, there hasn’t really been an easy to get a copy of everything in your Pushbullet account. Today we’ve fixed that!
+
+
+Requesting an export is easy. All you need to do is go to[this page](https://www.pushbullet.com/#settings/history) and click the Start Export button. Clicking that requests the export and you’ll receive an email confirming the request.
+
+
+Once your export is ready, you’ll receive another email containing a link to the zip archive which will include all of your push history, including the files.
+
+
+**Why would I want to be able to export my data?**
+
+
+You want to be able to export your data from any service you trust with information you don’t want to lose. The only way to truly be sure you have your data safe and sound is to have a copy of it backed up (ideally in more than one place).
+
+
+Here are just a couple of scenarios where an export can be really helpful:
+
+
+- You want to delete the Facebook or Google account that you use to sign in to Pushbullet.
+
+
+By deleting the account you use to sign in to Pushbullet, you may lose access to all of your data. This would be really frustrating. This concern goes away when you can have an export of all of your data safely stored.
+
+
+- You have stopped using Pushbullet and want to delete your account.
+
+
+Not everyone uses services forever. We get that. If you’ve used Pushbullet for a while, there may be a lot of valuable and private information you both don’t want to lose and want deleted from the cloud. Grabbing an export before deleting an account is the perfect way to keep your data.
+
+
+**We hope our new data export feature helps you stay in control of your data.**
+
+
+If you have some feedback for us on this or other things related to Pushbullet, consider starting a discussion on the[Pushbullet subreddit](https://www.reddit.com/r/PushBullet/) . We’re always watching for new posts.

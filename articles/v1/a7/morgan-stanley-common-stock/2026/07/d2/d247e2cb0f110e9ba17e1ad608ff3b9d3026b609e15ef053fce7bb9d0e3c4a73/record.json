@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d247e2cb0f110e9ba17e1ad608ff3b9d3026b609e15ef053fce7bb9d0e3c4a73",
+  "company": {
+    "key": "morgan-stanley-common-stock",
+    "name": "Morgan Stanley"
+  },
+  "source": {
+    "id": "morgan-stanley-common-stock-news-import-97046185d101",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.morganstanley.com/insights/articles/ai-infrastructure-stocks-opportunity",
+    "canonical": "https://www.morganstanley.com/insights/articles/ai-infrastructure-stocks-opportunity"
+  },
+  "title": "Buying the AI Infrastructure Dip",
+  "summary": "Morgan Stanley Research sees opportunities across AI infrastructure bottlenecks, compute manufacturing, energy security, leading Chinese AI companies and hyperscalers.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-08-01T09:47:12.391884+00:00",
+  "fetched_at": "2026-08-01T09:47:14.279407+00:00",
+  "last_updated_at": "2026-08-19T18:30:11.297265+00:00",
+  "paths": {
+    "article": "articles/v1/a7/morgan-stanley-common-stock/2026/07/d2/d247e2cb0f110e9ba17e1ad608ff3b9d3026b609e15ef053fce7bb9d0e3c4a73/article.md",
+    "record": "articles/v1/a7/morgan-stanley-common-stock/2026/07/d2/d247e2cb0f110e9ba17e1ad608ff3b9d3026b609e15ef053fce7bb9d0e3c4a73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8700,
+    "sha256": "sha256:731df03482b33513d807e40e39a5dea33e481ff46901a8360052cfbd503e71f1",
+    "normalized_content_hash": "sha256:918bb223199a7c5cdd0488ae0841ed9c3f268bc32d8be96e4bec069a0bb4ff28"
+  },
+  "provenance": {
+    "source_item_id": "a38d88b6-49af-4d84-aad0-4d44be623e17",
+    "external_id": "https://www.morganstanley.com/insights/articles/ai-infrastructure-stocks-opportunity"
+  }
+}

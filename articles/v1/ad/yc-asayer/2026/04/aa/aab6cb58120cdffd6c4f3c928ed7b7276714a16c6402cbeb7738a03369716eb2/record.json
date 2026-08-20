@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aab6cb58120cdffd6c4f3c928ed7b7276714a16c6402cbeb7738a03369716eb2",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-rss-5a4068f5753f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.openreplay.com/t/summary-ai-returns-500-for-intelligent-summary-endpoint-on-openreplay-cloud/563#post_1",
+    "canonical": "https://forum.openreplay.com/t/summary-ai-returns-500-for-intelligent-summary-endpoint-on-openreplay-cloud/563"
+  },
+  "title": "Summary AI returns 500 for intelligent/summary endpoint on OpenReplay Cloud",
+  "summary": "Hi team, I’m using OpenReplay Cloud and session replay itself works correctly, but the AI Summary panel keeps loading forever. I checked the network request and found the Summary AI endpoint returns HTTP 500. Details: project_id: XXX3 session_id: XXXXXXXXXXXXXX endpoint: https://api.openreplay.com/XXX3/sessions/3XXXXX/intelligent/summary observed behavior: replay works, but AI Summary stays in loading skeleton state network result: HTTP 500 timestamp: 2026-04-10 Notes: Session replay da...",
+  "published_at": "2026-04-13T16:44:18+00:00",
+  "first_seen_at": "2026-08-17T14:12:50.872421+00:00",
+  "fetched_at": "2026-08-17T14:12:52.808979+00:00",
+  "last_updated_at": "2026-08-20T03:01:58.906754+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/04/aa/aab6cb58120cdffd6c4f3c928ed7b7276714a16c6402cbeb7738a03369716eb2/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/04/aa/aab6cb58120cdffd6c4f3c928ed7b7276714a16c6402cbeb7738a03369716eb2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3251,
+    "sha256": "sha256:e504953f3b932687eeff123998568f49868ac51af1ae8e415e1c525a2f76dd3e",
+    "normalized_content_hash": "sha256:d5bd3145e76260e2ad4017432f22eec332e10260b0eb2a187cbc870a2c76aff5"
+  },
+  "provenance": {
+    "source_item_id": "f680f1f9-799f-4bfe-94b7-0661bfdf82f5",
+    "external_id": "forum.openreplay.com-post-1456"
+  }
+}

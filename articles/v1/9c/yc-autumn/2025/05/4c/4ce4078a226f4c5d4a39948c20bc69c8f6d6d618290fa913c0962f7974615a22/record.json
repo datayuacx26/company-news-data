@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ce4078a226f4c5d4a39948c20bc69c8f6d6d618290fa913c0962f7974615a22",
+  "company": {
+    "key": "yc-autumn",
+    "name": "Autumn"
+  },
+  "source": {
+    "id": "yc-autumn-news-import-b2979559dee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://useautumn.com/blog/shadcn",
+    "canonical": "https://useautumn.com/blog/shadcn"
+  },
+  "title": "Embedded UI components",
+  "summary": "We decided to use a shadcn/ui registry to set up our pricing components, instead of a Reactjs library. We used this approach for pricing pages, upgrade and downgrade flows and paywalls.",
+  "published_at": "2025-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:47:32.127868+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T02:38:41.109775+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-autumn/2025/05/4c/4ce4078a226f4c5d4a39948c20bc69c8f6d6d618290fa913c0962f7974615a22/article.md",
+    "record": "articles/v1/9c/yc-autumn/2025/05/4c/4ce4078a226f4c5d4a39948c20bc69c8f6d6d618290fa913c0962f7974615a22/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4746,
+    "sha256": "sha256:26985bcbca15409ead9927ba6b3da9e2095a886376a7079a12f2ce8b73b0e609",
+    "normalized_content_hash": "sha256:a43bb3351c8a97c108a3800852847c8c489cd69f9b06321c6b724371b1b218cc"
+  },
+  "provenance": {
+    "source_item_id": "e3508a46-456c-4dc9-aaae-ae0a9befdea7",
+    "external_id": "https://useautumn.com/blog/shadcn"
+  }
+}

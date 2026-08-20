@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "543105cc6e5e0877770425f235a1069c766eb0030424408a2617e4c5cd9fbfb9",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-2/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-2/"
+  },
+  "title": ".NET Continuous Profiler: CPU and wall time profiling",
+  "summary": "How we implemented CPU and wall time profiling in our .NET continuous profiler.",
+  "published_at": "2024-02-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/02/54/543105cc6e5e0877770425f235a1069c766eb0030424408a2617e4c5cd9fbfb9/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/02/54/543105cc6e5e0877770425f235a1069c766eb0030424408a2617e4c5cd9fbfb9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19956,
+    "sha256": "sha256:e9558e182aeb91d0964b3ec52a452fdb6fea9573aa62119a26a38d8e8c0009d4",
+    "normalized_content_hash": "sha256:462eee1e6ddc847649762d726bf377a4867c595f55b2c4acffc3a69c1f6a56d0"
+  },
+  "provenance": {
+    "source_item_id": "41b7d038-1f76-4de7-a148-d6efa0efc092",
+    "external_id": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-2/"
+  }
+}

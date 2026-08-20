@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "2adef73aceb0258ac93eb133b6df61aedd1a34398b8d21f1de2ecf6a474da38a"
+company_key: "new-york-times-company-the-common-stock"
+company: "New York Times Company (The)"
+source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
+canonical_url: "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html"
+published_at: "2026-08-16T21:16:17+00:00"
+first_seen_at: "2026-08-17T00:06:32.152053+00:00"
+fetched_at: "2026-08-17T09:52:51.521085+00:00"
+content_hash: "sha256:8a491ba73b42dc68f8995437424499a13aa86c91c3dc31db0a0740fe76207b10"
+---
+
+# Kushner Meets With Hamas to Advance Trump’s Gaza Plan
+
+The president’s son-in-law met the Palestinian militant group’s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0f4a63c1dda0ddbd203d59f93aa3c0ac2f9b0f03a2c8282d9516f46236f53e8",
+  "company": {
+    "key": "rackspace-technology-inc-common-stock",
+    "name": "Rackspace Technology Inc."
+  },
+  "source": {
+    "id": "rackspace-technology-inc-common-stock-news-import-038771c82b17",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://spot.rackspace.com/blog/kubernetes-namespaces",
+    "canonical": "https://spot.rackspace.com/blog/kubernetes-namespaces"
+  },
+  "title": "Introduction to Kubernetes Namespaces",
+  "summary": "Learn what a Kubernetes namespace is, how to create and manage one with YAML, Terraform, and kubectl, and how to use ResourceQuotas and RBAC to isolate teams on a shared cluster.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T07:45:54.051210+00:00",
+  "fetched_at": "2026-08-07T07:45:56.834395+00:00",
+  "last_updated_at": "2026-08-19T20:08:52.087283+00:00",
+  "paths": {
+    "article": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/08/c0/c0f4a63c1dda0ddbd203d59f93aa3c0ac2f9b0f03a2c8282d9516f46236f53e8/article.md",
+    "record": "articles/v1/8c/rackspace-technology-inc-common-stock/2026/08/c0/c0f4a63c1dda0ddbd203d59f93aa3c0ac2f9b0f03a2c8282d9516f46236f53e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14924,
+    "sha256": "sha256:b4c27ed5c1ebff14b68ba16686f2012caf3fd72e7ead46718ce4c5abe86e8cfa",
+    "normalized_content_hash": "sha256:6826869118405a031278995795009d96fb4b02d6913e7c923fb232281d332135"
+  },
+  "provenance": {
+    "source_item_id": "f46aec51-8e84-443d-b4a0-66767b6e0c03",
+    "external_id": "https://spot.rackspace.com/blog/kubernetes-namespaces"
+  }
+}

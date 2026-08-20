@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a0ababf7fea62bdd390db9070f16d8eb212cafcdc6c78a30c33b61d996dd9d65",
+  "company": {
+    "key": "yc-recidiviz",
+    "name": "Recidiviz"
+  },
+  "source": {
+    "id": "yc-recidiviz-news-import-9fcc86c2623e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.recidiviz.org/updates/how-we-deploy-ai-and-why-we-do-it-carefully",
+    "canonical": "https://www.recidiviz.org/updates/how-we-deploy-ai-and-why-we-do-it-carefully"
+  },
+  "title": "How We Deploy AI, and Why We Do It Carefully",
+  "summary": "This article, the first in a series on our approach to AI safety, focuses on how and why we take a methodical approach to testing.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T11:03:47.789737+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-08-19T17:32:06.619255+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-recidiviz/2026/07/a0/a0ababf7fea62bdd390db9070f16d8eb212cafcdc6c78a30c33b61d996dd9d65/article.md",
+    "record": "articles/v1/80/yc-recidiviz/2026/07/a0/a0ababf7fea62bdd390db9070f16d8eb212cafcdc6c78a30c33b61d996dd9d65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8442,
+    "sha256": "sha256:309452b3b38f71bd8f9f07b5bb28c3e3818d6f824f8a422045482289087caec0",
+    "normalized_content_hash": "sha256:61651e16c683f7126500336d51d099474de44805f26898645153863c2edcf07c"
+  },
+  "provenance": {
+    "source_item_id": "e40a62ed-2bdd-48b4-a1d0-f20b011687d3",
+    "external_id": "https://www.recidiviz.org/updates/how-we-deploy-ai-and-why-we-do-it-carefully"
+  }
+}

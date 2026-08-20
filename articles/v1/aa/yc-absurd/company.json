@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-absurd",
+    "name": "Absurd"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-04-24T00:00:00+00:00",
+  "last_published_at": "2026-08-12T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/aa/yc-absurd/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 9960,
+        "sha256": "sha256:c68e1484afb65bfff03fe5a7d11e3886a16e0867e5c71a8b01dc04ec2ea98a6c",
+        "newest_at": "2026-08-12T00:00:00+00:00",
+        "oldest_at": "2026-04-24T00:00:00+00:00"
+      }
+    ]
+  }
+}

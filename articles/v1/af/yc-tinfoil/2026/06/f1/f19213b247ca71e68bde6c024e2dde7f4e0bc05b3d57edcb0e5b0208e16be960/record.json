@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f19213b247ca71e68bde6c024e2dde7f4e0bc05b3d57edcb0e5b0208e16be960",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2026-06-09-auditing-frontier-model-without-weights",
+    "canonical": "https://tinfoil.sh/blog/2026-06-09-auditing-frontier-model-without-weights"
+  },
+  "title": "Auditing a Frontier Model Without Seeing its Weights",
+  "summary": "How Pour Demain used Tinfoil Containers to run gray-box interpretability evals on a 744B parameter model inside confidential enclaves, without exposing the weights.",
+  "published_at": "2026-06-09T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2026/06/f1/f19213b247ca71e68bde6c024e2dde7f4e0bc05b3d57edcb0e5b0208e16be960/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2026/06/f1/f19213b247ca71e68bde6c024e2dde7f4e0bc05b3d57edcb0e5b0208e16be960/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8601,
+    "sha256": "sha256:2384383e240de82f9f8b3a73a1a4790b01b093cf19b4b7487d6cc88a6fb78e1b",
+    "normalized_content_hash": "sha256:a1ed06514307184d555a446d180b989e30f39cb0ffc8c124b9d8c8f718d01e05"
+  },
+  "provenance": {
+    "source_item_id": "b72ede9c-b764-4153-82e2-ba2d1cc1edc2",
+    "external_id": "https://tinfoil.sh/blog/2026-06-09-auditing-frontier-model-without-weights"
+  }
+}

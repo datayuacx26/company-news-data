@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "69eaf1f55e4e92fe376bb64baf70cd06d763dfac8985c6301120369353cfbe31",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/"
+  },
+  "title": "Timeseries indexing at scale",
+  "summary": "Learn how we implemented a new timeseries indexing strategy when the amount of data we ingested increased significantly.",
+  "published_at": "2024-06-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:00:09.778529+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2024/06/69/69eaf1f55e4e92fe376bb64baf70cd06d763dfac8985c6301120369353cfbe31/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2024/06/69/69eaf1f55e4e92fe376bb64baf70cd06d763dfac8985c6301120369353cfbe31/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31562,
+    "sha256": "sha256:1ec59f24d97f0e93d29cb892935354dda285c62c0b078f0d3355231d92991c56",
+    "normalized_content_hash": "sha256:55b9d67feec138c210f92eb7f5ac036d25afd10525ec2504f4cd1e4a07fd22e8"
+  },
+  "provenance": {
+    "source_item_id": "b6ee00eb-fa47-4b0c-853d-0c6b61bfe93b",
+    "external_id": "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/"
+  }
+}

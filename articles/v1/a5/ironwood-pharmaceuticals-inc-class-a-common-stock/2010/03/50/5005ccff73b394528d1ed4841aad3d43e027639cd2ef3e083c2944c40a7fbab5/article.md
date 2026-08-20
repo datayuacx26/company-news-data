@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "5005ccff73b394528d1ed4841aad3d43e027639cd2ef3e083c2944c40a7fbab5"
+company_key: "ironwood-pharmaceuticals-inc-class-a-common-stock"
+company: "Ironwood Pharmaceuticals Inc."
+source_id: "ironwood-pharmaceuticals-inc-class-a-common-stock-rss-0257ece950a4"
+canonical_url: "https://investor.ironwoodpharma.com/press-releases/press-release-details/2010/Ironwood-Pharmaceuticals-Files-Annual-Report-on-Form-10-K/default.aspx"
+published_at: "2010-03-30T04:00:00+00:00"
+first_seen_at: "2026-08-18T10:31:29.990145+00:00"
+fetched_at: "2026-08-19T17:42:13.567804+00:00"
+content_hash: "sha256:2c6c384cee2a3905fcbed187ae695681f0f235e79416db7e96d75990f9015e92"
+---
+
+# Ironwood Pharmaceuticals Files Annual Report on Form 10-K
+
+

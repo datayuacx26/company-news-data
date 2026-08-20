@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b3bb7ad81cbb81467d717c841fca69ddd8e39d8f4e01b0f3a419223f453c76f",
+  "company": {
+    "key": "yc-zinc",
+    "name": "Zinc"
+  },
+  "source": {
+    "id": "yc-zinc-news-import-01c857d42648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zinc.com/blog/what-is-ap2",
+    "canonical": "https://www.zinc.com/blog/what-is-ap2"
+  },
+  "title": "What Is AP2? The Agent Payments Protocol Explained",
+  "summary": "AP2 is Google's open protocol for authorizing AI agent payments with cryptographically signed mandates. Here's how it works, its three mandate types, and when to use it.",
+  "published_at": "2026-04-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:08:25.932611+00:00",
+  "fetched_at": "2026-07-28T22:15:52.361502+00:00",
+  "last_updated_at": "2026-08-04T06:18:35.923135+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-zinc/2026/04/2b/2b3bb7ad81cbb81467d717c841fca69ddd8e39d8f4e01b0f3a419223f453c76f/article.md",
+    "record": "articles/v1/a3/yc-zinc/2026/04/2b/2b3bb7ad81cbb81467d717c841fca69ddd8e39d8f4e01b0f3a419223f453c76f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17147,
+    "sha256": "sha256:9eed09300d25b2cba23b6e9055c402f13d2ddd65594c9bca8f7931a061f7321f",
+    "normalized_content_hash": "sha256:232f4f47350a05a87de9fb6e45a3c8b159f6f64008bb773419804906c2ba7584"
+  },
+  "provenance": {
+    "source_item_id": "a9b5f5fc-421b-4a53-9568-29b747d619e7",
+    "external_id": "https://www.zinc.com/blog/what-is-ap2"
+  }
+}

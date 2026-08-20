@@ -1,0 +1,145 @@
+---
+schema_version: "1.0.0"
+document_id: "e80149bb15af61811c5aae77e39efc403c66cb8f8a29d809537d4e780ad5a837"
+company_key: "louisiana-pacific-corporation-common-stock"
+company: "Louisiana-Pacific Corporation"
+source_id: "louisiana-pacific-corporation-common-stock-news-import-15713bd7cf0d"
+canonical_url: "https://www.lpcorp.com/project-resources/blog/lp-building-solutions-turns-54-celebrating-more-than-five-decades-of"
+published_at: null
+first_seen_at: "2026-07-22T02:44:17.337312+00:00"
+fetched_at: "2026-07-28T21:38:27.854613+00:00"
+content_hash: "sha256:c569e0966c1fbecf1338754068fb07b15263b42dcbd49dd564bdfa53dd91e55f"
+---
+
+# LP Building Solutions Turns 54: Celebrating More Than Five Decades of Innovation
+
+On July 20, 2026, LP Building Solutions celebrates its 54th birthday—a milestone that reflects more than five decades of innovation, resilience, and leadership in the building products industry. Since our incorporation on July 20, 1972, LP has continually evolved to meet the changing needs of builders, remodelers, contractors, and homeowners while helping shape the future of home construction.
+
+
+Today, LP is recognized as a leading manufacturer of high-performance building products, offering solutions that help create homes that are beautiful, durable, and efficient. As the company marks 54 years of business, it’s worth looking back at the milestones that transformed LP from a young forest products company to an industry leader.
+
+
+**The Beginning of LP**
+
+
+LP was founded on July 20, 1972 and began trading on the New York Stock Exchange the following year. During this was a time of significant change in the building materials industry, and LP had a vision to develop innovative products that could improve how home and structures were built.
+
+
+Over the years, LP expanded its footprint across North and South America and relocated its headquarters to Nashville, Tennessee. Today, LP operates manufacturing facilities across multiple countries, serving customers throughout the construction industry.
+
+
+**A Pioneer in Oriented Strand Board (OSB)**
+
+
+One of LP’s earliest and most significant accomplishments came in 1979 when we began construction on North America’s first OSB mill in Hayward, Wisconsin. LP helped introduce a more scalable and efficient alternative during a time when plywood was dominating the market.OSB went on to become one of the most important wood products in modern construction. Its consistent performance and ability to utilize smaller, fast-growing trees helped revolutionize structural panel manufacturing. Today, OSB is widely used throughout residential construction and represents a major chapter in LP’s history of innovation.
+
+
+*Hayward, Wisconsin mill*
+
+
+**Introducing LP® SmartSide® Trim & Siding**
+
+
+Another defining moment took place in 1997 with the launch of LP® SmartSide® Trim & Siding. Building on decades of engineered wood expertise, LP developed a proprietary manufacturing process designed to enhance durability, resistance to moisture, termites, and fungal decay for long term strength in many weather conditions, all while preserving the natural beauty of wood.
+
+
+Over the past three decades, LP® SmartSide® Trim & Siding has become one of the fastest growing siding brands in the United States. Builders and homeowners have embraced the product for its combination of curb appeal, durability, and long-term performance. The portfolio continues to expand, including newer offerings such as LP® SmartSide® ExpertFinish® Trim & Siding and the LP® SmartSide® ExpertFinish® Trim & Siding Naturals Collection™ portfolio, a curated palette of prefinished siding colors.
+
+
+**Building a Comprehensive Portfolio of Solutions**
+
+
+While many know LP for siding, our impact extends across the entire building envelope. LP has developed a diverse range of structural and exterior products designed to help builders construct strong homes, efficiently. These include:
+
+
+-
+
+
+LP WeatherLogic® Air & Water Barrier
+
+
+-
+
+
+LP Legacy® Premium Sub-Flooring
+
+
+-
+
+
+LP® TopNotch® 350 Durable Sub-Flooring
+
+
+-
+
+
+LP® TechShield® Radiant Barrier Sheathing
+
+
+-
+
+
+LP® FlameBlock® Fire-Rated Sheathing
+
+
+-
+
+
+LP BurnGuard™ FRT OSB
+
+
+-
+
+
+LP® Outdoor Building Solutions®
+
+
+-
+
+
+LP® SmartSide® Trim & Siding
+
+
+-
+
+
+LP® SmartSide® ExpertFinish® Trim & Siding
+
+
+-
+
+
+LP® SmartSide® ExpertFinish® Trim & Siding Naturals Collection™ portfolio
+
+
+Together, these products demonstrate LP’s commitment to solving real-world construction challenges through innovation and performance.
+
+
+**Advancing Sustainability in Construction**
+
+
+As the industry increasingly focuses on environmental responsibility, LP has long invested in resource-efficient manufacturing and responsible forestry practices. Sustainability is a core part of LP's operations from environmental stewardship to responsible manufacturing operations.
+
+
+In 2025, 93% of our North American net sales were generated by carbon-negative products. Made primarily from renewable resources, these products provide builders with durable, high-quality alternatives to more energy-intensive, nonrenewable materials. As documented in our nine environmental product declarations, the associated LP® products store more carbon than they emit over their entire life cycles, helping to reduce emissions associated with the construction process.
+
+
+**Continuing the Legacy of Innovation**
+
+
+Innovation remains at the heart of LP. In recent years, we have continued to introduce new technologies and products designed to address emerging challenges in the industry. One example is LP BurnGuard™ FRT OSB, the first commercialized fire-retardant-treated OSB panel certified to meet applicable building codes for fire-retardant wood structural panels.
+
+
+**Looking Ahead to the Future**
+
+
+As LP Building Solutions celebrates its 54th anniversary, we are building on a strong foundation of innovation, quality, and customer focus. From pioneering OSB production to creating one of the industry's leading engineered wood siding brands, LP has consistently pushed the boundaries of what’s possible in construction.
+
+
+The challenges facing housing today, from affordability and housing inventory shortages to sustainability and resilience, create new opportunities for LP to innovate. With more than five decades of experience and a commitment to developing high-performance building solutions, LP is well-positioned to help shape the next generation of homes and communities.
+
+
+What began as a bold vision has grown into a company recognized for innovation, reliability, and leadership throughout the building industry. As LP celebrates this milestone anniversary, we also celebrate the team members, customers, partners, and communities that have helped make the journey possible.
+
+
+For more information on LP Building Solutions, visit our[company overview!](https://www.lpcorp.com/about-lp/company-overview)

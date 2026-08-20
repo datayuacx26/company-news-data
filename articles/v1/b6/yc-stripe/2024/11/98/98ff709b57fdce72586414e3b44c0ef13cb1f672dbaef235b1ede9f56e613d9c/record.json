@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98ff709b57fdce72586414e3b44c0ef13cb1f672dbaef235b1ede9f56e613d9c",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/developing-and-investigating-subscription-data-flow",
+    "canonical": "https://stripe.dev/blog/developing-and-investigating-subscription-data-flow"
+  },
+  "title": "Developing and investigating subscription data flow",
+  "summary": "This article shows you how to use Stripe's sandbox to simplify your development process. You'll learn to create isolated test environments, simulate real-world scenarios, and debug your subscription logic efficiently.",
+  "published_at": "2024-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-08-20T01:39:57.106753+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2024/11/98/98ff709b57fdce72586414e3b44c0ef13cb1f672dbaef235b1ede9f56e613d9c/article.md",
+    "record": "articles/v1/b6/yc-stripe/2024/11/98/98ff709b57fdce72586414e3b44c0ef13cb1f672dbaef235b1ede9f56e613d9c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 785,
+    "sha256": "sha256:2e8901d4e6c0fdca21eabde808a561c278052a3b5355720144b980d4c19b1deb",
+    "normalized_content_hash": "sha256:00d2f7161a5affb828e013a54812af31d146f573f6ef01954cc4ff7615703f96"
+  },
+  "provenance": {
+    "source_item_id": "60de35c7-202e-4263-b301-b3b93600f72b",
+    "external_id": "https://stripe.dev/blog/developing-and-investigating-subscription-data-flow"
+  }
+}

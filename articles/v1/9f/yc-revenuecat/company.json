@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-revenuecat",
+    "name": "RevenueCat"
+  },
+  "record_count": 57,
+  "first_published_at": "2026-04-24T10:46:55+00:00",
+  "last_published_at": "2026-08-19T13:41:57+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 21
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9f/yc-revenuecat/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 52580,
+        "sha256": "sha256:3e2122d488ee79be2495e8fb1ab2ea27cbd0d1cc892521ace5c217849371bd7d",
+        "newest_at": "2026-08-19T13:41:57+00:00",
+        "oldest_at": "2026-05-06T13:02:26+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/9f/yc-revenuecat/index/pages/000002.json",
+        "record_count": 7,
+        "byte_count": 7443,
+        "sha256": "sha256:9c42f5b9526917522e32950ebe9329cbb9d82481863287ce5a28114479ba7998",
+        "newest_at": "2026-05-05T10:21:34+00:00",
+        "oldest_at": "2026-04-24T10:46:55+00:00"
+      }
+    ]
+  }
+}

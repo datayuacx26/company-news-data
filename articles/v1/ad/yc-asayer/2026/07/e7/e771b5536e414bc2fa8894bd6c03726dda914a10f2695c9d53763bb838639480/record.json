@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e771b5536e414bc2fa8894bd6c03726dda914a10f2695c9d53763bb838639480",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/build-rest-api-fastify/",
+    "canonical": "https://blog.openreplay.com/build-rest-api-fastify/"
+  },
+  "title": "How to Build a REST API with Fastify",
+  "summary": "Build a Fastify v5 REST API with Prisma, JSON Schema validation, plugins, decorators, hooks, and TypeBox typing for CRUD posts.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T18:02:25.733496+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-05T20:58:01.323763+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/07/e7/e771b5536e414bc2fa8894bd6c03726dda914a10f2695c9d53763bb838639480/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/07/e7/e771b5536e414bc2fa8894bd6c03726dda914a10f2695c9d53763bb838639480/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21367,
+    "sha256": "sha256:e8e6b9b52ecb4bdc9301a77db0266e6032545135864959d911b5937686f545fc",
+    "normalized_content_hash": "sha256:43f8d5fd7955b12641fb9c5f10f3cead124ded7b63a79a7cabea421f5d02010a"
+  },
+  "provenance": {
+    "source_item_id": "f8d000c5-56d5-47d2-b245-6169f3e1a325",
+    "external_id": "https://blog.openreplay.com/build-rest-api-fastify/"
+  }
+}

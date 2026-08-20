@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "06893fcb4453d4d14e0ee7b3cf650ba7478a03f3d748c3518a6a56f2607dd0eb",
+  "company": {
+    "key": "yc-hatchet-run",
+    "name": "Hatchet"
+  },
+  "source": {
+    "id": "yc-hatchet-run-rss-3f16f06bd764",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://hatchet.run/blog/postgres-partitioning",
+    "canonical": "https://hatchet.run/blog/postgres-partitioning"
+  },
+  "title": "The pitfalls of partitioning Postgres yourself",
+  "summary": "(not a hatchet job on Postgres partitioning - we do actually like it)",
+  "published_at": "2025-12-16T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:57:06.374584+00:00",
+  "fetched_at": "2026-08-09T22:57:07.291413+00:00",
+  "last_updated_at": "2026-08-20T03:51:48.022662+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-hatchet-run/2025/12/06/06893fcb4453d4d14e0ee7b3cf650ba7478a03f3d748c3518a6a56f2607dd0eb/article.md",
+    "record": "articles/v1/95/yc-hatchet-run/2025/12/06/06893fcb4453d4d14e0ee7b3cf650ba7478a03f3d748c3518a6a56f2607dd0eb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9565,
+    "sha256": "sha256:8c4eaf21a4d80a9af9b67bfe9bd627cc1fdc160c00ea52ff1f5ef0731c8cd679",
+    "normalized_content_hash": "sha256:e3feda3d0963ef6dc4dfdf7cfc550538a4aaaa45412d5021b9a1e8d3248bf082"
+  },
+  "provenance": {
+    "source_item_id": "428d2e13-3759-4dec-a108-50fe863ad15e",
+    "external_id": "https://hatchet.run/blog/postgres-partitioning"
+  }
+}

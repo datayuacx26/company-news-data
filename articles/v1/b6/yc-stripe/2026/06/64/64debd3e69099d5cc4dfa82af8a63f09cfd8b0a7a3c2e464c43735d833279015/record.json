@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64debd3e69099d5cc4dfa82af8a63f09cfd8b0a7a3c2e464c43735d833279015",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-api-changes-flow-into-stripes-developer-products",
+    "canonical": "https://stripe.dev/blog/how-api-changes-flow-into-stripes-developer-products"
+  },
+  "title": "How API changes flow into Stripe's developer products",
+  "summary": "When a Stripe engineer makes changes to an API, merging the PR is just the beginning. Stripe maintains a vast developer product suite that needs to stay in sync with the API changes we frequently ship:",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/06/64/64debd3e69099d5cc4dfa82af8a63f09cfd8b0a7a3c2e464c43735d833279015/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/06/64/64debd3e69099d5cc4dfa82af8a63f09cfd8b0a7a3c2e464c43735d833279015/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1255,
+    "sha256": "sha256:3b33cef2cce7722fdf004d1a24416b110a1c0df62f8e4d1d835b101171fa2db8",
+    "normalized_content_hash": "sha256:6c4a16c4c8d8a6bfcbf159af13dc65d42dde6228b70a8d78890ff78eb0628abc"
+  },
+  "provenance": {
+    "source_item_id": "3d6f419e-23b7-46ae-aef3-fcaa68d11d8f",
+    "external_id": "https://stripe.dev/blog/how-api-changes-flow-into-stripes-developer-products"
+  }
+}

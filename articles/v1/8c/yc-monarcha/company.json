@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-monarcha",
+    "name": "Monarcha"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-05-27T00:00:00+00:00",
+  "last_published_at": "2026-05-27T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8c/yc-monarcha/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13135,
+        "sha256": "sha256:a703c78d3d3853e2f3ce42eb6098dc0b0ea362fe8a43c1f7488661b34c9be67e",
+        "newest_at": "2026-07-28T21:38:27.854613+00:00",
+        "oldest_at": "2026-05-27T00:00:00+00:00"
+      }
+    ]
+  }
+}

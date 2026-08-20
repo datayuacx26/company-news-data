@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f7930aa7c6a388c5bcc8022bb55773bd18b7802aa05424d0ddaf3351a1db6349",
+  "company": {
+    "key": "yc-hatchet-run",
+    "name": "Hatchet"
+  },
+  "source": {
+    "id": "yc-hatchet-run-rss-3f16f06bd764",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://hatchet.run/blog/multi-tenant-queues",
+    "canonical": "https://hatchet.run/blog/multi-tenant-queues"
+  },
+  "title": "An unfair advantage - multi-tenant queues in Postgres",
+  "summary": "How we implemented fair queueing strategies for Postgres-backed task queues to ensure fair execution time across tenants.",
+  "published_at": "2024-04-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-09T22:57:06.374584+00:00",
+  "fetched_at": "2026-08-09T22:57:07.291413+00:00",
+  "last_updated_at": "2026-08-20T03:51:48.022662+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-hatchet-run/2024/04/f7/f7930aa7c6a388c5bcc8022bb55773bd18b7802aa05424d0ddaf3351a1db6349/article.md",
+    "record": "articles/v1/95/yc-hatchet-run/2024/04/f7/f7930aa7c6a388c5bcc8022bb55773bd18b7802aa05424d0ddaf3351a1db6349/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15334,
+    "sha256": "sha256:6f9f1df53309cc107e0d51cb3c0dc9cc2b66a863e134a5d0800eaf5f80b014f6",
+    "normalized_content_hash": "sha256:3e078ddff00e5e9c36b09c9696e4a05f9b6094346d8bdfb49214603558652b6a"
+  },
+  "provenance": {
+    "source_item_id": "ffd47603-e137-4b67-b910-0e35381195a8",
+    "external_id": "https://hatchet.run/blog/multi-tenant-queues"
+  }
+}

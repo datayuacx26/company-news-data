@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "40d8439b0b21989446fdf76d5168f45a7f41754a16b075396c476768f468a495",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/builder-in-the-loop-what-production-agents-were-missing-before-aura",
+    "canonical": "https://www.mezmo.com/blog/builder-in-the-loop-what-production-agents-were-missing-before-aura"
+  },
+  "title": "Builder in the loop: what production agents were missing before AURA",
+  "summary": "AURA engineer Mike Shearer explains why production agents need persistent context, server-side execution, orchestration, and measurable evaluation.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/40/40d8439b0b21989446fdf76d5168f45a7f41754a16b075396c476768f468a495/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/40/40d8439b0b21989446fdf76d5168f45a7f41754a16b075396c476768f468a495/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16200,
+    "sha256": "sha256:7d039dcf23c01063cfcffaef99f76a582ab266825ee0afc8b3a9c3698a188a5f",
+    "normalized_content_hash": "sha256:e9e363b6857127f7b7efbd87203c5fb249482bf1b531c81618746db6b07cc4ad"
+  },
+  "provenance": {
+    "source_item_id": "6b65e49d-21c3-4912-8e90-b92b2dadfedc",
+    "external_id": "https://www.mezmo.com/blog/builder-in-the-loop-what-production-agents-were-missing-before-aura"
+  }
+}

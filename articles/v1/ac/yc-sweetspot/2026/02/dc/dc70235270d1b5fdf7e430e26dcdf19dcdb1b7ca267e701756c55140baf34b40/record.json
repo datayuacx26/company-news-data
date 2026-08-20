@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc70235270d1b5fdf7e430e26dcdf19dcdb1b7ca267e701756c55140baf34b40",
+  "company": {
+    "key": "yc-sweetspot",
+    "name": "Sweetspot"
+  },
+  "source": {
+    "id": "yc-sweetspot-news-import-95ae5efddaf0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sweetspot.so/articles/cmmc-level-2-age-of-ai/",
+    "canonical": "https://www.sweetspot.so/articles/cmmc-level-2-age-of-ai/"
+  },
+  "title": "CMMC Level 2 in the Age of AI: Which Controls Apply to LLM-Powered Platforms",
+  "summary": "How CMMC Level 2's 110 NIST SP 800-171 controls apply to AI platforms in Feb 2026. Access control, FIPS cryptography, and container security for LLMs.",
+  "published_at": "2026-02-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:25:11.786592+00:00",
+  "fetched_at": "2026-07-28T22:19:31.715486+00:00",
+  "last_updated_at": "2026-08-19T21:14:36.529894+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-sweetspot/2026/02/dc/dc70235270d1b5fdf7e430e26dcdf19dcdb1b7ca267e701756c55140baf34b40/article.md",
+    "record": "articles/v1/ac/yc-sweetspot/2026/02/dc/dc70235270d1b5fdf7e430e26dcdf19dcdb1b7ca267e701756c55140baf34b40/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12379,
+    "sha256": "sha256:1f5ffbf8af1344a46ea3b55f16886818c3f37c678d4d56d8d0b4a7a3c7621178",
+    "normalized_content_hash": "sha256:12467e6df6c3179baae4c443da2f63ec958a5a5ed6c044ddcac43dd135787ae9"
+  },
+  "provenance": {
+    "source_item_id": "0a52c0f3-aa62-489b-8924-5e8ffab3a999",
+    "external_id": "https://www.sweetspot.so/articles/cmmc-level-2-age-of-ai/"
+  }
+}

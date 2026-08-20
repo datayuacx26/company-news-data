@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc2d57216afbd3b9627af07b47faa193d2afec0b90807e8d54717bf934ad1d81",
+  "company": {
+    "key": "yc-dailybot",
+    "name": "DailyBot"
+  },
+  "source": {
+    "id": "yc-dailybot-news-import-dcb7a9078b70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.dailybot.com/changelog/performance-reliability-updates/",
+    "canonical": "https://www.dailybot.com/changelog/performance-reliability-updates/"
+  },
+  "title": "Dailybot | Performance and Reliability Updates · Changelog",
+  "summary": "Significant backend optimizations resulting in 40% faster check-in delivery, improved webhook reliability, and reduced API latency.",
+  "published_at": "2025-09-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:24:28.931275+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-19T16:57:39.379526+00:00",
+  "paths": {
+    "article": "articles/v1/94/yc-dailybot/2025/09/dc/dc2d57216afbd3b9627af07b47faa193d2afec0b90807e8d54717bf934ad1d81/article.md",
+    "record": "articles/v1/94/yc-dailybot/2025/09/dc/dc2d57216afbd3b9627af07b47faa193d2afec0b90807e8d54717bf934ad1d81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 975,
+    "sha256": "sha256:65d85b41d50e332c85346c9d9f8a1d81cb7e05eac23c8f106bef369316b2c685",
+    "normalized_content_hash": "sha256:e15d636efe3dc6f30d21162fd934430973266cb8c4e68632065b6802bede99f3"
+  },
+  "provenance": {
+    "source_item_id": "3f59d011-20fb-4cf0-b44c-4f5ccd937667",
+    "external_id": "https://www.dailybot.com/changelog/performance-reliability-updates/"
+  }
+}

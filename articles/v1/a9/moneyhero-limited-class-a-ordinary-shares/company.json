@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "moneyhero-limited-class-a-ordinary-shares",
+    "name": "MoneyHero Limited"
+  },
+  "record_count": 24,
+  "first_published_at": "2025-12-05T11:00:31+00:00",
+  "last_published_at": "2026-08-13T20:35:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a9/moneyhero-limited-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 32031,
+        "sha256": "sha256:925e4c4b206edd8a9ca031f6786dd57ec049667de08ae6c863fedd41fe8d7eec",
+        "newest_at": "2026-08-14T03:31:08.349575+00:00",
+        "oldest_at": "2025-12-05T11:00:31+00:00"
+      }
+    ]
+  }
+}

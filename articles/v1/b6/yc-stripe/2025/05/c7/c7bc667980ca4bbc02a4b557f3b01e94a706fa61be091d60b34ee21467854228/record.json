@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7bc667980ca4bbc02a4b557f3b01e94a706fa61be091d60b34ee21467854228",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-to-charge-customers-across-accounts",
+    "canonical": "https://stripe.dev/blog/how-to-charge-customers-across-accounts"
+  },
+  "title": "How to easily charge customers across accounts in an organization",
+  "summary": "Learn how to simplify customer charging across multiple accounts in your organization using Stripe's new sharing feature.",
+  "published_at": "2025-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:57:45.279486+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/05/c7/c7bc667980ca4bbc02a4b557f3b01e94a706fa61be091d60b34ee21467854228/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/05/c7/c7bc667980ca4bbc02a4b557f3b01e94a706fa61be091d60b34ee21467854228/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3215,
+    "sha256": "sha256:f86e2b4d202e8a4cd9da2735bcf2d6bb4b034280d8a06288b744b24d1c7f37bb",
+    "normalized_content_hash": "sha256:b1bc9d24b02f6758e1dccc50410fe0d3af74a1ff5e5bc9d207171265dbcf17ad"
+  },
+  "provenance": {
+    "source_item_id": "62aefacf-1953-4329-882b-f3d90294dab1",
+    "external_id": "https://stripe.dev/blog/how-to-charge-customers-across-accounts"
+  }
+}

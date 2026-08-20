@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72b3077ea80f47d4de2ef091d208c4bce86087d48eac16b1d12dd51ed85f53e3",
+  "company": {
+    "key": "yc-oncactus",
+    "name": "Cactus"
+  },
+  "source": {
+    "id": "yc-oncactus-rss-da464479d2a9",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.oncactus.com/p/dropping-redis-for-rails-slashed",
+    "canonical": "https://blog.oncactus.com/p/dropping-redis-for-rails-slashed"
+  },
+  "title": "Dropping Redis for Rails Slashed Our AWS Bill by 62%",
+  "summary": "Recently, we integrated Redis through AWS ElastiCache to power real-time updates in our AI-driven menu recommendation system. Our initial cloud setup was straightforward: a Rails 8 application deployed with Kamal on a t3a.small EC2 instance ($27.07/month) and RDS for the database ($32.47/month), totaling around $70/month across environments.",
+  "published_at": "2024-12-09T22:46:00+00:00",
+  "first_seen_at": "2026-07-27T00:17:06.713845+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-20T03:12:54.640171+00:00",
+  "paths": {
+    "article": "articles/v1/95/yc-oncactus/2024/12/72/72b3077ea80f47d4de2ef091d208c4bce86087d48eac16b1d12dd51ed85f53e3/article.md",
+    "record": "articles/v1/95/yc-oncactus/2024/12/72/72b3077ea80f47d4de2ef091d208c4bce86087d48eac16b1d12dd51ed85f53e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3129,
+    "sha256": "sha256:c8da63a6b1f0c242d2e1ea819ff2dac273fd1d75d9488337d9dc27bed059921d",
+    "normalized_content_hash": "sha256:106c19ad24fff929324308db96bd6dc3742de3e23fe29735b15e5679636b5060"
+  },
+  "provenance": {
+    "source_item_id": "ffd6f6e9-0e89-4b4b-973a-0e40dfe056cf",
+    "external_id": "https://blog.oncactus.com/p/dropping-redis-for-rails-slashed"
+  }
+}

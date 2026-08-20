@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-zorba",
+    "name": "Zorba"
+  },
+  "record_count": 4,
+  "first_published_at": "2024-03-28T13:41:15+00:00",
+  "last_published_at": "2024-07-02T16:02:07+00:00",
+  "partitions": [
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/yc-zorba/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4291,
+        "sha256": "sha256:40e495dd7eae27542ee5b2fe4d44f1f21ad1903697837c76dce111e9af25c3ea",
+        "newest_at": "2024-07-02T16:02:07+00:00",
+        "oldest_at": "2024-03-28T13:41:15+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51cf21a132ef4fa2e775ad37ed65302bc19dc450011fdc2719fac3272ff953b4",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-rss-9cd8203e3449",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/security-labs/npm-cooldown-removal-detection-elastic-agent",
+    "canonical": "https://www.elastic.co/security-labs/npm-cooldown-removal-detection-elastic-agent"
+  },
+  "title": "The security signal log tailing can't see: tracking npm cooldown removals with Elastic Agent",
+  "summary": "Track npm cooldown (min-release-age) adoption and catch silent removals on developer workstations using a 40-line CEL integration in Elastic Agent.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T14:52:03.108937+00:00",
+  "fetched_at": "2026-08-07T14:52:04.996750+00:00",
+  "last_updated_at": "2026-08-20T01:01:31.386882+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/51/51cf21a132ef4fa2e775ad37ed65302bc19dc450011fdc2719fac3272ff953b4/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/51/51cf21a132ef4fa2e775ad37ed65302bc19dc450011fdc2719fac3272ff953b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27637,
+    "sha256": "sha256:2eda4b48d2a9aded24c5ea573dbdd00543b2665928d2ab27510c7b43abee305e",
+    "normalized_content_hash": "sha256:7c442b2df285199d8ef64badc3a262d44885fb21a983c0112c452e01c05f1351"
+  },
+  "provenance": {
+    "source_item_id": "44115aa8-4c52-4cfc-87a6-de862acef98d",
+    "external_id": "npm-cooldown-removal-detection-elastic-agent"
+  }
+}

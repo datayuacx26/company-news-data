@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2eeee85adb82dcc12b3863842d74caa40b5c2047ee5f10014096b1b3f04c6b1e",
+  "company": {
+    "key": "yc-reclaim-protocol",
+    "name": "Reclaim Protocol"
+  },
+  "source": {
+    "id": "yc-reclaim-protocol-news-import-8b5fb76919cb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.reclaimprotocol.org/posts/why-we-built-popcorn",
+    "canonical": "https://blog.reclaimprotocol.org/posts/why-we-built-popcorn"
+  },
+  "title": "Why We Built Popcorn: An Attestable Browser Cloud for Reclaim",
+  "summary": "How Reclaim went from running verification on phones to building Popcorn: a fast, mobile-native browser cloud that runs inside trusted execution environments.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T18:56:07.223230+00:00",
+  "fetched_at": "2026-08-06T18:56:09.186964+00:00",
+  "last_updated_at": "2026-08-19T23:07:04.632447+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-reclaim-protocol/2026/08/2e/2eeee85adb82dcc12b3863842d74caa40b5c2047ee5f10014096b1b3f04c6b1e/article.md",
+    "record": "articles/v1/be/yc-reclaim-protocol/2026/08/2e/2eeee85adb82dcc12b3863842d74caa40b5c2047ee5f10014096b1b3f04c6b1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18180,
+    "sha256": "sha256:320d0cfe293919c8dbcd7129d8f25fee62559ead06c000675fe0a47a7a8219c8",
+    "normalized_content_hash": "sha256:7f9edee2f2343796af56441615fba599678dc02f0b0ae4da056cb37ef82b67af"
+  },
+  "provenance": {
+    "source_item_id": "26f0c077-ad90-4ac3-b544-78014ede874f",
+    "external_id": "https://blog.reclaimprotocol.org/posts/why-we-built-popcorn"
+  }
+}

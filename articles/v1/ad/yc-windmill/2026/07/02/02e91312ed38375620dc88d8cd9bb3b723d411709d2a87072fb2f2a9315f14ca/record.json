@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "02e91312ed38375620dc88d8cd9bb3b723d411709d2a87072fb2f2a9315f14ca",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/scd2-history-materialization",
+    "canonical": "https://www.windmill.dev/changelog/scd2-history-materialization"
+  },
+  "title": "SCD2 history strategy for DuckLake materialization",
+  "summary": "New managed history strategy on `// materialize` keeps every version of every row (slowly changing dimension type 2). A change closes the prior version and opens a new one, with managed `valid_from`/`valid_to`/`is_current` columns, an auto-maintained `<table>_current` view, and support for effective-dated ASOF joins. Data tests and schema capture keep working, unlike hand-written `materialize manual` SQL.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-13T14:34:36.886854+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/02/02e91312ed38375620dc88d8cd9bb3b723d411709d2a87072fb2f2a9315f14ca/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/02/02e91312ed38375620dc88d8cd9bb3b723d411709d2a87072fb2f2a9315f14ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2179,
+    "sha256": "sha256:e28b98757ad6c38f5886ade485fb3cc4ec0923525f0d6c0a2c61659dc1888965",
+    "normalized_content_hash": "sha256:1f5a43b9293004d211589280ac97ae80c68d1ff8127f2b51594e1aaf0d576c14"
+  },
+  "provenance": {
+    "source_item_id": "0d93179d-7e6c-4703-8a17-5ba711b1b46f",
+    "external_id": "https://www.windmill.dev/changelog/scd2-history-materialization"
+  }
+}

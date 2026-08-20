@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2262ba9c518e7fc2eb0997c9c8cd7799c16f94a0ea1b0b41b27ce6ddd249c84",
+  "company": {
+    "key": "yc-blaxel",
+    "name": "Blaxel"
+  },
+  "source": {
+    "id": "yc-blaxel-rss-eda12eea7869",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blaxel.ai/blog/persistent-memory-ai-agents",
+    "canonical": "https://blaxel.ai/blog/persistent-memory-ai-agents"
+  },
+  "title": "How to give an AI agent persistent memory between runs",
+  "summary": "Learn how to give AI agents persistent memory across sessions using vector databases, persistent sandboxes, and shared filesystems for production workflows.",
+  "published_at": "2026-07-07T01:31:40+00:00",
+  "first_seen_at": "2026-07-20T23:20:26.598006+00:00",
+  "fetched_at": "2026-07-28T20:47:27.048275+00:00",
+  "last_updated_at": "2026-08-20T01:08:07.911801+00:00",
+  "paths": {
+    "article": "articles/v1/b2/yc-blaxel/2026/07/f2/f2262ba9c518e7fc2eb0997c9c8cd7799c16f94a0ea1b0b41b27ce6ddd249c84/article.md",
+    "record": "articles/v1/b2/yc-blaxel/2026/07/f2/f2262ba9c518e7fc2eb0997c9c8cd7799c16f94a0ea1b0b41b27ce6ddd249c84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22302,
+    "sha256": "sha256:41960e6d77d4184aaa476f56f2a4f64b0c7a9503335f2c5944053d420c8fc1ab",
+    "normalized_content_hash": "sha256:77d9b7e2216536104cbc4d2524155f6285bfaa5a0be5cae7a8c32f57c83f5b11"
+  },
+  "provenance": {
+    "source_item_id": "df893ff6-6e08-4854-95a2-f924aaab7ea4",
+    "external_id": "https://blaxel.ai/blog/persistent-memory-ai-agents"
+  }
+}

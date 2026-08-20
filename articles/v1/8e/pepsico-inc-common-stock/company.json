@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pepsico-inc-common-stock",
+    "name": "PepsiCo Inc."
+  },
+  "record_count": 15,
+  "first_published_at": "2026-07-03T00:00:00+00:00",
+  "last_published_at": "2026-08-13T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/8e/pepsico-inc-common-stock/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 17495,
+        "sha256": "sha256:f6c33dc44900a4ea046ae5c1e286bf22dc58bbfeefc4e0eb07d35fe3f2655141",
+        "newest_at": "2026-08-13T00:00:00+00:00",
+        "oldest_at": "2026-07-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

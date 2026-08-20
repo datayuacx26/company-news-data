@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4c54a990ac429fbbddd18ae5756e2aa7d4ee8d33a329b62a3d9959027467126",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/data-stream-lifecycle-frozen-tier",
+    "canonical": "https://www.elastic.co/search-labs/blog/data-stream-lifecycle-frozen-tier"
+  },
+  "title": "Two lines of JSON to replace your ILM policy: data stream lifecycle adds frozen tier support",
+  "summary": "Add frozen_after to your data stream lifecycle config and indices move to frozen tier automatically. A few lines of JSON or a Kibana toggle. GA in 9.5.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T03:01:39.042848+00:00",
+  "fetched_at": "2026-08-13T03:01:40.563386+00:00",
+  "last_updated_at": "2026-08-20T02:23:13.375428+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/f4/f4c54a990ac429fbbddd18ae5756e2aa7d4ee8d33a329b62a3d9959027467126/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/f4/f4c54a990ac429fbbddd18ae5756e2aa7d4ee8d33a329b62a3d9959027467126/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8080,
+    "sha256": "sha256:8e2ef4d33ad1542f67902f7cb06ae0e9e53de629b66313216c8c6932704f2f09",
+    "normalized_content_hash": "sha256:70c97be24183f251a2d469e352a0c378e3e93654f6aa391548aa8244f8efeb44"
+  },
+  "provenance": {
+    "source_item_id": "09a32c37-f997-461f-93fb-5581d2f7160a",
+    "external_id": "https://www.elastic.co/search-labs/blog/data-stream-lifecycle-frozen-tier"
+  }
+}

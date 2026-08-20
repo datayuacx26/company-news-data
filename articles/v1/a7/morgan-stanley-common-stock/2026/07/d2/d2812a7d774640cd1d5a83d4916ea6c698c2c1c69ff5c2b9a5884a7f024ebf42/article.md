@@ -1,0 +1,1588 @@
+---
+schema_version: "1.0.0"
+document_id: "d2812a7d774640cd1d5a83d4916ea6c698c2c1c69ff5c2b9a5884a7f024ebf42"
+company_key: "morgan-stanley-common-stock"
+company: "Morgan Stanley"
+source_id: "morgan-stanley-common-stock-news-import-97046185d101"
+canonical_url: "https://www.morganstanley.com/insights/videos/hard-lessons"
+published_at: null
+first_seen_at: "2026-07-25T16:11:42.545470+00:00"
+fetched_at: "2026-07-28T21:35:55.789196+00:00"
+content_hash: "sha256:acd03fe6f86a85b28c02d1615a2dd4481ace4738781fa12a4c159d4a5c7218ea"
+---
+
+# Hard Lessons
+
+[Insights](https://www.morganstanley.com/insights)
+
+
+# Hard Lessons
+
+
+Iconic investors sit down with Morgan Stanley leaders to go behind the scenes on the critical moments – both successes and setbacks – that shaped who they are today.
+
+
+Watch, listen and subscribe:
+
+
+- [YouTube](https://www.youtube.com/playlist?list=PLMUnYeeTvzNuJi1Mlg9dM1eFj8ULZ-zVP)
+
+
+- [Spotify](https://open.spotify.com/show/3BP6gAmp21el8UVDCIFrEp?si=1QxTBHDKTDuUYIsazhFXFw&nd=1&dlsi=15d5090b30ef4d49)
+
+
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/hard-lessons/id1873095977)
+
+
+## Featured Episode
+
+
+E6 •
+
+
+July 13, 2026
+
+
+### [Jean Eric Salata: Find the Comeback in the Setback](https://www.morganstanley.com/insights/videos/hard-lessons/eqt-group-chair-jean-eric-salata-mo-assomull)
+
+
+The EQT Group Chair discusses the advantage of being an outsider and the importance of finding the comeback after a setback.
+
+
+View video Transcript Hide video Transcript
+
+
+## Transcript
+
+
+**Jean Eric Salata**
+
+
+People talk about the beginning of your firm and they look at where you've ended up and they say, “Wow, haven't they been so successful?” But there were so many times when it could have easily gone the other way.
+
+
+**Narrator**
+
+
+For Morgan Stanley, this is Hard Lessons, where iconic investors reveal the critical moments that have shaped who they are today. You'll hear about two out-of-consensus calls, one that was on the money and one that wasn't. Today on the show, Jean Salata, in conversation with Assomull, Global Co-Head of Investment Banking at Morgan Stanley. In his nearly 40-year career, Salata has been a firsthand participant in the rise of Asian markets and globalization. He now chairs one of the world’s largest global private markets firms, which spans the US, Europe, and Asia, with $316 billion in assets under management.
+
+
+**Mo Assomull**
+
+
+Thanks for joining us. Lots to get through today.
+
+
+**Salata**
+
+
+Great to be here. Thanks for having me, Mo.
+
+
+**Assomull**
+
+
+You have had a great and interesting upbringing, from Chile to the US to Hong Kong. Hong Kong is my hometown as well. How has that impacted and shaped your perspectives on investing, on risk, and on opportunity?
+
+
+**Salata**
+
+
+I think the way that that's shaped my outlook is to really always be thinking about things from a slightly different perspective. I've always felt like a little bit of an outsider, I would say, not quite always fitting in, but maybe slightly different than everyone else, and that's given me a different outlook, different perspective, which has sometimes been a disadvantage.
+
+
+Sometimes I think it's given me a broader perspective or a different perspective and has helped me in my investing career.
+
+
+**Assomull**
+
+
+You started out building a small private equity business within a larger organization, Barings Bank, of course, and then subsequently selling that business EQT. So you obviously are chairman now of one of the largest and publicly traded private equity firms. How has that shaped your career as well?
+
+
+**Salata**
+
+
+Yeah, it's been a really, amazing journey. When we started off, actually, we had only $25 million of assets under management, but in the midst of that, just when we were getting going, the Barings Bank actually went under.
+
+
+**Assomull**
+
+
+Right.
+
+
+**Salata**
+
+
+And that was really one of my first sort of setbacks or shocks in my private equity career was being part of an organization that was going through a pretty tumultuous period.
+
+
+But in hindsight, this sort of mini crisis or crisis opened up opportunities for us to eventually spin our business out, which is what ended up happening when Barings was acquired by ING andthen we negotiated with ING to spin the Asia business out. And that's sort of a recurring theme in my career that when there's been these big dislocations or there's some of these setbacks and crises, there's always also been another door that's opened or that's created a new set of opportunities, provided you're able to survive the setbacks and navigate through the difficult periods that you're going through.
+
+
+The business grew, it developed, and we went from being a much more focused business around a few geographies to being a much more dispersed business around multiple geographies. And then we got to the stage where we were a fairly established, large firm in Asia, and I started noticing some of the global firms changing the way they did business in our industry: moving from being just a single product, single fund focused partnership to being multi-product, larger, institutionalized businesses.
+
+
+**Assomull**
+
+
+Multi strategy….
+
+
+**Salata**
+
+
+Multi strategies…nd that's when, you know, we started to really institutionalize our business. We started to put in a lot more processes and changes to our leadership structure, o it wasn't so much centered around me as the founder and that really set us up for, ultimately, what we ended up doing was becoming a part of a much larger global platform.
+
+
+**Salata**
+
+
+You know, I was lucky enough to meet the folks at EQT, who had a very strong business in Europe and the US, but really didn't have much of a presence in Asia. So it was a perfect strategic fit, but it was also, importantly, a really good cultural fit, which is ultimately why the combination succeeded.
+
+
+**Assomull**
+
+
+So I'd love to understand some of your investment calls over the past couple of decades. Maybe you could start with one that was a particularly successful one before we get into the ones that are more challenging.
+
+
+**Salata**
+
+
+The one that comes to mind is is a for profit education company called Nord Anglia Education. And Nord Anglia Education is an operator of international schools around the world. Today it's actually the largest in the world, but at the time, which was around 2007, 2008, it was an industry that actually was on the radar of investors in the United States, but was not on the radar at all in Asia.
+
+
+I had a very close friend of mine and who ended up being a partner in our firm, was working at a firm in the United States that was helping diligence a lot of private, for-profit education companies, for private equity firms. And I was talking about it and I was thinking, wow, for-profit education. And I remember even discussing with some of our investors at the time and they felt like, are you sure you can even invest in the education sector in Asia? Is it even allowed? What are the regulations? How do you generate profit?
+
+
+And so we did a sort of a top down market mapping exercise of of education assets in Asia. And to our surprise, there were actually three pretty sizable for-profit education schools in China at the time, but they were owned by a UK-listed company. And so this is before the days of sort of cross-border investing being that, well, known or practiced in Asia.
+
+
+We decided to take a trip to London. We met the company. We said to them, we're an Asian private equity firm, and we can actually help your business in our part of the world, which they found quite intriguing because they were having trouble penetrating the markets in Asia, and they felt that as a private company, with our backing, they could do a lot more.
+
+
+And we took, at the time it was a business of six schools, bought it for something like 3 or $400 million at the time in total enterprise value, and over the last sort of 15 years, we've owned it in subsequent funds and vehicles, and we've taken it now to over 90 schools around the world. And we just recently transacted on the asset at over a 14 billion enterprise value.
+
+
+So it's a…
+
+
+**Assomull**
+
+
+Reasonable return, I think.
+
+
+**Salata**
+
+
+Not a bad return. But, you know, looking at new sectors and how you can tackle deal constructs that are a little bit different, I think is a way to generate some alpha in our industry.
+
+
+**Assomull**
+
+
+What lessons did you take away from that initial investment as you thought about the success?
+
+
+**Salata**
+
+
+I think there are a number of key takeaways from this that we've try to replicate. I think number one, there was a very big consolidation opportunity in the industry. It is a very fragmented industry, most of these schools are individually owned around the world. So there's an M&A kind of roll-up opportunity, which I think is a, you know, a really good playbook for value creation that we've subsequently executed on in multiple different industries.
+
+
+Secondly, we gained a very strong appreciation for businesses that have these kind of recurring revenue type business models: tuition in this case. In this case, it's prepaid; you get paid in advance–very favorable cash flow characteristics that enable you to utilize the cash in the business to make acquisitions or to invest in further growth. The other key takeaway from this business is that actually the business went through some very challenging periods.
+
+
+We had, actually right after we bought the business was the financial crisis in 2008, which nearly took the whole business down. So we had to get through that. Then we had a very tough and challenging period during Covid as well, when people weren't going to school, but we invested in the technology platform, we e developed a really good online offering at the time, and I think that was also a key lesson for us was that the more you have control of a business, the more you can really drive value creation, the more that you can really be in control of your destiny, really, on the investment.
+
+
+**Assomull**
+
+
+Can we talk about an investment,perhaps, that didn't work out as well as you thought, and tell us what was the original thesis and why it didn't play out the way you thought it might?
+
+
+**Salata**
+
+
+Yeah, I think you learn a lot more from your setbacks and your failures and mistakes than you do from your successes. As I think back to the early stages of our business, when we were just getting started, we had a very strong China business that was growing and doing well, and we decided that the next phase for us was to start investing in India.
+
+
+And, India was a relatively new private equity market at the time. You're talking about more than 20 years ago, in the early 2000s. And so we started investing in really a broad range of companies there. There were opportunities, but I would say that we were not being very systematic about it, and what ended up happening is that we made a lot of minority investments in a lot of different companies, in a lot of different industries, which mostly ended up not working out. And it was a real setback for us.
+
+
+**Assomull**
+
+
+Was there a moment during that early journey in India where you said, it's not working, we have to pivot? Was there a mindset shift or something that made you change?
+
+
+**Salata**
+
+
+Well, it started building as we started losing money on investments, which none of us like to do, and viscerally when you lose money, for me personally at least, it just bugs me. And of course, I had to go and tell our investors the bad news when we were losing investments. Our investors were asking, “why are you bothering going into other markets that you don't really understand?”
+
+
+**Salata**
+
+
+The easy thing to have done at that time would have been to say, you know what? This is too difficult. This market doesn't work for us, we don't know how to operate here. And we nearly got to that conclusion, but that's when we sat down and said, let's stop here and evaluate and figure out what's going wrong and how we fix it.
+
+
+I mean, first we said, you know, do we have the right people or do we have the wrong team? And we actually came to a conclusion of the right people, but we were doing wrong…We had the wrong strategies, and what we changed subsequently was, number one, we stopped making minority investments because we felt like it was very important to have control.
+
+
+We had issues with governance, so we shifted from minority investments to control investments. The second thing we did is that instead of being opportunistic and investing across whatever deals we found in the market, we decided, let's analyze this top down. Let's look at the market, let's try to understand where the biggest growth is going to happen and where the best private equity type opportunities are going to exist, and where the most control deals are going to exist.
+
+
+And we came to the conclusion that IT services, the technology sector, was the big sector for us to be focused on, and we basically exclusively focused on that one sector for, I would say, almost ten years. We also started really doubling down on professional management, avoiding founders, or promoters as they're called in India, and really working with professional CEOs that we would bring in, who were very aligned with us and driving value creation together.
+
+
+And it did actually take, as I'd say, another two or three, maybe even four years before we made another investment, having to reorient ourselves and started to completely generate a whole new pipeline of opportunities based on this new outlook, this new strategy that we wanted to execute on, and sort of building our conviction. That strategy worked and we went from having, you know, the worst performance in our portfolio in India to having the best performance in our portfolio in India in our subsequent funds.
+
+
+So the takeaway for me from that was, you know, it nearly put us out of business moving into a market where we didn't have our strategy right yet, but having refined it, we were able to then deliver great results, which ultimately ended up strengthening our business. And if I look back at, you know, what enabled us to do that, I think it really kind of boiled down to, first of all, just being very honest and open with ourselves that we weren't doing a good job and being able to have a transparent discussion around that.
+
+
+And then secondly, I think it's this idea of kind of learning agility of, like, constantly trying to improve the way you do things and figuring out what you can do to make your business stronger rather than, you know, taking every setback as a sort of a negative experience to see how you can figure out what you can do better next time.
+
+
+**Assomull**
+
+
+I guess part of the lesson, for me at least, is: something's hard, rather than walk away from it. Pause. Reflect. Think about what needs to change, and then go back in if you have the conviction to see it through.
+
+
+**Salata**
+
+
+Yeah. And this is where your team members really come in. I mean, you can't…None of us can do this on our own. It's a tough situation to be in. A lot of these periods are coinciding with setbacks overall in the industry, or fundraising being challenging, or wondering whether you're going to raise another fund ever again or, you know, your team getting demoralized.
+
+
+So people talk about the beginning of your firm and they look at where you've ended up and they say, “Wow, haven't they been so successful?” But there were so many times when it could have easily gone the other way. You know, where you're nearly thinking about giving up.
+
+
+**Assomull**
+
+
+How was it retaining the right people, making sure that those that were with you early stayed with you through it, especially the ones that were the strong performers and that they weren't swayed by “I'd like to do something different.”
+
+
+**Salata**
+
+
+That was always one of my biggest worries,nd to this day, it's probably the single thing I think the most about is the team and making sure the team is happy, healthy, strong, and developing well. On the one hand, you need to have the economics right. You need to have the ownership structure right. On top of that, though, there's this cultural element of it's a little bit self-selecting.
+
+
+You're bringing people in that have good chemistry, that work together well, and that have a sort of a shared view of what they're trying to build together. We always had local decision-making in terms of how our investments were made. We were in Asia focused business. Some of our competitors were making decisions at the centralized level in the USA or in Europe, and kind of imposing those decisions down into the region that I think can be very frustrating for teams and demotivating.
+
+
+So that's part of the way the business is set up. So I think it was a combination of these different aspects of how we built the business and the kinds of people in our organization, how we incentivized the team, and, you know, I'm happy to say that we ended up having one of the longest tenures of our team members in the whole industry in Asia.
+
+
+Average partner in our firm has been with us 17, 18 years. I think if you get the people and culture right, the investment performance follows.
+
+
+**Assomull**
+
+
+You've said the word culture now many times, which is great. It's very much what we think about at Morgan Stanley as well. And so as the firm has grown, obviously now with EQT as well, some of those lessons from the early days around control, governance, focus, disparate versus a more deep down focus on certain businesses, that I assume carries through to toda as you go through your buyout, ICU, or some of the other, strategies that you pursue as well.
+
+
+**Salata**
+
+
+Yeah, absolutel, and we're constantly trying to refine everything we do all the time. This sort of, we call it the infinite mindset, you know, we talk about that a lot,this idea that the game's never over, just when you think you've won or you've done the best deal, or raised the biggest fund or have the best performance, or even the top quartile performance, you know,
+
+
+you're only one fund away from that disappearing. We're in a very competitive industry. I've sort of always viewed myself and our business as a little bit of an underdog. I still have that underdog mindset, I would say. You know, we have these big global firms that were coming to Asia and setting up shop and, and…
+
+
+**Assomull**
+
+
+You were the incumbent.
+
+
+**Salata**
+
+
+We were the incumbent, but, you know, these new entrants were bigger players globally. They were smaller in Asia, but bigger globally. They had more resources. We were worried about what that meant for our, you know, the brand that they had and how do we compete against that. And so I think continuing to maintain that underdog, or we can call an entrepreneurial mindset, I think is really important and actually gets harder to do as you get bigger.
+
+
+The tendency is, I think, to become more conservative and to start to do the middle of the road type of investing, which ultimately would give you middle of the road returns. And I think we need to always avoid that, while managing risk.
+
+
+**Assomull**
+
+
+I love that healthy paranoia equals an infinite mindset, something like that. That is a fantastic way to think about things.
+
+
+**Salata**
+
+
+Yeah. Yeah, I think that it's a good kind of model, even for life generally to, to constantly try to learn and stay curious. Part of that is having huge respect for your competitors. I think when you start feeling like you have all the answers and you don't respect your competitors, I think you can get into trouble.
+
+
+We operate in industry with some fantastic firms who really are good at what they do. And I think one of the advantages, if you want to call it that, that we had is we were in a market, a kind of more of a frontier market in Asia, so we were able to sort of look at what was working and being done well in the US market by the big established firms that would succeeding and trying to bring that to Asia, but then adapting it to local conditions, which often involved slightly modifying it.
+
+
+Particularly coming back to this point on culture, you know, the one size fits all approach, which is the kind of the more the US model of operating in a big homogenous market, that doesn't work in Asia. Every market is so different, and you need to really adapt to local market conditions. So sort of taking the best of what the global firms were doing at the time and adapting it to local conditions.
+
+
+**Assomull**
+
+
+What in Asia right now interests you?
+
+
+**Salata**
+
+
+I think the single biggest opportunity we see in the region today are Japanese buyouts. That market is growing. It's a market where we think there's a lot of excess return opportunities available to investors. It reminds us a lot of the sort of conglomerate days of the US in the 80s, where you had businesses that lack focus, that weren't executing to full potential.
+
+
+We're seeing a lot of take private opportunities there. And I think generally there's a policy tailwind in Japan related to the corporate governance reforms that have been implemented by the Tokyo Stock Exchange, which you probably know well, because I know Morgan Stanley is very active in Japan. In fact, I think you have a local partner.
+
+
+**Assomull**
+
+
+We have our tie up with MUFG, which makes us the largest securities firm in Japan. So we share your passion for what Japan is becoming.
+
+
+**Salata**
+
+
+Yeah. And I think that partnership is super strategic because it's important for us as well. When we think about working with a financial advisor, the fact that you have that local capability is really critical because there's a lot of relationships that are very market specific there. But we have a very active pipeline that we've made a number of investments, We've announced some take privates recently. And so I think the opportunity there is going to continue to generate more and more deal flow for all of our industry actually.
+
+
+**Assomull**
+
+
+So let's go back to the theme of hard lessons again. Can you maybe share one other hard lesson that you've learned over the years, whether it's in your personal or in your career that perhaps made you stop, think, and reflect?
+
+
+**Salata**
+
+
+I think a general kind of thread that's run through my, both my business career and my personal life has been the setbacks that I've experienced, of which there have been many, nd I think most people have setbacks in their lives and in their careers. But even now, if you look at AI, you know, AI is potentially a very disruptive, very challenging, kind of scary, development in the world.
+
+
+And so if you step back and put it into the context of, well, we've been through many changes as humanity before. We've seen technological change, disruption, war, Covid, and other sorts of, you know, calamities. But you're able to sort of navigate through these things. It requires constant iteration, constant thinking around different ways to think through these challenges.
+
+
+But I do feel like it's important to look at some of these setbacks as a way to redefine the way you're going to move forward andto almost reinvent your business. And we've had to pivot our business many times. In fact, there's many times when it could have gone completely the other way, but we've been able to pivot the strategy or pivot the team's, focus in a way that ultimately ended up succeeding.
+
+
+And I talked to my kids a lot about this as well,that when you have these setbacks, which are going to happen no matter what, the question is how you respond to them.
+
+
+**Assomull**
+
+
+I go back to what you said earlier, the infinite mindset. That's really fascinating, Jean, that was great. Thank you for joining us on this Hard lessons. I know all of us at Morgan Stanley will take a lot away from this, so I appreciate the time and I hope to see you soon, hopefully in Hong Kong.
+
+
+**Salata**
+
+
+Thank you so much Mo. I really enjoyed that, thanks very much. It was a great conversation.
+
+
+**Narrator**
+
+
+You've been watching Hard Lessons, an original series from Morgan Stanley. You can listen to an extended audio version of this episode on Apple, Spotify, or wherever you get your podcasts. For more information about the series, visit morganstanley.com/hardlessons.
+
+
+[Explore Episode](https://www.morganstanley.com/insights/videos/hard-lessons/eqt-group-chair-jean-eric-salata-mo-assomull)
+
+
+## More From the Series
+
+
+E5 •
+
+
+April 9, 2026
+
+
+### [Rick Rieder: The Market Doesn’t Care If You’re Right](https://www.morganstanley.com/insights/videos/hard-lessons/blackrock-cio-rick-rieder-seth-carpenter)
+
+
+BlackRock’s CIO of Global Fixed Income shares what he learned about investment sizing, liquidity and discipline by investing in breakthrough technologies and ma...
+
+
+View video Transcript Hide video Transcript
+
+
+## Transcript
+
+
+**Rick Rieder**
+
+
+I think this market has become much more of a gambling institution, and you see everybody lined up on one way and then, you know, being a contrarian and going against consensus has become much more, I think, profitable.
+
+
+**Narrator**
+
+
+From Morgan Stanley, this is Hard Lessons, where iconic investors reveal the critical moments that have shaped who they are today. You'll hear about two out-of-consensus calls: one that was on the money and one that wasn't.
+
+
+Today on the show Rick Rieder, BlackRock's Chief Investment Officer of Global Fixed Income, in conversation with Seth Carpenter, Morgan Stanley's Global Chief Economist and Head of Macro Research.
+
+
+At BlackRock, Rieder helps oversee $2.7 trillion in assets under management across global bond and asset markets. He's an influential voice on interest rates, inflation, and market structure and chairman of BlackRock's firm-wide investment council.
+
+
+**Seth Carpenter**
+
+
+It actually has been a while since you and I sat down and talked together.
+
+
+**Rieder**
+
+
+Good to be here. Thanks for having me on it.
+
+
+**Carpenter**
+
+
+You've been at BlackRock now for seventeen years.
+
+
+**Rieder**
+
+
+Seventeen years.
+
+
+**Carpenter**
+
+
+Yeah, that's a long time.
+
+
+**Rieder**
+
+
+Hard to believe. It's hard to believe.
+
+
+**Carpenter**
+
+
+What's it been like, that journey at BlackRock?
+
+
+**Rieder**
+
+
+I remember in ‘09, like I had, I had a hedge fund and all my partners were discussing should we go to BlackRock or not? And, and I remember saying, uh, this place, you know, could be the epicenter of finance, but not thinking that the firm would grow to the scale it did. We were right before the acquisition of BGI and iShares and which has transformed part of the transformation of the ETF industry.
+
+
+And to think about, you know, over $14 trillion in assets. And when I joined, we were a tiny fraction of that. And it's become like a pretty, pretty amazing place. So it's been, uh, it's been fun.
+
+
+**Carpenter**
+
+
+You did say epicenter, which I think is a useful word, because how many billions of dollars of assets under management. Did you think you'd be able to talk about trillions of dollars of assets under management?
+
+
+**Rieder**
+
+
+I chair the board of charter schools in Newark, New Jersey, and I did a talk about how much we managed. And I said, does anybody know how many zeros in trillions? And then somebody gave the answer, and I really didn't know. And I had to actually do, I actually had to think about it and say, oh, hold on. I gotta actually think about how many zeros. And it was actually a funny thing.
+
+
+But when you think about, you know, the sheer scale of it and, you know, it is pretty extraordinary. You know, certainly in the portfolios I run we’re like maniacal about precision in each of them. So it doesn't feel, like, untenable.
+
+
+It feels very manageable in terms of that scale.
+
+
+**Carpenter**
+
+
+Trillion dollars, trillions of dollars. That's a lot. Do you think the sheer size of it is part of the secret to success? What is it that's the secret?
+
+
+**Rieder**
+
+
+There, there are some benefits that come alongside of it in terms of the amount of flow we see across different asset classes, seeing thousands of situations. The odds statistically are just better that we can look at so many different things. And by the way, not that I make all the right decisions or many of them, but it is the ability to actually look and say, okay, that makes sense, and see relative value in places that you wouldn't even think. Like, being able to put the pieces together.
+
+
+It gives you an ability to actually try and build the puzzle effectively.
+
+
+**Carpenter**
+
+
+So I'm gonna shift to try to draw wisdom out of you and dissect a little bit that process that you go through when you think about your career. There are places where you have been out-of-consensus, and it turned out you were right.
+
+
+**Rieder**
+
+
+Maybe I'll start with describing, like when you say the wisdom. I actually don't think, like I don't, I don't feel like I, I should be characterized as having wisdom because I don't, like, I think everything is like you have to do immense amounts of work. And I don't think there, for me at least, there's no innate, distinctive skill set.
+
+
+I just think you try and put all the pieces together and then have conviction about it. And some people are like, you're in it, you have conviction, and then you double down. If people don't believe in it, you're not very good at that. I think, though, what I've been able to do is look at things like technology.
+
+
+I am a huge fan geek in terms of technology. When a new technology comes out, I have to be the first in line. And every new technology that comes out, my wife laughs at me. I got to go to the store. I got to stand in line. I got to be with my peeps. And I got, I got to learn what this is. And I just love tech. And I never forgot when EV cars came out.
+
+
+And there was this, you know, they're not going to, it's not going to work. The battery's too expensive. It can't compete. You have these huge players that are entrenched in gas-powered vehicles and like it can't it can't work. And I don't remember doing all the work and looking at that it wasn't really an auto business.
+
+
+It was an energy business. So you think about, is it efficient? Can you create real scale around it? And I remember doing all the work. I can remember sitting in rooms, and I was the only dope in the room. And you start to think, by the way, there were times I'm, you know, I have no problem describing my conviction.
+
+
+But I'll tell you, just getting in early on these things, I remember first driving when I was like, oh my God, it's fast, it's clean, it's quiet. I'm like, this is a better product. And I do it with, like, everything. The same thing when– I remember when the Mac first came out and I remember when the AirPod came out and like, this works and this is just distinctive, but to me it's like, okay.
+
+
+And then you, then you understand what's the time of the market, what's the the size of the market? How can you bring costs down over time? What's your cash flow on the back side of it?
+
+
+**Carpenter**
+
+
+So there's a really disciplined, humble process that you just described. But there's also a bit of a lonely process being sort of all by yourself sometimes. And everybody else saying that maybe you're crazy. What do you do in those moments?
+
+
+**Rieder**
+
+
+So I would say 99% of the time, it's all about collaboration, team, because everybody tends to move with the consensus, myself included, most of the time, virtually all the time. And there are some people who are different, who maybe have your view that are also out-of-consensus. And you check yourself a lot with those people and you say, okay, what do we miss saying?
+
+
+What do we have wrong? And then I like to read a lot of people with a different perspective and like, why do they think this makes no sense or what have you. So I tend to go with people that are aligned on the view, and then the people who aren't. Really try and study it and then try and get confident. But like I say, I've learned over time that we're not in the business of being right. We’re in the business of generating return for clients.
+
+
+And what happens is the market perception can stay wrong longer. And I remember studying in school the efficient markets thesis. I actually think they should throw that out because that is so far from the truth. You know, I think markets are wrong a ton. But you got, you got to survive and you could be out of capital by the time the markets get it, get it in theory, right. So I try and stay in it. I'm not very good at doubling down when people go against me because, you know, your confidence goes. But I try and stay in what I have and then try and develop the thought deeper. And like this. This is going to work.
+
+
+**Carpenter**
+
+
+Oh, that's that's fascinating. It's funny. I think it was, uh, Keynes who was at least attributed for saying the market can stay irrational longer than you can stay liquid. Do you find it– and this is very self-serving as a sell-side analyst– but do you find it more helpful for you to read people who have sort of the same general view so you can corroborate what you're thinking, or is it more helpful to find people who disagree with you so you can pressure test and find out where you might be wrong?
+
+
+**Rieder**
+
+
+I would say the most sophisticated answer was to challenge yourself with the people of a different view, and I, I just don't as much as I should. You know, there are people who I respect and I trust and I like to look at, you know, whether they're right or wrong. I like to go or not. But a situation when you're very against consensus, and I try and read a lot about the people who are aligned on the view.
+
+
+And the one thing you learn is that everybody tends to move together and then goes. And I think social media has has made this even more intense. Everybody moves in the same direction. And, you know, I found maybe just being old or doing this for a long time, there's a time when you see like everybody's moving and prices moved and then now like, okay, now it's done and now it's time to, to go the other way.
+
+
+And I think this market has become much more of a gambling institution. And you see everybody lined up on one way. And then, you know, being a contrarian and going against consensus has become much more, I think, profitable. And particularly when the news flow is so intense, like it's been a pretty good trade. Market goes one way and you just fade it, then it goes the other way, you fade it and you realize you're staying on the line of a trend.
+
+
+**Carpenter**
+
+
+And I'd say, though, if basically the whole market is in one place, it is harder to make money that way because it's all already in the price. And so where are you going to be there?
+
+
+**Carpenter**
+
+
+There are probably some times where you have gone through, dotted your Is, crossed your Ts, and still ended up not having the trade work out. Maybe the consensus was right for a reason. When you think through those experiences where it hasn't panned out, what, what comes to mind?
+
+
+**Rieder**
+
+
+The ones where I didn't get it right come right to the fore and the, and it's, you know, because I think you learn much more from when you got things wrong. You tend to forget or hope that part of what you train for your whole life, you're going to get more right than wrong, hopefully. But I remember, like with bonds, the coupon, the maturity of something.
+
+
+20 years ago, it was early in my career. I was right out of school and I figured I must be right on this and I could buy more. And it was an incredible lesson that, like, the world thinks I'm wrong. You got to get out or you've got to reduce your size to the point that it doesn't ruin, or one security ruin your whole career.
+
+
+But that was lesson one that was like, you got to manage your risk, you got to manage your size. And then, you know, it's a small industry and everybody gets a sense you're in a bad spot. Not a good place to be. Not a good place. And it's a pretty vicious industry. Like when people think you're on the wrong side.
+
+
+**Carpenter**
+
+
+Sort of taste the blood in the water.
+
+
+**Rieder**
+
+
+Oh my God. And they can press you. But I'll remember Peloton. I was one of the original owners of it. I remember it was more personal and I got in. It was incredible. And I watched the technology and then Covid hit, which was a fortunate situation for it. And then the thing exploded to the upside. And then, you know, you get more bought into the ecosystem.
+
+
+And it's one of those things like it's very hard when you think like you had the right perspective on it, and then all of a sudden it starts to go the other way. And there are a lot of people who say why it went the other way. Listen, I think there were a few things that I learned during that in terms of how do you manage cash flow?
+
+
+You grow too fast. People say Covid, you know, maybe there's a little bit of that, but stop loss is a pretty healthy thing to do. And, you know, you hold the conviction. I really believe in this, that I have this theory that you believe three out of four times, you're right, you're right, you're right. And then, okay, time to move on.
+
+
+But you know, this industry in one situation can hurt you in such an extreme way that I believe in this, particularly on the bond side. Diversify. Make sure you've got liquid assets. Get it right 60, 65% or 60% of the time in illiquid. If you get it right 70% of the time on the fixing. Like I really feel like doing it more times than not.
+
+
+Just do it like a casino.
+
+
+**Carpenter**
+
+
+Law of large numbers.
+
+
+**Rieder**
+
+
+But in equities, and the reason why I remember the big ones were in equities is you can have explosive wins and losses, and those are the ones that you've got to be really thoughtful about. You know you got to cultivate the ones that you're winning on and the ones that you're wrong. Like make sure you just scale to the size that you can absorb.
+
+
+**Carpenter**
+
+
+Let me let me push you on that a little bit more. Because you did talk about the price trajectory for Peloton. And there was a time where it was exploding and you said you held on to it. So I manage a whole team of analysts. I'm an economist by training, and one of the things I try to teach my team is that if you're on the buy side, there's a term for getting the analytics exactly right, but getting the timing wrong.
+
+
+It's called being wrong. Right?
+
+
+**Rieder**
+
+
+Right.
+
+
+**Carpenter**
+
+
+Right. So for you with the this Peloton trade, do you think it was that you were wrong or do you think it was it was just timing.
+
+
+**Rieder**
+
+
+I mean, I quite frankly thought the company could have reversed course, could have changed course. They didn't. And I think they were slow to change course. And I will say one thing that I've learned more than anything else, particularly with equities coming from a credit background, you look at cash flow, interest coverage, collateral, hard asset coverage, and you think about all the metrics.
+
+
+And with companies, you know, you think about their business model, how they generate cash flow. But the one thing that I learned is the person running your company is a huge deal, not just the person, but the team that runs the company. Because invariably companies evolve, the industry evolves, technology evolves, and you got to pivot.
+
+
+Some of the most successful companies, I mean, I would say most of them started as something very different. And then they pivoted to something and they got into, you know, a thick vein of opportunity. Whereas they probably started in something that was a good idea at the time, but then they had to change.
+
+
+Now I spend more time with CEOs and like in getting a feel for it, do they know the numbers? Do they know the business? Are they good operators? And that to me is like the whole gig.
+
+
+**Carpenter**
+
+
+So getting into those levels of details, though, does it help you differentiate between possibly pivoting to seize opportunities that exist? That seems like a good thing. Another version of the world is somebody who can't stick with their core competencies, and they're always chasing the next shiny object.
+
+
+What gives you the ability to sort of sift through the details to come up with that kind of distinction?
+
+
+**Rieder**
+
+
+So, you know, I would say a couple of things, particularly in technology, there are people who have the acuity to actually think about where's the world going? And then they adapt their business to that. And then there are people that, like you say, are all over the map. They're disorganized, they're trying to do too many things or catch the hot trend and they're behind it.
+
+
+But I found there's some really unique people over time that I've studied who are just really good at finding, like, getting their companies positioned before the wave comes their way. There are some people are tips of the waves and, you know, they could talk at a high level, but it's the ones who are in the mess to understand, like what's going on and how do you adapt.
+
+
+**Carpenter**
+
+
+It sounds a little bit like some of what you were describing about your own process, where you said, I don't know if there's wisdom, I just try to get down to the details, build things up from the bottoms up, learn as much as possible. I think that skill set is actually pretty transferable across lots of different endeavors.
+
+
+**Rieder**
+
+
+I think, I'll tell you one thing I've just been terrible about my whole career, like reading. There's so much analysis and research and so many smart things to read that if we divide and conquer, you take this, you take this, that. I feel like that I got a read as much as I can and I don't know, I do these monthly calls and I feel like we have a great team and we brainstorm.
+
+
+And then I got to get in a room, and I got to think through it myself. Hopefully I can just do it for me. But but my guess is I'm still going to use AI to help me think through it all, but just me being able to absorb more, faster.
+
+
+**Carpenter**
+
+
+Yeah, no. My strongly held forecast is that AI is going to serve all of that up to you, but you are still going to go through it yourself.
+
+
+**Rieder**
+
+
+I think, I think so, but the decision-making process should be more efficient because you just have to. And I found that as humans you can think on only so many planes. Like when I look at our portfolios and think about risk. If you can think multi dimensionally and think about what technology allows you to do for stress testing, scenario analysis, putting different pieces together. I think that is going to be hugely valuable.
+
+
+**Carpenter**
+
+
+Yeah. Help flag the areas where you really need to devote your attention and sort of leave the other things behind.
+
+
+**Rieder**
+
+
+I think so.
+
+
+**Carpenter**
+
+
+So when we talked about being out of consensus, you said comes to mind right away all of the times where you've made some mistakes and apparently you learn best right after having made a mistake? I always assumed when I was in elementary school and my mother would say that to me, it was to make me feel better and to sort of salvage my ego.
+
+
+But apparently it's science. Curious to hear from you when you think back over all of your career, which of those lessons were the hardest lessons?
+
+
+**Rieder**
+
+
+I mean, you know, the financial crisis was, I think, one, two and three for me. And because I had started a hedge fund, because when you think about the financial assets, when everything correlates to one, we had some leverage on it. And then all of a sudden, like everything correlated to the downside.
+
+
+**Carpenter**
+
+
+And so, just to be clear, starting a hedge fund during the financial crisis.
+
+
+**Rieder**
+
+
+Or a few months before, which I thought was actually a good time because things were becoming volatile, interesting, etc., I didn't anticipate the cavalcade of events that happened after that. And we had a good business and things were going well. And then all of a sudden, like the world was disrupted in an incredibly, I think, surprising way, unexpected way in terms of where policy went, etc..
+
+
+But I'll never forget the stress that that provided. There were some days I'd walk into the office and then we'd walk through a long causeway, and I remember I would walk in and say, this is going to be so hard, this is going to be so hard. And I try and pump myself up until I got to the door. It's like it's still hard, and I'll never forget that.
+
+
+I mean, I'll just never forget that period. But I mean, like you say, it teaches you so much and how you think about it. And I will say to this day, thinking about liquidity, thinking about leverage, thinking about, you know, you can right tail risk. And, you know, people don't think you're ever going to hit that tail.
+
+
+But the way I think about like, gosh, what if the incredibly unexpected happens is going to take me out? But like I said, I've had to fight my entire career to actually think through, okay, that's probably not going to happen again tomorrow. We got to be in a business of investing. We have to be in the business of generating return.
+
+
+We got to the business of taking risk. And so you got to think about, okay, what's my escape hatch? How do I, how do I think about exit strategy in virtually every asset or every position, every portfolio construction you have. And if you know what your exit strategy is, you know what your escape hatch is.
+
+
+It helps you in terms of planning and thinking through. Okay, I thought through this. Time to, time to execute plan B, but that being said, we're in the risk business. I have to say I like stress, not too much, but I like, you know, I think anybody who's been in the investing business like, you know, you got to enjoy stress.
+
+
+Like I like it in the airport. You know, I don't have to get there 2.5 hours early. Like I think I thrive off of, like, you know, why would I waste time sitting in an airport? If you haven't missed a flight in your life, you're probably not taking enough risk.
+
+
+**Carpenter**
+
+
+There you go. ****
+
+
+I think your point about the crisis, the maybe the extreme version of risk, seeing exactly just how wrong things can go, uh, it's often attributed, I guess, to Churchill. Uh, war plans are useless, but war planning is critical. And I sort of feel like that's every day.
+
+
+**Rieder**
+
+
+Totally. And, you know, you realize in the investment business, so much of what drives valuation is emotion. And markets go down five times faster than they go up. People tend to make money slowly and they lose it quickly. I mean, you watch that play out in certain commodities recently. I think you make money slowly and it's like going to then bam, and you're going to have that experience where all of a sudden there's a piece of news or something that came out.
+
+
+And like your thesis, your structural positioning just got disrupted. Yeah, it's as much anticipating what people will think as much as it is I think that asset makes sense or not. It's like, well, how will people interpret that asset? Two months, three months hence. That is a little bit of psychology added to it, which I wasn't any good at in school.
+
+
+But I've learned a little bit about in the investment side.
+
+
+**Carpenter**
+
+
+Well, Rick has been great. I really appreciate your time. Thank you, sir.
+
+
+**Rieder**
+
+
+Thanks for having me. It's interesting. Fun. Appreciate it.
+
+
+**Narrator**
+
+
+You've been watching Hard Lessons, an original series from Morgan Stanley. You can listen to an extended audio version of this episode on Apple, Spotify, or wherever you get your podcasts. For more information about the series, visit MorganStanley.com/HardLessons.
+
+
+[Explore Episode](https://www.morganstanley.com/insights/videos/hard-lessons/blackrock-cio-rick-rieder-seth-carpenter)
+
+
+E4 •
+
+
+February 27, 2026
+
+
+### [Stan Druckenmiller: Invest, Then Investigate](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali)
+
+
+Stan Druckenmiller shares how he would construct a portfolio if he had to start over today, why contrarianism is overrated, and which stock he regrets selling too early.
+
+
+View video Transcript Hide video Transcript
+
+
+## Transcript
+
+
+**Stan Druckenmiller** : I think contrarianism is overrated. I do like it when I have extreme conviction and no one else believes it. It gives me even more conviction.
+
+
+**Narrator:** From Morgan Stanley, this is Hard Lessons… where iconic investors reveal the critical moments that have shaped who they are today.
+
+
+**Narrator:** Today on the show—the legendary macro investor Stan Druckenmiller in conversation with Iliana Bouzali, Morgan Stanley's Global Head of Derivatives, Distribution and Structuring. Druckenmiller ran Duquesne Capital Management with roughly 30% annualized returns and no losing years from 1981 to 2010. He now leads the Duquesne Family Office, managing his own capital, and is a philanthropist championing education, medical research, and the fight against poverty.
+
+
+**Iliana Bouzali:** Stan, thank you very much for doing this.
+
+
+**Druckenmiller:** I'm thrilled to be here. I think the world of Morgan Stanley, so it's the least I can do.
+
+
+**Bouzali:** That is, it’s a privilege for us to have you here. I've been privy to some of your equity trades over the past year or so, where it did feel you were early, and I'm curious if you can, maybe, take us through one or two and how they came together.
+
+
+**Druckenmiller:** I'll pick one that might surprise you because it's not very sexy and it's not AI or anything, but I think it's a good example of our process at Duquesne. In the middle of last summer and toward the fall, the AI thing started to get, let me say, disturbingly heated and started at least to have some rhyme with what I went through in ‘99, 2000 and we were looking for other areas. The group brought in a company, Teva Pharmaceuticals. So Teva was this apparently, if you didn't know what was going on, a boring generic drug company out of Israel, selling at six times earnings. So, we met with the company—big transition going on. Richard Francis had come in who ran the same playbook at Sandoz. Very impressed with him—knew how to take low-hanging fruit in terms of operating efficiency. But, much more importantly, he was taking them from a generic drug company to a growth company by embracing biosimilars, replacing the generic drugs, which that's why they were six times earnings with biosimilars and even some, some actual drugs. The amazing thing is, the investor base were value investors, so they hated it. So, the stock sat there at six times earnings, while you could see this incredible management initiative going on. And, no one really believed him. And again, growth investors didn't want it because they hadn’t made the transition yet. Value investors didn't want it and were actually selling it because he was doing a growth strategy. So that was about six or seven months ago and the stock was $16. And today it's $32 and not much has happened. Other than he's proved biosimilars, they've come up with a drug that's not a generic. So it's re-rated from six times earnings to, I guess, 11.5 or 12 times earnings. So, it was a whole different set of circumstances but it encapsulates what we look at. If you look at today, you're not going to make any money. If you try and look ahead and what might change and how investors might perceive something ahead. This one happened a little more quicker than I thought, but that would be a recent name.
+
+
+**Bouzali:** Fascinating. And very intriguing. I say it's intriguing because I think many people, maybe people not in the market, but certainly many people, when they think of Stan Druckenmiller, they think of a huge macro investor. And I have seen you dabble—more than dabble—really go into areas of the market, especially in equities, that are much more niche, such as healthcare or biotech. And my question is, do you have to be an expert, an analyst, someone that understands the whole pipeline of drugs to get that right?
+
+
+**Druckenmiller:** Thank God the answer is an emphatic no. But I've got to have an expert at Duquesne who is, and trust his judgment, and then I've got to have a feel for how the market will embrace the change he's describing. But we did make a big move into biotech. I could sense that there was a potential leadership change just because of the phobia around AI. And, I knew because I've been on the board of Memorial Sloan-Kettering for 30 years, that probably the best use case out there of AI is biotech through drug discovery, diagnostics, monitoring everything. So, biotech had been on its butt for like four years. I also grew up with technical analysis and you could see the momentum changing. So, that was the theory behind biotech. But honestly, when the analysts start talking about genetic sequencing and gene editing and proteins, it's going right over Stan's head. But I get their level of enthusiasm. We have a very good biotech team. That's really important because I trust them, and when they're really enthusiastic, that's as important to me as the actual facts, because I'm not smart enough to understand a lot of the actual facts.
+
+
+**Bouzali:** So you filter not just the data, but the people that work for you.
+
+
+**Druckenmiller:** Yeah. My advantage is not IQ, it's trigger pulling. I admit it’s some kind of intelligence. But my mother-in-law says I'm an idiot savant. I wasn't in the top 10% of my class. A lot of people think I'm smarter than I am because I'm good at our business. But I have a very narrow form of intelligence that allows me to love and play this game.
+
+
+**Bouzali:** I know many people who would love to get inside your head and understand your mental models. You spoke to us about your way of thinking, and I have a really honest, basic question: How much of it can be taught and how much of it is innate?
+
+
+**Druckenmiller:** Look, I, I was given a gift. I don't know why I was given the gift, but I have this gift and it's for compounding money. Certainly part of is innate. You either have the skill set for this business or you don't. Having said that, I had a great mentor in Pittsburgh when I started out and I find it very common that great investors have incredible mentors. So to me, it's a necessary condition that you have sort of this innate skill set or gift, but it's almost a necessary condition on top of it that you have a mentor. I'm sure there's some people out there that that's not true of, but for me, it was a combination. I was very lucky to have two mentors. One, I basically learned all the kind of stuff we're talking about. And then Soros. It's funny, when I went there, I thought I would learn what makes the yen and the market go up and move. Immodestly, I learned I knew much more about that than he did. What I learned from him was sizing. It's not whether you're right or wrong, it's how much you make when you're right and how much you lose when you're wrong. And that was a, that was an invaluable lesson. So, you can have something innate, but if you don't have mentors and people to teach you, you're not going to maximize it as much as you do when you do have them.
+
+
+**Bouzali:** Should we turn to markets?
+
+
+**Druckenmiller:** Do we have to?
+
+
+**Bouzali:** Oh, it seems to be almost obligatory with you.
+
+
+**Druckenmiller:** Okay.
+
+
+**Bouzali:** So, when it comes to markets, it seems to me you treat them less like forecasts and more like systems that kind of reveal themselves. So, let's pretend you don't have a hedge fund, and you come down from Mars and you have to start a portfolio from scratch. How do you anchor it at this moment in time? What do you buy first?
+
+
+**Druckenmiller:** That's a hard question. Just a couple principles before I would start. It appears to me the U.S. economy is already strong, and it's going to get much stronger because we're looking at the Big Beautiful Bill, looking at a lot of stimulus. My guess is the Fed is certainly not going to hike and probably going to cut. So that's a backdrop. But against that backdrop, that would be wonderful if we were undervalued. We're not undervalued. We're toward the top of the valuation range, historically. What would be exciting about developing a hedge fund portfolio right now is the one thing I'm sure of—is there's massive disruption and massive change ahead. So actually, for the opportunity to set for the next 3 or 4 years, I'm really excited. Macro has been dead for 10 or 15 years. I don't think that's the case anymore. But if you know anything about me, I tend to change my mind every three weeks. But given the backdrop, we would probably be long, more an eclectic basket of equities. For until the fall of the last three years, our portfolio is very much AI driven. We still have drips and drabs of AI around, but it's not driving the engine anymore to some extent. We still have big positions in Japan and Korea. Some of them are AI. Some of them are not. We're bearish on the US dollar, mainly because sort of the top of the historic range in terms of purchasing power and foreigners are way, way overloaded in dollars. And I don't know whether it's like a sell America trade because it's more like if they don't buy American assets on a net basis because of the trade balance and because of the position, the dollar will go down on its own. And we think that is the most likely course here. And we own copper. It's not a genius trade. It's a big consensus trade. There's no supply coming on, meaningful supply very tight for the next eight years. And obviously you have a big add on from AI and data centers. We're not long on copper equities as much as we are, we just keep rolling the front end. We have some gold. That's mainly a geopolitical trade. It's not so much a monetary trade. And then because we're long all these risk assets I just mentioned, we're short bonds. I don't necessarily expect to make money short bonds. But I think we might make a lot if I'm right on the economy and it's a disinflationary growth, I'd probably break even, and I don't lose anything, but it allows me to hold the other assets I mentioned. If I'm wrong and the strong growth creates inflation—it wouldn't be that unusual if the Fed were to cut into a booming economy for inflation to take off, particularly with what's going on with commodities. So I'm open minded to that. But we create a matrix and the bonds are helpful in both ways.
+
+
+**Bouzali:** The equity market has changed a lot over the past decade. And you have all these new types of capital, whether it's multi-strategy hedge funds, retail investors, systematic players, ETFs. How has that changed the time horizon that you feel you have edge versus, let's say, ten years ago? Are you more comfortable with the one-week, the one-month, the one-year trade? Or maybe it's not prescriptive. How do you think about that?
+
+
+**Druckenmiller:** Most trades I put on, I think in terms of 18 months to three years, that's how long I think they're probably going to evolve. Not every trade. You know, some are a year, some are five years. But I will admit that I've put on a three-year trade that five days later I'm out of and I've reversed. But, if you're talking about how I conceptualize it, all this noise about how much the system in the market has changed, that has not changed what I just said at all. And, the violence that creates is more useful for entry points if it goes against what my belief over the given time frame is. So, I think it's a lot of noise that makes my life annoying, because I'd rather just have nice, calm markets that move in a direction. But also, it creates opportunities and you have to use the volatility as opposed to being abused by the volatility other than mentally, which I'm going to be. But I mean, you can't let yourself be a victim of volatility and you can take advantage of it. It's just hard mentally.
+
+
+**Bouzali:** But you said, I'd rather have trending markets. Fair. Am I wrong in sometimes thinking you're more comfortable being contrarian? Or do you embrace the consensus more? How do you think about that?
+
+
+**Druckenmiller:** I think contrarianism is overrated. Soros used to say the crowd's right 80% of the time. You just can't be caught in the other 20% because you can get your head handed to you. I get some intellectual satisfaction out of playing in the 20%, but as a concept, I think contrarianism is overrated. I do like it when I have extreme conviction and no one else believes it. It gives me even more conviction. I don't care if a trade is crowded, if I think the thesis is right and the trend is with me. I mean, for entry points I care, but I don't really care in terms of the investment. It doesn't bother me.
+
+
+**Bouzali:** We had an investor zoom call in December 2022, and we were discussing macro, rates, dollar, US versus the rest of the world. And after we spoke a little bit, I asked you what you think on rates. And I will quote essentially verbatim what you said. You said I couldn't care less about rates—the only thing that matters is AI and Nvidia.
+
+
+**Druckenmiller:** I don't remember that, but that's nice.
+
+
+**Bouzali:** What was going on? How did you see it?
+
+
+**Druckenmiller:** So, the Nvidia story is quite interesting and it's a perfect example of the process we spoke about earlier, where I rely on other people. So, I have some young superstars in my firm. And they had a network and they started really talking about AI. This was in early- to mid-‘22, and then I started noticing that the kids at Stanford were shifting from crypto, 50/50 crypto and 50/50 AI to more going to AI. And that's something we've always looked at in venture is where the kids are going. When we bought Palantir in ‘08, ‘09, it was because that was a cool company back then that all the kids wanted to go to. So, my partner had in people from his AI network in there in Palo Alto. They came in and explained AI. Most of it went over my head, but I knew that this was really big.
+
+
+**Bouzali:** Why did you feel it was really big? It could have been a fad. You didn't feel this way for other fads.
+
+
+**Druckenmiller:** Because I had total trust in my partner, and I thought I was grasping the enormity. It turns out I wasn't grasping the enormity because I didn't know about large language models, but I knew about all the other conventional stuff that was going on in AI. So, I said to my partner, what should I buy? He said Nvidia—that's the way to play AI. So just on this, about as much as you just heard, I bought a not-big position in Nvidia, but enough to get hurt on or to make some money on. And then about two weeks later, ChatGPT happened, which had not mentioned in our conversation. Well, even I understood, okay, the enormity of what that meant when I saw even the rudimentary things it was doing back then. So, then I doubled the position. And then one of the great services you and Morgan Stanley provide are these macro calls and, um, all the macro guys, including myself, luckily I hadn't talked yet, were espousing their views on the world—which are probably worth a nickel and a cup of coffee—and an analyst there who was from the tech world said, ‘You guys are in the trees and you're missing the forest. There's something much bigger than anything you're talking about, even for macro.’ And, he went on to amplify everything I had heard three weeks ago or four weeks ago about AI. But this time I had ChatGPT between that conversation and him. So, then I doubled my position again. And literally, I don't think I knew how to spell Nvidia three months before and when the stock took off, I knew through years of experience, when you have massive, massive change, investors just can't make themselves keep up with it. And it was funny because the person who knew ten times more than anybody at the table and probably 50 times more than me about AI, he sold his Nvidia shortly thereafter. But I knew that this stock would go up for at least 2 or 3 years and go up a lot. And I said publicly in an interview about five months later, as, I cannot possibly see myself selling Nvidia over the next 2 or 3 years because it had already gone from like 150 to 390. And this person couldn't believe I still owned it. And I basically said, not only do I own it, the way these things evolve, this stock can't not go up for at least three years. So then the stock goes to 800 and I violated everything I said in the interview. I couldn't stand success. I'd gone from 150 to 800. I was long term in it. I couldn't deal with it, and I sold it. And then it was 1,400 like five weeks later and I was sick. But, um, it's amazing how little I knew about Nvidia. I couldn't even tell you what the earnings were.
+
+
+**Bouzali:** It's a sign of confidence, and it's because you're Stan Druckenmiller that you can be so blatantly honest about the way you think about these things, and I think it's very encouraging to portfolio managers that are coming up in the business, and they often feel like they need to be intellectually, very much on their game constantly. What I'm getting from this, the ability to filter, to manage, instead of being wedded to a spreadsheet is really unique and quite helpful. You said something, that you violated what you had said and sold at 800. Would you have done that 20 years ago? Is this a sign of a more mature way of trading now versus before?
+
+
+**Druckenmiller:** Probably not. I'm not used to making six times for my money in an equity in two years, and I'm not Warren Buffett. I think I would have screwed it up 20 years ago when I was good too.
+
+
+**Bouzali:** What are some things—if there are some things that you have unlearned over the past 20, 30 years or you had to unlearn?
+
+
+**Druckenmiller:** I don't unlearn anything because scars are something I always keep in mind because they can help you out. But I will say through a bunch of circumstances that I won't repeat, I was promoted way too early. I was made an analyst when I was 23, and I was made sort of the head portfolio guy by the time I was 26 and I didn't go to business school, so I never learned all the fundamentals I needed to learn to, in terms of analysis. So, I relied heavily—and my mentor was really into it, and back then nobody was doing it—on technical analysis and I learned all the intricate details of it. Okay. I can unequivocally tell you that technical analysis is about 20% as effective today as it was then, because no one was using it. But when everybody is using it, it doesn't work anymore because you don't have a unique thing to act against. So, it's kind of sad because it's easy and you can be lazy. You don't have to work that hard. You just look at a chart instead of going into a 10Q and all this other stuff. But technical analysis is a problem. In the same vein, price versus heat news was huge for me for 20 or 30 years, and if you had great news and a stock wasn't responding to the news, 90% of the time the news was coming, that was bad. Unfortunately, around 2000, a lot of smart people started coming into our business. I was the only one in my class, I think, from Bowdoin, that went into the financial industry, because we'd been in a bear market for ten years. Well, then again, every wise guy learned what I'm just talking about, so it doesn't work anymore. So back then, the company reported horrible earnings, opened down in the aftermarket and then was up 10% the next day, almost guaranteed to be higher six months later. That's not true anymore because everybody else has learned that. So those would be the two big things. I haven't unlearned them, but I don't rely on them to the extent that I used to.
+
+
+**Bouzali:** They've been loved to death, basically. Are there any other signals that have been elevated in importance then, conversely to signals that have been diminished?
+
+
+**Druckenmiller:** Not really. There's no silver bullet. And I'm the great beneficiary of 40 years of scars and successes that I can go back on, and a lot of pattern recognition, because there's not much I haven't seen in this business. I'd say the biggest disappointment in my career has been, I think I have more wisdom, and I have more tools of the trade than I had in my 30s and 40s, and I was a much better portfolio manager then because back then I had courage. I would take bigger convicted positions. I'm trying to regain some of my nerve just because it's more fun.
+
+
+**Bouzali:** So you're chickening out?
+
+
+**Druckenmiller:** Oh for sure. I've been chickening out for a long time. I'm Mr. TACO, except it's not T, it's DACO. Druck Always Chickens Out.
+
+
+**Bouzali:** In terms of other maybe experiences that you've had, or a chip on your shoulder? Do you have a chip on your shoulder that makes you better at this?
+
+
+**Druckenmiller:** No, no, I just, um, grew up—my dad and my sisters played games with me all the time. I was just a really sore loser. I love games, but I really hate to lose, so I'm just very driven. It's a sickness. I don't know where it comes from, but I might as well channel it and make it productive instead of just a disease because it is a little bit unseemly. But it's who I am.
+
+
+**Bouzali:** Embrace it. Finally, this show is called Hard Lessons. Can you look back in your life or career and maybe take us through something that you had to learn the hard way?
+
+
+**Druckenmiller:** Let me just say, I have so many scars. You can't believe it. Everyone knows how I played the Nasdaq melt up in ‘99. Sold it perfectly in January and then bought the exact top. And someone says, what did you learn from that? I said nothing, I learned not to do that 20 years before, but I got emotional, which I fight every day. I would literally like throw up like once or twice a week, just from anxiety when I'd have a drawdown and so forth. And at some point in my career, I learned that you're going to continue to make mistakes, you're going to continue to get emotional, you're going to continue to have that happen from now and then. But you've got a gift. And just stop torturing yourself for like 48 hours or maybe longer over this because you've been doing this long enough and the record is there long enough that it's no longer like random accident, which I did not believe for like 15 years. So, the hard lessons have been like hundreds of mistakes, but that they're just a moment in time. And when you have these drawdowns and if there's money managers listening to this and you're good, it's easier said than done. Just get over it and move on.
+
+
+**Bouzali:** So Stan Druckenmiller had imposter syndrome for 15 years?
+
+
+**Druckenmiller:** Yes. Maybe longer.
+
+
+**Bouzali:** Wow.
+
+
+**Druckenmiller:** Maybe longer.
+
+
+**Bouzali:** Incredible. As we're finishing. I want to say thank you for being here. I got to know you later in your career, and it's just been fascinating to see you think and trade—to see you in action. You've been very generous with your time, and on behalf of Morgan Stanley, thank you very much.
+
+
+**Druckenmiller:** As I said in the beginning, I wouldn't do this for many. And I think the world of Morgan Stanley, so it was delightful to be here.
+
+
+**Bouzali:** Thank you. Stan.
+
+
+**Druckenmiller:** Thanks, Iliana.
+
+
+**Narrator:** You’ve been watching Hard Lessons, an original series from Morgan Stanley. For bonus content from Stan Druckenmiller and to listen to the extended audio version of this podcast, visit MorganStanley.com/HardLessons.
+
+
+[Explore Episode](https://www.morganstanley.com/insights/videos/hard-lessons/duquesne-stan-druckenmiller-iliana-bouzali)
+
+
+E1 •
+
+
+February 2, 2026
+
+
+### [Jon Gray: Stay Calm, Stay Positive, Never Give Up](https://www.morganstanley.com/insights/videos/hard-lessons/blackstone-jon-gray-dan-simkowitz)
+
+
+Blackstone’s President & COO unpacks pivotal calls from the Hilton turnaround to a dotcom era loss.
+
+
+View video Transcript Hide video Transcript
+
+
+## Transcript
+
+
+**Jon Gray:** I remember going to see investors and distinctly one of our state pension funds in the meeting, telling them about one of the write downs. And I just remember that awful feeling leaving that meeting, going back to the airport and being like, wow, I cannot let this person down. This is not good.
+
+
+**Narrator:** From Morgan Stanley, this is Hard Lessons where iconic investors reveal the critical moments that have shaped who they are today. You'll hear about two out of consensus calls: one that was on the money and one that… wasn't. Today on the show. Jon Gray, president and chief operating officer of Blackstone with Dan Simkowitz, co-president of Morgan Stanley. Jon stepped into his current role in 2018, and since then, Blackstone's assets under management have nearly tripled to over $1.2 trillion.
+
+
+**Dan Simkowitz:** Well, it's so, so good to have you here. It's fantastic. You know, I'd say 30 years ago our industry was so private, frankly so small. So, I think it's a little inspiring what you're doing around marketing for financial services. But you know, when we led the Blackstone IPO, you were $88 Billion of AUM. Now you're over $1 trillion. The organization is bigger and more complex. You've built both a world class client service organization, but at the core of it is just incredible investment, discipline and performance. And so Jon, we're going to talk about two out of consensus investment decisions. Set the scene for one of the winners.
+
+
+**Jon Gray:** Always better to talk about the winners, although you learn more from the losers. Right around 2007 we bought Hilton Hotels. I led that investment. It was a $26 billion investment, and I was, um, excited because this was an obviously iconic company that owned some incredible real estate like the Waldorf, had a timeshare business and then had this unbelievable management franchise business: Hilton and Hampton Inn and DoubleTree, Conrad, Hilton Gardens, all of that. And it was at a time when the market was pretty frothy because it was before the financial crisis. You remember people were borrowing a lot to buy homes. They were borrowing a lot in leveraged lending in the corporate world. They were borrowing a lot in commercial real estate. Prices were elevated, and I thought we had found something—an operating business with some real estate inside that we could buy at a reasonable price. Now, we paid a big premium, 40% over the stock market at the time, and we bought the business $26 billion. We borrowed $20 billion. It was a different era.
+
+
+**Dan Simkowitz:** How did that feel?
+
+
+**Jon Gray:** Well, at the time, there was so much leverage in the system, it was…
+
+
+**Dan Simkowitz:** But you had never borrowed $20 billion before?
+
+
+**Jon Gray:** No. Well, except that we had bought EOP. We had bought the largest office business, and that was a $39 billion deal, and we had been on this run buying public companies, because at the time I was running real estate and we were able to buy the businesses on the screen much more cheaply than we could be when we were bidding for individual properties. And so we started scaling way up. But in this case, we took on a business with some volatility, hotels, and put a lot of leverage on it. And we took money from our private equity business and our real estate private equity business, $5.6 billion of equity, the largest investment we'd ever made at the time as a firm. And we bet on this. And we closed the deal in the fall of ‘07. Terrible timing. And by all accounts, I should not be sitting here with you, Dan. They should have carried me out. And it looked that way. Because if you recall, the financial markets really tighten up and the real economy goes down. And this business, Hilton loses 20% of its revenue and 40% of its cash flow. And we've leveraged it up a bunch. We write down the investment by 71%.
+
+
+**Dan Simkowitz:** So you actually took the action to write it down.
+
+
+**Jon Gray** : We took the action to write it down because it was clearly very impaired. And I remember going to see investors, and I remember distinctly one of our state pension funds in the meeting, telling them about one of the write downs. And the investor was almost physically ill, which is understandable, because he had a very large investment with us. And I just remember that awful feeling leaving that meeting, going back to the airport and being like, wow, I cannot let this person down. This is not good. And I think fortunately, maybe because of my core optimism, but also my belief in the underlying business, I didn't lose faith. We also had an amazing management team led by Chris Nassetta, who's still the CEO of Hilton. I'm still the chairman 18 years later, it's pretty amazing.
+
+
+**Dan Simkowitz:** That's a rarity.
+
+
+**Jon Gray:** A rarity, yes…We got through this. Now, how did we do it? We ended up putting in an extra $800 million to help deleverage the company and get some additional term on the debt. The management team did an amazing job. They kept growing the business, particularly outside the United States. And then ultimately the world started coming back. People started traveling again. The business was performing. We went public. A few years later, you guys were involved in that as well. We ended up, you know, splitting into three companies: a timeshare business and owned real estate business and a management franchise business. We sold some individual assets, and then we sold our stock, and we ended up making $14 billion—the most profitable real estate private equity deal of all time.
+
+
+And the movie should not have been written. It should have looked completely different. And so it makes you think a lot. What are my takeaways as an investor? And and I would say the biggest ones are, 1) You got to stay calm.
+
+
+****
+
+
+**Dan Simkowitz:** Stay positive. You never give up.
+
+
+**Jon Gray:** Never give up. That's what I say every Monday on on our BXTV. It's what I say to my daughters. But the most important thing on Hilton was that what I learned as an investor was maybe I spend too much time thinking about whether I should pay $99 or $101 and so forth, and maybe what matters more is sort of the neighborhood I'm investing in. The underlying tailwinds, in this case, global travel, the quality of the business, in that case, a capital light, fast growing franchise management business, as well as the quality of the management team. And if you can get those things right, even if you made a really poorly timed investment and paid a big premium, it can still turn out okay. And so when I think about today, we're investing into digital and energy infrastructure, or in India or in life sciences or areas where we have really high conviction. That to me comes from this experience, which was why did this turn out? Well, it should not have turned out well. And so, the lesson of let's try to find the right neighborhoods to deploy capital that has really stuck with me.
+
+
+**Dan Simkowitz:** It's interesting because we're such great partners, our two firms, partly because in the last 15 years we got intensely dedicated on just helping clients allocate capital, but we needed to be bigger and a little different. So we bought Smith Barney, bought E-Trade, bought Eaton Vance, you know, all these, these acquisitions, but they're all around a neighborhood we loved.
+
+
+****
+
+
+**Dan Simkowitz:** Having a partner. So in your case, you had Chris, but presuming you also had your own team, you know, how important is that? Especially when it's really dark. How important was that?
+
+
+**Jon Gray:** On a deal like Hilton? Super important. I would say having business colleagues who still believe in you. First of all, you guys have done an amazing job because also you've got a great culture and you have all these capabilities, both serving individual investors and obviously as an investment and commercial bank providing capital. And, and that ability to show up as a partner, even in the bad times, having people who still say, yeah, we've got to find the way out through this thicket, that's really important. And I would add a personal element to this. Having a wife and children and people you can go home to who still believe in you, even when the world doesn't, that matters. And I'll just give you a sense of how dark it felt. Um, in early ‘09, the company had an employee who had taken some documents from a competitor. The company had found out sent him back. Nevertheless, there was a federal investigation. There was a big article in the Wall Street Journal, and I was talking with Chris Nassetta, and I called him and it was March, yeah, it was probably March of ‘09. We'd written the investment way down. We had this investigation in the headlines, and I said, Chris, the good news is it cannot possibly get any worse. But the fact that I had him, I had my family, I had colleagues, and ultimately that this was a terrific business, that what we faced was cyclical, not secular in nature. That made a huge difference.
+
+
+**Dan Simkowitz:** So now it's one of the greatest private equity deals of all time. But in the darkest days, it was hard. What's the one big, hard lesson coming out of Hilton?
+
+
+**Jon Gray:** Well, I think the hard lesson was…You don't want to put that much leverage, even on a great business, because the key is you've got to be able to get to the other side. When you own a great business, great piece of real estate or infrastructure, ultimately it will, it'll compound or grow. And the problem is people get stopped out. In the trading world, it's margin debt. It could be leveraged lending in the corporate world or real estate debt. And if you have too much, put so much pressure, you may be forced to sell, dilute your ownership at exactly the wrong moment. So the good lesson was: focus on great businesses, great neighborhoods and stay calm. But the hard lesson is don't put yourself in such a precarious position that if the weather outside gets tough, you're at risk of losing things.
+
+
+**Dan Simkowitz:** So this one worked out perfectly in the end.
+
+
+**Jon Gray:** Yes.
+
+
+**Dan Simkowitz:** EOP worked out great. These are ‘07 vintage deals right before the crash. Give us one that didn't work out so well.
+
+
+**Jon Gray:** One of the toughest lessons for me happened in the late ‘90s during the dotcom boom. I joined Blackstone in ‘92. I did M&A in private equity for a year, a year and a half, and then I went into real estate after a crash. And basically for, I don't know, 6 or 7 years, I'm in real estate and things just keep going up and up because you were you had bought things very cheaply. Interest rates were reasonable. There wasn't too much building. And when you buy everything and it goes up, it doesn't really train you to be a great investor, right? It's the experience. It's these hard lessons that make all the difference. And sort of the top of that was in the late ‘90s, I was really focused on Northern California because you were seeing the innovation. We were moving on to the internet and so forth. And what happened was I bought a building on North First Street in San Jose, a nondescript two story, and these were really crummy assets. They were crossed between office buildings and warehouses. They weren't worth very much physically, and we paid a big price for them because they had a tenant paying a huge rent, and instead of buying it at a 7 or 8% yield, I was buying it at 11% or 12%. I thought this was amazing. What I failed to notice was the major tenant was Gobosh.com
+
+
+**Dan Simkowitz:** What does Gobosh mean?
+
+
+**Jon Gray:** Gobosh means go big or stay home dotcom.
+
+
+**Dan Simkowitz:** Oh God.
+
+
+**Jon Gray:** I'm sure that you know, this company, unfortunately didn't last very long. I should have stayed home, because by March of 2000, you know, the dotcom bubble blows and this tenant disappears. And, I should have recognized we were paying well over physical replacement cost. The quality here was poor, and the tenant didn't have much in the way of revenue. It had very few people in the space, and in my enthusiasm of what had come before it, I sort of lost sight of that. Now, we ended up getting a letter of credit. I think we got about a third of our money back, but it was really the first time I experienced financial loss in an investment. And I don't know, we lost $20 or $25 million, but it was embarrassing to tell your investors, to tell your colleagues and to look at it after the fact. It was like, oh my gosh, how stupid could I be? Why would I have paid that price for this? And there, it's a little bit of the danger of the mania of crowds, right? Where things were going so great that in that moment in time, we became disconnected from fundamental value.
+
+
+**Dan Simkowitz:** And did someone come to you in that instance because you're not as senior as you were in ‘07 and say, you know, Jon, these are the lessons that have to happen and hang in there, or did you have to learn that yourself?
+
+
+**Jon Gray:** I think that we all sort of talked about it. It was pretty clear after the dotcom bubble burst, it was pretty clear to look back and say, gosh, when companies are trading at hundreds of times revenue, they're not making any money, the business model isn't viable. This was way too speculative. And what's interesting is I know today there's a lot of are we in the same kind of environment? The only thing I would say is it feels very different to me. I mean, back then, as you know, Cisco, I think was the biggest company they traded at 130 times earnings. Nvidia, the biggest company today I think is less than 30 times earnings. And so, I don't think we're in that kind of time. Now, if this runs for five more years and people think trees grow to the skies, that's always a risk. But I think as an investor, again, when you go through those experiences, it reminds you to question yourself that the danger is sort of the winning hand thing, that you keep doubling down, you keep doubling down because it's working. But at some point, the prices move too far, the assumptions move too far, and just because something's worked for a long period of time doesn't mean that's going to continue.
+
+
+**Dan Simkowitz:** Blackstone probably has great people joining all the time, but if they've joined since 2010, yeah, away from the Covid period, which is, you know, pretty V-shaped, they may not have experienced the same challenge that you did. How important is it to go through one of these drawdowns or real hard lessons?
+
+
+**Jon Gray:** I think you learn so much more because when you have success, what it teaches you, you’re a genius, right? Like you buy something, it goes up, it doubles in value. Look how smart. You don't even think about it. It's when something goes wrong that you sit down and say, why did that happen? Like, what did I lose sight of in fundamental value? What did I miss about this business? Shouldn't I have known that? And you tend to really dwell on it and it makes you better. And then you begin to have pattern recognition. You begin then as you get more senior to say, oh, I've seen this before. And so the danger, of course, is when people get burned sometimes they have a hard time going back. Right. And so they bought an asset at 100. It now trades at 40. And they're like oh no no I'm still scared. But you're like wait, wait. The risk is much lower. And as you know, the psychology is people are more enthusiastic investing as the prices go up, is people perceive risk is lower. And one of the good things I think about the current environment is there's so much negativity. Everybody there's a bubble in private credit, there's a bubble in AI, there's a bubble in the stock market. In some ways, that sort of caution that lingers over everything is helpful to stop things from getting out of hand.
+
+
+**Dan Simkowitz:** Jon, these are incredible investment perspectives. But if you think about your career, your adult life, what's the hardest situation or lesson that you've faced?
+
+
+**Jon Gray:** Well, I would say certainly in my career, was what happened this summer. We lost an amazing colleague in Wesley LePatner. We had a horrific shooting at our building. Um, random act of violence. And, um, you know, to lose somebody who was an amazing professional, but an even better human being, mother, wife, daughter, great mentor to so many of our people. And then, you know, to have your people go through the trauma of one of these mass shootings, that was really hard because there's not really a playbook. It's not like an investment thing. Oh, here's what we're going to do. And the only thing you could do is sort of express your humanity. Try to give people support, mental health support. Do all sorts of things bringing people together and then honor Wesley's legacy, which I think is really important. So for me, that was that was the toughest moment, I would say, certainly in my career, because it went well beyond financial into the human. And, um, hopefully you never endure anything like that again.
+
+
+**Dan Simkowitz:** That's very tough.
+
+
+****
+
+
+**Jon Gray:** But the really important thing, again, is to connect with people. And the the thing about our firm, I felt has always been special. It's always run like a small business. And we can emphasize over and over again the importance of delivering for our clients, the performance that we operate with integrity. But if you think about an investment organization or financial services company, at its core is the culture of the place, and that's what we're desperately trying to hold on to. ****
+
+
+****
+
+
+**Dan Simkowitz:** Jon, that was incredible. Amazing lessons. Thank you for the partnership. We really appreciate it. It was fun.
+
+
+**Jon Gray:** Dan, it was great. Thank you, thank you, Morgan Stanley, great partnership as well. Thank you.
+
+
+**Narrator:** You've been watching Hard Lessons, an original series from Morgan Stanley. You can listen to an extended audio version of this episode on Apple, Spotify, or wherever you get your podcasts. For more information about the series, visit MorganStanley.com/Hard Lessons.
+
+
+[Explore Episode](https://www.morganstanley.com/insights/videos/hard-lessons/blackstone-jon-gray-dan-simkowitz)
+
+
+E2 •
+
+
+February 2, 2026
+
+
+### [Jean Hynes: Dig Deep and Hold Your Position](https://www.morganstanley.com/insights/videos/hard-lessons/wellington-management-ceo-jean-hynes-amy-ellis)
+
+
+Wellington Management’s CEO shares how two of her long-term holdings had very different outcomes – but both underscored the importance of deep research.
+
+
+View video Transcript Hide video Transcript
+
+
+## Transcript
+
+
+**Jean Hynes** It was a big, big negative event. There is so much value created when a drug works and when it doesn't work, there's a lot of value destroyed.
+
+
+**Narrator:** From Morgan Stanley, this is Hard Lessons where iconic investors reveal the critical moments that have shaped who they are today. You'll hear about two out of consensus calls: one that was on the money and one that… wasn't. Today on the show, Jean Hynes, CEO of Wellington Management with Amy Ellis, Global Head of Senior Relationship Management at Morgan Stanley. Jean became CEO in 2021 after spending her whole career at Wellington, where she was a portfolio manager and industry analyst in healthcare and biotech. Her deep and thoughtful approach to research continues to inform her strategy today.
+
+
+**Amy Ellis:** Jean, thank you so much.
+
+
+**Jean Hynes:** I'm so happy to be here, Amy.
+
+
+**Amy Ellis:** You've seen so much. You've accomplished so much. We've all had moments in our career. We've had to make decisions, and we didn't know how they were going to turn out. Here on Hard Lessons, we're here to explore those with you. Can you set the stage now for us on a bet that you made and how it worked out for you?
+
+
+**Jean Hynes:** There was a company called Schering-Plough, a pharmaceutical company. It's probably most well-known for the drug Claritin. Sure, which is a staple of in everyone's life. It's now over-the-counter. Claritin was coming off patent in 2002, and they also had this new what I thought was an exciting cholesterol agent, Zetia, that was in development.
+
+
+Okay, so I had this company that I had not owned. I knew Claritin was coming off patent and that the new drug was also going to be launched. And so that's where it gets a little tricky because you have you have a very high margin drug going off patent, and then you have a new drug that you have to launch and invest in, and then you have uncertainty about the trajectory.
+
+
+**Amy Ellis:** What gave you this confidence? What gave you this fortitude that this was the inflection point. This was the time to get involved.
+
+
+**Jean Hynes:** People probably know statins. There are millions and millions of people on statins. And statins are an amazing medicine. But at the same time, there were lots of data that showed getting cholesterol even lower than these medicines could do it, was very important. And then Schering-Plough had a drug, Zetia, that was a brand new mechanism. So, the bet was that it would be complementary to the statins–it wasn't going to replace the statins.
+
+
+**Amy Ellis:** Okay. So how out of consensus were you?
+
+
+**Jean Hynes:** So I think I was out of consensus at many points in time.
+
+
+**Amy Ellis:** Okay. Okay.
+
+
+**Jean Hynes:** But I think the big call was that Zetia was going to be a successful drug, and in its profits, it would replace the profits of Claritin.
+
+
+**Amy Ellis:** Wow.
+
+
+**Jean Hynes:** I think, over that decade, that actually turned out to be true.
+
+
+**Amy Ellis:** And you got it right?
+
+
+**Jean Hynes:** And I got it right over the long term. Like Schering-Plough probably was one of the best pharmaceutical investments in that decade.
+
+
+**Amy Ellis:** That's huge.
+
+
+**Jean Hynes:** But it was, there was, a lot of ups and downs in between.
+
+
+**Amy Ellis:** Were there moments you thought you mis-stepped? You thought you got it wrong?
+
+
+**Jean Hynes:** This is the science and art of investing. In 2002, Claritin’s patent went off. And what happened in the years prior, is that you began to have consolidation in the retail drugstore chains—moving from these independent pharmacies to CVS and Walgreens ,like much more consolidated retail chain. You also had the emergence of pharmacy benefit managers. And so by the time Claritin went off patent in the retail drugstores and the PBMs were all incentivized to switch as fast as possible. You went from a scenario where drugs lost their patent and lost their sales over five years, to losing their sales over one year. I think it surprised me, it surprised the pharmaceutical companies, it surprised everyone in the market.
+
+
+**Amy Ellis:** So, a ton of new learnings.
+
+
+**Jean Hynes:** A ton of new learnings during that time. And so what that meant was it wasn't going to be a perfect line of Claritin going off and Zetia going up. And then, the question was, how does a company that's losing a 99% gross margin drug, still invest in this new launch? And that's where my earnings estimates were too, too high, because we were all learning at the time. The company was trying to not lower its earnings estimates and so they were they were doing things that probably didn't benefit the launch of Zetia, because they were trying to, um.
+
+
+**Amy Ellis:** Smooth it, maybe?
+
+
+**Jean Hynes:** Smooth it and reduce profits. They were also launching Claritin over-the-counter. I'll tell you a funny story is my husband comes home and he brings home private label Claritin., and I was like, you can't do that, you need to buy the branded!. But it was a sign that actually branded Claritin was priced too high, because they were trying to price it to save their profits.
+
+
+**Amy Ellis:** Yeah, For sure… During that journey, what other things did you realize about long term holdings of big companies?
+
+
+**Jean Hynes:** So, I think what held me in the stock was the fact that they did change management. So, we had a new CEO come in -- his name is Fred Hassan. I had a lot of admiration for him. But my biggest lesson was that, in 2003, when he came in, I should have known that he would have wanted to invest. And in order to invest, what he did is cut the dividend.
+
+
+**Amy Ellis:** Yeah, yeah, yeah.
+
+
+**Jean Hynes:** And he lowered the earnings so that he could invest. Now, I am on maternity leave, by the way when this happened, with my fourth child, who is at that point like 5 or 6 weeks old, and you do not want to have a stock that has a dividend cut.
+
+
+**Amy Ellis:**
+
+
+While on maternity leave. That’s fair. That’s fair.
+
+
+**Jean Hynes:** While on maternity leave, and it's– you’re one of the biggest holdings of the firm. Yes. And so it was the right thing to do from a management perspective, like he created more value by making those very hard decisions. So for me, the like the lesson learned is, I should have known this. Like, I should have known that he was going to do something dramatic to create the long-term value.
+
+
+**Amy Ellis:** So you said that always stayed with you, so you've never missed that since.
+
+
+**Jean Hynes:** I've never had another stock that had a dividend cut.
+
+
+**Amy Ellis:** I love it, I love it…. **** So, Jean, can you tell us how Schering-Plough journey ended?
+
+
+**Jean Hynes:** Yeah. So in March 2009, Merck and Schering-Plough agreed to merge. It was a partly cash and partly stock transaction. It was a big transaction.
+
+
+**Jean Hynes:** So interestingly, Merck bought Schering-Plough, and actually Pfizer bought Wyeth. I own, I own both Schering-Plough and Wyeth. The interesting thing was, that now I hold these stocks, I hold Schering-Plough, and of course there was a pop–like that was good. But then the price of Merck went down so much. And actually, the price of Pfizer went down so much. I thought the acquisitions were actually quite good for Merck and for Pfizer. And so, what I had to do is something I had never done before, is take a step back and say, if, if people begin to realize that these are actually really opportune and good value acquisitions for these companies, those stocks are going to go up and I will never get the full value of the value creation of Schering-Plough. And so what I did within the month or two is recommend that we sell all of our Schering-Plough and buy Merck instead. And so in the end, it was actually the stock part of it too I had to get right. Because I could have done all the analysis right, but if I hadn't done that move, which I had never had to even think about before. But because they were such large acquisitions and some of it was in stock, I had to figure out like what was the right thing to do to actually make sure I created all the value for our clients.
+
+
+**Amy Ellis:** And looking back, I mean, you had to think that was such a good move.
+
+
+**Jean Hynes:** This was a great acquisition for Merck. Yeah. Yeah, yeah. And what came out of that was not only that, that Zetia in the cholesterol franchise became a good franchise, but in Schering-Plough’s pipeline ended up being Keytruda, which is now the largest drug in the world. It really changed Merck's future. I always like to say whenever something works, you actually can celebrate for just a short period of time. You go, yay, for like literally a day, and then you have to actually decide what to do.
+
+
+**Amy Ellis:** Okay, so let's let's shift here a little bit and talk about an out of consensus call that didn't go so well. Yeah.
+
+
+**Jean Hynes:** So, giving you a little bit of history. Elan was a drug delivery company based in Ireland. We did not own it, by the way. We had a very negative view of Elan during the 1990s. They had a very high earnings growth, but in my view it was very low-quality earnings growth.
+
+
+**Amy Ellis:** Got it.
+
+
+**Jean Hynes:** But then in the late 1990s they bought a company called Athena Neurosciences. Now, we were the largest shareholder of Athena Neurosciences. We knew that company. They were developing drugs for multiple sclerosis and for Alzheimer's. They were based in South San Francisco. It was a very odd acquisition, that this sort of lowish quality drug delivery company would buy the South San Francisco, very exciting high science company. Okay. Um, and so we had a very positive attitude towards Athena, but all the issues about earnings quality were still happening with Elan. I was right. Like the earnings quality was really, really quite low. But then at the same time the pipeline of Athena was beginning to emerge. And so, we began to buy Elan, really for the pipeline of Athena Neurosciences. That, at some point, people would realize what they had and you'd have this massive uplift of quality and excitement about the future. There's two parts of Elan that were difficult. One was that last bit of low earnings quality came out after we bought it. And this is another lesson. So, when you have a profit and loss statement, you have revenues and you have cost of goods, you can't really hide those unless it's fraud. But you also have this other revenue line, and my lesson is that I didn't dig in deep enough to that.line.
+
+
+**Amy Ellis:** Interesting. Interesting.
+
+
+**Jean Hynes:** So there ended up being things that were non-recurring, and so it wasn't real earnings. The lesson for me is, and you know and I say this to all our young analysts, like you need to understand every line of the P&L. Every single line, and you can't just put a plug in. You have to really dig. So that was another thing I'm never going to let that happen again.
+
+
+**Amy Ellis:** Okay. That's fair…. All right. So that was the first leg of Elan, and then...
+
+
+**Jean Hynes:** That was the first leg, and then and then the excitement happens. Amy, the excitement happens. They bring this drug for multiple sclerosis to the market in the first generation of multiple sclerosis drugs. They took patients out of wheelchairs. Doctors would say, in the early 2000s, ‘I don't have people in wheelchairs anymore.’ But at the same time they were drugs that were difficult to take from a tolerability perspective. The way the drugs work, they cause people once a week to feel like they had the flu. So they were amazing inventions and innovations–and not optimal. So, we were looking for what was going to be the second generation of multiple sclerosis drugs, and Tysabri, was it. Now, and if you did the research, this mechanism really reduced the inflammation that was going into the brain. Patients felt great. And the drug was approved, and then it was taking off like faster than almost any drug. It was like, wow, this is going to be such an amazing ride.
+
+
+**Amy Ellis:** You got it right?
+
+
+**Jean Hynes** : And even I was underestimating the launch. That's how, that's how positive it was. So this is February then of 2004, and I am in, um, Japan. And I remember being out to dinner with a Japanese company, coming back to my hotel room and the red light blinking. So I listened to the message on the hotel phone, and it's my trader back in Boston saying, Tysabri has been pulled from the market. And I'm sitting there in my hotel room saying, ‘What? Like, how could it possibly be pulled from the market?’ And the reason Tysabri was pulled from the market, it was so good at reducing inflammation to the brain, it was almost too good. There was a very low incidence that allowed a very, very rare virus to start in very few patients. But the outcome was death. And so like you can't…
+
+
+**Amy Ellis:** Unacceptable.
+
+
+**Jean Hynes:** Unacceptable. And so I'm like across the world in a hotel room up half the night, I had to leave a message for the portfolio managers on voicemail. Like I wasn't at a computer, you didn't have Blackberries, you didn't have iPhones. So, I'll tell you the next day the stock is down 90%. I come out to the car and my, and my great colleague said to me, he's like, Jean, there's nothing you can do today. And we're here in Japan to do a job for our clients, and we need to focus on the job at hand. And there was nothing you could do. The stock was down 90%. So it wasn't as if, like, you were going to save a lot of money by selling it. Like you can get to it next week. So I want to tell you how difficult this was. I have a wonderful colleague who loves facts. And he said, Jean, do you know that this is the first company with a market cap over $10 billion to go down 90%?
+
+
+**Amy Ellis:** Thanks.
+
+
+**Jean Hynes:** It was a big, big negative event. I ended up doing a lot of work in the ensuing months. I didn't sell my position. I just kept it and I did work. Elan ultimately got acquired by another company. It wasn't a great holding. It did recover from that 90% because Tysabri up coming back on the market. And it really did teach a lot about science. It really told you, you can do better for multiple sclerosis patients. But now, 20 years later, there are really good drugs for multiple sclerosis that balance that safety and and efficacy and tolerability.
+
+
+**Amy Ellis:** Interesting.
+
+
+**Jean Hynes:** These are high risk, but that's the beauty of biotech and pharmaceuticals. It's not good enough to just understand the science and what's going to happen. You have to understand the financial implications. When you're really researching science and you're on the cutting edge of science, it doesn't always go how you want. And so there is so much value created when a drug works, and when it doesn't work, there's a lot of value destroyed.
+
+
+**Amy Ellis:** Yes, for sure…So what did you learn when Elan opened up down 90%?
+
+
+**Jean Hynes:** I think the lesson for me is, you need to make sure that you are, you're taking in all the potential risks in an area of medicine where it's cutting edge and you can't always know everything. And then, how do you react?
+
+
+**Amy Ellis:** And at that moment, you decided to hold.
+
+
+**Jean Hynes:** At that moment, I decided to hold and do research and wait and see. Like, would the drug come back on the market? I could have just stopped and said, I'm not going to do this. There's probably an opportunity cost for that research too. An opportunity cost for holding, where I could have been in another stock. But the decision I made was to hold and and we did recapture some of the value. But those are the decisions you have to make every day.
+
+
+**Amy Ellis** : You went back to your trusted process.
+
+
+**Jean Hynes:** When you do this deep research, and then you have an insight about how the future of medicine is going to change in a way, and then it could still be another five years ‘til it gets to the market. It's it's when do I have enough dots connected? If I waited for everything to come out in phase three trials, we would've never made any money for our clients.
+
+
+**Amy Ellis:** We sat together four years ago as you were ascending into the CEO space. What have you learned? What are the hard lessons of being a leader?
+
+
+**Jean Hynes:** I became a managing partner in 2014, and in my first year I started working with a coach, and one of the things she asked me early in our coaching, she's like, ‘do you want to be CEO someday?’ And I like literally said ‘no.’ Like it hadn't even crossed my mind, actually. And the reason for that, I think, was. There aren't that many role models, right? There aren't that many role models. I had this image of CEOs and that was not me. Visionary. Super creative. Aggressive. Um, that's not who I was. But when I took a step back, actually, the CEOs that created the most value and that I admired the most also didn't have those characteristics.
+
+
+**Amy Ellis:** Interesting.
+
+
+**Jean Hynes:** They were really this combination of optimists, strategists, humble, authentic. Those were sort of the characteristics of the of the CEOs that I admired the most.
+
+
+**Amy Ellis:** So how long did it take you to think about, hey, I could do this.
+
+
+**Jean Hynes:** It took about a year before the inkling came in. It was a big decision to make, too. Was I the right person? And if I was the right person, what did I want to do? Like, how did I want to spend the last decade of my wonderful career at Wellington? Is this how I wanted to spend my time?
+
+
+**Amy Ellis:** Five years in, what are you most proud of and and what itches at you still?
+
+
+**Jean Hynes:** The asset management industry is going through a lot of change. So, one of the things that I can recognize is that I've seen the biotech and pharmaceutical industry be stable and be unstable. And, I feel like the asset management industry is going through one of those changes. I think what I'm most proud of is shifting. Of course, we're going to have to pivot, but changing the mindset of 3,000 people that, um, you know, we can pivot.
+
+
+**Jean Hynes:** You know, we have to pivot and we can. And change most, you know, change is scary and exhilarating. We're all in it together, and we can shift and create the next 100 years. We're about to have our hundredth year anniversary. And so there aren't many companies that have 100 years. So really, it's what I'm most proud of is am I laying foundations that will help the next decade, and the next decade after that? And when I think about great CEOs that I've interacted with over time, I feel like they've done that. Like, it's not about what they did in any one year. It's not about the stock price during their period, even though I think that's how CEOs get recognized. It's about what do they do to create the value for the next ten years, or the next ten years after that.
+
+
+**Amy Ellis:** Jean, this has been wonderful. Thank you so much. Look forward to having a discussion in another five years.
+
+
+**Jean Hynes:** Thank you for having me. You can, you can probably tell, Amy, that I'm very passionate about biotech and pharmaceutical investing. And it was really fun to kind of go back and reflect on those journeys. So, thank you for having me.
+
+
+**Amy Ellis**
+
+
+Fantastic.
+
+
+**Narrator:** You've been watching Hard Lessons, an original series from Morgan Stanley. You can listen to an extended audio version of this episode on Apple, Spotify, or wherever you get your podcasts. For more information about the series, visit MorganStanley.com/HardLessons.
+
+
+[Explore Episode](https://www.morganstanley.com/insights/videos/hard-lessons/wellington-management-ceo-jean-hynes-amy-ellis)
+
+
+E3 •
+
+
+February 2, 2026
+
+
+### [Lauren Hochfelder: Predict How People Will Live Tomorrow](https://www.morganstanley.com/insights/videos/hard-lessons/global-head-real-assets-lauren-hochfelder)
+
+
+Morgan Stanley’s Head of Real Assets revisits bold calls from industrial bets to office real estate.
+
+
+View video Transcript Hide video Transcript
+
+
+## Transcript
+
+
+**Lauren Hochfelder:** And so when you underperform, it it's painful. But I'm grateful that we had that experience where we stubbed our toe because that caused us to really, you know, dig deep on the sector and on ourselves to understand, How did this– how did we get this wrong? And in turn, pivot our whole portfolio. I mean, we took our office exposure down by two thirds, and that then led to enormous outperformance. So, we were able to apply that lesson in a way that I think yielded, you know, phenomenal results later.
+
+
+**Narrator:** From Morgan Stanley, this is Hard Lessons where iconic investors reveal the critical moments that have shaped who they are today. You’ll hear about two out of consensus calls: one that was on the money and one that… wasn't. **** Today on the show, Lauren Hochfelder, Global Head of Real Assets at Morgan Stanley Investment Management. Lauren oversees a global team with over $78 billion in assets under management focused on real estate, infrastructure and credit assets. **** She sat down with Mandell Crawley, Morgan Stanley's Executive Vice President and Chief Client Officer.
+
+
+**Mandell Crawley:** So, we're here to talk about two out of consensus calls that you made. One that really worked, you know, you knocked it out of the park, and the other that didn't go so well. I don't know if that makes you nervous about it, but–
+
+
+**Lauren Hochfelder:** Who doesn't like talking about their mistakes?
+
+
+**Mandell Crawley:** So we're going to talk about the win, and then we're going to talk about, you know, one that went, um, against you. Set the scene for us, let's talk about one of your biggest wins.
+
+
+**Lauren Hochfelder:** What we do as investors is generally try to find pockets of mispricing. So almost by definition, if we're doing our jobs well, things are at least partially out of consensus. One of my favorites is you go back to the early 2010s, and we developed really strong conviction that e-commerce was going to grow rapidly and in turn, be a really powerful tailwind to industrial real estate. So, to warehouses and in turn be a really negative headwind to retail real estate. And, you know, sitting here today, it's probably pretty obvious to us that in fact, e-commerce has taken hold and it's been massive. But let me tell you, it didn't back then. We're talking when e-commerce penetration rates were circa 4% and investing in real estate, more than half of it was owning malls and office buildings. Warehouses were boring beta bets. They, you know they were flat income streams, no real rental growth. But we, we saw things differently, and we looked at early shifts in how our tenants were using space. And probably most fun, we looked at shifts in our own behaviors as consumers. Even as the US team maybe developed conviction, we were talking to our European colleagues and they're saying in Europe people like to go, you know, try on their clothing and they want to, you know, sure feel the peach. And yeah. And then our colleagues in Shanghai were like, you're all crazy, like, why would you ever go to a store for anything, right? Because e-commerce in Shanghai had just— you know—they almost skipped the mall phase. So we started really buying and building the warehouses that help get those goods to our front doors every day. We invested well ahead of what ended up being, you know, a doubling, a tripling of values on an unlevered basis. And this was a call that went, you know, really well.
+
+
+**Mandell Crawley:** So when did you know that you were on the right path, that you had the gut call, but you, you were starting to see enough evidence to confirm that you were going to be on the right side of this thing. When did you know that?
+
+
+**Lauren Hochfelder:** There were a few steps along the way. On the data side, human behavior was shifting faster than the supply chains could keep up. So what do I mean by that? You saw e-commerce as a percentage of industrial leasing go from, you know, 5% to 20% over not that long of a period of time. But interestingly, you could see why maybe some, others missed it because retail sales were growing at, you know, circa 4% a year, and in store sales were growing at 3% to 4% a year. So, there were folks who were saying, they're growing in tandem, this e-commerce thing, it's not eroding market share, right. The in-store sales are still holding up, you know, almost in lockstep. But what we looked at is that may be, but e-commerce sales are growing at 20%. But I'll tell you, there were, there were moments along the way where you saw the rest of the industry not necessarily agree with us. I mean, I remember being at this dinner with some of my, you know, greatest industry colleagues, sort of competitors and, you know, peers. This was the age of the creative office. So, this was sort of these big office buildings. And every real estate guy thought he was like Basquiat, right? Like with these fabulous buildings. And, you know, they're talking about transforming these buildings. And you know, this one's talking about buying, you know, resort properties. And I'm talking about, I'm a frontline real estate investor going to buy industrial warehouses in New Jersey. And let me tell you that was like ruh-roh, right? It was like Debbie Downer. And I had incredible conviction around this. And one of the folks at the table, you know, from a really, really strong competitor of ours says to me, you know, I'm buying Class B malls at a 15% cash-on-cash yield. Like, you've got to grow income to make money, I just have the cash flow. And I, you know, I remember sort of saying to him, like, I'd love to have a 15% cash-on-cash yield, but if it's a melting ice cube, right. If that cash flow is coming down over time, like that doesn't bode well. That's not, that's not how we all make money. So, I'm not sure I convinced anyone at dinner that night. But there were sort of these moments where…
+
+
+**Mandell Crawley:** You knew.
+
+
+**Lauren Hochfelder:** Right?
+
+
+**Mandell Crawley:** Yeah. You knew… So I have to imagine with a win like that. You know, again, making such an out-of-consensus call. The learnings from that, you were able to apply at other moments, other points in your career, in your life. Can you maybe talk to us a little bit about how that lesson was applied to, um, other positive outcomes in your investing career.
+
+
+**Lauren Hochfelder:** When you start as a real estate investor, you know, what is definitively pounded into you, of course, is location, location, location. And I think what this experience taught me was that it's actually dislocation dislocation dislocation. So, location matters. But what's more important is to find what's changing, find what's being dislocated and invest accordingly. Because when you see these profound shifts in human behavior and human needs, you want to go own that infrastructure that supports how people are going to live their lives tomorrow versus yesterday. You know, it's interesting, e-commerce changed the way we shop. There are other things that change the way we live. You know, we've been seeing for 15 years this silver tsunami coming, right, this graying of America. And because of that, we were so focused around senior housing. So, coming out of the GFC for 15 years, we were really focused on getting into senior housing, and we did not deploy $1 of capital. Talk about a frustrated acquisitions team, right? But when everyone agrees and there's so much capital chasing it, guess what? It is too expensive. It is too oversupplied. And in this case, it was also too early. People don't move into senior housing facilities at 70. They move in at, you know, 82 on average. But then comes Covid and it was sort of the perfect storm. We had, you know, occupancy plummet, labor expenses spike, then shortly after interest expense spike, and you just, you know, saw this complete meltdown in senior housing. And that's, that's when we stepped in. And so senior housing has been an example of another high-conviction strategy.
+
+
+**Mandell Crawley:** It’s a great example. Two very different scenarios, but this the same sort of rigor, I guess, in terms of how you approached it. You know, the conditions, the backdrop was different….I'd love to switch gears and, same frame, same question, but in this context. Let's talk about the out of consensus call that didn't work out.
+
+
+**Lauren Hochfelder:** So, coming out of the GFC we made some investments in Class B and suburban office. In the GFC, office assets saw a lot of value destruction, and coming out we saw A properties pop back relatively quickly --maybe not pop back but appreciate. And B properties were lagging. And in every past cycle we had seen, you know, A's recovered first, B's followed. We expected that this cycle would behave similarly to past cycles, and it didn't. Leasing these assets was a slog. You know, we acquired them at what felt like really cheap levels. I mean, they were at fractions of the cost-to-build. They were at, you know, material discounts to what they had traded at historically, blah, blah, blah. It didn't matter. One of the things we saw was how capital-intensive it was to lease them. To get an office tenant into a building, you know, you lease them space, they pay you rent, they get the space.
+
+
+**Mandell Crawley:** Seems simple.
+
+
+**Lauren Hochfelder:** Seems simple. Well, it turns out an office, a lot of times, every dollar you collect you’re, you're putting back in. It's like you're writing a check for $300, and then over the next ten years, someone's giving you, you know, 30 to 40 bucks more in income a year.
+
+
+What’s it like? The myth of Sisyphus, where it's like you're rolling that boulder up and it's coming back down, and we shouldn't be in the business of writing someone a check for them to just give us back the money over time–that's what we call a 0% interest loan. And recognizing that the sort of net present value, it doesn't work unless someone's going to pay you too much for that income. And in fact, that's what we saw was happening. We came to the very uncomfortable conclusion that these cap rates didn't make sense because they were, they were applied to the wrong income stream. They were looking at an income stream that ignored capital and ignored recurring capital. You used to run, you know, all of human resources for Morgan Stanley. It's one thing if you give someone a one-time signing bonus, but if you're giving them that every year, that's just part of the recurring compensation package.
+
+
+**Mandell Crawley:** Sure. Indeed.
+
+
+**Lauren Hochfelder:** Because we really wanted to understand, how did we get this wrong? Why are these not performing the way we expected? So, as we zoomed out across our global portfolio, we saw some trends or patterns emerge. We saw that the US and Australia were terrible offenders in terms of capital intensivity for office. We saw, by contrast, a market like Japan, there was no capital intensivity— like the tenants actually paid to build out their own space. So, we saw these divergences and, you know, bluntly, what we concluded is office is mispriced. Basically, we kept investing in Japanese office, but we dramatically took down dramatically our US office exposure and our office exposure in markets that had these dynamics. People kept investing in the space, but then fast forward and you get to Covid, and office market falls apart. And I think the market’s out there saying it's because of work-from-home, and certainly that that reduced demand.
+
+
+**Mandell Crawley:** Yeah.
+
+
+**Lauren Hochfelder:** Um, but at the end of the day, it was really more of an overly long overdue recognition about how capital intensive office is. Like, I did not have the creativity to think that Americans preferred working in flannel pajamas. Like, I did not see that coming. Right? But what we did see is the asset class was mispriced. Everyone wants to say value is down because of work-from-home. Well, New York is back to 97% office utilization. Right? We’re practically back to pre-Covid levels. Values are still down 45 plus percent. So, you tell me if it's all, you know, work from home. This was an example of, you know, we, we– it really hurt. Our investors who are, you know, public pension plans, I mean, we need to deliver performance for them. So that in turn, um, you know, people can can live a good life. And so when you underperform it, it's painful, but I am so grateful that we had that experience where we stubbed our toe, because that caused us to really, you know, dig deep on the sector and on ourselves to understand how did this, how did we get this wrong? And in turn, pivot our whole portfolio. I mean, we took our office exposure down by two thirds, and that then led to enormous outperformance. So, we were able to apply that lesson in a way that I think yielded, you know, phenomenal results later.
+
+
+**Mandell Crawley:** Yes. Something that powerful, like stays with you...Similar to the win, we tend to remember the losses even more. And so, talk me through how that experience sort of changed you as an investor.
+
+
+**Lauren Hochfelder:** Experiencing when things go wrong. Um, is um, you know, is transformative, right? It's it's scary. Uh, it's humbling. It's all the things we know. How did I get this wrong? Right. I, I, you know, I studied all the analytics, but in many ways can be if it doesn't go too wrong, it can be the, you know, the best thing that happens, right? You have to, you have to be willing to admit it's not just that some exogenous event came out of nowhere. And gosh, like, sorry, Black Swan, like you need to be able to say, what did I get wrong going into this? Investing is not for the faint of heart.
+
+
+**Mandell Crawley:** Nope. No. So it sounds to me like humility plays a outsized role in the life of an investor.…So finally, the question that we ask all of our guests, what is the hardest lesson you've ever learned?
+
+
+**Lauren Hochfelder:** Hmm, that's a long list. As someone who's been investing for 25 years, I think it's hard not to go back to the GFC as such a moment of enormous learnings. And I feel so fortunate that I had that experience early on. It's not just the investment mistakes or financing mistakes. How do we get there, and understanding the role that organizational structure can play in that? At the end of the day, structure and incentives matter. And, one of the things we did was restructure our business to align incentives. We had this big global business, but, Mandell, we were, we had regional investment committees–like you think that doesn't lead to regional bias? Or, you know, we had different incentives for different teams--you think that incentivizes people to look across the world and find the best opportunities? You need to incent the right behavior. It's like consistent performance requires consistent process. And that's, you know, maybe it sounds less exciting than talking about investment returns, but organizational structure matters. And I think that was one of the toughest things because it speaks to the interplay between human nature and investing.
+
+
+**Mandell Crawley:** When I hear you say that I just think, you know, about our culture, you know, rigor, humility, partnership. Essential.
+
+
+**Lauren Hochfelder:** Yes. It’s everything.
+
+
+**Mandell Crawley:** Thank you. Thank you for that.
+
+
+**Narrator:** You've been watching Hard Lessons, an original series from Morgan Stanley. You can listen to an extended version of this episode on Apple, Spotify, or wherever you get your podcasts. For more information about the series, visit Morgan Stanley.com/HardLessons.
+
+
+[Explore Episode](https://www.morganstanley.com/insights/videos/hard-lessons/global-head-real-assets-lauren-hochfelder)
+
+
+## Introducing Hard Lessons
+
+
+Our new video and podcast series goes behind the scenes of the pivotal moments that taught iconic investors the lessons that shaped their careers. They share two out-of-consensus calls – one that was on the money, and one that wasn’t – and how each still influences their investment strategy today.
+
+
+Video is close captioned.
+
+
+## More from Morgan Stanley
+
+
+[Insights](https://www.morganstanley.com/insights)
+
+
+[Thoughts on the Market](https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market) Short, thoughtful takes on recent events in the markets, every weekday from a variety of perspectives within Morgan Stanley.
+
+
+[Insights](https://www.morganstanley.com/insights/videos/exceptional-leaders)
+
+
+[Exceptional Leaders](https://www.morganstanley.com/insights/videos/exceptional-leaders) In this engaging series from Morgan Stanley, Research equity analysts and leaders from around the firm sit down with CEOs at world-class companies to unpack broad foundational changes in sectors, industries and markets. Watch the trailer below.
+
+
+[Research](https://www.morganstanley.com/what-we-do/research)
+
+
+[Four Key Investment Themes for 2026](https://www.morganstanley.com/insights/articles/investment-outlook-shaping-markets-2026) Morgan Stanley Research’s key investment themes for this year are Tech Diffusion, The Future of Energy, The Multipolar World and Societal Shifts.
+
+
+[Investment Management](https://www.morganstanley.com/what-we-do/investment-management)
+
+
+[2026 Stock Market Outlook: The Bull Market Still Has Room to Run](https://www.morganstanley.com/insights/articles/stock-market-outlook-2026) With a dovish-leaning Fed and an AI-fueled rally still in gear, stocks look poised to extend the bull market for a fourth year.
+
+
+[Insights Thoughts on the Market](https://www.morganstanley.com/insights/podcasts/thoughts-on-the-market)[Insights Exceptional Leaders](https://www.morganstanley.com/insights/videos/exceptional-leaders)[Research Four Key Investment Themes for 2026](https://www.morganstanley.com/insights/articles/investment-outlook-shaping-markets-2026)[Investment Management 2026 Stock Market Outlook: The Bull Market Still Has Room to Run](https://www.morganstanley.com/insights/articles/stock-market-outlook-2026)
+
+
+7275232
+
+
+63766
+
+
+3CD19151-F46C-4595-84CF-8EEC3E05FD19
+
+
+false
+
+
+false
+
+
+Sign up to get Morgan Stanley’s Five Ideas newsletter delivered weekly to your inbox.
+
+
+Email Address Email Address (Required)
+
+
+Invalid Email Address
+
+
+Subscribed!
+
+
+Thank you for subscribing to our blog newsletter. Stay tuned to hear about Morgan Stanley ideas!
+
+
+default-msdotcom-options
+
+
+true
+
+
+Thank You!
+
+
+Thank you for taking the survey to help improving our newsletter. We value your feedback.

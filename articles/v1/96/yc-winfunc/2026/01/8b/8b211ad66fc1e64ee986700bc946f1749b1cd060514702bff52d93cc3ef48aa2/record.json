@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b211ad66fc1e64ee986700bc946f1749b1cd060514702bff52d93cc3ef48aa2",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/nginx-dav-copy-move-path-overlap",
+    "canonical": "https://winfunc.com/hacktivity/nginx-dav-copy-move-path-overlap"
+  },
+  "title": "WebDAV COPY/MOVE path overlap corrupts files and collections",
+  "summary": "The NGINX HTTP DAV module's ngxhttpdavcopymovehandler() parsed the client-controlled Destination header and mapped both the request URI and destination…",
+  "published_at": "2026-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T22:24:25.720028+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2026/01/8b/8b211ad66fc1e64ee986700bc946f1749b1cd060514702bff52d93cc3ef48aa2/article.md",
+    "record": "articles/v1/96/yc-winfunc/2026/01/8b/8b211ad66fc1e64ee986700bc946f1749b1cd060514702bff52d93cc3ef48aa2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10698,
+    "sha256": "sha256:46d29401d87e39f80f108a115bfe1807f49e3ba153f3326206d8fcbd786f7475",
+    "normalized_content_hash": "sha256:87eab375c172134e41079d48b05f044e909b4384c2a34ecbd3c2cbf4d4f41c44"
+  },
+  "provenance": {
+    "source_item_id": "d9eeddf5-b292-4250-ba27-694f06807ada",
+    "external_id": "https://winfunc.com/hacktivity/nginx-dav-copy-move-path-overlap"
+  }
+}

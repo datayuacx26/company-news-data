@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a03a71c878acbc1a8b80d27b52b0f3bf0c0689ef5c07cb66a8320dd36ca01c47",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/partition-backfill",
+    "canonical": "https://www.windmill.dev/changelog/partition-backfill"
+  },
+  "title": "Backfill a range of partitions from the asset drawer",
+  "summary": "On a partitioned DuckLake asset, the Backfill button opens a range picker that previews which partitions are missing, failed or materialized, then re-runs the producing script once per partition with an explicit partition argument. Runs are sequential and idempotent, a failed partition does not stop the rest, and progress streams in the dialog and drawer header. Range backfill is an Enterprise feature; single-partition runs stay available in all editions.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:34.280666+00:00",
+  "last_updated_at": "2026-08-17T22:20:18.128038+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/a0/a03a71c878acbc1a8b80d27b52b0f3bf0c0689ef5c07cb66a8320dd36ca01c47/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/a0/a03a71c878acbc1a8b80d27b52b0f3bf0c0689ef5c07cb66a8320dd36ca01c47/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2106,
+    "sha256": "sha256:c14de1cb001066a2a301747d73cc5f0340c8bee6f26eba6320890ec74dff60eb",
+    "normalized_content_hash": "sha256:54b6e48b4fe87cd972c88af6a1beb0cd6f4043a8d47540ef6ec0161861494594"
+  },
+  "provenance": {
+    "source_item_id": "3ba029e2-415e-4054-a53a-3160d827076c",
+    "external_id": "https://www.windmill.dev/changelog/partition-backfill"
+  }
+}

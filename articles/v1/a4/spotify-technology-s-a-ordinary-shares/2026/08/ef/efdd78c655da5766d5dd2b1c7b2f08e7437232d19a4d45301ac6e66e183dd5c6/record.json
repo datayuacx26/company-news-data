@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efdd78c655da5766d5dd2b1c7b2f08e7437232d19a4d45301ac6e66e183dd5c6",
+  "company": {
+    "key": "spotify-technology-s-a-ordinary-shares",
+    "name": "Spotify Technology S.A."
+  },
+  "source": {
+    "id": "spotify-technology-s-a-ordinary-shares-rss-e59c2e9a43cf",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/",
+    "canonical": "https://engineering.atspotify.com/2026/8/when-can-llms-replace-humans-in-a-b-tests/"
+  },
+  "title": "When Can LLMs Replace Humans in A/B Tests?",
+  "summary": "TL;DR: LLM predictions can stand in for human outcomes in A/B tests, but only by assumption, not by design. In an application to the Upworthy dataset with thousands of A/B tests, calibrating LLM outputs against human data recovered the treatment effect, but only using a specific set of methods. The conditions that make this work cannot be verified for new treatments, and they become less plausible the further the new treatment is from past experiments. The promise is least justified precisely when it offers the most benefit.",
+  "published_at": "2026-08-13T18:57:22+00:00",
+  "first_seen_at": "2026-08-13T22:25:37.255017+00:00",
+  "fetched_at": "2026-08-13T22:25:38.896795+00:00",
+  "last_updated_at": "2026-08-20T01:09:27.272443+00:00",
+  "paths": {
+    "article": "articles/v1/a4/spotify-technology-s-a-ordinary-shares/2026/08/ef/efdd78c655da5766d5dd2b1c7b2f08e7437232d19a4d45301ac6e66e183dd5c6/article.md",
+    "record": "articles/v1/a4/spotify-technology-s-a-ordinary-shares/2026/08/ef/efdd78c655da5766d5dd2b1c7b2f08e7437232d19a4d45301ac6e66e183dd5c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11935,
+    "sha256": "sha256:8b6b71cac11ef2a1d54a2d2e429b79721deffd5f584ddf8fa86cf4d556f25f06",
+    "normalized_content_hash": "sha256:240ac533d145f487ffd2286dfb7aeaf96670d6d566cb477e21e8e949356e33f7"
+  },
+  "provenance": {
+    "source_item_id": "7ff7cb1c-6314-4469-93a8-1c7ee84d53c2",
+    "external_id": "https://engineering.atspotify.com/?p=ln7E2AsSaOEViz9VzHqlL"
+  }
+}

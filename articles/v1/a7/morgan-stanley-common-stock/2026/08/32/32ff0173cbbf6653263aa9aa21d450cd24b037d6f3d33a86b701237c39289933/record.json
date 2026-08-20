@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "32ff0173cbbf6653263aa9aa21d450cd24b037d6f3d33a86b701237c39289933",
+  "company": {
+    "key": "morgan-stanley-common-stock",
+    "name": "Morgan Stanley"
+  },
+  "source": {
+    "id": "morgan-stanley-common-stock-news-import-97046185d101",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.morganstanley.com/insights/articles/fed-rate-pause-fixed-income-market-impact-2026",
+    "canonical": "https://www.morganstanley.com/insights/articles/fed-rate-pause-fixed-income-market-impact-2026"
+  },
+  "title": "Watch Out for a Fed Pause",
+  "summary": "A cooling labor market, easing inflation and record AI-related bond issuance are shaping Morgan Stanley Research's outlook for Fed policy and fixed income.",
+  "published_at": null,
+  "first_seen_at": "2026-08-01T09:47:12.391884+00:00",
+  "fetched_at": "2026-08-01T09:47:14.279407+00:00",
+  "last_updated_at": "2026-08-06T10:28:48.716335+00:00",
+  "paths": {
+    "article": "articles/v1/a7/morgan-stanley-common-stock/2026/08/32/32ff0173cbbf6653263aa9aa21d450cd24b037d6f3d33a86b701237c39289933/article.md",
+    "record": "articles/v1/a7/morgan-stanley-common-stock/2026/08/32/32ff0173cbbf6653263aa9aa21d450cd24b037d6f3d33a86b701237c39289933/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7295,
+    "sha256": "sha256:dae21786ab76d9c404da1c687b32fb8483676b1556bad681a5fb0a2f3c22460a",
+    "normalized_content_hash": "sha256:55e0f3b26cf185dd819b4c5ac09d0f14ab5cde8423b15c4178b868a9e587db2d"
+  },
+  "provenance": {
+    "source_item_id": "36cad0bd-739e-49bd-992e-25f2c0251f81",
+    "external_id": "https://www.morganstanley.com/insights/articles/fed-rate-pause-fixed-income-market-impact-2026"
+  }
+}

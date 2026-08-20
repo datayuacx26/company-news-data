@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b15b06f2b72c91c81ca5b3c9434c923ebcc0ae109d9e47abbfb3ff666e7c5263",
+  "company": {
+    "key": "yc-diversion",
+    "name": "Diversion"
+  },
+  "source": {
+    "id": "yc-diversion-news-import-29544632d9e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.diversion.dev/blog/30-vs-300-benchmarking-github-against-diversion",
+    "canonical": "https://www.diversion.dev/blog/30-vs-300-benchmarking-github-against-diversion"
+  },
+  "title": "30 vs 300: Benchmarking GitHub Against Diversion",
+  "summary": "We ran identical workloads on GitHub and Diversion. GitHub plateaued at 30 commits per minute. Diversion scaled to 300. Here's why, and what it means for teams using AI agents.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:43:54.628145+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-20T03:22:54.868804+00:00",
+  "paths": {
+    "article": "articles/v1/a9/yc-diversion/2026/05/b1/b15b06f2b72c91c81ca5b3c9434c923ebcc0ae109d9e47abbfb3ff666e7c5263/article.md",
+    "record": "articles/v1/a9/yc-diversion/2026/05/b1/b15b06f2b72c91c81ca5b3c9434c923ebcc0ae109d9e47abbfb3ff666e7c5263/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3949,
+    "sha256": "sha256:9a3020f40f306732e0cc3428b1ed030a08e79f98d72c79caeef35a316ed46cc4",
+    "normalized_content_hash": "sha256:223e1efc24633d2a2eb7f983e47825b9de1f8ea7858f0c462ad60808e63e238e"
+  },
+  "provenance": {
+    "source_item_id": "45c10483-c68e-43b8-8542-d5a23b7a95f8",
+    "external_id": "https://www.diversion.dev/blog/30-vs-300-benchmarking-github-against-diversion"
+  }
+}

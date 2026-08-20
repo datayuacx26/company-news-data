@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e73236af010a2d5e96c44c3717943c1fddeb79e9573c75d82f0a4dc97941659d",
+  "company": {
+    "key": "yc-s2-dev",
+    "name": "s2.dev"
+  },
+  "source": {
+    "id": "yc-s2-dev-news-import-d1415bf25083",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://s2.dev/blog/intro",
+    "canonical": "https://s2.dev/blog/intro"
+  },
+  "title": "Introducing S2",
+  "summary": "Introducing S2, a serverless stream store that makes durable real-time streams feel as simple and scalable as object storage.",
+  "published_at": "2024-12-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:29:40.978296+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T02:38:16.468166+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-s2-dev/2024/12/e7/e73236af010a2d5e96c44c3717943c1fddeb79e9573c75d82f0a4dc97941659d/article.md",
+    "record": "articles/v1/bc/yc-s2-dev/2024/12/e7/e73236af010a2d5e96c44c3717943c1fddeb79e9573c75d82f0a4dc97941659d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7819,
+    "sha256": "sha256:99a14c613fce23dba2b6f7ce41462510c2f7838f50b3f88a8651713f526eca91",
+    "normalized_content_hash": "sha256:28ed68baf84a6283521f81d447534d7c1801de624352cd46820b0705a77b552a"
+  },
+  "provenance": {
+    "source_item_id": "bd4e9eb6-faf5-48c1-a5fd-c0989c4d9397",
+    "external_id": "https://s2.dev/blog/intro"
+  }
+}

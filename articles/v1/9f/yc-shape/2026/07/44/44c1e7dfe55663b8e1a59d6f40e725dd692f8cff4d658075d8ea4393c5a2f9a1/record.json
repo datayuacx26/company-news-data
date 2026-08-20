@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44c1e7dfe55663b8e1a59d6f40e725dd692f8cff4d658075d8ea4393c5a2f9a1",
+  "company": {
+    "key": "yc-shape",
+    "name": "Shape"
+  },
+  "source": {
+    "id": "yc-shape-news-import-14cf83b73251",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://shape.xyz/blog/hello-world",
+    "canonical": "https://shape.xyz/blog/hello-world"
+  },
+  "title": "Hello World!",
+  "summary": "Posted by Shape",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T00:27:38.068677+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T15:53:58.415716+00:00",
+  "paths": {
+    "article": "articles/v1/9f/yc-shape/2026/07/44/44c1e7dfe55663b8e1a59d6f40e725dd692f8cff4d658075d8ea4393c5a2f9a1/article.md",
+    "record": "articles/v1/9f/yc-shape/2026/07/44/44c1e7dfe55663b8e1a59d6f40e725dd692f8cff4d658075d8ea4393c5a2f9a1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1292,
+    "sha256": "sha256:e04061746d1832451e640d56e773cb7e6336521932bf2f7c551045b983597436",
+    "normalized_content_hash": "sha256:d62e98eee3a9a580fdbe1893e1353e1e33a2c755ce3d331700bd371fc58b7dbd"
+  },
+  "provenance": {
+    "source_item_id": "669abf56-8901-44e7-8d30-012a60f3baf4",
+    "external_id": "https://shape.xyz/blog/hello-world"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ffce8c845d26cf05085c2db705d948cc7a1a0b30dd17715b83c66716ac847c8d",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-6969ef4af7f4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/changelog/pipeline-local-dev",
+    "canonical": "https://www.windmill.dev/changelog/pipeline-local-dev"
+  },
+  "title": "Local development for data pipelines",
+  "summary": "Edit, preview and run data pipelines from local files without deploying. `wmill pipeline show/run --local` builds the graph from your working tree with the same parser the UI uses, `wmill pipeline dev` live-previews the graph in the browser on every save, and `wmill pipeline docs` writes a PIPELINE.md for coding agents.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:57.288074+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-14T13:27:47.352244+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/07/ff/ffce8c845d26cf05085c2db705d948cc7a1a0b30dd17715b83c66716ac847c8d/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/07/ff/ffce8c845d26cf05085c2db705d948cc7a1a0b30dd17715b83c66716ac847c8d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2020,
+    "sha256": "sha256:2dea19e149cede5f038df7d2f743b354be49024889b9c91e6eab564c75dd1cdc",
+    "normalized_content_hash": "sha256:541c2036adabc1cfc11013d2bb2787c256bede87c2eefd399a9135a36abc14e6"
+  },
+  "provenance": {
+    "source_item_id": "8da84177-9c35-4f5c-a978-c379bbe10675",
+    "external_id": "https://www.windmill.dev/changelog/pipeline-local-dev"
+  }
+}

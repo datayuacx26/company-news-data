@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6c03701cd280af7fa7d3f9d6bf9ddabe100e524fc49ce253b55b7a4e90336988",
+  "company": {
+    "key": "rxo-inc-common-stock",
+    "name": "RXO Inc."
+  },
+  "source": {
+    "id": "rxo-inc-common-stock-news-import-a56a19d89dc3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rxo.com/news/rxo-wins-prestigious-best-in-cargo-security-award-from-cargonet/",
+    "canonical": "https://rxo.com/news/rxo-wins-prestigious-best-in-cargo-security-award-from-cargonet/"
+  },
+  "title": "RXO Wins Prestigious “Best in Cargo Security” Award from CargoNet",
+  "summary": "The award is granted to companies that demonstrate exceptional adherence to security best practices, including the use of real-time intelligence, documented standard operating protocols, and continuous employee education.",
+  "published_at": "2026-06-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:27:32.476329+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T03:26:57.529156+00:00",
+  "paths": {
+    "article": "articles/v1/99/rxo-inc-common-stock/2026/06/6c/6c03701cd280af7fa7d3f9d6bf9ddabe100e524fc49ce253b55b7a4e90336988/article.md",
+    "record": "articles/v1/99/rxo-inc-common-stock/2026/06/6c/6c03701cd280af7fa7d3f9d6bf9ddabe100e524fc49ce253b55b7a4e90336988/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3464,
+    "sha256": "sha256:08fa79e53d92efdb954433634b14dc7d04d3e22c4d1ccd878d69136e5d98cc5e",
+    "normalized_content_hash": "sha256:d9fc04c008710ffd9733d97e5616dbb8859267fb1b0d6cd5f9fd9d11e15c1c35"
+  },
+  "provenance": {
+    "source_item_id": "b3f658a8-1c41-481f-9e79-63a27b369376",
+    "external_id": "https://rxo.com/news/rxo-wins-prestigious-best-in-cargo-security-award-from-cargonet/"
+  }
+}

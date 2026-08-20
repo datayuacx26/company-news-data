@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2d04ad46cdcdc2c0a1eecae3c7a0d56896321a6dcfa8c46e8ca48cac4818ecf",
+  "company": {
+    "key": "yc-atmo",
+    "name": "Atmo"
+  },
+  "source": {
+    "id": "yc-atmo-news-import-0c2d65ad85a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.atmo.ai/news/airforce-forecast",
+    "canonical": "https://atmo.ai/news/airforce-forecast"
+  },
+  "title": "How Atmo's Dual-Scale AI Weather Forecast Earned Its Wings with the US Air Force",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T08:24:28.942270+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-08-20T02:01:19.357496+00:00",
+  "paths": {
+    "article": "articles/v1/9f/yc-atmo/2026/07/c2/c2d04ad46cdcdc2c0a1eecae3c7a0d56896321a6dcfa8c46e8ca48cac4818ecf/article.md",
+    "record": "articles/v1/9f/yc-atmo/2026/07/c2/c2d04ad46cdcdc2c0a1eecae3c7a0d56896321a6dcfa8c46e8ca48cac4818ecf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3959,
+    "sha256": "sha256:f5324cb8b96dd9c9cc7411698779f9ff1bfb8e95a1f9c7424736f8fdaceff49d",
+    "normalized_content_hash": "sha256:3ce8c9e26c83b8d5fba58860ecb9f4e35a3e57511bdcd0c466c5e0c4effb48fb"
+  },
+  "provenance": {
+    "source_item_id": "1cbfc975-900a-482c-8d58-ba952147a709",
+    "external_id": "https://atmo.ai/news/airforce-forecast"
+  }
+}

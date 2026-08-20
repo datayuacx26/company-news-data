@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d5fee7795210f1a66699af598ccae747d891f0c7f124e4aa2e8acecb37fa556",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/identities-credentials-sessions",
+    "canonical": "https://anakin.io/blog/identities-credentials-sessions"
+  },
+  "title": "Identities, Credentials, and Sessions: Managing Logins Without Managing Passwords",
+  "summary": "Store the user's login and it becomes three objects. Why the binding lives on the credential, not the account - so rotation…",
+  "published_at": "2026-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T00:49:53.361744+00:00",
+  "fetched_at": "2026-08-05T03:48:27.623827+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/08/8d/8d5fee7795210f1a66699af598ccae747d891f0c7f124e4aa2e8acecb37fa556/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/08/8d/8d5fee7795210f1a66699af598ccae747d891f0c7f124e4aa2e8acecb37fa556/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6810,
+    "sha256": "sha256:328d1a14d75dea3bfef3a55ae042e612357056c71fdd7053a080c9832da4ce82",
+    "normalized_content_hash": "sha256:d72aa3c470f8aa78fb8af2608d01b8fb8a6fd7ca69fb3c33ce1d3a0de12a91c0"
+  },
+  "provenance": {
+    "source_item_id": "1c435926-99a9-493d-bc60-00efc0cd9302",
+    "external_id": "https://anakin.io/blog/identities-credentials-sessions"
+  }
+}

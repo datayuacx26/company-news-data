@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "chagee-holdings-limited-american-depositary-shares",
+    "name": "Chagee Holdings Limited"
+  },
+  "record_count": 5,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/89/chagee-holdings-limited-american-depositary-shares/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 6425,
+        "sha256": "sha256:8695f01544d620f1d8ca43385cbaea21edf3b78f7e25f43fb8aca3e928e253eb",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

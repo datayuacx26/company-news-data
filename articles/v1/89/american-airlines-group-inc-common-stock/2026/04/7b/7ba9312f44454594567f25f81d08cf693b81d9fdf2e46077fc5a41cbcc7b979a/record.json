@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ba9312f44454594567f25f81d08cf693b81d9fdf2e46077fc5a41cbcc7b979a",
+  "company": {
+    "key": "american-airlines-group-inc-common-stock",
+    "name": "American Airlines Group Inc."
+  },
+  "source": {
+    "id": "american-airlines-group-inc-common-stock-news-import-aa1b8ed8edb0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.aa.com/news/news-details/2026/American-Airlines-reports-first-quarter-2026-financial-results-CORP-FI-04/default.aspx",
+    "canonical": "https://news.aa.com/news/news-details/2026/American-Airlines-reports-first-quarter-2026-financial-results-CORP-FI-04/default.aspx"
+  },
+  "title": "American Airlines reports first-quarter 2026 financial results",
+  "summary": "American Airlines Group Inc. (NASDAQ: AAL) today reported its first-quarter 2026 financial results",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T01:45:10.249277+00:00",
+  "fetched_at": "2026-07-28T22:15:40.956663+00:00",
+  "last_updated_at": "2026-08-19T18:10:19.673715+00:00",
+  "paths": {
+    "article": "articles/v1/89/american-airlines-group-inc-common-stock/2026/04/7b/7ba9312f44454594567f25f81d08cf693b81d9fdf2e46077fc5a41cbcc7b979a/article.md",
+    "record": "articles/v1/89/american-airlines-group-inc-common-stock/2026/04/7b/7ba9312f44454594567f25f81d08cf693b81d9fdf2e46077fc5a41cbcc7b979a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21185,
+    "sha256": "sha256:a7b859bcc84273e448032980b0efb97d5ac76f6d2bc74b5a4b6c5c9f3d9034fa",
+    "normalized_content_hash": "sha256:55a5d39e175157f677e3abfe18c8daa74dfd931561225fe01c8b19d3dce4ed8b"
+  },
+  "provenance": {
+    "source_item_id": "cecbe62b-f22b-4c46-a751-aba54ba08963",
+    "external_id": "https://news.aa.com/news/news-details/2026/American-Airlines-reports-first-quarter-2026-financial-results-CORP-FI-04/default.aspx"
+  }
+}

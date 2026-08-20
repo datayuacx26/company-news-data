@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7cad6be27315cddeb381f1995e4f7ae507bd3643ce0a36240a83fafd3b522a8",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/disk-is-the-data-plane",
+    "canonical": "https://www.eventual.ai/blog/disk-is-the-data-plane"
+  },
+  "title": "Disk is the data plane: Flight Shuffle in Daft",
+  "summary": "How Daft rebuilt distributed shuffle around Arrow Flight, local disk, and streaming reads to handle multi-terabyte workloads.",
+  "published_at": "2026-06-05T08:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:47:26.048705+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T01:29:00.224908+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/06/d7/d7cad6be27315cddeb381f1995e4f7ae507bd3643ce0a36240a83fafd3b522a8/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/06/d7/d7cad6be27315cddeb381f1995e4f7ae507bd3643ce0a36240a83fafd3b522a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19171,
+    "sha256": "sha256:152682a043e67386a03379cc8227ce3227bc36f37db34711020172ec8b3c0bfe",
+    "normalized_content_hash": "sha256:254ff0a5204bf60f961dd893e686bd15be8b3a1dbbae72d7d70359eb9c0a7eb0"
+  },
+  "provenance": {
+    "source_item_id": "9b18fe06-b712-41be-ad5f-89f3c1e9b19d",
+    "external_id": "https://www.eventual.ai/blog/disk-is-the-data-plane"
+  }
+}

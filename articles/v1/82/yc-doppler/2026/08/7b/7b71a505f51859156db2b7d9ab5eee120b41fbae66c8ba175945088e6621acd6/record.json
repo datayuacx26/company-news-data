@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b71a505f51859156db2b7d9ab5eee120b41fbae66c8ba175945088e6621acd6",
+  "company": {
+    "key": "yc-doppler",
+    "name": "Doppler"
+  },
+  "source": {
+    "id": "yc-doppler-news-import-86fd2de2d678",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.doppler.com/blog/secure-ai-agents-defense-in-depth",
+    "canonical": "https://www.doppler.com/blog/secure-ai-agents-defense-in-depth"
+  },
+  "title": "How to secure AI agents with defense in depth",
+  "summary": "Why every agent permission is a permission an attacker can reach, and how defense in depth backed by short-lived, governed secrets caps the blast radius when a layer fails.",
+  "published_at": null,
+  "first_seen_at": "2026-08-15T03:39:52.671267+00:00",
+  "fetched_at": "2026-08-15T03:39:55.012890+00:00",
+  "last_updated_at": "2026-08-19T14:27:17.422364+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-doppler/2026/08/7b/7b71a505f51859156db2b7d9ab5eee120b41fbae66c8ba175945088e6621acd6/article.md",
+    "record": "articles/v1/82/yc-doppler/2026/08/7b/7b71a505f51859156db2b7d9ab5eee120b41fbae66c8ba175945088e6621acd6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11571,
+    "sha256": "sha256:447d9ddb719178660fac6cd5af5de984b5082d0afea2f5e0605b3f33b6089101",
+    "normalized_content_hash": "sha256:cc884535a8d7783269793cc377405440317f5d153b2a2d77148d7d7db26ccd0d"
+  },
+  "provenance": {
+    "source_item_id": "11a70081-21f7-4605-a180-d7496f3cd5e0",
+    "external_id": "https://www.doppler.com/blog/secure-ai-agents-defense-in-depth"
+  }
+}

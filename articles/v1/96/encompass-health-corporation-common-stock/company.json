@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "encompass-health-corporation-common-stock",
+    "name": "Encompass Health Corporation"
+  },
+  "record_count": 1,
+  "first_published_at": "2026-05-15T00:00:00+00:00",
+  "last_published_at": "2026-05-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/96/encompass-health-corporation-common-stock/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1400,
+        "sha256": "sha256:1991acda161f20f21ed52f8965f75c75e6ccee52a9d1f007e2f97efbf93f1cbd",
+        "newest_at": "2026-05-15T00:00:00+00:00",
+        "oldest_at": "2026-05-15T00:00:00+00:00"
+      }
+    ]
+  }
+}

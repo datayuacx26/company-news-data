@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "32b8aa1a592931893cedf8138e2fbe34ffecba944ea16ad8dbb05c1a4afc6fa4",
+  "company": {
+    "key": "yc-recidiviz",
+    "name": "Recidiviz"
+  },
+  "source": {
+    "id": "yc-recidiviz-news-import-9fcc86c2623e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.recidiviz.org/updates/how-to-constrain-ai-to-do-its-job-well",
+    "canonical": "https://www.recidiviz.org/updates/how-to-constrain-ai-to-do-its-job-well"
+  },
+  "title": "How to Constrain AI to Do Its Job Well",
+  "summary": "Generative AI is only a few years old, so making it predictable and reliable means experimenting with different prompts, workflows, and techniques. Providing detailed instructions, constrained outputs, and layers of automated review can keep AI’s outputs predictable and easy to check. We’re applying what we can learn from other researchers, and trying some new routes of our own, all within corrections.",
+  "published_at": null,
+  "first_seen_at": "2026-08-14T02:42:11.268050+00:00",
+  "fetched_at": "2026-08-14T02:42:12.592924+00:00",
+  "last_updated_at": "2026-08-19T17:32:06.619255+00:00",
+  "paths": {
+    "article": "articles/v1/80/yc-recidiviz/2026/08/32/32b8aa1a592931893cedf8138e2fbe34ffecba944ea16ad8dbb05c1a4afc6fa4/article.md",
+    "record": "articles/v1/80/yc-recidiviz/2026/08/32/32b8aa1a592931893cedf8138e2fbe34ffecba944ea16ad8dbb05c1a4afc6fa4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11620,
+    "sha256": "sha256:c96f75b3a866908015b9e6fc1e2a8890f45e1024fb69ffe214173ab4d78e003c",
+    "normalized_content_hash": "sha256:039a2d9bf53ae3ad0b2e899f1400b43541dabc524e4a82c65206630ccafb964f"
+  },
+  "provenance": {
+    "source_item_id": "0e657fb5-369a-4a59-b457-059300091f49",
+    "external_id": "https://www.recidiviz.org/updates/how-to-constrain-ai-to-do-its-job-well"
+  }
+}

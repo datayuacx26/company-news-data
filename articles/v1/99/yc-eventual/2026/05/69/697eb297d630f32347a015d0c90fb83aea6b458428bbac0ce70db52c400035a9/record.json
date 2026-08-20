@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "697eb297d630f32347a015d0c90fb83aea6b458428bbac0ce70db52c400035a9",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/daft-videofile-seek-lazily-get-frames",
+    "canonical": "https://www.eventual.ai/blog/daft-videofile-seek-lazily-get-frames"
+  },
+  "title": "daft.VideoFile: Seek Lazily, Get Frames",
+  "summary": "daft.VideoFile decodes only the frames you need. Keyframes, time-sampled, or windowed seek, built for robotics datasets, dashcams, and moderation queues.",
+  "published_at": "2026-05-08T08:00:00+00:00",
+  "first_seen_at": "2026-07-28T08:49:54.145619+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-03T01:36:03.945206+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/05/69/697eb297d630f32347a015d0c90fb83aea6b458428bbac0ce70db52c400035a9/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/05/69/697eb297d630f32347a015d0c90fb83aea6b458428bbac0ce70db52c400035a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7349,
+    "sha256": "sha256:bbd288e7db3d94756c10dfc0f2c0b5fedf846bd03f844fef1cca9832096aae1d",
+    "normalized_content_hash": "sha256:ba79eca871bff032d3e929c6f73593e3350ec30c8fbf5655b0e133f5bfd2eb8b"
+  },
+  "provenance": {
+    "source_item_id": "13458e08-dc68-4311-be43-9897fb5933df",
+    "external_id": "https://www.eventual.ai/blog/daft-videofile-seek-lazily-get-frames"
+  }
+}

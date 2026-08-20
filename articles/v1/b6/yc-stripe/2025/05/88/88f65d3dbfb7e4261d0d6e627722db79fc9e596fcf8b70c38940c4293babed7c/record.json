@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88f65d3dbfb7e4261d0d6e627722db79fc9e596fcf8b70c38940c4293babed7c",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/introducing-stripe-workflows",
+    "canonical": "https://stripe.dev/blog/introducing-stripe-workflows"
+  },
+  "title": "Introducing Stripe Workflows: Tailoring Payments to Your Business Needs",
+  "summary": "Today, Stripe launches Stripe Workflows, a powerful new way to automate your payment operations and orchestrate Stripe products with ease—right from the Dashboard. Whether you are looking to streamline invoicing, manage fraud detection, automate subscription logic, or build custom quote-to-cash flows, Stripe Workflows helps developers move faster with fewer lines of code. With built-in support for real-time triggers, conditional logic, and seamless integration across Stripe’s ecosystem, Workflows eliminates the need for managing infrastructure or writing boilerplate logic. Instead, you get a visual, event-driven automation engine designed for high-performance financial operations at scale. In this post, we’ll explore how Stripe Workflows can help you simplify complexity, boost developer productivity, and unlock new use cases—all with low latency and high reliability.",
+  "published_at": "2025-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:57:45.279486+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/05/88/88f65d3dbfb7e4261d0d6e627722db79fc9e596fcf8b70c38940c4293babed7c/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/05/88/88f65d3dbfb7e4261d0d6e627722db79fc9e596fcf8b70c38940c4293babed7c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5911,
+    "sha256": "sha256:64843aaeecbe990f1890c8fc9e444479f084af87d22868b7e8fd8a7f653f4bf7",
+    "normalized_content_hash": "sha256:02f1085b3a58de1edc66fa3cff3a5409c4d9b5dcd9979d052560e9dca5e5fa08"
+  },
+  "provenance": {
+    "source_item_id": "2d55bcf2-b46a-48cc-9a55-d0c5126443b1",
+    "external_id": "https://stripe.dev/blog/introducing-stripe-workflows"
+  }
+}

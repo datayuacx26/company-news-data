@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ohmyhome-limited-class-a-ordinary-shares",
+    "name": "Ohmyhome Limited"
+  },
+  "record_count": 32,
+  "first_published_at": "2024-04-04T09:50:57+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/85/ohmyhome-limited-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 32,
+        "byte_count": 37725,
+        "sha256": "sha256:2121a4ffc991222a2be75b149b97e3552f5ec3ee954c1650f65c326a52f047fc",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2024-04-04T09:50:57+00:00"
+      }
+    ]
+  }
+}

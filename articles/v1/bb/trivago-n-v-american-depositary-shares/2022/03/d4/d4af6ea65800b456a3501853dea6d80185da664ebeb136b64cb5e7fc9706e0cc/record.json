@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4af6ea65800b456a3501853dea6d80185da664ebeb136b64cb5e7fc9706e0cc",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/",
+    "canonical": "https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/"
+  },
+  "title": "Why and how we use primitive maps",
+  "summary": "At trivago we operate on petabytes of data. In live-traffic applications that are related to the bidding business cases we use our in-house in-memory key-value storage-service written in Java to...",
+  "published_at": "2022-03-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2022/03/d4/d4af6ea65800b456a3501853dea6d80185da664ebeb136b64cb5e7fc9706e0cc/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2022/03/d4/d4af6ea65800b456a3501853dea6d80185da664ebeb136b64cb5e7fc9706e0cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12316,
+    "sha256": "sha256:75c504c79e494e51116de49b9ac4325c3fddf925c106d359f49c1f1352a973c4",
+    "normalized_content_hash": "sha256:3f934a82554a90da053e4a9e485e310f6e4b6e955e3bc06eee009e5d8810b6dd"
+  },
+  "provenance": {
+    "source_item_id": "95d84be3-ca6c-4255-9864-de0deafaf7e9",
+    "external_id": "https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/"
+  }
+}

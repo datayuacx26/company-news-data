@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59f9f41f9d2671c9136eaba8b71a9185b4d4dafdaed3357946b9957f77d94536",
+  "company": {
+    "key": "yc-zinc",
+    "name": "Zinc"
+  },
+  "source": {
+    "id": "yc-zinc-news-import-01c857d42648",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zinc.com/blog/shipment-tracking-api",
+    "canonical": "https://www.zinc.com/blog/shipment-tracking-api"
+  },
+  "title": "Shipment Tracking API for Developers: Polling, Webhooks, and Multi-Retailer Tracking (2026)",
+  "summary": "Developer guide to shipment tracking APIs: poll orders, handle webhooks, normalize checkpoints, and track shipments across Amazon, Walmart, and 50+ retailers with Zinc.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:14:52.140847+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-19T20:20:45.368981+00:00",
+  "paths": {
+    "article": "articles/v1/a3/yc-zinc/2026/07/59/59f9f41f9d2671c9136eaba8b71a9185b4d4dafdaed3357946b9957f77d94536/article.md",
+    "record": "articles/v1/a3/yc-zinc/2026/07/59/59f9f41f9d2671c9136eaba8b71a9185b4d4dafdaed3357946b9957f77d94536/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27343,
+    "sha256": "sha256:5b565e037c0e8b3ca3022348976eb8a11e9c7c8e0e4469661469e9a98e30e312",
+    "normalized_content_hash": "sha256:aa27bebf591a185f28800c9b640485ad342f656a141e28b8c51e317d5e85aa4d"
+  },
+  "provenance": {
+    "source_item_id": "9710377c-d5e5-42c4-bb88-f12c9696dbd7",
+    "external_id": "https://www.zinc.com/blog/shipment-tracking-api"
+  }
+}

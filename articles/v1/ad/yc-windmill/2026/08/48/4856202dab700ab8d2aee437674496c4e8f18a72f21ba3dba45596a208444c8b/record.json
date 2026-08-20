@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4856202dab700ab8d2aee437674496c4e8f18a72f21ba3dba45596a208444c8b",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-12b6d71fe86e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/blog/support-automation",
+    "canonical": "https://www.windmill.dev/blog/support-automation"
+  },
+  "title": "Automating quality support at scale: AI and human in the loop",
+  "summary": "How does Windmill automate its own support? A Windmill pipeline funnels Discord, Slack and email tickets into one Discord queue, triages them with Claude, drafts replies, and dispatches fixes.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T10:24:00.185552+00:00",
+  "fetched_at": "2026-08-18T10:24:01.628015+00:00",
+  "last_updated_at": "2026-08-20T02:40:36.450549+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/08/48/4856202dab700ab8d2aee437674496c4e8f18a72f21ba3dba45596a208444c8b/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/08/48/4856202dab700ab8d2aee437674496c4e8f18a72f21ba3dba45596a208444c8b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19159,
+    "sha256": "sha256:c3855d1071b974f3d461276235571e54c80058fc58a37d009e434bb11532ac00",
+    "normalized_content_hash": "sha256:e25c15ba9d812eeb5b59f30ec486dcc96971a8e34e835963a86a1e8a4f37ae7a"
+  },
+  "provenance": {
+    "source_item_id": "098a0038-8cff-4a09-bab2-26f7f5fcb630",
+    "external_id": "https://www.windmill.dev/blog/support-automation"
+  }
+}

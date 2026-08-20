@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b48fa88cec32f3d743892edc8b47e5250bc40d3babfdaa6102d6e14e44dfb1b6",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+    "canonical": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/"
+  },
+  "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+  "summary": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor.",
+  "published_at": "2026-08-03T10:00:35+00:00",
+  "first_seen_at": "2026-08-03T10:03:53.510377+00:00",
+  "fetched_at": "2026-08-03T11:29:23.074207+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/b4/b48fa88cec32f3d743892edc8b47e5250bc40d3babfdaa6102d6e14e44dfb1b6/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/b4/b48fa88cec32f3d743892edc8b47e5250bc40d3babfdaa6102d6e14e44dfb1b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 36747,
+    "sha256": "sha256:cffba5e9ec4169722d3d8d864a1e62f52a919d4d8880d7c50b3f54b0da68aa63",
+    "normalized_content_hash": "sha256:d1e7e4661c5693acc32d7effcec47b463b7a051e4b4cfbafdb81ec5e8077b1fc"
+  },
+  "provenance": {
+    "source_item_id": "f42d10e6-6d65-4ae0-ae16-1918f1c80f28",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=184120"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-worldql",
+    "name": "WorldQL"
+  },
+  "record_count": 1,
+  "first_published_at": "2025-12-03T00:00:00+00:00",
+  "last_published_at": "2025-12-03T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/9a/yc-worldql/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1103,
+        "sha256": "sha256:5ae3750c2857d7888b606b930d535efb460220c6358c63299ab432f08e3152b0",
+        "newest_at": "2025-12-03T00:00:00+00:00",
+        "oldest_at": "2025-12-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

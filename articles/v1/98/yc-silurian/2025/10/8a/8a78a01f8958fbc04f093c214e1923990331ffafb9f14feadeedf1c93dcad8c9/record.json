@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a78a01f8958fbc04f093c214e1923990331ffafb9f14feadeedf1c93dcad8c9",
+  "company": {
+    "key": "yc-silurian",
+    "name": "Silurian"
+  },
+  "source": {
+    "id": "yc-silurian-news-import-778c8a4f4a8c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://silurian.ai/blog/day-ahead-rime-ice-from-reactive-to-preventive",
+    "canonical": "https://silurian.ai/blog/day-ahead-rime-ice-from-reactive-to-preventive"
+  },
+  "title": "Day-Ahead Rime-Ice: From Reactive to Preventive",
+  "summary": "When rime ice brings down a transmission line, it's already too late. Traditional weather models can't see it coming—they forecast regions, not assets. Our collaboration with Hydro-Québec validates that a weather foundation model like GFT can deliver day-ahead rime-ice alerts with 0.72 average precision, reducing expected dispatch costs while providing operators with actionable 72-hour warnings.",
+  "published_at": "2025-10-24T06:30:26.698+00:00",
+  "first_seen_at": "2026-07-24T00:50:25.898192+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-19T21:15:53.700553+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-silurian/2025/10/8a/8a78a01f8958fbc04f093c214e1923990331ffafb9f14feadeedf1c93dcad8c9/article.md",
+    "record": "articles/v1/98/yc-silurian/2025/10/8a/8a78a01f8958fbc04f093c214e1923990331ffafb9f14feadeedf1c93dcad8c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4341,
+    "sha256": "sha256:18f5fb868e9f38a275601391135cc93eea7d27c95eca04778e9c53d3ac3d2ff4",
+    "normalized_content_hash": "sha256:ca81d0fed735382f882e2db821c3c59bb234105a7be3dbad5c8b8854559e333c"
+  },
+  "provenance": {
+    "source_item_id": "809cd58c-2282-4794-9484-7d67461808ad",
+    "external_id": "https://silurian.ai/blog/day-ahead-rime-ice-from-reactive-to-preventive"
+  }
+}

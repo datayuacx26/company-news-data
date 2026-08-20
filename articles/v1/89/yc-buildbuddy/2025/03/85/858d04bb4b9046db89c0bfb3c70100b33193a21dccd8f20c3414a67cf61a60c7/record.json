@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "858d04bb4b9046db89c0bfb3c70100b33193a21dccd8f20c3414a67cf61a60c7",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-9eed3a34e5de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/blog/unusual-builds-w-bytes",
+    "canonical": "https://www.buildbuddy.io/blog/unusual-builds-w-bytes"
+  },
+  "title": "Unusual Builds with Bytes",
+  "summary": "Fixing a download bug in Bazel Build without Bytes (BwoB)",
+  "published_at": "2025-03-10T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:54.250593+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T03:45:46.032492+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2025/03/85/858d04bb4b9046db89c0bfb3c70100b33193a21dccd8f20c3414a67cf61a60c7/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2025/03/85/858d04bb4b9046db89c0bfb3c70100b33193a21dccd8f20c3414a67cf61a60c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15144,
+    "sha256": "sha256:c50f711bf49c4526610ab736d19e2319b63202085fee3c5b3902c5ca485c64ba",
+    "normalized_content_hash": "sha256:30efdfaf8094b153526a6cd8643f84ad401cbbe1b83942f2c3bf13de58c18ec8"
+  },
+  "provenance": {
+    "source_item_id": "2574bafe-6a21-4f8e-983f-5464fecc1ca7",
+    "external_id": "https://www.buildbuddy.io/blog/unusual-builds-w-bytes"
+  }
+}

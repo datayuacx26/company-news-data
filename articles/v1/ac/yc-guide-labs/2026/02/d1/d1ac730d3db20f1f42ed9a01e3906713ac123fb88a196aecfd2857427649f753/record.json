@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d1ac730d3db20f1f42ed9a01e3906713ac123fb88a196aecfd2857427649f753",
+  "company": {
+    "key": "yc-guide-labs",
+    "name": "Guide Labs"
+  },
+  "source": {
+    "id": "yc-guide-labs-news-import-41fe5d9b8b28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+    "canonical": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/"
+  },
+  "title": "Steerling-8B: The First Inherently Interpretable Language Model",
+  "summary": "We release Steerling-8B, an 8B-parameter causal diffusion language model that is interpretable by construction — its predictions are routed through concepts you can measure, audit, and control.",
+  "published_at": "2026-02-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:19:32.933709+00:00",
+  "fetched_at": "2026-07-28T22:19:30.840186+00:00",
+  "last_updated_at": "2026-08-19T15:50:29.163183+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-guide-labs/2026/02/d1/d1ac730d3db20f1f42ed9a01e3906713ac123fb88a196aecfd2857427649f753/article.md",
+    "record": "articles/v1/ac/yc-guide-labs/2026/02/d1/d1ac730d3db20f1f42ed9a01e3906713ac123fb88a196aecfd2857427649f753/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7094,
+    "sha256": "sha256:a575159d7f9a8d41dce6969a741abff7c86d3b727a0be269d1c7676fcee6e3e4",
+    "normalized_content_hash": "sha256:3e800f8fb0025e53fc6f4028580e29d32b28fc249d9cc380f369f8c3d10209ba"
+  },
+  "provenance": {
+    "source_item_id": "61a5d09a-312e-4e7e-8831-8cccf954cd51",
+    "external_id": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/"
+  }
+}

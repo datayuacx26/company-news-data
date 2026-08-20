@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d2c35617912757fc538cbab9923542c0dfd2d44a7741718ee3710b4895c198b4",
+  "company": {
+    "key": "yc-svix",
+    "name": "Svix"
+  },
+  "source": {
+    "id": "yc-svix-news-import-06ae021bd4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.svix.com/blog/stateless-mcp/",
+    "canonical": "https://www.svix.com/blog/stateless-mcp/"
+  },
+  "title": "Fully Event-Driven MCP is Coming",
+  "summary": "MCP is now stateless. Why do we care? Because it helps MCP become more event-driven.",
+  "published_at": "2026-07-30T13:00:00+00:00",
+  "first_seen_at": "2026-07-31T23:27:38.805062+00:00",
+  "fetched_at": "2026-07-31T23:27:39.625511+00:00",
+  "last_updated_at": "2026-08-20T01:05:38.755361+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-svix/2026/07/d2/d2c35617912757fc538cbab9923542c0dfd2d44a7741718ee3710b4895c198b4/article.md",
+    "record": "articles/v1/a5/yc-svix/2026/07/d2/d2c35617912757fc538cbab9923542c0dfd2d44a7741718ee3710b4895c198b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3231,
+    "sha256": "sha256:19e9214aca44513fed505a53ca451fb3a2bfee8e41f6ea8266186baae397915e",
+    "normalized_content_hash": "sha256:369d7d5901127cc593b38cb20620cbf6f6a3d430f8e901fd2977c4fb12bdb97c"
+  },
+  "provenance": {
+    "source_item_id": "1f0265c3-422d-43b6-98d7-67a81145db0e",
+    "external_id": "https://www.svix.com/blog/stateless-mcp/"
+  }
+}

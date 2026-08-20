@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b64294be17e3ce90c80b904b5be8cff428bba0a7f3feb4bc7409cf67acef85e6",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2017-12-19-memcached-optimization/",
+    "canonical": "https://tech.trivago.com/post/2017-12-19-memcached-optimization/"
+  },
+  "title": "How trivago Reduced Memcached Memory Usage by 50%",
+  "summary": "If you’ve never heard about Memcached, it is simply a high-performance, distributed memory caching system which uses a key-value store for strings and object...",
+  "published_at": "2017-12-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:26:54.348132+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2017/12/b6/b64294be17e3ce90c80b904b5be8cff428bba0a7f3feb4bc7409cf67acef85e6/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2017/12/b6/b64294be17e3ce90c80b904b5be8cff428bba0a7f3feb4bc7409cf67acef85e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10516,
+    "sha256": "sha256:f9a9b98fd040162a61a9f5cdc0735dc25c08596364a009d98ba3c0009d2e1b4f",
+    "normalized_content_hash": "sha256:c01701495abfe8a854158a54cdf0249682956d4c9267184001047cab5eac74f6"
+  },
+  "provenance": {
+    "source_item_id": "efee4a03-70e7-429b-8f56-3ea4c646808e",
+    "external_id": "https://tech.trivago.com/post/2017-12-19-memcached-optimization/"
+  }
+}

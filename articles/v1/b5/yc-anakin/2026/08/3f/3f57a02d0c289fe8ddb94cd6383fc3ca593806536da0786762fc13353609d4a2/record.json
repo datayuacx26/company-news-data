@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f57a02d0c289fe8ddb94cd6383fc3ca593806536da0786762fc13353609d4a2",
+  "company": {
+    "key": "yc-anakin",
+    "name": "Anakin"
+  },
+  "source": {
+    "id": "yc-anakin-news-import-edbd07d03db6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://anakin.io/blog/prove-password-never-reaches-log",
+    "canonical": "https://anakin.io/blog/prove-password-never-reaches-log"
+  },
+  "title": "How We Prove a Password Never Reaches a Log Line",
+  "summary": "Nobody logs a password on purpose - someone adds a debug line at 4pm. The redaction-by-construction and CI test that keep…",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T00:49:53.361744+00:00",
+  "fetched_at": "2026-08-05T01:38:03.459815+00:00",
+  "last_updated_at": "2026-08-19T18:41:34.230146+00:00",
+  "paths": {
+    "article": "articles/v1/b5/yc-anakin/2026/08/3f/3f57a02d0c289fe8ddb94cd6383fc3ca593806536da0786762fc13353609d4a2/article.md",
+    "record": "articles/v1/b5/yc-anakin/2026/08/3f/3f57a02d0c289fe8ddb94cd6383fc3ca593806536da0786762fc13353609d4a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5903,
+    "sha256": "sha256:f5b70823b4e33b2dd3080b3e17c5b46feafff0dce8ceecf3aa0886560c1aeb1c",
+    "normalized_content_hash": "sha256:785fbe85cff066d066bfdc2076a0c57d822f67b1b4d5a9bb5b8a9077ba398d42"
+  },
+  "provenance": {
+    "source_item_id": "0627658c-a249-4149-9a42-38db26fea0e7",
+    "external_id": "https://anakin.io/blog/prove-password-never-reaches-log"
+  }
+}

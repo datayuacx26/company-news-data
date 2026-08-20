@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c999cc5569d556e1e2174bc1a707e8f81f5f190bd5531cb438dd87d55eb5e3d",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2021-06-09-application-lifecycle-management-kubernetes/",
+    "canonical": "https://tech.trivago.com/post/2021-06-09-application-lifecycle-management-kubernetes/"
+  },
+  "title": "Proper (Java) application life cycle management in Kubernetes",
+  "summary": "When operating applications in Kubernetes, proper lifecycle management is crucial to enable Kubernetes to manage applications correctly throughout their different phases: startup, runtime and sh...",
+  "published_at": "2021-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2021/06/8c/8c999cc5569d556e1e2174bc1a707e8f81f5f190bd5531cb438dd87d55eb5e3d/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2021/06/8c/8c999cc5569d556e1e2174bc1a707e8f81f5f190bd5531cb438dd87d55eb5e3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12021,
+    "sha256": "sha256:f7b6d2ef555aeb0e27e5850e945dca6848db73988e246d0646e3fa31ff4cf34e",
+    "normalized_content_hash": "sha256:e58a7e486b2de2dba3b0e68973176ced84944045234406da65c4762234bcd988"
+  },
+  "provenance": {
+    "source_item_id": "22e5ba9f-5314-4073-a43d-21cbcfeb12c0",
+    "external_id": "https://tech.trivago.com/post/2021-06-09-application-lifecycle-management-kubernetes/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3512326416f6367be58a1f8204f81b524d6eeabcebcaa94989d5e3924a02ae07",
+  "company": {
+    "key": "yc-svix",
+    "name": "Svix"
+  },
+  "source": {
+    "id": "yc-svix-news-import-06ae021bd4c1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.svix.com/blog/webhooks-suck/",
+    "canonical": "https://www.svix.com/blog/webhooks-suck/"
+  },
+  "title": "Webhooks Suck: Fixing the Problems with Consuming Webhooks",
+  "summary": "The hardest problems with consuming webhooks: signature verification, local development, replaying failed events, ordering, and duplicates, and how we are fixing each one.",
+  "published_at": "2026-08-18T12:00:00+00:00",
+  "first_seen_at": "2026-08-18T20:31:08.666551+00:00",
+  "fetched_at": "2026-08-18T20:31:11.153377+00:00",
+  "last_updated_at": "2026-08-20T01:05:38.755361+00:00",
+  "paths": {
+    "article": "articles/v1/a5/yc-svix/2026/08/35/3512326416f6367be58a1f8204f81b524d6eeabcebcaa94989d5e3924a02ae07/article.md",
+    "record": "articles/v1/a5/yc-svix/2026/08/35/3512326416f6367be58a1f8204f81b524d6eeabcebcaa94989d5e3924a02ae07/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13679,
+    "sha256": "sha256:1e68eba32878090ef1f5bac51eae892612f11c5e393252ace1c9e428ec4aa1f1",
+    "normalized_content_hash": "sha256:b20cc4a0d7b1bc56232c586205aaccca65e66ca8a2c56ef051b3302eead74c50"
+  },
+  "provenance": {
+    "source_item_id": "203ffff7-55ff-4f4c-ba1b-fcca7f621232",
+    "external_id": "https://www.svix.com/blog/webhooks-suck/"
+  }
+}

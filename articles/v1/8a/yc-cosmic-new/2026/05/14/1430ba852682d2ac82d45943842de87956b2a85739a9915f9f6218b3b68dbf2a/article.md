@@ -1,0 +1,138 @@
+---
+schema_version: "1.0.0"
+document_id: "1430ba852682d2ac82d45943842de87956b2a85739a9915f9f6218b3b68dbf2a"
+company_key: "yc-cosmic-new"
+company: "Cosmic"
+source_id: "yc-cosmic-new-atom-eb157756d832"
+canonical_url: "https://www.cosmicjs.com/blog/astro-6-4-cosmic-fastest-content-stack"
+published_at: "2026-05-28T00:00:00+00:00"
+first_seen_at: "2026-07-27T08:40:33.238493+00:00"
+fetched_at: "2026-07-28T21:11:58.236396+00:00"
+content_hash: "sha256:64c9250a2c0d7bb443c91d62470f9d4869edbff7aa15be83cbdcd7fa676e4802"
+---
+
+# Astro 6.4 + Cosmic: The Fastest Content Stack in 2026
+
+Astro 6.4 landed recently, and the headline feature is hard to ignore: a brand-new Rust-based Markdown processor called Sätteri that shaved over a minute off build times for both the Astro and Cloudflare docs sites. Combine that with Cosmic's sub-100ms REST API responses and you have a content pipeline that nothing else on the market can touch right now.
+
+
+Here is everything that shipped in Astro 6.4, why it matters for content-heavy projects, and how to wire it up with Cosmic today.
+
+
+## What's New in Astro 6.4
+
+
+### Sätteri: Rust-Speed Markdown Processing
+
+
+The most significant addition in this release is the new package. Sätteri is a Markdown and MDX pipeline written in Rust, exposed through Astro's new pluggable API.
+
+
+In Astro's own testing, switching the Astro and Cloudflare docs sites to Sätteri shaved over a minute off their respective build times. For large content sites, that is not a marginal improvement. It changes the feedback loop entirely.
+
+
+To try it:
+
+
+```text
+
+
+```
+
+
+```text
+
+
+```
+
+
+One important note: Sätteri does not run remark or rehype plugins. If your project depends on plugins from the unified ecosystem, you will either need to stay on for now or port them to Sätteri's MDAST or HAST plugin system. The Astro team has signaled that Sätteri is the intended default processor in a future major release.
+
+
+### A Pluggable Markdown Processor API
+
+
+Sätteri is possible because Astro 6.4 also introduces the configuration option, which lets you swap out the entire Markdown pipeline. The default remains , so existing projects keep working without any changes.
+
+
+The legacy top-level , , and related options still work but are now deprecated. They will be removed in Astro 8.0.
+
+
+### Cloudflare Routing Helpers
+
+
+For teams deploying on Cloudflare Workers, now ships a helper that wires up all the Cloudflare-specific plumbing: SESSION KV binding injection, static asset serving via the ASSETS binding, , client address from , , and prerendered error pages. It works with both custom fetch handlers and Hono middleware.
+
+
+## The Performance Stack: Cosmic + Astro + Sätteri
+
+
+Here is what the full performance story looks like when you combine Cosmic with Astro 6.4:
+
+
+- **Content delivery:** Cosmic's REST API returns content in under 100ms, globally, with built-in CDN caching. Your editors update content in Cosmic's dashboard; your Astro site pulls it at build time or on-demand.
+- **Markdown processing:** Sätteri processes your Markdown and MDX at Rust speed, cutting a minute or more off large-site builds compared to the unified pipeline.
+- **Output:** Astro ships zero JavaScript by default. Every page is static HTML unless you explicitly opt into interactivity with islands. The result is some of the fastest page loads available on the web.
+
+
+No other content stack pairs these three things: a sub-100ms headless API, Rust-speed Markdown processing, and a zero-JS-by-default output format.
+
+
+## Fetching Cosmic Content in an Astro Component
+
+
+Here is a minimal example using the official Cosmic TypeScript SDK.
+
+
+First, install the SDK:
+
+
+```text
+
+
+```
+
+
+Then fetch and render your content in an Astro component:
+
+
+```text
+
+
+```
+
+
+That is all it takes. The Cosmic SDK handles authentication, caching headers, and type inference. Pair this fetch pattern with Sätteri for any local Markdown content, and you have a fully optimized content pipeline.
+
+
+> Related:[Bun + Cosmic: The Fastest JavaScript Stack in 2026](https://www.cosmicjs.com/blog/bun-cosmic-fastest-javascript-stack-2026)
+
+
+## Why This Matters for Production Sites
+
+
+Build performance compounds. On a site with hundreds or thousands of Markdown files, a one-minute reduction per build translates directly into faster CI pipelines, cheaper build minutes, and shorter time-to-publish for your content team. At scale, the choice of Markdown processor is not a footnote. It is a budget line item.
+
+
+For teams running Cosmic + Astro in production, upgrading to Sätteri is a straightforward win if you are not relying on unified plugins. And for teams evaluating headless CMS platforms, the Cosmic + Astro combination now has an even stronger performance argument than it did last week.
+
+
+## Getting Started
+
+
+Ready to build the fastest content stack available? Here is what you need:
+
+
+1. **Create a free Cosmic account** at[cosmicjs.com](https://www.cosmicjs.com/) (no credit card required).
+2. **Spin up a new Astro project** with .
+3. **Install the Cosmic SDK:** .
+4. **Optionally install Sätteri:** and configure it in .
+
+
+The free plan includes everything you need to get started: one bucket, up to 1,000 objects, and the full REST API.[Start building for free, no credit card required.](https://www.cosmicjs.com/)
+
+
+---
+
+
+*Want a guided walkthrough?[Book a demo with Tony](https://calendly.com/tonyspiro/cosmic-intro) and we will show you how teams are running Cosmic and Astro in production today.*

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "26d0c1ff0ff4b5349cd7304f614f17e7041879fdf85ffdfcd9cf0b2d8d33eb82",
+  "company": {
+    "key": "yc-doppler",
+    "name": "Doppler"
+  },
+  "source": {
+    "id": "yc-doppler-news-import-86fd2de2d678",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.doppler.com/blog/how-to-secure-mcp-servers-for-ai-agents",
+    "canonical": "https://www.doppler.com/blog/how-to-secure-mcp-servers-for-ai-agents"
+  },
+  "title": "How to secure MCP servers for AI agents",
+  "summary": "A practical guide to securing MCP servers: Get credentials off disk with runtime injection, scope one token per agent, and enforce authentication at the MCP boundary.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T01:53:43.668103+00:00",
+  "fetched_at": "2026-07-28T21:36:14.883471+00:00",
+  "last_updated_at": "2026-08-19T14:27:17.422364+00:00",
+  "paths": {
+    "article": "articles/v1/82/yc-doppler/2026/07/26/26d0c1ff0ff4b5349cd7304f614f17e7041879fdf85ffdfcd9cf0b2d8d33eb82/article.md",
+    "record": "articles/v1/82/yc-doppler/2026/07/26/26d0c1ff0ff4b5349cd7304f614f17e7041879fdf85ffdfcd9cf0b2d8d33eb82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13449,
+    "sha256": "sha256:3d489466fc2e389632c60e6bac9d1f2ec6251fb29ff735d846fae30911d89d32",
+    "normalized_content_hash": "sha256:a2ce9125345618fb1dcfeb6593e718b4df80093e86844e0703f75bd9c5915e0a"
+  },
+  "provenance": {
+    "source_item_id": "2e261945-fe3e-4392-8706-f57c2972f340",
+    "external_id": "https://www.doppler.com/blog/how-to-secure-mcp-servers-for-ai-agents"
+  }
+}

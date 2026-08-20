@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "9c453bd1f6dc8e887f4ed2f1bf4c28cd38a10c3658edca524c795d25e1a7bc76"
+company_key: "new-york-times-company-the-common-stock"
+company: "New York Times Company (The)"
+source_id: "new-york-times-company-the-common-stock-rss-077dcf020701"
+canonical_url: "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html"
+published_at: "2026-08-19T09:29:36+00:00"
+first_seen_at: "2026-08-19T10:59:46.602863+00:00"
+fetched_at: "2026-08-19T10:59:46.546784+00:00"
+content_hash: "sha256:76e72d003646cc48ce60b9f1ae517aecadd3c38dc758fad4e010a2f854431a13"
+---
+
+# Kyiv’s Dormition Cathedral is Revived after Russian Drone Strike
+
+Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration.

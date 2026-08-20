@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f0dd5f9daf66d15c3622d90a87c8c3746988b5e16cd4bfb06999e60836b6c6b",
+  "company": {
+    "key": "weave-communications-inc-common-stock",
+    "name": "Weave Communications Inc."
+  },
+  "source": {
+    "id": "weave-communications-inc-common-stock-rss-cb397ff18858",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.getweave.com/post/go-jwt-2/",
+    "canonical": "https://engineering.getweave.com/post/go-jwt-2/"
+  },
+  "title": "Distributed Auth With Go: From JWT to HTTP to gRPC - Part 2",
+  "summary": "This part includes the creation of Authentication, HTTP, and gRPC services that use JWT for distributed authentication",
+  "published_at": "2022-05-01T18:26:46+00:00",
+  "first_seen_at": "2026-07-20T23:19:36.973215+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-07-28T21:04:44.367696+00:00",
+  "paths": {
+    "article": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/5f/5f0dd5f9daf66d15c3622d90a87c8c3746988b5e16cd4bfb06999e60836b6c6b/article.md",
+    "record": "articles/v1/aa/weave-communications-inc-common-stock/2022/05/5f/5f0dd5f9daf66d15c3622d90a87c8c3746988b5e16cd4bfb06999e60836b6c6b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26920,
+    "sha256": "sha256:1ad4de6b1f83b1a892bf5ff4c12fb7823eb75a71562345fb0d9aa50db5ad39b8",
+    "normalized_content_hash": "sha256:153850bbff2eee1afeeba472b6580bdb0d1e72e5090668223d72b9e477f5c16f"
+  },
+  "provenance": {
+    "source_item_id": "77e980f0-5428-43fb-a36b-129ddd29eb8f",
+    "external_id": "https://engineering.getweave.com/post/go-jwt-2/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2feff3dc8bd31df4b6c433f84794db8899fa080224af996d503ed5eab16ee5fe",
+  "company": {
+    "key": "yc-lago",
+    "name": "Lago"
+  },
+  "source": {
+    "id": "yc-lago-news-import-cc6c03d3f684",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getlago.com/blog/rest-api-design-guide-for-billing-best-practices-2026",
+    "canonical": "https://getlago.com/blog/rest-api-design-guide-for-billing-best-practices-2026"
+  },
+  "title": "REST API Design Guide for Billing: Best Practices 2026",
+  "summary": "Building a robust REST API for billing systems requires careful attention to endpoint patterns, authentication mechanisms, error handling strategies, and API versioning approaches. According to recent API governance research, 68% of API failures in production stem from inadequate design decisions made during the architectural phase rather than implementation bugs [1]. This guide explores proven best practices for designing billing REST APIs that scale reliably, maintain backward compatibility, a",
+  "published_at": "2026-03-30T08:13:12+00:00",
+  "first_seen_at": "2026-07-25T11:29:02.565124+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-08-19T16:09:29.517908+00:00",
+  "paths": {
+    "article": "articles/v1/bf/yc-lago/2026/03/2f/2feff3dc8bd31df4b6c433f84794db8899fa080224af996d503ed5eab16ee5fe/article.md",
+    "record": "articles/v1/bf/yc-lago/2026/03/2f/2feff3dc8bd31df4b6c433f84794db8899fa080224af996d503ed5eab16ee5fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31637,
+    "sha256": "sha256:354e401152f82d8ac40473012404b0d8bc4eb7db5105c9b0b929fb123541d378",
+    "normalized_content_hash": "sha256:4612bc3137506607c9f94d8d726e182c0cac9648f7b1009ca0a0d14af2627b1e"
+  },
+  "provenance": {
+    "source_item_id": "b4665531-bcca-43e2-8ecd-3f0bb2afdbe7",
+    "external_id": "https://getlago.com/blog/rest-api-design-guide-for-billing-best-practices-2026"
+  }
+}

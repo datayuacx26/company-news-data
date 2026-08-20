@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "72642a46077c63133d36e9731a9d6fe2437fb2b2abc7b4dec947813a1d1668fc",
+  "company": {
+    "key": "yc-lightly",
+    "name": "Lightly"
+  },
+  "source": {
+    "id": "yc-lightly-news-import-b9754ffe9935",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lightly.ai/blog/large-vision-models",
+    "canonical": "https://lightly.ai/blog/large-vision-models"
+  },
+  "title": "The Engineer's Guide to Large Vision Models",
+  "summary": "The Engineer's Guide to Large Vision Models explores the shift from traditional CNNs to massive Transformer-based architectures like ViT, SAM2, and AIMv2. It provides a technical breakdown of how these models leverage self-supervised learning and multimodal fusion to outperform humans in tasks ranging from zero-shot object detection to complex reasoning in Gemini 2.5 Pro. For ML engineers, this guide serves as a roadmap for navigating 2026’s landscape of high-resolution video understanding and efficient domain adaptation.",
+  "published_at": "2026-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:25:05.125057+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T17:27:18.778367+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-lightly/2026/05/72/72642a46077c63133d36e9731a9d6fe2437fb2b2abc7b4dec947813a1d1668fc/article.md",
+    "record": "articles/v1/b1/yc-lightly/2026/05/72/72642a46077c63133d36e9731a9d6fe2437fb2b2abc7b4dec947813a1d1668fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24018,
+    "sha256": "sha256:61ffa1ae5398b5ac0d37f48ed39f776505ff31301dcacbf36235948659116582",
+    "normalized_content_hash": "sha256:d2eb266290a1c998e6f24d87512cbd8f0175f457f8879f51e2bbc2da2763b71b"
+  },
+  "provenance": {
+    "source_item_id": "2e919536-4caf-47e0-9d74-a70f28af24c6",
+    "external_id": "https://lightly.ai/blog/large-vision-models"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67ae12d637b74fd38c461194bf78b242fafc3525a2ed1cc7f10d8408b5ac291a",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-71d6805fc9e1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/",
+    "canonical": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"
+  },
+  "title": "Investigate every security event with an AI agent, without the frontier bill",
+  "summary": "Learn how Datadog built Mambark, a small state-space model that scores every security event and enables AI agents to investigate only the events that matter.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T15:43:26.260226+00:00",
+  "fetched_at": "2026-07-28T20:31:35.420648+00:00",
+  "last_updated_at": "2026-08-20T01:12:18.577455+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/67/67ae12d637b74fd38c461194bf78b242fafc3525a2ed1cc7f10d8408b5ac291a/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/07/67/67ae12d637b74fd38c461194bf78b242fafc3525a2ed1cc7f10d8408b5ac291a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12961,
+    "sha256": "sha256:da601eb9de7a1e6a04c2f6a21f2d5e459cacfefee1193b09b6c64e0c72f8a709",
+    "normalized_content_hash": "sha256:5c1ca9c2ad72ea8fa654f13196386fa032a70cf8a22dd836fe6de57b7798e12d"
+  },
+  "provenance": {
+    "source_item_id": "220f21a3-f7b1-4926-986e-ad39a6c75221",
+    "external_id": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/"
+  }
+}

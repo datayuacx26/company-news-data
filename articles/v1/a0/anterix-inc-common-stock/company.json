@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "anterix-inc-common-stock",
+    "name": "Anterix Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-04-08T12:30:00+00:00",
+  "last_published_at": "2026-08-11T20:05:19+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a0/anterix-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 15374,
+        "sha256": "sha256:673b19cad013b25c757a0524517427b8b69c202064f4f317515d4da70e1a9b86",
+        "newest_at": "2026-08-11T20:05:19+00:00",
+        "oldest_at": "2026-04-08T12:30:00+00:00"
+      }
+    ]
+  }
+}

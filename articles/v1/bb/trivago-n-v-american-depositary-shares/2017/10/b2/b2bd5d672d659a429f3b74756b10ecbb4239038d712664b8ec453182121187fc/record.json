@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2bd5d672d659a429f3b74756b10ecbb4239038d712664b8ec453182121187fc",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2017-10-16-boerewors/",
+    "canonical": "https://tech.trivago.com/post/2017-10-16-boerewors/"
+  },
+  "title": "How we got rid of 5k lines of our bash release process",
+  "summary": "When I joined trivago a year ago, we had problems with our releases. The traffic was increasing each day. When we put the server back into the load balancer without warming up the OPcache it wou...",
+  "published_at": "2017-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:25.846890+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2017/10/b2/b2bd5d672d659a429f3b74756b10ecbb4239038d712664b8ec453182121187fc/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2017/10/b2/b2bd5d672d659a429f3b74756b10ecbb4239038d712664b8ec453182121187fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17486,
+    "sha256": "sha256:96ff5deef91a118b8ea778d0f121314c902126730ecf72104aa068d625bb4532",
+    "normalized_content_hash": "sha256:884e69bf6ddb5043e879fc0e7dda329a2fd2fd850b51cc1f96ef345da3411d5c"
+  },
+  "provenance": {
+    "source_item_id": "752a5366-e8c4-479f-a007-000a347c211c",
+    "external_id": "https://tech.trivago.com/post/2017-10-16-boerewors/"
+  }
+}

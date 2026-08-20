@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "wex-inc-common-stock",
+    "name": "WEX Inc."
+  },
+  "record_count": 53,
+  "first_published_at": "2023-11-01T18:02:47+00:00",
+  "last_published_at": "2026-08-18T16:17:01+00:00",
+  "partitions": [
+    {
+      "partition": "2023-11",
+      "record_count": 11
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 16
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a7/wex-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55161,
+        "sha256": "sha256:76f84fade7d961b0ffbe12a798dfd623254ea2f374851e92e5f5c396d9ebce13",
+        "newest_at": "2026-08-18T16:17:01+00:00",
+        "oldest_at": "2023-11-02T16:46:06+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/a7/wex-inc-common-stock/index/pages/000002.json",
+        "record_count": 3,
+        "byte_count": 3127,
+        "sha256": "sha256:ad0d42cbf6a63e7b452bf4e82191f17ad09ded2e5b6bd718c0cba17d1799c781",
+        "newest_at": "2023-11-01T18:21:43+00:00",
+        "oldest_at": "2023-11-01T18:02:47+00:00"
+      }
+    ]
+  }
+}

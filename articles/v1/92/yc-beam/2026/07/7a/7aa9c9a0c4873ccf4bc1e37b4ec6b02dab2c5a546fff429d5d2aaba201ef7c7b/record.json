@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7aa9c9a0c4873ccf4bc1e37b4ec6b02dab2c5a546fff429d5d2aaba201ef7c7b",
+  "company": {
+    "key": "yc-beam",
+    "name": "Beam"
+  },
+  "source": {
+    "id": "yc-beam-news-import-8ae061011ee3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.beam.cloud/blog/sandboxes-reinforcement-learning",
+    "canonical": "https://www.beam.cloud/blog/sandboxes-reinforcement-learning"
+  },
+  "title": "Sandboxes for Reinforcement Learning",
+  "summary": "Run RL environments as isolated sandboxes: snapshot once, fan out thousands of parallel rollouts, and score verifiable rewards.",
+  "published_at": "2026-07-05T22:13:32+00:00",
+  "first_seen_at": "2026-07-22T21:28:59.137691+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-19T18:11:14.704688+00:00",
+  "paths": {
+    "article": "articles/v1/92/yc-beam/2026/07/7a/7aa9c9a0c4873ccf4bc1e37b4ec6b02dab2c5a546fff429d5d2aaba201ef7c7b/article.md",
+    "record": "articles/v1/92/yc-beam/2026/07/7a/7aa9c9a0c4873ccf4bc1e37b4ec6b02dab2c5a546fff429d5d2aaba201ef7c7b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10814,
+    "sha256": "sha256:e48fd3a243be7ba4b1726ae6b51851d6e65389abcf846dba327e32cbcd94a1c0",
+    "normalized_content_hash": "sha256:967a82ef5b406a04cd9b6b96f00914ccb0774c699cad3f26fa0beb7fbf938ae9"
+  },
+  "provenance": {
+    "source_item_id": "74400b61-e17c-4d04-acd6-d30f64bc7390",
+    "external_id": "https://www.beam.cloud/blog/sandboxes-reinforcement-learning"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3437061ff90dabfc0534ed2bbc1f9b8e1f33e751e5bc1fab0cd5801a84b5f995",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/ai-agent-cost-reduction-decision-loop",
+    "canonical": "https://jinba.io/blog/ai-agent-cost-reduction-decision-loop"
+  },
+  "title": "How to Cut AI Agent Cost Per Task by 60x",
+  "summary": "Enterprises are capping engineer budgets at $1,500/month and burning annual AI budgets in four months — not because tokens are expensive, but because stochastic agents generate 5–30x more of them per task than necessary. Replacing decision loops with rule-based execution cuts AI agent cost per task by up to 60x. Primary-data comparison across Gartner, Forrester, Layer3Labs, and Hackernoon included.",
+  "published_at": "2026-08-17T12:40:43.069+00:00",
+  "first_seen_at": "2026-08-18T04:43:40.400777+00:00",
+  "fetched_at": "2026-08-18T04:43:41.951356+00:00",
+  "last_updated_at": "2026-08-20T00:02:43.534284+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/08/34/3437061ff90dabfc0534ed2bbc1f9b8e1f33e751e5bc1fab0cd5801a84b5f995/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/08/34/3437061ff90dabfc0534ed2bbc1f9b8e1f33e751e5bc1fab0cd5801a84b5f995/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20320,
+    "sha256": "sha256:fc778f22e8b9c18e07c2db6d9394d285888fc17169479020c568967c227017d1",
+    "normalized_content_hash": "sha256:dd6dc264b3f2fcf6e534dcb773ccbe59aef2269b7bc3d3186f70a484c80d9ddb"
+  },
+  "provenance": {
+    "source_item_id": "d248d83c-8139-44a5-a0e1-c08146959ee1",
+    "external_id": "https://jinba.io/blog/ai-agent-cost-reduction-decision-loop"
+  }
+}

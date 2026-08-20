@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c02c348442b6adc4cd9302247b33444519bfd77eac76493b355687f571d027d6",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/persist-state-local-storage-react/",
+    "canonical": "https://blog.openreplay.com/persist-state-local-storage-react/"
+  },
+  "title": "How to Persist State in Local Storage with React",
+  "summary": "Persist React state in localStorage with a reusable hook: lazy useState init, JSON try/catch, SSR guards, and cross-tab sync.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T12:44:22.742634+00:00",
+  "fetched_at": "2026-08-14T12:44:24.576878+00:00",
+  "last_updated_at": "2026-08-19T22:39:41.923610+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/c0/c02c348442b6adc4cd9302247b33444519bfd77eac76493b355687f571d027d6/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/c0/c02c348442b6adc4cd9302247b33444519bfd77eac76493b355687f571d027d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17099,
+    "sha256": "sha256:a743867073113a54d85bdc2d857d7b6b098cad880fd02b9dc0a876e11d8f4acd",
+    "normalized_content_hash": "sha256:c776f867c56bf1cc38524585ee492db5b783b593c709792cda2f528d118c2cd5"
+  },
+  "provenance": {
+    "source_item_id": "972d825d-7863-432a-b32f-c614ce407ae8",
+    "external_id": "https://blog.openreplay.com/persist-state-local-storage-react/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e00795e5bbb54e4db7981f7deca8177bebb3d4936ee794f8d68176a5b6cd344f",
+  "company": {
+    "key": "yc-courier",
+    "name": "Courier"
+  },
+  "source": {
+    "id": "yc-courier-news-import-df9818472bef",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.courier.com/blog/dont-build-your-own-infrastructure",
+    "canonical": "https://www.courier.com/blog/dont-build-your-own-infrastructure"
+  },
+  "title": "You can build anything now. That's exactly why you shouldn't build this.",
+  "summary": "AI made building cheap, but owning infrastructure still costs your scarcest resource: attention. Build less, buy the platform, let an agent run it.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T00:50:30.955928+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-07-28T21:39:38.559331+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-courier/2026/07/e0/e00795e5bbb54e4db7981f7deca8177bebb3d4936ee794f8d68176a5b6cd344f/article.md",
+    "record": "articles/v1/8d/yc-courier/2026/07/e0/e00795e5bbb54e4db7981f7deca8177bebb3d4936ee794f8d68176a5b6cd344f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5142,
+    "sha256": "sha256:f555aec0a61b7015a55013367b446d395bed7f4cbbe27eed7a77333e4834bcde",
+    "normalized_content_hash": "sha256:14ce6e565b4d96986cfe7664271ab6e2ffd935e7b635e28ec7daa4b519b1ee1d"
+  },
+  "provenance": {
+    "source_item_id": "40df7b80-b3d6-454f-b4eb-55673febaad2",
+    "external_id": "https://www.courier.com/blog/dont-build-your-own-infrastructure"
+  }
+}

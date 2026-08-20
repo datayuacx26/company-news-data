@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dc23537f9a33c585db11551a8d119c25b21151f7db9069be154979bc37c1e09a",
+  "company": {
+    "key": "yc-winfunc",
+    "name": "winfunc"
+  },
+  "source": {
+    "id": "yc-winfunc-rss-7ebe4d6da681",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://winfunc.com/hacktivity/anthropic-fastmcp-auth-bypass",
+    "canonical": "https://winfunc.com/hacktivity/anthropic-fastmcp-auth-bypass"
+  },
+  "title": "Authentication bypass on FastMCP custom routes",
+  "summary": "FastMCP.customroute() allows developers to mount arbitrary HTTP handlers intended for sensitive use cases such as OAuth callbacks or admin APIs, but it…",
+  "published_at": "2025-01-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.938183+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:44:51.625533+00:00",
+  "paths": {
+    "article": "articles/v1/96/yc-winfunc/2025/01/dc/dc23537f9a33c585db11551a8d119c25b21151f7db9069be154979bc37c1e09a/article.md",
+    "record": "articles/v1/96/yc-winfunc/2025/01/dc/dc23537f9a33c585db11551a8d119c25b21151f7db9069be154979bc37c1e09a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6027,
+    "sha256": "sha256:17641e5270504092e741c860a71e8e4f5f01162a066d435ff6f09955e85458d8",
+    "normalized_content_hash": "sha256:85add2823a30010d32dcd380a37b83fba1cc53d4d72f49ff41012189a0de2c23"
+  },
+  "provenance": {
+    "source_item_id": "cf56b696-1443-4e30-b85f-0a76deb66281",
+    "external_id": "https://winfunc.com/hacktivity/anthropic-fastmcp-auth-bypass"
+  }
+}

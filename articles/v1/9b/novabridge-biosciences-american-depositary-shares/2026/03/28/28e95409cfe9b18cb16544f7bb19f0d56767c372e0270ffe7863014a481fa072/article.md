@@ -1,0 +1,98 @@
+---
+schema_version: "1.0.0"
+document_id: "28e95409cfe9b18cb16544f7bb19f0d56767c372e0270ffe7863014a481fa072"
+company_key: "novabridge-biosciences-american-depositary-shares"
+company: "NovaBridge Biosciences"
+source_id: "novabridge-biosciences-american-depositary-shares-rss-12ee56924849"
+canonical_url: "https://www.novabridge.com/news-releases/news-release-details/novabridge-announces-productive-fda-type-b-meeting-potential"
+published_at: "2026-03-16T11:00:00+00:00"
+first_seen_at: "2026-07-27T04:01:55.459534+00:00"
+fetched_at: "2026-07-28T22:00:56.367665+00:00"
+content_hash: "sha256:c1ff35f9577e411ecba07191e359a9a97db9e16ac5f72666f6d03b2cd3cce748"
+---
+
+# NovaBridge Announces Productive FDA Type B Meeting on Potential Accelerated Approval Pathway for Givastomig in Gastric Cancer
+
+## NovaBridge Announces Productive FDA Type B Meeting on Potential Accelerated Approval Pathway for Givastomig in Gastric Cancer
+
+
+March 16, 2026
+
+
+[PDF Version](https://www.novabridge.com/node/10776/pdf)
+
+
+- FDA confirmed givastomig’s potential eligibility for an accelerated approval pathway
+- NovaBridge expects to initiate a registrational Phase 3 combination trial as early as Q4 2026, using objective response rate (ORR) as a primary endpoint for accelerated approval
+- Givastomig, a bispecific Claudin 18.2 X 4-1BB antibody, has the potential to be a first-in-class and best-in-class first line (1L) Claudin 18.2 (CLDN 18.2) therapeutic in Her-2 negative (Her2-), CLDN 18.2 positive (CLDN 18.2+), PD-L1-positive (PD-L1+) gastroesophageal cancer (GEC)
+
+
+ROCKVILLE, Md., March 16, 2026 (GLOBE NEWSWIRE) -- NovaBridge Biosciences (Nasdaq: NBP) (“NovaBridge” or the “Company”), a global biotechnology platform company committed to accelerating access to innovative medicines, today announced that based on a productive Type B meeting with the U.S. Food and Drug Administration (the “FDA”) and receipt of written minutes, NovaBridge has secured FDA alignment on givastomig’s potential eligibility for an accelerated approval pathway in 1L Her2-, CLDN 18.2+, PD-L1+ GEC patients, building on positive data from the Phase 1b combination trial. The Company intends to initiate a registrational Phase 3 trial, in combination with immunochemotherapy, as early as Q4 2026. Final study design details will be discussed with FDA.
+
+
+“We are thrilled to receive the positive feedback from FDA confirming givastomig’s eligibility for an accelerated approval pathway,” said **Phillip Dennis, MD, PhD, Chief Medical Officer of NovaBridge** . “This important regulatory milestone builds on compelling Phase 1b givastomig results that showed robust efficacy and favorable overall tolerability, with marked improvement relative to historical benchmarks for the standard of care in cross trial comparisons. Givastomig has the potential to be a first-in-class and best-in-class Claudin 18.2 therapeutic for gastric cancer in combination with immunochemotherapy. We are looking forward to continuing our discussions with FDA and to bringing givastomig to patients as quickly as possible.”
+
+
+**About the Givastomig Phase 1b Dose Escalation and Expansion Combination Study in 1L Gastric Cancer**
+
+
+The Phase 1b dose expansion data (per the Company’s January 6, 2026 press release) showed that givastomig, dosed at 8 mg/kg every two weeks (Q2W) and 12 mg/kg Q2W, produced:
+
+
+- Robust efficacy, with a **75% objective response rate (ORR)** (77% ORR observed at 8 mg/kg, 73% ORR observed at 12 mg/kg, n=52 evaluable)
+- **Responses** **across a wide range of PD-L1 and CLDN18.2** expression levels
+- Durable responses with **16.9-month mPFS (median progression free survival) and an 82% 6-month landmark PFS rate** (n=53 evaluable)
+- **Good overall tolerability** in combination with immunochemotherapy, **without dose dependent toxicity**
+
+
+Detailed Phase 1b expansion data are expected to be presented at a major medical conference in H2 2026.
+
+
+**About Givastomig**
+
+
+Givastomig (TJ033721 / ABL111) is a bispecific antibody targeting Claudin 18.2 (CLDN18.2)-positive (CLDN 18.2+) tumor cells. It conditionally activates T cells through the 4-1BB signaling pathway in the tumor microenvironment where CLDN18.2 is expressed. Givastomig is being developed for potential treatment of gastric cancer and other Claudin 18.2+ gastrointestinal malignancies. In Phase 1 trials, givastomig has shown promising anti-tumor activity attributable to a potential synergistic effect of the proximal interaction between CLDN18.2 on tumor cells and 4-1BB on T cells in the tumor microenvironment, while minimizing toxicities commonly seen with other 4-1BB agents.
+
+
+Givastomig is being jointly developed through a global partnership with ABL Bio, in which NovaBridge is the lead party and shares worldwide rights, excluding Greater China and South Korea, equally with ABL Bio.
+
+
+**About NovaBridge**
+
+
+NovaBridge is a global biotechnology platform company committed to accelerating access to innovative medicines. The Company combines deep business development expertise with agile translational clinical development to identify, accelerate, and advance breakthrough assets. By bridging science, strategy, and execution, NovaBridge enables transformative therapies to progress rapidly from discovery toward patients in need.
+
+
+The Company’s differentiated pipeline is led by givastomig, a potential best-in-class, Claudin 18.2 X 4-1BB bispecific antibody, and VIS-101, purpose-designed to be a best-in-class dual VEGF-A X ANG-2 inhibitor.
+
+
+Givastomig conditionally activates T cells via the 4-1BB signaling pathway in the tumor microenvironment where Claudin 18.2 is expressed. Givastomig is being developed to treat Claudin 18.2-positive gastric cancer and other gastrointestinal malignancies. The product candidate is being evaluated in a global, randomized Phase 2 study, following the recent announcement of positive topline results from a Phase 1b, multi-center, open label study in first line gastric cancer. The Company is also collaborating with its partner, ABL Bio, for the development of ragistomig, a bispecific antibody integrating PD-L1 as a tumor engager and 4-1BB as a conditional T cell activator, in solid tumors. Additionally, NovaBridge owns worldwide rights outside of China to uliledlimab, an anti-CD73 antibody that targets adenosine-driven immunosuppression in cancer.
+
+
+VIS-101 targets VEGF-A and ANG-2 to provide more rapid, robust and durable treatment responses for patients with retinal vascular diseases including wet age-related macular degeneration, diabetic macular edema, and retinal vein occlusion. VIS-101 has completed a randomized, dose-ranging Phase 2a study for wet AMD and expects to initiate a Phase 2b study in H2 2026. NovaBridge is the majority shareholder of Visara, Inc., and Visara controls global rights to VIS-101, outside of Greater China and certain countries in Asia.
+
+
+For more information, please visit[www.novabridge.com](https://www.globenewswire.com/Tracker?data=_I8Rguavpnosmf1e3CymcXWGvKvT023LSynpcrAiCHf2w8FTVsjn9MdFTl4Ws8Obe56xWauemr4yqzgwyPeVqr0gVzC7JF2c-xaE1KGq1rk=) and follow us on LinkedIn.
+
+
+**Forward Looking Statements**
+
+
+This announcement contains forward-looking statements. These statements are made under the “safe harbor” provisions of the U.S. Private Securities Litigation Reform Act of 1995. These forward-looking statements can be identified by terminology such as “will”, “expects”, “believes”, “designed to”, “anticipates”, “future”, “intends”, “plans”, “potential”, “estimates”, “confident”, and similar terms or the negative thereof. NovaBridge may also make written or oral forward-looking statements in its periodic reports to the U.S. Securities and Exchange Commission (the SEC), in its annual report to shareholders, in press releases and other written materials and in oral statements made by its officers, directors or employees to third parties. Statements that are not historical facts, including statements about the Company’s beliefs and expectations, are forward-looking statements. Forward-looking statements in this press release include, without limitation, statements regarding: the strategy, clinical development, plans, results, safety and efficacy for givastomig, VIS-101 and its other drug candidates; the strategic and clinical development of NovaBridge’s drug candidates, including givastomig, ragistomig, uliledlimab, and VIS-101; anticipated clinical milestones and results, and related timing. Forward-looking statements involve inherent risks and uncertainties that may cause actual results to differ materially from those contained in these forward-looking statements, including but not limited to the following: the Company’s ability to demonstrate the safety and efficacy of its drug candidates; the clinical results for its drug candidates, which may or may not support further development or New Drug Application/Biologics License Application (NDA/BLA) approval or Accelerated Approval; the content and timing of decisions made by the relevant regulatory authorities, including the FDA, regarding regulatory approval of the Company’s drug candidates; the Company’s ability to achieve commercial success for its drug candidates, if approved; the Company’s ability to obtain and maintain protection of intellectual property for its technology and drugs; the Company’s reliance on third parties to conduct drug development, manufacturing and other services; the Company’s limited operating history and the Company’s ability to obtain additional funding for operations and to complete the development and commercialization of its drug candidates; and those risks more fully discussed in the “Risk Factors” section in the Company’s annual report on Form 20-F filed with the SEC on April 3, 2025 as well as the discussions of potential risks, uncertainties, and other important factors in the Company’s subsequent filings with the SEC. All forward-looking statements are based on information currently available to the Company. The Company undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as may be required by law.
+
+
+**NovaBridge Investor & Media Contacts**
+
+
+PJ Kelleher
+LifeSci Advisors
++1-617-430-7579
+[pkelleher@lifesciadvisors.com](https://www.globenewswire.com/Tracker?data=rrAClUKgaz2C2CvGIeLvqwvuC9uNrvr9GfaoXoIOQylXDby-nRrM4Qs1RnB0V1M9NJjjZx__oBzFFSkvgh-ej2l8SWJv0H_Dnlk6c0st-s1sGN-DxyzbO4kiUpekfqMp)
+
+
+NovaBridge Biosciences
++1-240-745-6330
+[IR@novabridge.com](https://www.globenewswire.com/Tracker?data=q-5CRoMzNAInU6Pv2wZWGZC2WvGBh9AO9czPGK9Y3QffONlYtV1e0osMyiwzaYYHcbHU_duaQ3G2q4O5WY11rzNk1cF3ssDDM0KvT5oj-Fk=)
+
+
+Source: NovaBridge Biosciences

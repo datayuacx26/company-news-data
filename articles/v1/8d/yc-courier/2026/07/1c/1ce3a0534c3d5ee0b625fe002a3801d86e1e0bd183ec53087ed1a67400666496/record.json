@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ce3a0534c3d5ee0b625fe002a3801d86e1e0bd183ec53087ed1a67400666496",
+  "company": {
+    "key": "yc-courier",
+    "name": "Courier"
+  },
+  "source": {
+    "id": "yc-courier-news-import-df9818472bef",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.courier.com/blog/courier-skills",
+    "canonical": "https://www.courier.com/blog/courier-skills"
+  },
+  "title": "Courier Skills: teach your AI agent to build with Courier",
+  "summary": "One npx command installs verified Courier knowledge into Claude Code, Cursor, Codex, or whatever agent you run. Exact payload shapes and failure modes.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T10:01:06.714121+00:00",
+  "fetched_at": "2026-07-30T10:01:08.550502+00:00",
+  "last_updated_at": "2026-08-20T01:03:37.244190+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-courier/2026/07/1c/1ce3a0534c3d5ee0b625fe002a3801d86e1e0bd183ec53087ed1a67400666496/article.md",
+    "record": "articles/v1/8d/yc-courier/2026/07/1c/1ce3a0534c3d5ee0b625fe002a3801d86e1e0bd183ec53087ed1a67400666496/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10510,
+    "sha256": "sha256:3569c994470e3801942fbdb19218e26e71e8920e4d761949f6a85202f03399d8",
+    "normalized_content_hash": "sha256:5bd2da722ef7f24e9fb9a1c0b5b0d07e857d0fdab2fdab6c790ab0ca9ab640e4"
+  },
+  "provenance": {
+    "source_item_id": "d1443f0e-b32f-49ae-80d7-fc357813cece",
+    "external_id": "https://www.courier.com/blog/courier-skills"
+  }
+}

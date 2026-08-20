@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "37686516da5d59b26f913987f61d3c5d24e744ed278ec73e8cfc071bf29c12cd",
+  "company": {
+    "key": "yc-medplum",
+    "name": "Medplum"
+  },
+  "source": {
+    "id": "yc-medplum-atom-baaaecda9acc",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://www.medplum.com/blog/medplum-performance-test-2026",
+    "canonical": "https://www.medplum.com/blog/medplum-performance-test-2026"
+  },
+  "title": "Medplum Self-Hosted Performance Benchmarks",
+  "summary": "One of the most common questions we hear from teams evaluating Medplum is: \"Can it handle our scale?\" We wanted to answer that question with real data. We recently ran a formal performance evaluation against a self-hosted Medplum deployment that mirrors one of our largest production clusters, and the results speak for themselves - peak throughput exceeding 46,000 requests per second for read-only traffic and nearly 7,000 requests per second for full read/write/search FHIR workflows, with zero HTTP failures across all scenarios.",
+  "published_at": "2026-03-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.588032+00:00",
+  "fetched_at": "2026-07-28T22:17:07.377837+00:00",
+  "last_updated_at": "2026-08-20T02:35:00.277855+00:00",
+  "paths": {
+    "article": "articles/v1/8d/yc-medplum/2026/03/37/37686516da5d59b26f913987f61d3c5d24e744ed278ec73e8cfc071bf29c12cd/article.md",
+    "record": "articles/v1/8d/yc-medplum/2026/03/37/37686516da5d59b26f913987f61d3c5d24e744ed278ec73e8cfc071bf29c12cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6123,
+    "sha256": "sha256:e5f62d49a294bcf5c33ad86bfa8fcf717cd08dab8821b36850b6028818fcf922",
+    "normalized_content_hash": "sha256:4f3dce3907fdcc4e18ab7f952ce002b2c97210e858cb511e64ba44a318fc24cc"
+  },
+  "provenance": {
+    "source_item_id": "9a402a07-3c77-4a7c-a6e6-675bb866f5aa",
+    "external_id": "https://www.medplum.com/blog/medplum-performance-test-2026"
+  }
+}

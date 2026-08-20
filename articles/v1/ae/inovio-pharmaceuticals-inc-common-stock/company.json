@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "inovio-pharmaceuticals-inc-common-stock",
+    "name": "Inovio Pharmaceuticals Inc."
+  },
+  "record_count": 14,
+  "first_published_at": "2026-03-09T12:05:00+00:00",
+  "last_published_at": "2026-08-12T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/inovio-pharmaceuticals-inc-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 26896,
+        "sha256": "sha256:2a94f784fc6d6f607ee747e1b4eaf0a242c1498f2ab10fee505ec9fe3018ff5d",
+        "newest_at": "2026-08-12T20:05:00+00:00",
+        "oldest_at": "2026-03-09T12:05:00+00:00"
+      }
+    ]
+  }
+}

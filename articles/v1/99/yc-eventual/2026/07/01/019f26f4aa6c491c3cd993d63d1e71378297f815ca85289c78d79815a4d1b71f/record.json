@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "019f26f4aa6c491c3cd993d63d1e71378297f815ca85289c78d79815a4d1b71f",
+  "company": {
+    "key": "yc-eventual",
+    "name": "Eventual"
+  },
+  "source": {
+    "id": "yc-eventual-news-import-1ca85739ec11",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.eventual.ai/blog/announcing-daft-physical-ai",
+    "canonical": "https://www.eventual.ai/blog/announcing-daft-physical-ai"
+  },
+  "title": "Turning robot video into training-ready data with daft-physical-ai",
+  "summary": "A Python library built on Daft for turning robot video into training-ready data, starting with hand tracking and reward scoring as UDFs, with more to come.",
+  "published_at": "2026-07-20T08:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:47:26.048705+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-20T01:29:00.224908+00:00",
+  "paths": {
+    "article": "articles/v1/99/yc-eventual/2026/07/01/019f26f4aa6c491c3cd993d63d1e71378297f815ca85289c78d79815a4d1b71f/article.md",
+    "record": "articles/v1/99/yc-eventual/2026/07/01/019f26f4aa6c491c3cd993d63d1e71378297f815ca85289c78d79815a4d1b71f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5449,
+    "sha256": "sha256:5f2b7ae0795e5efdb3fa1515ca8ff31a1c9755031e8eb8b0e9cdc6084ad5d77c",
+    "normalized_content_hash": "sha256:d628962538401dc43c2756599a90ea3cabe579ef919e5c44d6611275e95739b6"
+  },
+  "provenance": {
+    "source_item_id": "5a91266a-a175-4982-b334-c44ca3d2a2a9",
+    "external_id": "https://www.eventual.ai/blog/announcing-daft-physical-ai"
+  }
+}

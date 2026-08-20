@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f7206ecde1ab2e5f8507b6b2d6b6890e59956d5aa5c462cf973465257f6f3546",
+  "company": {
+    "key": "yc-laminar",
+    "name": "Laminar"
+  },
+  "source": {
+    "id": "yc-laminar-news-import-4ade4fae8778",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://laminar.sh/article/agent-observability",
+    "canonical": "https://laminar.sh/article/agent-observability"
+  },
+  "title": "Agent Observability: Tracing, Debugging, and Improving AI Agents",
+  "summary": "Agent observability explained: what to trace, how OpenTelemetry fits, why transcripts beat span trees, and how Laminar closes the debug-to-eval loop.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:53:16.367078+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T17:35:15.554287+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-laminar/2026/05/f7/f7206ecde1ab2e5f8507b6b2d6b6890e59956d5aa5c462cf973465257f6f3546/article.md",
+    "record": "articles/v1/89/yc-laminar/2026/05/f7/f7206ecde1ab2e5f8507b6b2d6b6890e59956d5aa5c462cf973465257f6f3546/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18953,
+    "sha256": "sha256:22f49c4961f37f58561eca805771ac7cbd59e0c2f39df8f1ca40df38b499326f",
+    "normalized_content_hash": "sha256:6cda8e7c18f6be4a071b3b03b157a37ee7e632ffb2eb45bf243a2539e1d81db2"
+  },
+  "provenance": {
+    "source_item_id": "45751ae9-dd33-4326-acc6-b29e11531cda",
+    "external_id": "https://laminar.sh/article/agent-observability"
+  }
+}

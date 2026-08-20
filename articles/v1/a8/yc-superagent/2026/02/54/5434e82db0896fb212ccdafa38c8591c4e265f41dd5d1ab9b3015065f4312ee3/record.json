@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5434e82db0896fb212ccdafa38c8591c4e265f41dd5d1ab9b3015065f4312ee3",
+  "company": {
+    "key": "yc-superagent",
+    "name": "Superagent"
+  },
+  "source": {
+    "id": "yc-superagent-news-import-3c33ed06ece7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.superagent.sh/blog/cline-incident-broken-security-model",
+    "canonical": "https://www.superagent.sh/blog/cline-incident-broken-security-model"
+  },
+  "title": "The Cline Incidents and the Broken Security Model",
+  "summary": "Two Cline security incidents expose the same flaw: AI agents treat untrusted content as instructions. Why the current security model for AI agents is fundamentally broken.",
+  "published_at": "2026-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:47:34.464363+00:00",
+  "fetched_at": "2026-07-28T22:19:43.789522+00:00",
+  "last_updated_at": "2026-08-19T23:41:00.202139+00:00",
+  "paths": {
+    "article": "articles/v1/a8/yc-superagent/2026/02/54/5434e82db0896fb212ccdafa38c8591c4e265f41dd5d1ab9b3015065f4312ee3/article.md",
+    "record": "articles/v1/a8/yc-superagent/2026/02/54/5434e82db0896fb212ccdafa38c8591c4e265f41dd5d1ab9b3015065f4312ee3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5050,
+    "sha256": "sha256:3be365d0f6a6a580913a3b51256493e94612a960e569bd8b7c12370693d63de1",
+    "normalized_content_hash": "sha256:4529354ae0b6217cb656e3ae4213fb2be2410fcdcfe197a614f5bf55d96a630d"
+  },
+  "provenance": {
+    "source_item_id": "de10244e-736d-44f5-a9ec-14529ebe749a",
+    "external_id": "https://www.superagent.sh/blog/cline-incident-broken-security-model"
+  }
+}

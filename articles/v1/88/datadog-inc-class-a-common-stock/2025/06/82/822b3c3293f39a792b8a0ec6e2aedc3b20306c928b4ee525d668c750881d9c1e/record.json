@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "822b3c3293f39a792b8a0ec6e2aedc3b20306c928b4ee525d668c750881d9c1e",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/unwinding-shared-database/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/unwinding-shared-database/"
+  },
+  "title": "Breaking up a monolith: How we’re unwinding a shared database at scale",
+  "summary": "Learn how Datadog is breaking up a shared production database at scale—defining clear ownership boundaries, minimizing migration risk, and building the tooling to make decoupling safe, automated, and sustainable.",
+  "published_at": "2025-06-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:57:27.560850+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/82/822b3c3293f39a792b8a0ec6e2aedc3b20306c928b4ee525d668c750881d9c1e/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/82/822b3c3293f39a792b8a0ec6e2aedc3b20306c928b4ee525d668c750881d9c1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29573,
+    "sha256": "sha256:cf92c100ef662b28042228996a4057d63e2dd2421fc50fe11155afb5ee4495e1",
+    "normalized_content_hash": "sha256:6b7db7b6bd970d73880b6d48f5137457cc9ee125d56007724e7b1f9bded1d8d0"
+  },
+  "provenance": {
+    "source_item_id": "5871276d-94bb-4e24-814d-4aff6d333ad0",
+    "external_id": "https://www.datadoghq.com/blog/engineering/unwinding-shared-database/"
+  }
+}

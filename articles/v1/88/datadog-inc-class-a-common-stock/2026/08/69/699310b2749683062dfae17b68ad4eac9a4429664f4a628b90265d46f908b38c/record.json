@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "699310b2749683062dfae17b68ad4eac9a4429664f4a628b90265d46f908b38c",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/gitretriever/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/gitretriever/"
+  },
+  "title": "20× the CI traffic without getting slower: How we rebuilt Git serving at Datadog",
+  "summary": "Learn how Datadog built gitretriever to handle 20× more CI Git traffic while maintaining low latency and reducing backend CPU usage.",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T17:00:16.320884+00:00",
+  "fetched_at": "2026-08-19T17:00:18.505408+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/69/699310b2749683062dfae17b68ad4eac9a4429664f4a628b90265d46f908b38c/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/08/69/699310b2749683062dfae17b68ad4eac9a4429664f4a628b90265d46f908b38c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19596,
+    "sha256": "sha256:0db74289072d8733bb181e8b19340d8a20640c2e1720b3b9bf13cfda3e342c0e",
+    "normalized_content_hash": "sha256:e6f88a8d7af887f7936f513a15c64c4eae3a190982b7ca836d926e29d88ef335"
+  },
+  "provenance": {
+    "source_item_id": "5afd6a58-4bf7-4f64-9dcc-8fb7df762f0d",
+    "external_id": "https://www.datadoghq.com/blog/engineering/gitretriever/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a5ead0f5ed7971c50badaaa3b2322fa88f4f44c566599c22813e832b0a2a5288",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/tracking-customer-spend-omnichannel-multiprocessor-environment",
+    "canonical": "https://stripe.dev/blog/tracking-customer-spend-omnichannel-multiprocessor-environment"
+  },
+  "title": "Tracking customer spend in an omnichannel or multiprocessor environment",
+  "summary": "Discover how to effectively track customer spending across multiple channels and payment processors. Learn about the challenges of fragmented payment systems and explore solutions like the Payment Account Reference (PAR) to gain a unified view.",
+  "published_at": "2025-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/02/a5/a5ead0f5ed7971c50badaaa3b2322fa88f4f44c566599c22813e832b0a2a5288/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/02/a5/a5ead0f5ed7971c50badaaa3b2322fa88f4f44c566599c22813e832b0a2a5288/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3994,
+    "sha256": "sha256:836d69946304b1bd452e77949e3cfed59964c6fbc609616e7f715b26c3dc6833",
+    "normalized_content_hash": "sha256:ec65b4c4728cb07738f0c8a12debf7311e5c857f4465fe50a3c6c9dc1a7eec6d"
+  },
+  "provenance": {
+    "source_item_id": "ee461298-283f-4f10-8b8f-2889ce720d73",
+    "external_id": "https://stripe.dev/blog/tracking-customer-spend-omnichannel-multiprocessor-environment"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef6181fe07f052920a810dc1755846ab3d1c4d7af30cc4171570a9387214dae5",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/3-javascript-gotchas/",
+    "canonical": "https://blog.openreplay.com/3-javascript-gotchas/"
+  },
+  "title": "3 JavaScript Gotchas Explained",
+  "summary": "Three JavaScript gotchas explained: floating-point math, NaN checks, and await in loops, with the right fixes for each.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T07:50:16.961097+00:00",
+  "fetched_at": "2026-08-05T07:50:18.082714+00:00",
+  "last_updated_at": "2026-08-15T02:08:33.520652+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/08/ef/ef6181fe07f052920a810dc1755846ab3d1c4d7af30cc4171570a9387214dae5/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/08/ef/ef6181fe07f052920a810dc1755846ab3d1c4d7af30cc4171570a9387214dae5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12411,
+    "sha256": "sha256:e87a76b6e4dbf86fb0bd5608080a001dfb9f3154bb198d095fb1e2d626667749",
+    "normalized_content_hash": "sha256:958ed412e66e139fe6d1ae9bd7f596954b438a47a8b4f83a1baef025251bd4e1"
+  },
+  "provenance": {
+    "source_item_id": "1f56f20d-ac26-48b4-8a92-74cd4f378c77",
+    "external_id": "https://blog.openreplay.com/3-javascript-gotchas/"
+  }
+}

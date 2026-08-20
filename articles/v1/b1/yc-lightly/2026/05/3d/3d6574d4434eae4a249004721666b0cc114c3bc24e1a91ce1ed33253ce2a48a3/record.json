@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3d6574d4434eae4a249004721666b0cc114c3bc24e1a91ce1ed33253ce2a48a3",
+  "company": {
+    "key": "yc-lightly",
+    "name": "Lightly"
+  },
+  "source": {
+    "id": "yc-lightly-news-import-b9754ffe9935",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://lightly.ai/blog/train-test-validation-split",
+    "canonical": "https://lightly.ai/blog/train-test-validation-split"
+  },
+  "title": "Train Test Validation Split: Best Practices & Examples",
+  "summary": "The train-test-validation split is a best practice in machine learning to ensure models generalize well. Training data teaches the model, validation fine-tunes it, and the test set provides an unbiased evaluation on unseen data.",
+  "published_at": "2026-05-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:25:05.125057+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T17:27:18.778367+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-lightly/2026/05/3d/3d6574d4434eae4a249004721666b0cc114c3bc24e1a91ce1ed33253ce2a48a3/article.md",
+    "record": "articles/v1/b1/yc-lightly/2026/05/3d/3d6574d4434eae4a249004721666b0cc114c3bc24e1a91ce1ed33253ce2a48a3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30268,
+    "sha256": "sha256:3f9648ee1e993e0c44af4a82c70b29493ba97019fe289022e70d1dd892941527",
+    "normalized_content_hash": "sha256:9e08eacbe6986e829e72e39b53ebed7975735821ca5383b8187aabfb7190d99a"
+  },
+  "provenance": {
+    "source_item_id": "b3772fb7-3f4f-4dfa-8cdb-10268a140f5f",
+    "external_id": "https://lightly.ai/blog/train-test-validation-split"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23514d48c1d8c394b9c953515eb327ca2750319bc2a3efe5f1323abb339023f6",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/load-balancing-stripe-api-calls-multiple-aws-regions",
+    "canonical": "https://stripe.dev/blog/load-balancing-stripe-api-calls-multiple-aws-regions"
+  },
+  "title": "Load balancing Stripe API calls from multiple AWS regions",
+  "summary": "Implementing a resilient multi-region payment processing system using AWS and Stripe ensures reliable webhook handling, minimizes outages, and complies with regulations. This guide covers architecture design, challenges, and AWS service integration for optimal global performance and rate limit management.",
+  "published_at": "2025-03-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:14.920102+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/03/23/23514d48c1d8c394b9c953515eb327ca2750319bc2a3efe5f1323abb339023f6/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/03/23/23514d48c1d8c394b9c953515eb327ca2750319bc2a3efe5f1323abb339023f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6072,
+    "sha256": "sha256:10018e4c5f5c83902957117a1b27359577f88b992b669b198fbc268ac705782a",
+    "normalized_content_hash": "sha256:09e3786109207784deae7fd91c040c1ecb1c2627d68714d698306a9dd27d5adf"
+  },
+  "provenance": {
+    "source_item_id": "6db3a0c0-8f8b-452e-8b30-c6390a738d5d",
+    "external_id": "https://stripe.dev/blog/load-balancing-stripe-api-calls-multiple-aws-regions"
+  }
+}

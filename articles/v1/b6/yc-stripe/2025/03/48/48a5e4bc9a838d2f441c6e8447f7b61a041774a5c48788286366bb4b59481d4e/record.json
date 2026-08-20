@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "48a5e4bc9a838d2f441c6e8447f7b61a041774a5c48788286366bb4b59481d4e",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/unlock-powerful-analytics-stripe-data-pipeline-bigquery",
+    "canonical": "https://stripe.dev/blog/unlock-powerful-analytics-stripe-data-pipeline-bigquery"
+  },
+  "title": "Unlocking powerful analytics with Stripe Data Pipeline and Google BigQuery",
+  "summary": "Discover how to integrate Stripe Data Pipeline with Google Cloud Storage and BigQuery for powerful analytics. This guide walks you through setting up automated data transfers, optimizing reporting, and unlocking valuable insights to enhance your business decisions.",
+  "published_at": "2025-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:06.165020+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/03/48/48a5e4bc9a838d2f441c6e8447f7b61a041774a5c48788286366bb4b59481d4e/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/03/48/48a5e4bc9a838d2f441c6e8447f7b61a041774a5c48788286366bb4b59481d4e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3862,
+    "sha256": "sha256:91a61fbb2d4e56353bb829a2845fb1326704ceab66dc258b5f8e065cb57d1e4e",
+    "normalized_content_hash": "sha256:980faa2d5c0ef72f57f64ac03ccfbff5400cc19b36ca71001253b8b3030162b7"
+  },
+  "provenance": {
+    "source_item_id": "120ea72e-5e87-4c8d-bcb2-8af27b46cd7a",
+    "external_id": "https://stripe.dev/blog/unlock-powerful-analytics-stripe-data-pipeline-bigquery"
+  }
+}

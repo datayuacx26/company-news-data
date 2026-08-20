@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc8b2250e8df24de8ee1755d2fa53a37019f846df0cc1ea0a6655df36c52db73",
+  "company": {
+    "key": "yc-blink-new",
+    "name": "Blink"
+  },
+  "source": {
+    "id": "yc-blink-new-rss-0c236d2832c1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blink.new/blog/deploy-cursor-app-production",
+    "canonical": "https://blink.new/blog/deploy-cursor-app-production"
+  },
+  "title": "How to Deploy a Cursor App to Production: Database, Auth, and Hosting in 2 Minutes",
+  "summary": "Cursor writes the code. Now deploy it. Two paths: wire Vercel + Supabase + Auth0 yourself (3 hours, $130/mo), or use Blink Cloud (2 commands, done).",
+  "published_at": "2026-06-11T00:15:57+00:00",
+  "first_seen_at": "2026-07-24T19:35:33.186925+00:00",
+  "fetched_at": "2026-07-28T20:49:06.862285+00:00",
+  "last_updated_at": "2026-08-20T03:39:45.542839+00:00",
+  "paths": {
+    "article": "articles/v1/a6/yc-blink-new/2026/06/cc/cc8b2250e8df24de8ee1755d2fa53a37019f846df0cc1ea0a6655df36c52db73/article.md",
+    "record": "articles/v1/a6/yc-blink-new/2026/06/cc/cc8b2250e8df24de8ee1755d2fa53a37019f846df0cc1ea0a6655df36c52db73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9176,
+    "sha256": "sha256:d0e6e6a53863622fdaf845503e1c057d798ff1979c5b9eb5df85555918533f5b",
+    "normalized_content_hash": "sha256:536f654d42a0fccbb26ff478118616db83c642a25bd915490630ee4cabe1afca"
+  },
+  "provenance": {
+    "source_item_id": "55086104-843a-4c80-b0ed-b7289a0fabfb",
+    "external_id": "https://blink.new/blog/deploy-cursor-app-production"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "162b3bb14ceb24a6591c798f30898f07bb158be5f8607b5d7f6d5eec10e7f3f0",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/",
+    "canonical": "https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/"
+  },
+  "title": "Almost Half of Malware Samples Communicate Direct to IP",
+  "summary": "Nearly half of C2 malware bypasses DNS by connecting directly to IP addresses. Zero trust IP enforcement secures networks against these threats.",
+  "published_at": "2026-08-04T12:50:53+00:00",
+  "first_seen_at": "2026-08-04T13:25:28.791548+00:00",
+  "fetched_at": "2026-08-04T14:03:42.322861+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/16/162b3bb14ceb24a6591c798f30898f07bb158be5f8607b5d7f6d5eec10e7f3f0/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/08/16/162b3bb14ceb24a6591c798f30898f07bb158be5f8607b5d7f6d5eec10e7f3f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18055,
+    "sha256": "sha256:fdc388b9f4694300dbd09bdac3192679c772b71d2329ee191c61e9754ffa7283",
+    "normalized_content_hash": "sha256:a00ac31762a1c402cde61d3fa5c045bdd9f0f816d01199b07399a7b6dc965acb"
+  },
+  "provenance": {
+    "source_item_id": "c9d89343-717a-43b7-b2d7-a0822846cc3a",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=184389"
+  }
+}

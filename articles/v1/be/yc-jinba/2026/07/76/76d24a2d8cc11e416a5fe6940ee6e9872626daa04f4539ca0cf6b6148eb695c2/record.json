@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "76d24a2d8cc11e416a5fe6940ee6e9872626daa04f4539ca0cf6b6148eb695c2",
+  "company": {
+    "key": "yc-jinba",
+    "name": "Jinba"
+  },
+  "source": {
+    "id": "yc-jinba-news-import-c9c597d3df18",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jinba.io/blog/reduce-ai-costs-banking-deterministic-workflows",
+    "canonical": "https://jinba.io/blog/reduce-ai-costs-banking-deterministic-workflows"
+  },
+  "title": "How to Reduce AI Costs in Banking With Deterministic Workflows",
+  "summary": "80% of banking workflows (KYC, AML, loan pre-screening) are rule-based. Running stochastic LLM agents on all of them burns tokens and fails audits. Here's how to fix the architecture.",
+  "published_at": "2026-07-31T14:00:00+00:00",
+  "first_seen_at": "2026-07-31T22:34:01.284882+00:00",
+  "fetched_at": "2026-07-31T22:34:02.081219+00:00",
+  "last_updated_at": "2026-08-07T04:01:31.323184+00:00",
+  "paths": {
+    "article": "articles/v1/be/yc-jinba/2026/07/76/76d24a2d8cc11e416a5fe6940ee6e9872626daa04f4539ca0cf6b6148eb695c2/article.md",
+    "record": "articles/v1/be/yc-jinba/2026/07/76/76d24a2d8cc11e416a5fe6940ee6e9872626daa04f4539ca0cf6b6148eb695c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15785,
+    "sha256": "sha256:b782328c477b8c6ea0466c1662c63fc774c3f23e34a89410abd86c3a571505ec",
+    "normalized_content_hash": "sha256:62e6b04a168c212f71153db9900eba761318cb29647ab77c3f66f5786914b17b"
+  },
+  "provenance": {
+    "source_item_id": "6db5ede0-ec08-49bd-9d08-4f80d2594995",
+    "external_id": "https://jinba.io/blog/reduce-ai-costs-banking-deterministic-workflows"
+  }
+}

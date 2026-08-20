@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c55452ff52346be871cb7241c9d157455fb52ba03ac5f95033bc971d596e3d4e",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-9eed3a34e5de",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/blog/configuring-remote-bazel-with-agents",
+    "canonical": "https://www.buildbuddy.io/blog/configuring-remote-bazel-with-agents"
+  },
+  "title": "Configuring Remote Bazel with agents",
+  "summary": "Configuring AI coding agents to use Remote Bazel can unlock significant performance improvements for builds and tests. With more compute, a warm analysis cache, and fast network access",
+  "published_at": "2026-03-02T12:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:07:54.250593+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T03:45:46.032492+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/03/c5/c55452ff52346be871cb7241c9d157455fb52ba03ac5f95033bc971d596e3d4e/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/03/c5/c55452ff52346be871cb7241c9d157455fb52ba03ac5f95033bc971d596e3d4e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4087,
+    "sha256": "sha256:b7f8100935cc06d5779cceb850f179e360b76282be86728b4a01b2916aada948",
+    "normalized_content_hash": "sha256:b69b47a7f83a99a0df83a0e9c1440646be0e1ed3dfff4ee08d53ffb644661641"
+  },
+  "provenance": {
+    "source_item_id": "a0ad0ce0-4c69-4cd0-a62c-8ac80b8f08fa",
+    "external_id": "https://www.buildbuddy.io/blog/configuring-remote-bazel-with-agents"
+  }
+}

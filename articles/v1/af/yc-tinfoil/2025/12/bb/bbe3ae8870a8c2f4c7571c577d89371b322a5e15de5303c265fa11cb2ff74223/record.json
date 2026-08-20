@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbe3ae8870a8c2f4c7571c577d89371b322a5e15de5303c265fa11cb2ff74223",
+  "company": {
+    "key": "yc-tinfoil",
+    "name": "Tinfoil"
+  },
+  "source": {
+    "id": "yc-tinfoil-news-import-a84300979e46",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tinfoil.sh/blog/2025-12-18-browser-native-verification",
+    "canonical": "https://tinfoil.sh/blog/2025-12-18-browser-native-verification"
+  },
+  "title": "Building a Browser-Native Verification Stack for Tinfoil",
+  "summary": "Learn how we built a browser-based confidentiality and integrity verifier with implementations of browser-native Sigstore and TUF libraries.",
+  "published_at": "2025-12-18T17:38:00+00:00",
+  "first_seen_at": "2026-07-22T16:45:23.137007+00:00",
+  "fetched_at": "2026-07-28T22:24:52.050374+00:00",
+  "last_updated_at": "2026-08-19T19:26:42.003184+00:00",
+  "paths": {
+    "article": "articles/v1/af/yc-tinfoil/2025/12/bb/bbe3ae8870a8c2f4c7571c577d89371b322a5e15de5303c265fa11cb2ff74223/article.md",
+    "record": "articles/v1/af/yc-tinfoil/2025/12/bb/bbe3ae8870a8c2f4c7571c577d89371b322a5e15de5303c265fa11cb2ff74223/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14437,
+    "sha256": "sha256:1da04476bd9f41a76073bfec11072bb1b170930bc8f0ab3dc746468c4bb2ae22",
+    "normalized_content_hash": "sha256:887acffabcae34383a46284f7e7864256d554aa7461e80b2920df9deb1ecf819"
+  },
+  "provenance": {
+    "source_item_id": "c7d80886-9ff2-483f-93b4-5d790aea8fc4",
+    "external_id": "https://tinfoil.sh/blog/2025-12-18-browser-native-verification"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "38c971cd22353753a743f47aaed5ce37890a7fd05bf112601b70376f1544c186",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/the-trouble-with-mounting/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/the-trouble-with-mounting/"
+  },
+  "title": "The trouble with mounting",
+  "summary": "When some of our customers reported that their agents were freezing, sometimes for hours at a time, we tracked down the issue to their disk mount options.",
+  "published_at": "2017-01-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T22:27:28.827282+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2017/01/38/38c971cd22353753a743f47aaed5ce37890a7fd05bf112601b70376f1544c186/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2017/01/38/38c971cd22353753a743f47aaed5ce37890a7fd05bf112601b70376f1544c186/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4453,
+    "sha256": "sha256:42b7cba056f8430206a14d3165c06c41dd8d6a58f9be2821ceb830862d3ecd9a",
+    "normalized_content_hash": "sha256:3d57ffa8a20e89c7a248da8ad13d0baa72237e813a27885afb9554881662fe15"
+  },
+  "provenance": {
+    "source_item_id": "fd0c40e6-703f-4bca-bce8-0ccc41bb0c12",
+    "external_id": "https://www.datadoghq.com/blog/engineering/the-trouble-with-mounting/"
+  }
+}

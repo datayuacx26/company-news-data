@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "massimo-group-common-stock",
+    "name": "Massimo Group"
+  },
+  "record_count": 13,
+  "first_published_at": "2025-07-08T19:18:30+00:00",
+  "last_published_at": "2026-06-24T14:17:44+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/a1/massimo-group-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 15141,
+        "sha256": "sha256:22d0504a7dca25e0131c0738d1120a3c2acfc52761eebba6f5e1b75d666ee88d",
+        "newest_at": "2026-06-24T14:17:44+00:00",
+        "oldest_at": "2025-07-08T19:18:30+00:00"
+      }
+    ]
+  }
+}

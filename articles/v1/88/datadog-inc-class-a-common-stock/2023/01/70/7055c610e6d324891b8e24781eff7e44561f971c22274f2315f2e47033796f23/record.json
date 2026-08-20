@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7055c610e6d324891b8e24781eff7e44561f971c22274f2315f2e47033796f23",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/performance-improvements-in-the-datadog-agent-metrics-pipeline/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/performance-improvements-in-the-datadog-agent-metrics-pipeline/"
+  },
+  "title": "Performance improvements in the Datadog Agent metrics pipeline",
+  "summary": "We’ve recently improved the raw performance of the Datadog Agent, leading to 20% less CPU use on Agents flooded with custom metrics.",
+  "published_at": "2023-01-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2023/01/70/7055c610e6d324891b8e24781eff7e44561f971c22274f2315f2e47033796f23/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2023/01/70/7055c610e6d324891b8e24781eff7e44561f971c22274f2315f2e47033796f23/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16409,
+    "sha256": "sha256:5156b3576e39f7fc39b3d2670b8b74a18d20f4f46f6612097531e01e58f1f54e",
+    "normalized_content_hash": "sha256:3d71e47e14479b7a90921a5764b1b1cc634c52f836f426b1d60759ab560e9479"
+  },
+  "provenance": {
+    "source_item_id": "d226eafa-4bf2-4df0-bdf8-4cf8c53e6e38",
+    "external_id": "https://www.datadoghq.com/blog/engineering/performance-improvements-in-the-datadog-agent-metrics-pipeline/"
+  }
+}

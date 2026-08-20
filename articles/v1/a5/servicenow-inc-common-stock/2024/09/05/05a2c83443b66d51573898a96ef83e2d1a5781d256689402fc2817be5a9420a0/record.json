@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "05a2c83443b66d51573898a96ef83e2d1a5781d256689402fc2817be5a9420a0",
+  "company": {
+    "key": "servicenow-inc-common-stock",
+    "name": "ServiceNow Inc."
+  },
+  "source": {
+    "id": "servicenow-inc-common-stock-rss-e68ea5e3c60f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-tasks-sync-existing-attachments/ba-p/3041376",
+    "canonical": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-tasks-sync-existing-attachments/ba-p/3041376"
+  },
+  "title": "Service Bridge – Remote Tasks: Sync Existing Attachments",
+  "summary": "Remote Tasks are used to connect tasks between two ServiceNow instances. These tasks can be any task in a ServiceNow instance such as incident, problem, change, case, etc. The connection is defined in the Remote Task Definition. When the connection is made Service Bridge (v1 or v2) does not send...",
+  "published_at": "2024-09-13T14:59:22+00:00",
+  "first_seen_at": "2026-07-20T04:36:33.238428+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T00:29:45.889683+00:00",
+  "paths": {
+    "article": "articles/v1/a5/servicenow-inc-common-stock/2024/09/05/05a2c83443b66d51573898a96ef83e2d1a5781d256689402fc2817be5a9420a0/article.md",
+    "record": "articles/v1/a5/servicenow-inc-common-stock/2024/09/05/05a2c83443b66d51573898a96ef83e2d1a5781d256689402fc2817be5a9420a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2394,
+    "sha256": "sha256:359aec46d6e68671dfa0d2d6336bb18641bfaabd4d70313eb73ff3a7f8847f55",
+    "normalized_content_hash": "sha256:006237dc3d3a02888b6e2a803cef85c82b45cd53b7e7751f2ac7066669fc513c"
+  },
+  "provenance": {
+    "source_item_id": "d930a158-1bd3-40ca-acb0-9d91ddefefae",
+    "external_id": "https://www.servicenow.com/community/technology-blog/service-bridge-remote-tasks-sync-existing-attachments/ba-p/3041376"
+  }
+}

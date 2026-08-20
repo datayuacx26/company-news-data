@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86cfc1ac1865bf885f63f391a59eb869194a3d11f297dc12ab5b21f07027b563",
+  "company": {
+    "key": "yc-bellabeat",
+    "name": "Bellabeat"
+  },
+  "source": {
+    "id": "yc-bellabeat-news-import-b626e1833136",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bellabeat.com/journal/vaginal-discharge/",
+    "canonical": "https://bellabeat.com/journal/vaginal-discharge/"
+  },
+  "title": "Vaginal Discharge",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-27T08:00:38.340274+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T21:52:30.625922+00:00",
+  "paths": {
+    "article": "articles/v1/8b/yc-bellabeat/2026/07/86/86cfc1ac1865bf885f63f391a59eb869194a3d11f297dc12ab5b21f07027b563/article.md",
+    "record": "articles/v1/8b/yc-bellabeat/2026/07/86/86cfc1ac1865bf885f63f391a59eb869194a3d11f297dc12ab5b21f07027b563/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1737,
+    "sha256": "sha256:5ba277dd2d5e15129a2cc1769f6036493846e59c14a39b1a95eb2023b9074eed",
+    "normalized_content_hash": "sha256:cef79a29e8e24920cc7572fcf323f571c654d1f486a467296f3a8876aaf6069c"
+  },
+  "provenance": {
+    "source_item_id": "a9a07844-7432-43dc-85e7-e6fb2fa171a2",
+    "external_id": "https://bellabeat.com/journal/vaginal-discharge/"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "dynatrace-inc-common-stock",
+    "name": "Dynatrace Inc."
+  },
+  "record_count": 70,
+  "first_published_at": "2026-04-08T20:05:00+00:00",
+  "last_published_at": "2026-08-18T10:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 26
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 18
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/90/dynatrace-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55116,
+        "sha256": "sha256:e53f7dac52ba34e1b2ead74bda63ede110385a03d807cbb0091310ed46c4d0ea",
+        "newest_at": "2026-08-18T10:30:00+00:00",
+        "oldest_at": "2026-06-24T12:19:44+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/90/dynatrace-inc-common-stock/index/pages/000002.json",
+        "record_count": 20,
+        "byte_count": 22451,
+        "sha256": "sha256:7078a95919414476cbeeae9c826237b1910a5ca442953eed2ed41d43fab9c383",
+        "newest_at": "2026-06-23T20:24:37+00:00",
+        "oldest_at": "2026-04-08T20:05:00+00:00"
+      }
+    ]
+  }
+}

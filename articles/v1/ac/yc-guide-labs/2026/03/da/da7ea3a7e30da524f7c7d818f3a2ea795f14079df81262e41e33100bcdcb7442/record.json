@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da7ea3a7e30da524f7c7d818f3a2ea795f14079df81262e41e33100bcdcb7442",
+  "company": {
+    "key": "yc-guide-labs",
+    "name": "Guide Labs"
+  },
+  "source": {
+    "id": "yc-guide-labs-news-import-41fe5d9b8b28",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.guidelabs.ai/post/steerling-8b-alignment-without-retraining/",
+    "canonical": "https://www.guidelabs.ai/post/steerling-8b-alignment-without-retraining/"
+  },
+  "title": "Alignment Without Retraining: Auditing and Controlling Steerling-8B",
+  "summary": "We show how Steerling-8B can suppress toxic and memorized content at inference time without finetuning, and trace model outputs directly to their training data sources.",
+  "published_at": "2026-03-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T07:19:32.933709+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-19T15:50:29.163183+00:00",
+  "paths": {
+    "article": "articles/v1/ac/yc-guide-labs/2026/03/da/da7ea3a7e30da524f7c7d818f3a2ea795f14079df81262e41e33100bcdcb7442/article.md",
+    "record": "articles/v1/ac/yc-guide-labs/2026/03/da/da7ea3a7e30da524f7c7d818f3a2ea795f14079df81262e41e33100bcdcb7442/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14257,
+    "sha256": "sha256:f90822eba0041e2fda5a29de317072e671187b2d15182095856dba7bb67c24b0",
+    "normalized_content_hash": "sha256:25d55f1132451549f919344877a2dfa2ef89833309139e8bb0a25d9a71e4ee91"
+  },
+  "provenance": {
+    "source_item_id": "6b28731a-2eb5-4662-afe9-42127b46ea92",
+    "external_id": "https://www.guidelabs.ai/post/steerling-8b-alignment-without-retraining/"
+  }
+}

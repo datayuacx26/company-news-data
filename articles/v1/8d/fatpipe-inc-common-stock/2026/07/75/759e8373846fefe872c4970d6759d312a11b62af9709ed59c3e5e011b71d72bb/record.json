@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "759e8373846fefe872c4970d6759d312a11b62af9709ed59c3e5e011b71d72bb",
+  "company": {
+    "key": "fatpipe-inc-common-stock",
+    "name": "FatPipe Inc."
+  },
+  "source": {
+    "id": "fatpipe-inc-common-stock-rss-0a4049fabb36",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://fatpipeinc.com/blog/mtu-jumbo-frames-and-the-small-decisions-that-shape-network-performance/",
+    "canonical": "https://fatpipeinc.com/blog/mtu-jumbo-frames-and-the-small-decisions-that-shape-network-performance/"
+  },
+  "title": "MTU, Jumbo Frames, and the Small Decisions That Shape Network Performance",
+  "summary": "FatPipe’s default MTU is 1500, the widely accepted standard for enterprise connectivity. It is reliable, and well suited for WAN, VPN, and branch environments.",
+  "published_at": "2026-07-10T14:18:55+00:00",
+  "first_seen_at": "2026-07-25T04:07:18.373083+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-08-20T01:47:27.901517+00:00",
+  "paths": {
+    "article": "articles/v1/8d/fatpipe-inc-common-stock/2026/07/75/759e8373846fefe872c4970d6759d312a11b62af9709ed59c3e5e011b71d72bb/article.md",
+    "record": "articles/v1/8d/fatpipe-inc-common-stock/2026/07/75/759e8373846fefe872c4970d6759d312a11b62af9709ed59c3e5e011b71d72bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4868,
+    "sha256": "sha256:ee52d37af5698719768171211941a83f293509689004155809c6496b03f888fd",
+    "normalized_content_hash": "sha256:4abfbde98e80161e6e77d6649e5e6822b4e183b0a8b71b34cfdfe94e6f9cb029"
+  },
+  "provenance": {
+    "source_item_id": "0f981374-b6b9-467f-8d25-486965434991",
+    "external_id": "https://fatpipeinc.com/blog/?p=999"
+  }
+}

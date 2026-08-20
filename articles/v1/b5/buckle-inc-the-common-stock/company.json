@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "buckle-inc-the-common-stock",
+    "name": "Buckle Inc. (The)"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-04-09T09:55:00+00:00",
+  "last_published_at": "2026-08-06T10:50:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b5/buckle-inc-the-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 14607,
+        "sha256": "sha256:7a5b3d54685c06e8753fe8dedc6d47ca34c4e707c16584f5d33343cbe852ad00",
+        "newest_at": "2026-08-06T10:50:00+00:00",
+        "oldest_at": "2026-04-09T09:55:00+00:00"
+      }
+    ]
+  }
+}

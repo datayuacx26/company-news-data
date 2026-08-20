@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "683521cd9de1c0300437bdeee61f9ad6b048b9c21ebdd05b9abbace0d04238d5",
+  "company": {
+    "key": "yc-scribd",
+    "name": "Scribd"
+  },
+  "source": {
+    "id": "yc-scribd-atom-fa6b4578b753",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech.scribd.com/blog/2026/screaming-in-the-cloud.html",
+    "canonical": "https://tech.scribd.com/blog/2026/screaming-in-the-cloud.html"
+  },
+  "title": "Screaming in the Cloud",
+  "summary": "Scribd has absolutely fascinating data-at-scale type problems, all the way down to the fundamentals of how we use AWS S3. In my previous post I wrote about the design of Content Crush and how Scribd is consolidating objects in S3 to minimize our costs. Related to that work I was fortunate enough to join the (in)famous Corey Quinn to talk about Engineering around Extreme S3 scale:",
+  "published_at": "2026-02-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T22:26:02.289998+00:00",
+  "fetched_at": "2026-07-28T22:21:12.159869+00:00",
+  "last_updated_at": "2026-08-20T02:21:21.168233+00:00",
+  "paths": {
+    "article": "articles/v1/ba/yc-scribd/2026/02/68/683521cd9de1c0300437bdeee61f9ad6b048b9c21ebdd05b9abbace0d04238d5/article.md",
+    "record": "articles/v1/ba/yc-scribd/2026/02/68/683521cd9de1c0300437bdeee61f9ad6b048b9c21ebdd05b9abbace0d04238d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1580,
+    "sha256": "sha256:a2134c5a0e79e69bbdf8ed2e9ef054ffb28a9dcfb9a11538c13ac258aeba28e7",
+    "normalized_content_hash": "sha256:4ef282991aa8b839e26b92a894a86c68d688cbef81baf6b5366c70829379d12f"
+  },
+  "provenance": {
+    "source_item_id": "d21cffa5-3c41-4d6e-a70c-f143ccd42789",
+    "external_id": "https://tech.scribd.com/blog/2026/screaming-in-the-cloud"
+  }
+}

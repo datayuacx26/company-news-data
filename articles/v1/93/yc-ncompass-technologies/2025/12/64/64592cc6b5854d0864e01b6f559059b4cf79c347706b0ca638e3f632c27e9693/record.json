@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "64592cc6b5854d0864e01b6f559059b4cf79c347706b0ca638e3f632c27e9693",
+  "company": {
+    "key": "yc-ncompass-technologies",
+    "name": "nCompass Technologies"
+  },
+  "source": {
+    "id": "yc-ncompass-technologies-rss-225d7ec730f1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://community.ncompass.tech/t/vscode-extension-attempted-nested-profiling-removes-existing-profile/22",
+    "canonical": "https://community.ncompass.tech/t/vscode-extension-attempted-nested-profiling-removes-existing-profile/22"
+  },
+  "title": "VSCode Extension: Attempted nested profiling removes existing profile",
+  "summary": "When selecting a region for profiling that entirely encapsulates an existing region, it will always remove first region. The same happens when the attempting to create a region inside an existing region, which removes the original region.",
+  "published_at": "2025-12-01T16:31:26+00:00",
+  "first_seen_at": "2026-07-25T15:45:43.528659+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-20T02:33:23.503903+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-ncompass-technologies/2025/12/64/64592cc6b5854d0864e01b6f559059b4cf79c347706b0ca638e3f632c27e9693/article.md",
+    "record": "articles/v1/93/yc-ncompass-technologies/2025/12/64/64592cc6b5854d0864e01b6f559059b4cf79c347706b0ca638e3f632c27e9693/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1242,
+    "sha256": "sha256:eae349c6d7ff7d9ea074f0e42229d84c2a3ca5a54016f6d3e8636b82c58728af",
+    "normalized_content_hash": "sha256:94c0be26f7d4d46bec78d741015d38f208206fd23240b2e1301f229f18c551f3"
+  },
+  "provenance": {
+    "source_item_id": "b429417b-e9bd-4db1-b1f9-ff1b9f9c060f",
+    "external_id": "community.ncompass.tech-topic-22"
+  }
+}

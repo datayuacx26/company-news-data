@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e32355fefb0ce4c6f20e39a3947c93c22bf2107192d54b2675c2bbea74d635a",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/full-text-search-unindexed-data",
+    "canonical": "https://www.elastic.co/search-labs/blog/full-text-search-unindexed-data"
+  },
+  "title": "Elasticsearch ES|QL brings full-text search to data you never indexed",
+  "summary": "MATCH and TO_TEXT bring full-text search to data you never indexed. Search computed columns, unmapped fields and federated sources in ES|QL.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T22:34:05.631455+00:00",
+  "fetched_at": "2026-08-05T22:34:06.828213+00:00",
+  "last_updated_at": "2026-08-13T03:01:39.042848+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/2e/2e32355fefb0ce4c6f20e39a3947c93c22bf2107192d54b2675c2bbea74d635a/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/2e/2e32355fefb0ce4c6f20e39a3947c93c22bf2107192d54b2675c2bbea74d635a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13588,
+    "sha256": "sha256:09861f2836f2b8aef93d26d22a58b0ced70d518aead3dbe5542d560ef4566fa1",
+    "normalized_content_hash": "sha256:2a8df1e4f2e0cbd53bf573c1976ecb2c6b764d84105036b7b4619a7dd749b69e"
+  },
+  "provenance": {
+    "source_item_id": "66b9e935-c94d-4366-a506-9c5e522e3fe0",
+    "external_id": "https://www.elastic.co/search-labs/blog/full-text-search-unindexed-data"
+  }
+}

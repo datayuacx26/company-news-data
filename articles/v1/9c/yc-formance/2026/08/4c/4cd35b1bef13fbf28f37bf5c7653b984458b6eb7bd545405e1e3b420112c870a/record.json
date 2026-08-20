@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4cd35b1bef13fbf28f37bf5c7653b984458b6eb7bd545405e1e3b420112c870a",
+  "company": {
+    "key": "yc-formance",
+    "name": "Formance"
+  },
+  "source": {
+    "id": "yc-formance-news-import-baf47baa49b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.formance.com/blog/financial-operations/real-time-payments-vs-ach",
+    "canonical": "https://www.formance.com/blog/financial-operations/real-time-payments-vs-ach"
+  },
+  "title": "Real-Time Payments vs ACH: Speed, Cost, and When to Use Each",
+  "summary": "Compare Real-Time Payments and ACH on speed, cost, and use cases. Learn how ledger design must differ for each rail to avoid reconciliation drift.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T02:40:54.166685+00:00",
+  "fetched_at": "2026-08-19T02:40:55.455714+00:00",
+  "last_updated_at": "2026-08-19T15:47:04.948511+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-formance/2026/08/4c/4cd35b1bef13fbf28f37bf5c7653b984458b6eb7bd545405e1e3b420112c870a/article.md",
+    "record": "articles/v1/9c/yc-formance/2026/08/4c/4cd35b1bef13fbf28f37bf5c7653b984458b6eb7bd545405e1e3b420112c870a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17251,
+    "sha256": "sha256:20bbc2b0c8e159504e96acb462ed9831502dc575af0c6bedf634a88c329c3f6d",
+    "normalized_content_hash": "sha256:1aa60bd82af5417df3f780e8d3b3f849a820ee464352bc50ca6a4530cd67d3a1"
+  },
+  "provenance": {
+    "source_item_id": "72250473-a6e5-4baa-82cf-9f45e1363bb0",
+    "external_id": "https://www.formance.com/blog/financial-operations/real-time-payments-vs-ach"
+  }
+}

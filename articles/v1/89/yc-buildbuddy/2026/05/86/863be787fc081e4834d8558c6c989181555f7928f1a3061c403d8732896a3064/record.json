@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "863be787fc081e4834d8558c6c989181555f7928f1a3061c403d8732896a3064",
+  "company": {
+    "key": "yc-buildbuddy",
+    "name": "BuildBuddy"
+  },
+  "source": {
+    "id": "yc-buildbuddy-rss-4f82164f35c8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.buildbuddy.io/changelog/scheduled-workflows",
+    "canonical": "https://www.buildbuddy.io/changelog/scheduled-workflows"
+  },
+  "title": "Schedule Workflows with cron expressions",
+  "summary": "You can now run BuildBuddy Workflows on a recurring schedule using standard cron expressions. This is useful for nightly builds, periodic integration tests, or any job that should run independently of code pushes or pull requests.",
+  "published_at": "2026-05-28T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:16.628240+00:00",
+  "fetched_at": "2026-07-28T21:11:58.236396+00:00",
+  "last_updated_at": "2026-08-20T03:35:53.428661+00:00",
+  "paths": {
+    "article": "articles/v1/89/yc-buildbuddy/2026/05/86/863be787fc081e4834d8558c6c989181555f7928f1a3061c403d8732896a3064/article.md",
+    "record": "articles/v1/89/yc-buildbuddy/2026/05/86/863be787fc081e4834d8558c6c989181555f7928f1a3061c403d8732896a3064/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1534,
+    "sha256": "sha256:8bb50d5407f99098820546397e1f78850c6ca263660db24ea876f46a217fe7f7",
+    "normalized_content_hash": "sha256:8e56e8dfc5059c374751269493d087348f85e2f9a5e34827668917b1c78f4426"
+  },
+  "provenance": {
+    "source_item_id": "62c560bf-abd7-48ed-8c1d-276d3868dc61",
+    "external_id": "https://www.buildbuddy.io/changelog/scheduled-workflows"
+  }
+}

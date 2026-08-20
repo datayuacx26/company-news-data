@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eced533b35d748fb55eade0ec1266228802209d81ac776a1b62b965f0a19d605",
+  "company": {
+    "key": "yc-formance",
+    "name": "Formance"
+  },
+  "source": {
+    "id": "yc-formance-news-import-baf47baa49b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.formance.com/blog/financial-operations/immutable-ledgers-append-only-data-models",
+    "canonical": "https://www.formance.com/blog/financial-operations/immutable-ledgers-append-only-data-models"
+  },
+  "title": "Immutable Ledgers Explained: How Append-Only Data Models Work",
+  "summary": "Learn how immutable ledgers use append-only writes, hash chaining, and compensating postings to preserve financial history.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T00:40:26.713435+00:00",
+  "fetched_at": "2026-08-18T00:40:28.310152+00:00",
+  "last_updated_at": "2026-08-19T15:47:04.948511+00:00",
+  "paths": {
+    "article": "articles/v1/9c/yc-formance/2026/08/ec/eced533b35d748fb55eade0ec1266228802209d81ac776a1b62b965f0a19d605/article.md",
+    "record": "articles/v1/9c/yc-formance/2026/08/ec/eced533b35d748fb55eade0ec1266228802209d81ac776a1b62b965f0a19d605/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15679,
+    "sha256": "sha256:d23b3bc8c8968d9a806c6e68ef9b06618c9e47cf804da650cc2a7190da94e506",
+    "normalized_content_hash": "sha256:13461d67adb3b4a878d51d83362a53cf5ee826c7c91a14c62b6d59b10bacdae1"
+  },
+  "provenance": {
+    "source_item_id": "259491ab-f571-411a-ac95-3e4df59add3f",
+    "external_id": "https://www.formance.com/blog/financial-operations/immutable-ledgers-append-only-data-models"
+  }
+}

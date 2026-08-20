@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "841afdbc8ad3196f4f71540094f227e03c2c29b0c526d10c1f873b0f1d5c6e44",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/"
+  },
+  "title": "When failover isn’t safe: Building high-availability PostgreSQL on Kubernetes",
+  "summary": "During a reliability gameday, Datadog engineers discovered that their PostgreSQL clusters couldn’t safely fail over. Here’s how the team redesigned them for high availability using Patroni and synchronous replication.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/84/841afdbc8ad3196f4f71540094f227e03c2c29b0c526d10c1f873b0f1d5c6e44/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2026/06/84/841afdbc8ad3196f4f71540094f227e03c2c29b0c526d10c1f873b0f1d5c6e44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 36310,
+    "sha256": "sha256:2cbaa9b354f1f043b9cdf4b8c721cf7c9fce0e67ad2a231445a9684a7ed9aa7e",
+    "normalized_content_hash": "sha256:9bbf1829f5cdb638baec3a9c559949378ea4bef0573ef23172bf594a2ed38f09"
+  },
+  "provenance": {
+    "source_item_id": "015a2b43-c2e5-4c9b-83b3-5a342e0d8ac0",
+    "external_id": "https://www.datadoghq.com/blog/engineering/postgresql-ha-kubernetes/"
+  }
+}

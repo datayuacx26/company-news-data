@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f72ebf24ca441118b64acaf0fbbdd44d9eaee6bac6a093880e21ebab295c9aeb",
+  "company": {
+    "key": "yc-curvenote",
+    "name": "Curvenote"
+  },
+  "source": {
+    "id": "yc-curvenote-news-import-2221551dc8c3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://curvenote.com/blog/data-engineering-podcast",
+    "canonical": "https://curvenote.com/blog/data-engineering-podcast"
+  },
+  "title": "Curvenote on the Data Engineering Podcast",
+  "summary": "Rowan Cockett joined the Data Engineering Podcast to talk about reproducibility, open science, and the future of scientific communication.",
+  "published_at": "2026-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T06:57:34.135292+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-08-19T14:58:58.235006+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-curvenote/2026/03/f7/f72ebf24ca441118b64acaf0fbbdd44d9eaee6bac6a093880e21ebab295c9aeb/article.md",
+    "record": "articles/v1/ae/yc-curvenote/2026/03/f7/f72ebf24ca441118b64acaf0fbbdd44d9eaee6bac6a093880e21ebab295c9aeb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8098,
+    "sha256": "sha256:ddea408e7e670244b6c4aad22d35aa4365103a598e5cb843a1369d57090a6d53",
+    "normalized_content_hash": "sha256:b892cb4908405cce1d61289c31eb73f260f86c3497c40e0e7a2a4603649d7398"
+  },
+  "provenance": {
+    "source_item_id": "714f6ef0-d897-4aa4-9355-0ecf49f3e391",
+    "external_id": "https://curvenote.com/blog/data-engineering-podcast"
+  }
+}

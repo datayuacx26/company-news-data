@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2a03655e31146e90abe469aba884e048d104bc54c5c6e48078d4f6c6941925ac",
+  "company": {
+    "key": "yc-mezmo",
+    "name": "Mezmo"
+  },
+  "source": {
+    "id": "yc-mezmo-news-import-3b2f958954ed",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mezmo.com/blog/builder-in-the-loop-henry-andrews-on-building-aura-like-production-software",
+    "canonical": "https://www.mezmo.com/blog/builder-in-the-loop-henry-andrews-on-building-aura-like-production-software"
+  },
+  "title": "Builder in the loop: Henry Andrews on building AURA like production software",
+  "summary": "Mezmo PM Henry Andrews on why AURA uses Rust, TOML configs, and OpenTelemetry to make MCP-native agent workflows inspectable and production-ready for SRE teams.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T04:13:38.440386+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T18:52:54.796184+00:00",
+  "paths": {
+    "article": "articles/v1/97/yc-mezmo/2026/07/2a/2a03655e31146e90abe469aba884e048d104bc54c5c6e48078d4f6c6941925ac/article.md",
+    "record": "articles/v1/97/yc-mezmo/2026/07/2a/2a03655e31146e90abe469aba884e048d104bc54c5c6e48078d4f6c6941925ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7227,
+    "sha256": "sha256:392b68c4ea79317a40e2ec20985b7279a1374e8a9e52b383e4cc04a236af6859",
+    "normalized_content_hash": "sha256:6864119e78b80388cf0a8eb36afb6dcf09a344a9b6bd7469bd107140fc34a1a5"
+  },
+  "provenance": {
+    "source_item_id": "22de1f8e-fb5f-4e49-ae7d-6231d92f89d0",
+    "external_id": "https://www.mezmo.com/blog/builder-in-the-loop-henry-andrews-on-building-aura-like-production-software"
+  }
+}

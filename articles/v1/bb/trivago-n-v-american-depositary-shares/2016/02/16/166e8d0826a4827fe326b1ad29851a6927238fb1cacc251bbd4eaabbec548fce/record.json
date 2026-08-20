@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "166e8d0826a4827fe326b1ad29851a6927238fb1cacc251bbd4eaabbec548fce",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2016-02-23-protector/",
+    "canonical": "https://tech.trivago.com/post/2016-02-23-protector/"
+  },
+  "title": "Introducing Protector - a Circuit Breaker for Time Series Databases",
+  "summary": "At trivago we store a subset of our realtime metric data in InfluxDB and we are quite impressed by the load it can handle. Despite all the joy, we had to learn some lessons the hard way. It is p...",
+  "published_at": "2016-02-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:32.213667+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2016/02/16/166e8d0826a4827fe326b1ad29851a6927238fb1cacc251bbd4eaabbec548fce/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2016/02/16/166e8d0826a4827fe326b1ad29851a6927238fb1cacc251bbd4eaabbec548fce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9580,
+    "sha256": "sha256:58cc24f797e3a4114529f56522f20821f769d96be4c6857aebbeb48c8988f473",
+    "normalized_content_hash": "sha256:d780b37a6fd0fe366608d636a29613abbd670a1d61d047df3beec45beca0b901"
+  },
+  "provenance": {
+    "source_item_id": "ca99238e-e5b7-4416-bfbe-85541f65e2d8",
+    "external_id": "https://tech.trivago.com/post/2016-02-23-protector/"
+  }
+}

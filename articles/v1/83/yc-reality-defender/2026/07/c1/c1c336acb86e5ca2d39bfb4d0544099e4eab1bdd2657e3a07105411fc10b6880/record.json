@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1c336acb86e5ca2d39bfb4d0544099e4eab1bdd2657e3a07105411fc10b6880",
+  "company": {
+    "key": "yc-reality-defender",
+    "name": "Reality Defender"
+  },
+  "source": {
+    "id": "yc-reality-defender-news-import-247f3b081c39",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.realitydefender.com/insights/provenance-and-synthetic-media-detection",
+    "canonical": "https://www.realitydefender.com/insights/provenance-and-synthetic-media-detection"
+  },
+  "title": "Where Provenance Fits in the Detection of Synthetic Media",
+  "summary": "C2PA provenance proves content origin, and deepfake detection identifies synthetic media. Learn how combining the two creates a complete enterprise fraud defense.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T22:42:34.349058+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T23:03:17.906744+00:00",
+  "paths": {
+    "article": "articles/v1/83/yc-reality-defender/2026/07/c1/c1c336acb86e5ca2d39bfb4d0544099e4eab1bdd2657e3a07105411fc10b6880/article.md",
+    "record": "articles/v1/83/yc-reality-defender/2026/07/c1/c1c336acb86e5ca2d39bfb4d0544099e4eab1bdd2657e3a07105411fc10b6880/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12895,
+    "sha256": "sha256:4c78c50eabd41dbeba6d612523206aa72ba3378fd71b69c3c2ab6eeba126d65c",
+    "normalized_content_hash": "sha256:ee4a2cd5366a71a9bd3363be1f921179ba921df4384c5370a319bcb18205cd02"
+  },
+  "provenance": {
+    "source_item_id": "560cd226-ee64-4fd5-8d8d-88dc4d5992aa",
+    "external_id": "https://www.realitydefender.com/insights/provenance-and-synthetic-media-detection"
+  }
+}

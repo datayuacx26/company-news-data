@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "6736bbc27958f16717e2995d9940f4630b9d148d52430c9020f59d1174942a85"
+company_key: "astrazeneca-plc-ordinary-shares"
+company: "AstraZeneca PLC"
+source_id: "astrazeneca-plc-ordinary-shares-rss-c5fb94799a27"
+canonical_url: "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2024/enhertu-granted-priority-review-in-the-us-for-patients-with-metastatic-her2-positive-solid-tumours.html"
+published_at: "2024-01-29T07:00:00+00:00"
+first_seen_at: "2026-07-26T23:00:47.318234+00:00"
+fetched_at: "2026-07-28T03:42:03.141221+00:00"
+content_hash: "sha256:67c088455b129913a3d8c42babf20994f26a50cbfece3c20eac0c2c3c495e542"
+---
+
+# Enhertu granted Priority Review in the US for patients with metastatic HER2-positive solid tumours
+
+

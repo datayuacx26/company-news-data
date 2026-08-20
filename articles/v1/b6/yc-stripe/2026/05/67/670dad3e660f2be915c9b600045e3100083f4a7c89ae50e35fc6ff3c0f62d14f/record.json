@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "670dad3e660f2be915c9b600045e3100083f4a7c89ae50e35fc6ff3c0f62d14f",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/ai-steering-experiments",
+    "canonical": "https://stripe.dev/blog/ai-steering-experiments"
+  },
+  "title": "You can't whisper at an AI agent",
+  "summary": "What a dozen steering experiments taught us about how LLM-based agents actually behave in the wild.",
+  "published_at": "2026-05-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T22:13:09.708388+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/05/67/670dad3e660f2be915c9b600045e3100083f4a7c89ae50e35fc6ff3c0f62d14f/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/05/67/670dad3e660f2be915c9b600045e3100083f4a7c89ae50e35fc6ff3c0f62d14f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5814,
+    "sha256": "sha256:67064901d492afe04d24ce1383e1e078b312e454f7a6ef5b46692e601fea6903",
+    "normalized_content_hash": "sha256:8677a85171d296dd29cd546dcea309a8ea1b751e5cf54c3ef6b82930a732ee26"
+  },
+  "provenance": {
+    "source_item_id": "e0ab3a10-d8ac-487f-9b92-c06fba606039",
+    "external_id": "https://stripe.dev/blog/ai-steering-experiments"
+  }
+}

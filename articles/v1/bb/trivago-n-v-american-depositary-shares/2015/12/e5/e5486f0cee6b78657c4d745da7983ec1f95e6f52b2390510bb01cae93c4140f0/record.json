@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e5486f0cee6b78657c4d745da7983ec1f95e6f52b2390510bb01cae93c4140f0",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2015-12-15-parallel-webpack/",
+    "canonical": "https://tech.trivago.com/post/2015-12-15-parallel-webpack/"
+  },
+  "title": "Speeding up webpack performance with parallel builds",
+  "summary": "When using webpack to build your assets, it&#39;s only a matter of time until you wish for targeted builds. Whether it&#39;s the output of the library you&#39;re working on (CJS, UMD, AMD, Var, ...",
+  "published_at": "2015-12-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T22:27:32.834035+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/12/e5/e5486f0cee6b78657c4d745da7983ec1f95e6f52b2390510bb01cae93c4140f0/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2015/12/e5/e5486f0cee6b78657c4d745da7983ec1f95e6f52b2390510bb01cae93c4140f0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6104,
+    "sha256": "sha256:e56415960c783c30c4d8a080a74fd8cda56e6e0d40e5ebd948bb16d57c78aba8",
+    "normalized_content_hash": "sha256:dc421b8bb197443261964b693b257efa494de1c3a52e73dc13c988394a6d1035"
+  },
+  "provenance": {
+    "source_item_id": "13c4c1d7-6630-41d9-a832-2ce98962283a",
+    "external_id": "https://tech.trivago.com/post/2015-12-15-parallel-webpack/"
+  }
+}

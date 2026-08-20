@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b06f8484ed2738583e3954e0a75c912abf76f521f9ad30697a197be9b952581a",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/husky-deep-dive/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/husky-deep-dive/"
+  },
+  "title": "Husky: Exactly-once ingestion and multi-tenancy at scale",
+  "summary": "A closer look at storage routing in Husky, Datadog’s third-generation event storage system.",
+  "published_at": "2023-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2023/02/b0/b06f8484ed2738583e3954e0a75c912abf76f521f9ad30697a197be9b952581a/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2023/02/b0/b06f8484ed2738583e3954e0a75c912abf76f521f9ad30697a197be9b952581a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30927,
+    "sha256": "sha256:ac4b19dcf974291a2a3bb3ddf0d169dde0f03172b66d132cf1eba6623803c445",
+    "normalized_content_hash": "sha256:9e9ef617e36472eb2a40e52fa6e354cccf7b7a12939003cf1ecfe727dd137a71"
+  },
+  "provenance": {
+    "source_item_id": "fa0991cc-1e3b-449e-a73d-6611bbb9aa50",
+    "external_id": "https://www.datadoghq.com/blog/engineering/husky-deep-dive/"
+  }
+}

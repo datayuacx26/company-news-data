@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "76d9e2493ef876a74e7728637f40df83dabcb230992cfaeab4c1658dd0916ed5",
+  "company": {
+    "key": "yc-webhound",
+    "name": "Webhound"
+  },
+  "source": {
+    "id": "yc-webhound-news-import-9128b8cbaded",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.webhound.ai/news/back-to-basics",
+    "canonical": "https://www.webhound.ai/news/back-to-basics"
+  },
+  "title": "Going back to a composer-first home",
+  "summary": "Archived April 2026 product note. Webhound now uses Hound, a research harness whose effort is controlled by budget rather than a model or mode picker.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:58:24.125345+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-19T22:13:14.163068+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-webhound/2026/04/76/76d9e2493ef876a74e7728637f40df83dabcb230992cfaeab4c1658dd0916ed5/article.md",
+    "record": "articles/v1/98/yc-webhound/2026/04/76/76d9e2493ef876a74e7728637f40df83dabcb230992cfaeab4c1658dd0916ed5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3328,
+    "sha256": "sha256:fc3a44adfb4d85298b37cd078a268625a3f3f786354cc412e291dd6f9b5344f4",
+    "normalized_content_hash": "sha256:26720d51a7301c1190229df77e6edf7b784eff2de9e0632ad47bc22e49d8e205"
+  },
+  "provenance": {
+    "source_item_id": "678356a4-206f-4af5-a5f0-d92e9a613fd5",
+    "external_id": "https://www.webhound.ai/news/back-to-basics"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "oculis-holding-ag-ordinary-shares",
+    "name": "Oculis Holding AG"
+  },
+  "record_count": 16,
+  "first_published_at": "2026-05-29T20:05:12+00:00",
+  "last_published_at": "2026-08-14T20:05:07+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b6/oculis-holding-ag-ordinary-shares/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 20732,
+        "sha256": "sha256:b8c604777c2dc1a2d5248330bd8ccb60fc55ce133b6f3ff869dff701fa586702",
+        "newest_at": "2026-08-14T20:05:07+00:00",
+        "oldest_at": "2026-05-29T20:05:12+00:00"
+      }
+    ]
+  }
+}

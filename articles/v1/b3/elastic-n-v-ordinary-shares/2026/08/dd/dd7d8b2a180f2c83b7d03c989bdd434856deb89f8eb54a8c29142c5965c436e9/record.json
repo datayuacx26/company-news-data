@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dd7d8b2a180f2c83b7d03c989bdd434856deb89f8eb54a8c29142c5965c436e9",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/time-series-database-compression-elasticsearch",
+    "canonical": "https://www.elastic.co/search-labs/blog/time-series-database-compression-elasticsearch"
+  },
+  "title": "ES95: Adaptive Compression for Elasticsearch Time-Series Metrics",
+  "summary": "Elasticsearch 9.5 cuts time series storage costs automatically, reducing disk usage by 19% to 92% across timestamps, counters, and float gauges.",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-20T02:23:13.375428+00:00",
+  "fetched_at": "2026-08-20T02:23:16.458251+00:00",
+  "last_updated_at": "2026-08-20T02:23:16.590698+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/dd/dd7d8b2a180f2c83b7d03c989bdd434856deb89f8eb54a8c29142c5965c436e9/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/dd/dd7d8b2a180f2c83b7d03c989bdd434856deb89f8eb54a8c29142c5965c436e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14129,
+    "sha256": "sha256:2f6bc9d762aac98bdff2c53d10d17eb09e293bb6844359135b94d5ad38a40e9a",
+    "normalized_content_hash": "sha256:3fe715af5e6723e0b84b188eaca7d6042a34b407d7b1d5bc3008a1580fc386b5"
+  },
+  "provenance": {
+    "source_item_id": "08ae33ef-30ab-49f5-97a8-00808483549b",
+    "external_id": "https://www.elastic.co/search-labs/blog/time-series-database-compression-elasticsearch"
+  }
+}

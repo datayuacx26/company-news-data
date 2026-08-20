@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-indinero",
+    "name": "inDinero"
+  },
+  "record_count": 68,
+  "first_published_at": "2024-04-29T23:48:42+00:00",
+  "last_published_at": "2026-08-19T20:09:01+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 34
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/95/yc-indinero/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50492,
+        "sha256": "sha256:e8fb45ded333e9634cfbce247899acf2d6f031b11432addef36aea4b962d757c",
+        "newest_at": "2026-08-19T20:09:01+00:00",
+        "oldest_at": "2026-07-20T17:24:02+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/95/yc-indinero/index/pages/000002.json",
+        "record_count": 18,
+        "byte_count": 18489,
+        "sha256": "sha256:5e854d8da7b71fc6bf10b3f027b481623483ca136a294b66073250089a0816e7",
+        "newest_at": "2026-07-20T16:08:38+00:00",
+        "oldest_at": "2024-04-29T23:48:42+00:00"
+      }
+    ]
+  }
+}

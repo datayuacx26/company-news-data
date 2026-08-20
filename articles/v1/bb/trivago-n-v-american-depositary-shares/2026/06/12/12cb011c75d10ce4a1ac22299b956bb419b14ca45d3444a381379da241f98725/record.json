@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12cb011c75d10ce4a1ac22299b956bb419b14ca45d3444a381379da241f98725",
+  "company": {
+    "key": "trivago-n-v-american-depositary-shares",
+    "name": "trivago N.V."
+  },
+  "source": {
+    "id": "trivago-n-v-american-depositary-shares-rss-0be0766927d8",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://tech.trivago.com/post/2026-06-12-how-we-cut-kafka-consumer-deployment-costs-by-83/",
+    "canonical": "https://tech.trivago.com/post/2026-06-12-how-we-cut-kafka-consumer-deployment-costs-by-83/"
+  },
+  "title": "How We Cut Kafka Consumer Deployment Costs by 83%",
+  "summary": "This post walks through a layered performance investigation that cut PSE-kafka&#39;s infrastructure costs by 83% and ended a run of 19 P1 incidents.PSE-kafka (price-search-engine-kafka) i...",
+  "published_at": "2026-06-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:44.896445+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T02:51:09.401250+00:00",
+  "paths": {
+    "article": "articles/v1/bb/trivago-n-v-american-depositary-shares/2026/06/12/12cb011c75d10ce4a1ac22299b956bb419b14ca45d3444a381379da241f98725/article.md",
+    "record": "articles/v1/bb/trivago-n-v-american-depositary-shares/2026/06/12/12cb011c75d10ce4a1ac22299b956bb419b14ca45d3444a381379da241f98725/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8042,
+    "sha256": "sha256:7438e31b25bacb23104b1ebe4c053b3b70e5ea7961f5345cdb64932ed5428700",
+    "normalized_content_hash": "sha256:f2069ee0cbb606157c93dac1d5eb58f2f22e9548f652839dd3c9ef53b78a0da6"
+  },
+  "provenance": {
+    "source_item_id": "a1509f72-f4e0-42ab-a79a-6c1045039ca9",
+    "external_id": "https://tech.trivago.com/post/2026-06-12-how-we-cut-kafka-consumer-deployment-costs-by-83/"
+  }
+}

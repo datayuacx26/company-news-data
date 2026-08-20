@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ed436d1f53308515c535119979740e57d00079d728273ae9df3be3b3efc68cc",
+  "company": {
+    "key": "godaddy-inc-class-a-common-stock",
+    "name": "GoDaddy Inc."
+  },
+  "source": {
+    "id": "godaddy-inc-class-a-common-stock-news-import-cf537cccbea7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.godaddy.com/resources/news/how-a-github-app-saved-us-hours-of-manual-effort",
+    "canonical": "https://www.godaddy.com/resources/news/how-a-github-app-saved-us-hours-of-manual-effort"
+  },
+  "title": "How a GitHub App Saved Us Hours of Manual Effort",
+  "summary": "Our localization workflow generated roughly 16 mechanical PRs a week that no one wanted to make. We built a GitHub App during a hackathon to automate the entire cycle — under 900 lines of JavaScript, no HTTP framework, just Node's built-in http module and Octokit. Here's how it works and enough code for you to build your own.",
+  "published_at": "2026-08-18T05:30:00+00:00",
+  "first_seen_at": "2026-08-18T20:57:56.378010+00:00",
+  "fetched_at": "2026-08-18T20:57:58.769005+00:00",
+  "last_updated_at": "2026-08-20T01:53:41.166779+00:00",
+  "paths": {
+    "article": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/08/6e/6ed436d1f53308515c535119979740e57d00079d728273ae9df3be3b3efc68cc/article.md",
+    "record": "articles/v1/a0/godaddy-inc-class-a-common-stock/2026/08/6e/6ed436d1f53308515c535119979740e57d00079d728273ae9df3be3b3efc68cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20699,
+    "sha256": "sha256:67e6068286c53f52f4a0f36180228d2612e7430b0ef8ddc7c6ca66fcab35a96e",
+    "normalized_content_hash": "sha256:574b22a8ca2dcda4ac9bf634d61ae5b34a395c8719cda797752ac08f2f4fdbf1"
+  },
+  "provenance": {
+    "source_item_id": "0893c0c1-8213-478d-bb3a-3ae0ecab37ea",
+    "external_id": "https://www.godaddy.com/resources/news/how-a-github-app-saved-us-hours-of-manual-effort"
+  }
+}

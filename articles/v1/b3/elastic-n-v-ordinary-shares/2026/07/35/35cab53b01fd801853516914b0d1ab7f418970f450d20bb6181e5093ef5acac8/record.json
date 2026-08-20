@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "35cab53b01fd801853516914b0d1ab7f418970f450d20bb6181e5093ef5acac8",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/jina-reranker-35-legal-medical-structured-data",
+    "canonical": "https://www.elastic.co/search-labs/blog/jina-reranker-35-legal-medical-structured-data"
+  },
+  "title": "56% faster, up to 50% better retrieval performance: What's inside Jina's new 600 million parameter listwise reranker",
+  "summary": "Jina Reranker 3.5 is up to 56% faster than v3, has better domain retrieval, and outperforms models 7x its size. Drop-in replacement, no API changes.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T21:53:43.113306+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-07T02:39:15.888121+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/35/35cab53b01fd801853516914b0d1ab7f418970f450d20bb6181e5093ef5acac8/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/07/35/35cab53b01fd801853516914b0d1ab7f418970f450d20bb6181e5093ef5acac8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17004,
+    "sha256": "sha256:80bbe07e637d96c55b83dc6c81ad4d50d8c5c93400d8be6652a6115dd09f033d",
+    "normalized_content_hash": "sha256:2c5c33b7e9da0672714fca95c62b93cc49e4436cb7a7552d9b170530240a35de"
+  },
+  "provenance": {
+    "source_item_id": "4ec3de35-7264-4f05-b829-761e06d7ee23",
+    "external_id": "https://www.elastic.co/search-labs/blog/jina-reranker-35-legal-medical-structured-data"
+  }
+}

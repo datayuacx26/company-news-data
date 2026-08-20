@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3fbfa536df20169eb5575c7ca4f73064507fbdb43f7d2d3abd02c86e1421c65e",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/how-we-built-it-jurisdiction-resolution-for-stripe-tax",
+    "canonical": "https://stripe.dev/blog/how-we-built-it-jurisdiction-resolution-for-stripe-tax"
+  },
+  "title": "How we built it: Jurisdiction resolution for Stripe Tax",
+  "summary": "Our new jurisdiction resolution system (JRS) is a faster, less resource-intensive solution to the challenging problem of determining tax obligations in places with complicated, overlapping tax jurisdictions.",
+  "published_at": "2025-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/07/3f/3fbfa536df20169eb5575c7ca4f73064507fbdb43f7d2d3abd02c86e1421c65e/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/07/3f/3fbfa536df20169eb5575c7ca4f73064507fbdb43f7d2d3abd02c86e1421c65e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3468,
+    "sha256": "sha256:223eb069c775a1ba43190170713f2f8c3d57c66487bd5e2ceda9507cf7b87842",
+    "normalized_content_hash": "sha256:212de864c9786024916f4944d346fd82eb690d30727d9792fb70c5e578eff855"
+  },
+  "provenance": {
+    "source_item_id": "8a70a66e-3eb7-476f-b722-81ce712a5d73",
+    "external_id": "https://stripe.dev/blog/how-we-built-it-jurisdiction-resolution-for-stripe-tax"
+  }
+}

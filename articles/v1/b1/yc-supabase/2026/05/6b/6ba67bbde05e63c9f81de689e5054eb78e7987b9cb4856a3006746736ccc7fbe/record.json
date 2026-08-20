@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ba67bbde05e63c9f81de689e5054eb78e7987b9cb4856a3006746736ccc7fbe",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/realtime-or-pipelines-how-to-choose-the-right-tool",
+    "canonical": "https://supabase.com/blog/realtime-or-pipelines-how-to-choose-the-right-tool"
+  },
+  "title": "Realtime or Pipelines? How to choose the right tool",
+  "summary": "Both Realtime and Pipelines read changes from your Postgres database using logical replication. But they solve very different problems. Here is how to pick the right one.",
+  "published_at": "2026-05-05T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T22:12:48.521638+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2026/05/6b/6ba67bbde05e63c9f81de689e5054eb78e7987b9cb4856a3006746736ccc7fbe/article.md",
+    "record": "articles/v1/b1/yc-supabase/2026/05/6b/6ba67bbde05e63c9f81de689e5054eb78e7987b9cb4856a3006746736ccc7fbe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13386,
+    "sha256": "sha256:0166ef0beec6af8c6dfe2717e0fdcebe8f9f0b643296d1e1a35370d94516c646",
+    "normalized_content_hash": "sha256:08efa724d0eb716a1e128b37a5f0ece2aef39133eea0e3bafd25d0f0a35e7197"
+  },
+  "provenance": {
+    "source_item_id": "6d2a6426-0bd6-43ee-b0cc-d1f6a678e802",
+    "external_id": "https://supabase.com/blog/realtime-or-pipelines-how-to-choose-the-right-tool"
+  }
+}

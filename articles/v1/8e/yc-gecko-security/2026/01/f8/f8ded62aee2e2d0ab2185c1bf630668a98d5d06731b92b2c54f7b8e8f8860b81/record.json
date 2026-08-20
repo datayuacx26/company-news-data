@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8ded62aee2e2d0ab2185c1bf630668a98d5d06731b92b2c54f7b8e8f8860b81",
+  "company": {
+    "key": "yc-gecko-security",
+    "name": "Gecko Security"
+  },
+  "source": {
+    "id": "yc-gecko-security-news-import-02715d60c1a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gecko.security/blog/caldotcom-broken-access-controls",
+    "canonical": "https://www.gecko.security/blog/caldotcom-broken-access-controls"
+  },
+  "title": "How Broken Access Controls in Cal.com Leaked Millions of Bookings and Enabled Complete Account Takeover",
+  "summary": "Gecko's AI security engineer discovered critical chained vulnerabilities in Cal.com Cloud that allowed complete account takeover and exposed all booking data.",
+  "published_at": "2026-01-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:22:16.875303+00:00",
+  "fetched_at": "2026-07-28T22:23:12.089184+00:00",
+  "last_updated_at": "2026-08-20T03:09:25.114394+00:00",
+  "paths": {
+    "article": "articles/v1/8e/yc-gecko-security/2026/01/f8/f8ded62aee2e2d0ab2185c1bf630668a98d5d06731b92b2c54f7b8e8f8860b81/article.md",
+    "record": "articles/v1/8e/yc-gecko-security/2026/01/f8/f8ded62aee2e2d0ab2185c1bf630668a98d5d06731b92b2c54f7b8e8f8860b81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14688,
+    "sha256": "sha256:4dbe15794e2fa1cfae1b0a27f57a6ccd1e3cc7bbace1cdf22115249e91b3fa9b",
+    "normalized_content_hash": "sha256:6ffa2349721c42a94276845fbaa26703055c2d5ddea32e97554eb4025993ac71"
+  },
+  "provenance": {
+    "source_item_id": "c066de9c-832f-4a9e-a566-c8cc39b718b8",
+    "external_id": "https://www.gecko.security/blog/caldotcom-broken-access-controls"
+  }
+}

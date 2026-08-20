@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e58a708d0dbca4a673e8b66c9631d10fa4b2e96ade684227f1bc4882c5e1d5e4",
+  "company": {
+    "key": "yc-plivo",
+    "name": "Plivo"
+  },
+  "source": {
+    "id": "yc-plivo-rss-7fc8cee78b57",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.plivo.com/blog/how-to-receive-and-respond-incoming-mms-messages-in-java/",
+    "canonical": "https://www.plivo.com/blog/how-to-receive-and-respond-incoming-mms-messages-in-java/"
+  },
+  "title": "How to Receive and Respond to Incoming MMS Messages Using Java with Spring Boot and Plivo",
+  "summary": "Set up a Java application with Spring Boot that receives incoming MMS messages on a Plivo number and replies automatically using Plivo's SMS API.",
+  "published_at": "2022-05-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:51.132542+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T02:00:51.733569+00:00",
+  "paths": {
+    "article": "articles/v1/bc/yc-plivo/2022/05/e5/e58a708d0dbca4a673e8b66c9631d10fa4b2e96ade684227f1bc4882c5e1d5e4/article.md",
+    "record": "articles/v1/bc/yc-plivo/2022/05/e5/e58a708d0dbca4a673e8b66c9631d10fa4b2e96ade684227f1bc4882c5e1d5e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12530,
+    "sha256": "sha256:beea8d4e0a1df4cdd2bc677d908b94c2659fc76ce2a44ace33fc18ef494ae140",
+    "normalized_content_hash": "sha256:e001fab185c3b04d934e672877adc8237763485cda2d2702d3544fa68441d68d"
+  },
+  "provenance": {
+    "source_item_id": "793c25dc-639b-472b-a9a2-d3a8677f1e51",
+    "external_id": "https://www.plivo.com/blog/how-to-receive-and-respond-incoming-mms-messages-in-java/"
+  }
+}

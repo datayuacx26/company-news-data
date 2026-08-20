@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c17a61aebdf10281f0ff2dabbfc475fdd7bc27a40be475589624b4109aeda4a",
+  "company": {
+    "key": "yc-firecrawl",
+    "name": "Firecrawl"
+  },
+  "source": {
+    "id": "yc-firecrawl-news-import-e3b10de50c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.firecrawl.dev/blog/webmcp-headless-agents-firecrawl",
+    "canonical": "https://www.firecrawl.dev/blog/webmcp-headless-agents-firecrawl"
+  },
+  "title": "How to Use WebMCP with a Headless Agent (Claude Code) Using Firecrawl",
+  "summary": "WebMCP lets a site expose developer-defined tools to an AI agent, but only inside a live browser tab. Firecrawl's interact endpoint runs a real browser in the cloud, so headless agents like Claude Code can call those tools too.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T08:10:35.258497+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-13T14:00:11.907558+00:00",
+  "paths": {
+    "article": "articles/v1/ae/yc-firecrawl/2026/07/3c/3c17a61aebdf10281f0ff2dabbfc475fdd7bc27a40be475589624b4109aeda4a/article.md",
+    "record": "articles/v1/ae/yc-firecrawl/2026/07/3c/3c17a61aebdf10281f0ff2dabbfc475fdd7bc27a40be475589624b4109aeda4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14291,
+    "sha256": "sha256:214a7fe4ec01d19ecb1ba0ccbc1927bdc55c402371478726732693573e9d792e",
+    "normalized_content_hash": "sha256:908fe80f52c4c763acb6c777eca3cfdd28104173737970deac66b7fb8e795ad8"
+  },
+  "provenance": {
+    "source_item_id": "9e241a00-03d5-414c-8291-4bb3e4ebbdf3",
+    "external_id": "https://www.firecrawl.dev/blog/webmcp-headless-agents-firecrawl"
+  }
+}

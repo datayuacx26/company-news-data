@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7d627b7409525e36c73af0b4e87e8d629afb4470f58629bda933372a2fe51830",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/detecting-faulty-deployments/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/detecting-faulty-deployments/"
+  },
+  "title": "Detecting faulty deployments: Our journey from unlabeled data to supervised learning",
+  "summary": "Learn how we developed Datadog Automatic Faulty Deployment Detection and improved precision, recall, and time to detection along the way.",
+  "published_at": "2025-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:57:27.560850+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/7d/7d627b7409525e36c73af0b4e87e8d629afb4470f58629bda933372a2fe51830/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/7d/7d627b7409525e36c73af0b4e87e8d629afb4470f58629bda933372a2fe51830/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20935,
+    "sha256": "sha256:ef1609df19acd18f4a2c100f40c53e89f49e16eb49a8a9f88082dea27c51bbab",
+    "normalized_content_hash": "sha256:1a628347e9400706042fe7abb3622ef353f9aed9f7f469cde3a3854dcaf9fc1e"
+  },
+  "provenance": {
+    "source_item_id": "340e9c5d-2e48-422f-b174-f84de768b40f",
+    "external_id": "https://www.datadoghq.com/blog/engineering/detecting-faulty-deployments/"
+  }
+}

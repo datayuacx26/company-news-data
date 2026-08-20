@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e68a2802f339e9d35405fc27ba4fae8d88b2fcccbc69e2c6f45b29e75c5b414",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-news-import-cb4f1d0345d1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stripe.com/newsroom/news/stripe-named-a-leader-by-gartner-for-its-billing-product-for-third-consecutive-year",
+    "canonical": "https://stripe.com/newsroom/news/stripe-named-a-leader-by-gartner-for-its-billing-product-for-third-consecutive-year"
+  },
+  "title": "Stripe named a Leader by Gartner for its Billing Product for third consecutive year",
+  "summary": "Stripe named 3x Gartner® Magic Quadrant™ Leader in Recurring Billing Applications",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T21:16:21.848512+00:00",
+  "fetched_at": "2026-08-18T21:16:22.884079+00:00",
+  "last_updated_at": "2026-08-20T02:16:33.048642+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2026/08/2e/2e68a2802f339e9d35405fc27ba4fae8d88b2fcccbc69e2c6f45b29e75c5b414/article.md",
+    "record": "articles/v1/b6/yc-stripe/2026/08/2e/2e68a2802f339e9d35405fc27ba4fae8d88b2fcccbc69e2c6f45b29e75c5b414/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2943,
+    "sha256": "sha256:e2871927c13dcdb89133a07120e9744fca6522b15d7fff6be2e819dd3949e824",
+    "normalized_content_hash": "sha256:32205eec497c5edd26db1148f7de3911afc632f343f0214fe0f392b31941e03e"
+  },
+  "provenance": {
+    "source_item_id": "86da87fb-e571-414c-802a-190d2e826fbc",
+    "external_id": "https://stripe.com/newsroom/news/stripe-named-a-leader-by-gartner-for-its-billing-product-for-third-consecutive-year"
+  }
+}

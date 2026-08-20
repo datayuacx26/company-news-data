@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "403bada8b91a242aa841451a83ffefba828d6d72ed3a3c19c4dd9964eaf80760",
+  "company": {
+    "key": "yc-pluggy",
+    "name": "Pluggy"
+  },
+  "source": {
+    "id": "yc-pluggy-news-import-4bbcede04bdb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.pluggy.ai/changelog/atualiza%C3%A7%C3%B5es-de-produto-junho2026",
+    "canonical": "https://docs.pluggy.ai/changelog/atualiza%C3%A7%C3%B5es-de-produto-junho2026"
+  },
+  "title": "Atualizações de produto | Junho/2026",
+  "summary": "### **Breaking changes e depreciações** Transição para cursor pagination no endpoint de transações. Contas criadas a partir de junho de 2026 passam a usar por padrão o endpoint de transações com cursor pagination. O endpoint legado (v1) está em descontinuação gradual para essas contas. O que fazer:…",
+  "published_at": null,
+  "first_seen_at": "2026-08-14T04:18:01.345904+00:00",
+  "fetched_at": "2026-08-14T04:18:02.940255+00:00",
+  "last_updated_at": "2026-08-19T20:02:14.026866+00:00",
+  "paths": {
+    "article": "articles/v1/9a/yc-pluggy/2026/08/40/403bada8b91a242aa841451a83ffefba828d6d72ed3a3c19c4dd9964eaf80760/article.md",
+    "record": "articles/v1/9a/yc-pluggy/2026/08/40/403bada8b91a242aa841451a83ffefba828d6d72ed3a3c19c4dd9964eaf80760/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6217,
+    "sha256": "sha256:10f02a939397f2544ecbcce4d3f374cbcee0b8080dc1a7a2e157e8a4c6e89292",
+    "normalized_content_hash": "sha256:726191dd3e0b57a3c74c72d3bb31ed368ff5683938578e9b7042d8a73c772896"
+  },
+  "provenance": {
+    "source_item_id": "808b0705-bac1-4fb4-a4eb-28eb1a35fe06",
+    "external_id": "https://docs.pluggy.ai/changelog/atualiza%C3%A7%C3%B5es-de-produto-junho2026"
+  }
+}

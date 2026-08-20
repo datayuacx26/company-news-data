@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-prosper",
+    "name": "Prosper"
+  },
+  "record_count": 24,
+  "first_published_at": "2026-07-16T00:00:00+00:00",
+  "last_published_at": "2026-08-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 15
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ae/yc-prosper/index/pages/000001.json",
+        "record_count": 24,
+        "byte_count": 24747,
+        "sha256": "sha256:d81103b83e8d09ac52d6d36948510272a4a3eba6da422105c3bd797d70fa16cd",
+        "newest_at": "2026-08-15T00:00:00+00:00",
+        "oldest_at": "2026-07-16T00:00:00+00:00"
+      }
+    ]
+  }
+}

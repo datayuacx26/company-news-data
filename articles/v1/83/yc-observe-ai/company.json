@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-observe-ai",
+    "name": "Observe.AI"
+  },
+  "record_count": 15,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/83/yc-observe-ai/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 14627,
+        "sha256": "sha256:5672e11c85ac44016df67d63552b509a8d3dbbe965d3bf9365e2961aa028f5fc",
+        "newest_at": "2026-08-19T05:45:18.771629+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

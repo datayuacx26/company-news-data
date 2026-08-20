@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "090846a75c6b8ff3335cac1789a0d0eb3e83304bad8fc7f039433783e821f135",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/scaling-process-pipeline-efficiency/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/scaling-process-pipeline-efficiency/"
+  },
+  "title": "Scaling down to speed up: How we improved efficiency of live process metrics by 100x",
+  "summary": "We re-architected the real-time data pipeline for Datadog’s Processes and Containers views—cutting traffic by 100x and infrastructure use by 98%. This post explores the system challenges, architectural changes, and their impact.",
+  "published_at": "2025-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/08/09/090846a75c6b8ff3335cac1789a0d0eb3e83304bad8fc7f039433783e821f135/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/08/09/090846a75c6b8ff3335cac1789a0d0eb3e83304bad8fc7f039433783e821f135/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12640,
+    "sha256": "sha256:f8f2fa0ccebbef3dbd34fd7a1a2a42df1f67eeb5e396203c60ad86d1bc501d0b",
+    "normalized_content_hash": "sha256:8203526021f724b8f04075744750d0f16c450cf7d8d69120be008c610d68d896"
+  },
+  "provenance": {
+    "source_item_id": "9fe60d7d-f922-4709-99ce-4d3eb48dd2ee",
+    "external_id": "https://www.datadoghq.com/blog/engineering/scaling-process-pipeline-efficiency/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dbf9accedc412ac5384e1ab5ac28e5b0a993c5e672fc7b6f494bfc538decd807",
+  "company": {
+    "key": "palo-alto-networks-inc-common-stock",
+    "name": "Palo Alto Networks Inc."
+  },
+  "source": {
+    "id": "palo-alto-networks-inc-common-stock-rss-052596d63611",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/",
+    "canonical": "https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/"
+  },
+  "title": "The Xcode Assassin Returns: A Deep Dive Into the Latest XCSSET Version",
+  "summary": "Analysis of XCSSET v40 reveals a macOS malware targeting developers via Xcode. Unit 42 used advanced pattern matching and AI to decode its logic.",
+  "published_at": "2026-07-31T10:00:18+00:00",
+  "first_seen_at": "2026-07-31T17:05:09.488739+00:00",
+  "fetched_at": "2026-07-31T17:05:10.966192+00:00",
+  "last_updated_at": "2026-08-20T00:37:41.927026+00:00",
+  "paths": {
+    "article": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/db/dbf9accedc412ac5384e1ab5ac28e5b0a993c5e672fc7b6f494bfc538decd807/article.md",
+    "record": "articles/v1/9c/palo-alto-networks-inc-common-stock/2026/07/db/dbf9accedc412ac5384e1ab5ac28e5b0a993c5e672fc7b6f494bfc538decd807/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 35279,
+    "sha256": "sha256:d68caa6a45e268730c5f4d0f89bf40fa9ccdf95e245e3ff2199069ba6670fa27",
+    "normalized_content_hash": "sha256:181e4817a8dbb8fb9df8be7f2ac010e578e3577011a41744fca9fb15a80abef2"
+  },
+  "provenance": {
+    "source_item_id": "e66c05d8-b212-4056-ad4f-a9bc31be6d66",
+    "external_id": "https://unit42.paloaltonetworks.com/?p=183840"
+  }
+}

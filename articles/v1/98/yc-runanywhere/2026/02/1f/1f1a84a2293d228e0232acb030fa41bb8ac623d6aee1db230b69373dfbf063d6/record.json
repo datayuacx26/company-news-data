@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f1a84a2293d228e0232acb030fa41bb8ac623d6aee1db230b69373dfbf063d6",
+  "company": {
+    "key": "yc-runanywhere",
+    "name": "RunAnywhere"
+  },
+  "source": {
+    "id": "yc-runanywhere-news-import-450c102900e1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai-pipeline-apple-silicon",
+    "canonical": "https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai-pipeline-apple-silicon"
+  },
+  "title": "FastVoice: 63ms First-Audio Latency for On-Device Voice AI on Apple Silicon",
+  "summary": "FastVoice achieves 63ms first-audio latency — well under the 200ms perceptual threshold — by composing STT, LLM, and TTS into a single C++ pipeline on Apple Silicon. No cloud. No network. Just speed.",
+  "published_at": "2026-02-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:25:59.131595+00:00",
+  "fetched_at": "2026-07-28T22:19:30.840186+00:00",
+  "last_updated_at": "2026-08-20T02:00:47.205360+00:00",
+  "paths": {
+    "article": "articles/v1/98/yc-runanywhere/2026/02/1f/1f1a84a2293d228e0232acb030fa41bb8ac623d6aee1db230b69373dfbf063d6/article.md",
+    "record": "articles/v1/98/yc-runanywhere/2026/02/1f/1f1a84a2293d228e0232acb030fa41bb8ac623d6aee1db230b69373dfbf063d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8245,
+    "sha256": "sha256:ee5e12913903b734e55ea6f11aa016d4d1f32715079a85b1ed6ec570c2c8e9cd",
+    "normalized_content_hash": "sha256:a046e75557558a454ee121b792c10d1a50ca3400b48322565654af59640e064c"
+  },
+  "provenance": {
+    "source_item_id": "028c4765-6044-46bb-9f93-3fb02e89a49b",
+    "external_id": "https://www.runanywhere.ai/blog/fastvoice-on-device-voice-ai-pipeline-apple-silicon"
+  }
+}

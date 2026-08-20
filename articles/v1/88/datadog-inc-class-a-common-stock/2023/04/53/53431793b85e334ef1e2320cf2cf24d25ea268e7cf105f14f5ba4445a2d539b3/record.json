@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "53431793b85e334ef1e2320cf2cf24d25ea268e7cf105f14f5ba4445a2d539b3",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/"
+  },
+  "title": "Making fetch happen: Building a general-purpose query and render scheduler",
+  "summary": "Learn how we developed a new scheduling algorithm for data fetching and rendering and how we built it for use across our suite of Datadog products.",
+  "published_at": "2023-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:02:21.428828+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2023/04/53/53431793b85e334ef1e2320cf2cf24d25ea268e7cf105f14f5ba4445a2d539b3/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2023/04/53/53431793b85e334ef1e2320cf2cf24d25ea268e7cf105f14f5ba4445a2d539b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16355,
+    "sha256": "sha256:cfc4d9fbb4943ce833c996c93bcf1d2e12ff77e7f1fcc9d907f8c4ed6c4bc3e0",
+    "normalized_content_hash": "sha256:c65a079cfb631056166743c3ea9c3cbbe8b82f3f7ae9aaf1a701f6a10b2647ea"
+  },
+  "provenance": {
+    "source_item_id": "2cb71fc0-c62b-4af3-8033-178061dc556c",
+    "external_id": "https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/"
+  }
+}

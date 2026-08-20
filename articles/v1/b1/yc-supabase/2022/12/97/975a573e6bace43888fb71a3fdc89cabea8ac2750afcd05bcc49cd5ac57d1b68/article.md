@@ -1,0 +1,93 @@
+---
+schema_version: "1.0.0"
+document_id: "975a573e6bace43888fb71a3fdc89cabea8ac2750afcd05bcc49cd5ac57d1b68"
+company_key: "yc-supabase"
+company: "Supabase"
+source_id: "yc-supabase-rss-47281c9e7110"
+canonical_url: "https://supabase.com/blog/custom-domain-names"
+published_at: "2022-12-16T07:00:00+00:00"
+first_seen_at: "2026-07-20T23:24:12.344578+00:00"
+fetched_at: "2026-07-28T21:02:37.132176+00:00"
+content_hash: "sha256:b714113099b5ba1a21605f3784370e3a7f5d35afbb12bbaafe55a2699c8a4944"
+---
+
+# Custom Domain Names
+
+After your side-project becomes wildly viral, and you've graduated into a “serious business”, delivering a more branded experience is probably one of the items at the bottom of your checklist.
+
+
+To that end, we're releasing custom domains, and vanity subdomains, to help you present a more polished product to your users.
+
+
+# Custom Domains#
+
+
+Custom domains allow you to use your own domain for your Supabase project.
+
+
+Instead of seeing:
+
+
+` sqvfdnkeiuztnsinmtau.supabase.co`
+
+
+your users instead interact with
+
+
+` api.example.com` :
+
+
+Today, we're making Custom Domains generally available, and they're now accessible as a paid add-on through the Supabase dashboard.
+
+
+Get your custom domain in the[Dashboard](https://supabase.com/dashboard/project/_/settings/general)
+
+
+# Vanity Subdomains#
+
+
+Vanity Subdomains allow you to choose a subdomain on Supabase's own domain.
+
+
+Instead of hosting your services on a randomly assigned subdomain:
+
+
+` abcdefghijklmno.supabase.co`
+
+
+you can choose one that's relevant to your project, for example:
+
+
+` my-example-brand.supabase.co`
+
+
+Vanity Subdomains are offered at no additional cost for all projects on a paid plan, and are being launched in a closed beta.
+
+
+Instructions for setting up Vanity Subdomains are now available in our[docs](https://supabase.com/docs/guides/platform/custom-domains#vanity-subdomains) .
+
+
+## Limitations#
+
+
+In this release, we still have some limitations that we're working through:
+
+
+1. Edge Functions don't support custom domains or vanity subdomains yet, so you have to use the current endpoint to access them.
+2. Right now, you can only set up one custom domain or vanity subdomain per project.
+
+
+We're working hard to fix these limitations, so stay tuned for future updates.
+
+
+## More Launch Week 6#
+
+
+- [Day 1: New Supabase Docs, built with Next.js](https://supabase.com/blog/new-supabase-docs-built-with-nextjs)
+- [Day 2: Supabase Storage v2: Image resizing and Smart CDN](https://supabase.com/blog/storage-image-resizing-smart-cdn)
+- [Day 3: Multi-factor Authentication via Row Level Security Enforcement](https://supabase.com/blog/mfa-auth-via-rls)
+- [Day 4: Supabase Wrappers, a Postgres FDW framework written in Rust](https://supabase.com/blog/postgres-foreign-data-wrappers-rust)
+- [Day 5: Supabase Vault is now in Beta](https://supabase.com/blog/vault-now-in-beta)
+- [Point in Time Recovery is now available](https://supabase.com/blog/postgres-point-in-time-recovery)
+- [Custom Domain Names are now available](https://supabase.com/blog/custom-domain-names)
+- [Wrap Up: everything we shipped](https://supabase.com/blog/launch-week-6-wrap-up)

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59c1120bc175e162a3161a2895e57f7551a0d59a493f58f3fd86a87c0cfa7bc3",
+  "company": {
+    "key": "yc-asayer",
+    "name": "OpenReplay"
+  },
+  "source": {
+    "id": "yc-asayer-news-import-d07b882e81c8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.openreplay.com/catch-ui-bugs-visual-regression-testing/",
+    "canonical": "https://blog.openreplay.com/catch-ui-bugs-visual-regression-testing/"
+  },
+  "title": "Catching UI Bugs with Visual Regression Testing",
+  "summary": "Visual regression testing with Playwright and Vitest catches UI bugs unit and E2E tests miss, with tips for baselines, flake control, and CI.",
+  "published_at": "2026-06-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T17:38:53.548823+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-07-28T21:22:59.068261+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-asayer/2026/06/59/59c1120bc175e162a3161a2895e57f7551a0d59a493f58f3fd86a87c0cfa7bc3/article.md",
+    "record": "articles/v1/ad/yc-asayer/2026/06/59/59c1120bc175e162a3161a2895e57f7551a0d59a493f58f3fd86a87c0cfa7bc3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26241,
+    "sha256": "sha256:cc9c62a9f6a612aced32febf5d8e631eb23e8445809779a7624bb2983e27b6c6",
+    "normalized_content_hash": "sha256:660a207ff40b88ac469aa7da864a0042b747b348b95905837a44cd89a23be943"
+  },
+  "provenance": {
+    "source_item_id": "3768be7e-c373-4a15-a33b-77edd5fee10b",
+    "external_id": "https://blog.openreplay.com/catch-ui-bugs-visual-regression-testing/"
+  }
+}

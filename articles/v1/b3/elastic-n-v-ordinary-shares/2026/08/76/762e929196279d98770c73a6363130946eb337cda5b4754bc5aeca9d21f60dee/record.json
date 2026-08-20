@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "762e929196279d98770c73a6363130946eb337cda5b4754bc5aeca9d21f60dee",
+  "company": {
+    "key": "elastic-n-v-ordinary-shares",
+    "name": "Elastic N.V."
+  },
+  "source": {
+    "id": "elastic-n-v-ordinary-shares-news-import-ebf5ac4e0909",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.elastic.co/search-labs/blog/elasticsearch-mcp-server-oauth-authentication",
+    "canonical": "https://www.elastic.co/search-labs/blog/elasticsearch-mcp-server-oauth-authentication"
+  },
+  "title": "Your AI agent doesn't need your API key: OAuth 2.1 for Elasticsearch MCP server authentication",
+  "summary": "Set up OAuth authentication for the Elasticsearch MCP server. One browser sign-in replaces your API key with a short-lived, revocable token.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T16:58:27.946710+00:00",
+  "fetched_at": "2026-08-13T16:58:29.603066+00:00",
+  "last_updated_at": "2026-08-20T02:23:13.375428+00:00",
+  "paths": {
+    "article": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/76/762e929196279d98770c73a6363130946eb337cda5b4754bc5aeca9d21f60dee/article.md",
+    "record": "articles/v1/b3/elastic-n-v-ordinary-shares/2026/08/76/762e929196279d98770c73a6363130946eb337cda5b4754bc5aeca9d21f60dee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8491,
+    "sha256": "sha256:5f87229efebf02612e127d50445d33d5f1233fcbcafb831e6bf6b3d79dc1fc17",
+    "normalized_content_hash": "sha256:b5676a6f2a84f1332c91dd3993a5b963de9084641a9c50fbcc863da1b442c8e3"
+  },
+  "provenance": {
+    "source_item_id": "c57014e9-7651-469c-a989-69709c25efaf",
+    "external_id": "https://www.elastic.co/search-labs/blog/elasticsearch-mcp-server-oauth-authentication"
+  }
+}

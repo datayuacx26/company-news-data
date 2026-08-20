@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pc-connection-inc-common-stock",
+    "name": "PC Connection Inc."
+  },
+  "record_count": 104,
+  "first_published_at": "2025-03-11T13:53:05+00:00",
+  "last_published_at": "2026-08-18T17:34:50+00:00",
+  "partitions": [
+    {
+      "partition": "2025-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 8
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/95/pc-connection-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 57542,
+        "sha256": "sha256:6a97f74ab2df35f2758b69080ecec2919cd87b783e322cd69119c91be73d3782",
+        "newest_at": "2026-08-18T17:34:50+00:00",
+        "oldest_at": "2025-12-02T17:01:16+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/95/pc-connection-inc-common-stock/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 57592,
+        "sha256": "sha256:d21052b044ad408349d6204545090979be14616fb01b88ff3da56c9f5662306b",
+        "newest_at": "2025-11-25T14:56:55+00:00",
+        "oldest_at": "2025-03-27T08:39:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/95/pc-connection-inc-common-stock/index/pages/000003.json",
+        "record_count": 4,
+        "byte_count": 4828,
+        "sha256": "sha256:c0150d171cc33c843e0a66b473b5a2ff571ba32b69c3dd2bfae01e45aeb25689",
+        "newest_at": "2025-03-20T11:56:00+00:00",
+        "oldest_at": "2025-03-11T13:53:05+00:00"
+      }
+    ]
+  }
+}

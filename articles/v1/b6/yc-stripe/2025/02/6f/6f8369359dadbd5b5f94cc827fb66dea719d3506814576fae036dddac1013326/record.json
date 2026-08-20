@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6f8369359dadbd5b5f94cc827fb66dea719d3506814576fae036dddac1013326",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/securing-stripe-api-keys-aws-automatic-rotation",
+    "canonical": "https://stripe.dev/blog/securing-stripe-api-keys-aws-automatic-rotation"
+  },
+  "title": "Securing Stripe API Keys in AWS with automatic rotation",
+  "summary": "Learn how to securely manage and automatically rotate your Stripe API keys in AWS for a production-grade approach. This guide covers best practices, tools, and strategies to enhance the security of your financial transactions.",
+  "published_at": "2025-02-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:58:20.301648+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/02/6f/6f8369359dadbd5b5f94cc827fb66dea719d3506814576fae036dddac1013326/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/02/6f/6f8369359dadbd5b5f94cc827fb66dea719d3506814576fae036dddac1013326/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5967,
+    "sha256": "sha256:054cdc1acf94737206a429ced2c08959832c1d203729b3acdc691b02b9df419e",
+    "normalized_content_hash": "sha256:5c2cd9ac064b28e6e685c215438ceba0f680992ef3e073f67c3e58665344e88d"
+  },
+  "provenance": {
+    "source_item_id": "b78e518f-0fce-4899-b7d3-3498efb233c8",
+    "external_id": "https://stripe.dev/blog/securing-stripe-api-keys-aws-automatic-rotation"
+  }
+}

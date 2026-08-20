@@ -1,0 +1,127 @@
+---
+schema_version: "1.0.0"
+document_id: "170044e1940b3a00865a314bbc8bc834efb0e3f7c498300396ab5b69cf8665a3"
+company_key: "yc-supabase"
+company: "Supabase"
+source_id: "yc-supabase-rss-47281c9e7110"
+canonical_url: "https://supabase.com/blog/pgvector-fast-builds"
+published_at: "2024-01-30T07:00:00+00:00"
+first_seen_at: "2026-07-20T23:24:12.344578+00:00"
+fetched_at: "2026-07-28T22:26:16.511012+00:00"
+content_hash: "sha256:0c093b3f97c79430e003301249e1caca70ae39f1732ef6d2889a5aea3324b58e"
+---
+
+# pgvector 0.6.0: 30x faster with parallel index builds
+
+pgvector 0.6.0 was released today, with a significant improvement: parallel builds for HNSW indexes. Building an HNSW index is now up to 30x faster for unlogged tables.
+
+
+This release is a huge step forward for pgvector, making it easier to tune HNSW build parameters and increase search accuracy and performance.
+
+
+## HNSW indexes in pgvector#
+
+
+We explored[how HNSW works](https://supabase.com/blog/increase-performance-pgvector-hnsw#how-does-hnsw-work) in an earlier post, so as a quick recap: HNSW is an algorithm for approximate nearest neighbor search. It uses proximity graphs and consists of two parts: hierarchical and navigatable small world. It operates over multiple layers with different densities or distances between nodes, where layers represent different connection lengths between nodes. Thus allowing HNSW to search, insert, and delete in linearithmic time.
+
+
+## pgvector parallel index builds#
+
+
+Prior to 0.6.0, pgvector only supported building indexes using a single thread - a big bottleneck for large datasets. For example, building an index for 1 million vectors of 1536 dimensions would take around 1 hour and 27 minutes (with` 'm'=16, 'ef_construction'=200` ).
+
+
+With parallel index builds you can build an index for the same dataset in 9.5 minutes - 9 times faster:
+
+
+## Performance comparison: pgvector 0.5 vs 0.6#
+
+
+We tested index build time with the[dbpedia-entities-openai-1M](https://huggingface.co/datasets/KShivendu/dbpedia-entities-openai-1M) dataset (1 million vectors, 1536 dimensions) to compare the performance of parallel and single-threaded index HNSW builds. At the same time, we verified that the resulting indexes are the same in terms of accuracy and queries per second (QPS).
+
+
+We ran benchmarks on various database sizes to see the impact of parallel builds:
+
+
+- 4XL instance (16 cores 64GB RAM)
+- 16XL instance (64 cores 256GB RAM)
+
+
+### 4XL instance (16 cores 64GB RAM)#
+
+
+This benchmark used the following parameters:
+
+
+0.5.1 0.6.0
+
+
+mainenance_work_mem 30GB 30GB
+
+
+max_parallel_maintenance_workers - 15
+
+
+` max_parallel_maintenance_workers` controls how many parallel threads are used to build an index. In further sections we will refer to the total number of workers, including the leader.
+
+
+The index build time is 7-9 times faster for 0.6.0, while queries per second and accuracy stay the same for both versions:
+
+
+- ` v0.5.1` : averaged 938 QPS and 0.963 accuracy across all benchmarks.
+- ` v0.6.0` : averaged 950 QPS and 0.963 accuracy across all benchmarks.
+
+
+### 16XL instance (64 cores 256GB RAM)#
+
+
+You can further improve index build performance using a more powerful instance (up to 13.5x for these parameters).
+
+
+The index build time is not linearly proportional to the number of cores used. A sensible default for` max_parallel_maintenance_workers` is` CPU count / 2` , the default we set on the Supabase platform. Accuracy and QPS are not affected by` max_parallel_maintenance_workers` .
+
+
+Pro tip: optimizing your bills
+
+
+The trick is to use a large database while you build the index and then switch back to a cheaper instance after the index is built.
+
+
+### Embeddings with unlogged tables#
+
+
+Building time can be reduced *even further* using unlogged tables.
+
+
+An unlogged table in Postgres is a table whose modifications are not recorded in the write-ahead log (trading performance for data reliability). Unlogged tables are a great option for embeddings because the raw data is often stored separately and the embeddings can be recreated from the source data at any time.
+
+
+One of the steps of index creation is the final scan and WAL writing. This is generally short but not parallelizable. Using unlogged tables allows you to skip the WAL, with an impressive impact:
+
+
+ef_construction Build time: v0.5.1 Build time: v0.6.0 (unlogged) Improvement
+
+
+64 38m 08s 1m 38s 23x
+
+
+100 1h 06m 59s 2m 10s 31x
+
+
+200 1h 27m 45s 3m 37s 24x
+
+
+## Getting started#
+
+
+pgvector 0.6.0 was[just released](https://github.com/pgvector/pgvector/releases/tag/v0.6.0) and will be available on Supabase projects soon. Again, a special shout out to Andrew Kane and everyone else who[worked on parallel index builds](https://github.com/pgvector/pgvector/issues/409) .
+
+
+## More pgvector and AI resources#
+
+
+- [pgvector v0.5.0: Faster semantic search with HNSW indexes](https://supabase.com/blog/increase-performance-pgvector-hnsw)
+- [How to build ChatGPT Plugin from scratch with Supabase Edge Runtime](https://supabase.com/blog/building-chatgpt-plugins-template)
+- [Docs pgvector: Embeddings and vector similarity](https://supabase.com/docs/guides/database/extensions/pgvector)
+- [Choosing Compute Add-on for AI workloads](https://supabase.com/docs/guides/ai/choosing-compute-addon)
+- [pgvector: Fewer dimensions are better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)

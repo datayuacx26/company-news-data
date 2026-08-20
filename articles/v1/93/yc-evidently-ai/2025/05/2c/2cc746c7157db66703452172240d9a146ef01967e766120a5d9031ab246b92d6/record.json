@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2cc746c7157db66703452172240d9a146ef01967e766120a5d9031ab246b92d6",
+  "company": {
+    "key": "yc-evidently-ai",
+    "name": "Evidently AI"
+  },
+  "source": {
+    "id": "yc-evidently-ai-news-import-f9abf95c6ead",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.evidentlyai.com/blog/rag-benchmarks",
+    "canonical": "https://www.evidentlyai.com/blog/rag-benchmarks"
+  },
+  "title": "7 RAG benchmarks",
+  "summary": "We highlight seven RAG benchmarks that help measure and compare how well different LLMs handle core RAG challenges like large context windows, grounded reasoning, and using retrieved evidence effectively.",
+  "published_at": "2025-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T09:04:26.767431+00:00",
+  "fetched_at": "2026-07-28T21:40:00.658555+00:00",
+  "last_updated_at": "2026-07-28T21:41:56.567150+00:00",
+  "paths": {
+    "article": "articles/v1/93/yc-evidently-ai/2025/05/2c/2cc746c7157db66703452172240d9a146ef01967e766120a5d9031ab246b92d6/article.md",
+    "record": "articles/v1/93/yc-evidently-ai/2025/05/2c/2cc746c7157db66703452172240d9a146ef01967e766120a5d9031ab246b92d6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11826,
+    "sha256": "sha256:6af1c548ddb23adda904c191d78eda556a595ade6b5aba5b3062898b58b1d24a",
+    "normalized_content_hash": "sha256:4e4a6e1b483b47699f96ce972d48b6e7813783a11b0df97593b7debbf0985e4e"
+  },
+  "provenance": {
+    "source_item_id": "346e3ba4-68f9-44f7-ab65-64fd19a3cf81",
+    "external_id": "https://www.evidentlyai.com/blog/rag-benchmarks"
+  }
+}

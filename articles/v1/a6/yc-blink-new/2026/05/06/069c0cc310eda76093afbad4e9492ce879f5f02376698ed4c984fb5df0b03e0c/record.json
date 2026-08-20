@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "069c0cc310eda76093afbad4e9492ce879f5f02376698ed4c984fb5df0b03e0c",
+  "company": {
+    "key": "yc-blink-new",
+    "name": "Blink"
+  },
+  "source": {
+    "id": "yc-blink-new-rss-0c236d2832c1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blink.new/blog/how-to-build-multi-tenant-saas",
+    "canonical": "https://blink.new/blog/how-to-build-multi-tenant-saas"
+  },
+  "title": "How to Build a Multi-Tenant SaaS App (Without the Architecture Headaches)",
+  "summary": "Build a multi-tenant SaaS app with proper data isolation. Database, auth, and RLS included with Blink — no separate Supabase or Clerk needed.",
+  "published_at": "2026-05-17T00:30:21+00:00",
+  "first_seen_at": "2026-07-24T19:35:33.186925+00:00",
+  "fetched_at": "2026-07-28T22:13:06.313483+00:00",
+  "last_updated_at": "2026-08-20T03:39:45.542839+00:00",
+  "paths": {
+    "article": "articles/v1/a6/yc-blink-new/2026/05/06/069c0cc310eda76093afbad4e9492ce879f5f02376698ed4c984fb5df0b03e0c/article.md",
+    "record": "articles/v1/a6/yc-blink-new/2026/05/06/069c0cc310eda76093afbad4e9492ce879f5f02376698ed4c984fb5df0b03e0c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10818,
+    "sha256": "sha256:6e15a5c9d657b7faa4a4844392f801868a9e4023c130c5be82e0f132482ee94f",
+    "normalized_content_hash": "sha256:286c31470885172c4b7c8cf5a34f02ffeb76037a7af9e9e7b17a70222cc10add"
+  },
+  "provenance": {
+    "source_item_id": "8b86fd22-e2ec-41c3-87fb-7f8e5e08112f",
+    "external_id": "https://blink.new/blog/how-to-build-multi-tenant-saas"
+  }
+}

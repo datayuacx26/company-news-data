@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fae59e050cedcb646650b32fad08e5902bcb5ee183932cd778c6f24c3238ddf5",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/gating-entrances-with-stripe-and-nfc-passes",
+    "canonical": "https://stripe.dev/blog/gating-entrances-with-stripe-and-nfc-passes"
+  },
+  "title": "Gating entrances with Stripe and NFC passes",
+  "summary": "Learn how to gate physical entrances using Stripe subscriptions and NFC passes. This guide shows how to issue Apple/Google Wallet passes with PassNinja, integrate Stripe Checkout, and control door access with a Raspberry Pi and NFC reader.",
+  "published_at": "2025-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:56:25.546971+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/08/fa/fae59e050cedcb646650b32fad08e5902bcb5ee183932cd778c6f24c3238ddf5/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/08/fa/fae59e050cedcb646650b32fad08e5902bcb5ee183932cd778c6f24c3238ddf5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3305,
+    "sha256": "sha256:c592ac7ce739b39ab50bad66ef905a2e5bac3ac7978a5d0ad3ac61d5c5f85ae0",
+    "normalized_content_hash": "sha256:29e0efe4a0214174002a6494296e2058d4288591b051170f4f89343ae1051b56"
+  },
+  "provenance": {
+    "source_item_id": "16f4ad23-c58c-4776-a48e-71cb7a54298c",
+    "external_id": "https://stripe.dev/blog/gating-entrances-with-stripe-and-nfc-passes"
+  }
+}

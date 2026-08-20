@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "223ded8bb2c1c82a23640f68c0b0806e4a6242bf0d7befd35eaed8cd41b5c02c",
+  "company": {
+    "key": "yc-mem0",
+    "name": "Mem0"
+  },
+  "source": {
+    "id": "yc-mem0-news-import-acb706cfa21b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mem0.ai/blog/beyond-agents.md-shared-memory-for-coding-agents-across-services-and-repos",
+    "canonical": "https://mem0.ai/blog/beyond-agents.md-shared-memory-for-coding-agents-across-services-and-repos"
+  },
+  "title": "Beyond AGENTS․md: Shared Memory For Coding Agents Across Services And Repos",
+  "summary": "A runnable test: one agent rewrites a contract, and the agent in the next service silently stops sending receipts until it can read what changed.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T13:25:51.357320+00:00",
+  "fetched_at": "2026-07-29T13:25:51.938497+00:00",
+  "last_updated_at": "2026-08-19T17:37:03.162806+00:00",
+  "paths": {
+    "article": "articles/v1/bd/yc-mem0/2026/07/22/223ded8bb2c1c82a23640f68c0b0806e4a6242bf0d7befd35eaed8cd41b5c02c/article.md",
+    "record": "articles/v1/bd/yc-mem0/2026/07/22/223ded8bb2c1c82a23640f68c0b0806e4a6242bf0d7befd35eaed8cd41b5c02c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16056,
+    "sha256": "sha256:25211fa9966f9e2f8edefd91e0b468c12074df4b9a90ae053e4f4fdfef72ae27",
+    "normalized_content_hash": "sha256:5483300796bb7e3fdc6e5085807ea48ef921d2a27ed732577c3ae9a2ac03c392"
+  },
+  "provenance": {
+    "source_item_id": "c65d385c-602d-4bc9-94b5-f5fd91199cbf",
+    "external_id": "https://mem0.ai/blog/beyond-agents.md-shared-memory-for-coding-agents-across-services-and-repos"
+  }
+}

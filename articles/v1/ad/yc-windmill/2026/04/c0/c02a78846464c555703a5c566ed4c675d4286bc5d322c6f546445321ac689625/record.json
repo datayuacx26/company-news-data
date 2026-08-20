@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c02a78846464c555703a5c566ed4c675d4286bc5d322c6f546445321ac689625",
+  "company": {
+    "key": "yc-windmill",
+    "name": "Windmill"
+  },
+  "source": {
+    "id": "yc-windmill-rss-12b6d71fe86e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.windmill.dev/blog/launch-week-workflow-as-code",
+    "canonical": "https://www.windmill.dev/blog/launch-week-workflow-as-code"
+  },
+  "title": "Workflow-as-code: orchestration in pure code",
+  "summary": "Introducing workflow-as-code: define complex workflows in TypeScript or Python with checkpointing, parallelism, and fault tolerance built in.",
+  "published_at": "2026-04-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:07.070377+00:00",
+  "fetched_at": "2026-07-28T22:16:02.369351+00:00",
+  "last_updated_at": "2026-08-20T02:40:36.450549+00:00",
+  "paths": {
+    "article": "articles/v1/ad/yc-windmill/2026/04/c0/c02a78846464c555703a5c566ed4c675d4286bc5d322c6f546445321ac689625/article.md",
+    "record": "articles/v1/ad/yc-windmill/2026/04/c0/c02a78846464c555703a5c566ed4c675d4286bc5d322c6f546445321ac689625/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9973,
+    "sha256": "sha256:5e7a4cb6b593fd3b7c73f456dc651dbe4862e2c7e4a924b9433c13a56460a85e",
+    "normalized_content_hash": "sha256:4a4ed09a7e53be05185ac7bd32bdba32412625849bec5c4b19bae5a211a2748f"
+  },
+  "provenance": {
+    "source_item_id": "608b9a28-c4cb-4d54-89b6-2a28f439ac5a",
+    "external_id": "https://www.windmill.dev/blog/launch-week-workflow-as-code"
+  }
+}

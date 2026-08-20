@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "lpl-financial-holdings-inc-common-stock",
+    "name": "LPL Financial Holdings Inc."
+  },
+  "record_count": 73,
+  "first_published_at": "2024-11-19T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-11",
+      "record_count": 42
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 9
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/b1/lpl-financial-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58197,
+        "sha256": "sha256:4711a410ce9faec685399bf4c87cc6f32ec8eadb7b2589b105516f0a779b9574",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2024-11-19T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/b1/lpl-financial-holdings-inc-common-stock/index/pages/000002.json",
+        "record_count": 23,
+        "byte_count": 26098,
+        "sha256": "sha256:e06cf09eb0e5a130ff5e10c66f8440139cfd3ce3dc2be638853baa47cd18ab1a",
+        "newest_at": "2024-11-19T00:00:00+00:00",
+        "oldest_at": "2024-11-19T00:00:00+00:00"
+      }
+    ]
+  }
+}

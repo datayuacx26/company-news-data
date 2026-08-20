@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "edc5e0bf4f618e7bfb9e16026c4983ef88c9b35082439933d9d2185c82607162",
+  "company": {
+    "key": "servicenow-inc-common-stock",
+    "name": "ServiceNow Inc."
+  },
+  "source": {
+    "id": "servicenow-inc-common-stock-rss-e68ea5e3c60f",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.servicenow.com/community/technology-blog/accessing-and-using-service-bridge-remote-task-variables-in-an/ba-p/2886966",
+    "canonical": "https://www.servicenow.com/community/technology-blog/accessing-and-using-service-bridge-remote-task-variables-in-an/ba-p/2886966"
+  },
+  "title": "Accessing and using Service Bridge Remote Task variables in an Advanced Transform script",
+  "summary": "The Service Bridge Remote Task Definition allows an admin to specify what fields are to be passed back and forth between a connected Provider and Consumer using a Remote Task. Transforms can be specified that will alter a field value and/or label as it is passed from (outbound transform) and/or t...",
+  "published_at": "2024-07-18T20:45:00+00:00",
+  "first_seen_at": "2026-07-20T04:36:33.238428+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-20T00:29:45.889683+00:00",
+  "paths": {
+    "article": "articles/v1/a5/servicenow-inc-common-stock/2024/07/ed/edc5e0bf4f618e7bfb9e16026c4983ef88c9b35082439933d9d2185c82607162/article.md",
+    "record": "articles/v1/a5/servicenow-inc-common-stock/2024/07/ed/edc5e0bf4f618e7bfb9e16026c4983ef88c9b35082439933d9d2185c82607162/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3301,
+    "sha256": "sha256:afbf9df82e732a743dcdff83ffd8e70a82d7b9224caf3e013b7435aa2a6b655d",
+    "normalized_content_hash": "sha256:6cd4577d11caa5dde1a8a90211d5f1496d545263124b992afa3aee34298b6495"
+  },
+  "provenance": {
+    "source_item_id": "006cb448-3d3a-4c43-a044-5a01d80556e9",
+    "external_id": "https://www.servicenow.com/community/technology-blog/accessing-and-using-service-bridge-remote-task-variables-in-an/ba-p/2886966"
+  }
+}

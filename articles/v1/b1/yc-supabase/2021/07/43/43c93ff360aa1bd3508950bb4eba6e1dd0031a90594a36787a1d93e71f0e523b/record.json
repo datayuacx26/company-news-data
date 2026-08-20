@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43c93ff360aa1bd3508950bb4eba6e1dd0031a90594a36787a1d93e71f0e523b",
+  "company": {
+    "key": "yc-supabase",
+    "name": "Supabase"
+  },
+  "source": {
+    "id": "yc-supabase-rss-47281c9e7110",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://supabase.com/blog/roles-postgres-hooks",
+    "canonical": "https://supabase.com/blog/roles-postgres-hooks"
+  },
+  "title": "Protecting reserved roles with PostgreSQL Hooks",
+  "summary": "Using Postgres Hooks to protect functionality in your Postgres database.",
+  "published_at": "2021-07-02T07:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:12.344578+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T01:22:31.853800+00:00",
+  "paths": {
+    "article": "articles/v1/b1/yc-supabase/2021/07/43/43c93ff360aa1bd3508950bb4eba6e1dd0031a90594a36787a1d93e71f0e523b/article.md",
+    "record": "articles/v1/b1/yc-supabase/2021/07/43/43c93ff360aa1bd3508950bb4eba6e1dd0031a90594a36787a1d93e71f0e523b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17363,
+    "sha256": "sha256:57eefbddea86f06c6807f222ed2a1c4ea212c1c119b9ca2c24bc756dd200f291",
+    "normalized_content_hash": "sha256:be4fa291f6f1a84ef657abdb9977a357d3cf66544e2aa7fec742a6855b467383"
+  },
+  "provenance": {
+    "source_item_id": "59192f66-d0a1-4c9c-a16b-43108f0aeaf6",
+    "external_id": "https://supabase.com/blog/roles-postgres-hooks"
+  }
+}

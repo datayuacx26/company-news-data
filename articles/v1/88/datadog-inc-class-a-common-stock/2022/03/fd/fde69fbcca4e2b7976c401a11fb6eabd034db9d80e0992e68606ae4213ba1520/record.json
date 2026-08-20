@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fde69fbcca4e2b7976c401a11fb6eabd034db9d80e0992e68606ae4213ba1520",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/dirty-pipe-container-escape-poc/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/dirty-pipe-container-escape-poc/"
+  },
+  "title": "Using the Dirty Pipe vulnerability to break out from containers",
+  "summary": "See Datadog's proof of concept exploit for breaking out from unprivileged containers using the Dirty Pipe vulnerability.",
+  "published_at": "2022-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2022/03/fd/fde69fbcca4e2b7976c401a11fb6eabd034db9d80e0992e68606ae4213ba1520/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2022/03/fd/fde69fbcca4e2b7976c401a11fb6eabd034db9d80e0992e68606ae4213ba1520/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16491,
+    "sha256": "sha256:ba5ad1b12307271d0870759f2e781f6a783de3ec332cbec5f442af0bc6c8b057",
+    "normalized_content_hash": "sha256:d83d0933072fe25d850a7ccdf0e4151baf8c07c8d6c743ce9e74e94952531534"
+  },
+  "provenance": {
+    "source_item_id": "e9b0a459-a1a1-4958-a9c5-ae435deb2cd0",
+    "external_id": "https://www.datadoghq.com/blog/engineering/dirty-pipe-container-escape-poc/"
+  }
+}

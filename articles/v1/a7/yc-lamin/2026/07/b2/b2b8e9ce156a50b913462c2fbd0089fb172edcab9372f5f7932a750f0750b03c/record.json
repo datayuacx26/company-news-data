@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2b8e9ce156a50b913462c2fbd0089fb172edcab9372f5f7932a750f0750b03c",
+  "company": {
+    "key": "yc-lamin",
+    "name": "Lamin"
+  },
+  "source": {
+    "id": "yc-lamin-news-import-1018c6ad32c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.lamin.ai/mapped-collection",
+    "canonical": "https://blog.lamin.ai/mapped-collection"
+  },
+  "title": "MappedCollection: Weighted random sampling from large collections of scRNA-seq datasets",
+  "summary": "MappedCollection: Weighted random sampling from large collections of scRNA-seq datasets: A few labs and companies now train models on large-scale scRNA-seq count matrices and related data modalitie...",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T09:27:52.013300+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T14:22:32.254593+00:00",
+  "paths": {
+    "article": "articles/v1/a7/yc-lamin/2026/07/b2/b2b8e9ce156a50b913462c2fbd0089fb172edcab9372f5f7932a750f0750b03c/article.md",
+    "record": "articles/v1/a7/yc-lamin/2026/07/b2/b2b8e9ce156a50b913462c2fbd0089fb172edcab9372f5f7932a750f0750b03c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19212,
+    "sha256": "sha256:96d0e1320daab7fc5a23ff7e2bb0aae123a49778d370971af74958145f974d63",
+    "normalized_content_hash": "sha256:bc4f8b78730262e78ad4e8bf0a732a15c3763bac15ee10f7f87468f826a3d897"
+  },
+  "provenance": {
+    "source_item_id": "e6a8ccc3-441e-4217-890c-42db049b9748",
+    "external_id": "https://blog.lamin.ai/mapped-collection"
+  }
+}

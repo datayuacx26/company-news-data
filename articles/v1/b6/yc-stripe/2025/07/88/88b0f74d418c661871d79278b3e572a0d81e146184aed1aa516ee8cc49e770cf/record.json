@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88b0f74d418c661871d79278b3e572a0d81e146184aed1aa516ee8cc49e770cf",
+  "company": {
+    "key": "yc-stripe",
+    "name": "Stripe"
+  },
+  "source": {
+    "id": "yc-stripe-dev-blog-rss",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks",
+    "canonical": "https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks"
+  },
+  "title": "Stay within limits: API rate-limit-friendly pattern for Stripe webhooks",
+  "summary": "Learn how to build a resilient, rate-limit-friendly system for handling Stripe webhooks at scale. This guide explains the fetch-before-process pattern, its risks under high volume, and how to use Hookdeck to queue and throttle webhooks—ensuring reliable processing without exceeding Stripe API limits.",
+  "published_at": "2025-07-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-19T22:29:11.601208+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-20T01:39:57.284333+00:00",
+  "paths": {
+    "article": "articles/v1/b6/yc-stripe/2025/07/88/88b0f74d418c661871d79278b3e572a0d81e146184aed1aa516ee8cc49e770cf/article.md",
+    "record": "articles/v1/b6/yc-stripe/2025/07/88/88b0f74d418c661871d79278b3e572a0d81e146184aed1aa516ee8cc49e770cf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4165,
+    "sha256": "sha256:e3466ca04d40797660a5f37709eb37181f1b1c047566aebbafd99c445dc2965d",
+    "normalized_content_hash": "sha256:62f05104bf8e5955f94732925b11cf55da605f76fcb10455375d4139e2296559"
+  },
+  "provenance": {
+    "source_item_id": "46847736-2e06-4624-a918-d635e46bf77c",
+    "external_id": "https://stripe.dev/blog/stay-within-limits-api-rate-limit-friendly-pattern-for-stripe-webhooks"
+  }
+}

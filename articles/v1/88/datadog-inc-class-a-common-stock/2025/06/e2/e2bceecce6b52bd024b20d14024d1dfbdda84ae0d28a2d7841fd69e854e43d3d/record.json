@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e2bceecce6b52bd024b20d14024d1dfbdda84ae0d28a2d7841fd69e854e43d3d",
+  "company": {
+    "key": "datadog-inc-class-a-common-stock",
+    "name": "Datadog Inc."
+  },
+  "source": {
+    "id": "datadog-inc-class-a-common-stock-rss-a5f59b9b4ce5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.datadoghq.com/blog/engineering/reliable-log-delivery/",
+    "canonical": "https://www.datadoghq.com/blog/engineering/reliable-log-delivery/"
+  },
+  "title": "How we built reliable log delivery to thousands of unpredictable endpoints",
+  "summary": "Learn how we built Datadog’s Log Forwarding system for low-latency, high-throughput delivery to thousands of unreliable third-party endpoints.",
+  "published_at": "2025-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:32.081856+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-20T02:06:26.198024+00:00",
+  "paths": {
+    "article": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/e2/e2bceecce6b52bd024b20d14024d1dfbdda84ae0d28a2d7841fd69e854e43d3d/article.md",
+    "record": "articles/v1/88/datadog-inc-class-a-common-stock/2025/06/e2/e2bceecce6b52bd024b20d14024d1dfbdda84ae0d28a2d7841fd69e854e43d3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20106,
+    "sha256": "sha256:394775f887bb0ec50a763f18bb1a9da7c38b45e7d304476dd0788d9ec4694176",
+    "normalized_content_hash": "sha256:500fd5e9706dee7bf40e742eed7764d0760a2ce8710e9c355ddc808716da2375"
+  },
+  "provenance": {
+    "source_item_id": "a40e53f4-3adc-49e9-9428-9d275758040a",
+    "external_id": "https://www.datadoghq.com/blog/engineering/reliable-log-delivery/"
+  }
+}
