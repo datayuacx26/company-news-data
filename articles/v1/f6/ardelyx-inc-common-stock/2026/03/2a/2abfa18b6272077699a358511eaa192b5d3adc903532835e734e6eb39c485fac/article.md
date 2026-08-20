@@ -1,0 +1,58 @@
+---
+schema_version: "1.0.0"
+document_id: "2abfa18b6272077699a358511eaa192b5d3adc903532835e734e6eb39c485fac"
+company_key: "ardelyx-inc-common-stock"
+company: "Ardelyx Inc."
+source_id: "ardelyx-inc-common-stock-rss-2a908ef06ac1"
+canonical_url: "https://ir.ardelyx.com/news-releases/news-release-details/ardelyx-announces-recipients-2026-derek-forfang-patient-advocate"
+published_at: "2026-03-12T12:00:00+00:00"
+first_seen_at: "2026-07-26T09:28:55.181280+00:00"
+fetched_at: "2026-07-28T22:00:56.367665+00:00"
+content_hash: "sha256:c6879c0168541ca68b324d9728123b4b30ff8d0aeaf95facbffa9f793b4a5246"
+---
+
+# Ardelyx Announces Recipients of the 2026 Derek Forfang Patient Advocate Award
+
+**Award recognizes leading chronic kidney disease advocates**
+
+
+WALTHAM, Mass., March 12, 2026 (GLOBE NEWSWIRE) -- Ardelyx, Inc. (Nasdaq: ARDX), a commercial-stage biopharmaceutical company focused on the development and commercialization of innovative medicines that meet significant unmet medical needs, announced the recipients of the 2026 Derek Forfang Patient Advocate Award: Edward Drake II, Markesha Grayson, Timmy Nelson, Pesh Patel and Glenda Roberts.
+
+
+Established in 2025, this award honors Derek Forfang, a passionate patient advocate who suffered from chronic kidney disease (CKD) and passed away due to issues related to his disease in 2023. Derek worked tirelessly to improve the lives of patients, families and caregivers in the CKD community. Candidates for the award were nominated by the community at large, with the recipients selected by Ardelyx’s Derek Forfang Patient Advisory Council based on their achievements and contributions to advocate for patients who suffer with CKD.
+
+
+“This year’s Derek Forfang Patient Advocate Award recipients exemplify what it means to be champions for patients,” said Laura Williams, M.D., M.P.H, chief patient officer and interim chief medical officer of Ardelyx. “Their work reflects a deep understanding of the real challenges kidney patients face, and they channel that understanding into meaningful action. Whether it’s elevating the lived experience in research and policy conversations, guiding others through their transplant journey or advocating for communities traditionally underrepresented in kidney care, they bring insight and empathy that cannot be replaced or taken for granted. These advocates remind us that progress happens when patient voices are heard and incorporated in our organizational processes, and we are truly honored to recognize them."
+
+
+Recipients of the Derek Forfang Patient Advocate Award will be honored during a reception at the upcoming National Kidney Foundation (NKF) Spring Clinical Meetings in New Orleans.
+
+
+Learn more about each of the recipients:
+
+
+**Edward Drake II** is a transplant recipient who has spent nearly two decades transforming his personal battle with kidney failure – which ended his path as a collegiate football player – into a lifelong mission of service and empowerment. In 2007, Edward founded[The Youth Needing Organ & Tissue Transplants Foundation](https://www.globenewswire.com/Tracker?data=MOSHcZ3APzS_-x5tf_kywA8c3WJDHod_UlcOEjS5ZoK2bRZt_LR5RP9C-BdN9KpqpuOUg3OIXLVR70PjU-84-n8CP8CR0st7Mni5EGirdoPiqzJRaUX7TTTkpg9R3F2k3aq5aiZmxib5qp6wF9tktQ==) , which has helped thousands of young people and families affected by kidney disease and organ failure. Through community outreach, national policy efforts and leadership positions, including roles with Donate Life Ohio, the Honor the Gift Campaign and major kidney organizations, he helps advance patient‑centered kidney care across the country.
+
+
+**Markesha Grayson** answered a call of faith more than 30 years ago, when she donated a kidney to save her father, Earnest Grayson. Today, she is the longest-living donor at her hospital and a passionate Kidney Health Coach, educating Black and Brown communities about kidney health prevention and organ donation. Markesha serves with the National Kidney Foundation of Wisconsin, where she supports kidney screenings, volunteers her time and is on the gala committee. Her influence extends to the halls of Congress, where she has testified in support of the Kidney Patient Act.
+
+
+**Timmy Nelson** received his kidney transplant in 2017, after being on peritoneal dialysis for three and a half years. Since receiving his transplant, Timmy shares his journey, both as a dialysis patient and as a transplant recipient, by speaking annually to medical students at the Perelman School of Medicine and serving on the boards of Penn Medicine and Chester County Hospital. His leadership extends to The National Forum of ESRD Networks’ Kidney Patient Advisory Council, Quality Insights Renal Network #4, American Association of Kidney Patients and the Gift of Life in Philadelphia, where he helped developed a national “Dialysis Social Work Transplant Education Program” that has impacted more than 1700 social workers since 2024.
+
+
+**Pesh Patel** is a transplant recipient and a nationally recognized patient advocate who excels at translating complex policy issues into accessible, human-centered conversations. Driven by his personal journey, he founded[A Kidney Life](https://www.globenewswire.com/Tracker?data=e9eKq7dSgNg4vwZnT1TbqFqW5xLicDqlx10mEParTWSh1IVqGje9pB3kd4269pFhCeEqMogFtob1G6314NEGhw==) , a platform to educate and raise awareness for those living with kidney disease, their families and loved ones. Pesh further fosters connection through his podcast,[Talk Kidney to Me](https://www.globenewswire.com/Tracker?data=Q4T3VonfguPiXQHBxsidX5H_g7XCqGSVCXIQZx_M6MiNHAdZf_fmfV9kyTc49TTjpkFsv1O82QzPo9STWPiYfDbfvYo_u_QJf--vEq323ls=) , where he hosts candid conversations with clinicians and industry leaders to demystify treatment and policy.
+
+
+**Glenda Roberts** is a passionate activist for kidney research and patients living with kidney disease, committed to improving kidney health globally. Serving on over 15 advisory committees and contributing to more than 50 publications, Glenda bridges the gap between clinical science and the lived experience, notably directing communications for the Kidney Precision Medicine Project and holding seats on the boards of the Kidney Health Institute, LifeCenter Northwest and the Critical Path Institute. A trailblazer in her field, she is the first individual to receive both the ASN President’s Award and the NKF Celeste Castillo Lee Patient Engagement Award.
+
+
+**About Ardelyx**
+Ardelyx is a commercial-stage biopharmaceutical company focused on the development and commercialization of innovative medicines that meet significant unmet medical needs. Ardelyx has two commercial products approved in the United States, IBSRELA® (tenapanor) and XPHOZAH® (tenapanor). The company’s pipeline includes the Phase 3 development of tenapanor for chronic idiopathic constipation, and RDX10531, a next-generation NHE3 inhibitor with potential application across multiple therapeutic areas. Ardelyx has agreements for the development and commercialization of tenapanor outside of the U.S. Kyowa Kirin commercializes PHOZEVEL® (tenapanor) for hyperphosphatemia in Japan. A New Drug Application for tenapanor for hyperphosphatemia has been approved in China with Fosun Pharma. Knight Therapeutics commercializes IBSRELA in Canada. For more information, please visit[https://ardelyx.com/](https://www.globenewswire.com/Tracker?data=-E71KA9p24EjFgtbq296CQm8tOfxWEEvpBEmOfv6e4qp9cNnX7gPBGWU8jQjH0ivCdmjJLbSbJxfEMBB9AvqWuD3uBxg0334BjNgmX3GSm8=) and connect with us on[X (formerly known as Twitter)](https://www.globenewswire.com/Tracker?data=bqZ6rGt7OTYoWu9CVxd-V5D8fX9bVBEMW-XOEyxPCDzIMglgJQ1jvCx0VFWJLdrFsPjxfAFfAzxBXWpGebczLWJkg_lYqtI8QBZQmtaIJLPkQF6pEp7UNj9sR8XmFMUR) ,[LinkedIn](https://www.globenewswire.com/Tracker?data=hDgKvxTP-Rcr4YU41AmgjZ9h0qJChL18peCELIfhU983JbeLc3Fmd_EQ89x2ObiwyM74jw60x__xX8c4XPaPL3lQD-sPYQ4ptku0Z0J1xGFQespOEXV7FNZ0JQPrUfQa) and[Facebook](https://www.globenewswire.com/Tracker?data=TOACLdi6uqoasnkKdH3LrMIpMbQ8UMHvxkjXHhQwCZXC8Bz2VZj3IJ1897jftimuuT8bOgQW1GyEO8XrqcXD4DzbCp2DYkaRBZ5sc-mA8xE=) .
+
+
+**Investor and Media Contact:**
+Lindsey Manuel
+[lmanuel@ardelyx.com](https://www.globenewswire.com/Tracker?data=jrVGo6DBL7sfijDfrFbI8JbONjrwBE1Ni6B0WRphAcJAwafy1GNxrfyyl2MZ3rJE8UeJyAY9GFzbjxVx3zspTK_rGcEaymzxXjMpJgtr0BA=)
+
+
+Source: Ardelyx, Inc.

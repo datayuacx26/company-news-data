@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3fd417a7c92f24e7b5ed0773fb48c9d71b004643efc7270e6e369613522fbb25",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/engineering/how-to-deploy-long-running-agents-on-freestyle",
+    "canonical": "https://www.freestyle.sh/blog/engineering/how-to-deploy-long-running-agents-on-freestyle"
+  },
+  "title": "How to Deploy Long-Running Agents on Freestyle",
+  "summary": "A practical guide to running long-running agents on Freestyle VMs: persistent sessions, suspend and resume, snapshots, live forking, and stateful microVMs for AI agents.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:26:33.334256+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/05/3f/3fd417a7c92f24e7b5ed0773fb48c9d71b004643efc7270e6e369613522fbb25/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/05/3f/3fd417a7c92f24e7b5ed0773fb48c9d71b004643efc7270e6e369613522fbb25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15808,
+    "sha256": "sha256:23f45cc16c4e45c3c4b4ebb82da29c1337c4f6377ffc14e0aebe78b5e7bf37f5",
+    "normalized_content_hash": "sha256:f61afe69cde32babf212a12fc9f7acd6657301d8bdb82be823369800379d4525"
+  },
+  "provenance": {
+    "source_item_id": "72175d65-f173-4cb4-9a6d-fa9b323ef96c",
+    "external_id": "https://www.freestyle.sh/blog/engineering/how-to-deploy-long-running-agents-on-freestyle"
+  }
+}

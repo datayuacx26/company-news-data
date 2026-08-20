@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7adee6046598c5bbf950337e47b7e35010ed5e33d4cc003396aaf3eee8ee80d5",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-25a2b11929a5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/what-is-pci-dss-12-requirements-to-be-pci-dss-compliant",
+    "canonical": "https://zeropath.com/blog/what-is-pci-dss-12-requirements-to-be-pci-dss-compliant"
+  },
+  "title": "What is PCI DSS? 12 Requirements to be PCI DSS Compliant",
+  "summary": "PCI DSS is a set of 12 requirements designed to protect cardholder data. It covers security, network, and application layers. To be compliant, businesses must implement these requirements, which include data encryption, firewalls, regular security audits and more.",
+  "published_at": "2025-07-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:49:27.067531+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-08-19T20:17:40.006766+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2025/07/7a/7adee6046598c5bbf950337e47b7e35010ed5e33d4cc003396aaf3eee8ee80d5/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2025/07/7a/7adee6046598c5bbf950337e47b7e35010ed5e33d4cc003396aaf3eee8ee80d5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15093,
+    "sha256": "sha256:53b7c3b8822e414bd65a9379b27469d64a441ee17d9039328b1e0aa3ad7f1837",
+    "normalized_content_hash": "sha256:de897fff725f05a7cd99c81afea806e65bfdc7aab921e9a05657f12f35861490"
+  },
+  "provenance": {
+    "source_item_id": "a7cfc13e-063e-4501-8e3c-96575aadc1cf",
+    "external_id": "https://zeropath.com/blog/what-is-pci-dss-12-requirements-to-be-pci-dss-compliant"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e237b95e26a978579a0531cc1f5f6abf6011b96e5b50ada366b417c6118ab4f2",
+  "company": {
+    "key": "yc-thesis",
+    "name": "Thesis"
+  },
+  "source": {
+    "id": "yc-thesis-rss-df316ac2148b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://thesislabs.ai/research/discovering-rl-algos",
+    "canonical": "https://thesislabs.ai/research/discovering-rl-algos"
+  },
+  "title": "Discovering State-of-the-Art Reinforcement Learning Algorithms",
+  "summary": "DeepMind researchers used meta-gradient optimization over a population of agents to automatically discover DiscoRL, a reinforcement learning rule that surpasses MuZero, DreamerV3, and all other handcrafted algorithms on Atari, ProcGen, and NetHack",
+  "published_at": "2026-02-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T04:04:12.843518+00:00",
+  "fetched_at": "2026-08-10T04:04:13.995165+00:00",
+  "last_updated_at": "2026-08-20T02:36:02.552376+00:00",
+  "paths": {
+    "article": "articles/v1/ff/yc-thesis/2026/02/e2/e237b95e26a978579a0531cc1f5f6abf6011b96e5b50ada366b417c6118ab4f2/article.md",
+    "record": "articles/v1/ff/yc-thesis/2026/02/e2/e237b95e26a978579a0531cc1f5f6abf6011b96e5b50ada366b417c6118ab4f2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4964,
+    "sha256": "sha256:276cf72aa197b204536def253b56bb4cb07756124c5ad844e2550d5ba7afe81e",
+    "normalized_content_hash": "sha256:4b3f354de2823d81096b3bb791144ce56ba92e7233f5a953b9db354bec030b2f"
+  },
+  "provenance": {
+    "source_item_id": "bc916cf7-adff-4f9e-8334-946549b4a72c",
+    "external_id": "https://thesislabs.ai/research/discovering-rl-algos"
+  }
+}

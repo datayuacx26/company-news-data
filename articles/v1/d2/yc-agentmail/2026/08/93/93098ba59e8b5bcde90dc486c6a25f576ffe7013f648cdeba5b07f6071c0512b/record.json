@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "93098ba59e8b5bcde90dc486c6a25f576ffe7013f648cdeba5b07f6071c0512b",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/agentmail-vs-building-yourself",
+    "canonical": "https://www.agentmail.to/blog/agentmail-vs-building-yourself"
+  },
+  "title": "Should You Build Agent Email Infrastructure Yourself with SES, Parsing and Storage?",
+  "summary": "A backend engineer can wire Amazon SES to a Lambda in a week. Getting to native threads, per-tenant isolation, and current Google/Yahoo/Microsoft deliverability is 10 to 16 engineer-weeks plus 7 to 10 weeks a year. When to build, when to buy, and what agent email infrastructure actually replaces.",
+  "published_at": "2026-08-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-08T03:21:49.802515+00:00",
+  "fetched_at": "2026-08-08T03:21:53.866935+00:00",
+  "last_updated_at": "2026-08-20T02:25:07.860354+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/08/93/93098ba59e8b5bcde90dc486c6a25f576ffe7013f648cdeba5b07f6071c0512b/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/08/93/93098ba59e8b5bcde90dc486c6a25f576ffe7013f648cdeba5b07f6071c0512b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14650,
+    "sha256": "sha256:a7ad0e403101b00d162296402f934b4226837c46cd565bfb8d43d27c99489872",
+    "normalized_content_hash": "sha256:1677552ded697ec7bc5af6007d0955841673f41d8b29fa983701f40bdf113ac5"
+  },
+  "provenance": {
+    "source_item_id": "d7319711-ae70-4a7d-9dcb-6b76502e8775",
+    "external_id": "https://www.agentmail.to/blog/agentmail-vs-building-yourself"
+  }
+}

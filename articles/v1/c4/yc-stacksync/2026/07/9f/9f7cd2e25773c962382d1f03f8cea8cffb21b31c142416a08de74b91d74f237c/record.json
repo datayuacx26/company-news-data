@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f7cd2e25773c962382d1f03f8cea8cffb21b31c142416a08de74b91d74f237c",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-heroku-postgres-hubspot",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-heroku-postgres-hubspot"
+  },
+  "title": "Heroku Postgres and HubSpot: Two-Way Sync Without the Drift",
+  "summary": "Two-way sync between Heroku Postgres and HubSpot: logical replication on Standard tiers, HubSpot webhooks, echo suppression and one rule per field.",
+  "published_at": "2026-07-23T12:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/9f/9f7cd2e25773c962382d1f03f8cea8cffb21b31c142416a08de74b91d74f237c/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/9f/9f7cd2e25773c962382d1f03f8cea8cffb21b31c142416a08de74b91d74f237c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16879,
+    "sha256": "sha256:6b97c1ce102d31d0494487b310a9f6c7ef15e59a0e5cb729c1042a5172c424e5",
+    "normalized_content_hash": "sha256:de296f5d3f8a7e745efc10c444a0152c5d292143ef4a7b9e6de822f6ee0d53a5"
+  },
+  "provenance": {
+    "source_item_id": "7eb49b99-9900-499b-9b3a-58265734fd7f",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-heroku-postgres-hubspot"
+  }
+}

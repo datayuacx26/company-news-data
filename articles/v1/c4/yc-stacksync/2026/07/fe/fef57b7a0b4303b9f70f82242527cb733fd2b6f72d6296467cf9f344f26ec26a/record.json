@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fef57b7a0b4303b9f70f82242527cb733fd2b6f72d6296467cf9f344f26ec26a",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/enterprise-ipaas-mariadb",
+    "canonical": "https://www.stacksync.com/blog/enterprise-ipaas-mariadb"
+  },
+  "title": "MariaDB Holds the Truth. Most Integrations Only Read It.",
+  "summary": "What an integration platform has to handle when MariaDB is your system of record: binlog change capture, row-level write-back, replica lag, schema drift.",
+  "published_at": "2026-07-22T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/fe/fef57b7a0b4303b9f70f82242527cb733fd2b6f72d6296467cf9f344f26ec26a/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/fe/fef57b7a0b4303b9f70f82242527cb733fd2b6f72d6296467cf9f344f26ec26a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11987,
+    "sha256": "sha256:cf55a7ba8db35b1ea35caa559be35af566b6bddc47bd7361cca01dbca85fec4c",
+    "normalized_content_hash": "sha256:3b30b63ee8a33857aaf418d73c02c6049e20503bee79c01d1cb26e32ff1e575e"
+  },
+  "provenance": {
+    "source_item_id": "de0f7db0-afa0-4f46-8a85-af5cee66e451",
+    "external_id": "https://www.stacksync.com/blog/enterprise-ipaas-mariadb"
+  }
+}

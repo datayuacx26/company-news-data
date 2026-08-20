@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e8e93878fda38cc33b2f67e1dc2f9004144fdb49779d6704d65c97be7b32a69",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/django-allauth-account-takeover-vulnerabilities",
+    "canonical": "https://zeropath.com/blog/django-allauth-account-takeover-vulnerabilities"
+  },
+  "title": "7 vulnerabilities in django-allauth enabling account impersonation and token abuse",
+  "summary": "Our audit of django-allauth uncovered seven vulnerabilities, including two that enable user impersonation and others affecting token handling, email verification, and HTTP configuration. We detail how our AI-assisted scanner exposed these logic-level issues, the patches applied, and what developers should do to secure their authentication flows.",
+  "published_at": "2025-11-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2025/11/9e/9e8e93878fda38cc33b2f67e1dc2f9004144fdb49779d6704d65c97be7b32a69/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2025/11/9e/9e8e93878fda38cc33b2f67e1dc2f9004144fdb49779d6704d65c97be7b32a69/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10286,
+    "sha256": "sha256:762a211adac584d69ef047e652cb4409cf8e9eff552bc7bb5d26f25198a3b86b",
+    "normalized_content_hash": "sha256:093d3fe18c8aa775f4b1cab3029e24bf1a5de038c9ec9d3da717ccc66a9bc959"
+  },
+  "provenance": {
+    "source_item_id": "0413714b-96cf-48cc-88e2-b2acb9b5f706",
+    "external_id": "https://zeropath.com/blog/django-allauth-account-takeover-vulnerabilities"
+  }
+}

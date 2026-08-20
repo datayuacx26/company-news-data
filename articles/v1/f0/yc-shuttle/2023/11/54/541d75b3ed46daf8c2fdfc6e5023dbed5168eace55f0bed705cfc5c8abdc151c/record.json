@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "541d75b3ed46daf8c2fdfc6e5023dbed5168eace55f0bed705cfc5c8abdc151c",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/11/23/enums-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/11/23/enums-in-rust"
+  },
+  "title": "Why Enums in Rust feel so much better",
+  "summary": "This article talks about what enums in Rust are, how they compare to other languages that use enums and what makes Rust enums better.",
+  "published_at": "2023-11-23T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/11/54/541d75b3ed46daf8c2fdfc6e5023dbed5168eace55f0bed705cfc5c8abdc151c/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/11/54/541d75b3ed46daf8c2fdfc6e5023dbed5168eace55f0bed705cfc5c8abdc151c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12230,
+    "sha256": "sha256:6ea974bf8331e05a337929405fbacc75ce923d84f3ecb9bdb98139bc25b04efc",
+    "normalized_content_hash": "sha256:34793992be10a4bb43abebe48d3a975cc6c4c9a9fa49d2adc05c7d09688dc606"
+  },
+  "provenance": {
+    "source_item_id": "112be355-183e-4ce6-bcf9-35af841cf9a7",
+    "external_id": "https://www.shuttle.dev/blog/2023/11/23/enums-in-rust"
+  }
+}

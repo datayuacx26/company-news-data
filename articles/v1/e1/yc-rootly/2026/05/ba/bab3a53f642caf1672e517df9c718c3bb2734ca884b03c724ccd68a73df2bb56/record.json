@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bab3a53f642caf1672e517df9c718c3bb2734ca884b03c724ccd68a73df2bb56",
+  "company": {
+    "key": "yc-rootly",
+    "name": "Rootly"
+  },
+  "source": {
+    "id": "yc-rootly-news-import-8d53140345fd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rootly.com/blog/stop-trying-to-review-ais-code-faster-bet-on-rollbacks-instead",
+    "canonical": "https://rootly.com/blog/stop-trying-to-review-ais-code-faster-bet-on-rollbacks-instead"
+  },
+  "title": "Stop trying to review AI's code faster: bet on rollback instead",
+  "summary": "AI's failure mode has changed. Most incidents aren't code bugs: they're context bugs. And faster review can't catch them. A case for rollback.",
+  "published_at": "2026-05-05T15:57:00+00:00",
+  "first_seen_at": "2026-07-24T00:13:28.618726+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-05T10:47:44.546315+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-rootly/2026/05/ba/bab3a53f642caf1672e517df9c718c3bb2734ca884b03c724ccd68a73df2bb56/article.md",
+    "record": "articles/v1/e1/yc-rootly/2026/05/ba/bab3a53f642caf1672e517df9c718c3bb2734ca884b03c724ccd68a73df2bb56/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11313,
+    "sha256": "sha256:eda6d577abef90beb576ca74c975b6905d617daa590977fe3d7f98292cd14f30",
+    "normalized_content_hash": "sha256:d7fc7c3c1b18233e6559c1a30fc1ccae518e7dc74a7744e9a341ac49226947be"
+  },
+  "provenance": {
+    "source_item_id": "19a895d5-f7f5-4615-8eb2-3b1a8a75987d",
+    "external_id": "https://rootly.com/blog/stop-trying-to-review-ais-code-faster-bet-on-rollbacks-instead"
+  }
+}

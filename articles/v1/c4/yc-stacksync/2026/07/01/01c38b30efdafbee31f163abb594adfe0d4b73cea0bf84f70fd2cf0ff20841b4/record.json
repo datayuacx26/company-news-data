@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01c38b30efdafbee31f163abb594adfe0d4b73cea0bf84f70fd2cf0ff20841b4",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-github-snowflake",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-github-snowflake"
+  },
+  "title": "GitHub Into Snowflake Is Solved. The Trip Back Is Not.",
+  "summary": "Two-way sync between GitHub and Snowflake means webhooks in and writebacks out. Here is what each direction needs, and how the options compare.",
+  "published_at": "2026-07-23T11:00:00+00:00",
+  "first_seen_at": "2026-07-29T17:32:43.435424+00:00",
+  "fetched_at": "2026-07-29T17:32:44.790239+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/01/01c38b30efdafbee31f163abb594adfe0d4b73cea0bf84f70fd2cf0ff20841b4/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/01/01c38b30efdafbee31f163abb594adfe0d4b73cea0bf84f70fd2cf0ff20841b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21602,
+    "sha256": "sha256:86197808686706e7ec13d8157dfbc8c54e25a85306ff2b78d32b028e823afda2",
+    "normalized_content_hash": "sha256:16e80ec63f8d1e4ea787d738e219f040f56d0f7654328408ebf7204fd5d51464"
+  },
+  "provenance": {
+    "source_item_id": "0f0170e2-7b8e-4ab3-8709-bacbeed3de6d",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-github-snowflake"
+  }
+}

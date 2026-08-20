@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8b5186b38037c9253c183aa577bdb33ddd601479bace19c95773515ca6cc41a8",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/claude-agent-sdk-integrations-developer-guide",
+    "canonical": "https://corsair.dev/blog/claude-agent-sdk-integrations-developer-guide"
+  },
+  "title": "Claude Agent SDK Integrations: A Developer's Guide to Extending Agents with Custom Tools",
+  "summary": "A developer's guide to Claude Agent SDK integrations, how to wire in custom tools like Jira, Slack, and Google Drive without turning each one into a maintenance project.",
+  "published_at": "2026-07-16T07:27:00+00:00",
+  "first_seen_at": "2026-07-21T15:04:37.944582+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-06T05:38:26.721048+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/8b/8b5186b38037c9253c183aa577bdb33ddd601479bace19c95773515ca6cc41a8/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/8b/8b5186b38037c9253c183aa577bdb33ddd601479bace19c95773515ca6cc41a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6119,
+    "sha256": "sha256:c7761555ee0d95f33dc02405e8257f399ed48fd0923d575fe7d806d810ef591a",
+    "normalized_content_hash": "sha256:14bd3968df5eaf7967a09de84fda33b7a84468b3b9bf2677f273e02554dbdfa8"
+  },
+  "provenance": {
+    "source_item_id": "e3324e10-f18c-4784-9117-4da22df77ce1",
+    "external_id": "https://corsair.dev/blog/claude-agent-sdk-integrations-developer-guide"
+  }
+}

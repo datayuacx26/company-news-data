@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3392f71f8f9be3357cca9c07d633de79fb4763b77b4a914b33d3edd6b9af4dfb",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/why-your-llm-shouldnt-do-database-jobs/",
+    "canonical": "https://www.singlestore.com/blog/why-your-llm-shouldnt-do-database-jobs/"
+  },
+  "title": "Why Your AI Model Shouldn't Be Doing the Database's Job",
+  "summary": "High token costs and unreliable outputs? It might be your architecture. Discover why you should let a unified database engine - not your LLM - handle data integration.",
+  "published_at": "2026-08-12T13:55:07+00:00",
+  "first_seen_at": "2026-08-13T03:04:01.269728+00:00",
+  "fetched_at": "2026-08-13T03:04:04.628670+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/08/33/3392f71f8f9be3357cca9c07d633de79fb4763b77b4a914b33d3edd6b9af4dfb/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/08/33/3392f71f8f9be3357cca9c07d633de79fb4763b77b4a914b33d3edd6b9af4dfb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11683,
+    "sha256": "sha256:6d2328e4d621078d09c386296f1f98209ad2f175b1950e4a858e70a96f0e46f0",
+    "normalized_content_hash": "sha256:3c55b7c4863b41f6f98a33597a74839d9fd6768c217ac50f14fdbec56f31c21e"
+  },
+  "provenance": {
+    "source_item_id": "40b5bfa3-4def-4d1d-a5f2-0158125c125a",
+    "external_id": "https://www.singlestore.com/blog/why-your-llm-shouldnt-do-database-jobs/"
+  }
+}

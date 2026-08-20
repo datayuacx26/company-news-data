@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1b7006a95f4a6fad1300f8cee79ed7d7b8e1d5c39e4a3053d7f8fb3de5e4270",
+  "company": {
+    "key": "yc-doe",
+    "name": "Doe"
+  },
+  "source": {
+    "id": "yc-doe-news-import-a3f9325ff0ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://doe.so/blog/introducing-citations",
+    "canonical": "https://doe.so/blog/introducing-citations"
+  },
+  "title": "Introducing Citations: Trace Every Source and Calculation",
+  "summary": "Every claim now links back to its source. Citations show exactly where information came from, how calculations were performed, and how conclusions were drawn.",
+  "published_at": "2026-01-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:46:57.804362+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-08-20T03:32:35.432458+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-doe/2026/01/c1/c1b7006a95f4a6fad1300f8cee79ed7d7b8e1d5c39e4a3053d7f8fb3de5e4270/article.md",
+    "record": "articles/v1/c7/yc-doe/2026/01/c1/c1b7006a95f4a6fad1300f8cee79ed7d7b8e1d5c39e4a3053d7f8fb3de5e4270/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2857,
+    "sha256": "sha256:92cdd1acda1497b4c494a429df5e9bde2b0253ad834ceb5e7bcb1290511b2def",
+    "normalized_content_hash": "sha256:ed52d54fca25aea849a8f5a579dcaadaa7f85786ece635ec2221ffa898f5722c"
+  },
+  "provenance": {
+    "source_item_id": "c83f0015-cecb-49a5-ade9-cbd32cf1653f",
+    "external_id": "https://doe.so/blog/introducing-citations"
+  }
+}

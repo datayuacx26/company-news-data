@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "98760e284a20e84a158bc9295cabc9ce92759ba5498d958000a09f3b163a3088",
+  "company": {
+    "key": "yc-propelauth",
+    "name": "PropelAuth"
+  },
+  "source": {
+    "id": "yc-propelauth-news-import-52b3c4ba8ae4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.propelauth.com/post/autn-for-internal-mcp-servers",
+    "canonical": "https://www.propelauth.com/post/autn-for-internal-mcp-servers"
+  },
+  "title": "Authentication and Authorization for Internal MCP Servers",
+  "summary": "Picture this: You’ve just built a brilliant Model Context Protocol (MCP) server. It’s the ultimate internal powerhouse, seamlessly bridging your organization’s LLMs with your most sensitive private repositories, production databases, and internal APIs. It feels like magic. And then someone asks: \"Wait - can every employee just… do all of that?\". And reality hits. The Model Context Protocol is an absolute game-changer for AI productivity, but out of the box, it’s missing a critical enterprise f",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:01:02.470883+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T19:18:29.573535+00:00",
+  "paths": {
+    "article": "articles/v1/f4/yc-propelauth/2026/06/98/98760e284a20e84a158bc9295cabc9ce92759ba5498d958000a09f3b163a3088/article.md",
+    "record": "articles/v1/f4/yc-propelauth/2026/06/98/98760e284a20e84a158bc9295cabc9ce92759ba5498d958000a09f3b163a3088/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11261,
+    "sha256": "sha256:15ba48425fe41d1b7a18474512e3bdef6624227c207b0d83e3e2f7ccb9197d98",
+    "normalized_content_hash": "sha256:68db70004abf4feb22d5fc9f95b5b798be375df779f4acf7ba52e9e28e0b0da6"
+  },
+  "provenance": {
+    "source_item_id": "a68ef05b-d2b7-4927-b14e-417264e5d66d",
+    "external_id": "https://www.propelauth.com/post/autn-for-internal-mcp-servers"
+  }
+}

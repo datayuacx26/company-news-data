@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2bd5caf70f98bbef2306f65c6970468640e8eee8cd7443a5921a03e6b83439bd",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/migrating-from-ecs-to-eks",
+    "canonical": "https://www.skyhook.io/blog/migrating-from-ecs-to-eks"
+  },
+  "title": "Migrating from ECS to EKS: Architecture Challenges and Solutions",
+  "summary": "An honest, hands-on guide to moving from ECS to EKS: architecture mapping, the seven challenges that catch teams out, and a strangler pattern with no freeze.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T22:15:29.906392+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2026/05/2b/2bd5caf70f98bbef2306f65c6970468640e8eee8cd7443a5921a03e6b83439bd/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2026/05/2b/2bd5caf70f98bbef2306f65c6970468640e8eee8cd7443a5921a03e6b83439bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25695,
+    "sha256": "sha256:cec297c9be7efdda7ef9e5dec72dc465ede8df8bcc5d270653c25617fe6948a3",
+    "normalized_content_hash": "sha256:df0cb55aa66b16ab74e2d8e06daf9f4bdae7e6c0f09b780d696194748e53f9c7"
+  },
+  "provenance": {
+    "source_item_id": "c4436615-6e15-4441-b87d-cd7a7224315a",
+    "external_id": "https://www.skyhook.io/blog/migrating-from-ecs-to-eks"
+  }
+}

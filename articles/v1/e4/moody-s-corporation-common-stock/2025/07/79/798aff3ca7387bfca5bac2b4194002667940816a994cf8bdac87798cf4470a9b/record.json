@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "798aff3ca7387bfca5bac2b4194002667940816a994cf8bdac87798cf4470a9b",
+  "company": {
+    "key": "moody-s-corporation-common-stock",
+    "name": "Moody's Corporation"
+  },
+  "source": {
+    "id": "moody-s-corporation-common-stock-news-import-112754bd8765",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-fundamental-entity-analysis.html",
+    "canonical": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-fundamental-entity-analysis.html"
+  },
+  "title": "Prompting Part 8: Fundamental Entity Analysis",
+  "summary": "When major events unfold, they can impact a company’s financial health and market position. This blog showcases how our expertly crafted prompts can simplify event impact analysis, streamlining workflows and turning complex data into clear insights.",
+  "published_at": "2025-07-24T16:14:00+00:00",
+  "first_seen_at": "2026-07-22T04:52:53.039531+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-08-19T18:58:22.864411+00:00",
+  "paths": {
+    "article": "articles/v1/e4/moody-s-corporation-common-stock/2025/07/79/798aff3ca7387bfca5bac2b4194002667940816a994cf8bdac87798cf4470a9b/article.md",
+    "record": "articles/v1/e4/moody-s-corporation-common-stock/2025/07/79/798aff3ca7387bfca5bac2b4194002667940816a994cf8bdac87798cf4470a9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6519,
+    "sha256": "sha256:1b5981f5f0bb68f589cd84098f2871439e80616a231600f27ee173b61569443e",
+    "normalized_content_hash": "sha256:e58a1581ca6dc3acf58634ca86a90033033f279a4d9583c3379bf087bd11d619"
+  },
+  "provenance": {
+    "source_item_id": "68d73b62-4ac9-4dd6-9579-235b477d59c8",
+    "external_id": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-fundamental-entity-analysis.html"
+  }
+}

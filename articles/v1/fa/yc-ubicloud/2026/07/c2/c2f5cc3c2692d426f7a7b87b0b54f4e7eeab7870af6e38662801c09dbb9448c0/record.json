@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2f5cc3c2692d426f7a7b87b0b54f4e7eeab7870af6e38662801c09dbb9448c0",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/how-to-keep-documentation-screenshots-up-to-date-using-ruby",
+    "canonical": "https://www.ubicloud.com/blog/how-to-keep-documentation-screenshots-up-to-date-using-ruby"
+  },
+  "title": "How to Keep Documentation Screenshots Up-to-date Using Ruby",
+  "summary": "Keeping the documentation up to date is one of the hardest problems with documenting. Whenever you make a change to the product, you need to check if you also need to update the documentation. This gets tricky when a change impacts several parts of the documentation. It's even harder if the sections needing updates aren't clear. Screenshots serve as a clear example of this problem. If the application's look changes, then all related screenshots need updating. This is why you see outdated screenshots when reviewing technical documentation.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/c2/c2f5cc3c2692d426f7a7b87b0b54f4e7eeab7870af6e38662801c09dbb9448c0/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/c2/c2f5cc3c2692d426f7a7b87b0b54f4e7eeab7870af6e38662801c09dbb9448c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9472,
+    "sha256": "sha256:36e7894fc3eb8668bd5411001e0ba9cddedec82d1f27729366f2ea5fa41de3ac",
+    "normalized_content_hash": "sha256:a074e6941ce205908e85a2c7e648f31f7dfe3a6e144f55877e00b0e84866194d"
+  },
+  "provenance": {
+    "source_item_id": "065beac5-a1ac-48dc-9c3c-95c9806a4567",
+    "external_id": "https://www.ubicloud.com/blog/how-to-keep-documentation-screenshots-up-to-date-using-ruby"
+  }
+}

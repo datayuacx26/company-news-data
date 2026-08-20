@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85cc6a60857a89e64b8d5c83fe6a24a79c6ceb524297b23faafa33e229414c12",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/09/20/logging-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/09/20/logging-in-rust"
+  },
+  "title": "Logging in Rust (2025)",
+  "summary": "This article talks about the most popular logging crates in Rust and what the best one for your use case is, including both simple and more complex crates.",
+  "published_at": "2023-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/09/85/85cc6a60857a89e64b8d5c83fe6a24a79c6ceb524297b23faafa33e229414c12/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/09/85/85cc6a60857a89e64b8d5c83fe6a24a79c6ceb524297b23faafa33e229414c12/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22413,
+    "sha256": "sha256:91295ba4526d6adb0c3036ed30be8ec91db97df8ca4599b57a57720e4df46256",
+    "normalized_content_hash": "sha256:c8a15f1e69488ca71fe8a4638ac142eb44a015ed9d487480c1d4958124f8132c"
+  },
+  "provenance": {
+    "source_item_id": "4c34af37-9251-4daa-8543-37d37284f45a",
+    "external_id": "https://www.shuttle.dev/blog/2023/09/20/logging-in-rust"
+  }
+}

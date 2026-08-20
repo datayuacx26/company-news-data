@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e345ec3c567a68df995fb5fe2b7f5d79b4938a83ef51491982fea1c1e0b58be3",
+  "company": {
+    "key": "yc-promptless",
+    "name": "Promptless"
+  },
+  "source": {
+    "id": "yc-promptless-news-import-48c94b307195",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://promptless.ai/blog/product-updates/suggestion-lifecycle-notifications",
+    "canonical": "https://promptless.ai/blog/product-updates/suggestion-lifecycle-notifications/"
+  },
+  "title": "Slack Notifications for Suggestion Outcomes",
+  "summary": "Promptless now posts a follow-up reply in each suggestion's Slack thread when the suggestion is merged, closed, rejected, or archived. Admins enable it from Organization Settings.",
+  "published_at": "2026-05-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:20:48.668154+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-19T20:04:13.508133+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-promptless/2026/05/e3/e345ec3c567a68df995fb5fe2b7f5d79b4938a83ef51491982fea1c1e0b58be3/article.md",
+    "record": "articles/v1/d9/yc-promptless/2026/05/e3/e345ec3c567a68df995fb5fe2b7f5d79b4938a83ef51491982fea1c1e0b58be3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4794,
+    "sha256": "sha256:766882c0c687ffd72fd4c85ec093755d14a53c0ef19e12bb3ba94c8b42e9f593",
+    "normalized_content_hash": "sha256:bafa9b07f83263a40726b5a5394751f36ff08c58c60ce5180f5dab8ce51b7338"
+  },
+  "provenance": {
+    "source_item_id": "0166475e-07d0-4580-813e-74cf2fe7d80a",
+    "external_id": "https://promptless.ai/blog/product-updates/suggestion-lifecycle-notifications/"
+  }
+}

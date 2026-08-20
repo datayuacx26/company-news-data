@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5cdf4763d3e655c0efa59f2956518cef739624042d3f59f5ff47c2ab85482e54",
+  "company": {
+    "key": "quantum-si-incorporated-class-a-common-stock",
+    "name": "Quantum-Si Incorporated"
+  },
+  "source": {
+    "id": "quantum-si-incorporated-class-a-common-stock-rss-fe4d1e48cc16",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.quantum-si.com/resources/publications/optimization-of-quantum-si-platinum-single-molecule-protein-sequencing-platform-towards-improved-complex-matrix-protein-identification/",
+    "canonical": "https://www.quantum-si.com/resources/publications/optimization-of-quantum-si-platinum-single-molecule-protein-sequencing-platform-towards-improved-complex-matrix-protein-identification/"
+  },
+  "title": "Optimization of Quantum-Si Platinum single-molecule protein sequencing platform towards improved complex matrix protein identification",
+  "summary": "Proteins are a class of macromolecules with essential roles in processes and structures associated with life. Protein sequencing technologies are therefore fundamental for understanding cell metabolic pathways, disease mechanisms, and how pathogenic agents and toxins function. Emerging next generation protein sequencing (NGPS) technologies promise a dramatic improvement of proteomics methods enabling identification of pathogens and toxins with unparalleled sensitivity and precision. The Quantum-Si (QSi) Platinum Sequencer is a novel single molecule protein sequencing technology capable of single amino acid resolution. In this work, we conducted significant optimization of the QSi protein library preparation protocol, reducing sample preparation time from 32 to 10 hours without sacrificing substantial sequencing quality, allowing for a sample-to-answer timeline in less than 24 hours. The modified protocol was applied for analyzing a set of proteins including sixteen single-domain antibodies with diverse sequences and a nontoxic derivative of staphylococcal enterotoxin B. We were further able to determine the library dilution threshold: losing the ability to sequence beyond 100x dilution. Finally, we were able to successfully obtain protein sequences within a crude lysate background, demonstrating the effectiveness of sequencing within complex protein mixtures. Improvements in sequencing chemistry and data processing may soon lessen or eliminate the dependence on reference sequences: a current obstacle for efficiently characterizing unknown proteins. By further condensing and optimizing library preparation, this technique presents a potential application for proteomics that require rapid characterization of highly complex biological systems, significantly improving protein-based diagnostic technologies.",
+  "published_at": "2026-06-01T20:07:00+00:00",
+  "first_seen_at": "2026-07-20T23:19:39.032438+00:00",
+  "fetched_at": "2026-07-28T21:11:49.157117+00:00",
+  "last_updated_at": "2026-08-20T03:27:18.396947+00:00",
+  "paths": {
+    "article": "articles/v1/c3/quantum-si-incorporated-class-a-common-stock/2026/06/5c/5cdf4763d3e655c0efa59f2956518cef739624042d3f59f5ff47c2ab85482e54/article.md",
+    "record": "articles/v1/c3/quantum-si-incorporated-class-a-common-stock/2026/06/5c/5cdf4763d3e655c0efa59f2956518cef739624042d3f59f5ff47c2ab85482e54/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3134,
+    "sha256": "sha256:19adaf4266856bc6697fd4716157b234301e1d3a679f71895af937e1e2ecb7fe",
+    "normalized_content_hash": "sha256:d24a4970f1c695f0383995c7dd44716375cb16d1e65e82008fd73743bd8445ad"
+  },
+  "provenance": {
+    "source_item_id": "0adda52c-87b3-4818-846a-4ed6f889ec1f",
+    "external_id": "https://www.quantum-si.com/?p=10056"
+  }
+}

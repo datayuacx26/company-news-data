@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9fd7cf9bd03efe94e65a4ba73e827b5644ac7824401e8dee88f35e5aacfe9993",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust"
+  },
+  "title": "Writing & Compiling WASM in Rust",
+  "summary": "Exploring how to write and compile WASM from Rust",
+  "published_at": "2024-02-29T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:14.489943+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/02/9f/9fd7cf9bd03efe94e65a4ba73e827b5644ac7824401e8dee88f35e5aacfe9993/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/02/9f/9fd7cf9bd03efe94e65a4ba73e827b5644ac7824401e8dee88f35e5aacfe9993/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14084,
+    "sha256": "sha256:0d5c2815bc5cb0aab402e0f53e74b4bef84c3fdec316330493d1c53abb4c6cd0",
+    "normalized_content_hash": "sha256:403e8a222c67b7c70d900b8ff67ef57a6513a74243d5ff7a6a20fdc236ab3b6a"
+  },
+  "provenance": {
+    "source_item_id": "953d8e1c-fc1f-4bc2-b30a-b955417289b0",
+    "external_id": "https://www.shuttle.dev/blog/2024/03/06/writing-wasm-rust"
+  }
+}

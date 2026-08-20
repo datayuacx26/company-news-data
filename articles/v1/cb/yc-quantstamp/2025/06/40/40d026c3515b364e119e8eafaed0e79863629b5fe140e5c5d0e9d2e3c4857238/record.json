@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "40d026c3515b364e119e8eafaed0e79863629b5fe140e5c5d0e9d2e3c4857238",
+  "company": {
+    "key": "yc-quantstamp",
+    "name": "Quantstamp"
+  },
+  "source": {
+    "id": "yc-quantstamp-rss-54cdced55685",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://quantstamp.com/blog/how-the-dforce-hacker-used-reentrancy-to-steal-25-million",
+    "canonical": "https://quantstamp.com/blog/how-the-dforce-hacker-used-reentrancy-to-steal-25-million"
+  },
+  "title": "How the dForce hacker used reentrancy to steal 25 million",
+  "summary": "The hacker exploited a reentrancy vulnerability in order to manipulate Lendf.Me’s internal record of the hacker's collateral. After the hacker created this false collateral record, the hacker withdrew nearly all assets from the platform.",
+  "published_at": "2025-06-04T18:23:59+00:00",
+  "first_seen_at": "2026-07-25T20:14:20.321573+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T03:09:35.051135+00:00",
+  "paths": {
+    "article": "articles/v1/cb/yc-quantstamp/2025/06/40/40d026c3515b364e119e8eafaed0e79863629b5fe140e5c5d0e9d2e3c4857238/article.md",
+    "record": "articles/v1/cb/yc-quantstamp/2025/06/40/40d026c3515b364e119e8eafaed0e79863629b5fe140e5c5d0e9d2e3c4857238/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7136,
+    "sha256": "sha256:70f5795a014c235da63e4cce0cf526bd6c715ca2b5138424222c7e2991d1ca1b",
+    "normalized_content_hash": "sha256:afcd67d7ad12d02c620e87dd71f4235b496833f01ba3af3de767785a30a952a9"
+  },
+  "provenance": {
+    "source_item_id": "157bf86a-365f-4f9d-aca2-536bd4b780d4",
+    "external_id": "https://quantstamp.com/blog/how-the-dforce-hacker-used-reentrancy-to-steal-25-million"
+  }
+}

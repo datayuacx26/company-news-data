@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "acae459bfb756ae148bd6619fab83ca16d62edb64b84164dcb1b8ddc4ca056ab",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/cloud-database-disaster-recovery-rpo-rto/",
+    "canonical": "https://www.singlestore.com/blog/cloud-database-disaster-recovery-rpo-rto/"
+  },
+  "title": "Cloud Database RPO, RTO and Disaster Recovery | SingleStore",
+  "summary": "What RPO and RTO mean for cloud databases, how multi-AZ HA and Smart DR protect your data, and the specific questions to ask any vendor about resilience.",
+  "published_at": "2026-06-01T14:55:21+00:00",
+  "first_seen_at": "2026-07-22T13:37:02.744795+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-12T11:34:17.492394+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/06/ac/acae459bfb756ae148bd6619fab83ca16d62edb64b84164dcb1b8ddc4ca056ab/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/06/ac/acae459bfb756ae148bd6619fab83ca16d62edb64b84164dcb1b8ddc4ca056ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11654,
+    "sha256": "sha256:b5b0e23504170e2560ab374047402fc7738a25cd34b8bf75ffbb4afd2a069bc7",
+    "normalized_content_hash": "sha256:2868201942ba47d58e12181bb3b440bf9c6d885e19a5ce5b90bd44a4d5b6bef0"
+  },
+  "provenance": {
+    "source_item_id": "9d4001d4-390c-4623-b91b-fc0abedc77ab",
+    "external_id": "https://www.singlestore.com/blog/cloud-database-disaster-recovery-rpo-rto/"
+  }
+}

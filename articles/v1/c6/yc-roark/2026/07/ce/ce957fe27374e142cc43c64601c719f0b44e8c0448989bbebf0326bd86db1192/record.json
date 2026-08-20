@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce957fe27374e142cc43c64601c719f0b44e8c0448989bbebf0326bd86db1192",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/voice-agent-slos",
+    "canonical": "https://roark.ai/blog/voice-agent-slos"
+  },
+  "title": "Voice agent SLOs: designing reliability targets for agents that talk",
+  "summary": "OpenAI Presence promises an improvement loop for voice agents. You still need SLOs. Here is how to design the ones that matter and enforce them past launch.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T21:03:14.317045+00:00",
+  "fetched_at": "2026-07-29T21:03:16.156505+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/07/ce/ce957fe27374e142cc43c64601c719f0b44e8c0448989bbebf0326bd86db1192/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/07/ce/ce957fe27374e142cc43c64601c719f0b44e8c0448989bbebf0326bd86db1192/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10990,
+    "sha256": "sha256:d420df45b5cf9b9bd24a4ed65707f32da7ea5f0629575b69f3c4ce4cd3b85568",
+    "normalized_content_hash": "sha256:abeda77dd2a46e16d89686d7d6c563e543f2fb0d2f53e6229882683866c0ca36"
+  },
+  "provenance": {
+    "source_item_id": "212d0bb0-d76d-484d-b7cc-55635a44cf68",
+    "external_id": "https://roark.ai/blog/voice-agent-slos"
+  }
+}

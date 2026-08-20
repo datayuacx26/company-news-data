@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-abacum",
+    "name": "Abacum"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-05-10T00:00:00+00:00",
+  "last_published_at": "2026-06-11T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 22
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d7/yc-abacum/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 25000,
+        "sha256": "sha256:cce8cda09b0d45915c815a9fb4e2c1dc8ac7957854e53304b9f8b719ebbb9f93",
+        "newest_at": "2026-07-28T21:20:10.944044+00:00",
+        "oldest_at": "2026-05-10T00:00:00+00:00"
+      }
+    ]
+  }
+}

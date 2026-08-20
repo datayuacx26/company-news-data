@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62caeefb5d89da8dceed80c4d6f92453885bf4e6f85abc05ac6a58a6442c63e8",
+  "company": {
+    "key": "yc-speedy-labs",
+    "name": "Speedy Labs"
+  },
+  "source": {
+    "id": "yc-speedy-labs-rss-666b7b9fe9fa",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.speedylabs.ai/primus-finagent-4b-exploring-the-frontier-of-verifiable-financial-reasoning-in-small-language-models/",
+    "canonical": "https://blog.speedylabs.ai/primus-finagent-4b-exploring-the-frontier-of-verifiable-financial-reasoning-in-small-language-models/"
+  },
+  "title": "Primus FinAgent-4B : Exploring the Frontier of Verifiable Financial Reasoning in Small Language Models",
+  "summary": "Ranti Dev, Ayush Jasuja and Jatin Mehta TL;DR 4B = 235B in Financial Analysis We took the Qwen3-4B-Instruct-2507 model and trained it with reinforcement learning (GRPO) to answer questions about SEC 10-K filings by using tools — discovering tables, inspecting schemas, writing SQL, and doing arithmetic. The",
+  "published_at": "2026-06-23T17:22:13+00:00",
+  "first_seen_at": "2026-07-24T01:54:16.110766+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T00:32:48.180083+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-speedy-labs/2026/06/62/62caeefb5d89da8dceed80c4d6f92453885bf4e6f85abc05ac6a58a6442c63e8/article.md",
+    "record": "articles/v1/f0/yc-speedy-labs/2026/06/62/62caeefb5d89da8dceed80c4d6f92453885bf4e6f85abc05ac6a58a6442c63e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14238,
+    "sha256": "sha256:5462ec4a4c66053e58d12eebcb95903d1bfa93ae43755650df65e147c132bddb",
+    "normalized_content_hash": "sha256:e9bcd1c1714eda5e1a820fd4823f8d826f7de4cb6ed2a1b5452156f50112e5f7"
+  },
+  "provenance": {
+    "source_item_id": "87aab4f9-197f-44ce-804e-6f619fde50f0",
+    "external_id": "6a3abb958a372900012fc390"
+  }
+}

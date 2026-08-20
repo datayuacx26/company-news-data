@@ -1,0 +1,232 @@
+---
+schema_version: "1.0.0"
+document_id: "7540a2b91f75c44119df6eabef6eeab1a07947e82a0e56d2a87460f7d04d7b69"
+company_key: "yc-estimote-inc"
+company: "Estimote, Inc."
+source_id: "yc-estimote-inc-rss-9f8374160089"
+canonical_url: "https://blog.estimote.com/post/186160021855"
+published_at: "2019-07-09T14:39:52+00:00"
+first_seen_at: "2026-07-27T09:08:36.947635+00:00"
+fetched_at: "2026-07-28T21:06:00.870812+00:00"
+content_hash: "sha256:2bf339124f28499c146b2b30e66fc66abf174153ead644bbb4c8ccd23e9d096b"
+---
+
+# Get ready for iOS 13: Bluetooth and location changes explained
+
+iOS 13, coming later this fall, will introduce some changes to the location permissions, as well as a brand-new Bluetooth permission. If you’re an app developer using Estimote beacons, iBeacon, or Estimote SDKs, these are likely to affect your app. Let us walk you through what’s changing, and how to adapt to it.
+
+
+We’ll do this in an order that we think paints the most complete picture of the changes:
+
+
+1. Core Location and iBeacon,
+2. Core Bluetooth,
+3. Estimote Proximity SDK (which uses a mix of Core Bluetooth and Core Location),
+4. Estimote Fleet Management SDK (which uses Core Bluetooth).
+
+
+There’s a lot to go through, so if you’re an Estimote Proximity SDK user and short on time, feel free to jump straight to “[Action points for Estimote Proximity SDK users](https://blog.estimote.com/post/186160021855/get-ready-for-ios-13-bluetooth-and-location#proximity-sdk-action-points) ”.
+
+
+### 1. Core Location and iBeacon
+
+
+First of all, something we think is worth emphasizing. If your app uses iBeacon via the Core Location framework built into iOS, you’re only affected by the Core Location changes, and you actually won’t see the new Bluetooth prompt at all.
+
+
+“But iBeacon is Bluetooth!” That’s correct, but … iBeacon is also somewhat special, precisely because it’s part of Core Location and not Core Bluetooth. Just like playing audio via Bluetooth doesn’t require the new Bluetooth permission (because it uses audio APIs, and not the Bluetooth API), neither does iBeacon (because it uses location APIs, and not the Bluetooth API).
+
+
+That said, there **are** changes to some of the Core Location behavior. Let’s go through them first, and we’ll provide action points at the end.
+
+
+#### Allow once
+
+
+There’s a new option for the location prompt: “allow once”. It grants location powers to the app for a single foreground session only. When the user leaves the app or locks the smartphone, the permission will automatically expire, and the app will need to ask again next time.
+
+
+#### Changes to the background location opt-in
+
+
+Today, apps can choose to prompt the user for the background location permission (also known as “always” or “even when not using the app”) right away. In iOS 13, if your app requests the “always” permission, the initial pop-up won’t actually include such an option—the choices for the user will be “just once”, “when in use” or “never”.
+
+
+If the user agrees to “when in use”, then at some point in the future when your app would normally obtain a background location event (for example, an “enter” beacon region event), the user will be presented with an option to upgrade the permission to “always”. If they do, your app will receive the background event.
+
+
+That’s a somewhat simplified version—there’s actually a good amount of nuance to this new flow:
+
+
+-
+
+
+the “upgrade permission” pop-up might be delayed if the smartphone is locked or the user is busy with another app
+
+
+-
+
+
+the background event might not be delivered if the pop-up gets delayed so much that the event is no longer relevant
+
+
+-
+
+
+all this time your app will “believe” that it actually has the “always” permission—thanks to the new concept of “provisional” permissions
+
+
+If you want to dive deeper into all this, we recommend watching the first 10 minutes of the[“What’s new in Core Location”](https://developer.apple.com/videos/play/wwdc2019/705/) session.
+
+
+#### Background location usage map
+
+
+The periodic “app X has been using your location in the background, are you still okay with that?” pop-up will now show a map of places where the app accessed location data.
+
+
+This is actually a pretty interesting addition, as it allows the user to confirm that, for example, your museum-tour app only uses their location when in the museum, which helps build trust and prevent opt-outs.
+
+
+#### No more background-exclusive methods
+
+
+Up till iOS 13, certain location methods required the “always” permission, and wouldn’t work at all without it—even if the app was in the foreground. In the context of iBeacon, that includes the “region monitoring”, AKA geofencing, AKA enter and exit events. Maybe your app only needed the enter and exit events in the foreground, with the “when in use” permission—but that wasn’t an option.
+
+
+Starting with iOS 13, all location methods will work depending on the location permission. Which means you can now use region monitoring in the foreground, with just the “when in use” permission.
+
+
+Ah, much better and simpler, isn’t it!
+
+
+#### Action points for Core Location users
+
+
+The most important takeaway from the Core Location changes in iOS 13 is that the location permissions for your app might be changing a lot more than before. The new “just once” permission will grant your app “when in use” access, but it’ll automatically expire after one session, and you need to be ready for that. The new “always” opt-in flow might also mean that you’ll see a downgrade from the provisional “always” authorization.
+
+
+-
+
+
+Most likely, you’re already implementing the` didChangeAuthorization` method in your` CLLocationManagerDelegate` , and are handling changes to the location permission—even today, users can always change this permission in the Settings app, and you want to be ready for that. So for iOS 13, simply give your` didChangeAuthorization` a good look, and **consider what will happen when the permissions change in these new ways** .
+
+
+-
+
+
+For the **new background opt-in flow** , if your app’s copy or images reference the “always allow” option that used to be available right away, you may need to adjust that to the new, 2-step process.
+
+
+-
+
+
+Due to the **new background-usage map** , you might also want to double-check that your app only **accesses the location data in the intended places** , or you risk losing the user’s trust, and with it, your background-location-access privileges. This might mean relying more on geofencing (region monitoring), and less on continuous or significant location updates.
+
+
+### 2. Core Bluetooth
+
+
+Since the very beginning of Core Bluetooth, scanning for Bluetooth devices (including non-iBeacon beacons; iBeacon is filtered out of Core Bluetooth), and interacting with Bluetooth accessories, didn’t require any special permission from the user.
+
+
+Apps **are** required to explain their Bluetooth usage under the` NSBluetoothPeripheralUsageDescription` key in their Info.plist file (= internal metadata), but that description was for the App Store review team only, and never actually shown to the user.
+
+
+If you forget the \`NSBluetoothPeripheralUsageDescription\` in your Info.plist file, expect this automated email in your inbox when uploading your app to the App Store. Happens even to the best of us! ;-)
+
+
+If an app wanted to access Bluetooth *in the background* , it *also* needed to indicate so in their Info.plist … which meant even more scrutiny from the App Store review team, but still no transparency for the end-user.
+
+
+The problem here is that this allowed apps to potentially devise some information about the user’s location from the Bluetooth signals, without the user really knowing about it. For example, an app could scan for Bluetooth signals from your smart TV, to know that you’re probably at home. Or, an app could use non-iBeacon beacons deployed, say, in a store, to know when you enter that store. (Estimote Proximity SDK doesn’t allow such “silent” operation, but more on that later.)
+
+
+iOS 13 will make Bluetooth usage more transparent, with the new “allow this app to use Bluetooth?” prompt. It’ll pop up automatically the first time your app instanties any of the Core Bluetooth managers—for example, the` CBCentralManager` .
+
+
+There’s also a new key for the Info.plist file:` NSBluetooth **Always** UsageDescription` , which you can use to explain how and why your app uses Bluetooth. In contrast to the existing` NSBluetooth **Peripheral** UsageDescription` , the new description will be shown as part of the new pop-up, and also in the Settings app on the Bluetooth Privacy screens.
+
+
+#### Action points for Core Bluetooth users
+
+
+-
+
+
+Craft and add the new` **NSBluetoothAlwaysUsageDescription**` message to explain Bluetooth usage to the users of your app.
+
+
+-
+
+
+If you’re creating any` CBCentralManager` objects yourself, investigate whether you need to move them to a different spot in your code, to **avoid triggering the Bluetooth-permission pop-up prematurely** .
+
+
+-
+
+
+Update your` centralManagerDidUpdateState` delegate to **properly handle the` unauthorized`** state. For example, disable any Bluetooth-dependent features in your app, and inform the user how they can re-enable this permission via the iOS Settings app.
+
+
+### 3. Estimote Proximity SDK
+
+
+For your generic iBeacon and Bluetooth needs, there’s Core Location and Core Bluetooth. At Estimote, we also have our own “Proximity SDK”, tightly integrated and fine-tuned to take full advantage of our entire beacon stack, from hardware, to firmware, to cloud. This allows us to provide features like software-defined range, unlimited zones/regions, and improved responsiveness and reliability. Under the hood, we use both Core Location and Core Bluetooth, and both iBeacon and non-iBeacon protocols.
+
+
+Most importantly though, ever since the Proximity SDK graduated out of beta, we’ve been **strictly enforcing the location permission** . Even though a lot of our SDK is powered by *Core Bluetooth* , it will refuse to function at all without appropriate *Core Location* permission (“when in use” for foreground events, “always” for background). We believe that the user always needs to know when an app gains access to its location, whether via Core Location (GPS, WiFi, cell towers, iBeacon) or via Core Bluetooth (non-iBeacon beacons, or other Bluetooth signals).
+
+
+**New in iOS 13** is that beside the location prompt, the Proximity SDK will **also trigger the new Bluetooth prompt** . Both permissions are required for the Proximity SDK to function. And we still obey the “when in use” and “always” distinction, even though the iOS 13 Bluetooth prompt doesn’t actually have “when in use” (it’s “always” or “never”). We believe this actually makes the Proximity SDK one of the most privacy-respectful beacon libraries out there—on par with Apple’s own, high standards for the iBeacon opt-in.
+
+
+#### Action points for Estimote Proximity SDK users
+
+
+All in all, if you’re using the Proximity SDK, there’s a good chance you’re already well-prepared for iOS 13. The location permission requirement enforced by the Proximity SDK means that you probably already invested in good onboarding, and are explaining the location and Bluetooth usage in order to improve the opt-in rate.
+
+
+Example custom-designed permissions dialog, including notifications, location, and Bluetooth.
+
+
+-
+
+
+There will be a **new Bluetooth prompt** , so if you don’t mention Bluetooth right now during onboarding (for example, to encourage users to keep it on), you may want to add that. You also need to add` NSBluetoothAlwaysUsageDescription` to your Info.plist file, with the message that will be shown in the Bluetooth pop-up.
+
+
+-
+
+
+Examine where you create your` ProximityObserver` , since that’s what **triggers the new Bluetooth prompt** . You may need to adapt your code to avoid creating the Observer before the onboarding is complete—otherwise, the prompt might show up during some less-than-ideal time, like … immediately on the first launch :-)
+
+
+-
+
+
+If you’re using the Proximity SDK in the background, you’re also affected by the **new background location opt-in** . The user will now be shown “when in use” option only at first, and “upgrade to always” option later when they’re in range of beacons. If your onboarding currently guides the user to choose the now-removed “always” option in the initial dialog, you will need to tweak your copy and/or visuals.
+
+
+-
+
+
+If you’re using` CBCentralManager` and/or` CLLocationManager` and their delegates to **monitor permission changes** , you may also want to refer to the Core Location and Core Bluetooth action points above.
+
+
+### 4. Estimote Fleet Management SDK
+
+
+Estimote Fleet Management SDK is primarily for applying any “pending settings” from Estimote Cloud to your Estimote beacons. It uses Core Bluetooth only ***** , and instantiating most of its classes will now trigger the Bluetooth prompt. Just like with the Proximity SDK and the` ProximityObserver` , you may want to adapt your code to make sure this doesn’t happen until after the onboarding.
+
+
+***** There are certain features in the Fleet Management SDK, inherited from our older “Estimote SDK”, which use Core Location and iBeacon. These select features (e.g., the` ESTBeaconManager` ) have been superseded by the Proximity SDK, but if you’re still using them, you might be affected by the Core Location and iBeacon changes as well.
+
+
+### Let’s share notes
+
+
+If you’re beta-testing iOS 13, feel free to drop by[Estimote forums](https://forums.estimote.com/) . We’ll be happy to discuss the changes, explain things in more detail, answer your questions, and compare notes.
+
+
+*Piotr Krawiec ([@heypiotr](https://twitter.com/heypiotr) ), Estimote’s Developer Experience Aficionado*

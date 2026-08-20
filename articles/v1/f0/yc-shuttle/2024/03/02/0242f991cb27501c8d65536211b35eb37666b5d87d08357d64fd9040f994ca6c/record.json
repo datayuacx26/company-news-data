@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0242f991cb27501c8d65536211b35eb37666b5d87d08357d64fd9040f994ca6c",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/03/28/grafana-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/03/28/grafana-rust"
+  },
+  "title": "Send logs to Grafana Loki with Rust",
+  "summary": "Exploring how to send logs to a Grafana Loki instance using Rust, without Promtail",
+  "published_at": "2024-03-28T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/03/02/0242f991cb27501c8d65536211b35eb37666b5d87d08357d64fd9040f994ca6c/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/03/02/0242f991cb27501c8d65536211b35eb37666b5d87d08357d64fd9040f994ca6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9546,
+    "sha256": "sha256:2dde73ba77390a2aee7842db9a3262b772a4d7e592859deb13f4a119d2a53a7e",
+    "normalized_content_hash": "sha256:568197c7a7caafba998b3515444b8aab140fa8f4341c0ed5fc7f414e026a1925"
+  },
+  "provenance": {
+    "source_item_id": "466b2eb5-dea0-4c15-b995-ecfba7f5876c",
+    "external_id": "https://www.shuttle.dev/blog/2024/03/28/grafana-rust"
+  }
+}

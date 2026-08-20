@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d45c822277d529d8270c018cd2dd7f6d2d6046871fa8e722938930db8592c87d",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-motherduck-postgresql",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-motherduck-postgresql"
+  },
+  "title": "MotherDuck and PostgreSQL: Why ATTACH Is Not a Sync",
+  "summary": "Two-way sync between MotherDuck and PostgreSQL: why DuckDB's ATTACH is read-only federation, what WAL capture and watermarks add, and how the options compare.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/d4/d45c822277d529d8270c018cd2dd7f6d2d6046871fa8e722938930db8592c87d/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/d4/d45c822277d529d8270c018cd2dd7f6d2d6046871fa8e722938930db8592c87d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15900,
+    "sha256": "sha256:4d2dd0755759322cce4e0b6505a52dc454d9169fd14736026e62bfb9983ac921",
+    "normalized_content_hash": "sha256:ecad30bd97837f37f612841ce54e47211a001e9fee0eb576338f3fe546309b45"
+  },
+  "provenance": {
+    "source_item_id": "f5d260b5-4b3a-4717-8ef6-2ac5d6d4f4ba",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-motherduck-postgresql"
+  }
+}

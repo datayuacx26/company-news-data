@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab477559a51f2ff6b20c36cfc3affeb4b45394c21a38e762b50635a2c26c793c",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/opinion/ai-agent-state-should-be-checkpointed-not-synced",
+    "canonical": "https://www.freestyle.sh/blog/opinion/ai-agent-state-should-be-checkpointed-not-synced"
+  },
+  "title": "AI Agent State Should Be Checkpointed, Not Synced",
+  "summary": "Filesystem debates for AI agents miss the operational question: when should an agent freeze a working moment, branch it, resume it, or discard it?",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:54:28.432730+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/ab/ab477559a51f2ff6b20c36cfc3affeb4b45394c21a38e762b50635a2c26c793c/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/ab/ab477559a51f2ff6b20c36cfc3affeb4b45394c21a38e762b50635a2c26c793c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10356,
+    "sha256": "sha256:1255bceb74cffd162544b3bef61f9884f5c8b1a20d29865b98ba8ff2a0586869",
+    "normalized_content_hash": "sha256:a9e9919ca1cad161eb109bcfe9df856657ae9e255ff154fd67a98624027a1fbc"
+  },
+  "provenance": {
+    "source_item_id": "8ca54cb3-bc96-44d4-b4c5-c3fd1fbe5e92",
+    "external_id": "https://www.freestyle.sh/blog/opinion/ai-agent-state-should-be-checkpointed-not-synced"
+  }
+}

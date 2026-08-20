@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "401de0787120bc1d67e4d309741a1dc2c6e792fd3d85ab5d9e37cfc134e50e93",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/enterprise-ipaas-sql-server",
+    "canonical": "https://www.stacksync.com/blog/enterprise-ipaas-sql-server"
+  },
+  "title": "What an Enterprise iPaaS Must Get Right on SQL Server",
+  "summary": "An enterprise iPaaS for SQL Server reads CDC or Change Tracking in seconds and writes back into the same tables, on-prem or on Azure. SSIS moves a batch.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/40/401de0787120bc1d67e4d309741a1dc2c6e792fd3d85ab5d9e37cfc134e50e93/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/40/401de0787120bc1d67e4d309741a1dc2c6e792fd3d85ab5d9e37cfc134e50e93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15822,
+    "sha256": "sha256:2dfff8744ff1e648b116706113b1bbda637a25d6de6fef0647b5edeae8619a65",
+    "normalized_content_hash": "sha256:2b5fd63a073f5d28d2b8ac1e1345c12f89d70211f73920ab421ae7436230393c"
+  },
+  "provenance": {
+    "source_item_id": "384d7a28-796b-4f0a-9983-db1c8e217d4b",
+    "external_id": "https://www.stacksync.com/blog/enterprise-ipaas-sql-server"
+  }
+}

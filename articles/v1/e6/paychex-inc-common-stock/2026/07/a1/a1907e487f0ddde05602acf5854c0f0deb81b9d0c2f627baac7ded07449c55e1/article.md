@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "a1907e487f0ddde05602acf5854c0f0deb81b9d0c2f627baac7ded07449c55e1"
+company_key: "paychex-inc-common-stock"
+company: "Paychex Inc."
+source_id: "paychex-inc-common-stock-rss-c271c18fbcf2"
+canonical_url: "https://www.paychex.com/node/36714"
+published_at: "2026-07-10T19:39:16+00:00"
+first_seen_at: "2026-07-20T23:21:32.770865+00:00"
+fetched_at: "2026-07-30T16:38:56.288940+00:00"
+content_hash: "sha256:9a33390c012820c877d2635f4c8342d3bfa8f6747caf73d21344c92691a363f2"
+---
+
+# Mercedes Brown Hair Boutique Wins 2026 Earn Your Stripes Contest Presented by Paycor and the Bengals
+
+<span class="field field--name-title field--type-string field--label-hidden">Mercedes Brown Hair Boutique Wins 2026 Earn Your Stripes Contest Presented by Paycor and the Bengals</span> <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>cwernick</span></span> <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-07-10T15:39:16-04:00" title="Friday, July 10, 2026 - 15:39" class="datetime">Fri, 07/10/2026 - 15:39</time> </span> <div class="field field--name-field-resource-url field--type-string field--label-hidden field__item">https://www.bengals.com/news/mercedes-brown-hair-boutique-wins-2026-earn-your-stripes-contest-presented-by-paycor-and-the-bengals</div> <div class="field field--name-field-author field--type-entity-reference field--label-hidden field__item"><a href="/newsroom/contacts/chelsea-wernick" hreflang="en">Chelsea Wernick</a></div> <div class="field field--name-field-published-date field--type-datetime field--label-hidden field__item"><time datetime="2026-07-08T12:00:00Z" class="datetime">Wed, 07/08/2026 - 12:00</time> </div> <div class="field field--name-field-company-name field--type-string field--label-hidden field__item">The Cincinnati Bengals</div>

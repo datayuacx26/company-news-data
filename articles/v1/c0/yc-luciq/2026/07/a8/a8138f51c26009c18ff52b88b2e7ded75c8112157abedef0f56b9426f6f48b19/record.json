@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8138f51c26009c18ff52b88b2e7ded75c8112157abedef0f56b9426f6f48b19",
+  "company": {
+    "key": "yc-luciq",
+    "name": "Luciq (formerly Instabug)"
+  },
+  "source": {
+    "id": "yc-luciq-news-import-4fda431b7a4e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.luciq.ai/blog/grafana-flamegraph-hierarchical-metrics",
+    "canonical": "https://www.luciq.ai/blog/grafana-flamegraph-hierarchical-metrics"
+  },
+  "title": "Stop Scanning 400-Row Tables: The Flamegraph Hiding in Your Metrics",
+  "summary": "Render hierarchical metrics as interactive flamegraphs in Grafana core panel. No plugin: the frame contract, the transforms, and the traps that fail silently.",
+  "published_at": "2026-07-22T06:55:35.100+00:00",
+  "first_seen_at": "2026-07-24T03:18:24.794445+00:00",
+  "fetched_at": "2026-07-28T21:38:27.854613+00:00",
+  "last_updated_at": "2026-08-19T20:51:58.819495+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-luciq/2026/07/a8/a8138f51c26009c18ff52b88b2e7ded75c8112157abedef0f56b9426f6f48b19/article.md",
+    "record": "articles/v1/c0/yc-luciq/2026/07/a8/a8138f51c26009c18ff52b88b2e7ded75c8112157abedef0f56b9426f6f48b19/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12137,
+    "sha256": "sha256:1a225792301fdf859d62730a788f2a737e4681da0bd5dc92af0c9e7100563fcd",
+    "normalized_content_hash": "sha256:582c50eb829e448a744a1a74cb9da5d1672273f3622d8900024f2b27d78abb67"
+  },
+  "provenance": {
+    "source_item_id": "57d646d8-2c21-40d0-86c4-ffe234b25710",
+    "external_id": "https://www.luciq.ai/blog/grafana-flamegraph-hierarchical-metrics"
+  }
+}

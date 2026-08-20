@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b83bb5fb2fc83d7a8e7cfb82be523eedfed06fca4bbba9a806ac2e5c7746c731",
+  "company": {
+    "key": "yc-formal",
+    "name": "Formal"
+  },
+  "source": {
+    "id": "yc-formal-news-import-a5b088b50d89",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://formal.ai/blog/ssh-port-forwarding-ssm/",
+    "canonical": "https://www.formal.ai/blog/ssh-port-forwarding-ssm/"
+  },
+  "title": "Down the Rabbit Hole: Implementing SSH Port Forwarding over AWS Session Manager",
+  "summary": "Implementing SSH port forwarding over AWS Session Manager with concurrency fixes.",
+  "published_at": "2025-02-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:22:31.452672+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T21:17:49.783874+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-formal/2025/02/b8/b83bb5fb2fc83d7a8e7cfb82be523eedfed06fca4bbba9a806ac2e5c7746c731/article.md",
+    "record": "articles/v1/e9/yc-formal/2025/02/b8/b83bb5fb2fc83d7a8e7cfb82be523eedfed06fca4bbba9a806ac2e5c7746c731/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17358,
+    "sha256": "sha256:7b7ad5a1603e95695161a63b36f356bba6ed4a04ef379fa68d596152ee99a35a",
+    "normalized_content_hash": "sha256:ecfdec3abfbb8c9db314b92c1f1cd06a858f9694a2e9c16391fa44e83e945ded"
+  },
+  "provenance": {
+    "source_item_id": "8ced92f3-e454-4a54-834b-065f3db765a0",
+    "external_id": "https://www.formal.ai/blog/ssh-port-forwarding-ssm/"
+  }
+}

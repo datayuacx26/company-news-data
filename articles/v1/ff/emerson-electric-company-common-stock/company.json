@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "emerson-electric-company-common-stock",
+    "name": "Emerson Electric Company"
+  },
+  "record_count": 63,
+  "first_published_at": "2026-01-13T21:15:00+00:00",
+  "last_published_at": "2026-08-06T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 31
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ff/emerson-electric-company-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 64844,
+        "sha256": "sha256:ff7c08bcc16029998bfeded2a2e5475af5e369a962c7d637c4ea6e9885188c6e",
+        "newest_at": "2026-08-06T13:00:00+00:00",
+        "oldest_at": "2026-06-05T11:00:42+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ff/emerson-electric-company-common-stock/index/pages/000002.json",
+        "record_count": 13,
+        "byte_count": 17099,
+        "sha256": "sha256:a972c9e358f4e654e7aad83c2476be9f3b1a4c7774c07bc67f832eb6d48811e5",
+        "newest_at": "2026-06-04T19:25:32+00:00",
+        "oldest_at": "2026-01-13T21:15:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87d3f5a66d7742ca0356968f757a5713e82ff074b89f6ac63c6e86c294e1ee68",
+  "company": {
+    "key": "yc-feroot-security",
+    "name": "Feroot Security"
+  },
+  "source": {
+    "id": "yc-feroot-security-news-import-5cc226b40d32",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.feroot.com/blog/health-insurance-portals-hipaa-compliance/",
+    "canonical": "https://feroot.com/blog/health-insurance-portals-hipaa-compliance/"
+  },
+  "title": "Health Insurance Portals: Browser-Based PHI Exposure Under HIPAA and State Laws",
+  "summary": "How health insurance portals expose PHI through browser-based tracking and what HIPAA, MHMDA, and CCPA require to stay compliant.",
+  "published_at": "2026-03-02T20:51:42+00:00",
+  "first_seen_at": "2026-07-22T07:46:19.024825+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-13T17:21:19.226423+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-feroot-security/2026/03/87/87d3f5a66d7742ca0356968f757a5713e82ff074b89f6ac63c6e86c294e1ee68/article.md",
+    "record": "articles/v1/c7/yc-feroot-security/2026/03/87/87d3f5a66d7742ca0356968f757a5713e82ff074b89f6ac63c6e86c294e1ee68/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22413,
+    "sha256": "sha256:69f0a6b0dd58d8b22b34325d2e34d74da4935819991eee5ac6cd7fb1a18a5528",
+    "normalized_content_hash": "sha256:7f0a9a473b0c59a6a2587b43e84a59a8fcb8db870b5a5a15183ad16c35decd09"
+  },
+  "provenance": {
+    "source_item_id": "ff7818b1-3653-4109-80bd-fca3ee8fb53c",
+    "external_id": "https://feroot.com/blog/health-insurance-portals-hipaa-compliance/"
+  }
+}

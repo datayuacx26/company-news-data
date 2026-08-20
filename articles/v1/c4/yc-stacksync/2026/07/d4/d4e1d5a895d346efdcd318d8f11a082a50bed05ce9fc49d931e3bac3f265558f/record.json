@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4e1d5a895d346efdcd318d8f11a082a50bed05ce9fc49d931e3bac3f265558f",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/real-time-sync-rillet-snowflake",
+    "canonical": "https://www.stacksync.com/blog/real-time-sync-rillet-snowflake"
+  },
+  "title": "Finance Numbers in Snowflake Without Waiting for the Nightly Run",
+  "summary": "Real-time sync between Rillet and Snowflake: land ledger, sub-ledger, and dimension changes in the warehouse in seconds instead of a nightly batch.",
+  "published_at": "2026-07-21T17:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/d4/d4e1d5a895d346efdcd318d8f11a082a50bed05ce9fc49d931e3bac3f265558f/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/d4/d4e1d5a895d346efdcd318d8f11a082a50bed05ce9fc49d931e3bac3f265558f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7052,
+    "sha256": "sha256:dfc2e4d2c4c89435d5996fb690789d64eb7b87e0da920b97b8f839d87808856c",
+    "normalized_content_hash": "sha256:98c63dcad4fb3ffccfa17218a732904d1db83c6c2862ad7fe9c934e4ed63b25b"
+  },
+  "provenance": {
+    "source_item_id": "1f5e8940-a50e-44b7-8d45-058f7ee49f2b",
+    "external_id": "https://www.stacksync.com/blog/real-time-sync-rillet-snowflake"
+  }
+}

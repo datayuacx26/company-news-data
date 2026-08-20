@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e8aee3e6504b3398a9e60f6d191f0ef637381c9c9371cf12908776e3fbfecaf9",
+  "company": {
+    "key": "yc-agentic-fabriq",
+    "name": "Agentic Fabriq"
+  },
+  "source": {
+    "id": "yc-agentic-fabriq-news-import-c3e20007c6cf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agenticfabriq.com/blog/managing-agent-permissions-at-scale",
+    "canonical": "https://www.agenticfabriq.com/blog/managing-agent-permissions-at-scale"
+  },
+  "title": "Managing Agent Permissions at Scale",
+  "summary": "Agentic Fabriq is the identity and permissioning layer for AI agents. Per-agent identity, least-privilege access, full audit logs, and one-click revocation across MCP, OAuth, and agent frameworks. Drop-in with Okta, Azure AD, and Google Workspace.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T21:56:59.865939+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T22:33:45.629725+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-agentic-fabriq/2026/07/e8/e8aee3e6504b3398a9e60f6d191f0ef637381c9c9371cf12908776e3fbfecaf9/article.md",
+    "record": "articles/v1/cd/yc-agentic-fabriq/2026/07/e8/e8aee3e6504b3398a9e60f6d191f0ef637381c9c9371cf12908776e3fbfecaf9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12062,
+    "sha256": "sha256:312db806b215d00d3d841dd11fd2770dd6404f19668eb57cdd7ae42a63c0ebd5",
+    "normalized_content_hash": "sha256:cdfc1a1bb4e8d7e1e64cbd3d148c8db16b05244da191a415631953d8e09c81d6"
+  },
+  "provenance": {
+    "source_item_id": "29483d81-b087-4b3a-b38d-fbd8f2d71d1d",
+    "external_id": "https://www.agenticfabriq.com/blog/managing-agent-permissions-at-scale"
+  }
+}

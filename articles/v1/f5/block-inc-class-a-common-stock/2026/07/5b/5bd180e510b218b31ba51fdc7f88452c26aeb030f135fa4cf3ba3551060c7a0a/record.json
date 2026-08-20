@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5bd180e510b218b31ba51fdc7f88452c26aeb030f135fa4cf3ba3551060c7a0a",
+  "company": {
+    "key": "block-inc-class-a-common-stock",
+    "name": "Block Inc."
+  },
+  "source": {
+    "id": "block-inc-class-a-common-stock-rss-613ed2351e85",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware",
+    "canonical": "http://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware"
+  },
+  "title": "Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware",
+  "summary": "How a disabled hardware-RNG path and 32-bit reseed constrain entropy in affected COLDCARD firmware and expose generated secrets.",
+  "published_at": "2026-07-30T12:00:00+00:00",
+  "first_seen_at": "2026-07-31T20:34:51.372218+00:00",
+  "fetched_at": "2026-07-31T21:48:33.066422+00:00",
+  "last_updated_at": "2026-08-20T01:58:38.806680+00:00",
+  "paths": {
+    "article": "articles/v1/f5/block-inc-class-a-common-stock/2026/07/5b/5bd180e510b218b31ba51fdc7f88452c26aeb030f135fa4cf3ba3551060c7a0a/article.md",
+    "record": "articles/v1/f5/block-inc-class-a-common-stock/2026/07/5b/5bd180e510b218b31ba51fdc7f88452c26aeb030f135fa4cf3ba3551060c7a0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23739,
+    "sha256": "sha256:36d3fb40113be449563c363abd1b849f3f5a6c677a9448c4f69f9d7b73aea33d",
+    "normalized_content_hash": "sha256:e818740c83e9cda8295e094e7cc40bef511e8b7119cc3b05e3b6b7d928cf7c28"
+  },
+  "provenance": {
+    "source_item_id": "7ecb5d44-a40c-4bb1-bf2b-e1db058cabbb",
+    "external_id": "http://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware"
+  }
+}

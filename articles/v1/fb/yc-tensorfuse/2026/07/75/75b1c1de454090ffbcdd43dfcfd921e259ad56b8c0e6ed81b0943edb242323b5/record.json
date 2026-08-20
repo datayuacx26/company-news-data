@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "75b1c1de454090ffbcdd43dfcfd921e259ad56b8c0e6ed81b0943edb242323b5",
+  "company": {
+    "key": "yc-tensorfuse",
+    "name": "Tensorfuse"
+  },
+  "source": {
+    "id": "yc-tensorfuse-news-import-97ab2b67de47",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorfuse.io/blog/gpu-containers-cold-start",
+    "canonical": "https://tensorfuse.io/blog/gpu-containers-cold-start"
+  },
+  "title": "Why do GPU Containers have long Cold Starts?",
+  "summary": "Reduce GPU cold start times with Kubernetes, Docker, and lazy loading. Optimize GPU scaling and container startup for faster performance.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:04:56.878556+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T00:15:16.087749+00:00",
+  "paths": {
+    "article": "articles/v1/fb/yc-tensorfuse/2026/07/75/75b1c1de454090ffbcdd43dfcfd921e259ad56b8c0e6ed81b0943edb242323b5/article.md",
+    "record": "articles/v1/fb/yc-tensorfuse/2026/07/75/75b1c1de454090ffbcdd43dfcfd921e259ad56b8c0e6ed81b0943edb242323b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 787,
+    "sha256": "sha256:60265db9f3aa79a6247dafc8f7b6cd85a9d8bae780975d14c683258aab72228d",
+    "normalized_content_hash": "sha256:95113e2341a7d255bb4382feb932a486d1f3dfc06e808a04008abde18bf3147b"
+  },
+  "provenance": {
+    "source_item_id": "5c418ece-9d70-430b-9c3f-06a1a3fe6de7",
+    "external_id": "https://tensorfuse.io/blog/gpu-containers-cold-start"
+  }
+}

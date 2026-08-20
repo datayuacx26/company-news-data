@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de03511bc1dadd6c42c4ab52a110b0455dd6a7e6847dd38f40aa111584318820",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/customer-managed-encryption-keys-cloud-database-cmek/",
+    "canonical": "https://www.singlestore.com/blog/customer-managed-encryption-keys-cloud-database-cmek/"
+  },
+  "title": "Cloud Database Encryption Keys and CMEK | SingleStore",
+  "summary": "How customer-managed encryption keys (CMEK) work in cloud databases - and when your workload needs key sovereignty via AWS KMS, Azure Key Vault, or GCP KMS.",
+  "published_at": "2026-06-11T14:24:18+00:00",
+  "first_seen_at": "2026-07-22T13:37:02.744795+00:00",
+  "fetched_at": "2026-07-28T21:46:31.447870+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/06/de/de03511bc1dadd6c42c4ab52a110b0455dd6a7e6847dd38f40aa111584318820/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/06/de/de03511bc1dadd6c42c4ab52a110b0455dd6a7e6847dd38f40aa111584318820/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12696,
+    "sha256": "sha256:86e99c570b4f8c447b212552320a6a218e5823cbcce1dbeebc46d18ccdd3635b",
+    "normalized_content_hash": "sha256:0d13a3880a4e492e8700cd65ea8b701864104addb2515fdd03341295791bb928"
+  },
+  "provenance": {
+    "source_item_id": "76f76e33-4b81-4e07-b186-42fc6d53e1fd",
+    "external_id": "https://www.singlestore.com/blog/customer-managed-encryption-keys-cloud-database-cmek/"
+  }
+}

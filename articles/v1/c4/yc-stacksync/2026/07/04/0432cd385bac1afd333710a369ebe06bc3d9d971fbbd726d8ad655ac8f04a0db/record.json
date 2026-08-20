@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0432cd385bac1afd333710a369ebe06bc3d9d971fbbd726d8ad655ac8f04a0db",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/eclinicalworks-data-migration-integration",
+    "canonical": "https://www.stacksync.com/blog/eclinicalworks-data-migration-integration"
+  },
+  "title": "eClinicalWorks Data Migration and Integration Guide",
+  "summary": "How to export, migrate, and sync eClinicalWorks data safely, using FHIR, HL7, and C-CDA, with HIPAA safeguards, field mapping, and reconciliation.",
+  "published_at": "2026-07-17T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-07-28T21:11:32.297749+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/04/0432cd385bac1afd333710a369ebe06bc3d9d971fbbd726d8ad655ac8f04a0db/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/04/0432cd385bac1afd333710a369ebe06bc3d9d971fbbd726d8ad655ac8f04a0db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11045,
+    "sha256": "sha256:181cdc42fe45e1a3b3b0bf54ce2c03e37b11aff7d024ace855704c52420a89d4",
+    "normalized_content_hash": "sha256:e2f39bf1d4f2ba106ae0d506487ad74372e1bddc24db567fbbe3d92ad8486887"
+  },
+  "provenance": {
+    "source_item_id": "5d2ae784-31bb-45ba-bfb6-fba78b1777a4",
+    "external_id": "https://www.stacksync.com/blog/eclinicalworks-data-migration-integration"
+  }
+}

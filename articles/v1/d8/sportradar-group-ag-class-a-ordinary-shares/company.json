@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sportradar-group-ag-class-a-ordinary-shares",
+    "name": "Sportradar Group AG"
+  },
+  "record_count": 20,
+  "first_published_at": "2025-03-19T11:00:14+00:00",
+  "last_published_at": "2026-08-03T11:00:34+00:00",
+  "partitions": [
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d8/sportradar-group-ag-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 27195,
+        "sha256": "sha256:9a80df2fce7a5eff422971ff8710c5ab4a8c8ace5ea70b606193a315e10588bf",
+        "newest_at": "2026-08-03T11:00:34+00:00",
+        "oldest_at": "2025-03-19T11:00:14+00:00"
+      }
+    ]
+  }
+}

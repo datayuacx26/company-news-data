@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2fc4a510be1df97a0969b082a127ee4f89029ff30958b573f9723002e91ad603",
+  "company": {
+    "key": "barclays-plc-common-stock",
+    "name": "Barclays PLC"
+  },
+  "source": {
+    "id": "barclays-plc-common-stock-news-import-cc227fc76b1f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cards.barclaycardus.com/banking/about-us/newsroom/barclays-completes-acquisition-of-best-egg/",
+    "canonical": "https://cards.barclaycardus.com/banking/about-us/newsroom/barclays-completes-acquisition-of-best-egg/"
+  },
+  "title": "Barclays Completes Acquisition of Best Egg",
+  "summary": "",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T18:53:14.095706+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T19:45:33.132603+00:00",
+  "paths": {
+    "article": "articles/v1/db/barclays-plc-common-stock/2026/05/2f/2fc4a510be1df97a0969b082a127ee4f89029ff30958b573f9723002e91ad603/article.md",
+    "record": "articles/v1/db/barclays-plc-common-stock/2026/05/2f/2fc4a510be1df97a0969b082a127ee4f89029ff30958b573f9723002e91ad603/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6201,
+    "sha256": "sha256:ae0106df437e237baacb535d9bc6839d282a79c7e7610201b165d4161727d54b",
+    "normalized_content_hash": "sha256:306e9f32df13e0221423f1aefd25f136aa4b54f5457e9c0d47357838b6a4eef9"
+  },
+  "provenance": {
+    "source_item_id": "b6947f77-0a97-413d-866a-67b5bca72e3f",
+    "external_id": "https://cards.barclaycardus.com/banking/about-us/newsroom/barclays-completes-acquisition-of-best-egg/"
+  }
+}

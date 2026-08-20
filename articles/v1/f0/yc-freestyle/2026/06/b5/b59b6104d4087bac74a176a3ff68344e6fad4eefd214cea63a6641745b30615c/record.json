@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b59b6104d4087bac74a176a3ff68344e6fad4eefd214cea63a6641745b30615c",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/product/aws-lambda-alternative-ai-agents",
+    "canonical": "https://www.freestyle.sh/blog/product/aws-lambda-alternative-ai-agents"
+  },
+  "title": "AWS Lambda Alternative for Long-Running AI Agents",
+  "summary": "AWS Lambda is excellent for event-driven functions, but long-running AI agents need a real Linux VM with persistent processes, files, terminals, ports, and forkable state.",
+  "published_at": "2026-06-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:31:13.198983+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:55.397241+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/b5/b59b6104d4087bac74a176a3ff68344e6fad4eefd214cea63a6641745b30615c/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/b5/b59b6104d4087bac74a176a3ff68344e6fad4eefd214cea63a6641745b30615c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10741,
+    "sha256": "sha256:a0ad8ec55f7e358bd942101d742f6812a052a8a590b3c4df5de22d34d90ff119",
+    "normalized_content_hash": "sha256:a7c1762ad8c88ff6a5db4b447c19666c117d63d39bc8e3d20c65c5ba72d4765b"
+  },
+  "provenance": {
+    "source_item_id": "df703cf0-4dfd-490c-8ba9-1fe7041e0c67",
+    "external_id": "https://www.freestyle.sh/blog/product/aws-lambda-alternative-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6eb9de2f265a6563030698cc28512d6b0fbd9e0942e4a8546be53615f969dae1",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/red-teaming-voice-agents-prompt-injection",
+    "canonical": "https://roark.ai/blog/red-teaming-voice-agents-prompt-injection"
+  },
+  "title": "Red-teaming voice agents: testing for prompt injection over the phone",
+  "summary": "Voice agents inherit every prompt injection risk of text LLMs plus a few of their own. Here is how to red-team them systematically over real phone calls.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T10:24:15.436856+00:00",
+  "fetched_at": "2026-07-30T10:24:16.166561+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/07/6e/6eb9de2f265a6563030698cc28512d6b0fbd9e0942e4a8546be53615f969dae1/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/07/6e/6eb9de2f265a6563030698cc28512d6b0fbd9e0942e4a8546be53615f969dae1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13065,
+    "sha256": "sha256:c081da9212be6cebc1fe65bbaa12770e1a43f876203569e4193e3b986ac61de7",
+    "normalized_content_hash": "sha256:78d4ec5e1c83ee5d8af29068f3d2bb09209a7bb74230ecc7bf432fa51863b881"
+  },
+  "provenance": {
+    "source_item_id": "03557b54-c5d8-43af-9c09-39b48cda360a",
+    "external_id": "https://roark.ai/blog/red-teaming-voice-agents-prompt-injection"
+  }
+}

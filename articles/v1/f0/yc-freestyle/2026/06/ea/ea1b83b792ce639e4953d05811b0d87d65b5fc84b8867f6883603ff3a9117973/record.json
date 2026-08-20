@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea1b83b792ce639e4953d05811b0d87d65b5fc84b8867f6883603ff3a9117973",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/opinion/ai-agent-storage-three-layers",
+    "canonical": "https://www.freestyle.sh/blog/opinion/ai-agent-storage-three-layers"
+  },
+  "title": "AI Agent Storage Needs Three Layers, Not One Filesystem",
+  "summary": "AI agent storage debates collapse files, memory, artifacts, and runtime state into one overloaded filesystem. The better architecture separates durable records, active workspaces, and evidence.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:54:28.432730+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/ea/ea1b83b792ce639e4953d05811b0d87d65b5fc84b8867f6883603ff3a9117973/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/ea/ea1b83b792ce639e4953d05811b0d87d65b5fc84b8867f6883603ff3a9117973/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11313,
+    "sha256": "sha256:bf932cea75047a182fbf73df914b6f91f0472519656a2fa4c66107390991b5a1",
+    "normalized_content_hash": "sha256:a02be36a4b7dc643e101bb11d5a1f4f9066c13125621d03514c442bb1a63757f"
+  },
+  "provenance": {
+    "source_item_id": "50250c3d-1b82-469f-9aa2-0ea321a24e63",
+    "external_id": "https://www.freestyle.sh/blog/opinion/ai-agent-storage-three-layers"
+  }
+}

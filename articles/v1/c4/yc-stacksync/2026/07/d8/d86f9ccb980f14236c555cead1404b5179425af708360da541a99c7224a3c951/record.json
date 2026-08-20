@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d86f9ccb980f14236c555cead1404b5179425af708360da541a99c7224a3c951",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/enterprise-ipaas-aurora-postgresql",
+    "canonical": "https://www.stacksync.com/blog/enterprise-ipaas-aurora-postgresql"
+  },
+  "title": "How to Choose an iPaaS for Aurora PostgreSQL",
+  "summary": "The best iPaaS for Aurora PostgreSQL handles the cluster: writer-only replication slots, failover DNS, Blue/Green slot drops and connection limits.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-29T17:32:43.435424+00:00",
+  "fetched_at": "2026-07-29T17:32:44.790239+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/d8/d86f9ccb980f14236c555cead1404b5179425af708360da541a99c7224a3c951/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/d8/d86f9ccb980f14236c555cead1404b5179425af708360da541a99c7224a3c951/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18860,
+    "sha256": "sha256:a58967124a8403241defd7cb6d60eb128c6bab62002c7c15e0d343241b50f252",
+    "normalized_content_hash": "sha256:41f2b170f96deba83ca49505ef7ff034c78d57592603b3156bd96c02a5f18de8"
+  },
+  "provenance": {
+    "source_item_id": "57edb3c1-12fd-425e-852d-ef2e9bbda50a",
+    "external_id": "https://www.stacksync.com/blog/enterprise-ipaas-aurora-postgresql"
+  }
+}

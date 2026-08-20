@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b23ca03c3d62a8aa32112edda6233c4d10c28e5e66e71ee699acb06da9264002",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/webmin-2-620-and-usermin-2-520-released/136400",
+    "canonical": "https://forum.virtualmin.com/t/webmin-2-620-and-usermin-2-520-released/136400"
+  },
+  "title": "Webmin 2.620 and Usermin 2.520 released",
+  "summary": "Howdy all, We’ve rolled out Webmin 2.620 and Usermin 2.520 to all Virtualmin repos. Changes since 2.610 and 2.510: Add ability to use correct driver depending on the database in MySQL/MariaDB module Add improvements to BIND DNS module for better key management Add support for Ubuntu 26.04 development preview Add a config option to increase the RPC timeout Add support for EC SSL certificate and key in the ProFTPd module Add support for using gpart in FreeBSD disk management module Add support...",
+  "published_at": "2026-01-26T11:48:14+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:54:41.720106+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/01/b2/b23ca03c3d62a8aa32112edda6233c4d10c28e5e66e71ee699acb06da9264002/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/01/b2/b23ca03c3d62a8aa32112edda6233c4d10c28e5e66e71ee699acb06da9264002/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2105,
+    "sha256": "sha256:ae1019748c9395cf68a50fcaa0dafd4da17c59b1716feeca4ba00d946e3ca90e",
+    "normalized_content_hash": "sha256:800dec05ad1cc001ac3c0f45582d40ff1f4aae90b995048fd9e5a6202e64a144"
+  },
+  "provenance": {
+    "source_item_id": "f4ee5587-0279-4dd5-84bf-2e6b2b019db1",
+    "external_id": "forum.virtualmin.com-topic-136400"
+  }
+}

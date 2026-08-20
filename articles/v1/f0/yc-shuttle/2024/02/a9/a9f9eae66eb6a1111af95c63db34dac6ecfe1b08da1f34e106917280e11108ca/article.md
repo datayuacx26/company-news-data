@@ -1,0 +1,623 @@
+---
+schema_version: "1.0.0"
+document_id: "a9f9eae66eb6a1111af95c63db34dac6ecfe1b08da1f34e106917280e11108ca"
+company_key: "yc-shuttle"
+company: "Shuttle"
+source_id: "yc-shuttle-rss-52efc69d7cac"
+canonical_url: "https://www.shuttle.dev/blog/2024/02/13/clerk-in-rust"
+published_at: "2024-02-13T17:00:01+00:00"
+first_seen_at: "2026-07-20T23:24:10.103156+00:00"
+fetched_at: "2026-07-28T22:26:15.382818+00:00"
+content_hash: "sha256:012a73dde87deff86dab6f9d3222453961fd19db0e1f90b99499fc2cb3b420b2"
+---
+
+# Using Clerk authentication in Rust
+
+This two-part article covers how we can build an Issue tracking application using React for the frontend, and[Shuttle](https://www.shuttle.dev/) and[Actix Web](https://actix.rs/) for the backend. It also uses[Clerk](https://clerk.com/) for authentication in the frontend and protecting the Rest APIs in the backend.
+
+
+This article covers the Rust backend, and the[second part](https://www.shuttle.dev/blog/2024/02/13/clerk-in-react) covers the React frontend.
+
+
+Here is the[source code](https://github.com/sourabpramanik/issue-tracker) of the complete project if you want to follow along.
+
+
+To start this project we will use the Clerk template from Shuttle's[example repository](https://github.com/shuttle-hq/shuttle-examples) that has a barebone setup of Shuttle, Actix Web, Vite (React), and Clerk.
+
+
+The backend uses the[clerk-rs](https://github.com/DarrenBaldwin07/clerk-rs) community crate to create a connection between the backend application and Clerk project. This crate has many different APIs for different use cases. In the template there is an endpoint to fetch all user records using the` clerk-rs` user API. We can easily verify a user's identity when trying to access protected routes using the` ClerkMiddleware` from the crate.
+
+
+We will use Postgres for the database which will run in a docker container so make sure you also have docker[installed](https://docs.docker.com/engine/install/) in your local machine.
+
+
+## Let's get started #
+
+
+First, we need to clone the template from the Shuttle's example repository using Shuttle CLI:
+
+
+```text
+cargo   shuttle init  --from   shuttle-hq/shuttle-examples  --subfolder   actix-web/clerk
+
+
+```
+
+
+You will get a few prompts to create a new project using this template. Make sure you provide a unique name because when you deploy this project on Shuttle this project name will become the sub-domain. And once a name is taken it cannot be used for any other projects
+
+
+After that,` cd` into the project directory.
+
+
+## Setup a new application in Clerk #
+
+
+Head on to Clerk's official website, sign in or sign up if you don't have an account, and create a new project in the dashboard. Give a name to your project and select the providers using which users can sign-in or sign-up in your application.
+
+
+After that, you will get a **Publishable Key** and a **Secret key** which we will use later in our application.
+
+
+## Build the backend #
+
+
+Now we can start updating the existing backend code to write and build the Rest APIs for our application.
+
+
+` cd` into the backend, and rename the` Secrets.example.toml` file to` Secrets.toml` :
+
+
+```text
+cd   backend
+mv   Secrets.example.toml Secrets.toml
+
+
+```
+
+
+Copy the **Secret key** from the Clerk's dashboard and add it to the` Secrets.toml` file:
+
+
+```text
+CLERK_SECRET_KEY  =    "sk_test_vsWrxxxxxxxxxxxxxxxxxxxxxxxxxtfTr"
+
+
+```
+
+
+*⚠️ Do not commit this file, so make sure you have added this file in the` .gitignore` .*
+
+
+Now, we need to write a new migration in a` schema.sql` file which will create a new` issues` table in our Postgres database.
+
+
+Create` schema.sql` and add the schema:
+
+
+```text
+CREATE    TABLE    IF    NOT    EXISTS   issues  (
+id  SERIAL    PRIMARY    KEY  ,
+title  VARCHAR  (  100  )    NOT    NULL  ,
+description  VARCHAR  (  300  )    NOT    NULL  ,
+status    VARCHAR  (  10  )    NOT    NULL  ,
+label  VARCHAR  (  10  )    NOT    NULL  ,
+author  VARCHAR    NOT    NULL
+)  ;
+
+
+```
+
+
+We can migrate this schema using **[SQLX](https://docs.rs/sqlx/latest/sqlx/)** . So add the SQLX crate to your dependency:
+
+
+```text
+cargo    add   sqlx
+
+
+```
+
+
+To connect to a shared Postgres database managed by Shuttle you need to add the crate with features specific to Postgres and SQLX to your dependencies:
+
+
+```text
+cargo    add   shuttle-shared-db  -F   shuttle-shared-db/postgres  -F   shuttle-shared-db/sqlx
+
+
+```
+
+
+### Connect to the shared Postgres DB #
+
+
+Let's edit the` main.rs` file.
+
+
+First, we need to bring SQLX into the scope:
+
+
+```text
+use    sqlx ::   {  Executor  ,    FromRow  ,    PgPool  }  ;
+
+
+```
+
+
+Add the pool field to the` AppState` struct to share the Postgres pool instance in our whole application:
+
+
+```text
+struct    AppState    {
+client :    Clerk  ,
+pool :    PgPool  ,
+}
+
+
+```
+
+
+Next, pass the` #\[shuttle_shared_db::Postgres\] pool: PgPool` argument to your` shuttle_runtime::main` function and connect to Postgres using SQLX connect pool` PgPool` .
+
+
+```text
+#[shuttle_runtime::main]
+async    fn    actix_web  (
+#[shuttle_secrets::Secrets]   secrets :    SecretStore  ,
+#[shuttle_shared_db::Postgres]   pool :    PgPool  ,
+)    ->    ShuttleActixWeb  <  impl    FnOnce  (  &  mut    ServiceConfig  )    +    Send    +    Clone    +    'static  >    {
+// DB Pool
+pool .  execute  (  include_str!  (  "../schema.sql"  )  )
+.  await
+.  map_err  (  CustomError  ::  new )  ?  ;
+
+
+// Clerk integration
+let   clerk_secret_key  =   secrets
+.  get  (  "CLERK_SECRET_KEY"  )
+.  expect  (  "Clerk Secret key is not set"  )  ;
+let   clerk_config  =    ClerkConfiguration  ::  new  (  None  ,    None  ,    Some  (  clerk_secret_key )  ,    None  )  ;
+let   client  =    Clerk  ::  new  (  clerk_config .  clone  (  )  )  ;
+
+
+// Create new app state
+let   state  =    web ::   Data  ::  new  (  AppState    {   client ,   pool  }  )  ;
+
+
+let   app_config  =    move    |  cfg :    &  mut    ServiceConfig  |     {
+cfg .  service  (
+web ::   scope  (  "/api"  )
+.  wrap  (  ClerkMiddleware  ::  new  (  clerk_config ,    None  ,    true  )  )
+.  service  (  get_user )
+)
+.  service  (  actix_files ::   Files  ::  new  (  "/"  ,    "./frontend/dist"  )  .  index_file  (  "index.html"  )  )
+.  app_data  (  state )  ;
+}  ;
+
+
+Ok  (  app_config .  into  (  )  )
+}
+
+
+```
+
+
+The above function call will create the Postgres pool, and then SQLX will migrate the schema we have created before. The Clerk configuration is already defined in the template for us which uses the` CLERK_SECRET_KEY` we got from the Clerk project we have created earlier.
+
+
+The Clerk middleware protects all the paths under` /api` , so that only signed in users can access them.
+
+
+Try running the application using Shuttle CLI:
+
+
+```text
+cargo   shuttle run
+
+
+```
+
+
+*🗨️ Make sure docker is running in your local machine because after you run the above command Shuttle will pull the Postgres docker image and start a docker container.*
+
+
+The backend application can now query the Postgres database using SQLX. Let's create some **CRUD** endpoints for our application.
+
+
+### Issue structs #
+
+
+To define the fields of an issue we will create an` Issue` struct that is used to define the response and request payload of our **Read, Update,** and **Delete** requests, and a` NewIssue` struct for the **Create** requests:
+
+
+```text
+#[derive(Serialize, Deserialize, FromRow)]
+struct    Issue    {
+id :    i32  ,
+title :    String  ,
+description :    String  ,
+status :    String  ,
+label :    String  ,
+author :    String  ,
+}
+
+
+#[derive(Serialize, Deserialize, FromRow)]
+struct    NewIssue    {
+title :    String  ,
+description :    String  ,
+status :    String  ,
+label :    String  ,
+author :    String  ,
+}
+
+
+```
+
+
+#### Loved by developers
+
+
+Join developers building with Shuttle
+
+
+[Join them](https://console.shuttle.dev/)
+
+
+Deployed my second service with Shuttle and I really like it! It's fast and integrates well with cargo, so I can focus on the Rust code instead of the deployment. Well done!
+
+
+Matthias Endler
+
+
+@matthiasendler
+
+
+Rust Consultant @ Corrode
+
+
+[Join them](https://console.shuttle.dev/)
+
+
+### Extract the Clerk JWT claim from a request #
+
+
+In some of the endpoints we need to check for the user's authorization. For that we will look for a user id which can be found in the JWT claim` sub` property:
+
+
+```text
+async    fn    get_jwt_claim  (  service_request :    &  ServiceRequest  ,   clerk_client :    &  Clerk  )    ->    Option  <  ClerkJwt  >    {
+let   claim  =    clerk_authorize  (  service_request ,   clerk_client ,    true  )  .  await  ;
+
+
+match   claim  {
+Ok  (  value )    =>    Some  (  value .1  )  ,
+Err  (  _ )    =>    None  ,
+}
+}
+
+
+```
+
+
+### CRUD endpoints #
+
+
+Add the create issue endpoint which can query our database to insert a new issue into the table like this:
+
+
+```text
+#[post( "/issue"  )]
+async    fn    add_issue  (  payload :    web ::   Json  <  NewIssue  >  ,   state :    web ::   Data  <  AppState  >  )    ->    impl    Responder    {
+let   create_query :    Result  <  Issue  ,    sqlx ::   Error  >    =    sqlx ::   query_as  (
+"INSERT INTO issues (title, description, status, label, author) VALUES ($1, $2, $3, $4, $5) RETURNING *"
+)
+.  bind  (  &  payload .  title )
+.  bind  (  &  payload .  description )
+.  bind  (  &  payload .  status )
+.  bind  (  &  payload .  label )
+.  bind  (  &  payload .  author )
+.  fetch_one  (  &  state .  pool )
+.  await  ;
+
+
+if   create_query .  is_err  (  )    {
+return    HttpResponse  ::  InternalServerError  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :  "FAILED"  ,
+"message"  :  "Failed to create an issue"
+}  )  )  ;
+}
+
+
+HttpResponse  ::  Ok  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :  "SUCCESS"  ,
+"message"  :  "Created the issue successfully"
+}  )  )
+}
+
+
+```
+
+
+This endpoint will retrieve all the issues from the database:
+
+
+```text
+#[get( "/issues"  )]
+async    fn    get_issues  (  state :    web ::   Data  <  AppState  >  )    ->    impl    Responder    {
+let   query :    Result  <  Vec  <  Issue  >  ,    sqlx ::   Error  >    =    sqlx ::   query_as  (  "SELECT * FROM issues"  )
+.  fetch_all  (  &  state .  pool )
+.  await  ;
+
+
+let   issues  =    match   query  {
+Ok  (  value )    =>   value ,
+Err  (  e )    =>    {
+"status"  :    "FAILED"  ,
+"message"  :   e .  to_string  (  )  ,
+}  )  )  ;
+}
+}  ;
+
+
+HttpResponse  ::  Ok  (  )  .  json  (  issues )
+}
+
+
+```
+
+
+This endpoint function will extract the` issue_id` slug from the path using the[Path extractor](https://actix.rs/docs/extractors) from Actix Web and query our database where the issue` id` is equal to the` issue_id` slug of the path.
+
+
+```text
+#[get( "/issue/{issue_id}"  )]
+async    fn    get_issue  (  state :    web ::   Data  <  AppState  >  ,   path :    web ::   Path  <  i32  >  )    ->    impl    Responder    {
+let   issue_id  =   path .  into_inner  (  )  ;
+
+
+let   query :    Result  <  Issue  ,    sqlx ::   Error  >    =    sqlx ::   query_as  (  "SELECT * FROM issues WHERE id=$1"  )
+.  bind  (  issue_id )
+.  fetch_one  (  &  state .  pool )
+.  await  ;
+
+
+let   issue  =    match   query  {
+Ok  (  value )    =>   value ,
+Err  (  _ )    =>    {
+"status"  :  "FAILED"  ,
+"message"  :  "Something went wrong."
+}  )  )  ;
+}
+}  ;
+
+
+HttpResponse  ::  Ok  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :    "SUCCESS"  ,
+"data"  :   issue ,
+}  )  )
+}
+
+
+```
+
+
+To update an issue by id we will use slug from the path which will contain the` issue_id` to query our database and update the record if it exists in the database. Before updating the record we can query if the record exists in the database or not:
+
+
+```text
+#[patch( "/issue/{issue_id}"  )]
+async    fn    update_issue  (
+payload :    web ::   Json  <  NewIssue  >  ,
+state :    web ::   Data  <  AppState  >  ,
+path :    web ::   Path  <  i32  >  ,
+req :    HttpRequest  ,
+)    ->    impl    Responder    {
+let   issue_id  =   path .  into_inner  (  )  ;
+
+
+let   service_req  =    ServiceRequest  ::  from_request  (  req )  ;
+
+
+let   claim  =    get_jwt_claim  (  &  service_req ,    &  state .  client )  .  await  ;
+
+
+if   claim .  is_none  (  )    {
+return    HttpResponse  ::  Forbidden  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :  "FAILED"  ,
+"message"  :  "Not authorized to update the issue."
+}  )  )  ;
+}
+
+
+.  bind  (  issue_id )
+.  fetch_one  (  &  state .  pool )
+.  await  ;
+
+
+match   query  {
+Ok  (  issue )    =>    {
+if   issue .  author  !=   claim .  unwrap  (  )  .  sub  {
+return    HttpResponse  ::  Unauthorized  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :  "FAILED"  ,
+"message"  :  "Not authorized to update the issue."
+}  )  )  ;
+}
+}
+Err  (  _ )    =>    {
+return    HttpResponse  ::  NotFound  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :  "FAILED"  ,
+"message"  :  "Issue does not exist."
+}  )  )  ;
+}
+}
+
+
+let   update_query :    Result  <  Issue  ,    sqlx ::   Error  >    =    sqlx ::   query_as  (
+"UPDATE issues SET title=$1, description=$2, status=$3, label=$4 WHERE id=$5"  ,
+)
+.  bind  (  &  payload .  title )
+.  bind  (  &  payload .  description )
+.  bind  (  &  payload .  status )
+.  bind  (  &  payload .  label )
+.  bind  (  issue_id )
+.  fetch_one  (  &  state .  pool )
+.  await  ;
+
+
+if   update_query .  is_err  (  )    {
+"status"  :  "FAILED"  ,
+"message"  :  "Failed to update the issue"
+}  )  )  ;
+}
+
+
+HttpResponse  ::  Ok  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :    "SUCCESS"  ,
+"message"  :  "Updated successfully"
+}  )  )
+}
+
+
+```
+
+
+This endpoint is for deleting the issue by` id` from the database:
+
+
+```text
+#[delete( "/issue/{issue_id}"  )]
+async    fn    delete_issue  (
+state :    web ::   Data  <  AppState  >  ,
+path :    web ::   Path  <  i32  >  ,
+req :    HttpRequest  ,
+)    ->    impl    Responder    {
+let   service_req  =    ServiceRequest  ::  from_request  (  req )  ;
+
+
+if   claim .  is_none  (  )    {
+"status"  :  "FAILED"  ,
+"message"  :  "Not authorized to delete the issue."
+}  )  )  ;
+}
+
+
+let   issue_id  =   path .  into_inner  (  )  ;
+
+
+.  bind  (  issue_id )
+.  fetch_one  (  &  state .  pool )
+.  await  ;
+
+
+match   query  {
+Ok  (  issue )    =>    {
+if   issue .  author  !=   claim .  unwrap  (  )  .  sub  {
+"status"  :  "FAILED"  ,
+"message"  :  "No authorized to delete the issue."
+}  )  )  ;
+}
+}
+Err  (  _ )    =>    {
+"status"  :  "FAILED"  ,
+"message"  :  "Issue does not exist."
+}  )  )  ;
+}
+}
+
+
+let   delete_query :    Result  <  Issue  ,    sqlx ::   Error  >    =    sqlx ::   query_as  (  "DELETE FROM issues WHERE id=$1"  )
+.  bind  (  issue_id )
+.  fetch_one  (  &  state .  pool )
+.  await  ;
+
+
+if   delete_query .  is_err  (  )    {
+"status"  :  "FAILED"  ,
+"message"  :  "Failed to delete the issue"
+}  )  )  ;
+}
+
+
+HttpResponse  ::  Ok  (  )  .  json  (  serde_json ::   json!  (  {
+"status"  :    "SUCCESS"  ,
+"message"  :  "Deleted successfully"
+}  )  )
+}
+
+
+```
+
+
+### User endpoints #
+
+
+The template provides a` get_user` handler function and a` UserModel` struct. We will edit the handler function to use the` get_jwt_claim` function:
+
+
+```text
+#[get( "/user/me"  )]
+async    fn    get_user  (  state :    web ::   Data  <  AppState  >  ,   req :    HttpRequest  )    ->    impl    Responder    {
+let   service_req  =    ServiceRequest  ::  from_request  (  req )  ;
+
+
+if   claim .  is_none  (  )    {
+"status"  :  "FAILED"  ,
+"message"  :  "Not authorized to update the issue."
+}  )  )  ;
+}
+
+
+let    Ok  (  user )    =    User  ::  get_user  (  &  state .  client ,    &  claim .  unwrap  (  )  .  sub )  .  await    else    {
+"message"  :    "Unable to retrieve user"  ,
+}  )  )  ;
+}  ;
+
+
+HttpResponse  ::  Ok  (  )  .  json  (  Into  ::  <  UserModel  >  ::  into  (  user )  )
+}
+
+
+```
+
+
+We need one last endpoint which can fetch the user details by their` user_id` . This endpoint will be used to fetch issue author metadata from Clerk:
+
+
+```text
+#[get( "/user/{user_id}"  )]
+async    fn    get_user_by_id  (  state :    web ::   Data  <  AppState  >  ,   path :    web ::   Path  <  String  >  )    ->    impl    Responder    {
+let   user_id  =   path .  into_inner  (  )  ;
+let    Ok  (  user )    =    User  ::  get_user  (  &  state .  client ,    &  user_id )  .  await    else    {
+"status"  :    "FAILED"  ,
+"message"  :    "Unable to retrieve all users"  ,
+}  )  )  ;
+}  ;
+
+
+}
+
+
+```
+
+
+Now, let's add all these endpoints to our` main` function under the` /api` scope which is wrapped by Clerk middleware for protecting our endpoint routes and only allowing authenticated users to access these routes. After adding all the endpoints the` main` function you should have something like[this](https://github.com/sourabpramanik/issue-tracker/blob/main/backend/src/main.rs) .
+
+
+## Building the frontend and deploying #
+
+
+One important thing to notice is that this piece of code
+
+
+```text
+
+
+```
+
+
+is going the serve the static pages of the frontend application located in the` ./frontend/dist` directory whenever we build our **Vite** application, and this final output is optimized for production.
+
+
+Follow along to[part 2](https://www.shuttle.dev/blog/2024/02/13/clerk-in-react) where we build the frontend and deploy.

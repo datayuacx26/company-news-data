@@ -1,0 +1,228 @@
+---
+schema_version: "1.0.0"
+document_id: "567f65b911198cb21e5f32bf220d679499d8187978a47def199ac65ff0fdd962"
+company_key: "yc-release"
+company: "Release"
+source_id: "yc-release-news-import-be48e1d74beb"
+canonical_url: "https://release.com/blog/replace-cms-with-ai-v0-cursor-deployment"
+published_at: null
+first_seen_at: "2026-07-24T10:54:59.054180+00:00"
+fetched_at: "2026-07-28T21:39:52.838477+00:00"
+content_hash: "sha256:5987a68a8c862b7f4c0cd924f70c544bd036fd434f971967da9c1014e902a9d8"
+---
+
+# The Future of Marketing Sites: Why We Left Webflow for v0, Cursor and Release
+
+# RIP CMS: How Our Migration from Webflow Proved AI and Git Workflows Are Killing the Old Model
+
+
+Hey everyone,
+
+
+I'm Tommy, founder of Release and I'm going to share a bit of my AI journey and a project I've been working on. As I started to build out our AI strategy and story at Release, I saw the CEO of Vercel talking about[v0.dev](https://v0.dev/) on X. I knew I had to get a v0 account and explore its potential. I originally built all of the frontend code at Release in React and thought playing around with something familiar to me would be good for me to start getting acquainted with what was possible. I quickly realized a new way of building was upon us and wanted to see how I could apply this to what we do at Release.
+
+
+This image shows the before and after of the design, but what it doesn't show is how fast we can how ship changes to our marketing site, without design, without a frontend engineer... all powered by v0, Cursor and Release.
+
+
+Playing with v0 was eye-opening. It unlocked my ability, as the CEO, to take the reins of our marketing site and get our ideas out to the world faster. (Which happens to be our mission at Release). For years, our marketing site was built on Webflow—it looked great, but it was slowing us down and I never really loved how we had to work with it. We had to have a designer come up with designs, someone familiar with Webflow had to implement the designs and, in all, it took us about 2-3 weeks to make even the most straightforward changes to it. I wasn't originally looking to replace our site; I just wanted to see what was happening in the world of AI. But I quickly realized there was an opportunity to move faster and release my ideas to the world faster.
+
+
+v0 wasn't perfect—it had limitations when it came to building a real, production-ready site. I decided to marry by prototype components with our deployment capabilities at Release. With the help of Griff, my co-founder, we created our repo ([release-next-base](https://github.com/releasehub-com/release-next-base) ) to serve as a base image, so I could bring my designs from v0 into a working app that was easy to deploy to Release.
+
+
+Even then, it was cumbersome. v0 had no awareness of my repo structure, how my files were laid out, or how my content should live in production. Enter Cursor—it solved that problem by seamlessly bridging the gap between v0's designs and a fully functioning, deployable site. So with v0, Cursor and Release all in play, our migration off of Webflow began. **RIP CMS.**
+
+
+---
+
+
+## 1. Why We Moved Off Webflow
+
+
+After five years on Webflow, I realized our process was more of a bottleneck than a benefit:
+
+
+- **Slow Iteration Cycles:** Every change involved a lengthy back-and-forth with our design firm—sometimes taking weeks or even months.
+- **Limited A/B Testing:** The rigidity of Webflow made it nearly impossible to quickly test new landing page messages.
+- **Platform Dependency:** We were locked into an ecosystem where every update required specialized know-how.
+- **The AI Advantage:** Tools like **v0.dev and Cursor and Release** showed me that automation and Git-based workflows could not only accelerate our process but also put me in full control. The traditional CMS model just couldn't keep up. **RIP CMS.**
+
+
+---
+
+
+## 2. The Migration Process: From AI-Generated Designs to Production
+
+
+### Step 1: Generating the Initial Design with v0.dev
+
+
+My journey began with v0.dev. Intrigued by what I had seen online, I fed v0 a simple prompt:
+
+
+Build a landing page for Release.com out of this description:
+
+
+Release.com provides a platform called Environments as a Service, designed to streamline the development, testing, and deployment of software by offering instant, isolated, and production-like environments. These environments can be created on demand, allowing teams to build, test, and release software faster without the complexity of managing infrastructure manually.
+
+
+The result was a basic, functional page—a fitting homage to the CMS that was about to be laid to rest.
+
+
+### Step 2: Refining and Expanding with Cursor
+
+
+I then imported the v0.dev output into Cursor. I started in **Composer Mode** to manually guide the changes. As I grew more comfortable, I switched to **Agent Mode** , which automated many tasks, including:
+
+
+- Extracting content from our old Webflow pages.
+- Refactoring components for a fresh, modern look.
+- Generating scripts to migrate assets and content.
+
+
+**A Quick Word on Agent Mode:**
+
+
+It was a huge time-saver, but not without its quirks. Sometimes, Agent Mode would:
+
+
+- **Refactor entire sections unexpectedly**
+- **Duplicate code in multiple areas**
+- **Rewrite already migrated content**
+
+
+I often had to revert to earlier file versions. Despite these challenges, the process reinforced my belief that AI-powered tools can render the old CMS model obsolete. **RIP CMS.**
+
+
+### Building Landing Pages at Scale with AI
+
+
+One of the most powerful aspects of this new workflow is how quickly we can build and iterate on landing pages. Using v0 and Cursor together, we've created a suite of specialized landing pages that would have taken weeks or months with our old Webflow process. Here's how we do it:
+
+
+1. **Start with v0 for the Base Design:** I feed v0 a description of what the landing page should accomplish, and it generates a clean, modern design that follows our brand guidelines. For example, our ephemeral environments page started with this prompt:
+
+
+> Build a landing page that explains ephemeral environments - temporary, isolated environments for development, testing, and demos that help teams ship better software faster. Include sections about automation, data replication, and sharing capabilities.
+
+
+2. **Refine with Cursor:** Cursor helps us take that initial design and rapidly integrate it into our codebase. It understands our component structure and can:
+
+
+- Suggest improvements to the layout
+- Add proper SEO metadata
+- Ensure accessibility compliance
+- Integrate with our analytics
+
+
+3. **Modular Components:** We've built a library of reusable components that make new pages consistent and quick to assemble:
+
+
+- SEO-optimized layouts
+- Hero sections
+- Feature grids
+- Testimonial blocks
+- Call-to-action sections
+
+
+Here are some examples of landing pages we've built using this approach:
+
+
+- [Ephemeral Environments](https://release.com/ephemeral-environments) - Our comprehensive guide to temporary environments
+- [Platform as a Service](https://release.com/platform-as-a-service) - How Release compares to traditional PaaS
+- [Cloud Development](https://release.com/cloud-development-environments) - Our take on modern development environments
+- [Kubernetes Management](https://release.com/kubernetes-management) - Simplifying container orchestration
+
+
+What used to take weeks in Webflow now takes hours. More importantly, these pages aren't just faster to build—they're easier to maintain, test, and improve. Every change goes through our Git workflow, can be previewed in an ephemeral environment, and gets thoroughly tested before deployment.
+
+
+### Step 3: Migrating Blog Posts, Legal Pages, Case Studies & More
+
+
+Migrating our CMS-driven content was another eye-opener. **Not just our blog, but everything on our site—legal pages, partner content, and case studies—now follows the same paradigm.**
+
+
+- **Exporting Content:** I exported all our structured content from Webflow as a CSV.
+- **Converting to MDX:** Using Cursor, I converted each post and page into MDX (Markdown with React components). Suddenly, adding content became as easy as committing a file.
+- **Asset Automation:** Cursor pulled all images and organized them into a` /blog-images` directory.
+- **Automated Testing:** I added unit tests to ensure formatting, SEO metadata, and OpenGraph compliance.
+
+
+Now, **anyone can contribute new content—whether it's a case study, a legal update, or a partner page—by simply adding an MDX file to the repo.** You don't even need a local setup—just use GitHub's UI, which has excellent Markdown support.
+
+
+### Step 4: Empowering the Team with a Git-Based Content Workflow
+
+
+The real magic happened when we established a clear contribution process. Now, any Release employee can add content by following our straightforward guidelines:
+
+
+1. **Simple File Creation:** Create a new` .mdx` file in` app/blog/posts/` with your content.
+2. **Automated Processing:** Our custom tooling handles the heavy lifting:
+
+
+- Automatically generates SEO-optimized frontmatter
+- Creates summaries and social media excerpts
+- Calculates reading time
+- Suggests relevant related posts
+- Validates spelling and technical terms
+
+
+3. **Built-in Quality Checks:** Every contribution is automatically validated for:
+
+
+- Content quality and minimum word count
+- Proper image dimensions and optimization
+- Required metadata and frontmatter
+- Link validation and UTM parameters
+
+
+The best part? You don't need to be a developer. Our process is designed so that anyone comfortable with Markdown can contribute. Even if you're new to it, GitHub's UI makes it easy to write and preview your content.
+
+
+---
+
+
+## 3. The Role of Release: Instant Previews & Deployment
+
+
+A cornerstone of our new workflow is how we deploy changes using[Release](https://release.com/) . Here's what makes it awesome:
+
+
+- **Ephemeral Environments on Every Branch:** Every time a contributor pushes content, Release automatically spins up an ephemeral environment.
+- **Automated Testing with Playwright:** End-to-end tests catch UI, SEO, and OpenGraph issues before anything hits production.
+- **Live Metadata Validation:** Every update can be reviewed in a real environment before merging.
+- **Seamless Production Updates:** Once merged, changes go live instantly.
+
+
+Now, releasing new content isn't just for engineers—it's for **anyone** with a GitHub account.
+
+
+---
+
+
+## 4. Conclusion: Faster, Smarter, and More Scalable
+
+
+Switching off Webflow has been one of the best moves I've made for Release. By embracing AI tools and a Release centered, Git-based workflow, we:
+
+
+- **Reduced turnaround time from weeks to minutes.**
+- **Enabled non-engineers to contribute content effortlessly.**
+- **Left outdated CMS systems in the dust.**
+
+
+Let's build the future together—one push at a time.
+**RIP CMS.**
+
+
+---
+
+
+## 5. Resources
+
+
+[Release Next Base on GitHub](https://github.com/releasehub-com/release-next-base)
+[Release Signup](https://release.com/signup)

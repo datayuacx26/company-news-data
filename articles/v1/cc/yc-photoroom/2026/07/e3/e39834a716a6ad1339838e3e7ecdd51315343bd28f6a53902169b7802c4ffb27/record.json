@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e39834a716a6ad1339838e3e7ecdd51315343bd28f6a53902169b7802c4ffb27",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/the-power-of-exposure-events-amplitude",
+    "canonical": "https://www.photoroom.com/inside-photoroom/the-power-of-exposure-events-amplitude"
+  },
+  "title": "Never underestimate the power of exposure events — in the context of sequential testing",
+  "summary": "Exposure events define the entry point of an experiment, yet they are often treated as an implementation detail. This article explores why exposure plays a central role in sequential testing, how different exposure choices affect denominators and bias, and how recent changes in Amplitude allowed us to better align experiment results with our product goals.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:15:24.874490+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/07/e3/e39834a716a6ad1339838e3e7ecdd51315343bd28f6a53902169b7802c4ffb27/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/07/e3/e39834a716a6ad1339838e3e7ecdd51315343bd28f6a53902169b7802c4ffb27/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16151,
+    "sha256": "sha256:36f10116899c10d90373070e389a2511899a6584027935077840b0f9a45bae0b",
+    "normalized_content_hash": "sha256:45ea1aff975493c91c0349d325e6ac9af38c79e0287ba6e36660e366d2dd6207"
+  },
+  "provenance": {
+    "source_item_id": "aa705969-7e5e-40fb-a540-ad548249d4da",
+    "external_id": "https://www.photoroom.com/inside-photoroom/the-power-of-exposure-events-amplitude"
+  }
+}

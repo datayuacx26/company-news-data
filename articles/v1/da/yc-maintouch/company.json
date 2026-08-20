@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-maintouch",
+    "name": "maintouch"
+  },
+  "record_count": 34,
+  "first_published_at": "2026-03-15T18:39:20.362+00:00",
+  "last_published_at": "2026-08-16T15:30:54.043+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 21
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/da/yc-maintouch/index/pages/000001.json",
+        "record_count": 34,
+        "byte_count": 34563,
+        "sha256": "sha256:0e0bcee08ae40d8e0b0b6822a3405e6adb3dff4fdb4542069f37911348f1ddec",
+        "newest_at": "2026-08-16T15:30:54.043+00:00",
+        "oldest_at": "2026-03-15T18:39:20.362+00:00"
+      }
+    ]
+  }
+}

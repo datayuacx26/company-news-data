@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "19297da7bb9733de9afb915e0b24360969125165ad4d19d4fc42facb3bba717a",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-heroku-postgres-with-netsuite",
+    "canonical": "https://www.stacksync.com/blog/sync-heroku-postgres-with-netsuite"
+  },
+  "title": "There Is No Native Heroku Postgres to NetSuite Connector. Here Is What Works",
+  "summary": "There is no native Heroku Postgres to NetSuite connector. Here is the working pattern: SuiteTalk REST, externalId upserts, and a watermark each side.",
+  "published_at": "2026-07-23T11:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/19/19297da7bb9733de9afb915e0b24360969125165ad4d19d4fc42facb3bba717a/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/19/19297da7bb9733de9afb915e0b24360969125165ad4d19d4fc42facb3bba717a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17817,
+    "sha256": "sha256:82d55e03511c261187f431971a58471c6457b3f8c8c5f1116a17814ffcf687d2",
+    "normalized_content_hash": "sha256:a3bd25bcae5712bb03a0c6a6e6a7c3f5d2d0b990f8708831a613947b5f4d59bb"
+  },
+  "provenance": {
+    "source_item_id": "7b8e1107-bd71-4990-ab08-2a8036b8a60a",
+    "external_id": "https://www.stacksync.com/blog/sync-heroku-postgres-with-netsuite"
+  }
+}

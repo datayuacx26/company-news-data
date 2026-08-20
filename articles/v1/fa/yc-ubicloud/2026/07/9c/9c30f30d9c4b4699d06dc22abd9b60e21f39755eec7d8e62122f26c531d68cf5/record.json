@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c30f30d9c4b4699d06dc22abd9b60e21f39755eec7d8e62122f26c531d68cf5",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/postgresql-performance-local-vs-network-attached-storage",
+    "canonical": "https://www.ubicloud.com/blog/postgresql-performance-local-vs-network-attached-storage"
+  },
+  "title": "PostgreSQL Performance: Local vs. Network-Attached Storage",
+  "summary": "Cloud storage was built around the limits of old hardware. With NVMe SSDs being faster, cheaper, and more reliable, it's time to rethink PostgreSQL storage.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/9c/9c30f30d9c4b4699d06dc22abd9b60e21f39755eec7d8e62122f26c531d68cf5/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/9c/9c30f30d9c4b4699d06dc22abd9b60e21f39755eec7d8e62122f26c531d68cf5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8421,
+    "sha256": "sha256:6fa024dafedfd6e85dd6640459dc40d879cf4659471d79f4a47d4ca9d80b0f2a",
+    "normalized_content_hash": "sha256:d7be177dac7cdcd997fc035a53a65a8fdc63ad4470ef46e21e95c9de8ded1fdf"
+  },
+  "provenance": {
+    "source_item_id": "6a0889ab-b13e-42e7-ac0b-33c1f59ed149",
+    "external_id": "https://www.ubicloud.com/blog/postgresql-performance-local-vs-network-attached-storage"
+  }
+}

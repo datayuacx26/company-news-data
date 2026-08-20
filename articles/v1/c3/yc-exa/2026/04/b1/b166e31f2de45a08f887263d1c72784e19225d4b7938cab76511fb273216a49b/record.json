@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b166e31f2de45a08f887263d1c72784e19225d4b7938cab76511fb273216a49b",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/composing-a-search-engine",
+    "canonical": "https://exa.ai/blog/composing-a-search-engine"
+  },
+  "title": "Composing a Search Engine",
+  "summary": "How we built Canon, a search pipeline orchestrator for full control over our search engine as it scales in complexity.",
+  "published_at": "2026-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2026/04/b1/b166e31f2de45a08f887263d1c72784e19225d4b7938cab76511fb273216a49b/article.md",
+    "record": "articles/v1/c3/yc-exa/2026/04/b1/b166e31f2de45a08f887263d1c72784e19225d4b7938cab76511fb273216a49b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13561,
+    "sha256": "sha256:1087a7bd0c9a15b56b0d392983109331085f25a600af610633131065a58dbb74",
+    "normalized_content_hash": "sha256:32c67120c2a9ff4a80b5e6c74b35468c587cb9f30da5090508b0f35355281481"
+  },
+  "provenance": {
+    "source_item_id": "41dad56b-56d2-4cf3-80b0-146902ef7a36",
+    "external_id": "https://exa.ai/blog/composing-a-search-engine"
+  }
+}

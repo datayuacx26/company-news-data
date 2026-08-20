@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4024c11aefd79d5bcdd71441e0f2e4a8bbe1bc8115a1724155abb0b702dc3ffd",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/the-real-world-is-not-a-dropdown-menu",
+    "canonical": "https://www.overshoot.ai/blogs/the-real-world-is-not-a-dropdown-menu"
+  },
+  "title": "The Real World Is Not a Dropdown Menu: Why Fixed-Label Vision Models Break Down",
+  "summary": "Why fixed-label vision models break down in the open world, and how CLIP-style zero-shot learning and modern VLMs change the interface.",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T20:34:11.571376+00:00",
+  "fetched_at": "2026-08-11T20:34:12.740280+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/08/40/4024c11aefd79d5bcdd71441e0f2e4a8bbe1bc8115a1724155abb0b702dc3ffd/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/08/40/4024c11aefd79d5bcdd71441e0f2e4a8bbe1bc8115a1724155abb0b702dc3ffd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9752,
+    "sha256": "sha256:13bb799de1a5e9c946fa256ad982a00b61b2c1812565977f1644088fc6eba816",
+    "normalized_content_hash": "sha256:f5714848bdaa6971a7df08936aea2d2780ad196eb26bf540b79c5c810f1d8dd3"
+  },
+  "provenance": {
+    "source_item_id": "17e73745-ce67-47b6-9297-14a67d9ca99c",
+    "external_id": "https://www.overshoot.ai/blogs/the-real-world-is-not-a-dropdown-menu"
+  }
+}

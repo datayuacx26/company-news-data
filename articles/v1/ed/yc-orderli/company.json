@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-orderli",
+    "name": "Orderli"
+  },
+  "record_count": 15,
+  "first_published_at": "2021-09-14T16:10:00+00:00",
+  "last_published_at": "2023-09-11T11:30:48+00:00",
+  "partitions": [
+    {
+      "partition": "2021-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ed/yc-orderli/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 17856,
+        "sha256": "sha256:90db84338f74b48c6a9d321f338a3cc160585648ff38ac698ffa87538b4f6efe",
+        "newest_at": "2023-09-11T11:30:48+00:00",
+        "oldest_at": "2021-09-14T16:10:00+00:00"
+      }
+    ]
+  }
+}

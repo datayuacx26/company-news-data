@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "987e56c8c5f3d83d856056e58abc3c535193daa44ad5ecd3916edff80acf6149",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/reverse-ml-using-ai-to-write-rules-not-run-them",
+    "canonical": "https://www.skyhook.io/blog/reverse-ml-using-ai-to-write-rules-not-run-them"
+  },
+  "title": "Reverse ML: Using AI to Write Rules, Not Run Them",
+  "summary": "Instead of calling LLMs at runtime, we used AI to generate deterministic rules that execute in milliseconds. The Reverse ML pattern for fast, auditable codebase classification.",
+  "published_at": "2026-02-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T22:22:47.419354+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2026/02/98/987e56c8c5f3d83d856056e58abc3c535193daa44ad5ecd3916edff80acf6149/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2026/02/98/987e56c8c5f3d83d856056e58abc3c535193daa44ad5ecd3916edff80acf6149/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17636,
+    "sha256": "sha256:d44f4ad5a0daadba05692c6f16476095da394054b708f544d3c838caedc50e2c",
+    "normalized_content_hash": "sha256:d6ae1f2d41e0e93e32a48109d49019d0658fcd9e29fef4f434f4decc18317e3b"
+  },
+  "provenance": {
+    "source_item_id": "e4d5d7c8-7ac9-4330-8c03-5d5adaf1516d",
+    "external_id": "https://www.skyhook.io/blog/reverse-ml-using-ai-to-write-rules-not-run-them"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a16d0a2690f7dff7af84ebfa7eabcf6bb2f2e634ad8f7859d6f2f7381d400c75",
+  "company": {
+    "key": "tenable-holdings-inc-common-stock",
+    "name": "Tenable Holdings Inc."
+  },
+  "source": {
+    "id": "tenable-holdings-inc-common-stock-news-import-a6b69c49a265",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tenable.com/blog/testing-claude-mythos-preview-for-code-security-tenable",
+    "canonical": "https://www.tenable.com/blog/testing-claude-mythos-preview-for-code-security-tenable"
+  },
+  "title": "How Claude Mythos Preview is changing code security at Tenable",
+  "summary": "30 days running Claude Mythos Preview against our own code: reproducing exploits, real dollar costs, and why every security team is next.",
+  "published_at": "2026-08-03T10:00:00+00:00",
+  "first_seen_at": "2026-08-03T10:50:54.720546+00:00",
+  "fetched_at": "2026-08-03T11:29:23.074207+00:00",
+  "last_updated_at": "2026-08-20T00:38:48.427748+00:00",
+  "paths": {
+    "article": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/08/a1/a16d0a2690f7dff7af84ebfa7eabcf6bb2f2e634ad8f7859d6f2f7381d400c75/article.md",
+    "record": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/08/a1/a16d0a2690f7dff7af84ebfa7eabcf6bb2f2e634ad8f7859d6f2f7381d400c75/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17280,
+    "sha256": "sha256:6ec36ec0cefd5daf1f454ec78c934fb157bca02b5b1f60354b4e9b8e2fc5e827",
+    "normalized_content_hash": "sha256:794bf5e5c310f91719da95c6f57892b09bbf5701112b9a19ba313baf7d1265a8"
+  },
+  "provenance": {
+    "source_item_id": "cd088e4f-8c01-4aac-b584-a5a082ba92ea",
+    "external_id": "https://www.tenable.com/blog/testing-claude-mythos-preview-for-code-security-tenable"
+  }
+}

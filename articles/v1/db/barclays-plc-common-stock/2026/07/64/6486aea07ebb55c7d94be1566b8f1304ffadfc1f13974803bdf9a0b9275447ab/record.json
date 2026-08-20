@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6486aea07ebb55c7d94be1566b8f1304ffadfc1f13974803bdf9a0b9275447ab",
+  "company": {
+    "key": "barclays-plc-common-stock",
+    "name": "Barclays PLC"
+  },
+  "source": {
+    "id": "barclays-plc-common-stock-news-import-c6eaa10a7614",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://home.barclays/insights/2026/07/Rewiring-Finance-Tokenisation-Catalyst-UK-Growth/",
+    "canonical": "https://home.barclays/insights/2026/07/Rewiring-Finance-Tokenisation-Catalyst-UK-Growth/"
+  },
+  "title": "Rewiring Finance: Tokenisation as a Catalyst for UK Growth",
+  "summary": "Barclays new report assesses how tokenisation - the digital representation of assets, money and rights on shared infrastructure - could transform the UK economy by building a more connected financial system where money, assets and records can move together with less friction. It evaluates the scale of the economic opportunity and identifies policy actions required for the UK to capture it.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T18:53:20.935890+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T19:47:20.895483+00:00",
+  "paths": {
+    "article": "articles/v1/db/barclays-plc-common-stock/2026/07/64/6486aea07ebb55c7d94be1566b8f1304ffadfc1f13974803bdf9a0b9275447ab/article.md",
+    "record": "articles/v1/db/barclays-plc-common-stock/2026/07/64/6486aea07ebb55c7d94be1566b8f1304ffadfc1f13974803bdf9a0b9275447ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3273,
+    "sha256": "sha256:688e7db8c2640bda28d2b0749f5bea173d1ad3f1b8a20c47e596e0d615122eb6",
+    "normalized_content_hash": "sha256:b2b979b7b8d89e02f61e032cd550dd9cc1af5c5bee9509eb6d66b0df43e4261b"
+  },
+  "provenance": {
+    "source_item_id": "edc850e4-2032-4f7b-9181-57351d02a2e6",
+    "external_id": "https://home.barclays/insights/2026/07/Rewiring-Finance-Tokenisation-Catalyst-UK-Growth/"
+  }
+}

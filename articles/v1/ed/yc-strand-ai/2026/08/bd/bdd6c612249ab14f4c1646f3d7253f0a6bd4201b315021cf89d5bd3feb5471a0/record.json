@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdd6c612249ab14f4c1646f3d7253f0a6bd4201b315021cf89d5bd3feb5471a0",
+  "company": {
+    "key": "yc-strand-ai",
+    "name": "Strand AI"
+  },
+  "source": {
+    "id": "yc-strand-ai-news-import-ee8f1008ced1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://strandai.com/blog/tcga-coad-open-predictions",
+    "canonical": "https://strandai.com/blog/tcga-coad-open-predictions"
+  },
+  "title": "Open Lattice predictions on TCGA-COAD",
+  "summary": "Live Lattice predictions on public TCGA colorectal H&E slides, interactive in the browser. No sign-in.",
+  "published_at": "2026-08-15T00:00:00+00:00",
+  "first_seen_at": "2026-08-20T00:58:37.799173+00:00",
+  "fetched_at": "2026-08-20T00:58:39.767914+00:00",
+  "last_updated_at": "2026-08-20T00:58:39.959763+00:00",
+  "paths": {
+    "article": "articles/v1/ed/yc-strand-ai/2026/08/bd/bdd6c612249ab14f4c1646f3d7253f0a6bd4201b315021cf89d5bd3feb5471a0/article.md",
+    "record": "articles/v1/ed/yc-strand-ai/2026/08/bd/bdd6c612249ab14f4c1646f3d7253f0a6bd4201b315021cf89d5bd3feb5471a0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2644,
+    "sha256": "sha256:908ac7399eb56113160a65d8ad7d012d8805e5987f9159849f6bd95245aec69c",
+    "normalized_content_hash": "sha256:fba635f0c164419fdc0b21576aa9898961f52adaa0d0e2e7269b6ec8fa8e2b08"
+  },
+  "provenance": {
+    "source_item_id": "42733a8c-383c-4922-a8c9-29320f06d7fd",
+    "external_id": "https://strandai.com/blog/tcga-coad-open-predictions"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73d3643a78b00fe258400fdfa49d6044dc53ed369b92a0d0280707a24a737d34",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/librephotos-arbitrary-file-upload-vulnerability",
+    "canonical": "https://zeropath.com/blog/librephotos-arbitrary-file-upload-vulnerability"
+  },
+  "title": "LibrePhotos Arbitrary File Upload + Path Traversal PoC",
+  "summary": "ZeroPath security researchers uncover an unauthenticated arbitrary file upload vulnerability in LibrePhotos, a popular open-source photo management solution.",
+  "published_at": "2024-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-13T06:42:06.545808+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2024/08/73/73d3643a78b00fe258400fdfa49d6044dc53ed369b92a0d0280707a24a737d34/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2024/08/73/73d3643a78b00fe258400fdfa49d6044dc53ed369b92a0d0280707a24a737d34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6989,
+    "sha256": "sha256:fa49995256b5c869f532fa866ba98d8dd3c2f1734e7d98a32f43c0d2db724610",
+    "normalized_content_hash": "sha256:ba8e3a414cd523fcef8cd91f78cafe88b95944077408360234cf046f745fd473"
+  },
+  "provenance": {
+    "source_item_id": "ee72131d-c1cd-4310-ae2c-6b311d1ad568",
+    "external_id": "https://zeropath.com/blog/librephotos-arbitrary-file-upload-vulnerability"
+  }
+}

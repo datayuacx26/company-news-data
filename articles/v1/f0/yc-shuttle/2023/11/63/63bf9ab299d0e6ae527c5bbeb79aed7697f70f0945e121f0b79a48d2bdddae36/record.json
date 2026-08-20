@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63bf9ab299d0e6ae527c5bbeb79aed7697f70f0945e121f0b79a48d2bdddae36",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/10/25/htmx-with-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/10/25/htmx-with-rust"
+  },
+  "title": "htmx, Rust & Shuttle: A New Rapid Prototyping Stack",
+  "summary": "This article details how htmx with Rust and Shuttle can speed up your workflow and let you focus on the code with the assistance of Axum and Askama.",
+  "published_at": "2023-11-01T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/11/63/63bf9ab299d0e6ae527c5bbeb79aed7697f70f0945e121f0b79a48d2bdddae36/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/11/63/63bf9ab299d0e6ae527c5bbeb79aed7697f70f0945e121f0b79a48d2bdddae36/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14176,
+    "sha256": "sha256:a6945ecb583d287057b01cb8da03c407f74cc532d866583f9251de87693c1ab9",
+    "normalized_content_hash": "sha256:e1e727a97659e6d7e60f1d83d443b8f67b8a8759426e760485dfe7a4e1b2d02c"
+  },
+  "provenance": {
+    "source_item_id": "d7f02725-6065-4030-963e-9f572b0280bd",
+    "external_id": "https://www.shuttle.dev/blog/2023/10/25/htmx-with-rust"
+  }
+}

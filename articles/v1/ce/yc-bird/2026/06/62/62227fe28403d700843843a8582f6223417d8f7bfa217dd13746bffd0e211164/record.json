@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "62227fe28403d700843843a8582f6223417d8f7bfa217dd13746bffd0e211164",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/how-to-reduce-spam-score",
+    "canonical": "https://bird.com/en-us/blog/how-to-reduce-spam-score"
+  },
+  "title": "How to Reduce Your Email Spam Score",
+  "summary": "A spam score rates how junk-like your email looks. Lower it by fixing authentication, content, HTML, links, and unsubscribe handling.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/06/62/62227fe28403d700843843a8582f6223417d8f7bfa217dd13746bffd0e211164/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/06/62/62227fe28403d700843843a8582f6223417d8f7bfa217dd13746bffd0e211164/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5632,
+    "sha256": "sha256:8a0b432a50d5f446d462dda8833581b639a0fdda193efc133d724611a35c8b58",
+    "normalized_content_hash": "sha256:79ef05f175e90484638c17907e0235209fa93ef281468d5f466e073f934484bb"
+  },
+  "provenance": {
+    "source_item_id": "4717bf9d-4992-4f2e-943a-d5576b0ec720",
+    "external_id": "https://bird.com/en-us/blog/how-to-reduce-spam-score"
+  }
+}

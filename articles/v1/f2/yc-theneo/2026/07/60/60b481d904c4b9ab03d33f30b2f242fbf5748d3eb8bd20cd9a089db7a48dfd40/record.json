@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "60b481d904c4b9ab03d33f30b2f242fbf5748d3eb8bd20cd9a089db7a48dfd40",
+  "company": {
+    "key": "yc-theneo",
+    "name": "Theneo"
+  },
+  "source": {
+    "id": "yc-theneo-news-import-36ab7290964e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.theneo.io/blog/why-api-specs-break-ai-agents-mcp-launch",
+    "canonical": "https://www.theneo.io/blog/why-api-specs-break-ai-agents-mcp-launch"
+  },
+  "title": "Why API Specs Break AI Agents and How to Fix Them Before MCP Launch",
+  "summary": "AI agents fail on API specs when endpoint intent, examples, auth rules, errors, and freshness are missing. Learn how to fix API spec quality before launching MCP.",
+  "published_at": "2026-07-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:28:55.375950+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-19T18:48:02.963112+00:00",
+  "paths": {
+    "article": "articles/v1/f2/yc-theneo/2026/07/60/60b481d904c4b9ab03d33f30b2f242fbf5748d3eb8bd20cd9a089db7a48dfd40/article.md",
+    "record": "articles/v1/f2/yc-theneo/2026/07/60/60b481d904c4b9ab03d33f30b2f242fbf5748d3eb8bd20cd9a089db7a48dfd40/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10446,
+    "sha256": "sha256:44600ef85a3be4126b6341bc2c221a917efe51e72e441af871cd8c9a3bd51883",
+    "normalized_content_hash": "sha256:8f7cc8aa2579cfe5eb540757dba7916f48c3f2867b5aa523740b48d5206b4b80"
+  },
+  "provenance": {
+    "source_item_id": "59bc481d-c978-4a1b-9d69-60bcd0f2acb3",
+    "external_id": "https://www.theneo.io/blog/why-api-specs-break-ai-agents-mcp-launch"
+  }
+}

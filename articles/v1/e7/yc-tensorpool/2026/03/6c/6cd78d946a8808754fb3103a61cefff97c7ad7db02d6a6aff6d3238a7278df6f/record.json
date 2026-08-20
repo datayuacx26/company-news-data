@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cd78d946a8808754fb3103a61cefff97c7ad7db02d6a6aff6d3238a7278df6f",
+  "company": {
+    "key": "yc-tensorpool",
+    "name": "TensorPool"
+  },
+  "source": {
+    "id": "yc-tensorpool-news-import-ce508c9f2d8e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorpool.dev/blog/introducing-nb-dev",
+    "canonical": "https://tensorpool.dev/blog/introducing-nb-dev"
+  },
+  "title": "Introducing nb.dev: A Cracked Jupyter Notebook for ML",
+  "summary": "Jupyter notebooks are broken for ML. We built nb.dev — an ML-first notebook with GPU attach, full machine snapshots, and one-click branching for parallel experimentation.",
+  "published_at": "2026-03-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:32:36.763199+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-08-19T22:44:13.707282+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-tensorpool/2026/03/6c/6cd78d946a8808754fb3103a61cefff97c7ad7db02d6a6aff6d3238a7278df6f/article.md",
+    "record": "articles/v1/e7/yc-tensorpool/2026/03/6c/6cd78d946a8808754fb3103a61cefff97c7ad7db02d6a6aff6d3238a7278df6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4254,
+    "sha256": "sha256:848178e6c77a1b74104d6b6ee445678c0202a3bbe504df98515e9dc60d345740",
+    "normalized_content_hash": "sha256:6ea82b19a8005b774ecaac00e79ad167a5ecfee5b9224fc8ac9933c0c2766604"
+  },
+  "provenance": {
+    "source_item_id": "e8b1c913-2808-4853-8ea8-8bbffca83270",
+    "external_id": "https://tensorpool.dev/blog/introducing-nb-dev"
+  }
+}

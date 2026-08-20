@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e09715f44b4b35e47ccd664bc19a6740d7733eab0d6d6fa604a2c089c50bdf4d",
+  "company": {
+    "key": "yc-tensorpool",
+    "name": "TensorPool"
+  },
+  "source": {
+    "id": "yc-tensorpool-news-import-ce508c9f2d8e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorpool.dev/blog/tensorpool-jobs",
+    "canonical": "https://tensorpool.dev/blog/tensorpool-jobs"
+  },
+  "title": "Introducing TensorPool Jobs: Git-Style GPU Workflows",
+  "summary": "Run your ML training jobs like you push code to GitHub. Pay only for runtime, get your results back automatically.",
+  "published_at": "2025-10-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:32:36.763199+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-19T22:44:13.707282+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-tensorpool/2025/10/e0/e09715f44b4b35e47ccd664bc19a6740d7733eab0d6d6fa604a2c089c50bdf4d/article.md",
+    "record": "articles/v1/e7/yc-tensorpool/2025/10/e0/e09715f44b4b35e47ccd664bc19a6740d7733eab0d6d6fa604a2c089c50bdf4d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5843,
+    "sha256": "sha256:5b59700e49facfee3238556ff1eb7f93f343e50311f4655e832ffe8637d529cb",
+    "normalized_content_hash": "sha256:d87a2aec1f3be40f024adbd6e3e93e91405644f1c3eb2a9d0787afab79d9e771"
+  },
+  "provenance": {
+    "source_item_id": "df9ce852-6fb7-4607-aace-8515a1b85031",
+    "external_id": "https://tensorpool.dev/blog/tensorpool-jobs"
+  }
+}

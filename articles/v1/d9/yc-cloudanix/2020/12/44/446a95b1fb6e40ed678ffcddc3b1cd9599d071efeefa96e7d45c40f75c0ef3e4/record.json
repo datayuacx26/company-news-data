@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "446a95b1fb6e40ed678ffcddc3b1cd9599d071efeefa96e7d45c40f75c0ef3e4",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/aws-iam-permission-boundary-and-why-you-shouldn-t-ignore-it/",
+    "canonical": "https://www.cloudanix.com/blog/aws-iam-permission-boundary-and-why-you-shouldn-t-ignore-it/"
+  },
+  "title": "AWS IAM Permission Boundary and Why You Shouldn't Ignore It",
+  "summary": "Learn what AWS IAM Permission Boundary is, how it limits delegated admin access, and why it matters for preventing privilege escalation and data breaches.",
+  "published_at": "2020-12-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2020/12/44/446a95b1fb6e40ed678ffcddc3b1cd9599d071efeefa96e7d45c40f75c0ef3e4/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2020/12/44/446a95b1fb6e40ed678ffcddc3b1cd9599d071efeefa96e7d45c40f75c0ef3e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8030,
+    "sha256": "sha256:8aeed68f49c8da6418547697315556426e6d879ff9d7eefaddd8c69de02cdeb0",
+    "normalized_content_hash": "sha256:bb9184fc239f85018bfac0793f02f5ae784de79d94154644466162ae85a354c4"
+  },
+  "provenance": {
+    "source_item_id": "bacf24fc-6b99-488b-a40d-de46361f1b7d",
+    "external_id": "https://www.cloudanix.com/blog/aws-iam-permission-boundary-and-why-you-shouldn-t-ignore-it/"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-gainful",
+    "name": "Gainful"
+  },
+  "record_count": 37,
+  "first_published_at": "2025-08-13T04:00:00+00:00",
+  "last_published_at": "2026-08-04T16:58:11+00:00",
+  "partitions": [
+    {
+      "partition": "2025-08",
+      "record_count": 23
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/yc-gainful/index/pages/000001.json",
+        "record_count": 37,
+        "byte_count": 38421,
+        "sha256": "sha256:52a3678ed1f2c04cf7cbd84715b8ac968b193a425e3758c045629f37c9d77af8",
+        "newest_at": "2026-08-04T16:58:11+00:00",
+        "oldest_at": "2025-08-13T04:00:00+00:00"
+      }
+    ]
+  }
+}

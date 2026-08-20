@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "82e4ca1822f00bf931b562e36c1bfe356eb5d3e3f435a72c9341ecfdf350df90",
+  "company": {
+    "key": "yc-mailwarm",
+    "name": "Mailwarm"
+  },
+  "source": {
+    "id": "yc-mailwarm-news-import-5814b5ef4890",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mailwarm.com/blog/how-to-prevent-email-spoofing",
+    "canonical": "https://www.mailwarm.com/blog/how-to-prevent-email-spoofing"
+  },
+  "title": "How to Prevent Email Spoofing in 2026",
+  "summary": "Learn how to prevent email spoofing with SPF, DKIM, and DMARC setup, third-party sender handling, monitoring, and rollout best practices.",
+  "published_at": "2026-08-13T08:57:54.339+00:00",
+  "first_seen_at": "2026-08-14T18:01:09.256747+00:00",
+  "fetched_at": "2026-08-14T18:01:10.445154+00:00",
+  "last_updated_at": "2026-08-16T23:31:03.706626+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-mailwarm/2026/08/82/82e4ca1822f00bf931b562e36c1bfe356eb5d3e3f435a72c9341ecfdf350df90/article.md",
+    "record": "articles/v1/fe/yc-mailwarm/2026/08/82/82e4ca1822f00bf931b562e36c1bfe356eb5d3e3f435a72c9341ecfdf350df90/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20928,
+    "sha256": "sha256:04529cba27abc6d82966b79bd1691e9883ead3e403f7cc25170b56f32f3d844b",
+    "normalized_content_hash": "sha256:3a051e11cf9dac7d9754f0d85b182f565b3ffc6b7223cb9fc954cda2c8112327"
+  },
+  "provenance": {
+    "source_item_id": "8bb33eb1-589f-46f0-aae9-8c2fee18f0e3",
+    "external_id": "https://www.mailwarm.com/blog/how-to-prevent-email-spoofing"
+  }
+}

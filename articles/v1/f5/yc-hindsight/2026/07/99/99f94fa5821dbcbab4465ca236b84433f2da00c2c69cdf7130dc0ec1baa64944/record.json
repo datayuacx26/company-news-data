@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99f94fa5821dbcbab4465ca236b84433f2da00c2c69cdf7130dc0ec1baa64944",
+  "company": {
+    "key": "yc-hindsight",
+    "name": "Hindsight"
+  },
+  "source": {
+    "id": "yc-hindsight-news-import-f2f0dde5dc5b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usehindsight.com/resources/blog/hindsight-mcp-gtm-benchmark",
+    "canonical": "https://usehindsight.com/resources/blog/hindsight-mcp-gtm-benchmark"
+  },
+  "title": "Hindsight MCP vs. Raw GTM Tool Connections: Claude Benchmark | Hindsight",
+  "summary": "Claude was 2-3x faster on heavy GTM synthesis tasks when connected to Hindsight MCP instead of raw HubSpot, Granola, Gmail, Slack, and Drive tools.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T08:08:59.815741+00:00",
+  "fetched_at": "2026-07-28T21:35:55.789196+00:00",
+  "last_updated_at": "2026-08-19T15:58:11.027488+00:00",
+  "paths": {
+    "article": "articles/v1/f5/yc-hindsight/2026/07/99/99f94fa5821dbcbab4465ca236b84433f2da00c2c69cdf7130dc0ec1baa64944/article.md",
+    "record": "articles/v1/f5/yc-hindsight/2026/07/99/99f94fa5821dbcbab4465ca236b84433f2da00c2c69cdf7130dc0ec1baa64944/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9838,
+    "sha256": "sha256:c7b0fbd2be389163d41b9ee665f1eb377a370e94e8610dbf9e8d10512ee95d58",
+    "normalized_content_hash": "sha256:3ecf35e6f439f24f78a30d44f28b1a0aeffc2d9d63815078481b2c80cbe9ab31"
+  },
+  "provenance": {
+    "source_item_id": "9182afcc-7d04-439d-af98-80f81fc7ccfa",
+    "external_id": "https://usehindsight.com/resources/blog/hindsight-mcp-gtm-benchmark"
+  }
+}

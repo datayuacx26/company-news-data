@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-knowtex",
+    "name": "Knowtex"
+  },
+  "record_count": 9,
+  "first_published_at": "2026-03-18T11:19:03.517+00:00",
+  "last_published_at": "2026-08-05T12:44:44.450+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d5/yc-knowtex/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 9812,
+        "sha256": "sha256:81dadec956ccb259598705fa953bb687fa841b7f9f058b02bb10347b0836cfe0",
+        "newest_at": "2026-08-05T12:44:44.450+00:00",
+        "oldest_at": "2026-03-18T11:19:03.517+00:00"
+      }
+    ]
+  }
+}

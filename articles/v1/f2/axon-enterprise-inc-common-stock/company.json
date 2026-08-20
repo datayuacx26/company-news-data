@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "axon-enterprise-inc-common-stock",
+    "name": "Axon Enterprise Inc."
+  },
+  "record_count": 5,
+  "first_published_at": "2026-04-07T15:03:49.773+00:00",
+  "last_published_at": "2026-04-22T18:07:36.830+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f2/axon-enterprise-inc-common-stock/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5759,
+        "sha256": "sha256:b3374325871374ce64e183305e96e180c0db2e24d1eac8a035241931b2e1374c",
+        "newest_at": "2026-04-22T18:07:36.830+00:00",
+        "oldest_at": "2026-04-07T15:03:49.773+00:00"
+      }
+    ]
+  }
+}

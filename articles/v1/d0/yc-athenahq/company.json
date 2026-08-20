@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-athenahq",
+    "name": "AthenaHQ"
+  },
+  "record_count": 25,
+  "first_published_at": "2025-10-26T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d0/yc-athenahq/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 26038,
+        "sha256": "sha256:ba3fb943aee6e4f68d84bb63e926a831bfe3b5b4b373b6e0b4f7ad6d1d3636f2",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2025-10-26T00:00:00+00:00"
+      }
+    ]
+  }
+}

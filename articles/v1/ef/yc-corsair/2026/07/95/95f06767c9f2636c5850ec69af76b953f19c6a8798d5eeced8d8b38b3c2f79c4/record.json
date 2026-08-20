@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95f06767c9f2636c5850ec69af76b953f19c6a8798d5eeced8d8b38b3c2f79c4",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/manual-oauth-setup-slowing-down-workflow-automation",
+    "canonical": "https://corsair.dev/blog/manual-oauth-setup-slowing-down-workflow-automation"
+  },
+  "title": "Why Manual OAuth Setup Is Slowing Down Your Workflow Automation",
+  "summary": "OAuth setup feels trivial for one integration and turns into an ongoing maintenance job across ten. This post breaks down what manual OAuth really costs a team, why refresh tokens and redirect URIs keep breaking workflows, and what changes when a platform owns that layer instead.",
+  "published_at": "2026-07-24T12:21:00+00:00",
+  "first_seen_at": "2026-07-26T18:26:28.761597+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/95/95f06767c9f2636c5850ec69af76b953f19c6a8798d5eeced8d8b38b3c2f79c4/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/95/95f06767c9f2636c5850ec69af76b953f19c6a8798d5eeced8d8b38b3c2f79c4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12006,
+    "sha256": "sha256:7e4299c9147f3de6259b93f50137894ba488a615ec6c8d2eb81532920738f597",
+    "normalized_content_hash": "sha256:7aa78a6676fb6265428595b5a2063a6b4dad5857cbaf7203b943aa840c1b9c0c"
+  },
+  "provenance": {
+    "source_item_id": "2f5b6152-8f34-467f-a018-36efb91866d1",
+    "external_id": "https://corsair.dev/blog/manual-oauth-setup-slowing-down-workflow-automation"
+  }
+}

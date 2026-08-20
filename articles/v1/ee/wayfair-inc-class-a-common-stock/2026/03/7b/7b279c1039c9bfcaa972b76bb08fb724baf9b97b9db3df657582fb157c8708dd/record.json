@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b279c1039c9bfcaa972b76bb08fb724baf9b97b9db3df657582fb157c8708dd",
+  "company": {
+    "key": "wayfair-inc-class-a-common-stock",
+    "name": "Wayfair Inc."
+  },
+  "source": {
+    "id": "wayfair-inc-class-a-common-stock-news-import-42cff1750757",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.aboutwayfair.com/careers/tech-blog/real-time-package-damage-detection-at-scale-integrating-yolo-in-warehouse-operations",
+    "canonical": "https://www.aboutwayfair.com/careers/tech-blog/real-time-package-damage-detection-at-scale-integrating-yolo-in-warehouse-operations"
+  },
+  "title": "Real-Time Package Damage Detection at Scale: Integrating YOLO in Warehouse Operations",
+  "summary": "Introduction: The High Cost of the \"Last Mile\"At Wayfair, we prioritize the safe arrival of every customer order. Currently, quality control relies on manual visual inspections, a system that is difficult to scale and prone to human error. Damaged package shipments impact the customer experience…",
+  "published_at": "2026-03-26T20:25:26.412+00:00",
+  "first_seen_at": "2026-07-22T19:30:59.923738+00:00",
+  "fetched_at": "2026-07-28T22:00:16.885857+00:00",
+  "last_updated_at": "2026-08-19T18:33:49.250780+00:00",
+  "paths": {
+    "article": "articles/v1/ee/wayfair-inc-class-a-common-stock/2026/03/7b/7b279c1039c9bfcaa972b76bb08fb724baf9b97b9db3df657582fb157c8708dd/article.md",
+    "record": "articles/v1/ee/wayfair-inc-class-a-common-stock/2026/03/7b/7b279c1039c9bfcaa972b76bb08fb724baf9b97b9db3df657582fb157c8708dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9659,
+    "sha256": "sha256:1d6256d59770d1b0011b25d23eb9d3dcfd66810458544a696aac20f71180e264",
+    "normalized_content_hash": "sha256:adf0f047f7d0105a85b8104ab7b5f0dad02b763f918fdcf25654c66f25c06a8f"
+  },
+  "provenance": {
+    "source_item_id": "22bb4383-f294-427d-9cdd-156ab68a8600",
+    "external_id": "https://www.aboutwayfair.com/careers/tech-blog/real-time-package-damage-detection-at-scale-integrating-yolo-in-warehouse-operations"
+  }
+}

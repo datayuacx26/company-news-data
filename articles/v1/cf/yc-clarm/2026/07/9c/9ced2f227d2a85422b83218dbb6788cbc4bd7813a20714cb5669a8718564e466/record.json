@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9ced2f227d2a85422b83218dbb6788cbc4bd7813a20714cb5669a8718564e466",
+  "company": {
+    "key": "yc-clarm",
+    "name": "Clarm"
+  },
+  "source": {
+    "id": "yc-clarm-news-import-36dfdbd138cb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clarm.com/blog/articles/how-to-add-an-approval-step-to-an-ai-agent/",
+    "canonical": "https://clarm.com/blog/articles/how-to-add-an-approval-step-to-an-ai-agent/"
+  },
+  "title": "How to Add an Approval Step to an AI Agent",
+  "summary": "How to add a named-owner checkpoint to an AI agent: decide what needs sign-off, route it, enforce the gate, and log every decision.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T06:54:05.668750+00:00",
+  "fetched_at": "2026-08-05T03:48:38.159246+00:00",
+  "last_updated_at": "2026-08-20T02:27:40.898317+00:00",
+  "paths": {
+    "article": "articles/v1/cf/yc-clarm/2026/07/9c/9ced2f227d2a85422b83218dbb6788cbc4bd7813a20714cb5669a8718564e466/article.md",
+    "record": "articles/v1/cf/yc-clarm/2026/07/9c/9ced2f227d2a85422b83218dbb6788cbc4bd7813a20714cb5669a8718564e466/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3524,
+    "sha256": "sha256:b7e9200bb8438feda836f74af13f9a1255be2b7c35d6b8dde490f4d61d0fb804",
+    "normalized_content_hash": "sha256:826f4bbe9100231465cdc41aeb8f5d55ce514c43dbc759dde78480a36afe4388"
+  },
+  "provenance": {
+    "source_item_id": "a73f23f2-5d5c-4014-878e-02e3b854f44b",
+    "external_id": "https://clarm.com/blog/articles/how-to-add-an-approval-step-to-an-ai-agent/"
+  }
+}

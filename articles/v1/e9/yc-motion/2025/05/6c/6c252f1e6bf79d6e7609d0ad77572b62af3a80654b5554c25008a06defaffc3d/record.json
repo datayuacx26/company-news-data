@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6c252f1e6bf79d6e7609d0ad77572b62af3a80654b5554c25008a06defaffc3d",
+  "company": {
+    "key": "yc-motion",
+    "name": "Motion"
+  },
+  "source": {
+    "id": "yc-motion-rss-f628c3046538",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d?source=rss----274c9e1430ca---4",
+    "canonical": "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d"
+  },
+  "title": "Migrating to Postgres",
+  "summary": "Since early 2022, Motion was on CockroachDB. Cockroach has many qualities going for it: effortless horizontal scaling, especially when…",
+  "published_at": "2025-05-13T18:54:04+00:00",
+  "first_seen_at": "2026-07-20T23:21:05.244128+00:00",
+  "fetched_at": "2026-07-28T20:57:40.062421+00:00",
+  "last_updated_at": "2026-08-20T01:57:30.219745+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-motion/2025/05/6c/6c252f1e6bf79d6e7609d0ad77572b62af3a80654b5554c25008a06defaffc3d/article.md",
+    "record": "articles/v1/e9/yc-motion/2025/05/6c/6c252f1e6bf79d6e7609d0ad77572b62af3a80654b5554c25008a06defaffc3d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13595,
+    "sha256": "sha256:2f7092a9ddecab997470d7d0c0b45654bc2e6b3121f5f490ca05ce1f2847e0f3",
+    "normalized_content_hash": "sha256:9512d118c9daf545f6451a106b225154602222d955235eec01de3d8fbd2cff8c"
+  },
+  "provenance": {
+    "source_item_id": "8a8c3176-aac8-4b1c-b266-4bed32aec304",
+    "external_id": "https://medium.com/p/3c93dff9c65d"
+  }
+}

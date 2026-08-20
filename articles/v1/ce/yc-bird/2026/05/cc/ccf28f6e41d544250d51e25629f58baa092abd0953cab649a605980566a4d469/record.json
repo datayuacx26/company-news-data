@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccf28f6e41d544250d51e25629f58baa092abd0953cab649a605980566a4d469",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/how-to-track-email-opens",
+    "canonical": "https://bird.com/en-us/blog/how-to-track-email-opens"
+  },
+  "title": "How Can You Track Email Opens?",
+  "summary": "Email opens are tracked with a tiny invisible pixel, but image blocking and Apple Mail privacy now make open rate a soft signal worth reading with care.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:44:45.479848+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/05/cc/ccf28f6e41d544250d51e25629f58baa092abd0953cab649a605980566a4d469/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/05/cc/ccf28f6e41d544250d51e25629f58baa092abd0953cab649a605980566a4d469/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6959,
+    "sha256": "sha256:5b2e8e8cfd2677f0e4e717ef634b6bb5ceab571d85b01c18e4f7d2c79512c949",
+    "normalized_content_hash": "sha256:3e17b3aacf65916d813221b0db35ee7045f9d11db0fd3f5da17f0a81eda921a4"
+  },
+  "provenance": {
+    "source_item_id": "50459fbb-9730-4b6e-a090-1e8cc72a59e3",
+    "external_id": "https://bird.com/en-us/blog/how-to-track-email-opens"
+  }
+}

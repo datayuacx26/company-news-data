@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-talus-bio",
+    "name": "Talus Bio"
+  },
+  "record_count": 5,
+  "first_published_at": "2024-12-09T02:26:07+00:00",
+  "last_published_at": "2026-07-31T18:16:46+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f8/yc-talus-bio/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 4727,
+        "sha256": "sha256:ac9faa1d6cddd7a57bdf3b0626f249b25b5d6132da8933fcadfe67784a83ef5b",
+        "newest_at": "2026-07-31T18:16:46+00:00",
+        "oldest_at": "2024-12-09T02:26:07+00:00"
+      }
+    ]
+  }
+}

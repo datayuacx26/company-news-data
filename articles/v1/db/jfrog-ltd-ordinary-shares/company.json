@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "jfrog-ltd-ordinary-shares",
+    "name": "JFrog Ltd."
+  },
+  "record_count": 39,
+  "first_published_at": "2025-09-09T12:01:01+00:00",
+  "last_published_at": "2026-08-18T13:19:01+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 9
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/db/jfrog-ltd-ordinary-shares/index/pages/000001.json",
+        "record_count": 39,
+        "byte_count": 42832,
+        "sha256": "sha256:57cfceb7643afa082f56ed870e94bf2ea195f833088619c0b327f62cfff5895c",
+        "newest_at": "2026-08-18T13:19:01+00:00",
+        "oldest_at": "2025-09-09T12:01:01+00:00"
+      }
+    ]
+  }
+}

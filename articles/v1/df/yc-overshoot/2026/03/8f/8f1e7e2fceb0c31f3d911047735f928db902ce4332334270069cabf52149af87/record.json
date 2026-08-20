@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8f1e7e2fceb0c31f3d911047735f928db902ce4332334270069cabf52149af87",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/deploy-qwen3.5-9b",
+    "canonical": "https://www.overshoot.ai/blogs/deploy-qwen3.5-9b"
+  },
+  "title": "How to Deploy Qwen3.5-9B with vLLM",
+  "summary": "Step-by-step guide to deploying Qwen3.5-9B with vLLM, including setup, configuration, verification, and troubleshooting.",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/03/8f/8f1e7e2fceb0c31f3d911047735f928db902ce4332334270069cabf52149af87/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/03/8f/8f1e7e2fceb0c31f3d911047735f928db902ce4332334270069cabf52149af87/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4904,
+    "sha256": "sha256:da9a2ba023dc16ac50f9045f1571df797ccd4cbd9d0a872c17fc878b2afe49da",
+    "normalized_content_hash": "sha256:891f5a8ff00aa945a92a187f4039dd022d60aa938c0b53c31c73b1c113784df1"
+  },
+  "provenance": {
+    "source_item_id": "74b59607-4304-41cb-9258-a642b6a9ed1e",
+    "external_id": "https://www.overshoot.ai/blogs/deploy-qwen3.5-9b"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0d564179cfed29e95d1fdca2016676768f6ba918740a55b9c033148744b29a4",
+  "company": {
+    "key": "yc-paradedb",
+    "name": "ParadeDB"
+  },
+  "source": {
+    "id": "yc-paradedb-rss-b460d8ada1d2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.paradedb.com/blog/increased-write-performance",
+    "canonical": "https://www.paradedb.com/blog/increased-write-performance"
+  },
+  "title": "Postgres as a Search Engine: The Write Performance Problem",
+  "summary": "How ParadeDB achieved 10x improved write throughput through searchable buffers, background merging, and handling Postgres HOT chains.",
+  "published_at": "2025-12-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.722459+00:00",
+  "fetched_at": "2026-07-28T20:55:00.595584+00:00",
+  "last_updated_at": "2026-08-20T02:15:21.077987+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-paradedb/2025/12/f0/f0d564179cfed29e95d1fdca2016676768f6ba918740a55b9c033148744b29a4/article.md",
+    "record": "articles/v1/d7/yc-paradedb/2025/12/f0/f0d564179cfed29e95d1fdca2016676768f6ba918740a55b9c033148744b29a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12310,
+    "sha256": "sha256:feb02899b85fbaf090845f1a8a264ca3c50d42b6c4747aa5637850219279136a",
+    "normalized_content_hash": "sha256:a5e75c142969879a2bb4d5e275f4185ca45f80f1a3eb67ace7fa2115dc9c7975"
+  },
+  "provenance": {
+    "source_item_id": "589ffef6-c999-440d-b813-07517c437515",
+    "external_id": "https://www.paradedb.com/blog/increased-write-performance"
+  }
+}

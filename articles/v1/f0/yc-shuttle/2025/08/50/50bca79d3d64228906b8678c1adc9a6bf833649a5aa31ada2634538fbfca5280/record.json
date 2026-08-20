@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50bca79d3d64228906b8678c1adc9a6bf833649a5aa31ada2634538fbfca5280",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/08/13/sse-mcp-server-with-oauth-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2025/08/13/sse-mcp-server-with-oauth-in-rust"
+  },
+  "title": "How to Build and Deploy an SSE MCP Server with OAuth in Rust",
+  "summary": "Build an SSE-based MCP server with OAuth 2 in Rust using rmcp and Axum and deploy to Shuttle with PostgreSQL/SQLx.",
+  "published_at": "2025-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/08/50/50bca79d3d64228906b8678c1adc9a6bf833649a5aa31ada2634538fbfca5280/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/08/50/50bca79d3d64228906b8678c1adc9a6bf833649a5aa31ada2634538fbfca5280/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 47782,
+    "sha256": "sha256:b19e18f78061773db031c4981d89c0c2f85d3446c3d1165964d0f2f490d2f144",
+    "normalized_content_hash": "sha256:a077cb9ef237c9630fd6dce3f381895a6f43e1cf234b481407a5fdc2afa56236"
+  },
+  "provenance": {
+    "source_item_id": "9eb9ed35-efca-4b20-b465-bfa5fb721827",
+    "external_id": "https://www.shuttle.dev/blog/2025/08/13/sse-mcp-server-with-oauth-in-rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09e49bead33761875b93fa70965395d7f68d59814abfc7e9f1055debc85623c2",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-microsoft-dynamics-365-finance-operations-with-snowflake",
+    "canonical": "https://www.stacksync.com/blog/sync-microsoft-dynamics-365-finance-operations-with-snowflake"
+  },
+  "title": "Getting Dynamics 365 Finance & Operations Data Into Snowflake",
+  "summary": "How to sync Dynamics 365 Finance & Operations with Snowflake in real time: what to sync, how to read F&O without tripping throttling, and why two-way beats a…",
+  "published_at": "2026-07-21T12:30:00+00:00",
+  "first_seen_at": "2026-07-22T00:33:11.525077+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/09/09e49bead33761875b93fa70965395d7f68d59814abfc7e9f1055debc85623c2/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/09/09e49bead33761875b93fa70965395d7f68d59814abfc7e9f1055debc85623c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6408,
+    "sha256": "sha256:2ec08d97e56264ff68c2d7a681937d69f8688fad746055feaa04db7ee23c23e7",
+    "normalized_content_hash": "sha256:4e0a816869c17affabd1ebdc4baf7d6eed405b94fd30cf6d3b19f71c15ace738"
+  },
+  "provenance": {
+    "source_item_id": "f663035f-2f3f-43ad-9303-bc4416c08de3",
+    "external_id": "https://www.stacksync.com/blog/sync-microsoft-dynamics-365-finance-operations-with-snowflake"
+  }
+}

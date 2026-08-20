@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0687c4f618d60bf960e403c0bdff7a7f2d2c2ac811e94a0b8444f0c446225f70",
+  "company": {
+    "key": "yc-chamber",
+    "name": "Chamber"
+  },
+  "source": {
+    "id": "yc-chamber-news-import-3bd200813650",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usechamber.io/blog/gpu-utilization-optimization-complete-guide",
+    "canonical": "https://usechamber.io/blog/gpu-utilization-optimization-complete-guide"
+  },
+  "title": "GPU Utilization Optimization: Complete Guide for AI Teams",
+  "summary": "Learn how to push GPU utilization from 40% to 85%+. Covers fair-share scheduling, topology-aware placement, mixed precision training, and a four-phase framework.",
+  "published_at": "2026-02-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:55:17.000424+00:00",
+  "fetched_at": "2026-07-28T22:20:18.906160+00:00",
+  "last_updated_at": "2026-08-20T00:08:53.036791+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-chamber/2026/02/06/0687c4f618d60bf960e403c0bdff7a7f2d2c2ac811e94a0b8444f0c446225f70/article.md",
+    "record": "articles/v1/e7/yc-chamber/2026/02/06/0687c4f618d60bf960e403c0bdff7a7f2d2c2ac811e94a0b8444f0c446225f70/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24221,
+    "sha256": "sha256:71ae11dcb47c5615455f269c4f1be889494d0eb6bb46b715a264a1a325f89c70",
+    "normalized_content_hash": "sha256:1d9bf0503ce5ec10253e4f46cf5fa4fd04c64f811033be5c65f3e4e977f9b3d3"
+  },
+  "provenance": {
+    "source_item_id": "8433dbef-a385-41c6-9ecc-0595072d8f12",
+    "external_id": "https://usechamber.io/blog/gpu-utilization-optimization-complete-guide"
+  }
+}

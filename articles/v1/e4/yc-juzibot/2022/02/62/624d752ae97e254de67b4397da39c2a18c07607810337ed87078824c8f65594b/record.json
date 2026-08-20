@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "624d752ae97e254de67b4397da39c2a18c07607810337ed87078824c8f65594b",
+  "company": {
+    "key": "yc-juzibot",
+    "name": "JuziBot"
+  },
+  "source": {
+    "id": "yc-juzibot-atom-1225b7c77864",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://tech-blog.juzibot.com/wecom-openapi",
+    "canonical": "https://tech-blog.juzibot.com/wecom-openapi"
+  },
+  "title": "WeCom x Swagger",
+  "summary": "During the process integration with WeCom, we found that there are too many WeCom APIs needs to be integrated, and they all require different parameters. To reduce repeated work and human mistakes, we decide to use some tools generate WeCom API client code automatically.",
+  "published_at": "2022-02-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T09:18:54.078210+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T03:10:25.702466+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-juzibot/2022/02/62/624d752ae97e254de67b4397da39c2a18c07607810337ed87078824c8f65594b/article.md",
+    "record": "articles/v1/e4/yc-juzibot/2022/02/62/624d752ae97e254de67b4397da39c2a18c07607810337ed87078824c8f65594b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5525,
+    "sha256": "sha256:3fb0261297d42475d3857eddad0392127772cf7111e9b4ea4e0dc92e6a59b8e5",
+    "normalized_content_hash": "sha256:b9108744b1a874a21ed4e8f8128a32e33abadd79ee396364393ae899a01d2fdf"
+  },
+  "provenance": {
+    "source_item_id": "c75c21e8-f503-4df9-9882-e5846df8c49b",
+    "external_id": "wecom-openapi"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9410fbcc3b8c02b51ebf9ddfdb6740ab64a80e80cce2a71db347e7b7f5590c34",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/webmin-2-652-and-usermin-2-551-released/137619",
+    "canonical": "https://forum.virtualmin.com/t/webmin-2-652-and-usermin-2-551-released/137619"
+  },
+  "title": "Webmin 2.652 and Usermin 2.551 released",
+  "summary": "Howdy all, We’ve rolled out Webmin 2.652 and Usermin 2.551 to all Virtualmin repos. Changes since Webmin 2.651 and Usermin 2.550: Add a global per-user ACL control to block URL downloads from non-public IP addresses in File Manager, Mailboxes, and Upload and Download modules Fix to recognize hex numeric HTML entities to work in various elements Fix patch sub-command to reload Webmin instead of restarting, making it possible to run from Terminal module Fix SSL certificate and TCP monitors to ...",
+  "published_at": "2026-07-21T21:12:09+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/07/94/9410fbcc3b8c02b51ebf9ddfdb6740ab64a80e80cce2a71db347e7b7f5590c34/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/07/94/9410fbcc3b8c02b51ebf9ddfdb6740ab64a80e80cce2a71db347e7b7f5590c34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2388,
+    "sha256": "sha256:ba35995e26254769cb0fe7265e8a97c690e8d45f2a30eec4de8d1037f3cef096",
+    "normalized_content_hash": "sha256:d21f5bfd3c8b6fcaddfdd83aff6c30660a5c71dc4dd93a94379f2be94317393b"
+  },
+  "provenance": {
+    "source_item_id": "f3fbed14-0735-4012-b61c-692ad831308e",
+    "external_id": "forum.virtualmin.com-topic-137619"
+  }
+}

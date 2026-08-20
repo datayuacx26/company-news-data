@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e4da61c49d746c2b78b9f7e5a35923fb08440e408d8bd8a82cbecc8a1baf68d",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/04/10/using-opentelemetry-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/04/10/using-opentelemetry-rust"
+  },
+  "title": "Working with OpenTelemetry using Rust",
+  "summary": "Adding OpenTelemetry to a Rust application and using the OpenTelemetry collector",
+  "published_at": "2024-04-10T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/04/4e/4e4da61c49d746c2b78b9f7e5a35923fb08440e408d8bd8a82cbecc8a1baf68d/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/04/4e/4e4da61c49d746c2b78b9f7e5a35923fb08440e408d8bd8a82cbecc8a1baf68d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9442,
+    "sha256": "sha256:67900a657a82c502bcb9b72b7584dc343c22cbc3a7bd1dc02291176da36e7ae2",
+    "normalized_content_hash": "sha256:c18fa2fad0150245c9805b66267345279ab874b316615048dbe7573b2ce1c9e4"
+  },
+  "provenance": {
+    "source_item_id": "a93c084b-d587-4481-bfd5-45d7a91801ac",
+    "external_id": "https://www.shuttle.dev/blog/2024/04/10/using-opentelemetry-rust"
+  }
+}

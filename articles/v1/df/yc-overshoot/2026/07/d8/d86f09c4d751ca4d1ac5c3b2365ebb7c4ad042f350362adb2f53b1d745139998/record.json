@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d86f09c4d751ca4d1ac5c3b2365ebb7c4ad042f350362adb2f53b1d745139998",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/when-vlms-answer-without-seeing",
+    "canonical": "https://www.overshoot.ai/blogs/when-vlms-answer-without-seeing"
+  },
+  "title": "When VLMs Answer Without Seeing: The Mirage Problem",
+  "summary": "Vision-language models can answer with confidence even when the image is blank, unrelated, or uninformative. An overview of mirages, why they matter, and how grounding checks can catch them.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:00:17.714410+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/07/d8/d86f09c4d751ca4d1ac5c3b2365ebb7c4ad042f350362adb2f53b1d745139998/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/07/d8/d86f09c4d751ca4d1ac5c3b2365ebb7c4ad042f350362adb2f53b1d745139998/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8116,
+    "sha256": "sha256:05e4d3935b784ee9b2fb7e6d480be1e61d2a425f04a6861a1e673257f7ae11c3",
+    "normalized_content_hash": "sha256:f659512052dc3d326f41143f90557d36dd32d255a72c809ac04168cfd88de3bb"
+  },
+  "provenance": {
+    "source_item_id": "e34184f4-650e-412c-b850-87414ce7149d",
+    "external_id": "https://www.overshoot.ai/blogs/when-vlms-answer-without-seeing"
+  }
+}

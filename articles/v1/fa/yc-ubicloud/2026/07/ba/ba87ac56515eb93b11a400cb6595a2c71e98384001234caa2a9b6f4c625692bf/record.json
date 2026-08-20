@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba87ac56515eb93b11a400cb6595a2c71e98384001234caa2a9b6f4c625692bf",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1",
+    "canonical": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1"
+  },
+  "title": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
+  "summary": "vLLM is an open-source inference engine that serves large language models. We deploy vLLM across GPUs and load open weight models like Llama 4 into it. vLLM sits at the intersection of AI and systems programming, so we thought that diving into its details might interest our readers.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/ba/ba87ac56515eb93b11a400cb6595a2c71e98384001234caa2a9b6f4c625692bf/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/ba/ba87ac56515eb93b11a400cb6595a2c71e98384001234caa2a9b6f4c625692bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20167,
+    "sha256": "sha256:87d995d5b54d3ee74595dcb6bc27f3721e59d0f899c3ceb0d91d7d676eb0fc25",
+    "normalized_content_hash": "sha256:108124a8a8a2f7411e7139e287eebab601dac39ee0c6e28237ed4910102fadd0"
+  },
+  "provenance": {
+    "source_item_id": "025f1853-cf41-4bc8-9056-f6fb1cc8c3c9",
+    "external_id": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1"
+  }
+}

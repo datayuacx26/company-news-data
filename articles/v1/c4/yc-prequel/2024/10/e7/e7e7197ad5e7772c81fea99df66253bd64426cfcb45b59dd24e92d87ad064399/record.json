@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7e7197ad5e7772c81fea99df66253bd64426cfcb45b59dd24e92d87ad064399",
+  "company": {
+    "key": "yc-prequel",
+    "name": "Prequel"
+  },
+  "source": {
+    "id": "yc-prequel-news-import-43b0021e02b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prequel.co/blog/how-fast-is-iceberg-on-snowflake/",
+    "canonical": "https://www.prequel.co/blog/how-fast-is-iceberg-on-snowflake/"
+  },
+  "title": "How fast is Iceberg on Snowflake?",
+  "summary": "We tested the performance of Iceberg tables, external tables, and native tables on Snowflake.",
+  "published_at": "2024-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:08:50.167024+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-19T20:03:18.384483+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-prequel/2024/10/e7/e7e7197ad5e7772c81fea99df66253bd64426cfcb45b59dd24e92d87ad064399/article.md",
+    "record": "articles/v1/c4/yc-prequel/2024/10/e7/e7e7197ad5e7772c81fea99df66253bd64426cfcb45b59dd24e92d87ad064399/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4005,
+    "sha256": "sha256:03125dbb37d25d8eca6c027db4f4f5ba7cb195d2ad5b282bba0481d09817882b",
+    "normalized_content_hash": "sha256:c47d01a878ff10d290902526a84ab30fcc04b332b8c3745c02c2dc8de1b0c98e"
+  },
+  "provenance": {
+    "source_item_id": "b77c60a0-da0c-4d06-b9d4-b70c5193eb02",
+    "external_id": "https://www.prequel.co/blog/how-fast-is-iceberg-on-snowflake/"
+  }
+}

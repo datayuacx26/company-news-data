@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0714ba8c6dbe292b7b9c4170ebb4171b17a6d2ee2d5bc9c3188b971a7555775d",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/pam-for-cloud-infrastructure-why-traditional-pam-falls-short/",
+    "canonical": "https://www.cloudanix.com/blog/pam-for-cloud-infrastructure-why-traditional-pam-falls-short/"
+  },
+  "title": "PAM for Cloud Infrastructure: Why Traditional PAM Falls Short and What to Do",
+  "summary": "Traditional PAM tools were built for on-premise infrastructure. This article breaks down exactly where they fall short in cloud environments — and what cloud-native privileged access management looks like in 2026.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/06/07/0714ba8c6dbe292b7b9c4170ebb4171b17a6d2ee2d5bc9c3188b971a7555775d/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/06/07/0714ba8c6dbe292b7b9c4170ebb4171b17a6d2ee2d5bc9c3188b971a7555775d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8048,
+    "sha256": "sha256:cc256034da53dcc18d4794f874dd2d838a7c8aa1da3282303f963c686622facd",
+    "normalized_content_hash": "sha256:6d67fed35776f1833be3fa552ecdf4bf43673f4ba9cf71572525a428cdde9d48"
+  },
+  "provenance": {
+    "source_item_id": "2b5993d3-3a80-494f-a51b-b4515c83815d",
+    "external_id": "https://www.cloudanix.com/blog/pam-for-cloud-infrastructure-why-traditional-pam-falls-short/"
+  }
+}

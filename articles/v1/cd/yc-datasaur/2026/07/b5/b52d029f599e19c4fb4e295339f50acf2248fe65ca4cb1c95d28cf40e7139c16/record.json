@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b52d029f599e19c4fb4e295339f50acf2248fe65ca4cb1c95d28cf40e7139c16",
+  "company": {
+    "key": "yc-datasaur",
+    "name": "Datasaur"
+  },
+  "source": {
+    "id": "yc-datasaur-news-import-9dd599cb2858",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://datasaur.ai/blog/why-cost-per-token-is-the-wrong-way-to-compare-ai-models",
+    "canonical": "https://datasaur.ai/blog/why-cost-per-token-is-the-wrong-way-to-compare-ai-models"
+  },
+  "title": "Why Cost Per Token Is the Wrong Way to Compare AI Models",
+  "summary": "Price per token is the wrong metric for model evaluation because a cheaper model that consumes twice the tokens, retries more often, or spirals on complex reasoning can easily cost more than the expensive one. The number that actually matters is the total cost to complete a real task on your specific workload.",
+  "published_at": "2026-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T15:28:56.996352+00:00",
+  "fetched_at": "2026-08-15T15:28:59.960180+00:00",
+  "last_updated_at": "2026-08-20T01:26:03.429280+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-datasaur/2026/07/b5/b52d029f599e19c4fb4e295339f50acf2248fe65ca4cb1c95d28cf40e7139c16/article.md",
+    "record": "articles/v1/cd/yc-datasaur/2026/07/b5/b52d029f599e19c4fb4e295339f50acf2248fe65ca4cb1c95d28cf40e7139c16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5684,
+    "sha256": "sha256:9a6a905abf51e1b44a35270f7a1e350f91f6c87c806f3e4c0737dced6dd56797",
+    "normalized_content_hash": "sha256:12448089f13e28fb1d33f326e89155645a8309bcd198573297eb9cd3b8bd263d"
+  },
+  "provenance": {
+    "source_item_id": "707218ae-61d1-452e-9d25-16dba6d7f779",
+    "external_id": "https://datasaur.ai/blog/why-cost-per-token-is-the-wrong-way-to-compare-ai-models"
+  }
+}

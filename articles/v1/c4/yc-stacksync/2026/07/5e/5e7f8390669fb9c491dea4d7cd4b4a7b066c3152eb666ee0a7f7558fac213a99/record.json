@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e7f8390669fb9c491dea4d7cd4b4a7b066c3152eb666ee0a7f7558fac213a99",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-amazon-rds-netsuite",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-amazon-rds-netsuite"
+  },
+  "title": "What a Real Two-Way Sync Between Amazon RDS and NetSuite Takes",
+  "summary": "Two-way sync between Amazon RDS and NetSuite: write-back, loop suppression, conflict rules, NetSuite governance, and how the four solution categories compare.",
+  "published_at": "2026-07-22T10:10:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/5e/5e7f8390669fb9c491dea4d7cd4b4a7b066c3152eb666ee0a7f7558fac213a99/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/5e/5e7f8390669fb9c491dea4d7cd4b4a7b066c3152eb666ee0a7f7558fac213a99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14618,
+    "sha256": "sha256:28a495dfeb04c24846f74128a97adbb6091a190b903cd62e765f3fc81ec4591c",
+    "normalized_content_hash": "sha256:ebbca93f375a011723163330586e8136dc9aa1795708d7e6793045cafdabcb28"
+  },
+  "provenance": {
+    "source_item_id": "ec17cd5f-46d1-4ce7-a9b9-bd8ee7f12b90",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-amazon-rds-netsuite"
+  }
+}

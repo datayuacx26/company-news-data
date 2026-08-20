@@ -1,0 +1,66 @@
+---
+schema_version: "1.0.0"
+document_id: "caca3f3f9702a8cff8659e175a27eab117bd2bce967d72465e78d1e52d462850"
+company_key: "jetblue-airways-corporation-common-stock"
+company: "JetBlue Airways Corporation"
+source_id: "jetblue-airways-corporation-common-stock-rss-50770ab2c3db"
+canonical_url: "https://ir.jetblue.com/news/news-details/2026/JetBlue-Announces-Webcast-of-Second-Quarter-2026-Earnings-Conference-Call/default.aspx"
+published_at: "2026-07-14T20:15:00+00:00"
+first_seen_at: "2026-07-25T10:12:10.387043+00:00"
+fetched_at: "2026-07-28T21:50:17.978782+00:00"
+content_hash: "sha256:f014fe218915be52dd4f33ba75309bb661daa0dfc2dbbb872c1aba95ffd0d04f"
+---
+
+# JetBlue Announces Webcast of Second Quarter 2026 Earnings Conference Call
+
+[View all news](https://ir.jetblue.com/news/default.aspx)
+
+
+## JetBlue Announces Webcast of Second Quarter 2026 Earnings Conference Call
+
+
+07/14/2026
+
+
+Download (opens in new window)
+
+
+NEW YORK--(BUSINESS WIRE)--
+
+
+JetBlue Airways Corporation (Nasdaq: JBLU) announced today that it will hold its quarterly conference call to discuss second quarter 2026 financial results on Tuesday, July 28th, 2026 at 10:00 a.m. ET.
+
+
+A live, listen-only webcast of the call will be available on JetBlue's investor relations website at the following web address:
+
+
+[http://investor.jetblue.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Finvestor.jetblue.com&esheet=54569957&newsitemid=20260714592643&lan=en-US&anchor=http%3A%2F%2Finvestor.jetblue.com&index=1&md5=3d3f827569651af6c2f8c553d6cca478)
+
+
+For those unable to listen to the live webcast, it will also be archived on JetBlue's investor relations website under 'Archived Events & Presentations' following the conference call.
+
+
+**About JetBlue**
+
+
+JetBlue is New York's Hometown Airline®️, and a leading carrier in Boston, Fort Lauderdale-Hollywood, Los Angeles, Orlando, and San Juan. JetBlue carries customers to more than 100 cities throughout the United States, Latin America, Caribbean, Canada, and Europe. For more information and the best fares, visit[jetblue.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.jetblue.com%2F&esheet=54569957&newsitemid=20260714592643&lan=en-US&anchor=jetblue.com&index=2&md5=2788ab9f40d47d8dff14ae24b0c7d832) .
+
+
+**JetBlue Investor Relations**
+Tel: +1 718 709 2202
+ir@jetblue.com
+
+
+Source: JetBlue
+
+
+**Multimedia Files:**
+
+
+Categories:
+
+
+Press Releases
+
+
+[View all news](https://ir.jetblue.com/news/default.aspx)

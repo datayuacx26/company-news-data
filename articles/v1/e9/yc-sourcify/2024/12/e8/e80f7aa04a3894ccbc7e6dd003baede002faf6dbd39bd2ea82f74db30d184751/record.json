@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e80f7aa04a3894ccbc7e6dd003baede002faf6dbd39bd2ea82f74db30d184751",
+  "company": {
+    "key": "yc-sourcify",
+    "name": "Sourcify"
+  },
+  "source": {
+    "id": "yc-sourcify-atom-032fbdbe2ab3",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://docs.sourcify.dev/blog/technical-verification-walkthrough/",
+    "canonical": "https://docs.sourcify.dev/blog/technical-verification-walkthrough/"
+  },
+  "title": "A Technical Walkthrough of Source Code Verification",
+  "summary": "Transparency, verifiability, and trustlessness are the core values of blockchains and Ethereum especially. We want the smart contracts we are interacting with to be open-source (right?). However you can't be sure if the open-source code you see is actually the one that lives on chain. I can show you a benign code on GitHub etc. and convince you to send your assets to a contract, but in reality it could be a malicious contract that's actually deployed at this address.",
+  "published_at": "2024-12-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:53:14.949974+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T01:47:52.875409+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-sourcify/2024/12/e8/e80f7aa04a3894ccbc7e6dd003baede002faf6dbd39bd2ea82f74db30d184751/article.md",
+    "record": "articles/v1/e9/yc-sourcify/2024/12/e8/e80f7aa04a3894ccbc7e6dd003baede002faf6dbd39bd2ea82f74db30d184751/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 50615,
+    "sha256": "sha256:d98a878ebf91ceb089768587261805045bd5008a49c58ed92c9903803f1ef13a",
+    "normalized_content_hash": "sha256:9ec74ef50c241accae6b7df308567f6e4e6a2442de3639a36d9a7abe037e1b9e"
+  },
+  "provenance": {
+    "source_item_id": "95dafe06-243b-4c6e-a846-52f9fb9d037b",
+    "external_id": "https://docs.sourcify.dev/blog/technical-verification-walkthrough/"
+  }
+}

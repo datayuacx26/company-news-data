@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "dianthus-therapeutics-inc-common-stock",
+    "name": "Dianthus Therapeutics Inc."
+  },
+  "record_count": 13,
+  "first_published_at": "2026-03-09T20:01:36+00:00",
+  "last_published_at": "2026-08-04T20:01:28+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/da/dianthus-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 18236,
+        "sha256": "sha256:874e370118f5d6fcb88b2c6dc1f4be27a18b3ce8cb9d4c5f64db85166fddbf3f",
+        "newest_at": "2026-08-04T20:01:28+00:00",
+        "oldest_at": "2026-03-09T20:01:36+00:00"
+      }
+    ]
+  }
+}

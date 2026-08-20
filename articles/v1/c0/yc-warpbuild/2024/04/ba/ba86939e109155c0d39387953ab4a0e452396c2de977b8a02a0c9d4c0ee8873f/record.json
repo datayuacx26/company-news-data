@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ba86939e109155c0d39387953ab4a0e452396c2de977b8a02a0c9d4c0ee8873f",
+  "company": {
+    "key": "yc-warpbuild",
+    "name": "WarpBuild"
+  },
+  "source": {
+    "id": "yc-warpbuild-news-import-6421ae0a6624",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.warpbuild.com/blog/docker-mirror-setup",
+    "canonical": "https://warpbuild.com/blog/docker-mirror-setup"
+  },
+  "title": "Docker registry mirror setup",
+  "summary": "Setup docker registry mirror for faster image pulls and avoiding rate limit issues",
+  "published_at": "2024-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:23:06.881853+00:00",
+  "fetched_at": "2026-07-28T22:25:56.819128+00:00",
+  "last_updated_at": "2026-08-19T19:07:02.741042+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-warpbuild/2024/04/ba/ba86939e109155c0d39387953ab4a0e452396c2de977b8a02a0c9d4c0ee8873f/article.md",
+    "record": "articles/v1/c0/yc-warpbuild/2024/04/ba/ba86939e109155c0d39387953ab4a0e452396c2de977b8a02a0c9d4c0ee8873f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8826,
+    "sha256": "sha256:44fd285adbe6b02c5abfd393446f3287b51393d3f1881828b8c2ffac43b06bb3",
+    "normalized_content_hash": "sha256:69c01a8cc17d6b88d60c71bc757bd6930e657cd11f22fe893d203893a11f4232"
+  },
+  "provenance": {
+    "source_item_id": "eedfca1e-3134-47a6-aaf7-65adbd7b26fa",
+    "external_id": "https://warpbuild.com/blog/docker-mirror-setup"
+  }
+}

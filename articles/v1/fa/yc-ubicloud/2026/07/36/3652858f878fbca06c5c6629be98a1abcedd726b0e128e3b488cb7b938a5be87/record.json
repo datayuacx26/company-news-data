@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3652858f878fbca06c5c6629be98a1abcedd726b0e128e3b488cb7b938a5be87",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+    "canonical": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit"
+  },
+  "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+  "summary": "In this blog post, we will explain how strict memory overcommit protects your database from catastrophic OOM (out of memory) kills. We will also share how a one character kernel bug forced us to temporarily disable this setting. Finally, we will explain our heuristic for determining the right memory overcommit limit. Hopefully, this will help you find the right setting for your workloads.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/36/3652858f878fbca06c5c6629be98a1abcedd726b0e128e3b488cb7b938a5be87/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/36/3652858f878fbca06c5c6629be98a1abcedd726b0e128e3b488cb7b938a5be87/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19326,
+    "sha256": "sha256:c51b3036fca84f8884c6fa05f952b4f8fd40d735839a8bba14742e798a7a5467",
+    "normalized_content_hash": "sha256:301daf40a21169e8e1252e340e1d13df8ecadef0acfdbe956d7baf341f7ad203"
+  },
+  "provenance": {
+    "source_item_id": "faa52ecc-b27d-4300-a3e8-940177299466",
+    "external_id": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit"
+  }
+}

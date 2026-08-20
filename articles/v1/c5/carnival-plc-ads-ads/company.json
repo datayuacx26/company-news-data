@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "carnival-plc-ads-ads",
+    "name": "Carnival Plc ADS"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-06-04T15:11:20+00:00",
+  "last_published_at": "2026-07-20T20:40:18+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c5/carnival-plc-ads-ads/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 14476,
+        "sha256": "sha256:2820acece4b9b6a2001b041ecc9cc355fec8d9c8d7a40ccda4bfdc8910ab8d95",
+        "newest_at": "2026-07-20T20:40:18+00:00",
+        "oldest_at": "2026-06-04T15:11:20+00:00"
+      }
+    ]
+  }
+}

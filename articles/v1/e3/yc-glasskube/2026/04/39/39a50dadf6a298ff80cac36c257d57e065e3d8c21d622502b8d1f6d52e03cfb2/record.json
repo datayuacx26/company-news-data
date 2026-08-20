@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "39a50dadf6a298ff80cac36c257d57e065e3d8c21d622502b8d1f6d52e03cfb2",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/docker-compose-mount-config-files/",
+    "canonical": "https://distr.sh/blog/docker-compose-mount-config-files/"
+  },
+  "title": "Mounting Configuration Files in Docker Compose",
+  "summary": "A practical guide to shipping configuration files like postgresql.conf inside a Docker Compose deployment. Covers bind mounts, custom images, the Compose configs top-level keyword with inline content, and Compose secrets for sensitive values.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2026/04/39/39a50dadf6a298ff80cac36c257d57e065e3d8c21d622502b8d1f6d52e03cfb2/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2026/04/39/39a50dadf6a298ff80cac36c257d57e065e3d8c21d622502b8d1f6d52e03cfb2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24067,
+    "sha256": "sha256:603e5bbd21e4a0b2b68c927f6ea297595f963d42a53ea322de481efe2d8e0fb3",
+    "normalized_content_hash": "sha256:be45bf4d765e37c04ed899c8974873f7f54973aea03b32f3d969791a0ffa3045"
+  },
+  "provenance": {
+    "source_item_id": "9497dc19-724b-4964-a249-cd2bb408592b",
+    "external_id": "https://distr.sh/blog/docker-compose-mount-config-files/"
+  }
+}

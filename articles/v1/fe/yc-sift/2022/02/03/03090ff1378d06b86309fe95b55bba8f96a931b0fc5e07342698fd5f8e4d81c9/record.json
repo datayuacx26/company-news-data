@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03090ff1378d06b86309fe95b55bba8f96a931b0fc5e07342698fd5f8e4d81c9",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-rss-afa0f6dcd9d7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/text-clusters-fighting-spam-content-using-neural-networks-and-unsupervised-ml-part-2/",
+    "canonical": "https://engineering.sift.com/text-clusters-fighting-spam-content-using-neural-networks-and-unsupervised-ml-part-2/"
+  },
+  "title": "Text clusters: Fighting spam content using neural networks and unsupervised ML – Part 2",
+  "summary": "In the part 1 of this blog series, we discussed the data science behind our new text clustering feature, as well as the work to identify the opportunity for this product. In this post, we’ll be talking about the decisions we made and lessons we learned while designing and building the systems needed to enable […]",
+  "published_at": "2022-02-16T17:46:45+00:00",
+  "first_seen_at": "2026-08-12T04:14:07.509173+00:00",
+  "fetched_at": "2026-08-12T04:14:09.389902+00:00",
+  "last_updated_at": "2026-08-20T02:40:47.603389+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2022/02/03/03090ff1378d06b86309fe95b55bba8f96a931b0fc5e07342698fd5f8e4d81c9/article.md",
+    "record": "articles/v1/fe/yc-sift/2022/02/03/03090ff1378d06b86309fe95b55bba8f96a931b0fc5e07342698fd5f8e4d81c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11678,
+    "sha256": "sha256:038a37e24831003a7ba9e161c086d2b9f6a8679343fdeae4f468fe8a68ea813b",
+    "normalized_content_hash": "sha256:f60335638d83a2dcae11593bd810019f587603d8c0b4b3116c106a487981794d"
+  },
+  "provenance": {
+    "source_item_id": "9e6c260d-785f-4a64-b41a-70bee5fcaae5",
+    "external_id": "https://engineering.sift.com/?p=2258"
+  }
+}

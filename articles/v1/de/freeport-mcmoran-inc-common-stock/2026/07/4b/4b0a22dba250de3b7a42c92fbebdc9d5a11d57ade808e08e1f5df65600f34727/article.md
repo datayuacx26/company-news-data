@@ -1,0 +1,76 @@
+---
+schema_version: "1.0.0"
+document_id: "4b0a22dba250de3b7a42c92fbebdc9d5a11d57ade808e08e1f5df65600f34727"
+company_key: "freeport-mcmoran-inc-common-stock"
+company: "Freeport-McMoRan Inc."
+source_id: "freeport-mcmoran-inc-common-stock-rss-bf79aaa5ec65"
+canonical_url: "https://fcx.com/freeport-features/07162026"
+published_at: "2026-07-16T20:48:38+00:00"
+first_seen_at: "2026-07-20T23:21:27.507706+00:00"
+fetched_at: "2026-08-20T01:52:14.281037+00:00"
+content_hash: "sha256:f00747d7b4524c48008adf94f50ba3da2e6601ad80080bcfe7d9e6473f0b062d"
+---
+
+# Vicki Seppala Retires After Three Decades with Freeport
+
+Vicki Seppala Retires After Three Decades with Freeport
+
+
+mboyle
+
+
+Thu, 07/16/2026 - 13:48
+
+
+Post Image
+
+
+July 16, 2026 - Email was the hot new technology when Vicki Seppala first got into the mining business more than three decades ago.
+
+
+Seppala had been working at a technology startup before joining Freeport, so she knew email – like any emerging technology – would create both opportunities and challenges. Email allowed instant and widespread communication. It also gobbled up a lot of time.
+
+
+That lesson stayed with her throughout her career. As a trailblazer who became the first woman mine manager in Chile, Seppala learned that progress often brings both benefits and challenges. Whether evaluating new technologies, managing complex projects or planning for future growth, those experiences proved valuable as she and her team worked to plan the future expansion of the Safford mine and its vast Lone Star reserves.
+
+
+Seppala retired recently as General Manager at Safford, closing a mining career that began in 1995 and took her from an entry-level geological engineer to leadership roles at mine sites across North and South America.
+
+
+**Designing the future at Safford**
+
+
+As Seppala’s retirement at the end of June neared, her focus was less on herself and more on industry advancements and the outlook for the site where she spent the previous four years.
+
+
+Safford is Freeport’s newest mine in the United States and has the potential to become one of its top producers, with estimates that future expansions could deliver an additional 300 to 400 million pounds of copper per year by the 2030s. It could be in operation for 100 years or more, Seppala said.
+
+
+Helping plan a project of that magnitude and length means predicting what mining will look like decades from now and integrating emerging technology still being developed. It also means working closely with a vast team of technical experts that Seppala credits with “doing the heavy lifting.” The mining industry in general and Freeport in particular have embraced high-tech solutions to squeeze more copper and other metals from the same ore bodies.
+
+
+Like email, that creates new opportunities and challenges.
+
+
+“Trying to understand how to take advantage of the technology that we have when it’s changing so rapidly complicates things a bit,” Seppala said. “It’s exciting and exhilarating to think about how different the Safford mine might look because we have the opportunity to really try to understand the direction that all of these technologies are going and build Safford in a way that can more readily take advantage of those things. It’s liberating because there are so many possibilities. But it’s also very difficult to draw the line in the sand.”
+
+
+**Connections to the community**
+
+
+Outside of work, Seppala, who graduated from the University of Arizona with a bachelor’s degree in Geological Engineering, has enjoyed time with family and participating in various outdoor activities – hiking, bicycling, camping and wildlife. She also has been active in various civic organizations, including the Lowell Institute for Mineral Resources at the University of Arizona; the Society for Mining, Metallurgy & Exploration; and Women in Mining, where she has served as an advocate and mentor for women pursuing mining careers.
+
+
+“We all live in these communities in which we work,” she said. “We all want to be proud of what we do and make sure that we do what’s right.”
+
+
+One of Seppala’s career highlights is being part of an industry shift that has seen women become a much larger share of the workforce at all levels. A trailblazer herself, Seppala became Chile’s first woman mine manager in 2006 and later served as mine manager at Morenci and general manager of the Climax and Safford mines.
+
+
+Retiring now comes with mixed emotions as this is such a historic time for mining, Seppala said shortly before her last day at Freeport at the end of June.
+
+
+“We are in the middle of writing a very exciting chapter about the dynamic change of mining right now,” she said. “People are going to write books about it in the future, and our company is at the forefront of the innovations in copper processing. It’s going to explode into something that’s game changing in the industry.”
+
+
+***Photo:*** Vicki Seppala was the first woman mine manager in Chile in 2006 and has held other top management positions with Freeport.

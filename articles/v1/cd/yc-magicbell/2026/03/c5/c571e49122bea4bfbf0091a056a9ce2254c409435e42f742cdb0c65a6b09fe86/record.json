@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c571e49122bea4bfbf0091a056a9ce2254c409435e42f742cdb0c65a6b09fe86",
+  "company": {
+    "key": "yc-magicbell",
+    "name": "MagicBell"
+  },
+  "source": {
+    "id": "yc-magicbell-news-import-9a6b19b555ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.magicbell.com/blog/webhooks-tutorial",
+    "canonical": "https://www.magicbell.com/blog/webhooks-tutorial"
+  },
+  "title": "Webhooks Tutorial: Getting Started Guide",
+  "summary": "‘This webhook tutorial walks you through how webhooks work, compares them with APIs, and includes a webhook example so you can start building event-driven integrations today.’",
+  "published_at": "2026-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T03:05:45.790203+00:00",
+  "fetched_at": "2026-07-28T22:17:51.657377+00:00",
+  "last_updated_at": "2026-08-19T18:43:36.382071+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-magicbell/2026/03/c5/c571e49122bea4bfbf0091a056a9ce2254c409435e42f742cdb0c65a6b09fe86/article.md",
+    "record": "articles/v1/cd/yc-magicbell/2026/03/c5/c571e49122bea4bfbf0091a056a9ce2254c409435e42f742cdb0c65a6b09fe86/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17750,
+    "sha256": "sha256:af036cbc2fa3a1042335cfd31f587ad0f8ab8ed0923d5bd43756976454829c96",
+    "normalized_content_hash": "sha256:667b46ff539c422c744e7515bcca9ce3ebbbdce682693a7dd773cb614299db84"
+  },
+  "provenance": {
+    "source_item_id": "06445188-d387-44cc-b5e7-ed7f79711e9d",
+    "external_id": "https://www.magicbell.com/blog/webhooks-tutorial"
+  }
+}

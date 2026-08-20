@@ -1,0 +1,42 @@
+---
+schema_version: "1.0.0"
+document_id: "ab4c34a6700c5db26b35bf45c93efcf5c4cb644042bf56bb5a8f0bfa9fdf0bae"
+company_key: "global-mofy-ai-limited-class-a-ordinary-shares"
+company: "Global Mofy AI Limited"
+source_id: "global-mofy-ai-limited-class-a-ordinary-shares-news-import-74df21782676"
+canonical_url: "https://www.globenewswire.com/news-release/2026/05/28/3302900/0/en/global-mofy-enters-into-cooperation-with-amazon-web-services-aws-and-advances-aigc-computing-infrastructure-deployment.html"
+published_at: "2026-05-28T13:00:00+00:00"
+first_seen_at: "2026-07-26T15:11:10.262354+00:00"
+fetched_at: "2026-07-28T21:46:32.935029+00:00"
+content_hash: "sha256:6547511a7402ce93c3dcef3014d1c84f756138e41152b8622309164dc485aeb2"
+---
+
+# Global Mofy Enters into Cooperation with Amazon Web Services (AWS) and Advances AIGC Computing Infrastructure Deployment
+
+BEIJING, May 28, 2026 (GLOBE NEWSWIRE) -- **Global Mofy AI Limited** (the “Company” or “Global Mofy”) (Nasdaq: GMM), a generative AI-driven technology solutions provider engaged in virtual content production and the development of 3D digital assets, today announced that it has entered into cooperation with Amazon Web Services (“AWS”), a globally leading cloud computing platform, to carry out multi-dimensional collaboration including digital asset library upgrades, cloud deployment, and related technical infrastructure support. At the same time, to support the continued advancement of the Company’s self-developed AIGC intelligent content platform and related agent products, Global Mofy is also making parallel arrangements on computing resources, Application Programming Interface (“API”) integration, and related technical capability building. The coordinated progress of these efforts marks a strategically significant step in the Company’s buildout of a “cloud-based digital asset foundation + intelligent content computing infrastructure” framework.
+
+
+As a technology-driven company with long-standing experience in the digital content industry, Global Mofy has accumulated a large-scale library of high-precision 3D and digital assets. Its cooperation with AWS represents a further upgrade in the Company’s capabilities in digital asset management, system architecture optimization, and cloud deployment. Leveraging AWS’s cloud infrastructure, elastic computing capabilities, scalable storage capacity, and security and compliance safeguards, Global Mofy continues to advance the cloud deployment and upgrade of its core digital asset library, further improving the efficiency of asset storage, access, scheduling, and management. At the same time, cloud-based and standardized management of these assets is expected to provide a more robust technical foundation for the Company’s continued investment in generative AI, enhancing internal system support for high-quality asset data invocation, collaboration, and subsequent application-layer development.
+
+
+While continuing to advance the cloud upgrade of its digital asset library, Global Mofy is also accelerating the buildout of supporting technical infrastructure around its previously disclosed industrial-grade AIGC content creation platform and related multi-agent collaborative mechanisms, which were announced in connection with the Company’s strategic cooperation with Shanghai Infinigence AI Co., Ltd. These platform-related development efforts are primarily intended to support application needs within intelligent content production workflows, including creative understanding, task decomposition, asset retrieval, generation execution, workflow coordination, quality control and delivery management. To support related research and development, testing, deployment, and subsequent iteration, the Company is simultaneously advancing foundational capabilities including computing resource allocation, API service integration, access to relevant model capabilities, and coordination of technical resources. As the cloud-based digital asset foundation, API integration capabilities, and computing resource support continue to improve, the Company expects to further strengthen the underlying synergy between its digital asset system and AIGC applications, providing ongoing support for the development and rollout of its next-generation intelligent content platform.
+
+
+In the Company’s view, high-quality digital assets and stable, scalable computing resources are both essential foundations for the continued evolution of AIGC content production capabilities. The parallel progress of digital asset library cloud upgrades and related computing infrastructure deployment reflects Global Mofy’s forward-looking technical preparation for intelligent content development. By gradually improving this dual-engine infrastructure of “digital assets + computing support,” the Company expects to further strengthen its technical capabilities in content generation, asset invocation, workflow collaboration, and platform-based operations, thereby creating more favorable conditions for future product development and business commercialization.
+
+
+Mr. Haogang Yang, Chairman and Chief Executive Officer of Global Mofy, commented: “High-quality digital assets are the fuel of the AIGC industry, while powerful computing capacity is the engine. Our decision to fully connect our extensive digital asset library to Amazon Web Services at this time, while simultaneously advancing cooperation with core computing service providers, is intended to achieve the deepest possible integration between the two. Global Mofy is currently at a critical stage of fully focusing on intelligent content development, and this combined strategy of ‘data + computing power’ will help establish strong technological barriers for our upcoming next-generation intelligent content platform and position us advantageously in the commercialization of AIGC.”
+
+
+**About Global Mofy AI Limited**
+Global Mofy AI Limited (Nasdaq: GMM) is a generative AI-driven technology solutions provider engaged in virtual content production, and the development of digital assets for the digital content industry. Utilizing its proprietary “Mofy Lab” technology platform, which consists of interactive 3D and artificial intelligence (“AI”) technology, the Company creates high-definition virtual versions of a wide range of physical world objects in 3D ranging from characters, objects to scenes and more. The digital assets can be used in different applications, including movies, TV series, AR/VR, animation, advertising, gaming, and more. Global Mofy Metaverse is one of the leading digital asset banks in China, which consists of more than 150,000 high-precision 3D digital assets. For more information, please visit www.globalmofy.ai or ir.globalmofy.cn.
+
+
+**Forward-Looking Statement**
+This press release contains forward-looking statements. Forward-looking statements include statements concerning plans, objectives, goals, strategies, future events or performance, and underlying assumptions and other statements that are other than statements of historical facts. When the Company uses words such as “may,” “will,” “intend,” “should,” “believe,” “expect,” “anticipate,” “project,” “estimate” or similar expressions that do not relate solely to historical matters, it is making forward-looking statements. Forward-looking statements are not guarantees of future performance and involve risks and uncertainties that may cause the actual results to differ materially from the Company’s expectations discussed in the forward-looking statements. These statements are subject to uncertainties and risks including, but not limited to, the uncertainties related to market conditions, our ability to keep pace with new technology and changing market needs, and the competitive environment of our business. These and other factors may cause our actual results to differ materially from any forward-looking statement. For these reasons, among others, investors are cautioned not to place undue reliance upon any forward-looking statements in this press release. Additional factors are discussed in the Company’s filings with the SEC, which are available for review at www.sec.gov. The Company undertakes no obligation to publicly revise these forward-looking statements to reflect events or circumstances that arise after the date hereof.
+
+
+**For more information, please contact:**
+Global Mofy AI Ltd.
+Investor Relations Department
+ir@mof-vfx.com

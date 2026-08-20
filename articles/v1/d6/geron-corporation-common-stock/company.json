@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "geron-corporation-common-stock",
+    "name": "Geron Corporation"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-05-18T20:01:09+00:00",
+  "last_published_at": "2026-08-18T20:01:29+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d6/geron-corporation-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14118,
+        "sha256": "sha256:f1a4faf9e1ad34bc5c2a9ad1645ab262ff5585b0495c688f4a1153edb7cacfb0",
+        "newest_at": "2026-08-18T20:01:29+00:00",
+        "oldest_at": "2026-05-18T20:01:09+00:00"
+      }
+    ]
+  }
+}

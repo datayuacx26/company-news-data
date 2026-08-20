@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d02a504ed4e56f6074d4a409f744ddc17eb509b9e431023d0ba81406be4c92ec",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-voice-agents-for-patient-access",
+    "canonical": "https://roark.ai/blog/testing-voice-agents-for-patient-access"
+  },
+  "title": "Testing voice agents for patient access",
+  "summary": "Patient access voice agents are moving from pilot to infrastructure. A QA playbook for scheduling, intake, eligibility, and safe escalation.",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T12:48:12.522755+00:00",
+  "fetched_at": "2026-08-19T12:48:15.447311+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/d0/d02a504ed4e56f6074d4a409f744ddc17eb509b9e431023d0ba81406be4c92ec/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/d0/d02a504ed4e56f6074d4a409f744ddc17eb509b9e431023d0ba81406be4c92ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13424,
+    "sha256": "sha256:b308371838ad249641c131838e728d473fc40a06563d5fb16328bbb15774207b",
+    "normalized_content_hash": "sha256:48643bf3adbbf94f0af31278b82f09854ade87ff6984a1dc76e98950c8c71f49"
+  },
+  "provenance": {
+    "source_item_id": "eff16627-d577-44fd-b4d0-737897fe2c6a",
+    "external_id": "https://roark.ai/blog/testing-voice-agents-for-patient-access"
+  }
+}

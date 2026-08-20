@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f572cb00b5f30bd43999c05c87a0dc23404a8e447402bd43fabd7199cc5e8895",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/08/11/authentication-tutorial",
+    "canonical": "https://www.shuttle.dev/blog/2022/08/11/authentication-tutorial"
+  },
+  "title": "Building an authentication system in Rust using session tokens",
+  "summary": "Building authentication into a website with Rust and SQL",
+  "published_at": "2022-08-17T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/08/f5/f572cb00b5f30bd43999c05c87a0dc23404a8e447402bd43fabd7199cc5e8895/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/08/f5/f572cb00b5f30bd43999c05c87a0dc23404a8e447402bd43fabd7199cc5e8895/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33039,
+    "sha256": "sha256:52b6386fc2d90d01452b9c4a54e66ed554810ec6c5d4c94aecc5bbf845b3e5a6",
+    "normalized_content_hash": "sha256:1e445de8320668f91806dd6ce56004549bae061f11174a03c00abefaa72c1d5e"
+  },
+  "provenance": {
+    "source_item_id": "bc05c25e-74d3-4690-8dae-a4093474b3bf",
+    "external_id": "https://www.shuttle.dev/blog/2022/08/11/authentication-tutorial"
+  }
+}

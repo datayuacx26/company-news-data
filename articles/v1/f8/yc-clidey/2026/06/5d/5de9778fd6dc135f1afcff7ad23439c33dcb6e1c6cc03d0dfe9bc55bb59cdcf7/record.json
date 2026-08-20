@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5de9778fd6dc135f1afcff7ad23439c33dcb6e1c6cc03d0dfe9bc55bb59cdcf7",
+  "company": {
+    "key": "yc-clidey",
+    "name": "Clidey"
+  },
+  "source": {
+    "id": "yc-clidey-rss-03eb479b7595",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.clidey.com/the-database-stack-has-changed-why-are-we-still-using-database-tools-built-for-2010/",
+    "canonical": "https://blog.clidey.com/the-database-stack-has-changed-why-are-we-still-using-database-tools-built-for-2010/"
+  },
+  "title": "The Database Stack Has Changed. Why Are We Still Using Database Tools Built for 2010?",
+  "summary": "Most engineering teams don’t rely on a single database anymore. Modern stacks are a mix of specialized systems: Postgres for transactions, Redis for caching, Elasticsearch for search, Neo4j for relationships, object storage for files, and vector databases for AI. The hard part is managing them all.",
+  "published_at": "2026-06-29T09:00:00+00:00",
+  "first_seen_at": "2026-07-24T22:35:58.719229+00:00",
+  "fetched_at": "2026-07-28T21:08:50.237722+00:00",
+  "last_updated_at": "2026-08-20T03:17:05.894879+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-clidey/2026/06/5d/5de9778fd6dc135f1afcff7ad23439c33dcb6e1c6cc03d0dfe9bc55bb59cdcf7/article.md",
+    "record": "articles/v1/f8/yc-clidey/2026/06/5d/5de9778fd6dc135f1afcff7ad23439c33dcb6e1c6cc03d0dfe9bc55bb59cdcf7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5802,
+    "sha256": "sha256:aad9650e45e705618c30f6d7facdc6565e56698eaaba85f11e854b05ba103237",
+    "normalized_content_hash": "sha256:bd5e3bafb23eb78ce9f1a1229e9b8fb9c05c90ac73527416b9ab09628ac55e7d"
+  },
+  "provenance": {
+    "source_item_id": "3ceb19ee-8bae-4ea6-b6d0-87a089b767b6",
+    "external_id": "6a422776d1649b0001217cfd"
+  }
+}

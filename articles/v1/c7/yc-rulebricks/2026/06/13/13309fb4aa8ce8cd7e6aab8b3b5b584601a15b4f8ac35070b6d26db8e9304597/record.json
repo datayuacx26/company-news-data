@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13309fb4aa8ce8cd7e6aab8b3b5b584601a15b4f8ac35070b6d26db8e9304597",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/the-missing-layer-in-segment-activation",
+    "canonical": "https://rulebricks.com/blog/the-missing-layer-in-segment-activation"
+  },
+  "title": "The Missing Layer in Segment Activation",
+  "summary": "Why segment activation breaks in production, and how a versioned decision layer makes customer actions consistent and explainable.",
+  "published_at": "2026-06-08T16:04:39+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-08-20T02:04:19.262566+00:00",
+  "last_updated_at": "2026-08-20T02:04:19.304136+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/06/13/13309fb4aa8ce8cd7e6aab8b3b5b584601a15b4f8ac35070b6d26db8e9304597/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/06/13/13309fb4aa8ce8cd7e6aab8b3b5b584601a15b4f8ac35070b6d26db8e9304597/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 694,
+    "sha256": "sha256:faad1b3c5bbc730aee40ed18698f005135d289ea350909f213183b2eb23b9333",
+    "normalized_content_hash": "sha256:89948b116f763fef8ff4a3f0500561c892ef6cebaa2db7f499dd4fc7ffd09d04"
+  },
+  "provenance": {
+    "source_item_id": "b70bfcde-582b-48f2-b137-b2ae838ec992",
+    "external_id": "https://rulebricks.com/blog/the-missing-layer-in-segment-activation"
+  }
+}

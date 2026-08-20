@@ -1,0 +1,77 @@
+---
+schema_version: "1.0.0"
+document_id: "c26e4f092a13538d882a4f50ae780b6cccbc1e0477dc60af2ebae8ed63d5192f"
+company_key: "veru-inc-common-stock"
+company: "Veru Inc."
+source_id: "veru-inc-common-stock-rss-bd49e4f731c5"
+canonical_url: "https://ir.verupharma.com/news-events/press-releases/detail/256/veru-announces-full-enrollment-for-phase-2b-plateau"
+published_at: "2026-07-27T12:10:00+00:00"
+first_seen_at: "2026-07-27T12:24:20.942737+00:00"
+fetched_at: "2026-07-28T21:47:36.059629+00:00"
+content_hash: "sha256:aa4f42c5d67a7ffaab8e0a294d543515a3aa0392f042004aa731e6f3a9033816"
+---
+
+# Veru Announces Full Enrollment for Phase 2b PLATEAU Clinical Trial of Enobosarm and Semaglutide Combination for High Quality Weight Loss
+
+# Veru Announces Full Enrollment for Phase 2b PLATEAU Clinical Trial of Enobosarm and Semaglutide Combination for High Quality Weight Loss
+
+
+July 27, 2026 8:10am EDT[Download as PDF](https://d1io3yog0oux5.cloudfront.net/_1dd6a89e9adf8776db6ce87641c5232c/verupharma/news/2026-07-27_Veru_Announces_Full_Enrollment_for_Phase_2b_256.pdf)
+
+
+**-- Phase 2b PLATEAU clinical trial exceeds targeted full enrollment of 200 patients —**
+
+
+**-- Interim analysis results on track for calendar Q1 ‘27--**
+
+
+MIAMI, FL, July 27, 2026 (GLOBE NEWSWIRE) -- Veru Inc. (NASDAQ: VERU), a late clinical stage biopharmaceutical company focused on developing innovative medicines for the treatment of cardiometabolic and inflammatory diseases, today announced the completion of enrollment in the Phase 2b PLATEAU clinical study to evaluate the effect of oral enobosarm 3 mg versus placebo on total body weight, fat mass, lean mass, physical function, bone mineral density and safety in ~200 older patients (age ≥ 65 years) who have obesity (BMI ≥ 35) and are initiating semaglutide treatment for weight reduction. The interim analysis results from the study are expected in the first quarter of calendar year 2027 with final topline clinical data expected in the fourth quarter of calendar year 2027.
+
+
+“We are extremely pleased to have expeditiously completed enrollment in the Phase 2b PLATEAU clinical trial, which marks an important milestone in the development of enobosarm as a potential next generation combination therapy with GLP-1 receptor agonists for older patients with obesity,” said Mitchell Steiner, M.D., Chairman, President, and Chief Executive Officer of Veru Inc. “There remains a significant unmet medical need in older patients with obesity who are more likely to have low muscle reserves to make weight reduction more tissue selective by maximizing fat loss while preserving lean mass, physical function, and bone mineral density for the highest quality weight reduction. Retaining muscle and preserving physical function burns more fat potentially enabling patients to break through the weight loss plateau to have greater weight reduction.”
+
+
+Dr. Steiner added: “Achieving greater than full enrollment across the study sites reflects the dedication of patients, investigators, healthcare professionals, and the Veru team. This accomplishment advances our mission to make the weight loss process as healthy as it can be, benefiting patients and making their lives better.”
+
+
+**Veru Obesity Program: Evaluating enobosarm in combination with GLP-1 RA for higher quality weight reduction in older patients with obesity**
+
+
+**Fully Enrolled Phase 2b PLATEAU Clinical Study**
+Phase 2b PLATEAU clinical trial is a double-blind, placebo-controlled study to evaluate the effect of enobosarm 3mg on total body weight, fat mass, lean mass, physical function, bone mineral density and safety in approximately 200 older patients (age ≥ 65 years) who have obesity (BMI ≥ 35) and are initiating semaglutide treatment for weight reduction. The Phase 2b PLATEAU study is designed to assess the ability of enobosarm treatment to break through the weight loss plateau observed in patients with obesity receiving GLP-1 RA treatment by preserving muscle mass and physical function to achieve clinically meaningful incremental weight reduction by 68 weeks.
+
+
+The primary efficacy endpoint of the study is the percent change from baseline in total body weight at 68 weeks. The key secondary endpoints are total fat mass, total lean mass, physical function (stair climb test), mobility disability assessment, bone mineral density, and patient reported outcome questionnaires for physical function, HbA1c, and insulin resistance. Results of an interim analysis assessing lean body mass and fat mass as measured by DXA after subjects have completed 32 weeks is expected in the first quarter of calendar year 2027. Final topline clinical data is expected in the fourth quarter of calendar year 2027.
+
+
+In June 2026 Veru announced a clinical supply agreement with Novo Nordisk for its Phase 2b PLATEAU clinical study*. Please see the Company’s SEC Form 8-K dated June 2, 2026 for further details.
+
+
+**Completed Phase 2b QUALITY Clinical Study**
+The Phase 2b QUALITY clinical study is a positive multicenter, double-blind, placebo-controlled, randomized, dose-finding clinical trial that evaluated the safety and efficacy of enobosarm 3 mg, enobosarm 6 mg, or placebo as a treatment to augment fat loss and to prevent muscle loss in 168 older patients (≥60 years of age) receiving semaglutide (Wegovy®**) for weight reduction. After the efficacy dose-finding portion of the Phase 2b QUALITY clinical trial was completed at 16 weeks, participants continued into a Phase 2b maintenance extension study where all patients discontinued semaglutide treatment, but continued receiving placebo, enobosarm 3 mg, or enobosarm 6 mg as monotherapy in a double-blind fashion for 12 weeks. The Phase 2b QUALITY and Maintenance Extension clinical trial was a positive study that demonstrated that enobosarm plus semaglutide preserved lean mass and physical function, and led to greater fat loss during the 16 week active weight loss period and enobosarm monotherapy prevented the regain of weight lost when the GLP-1 RA was discontinued.
+
+
+**About Veru Inc.**
+Veru is a late clinical stage biopharmaceutical company focused on developing innovative medicines for the treatment of cardiometabolic and inflammatory diseases. The Company’s drug development program includes two late-stage novel small molecules, enobosarm and sabizabulin. Enobosarm, an oral selective androgen receptor modulator (SARM), is being developed as a next generation drug that makes weight reduction by GLP-1 RA drugs more tissue selective for loss of fat and preservation of lean mass to improve body composition and physical function which is expected to result in clinically meaningful incremental weight reduction versus GLP-1 RA therapy alone. Sabizabulin, a microtubule disruptor, is being developed for the treatment of chronic inflammation related to atherosclerotic cardiovascular disease.
+
+
+**Forward-Looking Statements**
+This press release contains "forward-looking statements" as that term is defined in the Private Securities Litigation Reform Act of 1995, including, without limitation, express or implied statements related to the planned design, enrollment, timing, commencement, interim, topline and full data readout timing, scope and regulatory pathways for the continued development of enobosarm in patients with obesity, including the PLATEAU Phase 2b study; the planned design, number of sites, timing, endpoints, patient population and patient size of such trial and whether the PLATEAU trial will successfully meet any of its primary or secondary endpoints; whether the results of the Phase 2b QUALITY study and the extension maintenance study of enobosarm, including weight loss, preservation of lean mass and physical function and loss of fat mass, will be replicated to the same or any degree in the PLATEAU Phase 2b study or in any future Phase 3 studies; whether and when the PLATEAU Phase 2b study of enobosarm will produce an interim analysis and/or topline data; whether enobosarm in combination with a GLP-1 RA drug will provide a higher quality and/or greater quantity weight loss in patients and whether enobosarm will be the next generation combination therapy with GLP-1 receptor agonists for older patients with obesity drug that makes weight reduction more tissue selective for loss of fat, preservation of lean mass, physical function, improved body composition and maintaining or increasing bone mineral density, and demonstrating favorable HbA1c and insulin resistance results, all while maintaining a favorable safety profile; whether patients treated with enobosarm in the PLATEAU Phase 2B study will break through the weight loss plateau and achieve clinically meaningful incremental weight reduction by preserving muscle mass and physical function; whether enobosarm will enhance or achieve a higher quality weight loss or the preservation of muscle in, or meet any unmet need for, obesity patients, including whether it will enable patients to break through the weight loss plateau or provide important insights into quality weight loss therapy and the design of a Phase 3 clinical development program; and whether the Company will be successful in its transformation into a late stage biopharmaceutical company focused on obesity and inflammatory disease. The words "anticipate," "believe," "could," "expect," "intend," "may," "opportunity," "plan," "predict," "potential," "estimate," "should," "will," "would" and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Any forward-looking statements in this press release are based upon current plans and strategies of the Company and reflect the Company's current assessment of the risks and uncertainties related to its business and are made as of the date of this press release. The Company assumes no obligation to update any forward-looking statements contained in this press release because of new information or future events, developments, or circumstances. Such forward-looking statements are subject to known and unknown risks, uncertainties and assumptions, and if any such risks or uncertainties materialize or if any of the assumptions prove incorrect, our actual results could differ materially from those expressed or implied by such statements. Factors that may cause actual results to differ materially from those contemplated by such forward-looking statements include, but are not limited to: the development of the Company’s product portfolio and the results of clinical studies, including any interim or topline analysis, possibly being unsuccessful or insufficient to meet applicable regulatory standards or warrant continued development; although the Company has sought and received feedback from the FDA on the designs of its clinical trials and intends to continue to do so, the FDA may ultimately disagree that the Company’s clinical trials support approval; the Company’s ability to reach agreement with FDA on study design requirements for the Company’s planned clinical studies, including for the Phase 2b program for enobosarm as a weight loss or body composition drug and the number of future Phase 3 studies to be required and the cost thereof; potential delays in the timing of and results from clinical trials and studies, including as a result of an inability to enroll sufficient numbers of subjects in clinical studies or an inability to enroll subjects in accordance with planned schedules; the ability to fund planned clinical development as well as other operations of the Company; the Company plans to prioritize the use of its current internal cash to the development of enobosarm, with a primary near-term focus on funding its PLATEAU Phase 2b clinical trial, and as a result advancement of sabizabulin as a treatment for slowing progression of or promoting regression of atherosclerosis disease will depend upon the Company securing additional funding; whether the Company will be able to partner with another company in the development of enobosarm or sabizabulin; the timing of any submission to the FDA or any other regulatory authority and any determinations made by the FDA or any other regulatory authority; the potential for disruptions at the FDA or other government agencies to negatively affect our business, including as a result of a future shutdown of the U.S. government; any products of the Company, if approved, possibly not being commercially successful; the risk that the Supply Agreement with Novo Nordisk could be terminated prior to the completion of the Company’s PLATEAU Phase 2b clinical trial, including pursuant to a provision that permits Novo Nordisk to terminate for convenience upon 60 days’ prior notice; the ability of the Company to obtain sufficient financing, including any partnership or collaboration agreements, on acceptable terms when needed to fund development and operations and to enable us to continue as a going concern; the effect of the SEC’s “baby shelf” rules on the Company’s ability to raise sufficient capital when needed; demand for, market acceptance of, and competition against any of the Company’s products or product candidates; new or existing competitors with greater resources and capabilities and new competitive product approvals and/or introductions; changes in regulatory practices or policies or government-driven healthcare reform efforts, including pricing pressures and insurance coverage and reimbursement changes; the Company’s ability to protect and enforce its intellectual property; costs and other effects of litigation, including regulatory challenges, product liability claims, intellectual property, securities litigation and litigation with the purchaser of the Company’s FC2 business; the Company’s ability to identify, successfully negotiate and complete suitable acquisitions or other strategic initiatives; the Company’s ability to successfully integrate acquired businesses, technologies or products; and other risks detailed from time to time in the Company’s press releases, shareholder communications and Securities and Exchange Commission filings, including the Company's Form 10-K for the year ended September 30, 2025, and subsequent quarterly reports on Form 10-Q. These documents are available on the “SEC Filings” section of our website at[www.verupharma.com/investors](https://www.globenewswire.com/Tracker?data=vIAzuaJPgNuslhr0x2dFo1jzAxU6s1FsYct8Divj30yAlSZkKobx27Sa4AXDGu-SYfHpjm6jjL6UywAcnFz_joPzvLwCyEzQ_j8p-LjHPLIxhIIZzKavdI7wr_R06JvoO-eT84gqiTgOCCnX_ooy3ZAlnyGQkQbbVwVBSoaYmi7_R2az6H-UzIfSjuv5zkx4fBQG1krlWfSX1Zzqj5OoTUXUhiJsoxsxc5TJ_y_VgOoiJyqLwP_Q7147juaN52NfPzrxrCguey903jcxJuaypp8KnC7jwCA7ajfn7f--zMvYCMaywvVYt5HBMbW5BjsB) .
+
+
+*Novo Nordisk’s participation in the PLATEAU study does not constitute endorsement of enobosarm or the combination approach tested in the study and Novo Nordisk’s supply of Wegovy® for the study does not constitute any representation regarding Wegovy’s requirement for adjunctive therapy.
+
+
+**Wegovy® is a registered trademark of Novo Nordisk A/S.
+
+
+Investor and Media Contact:
+Samuel Fisch
+Executive Director, Investor Relations and Corporate Communications
+Email:[veruinvestor@verupharma.com](https://www.globenewswire.com/Tracker?data=CTap4ANvCzJe1oLCdiID92lYJiLZ_CyXFEOLvF2BWG-WDM4524MlfhWX4YPOT_OEBoCgkYyTL6KurUpgkbQPcMn6c_OpsQp5FvWUtX4ZXQSN4hHZ7Gw9lPRmj0OgHTgU)
+
+
+Source: Veru Inc.
+
+
+Released July 27, 2026

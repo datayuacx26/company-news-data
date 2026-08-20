@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-emobi",
+    "name": "Emobi"
+  },
+  "record_count": 8,
+  "first_published_at": "2024-08-09T00:00:00+00:00",
+  "last_published_at": "2025-05-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/cf/yc-emobi/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 7397,
+        "sha256": "sha256:c44c804d47fd6193d046294a5fe26387368adc5ce7892db546e7db4696630f9e",
+        "newest_at": "2026-07-28T21:36:14.883471+00:00",
+        "oldest_at": "2024-08-09T00:00:00+00:00"
+      }
+    ]
+  }
+}

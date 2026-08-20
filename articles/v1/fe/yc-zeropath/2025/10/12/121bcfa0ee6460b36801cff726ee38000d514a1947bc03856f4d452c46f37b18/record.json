@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "121bcfa0ee6460b36801cff726ee38000d514a1947bc03856f4d452c46f37b18",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/how-zeropath-won-over-curl-with-170-valid-bugs",
+    "canonical": "https://zeropath.com/blog/how-zeropath-won-over-curl-with-170-valid-bugs"
+  },
+  "title": "How ZeroPath's AI Code Scanner Won Over the curl Project with 170 Valid Bug Reports",
+  "summary": "ZeroPath's AI-based static analyzer uncovered 170 verified issues in curl, from C footguns to logic and RFC compliance bugs across HTTP/3, SMTP, IMAP, TFTP, Telnet, and SSH/SFTP, with curl maintainer Daniel Stenberg praising the quality -- proof that AI source code analyzers can produce high-quality findings even in the curl project, not just AI slop.",
+  "published_at": "2025-10-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2025/10/12/121bcfa0ee6460b36801cff726ee38000d514a1947bc03856f4d452c46f37b18/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2025/10/12/121bcfa0ee6460b36801cff726ee38000d514a1947bc03856f4d452c46f37b18/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12319,
+    "sha256": "sha256:20c8244e8aef2246f2d8b7f46153b657402b22c20c318a564af95cc95c105766",
+    "normalized_content_hash": "sha256:02226e3800170bb2a27891ee34e36f06e8806f266da9e15319c4ad3e72e3ef97"
+  },
+  "provenance": {
+    "source_item_id": "c5c33111-7246-4abe-9f0f-cdeff76fb6ab",
+    "external_id": "https://zeropath.com/blog/how-zeropath-won-over-curl-with-170-valid-bugs"
+  }
+}

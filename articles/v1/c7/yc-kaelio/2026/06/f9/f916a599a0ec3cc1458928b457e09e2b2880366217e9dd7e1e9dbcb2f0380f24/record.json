@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f916a599a0ec3cc1458928b457e09e2b2880366217e9dd7e1e9dbcb2f0380f24",
+  "company": {
+    "key": "yc-kaelio",
+    "name": "Kaelio"
+  },
+  "source": {
+    "id": "yc-kaelio-news-import-d43a8938b457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kaelio.com/blog/building-a-context-layer-for-the-agentic-era",
+    "canonical": "https://www.kaelio.com/blog/building-a-context-layer-for-the-agentic-era"
+  },
+  "title": "Beyond the Semantic Layer: Building a Context Layer for the Agentic Era",
+  "summary": "A context layer puts your warehouse schema, joins, metric definitions, and business knowledge in one reviewable place so data agents query governed context instead of guessing field names. A look at how it works, and at ktx, the open-source context layer.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:10:57.591835+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T00:20:28.214979+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-kaelio/2026/06/f9/f916a599a0ec3cc1458928b457e09e2b2880366217e9dd7e1e9dbcb2f0380f24/article.md",
+    "record": "articles/v1/c7/yc-kaelio/2026/06/f9/f916a599a0ec3cc1458928b457e09e2b2880366217e9dd7e1e9dbcb2f0380f24/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21331,
+    "sha256": "sha256:e90f6cfbf88e85e7c120da1122a7b16c1e4fff1e014f0bf03b59ab253168cf05",
+    "normalized_content_hash": "sha256:f0e58c305049391265d5f7aae1cca5cd809ca4985a50ae56ae4e4c8a22d9ff5b"
+  },
+  "provenance": {
+    "source_item_id": "9b8fc0fe-1f84-47c4-8ade-aff68ede82e9",
+    "external_id": "https://www.kaelio.com/blog/building-a-context-layer-for-the-agentic-era"
+  }
+}

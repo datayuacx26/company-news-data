@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-goodcover",
+    "name": "Goodcover"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-07-08T13:45:19+00:00",
+  "last_published_at": "2026-02-05T08:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 9
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d3/yc-goodcover/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12532,
+        "sha256": "sha256:6bc247f02a693dac2b25c278eab84a9f0fa4e850dfadb275e5cb0378cde81821",
+        "newest_at": "2026-02-05T08:00:00+00:00",
+        "oldest_at": "2025-07-08T13:45:19+00:00"
+      }
+    ]
+  }
+}

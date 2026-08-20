@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7295f96fa9ca840af3cbae2f9a21a3be9c62a73edd02174ef0e6e09816197423",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/test-voice-agent-barge-in-interruption-handling",
+    "canonical": "https://roark.ai/blog/test-voice-agent-barge-in-interruption-handling"
+  },
+  "title": "How to test voice agent barge-in and interruption handling",
+  "summary": "Barge-in is where voice agents feel human or robotic. Here is how to test interruption handling systematically instead of hoping it works in production.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:07:13.352567+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-29T07:24:51.957063+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/07/72/7295f96fa9ca840af3cbae2f9a21a3be9c62a73edd02174ef0e6e09816197423/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/07/72/7295f96fa9ca840af3cbae2f9a21a3be9c62a73edd02174ef0e6e09816197423/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4454,
+    "sha256": "sha256:d576da5b104275b153f3a1bb41eb9cd05b60b2c1aa2ead3bad5fd48b2eebf0f2",
+    "normalized_content_hash": "sha256:81f9dcee21b7d3e7f3fd9d7d870e81432f7486d4310308988c981f74d4006434"
+  },
+  "provenance": {
+    "source_item_id": "814c5aae-8e27-4f7c-bbff-15a100141e31",
+    "external_id": "https://roark.ai/blog/test-voice-agent-barge-in-interruption-handling"
+  }
+}

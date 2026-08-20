@@ -1,0 +1,226 @@
+---
+schema_version: "1.0.0"
+document_id: "2f3eb51d76ce8075348ea2acda9abfd9e01ccad36ba278832c6261ce4848364e"
+company_key: "disc-medicine-inc-common-stock"
+company: "Disc Medicine Inc."
+source_id: "disc-medicine-inc-common-stock-rss-d609e88d8657"
+canonical_url: "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-reports-second-quarter-2026-financial-results-and"
+published_at: "2026-07-30T12:30:38+00:00"
+first_seen_at: "2026-07-30T14:23:06.546084+00:00"
+fetched_at: "2026-07-30T14:23:08.125056+00:00"
+content_hash: "sha256:d12c00f6f75854a892f8116f6e36dd2b4d300270d14e9ca23d90b0cc9f162d49"
+---
+
+# Disc Medicine Reports Second Quarter 2026 Financial Results and Provides Business Update
+
+- *Completed Type A meeting with the FDA on bitopertin and aligned that the Phase 3 APOLLO study, if successful, can serve as the basis for CRL response; topline data expected in Q4 2026*
+
+
+- *Launched Expanded Access Program (EAP) for bitopertin for eligible erythropoietic protoporphyria (EPP) patients*
+
+
+- *Presented positive clinical data updates from the RALLY-MF Phase 2 trial of selcodebart (DISC-0974) in anemia of myelofibrosis and the HELIOS open-label extension trial of bitopertin in EPP*
+
+
+- *Completed enrollment for RESTORE-PV Phase 2 study of DISC-3405 in polycythemia vera (PV) with initial data expected in Q3 2026 and progressing Phase 1b study of DISC-3405 in sickle cell disease (SCD) with initial data expected in Q4 2026*
+
+
+- *Strong financial position ending Q2 with approximately $718 million in cash, cash equivalents, and marketable securities, providing runway into 2029*
+
+
+WATERTOWN, Mass., July 30, 2026 (GLOBE NEWSWIRE) -- Disc Medicine, Inc. (NASDAQ:IRON), a clinical-stage biopharmaceutical company focused on the discovery, development, and commercialization of novel treatments for patients suffering from serious hematologic diseases, today reported financial results for the second quarter ended June 30, 2026, and provided a review of recent program and corporate developments.
+
+
+“The anticipated readout of the Phase 3 APOLLO trial of bitopertin in EPP in Q4 marks a significant milestone. We have continued driving forward on this program over the past quarter with the launch of our EAP,” said John Quisel, J.D., Ph.D., Chief Executive Officer and President of Disc. “We also look forward to significant advancement across the rest of our pipeline in the second half of 2026. We saw strong demand for the Phase 2 RESTORE-PV trial of DISC-3405 in polycythemia vera, which is now fully enrolled with initial data coming ahead of schedule in Q3. Along with an expected end of Phase 2 FDA interaction on selcodebart in MF anemia in Q4, we will potentially be positioned to advance two more programs into pivotal-stage development in 2027.”
+
+
+**Recent Highlights and Anticipated Milestones:**
+
+
+**Bitopertin: GlyT1 Inhibitor (Heme Synthesis Modulator)**
+
+
+- Completed Type A meeting with the FDA to discuss the CRL for bitopertin in erythropoietic protoporphyria (EPP) and aligned that the Phase 3 APOLLO study, if successful, can serve as the basis for CRL response and could potentially support a traditional approval
+- Presented updated data from the HELIOS open-label extension trial of bitopertin in EPP at the European Hematology Association (EHA) Annual Meeting, demonstrating sustained reductions in protoporphyrin IX (PPIX), significant improvement in light tolerance measures, and favorable longer-term safety
+- Launched an Expanded Access Program (EAP) for bitopertin in the US and select other geographies, providing eligible patients with EPP and XLP access to treatment prior to a regulatory decision
+- On track to report APOLLO topline results in Q4 2026 and expect to submit CRL response and receive an FDA decision by mid-2027
+
+
+- APOLLO completed enrollment in March 2026 and enrolled ahead of schedule with a final N of 183
+
+
+**Selcodebart (DISC-0974): Anti-Hemojuvelin Antibody (Hepcidin Suppression)**
+
+
+- Shared updated data from RALLY-MF trial of selcodebart in anemia of myelofibrosis (MF) in oral presentations at the American Society of Clinical Oncology (ASCO) and European Hematology Association (EHA) annual meetings, solidifying selcodebart’s differentiated emerging profile in MF. Data showed:
+
+
+- Major anemia response rate of 56% and overall anemia response rate of 72% across evaluable patients
+- Similar, strong response rates across transfusion cohorts and with or without background JAK inhibitor therapy
+
+
+- Additional data from RALLY-MF anticipated in Q4 2026, with an end-of-Phase 2 meeting with the FDA expected to occur by year-end
+- Received EU Orphan Drug Designation for selcodebart for the treatment of myelofibrosis
+- Progressing Phase 2 study in patients with inflammatory bowel disease (IBD) with initial data expected in 2027
+
+
+**DISC-3405: Anti-TMPRSS6 Antibody (Hepcidin Induction)**
+
+
+- Completed enrollment for RESTORE-PV Phase 2 study in patients with polycythemia vera with initial data expected in Q3 2026
+- Progressing Phase 1b study in patients with sickle cell disease with initial data expected in Q4 2026
+
+
+**Second Quarter 2026 Financial Results:**
+
+
+- **Cash Position:** Cash, cash equivalents, and marketable securities were $717.7 million as of June 30, 2026, which are expected to fund operational plans into 2029.
+
+
+- **Research and Development Expenses:** R&D expenses were $46.9 million for the three months ended June 30, 2026, as compared to $46.3 million for the three months ended June 30, 2025. The increase in R&D expenses was primarily driven by the progression of Disc's portfolio, including the advancement of the selcodebart (DISC-0974) and DISC-3405 clinical studies and drug manufacturing, as well as increased headcount. These increases were partially offset by a decrease in manufacturing costs related to bitopertin and a $10.0 million milestone payment incurred upon initiation of the APOLLO study during the comparative period.
+
+
+- **Selling, General and Administrative Expenses:** SG&A expenses were $18.1 million for the three months ended June 30, 2026, as compared to $15.1 million for the three months ended June 30, 2025. The increase in SG&A expenses was primarily due to increased headcount.
+
+
+- **Net Loss:** Net loss was $59.5 million for the three months ended June 30, 2026, as compared to $55.2 million for the three months ended June 30, 2025. The increase was primarily due to higher operating costs in the current period to support the continued advancement of our pipeline.
+
+
+**About Disc Medicine**
+
+
+Disc Medicine (NASDAQ:IRON) is a clinical-stage biopharmaceutical company committed to discovering, developing, and commercializing novel treatments for patients who suffer from serious hematologic diseases. We are building a portfolio of innovative, potentially first-in-class therapeutic candidates that aim to address a wide spectrum of hematologic diseases by targeting fundamental biological pathways of red blood cell biology, specifically heme biosynthesis and iron homeostasis. For more information, please visit[www.discmedicine.com](https://www.globenewswire.com/Tracker?data=Sc_kpF0eG38SmNbQB-5058g8CwDXE4cbos3azviXApWQ8qcjT4sTFv1_hUizyApb7ZQZuRILx0vNRXpoVN7OO_RkKOBMfpWE_4FmxgYvwBg=) .
+
+
+**Available Information**
+
+
+Disc announces material information to the public about the Company, its products and services, and other matters through a variety of means, including filings with the U.S. Securities and Exchange Commission (SEC), press releases, public conference calls, webcasts and the investor relations section of the Company website at[ir.discmedicine.com](https://www.globenewswire.com/Tracker?data=_oIqrqoK4KMFeuWA28VuAsmR5qve8G7Gu6JsjVAc4DdejVI780CFjMa9ZHzIXbzD7pV17Nw-Hqpue8jWs3zBkZueCsWs_WOa8AlLM0X8bF8=) in order to achieve broad, non-exclusionary distribution of information to the public and for complying with its disclosure obligations under Regulation FD.
+
+
+**Disc Cautionary Statement Regarding Forward-Looking Statements**
+
+
+This press release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, including, but not limited to, express or implied statements regarding: Disc’s expectations with respect to the next stages of its development programs for bitopertin, selcodebart (DISC-0974) and DISC-3405, including projected timelines for the initiation and completion of its clinical trials, anticipated timing of release of data, and other clinical activities; the registrational pathway for bitopertin, including the potential for traditional approval, the potential for the APOLLO clinical trial to serve as the basis for the CRL response and any such approval, and the timing of any such approval, if granted; anticipated discussions with regulatory agencies; and the strength of its financial position and its anticipated cash runway. The use of words such as, but not limited to, “believe,” “expect,” “estimate,” “project,” “intend,” “future,” “potential,” “continue,” “may,” “might,” “plan,” “will,” “should,” “seek,” “anticipate,” or “could” or the negative of these terms and other similar words or expressions that are intended to identify forward-looking statements. Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based on Disc’s current beliefs, expectations and assumptions regarding the future of Disc’s business, future plans and strategies, clinical results and other future conditions. New risks and uncertainties may emerge from time to time, and it is not possible to predict all risks and uncertainties. No representations or warranties (expressed or implied) are made about the accuracy of any such forward-looking statements.
+
+
+Disc may not actually achieve the plans, intentions or expectations disclosed in these forward-looking statements, and investors should not place undue reliance on these forward-looking statements. Actual results or events could differ materially from the plans, intentions and expectations disclosed in the forward-looking statements as a result of a number of material risks and uncertainties including but not limited to: the adequacy of Disc’s capital to support its future operations and its ability to successfully initiate and complete clinical trials; the nature, strategy and focus of Disc; the difficulty in predicting the time and cost of development of Disc’s product candidates; Disc’s plans to research, develop and commercialize its current and future product candidates; the timing of initiation of Disc’s planned preclinical studies and clinical trials; the timing of the availability of data from Disc’s clinical trials; Disc’s ability to identify additional product candidates with significant commercial potential and to expand its pipeline in hematological diseases; the timing and anticipated results of Disc’s preclinical studies and clinical trials and the risk that the results of Disc’s preclinical studies and clinical trials may not be predictive of future results in connection with future studies or clinical trials and may not support further development and marketing approval; the content and timing of decisions made by the FDA and other regulatory authorities; and the other risks and uncertainties described in Disc’s filings with the Securities and Exchange Commission, including in the “Risk Factors” section of Disc’s Annual Report on Form 10-K for the year ended December 31, 2025, and in subsequent Quarterly Reports on Form 10-Q. Any forward-looking statement speaks only as of the date on which it was made. None of Disc, nor its affiliates, advisors or representatives, undertake any obligation to publicly update or revise any forward-looking statement, whether as result of new information, future events or otherwise, except as required by law.
+
+
+**Media Contact**
+
+
+Peg Rusconi
+Deerfield Group
+[peg.rusconi@deerfieldgroup.com](https://www.globenewswire.com/Tracker?data=opAEaL8zBg_Fs2z43x7nKTjG6DMFHPnK_yJv0RXSU2OfYyK8XJGErZ_eBDjcaqLYL5LsLcCSravc8p14o_bLqtdtnNWXgjo1b_gNO0bClj-fX3JrkIbG8zU143EL8A3f)
+
+
+**Investor Relations Contact**
+
+
+Christina Tartaglia
+Precision AQ
+[christina.tartaglia@precisionaq.com](https://www.globenewswire.com/Tracker?data=G7U428sw7dmzqkCDWMXEqXrw_CU3WHlZxEsQLguHGAAABFvL7JyoiUe7dSeSHXOOTjbUj-UH5ACgB95oLpMkZaO64aBfxrtDHR4xCa6IAPadfCdLq39KZIkOjxvQxB34s8ktTKO_hvEq0yjIzm2iDw==)
+
+
+**DISC MEDICINE, INC.**
+
+
+**CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS**
+
+
+**(In thousands, except share and per share amounts)**
+
+
+**(Unaudited)**
+
+
+​ **Three months ended**
+**June 30,** **Six Months Ended**
+**June 30,**
+
+
+​ **2026** **​** **2025** **​** **2026** **​** **2025**
+
+
+Operating expenses: ​ ​ **​** ​
+
+
+Research and development ​ $ 46,933 $ 46,319 $ 92,837 $ 74,082
+
+
+Selling, general and administrative ​ 18,142 15,091 41,762 27,274
+
+
+Total operating expenses ​ 65,075 ​ 61,410 **​** 134,599 ​ 101,356
+
+
+Loss from operations ​ (65,075 ) ​ (61,410 ) **​** (134,599 ) ​ (101,356 )
+
+
+Other income (expense), net 5,612 ​ 6,215 **​** 11,683 ​ 12,195
+
+
+Income tax expense ​ (69 ) (52 ) (120 ) (171 )
+
+
+Net loss ​ $ (59,532 ) ​ $ (55,247 ) **​** $ (123,036 ) ​ $ (89,332 )
+
+
+Net loss per share, basic and diluted ​ $ (1.54 ) ​ $ (1.58 ) **​** $ (3.19 ) ​ $ (2.61 )
+
+
+Weighted-average common shares outstanding, basic and diluted ​ 38,685,565 35,024,592 38,589,035 34,179,364
+
+
+**DISC MEDICINE, INC.**
+
+
+**CONDENSED CONSOLIDATED BALANCE SHEETS**
+
+
+**(In thousands)**
+
+
+**​** **June 30,**
+**2026** **December 31,**
+**2025**
+
+
+**(Unaudited)**
+
+
+**Assets** ​
+
+
+Cash, cash equivalents, and marketable securities ​ $ 717,746 $ 791,152
+
+
+Other current assets ​ 15,015 12,746
+
+
+Total current assets ​ 732,761 803,898
+
+
+Non-current assets ​ 2,310 2,981
+
+
+Total assets ​ $ 735,071 $ 806,879
+
+
+**Liabilities and Stockholders’ Equity** ​
+
+
+Current liabilities ​ $ 30,360 $ 36,641
+
+
+Non-current liabilities ​ 60,547 30,412
+
+
+Total liabilities ​ 90,907 67,053
+
+
+Total stockholders’ equity ​ 644,164 739,826
+
+
+Total liabilities and stockholders’ equity ​ $ 735,071 $ 806,879

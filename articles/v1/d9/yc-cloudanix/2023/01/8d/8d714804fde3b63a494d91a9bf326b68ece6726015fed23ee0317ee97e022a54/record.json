@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d714804fde3b63a494d91a9bf326b68ece6726015fed23ee0317ee97e022a54",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/creating-cname-for-google-cloud-functions/",
+    "canonical": "https://www.cloudanix.com/blog/creating-cname-for-google-cloud-functions/"
+  },
+  "title": "Creating CNAME for Google Cloud Functions",
+  "summary": "Step-by-step guide to creating a CNAME for Google Cloud Functions using load balancers, serverless NEGs, and path matchers for custom domains.",
+  "published_at": "2023-01-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2023/01/8d/8d714804fde3b63a494d91a9bf326b68ece6726015fed23ee0317ee97e022a54/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2023/01/8d/8d714804fde3b63a494d91a9bf326b68ece6726015fed23ee0317ee97e022a54/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7994,
+    "sha256": "sha256:ad95844cfadf5af48545edc234eba5cd49e47f6ca1397dde3a409f6552d0f339",
+    "normalized_content_hash": "sha256:28912ea3566e7194cc111fc7d8d4c71e37b779b316661c37f8dcdd910dbb792a"
+  },
+  "provenance": {
+    "source_item_id": "c5fecd5f-224d-4636-b092-ff54bb31061c",
+    "external_id": "https://www.cloudanix.com/blog/creating-cname-for-google-cloud-functions/"
+  }
+}

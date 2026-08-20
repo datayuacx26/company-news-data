@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23464c7d57cd5b816d309f51e3d3a6b119fbdf9e2239015156e87640c756311b",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/wp-workbench-version-2-0-9-released/136399",
+    "canonical": "https://forum.virtualmin.com/t/wp-workbench-version-2-0-9-released/136399"
+  },
+  "title": "WP Workbench version 2.0.9 released",
+  "summary": "Howdy all, We’ve rolled out WP Workbench 2.0.9 plugin for all Virtualmin Pro users. Changes since 2.0.8: Add error handling for a corrupt cache data file Fix not to trigger the add and delete domain API unless the script is supported Changes since 2.0.7: Fix to add config option to open links in the new tab",
+  "published_at": "2026-01-26T11:43:17+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:54:41.720106+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/01/23/23464c7d57cd5b816d309f51e3d3a6b119fbdf9e2239015156e87640c756311b/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/01/23/23464c7d57cd5b816d309f51e3d3a6b119fbdf9e2239015156e87640c756311b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1389,
+    "sha256": "sha256:e6a37ae33f453e27c66076eda312b4f17263bb357ca7114ed9cf5d16589780ae",
+    "normalized_content_hash": "sha256:e4d20abe49f0fbac8bf0e4ed41c8629a99e23404d09e554138c8323a8d59d26c"
+  },
+  "provenance": {
+    "source_item_id": "d993eeff-0afd-4f54-8508-21b2ff134526",
+    "external_id": "forum.virtualmin.com-topic-136399"
+  }
+}

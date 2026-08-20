@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27fa5fddaf80b3fdcd60fff48d99b070204499f2a00cfe279d70656ac03c841c",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/running-docker-in-production/",
+    "canonical": "https://distr.sh/blog/running-docker-in-production/"
+  },
+  "title": "Should I Run Plain Docker Compose in Production in 2026?",
+  "summary": "Yes, plain Docker Compose can still run production workloads in 2026, but only if you close the operational gaps it leaves: cleanup, healing, image pinning, socket security, and updates.",
+  "published_at": "2026-04-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2026/04/27/27fa5fddaf80b3fdcd60fff48d99b070204499f2a00cfe279d70656ac03c841c/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2026/04/27/27fa5fddaf80b3fdcd60fff48d99b070204499f2a00cfe279d70656ac03c841c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18630,
+    "sha256": "sha256:0763325255589cb1e444ff6ac26a23599db74462cf9cc4a2766dd95d0321aa3a",
+    "normalized_content_hash": "sha256:0938d544fe29c2aabea11fdb80e131a7e4e7602e6cad749151ac27c30a0c6eea"
+  },
+  "provenance": {
+    "source_item_id": "c3cc2d42-8351-4818-9e5d-985ec5a2f224",
+    "external_id": "https://distr.sh/blog/running-docker-in-production/"
+  }
+}

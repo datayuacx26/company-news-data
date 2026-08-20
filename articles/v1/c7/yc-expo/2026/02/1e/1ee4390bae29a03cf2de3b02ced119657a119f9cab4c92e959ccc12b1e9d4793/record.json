@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ee4390bae29a03cf2de3b02ced119657a119f9cab4c92e959ccc12b1e9d4793",
+  "company": {
+    "key": "yc-expo",
+    "name": "Expo"
+  },
+  "source": {
+    "id": "yc-expo-rss-ee8e6cc345e2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://expo.dev/blog/ship-smaller-ota-updates-bundle-diffing-comes-to-ota-updates-in-sdk-55",
+    "canonical": "https://expo.dev/blog/ship-smaller-ota-updates-bundle-diffing-comes-to-ota-updates-in-sdk-55"
+  },
+  "title": "Ship smaller OTA updates: bundle diffing comes to EAS Update in SDK 55",
+  "summary": "SDK 55 introduces bundle diffing in EAS Update. Devices now download patches instead of full bundles, reducing download sizes by up to 75%.",
+  "published_at": "2026-02-27T19:15:42+00:00",
+  "first_seen_at": "2026-07-25T03:54:08.173860+00:00",
+  "fetched_at": "2026-08-17T13:40:04.677169+00:00",
+  "last_updated_at": "2026-08-17T13:40:04.708094+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-expo/2026/02/1e/1ee4390bae29a03cf2de3b02ced119657a119f9cab4c92e959ccc12b1e9d4793/article.md",
+    "record": "articles/v1/c7/yc-expo/2026/02/1e/1ee4390bae29a03cf2de3b02ced119657a119f9cab4c92e959ccc12b1e9d4793/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 741,
+    "sha256": "sha256:80a725a00ecef273e48947259b2595a7323ef72125715dc71de1fa3694583ce5",
+    "normalized_content_hash": "sha256:cf11f6e97dc729e889ecde63d562889f97cafb44be53158d73103db8edeb6aef"
+  },
+  "provenance": {
+    "source_item_id": "716d419a-877d-4384-855c-56f8e538aa82",
+    "external_id": "0f1d1416-322e-47b9-a15c-6b6eb5c0a862"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dbf388f195f3abedc27e946577df4a45885a1ed4c90138f348e50a3949b42577",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-aurora-postgresql-netsuite",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-aurora-postgresql-netsuite"
+  },
+  "title": "Zero-ETL Is Not Two-Way Sync: Aurora PostgreSQL and NetSuite",
+  "summary": "Two-way sync between Aurora PostgreSQL and NetSuite: why zero-ETL and DMS bidirectional are one-way, what the cluster adds, and how five approaches compare.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-29T17:32:43.435424+00:00",
+  "fetched_at": "2026-07-29T17:32:44.790239+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/db/dbf388f195f3abedc27e946577df4a45885a1ed4c90138f348e50a3949b42577/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/db/dbf388f195f3abedc27e946577df4a45885a1ed4c90138f348e50a3949b42577/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11858,
+    "sha256": "sha256:fda6cb0891dbedd6131da9ba45283c06a881f2c8da9f5d94cfa09c1bb3a31d78",
+    "normalized_content_hash": "sha256:c9f06a8e800fd8e52917757a9ec1fba09ded4716d626050c769bff566b6de23e"
+  },
+  "provenance": {
+    "source_item_id": "5ea04bff-35ce-4acd-b63a-85ed1cb87b3f",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-aurora-postgresql-netsuite"
+  }
+}

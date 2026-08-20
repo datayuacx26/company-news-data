@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e003801bedf2d7091145235d9a9e41539543ef9d9be9d0e2f1aeab493dcac748",
+  "company": {
+    "key": "yc-expo",
+    "name": "Expo"
+  },
+  "source": {
+    "id": "yc-expo-rss-ee8e6cc345e2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://expo.dev/blog/talking-to-jsi-in-swift",
+    "canonical": "https://expo.dev/blog/talking-to-jsi-in-swift"
+  },
+  "title": "Talking to JSI in Swift: what changed in SDK 56",
+  "summary": "In SDK 56, Expo's native modules call JSI directly on Apple platforms. The Objective-C++ layer is gone, and calls are 1.6–2.3x faster.",
+  "published_at": "2026-06-04T13:15:49+00:00",
+  "first_seen_at": "2026-07-25T03:54:08.173860+00:00",
+  "fetched_at": "2026-08-20T02:12:21.814142+00:00",
+  "last_updated_at": "2026-08-20T02:12:21.900721+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-expo/2026/06/e0/e003801bedf2d7091145235d9a9e41539543ef9d9be9d0e2f1aeab493dcac748/article.md",
+    "record": "articles/v1/c7/yc-expo/2026/06/e0/e003801bedf2d7091145235d9a9e41539543ef9d9be9d0e2f1aeab493dcac748/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 668,
+    "sha256": "sha256:05a692b386e5eb8b16831b510b8f0737ebc8756f47ff69d3f18d78f911f941c6",
+    "normalized_content_hash": "sha256:b7bc0b95b8855aea68be4e76e1ab58b07ff317c2c4a07fceadc0224c545cbb59"
+  },
+  "provenance": {
+    "source_item_id": "0c40036b-2a24-41bc-8344-7d691abe177c",
+    "external_id": "2a855a0a-10a7-4cdb-9c56-4cad1c18ea9e"
+  }
+}

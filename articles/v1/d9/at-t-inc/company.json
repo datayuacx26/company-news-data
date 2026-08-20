@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "at-t-inc",
+    "name": "AT&T Inc."
+  },
+  "record_count": 44,
+  "first_published_at": "2026-06-03T11:00:00+00:00",
+  "last_published_at": "2026-08-12T14:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 15
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 25
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d9/at-t-inc/index/pages/000001.json",
+        "record_count": 44,
+        "byte_count": 43080,
+        "sha256": "sha256:2de6ef6e56fdf5815b5345a4c422f62d53fb9dda68a435d18c63825cea9be490",
+        "newest_at": "2026-08-12T14:00:00+00:00",
+        "oldest_at": "2026-06-03T11:00:00+00:00"
+      }
+    ]
+  }
+}

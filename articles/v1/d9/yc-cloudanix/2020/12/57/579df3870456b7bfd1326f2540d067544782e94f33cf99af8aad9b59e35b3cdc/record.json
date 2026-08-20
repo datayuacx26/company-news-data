@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "579df3870456b7bfd1326f2540d067544782e94f33cf99af8aad9b59e35b3cdc",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/best-practices-for-aws-cloudtrail/",
+    "canonical": "https://www.cloudanix.com/blog/best-practices-for-aws-cloudtrail/"
+  },
+  "title": "Best Practices For AWS CloudTrail",
+  "summary": "AWS CloudTrail tracks user activity and API usage for compliance and security auditing. Learn best practices for log validation, encryption, and monitoring.",
+  "published_at": "2020-12-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2020/12/57/579df3870456b7bfd1326f2540d067544782e94f33cf99af8aad9b59e35b3cdc/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2020/12/57/579df3870456b7bfd1326f2540d067544782e94f33cf99af8aad9b59e35b3cdc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7978,
+    "sha256": "sha256:fa6dddedf251bce49b15ebae449ca7de14b8a3afd38de956703310ff6956353f",
+    "normalized_content_hash": "sha256:59f40dd392f24ba0ad3d45631d95fc865c7e0659f50696d7f5e883d648a94ece"
+  },
+  "provenance": {
+    "source_item_id": "8db6f548-195d-4614-a171-15d402bdb24f",
+    "external_id": "https://www.cloudanix.com/blog/best-practices-for-aws-cloudtrail/"
+  }
+}

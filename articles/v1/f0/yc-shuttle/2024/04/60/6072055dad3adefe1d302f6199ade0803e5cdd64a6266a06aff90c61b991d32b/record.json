@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6072055dad3adefe1d302f6199ade0803e5cdd64a6266a06aff90c61b991d32b",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/04/25/event-driven-services-using-kafka-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/04/25/event-driven-services-using-kafka-rust"
+  },
+  "title": "Event driven Microservices using Kafka and Rust",
+  "summary": "Building an event-driven microservice using Apache Kafka and Rust",
+  "published_at": "2024-04-25T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/04/60/6072055dad3adefe1d302f6199ade0803e5cdd64a6266a06aff90c61b991d32b/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/04/60/6072055dad3adefe1d302f6199ade0803e5cdd64a6266a06aff90c61b991d32b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30942,
+    "sha256": "sha256:fa83124c0d16594c5cb0b9f2c48aa7631ab093abb38bde593a66d41a23e94b0d",
+    "normalized_content_hash": "sha256:6c9c7f0b436ee47739290a77fa43475909ab59d1c08a768132f6b3a3da57a55b"
+  },
+  "provenance": {
+    "source_item_id": "fd6c27ae-b5cd-4205-aa4a-ae907e46ff96",
+    "external_id": "https://www.shuttle.dev/blog/2024/04/25/event-driven-services-using-kafka-rust"
+  }
+}

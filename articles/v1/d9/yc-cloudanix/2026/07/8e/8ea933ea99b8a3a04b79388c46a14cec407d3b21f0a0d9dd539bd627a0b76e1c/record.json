@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ea933ea99b8a3a04b79388c46a14cec407d3b21f0a0d9dd539bd627a0b76e1c",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/configuration-drift-management-detect-cloud-drift-before-incident/",
+    "canonical": "https://www.cloudanix.com/blog/configuration-drift-management-detect-cloud-drift-before-incident/"
+  },
+  "title": "Configuration Drift Management: How to Detect Cloud Drift Before It Becomes an Incident",
+  "summary": "Why cloud environments drift from intended state, how to detect it continuously across AWS, Azure, and GCP, and how to close the remediation gap.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/07/8e/8ea933ea99b8a3a04b79388c46a14cec407d3b21f0a0d9dd539bd627a0b76e1c/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/07/8e/8ea933ea99b8a3a04b79388c46a14cec407d3b21f0a0d9dd539bd627a0b76e1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 28280,
+    "sha256": "sha256:726689f80df84ad0e0da6b8196142d31b9e54753403544181716bb9cdf163c48",
+    "normalized_content_hash": "sha256:1405c7ab21d76a7f5d5456d7243f6876a9d98976ff10e72c1dbb80120409fbdc"
+  },
+  "provenance": {
+    "source_item_id": "7ac4cc5a-3df5-4367-b924-5fe035a6b23f",
+    "external_id": "https://www.cloudanix.com/blog/configuration-drift-management-detect-cloud-drift-before-incident/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ae6face09042ed325e7efad572620601fce18da452d9418dd5a648a21595929f",
+  "company": {
+    "key": "yc-nango",
+    "name": "Nango"
+  },
+  "source": {
+    "id": "yc-nango-news-import-e2ee807d6673",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nango.dev/blog/opentelemetry-ai-agent-observability",
+    "canonical": "https://nango.dev/blog/opentelemetry-ai-agent-observability/"
+  },
+  "title": "OpenTelemetry for AI agent observability: tracing agent tool calls and API integrations",
+  "summary": "How to use OpenTelemetry for AI agent observability, what it captures for tool calls and API integrations today, and how to set up a complete pipeline.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:26:32.018631+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T19:00:47.317759+00:00",
+  "paths": {
+    "article": "articles/v1/d5/yc-nango/2026/07/ae/ae6face09042ed325e7efad572620601fce18da452d9418dd5a648a21595929f/article.md",
+    "record": "articles/v1/d5/yc-nango/2026/07/ae/ae6face09042ed325e7efad572620601fce18da452d9418dd5a648a21595929f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14259,
+    "sha256": "sha256:0223e56a8e2d13ab90b5203d10722c2a6df25e81a89fbde8685f4f86078bc9ba",
+    "normalized_content_hash": "sha256:e30e1a222a37a824604ff2f10579e9e16a8f32684a5e704bc16a34185750e14f"
+  },
+  "provenance": {
+    "source_item_id": "34894444-e90d-4ec6-9773-c2bdfeedc8ff",
+    "external_id": "https://nango.dev/blog/opentelemetry-ai-agent-observability/"
+  }
+}

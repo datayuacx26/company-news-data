@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f9f9ca334307fa59ba357864c9fea39ba9d963398a503605b065b038aa40079",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/does-mhz-still-matter",
+    "canonical": "https://www.ubicloud.com/blog/does-mhz-still-matter"
+  },
+  "title": "Does MHz still matter?",
+  "summary": "We evaluated server performance for AMD EPYC and Ryzen (gaming) CPUs. In our benchmarks, we saw clear performance gains across VMs, managed PostgreSQL, and GitHub Actions runners.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/5f/5f9f9ca334307fa59ba357864c9fea39ba9d963398a503605b065b038aa40079/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/5f/5f9f9ca334307fa59ba357864c9fea39ba9d963398a503605b065b038aa40079/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5898,
+    "sha256": "sha256:c4c6bac718262e88c0256db08b7bb0eb28ce567b3c1ca3eefeda0890464efbf4",
+    "normalized_content_hash": "sha256:21b37347459da9f6fa4855a7ecbeb4e92e98a044358e0563be96b71c58fa0849"
+  },
+  "provenance": {
+    "source_item_id": "eb474bb5-f338-430d-8188-0cfecc167e46",
+    "external_id": "https://www.ubicloud.com/blog/does-mhz-still-matter"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ad947e898589e0246c457a83967d12acd72ee89d11bec4018dcffe1957b74c4c",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/claude-desktop-app-governance-playbook",
+    "canonical": "https://getunbound.ai/blog/claude-desktop-app-governance-playbook"
+  },
+  "title": "The Claude Desktop App Governance Playbook",
+  "summary": "Claude Desktop is no longer a chat app. It hosts chat, Cowork, and a launch surface for Claude Code, with MCP support, file access, and agentic execution on every knowledge worker's machine. Here is the governance playbook for security teams running it at scale.",
+  "published_at": "2026-05-21T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/05/ad/ad947e898589e0246c457a83967d12acd72ee89d11bec4018dcffe1957b74c4c/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/05/ad/ad947e898589e0246c457a83967d12acd72ee89d11bec4018dcffe1957b74c4c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16356,
+    "sha256": "sha256:1a80c8a8693104aa6ca34a3cb27f6cc25bb3a5c20fb76d2cc9dae949e5ee4823",
+    "normalized_content_hash": "sha256:27c7bf1516f9f5fb92e2bcafc8cc4bc5d48d7c64043bbb11157bc06604be13a8"
+  },
+  "provenance": {
+    "source_item_id": "b9e65d25-077c-4110-905c-fabf24d41760",
+    "external_id": "https://getunbound.ai/blog/claude-desktop-app-governance-playbook"
+  }
+}

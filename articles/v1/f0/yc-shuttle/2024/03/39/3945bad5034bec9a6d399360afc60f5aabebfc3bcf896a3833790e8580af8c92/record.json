@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3945bad5034bec9a6d399360afc60f5aabebfc3bcf896a3833790e8580af8c92",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/03/21/testing-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/03/21/testing-in-rust"
+  },
+  "title": "Everything you need to know about testing in Rust",
+  "summary": "Talking about everything testing in Rust, crates and tools included",
+  "published_at": "2024-03-21T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/03/39/3945bad5034bec9a6d399360afc60f5aabebfc3bcf896a3833790e8580af8c92/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/03/39/3945bad5034bec9a6d399360afc60f5aabebfc3bcf896a3833790e8580af8c92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19217,
+    "sha256": "sha256:e02450fc3436166da28e20e69716012afb6bace1f28275938a0b8fd0e810daf0",
+    "normalized_content_hash": "sha256:d874022d0a7f7deed2d6c78e549fa8b2f5af11bcde25b2a386e2c2cdc40ea5f3"
+  },
+  "provenance": {
+    "source_item_id": "492a4706-1d94-4ddd-b7ef-05684509b997",
+    "external_id": "https://www.shuttle.dev/blog/2024/03/21/testing-in-rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "55684cef44dd914656f5f6012c831584daeebf40eb5e59e4709b3cb743935dd2",
+  "company": {
+    "key": "yc-navier-ai",
+    "name": "Navier AI"
+  },
+  "source": {
+    "id": "yc-navier-ai-news-import-c904ef9ba107",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://navier.ai/blog/2026-02-25-Silent-Bugs-Lost-Missions",
+    "canonical": "https://www.navier.ai/blog/2026-02-25-Silent-Bugs-Lost-Missions"
+  },
+  "title": "Silent Bugs, Lost Missions: Why GNC Flight Software Is Moving to Rust",
+  "summary": "The history of spaceflight is full of hundred-million dollar lessons in what happens when flight software hits edge cases. Rust eliminates entire classes of bugs that end missions.",
+  "published_at": "2026-02-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T12:10:55.994382+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T23:03:57.683886+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-navier-ai/2026/02/55/55684cef44dd914656f5f6012c831584daeebf40eb5e59e4709b3cb743935dd2/article.md",
+    "record": "articles/v1/e0/yc-navier-ai/2026/02/55/55684cef44dd914656f5f6012c831584daeebf40eb5e59e4709b3cb743935dd2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13547,
+    "sha256": "sha256:53a7331bd64d19bc747abae792d3f0f46f003cb370e69aac208a4d0a46ed27d4",
+    "normalized_content_hash": "sha256:17acdacd29dcca3f7fcd9f29ab9118368a031238ecb6dbbd1e4170de063003b7"
+  },
+  "provenance": {
+    "source_item_id": "f635f67e-5b78-4e40-837e-2477ea622a59",
+    "external_id": "https://www.navier.ai/blog/2026-02-25-Silent-Bugs-Lost-Missions"
+  }
+}

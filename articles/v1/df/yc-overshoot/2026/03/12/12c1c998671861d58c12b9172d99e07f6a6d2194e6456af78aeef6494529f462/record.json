@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12c1c998671861d58c12b9172d99e07f6a6d2194e6456af78aeef6494529f462",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/qwen3.5-on-overshoot",
+    "canonical": "https://www.overshoot.ai/blogs/qwen3.5-on-overshoot"
+  },
+  "title": "Qwen 3.5: Architecture and Model Selection",
+  "summary": "A technical look at the Qwen 3.5 family: five natively multimodal models from 2B to 35B, hybrid attention, benchmark analysis, and which model to pick.",
+  "published_at": "2026-03-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/03/12/12c1c998671861d58c12b9172d99e07f6a6d2194e6456af78aeef6494529f462/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/03/12/12c1c998671861d58c12b9172d99e07f6a6d2194e6456af78aeef6494529f462/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13230,
+    "sha256": "sha256:cbbe0c9a7e6f9d39eaf5b3b8c44a15e0fa6cf929ad6756dc5df2fb90d441b10c",
+    "normalized_content_hash": "sha256:dd64eef8c51430981dbeb15f627be5a66cca0a9426a80e26156098e99264a3a3"
+  },
+  "provenance": {
+    "source_item_id": "3609397d-69b7-4041-b709-d81fead3ec4f",
+    "external_id": "https://www.overshoot.ai/blogs/qwen3.5-on-overshoot"
+  }
+}

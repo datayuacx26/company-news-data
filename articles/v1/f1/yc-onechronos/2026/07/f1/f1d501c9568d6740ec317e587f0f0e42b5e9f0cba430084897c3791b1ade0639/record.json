@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f1d501c9568d6740ec317e587f0f0e42b5e9f0cba430084897c3791b1ade0639",
+  "company": {
+    "key": "yc-onechronos",
+    "name": "OneChronos"
+  },
+  "source": {
+    "id": "yc-onechronos-news-import-ed8558a9e34d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.onechronos.com/insights/pairs-part-two/",
+    "canonical": "https://www.onechronos.com/insights/pairs-part-two/"
+  },
+  "title": "Pairs Without Legging Risk: Leg 2",
+  "summary": "In this second \"leg\" of a two-part series, we examine the economics of mitigating legging risk. A pairs trader may go off the lit markets in search of unique liquidity, or unique spreads. Here we show legging risk can erode her ability to execute at those spreads: reaching a unique spread means holding both legs off the market at once, which is no longer in play upon getting legged. OneChronos executes the pair as a single trade, so execution serves the strategy rather than eroding it, and pairs traders may harvest more unique liquidity with reduced execution uncertainty.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T17:48:26.237044+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-08-19T16:54:13.916003+00:00",
+  "paths": {
+    "article": "articles/v1/f1/yc-onechronos/2026/07/f1/f1d501c9568d6740ec317e587f0f0e42b5e9f0cba430084897c3791b1ade0639/article.md",
+    "record": "articles/v1/f1/yc-onechronos/2026/07/f1/f1d501c9568d6740ec317e587f0f0e42b5e9f0cba430084897c3791b1ade0639/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18042,
+    "sha256": "sha256:57fdd3cc55cc5c5e37b56be0ee1290dc7848833eb01fc40c33e3eae1add22efa",
+    "normalized_content_hash": "sha256:2c167257086de17c6852c16269cf2dac7c4ac84f9851205762dc0fcd34aab2da"
+  },
+  "provenance": {
+    "source_item_id": "06e71de6-36e5-43a9-9ec6-376f7f547371",
+    "external_id": "https://www.onechronos.com/insights/pairs-part-two/"
+  }
+}

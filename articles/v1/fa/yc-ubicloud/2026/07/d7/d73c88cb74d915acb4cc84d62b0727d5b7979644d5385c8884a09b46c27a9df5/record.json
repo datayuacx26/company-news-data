@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d73c88cb74d915acb4cc84d62b0727d5b7979644d5385c8884a09b46c27a9df5",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode",
+    "canonical": "https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode"
+  },
+  "title": "Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode",
+  "summary": "About a year ago, Hetzner launched the AX162 server line. It offered better price / performance than its predecessor, AX161. We were very excited to adopt it, but we soon encountered serious reliability issues. We observed that the new servers had 16 times higher annual failure rates.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/d7/d73c88cb74d915acb4cc84d62b0727d5b7979644d5385c8884a09b46c27a9df5/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/d7/d73c88cb74d915acb4cc84d62b0727d5b7979644d5385c8884a09b46c27a9df5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10821,
+    "sha256": "sha256:196cf763ef974ce581eb23f0e2e906e7c5fe8974bf7df1859a55dfd1899884e7",
+    "normalized_content_hash": "sha256:1ebbdb7c88c59a76abbd39a1649e05c9372effc4ea3c7943531a972427c6c7d5"
+  },
+  "provenance": {
+    "source_item_id": "bed6a563-cc1c-41a7-bebe-1e1cfa6b3220",
+    "external_id": "https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode"
+  }
+}

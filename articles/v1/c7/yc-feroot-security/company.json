@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-feroot-security",
+    "name": "Feroot Security"
+  },
+  "record_count": 44,
+  "first_published_at": "2022-07-13T13:37:21+00:00",
+  "last_published_at": "2026-07-31T17:41:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c7/yc-feroot-security/index/pages/000001.json",
+        "record_count": 44,
+        "byte_count": 48196,
+        "sha256": "sha256:edba2df01d0d8dccd0e3ac19558a6887f171652df695156a44e2f3a24c0fd68b",
+        "newest_at": "2026-07-31T17:41:00+00:00",
+        "oldest_at": "2022-07-13T13:37:21+00:00"
+      }
+    ]
+  }
+}

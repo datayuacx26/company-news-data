@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "084967604b897389f9eb306eeb584370ecb84a9313ff27239c29a0bade835fdd",
+  "company": {
+    "key": "yc-sourcify",
+    "name": "Sourcify"
+  },
+  "source": {
+    "id": "yc-sourcify-atom-032fbdbe2ab3",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://docs.sourcify.dev/blog/api-v1-brownouts/",
+    "canonical": "https://docs.sourcify.dev/blog/api-v1-brownouts/"
+  },
+  "title": "API v1 Brownouts: Time to Move to v2",
+  "summary": "Sourcify's legacy v1 API has been deprecated for a while. v2 has been the primary, recommended API for over a year: async job-based verification (no more hanging requests), richer responses (storage layouts, source maps, transformations, proxy resolution), clearer naming (exact_match / match instead of the confusing \"perfect\" / \"partial\"), and it's already serving 15M+ requests/day.",
+  "published_at": "2026-05-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:53:14.949974+00:00",
+  "fetched_at": "2026-07-28T21:14:13.187831+00:00",
+  "last_updated_at": "2026-08-20T01:47:52.875409+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-sourcify/2026/05/08/084967604b897389f9eb306eeb584370ecb84a9313ff27239c29a0bade835fdd/article.md",
+    "record": "articles/v1/e9/yc-sourcify/2026/05/08/084967604b897389f9eb306eeb584370ecb84a9313ff27239c29a0bade835fdd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4536,
+    "sha256": "sha256:1c5ea061ccfc58d2318ceb901f963953036237308dddb1fc68c5c579f76989f6",
+    "normalized_content_hash": "sha256:afa049df36a0bf2530d148d532c6b7a5236700f3663e293ebe71455bea757f0e"
+  },
+  "provenance": {
+    "source_item_id": "295536e5-c858-4602-9c7a-e1f49623d5d6",
+    "external_id": "https://docs.sourcify.dev/blog/api-v1-brownouts/"
+  }
+}

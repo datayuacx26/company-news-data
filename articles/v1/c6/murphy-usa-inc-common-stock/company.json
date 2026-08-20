@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "murphy-usa-inc-common-stock",
+    "name": "Murphy USA Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2026-01-13T21:31:00+00:00",
+  "last_published_at": "2026-08-13T20:31:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c6/murphy-usa-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 12450,
+        "sha256": "sha256:d47c704b4b1e654d7f3e67d9f951caaf87fc6a855d1441e2aa97866d0a9f2d7e",
+        "newest_at": "2026-08-13T20:31:00+00:00",
+        "oldest_at": "2026-01-13T21:31:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-prohostai",
+    "name": "ProhostAI"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-06-27T00:00:00+00:00",
+  "last_published_at": "2026-07-06T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f7/yc-prohostai/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 10027,
+        "sha256": "sha256:8ad665075c18ad25d856ebf5b0891eba9ca38b29f967ee9b3f7f8cc1b6821a4d",
+        "newest_at": "2026-07-06T00:00:00+00:00",
+        "oldest_at": "2025-06-27T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "primoris-services-corporation-common-stock",
+    "name": "Primoris Services Corporation"
+  },
+  "record_count": 1,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d0/primoris-services-corporation-common-stock/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1114,
+        "sha256": "sha256:49db73aa88c53624c9923cb07b1fc32e0f2783561c297f2895822d0f663276c3",
+        "newest_at": "2026-08-20T01:52:21.641871+00:00",
+        "oldest_at": "2026-08-20T01:52:21.641871+00:00"
+      }
+    ]
+  }
+}

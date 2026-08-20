@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dbc67a39331bf08ce2bf14c5a29985f8ade33a7f742b3febe1cacf35436fd695",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/hubspot-supabase-field-mapping-data-types",
+    "canonical": "https://www.stacksync.com/blog/hubspot-supabase-field-mapping-data-types"
+  },
+  "title": "HubSpot to Supabase Field Mapping: Handling Data-Type Mismatches",
+  "summary": "How two-way HubSpot and Supabase sync reconciles data-type mismatches: string vs integer casting, per-field mapping, multi-hop chains, and rejected-write…",
+  "published_at": "2026-07-20T13:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-07-28T21:11:32.387938+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/db/dbc67a39331bf08ce2bf14c5a29985f8ade33a7f742b3febe1cacf35436fd695/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/db/dbc67a39331bf08ce2bf14c5a29985f8ade33a7f742b3febe1cacf35436fd695/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6831,
+    "sha256": "sha256:3c3f01285124ee3c74a392fe6a0752b8f02fdd978d378373a9ba8f540063cd39",
+    "normalized_content_hash": "sha256:aaa6e7ad956d153d1a9c37a3c1dedb18a3bc049f3a17760086e4cb368249df58"
+  },
+  "provenance": {
+    "source_item_id": "0e8e75fd-e74b-4ad0-9d5b-c4678bca02ad",
+    "external_id": "https://www.stacksync.com/blog/hubspot-supabase-field-mapping-data-types"
+  }
+}

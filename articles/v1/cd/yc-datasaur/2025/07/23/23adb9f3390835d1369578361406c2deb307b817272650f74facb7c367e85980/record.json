@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23adb9f3390835d1369578361406c2deb307b817272650f74facb7c367e85980",
+  "company": {
+    "key": "yc-datasaur",
+    "name": "Datasaur"
+  },
+  "source": {
+    "id": "yc-datasaur-news-import-f7082d4871d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://datasaur.ai/blog-posts/we-tested-4-top-llms-for-labeling-one-suprised-us",
+    "canonical": "https://datasaur.ai/blog-posts/we-tested-4-top-llms-for-labeling-one-suprised-us"
+  },
+  "title": "We Tested 4 Top LLMs for Labeling. One Surprised Us.",
+  "summary": "We tested four leading LLMs using Datasaur’s Labeling Agent on a zero-shot entity recognition task. GPT-4o delivered the highest overall score for accuracy and efficiency, while other models like Gemini and Claude excelled in coverage and balance, revealing unique tradeoffs for each.",
+  "published_at": "2025-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:27:49.393704+00:00",
+  "fetched_at": "2026-07-28T21:59:46.813241+00:00",
+  "last_updated_at": "2026-08-20T01:25:53.443109+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-datasaur/2025/07/23/23adb9f3390835d1369578361406c2deb307b817272650f74facb7c367e85980/article.md",
+    "record": "articles/v1/cd/yc-datasaur/2025/07/23/23adb9f3390835d1369578361406c2deb307b817272650f74facb7c367e85980/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5168,
+    "sha256": "sha256:421a6a085c03d0118398c5a593813f2c7784eb21a5f5530d6b5268771d233d7f",
+    "normalized_content_hash": "sha256:b9de157d2b49f47f618124909ea1e23ba27dc38911b9e36b1a6d4c4d0c8ad6d9"
+  },
+  "provenance": {
+    "source_item_id": "3a2e83e1-7a87-4c6b-90fe-95e1592bd7dd",
+    "external_id": "https://datasaur.ai/blog-posts/we-tested-4-top-llms-for-labeling-one-suprised-us"
+  }
+}

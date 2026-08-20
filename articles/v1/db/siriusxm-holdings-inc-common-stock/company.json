@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "siriusxm-holdings-inc-common-stock",
+    "name": "SiriusXM Holdings Inc."
+  },
+  "record_count": 70,
+  "first_published_at": "2024-06-25T14:56:10+00:00",
+  "last_published_at": "2026-08-19T12:57:46+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 37
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 21
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/db/siriusxm-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55823,
+        "sha256": "sha256:c24636eacd3fb1dece8f2c815be01760181066af9a5de96c2f859f2e6fcb04a5",
+        "newest_at": "2026-08-19T12:57:46+00:00",
+        "oldest_at": "2026-07-16T15:10:38+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/db/siriusxm-holdings-inc-common-stock/index/pages/000002.json",
+        "record_count": 20,
+        "byte_count": 22736,
+        "sha256": "sha256:972f6c26434068b4dc2830b176cce42a2756597d38d98958bb801abfe630ab8d",
+        "newest_at": "2026-07-15T19:36:18+00:00",
+        "oldest_at": "2024-06-25T14:56:10+00:00"
+      }
+    ]
+  }
+}

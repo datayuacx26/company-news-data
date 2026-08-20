@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1def4e6062efc0866e71b5f33becf83307857a61216c99c712db32ab12a3cd7a",
+  "company": {
+    "key": "grab-holdings-limited-class-a-ordinary-shares",
+    "name": "Grab Holdings Limited"
+  },
+  "source": {
+    "id": "grab-holdings-limited-class-a-ordinary-shares-rss-d40cbf47f4b6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.grab.com/part-2-palana-architecture",
+    "canonical": "https://engineering.grab.com/part-2-palana-architecture"
+  },
+  "title": "Palana (Part 2): Architecting isolation, identity, and auditability for AI agents",
+  "summary": "How do you actually build a secure execution environment for artificial intelligence (AI) agents? In Part 2, we dive deep into Palana's architecture. Learn how Grab handles proxy-mediated secrets, large language model (LLM) routing, and strict network access under the hood. We also share our operational learnings on managing agent lifecycles, enforcing strict boundaries, and making useful AI autonomy safe and boring to operate.",
+  "published_at": "2026-06-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:59.025945+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T01:36:43.012315+00:00",
+  "paths": {
+    "article": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/06/1d/1def4e6062efc0866e71b5f33becf83307857a61216c99c712db32ab12a3cd7a/article.md",
+    "record": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/06/1d/1def4e6062efc0866e71b5f33becf83307857a61216c99c712db32ab12a3cd7a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12862,
+    "sha256": "sha256:5b34983943ec7873539bc3cc77ddb5c47bcec437dc181884829de2d57d431684",
+    "normalized_content_hash": "sha256:518578b8fe1b7859da67634258cf6bdedb115e9a27965590f504c78932971d14"
+  },
+  "provenance": {
+    "source_item_id": "c366733e-5d91-48b5-9ec7-b5eb403c2a18",
+    "external_id": "https://engineering.grab.com/part-2-palana-architecture"
+  }
+}

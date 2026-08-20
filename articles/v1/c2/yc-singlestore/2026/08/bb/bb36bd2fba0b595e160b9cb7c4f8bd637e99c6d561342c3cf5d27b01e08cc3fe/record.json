@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bb36bd2fba0b595e160b9cb7c4f8bd637e99c6d561342c3cf5d27b01e08cc3fe",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/fresh-context-ad-models/",
+    "canonical": "https://www.singlestore.com/blog/fresh-context-ad-models/"
+  },
+  "title": "Feeding fresh context to the models that spend the money",
+  "summary": "A model's serving-time quality is bounded by the freshness of what it reads. Why offline metrics hide the gap, what staleness costs at auction scale, and what agents change.",
+  "published_at": "2026-08-17T14:39:17+00:00",
+  "first_seen_at": "2026-08-17T02:05:47.386518+00:00",
+  "fetched_at": "2026-08-17T14:39:18.822107+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/08/bb/bb36bd2fba0b595e160b9cb7c4f8bd637e99c6d561342c3cf5d27b01e08cc3fe/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/08/bb/bb36bd2fba0b595e160b9cb7c4f8bd637e99c6d561342c3cf5d27b01e08cc3fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11205,
+    "sha256": "sha256:1eff508004b31c1f8aedb16d941154de283a9ddaaa843d5c9e7c0c7f653ccffc",
+    "normalized_content_hash": "sha256:27ce8094ea3b2d8626abdeaeb7f7ce390452b11655cc39c2bbff338d19605621"
+  },
+  "provenance": {
+    "source_item_id": "acb61f6b-da73-4ab0-b6f2-5fea9c012a0e",
+    "external_id": "https://www.singlestore.com/blog/fresh-context-ad-models/"
+  }
+}

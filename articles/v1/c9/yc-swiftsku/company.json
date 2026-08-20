@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-swiftsku",
+    "name": "SwiftSku"
+  },
+  "record_count": 8,
+  "first_published_at": "2024-04-01T15:25:43+00:00",
+  "last_published_at": "2024-04-15T03:23:18+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c9/yc-swiftsku/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 8404,
+        "sha256": "sha256:515fefb72f34109406ac19f1cfa27599002a4503883bbadea20781e23db76819",
+        "newest_at": "2024-04-15T03:23:18+00:00",
+        "oldest_at": "2024-04-01T15:25:43+00:00"
+      }
+    ]
+  }
+}

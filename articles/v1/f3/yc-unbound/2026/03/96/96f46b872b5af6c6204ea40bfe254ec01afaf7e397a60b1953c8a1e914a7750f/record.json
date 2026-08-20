@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "96f46b872b5af6c6204ea40bfe254ec01afaf7e397a60b1953c8a1e914a7750f",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/owasp-agentic-risks-aasb",
+    "canonical": "https://getunbound.ai/blog/owasp-agentic-risks-aasb"
+  },
+  "title": "How Unbound AASB Addresses Key OWASP Risks for Agentic Applications",
+  "summary": "AI coding agents change the security question from model usage to live access governance. Here's how Unbound's Agent Access Security Broker maps to the five highest-impact OWASP agentic risks.",
+  "published_at": "2026-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/03/96/96f46b872b5af6c6204ea40bfe254ec01afaf7e397a60b1953c8a1e914a7750f/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/03/96/96f46b872b5af6c6204ea40bfe254ec01afaf7e397a60b1953c8a1e914a7750f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9458,
+    "sha256": "sha256:6c3cc940960cbdca304d3bfa3c184315350d3f68f26e3f725fceabd771299792",
+    "normalized_content_hash": "sha256:40842e395c8196670be503a7631ba7531c7121446ea23c514a60641e192a8c43"
+  },
+  "provenance": {
+    "source_item_id": "79df9955-9559-422b-92d9-f224fef77b2a",
+    "external_id": "https://getunbound.ai/blog/owasp-agentic-risks-aasb"
+  }
+}

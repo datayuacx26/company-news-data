@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "726ce42107b5b9c8f9b8aeffdb89b41ad03cbe071dc41dc0ca0252451ab8f31f",
+  "company": {
+    "key": "yc-prequel",
+    "name": "Prequel"
+  },
+  "source": {
+    "id": "yc-prequel-news-import-43b0021e02b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prequel.co/blog/sql-maxis-how-to-get-a-character-from-a-codepoint-in-spark-sql/",
+    "canonical": "https://www.prequel.co/blog/sql-maxis-how-to-get-a-character-from-a-codepoint-in-spark-sql/"
+  },
+  "title": "SQL Maxis: How to get a character from a codepoint in Spark SQL",
+  "summary": "How we coerced Spark SQL into returning a proper character from a codepoint.",
+  "published_at": "2025-11-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:08:50.167024+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T20:03:18.384483+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-prequel/2025/11/72/726ce42107b5b9c8f9b8aeffdb89b41ad03cbe071dc41dc0ca0252451ab8f31f/article.md",
+    "record": "articles/v1/c4/yc-prequel/2025/11/72/726ce42107b5b9c8f9b8aeffdb89b41ad03cbe071dc41dc0ca0252451ab8f31f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4043,
+    "sha256": "sha256:ecc17556fc3de7c3ec7d9fc408cb19bfec4bec330099c8f8a656e0fc83e3064e",
+    "normalized_content_hash": "sha256:538215fffa06a977de3aac81dfe035050b39ec126d5dde84f8c72104f858f4a6"
+  },
+  "provenance": {
+    "source_item_id": "cd612742-17f7-4367-a383-0ce11092aa36",
+    "external_id": "https://www.prequel.co/blog/sql-maxis-how-to-get-a-character-from-a-codepoint-in-spark-sql/"
+  }
+}

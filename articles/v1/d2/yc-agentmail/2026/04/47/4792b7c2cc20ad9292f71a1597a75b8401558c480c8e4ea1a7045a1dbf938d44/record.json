@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4792b7c2cc20ad9292f71a1597a75b8401558c480c8e4ea1a7045a1dbf938d44",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/building-real-time-ai-agents-agentmail-webhooks",
+    "canonical": "https://www.agentmail.to/blog/building-real-time-ai-agents-agentmail-webhooks"
+  },
+  "title": "Building real-time AI agents with AgentMail webhooks",
+  "summary": "Most email agents start with polling. Here is why that creates problems at scale and how to switch to webhooks in four steps.",
+  "published_at": "2026-04-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T05:07:06.081239+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-07-28T21:26:17.416946+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/04/47/4792b7c2cc20ad9292f71a1597a75b8401558c480c8e4ea1a7045a1dbf938d44/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/04/47/4792b7c2cc20ad9292f71a1597a75b8401558c480c8e4ea1a7045a1dbf938d44/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5755,
+    "sha256": "sha256:1dfd5bff8ab9e5628a8c89d26e0f13403772e1ad70f8cbb57dd2139c2f8b5198",
+    "normalized_content_hash": "sha256:b71cbce8b025f2c29659b7372ceda19a12af6be29bfb9e7708537c0ffff58620"
+  },
+  "provenance": {
+    "source_item_id": "018a4e3c-36f6-42e6-9331-c5eb102b8bb5",
+    "external_id": "https://www.agentmail.to/blog/building-real-time-ai-agents-agentmail-webhooks"
+  }
+}

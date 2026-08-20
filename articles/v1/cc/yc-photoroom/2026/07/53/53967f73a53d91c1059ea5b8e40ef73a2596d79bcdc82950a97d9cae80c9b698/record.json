@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "53967f73a53d91c1059ea5b8e40ef73a2596d79bcdc82950a97d9cae80c9b698",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/open-source-t2i-announcement",
+    "canonical": "https://www.photoroom.com/inside-photoroom/open-source-t2i-announcement"
+  },
+  "title": "We’re training a text-to-image model from scratch and open-sourcing it",
+  "summary": "Photoroom is training a flow-matching model from scratch and sharing the process openly — weights, experiments, and ablations. Keep reading to follow our journey.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:15:24.874490+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/07/53/53967f73a53d91c1059ea5b8e40ef73a2596d79bcdc82950a97d9cae80c9b698/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/07/53/53967f73a53d91c1059ea5b8e40ef73a2596d79bcdc82950a97d9cae80c9b698/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7295,
+    "sha256": "sha256:1a1d423f2ed22c6d8415785a4dd17b3b4617e1326d23bf2558f2b745437f5a6a",
+    "normalized_content_hash": "sha256:a57a5d9704eff1a7655b7db7451c8cf4870d3a83225795ce79b0a0da1559f199"
+  },
+  "provenance": {
+    "source_item_id": "621d7dd1-b7b4-467f-8c45-6588e77b7dd3",
+    "external_id": "https://www.photoroom.com/inside-photoroom/open-source-t2i-announcement"
+  }
+}

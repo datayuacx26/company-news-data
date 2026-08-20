@@ -1,0 +1,115 @@
+---
+schema_version: "1.0.0"
+document_id: "711abed40cd17d39d18b66b7e84e21a49571a79da3bed3d85528fb445f56f53f"
+company_key: "yc-estimote-inc"
+company: "Estimote, Inc."
+source_id: "yc-estimote-inc-rss-9f8374160089"
+canonical_url: "https://blog.estimote.com/post/166288801280"
+published_at: "2017-10-13T13:00:00+00:00"
+first_seen_at: "2026-07-27T09:08:36.947635+00:00"
+fetched_at: "2026-07-28T22:27:25.846890+00:00"
+content_hash: "sha256:d219ea8301b8b67826129f95388b57a7b5c24af132abcabb8dca4cdf50b308c0"
+---
+
+# Best practices for submitting your beacon‑enabled iOS 11 apps to App Store
+
+This is it! After weeks of work, you’re ready to submit your beacon-enabled app to the App Store. We’ve compiled a short checklist to clear before you do so, ensuring a smooth approval.
+
+
+### Location Services & privacy
+
+
+Estimote SDKs allow your app to know the location of the user— be it proximity to places, objects, screens, or precise indoor coordinates. Most of us are pretty sensitive to sharing our location with apps, and so users needs to opt-in to it, and understand how you’re planning to use this data.
+
+
+*Authorization levels*
+
+
+In iOS 11, the user always gets to choose whether to grant access to their location only when the app is in use, or at all times. This means **you are required to include the following** keys in the Info.plist file:
+
+
+-
+
+
+` NSLocationWhenInUseUsageDescription`
+
+
+- explain how your app uses the location while in use
+
+
+-
+
+
+` NSLocationAlwaysAndWhenInUseUsageDescription`
+
+
+- explain how your app uses the location while in use, and what additional features are unlocked by the “always” authorization
+
+
+If your app supports iOS 10, also include` NSLocationAlwaysUsageDescription` for compatibility.
+
+
+Make sure to **test your app with all the authorization levels** , including no authorization. This is true especially if you’re upgrading from iOS 10 and your app previously required the “Always” access— make sure the app still works properly on iOS 11 if the user opts in to the “When in use” option.
+
+
+*Privacy Policy*
+
+
+Apple recommends having a Privacy Policy for apps that collect user-related data … such as location. You can add a URL to your Privacy Policy on the app’s iTunes Connect “App Information” page.
+
+
+### Add Bluetooth usage description
+
+
+Since iOS 10, apps are also required to include` NSBluetoothPeripheralUsageDescription` in the Info.plist file, explaining how they use Bluetooth. This requirement is triggered whenever an app links to the Core Bluetooth framework, which is something all Estimote SDKs do.
+
+
+If you forget this key, your binary will be automatically rejected during the processing stage, after you upload it to iTunes Connect. If this happens, just add the missing key, build a new binary, and upload it instead.
+
+
+### Enable only the Background Modes you need
+
+
+iOS apps generally don’t get to run in the background—they’re suspended as soon as the user leaves the app. Background Modes are special privileges which change that. For example, music apps can use the “Audio” Background Mode to continue playing music even when the user leaves the app.
+
+
+Because of these special privileges they give, Background Modes are heavily regulated and scrutinized by the App Store team. For this reason, make sure your app **doesn’t enable any Background Modes which you don’t need and use** .
+
+
+Specifically, all of the Estimote APIs require at most the “Uses Bluetooth LE accessories” Background Mode, and nothing else.
+
+
+It’s also helpful to leave a note for the reviewers explaining why and how your app uses the Background Modes.
+
+
+### Provide a video of the beacon-powered experience
+
+
+The App Store review team will most likely want to see your beacon-powered experiences in action. Naturally, it might be difficult for them to replicate your beacon deployment … which is why we recommend putting a note about that, and **providing a video where you show the location-specific experiences** .
+
+
+This is a tip straight from the App Store review guidelines:
+
+
+> If we’re not able to access part of your app because it’s geo-locked or otherwise restricted, provide a link to a video of the functionality
+
+
+### Use the latest Estimote SDKs available
+
+
+We’re constantly updating our SDKs with new features and bug fixes, but something less obvious is we’re also adapting to changes in iOS APIs and behaviors … and even to changes in App Store review policies.
+
+
+Using an outdated SDK might mean unexpected things happening on newer versions of iOS, or getting your app rejected because the older SDKs don’t conform to the new guidelines and policies.
+
+
+This is why we recommend **keeping the Estimote SDKs in your app up-to-date** . With dependency managers like CocoaPods, updating the SDK takes almost no time at all.
+
+
+If for some reason updating to the latest version is not an option, make sure to **use at least** Estimote SDK 4.25.3, Estimote Indoor SDK 3.0.0-alpha.2, and Estimote Mirror SDK 0.1.6. The previous versions are known to not conform to the latest App Store review guidelines, because of the way we used to build them into binaries.
+
+
+### Contact us for assistance
+
+
+Every app is different, so **if you’re running into an atypical problem** getting your app approved, **let us know about it** . We know first-hand that being stuck in review for days is no fun, and we’ll work with you and the App Store review team to help. You can reach us atcontact@estimote.com .

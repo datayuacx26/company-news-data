@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d8a61826d489c176ed7e161fb9e46353bcad5db4178635d7eff7b07906e2309c",
+  "company": {
+    "key": "yc-magicbell",
+    "name": "MagicBell"
+  },
+  "source": {
+    "id": "yc-magicbell-news-import-9a6b19b555ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.magicbell.com/blog/what-is-a-webhook-and-how-does-it-work",
+    "canonical": "https://www.magicbell.com/blog/what-is-a-webhook-and-how-does-it-work"
+  },
+  "title": "What Is a Webhook, and How Does It Work?",
+  "summary": "Learn what webhooks are, what a webhook endpoint is, and how to build a webhook receiver. Includes code examples, payload anatomy, signature verification, and best practices.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T03:05:45.790203+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-19T18:43:36.382071+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-magicbell/2026/04/d8/d8a61826d489c176ed7e161fb9e46353bcad5db4178635d7eff7b07906e2309c/article.md",
+    "record": "articles/v1/cd/yc-magicbell/2026/04/d8/d8a61826d489c176ed7e161fb9e46353bcad5db4178635d7eff7b07906e2309c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15917,
+    "sha256": "sha256:483299febebdd927e7ede563475484f3b50498f414f1f5417a8ec79ccf9e992e",
+    "normalized_content_hash": "sha256:bf031c81cdcadf5ab032c0905098995a5c65c0d0d08cb953a60a3d1f22cd08b2"
+  },
+  "provenance": {
+    "source_item_id": "219446c2-57c0-4176-ada4-4bdbd7f583f4",
+    "external_id": "https://www.magicbell.com/blog/what-is-a-webhook-and-how-does-it-work"
+  }
+}

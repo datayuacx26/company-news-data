@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1554b5fdf712c3cfd6e4aa9f8b20d03299cfe3af73fbefca80b48b80574d7d5a",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-25a2b11929a5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/toward-actual-benchmarks",
+    "canonical": "https://zeropath.com/blog/toward-actual-benchmarks"
+  },
+  "title": "Towards Actual SAST Benchmarks",
+  "summary": "ZeroPath enhances XBOW's open-source security benchmarks by removing AI-favoring hints, adding false positive testing, and creating a more realistic evaluation framework for comparing modern security scanning tools.",
+  "published_at": "2024-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:49:27.067531+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-19T20:17:40.006766+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2024/11/15/1554b5fdf712c3cfd6e4aa9f8b20d03299cfe3af73fbefca80b48b80574d7d5a/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2024/11/15/1554b5fdf712c3cfd6e4aa9f8b20d03299cfe3af73fbefca80b48b80574d7d5a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10876,
+    "sha256": "sha256:75f426d00ac8df16eac6de4b6f8188749cf13e2856bd33dca66ea6f774a25d2b",
+    "normalized_content_hash": "sha256:c1497143f5aba8354dbc318ceb6592b685391c8390743092c5760d5f69f48ba0"
+  },
+  "provenance": {
+    "source_item_id": "e599b8d2-3074-4355-bff1-4c93e870eefa",
+    "external_id": "https://zeropath.com/blog/toward-actual-benchmarks"
+  }
+}

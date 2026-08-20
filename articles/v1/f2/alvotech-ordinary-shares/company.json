@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "alvotech-ordinary-shares",
+    "name": "Alvotech"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-06-03T20:30:00+00:00",
+  "last_published_at": "2026-08-19T20:30:09+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f2/alvotech-ordinary-shares/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 17061,
+        "sha256": "sha256:5ebc5baec0782bbb28764b24fbce046fc64755b9fa51f30295ac4af4d965914b",
+        "newest_at": "2026-08-19T20:30:09+00:00",
+        "oldest_at": "2026-06-03T20:30:00+00:00"
+      }
+    ]
+  }
+}

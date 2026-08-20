@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4407ddce804f23884e55162dde52f4ee65b4e7eeae255550096975408a2e18a8",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/multi-hop-sync-hubspot-database-snowflake",
+    "canonical": "https://www.stacksync.com/blog/multi-hop-sync-hubspot-database-snowflake"
+  },
+  "title": "Multi-Hop Sync: Chaining HubSpot, a Database, and Snowflake Both Ways",
+  "summary": "Chain HubSpot into a database, model it in Snowflake, and push the clean version back out. How multi-hop two-way sync works and replaces a Fivetran plus…",
+  "published_at": "2026-07-20T16:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T21:11:14.279812+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/44/4407ddce804f23884e55162dde52f4ee65b4e7eeae255550096975408a2e18a8/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/44/4407ddce804f23884e55162dde52f4ee65b4e7eeae255550096975408a2e18a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7189,
+    "sha256": "sha256:5f41818d57a05f2f60b56ae4d404430c64e77b1b01ce3db8e9f102f4125dff18",
+    "normalized_content_hash": "sha256:b58e7657a6623ff334f3c08232fb2ae173ea7194a0b6a6924228eb21cce0d738"
+  },
+  "provenance": {
+    "source_item_id": "229e35df-abed-410d-9177-27e34e5628da",
+    "external_id": "https://www.stacksync.com/blog/multi-hop-sync-hubspot-database-snowflake"
+  }
+}

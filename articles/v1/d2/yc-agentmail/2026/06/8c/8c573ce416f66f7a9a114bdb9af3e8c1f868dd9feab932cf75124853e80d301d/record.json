@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8c573ce416f66f7a9a114bdb9af3e8c1f868dd9feab932cf75124853e80d301d",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/give-your-langchain-agent-a-real-inbox",
+    "canonical": "https://www.agentmail.to/blog/give-your-langchain-agent-a-real-inbox"
+  },
+  "title": "Give your LangChain agent a real inbox",
+  "summary": "AgentMail ships an official LangChain integration. One pip install gives any LangGraph agent its own inbox to send from, reply in, search, and react to.",
+  "published_at": "2026-06-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T05:07:06.081239+00:00",
+  "fetched_at": "2026-07-28T21:44:22.050751+00:00",
+  "last_updated_at": "2026-08-07T12:46:46.748244+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/06/8c/8c573ce416f66f7a9a114bdb9af3e8c1f868dd9feab932cf75124853e80d301d/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/06/8c/8c573ce416f66f7a9a114bdb9af3e8c1f868dd9feab932cf75124853e80d301d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5944,
+    "sha256": "sha256:d585c01e4f657c808ed5e6829d2910207d317de7df8c2bd0ac8a4204933f1f44",
+    "normalized_content_hash": "sha256:680e8a830db89adca61c76a49136fd14b0d95f7b8f7dcb1b04c7da67a4238baf"
+  },
+  "provenance": {
+    "source_item_id": "450f7b46-8c46-4cfd-b0a7-dd83a59150c7",
+    "external_id": "https://www.agentmail.to/blog/give-your-langchain-agent-a-real-inbox"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "689b73eace90c21003a6f0f1906c4da63d1c78429cd4ecd1be403216b0f73a8d",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/hipaa-compliant-hubspot-supabase-sync",
+    "canonical": "https://www.stacksync.com/blog/hipaa-compliant-hubspot-supabase-sync"
+  },
+  "title": "HIPAA-Compliant HubSpot and Supabase Sync for Regulated Data",
+  "summary": "How to sync HubSpot with Supabase (or MongoDB) while keeping HIPAA intact: BAAs across every hop, a no-persistent-storage sync layer, encryption, access…",
+  "published_at": "2026-07-20T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T21:11:14.266364+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/68/689b73eace90c21003a6f0f1906c4da63d1c78429cd4ecd1be403216b0f73a8d/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/68/689b73eace90c21003a6f0f1906c4da63d1c78429cd4ecd1be403216b0f73a8d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5578,
+    "sha256": "sha256:12fd7e14e5ec06b8f74194dca6b6e0c4f4495da0f4bef542c762983be2e7edfa",
+    "normalized_content_hash": "sha256:5aa802ee4b4541e59e0202cb845a67c83d2e7197fbb3749d8d180319c453410c"
+  },
+  "provenance": {
+    "source_item_id": "029613e2-b33e-4b38-a9af-09faa282a0af",
+    "external_id": "https://www.stacksync.com/blog/hipaa-compliant-hubspot-supabase-sync"
+  }
+}

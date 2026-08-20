@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e3702dd2dba1b93dbb16f13a5d9a3eaa1c15ce46c54d9400180b6657729efb1a",
+  "company": {
+    "key": "jfrog-ltd-ordinary-shares",
+    "name": "JFrog Ltd."
+  },
+  "source": {
+    "id": "jfrog-ltd-ordinary-shares-rss-4486f0fc66d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://jfrog.com/blog/where-cve-severity-scores-go-wrong/",
+    "canonical": "https://jfrog.com/blog/where-cve-severity-scores-go-wrong/"
+  },
+  "title": "Where Severity Scores Go Wrong: “Just Add Prototype Pollution”",
+  "summary": "JFrog analysis reveals why CVSS scores can overstate risk, using actual CVEs to show how theoretical threats skew real-world applicability.",
+  "published_at": "2026-07-01T13:15:07+00:00",
+  "first_seen_at": "2026-07-20T23:22:16.766689+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-07-30T03:09:54.504699+00:00",
+  "paths": {
+    "article": "articles/v1/db/jfrog-ltd-ordinary-shares/2026/07/e3/e3702dd2dba1b93dbb16f13a5d9a3eaa1c15ce46c54d9400180b6657729efb1a/article.md",
+    "record": "articles/v1/db/jfrog-ltd-ordinary-shares/2026/07/e3/e3702dd2dba1b93dbb16f13a5d9a3eaa1c15ce46c54d9400180b6657729efb1a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15369,
+    "sha256": "sha256:d9cfc61fcdaebcf8366949791574a99960b89ee46c2eeae3637d3b319bb1633f",
+    "normalized_content_hash": "sha256:1322682df2e5438e6639595f7c6a7148e4df4c49ecd0d34f8a2eab4bf01711ca"
+  },
+  "provenance": {
+    "source_item_id": "85b3f0c4-a78d-4c5b-ac6b-b4c2900c590e",
+    "external_id": "https://jfrog.com/?p=169211"
+  }
+}

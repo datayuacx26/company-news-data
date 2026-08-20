@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dad24d2d5366cba70baeb0d24dec70226d5430a41371d4018c065c7bfe482fb3",
+  "company": {
+    "key": "f5-inc-common-stock",
+    "name": "F5 Inc."
+  },
+  "source": {
+    "id": "f5-inc-common-stock-news-import-991598d866eb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.f5.com/company/news/press-releases/guardrails-runtime-security-enterprise-ai-applications",
+    "canonical": "https://www.f5.com/company/news/press-releases/guardrails-runtime-security-enterprise-ai-applications"
+  },
+  "title": "F5 integrates F5 AI Guardrails with NVIDIA NeMo Guardrails to extend runtime security for enterprise AI applications",
+  "summary": "New integration helps deliver centralized policy enforcement across AI applications to drive faster enterprise AI deployments.",
+  "published_at": null,
+  "first_seen_at": "2026-07-29T22:28:51.596137+00:00",
+  "fetched_at": "2026-07-29T22:28:52.636138+00:00",
+  "last_updated_at": "2026-08-18T03:31:59.991076+00:00",
+  "paths": {
+    "article": "articles/v1/d1/f5-inc-common-stock/2026/07/da/dad24d2d5366cba70baeb0d24dec70226d5430a41371d4018c065c7bfe482fb3/article.md",
+    "record": "articles/v1/d1/f5-inc-common-stock/2026/07/da/dad24d2d5366cba70baeb0d24dec70226d5430a41371d4018c065c7bfe482fb3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8715,
+    "sha256": "sha256:a098aae8fa23f8dca41dc22728c53a1ab38d3e6f143698ce2f338999c22f55a1",
+    "normalized_content_hash": "sha256:9f6592845997bd670f82790fd5a3d0d05e89c734e0ca061af56cd7109aff695a"
+  },
+  "provenance": {
+    "source_item_id": "be52123b-6d26-45e9-837f-fa9785eb418d",
+    "external_id": "https://www.f5.com/company/news/press-releases/guardrails-runtime-security-enterprise-ai-applications"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce357bf9c0a51a2bc3c6885d84b5a99bec63fc4b442f81281610cd1b765dcf21",
+  "company": {
+    "key": "yc-unsiloed-ai",
+    "name": "Unsiloed AI"
+  },
+  "source": {
+    "id": "yc-unsiloed-ai-news-import-f01c67e8267b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.unsiloed.ai/blog/chunking-strategy-rag-systems-technical-implementation-guide",
+    "canonical": "https://www.unsiloed.ai/blog/chunking-strategy-rag-systems-technical-implementation-guide"
+  },
+  "title": "Chunking Strategy for RAG Systems: A Technical Implementation Guide (May 2026)",
+  "summary": "Learn chunking strategy for RAG systems: fixed-size, recursive, semantic, and agentic methods with optimization tips for chunk size and overlap. May 2026 guide.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:07:01.705483+00:00",
+  "fetched_at": "2026-07-28T22:13:07.113521+00:00",
+  "last_updated_at": "2026-08-11T00:18:41.935458+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-unsiloed-ai/2026/05/ce/ce357bf9c0a51a2bc3c6885d84b5a99bec63fc4b442f81281610cd1b765dcf21/article.md",
+    "record": "articles/v1/ea/yc-unsiloed-ai/2026/05/ce/ce357bf9c0a51a2bc3c6885d84b5a99bec63fc4b442f81281610cd1b765dcf21/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13513,
+    "sha256": "sha256:4e22215ce8678a9fbb401d5e688641ead80218dedcb8f54d4c47b1d0100be000",
+    "normalized_content_hash": "sha256:c232d5981d1bcd615a252a5471c487c081906165dfb8e2b3c0b38c2a6087cea3"
+  },
+  "provenance": {
+    "source_item_id": "d912a424-2107-4509-9be3-bb4d1e5e8b67",
+    "external_id": "https://www.unsiloed.ai/blog/chunking-strategy-rag-systems-technical-implementation-guide"
+  }
+}

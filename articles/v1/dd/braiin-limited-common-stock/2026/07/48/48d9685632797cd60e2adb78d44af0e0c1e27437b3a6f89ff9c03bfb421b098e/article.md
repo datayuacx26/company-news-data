@@ -1,0 +1,160 @@
+---
+schema_version: "1.0.0"
+document_id: "48d9685632797cd60e2adb78d44af0e0c1e27437b3a6f89ff9c03bfb421b098e"
+company_key: "braiin-limited-common-stock"
+company: "Braiin Limited"
+source_id: "braiin-limited-common-stock-news-import-35c11897f259"
+canonical_url: "https://ir.braiin.com/pressreleases/detail/7d179f9b-1f01-4fdd-9d26-6fd0d25a861d"
+published_at: null
+first_seen_at: "2026-07-24T21:14:07.391277+00:00"
+fetched_at: "2026-07-28T21:36:14.883471+00:00"
+content_hash: "sha256:1caeeeab13548ac8ae9b6fc549d3033b90e3a08950c76b3a10ea8e66a31226df"
+---
+
+# Braiin Targets US$3 Trillion Global Residential Services Market Through ClearBank Embedded Banking Infrastructure Integrated into Home.cc Via Strategic Collaboration
+
+**MELBOURNE, Australia & AUCKLAND, New Zealand, June 02, 2026 (GLOBE NEWSWIRE) --** Braiin Limited ("Braiin" or the "Company") (NASDAQ:[BRAI](https://www.benzinga.com/quote/BRAI) ), a global AI platform company delivering automation and predictive analytics across precision agriculture, customer experience and property technology, today announces the deployment of Home.cc's strategic collaboration with ClearBank embedded banking infrastructure which will significantly strengthen Braiin's strategic position at the intersection of embedded banking, financial technology infrastructure, digital payments, and residential commerce.
+
+
+The combination of Braiin,[Home.cc](https://www.globenewswire.com/Tracker?data=8emGSzVQ1O0pL4M0N4DfNP02Wwm6mrRvZl4w9dU3fOZVjlK9QfKbfsq8jcyW4JFYUtioW3OTgGy2hjFGsp_gBA==) , and ClearBank-powered banking infrastructure creates a highly differentiated platform capable of participating across multiple consumer transactions throughout the residential lifecycle. This announcement follows Braiin's previously announced proposed acquisition of Home.cc, through its strategic partnership with Home, to build an AI-native Living Infrastructure platform, the integration of embedded utility and telecom switching capabilities through Switchcraft, and the Company's recent New Zealand launch as part of its broader ANZ expansion strategy.
+
+
+"As residential services are increasingly converging around digital onboarding, payments, financial services, utilities, insurance, telecommunications and AI-powered customer engagement," said Natraj Balasubramanian, Chief Executive Officer of Braiin Limited. "We believe the next generation of residential technology platforms will need to combine embedded distribution with the transaction infrastructure required to support recurring customer relationships. Home.cc's strategic collaboration with ClearBank enabled banking infrastructure represents an important extension of that strategy by adding a banking-grade payments and settlement layer to the residential lifecycle. Clearbank is the right choice for Braiin as one of the United Kingdom's leading cloud-native clearing banks and embedded banking providers."
+
+
+**ClearBank Infrastructure Expands Braiin's Fintech & Embedded Commerce Capabilities**
+
+
+Braiin's deployment of ClearBank's embedded infrastructure materially transforms the strategic potential of Braiin's LivTech platform by introducing banking-grade payments and account infrastructure directly into the residential customer journey. Rather than operating solely as a utility connection or tenant engagement platform, Braiin is evolving a fully integrated financial and residential services ecosystem capable of orchestrating payments, settlements, account functionality and recurring consumer transactions from a single digital environment.
+
+
+The integration of ClearBank infrastructure enables:
+
+
+- Embedded banking capabilities
+- Real-time payment processing
+- Open banking connectivity
+- Rental and property-related financial services
+- AI-powered financial orchestration
+- Automated recurring payment management
+- Digital wallet and settlement capabilities
+- Embedded consumer finance solutions
+- Cross-platform transaction intelligence
+
+
+Braiin believes these capabilities significantly expand the addressable market opportunity beyond traditional PropTech and into the broader financial infrastructure ecosystem supporting residential consumers. When combined with AI orchestration and embedded distribution, the ClearBank-enabled infrastructure is expected to support recurring revenue opportunities across residential transactions, household payments, tenant services, insurance, telecommunications, subscriptions, utility management and broader household commerce.
+
+
+**TDS Partnership Creates Embedded Distribution at Scale**
+
+
+Complementing the ClearBank fintech infrastructure is[Home.cc](https://www.globenewswire.com/Tracker?data=8emGSzVQ1O0pL4M0N4DfNCCIwc9ILo2bKF2w7wBdTPDCxZVMt5m7lKGE7xKJJPlsVT8GdnfrGpWqKoc9yY4TLQ==) 's strategic partnership with the Tenancy Deposit Scheme (TDS), one of the UK's most established tenancy ecosystem operators.
+
+
+This partnership provides Braiin with a highly valuable embedded distribution engine by positioning[Home.cc](https://www.globenewswire.com/Tracker?data=8emGSzVQ1O0pL4M0N4DfNOFeO2THTL16zCyQQGh2JjwW7oBeCswC5pZwe_8tIWN7DABWY4FupwZ1J2wYBigB6g==) directly within critical tenancy and residential onboarding workflows where customer intent and engagement are at their highest. The combination of TDS distribution and ClearBank banking infrastructure creates a unique competitive advantage by controlling both customer acquisition and transaction enablement within a single ecosystem.
+
+
+The platform currently supports monetization opportunities across:
+
+
+- Utilities onboarding and optimization
+- Broadband and telecommunications
+- Embedded insurance and warranties
+- Open banking services
+- Rental payments and settlements
+- Consumer financial products
+- AI-powered recommendations
+- Connected household commerce
+- Tenant lifecycle engagement
+
+
+Braiin believes the integration of embedded customer distribution and embedded banking infrastructure gives the proposed combined platform a differentiated position in residential lifecycle services.
+
+
+**Positioned to Build a Scalable AI-Native Living Infrastructure Ecosystem**
+
+
+The combination of Home's "Madison" AI-native Living Infrastructure platform, ClearBank's enabled banking and payment infrastructure, the TDS embedded distribution capabilities, ConnectSimple's onboarding and engagement ecosystem, and Braiin's AI, CXaaS and automation technologies, creates one of the most strategically differentiated living infrastructure platforms operating within the UK market today.
+
+
+Braiin expects the UK market to act as a strategic launchpad for broader international deployment opportunities across the United States and other global housing markets.
+
+
+**Accelerating Growth Outlook**
+
+
+"The integration of banking infrastructure, AI orchestration and embedded distribution materially increases the long-term scalability of the platform and creates opportunities to participate in significantly larger addressable markets than traditional PropTech alone," added Balasubramanian. "We believe the convergence of AI, embedded banking, connected infrastructure, Open Banking, residential workflows and intelligent customer engagement represents one of the largest long-term infrastructure opportunities emerging globally."
+
+
+According to industry research, the global PropTech market is projected to reach[approximately US$94.2 billion by 2030](https://www.globenewswire.com/Tracker?data=No_VrRRQBYDi1gA4lPQX9Wbre-SePKPUfim7sD_dXpMblX_Bl32GAj5ugsabA48SJIOw95QNXg2S1SZjKFZ-MqsJL_ic0AYvhuPZEzZmdklzn6l9Z4aNyXxY3RwA3pkDw2L5LGsRFHemj_PRwVMGC9_rNoKDgW4qTafaUEoVZ-afiVgb6gD4r4VJYcALc3klhxboEx0HG6eY8dsMO1XUVPQhiMAQrDEgzqRUEWFuQf0=) . However, when combined with embedded finance, payments infrastructure, utilities, telecommunications, insurance, household commerce and connected residential services, the[broader addressable market opportunity exceeds US$3 trillion globally](https://www.globenewswire.com/Tracker?data=-ALjUpneW-nzPxJk31lnEc3PJvgVHnHMraL8u5yPA9veOzlqD0R6PPEyeXSovANjoqUsjM3GnCAQtQuBzPiOeZjyq07d-wjcGcApzsH0uFj4xuhssNd-eZcrfTixPa4kPZ2NhbfDqXz3DM6dISkpnYDXvKYhePAi1SKeCuK_adbIIzKcCQfWyxB_IIAnSOHFcBFEO0J-1NKjXulxt75KXo8gXIBsQSFRYwkXqRaSdsFRYUhl6LcryI4xJCtAk3iDegTuOzwu4d0BF28Vl1NgUQ==) .
+
+
+Matt Spence, Founder and Chief Executive Officer of[Home.cc](https://www.globenewswire.com/Tracker?data=8emGSzVQ1O0pL4M0N4DfNEMAgG5GIcayoygvpyI5LbJNJqxu_-W4knRvJ6RyDbLCDsxJ7PV4LFPuCSPJ_aKKMg==) , said "Our collaboration with ClearBank has enabled us to think beyond traditional housing technology and build the foundations of a truly connected Living Infrastructure platform. We believe we are creating a powerful platform capable of transforming how consumers interact with housing-related services. Together with Braiin, we confidently see a significant opportunity to scale internationally and participate in the future evolution of connected residential infrastructure globally."
+
+
+**About Braiin Limited**
+
+
+Braiin Limited (NASDAQ:[BRAI](https://www.benzinga.com/quote/BRAI) ) is a global technology platform operating across AI, customer experience solutions, PropTech, and living infrastructure. Braiin's ecosystem combines embedded distribution, intelligent automation, and recurring revenue platforms designed to support the lifecycle of the home and connected consumer services.
+
+
+**About Home.cc**
+
+
+Home.cc is a UK-based AI-native "LivTech" platform focused on digitising and monetising the residential lifecycle through embedded utility enablement, tenant engagement, fintech infrastructure and connected household services.
+
+
+**About ClearBank**
+
+
+ClearBank is a technology-driven clearing bank focused on building modern, cloud-native banking and payments infrastructure for financial institutions and businesses. Through its API-first platform, ClearBank enables secure, real-time payment processing, account issuance, and embedded banking capabilities, helping organizations deliver innovative financial services without the complexity of traditional banking infrastructure.
+
+
+**Sources**
+
+
+- [Grand View Research -- Global PropTech Market Report](https://www.grandviewresearch.com/industry-analysis/proptech-market-report?utm_source=chatgpt.com)
+- [Grand View Research -- Global Telecom Services Market Report](https://www.grandviewresearch.com/industry-analysis/global-telecom-services-market?utm_source=chatgpt.com)
+- [PwC -- Global Telecom & Connected Infrastructure Outlook](https://www.pwc.com/gx/en/industries/tmt/telecom-outlook-perspectives.html?utm_source=chatgpt.com)
+- [Technavio -- Global Home Services Market Forecast](https://www.prnewswire.com/news-releases/home-services-market-to-grow-by-usd-1-03-trillion-2025-2029-fueled-by-increasing-urbanization-report-on-how-ai-is-driving-market-transformation---technavio-302360353.html?utm_source=chatgpt.com)
+- [ClearBank Official Website](https://clear.bank/?utm_source=chatgpt.com)
+- [Tenancy Deposit Scheme (TDS)](https://www.tenancydepositscheme.com/?utm_source=chatgpt.com)
+
+
+**Cautionary Note Regarding Forward-Looking Statements.**
+
+
+This press release contains "forward-looking statements" within the meaning of Section 27A of the United States Securities Act of 1933, as amended, and Section 21E of the United States Securities Exchange Act of 1934, as amended. All statements, other than statements of historical facts, included herein, including but not limited to such things as future business strategy, plans, and goals, and the expansion and growth of our business. The words "estimate", "plan", "anticipate", "expect", "intend", "believe" "target", "budget", "may", "can", "will", "would", "could", "should", "seeks", or "scheduled to" and similar words or expressions, or negatives of these terms or other variations of these terms or comparable language or any discussion of strategy or intention identify forward-looking statements. Please see the risk factors included in the Company's United States Securities and Exchange Commission filings, which could cause actual results and events to differ materially from those contained in the forward-looking statements. You are cautioned against attributing undue certainty to forward-looking statements. Although these forward-looking statements were based on assumptions that the Company believes are reasonable when made, you are cautioned that forward-looking statements are not guarantees of future performance and that actual results, performance, or achievements may differ materially from those made in or suggested by the forward-looking statements in this press release. Any forward-looking statements made in this press release speak only as of the date of those statements. We undertake no obligation to update those statements or publicly announce the results of any revisions to any of those statements to reflect future events or developments.
+
+
+**Investor Relations Contact**
+
+
+Lucas A. Zimmerman & Ian Scargill
+
+
+MZ Group - MZ North America
+
+
+(262) 357-2918
+
+
+[BRAI@mzgroup.us](https://www.globenewswire.com/Tracker?data=covcBOfn-PMn8n48udCgZfhXPFk8uYgP6cjtJwl-N3jc_HDN97A2hQnD_Pw8gnFRLg2IBcfee7K5QndreuPyF-0SgShb09e63HYbSY2U1g4=)
+
+
+[www.mzgroup.us](https://www.globenewswire.com/Tracker?data=OZQgVJkFduVKgtePYKiOTVOslv_3RaiKZYLbcrS9GhPxibFWTB5buCaXqj15ea1cJs-dBXNIkIXlE1jNvWwLmQ==)
+
+
+**Public Relations Contact**
+
+
+Matthew Cossel
+
+
+Core PR
+
+
+(212) 655-0924
+
+
+[pr@coreir.com](https://www.globenewswire.com/Tracker?data=-JFzgb2Za0gLAzpJclC882I1djlHzaTIC5ELtdhLwf-Ga7cbGReXUR5l8zrkp170CLb5_GGCOlj3_qdTo_qQXQ==)

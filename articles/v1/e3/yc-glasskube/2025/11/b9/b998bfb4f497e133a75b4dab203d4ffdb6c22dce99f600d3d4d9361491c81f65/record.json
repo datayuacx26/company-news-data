@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b998bfb4f497e133a75b4dab203d4ffdb6c22dce99f600d3d4d9361491c81f65",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/docker-compose-vs-kubernetes/",
+    "canonical": "https://distr.sh/blog/docker-compose-vs-kubernetes/"
+  },
+  "title": "Docker Compose vs Kubernetes: A Practical Decision Guide for Software Distribution",
+  "summary": "A practical guide to choosing between Docker Compose and Kubernetes for software distribution.",
+  "published_at": "2025-11-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2025/11/b9/b998bfb4f497e133a75b4dab203d4ffdb6c22dce99f600d3d4d9361491c81f65/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2025/11/b9/b998bfb4f497e133a75b4dab203d4ffdb6c22dce99f600d3d4d9361491c81f65/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11914,
+    "sha256": "sha256:e88ec42a546ba14bd000181e25758f4b775167241d50181e025627aeb6c408d0",
+    "normalized_content_hash": "sha256:ad4cddc8811cb978d4f2141394746db044f22ced88cd3ff65ef0cfc7ba8eff51"
+  },
+  "provenance": {
+    "source_item_id": "699b0a0b-64ef-4909-91ec-39cb649b30c4",
+    "external_id": "https://distr.sh/blog/docker-compose-vs-kubernetes/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81546b7718c00f449ab90b847f87172b16978081a14d7781f0fa7a32b423e16f",
+  "company": {
+    "key": "yc-sst",
+    "name": "SST"
+  },
+  "source": {
+    "id": "yc-sst-news-import-9375d5a7fa7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sst.dev/blog/container-spot-capacity",
+    "canonical": "https://sst.dev/blog/container-spot-capacity/"
+  },
+  "title": "Container Spot capacity",
+  "summary": "We are adding support for using the Fargate Spot capacity provider for services.",
+  "published_at": "2025-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:49:09.857782+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T20:37:58.782391+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-sst/2025/01/81/81546b7718c00f449ab90b847f87172b16978081a14d7781f0fa7a32b423e16f/article.md",
+    "record": "articles/v1/d7/yc-sst/2025/01/81/81546b7718c00f449ab90b847f87172b16978081a14d7781f0fa7a32b423e16f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2895,
+    "sha256": "sha256:cab3a4d8273455e00304715ac7e9bea87d96353d852d67bf1c258e5d1f90a12b",
+    "normalized_content_hash": "sha256:c6453fa1c4e84da2ed9ed4c01b31426c0f3a6d0ea8bc19477859d8a16402576a"
+  },
+  "provenance": {
+    "source_item_id": "d519f7b3-11ec-41ff-86a1-25525c5c0fca",
+    "external_id": "https://sst.dev/blog/container-spot-capacity/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e7c92b4ca03b0a83f9627b55972128478036f2d9a08c3036d7802dc3d786f88b",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/09/08/building-semantic-search-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/09/08/building-semantic-search-in-rust"
+  },
+  "title": "Semantic Search with Qdrant, OpenAI and Shuttle",
+  "summary": "Explore the process of creating a semantic search with Qdrant, OpenAI, and Shuttle. The article provides a detailed guide on indexing blogs, using OpenAI for document queries, and deploying a web application.",
+  "published_at": "2023-09-08T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/09/e7/e7c92b4ca03b0a83f9627b55972128478036f2d9a08c3036d7802dc3d786f88b/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/09/e7/e7c92b4ca03b0a83f9627b55972128478036f2d9a08c3036d7802dc3d786f88b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24788,
+    "sha256": "sha256:225e1af7336244b9788d858f096aece5f1a67b8b99122d3e1e1e8179f05591e6",
+    "normalized_content_hash": "sha256:88083fa970c89d60bc71d3116c1bf3107497d277d9621057244c91f2c438c061"
+  },
+  "provenance": {
+    "source_item_id": "5c21c3a5-87a5-4b19-b0e2-ac93b4823c48",
+    "external_id": "https://www.shuttle.dev/blog/2023/09/08/building-semantic-search-in-rust"
+  }
+}

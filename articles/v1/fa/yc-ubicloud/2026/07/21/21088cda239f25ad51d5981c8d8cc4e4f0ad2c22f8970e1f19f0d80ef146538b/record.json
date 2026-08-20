@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "21088cda239f25ad51d5981c8d8cc4e4f0ad2c22f8970e1f19f0d80ef146538b",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals",
+    "canonical": "https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals"
+  },
+  "title": "Cloud virtualization: Red Hat, AWS Firecracker, and Ubicloud internals",
+  "summary": "VMs are much harder to understand these days. Linux provides many building blocks for virtualization, but only a select few kernel engineers know how to stitch them together. So, we compiled our understanding into this blog that describes four reference architectures - Red Hat, AWS Firecracker, Ubicloud, and AWS Nitro.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-16T21:29:09.358170+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/21/21088cda239f25ad51d5981c8d8cc4e4f0ad2c22f8970e1f19f0d80ef146538b/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/21/21088cda239f25ad51d5981c8d8cc4e4f0ad2c22f8970e1f19f0d80ef146538b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16012,
+    "sha256": "sha256:970fd8d4a8a1670f34556edbb25b8988799cd66888c577ef0a9180c858ebeed9",
+    "normalized_content_hash": "sha256:5e9496f3abe0115238229b27360d04f2c658d31e46e37f324f3964cde6bc0eae"
+  },
+  "provenance": {
+    "source_item_id": "da4072b1-2578-4c3f-9751-9087c233fd56",
+    "external_id": "https://www.ubicloud.com/blog/cloud-virtualization-red-hat-aws-firecracker-and-ubicloud-internals"
+  }
+}

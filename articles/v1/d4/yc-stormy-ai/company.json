@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-stormy-ai",
+    "name": "Stormy AI"
+  },
+  "record_count": 41,
+  "first_published_at": "2026-04-26T00:37:37.871676+00:00",
+  "last_published_at": "2026-08-15T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 21
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d4/yc-stormy-ai/index/pages/000001.json",
+        "record_count": 41,
+        "byte_count": 44745,
+        "sha256": "sha256:b6c3da0cf9fa928670ff0f6280f570fac9030622705219abdc0c6a39075b38f3",
+        "newest_at": "2026-08-15T00:00:00+00:00",
+        "oldest_at": "2026-04-26T00:37:37.871676+00:00"
+      }
+    ]
+  }
+}

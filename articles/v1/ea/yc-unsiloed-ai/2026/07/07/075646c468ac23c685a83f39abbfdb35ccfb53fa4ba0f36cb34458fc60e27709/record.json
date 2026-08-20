@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "075646c468ac23c685a83f39abbfdb35ccfb53fa4ba0f36cb34458fc60e27709",
+  "company": {
+    "key": "yc-unsiloed-ai",
+    "name": "Unsiloed AI"
+  },
+  "source": {
+    "id": "yc-unsiloed-ai-news-import-f01c67e8267b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.unsiloed.ai/blog/parsing-charts-figures-pdf-document-parsing",
+    "canonical": "https://www.unsiloed.ai/blog/parsing-charts-figures-pdf-document-parsing"
+  },
+  "title": "Charts, Plots, and Figures: Getting Visual Data APIs Skip (July 2026)",
+  "summary": "Most PDF parsers treat charts as decoration and return nothing. Learn how to extract structured chart and figure data with confidence scores and citations —",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T18:30:15.475073+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-20T03:12:47.029800+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-unsiloed-ai/2026/07/07/075646c468ac23c685a83f39abbfdb35ccfb53fa4ba0f36cb34458fc60e27709/article.md",
+    "record": "articles/v1/ea/yc-unsiloed-ai/2026/07/07/075646c468ac23c685a83f39abbfdb35ccfb53fa4ba0f36cb34458fc60e27709/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14017,
+    "sha256": "sha256:7aa8e7904c66ce827e744defb4add98ae83f2b39ea80bec46bcc5f5c58482345",
+    "normalized_content_hash": "sha256:426222d1bd564a42037358673b3e65aea4799d4355ab023d7949605c382ccc1a"
+  },
+  "provenance": {
+    "source_item_id": "0bb142b3-9cd1-4222-a2b8-c29f6ec2e673",
+    "external_id": "https://www.unsiloed.ai/blog/parsing-charts-figures-pdf-document-parsing"
+  }
+}

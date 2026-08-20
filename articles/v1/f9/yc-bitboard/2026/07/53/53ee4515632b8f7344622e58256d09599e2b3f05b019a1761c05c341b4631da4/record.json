@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "53ee4515632b8f7344622e58256d09599e2b3f05b019a1761c05c341b4631da4",
+  "company": {
+    "key": "yc-bitboard",
+    "name": "BitBoard"
+  },
+  "source": {
+    "id": "yc-bitboard-news-import-cd518ead63b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bitboard.work/blog/agent-ergonomics",
+    "canonical": "https://bitboard.work/blog/agent-ergonomics/"
+  },
+  "title": "Data Agent Ergonomics",
+  "summary": "Coding agents are getting good at analysis, but the output is hard to trust and often inefficient. How we think about accuracy and efficiency for data agents.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T10:23:59.081525+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-08-20T02:24:30.050783+00:00",
+  "paths": {
+    "article": "articles/v1/f9/yc-bitboard/2026/07/53/53ee4515632b8f7344622e58256d09599e2b3f05b019a1761c05c341b4631da4/article.md",
+    "record": "articles/v1/f9/yc-bitboard/2026/07/53/53ee4515632b8f7344622e58256d09599e2b3f05b019a1761c05c341b4631da4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2705,
+    "sha256": "sha256:5be0448551aa5e7e0ee695bcf78e7b641add31b5c342ff102016cf442e309b6a",
+    "normalized_content_hash": "sha256:b06b64de15bee1f2941b5cfcd2de00353039a2e3b316b7cfcb188aea0614597b"
+  },
+  "provenance": {
+    "source_item_id": "932c6fff-68cc-4bf7-8859-093ecfb52a75",
+    "external_id": "https://bitboard.work/blog/agent-ergonomics/"
+  }
+}

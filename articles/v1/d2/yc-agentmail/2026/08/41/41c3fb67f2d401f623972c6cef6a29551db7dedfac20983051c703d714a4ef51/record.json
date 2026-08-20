@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "41c3fb67f2d401f623972c6cef6a29551db7dedfac20983051c703d714a4ef51",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/agentmail-official-openclaw-plugin",
+    "canonical": "https://www.agentmail.to/blog/agentmail-official-openclaw-plugin"
+  },
+  "title": "AgentMail is now an official OpenClaw plugin",
+  "summary": "AgentMail is on ClawHub as an official OpenClaw plugin. It ships a CLI-backed AgentMail skill plus an email channel: inbound mail drives an agent turn and the agent replies in the thread, with a default-deny sender allowlist. Install it with one command.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T21:22:50.659375+00:00",
+  "fetched_at": "2026-08-18T21:22:52.594592+00:00",
+  "last_updated_at": "2026-08-20T02:25:07.860354+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/08/41/41c3fb67f2d401f623972c6cef6a29551db7dedfac20983051c703d714a4ef51/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/08/41/41c3fb67f2d401f623972c6cef6a29551db7dedfac20983051c703d714a4ef51/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7828,
+    "sha256": "sha256:29917c6c19a0d19680b6d27bdffa6a21f25337c960e1601af35ddba5bdb57f2d",
+    "normalized_content_hash": "sha256:3a5222ff65066326640a430184d1ccd79348f86edfca8ba41b0dc0283bd4c07c"
+  },
+  "provenance": {
+    "source_item_id": "56196e6a-1bca-4c16-9ea9-4aa1d196b422",
+    "external_id": "https://www.agentmail.to/blog/agentmail-official-openclaw-plugin"
+  }
+}

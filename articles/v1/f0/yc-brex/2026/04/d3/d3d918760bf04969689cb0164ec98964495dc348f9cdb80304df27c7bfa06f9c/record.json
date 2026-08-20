@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d3d918760bf04969689cb0164ec98964495dc348f9cdb80304df27c7bfa06f9c",
+  "company": {
+    "key": "yc-brex",
+    "name": "Brex"
+  },
+  "source": {
+    "id": "yc-brex-news-import-5eb786253ae8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brex.com/journal/terminal-ui-became-an-agent-interface",
+    "canonical": "https://www.brex.com/journal/terminal-ui-became-an-agent-interface"
+  },
+  "title": "When your infrastructure tool's best interface is a web page, you have an agent problem",
+  "summary": "We built a terminal UI to replace a browser tab. Then we realized we'd built something agents could use too.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:29:48.523536+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-20T02:32:36.103129+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-brex/2026/04/d3/d3d918760bf04969689cb0164ec98964495dc348f9cdb80304df27c7bfa06f9c/article.md",
+    "record": "articles/v1/f0/yc-brex/2026/04/d3/d3d918760bf04969689cb0164ec98964495dc348f9cdb80304df27c7bfa06f9c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6789,
+    "sha256": "sha256:f57cb7acd74e765f8c2e01afbf326eccea7437fc28016351a66bd03e071bab9a",
+    "normalized_content_hash": "sha256:88e13d19ce77a77b23b5432c0b74308586d36bc4bbbf9cc2fcf7e5fe76f444e3"
+  },
+  "provenance": {
+    "source_item_id": "42365f20-b9b5-49f8-a5c1-3d2372a63e81",
+    "external_id": "https://www.brex.com/journal/terminal-ui-became-an-agent-interface"
+  }
+}

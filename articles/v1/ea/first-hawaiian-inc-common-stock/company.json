@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "first-hawaiian-inc-common-stock",
+    "name": "First Hawaiian Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2025-10-03T20:00:00+00:00",
+  "last_published_at": "2026-07-24T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ea/first-hawaiian-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11975,
+        "sha256": "sha256:da7a2dc27358ee8716fa232931c242a20f3ebc17a6a224969f9344c996c742c8",
+        "newest_at": "2026-07-24T12:00:00+00:00",
+        "oldest_at": "2025-10-03T20:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "kymera-therapeutics-inc-common-stock",
+    "name": "Kymera Therapeutics Inc."
+  },
+  "record_count": 8,
+  "first_published_at": "2019-04-11T10:03:00+00:00",
+  "last_published_at": "2021-07-06T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d8/kymera-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 10951,
+        "sha256": "sha256:f4d2622b5bb8986522741a98d62f996a494b8745496ed533a789316e3ef8714a",
+        "newest_at": "2021-07-06T11:00:00+00:00",
+        "oldest_at": "2019-04-11T10:03:00+00:00"
+      }
+    ]
+  }
+}

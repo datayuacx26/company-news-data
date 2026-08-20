@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "21b7dd983de72e31f777c6c624e33fb7fddbfc226754e2fca4285a19688e4c15",
+  "company": {
+    "key": "yc-justai",
+    "name": "JustAI"
+  },
+  "source": {
+    "id": "yc-justai-news-import-e4de3da632ca",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.getjust.ai/blog/bandits-at-fleet-scale",
+    "canonical": "https://www.getjust.ai/blog/bandits-at-fleet-scale"
+  },
+  "title": "Tuning Bandits at Fleet Scale",
+  "summary": "The multi-armed bandits behind JustAI's decisioning agent, and how we tune thousands of them to get the most out of every campaign's data.",
+  "published_at": null,
+  "first_seen_at": "2026-08-19T02:36:00.722310+00:00",
+  "fetched_at": "2026-08-19T02:36:02.718601+00:00",
+  "last_updated_at": "2026-08-19T15:38:43.356594+00:00",
+  "paths": {
+    "article": "articles/v1/cb/yc-justai/2026/08/21/21b7dd983de72e31f777c6c624e33fb7fddbfc226754e2fca4285a19688e4c15/article.md",
+    "record": "articles/v1/cb/yc-justai/2026/08/21/21b7dd983de72e31f777c6c624e33fb7fddbfc226754e2fca4285a19688e4c15/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25025,
+    "sha256": "sha256:c757b75e2a574092a30fb3c9fcab4a21d9e61660f013e39f72c64c6b3596ff24",
+    "normalized_content_hash": "sha256:b99a31e86b7d2f00c5db257c4f5be10d730fd805c3fef2909363832be896d929"
+  },
+  "provenance": {
+    "source_item_id": "e411194b-73af-48e7-b3ad-09a486fe9a9c",
+    "external_id": "https://www.getjust.ai/blog/bandits-at-fleet-scale"
+  }
+}

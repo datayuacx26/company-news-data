@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "53795443ba808d1c5214cd8045e4e07e2fc3b437a312a7cb443339e0fe58a626",
+  "company": {
+    "key": "yc-datasaur",
+    "name": "Datasaur"
+  },
+  "source": {
+    "id": "yc-datasaur-news-import-f7082d4871d2",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://datasaur.ai/blog-posts/a-new-way-to-label-text-span-line-labeling",
+    "canonical": "https://datasaur.ai/blog-posts/a-new-way-to-label-text-span-line-labeling"
+  },
+  "title": "A New Way to Label Text: Span + Line Labeling",
+  "summary": "We’ve introduced a new mixed labeling type that supports labeling spans within a line while also categorizing entire lines separately. This allows you to configure questions for each line and still perform regular span labeling. Perfect for use cases that require dual-level granularity like transcripts, contracts, or forms.",
+  "published_at": "2025-05-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:27:49.393704+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T01:25:53.443109+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-datasaur/2025/05/53/53795443ba808d1c5214cd8045e4e07e2fc3b437a312a7cb443339e0fe58a626/article.md",
+    "record": "articles/v1/cd/yc-datasaur/2025/05/53/53795443ba808d1c5214cd8045e4e07e2fc3b437a312a7cb443339e0fe58a626/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2272,
+    "sha256": "sha256:737945404727467734506e52d53eff2bb4e8fcd70260f0299a05396b70df7372",
+    "normalized_content_hash": "sha256:facb1519d5a2a7172a7915378fa362ab9bcb3995b6f326d5aedd99129b3bec36"
+  },
+  "provenance": {
+    "source_item_id": "c9cf7584-969d-4221-86bd-5d981041d427",
+    "external_id": "https://datasaur.ai/blog-posts/a-new-way-to-label-text-span-line-labeling"
+  }
+}

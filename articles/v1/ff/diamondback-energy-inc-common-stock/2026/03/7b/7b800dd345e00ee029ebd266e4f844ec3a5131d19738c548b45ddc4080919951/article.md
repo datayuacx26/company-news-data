@@ -1,0 +1,57 @@
+---
+schema_version: "1.0.0"
+document_id: "7b800dd345e00ee029ebd266e4f844ec3a5131d19738c548b45ddc4080919951"
+company_key: "diamondback-energy-inc-common-stock"
+company: "Diamondback Energy Inc."
+source_id: "diamondback-energy-inc-common-stock-rss-c567a69b4c93"
+canonical_url: "https://www.diamondbackenergy.com/news-releases/news-release-details/diamondback-energy-announces-launch-secondary-common-stock-0"
+published_at: "2026-03-10T20:10:00+00:00"
+first_seen_at: "2026-07-26T12:57:34.253606+00:00"
+fetched_at: "2026-07-28T20:53:30.609843+00:00"
+content_hash: "sha256:1d3b2b05060da2f0d171c7e60d4cdcf7ba35d428d7cc851a10edbc4bf0aa1b37"
+---
+
+# Diamondback Energy Announces Launch of Secondary Common Stock Offering
+
+## Diamondback Energy Announces Launch of Secondary Common Stock Offering
+
+
+March 10, 2026
+
+
+[PDF Version](https://www.diamondbackenergy.com/node/17431/pdf)
+
+
+MIDLAND, Texas, March 10, 2026 (GLOBE NEWSWIRE) -- Diamondback Energy, Inc. (NASDAQ: FANG) (“Diamondback”) announced today the launch of an underwritten public offering of 11,000,000 shares of its common stock by SGF FANG Holdings, LP (the “Selling Stockholder”), subject to market and other conditions (the “Secondary Offering”). Diamondback will not receive any proceeds from the sale of the shares by the Selling Stockholder. The Selling Stockholder has also granted the underwriters a 30-day option to purchase up to an additional 1,650,000 shares of common stock, solely to cover over-allotments.
+
+
+Evercore ISI, Citigroup and J.P. Morgan are acting as joint book-running managers for the Secondary Offering.
+
+
+Diamondback has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents Diamondback has filed with the SEC for more complete information about Diamondback and this offering. Copies of the base prospectus and prospectus supplement for the Secondary Offering, when available, may be obtained from Evercore Group L.L.C., Attention: Equity Capital Markets, 55 East 52nd Street, 35th Floor, New York, New York 10055, by telephone at (888) 474-0200, or by email atecm.prospectus@evercore.com ; Citigroup, c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717 (Tel: 800-831-9146); and J.P. Morgan Securities LLC, c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717, or by email atprospectus-eq_fi@jpmchase.com andpostsalemanualrequests@broadridge.com .
+
+
+This press release shall not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of such state or jurisdiction.
+
+
+**About Diamondback Energy, Inc.**
+
+
+Diamondback is an independent oil and natural gas company headquartered in Midland, Texas focused on the acquisition, development, exploration and exploitation of unconventional, onshore oil and natural gas reserves primarily in the Permian Basin in West Texas.
+
+
+**Cautionary Note Regarding Forward-Looking Statements**
+
+
+This news release contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which involve risks, uncertainties, and assumptions. All statements, other than statements of historical fact, including statements regarding the completion of the Secondary Offering, Diamondback’s future performance; business strategy; future operations (including drilling plans and capital plans); estimates and projections of revenues, losses, costs, expenses, returns, cash flow, and financial position; reserve estimates and its ability to replace or increase reserves; anticipated benefits of strategic transactions (including acquisitions and divestitures); and plans and objectives of management (including plans for future cash flow from operations and for executing environmental strategies) are forward-looking statements. When used in this news release or otherwise by Diamondback, the words “aim,” “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “forecast,” “future,” “guidance,” “intend,” “may,” “model,” “outlook,” “plan,” “positioned,” “potential,” “predict,” “project,” “seek,” “should,” “target,” “will,” “would,” and similar expressions (including the negative of such terms) as they relate to Diamondback are intended to identify forward-looking statements, although not all forward-looking statements contain such identifying words. Although Diamondback believes that the expectations and assumptions reflected in its forward-looking statements are reasonable as and when made, they involve risks and uncertainties that are difficult to predict and, in many cases, beyond Diamondback’s control. Accordingly, forward-looking statements are not guarantees of future performance and Diamondback’s actual outcomes could differ materially from what Diamondback has expressed in its forward-looking statements. Information concerning these risks and uncertainties and other factors can be found in Diamondback’s filings with the U.S. Securities and Exchange Commission ("SEC"), including the registration statement, prospectus and prospectus supplement relating to the Secondary Offering and its reports on Forms 10-K, 10-Q and 8-K, each of which can be obtained free of charge on the SEC’s web site at[http://www.sec.gov](http://www.sec.gov/) . Diamondback undertakes no obligation to update or revise any forward-looking statement unless required by applicable law.
+
+
+**Investor Contact:**
+
+
+Adam Lawlis
++1 432.221.7467
+alawlis@diamondbackenergy.com
+
+
+Source: Diamondback Energy, Inc.

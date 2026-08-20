@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4c4f179a6ddb7b3e727dd34bd7b9a17a3608f1a13cff6965d86d6b4d317a9081",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/fonoster-voiceserver-lfi-vulnerability",
+    "canonical": "https://zeropath.com/blog/fonoster-voiceserver-lfi-vulnerability"
+  },
+  "title": "Fonoster VoiceServer LFI Vulnerability (CVE-2024-43035)",
+  "summary": "Security researchers at ZeroPath discovered a Local File Inclusion (LFI) vulnerability in Fonoster VoiceServer, an open-source AI project for building voice applications.",
+  "published_at": "2024-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-18T16:53:32.707804+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2024/08/4c/4c4f179a6ddb7b3e727dd34bd7b9a17a3608f1a13cff6965d86d6b4d317a9081/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2024/08/4c/4c4f179a6ddb7b3e727dd34bd7b9a17a3608f1a13cff6965d86d6b4d317a9081/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5182,
+    "sha256": "sha256:cc252effff28a9a6263f35ad7ee98fe27e9b5a76afae7a9a3dbd6d9fdcca4e9c",
+    "normalized_content_hash": "sha256:60d2cc05ec5aab8537cb8e9b5d76b2937d648bdece7d250847e2d65e2ea154ab"
+  },
+  "provenance": {
+    "source_item_id": "fb046286-8b52-44f1-a2e9-3830c1c006eb",
+    "external_id": "https://zeropath.com/blog/fonoster-voiceserver-lfi-vulnerability"
+  }
+}

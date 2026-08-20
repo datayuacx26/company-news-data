@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b72b78e84e5f6b46cf4d56cb8432bf32bac72ed2835db972c69f822fd95c8b7c",
+  "company": {
+    "key": "a10-networks-inc-common-stock",
+    "name": "A10 Networks Inc."
+  },
+  "source": {
+    "id": "a10-networks-inc-common-stock-rss-284845abe605",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.a10networks.com/blog/post-quantum-cryptography-comes-to-a10-ssl-tls-data-plane/",
+    "canonical": "https://www.a10networks.com/blog/post-quantum-cryptography-comes-to-a10-ssl-tls-data-plane/"
+  },
+  "title": "Post-quantum Cryptography Comes to A10 SSL/TLS Data Plane",
+  "summary": "ACOS 7.0.3 introduces hybrid KEM support in the A10 SSL/TLS data plane, powered by OpenSSL 3.5.",
+  "published_at": "2026-05-07T17:12:49+00:00",
+  "first_seen_at": "2026-07-23T23:21:56.777318+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-08-04T22:44:08.450665+00:00",
+  "paths": {
+    "article": "articles/v1/ce/a10-networks-inc-common-stock/2026/05/b7/b72b78e84e5f6b46cf4d56cb8432bf32bac72ed2835db972c69f822fd95c8b7c/article.md",
+    "record": "articles/v1/ce/a10-networks-inc-common-stock/2026/05/b7/b72b78e84e5f6b46cf4d56cb8432bf32bac72ed2835db972c69f822fd95c8b7c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6783,
+    "sha256": "sha256:d5de57862b72ebbc723d7ed3b34baef484a79c2ff0ff8e9f7eab6ebc1489a8a5",
+    "normalized_content_hash": "sha256:4405e43f7c5d650b6de131647823017e0e249222164848d5565f265595b5e27e"
+  },
+  "provenance": {
+    "source_item_id": "05571370-fe67-4b5f-86d5-2aa82d04382f",
+    "external_id": "https://www.a10networks.com/?p=70790"
+  }
+}

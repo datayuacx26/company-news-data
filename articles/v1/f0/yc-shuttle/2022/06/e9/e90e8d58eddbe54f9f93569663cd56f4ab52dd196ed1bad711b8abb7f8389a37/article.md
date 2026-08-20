@@ -1,0 +1,680 @@
+---
+schema_version: "1.0.0"
+document_id: "e90e8d58eddbe54f9f93569663cd56f4ab52dd196ed1bad711b8abb7f8389a37"
+company_key: "yc-shuttle"
+company: "Shuttle"
+source_id: "yc-shuttle-rss-52efc69d7cac"
+canonical_url: "https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern"
+published_at: "2022-06-09T15:00:00+00:00"
+first_seen_at: "2026-07-20T23:24:10.103156+00:00"
+fetched_at: "2026-07-28T21:03:24.473366+00:00"
+content_hash: "sha256:98d539979ff1c095b6be968d9c14899baabdee9d7049a7a6eaae8fad02877310"
+---
+
+# Builders in Rust
+
+This blog post is powered by shuttle! The serverless platform built for Rust.
+
+
+In this post, we'll be going over the "builder pattern". The builder pattern is an API design pattern for constructing instances of Rust structures. We'll be going over where it makes sense to use it and some of the benefits of applying it to your structs.
+
+
+## Examples #
+
+
+Here are some examples of the builder pattern in common Rust crates:
+
+
+[Command](https://doc.rust-lang.org/std/process/struct.Command.html) from the Rust standard library
+
+
+```text
+Command  ::  new  (  "cmd"  )
+.  args  (  [  "/C"  ,    "echo hello"  ]  )
+.  output  (  )
+
+
+```
+
+
+[Rocket](https://api.rocket.rs/v0.5/rocket/struct.Rocket) in Rocket
+
+
+```text
+rocket ::   build  (  )
+.  mount  (  "/hello"  ,    routes!  [  world ]  )
+.  launch  (  )
+
+
+```
+
+
+[Response](https://docs.rs/http/latest/http/response/struct.Response.html#method.builder) in the HTTP crate
+
+
+```text
+Response  ::  builder  (  )
+.  status  (  200  )
+.  header  (  "X-Custom-Foo"  ,    "Bar"  )
+.  header  (  "Set-Cookie"  ,    "key=2"  )
+.  body  (  (  )  )
+.  unwrap  (  )  ;
+
+
+```
+
+
+[Cargo uses the pattern internally for tests](https://github.com/rust-lang/cargo/blob/c6745a3d7fcea3a949c3e13e682b8ddcbd213add/tests/testsuite/build.rs#L74-L91)
+
+
+Ok - so let's dive into *what* the builder pattern actually is.
+
+
+## What is the builder pattern #
+
+
+Given the following struct representation:
+
+
+```text
+struct    Message    {
+from :    String  ,
+content :    String  ,
+attachment :    Option  <  String  >
+}
+
+
+```
+
+
+Using struct initialization syntax:
+
+
+```text
+Message    {
+from :    "John Smith"  .  into  (  )  ,
+content :    "Hello!"  .  into  (  )  ,
+attachment :    None
+}
+
+
+```
+
+
+Using a builder pattern:
+
+
+```text
+Message  ::  builder  (  )
+.  from  (  "John Smith"  .  into  (  )  )
+.  content  (  "Hello!"  .  into  (  )  )
+.  build  (  )
+
+
+```
+
+
+The builder pattern consists of:
+
+
+- A function that generates a *intermediate builder structure* (` Message::builder()` )
+- A chain of methods which set values on the builder: (` .from("John Smith".into()).content("Hello!".into())` )
+- A final method which builds the final value from the intermediate structure` .build()`
+
+
+The structure of the builder pattern follows the functional programming design and has likeness of building iterators.
+
+
+The setting methods take a mutable reference to the builder and return the same reference (thus for chaining to work). The handy part about working with mutable references is that it can be shared around between functions and if statements:
+
+
+```text
+fn    build_message_from_console_input  (
+builder :    &  mut    MessageBuilder
+)    ->    Result  <  (  )  ,    Box  <  dyn    Error  >>    {
+let    mut   buffer  =    String  ::  new  (  )  ;
+let    mut   stdin  =    std ::  io ::   stdin  (  )  ;
+stdin .  read_line  (  &  mut   buffer )  .  unwrap  (  )  ;
+
+
+let   split  =   buffer .  rsplit_once  (  "with attachment: "  )  ;
+if    let    Some  (  (  message ,   attachment_path )  )    =   split  {
+let   attachment  =
+std ::  fs ::   read_to_string  (  attachment_path )  .  unwrap  (  )  ;
+builder
+.  content  (  message .  into  (  )  )  ;
+.  attachment  (  attachment )  ;
+}    else    {
+builder .  text_filter  (  buffer )  ;
+}
+}
+
+
+```
+
+
+Next we'll explore some places where the builder pattern can offer a lot of benefits.
+
+
+#### Constraints and computed data #
+
+
+Given the following struct which represents running a certain function at a certain time:
+
+
+```text
+struct    FutureRequest  <  T  :    FnOnce  (  )  >    {
+at :    chrono ::   DateTime  <  chrono ::   Utc  >  ,
+func :    T
+}
+
+
+```
+
+
+We don't want the program to be able to create a` FutureRequest` for a time in the past.
+
+
+With regular struct initialisation and public fields there isn't a good way to constrain the values being given to the struct[1](https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern#user-content-fn-type_constraints)
+
+
+```text
+let   fq  =    FutureRequest    {
+at :    chrono ::   DateTime  ::  from_utc  (
+chrono ::   NaiveDate  ::  from_ymd  (  -  112  ,    2  ,    18  )
+.  and_hms  (  11  ,    5  ,    6  )  ,
+Utc
+)  ,
+func :    |  |     println!  (  "𓅥𓃶𓀫"  )  ,
+}
+
+
+```
+
+
+However with the builder pattern and a method for setting the time we can validate the value before it is assigned
+
+
+```text
+#[derive(Debug)]
+struct    SchedulingInPastError  ;
+
+
+impl  <  T  :    FnOnce  (  )    ->    (  )  >    FutureRequestBuilder  <  T  >    {
+fn    at  (
+&  mut    self  ,
+date_time :    chrono ::   DateTime  <  Utc  >
+)    ->    Result  <  &  mut    Self  ,    SchedulingInPastError  >    {
+if   date_time  <    Utc  ::  now  (  )    {
+Err  (  SchedulingInPastError  )
+}    else    {
+self  .  at  =   date_time ;
+Ok  (  self  )
+}
+}
+}
+
+
+```
+
+
+Maybe we don't even want an absolute time - but a relative time at some point in the future.
+
+
+```text
+fn    after  (  &  mut    self  ,   duration :    std ::  time ::   Duration  )    ->    &  mut    Self    {
+self  .  at  =    Utc  ::  now  (  )    +    chrono ::   Duration  ::  from_std  (  duration )  .  unwrap  (  )  ;
+self
+}
+}
+
+
+```
+
+
+#### Encapsulating data #
+
+
+Sometimes - we want to keep some fields hidden from the user:
+
+
+```text
+struct    Query    {
+pub   on_database :    String  ,
+// ...
+}
+
+
+fn    foo  (  query :    &  mut    Query  )    {
+// You want mutable access to call mutable methods on the query
+// but want to prevent against:
+query .  on_database .  drain  (  ..  )  ;
+}
+
+
+```
+
+
+So you could make the fields private and create a function which constructs the value (known as a constructor):
+
+
+```text
+impl    Query    {
+fn    new  (
+fields :    Vec  <  String  >  ,
+text_filter :    String  ,
+database :    String  ,
+table :    String  ,
+fixed_amount :    Option  <  usize  >  ,
+descending :    bool  ,
+)    ->    Self    {
+unimplemented!  (  )
+}
+}
+
+
+let   query  =    Query  ::  new  (
+vec!  [  "title"  .  into  (  )  ]  ,
+"Morbius 2"  .  into  (  )  ,
+"imdb"  .  into  (  )  ,
+"films"  .  into  (  )  ,
+None  ,
+false
+)  ;
+
+
+```
+
+
+But this causes confusion at the call site. Its not clear whether "imdb" is the database, the table or the text_filter?[2](https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern#user-content-fn-vscode-inlay-hints) .
+
+
+The builder pattern makes it much easier to read and understand what's happening during initialisation:
+
+
+```text
+let   query  =    Query  ::  builder  (  )
+.  fields  (  vec!  [  "title"  .  into  (  )  ]  )  ,
+.  text_filter  (  "Morbius 2"  .  into  (  )  )  ,
+.  database  (  "imdb"  .  into  (  )  )  ,
+.  table  (  "films"  .  into  (  )  )  ,
+.  fixed_amount  (  None  )  ,
+.  descending  (  false  )
+.  build  (  )  ;
+
+
+```
+
+
+#### Enums and nested data #
+
+
+So far we've just discussed structs - let's talk about enums:
+
+
+```text
+enum    HTMLNode    {
+Text  (  String  )  ,
+Comment  (  String  )  ,
+Element  (  HTMLElement  )
+}
+
+
+struct    HTMLElement    {
+tag_name :    String  ,
+attributes :    HashMap  <  String  ,    Option  <  String  >>  ,
+children :    Vec  <  HTMLNode  >
+}
+
+
+```
+
+
+Here there is builder associated with each variant:
+
+
+```text
+HTMLNode  ::  text_builder  (  )
+.  text  (  "Some text"  .  into  (  )  )
+.  build  (  )
+
+
+// vs
+
+
+HTMLNode  ::  Text  (  "Some text"  .  into  (  )  )
+
+
+// --
+
+
+HTMLNode  ::  element_builder  (  )
+.  tag_name  (  "p"  .  into  (  )  )
+.  attribute  (  "class"  .  into  (  )  ,    "big quote"  .  into  (  )  )
+.  attribute  (  "tabindex"  .  into  (  )  ,    "5"  .  into  (  )  )
+.  content  (  "Some text"  )
+
+
+// vs
+
+
+HTMLNode  ::  Element  (  HTMLElement    {
+tag_name :    "p"  .  into  (  )  ,
+attributes :    [
+(  "class"  .  into  (  )  ,    "big quote"  .  into  (  )  )  ,
+(  "tabindex"  .  into  (  )  ,    "5"  .  into  (  )  )
+]  .  into_iter  (  )  ,
+children :    vec!  [  HTMLNode  ::  Text  (  "Some text"  .  into  (  )  )  ]
+}  )
+
+
+```
+
+
+## Building our own builder pattern #
+
+
+Now let's build our own builders (no pun intended). In this example we have some users:
+
+
+```text
+#[derive(Debug)]
+struct    User    {
+username :    String  ,
+birthday :    NaiveDate  ,
+}
+
+
+struct    UserBuilder    {
+username :    Option  <  String  >  ,
+birthday :    Option  <  NaiveDate  >  ,
+}
+
+
+#[derive(Debug)]
+struct    InvalidUsername  ;
+
+
+#[derive(Debug)]
+enum    IncompleteUserBuild    {
+NoUsername  ,
+NoCreatedOn  ,
+}
+
+
+impl    UserBuilder    {
+fn    new  (  )    ->    Self    {
+Self    {
+username :    None  ,
+birthday :    None  ,
+}
+}
+
+
+fn    set_username  (  &  mut    self  ,   username :    String  )    ->    Result  <  &  mut    Self  ,    InvalidUsername  >    {
+// true if every character is number of lowercase letter in English alphabet
+let   valid  =   username
+.  chars  (  )
+.  all  (  |  chr |     matches!  (  chr ,    'a'  ..=  'z'    |    '0'  ..=  '9'  )  )  ;
+
+
+if   valid  {
+self  .  username  =    Some  (  username )  ;
+Ok  (  self  )
+}    else    {
+Err  (  InvalidUsername  )
+}
+}
+
+
+fn    set_birthday  (  &  mut    self  ,   date :    NaiveDate  )    ->    &  mut    Self    {
+self  .  birthday  =    Some  (  date )  ;
+self
+}
+
+
+fn    build  (  &  self  )    ->    Result  <  User  ,    IncompleteUserBuild  >    {
+if    let    Some  (  username )    =    self  .  username .  clone  (  )    {
+if    let    Some  (  birthday )    =    self  .  birthday .  clone  (  )    {
+Ok  (  User    {   username ,   birthday  }  )
+}    else    {
+Err  (  IncompleteUserBuild  ::  NoCreatedOn  )
+}
+}    else    {
+Err  (  IncompleteUserBuild  ::  NoUsername  )
+}
+}
+}
+
+
+```
+
+
+Some things to look out for:
+
+
+- Every set method must take a mutable reference in order to add the data to the backer
+- The method must then return the mutable reference it has to allow for them to be chained.
+
+
+There are clones in the` build` method but if that method is only called once then it is optimized out by Rust.
+
+
+## Automatic approaches #
+
+
+Similar to how Clone and Debug work, crates can create there own derive macros.[There are a lot of crates which can help with generating the builder pattern](https://lib.rs/keywords/builder) . Let's take a look at a few:
+
+
+### [derive_builder](https://lib.rs/crates/derive_builder) #
+
+
+```text
+#[derive(Debug, derive_builder::Builder)]
+#[builder(build_fn(validate =  "Self::validate"  ))]
+struct    Query    {
+fields :    Vec  <  String  >  ,
+text_filter :    String  ,
+database :    String  ,
+table :    String  ,
+fixed_amount :    Option  <  usize  >  ,
+descending :    bool  ,
+}
+
+
+// Usage same as described patterns:
+let   query  =    Query  ::  builder  (  )
+.  table  (  "..."  .  into  (  )  )
+// ...
+.  build  (  )
+.  unwrap  (  )  ;
+
+
+```
+
+
+This derive macro generates a new struct named the same as the original structure but postfixed with` Builder` (in this case` QueryBuilder` ).
+
+
+Derive builder has the downside of a whole object validation rather than per field. As well as the error variant of construction being a` String` , which makes it harder to match on the error or return error data compared to a error enum:
+
+
+```text
+impl    Query    {
+fn    validate  (  &  self  )    ->    Result  <  (  )  ,    String  >    {
+let   valid  =    self
+.  database
+.  as_ref  (  )
+.  map  (  |  value |    value  ==    "pg_roles"  )
+.  unwrap_or_default  (  )  ;
+
+
+if   valid  {
+Ok  (  (  )  )
+}    else    {
+Err  (  "Cannot construct Query on 'pg_roles'"  .  into  (  )  )
+}
+}
+}
+
+
+```
+
+
+### [typed-builder](https://lib.rs/crates/typed-builder) #
+
+
+Typed-builder solves two problems with` derive_builder` :
+
+
+With` derive_builder` you can set a field twice (or more)
+
+
+```text
+Query  ::  builder  (  )
+.  database  (  "imdb"  .  into  (  )  )
+// ...
+.  database  (  "fishbase"  .  into  (  )  )
+
+
+```
+
+
+Which takes the value of the last set field which is likely a mistake. Although Rust can optimize out a write without a read it is very difficult to have a linter error for this mistake.` derive_builder` also delegates the check to whether all the required fields have been set to runtime.
+
+
+With` typed-builder` it has a very similar implementation but has a different output which Rust can reason about and check that they are no duplicate sets and the build is well formed (all the required fields have been set).
+
+
+The downside here is that it takes longer to expand the macros as there is more to generate. The added complexity also makes it more complicated to pass the builder around.
+
+
+### [Buildstructor](https://lib.rs/crates/buildstructor) #
+
+
+Buildstructor is a annotation for an existing impl block. Rather than using the fields on a structure (as seen in the previous two) to generate code it builds wrappers around existing constructor functions:
+
+
+```text
+struct    MyStruct    {
+sum :    usize
+}
+
+
+#[buildstructor::buildstructor]
+impl    MyStruct    {
+#[builder]
+fn    new  (  a :    usize  ,   b :    usize  )    ->    MyStruct    {
+Self    {   sum :   a  +   b  }
+}
+}
+
+
+MyStruct  ::  builder  (  )  .  a  (  1  )  .  b  (  2  )  .  build  (  )  ;
+
+
+```
+
+
+Similar to` typed-builder` it generates intermediate staging structs for building which has the benefits of compile time checking that all the fields exist. However that comes again with the drawback of slower compile time and less flexibility when passing it around.
+
+
+Typed builder looks to be more compatible with the Rust language which allows it to support async builders! It's definitely the more interesting one of the bunch and I will be looking to play with with it future projects.
+
+
+### Alternative patterns #
+
+
+If you just want to build a struct which has a large amount of default fields, using` ..` (base syntax) with the[Default](https://doc.rust-lang.org/std/default/trait.Default.html) trait (whether a custom implementation or the default one with` #\[derive(Default)\]` ) will do:
+
+
+```text
+#[derive(Default)]
+struct    X    {
+a :    u32  ,
+b :    i32  ,
+c :    bool  ,
+}
+
+
+X    {   a :    10  ,    ..  Default  ::  default  (  )    }
+
+
+```
+
+
+If you want computation, constraints, encapsulation and named fields you could create a intermediate struct which can be passed to a constructor:
+
+
+```text
+struct    Report    {
+title :    String  ,
+on :    chrono ::   DateTime
+// ...
+}
+
+
+struct    ReportArguments    {
+title :    String  ,
+on :    Option  <  chrono ::   DateTime  >
+// ...
+}
+
+
+impl    Report    {
+fn    new_from_arguments  (  ReportArguments    {   title ,   on  }  :    ReportArguments  )    ->    Result  <  Self  ,    &  str  >    {
+if   title .
+.  chars  (  )
+.  all  (  |  chr |     matches!  (  chr ,    'a'  ..=  'z'    |    '0'  ..=  '9'  )  )
+{
+Ok  (  Self    {
+title ,
+on :   chrono .  unwrap_or_else  (  |  |     todo!  (  )  )
+}  )
+}    else    {
+Err  (  "Invalid report name"  )
+}
+}
+}
+
+
+```
+
+
+However both of these don't the use the nice chaining syntax.
+
+
+## Conclusion #
+
+
+The builder pattern can help you write cleaner, more readable APIs, and it turn help the consumers of your APIs write better code. We can apply constraints to make sure that our structs are initialised correctly with a clean API enforcing the contract.
+
+
+One thing to remember is that code is read *much* more than it's written - so it's worth going out of our way to make our code just that little bit more pleasant to read.
+
+
+## [Shuttle](https://www.shuttle.dev/) : Stateful Serverless for Rust #
+
+
+Deploying and managing your Rust web apps can be an expensive, anxious and time consuming process.
+
+
+If you want a batteries included and ops-free experience,[try out Shuttle](https://docs.rs/shuttle-service/latest/shuttle_service/) .
+
+
+---
+
+
+## Footnotes #
+
+
+1.
+
+
+I partially agree with this, there are ways to design your types to be constrained. Here we could create a` struct FutureEvent(chrono::DateTime)` structure where the constraint is constructing the` FutureEvent` type rather than leaving the constraint to the field. But there are lots of scenarios where that isn't the case.[↩](https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern#user-content-fnref-type_constraints)
+
+
+2.
+
+
+With vscode and rust analyzer there is a feature called[inlay hints](https://rust-analyzer.github.io/manual.html#inlay-hints) which shows the names of parameters in the editor. While this is great this is a feature specific to vscode at the moment. You won't see the hints on GitHub diffs and in other text editors.[↩](https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern#user-content-fnref-vscode-inlay-hints)

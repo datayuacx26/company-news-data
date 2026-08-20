@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd4589fea721c4e8a6551872ae776c1443dd0e6e013f82c80c318a2798484ea8",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/connecting-ai-agents-to-gmail-oauth-walkthrough",
+    "canonical": "https://corsair.dev/blog/connecting-ai-agents-to-gmail-oauth-walkthrough"
+  },
+  "title": "Connecting AI Agents to Gmail: A Practical OAuth Walkthrough",
+  "summary": "Gmail looks like a simple integration until you hit consent screens, scope reviews, and expiring tokens. This walkthrough covers what it actually takes to connect an AI agent to Gmail and keep it working in production for real users.",
+  "published_at": "2026-07-24T12:05:00+00:00",
+  "first_seen_at": "2026-07-26T18:26:28.761597+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/fd/fd4589fea721c4e8a6551872ae776c1443dd0e6e013f82c80c318a2798484ea8/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/fd/fd4589fea721c4e8a6551872ae776c1443dd0e6e013f82c80c318a2798484ea8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8831,
+    "sha256": "sha256:40af06d76d2408cb98f372ed870fe458b25e7be357eceb07c4f474e165233d80",
+    "normalized_content_hash": "sha256:8835d2e7c860ca64cea14a1a821eb0df2165b9419a57536b01c7fd5630d46d02"
+  },
+  "provenance": {
+    "source_item_id": "f2001a5c-9990-413f-8700-48ad6e9a84c6",
+    "external_id": "https://corsair.dev/blog/connecting-ai-agents-to-gmail-oauth-walkthrough"
+  }
+}

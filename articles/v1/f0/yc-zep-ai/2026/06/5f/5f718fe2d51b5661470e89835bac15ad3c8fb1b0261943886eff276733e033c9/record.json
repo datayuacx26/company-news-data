@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5f718fe2d51b5661470e89835bac15ad3c8fb1b0261943886eff276733e033c9",
+  "company": {
+    "key": "yc-zep-ai",
+    "name": "Zep AI"
+  },
+  "source": {
+    "id": "yc-zep-ai-rss-0db2565bfdf1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.getzep.com/where-you-put-memory-in-the-prompt-can-cut-your-token-bill-up-to-2x/",
+    "canonical": "https://blog.getzep.com/where-you-put-memory-in-the-prompt-can-cut-your-token-bill-up-to-2x/"
+  },
+  "title": "Agent memory placement can cut your token bill up to 2x",
+  "summary": "Agent memory has to refresh every turn, but putting it in the system prompt breaks prompt caching and re-bills the whole conversation each turn. Here is the one-message fix, and the token savings it led to in an experiment.",
+  "published_at": "2026-06-24T17:55:24+00:00",
+  "first_seen_at": "2026-07-24T08:02:00.467869+00:00",
+  "fetched_at": "2026-07-28T21:10:03.278263+00:00",
+  "last_updated_at": "2026-08-20T03:41:35.476524+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-zep-ai/2026/06/5f/5f718fe2d51b5661470e89835bac15ad3c8fb1b0261943886eff276733e033c9/article.md",
+    "record": "articles/v1/f0/yc-zep-ai/2026/06/5f/5f718fe2d51b5661470e89835bac15ad3c8fb1b0261943886eff276733e033c9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9357,
+    "sha256": "sha256:abb45b980a827e5cd4d35ca52d6ba6bbdd027352e522b7bd38dadcc1fd7700bc",
+    "normalized_content_hash": "sha256:2508e54f262c1fc35e6108cb9efd7b377db8d9a9afb8c99b6ae9dd995fd14edf"
+  },
+  "provenance": {
+    "source_item_id": "b6e86827-bf79-4255-9ba1-2106bd11b33c",
+    "external_id": "6a39dad48a420f0001c5c9ee"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "lemaitre-vascular-inc-common-stock",
+    "name": "LeMaitre Vascular Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2025-11-12T21:14:05+00:00",
+  "last_published_at": "2026-08-06T21:15:41+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ff/lemaitre-vascular-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 15807,
+        "sha256": "sha256:f50907de97bb2c6f31b662257a96e0153ebca1801a71ca55afe16d30eca80e39",
+        "newest_at": "2026-08-06T21:15:41+00:00",
+        "oldest_at": "2025-11-12T21:14:05+00:00"
+      }
+    ]
+  }
+}

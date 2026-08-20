@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afae9d4f10541a98cc68612fbe9a6662f744db90caf30e647f4665afc60e41a4",
+  "company": {
+    "key": "yc-navier-ai",
+    "name": "Navier AI"
+  },
+  "source": {
+    "id": "yc-navier-ai-news-import-c904ef9ba107",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://navier.ai/blog/2026-08-04-onera-m6-validation",
+    "canonical": "https://www.navier.ai/blog/2026-08-04-onera-m6-validation"
+  },
+  "title": "Getting the λ-Shock Right: ONERA M6 Transonic Validation",
+  "summary": "The standard transonic benchmark, run against 270 of the 271 published pressure taps. The double-shock structure comes out right and merges where the experiment puts it — and decomposing our own drag killed our first explanation for the part that did not.",
+  "published_at": "2026-08-04T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T02:20:37.608858+00:00",
+  "fetched_at": "2026-08-11T02:20:38.536507+00:00",
+  "last_updated_at": "2026-08-19T23:03:57.683886+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-navier-ai/2026/08/af/afae9d4f10541a98cc68612fbe9a6662f744db90caf30e647f4665afc60e41a4/article.md",
+    "record": "articles/v1/e0/yc-navier-ai/2026/08/af/afae9d4f10541a98cc68612fbe9a6662f744db90caf30e647f4665afc60e41a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13288,
+    "sha256": "sha256:2649bfaf5a0b4cd040d8ed32d0ecea2758e317b4994ccb74d71823abe04b7b2b",
+    "normalized_content_hash": "sha256:6c03ce9d1086d635b6064a139150a03a4d895d18787c58f257cfac8ac3e7e04d"
+  },
+  "provenance": {
+    "source_item_id": "071a2b0e-2864-4491-8d80-ef83292380c7",
+    "external_id": "https://www.navier.ai/blog/2026-08-04-onera-m6-validation"
+  }
+}

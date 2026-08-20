@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a32ffb9284f9659d3f6b1186f66c69cef35c49a07bc329c3c08b2864e6d2f06f",
+  "company": {
+    "key": "yc-quantstamp",
+    "name": "Quantstamp"
+  },
+  "source": {
+    "id": "yc-quantstamp-rss-54cdced55685",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://quantstamp.com/blog/engineering-smart-contract-families-for-solidity",
+    "canonical": "https://quantstamp.com/blog/engineering-smart-contract-families-for-solidity"
+  },
+  "title": "Engineering Smart Contract Families for Solidity",
+  "summary": "Decentralized applications (dApps) (e.g., DEXes) increasingly span multiple Ethereum-compatible chains, such as a number of L2s. Although these chains are intended to be compatible with the Ethereum Virtual Machine (EVM), subtle differences in opcode implementations can significantly alter smart contract behavior and security. This poses an important question: how can developers efficiently code and manage smart contracts targeting different chains?",
+  "published_at": "2026-01-15T19:52:14+00:00",
+  "first_seen_at": "2026-07-25T20:14:20.321573+00:00",
+  "fetched_at": "2026-07-28T22:23:32.114893+00:00",
+  "last_updated_at": "2026-08-20T03:09:35.051135+00:00",
+  "paths": {
+    "article": "articles/v1/cb/yc-quantstamp/2026/01/a3/a32ffb9284f9659d3f6b1186f66c69cef35c49a07bc329c3c08b2864e6d2f06f/article.md",
+    "record": "articles/v1/cb/yc-quantstamp/2026/01/a3/a32ffb9284f9659d3f6b1186f66c69cef35c49a07bc329c3c08b2864e6d2f06f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7704,
+    "sha256": "sha256:5c4dc960b51f25bfef603a91860ee7ee40c587d3b9aed3245a341c1b3d222bde",
+    "normalized_content_hash": "sha256:66402ae10f64e267d2824e085dac74af75a650efbf4558315a23c14973d0268a"
+  },
+  "provenance": {
+    "source_item_id": "e8a37681-16cc-4167-b7c6-10eece607402",
+    "external_id": "https://quantstamp.com/blog/engineering-smart-contract-families-for-solidity"
+  }
+}

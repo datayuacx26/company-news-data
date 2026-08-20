@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "689d54eb891a32830f4cced6cd8210ed4569d2f095c99c9ff3722778a5a73903",
+  "company": {
+    "key": "yc-mailwarm",
+    "name": "Mailwarm"
+  },
+  "source": {
+    "id": "yc-mailwarm-news-import-5814b5ef4890",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mailwarm.com/blog/office-365-spf",
+    "canonical": "https://www.mailwarm.com/blog/office-365-spf"
+  },
+  "title": "Office 365 SPF Record Setup, Verification, and Fixes",
+  "summary": "Set up your Office 365 SPF record the right way. Step-by-step setup, multi-sender examples, DNS verification, and fixes for common errors.",
+  "published_at": "2026-08-09T09:17:46.405+00:00",
+  "first_seen_at": "2026-08-10T17:28:05.711967+00:00",
+  "fetched_at": "2026-08-10T17:28:07.194892+00:00",
+  "last_updated_at": "2026-08-15T07:15:50.051721+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-mailwarm/2026/08/68/689d54eb891a32830f4cced6cd8210ed4569d2f095c99c9ff3722778a5a73903/article.md",
+    "record": "articles/v1/fe/yc-mailwarm/2026/08/68/689d54eb891a32830f4cced6cd8210ed4569d2f095c99c9ff3722778a5a73903/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13175,
+    "sha256": "sha256:7846eec85217a51827deddde6209831382fcf227368002b91b7a402137526eac",
+    "normalized_content_hash": "sha256:5b2b65ddaf9f7331be154f61817f9e81de6efaddc12c028493af6c7bf8ed2e8a"
+  },
+  "provenance": {
+    "source_item_id": "eb91e14c-d4e2-4993-be9a-b9105c6eb77b",
+    "external_id": "https://www.mailwarm.com/blog/office-365-spf"
+  }
+}

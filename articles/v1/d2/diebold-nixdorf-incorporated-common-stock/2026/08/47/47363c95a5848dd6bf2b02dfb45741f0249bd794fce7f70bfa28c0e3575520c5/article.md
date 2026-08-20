@@ -1,0 +1,52 @@
+---
+schema_version: "1.0.0"
+document_id: "47363c95a5848dd6bf2b02dfb45741f0249bd794fce7f70bfa28c0e3575520c5"
+company_key: "diebold-nixdorf-incorporated-common-stock"
+company: "Diebold Nixdorf Incorporated"
+source_id: "diebold-nixdorf-incorporated-common-stock-news-import-3e52de046cbe"
+canonical_url: "https://www.dieboldnixdorf.com/en-us/banking/insights/blog/tech-shifting-the-industry/"
+published_at: null
+first_seen_at: "2026-08-11T00:34:27.544265+00:00"
+fetched_at: "2026-08-11T00:34:29.026031+00:00"
+content_hash: "sha256:0d3ce1251dafd3a5a478cf4726f45152bfa7c325e6ae2c17df20c79199dea6e5"
+---
+
+# Blog: Three Areas of Tech Shifting the Industry Right Now
+
+Change has been a constant in the financial services industry, but there is no doubt that the pace of change has accelerated in the past couple of years. Remaining competitive and relevant is increasingly challenging for financial organisations, and the ability to be both resilient and future-thinking is becoming the foundation for success. As we look forward, three areas of technology are driving progress across the industry right now.
+
+
+**Our money mindset is shifting**
+How we view the financial world is changing. Disruptors are driving new services and new behaviours, and technology is changing not only how we use money, but also how we think about money.
+
+
+With Fintechs becoming more established and a boom of digital innovation in recent years, emerging technologies are moving into the mainstream, and we are developing new habits every day as consumers. The rate of change varies across different countries, but one thing is very clear; adapting to these changes is non-negotiable to remaining competitive.
+
+
+Keeping up with this pace of change and embracing a truly futuristic approach can be challenging, particularly with regulation and compliance holding back some elements of innovation. This is where the ability to be agile becomes crucial. Consumer habits are indeed changing and the desire for convenient banking is high, but this also needs to be balanced with keeping our money safe. Using advanced technology as the platform for more integrated systems and more connected experiences is helping match customer expectations, in a flexible, compliant and secure way.
+
+
+**Experimental innovation**
+Is experimental innovation just for Fintechs? Navigating the balance between being ahead of the curve and the risk of investing in the wrong technology is a huge challenge. In an industry where customer experience is becoming everything, knowing how and when to take a leap of faith with new technologies can play a significant role in your overall competitiveness.
+
+
+The key comes with purposeful change, and not just innovation for innovation’s sake. Ultimately, technology is the underlying enabler for meaningful development - whether that is a small process change or an organisation wide shift in services or platforms.
+
+
+Staying true to your strategic organisational objectives and focuses and selecting technology that will enable you to achieve these goals will deliver the greatest return on investment. For example, enabling you to deliver more integrated services, deliver process optimisation or achieve cost savings.
+
+
+**Sustainable technology change**
+A laser focus on sustainability and our environmental impact continues to accelerate across both the business world, and our personal daily lives. As we all recognise the time for action is now, making responsible choices for change will continue to drive an industry shift. Indeed, according to a report by Gartner, it is predicted that 25% of CIOs will have compensation linked to their sustainable technology impact by 2027i.
+
+
+With this in mind, we are seeing how technology is empowering meaningful developments. From a process point of view, standardising and unifying systems, alongside embracing the power of artificial intelligence (AI) are helping to drive significant efficiencies across financial services. More advanced generative AI is supporting everything from compliance to fraud and we can also see its potential to improve financial literacy for consumers, bringing in another level of untapped value for society.
+
+
+Technology will continue to change how we all live our lives, and even more so how we conduct our financial lives. Consumer demands will continue to evolve, and disruptors will continue to enter the market with new services. Therefore, developing an innovation strategy that remains true to both your organisational purpose, as well as your customer needs, will ensure meaningful, profitable and sustainable progress for the future. Visit the[sustainable banking](https://www.dieboldnixdorf.com/en-us/banking/solutions/operations/sustainable-banking) page for more information.
+
+
+i https://www.gartner.com/en/articles/are-you-thinking-too-small-about-sustainable-technology
+
+
+Originally Posted on[Finextra](https://www.finextra.com/blogposting/25790/three-areas-of-tech-shifting-the-industry-right-now)

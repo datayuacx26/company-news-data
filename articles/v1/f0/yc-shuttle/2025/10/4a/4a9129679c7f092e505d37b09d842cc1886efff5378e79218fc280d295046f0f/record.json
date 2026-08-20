@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4a9129679c7f092e505d37b09d842cc1886efff5378e79218fc280d295046f0f",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/10/08/shuttle-mcp",
+    "canonical": "https://www.shuttle.dev/blog/2025/10/08/shuttle-mcp"
+  },
+  "title": "Shuttle MCP Server",
+  "summary": "How we improved the Shuttle MCP server to make AI agents more reliable, with better error handling and context for seamless deployment workflows",
+  "published_at": "2025-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T20:55:46.222495+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/10/4a/4a9129679c7f092e505d37b09d842cc1886efff5378e79218fc280d295046f0f/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/10/4a/4a9129679c7f092e505d37b09d842cc1886efff5378e79218fc280d295046f0f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7817,
+    "sha256": "sha256:91c1126799864c220177cbe07e0d042a164f00be955c6f65a6511edc0f4349f5",
+    "normalized_content_hash": "sha256:a17dfd207afb6cc758a1181335fbcc92653c999b0c60eb09c101a05312e7d894"
+  },
+  "provenance": {
+    "source_item_id": "d0d9fbc5-a1d7-4171-b8f6-33fd74e76c68",
+    "external_id": "https://www.shuttle.dev/blog/2025/10/08/shuttle-mcp"
+  }
+}

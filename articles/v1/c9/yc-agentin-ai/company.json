@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-agentin-ai",
+    "name": "Agentin AI"
+  },
+  "record_count": 2,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c9/yc-agentin-ai/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2096,
+        "sha256": "sha256:217d133864e4bd1416b1c16c51dcb52fae0e200715380cc978b11b0c0a25f05e",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-07-28T21:21:02.928028+00:00"
+      }
+    ]
+  }
+}

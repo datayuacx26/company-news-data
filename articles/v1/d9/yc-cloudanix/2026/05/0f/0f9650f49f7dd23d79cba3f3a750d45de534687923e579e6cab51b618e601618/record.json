@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f9650f49f7dd23d79cba3f3a750d45de534687923e579e6cab51b618e601618",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/kubernetes-security-checklist-2026-hardening-eks-aks-gke/",
+    "canonical": "https://www.cloudanix.com/blog/kubernetes-security-checklist-2026-hardening-eks-aks-gke/"
+  },
+  "title": "Kubernetes Security Checklist 2026: Hardening EKS, AKS & GKE",
+  "summary": "The complete 2026 Kubernetes security checklist for hardening EKS, AKS, and GKE. Covers Zero-Trust data plane, eBPF runtime security, workload identity, supply chain integrity, secrets governance, and AI workload hardening.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T22:13:02.720629+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/05/0f/0f9650f49f7dd23d79cba3f3a750d45de534687923e579e6cab51b618e601618/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/05/0f/0f9650f49f7dd23d79cba3f3a750d45de534687923e579e6cab51b618e601618/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19772,
+    "sha256": "sha256:567bfdcad666d538ec578e5f0f9f16fae305bdc835a2cd7353e6215150add930",
+    "normalized_content_hash": "sha256:5f332a5d45a73431c1897aa48457956b93694c6484a91e0596efe0e203a5626d"
+  },
+  "provenance": {
+    "source_item_id": "4ec21e57-89e1-454b-af3a-e7f4cb34473d",
+    "external_id": "https://www.cloudanix.com/blog/kubernetes-security-checklist-2026-hardening-eks-aks-gke/"
+  }
+}

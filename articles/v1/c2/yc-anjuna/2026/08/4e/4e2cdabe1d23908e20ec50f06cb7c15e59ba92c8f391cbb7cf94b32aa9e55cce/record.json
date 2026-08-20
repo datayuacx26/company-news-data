@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4e2cdabe1d23908e20ec50f06cb7c15e59ba92c8f391cbb7cf94b32aa9e55cce",
+  "company": {
+    "key": "yc-anjuna",
+    "name": "Anjuna"
+  },
+  "source": {
+    "id": "yc-anjuna-news-import-d3424cd26fcb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.anjuna.io/blog/three-ai-giants-three-hacks-one-missing-layer",
+    "canonical": "https://www.anjuna.io/blog/three-ai-giants-three-hacks-one-missing-layer"
+  },
+  "title": "Three AI Giants, Three Hacks, One Missing Layer: How to Stop Your AI Agents From Going Rogue",
+  "summary": "Meta, Anthropic, and OpenAI each disclosed AI agents breaching production systems inside test environments meant to be isolated. Here's what went wrong, and how real-time governance would have stopped it.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T02:01:53.302238+00:00",
+  "fetched_at": "2026-08-11T02:01:55.458053+00:00",
+  "last_updated_at": "2026-08-19T22:54:07.514658+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-anjuna/2026/08/4e/4e2cdabe1d23908e20ec50f06cb7c15e59ba92c8f391cbb7cf94b32aa9e55cce/article.md",
+    "record": "articles/v1/c2/yc-anjuna/2026/08/4e/4e2cdabe1d23908e20ec50f06cb7c15e59ba92c8f391cbb7cf94b32aa9e55cce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8670,
+    "sha256": "sha256:d7f35e681d3a023f0b55f8ff0a8559597d56106e15ddbd0077bb1a84ab0099d9",
+    "normalized_content_hash": "sha256:a724a014e578523988c9d773f013fa0e159b33a522606eabb4867aae7ad426bc"
+  },
+  "provenance": {
+    "source_item_id": "5021d379-7fa4-4322-8852-11914812f902",
+    "external_id": "https://www.anjuna.io/blog/three-ai-giants-three-hacks-one-missing-layer"
+  }
+}

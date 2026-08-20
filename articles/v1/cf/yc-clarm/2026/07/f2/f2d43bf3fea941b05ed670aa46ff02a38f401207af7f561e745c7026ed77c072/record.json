@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2d43bf3fea941b05ed670aa46ff02a38f401207af7f561e745c7026ed77c072",
+  "company": {
+    "key": "yc-clarm",
+    "name": "Clarm"
+  },
+  "source": {
+    "id": "yc-clarm-news-import-36dfdbd138cb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clarm.com/blog/articles/why-we-moved-from-inbound-to-agent-builder/",
+    "canonical": "https://clarm.com/blog/articles/why-we-moved-from-inbound-to-agent-builder/"
+  },
+  "title": "Why We Moved From Inbound Sales to an AI Agent Builder",
+  "summary": "We built the machinery to make one workflow good, then realized the machinery was the product. The honest story of Clarm’s pivot.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-08-04T06:54:05.668750+00:00",
+  "fetched_at": "2026-08-05T03:48:38.159246+00:00",
+  "last_updated_at": "2026-08-20T02:27:40.898317+00:00",
+  "paths": {
+    "article": "articles/v1/cf/yc-clarm/2026/07/f2/f2d43bf3fea941b05ed670aa46ff02a38f401207af7f561e745c7026ed77c072/article.md",
+    "record": "articles/v1/cf/yc-clarm/2026/07/f2/f2d43bf3fea941b05ed670aa46ff02a38f401207af7f561e745c7026ed77c072/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5069,
+    "sha256": "sha256:6f6a9ed555e7ddbde0c1045ef894e80e8574fafa05d94369831529ac5bb66cc2",
+    "normalized_content_hash": "sha256:a8e9abdbf7efc1aa760762e24dd397a2fec35bbbefb0a62010118e8f51300b18"
+  },
+  "provenance": {
+    "source_item_id": "03203b93-abb2-43cb-bc3e-237c0bac6163",
+    "external_id": "https://clarm.com/blog/articles/why-we-moved-from-inbound-to-agent-builder/"
+  }
+}

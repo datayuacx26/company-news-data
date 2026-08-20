@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nexstar-media-group-inc-common-stock",
+    "name": "Nexstar Media Group Inc."
+  },
+  "record_count": 7,
+  "first_published_at": "2026-06-30T14:59:09+00:00",
+  "last_published_at": "2026-08-06T11:01:54+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d1/nexstar-media-group-inc-common-stock/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8648,
+        "sha256": "sha256:dd26f63ed4b10ad9c4c4ee4eab8af62107595d9ec1d2f504f7bafa18e085073d",
+        "newest_at": "2026-08-06T11:01:54+00:00",
+        "oldest_at": "2026-06-30T14:59:09+00:00"
+      }
+    ]
+  }
+}

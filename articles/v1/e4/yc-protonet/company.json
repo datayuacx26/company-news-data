@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-protonet",
+    "name": "Protonet"
+  },
+  "record_count": 28,
+  "first_published_at": "2020-10-29T09:24:17+00:00",
+  "last_published_at": "2025-12-24T12:16:07+00:00",
+  "partitions": [
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 18
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/yc-protonet/index/pages/000001.json",
+        "record_count": 28,
+        "byte_count": 29452,
+        "sha256": "sha256:3580295b272923f7e3f0099d0a8ed67e84ac01adca633c3a5b818484a7014341",
+        "newest_at": "2026-07-28T21:33:52.463534+00:00",
+        "oldest_at": "2020-10-29T09:24:17+00:00"
+      }
+    ]
+  }
+}

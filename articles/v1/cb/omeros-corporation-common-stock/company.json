@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "omeros-corporation-common-stock",
+    "name": "Omeros Corporation"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-01-27T05:00:00+00:00",
+  "last_published_at": "2026-08-12T20:02:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/cb/omeros-corporation-common-stock/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 24784,
+        "sha256": "sha256:f46da322fec99f591ee010f0e3132580e202bc4d057f3b00abb450d4c4fed5f6",
+        "newest_at": "2026-08-12T20:02:00+00:00",
+        "oldest_at": "2026-01-27T05:00:00+00:00"
+      }
+    ]
+  }
+}

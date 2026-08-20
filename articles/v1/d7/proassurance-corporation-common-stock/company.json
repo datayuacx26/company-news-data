@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "proassurance-corporation-common-stock",
+    "name": "ProAssurance Corporation"
+  },
+  "record_count": 25,
+  "first_published_at": "2026-02-09T21:43:55+00:00",
+  "last_published_at": "2026-08-12T14:00:02+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 11
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d7/proassurance-corporation-common-stock/index/pages/000001.json",
+        "record_count": 25,
+        "byte_count": 30449,
+        "sha256": "sha256:a5b13d27414312e4921c876545aa65b5bfb65fde90e3527f565360eb3c70b529",
+        "newest_at": "2026-08-12T14:00:02+00:00",
+        "oldest_at": "2026-02-09T21:43:55+00:00"
+      }
+    ]
+  }
+}

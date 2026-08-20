@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a3e54f8908376b0d4debea6c42dd7919b62bfe24d4d3daa429cc0bb5c1300fc",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/email-as-memory-for-ai-agents",
+    "canonical": "https://www.agentmail.to/blog/email-as-memory-for-ai-agents"
+  },
+  "title": "Email as Memory for AI Agents",
+  "summary": "Why AI agents need persistent memory and how email inboxes provide semantic, episodic, and procedural memory without building custom infrastructure.",
+  "published_at": "2026-02-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T05:07:06.081239+00:00",
+  "fetched_at": "2026-07-28T22:21:35.013216+00:00",
+  "last_updated_at": "2026-07-28T22:23:02.690248+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/02/8a/8a3e54f8908376b0d4debea6c42dd7919b62bfe24d4d3daa429cc0bb5c1300fc/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/02/8a/8a3e54f8908376b0d4debea6c42dd7919b62bfe24d4d3daa429cc0bb5c1300fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9131,
+    "sha256": "sha256:52e0be6f274a51e5abc871ce1a75381942c49b84456f93bad6f87bbefa2ec75d",
+    "normalized_content_hash": "sha256:1f10f0c5abe15ce878af3fd4e2ec076f63b0ab1c92a9bc2d14a2ce2aa0c81f01"
+  },
+  "provenance": {
+    "source_item_id": "7506f19c-18a1-4309-be5d-74e9dc5df2a6",
+    "external_id": "https://www.agentmail.to/blog/email-as-memory-for-ai-agents"
+  }
+}

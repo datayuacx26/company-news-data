@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1c5c6d51d048bf4be89f9cb6be97ca6062a4ba77eefeed5d6ce00df4547060e7",
+  "company": {
+    "key": "yc-stormy-ai",
+    "name": "Stormy AI"
+  },
+  "source": {
+    "id": "yc-stormy-ai-news-import-9770ca28bd19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stormy.ai/blog/yale-erc-erp-lithium-soc-thermal-detune",
+    "canonical": "https://stormy.ai/blog/yale-erc-erp-lithium-soc-thermal-detune"
+  },
+  "title": "Yale ERC/ERP Integrated Lithium: Separate Low-Charge Warnings From Thermal Detuning",
+  "summary": "On Yale ERC050-060VGL and ERP050-060VLL forklifts, low state of charge warnings and high-temperature thermal detuning both modify operational performance. Capturing exact SOC percentages, warning alerts, ambient conditions, and charger communication data is required before field diagnosis.",
+  "published_at": "2026-08-15T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T05:27:32.926397+00:00",
+  "fetched_at": "2026-08-15T05:27:34.596608+00:00",
+  "last_updated_at": "2026-08-19T17:45:32.884799+00:00",
+  "paths": {
+    "article": "articles/v1/d4/yc-stormy-ai/2026/08/1c/1c5c6d51d048bf4be89f9cb6be97ca6062a4ba77eefeed5d6ce00df4547060e7/article.md",
+    "record": "articles/v1/d4/yc-stormy-ai/2026/08/1c/1c5c6d51d048bf4be89f9cb6be97ca6062a4ba77eefeed5d6ce00df4547060e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1264,
+    "sha256": "sha256:c26b5310b01c7ab8c2138fc06e321332a7b7039e89c947260c29f868d4181500",
+    "normalized_content_hash": "sha256:3cec0bfcf55290a21dd2bdac263a85b0733fd724d9a648e64539d423b7b9ed64"
+  },
+  "provenance": {
+    "source_item_id": "e23870f3-5465-4602-85b5-682a41e93722",
+    "external_id": "https://stormy.ai/blog/yale-erc-erp-lithium-soc-thermal-detune"
+  }
+}

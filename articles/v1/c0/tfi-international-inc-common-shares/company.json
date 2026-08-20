@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "tfi-international-inc-common-shares",
+    "name": "TFI International Inc. Common Shares"
+  },
+  "record_count": 10,
+  "first_published_at": "2026-04-27T20:05:00+00:00",
+  "last_published_at": "2026-07-27T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c0/tfi-international-inc-common-shares/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12455,
+        "sha256": "sha256:2e20ceee755e2cf71316e7eb0b0083bdc436c0bd21c2d2ea65077c19122e00f1",
+        "newest_at": "2026-07-27T20:05:00+00:00",
+        "oldest_at": "2026-04-27T20:05:00+00:00"
+      }
+    ]
+  }
+}

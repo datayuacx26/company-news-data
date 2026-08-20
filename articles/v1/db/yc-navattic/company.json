@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-navattic",
+    "name": "Navattic"
+  },
+  "record_count": 13,
+  "first_published_at": "2026-03-09T13:52:32.191+00:00",
+  "last_published_at": "2026-08-18T14:06:41.251+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/db/yc-navattic/index/pages/000001.json",
+        "record_count": 13,
+        "byte_count": 13164,
+        "sha256": "sha256:edd23a0c1f64ca6ea2e98f2ea9aed7e6bb33088de404ba89064d5e0079b34843",
+        "newest_at": "2026-08-18T14:06:41.251+00:00",
+        "oldest_at": "2026-03-09T13:52:32.191+00:00"
+      }
+    ]
+  }
+}

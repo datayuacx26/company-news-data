@@ -1,0 +1,106 @@
+---
+schema_version: "1.0.0"
+document_id: "765ef53fc38f3d08afbb6f06c14730b84e29c1749cc15aa9ed9c7edf3331858f"
+company_key: "perpetua-resources-corp-common-shares"
+company: "Perpetua Resources Corp. Common Shares"
+source_id: "perpetua-resources-corp-common-shares-news-import-9e76f33587b7"
+canonical_url: "https://www.investors.perpetuaresources.com/investors/news/perpetua-resources-sept-19-2025"
+published_at: null
+first_seen_at: "2026-07-22T08:47:39.362199+00:00"
+fetched_at: "2026-07-28T21:38:24.318832+00:00"
+content_hash: "sha256:e0349906cfbe4e7e0229be04f2c5fb77a2fa644399d158fc3d8c91f63fe23460"
+---
+
+# Perpetua Resources Celebrates Stibnite Gold Project Advancing to Development with State and Federal Officials
+
+*Governor of Idaho, U.S. Army, Department of Defense, and U.S. Department of Agriculture officials among those at Stibnite Gold Project celebration kick-off*
+
+
+*Celebration follows U.S. Forest Service Notice to Proceed, indicating Project may begin development upon posting of financial assurance*
+
+
+*Perpetua committed to support U.S. Defense Department ‘Ground-to-Round’ Strategy*
+
+
+**BOISE, ID** – Perpetua Resources Corp. (Nasdaq: PPTA / TSX: PPTA) (“Perpetua Resources” or “Perpetua” or the “Company”), hosted leaders from across the country at the historical Stibnite Mining District to celebrate the Stibnite Gold Project (the “Project”) advancing to development after more than 8 years of rigorous permitting review. Idaho Governor Brad Little, U.S. Department of Agriculture Deputy Undersecretary Kristin Sleeper, and U.S. Army Major General John Reim were among those who attended and spoke at the event. All the speakers emphasized the Project’s pivotal role in America’s national security and defense.
+
+
+“American readiness starts here,” said Perpetua President & CEO Jon Cherry. “After years of thoughtful consideration, public feedback, and intensive review, we are ready to secure American antimony. Backed by the financial power of gold production and a plan to provide meaningful environmental benefits to this historical site, today marks a new chapter in American resilience. We could not be prouder of our work to provide urgently needed antimony for our military defense.”
+
+
+Earlier today, the Company announced that the U.S. Forest Service had delivered a conditional Notice to Proceed, officially recognizing that Perpetua Resources has satisfied the requirements of the Record of Decision and stating that the Project may move into development upon posting the required financial assurance. The Project, a listed FAST-41 Transparency Project and recipient of $80 million in Department of Defense funds, is expected to produce America’s only mined reserve of the critical mineral antimony, a key component in munitions and advanced defense systems. In addition, the Project is designed to clean up legacy contamination, reconnect fish to their native spawning grounds, restore habitat, and provide hundreds of family-wage jobs.
+
+
+Given the significant and urgent need to supply American antimony, Perpetua expects to begin early works construction this fall at the Project. During Friday’s ceremony, Cherry presided over a ribbon cutting for Perpetua’s antimony stockpile, signaling readiness to provide the U.S. military with a critically needed supply of antimony from the Stibnite Gold Project.
+
+
+“The Stibnite project currently holds the largest identified reserve of antimony in the U.S. It is one of the largest antimony reserves outside of foreign control. This mine offers a secure, reliable, domestic resource for military grade antimony sulfide and is aligned with the Army’s ongoing ‘Ground-to-Round’ assured munitions strategy for establishing a complete domestic supply chain, from raw material access to material processing to ammunition production, as we modernize and fortify the Arsenal of Democracy,” said Maj. Gen. John T. Reim, Joint Program Executive Officer Armaments & Ammunition and Picatinny Arsenal Commanding General.
+
+
+The Stibnite Gold Project is expected to supply up to 35 percent of U.S. antimony demand during its first six years of operations based on the 2025 USGS antimony commodity summary. Antimony is classified as a critical mineral essential for technology, defense, and energy applications. China dominates global antimony mining, processing, and refining, accounts for about 80% of all U.S. antimony imports and, in 2024, China cut off antimony exports. Developing a domestic source of antimony through the Stibnite Gold Project is imperative to America’s security and strategic mineral independence. The Project is projected to be one of the highest-grade open-pit gold mines in the United States, with gold reserves of approximately 4.8 million ounces, and is expected to produce approximately 450,000 ounces of gold annually over its first four years of production. The financial backing of gold production is expected to support the concurrent production of a steady, reliable source of domestic antimony. The U.S. National Defense Stockpile of antimony trisulfide currently holds limited supply for peacetime demand, and the Stibnite Project is well positioned to commence antimony production and reduce the United States’ reliance on foreign adversaries for this critical resource.
+
+
+Joining the refrain from Washington, DC, U.S. Senator James Risch (R-Idaho) cheered the Project’s advancement.
+
+
+“A strong domestic supply of critical minerals is vital to America’s future. For too long, excessive regulations have stifled important mining projects, forcing us to rely on foreign adversaries for resources readily available in our own backyard. Today’s news and President Trump’s actions to expand U.S. mineral production are welcome signs that times are changing,” said Risch. “As one of the largest sources of antimony outside of Beijing’s control, the Stibnite Gold Mine will bolster our national security, military readiness, and the Gem State economy. The U.S. must remain a leader in the global race for critical minerals, and I am proud that Idaho is at the forefront of this effort.”
+
+
+The historical Stibnite Mining District saw a century of mining and produced a secure supply of antimony vital to the Allied war effort in World War II (after the U.S.’s primary source from China was cut off) before it was abandoned by past operators. Now, the Stibnite Gold Project is positioned to once again provide a domestic source critical to U.S. national security and deliver significant environmental and economic benefits to rural Idaho. The Project is designed to reduce the environmental contamination left behind by previous operators, reconnect fish to their native spawning grounds, and restore habitat. To date, the Company has spent more than $20 million to improve water quality on site and cleaned up more than 375,000 tons of legacy waste and tailings. The Project is also expected to bring significant investment to the region, creating more than 950 jobs during construction and over 550 jobs during operations.
+
+
+“Idaho is proud to celebrate this milestone with Perpetua Resources and showcase the ways we are moving forward valuable projects that create hundreds of good-paying jobs that support Idaho’s rural economy. These jobs will allow Idaho’s young people to build rewarding careers right here in the communities of the West Central mountains,” Governor Brad Little said. “This is exactly the kind of transformative project I want the SPEED Council to embrace. Idaho remains committed to a transparent and streamlined regulatory process to enhance the economic vitality our state and Idahoans’ quality of life.”
+
+
+During the kick-off ceremony, Cherry presented the Stibnite Foundation with a $350,000 check to share the benefits of the Stibnite Gold Project with the region. The Stibnite Foundation is a 501(c)(3) charitable foundation built to empower the people, environment and communities located closest to the Stibnite Gold Project today and long after the mine closes. It was formed as part of the Company’s Community Agreement. To date, Perpetua has donated $750,000 and given the Foundation 150,000 shares in the company. Pursuant to the Community Agreement, Perpetua will continue making financial contributions as the Project reaches key milestones, and will switch to a profit-sharing partnership during operations.
+
+
+“It has always been important to our team that the Stibnite Gold Project has a positive impact on our surrounding communities,” said Cherry. “Investing in the Stibnite Foundation allows us to work side-by-side with our neighbors and help them address issues that are most important to them.”
+
+
+For further information about Perpetua Resources Corp., please contact:
+
+
+**Chris Fogg**
+
+
+Investor Relations Manager
+
+
+chris.fogg@perpetuacorp.us
+
+
+Info@perpetuacorp.us
+
+
+**Mckinsey Lyon**
+
+
+Vice President External Affairs
+
+
+media@perpetua.us
+
+
+**About Perpetua Resources and the Stibnite Gold Project**
+
+
+Perpetua Resources Corp., through its wholly owned subsidiaries, is focused on the exploration, site restoration and redevelopment of gold-antimony-silver deposits in the Stibnite-Yellow Pine district of central Idaho that are encompassed by the Stibnite Gold Project. The Stibnite Gold Project is one of the highest-grade, open pit gold deposits in the United States and is designed to apply a modern, responsible mining approach to restore an abandoned mine site and produce both gold and the only mined source of antimony in the United States. Antimony trisulfide from Stibnite is the only known domestic reserves of antimony that can meet U.S. defense needs for many small arms, munitions, and missile types.
+
+
+**FORWARD-LOOKING INFORMATION**
+
+
+*Investors should be aware that the Company has not entered into any arrangement with respect to the joint financial assurance bonding and may not be able to enter into such arrangements on the anticipated terms and timeline, or at all. In addition, such arrangement, when entered into, may not be sufficient to satisfy the financial assurance conditions required to commence construction as set forth in the Notice.*
+
+
+*Investors should be aware that the Stibnite Gold Project’s designation as a Transparency Project and inclusion in the FAST-41 Program does not imply endorsement of, or support for, the Stibnite Gold Project by the federal government, or create a presumption that the Stibnite Gold Project will be approved, favorably reviewed by any agency or receive federal funding. The designation of a project as a Transparency Project and inclusion in the FAST-41 Program may be reconsidered based on updated information.*
+
+
+*Statements contained in this news release that are not historical facts are "forward-looking information" or "forward-looking statements" (collectively, "Forward-Looking Information") within the meaning of applicable Canadian securities legislation and the United States Private Securities Litigation Reform Act of 1995. Forward-Looking Information includes, but is not limited to, the Company’s ability to satisfy financial assurance requirements under applicable federal and state law on acceptable terms and on anticipated timelines, if at all; disclosure regarding the anticipated effects of the SPEED Act; the Company’s ability, in connection with efforts to satisfy financial assurance requirements applicable to the Stibnite Gold Project and to provide additional financing, to enter into an arrangement on acceptable terms and on the anticipated timeline, if at all; the occurrence of the expected benefits from the Project, including providing a domestic source of antimony, national defense benefits, creation of jobs, environmental benefits; expected benefits from the Stibnite Foundation and other community initiatives; the number and nature of jobs expected to be created. In certain cases, Forward-Looking Information can be identified by the use of words and phrases or variations of such words and phrases or statements such as "anticipate", "expect", "plan", "likely", "believe", "intend", "forecast", "project", "estimate", "potential", "could", "may", "will", "would" or "should". In preparing the Forward-Looking Information in this news release, Perpetua Resources has applied several material assumptions, including, but not limited to, that the Company will be able to satisfy all conditions provided in various federal and state permits that must be met to commence construction; that the Company will be able to satisfy financial assurance requirements applicable under applicable federal and state law; that the Company’s proposed financing package will be sufficient to finance permitting, pre-construction and construction of the Stibnite Gold Project or that the Company will be able to secure alternate financing if necessary; and that the current exploration, development, environmental and other objectives concerning the Project can be achieved and that its other corporate activities will proceed as expected. Forward-Looking Information are based on certain material assumptions and involve, known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of Perpetua Resources to be materially different from any future results, performance or achievements expressed or implied by the Forward-Looking Information. Such risks and other factors, among other things, risks related to unforeseen delays in the review and permitting process, including as a result of legal challenges to the ROD or other permits; risks related to opposition to the Stibnite Gold Project; risks related to increased or unexpected costs in operations or the permitting process; risks that necessary financing will be unavailable when needed on acceptable terms, or at all, as well as include those factors discussed in Perpetua Resources' public filings with the U.S. Securities and Exchange Commission (the "SEC") and its Canadian disclosure record. Although Perpetua Resources has attempted to identify important factors that could affect Perpetua Resources and may cause actual actions, events or results to differ materially from those described in Forward-Looking Information, there may be other factors that cause actions, events or results not to be as anticipated, estimated or intended. There can be no assurance that Forward-Looking Information will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on Forward-Looking Information. For further information on these and other risks and uncertainties that may affect the Company's business, see the "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" sections of the Company's filings with the SEC, which are available at www.sec.gov and with the Canadian securities regulators, which are available at www.sedarplus.com. Except as required by law, Perpetua Resources does not assume any obligation to release publicly any revisions to Forward-Looking Information contained in this news release to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events.*
+
+
+**Cautionary Statement Regarding Reserve and Technical Information**
+
+
+*The reserves information in respect of the Stibnite Gold Project in this news release is based upon information contained in the technical report titled “Stibnite Gold Project, Feasibility Study Technical Report, Valley County, Idaho” dated effective December 22, 2020 and issued January 27, 2021 (the “2020 Feasibility Study”), which is summarized in the Company’s Technical Report Summary, dated as of December 31, 2021, and amended as of June 6, 2022 (the “TRS”). Such information is as of December 30, 2020 and is subject to the assumptions, exclusions and qualifications set forth in the 2020 Feasibility Study and the TRS. The 2020 Feasibility Study was prepared in accordance with National Instrument 43-101 – Standards of Disclosure for Mineral Projects and the TRS was prepared in accordance with the mining property disclosure rules specified in Subpart 1300 promulgated by the SEC. For additional information regarding the TRS and the 2020 Feasibility Study, as well as the Company’s 2025 supplemental financial update, investors are encouraged to refer to the Company’s Form 10-K for its fiscal year 2024, filed with the SEC on March 19, 2025. Data regarding domestic antimony reserves based on U.S. Geological Survey, Mineral Commodity Summaries, dated as of January 2025.*

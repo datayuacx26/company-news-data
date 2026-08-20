@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "573597e856feed9ffb409de1f9296ab3d02a615fe1ea0fbffd945c44cb25ab3b",
+  "company": {
+    "key": "yc-release",
+    "name": "Release"
+  },
+  "source": {
+    "id": "yc-release-news-import-be48e1d74beb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://release.com/blog/introducing-planetscale-integration-for-release",
+    "canonical": "https://release.com/blog/introducing-planetscale-integration-for-release"
+  },
+  "title": "Introducing PlanetScale Integration for Release",
+  "summary": "Release now integrates with PlanetScale, giving you a faster, simpler way to provision isolated databases for every pull request environment.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:44:42.193831+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T22:59:48.848313+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-release/2026/07/57/573597e856feed9ffb409de1f9296ab3d02a615fe1ea0fbffd945c44cb25ab3b/article.md",
+    "record": "articles/v1/c6/yc-release/2026/07/57/573597e856feed9ffb409de1f9296ab3d02a615fe1ea0fbffd945c44cb25ab3b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6811,
+    "sha256": "sha256:c436aa1bc23725eaa146567409a87c34aa1b7376e31f60c54b612a239fd10d0e",
+    "normalized_content_hash": "sha256:e38b3fe26e6101b08b45ea1a3d88d02c7f3b013aa8bdafd6b43c0077c82dc142"
+  },
+  "provenance": {
+    "source_item_id": "2144ac08-d634-46c8-bfd2-9564b66f4cbc",
+    "external_id": "https://release.com/blog/introducing-planetscale-integration-for-release"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cf3ddd80a0fa40008e5bf1ca746dae749ed210ba9ed5f4675ad370fe3a047701",
+  "company": {
+    "key": "yc-zep-ai",
+    "name": "Zep AI"
+  },
+  "source": {
+    "id": "yc-zep-ai-rss-0db2565bfdf1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.getzep.com/evaluating-nemotron-3-embed-for-agent-memory/",
+    "canonical": "https://blog.getzep.com/evaluating-nemotron-3-embed-for-agent-memory/"
+  },
+  "title": "Evaluating Nemotron 3 Embed for agent memory",
+  "summary": "Zep's graph retrieval starts from entrypoints selected by semantic and BM25 search, so embedding recall bounds everything downstream. We benchmarked NVIDIA's Nemotron 3 Embed 1B, released today, on 5,954 production recall queries: first place against our production incumbent and two other models.",
+  "published_at": "2026-07-16T16:00:32+00:00",
+  "first_seen_at": "2026-07-24T08:02:00.467869+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-20T03:41:35.476524+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-zep-ai/2026/07/cf/cf3ddd80a0fa40008e5bf1ca746dae749ed210ba9ed5f4675ad370fe3a047701/article.md",
+    "record": "articles/v1/f0/yc-zep-ai/2026/07/cf/cf3ddd80a0fa40008e5bf1ca746dae749ed210ba9ed5f4675ad370fe3a047701/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8757,
+    "sha256": "sha256:de9eaec8b104243ee12e03adc72612a612dafde51895f874eda7f709ed60ca52",
+    "normalized_content_hash": "sha256:9966356b5ebff43c1abc26d650101a820da775bfc5dd734df30e8440499bd1eb"
+  },
+  "provenance": {
+    "source_item_id": "c4438443-f114-4b35-954e-9e73afbc16fa",
+    "external_id": "6a5646961e19a400011305e3"
+  }
+}

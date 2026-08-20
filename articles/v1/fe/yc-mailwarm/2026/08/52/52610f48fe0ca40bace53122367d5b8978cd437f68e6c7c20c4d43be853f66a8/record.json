@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "52610f48fe0ca40bace53122367d5b8978cd437f68e6c7c20c4d43be853f66a8",
+  "company": {
+    "key": "yc-mailwarm",
+    "name": "Mailwarm"
+  },
+  "source": {
+    "id": "yc-mailwarm-news-import-5814b5ef4890",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mailwarm.com/blog/dmarc-implementation-guide",
+    "canonical": "https://www.mailwarm.com/blog/dmarc-implementation-guide"
+  },
+  "title": "DMARC Implementation Guide: From Setup to Enforcement",
+  "summary": "Complete DMARC implementation guide for teams. Learn pre-checks, record syntax, staged rollout from p=none to p=reject, report analysis, and troubleshooting.",
+  "published_at": "2026-08-07T08:19:33.909+00:00",
+  "first_seen_at": "2026-08-08T09:02:00.244460+00:00",
+  "fetched_at": "2026-08-08T09:02:00.885361+00:00",
+  "last_updated_at": "2026-08-15T07:15:50.051721+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-mailwarm/2026/08/52/52610f48fe0ca40bace53122367d5b8978cd437f68e6c7c20c4d43be853f66a8/article.md",
+    "record": "articles/v1/fe/yc-mailwarm/2026/08/52/52610f48fe0ca40bace53122367d5b8978cd437f68e6c7c20c4d43be853f66a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19112,
+    "sha256": "sha256:d7685e31d7b6d36072abf5d90660c37208b7418ebc2a8cf5660db6a4c07b3b27",
+    "normalized_content_hash": "sha256:b69b38a31eb568d8aeb839f177c7510b2c49f0f72486964763210c455cae71bc"
+  },
+  "provenance": {
+    "source_item_id": "0ffc317d-34d2-47f3-b0b5-ee719721e3ec",
+    "external_id": "https://www.mailwarm.com/blog/dmarc-implementation-guide"
+  }
+}

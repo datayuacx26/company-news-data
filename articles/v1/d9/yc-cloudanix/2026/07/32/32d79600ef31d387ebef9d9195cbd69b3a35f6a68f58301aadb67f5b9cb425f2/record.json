@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "32d79600ef31d387ebef9d9195cbd69b3a35f6a68f58301aadb67f5b9cb425f2",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/top-10-azure-virtual-machine-vm-misconfigurations-to-avoid/",
+    "canonical": "https://www.cloudanix.com/blog/top-10-azure-virtual-machine-vm-misconfigurations-to-avoid/"
+  },
+  "title": "Top 10 Azure VM Misconfigurations To Avoid",
+  "summary": "The top 10 Azure VM misconfigurations (missing Trusted Launch, open RDP/SSH, weak encryption, and more) with CLI detection and remediation steps.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/07/32/32d79600ef31d387ebef9d9195cbd69b3a35f6a68f58301aadb67f5b9cb425f2/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/07/32/32d79600ef31d387ebef9d9195cbd69b3a35f6a68f58301aadb67f5b9cb425f2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8012,
+    "sha256": "sha256:59ec781b3b4965ae68f5ae6588c31fcd6b228bf7f8255b72e79864f4dc18eb46",
+    "normalized_content_hash": "sha256:921d8fe68db4bf26462eb44f238c00e5a1b62b8feff9ed1f19835a1ca438de20"
+  },
+  "provenance": {
+    "source_item_id": "d165f0b8-c43f-432f-852a-096bed9ceb99",
+    "external_id": "https://www.cloudanix.com/blog/top-10-azure-virtual-machine-vm-misconfigurations-to-avoid/"
+  }
+}

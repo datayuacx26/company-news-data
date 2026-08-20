@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8ebcbbfb15007f3ea2ef86a7cf424df4fc7c35b84c2acc7295cd0f31a42c08d1",
+  "company": {
+    "key": "jfrog-ltd-ordinary-shares",
+    "name": "JFrog Ltd."
+  },
+  "source": {
+    "id": "jfrog-ltd-ordinary-shares-rss-4486f0fc66d1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://jfrog.com/blog/nuget-typosquat-targets-betting-platform/",
+    "canonical": "https://jfrog.com/blog/nuget-typosquat-targets-betting-platform/"
+  },
+  "title": "The Perfect Heist: NuGet Typosquat Targets Betting Platform to Rig Results",
+  "summary": "JFrog Security Research reveals a targeted NuGet typosquatting attack on a betting platform using a trojanized Newtonsoft.Json fork to rig live game results.",
+  "published_at": "2026-07-21T13:16:05+00:00",
+  "first_seen_at": "2026-07-21T14:34:15.171812+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-08-18T15:50:15.758572+00:00",
+  "paths": {
+    "article": "articles/v1/db/jfrog-ltd-ordinary-shares/2026/07/8e/8ebcbbfb15007f3ea2ef86a7cf424df4fc7c35b84c2acc7295cd0f31a42c08d1/article.md",
+    "record": "articles/v1/db/jfrog-ltd-ordinary-shares/2026/07/8e/8ebcbbfb15007f3ea2ef86a7cf424df4fc7c35b84c2acc7295cd0f31a42c08d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20847,
+    "sha256": "sha256:cf634504f06a59b15c0a259fa4ee68291f8ad8353c712ca8dbcd1c0eaf2d3cab",
+    "normalized_content_hash": "sha256:1b6002d3f1a85d6a1772c55682231ac37a291bb936f28b7efde18b24b743fb3a"
+  },
+  "provenance": {
+    "source_item_id": "9316f2a3-49bb-4334-8469-6445928e2aaf",
+    "external_id": "https://jfrog.com/?p=170050"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63095af2e8e4fb3e3cb422203510f573fad82da58be1368d79b7cfb7bddc0c7b",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/03/13/simple-web-server-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/03/13/simple-web-server-rust"
+  },
+  "title": "Building a Simple Web Server in Rust",
+  "summary": "Building and deploying a simple web server in Rust with the Axum framework",
+  "published_at": "2024-03-13T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:08.375343+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/03/63/63095af2e8e4fb3e3cb422203510f573fad82da58be1368d79b7cfb7bddc0c7b/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/03/63/63095af2e8e4fb3e3cb422203510f573fad82da58be1368d79b7cfb7bddc0c7b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11858,
+    "sha256": "sha256:bf742a772da4e3c126c80c9f4b14534fc93b9ff83a55beb8d29f1b43fc0ab046",
+    "normalized_content_hash": "sha256:e05bf21cb8c8a35259809b64998a638d5e167351fe7c5c22337a9baaba5bf3d1"
+  },
+  "provenance": {
+    "source_item_id": "4fee3d24-90a7-46f8-b346-56df13d2c31f",
+    "external_id": "https://www.shuttle.dev/blog/2024/03/13/simple-web-server-rust"
+  }
+}

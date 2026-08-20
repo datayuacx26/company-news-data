@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "620141337f5a38ea404950450f1cf867dfb1780335069f809e81285439f9063c",
+  "company": {
+    "key": "yc-cambioml",
+    "name": "CambioML"
+  },
+  "source": {
+    "id": "yc-cambioml-news-import-19b8279100bf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cambioml.com/en/blog/evaluate-document-parsing-accuracy",
+    "canonical": "https://www.cambioml.com/en/blog/evaluate-document-parsing-accuracy"
+  },
+  "title": "Evaluating Your Parsing Solution: A Comparative Look at PDF to Markdown Conversion",
+  "summary": "Converting complex PDFs into Markdown can be challenging. There are plenty of open-source libraries available to extract text from pdf, but when it comes to PDFs containing complex elements like tables and charts, the results often fall short. Popula...",
+  "published_at": "2025-01-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:26:29.289757+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T19:11:19.633689+00:00",
+  "paths": {
+    "article": "articles/v1/d8/yc-cambioml/2025/01/62/620141337f5a38ea404950450f1cf867dfb1780335069f809e81285439f9063c/article.md",
+    "record": "articles/v1/d8/yc-cambioml/2025/01/62/620141337f5a38ea404950450f1cf867dfb1780335069f809e81285439f9063c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12088,
+    "sha256": "sha256:678f90e2501af289faedb34da6327188a643e9fda98ba11456dd2baac6665385",
+    "normalized_content_hash": "sha256:5ed3e54118a02666f11b2e98e2f9016527fd40e288919890adc73c5daf26167b"
+  },
+  "provenance": {
+    "source_item_id": "5b73aae1-3dc2-423b-bd82-12ecad937eab",
+    "external_id": "https://www.cambioml.com/en/blog/evaluate-document-parsing-accuracy"
+  }
+}

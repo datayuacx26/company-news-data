@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03216003c8113774d85fc0846b31b50fc70b805b7ef93de213e179e30992cd92",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/publications-search",
+    "canonical": "https://exa.ai/blog/publications-search"
+  },
+  "title": "SOTA Search Over Academic Publications",
+  "summary": "State of the art search over research papers and technical publications, backed by a dedicated index of ~350 million publications.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2026/07/03/03216003c8113774d85fc0846b31b50fc70b805b7ef93de213e179e30992cd92/article.md",
+    "record": "articles/v1/c3/yc-exa/2026/07/03/03216003c8113774d85fc0846b31b50fc70b805b7ef93de213e179e30992cd92/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4980,
+    "sha256": "sha256:3800d1a2bdc8920d74ef3f87d9909201fb9b6e66a22c7079ce5f409b2d3c1a3d",
+    "normalized_content_hash": "sha256:ca2497f6a1d0ae0dcecd3d4c6521eb1c67d5fdba186906649ef5fda8c5046d19"
+  },
+  "provenance": {
+    "source_item_id": "5b27cad2-9b8a-4d85-a9eb-16f23d9119a4",
+    "external_id": "https://exa.ai/blog/publications-search"
+  }
+}

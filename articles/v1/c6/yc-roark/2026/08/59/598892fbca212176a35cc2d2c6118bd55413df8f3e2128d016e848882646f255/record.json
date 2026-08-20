@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "598892fbca212176a35cc2d2c6118bd55413df8f3e2128d016e848882646f255",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-voice-agents-that-remember",
+    "canonical": "https://roark.ai/blog/testing-voice-agents-that-remember"
+  },
+  "title": "Testing voice agents that remember",
+  "summary": "Voice agents are moving from stateless calls to multi-call relationships. Here's how to QA cross-session memory before it burns a returning caller.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-13T15:53:26.284965+00:00",
+  "fetched_at": "2026-08-13T15:53:27.733467+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/59/598892fbca212176a35cc2d2c6118bd55413df8f3e2128d016e848882646f255/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/59/598892fbca212176a35cc2d2c6118bd55413df8f3e2128d016e848882646f255/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13157,
+    "sha256": "sha256:95ebc9036a9f331b43caae608413be126b17e018890181ca924a2519408bafbd",
+    "normalized_content_hash": "sha256:3aa2dc554703e8e8d48729f798a2f20a783ac84a767976c2c2b015d1854b9427"
+  },
+  "provenance": {
+    "source_item_id": "c00d7ed1-2ff4-4207-bff7-11122507d20e",
+    "external_id": "https://roark.ai/blog/testing-voice-agents-that-remember"
+  }
+}

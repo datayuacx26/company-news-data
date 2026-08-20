@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "37bcfade85ade0dff87db1377c3140d6bd8bc4f360c82751e25363d3bc3e1a74",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/09/23/monitor-data-pipelines-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2025/09/23/monitor-data-pipelines-in-rust"
+  },
+  "title": "How to Monitor Data Pipelines in Rust Using OpenTelemetry and Shuttle",
+  "summary": "Silent data pipeline failures slow teams down. Learn how to monitor data pipelines in Rust using OpenTelemetry and Shuttle to ensure observable ETL workflows.",
+  "published_at": "2025-09-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/09/37/37bcfade85ade0dff87db1377c3140d6bd8bc4f360c82751e25363d3bc3e1a74/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/09/37/37bcfade85ade0dff87db1377c3140d6bd8bc4f360c82751e25363d3bc3e1a74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 35057,
+    "sha256": "sha256:2ae62d520081774a2b41c26b597e799d5892249bd56df6ab3be89f3505a97d7c",
+    "normalized_content_hash": "sha256:4c21fb076819570110ce52d8810d97bdeaf36e21d10813b7cc77e929880be0fa"
+  },
+  "provenance": {
+    "source_item_id": "50199859-5e9d-4673-8347-a348ecc5d5ad",
+    "external_id": "https://www.shuttle.dev/blog/2025/09/23/monitor-data-pipelines-in-rust"
+  }
+}

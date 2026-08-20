@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "728961408fcee9da93df060c9a416e1148ad1f1f520116e75c53381ecc1f5bcc",
+  "company": {
+    "key": "wix-com-ltd-ordinary-shares",
+    "name": "Wix.com Ltd."
+  },
+  "source": {
+    "id": "wix-com-ltd-ordinary-shares-rss-e1d3c855eeb0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wix.engineering/post/how-we-built-the-brain-behind-our-self-healing-system-context-retrieval-at-org-scale",
+    "canonical": "https://www.wix.engineering/post/how-we-built-the-brain-behind-our-self-healing-system-context-retrieval-at-org-scale"
+  },
+  "title": "How We Built the Brain Behind Our Self-Healing System: Context Retrieval at Org Scale",
+  "summary": "Ask a naive agent to find a bug in a codebase with thousands of repositories, and it will find the first textual match and stop. It won't ask why. It won't check whether what it found is actually relevant. It won't explore related services. It'll just return something and call it done.We, at Wix, discovered this the hard way. And it's what pushed us to build something more deliberate: a research engine that doesn't just search, but reasons about what it's looking for and why.The Problem: Search",
+  "published_at": "2026-07-02T06:58:25+00:00",
+  "first_seen_at": "2026-07-20T23:18:01.039713+00:00",
+  "fetched_at": "2026-07-28T21:56:44.009033+00:00",
+  "last_updated_at": "2026-08-20T00:29:14.534767+00:00",
+  "paths": {
+    "article": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/07/72/728961408fcee9da93df060c9a416e1148ad1f1f520116e75c53381ecc1f5bcc/article.md",
+    "record": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/07/72/728961408fcee9da93df060c9a416e1148ad1f1f520116e75c53381ecc1f5bcc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14502,
+    "sha256": "sha256:6c2592afaa3c16e3e15492477f957e96e73d192b205016a309970e015a041430",
+    "normalized_content_hash": "sha256:6c29a401e903aec1e18b31b7906b028522e6be51fe19577a0bf8b65b582fd676"
+  },
+  "provenance": {
+    "source_item_id": "dadfa0f3-ec9f-4bab-b158-8f97d8e3e948",
+    "external_id": "6a46069f5af2dd52aa987eb4"
+  }
+}

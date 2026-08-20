@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "868b4f072d76f49ef8aad36079a7be47bb2c45190235d14995d10a9fc82ef340",
+  "company": {
+    "key": "yc-doe",
+    "name": "Doe"
+  },
+  "source": {
+    "id": "yc-doe-news-import-a3f9325ff0ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://doe.so/blog/reinventing-work",
+    "canonical": "https://doe.so/blog/reinventing-work"
+  },
+  "title": "Reinventing Work",
+  "summary": "Doe connects to your business tools and completes your work. Our goal is to save people a billion hours.",
+  "published_at": "2026-01-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:44:00.145230+00:00",
+  "fetched_at": "2026-07-28T22:23:16.767603+00:00",
+  "last_updated_at": "2026-08-20T03:32:35.432458+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-doe/2026/01/86/868b4f072d76f49ef8aad36079a7be47bb2c45190235d14995d10a9fc82ef340/article.md",
+    "record": "articles/v1/c7/yc-doe/2026/01/86/868b4f072d76f49ef8aad36079a7be47bb2c45190235d14995d10a9fc82ef340/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2721,
+    "sha256": "sha256:a80d7f42a15f0b38b6b432a587c5091dc7e9481c04192491d6d27682811bb962",
+    "normalized_content_hash": "sha256:15aa729a3ff4253de2beb0726126b0beccb858ac56053ccde4055bb2b15ae7a8"
+  },
+  "provenance": {
+    "source_item_id": "bca97040-364a-47dc-8644-21a12ec8a9c3",
+    "external_id": "https://doe.so/blog/reinventing-work"
+  }
+}

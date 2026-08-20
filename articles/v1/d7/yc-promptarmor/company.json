@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-promptarmor",
+    "name": "PromptArmor"
+  },
+  "record_count": 7,
+  "first_published_at": "2023-12-15T14:29:24+00:00",
+  "last_published_at": "2025-10-16T12:31:54+00:00",
+  "partitions": [
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d7/yc-promptarmor/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 6677,
+        "sha256": "sha256:f5783cfc24d79fa9877f2272b81ca82086e1bb49936332352012df071725d549",
+        "newest_at": "2025-10-16T12:31:54+00:00",
+        "oldest_at": "2023-12-15T14:29:24+00:00"
+      }
+    ]
+  }
+}

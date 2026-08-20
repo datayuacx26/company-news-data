@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "483b73cf9d7a71e73547e3c87c66d7d285df79515384b7f5ab3c015900c5833b",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-mariadb-with-salesforce",
+    "canonical": "https://www.stacksync.com/blog/sync-mariadb-with-salesforce"
+  },
+  "title": "From the MariaDB Binlog to a Salesforce Upsert",
+  "summary": "How to sync MariaDB with Salesforce: capture changes from the binlog, upsert on an External ID field, stay inside API limits, and handle deletes.",
+  "published_at": "2026-07-22T10:30:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/48/483b73cf9d7a71e73547e3c87c66d7d285df79515384b7f5ab3c015900c5833b/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/48/483b73cf9d7a71e73547e3c87c66d7d285df79515384b7f5ab3c015900c5833b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12660,
+    "sha256": "sha256:0c6a1fa243f2db425b6b07a0918c94816bd949cd58d0bec859bff9a7b3dfadbe",
+    "normalized_content_hash": "sha256:66392b62b5d6c9cfcb8939ea822ae1e7ef1a28aaf5c55e1502df80e77179cca0"
+  },
+  "provenance": {
+    "source_item_id": "43d95805-b19c-4c48-9245-10e86e30fe04",
+    "external_id": "https://www.stacksync.com/blog/sync-mariadb-with-salesforce"
+  }
+}

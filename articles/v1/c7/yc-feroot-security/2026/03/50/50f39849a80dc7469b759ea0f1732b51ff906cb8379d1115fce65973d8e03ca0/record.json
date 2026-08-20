@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50f39849a80dc7469b759ea0f1732b51ff906cb8379d1115fce65973d8e03ca0",
+  "company": {
+    "key": "yc-feroot-security",
+    "name": "Feroot Security"
+  },
+  "source": {
+    "id": "yc-feroot-security-news-import-5cc226b40d32",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.feroot.com/blog/appsflyers-javascript-sdk-has-been-compromised/",
+    "canonical": "https://feroot.com/blog/appsflyers-javascript-sdk-has-been-compromised/"
+  },
+  "title": "AppsFlyer's JavaScript SDK Has Been Compromised - Feroot Security",
+  "summary": "AppsFlyer's JavaScript SDK has been compromised in an active supply chain attack. Websites loading the script are serving malicious code to their users",
+  "published_at": "2026-03-11T23:52:02+00:00",
+  "first_seen_at": "2026-07-22T07:46:19.024825+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-08-20T03:19:00.317392+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-feroot-security/2026/03/50/50f39849a80dc7469b759ea0f1732b51ff906cb8379d1115fce65973d8e03ca0/article.md",
+    "record": "articles/v1/c7/yc-feroot-security/2026/03/50/50f39849a80dc7469b759ea0f1732b51ff906cb8379d1115fce65973d8e03ca0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5703,
+    "sha256": "sha256:32cd265dc5e449f80cbe06307d867e98abfed322dc23e41eea2fcecdf18e58b2",
+    "normalized_content_hash": "sha256:1b3ed8def8476b28e55f1b2edc34fcf50a4fa3982c8f602aa55827c6e7591ff7"
+  },
+  "provenance": {
+    "source_item_id": "b03e3f4c-4928-4649-8c81-71a9cf9bb6ea",
+    "external_id": "https://feroot.com/blog/appsflyers-javascript-sdk-has-been-compromised/"
+  }
+}

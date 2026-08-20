@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a53a09d0b46a2ff939e937a8c12c962c800dc3a66af0a70c91fe45109882c4f7",
+  "company": {
+    "key": "yc-clarm",
+    "name": "Clarm"
+  },
+  "source": {
+    "id": "yc-clarm-news-import-36dfdbd138cb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clarm.com/blog/articles/how-to-build-an-ai-agent-with-your-company-data/",
+    "canonical": "https://clarm.com/blog/articles/how-to-build-an-ai-agent-with-your-company-data/"
+  },
+  "title": "How to Build an AI Agent With Your Company Data",
+  "summary": "How to connect your documents and systems, ground the agent so every answer cites a source, and keep data isolated and untrained-on.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T17:35:27.611121+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-20T02:27:40.898317+00:00",
+  "paths": {
+    "article": "articles/v1/cf/yc-clarm/2026/07/a5/a53a09d0b46a2ff939e937a8c12c962c800dc3a66af0a70c91fe45109882c4f7/article.md",
+    "record": "articles/v1/cf/yc-clarm/2026/07/a5/a53a09d0b46a2ff939e937a8c12c962c800dc3a66af0a70c91fe45109882c4f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3679,
+    "sha256": "sha256:b0ce6d8e2e885acfba5f5402cbf521b337757b8df0563382baa4646a37d64356",
+    "normalized_content_hash": "sha256:494c9fde12602297b5411e330491b39a6c25e4a94f14aaf13c733a936bffece8"
+  },
+  "provenance": {
+    "source_item_id": "b12842a3-3b1c-4ac0-abc9-9cd3c1ee62f1",
+    "external_id": "https://clarm.com/blog/articles/how-to-build-an-ai-agent-with-your-company-data/"
+  }
+}

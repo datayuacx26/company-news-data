@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-atrato",
+    "name": "Atrato"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-06-11T00:00:00+00:00",
+  "last_published_at": "2026-08-18T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e5/yc-atrato/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 5531,
+        "sha256": "sha256:cc780fdf2027c2033a11ef5fd8b3043b9da38da9ebd2a3c24ee0969ac3c7368e",
+        "newest_at": "2026-08-18T00:00:00+00:00",
+        "oldest_at": "2026-06-11T00:00:00+00:00"
+      }
+    ]
+  }
+}

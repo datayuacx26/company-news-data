@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cambly",
+    "name": "Cambly"
+  },
+  "record_count": 12,
+  "first_published_at": "2018-12-18T07:56:46+00:00",
+  "last_published_at": "2022-11-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2018-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 7
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d7/yc-cambly/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 15827,
+        "sha256": "sha256:a6447c80a12ddf53f9911e36254bb8e2c65c914988c585fcffb752bdaf9e9238",
+        "newest_at": "2022-11-30T00:00:00+00:00",
+        "oldest_at": "2018-12-18T07:56:46+00:00"
+      }
+    ]
+  }
+}

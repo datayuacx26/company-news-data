@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "99c314a204dc3e4aa0755c82a0116f0f149e421f44fd809b1a5b6b24a5dda119",
+  "company": {
+    "key": "sap-se-ads",
+    "name": "SAP SE"
+  },
+  "source": {
+    "id": "sap-se-ads-news-import-a940d8350416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.sap.com/press-room/partner-news/",
+    "canonical": "https://news.sap.com/press-room/partner-news/"
+  },
+  "title": "Partner News",
+  "summary": "Links to press releases and related news content from SAP Partners and Ecosystem",
+  "published_at": "2011-12-10T06:08:26+00:00",
+  "first_seen_at": "2026-07-23T23:53:52.540409+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T16:52:39.297644+00:00",
+  "paths": {
+    "article": "articles/v1/cc/sap-se-ads/2011/12/99/99c314a204dc3e4aa0755c82a0116f0f149e421f44fd809b1a5b6b24a5dda119/article.md",
+    "record": "articles/v1/cc/sap-se-ads/2011/12/99/99c314a204dc3e4aa0755c82a0116f0f149e421f44fd809b1a5b6b24a5dda119/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4261,
+    "sha256": "sha256:da0b7f93d7893b021baa9cb0e9446df940afb729de065ce4b2ceb5942a8f7169",
+    "normalized_content_hash": "sha256:26b9b853376bb079e9fb6d1fa65c589d51e56fd905e14ef5e8edcd811c3a68bd"
+  },
+  "provenance": {
+    "source_item_id": "051be7be-dd5d-4d32-94b1-6f1188faf1b0",
+    "external_id": "https://news.sap.com/press-room/partner-news/"
+  }
+}

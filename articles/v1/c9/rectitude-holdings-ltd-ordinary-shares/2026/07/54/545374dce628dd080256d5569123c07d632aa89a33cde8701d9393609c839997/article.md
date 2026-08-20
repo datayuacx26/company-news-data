@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "545374dce628dd080256d5569123c07d632aa89a33cde8701d9393609c839997"
+company_key: "rectitude-holdings-ltd-ordinary-shares"
+company: "Rectitude Holdings Ltd"
+source_id: "rectitude-holdings-ltd-ordinary-shares-rss-0d297b397433"
+canonical_url: "https://ir.rectitude.com.sg/rectitude-holdings-ltd-announces-new-retail-branch-at-enterprise-hub-in-singapores-jurong-east-district/"
+published_at: "2026-07-06T12:55:25+00:00"
+first_seen_at: "2026-07-25T20:39:27.562148+00:00"
+fetched_at: "2026-08-20T00:50:13.636094+00:00"
+content_hash: "sha256:b5951f415250c35688218bb6b6dfd027f7df6698a7c6086c27957c163da36d30"
+---
+
+# Rectitude Holdings Ltd Announces New Retail Branch at Enterprise Hub in Singapore&apos;s Jurong East District
+
+Rectitude expands its physical market footprint in Western Singapore with the official opening of its latest retail branch in the Jurong East industrial district. SINGAPORE, July 6th, 2026 – RECTITUDE HOLDINGS LTD (Nasdaq: RECT; the “Company” or “Rectitude”), a Singapore-based provider of safety equipment and related industrial products, today announced the opening of its new \[…\]

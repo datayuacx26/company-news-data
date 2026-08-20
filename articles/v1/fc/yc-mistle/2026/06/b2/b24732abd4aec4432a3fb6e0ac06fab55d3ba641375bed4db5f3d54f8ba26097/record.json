@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b24732abd4aec4432a3fb6e0ac06fab55d3ba641375bed4db5f3d54f8ba26097",
+  "company": {
+    "key": "yc-mistle",
+    "name": "Mistle"
+  },
+  "source": {
+    "id": "yc-mistle-rss-fde7fc026b0c",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://mistle.dev/blog/credential-less-sandboxes/",
+    "canonical": "https://mistle.dev/blog/credential-less-sandboxes/"
+  },
+  "title": "Credential-less sandboxes",
+  "summary": "How Mistle lets sandboxed agents call external HTTP services without storing credentials inside the sandbox.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:32.124923+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-08-20T01:04:18.593050+00:00",
+  "paths": {
+    "article": "articles/v1/fc/yc-mistle/2026/06/b2/b24732abd4aec4432a3fb6e0ac06fab55d3ba641375bed4db5f3d54f8ba26097/article.md",
+    "record": "articles/v1/fc/yc-mistle/2026/06/b2/b24732abd4aec4432a3fb6e0ac06fab55d3ba641375bed4db5f3d54f8ba26097/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10653,
+    "sha256": "sha256:b370eeeefc2b0884b093d999106637b124dc6f6debb679607c39e8a10b6d49ba",
+    "normalized_content_hash": "sha256:7eb5134f86b1dd0404a453a5c33772dfc09b09983f650646928820f09a98aa76"
+  },
+  "provenance": {
+    "source_item_id": "5537ab77-b46e-4b5c-8d19-982f9c152160",
+    "external_id": "https://mistle.dev/blog/credential-less-sandboxes/"
+  }
+}

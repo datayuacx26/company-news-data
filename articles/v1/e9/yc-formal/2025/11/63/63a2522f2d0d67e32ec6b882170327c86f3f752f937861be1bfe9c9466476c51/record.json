@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63a2522f2d0d67e32ec6b882170327c86f3f752f937861be1bfe9c9466476c51",
+  "company": {
+    "key": "yc-formal",
+    "name": "Formal"
+  },
+  "source": {
+    "id": "yc-formal-news-import-a5b088b50d89",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://formal.ai/blog/allowlisting-bash-commands/",
+    "canonical": "https://www.formal.ai/blog/allowlisting-bash-commands/"
+  },
+  "title": "Allowlisting Some Bash Commands is Often the Same as Allowlisting All with Claude Code",
+  "summary": "How allowlisting developer tools in Claude Code can inadvertently allow arbitrary command execution.",
+  "published_at": "2025-11-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:22:31.452672+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-19T21:17:49.783874+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-formal/2025/11/63/63a2522f2d0d67e32ec6b882170327c86f3f752f937861be1bfe9c9466476c51/article.md",
+    "record": "articles/v1/e9/yc-formal/2025/11/63/63a2522f2d0d67e32ec6b882170327c86f3f752f937861be1bfe9c9466476c51/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9861,
+    "sha256": "sha256:d60ee076ab9be54c7bbf5143ba3d7da979dc16bfd8610456b3435826582ee9f4",
+    "normalized_content_hash": "sha256:3cd42d2cf79ed85c5e4956b2c1a3b2d1acff47ecbee14843ccfd79e12ac2eb34"
+  },
+  "provenance": {
+    "source_item_id": "e5c46a5d-2a0f-4bf6-8870-5cc2ac6698bf",
+    "external_id": "https://www.formal.ai/blog/allowlisting-bash-commands/"
+  }
+}

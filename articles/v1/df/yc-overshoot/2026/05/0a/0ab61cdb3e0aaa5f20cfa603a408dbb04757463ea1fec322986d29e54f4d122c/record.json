@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0ab61cdb3e0aaa5f20cfa603a408dbb04757463ea1fec322986d29e54f4d122c",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/gemma-4-batched-encoder",
+    "canonical": "https://www.overshoot.ai/blogs/gemma-4-batched-encoder"
+  },
+  "title": "Gemma 4: a 10x vision speedup from one fix",
+  "summary": "A simple fix in the vLLM video encoder path batches the serial vision tower and speeds up Gemma 4 on vision tasks by 10x, while preserving bit identity.",
+  "published_at": "2026-05-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/05/0a/0ab61cdb3e0aaa5f20cfa603a408dbb04757463ea1fec322986d29e54f4d122c/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/05/0a/0ab61cdb3e0aaa5f20cfa603a408dbb04757463ea1fec322986d29e54f4d122c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7750,
+    "sha256": "sha256:89e7eea60a1ec9798524e8fe3552faa5638fd6f8b39c98c44574422705f5a8b9",
+    "normalized_content_hash": "sha256:21e9a6f1d2a1faaad55134e8561b733b8c008a21cd048848639918e7e05ba351"
+  },
+  "provenance": {
+    "source_item_id": "51298172-b001-461f-bbde-508a04c4e32a",
+    "external_id": "https://www.overshoot.ai/blogs/gemma-4-batched-encoder"
+  }
+}

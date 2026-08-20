@@ -1,0 +1,104 @@
+---
+schema_version: "1.0.0"
+document_id: "7b7fbf2fd35469c51272ba705e2190db8a51c823a44ff35370f73d79f263ba6f"
+company_key: "yc-promptless"
+company: "Promptless"
+source_id: "yc-promptless-news-import-48c94b307195"
+canonical_url: "https://promptless.ai/blog/product-updates/google-drive-context-source/"
+published_at: "2026-06-29T00:00:00+00:00"
+first_seen_at: "2026-08-07T08:03:50.270603+00:00"
+fetched_at: "2026-08-07T08:03:52.181710+00:00"
+content_hash: "sha256:8431a88f8cb6a7bf9559d1813eb09dcf7b395f8c730b5999a0414a668a027cc7"
+---
+
+# Google Drive as a Context Source for Documentation Suggestions
+
+# Google Drive as a Context Source for Documentation Suggestions
+
+
+[← Back to Blog](https://promptless.ai/blog)
+
+
+Promptless can now read your Google Drive as a read-only context source. Connect Drive on the Integrations page. Promptless searches your files when generating documentation suggestions. Google Docs are read as Markdown, Sheets as CSV, and Slides as plain text.
+
+
+## The problem
+
+
+Section titled “The problem”
+
+
+A lot of product knowledge lives in Google Drive, including specs, design decisions, onboarding guides, and internal runbooks. For teams where Drive is the primary working surface, this content was not visible to Promptless. A Google Doc might describe exactly how the product was supposed to work. Promptless could not read it before generating documentation suggestions for a PR.
+
+
+The result was suggestions that reflected the code change alone, missing context that existed elsewhere in the organization.
+
+
+## What it does now
+
+
+Section titled “What it does now”
+
+
+When Drive is connected, Promptless searches your files as part of its normal context-gathering process. It reads file content and uses what it finds to inform suggestions. The agent skips files it cannot read as text, such as images, PDFs, and binary exports.
+
+
+By default, access covers your entire connected Drive. Add` drive_ids` or` folder_ids` to the` google_drive` context source entry in your` promptless.yaml` to narrow this. Use this to point Promptless at a specific shared drive, such as one for your product team. You can also point it at a single folder, such as one containing your current-quarter specs. This keeps Promptless from seeing unrelated personal files.
+
+
+The integration card on the Integrations page shows which Google account authorized the connection. Check it to confirm whose access the agent inherits before going live.
+
+
+Promptless connects with read-only scopes and never modifies your Drive.
+
+
+*We regularly share actionable insights grounded in research, experiments, and real-world product learnings. Subscribe to get future posts in your inbox.*
+
+
+## Who benefits most
+
+
+Section titled “Who benefits most”
+
+
+This feature helps teams where Google Workspace is the default writing surface for product knowledge. Your spec documents, feature briefs, or API decision records may live in Google Docs, not a wiki or a repo. Promptless closes the gap between what it knows and what your organization has written down.
+
+
+This also helps if you maintain a shared Drive folder with evergreen reference content. Examples include style decisions, terminology lists, and architecture notes. Once connected, Promptless can pull from that material when generating suggestions instead of reasoning from scratch.
+
+
+## How to use it
+
+
+Section titled “How to use it”
+
+
+1. Go to the **Integrations page** in the Promptless dashboard.
+2. Connect Google Drive. Authorize with the Google account that has access to the files you want Promptless to read.
+3. Promptless adds an unscoped` google_drive` context source entry to your` promptless.yaml` automatically.
+
+
+To scope access to specific drives or folders, edit the entry in your configuration:
+
+
+```text
+context_sources  :         -   type  :   google_drive          drive_ids  :             -   0AExampleDriveIdUk9PVA          folder_ids  :             -   1BExampleFolderIdXyZ
+```
+
+
+Leave` drive_ids` and` folder_ids` empty, or omit them, to allow access to everything the connected account can read.
+
+
+## More from the blog
+
+
+- [Fix skill slop before it makes your AI workforce worse](https://promptless.ai/blog/product-updates/introducing-promptless-for-agent-instructions) Product Updates
+
+
+- [Grant Promptless Access to Files in Private and Shared Teams Channels](https://promptless.ai/blog/product-updates/teams-private-channel-file-access) Product Updates
+
+
+- [Promptless Now Alerts You When an Integration Has a Problem](https://promptless.ai/blog/product-updates/integration-health-alerts) Product Updates
+
+
+[← Back to Blog](https://promptless.ai/blog)

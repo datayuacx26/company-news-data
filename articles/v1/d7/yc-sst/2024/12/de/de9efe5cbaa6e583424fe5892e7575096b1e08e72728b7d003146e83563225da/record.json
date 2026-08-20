@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de9efe5cbaa6e583424fe5892e7575096b1e08e72728b7d003146e83563225da",
+  "company": {
+    "key": "yc-sst",
+    "name": "SST"
+  },
+  "source": {
+    "id": "yc-sst-news-import-9375d5a7fa7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sst.dev/blog/go-runtime-support",
+    "canonical": "https://sst.dev/blog/go-runtime-support/"
+  },
+  "title": "Go runtime support",
+  "summary": "SST v3 now supports the Golang runtime for Lambda functions.",
+  "published_at": "2024-12-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:49:09.857782+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T20:37:58.782391+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-sst/2024/12/de/de9efe5cbaa6e583424fe5892e7575096b1e08e72728b7d003146e83563225da/article.md",
+    "record": "articles/v1/d7/yc-sst/2024/12/de/de9efe5cbaa6e583424fe5892e7575096b1e08e72728b7d003146e83563225da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1944,
+    "sha256": "sha256:573a359dda843301e4b62534a6f74f08e0b0ae9cb63715bfa1b06f1a73a991a5",
+    "normalized_content_hash": "sha256:5cdf49cb4a59f6ae9b1ca94a28cd57ba9a59945d97ed4111e91f9b81457dc5c6"
+  },
+  "provenance": {
+    "source_item_id": "6a1b4a9d-fe8f-4563-ad47-a3c585e9a36c",
+    "external_id": "https://sst.dev/blog/go-runtime-support/"
+  }
+}

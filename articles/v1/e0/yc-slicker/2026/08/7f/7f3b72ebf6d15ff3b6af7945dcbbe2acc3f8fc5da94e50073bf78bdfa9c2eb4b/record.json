@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7f3b72ebf6d15ff3b6af7945dcbbe2acc3f8fc5da94e50073bf78bdfa9c2eb4b",
+  "company": {
+    "key": "yc-slicker",
+    "name": "Slicker"
+  },
+  "source": {
+    "id": "yc-slicker-news-import-4c2e7cff2c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.slickerhq.com/resources/blog/visa-decline-retry-subscription-billing",
+    "canonical": "https://www.slickerhq.com/resources/blog/visa-decline-retry-subscription-billing"
+  },
+  "title": "Visa Response Code Retry Rules Explained (August 2026)",
+  "summary": "A decline code lands in your system and your retry logic makes a call: try again or route to dunning. That call, made thousands of times a month across ...",
+  "published_at": "2026-08-13T09:25:20.566+00:00",
+  "first_seen_at": "2026-08-13T19:19:58.986940+00:00",
+  "fetched_at": "2026-08-13T19:20:00.551272+00:00",
+  "last_updated_at": "2026-08-20T03:22:16.787490+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-slicker/2026/08/7f/7f3b72ebf6d15ff3b6af7945dcbbe2acc3f8fc5da94e50073bf78bdfa9c2eb4b/article.md",
+    "record": "articles/v1/e0/yc-slicker/2026/08/7f/7f3b72ebf6d15ff3b6af7945dcbbe2acc3f8fc5da94e50073bf78bdfa9c2eb4b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18855,
+    "sha256": "sha256:efdff07c4d54ce4831efb416ab056ee10a5146beff44003cccc687fc561c074c",
+    "normalized_content_hash": "sha256:3c134db546eb8cda8ec4824bbdc5d2c7165719b99756bab43473dbb9eb2be54d"
+  },
+  "provenance": {
+    "source_item_id": "c7c00fbf-052e-47f7-ade5-8291bca6a1a5",
+    "external_id": "https://www.slickerhq.com/resources/blog/visa-decline-retry-subscription-billing"
+  }
+}

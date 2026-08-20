@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "79648883b55162032195f99829aca3024b73fb5c7d203b7e5e4505474a3ebe1e",
+  "company": {
+    "key": "yc-wasp",
+    "name": "Wasp"
+  },
+  "source": {
+    "id": "yc-wasp-rss-5b1984e54864",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://wasp.sh/blog/2026/03/25/gentle-intro-npm-workspaces",
+    "canonical": "https://wasp.sh/blog/2026/03/25/gentle-intro-npm-workspaces"
+  },
+  "title": "A gentle intro to npm workspaces, with visuals",
+  "summary": "A deep dive into how npm workspaces work under the hood: how package managers resolve shared dependencies across packages, how Node.js finds imports via symlinks, and when to use workspaces in your JavaScript projects.",
+  "published_at": "2026-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:24.634053+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-20T02:55:38.590332+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-wasp/2026/03/79/79648883b55162032195f99829aca3024b73fb5c7d203b7e5e4505474a3ebe1e/article.md",
+    "record": "articles/v1/d9/yc-wasp/2026/03/79/79648883b55162032195f99829aca3024b73fb5c7d203b7e5e4505474a3ebe1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19443,
+    "sha256": "sha256:4b627116a8b7ba30b9ca51d6bfca8acc89f7d03cba8713c9d46ff635e9c6c596",
+    "normalized_content_hash": "sha256:29c52264a4c7f36cf5140d39ff3ce60c703c0107e9ff4b38b1aefdb96524a47d"
+  },
+  "provenance": {
+    "source_item_id": "c2b5eace-e27c-4a23-860c-120ffe8263a2",
+    "external_id": "https://wasp.sh/blog/2026/03/25/gentle-intro-npm-workspaces"
+  }
+}

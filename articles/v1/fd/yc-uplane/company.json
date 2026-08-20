@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-uplane",
+    "name": "Uplane"
+  },
+  "record_count": 1,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fd/yc-uplane/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 993,
+        "sha256": "sha256:744e61e92c80ba4e997475e9148d84cf0299b176bb4ee217776a7166d6c7a32e",
+        "newest_at": "2026-07-28T21:37:39.039431+00:00",
+        "oldest_at": "2026-07-28T21:37:39.039431+00:00"
+      }
+    ]
+  }
+}

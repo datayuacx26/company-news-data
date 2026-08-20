@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7d433621f01821f763d4aeaae44323fddec01dd7d6bf96c9aac48c6f2f8c7a8f",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-aurora-mysql-with-salesforce",
+    "canonical": "https://www.stacksync.com/blog/sync-aurora-mysql-with-salesforce"
+  },
+  "title": "Binlog In, Bulk API Out: Syncing Aurora MySQL With Salesforce",
+  "summary": "How to sync AWS Aurora MySQL with Salesforce both ways: ROW binlog in the cluster parameter group, GTID checkpoints, Bulk API 2.0 upserts.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/7d/7d433621f01821f763d4aeaae44323fddec01dd7d6bf96c9aac48c6f2f8c7a8f/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/7d/7d433621f01821f763d4aeaae44323fddec01dd7d6bf96c9aac48c6f2f8c7a8f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19328,
+    "sha256": "sha256:8bbb3ba0c4852e6135eb3fba67509b427cbca06bbb7ee4c8728dabc5d4a9a9a2",
+    "normalized_content_hash": "sha256:9f8f9fd95debbb358a7e7361d14249f765a7b3ea11c663633fb71d9217a3552f"
+  },
+  "provenance": {
+    "source_item_id": "775d2ce8-10da-4b25-a80c-7eed1d4f21d9",
+    "external_id": "https://www.stacksync.com/blog/sync-aurora-mysql-with-salesforce"
+  }
+}

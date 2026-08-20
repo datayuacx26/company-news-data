@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc3dc09bdc63aa0abaa4343ad75131201e8e6d7d4882c66741c65adafd0cb6f2",
+  "company": {
+    "key": "yc-vote-org",
+    "name": "Vote.org"
+  },
+  "source": {
+    "id": "yc-vote-org-news-import-3f6ed1ef3f94",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vote.org/press-releases/record-breaking-q1-midterm-voter-registration/",
+    "canonical": "https://www.vote.org/press-releases/record-breaking-q1-midterm-voter-registration/"
+  },
+  "title": "Vote.org Records Highest Q1 Midterm Voter Registration Total in Organization History",
+  "summary": "Nearly 4x increase over last midterm year signals surging enthusiasm heading into 2026",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T04:58:19.644110+00:00",
+  "fetched_at": "2026-07-28T22:15:57.305389+00:00",
+  "last_updated_at": "2026-08-20T03:31:40.280751+00:00",
+  "paths": {
+    "article": "articles/v1/c8/yc-vote-org/2026/04/fc/fc3dc09bdc63aa0abaa4343ad75131201e8e6d7d4882c66741c65adafd0cb6f2/article.md",
+    "record": "articles/v1/c8/yc-vote-org/2026/04/fc/fc3dc09bdc63aa0abaa4343ad75131201e8e6d7d4882c66741c65adafd0cb6f2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2790,
+    "sha256": "sha256:2cddeb217c254941de47b2d90c342a14d52145e5b11b97694eaf877a65972b20",
+    "normalized_content_hash": "sha256:f8445c5c2bf09bac6d041e3dc94241d628ac1def80813c346c0922d5a3425d63"
+  },
+  "provenance": {
+    "source_item_id": "677ab7f1-9614-4aaf-b68d-5e5659ffb9e9",
+    "external_id": "https://www.vote.org/press-releases/record-breaking-q1-midterm-voter-registration/"
+  }
+}

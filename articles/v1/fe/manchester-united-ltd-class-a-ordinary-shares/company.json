@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "manchester-united-ltd-class-a-ordinary-shares",
+    "name": "Manchester United Ltd."
+  },
+  "record_count": 1,
+  "first_published_at": "2019-02-14T13:00:00+00:00",
+  "last_published_at": "2019-02-14T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-02",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fe/manchester-united-ltd-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1165,
+        "sha256": "sha256:5c50bf6a36d73104f0977515067950c4605c3f9f819ff4bb1670bd5c7782ef76",
+        "newest_at": "2019-02-14T13:00:00+00:00",
+        "oldest_at": "2019-02-14T13:00:00+00:00"
+      }
+    ]
+  }
+}

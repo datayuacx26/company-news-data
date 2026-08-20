@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8dd84fb727da0ea9678c5b9956453eaef370a928ab7a255738f6c45b2e008b0",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-sql-server-netsuite",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-sql-server-netsuite"
+  },
+  "title": "Making SQL Server and NetSuite Agree on the Same Record",
+  "summary": "Two-way sync between SQL Server and NetSuite: change capture, externalId upserts, echo loops, closed periods, and how the four options compare.",
+  "published_at": "2026-07-23T10:10:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/a8/a8dd84fb727da0ea9678c5b9956453eaef370a928ab7a255738f6c45b2e008b0/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/a8/a8dd84fb727da0ea9678c5b9956453eaef370a928ab7a255738f6c45b2e008b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17051,
+    "sha256": "sha256:109d056207d7647b432e32787fc6b4b87ec8b69b9cf09450758e3505a405a254",
+    "normalized_content_hash": "sha256:0ab5d54a0b2af145ed673e98a3590cb1e2355d05c6de87f6c57569d7d84395a2"
+  },
+  "provenance": {
+    "source_item_id": "3c561689-f9f1-4c73-8c47-313cd3afd973",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-sql-server-netsuite"
+  }
+}

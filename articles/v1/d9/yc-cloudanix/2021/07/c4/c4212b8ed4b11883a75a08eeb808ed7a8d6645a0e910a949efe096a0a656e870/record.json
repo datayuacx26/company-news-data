@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4212b8ed4b11883a75a08eeb808ed7a8d6645a0e910a949efe096a0a656e870",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/implementing-iam-in-the-google-cloud-platform-gcp/",
+    "canonical": "https://www.cloudanix.com/blog/implementing-iam-in-the-google-cloud-platform-gcp/"
+  },
+  "title": "Implementing IAM in the Google Cloud Platform (GCP)",
+  "summary": "Learn how to implement IAM in Google Cloud Platform with best practices for MFA, service accounts, logging, and KMS to secure your GCP infrastructure.",
+  "published_at": "2021-07-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2021/07/c4/c4212b8ed4b11883a75a08eeb808ed7a8d6645a0e910a949efe096a0a656e870/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2021/07/c4/c4212b8ed4b11883a75a08eeb808ed7a8d6645a0e910a949efe096a0a656e870/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8012,
+    "sha256": "sha256:df7d44d3a8e237d5c74ae5d3c3ac6e8d88e1896d96fedd89fbe01f7e6030fed1",
+    "normalized_content_hash": "sha256:4d09d077f094384e6818e0e366b1aee8c4d66f8758de10b27688d96cce24f591"
+  },
+  "provenance": {
+    "source_item_id": "4563dbb7-c8a1-490f-a80a-b2f80b620a8a",
+    "external_id": "https://www.cloudanix.com/blog/implementing-iam-in-the-google-cloud-platform-gcp/"
+  }
+}

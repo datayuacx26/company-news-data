@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da22d1f19e38c68b6bd88b366322effecfa1b7f660155b2ddfcad6b89c77313f",
+  "company": {
+    "key": "yc-castle-2",
+    "name": "Castle"
+  },
+  "source": {
+    "id": "yc-castle-2-news-import-b99476926256",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.castle.io/changelog/phone-call-detection",
+    "canonical": "https://docs.castle.io/changelog/phone-call-detection"
+  },
+  "title": "Phone call detection",
+  "summary": "Castle can now detect when a user is on a phone call during sensitive actions like login or transactions. This helps you catch social engineering attacks, where a scammer calls the victim and walks them through actions while simultaneously taking over their account. Three new fields are available un…",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:42:16.969450+00:00",
+  "fetched_at": "2026-07-28T21:43:32.355791+00:00",
+  "last_updated_at": "2026-08-20T02:45:41.804501+00:00",
+  "paths": {
+    "article": "articles/v1/e5/yc-castle-2/2026/05/da/da22d1f19e38c68b6bd88b366322effecfa1b7f660155b2ddfcad6b89c77313f/article.md",
+    "record": "articles/v1/e5/yc-castle-2/2026/05/da/da22d1f19e38c68b6bd88b366322effecfa1b7f660155b2ddfcad6b89c77313f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1954,
+    "sha256": "sha256:f5bdb178e0fe23025889993f733cc2b4c7aa21cf196998bc3af9aec08da3bf1b",
+    "normalized_content_hash": "sha256:980f4d1bcd4ba7a236fa83625d22a961c8ee7a937cbb3727b3f4bcbbe8df7741"
+  },
+  "provenance": {
+    "source_item_id": "dccc8675-245b-4598-b8a5-ed39b82ef832",
+    "external_id": "https://docs.castle.io/changelog/phone-call-detection"
+  }
+}

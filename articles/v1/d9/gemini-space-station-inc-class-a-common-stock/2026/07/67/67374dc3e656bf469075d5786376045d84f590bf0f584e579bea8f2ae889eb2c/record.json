@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "67374dc3e656bf469075d5786376045d84f590bf0f584e579bea8f2ae889eb2c",
+  "company": {
+    "key": "gemini-space-station-inc-class-a-common-stock",
+    "name": "Gemini Space Station Inc."
+  },
+  "source": {
+    "id": "gemini-space-station-inc-class-a-common-stock-news-import-1c1a410de1c5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.gemini.com/blog/how-gemini-built-a-malicious-code-detector-to-boost-our-security-apparatus",
+    "canonical": "https://www.gemini.com/blog/how-gemini-built-a-malicious-code-detector-to-boost-our-security-apparatus"
+  },
+  "title": "How Gemini Built A Malicious Code Detector To Boost Our Security Apparatus",
+  "summary": "Gemini engineers leveraged Claude to build an MCD audit tool that helps detect malicious code from third-party vendors.",
+  "published_at": null,
+  "first_seen_at": "2026-07-21T21:23:13.509460+00:00",
+  "fetched_at": "2026-07-28T21:20:58.380206+00:00",
+  "last_updated_at": "2026-08-20T02:53:50.398409+00:00",
+  "paths": {
+    "article": "articles/v1/d9/gemini-space-station-inc-class-a-common-stock/2026/07/67/67374dc3e656bf469075d5786376045d84f590bf0f584e579bea8f2ae889eb2c/article.md",
+    "record": "articles/v1/d9/gemini-space-station-inc-class-a-common-stock/2026/07/67/67374dc3e656bf469075d5786376045d84f590bf0f584e579bea8f2ae889eb2c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4323,
+    "sha256": "sha256:ef04bb3a08a3247b7cc3f58c0db646338f84afaefd59a7f8b633a78a7f05cb07",
+    "normalized_content_hash": "sha256:3a76a4e615ab0dc3a4296bde72d3f5a79393cdf0b179e175e081626f24a527a8"
+  },
+  "provenance": {
+    "source_item_id": "5d5e8685-f461-4164-945b-9e7d0600d9f9",
+    "external_id": "https://www.gemini.com/blog/how-gemini-built-a-malicious-code-detector-to-boost-our-security-apparatus"
+  }
+}

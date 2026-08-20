@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db26818116aa2f569f72169af9b0d38d2a92810fc1034df3e4cad46d9154d2f1",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/deep-max",
+    "canonical": "https://exa.ai/blog/deep-max"
+  },
+  "title": "Introducing Deep Max: State-of-the-Art Agentic Search",
+  "summary": "Our highest-quality search endpoint. SOTA on DSQA, FRAMES, and HLE-Search, and up to 20x faster than competitors.",
+  "published_at": "2026-04-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2026/04/db/db26818116aa2f569f72169af9b0d38d2a92810fc1034df3e4cad46d9154d2f1/article.md",
+    "record": "articles/v1/c3/yc-exa/2026/04/db/db26818116aa2f569f72169af9b0d38d2a92810fc1034df3e4cad46d9154d2f1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3156,
+    "sha256": "sha256:75671e686092930f2904e71bc3c6431fbb2c2bae382a0ce539cfc307c5b945e6",
+    "normalized_content_hash": "sha256:99a2adec567a5f3e63bbe4469354f520d4235e57787a477b074c3a1369d07ce1"
+  },
+  "provenance": {
+    "source_item_id": "a859794b-ec85-45ed-ad97-e4825e7ab985",
+    "external_id": "https://exa.ai/blog/deep-max"
+  }
+}

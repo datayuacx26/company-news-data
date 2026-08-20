@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "covenant-logistics-group-inc-class-a-common-stock",
+    "name": "Covenant Logistics Group Inc."
+  },
+  "record_count": 7,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d3/covenant-logistics-group-inc-class-a-common-stock/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8380,
+        "sha256": "sha256:818f3477ec6fcb5b9259e5b124489961f731c1b44421082397941199cd37d6ee",
+        "newest_at": "2026-07-30T03:20:18.171834+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

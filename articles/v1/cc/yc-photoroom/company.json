@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "record_count": 324,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 310
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 14
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 7,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/cc/yc-photoroom/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 49472,
+        "sha256": "sha256:b82d8396b10eaddea282d39dafb1dff55aa0e6c1506fd489bca5f9d29d9fb655",
+        "newest_at": "2026-08-20T01:13:40.783535+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/cc/yc-photoroom/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49130,
+        "sha256": "sha256:ed5beb5e4b1cd282a7350ecab78b4b95a139ae45691667d0549a4552732b59ee",
+        "newest_at": "2026-07-28T21:47:36.059629+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/cc/yc-photoroom/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 49492,
+        "sha256": "sha256:dcedf491486110c59c886ce4466574ac811a78278018351921bf3feb2dea91ed",
+        "newest_at": "2026-07-28T21:47:36.059629+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/cc/yc-photoroom/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 50459,
+        "sha256": "sha256:ac3b9463261e4480dda6aa842ebdf411d8d398f0cbd94bad604c39ff190ee3c9",
+        "newest_at": "2026-07-28T21:47:36.059629+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/cc/yc-photoroom/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 49034,
+        "sha256": "sha256:f4a06fc3268a4273e9bbb08b0a8986f9e4d0ea7c1267c1995937413b995fc5fb",
+        "newest_at": "2026-07-28T21:47:36.059629+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/cc/yc-photoroom/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 49912,
+        "sha256": "sha256:11e918c66e9f8b14ae362e4147ed72a8d54e4df1ea063f1129630f1ec03d130c",
+        "newest_at": "2026-07-28T21:47:36.059629+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/cc/yc-photoroom/index/pages/000007.json",
+        "record_count": 24,
+        "byte_count": 23877,
+        "sha256": "sha256:6b00a1623f5b8bd53c4d0a032db8696847740c27dbc60fb817e7ed4a461f0c4a",
+        "newest_at": "2026-07-28T21:47:36.059629+00:00",
+        "oldest_at": "2026-07-28T21:47:36.059629+00:00"
+      }
+    ]
+  }
+}

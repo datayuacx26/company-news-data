@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04648a853a888775f0ff201e653f45485c2ea6f8b836ce9a88e98df59f529b43",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-news-import-538be81b6878",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/llms-are-good-at-sql",
+    "canonical": "https://mendral.com/blog/llms-are-good-at-sql"
+  },
+  "title": "LLMs Are Good at SQL. We Gave Ours Terabytes of CI Logs.",
+  "summary": "We gave our AI agent a SQL interface to billions of CI log lines in ClickHouse. How we ingest, store, and query 1.5 billion log lines a week.",
+  "published_at": "2026-02-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T00:32:33.388808+00:00",
+  "fetched_at": "2026-08-10T00:32:34.981599+00:00",
+  "last_updated_at": "2026-08-19T17:02:30.703158+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/02/04/04648a853a888775f0ff201e653f45485c2ea6f8b836ce9a88e98df59f529b43/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/02/04/04648a853a888775f0ff201e653f45485c2ea6f8b836ce9a88e98df59f529b43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13199,
+    "sha256": "sha256:0c5d22b8c5a368f11887786ba6a8d39ca3ef5c27ed9dc401f3228a3ccdbea892",
+    "normalized_content_hash": "sha256:4d684845e186492172359cdad722e3b37ad7099f898e53e6bc80f11efeacb8fc"
+  },
+  "provenance": {
+    "source_item_id": "36bc48f0-893d-453f-9adf-c8dd74cd8d89",
+    "external_id": "https://mendral.com/blog/llms-are-good-at-sql"
+  }
+}

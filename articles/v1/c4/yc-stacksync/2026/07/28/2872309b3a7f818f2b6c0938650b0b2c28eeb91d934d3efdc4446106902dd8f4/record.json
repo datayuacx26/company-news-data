@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2872309b3a7f818f2b6c0938650b0b2c28eeb91d934d3efdc4446106902dd8f4",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-mariadb-hubspot",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-mariadb-hubspot"
+  },
+  "title": "MariaDB and HubSpot: Both Sides Writing Without Overwrites",
+  "summary": "Two-way sync between MariaDB and HubSpot: field-level ownership, binlog change capture, echo prevention, and staying inside HubSpot's API limits.",
+  "published_at": "2026-07-22T12:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/28/2872309b3a7f818f2b6c0938650b0b2c28eeb91d934d3efdc4446106902dd8f4/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/28/2872309b3a7f818f2b6c0938650b0b2c28eeb91d934d3efdc4446106902dd8f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12166,
+    "sha256": "sha256:13a14b5e3495f9c0df9d451a2e824558fc38f1e3223ac13faa89ee479c80127a",
+    "normalized_content_hash": "sha256:a097ce5ddc99d04b052e529aee760475ba1826ad36cd3112ca3514f483633aff"
+  },
+  "provenance": {
+    "source_item_id": "4d760db3-b2ae-4939-ba66-449826b1a788",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-mariadb-hubspot"
+  }
+}

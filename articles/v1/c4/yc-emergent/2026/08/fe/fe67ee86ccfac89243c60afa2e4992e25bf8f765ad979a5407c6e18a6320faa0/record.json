@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe67ee86ccfac89243c60afa2e4992e25bf8f765ad979a5407c6e18a6320faa0",
+  "company": {
+    "key": "yc-emergent",
+    "name": "Emergent"
+  },
+  "source": {
+    "id": "yc-emergent-news-import-16a7bf482038",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emergent.sh/news/nemotron-3-5-lightning-officially-launched",
+    "canonical": "https://emergent.sh/news/nemotron-3-5-lightning-officially-launched"
+  },
+  "title": "NVIDIA Nemotron 3.5 Lightning: 30B Parameter Model Launch",
+  "summary": "NVIDIA officially released Nemotron 3.5 Lightning, a 30B parameter model with A3B architecture under OpenMDW license. Full specs and capabilities inside.",
+  "published_at": "2026-08-19T11:57:36+00:00",
+  "first_seen_at": "2026-08-19T12:00:57.550474+00:00",
+  "fetched_at": "2026-08-19T12:00:59.668519+00:00",
+  "last_updated_at": "2026-08-19T12:01:00.190657+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-emergent/2026/08/fe/fe67ee86ccfac89243c60afa2e4992e25bf8f765ad979a5407c6e18a6320faa0/article.md",
+    "record": "articles/v1/c4/yc-emergent/2026/08/fe/fe67ee86ccfac89243c60afa2e4992e25bf8f765ad979a5407c6e18a6320faa0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3674,
+    "sha256": "sha256:b8a08c5baad0318e153fc02312632f5c30c541231689210b516b20e9e0fcc6e6",
+    "normalized_content_hash": "sha256:0a9226f444440eba91a43714d6e62bcb35e863b2ef8ffa694cd69decd964e641"
+  },
+  "provenance": {
+    "source_item_id": "02ba9a65-3c37-4851-9a0b-eca38d1bb3ff",
+    "external_id": "https://emergent.sh/news/nemotron-3-5-lightning-officially-launched"
+  }
+}

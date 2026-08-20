@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90c1d88372cc5d4a14e2c597bbb553bede8c77a473fef476aaaf1a49b359a602",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-warm-transfer-voice-ai-agents",
+    "canonical": "https://roark.ai/blog/testing-warm-transfer-voice-ai-agents"
+  },
+  "title": "Testing warm transfer and human handoff in voice AI agents",
+  "summary": "Warm transfer is where voice agents lose the caller. Here's a technical test plan for triggers, context capture, whisper briefings, and post-bridge behavior.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T12:07:36.345579+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/07/90/90c1d88372cc5d4a14e2c597bbb553bede8c77a473fef476aaaf1a49b359a602/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/07/90/90c1d88372cc5d4a14e2c597bbb553bede8c77a473fef476aaaf1a49b359a602/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12427,
+    "sha256": "sha256:d17bbbc0ee37b240fa6a0ab9126f10085b0c713997f77bebcf053938ee104d21",
+    "normalized_content_hash": "sha256:87124e042b5f66aef4b9d73438d2d09d9281c321741c72b9d0d70eeba5e7b65a"
+  },
+  "provenance": {
+    "source_item_id": "b0c20f57-55a1-45a2-8244-6ea5c78cf7c1",
+    "external_id": "https://roark.ai/blog/testing-warm-transfer-voice-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c2207b9129094fd43ed54f0f42b49f95a7a6c036da27353d6b3bfbc90b3b7b3c",
+  "company": {
+    "key": "yc-finta",
+    "name": "Finta"
+  },
+  "source": {
+    "id": "yc-finta-news-import-8be56c12e8e6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.finta.io/changelog/show-transaction-amount-as-positive-or-negative",
+    "canonical": "https://www.finta.io/changelog/show-transaction-amount-as-positive-or-negative"
+  },
+  "title": "Toggle Between Showing Transaction Amount as Positive or Negative",
+  "summary": "Before, Finta defaulted to showing outflows (e.g. expenses) as negative and inflow (e.g. income) as positive. Now you can change this setting and show expens...",
+  "published_at": "2024-05-28T18:35:37.798+00:00",
+  "first_seen_at": "2026-07-25T04:54:26.845641+00:00",
+  "fetched_at": "2026-07-28T22:01:08.511319+00:00",
+  "last_updated_at": "2026-08-20T01:26:17.919854+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-finta/2024/05/c2/c2207b9129094fd43ed54f0f42b49f95a7a6c036da27353d6b3bfbc90b3b7b3c/article.md",
+    "record": "articles/v1/e4/yc-finta/2024/05/c2/c2207b9129094fd43ed54f0f42b49f95a7a6c036da27353d6b3bfbc90b3b7b3c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1322,
+    "sha256": "sha256:3bea8a91b69ab1c8e43354b7f92b4ce1a7f0023258dad5b141380791e585f278",
+    "normalized_content_hash": "sha256:f52114e396be891a61be9606723eea6fca633dc7065080b166406793ffe5298c"
+  },
+  "provenance": {
+    "source_item_id": "423844a4-152f-4b50-8a53-17ca68efadc6",
+    "external_id": "https://www.finta.io/changelog/show-transaction-amount-as-positive-or-negative"
+  }
+}

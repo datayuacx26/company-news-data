@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cbffe1063a2766e6c96d0b3ad1c5c917a56fe7dfb289b315950a77fbf095b13b",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/11/08/testing-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/11/08/testing-in-rust"
+  },
+  "title": "Rust for JavaScript Developers: An Overview of Testing",
+  "summary": "This article explores how you can test a web application in Rust and compares it to the way you would do it in JavaScript - covering unit tests, integration tests and API testing as well as mocking.",
+  "published_at": "2023-11-08T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/11/cb/cbffe1063a2766e6c96d0b3ad1c5c917a56fe7dfb289b315950a77fbf095b13b/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/11/cb/cbffe1063a2766e6c96d0b3ad1c5c917a56fe7dfb289b315950a77fbf095b13b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26271,
+    "sha256": "sha256:6dbb4c3b9e96639d20a19cb68b55415508576681ef3a5f81a7159077770afeea",
+    "normalized_content_hash": "sha256:f402bcc789e720c6a72f7c7566e7103fa9733c2d863fecae1c3741e716f3af77"
+  },
+  "provenance": {
+    "source_item_id": "0b5457a8-f14b-487a-96ff-ef7e25981f8c",
+    "external_id": "https://www.shuttle.dev/blog/2023/11/08/testing-in-rust"
+  }
+}

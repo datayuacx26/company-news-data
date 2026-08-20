@@ -1,0 +1,2249 @@
+---
+schema_version: "1.0.0"
+document_id: "77406accb888f3661d2eef4ff94f75e541e008053f853959c5d23ce961466ad3"
+company_key: "kearny-financial-corp-common-stock"
+company: "Kearny Financial Corp"
+source_id: "kearny-financial-corp-common-stock-rss-5ddd9ba0d18f"
+canonical_url: "https://kearny.q4ir.com/news/news-details/2026/Kearny-Financial-Corp--Announces-Fourth-Quarter-and-Fiscal-Year-End-2026-Results-and-Declaration-of-0-11-Per-Share-Cash-Dividend/default.aspx"
+published_at: "2026-07-23T12:30:00+00:00"
+first_seen_at: "2026-07-27T03:19:31.566558+00:00"
+fetched_at: "2026-07-28T21:08:32.413121+00:00"
+content_hash: "sha256:1bff5ddcbbbf553fbb8ebbcca6b48590c199f12b35ef727325ff37c5ad28cc1c"
+---
+
+# Kearny Financial Corp. Announces Fourth Quarter and Fiscal Year End 2026 Results and Declaration of $0.11 Per Share Cash Dividend
+
+[View All News](https://kearny.q4ir.com/news/default.aspx)
+
+
+### Kearny Financial Corp. Announces Fourth Quarter and Fiscal Year End 2026 Results and Declaration of $0.11 Per Share Cash Dividend
+
+
+July 23, 2026
+
+
+- [Download (opens in new window)](https://s205.q4cdn.com/693775059/files/doc_financials/2026/q4/KRNY-Press-Release.pdf)
+
+
+FAIRFIELD, N.J., July 23, 2026 (GLOBE NEWSWIRE) -- Kearny Financial Corp. (NASDAQ GS: KRNY) (the “Company”), the holding company of Kearny Bank (the “Bank”), reported net income for the quarter ended June 30, 2026 of $7.2 million, or $0.11 per diluted share, compared to $10.1 million, or $0.16 per diluted share, for the quarter ended March 31, 2026. For the fiscal year ended June 30, 2026, the Company reported net income of $36.3 million, or $0.57 per diluted share, compared to $26.1 million, or $0.42 per diluted share, for the fiscal year ended June 30, 2025.
+
+
+As explained in additional detail below, net income for the quarter ended June 30, 2026 was impacted by various non-recurring items, including a $1.6 million discrete tax charge, $745,000 of severance expense, and $262,000 of other real estate owned (“OREO”) acquisition expense.
+
+
+The Company also announced that its Board of Directors declared a quarterly cash dividend of $0.11 per share, payable on August 26, 2026, to stockholders of record as of August 12, 2026.
+
+
+Craig L. Montanaro, President and Chief Executive Officer, commented, “I am pleased to report our fiscal 2026 performance, which reflected a 39% increase in net income compared to the prior fiscal year, continued expansion of our net interest margin, and growth in both loans and deposits. Fiscal 2026 was a year of meaningful progress and reflected the successful execution of our strategic plan, including the continued remixing of our balance sheet, enhanced operational efficiency, and our focus on building deeper commercial banking relationships.”
+
+
+Mr. Montanaro continued, “During the fiscal year, we invested in growth initiatives across commercial banking, treasury management, and technology. We added experienced banking talent and expanded capabilities designed to deepen commercial client relationships and support loan and deposit growth. These investments are strengthening our ability to attract high-quality commercial relationships and further our evolution into a commercially focused banking franchise.”
+
+
+Mr. Montanaro concluded, “As we enter fiscal 2027, we remain focused on executing our strategic plan through organic growth, operational excellence, and the continued enhancement of the client experience. We believe the investments we have made in talent, technology, and operating efficiency, coupled with tailwinds from low-coupon loan repricing, position us well to continue delivering sustainable earnings growth and long-term value for our shareholders.”
+
+
+**Strategic Achievements**
+
+
+- Expanded Corporate Banking capabilities through the recruitment of experienced relationship-focused bankers.
+- Launched a Specialty Deposits team focused on 1031 exchange, escrow, trust, and estate account relationships, expanding the Bank's commercial deposit capabilities and strengthening its presence in key New York markets.
+- Advanced a Company-wide operational excellence initiative focused on process improvement, adoption of automation and artificial intelligence, and enhancements of the client experience.
+- Executed a strategic realignment of the retail banking organization to create a dedicated outside sales team focused on small business relationship development, while retaining a peer-leading level of service throughout the branch network.
+
+
+**Fiscal Year 2026 Highlights**
+
+
+- Net interest margin expanded 30 basis points to 2.18%, extending the momentum of margin improvement for the second consecutive year.
+- Pre-tax, pre-provision earnings per share increased 47.0% to $0.78 per diluted share.
+- Continued the strategic remixing of the loan portfolio by growing commercial and industrial, construction, and home equity loans by 61.4%, 48.1% and 57.4%, respectively, while strategically reducing multifamily mortgage exposure.
+- Improved efficiency ratio by 5.90%, while investing in new products, capabilities, and our people.
+- Tangible book value per share increased $0.30, or 3.1%, to $10.07.
+
+
+**Balance Sheet**
+
+
+- Total assets were $7.68 billion at June 30, 2026, an increase of $74.5 million, or 1.0%, from March 31, 2026 and a decrease of $58.2 million, or 0.8%, from June 30, 2025.
+- Investment securities totaled $1.07 billion at June 30, 2026, a decrease of $22.7 million, or 2.1%, from March 31, 2026 and a decrease of $62.0 million, or 5.5%, from June 30, 2025.
+- Loans receivable totaled $5.88 billion at June 30, 2026, an increase of $96.1 million, or 1.7%, from March 31, 2026 and an increase of $62.4 million, or 1.1%, from June 30, 2025.
+- Deposits were $5.71 billion at June 30, 2026, a decrease of $19.5 million, or 0.3%, from March 31, 2026 and an increase of $34.4 million, or 0.6%, from June 30, 2025. Deposit balances reflected the migration of $170.1 million from consumer interest-bearing products to non-interest bearing products.
+- Borrowings were $1.15 billion at June 30, 2026, an increase of $90.0 million, or 8.5%, from March 31, 2026 and a decrease of $106.5 million, or 8.5%, from June 30, 2025.
+- At June 30, 2026, the Company maintained available secured borrowing capacity with the Federal Home Loan Bank and the Federal Reserve Discount Window of $2.35 billion, representing 30.6% of total assets.
+
+
+**Earnings**
+
+
+**Net Interest Income and Net Interest Margin**
+
+
+- Net interest margin increased by five basis points to 2.26% for the quarter ended June 30, 2026 and by 30 basis points to 2.18% for the year ended June 30, 2026. The quarterly improvement was driven by higher loan yields and balances and a reduction in interest-bearing deposits, partially offset by higher costs on interest-bearing liabilities. The year-over-year improvement reflected higher loan yields and balances and lower costs on interest-bearing liabilities, partially offset by lower yields and balances on investment securities and other interest-earning assets.
+- For the quarter ended June 30, 2026, net interest income increased $1.1 million, or 2.9%, to $40.4 million from $39.2 million for the quarter ended March 31, 2026. Included in net interest income for the quarters ended June 30, 2026 and March 31, 2026, respectively, was purchase accounting accretion of $537,000 and $552,000, and loan prepayment penalty income of $622,000 and $422,000.
+- For the year ended June 30, 2026, net interest income increased $20.3 million, or 15.1%, to $155.3 million from $134.9 million for the year ended June 30, 2025. Included in net interest income for the years ended June 30, 2026 and 2025, respectively, was purchase accounting accretion of $2.2 million and $2.4 million and loan prepayment penalty income of $2.1 million and $783,000.
+
+
+**Non-Interest Income**
+
+
+- For the quarter ended June 30, 2026, non-interest income decreased $781,000, or 12.8%, to $5.3 million from $6.1 million for the quarter ended March 31, 2026, primarily driven by the absence of a non-recurring pre-tax gain of $1.0 million recorded in the prior period. Excluding this non-recurring item, non-interest income increased $218,000, or 4.3%, from $5.1 million, primarily driven by an increase in loan related fees and charges and a higher gain on sale of loans.
+- Fees and service charges increased $144,000 to $1.1 million for the quarter ended June 30, 2026 from $922,000 for the quarter ended March 31, 2026.
+- Gain on sale of loans increased $123,000 to $316,000 for the quarter ended June 30, 2026 from $193,000 for the quarter ended March 31, 2026.
+- For the year ended June 30, 2026, non-interest income increased $3.8 million to $22.8 million from $19.1 million for the year ended June 30, 2025, primarily driven by $1.8 million in non-recurring pre-tax gains on the sale of properties held for sale in the current period, and increases in loan- and branch-related fees and charges.
+
+
+**Non-Interest Expense**
+
+
+- For the quarter ended June 30, 2026, non-interest expense increased $1.6 million, or 4.8%, to $33.9 million from $32.3 million for the quarter ended March 31, 2026. Excluding a non-recurring charge of $745,000 related to severance, non-interest expense increased $806,000, primarily reflecting higher salary and benefit costs, OREO acquisition-related expenses of $262,000, and a provision for unfunded commitments of $264,000, partially offset by a lower net occupancy expense.
+- Salary and benefits expense increased $1.0 million to $20.3 million for the quarter ended June 30, 2026 from $19.3 million for the quarter ended March 31, 2026, primarily due to a non-recurring charge of $745,000 related to severance associated with a strategic realignment of the Company’s retail banking organization.
+- Net occupancy expense of premises decreased $401,000 to $2.9 million for the quarter ended June 30, 2026 from $3.3 million for the quarter ended March 31, 2026, primarily driven by the absence of snow removal expenses recorded in the prior period.
+- Other expense increased $942,000 to $4.4 million for the quarter ended June 30, 2026, from $3.5 million for the quarter ended March 31, 2026, primarily due to a non-recurring OREO acquisition-related expense of $262,000, a reserve on unfunded commitments of $264,000 due to growth in construction loans, compared to an $86,000 reserve reversal in the prior period, and higher professional and other fees. Remaining changes reflected normal operating fluctuations.
+- For the year ended June 30, 2026, non-interest expense increased $8.4 million, or 6.9%, to $129.0 million from $120.6 million for the year ended June 30, 2025, primarily driven by higher salary and benefits expense and other expense. Salary and benefits expense increased due to annual merit increases, higher incentive compensation, and a non-recurring severance charge, while other expense increased primarily as a result of higher professional fees, loan related expenses, and the non-recurring charges discussed above.
+
+
+**Income Taxes**
+
+
+- Income tax expense totaled $3.8 million for the quarter ended June 30, 2026 compared to $2.5 million for the quarter ended March 31, 2026, resulting in an effective tax rate of 34.9% and 19.8%, respectively. Income tax expense increased due to the establishment of a valuation allowance of $1.6 million against a deferred tax asset related to certain legacy stock-based compensation awards.
+- Income tax expense totaled $11.1 million for the year ended June 30, 2026 compared to $4.9 million for the year ended June 30, 2025. The increase in income tax expense was primarily driven by higher pre-tax income in the current year period and the establishment of a valuation allowance of $1.6 million, as discussed above.
+
+
+**Asset Quality**
+
+
+- Non-performing assets increased to $53.4 million, or 0.70% of total assets, at June 30, 2026, from $52.4 million, or 0.69% of total assets, at March 31, 2026, and from $45.6 million, or 0.59% of total assets, at June 30, 2025. Included in non-performing assets at June 30, 2026 were two foreclosed properties with an aggregate carrying value of $5.5 million that were reclassified from non-performing loans to OREO during the quarter.
+- Net charge-offs totaled $49,000, or less than 0.01% of average loans, on an annualized basis, for the quarter ended June 30, 2026, compared to $626,000, or 0.04% of average loans, on an annualized basis, for the quarter ended March 31, 2026. For the year ended June 30, 2026, net charge-offs totaled $2.4 million, or 0.04% of average loans, compared to $1.1 million, or 0.02% of average loans, for the year ended June 30, 2025.
+- For the quarter ended June 30, 2026, the Company recorded a provision for credit losses of $822,000, compared to $391,000 for the quarter ended March 31, 2026. The provision for credit losses for the quarter ended June 30, 2026 was primarily driven by loan growth. For the years ended June 30, 2026 and June 30, 2025, the Company recorded a provision for credit losses of $1.7 million and $2.4 million, respectively.
+- The allowance for credit losses (“ACL”) was $45.5 million, or 0.77% of total loans, at June 30, 2026, an increase of $773,000 from $44.7 million, or 0.77% of total loans, at March 31, 2026. The ACL was $46.2 million, or 0.79% of total loans, at June 30, 2025.
+
+
+**Capital**
+
+
+- For the quarter ended June 30, 2026, book value per share and tangible book value per share increased $0.05, or 0.4%, to $11.84 and $10.07, respectively, compared to the prior period.
+- At June 30, 2026, total stockholders’ equity included after-tax net unrealized losses on securities available for sale of $68.5 million, partially offset by after-tax unrealized gains on derivatives of $4.8 million. After-tax net unrecognized losses on securities held to maturity of $8.4 million were not reflected in total stockholders’ equity.
+- At June 30, 2026, the Company’s tangible equity to tangible assets ratio equaled 8.62% and the regulatory capital ratios of both the Company and the Bank were in excess of the levels required by federal banking regulators to be classified as “well-capitalized” under regulatory guidelines.
+
+
+**Linked-Quarter Comparative Financial Analysis**
+
+
+**Kearny Financial Corp. Consolidated Balance Sheets (Unaudited)**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **March 31,**
+**2026** **Variance**
+**or Change** **Variance**
+**or Change Pct.**
+
+
+**(Unaudited)** **(Unaudited)**
+
+
+**Assets**
+
+
+Cash and cash equivalents $ 114,823 $ 123,836 $ (9,013 ) -7.3 %
+
+
+Securities available for sale 964,369 983,325 (18,956 ) -1.9 %
+
+
+Securities held to maturity 106,814 110,581 (3,767 ) -3.4 %
+
+
+Loans held-for-sale 6,022 12,183 (6,161 ) -50.6 %
+
+
+Loans receivable 5,875,325 5,779,181 96,144 1.7 %
+
+
+Less: allowance for credit losses on loans (45,496 ) (44,723 ) 773 1.7 %
+
+
+Net loans receivable 5,829,829 5,734,458 95,371 1.7 %
+
+
+Premises and equipment 42,359 41,896 463 1.1 %
+
+
+Federal Home Loan Bank stock 59,726 55,737 3,989 7.2 %
+
+
+Accrued interest receivable 27,875 28,304 (429 ) -1.5 %
+
+
+Goodwill 113,525 113,525 — — %
+
+
+Core deposit intangible 968 1,080 (112 ) -10.4 %
+
+
+Bank owned life insurance 314,756 312,050 2,706 0.9 %
+
+
+Deferred income taxes, net 48,699 50,961 (2,262 ) -4.4 %
+
+
+Other real estate owned 5,519 — 5,519 — %
+
+
+Other assets 46,921 39,720 7,201 18.1 %
+
+
+Total assets $ 7,682,205 $ 7,607,656 $ 74,549 1.0 %
+
+
+**Liabilities**
+
+
+Deposits:
+
+
+Non-interest-bearing $ 788,015 $ 631,506 $ 156,509 24.8 %
+
+
+Interest-bearing 4,921,610 5,097,576 (175,966 ) -3.5 %
+
+
+Total deposits 5,709,625 5,729,082 (19,457 ) -0.3 %
+
+
+Borrowings 1,150,000 1,060,000 90,000 8.5 %
+
+
+Advance payments by borrowers for taxes 18,562 19,317 (755 ) -3.9 %
+
+
+Other liabilities 37,348 36,225 1,123 3.1 %
+
+
+Total liabilities 6,915,535 6,844,624 70,911 1.0 %
+
+
+**Stockholders' Equity**
+
+
+Common stock 648 648 — — %
+
+
+Paid-in capital 495,953 495,442 511 0.1 %
+
+
+Retained earnings 350,046 349,881 165 0.0 %
+
+
+Unearned ESOP shares (17,025 ) (17,511 ) 486 2.8 %
+
+
+Accumulated other comprehensive loss (62,952 ) (65,428 ) 2,476 3.8 %
+
+
+Total stockholders' equity 766,670 763,032 3,638 0.5 %
+
+
+Total liabilities and stockholders' equity $ 7,682,205 $ 7,607,656 $ 74,549 1.0 %
+
+
+**Consolidated capital ratios**
+
+
+Equity to assets 9.98 % 10.03 % -0.05 %
+
+
+Tangible equity to tangible assets(1) 8.62 % 8.65 % -0.03 %
+
+
+**Share data**
+
+
+Outstanding shares 64,738 64,739 (1 ) 0.0 %
+
+
+Book value per share $ 11.84 $ 11.79 $ 0.05 0.4 %
+
+
+Tangible book value per share(2) $ 10.07 $ 10.02 $ 0.05 0.5 %
+
+
+_________________________
+
+
+(1) Tangible equity equals total stockholders' equity reduced by goodwill and core deposit intangible assets. Tangible assets equals total assets reduced by goodwill and core deposit intangible assets.
+
+
+(2) Tangible book value equals total stockholders' equity reduced by goodwill and core deposit intangible assets.
+
+
+**Kearny Financial Corp. Consolidated Statements of Income (Unaudited)**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data)
+**Three Months Ended** **Variance**
+**or Change**
+**Variance**
+**or Change Pct.**
+
+
+**June 30,**
+**2026** **March 31,**
+**2026**
+
+
+**Interest income**
+
+
+Loans $ 69,376 $ 66,310 $ 3,066 4.6 %
+
+
+Taxable investment securities 11,328 11,425 (97 ) -0.8 %
+
+
+Tax-exempt investment securities 29 34 (5 ) -14.7 %
+
+
+Other interest-earning assets 1,251 1,400 (149 ) -10.6 %
+
+
+Total interest income 81,984 79,169 2,815 3.6 %
+
+
+**Interest expense**
+
+
+Deposits 30,537 31,045 (508 ) -1.6 %
+
+
+Borrowings 11,073 8,888 2,185 24.6 %
+
+
+Total interest expense 41,610 39,933 1,677 4.2 %
+
+
+**Net interest income** 40,374 39,236 1,138 2.9 %
+
+
+Provision for credit losses 822 391 431 110.2 %
+
+
+**Net interest income after provision for credit losses** 39,552 38,845 707 1.8 %
+
+
+**Non-interest income**
+
+
+Fees and service charges 1,066 922 144 15.6 %
+
+
+Gain on sale of loans 316 193 123 63.7 %
+
+
+Income from bank owned life insurance 2,706 2,646 60 2.3 %
+
+
+Electronic banking fees and charges 460 389 71 18.3 %
+
+
+Other income 765 1,944 (1,179 ) -60.6 %
+
+
+Total non-interest income 5,313 6,094 (781 ) -12.8 %
+
+
+**Non-interest expense**
+
+
+Salaries and employee benefits 20,313 19,316 997 5.2 %
+
+
+Net occupancy expense of premises 2,862 3,263 (401 ) -12.3 %
+
+
+Equipment and systems 3,851 3,975 (124 ) -3.1 %
+
+
+Advertising and marketing 746 665 81 12.2 %
+
+
+Federal deposit insurance premium 1,360 1,302 58 4.5 %
+
+
+Directors' compensation 307 307 — — %
+
+
+Other expense 4,413 3,471 942 27.1 %
+
+
+Total non-interest expense 33,852 32,299 1,553 4.8 %
+
+
+**Income before income taxes** 11,013 12,640 (1,627 ) -12.9 %
+
+
+Income taxes 3,841 2,503 1,338 53.5 %
+
+
+**Net income** $ 7,172 $ 10,137 $ (2,965 ) -29.2 %
+
+
+**Net income per common share (EPS)**
+
+
+Basic $ 0.11 $ 0.16 $ (0.05 )
+
+
+Diluted $ 0.11 $ 0.16 $ (0.05 )
+
+
+**Dividends declared**
+
+
+Cash dividends declared per common share $ 0.11 $ 0.11 $ —
+
+
+Cash dividends declared $ 7,008 $ 7,005 $ 3
+
+
+Dividend payout ratio 97.7 % 69.1 % 28.6 %
+
+
+**Weighted average number of common shares outstanding**
+
+
+Basic 62,958 62,908 50
+
+
+Diluted 63,403 63,251 152
+
+
+**Kearny Financial Corp. Average Balance Sheet Data (Unaudited)**
+
+
+(Dollars in Thousands)
+**Three Months Ended** **Variance**
+**or Change**
+**Variance**
+**or Change Pct.**
+
+
+**June 30,**
+**2026** **March 31,**
+**2026**
+
+
+**Assets**
+
+
+Interest-earning assets:
+
+
+Loans receivable, including loans held for sale $ 5,854,248 $ 5,785,095 $ 69,153 1.2 %
+
+
+Taxable investment securities 1,185,569 1,194,487 (8,918 ) -0.7 %
+
+
+Tax-exempt investment securities 4,759 5,669 (910 ) -16.1 %
+
+
+Other interest-earning assets 109,098 106,967 2,131 2.0 %
+
+
+Total interest-earning assets 7,153,674 7,092,218 61,456 0.9 %
+
+
+Non-interest-earning assets 456,877 455,725 1,152 0.3 %
+
+
+Total assets $ 7,610,551 $ 7,547,943 $ 62,608 0.8 %
+
+
+**Liabilities and Stockholders' Equity**
+
+
+Interest-bearing liabilities:
+
+
+Deposits:
+
+
+Interest-bearing demand $ 2,207,264 $ 2,402,177 $ (194,913 ) -8.1 %
+
+
+Savings 760,770 761,090 (320 ) 0.0 %
+
+
+Certificates of deposit (retail) 1,190,922 1,181,526 9,396 0.8 %
+
+
+Certificates of deposit (brokered) 673,031 755,461 (82,430 ) -10.9 %
+
+
+Total interest-bearing deposits 4,831,987 5,100,254 (268,267 ) -5.3 %
+
+
+Borrowings:
+
+
+Federal Home Loan Bank advances 1,022,637 861,445 161,192 18.7 %
+
+
+Other borrowings 150,275 133,833 16,442 12.3 %
+
+
+Total borrowings 1,172,912 995,278 177,634 17.8 %
+
+
+Total interest-bearing liabilities 6,004,899 6,095,532 (90,633 ) -1.5 %
+
+
+Non-interest-bearing liabilities:
+
+
+Non-interest-bearing deposits 788,059 633,494 154,565 24.4 %
+
+
+Other non-interest-bearing liabilities 54,614 59,644 (5,030 ) -8.4 %
+
+
+Total non-interest-bearing liabilities 842,673 693,138 149,535 21.6 %
+
+
+Total liabilities 6,847,572 6,788,670 58,902 0.9 %
+
+
+Stockholders' equity 762,979 759,273 3,706 0.5 %
+
+
+Total liabilities and stockholders' equity $ 7,610,551 $ 7,547,943 $ 62,608 0.8 %
+
+
+Average interest-earning assets to average interest-bearing liabilities 119.13 % 116.35 % 2.78 % 2.4 %
+
+
+**Kearny Financial Corp. Performance Ratio Highlights (Unaudited)**
+
+
+**Three Months Ended** **Variance**
+**or Change**
+
+
+**June 30,**
+**2026** **March 31,**
+**2026**
+
+
+**Average yield on interest-earning assets:**
+
+
+Loans receivable, including loans held for sale 4.74 % 4.58 % 0.16 %
+
+
+Taxable investment securities 3.82 % 3.83 % -0.01 %
+
+
+Tax-exempt investment securities(1) 2.40 % 2.37 % 0.03 %
+
+
+Other interest-earning assets 4.59 % 5.24 % -0.65 %
+
+
+Total interest-earning assets 4.58 % 4.47 % 0.11 %
+
+
+**Average cost of interest-bearing liabilities:**
+
+
+Deposits:
+
+
+Interest-bearing demand 2.49 % 2.34 % 0.15 %
+
+
+Savings 1.34 % 1.26 % 0.08 %
+
+
+Certificates of deposit (retail) 3.17 % 3.20 % -0.03 %
+
+
+Certificates of deposit (brokered) 2.87 % 2.71 % 0.16 %
+
+
+Total interest-bearing deposits 2.53 % 2.43 % 0.10 %
+
+
+Borrowings:
+
+
+Federal Home Loan Bank advances 3.79 % 3.56 % 0.23 %
+
+
+Other borrowings 3.71 % 3.66 % 0.05 %
+
+
+Total borrowings 3.78 % 3.57 % 0.21 %
+
+
+Total interest-bearing liabilities 2.77 % 2.62 % 0.15 %
+
+
+Interest rate spread(2) 1.81 % 1.85 % -0.04 %
+
+
+Net interest margin(3) 2.26 % 2.21 % 0.05 %
+
+
+Non-interest income to average assets (annualized) 0.28 % 0.32 % -0.04 %
+
+
+Non-interest expense to average assets (annualized) 1.78 % 1.71 % 0.07 %
+
+
+Efficiency ratio(4) 74.09 % 71.25 % 2.84 %
+
+
+Return on average assets (annualized) 0.38 % 0.54 % -0.16 %
+
+
+Return on average equity (annualized) 3.76 % 5.34 % -1.58 %
+
+
+Return on average tangible equity (annualized)(5) 4.48 % 6.34 % -1.86 %
+
+
+_________________________
+
+
+(1) The yield on tax-exempt investment securities has not been adjusted to reflect their tax-effective yield.
+
+
+(2) Interest income divided by average interest-earning assets less interest expense divided by average interest-bearing liabilities.
+
+
+(3) Net interest income divided by average interest-earning assets.
+
+
+(4) Non-interest expense divided by the sum of net interest income and non-interest income.
+
+
+(5) Average tangible equity equals total average stockholders’ equity reduced by average goodwill and average core deposit intangible assets.
+
+
+**Year-to-Year Comparative Financial Analysis**
+
+
+**Kearny Financial Corp. Consolidated Balance Sheets**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **June 30,**
+**2025** **Variance**
+**or Change** **Variance**
+**or Change Pct.**
+
+
+**(Unaudited)** **(Audited)**
+
+
+**Assets**
+
+
+Cash and cash equivalents $ 114,823 $ 167,269 $ (52,446 ) -31.4 %
+
+
+Securities available for sale 964,369 1,012,969 (48,600 ) -4.8 %
+
+
+Securities held to maturity 106,814 120,217 (13,403 ) -11.1 %
+
+
+Loans held-for-sale 6,022 5,931 91 1.5 %
+
+
+Loans receivable 5,875,325 5,812,937 62,388 1.1 %
+
+
+Less: allowance for credit losses on loans (45,496 ) (46,191 ) (695 ) -1.5 %
+
+
+Net loans receivable 5,829,829 5,766,746 63,083 1.1 %
+
+
+Premises and equipment 42,359 43,897 (1,538 ) -3.5 %
+
+
+Federal Home Loan Bank of New York stock 59,726 64,261 (4,535 ) -7.1 %
+
+
+Accrued interest receivable 27,875 28,098 (223 ) -0.8 %
+
+
+Goodwill 113,525 113,525 — — %
+
+
+Core deposit intangible 968 1,436 (468 ) -32.6 %
+
+
+Bank owned life insurance 314,756 304,717 10,039 3.3 %
+
+
+Deferred income tax assets, net 48,699 55,203 (6,504 ) -11.8 %
+
+
+Other real estate owned 5,519 — 5,519 — %
+
+
+Other assets 46,921 56,181 (9,260 ) -16.5 %
+
+
+Total assets $ 7,682,205 $ 7,740,450 $ (58,245 ) -0.8 %
+
+
+**Liabilities**
+
+
+Deposits:
+
+
+Non-interest-bearing $ 788,015 $ 582,045 $ 205,970 35.4 %
+
+
+Interest-bearing 4,921,610 5,093,172 (171,562 ) -3.4 %
+
+
+Total deposits 5,709,625 5,675,217 34,408 0.6 %
+
+
+Borrowings 1,150,000 1,256,491 (106,491 ) -8.5 %
+
+
+Advance payments by borrowers for taxes 18,562 19,317 (755 ) -3.9 %
+
+
+Other liabilities 37,348 43,463 (6,115 ) -14.1 %
+
+
+Total liabilities 6,915,535 6,994,488 (78,953 ) -1.1 %
+
+
+**Stockholders' Equity**
+
+
+Common stock $ 648 $ 646 $ 2 0.3 %
+
+
+Paid-in capital 495,953 494,546 1,407 0.3 %
+
+
+Retained earnings 350,046 341,744 8,302 2.4 %
+
+
+Unearned ESOP shares (17,025 ) (18,970 ) 1,945 10.3 %
+
+
+Accumulated other comprehensive loss (62,952 ) (72,004 ) 9,052 12.6 %
+
+
+Total stockholders' equity 766,670 745,962 20,708 2.8 %
+
+
+Total liabilities and stockholders' equity $ 7,682,205 $ 7,740,450 $ (58,245 ) -0.8 %
+
+
+**Consolidated capital ratios**
+
+
+Equity to assets 9.98 % 9.64 % 0.34 %
+
+
+Tangible equity to tangible assets(1) 8.62 % 8.27 % 0.35 %
+
+
+**Share data**
+
+
+Outstanding shares 64,738 64,577 161 0.2 %
+
+
+Book value per share $ 11.84 $ 11.55 $ 0.29 2.5 %
+
+
+Tangible book value per share(2) $ 10.07 $ 9.77 $ 0.30 3.1 %
+
+
+_________________________
+
+
+**Kearny Financial Corp. Consolidated Statements of Income**
+
+
+**Year Ended**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **June 30,**
+**2025** **Variance**
+**or Change** **Variance**
+**or Change Pct.**
+
+
+**(Unaudited)** **(Audited)**
+
+
+**Interest income**
+
+
+Loans $ 271,445 $ 262,992 $ 8,453 3.2 %
+
+
+Taxable investment securities 46,976 53,247 (6,271 ) -11.8 %
+
+
+Tax-exempt investment securities 139 234 (95 ) -40.6 %
+
+
+Other interest-earning assets 5,753 8,003 (2,250 ) -28.1 %
+
+
+Total Interest Income 324,313 324,476 (163 ) -0.1 %
+
+
+**Interest expense**
+
+
+Deposits 128,661 140,258 (11,597 ) -8.3 %
+
+
+Borrowings 40,369 49,275 (8,906 ) -18.1 %
+
+
+Total interest expense 169,030 189,533 (20,503 ) -10.8 %
+
+
+**Net interest income** 155,283 134,943 20,340 15.1 %
+
+
+Provision for credit losses 1,698 2,366 (668 ) -28.2 %
+
+
+**Net interest income after provision for credit losses** 153,585 132,577 21,008 15.8 %
+
+
+**Non-interest income**
+
+
+Fees and service charges 4,175 2,490 1,685 67.7 %
+
+
+Gain on sale of loans 932 806 126 15.6 %
+
+
+Income from bank owned life insurance 10,751 10,672 79 0.7 %
+
+
+Electronic banking fees and charges 1,738 1,717 21 1.2 %
+
+
+Other income 5,229 3,367 1,862 55.3 %
+
+
+Total non-interest income 22,825 19,052 3,773 19.8 %
+
+
+**Non-interest expense**
+
+
+Salaries and employee benefits 76,747 70,870 5,877 8.3 %
+
+
+Net occupancy expense of premises 12,320 11,524 796 6.9 %
+
+
+Equipment and systems 15,807 15,703 104 0.7 %
+
+
+Advertising and marketing 2,385 1,877 508 27.1 %
+
+
+Federal deposit insurance premium 5,320 5,911 (591 ) -10.0 %
+
+
+Directors' compensation 1,227 1,355 (128 ) -9.4 %
+
+
+Other expense 15,202 13,390 1,812 13.5 %
+
+
+Total non-interest expense 129,008 120,630 8,378 6.9 %
+
+
+**Income before income taxes** 47,402 30,999 16,403 52.9 %
+
+
+Income taxes 11,138 4,924 6,214 126.2 %
+
+
+**Net income** $ 36,264 $ 26,075 $ 10,189 39.1 %
+
+
+**Net income per common share (EPS)**
+
+
+Basic $ 0.58 $ 0.42 $ 0.16
+
+
+Diluted $ 0.57 $ 0.42 $ 0.15
+
+
+**Dividends declared**
+
+
+Cash dividends declared per common share $ 0.44 $ 0.44 $ —
+
+
+Cash dividends declared $ 27,963 $ 27,657 $ 306
+
+
+Dividend payout ratio 77.1 % 106.1 % -29 %
+
+
+**Weighted average number of common shares outstanding**
+
+
+Basic 62,866 62,508 358
+
+
+Diluted 63,220 62,716 504
+
+
+**Kearny Financial Corp. Average Balance Sheet Data (Unaudited)**
+
+
+**Year Ended**
+
+
+(Dollars in Thousands) **June 30,**
+**2026** **June 30,**
+**2025** **Variance**
+**or Change** **Variance**
+**or Change Pct.**
+
+
+**Assets**
+
+
+Interest-earning assets:
+
+
+Loans receivable, including loans held for sale $ 5,806,182 $ 5,789,583 $ 16,599 0.3 %
+
+
+Taxable investment securities 1,200,665 1,270,262 (69,597 ) -5.5 %
+
+
+Tax-exempt investment securities 5,800 9,791 (3,991 ) -40.8 %
+
+
+Other interest-earning assets 113,880 119,224 (5,344 ) -4.5 %
+
+
+Total interest-earning assets 7,126,527 7,188,860 (62,333 ) -0.9 %
+
+
+Non-interest-earning assets 455,386 459,986 (4,600 ) -1.0 %
+
+
+Total assets $ 7,581,913 $ 7,648,846 $ (66,933 ) -0.9 %
+
+
+**Liabilities and Stockholders' Equity**
+
+
+Interest-bearing liabilities:
+
+
+Deposits:
+
+
+Interest-bearing demand $ 2,334,641 $ 2,335,972 $ (1,331 ) -0.1 %
+
+
+Savings 758,820 721,115 37,705 5.2 %
+
+
+Certificates of deposit (retail) 1,196,452 1,213,015 (16,563 ) -1.4 %
+
+
+Certificates of deposit (brokered) 735,180 689,011 46,169 6.7 %
+
+
+Total interest-bearing deposits 5,025,093 4,959,113 65,980 1.3 %
+
+
+Borrowings:
+
+
+Federal Home Loan Bank Advances 990,612 1,131,662 (141,050 ) -12.5 %
+
+
+Other borrowings 101,712 149,041 (47,329 ) -31.8 %
+
+
+Total borrowings 1,092,324 1,280,703 (188,379 ) -14.7 %
+
+
+Total interest-bearing liabilities 6,117,417 6,239,816 (122,399 ) -2.0 %
+
+
+Non-interest-bearing liabilities:
+
+
+Non-interest-bearing deposits 649,262 597,197 52,065 8.7 %
+
+
+Other non-interest-bearing liabilities 59,696 64,831 (5,135 ) -7.9 %
+
+
+Total non-interest-bearing liabilities 708,958 662,028 46,930 7.1 %
+
+
+Total liabilities 6,826,375 6,901,844 (75,469 ) -1.1 %
+
+
+Stockholders' equity 755,538 747,002 8,536 1.1 %
+
+
+Total liabilities and stockholders' equity $ 7,581,913 $ 7,648,846 $ (66,933 ) -0.9 %
+
+
+Average interest-earning assets to average interest-bearing liabilities 116.50 % 115.21 % 1.29 % 1.1 %
+
+
+**Kearny Financial Corp. Performance Ratio Highlights (Unaudited)**
+
+
+**Year Ended**
+
+
+**June 30,**
+**2026** **June 30,**
+**2025** **Variance**
+**or Change**
+
+
+**Average yield on interest-earning assets:**
+
+
+Loans receivable, including loans held for sale 4.68 % 4.54 % 0.14 %
+
+
+Taxable investment securities 3.91 % 4.19 % -0.28 %
+
+
+Tax-exempt investment securities(1) 2.39 % 2.39 % — %
+
+
+Other interest-earning assets 5.05 % 6.71 % -1.66 %
+
+
+Total interest-earning assets 4.55 % 4.51 % 0.04 %
+
+
+**Average cost of interest-bearing liabilities:**
+
+
+Deposits:
+
+
+Interest-bearing demand 2.49 % 2.86 % -0.37 %
+
+
+Savings 1.35 % 1.25 % 0.10 %
+
+
+Certificates of deposit (retail) 3.35 % 3.87 % -0.52 %
+
+
+Certificates of deposit (brokered) 2.74 % 2.54 % 0.20 %
+
+
+Total interest-bearing deposits 2.56 % 2.83 % -0.27 %
+
+
+Borrowings:
+
+
+Federal Home Loan Bank Advances 3.67 % 3.71 % -0.04 %
+
+
+Other borrowings 3.90 % 4.87 % -0.97 %
+
+
+Total borrowings 3.70 % 3.85 % -0.15 %
+
+
+Total interest-bearing liabilities 2.76 % 3.04 % -0.28 %
+
+
+Interest rate spread(2) 1.79 % 1.47 % 0.32 %
+
+
+Net interest margin(3) 2.18 % 1.88 % 0.30 %
+
+
+Non-interest income to average assets 0.30 % 0.25 % 0.05 %
+
+
+Non-interest expense to average assets 1.70 % 1.58 % 0.12 %
+
+
+Efficiency ratio(4) 72.43 % 78.33 % -5.90 %
+
+
+Return on average assets 0.48 % 0.34 % 0.14 %
+
+
+Return on average equity 4.80 % 3.49 % 1.31 %
+
+
+Return on average tangible equity(5) 5.71 % 4.18 % 1.53 %
+
+
+_________________________
+
+
+(3) Net interest income divided by average interest-earning assets.
+
+
+**Five-Quarter Financial Trend Analysis**
+
+
+**Kearny Financial Corp. Consolidated Balance Sheets**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**(Unaudited)** **(Unaudited)** **(Unaudited)** **(Unaudited)** **(Audited)**
+
+
+**Assets**
+
+
+Cash and cash equivalents $ 114,823 $ 123,836 $ 147,340 $ 130,139 $ 167,269
+
+
+Securities available for sale 964,369 983,325 1,000,397 1,016,182 1,012,969
+
+
+Securities held to maturity 106,814 110,581 112,800 116,681 120,217
+
+
+Loans held-for-sale 6,022 12,183 8,786 6,650 5,931
+
+
+Loans receivable 5,875,325 5,779,181 5,753,393 5,767,419 5,812,937
+
+
+Less: allowance for credit losses on loans (45,496 ) (44,723 ) (44,958 ) (45,060 ) (46,191 )
+
+
+Net loans receivable 5,829,829 5,734,458 5,708,435 5,722,359 5,766,746
+
+
+Premises and equipment 42,359 41,896 42,559 43,222 43,897
+
+
+Federal Home Loan Bank stock 59,726 55,737 57,212 62,011 64,261
+
+
+Accrued interest receivable 27,875 28,304 27,420 29,460 28,098
+
+
+Goodwill 113,525 113,525 113,525 113,525 113,525
+
+
+Core deposit intangible 968 1,080 1,198 1,317 1,436
+
+
+Bank owned life insurance 314,756 312,050 309,404 307,248 304,717
+
+
+Deferred income taxes, net 48,699 50,961 51,617 51,587 55,203
+
+
+Other real estate owned 5,519 — — — —
+
+
+Other assets 46,921 39,720 40,185 47,629 56,181
+
+
+Total assets $ 7,682,205 $ 7,607,656 $ 7,620,878 $ 7,648,010 $ 7,740,450
+
+
+**Liabilities**
+
+
+Deposits:
+
+
+Non-interest-bearing $ 788,015 $ 631,506 $ 627,180 $ 578,481 $ 582,045
+
+
+Interest-bearing 4,921,610 5,097,576 5,084,370 5,053,401 5,093,172
+
+
+Total deposits 5,709,625 5,729,082 5,711,550 5,631,882 5,675,217
+
+
+Borrowings 1,150,000 1,060,000 1,095,000 1,206,497 1,256,491
+
+
+Advance payments by borrowers for taxes 18,562 19,317 18,474 19,261 19,317
+
+
+Other liabilities 37,348 36,225 38,458 37,166 43,463
+
+
+Total liabilities 6,915,535 6,844,624 6,863,482 6,894,806 6,994,488
+
+
+**Stockholders' Equity**
+
+
+Common stock 648 648 648 648 646
+
+
+Paid-in capital 495,953 495,442 494,959 494,490 494,546
+
+
+Retained earnings 350,046 349,881 346,749 344,287 341,744
+
+
+Unearned ESOP shares (17,025 ) (17,511 ) (17,997 ) (18,484 ) (18,970 )
+
+
+Accumulated other comprehensive loss (62,952 ) (65,428 ) (66,963 ) (67,737 ) (72,004 )
+
+
+Total stockholders' equity 766,670 763,032 757,396 753,204 745,962
+
+
+Total liabilities and stockholders' equity $ 7,682,205 $ 7,607,656 $ 7,620,878 $ 7,648,010 $ 7,740,450
+
+
+**Consolidated capital ratios**
+
+
+Equity to assets 9.98 % 10.03 % 9.94 % 9.85 % 9.64 %
+
+
+Tangible equity to tangible assets(1) 8.62 % 8.65 % 8.56 % 8.47 % 8.27 %
+
+
+**Share data**
+
+
+Outstanding shares 64,738 64,739 64,739 64,739 64,577
+
+
+Book value per share $ 11.84 $ 11.79 $ 11.70 $ 11.63 $ 11.55
+
+
+Tangible book value per share(2) $ 10.07 $ 10.02 $ 9.93 $ 9.86 $ 9.77
+
+
+_________________________
+
+
+**Kearny Financial Corp. Supplemental Balance Sheet Highlights (Unaudited)**
+
+
+(Dollars in Thousands) **June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**Loan portfolio composition:**
+
+
+Commercial loans:
+
+
+Multi-family mortgage $ 2,499,894 $ 2,555,001 $ 2,619,124 $ 2,640,737 $ 2,709,654
+
+
+Nonresidential mortgage 1,019,445 1,012,422 990,178 988,969 986,556
+
+
+Commercial and industrial 223,927 201,277 169,884 142,304 138,755
+
+
+Construction 263,200 207,765 181,766 189,626 177,713
+
+
+Total commercial loans 4,006,466 3,976,465 3,960,952 3,961,636 4,012,678
+
+
+One- to four-family residential mortgage 1,789,865 1,741,023 1,730,543 1,749,362 1,748,591
+
+
+Consumer loans:
+
+
+Home equity loans 79,844 61,379 59,046 54,116 50,737
+
+
+Other consumer 2,387 2,377 2,523 2,487 2,533
+
+
+Total consumer loans 82,231 63,756 61,569 56,603 53,270
+
+
+Total loans, excluding yield adjustments 5,878,562 5,781,244 5,753,064 5,767,601 5,814,539
+
+
+Unaccreted yield adjustments (3,237 ) (2,063 ) 329 (182 ) (1,602 )
+
+
+Loans receivable, net of yield adjustments 5,875,325 5,779,181 5,753,393 5,767,419 5,812,937
+
+
+Net loans receivable $ 5,829,829 $ 5,734,458 $ 5,708,435 $ 5,722,359 $ 5,766,746
+
+
+**Asset quality:**
+
+
+Nonperforming assets:
+
+
+Accruing loans - 90 days and over past due $ — $ — $ — $ 20,494 $ —
+
+
+Nonaccrual loans 47,896 52,379 51,306 44,085 45,597
+
+
+Total nonperforming loans 47,896 52,379 51,306 64,579 45,597
+
+
+Other real estate owned 5,519 — — — —
+
+
+Total nonperforming assets $ 53,415 $ 52,379 $ 51,306 $ 64,579 $ 45,597
+
+
+Nonperforming loans (% total loans) 0.82 % 0.91 % 0.89 % 1.12 % 0.78 %
+
+
+Nonperforming assets (% total assets) 0.70 % 0.69 % 0.67 % 0.84 % 0.59 %
+
+
+Classified loans $ 88,202 $ 97,384 $ 97,542 $ 117,780 $ 118,418
+
+
+Allowance for credit losses on loans (ACL):
+
+
+ACL to total loans 0.77 % 0.77 % 0.78 % 0.78 % 0.79 %
+
+
+ACL to nonperforming loans 94.99 % 85.38 % 87.63 % 69.78 % 101.30 %
+
+
+Net charge-offs $ 49 $ 626 $ 669 $ 1,049 $ 49
+
+
+Average net charge-off rate (annualized) 0.00 % 0.04 % 0.05 % 0.07 % 0.00 %
+
+
+**Kearny Financial Corp.**
+**Supplemental Balance Sheet Highlights**
+**(Unaudited)**
+
+
+(Dollars in Thousands) **June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**Funding composition:**
+
+
+Deposits:
+
+
+Non-interest-bearing deposits $ 788,015 $ 631,506 $ 627,180 $ 578,481 $ 582,045
+
+
+Interest-bearing demand 2,214,432 2,375,565 2,376,825 2,334,560 2,362,222
+
+
+Savings 766,502 763,016 769,742 751,253 754,376
+
+
+Certificates of deposit (retail) 1,183,427 1,201,752 1,180,370 1,208,408 1,218,920
+
+
+Certificates of deposit (brokered) 757,249 757,243 757,433 759,180 757,654
+
+
+Interest-bearing deposits 4,921,610 5,097,576 5,084,370 5,053,401 5,093,172
+
+
+Total deposits 5,709,625 5,729,082 5,711,550 5,631,882 5,675,217
+
+
+Borrowings:
+
+
+Federal Home Loan Bank advances 950,000 900,000 800,000 1,006,497 1,106,491
+
+
+Overnight borrowings 200,000 160,000 295,000 200,000 150,000
+
+
+Total borrowings 1,150,000 1,060,000 1,095,000 1,206,497 1,256,491
+
+
+Total funding $ 6,859,625 $ 6,789,082 $ 6,806,550 $ 6,838,379 $ 6,931,708
+
+
+Loans as a % of deposits 102.2 % 100.3 % 100.1 % 101.7 % 101.7 %
+
+
+Deposits as a % of total funding 83.2 % 84.4 % 83.9 % 82.4 % 81.9 %
+
+
+Borrowings as a % of total funding 16.8 % 15.6 % 16.1 % 17.6 % 18.1 %
+
+
+**Uninsured deposits:**
+
+
+Uninsured deposits (reported)(1) $ 2,245,646 $ 2,199,708 $ 2,158,440 $ 2,040,021 $ 1,989,095
+
+
+Uninsured deposits (adjusted)(2) $ 850,952 $ 839,094 $ 800,998 $ 804,209 $ 813,780
+
+
+_________________________
+
+
+(1) Uninsured deposits of Kearny Bank.
+
+
+(2) Uninsured deposits of Kearny Bank adjusted to exclude deposits of its wholly-owned subsidiary and its holding company and collateralized deposits of state and local governments.
+
+
+**Kearny Financial Corp. Consolidated Statements of Income (Loss) (Unaudited)**
+
+
+**Three Months Ended**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**Interest income**
+
+
+Loans $ 69,376 $ 66,310 $ 67,410 $ 68,349 $ 66,485
+
+
+Taxable investment securities 11,328 11,425 11,623 12,600 12,322
+
+
+Tax-exempt investment securities 29 34 35 41 49
+
+
+Other interest-earning assets 1,251 1,400 1,584 1,518 1,549
+
+
+Total interest income 81,984 79,169 80,652 82,508 80,405
+
+
+**Interest expense**
+
+
+Deposits 30,537 31,045 33,148 33,931 33,607
+
+
+Borrowings 11,073 8,888 9,535 10,873 10,955
+
+
+Total interest expense 41,610 39,933 42,683 44,804 44,562
+
+
+**Net interest income** 40,374 39,236 37,969 37,704 35,843
+
+
+Provision for (reversal of) credit losses 822 391 567 (82 ) 1,785
+
+
+**Net interest income after provision for (reversal of) credit losses** 39,552 38,845 37,402 37,786 34,058
+
+
+**Non-interest income**
+
+
+Fees and service charges 1,066 922 1,295 892 655
+
+
+Gain on sale of loans 316 193 224 199 190
+
+
+Income from bank owned life insurance 2,706 2,646 2,710 2,689 2,869
+
+
+Electronic banking fees and charges 460 389 473 416 442
+
+
+Other income 765 1,944 869 1,651 835
+
+
+Total non-interest income 5,313 6,094 5,571 5,847 4,991
+
+
+**Non-interest expense**
+
+
+Salaries and employee benefits 20,313 19,316 18,373 18,745 18,093
+
+
+Net occupancy expense of premises 2,862 3,263 2,888 3,307 2,820
+
+
+Equipment and systems 3,851 3,975 4,007 3,974 4,030
+
+
+Advertising and marketing 746 665 412 562 615
+
+
+Federal deposit insurance premium 1,360 1,302 1,357 1,301 1,395
+
+
+Directors' compensation 307 307 306 307 307
+
+
+Other expense 4,413 3,471 3,848 3,470 3,633
+
+
+Total non-interest expense 33,852 32,299 31,191 31,666 30,893
+
+
+**Income before income taxes** 11,013 12,640 11,782 11,967 8,156
+
+
+Income taxes 3,841 2,503 2,333 2,461 1,387
+
+
+**Net income** $ 7,172 $ 10,137 $ 9,449 $ 9,506 $ 6,769
+
+
+**Net income per common share (EPS)**
+
+
+Basic $ 0.11 $ 0.16 $ 0.15 $ 0.15 $ 0.11
+
+
+Diluted $ 0.11 $ 0.16 $ 0.15 $ 0.15 $ 0.11
+
+
+**Dividends declared**
+
+
+Cash dividends declared per common share $ 0.11 $ 0.11 $ 0.11 $ 0.11 $ 0.11
+
+
+Cash dividends declared $ 7,008 $ 7,005 $ 6,987 $ 6,963 $ 6,946
+
+
+Dividend payout ratio 97.7 % 69.1 % 73.9 % 73.2 % 102.6 %
+
+
+**Weighted average number of common shares outstanding**
+
+
+Basic 62,958 62,908 62,858 62,741 62,597
+
+
+Diluted 63,403 63,251 63,061 62,951 62,755
+
+
+**Kearny Financial Corp. Average Balance Sheet Data (Unaudited)**
+
+
+**Three Months Ended**
+
+
+(Dollars in Thousands) **June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**Assets**
+
+
+Interest-earning assets:
+
+
+Loans receivable, including loans held-for-sale $ 5,854,248 $ 5,785,095 $ 5,778,680 $ 5,806,767 $ 5,830,421
+
+
+Taxable investment securities 1,185,569 1,194,487 1,185,602 1,236,705 1,227,825
+
+
+Tax-exempt investment securities 4,759 5,669 5,902 6,856 8,039
+
+
+Other interest-earning assets 109,098 106,967 123,475 115,776 117,622
+
+
+Total interest-earning assets 7,153,674 7,092,218 7,093,659 7,166,104 7,183,907
+
+
+Non-interest-earning assets 456,877 455,725 455,752 453,215 454,975
+
+
+Total assets $ 7,610,551 $ 7,547,943 $ 7,549,411 $ 7,619,319 $ 7,638,882
+
+
+**Liabilities and Stockholders' Equity**
+
+
+Interest-bearing liabilities:
+
+
+Deposits:
+
+
+Interest-bearing demand $ 2,207,264 $ 2,402,177 $ 2,385,397 $ 2,343,809 $ 2,342,523
+
+
+Savings 760,770 761,090 759,247 754,244 754,192
+
+
+Certificates of deposit (retail) 1,190,922 1,181,526 1,201,950 1,211,026 1,215,661
+
+
+Certificates of deposit (brokered) 673,031 755,461 756,179 755,813 744,345
+
+
+Total interest-bearing deposits 4,831,987 5,100,254 5,102,773 5,064,892 5,056,721
+
+
+Borrowings:
+
+
+Federal Home Loan Bank advances 1,022,637 861,445 998,760 1,077,146 1,083,902
+
+
+Other borrowings 150,275 133,833 38,478 85,489 107,582
+
+
+Total borrowings 1,172,912 995,278 1,037,238 1,162,635 1,191,484
+
+
+Total interest-bearing liabilities 6,004,899 6,095,532 6,140,011 6,227,527 6,248,205
+
+
+Non-interest-bearing liabilities:
+
+
+Non-interest-bearing deposits 788,059 633,494 595,035 581,625 582,085
+
+
+Other non-interest-bearing liabilities 54,614 59,644 59,447 65,024 64,405
+
+
+Total non-interest-bearing liabilities 842,673 693,138 654,482 646,649 646,490
+
+
+Total liabilities 6,847,572 6,788,670 6,794,493 6,874,176 6,894,695
+
+
+Stockholders' equity 762,979 759,273 754,918 745,143 744,187
+
+
+Total liabilities and stockholders' equity $ 7,610,551 $ 7,547,943 $ 7,549,411 $ 7,619,319 $ 7,638,882
+
+
+Average interest-earning assets to average interest-bearing liabilities 119.13 % 116.35 % 115.53 % 115.07 % 114.98 %
+
+
+**Kearny Financial Corp. Performance Ratio Highlights**
+
+
+**Three Months Ended**
+
+
+**June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**Average yield on interest-earning assets:**
+
+
+Loans receivable, including loans held-for-sale 4.74 % 4.58 % 4.67 % 4.71 % 4.56 %
+
+
+Taxable investment securities 3.82 % 3.83 % 3.92 % 4.08 % 4.01 %
+
+
+Tax-exempt investment securities(1) 2.40 % 2.37 % 2.36 % 2.42 % 2.43 %
+
+
+Other interest-earning assets 4.59 % 5.24 % 5.13 % 5.24 % 5.27 %
+
+
+Total interest-earning assets 4.58 % 4.47 % 4.55 % 4.61 % 4.48 %
+
+
+**Average cost of interest-bearing liabilities:**
+
+
+Deposits:
+
+
+Interest-bearing demand 2.49 % 2.34 % 2.51 % 2.63 % 2.63 %
+
+
+Savings 1.34 % 1.26 % 1.40 % 1.41 % 1.33 %
+
+
+Certificates of deposit (retail) 3.17 % 3.20 % 3.45 % 3.56 % 3.56 %
+
+
+Certificates of deposit (brokered) 2.87 % 2.71 % 2.72 % 2.67 % 2.62 %
+
+
+Total interest-bearing deposits 2.53 % 2.43 % 2.60 % 2.68 % 2.66 %
+
+
+Borrowings:
+
+
+Federal Home Loan Bank advances 3.79 % 3.56 % 3.66 % 3.69 % 3.60 %
+
+
+Other borrowings 3.71 % 3.66 % 4.13 % 4.44 % 4.45 %
+
+
+Total borrowings 3.78 % 3.57 % 3.68 % 3.74 % 3.68 %
+
+
+Total interest-bearing liabilities 2.77 % 2.62 % 2.78 % 2.88 % 2.85 %
+
+
+Interest rate spread(2) 1.81 % 1.85 % 1.77 % 1.73 % 1.62 %
+
+
+Net interest margin(3) 2.26 % 2.21 % 2.14 % 2.10 % 2.00 %
+
+
+Non-interest income to average assets (annualized) 0.28 % 0.32 % 0.30 % 0.31 % 0.26 %
+
+
+Non-interest expense to average assets (annualized) 1.78 % 1.71 % 1.65 % 1.66 % 1.62 %
+
+
+Efficiency ratio(4) 74.09 % 71.25 % 71.64 % 72.71 % 75.66 %
+
+
+Return on average assets (annualized) 0.38 % 0.54 % 0.50 % 0.50 % 0.35 %
+
+
+Return on average equity (annualized) 3.76 % 5.34 % 5.01 % 5.10 % 3.64 %
+
+
+Return on average tangible equity (annualized)(5) 4.48 % 6.34 % 5.96 % 6.09 % 4.36 %
+
+
+_________________________
+
+
+(3) Net interest income divided by average interest-earning assets.
+
+
+The following tables provide a reconciliation of certain financial measures calculated in accordance with Generally Accepted Accounting Principles (“GAAP”) (as reported) and non-GAAP measures. These non-GAAP measures provide additional information, which allow readers to evaluate the ongoing performance of the Company. They are not a substitute for GAAP measures; they should be read and used in conjunction with the Company’s GAAP financial information. In all cases, it should be understood that non-GAAP per share measures do not depict amounts that accrue directly to the benefit of shareholders.
+
+
+**Kearny Financial Corp. Reconciliation of GAAP to Non-GAAP (Unaudited)**
+
+
+**Three Months Ended**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**Adjusted net income:**
+
+
+Net income (GAAP) $ 7,172 $ 10,137 $ 9,449 $ 9,506 $ 6,769
+
+
+Non-recurring transactions - net of tax:
+
+
+Branch consolidation expenses — — — 178 —
+
+
+Severance expense from workforce realignment 529 — — — —
+
+
+Deferred tax asset valuation allowance 1,562 — — — —
+
+
+Gain on sale of property held for sale — (724 ) — (532 ) $ —
+
+
+Adjusted net income $ 9,263 $ 9,413 $ 9,449 $ 9,152 $ 6,769
+
+
+**Calculation of pre-tax, pre-provision net revenue:**
+
+
+Net income (GAAP) $ 7,172 $ 10,137 $ 9,449 $ 9,506 $ 6,769
+
+
+Adjustments to net income (GAAP):
+
+
+Provision for income taxes 3,841 2,503 2,333 2,461 1,387
+
+
+Provision for (reversal of) credit losses 822 391 567 (82 ) 1,785
+
+
+Pre-tax, pre-provision net revenue (non-GAAP) 11,835 13,031 12,349 11,885 9,941
+
+
+Adjustments to pre-tax, pre-provision net revenue (non-GAAP):
+
+
+Branch consolidation expenses — — — 250 —
+
+
+Severance expense from workforce realignment 745 — — — —
+
+
+Gain on sale of property held for sale — (1,020 ) — (749 ) —
+
+
+Pre-tax, pre-provision net revenue (non-GAAP) - adjusted $ 12,580 $ 12,011 $ 12,349 $ 11,386 $ 9,941
+
+
+**Adjusted earnings per share:**
+
+
+Weighted average common shares - basic 62,958 62,908 62,858 62,741 62,597
+
+
+Weighted average common shares - diluted 63,403 63,251 63,061 62,951 62,755
+
+
+Earnings per share - basic (GAAP) $ 0.11 $ 0.16 $ 0.15 $ 0.15 $ 0.11
+
+
+Earnings per share - diluted (GAAP) $ 0.11 $ 0.16 $ 0.15 $ 0.15 $ 0.11
+
+
+Adjusted earnings per share - basic (non-GAAP) $ 0.15 $ 0.15 $ 0.15 $ 0.15 $ 0.11
+
+
+Adjusted earnings per share - diluted (non-GAAP) $ 0.15 $ 0.15 $ 0.15 $ 0.15 $ 0.11
+
+
+**Pre-tax, pre-provision net revenue per share:**
+
+
+Pre-tax, pre-provision net revenue per share - basic
+(non-GAAP) $ 0.19 $ 0.21 $ 0.20 $ 0.19 $ 0.16
+
+
+Pre-tax, pre-provision net revenue per share - diluted
+(non-GAAP) $ 0.19 $ 0.21 $ 0.20 $ 0.19 $ 0.16
+
+
+Pre-tax, pre-provision net revenue per share - basic
+(non-GAAP) - adjusted $ 0.20 $ 0.19 $ 0.20 $ 0.18 $ 0.16
+
+
+Pre-tax, pre-provision net revenue per share - diluted
+(non-GAAP) - adjusted $ 0.20 $ 0.19 $ 0.20 $ 0.18 $ 0.16
+
+
+**Adjusted return on average assets:**
+
+
+Total average assets $ 7,610,551 $ 7,547,943 $ 7,549,411 $ 7,619,319 $ 7,638,882
+
+
+Return on average assets (GAAP) 0.38 % 0.54 % 0.50 % 0.50 % 0.35 %
+
+
+Adjusted return on average assets (non-GAAP) 0.49 % 0.50 % 0.50 % 0.48 % 0.35 %
+
+
+**Adjusted return on average equity:**
+
+
+Total average equity $ 762,979 $ 759,273 $ 754,918 $ 745,143 $ 744,187
+
+
+Return on average equity (GAAP) 3.76 % 5.34 % 5.01 % 5.10 % 3.64 %
+
+
+Adjusted return on average equity (non-GAAP) 4.86 % 4.96 % 5.01 % 4.91 % 3.64 %
+
+
+**Kearny Financial Corp. Reconciliation of GAAP to Non-GAAP (Unaudited)**
+
+
+**Three Months Ended**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **March 31,**
+**2026** **December 31,**
+**2025** **September 30,**
+**2025** **June 30,**
+**2025**
+
+
+**Adjusted return on average tangible equity:**
+
+
+Total average equity $ 762,979 $ 759,273 $ 754,918 $ 745,143 $ 744,187
+
+
+Less: average goodwill (113,525 ) (113,525 ) (113,525 ) (113,525 ) (113,525 )
+
+
+Less: average other intangible assets (1,042 ) (1,157 ) (1,276 ) (1,395 ) (1,513 )
+
+
+Total average tangible equity $ 648,412 $ 644,591 $ 640,117 $ 630,223 $ 629,149
+
+
+Return on average tangible equity (non-GAAP) 4.48 % 6.34 % 5.96 % 6.09 % 4.36 %
+
+
+Adjusted return on average tangible equity (non-GAAP) 5.77 % 5.90 % 5.96 % 5.87 % 4.36 %
+
+
+**Adjusted non-interest expense ratio:**
+
+
+Non-interest expense (GAAP) $ 33,852 $ 32,299 $ 31,191 $ 31,666 $ 30,893
+
+
+Non-recurring transactions:
+
+
+Branch consolidation expenses — — — (250 ) —
+
+
+Severance expense from workforce realignment (745 ) — — — —
+
+
+Non-interest expense (non-GAAP) $ 33,107 $ 32,299 $ 31,191 $ 31,416 $ 30,893
+
+
+Non-interest expense ratio (GAAP) 1.78 % 1.71 % 1.65 % 1.66 % 1.62 %
+
+
+Adjusted non-interest expense ratio (non-GAAP) 1.74 % 1.71 % 1.65 % 1.65 % 1.62 %
+
+
+**Adjusted efficiency ratio:**
+
+
+Non-interest expense (non-GAAP) $ 33,107 $ 32,299 $ 31,191 $ 31,416 $ 30,893
+
+
+Net interest income (GAAP) $ 40,374 $ 39,236 $ 37,969 $ 37,704 $ 35,843
+
+
+Total non-interest income (GAAP) 5,313 6,094 5,571 5,847 4,991
+
+
+Non-recurring transactions:
+
+
+Gain on sale of property held for sale — (1,020 ) — (749 ) —
+
+
+Total revenue (non-GAAP) $ 45,687 $ 44,310 $ 43,540 $ 42,802 $ 40,834
+
+
+Efficiency ratio (GAAP) 74.09 % 71.25 % 71.64 % 72.71 % 75.66 %
+
+
+Adjusted efficiency ratio (non-GAAP) 72.46 % 72.89 % 71.64 % 73.40 % 75.66 %
+
+
+**Kearny Financial Corp. Reconciliation of GAAP to Non-GAAP (Unaudited)**
+
+
+**Year Ended**
+
+
+(Dollars and Shares in Thousands,
+Except Per Share Data) **June 30,**
+**2026** **June 30,**
+**2025**
+
+
+**Adjusted net income:**
+
+
+Net income (GAAP) $ 36,264 $ 26,075
+
+
+Non-recurring transactions - net of tax:
+
+
+Branch consolidation expenses 178 —
+
+
+Severance expense from workforce realignment 529 —
+
+
+Gain on sale of property held for sale (1,256 ) —
+
+
+Deferred tax asset valuation allowance 1,562 —
+
+
+Adjusted net income $ 37,277 $ 26,075
+
+
+**Calculation of pre-tax, pre-provision net revenue:**
+
+
+Net income (GAAP) $ 36,264 $ 26,075
+
+
+Adjustments to net income (GAAP):
+
+
+Provision for income taxes 11,138 4,924
+
+
+Provision for credit losses 1,698 2,366
+
+
+Pre-tax, pre-provision net revenue (non-GAAP) 49,100 33,365
+
+
+Adjustments to pre-tax, pre-provision net revenue (non-GAAP):
+
+
+Branch consolidation expenses 250 —
+
+
+Severance expense from workforce realignment 745 —
+
+
+Gain on sale of property held for sale (1,769 ) —
+
+
+Pre-tax, pre-provision net revenue (non-GAAP) - adjusted $ 48,326 $ 33,365
+
+
+**Adjusted earnings per share:**
+
+
+Weighted average common shares - basic 62,866 62,508
+
+
+Weighted average common shares - diluted 63,220 62,716
+
+
+Earnings per share - basic (GAAP) $ 0.58 $ 0.42
+
+
+Earnings per share - diluted (GAAP) $ 0.57 $ 0.42
+
+
+Adjusted earnings per share - basic (non-GAAP) $ 0.59 $ 0.42
+
+
+Adjusted earnings per share - diluted (non-GAAP) $ 0.59 $ 0.42
+
+
+**Pre-tax, pre-provision net revenue per share:**
+
+
+Pre-tax, pre-provision net revenue per share - basic (non-GAAP) $ 0.78 $ 0.53
+
+
+Pre-tax, pre-provision net revenue per share - diluted (non-GAAP) $ 0.78 $ 0.53
+
+
+Pre-tax, pre-provision net revenue per share - basic (non-GAAP) - adjusted $ 0.77 $ 0.53
+
+
+Pre-tax, pre-provision net revenue per share - diluted (non-GAAP) - adjusted $ 0.76 $ 0.53
+
+
+**Adjusted return on average assets:**
+
+
+Total average assets $ 7,581,913 $ 7,648,846
+
+
+Return on average assets (GAAP) 0.48 % 0.34 %
+
+
+Adjusted return on average assets (non-GAAP) 0.49 % 0.34 %
+
+
+**Adjusted return on average equity:**
+
+
+Total average equity $ 755,538 $ 747,002
+
+
+Return on average equity (GAAP) 4.80 % 3.49 %
+
+
+Adjusted return on average equity (non-GAAP) 4.93 % 3.49 %
+
+
+**Adjusted return on average tangible equity:**
+
+
+Total average equity $ 755,538 $ 747,002
+
+
+Less: average goodwill (113,525 ) (113,525 )
+
+
+Less: average other intangible assets (1,218 ) (1,700 )
+
+
+Total average tangible equity $ 640,795 $ 631,777
+
+
+Return on average tangible equity (non-GAAP) 5.71 % 4.18 %
+
+
+Adjusted return on average tangible equity (non-GAAP) 5.87 % 4.18 %
+
+
+**Kearny Financial Corp. Reconciliation of GAAP to Non-GAAP (Unaudited)**
+
+
+**Year Ended**
+
+
+(Dollars in Thousands) **June 30,**
+**2026** **June 30,**
+**2025**
+
+
+**Adjusted non-interest expense ratio:**
+
+
+Non-interest expense (GAAP) $ 129,008 $ 120,630
+
+
+Non-routine transactions:
+
+
+Branch consolidation expenses and impairment charges (250 ) —
+
+
+Severance expense from workforce realignment (745 ) —
+
+
+Non-interest expense (non-GAAP) $ 128,013 $ 120,630
+
+
+Non-interest expense ratio (GAAP) 1.70 % 1.58 %
+
+
+Adjusted non-interest expense ratio (non-GAAP) 1.69 % 1.58 %
+
+
+**Adjusted efficiency ratio:**
+
+
+Non-interest expense (non-GAAP) $ 128,013 $ 120,630
+
+
+Net interest income (GAAP) $ 155,283 $ 134,943
+
+
+Total non-interest income (GAAP) 22,825 19,052
+
+
+Non-routine transactions:
+
+
+Gain on sale of property held for sale (1,769 ) —
+
+
+Total revenue (non-GAAP) $ 176,339 $ 153,995
+
+
+Efficiency ratio (GAAP) 72.43 % 78.33 %
+
+
+Adjusted efficiency ratio (non-GAAP) 72.59 % 78.33 %
+
+
+For further information contact:
+Keith Suchodolski, Senior Executive Vice President and Chief Operating Officer, or
+Sean Byrnes, Executive Vice President and Chief Financial Officer
+Kearny Financial Corp.
+(973) 244-4500
+
+
+Source: Kearny Bank
+
+
+[View All News](https://kearny.q4ir.com/news/default.aspx)

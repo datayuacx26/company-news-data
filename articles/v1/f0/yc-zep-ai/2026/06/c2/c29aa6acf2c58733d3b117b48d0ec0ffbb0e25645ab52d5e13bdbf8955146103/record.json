@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c29aa6acf2c58733d3b117b48d0ec0ffbb0e25645ab52d5e13bdbf8955146103",
+  "company": {
+    "key": "yc-zep-ai",
+    "name": "Zep AI"
+  },
+  "source": {
+    "id": "yc-zep-ai-rss-0db2565bfdf1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.getzep.com/agentic-development-in-go/",
+    "canonical": "https://blog.getzep.com/agentic-development-in-go/"
+  },
+  "title": "Building Agents in Go Without a Framework",
+  "summary": "A production agent is a long-running, concurrent, I/O-bound process that spends most of its time waiting on a model, a tool, or a human. That shape fits Go's runtime. This post explains why, surveys the Go framework options, and shows how to build an agent without one.",
+  "published_at": "2026-06-18T14:58:36+00:00",
+  "first_seen_at": "2026-07-24T08:02:00.467869+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T03:41:35.476524+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-zep-ai/2026/06/c2/c29aa6acf2c58733d3b117b48d0ec0ffbb0e25645ab52d5e13bdbf8955146103/article.md",
+    "record": "articles/v1/f0/yc-zep-ai/2026/06/c2/c29aa6acf2c58733d3b117b48d0ec0ffbb0e25645ab52d5e13bdbf8955146103/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19393,
+    "sha256": "sha256:ca2dd9fb4c6957a5cbad86f620f8ea597e147cb0794ba3b2882774066a8538e2",
+    "normalized_content_hash": "sha256:a4b4a2cb01a941abc6c1770ee4c09dbd962174ed53b6f0e78fbcc49a86f7b035"
+  },
+  "provenance": {
+    "source_item_id": "45cb583d-187d-4221-baf4-721facb596e1",
+    "external_id": "6a331eb9c3be2c00014455a8"
+  }
+}

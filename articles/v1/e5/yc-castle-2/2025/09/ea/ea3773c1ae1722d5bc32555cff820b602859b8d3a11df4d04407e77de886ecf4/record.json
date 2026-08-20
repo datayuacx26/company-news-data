@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea3773c1ae1722d5bc32555cff820b602859b8d3a11df4d04407e77de886ecf4",
+  "company": {
+    "key": "yc-castle-2",
+    "name": "Castle"
+  },
+  "source": {
+    "id": "yc-castle-2-news-import-b99476926256",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.castle.io/changelog/additional-authentication-method-types",
+    "canonical": "https://docs.castle.io/changelog/additional-authentication-method-types"
+  },
+  "title": "Additional Authentication Method types",
+  "summary": "We’ve expanded authentication_method.type with two new options: $pop (Proof-of-Personhood): use when verifying a user through PoP providers. Example variants: worldid , brightid , gitcoin_passport , sismo , civic , idena , etc $payment : use when authentication is tied to a payment method or provide…",
+  "published_at": "2025-09-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:42:16.969450+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-07-28T21:31:50.317808+00:00",
+  "paths": {
+    "article": "articles/v1/e5/yc-castle-2/2025/09/ea/ea3773c1ae1722d5bc32555cff820b602859b8d3a11df4d04407e77de886ecf4/article.md",
+    "record": "articles/v1/e5/yc-castle-2/2025/09/ea/ea3773c1ae1722d5bc32555cff820b602859b8d3a11df4d04407e77de886ecf4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1341,
+    "sha256": "sha256:d3db4c8e1070bbec1eb714b8fdedf29924d19292ab3f99027a11fff9023fa6e3",
+    "normalized_content_hash": "sha256:16070d6deb4d874a3a9173d6a21c71d904353e832883c3cf1a7961a1abe5ef62"
+  },
+  "provenance": {
+    "source_item_id": "282bbb46-99b9-4278-aa2d-28f4b088c5f8",
+    "external_id": "https://docs.castle.io/changelog/additional-authentication-method-types"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c023db84b5e3180c32c3cd89b598bfc042080a1622ca866c0275903bf07d8bf",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "source": {
+    "id": "yc-sei-rss-1b5243482862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://seiright.com/blog/ofac-sanctions-screening-ai-agents-50-percent-rule",
+    "canonical": "https://seiright.com/blog/ofac-sanctions-screening-ai-agents-50-percent-rule"
+  },
+  "title": "OFAC Sanctions Screening with AI Agents: The SDN List, Fuzzy Matching, and the 50 Percent Rule",
+  "summary": "Sanctions screening is strict-liability and the SDN list does not match cleanly. How we architect AI agents for name and identifier screening, beneficial-ownership traversal under the 50 percent rule, and hit disposition that survives an OFAC subpoena.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.548292+00:00",
+  "fetched_at": "2026-08-20T02:20:29.244809+00:00",
+  "last_updated_at": "2026-08-20T02:20:29.306031+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-sei/2026/05/7c/7c023db84b5e3180c32c3cd89b598bfc042080a1622ca866c0275903bf07d8bf/article.md",
+    "record": "articles/v1/e4/yc-sei/2026/05/7c/7c023db84b5e3180c32c3cd89b598bfc042080a1622ca866c0275903bf07d8bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 859,
+    "sha256": "sha256:5c4694d12f7a7ad9a79ca8ee12a2942068346ce9e83d861e20730e0b22a06f9e",
+    "normalized_content_hash": "sha256:efa7e71532588e2d70774e02a1a07efeaa23dee4453a7b909636b8a817b6f7df"
+  },
+  "provenance": {
+    "source_item_id": "021c7a6e-ddc5-4265-a7c2-a80e9643bd26",
+    "external_id": "https://seiright.com/blog/ofac-sanctions-screening-ai-agents-50-percent-rule"
+  }
+}

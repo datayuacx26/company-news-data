@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ea124978297e50a5bcd781252297fc62022c5bc85cbe632dbaac3ac9ce23dfa",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/highlights-for-agents",
+    "canonical": "https://exa.ai/blog/highlights-for-agents"
+  },
+  "title": "Exa Highlights: Quality, Token-Efficient Search",
+  "summary": "Exa Highlights extracts dense, query-specific excerpts from web pages so agents can reason over less context with higher accuracy.",
+  "published_at": "2026-04-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2026/04/7e/7ea124978297e50a5bcd781252297fc62022c5bc85cbe632dbaac3ac9ce23dfa/article.md",
+    "record": "articles/v1/c3/yc-exa/2026/04/7e/7ea124978297e50a5bcd781252297fc62022c5bc85cbe632dbaac3ac9ce23dfa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3153,
+    "sha256": "sha256:f520cde5fa8de446743b68b2d5c7e203f65017770cdeb4a1bbcafef17bc9fbaf",
+    "normalized_content_hash": "sha256:f4dbf5e48734b91c8030cf1e32571da6798ead0fb75f807212175639cc4775b6"
+  },
+  "provenance": {
+    "source_item_id": "57001cda-6911-4da1-892e-daffe1b18db1",
+    "external_id": "https://exa.ai/blog/highlights-for-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "85ac0ee060e372ace2b58a6c538793f3428328c676ea980f70beeda2b299746d",
+  "company": {
+    "key": "inseego-corp-common-stock",
+    "name": "Inseego Corp."
+  },
+  "source": {
+    "id": "inseego-corp-common-stock-news-import-2399808c2103",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://inseego.com/resources/blog/how-to-set-up-cellular-ip-passthrough/",
+    "canonical": "https://inseego.com/resources/blog/how-to-set-up-cellular-ip-passthrough/"
+  },
+  "title": "How to set up cellular IP Passthrough",
+  "summary": "Learn how to set up cellular IP passthrough on Inseego 5G routers. Eliminate double NAT, preserve IPsec tunnels, and configure clean firewall failover.",
+  "published_at": "2026-07-30T19:47:21+00:00",
+  "first_seen_at": "2026-07-31T20:28:37.761465+00:00",
+  "fetched_at": "2026-07-31T21:48:33.066422+00:00",
+  "last_updated_at": "2026-08-20T00:16:13.775279+00:00",
+  "paths": {
+    "article": "articles/v1/f7/inseego-corp-common-stock/2026/07/85/85ac0ee060e372ace2b58a6c538793f3428328c676ea980f70beeda2b299746d/article.md",
+    "record": "articles/v1/f7/inseego-corp-common-stock/2026/07/85/85ac0ee060e372ace2b58a6c538793f3428328c676ea980f70beeda2b299746d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14443,
+    "sha256": "sha256:fcafdf95b34280c4ce4c424ca77274861ed2a3f8145ca96123814b6ef75c8e01",
+    "normalized_content_hash": "sha256:d213d14012561c09d6d6e6ba4b11ef973647a9bd309d72c9fc5fb3087879f595"
+  },
+  "provenance": {
+    "source_item_id": "1b431924-cee2-47a6-8ed1-e221ff694336",
+    "external_id": "https://inseego.com/resources/blog/how-to-set-up-cellular-ip-passthrough/"
+  }
+}

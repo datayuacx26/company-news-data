@@ -1,0 +1,169 @@
+---
+schema_version: "1.0.0"
+document_id: "9b9bdcd1663170b7e336ec6088e816f86cfc7b9bb0b60482cf7b91ebe1cae490"
+company_key: "marriott-vacations-worldwide-corporation-common-stock"
+company: "Marriott Vacations Worldwide Corporation"
+source_id: "marriott-vacations-worldwide-corporation-common-stock-rss-e847306ede03"
+canonical_url: "https://www.marriottvacationsworldwide.com/2026/05/marriott-vacations-worldwide-corporation-announces-quarterly-cash-dividend-11/"
+published_at: "2026-05-14T20:26:49+00:00"
+first_seen_at: "2026-07-24T10:40:28.495492+00:00"
+fetched_at: "2026-07-28T22:13:07.113521+00:00"
+content_hash: "sha256:f458220d70bf3a3681619a4426c7c8cef83eebe3ea5b70e9f22828dd8efd2afa"
+---
+
+# Marriott Vacations Worldwide Corporation Announces Quarterly Cash Dividend
+
+## Media Contacts
+
+
+### Marriott Vacations Worldwide
+
+
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+Neal Goldner
+Investor Relations
+407-206-6149
+investor@mvwc.com
+
+
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+### Vacation Ownership
+
+
+**Customer Advocacy:**
+
+
+customer.advocacy@vacationclub.com
+
+
+**Media Contact:**
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+**Customer Advocacy:**
++1 888-SV-OWNER (1-888-786-9637)
+Direct:407-903-4649
+
+
+**Media Contact:**
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+**Customer Advocacy:**
++1 888-WV-OWNER (+1 888-986-9637)
+Direct:407-903-4635
+
+
+**Media Contact:**
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+**Customer Advocacy:**
++1 800-GO-HYATT
+
+
+**Media Contact:**
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+**Customer Advocacy:**
+P:888-220-2058
+Intl:881-220-2058
+
+
+memberservices@grandresidenceclub.com
+
+
+**Media Contact:**
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+**Customer Advocacy:**
+P:888-220-2084
+
+
+member.services@ritzcarltonclub.com
+
+
+**Media Contact:**
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+**Customer Advocacy:**
+Toll Free:866-776-9637
+
+
+memberservices@theresidenceclub.com
+
+
+**Media Contact:**
+Cameron Klaus
+Global Communications
+407-513-6606
+Cameron.Klaus@mvwc.com
+
+
+### Exchange and Third-Party Management
+
+
+Cameron Klaus
+Global Communications
+
+
+Cameron.Klaus@mvwc.com
+
+
+Theresa Van Greunen
+(808) 202-5756
+
+
+Theresa.VanGreunen@aqua-aston.com
+
+
+### Press Kit
+
+
+[Company Fact Sheet](https://www.marriottvacationsworldwide.com/downloads/presskits/mvwc-Facts.pdf)
+
+
+[The Marriott Vacation Clubs Fact Sheet](https://www.marriottvacationsworldwide.com/downloads/presskits/mvwc-Facts.pdf)
+
+
+## Marriott Vacations Worldwide Corporation Announces Quarterly Cash Dividend
+
+
+**ORLANDO, Fla. –** **May 14, 2026** – Marriott Vacations Worldwide Corporation (NYSE: VAC) today announced its Board of Directors authorized a quarterly cash dividend of $0.80 per share of common stock. The dividend is payable on or around June 10, 2026, to the stockholders of record as of the close of business on May 27, 2026.
+
+
+**About Marriott Vacations Worldwide Corporation**
+
+
+Marriott Vacations Worldwide Corporation is a leading global vacation company that offers vacation ownership, exchange, rental and resort and property management, along with related businesses, products, and services. The Company has approximately 120 vacation ownership resorts and approximately 700,000 owner families in a diverse portfolio that includes some of the most iconic vacation ownership brands. The Company also operates an exchange network and membership programs comprised of more than 3,200 affiliated resorts in over 90 countries and territories, and provides management services to other resorts and lodging properties. As a leader and innovator in the vacation industry, the Company upholds the highest standards of excellence in serving its customers, investors and associates while maintaining exclusive, long-term relationships with Marriott International, Inc. and an affiliate of Hyatt Hotels Corporation for the development, sales and marketing of vacation ownership products and services. For more information, please visit[www.marriottvacationsworldwide.com](https://www.marriottvacationsworldwide.com/) .

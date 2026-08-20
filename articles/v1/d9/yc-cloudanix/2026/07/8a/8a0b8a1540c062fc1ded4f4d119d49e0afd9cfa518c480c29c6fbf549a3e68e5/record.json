@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8a0b8a1540c062fc1ded4f4d119d49e0afd9cfa518c480c29c6fbf549a3e68e5",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/15-top-aws-rds-misconfigurations-to-avoid/",
+    "canonical": "https://www.cloudanix.com/blog/15-top-aws-rds-misconfigurations-to-avoid/"
+  },
+  "title": "15 Top AWS RDS Misconfigurations To Avoid",
+  "summary": "The 15 most critical AWS RDS misconfigurations (public snapshots, missing encryption, open security groups, and more) with detection and remediation.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:08:44.176891+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/07/8a/8a0b8a1540c062fc1ded4f4d119d49e0afd9cfa518c480c29c6fbf549a3e68e5/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/07/8a/8a0b8a1540c062fc1ded4f4d119d49e0afd9cfa518c480c29c6fbf549a3e68e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7994,
+    "sha256": "sha256:07a5e99db366d54475eb9a6aa3e4a0a7081005bd30b5a12a2e731b063ddd1f4e",
+    "normalized_content_hash": "sha256:584807d890751b9d67688b10542e55e80628e04b4dd36df2cbadf452ebc05ff4"
+  },
+  "provenance": {
+    "source_item_id": "0e4bddd2-3f91-4cd7-8d9d-7edfb2041da9",
+    "external_id": "https://www.cloudanix.com/blog/15-top-aws-rds-misconfigurations-to-avoid/"
+  }
+}

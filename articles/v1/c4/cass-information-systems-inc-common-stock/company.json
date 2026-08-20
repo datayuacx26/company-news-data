@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cass-information-systems-inc-common-stock",
+    "name": "Cass Information Systems Inc"
+  },
+  "record_count": 10,
+  "first_published_at": "2025-07-18T18:55:33+00:00",
+  "last_published_at": "2026-07-23T12:09:14+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c4/cass-information-systems-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11114,
+        "sha256": "sha256:b53c50e8c8c691a68b2b1dc35db2a19792df6943ec31a44e67e6dbd30405877f",
+        "newest_at": "2026-07-23T12:09:14+00:00",
+        "oldest_at": "2025-07-18T18:55:33+00:00"
+      }
+    ]
+  }
+}

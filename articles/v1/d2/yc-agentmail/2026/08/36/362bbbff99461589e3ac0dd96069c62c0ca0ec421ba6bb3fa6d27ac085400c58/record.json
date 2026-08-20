@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "362bbbff99461589e3ac0dd96069c62c0ca0ec421ba6bb3fa6d27ac085400c58",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/email-threading-for-ai-agents",
+    "canonical": "https://www.agentmail.to/blog/email-threading-for-ai-agents"
+  },
+  "title": "How to Implement Email Threading in an AI Agent",
+  "summary": "Learn how to implement email threading for an AI agent with persistent conversations, verified webhooks, thread retrieval, and idempotent replies.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T22:28:35.794437+00:00",
+  "fetched_at": "2026-08-06T22:28:37.696920+00:00",
+  "last_updated_at": "2026-08-20T02:25:07.860354+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/08/36/362bbbff99461589e3ac0dd96069c62c0ca0ec421ba6bb3fa6d27ac085400c58/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/08/36/362bbbff99461589e3ac0dd96069c62c0ca0ec421ba6bb3fa6d27ac085400c58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19680,
+    "sha256": "sha256:326d04d9231e663091362bde657e90f25ff19d3a97f36fa21cf10f3a3c6a2453",
+    "normalized_content_hash": "sha256:96c96ddd7dff0338cd54901f6ad122cb85c99e0acff0a50b36dd600328beb055"
+  },
+  "provenance": {
+    "source_item_id": "d655b6ae-1d42-4ed3-97c9-14b6820f1d45",
+    "external_id": "https://www.agentmail.to/blog/email-threading-for-ai-agents"
+  }
+}

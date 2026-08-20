@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2d744869ed56c5a138960d480c4aca4fac751d46f5e514d0443f1994766a78f",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/tcp-latency-optimization",
+    "canonical": "https://www.overshoot.ai/blogs/tcp-latency-optimization"
+  },
+  "title": "TCP for server-to-GPU communication",
+  "summary": "A 5 MB upload over a 31 ms RTT path took 325 ms cold. Connection reuse and congestion window tuning cut it to 72 ms, explained with interactive simulations.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/06/b2/b2d744869ed56c5a138960d480c4aca4fac751d46f5e514d0443f1994766a78f/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/06/b2/b2d744869ed56c5a138960d480c4aca4fac751d46f5e514d0443f1994766a78f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7585,
+    "sha256": "sha256:42e1e82e3a939d273277270f5fe3aec9fd7ab055d7af30c22363f4f3a3c309d8",
+    "normalized_content_hash": "sha256:c7c5888118d5bc9bed034ef030a6237e8a4de5a215fdf652647472b80e818dc3"
+  },
+  "provenance": {
+    "source_item_id": "5aec64ff-af3d-410d-8ff7-39e3bbbef807",
+    "external_id": "https://www.overshoot.ai/blogs/tcp-latency-optimization"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f40720b3ce719280449bd491e6d3c446d2bce290817c0baf0a330f3a6a50ef54",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/vlms-can-see-objects-but-why-cant-they-count-them",
+    "canonical": "https://www.overshoot.ai/blogs/vlms-can-see-objects-but-why-cant-they-count-them"
+  },
+  "title": "VLMs Can See Objects. But Why Can't They Count Them?",
+  "summary": "Counting looks simple for VLMs but fails under clutter, composition, and scale. How divide-and-conquer pipelines like LVLM-Count improve accuracy.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T01:56:33.200536+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/07/f4/f40720b3ce719280449bd491e6d3c446d2bce290817c0baf0a330f3a6a50ef54/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/07/f4/f40720b3ce719280449bd491e6d3c446d2bce290817c0baf0a330f3a6a50ef54/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9720,
+    "sha256": "sha256:5ed970ff3b97acb1c8eeb6912eb779c427f2077ff520a445952eb78c05a118c3",
+    "normalized_content_hash": "sha256:67413f231c94de319a1114623268e67340303ab726de2a6effd358d2ceedfb9e"
+  },
+  "provenance": {
+    "source_item_id": "4ebae820-5e2d-430a-a20b-ba14153feafe",
+    "external_id": "https://www.overshoot.ai/blogs/vlms-can-see-objects-but-why-cant-they-count-them"
+  }
+}

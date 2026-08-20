@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "780f4fddb5be890fbb752cdf6e93544c63e2287c18b9dc2e7cbf79e18e15d934",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/07/18/how-to-build-a-stdio-mcp-server-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2025/07/18/how-to-build-a-stdio-mcp-server-in-rust"
+  },
+  "title": "How to Build a stdio MCP Server in Rust",
+  "summary": "Learn how to build MCP server in Rust using the rmcp crate. This MCP server development guide covers stdio MCP server creation, DNS lookup MCP implementation, and AI agent extension with Model Context Protocol Rust SDK.",
+  "published_at": "2025-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/07/78/780f4fddb5be890fbb752cdf6e93544c63e2287c18b9dc2e7cbf79e18e15d934/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/07/78/780f4fddb5be890fbb752cdf6e93544c63e2287c18b9dc2e7cbf79e18e15d934/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12635,
+    "sha256": "sha256:754bf12b02011cb522c76a9e5b225cd2110555d704c6b2bd4c43f1ba69afd291",
+    "normalized_content_hash": "sha256:c1e86d9f784708eefd15bc96f4cec037f54f31c08fb3d30b086a3d7d20113429"
+  },
+  "provenance": {
+    "source_item_id": "4541817d-2206-45b7-9ebd-2647111905b3",
+    "external_id": "https://www.shuttle.dev/blog/2025/07/18/how-to-build-a-stdio-mcp-server-in-rust"
+  }
+}

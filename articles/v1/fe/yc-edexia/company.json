@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-edexia",
+    "name": "Edexia"
+  },
+  "record_count": 2,
+  "first_published_at": "2025-11-02T00:00:00+00:00",
+  "last_published_at": "2025-11-11T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fe/yc-edexia/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2037,
+        "sha256": "sha256:94171d311b9c98b3a2710b79799779b8154a48c2a898c00d9da6317ea6eefe18",
+        "newest_at": "2025-11-11T00:00:00+00:00",
+        "oldest_at": "2025-11-02T00:00:00+00:00"
+      }
+    ]
+  }
+}

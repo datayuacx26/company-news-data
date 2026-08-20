@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fea59b7339f48c126fb6cb1a03e9ab74270c47dbc7b0c8ffdd9e5b630c9d5b0",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/11/13/infrastructure-as-code-problems",
+    "canonical": "https://www.shuttle.dev/blog/2025/11/13/infrastructure-as-code-problems"
+  },
+  "title": "Infrastructure as Code Problems: Why Developers Are Wasting Their Time",
+  "summary": "You didn't hire developers to debug Terraform state files. Yet here we are. This breakdown shows what IaC is really costing you and how to stop the bleeding.",
+  "published_at": "2025-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:25:48.708473+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/11/1f/1fea59b7339f48c126fb6cb1a03e9ab74270c47dbc7b0c8ffdd9e5b630c9d5b0/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/11/1f/1fea59b7339f48c126fb6cb1a03e9ab74270c47dbc7b0c8ffdd9e5b630c9d5b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12386,
+    "sha256": "sha256:d4bde4bf7d164464947fb0fc334467e02253cfa3a687b7df28d8dd1e523be1a9",
+    "normalized_content_hash": "sha256:c42d068b995a97504c3959ca73d69f6d15076e42764bd0bdd13550c73d92c40b"
+  },
+  "provenance": {
+    "source_item_id": "cb9f0a7b-919f-4089-a8b9-c77a375f4708",
+    "external_id": "https://www.shuttle.dev/blog/2025/11/13/infrastructure-as-code-problems"
+  }
+}

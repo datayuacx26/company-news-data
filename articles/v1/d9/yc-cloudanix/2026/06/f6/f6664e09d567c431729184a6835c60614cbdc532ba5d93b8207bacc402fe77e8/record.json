@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6664e09d567c431729184a6835c60614cbdc532ba5d93b8207bacc402fe77e8",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/devsecops-on-azure-practical-implementation-guide/",
+    "canonical": "https://www.cloudanix.com/blog/devsecops-on-azure-practical-implementation-guide/"
+  },
+  "title": "DevSecOps on Azure: A Practical Implementation Guide for Cloud-Native Teams",
+  "summary": "A stage-by-stage guide to implementing DevSecOps on Azure. Covers code pipeline security, JIT access beyond Entra PIM, database activity monitoring, CSPM, and AI coding agent controls.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T22:36:35.395462+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/06/f6/f6664e09d567c431729184a6835c60614cbdc532ba5d93b8207bacc402fe77e8/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/06/f6/f6664e09d567c431729184a6835c60614cbdc532ba5d93b8207bacc402fe77e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8036,
+    "sha256": "sha256:158ea1689ad23a56b581afd6f6756cb61323b8d6966f499a4ca85843dce196a8",
+    "normalized_content_hash": "sha256:6069622ca5cc8e901330e5e047e5c72344b4d82e3907c33ec7310beb29e1df46"
+  },
+  "provenance": {
+    "source_item_id": "fad92260-9f27-40cd-ac3e-1fc1f65f61b3",
+    "external_id": "https://www.cloudanix.com/blog/devsecops-on-azure-practical-implementation-guide/"
+  }
+}

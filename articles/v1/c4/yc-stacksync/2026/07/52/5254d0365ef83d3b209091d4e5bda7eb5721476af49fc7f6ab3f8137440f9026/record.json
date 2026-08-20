@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5254d0365ef83d3b209091d4e5bda7eb5721476af49fc7f6ab3f8137440f9026",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/reverse-etl-pricing-vs-two-way-sync-cost",
+    "canonical": "https://www.stacksync.com/blog/reverse-etl-pricing-vs-two-way-sync-cost"
+  },
+  "title": "Reverse ETL Pricing vs Two-Way Sync: What Warehouse Activation Really Costs",
+  "summary": "Reverse ETL looks cheaper per row, but the bill climbs with volume and the pipelines are yours to maintain. A breakdown of what warehouse activation really…",
+  "published_at": "2026-07-20T16:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T21:11:14.294079+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/52/5254d0365ef83d3b209091d4e5bda7eb5721476af49fc7f6ab3f8137440f9026/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/52/5254d0365ef83d3b209091d4e5bda7eb5721476af49fc7f6ab3f8137440f9026/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6659,
+    "sha256": "sha256:7ea851acb7319e7f175299b94012bef48d549dbf854f0a78f5d0be8bdf647388",
+    "normalized_content_hash": "sha256:56b2d1a36772b277a4b7282141a8f25e6123e61c82b0eb12781bd8aab56323a0"
+  },
+  "provenance": {
+    "source_item_id": "810950cd-623c-430a-9a0d-0de3593bae79",
+    "external_id": "https://www.stacksync.com/blog/reverse-etl-pricing-vs-two-way-sync-cost"
+  }
+}

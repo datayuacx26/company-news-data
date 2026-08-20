@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fe065be7966a135637f56a8c3f5ae9381c337c07ce23f85be067bc6353bb01b9",
+  "company": {
+    "key": "ionq-inc-common-stock",
+    "name": "IonQ Inc."
+  },
+  "source": {
+    "id": "ionq-inc-common-stock-news-import-8f7ead1ae5e6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ionq.com/blog/mind-the-gaps-quantum-optimization-for-efficient-electric-and-autonomous-freight-dispatch-with-ionq-and-einride",
+    "canonical": "https://www.ionq.com/blog/mind-the-gaps-quantum-optimization-for-efficient-electric-and-autonomous-freight-dispatch-with-ionq-and-einride"
+  },
+  "title": "Mind the Gaps: Quantum Optimization for Efficient Electric and Autonomous Freight Dispatch with IonQ and Einride",
+  "summary": "The shift to electric freight is accelerating, and its economics hinge on a planning problem that conventional routing software was not designed to handle. Research conducted by Einride, a technology company building the infrastructure for electric and autonomous freight, alongside Fraunhofer and Rewe, found that optimizing electric fleet operations from the ground up reduced fleet-level total cost of ownership by 8–13%, compared to roughly 3% for straightforward 1:1 replacement of diesel trucks with EVs. Electric fleets introduce charging schedules, energy constraints, and route interdependencies that make planning substantially more complex than conventional trucking. That complexity, managed well, is where the economic advantage lives.",
+  "published_at": "2026-04-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:33:28.377709+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T00:52:44.238555+00:00",
+  "paths": {
+    "article": "articles/v1/c6/ionq-inc-common-stock/2026/04/fe/fe065be7966a135637f56a8c3f5ae9381c337c07ce23f85be067bc6353bb01b9/article.md",
+    "record": "articles/v1/c6/ionq-inc-common-stock/2026/04/fe/fe065be7966a135637f56a8c3f5ae9381c337c07ce23f85be067bc6353bb01b9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15408,
+    "sha256": "sha256:50ffaf923016fd0d45dce88a908896cae771f5d9856610794521ee1f659e86bc",
+    "normalized_content_hash": "sha256:f47e2e0d532afea64bbdfb58361283dd1fc37c68e13440d4a141c378e66e8345"
+  },
+  "provenance": {
+    "source_item_id": "bb0127ec-1934-448a-a64f-fd485112116c",
+    "external_id": "https://www.ionq.com/blog/mind-the-gaps-quantum-optimization-for-efficient-electric-and-autonomous-freight-dispatch-with-ionq-and-einride"
+  }
+}

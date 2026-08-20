@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "utstarcom-holdings-corp-ordinary-shares",
+    "name": "UTStarcom Holdings Corp."
+  },
+  "record_count": 31,
+  "first_published_at": "2015-01-23T08:21:54+00:00",
+  "last_published_at": "2026-08-13T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2015-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fb/utstarcom-holdings-corp-ordinary-shares/index/pages/000001.json",
+        "record_count": 31,
+        "byte_count": 33235,
+        "sha256": "sha256:641539717142360562095ebdfbcb212f952dd220dbcd2d4bc4b995638f0ea0a0",
+        "newest_at": "2026-08-13T12:00:00+00:00",
+        "oldest_at": "2015-01-23T08:21:54+00:00"
+      }
+    ]
+  }
+}

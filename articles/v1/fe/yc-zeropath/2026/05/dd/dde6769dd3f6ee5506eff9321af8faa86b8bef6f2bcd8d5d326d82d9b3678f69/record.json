@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dde6769dd3f6ee5506eff9321af8faa86b8bef6f2bcd8d5d326d82d9b3678f69",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/nifi-cve-2026-39816-privesc-rce",
+    "canonical": "https://zeropath.com/blog/nifi-cve-2026-39816-privesc-rce"
+  },
+  "title": "CVE-2026-39816 Allows Privesc And Code Execution In Apache NiFi",
+  "summary": "ZeroPath Research discovered CVE-2026-39816 in Apache NiFi: when the optional nifi-other-graph-services-nar bundle is installed, authenticated users without the EXECUTE_CODE privilege can run arbitrary code on the NiFi server via ExecuteGraphQuery against a TinkerPop target. Affects NiFi >= 2.0.0-M1 and < 2.9.0; patched in 2.9.0.",
+  "published_at": "2026-05-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T22:12:44.576485+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/05/dd/dde6769dd3f6ee5506eff9321af8faa86b8bef6f2bcd8d5d326d82d9b3678f69/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/05/dd/dde6769dd3f6ee5506eff9321af8faa86b8bef6f2bcd8d5d326d82d9b3678f69/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10853,
+    "sha256": "sha256:d2b9bc8a79033872bb3ff98ed369d31326a270b75bc5eb18f997428225f32585",
+    "normalized_content_hash": "sha256:5c417d93c5a8a16a4dee9fdb9717963c80e1e9546ffd21ba0f8229679e8e4445"
+  },
+  "provenance": {
+    "source_item_id": "adfed636-cfb6-4024-b9b1-8968d6d6700e",
+    "external_id": "https://zeropath.com/blog/nifi-cve-2026-39816-privesc-rce"
+  }
+}

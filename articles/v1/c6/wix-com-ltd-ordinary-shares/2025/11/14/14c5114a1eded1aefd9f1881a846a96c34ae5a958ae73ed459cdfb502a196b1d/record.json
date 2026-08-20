@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "14c5114a1eded1aefd9f1881a846a96c34ae5a958ae73ed459cdfb502a196b1d",
+  "company": {
+    "key": "wix-com-ltd-ordinary-shares",
+    "name": "Wix.com Ltd."
+  },
+  "source": {
+    "id": "wix-com-ltd-ordinary-shares-rss-e1d3c855eeb0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wix.engineering/post/40-faster-interaction-how-wix-solved-react-s-hydration-problem-with-selective-hydration-and-suspen",
+    "canonical": "https://www.wix.engineering/post/40-faster-interaction-how-wix-solved-react-s-hydration-problem-with-selective-hydration-and-suspen"
+  },
+  "title": "40% Faster Interaction: How Wix Solved React's Hydration Problem with Selective Hydration and Suspense",
+  "summary": "IntroductionFor years, one of React’s most persistent performance pain points has been hydration.At Wix, where we render hundreds of millions of websites using React and SSR, we’ve experienced this problem at scale. SSR initially gave us everything we wanted - instant paint, great SEO, and full-site CDN caching. Our pages loaded faster than ever.But as sites grew richer and heavier with content, hydration became a tax we could no longer ignore. The more components a page had, the longer it took",
+  "published_at": "2025-11-09T12:58:45+00:00",
+  "first_seen_at": "2026-07-20T23:18:01.039713+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T00:29:14.534767+00:00",
+  "paths": {
+    "article": "articles/v1/c6/wix-com-ltd-ordinary-shares/2025/11/14/14c5114a1eded1aefd9f1881a846a96c34ae5a958ae73ed459cdfb502a196b1d/article.md",
+    "record": "articles/v1/c6/wix-com-ltd-ordinary-shares/2025/11/14/14c5114a1eded1aefd9f1881a846a96c34ae5a958ae73ed459cdfb502a196b1d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19827,
+    "sha256": "sha256:9517c9a0a2c3f81cd1ae992db7856a68ed580a1cf5108f0f94fbc3060b67b111",
+    "normalized_content_hash": "sha256:462226bba12b320cffd56e27c2247bf1083b64a4d3f340cd1b2642b499827f46"
+  },
+  "provenance": {
+    "source_item_id": "5144d87c-9d80-45f4-a483-9816a1ac7230",
+    "external_id": "69b7fc641733b7e9e9e9dff6"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "cytomed-therapeutics-limited-ordinary-shares",
+    "name": "CytoMed Therapeutics Limited"
+  },
+  "record_count": 7,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e0/cytomed-therapeutics-limited-ordinary-shares/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 7886,
+        "sha256": "sha256:cb383241c874e4fab9c869ce5bf83d08ec4c56e7adf10fa65de91937e60350d9",
+        "newest_at": "2026-07-28T21:40:00.658555+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

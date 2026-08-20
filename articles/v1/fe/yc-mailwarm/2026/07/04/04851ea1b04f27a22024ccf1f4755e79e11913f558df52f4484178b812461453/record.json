@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "04851ea1b04f27a22024ccf1f4755e79e11913f558df52f4484178b812461453",
+  "company": {
+    "key": "yc-mailwarm",
+    "name": "Mailwarm"
+  },
+  "source": {
+    "id": "yc-mailwarm-news-import-5814b5ef4890",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mailwarm.com/blog/reverse-dns-does-not-match-smtp-banner",
+    "canonical": "https://www.mailwarm.com/blog/reverse-dns-does-not-match-smtp-banner"
+  },
+  "title": "Fix Reverse DNS Does Not Match SMTP Banner",
+  "summary": "Fix the 'reverse DNS does not match SMTP banner' error to improve deliverability. Learn to diagnose and align your PTR record and server greeting for 2026.",
+  "published_at": "2026-07-23T09:55:16.337+00:00",
+  "first_seen_at": "2026-07-24T03:13:18.754045+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-07T19:59:25.150343+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-mailwarm/2026/07/04/04851ea1b04f27a22024ccf1f4755e79e11913f558df52f4484178b812461453/article.md",
+    "record": "articles/v1/fe/yc-mailwarm/2026/07/04/04851ea1b04f27a22024ccf1f4755e79e11913f558df52f4484178b812461453/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16618,
+    "sha256": "sha256:6ba5ec4c070b39c7601261fe5d4629ecc4b877e7f5bb325ebc4e42de319e7c80",
+    "normalized_content_hash": "sha256:ffa51f80a566aeb7bd11797201ad862750ce9ac6e03ec5625d76b081f101ff28"
+  },
+  "provenance": {
+    "source_item_id": "c471601d-32cb-455f-ada6-976a9e9627a1",
+    "external_id": "https://www.mailwarm.com/blog/reverse-dns-does-not-match-smtp-banner"
+  }
+}

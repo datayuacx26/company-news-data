@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nervgen-pharma-corp-common-stock",
+    "name": "NervGen Pharma Corp."
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-12T20:18:17+00:00",
+  "last_published_at": "2026-08-13T11:30:29+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c2/nervgen-pharma-corp-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 14790,
+        "sha256": "sha256:cd0f519caa297d4c922f8be1fdc25c0362c3346849bc4110e080d98803167ddf",
+        "newest_at": "2026-08-13T11:30:29+00:00",
+        "oldest_at": "2026-03-12T20:18:17+00:00"
+      }
+    ]
+  }
+}

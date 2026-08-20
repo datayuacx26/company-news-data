@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b1ca53ddf7ba07ab858b20ba69dbe3e577389bfc3d0bb45917f51f1b811320f",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-amazon-rds-with-salesforce",
+    "canonical": "https://www.stacksync.com/blog/sync-amazon-rds-with-salesforce"
+  },
+  "title": "Your CRM in a Table You Own: Sync Amazon RDS With Salesforce",
+  "summary": "How to sync Amazon RDS with Salesforce: enable logical replication, open VPC access, map objects to tables, backfill once, then run CDC both ways.",
+  "published_at": "2026-07-22T10:05:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/6b/6b1ca53ddf7ba07ab858b20ba69dbe3e577389bfc3d0bb45917f51f1b811320f/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/6b/6b1ca53ddf7ba07ab858b20ba69dbe3e577389bfc3d0bb45917f51f1b811320f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13869,
+    "sha256": "sha256:5fcf07a074913cee5c5ee5e7210408e1ba8902f628305e912b9d8a81fe610980",
+    "normalized_content_hash": "sha256:4133f6afd14f954c016eea9912eb3b89e8ecba10bd7391f2fce7a61ebd47fae1"
+  },
+  "provenance": {
+    "source_item_id": "7f3eaeca-2a04-4613-9ee3-ff78607b30b2",
+    "external_id": "https://www.stacksync.com/blog/sync-amazon-rds-with-salesforce"
+  }
+}

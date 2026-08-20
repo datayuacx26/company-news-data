@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6339510b2dbf28fa4eb81e74f29886655680e73d089df789dc109f17b6cb9a95",
+  "company": {
+    "key": "yc-castle-2",
+    "name": "Castle"
+  },
+  "source": {
+    "id": "yc-castle-2-news-import-b99476926256",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.castle.io/changelog/new-event-field-emailregistered_domain",
+    "canonical": "https://docs.castle.io/changelog/new-event-field-emailregistered_domain"
+  },
+  "title": "New event field: `email.registered_domain`",
+  "summary": "Castle already provides the email.domain event field, reflecting the full domain from the email address. With this release, we're adding email.registered_domain , which reduces any subdomain to its registered part using the public suffix list. Fraudulent domains often rotate across subdomains ( a.do…",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:16:58.513640+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-20T02:45:41.804501+00:00",
+  "paths": {
+    "article": "articles/v1/e5/yc-castle-2/2026/06/63/6339510b2dbf28fa4eb81e74f29886655680e73d089df789dc109f17b6cb9a95/article.md",
+    "record": "articles/v1/e5/yc-castle-2/2026/06/63/6339510b2dbf28fa4eb81e74f29886655680e73d089df789dc109f17b6cb9a95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1631,
+    "sha256": "sha256:b673fe5e2b1f93848fad588fbd1160c4386b1afe5c926d78896438976fb5a244",
+    "normalized_content_hash": "sha256:ffc4f940bb671b2fd477be53b375b2fd1a2e0dd15adecf1dee620ff978c5c67d"
+  },
+  "provenance": {
+    "source_item_id": "a098409f-597e-4c6a-a6f5-284696f8b18c",
+    "external_id": "https://docs.castle.io/changelog/new-event-field-emailregistered_domain"
+  }
+}

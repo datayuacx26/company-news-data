@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8411c35eecefc696fad1b7073630f92958a61c5d847832ca38ddfc336c01fdc",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/spf-vs-dkim-vs-dmarc",
+    "canonical": "https://bird.com/en-us/blog/spf-vs-dkim-vs-dmarc"
+  },
+  "title": "SPF vs DKIM vs DMARC: What's the Difference?",
+  "summary": "SPF authorizes senders, DKIM signs messages, DMARC ties both to your visible domain and reports back. Here's how the three standards compare.",
+  "published_at": "2026-06-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/06/a8/a8411c35eecefc696fad1b7073630f92958a61c5d847832ca38ddfc336c01fdc/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/06/a8/a8411c35eecefc696fad1b7073630f92958a61c5d847832ca38ddfc336c01fdc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4741,
+    "sha256": "sha256:a16e31917ed548b7bc8b9cbe17f1d988de64c3930d46dd80287673be9755bc81",
+    "normalized_content_hash": "sha256:522904e269f3aa787839835ee581cb3b2f63867e96ce57a7d929e7251b205165"
+  },
+  "provenance": {
+    "source_item_id": "68c481c7-ded6-486b-9933-73bf7aeeb34d",
+    "external_id": "https://bird.com/en-us/blog/spf-vs-dkim-vs-dmarc"
+  }
+}

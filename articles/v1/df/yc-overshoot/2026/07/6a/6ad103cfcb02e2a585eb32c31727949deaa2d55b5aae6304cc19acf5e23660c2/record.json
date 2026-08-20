@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ad103cfcb02e2a585eb32c31727949deaa2d55b5aae6304cc19acf5e23660c2",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/are-all-parameters-made-equal",
+    "canonical": "https://www.overshoot.ai/blogs/are-all-parameters-made-equal"
+  },
+  "title": "Are All Parameters Made Equal?",
+  "summary": "Not every weight in a neural network is equally necessary. Weight pruning, structured pruning, and MoPE-CLIP for vision-language models.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-28T01:56:33.200536+00:00",
+  "fetched_at": "2026-07-28T14:42:11.205612+00:00",
+  "last_updated_at": "2026-07-28T14:42:12.492154+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/07/6a/6ad103cfcb02e2a585eb32c31727949deaa2d55b5aae6304cc19acf5e23660c2/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/07/6a/6ad103cfcb02e2a585eb32c31727949deaa2d55b5aae6304cc19acf5e23660c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11967,
+    "sha256": "sha256:38382efd27bac6b49223e306dbe18fb7331c89c5360171e8cbed62676c8c0b68",
+    "normalized_content_hash": "sha256:5ec51cfcae04f03e7e4001f7d79493a177a397d36bfde298428dc0f6c87dced3"
+  },
+  "provenance": {
+    "source_item_id": "86611168-7b7b-434d-9ca7-7c5fb1d834d0",
+    "external_id": "https://www.overshoot.ai/blogs/are-all-parameters-made-equal"
+  }
+}

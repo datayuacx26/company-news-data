@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "841aba90255de39e89df4019093ac8318976cb3a59ae669d586d57f1933d872e",
+  "company": {
+    "key": "yc-fogbender",
+    "name": "Fogbender"
+  },
+  "source": {
+    "id": "yc-fogbender-news-import-46cf0bf99c36",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fogbender.com/blog/using-groups-to-configure-oncall-agents",
+    "canonical": "https://fogbender.com/blog/using-groups-to-configure-oncall-agents"
+  },
+  "title": "Using groups to configure on-call agents",
+  "summary": "Introducing agent groups, assigning groups to rooms, default group assignment, and PagerDuty integration to automate on-call group membership",
+  "published_at": "2023-03-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:41:04.212025+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T21:03:40.996420+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-fogbender/2023/03/84/841aba90255de39e89df4019093ac8318976cb3a59ae669d586d57f1933d872e/article.md",
+    "record": "articles/v1/dd/yc-fogbender/2023/03/84/841aba90255de39e89df4019093ac8318976cb3a59ae669d586d57f1933d872e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3697,
+    "sha256": "sha256:26fed9676a3b4682b7f13e7c14d363d596034655756310624b8620945774ad6f",
+    "normalized_content_hash": "sha256:aa3f0fb0a808cf006ae9f3da5391eb15a37f0914c813754d6f42b6109a80274e"
+  },
+  "provenance": {
+    "source_item_id": "6def0058-533b-476a-a42f-8eda166c03cb",
+    "external_id": "https://fogbender.com/blog/using-groups-to-configure-oncall-agents"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-hannah-life-technologies",
+    "name": "twoplus fertility"
+  },
+  "record_count": 82,
+  "first_published_at": "2022-03-18T04:47:04+00:00",
+  "last_published_at": "2026-01-16T07:36:10+00:00",
+  "partitions": [
+    {
+      "partition": "2022-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 9
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 6
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fe/yc-hannah-life-technologies/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 56085,
+        "sha256": "sha256:4781b79b2e7e0a8a0cb5d910798930d5e8ca8593af200ebd882e9cebbe60f3cc",
+        "newest_at": "2026-01-16T07:36:10+00:00",
+        "oldest_at": "2022-09-16T04:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/fe/yc-hannah-life-technologies/index/pages/000002.json",
+        "record_count": 32,
+        "byte_count": 34897,
+        "sha256": "sha256:64371fb8e49f77d621ae73b542006b0825b03c44dec52936bce877450c018caa",
+        "newest_at": "2022-09-09T04:00:01+00:00",
+        "oldest_at": "2022-03-18T04:47:04+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db71a0f3254c527925175a57fe12afb493b7d929db0c93a242454961403f198c",
+  "company": {
+    "key": "yc-slash",
+    "name": "Slash"
+  },
+  "source": {
+    "id": "yc-slash-news-import-9ec40849fc98",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.slash.com/engineering/blog/health-checks",
+    "canonical": "https://www.slash.com/engineering/blog/health-checks"
+  },
+  "title": "Health Checks",
+  "summary": "How Slash engineers built a scalable Health Checks system to continuously verify data correctness in production, powering billions in spend.",
+  "published_at": "2025-04-21T11:28:00+00:00",
+  "first_seen_at": "2026-07-24T01:09:43.930358+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T22:26:23.597986+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-slash/2025/04/db/db71a0f3254c527925175a57fe12afb493b7d929db0c93a242454961403f198c/article.md",
+    "record": "articles/v1/c4/yc-slash/2025/04/db/db71a0f3254c527925175a57fe12afb493b7d929db0c93a242454961403f198c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11246,
+    "sha256": "sha256:fe05ea402314aad8789db5302c7a61799bae360a3553506272bf3e6191f4fc4c",
+    "normalized_content_hash": "sha256:66c60be37b0c548b40df1811688b1b0ec1d9e3b1b79dc2b1b6c205af0e119646"
+  },
+  "provenance": {
+    "source_item_id": "9fdb2166-a694-45e0-ab1e-91099a6b2c7e",
+    "external_id": "https://www.slash.com/engineering/blog/health-checks"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "678980db13b34386de4c7b218bf01d9b9ab14761ce61ee0e983313d5e4d262be",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/what-is-dmarc",
+    "canonical": "https://bird.com/en-us/blog/what-is-dmarc"
+  },
+  "title": "What is DMARC?",
+  "summary": "DMARC stands for Domain-based Message Authentication, Reporting and Conformance. Here's what it does, why it exists, and how it guards your domain.",
+  "published_at": "2026-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/05/67/678980db13b34386de4c7b218bf01d9b9ab14761ce61ee0e983313d5e4d262be/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/05/67/678980db13b34386de4c7b218bf01d9b9ab14761ce61ee0e983313d5e4d262be/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5227,
+    "sha256": "sha256:2be34fce7e3f227eb4f4da5b370cc09b221f4e6c60ed3e1c0211d860ca1195a8",
+    "normalized_content_hash": "sha256:e3b5c929b5eb788996de8ea03afb63c2a9a220743f9fcdc1f05f37dee5569b07"
+  },
+  "provenance": {
+    "source_item_id": "3e6a9682-5ec9-4403-b23e-87ccc5b29572",
+    "external_id": "https://bird.com/en-us/blog/what-is-dmarc"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "sanofi-ads",
+    "name": "Sanofi"
+  },
+  "record_count": 5,
+  "first_published_at": "2026-05-18T19:47:00+00:00",
+  "last_published_at": "2026-07-24T12:51:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fb/sanofi-ads/index/pages/000001.json",
+        "record_count": 5,
+        "byte_count": 5196,
+        "sha256": "sha256:c52cc52f1ba71c33ce39c43d46c5b04f92e1b7df47fadcb432e654242ea86030",
+        "newest_at": "2026-07-24T12:51:00+00:00",
+        "oldest_at": "2026-05-18T19:47:00+00:00"
+      }
+    ]
+  }
+}

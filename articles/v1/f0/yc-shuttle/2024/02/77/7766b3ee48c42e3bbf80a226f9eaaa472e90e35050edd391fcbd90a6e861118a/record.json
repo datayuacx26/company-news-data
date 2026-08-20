@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7766b3ee48c42e3bbf80a226f9eaaa472e90e35050edd391fcbd90a6e861118a",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/02/29/async-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/02/29/async-rust"
+  },
+  "title": "Async Rust in a Nutshell",
+  "summary": "Exploring how async Rust works, async primitives and using async in Rust traits",
+  "published_at": "2024-02-29T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:14.489943+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/02/77/7766b3ee48c42e3bbf80a226f9eaaa472e90e35050edd391fcbd90a6e861118a/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/02/77/7766b3ee48c42e3bbf80a226f9eaaa472e90e35050edd391fcbd90a6e861118a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14105,
+    "sha256": "sha256:6f6cae4b4e2b176195e4539a48b084b9c6e0817edc3367981ffa5a8becdbbf8b",
+    "normalized_content_hash": "sha256:0a81b350179e96bb0d23a5d3094b6306e8bfca964d875c8075d05c8686cd35dd"
+  },
+  "provenance": {
+    "source_item_id": "1e055110-4fc5-4c9d-a2c9-03dc78d8d18a",
+    "external_id": "https://www.shuttle.dev/blog/2024/02/29/async-rust"
+  }
+}

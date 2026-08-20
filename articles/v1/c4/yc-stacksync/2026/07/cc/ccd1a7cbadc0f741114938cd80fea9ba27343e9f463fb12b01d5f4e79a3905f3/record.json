@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ccd1a7cbadc0f741114938cd80fea9ba27343e9f463fb12b01d5f4e79a3905f3",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-sql-server-with-salesforce",
+    "canonical": "https://www.stacksync.com/blog/sync-sql-server-with-salesforce"
+  },
+  "title": "One Row, One Record: Sync SQL Server With Salesforce",
+  "summary": "How to sync SQL Server with Salesforce: turn on CDC or change tracking, map your key to an External ID, backfill once, then run change capture both ways.",
+  "published_at": "2026-07-23T10:05:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/cc/ccd1a7cbadc0f741114938cd80fea9ba27343e9f463fb12b01d5f4e79a3905f3/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/cc/ccd1a7cbadc0f741114938cd80fea9ba27343e9f463fb12b01d5f4e79a3905f3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14902,
+    "sha256": "sha256:a66e3fd8ff49e6a026035228745f486511917a37bf8e2afe6ac43c7d3feaca61",
+    "normalized_content_hash": "sha256:9bca48982f8892b19dd29b2837965ae87b37eb89d003b86a5491f7d464fd4339"
+  },
+  "provenance": {
+    "source_item_id": "87971c2a-39ef-4b86-9436-03170010fa2b",
+    "external_id": "https://www.stacksync.com/blog/sync-sql-server-with-salesforce"
+  }
+}

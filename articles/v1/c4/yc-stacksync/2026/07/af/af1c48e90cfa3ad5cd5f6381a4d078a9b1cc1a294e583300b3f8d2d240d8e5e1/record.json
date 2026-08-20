@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af1c48e90cfa3ad5cd5f6381a4d078a9b1cc1a294e583300b3f8d2d240d8e5e1",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/connect-snowflake-two-way-sync-no-certificates",
+    "canonical": "https://www.stacksync.com/blog/connect-snowflake-two-way-sync-no-certificates"
+  },
+  "title": "How to Connect Snowflake for Two-Way Sync (No Certificates Needed)",
+  "summary": "Is connecting Snowflake as easy as a CRM? Yes. Generate an access token, paste it in, and sync both ways. No certificate files, no key-pair rotation to manage.",
+  "published_at": "2026-07-20T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-07-28T21:11:14.158520+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/af/af1c48e90cfa3ad5cd5f6381a4d078a9b1cc1a294e583300b3f8d2d240d8e5e1/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/af/af1c48e90cfa3ad5cd5f6381a4d078a9b1cc1a294e583300b3f8d2d240d8e5e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7275,
+    "sha256": "sha256:77568815b45eb62406a9bd571fe03b9b97636fdb4b641347388c3510119f6e39",
+    "normalized_content_hash": "sha256:cdfabeccdec33af1f3c9c2331b6e0b7c9d55e2ead50854cdcb2ff4dfe7b38665"
+  },
+  "provenance": {
+    "source_item_id": "6969ba19-aca8-466d-92e3-9cff7ad1bdb8",
+    "external_id": "https://www.stacksync.com/blog/connect-snowflake-two-way-sync-no-certificates"
+  }
+}

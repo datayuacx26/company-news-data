@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51a534bf5b4b804177ad24b909a049b84434dfcf847138e535d8bc99fd737a34",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/wp-workbench-version-2-0-6-released/135842",
+    "canonical": "https://forum.virtualmin.com/t/wp-workbench-version-2-0-6-released/135842"
+  },
+  "title": "WP Workbench version 2.0.6 released",
+  "summary": "Howdy all, We’ve rolled out WP Workbench 2.0.6 plugin for all Virtualmin Pro users. Changes since 2.0.5: Fix to skip loading plugins and themes code in WP-CLI calls to avoid fatal errors Fix to correctly handle errors from WP-CLI output",
+  "published_at": "2025-11-20T22:08:45+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2025/11/51/51a534bf5b4b804177ad24b909a049b84434dfcf847138e535d8bc99fd737a34/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2025/11/51/51a534bf5b4b804177ad24b909a049b84434dfcf847138e535d8bc99fd737a34/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1313,
+    "sha256": "sha256:aeb56ead395b4971165080cdff375ec92c700f1737bcea1161ed3584e72f4ca8",
+    "normalized_content_hash": "sha256:2241eafb22f12fe979a9c04347909b687b8d700313c267b198101aa3b37aa38c"
+  },
+  "provenance": {
+    "source_item_id": "9af9a542-b099-4b2f-a622-341cd101f43e",
+    "external_id": "forum.virtualmin.com-topic-135842"
+  }
+}

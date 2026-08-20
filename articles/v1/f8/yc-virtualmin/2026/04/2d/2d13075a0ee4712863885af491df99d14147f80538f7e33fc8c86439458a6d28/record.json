@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2d13075a0ee4712863885af491df99d14147f80538f7e33fc8c86439458a6d28",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/webmin-2-630-and-usermin-2-530-released/136949",
+    "canonical": "https://forum.virtualmin.com/t/webmin-2-630-and-usermin-2-530-released/136949"
+  },
+  "title": "Webmin 2.630 and Usermin 2.530 released",
+  "summary": "Howdy all, We’ve rolled out Webmin 2.630 and Usermin 2.530 to all Virtualmin repos. Changes since 2.621 and 2.521: Add improvements to user input validation across all modules Update Authentic theme to the latest version with various improvements and fixes: Add a new airy button style to the light palette to match the dark one Fix to optimize stats server to reduce WebSocket memory usage Fix the real-time follow indicator when viewing the journal Fix regex-based match highlighting when view...",
+  "published_at": "2026-04-05T09:34:31+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/04/2d/2d13075a0ee4712863885af491df99d14147f80538f7e33fc8c86439458a6d28/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/04/2d/2d13075a0ee4712863885af491df99d14147f80538f7e33fc8c86439458a6d28/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2670,
+    "sha256": "sha256:899987261d478d4bb7cbb14b0439fab74e8ec64abb23fa41e2cc288227e67926",
+    "normalized_content_hash": "sha256:ea8108c2a9b7354c5e629e747baa9785b9cb2ad32feab5a950fa663c84045857"
+  },
+  "provenance": {
+    "source_item_id": "bec320f8-44f5-4c02-af43-887407313bf9",
+    "external_id": "forum.virtualmin.com-topic-136949"
+  }
+}

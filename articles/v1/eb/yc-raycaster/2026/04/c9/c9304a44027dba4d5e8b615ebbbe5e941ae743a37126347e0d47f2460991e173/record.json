@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c9304a44027dba4d5e8b615ebbbe5e941ae743a37126347e0d47f2460991e173",
+  "company": {
+    "key": "yc-raycaster",
+    "name": "Raycaster"
+  },
+  "source": {
+    "id": "yc-raycaster-news-import-a1693d0ab1b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.raycaster.ai/blog/officeqa-pro-sota-document-harness",
+    "canonical": "https://www.raycaster.ai/blog/officeqa-pro-sota-document-harness"
+  },
+  "title": "Beating Frontier Models on OfficeQA Pro at 10x Lower Cost",
+  "summary": "OfficeQA Pro scores agents on grounded Treasury Bulletin QA. We held the public Databricks parse fixed and pushed Gemini 3 Flash to the strongest accuracy we are aware of on that suite—at a fraction of the cost—with retrieval, anchoring, and harness discipline above the parse.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:29:25.527103+00:00",
+  "fetched_at": "2026-07-28T22:15:57.305389+00:00",
+  "last_updated_at": "2026-08-19T23:10:37.621421+00:00",
+  "paths": {
+    "article": "articles/v1/eb/yc-raycaster/2026/04/c9/c9304a44027dba4d5e8b615ebbbe5e941ae743a37126347e0d47f2460991e173/article.md",
+    "record": "articles/v1/eb/yc-raycaster/2026/04/c9/c9304a44027dba4d5e8b615ebbbe5e941ae743a37126347e0d47f2460991e173/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9043,
+    "sha256": "sha256:e8c43a658c517826cd063fa0455b4b06eee1aeaa74e6a8be2e5262230ea7f16f",
+    "normalized_content_hash": "sha256:facba58e95c218303bb455a5a46cd787bd558b3b7550bd2c9ecde885236b891b"
+  },
+  "provenance": {
+    "source_item_id": "d808dab0-e8bf-4650-88ce-7d0b031d0d4f",
+    "external_id": "https://www.raycaster.ai/blog/officeqa-pro-sota-document-harness"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4caae36ea01e69eda7ebb8345d324dbd84b9b07a8c2ee958a01122722d83aff",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/pricing-compliance-without-rewrites",
+    "canonical": "https://rulebricks.com/blog/pricing-compliance-without-rewrites"
+  },
+  "title": "Pricing Compliance Without Rewrites",
+  "summary": "How to separate multi-state pricing compliance from core pricing logic using versioned APIs, auditable rules, and decision tables.",
+  "published_at": "2026-03-28T01:07:15+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-08-20T02:04:19.262566+00:00",
+  "last_updated_at": "2026-08-20T02:04:19.304136+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/03/d4/d4caae36ea01e69eda7ebb8345d324dbd84b9b07a8c2ee958a01122722d83aff/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/03/d4/d4caae36ea01e69eda7ebb8345d324dbd84b9b07a8c2ee958a01122722d83aff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 686,
+    "sha256": "sha256:3529ad361cf2225eab40244223a03eaf0b81417d1212ade68809b91f444ea4a7",
+    "normalized_content_hash": "sha256:88c31905d450ed3325b060151255be708993c9b74e796508f32be5dbcade84f5"
+  },
+  "provenance": {
+    "source_item_id": "16b6310d-c426-4235-a952-93dbc02384d7",
+    "external_id": "https://rulebricks.com/blog/pricing-compliance-without-rewrites"
+  }
+}

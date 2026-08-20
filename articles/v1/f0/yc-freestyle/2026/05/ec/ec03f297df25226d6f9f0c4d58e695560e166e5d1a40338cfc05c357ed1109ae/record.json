@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec03f297df25226d6f9f0c4d58e695560e166e5d1a40338cfc05c357ed1109ae",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/engineering/how-to-build-deep-research-agents-on-freestyle",
+    "canonical": "https://www.freestyle.sh/blog/engineering/how-to-build-deep-research-agents-on-freestyle"
+  },
+  "title": "How to Build Deep Research Agents on Freestyle",
+  "summary": "A practical guide to building deep research agents on Freestyle VMs: snapshot findings, live-fork agent state, and run parallel exploration without redoing work.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:26:33.334256+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/05/ec/ec03f297df25226d6f9f0c4d58e695560e166e5d1a40338cfc05c357ed1109ae/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/05/ec/ec03f297df25226d6f9f0c4d58e695560e166e5d1a40338cfc05c357ed1109ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13783,
+    "sha256": "sha256:96a7f739bd76cad82112a0686262eb2b24f9dbd16db6bd3ada6e5ac11188bcc5",
+    "normalized_content_hash": "sha256:5f66f481254e9d939942685ae0399710e08e804ec8e5c8cbec6b1d87c34dab0f"
+  },
+  "provenance": {
+    "source_item_id": "e26c48cc-4eb1-4dc6-b5a5-b8b0c47a8e78",
+    "external_id": "https://www.freestyle.sh/blog/engineering/how-to-build-deep-research-agents-on-freestyle"
+  }
+}

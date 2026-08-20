@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8cac69118d55b27435a7383b0d1f43877ec0f4fab57225b725609a0f869cc558",
+  "company": {
+    "key": "yc-magicbell",
+    "name": "MagicBell"
+  },
+  "source": {
+    "id": "yc-magicbell-news-import-9a6b19b555ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.magicbell.com/blog/notification-system-design",
+    "canonical": "https://www.magicbell.com/blog/notification-system-design"
+  },
+  "title": "Notification System Design: Architecture & Best Practices",
+  "summary": "Complete guide to notification system design covering architecture components, design patterns, scalability strategies, and system design interview prep.",
+  "published_at": "2026-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T03:05:45.790203+00:00",
+  "fetched_at": "2026-07-28T22:17:51.657377+00:00",
+  "last_updated_at": "2026-08-19T18:43:36.382071+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-magicbell/2026/03/8c/8cac69118d55b27435a7383b0d1f43877ec0f4fab57225b725609a0f869cc558/article.md",
+    "record": "articles/v1/cd/yc-magicbell/2026/03/8c/8cac69118d55b27435a7383b0d1f43877ec0f4fab57225b725609a0f869cc558/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 51166,
+    "sha256": "sha256:6f942af99c6ababddbdb5d332dd05b9646a5164ee9ffb4d0aea6442ec76d1d77",
+    "normalized_content_hash": "sha256:a9bf7db537bcdcaa56db21cf86a17e305561a80dc2e0fa631f64efa6aa82bb67"
+  },
+  "provenance": {
+    "source_item_id": "2cab1a60-5e7d-41b0-8fd3-889b33a495c8",
+    "external_id": "https://www.magicbell.com/blog/notification-system-design"
+  }
+}

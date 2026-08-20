@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4bbc804addb12bbae3fde247f7c1a19e9ea1c18c50089be5fec6941e1cb72f93",
+  "company": {
+    "key": "yc-unsiloed-ai",
+    "name": "Unsiloed AI"
+  },
+  "source": {
+    "id": "yc-unsiloed-ai-news-import-f01c67e8267b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.unsiloed.ai/blog/why-multi-page-tables-still-break-every-extraction-pipeline",
+    "canonical": "https://www.unsiloed.ai/blog/why-multi-page-tables-still-break-every-extraction-pipeline"
+  },
+  "title": "Why multi-page tables still break every extraction pipeline",
+  "summary": "Open a schedule of investments from any mid-sized fund's annual report. The table starts on page 12 and ends on page 17. It has 400+ rows, multi-level column headers, and a grand total row that only appears on the last page. Every page in between repeats the column headers but not the multi-level gr",
+  "published_at": "2026-03-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:07:01.705483+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-20T03:12:47.029800+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-unsiloed-ai/2026/03/4b/4bbc804addb12bbae3fde247f7c1a19e9ea1c18c50089be5fec6941e1cb72f93/article.md",
+    "record": "articles/v1/ea/yc-unsiloed-ai/2026/03/4b/4bbc804addb12bbae3fde247f7c1a19e9ea1c18c50089be5fec6941e1cb72f93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5218,
+    "sha256": "sha256:a56516459ae5b55a1e3aa9c1b1b3aba7675ddfca9d0e9cfbf7d107622e0bb0d2",
+    "normalized_content_hash": "sha256:25d1b7917e88bea28e5d9d09eef8faec236184b7e69acc2e75b47b7098a1cf48"
+  },
+  "provenance": {
+    "source_item_id": "cfc533cf-7e41-482c-9b21-9b57e4df2267",
+    "external_id": "https://www.unsiloed.ai/blog/why-multi-page-tables-still-break-every-extraction-pipeline"
+  }
+}

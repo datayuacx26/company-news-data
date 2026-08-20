@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bb37b32d19bfab88b31a6329cd5d816fffa049fdbd1dbd164f7b29bf11d5967",
+  "company": {
+    "key": "yc-unsiloed-ai",
+    "name": "Unsiloed AI"
+  },
+  "source": {
+    "id": "yc-unsiloed-ai-news-import-f01c67e8267b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.unsiloed.ai/blog/unsiloed-ai-vs-extend-reducto-mistral-claude",
+    "canonical": "https://www.unsiloed.ai/blog/unsiloed-ai-vs-extend-reducto-mistral-claude"
+  },
+  "title": "Which Document Extraction API Can You Actually Trust?",
+  "summary": "We ran the same finance and medical documents through six extraction APIs and scored every result with checks you can rerun. The values agreed more than the confidence signals did.",
+  "published_at": "2026-07-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:07:01.705483+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-20T03:12:47.029800+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-unsiloed-ai/2026/07/9b/9bb37b32d19bfab88b31a6329cd5d816fffa049fdbd1dbd164f7b29bf11d5967/article.md",
+    "record": "articles/v1/ea/yc-unsiloed-ai/2026/07/9b/9bb37b32d19bfab88b31a6329cd5d816fffa049fdbd1dbd164f7b29bf11d5967/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5515,
+    "sha256": "sha256:8608b1ac0b3fc4f54eea10030a9e5d3de96093dc8b4a2f048f10d9ea73dd2fd9",
+    "normalized_content_hash": "sha256:ca25ac150689deaf8904649e56d258ec8144748d392828834b35a4ce2c9466d1"
+  },
+  "provenance": {
+    "source_item_id": "516ade89-31f6-454d-a648-a7a9b947664b",
+    "external_id": "https://www.unsiloed.ai/blog/unsiloed-ai-vs-extend-reducto-mistral-claude"
+  }
+}

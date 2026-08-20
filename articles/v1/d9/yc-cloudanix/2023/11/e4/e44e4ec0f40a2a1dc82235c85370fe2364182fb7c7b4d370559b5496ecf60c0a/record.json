@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e44e4ec0f40a2a1dc82235c85370fe2364182fb7c7b4d370559b5496ecf60c0a",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/how-to-use-cspm-to-detect-and-remediate-cloud-misconfigurations/",
+    "canonical": "https://www.cloudanix.com/blog/how-to-use-cspm-to-detect-and-remediate-cloud-misconfigurations/"
+  },
+  "title": "How to use CSPM to detect and remediate cloud misconfigurations",
+  "summary": "Learn how CSPM detects and remediates cloud misconfigurations across AWS, Azure, and GCP. Reduce your attack surface with automated posture management.",
+  "published_at": "2023-11-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:01:37.179147+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2023/11/e4/e44e4ec0f40a2a1dc82235c85370fe2364182fb7c7b4d370559b5496ecf60c0a/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2023/11/e4/e44e4ec0f40a2a1dc82235c85370fe2364182fb7c7b4d370559b5496ecf60c0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8038,
+    "sha256": "sha256:e3735d794078d079e3d265ddfdcedf9791e1f302011d9f6bc6bf82286ceff76e",
+    "normalized_content_hash": "sha256:00025f85577bf6d3bb64d3f0198f337894354ed18348a436bec5a25aa3b315df"
+  },
+  "provenance": {
+    "source_item_id": "8cb74351-61c1-49f2-8dd3-7c8bf9708b9f",
+    "external_id": "https://www.cloudanix.com/blog/how-to-use-cspm-to-detect-and-remediate-cloud-misconfigurations/"
+  }
+}

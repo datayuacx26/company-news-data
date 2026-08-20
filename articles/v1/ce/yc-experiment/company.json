@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-experiment",
+    "name": "Experiment"
+  },
+  "record_count": 20,
+  "first_published_at": "2015-04-22T03:58:35+00:00",
+  "last_published_at": "2022-03-06T08:50:21+00:00",
+  "partitions": [
+    {
+      "partition": "2015-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ce/yc-experiment/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 20598,
+        "sha256": "sha256:51d5ef85fe2a544fa8155094b242d324c7c456fe6d86e048b94152f120f47ffc",
+        "newest_at": "2022-03-06T08:50:21+00:00",
+        "oldest_at": "2015-04-22T03:58:35+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6e564703e4c97c52a4cfd7e3e0428bba9bd7b6d74e2f7192ce4d62726f686206",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/securing-cursor-windsurf-claude-code",
+    "canonical": "https://getunbound.ai/blog/securing-cursor-windsurf-claude-code"
+  },
+  "title": "Securing Cursor, Codex, and Claude Code: A Comparison of AI Coding Agent Risks",
+  "summary": "Compare the security architectures and risk profiles of Cursor, Codex, and Claude Code. Understand what each tool accesses and how to govern them with one policy engine.",
+  "published_at": "2026-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/03/6e/6e564703e4c97c52a4cfd7e3e0428bba9bd7b6d74e2f7192ce4d62726f686206/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/03/6e/6e564703e4c97c52a4cfd7e3e0428bba9bd7b6d74e2f7192ce4d62726f686206/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5784,
+    "sha256": "sha256:b53b7def26b05edddabd939d2c7f5c041628a339e1b84290067ec323dddd569b",
+    "normalized_content_hash": "sha256:bc6bc37e857662d6e50f5728881cb2e0d1dfd017b6a87418c108bdcffb61aae0"
+  },
+  "provenance": {
+    "source_item_id": "c29e9eef-c5d9-40f1-9058-f593169826a9",
+    "external_id": "https://getunbound.ai/blog/securing-cursor-windsurf-claude-code"
+  }
+}

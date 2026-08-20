@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ef600c7dd8b7010315f27e343caf182a81074573315a2643e3d05441afcabbbb",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/scaling-our-highlights-server",
+    "canonical": "https://exa.ai/blog/scaling-our-highlights-server"
+  },
+  "title": "Scaling our highlights server",
+  "summary": "This AI research blog post details the engineering challenges and solutions we tackled while scaling our highlights server, a key component of our neural network search engine.",
+  "published_at": "2024-02-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2024/02/ef/ef600c7dd8b7010315f27e343caf182a81074573315a2643e3d05441afcabbbb/article.md",
+    "record": "articles/v1/c3/yc-exa/2024/02/ef/ef600c7dd8b7010315f27e343caf182a81074573315a2643e3d05441afcabbbb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5684,
+    "sha256": "sha256:a90f510828b58c09798878efe7d3f776f53274a8089c46d7300f1382ead17118",
+    "normalized_content_hash": "sha256:8a485426f7d0a9c62a50da8ccd23cd1597a232d50cbec7db058d1bac8be91580"
+  },
+  "provenance": {
+    "source_item_id": "e018eef5-b864-4af7-810f-b72cc2106879",
+    "external_id": "https://exa.ai/blog/scaling-our-highlights-server"
+  }
+}

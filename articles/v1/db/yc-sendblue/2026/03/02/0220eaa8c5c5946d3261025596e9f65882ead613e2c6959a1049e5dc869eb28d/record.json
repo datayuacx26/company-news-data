@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0220eaa8c5c5946d3261025596e9f65882ead613e2c6959a1049e5dc869eb28d",
+  "company": {
+    "key": "yc-sendblue",
+    "name": "Sendblue"
+  },
+  "source": {
+    "id": "yc-sendblue-news-import-cbfb84d5bb49",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sendblue.com/blog/imessage-api-go",
+    "canonical": "https://www.sendblue.com/blog/imessage-api-go"
+  },
+  "title": "How to Send iMessages from Go (Golang)",
+  "summary": "Send iMessages from Go using the Sendblue API. Includes examples with net/http, JSON marshaling, and webhook server setup.",
+  "published_at": "2026-03-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T13:05:24.258144+00:00",
+  "fetched_at": "2026-07-28T21:38:24.318832+00:00",
+  "last_updated_at": "2026-07-28T21:39:54.869716+00:00",
+  "paths": {
+    "article": "articles/v1/db/yc-sendblue/2026/03/02/0220eaa8c5c5946d3261025596e9f65882ead613e2c6959a1049e5dc869eb28d/article.md",
+    "record": "articles/v1/db/yc-sendblue/2026/03/02/0220eaa8c5c5946d3261025596e9f65882ead613e2c6959a1049e5dc869eb28d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2033,
+    "sha256": "sha256:812c7207f4be19255b07be4ee381b943408e4ac3291c19fa85ad98465c3c17d5",
+    "normalized_content_hash": "sha256:01843db894bb35fb2f1a7233050ce1ba6a7001d80c87712c9bedd9c76ab55684"
+  },
+  "provenance": {
+    "source_item_id": "f786c554-c394-447a-a2e8-94e38aaea1a7",
+    "external_id": "https://www.sendblue.com/blog/imessage-api-go"
+  }
+}

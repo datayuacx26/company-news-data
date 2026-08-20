@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "242a56e26c0a95d65925e405b6ba69a2c2b5c1ddca29d525cc08083eed6529e4",
+  "company": {
+    "key": "yc-emergent",
+    "name": "Emergent"
+  },
+  "source": {
+    "id": "yc-emergent-news-import-16a7bf482038",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emergent.sh/news/openai-huggingface-security-partnership-b4d58",
+    "canonical": "https://emergent.sh/news/openai-huggingface-security-partnership-b4d58"
+  },
+  "title": "OpenAI & Hugging Face Security Incident Revealed",
+  "summary": "OpenAI and Hugging Face disclose a security incident during model evaluation. Learn what happened, how it was contained, and what it means for AI safety.",
+  "published_at": "2026-07-30T05:52:15+00:00",
+  "first_seen_at": "2026-07-30T15:32:28.251381+00:00",
+  "fetched_at": "2026-07-30T15:32:29.323302+00:00",
+  "last_updated_at": "2026-07-30T15:32:29.504461+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-emergent/2026/07/24/242a56e26c0a95d65925e405b6ba69a2c2b5c1ddca29d525cc08083eed6529e4/article.md",
+    "record": "articles/v1/c4/yc-emergent/2026/07/24/242a56e26c0a95d65925e405b6ba69a2c2b5c1ddca29d525cc08083eed6529e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5208,
+    "sha256": "sha256:d0f34cf82a937ee5489af0d25468ede7e6f52fc5dec0d05bcbd5bfd26d5423d4",
+    "normalized_content_hash": "sha256:d69ea9d101b653f1ad844e5106ea4f1741fb9b155a0b7593816d7ec2c84083a8"
+  },
+  "provenance": {
+    "source_item_id": "2ede161b-9d38-4a50-b913-a68f1357a23a",
+    "external_id": "https://emergent.sh/news/openai-huggingface-security-partnership-b4d58"
+  }
+}

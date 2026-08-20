@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "68f1bf20f779df9499f2436a155c5bed4e5ebbad8aa1895be9e196ddb0cec626",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/03/07/stripe-payments-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/03/07/stripe-payments-rust"
+  },
+  "title": "Using Stripe Payments with Rust",
+  "summary": "Exploring how to use Stripe Payments in a Rust application so you can get paid.",
+  "published_at": "2024-03-07T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:08.375343+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/03/68/68f1bf20f779df9499f2436a155c5bed4e5ebbad8aa1895be9e196ddb0cec626/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/03/68/68f1bf20f779df9499f2436a155c5bed4e5ebbad8aa1895be9e196ddb0cec626/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16269,
+    "sha256": "sha256:f0d53e72baaea70183408605f473710e70b76d7e6e28139847a8c207769b71a1",
+    "normalized_content_hash": "sha256:ebbb693fffffbba35e3cc36da945b8e244ee0811264e376334d46e3c6a384258"
+  },
+  "provenance": {
+    "source_item_id": "a60e2bc5-fe1d-4ad4-96b8-68f22bc91b2f",
+    "external_id": "https://www.shuttle.dev/blog/2024/03/07/stripe-payments-rust"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "edgewise-therapeutics-inc-common-stock",
+    "name": "Edgewise Therapeutics Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-03-10T11:00:00+00:00",
+  "last_published_at": "2026-08-06T12:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f2/edgewise-therapeutics-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 22574,
+        "sha256": "sha256:19511ce8de734564ce51620418c894ad16ce71fc22266c3556a54b00b30b6a73",
+        "newest_at": "2026-08-06T12:00:00+00:00",
+        "oldest_at": "2026-03-10T11:00:00+00:00"
+      }
+    ]
+  }
+}

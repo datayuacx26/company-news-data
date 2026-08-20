@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a9f9eae66eb6a1111af95c63db34dac6ecfe1b08da1f34e106917280e11108ca",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/02/13/clerk-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/02/13/clerk-in-rust"
+  },
+  "title": "Using Clerk authentication in Rust",
+  "summary": "Part 1: Building a Rust Actix Web backend with Clerk authentication.",
+  "published_at": "2024-02-13T17:00:01+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:15.382818+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/02/a9/a9f9eae66eb6a1111af95c63db34dac6ecfe1b08da1f34e106917280e11108ca/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/02/a9/a9f9eae66eb6a1111af95c63db34dac6ecfe1b08da1f34e106917280e11108ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17132,
+    "sha256": "sha256:01a87f045743904ca7a384022b2cb26f465bc774a0f44cd2d1b5235f4218b99a",
+    "normalized_content_hash": "sha256:012a73dde87deff86dab6f9d3222453961fd19db0e1f90b99499fc2cb3b420b2"
+  },
+  "provenance": {
+    "source_item_id": "62b4332e-c1fa-4da2-8287-2cb65a5111b4",
+    "external_id": "https://www.shuttle.dev/blog/2024/02/13/clerk-in-rust"
+  }
+}

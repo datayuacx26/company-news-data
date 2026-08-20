@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5e2ee5d829cd7b763dd167e57d2e59fdaaf5bbc03f3ff1426f33bf98d3af9db",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/from-attention-to-diversity",
+    "canonical": "https://www.overshoot.ai/blogs/from-attention-to-diversity"
+  },
+  "title": "From Attention to Diversity: How Visual Token Pruning Methods Decide What to Keep",
+  "summary": "A survey of nine visual token pruning methods — from FastV and SparseVLM to DivPrune, HiPrune++, and AnchorPrune — and how each decides what to keep.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T07:35:23.073828+00:00",
+  "fetched_at": "2026-07-30T07:35:24.294045+00:00",
+  "last_updated_at": "2026-08-03T17:04:28.114969+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/07/f5/f5e2ee5d829cd7b763dd167e57d2e59fdaaf5bbc03f3ff1426f33bf98d3af9db/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/07/f5/f5e2ee5d829cd7b763dd167e57d2e59fdaaf5bbc03f3ff1426f33bf98d3af9db/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9040,
+    "sha256": "sha256:5efb5e7cf2cb52b38048b5c0cf50279da3fb9944d1cbc7eb1264e5f1489dc815",
+    "normalized_content_hash": "sha256:7dbaa7e18ed9de943a00d07a4abbfedd4ddabf8ee904203b4ddbc73515f5d364"
+  },
+  "provenance": {
+    "source_item_id": "0c510d31-eadd-4875-a7dc-f10ed74af4f1",
+    "external_id": "https://www.overshoot.ai/blogs/from-attention-to-diversity"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee6b21ba26009f3852a7525613f9a27eb5579fafc3d9c9c3ba222dcf82475a95",
+  "company": {
+    "key": "federated-hermes-inc-common-stock",
+    "name": "Federated Hermes Inc."
+  },
+  "source": {
+    "id": "federated-hermes-inc-common-stock-news-import-e493f31fb4b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.federatedhermes.com/us/insights/article/summer-squall-brewing.do",
+    "canonical": "https://www.federatedhermes.com/us/insights/article/summer-squall-brewing.do"
+  },
+  "title": "Summer squall brewing",
+  "summary": "A weekly look at issues in the domestic United States economy, with a focus on the stock market.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:31:44.723777+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-06T05:48:22.200148+00:00",
+  "paths": {
+    "article": "articles/v1/e1/federated-hermes-inc-common-stock/2026/06/ee/ee6b21ba26009f3852a7525613f9a27eb5579fafc3d9c9c3ba222dcf82475a95/article.md",
+    "record": "articles/v1/e1/federated-hermes-inc-common-stock/2026/06/ee/ee6b21ba26009f3852a7525613f9a27eb5579fafc3d9c9c3ba222dcf82475a95/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9065,
+    "sha256": "sha256:3796a5a5e30d408dc915b3f3c4d6942f0235583c3cd5668922b1730fc7b2967f",
+    "normalized_content_hash": "sha256:1fca95c724bead33c5db134da5dc765cb44f1b455b005b31aecd70dbca973496"
+  },
+  "provenance": {
+    "source_item_id": "a74e59f3-f2eb-48d5-a926-e87c71dd9792",
+    "external_id": "https://www.federatedhermes.com/us/insights/article/summer-squall-brewing.do"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8c3f244cd741131d12af589458046411fd80f0e35c36e73fcc5847db592278d",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/product/riza-alternative-ai-agents",
+    "canonical": "https://www.freestyle.sh/blog/product/riza-alternative-ai-agents"
+  },
+  "title": "Riza Alternative for AI Agents",
+  "summary": "Riza is a focused code interpreter API for executing generated code, but AI agents that need terminals, services, ports, files, SSH, and long-running state need a real Linux VM.",
+  "published_at": "2026-06-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T23:31:13.198983+00:00",
+  "fetched_at": "2026-07-28T21:23:24.617893+00:00",
+  "last_updated_at": "2026-07-28T21:24:26.455742+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/f8/f8c3f244cd741131d12af589458046411fd80f0e35c36e73fcc5847db592278d/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/f8/f8c3f244cd741131d12af589458046411fd80f0e35c36e73fcc5847db592278d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10835,
+    "sha256": "sha256:f889ab530ead8b2e852ef189a2c0c0fad095ddffdabff6b13eee46ab71222f46",
+    "normalized_content_hash": "sha256:c4172ad558095d24acd102b5e779789a3003a384ba96a4ce6962669813d2ace2"
+  },
+  "provenance": {
+    "source_item_id": "4d934dc9-a9ee-4384-8e13-47b13b377674",
+    "external_id": "https://www.freestyle.sh/blog/product/riza-alternative-ai-agents"
+  }
+}

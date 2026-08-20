@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "90553f8a8ac6a9183bec04cb71dc45dcf1c6550ea63f69c25b35c4668062aa73",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/adtech-serving-layer-sprawl/",
+    "canonical": "https://www.singlestore.com/blog/adtech-serving-layer-sprawl/"
+  },
+  "title": "Why ad platforms end up running six databases to answer one question",
+  "summary": "Ad platforms split batch OLAP and real-time serving across a warehouse, a lakehouse and a row of point stores. Why the sprawl forms, what it costs, and what it stands in for.",
+  "published_at": "2026-07-09T11:08:13+00:00",
+  "first_seen_at": "2026-07-22T13:37:02.744795+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/07/90/90553f8a8ac6a9183bec04cb71dc45dcf1c6550ea63f69c25b35c4668062aa73/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/07/90/90553f8a8ac6a9183bec04cb71dc45dcf1c6550ea63f69c25b35c4668062aa73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16531,
+    "sha256": "sha256:e1bb8a759addb76ca6f6df3cbbde8a546ed2e9b9ac17876386522a47b96e097c",
+    "normalized_content_hash": "sha256:076019285c69350a38e9cf75207f0b41a90ea4bea083e0207f6bce0f5893e0c1"
+  },
+  "provenance": {
+    "source_item_id": "f2549fc4-fcb4-4c75-af73-5235f8a5d3a1",
+    "external_id": "https://www.singlestore.com/blog/adtech-serving-layer-sprawl/"
+  }
+}

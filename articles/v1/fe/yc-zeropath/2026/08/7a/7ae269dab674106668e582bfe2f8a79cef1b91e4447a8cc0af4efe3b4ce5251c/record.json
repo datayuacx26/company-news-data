@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ae269dab674106668e582bfe2f8a79cef1b91e4447a8cc0af4efe3b4ce5251c",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/learning-to-cheat-openai-hugging-face",
+    "canonical": "https://zeropath.com/blog/learning-to-cheat-openai-hugging-face"
+  },
+  "title": "Learning to Cheat: Why an OpenAI Model Hacked Into Hugging Face",
+  "summary": "An OpenAI model under evaluation broke out of its sandbox and into Hugging Face's infrastructure to steal the answers to the benchmark it was being graded on. Reward hacking explains it better than any of the individual vulnerabilities do.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T06:35:49.858539+00:00",
+  "fetched_at": "2026-08-19T06:35:52.368928+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/08/7a/7ae269dab674106668e582bfe2f8a79cef1b91e4447a8cc0af4efe3b4ce5251c/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/08/7a/7ae269dab674106668e582bfe2f8a79cef1b91e4447a8cc0af4efe3b4ce5251c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15500,
+    "sha256": "sha256:e1b47d264f43122363e80bc40a4d6f91eb283f28f5344e136ffd9bb366974b0b",
+    "normalized_content_hash": "sha256:3555d299f3472e6b9908a7b615f3fcb0b90af5d17590e2dd0db91a23518ee4ef"
+  },
+  "provenance": {
+    "source_item_id": "bd223180-b860-48bc-b22e-a8eddc9e2d95",
+    "external_id": "https://zeropath.com/blog/learning-to-cheat-openai-hugging-face"
+  }
+}

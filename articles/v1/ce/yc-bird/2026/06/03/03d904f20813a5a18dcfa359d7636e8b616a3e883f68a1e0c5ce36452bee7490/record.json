@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "03d904f20813a5a18dcfa359d7636e8b616a3e883f68a1e0c5ce36452bee7490",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/what-is-rcs-messaging",
+    "canonical": "https://bird.com/en-us/blog/what-is-rcs-messaging"
+  },
+  "title": "What Is RCS for Business?",
+  "summary": "RCS (Rich Communication Services) is the successor to SMS, adding rich media, read receipts, typing indicators, and verified business sender branding.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:23:21.398471+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/06/03/03d904f20813a5a18dcfa359d7636e8b616a3e883f68a1e0c5ce36452bee7490/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/06/03/03d904f20813a5a18dcfa359d7636e8b616a3e883f68a1e0c5ce36452bee7490/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6726,
+    "sha256": "sha256:85e7a7f1c6d5f69e505d3a0f2663b7a56491e24066c5849311e5a23aa94690a6",
+    "normalized_content_hash": "sha256:ebbafdb700e1acb4c0355f00c7e11805710168bad8cb6215150b63ca16134f75"
+  },
+  "provenance": {
+    "source_item_id": "b618d478-6239-41c2-86c6-849305149d40",
+    "external_id": "https://bird.com/en-us/blog/what-is-rcs-messaging"
+  }
+}

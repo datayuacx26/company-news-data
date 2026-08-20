@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4295980c0e1d3385f1206243aa48be5d2e408e83fe0bc51447c20aac0eb968b",
+  "company": {
+    "key": "yc-datasaur",
+    "name": "Datasaur"
+  },
+  "source": {
+    "id": "yc-datasaur-news-import-9dd599cb2858",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://datasaur.ai/blog/why-single-vendor-ai-dependence-is-becoming-a-serious-risk",
+    "canonical": "https://datasaur.ai/blog/why-single-vendor-ai-dependence-is-becoming-a-serious-risk"
+  },
+  "title": "Why Single-Vendor AI Dependence Is Becoming a Serious Risk",
+  "summary": "When access restrictions appeared at Anthropic it looked like an isolated incident, but similar approval bottlenecks are now emerging at OpenAI as well, and a pattern is harder to dismiss than an anomaly. Any organization that has built production workflows around a single external AI vendor has not made a technical choice, it has accepted an operational dependency it does not control.",
+  "published_at": "2026-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T15:28:56.996352+00:00",
+  "fetched_at": "2026-08-15T15:28:59.960180+00:00",
+  "last_updated_at": "2026-08-20T01:26:03.429280+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-datasaur/2026/07/a4/a4295980c0e1d3385f1206243aa48be5d2e408e83fe0bc51447c20aac0eb968b/article.md",
+    "record": "articles/v1/cd/yc-datasaur/2026/07/a4/a4295980c0e1d3385f1206243aa48be5d2e408e83fe0bc51447c20aac0eb968b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6220,
+    "sha256": "sha256:bbb288c77bc6c2ceb59f3cdf7417ee8bb2605846db0df54137920c3cf8f94256",
+    "normalized_content_hash": "sha256:e53aae921ea375cea2ee0c88c2b1e0aee2e49b6d0b6652079ed55e1aaa6b3ae5"
+  },
+  "provenance": {
+    "source_item_id": "db1e0569-fdfe-435d-ac93-7e23bd7b03e0",
+    "external_id": "https://datasaur.ai/blog/why-single-vendor-ai-dependence-is-becoming-a-serious-risk"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b81eac7ce8505e306faf97ec218a2ae8dc80a58be8a87b5e42ef3b3b2eea07fe",
+  "company": {
+    "key": "yc-warpbuild",
+    "name": "WarpBuild"
+  },
+  "source": {
+    "id": "yc-warpbuild-news-import-6421ae0a6624",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.warpbuild.com/blog/ai-assisted-development-ci-infrastructure",
+    "canonical": "https://warpbuild.com/blog/ai-assisted-development-ci-infrastructure"
+  },
+  "title": "Your CI Wasn't Built for AI-Assisted Development",
+  "summary": "Learn why CI pipelines break under AI-assisted development velocity. Discover how to fix queue times, cache thrashing, and flaky tests when using Copilot, Cursor, and other AI coding tools.",
+  "published_at": "2026-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:23:06.881853+00:00",
+  "fetched_at": "2026-07-28T22:23:44.568277+00:00",
+  "last_updated_at": "2026-08-19T19:07:02.741042+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-warpbuild/2026/01/b8/b81eac7ce8505e306faf97ec218a2ae8dc80a58be8a87b5e42ef3b3b2eea07fe/article.md",
+    "record": "articles/v1/c0/yc-warpbuild/2026/01/b8/b81eac7ce8505e306faf97ec218a2ae8dc80a58be8a87b5e42ef3b3b2eea07fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17588,
+    "sha256": "sha256:420bfb929293819dc89a78f03aa200a590be214a3f50b0effee6c7f9d65f214e",
+    "normalized_content_hash": "sha256:82e528ec5e881e7ff18c2a1b78e5e4b5cff5bd80d1f3d5bff00f36fe8661f4f7"
+  },
+  "provenance": {
+    "source_item_id": "83a027e0-b6f5-47b0-adb6-515e1e5814ef",
+    "external_id": "https://warpbuild.com/blog/ai-assisted-development-ci-infrastructure"
+  }
+}

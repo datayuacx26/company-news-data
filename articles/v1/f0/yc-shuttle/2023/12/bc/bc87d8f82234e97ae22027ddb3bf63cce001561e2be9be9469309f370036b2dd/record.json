@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bc87d8f82234e97ae22027ddb3bf63cce001561e2be9be9469309f370036b2dd",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/12/08/clap-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/12/08/clap-rust"
+  },
+  "title": "Writing a CLI Tool in Rust with Clap",
+  "summary": "Learn about how you can write a CLI tool with Clap by following this article. We also cover libraries that go well with Clap and example repositories.",
+  "published_at": "2023-12-08T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/12/bc/bc87d8f82234e97ae22027ddb3bf63cce001561e2be9be9469309f370036b2dd/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/12/bc/bc87d8f82234e97ae22027ddb3bf63cce001561e2be9be9469309f370036b2dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15808,
+    "sha256": "sha256:5fe3ce78058c7179ff7ea374f0fcc0599f9b567b5c61c27cd399d7fd80d62fe4",
+    "normalized_content_hash": "sha256:e245f21dbf1f6e16b868ab56327a01d10ec531651c38f1c705a6b0f05cb90f62"
+  },
+  "provenance": {
+    "source_item_id": "8ff4a2d7-02cf-4bfc-9282-d9d2f9197da3",
+    "external_id": "https://www.shuttle.dev/blog/2023/12/08/clap-rust"
+  }
+}

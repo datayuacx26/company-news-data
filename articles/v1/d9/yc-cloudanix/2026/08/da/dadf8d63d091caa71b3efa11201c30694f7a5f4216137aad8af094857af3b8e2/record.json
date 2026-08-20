@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "dadf8d63d091caa71b3efa11201c30694f7a5f4216137aad8af094857af3b8e2",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/aws-cspm-implementation-guide/",
+    "canonical": "https://www.cloudanix.com/blog/aws-cspm-implementation-guide/"
+  },
+  "title": "AWS CSPM: How to Implement Cloud Security Posture Management on AWS",
+  "summary": "Implement CSPM on AWS with this step-by-step guide. Compare Security Hub vs third-party tools, configure multi-account setups, and get posture visibility fast.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T06:33:25.999868+00:00",
+  "fetched_at": "2026-08-18T06:33:29.650102+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/08/da/dadf8d63d091caa71b3efa11201c30694f7a5f4216137aad8af094857af3b8e2/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/08/da/dadf8d63d091caa71b3efa11201c30694f7a5f4216137aad8af094857af3b8e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8008,
+    "sha256": "sha256:071dc28d382a217834459c4e4dc346e4ef9ad2931553f932da3066076f44a1c8",
+    "normalized_content_hash": "sha256:4335ff64e5f0645508e4e80b64d6404fa99ba31ce935965180551550cb858a8c"
+  },
+  "provenance": {
+    "source_item_id": "0fdeca28-e3eb-4b4e-8e47-cef7f34595dc",
+    "external_id": "https://www.cloudanix.com/blog/aws-cspm-implementation-guide/"
+  }
+}

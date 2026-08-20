@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e42abb001a92d8ebbc75ae381cd43aa81faf2b6516b3096cf91174713370aebc",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/enterprise-ipaas-twilio",
+    "canonical": "https://www.stacksync.com/blog/enterprise-ipaas-twilio"
+  },
+  "title": "Picking the Integration Layer That Can Actually Carry Twilio Traffic",
+  "summary": "The best iPaaS for Twilio is built for push: webhook and Event Streams capture, dedupe on MessageSid, and consent that syncs back to the CRM both ways.",
+  "published_at": "2026-07-23T13:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/e4/e42abb001a92d8ebbc75ae381cd43aa81faf2b6516b3096cf91174713370aebc/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/e4/e42abb001a92d8ebbc75ae381cd43aa81faf2b6516b3096cf91174713370aebc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17990,
+    "sha256": "sha256:82b817194ced2b3e52592ea92ea2a50319bdc8170ff82adab8ce2cff3425d0a7",
+    "normalized_content_hash": "sha256:6fde34d7c4600f1b45c89dc4a85bcbd6f913b23f7d94d32be14c1c31cd0db24a"
+  },
+  "provenance": {
+    "source_item_id": "447b90af-6588-4409-ab72-ce954454dfd6",
+    "external_id": "https://www.stacksync.com/blog/enterprise-ipaas-twilio"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9636fe5cce24f04827cd0460b6ed86779c1aac1ec0186e248eb253b72eba28c8",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "source": {
+    "id": "yc-sei-rss-1b5243482862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://seiright.com/blog/prompt-injection-defense-banking-ai-agents-red-team",
+    "canonical": "https://seiright.com/blog/prompt-injection-defense-banking-ai-agents-red-team"
+  },
+  "title": "Prompt Injection Defense for Banking AI Agents: Threat Model, Controls, and a Red-Team Cadence",
+  "summary": "Prompt injection is the highest-impact attack against an AI agent in a bank because the agent has tools that move money. The threat model, the architectural controls, and the red-team patterns we exercise before every deployment.",
+  "published_at": "2026-05-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.548292+00:00",
+  "fetched_at": "2026-08-20T02:20:29.244809+00:00",
+  "last_updated_at": "2026-08-20T02:20:29.306031+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-sei/2026/05/96/9636fe5cce24f04827cd0460b6ed86779c1aac1ec0186e248eb253b72eba28c8/article.md",
+    "record": "articles/v1/e4/yc-sei/2026/05/96/9636fe5cce24f04827cd0460b6ed86779c1aac1ec0186e248eb253b72eba28c8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 837,
+    "sha256": "sha256:cf9ea643b8e3c80b104251b68b4ac6057404227f20bd9c377b135fac92e597c6",
+    "normalized_content_hash": "sha256:7648f12b59a51309780cbc672cafd080f4351c32bbf80a487529a787f84a899f"
+  },
+  "provenance": {
+    "source_item_id": "bf09426f-bbce-46af-885b-30d1ba274bb2",
+    "external_id": "https://seiright.com/blog/prompt-injection-defense-banking-ai-agents-red-team"
+  }
+}

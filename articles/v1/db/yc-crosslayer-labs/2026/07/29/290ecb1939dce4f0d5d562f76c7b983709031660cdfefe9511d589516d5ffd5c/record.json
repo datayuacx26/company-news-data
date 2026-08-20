@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "290ecb1939dce4f0d5d562f76c7b983709031660cdfefe9511d589516d5ffd5c",
+  "company": {
+    "key": "yc-crosslayer-labs",
+    "name": "Crosslayer Labs"
+  },
+  "source": {
+    "id": "yc-crosslayer-labs-news-import-1ff9699339a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crosslayerlabs.com/blog/open-ai-hugging-face-sandbox",
+    "canonical": "https://www.crosslayerlabs.com/blog/open-ai-hugging-face-sandbox"
+  },
+  "title": "Potential Weaknesses in the OpenAI Sandbox that Could Have Contributed to the Hugging Face Incident",
+  "summary": "OpenAI's postmortem describes an agent that was sandboxed except for a package proxy that could fetch software from the Internet. That proxy sat in a bridge position between two networks, an architecture Princeton's security team would not tolerate on their own network years ago.",
+  "published_at": "2026-07-31T00:00:00+00:00",
+  "first_seen_at": "2026-08-02T06:38:03.777387+00:00",
+  "fetched_at": "2026-08-05T03:48:28.288743+00:00",
+  "last_updated_at": "2026-08-20T01:33:17.072509+00:00",
+  "paths": {
+    "article": "articles/v1/db/yc-crosslayer-labs/2026/07/29/290ecb1939dce4f0d5d562f76c7b983709031660cdfefe9511d589516d5ffd5c/article.md",
+    "record": "articles/v1/db/yc-crosslayer-labs/2026/07/29/290ecb1939dce4f0d5d562f76c7b983709031660cdfefe9511d589516d5ffd5c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8025,
+    "sha256": "sha256:f21b28e4f941ecd917677e111aa4b9e831672b12d02fc6cc1c5dfcc595f3d5db",
+    "normalized_content_hash": "sha256:a07ade64619925cf969ffa6a771da258b1fb3d11e85c7586796516c3ceedce7b"
+  },
+  "provenance": {
+    "source_item_id": "063ed374-9e16-4411-ade1-4cf88e067093",
+    "external_id": "https://www.crosslayerlabs.com/blog/open-ai-hugging-face-sandbox"
+  }
+}

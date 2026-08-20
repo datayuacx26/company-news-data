@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab1198ebfb7ca26b5a17669079e17a6e107eb289722e84658a59eb484e800390",
+  "company": {
+    "key": "yc-crosslayer-labs",
+    "name": "Crosslayer Labs"
+  },
+  "source": {
+    "id": "yc-crosslayer-labs-news-import-1ff9699339a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crosslayerlabs.com/blog/the-future-of-domain-control-validation",
+    "canonical": "https://www.crosslayerlabs.com/blog/the-future-of-domain-control-validation"
+  },
+  "title": "The future of Domain Control Validation (a.k.a. Why you should use DNS persist today)",
+  "summary": "Domain control validation is changing and its important to adopt technologies now that will scale and strengthen the future security of the PKI.",
+  "published_at": "2026-02-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:05:23.009021+00:00",
+  "fetched_at": "2026-07-28T22:21:23.355424+00:00",
+  "last_updated_at": "2026-08-20T01:33:17.072509+00:00",
+  "paths": {
+    "article": "articles/v1/db/yc-crosslayer-labs/2026/02/ab/ab1198ebfb7ca26b5a17669079e17a6e107eb289722e84658a59eb484e800390/article.md",
+    "record": "articles/v1/db/yc-crosslayer-labs/2026/02/ab/ab1198ebfb7ca26b5a17669079e17a6e107eb289722e84658a59eb484e800390/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14620,
+    "sha256": "sha256:97ea5295024e88054a487eeaadb4d7b2b56ebe44c427045743552f8266b1951b",
+    "normalized_content_hash": "sha256:909892ca05deb9e861aee9b279cfc0adab9f7143261b032a8d179a9238bba5bf"
+  },
+  "provenance": {
+    "source_item_id": "55620dd5-b36b-413b-b8c6-f2978b338c28",
+    "external_id": "https://www.crosslayerlabs.com/blog/the-future-of-domain-control-validation"
+  }
+}

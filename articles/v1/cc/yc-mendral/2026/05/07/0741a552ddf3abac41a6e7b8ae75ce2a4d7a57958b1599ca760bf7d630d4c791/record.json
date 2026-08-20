@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0741a552ddf3abac41a6e7b8ae75ce2a4d7a57958b1599ca760bf7d630d4c791",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-news-import-538be81b6878",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/how-we-know-if-our-agent-is-right",
+    "canonical": "https://mendral.com/blog/how-we-know-if-our-agent-is-right"
+  },
+  "title": "How We Know If Our Agent Is Right",
+  "summary": "36,564 investigations, no ground truth, and the eval signals we actually trust.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T00:32:33.388808+00:00",
+  "fetched_at": "2026-08-10T00:32:34.981599+00:00",
+  "last_updated_at": "2026-08-19T17:02:30.703158+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/05/07/0741a552ddf3abac41a6e7b8ae75ce2a4d7a57958b1599ca760bf7d630d4c791/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/05/07/0741a552ddf3abac41a6e7b8ae75ce2a4d7a57958b1599ca760bf7d630d4c791/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17695,
+    "sha256": "sha256:7cbba12813e4ee8d4756bd2b9d6bbb521acdcea8716a3f702265b1b6641bb036",
+    "normalized_content_hash": "sha256:1ba911007508ee70f2b3cea47299028414b894931fda37666310243722e3a54d"
+  },
+  "provenance": {
+    "source_item_id": "6b6a588c-eae6-4383-95df-645909e78133",
+    "external_id": "https://mendral.com/blog/how-we-know-if-our-agent-is-right"
+  }
+}

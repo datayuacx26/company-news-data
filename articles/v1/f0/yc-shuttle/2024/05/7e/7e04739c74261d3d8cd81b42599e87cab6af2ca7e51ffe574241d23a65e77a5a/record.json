@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e04739c74261d3d8cd81b42599e87cab6af2ca7e51ffe574241d23a65e77a5a",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/05/30/semantic-caching-qdrant-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/05/30/semantic-caching-qdrant-rust"
+  },
+  "title": "Implementing Semantic Caching with Qdrant & Rust",
+  "summary": "Using semantic caching for RAG in a Rust web service context and deploying it",
+  "published_at": "2024-05-30T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/05/7e/7e04739c74261d3d8cd81b42599e87cab6af2ca7e51ffe574241d23a65e77a5a/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/05/7e/7e04739c74261d3d8cd81b42599e87cab6af2ca7e51ffe574241d23a65e77a5a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23943,
+    "sha256": "sha256:6c75e7a23628c70764d206c082debb208770d47047d9ad01420d0d94c5a91072",
+    "normalized_content_hash": "sha256:c438488a9e4a3bb54c9930486ba3ef2245c90452af717b3a6b9fa433c3499b2b"
+  },
+  "provenance": {
+    "source_item_id": "a4645863-b64f-4a2c-b54a-96846fb2265b",
+    "external_id": "https://www.shuttle.dev/blog/2024/05/30/semantic-caching-qdrant-rust"
+  }
+}

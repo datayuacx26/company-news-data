@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-idemeum",
+    "name": "idemeum"
+  },
+  "record_count": 3,
+  "first_published_at": "2026-01-19T00:00:00+00:00",
+  "last_published_at": "2026-01-21T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/de/yc-idemeum/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 2876,
+        "sha256": "sha256:a729b2dbbb33920bb2aaf0ed799e9a023b032f144d937b0f8ecbba84b9ab79fc",
+        "newest_at": "2026-01-21T00:00:00+00:00",
+        "oldest_at": "2026-01-19T00:00:00+00:00"
+      }
+    ]
+  }
+}

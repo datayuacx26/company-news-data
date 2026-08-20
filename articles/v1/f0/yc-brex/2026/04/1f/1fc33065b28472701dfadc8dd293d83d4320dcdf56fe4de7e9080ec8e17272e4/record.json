@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fc33065b28472701dfadc8dd293d83d4320dcdf56fe4de7e9080ec8e17272e4",
+  "company": {
+    "key": "yc-brex",
+    "name": "Brex"
+  },
+  "source": {
+    "id": "yc-brex-news-import-5eb786253ae8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brex.com/journal/building-crabtrap-open-source",
+    "canonical": "https://www.brex.com/journal/building-crabtrap-open-source"
+  },
+  "title": "CrabTrap: an LLM-as-a-judge HTTP proxy to secure agents in production",
+  "summary": "Here's what we learned in building and open-sourcing CrabTrap, and why we believe it’s a major step forward in the security of agent harnesses.",
+  "published_at": "2026-04-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:29:48.523536+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-20T02:32:36.103129+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-brex/2026/04/1f/1fc33065b28472701dfadc8dd293d83d4320dcdf56fe4de7e9080ec8e17272e4/article.md",
+    "record": "articles/v1/f0/yc-brex/2026/04/1f/1fc33065b28472701dfadc8dd293d83d4320dcdf56fe4de7e9080ec8e17272e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9318,
+    "sha256": "sha256:8a64ae5937521a07261f66ab1a39b75cc08d6cdac013b97fbe0d5e6e54702c9d",
+    "normalized_content_hash": "sha256:0fafbed7699b49d8a29549ab594f44db72ff71acea73b7ff86ca39c23ede69e7"
+  },
+  "provenance": {
+    "source_item_id": "7bb30d05-df53-4b19-929c-95a571e206af",
+    "external_id": "https://www.brex.com/journal/building-crabtrap-open-source"
+  }
+}

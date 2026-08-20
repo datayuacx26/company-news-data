@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "s-t-bancorp-inc-common-stock",
+    "name": "S&T Bancorp Inc."
+  },
+  "record_count": 11,
+  "first_published_at": "2026-01-02T16:35:00+00:00",
+  "last_published_at": "2026-08-05T17:46:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/da/s-t-bancorp-inc-common-stock/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 18889,
+        "sha256": "sha256:031ce45276419766068af2c90570e60b688c55825d1dc864871ca8a52e79680f",
+        "newest_at": "2026-08-05T17:46:00+00:00",
+        "oldest_at": "2026-01-02T16:35:00+00:00"
+      }
+    ]
+  }
+}

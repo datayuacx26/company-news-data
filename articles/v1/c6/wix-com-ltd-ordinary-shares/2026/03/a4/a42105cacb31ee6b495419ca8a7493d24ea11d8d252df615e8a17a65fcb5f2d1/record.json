@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a42105cacb31ee6b495419ca8a7493d24ea11d8d252df615e8a17a65fcb5f2d1",
+  "company": {
+    "key": "wix-com-ltd-ordinary-shares",
+    "name": "Wix.com Ltd."
+  },
+  "source": {
+    "id": "wix-com-ltd-ordinary-shares-rss-e1d3c855eeb0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wix.engineering/post/1-000-servers-160-clusters-30-days-zero-downtime-migrating-wix-s-mysql-fleet-to-graviton",
+    "canonical": "https://www.wix.engineering/post/1-000-servers-160-clusters-30-days-zero-downtime-migrating-wix-s-mysql-fleet-to-graviton"
+  },
+  "title": "1,000 Servers. 160 Clusters. 30 Days. Zero Downtime: Migrating Wix’s MySQL Fleet to Graviton",
+  "summary": "Last January, the DB Infra team at Wix embarked on a strategic and very important mission: Migrating all of our MySQL EC2 servers from Intel based CPUs to the new shiny Graviton ones. Not only will this allow us to work on better CPUs, saving us money and improving our databases, we’ll be able to move to Amazon Linux 2023 OS and move from the EOL CentOS 7.0. That sounds simple enough, until you realize that we’re dealing with over 1K servers spread over 160+ MySQL clusters. The initial project t",
+  "published_at": "2026-03-23T11:27:39+00:00",
+  "first_seen_at": "2026-07-20T23:18:01.039713+00:00",
+  "fetched_at": "2026-07-28T22:17:58.599767+00:00",
+  "last_updated_at": "2026-08-20T00:29:14.534767+00:00",
+  "paths": {
+    "article": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/03/a4/a42105cacb31ee6b495419ca8a7493d24ea11d8d252df615e8a17a65fcb5f2d1/article.md",
+    "record": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/03/a4/a42105cacb31ee6b495419ca8a7493d24ea11d8d252df615e8a17a65fcb5f2d1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8460,
+    "sha256": "sha256:07eb039577ae61de21125c1bb48abf9429db6695864bae4d11a7cabb75c7a08f",
+    "normalized_content_hash": "sha256:78cfe4ff12b1a4f9cb73eeb36a2c88653cb3570365d8a9901a1842a6d94585e7"
+  },
+  "provenance": {
+    "source_item_id": "996b9c01-5cfe-43d5-b4ce-3dc6681c5414",
+    "external_id": "6a3c130de7e36d68a765e8de"
+  }
+}

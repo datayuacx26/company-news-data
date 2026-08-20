@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2579bf9a279141694b2e88fdb13f1b921b8d29c18136ab1add010de15d78b354",
+  "company": {
+    "key": "yc-tensorfuse",
+    "name": "Tensorfuse"
+  },
+  "source": {
+    "id": "yc-tensorfuse-news-import-97ab2b67de47",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorfuse.io/docs/blogs/snapshotter_graphs",
+    "canonical": "https://tensorfuse.io/docs/blogs/snapshotter_graphs"
+  },
+  "title": "Introducing Fastpull: Start AI containers in seconds",
+  "summary": "Fastpull uses lazy-loading snapshotters like SOCI and Nydus to start large AI/ML container images up to 10x faster, reducing cold start times from minutes to seconds.",
+  "published_at": null,
+  "first_seen_at": "2026-07-22T16:02:52.953662+00:00",
+  "fetched_at": "2026-07-28T21:20:12.930591+00:00",
+  "last_updated_at": "2026-08-20T00:15:16.087749+00:00",
+  "paths": {
+    "article": "articles/v1/fb/yc-tensorfuse/2026/07/25/2579bf9a279141694b2e88fdb13f1b921b8d29c18136ab1add010de15d78b354/article.md",
+    "record": "articles/v1/fb/yc-tensorfuse/2026/07/25/2579bf9a279141694b2e88fdb13f1b921b8d29c18136ab1add010de15d78b354/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15982,
+    "sha256": "sha256:f60a68315e3d73a25a88732b475272c26665930f778b3010e92052cae1c9c19e",
+    "normalized_content_hash": "sha256:daacb6669b434c7898e7c94e5d18ac1b9c6a88899c0f3a993895493c12c5dc07"
+  },
+  "provenance": {
+    "source_item_id": "3e8fd9cb-7f60-4ca3-875c-e328137230e4",
+    "external_id": "https://tensorfuse.io/docs/blogs/snapshotter_graphs"
+  }
+}

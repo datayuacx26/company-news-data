@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4329eaca74eea0a41e4a9bc75674a6bdff86eb319339841e4ec4d16b68be262f",
+  "company": {
+    "key": "yc-chamber",
+    "name": "Chamber"
+  },
+  "source": {
+    "id": "yc-chamber-news-import-3bd200813650",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usechamber.io/blog/slurm-vs-kubernetes-gpu-workloads",
+    "canonical": "https://usechamber.io/blog/slurm-vs-kubernetes-gpu-workloads"
+  },
+  "title": "Slurm vs Kubernetes for GPU Workloads: How to Choose (2026)",
+  "summary": "Slurm vs Kubernetes for GPU workloads: gang scheduling, topology awareness, elasticity, cost, and self-healing compared. Includes a decision framework for ML platform teams.",
+  "published_at": "2026-03-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:55:17.000424+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-20T00:08:53.036791+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-chamber/2026/03/43/4329eaca74eea0a41e4a9bc75674a6bdff86eb319339841e4ec4d16b68be262f/article.md",
+    "record": "articles/v1/e7/yc-chamber/2026/03/43/4329eaca74eea0a41e4a9bc75674a6bdff86eb319339841e4ec4d16b68be262f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26683,
+    "sha256": "sha256:ca04b2fe15236461cd642f15bdd76e053f62a97a33186e1bd043a5b6c1d17ffc",
+    "normalized_content_hash": "sha256:6cc9fa011662781eaf1ef51eb1deb12da8369a6ffce31e4adbad9bdd6f855a54"
+  },
+  "provenance": {
+    "source_item_id": "447daada-b10e-4a6d-820a-6cfee8d625cf",
+    "external_id": "https://usechamber.io/blog/slurm-vs-kubernetes-gpu-workloads"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5563bbeb04120de221d4898562b57e262a311edbf0670e4806a51cccabde68df",
+  "company": {
+    "key": "yc-idemeum",
+    "name": "idemeum"
+  },
+  "source": {
+    "id": "yc-idemeum-news-import-e4b4d27057e9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://idemeum.com/blog/the-malware-problem",
+    "canonical": "https://idemeum.com/blog/the-malware-problem"
+  },
+  "title": "The malware problem",
+  "summary": "AI agents that autonomously resolve IT issues on endpoints and in the cloud.",
+  "published_at": "2026-01-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T09:02:12.338313+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-19T21:26:56.559922+00:00",
+  "paths": {
+    "article": "articles/v1/de/yc-idemeum/2026/01/55/5563bbeb04120de221d4898562b57e262a311edbf0670e4806a51cccabde68df/article.md",
+    "record": "articles/v1/de/yc-idemeum/2026/01/55/5563bbeb04120de221d4898562b57e262a311edbf0670e4806a51cccabde68df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4646,
+    "sha256": "sha256:906c90cbfb942f2716494038280797bda3acc2a8c9a1ee7e0698d02300fa805f",
+    "normalized_content_hash": "sha256:9fef82e0cdcbf8188d3b2438a6fd8505a88f494f74d1582c801b245085a104c1"
+  },
+  "provenance": {
+    "source_item_id": "d8b9a4bc-5c19-402b-b474-bae4294016a9",
+    "external_id": "https://idemeum.com/blog/the-malware-problem"
+  }
+}

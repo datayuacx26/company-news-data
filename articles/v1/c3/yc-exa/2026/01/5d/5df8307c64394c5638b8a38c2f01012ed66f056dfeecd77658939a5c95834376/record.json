@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5df8307c64394c5638b8a38c2f01012ed66f056dfeecd77658939a5c95834376",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/company-search-benchmarks",
+    "canonical": "https://exa.ai/blog/company-search-benchmarks"
+  },
+  "title": "Introducing Exa's Company Search Benchmarks",
+  "summary": "How we built an LLM-hard benchmark for company search with 800+ queries across retrieval and RAG tracks.",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2026/01/5d/5df8307c64394c5638b8a38c2f01012ed66f056dfeecd77658939a5c95834376/article.md",
+    "record": "articles/v1/c3/yc-exa/2026/01/5d/5df8307c64394c5638b8a38c2f01012ed66f056dfeecd77658939a5c95834376/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6522,
+    "sha256": "sha256:c6e65132da72847c85698941d4d8414400710c4081efdff1235135c99bf1bcdb",
+    "normalized_content_hash": "sha256:e22a3d8e7bba609d97ef69e421d9b9808112cdf0569f7399e95b8f3417842f88"
+  },
+  "provenance": {
+    "source_item_id": "96c2ce22-5d7d-4236-9292-24634a6fdb8b",
+    "external_id": "https://exa.ai/blog/company-search-benchmarks"
+  }
+}

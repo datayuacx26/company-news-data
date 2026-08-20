@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2226a079a7305d77b0d0b7eb0eda5ec527ccdc534fcbaa4ed08a583005c81550",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/engineering/browser-agents-need-stateful-vms",
+    "canonical": "https://www.freestyle.sh/blog/engineering/browser-agents-need-stateful-vms"
+  },
+  "title": "Browser Agents Need Stateful VMs",
+  "summary": "Browser agents need more than a headless browser API. They need a real Linux VM for browsers, dev servers, profiles, screenshots, state, and recovery.",
+  "published_at": "2026-06-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:26:33.334256+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/22/2226a079a7305d77b0d0b7eb0eda5ec527ccdc534fcbaa4ed08a583005c81550/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/22/2226a079a7305d77b0d0b7eb0eda5ec527ccdc534fcbaa4ed08a583005c81550/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10891,
+    "sha256": "sha256:3652bf6b2abf59a709f8b8b1296cc0d0c574d57592a41d75ad19fd5c774f6c55",
+    "normalized_content_hash": "sha256:39383fe030e29beff2c112a84fa1ce7f975c9071588990cf4417f66e825a21fb"
+  },
+  "provenance": {
+    "source_item_id": "d54d0f1d-3066-44ac-8efa-c8306486a145",
+    "external_id": "https://www.freestyle.sh/blog/engineering/browser-agents-need-stateful-vms"
+  }
+}

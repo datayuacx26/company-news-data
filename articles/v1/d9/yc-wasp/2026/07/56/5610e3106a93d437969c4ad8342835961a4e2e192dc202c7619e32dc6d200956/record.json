@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5610e3106a93d437969c4ad8342835961a4e2e192dc202c7619e32dc6d200956",
+  "company": {
+    "key": "yc-wasp",
+    "name": "Wasp"
+  },
+  "source": {
+    "id": "yc-wasp-rss-5b1984e54864",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://wasp.sh/blog/2026/07/30/buzz-wasp-one-message-app",
+    "canonical": "https://wasp.sh/blog/2026/07/30/buzz-wasp-one-message-app"
+  },
+  "title": "Buzz + Wasp: from one chat message to a deployed full-stack app",
+  "summary": "I typed one message into a chat channel in Buzz and an agent scaffolded, deployed, and shipped a live full-stack CRM with Wasp. Here's the recipe, written so a human or an agent can follow it.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-30T16:14:15.192214+00:00",
+  "fetched_at": "2026-07-30T16:14:17.199811+00:00",
+  "last_updated_at": "2026-08-20T02:55:38.590332+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-wasp/2026/07/56/5610e3106a93d437969c4ad8342835961a4e2e192dc202c7619e32dc6d200956/article.md",
+    "record": "articles/v1/d9/yc-wasp/2026/07/56/5610e3106a93d437969c4ad8342835961a4e2e192dc202c7619e32dc6d200956/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7315,
+    "sha256": "sha256:b2f26cb8bb7b9d5d1a5ebad1d74ba1ce909e1be4044bf0294e8ba7ed3822169d",
+    "normalized_content_hash": "sha256:bf53a6bc5f727635c52e9e5a72b084e38eed14d35a3821f1469e01471bb45141"
+  },
+  "provenance": {
+    "source_item_id": "9bfaf5df-36b7-4b6a-a4b9-e0e898de4c07",
+    "external_id": "https://wasp.sh/blog/2026/07/30/buzz-wasp-one-message-app"
+  }
+}

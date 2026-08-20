@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "208eada039818ac411166717c9f17315dfe26e7d7e2c4c1d836d27be1ee7da83",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/push-sync-architecture",
+    "canonical": "https://www.skyhook.io/blog/push-sync-architecture"
+  },
+  "title": "Zero-Latency Kubernetes: How We Built a Push-Based Sync Architecture",
+  "summary": "How we cut dashboard latency by 80% and reduced data staleness from 25 seconds to under 3 by switching from pull to push.",
+  "published_at": "2026-02-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T22:22:47.419354+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2026/02/20/208eada039818ac411166717c9f17315dfe26e7d7e2c4c1d836d27be1ee7da83/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2026/02/20/208eada039818ac411166717c9f17315dfe26e7d7e2c4c1d836d27be1ee7da83/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14862,
+    "sha256": "sha256:c8401243af880fec608d8afd6ee7201d04ba2ae4954f44cd985d8ea7322681eb",
+    "normalized_content_hash": "sha256:e7f2ffcb84b7b9c70548f741fe500d5dff29c4be836f523283d8b944e1d247f2"
+  },
+  "provenance": {
+    "source_item_id": "019aee34-bba1-445e-9006-d61403e53529",
+    "external_id": "https://www.skyhook.io/blog/push-sync-architecture"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "869d77708d41ba342dad96e7bdad5249b94defe8e4109116e2aed9a763c8cee9",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/virtualmin-virtual-server-module-8-0-0-released/136390",
+    "canonical": "https://forum.virtualmin.com/t/virtualmin-virtual-server-module-8-0-0-released/136390"
+  },
+  "title": "Virtualmin virtual-server module 8.0.0 released",
+  "summary": "Howdy all, We’ve rolled out Virtualmin virtual-server module 8.0.0 for all repos. Note this is not the Virtualmin 8 installer, which will be rolled out in a few hours. The Virtualmin virtual-server module does not add support for any new distros to the current stable Virtualmin 7 installer, so the supported OS list has not changed and won’t change until the new installer is pushed. Changes since 7.50.1: Add support for systemd resource limits for Virtualmin Pro users Add support for SFTP ba...",
+  "published_at": "2026-01-25T08:44:43+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:54:41.720106+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/01/86/869d77708d41ba342dad96e7bdad5249b94defe8e4109116e2aed9a763c8cee9/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/01/86/869d77708d41ba342dad96e7bdad5249b94defe8e4109116e2aed9a763c8cee9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2088,
+    "sha256": "sha256:3ab587a54d159851f24cf847332bae3f2737ea7ba8c1348d15cd6985263309e1",
+    "normalized_content_hash": "sha256:ab45dddda952d75503d28b09d4864da59b6c78d254d8271dabb3c61c27577ebc"
+  },
+  "provenance": {
+    "source_item_id": "da2981b3-3fbf-4705-91ad-2aeb9ff8ce0d",
+    "external_id": "forum.virtualmin.com-topic-136390"
+  }
+}

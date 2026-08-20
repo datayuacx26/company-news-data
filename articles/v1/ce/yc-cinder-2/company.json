@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cinder-2",
+    "name": "Cinder"
+  },
+  "record_count": 15,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-08",
+      "record_count": 15
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ce/yc-cinder-2/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 14829,
+        "sha256": "sha256:e9ae17d185ada0d0ede72846e48e54ae0da49393afc3d6cd7d412bacd6092bb6",
+        "newest_at": "2026-08-18T03:18:13.142180+00:00",
+        "oldest_at": "2026-08-09T20:41:30.024984+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c8cba89ad7920df558551a1ada893ad2742d6ed77df036897300d55ad9dd4fa2",
+  "company": {
+    "key": "yc-paradedb",
+    "name": "ParadeDB"
+  },
+  "source": {
+    "id": "yc-paradedb-rss-b460d8ada1d2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.paradedb.com/blog/etl-vs-logical-replication",
+    "canonical": "https://www.paradedb.com/blog/etl-vs-logical-replication"
+  },
+  "title": "Syncing with Postgres: Logical Replication vs. ETL",
+  "summary": "Comparing ETL pipelines with PostgreSQL logical replication for data synchronization.",
+  "published_at": "2025-08-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.722459+00:00",
+  "fetched_at": "2026-07-28T20:56:33.291545+00:00",
+  "last_updated_at": "2026-08-20T02:15:21.077987+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-paradedb/2025/08/c8/c8cba89ad7920df558551a1ada893ad2742d6ed77df036897300d55ad9dd4fa2/article.md",
+    "record": "articles/v1/d7/yc-paradedb/2025/08/c8/c8cba89ad7920df558551a1ada893ad2742d6ed77df036897300d55ad9dd4fa2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10481,
+    "sha256": "sha256:e6dd37c6d9cb0ab9d9fab7e0bff57a6f1e217493e787961091b59e5a3b472d21",
+    "normalized_content_hash": "sha256:fff4711c1c65f16c27618e14c3be48677d828e40be31bccbfa8bbfb7778c5db0"
+  },
+  "provenance": {
+    "source_item_id": "ebd850c1-0957-4e73-a195-7176dbf70ce2",
+    "external_id": "https://www.paradedb.com/blog/etl-vs-logical-replication"
+  }
+}

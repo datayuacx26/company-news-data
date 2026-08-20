@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1be98e6ec0ded3dc934ce0b290ed65a9a2992210f411622fac9a3af3d8e2c4a",
+  "company": {
+    "key": "yc-quantstamp",
+    "name": "Quantstamp"
+  },
+  "source": {
+    "id": "yc-quantstamp-rss-54cdced55685",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://quantstamp.com/blog/proper-treatment-of-randomness-on-evm-compatible-networks",
+    "canonical": "https://quantstamp.com/blog/proper-treatment-of-randomness-on-evm-compatible-networks"
+  },
+  "title": "Proper Treatment of Randomness on EVM-Compatible Networks",
+  "summary": "Solidity does not have a function for generating random numbers, yet Ethereum dapp developers sometimes desire random numbers in order to develop lotteries, NFT drops, and games where randomness influences the outcomes...",
+  "published_at": "2025-06-04T18:23:59+00:00",
+  "first_seen_at": "2026-07-25T20:14:20.321573+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T03:09:35.051135+00:00",
+  "paths": {
+    "article": "articles/v1/cb/yc-quantstamp/2025/06/b1/b1be98e6ec0ded3dc934ce0b290ed65a9a2992210f411622fac9a3af3d8e2c4a/article.md",
+    "record": "articles/v1/cb/yc-quantstamp/2025/06/b1/b1be98e6ec0ded3dc934ce0b290ed65a9a2992210f411622fac9a3af3d8e2c4a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16736,
+    "sha256": "sha256:a3dc9f4f29e7c27d3ea00d9e4d30e3894345f348abd37e8b15b7a1b43cf9ebc9",
+    "normalized_content_hash": "sha256:f753bc4b233595c25c79e15fdbde13b168052e98873cc8bf221ad4987c64267e"
+  },
+  "provenance": {
+    "source_item_id": "81bff7d6-5bcb-4918-8bb7-8cf8591e8124",
+    "external_id": "https://quantstamp.com/blog/proper-treatment-of-randomness-on-evm-compatible-networks"
+  }
+}

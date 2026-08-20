@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb08852094d504643ac287ed000a86e8b1255d7e8b8ee155649dce0716565d02",
+  "company": {
+    "key": "yc-doe",
+    "name": "Doe"
+  },
+  "source": {
+    "id": "yc-doe-news-import-a3f9325ff0ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://doe.so/blog/human-time-returned",
+    "canonical": "https://doe.so/blog/human-time-returned"
+  },
+  "title": "Time as the Unit of AI Value",
+  "summary": "Tokens measure activity and benchmarks measure capability. The metric that matters is human time returned, with the stopwatch finally pointed at the machine.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:44:00.145230+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T03:32:35.432458+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-doe/2026/07/cb/cb08852094d504643ac287ed000a86e8b1255d7e8b8ee155649dce0716565d02/article.md",
+    "record": "articles/v1/c7/yc-doe/2026/07/cb/cb08852094d504643ac287ed000a86e8b1255d7e8b8ee155649dce0716565d02/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15902,
+    "sha256": "sha256:dcc2e2153cf24f1b7d80e50461f127d20bc31f56dcacedad9f660649d0fbb227",
+    "normalized_content_hash": "sha256:c011cda02408ac0b79ca5060cbfcca4ed51f744aa8b7c25a55b9daa89c155442"
+  },
+  "provenance": {
+    "source_item_id": "efbde69a-4d7d-44a6-8446-b3d2e90ce886",
+    "external_id": "https://doe.so/blog/human-time-returned"
+  }
+}

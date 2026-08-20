@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "693a54caae027c0f9c551c8b43090999595719ea37897ad01d36cb9533e9ed6c",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/how-to-build-secure-aws-s3-bucket/",
+    "canonical": "https://www.cloudanix.com/blog/how-to-build-secure-aws-s3-bucket/"
+  },
+  "title": "How to Build Secure AWS S3 Bucket?",
+  "summary": "Secure your AWS S3 buckets with encryption, access logging, public access blocks, and object lock. Prevent data breaches and meet compliance standards.",
+  "published_at": "2021-07-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2021/07/69/693a54caae027c0f9c551c8b43090999595719ea37897ad01d36cb9533e9ed6c/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2021/07/69/693a54caae027c0f9c551c8b43090999595719ea37897ad01d36cb9533e9ed6c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7979,
+    "sha256": "sha256:92fd1249434f05d757a8131071ccccd3e08aafb9c7fe2159405f2e308577142b",
+    "normalized_content_hash": "sha256:4c88f670909a8efdf8db69e42d16b7d28f41c3ebc14e89cdf20be6734a2e929e"
+  },
+  "provenance": {
+    "source_item_id": "173f00a8-8852-4636-b602-1efc2c4e5e90",
+    "external_id": "https://www.cloudanix.com/blog/how-to-build-secure-aws-s3-bucket/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42a242ae598c3366dff0edf206737e9e831ea0e1d26dd9b69ae8d81d6390fcfc",
+  "company": {
+    "key": "yc-epsilla",
+    "name": "Epsilla"
+  },
+  "source": {
+    "id": "yc-epsilla-news-import-19b087bfbff3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.epsilla.com/blogs/ai-agents-news-may-21-2026",
+    "canonical": "https://www.epsilla.com/blogs/ai-agents-news-may-21-2026"
+  },
+  "title": "The Architecture of Autonomy: Infrastructure Tooling for AI Agents",
+  "summary": "The landscape of AI agents is rapidly shifting from experimental scripts to robust, enterprise-grade distributed systems. Developers are no longer satisfied with simple API wrappers; instead, they are demanding sophisticated infrastructure to manage, orchestrate, test, and govern autonomous operations. The past 48 hours in the hacker community have revealed a massive surge in purpose-built tooling designed to elevate AI agents to production readiness. We are witnessing the birth of specialized runtimes, unified virtual filesystems, and strict governance layers that treat agents not as novelties, but as critical system components.",
+  "published_at": "2026-05-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T03:07:36.267672+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-20T01:14:46.233439+00:00",
+  "paths": {
+    "article": "articles/v1/fd/yc-epsilla/2026/05/42/42a242ae598c3366dff0edf206737e9e831ea0e1d26dd9b69ae8d81d6390fcfc/article.md",
+    "record": "articles/v1/fd/yc-epsilla/2026/05/42/42a242ae598c3366dff0edf206737e9e831ea0e1d26dd9b69ae8d81d6390fcfc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9134,
+    "sha256": "sha256:8e66bb77332d3f69b902481f3df8fd58cf64fd08a99da69c2f95f19b21ea72bb",
+    "normalized_content_hash": "sha256:eb9f05e1180ae5766ba8682f9c7867f5e3a62f18a0c2ac67243f01cb8a8f27e5"
+  },
+  "provenance": {
+    "source_item_id": "8b83e340-dd4c-4869-8937-31f0ae023ca4",
+    "external_id": "https://www.epsilla.com/blogs/ai-agents-news-may-21-2026"
+  }
+}

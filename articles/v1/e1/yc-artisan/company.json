@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-artisan",
+    "name": "Artisan"
+  },
+  "record_count": 104,
+  "first_published_at": "2024-10-01T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 43
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 55
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e1/yc-artisan/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50182,
+        "sha256": "sha256:7b526272eb3203d898a0131a22d822003e5850f7851239052b4370d09b3e4b43",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-08-06T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/e1/yc-artisan/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 49379,
+        "sha256": "sha256:ad866b36f0d8d2700f6d726e5d95bde6bec4de56deacb0d37d3783cb27076372",
+        "newest_at": "2026-08-05T00:00:00+00:00",
+        "oldest_at": "2026-06-21T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/e1/yc-artisan/index/pages/000003.json",
+        "record_count": 4,
+        "byte_count": 4047,
+        "sha256": "sha256:9c56bfbb4b0762b6f47b684766187afe4107e73d77f20bfd7d660e3f03e06369",
+        "newest_at": "2026-04-11T00:00:00+00:00",
+        "oldest_at": "2024-10-01T00:00:00+00:00"
+      }
+    ]
+  }
+}

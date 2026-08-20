@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2936db798b9bac94242963d26a4cf490c3e5022e476e063463e6ea7e8bf8fbe0",
+  "company": {
+    "key": "block-inc-class-a-common-stock",
+    "name": "Block Inc."
+  },
+  "source": {
+    "id": "block-inc-class-a-common-stock-rss-613ed2351e85",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://engineering.block.xyz/blog/encrypting-wireproto-messages",
+    "canonical": "http://engineering.block.xyz/blog/encrypting-wireproto-messages"
+  },
+  "title": "Encrypting Wire/Proto Messages",
+  "summary": "How we started using Tink to encrypt proto messages being transmitted between services and in our Kafka event bus",
+  "published_at": "2026-06-02T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:06.876214+00:00",
+  "fetched_at": "2026-07-28T20:49:52.299135+00:00",
+  "last_updated_at": "2026-08-20T01:58:38.806680+00:00",
+  "paths": {
+    "article": "articles/v1/f5/block-inc-class-a-common-stock/2026/06/29/2936db798b9bac94242963d26a4cf490c3e5022e476e063463e6ea7e8bf8fbe0/article.md",
+    "record": "articles/v1/f5/block-inc-class-a-common-stock/2026/06/29/2936db798b9bac94242963d26a4cf490c3e5022e476e063463e6ea7e8bf8fbe0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7529,
+    "sha256": "sha256:e74cc458e8c3ded6f6365200c6c6ec0728c0fff2ef53f0805c3609faa37f0449",
+    "normalized_content_hash": "sha256:d5ac4000a2b17e6da8e58bc1b148bcbdbd1765396adc83410cb28365c467e493"
+  },
+  "provenance": {
+    "source_item_id": "69f70de7-b7e3-4f6c-a599-747e96f5e727",
+    "external_id": "http://engineering.block.xyz/blog/encrypting-wireproto-messages"
+  }
+}

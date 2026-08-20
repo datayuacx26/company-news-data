@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ebafabe56e23b0c1ac7736f261c93626820ec12e9fa9793a5a67ff547491e3f2",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "source": {
+    "id": "yc-sei-rss-1b5243482862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://seiright.com/blog/hmda-data-integrity-ai-lar-field-population",
+    "canonical": "https://seiright.com/blog/hmda-data-integrity-ai-lar-field-population"
+  },
+  "title": "HMDA Data Integrity for AI-Driven Loan Origination: The Reg C LAR Fields, the Resubmission Threshold, and the Audit File That Survives",
+  "summary": "AI agents on the mortgage intake desk now populate a meaningful share of the 110 HMDA LAR fields before a human ever looks at the file. The Reg C accuracy rules and the CFPB resubmission threshold catch the gaps before fair-lending analysis ever runs, and the architecture has to make field provenance and correction provable per loan.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.548292+00:00",
+  "fetched_at": "2026-08-20T02:20:29.244809+00:00",
+  "last_updated_at": "2026-08-20T02:20:29.306031+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-sei/2026/06/eb/ebafabe56e23b0c1ac7736f261c93626820ec12e9fa9793a5a67ff547491e3f2/article.md",
+    "record": "articles/v1/e4/yc-sei/2026/06/eb/ebafabe56e23b0c1ac7736f261c93626820ec12e9fa9793a5a67ff547491e3f2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 975,
+    "sha256": "sha256:f33107f4702c6b7a9d27769cfe7b33925b32effc2738fbfef329223f871c49ea",
+    "normalized_content_hash": "sha256:18838f0162aa87fac71e5502b81d586c046ff907f39791aadcb4aa8f65bb31b6"
+  },
+  "provenance": {
+    "source_item_id": "2ba59d7b-8364-44b7-978f-3496ba0d494e",
+    "external_id": "https://seiright.com/blog/hmda-data-integrity-ai-lar-field-population"
+  }
+}

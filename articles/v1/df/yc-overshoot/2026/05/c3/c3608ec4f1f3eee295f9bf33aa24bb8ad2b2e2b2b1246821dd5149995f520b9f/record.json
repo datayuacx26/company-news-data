@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3608ec4f1f3eee295f9bf33aa24bb8ad2b2e2b2b1246821dd5149995f520b9f",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/qwen-multimodal-processor",
+    "canonical": "https://www.overshoot.ai/blogs/qwen-multimodal-processor"
+  },
+  "title": "Multimodal processor rewrite: 5x lower latency",
+  "summary": "CPU preprocessing cost 428 ms p90 for a 15-frame Qwen video before it touched the GPU. We rewrote the processor bit-identical at 81 ms p90, a 5x cut.",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T21:44:24.455372+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/05/c3/c3608ec4f1f3eee295f9bf33aa24bb8ad2b2e2b2b1246821dd5149995f520b9f/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/05/c3/c3608ec4f1f3eee295f9bf33aa24bb8ad2b2e2b2b1246821dd5149995f520b9f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20976,
+    "sha256": "sha256:a7284dd2aa32bdf86b621df597eee6c6ed02032879a348307d6feb69b28009de",
+    "normalized_content_hash": "sha256:d8d2335d3279075cca08bf89f589b8c3ce2b7d29235c07c8323d4c6ceedc2b4e"
+  },
+  "provenance": {
+    "source_item_id": "cd3bdbf2-d678-4d26-96e0-9e90243760a7",
+    "external_id": "https://www.overshoot.ai/blogs/qwen-multimodal-processor"
+  }
+}

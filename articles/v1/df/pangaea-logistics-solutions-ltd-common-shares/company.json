@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pangaea-logistics-solutions-ltd-common-shares",
+    "name": "Pangaea Logistics Solutions Ltd. Common Shares"
+  },
+  "record_count": 7,
+  "first_published_at": "2014-05-30T17:14:56+00:00",
+  "last_published_at": "2014-05-31T17:15:39+00:00",
+  "partitions": [
+    {
+      "partition": "2014-05",
+      "record_count": 7
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/df/pangaea-logistics-solutions-ltd-common-shares/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 8816,
+        "sha256": "sha256:05f60581e44dd2755ba84c521d93ad2f4be1939efae9490a980732b748bc2440",
+        "newest_at": "2014-05-31T17:15:39+00:00",
+        "oldest_at": "2014-05-30T17:14:56+00:00"
+      }
+    ]
+  }
+}

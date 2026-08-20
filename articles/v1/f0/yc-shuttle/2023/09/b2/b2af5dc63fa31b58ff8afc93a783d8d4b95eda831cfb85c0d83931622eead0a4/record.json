@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b2af5dc63fa31b58ff8afc93a783d8d4b95eda831cfb85c0d83931622eead0a4",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/09/13/web-scraping-rust-reqwest",
+    "canonical": "https://www.shuttle.dev/blog/2023/09/13/web-scraping-rust-reqwest"
+  },
+  "title": "Writing a Web Scraper in Rust using Reqwest",
+  "summary": "Learn to leverage the power of Rust for web scraping. This article explores how you can competently create a web scraping service and host it online without hassle.",
+  "published_at": "2023-09-13T14:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/09/b2/b2af5dc63fa31b58ff8afc93a783d8d4b95eda831cfb85c0d83931622eead0a4/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/09/b2/b2af5dc63fa31b58ff8afc93a783d8d4b95eda831cfb85c0d83931622eead0a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18164,
+    "sha256": "sha256:c83e3a8884c305a66a0c81f78d62c160c2259fe4105a66f68e053499c6a8befa",
+    "normalized_content_hash": "sha256:34a092808920652311379b8c1709cd1f52df0a79f3108196e7d6800a8f146a18"
+  },
+  "provenance": {
+    "source_item_id": "b88383b1-c48e-46ae-880d-9585e4b6466a",
+    "external_id": "https://www.shuttle.dev/blog/2023/09/13/web-scraping-rust-reqwest"
+  }
+}

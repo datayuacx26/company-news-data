@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "079332c9af00cf82762a2ae9acdb0e09d9ba0f3b186c208d39ea651504d25f25",
+  "company": {
+    "key": "yc-mintlify",
+    "name": "Mintlify"
+  },
+  "source": {
+    "id": "yc-mintlify-news-import-4dae4ee3e362",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.mintlify.com/blog/llms-txt-agent-benchmark",
+    "canonical": "https://www.mintlify.com/blog/llms-txt-agent-benchmark"
+  },
+  "title": "Docs URL Benchmark: Markdown & llms.txt > HTML",
+  "summary": "We benchmarked four ways to serve documentation to AI agents (HTML, plain markdown, markdown linking to llms.txt, and markdown with llms.txt inlined) across 2,400 runs on 20 Mintlify docs sites, and found that a single link to llms.txt eliminates most agent 404s at no added cost.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:29:43.596583+00:00",
+  "fetched_at": "2026-07-28T21:21:05.434568+00:00",
+  "last_updated_at": "2026-08-19T19:37:40.044846+00:00",
+  "paths": {
+    "article": "articles/v1/dc/yc-mintlify/2026/07/07/079332c9af00cf82762a2ae9acdb0e09d9ba0f3b186c208d39ea651504d25f25/article.md",
+    "record": "articles/v1/dc/yc-mintlify/2026/07/07/079332c9af00cf82762a2ae9acdb0e09d9ba0f3b186c208d39ea651504d25f25/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4756,
+    "sha256": "sha256:2d2fff4e5fff42daaa2e90f2dc2f0a15bd4b31bcbdee3bc9aa042e32d028eb5e",
+    "normalized_content_hash": "sha256:30af5c695405b1d0dda7adb35002441740d221ebde205ca663fe7a7e8bc8c02c"
+  },
+  "provenance": {
+    "source_item_id": "e6aaf87f-81a8-4b98-8e44-abf8cd22ec59",
+    "external_id": "https://www.mintlify.com/blog/llms-txt-agent-benchmark"
+  }
+}

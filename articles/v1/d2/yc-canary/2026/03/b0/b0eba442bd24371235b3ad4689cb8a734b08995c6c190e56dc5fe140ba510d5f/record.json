@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b0eba442bd24371235b3ad4689cb8a734b08995c6c190e56dc5fe140ba510d5f",
+  "company": {
+    "key": "yc-canary",
+    "name": "Canary"
+  },
+  "source": {
+    "id": "yc-canary-news-import-4de951242b25",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.runcanary.ai/blog/qa-bench-v0",
+    "canonical": "https://runcanary.ai/blog/qa-bench-v0"
+  },
+  "title": "QA-Bench v0: Measuring How AI Models Handle Code Verification",
+  "summary": "We built QA-Bench v0, an early evaluation for a task no existing benchmark measures: given a real pull request on a production codebase, can an AI model identify every affected user flow and generate relevant tests?",
+  "published_at": "2026-03-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:13:40.969791+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T03:16:20.630976+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-canary/2026/03/b0/b0eba442bd24371235b3ad4689cb8a734b08995c6c190e56dc5fe140ba510d5f/article.md",
+    "record": "articles/v1/d2/yc-canary/2026/03/b0/b0eba442bd24371235b3ad4689cb8a734b08995c6c190e56dc5fe140ba510d5f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22152,
+    "sha256": "sha256:cfc1386478a8fa2a42b12aec09e15d08191f8403a794384f6a24f499317f2b0d",
+    "normalized_content_hash": "sha256:9bd8d9a14513a9e8e0509c30b91030faa8aba1743fff1d380f6bb3a82f790b4f"
+  },
+  "provenance": {
+    "source_item_id": "3e2adc8e-1556-4bec-916a-6bf10fce0a30",
+    "external_id": "https://runcanary.ai/blog/qa-bench-v0"
+  }
+}

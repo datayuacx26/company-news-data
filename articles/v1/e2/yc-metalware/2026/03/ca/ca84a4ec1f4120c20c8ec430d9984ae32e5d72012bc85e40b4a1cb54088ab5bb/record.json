@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ca84a4ec1f4120c20c8ec430d9984ae32e5d72012bc85e40b4a1cb54088ab5bb",
+  "company": {
+    "key": "yc-metalware",
+    "name": "Metalware"
+  },
+  "source": {
+    "id": "yc-metalware-news-import-ec8258eac460",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metalware.com/blog/automating-firmware-analysis/",
+    "canonical": "https://www.metalware.com/blog/automating-firmware-analysis/"
+  },
+  "title": "How We're Automating Firmware Fuzzing",
+  "summary": "Fuzzing firmware is hard. The binaries are stripped, the architectures exotic and there’s often no OS abstractions to lean on.",
+  "published_at": "2026-03-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:09:46.862890+00:00",
+  "fetched_at": "2026-07-28T22:00:56.367665+00:00",
+  "last_updated_at": "2026-08-19T23:34:18.960836+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-metalware/2026/03/ca/ca84a4ec1f4120c20c8ec430d9984ae32e5d72012bc85e40b4a1cb54088ab5bb/article.md",
+    "record": "articles/v1/e2/yc-metalware/2026/03/ca/ca84a4ec1f4120c20c8ec430d9984ae32e5d72012bc85e40b4a1cb54088ab5bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5789,
+    "sha256": "sha256:c15121f71ae9091aa2939da4fd005e6d4fccc1a430775d0a2dfa44ea5e01e907",
+    "normalized_content_hash": "sha256:faee972cfedf5998624d296c26ce69eaf0c83c967d087d554437557c489aa272"
+  },
+  "provenance": {
+    "source_item_id": "1df54430-24f0-44ed-bc26-b283e3d33089",
+    "external_id": "https://www.metalware.com/blog/automating-firmware-analysis/"
+  }
+}

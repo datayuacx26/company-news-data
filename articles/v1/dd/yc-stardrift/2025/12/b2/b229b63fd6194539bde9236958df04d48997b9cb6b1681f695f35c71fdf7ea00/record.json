@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b229b63fd6194539bde9236958df04d48997b9cb6b1681f695f35c71fdf7ea00",
+  "company": {
+    "key": "yc-stardrift",
+    "name": "Stardrift"
+  },
+  "source": {
+    "id": "yc-stardrift-news-import-0d01feb63e61",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stardrift.ai/blog/streaming-resumptions",
+    "canonical": "https://stardrift.ai/blog/streaming-resumptions"
+  },
+  "title": "Is resumable LLM streaming hard? No, it's just annoying.",
+  "summary": "The state-of-the-art in LLM streaming is shockingly bad. Here's how we built resumable streaming at Stardrift to handle disconnects without losing context.",
+  "published_at": "2025-12-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T14:49:24.360366+00:00",
+  "fetched_at": "2026-07-28T21:27:04.798558+00:00",
+  "last_updated_at": "2026-08-20T03:14:23.419459+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-stardrift/2025/12/b2/b229b63fd6194539bde9236958df04d48997b9cb6b1681f695f35c71fdf7ea00/article.md",
+    "record": "articles/v1/dd/yc-stardrift/2025/12/b2/b229b63fd6194539bde9236958df04d48997b9cb6b1681f695f35c71fdf7ea00/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1715,
+    "sha256": "sha256:f6340770749510f1b1e254f24b0a11670bcc08af27b3e71aae7157fe5dc02091",
+    "normalized_content_hash": "sha256:78aadd66f1173ef59efcfac22e8b7f52ac5140c79360d694aa33c9ac3adbd783"
+  },
+  "provenance": {
+    "source_item_id": "5fd23d24-043c-405d-9c95-0dcd2c3a8f54",
+    "external_id": "https://stardrift.ai/blog/streaming-resumptions"
+  }
+}

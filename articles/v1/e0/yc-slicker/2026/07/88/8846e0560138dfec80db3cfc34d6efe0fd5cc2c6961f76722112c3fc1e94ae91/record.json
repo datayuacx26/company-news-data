@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8846e0560138dfec80db3cfc34d6efe0fd5cc2c6961f76722112c3fc1e94ae91",
+  "company": {
+    "key": "yc-slicker",
+    "name": "Slicker"
+  },
+  "source": {
+    "id": "yc-slicker-news-import-4c2e7cff2c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.slickerhq.com/resources/blog/retry-allowlist-blocklist-decline-codes",
+    "canonical": "https://www.slickerhq.com/resources/blog/retry-allowlist-blocklist-decline-codes"
+  },
+  "title": "How to Build a Retry Allowlist and Blocklist From Declines (July 2026)",
+  "summary": "I'll be frank: most retry logic is built on assumptions, not data. A retry allowlist tells your system when to try again; a payment retry blocklist tell...",
+  "published_at": "2026-07-07T10:10:25.816+00:00",
+  "first_seen_at": "2026-07-24T01:52:00.901045+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-07-28T21:42:42.098381+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-slicker/2026/07/88/8846e0560138dfec80db3cfc34d6efe0fd5cc2c6961f76722112c3fc1e94ae91/article.md",
+    "record": "articles/v1/e0/yc-slicker/2026/07/88/8846e0560138dfec80db3cfc34d6efe0fd5cc2c6961f76722112c3fc1e94ae91/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16840,
+    "sha256": "sha256:aa5e76e9945d1df0c813b79ad02cd5a3fa818a2ade14cb3210d687a1d480eec9",
+    "normalized_content_hash": "sha256:edc6c7eb008a918297c419c4d924dc1f2d1a075085fe4562c46bdccbbf8393c6"
+  },
+  "provenance": {
+    "source_item_id": "9f9c66ff-f712-4242-b3fc-a6b2f71daa55",
+    "external_id": "https://www.slickerhq.com/resources/blog/retry-allowlist-blocklist-decline-codes"
+  }
+}

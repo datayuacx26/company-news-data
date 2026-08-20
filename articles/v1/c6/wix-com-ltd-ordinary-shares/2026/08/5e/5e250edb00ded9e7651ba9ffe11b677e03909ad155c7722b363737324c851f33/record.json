@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e250edb00ded9e7651ba9ffe11b677e03909ad155c7722b363737324c851f33",
+  "company": {
+    "key": "wix-com-ltd-ordinary-shares",
+    "name": "Wix.com Ltd."
+  },
+  "source": {
+    "id": "wix-com-ltd-ordinary-shares-rss-e1d3c855eeb0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wix.engineering/post/from-weeks-to-hours-inside-wix-s-autonomous-bug-fixing-system",
+    "canonical": "https://www.wix.engineering/post/from-weeks-to-hours-inside-wix-s-autonomous-bug-fixing-system"
+  },
+  "title": "From Weeks to Hours: Inside Wix’s Autonomous Bug-Fixing System",
+  "summary": "A user opens a support ticket. Their subscription cancellation stopped working. Somewhere inside a system with thousands of services and millions of users, something broke.Before we built Wix Orchestrator, here's what happened next: the ticket joined a queue. Days later, a support engineer picked it up, tried to reproduce the issue, contacted the customer to gather more context, and opened a Jira ticket routed to R&D. We triaged it, prioritized it against everything else on our plate, investigat",
+  "published_at": "2026-08-19T10:17:19+00:00",
+  "first_seen_at": "2026-08-19T11:27:55.577378+00:00",
+  "fetched_at": "2026-08-19T11:27:56.893258+00:00",
+  "last_updated_at": "2026-08-20T00:29:14.534767+00:00",
+  "paths": {
+    "article": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/08/5e/5e250edb00ded9e7651ba9ffe11b677e03909ad155c7722b363737324c851f33/article.md",
+    "record": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/08/5e/5e250edb00ded9e7651ba9ffe11b677e03909ad155c7722b363737324c851f33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13674,
+    "sha256": "sha256:744b788c00914af114e36db1a3a61c822824faa9ce68d71947ff61c8ad44203f",
+    "normalized_content_hash": "sha256:a8b272f7f5a02f3b8eb083092f9be41e4a330ed4a1a01cbb93b531ad20f82074"
+  },
+  "provenance": {
+    "source_item_id": "79f157a0-7cd6-4702-9b7a-d36b6bed0182",
+    "external_id": "6a857f1e58e6c2b931eb6f69"
+  }
+}

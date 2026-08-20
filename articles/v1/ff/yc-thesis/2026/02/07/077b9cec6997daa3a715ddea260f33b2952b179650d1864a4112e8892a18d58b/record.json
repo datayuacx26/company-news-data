@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "077b9cec6997daa3a715ddea260f33b2952b179650d1864a4112e8892a18d58b",
+  "company": {
+    "key": "yc-thesis",
+    "name": "Thesis"
+  },
+  "source": {
+    "id": "yc-thesis-rss-df316ac2148b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://thesislabs.ai/research/mining-activation-functions",
+    "canonical": "https://thesislabs.ai/research/mining-activation-functions"
+  },
+  "title": "Mining Better Activation Functions with LLMs",
+  "summary": "DeepMind researchers used LLM-guided evolutionary search to discover new activation functions that improve neural network generalization beyond the training distribution",
+  "published_at": "2026-02-07T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T04:04:12.843518+00:00",
+  "fetched_at": "2026-08-10T04:04:13.995165+00:00",
+  "last_updated_at": "2026-08-20T02:36:02.552376+00:00",
+  "paths": {
+    "article": "articles/v1/ff/yc-thesis/2026/02/07/077b9cec6997daa3a715ddea260f33b2952b179650d1864a4112e8892a18d58b/article.md",
+    "record": "articles/v1/ff/yc-thesis/2026/02/07/077b9cec6997daa3a715ddea260f33b2952b179650d1864a4112e8892a18d58b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8743,
+    "sha256": "sha256:d1fc34ee4d9f5eef9ae5cd429428ac5eb6dac3c110b32326befac76657bca7cb",
+    "normalized_content_hash": "sha256:474e4ca16e58a92ae0a4e46a7b9da71cfd2be395dde710174a6aeecc35c7a05a"
+  },
+  "provenance": {
+    "source_item_id": "405d7d10-3163-4f26-8cac-0f1b5d5fc941",
+    "external_id": "https://thesislabs.ai/research/mining-activation-functions"
+  }
+}

@@ -1,0 +1,98 @@
+---
+schema_version: "1.0.0"
+document_id: "3dbb17e9c268422f3dc70e4a4df70c722c4bced859a6f7c98a4b85a1f6679e44"
+company_key: "yc-recurse-center"
+company: "Recurse Center"
+source_id: "yc-recurse-center-rss-cb01fb48046e"
+canonical_url: "https://www.recurse.com/blog/189-a-new-kind-of-retreat"
+published_at: "2023-05-08T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:55.368514+00:00"
+fetched_at: "2026-07-28T21:01:55.089772+00:00"
+content_hash: "sha256:ae6d3a02f065ea225607f2eeac0a20a5741a991b9872778dbe5a48cd025e4fc1"
+---
+
+# A new kind of retreat
+
+**As of July 18, 2023, our Brooklyn hub is open to Recursers for the foreseeable future!** You can attend your retreat at our Brooklyn hub, online, or any combination of the two.
+
+
+We’re excited to announce that from **June 26th - September 15th, we’ll be reopening our hub at 397 Bridge in Brooklyn** so that you can drop in and **spend as much or little of your retreat time there as you’d like.**
+
+
+That means that if you attend a batch happening during those dates, you’ll have the option to do your retreat online, at the hub, or any combination of the two.[Apply here](https://www.recurse.com/apply) !
+
+
+If you want to work at the hub every day of your retreat that it’s open, you can. If you’d like to drop in for a week to work with people on something specific or just check it out, that’s great, too. And if you want to attend every day online, that’s wonderful.
+
+
+The hub is full of possibility, and it’s here for you to use it how you see fit. Coordinate with your study group, host mock interviews for one another, have lunch, play with the pen plotter, pair program.
+
+
+## A self-directed retreat, wherever you want it
+
+
+397 Bridge has been closed since March of 2020 (even though, like the rest of the world, we thought we’d be open again in a few weeks). Since then all retreats have happened online, which has meant we’ve been able to welcome hundreds of Recursers who otherwise wouldn’t have been able to join us for a retreat.
+
+
+Beyond making RC more accessible to more people, going online-only led to lots of other positive changes to the retreat over the last three years, including adding the self-directives, hiring Liz as an online facilitator, and being able to have a more flexible alumni attendance policy.
+
+
+But there are some things that are more difficult online, and we know that while many people prefer it, it doesn’t serve everyone. Before 2020, you had to be in New York City to attend a retreat. This was better for serendipity: you could overhear people talking about an interesting project, or peek over someone’s shoulder while they worked and get involved. Socializing was spontaneous, and easier. And we had lots of cool stuff to tinker with, from pen plotters to vintage computers to Arduinos. But it is also expensive to move to New York for months to attend a retreat, and that made attending logistically impossible for some people.
+
+
+As we realized it was safe to reopen 397 Bridge, and started thinking and talking to alums about how to do that well, we wanted to figure out how to offer the best of both worlds. We didn’t want to design a hybrid retreat, where we were forcing people to interact in ways that didn’t make sense. We see this as an opportunity to make the retreat work for more people than ever before.
+
+
+## How it will work
+
+
+Retreats will still be one cohesive experience. Events that are important to the arc of the retreat (onboarding, presentations, the end of batch ceremony) will happen online so that everyone can participate.
+
+
+Onboarding — our welcome talks and first-week workshops — will be condensed to two days, and will happen online. Our hub won’t be open on those first two days of the batch. This is so that everyone has the same shared experience of onboarding and getting to know each other. Friday presentations will also happen on Zoom, and there will be a dedicated space to present from in the hub if you happen to be there while they’re happening.
+
+
+We’ll also have a way to register where you plan to be and check who will be where on a given day.
+
+
+### Schedule
+
+
+Our core hours will remain the same: Monday-Friday, 11 am - 5 pm EST. And the commitment you make to the retreat remains the same, too: you should plan to attend during those hours for the duration of your batch, and RC should be your primary commitment while you’re doing a retreat.
+
+
+Our hub will be open to people attending a batch starting on June 26th and ending on September 15th. Onboarding for Summer 2 will happen online on June 26th and June 27th, and onboarding for Fall 1 will happen online August 7th and 8th, and the hub won’t be open those days.
+
+
+Otherwise, the hub will be open to you 24/7, as it always was to current Recursers. We’ll have facilitated hours at the hub on **Tuesday-Thursday, from 11 am - 5 pm EST.** Facilitated hours are when Mai and Sydney will be available to help you navigate 397 Bridge Street, find other Recursers to work with and talk to, have office hours chats, organize events, and more. When you’re at the hub you’ll also be able to attend events happening on Zoom, and use our pairing stations and equipment for hardware projects. Online, our facilitators Liz and Caroline will be around Monday-Friday hosting events, helping you find resources and collaborators, and chatting with you about your plans for your retreat.
+
+
+When you confirm for Summer 2 or Fall 1, we’ll ask how much of your time you plan to spend at the hub and online — this will help us plan capacity! If you’re already confirmed for one of these batches, or are confirmed for the Summer 1 batch, we’ll reach out in the next few weeks to check in about your plans.
+
+
+If you’re an alum and would like to visit the hub, we’ll have more information about alum hours soon, when we have a better sense of demand for space. We’re going to prioritize current Recursers, so we may not be as open to alums as we were pre-2020 (Virtual RC will remain open to you 24/7).
+
+
+## What to expect
+
+
+This is an experiment for us, so we can’t say for sure what it will look like. Much of that will be determined by you, and what you decide to do at RC!
+
+
+Here are a few things we *do* know:
+
+
+- You’ll be joining a group of self-directed, generous, kind programmers to do the work you’ve always wanted to do and have a transformative six or 12 weeks
+- [The self-directives](https://www.recurse.com/self-directives) and[the social rules](https://www.recurse.com/social-rules) will still guide everyone’s experience
+- You’ll have more flexibility than ever to determine how you show up for your retreat
+- RC faculty will be here to help you get the most out of your time
+- As always, you’ll be able to make RC your own by creating events and choosing what you work on each day
+
+
+We’re only committing to running our retreats this way through September 15th, but we’ll be making a decision on whether to keep our hub open for future retreats in mid-July.
+
+
+If having the flexibility to do so in Brooklyn and online appeals to you,[apply](https://www.recurse.com/apply) . We hope to meet you this summer!
+
+
+If you’d like to learn more about how our hub will work regarding access and safety, check out our[Physical Space](https://www.recurse.com/hub) page. If you’d like to learn more about the online experience, read our[Virtual RC](https://www.recurse.com/virtual-rc) page.

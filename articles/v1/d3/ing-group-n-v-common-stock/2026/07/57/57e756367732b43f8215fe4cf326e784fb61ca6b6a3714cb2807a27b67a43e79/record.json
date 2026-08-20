@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "57e756367732b43f8215fe4cf326e784fb61ca6b6a3714cb2807a27b67a43e79",
+  "company": {
+    "key": "ing-group-n-v-common-stock",
+    "name": "ING Group N.V."
+  },
+  "source": {
+    "id": "ing-group-n-v-common-stock-news-import-24e0bc66ac88",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://ing.com/news/2026/2q2026-ing-results.html",
+    "canonical": "https://ing.com/news/2026/2q2026-ing-results.html"
+  },
+  "title": "2Q2026 results",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-30T15:29:00.079256+00:00",
+  "fetched_at": "2026-07-30T15:29:01.676030+00:00",
+  "last_updated_at": "2026-08-20T00:14:35.849415+00:00",
+  "paths": {
+    "article": "articles/v1/d3/ing-group-n-v-common-stock/2026/07/57/57e756367732b43f8215fe4cf326e784fb61ca6b6a3714cb2807a27b67a43e79/article.md",
+    "record": "articles/v1/d3/ing-group-n-v-common-stock/2026/07/57/57e756367732b43f8215fe4cf326e784fb61ca6b6a3714cb2807a27b67a43e79/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1091,
+    "sha256": "sha256:5ceb6bdc4facfcf6d1db1cc1bea292c74201e67b78e6880b2e602f0a8e5f97a4",
+    "normalized_content_hash": "sha256:dab54c1b6da6dd762eda2cdcab970a6cf54ebeee22df55c192acdf3183b507fa"
+  },
+  "provenance": {
+    "source_item_id": "b5e0d5b3-c1d1-4f71-b01a-5b7963222c1d",
+    "external_id": "https://ing.com/news/2026/2q2026-ing-results.html"
+  }
+}

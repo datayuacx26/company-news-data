@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "54d37e4334bde45fef24e86ebda204d54f430376c18235d24f2ade3a3374441a",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/cloud-database-security-engineering-sdlc/",
+    "canonical": "https://www.singlestore.com/blog/cloud-database-security-engineering-sdlc/"
+  },
+  "title": "Cloud Database Security Engineering and SDLC | SingleStore",
+  "summary": "How SingleStore embeds security into every SDLC stage - threat modeling, automated testing, penetration testing, and responsible disclosure.",
+  "published_at": "2026-06-24T13:45:50+00:00",
+  "first_seen_at": "2026-07-22T13:37:02.744795+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/06/54/54d37e4334bde45fef24e86ebda204d54f430376c18235d24f2ade3a3374441a/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/06/54/54d37e4334bde45fef24e86ebda204d54f430376c18235d24f2ade3a3374441a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12356,
+    "sha256": "sha256:dd94d06b67d55d6c0dcc6e83c1ecb37df72c5b20f295258145e624addd20bc90",
+    "normalized_content_hash": "sha256:c66040e211b54552ec3b70208de8908b7145049f10c453400bec3aa11ee51ff1"
+  },
+  "provenance": {
+    "source_item_id": "6f67e368-6548-44d0-a96f-b0d6099831fb",
+    "external_id": "https://www.singlestore.com/blog/cloud-database-security-engineering-sdlc/"
+  }
+}

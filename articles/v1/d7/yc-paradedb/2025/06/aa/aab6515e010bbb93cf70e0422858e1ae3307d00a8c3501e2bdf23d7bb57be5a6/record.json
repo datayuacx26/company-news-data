@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aab6515e010bbb93cf70e0422858e1ae3307d00a8c3501e2bdf23d7bb57be5a6",
+  "company": {
+    "key": "yc-paradedb",
+    "name": "ParadeDB"
+  },
+  "source": {
+    "id": "yc-paradedb-rss-b460d8ada1d2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.paradedb.com/blog/lsm-trees-in-postgres",
+    "canonical": "https://www.paradedb.com/blog/lsm-trees-in-postgres"
+  },
+  "title": "We Made Postgres Writes Faster, but it Broke Replication",
+  "summary": "Exploring LSM tree implementation in PostgreSQL for better write performance.",
+  "published_at": "2025-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.722459+00:00",
+  "fetched_at": "2026-07-28T20:57:22.944976+00:00",
+  "last_updated_at": "2026-08-20T02:15:21.077987+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-paradedb/2025/06/aa/aab6515e010bbb93cf70e0422858e1ae3307d00a8c3501e2bdf23d7bb57be5a6/article.md",
+    "record": "articles/v1/d7/yc-paradedb/2025/06/aa/aab6515e010bbb93cf70e0422858e1ae3307d00a8c3501e2bdf23d7bb57be5a6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13132,
+    "sha256": "sha256:70f71977c07c7659deb435e24de1279f04384e7a87492eae67796e7377708ae1",
+    "normalized_content_hash": "sha256:6cc159cb138b07d88a37d3fc30b463dcfb5b4884b302f847d6dcce2a3308a6a6"
+  },
+  "provenance": {
+    "source_item_id": "654b21a7-fa56-4c6a-9ee0-7099447f302a",
+    "external_id": "https://www.paradedb.com/blog/lsm-trees-in-postgres"
+  }
+}

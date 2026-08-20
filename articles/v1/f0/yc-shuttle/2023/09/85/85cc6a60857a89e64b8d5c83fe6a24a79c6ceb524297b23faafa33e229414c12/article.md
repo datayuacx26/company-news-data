@@ -1,0 +1,616 @@
+---
+schema_version: "1.0.0"
+document_id: "85cc6a60857a89e64b8d5c83fe6a24a79c6ceb524297b23faafa33e229414c12"
+company_key: "yc-shuttle"
+company: "Shuttle"
+source_id: "yc-shuttle-rss-52efc69d7cac"
+canonical_url: "https://www.shuttle.dev/blog/2023/09/20/logging-in-rust"
+published_at: "2023-09-20T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:24:10.103156+00:00"
+fetched_at: "2026-07-28T21:01:43.013341+00:00"
+content_hash: "sha256:c8a15f1e69488ca71fe8a4638ac142eb44a015ed9d487480c1d4958124f8132c"
+---
+
+# Logging in Rust (2025)
+
+## Introduction #
+
+
+With so many different libraries at our disposal for outputting logs in Rust, it's difficult to know which one to choose. When` println!` ,` dbg!` and` eprintln!` don't cut it, having a way to structure your logs is extremely important, especially in production-grade applications. This article will help you gain insight on what the best log crate for your use case is when it comes to Rust logging.
+
+
+## How does logging work in Rust? #
+
+
+In short: loggers in Rust depend on a library to act as a "logging facade" - a crate which provides the logging API that the logger can work with. So for example, if we have a crate like` log` that provides a logging implementation for us that we can use with a logger, we then will also need to add a crate that actually carries out the logging - for example,` simple-logger` being one of many crates that can use` log` . Some logging facades may only be able to be used by their own special logger - for example,` tracing` either requires you to use the` tracing-subscriber` crate, or otherwise implement your own custom type that implements` tracing::Subscriber` .
+
+
+Without further ado, let's start the Rust logging crate comparison!
+
+
+## Understanding Structured vs Unstructured Logging #
+
+
+Before we dive into specific crates, it's worth understanding the difference between structured and unstructured logging - this will help you choose the right tool for your needs.
+
+
+**Unstructured logging** is what you're probably used to - free-form text messages like` "User logged in"` or` "Error: connection failed"` . While easy to write, these logs are harder for machines to parse and query at scale.
+
+
+**Structured logging** treats log entries as data with key-value pairs, like` {"event": "user_login", "user_id": 123, "timestamp": "2024-01-15"}` . This makes logs machine-readable and much easier to search, filter, and analyze in production systems.
+
+
+For small projects or development, unstructured logging is often perfectly fine. But as your application grows and you need to query logs to debug production issues or analyze patterns, structured logging becomes invaluable.
+
+
+Most Rust logging crates play well together. The` log` crate serves as a universal standard that other interfaces can bridge to - for example, you can use` tracing` (which supports structured logging) with any` log` -compatible consumer through the` tracing-log` crate. This flexibility means you're not locked into one ecosystem.
+
+
+## log #
+
+
+[log](https://github.com/rust-lang/log) is a crate that calls itself a "lightweight logging facade". The crate defines a logging facade as a library that "provides a single logging API that abstracts over the actual logging implementation" - essentially, this means that we'll need to run another library that provides the actual logging and then use this crate to provide the logging messages. Log is also maintained by the Rust core team and is probably the first crate you'll see on[the Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/development_tools/debugging/log.html#log-a-debug-message-to-the-console) , so there's that.
+
+
+As taken from the GitHub repository, here's a simple example on how it can be used:
+
+
+```text
+use   log ;
+
+
+pub    fn    shave_the_yak  (  yak :    &  mut    Yak  )    {
+log ::   trace!  (  "Commencing yak shaving"  )  ;
+
+
+loop    {
+match    find_a_razor  (  )    {
+Ok  (  razor )    =>    {
+log ::   info!  (  "Razor located: {}"  ,   razor )  ;
+yak .  shave  (  razor )  ;
+break  ;
+}
+Err  (  err )    =>    {
+log ::   warn!  (  "Unable to locate a razor: {}, retrying"  ,   err )  ;
+}
+}
+}
+}
+
+
+```
+
+
+It should be noted that` log` is also compatible with a **lot** of logger crates - their GitHub repository alone lists over 20 and is a non-exhaustive list! If you're looking for a versatile logger, this is definitely for you. However, it's also not as powerful as some other crates so there's that to bear in mind.
+
+
+For most common use cases, it's the easiest to use crate: you simply set the message level, then send your message!
+
+
+A quick summary:
+
+
+- Maintained by the official Rust team
+- Works with nearly all logger crates
+- Not as powerful as some other log facade crates
+
+
+## env-logger #
+
+
+[env-logger](https://github.com/rust-cli/env_logger) is a simple Rust logger that's easy to use and is quite convenient for any small project where you want to implement logging but don't want something heavy-duty that will more than likely require a considerable amount of boilerplate. It's owned by the Rust CLI Working Group (WG), meaning it'll see long-term support which is great for us.
+
+
+It can be set up in a one-line statement:
+
+
+```text
+let   logger  =    Logger  ::  from_default_env  (  )  ;
+
+
+```
+
+
+Then you'd simply run your program from cargo like so, with the` RUST_LOG` environment variable in front of the command:
+
+
+```text
+# This command will run your program and only print out error messages from logs
+RUST_LOG  =  ERROR  cargo   run
+
+
+```
+
+
+You can also hard-code your minimum log level in your application like so:
+
+
+```text
+use    env_logger ::   {  Logger  ,    Env  }  ;
+
+
+let   env  =    Env  ::  new  (  )
+// filters out any messages that aren't at "info" log level or above
+.  filter_or  (  "MY_LOG"  ,    "info"  )
+// always use styles when printing
+.  write_style_or  (  "MY_LOG_STYLE"  ,    "always"  )  ;
+
+
+let   logger  =    Logger  ::  from_env  (  env )  ;
+
+
+```
+
+
+Have an overly verbose crate that loves spitting out logs? You can also set the log level for a specific dependency (this is in conjunction with the` log` crate):
+
+
+```text
+use    env_logger ::   Builder  ;
+use    log ::   LevelFilter  ;
+
+
+let    mut   builder  =    Builder  ::  new  (  )  ;
+
+
+builder .  filter_module  (  "path::to::module"  ,    LevelFilter  ::  Info  )  ;
+.  unwrap  (  )  ;
+
+
+```
+
+
+For all of its convenience however,` env-logger` does suffer from a couple of things that you might be looking for in a production-grade application: namely, that there is little documented functionality on writing your own pipe for logs which can make it quite tricky to implement, and[it's also unclear whether this crate is thread-safe.](https://github.com/rust-cli/env_logger/issues/269)
+
+
+**When to use env-logger:** This is perfect for quick prototypes, development environments, or small CLI tools where you want the convenience of the` RUST_LOG` environment variable without any setup complexity.
+
+
+A quick summary:
+
+
+- Owned by the Rust CLI Working Group
+- Simple to use and feels good to use
+- Perfect for development and quick prototyping
+- Lack of documentation on more complex functionality like log appending/piping
+- Some unclear issues on whether the crate is 100% thread-safe
+
+
+## fern #
+
+
+[fern](https://github.com/daboross/fern) is a simple, runtime-configurable logging library that works with the` log` crate. If you're coming from JavaScript (Winston) or Python (logging module), fern will feel familiar - it uses a builder pattern that's intuitive and straightforward.
+
+
+## log4rs #
+
+
+[log4rs](https://github.com/estk/log4rs) is a logging crate modeled after Java's log4j - a logging package that's probably one of the most deployed pieces of open source software. This crate requires a bit more setup than the others and configuration can be done with either a YAML file or programmatically.` log4rs` is compatible with` log` , which is great for us as it means we don't have to adopt a new paradigm just to use` log4rs` .
+
+
+If you wanted to create a config file to load in from, you'd set your YAML file up like this:
+
+
+```text
+# set a refresh rate
+refresh_rate  :   30 seconds
+
+
+# appenders
+appenders  :
+# this appender will append to the console
+stdout  :
+kind  :   console
+# this appender will append to a log file
+requests  :
+kind  :   file
+path  :    "log/requests.log"
+# this is a simple string encoder - this will be explained below
+encoder  :
+pattern  :    "{d} - {m}{n}"
+
+
+# the appender that prints to stdout will only print if the log level of the message is warn or above
+root  :
+level  :   warn
+appenders  :
+-   stdout
+
+
+# set minimum logging level - log messages below the mnimum won't be recorded
+loggers  :
+app::backend::db  :
+level  :   info
+
+
+app::requests  :
+level  :   info
+appenders  :
+-   requests
+additive  :    false
+
+
+```
+
+
+The encoder can either use JSON encoding, or pattern encoding. Here we've decided to use pattern encoding, which follows similarly to the original log4j pattern but with Rust string formatting - you can check out more about how to format your encoder pattern[here.](https://www.tutorialspoint.com/log4j/log4j_patternlayout.htm)
+
+
+Then you can just initialise it when you're setting your program up, like so:
+
+
+```text
+log4rs ::   init_file  (  "log4rs.yml"  ,    Default  ::  default  (  )  )  .  unwrap  (  )  ;
+
+
+```
+
+
+You can also programatically create your configuration:
+
+
+```text
+use    log ::   LevelFilter  ;
+use    log4rs ::  append ::  console ::   ConsoleAppender  ;
+use    log4rs ::  append ::  file ::   FileAppender  ;
+use    log4rs ::  encode ::  pattern ::   PatternEncoder  ;
+use    log4rs ::  config ::   {  Appender  ,    Config  ,    Logger  ,    Root  }  ;
+
+
+fn    main  (  )    {
+// set up ConsoleAppender to allow appending logs to the console (stdout)
+let   stdout  =    ConsoleAppender  ::  builder  (  )  .  build  (  )  ;
+
+
+// set up FileAppender to allow appending logs to a log file
+let   requests  =    FileAppender  ::  builder  (  )
+.  encoder  (  Box  ::  new  (  PatternEncoder  ::  new  (  "{d} - {m}{n}"  )  )  )
+.  build  (  "log/requests.log"  )
+.  unwrap  (  )  ;
+
+
+let   config  =    Config  ::  builder  (  )
+.  appender  (  Appender  ::  builder  (  )  .  build  (  "stdout"  ,    Box  ::  new  (  stdout )  )  )
+.  appender  (  Appender  ::  builder  (  )  .  build  (  "requests"  ,    Box  ::  new  (  requests )  )  )
+.  logger  (  Logger  ::  builder  (  )  .  build  (  "app::backend::db"  ,    LevelFilter  ::  Info  )  )
+.  logger  (  Logger  ::  builder  (  )
+.  appender  (  "requests"  )
+.  additive  (  false  )
+.  build  (  "app::requests"  ,    LevelFilter  ::  Info  )  )
+.  build  (  Root  ::  builder  (  )  .  appender  (  "stdout"  )  .  build  (  LevelFilter  ::  Warn  )  )
+.  unwrap  (  )  ;
+
+
+let   handle  =    log4rs ::   init_config  (  config )  .  unwrap  (  )  ;
+
+
+// use handle to change logger configuration at runtime
+}
+
+
+```
+
+
+You can also automatically archive your logs with` log4rs` , which is great! This is a feature that must otherwise be manually implemented by yourself when it comes to most of if not all other logger crates, so having this feature built into the logger itself is a huge convenience. We can get started with setting it up by adding the following to a YAML configuration file (under "appenders"):
+
+
+```text
+rolling_appender  :
+kind  :   rolling_file
+path  :   log/foo.log
+append  :    true
+encoder  :
+kind  :   pattern
+pattern  :    "{d} - {m}{n}"
+policy  :
+kind  :   compound
+trigger  :
+kind  :   size
+limit  :   10 mb
+# upon reaching the max log size, the file simply gets deleted on successful roll
+roller  :
+kind  :   delete
+
+
+```
+
+
+Now we have a policy that fills up the main log file, then appends it to an archived log file once the main log file reaches 10 megabytes' worth of logs, then deletes the currently active log file ready to receive more logs.
+
+
+As you can see,` log4rs` is an extremely versatile crate that works with the previously mentioned` log` crate to provide powerful functionality with regards to logging in Rust, and is espespecially great if you're coming from a language like Java where you already understand the mental model and just want to find out how to do logging in Rust. However, in exchange for this you have to learn how to set the logger up and the setup itself is quite complicated compared to other logging crates, so bear that in mind.
+
+
+Summary:
+
+
+- Large all-in-one crate that can do it all
+- Requires extensive boilerplate or a config file
+- Easy to set up your own file appending for a log egress service
+- Works with` log`
+
+
+## simplelog #
+
+
+[simplelog](https://github.com/Drakulix/simplelog.rs) lives up to its name - it's one of the simplest logging implementations you'll find that works with the` log` crate. If you want basic logging with minimal configuration, this is your option.
+
+
+## slog #
+
+
+[slog](https://github.com/slog-rs/slog) is an older structured logging framework that predates` tracing` . While it offers structured logging capabilities and has its own ecosystem of drain implementations, it's less widely adopted today compared to` tracing` .
+
+
+#### Loved by developers
+
+
+Join developers building with Shuttle
+
+
+[Join them](https://console.shuttle.dev/)
+
+
+Deployed my second service with Shuttle and I really like it! It's fast and integrates well with cargo, so I can focus on the Rust code instead of the deployment. Well done!
+
+
+Matthias Endler
+
+
+@matthiasendler
+
+
+Rust Consultant @ Corrode
+
+
+[Join them](https://console.shuttle.dev/)
+
+
+## tracing #
+
+
+[tracing](https://github.com/tokio-rs/tracing) is a crate that calls itself "a framework for instrumenting Rust programs to collect structured, event-based diagnostic information", requiring its logger counterpart` tracing-subscriber` to be used or a custom type that implements the` tracing::Subscriber` function. Developed by the Tokio team, it's fully built up from the ground for async which is perfect for web applications with Rust logs.
+
+
+` tracing` uses the concept of "spans" which are used to record the flow of execution through a program. Events can happen inside or outside of a span and can also be used similarly to unstructured logging (ie, just recording the event any which way) but can also represent a point of time within a span. See below:
+
+
+```text
+use    tracing ::   Level  ;
+
+
+// records an event outside of any span context:
+tracing ::   event!  (  Level  ::  DEBUG  ,    "something happened"  )  ;
+
+
+// create the span while entering it
+let   span  =    tracing ::   span!  (  Level  ::  INFO  "my_span"  )  .  entered  (  )  ;
+
+
+// records an event within "my_span".
+tracing ::   event!  (  Level  ::  DEBUG  ,    "something happened inside my_span"  )  ;
+
+
+```
+
+
+Spans can form a tree structure, and the entire subtree is represented by its children - therefore, a parent span will always last as long as its longest-lived child span if not longer.
+
+
+Because all of this can be a bit excessive,` tracing` has also included the regular macros that would be in other log facade libraries for logging - namely,` info!` ,` error!` ,` debug!` ,` warn!` and` trace!` . There's also a span version of each of these macros - but if you're coming from` log` and want to try` tracing` out without getting lost in the complexity of trying to make sure everything is in a span, tracing's got your back.
+
+
+```text
+use   tracing ;
+
+
+tracing ::   debug!  (  "Looks just like the log crate!"  )  ;
+
+
+tracing ::   info_span!  (  "a more convenient version of creating spans!"  )  ;
+
+
+```
+
+
+[tracing-subscriber](https://github.com/tokio-rs/tracing/tree/master/tracing-subscriber) is the logger crate designed to work with` tracing` by letting you define a logger that implements the` Subscriber` trait from` tracing` .
+
+
+You can start a subscriber that takes the` RUST_LOG` environment variable like so:
+
+
+```text
+tracing_subscriber ::   registry  (  )
+.  with  (  fmt ::   layer  (  )  )
+.  with  (  EnvFilter  ::  from_default_env  (  )  )
+.  init  (  )  ;
+
+
+```
+
+
+You can also apply a hard-coded filter programatically:
+
+
+```text
+use    tracing_subscriber ::  filter ::   {  EnvFilter  ,    LevelFilter  }  ;
+
+
+let   my_filter  =    EnvFilter  ::  builder  (  )
+.  with_default_directive  (  LevelFilter  ::  ERROR  .  into  (  )  )
+.  from_env_lossy  (  )  ;
+
+
+tracing_subscriber ::   registry  (  )
+.  with  (  fmt ::   layer  (  )  )
+.  with  (  filter )
+.  init  (  )  ;
+
+
+```
+
+
+You can also layer filters on top of each other! This is quite useful in case you want the effect of having multiple subscribers at the same time.
+
+
+If you need to export your logs somewhere, there's also the[tracing_appender](https://github.com/tokio-rs/tracing/tree/master/tracing-appender) crate. You would want to add this in with your tracing subscriber by using the` .with_writer()` method, like so:
+
+
+```text
+// create a file appender that rotates hourly
+let   file_appender  =    tracing_appender ::  rolling ::   hourly  (  "/some/directory"  ,    "prefix.log"  )  ;
+// make the file appender non-blocking
+// the guard exists to make sure buffered logs get flushed to output
+let    (  non_blocking ,   _guard )    =    tracing_appender ::   non_blocking  (  file_appender )  ;
+
+
+// add the file appender to your tracing subscriber
+tracing_subscriber ::   fmt  (  )
+.  with_writer  (  non_blocking )
+.  init  (  )  ;
+
+
+```
+
+
+The` non_blocking` writer is built with a type that implements` std::io::Write` - so if you wanted to implement your own thing that implements` std::io::Write` (say you want a logging express that automatically exports all your stuff to BetterStack or Datadog) - you'd want to try this. See below:
+
+
+```text
+use    std ::  io ::   Error  ;
+
+
+struct    TestWriter  ;
+
+
+impl    std ::  io ::   Write    for    TestWriter    {
+fn    write  (  &  mut    self  ,   buf :    &  [  u8  ]  )    ->    std ::  io ::   Result  <  usize  >    {
+let   buf_len  =   buf .  len  (  )  ;
+println!  (  "{:?}"  ,   buf )  ;
+Ok  (  buf_len )
+}
+
+
+fn    flush  (  &  mut    self  )    ->    std ::  io ::   Result  <  (  )  >    {
+Ok  (  (  )  )
+}
+}
+
+
+let    (  non_blocking ,   _guard )    =    tracing_appender ::   non_blocking  (  TestWriter  )  ;
+tracing_subscriber ::   fmt  (  )
+.  with_writer  (  non_blocking )
+.  init  (  )  ;
+
+
+```
+
+
+As you can see, the` tracing` family of crates offers a tonne of power in terms of what it can do and is robust enough for any web application and it's maintained by the Tokio team so it is sure to be supported for a long time. However, using it requires learning about how` tracing` works as it uses concepts that are not utilised in other logging crates - so you'll be locked in if you need to migrate from the crate for whatever reason and you're using spans.
+
+
+**Performance considerations:** The` tracing-appender` crate mentioned above provides non-blocking, out-of-thread logging which is particularly valuable for high-throughput applications where logging performance matters. The non-blocking writer offloads the I/O operations to a separate thread, preventing logging from blocking your application's critical path.
+
+
+**Compatibility note:** While` tracing` is its own ecosystem, you can make it work with` log` -based consumers using the` tracing-log` crate. This gives you flexibility - you can use tracing's powerful features while still integrating with libraries that use the standard` log` facade.
+
+
+Summary:
+
+
+- Requires some learning about spans, etc to utilise fully
+- Maintained by the Tokio team so more than likely will see LTS
+- Split crates means you don't have to install things you aren't going to use
+- ` tracing-appender` provides out-of-thread logging for better performance
+- Compatible with` log` ecosystem via` tracing-log`
+- Probably the most complex system to use on the list due to the way it's built
+
+
+#### Join the Shuttle Discord Community
+
+
+Connect with other developers, learn, get help, and share your projects
+
+
+[Join](https://discord.gg/shuttle)
+
+
+## Choosing the Right Logging Crate #
+
+
+With so many options, here's a comparison table to help you decide:
+
+
+Crate Best For Complexity Structured Logging Key Strength When to Use
+
+
+**tracing** Applications High Yes Async-first, powerful instrumentation Production apps, microservices, need structured logging
+
+
+**log** Libraries Low No Universal compatibility Building a library that others will use
+
+
+**env-logger** Applications Very Low No Quick RUST_LOG setup Development, prototypes, CLI tools
+
+
+**fern** Applications Low No Familiar API Coming from JS/Python, need simple control
+
+
+**simplelog** Applications Very Low No Absolute simplicity Just want it to work with minimal code
+
+
+**log4rs** Applications High No File rotation, YAML config Need enterprise features, coming from Java
+
+
+**slog** Applications Medium Yes Structured logging (older) Existing slog codebase (use tracing for new projects)
+
+
+**Quick decision guide:**
+
+
+-
+
+
+**Building a library?** Use` log` - it's the universal standard and ensures maximum compatibility with any logging backend users might choose.
+
+
+-
+
+
+**Need structured logging?** Use` tracing` for new projects. It's the modern choice with the best async support and ecosystem.
+
+
+-
+
+
+**Just want simple logging for development?** Use` env-logger` or` simplelog` - both are trivial to set up and work great for quick projects.
+
+
+-
+
+
+**Need file rotation and enterprise features?** Use` log4rs` - it handles log archiving, rotation, and complex configurations out of the box.
+
+
+-
+
+
+**Coming from another language?** Use` fern` if you're familiar with Winston (JS) or Python's logging module - the builder pattern will feel natural.
+
+
+-
+
+
+**Performance-critical application?** Use` tracing` with` tracing-appender` for non-blocking, out-of-thread logging.
+
+
+The most important distinction: **libraries should use` log`** for compatibility, while **applications have more freedom** to choose based on their specific needs.
+
+
+## Conclusions #
+
+
+Thanks for reading! Now that we're at the end, I hope you have a better understanding of logging in Rust. With so many logging crates it's difficult to figure out which one you should use, but hopefully this article has provided some clarity into which crate is the best Rust logger for your use case.
+
+
+Did you like this article? Be sure to[give us a star on GitHub!](https://www.github.com/shuttle-hq/shuttle)

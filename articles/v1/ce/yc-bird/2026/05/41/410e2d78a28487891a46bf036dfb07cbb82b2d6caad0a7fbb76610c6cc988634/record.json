@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "410e2d78a28487891a46bf036dfb07cbb82b2d6caad0a7fbb76610c6cc988634",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/what-is-an-email-validation-api",
+    "canonical": "https://bird.com/en-us/blog/what-is-an-email-validation-api"
+  },
+  "title": "What Is an Email Validation API?",
+  "summary": "An email validation API checks whether an address is real and deliverable before you send, cutting bounces and protecting your sender reputation.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/05/41/410e2d78a28487891a46bf036dfb07cbb82b2d6caad0a7fbb76610c6cc988634/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/05/41/410e2d78a28487891a46bf036dfb07cbb82b2d6caad0a7fbb76610c6cc988634/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5199,
+    "sha256": "sha256:c40172f24f67e72c2bc75d82c8e5cb2789a0d3fcac929e03f888b849778f9def",
+    "normalized_content_hash": "sha256:684dc86d0d3ffb5a5cc9ed872c6e1174a6dee44901af341240d10de5eb383360"
+  },
+  "provenance": {
+    "source_item_id": "516495a8-c9d3-45f2-a29f-c5f5efb944cc",
+    "external_id": "https://bird.com/en-us/blog/what-is-an-email-validation-api"
+  }
+}

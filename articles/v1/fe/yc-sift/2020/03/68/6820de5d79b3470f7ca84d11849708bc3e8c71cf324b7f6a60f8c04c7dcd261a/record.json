@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6820de5d79b3470f7ca84d11849708bc3e8c71cf324b7f6a60f8c04c7dcd261a",
+  "company": {
+    "key": "yc-sift",
+    "name": "Sift"
+  },
+  "source": {
+    "id": "yc-sift-rss-afa0f6dcd9d7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.sift.com/gcp-data-mig-4/",
+    "canonical": "https://engineering.sift.com/gcp-data-mig-4/"
+  },
+  "title": "Lessons Learned From Bigtable Data Migration(Part 4/4)",
+  "summary": "Lessons from Sift's migration from self-managed HBase on AWS to Google's Cloud Bigtable. The Sift platform enhances trust and safety in the digital world.",
+  "published_at": "2020-03-06T09:16:45+00:00",
+  "first_seen_at": "2026-08-12T04:14:07.509173+00:00",
+  "fetched_at": "2026-08-12T04:14:09.389902+00:00",
+  "last_updated_at": "2026-08-20T02:40:47.603389+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-sift/2020/03/68/6820de5d79b3470f7ca84d11849708bc3e8c71cf324b7f6a60f8c04c7dcd261a/article.md",
+    "record": "articles/v1/fe/yc-sift/2020/03/68/6820de5d79b3470f7ca84d11849708bc3e8c71cf324b7f6a60f8c04c7dcd261a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14039,
+    "sha256": "sha256:078d328b784370f9fb3feeaff278197f36dc1c443740279ef8ba4101a523555f",
+    "normalized_content_hash": "sha256:0cd03cd9784c2fd8b232195ccc18c46bad09eaac2639223fc89645e911000b72"
+  },
+  "provenance": {
+    "source_item_id": "988e25d3-7413-45b0-adbc-22673174b4b0",
+    "external_id": "https://engineering.sift.com/?p=2172"
+  }
+}

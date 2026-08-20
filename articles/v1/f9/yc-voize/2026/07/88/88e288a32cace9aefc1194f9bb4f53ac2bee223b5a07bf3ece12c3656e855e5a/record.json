@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "88e288a32cace9aefc1194f9bb4f53ac2bee223b5a07bf3ece12c3656e855e5a",
+  "company": {
+    "key": "yc-voize",
+    "name": "voize"
+  },
+  "source": {
+    "id": "yc-voize-news-import-43f8d5e4a29a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tech.voize.de/posts/pytorch-lite-multiplatform",
+    "canonical": "https://tech.voize.de/posts/pytorch-lite-multiplatform"
+  },
+  "title": "PyTorch Lite Multiplatform",
+  "summary": "Write inference code once and run it on both Android and iOS.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T06:33:48.232845+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T22:13:44.497937+00:00",
+  "paths": {
+    "article": "articles/v1/f9/yc-voize/2026/07/88/88e288a32cace9aefc1194f9bb4f53ac2bee223b5a07bf3ece12c3656e855e5a/article.md",
+    "record": "articles/v1/f9/yc-voize/2026/07/88/88e288a32cace9aefc1194f9bb4f53ac2bee223b5a07bf3ece12c3656e855e5a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12308,
+    "sha256": "sha256:8ee8c914ec33598ab09bc888dba82e3f316352d9c932e5fda7e91aed800b23bf",
+    "normalized_content_hash": "sha256:1a357540f852dfd924d6fdab4dc394088417c4aaa6cfad5c6253b77fd633686c"
+  },
+  "provenance": {
+    "source_item_id": "fc39cfd5-77dd-4ff0-a0dd-1fbf027842c3",
+    "external_id": "https://tech.voize.de/posts/pytorch-lite-multiplatform"
+  }
+}

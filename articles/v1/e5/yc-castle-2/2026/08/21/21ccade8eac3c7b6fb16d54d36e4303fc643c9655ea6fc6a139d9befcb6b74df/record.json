@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "21ccade8eac3c7b6fb16d54d36e4303fc643c9655ea6fc6a139d9befcb6b74df",
+  "company": {
+    "key": "yc-castle-2",
+    "name": "Castle"
+  },
+  "source": {
+    "id": "yc-castle-2-news-import-b99476926256",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.castle.io/changelog/ip-intelligence-api",
+    "canonical": "https://docs.castle.io/changelog/ip-intelligence-api"
+  },
+  "title": "IP Intelligence API",
+  "summary": "Get a complete picture of every IP and its recent connections. Know their types, proxy or VPN operators, even when a residential address hides a proxy exit.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T17:50:10.642270+00:00",
+  "fetched_at": "2026-08-06T17:50:12.970420+00:00",
+  "last_updated_at": "2026-08-20T02:45:41.804501+00:00",
+  "paths": {
+    "article": "articles/v1/e5/yc-castle-2/2026/08/21/21ccade8eac3c7b6fb16d54d36e4303fc643c9655ea6fc6a139d9befcb6b74df/article.md",
+    "record": "articles/v1/e5/yc-castle-2/2026/08/21/21ccade8eac3c7b6fb16d54d36e4303fc643c9655ea6fc6a139d9befcb6b74df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2347,
+    "sha256": "sha256:ac2378b201cbb4dc220cb51952f57594e93e747558c628a0e4fb7503495b7216",
+    "normalized_content_hash": "sha256:9816321c7f1b2cc7ce47f7ad078422f7778c03d847f3306ac9105f5b27127503"
+  },
+  "provenance": {
+    "source_item_id": "e1b1d25d-7aef-47e1-a2b4-0e1dff5d95aa",
+    "external_id": "https://docs.castle.io/changelog/ip-intelligence-api"
+  }
+}

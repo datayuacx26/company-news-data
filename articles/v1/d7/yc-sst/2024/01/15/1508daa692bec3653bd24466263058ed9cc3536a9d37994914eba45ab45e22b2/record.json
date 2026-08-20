@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1508daa692bec3653bd24466263058ed9cc3536a9d37994914eba45ab45e22b2",
+  "company": {
+    "key": "yc-sst",
+    "name": "SST"
+  },
+  "source": {
+    "id": "yc-sst-news-import-9375d5a7fa7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sst.dev/blog/moving-away-from-cdk",
+    "canonical": "https://sst.dev/blog/moving-away-from-cdk/"
+  },
+  "title": "Moving away from CDK",
+  "summary": "We are working on a new version of SST that’s not based on CDK.",
+  "published_at": "2024-01-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:49:09.857782+00:00",
+  "fetched_at": "2026-07-28T21:33:41.699737+00:00",
+  "last_updated_at": "2026-08-19T20:37:58.782391+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-sst/2024/01/15/1508daa692bec3653bd24466263058ed9cc3536a9d37994914eba45ab45e22b2/article.md",
+    "record": "articles/v1/d7/yc-sst/2024/01/15/1508daa692bec3653bd24466263058ed9cc3536a9d37994914eba45ab45e22b2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37203,
+    "sha256": "sha256:05f801260e1ce91ae48186d87e98343e89752f253f79f66d3ecbd08780d00c7b",
+    "normalized_content_hash": "sha256:733bfa1e7ce3e1563ef65559846243b91e9c58c468545c1b0adce8910493d99d"
+  },
+  "provenance": {
+    "source_item_id": "c74de7a6-29b6-41a3-95f3-1fed8439a958",
+    "external_id": "https://sst.dev/blog/moving-away-from-cdk/"
+  }
+}

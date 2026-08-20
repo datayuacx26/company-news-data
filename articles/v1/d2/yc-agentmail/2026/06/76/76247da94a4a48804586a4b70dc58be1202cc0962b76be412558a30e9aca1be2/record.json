@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "76247da94a4a48804586a4b70dc58be1202cc0962b76be412558a30e9aca1be2",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/agentmail-vs-postmark",
+    "canonical": "https://www.agentmail.to/blog/agentmail-vs-postmark"
+  },
+  "title": "AgentMail vs Postmark",
+  "summary": "Postmark is a transactional email service with a strong inbound webhook. AgentMail is built around the inbox as the primitive for AI agents. Here is what each one is built for, the agent loop in code, and how the pricing and skills compare.",
+  "published_at": "2026-06-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:21:53.618588+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-07T12:46:46.748244+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/06/76/76247da94a4a48804586a4b70dc58be1202cc0962b76be412558a30e9aca1be2/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/06/76/76247da94a4a48804586a4b70dc58be1202cc0962b76be412558a30e9aca1be2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14850,
+    "sha256": "sha256:046456d38e1a2f4f53f6e591acce602909f68f58626eae0616f43e99d9320773",
+    "normalized_content_hash": "sha256:4e973290def9ed606e2d42f456c400860c7d03e3177a77d8822d97192e5f4724"
+  },
+  "provenance": {
+    "source_item_id": "b4743ee5-b427-49ad-9169-a8b29eee6295",
+    "external_id": "https://www.agentmail.to/blog/agentmail-vs-postmark"
+  }
+}

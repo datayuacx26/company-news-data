@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "43c859aa22e8def45e651517458d9d70d5c1ca4ff85198ce2b7a3dc2071b07e5",
+  "company": {
+    "key": "yc-vote-org",
+    "name": "Vote.org"
+  },
+  "source": {
+    "id": "yc-vote-org-news-import-3f6ed1ef3f94",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.vote.org/press-releases/statement-on-watson-v-rnc/",
+    "canonical": "https://www.vote.org/press-releases/statement-on-watson-v-rnc/"
+  },
+  "title": "Vote.org Statement on Watson v. Republican National Committee",
+  "summary": "Today, the Supreme Court will hear arguments in Watson v. Republican National Committee, a case with signiﬁcant implications for mail voting in more than a dozen states. The case centers on a Mississippi law that allows mail-in ballots postmarked on or before Election Day to be counted if they are received within ﬁve business days after Election Day.",
+  "published_at": "2026-03-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T04:58:19.644110+00:00",
+  "fetched_at": "2026-07-28T22:18:15.193115+00:00",
+  "last_updated_at": "2026-08-20T03:31:40.280751+00:00",
+  "paths": {
+    "article": "articles/v1/c8/yc-vote-org/2026/03/43/43c859aa22e8def45e651517458d9d70d5c1ca4ff85198ce2b7a3dc2071b07e5/article.md",
+    "record": "articles/v1/c8/yc-vote-org/2026/03/43/43c859aa22e8def45e651517458d9d70d5c1ca4ff85198ce2b7a3dc2071b07e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2619,
+    "sha256": "sha256:f10ca9ae9c5e451787ce475bc7c74d5b759ae9ca5b8a16ae887d4df72459aedb",
+    "normalized_content_hash": "sha256:e728ce10ad83000dd031c0fb96370d106917ecb5fd374489450d3296240c5d77"
+  },
+  "provenance": {
+    "source_item_id": "b92deec2-9850-4f8d-ab98-dcd78b1aed35",
+    "external_id": "https://www.vote.org/press-releases/statement-on-watson-v-rnc/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "31f1b7cd3926dff1a1ccc9ec62486ca9336dcbb8bf1a4d9bd5459102de8365ce",
+  "company": {
+    "key": "yc-onboard-io",
+    "name": "Onboard.io"
+  },
+  "source": {
+    "id": "yc-onboard-io-news-import-03d553c3465d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://onboard.io/blog/dependent-due-dates",
+    "canonical": "https://onboard.io/blog/dependent-due-dates"
+  },
+  "title": "Announcing Dependent Due Dates: Keep every task in lockstep",
+  "summary": "Onboard now supports Dependent Due Dates. You can auto‑set a task’s due date based on another task’s due date—either the previous task or any specific task in the map. When a task’s due date changes, all dependent tasks reschedule automatically. Circular dependencies are blocked, and we send a single digest e...",
+  "published_at": "2025-10-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:14:30.527567+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T19:10:37.113732+00:00",
+  "paths": {
+    "article": "articles/v1/c1/yc-onboard-io/2025/10/31/31f1b7cd3926dff1a1ccc9ec62486ca9336dcbb8bf1a4d9bd5459102de8365ce/article.md",
+    "record": "articles/v1/c1/yc-onboard-io/2025/10/31/31f1b7cd3926dff1a1ccc9ec62486ca9336dcbb8bf1a4d9bd5459102de8365ce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5415,
+    "sha256": "sha256:bd43d124fe9226114ce3f8443bb279aaf2854db30e32e2bdf5459e8c9dd3f369",
+    "normalized_content_hash": "sha256:3aa54677fdde95a1d0a536a3d9e6fc0ecd682cc4e1fa65c3d565b00b93ec2a56"
+  },
+  "provenance": {
+    "source_item_id": "f7c06397-4ac6-4ffb-b5e9-efc8b87456ba",
+    "external_id": "https://onboard.io/blog/dependent-due-dates"
+  }
+}

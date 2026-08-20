@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "678ce6c33f32156385b18bd4fe196b859eb52d0dd181b47a8a87878262f85937",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/10/04/sql-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/10/04/sql-in-rust"
+  },
+  "title": "Raw SQL in Rust with SQLx",
+  "summary": "This article shows you how you can use SQL in Rust with SQLx - you will find a rundown of all the advantages SQLx offers you, the best ways to use it and how to use SQLx with Shuttle.",
+  "published_at": "2023-10-04T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/10/67/678ce6c33f32156385b18bd4fe196b859eb52d0dd181b47a8a87878262f85937/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/10/67/678ce6c33f32156385b18bd4fe196b859eb52d0dd181b47a8a87878262f85937/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16616,
+    "sha256": "sha256:a63cc33affbc13aca2dac18b1072b13898ecf0f84db1536b173bc9b35f500126",
+    "normalized_content_hash": "sha256:48ceb68583c26c0795523757f4b2de01a754707f320f784bd85654e211757bc1"
+  },
+  "provenance": {
+    "source_item_id": "4500113d-3106-44d7-bbfb-07c9c824e070",
+    "external_id": "https://www.shuttle.dev/blog/2023/10/04/sql-in-rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f5156cf6c493714386266a9d4b96c0c0a449faf3b51f9f5b1b16bf061e8709f5",
+  "company": {
+    "key": "yc-quantstamp",
+    "name": "Quantstamp"
+  },
+  "source": {
+    "id": "yc-quantstamp-rss-54cdced55685",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://quantstamp.com/blog/will-eip-7702-affect-your-code",
+    "canonical": "https://quantstamp.com/blog/will-eip-7702-affect-your-code"
+  },
+  "title": "Will EIP-7702 Affect Your Code?",
+  "summary": "The upcoming EVM hardfork, Pectra, amongst other changes, will implement EIP-7702, a proposal introducing a new transaction type that allows Externally Owned Accounts (EOAs) to delegate—and later undelegate—their behavior to smart contracts. While this upgrade enhances flexibility, it also disrupts long-standing security assumptions in many deployed contracts. With the risk that malicious actors may exploit these changes once Pectra is enabled, it is crucial to assess whether your codebase might be negatively impacted.",
+  "published_at": "2025-06-04T18:23:59+00:00",
+  "first_seen_at": "2026-07-25T20:14:20.321573+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T03:09:35.051135+00:00",
+  "paths": {
+    "article": "articles/v1/cb/yc-quantstamp/2025/06/f5/f5156cf6c493714386266a9d4b96c0c0a449faf3b51f9f5b1b16bf061e8709f5/article.md",
+    "record": "articles/v1/cb/yc-quantstamp/2025/06/f5/f5156cf6c493714386266a9d4b96c0c0a449faf3b51f9f5b1b16bf061e8709f5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8876,
+    "sha256": "sha256:da6cf8fb60a3970deb62f9cae62846c1d97ec21e323b1eb4af1c4ba328209805",
+    "normalized_content_hash": "sha256:479e2a6a1eda704e3c1661dae2c7415eb7135fd626010ddca8e9047abf1f906f"
+  },
+  "provenance": {
+    "source_item_id": "b72698ae-e729-4a59-add7-1d0ce5f16a3a",
+    "external_id": "https://quantstamp.com/blog/will-eip-7702-affect-your-code"
+  }
+}

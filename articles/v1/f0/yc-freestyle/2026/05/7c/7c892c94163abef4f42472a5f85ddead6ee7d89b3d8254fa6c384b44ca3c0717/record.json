@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c892c94163abef4f42472a5f85ddead6ee7d89b3d8254fa6c384b44ca3c0717",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/opinion/why-ai-sandboxes-suck",
+    "canonical": "https://www.freestyle.sh/blog/opinion/why-ai-sandboxes-suck"
+  },
+  "title": "Why AI sandboxes Suck",
+  "summary": "Sandboxes are usually designed around what we think agents will need. VMs are designed around what agents actually do: use computers.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:54:28.432730+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/05/7c/7c892c94163abef4f42472a5f85ddead6ee7d89b3d8254fa6c384b44ca3c0717/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/05/7c/7c892c94163abef4f42472a5f85ddead6ee7d89b3d8254fa6c384b44ca3c0717/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10329,
+    "sha256": "sha256:1e5636c57cb6f727a7b7868a67e99a77d73b4baf1e8d17df7ee438de194274ad",
+    "normalized_content_hash": "sha256:68e8f0d1ee2bf663c5d2505e35128e259e191a4cb6eded59df737f4c7cc458a9"
+  },
+  "provenance": {
+    "source_item_id": "610a4896-e4f5-499a-9258-4b18879532cf",
+    "external_id": "https://www.freestyle.sh/blog/opinion/why-ai-sandboxes-suck"
+  }
+}

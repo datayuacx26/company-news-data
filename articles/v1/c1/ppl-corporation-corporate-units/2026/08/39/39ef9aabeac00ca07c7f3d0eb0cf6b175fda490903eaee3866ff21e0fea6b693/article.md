@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "39ef9aabeac00ca07c7f3d0eb0cf6b175fda490903eaee3866ff21e0fea6b693"
+company_key: "ppl-corporation-corporate-units"
+company: "PPL Corporation Corporate Units"
+source_id: "ppl-corporation-corporate-units-rss-4128c7a95eb2"
+canonical_url: "https://news.pplweb.com/news-releases?item=138193"
+published_at: "2026-08-11T14:35:00+00:00"
+first_seen_at: "2026-08-11T15:41:52.891350+00:00"
+fetched_at: "2026-08-13T15:27:27.011590+00:00"
+content_hash: "sha256:0b1d2c0533d295a959690947b91ccff4218d8a7756e7f9ea5d03906a50f6d7f2"
+---
+
+# PPL Electric Utilities reminds customers to call 811 before digging
+
+

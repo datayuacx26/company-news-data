@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "40008ac0307a0d5db2c72c20162c4e379881ece9b7d1a72d70c1d662ffcbaa5f",
+  "company": {
+    "key": "a10-networks-inc-common-stock",
+    "name": "A10 Networks Inc."
+  },
+  "source": {
+    "id": "a10-networks-inc-common-stock-news-import-93f3d589ad9d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investors.a10networks.com/news-events/annual-meeting-of-stockholders/default.aspx",
+    "canonical": "https://investors.a10networks.com/news-events/annual-meeting-of-stockholders/default.aspx"
+  },
+  "title": "Annual Meeting of Stockholders",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T13:57:26.938263+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-16T04:44:47.283266+00:00",
+  "paths": {
+    "article": "articles/v1/ce/a10-networks-inc-common-stock/2026/07/40/40008ac0307a0d5db2c72c20162c4e379881ece9b7d1a72d70c1d662ffcbaa5f/article.md",
+    "record": "articles/v1/ce/a10-networks-inc-common-stock/2026/07/40/40008ac0307a0d5db2c72c20162c4e379881ece9b7d1a72d70c1d662ffcbaa5f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1663,
+    "sha256": "sha256:064c7b162d3cde1b8416e47c5dbfceded7e78ef23cda84cb25f54743e1ad4e33",
+    "normalized_content_hash": "sha256:3ad187a49c5a662645c3857aeca209cf0c4b36414be3b2256b511222232526db"
+  },
+  "provenance": {
+    "source_item_id": "b55ace2b-de85-48c3-bc76-ad063aac961e",
+    "external_id": "https://investors.a10networks.com/news-events/annual-meeting-of-stockholders/default.aspx"
+  }
+}

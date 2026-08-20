@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "12da2d05f2510ee2484dfe0f56c67ea02622f03bcace48bc9af692bd35454db9",
+  "company": {
+    "key": "yc-warpbuild",
+    "name": "WarpBuild"
+  },
+  "source": {
+    "id": "yc-warpbuild-news-import-6421ae0a6624",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.warpbuild.com/blog/arc-warpbuild-comparison-case-study",
+    "canonical": "https://warpbuild.com/blog/arc-warpbuild-comparison-case-study"
+  },
+  "title": "Cost comparison: GitHub Actions Runner Controller (ARC) and WarpBuild",
+  "summary": "Comparing Cost Efficiency of GitHub Actions Runner Controller (ARC) using kubernetes and karpenter on AWS with WarpBuild BYOC runners. WarpBuild leads to >40% cost savings.",
+  "published_at": "2024-09-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:23:06.881853+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-19T19:07:02.741042+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-warpbuild/2024/09/12/12da2d05f2510ee2484dfe0f56c67ea02622f03bcace48bc9af692bd35454db9/article.md",
+    "record": "articles/v1/c0/yc-warpbuild/2024/09/12/12da2d05f2510ee2484dfe0f56c67ea02622f03bcace48bc9af692bd35454db9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21795,
+    "sha256": "sha256:5938ed3b0f9c475c3539eee4b659acbac0e5561353a6914ee79ca6c84f00c890",
+    "normalized_content_hash": "sha256:464669d7112fbc9ab40da59243ff221bde9dfb7ee11c097ff684a0efcf2bad70"
+  },
+  "provenance": {
+    "source_item_id": "5ba9e92c-b586-4977-8a76-59e7759297f6",
+    "external_id": "https://warpbuild.com/blog/arc-warpbuild-comparison-case-study"
+  }
+}

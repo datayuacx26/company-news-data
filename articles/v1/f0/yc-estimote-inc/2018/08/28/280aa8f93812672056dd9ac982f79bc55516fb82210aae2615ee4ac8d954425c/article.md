@@ -1,0 +1,88 @@
+---
+schema_version: "1.0.0"
+document_id: "280aa8f93812672056dd9ac982f79bc55516fb82210aae2615ee4ac8d954425c"
+company_key: "yc-estimote-inc"
+company: "Estimote, Inc."
+source_id: "yc-estimote-inc-rss-9f8374160089"
+canonical_url: "https://blog.estimote.com/post/176019935745"
+published_at: "2018-08-06T17:25:32+00:00"
+first_seen_at: "2026-07-27T09:08:36.947635+00:00"
+fetched_at: "2026-07-28T21:06:15.160827+00:00"
+content_hash: "sha256:7e5af84ec737f0f6c930a96c473c3115d479bc62f0d738cb4d9e6f57e2516f9e"
+---
+
+# Updated Proximity SDK introduces tag monitoring and enables offline use cases
+
+Here at Estimote, we want to help you deliver an outstanding proximity experience — triggering user interactions at the right time and place. Last year,[we released a separate Proximity SDK](https://blog.estimote.com/post/166007374930/the-most-reliable-proximity-tech-now-with-a) focused solely on detecting those enter and exit events reliably. Since then, we’ve been looking closely at how you use this SDK, and gradually refining it with each silent release.
+
+
+Today, we are happy to announce that Proximity SDK ([iOS](https://github.com/Estimote/iOS-Proximity-SDK) &[Android](https://github.com/Estimote/Android-Proximity-SDK) ) reaches its next milestone — a mature API that’s consistent across both mobile platforms. It brings a new approach to defining proximity zones: using tags instead of UUIDs or device identifiers. It also introduces the all-new “cached mode” to support any case where internet access is limited. Read on to learn more!
+
+
+### Monitoring for tags instead of UUIDs
+
+
+Since the initial release of[Proximity SDK](https://blog.estimote.com/post/166007374930/the-most-reliable-proximity-tech-now-with-a) , you’ve built thousands of proximity monitoring apps that make millions of calls to our Tags/Attachments API. We’ve also noticed that those apps solve a wide range of problems like: automated check-ins, conference room booking, event heatmaps, guided tours, and more.
+
+
+Inspired by your implementations, we’ve added the features you asked for, fixed the issues you reported, and have evolved our API in the process. As a result, we’ve adjusted the way your apps use Proximity SDK to better serve those use cases — introducing tags and attachments.
+
+
+#### Defining proximity zones with tags
+
+
+Now, you can assign a tag such as “lobby,” to your beacon in Estimote Cloud, tell your app to monitor for it, and know whenever your users enter/exit the “lobby”. It’s more intuitive than using abstract identifiers.
+
+
+Tags are powerful, because you can edit them remotely at any time without reconfiguring beacons or recompiling your app. This streamlines[beacon fleet management](https://community.estimote.com/hc/en-us/articles/360008806111) : if you need to add or remove beacons from your deployment, you just assign the right tags in Estimote Cloud — and the whole setup is instantly updated! Since your app already knows what tag to monitor for, it will trigger proximity events around any of your beacons that have this tag defined.
+
+
+Moreover, you can assign multiple tags per beacon to specify different groups you want to monitor for at any given time. In short, tags give you the freedom of instant remote setup adjustments, and enable grouping for complex deployments.
+
+
+#### Adding more context with attachments
+
+
+We also made it easier to remotely manage the content triggered by beacons. Until now, storing that content — such as a description of a piece of artwork — required external storage such as Firebase, iCloud, or a custom backend.
+
+
+Now, you don’t need to think about the backend anymore, because it’s possible to associate up to 50 kilobytes of data with a single beacon using attachments, all stored in our Cloud. They can be[set up in Estimote Cloud](https://github.com/Estimote/iOS-Proximity-SDK#optional-adding-attachments-to-your-beacons) or by using our[attachments Cloud API](https://cloud.estimote.com/docs/#api-Attachments) . Then, when you monitor for tags, approach a beacon and a proximity event is triggered in your app — you get the full context of that zone together with all attachments. (Please note attachments are no longer used for monitoring zones.)
+
+
+Additionally with this release, we’ve put more focus on feature parity and API consistency across mobile platforms. Simply put, the way you use Proximity SDK is similar on both supported platforms. E.g. if you monitor for a proximity zone on Android, replicating it on iOS is a breeze.
+
+
+### Enabling offline use cases with “cached mode”
+
+
+Are you building an app for a campsite, cruise ship, or subway station? We have good news — Proximity SDK can now function in environments with limited internet connection.
+
+
+The[“cached mode”](https://github.com/Estimote/iOS-Proximity-SDK#caching-data-for-limited-internet-connection-use-cases) enables an app to fetch all necessary data from the Cloud when monitoring begins, and store it locally on a device for later use to ensure the proper user experience at all times. This way, we cover places like forests, ships, underground mines, or anywhere else where internet connection is not at its prime.
+
+
+### A quick way to start!
+
+
+Building a proximity app requires three things:[Estimote Proximity SDK](https://github.com/estimote) ,[Estimote Cloud](https://cloud.estimote.com/) ,[Estimote Beacons](https://order.estimote.com/buy/proximity-devkit-2018) , and it can be done in three steps:
+
+
+- [Assign tags to your beacons](https://community.estimote.com/hc/en-us/articles/360006708632-How-to-add-tags-attachments-to-your-beacons-) in Estimote Cloud
+- Integrate Proximity SDK with your[iOS](https://github.com/Estimote/iOS-Proximity-SDK#use-it-in-your-app) or[Android](https://github.com/Estimote/Android-Proximity-SDK#how-to-use-it-in-your-app) app
+- Start monitoring for tags!
+
+
+For an even quicker start, you can go with one of our app templates — they have Proximity SDK pre-integrated and ready to use. Just go to[Apps in Estimote Cloud](https://cloud.estimote.com/#/apps) , pick a Proximity or Notification template, and you’ve got a simple proximity app up and running!
+
+
+Another way is to take it slow and get the full picture by building your app from scratch. In this case, follow the[iOS](https://developer.estimote.com/proximity/ios-tutorial/) and[Android](https://developer.estimote.com/proximity/android-tutorial/) tutorials on our developer portal.
+
+
+All you need now is an Estimote Cloud account and a set of Estimote Beacons. We have begun shipping[the brand new Proximity Beacons](https://blog.estimote.com/post/174145298605/proximity-reinvented-launching-the-next-gen) optimized specifically for Proximity SDK.
+
+
+*If you have any questions or just want to brag about an amazing app you’ve built, head straight to our[forums](https://forums.estimote.com/) or ping us atcontact@estimote.com .*
+
+
+*Lily Matsuk* , *Product Manager at Estimote*
+*Przemek Blasiak* , *Software Engineer at Estimote*

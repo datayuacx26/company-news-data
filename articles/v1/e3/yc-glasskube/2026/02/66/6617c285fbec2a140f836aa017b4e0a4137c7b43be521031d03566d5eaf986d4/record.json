@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6617c285fbec2a140f836aa017b4e0a4137c7b43be521031d03566d5eaf986d4",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/vulnerability-scanning-software-releases/",
+    "canonical": "https://distr.sh/blog/vulnerability-scanning-software-releases/"
+  },
+  "title": "Automated Vulnerability Scanning for Every Software Release",
+  "summary": "How to automatically scan your application for CVEs in CI/CD and attach the report to every release your customers see in Distr.",
+  "published_at": "2026-02-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:59:19.597020+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2026/02/66/6617c285fbec2a140f836aa017b4e0a4137c7b43be521031d03566d5eaf986d4/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2026/02/66/6617c285fbec2a140f836aa017b4e0a4137c7b43be521031d03566d5eaf986d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5476,
+    "sha256": "sha256:359dc9f07998a5c9962d9fc335ca8acc3427dbefec9298689a95f776d6bebc94",
+    "normalized_content_hash": "sha256:fa1c6d795a4add5197359383c3804b236cb4c3b8b0691a3a7ffbdfaed7ea2383"
+  },
+  "provenance": {
+    "source_item_id": "94856ea8-e46c-47d9-af0b-025a7a62ae91",
+    "external_id": "https://distr.sh/blog/vulnerability-scanning-software-releases/"
+  }
+}

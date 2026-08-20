@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "077c99b638db357e05ac12312dad40a807363d78ed550df5b52db79f054f721b",
+  "company": {
+    "key": "yc-emergent",
+    "name": "Emergent"
+  },
+  "source": {
+    "id": "yc-emergent-news-import-fc8f7e880d65",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emergent.sh/blog/real-environments-for-ai-agents-and-why-we-bet-on-kubernetes",
+    "canonical": "https://emergent.sh/blog/real-environments-for-ai-agents-and-why-we-bet-on-kubernetes"
+  },
+  "title": "Real Environments for AI Agents: Why We Bet on Kubernetes",
+  "summary": "This post kicks off a multi-part series on how we built durable, persistent environments for Agents",
+  "published_at": "2026-03-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:00:00.368523+00:00",
+  "fetched_at": "2026-07-28T21:57:38.048658+00:00",
+  "last_updated_at": "2026-08-20T02:32:28.131405+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-emergent/2026/03/07/077c99b638db357e05ac12312dad40a807363d78ed550df5b52db79f054f721b/article.md",
+    "record": "articles/v1/c4/yc-emergent/2026/03/07/077c99b638db357e05ac12312dad40a807363d78ed550df5b52db79f054f721b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19242,
+    "sha256": "sha256:912bd1b223a337fec411433b24e7ec73ec08387d6e653ea5bf197f7b9d0bf761",
+    "normalized_content_hash": "sha256:0d07889cac5803dff19d8334a0bfd0113c174d34349582bf06995f66e0d40569"
+  },
+  "provenance": {
+    "source_item_id": "b260c5c3-3e70-4b67-92f2-27d76d3e4fa7",
+    "external_id": "https://emergent.sh/blog/real-environments-for-ai-agents-and-why-we-bet-on-kubernetes"
+  }
+}

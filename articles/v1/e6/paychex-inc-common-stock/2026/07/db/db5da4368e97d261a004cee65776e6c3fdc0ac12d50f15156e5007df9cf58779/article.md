@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "db5da4368e97d261a004cee65776e6c3fdc0ac12d50f15156e5007df9cf58779"
+company_key: "paychex-inc-common-stock"
+company: "Paychex Inc."
+source_id: "paychex-inc-common-stock-rss-c271c18fbcf2"
+canonical_url: "https://www.paychex.com/node/36712"
+published_at: "2026-07-10T19:35:59+00:00"
+first_seen_at: "2026-07-20T23:21:32.770865+00:00"
+fetched_at: "2026-07-30T16:38:56.288940+00:00"
+content_hash: "sha256:eb8d03a5d78d39b9236d6c4c5bc6617297fc7e0e0880b6e2f813ea210bd7cd25"
+---
+
+# Mental Health Matters: Bringing Employee Well-Being Centerstage with Paychex
+
+<span class="field field--name-title field--type-string field--label-hidden">Mental Health Matters: Bringing Employee Well-Being Centerstage with Paychex</span> <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>cwernick</span></span> <span class="field field--name-created field--type-created field--label-hidden"><time datetime="2026-07-10T15:35:59-04:00" title="Friday, July 10, 2026 - 15:35" class="datetime">Fri, 07/10/2026 - 15:35</time> </span> <div class="field field--name-field-resource-url field--type-string field--label-hidden field__item">https://www.thehrdigest.com/mental-health-matters-bringing-employee-well-being-centerstage-with-paychex/</div> <div class="field field--name-field-author field--type-entity-reference field--label-hidden field__item"><a href="/newsroom/contacts/chelsea-wernick" hreflang="en">Chelsea Wernick</a></div> <div class="field field--name-field-published-date field--type-datetime field--label-hidden field__item"><time datetime="2026-07-06T12:00:00Z" class="datetime">Mon, 07/06/2026 - 12:00</time> </div> <div class="field field--name-field-company-name field--type-string field--label-hidden field__item">The HR Digest</div>

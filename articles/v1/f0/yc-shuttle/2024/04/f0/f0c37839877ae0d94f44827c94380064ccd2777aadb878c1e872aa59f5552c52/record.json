@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0c37839877ae0d94f44827c94380064ccd2777aadb878c1e872aa59f5552c52",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/04/11/using-rayon-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/04/11/using-rayon-rust"
+  },
+  "title": "Data Parallelism with Rust and Rayon",
+  "summary": "Speeding up data processing with Rayon and Rust using the power of parallelism",
+  "published_at": "2024-04-11T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/04/f0/f0c37839877ae0d94f44827c94380064ccd2777aadb878c1e872aa59f5552c52/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/04/f0/f0c37839877ae0d94f44827c94380064ccd2777aadb878c1e872aa59f5552c52/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10848,
+    "sha256": "sha256:8da9dcf0488c43c4643899891dee214132db9cbf718a8d927977fc97ffe38548",
+    "normalized_content_hash": "sha256:ad1fa9b4d95cebd07bd27e55cf209bd3faf34e81cbf2c1799f193c4d0d818779"
+  },
+  "provenance": {
+    "source_item_id": "b173fe46-000b-41b7-b673-d9662a611a7f",
+    "external_id": "https://www.shuttle.dev/blog/2024/04/11/using-rayon-rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b0c6fb225f356b14b25b80b16ce262f34da8ef74be430df786518551381454b",
+  "company": {
+    "key": "yc-tavus",
+    "name": "Tavus"
+  },
+  "source": {
+    "id": "yc-tavus-news-import-04156f4a70a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tavus.io/blog/gaussian-splatting-from-scratch-through-code",
+    "canonical": "https://www.tavus.io/blog/gaussian-splatting-from-scratch-through-code"
+  },
+  "title": "Gaussian Splatting From Scratch: Explained Through Code",
+  "summary": "I built a minimal Gaussian Splatting implementation in pure PyTorch to understand how it actually works. This post goes through that code and explains what each piece does, why it’s there, and how it all fits together.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T15:28:07.103703+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-31T18:18:05.295954+00:00",
+  "paths": {
+    "article": "articles/v1/d1/yc-tavus/2026/06/0b/0b0c6fb225f356b14b25b80b16ce262f34da8ef74be430df786518551381454b/article.md",
+    "record": "articles/v1/d1/yc-tavus/2026/06/0b/0b0c6fb225f356b14b25b80b16ce262f34da8ef74be430df786518551381454b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 89297,
+    "sha256": "sha256:a86504c127e60b0002f9094ab27d76cf26832099dad530c2bb2aaa62adf3048e",
+    "normalized_content_hash": "sha256:8978963484450e96126c167d004944164cfab31b5c048a711ecbf910468674d8"
+  },
+  "provenance": {
+    "source_item_id": "eb6a9ac1-9740-4f4e-9994-df072daa35ea",
+    "external_id": "https://www.tavus.io/blog/gaussian-splatting-from-scratch-through-code"
+  }
+}

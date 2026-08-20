@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-lightscreen-ai",
+    "name": "Lightscreen AI"
+  },
+  "record_count": 3,
+  "first_published_at": "2025-04-14T18:01:25+00:00",
+  "last_published_at": "2025-06-22T22:06:38+00:00",
+  "partitions": [
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/dd/yc-lightscreen-ai/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 3748,
+        "sha256": "sha256:17cb721d277870bcbcbf8ec3458e628c04a6d93505a7d5fa1e1f6bcfdc8d8aa6",
+        "newest_at": "2025-06-22T22:06:38+00:00",
+        "oldest_at": "2025-04-14T18:01:25+00:00"
+      }
+    ]
+  }
+}

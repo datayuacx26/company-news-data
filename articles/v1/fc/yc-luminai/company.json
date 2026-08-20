@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-luminai",
+    "name": "Luminai"
+  },
+  "record_count": 4,
+  "first_published_at": "2026-04-09T12:44:00+00:00",
+  "last_published_at": "2026-07-23T17:45:36.247+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fc/yc-luminai/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 4278,
+        "sha256": "sha256:5ef3bae5870945060306d4ef148851d97d11f1b4e5501bab0fff873059c95a3e",
+        "newest_at": "2026-07-23T17:45:36.247+00:00",
+        "oldest_at": "2026-04-09T12:44:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c448c2325049dcd3c4ce1e5d841689c97f05fe4ffd663a078ba4dd3e321579de",
+  "company": {
+    "key": "yc-sytex",
+    "name": "Sytex"
+  },
+  "source": {
+    "id": "yc-sytex-news-import-102764bfb914",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sytex.io/post/in-defense-of-the-monolith",
+    "canonical": "https://sytex.io/post/in-defense-of-the-monolith"
+  },
+  "title": "Why We're Sticking with the Monolith (For Now)",
+  "summary": "Why Sytex is sticking with its Django monolith (for now) — the engineering trade-offs behind a 1.5M-line codebase and when a monolith still wins.",
+  "published_at": "2024-12-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T07:48:27.861098+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T01:29:24.178506+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-sytex/2024/12/c4/c448c2325049dcd3c4ce1e5d841689c97f05fe4ffd663a078ba4dd3e321579de/article.md",
+    "record": "articles/v1/c6/yc-sytex/2024/12/c4/c448c2325049dcd3c4ce1e5d841689c97f05fe4ffd663a078ba4dd3e321579de/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4190,
+    "sha256": "sha256:fe5bd8cf936b1a2a69847e891c5a1c7ee2e18b5854c663dc533be85b6b5e8aa6",
+    "normalized_content_hash": "sha256:73d3182078f8a27f3696716b7d4180561d292f7d268ac10cb2da2f350fd3a2db"
+  },
+  "provenance": {
+    "source_item_id": "177cb04b-f94e-4837-b1f3-bef5f0b59d03",
+    "external_id": "https://sytex.io/post/in-defense-of-the-monolith"
+  }
+}

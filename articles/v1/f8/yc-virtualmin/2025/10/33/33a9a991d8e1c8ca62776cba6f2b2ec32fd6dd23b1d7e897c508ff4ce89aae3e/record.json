@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "33a9a991d8e1c8ca62776cba6f2b2ec32fd6dd23b1d7e897c508ff4ce89aae3e",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/virtualmin-virtual-server-7-50-0-released/135550",
+    "canonical": "https://forum.virtualmin.com/t/virtualmin-virtual-server-7-50-0-released/135550"
+  },
+  "title": "Virtualmin virtual-server 7.50.0 released",
+  "summary": "Howdy all, We’ve rolled out Virtualmin virtual-server module version 7.50.0. Changes since 7.40.1: Add support for Bunny DNS for Virtualmin Pro users Add improvements to external IPv4 and IPv6 address detection Add improvements and simplifications to the post-installation wizard Add pure-Perl implementation for retrieving SSL certificate information Fix to significantly improve support for IPv6 across different services Fix Apache and Dovecot config issues when restoring the backup Fix to st...",
+  "published_at": "2025-10-18T14:26:30+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:55:41.466450+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2025/10/33/33a9a991d8e1c8ca62776cba6f2b2ec32fd6dd23b1d7e897c508ff4ce89aae3e/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2025/10/33/33a9a991d8e1c8ca62776cba6f2b2ec32fd6dd23b1d7e897c508ff4ce89aae3e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3076,
+    "sha256": "sha256:476f77024de8cfaa0db4bfaa4c56c5b703a87ab681f67ff376b0c9f4f1dd13bf",
+    "normalized_content_hash": "sha256:83047591ef964cd3efdf1d58e1646c7fbae98a5932b2f4598b23bc96456c9c8f"
+  },
+  "provenance": {
+    "source_item_id": "b046670e-0b5c-427b-8b23-a771320cb9c2",
+    "external_id": "forum.virtualmin.com-topic-135550"
+  }
+}

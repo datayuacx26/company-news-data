@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c13a5a1f127f69c335fc7c1ec392b0605dface5a9729c9a81f50d2c6083001b6",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-4b",
+    "canonical": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-4b"
+  },
+  "title": "How to Deploy Qwen3-VL-4B with vLLM",
+  "summary": "Deploy Qwen3-VL-4B-Instruct with vLLM for vision-language and video inference, including setup, serve commands, verification, benchmarks, and troubleshooting.",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-11T06:58:01.471610+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/03/c1/c13a5a1f127f69c335fc7c1ec392b0605dface5a9729c9a81f50d2c6083001b6/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/03/c1/c13a5a1f127f69c335fc7c1ec392b0605dface5a9729c9a81f50d2c6083001b6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5167,
+    "sha256": "sha256:9fdebfdb463feb13e48358f369570bdf866688920c8926def87b6ea2c184c282",
+    "normalized_content_hash": "sha256:ccb8295eb2f16c32b2fc6e4d0c293acdfdb7a22e75c0f46e547e0706c5943fa0"
+  },
+  "provenance": {
+    "source_item_id": "d326b77f-90d1-4790-8c20-690b2fdec2e0",
+    "external_id": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-4b"
+  }
+}

@@ -1,0 +1,131 @@
+---
+schema_version: "1.0.0"
+document_id: "44f8f461033e015404218ce8eb54b9350c85c89814985df7cec70188e90f3f4f"
+company_key: "yc-formal"
+company: "Formal"
+source_id: "yc-formal-news-import-a5b088b50d89"
+canonical_url: "https://www.formal.ai/blog/editing-code-visually/"
+published_at: "2026-01-29T00:00:00+00:00"
+first_seen_at: "2026-07-27T09:22:31.452672+00:00"
+fetched_at: "2026-07-28T21:26:59.511520+00:00"
+content_hash: "sha256:8e6773975836aae997cdabe07bea8868a78a7b1b680cdf3145beed4510348ed3"
+---
+
+# Editing Code Visually Without Sacrificing Fidelity
+
+## The Challenge
+
+
+At Formal, we’ve chosen to build powerful primitives first. The downside is that powerful primitives are often harder to use. Think about coding in Rust versus JavaScript – more control means more responsibility. That’s why we’re also investing heavily in powerful abstractions that solve the UX problem.
+
+
+We built the Formal Connector on top of OPA (Open Policy Agent). Compared to other products that invent bespoke JSON or YAML schemas for allow/deny rules, this is a much more powerful approach.
+
+
+However, strong fundamentals alone offer poor UX. Rego’s syntax isn’t streamlined, doesn’t help users discover recommended flows, and has significant barriers to entry. To maximize customer value, we needed to bridge this gap without compromising the underlying power of the policy engine. A visual wrapper was the logical next step.
+
+
+## The Complexity of “Simple” Blocks
+
+
+While Rego isn’t Turing-complete, its grammar is rich. It supports:
+
+
+- Arbitrary comments and indentation
+- Nested objects and arrays
+- Functions and custom rules
+- Imports and package declarations
+
+
+Building a “Scratch-style” block-based wrapper for such a language is a dangerous path. It risks becoming an abstraction over an entire programming language, which often devolves into just “writing code through a more bloated UI.” If you do it wrong, you recreate the complexity of code with none of the speed.
+
+
+## The Wrong Approach: Regex Matching Without Understanding the Grammar
+
+
+My initial experimentation took the naive path. Working purely in the browser without deep knowledge of Rego’s internals, I attempted to parse policy files using regex patterns. I built a system that matched specific constructs—rules, conditions, variable assignments—and stored them without truly understanding their names, limitations, or how they fit into the language’s structure.
+
+
+This approach accumulated technical debt immediately. Each new edge case required another regex pattern. Nested conditions broke the parser. Comments in unexpected places corrupted state. String literals containing keywords triggered false matches. The system became an endless stream of bandaid fixes, each patch introducing new failure modes. I was building on sand, guessing at the language’s behavior rather than understanding it.
+
+
+## Learning First Principles: The AST as Foundation
+
+
+I stopped and re-examined the core flaws. The real problem wasn’t implementation—it was that I lacked a **correct understanding** of what I was trying to abstract. I needed to learn the language grammar, not approximate it.
+
+
+Open Policy Agent’s Go package includes a complete Abstract Syntax Tree (AST) parser. By studying the actual language specification and the AST structure, I found that Rego’s grammar is well-defined and parsable with 100% correctness. The AST gave me:
+
+
+- **Guaranteed correctness** : Every construct is properly identified and typed
+- **Complete structure** : Nested expressions, operator precedence, and scoping rules are explicit
+- **Semantic understanding** : The difference between a rule definition, a condition, and a comprehension is clear in the AST, not guessed from regex patterns
+
+
+This was the solid foundation I needed. Instead of fragile pattern matching, I could now transform a **correct parse tree** into a higher-level domain specific language. The AST became the source of truth, and my visual abstraction layer became a deterministic and maintainable refinement of something already guaranteed to be accurate.
+
+
+## The Solution: Limited Abstractions on a Solid Foundation
+
+
+My approach was to avoid total coverage. Instead of mapping every possible Rego construct to a UI element,
+
+
+- **Parsed the Abstract Syntax Tree:** I refined the AST of the raw Rego code into a high-level Domain Specific Language (DSL) that has a strictly **1:1 correspondence** with our visual elements.
+- **Limited Scope: I** intentionally discard complex syntax from the visual representation. We support a growing set of “happy paths”—the 80% of rules users actually need to write.
+- **Hybrid Editing:** Users are told they can continue with complex logic in code directly. Crucially, they can do this *in the same interface.*
+
+
+## Technical Implementation: Zero Side-Effect Edits
+
+
+To support hybrid editing without destroying user comments and formatting, I couldn’t just regenerate the entire file from our DSL. This required surgical precision.
+
+
+The key insight came from the AST itself. OPA’s parser doesn’t just identify language constructs—it tracks their exact **character offsets** in the source text. Every node in the AST carries location metadata: the start and end positions of that construct in the original string. This means any subtree in the AST maps directly to a substring in the raw code.
+
+
+When a user edits a rule visually, the editor uses these offsets to perform targeted substring replacement. Update a condition? It locates that condition’s span in the source text and swaps in the new syntax. Everything outside that span—comments, custom indentation, adjacent rules, complex logic not supported visually—remains untouched.
+
+
+This also enabled a useful asymmetry in our DSL design. It can parse **multiple valid syntaxes** for the same construct (Rego allows` a := 2` ,` a = 2` , etc.) but always **write back a single canonical form** —the most readable, recommended approach for more complex blocks. Users can author however they prefer in code mode; only when they touch that rule visually, it normalizes to the cleanest syntax without disrupting the surrounding context.
+
+
+## Performance and Rendering at Scale
+
+
+OPA’s AST tooling is distributed as a Go package. Initially, this meant every code edit round-tripped to a backend service endpoint for parsing. That network hop created an unacceptable tradeoff: debounce the request and the UI falls out of sync with the code; disable input until the request resolves and the editor feels frozen; or find a way to make parsing fast enough that neither compromise is necessary.
+
+
+I chose the third path. I compiled the Go parser into a WebAssembly module and shipped it with the frontend bundle. The results were dramatic: a 300ms API request dropped to sub-10ms in-browser execution. The WASM module is cached after initial page load and never changes—it has a single, narrow purpose.
+
+
+The fastest human typing speed is around 200 words per minute, which translates to roughly 60ms per character. With parsing completing in under 10ms, real-time interactions became non-blocking—code edits reflected instantly from the user’s perspective. For text input fields, triggered edits are still debounced. The intermediate pending states during typing aren’t useful – they will eventually terminate at which point the final value can be written once. Other interactions are mouse clicks, which don’t occur at the same rapid pace and don’t require the same treatment.
+
+
+## Progressive Complexity: Revealing Features as Needed
+
+
+The visual editor exposes complexity gradually. A new user sees simplified sentence-like blocks: “Allow if all conditions match,” with structured dropdowns for fields, operators, and values. This maps to Rego rules, but the UI hides the syntax entirely.
+
+
+Information stays hidden until it’s needed. Sections collapse by default. Variables expand on click to reveal their items. Conditions are added one at a time through explicit buttons. Dropdowns surface options only when relevant. This maximizes understanding and discoverability—users see what they need for their current task without being overwhelmed by the full power of the underlying language.
+
+
+When the DSL encounters syntax it doesn’t support, those rules display inline as **Code-Only Rules** : the raw Rego text shown directly in the interface for completeness. No separate mode, no context switching. The AST parser identifies which rule patterns fit our supported set—simple comparisons, membership checks, standard operators. Anything beyond that scope renders as code-only automatically. This prevents the visual editor from becoming bloated with edge cases that weren’t designed for while ensuring users are never blocked from expressing complex logic.
+
+
+## Looking Ahead
+
+
+Not everything in security needs to be difficult. Too many products in this space treat complexity as inevitable—or worse, as a feature. Users inherit the full weight of powerful systems with no guidance, no guardrails, and no path to self-sufficiency.
+
+
+The approach here was different: find a solid foundation, guarantee correctness at that layer, then identify the biggest pain points and resolve them as pure value-adds. The AST gave me correctness. The visual DSL gave users speed and clarity. Neither compromised the other.
+
+
+There’s a core tension between feature richness for power users and usability for everyone else. By building powerful primitives first and refined abstractions second, we ensure a rock-solid footing for every capability while focusing our attention on ease of use—which can always be improved. Legacy tools in this industry rarely offer both; they either lock users into rigid workflows or abandon them in raw configuration files.
+
+
+We’re continuing to push on this with clearer self-guided usage so customers can configure their environments seamlessly with less support and rethinking what policy authoring can feel like when the tooling actually meets users where they are.

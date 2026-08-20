@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "171dc001131af20414aebe3f5b2aedeb3d42f83d421486b27f00f4bc9589f4e4",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/protect-source-code-docker-container/",
+    "canonical": "https://distr.sh/blog/protect-source-code-docker-container/"
+  },
+  "title": "How to Protect Your Source Code and IP in Docker and Kubernetes Deployments",
+  "summary": "Shipping software on-prem means your customers have access to your container images. Here is what they can actually see, what they cannot, and the practical steps to protect your source code, model weights, and intellectual property.",
+  "published_at": "2026-04-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:25:41.488077+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2026/04/17/171dc001131af20414aebe3f5b2aedeb3d42f83d421486b27f00f4bc9589f4e4/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2026/04/17/171dc001131af20414aebe3f5b2aedeb3d42f83d421486b27f00f4bc9589f4e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21008,
+    "sha256": "sha256:b9ad20353a54dde8f3aba155565fcebeef19089975867b489cb28c499c45240b",
+    "normalized_content_hash": "sha256:999c08a0344c695739cc7c25d31de055d5114cf5315148a2dbe20d4595e4bbd8"
+  },
+  "provenance": {
+    "source_item_id": "d1f39f54-bc76-4fe5-b35d-59d586ee9d22",
+    "external_id": "https://distr.sh/blog/protect-source-code-docker-container/"
+  }
+}

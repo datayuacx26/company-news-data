@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c4e8e02a9af0e9410c1d610e8c52cbeacb32c7c90703ab7e3c82dc266f0b6a5",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/cve-2022-0185-what-is-it-how-to-identify-and-its-impact-on-kubernetes-workloads/",
+    "canonical": "https://www.cloudanix.com/blog/cve-2022-0185-what-is-it-how-to-identify-and-its-impact-on-kubernetes-workloads/"
+  },
+  "title": "CVE-2022–0185: What is it, how to identify, and it’s impact on Kubernetes Workloads",
+  "summary": "CVE-2022-0185 explained: a critical Linux kernel flaw enabling container escape in Kubernetes. Learn how to identify, mitigate, and patch this vulnerability.",
+  "published_at": "2022-01-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T22:26:34.525443+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2022/01/3c/3c4e8e02a9af0e9410c1d610e8c52cbeacb32c7c90703ab7e3c82dc266f0b6a5/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2022/01/3c/3c4e8e02a9af0e9410c1d610e8c52cbeacb32c7c90703ab7e3c82dc266f0b6a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8078,
+    "sha256": "sha256:526751a805fc6d19f3c94bb00542958e50649e62b00c0ee4d27555604fd23dc4",
+    "normalized_content_hash": "sha256:c14012dd3c8f570d60538599b06dd14b1711d8e4e963814d5efe74396229239e"
+  },
+  "provenance": {
+    "source_item_id": "f36b02ee-bec5-49b1-a207-cb418991f1d7",
+    "external_id": "https://www.cloudanix.com/blog/cve-2022-0185-what-is-it-how-to-identify-and-its-impact-on-kubernetes-workloads/"
+  }
+}

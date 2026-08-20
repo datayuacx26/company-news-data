@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22e018d033e34d612f39167298bf8f08114f22a61fd764814037142ae5d71202",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/06/01/hyper-vs-rocket",
+    "canonical": "https://www.shuttle.dev/blog/2022/06/01/hyper-vs-rocket"
+  },
+  "title": "Hyper vs Rocket - Low Level vs Batteries included",
+  "summary": "A comparison of using the low-level HTTP framework 'hyper' vs a batteries included framework like 'Rocket'",
+  "published_at": "2022-05-09T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/05/22/22e018d033e34d612f39167298bf8f08114f22a61fd764814037142ae5d71202/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/05/22/22e018d033e34d612f39167298bf8f08114f22a61fd764814037142ae5d71202/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14102,
+    "sha256": "sha256:70ef63590904d737e908fa50f1a3a71cbcc4a76b57963b8d7d8dc1cded91c076",
+    "normalized_content_hash": "sha256:1cc3de692c0c09ed7598bd13e36f78a9be37f6f784d8e9c2895ecc98d898c40a"
+  },
+  "provenance": {
+    "source_item_id": "34105f22-a852-4b37-865e-4b985ad15c63",
+    "external_id": "https://www.shuttle.dev/blog/2022/06/01/hyper-vs-rocket"
+  }
+}

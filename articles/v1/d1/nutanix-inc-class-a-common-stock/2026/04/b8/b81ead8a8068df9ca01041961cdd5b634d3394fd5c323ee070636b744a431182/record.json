@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b81ead8a8068df9ca01041961cdd5b634d3394fd5c323ee070636b744a431182",
+  "company": {
+    "key": "nutanix-inc-class-a-common-stock",
+    "name": "Nutanix Inc."
+  },
+  "source": {
+    "id": "nutanix-inc-class-a-common-stock-rss-12a2d78c04c7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.nutanix.dev/2026/04/20/mastering-egress-traffic-in-flow-cni-a-guide-to-egress-ip/",
+    "canonical": "https://www.nutanix.dev/2026/04/20/mastering-egress-traffic-in-flow-cni-a-guide-to-egress-ip/"
+  },
+  "title": "Mastering Egress Traffic in Flow CNI: A Guide to Egress IP",
+  "summary": "Managing outbound network traffic from your Kubernetes clusters is just as critical as handling inbound connections. Whether you need to ensure your pods communicate with external services using a consistent, predictable IP address, or you’re building robust multi-tenant environments, Nutanix Flow CNI has you covered! In this post, we’ll dive into the details of configuring … Continue reading \"Mastering Egress Traffic in Flow CNI: A Guide to Egress IP\"",
+  "published_at": "2026-04-20T14:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:13.386524+00:00",
+  "fetched_at": "2026-08-10T04:03:00.323079+00:00",
+  "last_updated_at": "2026-08-10T04:03:00.508652+00:00",
+  "paths": {
+    "article": "articles/v1/d1/nutanix-inc-class-a-common-stock/2026/04/b8/b81ead8a8068df9ca01041961cdd5b634d3394fd5c323ee070636b744a431182/article.md",
+    "record": "articles/v1/d1/nutanix-inc-class-a-common-stock/2026/04/b8/b81ead8a8068df9ca01041961cdd5b634d3394fd5c323ee070636b744a431182/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15660,
+    "sha256": "sha256:01a41a46d591ea3e9f81d53ccdaa2fbeb6ccb1be7bc7d4692a7a0f01cc129563",
+    "normalized_content_hash": "sha256:8061876780047b55febf757e83a93a6a5711a6c64c0024b3c86767df9f16efea"
+  },
+  "provenance": {
+    "source_item_id": "0608bc57-24f2-4416-987a-df22a5f76d25",
+    "external_id": "https://www.nutanix.dev/?p=69743"
+  }
+}

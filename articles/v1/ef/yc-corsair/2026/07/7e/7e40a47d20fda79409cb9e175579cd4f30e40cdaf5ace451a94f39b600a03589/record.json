@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e40a47d20fda79409cb9e175579cd4f30e40cdaf5ace451a94f39b600a03589",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/ai-agent-saas-integration-layer",
+    "canonical": "https://corsair.dev/blog/ai-agent-saas-integration-layer"
+  },
+  "title": "How AI Agents Connect to SaaS Applications: The Integration Layer Explained",
+  "summary": "Learn why AI agents need an integration layer instead of direct API connections, how reusable connectors and MCP fit together, and what to look for in a production-ready platform.",
+  "published_at": "2026-07-30T12:57:00+00:00",
+  "first_seen_at": "2026-07-31T18:13:12.417417+00:00",
+  "fetched_at": "2026-07-31T18:13:13.557161+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/7e/7e40a47d20fda79409cb9e175579cd4f30e40cdaf5ace451a94f39b600a03589/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/7e/7e40a47d20fda79409cb9e175579cd4f30e40cdaf5ace451a94f39b600a03589/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15878,
+    "sha256": "sha256:b2c326f82f87cec83f6ba7397eb648517c13d5fb5675534a811e6643aeddb1ab",
+    "normalized_content_hash": "sha256:27ac0cda8e6df4ef5df82bc8d7799a05bce0e25c00f9d36dce5a6f15173ca2e2"
+  },
+  "provenance": {
+    "source_item_id": "66e2b0ca-a161-43f0-9631-8ddb1160738b",
+    "external_id": "https://corsair.dev/blog/ai-agent-saas-integration-layer"
+  }
+}

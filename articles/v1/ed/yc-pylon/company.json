@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-pylon",
+    "name": "Pylon"
+  },
+  "record_count": 2,
+  "first_published_at": "2022-04-12T00:00:00+00:00",
+  "last_published_at": "2022-06-16T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ed/yc-pylon/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2099,
+        "sha256": "sha256:971c0e8b95f482da885dbd6b3e565cc3cd8d22c862507e58a552097b13b03675",
+        "newest_at": "2022-06-16T00:00:00+00:00",
+        "oldest_at": "2022-04-12T00:00:00+00:00"
+      }
+    ]
+  }
+}

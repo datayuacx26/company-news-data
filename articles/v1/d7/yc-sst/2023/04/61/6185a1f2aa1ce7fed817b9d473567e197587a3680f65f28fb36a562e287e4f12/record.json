@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6185a1f2aa1ce7fed817b9d473567e197587a3680f65f28fb36a562e287e4f12",
+  "company": {
+    "key": "yc-sst",
+    "name": "SST"
+  },
+  "source": {
+    "id": "yc-sst-news-import-9375d5a7fa7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sst.dev/blog/open-next-v1",
+    "canonical": "https://sst.dev/blog/open-next-v1/"
+  },
+  "title": "OpenNext 1.0",
+  "summary": "OpenNext is an open-source Next.js serverless adapter created by SST.",
+  "published_at": "2023-04-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:49:09.857782+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T20:37:58.782391+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-sst/2023/04/61/6185a1f2aa1ce7fed817b9d473567e197587a3680f65f28fb36a562e287e4f12/article.md",
+    "record": "articles/v1/d7/yc-sst/2023/04/61/6185a1f2aa1ce7fed817b9d473567e197587a3680f65f28fb36a562e287e4f12/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2435,
+    "sha256": "sha256:841a96b18e5c7e9e4cd0ed3259505686200b837b66df0539d73fde0770f26d4d",
+    "normalized_content_hash": "sha256:4d2bc14d6778d6271dc1eee9821a832ff7314a8ac831cf1623ad2fc2f2abeddb"
+  },
+  "provenance": {
+    "source_item_id": "aa279b16-c66b-43f8-ac2c-632c3301be78",
+    "external_id": "https://sst.dev/blog/open-next-v1/"
+  }
+}

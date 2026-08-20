@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3d3a951b4fc627e80b51c726aac0e094293e2c7324543f30e63e8d1e23431ab",
+  "company": {
+    "key": "yc-crosslayer-labs",
+    "name": "Crosslayer Labs"
+  },
+  "source": {
+    "id": "yc-crosslayer-labs-news-import-1ff9699339a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.crosslayerlabs.com/blog/an-inflection-point-in-the-web-pki",
+    "canonical": "https://www.crosslayerlabs.com/blog/an-inflection-point-in-the-web-pki"
+  },
+  "title": "An Inflection Point in the web PKI",
+  "summary": "The web PKI underwrites every HTTPS connection on the modern internet, but quantum computing and AI agents are stretching its architecture past its limits. The path forward is a new application-layer PKI stacked on top — not a clean-slate replacement.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T01:05:23.009021+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T01:33:17.072509+00:00",
+  "paths": {
+    "article": "articles/v1/db/yc-crosslayer-labs/2026/06/c3/c3d3a951b4fc627e80b51c726aac0e094293e2c7324543f30e63e8d1e23431ab/article.md",
+    "record": "articles/v1/db/yc-crosslayer-labs/2026/06/c3/c3d3a951b4fc627e80b51c726aac0e094293e2c7324543f30e63e8d1e23431ab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26156,
+    "sha256": "sha256:8436b9d43671380aeaae3d851b1eb788d48dee27a35e8602547c4af662a36a2d",
+    "normalized_content_hash": "sha256:2e816e07c201f38ce9cb8a5a037d974bcd0cd62cdfc723ac9fb84dccef6e2f18"
+  },
+  "provenance": {
+    "source_item_id": "1b900a40-7914-4813-b38f-908c990c603f",
+    "external_id": "https://www.crosslayerlabs.com/blog/an-inflection-point-in-the-web-pki"
+  }
+}

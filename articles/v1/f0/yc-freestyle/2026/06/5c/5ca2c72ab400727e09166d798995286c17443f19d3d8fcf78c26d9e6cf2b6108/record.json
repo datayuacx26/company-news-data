@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ca2c72ab400727e09166d798995286c17443f19d3d8fcf78c26d9e6cf2b6108",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/product/aws-fargate-alternative-ai-agents",
+    "canonical": "https://www.freestyle.sh/blog/product/aws-fargate-alternative-ai-agents"
+  },
+  "title": "AWS Fargate Alternative for AI Agents",
+  "summary": "AWS Fargate is strong serverless container infrastructure, but AI agents that need durable sessions, terminals, ports, files, SSH, and forks need a real Linux VM.",
+  "published_at": "2026-06-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:54:28.432730+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-07-28T22:07:25.513340+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/5c/5ca2c72ab400727e09166d798995286c17443f19d3d8fcf78c26d9e6cf2b6108/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/5c/5ca2c72ab400727e09166d798995286c17443f19d3d8fcf78c26d9e6cf2b6108/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12003,
+    "sha256": "sha256:522defe94c877ee017356f8b15f608280e0e2ba286d9f78e302e18db818c6c34",
+    "normalized_content_hash": "sha256:ba4914b7255e07452f9bb91c06c8ab8f846cfdcdbf13cce48731d280a79299d2"
+  },
+  "provenance": {
+    "source_item_id": "2829808a-46c2-433e-83f6-3b5f0314e836",
+    "external_id": "https://www.freestyle.sh/blog/product/aws-fargate-alternative-ai-agents"
+  }
+}

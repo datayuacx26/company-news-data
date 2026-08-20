@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28530dc1b90e03c9ee79ee533801dbfde704e2e0d933eaa1acac19c93d4cad63",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/are-all-tokens-made-equal",
+    "canonical": "https://www.overshoot.ai/blogs/are-all-tokens-made-equal"
+  },
+  "title": "Are All Tokens Made Equal?",
+  "summary": "Why vision language models can drop visual tokens without losing understanding, from parameter pruning to PuMer and FastV and the efficiency tradeoff.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-22T07:58:58.954705+00:00",
+  "last_updated_at": "2026-07-22T07:58:59.307241+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/07/28/28530dc1b90e03c9ee79ee533801dbfde704e2e0d933eaa1acac19c93d4cad63/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/07/28/28530dc1b90e03c9ee79ee533801dbfde704e2e0d933eaa1acac19c93d4cad63/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8782,
+    "sha256": "sha256:594a08dfa0d02e576e8dce7e2794cadfb2bed66602d9c1f05e90cb5c573f5507",
+    "normalized_content_hash": "sha256:53f3c0ccfc235470472faa92aba10aa1c0a6d2c5408bb212d366210011566457"
+  },
+  "provenance": {
+    "source_item_id": "ac792292-1791-4752-a106-0ec205d9b123",
+    "external_id": "https://www.overshoot.ai/blogs/are-all-tokens-made-equal"
+  }
+}

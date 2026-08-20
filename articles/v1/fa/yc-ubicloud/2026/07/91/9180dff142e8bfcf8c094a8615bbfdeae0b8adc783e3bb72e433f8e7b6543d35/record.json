@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9180dff142e8bfcf8c094a8615bbfdeae0b8adc783e3bb72e433f8e7b6543d35",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source",
+    "canonical": "https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source"
+  },
+  "title": "Virtualizing NVidia HGX B200 GPUs with Open Source",
+  "summary": "This blog post covers how we virtualized NVIDIA HGX B200 GPUs using open-source software. It talks about VFIO passthrough, QEMU PCI topology fixes, large BAR boot stalls, and Fabric Manager partitions.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/91/9180dff142e8bfcf8c094a8615bbfdeae0b8adc783e3bb72e433f8e7b6543d35/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/91/9180dff142e8bfcf8c094a8615bbfdeae0b8adc783e3bb72e433f8e7b6543d35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23190,
+    "sha256": "sha256:c4dbf80a4c16b832c67ac59ddb4b8597ae7ee9b800de5dc9944b24d02652f74e",
+    "normalized_content_hash": "sha256:3ad81621b6e376f4c4933fe854bc6ed57b2df315f65f5f69cd2fc97f5e0ef518"
+  },
+  "provenance": {
+    "source_item_id": "bd9174d8-6372-4a3a-8024-f0f613df6e42",
+    "external_id": "https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source"
+  }
+}

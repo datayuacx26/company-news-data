@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1b6fafd93737542c7aa259635f90be602b8ab59c65022435d4e38df945a2584f",
+  "company": {
+    "key": "yc-chamber",
+    "name": "Chamber"
+  },
+  "source": {
+    "id": "yc-chamber-news-import-3bd200813650",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usechamber.io/blog/mig-vs-mps-vs-time-slicing-gpu-sharing-kubernetes",
+    "canonical": "https://usechamber.io/blog/mig-vs-mps-vs-time-slicing-gpu-sharing-kubernetes"
+  },
+  "title": "MIG vs MPS vs Time-Slicing: GPU Sharing for Kubernetes",
+  "summary": "Compare MIG, MPS, and time-slicing GPU sharing strategies for Kubernetes. Learn isolation trade-offs, supported GPUs, and when to use each approach.",
+  "published_at": "2026-03-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:55:17.000424+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T00:08:53.036791+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-chamber/2026/03/1b/1b6fafd93737542c7aa259635f90be602b8ab59c65022435d4e38df945a2584f/article.md",
+    "record": "articles/v1/e7/yc-chamber/2026/03/1b/1b6fafd93737542c7aa259635f90be602b8ab59c65022435d4e38df945a2584f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22884,
+    "sha256": "sha256:a29b57c3b1ca8081753d412549afb81fc28f50524b44374671fe4b7bc4d85b29",
+    "normalized_content_hash": "sha256:6d6bd8383b018b93921d9ffe58a52c3ca1a6a8cb007119136e961146d16e19b8"
+  },
+  "provenance": {
+    "source_item_id": "6e1d142a-6f93-4eee-85bb-1a6c7e2f2b0f",
+    "external_id": "https://usechamber.io/blog/mig-vs-mps-vs-time-slicing-gpu-sharing-kubernetes"
+  }
+}

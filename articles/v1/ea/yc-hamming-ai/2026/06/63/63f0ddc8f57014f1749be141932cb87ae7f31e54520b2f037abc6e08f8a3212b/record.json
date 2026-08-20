@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "63f0ddc8f57014f1749be141932cb87ae7f31e54520b2f037abc6e08f8a3212b",
+  "company": {
+    "key": "yc-hamming-ai",
+    "name": "Hamming AI"
+  },
+  "source": {
+    "id": "yc-hamming-ai-news-import-380bdc997b57",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://hamming.ai/resources/voice-agent-dead-air-detection-guide",
+    "canonical": "https://hamming.ai/resources/voice-agent-dead-air-detection-guide"
+  },
+  "title": "Voice Agent Dead Air Detection: Root Causes and Fixes",
+  "summary": "Detect dead air in voice agent calls with turn-level metrics, root-cause matrices, event schemas, alerts, and fixes for silence, latency, VAD, STT,...",
+  "published_at": "2026-06-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T22:23:39.163404+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T03:19:16.179163+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-hamming-ai/2026/06/63/63f0ddc8f57014f1749be141932cb87ae7f31e54520b2f037abc6e08f8a3212b/article.md",
+    "record": "articles/v1/ea/yc-hamming-ai/2026/06/63/63f0ddc8f57014f1749be141932cb87ae7f31e54520b2f037abc6e08f8a3212b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16584,
+    "sha256": "sha256:07a110caa1e19dba65779335a2fc8560a88509d66d25c37da50ffd51363f2b7b",
+    "normalized_content_hash": "sha256:197eafcdb3e73417fdabee2fa4b757c60914f1b42f2c0c79bfd29c4ad5a09643"
+  },
+  "provenance": {
+    "source_item_id": "0dda5dbb-dc97-414b-9861-5668f46b25ae",
+    "external_id": "https://hamming.ai/resources/voice-agent-dead-air-detection-guide"
+  }
+}

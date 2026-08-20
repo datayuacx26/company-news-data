@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "f1a2c152e6209f6660a0ac2c23899a29ac3159aa2bd78e38b9cde224384a1256"
+company_key: "yc-sei"
+company: "Sei"
+source_id: "yc-sei-rss-1b5243482862"
+canonical_url: "https://seiright.com/blog/fdpa-flood-insurance-ai-mortgage-servicing-45-day-notice-force-placement"
+published_at: "2026-07-24T00:00:00+00:00"
+first_seen_at: "2026-07-31T22:38:18.824115+00:00"
+fetched_at: "2026-08-20T02:20:29.244809+00:00"
+content_hash: "sha256:0279caaae307dbb03e2ef41f9bbff4cf7dbf96ec99b904f2c2bcb58c3bc13d1a"
+---
+
+# Flood Insurance Compliance in AI Mortgage Servicing: The FDPA 45-Day Force-Placement Clock, the Escrow Requirement, and the Zone Determination the Agent Cannot Fake
+
+The Flood Disaster Protection Act is the servicing rule that turns a routine escrow account into a federal compliance surface the moment a property crosses into a special flood hazard area. The 45-day notice window at 42 USC 4012a(e), the mandatory escrow rule for federally-related mortgages, and the interagency Q&A on force placement produce a workflow the AI servicing agent has to run correctly on every affected loan. What we automate, what the servicer's flood officer still owns, and the audit file the examiner asks for.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cfc5bad07fdff0b798e4d0c961bdab8adc8396b04f1dd768d8ab759fc6de09e",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/engineering/private-networking-for-ai-agents",
+    "canonical": "https://www.freestyle.sh/blog/engineering/private-networking-for-ai-agents"
+  },
+  "title": "Private Networking for AI Agents",
+  "summary": "How to run AI agents on private networks with Freestyle VMs, VPCs, WireGuard access, and scoped client sessions.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:26:33.334256+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/6c/6cfc5bad07fdff0b798e4d0c961bdab8adc8396b04f1dd768d8ab759fc6de09e/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/6c/6cfc5bad07fdff0b798e4d0c961bdab8adc8396b04f1dd768d8ab759fc6de09e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12572,
+    "sha256": "sha256:3c8593e96e9f62f324a722d7856a4df3a084dd04abfce0575156c8b4cf38fb37",
+    "normalized_content_hash": "sha256:2a6fd3abe4a5a21f8ca52e3c8359c356e20f500bc9a51620295d6e6b20407ce1"
+  },
+  "provenance": {
+    "source_item_id": "8c573861-d200-42d0-9284-0271288b4a81",
+    "external_id": "https://www.freestyle.sh/blog/engineering/private-networking-for-ai-agents"
+  }
+}

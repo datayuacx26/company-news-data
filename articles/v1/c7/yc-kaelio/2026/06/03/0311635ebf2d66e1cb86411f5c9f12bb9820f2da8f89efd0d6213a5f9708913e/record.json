@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0311635ebf2d66e1cb86411f5c9f12bb9820f2da8f89efd0d6213a5f9708913e",
+  "company": {
+    "key": "yc-kaelio",
+    "name": "Kaelio"
+  },
+  "source": {
+    "id": "yc-kaelio-news-import-d43a8938b457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kaelio.com/blog/bi-tools-disagree-on-revenue",
+    "canonical": "https://www.kaelio.com/blog/bi-tools-disagree-on-revenue"
+  },
+  "title": "When dbt, Looker, and Metabase disagree on \"revenue\"",
+  "summary": "Reconciling contradictory metric definitions across dbt, Looker, and Metabase, and how ktx flags them instead of silently selecting one.",
+  "published_at": "2026-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:08:24.751270+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T00:20:28.214979+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-kaelio/2026/06/03/0311635ebf2d66e1cb86411f5c9f12bb9820f2da8f89efd0d6213a5f9708913e/article.md",
+    "record": "articles/v1/c7/yc-kaelio/2026/06/03/0311635ebf2d66e1cb86411f5c9f12bb9820f2da8f89efd0d6213a5f9708913e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9695,
+    "sha256": "sha256:f6bb1a5cb171cc654e5821cabe636c91316fecc2d7dfd5951cdfe15790c97d7f",
+    "normalized_content_hash": "sha256:9fa864e31b090a1795d0ae90ae7b2dc7ec91e5729a282f7bbbc76ef95dc1c553"
+  },
+  "provenance": {
+    "source_item_id": "62dbe97e-8f9a-4c89-9421-b2fb38bd5ab2",
+    "external_id": "https://www.kaelio.com/blog/bi-tools-disagree-on-revenue"
+  }
+}

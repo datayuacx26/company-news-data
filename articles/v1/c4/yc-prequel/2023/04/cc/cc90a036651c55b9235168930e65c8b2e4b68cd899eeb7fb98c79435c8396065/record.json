@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cc90a036651c55b9235168930e65c8b2e4b68cd899eeb7fb98c79435c8396065",
+  "company": {
+    "key": "yc-prequel",
+    "name": "Prequel"
+  },
+  "source": {
+    "id": "yc-prequel-news-import-43b0021e02b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue/",
+    "canonical": "https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue/"
+  },
+  "title": "SQL Maxis: Why We Ditched RabbitMQ And Replaced It With A Postgres Queue",
+  "summary": "Embracing our SQL Maxi nature: how we ripped out RabbitMQ from our infrastructure and replaced it with a Postgres queue.",
+  "published_at": "2023-04-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:10:51.593417+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T20:03:18.384483+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-prequel/2023/04/cc/cc90a036651c55b9235168930e65c8b2e4b68cd899eeb7fb98c79435c8396065/article.md",
+    "record": "articles/v1/c4/yc-prequel/2023/04/cc/cc90a036651c55b9235168930e65c8b2e4b68cd899eeb7fb98c79435c8396065/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8075,
+    "sha256": "sha256:cfed01fa94fe4884ece44d24a3d50f0fd87a4def4ec04a58ae3f3253c23e5bdd",
+    "normalized_content_hash": "sha256:b48e9a19acd5006c56719344203e9d05784a0e67e34fc8be60784cfc392baaa8"
+  },
+  "provenance": {
+    "source_item_id": "6acc8279-2ff8-4fc6-8733-53f8062a9784",
+    "external_id": "https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue/"
+  }
+}

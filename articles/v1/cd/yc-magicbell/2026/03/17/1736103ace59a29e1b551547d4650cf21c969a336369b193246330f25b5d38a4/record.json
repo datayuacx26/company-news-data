@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1736103ace59a29e1b551547d4650cf21c969a336369b193246330f25b5d38a4",
+  "company": {
+    "key": "yc-magicbell",
+    "name": "MagicBell"
+  },
+  "source": {
+    "id": "yc-magicbell-news-import-9a6b19b555ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.magicbell.com/blog/dynamodb-streams-real-time-notifications",
+    "canonical": "https://www.magicbell.com/blog/dynamodb-streams-real-time-notifications"
+  },
+  "title": "DynamoDB Streams: Real-Time Notifications Guide",
+  "summary": "Learn how to use DynamoDB Streams with AWS Lambda to trigger real-time notifications. Includes architecture patterns, code examples, and best practices for building event-driven notification pipelines.",
+  "published_at": "2026-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T03:05:45.790203+00:00",
+  "fetched_at": "2026-07-28T22:18:15.193115+00:00",
+  "last_updated_at": "2026-08-19T18:43:36.382071+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-magicbell/2026/03/17/1736103ace59a29e1b551547d4650cf21c969a336369b193246330f25b5d38a4/article.md",
+    "record": "articles/v1/cd/yc-magicbell/2026/03/17/1736103ace59a29e1b551547d4650cf21c969a336369b193246330f25b5d38a4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17001,
+    "sha256": "sha256:b88833469982eab32746442f0e27893478bd12442bfb67bb3bbe281a56b498fa",
+    "normalized_content_hash": "sha256:045cf8245f11afd9d9b1c43a34283b572de8080bbe24279f6dee97182b7a1ad4"
+  },
+  "provenance": {
+    "source_item_id": "1330dc99-3971-4d4f-b407-127fc03265fb",
+    "external_id": "https://www.magicbell.com/blog/dynamodb-streams-real-time-notifications"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e79bafe6edbb5de27a583a5f33090896f231f566ba8887574691a50b07ff0a59",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/when-business-logic-outgrows-microservices",
+    "canonical": "https://rulebricks.com/blog/when-business-logic-outgrows-microservices"
+  },
+  "title": "When Business Logic Outgrows Microservices",
+  "summary": "How to keep pricing, eligibility, and compliance logic consistent across services without adding brittle dependencies.",
+  "published_at": "2026-04-20T16:05:04+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-08-20T02:04:19.262566+00:00",
+  "last_updated_at": "2026-08-20T02:04:19.304136+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/04/e7/e79bafe6edbb5de27a583a5f33090896f231f566ba8887574691a50b07ff0a59/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/04/e7/e79bafe6edbb5de27a583a5f33090896f231f566ba8887574691a50b07ff0a59/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 688,
+    "sha256": "sha256:fcee57563739cdb5179fcc64ede9f2090d9e435cf9e8c5ab1daaa1baefa28d67",
+    "normalized_content_hash": "sha256:272caf80319f55ef364be522ee4d95da6adf019ef33271e98377705f3c6c0b00"
+  },
+  "provenance": {
+    "source_item_id": "4d47523b-5813-4bf5-8999-e719a04d7376",
+    "external_id": "https://rulebricks.com/blog/when-business-logic-outgrows-microservices"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9998e8045cd5e00485269c8c1b4afb810a410774b932344c5da0f0d2d8249491",
+  "company": {
+    "key": "salesforce-inc-common-stock",
+    "name": "Salesforce Inc."
+  },
+  "source": {
+    "id": "salesforce-inc-common-stock-news-import-e12c13bbd360",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.salesforce.com/blog/sales/salesforce-spiff-migration/?bc=DB",
+    "canonical": "https://www.salesforce.com/blog/sales/salesforce-spiff-migration/"
+  },
+  "title": "How Salesforce Migrated 30,000+ Sellers to Spiff, a Single Comp Management Tool",
+  "summary": "Discover how Salesforce onboarded Spiff, a single compensation management solution that allows us to provide pay transparency at scale.",
+  "published_at": "2026-06-11T13:57:16+00:00",
+  "first_seen_at": "2026-07-22T12:38:45.747221+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-07-28T21:56:39.115485+00:00",
+  "paths": {
+    "article": "articles/v1/e1/salesforce-inc-common-stock/2026/06/99/9998e8045cd5e00485269c8c1b4afb810a410774b932344c5da0f0d2d8249491/article.md",
+    "record": "articles/v1/e1/salesforce-inc-common-stock/2026/06/99/9998e8045cd5e00485269c8c1b4afb810a410774b932344c5da0f0d2d8249491/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14302,
+    "sha256": "sha256:80acd02716ae2bf4d4cd7abefd650c0473884c9516579c133939811960d841f1",
+    "normalized_content_hash": "sha256:160ebda34bd3bff77cf639b716c4239dcb6d95624d11dc1f20202730b94a0e31"
+  },
+  "provenance": {
+    "source_item_id": "baa4fc3f-b517-47b0-9e85-89f9d18ab498",
+    "external_id": "https://www.salesforce.com/blog/sales/salesforce-spiff-migration/"
+  }
+}

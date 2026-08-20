@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-scrimba",
+    "name": "Scrimba"
+  },
+  "record_count": 37,
+  "first_published_at": "2026-07-01T08:26:13+00:00",
+  "last_published_at": "2026-08-19T11:57:29+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 21
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 16
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e3/yc-scrimba/index/pages/000001.json",
+        "record_count": 37,
+        "byte_count": 36714,
+        "sha256": "sha256:2a63a04ce9e7bc25f3ea8af3de271b39a05325e32af24539ec5f167c95861781",
+        "newest_at": "2026-08-19T11:57:29+00:00",
+        "oldest_at": "2026-07-01T08:26:13+00:00"
+      }
+    ]
+  }
+}

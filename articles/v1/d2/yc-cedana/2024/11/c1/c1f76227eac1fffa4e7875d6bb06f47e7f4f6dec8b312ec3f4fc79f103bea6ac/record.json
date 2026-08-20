@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1f76227eac1fffa4e7875d6bb06f47e7f4f6dec8b312ec3f4fc79f103bea6ac",
+  "company": {
+    "key": "yc-cedana",
+    "name": "Cedana"
+  },
+  "source": {
+    "id": "yc-cedana-news-import-d2b6a3d3a0df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cedana.com/blog/using-cedana-to-live-migrate-stateful-workloads-between-spot-instances/",
+    "canonical": "https://cedana.com/blog/using-cedana-to-live-migrate-stateful-workloads-between-spot-instances/"
+  },
+  "title": "Using Cedana to Live-Migrate Stateful Workloads Between Spot Instances",
+  "summary": "Save, migrate and resume a running XGBoost workload in six steps.",
+  "published_at": "2024-11-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T05:08:30.961906+00:00",
+  "fetched_at": "2026-08-18T05:08:32.098954+00:00",
+  "last_updated_at": "2026-08-20T00:51:08.175987+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-cedana/2024/11/c1/c1f76227eac1fffa4e7875d6bb06f47e7f4f6dec8b312ec3f4fc79f103bea6ac/article.md",
+    "record": "articles/v1/d2/yc-cedana/2024/11/c1/c1f76227eac1fffa4e7875d6bb06f47e7f4f6dec8b312ec3f4fc79f103bea6ac/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16120,
+    "sha256": "sha256:5e6bc07636af5527a1507c063ea8a4e137d3d7de605f22be2e6262fa9978b5f7",
+    "normalized_content_hash": "sha256:b7d2d940b85d4b8d2ac63d4bb2260af0adfa55800e3491b68014e8cc115726a2"
+  },
+  "provenance": {
+    "source_item_id": "e016fab1-a428-4113-b548-06862a755cf7",
+    "external_id": "https://cedana.com/blog/using-cedana-to-live-migrate-stateful-workloads-between-spot-instances/"
+  }
+}

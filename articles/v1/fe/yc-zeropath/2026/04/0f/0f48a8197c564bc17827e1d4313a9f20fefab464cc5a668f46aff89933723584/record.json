@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f48a8197c564bc17827e1d4313a9f20fefab464cc5a668f46aff89933723584",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/proftpd-cve-2026-42167-auth-bypass-privesc-rce",
+    "canonical": "https://zeropath.com/blog/proftpd-cve-2026-42167-auth-bypass-privesc-rce"
+  },
+  "title": "CVE-2026-42167 Allows Auth Bypass And RCE In ProFTPD",
+  "summary": "ZeroPath Research discovered a SQL injection in ProFTPD's mod_sql extension (CVE-2026-42167) that can allow remote code execution, authentication bypass, and privilege escalation depending on configuration — exploitable pre-auth in some cases. Affects ProFTPD <= 1.3.9; patched in 1.3.9a.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T22:15:34.522080+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/04/0f/0f48a8197c564bc17827e1d4313a9f20fefab464cc5a668f46aff89933723584/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/04/0f/0f48a8197c564bc17827e1d4313a9f20fefab464cc5a668f46aff89933723584/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13199,
+    "sha256": "sha256:1cdc040319c3e4ed64f60d1f286280ac55441312270e8a5ff98d7c0399c57ff8",
+    "normalized_content_hash": "sha256:d844ed3f9cb25aa81e132a0263cc5e1f039152112598ce713c224da2adc0df05"
+  },
+  "provenance": {
+    "source_item_id": "a7c7751f-2e8f-4b46-aef5-ad7bd95f741a",
+    "external_id": "https://zeropath.com/blog/proftpd-cve-2026-42167-auth-bypass-privesc-rce"
+  }
+}

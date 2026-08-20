@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4053902e366d508b55145d66f19c986e0aa1e6042dd061e80efb11cc9eaeae6f",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/prompt-injection-in-coding-agents",
+    "canonical": "https://getunbound.ai/blog/prompt-injection-in-coding-agents"
+  },
+  "title": "Prompt Injection in Coding Agents: Every Attack, Every Defense",
+  "summary": "Every prompt injection vector specific to AI coding agents, with proof-of-concept patterns, detection signals, and defensive controls. Why action policy beats detection.",
+  "published_at": "2026-04-29T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/04/40/4053902e366d508b55145d66f19c986e0aa1e6042dd061e80efb11cc9eaeae6f/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/04/40/4053902e366d508b55145d66f19c986e0aa1e6042dd061e80efb11cc9eaeae6f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12131,
+    "sha256": "sha256:d3b9652f836eb94d5be77342673a146a920410dd116af7599e0ddb1a002b092b",
+    "normalized_content_hash": "sha256:2ed73727fba8553cfa0720e7dd7d0663d62489de294c6caba041c244d51d5b03"
+  },
+  "provenance": {
+    "source_item_id": "2036133f-d4d5-4f66-ada7-268a04ef9fea",
+    "external_id": "https://getunbound.ai/blog/prompt-injection-in-coding-agents"
+  }
+}

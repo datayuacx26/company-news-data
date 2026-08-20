@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6251c754e500a2366a460a957510f23577c1ec02af614ac5574bc330f235c0cd",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-news-import-538be81b6878",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "canonical": "https://mendral.com/blog/agent-harness-belongs-outside-sandbox"
+  },
+  "title": "The Agent Harness Belongs Outside the Sandbox",
+  "summary": "Two architectures for running agent harnesses, the tradeoffs between them, and how we make skills and memories work when the harness isn't local.",
+  "published_at": "2026-04-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T00:32:33.388808+00:00",
+  "fetched_at": "2026-08-10T00:32:34.981599+00:00",
+  "last_updated_at": "2026-08-19T17:02:30.703158+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/04/62/6251c754e500a2366a460a957510f23577c1ec02af614ac5574bc330f235c0cd/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/04/62/6251c754e500a2366a460a957510f23577c1ec02af614ac5574bc330f235c0cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11626,
+    "sha256": "sha256:a17e308a9fa7877154eaaacd2c3ed12538789455803e5ce14aedb9276b6dff92",
+    "normalized_content_hash": "sha256:2e0f4d5741dc9afa67ac1a30c71a4a36434148c20e5e7b2a3da94e019137b292"
+  },
+  "provenance": {
+    "source_item_id": "b31d4030-70a9-40ad-9624-0ebcab6c2c8c",
+    "external_id": "https://mendral.com/blog/agent-harness-belongs-outside-sandbox"
+  }
+}

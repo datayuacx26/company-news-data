@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ab6fb94ff87fdc2c7bf04eaab9ca78265d7ab5b582081742c75178f279df5f7d",
+  "company": {
+    "key": "yc-rootly",
+    "name": "Rootly"
+  },
+  "source": {
+    "id": "yc-rootly-news-import-8d53140345fd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills",
+    "canonical": "https://rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
+  },
+  "title": "Investigating CVE-2026-66066 with the Rails Forensics Agent Skills",
+  "summary": "How I used Claude to investigate KindaRails2Shell and sleep better after the patch.",
+  "published_at": "2026-08-04T12:00:00+00:00",
+  "first_seen_at": "2026-08-06T00:18:12.995751+00:00",
+  "fetched_at": "2026-08-06T00:18:14.293904+00:00",
+  "last_updated_at": "2026-08-20T03:29:07.656540+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-rootly/2026/08/ab/ab6fb94ff87fdc2c7bf04eaab9ca78265d7ab5b582081742c75178f279df5f7d/article.md",
+    "record": "articles/v1/e1/yc-rootly/2026/08/ab/ab6fb94ff87fdc2c7bf04eaab9ca78265d7ab5b582081742c75178f279df5f7d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13161,
+    "sha256": "sha256:bb2f770cad36e79b46a630899c62db0fba44e6a78d3b66a590b3d0d9747dcd8d",
+    "normalized_content_hash": "sha256:5968eab6f8e58e60fa066b248272d00eba25bea411aa62a89b71a08015e8f0e5"
+  },
+  "provenance": {
+    "source_item_id": "e9a23617-2889-4a91-8c4f-cd9e6d70d006",
+    "external_id": "https://rootly.com/blog/investigating-cve-2026-66066-at-rootly-with-rails-forensics-agent-skills"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "red-cat-holdings-inc-common-stock",
+    "name": "Red Cat Holdings Inc."
+  },
+  "record_count": 19,
+  "first_published_at": "2026-05-07T16:05:00+00:00",
+  "last_published_at": "2026-08-17T06:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ce/red-cat-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 23666,
+        "sha256": "sha256:6662a509d4d3cc312155b642bd4ac1d6f866ffff8ec6342147cb6dfbd11ce03e",
+        "newest_at": "2026-08-17T06:30:00+00:00",
+        "oldest_at": "2026-05-07T16:05:00+00:00"
+      }
+    ]
+  }
+}

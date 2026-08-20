@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "162c56812e0671cb943f4d230b8eb5622339ef0b5cea9c33f9b9fdc50996c5b8",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/optimizing-our-inference-backend-with-custom-load-balancing",
+    "canonical": "https://www.photoroom.com/inside-photoroom/optimizing-our-inference-backend-with-custom-load-balancing"
+  },
+  "title": "Optimizing our inference backend with custom load balancing",
+  "summary": "Standard load balancers fail on slow GPU inference. We built a shared-state least-request balancer with Envoy, Redis, and Lua — and dropped p99 by 10×.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:15:24.874490+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/07/16/162c56812e0671cb943f4d230b8eb5622339ef0b5cea9c33f9b9fdc50996c5b8/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/07/16/162c56812e0671cb943f4d230b8eb5622339ef0b5cea9c33f9b9fdc50996c5b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11887,
+    "sha256": "sha256:c8f495234523a793d0df9f63bf797f80564411e4ec1d693c927141c679788470",
+    "normalized_content_hash": "sha256:bdbb6b4896e7ab8fc385ab7f3096f349df5949591f3b2932f3c67512958618a2"
+  },
+  "provenance": {
+    "source_item_id": "7d29e66a-4cf4-4435-83ef-3eedaa25f483",
+    "external_id": "https://www.photoroom.com/inside-photoroom/optimizing-our-inference-backend-with-custom-load-balancing"
+  }
+}

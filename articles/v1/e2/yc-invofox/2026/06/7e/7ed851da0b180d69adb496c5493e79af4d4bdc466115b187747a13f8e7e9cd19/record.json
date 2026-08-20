@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ed851da0b180d69adb496c5493e79af4d4bdc466115b187747a13f8e7e9cd19",
+  "company": {
+    "key": "yc-invofox",
+    "name": "Invofox"
+  },
+  "source": {
+    "id": "yc-invofox-news-import-19c8879c7fc9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.invofox.com/en/blog/the-problems-youll-run-into-using-google-document-ai/",
+    "canonical": "https://www.invofox.com/en/blog/the-problems-youll-run-into-using-google-document-ai/"
+  },
+  "title": "Google Cloud Document AI: The Problems You'll Run Into at Scale",
+  "summary": "Google Document AI alternatives explained: real production limitations — splitter dependencies, per-version hosting, schema immutability and tenant isolation.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:28:19.833120+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T00:53:16.985813+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-invofox/2026/06/7e/7ed851da0b180d69adb496c5493e79af4d4bdc466115b187747a13f8e7e9cd19/article.md",
+    "record": "articles/v1/e2/yc-invofox/2026/06/7e/7ed851da0b180d69adb496c5493e79af4d4bdc466115b187747a13f8e7e9cd19/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22105,
+    "sha256": "sha256:0e3b4a6903406ee6c37e728c0e2962dae25c6dcffe27827847003f34fa31b340",
+    "normalized_content_hash": "sha256:304f462647c1001c5ba9b7261c3c8754dbe844c62df541943202cc1e8f87d3b2"
+  },
+  "provenance": {
+    "source_item_id": "7a8b632e-15ed-43fe-8ada-2fd0276eff18",
+    "external_id": "https://www.invofox.com/en/blog/the-problems-youll-run-into-using-google-document-ai/"
+  }
+}

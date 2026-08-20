@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "044c71629737495a82bd5a65867ec29da910e2f94133cb4fe0a11819da12160b",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/zero-trust-isnt-a-checkbox/",
+    "canonical": "https://www.singlestore.com/blog/zero-trust-isnt-a-checkbox/"
+  },
+  "title": "Zero Trust Isn't a Checkbox",
+  "summary": "Zero trust isn’t a feature - it’s an architecture. Learn how identity verification, least-privilege access, network isolation, and encryption work together to secure cloud databases in practice.",
+  "published_at": "2026-05-26T17:33:06+00:00",
+  "first_seen_at": "2026-07-22T13:37:02.744795+00:00",
+  "fetched_at": "2026-07-28T22:07:11.290939+00:00",
+  "last_updated_at": "2026-08-03T06:56:24.889315+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/05/04/044c71629737495a82bd5a65867ec29da910e2f94133cb4fe0a11819da12160b/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/05/04/044c71629737495a82bd5a65867ec29da910e2f94133cb4fe0a11819da12160b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11789,
+    "sha256": "sha256:3ab24c60ab262afc1546981d041493da7c6e86d027f9a99acae2397a667d848f",
+    "normalized_content_hash": "sha256:17b96d3468d0c87c879baa568df7377af04b411727eb42441ce30082b41a8eae"
+  },
+  "provenance": {
+    "source_item_id": "e7fcf351-32e6-42a0-a70c-a790a2b6f4b6",
+    "external_id": "https://www.singlestore.com/blog/zero-trust-isnt-a-checkbox/"
+  }
+}

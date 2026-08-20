@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b18a28617df8428a0823ff4762cdf7bbf006b7fa0aca1b4e5aafadea1b166b8",
+  "company": {
+    "key": "yc-cedana",
+    "name": "Cedana"
+  },
+  "source": {
+    "id": "yc-cedana-news-import-d2b6a3d3a0df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cedana.com/blog/the-era-of-stateful-inference/",
+    "canonical": "https://cedana.com/blog/the-era-of-stateful-inference/"
+  },
+  "title": "The Era of Stateful Inference: how to improve cost per token.",
+  "summary": "We are entering the stateful inference era, driven by frontier models with longer context windows, longer in-flight sessions, and single instances spanning 8, 16, or more GPUs.",
+  "published_at": "2026-07-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T05:08:30.961906+00:00",
+  "fetched_at": "2026-08-18T05:08:32.098954+00:00",
+  "last_updated_at": "2026-08-20T00:51:08.175987+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-cedana/2026/07/7b/7b18a28617df8428a0823ff4762cdf7bbf006b7fa0aca1b4e5aafadea1b166b8/article.md",
+    "record": "articles/v1/d2/yc-cedana/2026/07/7b/7b18a28617df8428a0823ff4762cdf7bbf006b7fa0aca1b4e5aafadea1b166b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 41985,
+    "sha256": "sha256:34c6fd033a46614689dd9be1910c43079adccdd00a84640659fb2194e2c5846e",
+    "normalized_content_hash": "sha256:def9f4428fe44b8be9d6ebb8bf75fc3a906499d4d8c00f8c6f8e3ec60a4c43ee"
+  },
+  "provenance": {
+    "source_item_id": "8e4d2c6c-2ff0-4cf9-88cf-e151f5aac24b",
+    "external_id": "https://cedana.com/blog/the-era-of-stateful-inference/"
+  }
+}

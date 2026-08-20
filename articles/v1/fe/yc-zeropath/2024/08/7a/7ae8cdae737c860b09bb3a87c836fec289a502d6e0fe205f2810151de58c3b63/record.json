@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7ae8cdae737c860b09bb3a87c836fec289a502d6e0fe205f2810151de58c3b63",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/uptrain-rce-vulnerability-analysis",
+    "canonical": "https://zeropath.com/blog/uptrain-rce-vulnerability-analysis"
+  },
+  "title": "Critical RCE Vulnerability in UpTrain",
+  "summary": "ZeroPath researchers uncover a critical Remote Code Execution (RCE) vulnerability in UpTrain, a popular open-source AI platform.",
+  "published_at": "2024-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:04:51.166008+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2024/08/7a/7ae8cdae737c860b09bb3a87c836fec289a502d6e0fe205f2810151de58c3b63/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2024/08/7a/7ae8cdae737c860b09bb3a87c836fec289a502d6e0fe205f2810151de58c3b63/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11330,
+    "sha256": "sha256:848e21df83716760b2c912e4280c4831c08c274eeb8bbda175322eadad63b2c0",
+    "normalized_content_hash": "sha256:2ffce8a4a109ac8f37fe0daa0bafd2c5004f43e0108f79f8a203a827f17dc948"
+  },
+  "provenance": {
+    "source_item_id": "ebe0579b-f1f1-4e71-8240-9708f2e73b76",
+    "external_id": "https://zeropath.com/blog/uptrain-rce-vulnerability-analysis"
+  }
+}

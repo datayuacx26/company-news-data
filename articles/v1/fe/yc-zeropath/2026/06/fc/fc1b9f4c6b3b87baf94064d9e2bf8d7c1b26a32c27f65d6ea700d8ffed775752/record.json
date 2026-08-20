@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc1b9f4c6b3b87baf94064d9e2bf8d7c1b26a32c27f65d6ea700d8ffed775752",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/reduce-false-positives-with-repo-context",
+    "canonical": "https://zeropath.com/blog/reduce-false-positives-with-repo-context"
+  },
+  "title": "How to Reduce False Positives by 76% with Repo Context",
+  "summary": "Traditional SAST buries teams in false positives because it can't see how an app runs in production. Adding repository context — plain-language facts about deployment, trust boundaries, and authentication — cut candidate issues 71-76% across two repositories, with zero high-severity bugs lost.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:50:52.708520+00:00",
+  "fetched_at": "2026-07-28T22:07:08.422826+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/06/fc/fc1b9f4c6b3b87baf94064d9e2bf8d7c1b26a32c27f65d6ea700d8ffed775752/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/06/fc/fc1b9f4c6b3b87baf94064d9e2bf8d7c1b26a32c27f65d6ea700d8ffed775752/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7415,
+    "sha256": "sha256:000db8bf4a9324bcd485d63c424fab9f26c255bf940ccaca9b14825bc423ef53",
+    "normalized_content_hash": "sha256:b9311ea4b80658673c30371cde16d0c4f871981ec755bda4256845c7edda0d36"
+  },
+  "provenance": {
+    "source_item_id": "516af5a5-8dc1-48c4-b530-45766709737a",
+    "external_id": "https://zeropath.com/blog/reduce-false-positives-with-repo-context"
+  }
+}

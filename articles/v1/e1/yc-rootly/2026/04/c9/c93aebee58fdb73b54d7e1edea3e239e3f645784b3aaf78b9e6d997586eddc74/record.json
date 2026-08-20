@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c93aebee58fdb73b54d7e1edea3e239e3f645784b3aaf78b9e6d997586eddc74",
+  "company": {
+    "key": "yc-rootly",
+    "name": "Rootly"
+  },
+  "source": {
+    "id": "yc-rootly-news-import-8d53140345fd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rootly.com/blog/replay-dont-rebuild-adding-week-long-deferrals-to-a-pipeline-that-handles-millions-of-alerts",
+    "canonical": "https://rootly.com/blog/replay-dont-rebuild-adding-week-long-deferrals-to-a-pipeline-that-handles-millions-of-alerts"
+  },
+  "title": "Replay, don't rebuild: adding week-long deferrals to a pipeline that handles millions of alerts",
+  "summary": "On extending a high-volume production pipeline instead of building alongside it, and the edge cases that only appear at the intersection of correct decisions",
+  "published_at": "2026-04-30T15:05:00+00:00",
+  "first_seen_at": "2026-07-24T00:13:28.618726+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-07-31T22:55:29.285656+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-rootly/2026/04/c9/c93aebee58fdb73b54d7e1edea3e239e3f645784b3aaf78b9e6d997586eddc74/article.md",
+    "record": "articles/v1/e1/yc-rootly/2026/04/c9/c93aebee58fdb73b54d7e1edea3e239e3f645784b3aaf78b9e6d997586eddc74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18198,
+    "sha256": "sha256:0ae5459d7b32cc1fb0970b9ae2d30d05ac8c88c9b9ff9f3fad3c5ff04eca267d",
+    "normalized_content_hash": "sha256:ae3411f6d6445a9f1d2ec89a8898c9b793ee0c27562a86f8e999aac081626e65"
+  },
+  "provenance": {
+    "source_item_id": "a602a377-ddb6-4db7-8ab9-68a79034645e",
+    "external_id": "https://rootly.com/blog/replay-dont-rebuild-adding-week-long-deferrals-to-a-pipeline-that-handles-millions-of-alerts"
+  }
+}

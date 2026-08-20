@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db74b0acd363aef82662fcf27ce6713bfd16847237b8d5f772975c99e13fc605",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/10/21/shuttle-next",
+    "canonical": "https://www.shuttle.dev/blog/2022/10/21/shuttle-next"
+  },
+  "title": "It's time to rethink how we use virtualization in backends",
+  "summary": "Virtual machines and containers have improved development in a lot of ways, but over time they have also created a lot of problems. We believe it's time to rethink how we use virtualization for backend development.",
+  "published_at": "2022-10-21T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:03:09.867162+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/10/db/db74b0acd363aef82662fcf27ce6713bfd16847237b8d5f772975c99e13fc605/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/10/db/db74b0acd363aef82662fcf27ce6713bfd16847237b8d5f772975c99e13fc605/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15646,
+    "sha256": "sha256:3459cacd1253b6ab55710459452e17b97e9b80dcd313a42d247875b49b3e6eb7",
+    "normalized_content_hash": "sha256:fb3b7cfd7018b63ad9428a45b72c93c819bd58247f99161133d5711daf6bf072"
+  },
+  "provenance": {
+    "source_item_id": "95f62f1b-08e4-4531-a9f8-b8ceadc85844",
+    "external_id": "https://www.shuttle.dev/blog/2022/10/21/shuttle-next"
+  }
+}

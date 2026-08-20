@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f2421cfb68d4b8b6d92fa483d0dba0e16ee38777926c94e7c907c1c0fa25f0c3",
+  "company": {
+    "key": "yc-brex",
+    "name": "Brex"
+  },
+  "source": {
+    "id": "yc-brex-news-import-5eb786253ae8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brex.com/journal/long-running-agents-need-bash",
+    "canonical": "https://www.brex.com/journal/long-running-agents-need-bash"
+  },
+  "title": "Long-running agents don't need tools or hosted sandboxes; all they need is bash.",
+  "summary": "Brex rebuilt its expense audit agent on a bash workbench instead of native tools. Token usage dropped ~80%, and recall climbed at scale. Learn more.",
+  "published_at": "2026-07-06T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T23:30:37.706504+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-08-20T02:32:36.103129+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-brex/2026/07/f2/f2421cfb68d4b8b6d92fa483d0dba0e16ee38777926c94e7c907c1c0fa25f0c3/article.md",
+    "record": "articles/v1/f0/yc-brex/2026/07/f2/f2421cfb68d4b8b6d92fa483d0dba0e16ee38777926c94e7c907c1c0fa25f0c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11475,
+    "sha256": "sha256:145a0da74984b04ec7e368471a520d6438592716b9984f3579c20fd43e8bbe32",
+    "normalized_content_hash": "sha256:fd913fb2d4a7f691987dcdc9e7e7b5f2da6ae44760d26d9c2c5b2dec97749c92"
+  },
+  "provenance": {
+    "source_item_id": "bcd4588a-9aaf-417e-8c02-248f925ce655",
+    "external_id": "https://www.brex.com/journal/long-running-agents-need-bash"
+  }
+}

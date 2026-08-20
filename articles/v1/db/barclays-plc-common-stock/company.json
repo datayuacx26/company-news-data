@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "barclays-plc-common-stock",
+    "name": "Barclays PLC"
+  },
+  "record_count": 45,
+  "first_published_at": "2024-10-14T00:00:00+00:00",
+  "last_published_at": "2026-07-30T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/db/barclays-plc-common-stock/index/pages/000001.json",
+        "record_count": 45,
+        "byte_count": 50420,
+        "sha256": "sha256:16151f31f171c23f578a229a8d1b9ebe89f6d9c39400176853e5df55efeb3ea8",
+        "newest_at": "2026-08-17T21:59:17.415898+00:00",
+        "oldest_at": "2024-10-14T00:00:00+00:00"
+      }
+    ]
+  }
+}

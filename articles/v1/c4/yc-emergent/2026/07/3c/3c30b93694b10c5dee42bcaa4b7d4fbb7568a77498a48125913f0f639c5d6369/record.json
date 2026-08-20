@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3c30b93694b10c5dee42bcaa4b7d4fbb7568a77498a48125913f0f639c5d6369",
+  "company": {
+    "key": "yc-emergent",
+    "name": "Emergent"
+  },
+  "source": {
+    "id": "yc-emergent-news-import-fc8f7e880d65",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emergent.sh/blog/why-we-rebuilt-our-deployment-engine",
+    "canonical": "https://emergent.sh/blog/why-we-rebuilt-our-deployment-engine"
+  },
+  "title": "From Prompt to Production: Why We Rebuilt Our Deployment Engine that wasn’t on fire",
+  "summary": "Emergent rebuilt its deployment engine after silent outages and mounting support tickets. Here's how immutable deploys, blue-green routing, and Temporal fixed it.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T18:25:54.732723+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T02:32:28.131405+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-emergent/2026/07/3c/3c30b93694b10c5dee42bcaa4b7d4fbb7568a77498a48125913f0f639c5d6369/article.md",
+    "record": "articles/v1/c4/yc-emergent/2026/07/3c/3c30b93694b10c5dee42bcaa4b7d4fbb7568a77498a48125913f0f639c5d6369/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8826,
+    "sha256": "sha256:a81ba0d0473aef6a5be35e4609abfa5d1834e4d2b58575b897ebdde557642b6b",
+    "normalized_content_hash": "sha256:0a8160abe5a48e82375edffb87ef1488d89724e63d3547dbd15918fd612045ec"
+  },
+  "provenance": {
+    "source_item_id": "18f90c0f-6804-4fa0-b80b-7d7dc5d39ff2",
+    "external_id": "https://emergent.sh/blog/why-we-rebuilt-our-deployment-engine"
+  }
+}

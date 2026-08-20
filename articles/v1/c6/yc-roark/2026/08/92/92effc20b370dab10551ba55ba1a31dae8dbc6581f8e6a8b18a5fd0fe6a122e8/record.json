@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "92effc20b370dab10551ba55ba1a31dae8dbc6581f8e6a8b18a5fd0fe6a122e8",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-voice-agent-post-call-write-backs",
+    "canonical": "https://roark.ai/blog/testing-voice-agent-post-call-write-backs"
+  },
+  "title": "Testing voice agent post-call write-backs",
+  "summary": "Your voice agent handled the call cleanly. Your CRM got a summary with the wrong DOB. Here's the QA plan for the write-back layer voice teams skip.",
+  "published_at": "2026-08-17T00:00:00+00:00",
+  "first_seen_at": "2026-08-17T14:24:04.114340+00:00",
+  "fetched_at": "2026-08-17T14:24:05.612637+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/92/92effc20b370dab10551ba55ba1a31dae8dbc6581f8e6a8b18a5fd0fe6a122e8/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/92/92effc20b370dab10551ba55ba1a31dae8dbc6581f8e6a8b18a5fd0fe6a122e8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13111,
+    "sha256": "sha256:337144a5cbc295d6dcbd0c33f3b3e67e3cc35d8c876c04e8d452d854d36fbdf3",
+    "normalized_content_hash": "sha256:c4c61d1337f217a83e3f31815897d5cfc831d36853df75640a9d301b21edb11d"
+  },
+  "provenance": {
+    "source_item_id": "6a134a08-e181-42a1-9e0c-c7a20c884bc2",
+    "external_id": "https://roark.ai/blog/testing-voice-agent-post-call-write-backs"
+  }
+}

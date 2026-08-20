@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d07ca1c29aca42e24a309240c6b564f333bd339eb9885a29b9c5d262c193ead",
+  "company": {
+    "key": "yc-doe",
+    "name": "Doe"
+  },
+  "source": {
+    "id": "yc-doe-news-import-a3f9325ff0ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://doe.so/blog/introducing-loops",
+    "canonical": "https://doe.so/blog/introducing-loops"
+  },
+  "title": "Introducing Loops",
+  "summary": "Ask Doe to do something regularly, and it just happens. Loops are the foundation for agents that monitor, decide, and act on your behalf.",
+  "published_at": "2026-01-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T16:44:00.145230+00:00",
+  "fetched_at": "2026-07-28T21:26:59.511520+00:00",
+  "last_updated_at": "2026-08-20T03:32:35.432458+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-doe/2026/01/6d/6d07ca1c29aca42e24a309240c6b564f333bd339eb9885a29b9c5d262c193ead/article.md",
+    "record": "articles/v1/c7/yc-doe/2026/01/6d/6d07ca1c29aca42e24a309240c6b564f333bd339eb9885a29b9c5d262c193ead/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2362,
+    "sha256": "sha256:d095dfe3f45af0e888ad648bef52a1777cecd8a1a1495477e7e67aad711d675d",
+    "normalized_content_hash": "sha256:f8ec978f800a8eb3d6aa0af04ad9b20dbe7da2dbb139511c12e82075c2740a7a"
+  },
+  "provenance": {
+    "source_item_id": "8438ede1-6c6a-40b2-81c8-c1f613b399d8",
+    "external_id": "https://doe.so/blog/introducing-loops"
+  }
+}

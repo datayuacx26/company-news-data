@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7422be4698a489094a1e83f22dae65ff0476e976293efbb6845fb015b0b569ad",
+  "company": {
+    "key": "tenable-holdings-inc-common-stock",
+    "name": "Tenable Holdings Inc."
+  },
+  "source": {
+    "id": "tenable-holdings-inc-common-stock-news-import-a6b69c49a265",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tenable.com/blog/ai-coding-assistant-agent-harness-attacks",
+    "canonical": "https://www.tenable.com/blog/ai-coding-assistant-agent-harness-attacks"
+  },
+  "title": "Your AI agent’s config is now the payload: How attackers are targeting the developer agent harness",
+  "summary": "Defend AI coding assistants against config attacks. Learn how attackers weaponize trusted dev harness files for supply chain exploitation, and explore 7 ways to protect your organization.",
+  "published_at": "2026-07-21T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:36:59.179818+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-08-14T22:00:20.395199+00:00",
+  "paths": {
+    "article": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/07/74/7422be4698a489094a1e83f22dae65ff0476e976293efbb6845fb015b0b569ad/article.md",
+    "record": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/07/74/7422be4698a489094a1e83f22dae65ff0476e976293efbb6845fb015b0b569ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13024,
+    "sha256": "sha256:37baa77b8c85cad7aeb23aca37b9f6df56467d8f6370df18a05b7fc6c5ad1ee3",
+    "normalized_content_hash": "sha256:48a12b78d37fd56a81d59c37fc4710cfff99788622f355e7ba055a2bfa6690f7"
+  },
+  "provenance": {
+    "source_item_id": "6ab56e2c-f2a4-45e4-ba0c-133efd3f8e5c",
+    "external_id": "https://www.tenable.com/blog/ai-coding-assistant-agent-harness-attacks"
+  }
+}

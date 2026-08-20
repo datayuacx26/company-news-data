@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0af7d3a21af71dbac225346e17b5b715c8b0859058ef559a363ce56d53bf0fd5",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/how-to-set-up-argocd-on-kubernetes",
+    "canonical": "https://www.skyhook.io/blog/how-to-set-up-argocd-on-kubernetes"
+  },
+  "title": "How to Set Up ArgoCD on Kubernetes: Step-by-Step Guide",
+  "summary": "A practical guide to installing ArgoCD on Kubernetes, connecting a Git repo, and deploying your first app. Zero to a working GitOps pipeline in 30 minutes.",
+  "published_at": "2026-03-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2026/03/0a/0af7d3a21af71dbac225346e17b5b715c8b0859058ef559a363ce56d53bf0fd5/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2026/03/0a/0af7d3a21af71dbac225346e17b5b715c8b0859058ef559a363ce56d53bf0fd5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13101,
+    "sha256": "sha256:b2f1ba1e559419ed0d79b72f97fbb6f6e978b468337c5c1f4ef6e233c50dec8a",
+    "normalized_content_hash": "sha256:089fef2752f9e230a44e934d07946b73af314e11cffeb3d186e7a8498bbacef8"
+  },
+  "provenance": {
+    "source_item_id": "be8ce543-6e42-4b4c-a8d2-52cdbfddcee5",
+    "external_id": "https://www.skyhook.io/blog/how-to-set-up-argocd-on-kubernetes"
+  }
+}

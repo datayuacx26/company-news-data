@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11ea71077f52b6077a75cadc4f5063b9d35f952e3e158f691e5dcd5b989b1cee",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/08/30/using-oauth-with-axum",
+    "canonical": "https://www.shuttle.dev/blog/2023/08/30/using-oauth-with-axum"
+  },
+  "title": "How to Implement OAuth in Rust",
+  "summary": "Learn what OAuth2 can do for your web apps. Explore how you competently can use OAuth in your web application without stress. Make it easier than ever for your users to use your application.",
+  "published_at": "2023-08-30T18:18:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/08/11/11ea71077f52b6077a75cadc4f5063b9d35f952e3e158f691e5dcd5b989b1cee/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/08/11/11ea71077f52b6077a75cadc4f5063b9d35f952e3e158f691e5dcd5b989b1cee/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22998,
+    "sha256": "sha256:594362141d7d707d8a69e71f5695c1dae62ebb81ede49db1f4a788d3177df1bd",
+    "normalized_content_hash": "sha256:11555455406fea4adaa1209c782b18336813f7588d9e531a48309815311bf782"
+  },
+  "provenance": {
+    "source_item_id": "81e0ede4-8aa0-42a6-ad2d-c0b48ee9afd0",
+    "external_id": "https://www.shuttle.dev/blog/2023/08/30/using-oauth-with-axum"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7218e50c41e20e94c46111c5079c369bbefde6569506fe4f2dc7dd15dbec2f15",
+  "company": {
+    "key": "yc-voize",
+    "name": "voize"
+  },
+  "source": {
+    "id": "yc-voize-news-import-43f8d5e4a29a",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tech.voize.de/posts/opentelemetry-collector-prometheus-compat",
+    "canonical": "https://tech.voize.de/posts/opentelemetry-collector-prometheus-compat"
+  },
+  "title": "Teaching Prometheus and OpenTelemetry-collector to be friends",
+  "summary": "Multi-cluster monitoring with consistent dashboards by making OpenTelemetry-collector metrics compatible with kube-prometheus-stack / kubernetes-mixin default Grafana dashboards",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T06:33:48.232845+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T22:13:44.497937+00:00",
+  "paths": {
+    "article": "articles/v1/f9/yc-voize/2026/07/72/7218e50c41e20e94c46111c5079c369bbefde6569506fe4f2dc7dd15dbec2f15/article.md",
+    "record": "articles/v1/f9/yc-voize/2026/07/72/7218e50c41e20e94c46111c5079c369bbefde6569506fe4f2dc7dd15dbec2f15/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19962,
+    "sha256": "sha256:1998b2a9b0e9a74369d51f980c57b267bd2befccccf322ca239e71ead38e2854",
+    "normalized_content_hash": "sha256:79440bd00f77f686828558c19833014ad203072ea7d348447a082b41c1683644"
+  },
+  "provenance": {
+    "source_item_id": "9efd2e68-29bb-46cb-a78d-3ba7f6f52d68",
+    "external_id": "https://tech.voize.de/posts/opentelemetry-collector-prometheus-compat"
+  }
+}

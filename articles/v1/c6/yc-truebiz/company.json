@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-truebiz",
+    "name": "TrueBiz"
+  },
+  "record_count": 7,
+  "first_published_at": "2026-04-28T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c6/yc-truebiz/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 7474,
+        "sha256": "sha256:cd23e48a13163e75a7724781f95341b5e139f56b6fbc8aa818a420fc5d2bce46",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-04-28T00:00:00+00:00"
+      }
+    ]
+  }
+}

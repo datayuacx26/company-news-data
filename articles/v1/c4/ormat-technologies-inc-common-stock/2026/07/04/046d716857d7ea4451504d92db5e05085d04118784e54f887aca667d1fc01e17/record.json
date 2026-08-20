@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "046d716857d7ea4451504d92db5e05085d04118784e54f887aca667d1fc01e17",
+  "company": {
+    "key": "ormat-technologies-inc-common-stock",
+    "name": "Ormat Technologies Inc."
+  },
+  "source": {
+    "id": "ormat-technologies-inc-common-stock-news-import-d0b11edce0a9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://investor.ormat.com/news-events/analyst-day/default.aspx",
+    "canonical": "https://investor.ormat.com/news-events/analyst-day/"
+  },
+  "title": "Analyst Day",
+  "summary": "",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T19:22:21.680011+00:00",
+  "fetched_at": "2026-07-28T21:20:09.527818+00:00",
+  "last_updated_at": "2026-08-19T17:19:35.259042+00:00",
+  "paths": {
+    "article": "articles/v1/c4/ormat-technologies-inc-common-stock/2026/07/04/046d716857d7ea4451504d92db5e05085d04118784e54f887aca667d1fc01e17/article.md",
+    "record": "articles/v1/c4/ormat-technologies-inc-common-stock/2026/07/04/046d716857d7ea4451504d92db5e05085d04118784e54f887aca667d1fc01e17/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1722,
+    "sha256": "sha256:604e7b4ec8a7c289e93ee07a035373950c7f635b00df279432ced5e398c01829",
+    "normalized_content_hash": "sha256:32910f249f35435624d3cd90e15f1c1e2f01fd90477f7c12f344b0cb54005e53"
+  },
+  "provenance": {
+    "source_item_id": "3784f7b7-b34e-4b88-b5a1-ded624b91dcb",
+    "external_id": "https://investor.ormat.com/news-events/analyst-day/"
+  }
+}

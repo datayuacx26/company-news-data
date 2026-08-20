@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e0d0f5021eab8d8d94239de172135dad78d4c38780c8e56bf36e1657b47afad0",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/distr-registry/",
+    "canonical": "https://distr.sh/blog/distr-registry/"
+  },
+  "title": "Distr Launch Week: The Distr Artifact Registry is GA",
+  "summary": "A built-in OCI registry with tag-based access control, audit logs, and support for Helm, Docker & more, designed to simplify self-hosted software distribution for both vendors and customers.",
+  "published_at": "2025-05-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2025/05/e0/e0d0f5021eab8d8d94239de172135dad78d4c38780c8e56bf36e1657b47afad0/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2025/05/e0/e0d0f5021eab8d8d94239de172135dad78d4c38780c8e56bf36e1657b47afad0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5139,
+    "sha256": "sha256:05175edc3eea08c76e937168120d4512fca01d82cafeedd1c41e15e469a8a741",
+    "normalized_content_hash": "sha256:ebd0141f96da0c43adb08b074c59a5ad4e7552eb73e375f5f13a72f8a46f7554"
+  },
+  "provenance": {
+    "source_item_id": "55bb3bd6-bdad-4d21-bdcd-40fd39808f38",
+    "external_id": "https://distr.sh/blog/distr-registry/"
+  }
+}

@@ -1,0 +1,58 @@
+---
+schema_version: "1.0.0"
+document_id: "e75deb253c82817a579f4f83172e5eb89a9638472b973133c8f0280623f1e084"
+company_key: "clene-inc-common-stock"
+company: "Clene Inc."
+source_id: "clene-inc-common-stock-rss-44a756474a03"
+canonical_url: "https://invest.clene.com/news-releases/news-release-details/clene-present-emerging-growth-conference-6"
+published_at: "2026-02-19T13:30:12+00:00"
+first_seen_at: "2026-07-26T11:53:40.164067+00:00"
+fetched_at: "2026-07-28T20:54:15.153981+00:00"
+content_hash: "sha256:eebfbbf415735576325cf29f58ac0eb6eda3914f312315605ed2e1c060ddc292"
+---
+
+# Clene to Present at the Emerging Growth Conference
+
+# Release Details
+
+
+## Clene to Present at the Emerging Growth Conference
+
+
+February 19, 2026
+
+
+[PDF Version](https://invest.clene.com/node/12391/pdf)
+
+
+SALT LAKE CITY, Feb. 19, 2026 (GLOBE NEWSWIRE) -- Clene Inc. (Nasdaq: CLNN) (along with its subsidiaries, “Clene”) and its wholly owned subsidiary Clene Nanomedicine Inc., a clinical-stage biopharmaceutical company focused on improving mitochondrial health and protecting neuronal function to treat neurodegenerative diseases, including amyotrophic lateral sclerosis (ALS) and multiple sclerosis (MS), today announced that management will present at the Emerging Growth Conference.
+
+
+**Virtual Presentation Details**
+**Date:** February 25, 2026
+**Time of Presentation:** 1:45 p.m. ET
+**Format:** Corporate update
+
+
+A webcast of the presentation will be available on the “[Events](https://www.globenewswire.com/Tracker?data=-QmJa_lLm7otZwc-M7gcTdIySHOFPutJut6StYvok-ayxpzFbp5bfeKw5GA_eAnjV1SJtRss-HFKxd80_1i7HZlqaf8Za3pgzAJEMNJru3c=) ” section of the Clene website. Alternatively, one can register for and view the webcast here:[https://goto.webcasts.com/starthere.jsp?ei=1740947&tp_key=dbde48090b&sti=clnn](https://www.globenewswire.com/Tracker?data=1daZcjlDVKNdSKs7hduHolBI708m_rE4O4-fYnF2i2Iy6FdGwzDkCENwHxU-rnAb2UJHOnmGtpBBErYIAoviZFoN2F82TQMksTkXrTez6X7cq9sjhDg25s0eQEyh6JKs6qZuol5wZ67qcfNQViAtGst-NVNV-nS5MuySBSCkNTQHJZpZIWmLf1UoptLrs6ki-Q-PsuAPMA6_AUiqLevLaeXSujksGt2E6qc6mHRmE7Vx-MeLt6ldKXzcOFg153eY) . A replay of the presentation will also be available through the conference portal and the Emerging Growth YouTube Channel,[http://www.YouTube.com/EmergingGrowthConference](https://www.globenewswire.com/Tracker?data=SKYBFygr9JatX3zuEaKOclIdaPHcf8NGTpGIfvJRmA6hFWrQSHhiauprk0CUSy22YeeK-FMBqQV6Gk0a5wv5uzidmsYQOVdqqXbVg_IyGokwDO95QwzYVIgCl3SjP_M5Yb2ObBfw0TyNjrEOw-6wQYbW4hzNfyt145rY3rxBqO8=) , following the event.
+
+
+**About the Emerging Growth Conference**
+The Emerging Growth conference is an effective way for public companies to present and communicate their new products, services and other major announcements to the investment community from the convenience of their office, in a time efficient manner.
+
+
+The Conference focus and coverage includes companies in a wide range of growth sectors, with strong management teams, innovative products & services, focused strategy, execution, and the overall potential for long term growth. Its audience includes potentially tens of thousands of Individual and Institutional investors, as well as Investment advisors and analysts.
+
+
+All sessions will be conducted through video webcasts and will take place in the Eastern time zone.
+
+
+**About Clene**
+Clene Inc., (Nasdaq: CLNN) (along with its subsidiaries, “Clene”) and its wholly owned subsidiary Clene Nanomedicine Inc., is a late clinical-stage biopharmaceutical company focused on improving mitochondrial health and protecting neuronal function to treat neurodegenerative diseases, including amyotrophic lateral sclerosis, Parkinson’s disease, and multiple sclerosis. CNM-Au8® is an investigational first-in-class therapy that improves central nervous system cells’ survival and function via a mechanism that targets mitochondrial function and the NAD pathway while reducing oxidative stress. CNM-Au8® is a federally registered trademark of Clene Nanomedicine, Inc. The company is based in Salt Lake City, Utah, with R&D and manufacturing operations in Maryland. For more information, please visit[www.clene.com](https://www.globenewswire.com/Tracker?data=8b3uJAWQ4_laNmXYilW3QWLzhgqS2by8VkYV85z-4wxp2JSYUqWGzM6m6YMS5N4aqdmuL-lZz_Ms0_V_mjylvIT987aL6_irln-nR-pvQN8nAVwNAxYUFIU-FjEdlnybOj4L7rXyW9AGJQNNV8VF85xmc4gUyvecDlaANsDHM5vVzUQALv0WS5NQfeGG2vVCPoS0FTkkfuK8NQtE1O2J1gifIK94Svt3oiH5_VH1OxtC3NDKqFB7bSHXxvHyksdG2wSgt-BStIkfd8fXvgyvvE_ZVKRWldfUGLKj7w70awi7k74AhsvIkYSvu53olaABDoolyZnL6pQxMiZD0eoCXDXpPLhbVKyBfNnRGb-bzFbqLTnn9rGsL84LZ01atnZIIYMDO24vVJJeNO5jyOqwD54o89LPB_8mPWmVGqZcLIRk0XspxCOaoCJhrGeUwdhGEHruqhUKWCmLyMe8kg46bmme2FrJmACntZudb4nbj2kaeMUTWxldrbJXpSKIZ8w53PV6BJr8KYNxSRhtBzGY3y5ejyUPw_5-bPgDY9-yRiUf9_uFv3JQSnbVlelDyfObopt-du3w4likU5CEM2yo9X4gIwqyMxF5vSWu1se5akdHvd2BYglw0EPYnYjWiBxejH-HQv3hal0ImMb6I4gipNFt6aVB-ledVD6XXZ24wp3NYsDkFNmzr0uJQotSggo4s_5vhmvqGTxI-8pj7gyBNULq83MN9bvVlUH4_3f7kJsFba30jfhKlV6j6GysaFuuPHvOVy0ikpPyXl09wGXI6MQdeu1xGeu54brXG74j5Gi2B1uu66D-tW_O3d6DAHyYQ9J6aPMInWRADFelWBmVrmZnTKMmfwTHf4r_KJj0CvxD2V_x8kCESRSMCYCn9iltFCsY0GNAWhKX3fqHfjWtJDT-jUVylAs7XbiUbTX7fuVw7kuAFmlMDgEIBm8EQPfzUaSmToM2euVmTPc_LDVrXg86PublEGQa4E7DIjA48s4gXY_Vuej7vOObzjEchfs2volkSbrstNF0cWElCk2wQlh0Plvzu6F9d1Cuh_vM6cclBHbC6LVkdsbooqTfzp0KwwQujRIV5KeR2igXB8OR9kZogqqEN1BTZps6v3KvyYQLqTLbip95NY1nHaHwJlWSnYRFyp-j_pVrD4oyyIvbXSIQtUb5DcaVWRl2KPmTqPzZMkwhEjH2imdrWffa-WtzBBmswfIbXEDKBuWXjQdLNxp-5NiA-t51UPwM6CKIkBaeuTvZ4AKuUD2KyQfmX0RQyxZwADyWR_4czhHqAbZ8juu6VIVxDy-4_HWSpFxXTyvyXysLxScud-KLgu-qmfCFwUD_yaob6AonUAGddO4ln2NLvLSkbqEx46rGfxsrmPoBDg6q0Tqy1tF069sl0VE4u5jdLmSf0abuxmD1MUeCnyws1N0CzK5bd5hMNA_6oq4sYH3Kk6TPBOZhGCWD8FfYfOgntrNhWi0VGlwJxAS1ww==) or follow us on[X (formerly Twitter)](https://www.globenewswire.com/Tracker?data=2J5RDyKt5GLqWP1Yhd5pH4dwasznmyNWC4-13b2MiARNyajQDWtvmuXuz907-iUAk2KudV5WRXLWL-m-nzAt-iBACd0NmE8nLEkr_rr8PoxJslXKaezCT4a43SYvqw9ihC7734HdkM5VHxEPRuM1Y43a01DtgoEllQrY_I7CDj6dQew7TBBvABcggMcDEfjGbrBATvQxooEUDUqkvuq1RLUvUmFZ0HPXMhmxAuA4HvKH6AKBC7qL4e5L8MFT1GombopIv5hBFiuN4MbT87Bng_3Ii27hzKrCXFTYO1X2lhi_h5s1nKX3tQ6KTZLW5m0nTihGjI2-S8XqUtOyJjR-Nzo234yiOPVB7XX26AuzwpRV-363gzko7khZDwv2BZ93Cww_RKLCPeub3mp295N0KSG4ae-aIZoWKTJjIrWB4Kasm3gfj68aKPIEuyFxC-7cM886oYvfZYvthxSZbozCAs1evwXGu8hSNPh5NtgqErTL7Pkf5g17z-OQtT1-EU0AlJ3GR51kp3Q3JUKrzQjUSPHZhJClieSyPd5TZrKqLqujZ_Y9AbA2phsCEM5Hl0M733FxOoavNutG9OLMHgKmnTFD06YNNDhekGC6eYyU6nUh4a5gc9ZxO2DO--5N6mSnUY4ux-Iz1X-9TeGHszWrVVb1095EXXHrjg2EY7AwmXDOrMp61hJe9OcWewU5qqNVuw7ujUV73XvnzQVbuFhupTf8vrs6ijPr2tJg3rqe85SZiaWQ0jObPVsjbUEtNhswe1WuXj5mitWJXFgFZu4OFdzkFNB7t4QGkryidKrjrAfLIOeRcvc57xCd58ydIAitGlPRvrCGnSKUFyaNTVBMCjEJcH0OuW3LRtasIsGdLVDezhxWt9kEJHplsPpvKrXy4OyvYQJpYc-39nz4VxtWP8Bbng5gWoRhWuladaTfyZWxThU70Yk4ZbeO_HA0K0gI4itUeZLY6eyWFRUg-74CdFwO7DdukT0cSqpd1y-5mLhsf1KuwT2t13HX8fMRy4WnCdUKl3D6OrYcW_wcnkxc28q8BKHPJk-UjJmxWQfdyKDhq97sDq2bXTrF86KdcED_LLtiub54wNmDQPCIfL2QAQHGhsH7lNLw8Rfq0m1PMWVVyemH85YdDV1sZh5WRedOByGTyuakUbI4Dj4fW_cYFbxA85e_DzECMmAMlS4jIJnvHMEq-5Wi3VW8jpxkUHOBDAKN4b6mXxrGiA8OZ_cmXUw0632OMERIPu3Fhbdz-MT_pJkqR2KF3Tzr8Yd3BQbstIAx6WjM83djZhA1hf_uaZi4WLEFIENJ2xt72uP_h2gje2z--DZz-UQa-zitH2nb5DpaU18Un_4D5x5oZen3Lul_Qj6wMrD3jrdjLTfd5FydNXYw5I6DHSD1HBCDpaD1hrNnMIDPSAR-k8wqzpFH-6_R0_1k7epj2ns35oIM8C9sip2QjQ5-z5UNzSNU9lTILkXavkbE5H5dR8qN0gYy_ai8bSpI9itKHxVk-FHJuaErmSHp6y3_1c2leHrb735ASCCFY4PN9VvZPbxhY6VzKD-qg-fKrzWFhutHmaf_seU=) and[LinkedIn](https://www.globenewswire.com/Tracker?data=eYyOj6Kf6P-I9HhIZcxy1I_8EPHQsNYEXZWcnuZeSZhl7DrJ0598UUIczi6CJbg3QSchClNexybbU5tAe_nPsD_Yk7kg_-djXCfP4ERDBQZxnUz-G61AkgpnM7TDScuvgUYSBWSFYBfEj19S8-5uT8wArJQBME6VUSkLVyTMuVRRSznVvSh7wETRyAECcyZIfXKselzxAMHkWRhUqE9CDx6HGGVpSZRElixXL9rFzruPBBDeW3Ulv4eotPiadGx18GLqOqBYgrYCYBSd623gBeiPVFfWrYFcjrGA8-TIOsZrC1E3qAB2FCNNvG7AtxZppRscVapqhPn08wrOvjrr3Z4G-HmgMPMKkM_-MFYurf1YidL1m1cwP5gsfGyxhUkEKydOb2yaEvuBgG41yIXy_naZuiqUpJby_3cIid9cKVDTWX78uVD0znTXPIPR-m8aY__DekfI_pbEhpB4hGqbM1_6ndu_gCmjEA2MNRbKKyKaqeh3AODOef5uazh1ZNu_c8MSrl8sqWhCxM0nMACoTqDCZTq2VPc0kNHJh_r9NWcqHVGgsVu5eIUR7Dr5OCtIPeDT8k206KXeN8BMXF19RxPR_iyvgacWBJ__gNviX2GKbNA_3RNZ6lgd5vH7F46yYJ-cyhrXBmoBHm6za-v-dtYEDi1nYux7Xs7XwR2y41RD0jZNI5hhwJLVLK84v9OKbBpzWLDkH5-gzFiyVcYNOcjwNWYUbhqp9sIuuWhig_UxqDargmK2ec1LcrnrXMTJE7yOfOK4C84BCF__22wrtKe7Q0H6p4R6_VB5ddbdH9iifdfiqU0RxDw2ByNH3tBioh7RbyM2Yf11mp75VWYoJs_6R6Jvm2shvGdypLfhEuVukGJieoWcZ5-FHXloAQl-GS9qLHPm0j_W9z8qPukdnTTTQI30b-7m15NgrYB8Z19t9vG_DAtlI5kDr6rdnhO5ri3TP4bNa7pb5hGC8gn0DYlPRglJfdfuyfyKcDq0CCCr4eY-sGVGWOYwwTn1X1hJdnsaP9QzUyJdcD923ZuQoTPtBkBr0PYo6qgPX0OzMQkICtNGadNqVccNS05WF2s7aGuPT8OtMUO0A07FCOxZQDv7hKQkdwOWjCQvwXNwfNEUrs_Sa1-jFQFyNSpg7akNfnEMRRhuwnkTbO-NUpsPYiIWelu6YGXkXJcucx_zhDYsnvwj_6yHEONlcZ8xeBvN3M7DBT1UkHCXGDG_YH4-HVUWumBsmRUVyY_Yzwq0keU5oSD5vnPdfSNirMLjAKSm6xOsc-zxCbRBRvKQxXTJvRb6qtLW_wMEk4rgub-keo0j6W74VJ-am4_EAv4M3TeNec7IBySzVTz9lPIEnc40RxLZgdZnWBnKEi37c6J-gL8lJ0SAl2oPh9MymcNpHB0XBZH6x_SmQxyy1lYj9n30OIyraarQPLEqDXQid4AaFBiVcSKgQ140Q3l4aA6dG7IFU-tre21GoZ-Gs6SYmsX0yQQGXclIURI_L6Ahs05su79niCMWVNhmuyncXgUEjdJyuufePrUNXcM_R4ZfmqNIU_ak_5HmivfjhPK3zEm468U4DvJqh6PzunJeNPN9_Jct1ZhqSAXmnu34pyANul6KzA==) .
+
+
+**Investor Contact**
+Kevin Gardner
+LifeSci Advisors
+[kgardner@lifesciadvisors.com](https://www.globenewswire.com/Tracker?data=nJcWzWu6WbON-iGw4yMiEkZbPzZqlvyjJlJwbfx79NNJdl_aMixoAQDalS4VuMWaEl4ZPtJ7q3Btf03Ap_d5DTgK3dRqdCfWdKtxwBL5wJJ2PWx1JPoPCiJvR-W6BaYC)
+617-283-2856

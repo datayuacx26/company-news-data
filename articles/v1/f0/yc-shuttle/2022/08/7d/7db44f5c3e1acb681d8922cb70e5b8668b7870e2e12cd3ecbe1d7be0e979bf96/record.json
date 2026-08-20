@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7db44f5c3e1acb681d8922cb70e5b8668b7870e2e12cd3ecbe1d7be0e979bf96",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/08/04/middleware-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2022/08/04/middleware-in-rust"
+  },
+  "title": "Implementing Middleware in Rust",
+  "summary": "This article explores how you can use and write your own middleware in Rust web servers, using Rocket and Axum as examples.",
+  "published_at": "2022-08-04T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/08/7d/7db44f5c3e1acb681d8922cb70e5b8668b7870e2e12cd3ecbe1d7be0e979bf96/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/08/7d/7db44f5c3e1acb681d8922cb70e5b8668b7870e2e12cd3ecbe1d7be0e979bf96/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19496,
+    "sha256": "sha256:dc30f36bdd036652e639d70b582e94d9f84f95632a24f132bcc6e8eed5618f6a",
+    "normalized_content_hash": "sha256:8fa0026d3a70d376acce4e262e39c59abfe16b9406150e6d566c5603253ab3ff"
+  },
+  "provenance": {
+    "source_item_id": "289c447c-35c2-46e1-b1c7-2b1064a3c6b1",
+    "external_id": "https://www.shuttle.dev/blog/2022/08/04/middleware-in-rust"
+  }
+}

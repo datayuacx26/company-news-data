@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c9615188ba622ccdb12f4deda1f4d8d456f07f16be9aaa76e8362241fbdf4d4b",
+  "company": {
+    "key": "yc-stormy-ai",
+    "name": "Stormy AI"
+  },
+  "source": {
+    "id": "yc-stormy-ai-news-import-9770ca28bd19",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://stormy.ai/blog/crown-wp3200-low-battery-vs-service-event",
+    "canonical": "https://stormy.ai/blog/crown-wp3200-low-battery-vs-service-event"
+  },
+  "title": "Crown WP 3200 Display Status: Flashing Low-Battery Indication vs. Service-Required Event Code",
+  "summary": "The Crown WP 3200 message panel presents distinct display states: a flashing battery icon indicates low battery charge and disables raising, whereas a service event code indicates a detected event requiring supervisor or service escalation.",
+  "published_at": "2026-08-15T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T05:27:32.926397+00:00",
+  "fetched_at": "2026-08-15T05:27:34.596608+00:00",
+  "last_updated_at": "2026-08-19T17:45:32.884799+00:00",
+  "paths": {
+    "article": "articles/v1/d4/yc-stormy-ai/2026/08/c9/c9615188ba622ccdb12f4deda1f4d8d456f07f16be9aaa76e8362241fbdf4d4b/article.md",
+    "record": "articles/v1/d4/yc-stormy-ai/2026/08/c9/c9615188ba622ccdb12f4deda1f4d8d456f07f16be9aaa76e8362241fbdf4d4b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1324,
+    "sha256": "sha256:9aef43317541ad7c5036c3fc926dd41efd571e3d1567d625816a01f14c1a86a7",
+    "normalized_content_hash": "sha256:05c63237adba9cd6b45132e50304a9cdc4d6bfa4dd1dd739519bcaad754f6f98"
+  },
+  "provenance": {
+    "source_item_id": "79f4cae6-c2f4-4443-af8f-8064ebd4a931",
+    "external_id": "https://stormy.ai/blog/crown-wp3200-low-battery-vs-service-event"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be557ade96be787ee359c41dffd699b9095258903842672e873169fa5c3a30cd",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-campfire-and-snowflake",
+    "canonical": "https://www.stacksync.com/blog/sync-campfire-and-snowflake"
+  },
+  "title": "Getting Campfire Financials Into Snowflake Without a Nightly Job",
+  "summary": "Sync Campfire journal entries, invoices, and revenue schedules into Snowflake as they post, and push modeled metrics back into the ledger.",
+  "published_at": "2026-07-21T11:30:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-07-29T13:54:19.582133+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/be/be557ade96be787ee359c41dffd699b9095258903842672e873169fa5c3a30cd/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/be/be557ade96be787ee359c41dffd699b9095258903842672e873169fa5c3a30cd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6334,
+    "sha256": "sha256:152c394aa825c7f72ca706212a951aea8af4b7cb76c549b7e7c129b41e041cc9",
+    "normalized_content_hash": "sha256:d3262c903375b72ac736f55307449d0739ff7143ad53a9e67536d1a25c0c5852"
+  },
+  "provenance": {
+    "source_item_id": "3c729c04-5f93-49ec-b8a5-6168a9a4e5b8",
+    "external_id": "https://www.stacksync.com/blog/sync-campfire-and-snowflake"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3f3eb12289fdb3fd59d0b28b652b359f418dde62af563a40051ae8d69dcfd4b5",
+  "company": {
+    "key": "yc-blueshoe",
+    "name": "Blueshoe"
+  },
+  "source": {
+    "id": "yc-blueshoe-news-import-28975b8749e8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.blueshoe.io/blog/alternatives-to-django-celery-in-kubernetes/",
+    "canonical": "https://www.blueshoe.io/blog/alternatives-to-django-celery-in-kubernetes/"
+  },
+  "title": "Alternatives to Celery for Django on Kubernetes | BLUESHOE",
+  "summary": "Looking for a lightweight alternative to Celery for Django on Kubernetes? We compare Django Celery, RQ, Dramatiq & Huey and show you how to scale easily with KEDA. Find the best solution for your project.",
+  "published_at": "2025-09-10T10:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:56:59.304644+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-20T02:26:22.901906+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-blueshoe/2025/09/3f/3f3eb12289fdb3fd59d0b28b652b359f418dde62af563a40051ae8d69dcfd4b5/article.md",
+    "record": "articles/v1/ce/yc-blueshoe/2025/09/3f/3f3eb12289fdb3fd59d0b28b652b359f418dde62af563a40051ae8d69dcfd4b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17403,
+    "sha256": "sha256:4edb1c3ecadb07a4c4e3082afe474672cc2e17dbe42b9cbdace788fb690d8849",
+    "normalized_content_hash": "sha256:2ed010afc1e9538fd1f588f2a4075adc2197ce0f507ba6db0642b5ed26b4d358"
+  },
+  "provenance": {
+    "source_item_id": "ff91a889-5bde-41b9-8d4a-462244f3c3b8",
+    "external_id": "https://www.blueshoe.io/blog/alternatives-to-django-celery-in-kubernetes/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6c927a45d0966954633402306f021bd7a742757422ab4485c5aab99b5c9285f",
+  "company": {
+    "key": "yc-brex",
+    "name": "Brex"
+  },
+  "source": {
+    "id": "yc-brex-news-import-5eb786253ae8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brex.com/journal/how-we-built-an-ai-oncall-engineer",
+    "canonical": "https://www.brex.com/journal/how-we-built-an-ai-oncall-engineer"
+  },
+  "title": "How we built an AI oncall engineer at Brex",
+  "summary": "We encoded our oncall playbook into an agent. Here's what happened.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:29:48.523536+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-20T02:32:36.103129+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-brex/2026/04/b6/b6c927a45d0966954633402306f021bd7a742757422ab4485c5aab99b5c9285f/article.md",
+    "record": "articles/v1/f0/yc-brex/2026/04/b6/b6c927a45d0966954633402306f021bd7a742757422ab4485c5aab99b5c9285f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8067,
+    "sha256": "sha256:4bc3fa925cdd8343b8937534d673608257a29746cefc717c15340e082221babf",
+    "normalized_content_hash": "sha256:f51e1eb4f84317ee68ee0ee18907f842d6bca82e791e82c9075b5adb08f00c8d"
+  },
+  "provenance": {
+    "source_item_id": "4c72b83c-51c3-4ba9-becb-8e61b230038a",
+    "external_id": "https://www.brex.com/journal/how-we-built-an-ai-oncall-engineer"
+  }
+}

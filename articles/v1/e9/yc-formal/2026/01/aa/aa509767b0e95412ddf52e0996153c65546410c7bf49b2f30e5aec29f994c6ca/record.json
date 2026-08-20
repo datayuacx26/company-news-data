@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa509767b0e95412ddf52e0996153c65546410c7bf49b2f30e5aec29f994c6ca",
+  "company": {
+    "key": "yc-formal",
+    "name": "Formal"
+  },
+  "source": {
+    "id": "yc-formal-news-import-a5b088b50d89",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://formal.ai/blog/using-proxies-claude-code/",
+    "canonical": "https://www.formal.ai/blog/using-proxies-claude-code/"
+  },
+  "title": "Using Proxies to Hide Secrets from Claude Code",
+  "summary": "How to use HTTP proxies to prevent credential exposure in Claude Code sandboxes.",
+  "published_at": "2026-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:22:31.452672+00:00",
+  "fetched_at": "2026-07-28T21:27:02.153272+00:00",
+  "last_updated_at": "2026-08-19T21:17:49.783874+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-formal/2026/01/aa/aa509767b0e95412ddf52e0996153c65546410c7bf49b2f30e5aec29f994c6ca/article.md",
+    "record": "articles/v1/e9/yc-formal/2026/01/aa/aa509767b0e95412ddf52e0996153c65546410c7bf49b2f30e5aec29f994c6ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14226,
+    "sha256": "sha256:caad0d9467b28d765941214cf3412c01c9971df27d0f58af466116ab90ac752a",
+    "normalized_content_hash": "sha256:be98973e03d4d88be4a42252c2a065bb034488da67b2a077ddd88d4f3a2c8293"
+  },
+  "provenance": {
+    "source_item_id": "57c10031-fae5-46ee-9ad4-1e3b11aea3fd",
+    "external_id": "https://www.formal.ai/blog/using-proxies-claude-code/"
+  }
+}

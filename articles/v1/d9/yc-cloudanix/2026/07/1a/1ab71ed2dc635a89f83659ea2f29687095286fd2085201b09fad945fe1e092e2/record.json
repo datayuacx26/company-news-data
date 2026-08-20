@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1ab71ed2dc635a89f83659ea2f29687095286fd2085201b09fad945fe1e092e2",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/implementing-least-privilege-in-gcp-iam-recommender-jit-access/",
+    "canonical": "https://www.cloudanix.com/blog/implementing-least-privilege-in-gcp-iam-recommender-jit-access/"
+  },
+  "title": "Implementing Least Privilege in GCP: IAM Recommender + JIT Access",
+  "summary": "IAM Recommender diagnoses over-privilege. JIT Access enforces it. Combine both for complete least-privilege in GCP.",
+  "published_at": "2026-07-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T20:41:19.924237+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2026/07/1a/1ab71ed2dc635a89f83659ea2f29687095286fd2085201b09fad945fe1e092e2/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2026/07/1a/1ab71ed2dc635a89f83659ea2f29687095286fd2085201b09fad945fe1e092e2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 29742,
+    "sha256": "sha256:0d763009623b0f61e49212cd46a873e35e9f1eb0c6868b23c876b80e39f4d30e",
+    "normalized_content_hash": "sha256:69e104a705385192dd717caf52e990d40df901e52cdae72bbe0c2a59cf708aa3"
+  },
+  "provenance": {
+    "source_item_id": "07efdf91-949c-4acc-ba3b-4fd0445f2560",
+    "external_id": "https://www.cloudanix.com/blog/implementing-least-privilege-in-gcp-iam-recommender-jit-access/"
+  }
+}

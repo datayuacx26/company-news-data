@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0feabb550de32d12086034dac985f88b289fda087649a5e67d41304c4f1e3da4",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/coding-agent-rogue-scenarios",
+    "canonical": "https://getunbound.ai/blog/coding-agent-rogue-scenarios"
+  },
+  "title": "What Happens When an AI Coding Agent Goes Rogue: Real-World Incident Scenarios",
+  "summary": "Four realistic scenarios showing how AI coding agents can leak credentials, exfiltrate data, and compromise infrastructure. Each maps to a documented 2025 incident and a prevention path.",
+  "published_at": "2026-03-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/03/0f/0feabb550de32d12086034dac985f88b289fda087649a5e67d41304c4f1e3da4/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/03/0f/0feabb550de32d12086034dac985f88b289fda087649a5e67d41304c4f1e3da4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6207,
+    "sha256": "sha256:c577c863fcec55ada61b2d775abc01a33b11c8706510bcdbe83e9f5719706fb8",
+    "normalized_content_hash": "sha256:59aba7e0d749bc64ea54cbb926cbffd494b18ad7f0c687621c46d8ccfbdd0fb6"
+  },
+  "provenance": {
+    "source_item_id": "d1bd1615-0f6a-488c-b11d-cf618a01e156",
+    "external_id": "https://getunbound.ai/blog/coding-agent-rogue-scenarios"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "02feef13c2645c30b256c3dc073d18f5be1df28d370394d573803a9be85fd207",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/best-ai-agent-orchestration-frameworks-2026",
+    "canonical": "https://www.agentmail.to/blog/best-ai-agent-orchestration-frameworks-2026"
+  },
+  "title": "The 12 Best AI Agent Orchestration Frameworks for Developers (2026)",
+  "summary": "Code-first agent orchestration frameworks compared on what breaks in production. We built the same three-step approval workflow in nine of these, killed the process while it was waiting for a human, and recorded what came back. Every framework held its state. Not one of them woke back up on its own.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-08T03:21:49.802515+00:00",
+  "fetched_at": "2026-08-08T03:21:53.866935+00:00",
+  "last_updated_at": "2026-08-20T02:25:07.860354+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/08/02/02feef13c2645c30b256c3dc073d18f5be1df28d370394d573803a9be85fd207/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/08/02/02feef13c2645c30b256c3dc073d18f5be1df28d370394d573803a9be85fd207/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26289,
+    "sha256": "sha256:fb10181db2a814e2c7d274633928964d8418be5b70440ebaba3003923dac35ae",
+    "normalized_content_hash": "sha256:ec278a0aae89bf9d6c05ec034727eaaacc668969815720dc6bd8b40f3eec7b8d"
+  },
+  "provenance": {
+    "source_item_id": "df818bbd-c2b4-4ddf-9e3a-946bcda35610",
+    "external_id": "https://www.agentmail.to/blog/best-ai-agent-orchestration-frameworks-2026"
+  }
+}

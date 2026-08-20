@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-keye",
+    "name": "Keye"
+  },
+  "record_count": 19,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fa/yc-keye/index/pages/000001.json",
+        "record_count": 19,
+        "byte_count": 22132,
+        "sha256": "sha256:761d5e6d5059680c90c63eb90841050f8353b9a31a3eb3c009c1252984c9d1ce",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-07-28T21:16:50.994015+00:00"
+      }
+    ]
+  }
+}

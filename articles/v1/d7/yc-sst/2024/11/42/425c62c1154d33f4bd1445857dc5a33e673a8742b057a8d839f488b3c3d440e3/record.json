@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "425c62c1154d33f4bd1445857dc5a33e673a8742b057a8d839f488b3c3d440e3",
+  "company": {
+    "key": "yc-sst",
+    "name": "SST"
+  },
+  "source": {
+    "id": "yc-sst-news-import-9375d5a7fa7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sst.dev/blog/container-support",
+    "canonical": "https://sst.dev/blog/container-support/"
+  },
+  "title": "Container support",
+  "summary": "SST now natively supports building containerized applications.",
+  "published_at": "2024-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:49:09.857782+00:00",
+  "fetched_at": "2026-07-28T21:33:00.470256+00:00",
+  "last_updated_at": "2026-08-19T20:37:58.782391+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-sst/2024/11/42/425c62c1154d33f4bd1445857dc5a33e673a8742b057a8d839f488b3c3d440e3/article.md",
+    "record": "articles/v1/d7/yc-sst/2024/11/42/425c62c1154d33f4bd1445857dc5a33e673a8742b057a8d839f488b3c3d440e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4672,
+    "sha256": "sha256:de4d6b6f65cdf80c8764b9dc756f7ad3d3d846df51a1fde63df43fbade323e11",
+    "normalized_content_hash": "sha256:e3a918a8b8b79d91904f03e36d71dd7274ab45c4a5547562546d4a65c022afdf"
+  },
+  "provenance": {
+    "source_item_id": "fd14aed8-8e95-4885-84f6-c87c737f16f6",
+    "external_id": "https://sst.dev/blog/container-support/"
+  }
+}

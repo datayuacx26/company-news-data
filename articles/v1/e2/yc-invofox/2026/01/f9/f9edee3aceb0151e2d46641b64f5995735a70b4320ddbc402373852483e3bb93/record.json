@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f9edee3aceb0151e2d46641b64f5995735a70b4320ddbc402373852483e3bb93",
+  "company": {
+    "key": "yc-invofox",
+    "name": "Invofox"
+  },
+  "source": {
+    "id": "yc-invofox-news-import-19c8879c7fc9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.invofox.com/en/blog/azure-document-intelligence-at-scale-issues/",
+    "canonical": "https://www.invofox.com/en/blog/azure-document-intelligence-at-scale-issues/"
+  },
+  "title": "Problems You'll Run Into Using Azure Document Intelligence",
+  "summary": "Azure Document Intelligence looks fine on paper but production reveals architectural limits — polling, rate caps, ops complexity force heavy workarounds.",
+  "published_at": "2026-01-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:28:19.833120+00:00",
+  "fetched_at": "2026-07-28T22:22:54.577865+00:00",
+  "last_updated_at": "2026-08-05T16:39:43.107463+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-invofox/2026/01/f9/f9edee3aceb0151e2d46641b64f5995735a70b4320ddbc402373852483e3bb93/article.md",
+    "record": "articles/v1/e2/yc-invofox/2026/01/f9/f9edee3aceb0151e2d46641b64f5995735a70b4320ddbc402373852483e3bb93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9048,
+    "sha256": "sha256:37000c27321ebd32572cbaa593287bf57234e46f2d8a5e90006680dfd31b1b68",
+    "normalized_content_hash": "sha256:359f406cc01b30a94e8864a04f6063c44f012e16531dc60dabc95886dac8237c"
+  },
+  "provenance": {
+    "source_item_id": "65498702-950b-48ac-bbdd-9ced2acc1fb6",
+    "external_id": "https://www.invofox.com/en/blog/azure-document-intelligence-at-scale-issues/"
+  }
+}

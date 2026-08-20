@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pennantpark-floating-rate-capital-ltd-common-stock",
+    "name": "PennantPark Floating Rate Capital Ltd."
+  },
+  "record_count": 17,
+  "first_published_at": "2026-05-04T20:05:00+00:00",
+  "last_published_at": "2026-08-10T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 7
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e8/pennantpark-floating-rate-capital-ltd-common-stock/index/pages/000001.json",
+        "record_count": 17,
+        "byte_count": 22799,
+        "sha256": "sha256:a6315b1d789b46a6dcc69e16a0efa03ac0f97bea01633a9844973238dfac8621",
+        "newest_at": "2026-08-10T20:05:00+00:00",
+        "oldest_at": "2026-05-04T20:05:00+00:00"
+      }
+    ]
+  }
+}

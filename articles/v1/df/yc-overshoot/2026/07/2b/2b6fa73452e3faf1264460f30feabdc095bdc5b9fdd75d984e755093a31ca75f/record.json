@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b6fa73452e3faf1264460f30feabdc095bdc5b9fdd75d984e755093a31ca75f",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/an-introduction-to-token-pruning-for-vlms",
+    "canonical": "https://www.overshoot.ai/blogs/an-introduction-to-token-pruning-for-vlms"
+  },
+  "title": "An Introduction To Token Pruning For VLMs",
+  "summary": "Why vision language models can drop visual tokens without losing understanding, from parameter pruning to PuMer and FastV and the efficiency tradeoff.",
+  "published_at": "2026-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:59:45.647621+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/07/2b/2b6fa73452e3faf1264460f30feabdc095bdc5b9fdd75d984e755093a31ca75f/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/07/2b/2b6fa73452e3faf1264460f30feabdc095bdc5b9fdd75d984e755093a31ca75f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8755,
+    "sha256": "sha256:13c9ee4abbe9180f93e50a7d498aab16dc1e2fe99f326c2d364b3211d9f4c160",
+    "normalized_content_hash": "sha256:b0eaf08905ac468bd19ba559b29cc04e3e5e0cb14e6dc2772d1b1954f792ba6b"
+  },
+  "provenance": {
+    "source_item_id": "b662e47b-57e1-44dc-a440-b5dc16dc61cd",
+    "external_id": "https://www.overshoot.ai/blogs/an-introduction-to-token-pruning-for-vlms"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7120d76e80587eb727d71cc97586e0be1e0cda5a2c4a7aeea25ff5a0d7958b47",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/09/27/rust-vs-go-comparison",
+    "canonical": "https://www.shuttle.dev/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  "title": "Rust Vs Go: A Hands-On Comparison",
+  "summary": "Rust versus Go is a controversial topic that pops up from time. In this post, we will compare both languages in the context of web development by writing a small web service which shows weather data in both languages.",
+  "published_at": "2023-09-27T17:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/09/71/7120d76e80587eb727d71cc97586e0be1e0cda5a2c4a7aeea25ff5a0d7958b47/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/09/71/7120d76e80587eb727d71cc97586e0be1e0cda5a2c4a7aeea25ff5a0d7958b47/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 64494,
+    "sha256": "sha256:2e02b5020a1dfb41d2a62a1ed6297fe3cc8eb2b450f93690c88ee283dbce19e5",
+    "normalized_content_hash": "sha256:4540120918f47ea6f522be2f62e3ff2a9466789c8dc16615bb6f2245b3431a75"
+  },
+  "provenance": {
+    "source_item_id": "aff292ca-25d8-4955-ac3e-661a20a5e9a4",
+    "external_id": "https://www.shuttle.dev/blog/2023/09/27/rust-vs-go-comparison"
+  }
+}

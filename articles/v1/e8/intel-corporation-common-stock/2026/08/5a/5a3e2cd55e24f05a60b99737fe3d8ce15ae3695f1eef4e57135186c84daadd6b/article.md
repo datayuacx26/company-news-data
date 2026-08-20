@@ -1,0 +1,134 @@
+---
+schema_version: "1.0.0"
+document_id: "5a3e2cd55e24f05a60b99737fe3d8ce15ae3695f1eef4e57135186c84daadd6b"
+company_key: "intel-corporation-common-stock"
+company: "Intel Corporation"
+source_id: "intel-corporation-common-stock-rss-97529af372f7"
+canonical_url: "https://newsroom.intel.com/corporate/intel-announces-upsize-and-pricing-of-20-billion-common-stock-offering"
+published_at: "2026-08-11T06:36:58+00:00"
+first_seen_at: "2026-08-11T06:53:46.937544+00:00"
+fetched_at: "2026-08-11T06:53:49.283684+00:00"
+content_hash: "sha256:118d4a13ef2052bec22a434c5516f6c55e6d2e4fa7cbed593b73cee7e00b53ee"
+---
+
+# Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering
+
+## Intel today announced the pricing of its previously announced registered public offering of common stock. The offering is expected to close on August 12, 2026, subject to customary closing conditions.
+
+
+In this article:
+
+
+Intel today announced the pricing of its previously announced registered public offering of common stock.
+
+
+Intel priced the underwritten public offering of 210,526,315 shares of common stock at a public offering price of $95 per share. Intel has granted to the underwriters a 30-day option to purchase up to 31,578,947 additional shares of common stock at the public offering price, less underwriting discounts. The offering was upsized to $20 billion from the previously announced offering size of $15 billion.
+
+
+The offering is expected to close on August 12, 2026, subject to customary closing conditions.
+
+
+The net proceeds from the offering will be approximately $19.7 billion (assuming the underwriters do not exercise their option to purchase additional shares), after deducting underwriting discounts and commissions and estimated offering expenses payable by Intel. Intel intends to use the net proceeds from the offering for general corporate purposes, which may include, but are not limited to, capital expenditures and working capital.
+
+
+J.P. Morgan, Goldman Sachs & Co. LLC, Morgan Stanley and Citigroup are acting as joint book-running managers of the offering. Barclays, BofA Securities, BNP Paribas, Credit Agricole CIB, Deutsche Bank Securities, Mizuho, RBC Capital Markets, TD Securities, Wells Fargo Securities and Cantor are also acting as book-running managers. Academy Securities, COMMERZBANK, PJT Partners, Blaylock Van, C.L. King & Associates and Ramirez & Co., Inc. are acting as co-managers.
+
+
+**Registration Statement and Prospectus**
+
+
+Intel has filed a registration statement on Form S-3 (including a prospectus) with the Securities and Exchange Commission for the offering to which this communication relates. Before you invest, you should read the prospectus in that registration statement and other documents Intel has filed with the SEC for more complete information about Intel and the offering. The offering may be made only by means of a prospectus supplement and accompanying prospectus. Copies of the registration statement, preliminary prospectus supplement and accompanying prospectus related to the offering can be obtained for free by visiting the SEC’s website at https://www.sec.gov. Alternatively, copies may be obtained by contacting J.P. Morgan Securities LLC, c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717 or by email at[\[email protected\]](https://newsroom.intel.com/cdn-cgi/l/email-protection) and[\[email protected\]](https://newsroom.intel.com/cdn-cgi/l/email-protection) ; Goldman Sachs & Co. LLC, Attention: Prospectus Department, 200 West Street, New York, NY 10282, telephone: 1-866-471-2526, facsimile: 212-902-9316 or by emailing[\[email protected\]](https://newsroom.intel.com/cdn-cgi/l/email-protection) ; Morgan Stanley & Co. LLC, Attention: Prospectus Department, 180 Varick Street, 2nd Floor, New York, NY 10014, or by email at[\[email protected\]](https://newsroom.intel.com/cdn-cgi/l/email-protection) ; or Citigroup Global Markets Inc., c/o Broadridge Financial Solutions, 1155 Long Island Avenue, Edgewood, NY 11717 or by telephone at 1-800-831-9146.
+
+
+This press release does not constitute an offer to sell or a solicitation of an offer to buy these securities, nor does it constitute an offer, solicitation or sale of these securities, in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to the registration and qualification under the securities laws of such state or jurisdiction.
+
+
+**About Intel Corporation**
+
+
+Intel (Nasdaq: INTC) designs and manufactures advanced semiconductors that connect and power the modern world. Every day, our engineers create new technologies that enhance and shape the future of computing to enable new possibilities for every customer we serve.
+
+
+© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+
+
+**Forward-Looking Statements**
+
+
+This release contains forward-looking statements that involve a number of risks and uncertainties. Words such as “accelerate”, “achieve”, “aim”, “ambitions”, “anticipate”, “believe”, “committed”, “continue”, “could”, “designed”, “estimate”, “expect”, “forecast”, “future”, “goals”, “grow”, “guidance”, “intend”, “likely”, “may”, “might”, “milestones”, “next-generation”, “objective”, “on track”, “opportunity”, “outlook”, “pending”, “plan”, “position”, “possible”, “potential”, “predict”, “progress”, “ramp”, “roadmap”, “seek”, “should”, “strive”, “targets”, “to be”, “upcoming”, “will”, “would” and variations of such words and similar expressions are intended to identify such forward-looking statements, which may include statements regarding:
+
+
+- the size and timing of the offering, and the anticipated use of the net proceeds therefrom;
+- Intel’s ability to complete the offering on the anticipated timeline or at all; and
+- other characterizations of future events or circumstances.
+
+
+Such statements involve many risks and uncertainties that could cause our actual results to differ materially from those expressed or implied, including those associated with:
+
+
+- the high level of competition and rapid technological change in our industry;
+- the significant, long-term and inherently risky investments we are making in R&D and manufacturing facilities that may not realize a favorable return;
+- the complexities and uncertainties in developing and implementing new semiconductor products and manufacturing process technologies;
+- our pursuit of Intel 14A and other next-generation leading-edge process technologies, our investments in manufacturing expansion projects to manufacture products using such technologies and our efforts to secure product design wins with and demand commitments from potential significant external customers for the manufacture of products using such technologies;
+- alternative financing arrangements and pursuit of government grants;
+- the U.S. government’s acquisition of significant equity interests in us;
+- changes in product demand and margins;
+- macroeconomic conditions and geopolitical tensions and conflicts, including geopolitical and trade tensions between the U.S. and China, tensions and conflict affecting Israel and the Middle East, rising tensions between mainland China and Taiwan and the impacts of Russia’s war on Ukraine;
+- recently elevated geopolitical tensions, volatility and uncertainty with respect to international trade policies, including tariffs and export controls, impacting our business, the markets in which we compete and the world economy;
+- the evolving market for products with AI capabilities;
+- our complex global supply chain supporting our manufacturing facilities and incorporating external foundries, including from disruptions, delays, trade tensions and conflicts, or shortages, including current industry-wide substrate and memory shortages;
+- product defects, errata and other product issues, particularly as we develop next-generation products and implement next-generation manufacturing process technologies;
+- potential security vulnerabilities in our products;
+- increasing and evolving cybersecurity threats and privacy risks;
+- IP risks including related litigation and regulatory proceedings;
+- the need to attract, retain and motivate key talent;
+- strategic transactions and investments;
+- sales-related risks, including customer concentration and the use of distributors and other third parties;
+- our debt obligations and our ability to access sources of capital;
+- complex and evolving laws and regulations across many jurisdictions;
+- catastrophic events;
+- fluctuations in currency exchange rates;
+- changes in our effective tax rate and applicable tax regimes;
+- environmental, health, safety and product regulations; and
+- other risks and uncertainties described in this release, our 2025 Form 10-K, our Q1 2026 Form 10-Q, our Q2 2026 Form 10-Q, and our other filings with the SEC.
+
+
+Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Readers are urged to carefully review and consider the various disclosures made in this release and in other documents we file from time to time with the SEC that disclose risks and uncertainties that may affect our business.
+
+
+Unless specifically indicated otherwise, the forward-looking statements in this release do not reflect the potential impact of any divestitures, mergers, acquisitions or other business combinations that have not been completed as of the date of this release. In addition, the forward-looking statements in this release are based on management’s expectations as of the date of this release, unless an earlier date is specified, including expectations based on third-party information and projections that management believes to be reputable. We do not undertake, and expressly disclaim any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
+
+
+**Contacts:**
+
+
+Investor Relations
+[\[email protected\]](https://newsroom.intel.com/cdn-cgi/l/email-protection)
+
+
+Abby Zhang
+Media Relations
+[\[email protected\]](https://newsroom.intel.com/cdn-cgi/l/email-protection)
+
+
+- [Corporate](https://newsroom.intel.com/corporate)
+- [intc](https://newsroom.intel.com/tag/intc)
+- [stock](https://newsroom.intel.com/tag/stock)
+
+
+---
+
+
+## Related Posts
+
+
+[Corporate](https://newsroom.intel.com/corporate)[Intel Announces Proposed $15 Billion Common Stock Offering Proceeds intended to support general corporate purposes, including capital expenditures and working capital. August 10, 2026](https://newsroom.intel.com/corporate/intel-announces-proposed-15-billion-common-stock-offering)
+
+
+[Corporate](https://newsroom.intel.com/corporate)[Intel Announces Leadership Appointment to Strengthen Customer Engagement and Accelerate Growth August 7, 2026](https://newsroom.intel.com/corporate/intel-announces-leadership-appointment-to-strengthen-customer-engagement-and-accelerate-growth)
+
+
+[Corporate](https://newsroom.intel.com/corporate)[Creating Pathways to Semiconductor Careers: Intel Launches SEPP Intel-funded initiative expands education-to-career pathways across key U.S. semiconductor regions August 6, 2026](https://newsroom.intel.com/corporate/creating-pathways-to-semiconductor-careers-intel-launches-sepp)
+
+
+[Corporate](https://newsroom.intel.com/corporate)[Intel Reports Second-Quarter 2026 Financial Results Intel’s second-quarter 2026 earnings news release and presentation are available on the company’s Investor Relations website. July 23, 2026](https://newsroom.intel.com/corporate/intel-reports-second-quarter-2026-financial-results)

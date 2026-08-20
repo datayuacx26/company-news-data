@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97efc55f9ffbc070d1468d8add0d5d3c3fafe9369934548ace4d32a20a752b81",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/05/10/prompting-aws-bedrock-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/05/10/prompting-aws-bedrock-rust"
+  },
+  "title": "Prompting AWS Bedrock with Rust",
+  "summary": "Prompting AWS Bedrock with Rust, looking at outputting both static and streamed GPT responses",
+  "published_at": "2024-05-10T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/05/97/97efc55f9ffbc070d1468d8add0d5d3c3fafe9369934548ace4d32a20a752b81/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/05/97/97efc55f9ffbc070d1468d8add0d5d3c3fafe9369934548ace4d32a20a752b81/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18079,
+    "sha256": "sha256:80af35794bbb53ac1fc37bfb8bf69b773f7a36e64901cf8a8455698593135417",
+    "normalized_content_hash": "sha256:0d7a7aeb1b15e2b4ad498efa41a350a1681178f13a412aa94fd3ace151983be0"
+  },
+  "provenance": {
+    "source_item_id": "b8de3682-8141-45d4-9e75-62afd47a40f8",
+    "external_id": "https://www.shuttle.dev/blog/2024/05/10/prompting-aws-bedrock-rust"
+  }
+}

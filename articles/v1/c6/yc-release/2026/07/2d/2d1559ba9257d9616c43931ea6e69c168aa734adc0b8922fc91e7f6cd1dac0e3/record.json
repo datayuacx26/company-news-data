@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2d1559ba9257d9616c43931ea6e69c168aa734adc0b8922fc91e7f6cd1dac0e3",
+  "company": {
+    "key": "yc-release",
+    "name": "Release"
+  },
+  "source": {
+    "id": "yc-release-news-import-be48e1d74beb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://release.com/blog/temporal-vs-sidekiq",
+    "canonical": "https://release.com/blog/temporal-vs-sidekiq"
+  },
+  "title": "Migrating Sidekiq Background Jobs to Temporal in Ruby on Rails",
+  "summary": "Ruby on Rails developers often use Sidekiq for background processing, but complex workflows can push its limits. Learn how Temporal, a workflow orchestration engine designed for durable, stateful execution, can be a powerful alternative for complex tasks.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T10:54:59.054180+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T22:59:48.848313+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-release/2026/07/2d/2d1559ba9257d9616c43931ea6e69c168aa734adc0b8922fc91e7f6cd1dac0e3/article.md",
+    "record": "articles/v1/c6/yc-release/2026/07/2d/2d1559ba9257d9616c43931ea6e69c168aa734adc0b8922fc91e7f6cd1dac0e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19128,
+    "sha256": "sha256:16f889ae65fb6d531dd2c99e5b4b15a37481048b06fa573646378f207f16196b",
+    "normalized_content_hash": "sha256:2c1f63d1ef00b56d219c411e4f394abf45af307f9025a9ac460054425b8f0c57"
+  },
+  "provenance": {
+    "source_item_id": "6a66477d-8845-4df8-989e-8adb954b9c2f",
+    "external_id": "https://release.com/blog/temporal-vs-sidekiq"
+  }
+}

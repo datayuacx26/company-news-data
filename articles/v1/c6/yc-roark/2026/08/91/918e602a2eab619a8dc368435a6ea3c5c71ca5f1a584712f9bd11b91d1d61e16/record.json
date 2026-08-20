@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "918e602a2eab619a8dc368435a6ea3c5c71ca5f1a584712f9bd11b91d1d61e16",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/model-swap-regression-testing-voice-agents",
+    "canonical": "https://roark.ai/blog/model-swap-regression-testing-voice-agents"
+  },
+  "title": "Model swaps are the new deploy",
+  "summary": "Model swaps like GPT-Realtime-2.1 change your voice agent's behavior without a code push. A technical playbook for regression-testing them before callers notice.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T19:12:07.564919+00:00",
+  "fetched_at": "2026-08-14T19:12:09.051265+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/91/918e602a2eab619a8dc368435a6ea3c5c71ca5f1a584712f9bd11b91d1d61e16/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/91/918e602a2eab619a8dc368435a6ea3c5c71ca5f1a584712f9bd11b91d1d61e16/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11808,
+    "sha256": "sha256:bbfa287e11fdd68aff769a38c354e0cdcc395ab30c70743754de69fa7031f9e2",
+    "normalized_content_hash": "sha256:d692d293b92922ab3dd6f05425218399491867d2cfcbd3fb936238e39d01d1a9"
+  },
+  "provenance": {
+    "source_item_id": "9108dd19-21c5-4c35-bf86-360b4946dbd0",
+    "external_id": "https://roark.ai/blog/model-swap-regression-testing-voice-agents"
+  }
+}

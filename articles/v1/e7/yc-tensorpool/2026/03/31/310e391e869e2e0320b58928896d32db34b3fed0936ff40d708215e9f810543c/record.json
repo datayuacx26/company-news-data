@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "310e391e869e2e0320b58928896d32db34b3fed0936ff40d708215e9f810543c",
+  "company": {
+    "key": "yc-tensorpool",
+    "name": "TensorPool"
+  },
+  "source": {
+    "id": "yc-tensorpool-news-import-ce508c9f2d8e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorpool.dev/blog/object-storage",
+    "canonical": "https://tensorpool.dev/blog/object-storage"
+  },
+  "title": "Introducing TensorPool Object Storage",
+  "summary": "Globally distributed S3-compatible object storage with intelligent caching that follows your GPUs. Up to 20x lower cross-region latency than Cloudflare R2, with up to 3.5x higher throughput.",
+  "published_at": "2026-03-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:32:36.763199+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-08-19T22:44:13.707282+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-tensorpool/2026/03/31/310e391e869e2e0320b58928896d32db34b3fed0936ff40d708215e9f810543c/article.md",
+    "record": "articles/v1/e7/yc-tensorpool/2026/03/31/310e391e869e2e0320b58928896d32db34b3fed0936ff40d708215e9f810543c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4596,
+    "sha256": "sha256:de84e91d2a9ad408b07147a9af334098afaa21257c75b982833386bee6812ef6",
+    "normalized_content_hash": "sha256:3ff37fcbd9228dc59b2432515b29e3493f0c8964190c1b8968522052b4d9775d"
+  },
+  "provenance": {
+    "source_item_id": "275b7eac-b0b6-400a-a078-def2546c7d3a",
+    "external_id": "https://tensorpool.dev/blog/object-storage"
+  }
+}

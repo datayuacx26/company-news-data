@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6d9d4cbe84edc627cf5c5e9dcb3d8f36911e93262b61bb7daa6594f0ba1a12e",
+  "company": {
+    "key": "yc-confident-ai",
+    "name": "Confident AI"
+  },
+  "source": {
+    "id": "yc-confident-ai-news-import-3974c9e901d3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.confident-ai.com/blog/three-ways-ai-systems-fail-even-when-evals-pass",
+    "canonical": "https://www.confident-ai.com/blog/three-ways-ai-systems-fail-even-when-evals-pass"
+  },
+  "title": "Three Ways AI Systems Fail Even When Evals Pass",
+  "summary": "AI systems can pass evals while still behaving incorrectly. This post explores three common failure modes that slip through output-based evaluation.",
+  "published_at": "2026-04-07T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T14:44:45.986766+00:00",
+  "fetched_at": "2026-07-28T22:16:00.015330+00:00",
+  "last_updated_at": "2026-08-20T02:09:41.186544+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-confident-ai/2026/04/f6/f6d9d4cbe84edc627cf5c5e9dcb3d8f36911e93262b61bb7daa6594f0ba1a12e/article.md",
+    "record": "articles/v1/c6/yc-confident-ai/2026/04/f6/f6d9d4cbe84edc627cf5c5e9dcb3d8f36911e93262b61bb7daa6594f0ba1a12e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18517,
+    "sha256": "sha256:4ff271b97e1347f642a68c27258fda898c5ae2e4fdaa470c090df31dc1c69963",
+    "normalized_content_hash": "sha256:ef3d9e52aa9a5891a45d0fd17f43a3286c53807ee8f5014d49936c14c736010d"
+  },
+  "provenance": {
+    "source_item_id": "cf347b0b-0d2b-4713-8370-bdc16d626d98",
+    "external_id": "https://www.confident-ai.com/blog/three-ways-ai-systems-fail-even-when-evals-pass"
+  }
+}

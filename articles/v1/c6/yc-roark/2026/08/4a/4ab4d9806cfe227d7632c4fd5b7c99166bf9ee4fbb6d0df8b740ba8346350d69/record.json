@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ab4d9806cfe227d7632c4fd5b7c99166bf9ee4fbb6d0df8b740ba8346350d69",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-voice-agents-silent-model-migrations",
+    "canonical": "https://roark.ai/blog/testing-voice-agents-silent-model-migrations"
+  },
+  "title": "Your voice model's \"latest\" tag just rolled",
+  "summary": "On August 5, grok-voice-latest silently rolled to Think Fast 2.0. If you didn't test, you shipped a different agent to production. Here's the playbook.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T18:21:25.466299+00:00",
+  "fetched_at": "2026-08-10T18:21:27.762204+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/4a/4ab4d9806cfe227d7632c4fd5b7c99166bf9ee4fbb6d0df8b740ba8346350d69/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/4a/4ab4d9806cfe227d7632c4fd5b7c99166bf9ee4fbb6d0df8b740ba8346350d69/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14314,
+    "sha256": "sha256:9b8efa27bfaffea1a3e915f6cb46a9ff8fe937aebd169d6d0775886736824999",
+    "normalized_content_hash": "sha256:a5f2decd8e594060dd6db9ce6c5bb632399ca893bc0db70600820c8d8f3a3f27"
+  },
+  "provenance": {
+    "source_item_id": "59183270-2d98-4480-b6fb-9e1250e12fa2",
+    "external_id": "https://roark.ai/blog/testing-voice-agents-silent-model-migrations"
+  }
+}

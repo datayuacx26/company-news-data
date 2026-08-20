@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5010e3502d4d1802e0ff8a44dc09828ef227db9ecd4fab353b331c8eda74f312",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/rl-search-outcomes",
+    "canonical": "https://exa.ai/blog/rl-search-outcomes"
+  },
+  "title": "How Search Quality Shapes RL Outcomes",
+  "summary": "Training search agents on Exa instead of a SERP baseline yields higher pass@k, faster, at lower cost.",
+  "published_at": "2026-05-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:55:55.482044+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2026/05/50/5010e3502d4d1802e0ff8a44dc09828ef227db9ecd4fab353b331c8eda74f312/article.md",
+    "record": "articles/v1/c3/yc-exa/2026/05/50/5010e3502d4d1802e0ff8a44dc09828ef227db9ecd4fab353b331c8eda74f312/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 41387,
+    "sha256": "sha256:80dda4baf83f1bd175f265ae45e16f8ba0af5a44cb43beb8ac63667785198f92",
+    "normalized_content_hash": "sha256:efd7114d567f8f9379fe78058db1427332d48c1f4c5a0a9c466895fe98d7bf5c"
+  },
+  "provenance": {
+    "source_item_id": "b9ed4450-b34e-467a-a9bb-91ca90c4f5a7",
+    "external_id": "https://exa.ai/blog/rl-search-outcomes"
+  }
+}

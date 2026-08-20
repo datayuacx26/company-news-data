@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b770b9ec5009d08cd60a934f44305af9250e4c6f8d035dcb571cc9cd43bfe403",
+  "company": {
+    "key": "yc-sst",
+    "name": "SST"
+  },
+  "source": {
+    "id": "yc-sst-news-import-9375d5a7fa7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sst.dev/blog/aurora-serverless-in-v3",
+    "canonical": "https://sst.dev/blog/aurora-serverless-in-v3/"
+  },
+  "title": "Aurora Serverless in v3",
+  "summary": "We are adding a new component for Amazon Aurora Serverless v2.",
+  "published_at": "2025-01-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:49:09.857782+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T20:37:58.782391+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-sst/2025/01/b7/b770b9ec5009d08cd60a934f44305af9250e4c6f8d035dcb571cc9cd43bfe403/article.md",
+    "record": "articles/v1/d7/yc-sst/2025/01/b7/b770b9ec5009d08cd60a934f44305af9250e4c6f8d035dcb571cc9cd43bfe403/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3665,
+    "sha256": "sha256:0dafa620fbc95bb73247a3f9bc6d6b496916f773d609dcc40ae3935fec975c9c",
+    "normalized_content_hash": "sha256:a0686091d473ea6f6346cb0580a6336d7c75e0479735333ac49159d8218e0d1f"
+  },
+  "provenance": {
+    "source_item_id": "0b3c7200-2baa-4819-8d85-143f64520a83",
+    "external_id": "https://sst.dev/blog/aurora-serverless-in-v3/"
+  }
+}

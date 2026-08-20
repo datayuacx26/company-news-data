@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e37c103294100285ccbfd02d643a2c153dc0636c3ae37dc8fdbabc2e7066e479",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/10/16/graphql-in-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/10/16/graphql-in-rust"
+  },
+  "title": "Using GraphQL in Rust",
+  "summary": "This article details how to build a GraphQL server in Rust. We will explore using queries, mutations as well as subscriptions to make a fully working endpoint.",
+  "published_at": "2023-10-16T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:01:43.013341+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/10/e3/e37c103294100285ccbfd02d643a2c153dc0636c3ae37dc8fdbabc2e7066e479/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/10/e3/e37c103294100285ccbfd02d643a2c153dc0636c3ae37dc8fdbabc2e7066e479/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21361,
+    "sha256": "sha256:0b42a5f801c650c5d80562f7dbdf5b82168b4de011dfd83a4493369fc269e487",
+    "normalized_content_hash": "sha256:9a69a2523f79fed302560eac120a93b3b0a66bf5e46258a49ae4cd8e526ab6ed"
+  },
+  "provenance": {
+    "source_item_id": "fad1c8c0-e42b-473b-83e7-849c2127a840",
+    "external_id": "https://www.shuttle.dev/blog/2023/10/16/graphql-in-rust"
+  }
+}

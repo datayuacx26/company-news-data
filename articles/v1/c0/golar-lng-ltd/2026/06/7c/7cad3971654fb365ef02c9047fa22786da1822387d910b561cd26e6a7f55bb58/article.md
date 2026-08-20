@@ -1,0 +1,41 @@
+---
+schema_version: "1.0.0"
+document_id: "7cad3971654fb365ef02c9047fa22786da1822387d910b561cd26e6a7f55bb58"
+company_key: "golar-lng-ltd"
+company: "Golar Lng Ltd"
+source_id: "golar-lng-ltd-news-import-9e5ad7443d27"
+canonical_url: "https://www.globenewswire.com/news-release/2026/06/29/3318809/0/en/golar-lng-limited-q2-2026-results-presentation.html"
+published_at: "2026-06-29T10:56:53+00:00"
+first_seen_at: "2026-07-26T15:17:33.094074+00:00"
+fetched_at: "2026-07-28T21:52:24.088997+00:00"
+content_hash: "sha256:ae836ca84159e0eead51b5d8a0e9f6deebffdc7d254bb76aebd2d7747ecc7772"
+---
+
+# Golar LNG Limited – Q2 2026 results presentation
+
+Golar LNG's 2nd Quarter 2026 results will be released before the market opens on Thursday, August 13, 2026. In connection with this a webcast presentation will be held at **08:00am Eastern Time** (1:00pm London Time) on Thursday August 13, 2026. The presentation will be available to download from the Investor Relations section at[www.golarlng.com](https://www.globenewswire.com/Tracker?data=ze9I6NuP4isx6Qm1vUkzp5qaN_0kiIrZo4n1HCsAkmYSIDGlGzKerJisEu4Z2n3dLinCIwJ3hcNbO0fCwwX1tfTOxJxVvf_YyfCRcrZrIw5ICe1RWJBgu6zEQau1v0VwQ1AdyBefzp3Rpf5XgDJwZrgH-lNQ_NrAyXzAV5QSFGevz5HbWFqZGkD2peX4ailalIfD-hRITA063DYHg8KjPzhpQraq4-LHlaJOJprg2UG0b6Cumo6HH0RaiwpFekdesS41OyCAvT9ZMd9OIIC9NhPjVrPHz0sj-Ap-uBcGZ4YSI4DAgFxpmZHHxAgkk3dLxjNehViLX_AvGOY6MZ4VUBeL3hd5M6GFxioOjDPOVvfaGFSoIMsiOFO7t9VkLVBW_Qi3rhw-m3ybkbnwAJNNZhUEOK7Nb7Zqdg4tLtaKmflWjTZEIRs89LGBSvJ48iPCOJsO5ayJVf5tKuDpYLnxl_pAUC9o0KJKSjppCuAWAX4X0NitGlz4Yqgm32UW1qL_7sml2KMdQ3hDyka9RTwswCAF_ZuFchut6uOZxes7EiWGeI27zs1w4U5jjF1qw2y5KtbqkJu-K9X8SwFvpsFdmGhn_d8bRm5sqhY3r47BsfY_aGK64tgUbfQ5O6k8JIPXSHPMs0VpHk6-xOWXVcPC3X_C8STTdhP6e5N_6uKi_Jumv8YrPYwFqu8vvNsiq5y8FRcvHZCt8HQ7L6dYWa9N39DK2cSO_-cT4SEWMe2K3hlGO1KNBWIIXj9K7Ytj_iDA0maSz6qLrcrJo_74gL3mSNiodOJbtBk2MnAN83We0nypPwXes9-olqjaMP4xWZn-JrkFOm266KwmkvZ-c1wXvlEIhf-chaNl5qzdCmQEsG3CBhb7xep6Al76LMzpVkg0jYr4vM3hEa6QPjkIv_Chng==)
+
+
+We recommend that participants join the conference call via the listen-only live webcast link provided. Sell-side analysts interested in raising a question during the Q&A session that will immediately follow the presentation should access the event via the conference call by clicking on this[link](https://www.globenewswire.com/Tracker?data=Ovj_YizQTiuJnX9WaVdhpyz7t-_qjiBUXqKEsKRri-x05moBJKPIh7uXlPseSDILj4iqWmSI6FgRI-6OfFQHjbWkXRulZ7Dv3LSQTg1eUpZH51sSafHJnQqy0_Cnenhskjr8YF6RWSxM7rjt78iHmRPS-MXigCVk1hypc-cAm3Q=) . We recommend connecting 10 minutes prior to the call start. Information on how to ask questions will be given at the beginning of the Q&A session. There will be a limit of two questions per participant.
+
+
+**a. Listen-only live webcast** **link**
+Go to the Investors, Results Centre section at[www.golarlng.com](https://www.globenewswire.com/Tracker?data=ze9I6NuP4isx6Qm1vUkzp6uN6dwkfZitX_dP4YNKE-mYNyZx7d2mgmIzOERT5CzRIX1PnwmkAbMUchmiVWJ6jsb0scOBzgBJLoG9-xf-DtAZBlGV3xv_SBN4K_g7rFx1wl3ehYqMIlwhwTujglD8cNxA37P12uDWEW3O46Azg6zI-YY9aiWkhDdGK-WOmycQ8d6mfHMpYBW2Sr1WXzW4uzjvSn_sQCrpmhllQIFah5vRbHph224XnuF7NPIk8XjCSs399bgneT0n4dr_UYCXr2i3h-pQZiyUPvAA42lCQKdCECg5LIq27eyhERmy2di37gp-_81YsFwU4TjGXbpbQd9625XNjv82SfyFnqR3I4yT7hoDkcz2bZd5iCbOD6PtNswxlTOJDyzdylCZ-jE1uUACzQQHGx62g7wiPY5mjY2RumLpmQ122WPo7NxCRlzYDzL5SETCAw4gun36BGOJG5jJJJsXnxYixAtZl9vwKzSddT_cZa0mxNvyVTyLWCPeNJSxfPh5tWNoPAC6bCeTOQDpx6_Q1X0xuM_WP8fUaYhpV59dZZqOxmAtf0CVDwZ51g1ihQ7XFEzmnYV-c-YF1DUImi7Xb4r3vnbzR8bPw3sxo-AhdE3tDH3jBFz8C-9qzEh6e8Nu4YpJrGcC4OzX2t5iIPFIxFaojJ0IcBVcY49onkDYVb5YmJRx7gPLYlLKWKmnAtYi7Qsz755MUcLClkcq3ETD-scy29Iq8tAY6GFU59k6nvdowzvQU_9erO9Ty11vltzXjN9aOpqBqJe9KWvrfqWvcbFOzgrS16bUNPEdw7BjCIZAznXUezTzz7luYE1RJtsfuk2ieE3SQ6KQXKRBZhuCMAth_wTP0RhS261sh6s3dOrsYWK4k2gnx_MSow2Ba3-WTzi_KYCYxpf5oA==) and click on the link to "Webcast". To listen to the conference call from the web, you need to have a sound card on your computer, but no special plug ins are required to access the webcast. There is a “Help” link available on the webcast pages for anyone who may have issues accessing.
+
+
+**b. Teleconference**
+
+
+Conference call participants should register to obtain their dial in and passcode details. This process eliminates wait times when joining the call.
+
+
+When you log in, you can either dial in using the provided numbers and your unique PIN, or select the “Call me” option and type in your phone number to be instantly connected to the call. Use the following[link](https://www.globenewswire.com/Tracker?data=Ovj_YizQTiuJnX9WaVdhp3e0uI6h3gmTcocEsjmSkrvAW31bZuoGdBekUvLSlLBjflliYgmreLU5Oc2-aZyLWFkCL0JiJQkCEzv3eC4patvRTwpO75zD1wjnd5X13MuJq8Hx37YdNMEF1EVORCSkdD1C8iSqwXIkymMwnFf9TmM=) to register.
+
+
+Please download the presentation material from[www.golarlng.com](https://www.globenewswire.com/Tracker?data=ze9I6NuP4isx6Qm1vUkzpwbFGioWk1kQiFOnhCnJZPjAl-nNQydSFIACueyfw25p8LEhXyhgHr_s3pslOcgGhmYxAgMsh-PYUqveQZwCEktCFseGWu4a20SXITF8IFM8zDe5VVZxuzf-GVcrnoyOuc1pDPcFMM3kjJY03Qt4ypfzm76Ed0m1vGd9HAjXAv8kshVCpXHi_Fw_6XJNAc9XtzR2_6i2ccAyWdfM0MCnJnBz1pPrc8y8fw_607gkVsfF-l31JKmXIMsivlJFpaXW7mac4H0Tt9ft0xW-HBLin2-U-dITTcSdD-NJucPc0c2CJk34K91YzTjj-bCeHfQmsf1Yileyh1AOXcFSgrkBhONsKqgNV3x_i6tSeX125CdmmjSM-WFx29qThVXnq17NxMmaZZy4HYKRSRcHtcMCmM4RYxmJaBvtJ6qIFNwBFJ16K82SwFecH3xePC8Lxe0RapdYLJlSBToENF6bEWRiTbie-y6BuNSxyIv3XpSVgTbrS0FOhw-08Bp8UbFSqcjcwaBBA_X1dIod7AsnHWKdMekEY-UzEJSlDGg6j54xrtnNqcbsizi6sqnmQwPDWlWPqo8Zh8yU5_5JkSqRi_2NshqnBFN3DWr_iUcMQla2EKoTgXQ5CS1mbZAqXQa3s9NkhtumQaY-UhbCynzAz7EA0l_4ZoQaNKfRJgu27pah_cKkMxi21hNLoFcLCM61NveoJxEtGf4wGyAZ7inhCQtTmImmAtSB5DiATU6xlGTvds0Dj_qu08-pJ0vUBlneq0s1jyKI4X32LPZnZmy-qIdj8qAQsHvTJ3HPlgBvu50fcce_MCIawNIk-D7JXlMgtfmOPGXu7URmsnmtq2IitZD2o_Lo9W0kcut1AjAvZDvRknufICyfjO3oyGWdqVXwBkgtKw==) (Investors, Results Centre) to view it while listening to the conference.
+
+
+If you are not able to listen at the time of the call, you can assess a replay of the event audio for a limited time on[www.golarlng.com](https://www.globenewswire.com/Tracker?data=ze9I6NuP4isx6Qm1vUkzpxKjlPy36py-PiHfucKXAhU5wh0pLCDtXQNledxxmC_ikh_8TjFrbVsfPIz4BycQJH0Hv0V6xRam3tkozM7wTWtBjCmqsRFFbxU6jv-yayxI6baXjny3PwVbg512yFUzXTmripLi2c2znaG8oP6wTVAcMDkPRKhPbjF1-5hGxaK-3ue8AtlCt2MpGlivfDP-UndD_BPxphJXjF3TeDazRGR0WXnQbIR3wmkVeq14bkTu3jW4P137QrYJbKIxqrTG-TC-eFAxixp3rtnS1lMXhiCCFEqRkXk83RFzjDCHndpZOOBiGRKwf4MzosfzuHywNLa1BTcssTQf7Mm0Cx9SRVJtj2nlmBUcln-IUSbFsWUXgcq2AMn1JdBXqafF2VQ_MxU_2cG93yKYABYux3Q8RedVGBrpZUkUM_PSVM7j7F8h_z-Q9xloiSrFBx4TbYpT5zVjrGsyhpv1EqbJRWVJ7aaCjmZy67fXbjLq1cfuwRSmw2jI-lhnphWIr32K6-08-JkFazl_a1ZKmLRd0KeMgRT4CqYZB5WlHm42dV4S22-IOYa056XMFPONLlEinCyoikiszoBkMDX776DavfHoz_KaFZVUADUXVDz-p18AwVgA3BtffZzqKtHI4pz8Cq_v8uXg22-kTtU7L1saesPKvb6KJS9gvd3rmB1762Fq9bvA5yER2o5tg9u8fJfYq-SEFEiCgjRv4KFGDQGK6VGk3gT6VKWpy2ptpn72h2F9BRoiNmK5XSbRxUsmrJjvzxiR07YuutrV_M_1qcHYJFc3MkZuMXc4DSs9jA5pdqkGMfWKX1rrPdoShhCG8XgICQTM56NHszzOWDXczZ_wWdUShWMUnLDvJSD8P_WpflsZp_aG0BJQ8I8cEOM-6kYQxEl2zw==) (Investors, Results Centre).
+
+
+This information is subject to the disclosure requirements pursuant to Section 5-12 the Norwegian Securities Trading Act

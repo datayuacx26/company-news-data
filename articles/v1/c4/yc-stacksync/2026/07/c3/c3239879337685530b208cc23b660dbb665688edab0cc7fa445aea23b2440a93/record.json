@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3239879337685530b208cc23b660dbb665688edab0cc7fa445aea23b2440a93",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-twilio-with-salesforce",
+    "canonical": "https://www.stacksync.com/blog/sync-twilio-with-salesforce"
+  },
+  "title": "Phone Numbers Are Not Record IDs: Wiring Twilio Into Salesforce",
+  "summary": "How to sync Twilio with Salesforce both ways: normalise to E.164, upsert on an External ID, take inbound over webhooks and outbound over Change Data Capture.",
+  "published_at": "2026-07-23T14:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/c3/c3239879337685530b208cc23b660dbb665688edab0cc7fa445aea23b2440a93/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/c3/c3239879337685530b208cc23b660dbb665688edab0cc7fa445aea23b2440a93/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17266,
+    "sha256": "sha256:7f5b825e3bd6c794b6c671b1a8839a804454d4436047e583d1bfa80a492100c4",
+    "normalized_content_hash": "sha256:4b30cde4a5b79adb9ff730e8d24d23b2e3325ff80b49de7a98689cdf5d2d5de6"
+  },
+  "provenance": {
+    "source_item_id": "d5749091-3de8-4379-91e6-c21fc3266e87",
+    "external_id": "https://www.stacksync.com/blog/sync-twilio-with-salesforce"
+  }
+}

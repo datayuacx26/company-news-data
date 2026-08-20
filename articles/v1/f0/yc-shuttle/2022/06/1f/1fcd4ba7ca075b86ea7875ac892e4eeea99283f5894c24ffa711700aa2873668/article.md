@@ -1,0 +1,239 @@
+---
+schema_version: "1.0.0"
+document_id: "1fcd4ba7ca075b86ea7875ac892e4eeea99283f5894c24ffa711700aa2873668"
+company_key: "yc-shuttle"
+company: "Shuttle"
+source_id: "yc-shuttle-rss-52efc69d7cac"
+canonical_url: "https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust"
+published_at: "2022-06-16T15:00:00+00:00"
+first_seen_at: "2026-07-20T23:24:10.103156+00:00"
+fetched_at: "2026-07-28T21:03:24.473366+00:00"
+content_hash: "sha256:7bd93f0d5bedb988ef4ab2d283b535ed6c227a78a00fcf47269e6ae1323bcc53"
+---
+
+# Getting started with Async Rust
+
+In this article, we'll take a closer look at async programming in Rust. Until now, my experience with Rust async was mainly copying code from Stack Overflow. This article aims to help you understand what async code is and how to use it effectively.
+
+
+## What is asynchronous code? #
+
+
+To understand what asynchronous code is - let's first talk about synchronous code.
+
+
+In synchronous code, statements run in a sequential order:
+
+
+```text
+println!  (  "Hello World"  )  ;
+let   cargo_toml_content  =    std ::  fs ::   read_to_string  (  "Cargo.toml"  )  .  unwrap  (  )  ;
+println!  (  "'Cargo.toml':\n{}"  ,   cargo_toml_content )  ;
+
+
+```
+
+
+The above statements are executed in a well-defined order, one after the other, from top to bottom."` Hello World` is printed, followed by the contents of` Cargo.toml` being read and then printed.
+
+
+This paradigm is perfectly fine under normal operation - but sometimes our code requires the current context to stop while it *waits* for something else - this is generally known as **blocking** . In other words, when a piece of code is blocked, it's essentially on hold, waiting for a particular operation to complete before it can proceed. This can occur when, for example, we're waiting for the file system, network communication, a database transaction, or even a specified amount of time to pass. During this blocked state, the program remains idle and cannot perform other tasks concurrently. In the earlier example, the loop can't move on to the next iteration until the request in the previous iteration has finished. This can lead to inefficiencies, especially when dealing with a significant number of such requests.
+
+
+In the example below, every loop iteration a request is made to the infamous` example.com` .
+
+
+```text
+for   index  in    1  ..=  100    {
+let   result  =   sync_http_client .  get  (  format!  (  "www.example.com/items/{}"  ,   index )  )  ;
+}
+
+
+```
+
+
+The problem here is that` sync_http_client.get` is blocking. Blocking can occur for lots of reasons:
+
+
+- waiting for the file system
+- waiting for the network
+- waiting for some database transaction
+- waiting for some time to occur
+- etc.
+
+
+When a program is blocked it is doing nothing but waiting for a response to return to continue execution. If we need to work on anything else - we're kinda stuck. In this example the loop cannot run the next iteration / index until the request in the previous one has fully finished. While making and reading a single request is relatively fast, the code in the loop runs 100 times and makes 100 requests so the whole loop takes a while to run.
+
+
+**What if there was a way to start additional requests without having to wait for the previous to have finished its request?**
+
+
+This is where asynchronous programming comes in. Asynchronous programming is about *not* blocking. Let's say you've ordered a mountain bike for a ride on the weekend. You don't need to spend all your time on the doorstep waiting for the delivery - you can continue living your life doing whatever. An async runtime allows you to continue whatever you are doing and serves as a notification, *awaking* you to the door when the delivery arrives.
+
+
+We will get more in to how to write async later but the essence is that we can change the loop to the following to start up 100 requests without having requiring the previous request to have finished:
+
+
+```text
+let    mut   handles  =    Vec  ::  new  (  )  ;
+for   index  in    1  ..=  100    {
+let   handle  =    tokio ::   spawn  (
+async_http_client .  get  (  format!  (  "www.example.com/items/{}"  ,   index )  )
+)  ;
+handles .  push  (  handle )  ;
+}
+for   handle  in   handles  {
+let   result  =   handle .  await  ;
+}
+
+
+```
+
+
+### Parallelization and concurrency #
+
+
+Before we go further we should note that async is *not* for processing expensive operations. It's only beneficial for IO in which data comes from somewhere further away than the RAM and when there is a lot of it. Parallelization is beneficial for computationally expensive operations.
+
+
+**Parallelization is running multiple things at the same time. Concurrency is handling multiple things at the same time.**
+
+
+Async is designed for concurrency. Tokio's default runtime utilises threads so we also benefit from parallelization.
+
+
+### Benchmarking #
+
+
+Comparing an example written using async vs the same example written synchronously - for a large numbers of concurrent web requests, the async version is ~60% faster that synchronous requests and ~20% faster than spinning up a thread for each request[1](https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust#user-content-fn-benchmarks) .
+
+
+Command Mean \[s\] Min \[s\] Max \[s\] Relative
+
+
+` ./sync` 1.070 ± 0.013 1.060 1.085 1.65 ± 0.09
+
+
+` ./threads` 0.787 ± 0.007 0.782 0.795 1.22 ± 0.06
+
+
+` ./async` 0.732 ± 0.016 0.721 0.750 1.13 ± 0.06
+
+
+` ./async_threads` 0.646 ± 0.033 0.612 0.677 1.00
+
+
+## Getting started with async Rust #
+
+
+Rust does not have a runtime[2](https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust#user-content-fn-rust-runtime) and so doesn't have a standard executor (at least for now). There are several popular executor runtimes. These are crates like any other library so you can use them by adding them to the` Cargo.toml` . For this demo we will pick Tokio Rust (Tokio-rs) -[https://tokio.rs/](https://tokio.rs/) as it the most popular executor. Other runtimes exist and prioritize different things. For example[async-std](https://docs.rs/async-std/latest/async_std/index.html) is focused on an async version of Rust's standard library and[smol](https://docs.rs/smol/1.2.5/smol/) which is focused on being lightweight. Overall Rust is designed to stay out the way, so it lets you pick which executor you run.
+
+
+To start we will run` cargo new` . Then add` tokio = { version = "1.19", features = \["full"\] }` to` Cargo.toml` (or if you have[cargo-edit](https://github.com/killercup/cargo-edit) installed:` cargo add tokio -F full` )
+
+
+```text
+#[tokio::main]
+async    fn    main  (  )    {
+println!  (  "Hello from an async function"  )  ;
+}
+
+
+```
+
+
+### Async functions #
+
+
+In Rust, functions that incorporate asynchronous operations are identified by the` async` keyword. To declare such a function, simply prefix it with` async` as shown below:
+
+
+```text
+async    fn    do_thing  (  )    {
+let   result  =    some_async_function  (  )  .  await  ;
+println!  (  "{}"  ,   result )  ;
+}
+
+
+```
+
+
+Within an async function, you have the ability to employ` .await` . This is appended to the end of an asynchronous function call, and it plays a vital role in non-blocking execution. When you use` .await` , it temporarily halts execution and retrieves the actual result value.
+
+
+Now, let's go a bit deeper. Async functions, as well as async blocks, return Futures. A[Future](https://doc.rust-lang.org/std/future/trait.Future.html) is a function which returns a[Poll](https://doc.rust-lang.org/std/task/enum.Poll.html) . Poll is a bit like a` Result` or` Option` , it has two variants one is a final value and the other variant is that the value is still pending. Futures are lazy, there are two ways to run a future:` tokio::spawn` to spawn eagerly and get a[JoinHandle](https://docs.rs/tokio/latest/tokio/task/struct.JoinHandle.html) or` .await` . Rust warns against *unawaited* futures.
+
+
+### Writing async operations #
+
+
+Let's check out the code snippet below:
+
+
+```text
+let   contents  =    tokio ::  fs ::   read  (  "Cargo.toml"  )  .  await  ;
+
+
+```
+
+
+Within this code snippet, you may be curious about` tokio::fs::read` and its resemblance to the` std::fs::read` function in Rust's standard library. This is where Tokio proves its utility. Tokio provides asynchronous counterparts to the synchronous input and output (IO) operations found in Rust's standard library. Specifically,` tokio::fs::read` represents an asynchronous file reading operation. What makes it special is its asynchronous nature; it enables your program to read file contents without blocking other tasks. While it waits for the file read to complete, your program can continue executing other tasks concurrently. This non-blocking behavior is a fundamental aspect of asynchronous programming in Rust, safeguarding your program against unresponsiveness during IO operations.
+
+
+### Writing concurrency #
+
+
+As discussed earlier, the issue with blocking calls is that they allow only one task to run at a time.
+
+
+```text
+let   weather  =   client .  get  (  "https://api.darksky.net/forecast"  )  .  await  ;
+let   news  =   client .  get  (  "https://api.nytimes.com/svc/topstories"  )  .  await  ;
+
+
+```
+
+
+With` tokio::join!` , we can initiate both requests and await their results concurrently.
+
+
+```text
+let   weather  =   client .  get  (  "https://api.darksky.net/forecast"  )  ;
+let   news  =   client .  get  (  "https://api.nytimes.com/svc/topstories"  )  ;
+let    (  weather ,   news )    =    tokio ::   join!  (  weather ,   news )  .  await  ;
+
+
+```
+
+
+What` tokio::join` ! does there is initiate multiple asynchronous tasks simultaneously and then await their results concurrently. In essence, it starts both the weather and news requests at the same time and then waits for both responses without waiting for one to finish before starting the other. This concurrent approach is significantly different from sequential execution, where you would request weather first, then wait for it to complete, and only after that request news. By leveraging` tokio::join!` , you're able to efficiently utilize your program's time, improving performance when dealing with multiple asynchronous operations.
+
+
+---
+
+
+To keep this post short and to the basics we will stop here. If you want to read more about writing async the there is the[official Rust async book](https://rust-lang.github.io/async-book/) and[Tokio has a brilliant tutorial](https://tokio.rs/tokio/tutorial) .
+
+
+## Conclusion #
+
+
+Async Rust is a practical and evolving aspect of the Rust language. While the async features continue to develop, there is room for improvement in the future. You can check the current status of async features and other aspects of the async ecosystem at[areweasyncyet.rs](https://areweasyncyet.rs/) . This post provides an introductory guide to writing async Rust code, so you can definitely *await* a future post that digs deeper into async in Rust with topics such as; Rust streams, error handling in async code, advanced concurrency patterns, and practical examples of async Rust in real-world applications.
+
+
+---
+
+
+## Footnotes #
+
+
+1.
+
+
+We had a bit of difficult showing beneficial results for async and still unsure whether these results are a good reflection of the benefits of async. If you're interested, feel free to have a look at[the full benchmarking code.](https://github.com/kaleidawave/sync-vs-threads-vs-async-rust-bench)[↩](https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust#user-content-fnref-benchmarks)
+
+
+2.
+
+
+Technically there are panic handlers and things which is runtime[https://doc.rust-lang.org/reference/runtime.html](https://doc.rust-lang.org/reference/runtime.html)[↩](https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust#user-content-fnref-rust-runtime)

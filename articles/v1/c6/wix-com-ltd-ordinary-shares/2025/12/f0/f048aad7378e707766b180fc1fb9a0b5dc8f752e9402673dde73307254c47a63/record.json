@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f048aad7378e707766b180fc1fb9a0b5dc8f752e9402673dde73307254c47a63",
+  "company": {
+    "key": "wix-com-ltd-ordinary-shares",
+    "name": "Wix.com Ltd."
+  },
+  "source": {
+    "id": "wix-com-ltd-ordinary-shares-rss-e1d3c855eeb0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wix.engineering/post/the-art-behind-better-ai-how-we-achieved-a-46-speed-boost-and-23-cost-reduction",
+    "canonical": "https://www.wix.engineering/post/the-art-behind-better-ai-how-we-achieved-a-46-speed-boost-and-23-cost-reduction"
+  },
+  "title": "The Art Behind Better AI: How We Achieved a 46% Speed Boost and 23× Cost Reduction",
+  "summary": "Intro: The Limits of Prompt EngineeringIn modern AI agent development, many teams, including ours at Wix, start with an intense focus on prompt engineering, carefully crafting instructions for the LLM. We iterated endlessly on system messages and instruction sets to solve a core problem: our AI scheduling assistant was struggling with vague requests, such as \"Schedule a meeting with Jake.\"This simple sentence triggers a surprisingly complex challenge. The system must identify which person best m",
+  "published_at": "2025-12-09T08:38:23+00:00",
+  "first_seen_at": "2026-07-20T23:18:01.039713+00:00",
+  "fetched_at": "2026-07-28T22:25:04.749708+00:00",
+  "last_updated_at": "2026-08-20T00:29:14.534767+00:00",
+  "paths": {
+    "article": "articles/v1/c6/wix-com-ltd-ordinary-shares/2025/12/f0/f048aad7378e707766b180fc1fb9a0b5dc8f752e9402673dde73307254c47a63/article.md",
+    "record": "articles/v1/c6/wix-com-ltd-ordinary-shares/2025/12/f0/f048aad7378e707766b180fc1fb9a0b5dc8f752e9402673dde73307254c47a63/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9531,
+    "sha256": "sha256:75c3962c24a7432a276eb7c15bb5d8e7d00f530fe6a1c8ff6be92e85c81f979f",
+    "normalized_content_hash": "sha256:568d011058ed1f4daa0c29591bc2992c271e1f4cbbd1c7ce9949a5e42d0b3fc4"
+  },
+  "provenance": {
+    "source_item_id": "61b5f596-792d-4318-b198-f6714a0e9099",
+    "external_id": "69b7fc641733b7e9e9e9dfbb"
+  }
+}

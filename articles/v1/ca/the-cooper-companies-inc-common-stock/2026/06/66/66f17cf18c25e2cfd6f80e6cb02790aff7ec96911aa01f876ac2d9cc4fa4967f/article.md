@@ -1,0 +1,550 @@
+---
+schema_version: "1.0.0"
+document_id: "66f17cf18c25e2cfd6f80e6cb02790aff7ec96911aa01f876ac2d9cc4fa4967f"
+company_key: "the-cooper-companies-inc-common-stock"
+company: "The Cooper Companies Inc."
+source_id: "the-cooper-companies-inc-common-stock-rss-e6d0ae626e92"
+canonical_url: "https://investor.coopercos.com/news-releases/news-release-details/coopercompanies-announces-second-quarter-2026-results"
+published_at: "2026-06-04T20:15:30+00:00"
+first_seen_at: "2026-07-27T06:27:16.027418+00:00"
+fetched_at: "2026-07-28T21:11:40.706155+00:00"
+content_hash: "sha256:21e1c05f41b6e8aa31ee6d89b89e79c305e4959aa5349e41be8e72635d8371fb"
+---
+
+# CooperCompanies Announces Second Quarter 2026 Results
+
+## CooperCompanies Announces Second Quarter 2026 Results
+
+
+Jun 4, 2026
+
+
+[PDF Version](https://investor.coopercos.com/node/28761/pdf)
+
+
+**SAN RAMON, Calif., June 04, 2026 (GLOBE NEWSWIRE) --** CooperCompanies (Nasdaq: COO), a leading global medical device company, today announced financial results for its fiscal second quarter ended April 30, 2026.
+
+
+- Second quarter 2026 revenue of $1.082 billion, up 8%, or up 5% organically, from last year's second quarter.
+- Second quarter 2026 GAAP diluted earnings per share (EPS) of $(0.40), down $0.84 from last year's second quarter driven by a litigation-related charge to resolve outstanding claims associated with a December 2023 voluntary product recall at CooperSurgical.
+- Second quarter 2026 Non-GAAP diluted EPS of $1.21, up $0.25 or 26% from last year's second quarter. See "Reconciliation of Selected GAAP Results to Non-GAAP Results" below.
+
+
+"We delivered a strong second quarter, achieving record revenue and non-GAAP earnings per share while marking our tenth consecutive quarter of exceeding consensus earnings expectations," said Al White, CooperCompanies' President and CEO. "Our performance reflects solid execution across our businesses, supported by new product launches, favorable demand drivers, and ongoing focus on operational discipline. In addition, we have reached agreements to resolve substantially all of the claims related to CooperSurgical's fertility media recall, representing an important step in addressing this issue and allowing us to move forward with our strategic review. Moving forward, we are focused on driving sustainable, profitable growth and strong cash flow, while maintaining discipline in a dynamic operating environment."
+
+
+**Second** **Quarter Operating Results**
+
+
+- Revenue of $1.082 billion, up 8% from last year’s second quarter, up 5% in constant currency, up 5% organically.
+- Gross margin of 68% similar to last year's second quarter. On a non-GAAP basis, gross margin was also similar to last year at 68%, with positive FX offsetting higher costs including tariffs.
+- Operating margin of negative 3% compared with 18% in last year’s second quarter, primarily reflecting higher SG&A expenses, due to a $271.6 million litigation-related charge. On a non-GAAP basis, operating margin was up 260 basis points from last year to 27%, reflecting disciplined execution and meaningful synergies from last year's reorganization.
+- Interest expense of $20.9 million compared with $24.2 million in last year's second quarter driven by lower interest rates and lower average debt. On a non-GAAP basis, interest expense was $20.9 million, down from $23.5 million.
+- Cash provided by operations of $182.8 million, offset by capital expenditures of $86.4 million resulted in free cash flow of $96.4 million.
+
+
+**Second** **Quarter CooperVision (CVI) Revenue**
+
+
+- Revenue of $723.5 million, up 8% from last year’s second quarter, up 4% in constant currency, up 4% organically.
+- Revenue by category:
+
+
+% change y/y
+
+
+(In millions) Reported
+Currency Impact
+Constant Currency
+Acquisitions and Divestitures
+Organic
+
+
+2Q26
+
+
+Toric and multifocal $ 364.9 11 % (4 )% 7 % — % 7 %
+
+
+Sphere, other 358.6 5 % (4 )% 1 % — % 1 %
+
+
+Total $ 723.5 8 % (4 )% 4 % — % 4 %
+
+
+- Revenue by geography:
+
+
+% change y/y
+
+
+(In millions) Reported
+Currency Impact
+Constant Currency
+Acquisitions and Divestitures
+Organic
+
+
+2Q26
+
+
+Americas $ 303.2 7 % — % 7 % — % 7 %
+
+
+EMEA 289.7 17 % (11 )% 6 % — % 6 %
+
+
+Asia Pacific 130.6 (6 )% — % (6 )% — % (6 )%
+
+
+Total $ 723.5 8 % (4 )% 4 % — % 4 %
+
+
+**Second** **Quarter CooperSurgical (CSI) Revenue**
+
+
+- Revenue of $358.0 million, up 8% from last year's second quarter, up 6% in constant currency, up 6% organically.
+
+
+- Revenue by category:
+
+
+% change y/y
+
+
+(In millions) Reported
+Currency Impact
+Constant Currency
+Acquisitions and Divestitures
+Organic
+
+
+2Q26
+
+
+Office and surgical $ 214.2 4 % — % 4 % — % 4 %
+
+
+Fertility 143.8 13 % (3 )% 10 % — % 10 %
+
+
+Total $ 358.0 8 % (2 )% 6 % — % 6 %
+
+
+**Other**
+
+
+- During the second quarter, the Company repurchased $13.1 million of common stock, approximately 174 thousand shares, at an average share price of $75.84. The program has $860.8 million of remaining availability.
+- Recorded a $271.6 million net pre-tax charge within SG&A related to certain product-related litigation matters associated with a December 2023 voluntary recall of embryo culture media at CooperSurgical, consisting of $324.1 million of accrued litigation liabilities, partially offset by $52.5 million of expected insurance recoveries.
+
+
+**Fiscal Year 2026 Financial Guidance**
+
+
+The Company updated its fiscal year 2026 financial guidance. Details are summarized as follows:
+
+
+- Fiscal 2026 total revenue of $4.285 - $4.321 billion (organic growth of 3.5% to 4.5%)
+
+
+- CVI revenue of $2.883 - $2.908 billion (organic growth of 3.5% to 4.5%)
+- CSI revenue of $1.402 - $1.414 billion (organic growth of 4% to 5%)
+
+
+- Fiscal 2026 non-GAAP diluted EPS of $4.58 - $4.66
+- Reaffirm previously communicated long-term free cash flow objective exceeding $2.2 billion for fiscal years 2026 through 2028
+
+
+Non-GAAP diluted earnings per share guidance excludes amortization and impairment of intangible assets, and certain income or gains and charges or expenses including acquisition and integration costs which we may incur as part of our continuing operations.
+
+
+With respect to the Company’s guidance expectations, the Company has not reconciled non-GAAP diluted earnings per share guidance to GAAP diluted earnings per share due to the inherent difficulty in forecasting acquisition-related, integration and restructuring charges and expenses, which are reconciling items between the non-GAAP and GAAP measures. Due to the unknown effect, timing and potential significance of such charges and expenses that impact GAAP diluted earnings per share, the Company is not able to provide such guidance.
+
+
+**Reconciliation of Selected GAAP Results to Non-GAAP Results**
+
+
+To supplement our financial results and guidance presented on a GAAP basis, we provide non-GAAP measures such as non-GAAP gross margin, non-GAAP operating margin, non-GAAP diluted earnings per share, as well as constant currency and organic revenue growth because we believe they are helpful for the investors to understand our consolidated operating results. Management uses supplemental non-GAAP financial measures internally to understand, manage and evaluate our business, to make operating decisions, and to plan and forecast for future periods. The non-GAAP measures exclude costs which we generally would not have otherwise incurred in the periods presented as a part of our continuing operations. We provide further details of the non-GAAP adjustments made to arrive at our non-GAAP measures in the GAAP to non-GAAP reconciliations below. Our non-GAAP financial results and guidance are not meant to be considered in isolation or as a substitute for comparable GAAP measures and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP.
+
+
+To present constant currency revenue growth, current period revenue for entities reporting in currencies other than the United States dollar are converted into United States dollars at the average foreign exchange rates for the corresponding period in the prior year. To present organic revenue growth, we excluded the effect of foreign currency fluctuations and the impact of any acquisitions, divestitures and discontinuations that occurred in the comparable period.
+
+
+We define the non-GAAP measure of free cash flow as cash provided by operating activities less capital expenditures. We believe free cash flow is useful for investors as an additional measure of liquidity because it represents cash that is available to grow the business, make strategic acquisitions, repay debt, or buyback common stock. Management uses free cash flow internally to understand, manage, make operating decisions and evaluate our business. In addition, we use free cash flow to help plan and forecast future periods.
+
+
+Investors should consider non-GAAP financial measures in addition to, and not as replacements for, or superior to, measures of financial performance prepared in accordance with GAAP.
+
+
+THE COOPER COMPANIES, INC. AND SUBSIDIARIES
+
+
+GAAP to Non-GAAP Reconciliation
+Gross Margin, Operating Margin, and EPS
+
+
+**Three Months Ended April 30,** **Six Months Ended April 30,**
+
+
+**(In millions)** **2026** **Margin %** **2025** **Margin %** **2026** **Margin %** **2025** **Margin %**
+
+
+**GAAP Gross Profit** $ 735.4 68 % $ 679.1 68 % $ 1,430.6 68 % $ 1,339.3 68 %
+
+
+Acquisition and integration-related charges(1) — — % 2.2 — % — — % 3.8 — %
+
+
+Exit of business(2) — — % — — % 1.8 — % — — %
+
+
+Medical device regulations(3) 0.7 — % 0.7 — % 1.4 — % 1.3 — %
+
+
+Total 0.7 — % 2.9 — % 3.2 — % 5.1 — %
+
+
+**Non-GAAP Gross Profit** $ 736.1 68 % $ 682.0 68 % $ 1,433.8 68 % $ 1,344.4 68 %
+
+
+**Three Months Ended April 30,** **Six Months Ended April 30,**
+
+
+**GAAP Operating Income (Loss)** $ (31.0 ) (3 )% $ 184.8 18 % $ 181.8 9 % $ 366.8 19 %
+
+
+Amortization of acquired intangibles 47.7 4 % 49.8 5 % 95.6 5 % 99.4 5 %
+
+
+Acquisition and integration-related charges(1) — — % 9.6 1 % — — % 13.9 1 %
+
+
+Exit of business(2) — — % — — % 1.8 — % — — %
+
+
+Medical device regulations(3) 2.6 — % 5.3 1 % 6.9 — % 10.7 — %
+
+
+Business optimization charges(4) 1.1 — % — — % 3.0 — % — — %
+
+
+Other(5) 276.8 26 % — — % 283.5 13 % 0.6 — %
+
+
+Total 328.2 30 % 64.7 7 % 390.8 18 % 124.6 6 %
+
+
+**Non-GAAP Operating Income** $ 297.2 27 % $ 249.5 25 % $ 572.6 27 % $ 491.4 25 %
+
+
+**Three Months Ended April 30,** **Six Months Ended April 30,**
+
+
+**(In millions, except per share amounts)** **2026** **EPS** **2025** **EPS** **2026** **EPS** **2025** **EPS**
+
+
+**GAAP Net Income (Loss)** $ (77.9 ) $ (0.40 ) $ 87.7 $ 0.44 $ 52.9 $ 0.27 $ 192.0 $ 0.96
+
+
+Amortization of acquired intangibles 47.7 0.24 49.8 0.24 95.6 0.48 99.4 0.49
+
+
+Acquisition and integration-related charges(1) — — 9.6 0.05 — — 13.9 0.07
+
+
+Exit of business(2) — — — — 1.8 0.01 — —
+
+
+Medical device regulations(3) 2.6 0.01 5.3 0.02 6.9 0.03 10.7 0.05
+
+
+Business optimization charges(4) 1.1 0.01 — — 3.0 0.02 — —
+
+
+Other(5) 277.6 1.42 17.4 0.09 285.2 1.46 19.9 0.10
+
+
+Tax effects related to the above items (55.4 ) (0.28 ) (11.1 ) (0.06 ) (70.6 ) (0.36 ) (25.8 ) (0.13 )
+
+
+Intra-entity asset transfers(6) 41.7 0.21 34.8 0.18 79.6 0.40 67.8 0.34
+
+
+Total 315.3 1.61 105.8 0.52 401.5 2.04 185.9 0.92
+
+
+**Non-GAAP Net Income** $ 237.4 $ 1.21 $ 193.5 $ 0.96 $ 454.4 $ 2.31 $ 377.9 $ 1.88
+
+
+Weighted average diluted shares used 195.6 200.7 196.1 200.9
+
+
+*EPS, amounts and percentages may not sum or recalculate due to rounding.*
+
+
+(1) There were no acquisition and integration-related charges in the three and six months ended April 30, 2026.
+
+
+The acquisition and integration-related charges in fiscal 2025 were primarily related to the obp Surgical and Cook Medical acquisition and integration expenses. Charges included $3.5 million and $4.8 million related to redundant personnel costs for transitional employees, $1.1 million and $2.4 million of professional services fees, $1.2 million and $2.1 million of inventory fair value step-up amortization, $1.1 million and $1.8 million of facility rationalization costs, and $0.3 million and $0.4 million of other acquisition and integration-related activities in the three and six months ended April 30, 2025. The three months ended April 30, 2025 also included $2.4 million of acquisition-related non-cash cumulative true-up adjustments reflecting changes in compensation.
+
+
+Charges in this category may include the direct effects of acquisition accounting, such as amortization of inventory fair value step-up, professional services fees, regulatory fees, and items related to integrating acquired businesses, such as redundant personnel costs for transitional employees, acquisition-related non-cash cumulative true up adjustments reflecting changes in compensation, other acquisition-related costs, integration-related professional services, long-lived asset write-offs, manufacturing integration costs, legal entity and facility rationalization, and other integration-related activities.
+
+
+(2) There were no charges related to the exit of business in the three months ended April 30, 2026. The six months ended April 30, 2026 included $1.7 million of specifically-identified long-lived asset write-offs and $0.1 million of other costs related to product line exits.
+
+
+There were no exit of business charges in the three and six months ended April 30, 2025.
+
+
+Charges in this category may include costs related to product line exits such as inventory write-offs, employee severance costs, and specifically-identified long-lived asset write-offs.
+
+
+(3) Charges represent incremental costs of complying with the new European Union (E.U.) medical device regulations and the E.U. in vitro diagnostic medical device regulation (collectively, the "Medical device regulations") for previously registered products and primarily include charges for contractors supporting the project and other direct third-party expenses. We consider these costs to be limited to a specific time period.
+
+
+(4) Charges included $1.1 million and $2.3 million of redundant personnel costs for transitional employees in the three and six months ended April 30, 2026. The six months ended April 30, 2026 also included $0.4 million of employee severance costs and $0.3 million of other business optimization charges.
+
+
+There were no business optimization charges in the three and six months ended April 30, 2025.
+
+
+Charges in this category represent costs associated with initiatives to increase efficiency and optimize the cost structure, and may include, among other items, changes to our IT infrastructure and operations, employee severance costs, redundant personnel costs for transitional employees, legal entity and other business reorganizations, and inventories associated with the business optimization activities.
+
+
+(5) Charges included $4.5 million and $11.2 million related to legal matters and $0.9 million and $1.8 million of gains and losses on minority interest investments in the three and six months ended April 30, 2026. The three months ended April 30, 2026 also included $272.2 million related to litigation expense and associated legal costs.
+
+
+Charges in the three months ended April 30, 2025 included $16.7 million of gains and losses on minority interest investments, of which $15.7 million was related to loss on disposal of a minority interest investment, and $0.7 million of accretion of interest attributable to acquisition installment payables. Charges in the six months ended April 30, 2025 included $17.9 million of gains and losses on a minority interest investment, $1.4 million of accretion of interest attributable to acquisition installment payables, and $0.6 million legal fees.
+
+
+Charges in this category may include legal matters, litigation expense, and other items that are not part of ordinary operations. The adjustments to arrive at non-GAAP net income also include gains and losses on minority interest investments and accretion of interest attributable to acquisition installment payables.
+
+
+(6) In fiscal 2021, the Company transferred its CooperVision intellectual property and goodwill to its UK subsidiary. As a result, we recorded a deferred tax asset equal to approximately $2.0 billion as a one-time tax benefit in accordance with U.S. GAAP in fiscal 2021 as subsequently adjusted for changes in UK tax law. The non-GAAP adjustments reflect the ongoing net deferred tax benefit from tax amortization each period under UK tax law.
+
+
+**Audio Webcast and Conference Call**
+
+
+The Company will host an audio webcast today for the public, investors, analysts and news media to discuss its second quarter results and current corporate developments. The audio webcast will be broadcast live on CooperCompanies' website,[www.investor.coopercos.com](https://www.globenewswire.com/Tracker?data=LBRMGunJ3d0Pa8-7qhO1cUXtPsZnU8Fw3nGLsIh_K8zO56VIjGwPR-Zq3XKSvBmXuLVL1grIbGnAVZ8bHcIHScNGfvl7px4ujFe8RlfDbQjKeH3VByxe8k9JzdEyQFfc) , at approximately 5:00 PM ET. It will also be available for replay on CooperCompanies' website,[www.investor.coopercos.com](https://www.globenewswire.com/Tracker?data=LBRMGunJ3d0Pa8-7qhO1cUXtPsZnU8Fw3nGLsIh_K8wRNDYt1Qg7La0nXnYr7NYguy6ANf54Mh910Ah2x_VqN1XoWTsoiVp26CGm54k0eroea-ZLcd4Zakrud0f395aO) . Alternatively, you can dial in to the conference call at 800-715-9871; conference ID 6529381.
+
+
+**About CooperCompanies**
+
+
+CooperCompanies (Nasdaq: COO) is a leading global medical device company focused on helping people experience life's beautiful moments through its two business units, CooperVision and CooperSurgical. CooperVision is a trusted leader in the contact lens industry, helping to improve the way people see each day. CooperSurgical is a leading fertility and women's healthcare company dedicated to putting time on the side of women, babies, and families at the healthcare moments that matter most. Headquartered in San Ramon, CA, CooperCompanies has a workforce of more than 15,000, sells products in over 130 countries, and positively impacts over fifty million lives each year. For more information, please visit[www.coopercos.com](https://www.globenewswire.com/Tracker?data=ycqEj5oClN8VrJdwk3lO3lmg_xb_iVRWcRXFstxAnOTsU2jSUFJU0G7-H7yLDglQuGd0RJW1XSpSNbBUlwKT1oPmg4c8iDYnV_EI6QjxhuI=) .
+
+
+**Forward-Looking Statements**
+
+
+This earnings release contains "forward-looking statements" as defined by the Private Securities Litigation Reform Act of 1995. Statements relating to guidance, plans, prospects, goals, strategies, future actions, events or performance and other statements of which are other than statements of historical fact, including our fiscal year 2026 financial guidance, are forward looking. In addition, all statements regarding anticipated growth in our revenues, expected savings from reorganization activities, anticipated effects of any product recalls, anticipated market conditions, planned product launches, restructuring or business transition expectations, regulatory plans, and expected results of operations and integration of any acquisition are forward-looking. To identify these statements look for words like "believes," "outlook," "probable," "expects," "may," "will," "should," "could," "seeks," "intends," "plans," "estimates" or "anticipates" and similar words or phrases. Forward-looking statements necessarily depend on assumptions, data or methods that may be incorrect or imprecise and are subject to risks and uncertainties.
+
+
+Among the factors that could cause our actual results and future actions to differ materially from those described in forward-looking statements are: adverse changes in the global or regional general business, political and economic conditions including the impact of continuing uncertainty and instability of certain countries, man-made or natural disasters and pandemic conditions, that could adversely affect our global markets, and the potential adverse economic impact and related uncertainty caused by these items; the impact of international conflicts, including the ongoing conflict in the Middle East, and the global response to international conflicts on the global and local economy, financial markets, energy markets, currency rates and our ability to supply product to, or through, or around, affected countries; our substantial and expanding international operations and the challenges of managing an organization spread throughout multiple countries and complying with a variety of legal, compliance and regulatory requirements; the actual imposition or threats of tariffs, customs duties and fees by the U.S. government and other nations in response and other retaliatory actions, such as trade protection measures, import or export licensing requirements, new or different customs duties, trade embargoes and sanctions and other trade barriers, as well as the impact of the Company’s efforts to mitigate the effects of such tariffs or similar measures; foreign currency exchange rate and interest rate fluctuations including the risk of fluctuations in the value of foreign currencies or interest rates that would decrease our net sales and earnings; our existing and future variable rate indebtedness and associated interest expense is impacted by rate increases, which could adversely affect our financial health or limit our ability to borrow additional funds; changes in tax laws, examinations by tax authorities, and changes in our geographic composition of income; acquisition-related adverse effects including the failure to successfully achieve the anticipated net sales, margins and earnings benefits of acquisitions, integration delays or costs and the requirement to record significant adjustments to the preliminary fair value of assets acquired and liabilities assumed within the measurement period, required regulatory approvals for an acquisition not being obtained or being delayed or subject to conditions that are not anticipated, adverse impacts of changes to accounting controls and reporting procedures, contingent liabilities or indemnification obligations, increased leverage and lack of access to available financing (including financing for the acquisition or refinancing of debt owed by us on a timely basis and on reasonable terms); compliance costs and potential liability in connection with U.S. and foreign laws and health care regulations pertaining to privacy and security of personal information such as the Health Insurance Portability and Accountability Act of 1996 and the California Consumer Privacy Act in the U.S. and the General Data Protection Regulation requirements in Europe, including but not limited to those resulting from data security breaches; a major disruption in the operations of our manufacturing, accounting and financial reporting, research and development, distribution facilities or raw material supply chain due to challenges associated with integration of acquisitions, man-made or natural disasters, pandemic conditions, cybersecurity incidents or other causes; a major disruption in the operations of our manufacturing, accounting and financial reporting, research and development or distribution facilities due to the failure to perform by third-party vendors, including cloud computing providers or other technological problems, including any related to our information systems maintenance, enhancements or new system deployments, integrations or upgrades; a successful cybersecurity attack which could interrupt or disrupt our information technology systems, or those of our third-party service providers, or cause the loss of confidential or protected data; market consolidation of large customers globally through mergers or acquisitions resulting in a larger proportion or concentration of our business being derived from fewer customers; disruptions in supplies of raw materials, particularly components used to manufacture our silicone hydrogel lenses; new U.S. and foreign government laws and regulations, and changes in existing laws, regulations and enforcement guidance, which affect areas of our operations including, but not limited to, those affecting the health care industry, including the contact lens industry specifically and the medical device or pharmaceutical industries generally, including but not limited to the EU Medical Devices Regulation (MDR) and the EU In Vitro Diagnostic Medical Devices Regulation; legal costs, insurance expenses, settlement costs and the risk of an adverse decision, prohibitive injunction or settlement related to product liability, patent infringement, contractual disputes, or other litigation; limitations on sales following product introductions due to poor market acceptance; new competitors, product innovations or technologies, including but not limited to, technological advances by competitors, new products and patents attained by competitors, and competitors' expansion through acquisitions; reduced sales, loss of customers, reputational harm and costs and expenses, including from claims and litigation related to product recalls and warning letters; failure to receive, or delays in receiving, regulatory approvals or certifications for products; failure of our customers and end users to obtain adequate coverage and reimbursement from third-party payers for our products and services; the requirement to provide for a significant liability or to write off, or accelerate depreciation on, a significant asset, including goodwill, other intangible assets and idle manufacturing facilities and equipment; the success of our research and development activities and other start-up projects; dilution to earnings per share from acquisitions or issuing stock; impact and costs incurred from changes in accounting standards and policies; risks related to environmental laws and requirements applicable to our facilities, products or manufacturing processes, including evolving regulations regarding the use of hazardous substances or chemicals in our products; risks related to environmental, social and corporate governance issues, including those related to regulatory and disclosure requirements, climate change and sustainability; and other events described in our United States Securities and Exchange Commission filings, including the “Business”, “Risk Factors” and "Management's Discussion and Analysis of Financial Condition and Results of Operations" sections in the Company’s Annual Report on Form 10-K for the fiscal year ended October 31, 2025, as such Risk Factors may be updated in annual and quarterly filings.
+
+
+We caution investors that forward-looking statements reflect our analysis only on their stated date. We disclaim any obligation to update or revise them except as required by law.
+
+
+Contact:
+
+
+Kim Duncan
+Vice President, Investor Relations and Risk Management
+925-460-3663
+[ir@cooperco.com](https://www.globenewswire.com/Tracker?data=Aw2NeG0OI1RuB87U_ZE4eIf2cMjdBImyYeG4tQpzxpkecrvqn1p0ec8yUkHPImf860Ixj0moII5FnNU07jdOyH0hxyRgzKE3Y9i8d07NCxc=)
+
+
+THE COOPER COMPANIES, INC. AND SUBSIDIARIES
+
+
+Consolidated Condensed Balance Sheets
+(In millions)
+(Unaudited)
+
+
+April 30, 2026 October 31, 2025
+
+
+ASSETS
+
+
+Current assets:
+
+
+Cash and cash equivalents $ 138.8 $ 110.6
+
+
+Trade receivables, net 809.2 829.0
+
+
+Inventories 896.4 846.0
+
+
+Prepaid expense and other current assets 455.4 320.8
+
+
+Total current assets 2,299.8 2,106.4
+
+
+Property, plant and equipment, net 2,132.2 2,082.0
+
+
+Goodwill 3,888.5 3,853.4
+
+
+Other intangibles, net 1,494.3 1,586.3
+
+
+Deferred tax assets 1,994.7 2,077.5
+
+
+Other assets 672.8 689.2
+
+
+Total assets $ 12,482.3 $ 12,394.8
+
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+
+
+Current liabilities:
+
+
+Short-term debt $ 598.9 $ 47.8
+
+
+Accounts Payable 233.3 300.4
+
+
+Employee compensation and benefits 165.9 210.6
+
+
+Deferred revenue 127.9 127.9
+
+
+Accrued litigation liability 324.8 0.7
+
+
+Other current liabilities 353.9 425.4
+
+
+Total current liabilities 1,804.7 1,112.8
+
+
+Long-term debt 1,861.3 2,457.5
+
+
+Deferred tax liabilities 96.4 93.3
+
+
+Long-term tax payable 5.6 7.5
+
+
+Deferred revenue 208.8 201.8
+
+
+Other liabilities 266.4 282.8
+
+
+Total liabilities 4,243.2 4,155.7
+
+
+Stockholders’ equity 8,239.1 8,239.1
+
+
+Total liabilities and stockholders' equity $ 12,482.3 $ 12,394.8
+
+
+THE COOPER COMPANIES, INC. AND SUBSIDIARIES
+
+
+Consolidated Condensed Statements of Income (Loss)
+(In millions, except per share amounts)
+(Unaudited)
+
+
+Three Months Ended April 30, Six Months Ended April 30,
+
+
+2026 2025
+2026 2025
+
+
+Net sales $ 1,081.5 $ 1,002.3 $ 2,105.6 $ 1,967.0
+
+
+Cost of sales 346.1 323.2 675.0 627.7
+
+
+Gross profit 735.4 679.1 1,430.6 1,339.3
+
+
+Selling, general and administrative expense 676.2 399.0 1,066.4 786.9
+
+
+Research and development expense 42.5 45.5 86.8 86.2
+
+
+Amortization of intangibles 47.7 49.8 95.6 99.4
+
+
+Operating income (loss) (31.0 ) 184.8 181.8 366.8
+
+
+Interest expense 20.9 24.2 43.3 50.2
+
+
+Other (income) expense, net (3.5 ) 16.1 (5.3 ) 18.8
+
+
+Income (loss) before income taxes (48.4 ) 144.5 143.8 297.8
+
+
+Provision for income taxes 29.5 56.8 90.9 105.8
+
+
+Net income (loss) $ (77.9 ) $ 87.7 $ 52.9 $ 192.0
+
+
+Earnings (loss) per share - diluted $ (0.40 ) $ 0.44 $ 0.27 $ 0.96
+
+
+Number of shares used to compute diluted earnings (loss) per share 195.0 200.7 196.1 200.9
+
+
+*EPS, amounts and percentages may not sum or recalculate due to rounding.*
+
+
+THE COOPER COMPANIES, INC. AND SUBSIDIARIES
+
+
+GAAP to Non-GAAP Reconciliation
+Constant Currency Revenue Growth and Organic Revenue Growth
+
+
+**Net Sales**
+
+
+% change y/y
+
+
+(In millions) Reported
+Currency Impact
+Constant Currency
+Acquisitions and Divestitures
+Organic
+
+
+2Q26
+
+
+CooperVision $ 723.5 8 % (4 )% 4 % — % 4 %
+
+
+CooperSurgical 358.0 8 % (2 )% 6 % — % 6 %
+
+
+Total $ 1,081.5 8 % (3 )% 5 % — % 5 %

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2444aed760157a0683f0edd861ae54f4b57416f271beb078b1027f1abedc2e77",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/04/04/using-openapi-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/04/04/using-openapi-rust"
+  },
+  "title": "Working with OpenAPI using Rust",
+  "summary": "Adding OpenAPI to a Rust web service and generating Rust libraries from OpenAPI",
+  "published_at": "2024-04-04T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/04/24/2444aed760157a0683f0edd861ae54f4b57416f271beb078b1027f1abedc2e77/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/04/24/2444aed760157a0683f0edd861ae54f4b57416f271beb078b1027f1abedc2e77/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11944,
+    "sha256": "sha256:4b648330e02c5e118613105e73712692d1188ad32ced580405565ab4f6fabeb5",
+    "normalized_content_hash": "sha256:f0ddf3b21239a717b024e4fddedda52c0e5ef5c5b263be109dee7ed464978d84"
+  },
+  "provenance": {
+    "source_item_id": "38a7fd94-b5d9-4dd1-84df-33e5c4be60fd",
+    "external_id": "https://www.shuttle.dev/blog/2024/04/04/using-openapi-rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81900b1517f16179e4669904110aca472b59ecff69c86398f8d03946c3e507bf",
+  "company": {
+    "key": "yc-fogbender",
+    "name": "Fogbender"
+  },
+  "source": {
+    "id": "yc-fogbender-news-import-46cf0bf99c36",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://fogbender.com/blog/how-to-verify-domain-ownership",
+    "canonical": "https://fogbender.com/blog/how-to-verify-domain-ownership"
+  },
+  "title": "How to Verify Domain Ownership with a DNS TXT Record",
+  "summary": "Verifying domain ownership by updating a DNS TXT record to enable colleagues to auto-join your Fogbender team",
+  "published_at": "2022-12-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:41:04.212025+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T21:03:40.996420+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-fogbender/2022/12/81/81900b1517f16179e4669904110aca472b59ecff69c86398f8d03946c3e507bf/article.md",
+    "record": "articles/v1/dd/yc-fogbender/2022/12/81/81900b1517f16179e4669904110aca472b59ecff69c86398f8d03946c3e507bf/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2808,
+    "sha256": "sha256:d35a9c5e547115ec08e0fc0a5a825e154afdbf800988565fa4925bfa5465022a",
+    "normalized_content_hash": "sha256:79b3e66bf4035bd8f9755b64540625a65f572b76f1992e39d4ad70134a9754b3"
+  },
+  "provenance": {
+    "source_item_id": "336a720d-c232-46a8-9324-2f6252587c69",
+    "external_id": "https://fogbender.com/blog/how-to-verify-domain-ownership"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf17377bf8f0eb048685837492d3582cc242a062e763bf1a78e8aa8444046a5e",
+  "company": {
+    "key": "yc-paradedb",
+    "name": "ParadeDB"
+  },
+  "source": {
+    "id": "yc-paradedb-rss-b460d8ada1d2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.paradedb.com/blog/optimizing-top-k",
+    "canonical": "https://www.paradedb.com/blog/optimizing-top-k"
+  },
+  "title": "How We Optimized Top K in Postgres",
+  "summary": "How ParadeDB uses principles from search engines to optimize Postgres' Top K performance.",
+  "published_at": "2026-02-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.722459+00:00",
+  "fetched_at": "2026-07-28T22:20:29.370610+00:00",
+  "last_updated_at": "2026-08-20T02:15:21.077987+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-paradedb/2026/02/bf/bf17377bf8f0eb048685837492d3582cc242a062e763bf1a78e8aa8444046a5e/article.md",
+    "record": "articles/v1/d7/yc-paradedb/2026/02/bf/bf17377bf8f0eb048685837492d3582cc242a062e763bf1a78e8aa8444046a5e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20716,
+    "sha256": "sha256:dae082f4da6cee537bbcc6c8cc3f57a3b73dde5dd712c1d03a47aea49f3e25e8",
+    "normalized_content_hash": "sha256:756d8314de0d11c8d500e321458f1d96d4581d517ac63d73cfe11c66064721a0"
+  },
+  "provenance": {
+    "source_item_id": "c2d4ec01-3130-454e-bcd9-4d5eb7a6851a",
+    "external_id": "https://www.paradedb.com/blog/optimizing-top-k"
+  }
+}

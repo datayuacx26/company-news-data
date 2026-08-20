@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "nexttrip-inc-common-stock",
+    "name": "NextTrip Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2026-03-31T11:30:00+00:00",
+  "last_published_at": "2026-07-22T13:20:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ec/nexttrip-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 12115,
+        "sha256": "sha256:2dbe770f5ebe44f4ee2b5b6fe0aef3de6cd5aceddd4c32402e0118b47128fa9a",
+        "newest_at": "2026-07-22T13:20:00+00:00",
+        "oldest_at": "2026-03-31T11:30:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "bionano-genomics-inc-common-stock",
+    "name": "Bionano Genomics Inc."
+  },
+  "record_count": 9,
+  "first_published_at": "2024-04-11T00:58:46+00:00",
+  "last_published_at": "2024-08-03T05:26:51+00:00",
+  "partitions": [
+    {
+      "partition": "2024-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/bionano-genomics-inc-common-stock/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 10138,
+        "sha256": "sha256:53840c0a962297f8929e22588a9054b8cf3b5b8a4ea025d9d5f8f8f523d0a9f5",
+        "newest_at": "2024-08-03T05:26:51+00:00",
+        "oldest_at": "2024-04-11T00:58:46+00:00"
+      }
+    ]
+  }
+}

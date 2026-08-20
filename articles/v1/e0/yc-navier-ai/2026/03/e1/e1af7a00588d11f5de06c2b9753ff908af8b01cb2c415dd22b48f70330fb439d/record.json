@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e1af7a00588d11f5de06c2b9753ff908af8b01cb2c415dd22b48f70330fb439d",
+  "company": {
+    "key": "yc-navier-ai",
+    "name": "Navier AI"
+  },
+  "source": {
+    "id": "yc-navier-ai-news-import-c904ef9ba107",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://navier.ai/blog/2026-03-22-prompt-to-flight-software-stella",
+    "canonical": "https://www.navier.ai/blog/2026-03-22-prompt-to-flight-software-stella"
+  },
+  "title": "From Prompt to Flight Software: Building a Missile Evasion Simulation with Stella",
+  "summary": "Stella, our agentic GNC platform, eliminates the path from scenario concept to working simulation code. Describe the engagement. Stella generates the simulation, flight software, guidance laws, autopilots, and runs SIL with up to a 50x speedup over traditional tooling.",
+  "published_at": "2026-03-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T12:10:55.994382+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-08-19T23:03:57.683886+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-navier-ai/2026/03/e1/e1af7a00588d11f5de06c2b9753ff908af8b01cb2c415dd22b48f70330fb439d/article.md",
+    "record": "articles/v1/e0/yc-navier-ai/2026/03/e1/e1af7a00588d11f5de06c2b9753ff908af8b01cb2c415dd22b48f70330fb439d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16363,
+    "sha256": "sha256:0d8d2f2960bfd0b018d1b2c9c519d118b476e7b93fb8394be26ff80e0606adaf",
+    "normalized_content_hash": "sha256:4fbc6428241e3215d0782879b761d3e5e90e65b0d394a184365b1e667a687bbe"
+  },
+  "provenance": {
+    "source_item_id": "09d8c0fd-f7a3-4720-b7f7-cad8644cf520",
+    "external_id": "https://www.navier.ai/blog/2026-03-22-prompt-to-flight-software-stella"
+  }
+}

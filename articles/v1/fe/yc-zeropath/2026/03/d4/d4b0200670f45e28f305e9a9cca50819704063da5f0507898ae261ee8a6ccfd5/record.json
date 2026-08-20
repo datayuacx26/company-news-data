@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4b0200670f45e28f305e9a9cca50819704063da5f0507898ae261ee8a6ccfd5",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/zeropath-exploit-development-ctfs",
+    "canonical": "https://zeropath.com/blog/zeropath-exploit-development-ctfs"
+  },
+  "title": "ZeroPath Exploit Development CTFs",
+  "summary": "Learn to exploit complex real-world vulnerabilities with zeropath-ctf, a set of self-contained exploit development exercises based on CVEs from the CISA Known Exploited Vulnerabilities list, powered by ZeroPath's shapeshifter vulnerability generation suite.",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/03/d4/d4b0200670f45e28f305e9a9cca50819704063da5f0507898ae261ee8a6ccfd5/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/03/d4/d4b0200670f45e28f305e9a9cca50819704063da5f0507898ae261ee8a6ccfd5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13152,
+    "sha256": "sha256:be469a2032055328af95a73fae0c9e285c74f7bbf45f919c2b4c21ba3f699cf4",
+    "normalized_content_hash": "sha256:4ed7dbcaced6ca8c1c5100d7bd8bfdab84f5d587f99a664db16217a15886763c"
+  },
+  "provenance": {
+    "source_item_id": "3834a06b-f8fa-4bf8-ac63-e72482407fcb",
+    "external_id": "https://zeropath.com/blog/zeropath-exploit-development-ctfs"
+  }
+}

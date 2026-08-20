@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "81ffa3b7fff96f4152b7856742132dbaedd5cce2bea245c2ec7ec0575c01a8ec",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/reliable-api-integration-best-practices",
+    "canonical": "https://corsair.dev/blog/reliable-api-integration-best-practices"
+  },
+  "title": "Best Practices for Building Reliable API Integrations That Don't Break When APIs Change",
+  "summary": "Learn the best practices for building reliable API integrations that withstand API changes through versioning, schema validation, authentication, monitoring, and resilient design.",
+  "published_at": "2026-07-30T14:26:00+00:00",
+  "first_seen_at": "2026-07-31T18:13:12.417417+00:00",
+  "fetched_at": "2026-07-31T18:13:13.557161+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/81/81ffa3b7fff96f4152b7856742132dbaedd5cce2bea245c2ec7ec0575c01a8ec/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/81/81ffa3b7fff96f4152b7856742132dbaedd5cce2bea245c2ec7ec0575c01a8ec/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13182,
+    "sha256": "sha256:eeb7605aed932952a9150bf976a05e232583cb885b3111f6e1e43522439d4544",
+    "normalized_content_hash": "sha256:320c88bb1163c1fb6146894bcc60c40fda894f839dd38e9bacb440d71118d750"
+  },
+  "provenance": {
+    "source_item_id": "dfde10a7-c0fd-4bea-9359-a5271121e460",
+    "external_id": "https://corsair.dev/blog/reliable-api-integration-best-practices"
+  }
+}

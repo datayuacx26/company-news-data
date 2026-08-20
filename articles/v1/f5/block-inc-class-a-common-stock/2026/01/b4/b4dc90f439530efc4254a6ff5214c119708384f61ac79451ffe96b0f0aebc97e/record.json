@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b4dc90f439530efc4254a6ff5214c119708384f61ac79451ffe96b0f0aebc97e",
+  "company": {
+    "key": "block-inc-class-a-common-stock",
+    "name": "Block Inc."
+  },
+  "source": {
+    "id": "block-inc-class-a-common-stock-rss-613ed2351e85",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://engineering.block.xyz/blog/kube-policies-binauthz-closing-the-supply-chain-gap-in-kubernetes",
+    "canonical": "http://engineering.block.xyz/blog/kube-policies-binauthz-closing-the-supply-chain-gap-in-kubernetes"
+  },
+  "title": "Kube-Policies BinauthZ: Closing the Supply Chain Gap in Kubernetes",
+  "summary": "Block's approach to Kubernetes supply chain security: BinauthZ verifies container image signatures and attestations at admission time.",
+  "published_at": "2026-01-20T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:06.876214+00:00",
+  "fetched_at": "2026-07-28T20:54:46.350230+00:00",
+  "last_updated_at": "2026-08-06T13:13:37.818861+00:00",
+  "paths": {
+    "article": "articles/v1/f5/block-inc-class-a-common-stock/2026/01/b4/b4dc90f439530efc4254a6ff5214c119708384f61ac79451ffe96b0f0aebc97e/article.md",
+    "record": "articles/v1/f5/block-inc-class-a-common-stock/2026/01/b4/b4dc90f439530efc4254a6ff5214c119708384f61ac79451ffe96b0f0aebc97e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 37594,
+    "sha256": "sha256:d95b866ca972ce10bfdfeeaf2cb0393177377e578f6f6e01144f2119222ed476",
+    "normalized_content_hash": "sha256:6f28792ed25677038220c3db005a299c812427ceca9bce87839b64b47348658e"
+  },
+  "provenance": {
+    "source_item_id": "27769127-8666-48c3-8dd7-3e1c4448e80f",
+    "external_id": "http://engineering.block.xyz/blog/kube-policies-binauthz-closing-the-supply-chain-gap-in-kubernetes"
+  }
+}

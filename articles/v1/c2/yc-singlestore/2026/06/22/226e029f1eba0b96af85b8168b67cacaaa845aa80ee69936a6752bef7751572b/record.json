@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "226e029f1eba0b96af85b8168b67cacaaa845aa80ee69936a6752bef7751572b",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/one-copy-one-engine-no-seams/",
+    "canonical": "https://www.singlestore.com/blog/one-copy-one-engine-no-seams/"
+  },
+  "title": "One Copy, One Engine, No Seams",
+  "summary": "Databricks says HTAP failed, but the real issue is architecture. See how SingleStore’s one-copy, one-engine approach unifies operational and analytical data.",
+  "published_at": "2026-06-19T14:00:58+00:00",
+  "first_seen_at": "2026-07-22T13:37:02.744795+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/06/22/226e029f1eba0b96af85b8168b67cacaaa845aa80ee69936a6752bef7751572b/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/06/22/226e029f1eba0b96af85b8168b67cacaaa845aa80ee69936a6752bef7751572b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20756,
+    "sha256": "sha256:7a295d08e8f58a39bf55590b437c6bb94b861d2c145fda8c57a9ff389637c866",
+    "normalized_content_hash": "sha256:573d5384fd53b784cfa9b578bdebaac42a19e5251a9f42f1aa4fcbcef13401e5"
+  },
+  "provenance": {
+    "source_item_id": "62b3413e-fc43-4697-8f72-9e62ef86038e",
+    "external_id": "https://www.singlestore.com/blog/one-copy-one-engine-no-seams/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d10e190638bad866414344fdde246cbc9cacaac02fc5cc8625fb5f314bccf4f9",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/when-order-routing-outgrows-code",
+    "canonical": "https://rulebricks.com/blog/when-order-routing-outgrows-code"
+  },
+  "title": "When Order Routing Outgrows Code",
+  "summary": "How to externalize fulfillment routing logic into a versioned decision layer that is easier to change, audit, and scale.",
+  "published_at": "2026-04-23T16:05:29+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-08-20T02:04:19.262566+00:00",
+  "last_updated_at": "2026-08-20T02:04:19.304136+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/04/d1/d10e190638bad866414344fdde246cbc9cacaac02fc5cc8625fb5f314bccf4f9/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/04/d1/d10e190638bad866414344fdde246cbc9cacaac02fc5cc8625fb5f314bccf4f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 670,
+    "sha256": "sha256:11c4b966cacfb8873618074c06676cae0c2b85cb829f1fe250c8195b7e4cb81f",
+    "normalized_content_hash": "sha256:5a45b0f32a28485911f6bc73704474bd9e929158eab9a4907ea2f829744f5113"
+  },
+  "provenance": {
+    "source_item_id": "25f8a515-2992-403b-8d5a-28f9bd346d2d",
+    "external_id": "https://rulebricks.com/blog/when-order-routing-outgrows-code"
+  }
+}

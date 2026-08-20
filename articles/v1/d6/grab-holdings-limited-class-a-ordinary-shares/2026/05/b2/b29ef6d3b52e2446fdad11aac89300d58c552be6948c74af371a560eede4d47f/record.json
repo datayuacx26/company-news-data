@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b29ef6d3b52e2446fdad11aac89300d58c552be6948c74af371a560eede4d47f",
+  "company": {
+    "key": "grab-holdings-limited-class-a-ordinary-shares",
+    "name": "Grab Holdings Limited"
+  },
+  "source": {
+    "id": "grab-holdings-limited-class-a-ordinary-shares-rss-d40cbf47f4b6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.grab.com/how-we-improved-android-studio-in-large-monorepo",
+    "canonical": "https://engineering.grab.com/how-we-improved-android-studio-in-large-monorepo"
+  },
+  "title": "Scaling developer experience: How we improved Android Studio in a large monorepo",
+  "summary": "Frustrated by 35-minute integrated development environment (IDE) syncs? In a large monorepo, slow builds were eroding productivity. Discover how we built a custom Focus plugin to slash sync times to under 2 minutes and drop memory usage from 10 GB to 2 GB. Learn how we leveraged Gradle and Bazel to reclaim developer flow without changing a single team's workflow.",
+  "published_at": "2026-05-15T00:23:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:59.025945+00:00",
+  "fetched_at": "2026-07-28T21:15:16.761066+00:00",
+  "last_updated_at": "2026-08-03T00:57:38.069940+00:00",
+  "paths": {
+    "article": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/05/b2/b29ef6d3b52e2446fdad11aac89300d58c552be6948c74af371a560eede4d47f/article.md",
+    "record": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/05/b2/b29ef6d3b52e2446fdad11aac89300d58c552be6948c74af371a560eede4d47f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22723,
+    "sha256": "sha256:11103fabba52be9079c7ea5feafa02b7d032a0f8f121787fb6e9b8af2d2c0650",
+    "normalized_content_hash": "sha256:785f87932e9361058f0e0c33198bbffa1a72fef760c85fb650bfa0b2a29fafaf"
+  },
+  "provenance": {
+    "source_item_id": "6a6368d3-4f84-4a82-9be8-20232c9f1fb8",
+    "external_id": "https://engineering.grab.com/how-we-improved-android-studio-in-large-monorepo"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "657245121756534205f22ac3d0157311d4ecef2aecffd91860908db00bb0c0ca",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-aurora-postgresql-with-salesforce",
+    "canonical": "https://www.stacksync.com/blog/sync-aurora-postgresql-with-salesforce"
+  },
+  "title": "Aurora PostgreSQL and Salesforce in Both Directions, Step by Step",
+  "summary": "Sync Aurora PostgreSQL with Salesforce in both directions: the cluster parameter group, a slot on the writer endpoint, External ID upserts, CDC, and failover.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-29T17:32:43.435424+00:00",
+  "fetched_at": "2026-07-29T17:32:44.790239+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/65/657245121756534205f22ac3d0157311d4ecef2aecffd91860908db00bb0c0ca/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/65/657245121756534205f22ac3d0157311d4ecef2aecffd91860908db00bb0c0ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16500,
+    "sha256": "sha256:237f97ea039038e318c142e2c3e6bb9ee7f33ddab16c0f8f1ad857d027bb4d84",
+    "normalized_content_hash": "sha256:90acbdcbeda3189cd09eba587f6dfa570686d60aeedea573da01125933c19c6a"
+  },
+  "provenance": {
+    "source_item_id": "b622e6e7-0146-410f-a220-3c9cf92748da",
+    "external_id": "https://www.stacksync.com/blog/sync-aurora-postgresql-with-salesforce"
+  }
+}

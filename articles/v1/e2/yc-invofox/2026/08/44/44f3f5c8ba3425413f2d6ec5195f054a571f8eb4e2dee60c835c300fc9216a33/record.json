@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "44f3f5c8ba3425413f2d6ec5195f054a571f8eb4e2dee60c835c300fc9216a33",
+  "company": {
+    "key": "yc-invofox",
+    "name": "Invofox"
+  },
+  "source": {
+    "id": "yc-invofox-news-import-19c8879c7fc9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.invofox.com/en/blog/gemini-ocr/",
+    "canonical": "https://www.invofox.com/en/blog/gemini-ocr/"
+  },
+  "title": "Gemini OCR: How Well It Works and How to Use It (2026)",
+  "summary": "Can Gemini do OCR? How to extract structured JSON from PDFs and images with the Gemini API, what it genuinely does well, and the six limits you'll hit in production.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T06:23:05.042843+00:00",
+  "fetched_at": "2026-08-06T06:23:06.950975+00:00",
+  "last_updated_at": "2026-08-20T00:53:16.985813+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-invofox/2026/08/44/44f3f5c8ba3425413f2d6ec5195f054a571f8eb4e2dee60c835c300fc9216a33/article.md",
+    "record": "articles/v1/e2/yc-invofox/2026/08/44/44f3f5c8ba3425413f2d6ec5195f054a571f8eb4e2dee60c835c300fc9216a33/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21900,
+    "sha256": "sha256:d3cbfddef170ba4db1acc381d9131d6d0dbad7c023d3e18e886c8678fc639112",
+    "normalized_content_hash": "sha256:1760e265b775271d7f9589859e4d339414a43de65fc1928e08656f91572a3460"
+  },
+  "provenance": {
+    "source_item_id": "d3e439d7-06e3-44c1-befe-953d8616faa6",
+    "external_id": "https://www.invofox.com/en/blog/gemini-ocr/"
+  }
+}

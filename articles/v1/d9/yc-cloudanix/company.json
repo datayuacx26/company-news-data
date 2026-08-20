@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "record_count": 130,
+  "first_published_at": "2019-08-01T00:00:00+00:00",
+  "last_published_at": "2026-08-17T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2019-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 21
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 8
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d9/yc-cloudanix/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 53207,
+        "sha256": "sha256:3a9585395112c0cc2dd5b96c787fb65df705deb132916beb9c571eab70cff7eb",
+        "newest_at": "2026-08-17T00:00:00+00:00",
+        "oldest_at": "2024-07-30T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/d9/yc-cloudanix/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 51438,
+        "sha256": "sha256:8fb06be2e699d3c1cdafa05c80bd405c20fd3418ff1fb7dc7cee70386bd6445b",
+        "newest_at": "2024-06-24T00:00:00+00:00",
+        "oldest_at": "2020-10-01T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/d9/yc-cloudanix/index/pages/000003.json",
+        "record_count": 30,
+        "byte_count": 32126,
+        "sha256": "sha256:025bb89838e3b90b177fa27e993dc67b91d45ccdb050d17a924b14f34636be70",
+        "newest_at": "2020-08-09T00:00:00+00:00",
+        "oldest_at": "2019-08-01T00:00:00+00:00"
+      }
+    ]
+  }
+}

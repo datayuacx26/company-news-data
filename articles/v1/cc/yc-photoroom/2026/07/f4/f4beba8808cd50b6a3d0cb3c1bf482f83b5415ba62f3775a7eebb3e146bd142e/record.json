@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f4beba8808cd50b6a3d0cb3c1bf482f83b5415ba62f3775a7eebb3e146bd142e",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/how-we-cut-gpu-cold-starts-from-minutes-to-seconds-with-memory-checkpointing",
+    "canonical": "https://www.photoroom.com/inside-photoroom/how-we-cut-gpu-cold-starts-from-minutes-to-seconds-with-memory-checkpointing"
+  },
+  "title": "How we cut inference cold start to seconds with NVIDIA Dynamo",
+  "summary": "How Photoroom cut inference cold start from minutes to seconds using NVIDIA Dynamo snapshot and LitServe.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:15:24.874490+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/07/f4/f4beba8808cd50b6a3d0cb3c1bf482f83b5415ba62f3775a7eebb3e146bd142e/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/07/f4/f4beba8808cd50b6a3d0cb3c1bf482f83b5415ba62f3775a7eebb3e146bd142e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20279,
+    "sha256": "sha256:8e6cc554b9e2db7c713e12ad90bacb536fe541280eea3068d55df4363e7d0693",
+    "normalized_content_hash": "sha256:115f0d76a5a039e102ecae9dd020e01bb47aad59c6277dba5f788ebf50acd800"
+  },
+  "provenance": {
+    "source_item_id": "c6600c9e-5328-4215-a2fa-ea19411945b5",
+    "external_id": "https://www.photoroom.com/inside-photoroom/how-we-cut-gpu-cold-starts-from-minutes-to-seconds-with-memory-checkpointing"
+  }
+}

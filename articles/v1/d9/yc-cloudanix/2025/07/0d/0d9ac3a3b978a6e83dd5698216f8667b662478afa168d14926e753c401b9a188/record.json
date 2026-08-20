@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d9ac3a3b978a6e83dd5698216f8667b662478afa168d14926e753c401b9a188",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/unauthorized-privilege-escalation-secure-elevation-a-blueprint-for-cloud-security-leadership/",
+    "canonical": "https://www.cloudanix.com/blog/unauthorized-privilege-escalation-secure-elevation-a-blueprint-for-cloud-security-leadership/"
+  },
+  "title": "Unauthorized Privilege Escalation & Secure Elevation: A Blueprint for Cloud Security Leadership",
+  "summary": "Prevent unauthorized privilege escalation in the cloud with JIT access, context-aware authorization, centralized PAM, and immutable audit trails.",
+  "published_at": "2025-07-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T20:56:43.889340+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2025/07/0d/0d9ac3a3b978a6e83dd5698216f8667b662478afa168d14926e753c401b9a188/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2025/07/0d/0d9ac3a3b978a6e83dd5698216f8667b662478afa168d14926e753c401b9a188/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8099,
+    "sha256": "sha256:cf829ed34ae370b912c63a86c4e7dbf4eeb1dc59327f673a2657ebca85edc898",
+    "normalized_content_hash": "sha256:f5c2cfe00b418c77f5ea15363a3d87ad999b62b72f470e0e58e69cf69aa6ed6d"
+  },
+  "provenance": {
+    "source_item_id": "3965a858-8d4c-4e15-b4f4-440a32c689ed",
+    "external_id": "https://www.cloudanix.com/blog/unauthorized-privilege-escalation-secure-elevation-a-blueprint-for-cloud-security-leadership/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bf20a22df63ac059aa71e8f8d2c5cbd2afa28cd2391ba60432c202252c5e5167",
+  "company": {
+    "key": "yc-hamming-ai",
+    "name": "Hamming AI"
+  },
+  "source": {
+    "id": "yc-hamming-ai-news-import-380bdc997b57",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://hamming.ai/resources/voice-agent-prompt-injection-testing-guide",
+    "canonical": "https://hamming.ai/resources/voice-agent-prompt-injection-testing-guide"
+  },
+  "title": "Voice Agent Prompt Injection Testing: A Security Runbook for Phone Calls",
+  "summary": "A practical runbook for testing voice agents against spoken prompt injection, jailbreak attempts, data exfiltration, unsafe tool actions, and socia...",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:35:18.916983+00:00",
+  "fetched_at": "2026-07-28T21:23:18.688239+00:00",
+  "last_updated_at": "2026-08-20T03:19:16.179163+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-hamming-ai/2026/06/bf/bf20a22df63ac059aa71e8f8d2c5cbd2afa28cd2391ba60432c202252c5e5167/article.md",
+    "record": "articles/v1/ea/yc-hamming-ai/2026/06/bf/bf20a22df63ac059aa71e8f8d2c5cbd2afa28cd2391ba60432c202252c5e5167/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20507,
+    "sha256": "sha256:aed01f1c8b958528e15df41a7921d3a42c614da2ce91a3972b1183c5423b5db9",
+    "normalized_content_hash": "sha256:a6321db023d1d7004d721f6359faec4c5a46f07c18b474744d48394dc5766212"
+  },
+  "provenance": {
+    "source_item_id": "47dba52f-fd4a-46b3-9cad-fdd8c17751f9",
+    "external_id": "https://hamming.ai/resources/voice-agent-prompt-injection-testing-guide"
+  }
+}

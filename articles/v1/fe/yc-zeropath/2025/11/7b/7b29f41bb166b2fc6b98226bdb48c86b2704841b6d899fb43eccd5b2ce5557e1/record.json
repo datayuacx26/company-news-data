@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7b29f41bb166b2fc6b98226bdb48c86b2704841b6d899fb43eccd5b2ce5557e1",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/avahi-simple-protocol-server-dos-cve-2025-59529",
+    "canonical": "https://zeropath.com/blog/avahi-simple-protocol-server-dos-cve-2025-59529"
+  },
+  "title": "Avahi Simple Protocol Server DoS (CVE-2025-59529)",
+  "summary": "A logic flaw in Avahi Simple Protocol Server ignored the configured client limit, allowing any user to open unlimited connections and exhaust memory and file descriptors, causing a system-wide denial of service for mDNS and DNS-SD.",
+  "published_at": "2025-11-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2025/11/7b/7b29f41bb166b2fc6b98226bdb48c86b2704841b6d899fb43eccd5b2ce5557e1/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2025/11/7b/7b29f41bb166b2fc6b98226bdb48c86b2704841b6d899fb43eccd5b2ce5557e1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4560,
+    "sha256": "sha256:12030bacdfb3cc5259539e6e39092e3d1fca8e82dfd5f6917f9dd5c1aec18ad4",
+    "normalized_content_hash": "sha256:570dbafed7ce3a439d2409c94a5ead1136d0395192f7a905780b598d0c3f3b21"
+  },
+  "provenance": {
+    "source_item_id": "e33ae22f-b150-4427-9701-e25183219856",
+    "external_id": "https://zeropath.com/blog/avahi-simple-protocol-server-dos-cve-2025-59529"
+  }
+}

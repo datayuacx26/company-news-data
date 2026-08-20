@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "22637892f8b436711091b029d59f02f39b48403c39dbadb51f615c1ef76bc900",
+  "company": {
+    "key": "yc-rootly",
+    "name": "Rootly"
+  },
+  "source": {
+    "id": "yc-rootly-news-import-8d53140345fd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rootly.com/blog/turning-your-incident-data-into-a-knowledge-graph",
+    "canonical": "https://rootly.com/blog/turning-your-incident-data-into-a-knowledge-graph"
+  },
+  "title": "Turning your incident data into a knowledge graph",
+  "summary": "Your incident history is a graph waiting to be built. Here's how to turn Rootly data into a knowledge graph that surfaces patterns, predicts blast radius, and gives your AI SRE actual memory.",
+  "published_at": "2026-04-10T18:40:00+00:00",
+  "first_seen_at": "2026-07-24T00:13:28.618726+00:00",
+  "fetched_at": "2026-07-28T22:00:15.315546+00:00",
+  "last_updated_at": "2026-07-28T22:00:52.469293+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-rootly/2026/04/22/22637892f8b436711091b029d59f02f39b48403c39dbadb51f615c1ef76bc900/article.md",
+    "record": "articles/v1/e1/yc-rootly/2026/04/22/22637892f8b436711091b029d59f02f39b48403c39dbadb51f615c1ef76bc900/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3868,
+    "sha256": "sha256:5b1e830cae3703b170ac7a3e9e823dca15cf09d24148a07bdb85823bdccb25ff",
+    "normalized_content_hash": "sha256:762a32d8be4ad4b38419af680bd3b1a24de841cc32542280ebdced941ce25d67"
+  },
+  "provenance": {
+    "source_item_id": "35937cbd-2e81-49ad-8a33-eec3d23eada9",
+    "external_id": "https://rootly.com/blog/turning-your-incident-data-into-a-knowledge-graph"
+  }
+}

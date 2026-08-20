@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7ff4cfb3cd8914d7db785db5213a05fa762ff6c39ba85ff2c2053f74cabd816",
+  "company": {
+    "key": "yc-castle-2",
+    "name": "Castle"
+  },
+  "source": {
+    "id": "yc-castle-2-news-import-b99476926256",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.castle.io/changelog/export-team-members-to-csv",
+    "canonical": "https://docs.castle.io/changelog/export-team-members-to-csv"
+  },
+  "title": "Export team members to CSV",
+  "summary": "You can now export your team members list to a CSV file directly from the Team settings page. This is useful for access reviews, compliance audits, or keeping an offline record of who has access to your Castle account. The export includes all visible columns: member since, name, email, user role, 2F…",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:16:58.513640+00:00",
+  "fetched_at": "2026-07-28T21:42:44.602232+00:00",
+  "last_updated_at": "2026-08-20T02:45:41.804501+00:00",
+  "paths": {
+    "article": "articles/v1/e5/yc-castle-2/2026/06/a7/a7ff4cfb3cd8914d7db785db5213a05fa762ff6c39ba85ff2c2053f74cabd816/article.md",
+    "record": "articles/v1/e5/yc-castle-2/2026/06/a7/a7ff4cfb3cd8914d7db785db5213a05fa762ff6c39ba85ff2c2053f74cabd816/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1062,
+    "sha256": "sha256:37c5464d34523d8d71c187e9ce70a2a192326bb361bf208737b9755bc5cdd29a",
+    "normalized_content_hash": "sha256:b9defb8a0fc0ea598e68e1a843c4809c7e9e8584f135616c3788f232db855de8"
+  },
+  "provenance": {
+    "source_item_id": "bb7f3ffc-7310-4dc1-9313-76d2c7205505",
+    "external_id": "https://docs.castle.io/changelog/export-team-members-to-csv"
+  }
+}

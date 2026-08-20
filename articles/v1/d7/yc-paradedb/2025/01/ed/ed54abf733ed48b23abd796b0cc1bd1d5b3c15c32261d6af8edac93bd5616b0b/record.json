@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ed54abf733ed48b23abd796b0cc1bd1d5b3c15c32261d6af8edac93bd5616b0b",
+  "company": {
+    "key": "yc-paradedb",
+    "name": "ParadeDB"
+  },
+  "source": {
+    "id": "yc-paradedb-rss-b460d8ada1d2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.paradedb.com/blog/block-storage-part-one",
+    "canonical": "https://www.paradedb.com/blog/block-storage-part-one"
+  },
+  "title": "A New Postgres Block Storage Layout for Full Text Search",
+  "summary": "How we implemented a new block storage layout in Postgres for full text search performance.",
+  "published_at": "2025-01-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.722459+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:15:21.077987+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-paradedb/2025/01/ed/ed54abf733ed48b23abd796b0cc1bd1d5b3c15c32261d6af8edac93bd5616b0b/article.md",
+    "record": "articles/v1/d7/yc-paradedb/2025/01/ed/ed54abf733ed48b23abd796b0cc1bd1d5b3c15c32261d6af8edac93bd5616b0b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12348,
+    "sha256": "sha256:05ceaf53648a9efef7415aa2500d41f149ce4b42922b2a17146cc18a0b95dfd0",
+    "normalized_content_hash": "sha256:ded75f7c3861d9712f94d11b8b743edc4a5c5718f830d1282a008ada3bda33ab"
+  },
+  "provenance": {
+    "source_item_id": "4d7e9039-d245-48f6-ba27-04fdd31feb41",
+    "external_id": "https://www.paradedb.com/blog/block-storage-part-one"
+  }
+}

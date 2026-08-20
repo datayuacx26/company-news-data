@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "af5ff60f87255d293d39c91c8aa0e666ff56e60f7fcb4a393fd90be58d7a37f9",
+  "company": {
+    "key": "tenable-holdings-inc-common-stock",
+    "name": "Tenable Holdings Inc."
+  },
+  "source": {
+    "id": "tenable-holdings-inc-common-stock-news-import-a6b69c49a265",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution",
+    "canonical": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
+  },
+  "title": "wp2shell: WordPress Core Pre-Auth RCE FAQ | Tenable®",
+  "summary": "CVE-2026-63030 and CVE-2026-60137 form the wp2shell pre-auth RCE chain in WordPress Core. Exploitation confirmed. Patches in WordPress 7.0.2 and 6.9.5.",
+  "published_at": "2026-07-20T13:36:32+00:00",
+  "first_seen_at": "2026-07-24T03:36:59.179818+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-11T10:27:51.250066+00:00",
+  "paths": {
+    "article": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/07/af/af5ff60f87255d293d39c91c8aa0e666ff56e60f7fcb4a393fd90be58d7a37f9/article.md",
+    "record": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/07/af/af5ff60f87255d293d39c91c8aa0e666ff56e60f7fcb4a393fd90be58d7a37f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10894,
+    "sha256": "sha256:f756dd962d4d7ec8fb205b993ead53795c07a3adfbfaf35a0a1691e1760d47e7",
+    "normalized_content_hash": "sha256:7719ec97b38824d2f8480cf2e55ef5b49a6163a07752b8f0f372163eb5c4127e"
+  },
+  "provenance": {
+    "source_item_id": "5d62f64c-6b8f-4c2b-a7a2-0c6cedb93019",
+    "external_id": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
+  }
+}

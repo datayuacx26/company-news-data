@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4026c8458600a0c21c86c7018c867789e899dcb41ff8bf07c4f75eaf51c963b8",
+  "company": {
+    "key": "yc-paradedb",
+    "name": "ParadeDB"
+  },
+  "source": {
+    "id": "yc-paradedb-rss-b460d8ada1d2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.paradedb.com/blog/when-tokenization-becomes-token",
+    "canonical": "https://www.paradedb.com/blog/when-tokenization-becomes-token"
+  },
+  "title": "From Text to Token: How Tokenization Pipelines Work",
+  "summary": "Understanding how search engines transform text into tokens through character filtering, tokenization, stemming, and stopword removal.",
+  "published_at": "2025-10-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.722459+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T02:15:21.077987+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-paradedb/2025/10/40/4026c8458600a0c21c86c7018c867789e899dcb41ff8bf07c4f75eaf51c963b8/article.md",
+    "record": "articles/v1/d7/yc-paradedb/2025/10/40/4026c8458600a0c21c86c7018c867789e899dcb41ff8bf07c4f75eaf51c963b8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11713,
+    "sha256": "sha256:308637a8d6e41b492d1fc07628246ad04fa75fa04c6ab988898bcb564f264449",
+    "normalized_content_hash": "sha256:64729b9de1197141a1b77b201ffa2cff08589584c7b3933f46e0ace06ec9c2f0"
+  },
+  "provenance": {
+    "source_item_id": "bee9f131-09d6-4040-ba40-ace29046a1d1",
+    "external_id": "https://www.paradedb.com/blog/when-tokenization-becomes-token"
+  }
+}

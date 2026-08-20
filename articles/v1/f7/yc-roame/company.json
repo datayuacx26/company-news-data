@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-roame",
+    "name": "Roame"
+  },
+  "record_count": 63,
+  "first_published_at": "2025-09-10T15:24:09+00:00",
+  "last_published_at": "2026-08-12T12:24:49+00:00",
+  "partitions": [
+    {
+      "partition": "2025-09",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 7
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 10
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f7/yc-roame/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 50792,
+        "sha256": "sha256:e390a74ca17b7f6d6f61978cdde6b17af1426f257115dbb1ef657b2b946b9283",
+        "newest_at": "2026-08-12T12:24:49+00:00",
+        "oldest_at": "2025-10-31T19:15:22+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/f7/yc-roame/index/pages/000002.json",
+        "record_count": 13,
+        "byte_count": 12954,
+        "sha256": "sha256:14ede3aa053202282e6acf3b17b7fdbef82e5a41d915f4e802f8f69c102d93a7",
+        "newest_at": "2025-10-31T12:00:00+00:00",
+        "oldest_at": "2025-09-10T15:24:09+00:00"
+      }
+    ]
+  }
+}

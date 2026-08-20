@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "e104ef932a1cfa9c77882da939a4d08956808294dd8e7078632d2018cd3117aa"
+company_key: "southern-missouri-bancorp-inc-common-stock"
+company: "Southern Missouri Bancorp Inc."
+source_id: "southern-missouri-bancorp-inc-common-stock-rss-72d06b4e31ef"
+canonical_url: "https://investors.bankwithsouthern.com/news-events/news/news-details/2025/SOUTHERN-MISSOURI-BANCORP-REPORTS-PRELIMINARY-RESULTS-FOR-FOURTH-QUARTER-OF-FISCAL-2025-DECLARES-QUARTERLY-DIVIDEND-OF-0-25-PER-COMMON-SHARE-CONFERENCE-CALL-SCHEDULED-FOR-THURSDAY-JULY-24-AT-930-AM-CENTRAL-TIME/default.aspx"
+published_at: "2025-07-23T20:30:00+00:00"
+first_seen_at: "2026-07-25T23:51:15.966166+00:00"
+fetched_at: "2026-08-20T02:49:15.837438+00:00"
+content_hash: "sha256:03dfad20280146d135bffb8f554dcfc13f1c3d0529166cbe5e505c96fb6c5560"
+---
+
+# SOUTHERN MISSOURI BANCORP REPORTS PRELIMINARY RESULTS FOR FOURTH QUARTER OF FISCAL 2025; DECLARES QUARTERLY DIVIDEND OF $0.25 PER COMMON SHARE; CONFERENCE CALL SCHEDULED FOR THURSDAY, JULY 24, AT 9:30 AM CENTRAL TIME
+
+

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3eadd8d57eae96e010a3ff82d3b5cedd2047d108db4ccc8c3cada49ee828041d",
+  "company": {
+    "key": "yc-feroot-security",
+    "name": "Feroot Security"
+  },
+  "source": {
+    "id": "yc-feroot-security-news-import-5edbc375071d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.feroot.com/news/the-independent-feroot-security-uncovers-deepseeks-hidden-code-sending-user-data-to-china/",
+    "canonical": "https://feroot.com/news/the-independent-feroot-security-uncovers-deepseeks-hidden-code-sending-user-data-to-china/"
+  },
+  "title": "The Independent: Feroot Security Uncovers DeepSeek’s Hidden Code Sending User Data to China",
+  "summary": "Today’s investigation by cybersecurity firm Feroot Security has revealed that DeepSeek, a widely popular artificial intelligence model developed in China,",
+  "published_at": "2025-02-06T01:53:04+00:00",
+  "first_seen_at": "2026-07-22T07:46:20.268232+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T03:19:04.768325+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-feroot-security/2025/02/3e/3eadd8d57eae96e010a3ff82d3b5cedd2047d108db4ccc8c3cada49ee828041d/article.md",
+    "record": "articles/v1/c7/yc-feroot-security/2025/02/3e/3eadd8d57eae96e010a3ff82d3b5cedd2047d108db4ccc8c3cada49ee828041d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5064,
+    "sha256": "sha256:654b9bf00a4c3794f60c4642c2a436bee04a81c9cae95cf10c9d526829ca5acc",
+    "normalized_content_hash": "sha256:77f6b77244fbc27f755b73c72d8d9e38ad5719ee557a20a33d6c0aab094bb33d"
+  },
+  "provenance": {
+    "source_item_id": "556baa2d-c96b-4f82-a448-4ce60e723cb2",
+    "external_id": "https://feroot.com/news/the-independent-feroot-security-uncovers-deepseeks-hidden-code-sending-user-data-to-china/"
+  }
+}

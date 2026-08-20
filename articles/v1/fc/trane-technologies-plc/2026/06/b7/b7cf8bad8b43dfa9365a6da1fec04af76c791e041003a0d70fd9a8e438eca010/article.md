@@ -1,0 +1,287 @@
+---
+schema_version: "1.0.0"
+document_id: "b7cf8bad8b43dfa9365a6da1fec04af76c791e041003a0d70fd9a8e438eca010"
+company_key: "trane-technologies-plc"
+company: "Trane Technologies plc"
+source_id: "trane-technologies-plc-news-import-948330c864a4"
+canonical_url: "https://www.tranetechnologies.com/en/index/blog/culture-stories/lynette-declue-complex-solutions-trane.html"
+published_at: "2026-06-23T00:00:00+00:00"
+first_seen_at: "2026-07-22T17:07:02.639668+00:00"
+fetched_at: "2026-07-28T21:43:28.836467+00:00"
+content_hash: "sha256:e6e0501fd4dbc03b0bd5df513a6f1a7b1dbf94ec41647331049be2d0d89ab48b"
+---
+
+# How Lynette Went from Elementary School Teacher to Sales Executive
+
+Recommended for you
+
+
+- [Company Culture & Employee Stories](https://www.tranetechnologies.com/en/index/blog/culture-stories.html)
+- [Sales](https://www.tranetechnologies.com/en/index/blog/all-stories.html?topic=sales)
+
+
+June 23, 2026
+
+
+[How the Graduate Training Program Inspired Noah Hernandez Toward Sustainability](https://www.tranetechnologies.com/en/index/blog/culture-stories/noah-hernandez-graduate-training-program-journey.html)
+
+
+As a first-generation college graduate, mechanical engineer Noah Hernandez joined Trane Technologies’ Graduate Training Program to build confidence, deepen his technical expertise and discover how HVAC can shape a more sustainable future.
+
+
+Trane Technologies
+
+
+Editor
+
+
+June 16, 2026
+
+
+[How Carter Bloomquist is Busting the Myth that HVAC is Boring](https://www.tranetechnologies.com/en/index/blog/culture-stories/carter-bloomquist-hvac-sales.html)
+
+
+Early-career engineer Carter Bloomquist is proving that HVAC is anything but boring. Through Trane Technologies’ Graduate Training Program, he's discovering the impact, innovation and community that define a career in sustainable HVAC sales.
+
+
+Trane Technologies
+
+
+Editor
+
+
+- [Career development](https://www.tranetechnologies.com/en/index/blog/all-stories.html?topic=career-development)
+
+
+June 09, 2026
+
+
+[How Leah Leads Curious Teams and Sustainable Impact](https://www.tranetechnologies.com/en/index/blog/culture-stories/leah-jaoude-brainbox-ai-sustainability-careers.html)
+
+
+Leah Abou Jaoude returned to a career fair table three days in a row because she knew this was where she was meant to be. Now Manager of Energy and Sustainability, supporting our BrainBox AI team, she leads one of the organization's youngest and fastest-growing teams, measuring real-world emissions reductions, developing talent and proving that curiosity is the most valuable qualification.
+
+
+Trane Technologies
+
+
+Editor
+
+
+Thought Leaders
+
+
+[Dave Regnery](https://www.tranetechnologies.com/en/index/blog/author/dave-regnery.html)
+
+
+Chair and CEO, Trane Technologies
+
+
+Latest Article
+
+
+[CEO Dave Regnery on CNBC Talks Growth, Data Centers and Innovation](https://www.tranetechnologies.com/en/index/blog/in-the-news/dave-regnery-mad-money-jim-cramer-interview-company-growth.html)
+
+
+[Scott Tew](https://www.tranetechnologies.com/en/index/blog/author/scott-tew.html)
+
+
+Global Head and VP, Sustainability Strategy, Trane Technologies
+
+
+Latest Article
+
+
+[The ROI of Sustainability: Actionable Insights from Climate Week NYC](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/climate-week-nyc-roi-sustainability.html)
+
+
+[Holly Paeper](https://www.tranetechnologies.com/en/index/blog/author/holly-paeper.html)
+
+
+President, Commercial HVAC Americas, Trane Technologies
+
+
+Latest Article
+
+
+[Investing in Generations of Technician Talent](https://www.tranetechnologies.com/en/index/blog/culture-stories/investing-in-technician-talent.html)
+
+
+[Carrie Ruddy](https://www.tranetechnologies.com/en/index/blog/author/carrie-ruddy.html)
+
+
+Senior Vice President and Chief Communications and Marketing Officer
+
+
+Latest Article
+
+
+[The CMO Podcast: A Great Purpose Can Change a Company](https://www.tranetechnologies.com/en/index/blog/in-the-news/a-great-purpose-can-change-a-company.html)
+
+
+[Donny Simmons](https://www.tranetechnologies.com/en/index/blog/author/donny-simmons.html)
+
+
+Group President, Americas, Trane Technologies
+
+
+Latest Article
+
+
+[The Green Hour Podcast: Donny Simmons](https://www.tranetechnologies.com/en/index/blog/in-the-news/the-green-hour-podcast-with-donny-simmons.html)
+
+
+[Jose La Loggia](https://www.tranetechnologies.com/en/index/blog/author/jose-la-loggia.html)
+
+
+Jose La Loggia, Group President, EMEA
+
+
+Latest Article
+
+
+[Thermal Management Systems for a Sustainable Future](https://www.tranetechnologies.com/en/index/blog/solutions-innovation/thermal-management-systems-heat.html)
+
+
+[Riaz Raihan](https://www.tranetechnologies.com/en/index/blog/author/riaz-raihan.html)
+
+
+Senior Vice President and Chief Digital Officer
+
+
+Latest Article
+
+
+[AI and Energy Management: The New BrainBox AI Trane Technologies AI Lab &amp; Showroom](https://www.tranetechnologies.com/en/index/blog/solutions-innovation/ai-and-energy-management.html)
+
+
+[Mairéad Magner](https://www.tranetechnologies.com/en/index/blog/author/mairead-magner.html)
+
+
+Senior Vice President and Chief Human Resources Officer, Trane Technologies
+
+
+Latest Article
+
+
+[Culture of Impact](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/culture-of-impact.html)
+
+
+[Karin De Bondt](https://www.tranetechnologies.com/en/index/blog/author/karin-de-bondt.html)
+
+
+Senior Vice President and Chief Strategy Officer, Trane Technologies
+
+
+Latest Article
+
+
+[Collaboration at Scale: Unlocking Flexibility for Energy Optimization](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/flexibility-for-energy-optimization.html)
+
+
+[Chris Kuehn](https://www.tranetechnologies.com/en/index/blog/author/chris-kuehn.html)
+
+
+Executive Vice President and Chief Financial Officer, Trane Technologies
+
+
+Latest Article
+
+
+[The ROI of Sustainability: A Strategic Playbook](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/roi-of-sustainability-playbook.html)
+
+
+[Mauro J. Atalla](https://www.tranetechnologies.com/en/index/blog/author/mauro-atalla.html)
+
+
+Senior Vice President and Chief Technology and Sustainability Officer, Trane Technologies
+
+
+Latest Article
+
+
+[Scaling Sustainability: Inside the Trane Technologies 2025 Sustainability Report](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/trane-technologies-sustainability-report.html)
+
+
+[Hillary Gray](https://www.tranetechnologies.com/en/index/blog/author/hillary-gray.html)
+
+
+Director of Innovation, Trane Technologies
+
+
+Latest Article
+
+
+[Building the Future of Digital Infrastructure Through Open Collaboration](https://www.tranetechnologies.com/en/index/blog/solutions-innovation/innovation-in-data-center-cooling-with-open-compute-project.html)
+
+
+[Emily Vesling](https://www.tranetechnologies.com/en/index/blog/author/emily-vesling.html)
+
+
+Director of Sustainability, Trane Technologies
+
+
+Latest Article
+
+
+[Decarbonization Strategy: From Ambition to Action in Our Climate Transition Plan](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/decarbonization-climate-transition-plan.html)
+
+
+[Jenelle Shapiro](https://www.tranetechnologies.com/en/index/blog/author/jenelle-shapiro.html)
+
+
+Sustainability and Circularity Leader, Trane Technologies
+
+
+Latest Article
+
+
+[Rebuilding the Future: The New Circularity Blueprint](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/rebuilding-the-future-circularity.html)
+
+
+[Helen Walter-Terrinoni](https://www.tranetechnologies.com/en/index/blog/author/helen-walter-terrinoni.html)
+
+
+Director of Global Climate Policy, Trane Technologies
+
+
+Latest Article
+
+
+[A Climate for Innovation: A Conversation with Director of Global Climate Policy Helen Walter-Terrinoni](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/a-climate-for-innovation.html)
+
+
+[Jean-Simon Venne](https://www.tranetechnologies.com/en/index/blog/author/jean-simon-venne.html)
+
+
+President and Founder, BrainBox AI
+
+
+Latest Article
+
+
+[AI and Sustainability: Digital Solutions for the Planet](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/ai-and-sustainability-for-planet.html)
+
+
+[Oakley Roberts](https://www.tranetechnologies.com/en/index/blog/author/oakley-roberts.html)
+
+
+Vice President of Product Management, Trane Technologies
+
+
+Latest Article
+
+
+[Accelerating Impact in New Arenas: Electrification of Buildings and the Cold Chain](https://www.tranetechnologies.com/en/index/blog/solutions-innovation/accelerating-impact-in-new-arenas.html)
+
+
+[Paul Camuti](https://www.tranetechnologies.com/en/index/blog/author/paul-camuti.html)
+
+
+Former Executive Vice President and Chief Technology and Sustainability Officer, Trane Technologies
+
+
+Latest Article
+
+
+[Leading on Embodied Carbon](https://www.tranetechnologies.com/en/index/blog/sustainability-leadership/leading-on-embodied-carbon.html)

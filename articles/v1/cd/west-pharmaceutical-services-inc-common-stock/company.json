@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "west-pharmaceutical-services-inc-common-stock",
+    "name": "West Pharmaceutical Services Inc."
+  },
+  "record_count": 52,
+  "first_published_at": "2025-06-24T14:39:00+00:00",
+  "last_published_at": "2026-08-18T16:22:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/cd/west-pharmaceutical-services-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 61425,
+        "sha256": "sha256:548fc4ea8472b9e7cbdb91918406e5a9ddcbe231fc7990b09a776b0089d1a91e",
+        "newest_at": "2026-08-18T16:22:00+00:00",
+        "oldest_at": "2025-08-06T14:54:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/cd/west-pharmaceutical-services-inc-common-stock/index/pages/000002.json",
+        "record_count": 2,
+        "byte_count": 2606,
+        "sha256": "sha256:5c6fc9b6c42346992861fff09039bd5d1d8e48be50c944bfff2f5284486a00c8",
+        "newest_at": "2025-07-09T05:32:42+00:00",
+        "oldest_at": "2025-06-24T14:39:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3fb5171c27907ac8b6c370d0b93151cf0fac8e2ae9def964269b1acf3f32cede",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-8b",
+    "canonical": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-8b"
+  },
+  "title": "How to Deploy Qwen3-VL-8B with vLLM",
+  "summary": "Deploy Qwen3-VL-8B-Instruct with vLLM for vision-language inference, with setup, the serve command, verification, and GPU-memory troubleshooting.",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:41.109145+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/03/3f/3fb5171c27907ac8b6c370d0b93151cf0fac8e2ae9def964269b1acf3f32cede/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/03/3f/3fb5171c27907ac8b6c370d0b93151cf0fac8e2ae9def964269b1acf3f32cede/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4805,
+    "sha256": "sha256:c9a897189e1ba610fc434e26c27c33b3d2ac1aa334d3d6442a9eb1ed03533996",
+    "normalized_content_hash": "sha256:0d049afa3eaf58aeab1c6ece782793ed215721342420d272d020f964766a57d0"
+  },
+  "provenance": {
+    "source_item_id": "753bda20-d799-4dd6-a3e9-3ecd59e4d28f",
+    "external_id": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-8b"
+  }
+}

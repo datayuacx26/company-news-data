@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "86f792ebaaa4133028054876321579eda3d07e2b21b5cb94774deb7ed6525de2",
+  "company": {
+    "key": "yc-cloudcruise",
+    "name": "CloudCruise"
+  },
+  "source": {
+    "id": "yc-cloudcruise-news-import-0286802dbbee",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cloudcruise.com/blog/prompt-engineering-at-cloudcruise",
+    "canonical": "https://cloudcruise.com/blog/prompt-engineering-at-cloudcruise"
+  },
+  "title": "Prompt Engineering at CloudCruise",
+  "summary": "Learn how CloudCruise tackled browser agent errors through prompt engineering. We broke down complex workflows, optimized with o3, and built a maintenance agent that recovers from failures in real-time. March 2026.",
+  "published_at": "2025-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T05:51:05.060428+00:00",
+  "fetched_at": "2026-07-28T21:30:14.907341+00:00",
+  "last_updated_at": "2026-08-19T17:44:04.231963+00:00",
+  "paths": {
+    "article": "articles/v1/ee/yc-cloudcruise/2025/06/86/86f792ebaaa4133028054876321579eda3d07e2b21b5cb94774deb7ed6525de2/article.md",
+    "record": "articles/v1/ee/yc-cloudcruise/2025/06/86/86f792ebaaa4133028054876321579eda3d07e2b21b5cb94774deb7ed6525de2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13465,
+    "sha256": "sha256:d34f206cf9d098075b4d64a70ae8be2605449141dacd7f5c4c2f6bee3a26e81d",
+    "normalized_content_hash": "sha256:6312188f38a3a97be963ac0580c8a95604e561972a7c3b36d289d0b7d8be7e88"
+  },
+  "provenance": {
+    "source_item_id": "49403057-f36f-4e97-9308-add4b59939ef",
+    "external_id": "https://cloudcruise.com/blog/prompt-engineering-at-cloudcruise"
+  }
+}

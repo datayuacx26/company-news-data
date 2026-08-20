@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "140fb9b0273cf5dddc359483159cf5777f00f92cc4c16e83fb418ebcd414bdad",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/identity-resolution-without-nightly-batch/",
+    "canonical": "https://www.singlestore.com/blog/identity-resolution-without-nightly-batch/"
+  },
+  "title": "Identity resolution without the nightly batch",
+  "summary": "Nightly identity graph rebuilds quietly break attribution, frequency capping and consent propagation. What goes wrong between rebuilds, and what continuous resolution changes.",
+  "published_at": "2026-08-03T13:42:51+00:00",
+  "first_seen_at": "2026-08-03T20:25:04.686479+00:00",
+  "fetched_at": "2026-08-03T20:38:58.255627+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/08/14/140fb9b0273cf5dddc359483159cf5777f00f92cc4c16e83fb418ebcd414bdad/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/08/14/140fb9b0273cf5dddc359483159cf5777f00f92cc4c16e83fb418ebcd414bdad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10267,
+    "sha256": "sha256:3769c6fbc47ca1dbcb5390209aeecb372c16191bf4f9680f387e2a978ce7b338",
+    "normalized_content_hash": "sha256:44f4faed2a1c02d48ccaac5ac8e7ed0ee2f53bad51b91480d782ff85e9731d00"
+  },
+  "provenance": {
+    "source_item_id": "c66b0684-ee1c-48b8-8724-e2e638b983d2",
+    "external_id": "https://www.singlestore.com/blog/identity-resolution-without-nightly-batch/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "71e667e2e50249ff65bbdb67cd7427693b9a24a8f8280d2ceb719bb3ab97c891",
+  "company": {
+    "key": "yc-artie",
+    "name": "Artie"
+  },
+  "source": {
+    "id": "yc-artie-news-import-55a3a4fb236c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artie.com/blogs/artie-vs-aws-dms",
+    "canonical": "https://www.artie.com/blogs/artie-vs-aws-dms"
+  },
+  "title": "Artie vs. AWS DMS: Benchmarking Real-Time CDC From Postgres to Snowflake",
+  "summary": "Compare Artie vs AWS DMS for CDC replication. See latency, throughput, WAL impact, and why architecture drives real-time performance.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T02:25:22.954541+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-19T23:45:22.324875+00:00",
+  "paths": {
+    "article": "articles/v1/de/yc-artie/2026/06/71/71e667e2e50249ff65bbdb67cd7427693b9a24a8f8280d2ceb719bb3ab97c891/article.md",
+    "record": "articles/v1/de/yc-artie/2026/06/71/71e667e2e50249ff65bbdb67cd7427693b9a24a8f8280d2ceb719bb3ab97c891/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19175,
+    "sha256": "sha256:4f47195284d448d80c8849e42e25c5953e83e5d2d661e274cd32b9dba5aad4e1",
+    "normalized_content_hash": "sha256:2271c70513b40a2c85491a8f4497b17d5e42312d3faa9e6b3711de9c6f6e5868"
+  },
+  "provenance": {
+    "source_item_id": "3bb8138a-1823-484a-9c99-21d7121703f4",
+    "external_id": "https://www.artie.com/blogs/artie-vs-aws-dms"
+  }
+}

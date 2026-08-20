@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f8490f17a09339964149aa71bb5d6d44a9932d22a8081cc16dec5098310ddc66",
+  "company": {
+    "key": "penguin-solutions-inc-common-stock",
+    "name": "Penguin Solutions Inc."
+  },
+  "source": {
+    "id": "penguin-solutions-inc-common-stock-news-import-f9c47211aa5e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.penguinsolutions.com/en-us/resources/blog/why-ai-needs-cxl",
+    "canonical": "https://www.penguinsolutions.com/en-us/resources/blog/why-ai-needs-cxl"
+  },
+  "title": "From GPUs to Memory Pools: Why AI Needs Compute Express Link (CXL)",
+  "summary": "CXL 3.0 transforms data centers by linking servers into a unified AI fabric, eliminating memory silos and enabling scalable large-model training.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:00:09.417744+00:00",
+  "fetched_at": "2026-07-28T21:38:29.998390+00:00",
+  "last_updated_at": "2026-08-19T23:27:41.350700+00:00",
+  "paths": {
+    "article": "articles/v1/de/penguin-solutions-inc-common-stock/2026/07/f8/f8490f17a09339964149aa71bb5d6d44a9932d22a8081cc16dec5098310ddc66/article.md",
+    "record": "articles/v1/de/penguin-solutions-inc-common-stock/2026/07/f8/f8490f17a09339964149aa71bb5d6d44a9932d22a8081cc16dec5098310ddc66/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8939,
+    "sha256": "sha256:1628c6780364ccb0164255d54f2d44c3520de155003c2c4e7c46a81327a742ee",
+    "normalized_content_hash": "sha256:5ee6c2ddd3d6b036f178ec9578635dfa97eb3bc8f5b925d9eecb4161fe9ad692"
+  },
+  "provenance": {
+    "source_item_id": "568b9a54-7f36-419e-91ce-cf9ac7cc81fc",
+    "external_id": "https://www.penguinsolutions.com/en-us/resources/blog/why-ai-needs-cxl"
+  }
+}

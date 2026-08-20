@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a341fe54e5e1dc372fb316c8f6cd8e9ed8fc6f1a3ff811566b87239b2dfa11df",
+  "company": {
+    "key": "semtech-corporation-common-stock",
+    "name": "Semtech Corporation"
+  },
+  "source": {
+    "id": "semtech-corporation-common-stock-news-import-a7a5eb39443b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.semtech.com/company/press/surgeswitch-usb-pd-vbus-protection-gap-53v",
+    "canonical": "https://www.semtech.com/company/press/surgeswitch-usb-pd-vbus-protection-gap-53v"
+  },
+  "title": "Semtech SurgeSwitch® Tackles the USB-PD VBus Protection Gap at 53 V",
+  "summary": "Semtech today announced the TDS5311P, the industry’s first circuit protection device to deliver near-constant clamping voltage for USB Power Delivery (PD) Extended Power Range (EPR) applications at 48 V",
+  "published_at": "2026-03-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:15:03.437961+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-19T13:31:46.650965+00:00",
+  "paths": {
+    "article": "articles/v1/ef/semtech-corporation-common-stock/2026/03/a3/a341fe54e5e1dc372fb316c8f6cd8e9ed8fc6f1a3ff811566b87239b2dfa11df/article.md",
+    "record": "articles/v1/ef/semtech-corporation-common-stock/2026/03/a3/a341fe54e5e1dc372fb316c8f6cd8e9ed8fc6f1a3ff811566b87239b2dfa11df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6288,
+    "sha256": "sha256:fa3879cbf3e35244f456ee5ca5f4a9a2cafa7e96cb7bf13a3eb7ce443f2c7365",
+    "normalized_content_hash": "sha256:ea997b97eade98eee686df5db4ce9ca9d7875b5ffd1c23ddbcc3892e635b09b2"
+  },
+  "provenance": {
+    "source_item_id": "22d565da-be03-4b19-832d-1156e665b39c",
+    "external_id": "https://www.semtech.com/company/press/surgeswitch-usb-pd-vbus-protection-gap-53v"
+  }
+}

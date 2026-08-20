@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7787d98d43390006dead0da4a678ebc124c5a768700413aff40b5231b5c9a494",
+  "company": {
+    "key": "federated-hermes-inc-common-stock",
+    "name": "Federated Hermes Inc."
+  },
+  "source": {
+    "id": "federated-hermes-inc-common-stock-news-import-e493f31fb4b1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.federatedhermes.com/us/insights/article/regime-change-at-the-fed.do",
+    "canonical": "https://www.federatedhermes.com/us/insights/article/regime-change-at-the-fed.do"
+  },
+  "title": "Regime change at the Fed",
+  "summary": "A weekly look at issues in the domestic United States economy, with a focus on the stock market.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:31:44.723777+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-07-30T08:48:34.218786+00:00",
+  "paths": {
+    "article": "articles/v1/e1/federated-hermes-inc-common-stock/2026/06/77/7787d98d43390006dead0da4a678ebc124c5a768700413aff40b5231b5c9a494/article.md",
+    "record": "articles/v1/e1/federated-hermes-inc-common-stock/2026/06/77/7787d98d43390006dead0da4a678ebc124c5a768700413aff40b5231b5c9a494/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5551,
+    "sha256": "sha256:83fdc4571ad2ac0c63d75be4c0df2123867e7f0e13f903a14fc4799ec68d2b20",
+    "normalized_content_hash": "sha256:eca26b16d594069e5976d23452c245d6a23164908e086ce2d10c4ba854ae0141"
+  },
+  "provenance": {
+    "source_item_id": "91976d94-662f-41e8-b375-52a443fc97bc",
+    "external_id": "https://www.federatedhermes.com/us/insights/article/regime-change-at-the-fed.do"
+  }
+}

@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "b668cf0e12025dc49899617b229171aa09ebb8fd40fc0edc8545e5e90e675202"
+company_key: "gopro-inc-class-a-common-stock"
+company: "GoPro Inc."
+source_id: "gopro-inc-class-a-common-stock-rss-6614c0f220fc"
+canonical_url: "http://investor.gopro.com/press-releases/press-release-details/2026/GoPro-and-Dive-With-Buddy-Partner-to-Launch-GoPro-Escapes-Booking-Platform/default.aspx"
+published_at: "2026-05-26T13:03:00+00:00"
+first_seen_at: "2026-07-25T06:56:22.873146+00:00"
+fetched_at: "2026-08-19T17:01:20.044335+00:00"
+content_hash: "sha256:2608303866b9507df80b50020c9e1fdab0307c8f37a939033bd6d92b23973b30"
+---
+
+# GoPro and Dive With Buddy Partner to Launch GoPro Escapes Booking Platform
+
+

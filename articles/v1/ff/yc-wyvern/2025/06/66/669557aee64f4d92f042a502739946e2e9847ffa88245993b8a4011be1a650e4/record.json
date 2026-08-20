@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "669557aee64f4d92f042a502739946e2e9847ffa88245993b8a4011be1a650e4",
+  "company": {
+    "key": "yc-wyvern",
+    "name": "Wyvern"
+  },
+  "source": {
+    "id": "yc-wyvern-news-import-543bd8ef8708",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.wyvern.space/blog/open-data-program-feature-harmful-algal-bloom",
+    "canonical": "https://www.wyvern.space/blog/open-data-program-feature-harmful-algal-bloom"
+  },
+  "title": "Open Data Program Feature: Harmful algal bloom detection with Wyvern hyperspectral imagery",
+  "summary": "In this blog, Alex runs exploratory analysis on chlorophyll-a as a proxy for detecting harmful algal blooms using Wyvern's Open Data Program.",
+  "published_at": "2025-06-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T20:40:14.439396+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-08-20T01:01:29.830767+00:00",
+  "paths": {
+    "article": "articles/v1/ff/yc-wyvern/2025/06/66/669557aee64f4d92f042a502739946e2e9847ffa88245993b8a4011be1a650e4/article.md",
+    "record": "articles/v1/ff/yc-wyvern/2025/06/66/669557aee64f4d92f042a502739946e2e9847ffa88245993b8a4011be1a650e4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2699,
+    "sha256": "sha256:e1980ba1d281fa3dab76bcfe9163fff9a43363da06bff6831125331e0eb27c04",
+    "normalized_content_hash": "sha256:0ebe2dd49f6a0175197c1d9860429670388fe0ef76f743e1a8c79c2aef0e29ab"
+  },
+  "provenance": {
+    "source_item_id": "f166cadb-537a-49e6-b56a-18fc3b30d1ca",
+    "external_id": "https://www.wyvern.space/blog/open-data-program-feature-harmful-algal-bloom"
+  }
+}

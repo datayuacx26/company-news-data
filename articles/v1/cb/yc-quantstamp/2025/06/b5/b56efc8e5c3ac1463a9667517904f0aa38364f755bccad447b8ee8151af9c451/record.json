@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b56efc8e5c3ac1463a9667517904f0aa38364f755bccad447b8ee8151af9c451",
+  "company": {
+    "key": "yc-quantstamp",
+    "name": "Quantstamp"
+  },
+  "source": {
+    "id": "yc-quantstamp-rss-54cdced55685",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://quantstamp.com/blog/what-is-a-re-entrancy-attack",
+    "canonical": "https://quantstamp.com/blog/what-is-a-re-entrancy-attack"
+  },
+  "title": "What is a Re-Entrancy Attack?",
+  "summary": "Computer scientists say that a procedure is re-entrant if its execution can be interrupted in the middle, initiated over (re-entered), and both runs can complete without any errors in execution. In the context of Ethereum smart contracts, re-entrancy can lead to serious vulnerabilities.",
+  "published_at": "2025-06-04T18:23:59+00:00",
+  "first_seen_at": "2026-07-25T20:14:20.321573+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-20T03:09:35.051135+00:00",
+  "paths": {
+    "article": "articles/v1/cb/yc-quantstamp/2025/06/b5/b56efc8e5c3ac1463a9667517904f0aa38364f755bccad447b8ee8151af9c451/article.md",
+    "record": "articles/v1/cb/yc-quantstamp/2025/06/b5/b56efc8e5c3ac1463a9667517904f0aa38364f755bccad447b8ee8151af9c451/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7472,
+    "sha256": "sha256:0de1d3acb03234de2c043ec3e7e2cc2ae1c20a743a22d006d62fbe7d4903da7d",
+    "normalized_content_hash": "sha256:f5764dcff8a5e57b1004f0df4d388c6c4293636ab5958e21b80c3154b855d306"
+  },
+  "provenance": {
+    "source_item_id": "1d8396ae-a61b-4494-9d06-6b9fe094d25a",
+    "external_id": "https://quantstamp.com/blog/what-is-a-re-entrancy-attack"
+  }
+}

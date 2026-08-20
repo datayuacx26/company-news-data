@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5c6897508abbedbe3bfa77aa246c742263691f786509e18b8db7bedb4006f9b0",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/03/13/url-shortener",
+    "canonical": "https://www.shuttle.dev/blog/2022/03/13/url-shortener"
+  },
+  "title": "Building and Deploying a URL shortener with Rust in 10 minutes or less",
+  "summary": "Terrence hacks together a URL shortener way past midnight",
+  "published_at": "2022-04-13T18:18:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:04:01.772019+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/04/5c/5c6897508abbedbe3bfa77aa246c742263691f786509e18b8db7bedb4006f9b0/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/04/5c/5c6897508abbedbe3bfa77aa246c742263691f786509e18b8db7bedb4006f9b0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13729,
+    "sha256": "sha256:668f98f7e359611b5fbbd0424997bfd14902f7ce60ad25783f1a749b1b7fd944",
+    "normalized_content_hash": "sha256:1d1c1f275ba764c63b7d99c0d97a99d6cd33e1d28f56331e655c44537680cc44"
+  },
+  "provenance": {
+    "source_item_id": "0c2a36a5-575f-4924-9015-3097e38145e4",
+    "external_id": "https://www.shuttle.dev/blog/2022/03/13/url-shortener"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7cd9f4863ddce99bd2557210445e112f173b7d3cd67f24d3ab7954f38515b8a",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/spinnaker-rce-production-compromise",
+    "canonical": "https://zeropath.com/blog/spinnaker-rce-production-compromise"
+  },
+  "title": "Critical Spinnaker Vulns Allow RCE And Production Compromise",
+  "summary": "ZeroPath Research discovered two separate RCE vulnerabilities in Spinnaker (CVE-2026-32604 and CVE-2026-32613) that let low-privilege authenticated users execute code on Clouddriver and Echo, enabling credential theft and pivots into production cloud environments.",
+  "published_at": "2026-04-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:50:52.708520+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/04/a7/a7cd9f4863ddce99bd2557210445e112f173b7d3cd67f24d3ab7954f38515b8a/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/04/a7/a7cd9f4863ddce99bd2557210445e112f173b7d3cd67f24d3ab7954f38515b8a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22159,
+    "sha256": "sha256:a9455cf25e6a62e4854b257063e52d6f369fc4e139adedcaf63c123f2a95db31",
+    "normalized_content_hash": "sha256:5e6345931847db560cc6d2a152f35bc0dc5e1c3fc15d512494a00efc4997f8f5"
+  },
+  "provenance": {
+    "source_item_id": "26bc0bcb-da9e-4f1a-942b-d1b9b4e789e7",
+    "external_id": "https://zeropath.com/blog/spinnaker-rce-production-compromise"
+  }
+}

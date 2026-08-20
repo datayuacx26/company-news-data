@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "de2672b7166ad9de07e252b4c47dd585956bf93f8770f46ef8769f6782513787",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/deploying-vlms-through-vllm",
+    "canonical": "https://www.overshoot.ai/blogs/deploying-vlms-through-vllm"
+  },
+  "title": "Deploying VLMs through vLLM: Field Guide",
+  "summary": "Reproducible deployment guides for 30 vision language models across 11 families: setup instructions, deploy commands, troubleshooting, and benchmarks.",
+  "published_at": "2026-02-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T22:21:35.013216+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/02/de/de2672b7166ad9de07e252b4c47dd585956bf93f8770f46ef8769f6782513787/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/02/de/de2672b7166ad9de07e252b4c47dd585956bf93f8770f46ef8769f6782513787/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4925,
+    "sha256": "sha256:59183513b4e9b3fcce2e163c44f27bbaf85e934906c70920f25fe39d6445b22b",
+    "normalized_content_hash": "sha256:630e9fb0d3aafde756af160ec667ced13395be9460162d7c1e48047584719098"
+  },
+  "provenance": {
+    "source_item_id": "411a513d-56b8-4b25-a27a-8efd0a8adc18",
+    "external_id": "https://www.overshoot.ai/blogs/deploying-vlms-through-vllm"
+  }
+}

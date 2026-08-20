@@ -1,0 +1,214 @@
+---
+schema_version: "1.0.0"
+document_id: "e0feae5a55c1bde25353b0e05ca7e3e5a0eb43093be99eab71c86daffde3bd6e"
+company_key: "banco-santander-s-a-sponsored-adr-spain"
+company: "Banco Santander S.A. Sponsored ADR (Spain)"
+source_id: "banco-santander-s-a-sponsored-adr-spain-news-import-791ba4096f1f"
+canonical_url: "https://www.santander.com/en/press-room/press-releases/2026/07/q2-2026-santander-bank-results"
+published_at: null
+first_seen_at: "2026-07-24T18:40:15.672503+00:00"
+fetched_at: "2026-07-28T21:37:36.757263+00:00"
+content_hash: "sha256:5413f71868b298e54b1d640ec9a214f0315a8556f706c2e3c68c053c3c446133"
+---
+
+# 2Q 2026 financial results - Santander adds 12 million customers as underlying profit rises 15% to €7.3 billion in the first half
+
+Press Kit
+
+
+Documentation
+
+
+[22-07-2026 Press Release 1.4 MB](https://www.santander.com/content/dam/santander-com/en/documentos/notas-de-prensa/2026/07/q2-banco-santander-earnings-presentation-2026.pdf)
+
+
+[22-07-2026 H1'26 Financial Report 3.8 MB](https://www.santander.com/content/dam/santander-com/en/documentos/resultados-trimestrales/2026/q2/rt-q2-2026-banco-santander-financial-report-en.pdf)
+
+
+[22-07-2026 H1'26 Earnings Presentation 2.2 MB](https://www.santander.com/content/dam/santander-com/en/documentos/resultados-trimestrales/2026/q2/rt-q2-2026-banco-santander-earnings-presentation-en.pdf)
+
+
+[Download Documentation 7.4 MB](https://www.santander.com/content/santander-corporate/san-global/en/sala-de-comunicacion/notas-de-prensa/2026/07/resultados-banco-santander-2t-2026/_jcr_content/root/story/bottomParsys/columns_copy/col_1/press_kit_copy_copy_.pressKitDownloand.json?section=Documentation)
+
+
+Pictures
+
+
+[22-07-2026 Picture in high quality 167.0 KB](https://www.santander.com/content/dam/santander-com/es/contenido-paginas/sala-de-comunicacion/notas-de-prensa/2026/07/im-np-q2-banco-santander-earnings-presentation-2026-desktop.zip)
+
+
+[Download Pictures 167.0 KB](https://www.santander.com/content/santander-corporate/san-global/en/sala-de-comunicacion/notas-de-prensa/2026/07/resultados-banco-santander-2t-2026/_jcr_content/root/story/bottomParsys/columns_copy/col_1/press_kit_copy_copy_.pressKitDownloand.json?section=Pictures)
+
+
+[Communications Santander](https://www.santander.com/en/press-room/press-releases?tagList=santander-corporate:categories/actuality/group)
+
+
+CEST
+
+
+[Linkedin](https://www.linkedin.com/company/banco-santander)
+
+
+[Instagram](https://www.instagram.com/santander.global/)
+
+
+[X](https://x.com/bancosantander)
+
+
+- Underlying **earnings per share** rose 20% \[1\]
+
+
+- **Net interest income** rose 7% and **net fee income** 9%, driven by more customers and higher activity
+
+
+- **CET1 ratio** stood at 14.0% after completing the acquisition of TSB
+
+
+Don't miss these key takeways
+
+
+drop dowm
+
+
+- **Revenue** rose 6% to €30.8 billion, with strong net interest income (NII) and net fee income growth, driven by more customers and increased volumes across global businesses\[2\].
+
+
+- **Loans and customer funds** grew 9% and 11%, respectively, in constant euros, driven by higher customer activity and supported by the incorporation of TSB.
+
+
+- **Total costs** were down (-2% in constant euros excluding TSB), reflecting efficiency gains from ONE Transformation, which continued to deliver structural operating leverage, supporting revenue growth while reducing cost-to-serve.
+
+
+- As a result, the **efficiency ratio** improved to 42.8%, 2.9 percentage points better than a year ago
+
+
+- **Underlying profit** in Q2 reached €3.8 billion, up 17%.
+
+
+- Santander **completed the acquisition of TSB** on 30 April, strengthening its UK franchise with over four million customers, a high-quality deposit base, a low-risk mortgage portfolio and at least £400 million of expected cost synergies.
+
+
+- With the **buybacks** against 2025 results and c.50% of the capital generated from the Poland disposal, as well as the expected c.€1.8 billion buyback against H1’26 results, already approved by the ECB, the bank will have delivered c.€9 billion towards its commitment to distribute at least €10 billion through share buybacks for 2025 and 20263.
+
+
+- Santander is **on track to meet its 2026 targets** , which exclude the impact of M&A: mid-single-digit revenue growth, costs down, both in constant euros; higher profit (vs. €14.1 billion in 2025); and a CET1 ratio of 12.8-13%4.
+
+
+Underlying business performance
+
+
+*All variations are year-on-year unless otherwise stated.*
+
+
+Banco Santander reported a record **underlying profit** of €7,328 million in the first half of 2026, up 15%, driven by strong customer activity and the continued execution of ONE Transformation, that is resulting in lower costs. **Attributable profit** reached €8,973 million, up 31%, including a €1.9 billion net capital gain following the completion of the disposal of Santander Bank Polska in January, partially offset by €250 million of restructuring costs related to the integration of TSB. Underlying results exclude these non-recurring items, providing a consistent view of operating performance.
+
+
+Santander continued to expand its customer base, adding 12 million **customers** over the last twelve months to reach 182 million in total, driven by strong commercial momentum across all businesses, together with the addition of more than four million TSB customers following the acquisition, which was completed on 30 April.
+
+
+We performed strongly in the first half, adding twelve million customers year-on-year. Revenue grew 6% and costs fell, with ONE Transformation driving further improvements in operating leverage and supporting record profits. The successful completion of the TSB acquisition in the UK marks another important milestone in the execution of our strategy. It strengthens our position in one of our core markets, adding scale, high-quality deposits and a low-risk mortgage portfolio, while creating significant opportunities to improve our customer offering and profitability once the integration is complete.
+
+
+Ana Botín, Banco Santander executive chair
+
+
+The bank continued to improve profitability and create value for shareholders, achieving an underlying return on tangible equity ( **RoTE** ) of 15.6% (+0.7 percentage points), with underlying earnings per share ( **EPS** ) up 20%. Tangible net asset value (TNAV) plus cash dividend per share increased 19%, reflecting sustained **value creation** driven by higher profitability and disciplined capital allocation.
+
+
+Business volumes remained strong, with **loans** increasing 9% and **customer funds** (deposits + mutual funds) 11% in constant euros, supported by solid commercial momentum across global businesses and the incorporation of TSB. Excluding TSB, loans increased 5% and customer funds 7% (deposits +5%) in constant euros. Loan growth was driven by mortgages in Retail, auto lending in Openbank and double-digit loan growth in CIB.
+
+
+**Total revenue** increased 6% to €30,847 million, supported by net interest income of €22,711 million (+7%) and net fee income of €6,851 million (+9%), reflecting higher customer activity, deeper customer relationships and business volume growth across all global businesses. More than 95% of group revenue continues to be linked to customer activity, providing resilience in the current interest rate environment.
+
+
+Total **costs** were down (-2% in constant euros excluding TSB), reflecting continued efficiency gains from ONE Transformation, which more than offset inflationary pressures and investments to support business growth. As a result, net operating income increased 12% to €17,636 million, while the efficiency ratio improved by 2.9 percentage points to 42.8%, supported by structurally lower costs and higher revenue.
+
+
+The group also continued to accelerate the deployment of AI across its businesses, generating €84 million of business value (higher revenue, lower costs and lower loan-loss provisions) in the first half through improved customer service, higher productivity and commercial growth.
+
+
+**Loan-loss provisions** increased 9%, mainly reflecting broader market trends in Argentina; excluding this impact, provisions were broadly stable. Credit quality remained solid, with cost of risk at 1.15%, supported by prudent risk management, diversified exposure and historically low unemployment levels across most of the bank's markets. The non-performing loan ratio improved to 2.93% versus the previous quarter (-7 basis points), remaining at historically low levels, with a coverage ratio of 64%.
+
+
+The **CET1 capital ratio** reached 14.0%. Excluding the -55 basis point impact from the TSB acquisition completed on 30 April, the group generated 20 basis points of capital in the quarter through strong organic capital generation. Taking into account the expected impact of the Webster acquisition, Santander remains well positioned to meet its year-end CET1 target between 12.8% and 13%, at the high end of its 12-13% operating range.
+
+
+Santander continued to deliver attractive **shareholder returns** , with TNAV plus cash dividend per share up 19%. During the first half, the bank completed the payment of the 2025 cash dividend of 24 euro cents per share, up 14% year-on-year, and continued executing the €5.0 billion share buyback programme announced in February, including the additional distribution linked to the Poland disposal.
+
+
+Including the share buyback programme currently underway and the **expected c.€1.8 billion share buyback programme** against H1 2026 earnings, Santander will have delivered c.€9 billion towards its plan to distribute at least €10 billion through share buybacks for 2025 and 2026\[3\]. The implementation of the programme against H1 2026 results, which has already been approved by the ECB, is subject to the corresponding corporate approvals and its terms will be communicated in due course following approval.
+
+
+Héctor Grisi, chief executive officer, Banco Santander
+
+
+Outlook
+
+
+Santander reiterates all its 2026 targets, which exclude the impact of M&A in 2025 and 2026. These targets include mid-single-digit revenue growth and lower costs in constant euros, higher profit than the €14.1 billion reported in 2025, and a CET1 ratio between 12.8% and 13%. Revenue growth is expected to continue to be supported by customer activity, with net fee income growing faster than net interest income, while cost discipline and ONE Transformation will continue to drive positive operating leverage.
+
+
+Santander also reiterates its three-year plan as outlined at its Investor Day last February: by 2028, the group targets a RoTE above 20%, profit above €20 billion and more than 210 million customers\[4\], supported by scale, network effects and continued improvements in productivity and capital allocation.
+
+
+Global businesses (H1 2026 vs H1 2025)
+
+
+*To better reflect the performance of each business, the year-on-year changes provided below are presented in constant euros unless stated otherwise. Variations in current euros are available in the financial report.*
+
+
+**Retail & Commercial Banking** ’s underlying profit grew 12% to €4,124 million (+10% excluding TSB), supported by strong commercial momentum, higher fee income, lower costs (-3% or -5% excluding TSB) and efficiency gains from the common operating model. Loans grew by 9% (+2% excluding TSB), with expansion across most segments, mainly driven by higher mortgage lending, while deposits rose by 13% (+6% excluding TSB), reflecting strong customer activity across its footprint. ONE Transformation continues to progress at pace, with product digitalization driving digital sales (+21%) and the customer interaction platform now ready for rollout in Spain. RoTE stood at 17.1%.
+
+
+**Openbank.** Digital Consumer Bank was renamed Openbank in the first quarter of 2026, reflecting the integration of Santander's global consumer finance businesses and its digital bank. Recurrent profit before tax reached €1,651 million, +15%, excluding the UK motor finance provisions, supported by strong growth in both net interest income and fee income. Underlying profit amounted to €827 million, affected by the UK motor finance provisions and the end of electric vehicle tax incentives in the US in 2025. The efficiency ratio and cost of risk stood at 41.6% and 2.09%, respectively. Loans increased 3%, driven by auto lending in Europe and Latin America, while deposits rose 3%, underpinned by continued focus on funding optimization.
+
+
+**CIB** reported an underlying profit of €1,742 million (+17%), driven by strong revenue growth (+16%) across all business lines. Global Banking and Global Markets were the main contributors, reflecting the continued success of their growth initiatives. The disciplined execution of the strategy, focused on growing advisory and capital-light businesses, further improved profitability, with RoTE at 20.3%, while the efficiency ratio improved to 40.8%.
+
+
+**Wealth Management & Insurance,** which includes the Private Banking and Insurance & Asset Management Solutions businesses, increased its underlying profit by 19% to €1,083 million, with fee income up 11% backed by strong client inflows and focus on value-added activities. Assets under management (AuMs) reached new record levels of €581 billion (+13%), driven by solid commercial activity and market performance. Private Banking customer assets and liabilities (CAL) increased 15%, while Insurance gross written premiums rose 11%.
+
+
+**Payments,** which brings together the group’s digital payment capabilities and provides global technology solutions to Santander businesses and third-party clients, generated an underlying profit of €78 million, driven by strong revenue growth as it continued to scale its global platforms and expand its integrated payments ecosystem. Getnet’s total payments volume increased 10%; Getnet Platforms processed 9 billion account-to-account and card transactions in the year, five times more than a year earlier, and Ebury increased its active customers by 28% to over 28,000. The EBITDA margin improved by 3.8 percentage points to 32.6%, reflecting the benefits of greater scale and operating leverage.
+
+
+**Banco Santander** is one of the world's largest banks, with 185,000 employees, serving 182 million customers, 3.5 million shareholders and a market capitalization of €178 billion at the end of June 2026.
+
+
+\[1\] Figures are presented on a basis reflecting the changes made to the presentation of the Group’s financial information, effective from the first quarter of 2026 and communicated through Other Relevant Information filed with CNMV on 10 February. Group underlying profit excludes: i) restructuring costs related to TSB in Q2’26 (-€250mn); ii) the capital gain resulting from the disposal of the Poland business in Q1'26 (€1,895mn); and iii) results related to the business subject to the Poland disposal in H1'25 (€456mn). In the Group's consolidated balance sheet, balances as at 30 June 2026 include TSB, affecting comparisons with prior periods.
+
+
+\[2\] All figures are year-on-year unless otherwise stated. Volumes (lending, deposits, etcetera) in constant euros. Reconciliation of underlying results to statutory results, available in the ‘Alternative Performance Measures’ section of the financial report at CNMV and at[santander.com](https://www.santander.com/en/shareholders-and-investors/financial-and-economic-information/quarterly-results) .
+
+
+\[3\] Total share buybacks as of H1’26 including: i) €1.7bn share buyback against H1’25 results (completed); ii) €1.8bn share buyback against H2’25 results (underway); and iii) €3.2bn additional share buyback to distribute approx. 50% of the CET1 capital generated following the completion of the sale of 49% of Santander Bank Polska to Erste Group on 9 January 2026 (underway). In addition, the ECB has approved a €1.8bn share buyback against H1'26 results. The implementation of the programme against H1'26 results is subject to the corresponding corporate approvals and its terms will be communicated in due course following approval.
+
+
+\[4\] Targets market dependent. Based on macro assumptions aligned with international economic institutions. Targets assuming cost of risk stable. 2026 targets are set excluding Poland, TSB and Webster. CET1 ratio targets including all the impacts from inorganic transactions.
+
+
+[Download full press release 1.4 MB](https://www.santander.com/content/dam/santander-com/en/documentos/notas-de-prensa/2026/07/q2-banco-santander-earnings-presentation-2026.pdf)
+
+
+[download image 167.0 KB](https://www.santander.com/content/dam/santander-com/es/contenido-paginas/sala-de-comunicacion/notas-de-prensa/2026/07/im-np-q2-banco-santander-earnings-presentation-2026-desktop.zip)
+
+
+## 2025 Annual Review
+
+
+Results, strategy and messages to shareholders from the Executive Chair and CEO
+
+
+[Find out more](https://www.santanderannualreport.com/2025/en/)
+
+
+### Did you like the content you just read? Rate it!
+
+
+Your response is completely anonymous and confidential
+
+
+Thank you for helping us improve!
+
+
+[Corporate Events](https://www.santander.com/en/stories/-corporateevents)

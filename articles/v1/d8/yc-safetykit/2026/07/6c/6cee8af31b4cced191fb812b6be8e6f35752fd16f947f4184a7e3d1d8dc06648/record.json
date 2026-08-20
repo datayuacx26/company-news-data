@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6cee8af31b4cced191fb812b6be8e6f35752fd16f947f4184a7e3d1d8dc06648",
+  "company": {
+    "key": "yc-safetykit",
+    "name": "SafetyKit"
+  },
+  "source": {
+    "id": "yc-safetykit-news-import-5b3167bc4180",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.safetykit.com/news/openai-introduces-safety-models-in-collaboration-with-safetykit",
+    "canonical": "https://www.safetykit.com/news/openai-introduces-safety-models-in-collaboration-with-safetykit"
+  },
+  "title": "SafetyKit | OpenAI Introduces Safety Models in Collaboration with SafetyKit",
+  "summary": "OpenAI announced two safety models (gpt-oss-safeguard-120b and gpt-oss-safeguard-20b) for classifying online safety harms. Developed with ROOST, SafetyKit, and Discord these models let developers configure safety policies for their platforms.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T00:33:31.051550+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T02:38:30.773468+00:00",
+  "paths": {
+    "article": "articles/v1/d8/yc-safetykit/2026/07/6c/6cee8af31b4cced191fb812b6be8e6f35752fd16f947f4184a7e3d1d8dc06648/article.md",
+    "record": "articles/v1/d8/yc-safetykit/2026/07/6c/6cee8af31b4cced191fb812b6be8e6f35752fd16f947f4184a7e3d1d8dc06648/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2850,
+    "sha256": "sha256:11efe43b722d1ec8c669276bc7850883a57a6ae7530788744d1796f52d78db3b",
+    "normalized_content_hash": "sha256:95491aaac5038fd14b69b5bb806b2d32ceea1c3ba3d7ed7fcc0f84769ceb71f0"
+  },
+  "provenance": {
+    "source_item_id": "664aea80-93be-40a7-a63f-dbe9525a65f8",
+    "external_id": "https://www.safetykit.com/news/openai-introduces-safety-models-in-collaboration-with-safetykit"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "vuzix-corporation-common-stock",
+    "name": "Vuzix Corporation"
+  },
+  "record_count": 34,
+  "first_published_at": "2022-02-01T16:08:00+00:00",
+  "last_published_at": "2026-08-18T08:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2022-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2022-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ef/vuzix-corporation-common-stock/index/pages/000001.json",
+        "record_count": 34,
+        "byte_count": 38600,
+        "sha256": "sha256:5a518348bfc8a50a8ba729c6f4f66d388aac360c32a41838c9cfb4ba0fb93878",
+        "newest_at": "2026-08-18T08:01:00+00:00",
+        "oldest_at": "2022-02-01T16:08:00+00:00"
+      }
+    ]
+  }
+}

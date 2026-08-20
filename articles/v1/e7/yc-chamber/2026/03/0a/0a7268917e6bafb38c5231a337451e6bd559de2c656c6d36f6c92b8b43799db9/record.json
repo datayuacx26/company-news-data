@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0a7268917e6bafb38c5231a337451e6bd559de2c656c6d36f6c92b8b43799db9",
+  "company": {
+    "key": "yc-chamber",
+    "name": "Chamber"
+  },
+  "source": {
+    "id": "yc-chamber-news-import-3bd200813650",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.usechamber.io/blog/how-to-monitor-gpu-utilization-kubernetes",
+    "canonical": "https://usechamber.io/blog/how-to-monitor-gpu-utilization-kubernetes"
+  },
+  "title": "How to Monitor GPU Utilization in Kubernetes",
+  "summary": "Deploy GPU monitoring in Kubernetes with DCGM Exporter, Prometheus, and Grafana. See how Chamber provides out-of-the-box GPU observability with zero setup.",
+  "published_at": "2026-03-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:55:17.000424+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-20T00:08:53.036791+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-chamber/2026/03/0a/0a7268917e6bafb38c5231a337451e6bd559de2c656c6d36f6c92b8b43799db9/article.md",
+    "record": "articles/v1/e7/yc-chamber/2026/03/0a/0a7268917e6bafb38c5231a337451e6bd559de2c656c6d36f6c92b8b43799db9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22864,
+    "sha256": "sha256:b99e57cc8db8a34f165761ed3e8a60a832dada9cc4d7f268dafcb7291fc1cdb9",
+    "normalized_content_hash": "sha256:bef2ea4ce6669467d6f23b81a01049283a1682dd40d2a5b381f8f3798186e5a2"
+  },
+  "provenance": {
+    "source_item_id": "94f338a1-8e8a-41b3-a61f-9c1019007918",
+    "external_id": "https://usechamber.io/blog/how-to-monitor-gpu-utilization-kubernetes"
+  }
+}

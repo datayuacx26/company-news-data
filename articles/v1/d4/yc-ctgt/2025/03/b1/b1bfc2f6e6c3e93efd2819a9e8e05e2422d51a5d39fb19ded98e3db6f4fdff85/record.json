@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1bfc2f6e6c3e93efd2819a9e8e05e2422d51a5d39fb19ded98e3db6f4fdff85",
+  "company": {
+    "key": "yc-ctgt",
+    "name": "CTGT"
+  },
+  "source": {
+    "id": "yc-ctgt-news-import-358f70d55d44",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ctgt.ai/research/a-feature-level-approach-to-mitigating-bias-and-censorship-in-deepseek-r1",
+    "canonical": "https://www.ctgt.ai/research/a-feature-level-approach-to-mitigating-bias-and-censorship-in-deepseek-r1"
+  },
+  "title": "A Feature-Level Approach to Mitigating Bias and Censorship in DeepSeek-R1",
+  "summary": "Bias and censorship in AI models restrict valid responses and reduce their overall usefulness, as seen in DeepSeek-R1 and similar models. Post-training fine-tuning and reinforcement learning aim to improve safety but frequently result in over-censorship, adding inefficiencies and limiting adap",
+  "published_at": "2025-03-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:23:44.579296+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T15:32:18.305730+00:00",
+  "paths": {
+    "article": "articles/v1/d4/yc-ctgt/2025/03/b1/b1bfc2f6e6c3e93efd2819a9e8e05e2422d51a5d39fb19ded98e3db6f4fdff85/article.md",
+    "record": "articles/v1/d4/yc-ctgt/2025/03/b1/b1bfc2f6e6c3e93efd2819a9e8e05e2422d51a5d39fb19ded98e3db6f4fdff85/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5457,
+    "sha256": "sha256:95027892c334916fefd9312748858a46f7e14214aebad99dc33194eeedb0b792",
+    "normalized_content_hash": "sha256:7f726ca7b6aba238ab00608d8af800c2991d0fc613837830f7677f16e2c0a6b1"
+  },
+  "provenance": {
+    "source_item_id": "e4cd02e6-e4e6-494b-8fa7-dcc2f17e057b",
+    "external_id": "https://www.ctgt.ai/research/a-feature-level-approach-to-mitigating-bias-and-censorship-in-deepseek-r1"
+  }
+}

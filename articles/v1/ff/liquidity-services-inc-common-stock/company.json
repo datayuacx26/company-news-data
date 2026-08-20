@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "liquidity-services-inc-common-stock",
+    "name": "Liquidity Services Inc."
+  },
+  "record_count": 26,
+  "first_published_at": "2026-01-22T19:11:47+00:00",
+  "last_published_at": "2026-08-13T13:07:19+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ff/liquidity-services-inc-common-stock/index/pages/000001.json",
+        "record_count": 26,
+        "byte_count": 31101,
+        "sha256": "sha256:8b5adb2882f3b653084936d496082e6fe9f44abdb398bf776922b669caa3be10",
+        "newest_at": "2026-08-13T13:07:19+00:00",
+        "oldest_at": "2026-01-22T19:11:47+00:00"
+      }
+    ]
+  }
+}

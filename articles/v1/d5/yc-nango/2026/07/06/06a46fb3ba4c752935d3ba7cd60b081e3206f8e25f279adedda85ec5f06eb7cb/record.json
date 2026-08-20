@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "06a46fb3ba4c752935d3ba7cd60b081e3206f8e25f279adedda85ec5f06eb7cb",
+  "company": {
+    "key": "yc-nango",
+    "name": "Nango"
+  },
+  "source": {
+    "id": "yc-nango-news-import-e2ee807d6673",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nango.dev/blog/fix-sage-intacct-oauth-token-invalid-refresh-failures",
+    "canonical": "https://nango.dev/blog/fix-sage-intacct-oauth-token-invalid-refresh-failures/"
+  },
+  "title": "How to fix Sage Intacct OAuth error: Token is not valid",
+  "summary": "Diagnose Sage Intacct \"Token is not valid\" and OAuth refresh failures, including an undocumented grant invalidation behavior.",
+  "published_at": "2026-07-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T05:47:37.490057+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-19T19:00:47.317759+00:00",
+  "paths": {
+    "article": "articles/v1/d5/yc-nango/2026/07/06/06a46fb3ba4c752935d3ba7cd60b081e3206f8e25f279adedda85ec5f06eb7cb/article.md",
+    "record": "articles/v1/d5/yc-nango/2026/07/06/06a46fb3ba4c752935d3ba7cd60b081e3206f8e25f279adedda85ec5f06eb7cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12600,
+    "sha256": "sha256:4ab89bd8c016a78e068b1b6ed0143a661b080c504c92ec21df1f0aa111d2234b",
+    "normalized_content_hash": "sha256:05d4b46b44ece1fda0fe0d19a2ba949f33a953ec769786855e7172df96959ff8"
+  },
+  "provenance": {
+    "source_item_id": "d95aa0e8-1233-4159-9003-3eb4efbfdc97",
+    "external_id": "https://nango.dev/blog/fix-sage-intacct-oauth-token-invalid-refresh-failures/"
+  }
+}

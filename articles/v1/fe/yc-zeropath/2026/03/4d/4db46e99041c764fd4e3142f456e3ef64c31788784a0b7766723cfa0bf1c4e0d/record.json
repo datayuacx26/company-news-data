@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4db46e99041c764fd4e3142f456e3ef64c31788784a0b7766723cfa0bf1c4e0d",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/aptos-labs-rust-ai-application-security",
+    "canonical": "https://zeropath.com/blog/aptos-labs-rust-ai-application-security"
+  },
+  "title": "How Aptos Labs Scales Application Security Across 1M+ Lines of Rust with AI-Powered SAST",
+  "summary": "How Aptos Labs automated security testing across 70 engineers, accelerated vulnerability discovery by 8x, and saved 20+ hours per week with AI-powered SAST on Rust codebases.",
+  "published_at": "2026-03-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:50:52.708520+00:00",
+  "fetched_at": "2026-07-28T22:18:58.238043+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/03/4d/4db46e99041c764fd4e3142f456e3ef64c31788784a0b7766723cfa0bf1c4e0d/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/03/4d/4db46e99041c764fd4e3142f456e3ef64c31788784a0b7766723cfa0bf1c4e0d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10050,
+    "sha256": "sha256:664f4a882ecec5c59132091c6534df8a495bbea535c51f7524faae0a75dd4605",
+    "normalized_content_hash": "sha256:761215781a2eed13b9d43c9c949ff8de4a7dcf9daee9ff44c212b0f4687a82e8"
+  },
+  "provenance": {
+    "source_item_id": "b3882f7f-ad04-4ce7-bb52-c4c856ba3941",
+    "external_id": "https://zeropath.com/blog/aptos-labs-rust-ai-application-security"
+  }
+}

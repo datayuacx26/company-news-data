@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2b786372e6b3c07119a697021e9e86c25d464bf549fd1c2e2e3944de1b2b6094",
+  "company": {
+    "key": "yc-brex",
+    "name": "Brex"
+  },
+  "source": {
+    "id": "yc-brex-news-import-5eb786253ae8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brex.com/journal/building-autonomous-agents-for-technical-tasks",
+    "canonical": "https://www.brex.com/journal/building-autonomous-agents-for-technical-tasks"
+  },
+  "title": "Building autonomous agents for technical tasks: 5 lessons learned",
+  "summary": "Brex built a general-purpose template for delegating engineering work to agents with confidence. Here's how we did it and what we learned.",
+  "published_at": "2026-04-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:29:48.523536+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T02:32:36.103129+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-brex/2026/04/2b/2b786372e6b3c07119a697021e9e86c25d464bf549fd1c2e2e3944de1b2b6094/article.md",
+    "record": "articles/v1/f0/yc-brex/2026/04/2b/2b786372e6b3c07119a697021e9e86c25d464bf549fd1c2e2e3944de1b2b6094/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7370,
+    "sha256": "sha256:bf37c77bba2d3966696a7dfc561b57f2ee7d317cd450365ef28cf3c879cd2ba5",
+    "normalized_content_hash": "sha256:2f2707f9f3cd26b82fc6d6fb8175b149d53bf243f25898baa5d790959c0d3cfb"
+  },
+  "provenance": {
+    "source_item_id": "d341b3a4-1d61-42bf-a34e-f8421403dd21",
+    "external_id": "https://www.brex.com/journal/building-autonomous-agents-for-technical-tasks"
+  }
+}

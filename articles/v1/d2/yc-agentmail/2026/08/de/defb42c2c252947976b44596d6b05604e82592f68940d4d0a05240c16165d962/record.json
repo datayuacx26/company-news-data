@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "defb42c2c252947976b44596d6b05604e82592f68940d4d0a05240c16165d962",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/email-api-vs-inbox-api",
+    "canonical": "https://www.agentmail.to/blog/email-api-vs-inbox-api"
+  },
+  "title": "Email API vs Inbox API: What AI Agents Actually Need",
+  "summary": "An email API sends a message and moves on. An inbox API provisions a mailbox your agent owns, with an address, durable storage, automatic threading, and an identity people can reply to. When each fits, and where the send-first model falls apart for AI agents.",
+  "published_at": "2026-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-08T03:21:49.802515+00:00",
+  "fetched_at": "2026-08-08T03:21:53.866935+00:00",
+  "last_updated_at": "2026-08-20T02:25:07.860354+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/08/de/defb42c2c252947976b44596d6b05604e82592f68940d4d0a05240c16165d962/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/08/de/defb42c2c252947976b44596d6b05604e82592f68940d4d0a05240c16165d962/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7884,
+    "sha256": "sha256:0b73f1446eb9e0c41d1e9d7397bbe04f50c47e68ce982b3a03e9e9edb291f73d",
+    "normalized_content_hash": "sha256:54083212bbd61016f8f6d13ba1e550e45dcc538d707eeef939c1348a5b448796"
+  },
+  "provenance": {
+    "source_item_id": "24504022-d2ba-41da-8254-8a9289449295",
+    "external_id": "https://www.agentmail.to/blog/email-api-vs-inbox-api"
+  }
+}

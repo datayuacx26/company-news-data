@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a20a553bde5399b8595777061ccd20456ab6eb78bdbebb4bb8acabb80d41579",
+  "company": {
+    "key": "yc-luciq",
+    "name": "Luciq (formerly Instabug)"
+  },
+  "source": {
+    "id": "yc-luciq-news-import-4fda431b7a4e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.luciq.ai/blog/clickhouse-s3-write-cost-reduction",
+    "canonical": "https://www.luciq.ai/blog/clickhouse-s3-write-cost-reduction"
+  },
+  "title": "Born Expired: How We Cut ClickHouse's S3 Write Bill by ~92%",
+  "summary": "How we cut ClickHouse's S3 PUT bill by ~92% with two metadata-only ALTERs, by fixing Wide parts and an event-time TTL that made late data born expired.",
+  "published_at": "2026-08-10T15:21:08.484+00:00",
+  "first_seen_at": "2026-08-10T16:35:36.656622+00:00",
+  "fetched_at": "2026-08-10T16:35:38.651435+00:00",
+  "last_updated_at": "2026-08-19T20:51:58.819495+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-luciq/2026/08/3a/3a20a553bde5399b8595777061ccd20456ab6eb78bdbebb4bb8acabb80d41579/article.md",
+    "record": "articles/v1/c0/yc-luciq/2026/08/3a/3a20a553bde5399b8595777061ccd20456ab6eb78bdbebb4bb8acabb80d41579/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24537,
+    "sha256": "sha256:72ee94ad9ff20e3d95834533f330b6ce6f4a4cc2d5d26ca59c4000520dfe6e9f",
+    "normalized_content_hash": "sha256:c14a5b7197ba78b98c99b3f5b85533f4e1f69fa8b0633597e16be392c36eb73e"
+  },
+  "provenance": {
+    "source_item_id": "ba9bed31-dc77-432a-ba7c-f016ad4343d7",
+    "external_id": "https://www.luciq.ai/blog/clickhouse-s3-write-cost-reduction"
+  }
+}

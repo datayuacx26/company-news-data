@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c4287dade387a5f40afb24ecf6146a55fd4e7ab7b32f776de3602928113f5ffd",
+  "company": {
+    "key": "yc-estimote-inc",
+    "name": "Estimote, Inc."
+  },
+  "source": {
+    "id": "yc-estimote-inc-rss-9f8374160089",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.estimote.com/post/168674042150",
+    "canonical": "https://blog.estimote.com/post/168674042150"
+  },
+  "title": "Estimote Cloud Attachments API: store context in the cloud, less in your app!",
+  "summary": "In 2016, we introduced the Beacon Storage API allowing developers the opportunity to store small amounts of data within the built-in memory of each Estimote Location Beacon. This feature lets you share data with nearby customers, and display text or images coming directly from the beacon. It’s a perfect solution where internet connectivity is spotty and you don’t need to store a lot of data. An alternative is to have your app either include that data, or fetch it remotely from the cloud. That means either hard-coding the info in the app—which doesn’t scale—or relying on an external service to store it. We’re constantly looking to improve the experience for our developers, shorten the development time, and make maintaining apps a breeze. Today we’re helping with that: introducing our Estimote Cloud Attachments API. If you haven’t used external cloud services (e.g. Firebase or Deployd) or your own backend before, you can use this API to associate your own data with a beacon, and then use this contextual information to enhance the experience for your users. Embedding Cloud Attachments API service could also decrease the complexity of your application — fewer dependencies are always better. It can also save you time by maintaining smaller number of external services. Another advantage of using Cloud Attachments API is that you don’t need to hardcode data in your app anymore. It helps with maintenance and updates. Here is a snippet of code showing how to use attachments: // create an attachment curl -X POST 'https://cloud.estimote.com/v3/attachments' \\ -u YOUR_APP_ID:YOUR_APP_TOKEN -H",
+  "published_at": "2018-02-14T13:06:23+00:00",
+  "first_seen_at": "2026-07-27T09:08:36.947635+00:00",
+  "fetched_at": "2026-07-28T22:26:53.665310+00:00",
+  "last_updated_at": "2026-08-20T02:01:02.117877+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-estimote-inc/2018/02/c4/c4287dade387a5f40afb24ecf6146a55fd4e7ab7b32f776de3602928113f5ffd/article.md",
+    "record": "articles/v1/f0/yc-estimote-inc/2018/02/c4/c4287dade387a5f40afb24ecf6146a55fd4e7ab7b32f776de3602928113f5ffd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5218,
+    "sha256": "sha256:5d288ea36ac13d462b02bef3617cffc4a016953200472fe4d1ec84acdd2caa08",
+    "normalized_content_hash": "sha256:57769c716979e79019310b0bc524dee35e018a9282c8a85d27a46ea1bc697504"
+  },
+  "provenance": {
+    "source_item_id": "c6f211ef-2266-427f-80eb-91b935e77489",
+    "external_id": "https://blog.estimote.com/post/168674042150"
+  }
+}

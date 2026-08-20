@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "phillips-edison-company-inc-common-stock",
+    "name": "Phillips Edison & Company Inc."
+  },
+  "record_count": 12,
+  "first_published_at": "2026-02-23T21:05:00+00:00",
+  "last_published_at": "2026-08-05T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fb/phillips-edison-company-inc-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 28316,
+        "sha256": "sha256:dd985e91138ed90d3a81f7e984cd48cc805e7b69ef4e7250ba4afa6212ee24fc",
+        "newest_at": "2026-08-05T20:05:00+00:00",
+        "oldest_at": "2026-02-23T21:05:00+00:00"
+      }
+    ]
+  }
+}

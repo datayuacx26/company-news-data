@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "200799915df641f900fe486e1b269ed81eaff634e9e0033b3257738fe9173b45",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/build-reusable-ai-agent-integrations-across-frameworks",
+    "canonical": "https://corsair.dev/blog/build-reusable-ai-agent-integrations-across-frameworks"
+  },
+  "title": "How to Build AI Agent Integrations Once and Reuse Them Across Multiple Frameworks",
+  "summary": "Building the same Slack, Gmail, GitHub, or CRM integration for every AI agent framework creates unnecessary authentication and maintenance work. Learn how to separate your integration layer from framework-specific adapters so you can build integrations once and reuse them across multiple frameworks.",
+  "published_at": "2026-08-13T16:11:00+00:00",
+  "first_seen_at": "2026-08-13T18:32:28.639378+00:00",
+  "fetched_at": "2026-08-13T18:32:29.571414+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/08/20/200799915df641f900fe486e1b269ed81eaff634e9e0033b3257738fe9173b45/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/08/20/200799915df641f900fe486e1b269ed81eaff634e9e0033b3257738fe9173b45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11361,
+    "sha256": "sha256:aef6a5d6bc0e7844849968bb4b6a74d7f1e40f3336530632ba50c843d22eb3c5",
+    "normalized_content_hash": "sha256:a7f00195c511b88ef7f712b20d80551b28db99b536b12346475ef892e7d2a8b9"
+  },
+  "provenance": {
+    "source_item_id": "80a01556-f83f-4201-8ce6-4182f3928b36",
+    "external_id": "https://corsair.dev/blog/build-reusable-ai-agent-integrations-across-frameworks"
+  }
+}

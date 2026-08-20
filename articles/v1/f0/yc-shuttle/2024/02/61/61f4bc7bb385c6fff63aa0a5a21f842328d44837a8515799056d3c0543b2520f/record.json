@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61f4bc7bb385c6fff63aa0a5a21f842328d44837a8515799056d3c0543b2520f",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/02/28/rag-llm-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/02/28/rag-llm-rust"
+  },
+  "title": "Building a RAG Web Service with Qdrant and Rust",
+  "summary": "Diving into Retrieval Augmented Generation to help enhance your web applications",
+  "published_at": "2024-02-28T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:14.489943+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/02/61/61f4bc7bb385c6fff63aa0a5a21f842328d44837a8515799056d3c0543b2520f/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/02/61/61f4bc7bb385c6fff63aa0a5a21f842328d44837a8515799056d3c0543b2520f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21402,
+    "sha256": "sha256:817144338fe1592666a33c740b5203de67a657c183294902674680ce0076ddab",
+    "normalized_content_hash": "sha256:d155cf66855dd74b65a207fc7b04661bdfe6c194ee6cd5b3dea2ed1f88aaa3b1"
+  },
+  "provenance": {
+    "source_item_id": "0ee19af7-d270-4090-b889-4cd2599042f7",
+    "external_id": "https://www.shuttle.dev/blog/2024/02/28/rag-llm-rust"
+  }
+}

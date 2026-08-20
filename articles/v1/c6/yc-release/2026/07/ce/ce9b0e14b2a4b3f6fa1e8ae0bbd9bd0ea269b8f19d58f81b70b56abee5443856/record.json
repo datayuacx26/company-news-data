@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ce9b0e14b2a4b3f6fa1e8ae0bbd9bd0ea269b8f19d58f81b70b56abee5443856",
+  "company": {
+    "key": "yc-release",
+    "name": "Release"
+  },
+  "source": {
+    "id": "yc-release-news-import-be48e1d74beb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://release.com/blog/configuring-5-minute-timeout-cloudfront-alb-nginx-ingress",
+    "canonical": "https://release.com/blog/configuring-5-minute-timeout-cloudfront-alb-nginx-ingress"
+  },
+  "title": "Configuring a 5-Minute Timeout in CloudFront → ALB Ingress → Nginx Ingress",
+  "summary": "Learn how to properly configure 5-minute timeouts across CloudFront, AWS Application Load Balancer (ALB), and Nginx Ingress in Kubernetes to support long-running requests like AI/ML workloads.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T10:54:59.054180+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T22:59:48.848313+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-release/2026/07/ce/ce9b0e14b2a4b3f6fa1e8ae0bbd9bd0ea269b8f19d58f81b70b56abee5443856/article.md",
+    "record": "articles/v1/c6/yc-release/2026/07/ce/ce9b0e14b2a4b3f6fa1e8ae0bbd9bd0ea269b8f19d58f81b70b56abee5443856/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9177,
+    "sha256": "sha256:a374bc6fbe604d90da3c685dec5e7a9a716f435ef24413e9e1360e479dab2a4d",
+    "normalized_content_hash": "sha256:0ed1463fdad3a639c2d6610fb2892b5b3fea0bd07f2ee5b3ede40fb8d8ab2915"
+  },
+  "provenance": {
+    "source_item_id": "2b5531d8-de27-428f-b42d-d40edc83d2cc",
+    "external_id": "https://release.com/blog/configuring-5-minute-timeout-cloudfront-alb-nginx-ingress"
+  }
+}

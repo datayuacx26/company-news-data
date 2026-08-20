@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "amprius-technologies-inc-common-stock",
+    "name": "Amprius Technologies Inc."
+  },
+  "record_count": 63,
+  "first_published_at": "2022-11-02T16:30:39+00:00",
+  "last_published_at": "2026-08-10T16:55:10+00:00",
+  "partitions": [
+    {
+      "partition": "2022-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ea/amprius-technologies-inc-common-stock/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 58558,
+        "sha256": "sha256:c2bd568416794eff3bd55cb03980e3aee772346a96f4359c3a43e64fcea176fe",
+        "newest_at": "2026-08-10T16:55:10+00:00",
+        "oldest_at": "2024-07-21T20:44:57+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/ea/amprius-technologies-inc-common-stock/index/pages/000002.json",
+        "record_count": 13,
+        "byte_count": 14202,
+        "sha256": "sha256:812efcd54927b469738e0595c1f9de15f145e811d7e6f748a025cb5c5486a219",
+        "newest_at": "2024-05-06T23:58:54+00:00",
+        "oldest_at": "2022-11-02T16:30:39+00:00"
+      }
+    ]
+  }
+}

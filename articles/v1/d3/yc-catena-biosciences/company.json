@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-catena-biosciences",
+    "name": "Catena Biosciences"
+  },
+  "record_count": 3,
+  "first_published_at": "2023-09-15T18:31:31+00:00",
+  "last_published_at": "2024-04-09T20:41:01+00:00",
+  "partitions": [
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d3/yc-catena-biosciences/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 4198,
+        "sha256": "sha256:00c318e1cbd4378c98c326db26bf633370978e07db6716034113fe361cad1df6",
+        "newest_at": "2024-04-09T20:41:01+00:00",
+        "oldest_at": "2023-09-15T18:31:31+00:00"
+      }
+    ]
+  }
+}

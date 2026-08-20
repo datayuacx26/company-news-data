@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e58cbf759b6e596d2d8325fa15716cc76d183dd04de7be2d680fc2646731563",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/product/cloud-storage-vs-working-directories-ai-agents",
+    "canonical": "https://www.freestyle.sh/blog/product/cloud-storage-vs-working-directories-ai-agents"
+  },
+  "title": "Cloud Storage vs Working Directories for AI Agents",
+  "summary": "AI agents need object storage for durable artifacts, but their active work belongs in a real Linux working directory with processes, terminals, ports, and lifecycle.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:54:28.432730+00:00",
+  "fetched_at": "2026-07-28T21:23:24.617893+00:00",
+  "last_updated_at": "2026-07-28T21:24:26.410391+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/9e/9e58cbf759b6e596d2d8325fa15716cc76d183dd04de7be2d680fc2646731563/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/9e/9e58cbf759b6e596d2d8325fa15716cc76d183dd04de7be2d680fc2646731563/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10605,
+    "sha256": "sha256:a3d4b25f8cd2d15d6210befbe3575918d77a9e05e6689f7bde7f2f9f9864c76a",
+    "normalized_content_hash": "sha256:c9b8231659b4b68f0abd7610c3e27c42f0117ef6bc78c673e0baee0d4de5eae2"
+  },
+  "provenance": {
+    "source_item_id": "2a5ad571-f948-4092-a3ba-8ccea5e83152",
+    "external_id": "https://www.freestyle.sh/blog/product/cloud-storage-vs-working-directories-ai-agents"
+  }
+}

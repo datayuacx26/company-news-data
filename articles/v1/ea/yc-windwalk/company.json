@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-windwalk",
+    "name": "Windwalk"
+  },
+  "record_count": 7,
+  "first_published_at": "2024-06-20T10:10:02+00:00",
+  "last_published_at": "2026-03-24T14:42:43+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ea/yc-windwalk/index/pages/000001.json",
+        "record_count": 7,
+        "byte_count": 6764,
+        "sha256": "sha256:f0734195e6770d59e1d303887a397d3e4bfbf5c5a78eca9cde1df5ae0747a471",
+        "newest_at": "2026-03-24T14:42:43+00:00",
+        "oldest_at": "2024-06-20T10:10:02+00:00"
+      }
+    ]
+  }
+}

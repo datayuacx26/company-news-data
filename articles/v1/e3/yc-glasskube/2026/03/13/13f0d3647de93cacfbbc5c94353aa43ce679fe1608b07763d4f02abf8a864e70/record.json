@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "13f0d3647de93cacfbbc5c94353aa43ce679fe1608b07763d4f02abf8a864e70",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/support-bundles/",
+    "canonical": "https://distr.sh/blog/support-bundles/"
+  },
+  "title": "Support Bundles: Structured Diagnostics Without Giving Up SSH",
+  "summary": "When your software runs in a customer environment, debugging means asking them to paste logs in Slack. Support Bundles replace that with a single command that collects exactly what you need.",
+  "published_at": "2026-03-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:26:23.229623+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2026/03/13/13f0d3647de93cacfbbc5c94353aa43ce679fe1608b07763d4f02abf8a864e70/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2026/03/13/13f0d3647de93cacfbbc5c94353aa43ce679fe1608b07763d4f02abf8a864e70/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5492,
+    "sha256": "sha256:7522858c4b8c4d68e8acabbf25977e49d6defd1f5d30d60e7b9fa58bdb3bc073",
+    "normalized_content_hash": "sha256:ac519d6d56918a56ebe49de4fc9ac50c932d0440a1e0e11d79380e09d3e48831"
+  },
+  "provenance": {
+    "source_item_id": "a0f02df7-b59a-4437-9b37-f695970f97c4",
+    "external_id": "https://distr.sh/blog/support-bundles/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c760bc03b62643af8e23b8dbf1976fda08f20642461274042f60384e1d8fe485",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/post-mortem-photoroom-api-incident-october-11-2024",
+    "canonical": "https://www.photoroom.com/inside-photoroom/post-mortem-photoroom-api-incident-october-11-2024"
+  },
+  "title": "Post-mortem: Photoroom API service degradation – October 11th, 2024",
+  "summary": "For the first time in years of existence, the Photoroom API experienced a major outage. In this post, we’ll cover the causes as well as the action we’re taking to ensure it doesn’t happen again.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:15:24.874490+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/07/c7/c760bc03b62643af8e23b8dbf1976fda08f20642461274042f60384e1d8fe485/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/07/c7/c760bc03b62643af8e23b8dbf1976fda08f20642461274042f60384e1d8fe485/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3592,
+    "sha256": "sha256:61a8643efda7ad87436ff255f017f76c574c1bddea28671917723fab5ff8521f",
+    "normalized_content_hash": "sha256:858b2d4cf4ca8436947118c5b2306375f443db2871e87658c09ba665b7c2a796"
+  },
+  "provenance": {
+    "source_item_id": "b0c4988a-4722-4ca6-afde-aa9cc973ec9a",
+    "external_id": "https://www.photoroom.com/inside-photoroom/post-mortem-photoroom-api-incident-october-11-2024"
+  }
+}

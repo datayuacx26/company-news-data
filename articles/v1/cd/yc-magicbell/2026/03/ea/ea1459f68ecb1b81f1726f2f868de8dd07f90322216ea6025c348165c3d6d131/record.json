@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ea1459f68ecb1b81f1726f2f868de8dd07f90322216ea6025c348165c3d6d131",
+  "company": {
+    "key": "yc-magicbell",
+    "name": "MagicBell"
+  },
+  "source": {
+    "id": "yc-magicbell-news-import-9a6b19b555ea",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.magicbell.com/blog/aws-sns-vs-sqs-vs-eventbridge",
+    "canonical": "https://www.magicbell.com/blog/aws-sns-vs-sqs-vs-eventbridge"
+  },
+  "title": "AWS SNS vs SQS vs EventBridge: Which to Use?",
+  "summary": "Compare AWS SNS, SQS, and EventBridge side by side. Learn how each messaging service works, when to use it, and how they combine in real architectures.",
+  "published_at": "2026-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T03:05:45.790203+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-19T18:43:36.382071+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-magicbell/2026/03/ea/ea1459f68ecb1b81f1726f2f868de8dd07f90322216ea6025c348165c3d6d131/article.md",
+    "record": "articles/v1/cd/yc-magicbell/2026/03/ea/ea1459f68ecb1b81f1726f2f868de8dd07f90322216ea6025c348165c3d6d131/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11092,
+    "sha256": "sha256:c830d4f31ad4138df5d8aaaf68722ef3e5091f8a8245a27149d4365cf3e3f68d",
+    "normalized_content_hash": "sha256:9d435e91711253a208b9073bb3db95c8fb079c94c03b3a5bdfdc784d915349b6"
+  },
+  "provenance": {
+    "source_item_id": "93c509b7-ef0d-45b8-9048-d78006d58161",
+    "external_id": "https://www.magicbell.com/blog/aws-sns-vs-sqs-vs-eventbridge"
+  }
+}

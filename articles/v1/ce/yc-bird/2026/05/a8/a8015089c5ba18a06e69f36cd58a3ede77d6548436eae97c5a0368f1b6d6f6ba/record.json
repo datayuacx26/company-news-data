@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a8015089c5ba18a06e69f36cd58a3ede77d6548436eae97c5a0368f1b6d6f6ba",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/smtp-vs-imap",
+    "canonical": "https://bird.com/en-us/blog/smtp-vs-imap"
+  },
+  "title": "SMTP vs. IMAP: What's the Difference?",
+  "summary": "SMTP sends and relays mail between servers, while IMAP retrieves and syncs mail to your client. Here is when each protocol applies and why.",
+  "published_at": "2026-05-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/05/a8/a8015089c5ba18a06e69f36cd58a3ede77d6548436eae97c5a0368f1b6d6f6ba/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/05/a8/a8015089c5ba18a06e69f36cd58a3ede77d6548436eae97c5a0368f1b6d6f6ba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5581,
+    "sha256": "sha256:cdbed31e53272cce7be1fdc46eab3ebb8840413099cbec4225f0472c3f458e6b",
+    "normalized_content_hash": "sha256:66ca7ccfb6f9bd0d6da6da05b12701e49b6e651fe1e777f57e54a6fb3f582dbe"
+  },
+  "provenance": {
+    "source_item_id": "9657f5b4-c166-4aeb-80d6-cdb9b088212e",
+    "external_id": "https://bird.com/en-us/blog/smtp-vs-imap"
+  }
+}

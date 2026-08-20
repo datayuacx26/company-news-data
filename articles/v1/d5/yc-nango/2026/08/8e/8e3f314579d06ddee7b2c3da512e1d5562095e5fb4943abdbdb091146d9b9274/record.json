@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8e3f314579d06ddee7b2c3da512e1d5562095e5fb4943abdbdb091146d9b9274",
+  "company": {
+    "key": "yc-nango",
+    "name": "Nango"
+  },
+  "source": {
+    "id": "yc-nango-news-import-e2ee807d6673",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis",
+    "canonical": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
+  },
+  "title": "What we learned operating auth for 900+ APIs",
+  "summary": "Production lessons from operating auth for 900+ APIs.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T07:01:45.929103+00:00",
+  "fetched_at": "2026-08-07T07:01:47.070726+00:00",
+  "last_updated_at": "2026-08-19T19:00:47.317759+00:00",
+  "paths": {
+    "article": "articles/v1/d5/yc-nango/2026/08/8e/8e3f314579d06ddee7b2c3da512e1d5562095e5fb4943abdbdb091146d9b9274/article.md",
+    "record": "articles/v1/d5/yc-nango/2026/08/8e/8e3f314579d06ddee7b2c3da512e1d5562095e5fb4943abdbdb091146d9b9274/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11157,
+    "sha256": "sha256:9f81124d11e90d6806ca9d97b9d829e4af706a545d4b8ac9740fdea653a226e7",
+    "normalized_content_hash": "sha256:88cf7d2faa870b0619d599c6ebc9ec805a6076b3752886c3d47d21d8686ce02d"
+  },
+  "provenance": {
+    "source_item_id": "6c600ea1-8e47-408d-908c-4dbf812bc8cb",
+    "external_id": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "02397cbb274d35c6f95364977511b9d7a57b609c2302d72a65b0961defa4b558",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/12/23/procedural-macros",
+    "canonical": "https://www.shuttle.dev/blog/2022/12/23/procedural-macros"
+  },
+  "title": "Reflection in Rust with procedural macros",
+  "summary": "Comparing runtime reflection in JavaScript against Rust's compile time procedural derive macros",
+  "published_at": "2022-12-23T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:02:37.132176+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/12/02/02397cbb274d35c6f95364977511b9d7a57b609c2302d72a65b0961defa4b558/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/12/02/02397cbb274d35c6f95364977511b9d7a57b609c2302d72a65b0961defa4b558/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26144,
+    "sha256": "sha256:1a08ec8d7b6536d53b2dd3de760e3b37cbac576a7c8c419f072fd15c4996c3a1",
+    "normalized_content_hash": "sha256:b6a29af684ef4840d73408741200613ce37f464221814988d34665460476dac9"
+  },
+  "provenance": {
+    "source_item_id": "6f68c046-5a47-4e8a-9c17-ca603a1757a8",
+    "external_id": "https://www.shuttle.dev/blog/2022/12/23/procedural-macros"
+  }
+}

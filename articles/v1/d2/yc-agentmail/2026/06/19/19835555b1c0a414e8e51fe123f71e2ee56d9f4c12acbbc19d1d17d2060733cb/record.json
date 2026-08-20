@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "19835555b1c0a414e8e51fe123f71e2ee56d9f4c12acbbc19d1d17d2060733cb",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/agentmail-now-supports-imap",
+    "canonical": "https://www.agentmail.to/blog/agentmail-now-supports-imap"
+  },
+  "title": "AgentMail now supports IMAP",
+  "summary": "Every AgentMail inbox can now be read by any standard email client or library over IMAP. Here is what IMAP is, why it matters for agent inboxes, and how to connect one.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T05:07:06.081239+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-07T12:46:46.748244+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/06/19/19835555b1c0a414e8e51fe123f71e2ee56d9f4c12acbbc19d1d17d2060733cb/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/06/19/19835555b1c0a414e8e51fe123f71e2ee56d9f4c12acbbc19d1d17d2060733cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6346,
+    "sha256": "sha256:c6cd20f0cefdb3245bceba5398620d08658ffefec0dd55e93132d7829fb44a99",
+    "normalized_content_hash": "sha256:5424343fd82b2f54f0f85923c39ebe64c27976c208ce2dc8766c161435b8742d"
+  },
+  "provenance": {
+    "source_item_id": "242c9d2b-57e2-44bf-a720-4f0800f8f0e4",
+    "external_id": "https://www.agentmail.to/blog/agentmail-now-supports-imap"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "140a7e4aceffefa528ff76513cb8b07472b8328ad232d7e0ae6e04e0bf328551",
+  "company": {
+    "key": "block-inc-class-a-common-stock",
+    "name": "Block Inc."
+  },
+  "source": {
+    "id": "block-inc-class-a-common-stock-rss-613ed2351e85",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast",
+    "canonical": "http://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast"
+  },
+  "title": "CodeCrucible: A blueprint for LLM-driven SAST",
+  "summary": "A practical blueprint for LLM-driven SAST using whole-repo context, chunking, filtering, and quality gates.",
+  "published_at": "2026-07-01T12:00:00+00:00",
+  "first_seen_at": "2026-07-27T09:11:27.179122+00:00",
+  "fetched_at": "2026-07-28T20:47:42.945239+00:00",
+  "last_updated_at": "2026-08-20T01:58:38.806680+00:00",
+  "paths": {
+    "article": "articles/v1/f5/block-inc-class-a-common-stock/2026/07/14/140a7e4aceffefa528ff76513cb8b07472b8328ad232d7e0ae6e04e0bf328551/article.md",
+    "record": "articles/v1/f5/block-inc-class-a-common-stock/2026/07/14/140a7e4aceffefa528ff76513cb8b07472b8328ad232d7e0ae6e04e0bf328551/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27167,
+    "sha256": "sha256:685a451ee3a7673dc1185309521846ae816660e176ed715e73e07edaf8145de5",
+    "normalized_content_hash": "sha256:a835f3552680dab48e2e9c8a7f163d7b1d024df11d43b65618ab3103e969751b"
+  },
+  "provenance": {
+    "source_item_id": "c6569aec-5e47-4477-8bea-4f39fccfd556",
+    "external_id": "http://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast"
+  }
+}

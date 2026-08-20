@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "455bbc692ad0eabe48dba721f47e136dc6212f659bea63b4f35e06566836b1aa",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "source": {
+    "id": "yc-sei-rss-1b5243482862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://seiright.com/blog/ucc-article-4a-wire-fraud-ai-verification-commercially-reasonable",
+    "canonical": "https://seiright.com/blog/ucc-article-4a-wire-fraud-ai-verification-commercially-reasonable"
+  },
+  "title": "UCC Article 4A and the AI Wire-Verification Architecture: Commercially Reasonable Security Procedures When the Caller Is Verified But the Instruction Is Not",
+  "summary": "Wire fraud losses are running at multi-billion-dollar annual totals and the legal allocation of those losses runs through UCC Article 4A's commercially-reasonable-security-procedure standard. AI voice authentication of the caller does not, by itself, satisfy the security procedure for a payment instruction. The architecture we run so the bank's Article 4A position holds in court when the instruction was the fraud.",
+  "published_at": "2026-06-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.548292+00:00",
+  "fetched_at": "2026-08-20T02:20:29.244809+00:00",
+  "last_updated_at": "2026-08-20T02:20:29.306031+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-sei/2026/06/45/455bbc692ad0eabe48dba721f47e136dc6212f659bea63b4f35e06566836b1aa/article.md",
+    "record": "articles/v1/e4/yc-sei/2026/06/45/455bbc692ad0eabe48dba721f47e136dc6212f659bea63b4f35e06566836b1aa/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1101,
+    "sha256": "sha256:9410c8b73d3559eb23d3cc60df26697cf4cbf2884692ce770bee631db89aa29e",
+    "normalized_content_hash": "sha256:caf3ab091b3aae1c0cf21751c8635f87f140e82aa621c1c27eb9655c290d4455"
+  },
+  "provenance": {
+    "source_item_id": "b44e05b0-ff40-421d-9d15-20b214c4a7bb",
+    "external_id": "https://seiright.com/blog/ucc-article-4a-wire-fraud-ai-verification-commercially-reasonable"
+  }
+}

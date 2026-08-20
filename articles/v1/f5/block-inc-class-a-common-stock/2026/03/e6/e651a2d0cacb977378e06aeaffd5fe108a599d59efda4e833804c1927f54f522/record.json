@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e651a2d0cacb977378e06aeaffd5fe108a599d59efda4e833804c1927f54f522",
+  "company": {
+    "key": "block-inc-class-a-common-stock",
+    "name": "Block Inc."
+  },
+  "source": {
+    "id": "block-inc-class-a-common-stock-rss-613ed2351e85",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://engineering.block.xyz/blog/from-polyrepo-fragmentation-to-monorepo-leverage",
+    "canonical": "http://engineering.block.xyz/blog/from-polyrepo-fragmentation-to-monorepo-leverage"
+  },
+  "title": "From Polyrepo Fragmentation to Monorepo Leverage",
+  "summary": "How Cash App migrated 450 backend repositories into a single monorepo, reducing dependency drift and scaling CI with confidence",
+  "published_at": "2026-03-10T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:06.876214+00:00",
+  "fetched_at": "2026-07-28T20:53:30.609843+00:00",
+  "last_updated_at": "2026-08-20T01:58:38.806680+00:00",
+  "paths": {
+    "article": "articles/v1/f5/block-inc-class-a-common-stock/2026/03/e6/e651a2d0cacb977378e06aeaffd5fe108a599d59efda4e833804c1927f54f522/article.md",
+    "record": "articles/v1/f5/block-inc-class-a-common-stock/2026/03/e6/e651a2d0cacb977378e06aeaffd5fe108a599d59efda4e833804c1927f54f522/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12766,
+    "sha256": "sha256:859b14ad265e7c7e06a60646946e2126c442d9f4eb05efb38afd52214b5b8265",
+    "normalized_content_hash": "sha256:a827762736f77c86399c82404faf03419475a8dbdcef63ad3f8a6556a0fd5412"
+  },
+  "provenance": {
+    "source_item_id": "dba64f80-033a-48fc-b018-977984339a04",
+    "external_id": "http://engineering.block.xyz/blog/from-polyrepo-fragmentation-to-monorepo-leverage"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "347bdd9f3cf78d37359a764eb9d228cf7ba8b95b24328f3e8d8f8cd370b80254",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/claude-agent-sdk-openai-agents-sdk-typescript-integration-guide",
+    "canonical": "https://corsair.dev/blog/claude-agent-sdk-openai-agents-sdk-typescript-integration-guide"
+  },
+  "title": "Building With the Claude Agent SDK and OpenAI Agents SDK: A TypeScript Developer's Guide to Integration Layers",
+  "summary": "A TypeScript developer's guide to wiring integration layers into both the Claude Agent SDK and OpenAI Agents SDK — how tool definitions, hooks, guardrails, and tenant isolation differ across each framework.",
+  "published_at": "2026-07-16T13:18:00+00:00",
+  "first_seen_at": "2026-07-21T15:04:37.944582+00:00",
+  "fetched_at": "2026-07-28T21:50:17.978782+00:00",
+  "last_updated_at": "2026-08-13T04:19:07.443047+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/34/347bdd9f3cf78d37359a764eb9d228cf7ba8b95b24328f3e8d8f8cd370b80254/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/34/347bdd9f3cf78d37359a764eb9d228cf7ba8b95b24328f3e8d8f8cd370b80254/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7769,
+    "sha256": "sha256:08e5256c547bb79f691c5d68d807f14e1ce8116aa9bcbe20bb630fd4910d6472",
+    "normalized_content_hash": "sha256:44729982a4803235c0be0d68f4668400d22ee16d8abd2dfb8278174f78d8dddf"
+  },
+  "provenance": {
+    "source_item_id": "3af6b53c-b259-40d7-b429-d22db64fe9c0",
+    "external_id": "https://corsair.dev/blog/claude-agent-sdk-openai-agents-sdk-typescript-integration-guide"
+  }
+}

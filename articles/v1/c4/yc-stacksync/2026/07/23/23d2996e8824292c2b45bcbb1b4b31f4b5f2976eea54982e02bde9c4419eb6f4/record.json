@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "23d2996e8824292c2b45bcbb1b4b31f4b5f2976eea54982e02bde9c4419eb6f4",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/eclinicalworks-api-integration-guide",
+    "canonical": "https://www.stacksync.com/blog/eclinicalworks-api-integration-guide"
+  },
+  "title": "eClinicalWorks FHIR API Integration Guide",
+  "summary": "How to integrate with the eClinicalWorks FHIR R4 API: app registration, OAuth 2.0 (SMART on FHIR), key resources, and HIPAA-safe ways to sync data.",
+  "published_at": "2026-07-17T10:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-07-28T21:11:32.285439+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/23/23d2996e8824292c2b45bcbb1b4b31f4b5f2976eea54982e02bde9c4419eb6f4/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/23/23d2996e8824292c2b45bcbb1b4b31f4b5f2976eea54982e02bde9c4419eb6f4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11823,
+    "sha256": "sha256:700a895789864eef313b407b960c85f7d731fb52ed48af838ff5ac8ada1f6738",
+    "normalized_content_hash": "sha256:df399d8ed40908c3e3a75c29dc976736496a0ecfe0a62f14b9969ca3a628c2e4"
+  },
+  "provenance": {
+    "source_item_id": "9a3e32e8-d0ad-48e1-a89e-d6972c7b55e3",
+    "external_id": "https://www.stacksync.com/blog/eclinicalworks-api-integration-guide"
+  }
+}

@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "13ec58ed8400c677a00499beff0a4e2ebfb32e7a0585e23d346c18d73a81dc70"
+company_key: "yc-sei"
+company: "Sei"
+source_id: "yc-sei-rss-1b5243482862"
+canonical_url: "https://seiright.com/blog/regulation-f-ai-voice-debt-collection-7-in-7-limited-content"
+published_at: "2026-06-12T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:45.548292+00:00"
+fetched_at: "2026-08-20T02:20:29.244809+00:00"
+content_hash: "sha256:79fa6c242835173d77a634bc345baf170e5a02a6b6417167ca356ce2e26cded6"
+---
+
+# Regulation F for AI Voice Debt Collection: The 7-in-7 Ledger, the Limited-Content Message, and the Per-Debt Architecture
+
+The CFPB's Regulation F call-frequency presumption, post-conversation wait, limited-content message, and channel opt-out rules are mechanical and per-debt. The agent design we run so an AI voice program does not inherit a 1006.14 harassment finding from a dialer it replaced.

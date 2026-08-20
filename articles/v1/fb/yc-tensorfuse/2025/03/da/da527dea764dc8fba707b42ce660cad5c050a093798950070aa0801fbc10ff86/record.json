@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "da527dea764dc8fba707b42ce660cad5c050a093798950070aa0801fbc10ff86",
+  "company": {
+    "key": "yc-tensorfuse",
+    "name": "Tensorfuse"
+  },
+  "source": {
+    "id": "yc-tensorfuse-news-import-97ab2b67de47",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorfuse.io/docs/blogs/multi_gpu_communication_while_training",
+    "canonical": "https://tensorfuse.io/docs/blogs/multi_gpu_communication_while_training"
+  },
+  "title": "Understanding Multi GPU Communication and Nvidia NCCL for finetuning models",
+  "summary": "",
+  "published_at": "2025-03-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:02:52.953662+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-20T00:15:16.087749+00:00",
+  "paths": {
+    "article": "articles/v1/fb/yc-tensorfuse/2025/03/da/da527dea764dc8fba707b42ce660cad5c050a093798950070aa0801fbc10ff86/article.md",
+    "record": "articles/v1/fb/yc-tensorfuse/2025/03/da/da527dea764dc8fba707b42ce660cad5c050a093798950070aa0801fbc10ff86/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11439,
+    "sha256": "sha256:8cb86bab8335ed40bc7634942197050a783f4a071d159392258cdcca759f7133",
+    "normalized_content_hash": "sha256:ab22275fa770da712994feb5e5efed628446911e151883a0a9f9d620069190f3"
+  },
+  "provenance": {
+    "source_item_id": "f3f24c94-e6d7-4844-8136-ad743aea27b2",
+    "external_id": "https://tensorfuse.io/docs/blogs/multi_gpu_communication_while_training"
+  }
+}

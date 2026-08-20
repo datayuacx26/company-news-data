@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89830e654aeff40eb45c2a190ed2ac02caf4125d3cf88bbb79d879c3221ae592",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/virtualmin-virtual-server-module-8-0-1-released/136549",
+    "canonical": "https://forum.virtualmin.com/t/virtualmin-virtual-server-module-8-0-1-released/136549"
+  },
+  "title": "Virtualmin virtual-server module 8.0.1 released",
+  "summary": "Howdy all, We’ve rolled out Virtualmin virtual-server module 8.0.1 for all repos. This release provides smoother migration to the new Virtualmin 8 repo, whether it’s a manual repo upgrade or an upgrade from GPL to Pro. Changes since 8.0.0: Add ability to migrate Webmin monolithic to modular while keeping enabled modules for the new repository As always, if you run into any problems, let us know in a new topic.",
+  "published_at": "2026-02-06T09:44:37+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T22:21:24.537254+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/02/89/89830e654aeff40eb45c2a190ed2ac02caf4125d3cf88bbb79d879c3221ae592/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/02/89/89830e654aeff40eb45c2a190ed2ac02caf4125d3cf88bbb79d879c3221ae592/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1485,
+    "sha256": "sha256:8d2c304b5229fcf1ff02aa4286df90e41d34f1283c027727fee9ca6369315ad4",
+    "normalized_content_hash": "sha256:6fbf1b3e5ed6e84448a71cc73ed014c1fc00c0e2c016b655f5c679097552d004"
+  },
+  "provenance": {
+    "source_item_id": "bdd1e6e9-2e68-4ef4-9b29-d71ad39c49fd",
+    "external_id": "forum.virtualmin.com-topic-136549"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9f9fb5812b6b335d200905b512afa267df209c363a34af1f20b8ef03bd99fd67",
+  "company": {
+    "key": "yc-emergent",
+    "name": "Emergent"
+  },
+  "source": {
+    "id": "yc-emergent-news-import-16a7bf482038",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emergent.sh/news/lfm-25-vl-3b-officially-launched",
+    "canonical": "https://emergent.sh/news/lfm-25-vl-3b-officially-launched"
+  },
+  "title": "Liquid AI Launches LFM2.5-VL-3B Multimodal Model",
+  "summary": "Liquid AI releases LFM2.5-VL-3B, a compact 3-billion parameter multimodal model under the LFM1_0 license. Available August 12, 2026.",
+  "published_at": "2026-08-14T08:00:29+00:00",
+  "first_seen_at": "2026-08-14T20:03:19.699420+00:00",
+  "fetched_at": "2026-08-14T20:03:20.354188+00:00",
+  "last_updated_at": "2026-08-20T02:33:29.497380+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-emergent/2026/08/9f/9f9fb5812b6b335d200905b512afa267df209c363a34af1f20b8ef03bd99fd67/article.md",
+    "record": "articles/v1/c4/yc-emergent/2026/08/9f/9f9fb5812b6b335d200905b512afa267df209c363a34af1f20b8ef03bd99fd67/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4222,
+    "sha256": "sha256:bcf8f92d6cc1f7963d12bfd991d0da43dd61dada4ddabc13cf993e99e7f54063",
+    "normalized_content_hash": "sha256:8e2b3aee08e497e2a9b002adad89ccf807ad6aab3629bb996dd183bd1cff3deb"
+  },
+  "provenance": {
+    "source_item_id": "7c5054a6-cafe-4f61-9ad7-cbce996811c8",
+    "external_id": "https://emergent.sh/news/lfm-25-vl-3b-officially-launched"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0c2c588df29003f05d1c13c9f2df60fbbf0ae5b89b39103ba18eb63e553bb51e",
+  "company": {
+    "key": "yc-onechronos",
+    "name": "OneChronos"
+  },
+  "source": {
+    "id": "yc-onechronos-news-import-ed8558a9e34d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.onechronos.com/insights/pairs-part-one/",
+    "canonical": "https://www.onechronos.com/insights/pairs-part-one/"
+  },
+  "title": "Pairs Without Legging Risk: Leg 1",
+  "summary": "In this first \"leg\" of a two-part series, we show how pairs trading can break down due to timing gaps between legs, introducing unintended transaction costs and risk. OneChronos, built on a design philosophy of coordinated and intentional execution, enables atomic multi-security trades that eliminate legging risk at its source.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T17:48:26.237044+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-08-19T16:54:13.916003+00:00",
+  "paths": {
+    "article": "articles/v1/f1/yc-onechronos/2026/07/0c/0c2c588df29003f05d1c13c9f2df60fbbf0ae5b89b39103ba18eb63e553bb51e/article.md",
+    "record": "articles/v1/f1/yc-onechronos/2026/07/0c/0c2c588df29003f05d1c13c9f2df60fbbf0ae5b89b39103ba18eb63e553bb51e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14122,
+    "sha256": "sha256:b4f9f203b0c7ab67daa2e71f989df58fdc0ba186d6f4697e55780c6831b482b6",
+    "normalized_content_hash": "sha256:eab6f6adf0fdc529e457e910c95527d755182acc2a19e4c4ab44aa5ed9eecb46"
+  },
+  "provenance": {
+    "source_item_id": "6c0934b0-0bbf-49c1-bafe-b67a7c4cdfbd",
+    "external_id": "https://www.onechronos.com/insights/pairs-part-one/"
+  }
+}

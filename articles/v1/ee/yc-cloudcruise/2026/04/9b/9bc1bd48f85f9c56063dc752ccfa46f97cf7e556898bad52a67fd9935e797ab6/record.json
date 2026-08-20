@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9bc1bd48f85f9c56063dc752ccfa46f97cf7e556898bad52a67fd9935e797ab6",
+  "company": {
+    "key": "yc-cloudcruise",
+    "name": "CloudCruise"
+  },
+  "source": {
+    "id": "yc-cloudcruise-news-import-0286802dbbee",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cloudcruise.com/blog/automating-patient-eligibility-verification-technical-guide",
+    "canonical": "https://cloudcruise.com/blog/automating-patient-eligibility-verification-technical-guide"
+  },
+  "title": "Patient Eligibility Automation Guide (April 2026)",
+  "summary": "Learn how to automate patient eligibility verification with EDI 270/271, portal automation, and credential pooling. Technical implementation guide for April 2026.",
+  "published_at": "2026-04-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T05:51:05.060428+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-19T17:44:04.231963+00:00",
+  "paths": {
+    "article": "articles/v1/ee/yc-cloudcruise/2026/04/9b/9bc1bd48f85f9c56063dc752ccfa46f97cf7e556898bad52a67fd9935e797ab6/article.md",
+    "record": "articles/v1/ee/yc-cloudcruise/2026/04/9b/9bc1bd48f85f9c56063dc752ccfa46f97cf7e556898bad52a67fd9935e797ab6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12005,
+    "sha256": "sha256:c4c8a4e29ec51aac21f4199164cf02e47592e067a3bd843e7cf7e9e4772c4da0",
+    "normalized_content_hash": "sha256:51dc299ace4e3412d438f50d8696b419facb876d51002a212ae20895cc0540f2"
+  },
+  "provenance": {
+    "source_item_id": "5d1fe3de-9b1b-4791-81ff-3399bf0df129",
+    "external_id": "https://cloudcruise.com/blog/automating-patient-eligibility-verification-technical-guide"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e9680476558a60c38c8629b2e04048400c34569486b0804ee40390ca88e8fb45",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/sync-salesforce-with-motherduck",
+    "canonical": "https://www.stacksync.com/blog/sync-salesforce-with-motherduck"
+  },
+  "title": "Stage, Then MERGE: How to Sync Salesforce With MotherDuck",
+  "summary": "How to sync Salesforce with MotherDuck: OAuth a connected app, watermark on SystemModstamp, stage each batch, then MERGE into columnar tables.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/e9/e9680476558a60c38c8629b2e04048400c34569486b0804ee40390ca88e8fb45/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/e9/e9680476558a60c38c8629b2e04048400c34569486b0804ee40390ca88e8fb45/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14878,
+    "sha256": "sha256:91edfc37b771af1c6556f2b5120f9aad4bcc8c5bc8e804bdc2f2ceebf04fb375",
+    "normalized_content_hash": "sha256:ad4d81e0aff48961ece97cb1d787223f84112555077fa979b91aff7a6972c9f3"
+  },
+  "provenance": {
+    "source_item_id": "ba1c675c-0b51-4271-827c-fab4f2db8a43",
+    "external_id": "https://www.stacksync.com/blog/sync-salesforce-with-motherduck"
+  }
+}

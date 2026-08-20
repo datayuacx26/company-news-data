@@ -1,0 +1,40 @@
+---
+schema_version: "1.0.0"
+document_id: "68873a71c4aa118b76bf5977be15402b19ea440f525964a1cec5a1ca5b607a62"
+company_key: "seneca-foods-corp"
+company: "Seneca Foods Corp."
+source_id: "seneca-foods-corp-class-a-common-stock-rss-dd5d61c574ed"
+canonical_url: "https://www.senecafoods.com/sec-filing/form-4-gregory-ide-1"
+published_at: "2026-08-06T21:26:58+00:00"
+first_seen_at: "2026-08-06T23:37:45.185159+00:00"
+fetched_at: "2026-08-20T02:38:05.631737+00:00"
+content_hash: "sha256:b93545d2bff576c151a627b03aff9d40ba1983c670ad77641b5768e4454aa437"
+---
+
+# Form 4 – Gregory Ide
+
+Form 4 – Gregory Ide
+
+
+nrobs
+
+
+Thu, 08/06/2026 - 17:26
+
+
+Filing date
+
+
+Thu, 08/06/2026 - 16:20
+
+
+PDF document
+
+
+[Form 4 - Gregory Ide 08.06.26.pdf](https://www.senecafoods.com/sites/default/files/node-sec_filing-field_pdf_document/Form%204%20-%20Gregory%20Ide%2008.06.26.pdf)
+
+
+URL to View Documents
+
+
+[https://www.sec.gov/Archives/edgar/data/1837081/000143774926026331/0001437749-2…](https://www.sec.gov/Archives/edgar/data/1837081/000143774926026331/0001437749-26-026331-index.html)

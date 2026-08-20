@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "059eefc2e6e58240b76fadd37e376ec0749c4f663eb88d88e747fd0e020bb48d",
+  "company": {
+    "key": "yc-nango",
+    "name": "Nango"
+  },
+  "source": {
+    "id": "yc-nango-news-import-e2ee807d6673",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nango.dev/blog/how-developers-secure-ai-agent-access-to-apis",
+    "canonical": "https://nango.dev/blog/how-developers-secure-ai-agent-access-to-apis/"
+  },
+  "title": "How developers secure AI agent access to APIs",
+  "summary": "How to keep credentials out of AI agents, enforce user and tenant permissions, restrict tool calls, and audit access to external APIs.",
+  "published_at": "2026-08-19T00:00:00+00:00",
+  "first_seen_at": "2026-08-19T19:00:47.317759+00:00",
+  "fetched_at": "2026-08-19T19:00:49.516387+00:00",
+  "last_updated_at": "2026-08-19T19:00:49.985039+00:00",
+  "paths": {
+    "article": "articles/v1/d5/yc-nango/2026/08/05/059eefc2e6e58240b76fadd37e376ec0749c4f663eb88d88e747fd0e020bb48d/article.md",
+    "record": "articles/v1/d5/yc-nango/2026/08/05/059eefc2e6e58240b76fadd37e376ec0749c4f663eb88d88e747fd0e020bb48d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22888,
+    "sha256": "sha256:405810128a963ba6679e30370ddf5602a1dfefc4ffcbc570f11e4dc033c267a8",
+    "normalized_content_hash": "sha256:f3dc3eabec0f4de241a206812971d3bc7ca2a6eff0ea77576b97284012910e1e"
+  },
+  "provenance": {
+    "source_item_id": "93ad4b7e-068c-431c-ba3b-7e5c203ef14e",
+    "external_id": "https://nango.dev/blog/how-developers-secure-ai-agent-access-to-apis/"
+  }
+}

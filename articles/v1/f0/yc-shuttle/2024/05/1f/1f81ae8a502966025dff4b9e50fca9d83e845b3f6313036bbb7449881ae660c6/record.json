@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1f81ae8a502966025dff4b9e50fca9d83e845b3f6313036bbb7449881ae660c6",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/05/16/building-ai-content-writer-rust-gpt4o",
+    "canonical": "https://www.shuttle.dev/blog/2024/05/16/building-ai-content-writer-rust-gpt4o"
+  },
+  "title": "Building AI Agents with Rust",
+  "summary": "Using GPT-4o and Rust to build AI agents in a web service and deploy them",
+  "published_at": "2024-05-16T18:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/05/1f/1f81ae8a502966025dff4b9e50fca9d83e845b3f6313036bbb7449881ae660c6/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/05/1f/1f81ae8a502966025dff4b9e50fca9d83e845b3f6313036bbb7449881ae660c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15023,
+    "sha256": "sha256:ad2c24ef79abd9ab85f8fc88a91d44ed0a8bf9fae4a19081acc3616164a4a82e",
+    "normalized_content_hash": "sha256:7b711852585e5f5c6088fb6f362202683f0d4a408bc232dc1d2e66e2ad09dcd1"
+  },
+  "provenance": {
+    "source_item_id": "0008b61c-9236-4c61-b75d-0c70145e08a6",
+    "external_id": "https://www.shuttle.dev/blog/2024/05/16/building-ai-content-writer-rust-gpt4o"
+  }
+}

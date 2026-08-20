@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "27596eb09cf817bf30093aca4fcb6d09fa881650e8cca2efdedc240ceb22323e",
+  "company": {
+    "key": "tenable-holdings-inc-common-stock",
+    "name": "Tenable Holdings Inc."
+  },
+  "source": {
+    "id": "tenable-holdings-inc-common-stock-rss-2984dc1ab104",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.tenable.com/sc-report-templates/vulnerability-management-program-health",
+    "canonical": "https://www.tenable.com/sc-report-templates/vulnerability-management-program-health"
+  },
+  "title": "Vulnerability Management Program Health",
+  "summary": "Organizations deploying vulnerability management programs must reconcile asset discovery results with scanning coverage to ensure critical systems receive complete security assessments that detect installed software, configuration weaknesses, and known vulnerabilities. Infrastructure teams continuously discover new hosts through network ranges and passive monitoring, while security teams depend on successful authentication to those systems for credentialed scans that provide complete visibility into security posture.",
+  "published_at": "2026-04-28T12:19:54+00:00",
+  "first_seen_at": "2026-07-20T23:16:56.508607+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-20T01:11:00.813271+00:00",
+  "paths": {
+    "article": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/04/27/27596eb09cf817bf30093aca4fcb6d09fa881650e8cca2efdedc240ceb22323e/article.md",
+    "record": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/04/27/27596eb09cf817bf30093aca4fcb6d09fa881650e8cca2efdedc240ceb22323e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7871,
+    "sha256": "sha256:c63d368dfadc19d6b9b9c4b4205c78b03e1e193133e12c71e8cae198222b796f",
+    "normalized_content_hash": "sha256:68c0bdc55971712efb201feb6f43f9fd165eafd0ed6ddc4726bdfa09c4e12463"
+  },
+  "provenance": {
+    "source_item_id": "fe4d2dc5-0329-4883-984e-a838e3f63a4e",
+    "external_id": "https://www.tenable.com/210863"
+  }
+}

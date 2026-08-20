@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "430cb8840714f23085a41d2e1a05c9328458c82e379eabadaacae8a07a393d83",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/improving-loading-experience-in-swiftui",
+    "canonical": "https://www.photoroom.com/inside-photoroom/improving-loading-experience-in-swiftui"
+  },
+  "title": "Improving the Loading Experience in SwiftUI",
+  "summary": "The iOS app Photoroom sought to enhance user experience during network calls by delaying the display of a loader for one second using a custom SwiftUI ViewModifier, ensuring a smoother UI presentation without introducing unnecessary delays, thus improving overall user satisfaction.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:15:24.874490+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/07/43/430cb8840714f23085a41d2e1a05c9328458c82e379eabadaacae8a07a393d83/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/07/43/430cb8840714f23085a41d2e1a05c9328458c82e379eabadaacae8a07a393d83/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5278,
+    "sha256": "sha256:62e379c6f4b53357044fb7c40aa999f9a40268979da83257330b109989f6eca6",
+    "normalized_content_hash": "sha256:2a593a7f4c7695df68a643ba06550882865454ebafc84d54d8173b3bb9460248"
+  },
+  "provenance": {
+    "source_item_id": "f7c5e1e4-f49e-4e94-951f-7ec842387d60",
+    "external_id": "https://www.photoroom.com/inside-photoroom/improving-loading-experience-in-swiftui"
+  }
+}

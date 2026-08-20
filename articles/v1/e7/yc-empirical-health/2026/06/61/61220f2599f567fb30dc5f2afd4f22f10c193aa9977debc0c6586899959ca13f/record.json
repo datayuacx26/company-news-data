@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61220f2599f567fb30dc5f2afd4f22f10c193aa9977debc0c6586899959ca13f",
+  "company": {
+    "key": "yc-empirical-health",
+    "name": "Empirical Health"
+  },
+  "source": {
+    "id": "yc-empirical-health-news-import-485d82c6bcdb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/",
+    "canonical": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/"
+  },
+  "title": "LLM-style scaling laws hold for sensor data",
+  "summary": "Google's LSM showed that the GPT recipe (loss falls predictably as you add compute, data, and parameters) transfers from text to physiology. But wearable data breaks from the LLM playbook in ways that favor wearables.",
+  "published_at": "2026-06-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T18:04:02.816963+00:00",
+  "fetched_at": "2026-07-28T21:22:15.524600+00:00",
+  "last_updated_at": "2026-08-20T02:59:59.427057+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-empirical-health/2026/06/61/61220f2599f567fb30dc5f2afd4f22f10c193aa9977debc0c6586899959ca13f/article.md",
+    "record": "articles/v1/e7/yc-empirical-health/2026/06/61/61220f2599f567fb30dc5f2afd4f22f10c193aa9977debc0c6586899959ca13f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7307,
+    "sha256": "sha256:3da30523e173ff70147961650bd4393b1b1e401e438898e99fb3e4fad99d16a5",
+    "normalized_content_hash": "sha256:fbb48ce93b7c30465542fe261760e23f9ab070ff014bac6d89b373059f16680f"
+  },
+  "provenance": {
+    "source_item_id": "475dbe64-5d85-4705-87f3-4b0a603facb6",
+    "external_id": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/"
+  }
+}

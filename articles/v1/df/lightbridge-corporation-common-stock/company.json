@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "lightbridge-corporation-common-stock",
+    "name": "Lightbridge Corporation"
+  },
+  "record_count": 15,
+  "first_published_at": "2026-03-25T11:00:00+00:00",
+  "last_published_at": "2026-08-07T13:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/df/lightbridge-corporation-common-stock/index/pages/000001.json",
+        "record_count": 15,
+        "byte_count": 19242,
+        "sha256": "sha256:b04c86bce5513e88e0dc2dd37bee6cc13739715a8e753bed3e8d8a8dc3cf4275",
+        "newest_at": "2026-08-07T13:00:00+00:00",
+        "oldest_at": "2026-03-25T11:00:00+00:00"
+      }
+    ]
+  }
+}

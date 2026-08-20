@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c3d7a4e1e322337c1470b5ec8e9852f34d857f3f3c4305441f2f1004c0a3b814",
+  "company": {
+    "key": "ionq-inc-common-stock",
+    "name": "IonQ Inc."
+  },
+  "source": {
+    "id": "ionq-inc-common-stock-news-import-8f7ead1ae5e6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ionq.com/blog/quantum-computing-meets-wall-street-running-real-portfolio-optimization-on-trapped-ion-hardware",
+    "canonical": "https://www.ionq.com/blog/quantum-computing-meets-wall-street-running-real-portfolio-optimization-on-trapped-ion-hardware"
+  },
+  "title": "Quantum Computing Meets Wall Street: Running Real Portfolio Optimization on Trapped-Ion Hardware",
+  "summary": "Discover how IonQ’s 64-qubit system systematically improves portfolio quality. See real-world benchmarks on S&P 500 data using the BF-DCQO algorithm and trapped-ion hardware.",
+  "published_at": "2026-03-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:33:28.377709+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-20T00:52:44.238555+00:00",
+  "paths": {
+    "article": "articles/v1/c6/ionq-inc-common-stock/2026/03/c3/c3d7a4e1e322337c1470b5ec8e9852f34d857f3f3c4305441f2f1004c0a3b814/article.md",
+    "record": "articles/v1/c6/ionq-inc-common-stock/2026/03/c3/c3d7a4e1e322337c1470b5ec8e9852f34d857f3f3c4305441f2f1004c0a3b814/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13591,
+    "sha256": "sha256:b9e1944eef3a27b5c2a6af2b5ab2a1f542ddafc7b39744461512524bac5ccab2",
+    "normalized_content_hash": "sha256:d0f5ccda410a65815528df2ad26ecbeb8207fe2ad3ad9c50769e9ddd83ca892f"
+  },
+  "provenance": {
+    "source_item_id": "c8d7c64b-7e41-4930-a770-75ba6c3f6c66",
+    "external_id": "https://www.ionq.com/blog/quantum-computing-meets-wall-street-running-real-portfolio-optimization-on-trapped-ion-hardware"
+  }
+}

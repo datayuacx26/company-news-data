@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d634e456998d526fa82effbe825e667b0eb51344863a31ed233969a06f2647cb",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/12/06/using-axum-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/12/06/using-axum-rust"
+  },
+  "title": "The Ultimate Guide to Axum: From Hello World to Production in Rust (2025)",
+  "summary": "A deep-dive on Axum, a Rust web backend framework. We look at using Axum to write a competent web service with middleware, routing, state, testing, and more. Updated for Axum 0.8.",
+  "published_at": "2023-12-06T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:00:19.733210+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/12/d6/d634e456998d526fa82effbe825e667b0eb51344863a31ed233969a06f2647cb/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/12/d6/d634e456998d526fa82effbe825e667b0eb51344863a31ed233969a06f2647cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31811,
+    "sha256": "sha256:70cc8402aa97cd7ad0c5d2d92797605112fc02cdb4c3958df540723a50423023",
+    "normalized_content_hash": "sha256:f462edc147e9118f325a46f9e12ae50b576ffc7bb1d98c7ebfb16295ad4ec1ac"
+  },
+  "provenance": {
+    "source_item_id": "f228a008-6e84-40ef-827b-933160dddf21",
+    "external_id": "https://www.shuttle.dev/blog/2023/12/06/using-axum-rust"
+  }
+}

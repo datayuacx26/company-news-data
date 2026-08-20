@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a7c0f5923a94b554b3797dc63a7b271f9921c56638ad8c946eacb9457fc35ed0",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/mcp-server-risks-red-team-walkthrough",
+    "canonical": "https://getunbound.ai/blog/mcp-server-risks-red-team-walkthrough"
+  },
+  "title": "Top MCP Server Risks in Production: A Red Team Walkthrough",
+  "summary": "Three MCP exploit chains end to end: tool poisoning, exfil chain, and confused deputy. Detection telemetry, controls, and AASB mapping for each.",
+  "published_at": "2026-04-27T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/04/a7/a7c0f5923a94b554b3797dc63a7b271f9921c56638ad8c946eacb9457fc35ed0/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/04/a7/a7c0f5923a94b554b3797dc63a7b271f9921c56638ad8c946eacb9457fc35ed0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14433,
+    "sha256": "sha256:bb7b8df32f21ae374d3fdaa29bc7eec4e4d17cfe5a636e3c6a5ba1cf694f6e51",
+    "normalized_content_hash": "sha256:e4556b20cab5dae2009d9e95fd093aa7de8aa896b667d43399261d0a68917935"
+  },
+  "provenance": {
+    "source_item_id": "736b85ed-2135-4756-897a-db546342c195",
+    "external_id": "https://getunbound.ai/blog/mcp-server-risks-red-team-walkthrough"
+  }
+}

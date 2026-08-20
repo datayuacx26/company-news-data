@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b76b7be75e5c561433791d945ca7e48d330ec38255a4ec343c0a86ae1f5a290f",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/how-to-test-vapi-voice-agents",
+    "canonical": "https://roark.ai/blog/how-to-test-vapi-voice-agents"
+  },
+  "title": "How to test Vapi voice agents",
+  "summary": "Why Vapi agents break in production, what Test Suites, Evals, and Simulations actually cover, and how to test the full audio path with real phone calls.",
+  "published_at": "2026-07-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T12:05:46.538010+00:00",
+  "fetched_at": "2026-07-28T21:22:12.115321+00:00",
+  "last_updated_at": "2026-07-28T21:23:05.381176+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/07/b7/b76b7be75e5c561433791d945ca7e48d330ec38255a4ec343c0a86ae1f5a290f/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/07/b7/b76b7be75e5c561433791d945ca7e48d330ec38255a4ec343c0a86ae1f5a290f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17584,
+    "sha256": "sha256:464b66c2c6c8cce1c255303278bafc33b7a8f4e9bf581fc1be04c687d3443206",
+    "normalized_content_hash": "sha256:c5531220f2a726959cda6d9778477868bc65d5334d460e87565395023124318f"
+  },
+  "provenance": {
+    "source_item_id": "72fc4593-d0b3-46e6-8bcd-6e9fb6d3b0c3",
+    "external_id": "https://roark.ai/blog/how-to-test-vapi-voice-agents"
+  }
+}

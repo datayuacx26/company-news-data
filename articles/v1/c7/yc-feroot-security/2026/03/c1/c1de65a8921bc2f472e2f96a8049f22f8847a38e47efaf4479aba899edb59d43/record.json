@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c1de65a8921bc2f472e2f96a8049f22f8847a38e47efaf4479aba899edb59d43",
+  "company": {
+    "key": "yc-feroot-security",
+    "name": "Feroot Security"
+  },
+  "source": {
+    "id": "yc-feroot-security-news-import-5cc226b40d32",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.feroot.com/blog/hipaa-pci-compliance-healthcare-billing/",
+    "canonical": "https://feroot.com/blog/hipaa-pci-compliance-healthcare-billing/"
+  },
+  "title": "HIPAA + PCI for Healthcare Billing: Protecting Both PHI and Payment Card Data",
+  "summary": "What HIPAA PCI compliance requires for healthcare billing pages, from run-time script risks to vendor agreements and unified controls.",
+  "published_at": "2026-03-25T18:33:05+00:00",
+  "first_seen_at": "2026-07-22T07:46:19.024825+00:00",
+  "fetched_at": "2026-07-28T22:17:49.677260+00:00",
+  "last_updated_at": "2026-08-20T03:19:00.317392+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-feroot-security/2026/03/c1/c1de65a8921bc2f472e2f96a8049f22f8847a38e47efaf4479aba899edb59d43/article.md",
+    "record": "articles/v1/c7/yc-feroot-security/2026/03/c1/c1de65a8921bc2f472e2f96a8049f22f8847a38e47efaf4479aba899edb59d43/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19936,
+    "sha256": "sha256:bc21271573401bb1544ffa356dcab7555dedfbc204fb2964be5d8f40f4f2c1de",
+    "normalized_content_hash": "sha256:8c36d00a8fff95bccbf47cdb08f2c55fe4b5bfe0dd073633055b8ceaf4d08b3b"
+  },
+  "provenance": {
+    "source_item_id": "a64f8d2c-0d77-419d-9285-f4413d223876",
+    "external_id": "https://feroot.com/blog/hipaa-pci-compliance-healthcare-billing/"
+  }
+}

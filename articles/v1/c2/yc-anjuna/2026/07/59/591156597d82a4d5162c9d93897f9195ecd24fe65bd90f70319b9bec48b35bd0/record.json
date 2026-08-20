@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "591156597d82a4d5162c9d93897f9195ecd24fe65bd90f70319b9bec48b35bd0",
+  "company": {
+    "key": "yc-anjuna",
+    "name": "Anjuna"
+  },
+  "source": {
+    "id": "yc-anjuna-news-import-d3424cd26fcb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.anjuna.io/blog/anjuna-seaglass-bare-metal-confidential-computing",
+    "canonical": "https://www.anjuna.io/blog/anjuna-seaglass-bare-metal-confidential-computing"
+  },
+  "title": "Confidential Computing for the Data Center: Anjuna Seaglass Extends to Bare Metal",
+  "summary": "Anjuna Seaglass now extends its universal confidential computing platform to AMD SEV bare-metal servers, bringing hardware-enforced isolation, cryptographic attestation, and compliance-ready proof to on-premises workloads, with zero code changes.",
+  "published_at": "2026-07-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T16:50:44.532118+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-19T22:54:07.514658+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-anjuna/2026/07/59/591156597d82a4d5162c9d93897f9195ecd24fe65bd90f70319b9bec48b35bd0/article.md",
+    "record": "articles/v1/c2/yc-anjuna/2026/07/59/591156597d82a4d5162c9d93897f9195ecd24fe65bd90f70319b9bec48b35bd0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10303,
+    "sha256": "sha256:1f0f6efb492b97445c5f5988ca69b0756e316d23941b73ad6e6646de3b77c4a0",
+    "normalized_content_hash": "sha256:02fada770a672652a1a3f7a2712ffe36cd19a85b72bc15ce430cbdef1c39da2f"
+  },
+  "provenance": {
+    "source_item_id": "b49c900f-ad39-4198-9b8f-540edcb2f8da",
+    "external_id": "https://www.anjuna.io/blog/anjuna-seaglass-bare-metal-confidential-computing"
+  }
+}

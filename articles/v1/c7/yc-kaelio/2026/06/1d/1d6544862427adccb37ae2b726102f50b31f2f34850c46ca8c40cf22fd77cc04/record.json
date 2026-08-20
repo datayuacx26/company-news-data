@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d6544862427adccb37ae2b726102f50b31f2f34850c46ca8c40cf22fd77cc04",
+  "company": {
+    "key": "yc-kaelio",
+    "name": "Kaelio"
+  },
+  "source": {
+    "id": "yc-kaelio-news-import-d43a8938b457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kaelio.com/blog/data-agent-sql-double-counts",
+    "canonical": "https://www.kaelio.com/blog/data-agent-sql-double-counts"
+  },
+  "title": "Why your data agent keeps writing SQL that double-counts",
+  "summary": "Fan and chasm traps, and how ktx compiles intent into safe SQL over a reviewed join graph.",
+  "published_at": "2026-06-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:08:24.751270+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T00:20:28.214979+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-kaelio/2026/06/1d/1d6544862427adccb37ae2b726102f50b31f2f34850c46ca8c40cf22fd77cc04/article.md",
+    "record": "articles/v1/c7/yc-kaelio/2026/06/1d/1d6544862427adccb37ae2b726102f50b31f2f34850c46ca8c40cf22fd77cc04/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18476,
+    "sha256": "sha256:67917e34494c5855423435572b0d4e87d0eaac98a3da6215f44e73acf3d38150",
+    "normalized_content_hash": "sha256:4747a3f51465cf8f1f3f0d6473ed17d69641c2f761af8fcb8962940b04e4470e"
+  },
+  "provenance": {
+    "source_item_id": "363f2047-71cb-46fc-84eb-e8e4be248cb4",
+    "external_id": "https://www.kaelio.com/blog/data-agent-sql-double-counts"
+  }
+}

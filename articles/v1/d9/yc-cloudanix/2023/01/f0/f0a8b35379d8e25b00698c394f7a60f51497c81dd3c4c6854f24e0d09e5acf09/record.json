@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0a8b35379d8e25b00698c394f7a60f51497c81dd3c4c6854f24e0d09e5acf09",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/creating-cname-for-google-cloud-run-service-functions/",
+    "canonical": "https://www.cloudanix.com/blog/creating-cname-for-google-cloud-run-service-functions/"
+  },
+  "title": "Creating CNAME for Google Cloud Run Service Functions",
+  "summary": "Step-by-step guide to creating a CNAME for Google Cloud Run services using load balancers, serverless NEGs, and path matchers for custom domains.",
+  "published_at": "2023-01-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:02:31.747135+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2023/01/f0/f0a8b35379d8e25b00698c394f7a60f51497c81dd3c4c6854f24e0d09e5acf09/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2023/01/f0/f0a8b35379d8e25b00698c394f7a60f51497c81dd3c4c6854f24e0d09e5acf09/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8018,
+    "sha256": "sha256:4a28a0e20e290a54af91ba79a0d3a0b8c70cc94c0062262c590c7eb95cbcf36a",
+    "normalized_content_hash": "sha256:452d5fce2b496bf7fd0c722ca415659906e6d2e444b1525119b79099217c342a"
+  },
+  "provenance": {
+    "source_item_id": "4574cc4e-56d0-415d-92ec-5baaba440866",
+    "external_id": "https://www.cloudanix.com/blog/creating-cname-for-google-cloud-run-service-functions/"
+  }
+}

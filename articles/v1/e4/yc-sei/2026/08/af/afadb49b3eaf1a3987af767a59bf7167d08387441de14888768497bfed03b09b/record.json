@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "afadb49b3eaf1a3987af767a59bf7167d08387441de14888768497bfed03b09b",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "source": {
+    "id": "yc-sei-rss-1b5243482862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://seiright.com/blog/ai-mortgage-point-of-sale-urla-intake-trid-application-condition-prevention",
+    "canonical": "https://seiright.com/blog/ai-mortgage-point-of-sale-urla-intake-trid-application-condition-prevention"
+  },
+  "title": "The AI Agent Behind the Mortgage Point-of-Sale: URLA Intake, the TRID Application Trigger, and Preventing the Conditions Before Underwriting Ever Sees Them",
+  "summary": "Most mortgage point-of-sale tools collect a 1003 and stop. The work that decides cycle time happens one layer down: reading what the borrower entered, catching the missing document while the borrower is still in the session, and knowing the exact moment intake becomes a TRID application with a three-day disclosure clock attached. Where an AI agent sits in the POS, what it is allowed to decide, and the compliance lines it cannot cross at the front door.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T04:41:47.792934+00:00",
+  "fetched_at": "2026-08-20T02:20:29.244809+00:00",
+  "last_updated_at": "2026-08-20T02:20:29.306031+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-sei/2026/08/af/afadb49b3eaf1a3987af767a59bf7167d08387441de14888768497bfed03b09b/article.md",
+    "record": "articles/v1/e4/yc-sei/2026/08/af/afadb49b3eaf1a3987af767a59bf7167d08387441de14888768497bfed03b09b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1149,
+    "sha256": "sha256:c8d58aea05f5d9477c8206f8f713f7d16d49fb9038ebd452a18f49cb1a18be27",
+    "normalized_content_hash": "sha256:4490970cc5b37ab7acf0bcc19e8cb437f741286e965185ee741ab5934eab9d2e"
+  },
+  "provenance": {
+    "source_item_id": "fc20b293-5318-471f-9b10-38c2c429f674",
+    "external_id": "https://seiright.com/blog/ai-mortgage-point-of-sale-urla-intake-trid-application-condition-prevention"
+  }
+}

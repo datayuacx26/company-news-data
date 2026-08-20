@@ -1,0 +1,52 @@
+---
+schema_version: "1.0.0"
+document_id: "e1e8b12a481d0947fd0da80e6c29a74f02d8ddc28d999229cb379bb49f28f7b7"
+company_key: "freeport-mcmoran-inc-common-stock"
+company: "Freeport-McMoRan Inc."
+source_id: "freeport-mcmoran-inc-common-stock-rss-bf79aaa5ec65"
+canonical_url: "https://fcx.com/freeport-features/071026"
+published_at: "2026-07-10T20:40:36+00:00"
+first_seen_at: "2026-07-20T23:21:27.507706+00:00"
+fetched_at: "2026-08-20T01:52:14.281037+00:00"
+content_hash: "sha256:1b8570bdc9ec7ddf79e286ecb20d9a077d19f2fba5d9559cb60511ebeaa8e8d2"
+---
+
+# Bagdad Hosts Corporate Interns for Annual Site Visit
+
+Bagdad Hosts Corporate Interns for Annual Site Visit
+
+
+mboyle
+
+
+Fri, 07/10/2026 - 13:40
+
+
+Post Image
+
+
+July 10, 2026- The company’s corporate interns recently traded the quiet hum of the office for the din of a fully producing mine, traveling to Bagdad for a tour that connected their work with day-to-day site operations.
+
+
+The tour was part of the “Intern Extravaganza,” a yearly event arranged for the summer interns by Freeport’s Talent Acquisition Programs team. Nearly 40 interns participated in this year’s Bagdad tour. In total, the company has close to 200 interns this summer, a mix of office and in-the-field workers experiencing modern mining across various Freeport sites and specialties.
+
+
+After last year’s visit to Sierrita, the Phoenix-based interns’ tour of Bagdad has returned as an annual part of the Extravaganza. In addition to getting a firsthand look at a mining operation, the interns also learned more about Bagdad’s initiatives, including the planned Bagdad 2X expansion, the Sycamore Tailings Storage Facility beginning construction and, of course, the Bagdad autonomous haulage system.
+
+
+While in Bagdad, the corporate interns toured key areas of the operation, including the mine shop, SX plant, tailings, mill concentrator and concentrate leach plant. At each stage of the tour, site leaders and subject matter experts were on hand to explain the role each area plays in the site’s broader operations. The tour closed out with a visit to the mine overlook, where the interns could watch the autonomous haul trucks in action, before getting a behind-the-scenes look in the command center.
+
+
+“We had a really great time on site,” said Isabella Cutaia, Temporary Summer Intern-Global Supply Chain. “We saw the autonomous trucks from the upper level and control room side. I think being able to transfer everything that we’ve seen at site and what we see on our systems working from the corporate office is really helpful.”
+
+
+Beyond the Bagdad visit, the two-day Intern Extravaganza also included an afternoon at the company’s Phoenix Hub, where interns took part in team-building exercises, networking opportunities and heard from former interns who transitioned to full-time roles with Freeport.
+
+
+Alyssa Kohn, Talent Acquisition Supervisor, said the two-day event plays an important role in helping interns understand the company’s operations, connect their work to broader organizational goals and build relationships that support future career opportunities.
+
+
+“The extravaganza is a chance for our interns to connect and develop professionally, as well as see how different parts of the business come together,” Kohn said. “The Talent Acquisition Programs team understands how important that is and puts a great deal of effort into planning the Hub programming and site visit. It’s an opportunity to create a connected experience that helps interns see how their roles – and their goals – fit within the company.”
+
+
+***Photo (top to bottom):*** Interns Isabella Cutaia (left) and Samahara Quintana Chavez take in the sights at Bagdad’s new command center; Corporate interns receive an up-close look at one of Bagdad’s autonomous haul trucks.

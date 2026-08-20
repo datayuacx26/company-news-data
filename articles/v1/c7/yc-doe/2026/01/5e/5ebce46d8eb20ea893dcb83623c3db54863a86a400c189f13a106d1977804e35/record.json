@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ebce46d8eb20ea893dcb83623c3db54863a86a400c189f13a106d1977804e35",
+  "company": {
+    "key": "yc-doe",
+    "name": "Doe"
+  },
+  "source": {
+    "id": "yc-doe-news-import-a3f9325ff0ec",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://doe.so/blog/introducing-trace-panel",
+    "canonical": "https://doe.so/blog/introducing-trace-panel"
+  },
+  "title": "Introducing the Trace Panel: Full Visibility Into Your AI Agent",
+  "summary": "Track every action your AI agent takes in real-time. The new Trace Panel gives you complete transparency to audit work, verify accuracy, and ensure reliability.",
+  "published_at": "2026-01-22T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T04:46:57.804362+00:00",
+  "fetched_at": "2026-07-28T22:23:15.131655+00:00",
+  "last_updated_at": "2026-08-20T03:32:35.432458+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-doe/2026/01/5e/5ebce46d8eb20ea893dcb83623c3db54863a86a400c189f13a106d1977804e35/article.md",
+    "record": "articles/v1/c7/yc-doe/2026/01/5e/5ebce46d8eb20ea893dcb83623c3db54863a86a400c189f13a106d1977804e35/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3566,
+    "sha256": "sha256:0b954410b6edf9821a202f3097e97810720e381e7865bf2b9f6cb868c746ba1f",
+    "normalized_content_hash": "sha256:477865c6769c70e42c2a5af829552c75d1ac90539169b9adee7e10890ae58a37"
+  },
+  "provenance": {
+    "source_item_id": "f0e0b35b-c2b6-41ca-bbe8-d6aa74c417ea",
+    "external_id": "https://doe.so/blog/introducing-trace-panel"
+  }
+}

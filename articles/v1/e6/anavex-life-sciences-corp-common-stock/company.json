@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "anavex-life-sciences-corp-common-stock",
+    "name": "Anavex Life Sciences Corp."
+  },
+  "record_count": 14,
+  "first_published_at": "2026-03-03T12:30:05+00:00",
+  "last_published_at": "2026-08-17T12:36:12+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e6/anavex-life-sciences-corp-common-stock/index/pages/000001.json",
+        "record_count": 14,
+        "byte_count": 18932,
+        "sha256": "sha256:34f6cdb94b0fc3db83050aea4b158be32bed99e1ea8f65dce64dbbfe37359e83",
+        "newest_at": "2026-08-17T12:36:12+00:00",
+        "oldest_at": "2026-03-03T12:30:05+00:00"
+      }
+    ]
+  }
+}

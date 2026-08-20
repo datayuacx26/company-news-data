@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3a49ca5b47f520c2130126d069ef2712be52cf1555808740a0be0015a845f595",
+  "company": {
+    "key": "wix-com-ltd-ordinary-shares",
+    "name": "Wix.com Ltd."
+  },
+  "source": {
+    "id": "wix-com-ltd-ordinary-shares-rss-e1d3c855eeb0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wix.engineering/post/from-syntax-checker-to-critical-reviewer-how-we-forced-ai-to-catch-real-api-quality-issues",
+    "canonical": "https://www.wix.engineering/post/from-syntax-checker-to-critical-reviewer-how-we-forced-ai-to-catch-real-api-quality-issues"
+  },
+  "title": "From Syntax Checker to Critical Reviewer: How We Convinced AI to Catch Real API Quality Issues",
+  "summary": "Building an AI tool to review API design taught us something fundamental about how AI approaches quality: it confidently optimizes for the least important parts.Instead of flagging the quality issues that actually hurt developers, like confusing workflows, hidden rules, or inconsistent mental models, it focused on the safe, measurable stuff: naming patterns, formatting mistakes, even typos. Developer experience issues just didn’t get caught, even though in our case, we specifically asked for the",
+  "published_at": "2026-01-07T10:09:21+00:00",
+  "first_seen_at": "2026-07-20T23:18:01.039713+00:00",
+  "fetched_at": "2026-07-28T22:24:01.443100+00:00",
+  "last_updated_at": "2026-08-20T00:29:14.534767+00:00",
+  "paths": {
+    "article": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/01/3a/3a49ca5b47f520c2130126d069ef2712be52cf1555808740a0be0015a845f595/article.md",
+    "record": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/01/3a/3a49ca5b47f520c2130126d069ef2712be52cf1555808740a0be0015a845f595/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11704,
+    "sha256": "sha256:ae31b35b646faa2f98d3d201857f544b3de13bfe1bf229ba307cc3afd39134f4",
+    "normalized_content_hash": "sha256:ed5bc72b0b945dfa09bddbcb972a7148f62d98243f9bac5d2888c18a633cfe52"
+  },
+  "provenance": {
+    "source_item_id": "169cbc5a-4eec-4489-ac3b-413ae1c8c477",
+    "external_id": "69b7fc641733b7e9e9e9e046"
+  }
+}

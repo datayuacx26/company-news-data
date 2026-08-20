@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4b4c0b8285c97f5c3288af7cceba055b67baceb0d97fc519f8743a3ae015d6d3",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/a-complete-list-of-aws-s3-misconfigurations/",
+    "canonical": "https://www.cloudanix.com/blog/a-complete-list-of-aws-s3-misconfigurations/"
+  },
+  "title": "A Complete List of AWS S3 Misconfigurations",
+  "summary": "Complete list of AWS S3 misconfigurations from public access to missing encryption. Learn how to fix each one and meet PCI, HIPAA, and GDPR compliance.",
+  "published_at": "2021-06-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2021/06/4b/4b4c0b8285c97f5c3288af7cceba055b67baceb0d97fc519f8743a3ae015d6d3/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2021/06/4b/4b4c0b8285c97f5c3288af7cceba055b67baceb0d97fc519f8743a3ae015d6d3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7998,
+    "sha256": "sha256:8fd73cf0f148d6ab0b268d1a519a9fe4f24112ec91a4c74849e9a3a5f4bc2aed",
+    "normalized_content_hash": "sha256:779fe8ddadfb6fd365daf903c847999efe2540a7c98a891986f6268f54145289"
+  },
+  "provenance": {
+    "source_item_id": "bc75e64f-ed5d-405b-b6b0-38b40bcf55ac",
+    "external_id": "https://www.cloudanix.com/blog/a-complete-list-of-aws-s3-misconfigurations/"
+  }
+}

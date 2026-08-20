@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "983ace9c8733ea627aa3757b099eaf62cd7d5d38caec2a5bef532422d975c7ed",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/opinion/agent-filesystem-source-of-truth",
+    "canonical": "https://www.freestyle.sh/blog/opinion/agent-filesystem-source-of-truth"
+  },
+  "title": "Your Agent Does Not Need a Filesystem. It Needs a Source of Truth",
+  "summary": "AI agent filesystem debates are really about truth: what changed, what is running, what can be resumed, and what a human can safely trust.",
+  "published_at": "2026-06-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:54:28.432730+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/98/983ace9c8733ea627aa3757b099eaf62cd7d5d38caec2a5bef532422d975c7ed/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/98/983ace9c8733ea627aa3757b099eaf62cd7d5d38caec2a5bef532422d975c7ed/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10406,
+    "sha256": "sha256:abf9b3e9a1103d162eaa80c0dfc3f22d52437b612d78b735ef455bf8f29ac84d",
+    "normalized_content_hash": "sha256:ab0c64230e87b1b876ab07eea6f0982ca3c57a0a5331cfe1e81fc6ccc937908c"
+  },
+  "provenance": {
+    "source_item_id": "895c443e-40fe-4139-bafb-86a38d82ecb8",
+    "external_id": "https://www.freestyle.sh/blog/opinion/agent-filesystem-source-of-truth"
+  }
+}

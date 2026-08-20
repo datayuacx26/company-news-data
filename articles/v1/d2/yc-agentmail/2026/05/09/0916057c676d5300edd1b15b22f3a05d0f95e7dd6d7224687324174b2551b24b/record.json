@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0916057c676d5300edd1b15b22f3a05d0f95e7dd6d7224687324174b2551b24b",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/agentmail-vs-sendgrid",
+    "canonical": "https://www.agentmail.to/blog/agentmail-vs-sendgrid"
+  },
+  "title": "AgentMail vs SendGrid",
+  "summary": "SendGrid is a sending pipe. AgentMail is an inbox. Here is what each one is built for, what the agent loop looks like in code, and how the multi-tenancy and pricing compare.",
+  "published_at": "2026-05-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T05:07:06.081239+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-07-29T12:38:37.033555+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/05/09/0916057c676d5300edd1b15b22f3a05d0f95e7dd6d7224687324174b2551b24b/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/05/09/0916057c676d5300edd1b15b22f3a05d0f95e7dd6d7224687324174b2551b24b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10055,
+    "sha256": "sha256:7a919d6b294db9d87baf388cbfaaff79a035cacdfdcf1faf2987174587e975b2",
+    "normalized_content_hash": "sha256:57e303f5fffa69853c0ed1bc53a2f5f2ba201e8db50eed55da5c68abe15be872"
+  },
+  "provenance": {
+    "source_item_id": "02a45f3a-3e1b-4e78-a5e4-d986a3aec386",
+    "external_id": "https://www.agentmail.to/blog/agentmail-vs-sendgrid"
+  }
+}

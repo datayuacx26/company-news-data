@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "010cc0be77c578a31e1fc985b48ff500b61adbde7b07125478c7a011058c2dfc",
+  "company": {
+    "key": "yc-junction",
+    "name": "Junction"
+  },
+  "source": {
+    "id": "yc-junction-news-import-b3b1cd4ba92d",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.junction.com/changelog/core/api",
+    "canonical": "https://docs.junction.com/changelog/core/api"
+  },
+  "title": "API - Junction",
+  "summary": "Changelog of core Junction API updates including lab test result interpretation, user ingestion bounds, and Sense query improvements.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:23:23.528404+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-08-20T01:58:47.900543+00:00",
+  "paths": {
+    "article": "articles/v1/d1/yc-junction/2026/07/01/010cc0be77c578a31e1fc985b48ff500b61adbde7b07125478c7a011058c2dfc/article.md",
+    "record": "articles/v1/d1/yc-junction/2026/07/01/010cc0be77c578a31e1fc985b48ff500b61adbde7b07125478c7a011058c2dfc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10396,
+    "sha256": "sha256:e2214817d3bceed739c61f34cb58115101ea8d7e9f635081d8dd147b0f849291",
+    "normalized_content_hash": "sha256:0d2f810fc8cd5432b4a8bd331a44381fcaf67bbdfb9e9ae90361a072840c0c8a"
+  },
+  "provenance": {
+    "source_item_id": "6520c2e2-5fd8-4c9d-8ca7-25737df9e064",
+    "external_id": "https://docs.junction.com/changelog/core/api"
+  }
+}

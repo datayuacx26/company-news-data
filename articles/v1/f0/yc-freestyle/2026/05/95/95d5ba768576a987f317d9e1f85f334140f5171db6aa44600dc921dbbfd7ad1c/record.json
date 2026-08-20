@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "95d5ba768576a987f317d9e1f85f334140f5171db6aa44600dc921dbbfd7ad1c",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/engineering/agent-filesystems-git",
+    "canonical": "https://www.freestyle.sh/blog/engineering/agent-filesystems-git"
+  },
+  "title": "The best filesystem for AI agents is Git",
+  "summary": "The best way to handle an agent's filesystem is Git: normal files for the agent, and commits, branches, diffs, rollback, permissions, and review for your product.",
+  "published_at": "2026-05-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:26:33.334256+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/05/95/95d5ba768576a987f317d9e1f85f334140f5171db6aa44600dc921dbbfd7ad1c/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/05/95/95d5ba768576a987f317d9e1f85f334140f5171db6aa44600dc921dbbfd7ad1c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14145,
+    "sha256": "sha256:02dcd1514ee24fad4673075a8daf5ec6bab28e148d0a24b75ff14519c4ee402a",
+    "normalized_content_hash": "sha256:b5e9662d9935f48e7bde308850a6fc0cb093d9f48182d7a61096e112c7cf7cff"
+  },
+  "provenance": {
+    "source_item_id": "30fd235c-5f77-4c6f-996a-3734e4a7da67",
+    "external_id": "https://www.freestyle.sh/blog/engineering/agent-filesystems-git"
+  }
+}

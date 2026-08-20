@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "932586a5a262fabfa73531d3e6a0433d9ab8432e3616357b3b2c692c44c44613"
+company_key: "yc-sei"
+company: "Sei"
+source_id: "yc-sei-rss-1b5243482862"
+canonical_url: "https://seiright.com/blog/sei-vs-prudent-ai-income-document-intelligence"
+published_at: "2026-06-11T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:20:45.548292+00:00"
+fetched_at: "2026-08-20T02:20:29.244809+00:00"
+content_hash: "sha256:04078c20268d99681a1af656d2dfe137cab7f0cbc0249b3b8834e8ce95269273"
+---
+
+# Sei AI vs Prudent AI: Income Calculation and the Full Mortgage Workflow
+
+A detailed comparison of Sei AI and Prudent AI for mortgage income calculation — bank-statement and self-employed income, Fannie Mae Income Calculator rep-and-warrant relief, and the underwriting, closing, and QC that follow.

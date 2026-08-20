@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20c41dbab8a4dd2f78c52ec3579c4335d583c9c5cff892b3d06eba319edd1557",
+  "company": {
+    "key": "yc-tensorfuse",
+    "name": "Tensorfuse"
+  },
+  "source": {
+    "id": "yc-tensorfuse-news-import-97ab2b67de47",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorfuse.io/docs/blogs/handling_unhealthy_nodes_in_eks",
+    "canonical": "https://tensorfuse.io/docs/blogs/handling_unhealthy_nodes_in_eks"
+  },
+  "title": "Handling Unhealthy Nodes in EKS",
+  "summary": "",
+  "published_at": "2025-04-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:02:52.953662+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-20T00:15:16.087749+00:00",
+  "paths": {
+    "article": "articles/v1/fb/yc-tensorfuse/2025/04/20/20c41dbab8a4dd2f78c52ec3579c4335d583c9c5cff892b3d06eba319edd1557/article.md",
+    "record": "articles/v1/fb/yc-tensorfuse/2025/04/20/20c41dbab8a4dd2f78c52ec3579c4335d583c9c5cff892b3d06eba319edd1557/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17856,
+    "sha256": "sha256:9a6dd5e9def130a37f72b7ed8cfe03c29ac25dcb435b0c61714303d0a08f7939",
+    "normalized_content_hash": "sha256:68e7b448067f0e0ed31add2a14aa88ff39357805365898113d5a4919e699e2c2"
+  },
+  "provenance": {
+    "source_item_id": "fbe01910-faee-4a80-805b-182258fc3c65",
+    "external_id": "https://tensorfuse.io/docs/blogs/handling_unhealthy_nodes_in_eks"
+  }
+}

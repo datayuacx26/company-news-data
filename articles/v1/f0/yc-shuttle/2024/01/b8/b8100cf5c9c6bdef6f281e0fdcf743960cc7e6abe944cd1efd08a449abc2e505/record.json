@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b8100cf5c9c6bdef6f281e0fdcf743960cc7e6abe944cd1efd08a449abc2e505",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/01/23/using-serde-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/01/23/using-serde-rust"
+  },
+  "title": "Using Serde in Rust",
+  "summary": "This article talks about serde, a Rust serialization library and how you can use it in applications.",
+  "published_at": "2024-01-23T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:18.654833+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/01/b8/b8100cf5c9c6bdef6f281e0fdcf743960cc7e6abe944cd1efd08a449abc2e505/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/01/b8/b8100cf5c9c6bdef6f281e0fdcf743960cc7e6abe944cd1efd08a449abc2e505/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14215,
+    "sha256": "sha256:5a6ad9104998bc8fc401264f67db9edf73d6deed3a48f53a098987bc0e7c22d6",
+    "normalized_content_hash": "sha256:1e9dcb42b5045556091b173d1f03a3816230699848ff2ba63a43152fd8e2cf15"
+  },
+  "provenance": {
+    "source_item_id": "53f16827-d2c4-4689-ae37-0e1d7309c07c",
+    "external_id": "https://www.shuttle.dev/blog/2024/01/23/using-serde-rust"
+  }
+}

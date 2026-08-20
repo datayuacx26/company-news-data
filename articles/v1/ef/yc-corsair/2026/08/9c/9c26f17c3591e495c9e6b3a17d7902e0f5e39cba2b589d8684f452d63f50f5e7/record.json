@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9c26f17c3591e495c9e6b3a17d7902e0f5e39cba2b589d8684f452d63f50f5e7",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/how-to-handle-google-api-deprecations-without-breaking-your-ai-integrations",
+    "canonical": "https://corsair.dev/blog/how-to-handle-google-api-deprecations-without-breaking-your-ai-integrations"
+  },
+  "title": "How to Handle Google API Deprecations Without Breaking Your AI Integrations",
+  "summary": "Google API deprecations can quietly break AI integrations when endpoints, fields, response formats, or authentication requirements change. Learn how to identify affected integrations, plan migrations, test API changes, and keep AI products reliable across Google API versions.",
+  "published_at": "2026-08-13T14:35:00+00:00",
+  "first_seen_at": "2026-08-13T18:32:28.639378+00:00",
+  "fetched_at": "2026-08-13T18:32:29.571414+00:00",
+  "last_updated_at": "2026-08-14T08:20:39.983160+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/08/9c/9c26f17c3591e495c9e6b3a17d7902e0f5e39cba2b589d8684f452d63f50f5e7/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/08/9c/9c26f17c3591e495c9e6b3a17d7902e0f5e39cba2b589d8684f452d63f50f5e7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11465,
+    "sha256": "sha256:de3f5887b73880bca304ae89ae4e31f2e4ef991f64d3a704374574dfc56b85d3",
+    "normalized_content_hash": "sha256:eefa19096c7883ae4a739059573b12146a0c06d223c4971d6ed483fceb8f5bf5"
+  },
+  "provenance": {
+    "source_item_id": "3e8e9686-fbb5-40aa-82f8-dbee770c8081",
+    "external_id": "https://corsair.dev/blog/how-to-handle-google-api-deprecations-without-breaking-your-ai-integrations"
+  }
+}

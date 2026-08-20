@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bbd097b712a547bd6147a201cb69ddbe9aa860320f456c5a47a3f50f637ec9bb",
+  "company": {
+    "key": "grab-holdings-limited-class-a-ordinary-shares",
+    "name": "Grab Holdings Limited"
+  },
+  "source": {
+    "id": "grab-holdings-limited-class-a-ordinary-shares-rss-d40cbf47f4b6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.grab.com/grab-bench-evaluating-ai",
+    "canonical": "https://engineering.grab.com/grab-bench-evaluating-ai"
+  },
+  "title": "Grab Bench: Evaluating AI on Grab-shaped production work",
+  "summary": "Broad AI benchmarks are good at telling us which models look strong on public leaderboards. They are less good at catching the quiet failures that break production systems. Grab Bench is our internal evaluation framework for testing AI models and agents on Grab-shaped work, with task-specific scoring, hidden cases, and row-level failure analysis so teams can see what actually went wrong.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-12T03:41:02.382111+00:00",
+  "fetched_at": "2026-08-12T03:41:03.502618+00:00",
+  "last_updated_at": "2026-08-20T01:36:43.012315+00:00",
+  "paths": {
+    "article": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/08/bb/bbd097b712a547bd6147a201cb69ddbe9aa860320f456c5a47a3f50f637ec9bb/article.md",
+    "record": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/08/bb/bbd097b712a547bd6147a201cb69ddbe9aa860320f456c5a47a3f50f637ec9bb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13147,
+    "sha256": "sha256:b18a47842b4eaa065ecb89c121afa8e8ac1fdf4daae9fbc360eb6021f679ad22",
+    "normalized_content_hash": "sha256:a9acd9abfcf50894156d4ac7b2602335f4f878f9e21102e36399cd29eba75059"
+  },
+  "provenance": {
+    "source_item_id": "172d864b-94e5-4891-b958-d11eed06640b",
+    "external_id": "https://engineering.grab.com/grab-bench-evaluating-ai"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be3069a3f70d04210992b2104b6c3fcf6bf4ac884785b800a134877529d2f0da",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-96ce084d16d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nullstone.io/blog-posts/designing-a-data-integration-pipeline",
+    "canonical": "https://www.nullstone.io/blog-posts/designing-a-data-integration-pipeline"
+  },
+  "title": "Designing a Data Integration Pipeline",
+  "summary": "AWS provides many tools for integrating data through an ingestion pipeline. In this article, we implement a pipeline using AWS Lambda.",
+  "published_at": "2021-11-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T04:02:46.708969+00:00",
+  "fetched_at": "2026-08-10T01:11:39.788792+00:00",
+  "last_updated_at": "2026-08-19T21:25:53.144763+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2021/11/be/be3069a3f70d04210992b2104b6c3fcf6bf4ac884785b800a134877529d2f0da/article.md",
+    "record": "articles/v1/da/yc-nullstone/2021/11/be/be3069a3f70d04210992b2104b6c3fcf6bf4ac884785b800a134877529d2f0da/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14137,
+    "sha256": "sha256:93405df8695880b6a0e2173947288b17e28e2a9620f1029c51dd34214cb133df",
+    "normalized_content_hash": "sha256:01fd270d72065a6b37f8b5431f7d075b268ed6a99b65e7fe9bae41f7f4156d5a"
+  },
+  "provenance": {
+    "source_item_id": "8e4b97ca-cf2a-4f76-941e-9eda989b8fe9",
+    "external_id": "https://www.nullstone.io/blog-posts/designing-a-data-integration-pipeline"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d0d0d181e50f8f05c3549526f3101ef4a3a7b182fa3751e974c4212fcaba7471",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/10/29/stream-http-mcp",
+    "canonical": "https://www.shuttle.dev/blog/2025/10/29/stream-http-mcp"
+  },
+  "title": "How to Build a Streamable HTTP MCP Server in Rust",
+  "summary": "Learn how to build and deploy a task manager MCP server using streamable HTTP transport in Rust. This guide covers the MCP protocol, real-time updates with SSE, and deployment to Shuttle for production use.",
+  "published_at": "2025-10-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/10/d0/d0d0d181e50f8f05c3549526f3101ef4a3a7b182fa3751e974c4212fcaba7471/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/10/d0/d0d0d181e50f8f05c3549526f3101ef4a3a7b182fa3751e974c4212fcaba7471/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16200,
+    "sha256": "sha256:bab8842418f283b30a4acc0cd9f140db92fc7532b8acccc5845a1dbab7f6b8bd",
+    "normalized_content_hash": "sha256:31a0a8eb83246ea0b3bb149493c0727e5d92d7a4caf4781a3732c8375769a29b"
+  },
+  "provenance": {
+    "source_item_id": "f1bc7593-b611-4fc6-a169-c34f063e3024",
+    "external_id": "https://www.shuttle.dev/blog/2025/10/29/stream-http-mcp"
+  }
+}

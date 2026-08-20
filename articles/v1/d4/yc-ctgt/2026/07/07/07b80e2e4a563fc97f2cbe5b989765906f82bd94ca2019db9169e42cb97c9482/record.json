@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07b80e2e4a563fc97f2cbe5b989765906f82bd94ca2019db9169e42cb97c9482",
+  "company": {
+    "key": "yc-ctgt",
+    "name": "CTGT"
+  },
+  "source": {
+    "id": "yc-ctgt-news-import-358f70d55d44",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "canonical": "https://www.ctgt.ai/research/distillation-censorship-transfer"
+  },
+  "title": "What a Distilled Model Inherits From Its Teacher",
+  "summary": "DeepSeek V4 Flash scores 45 points more censored on China-sensitive questions than on matched controls. Every model trained on it stays at the level of the untouched American base.",
+  "published_at": "2026-07-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T13:42:16.739521+00:00",
+  "fetched_at": "2026-07-29T13:42:17.345293+00:00",
+  "last_updated_at": "2026-08-19T15:32:18.305730+00:00",
+  "paths": {
+    "article": "articles/v1/d4/yc-ctgt/2026/07/07/07b80e2e4a563fc97f2cbe5b989765906f82bd94ca2019db9169e42cb97c9482/article.md",
+    "record": "articles/v1/d4/yc-ctgt/2026/07/07/07b80e2e4a563fc97f2cbe5b989765906f82bd94ca2019db9169e42cb97c9482/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20871,
+    "sha256": "sha256:f4c6df3daabf1470f045d0d36e480c2ecbd839543707071f6d6f90d43651a307",
+    "normalized_content_hash": "sha256:d703abc136c0a715eb0483ca70fe529be875120bddd9b63ea27c3bf6ae980237"
+  },
+  "provenance": {
+    "source_item_id": "3ca29578-3d44-401b-9646-0182e5724251",
+    "external_id": "https://www.ctgt.ai/research/distillation-censorship-transfer"
+  }
+}

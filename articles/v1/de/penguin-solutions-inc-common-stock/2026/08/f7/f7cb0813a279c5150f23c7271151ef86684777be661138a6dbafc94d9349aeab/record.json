@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f7cb0813a279c5150f23c7271151ef86684777be661138a6dbafc94d9349aeab",
+  "company": {
+    "key": "penguin-solutions-inc-common-stock",
+    "name": "Penguin Solutions Inc."
+  },
+  "source": {
+    "id": "penguin-solutions-inc-common-stock-news-import-f9c47211aa5e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.penguinsolutions.com/en-us/resources/blog/cxl-for-ai-workloads",
+    "canonical": "https://www.penguinsolutions.com/en-us/resources/blog/cxl-for-ai-workloads"
+  },
+  "title": "CXL® for AI Infrastructure: Bridging Compute, Memory, and Storage",
+  "summary": "Explore how CXL’s scalable memory design supports AI workloads with cache-coherent interconnects, composable infrastructure, and heterogeneous computing.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T19:00:09.417744+00:00",
+  "fetched_at": "2026-07-28T22:19:57.932105+00:00",
+  "last_updated_at": "2026-08-19T23:27:41.350700+00:00",
+  "paths": {
+    "article": "articles/v1/de/penguin-solutions-inc-common-stock/2026/08/f7/f7cb0813a279c5150f23c7271151ef86684777be661138a6dbafc94d9349aeab/article.md",
+    "record": "articles/v1/de/penguin-solutions-inc-common-stock/2026/08/f7/f7cb0813a279c5150f23c7271151ef86684777be661138a6dbafc94d9349aeab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8342,
+    "sha256": "sha256:7322526d9bcf860b98daa9839bf63608a39347dd362b5e830bdb06b0f0ceed1c",
+    "normalized_content_hash": "sha256:bed92fdf72ef035c271360f605f48f56f4ebf96625bb4565f254991e4cfde3a5"
+  },
+  "provenance": {
+    "source_item_id": "017d9b99-a65f-46eb-9fc0-f5e97d03bf12",
+    "external_id": "https://www.penguinsolutions.com/en-us/resources/blog/cxl-for-ai-workloads"
+  }
+}

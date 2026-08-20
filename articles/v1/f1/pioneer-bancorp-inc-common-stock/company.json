@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "pioneer-bancorp-inc-common-stock",
+    "name": "Pioneer Bancorp Inc."
+  },
+  "record_count": 21,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 21
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f1/pioneer-bancorp-inc-common-stock/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 23588,
+        "sha256": "sha256:de18ee2a6212b9bdf1e6b89583220365c2ad41a0d265c8eb2693e51800a64641",
+        "newest_at": "2026-07-29T23:36:10.526448+00:00",
+        "oldest_at": "2026-07-28T21:16:50.994015+00:00"
+      }
+    ]
+  }
+}

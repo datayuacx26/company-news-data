@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "42b073c9cdc80e1320bf0963f26f10ad01fbf5a4ff8b0fcd3abeb863206a23fe",
+  "company": {
+    "key": "nutanix-inc-class-a-common-stock",
+    "name": "Nutanix Inc."
+  },
+  "source": {
+    "id": "nutanix-inc-class-a-common-stock-rss-12a2d78c04c7",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.nutanix.dev/2026/04/22/part-1-scale-from-zero-node-pools-in-nkp-how-it-works-and-how-to-configure-it-2/",
+    "canonical": "https://www.nutanix.dev/2026/04/22/part-1-scale-from-zero-node-pools-in-nkp-how-it-works-and-how-to-configure-it-2/"
+  },
+  "title": "Part 2 – Scale From Zero Node Pools in NKP: Testing and Validating the Setup",
+  "summary": "Introduction In Part 1 of this series, we explained how Scale From Zero works in NKP, including how Cluster Autoscaler evaluates empty node pools and how to configure the required capacity annotations. If you missed it, it’s worth reading Part 1 first, since it covers the concepts and configuration that enable scaling from zero nodes. … Continue reading \"Part 2 – Scale From Zero Node Pools in NKP: Testing and Validating the Setup\"",
+  "published_at": "2026-04-22T14:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:31:13.386524+00:00",
+  "fetched_at": "2026-08-20T00:46:45.571645+00:00",
+  "last_updated_at": "2026-08-20T00:46:45.675134+00:00",
+  "paths": {
+    "article": "articles/v1/d1/nutanix-inc-class-a-common-stock/2026/04/42/42b073c9cdc80e1320bf0963f26f10ad01fbf5a4ff8b0fcd3abeb863206a23fe/article.md",
+    "record": "articles/v1/d1/nutanix-inc-class-a-common-stock/2026/04/42/42b073c9cdc80e1320bf0963f26f10ad01fbf5a4ff8b0fcd3abeb863206a23fe/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8037,
+    "sha256": "sha256:f35f14e865b4bf575d141e043f1f2c2ea284e4be1b74e37fc5b99e94c918110e",
+    "normalized_content_hash": "sha256:bf72c3c3d2521a99d22a863c59fbb49445be79e886bea75ba0d84ed5bc562098"
+  },
+  "provenance": {
+    "source_item_id": "1c8847b9-5858-47a6-b863-da80f2088749",
+    "external_id": "https://www.nutanix.dev/?p=69716"
+  }
+}

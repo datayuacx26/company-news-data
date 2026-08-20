@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "07df2534f51019f7e05705603258f3758c73fb154b63eaeb10de7e3e18c5c932",
+  "company": {
+    "key": "moody-s-corporation-common-stock",
+    "name": "Moody's Corporation"
+  },
+  "source": {
+    "id": "moody-s-corporation-common-stock-news-import-112754bd8765",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-peer-comparison.html",
+    "canonical": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-peer-comparison.html"
+  },
+  "title": "Prompting Part 10: Peer Comparison",
+  "summary": "When analyzing businesses or entities, comparing their performance to peers is one of the best ways to uncover meaningful insights. In this post, we’ll share prompts that streamline peer comparison, helping you generate actionable insights with ease.",
+  "published_at": "2025-08-20T16:14:00+00:00",
+  "first_seen_at": "2026-07-22T04:52:53.039531+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-19T18:58:22.864411+00:00",
+  "paths": {
+    "article": "articles/v1/e4/moody-s-corporation-common-stock/2025/08/07/07df2534f51019f7e05705603258f3758c73fb154b63eaeb10de7e3e18c5c932/article.md",
+    "record": "articles/v1/e4/moody-s-corporation-common-stock/2025/08/07/07df2534f51019f7e05705603258f3758c73fb154b63eaeb10de7e3e18c5c932/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6332,
+    "sha256": "sha256:003de65da74f3e89401220c470cd8441a47c5df46ead848b53c9fac6e4134a11",
+    "normalized_content_hash": "sha256:f674efc51ced3aadfb6cfd7d1112c820441e57a83011a1a2c59cef9a1707f6a9"
+  },
+  "provenance": {
+    "source_item_id": "dcf53b16-776b-4d1c-991e-cd7655e54145",
+    "external_id": "https://www.moodys.com/web/en/us/creditview/blog/prompting-series-peer-comparison.html"
+  }
+}

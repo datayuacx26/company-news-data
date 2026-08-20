@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d592bc097ec445eb34a83740b327a2eb3b4064fd3b2ac1ed7bd911b52c77d05b",
+  "company": {
+    "key": "yc-warpbuild",
+    "name": "WarpBuild"
+  },
+  "source": {
+    "id": "yc-warpbuild-news-import-6421ae0a6624",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.warpbuild.com/blog/github-actions-monorepo-guide",
+    "canonical": "https://warpbuild.com/blog/github-actions-monorepo-guide"
+  },
+  "title": "The Complete Guide to GitHub Actions for Monorepos: Turborepo, Nx, and pnpm Workspaces",
+  "summary": "Learn how to optimize GitHub Actions for monorepos using Turborepo, Nx, and pnpm workspaces. Reduce CI time by 12x with affected-only execution, remote caching, and dynamic matrix strategies.",
+  "published_at": "2026-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:23:06.881853+00:00",
+  "fetched_at": "2026-07-28T22:23:44.568277+00:00",
+  "last_updated_at": "2026-08-19T19:07:02.741042+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-warpbuild/2026/01/d5/d592bc097ec445eb34a83740b327a2eb3b4064fd3b2ac1ed7bd911b52c77d05b/article.md",
+    "record": "articles/v1/c0/yc-warpbuild/2026/01/d5/d592bc097ec445eb34a83740b327a2eb3b4064fd3b2ac1ed7bd911b52c77d05b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15684,
+    "sha256": "sha256:94bdbea1301162dec714e4039d8556ada999d58f0fcf11bbd59f6601bf48d891",
+    "normalized_content_hash": "sha256:c8030bcfd0ef19ec76f186a48f0fdb257e8c735a2f77bb8970d7297f67a4dca0"
+  },
+  "provenance": {
+    "source_item_id": "daae335e-d610-4906-92f7-b93144a0dd8d",
+    "external_id": "https://warpbuild.com/blog/github-actions-monorepo-guide"
+  }
+}

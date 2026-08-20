@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "efcab39ca3deb2d15de1c943cf3e84b3e91e79cbf0ed08098058a8457a464b73",
+  "company": {
+    "key": "yc-giga",
+    "name": "Giga"
+  },
+  "source": {
+    "id": "yc-giga-news-import-92619addbaaf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://giga.ai/news/scaling-rag-to-100k-documents-without-lag",
+    "canonical": "https://giga.ai/news/scaling-rag-to-100k-documents-without-lag"
+  },
+  "title": "Scaling RAG to 100K+ Documents Without Lag",
+  "summary": "Retrieval-Augmented Generation (RAG) is the bridge between large language models and the fresh, domain-specific data they need to deliver accurate…",
+  "published_at": "2025-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T04:46:42.853576+00:00",
+  "fetched_at": "2026-07-29T04:46:44.288934+00:00",
+  "last_updated_at": "2026-08-20T03:01:53.737879+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-giga/2025/08/ef/efcab39ca3deb2d15de1c943cf3e84b3e91e79cbf0ed08098058a8457a464b73/article.md",
+    "record": "articles/v1/d9/yc-giga/2025/08/ef/efcab39ca3deb2d15de1c943cf3e84b3e91e79cbf0ed08098058a8457a464b73/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6109,
+    "sha256": "sha256:bf639036d576741596d69411f3971d5a43303cdcde1aae08f13c93d2dc74bcf0",
+    "normalized_content_hash": "sha256:6296152cd8202a98fd6f58b39b7c03a360ad4f29d3e250a71be3090f4db44dd1"
+  },
+  "provenance": {
+    "source_item_id": "60693612-a02c-4d23-a79b-40801da86c5e",
+    "external_id": "https://giga.ai/news/scaling-rag-to-100k-documents-without-lag"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bd50f1f4ece9ff08f700db929d995867d12bd12fc33aae1f8ea30e0ee3e1bc7f",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/unbound-full-enforcement-github-copilot",
+    "canonical": "https://getunbound.ai/blog/unbound-full-enforcement-github-copilot"
+  },
+  "title": "Unbound Brings Full Enforcement to GitHub Copilot",
+  "summary": "GitHub shipped postToolUse hooks in the Copilot CLI on May 18, 2026. Unbound now governs Copilot at parity with Claude Code, Codex, and Cursor: audit, warn, approve, block on the most widely deployed AI coding agent in the enterprise.",
+  "published_at": "2026-05-19T13:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/05/bd/bd50f1f4ece9ff08f700db929d995867d12bd12fc33aae1f8ea30e0ee3e1bc7f/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/05/bd/bd50f1f4ece9ff08f700db929d995867d12bd12fc33aae1f8ea30e0ee3e1bc7f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9372,
+    "sha256": "sha256:8d070ece05f4c72e96de1f3a6a3af7be113f258b331313209949ebc59b9735de",
+    "normalized_content_hash": "sha256:1dc60a7ede5d79e27cfa88802420a060f3a155123ea91ec0ef13d53d728e85d4"
+  },
+  "provenance": {
+    "source_item_id": "c11273a0-7518-401e-809f-73bf083b6ec6",
+    "external_id": "https://getunbound.ai/blog/unbound-full-enforcement-github-copilot"
+  }
+}

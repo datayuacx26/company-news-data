@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "692aacb6108336493ab3fafbbb726eaa603e6c413c4d348ffd6305058bf227a5",
+  "company": {
+    "key": "yc-salt-security",
+    "name": "Salt Security"
+  },
+  "source": {
+    "id": "yc-salt-security-news-import-678c364a0dd5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://salt.security/blog/deconstructing-the-agentic-stack-why-api-visibility-is-the-ultimate-defense-for-ai-agents",
+    "canonical": "https://salt.security/blog/deconstructing-the-agentic-stack-why-api-visibility-is-the-ultimate-defense-for-ai-agents"
+  },
+  "title": "Why API Visibility Is the Ultimate Defense for AI Agents",
+  "summary": "Organizations are rushing to deploy AI agents, but many still lack a clear view of what those agents can access, which tools they can call, and which APIs they can trigger.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T12:48:36.869632+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-04T10:46:24.719949+00:00",
+  "paths": {
+    "article": "articles/v1/ca/yc-salt-security/2026/06/69/692aacb6108336493ab3fafbbb726eaa603e6c413c4d348ffd6305058bf227a5/article.md",
+    "record": "articles/v1/ca/yc-salt-security/2026/06/69/692aacb6108336493ab3fafbbb726eaa603e6c413c4d348ffd6305058bf227a5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10739,
+    "sha256": "sha256:07257d27df4fc6377fe52b1b8ee32dcfde22ed5de9681b30273f4bc95ca09601",
+    "normalized_content_hash": "sha256:74aedb4addd87bdcba7a1e35087ab882e5aff325d2b3e32d9cc3c7c047031a82"
+  },
+  "provenance": {
+    "source_item_id": "ae043b8d-f704-40aa-94b9-0d972647f82c",
+    "external_id": "https://salt.security/blog/deconstructing-the-agentic-stack-why-api-visibility-is-the-ultimate-defense-for-ai-agents"
+  }
+}

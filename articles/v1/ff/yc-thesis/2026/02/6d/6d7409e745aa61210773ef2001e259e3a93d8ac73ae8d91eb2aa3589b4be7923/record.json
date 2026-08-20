@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d7409e745aa61210773ef2001e259e3a93d8ac73ae8d91eb2aa3589b4be7923",
+  "company": {
+    "key": "yc-thesis",
+    "name": "Thesis"
+  },
+  "source": {
+    "id": "yc-thesis-rss-df316ac2148b",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://thesislabs.ai/research/regression-language-models",
+    "canonical": "https://thesislabs.ai/research/regression-language-models"
+  },
+  "title": "Regression Language Models: Predicting Anything from Raw Text",
+  "summary": "Two new papers from Google show that a small encoder-decoder model trained from raw text can predict complex system and code metrics far better than traditional tabular regression, opening the door to fast, learned surrogates for ML model search.",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T04:04:12.843518+00:00",
+  "fetched_at": "2026-08-10T04:04:13.995165+00:00",
+  "last_updated_at": "2026-08-20T02:36:02.552376+00:00",
+  "paths": {
+    "article": "articles/v1/ff/yc-thesis/2026/02/6d/6d7409e745aa61210773ef2001e259e3a93d8ac73ae8d91eb2aa3589b4be7923/article.md",
+    "record": "articles/v1/ff/yc-thesis/2026/02/6d/6d7409e745aa61210773ef2001e259e3a93d8ac73ae8d91eb2aa3589b4be7923/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17629,
+    "sha256": "sha256:605c33176cc714de5507aafa1a347dd333337636baa2f54b974f19cd2e97e71d",
+    "normalized_content_hash": "sha256:a7c453119f640ad8e733a464746269b1bebff5c08ef698d8bd4b0d21952490de"
+  },
+  "provenance": {
+    "source_item_id": "c5a6f174-ee2b-41ef-9849-65dc3ef0517c",
+    "external_id": "https://thesislabs.ai/research/regression-language-models"
+  }
+}

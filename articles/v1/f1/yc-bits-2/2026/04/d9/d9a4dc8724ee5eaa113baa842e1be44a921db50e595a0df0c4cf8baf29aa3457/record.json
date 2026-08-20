@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d9a4dc8724ee5eaa113baa842e1be44a921db50e595a0df0c4cf8baf29aa3457",
+  "company": {
+    "key": "yc-bits-2",
+    "name": "Bits"
+  },
+  "source": {
+    "id": "yc-bits-2-news-import-8ae56e6aae1c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://klausai.com/blog/how-we-monitor-500-openclaw-instances-and-what-breaks/",
+    "canonical": "https://klausai.com/blog/how-we-monitor-500-openclaw-instances-and-what-breaks/"
+  },
+  "title": "How We Monitor 500+ OpenClaw Instances (And What Breaks)",
+  "summary": "Behind the scenes of running 500+ OpenClaw instances at Klaus. Real failure data, what Clawbert catches, and why monitoring is harder than it looks.",
+  "published_at": "2026-04-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T21:07:46.493176+00:00",
+  "fetched_at": "2026-07-28T22:03:18.293552+00:00",
+  "last_updated_at": "2026-08-19T19:27:31.738273+00:00",
+  "paths": {
+    "article": "articles/v1/f1/yc-bits-2/2026/04/d9/d9a4dc8724ee5eaa113baa842e1be44a921db50e595a0df0c4cf8baf29aa3457/article.md",
+    "record": "articles/v1/f1/yc-bits-2/2026/04/d9/d9a4dc8724ee5eaa113baa842e1be44a921db50e595a0df0c4cf8baf29aa3457/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15080,
+    "sha256": "sha256:3d5e787a0f103f0a7a89d0dd3b678c8476548b8dd0771e3ad66604b33a5bf520",
+    "normalized_content_hash": "sha256:f55bc34aec2ce222243e60575cd456350054e0e6408b18f98a16d77557850ff0"
+  },
+  "provenance": {
+    "source_item_id": "aa458150-da86-4e4e-97eb-a1a3dd9383fd",
+    "external_id": "https://klausai.com/blog/how-we-monitor-500-openclaw-instances-and-what-breaks/"
+  }
+}

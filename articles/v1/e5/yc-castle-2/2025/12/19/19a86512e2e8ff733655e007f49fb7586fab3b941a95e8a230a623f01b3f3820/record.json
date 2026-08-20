@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "19a86512e2e8ff733655e007f49fb7586fab3b941a95e8a230a623f01b3f3820",
+  "company": {
+    "key": "yc-castle-2",
+    "name": "Castle"
+  },
+  "source": {
+    "id": "yc-castle-2-news-import-b99476926256",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.castle.io/changelog/multiple-api-keys",
+    "canonical": "https://docs.castle.io/changelog/multiple-api-keys"
+  },
+  "title": "Multiple API keys",
+  "summary": "Create multiple Publishable API Keys and API Secrets. Rotate or revoke one key without breaking your other integrations. Available on Enterprise plans. The workflow: create a new key, migrate traffic gradually, delete the old one when ready. Label each key by purpose (Production Web, Mobile iOS, Eve…",
+  "published_at": "2025-12-02T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T12:42:16.969450+00:00",
+  "fetched_at": "2026-07-28T21:27:04.798558+00:00",
+  "last_updated_at": "2026-07-28T21:27:30.231193+00:00",
+  "paths": {
+    "article": "articles/v1/e5/yc-castle-2/2025/12/19/19a86512e2e8ff733655e007f49fb7586fab3b941a95e8a230a623f01b3f3820/article.md",
+    "record": "articles/v1/e5/yc-castle-2/2025/12/19/19a86512e2e8ff733655e007f49fb7586fab3b941a95e8a230a623f01b3f3820/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1009,
+    "sha256": "sha256:74e29de5e4e83e82cc14915d37c6b15a3c818abdd2cdaa5b97affc0843d8e864",
+    "normalized_content_hash": "sha256:4a16633ef49ad90079a679b8f4041efb015cbf8596612b2cbad01ae52bd45430"
+  },
+  "provenance": {
+    "source_item_id": "aa04b010-f166-4d48-98d9-1d8c1dcc85f4",
+    "external_id": "https://docs.castle.io/changelog/multiple-api-keys"
+  }
+}

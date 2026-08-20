@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c71ac8922dda56c27d2c47bf9e121a909fbdbf874ebdceada3ef9e3bcd48414d",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/how-to-warm-up-a-new-email-domain",
+    "canonical": "https://bird.com/en-us/blog/how-to-warm-up-a-new-email-domain"
+  },
+  "title": "How to Warm Up a New Email Domain",
+  "summary": "A cold domain has no reputation, so providers filter it. Warm up by ramping volume gradually and leading with your most engaged recipients.",
+  "published_at": "2026-05-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/05/c7/c71ac8922dda56c27d2c47bf9e121a909fbdbf874ebdceada3ef9e3bcd48414d/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/05/c7/c71ac8922dda56c27d2c47bf9e121a909fbdbf874ebdceada3ef9e3bcd48414d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6315,
+    "sha256": "sha256:1c3491a626fe8ce3204017f2c9bc228f779bfc8b91b911f292752cc81aa15d80",
+    "normalized_content_hash": "sha256:fae1dbdfc39efd332ca83cc0d0e8758a004578584549c596d1f521b7e949b8fe"
+  },
+  "provenance": {
+    "source_item_id": "00ed03c9-ce93-4714-966c-44c77ecc14e1",
+    "external_id": "https://bird.com/en-us/blog/how-to-warm-up-a-new-email-domain"
+  }
+}

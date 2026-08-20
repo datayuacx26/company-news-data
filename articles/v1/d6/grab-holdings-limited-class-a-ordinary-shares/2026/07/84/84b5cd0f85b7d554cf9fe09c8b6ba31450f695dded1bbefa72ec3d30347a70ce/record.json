@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "84b5cd0f85b7d554cf9fe09c8b6ba31450f695dded1bbefa72ec3d30347a70ce",
+  "company": {
+    "key": "grab-holdings-limited-class-a-ordinary-shares",
+    "name": "Grab Holdings Limited"
+  },
+  "source": {
+    "id": "grab-holdings-limited-class-a-ordinary-shares-rss-d40cbf47f4b6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.grab.com/crowdsourced-taxonomy-verification",
+    "canonical": "https://engineering.grab.com/crowdsourced-taxonomy-verification"
+  },
+  "title": "Crowdsourced taxonomy verification: A feedback-driven framework for refining knowledge graph relationships via online search interactions",
+  "summary": "Knowledge graphs power modern search and recommendation systems, but automated construction methods can introduce semantic inaccuracies. This framework verifies KG relationships in real time by injecting candidate edges into live search results and using user feedback to validate semantic truth.",
+  "published_at": "2026-07-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-31T17:01:02.854866+00:00",
+  "fetched_at": "2026-07-31T17:01:04.255583+00:00",
+  "last_updated_at": "2026-08-20T01:36:43.012315+00:00",
+  "paths": {
+    "article": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/07/84/84b5cd0f85b7d554cf9fe09c8b6ba31450f695dded1bbefa72ec3d30347a70ce/article.md",
+    "record": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/07/84/84b5cd0f85b7d554cf9fe09c8b6ba31450f695dded1bbefa72ec3d30347a70ce/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16631,
+    "sha256": "sha256:0f00208ac0669369821975fafd7a5500b7932b871f7d6337610b04e45fadcd41",
+    "normalized_content_hash": "sha256:77794273be3bd80f4004cc9643b10b590c871fa04e13a868ad838c7efd693419"
+  },
+  "provenance": {
+    "source_item_id": "a7af51fa-5e61-4920-ae4a-0570bfe9a22a",
+    "external_id": "https://engineering.grab.com/crowdsourced-taxonomy-verification"
+  }
+}

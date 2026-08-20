@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cabea6c669dde89127cbc1e45194b1d836dff0c4ad4eb0970e109427391c54ba",
+  "company": {
+    "key": "yc-photoroom",
+    "name": "Photoroom"
+  },
+  "source": {
+    "id": "yc-photoroom-rss-f545fb403576",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.photoroom.com/inside-photoroom/building-cross-platform-image-renderer",
+    "canonical": "https://www.photoroom.com/inside-photoroom/building-cross-platform-image-renderer"
+  },
+  "title": "Building a fast cross-platform image renderer",
+  "summary": "Photoroom initially developed as an iPhone app, utilizing Apple's Core Image framework for efficient image processing, leading to rapid development by a small team; however, when expanding to Android, they found existing options lacking and created their own solution, PhotoGraph, inspired by Core Image, focusing on flexibility, performance, and portability across platforms.",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:00:21.557706+00:00",
+  "fetched_at": "2026-07-28T21:47:36.059629+00:00",
+  "last_updated_at": "2026-08-20T02:15:24.874490+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-photoroom/2026/07/ca/cabea6c669dde89127cbc1e45194b1d836dff0c4ad4eb0970e109427391c54ba/article.md",
+    "record": "articles/v1/cc/yc-photoroom/2026/07/ca/cabea6c669dde89127cbc1e45194b1d836dff0c4ad4eb0970e109427391c54ba/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11231,
+    "sha256": "sha256:ee9c60601c4903392e0c1c5803c1269144f3971ff5013eef6645e21754264fc4",
+    "normalized_content_hash": "sha256:f0ba814113ffe6ff03435ab57b938c89985bf71f9a38b809e79136a284d2215e"
+  },
+  "provenance": {
+    "source_item_id": "84e28720-061f-49be-ac2a-c5567444bc7a",
+    "external_id": "https://www.photoroom.com/inside-photoroom/building-cross-platform-image-renderer"
+  }
+}

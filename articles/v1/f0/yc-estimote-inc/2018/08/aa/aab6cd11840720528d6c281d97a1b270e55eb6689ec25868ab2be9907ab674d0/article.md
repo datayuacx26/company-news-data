@@ -1,0 +1,234 @@
+---
+schema_version: "1.0.0"
+document_id: "aab6cd11840720528d6c281d97a1b270e55eb6689ec25868ab2be9907ab674d0"
+company_key: "yc-estimote-inc"
+company: "Estimote, Inc."
+source_id: "yc-estimote-inc-rss-9f8374160089"
+canonical_url: "https://blog.estimote.com/post/177348177680"
+published_at: "2018-08-28T21:06:44+00:00"
+first_seen_at: "2026-07-27T09:08:36.947635+00:00"
+fetched_at: "2026-07-28T21:06:15.160827+00:00"
+content_hash: "sha256:6f1e057ac6b3c1732d6265f01c22c8a6577d8ec6d07682a4fc9dd4cca83f1b30"
+---
+
+# Announcing LTE Beacon for asset tracking
+
+At Estimote we believe apps of the future won’t be downloaded to phones, computers or tablets. Developers of tomorrow will use the physical world as their canvas. Precise location of people and objects will be accessed programmatically and apps will be “installed” on places.
+
+
+To make this happen we are working on an Operating System for the physical world: a software environment where developers will be able to quickly build apps for one location and run the same experience on many.
+
+
+Our first product, Estimote Bluetooth Beacons launched in 2013, enabled us to locate people and their phones inside buildings. To do that, we used Bluetooth Low Energy (BLE), an emerging technology at the time. Our iconic design, easy-to-use software and simple APIs made them the most popular beacons for developers. Since then, more than 150,000 innovators, startups, agencies, and Fortune 500 companies have used them to create context-aware apps. They’ve built mobile solutions to increase workplace productivity, comply with safety regulations, and deliver other magical experiences at scale, something that simply can’t be accomplished without accurate microlocation.
+
+
+**New product from Estimote**
+
+
+Today we are proud to announce another revolutionary IoT device. Once again, we chose to leverage emerging IoT technologies (LTE M1 and NB-IoT) and have designed and productized a new device we call the “Estimote LTE Beacon.”
+
+
+It’s a small, wireless beacon that can compute both its precise indoor and outdoor position. It can talk directly to the cloud and last multiple years on a battery.
+
+
+Estimote LTE Beacons are designed primarily to seamlessly locate assets and vehicles when they move between indoor and outdoor environments. Their secure firmware/cloud software is crafted to provide true “proof of location” and “proof of delivery.”
+
+
+Since the device is fully programmable using JavaScript, it can also support other creative use-cases — for example, it can act as a remotely managed iBeacon or a gateway used to configure other Bluetooth beacons.
+
+
+**Smartphone without a screen**
+
+
+The best way to think of this new IoT device is to imagine it as a small smartphone, but without a screen. It can last years between charges and the cost is similar to a beacon. It has cellular LTE connectivity, built-in GPS, and Bluetooth radio. And it is also possible to create and download apps that run on the LTE beacon.
+
+
+**LTE Beacon specification**
+
+
+To create this new device from Estimote we have integrated the best Internet of Things components, designing the most robust beacon the industry has ever seen. Below, you can find the full specification and tech details of the radio and other IoT components we have used.
+
+
+PROCESSOR AND MEMORY
+
+
+It has a low-power 32-bit ARM Cortex-M4 CPU with floating point unit (FPU) running at 64 MHz. There is 1MB flash with cache onboard and 256KB RAM supporting over-the-air (OTA) firmware updates. There is an additional ARM CryptoCell co-processor with a full AES 128-bit suite as well as a true random number generator for full entropy and asymmetric/symmetric hashing cryptographic services.
+
+
+BLUETOOTH RADIO
+
+
+We have integrated one of the newest 2.4 GHz radios. It fully supports the latest Bluetooth 5.0 standard including mesh networking, long range, and high data throughput. The radio could also support 802.15.4-based protocols such as Thread and ANT. There is an additional amplifier (+20 dB) for extended range of packet advertising (200m).
+
+
+SATELLITE POSITIONING
+
+
+The device has a low-power satellite signal receiver supporting American GPS, European Galileo, Russian GLONASS, Chinese BeiDou, and Japanese QZSS. It uses multi-constellation algorithms for fast and accurate fixes using all visible satellites.
+
+
+LTE CONNECTIVITY
+
+
+Cloud connectivity is possible using a low-power LTE IoT modem equipped with an ARM Cortex A7 (1.3 GHz) and supporting 5G-ready protocols such as LTE Cat-M1 and Cat-NB1. The peak data upload speed to the cloud is 375 KBps for LTE-M and 60 KBps for NB-IoT. The modem supports eDRX and PSM sleep cycles to reduce power consumption while enabling cloud-invoked communication with the device. The modem and the antenna support 15 bands (B1/B2/B3/B4/B5/B8/B12/B13/B18/B19/B20/B26/B28/B39) that cover virtually the entire world.
+
+
+OTHER COMPONENTS
+
+
+- Lithium-Ion rechargeable battery lasting 2 years on default settings
+- USB-C compatible with USB 2.0 for fast charging
+- NFC-A programmable tag supporting NFC Type 2 and Type 4
+- 3-axis accelerometer
+- Programmable push button for specific use-cases such as alerts
+- Programmable RGB LEDs
+- Temperature sensor
+- Integrated ultra-strong adhesive layer
+- Mounting hole for industrial deployments
+- Durable, non-toxic silicone enclosure
+
+
+**How does the LTE Beacon work?**
+
+
+This LTE-M device can be attached to an asset, e.g. a jet engine manufactured in a factory. When it moves across the production line, the LTE Beacon scans for Bluetooth beacons installed in the factory and reports its precise indoor location to the cloud. When loaded into a truck, it continues to report its outdoor position using satellite systems. It can also report key telemetry data such as temperature, vibration, and battery status.
+
+
+When the jet engine arrives at a warehouse, it switches back to beacon-tracking for precise indoor positioning. And finally, when the product gets shipped to the end-customer it can automatically report a secure “proof of delivery” signal.
+
+
+The above use case is just one example of how the LTE Beacon can be programmed to work. We have designed an entirely new way of adapting the device to support many Internet of Things applications.
+
+
+**Programmable beacon and micro apps**
+
+
+Our previous generation of beacons had really only one “app” installed—our embedded firmware. It exposed some of the settings such as range, compatible packets (iBeacon or Eddystone) or other parameters. But it wasn’t possible for our customers to “upload” their own software into the device.
+
+
+The new Estimote LTE Beacon is different. We created a[Web IDE in Estimote Cloud](http://ide.estimote.com/) where you can program it using JavaScript. We’re exposing a[bunch of APIs](https://developer.estimote.com/lte-beacon/micro-app-api-reference/) for you to use in the process: BLE scanning & advertising, sending & receiving data via LTE-M to/from Estimote Cloud, obtaining GPS coordinates, reading from on-device sensors, responding to the button press, etc.
+
+
+When you’re done, Estimote Cloud will compile the code into a “micro-app,” and send the bytecode to the LTE beacon, where it starts being executed.
+
+
+For example, if we want to program the LTE Beacon to use its Bluetooth radio to advertise both iBeacon and Eddystone at the same time, we can upload the micro app code below.
+
+
+```text
+// Define your iBeacon packet
+var iBeaconPacket = ble.build.iBeacon('DE4E12E7-7E0F-4A6B-A4DD-AA837507FB20', 2000, 18);
+// Define your Eddystone-URL packet
+var EddystonePacket = ble.build.eddystoneURL('https://estimote.com');
+
+
+// Start Bluetooth LE advertising
+ble.advertise(iBeaconPacket);
+ble.advertise(EddystonePacket).interval(500).power(4);
+`
+`
+Here is another example. This one will detect if the central button on the device was pressed, read the GPS
+
+
+<pre>`
+function sendPosition() {
+var { latitude, longitude } = location.getLastPosition();
+cloud.enqueue('position-update', { lat: latitude, lon: longitude });
+}
+
+
+io.press(io.button.MAIN, sendPosition);
+`</pre>
+
+
+### Lambda expressions
+
+
+To accelerate the back-end prototyping and enable developers to quickly process the data received from the LTE device, we have also added an element of serverless architecture.
+
+
+![Estimote Web IDE]( https://66.media.tumblr.com/b59b77e4fa08cedc2bba4697302f8f18/324a880156401b37-19/s540x810/e8e42e6886c1ec70202e67229a1d214982f20119.jpg  )
+
+
+In addition to the micro app code, you can write another JavaScript snippet—this time, a function that sits in Estimote Cloud, and processes the data received from the LTE beacon.
+
+
+For example, if you want to create a “panic button” application which uses Twilio to send a text message whenever the button is pressed on the LTE-M device, here is an example micro app code and additional lambda expression.
+
+
+<pre>``io.press(io.button.MAIN, () =>; {
+// send an 'alert' event to Estimote Cloud
+cloud.enqueue('alert');
+});
+
+
+// Your Account Sid and Auth Token from twilio.com/console
+const accountSid = '…';
+const authToken = '…';
+const twilio = require('twilio')(accountSid, authToken);
+
+
+module.exports = async function(message) {
+// respond to the 'alert' event
+if (message.type === 'alert') {
+await twilio.messages.create({
+body: 'There's been an alert…',
+to: '+1…',
+from: '+1…',
+});
+}
+};
+
+
+```
+
+
+Of course our new product can be also programmed to send requests to user defined end-points in their own cloud enviroment.
+
+
+**IoT app templates**
+
+
+We call a pair of these two JavaScript snippets an “IoT Application,” and we have prepared a few templates you can choose from when adding a new IoT App in Estimote Cloud. With these templates, it will be possible to quickly turn the device into a GPS tracker, a cloud beacon, or a location-aware panic button.
+
+
+There will be a separate blogpost on how the LTE Beacon can be programmed, so you can learn more about the entire process there. Stay tuned!
+
+
+**LTE-M device battery life**
+
+
+Since this LTE Beacon is fully programmable, battery life will depend on the micro app, the intensity of the radio usage, and also the external environment such as distance to base stations, type of connection (LTE Cat M1 or Narrowband IoT) and visibility of satellites.
+
+
+For example, if we program the device to act as a GPS tracker and do nothing else other than send GPS coordinates to the cloud once a day, it will last approximately 2 years. However, if we want to get real-time position of an asset and receive GPS updates every few seconds, the device will last a few days at most.
+
+
+The rule of thumb is that:
+
+
+- Bluetooth advertising (iBeacon/Eddystone) consumes the least power
+- Scanning for Bluetooth devices consumes significantly more energy
+- Processing satellite signals is even more power-hungry
+- And finally scanning and sending data over the LTE-M and Narrowband networks drains the battery the most. Note that it is still a fraction of the energy needed for cloud communication using classic voice or data sent over 3G
+
+
+As part of our Cloud-based IDE, we are working on a battery usage profiler, so we will be able to help developers predict the battery consumption of their apps.
+
+
+Estimote LTE Beacon also has a USB-C port and a rechargeable battery built-in, so it can be powered or recharged when necessary for applications that require a constant cloud connection or GPS/Bluetooth scanning.
+
+
+**Pricing and availability**
+
+
+We are shipping LTE Beacons as Developer Kits. Each box will include two devices and the total cost will be **$129 + shipping** . We can ship anywhere in the world.
+
+
+Since the LTE Beacons have active data plans and talk to the LTE networks of our telecommunication partners as well as use our cloud services, there will be an additional subscription fee. For the beacons in the dev kit, it will be $2 per device per month, and the first 3 months are free. The devices can be still used and programmed without an active subscription, but the cloud connectivity won’t be possible.
+
+
+**PoC and Pilots**
+
+
+If you also need assistance building your first IoT apps using our Web IDE and APIs we are always more than happy to help. Shoot us a note at:

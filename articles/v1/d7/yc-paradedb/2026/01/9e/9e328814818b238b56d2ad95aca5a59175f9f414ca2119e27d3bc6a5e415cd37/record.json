@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9e328814818b238b56d2ad95aca5a59175f9f414ca2119e27d3bc6a5e415cd37",
+  "company": {
+    "key": "yc-paradedb",
+    "name": "ParadeDB"
+  },
+  "source": {
+    "id": "yc-paradedb-rss-b460d8ada1d2",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.paradedb.com/blog/personalized-search-in-postgresql",
+    "canonical": "https://www.paradedb.com/blog/personalized-search-in-postgresql"
+  },
+  "title": "Postgres as a Recommender Engine",
+  "summary": "Build a production-grade personalized search engine entirely within Postgres using BM25 retrieval and vector-based reranking, no external infrastructure required.",
+  "published_at": "2026-01-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:48.722459+00:00",
+  "fetched_at": "2026-07-28T22:23:16.767603+00:00",
+  "last_updated_at": "2026-08-20T02:15:21.077987+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-paradedb/2026/01/9e/9e328814818b238b56d2ad95aca5a59175f9f414ca2119e27d3bc6a5e415cd37/article.md",
+    "record": "articles/v1/d7/yc-paradedb/2026/01/9e/9e328814818b238b56d2ad95aca5a59175f9f414ca2119e27d3bc6a5e415cd37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14188,
+    "sha256": "sha256:144dde41da5ed4b0d0d9518f4cf08cd7a0651320d0bb62909a97de0f010dc5b7",
+    "normalized_content_hash": "sha256:216b683a7aae8d1fb35f840a804f2eac4dfa93f0c1feb6ea09b03360c9063ed6"
+  },
+  "provenance": {
+    "source_item_id": "2a754af9-47f0-41cb-9f9b-be444c50a0d1",
+    "external_id": "https://www.paradedb.com/blog/personalized-search-in-postgresql"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7310a4bbf762faee5c7235e01f85521832e97d1e831d1a7ccd5bc5bbdcc5248",
+  "company": {
+    "key": "yc-unsiloed-ai",
+    "name": "Unsiloed AI"
+  },
+  "source": {
+    "id": "yc-unsiloed-ai-news-import-f01c67e8267b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.unsiloed.ai/blog/jsonreader-setlenient-malformed-json",
+    "canonical": "https://www.unsiloed.ai/blog/jsonreader-setlenient-malformed-json"
+  },
+  "title": "How to Use JsonReader.setLenient(true) to Accept Malformed JSON (March 2026 Guide)",
+  "summary": "Learn when to use JsonReader.setLenient(true) for malformed JSON errors and when to fix the source instead. Complete March 2026 guide with Retrofit examples.",
+  "published_at": "2026-03-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:07:01.705483+00:00",
+  "fetched_at": "2026-07-28T22:00:18.082649+00:00",
+  "last_updated_at": "2026-08-20T03:12:47.029800+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-unsiloed-ai/2026/03/d7/d7310a4bbf762faee5c7235e01f85521832e97d1e831d1a7ccd5bc5bbdcc5248/article.md",
+    "record": "articles/v1/ea/yc-unsiloed-ai/2026/03/d7/d7310a4bbf762faee5c7235e01f85521832e97d1e831d1a7ccd5bc5bbdcc5248/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15372,
+    "sha256": "sha256:a3e9d8d2bd7722c75b32bfa8aa25d3908456ef0602746d4977487a5828caee7f",
+    "normalized_content_hash": "sha256:67d6067cd306cf8e29c95022dd7ff58e002a33552cd2dfe7e4d527f0a417a0d4"
+  },
+  "provenance": {
+    "source_item_id": "0ba27c31-4bd1-4e34-97b0-72fca03b2853",
+    "external_id": "https://www.unsiloed.ai/blog/jsonreader-setlenient-malformed-json"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f0b080ce76331fded7928dc8c592595965e083e61025cdc94283f11564fae493",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/engineering/how-to-build-a-code-interpreter-on-freestyle",
+    "canonical": "https://www.freestyle.sh/blog/engineering/how-to-build-a-code-interpreter-on-freestyle"
+  },
+  "title": "How to Build a Code Interpreter on Freestyle",
+  "summary": "A practical guide to building a code interpreter for AI agents on Freestyle VMs: sandboxed code execution, snapshotting, live forking, and suspend/resume sessions.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:26:33.334256+00:00",
+  "fetched_at": "2026-07-28T21:44:39.747323+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/05/f0/f0b080ce76331fded7928dc8c592595965e083e61025cdc94283f11564fae493/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/05/f0/f0b080ce76331fded7928dc8c592595965e083e61025cdc94283f11564fae493/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14636,
+    "sha256": "sha256:4fb1cd4091ca50c4056ca2dd42d7e29a6e61a31d8fa5030dfd04c4dc031151e0",
+    "normalized_content_hash": "sha256:287bc336a98bd994e0d99710becb3842a37af1db3924d0fb16c46ceba391359d"
+  },
+  "provenance": {
+    "source_item_id": "9cc9d7c0-15c5-4ed6-a4ed-181b53f0206e",
+    "external_id": "https://www.freestyle.sh/blog/engineering/how-to-build-a-code-interpreter-on-freestyle"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-helium",
+    "name": "Helium"
+  },
+  "record_count": 4,
+  "first_published_at": "2026-02-04T03:03:15.258+00:00",
+  "last_published_at": "2026-08-06T02:30:51.577+00:00",
+  "partitions": [
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d8/yc-helium/index/pages/000001.json",
+        "record_count": 4,
+        "byte_count": 3854,
+        "sha256": "sha256:91b2d1fe6a03eb1eddc50360925a842556c836d09ca2fe3cccf001d001066902",
+        "newest_at": "2026-08-06T02:30:51.577+00:00",
+        "oldest_at": "2026-02-04T03:03:15.258+00:00"
+      }
+    ]
+  }
+}

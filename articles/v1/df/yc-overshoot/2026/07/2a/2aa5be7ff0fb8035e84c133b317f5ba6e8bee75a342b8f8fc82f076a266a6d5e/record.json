@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2aa5be7ff0fb8035e84c133b317f5ba6e8bee75a342b8f8fc82f076a266a6d5e",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/from-pixels-to-tokens",
+    "canonical": "https://www.overshoot.ai/blogs/from-pixels-to-tokens"
+  },
+  "title": "From Pixels to Tokens: How Vision Transformers Read Images",
+  "summary": "How Vision Transformers turn spatial images into patch tokens, why pixels are too costly, and how visual tokens connect to language models.",
+  "published_at": "2026-07-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T03:44:15.654746+00:00",
+  "fetched_at": "2026-07-29T03:44:17.208372+00:00",
+  "last_updated_at": "2026-08-19T19:55:23.664772+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/07/2a/2aa5be7ff0fb8035e84c133b317f5ba6e8bee75a342b8f8fc82f076a266a6d5e/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/07/2a/2aa5be7ff0fb8035e84c133b317f5ba6e8bee75a342b8f8fc82f076a266a6d5e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7825,
+    "sha256": "sha256:dcf3e836436681144b4c4e2c048fce6fc31d57ed3a7fa1225d8d7dfb5a3c3cdb",
+    "normalized_content_hash": "sha256:b6ee8bf5dabfa6e372034a809c436da9e4a80d544997d3453587d1155dd94b99"
+  },
+  "provenance": {
+    "source_item_id": "60977d6a-1ce7-4b8b-8678-562681ac8491",
+    "external_id": "https://www.overshoot.ai/blogs/from-pixels-to-tokens"
+  }
+}

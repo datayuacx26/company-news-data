@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8959dd7b8a263f906c65a9103062b06c8ac37b6c62a5feddcfff84127be40319",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/multi-tenant-oauth-ai-agents-best-practices",
+    "canonical": "https://corsair.dev/blog/multi-tenant-oauth-ai-agents-best-practices"
+  },
+  "title": "Multi-Tenant OAuth for AI Agents: Best Practices for Authentication and Credential Management",
+  "summary": "Best practices for multi-tenant OAuth in AI agents — how to structure credential management, scope permissions per tenant, and avoid the mistakes that turn auth into a security liability.",
+  "published_at": "2026-07-16T11:53:00+00:00",
+  "first_seen_at": "2026-07-21T15:04:37.944582+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-13T04:19:07.443047+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/89/8959dd7b8a263f906c65a9103062b06c8ac37b6c62a5feddcfff84127be40319/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/89/8959dd7b8a263f906c65a9103062b06c8ac37b6c62a5feddcfff84127be40319/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12070,
+    "sha256": "sha256:bea4614e2d71c3f4f1f534caa0fd6983e004aa0c8d1c52afa8154eab5fd5e44b",
+    "normalized_content_hash": "sha256:9f9e56e2d15a4d895486f6a2ecbb37c130c6af8de68a4cb562bfbc642c447827"
+  },
+  "provenance": {
+    "source_item_id": "a9054605-4b93-4d62-abcd-59d78dbdd3b9",
+    "external_id": "https://corsair.dev/blog/multi-tenant-oauth-ai-agents-best-practices"
+  }
+}

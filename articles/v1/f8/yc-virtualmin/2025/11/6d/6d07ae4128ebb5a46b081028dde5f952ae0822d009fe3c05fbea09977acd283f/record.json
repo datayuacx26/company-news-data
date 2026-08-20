@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6d07ae4128ebb5a46b081028dde5f952ae0822d009fe3c05fbea09977acd283f",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/webmin-version-2-610-released/135889",
+    "canonical": "https://forum.virtualmin.com/t/webmin-version-2-610-released/135889"
+  },
+  "title": "Webmin version 2.610 released",
+  "summary": "Howdy all, We’ve rolled out Webmin version 2.610 to all Virtualmin repos. Changes since 2.600: Fix to drop dependency on IO::Pty Perl module Fix virtual-server module server-side search to work correctly Update the Authentic theme to the latest version with various improvements and fixes: Add a range slider to adjust content page margins more precisely Add an option to enable rounded corners for content page Add more customization options for pie charts Fix to increase clickable area for ch...",
+  "published_at": "2025-11-26T21:07:45+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T21:58:33.663804+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2025/11/6d/6d07ae4128ebb5a46b081028dde5f952ae0822d009fe3c05fbea09977acd283f/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2025/11/6d/6d07ae4128ebb5a46b081028dde5f952ae0822d009fe3c05fbea09977acd283f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3207,
+    "sha256": "sha256:ac369d1e980c75b9c85522dff19519fa16dab4672b42d96b24570a28ec79b3ea",
+    "normalized_content_hash": "sha256:f1851afeb73ca040303dbc218ca8d7942b03a705ed87430cdfce86d39d0f1bbb"
+  },
+  "provenance": {
+    "source_item_id": "5138f795-ebc2-4d17-871d-bae17899b2ab",
+    "external_id": "forum.virtualmin.com-topic-135889"
+  }
+}

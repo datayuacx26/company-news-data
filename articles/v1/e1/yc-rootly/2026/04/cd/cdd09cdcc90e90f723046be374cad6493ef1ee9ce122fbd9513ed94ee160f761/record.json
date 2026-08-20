@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cdd09cdcc90e90f723046be374cad6493ef1ee9ce122fbd9513ed94ee160f761",
+  "company": {
+    "key": "yc-rootly",
+    "name": "Rootly"
+  },
+  "source": {
+    "id": "yc-rootly-news-import-8d53140345fd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rootly.com/blog/the-claude-code-leak-shows-why-release-reliability-matters",
+    "canonical": "https://rootly.com/blog/the-claude-code-leak-shows-why-release-reliability-matters"
+  },
+  "title": "The Claude Code leak: which signals could've caught it?",
+  "summary": "Anthropic's Claude Code leak exposed source code through an npm package. Learn which pipeline signals could have caught it, and how release reliability prevents incidents like this.",
+  "published_at": "2026-04-01T10:33:00+00:00",
+  "first_seen_at": "2026-07-24T00:13:28.618726+00:00",
+  "fetched_at": "2026-07-28T21:56:50.434513+00:00",
+  "last_updated_at": "2026-07-28T21:57:32.422690+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-rootly/2026/04/cd/cdd09cdcc90e90f723046be374cad6493ef1ee9ce122fbd9513ed94ee160f761/article.md",
+    "record": "articles/v1/e1/yc-rootly/2026/04/cd/cdd09cdcc90e90f723046be374cad6493ef1ee9ce122fbd9513ed94ee160f761/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4419,
+    "sha256": "sha256:cd7a3b5c6a0ba7fee52a4a60d60e4a12b9a5d3cb1568717480be2cd91a48ad7a",
+    "normalized_content_hash": "sha256:2c988f9680559d1a05b802a191f8a5eca392b5ff38fe41c47acd7f0fb1114e12"
+  },
+  "provenance": {
+    "source_item_id": "9b8b29c1-9967-4e07-ae79-0db5558ac131",
+    "external_id": "https://rootly.com/blog/the-claude-code-leak-shows-why-release-reliability-matters"
+  }
+}

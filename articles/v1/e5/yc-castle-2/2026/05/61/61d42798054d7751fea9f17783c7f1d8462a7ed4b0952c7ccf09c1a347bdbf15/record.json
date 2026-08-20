@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61d42798054d7751fea9f17783c7f1d8462a7ed4b0952c7ccf09c1a347bdbf15",
+  "company": {
+    "key": "yc-castle-2",
+    "name": "Castle"
+  },
+  "source": {
+    "id": "yc-castle-2-news-import-b99476926256",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.castle.io/changelog/detect-residential-proxies-with-new-ip-intelligence",
+    "canonical": "https://docs.castle.io/changelog/detect-residential-proxies-with-new-ip-intelligence"
+  },
+  "title": "Detect residential proxies with new IP intelligence",
+  "summary": "Castle has long provided Proxy IP and Tor IP signals to flag suspicious IP activity. With this release, we're adding a new Residential Proxy IP signal and richer IP tunnel intelligence. Residential proxies route traffic through real consumer ISPs, making them invisible to traditional datacenter-base…",
+  "published_at": "2026-05-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T11:16:58.513640+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-20T02:45:41.804501+00:00",
+  "paths": {
+    "article": "articles/v1/e5/yc-castle-2/2026/05/61/61d42798054d7751fea9f17783c7f1d8462a7ed4b0952c7ccf09c1a347bdbf15/article.md",
+    "record": "articles/v1/e5/yc-castle-2/2026/05/61/61d42798054d7751fea9f17783c7f1d8462a7ed4b0952c7ccf09c1a347bdbf15/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3196,
+    "sha256": "sha256:99d3b49ccb8377220237a8d96925a436144fd6b1c3207a9197d7dfe16e53ff98",
+    "normalized_content_hash": "sha256:8106bee0ece58ccb089e76b2abd541f0725ec98188a48ef6dbd83f1f147c39d2"
+  },
+  "provenance": {
+    "source_item_id": "01ec5645-64db-4427-9c64-e98b0baa84a3",
+    "external_id": "https://docs.castle.io/changelog/detect-residential-proxies-with-new-ip-intelligence"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b45b9aff2aa3be8302db90bb16a0ca5fc28d67586315dc93a1bc57cb82382348",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-solutions-sendgrid-hubspot",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-solutions-sendgrid-hubspot"
+  },
+  "title": "When HubSpot Says Opted Out and SendGrid Says Send Anyway",
+  "summary": "Two-way sync between SendGrid and HubSpot: the five problems it has to solve (conflicts, echo loops, identity, latency, consent) and how each option compares.",
+  "published_at": "2026-07-22T09:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/b4/b45b9aff2aa3be8302db90bb16a0ca5fc28d67586315dc93a1bc57cb82382348/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/b4/b45b9aff2aa3be8302db90bb16a0ca5fc28d67586315dc93a1bc57cb82382348/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15073,
+    "sha256": "sha256:9ba056338131f74e8ef310ffcb91a5d48b679aa83ff5a0c10f0cd22115aa30a9",
+    "normalized_content_hash": "sha256:c53cb21c566752170655bca184d9f0ebcd12b97e904badabf6c4046c7b727fe8"
+  },
+  "provenance": {
+    "source_item_id": "5211ce55-b95f-4a4e-8a01-1a079cea4d26",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-solutions-sendgrid-hubspot"
+  }
+}

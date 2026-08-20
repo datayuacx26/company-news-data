@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "73a734ab3b3bf0b89d55f51621d4da33836d8d954541d8c85e7e81ee478dcaf8",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/handle-api-changes-without-breaking-mcp-integrations",
+    "canonical": "https://corsair.dev/blog/handle-api-changes-without-breaking-mcp-integrations"
+  },
+  "title": "How to Handle API Changes Without Breaking Your MCP Integrations",
+  "summary": "Provider API changes can quietly break MCP integrations through renamed fields, changed scopes, altered pagination, or new response formats. Learn how to detect changes early, isolate provider-specific updates, roll out migrations safely, and build resilient MCP servers that keep AI agents working.",
+  "published_at": "2026-08-13T14:57:00+00:00",
+  "first_seen_at": "2026-08-13T18:32:28.639378+00:00",
+  "fetched_at": "2026-08-13T18:32:29.571414+00:00",
+  "last_updated_at": "2026-08-14T08:20:39.983160+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/08/73/73a734ab3b3bf0b89d55f51621d4da33836d8d954541d8c85e7e81ee478dcaf8/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/08/73/73a734ab3b3bf0b89d55f51621d4da33836d8d954541d8c85e7e81ee478dcaf8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12873,
+    "sha256": "sha256:18cbecbae597527c219128db6b0e8bbb12a6547d0aa944cd7e9c06be3258000f",
+    "normalized_content_hash": "sha256:c8e2f507605cfa662d8d5678ea94d9873d573110f39002b080614559a314658f"
+  },
+  "provenance": {
+    "source_item_id": "329a270e-ecac-49e9-9bde-9c874f046e35",
+    "external_id": "https://corsair.dev/blog/handle-api-changes-without-breaking-mcp-integrations"
+  }
+}

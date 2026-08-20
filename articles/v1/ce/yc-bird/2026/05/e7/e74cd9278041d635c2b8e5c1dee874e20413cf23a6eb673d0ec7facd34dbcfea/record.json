@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e74cd9278041d635c2b8e5c1dee874e20413cf23a6eb673d0ec7facd34dbcfea",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/sending-emails-with-nodemailer",
+    "canonical": "https://bird.com/en-us/blog/sending-emails-with-nodemailer"
+  },
+  "title": "Sending Emails With Nodemailer",
+  "summary": "Send email from Node.js with Nodemailer using SMTP transport, then learn when an HTTP email API is the simpler path for production sending.",
+  "published_at": "2026-05-03T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:25:33.541420+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/05/e7/e74cd9278041d635c2b8e5c1dee874e20413cf23a6eb673d0ec7facd34dbcfea/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/05/e7/e74cd9278041d635c2b8e5c1dee874e20413cf23a6eb673d0ec7facd34dbcfea/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6561,
+    "sha256": "sha256:c3d4a153333405ed2bc4aad00a4eebd7ebb35965f738fb23744827832dbfa3d5",
+    "normalized_content_hash": "sha256:52f8c6eac3377d93d2d8552d5076db628c73c22ec643dda7f50356219116da71"
+  },
+  "provenance": {
+    "source_item_id": "c809218c-b4d6-44a6-8ad9-80d295b4aeaa",
+    "external_id": "https://bird.com/en-us/blog/sending-emails-with-nodemailer"
+  }
+}

@@ -1,0 +1,16 @@
+---
+schema_version: "1.0.0"
+document_id: "3d3b74173d45a503139c31e426335ee656caff1d258003966c043b58d00e8138"
+company_key: "yc-sei"
+company: "Sei"
+source_id: "yc-sei-rss-1b5243482862"
+canonical_url: "https://seiright.com/blog/reg-dd-truth-in-savings-1030-ai-deposit-product-recommendations"
+published_at: "2026-07-31T00:00:00+00:00"
+first_seen_at: "2026-08-02T01:24:07.710436+00:00"
+fetched_at: "2026-08-20T02:20:29.244809+00:00"
+content_hash: "sha256:cf7928dd24f60152bd5b2b135dd3cecde5b56337e4d3f4480d21916575a50219"
+---
+
+# Reg DD Truth in Savings (12 CFR 1030) With AI Deposit-Product Recommendations: The APY Formula the Rule Actually Prescribes, the Change-in-Terms Notice, and Where an AI Cross-Sell Crosses Into Deception
+
+Reg DD is the deposit-side companion to Reg Z: it prescribes a single APY formula, requires specific account-opening and periodic-statement disclosures, and imposes a 30-day advance-notice regime for adverse changes in terms. The AI cross-sell that suggests a higher-yield product, the retention offer that promises a rate, and the chatbot that answers 'what's my rate?' are all Reg DD surfaces. Where the disclosures actually have to appear, and where an AI conversation crosses the line into a UDAAP problem.

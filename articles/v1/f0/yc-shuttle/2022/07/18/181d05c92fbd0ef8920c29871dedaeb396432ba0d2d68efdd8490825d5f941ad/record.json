@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "181d05c92fbd0ef8920c29871dedaeb396432ba0d2d68efdd8490825d5f941ad",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/07/28/patterns-with-rust-types",
+    "canonical": "https://www.shuttle.dev/blog/2022/07/28/patterns-with-rust-types"
+  },
+  "title": "Patterns with Rust types",
+  "summary": "Patterns to use types for better safety and design",
+  "published_at": "2022-07-28T18:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:03:19.340687+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/07/18/181d05c92fbd0ef8920c29871dedaeb396432ba0d2d68efdd8490825d5f941ad/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/07/18/181d05c92fbd0ef8920c29871dedaeb396432ba0d2d68efdd8490825d5f941ad/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15033,
+    "sha256": "sha256:c9f68ca4ada9da0533972bd5e57ccaff0190042865b218cfd95458a19e3d8df9",
+    "normalized_content_hash": "sha256:add9fd66f7ce03828dc55d8b102703db15c3328a9cc1e3f9911e36fddf84044f"
+  },
+  "provenance": {
+    "source_item_id": "5a3bae53-045d-47c1-8995-170590951744",
+    "external_id": "https://www.shuttle.dev/blog/2022/07/28/patterns-with-rust-types"
+  }
+}

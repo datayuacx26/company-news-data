@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b7d7e0d4ed4545faac3fb59fd9ddcb5fc04b20d71d2c35bffb9b6316b18a103",
+  "company": {
+    "key": "yc-tensorpool",
+    "name": "TensorPool"
+  },
+  "source": {
+    "id": "yc-tensorpool-news-import-ce508c9f2d8e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorpool.dev/blog/zeroentropy-zerank-training",
+    "canonical": "https://tensorpool.dev/blog/zeroentropy-zerank-training"
+  },
+  "title": "How ZeroEntropy Trained the zerank Model Family on TensorPool",
+  "summary": "How ZeroEntropy's reranker models achieved SOTA performance through innovative training methods and elastic GPU access.",
+  "published_at": "2025-11-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T13:32:36.763199+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-19T22:44:13.707282+00:00",
+  "paths": {
+    "article": "articles/v1/e7/yc-tensorpool/2025/11/6b/6b7d7e0d4ed4545faac3fb59fd9ddcb5fc04b20d71d2c35bffb9b6316b18a103/article.md",
+    "record": "articles/v1/e7/yc-tensorpool/2025/11/6b/6b7d7e0d4ed4545faac3fb59fd9ddcb5fc04b20d71d2c35bffb9b6316b18a103/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4077,
+    "sha256": "sha256:7a0552fef2c733ae393e1c8b8ed7e405becfed9b00f01c091d7e54163e3bc802",
+    "normalized_content_hash": "sha256:f089c0c6927f46a8e22d1c29b6d4fc890727c75bcc74f1e0deb3956a69d8dc59"
+  },
+  "provenance": {
+    "source_item_id": "a72e176f-c219-4482-b4a5-2248bbe1d310",
+    "external_id": "https://tensorpool.dev/blog/zeroentropy-zerank-training"
+  }
+}

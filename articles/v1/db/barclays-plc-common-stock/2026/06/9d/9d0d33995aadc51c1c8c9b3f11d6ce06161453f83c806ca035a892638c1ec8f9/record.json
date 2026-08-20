@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9d0d33995aadc51c1c8c9b3f11d6ce06161453f83c806ca035a892638c1ec8f9",
+  "company": {
+    "key": "barclays-plc-common-stock",
+    "name": "Barclays PLC"
+  },
+  "source": {
+    "id": "barclays-plc-common-stock-news-import-74dff52153b3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://privatebank.barclays.com/insights/uk-gilts-pricing-another-change-in-westminster-06-2026/",
+    "canonical": "https://privatebank.barclays.com/insights/uk-gilts-pricing-another-change-in-westminster-06-2026/"
+  },
+  "title": "UK gilts: pricing another change in Westminster",
+  "summary": "How will the change of UK political leadership impact the outlook for interest rates and the gilt market? Discover what bond investors need to know.",
+  "published_at": "2026-06-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T18:53:31.081473+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-19T19:47:00.615052+00:00",
+  "paths": {
+    "article": "articles/v1/db/barclays-plc-common-stock/2026/06/9d/9d0d33995aadc51c1c8c9b3f11d6ce06161453f83c806ca035a892638c1ec8f9/article.md",
+    "record": "articles/v1/db/barclays-plc-common-stock/2026/06/9d/9d0d33995aadc51c1c8c9b3f11d6ce06161453f83c806ca035a892638c1ec8f9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7436,
+    "sha256": "sha256:88865cc691e38ce9176a1977b084b3db4c4a702f5e5ee2fcb551e1ac76a445cc",
+    "normalized_content_hash": "sha256:38fe146aa507ac49d8ab89e7fbff1b2ea22a0d0c04c4fd3e13ed0cb3dee1fed1"
+  },
+  "provenance": {
+    "source_item_id": "c26933f5-c5cd-4dec-aa57-41b33d38842c",
+    "external_id": "https://privatebank.barclays.com/insights/uk-gilts-pricing-another-change-in-westminster-06-2026/"
+  }
+}

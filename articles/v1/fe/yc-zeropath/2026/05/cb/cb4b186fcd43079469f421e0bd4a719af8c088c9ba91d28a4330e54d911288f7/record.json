@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cb4b186fcd43079469f421e0bd4a719af8c088c9ba91d28a4330e54d911288f7",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/how-to-handle-bug-bounty-reports-with-zero",
+    "canonical": "https://zeropath.com/blog/how-to-handle-bug-bounty-reports-with-zero"
+  },
+  "title": "How To Handle Bug Bounty Reports With ZERO",
+  "summary": "AI-assisted submission volume has inflated bug bounty inboxes while exploitation timelines have compressed to hours. ZERO drafts triage decisions (ticket or response) on the codebase context ZeroPath has already built, for a human to approve or override.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:50:52.708520+00:00",
+  "fetched_at": "2026-07-28T22:13:03.870884+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/05/cb/cb4b186fcd43079469f421e0bd4a719af8c088c9ba91d28a4330e54d911288f7/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/05/cb/cb4b186fcd43079469f421e0bd4a719af8c088c9ba91d28a4330e54d911288f7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6762,
+    "sha256": "sha256:9969a6eb03a943e91530366952480feecef6da5f197e02875efdf17528b13be6",
+    "normalized_content_hash": "sha256:670898a0302daf6228e327b47920119bd872e9499b76bc1df94a826bbf06e5f4"
+  },
+  "provenance": {
+    "source_item_id": "4420211e-e82f-4d14-a3c3-f487cf09867f",
+    "external_id": "https://zeropath.com/blog/how-to-handle-bug-bounty-reports-with-zero"
+  }
+}

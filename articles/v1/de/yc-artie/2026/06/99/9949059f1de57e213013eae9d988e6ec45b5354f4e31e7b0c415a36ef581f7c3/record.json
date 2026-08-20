@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9949059f1de57e213013eae9d988e6ec45b5354f4e31e7b0c415a36ef581f7c3",
+  "company": {
+    "key": "yc-artie",
+    "name": "Artie"
+  },
+  "source": {
+    "id": "yc-artie-news-import-55a3a4fb236c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artie.com/blogs/online-database-backfill",
+    "canonical": "https://www.artie.com/blogs/online-database-backfill"
+  },
+  "title": "Database Backfill Without Downtime: How Online Backfills Work",
+  "summary": "How online CDC backfills keep destination tables fully usable during a resync, using dual-write staging and atomic table swaps.",
+  "published_at": "2026-06-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T02:25:22.954541+00:00",
+  "fetched_at": "2026-07-28T21:43:28.836467+00:00",
+  "last_updated_at": "2026-08-19T23:45:22.324875+00:00",
+  "paths": {
+    "article": "articles/v1/de/yc-artie/2026/06/99/9949059f1de57e213013eae9d988e6ec45b5354f4e31e7b0c415a36ef581f7c3/article.md",
+    "record": "articles/v1/de/yc-artie/2026/06/99/9949059f1de57e213013eae9d988e6ec45b5354f4e31e7b0c415a36ef581f7c3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13225,
+    "sha256": "sha256:b76d14c0cc45b8f61a3caa4993c9075d65d739150d3d1db03788ec0aa24a0c2b",
+    "normalized_content_hash": "sha256:9bccaa5bd00407ebc3ea4a2db54bfac4fb67c1cd3ccce649e873f5884ad5c94a"
+  },
+  "provenance": {
+    "source_item_id": "7ed23278-3eaa-4975-8602-1812c7518ae8",
+    "external_id": "https://www.artie.com/blogs/online-database-backfill"
+  }
+}

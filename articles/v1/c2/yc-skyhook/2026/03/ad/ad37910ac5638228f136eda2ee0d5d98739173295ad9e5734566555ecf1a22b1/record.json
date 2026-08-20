@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ad37910ac5638228f136eda2ee0d5d98739173295ad9e5734566555ecf1a22b1",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/argocd-in-production-patterns-that-actually-matter",
+    "canonical": "https://www.skyhook.io/blog/argocd-in-production-patterns-that-actually-matter"
+  },
+  "title": "ArgoCD in Production: Patterns That Actually Matter",
+  "summary": "Installing ArgoCD takes 10 minutes. Making it work for a real team takes months. Here are the production patterns that bridge the gap.",
+  "published_at": "2026-03-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2026/03/ad/ad37910ac5638228f136eda2ee0d5d98739173295ad9e5734566555ecf1a22b1/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2026/03/ad/ad37910ac5638228f136eda2ee0d5d98739173295ad9e5734566555ecf1a22b1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18677,
+    "sha256": "sha256:63d3d41973cfbdc8c10537333f72a3820ed351fe631c6ace4e0696a3aabdbe67",
+    "normalized_content_hash": "sha256:585924d5c6b1f4138522aa0107a44e61f9655b0472a4a07aec809453fc275095"
+  },
+  "provenance": {
+    "source_item_id": "c0e2df40-38ed-469c-85b5-5d706130d908",
+    "external_id": "https://www.skyhook.io/blog/argocd-in-production-patterns-that-actually-matter"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97b30c7a6f3ebaefb94d3f5a73d183378c588e19a94b4fc0cb6699efd12d14e5",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/usermin-version-2-420-released/135539",
+    "canonical": "https://forum.virtualmin.com/t/usermin-version-2-420-released/135539"
+  },
+  "title": "Usermin version 2.420 released",
+  "summary": "Howdy all, We’ve rolled out Usermin version 2.420 to all Virtualmin repos. Changes since 2.400: Fix to make sure the mail URL uses a well-known host name [security] Fix to avoid using short hostname in HTTPS redirects when an FQDN is available Update the Authentic theme to the latest version with various fixes: Fix the text color when reading email in the Read User Mail module webmin#2555 Fix to ensure the selected color palette is correctly stored when changed manually webmin#2552 Fix spin...",
+  "published_at": "2025-10-17T21:55:27+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:55:41.466450+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2025/10/97/97b30c7a6f3ebaefb94d3f5a73d183378c588e19a94b4fc0cb6699efd12d14e5/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2025/10/97/97b30c7a6f3ebaefb94d3f5a73d183378c588e19a94b4fc0cb6699efd12d14e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1870,
+    "sha256": "sha256:7baa837bf683fcf186ca96daad184c49a5052e4b9474d3958b9f848f9a412bca",
+    "normalized_content_hash": "sha256:02d540c465011597b11d6635fb609ab13416a51a33d1a9a96ac4752db36aee71"
+  },
+  "provenance": {
+    "source_item_id": "eb728166-c7e9-42a6-9375-2edd4759a579",
+    "external_id": "forum.virtualmin.com-topic-135539"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "559508e364618f627de67df0514846a2bc13659d6dd43fc23ea24db42825a05d",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/enterprise-ai-will-be-a-network-not-a-monolith/",
+    "canonical": "https://www.singlestore.com/blog/enterprise-ai-will-be-a-network-not-a-monolith/"
+  },
+  "title": "Enterprise AI Will Be a Network, Not a Monolith",
+  "summary": "See how small language models and a real-time database work together to deliver faster, lower-cost AI that can reason over live data and write results back.",
+  "published_at": "2026-08-19T16:03:12+00:00",
+  "first_seen_at": "2026-08-20T03:04:31.735248+00:00",
+  "fetched_at": "2026-08-20T03:04:34.153505+00:00",
+  "last_updated_at": "2026-08-20T03:04:34.300365+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/08/55/559508e364618f627de67df0514846a2bc13659d6dd43fc23ea24db42825a05d/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/08/55/559508e364618f627de67df0514846a2bc13659d6dd43fc23ea24db42825a05d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7968,
+    "sha256": "sha256:6b8f4aed5cbcbeb125cd1ceb78bebf4a5f8d5540dfe14ca416b56aae0d98e0fe",
+    "normalized_content_hash": "sha256:1b713515482b1a84f37b75038c6d56edeba2593168437207f6cdd92870ab53a3"
+  },
+  "provenance": {
+    "source_item_id": "7f7c43d6-18d7-4b83-ae41-c334ac9bb09f",
+    "external_id": "https://www.singlestore.com/blog/enterprise-ai-will-be-a-network-not-a-monolith/"
+  }
+}

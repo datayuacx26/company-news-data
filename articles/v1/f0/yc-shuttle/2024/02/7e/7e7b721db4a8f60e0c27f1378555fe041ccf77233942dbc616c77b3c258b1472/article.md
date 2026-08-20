@@ -1,0 +1,864 @@
+---
+schema_version: "1.0.0"
+document_id: "7e7b721db4a8f60e0c27f1378555fe041ccf77233942dbc616c77b3c258b1472"
+company_key: "yc-shuttle"
+company: "Shuttle"
+source_id: "yc-shuttle-rss-52efc69d7cac"
+canonical_url: "https://www.shuttle.dev/blog/2024/02/08/uptime-monitoring-rust"
+published_at: "2024-02-08T18:00:00+00:00"
+first_seen_at: "2026-07-20T23:24:10.103156+00:00"
+fetched_at: "2026-07-28T22:26:16.511012+00:00"
+content_hash: "sha256:26e922ddb5c77d8ce0e8accca15c77c7ecb6e6d08091b6453296214d1bd006cc"
+---
+
+# Building an Uptime Monitor in Rust
+
+In this article, we're going to talk about building and deploying an uptime-monitoring web service in Rust!
+
+
+Interested in just deploying your uptime monitor? You can find that in 2 steps:
+
+
+1. Open your terminal and run` shuttle init --from joshua-mo-143/shuttle-monitoring-template` (requires` cargo-shuttle` installed) and follow the prompt
+2. Run` shuttle deploy --allow-dirty` and watch the magic happen!
+
+
+For everyone who wants to learn how to build it, let's get started - if you get lost, you can find the repo with the final code[here.](https://github.com/joshua-mo-143/shuttle-monitoring-template)
+
+
+## Getting Started #
+
+
+Firstly, we'll initialize our project using` shuttle init` (requires` cargo-shuttle` to be installed). Make sure you pick Axum as the framework!
+
+
+Now you'll want to install all of your dependencies. You can do that with the following shell snippet below:
+
+
+```text
+cargo    add   askama-axum
+cargo    add   askama  -F   with-axum
+cargo    add   chrono  -F   clock,serde
+cargo    add   futures-util
+cargo    add   reqwest
+cargo    add   serde  -F   derive
+cargo    add   shuttle-shared-db  -F   sqlx,postgres
+cargo    add   sqlx  -F   runtime-tokio-rustls,postgres,macros,chrono
+cargo    add   validator  -F   derive
+
+
+```
+
+
+Once that's done, we will want to install` sqlx-cli` to handle adding migrations. We can then run` sqlx migrate add init` and it will create a new migrations folder, along with an SQL file in it that we can use for migrations. Add the following text into the migration file:
+
+
+```text
+create table  if   not exists  websites    (
+id serial primary key ,
+url varchar not null ,
+alias  varchar  (  75  )   not null unique
+)  ;
+
+
+create table  if   not exists  logs    (
+id serial primary key ,
+website_id int not null references  websites  (  id )  ,
+status smallint ,
+created_at timestamp with time zone not null default  date_trunc  (  'minute  ' ,   current_timestamp )  ,
+UNIQUE    (  website_id ,   created_at )
+)  ;
+
+
+```
+
+
+Note that` created_at` defaults to truncate the time to the current minute; this helps with timing later on as we want to be able to split the requests down into per-minute records. Additionally, adding both` website_alias` and` created_at` in the unique constraint makes it so that the constraint is only violated when a new record containing a combination of both the website alias and timestamp is inserted.
+
+
+Next, we'll want to add a database annotation to our program and add it as shared state to our Axum web service:
+
+
+```text
+#[derive(Clone)]
+struct    AppState    {
+db :    PgPool  ,
+}
+
+
+impl    AppState    {
+fn    new  (  db :    PgPool  )    ->    Self    {
+Self    {   db  }
+}
+}
+
+
+#[shuttle_runtime::main]
+async    fn    main  (
+#[shuttle_shared_db::Postgres]   db :    PgPool
+)    ->    shuttle_axum ::   ShuttleAxum    {
+// carry out migrations
+sqlx ::   migrate!  (  )  .  run  (  &  db )  .  await  .  expect  (  "Migrations went wrong :("  )  ;
+
+
+let   state  =    AppState  ::  new  (  db )  ;
+
+
+let   router  =    Router  ::  new  (  )  .  route  (  "/"  ,    get  (  hello_world )  )  .  with_state  (  state )  ;
+
+
+Ok  (  router .  into  (  )  )
+}
+
+
+```
+
+
+With one line of code, we've now given ourselves a database! Locally, Shuttle will use Docker to provision a Postgres container for us. In production, we are automatically provisioned one by Shuttle's servers with no input required on our part. Normally, it would be a bit of a pain to do manually but this has saved us some time.
+
+
+Lastly, here is the list of imports we'll be using - make sure to add this to the top of your` main.rs` file:
+
+
+```text
+use    askama ::   Template  ;
+use    chrono ::   Timelike  ;
+use    askama_axum ::   IntoResponse    as    AskamaIntoResponse  ;
+use    axum ::   {
+extract ::   {  Form  ,    Path  ,    State  }  ,
+http ::   StatusCode  ,
+response ::   {  IntoResponse    as    AxumIntoResponse  ,    Redirect  ,    Response  }  ,
+routing ::   {  get ,   post }  ,
+Router  ,
+}  ;
+use    chrono ::   {  DateTime  ,    Utc  }  ;
+use    futures_util ::   StreamExt  ;
+use    reqwest ::   Client  ;
+use    serde ::   {  Deserialize  ,    Serialize  }  ;
+use    sqlx ::   PgPool  ;
+use    tokio ::  time ::   {  self  ,    Duration  }  ;
+use    validator ::   Validate  ;
+
+
+```
+
+
+## Building #
+
+
+There are three main parts to this: The frontend, the backend, and the actual monitoring task itself. Let's start with the monitoring task first.
+
+
+### Monitoring task #
+
+
+The monitoring task itself is simple enough: we fetch the list of websites from the database, then sequentially send a HTTP request to each of them and record the results in Postgres. Firstly, we'll create the struct that we want to represent the` Website` :
+
+
+```text
+#[derive(Deserialize, sqlx::FromRow, Validate)]
+struct    Website    {
+#[validate(url)]
+url :    String  ,
+alias :    String
+}
+
+
+```
+
+
+Here we instantiate a` reqwest` client and then fetch all of the websites that we want to search for:
+
+
+```text
+async    fn    check_websites  (  db :    PgPool  )    {
+let   ctx  =    Client  ::  new  (  )  ;
+
+
+let    mut   res  =    sqlx ::   query_as  ::  <  _ ,    Website  >  (  "SELECT url, alias FROM websites"  )  .  fetch  (  &  db )  ;
+
+
+// .. rest of your code
+}
+
+
+```
+
+
+We *could* use` fetch_all()` , but by using` fetch()` we get a` Stream` back and can skip dealing with` RowNotFound` SQL errors by checking whether or not there are any rows to fetch.
+
+
+Now that we have our list of websites (or lack thereof), we can try to send a request sequentially to each website that exists then store the results of the fetch in our database:
+
+
+```text
+while    let    Some  (  website )    =   res .  next  (  )  .  await    {
+let   website  =   website .  unwrap  (  )  ;
+
+
+let   response  =   ctx .  get  (  website .  url )  .  send  (  )  .  await  .  unwrap  (  )  ;
+
+
+sqlx ::   query  (
+"INSERT INTO logs (website_alias, status)
+VALUES
+((SELECT id FROM websites where alias = $1), $2)"
+)
+.  bind  (  website .  alias )
+.  bind  (  response .  status  (  )  .  as_u16  (  )    as    i16  )
+.  execute  (  &  db )  .  await
+.  unwrap  (  )  ;
+}
+
+
+```
+
+
+While we don't store the response body, at this point there's not much reason to do so. The response status should give us all the information we need.
+
+
+In the full function, we want to use` tokio::time::interval` to be able to accurately start the loop again. See below for the code block which includes this:
+
+
+```text
+async    fn    check_websites  (  db :    PgPool  )    {
+let    mut   interval  =    time ::   interval  (  Duration  ::  from_secs  (  60  )  )  ;
+loop    {
+interval .  tick  (  )  .  await  ;
+
+
+let   ctx  =    Client  ::  new  (  )  ;
+
+
+while    let    Some  (  website )    =   res .  next  (  )  .  await    {
+let   website  =   website .  unwrap  (  )  ;
+
+
+sqlx ::   query  (
+"INSERT INTO logs (website_alias, status)
+VALUES
+((SELECT id FROM websites where alias = $1), $2)"
+)
+.  bind  (  website .  alias )
+.  bind  (  response .  status  (  )  .  as_u16  (  )    as    i16  )
+.  execute  (  &  db )  .  await
+.  unwrap  (  )  ;
+}
+}
+}
+
+
+```
+
+
+### Backend #
+
+
+Before we start our backend, we should probably add an error handling enum. Let's add an enum with one arm, implement` axum::response::IntoResponse` for it (currently aliased in our program as` AxumIntoResponse` ) and then implement` From<sqlx::Error>` for easy error propagation:
+
+
+```text
+enum    ApiError    {
+SQL  (  sqlx ::   Error  )
+}
+
+
+impl    From  <  sqlx ::   Error  >    for    ApiError    {
+fn    from  (  e :    sqlx ::   Error  )    ->    Self    {
+Self  ::  SQLError  (  e )
+}
+}
+
+
+impl    AxumIntoResponse    for    ApiError    {
+fn    into_response  (  self  )    ->    Response    {
+match    self    {
+Self  ::  SQLError  (  e )    =>    {
+(
+StatusCode  ::  INTERNAL_SERVER_ERROR  ,
+format!  (  "SQL Error: {e}"  )
+)  .  into_response  (  )
+}
+}
+}
+}
+
+
+```
+
+
+Now when we use any SQL queries, we can propagate the error by using` ?` instead of unwrapping or having to manually deal with error handling! Of course, there will be certain situations where we can handle errors manually, but this will save a lot of pattern matching (or alternatively,` .unwrap()` or` .expect()` ) within our code. We can also use it as a return type in our handler functions.
+
+
+To start working on our backend, we can create an initial route to add a URL to monitor. You may have noticed earlier we added the` Validate` derive trait. This allows us to validate the form data using preset rules and automatically return an error if the validation fails. In this case, we used` #\[validate(url)\]` - so if the string isn't in a URL format it will automatically break:
+
+
+```text
+// main.rs
+async    fn    create_website  (
+State  (  state )  :    State  <  AppState  >  ,
+Form  (  new_website )  :    Form  <  Website  >  ,
+)    ->    Result  <  impl    AxumIntoResponse  ,    impl    AxumIntoResponse  >    {
+if   new_website .  validate  (  )  .  is_err  (  )    {
+return    Err  (  (
+StatusCode  ::  INTERNAL_SERVER_ERROR  ,
+"Validation error: is your website a reachable URL?"  ,
+)  )  ;
+}
+
+
+sqlx ::   query  (  "INSERT INTO websites (url, alias) VALUES ($1, $2)"  )
+.  bind  (  new_website .  url )
+.  bind  (  new_website .  alias )
+.  execute  (  &  state .  db )
+.  await
+.  unwrap  (  )  ;
+
+
+Ok  (  Redirect  ::  to  (  "/"  )  )
+}
+
+
+```
+
+
+Now let's write a route to grab all the websites we're monitoring, as well as get a quick report on what the uptime was like in the last recorded 24 hours (filling in any gaps where required) for each website.
+
+
+Like before with the monitoring tasks, we need to grab a list of all of the websites we're currently tracking and add them to a vector of website data (except we will assume there are results there. If not,` askama` will handle it for us by automatically not rendering any records):
+
+
+```text
+#[derive(Serialize, Validate)]
+struct    WebsiteInfo    {
+#[validate(url)]
+url :    String  ,
+alias :    String  ,
+data :    Vec  <  WebsiteStats  >  ,
+}
+
+
+#[derive(sqlx::FromRow, Serialize)]
+pub    struct    WebsiteStats    {
+time :    DateTime  <  Utc  >  ,
+uptime_pct :    Option  <  i16  >  ,
+}
+
+
+async    fn    get_websites  (  State  (  state )  :    State  <  AppState  >  )    ->    Result  <  impl    AskamaIntoResponse  ,    ApiError  >    {
+let   websites  =    sqlx ::   query_as  ::  <  _ ,    Website  >  (  "SELECT url, alias FROM websites"  )
+.  fetch_all  (  &  state .  db )
+.  await  ?  ;
+
+
+let    mut   logs  =    Vec  ::  new  (  )  ;
+
+
+for   website  in   websites  {
+let   data  =    get_daily_stats  (  &  website .  alias ,    &  state .  db )  .  await  ?  ;
+
+
+logs .  push  (  WebsiteInfo    {
+url :   website .  url ,
+alias :   website .  alias ,
+data ,
+}  )  ;
+}
+
+
+Ok  (  WebsiteLogs    {   logs  }  )
+}
+
+
+```
+
+
+Once this is done, we'll then need to make a new Vector. This will hold all the website URLs (and respective aliases) as well as a list of timestamps with the uptime percentage over the last 24 hours, calculated per hour from how many HTTP requests returned with` 200 OK` . We then need to check if there's any gaps and fill them in with a` None` . This lets the person viewing the data know that no data was recorded at the time (for example if we're either developing locally, or if the service itself had an outage and was unable to record data).
+
+
+To start with, let's write a function for getting the daily stats for a given URL:
+
+
+```text
+#[derive(sqlx::FromRow, Serialize)]
+pub    struct    WebsiteStats    {
+time :    DateTime  <  Utc  >  ,
+uptime_pct :    Option  <  i16  >  ,
+}
+
+
+async    fn    get_daily_stats  (  alias :    &  str  ,   db :    &  PgPool  )    ->    Result  <  Vec  <  WebsiteStats  >  ,    ApiError  >    {
+let   data  =    sqlx
+::   query_as  ::  <  _ ,    WebsiteStats  >  (
+r#"
+SELECT date_trunc('hour', created_at) as time,
+CAST(COUNT(case when status = 200 then 1 end) * 100 / COUNT(*) AS int2) as uptime_pct
+FROM logs
+LEFT JOIN websites on websites.id = logs.website_id
+WHERE websites.alias = $1
+group by time
+order by time asc
+limit 24
+"#
+)
+.  bind  (  alias )
+.  fetch_all  (  db )  .  await  ?  ;
+
+
+let   number_of_splits  =    24  ;
+let   number_of_seconds  =    3600  ;
+
+
+let   data  =    fill_data_gaps  (  data ,   number_of_splits ,    SplitBy  ::  Hour  ,   number_of_seconds )  ;
+
+
+Ok  (  data )
+}
+
+
+```
+
+
+Although the SQL function looks quite complicated, it basically retrieves a truncated date (down to the hour) and an uptime percentage based on the recorded data and what percentage recorded` 200 OK` response status. The query then aggregates them by timestamp and limits it to the last 24 hours.
+
+
+Of course, this can lead to some awkward gaps in our data - for example, what if our monitoring web service goes down? We can't exactly just go back in time and record the data! We can, however, make up for this by filling in the gaps with a new` fill_data_gaps` function that will inform the webpage viewer that there's no data points for a given time.
+
+
+We can do this by declaring an enum:
+
+
+```text
+enum    SplitBy    {
+Hour  ,
+Day
+}
+
+
+```
+
+
+This enum will allow us to differentiate what period we want data over. We can abstract this block into its own function:
+
+
+```text
+fn    fill_data_gaps  (
+mut   data :    Vec  <  WebsiteStats  >  ,
+splits :    i32  ,
+format :    SplitBy  ,
+number_of_seconds :    i32
+)    ->    Vec  <  WebsiteStats  >    {
+// if the length of data is not as long as the number of required splits (24)
+// then we fill in the gaps
+if    (  data .  len  (  )    as    i32  )    <   splits  {
+// for each split, format the time and check if the timestamp exists
+for   i  in    1  ..  24    {
+let   time  =    Utc  ::  now  (  )    -    chrono ::   Duration  ::  seconds  (  (  number_of_seconds  *   i )  .  into  (  )  )  ;
+let   time  =   time
+.  with_minute  (  0  )
+.  unwrap  (  )
+.  with_second  (  0  )
+.  unwrap  (  )
+.  with_nanosecond  (  0  )
+.  unwrap  (  )  ;
+
+
+let   time  =    if    matches!  (  format ,    SplitBy  ::  Day  )    {
+time .  with_hour  (  0  )  .  unwrap  (  )
+}    else    {
+time
+}  ;
+// if timestamp doesn't exist, push a timestamp with None
+if    !  data .  iter  (  )  .  any  (  |  x |    x .  time  ==   time )    {
+data .  push  (  WebsiteStats    {
+time ,
+uptime_pct :    None  ,
+}  )  ;
+}
+}
+// finally, sort the data
+data .  sort_by  (  |  a ,   b |    b .  time .  cmp  (  &  a .  time )  )  ;
+}
+
+
+data
+}
+
+
+```
+
+
+Once done, we'll want to create a dynamic route for getting more information about a monitored URL. We can use this page to display things like past incidents/alerts. This function will follow most of the previous handler function except we're fetching one URL and additionally grabbing any records of HTTP requests that didn't return` 200 OK` and labelling them as "Incidents".
+
+
+As you can see below it is *mostly* the same as grabbing data for all websites, except now we also have last month's data (split by day) to add to our return results:
+
+
+```text
+#[derive(Serialize, sqlx::FromRow, Template)]
+#[template(path =  "single_website.html"  )]
+struct    SingleWebsiteLogs    {
+log :    WebsiteInfo  ,
+incidents :    Vec  <  Incident  >  ,
+monthly_data :    Vec  <  WebsiteStats  >  ,
+}
+
+
+#[derive(sqlx::FromRow, Serialize)]
+pub    struct    Incident    {
+time :    DateTime  <  Utc  >  ,
+status :    i16  ,
+}
+
+
+async    fn    get_website_by_alias  (
+State  (  state )  :    State  <  AppState  >  ,
+Path  (  alias )  :    Path  <  String  >  ,
+)    ->    Result  <  impl    AskamaIntoResponse  ,    ApiError  >    {
+let   website  =    sqlx ::   query_as  ::  <  _ ,    Website  >  (  "SELECT url, alias FROM websites WHERE alias = $1"  )
+.  bind  (  &  alias )
+.  fetch_one  (  &  state .  db )
+.  await  ?  ;
+
+
+let   last_24_hours_data  =    get_daily_stats  (  &  website .  alias ,    &  state .  db )  .  await  ?  ;
+let   monthly_data  =    get_monthly_stats  (  &  website .  alias ,    &  state .  db )  .  await  ?  ;
+
+
+let   incidents  =    sqlx ::   query_as  ::  <  _ ,    Incident  >  (
+"SELECT logs.created_at as time,
+logs.status from logs
+left join websites on websites.id = logs.website_id
+where websites.alias = $1 and logs.status != 200"  ,
+)
+.  bind  (  &  alias )
+.  fetch_all  (  &  state .  db )
+.  await  ?  ;
+
+
+let   log  =    WebsiteInfo    {
+url :   website .  url ,
+alias ,
+data :   last_24_hours_data ,
+}  ;
+
+
+Ok  (  SingleWebsiteLogs    {
+log ,
+incidents ,
+monthly_data ,
+}  )
+}
+
+
+```
+
+
+Finally, we need to create a route for deleting a website. This will be a two-step process where we need to delete all of the website logs and then the URL itself, then return` 200 OK` if everything went well. We can use a transaction to rollback if there's an error anywhere in this process and manually return` ApiError` :
+
+
+```text
+async    fn    delete_website  (
+State  (  state )  :    State  <  AppState  >  ,
+Path  (  alias )  :    Path  <  String  >  ,
+)    ->    Result  <  impl    AxumIntoResponse  ,    ApiError  >    {
+let    mut   tx  =   state .  db .  begin  (  )  .  await  ?  ;
+if    let    Err  (  e )    =    sqlx ::   query  (  "DELETE FROM logs WHERE website_alias = $1"  )
+.  bind  (  &  alias )
+.  execute  (  &  mut    *  tx )
+.  await    {
+tx .  rollback  (  )  .  await  ?  ;
+return    Err  (  ApiError  ::  SQLError  (  e )  )  ;
+}  ;
+
+
+if    let    Err  (  e )    =    sqlx ::   query  (  "DELETE FROM websites WHERE alias = $1"  )
+.  bind  (  &  alias )
+.  execute  (  &  mut    *  tx )
+.  await    {
+tx .  rollback  (  )  .  await  ?  ;
+return    Err  (  ApiError  ::  SQLError  (  e )  )  ;
+}
+
+
+tx .  commit  (  )  .  await  ?  ;
+
+
+Ok  (  StatusCode  ::  OK  )
+}
+
+
+```
+
+
+### Frontend #
+
+
+Now that we've written our backend, we can use` askama` with` htmx` to write our frontend! If you'd like to skip over this part and just grab the files, you can do so from the repo - but make sure you don't forget to write the` styles` handler function below so your web server can find it! This function can be found at the bottom of this subsection or in the repo.
+
+
+We'll want to make four files:
+
+
+- A` base.html` file that will hold the head of our HTML so we don't need to write it in every file.
+- An` index.html` file.
+- A` single_website.html` file (for grabbing information about an individual monitored URL).
+- A` styles.css` file.
+
+
+We'll first want to make our` base.html` file:
+
+
+```text
+<!-- templates/base.html -->
+<!  DOCTYPE    html  >
+<  html    lang  =  "  en "   >
+<  head  >
+<  script
+src  =  "  https://unpkg.com/htmx.org@1.9.10 "
+integrity  =  "  sha384-D1Kt99CQMDuVetoL1lrYwg5t+9QdHe7NLX/SoJYkXDFfX37iInKRy5xLSi8nO7UC "
+crossorigin  =  "  anonymous "
+>    </  script  >
+<  link    rel  =  "  stylesheet "     href  =  "  /styles.css "     />
+<  link    rel  =  "  preconnect "     href  =  "  https://fonts.googleapis.com "     />
+<  link    rel  =  "  preconnect "     href  =  "  https://fonts.gstatic.com "     crossorigin    />
+<  link
+href  =  "  https://fonts.googleapis.com/css2?family=Roboto&display=swap "
+rel  =  "  stylesheet "
+/>
+
+
+<  title  >   Shuttle Status Monitor </  title  >
+{% block head %}{% endblock %}
+</  head  >
+<  body  >
+<  div    id  =  "  content "   >
+{% block content %}
+<  p  >   Placeholder content </  p  >
+{% endblock %}
+</  div  >
+</  body  >
+</  html  >
+
+
+```
+
+
+This will be extended in the rest of the templates so that we won't need to constantly copy and paste the HTML head every time we want to use HTMX or the Google fonts.
+
+
+Here is the HTML for our main page:
+
+
+```text
+<!-- index.html -->
+{% extends "base.html" %} {% block content %}
+<  h1  >   Shuttle Status Monitor </  h1  >
+<  form    action  =  "  /websites "     method  =  "  POST "   >
+<  input    name  =  "  url "     placeholder  =  "  url "     required    />
+<  input    name  =  "  alias "     placeholder  =  "  alias "     required    />
+<  button    class  =  "  submit-button "     type  =  "  submit "   >   Submit </  button  >
+</  form  >
+<  div    class  =  "  website-list "   >
+{% for log in logs %}
+<  div    class  =  "  website "   >
+<  h2    class  =  "  website-name "   >   {{log.alias}} - {{log.url}} </  h2  >
+<  div  >
+Last 24 hours: {% for timestamp in log.data %} {% match
+timestamp.uptime_pct %} {% when Some with (100) %}
+<  div    class  =  "  tooltip "   >
+🟢
+<  span    class  =  "  tooltiptext "
+>   {{timestamp.time}} Uptime: {{timestamp.uptime_pct.unwrap()}}% </  span
+>
+</  div  >
+{% when None %}
+<  div    class  =  "  tooltip "   >
+⚪
+<  span    class  =  "  tooltiptext "   >   {{timestamp.time}} No data here :( </  span  >
+</  div  >
+{% else %}
+<  div    class  =  "  tooltip "   >
+🔴
+
+
+<  span    class  =  "  tooltiptext "
+>   {{timestamp.time}} Uptime: {{timestamp.uptime_pct.unwrap()}}% </  span
+>
+</  div  >
+
+
+{% endmatch %} {% endfor %}
+</  div  >
+<  div  >
+<  a    href  =  "  /websites/{{log.alias}} "     class  =  "  view-button "   >   View </  a  >
+<  button
+hx-delete  =  "  /websites/{{log.alias}} "
+class  =  "  delete-button "
+hx-confirm  =  "  Are you sure you want to stop tracking this website? "
+hx-target  =  "  closest .menu "
+hx-swap  =  "  outerHTML "
+>
+Delete
+</  button  >
+</  div  >
+</  div  >
+{% endfor %}
+</  div  >
+
+
+```
+
+
+As you can see here, we extend the` base.html` template and then loop through the websites we found earlier in our SQL query. We then display the timestamps as coloured circles depending on what the uptime percentage is (note that` None` means there's a data gap). Although we unwrap the uptime percentages here, we already match it beforehand to make sure it is a` Some` variant.
+
+
+You may have noticed we're using tooltips to display the time of day that the request was taken as well as displaying the uptime percentage on the webpage. In the CSS file, we add styling so that when you hover over a circle, a tooltip will display the timestamp the circle represents as well as the exact uptime percentage.
+
+
+The single URL HTML webpage is also mostly the same, except we're also adding an incident list:
+
+
+```text
+<!-- single_website.html -->
+{% extends "base.html" %} {% block content %}
+<  h1  >   Shuttle Status Monitor </  h1  >
+<  a    href  =  "  / "   >   Back to main page </  a  >
+<  div    class  =  "  website "   >
+<  h2    class  =  "  website-name "   >   {{log.alias}} - {{log.url}} </  h2  >
+<  div  >
+Last 24 hours: {% for timestamp in log.data %} {% match timestamp.uptime_pct
+%} {% when Some with (100) %}
+<  div    class  =  "  tooltip "   >
+🟢
+<  span    class  =  "  tooltiptext "
+>   {{timestamp.time}} Uptime: {{timestamp.uptime_pct.unwrap()}}% </  span
+>
+</  div  >
+{% when None %}
+<  div    class  =  "  tooltip "   >
+⚪
+</  div  >
+{% else %}
+<  div    class  =  "  tooltip "   >
+🔴
+
+
+<  span    class  =  "  tooltiptext "
+>   {{timestamp.time}} Uptime: {{timestamp.uptime_pct.unwrap()}}% </  span
+>
+</  div  >
+
+
+{% endmatch %} {% endfor %}
+</  div  >
+<  div  >
+Last 30 days: {% for timestamp in monthly_data %} {% match
+timestamp.uptime_pct %} {% when Some with (100) %}
+<  div    class  =  "  tooltip "   >
+🟢
+<  span    class  =  "  tooltiptext "
+>   {{timestamp.time}} Uptime: {{timestamp.uptime_pct.unwrap()}}% </  span
+>
+</  div  >
+{% when None %}
+<  div    class  =  "  tooltip "   >
+⚪
+</  div  >
+{% else %}
+<  div    class  =  "  tooltip "   >
+🔴
+
+
+<  span    class  =  "  tooltiptext "
+>   {{timestamp.time}} Uptime: {{timestamp.uptime_pct.unwrap()}}% </  span
+>
+</  div  >
+
+
+{% endmatch %} {% endfor %}
+</  div  >
+</  div  >
+
+
+<  div    class  =  "  incident-list "   >
+<  h2  >   Incidents </  h2  >
+{% if incidents.len() > 0 %} {% for incident in incidents %}
+<  div    class  =  "  incident "   >   {{incident.time}} - {{incident.status}} </  div  >
+{% endfor %} {% else %} No incidents reported. {% endif %}
+</  div  >
+{% endblock %}
+
+
+```
+
+
+Now it's time to add the CSS styling! The CSS file is extremely long; for the sake of not overwhelming you with code blocks, you can find it[here.](https://github.com/joshua-mo-143/shuttle-monitoring-template/blob/main/templates) However, if you'd like to add your own styling, you're free to do so! We also additionally need to add the CSS file handling route - otherwise, our HTML won't be able to find it. We can do this like so:
+
+
+```text
+// note this assumes your file is at "templates/styles.css"
+async    fn    styles  (  )    ->    impl    AxumIntoResponse    {
+Response  ::  builder  (  )
+.  status  (  StatusCode  ::  OK  )
+.  header  (  "Content-Type"  ,    "text/css"  )
+.  body  (  include_str!  (  "../templates/styles.css"  )  .  to_owned  (  )  )
+.  unwrap  (  )
+}
+
+
+```
+
+
+Then when we add the route to our` Router` , we need to specify the route as` /styles.css` .
+
+
+### Hooking everything up #
+
+
+Now it's time to hook everything up! All you need to do is to create the` AppState` , spawn the monitoring request loop as a` tokio` task and then create your` Router` :
+
+
+```text
+// main.rs
+#[shuttle_runtime::main]
+async    fn    main  (  #[shuttle_shared_db::Postgres]   db :    PgPool  )    ->    shuttle_axum ::   ShuttleAxum    {
+sqlx ::   migrate!  (  )  .  run  (  &  db )  .  await  .  unwrap  (  )  ;
+
+
+let   state  =    AppState  ::  new  (  db .  clone  (  )  )  ;
+
+
+tokio ::   spawn  (  async    move    {
+check_websites  (  db )  .  await  ;
+}  )  ;
+
+
+let   router  =    Router  ::  new  (  )
+.  route  (  "/"  ,    get  (  get_websites )  )
+.  route  (  "/websites"  ,    post  (  create_website )  )
+.  route  (
+"/websites/:alias"  ,
+get  (  get_website_by_id )  .  delete  (  delete_website )  ,
+)
+.  route  (  "/styles.css"  ,    get  (  styles )  )
+.  with_state  (  state )  ;
+
+
+Ok  (  router .  into  (  )  )
+}
+
+
+```
+
+
+## Deploying #
+
+
+Now it's time to deploy! Type in` shuttle deploy` (add` --allow-dirty` if on a dirty Git branch) and watch the magic happen. When your program has deployed, it'll give you the URL of your deployment where you can try it out as well as deployment ID and other details like your database connection (password is hidden until you use the` --show-secrets` flag).
+
+
+## Finishing up #
+
+
+Thanks for reading! I hope you have learned a little bit more about Rust by writing an uptime monitoring service.

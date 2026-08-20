@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e90e8d58eddbe54f9f93569663cd56f4ab52dd196ed1bad711b8abb7f8389a37",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern",
+    "canonical": "https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern"
+  },
+  "title": "Builders in Rust",
+  "summary": "In this post we do a deep dive into the builder pattern - an easy way to write cleaner and more readable code.",
+  "published_at": "2022-06-09T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/06/e9/e90e8d58eddbe54f9f93569663cd56f4ab52dd196ed1bad711b8abb7f8389a37/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/06/e9/e90e8d58eddbe54f9f93569663cd56f4ab52dd196ed1bad711b8abb7f8389a37/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16935,
+    "sha256": "sha256:fc6c7541b99e985ea1a5359c3228df474398d6ae15f19028d04f7b89857547ab",
+    "normalized_content_hash": "sha256:98d539979ff1c095b6be968d9c14899baabdee9d7049a7a6eaae8fad02877310"
+  },
+  "provenance": {
+    "source_item_id": "f05c56c2-3b09-4f4a-adb9-040d0389e521",
+    "external_id": "https://www.shuttle.dev/blog/2022/06/09/the-builder-pattern"
+  }
+}

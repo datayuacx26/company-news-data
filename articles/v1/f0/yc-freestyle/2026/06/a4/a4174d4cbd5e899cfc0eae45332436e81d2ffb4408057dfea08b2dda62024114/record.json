@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a4174d4cbd5e899cfc0eae45332436e81d2ffb4408057dfea08b2dda62024114",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/product/deno-sandbox-vs-freestyle-vms-for-deno",
+    "canonical": "https://www.freestyle.sh/blog/product/deno-sandbox-vs-freestyle-vms-for-deno"
+  },
+  "title": "Deno Sandbox vs VMs for Deno",
+  "summary": "Deno Sandbox is a strong Deno Deploy-native microVM for short-lived untrusted code, but serious Deno coding agents need a real Linux VM with durable terminals, services, ports, SSH, forks, and long-running state.",
+  "published_at": "2026-06-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T20:54:28.432730+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-07-28T21:55:55.436686+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/06/a4/a4174d4cbd5e899cfc0eae45332436e81d2ffb4408057dfea08b2dda62024114/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/06/a4/a4174d4cbd5e899cfc0eae45332436e81d2ffb4408057dfea08b2dda62024114/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12554,
+    "sha256": "sha256:912d167ed141f0ae7557c4aa20e71ecec2565246c520a7388ed83b96d57010c7",
+    "normalized_content_hash": "sha256:7424111973f269a5f317a091a1d7c114124ff4406c50cc018f885bf29816fe74"
+  },
+  "provenance": {
+    "source_item_id": "53bb6bd8-26b7-4657-83d8-8eac2f52714d",
+    "external_id": "https://www.freestyle.sh/blog/product/deno-sandbox-vs-freestyle-vms-for-deno"
+  }
+}

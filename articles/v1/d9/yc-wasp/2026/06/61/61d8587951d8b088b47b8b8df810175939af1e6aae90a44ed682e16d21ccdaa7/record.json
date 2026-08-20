@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "61d8587951d8b088b47b8b8df810175939af1e6aae90a44ed682e16d21ccdaa7",
+  "company": {
+    "key": "yc-wasp",
+    "name": "Wasp"
+  },
+  "source": {
+    "id": "yc-wasp-rss-5b1984e54864",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://wasp.sh/blog/2026/06/15/wasp-typescript-spec",
+    "canonical": "https://wasp.sh/blog/2026/06/15/wasp-typescript-spec"
+  },
+  "title": "Wasp now lets you write your full-stack logic as a spec in TypeScript",
+  "summary": "Wasp drops its custom DSL and replaces it with a TypeScript-native way to define your full-stack app: the TypeScript Spec. Here's what it is, how it works, and what it unlocks.",
+  "published_at": "2026-06-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:24.634053+00:00",
+  "fetched_at": "2026-07-28T21:13:18.116875+00:00",
+  "last_updated_at": "2026-08-20T02:55:38.590332+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-wasp/2026/06/61/61d8587951d8b088b47b8b8df810175939af1e6aae90a44ed682e16d21ccdaa7/article.md",
+    "record": "articles/v1/d9/yc-wasp/2026/06/61/61d8587951d8b088b47b8b8df810175939af1e6aae90a44ed682e16d21ccdaa7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17559,
+    "sha256": "sha256:6bd4e6afa8332f11203daf48ccfdc4aca0380891f7145d900d6088d012e74b56",
+    "normalized_content_hash": "sha256:ecccf6443618ebc60a7d79d8bf653d6c106285301a468c31a3a5d85be26c3215"
+  },
+  "provenance": {
+    "source_item_id": "57594075-0971-4802-a411-182420d9c1e0",
+    "external_id": "https://wasp.sh/blog/2026/06/15/wasp-typescript-spec"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-airwork",
+    "name": "Airwork"
+  },
+  "record_count": 3,
+  "first_published_at": "2023-07-07T00:00:00+00:00",
+  "last_published_at": "2023-08-04T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e9/yc-airwork/index/pages/000001.json",
+        "record_count": 3,
+        "byte_count": 2825,
+        "sha256": "sha256:b509d3c785ce13a26fd3074a590f75d4443ef7a56f7569c05cc4d6f1fb4a13cb",
+        "newest_at": "2023-08-04T00:00:00+00:00",
+        "oldest_at": "2023-07-07T00:00:00+00:00"
+      }
+    ]
+  }
+}

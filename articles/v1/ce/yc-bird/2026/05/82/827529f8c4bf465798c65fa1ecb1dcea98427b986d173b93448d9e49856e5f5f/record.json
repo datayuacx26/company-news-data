@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "827529f8c4bf465798c65fa1ecb1dcea98427b986d173b93448d9e49856e5f5f",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/what-does-sms-mean",
+    "canonical": "https://bird.com/en-us/blog/what-does-sms-mean"
+  },
+  "title": "What Does SMS Mean?",
+  "summary": "SMS means Short Message Service, the carrier text protocol with a 160-character limit that powers OTP codes, alerts, and business notifications.",
+  "published_at": "2026-05-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:42:46.458609+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/05/82/827529f8c4bf465798c65fa1ecb1dcea98427b986d173b93448d9e49856e5f5f/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/05/82/827529f8c4bf465798c65fa1ecb1dcea98427b986d173b93448d9e49856e5f5f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7078,
+    "sha256": "sha256:a2d9ec0a15bba0ec31c96b9732682499c2e6510d29bf0b7e93299f67cedcc412",
+    "normalized_content_hash": "sha256:d1be1f15c00c2bf9ee817ca40699d6ad49ae72ca53504910b728fc10c0111b9a"
+  },
+  "provenance": {
+    "source_item_id": "84c184e1-0b51-4214-98ad-ec0cb6d81050",
+    "external_id": "https://bird.com/en-us/blog/what-does-sms-mean"
+  }
+}

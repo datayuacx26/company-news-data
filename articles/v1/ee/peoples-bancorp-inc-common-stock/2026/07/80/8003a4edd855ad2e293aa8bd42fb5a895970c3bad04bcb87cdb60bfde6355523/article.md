@@ -1,0 +1,7680 @@
+---
+schema_version: "1.0.0"
+document_id: "8003a4edd855ad2e293aa8bd42fb5a895970c3bad04bcb87cdb60bfde6355523"
+company_key: "peoples-bancorp-inc-common-stock"
+company: "Peoples Bancorp Inc."
+source_id: "peoples-bancorp-inc-common-stock-news-import-f8f44106e2f2"
+canonical_url: "https://investors.peoplesbancorp.com/news/news-details/2026/PEOPLES-BANCORP-INC--ANNOUNCES-RESULTS-FOR-THE-SECOND-QUARTER-2026/default.aspx"
+published_at: "2026-07-21T05:00:00+00:00"
+first_seen_at: "2026-07-24T05:45:18.312038+00:00"
+fetched_at: "2026-07-28T21:21:02.928028+00:00"
+content_hash: "sha256:30b4ab0fc4512af4f0957b204afe2e66c89e1acedcce23848579ff1f6dee7173"
+---
+
+# PEOPLES BANCORP INC. ANNOUNCES RESULTS FOR THE SECOND QUARTER 2026
+
+[View All News](https://investors.peoplesbancorp.com/news/default.aspx)
+
+
+### PEOPLES BANCORP INC. ANNOUNCES RESULTS FOR THE SECOND QUARTER 2026
+
+
+July 21, 2026
+
+
+MARIETTA, Ohio
+
+
+, July 21, 2026
+
+
+/PRNewswire/ -- Peoples Bancorp Inc. ("Peoples") (NASDAQ: PEBO) today announced results for the quarter ended June 30, 2026. Net income totaled $28.0 million for the second quarter of 2026, representing earnings per diluted common share of $0.78. In comparison, Peoples reported net income of $29.0 million, representing earnings per diluted common share of $0.81, for the first quarter of 2026 and net income of $21.2 million, representing earnings per diluted common share of $0.59, for the second quarter of 2025. Non-core items, which includes one-time losses and expenses, negatively impacted earnings per diluted common share by $0.18 for the second quarter of 2026, $0.01 for the first quarter of 2026, and $0.01 for the second quarter of 2025.
+
+
+"We are pleased with the results for the second quarter of 2026, with improvements in many performance metrics including our net interest margin expanding seven basis points for the quarter," said Tyler Wilcox, President and Chief Executive Officer. "We are committed to maintaining our focus on delivering strong returns and driving shareholder value."
+
+
+**Citizens Acquisition:**
+
+
+On April 21, 2026, Peoples announced the signing of a definitive agreement and plan of merger pursuant to which Peoples will acquire Citizens, a bank holding company headquartered in Paintsville, Kentucky, and the parent company of Citizens Bank of Kentucky, Inc. ("Citizens Bank"), in a cash and stock transaction. Under the terms of the Merger Agreement, Citizens will merge with and into Peoples (the "Merger"), and Citizens Bank will subsequently merge with and into Peoples' wholly owned subsidiary, Peoples Bank, in a transaction valued at approximately $76.6 million. As of June 30, 2026 Peoples had recognized $0.4 million in acquisition-related expenses associated with this pending transaction.
+
+
+**Quarterly Highlights:**
+
+
+- ***Net interest margin for the second quarter of 2026 increased to 4.23% when compared to 4.16% for the linked quarter driven by a reduction in deposit costs.***
+
+
+- Net interest income increased $2.3 million compared to the linked quarter and was driven by lower funding costs.
+
+
+- ***Provision for credit losses decreased $5.0 million when compared to the linked quarter.***
+
+
+- Net charge-offs decreased from $6.6 million for the linked quarter to $5.2 million for the second quarter of 2026. As a percentage of average total loans on an annualized basis, this represents a 9 basis point improvement. The improvement was driven by reductions in charge-offs in leases and indirect consumer loans.
+- The provision for credit losses was also positively impacted by the stabilization of macro-economic conditions used within the current expected credit losses ("CECL") model.
+
+
+- ***Period-end total loan and lease balances at June 30, 2026, increased $51.4 million, or 3% annualized, when compared to the linked quarter.***
+
+
+- The loan growth was largely due to increases in commercial and industrial loans, driven by life premium finance loans, commercial premium finance loans, and construction loans, which were partially offset by a decrease in other commercial real estate loans.
+
+
+- ***Total non-interest income, excluding net gains and losses, increased $0.3 million, or 1%, for the second quarter of 2026 compared to the linked quarter.***
+
+
+- The growth was driven by increases in electronic banking income, lease income, trust and investment income, and mortgage banking income. These increases were partially offset by lower insurance income, which was driven by the annual performance-based commissions recognized in the first quarter of each year.
+
+
+- ***Tangible book value per common share for the second quarter of 2026 increased to $23.56 when compared to $22.95 for the linked quarter.***
+
+
+**Net Interest Income**
+
+
+Net interest income was $92.7 million for the second quarter of 2026, which was an increase of $2.3 million compared to the linked quarter. Net interest margin was 4.23% for the second quarter of 2026, compared to 4.16% for the linked quarter. The increase in net interest income and net interest margin was primarily driven by a reduction in deposit costs compared to the linked quarter.
+
+
+Net interest income for the second quarter of 2026 increased $5.2 million, or 6%, compared to the second quarter of 2025. Net interest margin increased 8 basis points when compared to the second quarter of 2025. The increases in net interest income and net interest margin were primarily driven by lower deposit and borrowing costs compared to the second quarter of 2025.
+
+
+Accretion income, net of amortization expense, from acquisitions was $1.1 million for the second quarter of 2026, $1.3 million for the linked quarter and $2.6 million for the second quarter of 2025, which added 5 basis points, 6 basis points and 12 basis points, respectively, to net interest margin. The decrease in accretion income for the second quarter of 2026 when compared to the linked quarter and second quarter of 2025 was driven by less accretion income recognized in the current period from the 2023 merger with Limestone Bancorp, Inc. (the "Limestone Merger").
+
+
+For the first six months of 2026, net interest income increased $10.3 million compared to the same period of 2025, while net interest margin increased 6 basis points to 4.20%. The increases in net interest income and net interest margin were driven by lower deposit costs and increased interest income compared to the first half of 2025.
+
+
+Accretion income, net of amortization expense, was $2.4 million for the first six months of 2026, compared to $6.1 million of accretion income recognized in the first half of 2025. Accretion income contributed 6 basis points and 15 basis points to net interest margin in the first six months of 2026 and 2025, respectively.
+
+
+**Provision for Credit Losses:**
+
+
+The provision for credit losses was $4.7 million for the second quarter of 2026, compared to $9.7 million for the linked quarter, and $16.6 million for the second quarter of 2025. The provision for credit losses for the second quarter of 2026 was driven by the reduction of balances within higher loss rate segments offset by an increase in individually-analyzed loans. The provision for credit losses for the linked quarter was primarily driven by net charge-offs and a deterioration in macro-economic conditions used within the CECL model. The provision for credit losses for the second quarter of 2025 was primarily driven by (i) net charge-offs, (ii) an increase in reserves for individually analyzed loans and leases, (iii) an increase in reserves for leases originated by the North Star Leasing division, (iv) a periodic refresh in loss drivers utilized within the CECL model, (v) deterioration in the economic forecasts used within the CECL model, and (vi) loan growth.
+
+
+The provision for credit losses during the first six months of 2026 was $14.4 million and was primarily driven by net charge-offs, a deterioration in macro-economic conditions used within the CECL model, and an increase in individually- analyzed loans. The provision for credit losses for the same period of 2025 was $26.8 million and was driven by (i) net charge-offs, (ii) an increase in reserves for individually-analyzed loans and leases, (iii) an increase in reserves for leases originated by the North Star Leasing division, (iv) a periodic refresh in the loss drivers utilized within the CECL model, (v) deterioration in the economic forecasts used within the CECL model, and (vi) loan growth.
+
+
+The provision for credit losses recorded represents the amount needed to maintain the appropriate level of the allowance for credit losses based on management's quarterly estimates. The provision for credit losses negatively impacted earnings per diluted common share by $0.10 for the second quarter of 2026, $0.21 for the first quarter of 2026, and $0.36 for the second quarter of 2025. The provision for credit losses negatively impacted earnings per diluted common share by $0.31 and $0.59 for the first half of 2026 and 2025, respectively.
+
+
+For additional information on net charge-offs, credit trends and the allowance for credit losses, see the "Asset Quality" section below.
+
+
+**Net Gains and Losses:**
+
+
+Net gains and losses include gains and losses on investment securities, asset disposals and other transactions, which are included in total non-interest income on the Consolidated Statements of Income. The net loss for the second quarter of 2026 was $8.6 million, compared to a net loss of $0.4 million for the linked quarter, and a net loss of $0.3 million for the second quarter of 2025. The net loss for the second quarter of 2026 was driven by the sale of $135.2 million of available-for-sale securities at a net loss of $8.2 million due to a portfolio restructure as Peoples manages its balance sheet under $10 billion in assets ahead of the pending Citizens merger. The net losses for the linked quarter and the second quarter of 2025 were driven by net losses on repossessed assets.
+
+
+The net losses realized during the first half of 2026 and 2025 were $9.0 million and $0.6 million, respectively. The net loss for the first half of 2026 was driven by the aforementioned investment portfolio restructure in the second quarter. The net loss for the first half of 2025 was driven by losses on repossessed assets.
+
+
+**Total Non-interest Income, Excluding Net Gains and Losses:**
+
+
+Total non-interest income, excluding net gains and losses, for the second quarter of 2026 increased $0.3 million compared to the linked quarter. The increase in non-interest income, excluding net gains and losses, was primarily impacted by increases of $0.6 million in electronic banking income, driven by debit card interchange, $0.4 million in lease income, driven by an increase in month-to-month income, $0.4 million in trust and investment income, and $0.2 million in mortgage banking income. Partially offsetting those increases was a decrease of $1.2 million in insurance income due to the seasonal performance-based commissions recognized in the first quarter of each year. Total non-interest income, excluding net gains and losses, for the second quarter of 2026 was 24% of total revenue (defined as net interest income plus total non-interest income excluding net gains and losses), consistent with the linked quarter.
+
+
+Compared to the second quarter of 2025, total non-interest income, excluding net gains and losses, increased $1.8 million due to increases of $0.8 million in lease income, driven by higher operating lease income, $0.7 million in trust and investment income, driven by an increase in assets under administration and management, $0.4 million in deposit account services charges, and $0.4 million in mortgage banking income, partially offset by a decrease of $0.6 million in other non-interest income, driven by lower swap fee income.
+
+
+During the first six months of 2026, total non-interest income, excluding gains and losses, increased $3.0 million, or 6%, when compared to the same period of 2025. The increase was primarily due to increases of $1.9 million in lease income, driven by operating lease income, $1.2 million in trust and investment income, driven by an increase in assets under administration and management, and $0.7 million in deposit account service charges, partially offset by a decrease of $0.8 million in other non-interest income, driven by lower swap fee income.
+
+
+**Total Non-interest Expense:**
+
+
+Total non-interest expense increased $1.1 million for the second quarter of 2026, compared to the linked quarter. The increase in total non-interest expense was primarily due to increases of $1.3 million in professional fees, driven by higher legal expenses and professional services, and $0.3 million in data processing and software expense, which were partially offset with a decrease of $0.5 million in net occupancy and equipment expense, driven by lower repair and maintenance costs.
+
+
+Compared to the second quarter of 2025, total non-interest expense increased $2.4 million. The increase in total non-interest expense was primarily driven by increases of $1.1 million in salaries and benefit costs due to higher sales levels and overall company performance measures used in calculating incentive awards, $0.7 million in operating lease expense, $0.5 million in data processing and software expense due to costs associated with recent technology projects, and $0.4 million in professional fees, partially offset by a decrease of $0.5 million in amortization of other intangible assets, driven by decreases in amortization on core deposits and customer relationship intangibles.
+
+
+For the first six months of 2026, total non-interest expense increased $3.2 million, when compared to the same period of 2025. This increase was primarily driven by increases of $1.6 million in operating lease expense, $1.1 million in salaries and employee benefit costs due to annual merit increases and an increase in sales incentives, $1.0 million in data processing and software expenses driven by recent technology projects, and $0.7 million in net occupancy and equipment expense, partially offset by a decrease of $1.0 million in amortization of other intangible assets, due to decreases in amortization on core deposits and customer relationship intangibles.
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+***(Dollars in thousands)***
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**Non-interest expense:**
+
+
+Salaries and employee benefit costs
+
+
+40,012
+
+
+39,835
+
+
+38,893
+
+
+$ 79,847
+
+
+$ 78,714
+
+
+Data processing and software expense
+
+
+7,850
+
+
+7,536
+
+
+7,356
+
+
+15,386
+
+
+14,361
+
+
+Net occupancy and equipment expense
+
+
+5,765
+
+
+6,224
+
+
+5,690
+
+
+11,989
+
+
+11,302
+
+
+Professional fees
+
+
+4,018
+
+
+2,753
+
+
+3,610
+
+
+6,771
+
+
+6,697
+
+
+Electronic banking expense
+
+
+2,225
+
+
+2,081
+
+
+2,018
+
+
+4,306
+
+
+4,043
+
+
+Operating lease expense
+
+
+1,797
+
+
+1,804
+
+
+1,053
+
+
+3,601
+
+
+2,038
+
+
+Amortization of other intangible assets
+
+
+1,697
+
+
+1,697
+
+
+2,211
+
+
+3,394
+
+
+4,424
+
+
+FDIC insurance premiums
+
+
+1,370
+
+
+1,410
+
+
+1,251
+
+
+2,780
+
+
+2,502
+
+
+Other loan expenses
+
+
+1,278
+
+
+1,123
+
+
+1,213
+
+
+2,401
+
+
+2,332
+
+
+Franchise tax expense
+
+
+972
+
+
+1,004
+
+
+678
+
+
+1,976
+
+
+1,607
+
+
+Travel and entertainment expense
+
+
+726
+
+
+583
+
+
+713
+
+
+1,309
+
+
+1,213
+
+
+Communication expense
+
+
+605
+
+
+589
+
+
+712
+
+
+1,194
+
+
+1,446
+
+
+Marketing expense
+
+
+604
+
+
+886
+
+
+718
+
+
+1,490
+
+
+1,621
+
+
+Other non-interest expense
+
+
+3,840
+
+
+4,110
+
+
+4,246
+
+
+7,950
+
+
+8,849
+
+
+Total non-interest expense
+
+
+72,759
+
+
+71,635
+
+
+70,362
+
+
+144,394
+
+
+141,149
+
+
+**Acquisition-related non-interest expense:**
+
+
+Net occupancy and equipment expense
+
+
+**—**
+
+
+1
+
+
+—
+
+
+1
+
+
+—
+
+
+Professional fees
+
+
+338
+
+
+15
+
+
+—
+
+
+353
+
+
+—
+
+
+Marketing expense
+
+
+52
+
+
+—
+
+
+—
+
+
+52
+
+
+—
+
+
+Travel and entertainment expense
+
+
+10
+
+
+—
+
+
+—
+
+
+10
+
+
+—
+
+
+Other non-interest expense
+
+
+10
+
+
+—
+
+
+—
+
+
+10
+
+
+—
+
+
+Total acquisition-related non-interest expense
+
+
+410
+
+
+16
+
+
+—
+
+
+426
+
+
+—
+
+
+**Non-interest expense excluding acquisition-related expense:**
+
+
+Salaries and employee benefit costs
+
+
+40,012
+
+
+39,835
+
+
+38,893
+
+
+79,847
+
+
+78,714
+
+
+Data processing and software expense
+
+
+7,850
+
+
+7,536
+
+
+7,356
+
+
+15,386
+
+
+14,361
+
+
+Net occupancy and equipment expense
+
+
+5,765
+
+
+6,223
+
+
+5,690
+
+
+11,988
+
+
+11,302
+
+
+Professional fees
+
+
+3,680
+
+
+2,738
+
+
+3,610
+
+
+6,418
+
+
+6,697
+
+
+Electronic banking expense
+
+
+2,225
+
+
+2,081
+
+
+2,018
+
+
+4,306
+
+
+4,043
+
+
+Operating lease expense
+
+
+1,797
+
+
+1,804
+
+
+1,053
+
+
+3,601
+
+
+2,038
+
+
+Amortization of other intangible assets
+
+
+1,697
+
+
+1,697
+
+
+2,211
+
+
+3,394
+
+
+4,424
+
+
+FDIC insurance premiums
+
+
+1,370
+
+
+1,410
+
+
+1,251
+
+
+2,780
+
+
+2,502
+
+
+Other loan expenses
+
+
+1,278
+
+
+1,123
+
+
+1,213
+
+
+2,401
+
+
+2,332
+
+
+Franchise tax expense
+
+
+972
+
+
+1,004
+
+
+678
+
+
+1,976
+
+
+1,607
+
+
+Travel and entertainment expense
+
+
+716
+
+
+583
+
+
+713
+
+
+1,299
+
+
+1,213
+
+
+Communication expense
+
+
+605
+
+
+589
+
+
+712
+
+
+1,194
+
+
+1,446
+
+
+Marketing expense
+
+
+552
+
+
+886
+
+
+718
+
+
+1,438
+
+
+1,621
+
+
+Other non-interest expense
+
+
+3,830
+
+
+4,110
+
+
+4,246
+
+
+7,940
+
+
+8,849
+
+
+Total non-interest expense excluding acquisition-related
+expense
+
+
+72,349
+
+
+71,619
+
+
+70,362
+
+
+$ 143,968
+
+
+$ 141,149
+
+
+The efficiency ratio for the second quarter of 2026 was 58.3%, compared to 58.6% for the linked quarter and 59.3% for the second quarter of 2025. The efficiency ratio improved slightly compared to the linked quarter mainly as the result of higher revenue. The efficiency ratio for the first six months of 2026 was 58.4%, compared to 60.0% for the same period of 2025. The efficiency ratio improved compared to the same period of 2025 due to higher revenue. The efficiency ratio adjusted for non-core items was 57.9% for the second quarter of 2026. Peoples continues to focus on controlling expenses, while recognizing necessary costs in order to continue growing the business.
+
+
+**Income Tax Expense:**
+
+
+Peoples recorded income tax expense of $7.7 million with an effective tax rate of 21.6% for the second quarter of 2026, compared to income tax expense of $8.3 million with an effective tax rate of 22.3% for the linked quarter and income tax expense of $6.2 million with an effective tax rate of 22.7% for the second quarter of 2025. Income tax expense for the first six months of 2026 and 2025 was $16.0 million and $13.3 million, with an associated effective tax rate of 22.0% and 22.6%, respectively. The decreases in income tax expense and the effective tax rate when compared to the linked quarter were impacted by a $0.5 million benefit relating to tax credits purchased in the second quarter of 2026. The increase in income tax expense when compared to the three and six month periods ended June 30, 2025, was driven by higher pretax income.
+
+
+**Investment Securities and Liquidity:**
+
+
+Peoples' investment portfolio primarily consists of available-for-sale investment securities reported at fair value and held-to-maturity investment securities reported at amortized cost. The available-for-sale investment securities balance at June 30, 2026, decreased $133.9 million when compared to at March 31, 2026, decreased $110.3 million when compared to December 31, 2025, and decreased $177.4 million when compared to at June 30, 2025. The decrease in available-for-sale investment securities compared to all prior periods was driven by the aforementioned portfolio restructure. The unrealized losses, net of tax, on available-for-sale investment securities recognized within accumulated other comprehensive loss were $71.2 million at June 30, 2026, $76.4 million at March 31, 2026, $71.0 million at December 31, 2025, and $90.9 million at June 30, 2025. The decrease in accumulated other comprehensive loss compared to the linked quarter was the result of sales of available-for-sale investment securities during the period. At June 30, 2026, Peoples' investment securities represented approximately 19.1% of total assets, compared to 20.3% at March 31, 2026, 20.5% at December 31, 2025, and 21.2% at June 30, 2025. The decrease in the percentage of investment securities to total assets was impacted in the second quarter of 2026 by sales of available-for-sale investment securities.
+
+
+The held-to-maturity investment securities balance at June 30, 2026, decreased $16.3 million when compared to at March 31, 2026, decreased $55.5 million when compared to at December 31, 2025, and decreased $32.7 million when compared to at June 30, 2025. The decrease when compared to all prior periods was due to prepayments and maturities of collateralized mortgage obligations.
+
+
+The effective durations of the available-for-sale investment securities and the held-to-maturity investment securities as of June 30, 2026, were approximately 6.03 and 7.55 years, respectively. The duration of Peoples' investments is managed as part of Peoples' Asset Liability Management program, and has the potential to impact both liquidity and capital, as mismatches in duration may require a liquidation of investment securities at market prices to meet funding needs. These assets are a component of Peoples' liquidity profile.
+
+
+Peoples maintains a number of liquid and liquefiable assets, borrowing capacity, and other sources of liquidity to ensure the availability of funds. At June 30, 2026, Peoples had liquid and liquefiable assets totaling $549.5 million, which included (i) cash and cash equivalents, (ii) unpledged government and agency investment securities and (iii) unpledged non-agency investment securities that could be liquidated. At June 30, 2026, Peoples had a total borrowing capacity of $848.7 million available through the Federal Home Loan Bank ("FHLB"), the Federal Reserve Bank ("FRB"), and federal funds. Additionally, at June 30, 2026, Peoples had contingent sources of liquidity totaling $3.9 billion. Contingent sources of liquidity are generally comprised of borrowing capacity at the FHLB and FRB, unpledged securities, liquifiable securities, and available capacity from wholesale funding sources. Cash and cash equivalents decreased $9.2 million when compared to December 31, 2025, as the level of cash fluctuates given Peoples' total liquidity position.
+
+
+**Loans and Leases:**
+
+
+The period-end total loan and lease balances at June 30, 2026, increased $51.4 million, or 3% annualized, compared to at March 31, 2026. The increase in loans was driven by increases of $43.0 million in commercial and industrial loans, driven largely by life premium finance loans, $37.1 million in commercial premium finance loans, and $24.8 million in construction loans, partially offset by decreases of $57.7 million in other commercial real estate loans and $10.6 million in leases originated by the North Star Leasing division.
+
+
+Total loans and leases increased by $64.7 million, or 2% annualized, when compared to at December 31, 2025. The increase was driven by increases of $154.1 million in commercial and industrial loans and $20.1 million in home equity lines of credit, partially offset by decreases of $80.8 million in other commercial real estate loans, $15.2 million in residential real estate loans, and $11.7 million in leases.
+
+
+The period-end total loan and lease balances at June 30, 2026, increased $220.0 million, or 3%, compared to at June 30, 2025, driven by increases of $282.4 million in commercial and industrial loans, $34.9 million in other commercial real estate loans, and $32.2 million home equity lines of credit. These increases were partially offset by decreases of $47.0 million in construction loans, $46.1 million in leases, and $31.5 million in residential real estate loans.
+
+
+Quarterly average total loan balances increased $39.4 million compared to the linked quarter and $331.1 million when compared to the prior year quarter. The increase in average total loan balances when compared to the linked quarter was primarily the result of increases of $98.0 million in commercial and industrial loans and $11.3 million in home equity lines of credit, partially offset by decreases of $46.9 million in other commercial real estate loans, and $15.1 million in residential real estate loans. The increase in average total loans when compared to the prior year quarter was driven by increases in $326.8 million commercial and industrial loans, $94.1 million in other commercial real estate loans, and $28.4 million in home equity lines of credit, partially offset by decreases of $52.5 million, $31.5 million, and $30.9 million in construction loans, leases, and residential real estate loans, respectively.
+
+
+For the first six months of 2026, the average total loans balances increased $355.8 million compared to the first six months of 2025. The increase in average total loan balances was primarily the result of increases of $273.1 million in commercial and industrial loans, $138.2 million in other commercial real estate loans, and $25.7 million in home equity lines of credit, partially offset by decreases of $37.9 million and $35.4 million in construction loans and leases, respectively.
+
+
+**Asset Quality:**
+
+
+Key asset quality metrics improved in some regards during the second quarter of 2026. Delinquency trends improved as loans considered current comprised 99.1%, 98.9%, and 99.1% of the loan portfolio at June 30, 2026, at March 31, 2026, and at June 30, 2025, respectively. Total nonperforming assets at June 30, 2026, increased $1.4 million, or 4%, compared to at March 31, 2026, and decreased $5.6 million, or 12%, compared to at June 30, 2025. The increase in nonperforming assets compared to at March 31, 2026, was driven by two other commercial real estate loans totaling $3.8 million that were 90+ days past due and accruing at the end of the current quarter. Compared to at June 30, 2025, nonperforming assets decreased because of the sale of an OREO property in the fourth quarter of 2025. Nonperforming assets as a percent of total loans and OREO was 0.60% at June 30, 2026, compared to 0.59% at March 31, 2026, and 0.71% at June 30, 2025.
+
+
+Criticized loans, which are those categorized as special mention, substandard or doubtful, increased $49.7 million, or 22%, compared to at March 31, 2026, and increased $29.3 million, or 12%, compared to at June 30, 2025. As a percent of total loans, criticized loans were 4.01% at June 30, 2026, compared to 3.31% at March 31, 2026, and 3.70% at June 30, 2025. The increase in the amount of criticized loans compared to at March 31, 2026, and at June 30, 2025, was driven by fewer paydowns on loans previously considered criticized, coupled with an increase in loan downgrades, driven by two larger commercial downgrades during the quarter.
+
+
+Classified loans, which are those categorized as substandard or doubtful, decreased $1.1 million, or 1%, compared to at March 31, 2026, and increased $15.8 million, or 13%, compared to at June 30, 2025. As a percent of total loans, classified loans were 2.06% at June 30, 2026, compared to 2.10% at March 31, 2026, and 1.89% at June 30, 2025. The decrease in classified loans compared to at March 31, 2026, was primarily driven by paydowns. Compared to at June 30, 2025, classified loans increased due to loan downgrades.
+
+
+Annualized net charge-offs were 0.31% of average total loans for the second quarter of 2026, compared to 0.40% for the linked quarter, and 0.43% for the second quarter of 2025. Compared to the linked quarter and prior year second quarter, net charge-offs decreased, driven by a reduction in net charge-offs in leases originated by the North Star Leasing division and indirect consumer loans.
+
+
+At June 30, 2026, the allowance for credit losses decreased $0.3 million when compared to at March 31, 2026, and increased $3.4 million when compared to at June 30, 2025. The ratio of the allowance for credit losses as a percent of total loans was 1.14% at June 30, 2026, compared to 1.16% at March 31, 2026, and 1.13% at June 30, 2025. The ratio of allowance for credit losses as a percentage of non-performing loans was 190.78% at June 30, 2026, compared to 198.16% at March 31, 2026, and 183.89% at June 30, 2025.
+
+
+**Deposits:**
+
+
+As of June 30, 2026, period-end core deposits decreased $155.1 million compared to at March 31, 2026. The decrease in core deposits was attributable to decreases of $92.4 million retail certificates of deposit and $87.1 million in governmental deposits, driven by seasonality, partially offset by an increase of $37.1 million in money market deposit accounts.
+
+
+Compared to at December 31, 2025, period-end core deposit balances increased $36.6 million. The increase was primarily driven by increases in money market deposit accounts and non-interest bearing deposits,partially offset by a decrease in retail certificate of deposits.
+
+
+Compared to at June 30, 2025, period-end core deposit balances increased $36.3 million. The decrease in total deposits was primarily driven by increases of $67.9 million in money market deposit accounts, $63.0 million in non-interest bearing deposits, $36.0 million in interest-bearing demand accounts, and $25.6 million in savings accounts, partially offset by a decrease of $129.3 million in retail certificates of deposit.
+
+
+The total deposit balances attributable to retail deposits and commercial deposits were 78% and 22%, respectively, at June 30, 2026, 77% and 23%, respectively, at March 31, 2026, and 78% and 22%, respectively, at June 30, 2025.
+
+
+Uninsured deposits were 27%, 28%, and 26% of total deposits at June 30, 2026, at March 31, 2026, and at June 30, 2025, respectively. Uninsured amounts were based on the portion of customer account balances that exceeded the FDIC limit of $250,000. Peoples pledges investment securities against certain governmental deposit accounts, which collateralized $595.7 million, or 30%, $678.1 million, or 32%, and $641.1 million, or 32%, of the uninsured deposit balances at June 30, 2026, at March 31, 2026, and at June 30, 2025, respectively.
+
+
+Average deposit balances during the second quarter of 2026, increased $38.6 million when compared to the linked quarter, and decreased $94.2 million when compared to the second quarter of 2025. The increase over the linked quarter was driven by increases of $44.8 million in money market deposit accounts, $36.1 million in interest-bearing checking accounts, $35.7 million in governmental deposits, and $26.6 million in non-interest bearing deposit accounts, partially offset by decreases of $63.9 million and $55.3 million in brokered deposits and retail certificates of deposits, respectively. The decrease when compared to the second quarter of 2025 was driven by decreases of $181.7 million in brokered deposits and $80.3 million in retail certificates of deposit, partially offset by increases of $84.8 million, $32.2 million, and $27.8 million in non-interest bearing deposits, money market deposit accounts, and savings accounts, respectively. Total demand deposit accounts comprised 36% of total deposits at June 30, 2026, 35% at March 31, 2026, and 34% at June 30, 2025.
+
+
+For the first six months of 2026 average deposit balances decreased $105.0 million when compared to the first six months of 2025. The decrease was primarily a result of decreases of $222.2 million in brokered deposits and $23.6 million in retail certificates of deposits, partially offset with increases of $95.2 million, $26.1 million, and $21.9 million in non-interest bearing deposits, savings accounts, and money market deposit accounts, respectively.
+
+
+**Stockholders' Equity:**
+
+
+Total stockholders' equity at June 30, 2026, increased $20.5 million, or 2%, compared to at March 31, 2026. This change was primarily driven by net income of $28.0 million and a decrease of $5.2 million in accumulated other comprehensive loss during the quarter, partially offset by dividends paid of $15.1 million. The decrease in accumulated other comprehensive loss was the result of the sales of available-for-sale investment securities during the period.
+
+
+Total stockholders' equity at June 30, 2026 increased $29.9 million when compared to at December 31, 2025. This change was driven by net income of $57.0 million, partially offset by dividends paid of $29.8 million.
+
+
+Total stockholders' equity at June 30, 2026, increased $83.2 million, or 7%, compared to at June 30, 2025, which was due to net income of $118.2 million for the last twelve months and a decrease in other comprehensive loss of $19.4 million, partially offset by dividends paid of $59.0 million.
+
+
+Peoples Bancorp Inc. ("Peoples", Nasdaq: PEBO) is a diversified financial services holding company and makes available a complete line of banking, trust and investment, insurance and specialty financing solutions through its subsidiaries. Headquartered in Marietta, Ohio, since 1902, Peoples has established a heritage of financial stability, growth and community impact. Peoples had $9.5 billion in total assets as of June 30, 2026, and 144 locations, including 127 full-service bank branches in Ohio, West Virginia, Kentucky, Virginia, Washington D.C., and Maryland. Peoples' vision is to be the Best Community Bank in America.
+
+
+Peoples is a member of the Russell 3000 index of United States ("U.S.") publicly-traded companies. Peoples offers services through Peoples Bank (which includes the divisions of Peoples Investment Services, Peoples Premium Finance, Peoples Life Premium Finance, and North Star Leasing), Peoples Insurance Agency, LLC, and Vantage Financial, LLC.
+
+
+Conference Call to Discuss Earnings:
+
+
+Peoples will conduct a facilitated conference call to discuss second quarter 2026 results of operations on July 21, 2026, at 11:00 a.m., Eastern Time, with members of Peoples' executive management participating. Analysts, media and individual investors are invited to participate in the conference call by calling (866) 890-9285. A simultaneous webcast of the conference call audio and earnings conference call presentation will be available online via the "Investor Relations" section of Peoples' website,[www.peoplesbancorp.com](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4734907-1&h=3114926030&u=https%3A%2F%2Fwww.peoplesbancorp.com&a=www.peoplesbancorp.com) . Participants are encouraged to call or sign in at least 15 minutes prior to the scheduled conference call time to ensure participation and, if required, to download and install the necessary software. A replay of the call will be available on Peoples' website in the "Investor Relations" section for one year.
+
+
+Use of Non-US GAAP Financial Measures:
+
+
+This news release contains financial information and performance measures determined by methods other than those in accordance with accounting principles generally accepted in the United States of America ("US GAAP"). Management uses these "non-US GAAP" financial measures in its analysis of Peoples' performance and the efficiency of its operations. Management believes that these non-US GAAP financial measures provide a greater understanding of ongoing operations and enhance comparability of results with prior periods and peers. These disclosures should not be viewed as substitutes for financial measures determined in accordance with US GAAP, nor are they necessarily comparable to non-US GAAP performance measures that may be presented by other companies. Below is a listing of the non-US GAAP financial measures used in this news release:
+
+
+- Core non-interest expense is a non-US GAAP financial measure since it excludes the impact of acquisition-related expenses.
+- The efficiency ratio is calculated as total non-interest expense (less amortization of other intangible assets) as a percentage of fully tax-equivalent net interest income plus total non-interest income, excluding net gains and losses. This ratio is a non-US GAAP financial measure since it excludes amortization of other intangible assets and all gains and losses included in earnings, and uses fully tax-equivalent net interest income.
+- The efficiency ratio adjusted for non-core items is calculated as core non-interest expense (less amortization of other intangible assets) as a percentage of fully tax-equivalent net interest income plus total non-interest income, excluding net gains and losses. This ratio is a non-US GAAP financial measure since it excludes the impact of acquisition-related expenses and the amortization of other intangible assets and all gains and losses included in earnings, and uses fully tax-equivalent net interest income.
+- Tangible assets, tangible equity, the tangible equity to tangible assets ratio, and tangible book value per common share are non-US GAAP financial measures since they exclude the impact of goodwill and other intangible assets acquired through acquisitions on both total stockholders' equity and total assets.
+- Total non-interest income, excluding net gains and losses, is a non-US GAAP financial measure since it excludes all gains and losses included in earnings.
+- Pre-provision net revenue is defined as net interest income plus total non-interest income, excluding net gains and losses, minus total non-interest expense. This measure is a non-US GAAP financial measure since it excludes the provision for (recovery of) credit losses and all gains and losses included in net income.
+- Return on average assets adjusted for non-core items is calculated as annualized net income (less the after-tax impact of all gains and losses, and acquisition-related expenses) divided by average assets. This measure is a non-US GAAP financial measure since it excludes the after-tax impact of all gains and losses, and acquisition-related expenses.
+- Return on average tangible equity is calculated as annualized net income (less the after-tax impact of amortization of other intangible assets) divided by average tangible equity. This measure is a non-US GAAP financial measure since it excludes the after-tax impact of amortization of other intangible assets from net income and the impact of average goodwill and other average intangible assets acquired through acquisitions on average stockholders' equity.
+
+
+A reconciliation of these non-US GAAP financial measures to the most directly comparable US GAAP financial measures is included at the end of this news release under the caption of "Non-US GAAP Financial Measures (Unaudited)."
+
+
+Safe Harbor Statement:
+
+
+Certain statements made in this news release regarding Peoples' financial condition, results of operations, plans, objectives, future performance and business are "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. These forward-looking statements are identified by the fact they are not historical facts and include words such as "anticipate," "estimate," "may," "feel," "expect," "believe," "plan," "will," "will likely," "would," "should," "could," "project," "goal," "target," "potential," "seek," "intend," "continue," "remain," and similar expressions.
+
+
+These forward-looking statements reflect management's current expectations based on all information available to management and its knowledge of Peoples' business and operations. Additionally, Peoples' financial condition, results of operations, plans, objectives, future performance and business are subject to risks and uncertainties that may cause actual results to differ materially. These factors include, but are not limited to:
+
+
+(1)
+
+
+the effects of interest rate policies, including any changes to such policies that may result from potential changes in the composition of the Federal Reserve Board, changes in the interest rate environment due to economic conditions and/or the fiscal and monetary policy measures undertaken by the U.S. government and the Federal Reserve Board, including changes in the Federal Funds Target Rate, in response to such economic conditions, which may adversely impact interest rates, the interest rate yield curve, interest margins, loan demand and interest rate sensitivity;
+
+
+(2)
+
+
+the effects of inflationary pressures on borrowers' liquidity and ability to repay;
+
+
+(3)
+
+
+the success, impact, and timing of the implementation of Peoples' business strategies and Peoples' ability to manage strategic initiatives, including the interest rate policies of the Federal Reserve Board, the completion and successful integration of acquisitions, including the pending merger with Citizens National Corporation (the "Citizens merger"), and the expansion of commercial and consumer lending activities;
+
+
+(4)
+
+
+competitive pressures among financial institutions, or from non-financial institutions, which may increase significantly, including product and pricing pressures, which can in turn impact Peoples' credit spreads, changes to third-party relationships and revenues, changes in the manner of providing services, customer acquisition and retention pressures, and Peoples' ability to attract, develop and retain qualified professionals;
+
+
+(5)
+
+
+uncertainty regarding the nature, timing, cost, and effect of legislative or regulatory changes or actions, or deposit insurance premium levels, promulgated and to be promulgated by governmental and regulatory agencies, including the Ohio Division of Financial Institutions, the Federal Deposit Insurance Corporation, the Federal Reserve Board and the Consumer Financial Protection Bureau, which may subject Peoples, its subsidiaries, or acquired companies to a variety of new and more stringent legal and regulatory requirements;
+
+
+(6)
+
+
+the effects of easing restrictions on participants in the financial services industry;
+
+
+(7)
+
+
+current and future local, regional, national and international economic conditions (including the impact of persistent inflation, supply chain issues or labor shortages, supply-demand imbalances affecting local real estate prices, high unemployment rates in the local or regional economies in which Peoples operates and/or the U.S. economy generally, a future U.S. government shutdown, an increasing federal government budget deficit, the failure of the federal government to raise the federal debt ceiling, potential or imposed tariffs, a U.S. withdrawal from or significant renegotiation of trade agreements, trade wars and other changes in trade regulations, and changes in the relationship of the U.S. and U.S. global trading partners), and changes in the federal, state, and local governmental policy and the impact these conditions may have on Peoples, Peoples' customers and Peoples' counterparties, and Peoples' assessment of the impact, which may be different than anticipated;
+
+
+(8)
+
+
+Peoples may issue equity securities in connection with future acquisitions, which could cause ownership and economic dilution to Peoples' current shareholders;
+
+
+(9)
+
+
+changes in prepayment speeds, loan originations, levels of nonperforming assets, delinquent loans, charge-offs, and customer and other counterparties' performance and creditworthiness generally, which may be less favorable than expected in light of recent inflationary pressures and continued elevated interest rates, and may adversely impact the amount of interest income generated;
+
+
+(10)
+
+
+Peoples may have more credit risk and higher credit losses to the extent there are loan concentrations by location or industry of borrowers or collateral;
+
+
+(11)
+
+
+future credit quality and performance, including expectations regarding future credit losses and the allowance for credit losses;
+
+
+(12)
+
+
+changes in accounting standards, policies, estimates or procedures may adversely affect Peoples' reported financial condition or results of operations;
+
+
+(13)
+
+
+the impact of assumptions, estimates and inputs used within models, which may vary materially from actual outcomes, including under the CECL model;
+
+
+(14)
+
+
+adverse changes in the conditions and trends in the financial markets, including inflationary pressures and the impacts of potential or imposed tariffs on markets, which may adversely affect the fair value of securities within Peoples' investment portfolio, the interest rate sensitivity of Peoples' consolidated balance sheet, and the income generated by Peoples' trust and investment activities;
+
+
+(15)
+
+
+the volatility from quarter to quarter of mortgage banking income, whether due to interest rates, demand, the fair value of mortgage loans, or other factors;
+
+
+(16)
+
+
+Peoples' ability to receive dividends from Peoples' subsidiaries;
+
+
+(17)
+
+
+Peoples' ability to maintain required capital levels and adequate sources of funding and liquidity;
+
+
+(18)
+
+
+the impact of larger or similar-sized financial institutions encountering problems, such as the failure in 2024 of Republic First Bank, and the closures in 2023 of Silicon Valley Bank in California, Signature Bank in New York and First Republic Bank in California, which may adversely affect the banking industry and/or Peoples' business generation and retention, funding and liquidity, including Peoples' continued ability to grow deposits or maintain adequate deposit levels, and may further result in potential increased regulatory requirements, increased reputational risk and potential impacts to macroeconomic conditions;
+
+
+(19)
+
+
+Peoples' ability to secure confidential information and avoid misappropriation of confidential information in connection with the delivery of products and services through the use of computer systems and telecommunications networks, including those of Peoples' third-party vendors and other service providers, which may prove inadequate, and could adversely affect customer confidence in Peoples and/or result in Peoples incurring a financial loss;
+
+
+(20)
+
+
+Peoples' ability to anticipate and respond to technological changes, and Peoples' reliance on, and the potential failure of, a number of third-party vendors to perform as expected, including Peoples' primary core banking system provider, which can impact Peoples' ability to respond to customer needs and meet competitive demands;
+
+
+(21)
+
+
+operational issues stemming from and/or capital spending necessitated by the potential need to adapt to industry changes in information technology systems on which Peoples and Peoples' subsidiaries are highly dependent;
+
+
+(22)
+
+
+changes in consumer spending, borrowing and saving habits, whether due to changes in retail distribution strategies, consumer preferences and behavior, changes in business and economic conditions, legislative or regulatory initiatives, or other factors, which may be different than anticipated;
+
+
+(23)
+
+
+the adequacy of Peoples' internal controls and risk management program in the event of changes in strategic, reputational, market, economic, operational, cybersecurity, compliance, legal, asset/liability repricing, liquidity, credit and interest rate risks associated with Peoples' business;
+
+
+(24)
+
+
+the impact on Peoples' businesses, personnel, facilities or systems of losses related to acts of fraud, theft, misappropriation or violence;
+
+
+(25)
+
+
+the impact on Peoples' businesses, as well as on the risks described above, of various domestic or international widespread natural or other disasters including severe weather events, pandemics, cybersecurity attacks, system failures, civil unrest, military or terrorist activities or international conflicts, including Russia's ongoing war on Ukraine, the continued U.S. political and military presence in Venezuela, and the conflict in Iran (and the resulting disruptions in oil, energy and other commodity markets and supply chains);
+
+
+(26)
+
+
+the potential deterioration of the U.S. economy due to financial, political or other shocks;
+
+
+(27)
+
+
+the potential influence on the U.S. financial markets and economy from the effects of climate change, including any enhanced regulatory, compliance, credit and reputational risks and costs;
+
+
+(28)
+
+
+the impact on Peoples' businesses and operating results of any costs associated with obtaining rights in intellectual property claimed by others and adequately protecting Peoples' intellectual property;
+
+
+(29)
+
+
+risks and uncertainties associated with Peoples' entry into new geographic markets and risks resulting from Peoples' inexperience in these new geographic markets;
+
+
+(30)
+
+
+Peoples' ability to integrate the pending Citizens merger, which may be unsuccessful, or may be more difficult, time-consuming or costly than expected;
+
+
+(31)
+
+
+the risk that the proposed Citizens merger is not completed as a result of a failure to satisfy the conditions of the Citizens merger, including receipt of required regulatory, shareholder, and other approvals;
+
+
+(32)
+
+
+the possibility that the anticipated benefits of the proposed Citizens merger, including expected revenue synergies and cost savings, will not be realized or will not be realized within expected time periods;
+
+
+(33)
+
+
+changes in laws or regulations imposed by Peoples' regulators impacting Peoples' capital actions, including dividend payments and share repurchases;
+
+
+(34)
+
+
+the vulnerability of Peoples' network and online banking portals, and the systems of parties with whom Peoples contracts, to unauthorized access, computer viruses, phishing schemes, spam attacks, human error, natural disasters, power loss and other security breaches;
+
+
+(35)
+
+
+regulatory and legal matters, including the failure to resolve any outstanding matters on a timely basis and the potential of new regulatory matters, litigation, or other legal actions, which may result in, among other things, additional costs, fines, penalties, restrictions on our business activities, reputational harm, or other adverse consequences;
+
+
+(36)
+
+
+the impact on Peoples of increased political and regulatory scrutiny of corporate environmental, social and governance ("ESG") practices;
+
+
+(37)
+
+
+the effect of a fall in stock market prices on Peoples' asset and wealth management business;
+
+
+(38)
+
+
+the risk that energy tax credits purchased and used by Peoples to reduce tax liabilities will be disallowed by the IRS; and
+
+
+(39)
+
+
+other risk factors relating to the banking industry or Peoples as detailed from time to time in Peoples' reports filed with the Securities and Exchange Commission (the "SEC"), including those risk factors included in the disclosures under the heading "ITEM 1A. RISK FACTORS" of Peoples' Annual Report on Form 10-K for the fiscal year ended December 31, 2025, as supplemental by the disclosures under the heading "ITEM 1A. RISK FACTORS" of Peoples' Quarterly Report on the Form 10-Q for the quarterly period ending March, 31, 2026.
+
+
+Peoples encourages readers of this news release to understand forward-looking statements to be strategic objectives rather than absolute targets of future performance. Peoples undertakes no obligation to update these forward-looking statements to reflect events or circumstances after the date of this news release or to reflect the occurrence of unanticipated events, except as required by applicable legal requirements. Copies of documents filed with the SEC are available free of charge at the SEC's website at[http://www.sec.gov](http://www.sec.gov/) and/or from Peoples' website -[www.peoplesbancorp.com](https://edge.prnewswire.com/c/link/?t=0&l=en&o=4734907-1&h=3487966987&u=https%3A%2F%2Fwww.peoplesbancorp.com%2F&a=www.peoplesbancorp.com) under the "Investor Relations" section.
+
+
+As required by US GAAP, Peoples is required to evaluate the impact of subsequent events through the issuance date of its June 30, 2026 consolidated financial statements as part of its Quarterly Report on Form 10-Q to be filed with the SEC. Accordingly, subsequent events could occur that may cause Peoples to update its critical accounting estimates and/or to revise its financial information from the estimates and information contained in this news release.
+
+
+Important Information for Investors and Shareholders:
+
+
+This presentation does not constitute an offer to sell or the solicitation of an offer to buy securities of Peoples. Peoples filed a registration statement on Form S-4 (Registration No. 333-296361) and other documents regarding the proposed merger with Citizens with the SEC. The registration statement includes a proxy statement of Citizens that also constitutes a prospectus of Peoples, which, was sent to the shareholders of Citizens seeking their approval of the merger-related proposals. Investors and security holders are urged to read the proxy statement/prospectus and any other relevant documents filed with the SEC in connection with the proposed transaction because they contain or will contain important information about Peoples, Citizens and the proposed transaction. Investors and security holders may obtain a free copy of these documents through the website maintained by the SEC ([sec.gov](http://sec.gov/) ) or at Peoples ([peoplesbancorp.com](http://peoplesbancorp.com/) ). These documents may also be obtained, without charge, by directing a request to Peoples Bancorp Inc., 138 Putnam Street, P.O. Box 738, Marietta, Ohio 45750, Attn.: Investor Relations.
+
+
+Peoples and Citizens and certain of their directors and executive officers may be deemed to be participants in the solicitation of proxies from the shareholders of Citizens in connection with the proposed merger. Information about the directors and executive officers of Peoples is set forth in the proxy statement for Peoples' 2026 annual meeting of shareholders, as filed with the SEC on Schedule 14A on March 6, 2026. Information about the directors and executive officers of Citizens and their ownership of Citizens common stock, as well as additional information regarding the participants in the proxy solicitation and a description of their direct and indirect interests, by securities holdings or otherwise, can be found in the proxy statement/prospectus and other relevant documents regarding the proposed transaction filed with the SEC. Free copies may be obtained as described in the preceding paragraph.
+
+
+**PER COMMON SHARE DATA AND SELECTED RATIOS (Unaudited)**
+
+
+**At or For the Three Months Ended**
+
+
+**At or For the Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+**PER COMMON SHARE:**
+
+
+Earnings per common share:
+
+
+Basic
+
+
+$ 0.79
+
+
+$ 0.82
+
+
+$ 0.60
+
+
+$ 1.61
+
+
+$ 1.29
+
+
+Diluted
+
+
+0.78
+
+
+0.81
+
+
+0.59
+
+
+1.59
+
+
+1.28
+
+
+Cash dividends declared per common share
+
+
+0.42
+
+
+0.41
+
+
+0.41
+
+
+0.83
+
+
+0.81
+
+
+Book value per common share (a)
+
+
+34.41
+
+
+33.85
+
+
+32.33
+
+
+34.41
+
+
+32.33
+
+
+Tangible book value per common share (a)(b)
+
+
+23.56
+
+
+22.95
+
+
+21.18
+
+
+23.56
+
+
+21.18
+
+
+Closing price of common shares at end of period
+
+
+$ 38.41
+
+
+$ 32.87
+
+
+$ 30.54
+
+
+$ 38.41
+
+
+$ 30.54
+
+
+**SELECTED RATIOS:**
+
+
+Return on average stockholders' equity (c)
+
+
+9.13 %
+
+
+9.66 %
+
+
+7.42 %
+
+
+9.39 %
+
+
+8.09 %
+
+
+Return on average tangible equity (c)(d)
+
+
+14.03 %
+
+
+14.90 %
+
+
+12.31 %
+
+
+14.46 %
+
+
+13.46 %
+
+
+Return on average assets (c)
+
+
+1.17 %
+
+
+1.23 %
+
+
+0.92 %
+
+
+1.20 %
+
+
+0.99 %
+
+
+Return on average assets adjusted for non-core items
+(c)(h)
+
+
+1.47 %
+
+
+1.24 %
+
+
+0.93 %
+
+
+1.35 %
+
+
+1.00 %
+
+
+Efficiency ratio (e)
+
+
+58.27 %
+
+
+58.61 %
+
+
+59.25 %
+
+
+58.44 %
+
+
+59.96 %
+
+
+Efficiency ratio adjusted for non-core items (f)(i)
+
+
+57.93 %
+
+
+58.60 %
+
+
+59.25 %
+
+
+58.26 %
+
+
+59.96 %
+
+
+Net interest margin (c)(f)
+
+
+4.23 %
+
+
+4.16 %
+
+
+4.15 %
+
+
+4.20 %
+
+
+4.14 %
+
+
+Dividend payout ratio (g)
+
+
+54.04 %
+
+
+50.50 %
+
+
+68.90 %
+
+
+52.24 %
+
+
+63.32 %
+
+
+(a)
+
+
+Data presented as of the end of the period indicated.
+
+
+(b)
+
+
+Tangible book value per common share represents a non-US GAAP financial measure since it excludes the balance sheet impact of goodwill and other intangible assets acquired through acquisitions on stockholders' equity. Additional information regarding the calculation of this ratio is included at the end of this news release under the caption of "Non-US GAAP Financial Measures (Unaudited)."
+
+
+(c)
+
+
+Ratios are presented on an annualized basis.
+
+
+(d)
+
+
+Return on average tangible equity represents a non-US GAAP financial measure since it excludes the after-tax impact of amortization of other intangible assets from net income and it excludes the balance sheet impact of average goodwill and other intangible assets acquired through acquisitions on average stockholders' equity. Additional information regarding the calculation of this ratio is included at the end of this news release under the caption of "Non-US GAAP Financial Measures (Unaudited)."
+
+
+(e)
+
+
+The efficiency ratio is defined as total non-interest expense (less amortization of other intangible assets) as a percentage of fully tax-equivalent net interest income plus total non-interest income (excluding all gains and losses). This ratio represents a non-US GAAP financial measure since it excludes amortization of other intangible assets, and all gains and losses included in earnings, and uses fully tax-equivalent net interest income. Additional information regarding the calculation of this ratio is included at the end of this news release under the caption of "Non-US GAAP Financial Measures (Unaudited)."
+
+
+(f)
+
+
+Interest income and yields are presented on a fully tax-equivalent basis, using a 21% statutory federal corporate income tax rate.
+
+
+(g)
+
+
+This ratio is calculated based on dividends declared during the period divided by net income for the period.
+
+
+(h)
+
+
+Return on average assets adjusted for non-core items represents a non-US GAAP financial measure since it excludes the after-tax impact of all gains and losses and acquisition-related expenses. Additional information regarding the calculation of this ratio is included at the end of this news release under the caption of "Non-US GAAP Financial Measures (Unaudited)."
+
+
+(i)
+
+
+The efficiency ratio adjusted for non-core items is defined as core non-interest expense (less amortization of other intangible assets) as a percentage of fully tax-equivalent net interest income plus total non-interest income (excluding all gains and losses). This ratio represents a non-US GAAP financial measure since it excludes the impact of all gains and losses and acquisition-related expenses included in earnings, and uses fully tax-equivalent net interest income. Additional information regarding the calculation of this ratio is included at the end of this news release under the caption of "Non-US GAAP Financial Measures (Unaudited)."
+
+
+**CONSOLIDATED STATEMENTS OF INCOME**
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+*(Dollars in thousands, except per share data)*
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+Total interest income
+
+
+$ 127,580
+
+
+$ 126,821
+
+
+$ 126,407
+
+
+$ 254,401
+
+
+$ 250,949
+
+
+Total interest expense
+
+
+34,852
+
+
+36,401
+
+
+38,830
+
+
+71,253
+
+
+78,117
+
+
+Net interest income
+
+
+92,728
+
+
+90,420
+
+
+87,577
+
+
+183,148
+
+
+172,832
+
+
+Provision for credit losses
+
+
+4,709
+
+
+9,694
+
+
+16,642
+
+
+14,403
+
+
+26,832
+
+
+Net interest income after provision for credit losses
+
+
+88,019
+
+
+80,726
+
+
+70,935
+
+
+168,745
+
+
+146,000
+
+
+**Non-interest income:**
+
+
+Electronic banking income
+
+
+6,543
+
+
+5,927
+
+
+6,272
+
+
+12,470
+
+
+12,157
+
+
+Trust and investment income
+
+
+5,986
+
+
+5,605
+
+
+5,281
+
+
+11,591
+
+
+10,342
+
+
+Lease income
+
+
+4,977
+
+
+4,581
+
+
+4,211
+
+
+9,558
+
+
+7,679
+
+
+Deposit account service charges
+
+
+4,488
+
+
+4,267
+
+
+4,059
+
+
+8,755
+
+
+8,074
+
+
+Insurance income
+
+
+4,331
+
+
+5,580
+
+
+4,549
+
+
+9,911
+
+
+10,603
+
+
+Bank owned life insurance income
+
+
+1,189
+
+
+1,162
+
+
+1,112
+
+
+2,351
+
+
+2,245
+
+
+Mortgage banking income
+
+
+598
+
+
+376
+
+
+220
+
+
+974
+
+
+616
+
+
+Net loss on asset disposals and other transactions
+
+
+(446)
+
+
+(410)
+
+
+(280)
+
+
+(856)
+
+
+(641)
+
+
+Net loss on investment securities
+
+
+(8,181)
+
+
+—
+
+
+—
+
+
+(8,181)
+
+
+(2)
+
+
+Other non-interest income
+
+
+893
+
+
+1,166
+
+
+1,456
+
+
+2,059
+
+
+2,906
+
+
+Total non-interest income
+
+
+20,378
+
+
+28,254
+
+
+26,880
+
+
+48,632
+
+
+53,979
+
+
+**Non-interest expense:**
+
+
+Salaries and employee benefit costs
+
+
+40,012
+
+
+39,835
+
+
+38,893
+
+
+79,847
+
+
+78,714
+
+
+Data processing and software expense
+
+
+7,850
+
+
+7,536
+
+
+7,356
+
+
+15,386
+
+
+14,361
+
+
+Net occupancy and equipment expense
+
+
+5,765
+
+
+6,224
+
+
+5,690
+
+
+11,989
+
+
+11,302
+
+
+Professional fees
+
+
+4,018
+
+
+2,753
+
+
+3,610
+
+
+6,771
+
+
+6,697
+
+
+Electronic banking expense
+
+
+2,225
+
+
+2,081
+
+
+2,018
+
+
+4,306
+
+
+4,043
+
+
+Operating lease expense
+
+
+1,797
+
+
+1,804
+
+
+1,053
+
+
+3,601
+
+
+2,038
+
+
+Amortization of other intangible assets
+
+
+1,697
+
+
+1,697
+
+
+2,211
+
+
+3,394
+
+
+4,424
+
+
+FDIC insurance expense
+
+
+1,370
+
+
+1,410
+
+
+1,251
+
+
+2,780
+
+
+2,502
+
+
+Other loan expenses
+
+
+1,278
+
+
+1,123
+
+
+1,213
+
+
+2,401
+
+
+2,332
+
+
+Franchise tax expense
+
+
+972
+
+
+1,004
+
+
+678
+
+
+1,976
+
+
+1,607
+
+
+Travel and entertainment expense
+
+
+726
+
+
+583
+
+
+713
+
+
+1,309
+
+
+1,213
+
+
+Communication expense
+
+
+605
+
+
+589
+
+
+712
+
+
+1,194
+
+
+1,446
+
+
+Marketing expense
+
+
+604
+
+
+886
+
+
+718
+
+
+1,490
+
+
+1,621
+
+
+Other non-interest expense
+
+
+3,840
+
+
+4,110
+
+
+4,246
+
+
+7,950
+
+
+8,849
+
+
+Total non-interest expense
+
+
+72,759
+
+
+71,635
+
+
+70,362
+
+
+144,394
+
+
+141,149
+
+
+Income before income taxes
+
+
+35,638
+
+
+37,345
+
+
+27,453
+
+
+72,983
+
+
+58,830
+
+
+Income tax expense
+
+
+7,685
+
+
+8,339
+
+
+6,241
+
+
+16,024
+
+
+13,282
+
+
+**Net income**
+
+
+**$ 27,953**
+
+
+**$ 29,006**
+
+
+**$ 21,212**
+
+
+**$ 56,959**
+
+
+**$ 45,548**
+
+
+**CONSOLIDATED STATEMENTS OF INCOME (Cont.)**
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+*(Dollars in thousands, except per share data)*
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**PER COMMON SHARE DATA:**
+
+
+Net income available to common shareholders
+
+
+$ 27,953
+
+
+$ 29,006
+
+
+$ 21,212
+
+
+$ 56,959
+
+
+$ 45,548
+
+
+Less: Dividends paid on unvested common shares
+
+
+212
+
+
+200
+
+
+212
+
+
+412
+
+
+422
+
+
+Less: Undistributed income allocated to unvested
+common shares
+
+
+81
+
+
+54
+
+
+17
+
+
+135
+
+
+54
+
+
+Net earnings allocated to common shareholders
+
+
+$ 27,660
+
+
+$ 28,752
+
+
+$ 20,983
+
+
+$ 56,412
+
+
+$ 45,072
+
+
+Weighted-average common shares outstanding
+
+
+35,173,525
+
+
+35,108,649
+
+
+34,972,065
+
+
+35,141,267
+
+
+34,934,105
+
+
+Effect of potentially dilutive common shares
+
+
+393,041
+
+
+376,775
+
+
+359,642
+
+
+388,248
+
+
+365,313
+
+
+Total weighted-average diluted common shares
+outstanding
+
+
+35,566,566
+
+
+35,485,424
+
+
+35,331,707
+
+
+35,529,515
+
+
+35,299,418
+
+
+Earnings per common share – basic
+
+
+$ 0.79
+
+
+$ 0.82
+
+
+$ 0.60
+
+
+$ 1.61
+
+
+$ 1.29
+
+
+Earnings per common share – diluted
+
+
+$ 0.78
+
+
+$ 0.81
+
+
+$ 0.59
+
+
+$ 1.59
+
+
+$ 1.28
+
+
+Cash dividends declared per common share
+
+
+$ 0.42
+
+
+$ 0.41
+
+
+$ 0.41
+
+
+$ 0.83
+
+
+$ 0.81
+
+
+Weighted-average common shares outstanding – basic
+
+
+35,173,525
+
+
+35,108,649
+
+
+34,972,065
+
+
+35,141,267
+
+
+34,934,105
+
+
+Weighted-average common shares outstanding – diluted
+
+
+35,566,566
+
+
+35,485,424
+
+
+35,331,707
+
+
+35,529,515
+
+
+35,299,418
+
+
+Common shares outstanding at the end of period
+
+
+35,939,954
+
+
+35,925,945
+
+
+35,673,721
+
+
+35,939,954
+
+
+35,673,721
+
+
+**CONSOLIDATED BALANCE SHEETS**
+
+
+**June 30,**
+
+
+**December 31,**
+
+
+**2026**
+
+
+**2025**
+
+
+*(Dollars in thousands)*
+
+
+(Unaudited)
+
+
+**Assets**
+
+
+Cash and cash equivalents:
+
+
+Cash and due from banks
+
+
+$ 106,562
+
+
+$ 107,864
+
+
+Interest-bearing deposits in other banks
+
+
+73,163
+
+
+81,087
+
+
+Total cash and cash equivalents
+
+
+179,725
+
+
+188,951
+
+
+Available-for-sale investment securities, at fair value (amortized cost of
+
+
+$966,592 at June 30, 2026 and $1,076,980 at December 31, 2025) (a)
+
+
+874,050
+
+
+984,367
+
+
+Held-to-maturity investment securities, at amortized cost (fair value of
+
+
+$802,716 at June 30, 2026 and $867,714 at December 31, 2025) (a)
+
+
+867,332
+
+
+922,837
+
+
+Other investment securities, at cost
+
+
+76,099
+
+
+68,656
+
+
+Total investment securities (a)
+
+
+1,817,481
+
+
+1,975,860
+
+
+Loans and leases, net of deferred fees and costs (b)
+
+
+6,821,580
+
+
+6,756,907
+
+
+Allowance for credit losses
+
+
+(78,103)
+
+
+(75,676)
+
+
+Net loans and leases
+
+
+6,743,477
+
+
+6,681,231
+
+
+Loans held for sale
+
+
+2,568
+
+
+2,667
+
+
+Bank premises and equipment, net of accumulated depreciation
+
+
+97,578
+
+
+100,508
+
+
+Bank owned life insurance
+
+
+150,615
+
+
+148,264
+
+
+Goodwill
+
+
+363,199
+
+
+363,199
+
+
+Other intangible assets
+
+
+26,764
+
+
+30,120
+
+
+Other assets
+
+
+158,754
+
+
+158,830
+
+
+**Total assets**
+
+
+$ 9,540,161
+
+
+$ 9,649,630
+
+
+**Liabilities**
+
+
+Deposits:
+
+
+Non-interest-bearing
+
+
+$ 1,593,799
+
+
+$ 1,545,428
+
+
+Interest-bearing
+
+
+5,862,566
+
+
+6,064,796
+
+
+Total deposits
+
+
+7,456,365
+
+
+7,610,224
+
+
+Short-term borrowings
+
+
+588,653
+
+
+530,285
+
+
+Long-term borrowings
+
+
+156,253
+
+
+204,138
+
+
+Accrued expenses and other liabilities
+
+
+102,339
+
+
+98,381
+
+
+**Total liabilities**
+
+
+$ 8,303,610
+
+
+$ 8,443,028
+
+
+**Stockholders' Equity**
+
+
+Preferred shares, no par value, 50,000 shares authorized, no shares issued at June 30, 2026 or at
+December 31, 2025
+
+
+—
+
+
+—
+
+
+Common shares, no par value, 50,000,000 shares authorized, 36,860,845 shares issued at June 30, 2026 and
+36,836,943 shares issued at December 31, 2025, including shares in treasury
+
+
+869,739
+
+
+871,571
+
+
+Retained earnings
+
+
+463,953
+
+
+436,748
+
+
+Accumulated other comprehensive loss, net of deferred income taxes
+
+
+(70,861)
+
+
+(70,628)
+
+
+Treasury stock, at cost, 1,008,699 common shares at June 30, 2026 and 1,215,120 common shares at
+December 31, 2025
+
+
+(26,280)
+
+
+(31,089)
+
+
+**Total stockholders' equity**
+
+
+1,236,551
+
+
+1,206,602
+
+
+**Total liabilities and stockholders' equity**
+
+
+$ 9,540,161
+
+
+$ 9,649,630
+
+
+(a)
+
+
+Available-for-sale investment securities and held-to-maturity investment securities are presented net of allowance for credit losses of $0 and $233 and $0 and $236 at June 30, 2026, and at December 31, 2025, respectively.
+
+
+(b)
+
+
+Also referred to throughout this document as "total loans" and "loans held for investment."
+
+
+**SELECTED FINANCIAL INFORMATION (Unaudited)**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**December 31,**
+
+
+**September 30,**
+
+
+**June 30,**
+
+
+*(Dollars in thousands)*
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2025**
+
+
+**2025**
+
+
+**Loan Portfolio**
+
+
+Construction
+
+
+$ 294,350
+
+
+$ 269,571
+
+
+$ 300,941
+
+
+$ 261,048
+
+
+$ 341,313
+
+
+Commercial real estate, other
+
+
+2,283,163
+
+
+2,340,833
+
+
+2,363,967
+
+
+2,369,396
+
+
+2,248,214
+
+
+Commercial and industrial
+
+
+1,689,817
+
+
+1,646,797
+
+
+1,535,755
+
+
+1,489,505
+
+
+1,407,382
+
+
+Premium finance
+
+
+266,015
+
+
+228,883
+
+
+253,075
+
+
+273,297
+
+
+277,622
+
+
+Leases
+
+
+353,952
+
+
+350,226
+
+
+365,649
+
+
+382,753
+
+
+400,052
+
+
+Residential real estate
+
+
+846,475
+
+
+852,011
+
+
+861,722
+
+
+875,773
+
+
+877,968
+
+
+Home equity lines of credit
+
+
+273,965
+
+
+260,909
+
+
+253,864
+
+
+247,383
+
+
+241,785
+
+
+Consumer, indirect
+
+
+693,529
+
+
+699,854
+
+
+700,582
+
+
+710,385
+
+
+692,674
+
+
+Consumer, direct
+
+
+119,273
+
+
+119,859
+
+
+120,338
+
+
+118,206
+
+
+113,615
+
+
+Deposit account overdrafts
+
+
+1,041
+
+
+1,265
+
+
+1,014
+
+
+982
+
+
+964
+
+
+Total loans and leases
+
+
+$ 6,821,580
+
+
+$ 6,770,208
+
+
+$ 6,756,907
+
+
+$ 6,728,728
+
+
+$ 6,601,589
+
+
+Total acquired loans and leases (a)
+
+
+$ 1,140,586
+
+
+$ 1,225,112
+
+
+$ 1,299,543
+
+
+$ 1,380,354
+
+
+$ 1,452,475
+
+
+Total originated loans and leases
+
+
+$ 5,680,994
+
+
+$ 5,545,096
+
+
+$ 5,457,364
+
+
+$ 5,348,374
+
+
+$ 5,149,114
+
+
+Total Investment Securities
+
+
+$ 1,817,481
+
+
+$ 1,961,522
+
+
+$ 1,975,860
+
+
+$ 1,972,721
+
+
+$ 2,019,054
+
+
+**Deposit Balances**
+
+
+Non-interest-bearing deposits (b)
+
+
+$ 1,593,799
+
+
+$ 1,586,514
+
+
+$ 1,545,428
+
+
+$ 1,536,094
+
+
+$ 1,530,824
+
+
+Interest-bearing deposits:
+
+
+Retail certificates of deposit
+
+
+1,876,056
+
+
+1,968,441
+
+
+1,983,791
+
+
+2,008,619
+
+
+2,005,322
+
+
+Interest-bearing demand accounts (b)
+
+
+1,094,873
+
+
+1,111,875
+
+
+1,092,252
+
+
+1,068,443
+
+
+1,058,910
+
+
+Money market deposit accounts
+
+
+995,487
+
+
+958,413
+
+
+945,313
+
+
+948,177
+
+
+927,543
+
+
+Savings accounts
+
+
+915,505
+
+
+918,557
+
+
+887,402
+
+
+884,230
+
+
+889,872
+
+
+Governmental deposit accounts
+
+
+755,024
+
+
+842,087
+
+
+739,939
+
+
+769,782
+
+
+781,949
+
+
+Brokered deposits
+
+
+225,621
+
+
+262,550
+
+
+416,099
+
+
+416,851
+
+
+442,788
+
+
+Total interest-bearing deposits
+
+
+$ 5,862,566
+
+
+$ 6,061,923
+
+
+$ 6,064,796
+
+
+$ 6,096,102
+
+
+$ 6,106,384
+
+
+Total deposits
+
+
+$ 7,456,365
+
+
+$ 7,648,437
+
+
+$ 7,610,224
+
+
+$ 7,632,196
+
+
+$ 7,637,208
+
+
+Total demand deposits (b)
+
+
+$ 2,688,672
+
+
+$ 2,698,389
+
+
+$ 2,637,680
+
+
+$ 2,604,537
+
+
+$ 2,589,734
+
+
+**Asset Quality**
+
+
+Nonperforming assets (NPAs):
+
+
+Loans 90+ days past due and accruing
+
+
+$ 7,838
+
+
+$ 2,846
+
+
+$ 6,156
+
+
+$ 4,898
+
+
+$ 6,126
+
+
+Nonaccrual loans
+
+
+33,101
+
+
+36,714
+
+
+36,886
+
+
+33,889
+
+
+34,485
+
+
+Total nonperforming loans (NPLs) (f)
+
+
+40,939
+
+
+39,560
+
+
+43,042
+
+
+38,787
+
+
+40,611
+
+
+Other real estate owned (OREO)
+
+
+115
+
+
+97
+
+
+123
+
+
+6,013
+
+
+6,013
+
+
+Total NPAs (f)
+
+
+$ 41,054
+
+
+$ 39,657
+
+
+$ 43,165
+
+
+$ 44,800
+
+
+$ 46,624
+
+
+Criticized loans (c)
+
+
+$ 273,791
+
+
+$ 224,124
+
+
+$ 236,468
+
+
+$ 268,326
+
+
+$ 244,442
+
+
+Classified loans (d)
+
+
+140,811
+
+
+141,940
+
+
+147,175
+
+
+158,577
+
+
+125,014
+
+
+Allowance for credit losses as a percent of NPLs (f)
+
+
+190.78 %
+
+
+198.16 %
+
+
+175.82 %
+
+
+193.01 %
+
+
+183.89 %
+
+
+NPLs as a percent of total loans (f)
+
+
+0.60 %
+
+
+0.58 %
+
+
+0.64 %
+
+
+0.58 %
+
+
+0.61 %
+
+
+NPAs as a percent of total assets (f)
+
+
+0.43 %
+
+
+0.41 %
+
+
+0.45 %
+
+
+0.47 %
+
+
+0.49 %
+
+
+NPAs as a percent of total loans and OREO (f)
+
+
+0.60 %
+
+
+0.59 %
+
+
+0.64 %
+
+
+0.66 %
+
+
+0.71 %
+
+
+Criticized loans as a percent of total loans (c)
+
+
+4.01 %
+
+
+3.31 %
+
+
+3.50 %
+
+
+3.99 %
+
+
+3.70 %
+
+
+Classified loans as a percent of total loans (d)
+
+
+2.06 %
+
+
+2.10 %
+
+
+2.18 %
+
+
+2.36 %
+
+
+1.89 %
+
+
+Allowance for credit losses as a percent of total loans
+
+
+1.14 %
+
+
+1.16 %
+
+
+1.12 %
+
+
+1.11 %
+
+
+1.13 %
+
+
+Total demand deposits as a percent of total deposits (b)
+
+
+36.06 %
+
+
+35.28 %
+
+
+34.66 %
+
+
+34.13 %
+
+
+33.91 %
+
+
+**Capital Information (e)(g)**
+
+
+Common equity tier 1 capital ratio (h)
+
+
+12.66 %
+
+
+12.45 %
+
+
+12.29 %
+
+
+12.11 %
+
+
+11.95 %
+
+
+Tier 1 risk-based capital ratio
+
+
+13.10 %
+
+
+12.89 %
+
+
+12.73 %
+
+
+12.54 %
+
+
+12.39 %
+
+
+Total risk-based capital ratio (tier 1 and tier 2)
+
+
+14.19 %
+
+
+13.98 %
+
+
+13.78 %
+
+
+13.79 %
+
+
+13.71 %
+
+
+Leverage ratio
+
+
+10.33 %
+
+
+10.14 %
+
+
+9.91 %
+
+
+9.74 %
+
+
+9.83 %
+
+
+Common equity tier 1 capital
+
+
+$ 928,523
+
+
+$ 911,986
+
+
+$ 893,970
+
+
+$ 875,454
+
+
+$ 857,036
+
+
+Tier 1 capital
+
+
+960,707
+
+
+943,986
+
+
+925,616
+
+
+906,900
+
+
+888,282
+
+
+Total capital (tier 1 and tier 2)
+
+
+1,040,914
+
+
+1,023,777
+
+
+1,002,226
+
+
+997,309
+
+
+982,929
+
+
+Total risk-weighted assets
+
+
+$ 7,334,712
+
+
+$ 7,323,344
+
+
+$ 7,273,985
+
+
+$ 7,231,476
+
+
+$ 7,170,841
+
+
+Total stockholders' equity to total assets
+
+
+12.96 %
+
+
+12.60 %
+
+
+12.50 %
+
+
+12.29 %
+
+
+12.09 %
+
+
+Tangible equity to tangible assets (i)
+
+
+9.25 %
+
+
+8.91 %
+
+
+8.79 %
+
+
+8.53 %
+
+
+8.26 %
+
+
+(a)
+
+
+Includes all loans and leases acquired and purchased in 2012 and thereafter.
+
+
+(b)
+
+
+The sum of non-interest-bearing deposits and interest-bearing demand accounts is considered total demand deposits.
+
+
+(c)
+
+
+Includes loans categorized as special mention, substandard, or doubtful.
+
+
+(d)
+
+
+Includes loans categorized as substandard or doubtful.
+
+
+(e)
+
+
+Data presented as of the end of the period indicated.
+
+
+(f)
+
+
+Nonperforming loans include loans 90+ days past due and accruing, renegotiated loans and nonaccrual loans. Nonperforming assets include nonperforming loans and OREO.
+
+
+(g)
+
+
+June 30, 2026 data based on preliminary analysis and subject to revision.
+
+
+(h)
+
+
+Peoples' capital conservation buffer was 6.19% at June 30, 2026, 5.98% at March 31, 2026, 5.78% at December 31, 2025, 5.79% at September 30, 2025, and 5.71% at June 30, 2025, compared to required capital conservation buffer of 2.50%
+
+
+(i)
+
+
+This ratio represents a non-US GAAP financial measure since it excludes the balance sheet impact of intangible assets acquired through acquisitions on both total stockholders' equity and total assets. Additional information regarding the calculation of this ratio is included at the end of this news release under the caption of "Non-US GAAP Financial Measures (Unaudited)."
+
+
+**PROVISION FOR (RECOVERY OF) CREDIT LOSSES INFORMATION**
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+*(Dollars in thousands)*
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**(Unaudited)**
+
+
+**Provision for credit losses**
+
+
+Provision for credit losses
+
+
+$ 4,477
+
+
+$ 9,415
+
+
+$ 16,475
+
+
+$ 13,892
+
+
+$ 26,510
+
+
+Provision for checking account overdrafts
+
+
+232
+
+
+279
+
+
+167
+
+
+511
+
+
+322
+
+
+Total provision for credit losses
+
+
+$ 4,709
+
+
+$ 9,694
+
+
+$ 16,642
+
+
+$ 14,403
+
+
+$ 26,832
+
+
+**Net Charge-Offs**
+
+
+Gross charge-offs
+
+
+$ 6,766
+
+
+$ 7,759
+
+
+$ 7,829
+
+
+$ 14,525
+
+
+$ 16,589
+
+
+Recoveries
+
+
+1,581
+
+
+1,114
+
+
+865
+
+
+2,695
+
+
+1,504
+
+
+Net charge-offs
+
+
+$ 5,185
+
+
+$ 6,645
+
+
+$ 6,964
+
+
+$ 11,830
+
+
+$ 15,085
+
+
+**Net Charge-Offs (Recoveries) by Type**
+
+
+Construction
+
+
+$ —
+
+
+$ —
+
+
+$ —
+
+
+$ —
+
+
+$ —
+
+
+Commercial real estate, other
+
+
+167
+
+
+—
+
+
+35
+
+
+167
+
+
+246
+
+
+Commercial and industrial
+
+
+196
+
+
+254
+
+
+539
+
+
+450
+
+
+913
+
+
+Premium finance
+
+
+50
+
+
+46
+
+
+90
+
+
+96
+
+
+155
+
+
+Leases
+
+
+3,403
+
+
+4,254
+
+
+4,838
+
+
+7,657
+
+
+10,247
+
+
+Residential real estate
+
+
+62
+
+
+37
+
+
+(50)
+
+
+99
+
+
+43
+
+
+Home equity lines of credit
+
+
+32
+
+
+20
+
+
+12
+
+
+52
+
+
+12
+
+
+Consumer, indirect
+
+
+841
+
+
+1,592
+
+
+1,244
+
+
+2,433
+
+
+2,900
+
+
+Consumer, direct
+
+
+183
+
+
+178
+
+
+82
+
+
+361
+
+
+217
+
+
+Deposit account overdrafts
+
+
+251
+
+
+264
+
+
+174
+
+
+515
+
+
+352
+
+
+Total net charge-offs
+
+
+$ 5,185
+
+
+$ 6,645
+
+
+$ 6,964
+
+
+$ 11,830
+
+
+$ 15,085
+
+
+As a percent of average total loans (annualized)
+
+
+0.31 %
+
+
+0.40 %
+
+
+0.43 %
+
+
+0.35 %
+
+
+0.48 %
+
+
+**SUPPLEMENTAL INFORMATION (Unaudited)**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**December 31,**
+
+
+**September 30,**
+
+
+**June 30,**
+
+
+*(Dollars in thousands)*
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2025**
+
+
+**2025**
+
+
+Trust assets under administration and
+management
+
+
+$ 2,521,031
+
+
+$ 2,178,467
+
+
+$ 2,219,650
+
+
+$ 2,271,536
+
+
+$ 2,138,439
+
+
+Brokerage assets under administration and
+management
+
+
+1,984,252
+
+
+1,844,940
+
+
+1,846,084
+
+
+1,800,781
+
+
+1,724,311
+
+
+Mortgage loans serviced for others
+
+
+326,021
+
+
+319,664
+
+
+322,139
+
+
+323,347
+
+
+326,710
+
+
+Employees (full-time equivalent)
+
+
+1,443
+
+
+1,458
+
+
+1,454
+
+
+1,454
+
+
+1,477
+
+
+**CONSOLIDATED AVERAGE BALANCE SHEETS AND NET INTEREST INCOME (Unaudited)**
+
+
+**Three Months Ended**
+
+
+**June 30, 2026**
+
+
+**March 31, 2026**
+
+
+**June 30, 2025**
+
+
+*(Dollars in thousands)*
+
+
+**Balance**
+
+
+**Income/**
+
+
+**Expense**
+
+
+**Yield/ Cost**
+
+
+**Balance**
+
+
+**Income/**
+
+
+**Expense**
+
+
+**Yield/ Cost**
+
+
+**Balance**
+
+
+**Income/**
+
+
+**Expense**
+
+
+**Yield/ Cost**
+
+
+**Assets**
+
+
+Short-term investments
+
+
+$ 112,726
+
+
+$ 1,084
+
+
+3.86 %
+
+
+$ 82,872
+
+
+$ 790
+
+
+3.87 %
+
+
+$ 86,655
+
+
+$ 1,039
+
+
+4.81 %
+
+
+Investment securities (a)(b)
+
+
+1,887,908
+
+
+17,133
+
+
+3.63 %
+
+
+1,961,950
+
+
+17,558
+
+
+3.58 %
+
+
+1,910,884
+
+
+16,808
+
+
+3.52 %
+
+
+Loans (b)(c):
+
+
+Construction
+
+
+282,906
+
+
+4,989
+
+
+6.98 %
+
+
+289,892
+
+
+4,586
+
+
+6.33 %
+
+
+335,396
+
+
+5,935
+
+
+7.00 %
+
+
+Commercial real estate, other
+
+
+2,205,065
+
+
+33,969
+
+
+6.09 %
+
+
+2,251,931
+
+
+34,658
+
+
+6.16 %
+
+
+2,110,961
+
+
+33,430
+
+
+6.27 %
+
+
+Commercial and industrial
+
+
+1,652,813
+
+
+25,826
+
+
+6.18 %
+
+
+1,554,825
+
+
+25,110
+
+
+6.46 %
+
+
+1,325,976
+
+
+23,304
+
+
+6.95 %
+
+
+Premium finance
+
+
+243,558
+
+
+5,154
+
+
+8.37 %
+
+
+238,918
+
+
+4,553
+
+
+7.62 %
+
+
+267,294
+
+
+5,743
+
+
+8.50 %
+
+
+Leases
+
+
+352,662
+
+
+8,180
+
+
+9.18 %
+
+
+355,857
+
+
+8,578
+
+
+9.64 %
+
+
+384,191
+
+
+10,287
+
+
+10.59 %
+
+
+Residential real estate (d)
+
+
+943,268
+
+
+12,927
+
+
+5.48 %
+
+
+958,354
+
+
+13,049
+
+
+5.45 %
+
+
+974,203
+
+
+12,226
+
+
+5.02 %
+
+
+Home equity lines of credit
+
+
+267,892
+
+
+4,684
+
+
+7.01 %
+
+
+256,543
+
+
+4,404
+
+
+6.96 %
+
+
+239,531
+
+
+4,540
+
+
+7.60 %
+
+
+Consumer, indirect
+
+
+698,460
+
+
+11,322
+
+
+6.50 %
+
+
+700,411
+
+
+11,293
+
+
+6.54 %
+
+
+686,550
+
+
+11,038
+
+
+6.45 %
+
+
+Consumer, direct
+
+
+127,928
+
+
+2,533
+
+
+7.94 %
+
+
+128,423
+
+
+2,487
+
+
+7.85 %
+
+
+119,358
+
+
+2,337
+
+
+7.85 %
+
+
+Total loans
+
+
+6,774,552
+
+
+109,584
+
+
+6.42 %
+
+
+6,735,154
+
+
+108,718
+
+
+6.47 %
+
+
+6,443,460
+
+
+108,840
+
+
+6.71 %
+
+
+Allowance for credit losses
+
+
+(78,113)
+
+
+(75,284)
+
+
+(65,186)
+
+
+Net loans
+
+
+6,696,439
+
+
+6,659,870
+
+
+6,378,274
+
+
+Total earning assets
+
+
+8,697,073
+
+
+127,801
+
+
+5.84 %
+
+
+8,704,692
+
+
+127,066
+
+
+5.85 %
+
+
+8,375,813
+
+
+126,687
+
+
+6.01 %
+
+
+Goodwill and other intangible
+assets
+
+
+390,753
+
+
+392,490
+
+
+398,940
+
+
+Other assets
+
+
+498,500
+
+
+503,926
+
+
+518,534
+
+
+Total assets
+
+
+$ 9,586,326
+
+
+$ 9,601,108
+
+
+$ 9,293,287
+
+
+**Liabilities and Equity**
+
+
+Interest-bearing deposits:
+
+
+Savings accounts
+
+
+$ 917,693
+
+
+$ 181
+
+
+0.08 %
+
+
+$ 903,050
+
+
+$ 183
+
+
+0.08 %
+
+
+$ 889,877
+
+
+$ 220
+
+
+0.10 %
+
+
+Governmental deposit accounts
+
+
+818,274
+
+
+4,151
+
+
+2.03 %
+
+
+782,543
+
+
+3,923
+
+
+2.03 %
+
+
+811,822
+
+
+4,874
+
+
+2.41 %
+
+
+Interest-bearing demand accounts
+
+
+1,091,757
+
+
+602
+
+
+0.22 %
+
+
+1,055,685
+
+
+572
+
+
+0.22 %
+
+
+1,075,220
+
+
+563
+
+
+0.21 %
+
+
+Money market deposit accounts
+
+
+970,487
+
+
+4,977
+
+
+2.06 %
+
+
+925,668
+
+
+4,541
+
+
+1.99 %
+
+
+938,318
+
+
+5,592
+
+
+2.39 %
+
+
+Retail certificates of deposit
+
+
+1,917,698
+
+
+15,357
+
+
+3.21 %
+
+
+1,973,029
+
+
+16,458
+
+
+3.38 %
+
+
+1,997,992
+
+
+18,235
+
+
+3.66 %
+
+
+Brokered deposits (e)
+
+
+237,556
+
+
+2,382
+
+
+4.02 %
+
+
+301,470
+
+
+2,954
+
+
+3.97 %
+
+
+419,277
+
+
+4,393
+
+
+4.20 %
+
+
+Total interest-bearing deposits
+
+
+5,953,465
+
+
+27,650
+
+
+1.86 %
+
+
+5,941,445
+
+
+28,631
+
+
+1.95 %
+
+
+6,132,506
+
+
+33,877
+
+
+2.22 %
+
+
+Short-term borrowings (e)
+
+
+494,931
+
+
+4,623
+
+
+3.74 %
+
+
+550,370
+
+
+4,959
+
+
+3.64 %
+
+
+127,716
+
+
+1,389
+
+
+4.36 %
+
+
+Long-term borrowings
+
+
+182,032
+
+
+2,579
+
+
+5.66 %
+
+
+190,934
+
+
+2,811
+
+
+5.92 %
+
+
+233,998
+
+
+3,564
+
+
+6.07 %
+
+
+Total borrowed funds
+
+
+676,963
+
+
+7,202
+
+
+4.26 %
+
+
+741,304
+
+
+7,770
+
+
+4.23 %
+
+
+361,714
+
+
+4,953
+
+
+5.47 %
+
+
+Total interest-bearing liabilities
+
+
+6,630,428
+
+
+34,852
+
+
+2.11 %
+
+
+6,682,749
+
+
+36,401
+
+
+2.21 %
+
+
+6,494,220
+
+
+38,830
+
+
+2.40 %
+
+
+Non-interest-bearing deposits
+
+
+1,631,305
+
+
+1,604,708
+
+
+1,546,475
+
+
+Other liabilities
+
+
+96,401
+
+
+95,283
+
+
+105,339
+
+
+Total liabilities
+
+
+8,358,134
+
+
+8,382,740
+
+
+8,146,034
+
+
+Stockholders' equity
+
+
+1,228,192
+
+
+1,218,368
+
+
+1,147,253
+
+
+Total liabilities and stockholders'
+equity
+
+
+$ 9,586,326
+
+
+$ 9,601,108
+
+
+$ 9,293,287
+
+
+Net interest income/spread (b)
+
+
+$ 92,949
+
+
+3.73 %
+
+
+$ 90,665
+
+
+3.64 %
+
+
+$ 87,857
+
+
+3.61 %
+
+
+Net interest margin (b)
+
+
+4.23 %
+
+
+4.16 %
+
+
+4.15 %
+
+
+(a)
+
+
+Average balances are based on carrying value.
+
+
+(b)
+
+
+(c)
+
+
+Average balances include nonaccrual and impaired loans. Interest income includes interest earned and received on nonaccrual loans prior to the loans being placed on nonaccrual status. Loan fees included in interest income were immaterial for all periods presented.
+
+
+(d)
+
+
+Loans held for sale are included in the average loan balance listed. Related interest income on loans originated for sale prior to the loan being sold is included in loan interest income.
+
+
+(e)
+
+
+Interest related to interest rate swap transactions is included, as appropriate to the transaction, in interest expense on short-term FHLB advances and interest expense on brokered deposits for the periods presented in which FHLB advances and brokered deposits were being utilized.
+
+
+**CONSOLIDATED AVERAGE BALANCE SHEETS AND NET INTEREST INCOME (Unaudited) -- (Continued)**
+
+
+**Six Months Ended**
+
+
+**June 30, 2026**
+
+
+**June 30, 2025**
+
+
+*(Dollars in thousands)*
+
+
+**Balance**
+
+
+**Income/**
+
+
+**Expense**
+
+
+**Yield/ Cost**
+
+
+**Balance**
+
+
+**Income/**
+
+
+**Expense**
+
+
+**Yield/ Cost**
+
+
+**Assets**
+
+
+Short-term investments
+
+
+$ 97,882
+
+
+$ 1,874
+
+
+3.86 %
+
+
+$ 87,780
+
+
+$ 1,938
+
+
+4.45 %
+
+
+Investment securities (a)(b)
+
+
+1,924,724
+
+
+34,691
+
+
+3.61 %
+
+
+1,903,997
+
+
+33,406
+
+
+3.51 %
+
+
+Loans (b)(c):
+
+
+Construction
+
+
+286,380
+
+
+9,574
+
+
+6.65 %
+
+
+324,325
+
+
+11,507
+
+
+7.06 %
+
+
+Commercial real estate, other
+
+
+2,228,369
+
+
+68,630
+
+
+6.13 %
+
+
+2,090,163
+
+
+66,693
+
+
+6.35 %
+
+
+Commercial and industrial
+
+
+1,604,089
+
+
+50,936
+
+
+6.32 %
+
+
+1,331,026
+
+
+46,635
+
+
+6.97 %
+
+
+Premium finance
+
+
+241,251
+
+
+9,706
+
+
+8.00 %
+
+
+263,290
+
+
+11,328
+
+
+8.56 %
+
+
+Leases
+
+
+354,251
+
+
+16,758
+
+
+9.41 %
+
+
+389,646
+
+
+20,485
+
+
+10.46 %
+
+
+Residential real estate (d)
+
+
+950,769
+
+
+25,975
+
+
+5.46 %
+
+
+965,176
+
+
+24,440
+
+
+5.06 %
+
+
+Home equity lines of credit
+
+
+262,249
+
+
+9,088
+
+
+6.99 %
+
+
+236,543
+
+
+8,922
+
+
+7.61 %
+
+
+Consumer, indirect
+
+
+699,430
+
+
+22,615
+
+
+6.52 %
+
+
+680,415
+
+
+21,586
+
+
+6.40 %
+
+
+Consumer, direct
+
+
+128,174
+
+
+5,020
+
+
+7.90 %
+
+
+118,623
+
+
+4,572
+
+
+7.77 %
+
+
+Total loans
+
+
+6,754,962
+
+
+218,302
+
+
+6.45 %
+
+
+6,399,207
+
+
+216,168
+
+
+6.74 %
+
+
+Allowance for credit losses
+
+
+(76,706)
+
+
+(64,129)
+
+
+Net loans
+
+
+6,678,256
+
+
+6,335,078
+
+
+Total earning assets
+
+
+8,700,862
+
+
+254,867
+
+
+5.85 %
+
+
+8,326,855
+
+
+251,512
+
+
+6.03 %
+
+
+Goodwill and other intangible assets
+
+
+391,617
+
+
+400,135
+
+
+Other assets
+
+
+501,197
+
+
+517,505
+
+
+Total assets
+
+
+$ 9,593,676
+
+
+$ 9,244,495
+
+
+**Liabilities and Equity**
+
+
+Interest-bearing deposits:
+
+
+Savings accounts
+
+
+$ 910,412
+
+
+$ 365
+
+
+0.08 %
+
+
+$ 884,282
+
+
+$ 437
+
+
+0.10 %
+
+
+Governmental deposit accounts
+
+
+800,507
+
+
+8,074
+
+
+2.03 %
+
+
+796,885
+
+
+9,526
+
+
+2.41 %
+
+
+Interest-bearing demand accounts
+
+
+1,073,821
+
+
+1,175
+
+
+0.22 %
+
+
+1,079,921
+
+
+1,086
+
+
+0.20 %
+
+
+Money market deposit accounts
+
+
+948,201
+
+
+9,518
+
+
+2.02 %
+
+
+926,264
+
+
+10,884
+
+
+2.37 %
+
+
+Retail certificates of deposit
+
+
+1,945,210
+
+
+31,814
+
+
+3.30 %
+
+
+1,968,840
+
+
+36,669
+
+
+3.76 %
+
+
+Brokered deposit (e)
+
+
+269,336
+
+
+5,335
+
+
+3.99 %
+
+
+491,567
+
+
+10,440
+
+
+4.28 %
+
+
+Total interest-bearing deposits
+
+
+5,947,487
+
+
+56,281
+
+
+1.91 %
+
+
+6,147,759
+
+
+69,042
+
+
+2.26 %
+
+
+Short-term borrowings (e)
+
+
+522,497
+
+
+9,582
+
+
+3.69 %
+
+
+92,336
+
+
+1,896
+
+
+4.13 %
+
+
+Long-term borrowings
+
+
+186,459
+
+
+5,390
+
+
+5.79 %
+
+
+235,542
+
+
+7,179
+
+
+6.10 %
+
+
+Total borrowed funds
+
+
+708,956
+
+
+14,972
+
+
+4.24 %
+
+
+327,878
+
+
+9,075
+
+
+5.55 %
+
+
+Total interest-bearing liabilities
+
+
+6,656,443
+
+
+71,253
+
+
+2.16 %
+
+
+6,475,637
+
+
+78,117
+
+
+2.43 %
+
+
+Non-interest-bearing deposits
+
+
+1,618,080
+
+
+1,522,851
+
+
+Other liabilities
+
+
+95,846
+
+
+110,883
+
+
+Total liabilities
+
+
+8,370,369
+
+
+8,109,371
+
+
+Stockholders' equity
+
+
+1,223,307
+
+
+1,135,124
+
+
+Total liabilities and stockholders' equity
+
+
+$ 9,593,676
+
+
+$ 9,244,495
+
+
+Net interest income/spread (b)
+
+
+$ 183,614
+
+
+3.69 %
+
+
+$ 173,395
+
+
+3.60 %
+
+
+Net interest margin (b)
+
+
+4.20 %
+
+
+4.14 %
+
+
+(a)
+
+
+Average balances are based on carrying value.
+
+
+(b)
+
+
+(c)
+
+
+(d)
+
+
+(e)
+
+
+**NON-US GAAP FINANCIAL MEASURES (Unaudited)**
+
+
+The following non-US GAAP financial measures used by Peoples provide information useful to investors in understanding Peoples' operating performance and trends, and facilitate comparisons with the performance of Peoples' peers. The following tables summarize the non-US GAAP financial measures derived from amounts reported in Peoples' consolidated financial statements:
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+*(Dollars in thousands)*
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+**Core non-interest expense:**
+
+
+Total non-interest expense
+
+
+$ 72,759
+
+
+$ 71,635
+
+
+$ 70,362
+
+
+$ 144,394
+
+
+$ 141,149
+
+
+Less: acquisition-related expenses
+
+
+410
+
+
+16
+
+
+—
+
+
+426
+
+
+—
+
+
+**Core non-interest expense**
+
+
+**$ 72,349**
+
+
+**$ 71,619**
+
+
+**$ 70,362**
+
+
+**$ 143,968**
+
+
+**$ 141,149**
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+*(Dollars in thousands)*
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+**Efficiency ratio:**
+
+
+Total non-interest expense
+
+
+$ 72,759
+
+
+$ 71,635
+
+
+$ 70,362
+
+
+$ 144,394
+
+
+$ 141,149
+
+
+Less: amortization of other intangible assets
+
+
+1,697
+
+
+1,697
+
+
+2,211
+
+
+3,394
+
+
+4,424
+
+
+Adjusted total non-interest expense
+
+
+71,062
+
+
+69,938
+
+
+68,151
+
+
+141,000
+
+
+136,725
+
+
+Total non-interest income
+
+
+20,378
+
+
+28,254
+
+
+26,880
+
+
+48,632
+
+
+53,979
+
+
+Less: net loss on investment securities
+
+
+(8,181)
+
+
+—
+
+
+—
+
+
+(8,181)
+
+
+(2)
+
+
+Less: net loss on asset disposals and other transactions
+
+
+(446)
+
+
+(410)
+
+
+(280)
+
+
+(856)
+
+
+(641)
+
+
+Total non-interest income, excluding net gains and
+losses
+
+
+29,005
+
+
+28,664
+
+
+27,160
+
+
+57,669
+
+
+54,622
+
+
+Net interest income
+
+
+92,728
+
+
+90,420
+
+
+87,577
+
+
+183,148
+
+
+172,832
+
+
+Add: fully tax-equivalent adjustment (a)
+
+
+221
+
+
+245
+
+
+280
+
+
+466
+
+
+563
+
+
+Net interest income on a fully tax-equivalent basis
+
+
+92,949
+
+
+90,665
+
+
+87,857
+
+
+183,614
+
+
+173,395
+
+
+Adjusted revenue
+
+
+$ 121,954
+
+
+$ 119,329
+
+
+$ 115,017
+
+
+$ 241,283
+
+
+$ 228,017
+
+
+Efficiency ratio
+
+
+58.27 %
+
+
+58.61 %
+
+
+59.25 %
+
+
+58.44 %
+
+
+59.96 %
+
+
+**Efficiency ratio adjusted for non-core items:**
+
+
+Core non-interest expense
+
+
+$ 72,349
+
+
+$ 71,619
+
+
+$ 70,362
+
+
+$ 143,968
+
+
+$ 141,149
+
+
+Less: amortization of other intangible assets
+
+
+1,697
+
+
+1,697
+
+
+2,211
+
+
+3,394
+
+
+4,424
+
+
+Adjusted core non-interest expense
+
+
+70,652
+
+
+69,922
+
+
+68,151
+
+
+140,574
+
+
+136,725
+
+
+Adjusted revenue
+
+
+$ 121,954
+
+
+$ 119,329
+
+
+$ 115,017
+
+
+$ 241,283
+
+
+$ 228,017
+
+
+Efficiency ratio adjusted for non-core items
+
+
+57.93 %
+
+
+58.60 %
+
+
+59.25 %
+
+
+58.26 %
+
+
+59.96 %
+
+
+(a)
+
+
+Tax effect is calculated using a 21% statutory federal corporate income tax rate.
+
+
+**NON-US GAAP FINANCIAL MEASURES (Unaudited) -- (Continued)**
+
+
+**At or For the Three Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**December 31,**
+
+
+**September 30,**
+
+
+**June 30,**
+
+
+*(Dollars in thousands, except per share data)*
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2025**
+
+
+**2025**
+
+
+**Tangible equity:**
+
+
+Total stockholders' equity
+
+
+$ 1,236,551
+
+
+$ 1,216,040
+
+
+$ 1,206,602
+
+
+$ 1,182,776
+
+
+$ 1,153,350
+
+
+Less: goodwill and other intangible assets
+
+
+389,963
+
+
+391,601
+
+
+393,319
+
+
+395,535
+
+
+397,785
+
+
+Tangible equity
+
+
+$ 846,588
+
+
+$ 824,439
+
+
+$ 813,283
+
+
+$ 787,241
+
+
+$ 755,565
+
+
+**Tangible assets:**
+
+
+Total assets
+
+
+$ 9,540,161
+
+
+$ 9,648,087
+
+
+$ 9,649,630
+
+
+$ 9,623,944
+
+
+$ 9,540,608
+
+
+Less: goodwill and other intangible assets
+
+
+389,963
+
+
+391,601
+
+
+393,319
+
+
+395,535
+
+
+397,785
+
+
+Tangible assets
+
+
+$ 9,150,198
+
+
+$ 9,256,486
+
+
+$ 9,256,311
+
+
+$ 9,228,409
+
+
+$ 9,142,823
+
+
+**Tangible book value per common share:**
+
+
+Tangible equity
+
+
+$ 846,588
+
+
+$ 824,439
+
+
+$ 813,283
+
+
+$ 787,241
+
+
+$ 755,565
+
+
+Common shares outstanding
+
+
+35,939,954
+
+
+35,925,945
+
+
+35,714,484
+
+
+35,705,369
+
+
+35,673,721
+
+
+Tangible book value per common share
+
+
+$ 23.56
+
+
+$ 22.95
+
+
+$ 22.77
+
+
+$ 22.05
+
+
+$ 21.18
+
+
+**Tangible equity to tangible assets ratio:**
+
+
+Tangible equity
+
+
+$ 846,588
+
+
+$ 824,439
+
+
+$ 813,283
+
+
+$ 787,241
+
+
+$ 755,565
+
+
+Tangible assets
+
+
+$ 9,150,198
+
+
+$ 9,256,486
+
+
+$ 9,256,311
+
+
+$ 9,228,409
+
+
+$ 9,142,823
+
+
+Tangible equity to tangible assets
+
+
+9.25 %
+
+
+8.91 %
+
+
+8.79 %
+
+
+8.53 %
+
+
+8.26 %
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+*(Dollars in thousands)*
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+**Pre-provision net revenue:**
+
+
+Income before income taxes
+
+
+$ 35,638
+
+
+$ 37,345
+
+
+$ 27,453
+
+
+$ 72,983
+
+
+$ 58,830
+
+
+Add: provision for credit losses
+
+
+4,709
+
+
+9,694
+
+
+16,642
+
+
+14,403
+
+
+26,832
+
+
+Add: net loss on OREO
+
+
+—
+
+
+26
+
+
+—
+
+
+26
+
+
+—
+
+
+Add: net loss on investment securities
+
+
+8,181
+
+
+—
+
+
+—
+
+
+8,181
+
+
+2
+
+
+Add: net loss on other assets
+
+
+453
+
+
+384
+
+
+267
+
+
+837
+
+
+597
+
+
+Add: net (gain) loss on other transactions
+
+
+(7)
+
+
+—
+
+
+23
+
+
+(7)
+
+
+74
+
+
+Less: net gain on OREO
+
+
+—
+
+
+—
+
+
+10
+
+
+—
+
+
+30
+
+
+Pre-provision net revenue
+
+
+$ 48,974
+
+
+$ 47,449
+
+
+$ 44,375
+
+
+$ 96,423
+
+
+$ 86,305
+
+
+**NON-US GAAP FINANCIAL MEASURES (Unaudited) -- (Continued)**
+
+
+**Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+***(Dollars in thousands)***
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+**Annualized net income adjusted for non-core items:**
+
+
+Net income
+
+
+$ 27,953
+
+
+$ 29,006
+
+
+$ 21,212
+
+
+$ 56,959
+
+
+$ 45,548
+
+
+Add: net loss on investment securities
+
+
+8,181
+
+
+—
+
+
+—
+
+
+8,181
+
+
+2
+
+
+Less: tax effect of net loss on investment securities (a)
+
+
+1,718
+
+
+—
+
+
+—
+
+
+1,718
+
+
+—
+
+
+Add: net loss on asset disposals and other transactions
+
+
+446
+
+
+410
+
+
+280
+
+
+856
+
+
+641
+
+
+Less: tax effect of net loss on asset disposals and other
+transactions (a)
+
+
+94
+
+
+86
+
+
+59
+
+
+180
+
+
+135
+
+
+Add: acquisition-related expenses
+
+
+410
+
+
+16
+
+
+—
+
+
+426
+
+
+—
+
+
+Less: tax effect of acquisition-related expenses (a)
+
+
+86
+
+
+3
+
+
+—
+
+
+89
+
+
+—
+
+
+Net income adjusted for non-core items
+
+
+$ 35,092
+
+
+$ 29,343
+
+
+$ 21,433
+
+
+$ 64,435
+
+
+$ 46,056
+
+
+Days in the period
+
+
+91
+
+
+90
+
+
+91
+
+
+181
+
+
+181
+
+
+Days in the year
+
+
+365
+
+
+365
+
+
+365
+
+
+365
+
+
+365
+
+
+Annualized net income
+
+
+$ 112,119
+
+
+$ 117,635
+
+
+$ 85,081
+
+
+$ 114,862
+
+
+$ 91,851
+
+
+Annualized net income adjusted for non-core items
+
+
+$ 140,754
+
+
+$ 119,002
+
+
+$ 85,968
+
+
+$ 129,938
+
+
+$ 92,875
+
+
+**Return on average assets:**
+
+
+Annualized net income
+
+
+$ 112,119
+
+
+$ 117,635
+
+
+$ 85,081
+
+
+$ 114,862
+
+
+$ 91,851
+
+
+Total average assets
+
+
+$ 9,586,326
+
+
+$ 9,601,108
+
+
+$ 9,293,287
+
+
+$9,593,676
+
+
+$9,244,495
+
+
+Return on average assets
+
+
+1.17 %
+
+
+1.23 %
+
+
+0.92 %
+
+
+1.20 %
+
+
+0.99 %
+
+
+**Return on average assets adjusted for non-core items:**
+
+
+Annualized net income adjusted for non-core items
+
+
+$ 140,754
+
+
+$ 119,002
+
+
+$ 85,968
+
+
+$ 129,938
+
+
+$ 92,875
+
+
+Total average assets
+
+
+$ 9,586,326
+
+
+$ 9,601,108
+
+
+$ 9,293,287
+
+
+$9,593,676
+
+
+$9,244,495
+
+
+Return on average assets adjusted for non-core items
+
+
+1.47 %
+
+
+1.24 %
+
+
+0.93 %
+
+
+1.35 %
+
+
+1.00 %
+
+
+(a)
+
+
+**NON-US GAAP FINANCIAL MEASURES (Unaudited) -- (Continued)**
+
+
+**For the Three Months Ended**
+
+
+**Six Months Ended**
+
+
+**June 30,**
+
+
+**March 31,**
+
+
+**June 30,**
+
+
+**June 30,**
+
+
+*(Dollars in thousands)*
+
+
+**2026**
+
+
+**2026**
+
+
+**2025**
+
+
+**2026**
+
+
+**2025**
+
+
+**Annualized net income excluding amortization of other intangible assets:**
+
+
+Net income
+
+
+$ 27,953
+
+
+$ 29,006
+
+
+$ 21,212
+
+
+$ 56,959
+
+
+$ 45,548
+
+
+Add: amortization of other intangible assets
+
+
+1,697
+
+
+1,697
+
+
+2,211
+
+
+3,394
+
+
+4,424
+
+
+Less: tax effect of amortization of other
+intangible assets (a)
+
+
+357
+
+
+356
+
+
+464
+
+
+713
+
+
+929
+
+
+Net income excluding amortization of other
+intangible assets
+
+
+$ 29,293
+
+
+$ 30,347
+
+
+$ 22,959
+
+
+$ 59,640
+
+
+$ 49,043
+
+
+Days in the period
+
+
+91
+
+
+90
+
+
+91
+
+
+181
+
+
+181
+
+
+Days in the year
+
+
+365
+
+
+365
+
+
+365
+
+
+365
+
+
+365
+
+
+Annualized net income
+
+
+$ 112,119
+
+
+$ 117,635
+
+
+$ 85,081
+
+
+$ 114,862
+
+
+$ 91,851
+
+
+Annualized net income excluding
+amortization of other intangible assets
+
+
+$ 117,494
+
+
+$ 123,074
+
+
+$ 92,088
+
+
+$ 120,269
+
+
+$ 98,899
+
+
+**Average tangible equity:**
+
+
+Total average stockholders' equity
+
+
+$ 1,228,192
+
+
+$ 1,218,368
+
+
+$ 1,147,253
+
+
+$ 1,223,307
+
+
+$ 1,135,124
+
+
+Less: average goodwill and other intangible
+assets
+
+
+390,753
+
+
+392,490
+
+
+398,940
+
+
+391,617
+
+
+400,135
+
+
+Average tangible equity
+
+
+$ 837,439
+
+
+$ 825,878
+
+
+$ 748,313
+
+
+$ 831,690
+
+
+$ 734,989
+
+
+**Return on average stockholders' equity ratio:**
+
+
+Annualized net income
+
+
+$ 112,119
+
+
+$ 117,635
+
+
+$ 85,081
+
+
+$ 114,862
+
+
+$ 91,851
+
+
+Average stockholders' equity
+
+
+$ 1,228,192
+
+
+$ 1,218,368
+
+
+$ 1,147,253
+
+
+$ 1,223,307
+
+
+$ 1,135,124
+
+
+Return on average stockholders' equity
+
+
+9.13 %
+
+
+9.66 %
+
+
+7.42 %
+
+
+9.39 %
+
+
+8.09 %
+
+
+**Return on average tangible equity ratio:**
+
+
+Annualized net income excluding
+amortization of other intangible assets
+
+
+$ 117,494
+
+
+$ 123,074
+
+
+$ 92,088
+
+
+$ 120,269
+
+
+$ 98,899
+
+
+Average tangible equity
+
+
+$ 837,439
+
+
+$ 825,878
+
+
+$ 748,313
+
+
+$ 831,690
+
+
+$ 734,989
+
+
+Return on average tangible equity
+
+
+14.03 %
+
+
+14.90 %
+
+
+12.31 %
+
+
+14.46 %
+
+
+13.46 %
+
+
+(a)
+
+
+View original content:[https://www.prnewswire.com/news-releases/peoples-bancorp-inc-announces-results-for-the-second-quarter-2026-302829905.html](https://www.prnewswire.com/news-releases/peoples-bancorp-inc-announces-results-for-the-second-quarter-2026-302829905.html)
+
+
+SOURCE Peoples Bancorp Inc.
+
+
+[View All News](https://investors.peoplesbancorp.com/news/default.aspx)

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1db409db36dd1798bf00f11ffe0cfa0ac6f8e8a7d194e241cca470c9a3458c5c",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/01/09/getting-started-tracing-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/01/09/getting-started-tracing-rust"
+  },
+  "title": "Getting Started with Tracing in Rust",
+  "summary": "This article talks about tracing in Rust and how you can use it to log activity in your Rust applications.",
+  "published_at": "2024-01-09T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:19.240569+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/01/1d/1db409db36dd1798bf00f11ffe0cfa0ac6f8e8a7d194e241cca470c9a3458c5c/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/01/1d/1db409db36dd1798bf00f11ffe0cfa0ac6f8e8a7d194e241cca470c9a3458c5c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16529,
+    "sha256": "sha256:f3ffbfc44122b20bc334a47927cab74c08f1dd6be5ed773a92ffee8bf4d45c18",
+    "normalized_content_hash": "sha256:a168dcbb88c868b0de5f2b45258e7b352a339ad7d78e38090dc66dc0bccdba2a"
+  },
+  "provenance": {
+    "source_item_id": "f36d965e-14c5-4db8-bea7-144620adb61f",
+    "external_id": "https://www.shuttle.dev/blog/2024/01/09/getting-started-tracing-rust"
+  }
+}

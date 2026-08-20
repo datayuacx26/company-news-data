@@ -1,0 +1,102 @@
+---
+schema_version: "1.0.0"
+document_id: "129131588c2b153602b85b26f80b01e53d3ee97bab63368a00c8a2a92c5feba9"
+company_key: "yc-wasp"
+company: "Wasp"
+source_id: "yc-wasp-rss-5b1984e54864"
+canonical_url: "https://wasp.sh/blog/2026/05/25/wasp-static-prerendering"
+published_at: "2026-05-25T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:21:24.634053+00:00"
+fetched_at: "2026-07-28T20:50:31.360725+00:00"
+content_hash: "sha256:ab48f89f01fda494354c246a7934643579ed49489d761b78a4e278e565af3dd4"
+---
+
+# Wasp 0.23: Static prerendering for crawlers and better performance
+
+Wasp apps are single-page applications, and SPAs have a well-known problem: some search engines and AI crawlers see a blank page until JavaScript loads. Wasp 0.23 adds static prerendering so you can generate real HTML at build time. Just add` prerender: true` to any route.
+
+
+## The blank page problem​
+
+
+Single-page applications work by shipping an empty HTML shell to the browser, then letting JavaScript render everything on the client. That's great for rich interactive applications, but it means anything that reads your HTML before JavaScript runs sees... nothing.
+
+
+This used to be "just" an SEO problem. But the web has changed. Googlebot did start running JavaScript; but new crawlers and AI assistants like ChatGPT, Claude, and Perplexity are trying to get your content to answer user questions. If your site is invisible to them, you're leaving traffic and visibility on the table.
+
+
+The traditional fixes aren't great either. You could set up a separate static site generator, maintain a full SSR server, or bolt on a prerendering service. Each one adds complexity, infrastructure, and another thing to maintain. For a framework that prides itself on curation, we wanted something better.
+
+
+## The fix:` prerender: true`​
+
+
+Here's what it looks like in Wasp 0.23:
+
+
+main.wasp
+
+
+```text
+route     LandingRoute     {         path  :   "/"  ,         to  :   LandingPage  ,         prerender  :   true      }         page     LandingPage     {         component  :   import     {     LandingPage     }     from     "@src/LandingPage"      }
+```
+
+
+That's it. One field. No config files, no extra server, no separate build pipeline.
+
+
+When you run` wasp build` , Wasp renders that route's component to static HTML at build time. When a browser or crawler hits that URL, they get real, meaningful content immediately. Then React[hydrates](https://react.dev/reference/react-dom/client/hydrateRoot) the page on the client for full interactivity. Your users get instant content, and your crawlers get something to actually read.
+
+
+Every route without` prerender` keeps working exactly as before. You opt in per route, so you can choose which pages get prerendered and which stay dynamic. It's flexible and non-intrusive.
+
+
+## When to use it​
+
+
+Prerendering is perfect for pages where the content is known at build time:
+
+
+- **Landing pages** and marketing pages
+- **About, pricing, and FAQ** pages
+- **Any mostly-static content** that doesn't depend on the logged-in user
+
+
+## When not to use it​
+
+
+Prerendering generates HTML once, at build time. That means it's not the right tool for pages that need to be different for each request:
+
+
+- **User dashboards and authenticated pages** , where content depends on who's logged in, so there's nothing meaningful to render ahead of time.
+- **Pages that rely heavily on browser APIs** , like reading from` localStorage` , geolocation, or other client-specific data that isn't available at build time.
+
+
+For these cases, the regular SPA behavior works just fine. Prerendering is an opt-in upgrade for the pages that benefit from it, not something you need on every route.
+
+
+## How we got here​
+
+
+This feature didn't happen overnight. We published a[public RFC ("Deep Freeze")](https://wasp-lang.notion.site/PUBLIC-RFC-Wasp-Deep-Freeze-30618a74854c80d787e4e3b99a66db43) outlining the design, then built it in two stages: first the[SSR rendering machinery](https://github.com/wasp-lang/wasp/pull/3855) under the hood, then the[user-facing prerender field](https://github.com/wasp-lang/wasp/pull/3982) that wires it all together.
+
+
+This is also a foundation. The SSR infrastructure we built opens the door to more rendering strategies down the road. Prerendering static routes is just the beginning, and rendering on the server in response to a request is on our roadmap for the future.
+
+
+## Giving back​
+
+
+At the core of our prerendering approach is a Vite plugin built on the[Vite Environments API](https://vite.dev/guide/api-environment) . It handles the SSR rendering pipeline, HTML generation, and hydration wiring. We designed it from the get go[as a self-contained project](https://github.com/wasp-lang/wasp/tree/main/waspc/data/Generator/libs/vite-ssr) , and we're planning to extract it from our codebase and open-source this foundation once we stabilize it, so that other projects and frameworks can build on top of it too. Stay tuned.
+
+
+## Try it out​
+
+
+If you're on Wasp 0.23, you can start prerendering routes right now. Pick your landing page, add` prerender: true` , build, and deploy. That's the whole migration.
+
+
+Check out the[full prerendering docs](https://wasp.sh/docs/advanced/prerendering) for details on how it works, limitations, and troubleshooting.
+
+
+We'd love to hear how it works for you, come chat with us on[Discord](https://discord.gg/rzdnErX) !

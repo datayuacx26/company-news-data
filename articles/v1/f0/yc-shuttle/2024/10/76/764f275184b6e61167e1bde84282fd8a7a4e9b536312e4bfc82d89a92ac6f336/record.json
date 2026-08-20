@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "764f275184b6e61167e1bde84282fd8a7a4e9b536312e4bfc82d89a92ac6f336",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/10/22/using-kubernetes-with-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/10/22/using-kubernetes-with-rust"
+  },
+  "title": "Using Kubernetes with Rust",
+  "summary": "Interacting with a Kubernetes cluster from Rust with `kube-rs`",
+  "published_at": "2024-10-22T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/10/76/764f275184b6e61167e1bde84282fd8a7a4e9b536312e4bfc82d89a92ac6f336/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/10/76/764f275184b6e61167e1bde84282fd8a7a4e9b536312e4bfc82d89a92ac6f336/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31252,
+    "sha256": "sha256:017f0e958cdc7464b446952d526c557651f16bc6aab17321ae043c31deafbd86",
+    "normalized_content_hash": "sha256:0baa1fc7f8069df929b9918d95a514d5b972281f73042abe0f67104b924aed84"
+  },
+  "provenance": {
+    "source_item_id": "6e9f2602-582f-493f-9fd0-9a6aee5b0eb3",
+    "external_id": "https://www.shuttle.dev/blog/2024/10/22/using-kubernetes-with-rust"
+  }
+}

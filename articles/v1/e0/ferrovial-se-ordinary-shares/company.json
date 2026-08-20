@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ferrovial-se-ordinary-shares",
+    "name": "Ferrovial SE"
+  },
+  "record_count": 21,
+  "first_published_at": "2023-07-05T07:39:06+00:00",
+  "last_published_at": "2026-08-20T00:49:55+00:00",
+  "partitions": [
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e0/ferrovial-se-ordinary-shares/index/pages/000001.json",
+        "record_count": 21,
+        "byte_count": 23814,
+        "sha256": "sha256:ac3908fda3ba4de6a3326e7b40539df41f5ba49fa6ceda970c8c35d6693d247b",
+        "newest_at": "2026-08-20T00:49:55+00:00",
+        "oldest_at": "2023-07-05T07:39:06+00:00"
+      }
+    ]
+  }
+}

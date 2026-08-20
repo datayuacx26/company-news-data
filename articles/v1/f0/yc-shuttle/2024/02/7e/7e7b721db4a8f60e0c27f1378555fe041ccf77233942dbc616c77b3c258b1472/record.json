@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7e7b721db4a8f60e0c27f1378555fe041ccf77233942dbc616c77b3c258b1472",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/02/08/uptime-monitoring-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/02/08/uptime-monitoring-rust"
+  },
+  "title": "Building an Uptime Monitor in Rust",
+  "summary": "This article explores how you can write and deploy an uptime monitoring web service in Rust.",
+  "published_at": "2024-02-08T18:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:16.511012+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/02/7e/7e7b721db4a8f60e0c27f1378555fe041ccf77233942dbc616c77b3c258b1472/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/02/7e/7e7b721db4a8f60e0c27f1378555fe041ccf77233942dbc616c77b3c258b1472/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 26715,
+    "sha256": "sha256:aecaafe70b1bb77a9b6c2a5ad78126bc20dbfa2dd2283345b2500c7f71537155",
+    "normalized_content_hash": "sha256:26e922ddb5c77d8ce0e8accca15c77c7ecb6e6d08091b6453296214d1bd006cc"
+  },
+  "provenance": {
+    "source_item_id": "4589052a-15a7-4d79-9bf7-ad6eda67926f",
+    "external_id": "https://www.shuttle.dev/blog/2024/02/08/uptime-monitoring-rust"
+  }
+}

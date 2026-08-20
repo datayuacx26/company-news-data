@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-nuntius-therapeutics",
+    "name": "Nuntius Therapeutics"
+  },
+  "record_count": 6,
+  "first_published_at": "2024-06-05T17:58:19+00:00",
+  "last_published_at": "2024-08-20T20:44:39+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f1/yc-nuntius-therapeutics/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 6135,
+        "sha256": "sha256:70e6686b03e1449351a8981beb9205cbfc025437cd3442b7f9d7fa9f28e03633",
+        "newest_at": "2024-08-20T20:44:39+00:00",
+        "oldest_at": "2024-06-05T17:58:19+00:00"
+      }
+    ]
+  }
+}

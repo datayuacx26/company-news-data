@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f93e23bce4893ad1d2c44409d204d4382d9b07e0d15abd1d840de4d7fd0d2f0e",
+  "company": {
+    "key": "cintas-corporation-common-stock",
+    "name": "Cintas Corporation"
+  },
+  "source": {
+    "id": "cintas-corporation-common-stock-news-import-2fb9347ed285",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.cintas.com/about/newsroom/details/news/2026/01/08/forbes-names-cintas-to-2026-america-s-best-in-state-companies-list/",
+    "canonical": "https://www.cintas.com/about/newsroom/details/news/2026/01/08/forbes-names-cintas-to-2026-america-s-best-in-state-companies-list"
+  },
+  "title": "Forbes Names Cintas to 2026 America’s Best-in-State Companies List",
+  "summary": "Forbes evaluated company size data along with ratings and reviews from both customers and employees",
+  "published_at": "2026-01-08T14:05:09+00:00",
+  "first_seen_at": "2026-07-22T10:19:00.271484+00:00",
+  "fetched_at": "2026-07-28T21:20:14.720808+00:00",
+  "last_updated_at": "2026-07-28T21:20:49.794734+00:00",
+  "paths": {
+    "article": "articles/v1/d3/cintas-corporation-common-stock/2026/01/f9/f93e23bce4893ad1d2c44409d204d4382d9b07e0d15abd1d840de4d7fd0d2f0e/article.md",
+    "record": "articles/v1/d3/cintas-corporation-common-stock/2026/01/f9/f93e23bce4893ad1d2c44409d204d4382d9b07e0d15abd1d840de4d7fd0d2f0e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3181,
+    "sha256": "sha256:b5be802c41fedb1b09072b06bc3d5096963f80a7d2338af9aa75ec741e6ce650",
+    "normalized_content_hash": "sha256:2b996d0ad93e1d309649485fb384694481a2d23a3dcdd7d5625b02e1f4c5e60b"
+  },
+  "provenance": {
+    "source_item_id": "fb9bc76a-24a0-4501-af67-0c470a2aac03",
+    "external_id": "https://www.cintas.com/about/newsroom/details/news/2026/01/08/forbes-names-cintas-to-2026-america-s-best-in-state-companies-list"
+  }
+}

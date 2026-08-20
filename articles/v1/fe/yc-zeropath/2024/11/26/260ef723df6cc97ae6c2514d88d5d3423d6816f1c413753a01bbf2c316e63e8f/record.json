@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "260ef723df6cc97ae6c2514d88d5d3423d6816f1c413753a01bbf2c316e63e8f",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/how-zeropath-works",
+    "canonical": "https://zeropath.com/blog/how-zeropath-works"
+  },
+  "title": "How ZeroPath Works",
+  "summary": "Technical deep-dive into ZeroPath's SAST methodology: From AST generation to AI-powered vulnerability discovery and automated patch generation.",
+  "published_at": "2024-11-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T21:04:50.046038+00:00",
+  "fetched_at": "2026-07-28T22:01:05.353137+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2024/11/26/260ef723df6cc97ae6c2514d88d5d3423d6816f1c413753a01bbf2c316e63e8f/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2024/11/26/260ef723df6cc97ae6c2514d88d5d3423d6816f1c413753a01bbf2c316e63e8f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23273,
+    "sha256": "sha256:b9bdf9954ea03778b1d881e90e59b6f98f06a4955b027570e9b104fc8ed77946",
+    "normalized_content_hash": "sha256:dd7cd3070f2411f66b8047ed9432a63db28239c2f21c70d29add25d1bcb0b986"
+  },
+  "provenance": {
+    "source_item_id": "47715e5a-19f2-4432-8878-6f930e0b4d89",
+    "external_id": "https://zeropath.com/blog/how-zeropath-works"
+  }
+}

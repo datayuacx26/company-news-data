@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d06b23226f2108413fe434e844964499410c7928990957c5c11a90da1330e51f",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/command-injection-vulnerability-clone-voice",
+    "canonical": "https://zeropath.com/blog/command-injection-vulnerability-clone-voice"
+  },
+  "title": "Command Injection Vulnerability in Clone-Voice Project",
+  "summary": "Security researchers at ZeroPath uncover a command injection vulnerability in the popular open-source \"clone-voice\" project.",
+  "published_at": "2024-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T22:01:06.812214+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2024/08/d0/d06b23226f2108413fe434e844964499410c7928990957c5c11a90da1330e51f/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2024/08/d0/d06b23226f2108413fe434e844964499410c7928990957c5c11a90da1330e51f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10244,
+    "sha256": "sha256:90112affe42c166e6932983f7f1fc9d3e964b35b17b0f270f18267ffc2d47d0c",
+    "normalized_content_hash": "sha256:72f6fd8f0e18c95476899ff67aa006ee33e4703b225b97af85598cdd8be0bce5"
+  },
+  "provenance": {
+    "source_item_id": "c2fc9d62-6f27-4a52-ab91-0a1231688d6f",
+    "external_id": "https://zeropath.com/blog/command-injection-vulnerability-clone-voice"
+  }
+}

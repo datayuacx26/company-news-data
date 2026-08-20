@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6467c7b84a4a0bd7423e74f99cced379df5c877df0a6cab0f88a7b4e3804fb9",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/enterprise-ipaas-heroku-postgres",
+    "canonical": "https://www.stacksync.com/blog/enterprise-ipaas-heroku-postgres"
+  },
+  "title": "The Integration Layer Heroku Postgres Actually Needs",
+  "summary": "An enterprise iPaaS for Heroku Postgres respects the plan connection cap, survives credential rotation, and syncs the database both ways with your CRM and ERP.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/b6/b6467c7b84a4a0bd7423e74f99cced379df5c877df0a6cab0f88a7b4e3804fb9/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/b6/b6467c7b84a4a0bd7423e74f99cced379df5c877df0a6cab0f88a7b4e3804fb9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17961,
+    "sha256": "sha256:f7416c259f4341767b1c9bb7c2b6ef69485cbd935f7c452c4fe71eaa841ba5d5",
+    "normalized_content_hash": "sha256:b19944e016bf99ce93674450e1bd7e3ad6bc49f71ac4d26dab2cfda16f2f86a1"
+  },
+  "provenance": {
+    "source_item_id": "fc3d7dbb-9011-468b-bc88-7b04429f2605",
+    "external_id": "https://www.stacksync.com/blog/enterprise-ipaas-heroku-postgres"
+  }
+}

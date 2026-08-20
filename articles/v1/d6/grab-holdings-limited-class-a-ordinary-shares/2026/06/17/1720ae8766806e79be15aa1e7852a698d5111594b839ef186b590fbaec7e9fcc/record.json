@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1720ae8766806e79be15aa1e7852a698d5111594b839ef186b590fbaec7e9fcc",
+  "company": {
+    "key": "grab-holdings-limited-class-a-ordinary-shares",
+    "name": "Grab Holdings Limited"
+  },
+  "source": {
+    "id": "grab-holdings-limited-class-a-ordinary-shares-rss-d40cbf47f4b6",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://engineering.grab.com/palana-part-1-secure-platform-for-ai-agents",
+    "canonical": "https://engineering.grab.com/palana-part-1-secure-platform-for-ai-agents"
+  },
+  "title": "Palana (Part 1): Why Grab built a secure platform for autonomous AI Agents",
+  "summary": "Artificial intelligence (AI) agents are evolving from chat interfaces into autonomous workloads, bringing new security risks. In Part 1, discover why Grab built Palana, a Kubernetes-native platform designed to run AI agents safely. We explore the core design principles behind treating isolation as the unit of trust and how Palana enables secure, self-service developer environments without compromising control.",
+  "published_at": "2026-06-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:59.025945+00:00",
+  "fetched_at": "2026-07-28T21:10:52.268184+00:00",
+  "last_updated_at": "2026-08-20T01:36:43.012315+00:00",
+  "paths": {
+    "article": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/06/17/1720ae8766806e79be15aa1e7852a698d5111594b839ef186b590fbaec7e9fcc/article.md",
+    "record": "articles/v1/d6/grab-holdings-limited-class-a-ordinary-shares/2026/06/17/1720ae8766806e79be15aa1e7852a698d5111594b839ef186b590fbaec7e9fcc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12069,
+    "sha256": "sha256:a904e2972a059e0c25a650bd66ac6a4e181a7f13c60860503d27c1aaeba15efc",
+    "normalized_content_hash": "sha256:de1eab39d750244f4a9978bc578e3f9b4f08889ab132db9f792474a434f66569"
+  },
+  "provenance": {
+    "source_item_id": "b7e9f8f9-5e48-4bda-b5ed-4039e766c3e9",
+    "external_id": "https://engineering.grab.com/palana-part-1-secure-platform-for-ai-agents"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdb7ea9ad83ea18de485da264c357d6404a1de94d6a86084744f0e6b5e9c372a",
+  "company": {
+    "key": "yc-propelauth",
+    "name": "PropelAuth"
+  },
+  "source": {
+    "id": "yc-propelauth-news-import-52b3c4ba8ae4",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.propelauth.com/post/what-is-scim",
+    "canonical": "https://www.propelauth.com/post/what-is-scim"
+  },
+  "title": "What is SCIM? A Practical Guide for B2B SaaS Teams",
+  "summary": "The TL;DR * SCIM (System for Cross-domain Identity Management, pronounced like \"skim\") is an open standard (RFC 7643 / 7644) that lets an identity provider like Okta, Microsoft Entra ID, or JumpCloud automatically create, update, and deactivate user accounts in your application. * Mechanically, it's a REST API with JSON payloads. Your app exposes SCIM endpoints, and your customer's IdP calls them whenever their employee directory changes. * SAML and OIDC are the login method. SCIM is for syn",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T20:01:02.470883+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T19:18:29.573535+00:00",
+  "paths": {
+    "article": "articles/v1/f4/yc-propelauth/2026/07/bd/bdb7ea9ad83ea18de485da264c357d6404a1de94d6a86084744f0e6b5e9c372a/article.md",
+    "record": "articles/v1/f4/yc-propelauth/2026/07/bd/bdb7ea9ad83ea18de485da264c357d6404a1de94d6a86084744f0e6b5e9c372a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12578,
+    "sha256": "sha256:5904ac52612381d920856d50dc327785376f766fd9d0b9fe3be5ee0a7d261f3d",
+    "normalized_content_hash": "sha256:96bd21df02359771e33d8916c34321c4f3e1132373f796ababd51b2f066607ad"
+  },
+  "provenance": {
+    "source_item_id": "0a98fe23-617c-4760-8df6-a7c455b35886",
+    "external_id": "https://www.propelauth.com/post/what-is-scim"
+  }
+}

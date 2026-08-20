@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "20749ac16a9155acb637c25a30088c31a0420cb0ae6c7e9f1e06939ccfca4887",
+  "company": {
+    "key": "yc-release",
+    "name": "Release"
+  },
+  "source": {
+    "id": "yc-release-news-import-be48e1d74beb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://release.com/blog/hardening-ai-agents-with-release-managed-environments",
+    "canonical": "https://release.com/blog/hardening-ai-agents-with-release-managed-environments"
+  },
+  "title": "Hardening Your AI Agents: Run Them in Your Own Kubernetes Cluster, Not on a Laptop or in a Vendor Black Box",
+  "summary": "AI coding agents are already writing your code. The question is whether they run in a contained, auditable system or loose on a developer's machine. Learn how Release's BYOC Kubernetes environments, per-agent isolation, and PR-gated workflows give platform and security leaders real containment, not just a promise.",
+  "published_at": null,
+  "first_seen_at": "2026-08-17T10:00:40.724357+00:00",
+  "fetched_at": "2026-08-17T10:00:43.357848+00:00",
+  "last_updated_at": "2026-08-19T22:59:48.848313+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-release/2026/08/20/20749ac16a9155acb637c25a30088c31a0420cb0ae6c7e9f1e06939ccfca4887/article.md",
+    "record": "articles/v1/c6/yc-release/2026/08/20/20749ac16a9155acb637c25a30088c31a0420cb0ae6c7e9f1e06939ccfca4887/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10440,
+    "sha256": "sha256:7c68f119f3be03c0e99d98e424b5a7539849d5b3d3d899e441371f2a850bf50a",
+    "normalized_content_hash": "sha256:a382dcb92c94e5a4d029fcbb3d7d031266b0b15235376e3e07a3d43e9158b0a4"
+  },
+  "provenance": {
+    "source_item_id": "16edb755-2790-413f-9b16-826727acff03",
+    "external_id": "https://release.com/blog/hardening-ai-agents-with-release-managed-environments"
+  }
+}

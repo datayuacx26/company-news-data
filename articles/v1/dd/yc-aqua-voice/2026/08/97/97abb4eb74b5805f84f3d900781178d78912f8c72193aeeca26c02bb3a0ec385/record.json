@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "97abb4eb74b5805f84f3d900781178d78912f8c72193aeeca26c02bb3a0ec385",
+  "company": {
+    "key": "yc-aqua-voice",
+    "name": "Aqua Voice"
+  },
+  "source": {
+    "id": "yc-aqua-voice-news-import-16e95c4a8dc7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://aquavoice.com/blog/voice-dictation-for-codex-cli",
+    "canonical": "https://aquavoice.com/blog/voice-dictation-for-codex-cli"
+  },
+  "title": "Voice Dictation for Codex CLI (2026)",
+  "summary": "OpenAI's Codex CLI has no documented built-in dictation. Here is how to dictate prompts and commands into it accurately with a system-wide, code-tuned voice layer.",
+  "published_at": "2026-08-10T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T21:20:39.425283+00:00",
+  "fetched_at": "2026-08-11T21:20:41.544143+00:00",
+  "last_updated_at": "2026-08-20T02:16:04.546443+00:00",
+  "paths": {
+    "article": "articles/v1/dd/yc-aqua-voice/2026/08/97/97abb4eb74b5805f84f3d900781178d78912f8c72193aeeca26c02bb3a0ec385/article.md",
+    "record": "articles/v1/dd/yc-aqua-voice/2026/08/97/97abb4eb74b5805f84f3d900781178d78912f8c72193aeeca26c02bb3a0ec385/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9958,
+    "sha256": "sha256:b4ecb1ff3c52dcf000768cd8f7a927fc02ca472d03f029cba1358f98dbe4cc68",
+    "normalized_content_hash": "sha256:0b80556c84ce8d6860dd9e93515ad79215d1bde1ffe49c391263e01e3b1de093"
+  },
+  "provenance": {
+    "source_item_id": "183d91fc-120e-4e0b-b203-f79f332dcd0a",
+    "external_id": "https://aquavoice.com/blog/voice-dictation-for-codex-cli"
+  }
+}

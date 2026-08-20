@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6a022dbfd0868a4efdcc5b7cd32f6185851223a2be350d51550771685eb28f29",
+  "company": {
+    "key": "yc-sourcify",
+    "name": "Sourcify"
+  },
+  "source": {
+    "id": "yc-sourcify-atom-032fbdbe2ab3",
+    "kind": "atom"
+  },
+  "urls": {
+    "observed": "https://docs.sourcify.dev/blog/signatures-analysis/",
+    "canonical": "https://docs.sourcify.dev/blog/signatures-analysis/"
+  },
+  "title": "Spam or Legit? Analyzing 4byte Selector Collisions",
+  "summary": "Recently Sourcify took over openchain.xyz's 4byte signature APIs as well as the domain itself, maintained by @samczsun. We also built the database and I wanted to run a quick analysis on the selector collisions and see how many collisions are legit vs. deliberately generated (spam).",
+  "published_at": "2025-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:53:14.949974+00:00",
+  "fetched_at": "2026-07-28T21:59:41.762292+00:00",
+  "last_updated_at": "2026-08-20T01:47:52.875409+00:00",
+  "paths": {
+    "article": "articles/v1/e9/yc-sourcify/2025/10/6a/6a022dbfd0868a4efdcc5b7cd32f6185851223a2be350d51550771685eb28f29/article.md",
+    "record": "articles/v1/e9/yc-sourcify/2025/10/6a/6a022dbfd0868a4efdcc5b7cd32f6185851223a2be350d51550771685eb28f29/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10665,
+    "sha256": "sha256:ecdf8e42a35d543ed7b13f6799edfd63ebac99d362d18f4dcab419ff4ed690e7",
+    "normalized_content_hash": "sha256:a0845239aa7985b969e141b851aabdc946db98a15dbbd6d697393e8ecfdf948a"
+  },
+  "provenance": {
+    "source_item_id": "cab82ed4-8156-4b7e-ac6f-967372b62ded",
+    "external_id": "https://docs.sourcify.dev/blog/signatures-analysis/"
+  }
+}

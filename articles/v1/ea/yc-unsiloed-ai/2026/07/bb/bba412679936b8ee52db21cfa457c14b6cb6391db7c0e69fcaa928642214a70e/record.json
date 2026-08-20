@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bba412679936b8ee52db21cfa457c14b6cb6391db7c0e69fcaa928642214a70e",
+  "company": {
+    "key": "yc-unsiloed-ai",
+    "name": "Unsiloed AI"
+  },
+  "source": {
+    "id": "yc-unsiloed-ai-news-import-f01c67e8267b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.unsiloed.ai/blog/are-llms-good-enough-for-document-extraction-in-2026",
+    "canonical": "https://www.unsiloed.ai/blog/are-llms-good-enough-for-document-extraction-in-2026"
+  },
+  "title": "Are LLMs Good Enough for Document Extraction in 2026?",
+  "summary": "Frontier LLMs can read a PDF, but reading one and being trusted with it are two different things. Here's where a raw LLM is good enough, where a dedicated document model earns its place, and how to make the output trustworthy.",
+  "published_at": "2026-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:07:01.705483+00:00",
+  "fetched_at": "2026-07-28T21:43:26.997349+00:00",
+  "last_updated_at": "2026-08-20T03:12:47.029800+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-unsiloed-ai/2026/07/bb/bba412679936b8ee52db21cfa457c14b6cb6391db7c0e69fcaa928642214a70e/article.md",
+    "record": "articles/v1/ea/yc-unsiloed-ai/2026/07/bb/bba412679936b8ee52db21cfa457c14b6cb6391db7c0e69fcaa928642214a70e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9303,
+    "sha256": "sha256:398fb6256deb0689f78d6237d4fb70461d6341f2976557b9d96998b2364cec7c",
+    "normalized_content_hash": "sha256:184d2a73639daf7df8d46efa9a0e3c3fded4d9d7c35e6e25405e164a256308ad"
+  },
+  "provenance": {
+    "source_item_id": "8cb72fb3-e8cf-4bb6-9723-0c829b911a05",
+    "external_id": "https://www.unsiloed.ai/blog/are-llms-good-enough-for-document-extraction-in-2026"
+  }
+}

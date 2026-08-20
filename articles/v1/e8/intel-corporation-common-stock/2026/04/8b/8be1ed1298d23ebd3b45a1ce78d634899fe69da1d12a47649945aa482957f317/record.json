@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8be1ed1298d23ebd3b45a1ce78d634899fe69da1d12a47649945aa482957f317",
+  "company": {
+    "key": "intel-corporation-common-stock",
+    "name": "Intel Corporation"
+  },
+  "source": {
+    "id": "intel-corporation-common-stock-news-import-c4af2245fd4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.intel.com/client-computing/intel-launches-intel-core-series-3-processors-changing-the-game-for-everyday-computing",
+    "canonical": "https://newsroom.intel.com/client-computing/intel-launches-intel-core-series-3-processors-changing-the-game-for-everyday-computing"
+  },
+  "title": "Intel Launches Intel Core Series 3 Processors: Changing the Game for Everyday Computing",
+  "summary": "",
+  "published_at": "2026-04-16T13:00:54+00:00",
+  "first_seen_at": "2026-07-22T00:13:30.648204+00:00",
+  "fetched_at": "2026-07-28T21:25:38.770750+00:00",
+  "last_updated_at": "2026-08-20T00:12:14.849848+00:00",
+  "paths": {
+    "article": "articles/v1/e8/intel-corporation-common-stock/2026/04/8b/8be1ed1298d23ebd3b45a1ce78d634899fe69da1d12a47649945aa482957f317/article.md",
+    "record": "articles/v1/e8/intel-corporation-common-stock/2026/04/8b/8be1ed1298d23ebd3b45a1ce78d634899fe69da1d12a47649945aa482957f317/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11429,
+    "sha256": "sha256:3e933cf78e7d2c909f16576479dcb5d16bfa977fc0e7d9dc59a00cb776b7f219",
+    "normalized_content_hash": "sha256:80afb6178a995254b10f9c165c29a349d7c7d718fccf55cb1d0eca186254c883"
+  },
+  "provenance": {
+    "source_item_id": "d2f1e410-c32a-403c-b4c3-78e2e3c99405",
+    "external_id": "https://newsroom.intel.com/client-computing/intel-launches-intel-core-series-3-processors-changing-the-game-for-everyday-computing"
+  }
+}

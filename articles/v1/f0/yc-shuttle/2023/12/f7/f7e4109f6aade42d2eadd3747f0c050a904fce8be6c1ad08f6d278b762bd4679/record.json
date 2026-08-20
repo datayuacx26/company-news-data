@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f7e4109f6aade42d2eadd3747f0c050a904fce8be6c1ad08f6d278b762bd4679",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2023/12/15/using-actix-rust",
+    "canonical": "https://www.shuttle.dev/blog/2023/12/15/using-actix-rust"
+  },
+  "title": "Getting Started with Actix Web in Rust",
+  "summary": "This article talks about how you can use Actix Web to write a web application, covering routing, middleware, static files and databases.",
+  "published_at": "2023-12-15T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:20.635269+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2023/12/f7/f7e4109f6aade42d2eadd3747f0c050a904fce8be6c1ad08f6d278b762bd4679/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2023/12/f7/f7e4109f6aade42d2eadd3747f0c050a904fce8be6c1ad08f6d278b762bd4679/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 22736,
+    "sha256": "sha256:e976bab4414042bbe29a04e572bfa0759c114053d441aa3730e5ec0702a7e5c5",
+    "normalized_content_hash": "sha256:2539d3264849822d611aba3961b90666bfc0ecaf31c1201fe7c43f706caca113"
+  },
+  "provenance": {
+    "source_item_id": "f242d25f-f30e-4da4-bf36-a329321c4ab0",
+    "external_id": "https://www.shuttle.dev/blog/2023/12/15/using-actix-rust"
+  }
+}

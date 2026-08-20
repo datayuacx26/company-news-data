@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "uranium-energy-corp-common-stock",
+    "name": "Uranium Energy Corp."
+  },
+  "record_count": 20,
+  "first_published_at": "2025-07-17T21:25:00+00:00",
+  "last_published_at": "2026-07-23T20:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/fd/uranium-energy-corp-common-stock/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 24894,
+        "sha256": "sha256:4085a5a194f773fb55879528a0d19d1a787436670b60e67a85c63360d45635cf",
+        "newest_at": "2026-07-23T20:30:00+00:00",
+        "oldest_at": "2025-07-17T21:25:00+00:00"
+      }
+    ]
+  }
+}

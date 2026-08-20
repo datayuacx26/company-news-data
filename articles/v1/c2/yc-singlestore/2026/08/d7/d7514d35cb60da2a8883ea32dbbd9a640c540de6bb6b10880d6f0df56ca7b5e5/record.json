@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7514d35cb60da2a8883ea32dbbd9a640c540de6bb6b10880d6f0df56ca7b5e5",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/advertiser-dashboard-concurrency/",
+    "canonical": "https://www.singlestore.com/blog/advertiser-dashboard-concurrency/"
+  },
+  "title": "Advertiser dashboards at thousands of concurrent users",
+  "summary": "Customer-facing analytics inverts every assumption a warehouse is built on. What Monday morning does to the queue, why caching backfires, and where the margin goes.",
+  "published_at": "2026-08-14T10:15:12+00:00",
+  "first_seen_at": "2026-08-14T20:18:11.586561+00:00",
+  "fetched_at": "2026-08-14T20:18:14.367350+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/08/d7/d7514d35cb60da2a8883ea32dbbd9a640c540de6bb6b10880d6f0df56ca7b5e5/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/08/d7/d7514d35cb60da2a8883ea32dbbd9a640c540de6bb6b10880d6f0df56ca7b5e5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8969,
+    "sha256": "sha256:c50eb03e276c32857c500c8e8cfdd56b42a51ce17673eda329347476f5b88c37",
+    "normalized_content_hash": "sha256:bd10eda97a32195a1746d8ddad896bbc8a8529e472873772f299621adf91ecc0"
+  },
+  "provenance": {
+    "source_item_id": "380bc443-867e-44f2-8b26-96e470b24241",
+    "external_id": "https://www.singlestore.com/blog/advertiser-dashboard-concurrency/"
+  }
+}

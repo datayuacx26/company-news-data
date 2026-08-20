@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b8a1b33d653e74b6ab3b1e85524bc229bcf3f0316c670a555184aa47eeb2c606",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/webmin-2-621-and-usermin-2-521-released/136425",
+    "canonical": "https://forum.virtualmin.com/t/webmin-2-621-and-usermin-2-521-released/136425"
+  },
+  "title": "Webmin 2.621 and Usermin 2.521 released",
+  "summary": "Howdy all, We’ve rolled out Webmin 2.621 and Usermin 2.521 to all Virtualmin repos. Changes since 2.620 and 2.520: Fix to prevent NAT from dropping idle RPC sessions during long transfers Fix to improve the message when socket authentication is used in the MySQL/MariaDB module Fix to make upload tracking work correctly in all situations and on all systems Fix to correctly display the PHP version in the PHP Configuration module when managing packages Update Xterm.js to the latest version with...",
+  "published_at": "2026-01-27T17:08:23+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:54:41.720106+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/01/b8/b8a1b33d653e74b6ab3b1e85524bc229bcf3f0316c670a555184aa47eeb2c606/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/01/b8/b8a1b33d653e74b6ab3b1e85524bc229bcf3f0316c670a555184aa47eeb2c606/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2053,
+    "sha256": "sha256:3120547eea7fae6d696e21050e69f5f2000cdcecda7d0eb058857642dac2d2e3",
+    "normalized_content_hash": "sha256:3a92ef0722b7b3494e3e623de2bbc4a9d95a32a5c4a787f9b388953aa9db4571"
+  },
+  "provenance": {
+    "source_item_id": "ad56a93e-05c9-44f9-a84e-15bebe9b8f9e",
+    "external_id": "forum.virtualmin.com-topic-136425"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d963834384874a0d8aa31e133a382cc3a05b189492dc838c7401f1ad8ebf8cca",
+  "company": {
+    "key": "wix-com-ltd-ordinary-shares",
+    "name": "Wix.com Ltd."
+  },
+  "source": {
+    "id": "wix-com-ltd-ordinary-shares-rss-e1d3c855eeb0",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.wix.engineering/post/how-we-built-a-zero-downtime-database-migration-service-at-wix",
+    "canonical": "https://www.wix.engineering/post/how-we-built-a-zero-downtime-database-migration-service-at-wix"
+  },
+  "title": "How We Built a Zero-Downtime Database Migration Service at Wix",
+  "summary": "The ChallengeAt Wix, multiple applications share the same DB cluster. The reasons vary: consolidating apps from the same domain, grouping several small apps that don’t justify a dedicated cluster, or simply optimizing cost and operational overhead.However, this setup comes with a significant risk: every application on the cluster has the potential to impact all the others.One real example: we had a critical service related to user authentication sharing a DB cluster with several other applicatio",
+  "published_at": "2026-05-14T07:19:17+00:00",
+  "first_seen_at": "2026-07-20T23:18:01.039713+00:00",
+  "fetched_at": "2026-07-28T22:13:08.113980+00:00",
+  "last_updated_at": "2026-08-20T00:29:14.534767+00:00",
+  "paths": {
+    "article": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/05/d9/d963834384874a0d8aa31e133a382cc3a05b189492dc838c7401f1ad8ebf8cca/article.md",
+    "record": "articles/v1/c6/wix-com-ltd-ordinary-shares/2026/05/d9/d963834384874a0d8aa31e133a382cc3a05b189492dc838c7401f1ad8ebf8cca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12760,
+    "sha256": "sha256:4d2b6409306f8a62937e2496f070d062213cf34c5cfff276e2acc50d90cb895d",
+    "normalized_content_hash": "sha256:30b6f17cbade9933dacad74c881d8163cbf41307bc25f2b13044845bc2627e58"
+  },
+  "provenance": {
+    "source_item_id": "6ef5ea1e-163b-4933-b1f1-ef6a48972cf3",
+    "external_id": "6a3c130de7e36d68a765e8e0"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "db2bd387326572a74c815bdcefddd5286b15abf6786202e1d3d10dcffaf9f135",
+  "company": {
+    "key": "yc-tensorfuse",
+    "name": "Tensorfuse"
+  },
+  "source": {
+    "id": "yc-tensorfuse-news-import-97ab2b67de47",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://tensorfuse.io/blog/aws-ec2-gpu-instance-pricing",
+    "canonical": "https://tensorfuse.io/blog/aws-ec2-gpu-instance-pricing"
+  },
+  "title": "Selecting Ideal EC2 Instances for GPU Workloads on AWS",
+  "summary": "Explore the differences between AWS EC2 GPU instance pricing models—On-Demand, Spot, Reserved, and Capacity Blocks—to optimize performance and cost for your AI/ML workloads",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T04:04:56.878556+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-20T00:15:16.087749+00:00",
+  "paths": {
+    "article": "articles/v1/fb/yc-tensorfuse/2026/07/db/db2bd387326572a74c815bdcefddd5286b15abf6786202e1d3d10dcffaf9f135/article.md",
+    "record": "articles/v1/fb/yc-tensorfuse/2026/07/db/db2bd387326572a74c815bdcefddd5286b15abf6786202e1d3d10dcffaf9f135/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1072,
+    "sha256": "sha256:b231d873e83619512b21cfc196898931181bc1c73ab77c0a8c239765eaf829a0",
+    "normalized_content_hash": "sha256:f1f29510342df011dc9738a56ec305433c3531d330a6e7087dbe50357e52a3e1"
+  },
+  "provenance": {
+    "source_item_id": "94389aac-4436-4091-8fb0-aad0e28e1ae9",
+    "external_id": "https://tensorfuse.io/blog/aws-ec2-gpu-instance-pricing"
+  }
+}

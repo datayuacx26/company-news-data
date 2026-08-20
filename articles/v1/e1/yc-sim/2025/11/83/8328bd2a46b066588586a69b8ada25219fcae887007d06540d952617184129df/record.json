@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8328bd2a46b066588586a69b8ada25219fcae887007d06540d952617184129df",
+  "company": {
+    "key": "yc-sim",
+    "name": "Sim"
+  },
+  "source": {
+    "id": "yc-sim-rss-f4bc2e85e2b3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.sim.ai/blog/executor",
+    "canonical": "https://www.sim.ai/blog/executor"
+  },
+  "title": "Inside the Sim Executor - DAG Based Execution with Native Parallelism",
+  "summary": "How we built a DAG-based execution engine with native parallel processing, intelligent edge routing, and stateful pause/resume capabilities",
+  "published_at": "2025-11-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:11.483682+00:00",
+  "fetched_at": "2026-07-28T22:00:58.612667+00:00",
+  "last_updated_at": "2026-08-20T00:32:58.308328+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-sim/2025/11/83/8328bd2a46b066588586a69b8ada25219fcae887007d06540d952617184129df/article.md",
+    "record": "articles/v1/e1/yc-sim/2025/11/83/8328bd2a46b066588586a69b8ada25219fcae887007d06540d952617184129df/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19508,
+    "sha256": "sha256:6719aeaff27a82c13131d9787de5af61c1312250f835db59f8393be994ea366d",
+    "normalized_content_hash": "sha256:cbc12cd622f19fe470f766484d26a9a0f8fad7c008239e74976daf12cb4fd29c"
+  },
+  "provenance": {
+    "source_item_id": "291b8207-33ca-44b9-bf81-7f6e7c92c2ff",
+    "external_id": "https://www.sim.ai/blog/executor"
+  }
+}

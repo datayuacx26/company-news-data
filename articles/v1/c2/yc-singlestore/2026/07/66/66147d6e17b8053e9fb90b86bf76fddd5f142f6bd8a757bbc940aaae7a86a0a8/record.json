@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "66147d6e17b8053e9fb90b86bf76fddd5f142f6bd8a757bbc940aaae7a86a0a8",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/ad-data-freshness/",
+    "canonical": "https://www.singlestore.com/blog/ad-data-freshness/"
+  },
+  "title": "How fresh is ad data by the time anyone can query it?",
+  "summary": "Events reach Kafka in milliseconds and dashboards minutes later. Where the time goes at p95, what breaks while data is in transit, and what real-time ingestion actually requires.",
+  "published_at": "2026-07-20T13:44:26+00:00",
+  "first_seen_at": "2026-07-24T13:42:01.434183+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/07/66/66147d6e17b8053e9fb90b86bf76fddd5f142f6bd8a757bbc940aaae7a86a0a8/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/07/66/66147d6e17b8053e9fb90b86bf76fddd5f142f6bd8a757bbc940aaae7a86a0a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8659,
+    "sha256": "sha256:0fa1e0d7c499f6b6574a77e8d7bf45a6934b9e910d8041936d24404d61d91967",
+    "normalized_content_hash": "sha256:364942146efa29e08a815665ef6593523ccd68ced60ad0c40509e619aa9d6405"
+  },
+  "provenance": {
+    "source_item_id": "06b98d25-2ec7-4276-8478-dc1b3cdbd204",
+    "external_id": "https://www.singlestore.com/blog/ad-data-freshness/"
+  }
+}

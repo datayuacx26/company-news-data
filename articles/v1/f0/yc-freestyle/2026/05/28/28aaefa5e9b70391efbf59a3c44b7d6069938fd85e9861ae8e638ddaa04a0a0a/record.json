@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "28aaefa5e9b70391efbf59a3c44b7d6069938fd85e9861ae8e638ddaa04a0a0a",
+  "company": {
+    "key": "yc-freestyle",
+    "name": "Freestyle"
+  },
+  "source": {
+    "id": "yc-freestyle-news-import-21b14ff45bb6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.freestyle.sh/blog/engineering/how-to-run-ai-evaluations-on-freestyle",
+    "canonical": "https://www.freestyle.sh/blog/engineering/how-to-run-ai-evaluations-on-freestyle"
+  },
+  "title": "How to Run AI Evaluations on Freestyle",
+  "summary": "A practical guide to running AI evaluations and agent evals on Freestyle VMs: ephemeral microVMs per test case, full traces, and burst parallelism.",
+  "published_at": "2026-05-15T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T13:26:33.334256+00:00",
+  "fetched_at": "2026-07-28T22:00:13.771809+00:00",
+  "last_updated_at": "2026-08-20T03:36:14.288797+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-freestyle/2026/05/28/28aaefa5e9b70391efbf59a3c44b7d6069938fd85e9861ae8e638ddaa04a0a0a/article.md",
+    "record": "articles/v1/f0/yc-freestyle/2026/05/28/28aaefa5e9b70391efbf59a3c44b7d6069938fd85e9861ae8e638ddaa04a0a0a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13741,
+    "sha256": "sha256:e86884c5510763c6de2ef8fcf03676628d1fb5fac1fd55941d9758313c93d204",
+    "normalized_content_hash": "sha256:7b0116bbfe83d285125d1f71e92a4646321c6a467c78e88b604ca4967efef22b"
+  },
+  "provenance": {
+    "source_item_id": "f409578a-0a8d-48c2-b765-7931eab86668",
+    "external_id": "https://www.freestyle.sh/blog/engineering/how-to-run-ai-evaluations-on-freestyle"
+  }
+}

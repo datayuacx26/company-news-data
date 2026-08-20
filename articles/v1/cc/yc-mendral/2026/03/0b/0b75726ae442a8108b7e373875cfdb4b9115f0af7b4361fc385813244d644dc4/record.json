@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b75726ae442a8108b7e373875cfdb4b9115f0af7b4361fc385813244d644dc4",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-news-import-538be81b6878",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/same-llm-different-agent",
+    "canonical": "https://mendral.com/blog/same-llm-different-agent"
+  },
+  "title": "Same LLM, Different Agent: What Changes When You Specialize for CI",
+  "summary": "Same models, different tokens. What changes when you build an agent harness specialized for CI instead of general-purpose coding.",
+  "published_at": "2026-03-30T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T00:32:33.388808+00:00",
+  "fetched_at": "2026-08-10T00:32:34.981599+00:00",
+  "last_updated_at": "2026-08-19T17:02:30.703158+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/03/0b/0b75726ae442a8108b7e373875cfdb4b9115f0af7b4361fc385813244d644dc4/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/03/0b/0b75726ae442a8108b7e373875cfdb4b9115f0af7b4361fc385813244d644dc4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8101,
+    "sha256": "sha256:9dc2d9ff09a46babf837ed1e0d436bf24a88466c7931f05ddff16eb334d73d5f",
+    "normalized_content_hash": "sha256:c454649b0ccbb36c6bcdfddd22b05b21e30a4ff9bae40e1fe34bf9b2643cdda3"
+  },
+  "provenance": {
+    "source_item_id": "d27ee79b-ac0c-4e32-877e-3142651b8f26",
+    "external_id": "https://mendral.com/blog/same-llm-different-agent"
+  }
+}

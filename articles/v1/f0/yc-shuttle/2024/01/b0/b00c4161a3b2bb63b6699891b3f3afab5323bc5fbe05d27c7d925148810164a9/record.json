@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b00c4161a3b2bb63b6699891b3f3afab5323bc5fbe05d27c7d925148810164a9",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/01/18/parsing-json-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/01/18/parsing-json-rust"
+  },
+  "title": "Parsing JSON in Rust",
+  "summary": "This article talks about parsing JSON in Rust and compares JSON parsing libraries.",
+  "published_at": "2024-01-18T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:19.240569+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/01/b0/b00c4161a3b2bb63b6699891b3f3afab5323bc5fbe05d27c7d925148810164a9/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/01/b0/b00c4161a3b2bb63b6699891b3f3afab5323bc5fbe05d27c7d925148810164a9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12877,
+    "sha256": "sha256:7d559f43db1d770b073c2d7ec24643e1fc2422ddb0d400cc9757111c64516012",
+    "normalized_content_hash": "sha256:b7a66d8beb7571f3d6cb063624f2d9c151377e387b1fced6ef2c4b312b750beb"
+  },
+  "provenance": {
+    "source_item_id": "7d55169e-c534-4e08-b369-4dd0fa49ec61",
+    "external_id": "https://www.shuttle.dev/blog/2024/01/18/parsing-json-rust"
+  }
+}

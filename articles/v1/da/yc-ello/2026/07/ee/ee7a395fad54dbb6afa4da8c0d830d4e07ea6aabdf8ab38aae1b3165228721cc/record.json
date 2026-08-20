@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ee7a395fad54dbb6afa4da8c0d830d4e07ea6aabdf8ab38aae1b3165228721cc",
+  "company": {
+    "key": "yc-ello",
+    "name": "Ello"
+  },
+  "source": {
+    "id": "yc-ello-news-import-42717b83a57e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "canonical": "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
+  },
+  "title": "Teaching a child in <1000 ms: the architecture behind a real-time tutor",
+  "summary": "We set out to build the first AI tutor to teach math and reading to kids ages 4-9. For AI to actually teach a five-year-old, pedagogy must be baked into the engineering. A child can't wait for a slow reply, can't read a chat interface, and can't unhear anything a model gets wrong. We wanted to share some of the learnings that shaped our architectural decisions building a real-time AI tutor.",
+  "published_at": "2026-07-07T12:00:00+00:00",
+  "first_seen_at": "2026-07-21T17:55:34.949067+00:00",
+  "fetched_at": "2026-07-28T21:22:09.082656+00:00",
+  "last_updated_at": "2026-08-20T02:32:59.931975+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-ello/2026/07/ee/ee7a395fad54dbb6afa4da8c0d830d4e07ea6aabdf8ab38aae1b3165228721cc/article.md",
+    "record": "articles/v1/da/yc-ello/2026/07/ee/ee7a395fad54dbb6afa4da8c0d830d4e07ea6aabdf8ab38aae1b3165228721cc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2238,
+    "sha256": "sha256:35feb39cfb84561c34f75662e42b381c6bd73bd6156a4a98d05cb387fee4cd46",
+    "normalized_content_hash": "sha256:e79c5a99be24812a6d7cc1bae240f88ac9664b273e0bb4846f50382ea2630971"
+  },
+  "provenance": {
+    "source_item_id": "12aa7b90-4f76-4fb0-ad59-29fe2ee7d2ac",
+    "external_id": "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
+  }
+}

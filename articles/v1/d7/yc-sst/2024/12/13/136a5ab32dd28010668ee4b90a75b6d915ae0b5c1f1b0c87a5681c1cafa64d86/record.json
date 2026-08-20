@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "136a5ab32dd28010668ee4b90a75b6d915ae0b5c1f1b0c87a5681c1cafa64d86",
+  "company": {
+    "key": "yc-sst",
+    "name": "SST"
+  },
+  "source": {
+    "id": "yc-sst-news-import-9375d5a7fa7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://sst.dev/blog/tasks-in-v3",
+    "canonical": "https://sst.dev/blog/tasks-in-v3/"
+  },
+  "title": "Tasks in v3",
+  "summary": "We are adding a new component that allows you to run asynchronous tasks.",
+  "published_at": "2024-12-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T01:49:09.857782+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-19T20:37:58.782391+00:00",
+  "paths": {
+    "article": "articles/v1/d7/yc-sst/2024/12/13/136a5ab32dd28010668ee4b90a75b6d915ae0b5c1f1b0c87a5681c1cafa64d86/article.md",
+    "record": "articles/v1/d7/yc-sst/2024/12/13/136a5ab32dd28010668ee4b90a75b6d915ae0b5c1f1b0c87a5681c1cafa64d86/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5989,
+    "sha256": "sha256:6b2fb19b2f37f8ddc7246b63f1e0a96b1bbef9f63a2f1784da59d87dddecad36",
+    "normalized_content_hash": "sha256:42a1d6c72ddeedb0e4edb456f74491ff8c69b9e026a432f61d0c7e91dae47c7f"
+  },
+  "provenance": {
+    "source_item_id": "95d39bee-fd18-48fb-8049-a55a1e7eb5d7",
+    "external_id": "https://sst.dev/blog/tasks-in-v3/"
+  }
+}

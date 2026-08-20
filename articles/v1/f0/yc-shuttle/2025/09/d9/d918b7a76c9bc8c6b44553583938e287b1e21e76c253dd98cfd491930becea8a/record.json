@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d918b7a76c9bc8c6b44553583938e287b1e21e76c253dd98cfd491930becea8a",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/09/24/pandas-vs-polars",
+    "canonical": "https://www.shuttle.dev/blog/2025/09/24/pandas-vs-polars"
+  },
+  "title": "Pandas vs Polars: Which Data Processor Runs Faster",
+  "summary": "If your workflows hit performance walls, the choice between Pandas vs Polars is critical. Learn benchmarks, code, and how Shuttle enables faster ETL pipelines.",
+  "published_at": "2025-09-24T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T20:55:46.222495+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/09/d9/d918b7a76c9bc8c6b44553583938e287b1e21e76c253dd98cfd491930becea8a/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/09/d9/d918b7a76c9bc8c6b44553583938e287b1e21e76c253dd98cfd491930becea8a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 33192,
+    "sha256": "sha256:1cf3fa8b27c4f5aeaab4c8d502ae53aa97147c1aec83a2fbafb3c8fd9b066b31",
+    "normalized_content_hash": "sha256:bfb27228af0d5982d7cc8f641d72420fe19a9938b02ead3a01419fddc1af3886"
+  },
+  "provenance": {
+    "source_item_id": "8fb13dd0-23b1-40be-818d-90ceacc62289",
+    "external_id": "https://www.shuttle.dev/blog/2025/09/24/pandas-vs-polars"
+  }
+}

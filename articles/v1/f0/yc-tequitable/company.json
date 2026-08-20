@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-tequitable",
+    "name": "tEQuitable"
+  },
+  "record_count": 9,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 9
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f0/yc-tequitable/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 7852,
+        "sha256": "sha256:57a9613aa8c0b66d923b27c1348ab87aeae5c05b10c551d8a330ff4205712065",
+        "newest_at": "2026-07-28T21:38:24.318832+00:00",
+        "oldest_at": "2026-07-28T21:18:37.293716+00:00"
+      }
+    ]
+  }
+}

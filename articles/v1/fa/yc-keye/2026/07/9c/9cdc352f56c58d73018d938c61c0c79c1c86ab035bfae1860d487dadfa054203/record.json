@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9cdc352f56c58d73018d938c61c0c79c1c86ab035bfae1860d487dadfa054203",
+  "company": {
+    "key": "yc-keye",
+    "name": "Keye"
+  },
+  "source": {
+    "id": "yc-keye-news-import-36b1eda744e0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.keye.co/post/rag-ai-finance-cutting-edge",
+    "canonical": "https://www.keye.co/post/rag-ai-finance-cutting-edge"
+  },
+  "title": "RAG in Finance: Cutting-Edge or Yesterday’s News?",
+  "summary": "In the early days of commercial LLMs, capabilities were defined by models' inherent architecture and the way they made use of their underlying training data. When you asked a question to a chatbot, it would famously tell you that it only had knowledge going up to 2021. Additionally, chatbots could only process and remember so much information in a prompt. You had to be very specific, clear and consistent in your prompting if you wanted the same in your outputs. Even then, what LLMs could generate was limited by the information they had access to.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:42:08.002984+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-08-19T15:27:35.651268+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-keye/2026/07/9c/9cdc352f56c58d73018d938c61c0c79c1c86ab035bfae1860d487dadfa054203/article.md",
+    "record": "articles/v1/fa/yc-keye/2026/07/9c/9cdc352f56c58d73018d938c61c0c79c1c86ab035bfae1860d487dadfa054203/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12028,
+    "sha256": "sha256:d0baf852279b571a73e75cc299acf4a595142eb69438abf738d7d66ead0dac7c",
+    "normalized_content_hash": "sha256:9ae7fc4c7bf28211797a0f392d46bf7180827a28fbe8b849ec177c98cbac68b0"
+  },
+  "provenance": {
+    "source_item_id": "04058949-8bef-4cff-a5fe-7b1f1d2a9db5",
+    "external_id": "https://www.keye.co/post/rag-ai-finance-cutting-edge"
+  }
+}

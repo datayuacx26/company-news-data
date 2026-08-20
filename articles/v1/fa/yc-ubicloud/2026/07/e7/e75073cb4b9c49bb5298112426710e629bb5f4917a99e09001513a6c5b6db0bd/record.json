@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e75073cb4b9c49bb5298112426710e629bb5f4917a99e09001513a6c5b6db0bd",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/ubicloud-postgresql-new-features-higher-performance",
+    "canonical": "https://www.ubicloud.com/blog/ubicloud-postgresql-new-features-higher-performance"
+  },
+  "title": "Ubicloud PostgreSQL: New Features, Higher Performance",
+  "summary": "Today, we are excited to announce a major upgrade to Ubicloud Postgres. The following features are now available as part of our managed service: Read Replicas, Scale Up/Down, Multi-AZ High Availability (HA), Connection Pooling, Managed Maintenance Window, Metrics, and External APIs.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/e7/e75073cb4b9c49bb5298112426710e629bb5f4917a99e09001513a6c5b6db0bd/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/e7/e75073cb4b9c49bb5298112426710e629bb5f4917a99e09001513a6c5b6db0bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8103,
+    "sha256": "sha256:d01c383e9ee65dab1614fa35d5fe3d9c85f26614a5ca2ba830b6450bbfb63ac7",
+    "normalized_content_hash": "sha256:305630ce5cfa9665e50bedffaeb21bdd69320426eff8dc72cb670ecbf86fbae2"
+  },
+  "provenance": {
+    "source_item_id": "122d7445-08dd-4989-8da6-86c6889788f5",
+    "external_id": "https://www.ubicloud.com/blog/ubicloud-postgresql-new-features-higher-performance"
+  }
+}

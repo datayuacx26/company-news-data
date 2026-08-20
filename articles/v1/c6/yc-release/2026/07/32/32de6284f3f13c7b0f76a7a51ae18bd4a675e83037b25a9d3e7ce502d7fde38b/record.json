@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "32de6284f3f13c7b0f76a7a51ae18bd4a675e83037b25a9d3e7ce502d7fde38b",
+  "company": {
+    "key": "yc-release",
+    "name": "Release"
+  },
+  "source": {
+    "id": "yc-release-news-import-be48e1d74beb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://release.com/blog/introducing-supabase-integration-for-release",
+    "canonical": "https://release.com/blog/introducing-supabase-integration-for-release"
+  },
+  "title": "Introducing Supabase Integration for Release",
+  "summary": "Release now integrates with Supabase, bringing PostgreSQL database branching to every pull request environment with automatic provisioning and full schema isolation.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T10:54:59.054180+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T22:59:48.848313+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-release/2026/07/32/32de6284f3f13c7b0f76a7a51ae18bd4a675e83037b25a9d3e7ce502d7fde38b/article.md",
+    "record": "articles/v1/c6/yc-release/2026/07/32/32de6284f3f13c7b0f76a7a51ae18bd4a675e83037b25a9d3e7ce502d7fde38b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7415,
+    "sha256": "sha256:56d65ab2a55548a8f0236d9d16fdbb91ed4800e5f77c0d6c086f45383c990313",
+    "normalized_content_hash": "sha256:662e4a018bca664d89211d5b7fabe6c670bb116b363d4af95a0058afbae0fd21"
+  },
+  "provenance": {
+    "source_item_id": "b5f3af07-1067-4fa8-babb-65f49831a273",
+    "external_id": "https://release.com/blog/introducing-supabase-integration-for-release"
+  }
+}

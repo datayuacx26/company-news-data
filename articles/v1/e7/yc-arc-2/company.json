@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-arc-2",
+    "name": "Arc"
+  },
+  "record_count": 20,
+  "first_published_at": "2023-05-01T15:05:00+00:00",
+  "last_published_at": "2026-07-07T13:30:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e7/yc-arc-2/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 19452,
+        "sha256": "sha256:033436b6a961a9864d4f5598a5621744ef01487f258eaec43c07b68d326baba8",
+        "newest_at": "2026-07-07T13:30:00+00:00",
+        "oldest_at": "2023-05-01T15:05:00+00:00"
+      }
+    ]
+  }
+}

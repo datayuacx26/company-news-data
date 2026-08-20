@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "013ea34e9ae2587779d67e7002656a62806bba3d1a8ce6851053878abe182cab",
+  "company": {
+    "key": "yc-prequel",
+    "name": "Prequel"
+  },
+  "source": {
+    "id": "yc-prequel-news-import-43b0021e02b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prequel.co/blog/some-questions-dont-fit-in-a-context-window/",
+    "canonical": "https://www.prequel.co/blog/some-questions-dont-fit-in-a-context-window/"
+  },
+  "title": "Some Questions Don't Fit in a Context Window",
+  "summary": "Making your product useful to AI agents takes two data surfaces, not one. MCP handles point lookups and actions; data exports handle whole-table questions.",
+  "published_at": "2026-06-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T10:10:51.593417+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T20:03:18.384483+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-prequel/2026/06/01/013ea34e9ae2587779d67e7002656a62806bba3d1a8ce6851053878abe182cab/article.md",
+    "record": "articles/v1/c4/yc-prequel/2026/06/01/013ea34e9ae2587779d67e7002656a62806bba3d1a8ce6851053878abe182cab/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7735,
+    "sha256": "sha256:e97c31438f66280b6302dad3a1b49a6a79c1c8c1117a7b1e5b446c74d4bd392d",
+    "normalized_content_hash": "sha256:51560b4c4832821af0c387edc37dc86ce10da28e050fa114bcb1dc7dd9d204a5"
+  },
+  "provenance": {
+    "source_item_id": "caee24cf-fa36-42d1-89b2-f56267e715e6",
+    "external_id": "https://www.prequel.co/blog/some-questions-dont-fit-in-a-context-window/"
+  }
+}

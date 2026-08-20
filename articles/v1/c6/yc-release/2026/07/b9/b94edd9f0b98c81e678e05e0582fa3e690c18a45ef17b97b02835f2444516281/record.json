@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b94edd9f0b98c81e678e05e0582fa3e690c18a45ef17b97b02835f2444516281",
+  "company": {
+    "key": "yc-release",
+    "name": "Release"
+  },
+  "source": {
+    "id": "yc-release-news-import-be48e1d74beb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://release.com/blog/secure-secrets-management-with-doppler-in-release-a-step-by-step-guide",
+    "canonical": "https://release.com/blog/secure-secrets-management-with-doppler-in-release-a-step-by-step-guide"
+  },
+  "title": "Secure Secrets Management with Doppler in Release: A Step-by-Step Guide",
+  "summary": "Learn to securely manage secrets in Kubernetes by integrating Doppler with Release, ensuring streamlined and safe deplo",
+  "published_at": null,
+  "first_seen_at": "2026-07-23T22:44:42.193831+00:00",
+  "fetched_at": "2026-07-28T21:18:37.293716+00:00",
+  "last_updated_at": "2026-08-16T19:56:02.338368+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-release/2026/07/b9/b94edd9f0b98c81e678e05e0582fa3e690c18a45ef17b97b02835f2444516281/article.md",
+    "record": "articles/v1/c6/yc-release/2026/07/b9/b94edd9f0b98c81e678e05e0582fa3e690c18a45ef17b97b02835f2444516281/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5975,
+    "sha256": "sha256:c30555502202e21c070cf8eb9a4d889bdfe83b64fd846ecd677d2a59fcf031cd",
+    "normalized_content_hash": "sha256:e26d2c2a2b03c18f78a1fff5384cebaa80070decec72f5c49905883a4a52705a"
+  },
+  "provenance": {
+    "source_item_id": "12f1b6c1-e9dd-4119-ab14-284b7581eb0f",
+    "external_id": "https://release.com/blog/secure-secrets-management-with-doppler-in-release-a-step-by-step-guide"
+  }
+}

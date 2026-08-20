@@ -1,0 +1,54 @@
+---
+schema_version: "1.0.0"
+document_id: "8e8cd3e350be935cb4fcfa8742a2ed0e7db8829df54aff3475b1626c4c76aca6"
+company_key: "compass-therapeutics-inc-common-stock"
+company: "Compass Therapeutics Inc."
+source_id: "compass-therapeutics-inc-common-stock-rss-5b47a87c6b39"
+canonical_url: "https://investors.compasstherapeutics.com/news-releases/news-release-details/compass-therapeutics-participate-upcoming-may-investor-events-0"
+published_at: "2026-05-12T11:30:27+00:00"
+first_seen_at: "2026-07-26T12:08:14.820856+00:00"
+fetched_at: "2026-07-28T21:14:05.751806+00:00"
+content_hash: "sha256:8602edf41222ce1cf434f0dc48d9925836385308c86f1e49934a6483a4856cb6"
+---
+
+# Compass Therapeutics to Participate in Upcoming May Investor Events
+
+[PDF Version](https://investors.compasstherapeutics.com/node/9576/pdf)
+
+
+BOSTON, May 12, 2026 (GLOBE NEWSWIRE) -- Compass Therapeutics, Inc. (Nasdaq: CMPX), a clinical-stage, oncology-focused biopharmaceutical company developing proprietary antibody-based therapeutics to treat multiple human diseases, today announced that the Company will participate in the following investor events during the month of May.
+
+
+**Details are as follows:**
+
+
+**H.C. Wainwright 4th Annual BioConnect Investor Conference at NASDAQ**
+**Date:** Tuesday, May 19, 2026
+**Time:** 12:00 PM ET
+**Webcast Link:**[https://journey.ct.events/view/bc55d2f9-d121-4f7d-8129-1f69f201bd7f](https://www.globenewswire.com/Tracker?data=hQkdpCsMJCzceS_rFSRRQUeZojyxoBc76XVkmgvFmF27Ug4oJbtLMbePNjlEUHaiHhiDkjjuRO2zGwEyW86JxF7NIEa32CNTpanAu9L_45Zz46VkP6FUY3AUTgHbzi7uhJKrPP_3MisSjbHhVzJlXoTDfCFfgz3MkqHxMycGW5n20KO375wKZ633R9UPhWvimCbl79DpH0kh7fbDAIJpMzvuHtUtxjr0v-18QheclrRrHRDZWrkpqZ2jFQaQnsHzUiyjIrzZNy-7fPA2Odd8Ew20eY2DswcfKo5r9EQphkMqKAVX11EQ06UtH60PjydP_xkot39Xk0QNVkb4PbJIjfYRvtSdkxSSSnAg-03Is1U3asiFIpoXOxHWTaXxEhUUISA-xsj7UwytDqtBNkNMH_7z1wuxZJrPVfk92ckBxAi-HSH_wy9YTnxVnYUWFjVXdaqADDLaTleUuzv0WG1_19tsCER3Wwi2g9u257iSfGt1Unk-LkwRTUiiHCr3uT-scfBEKgBGMFPYr6ZeTEZKaPdrFdbr7MR3t99NX1KSD74KoSdv6DcyrVvd1lm_58JT3ayF7kGoQFvOcqGDT57SDPM9PVLltBSB-G9SfPPT89YaHqfOIXO09b-fkHdy9wQArCeQkVIsD-Q3t2u5-NIu2kBEwnIQqSRY3Rl7_bOaxLQlY8Zim4x_kH-dP1RYV5gNe7dwyhRVgKE9egc6t-rwH3gkSjeYkPnO5FTIHPT3fG8J22RrPakBkuR5eygb1D3Y)
+
+
+**2026 Stifel Virtual Targeted Oncology Forum**
+**Date:** Wednesday, May 20, 2026
+**Time:** 11:30 AM ET
+**Webcast Link:**[https://event.summitcast.com/view/SScpdhHfwE8g9WsS8WcTax/QuhrzDf8Wdgui7i3FhuDb6](https://www.globenewswire.com/Tracker?data=hQkdpCsMJCzceS_rFSRRQcdKxTOIZS-m8YFfRUvT7Fh9iszWVv5eg8rHNM0ZgKQ0EtSfdnfOAGVBCWsgvfo7ShikZwhFe5gliO_6kesjBZO28VaLMyq7lW39u2taZGnNz698zkQjH3oocJh95eNOOf9oMvztsWeTKImJotZlXAFD7g6HPezH_DCRZuOxerajc2MysbGl2XtvqOQ4Olc316WMdfi0c3G0ntBxpZ-tqB8ZAC-7r4hBzp-HPLD2RJUCJWwp1WBjEtg68Vl9YIw1HbJBmnecOCTe9YQD273ZF8xavhImSs4g51GGNOwzPZ5I75MjWoSZq2y7DyytLvDaWMBBWfPfbwdLdNFbeHNRXp26Toek-1HK3XdBa9EyrU3OzVMKdK7eAw1hyR0hyepzsGb2cbrv55jMvCVqxEnlJJeqHsoaE56VGh7VW3GhbpOATFRIDT3bk1XMZl7Ey4L-B1Q7BVzlBU1_4OVYODXFkL7G8xH-Z4hEhMcavcKXydlLwyACsqKCsfAv-wEOsoH9q9bPU8odzsfFp5Az0X3BDm_EofpUlRry18S6XS3oJsTpLOfJ7s03BgMM7GmnW0qedtssvDcLMx_fSZ5UIjcrGTzvtAjWul_pE853HIssfgv_JyPHAebvUkGiMjqVntzgPgH-l8wBq44QIs6oMv_sEVYSsFCAu6zupbq9uSD5bo6xh1qlHx8P9AdpRBxs7ydz8D0dxYwfms2g0OeURkJCsEWYwuJTLY56Llhs8MtudBZ-AOnUAZKGqHiB3Gp01B8dwaUEvloMsFRxrTQBhortZoU=)
+
+
+**Virtual/Replay availability:** Presentations will be archived on Compass’[Events](https://www.globenewswire.com/Tracker?data=DSh42Q7SsR9Zzb050-okgG1Rx4H-C1oEKMpyJlceN5eq_Bkyw5cXBmzuR0UK-Xw99BBgR0BeyHt4Z-R6_9gn2iDuzPQBoLmOFq5KW9w3NEW_efBHnVCEpr48y6BsZqV2gPnwvJUG7E7tgZNhwFe0sOOvhLSbh31sowUUXHDOX-HaEECTGVln1rz_UdrITbFkFmCmb-daHzeQlgGK5LW0k9qu5OTe_gkzxzmFq9yDzkhJwsz9zeQG8hbBK3nPyt3KYLSkbbvhfK0U6bCjU6aINclT5ExVKvD0_e61-MYZ5RbxDQO1GuZvMSXJTmPd4QxBXnS_swGaC9gjYSuIhntwbMG4FwXkJpBiGSli8GVsej9aI8hXQQLV9h3TaQNXeowKh_HIGwwWuZcFLj2ZcL5cb5QICEu4LQU_L5MuzpTkSk2EZjq0a6JKaWGYgPvGquC1J3VmyBX3Dly405z1qRvL-6L3Gn-kcu9e3oEH2i85GboAF4d0CqHe_bCID2N_Sdn-cEh1Kvbx4W0MnsrOzArFOJBbZ60Q2J0xZohI5j00TjRq1_0ladwy4iyeG7Vh8eKjFfD7XYVwnnlfHMRtksOWAq2J9FQkmfQ9ij2cTMspsGKWk791yYgETq62tQmUpEfXwvNWIM3hlF3iKukHHVVEfEgqMYubILD7AHjdm1BHfUPi_spSiPT7f7RX686sHbly9XsYv6-i5452HXeDse2JiMvbtPB2pybsOaXzuhCxRY0cyTMocVPjy9Bsptw-Ai1nHjeIsAymV-ZU6Mnbii_Qb-32bBMpLC1equH8CDZjgk3iKqLZYeX9iO8sy2b6Sss6eNk962l_vfHojvYJhisX1ftsqaLCz1o0AztYnxZur0sfwgggnqQZP7SnEU3Qm1_7M8s5J6jLK_GL64q-pPRc0rUVyBS1bPgfIEd_xI2SfOA4MEgfst3kpnRbVshZNiFsSkKE_BwPqz8-tUKq-jWWjVpwKVHyXAZDPsyNzvLmIfC1YDSVbTXZbesvjsUd3HNB3JCaX2W94Qb6XYgUzX8DluQJohZHX2Mxw5X1WqpYGonYynsnYU28hPZSulZA9A_xW4-Ql9NuXdpW68mEt3WxyLOtx64scHZBEYhNIU-X_GPAbcHdLtzeYHnQJEbNWtfeiB9Qtvh3qyJ1V8My-TVtyYijAX7pKCxsr-Q7cnxOJC9mm2ceHdG0QxIeLTlonryyEQDc-jpsqT-t9bvSh-7UrBeQppAD3Q6wFMbYbSItDJFJ9Vn0EQ8-iBGvIF9yxs4ExGp4SwlIw1c1zfJ177l3rB-a3pzkUHldKqrHxl8x4vILNJeXhh_EGRiksaDKz945w30v66_bGzCDUK_L9c-n_tXMMx8ggOYvfEg9MvNF2o3pJYxWxqnOjW668DsZoQQH0IcQnis5UcPRqpUjbE0cwnaXTgonJsGJ9dNHPgbaD0vtayCQIEhXhPs1-0E6Xn67mxiCCoXe-d4r7jajuTxlVWaNEysY8hSC8RfjV8t69wkCo-L-OlS9Y3DQUDmVBEFDZ103Ry0zaDVfJlTrZuwYNprCxURjQc1AAX_Ace9-f94HCKj5Utq912Wz-zaUUBwrMsXSHD9x7O0N06ULaK6DSA==) **** page.
+
+
+Compass’ management will be available for one-on-one meetings during all events. Interested investors should contact their respective representatives to request meetings.
+
+
+**About Compass Therapeutics**
+Compass Therapeutics, Inc. was founded in 2014 and is headquartered in Boston, MA. Compass is a clinical-stage, oncology-focused biopharmaceutical company discovering and developing proprietary antibody-based therapeutics to treat multiple diseases. The company’s scientific focus is on the relationship between angiogenesis, the immune system and tumor growth. Compass has a robust pipeline of novel product candidates designed to target multiple key biological pathways to drive an effective anti-tumor response, including angiogenesis modulation, immune activation within the tumor microenvironment, and reduction of tumor-driven immunosuppression. The company is advancing discovery candidates through clinical development to commercial-stage assets. For more information, visit[www.compasstherapeutics.com](https://www.globenewswire.com/Tracker?data=SuScQFawC3oprPfGPqOoPH_dMQ8Ihyg1hx7wAtpJwfjfPRxFncRmDh_78YmmySt5jxEH6THmzvaQUoOY34RDH1YiuUB6MtnirPenZ6Q4q6oItYI0zLE3OZAZL7Kj1YQ5) .
+
+
+**Investor Contact**
+[ir@compasstherapeutics.com](https://www.globenewswire.com/Tracker?data=FIN9czxkc2HIxnEh7bYDNXeaf_xtscA3CqtKwieJexB702D03hwT9NNjM9b85Jzx43s_E2ynI5WMj2aa1zWh12vY-Hs7DqyfdFe0vW_pTiiIANXS1IiipxCtf5Yjx-ILBsJ9b8BQFUgzsDRk5gjuAfJkVMgPXUUnQknHCBYl7VBiDzQwF7IVsA8AwMVIjdrRyV2d8ztrSwEKbup2m1W68QDQmz1voFXNF9O11_eAbgblt6kbeW1mgJMTvRsclV0BOQ0vWnTam_4OTj91145oCL1irQ4C_FPDptSNr9rac-U=)
+
+
+**Media Contact**
+Anna Gifford, Chief of Staff
+[media@compasstherapeutics.com](https://www.globenewswire.com/Tracker?data=b2uDAMSxPEefN_tbj-mz4V8WCM4AjpAKIm2BJZ-m7Ou8EUJANCtuNvTtPVfv6hI3iq6omhuA7R29Mbq36F6_DrvcSWUO_SNuOdjoLKOEFQDHHpEBqmUays36GoE9McfZpCCFMedxG3vgNVfccIx63vD7pPyRQtWgNLOLzz0nQcACJP7g5kgm1BWBqPvXTRY-BAx3lNWlEYr1Rcxy05OXkuRl6I6IU9lkx-CiKNRbG7O9M6hs1jDDNCE6eIJ1wfwRBkyKpmkgc0AbIWIE5ENnNixUjt06rVfUH84kj6rfBEhROHlWFtjUM_IDGidze5eA)
+617-500-8099

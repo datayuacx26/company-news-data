@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5da478ee6b00a5e5935a8fca294443c25270691c887c0a8b1b42f0c3800a1645",
+  "company": {
+    "key": "yc-quilt-data",
+    "name": "Quilt Data"
+  },
+  "source": {
+    "id": "yc-quilt-data-rss-730eaa07f229",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.quilt.bio/tamper-evident-ngs-provenance-s3",
+    "canonical": "https://blog.quilt.bio/tamper-evident-ngs-provenance-s3"
+  },
+  "title": "How to Build Tamper-Evident NGS Provenance on S3",
+  "summary": "A working implementation for cryptographically signed, versioned provenance for NGS outputs stored in Amazon S3, using the Quilt Data Platform alongside AWS-native controls.",
+  "published_at": "2026-05-12T22:06:58+00:00",
+  "first_seen_at": "2026-07-25T20:21:21.106413+00:00",
+  "fetched_at": "2026-07-28T22:13:25.865061+00:00",
+  "last_updated_at": "2026-08-20T01:23:50.925150+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-quilt-data/2026/05/5d/5da478ee6b00a5e5935a8fca294443c25270691c887c0a8b1b42f0c3800a1645/article.md",
+    "record": "articles/v1/cc/yc-quilt-data/2026/05/5d/5da478ee6b00a5e5935a8fca294443c25270691c887c0a8b1b42f0c3800a1645/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11747,
+    "sha256": "sha256:9a0966e288fd7c3e91e1f66e990bce46bc9e6d04ae6ed45313716ae5d1636acd",
+    "normalized_content_hash": "sha256:4ccfa849aa8e24cce3e46b5c1a629bd15d23d5714dbe16a196768a787a0bdd8c"
+  },
+  "provenance": {
+    "source_item_id": "8f399543-8195-430d-a6ac-15b2e09f58dd",
+    "external_id": "https://blog.quilt.bio/tamper-evident-ngs-provenance-s3"
+  }
+}

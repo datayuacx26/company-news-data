@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7bea33501063eef89bf72ec659f48ae29d65a6756dea06d9d5619a9e05b9ae2c",
+  "company": {
+    "key": "yc-unbound",
+    "name": "Unbound"
+  },
+  "source": {
+    "id": "yc-unbound-news-import-958423178c7b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://getunbound.ai/blog/aws-kiro-missing-control-plane",
+    "canonical": "https://getunbound.ai/blog/aws-kiro-missing-control-plane"
+  },
+  "title": "AWS Kiro Didn't Just Delete an Environment. It Exposed the Missing Control Plane for AI Coding Agents.",
+  "summary": "A reported December 2025 AWS incident involving the Kiro AI coding agent turned a small software fix into a 13-hour outage. The strategic lesson: enterprises need a dedicated governance layer between AI coding agents and the systems they can change.",
+  "published_at": "2026-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T05:53:51.023478+00:00",
+  "fetched_at": "2026-07-28T21:56:54.694470+00:00",
+  "last_updated_at": "2026-08-19T20:15:46.220265+00:00",
+  "paths": {
+    "article": "articles/v1/f3/yc-unbound/2026/03/7b/7bea33501063eef89bf72ec659f48ae29d65a6756dea06d9d5619a9e05b9ae2c/article.md",
+    "record": "articles/v1/f3/yc-unbound/2026/03/7b/7bea33501063eef89bf72ec659f48ae29d65a6756dea06d9d5619a9e05b9ae2c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9888,
+    "sha256": "sha256:aff1576d4c577b038a76bffef8084726dd726978aaf3689ca13099a40d92964d",
+    "normalized_content_hash": "sha256:e0afef065ecf9004e4d0d190c7d1964c869c5e202d3ab4deb0e4f87a3dcc5e53"
+  },
+  "provenance": {
+    "source_item_id": "5ff97fa5-da5d-4b99-9411-ad436c54edb9",
+    "external_id": "https://getunbound.ai/blog/aws-kiro-missing-control-plane"
+  }
+}

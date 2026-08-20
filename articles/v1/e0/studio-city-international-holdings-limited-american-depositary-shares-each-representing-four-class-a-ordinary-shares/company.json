@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "studio-city-international-holdings-limited-american-depositary-shares-each-representing-four-class-a-ordinary-shares",
+    "name": "Studio City International Holdings Limited"
+  },
+  "record_count": 12,
+  "first_published_at": "2025-11-06T13:11:55+00:00",
+  "last_published_at": "2026-08-13T12:02:23+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e0/studio-city-international-holdings-limited-american-depositary-shares-each-representing-four-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 20378,
+        "sha256": "sha256:418a505cba4452312845f13f43fd062e245fd8568b8b4904b70ffbd3464ad368",
+        "newest_at": "2026-08-13T12:02:23+00:00",
+        "oldest_at": "2025-11-06T13:11:55+00:00"
+      }
+    ]
+  }
+}

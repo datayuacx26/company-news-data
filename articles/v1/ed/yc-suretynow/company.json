@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-suretynow",
+    "name": "SuretyNow"
+  },
+  "record_count": 35,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 35
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ed/yc-suretynow/index/pages/000001.json",
+        "record_count": 35,
+        "byte_count": 36276,
+        "sha256": "sha256:a7e7847dbffb82193e830be35766bad497ad631c2d855eb9c5738191acb49af0",
+        "newest_at": "2026-07-28T21:35:55.789196+00:00",
+        "oldest_at": "2026-07-28T21:16:48.751829+00:00"
+      }
+    ]
+  }
+}

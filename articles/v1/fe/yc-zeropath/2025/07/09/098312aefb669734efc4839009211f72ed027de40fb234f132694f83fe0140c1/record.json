@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "098312aefb669734efc4839009211f72ed027de40fb234f132694f83fe0140c1",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/idor-crisis-2025",
+    "canonical": "https://zeropath.com/blog/idor-crisis-2025"
+  },
+  "title": "Authorization Bugs Are Having Their SQL Injection Moment",
+  "summary": "GitLab patched critical auth bugs. McDonald's leaked 64M records through a basic IDOR. Authorization bugs aren't new but AI can now find them at scale. We turned LLMs loose on modern codebases and discovered why 2025 is the year IDORs go from manual pentest finding to automated epidemic.",
+  "published_at": "2025-07-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T21:27:44.796938+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2025/07/09/098312aefb669734efc4839009211f72ed027de40fb234f132694f83fe0140c1/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2025/07/09/098312aefb669734efc4839009211f72ed027de40fb234f132694f83fe0140c1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10948,
+    "sha256": "sha256:ec075ec8ca11a8d4f9b6892e1eabab7a4fa60e0e6f40c732816ecf79fa89692b",
+    "normalized_content_hash": "sha256:7a278572ed4ca163d61297a68eccefb06990e8d4d7caaeab6e23602471bbe6e9"
+  },
+  "provenance": {
+    "source_item_id": "a4dbd4ad-1e37-44b3-aa1d-1446566de228",
+    "external_id": "https://zeropath.com/blog/idor-crisis-2025"
+  }
+}

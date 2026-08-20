@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f42d0a34f5c09303e089b527e133692c27343cdb99c7a80018283e280a244084",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-tool-calls-voice-agents",
+    "canonical": "https://roark.ai/blog/testing-tool-calls-voice-agents"
+  },
+  "title": "Testing tool calls in voice agents",
+  "summary": "Voice agents now book, refund, and update records mid-call. Here's how to test tool calls (functions, MCPs) end to end before your agent invents an argument on air.",
+  "published_at": "2026-07-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:07:13.352567+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-17T00:56:55.408656+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/07/f4/f42d0a34f5c09303e089b527e133692c27343cdb99c7a80018283e280a244084/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/07/f4/f42d0a34f5c09303e089b527e133692c27343cdb99c7a80018283e280a244084/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12414,
+    "sha256": "sha256:c06724c7fe979d12f965a5825ece666772fa0c74aad9ae1ffb7d431f557dc37b",
+    "normalized_content_hash": "sha256:224bcc21ad33cc8e359cd92f6717076e5c83d20a0ce94e5af095f10e591bd2dd"
+  },
+  "provenance": {
+    "source_item_id": "eb2ea3fb-2fdf-42d4-b580-31520d06db11",
+    "external_id": "https://roark.ai/blog/testing-tool-calls-voice-agents"
+  }
+}

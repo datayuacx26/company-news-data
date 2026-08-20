@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "597e953466c3b8011638ea50e6a573e6537038d166a40d9312798a44f9828e84",
+  "company": {
+    "key": "yc-rootly",
+    "name": "Rootly"
+  },
+  "source": {
+    "id": "yc-rootly-news-import-8d53140345fd",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://rootly.com/blog/why-we-got-rid-of-our-small-pr-rule",
+    "canonical": "https://rootly.com/blog/why-we-got-rid-of-our-small-pr-rule"
+  },
+  "title": "Why we got rid of our small-PR rule",
+  "summary": "Small PRs are great for humans, but not for AIs. Instead of focusing on diff size, we moved ot a risk-based model.",
+  "published_at": "2026-05-20T13:17:00+00:00",
+  "first_seen_at": "2026-07-24T00:13:28.618726+00:00",
+  "fetched_at": "2026-07-28T21:43:30.232286+00:00",
+  "last_updated_at": "2026-08-20T03:29:07.656540+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-rootly/2026/05/59/597e953466c3b8011638ea50e6a573e6537038d166a40d9312798a44f9828e84/article.md",
+    "record": "articles/v1/e1/yc-rootly/2026/05/59/597e953466c3b8011638ea50e6a573e6537038d166a40d9312798a44f9828e84/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8375,
+    "sha256": "sha256:55d7b926cd22f594d29011cc5ff95e0f90f97b96ce192c0ed639a88da51220b3",
+    "normalized_content_hash": "sha256:1aa0de6f0064807469eeb2f433f1f0c48f78b95d808e65aaf5b0db0d8227a736"
+  },
+  "provenance": {
+    "source_item_id": "c7210830-f403-4de5-9e2d-b2db1b3dd5a5",
+    "external_id": "https://rootly.com/blog/why-we-got-rid-of-our-small-pr-rule"
+  }
+}

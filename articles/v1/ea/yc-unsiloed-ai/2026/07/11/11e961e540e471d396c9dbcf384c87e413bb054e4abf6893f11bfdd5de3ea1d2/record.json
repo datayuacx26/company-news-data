@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "11e961e540e471d396c9dbcf384c87e413bb054e4abf6893f11bfdd5de3ea1d2",
+  "company": {
+    "key": "yc-unsiloed-ai",
+    "name": "Unsiloed AI"
+  },
+  "source": {
+    "id": "yc-unsiloed-ai-news-import-f01c67e8267b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.unsiloed.ai/blog/pdf-classification-routing-guide",
+    "canonical": "https://www.unsiloed.ai/blog/pdf-classification-routing-guide"
+  },
+  "title": "PDF Classification and Routing Guide (July 2026)",
+  "summary": "Classify and split PDFs before parsing to prevent schema mismatches in production pipelines. July 2026 technical implementation guide.",
+  "published_at": "2026-07-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:07:01.705483+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-20T03:12:47.029800+00:00",
+  "paths": {
+    "article": "articles/v1/ea/yc-unsiloed-ai/2026/07/11/11e961e540e471d396c9dbcf384c87e413bb054e4abf6893f11bfdd5de3ea1d2/article.md",
+    "record": "articles/v1/ea/yc-unsiloed-ai/2026/07/11/11e961e540e471d396c9dbcf384c87e413bb054e4abf6893f11bfdd5de3ea1d2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11883,
+    "sha256": "sha256:f3967159ec475dba581308f392b2808d533377cd66ac31c45e5fd30c0a426390",
+    "normalized_content_hash": "sha256:9737110402ef2894e139485b3fee6181c6f567274286cfee1190d31c2e9b6626"
+  },
+  "provenance": {
+    "source_item_id": "aaeba205-fd6f-435e-8ec0-b87e282854f4",
+    "external_id": "https://www.unsiloed.ai/blog/pdf-classification-routing-guide"
+  }
+}

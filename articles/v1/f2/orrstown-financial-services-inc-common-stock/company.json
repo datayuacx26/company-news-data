@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "orrstown-financial-services-inc-common-stock",
+    "name": "Orrstown Financial Services Inc."
+  },
+  "record_count": 10,
+  "first_published_at": "2026-01-06T21:37:00+00:00",
+  "last_published_at": "2026-07-21T20:05:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f2/orrstown-financial-services-inc-common-stock/index/pages/000001.json",
+        "record_count": 10,
+        "byte_count": 11700,
+        "sha256": "sha256:83e7d0242a05953e289f9a66214aca95e7ee6eea8106520f562aa0aa25248e3f",
+        "newest_at": "2026-07-21T20:05:00+00:00",
+        "oldest_at": "2026-01-06T21:37:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "turbo-energy-s-a-american-depositary-shares",
+    "name": "Turbo Energy S.A."
+  },
+  "record_count": 17,
+  "first_published_at": "2025-10-08T08:00:42+00:00",
+  "last_published_at": "2026-06-25T15:03:30+00:00",
+  "partitions": [
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ef/turbo-energy-s-a-american-depositary-shares/index/pages/000001.json",
+        "record_count": 17,
+        "byte_count": 26904,
+        "sha256": "sha256:f89fedb6ad77f8a56c23354a280da661a5f3a227afde4a14910b42819e79510f",
+        "newest_at": "2026-06-25T15:03:30+00:00",
+        "oldest_at": "2025-10-08T08:00:42+00:00"
+      }
+    ]
+  }
+}

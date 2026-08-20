@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "belive-holdings-ordinary-share",
+    "name": "BeLive Holdings Ordinary Share"
+  },
+  "record_count": 22,
+  "first_published_at": "2022-06-20T16:00:18+00:00",
+  "last_published_at": "2026-08-07T09:15:49+00:00",
+  "partitions": [
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/f9/belive-holdings-ordinary-share/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 25581,
+        "sha256": "sha256:7d6ebfdfcd614d3bcda769df41103d5edbf3a7ecbbef9f24c0c87fc25d848842",
+        "newest_at": "2026-08-07T09:15:49+00:00",
+        "oldest_at": "2022-06-20T16:00:18+00:00"
+      }
+    ]
+  }
+}

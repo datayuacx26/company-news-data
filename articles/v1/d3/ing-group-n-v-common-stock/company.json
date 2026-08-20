@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "ing-group-n-v-common-stock",
+    "name": "ING Group N.V."
+  },
+  "record_count": 18,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 14
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/d3/ing-group-n-v-common-stock/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 16590,
+        "sha256": "sha256:eeac2e8f180e8c692f8723fa2f3ddf062c04f50c7d8f409918490bfe47ad83d7",
+        "newest_at": "2026-08-20T00:14:37.811675+00:00",
+        "oldest_at": "2026-07-28T21:20:58.380206+00:00"
+      }
+    ]
+  }
+}

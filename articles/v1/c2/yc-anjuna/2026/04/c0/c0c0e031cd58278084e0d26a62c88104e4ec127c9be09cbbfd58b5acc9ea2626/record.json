@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c0c0e031cd58278084e0d26a62c88104e4ec127c9be09cbbfd58b5acc9ea2626",
+  "company": {
+    "key": "yc-anjuna",
+    "name": "Anjuna"
+  },
+  "source": {
+    "id": "yc-anjuna-news-import-d3424cd26fcb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.anjuna.io/blog/the-agent-was-trusted-it-shouldnt-have-been",
+    "canonical": "https://www.anjuna.io/blog/the-agent-was-trusted-it-shouldnt-have-been"
+  },
+  "title": "The Agent Was Trusted. It Shouldn't Have Been.",
+  "summary": "A high-profile AI supply chain breach exposed two governance gaps: ungoverned agents holding enterprise credentials, and no blast-radius containment when those credentials were stolen. Here's how Anjuna AI Overwatch and Seaglass close both.",
+  "published_at": "2026-04-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T16:50:44.532118+00:00",
+  "fetched_at": "2026-07-28T21:25:35.830406+00:00",
+  "last_updated_at": "2026-08-04T20:11:10.303552+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-anjuna/2026/04/c0/c0c0e031cd58278084e0d26a62c88104e4ec127c9be09cbbfd58b5acc9ea2626/article.md",
+    "record": "articles/v1/c2/yc-anjuna/2026/04/c0/c0c0e031cd58278084e0d26a62c88104e4ec127c9be09cbbfd58b5acc9ea2626/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8209,
+    "sha256": "sha256:2739c7c814596eccf77a7ca301d33acbc8347808f99cf4a65b487c0d9a1b7674",
+    "normalized_content_hash": "sha256:708c545ccaf60244d7e4ccedbb816f88514a7bb2ea1153ed6e45b13b1a87497d"
+  },
+  "provenance": {
+    "source_item_id": "20694d2f-5ba1-4407-9606-19be9930154e",
+    "external_id": "https://www.anjuna.io/blog/the-agent-was-trusted-it-shouldnt-have-been"
+  }
+}

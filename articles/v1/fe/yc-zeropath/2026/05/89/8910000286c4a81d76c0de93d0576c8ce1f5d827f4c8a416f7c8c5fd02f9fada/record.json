@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8910000286c4a81d76c0de93d0576c8ce1f5d827f4c8a416f7c8c5fd02f9fada",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/ai-coding-assistants-are-not-sast",
+    "canonical": "https://zeropath.com/blog/ai-coding-assistants-are-not-sast"
+  },
+  "title": "AI Coding Assistants Are Not a SAST Program",
+  "summary": "AI coding assistants can catch narrow, inner-loop security issues, but they do not replace full-codebase coverage, stable issue tracking, workflow integrations, and broader AppSec controls.",
+  "published_at": "2026-05-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:50:52.708520+00:00",
+  "fetched_at": "2026-07-28T22:13:03.870884+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/05/89/8910000286c4a81d76c0de93d0576c8ce1f5d827f4c8a416f7c8c5fd02f9fada/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/05/89/8910000286c4a81d76c0de93d0576c8ce1f5d827f4c8a416f7c8c5fd02f9fada/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18691,
+    "sha256": "sha256:fd415d636e97a96ac7509f0f507cb54d17ba1d843dea5149300ee819698428ce",
+    "normalized_content_hash": "sha256:7b5185f1e96f9a492a9c3294da252364df52cdd6d08f5c281c0983ba63054eec"
+  },
+  "provenance": {
+    "source_item_id": "821ff302-2a3b-4325-aba6-a4b4c3d04978",
+    "external_id": "https://zeropath.com/blog/ai-coding-assistants-are-not-sast"
+  }
+}

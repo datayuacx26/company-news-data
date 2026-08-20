@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1d6cde3c5f74c866229cc8867ce2f229aa2187613dc3a559855c82709df6a1d",
+  "company": {
+    "key": "yc-kaelio",
+    "name": "Kaelio"
+  },
+  "source": {
+    "id": "yc-kaelio-news-import-d43a8938b457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kaelio.com/blog/context-layer-vs-semantic-layer-why-you-need-both-for-ai",
+    "canonical": "https://www.kaelio.com/blog/context-layer-vs-semantic-layer-why-you-need-both-for-ai"
+  },
+  "title": "Context Layer vs. Semantic Layer: Why You Need Both for Trustworthy AI Analytics",
+  "summary": "Learn the differences between context layers and semantic layers, why semantic layers alone are insufficient for AI agents, and how ktx bridges the gap with governed context that includes schema, lineage, metrics, dashboard logic, and domain knowledge.",
+  "published_at": "2026-04-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:08:24.751270+00:00",
+  "fetched_at": "2026-07-28T21:56:48.286898+00:00",
+  "last_updated_at": "2026-08-20T00:20:28.214979+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-kaelio/2026/04/b1/b1d6cde3c5f74c866229cc8867ce2f229aa2187613dc3a559855c82709df6a1d/article.md",
+    "record": "articles/v1/c7/yc-kaelio/2026/04/b1/b1d6cde3c5f74c866229cc8867ce2f229aa2187613dc3a559855c82709df6a1d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 30971,
+    "sha256": "sha256:0a0b8b2a798ab8417a7f9850e9027b8fe978ce3f80d87f9559b16e7043033c74",
+    "normalized_content_hash": "sha256:008f7f2624f45cf3c8505a4dd3807ad71bd73fa497089ddbc6ad010ae3ef888e"
+  },
+  "provenance": {
+    "source_item_id": "a2e0cfed-4d32-4a16-8c6f-a6662b790736",
+    "external_id": "https://www.kaelio.com/blog/context-layer-vs-semantic-layer-why-you-need-both-for-ai"
+  }
+}

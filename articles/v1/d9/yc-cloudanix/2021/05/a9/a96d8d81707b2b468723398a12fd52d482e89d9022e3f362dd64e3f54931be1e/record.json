@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a96d8d81707b2b468723398a12fd52d482e89d9022e3f362dd64e3f54931be1e",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/top-16-aws-s3-misconfigurations-to-avoid-in-2023/",
+    "canonical": "https://www.cloudanix.com/blog/top-16-aws-s3-misconfigurations-to-avoid-in-2023/"
+  },
+  "title": "Top 16 AWS S3 Misconfigurations To Avoid in 2023",
+  "summary": "Fix 16 common AWS S3 misconfigurations including public access, missing encryption, insecure transport, and overly permissive ACLs to meet compliance standards.",
+  "published_at": "2021-05-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:04:52.597445+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2021/05/a9/a96d8d81707b2b468723398a12fd52d482e89d9022e3f362dd64e3f54931be1e/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2021/05/a9/a96d8d81707b2b468723398a12fd52d482e89d9022e3f362dd64e3f54931be1e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8008,
+    "sha256": "sha256:d4c4ef1ac9f10a63c3211af04100eb08e4bb622507da90737807ab35463b1d5e",
+    "normalized_content_hash": "sha256:3e94ce0fc37c892f851ed594058fe9b1b10a91182ccedcba93b6a88d04de497f"
+  },
+  "provenance": {
+    "source_item_id": "14a346d6-d246-4264-b970-a696ac626768",
+    "external_id": "https://www.cloudanix.com/blog/top-16-aws-s3-misconfigurations-to-avoid-in-2023/"
+  }
+}

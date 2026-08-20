@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "aureus-greenway-holdings-inc-common-stock",
+    "name": "Aureus Greenway Holdings Inc."
+  },
+  "record_count": 8,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 8
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/de/aureus-greenway-holdings-inc-common-stock/index/pages/000001.json",
+        "record_count": 8,
+        "byte_count": 8603,
+        "sha256": "sha256:0c896349f6802cb77b9a472879577d682ff2fa7eb3c6798e45c6ca9fc414d000",
+        "newest_at": "2026-07-28T21:38:29.998390+00:00",
+        "oldest_at": "2026-07-28T21:21:00.620727+00:00"
+      }
+    ]
+  }
+}

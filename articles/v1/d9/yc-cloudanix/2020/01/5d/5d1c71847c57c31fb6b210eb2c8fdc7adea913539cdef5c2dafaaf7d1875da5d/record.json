@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5d1c71847c57c31fb6b210eb2c8fdc7adea913539cdef5c2dafaaf7d1875da5d",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/a-detailed-guide-on-deploying-a-web-application-on-google-cloud-run/",
+    "canonical": "https://www.cloudanix.com/blog/a-detailed-guide-on-deploying-a-web-application-on-google-cloud-run/"
+  },
+  "title": "A detailed guide on deploying a web application on Google Cloud Run",
+  "summary": "Step-by-step guide to deploying a web app on Google Cloud Run using Cloud Build, Cloud SQL, KMS, and Docker. Includes code samples and config files.",
+  "published_at": "2020-01-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T22:26:49.714113+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2020/01/5d/5d1c71847c57c31fb6b210eb2c8fdc7adea913539cdef5c2dafaaf7d1875da5d/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2020/01/5d/5d1c71847c57c31fb6b210eb2c8fdc7adea913539cdef5c2dafaaf7d1875da5d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8046,
+    "sha256": "sha256:bd75a0e9075cca05352c29bc9556f7d3ba83cc42c1784483e4665e458917bad1",
+    "normalized_content_hash": "sha256:98bf8204e2e2b0111b4aa616cad05954ac8aa9f07349ae1797398fb9339f2254"
+  },
+  "provenance": {
+    "source_item_id": "6c801b5e-e4ea-4d67-a305-05fca59ea6bb",
+    "external_id": "https://www.cloudanix.com/blog/a-detailed-guide-on-deploying-a-web-application-on-google-cloud-run/"
+  }
+}

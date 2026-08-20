@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7fec9c954619ff8f0da606dfdd34e0d8a3d2b474e717eede9e8cebdae2e5c7e9",
+  "company": {
+    "key": "yc-sim",
+    "name": "Sim"
+  },
+  "source": {
+    "id": "yc-sim-rss-f4bc2e85e2b3",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.sim.ai/blog/agent-as-yjs-peer",
+    "canonical": "https://www.sim.ai/blog/agent-as-yjs-peer"
+  },
+  "title": "The Agent Is Just Another Peer",
+  "summary": "How we let an AI agent write into a live collaborative document by making it an ordinary Yjs peer, and the things that turned out to be easy, hard, and surprising.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-05T05:11:13.760710+00:00",
+  "fetched_at": "2026-08-05T05:11:15.688907+00:00",
+  "last_updated_at": "2026-08-20T00:32:58.308328+00:00",
+  "paths": {
+    "article": "articles/v1/e1/yc-sim/2026/08/7f/7fec9c954619ff8f0da606dfdd34e0d8a3d2b474e717eede9e8cebdae2e5c7e9/article.md",
+    "record": "articles/v1/e1/yc-sim/2026/08/7f/7fec9c954619ff8f0da606dfdd34e0d8a3d2b474e717eede9e8cebdae2e5c7e9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15608,
+    "sha256": "sha256:d211a515f5e3b547bab1f9620088764cf957eefac2d1cac359ed9b19912de1d0",
+    "normalized_content_hash": "sha256:f58e7b44ac179102a046da299b38aa9f3b2c3e75aae19dbd9255ebb06bb39d79"
+  },
+  "provenance": {
+    "source_item_id": "fa3be8c4-420e-4b1c-8211-dd1201ab311d",
+    "external_id": "https://www.sim.ai/blog/agent-as-yjs-peer"
+  }
+}

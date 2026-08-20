@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fd82a72bdab76919cee61eac9f0e3ffd3251a187fcc6dfd2aca9f4fa6837ec74",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-voice-agents-that-take-payments",
+    "canonical": "https://roark.ai/blog/testing-voice-agents-that-take-payments"
+  },
+  "title": "Testing voice agents that take payments over the phone",
+  "summary": "PCI-compliant voice payments are now table stakes. Here's the pre-launch test suite, the live-call metrics, and the failure modes that hide inside \"successful\" calls.",
+  "published_at": "2026-08-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-11T21:21:45.043968+00:00",
+  "fetched_at": "2026-08-11T21:21:46.377796+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/fd/fd82a72bdab76919cee61eac9f0e3ffd3251a187fcc6dfd2aca9f4fa6837ec74/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/fd/fd82a72bdab76919cee61eac9f0e3ffd3251a187fcc6dfd2aca9f4fa6837ec74/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11237,
+    "sha256": "sha256:b6c1b5d6045d5bdcb35ae3845fd24788a6b806a56921e512ff774551c4648a9f",
+    "normalized_content_hash": "sha256:51cd125e2b18f0a431b2beaa6056653f2ffd5120191c672ddc2b95af4cd7ecd2"
+  },
+  "provenance": {
+    "source_item_id": "3a897747-73fd-466a-8f03-e45e93b9690b",
+    "external_id": "https://roark.ai/blog/testing-voice-agents-that-take-payments"
+  }
+}

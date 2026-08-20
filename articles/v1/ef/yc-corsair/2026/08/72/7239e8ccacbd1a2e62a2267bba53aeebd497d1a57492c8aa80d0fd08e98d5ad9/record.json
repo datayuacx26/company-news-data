@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7239e8ccacbd1a2e62a2267bba53aeebd497d1a57492c8aa80d0fd08e98d5ad9",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/building-ai-agents-without-integration-debt",
+    "canonical": "https://corsair.dev/blog/building-ai-agents-without-integration-debt"
+  },
+  "title": "Building AI Agents Without the Integration Debt: Why Integration Platforms Matter",
+  "summary": "Learn why integration platforms are essential for production AI agents. Discover how they simplify authentication, credential management, observability, retries, MCP support, and API integrations while reducing engineering overhead.",
+  "published_at": "2026-08-06T11:30:00+00:00",
+  "first_seen_at": "2026-08-06T19:49:55.996083+00:00",
+  "fetched_at": "2026-08-06T19:49:57.733739+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/08/72/7239e8ccacbd1a2e62a2267bba53aeebd497d1a57492c8aa80d0fd08e98d5ad9/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/08/72/7239e8ccacbd1a2e62a2267bba53aeebd497d1a57492c8aa80d0fd08e98d5ad9/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15096,
+    "sha256": "sha256:733cb7cd03162daa9be9e6f31a01949124c873752552324891161d1884788b1c",
+    "normalized_content_hash": "sha256:76b9be5d15d54a3f4b92f8f191438c49fdc8950fefb124b52fc7104d456b547b"
+  },
+  "provenance": {
+    "source_item_id": "f8fa509d-915b-4ef8-b819-5b4be6ff3301",
+    "external_id": "https://corsair.dev/blog/building-ai-agents-without-integration-debt"
+  }
+}

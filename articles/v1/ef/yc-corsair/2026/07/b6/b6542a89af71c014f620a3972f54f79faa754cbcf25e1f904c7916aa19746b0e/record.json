@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b6542a89af71c014f620a3972f54f79faa754cbcf25e1f904c7916aa19746b0e",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/api-key-management-best-practices-multi-tenant-apps",
+    "canonical": "https://corsair.dev/blog/api-key-management-best-practices-multi-tenant-apps"
+  },
+  "title": "API Key Management Best Practices for Multi-Tenant Apps",
+  "summary": "API keys pile up quietly across config files, CI pipelines, and third party dashboards until one overlooked key exposes more than a single account. This guide covers scoping, rotation, and what changes once AI agents start acting on your users' behalf.",
+  "published_at": "2026-07-24T12:54:00+00:00",
+  "first_seen_at": "2026-07-26T18:26:28.761597+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/b6/b6542a89af71c014f620a3972f54f79faa754cbcf25e1f904c7916aa19746b0e/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/b6/b6542a89af71c014f620a3972f54f79faa754cbcf25e1f904c7916aa19746b0e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11143,
+    "sha256": "sha256:4bdf04d96f2272f480e35c936771e7eef53201b9b288978c49098a0909ad7107",
+    "normalized_content_hash": "sha256:20d0d432e0cbd1405b78d812e4a9711fdb2646e4c861242bfc1de42943d94044"
+  },
+  "provenance": {
+    "source_item_id": "aae1393c-007c-400f-ad84-5ddcba0590cf",
+    "external_id": "https://corsair.dev/blog/api-key-management-best-practices-multi-tenant-apps"
+  }
+}

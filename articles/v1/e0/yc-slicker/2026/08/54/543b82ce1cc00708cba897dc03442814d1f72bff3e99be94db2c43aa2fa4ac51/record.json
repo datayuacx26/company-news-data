@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "543b82ce1cc00708cba897dc03442814d1f72bff3e99be94db2c43aa2fa4ac51",
+  "company": {
+    "key": "yc-slicker",
+    "name": "Slicker"
+  },
+  "source": {
+    "id": "yc-slicker-news-import-4c2e7cff2c72",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.slickerhq.com/resources/blog/payment-decline-code-mapping-adyen-stripe-checkout",
+    "canonical": "https://www.slickerhq.com/resources/blog/payment-decline-code-mapping-adyen-stripe-checkout"
+  },
+  "title": "Adyen vs Stripe vs Checkout.com: Decline Codes (Aug 2026)",
+  "summary": "Your payment stack might be multi-gateway, but your decline data probably isn't consistent across all of it. A stolen card comes back as stolen_card in ...",
+  "published_at": "2026-08-17T09:14:04.215+00:00",
+  "first_seen_at": "2026-08-17T19:13:39.534867+00:00",
+  "fetched_at": "2026-08-17T19:13:41.624605+00:00",
+  "last_updated_at": "2026-08-20T03:22:16.787490+00:00",
+  "paths": {
+    "article": "articles/v1/e0/yc-slicker/2026/08/54/543b82ce1cc00708cba897dc03442814d1f72bff3e99be94db2c43aa2fa4ac51/article.md",
+    "record": "articles/v1/e0/yc-slicker/2026/08/54/543b82ce1cc00708cba897dc03442814d1f72bff3e99be94db2c43aa2fa4ac51/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 21958,
+    "sha256": "sha256:bf37fbe6dd4a76ddd5117b6177d1df5ef6205523f80ff1635361bb59b20691ef",
+    "normalized_content_hash": "sha256:a40e38ff6b43cb4615c7a3b453883de8c7fad4d408645f34545602cb82800af0"
+  },
+  "provenance": {
+    "source_item_id": "d95950bc-9a96-4f7c-bfad-cb02af65e179",
+    "external_id": "https://www.slickerhq.com/resources/blog/payment-decline-code-mapping-adyen-stripe-checkout"
+  }
+}

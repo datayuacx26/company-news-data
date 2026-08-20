@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+  "page": 1,
+  "record_count": 3,
+  "items": [
+    {
+      "schema_version": "1.0.0",
+      "document_id": "290ecb1939dce4f0d5d562f76c7b983709031660cdfefe9511d589516d5ffd5c",
+      "company_key": "yc-crosslayer-labs",
+      "company_name": "Crosslayer Labs",
+      "source_id": "yc-crosslayer-labs-news-import-1ff9699339a9",
+      "source_kind": "html",
+      "canonical_url": "https://www.crosslayerlabs.com/blog/open-ai-hugging-face-sandbox",
+      "title": "Potential Weaknesses in the OpenAI Sandbox that Could Have Contributed to the Hugging Face Incident",
+      "summary": "OpenAI's postmortem describes an agent that was sandboxed except for a package proxy that could fetch software from the Internet. That proxy sat in a bridge position between two networks, an architecture Princeton's security team would not tolerate on their own network years ago.",
+      "published_at": "2026-07-31T00:00:00+00:00",
+      "fetched_at": "2026-08-05T03:48:28.288743+00:00",
+      "article_path": "articles/v1/db/yc-crosslayer-labs/2026/07/29/290ecb1939dce4f0d5d562f76c7b983709031660cdfefe9511d589516d5ffd5c/article.md",
+      "record_path": "articles/v1/db/yc-crosslayer-labs/2026/07/29/290ecb1939dce4f0d5d562f76c7b983709031660cdfefe9511d589516d5ffd5c/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "c3d3a951b4fc627e80b51c726aac0e094293e2c7324543f30e63e8d1e23431ab",
+      "company_key": "yc-crosslayer-labs",
+      "company_name": "Crosslayer Labs",
+      "source_id": "yc-crosslayer-labs-news-import-1ff9699339a9",
+      "source_kind": "html",
+      "canonical_url": "https://www.crosslayerlabs.com/blog/an-inflection-point-in-the-web-pki",
+      "title": "An Inflection Point in the web PKI",
+      "summary": "The web PKI underwrites every HTTPS connection on the modern internet, but quantum computing and AI agents are stretching its architecture past its limits. The path forward is a new application-layer PKI stacked on top — not a clean-slate replacement.",
+      "published_at": "2026-06-15T00:00:00+00:00",
+      "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+      "article_path": "articles/v1/db/yc-crosslayer-labs/2026/06/c3/c3d3a951b4fc627e80b51c726aac0e094293e2c7324543f30e63e8d1e23431ab/article.md",
+      "record_path": "articles/v1/db/yc-crosslayer-labs/2026/06/c3/c3d3a951b4fc627e80b51c726aac0e094293e2c7324543f30e63e8d1e23431ab/record.json"
+    },
+    {
+      "schema_version": "1.0.0",
+      "document_id": "ab1198ebfb7ca26b5a17669079e17a6e107eb289722e84658a59eb484e800390",
+      "company_key": "yc-crosslayer-labs",
+      "company_name": "Crosslayer Labs",
+      "source_id": "yc-crosslayer-labs-news-import-1ff9699339a9",
+      "source_kind": "html",
+      "canonical_url": "https://www.crosslayerlabs.com/blog/the-future-of-domain-control-validation",
+      "title": "The future of Domain Control Validation (a.k.a. Why you should use DNS persist today)",
+      "summary": "Domain control validation is changing and its important to adopt technologies now that will scale and strengthen the future security of the PKI.",
+      "published_at": "2026-02-09T00:00:00+00:00",
+      "fetched_at": "2026-07-28T22:21:23.355424+00:00",
+      "article_path": "articles/v1/db/yc-crosslayer-labs/2026/02/ab/ab1198ebfb7ca26b5a17669079e17a6e107eb289722e84658a59eb484e800390/article.md",
+      "record_path": "articles/v1/db/yc-crosslayer-labs/2026/02/ab/ab1198ebfb7ca26b5a17669079e17a6e107eb289722e84658a59eb484e800390/record.json"
+    }
+  ]
+}

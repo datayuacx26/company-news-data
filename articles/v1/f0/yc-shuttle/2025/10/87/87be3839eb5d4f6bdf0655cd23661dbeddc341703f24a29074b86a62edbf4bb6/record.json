@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "87be3839eb5d4f6bdf0655cd23661dbeddc341703f24a29074b86a62edbf4bb6",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/10/21/github-integration",
+    "canonical": "https://www.shuttle.dev/blog/2025/10/21/github-integration"
+  },
+  "title": "From Push to Production: Deploy from GitHub with Shuttle",
+  "summary": "Deploy Rust applications directly from GitHub to Shuttle with automatic builds and deployments. No CLI, no manual redeploys - just git push and go.",
+  "published_at": "2025-10-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T20:55:41.466450+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/10/87/87be3839eb5d4f6bdf0655cd23661dbeddc341703f24a29074b86a62edbf4bb6/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/10/87/87be3839eb5d4f6bdf0655cd23661dbeddc341703f24a29074b86a62edbf4bb6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4801,
+    "sha256": "sha256:a9c40b9151d62abe4941f036c8e2d28e67397d4c1c08f5fd9fa750b477c9f257",
+    "normalized_content_hash": "sha256:d32c74a2fc3d1ee0fad4506db6d51043716f75aa4f2d33f9c46346217aca66bb"
+  },
+  "provenance": {
+    "source_item_id": "4b6ed672-363d-4b56-bd35-fd638ce7a842",
+    "external_id": "https://www.shuttle.dev/blog/2025/10/21/github-integration"
+  }
+}

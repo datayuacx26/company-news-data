@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-safebeat",
+    "name": "SafeBeat"
+  },
+  "record_count": 11,
+  "first_published_at": "2023-06-09T20:38:49+00:00",
+  "last_published_at": "2026-07-22T09:41:17+00:00",
+  "partitions": [
+    {
+      "partition": "2023-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 6
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c9/yc-safebeat/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 14776,
+        "sha256": "sha256:b182d5951a8121bf03b04edb9dd46a683f92a74f8901195beb5290c4ff069fe5",
+        "newest_at": "2026-07-22T09:41:17+00:00",
+        "oldest_at": "2023-06-09T20:38:49+00:00"
+      }
+    ]
+  }
+}

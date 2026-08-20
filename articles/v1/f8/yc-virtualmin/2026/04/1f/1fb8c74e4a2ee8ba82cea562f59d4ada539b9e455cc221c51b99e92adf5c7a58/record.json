@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fb8c74e4a2ee8ba82cea562f59d4ada539b9e455cc221c51b99e92adf5c7a58",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/wp-workbench-version-2-1-2-released/136980",
+    "canonical": "https://forum.virtualmin.com/t/wp-workbench-version-2-1-2-released/136980"
+  },
+  "title": "WP Workbench version 2.1.2 released",
+  "summary": "Howdy all, We’ve rolled out WP Workbench 2.1.2 plugin for all Virtualmin Pro users. Changes since 2.1.1: Add automatic WP-CLI installation when refreshing instances if missing Fix JSON parsing when WP-CLI emits PHP warnings to stdout Fix backup form submission to work when opened through a remote link Changes since 2.1.0: Fix the icons used in the system information on the dashboard",
+  "published_at": "2026-04-10T23:35:34+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T21:56:46.217382+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/04/1f/1fb8c74e4a2ee8ba82cea562f59d4ada539b9e455cc221c51b99e92adf5c7a58/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/04/1f/1fb8c74e4a2ee8ba82cea562f59d4ada539b9e455cc221c51b99e92adf5c7a58/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1463,
+    "sha256": "sha256:a5cff047c7d302dc09b1b4d3f6a8ab93dc24f96227bb674e3a34439eedbdba90",
+    "normalized_content_hash": "sha256:a3b6552578e4c98b970426c4c071a23ec7bcb24724965efcaa8418d34656c1fd"
+  },
+  "provenance": {
+    "source_item_id": "a92838f9-b1e6-43e5-8141-0b54e5b85a91",
+    "external_id": "forum.virtualmin.com-topic-136980"
+  }
+}

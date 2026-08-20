@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8fa32a9670d6863818302358d825842c6530973febfd9d7325435bc08792cf88",
+  "company": {
+    "key": "yc-uselemma",
+    "name": "Lemma"
+  },
+  "source": {
+    "id": "yc-uselemma-news-import-dd56f4936f86",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.uselemma.ai/blog/a-taxonomy-of-agent-failures",
+    "canonical": "https://www.uselemma.ai/blog/a-taxonomy-of-agent-failures"
+  },
+  "title": "A Taxonomy of Agent Failures",
+  "summary": "Seven silent failure modes that execution monitoring misses, and the boundary that separates them from every signal in the span.",
+  "published_at": "2026-07-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T02:10:55.235409+00:00",
+  "fetched_at": "2026-07-28T21:22:05.726331+00:00",
+  "last_updated_at": "2026-08-19T14:39:59.080835+00:00",
+  "paths": {
+    "article": "articles/v1/f5/yc-uselemma/2026/07/8f/8fa32a9670d6863818302358d825842c6530973febfd9d7325435bc08792cf88/article.md",
+    "record": "articles/v1/f5/yc-uselemma/2026/07/8f/8fa32a9670d6863818302358d825842c6530973febfd9d7325435bc08792cf88/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14044,
+    "sha256": "sha256:aa362645c6efba32475013e41c92f942ff4dc8a1991dd09366c99bbf8850e9fa",
+    "normalized_content_hash": "sha256:57349a0daa424557ea6395b973027dfddfc7a18272b7ed08e06e8ce4d938e457"
+  },
+  "provenance": {
+    "source_item_id": "36f2bc15-a1de-4684-8d3e-51c9d05cbf6e",
+    "external_id": "https://www.uselemma.ai/blog/a-taxonomy-of-agent-failures"
+  }
+}

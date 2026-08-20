@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "37ad16a9a7accd2a4d99e6b201e82017b2d4b18b4ab171b8b22c3bc0cecab4d0",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/virtualmin-virtual-server-7-50-1-released/135958",
+    "canonical": "https://forum.virtualmin.com/t/virtualmin-virtual-server-7-50-1-released/135958"
+  },
+  "title": "Virtualmin virtual-server 7.50.1 released",
+  "summary": "Howdy all, We rolled out Virtualmin virtual-server module version 7.50.1 with important bug fixes. Changes since 7.50.0: Fix to correctly add new virtual hosts in Apache config to prevent wrong site being served Fix DNS NS record update correctly when renaming domain Fix to set a custom DNS address for a subdomain only if it really differs from the primary one Fix mail alias domains to manage users expectedly Fix to correctly show current IPv6 address in the form when changing it Fix the def...",
+  "published_at": "2025-12-05T21:00:58+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:55:05.658267+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2025/12/37/37ad16a9a7accd2a4d99e6b201e82017b2d4b18b4ab171b8b22c3bc0cecab4d0/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2025/12/37/37ad16a9a7accd2a4d99e6b201e82017b2d4b18b4ab171b8b22c3bc0cecab4d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2225,
+    "sha256": "sha256:d842b327cc23ce3a064c736180b271a78302dabd01d1ddf04027ff7213dd064d",
+    "normalized_content_hash": "sha256:0f5f9c2fbf35f5c827a306e5127fd9ce37e16dac786fc37ded6537166f751fb1"
+  },
+  "provenance": {
+    "source_item_id": "638c8a69-7ac5-48b0-91f8-dec037480b09",
+    "external_id": "forum.virtualmin.com-topic-135958"
+  }
+}

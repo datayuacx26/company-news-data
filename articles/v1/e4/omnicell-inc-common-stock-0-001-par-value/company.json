@@ -1,0 +1,870 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "omnicell-inc-common-stock-0-001-par-value",
+    "name": "Omnicell Inc. Common Stock ($0.001 par value)"
+  },
+  "record_count": 500,
+  "first_published_at": "2008-01-31T05:00:00+00:00",
+  "last_published_at": "2026-07-30T20:01:00+00:00",
+  "partitions": [
+    {
+      "partition": "2008-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2008-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2008-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2008-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2008-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2008-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2009-01",
+      "record_count": 6
+    },
+    {
+      "partition": "2009-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2009-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2009-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2009-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2009-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2009-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2009-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2009-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2009-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2010-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2010-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2010-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2010-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2010-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2010-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2010-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2010-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2010-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2010-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2011-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2011-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2011-03",
+      "record_count": 4
+    },
+    {
+      "partition": "2011-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2011-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2011-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2011-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2011-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2011-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2011-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2011-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2012-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2012-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2012-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2012-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2012-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2012-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2012-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2013-01",
+      "record_count": 5
+    },
+    {
+      "partition": "2013-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2013-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2013-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2013-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2013-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2013-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2013-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2014-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2014-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2014-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2014-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2014-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2014-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2014-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2014-11",
+      "record_count": 5
+    },
+    {
+      "partition": "2014-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2015-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2015-04",
+      "record_count": 7
+    },
+    {
+      "partition": "2015-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2015-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2015-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2015-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2016-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2016-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2016-03",
+      "record_count": 3
+    },
+    {
+      "partition": "2016-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2016-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-10",
+      "record_count": 4
+    },
+    {
+      "partition": "2016-11",
+      "record_count": 6
+    },
+    {
+      "partition": "2016-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-02",
+      "record_count": 6
+    },
+    {
+      "partition": "2017-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2017-06",
+      "record_count": 3
+    },
+    {
+      "partition": "2017-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2017-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2017-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-10",
+      "record_count": 10
+    },
+    {
+      "partition": "2017-11",
+      "record_count": 7
+    },
+    {
+      "partition": "2017-12",
+      "record_count": 4
+    },
+    {
+      "partition": "2018-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-02",
+      "record_count": 5
+    },
+    {
+      "partition": "2018-03",
+      "record_count": 5
+    },
+    {
+      "partition": "2018-04",
+      "record_count": 4
+    },
+    {
+      "partition": "2018-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2018-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-10",
+      "record_count": 3
+    },
+    {
+      "partition": "2018-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 3
+    },
+    {
+      "partition": "2019-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2019-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-07",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2019-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2019-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2020-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2020-09",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-10",
+      "record_count": 5
+    },
+    {
+      "partition": "2020-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2020-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-02",
+      "record_count": 3
+    },
+    {
+      "partition": "2021-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-04",
+      "record_count": 5
+    },
+    {
+      "partition": "2021-07",
+      "record_count": 6
+    },
+    {
+      "partition": "2021-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2021-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2021-11",
+      "record_count": 4
+    },
+    {
+      "partition": "2021-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 3
+    },
+    {
+      "partition": "2022-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 4
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 10,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 55236,
+        "sha256": "sha256:9f48552de1786e81ca6533757106d1c6d228ab4466e7ec4e29f1c0d8630a9ea1",
+        "newest_at": "2026-07-30T20:01:00+00:00",
+        "oldest_at": "2024-03-11T21:11:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 55487,
+        "sha256": "sha256:f8377a88a846699042a37ed4cb53d2f863c7336cdd5367125d3b4b42c48a855b",
+        "newest_at": "2024-02-08T13:00:00+00:00",
+        "oldest_at": "2021-07-29T12:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000003.json",
+        "record_count": 50,
+        "byte_count": 57159,
+        "sha256": "sha256:8864338bd907c9767700024fdaf73bdae7400fd1fbf8039766a5564b844e3abb",
+        "newest_at": "2021-07-26T12:00:00+00:00",
+        "oldest_at": "2019-12-09T05:00:00+00:00"
+      },
+      {
+        "page": 4,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000004.json",
+        "record_count": 50,
+        "byte_count": 56992,
+        "sha256": "sha256:f77852c390fe7fb2b1f1e74c41a6b693b14a5f6926d430c02946c556dfa7c43f",
+        "newest_at": "2019-12-05T05:00:00+00:00",
+        "oldest_at": "2018-04-19T04:00:00+00:00"
+      },
+      {
+        "page": 5,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000005.json",
+        "record_count": 50,
+        "byte_count": 57399,
+        "sha256": "sha256:c397510d90330c079a100fb14ad9404c6cec3821a191afe889f216dee28ab8f9",
+        "newest_at": "2018-04-10T04:00:00+00:00",
+        "oldest_at": "2017-05-02T04:00:00+00:00"
+      },
+      {
+        "page": 6,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000006.json",
+        "record_count": 50,
+        "byte_count": 56484,
+        "sha256": "sha256:fcbe1b550ace42099a966622f7614ae0c071a0bd7d84d1fed614fd0a8ebe1845",
+        "newest_at": "2017-05-01T04:00:00+00:00",
+        "oldest_at": "2015-11-17T05:00:00+00:00"
+      },
+      {
+        "page": 7,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000007.json",
+        "record_count": 50,
+        "byte_count": 56132,
+        "sha256": "sha256:eb8c3413814ba9d65bd68b4f6451b805513fade45ebbb452f5ea10885440cd9b",
+        "newest_at": "2015-11-09T05:00:00+00:00",
+        "oldest_at": "2014-04-16T04:00:00+00:00"
+      },
+      {
+        "page": 8,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000008.json",
+        "record_count": 50,
+        "byte_count": 55494,
+        "sha256": "sha256:de1d4b7e7698c4f1c3345e532c676c769cb7c00d55c54aff70fdf0a86123066a",
+        "newest_at": "2014-04-01T04:00:00+00:00",
+        "oldest_at": "2012-05-22T04:00:00+00:00"
+      },
+      {
+        "page": 9,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000009.json",
+        "record_count": 50,
+        "byte_count": 56155,
+        "sha256": "sha256:a8de427f86cfff5d718aaf95c07cb10e53192d7334ae66b86f75057ade98c5f3",
+        "newest_at": "2012-05-02T04:00:00+00:00",
+        "oldest_at": "2010-09-15T04:00:00+00:00"
+      },
+      {
+        "page": 10,
+        "path": "articles/v1/e4/omnicell-inc-common-stock-0-001-par-value/index/pages/000010.json",
+        "record_count": 50,
+        "byte_count": 55265,
+        "sha256": "sha256:bc4539e7590a881da26bf20e8c68583ea9ff1d3a1e56fa200ccf16a250fcc930",
+        "newest_at": "2010-09-08T04:00:00+00:00",
+        "oldest_at": "2008-01-31T05:00:00+00:00"
+      }
+    ]
+  }
+}

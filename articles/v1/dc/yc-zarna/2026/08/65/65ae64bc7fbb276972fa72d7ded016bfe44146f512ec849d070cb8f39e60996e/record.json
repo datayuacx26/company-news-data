@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "65ae64bc7fbb276972fa72d7ded016bfe44146f512ec849d070cb8f39e60996e",
+  "company": {
+    "key": "yc-zarna",
+    "name": "Zarna"
+  },
+  "source": {
+    "id": "yc-zarna-news-import-0c4a0266984e",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.zarnaai.com/blog/how-to-build-agents-for-private-equity",
+    "canonical": "https://www.zarnaai.com/blog/how-to-build-agents-for-private-equity"
+  },
+  "title": "How to Build Agents That Work in Private Equity Environments",
+  "summary": "Everyone wants to talk about models. The hard part of deploying agents across a PE firm is everything else: mapping every workflow by role, deciding who owns each step, and redesigning the firm so humans and agents actually work together.",
+  "published_at": "2026-08-02T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T18:16:08.302681+00:00",
+  "fetched_at": "2026-08-07T18:16:10.407834+00:00",
+  "last_updated_at": "2026-08-19T21:56:32.141125+00:00",
+  "paths": {
+    "article": "articles/v1/dc/yc-zarna/2026/08/65/65ae64bc7fbb276972fa72d7ded016bfe44146f512ec849d070cb8f39e60996e/article.md",
+    "record": "articles/v1/dc/yc-zarna/2026/08/65/65ae64bc7fbb276972fa72d7ded016bfe44146f512ec849d070cb8f39e60996e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6641,
+    "sha256": "sha256:d103c67abfaf25776011aacb70fe7b8dbd6d867adc27b05a00bcd16aeca663d7",
+    "normalized_content_hash": "sha256:afb1ecb76510da8018bdda5b04ca59b491fd9fc8c80124736304882416432184"
+  },
+  "provenance": {
+    "source_item_id": "20aad907-f666-4f12-8c39-14434b40cf31",
+    "external_id": "https://www.zarnaai.com/blog/how-to-build-agents-for-private-equity"
+  }
+}

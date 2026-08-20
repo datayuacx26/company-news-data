@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "34041675be36a86eb308347d600fa82f59ea521e66cfd964ec04203d2ad9dae8",
+  "company": {
+    "key": "yc-browseros",
+    "name": "BrowserOS"
+  },
+  "source": {
+    "id": "yc-browseros-news-import-502741f826e3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://browseros.com/blog/soul-memory-engineering/",
+    "canonical": "https://www.browseros.com/blog/soul-memory-engineering"
+  },
+  "title": "Your Browser Agent Now Has a Soul (And It Never Leaves Your Machine)",
+  "summary": "Introducing SOUL.md and local memory for BrowserOS — how we made your agent personal without compromising privacy. Everything lives in plain markdown files on your machine.",
+  "published_at": "2026-03-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:09:45.310103+00:00",
+  "fetched_at": "2026-07-28T21:26:25.193690+00:00",
+  "last_updated_at": "2026-08-19T19:14:50.514601+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-browseros/2026/03/34/34041675be36a86eb308347d600fa82f59ea521e66cfd964ec04203d2ad9dae8/article.md",
+    "record": "articles/v1/ef/yc-browseros/2026/03/34/34041675be36a86eb308347d600fa82f59ea521e66cfd964ec04203d2ad9dae8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9780,
+    "sha256": "sha256:5b510d49568ce02cd5ef8ded59251d7b03bf5e193d6943a0fae320d09bf7cd53",
+    "normalized_content_hash": "sha256:4e6e4d5bb7333a5d8506517926372d25cbb5abb65b37ab9692e4dd20c4ddafa9"
+  },
+  "provenance": {
+    "source_item_id": "14e32819-a3bc-4c2a-979d-427aea41aae4",
+    "external_id": "https://www.browseros.com/blog/soul-memory-engineering"
+  }
+}

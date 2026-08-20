@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bd5a58b14a463b79b2ce08eabba33deb38afae4a576fd8daf95ecd41d632374",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups",
+    "canonical": "https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups"
+  },
+  "title": "Building Burstables: cpu slicing with cgroups",
+  "summary": "Burstable VMs run on a fraction of CPU and burst to a higher level of CPU usage to support occasional usage spikes. To implement them, we leveraged Control Groups v2 (cgroups v2), a Linux kernel feature that helps manage resource usage. We thought our open-source implementation of burstable VMs might be interesting enough to write about. We also learned a lot about Linux cgroups in the process!",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:37:39.039431+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/0b/0bd5a58b14a463b79b2ce08eabba33deb38afae4a576fd8daf95ecd41d632374/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/0b/0bd5a58b14a463b79b2ce08eabba33deb38afae4a576fd8daf95ecd41d632374/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13925,
+    "sha256": "sha256:4f0e5feb9f3721846d7f8d84893cec5aca77d72ba30f99d917d1f15c1558d4f9",
+    "normalized_content_hash": "sha256:db18dc706ad61d7d7efe4a6be91aa81e7338e5071792296ab87245a90d723429"
+  },
+  "provenance": {
+    "source_item_id": "8c3b5ca3-2f6a-4c23-8d69-2f27f454e867",
+    "external_id": "https://www.ubicloud.com/blog/building-burstables-cpu-slicing-with-cgroups"
+  }
+}

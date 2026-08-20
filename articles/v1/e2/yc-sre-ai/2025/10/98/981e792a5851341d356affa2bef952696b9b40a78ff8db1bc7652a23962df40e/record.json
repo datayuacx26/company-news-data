@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "981e792a5851341d356affa2bef952696b9b40a78ff8db1bc7652a23962df40e",
+  "company": {
+    "key": "yc-sre-ai",
+    "name": "SRE.ai"
+  },
+  "source": {
+    "id": "yc-sre-ai-news-import-a9b2aa0ab1a6",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sre.ai/post/the-bug-that-everyone-saw-but-nobody-caught",
+    "canonical": "https://www.sre.ai/post/the-bug-that-everyone-saw-but-nobody-caught"
+  },
+  "title": "The Bug That Everyone Saw (But Nobody Caught)",
+  "summary": "",
+  "published_at": "2025-10-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T02:05:06.902612+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T20:26:04.245338+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-sre-ai/2025/10/98/981e792a5851341d356affa2bef952696b9b40a78ff8db1bc7652a23962df40e/article.md",
+    "record": "articles/v1/e2/yc-sre-ai/2025/10/98/981e792a5851341d356affa2bef952696b9b40a78ff8db1bc7652a23962df40e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6869,
+    "sha256": "sha256:ca1cd0eb6cd5a49989eb999984e78f77a280d2e14379146f22e2ecf7916761f7",
+    "normalized_content_hash": "sha256:3e238ae7b1a64f2d10c3114d391f5e78aed40b446ef89bb44c453e9cd49aea77"
+  },
+  "provenance": {
+    "source_item_id": "e19f9966-e16e-48ba-bb55-a499b2a87474",
+    "external_id": "https://www.sre.ai/post/the-bug-that-everyone-saw-but-nobody-caught"
+  }
+}

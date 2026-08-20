@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8efe6dfc8811c10c3d9a3bdc02968317739df27914bcb1b929824cb8ee270e0f",
+  "company": {
+    "key": "yc-nango",
+    "name": "Nango"
+  },
+  "source": {
+    "id": "yc-nango-news-import-e2ee807d6673",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nango.dev/blog/how-nango-runs-untrusted-customer-code-at-scale",
+    "canonical": "https://nango.dev/blog/how-nango-runs-untrusted-customer-code-at-scale/"
+  },
+  "title": "How Nango runs untrusted customer code at scale",
+  "summary": "Nango runs untrusted customer code 150M+ times a month. We share how our runtime evolved from an in-process sandbox to tenant-isolated AWS Lambdas.",
+  "published_at": "2026-06-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T05:12:58.696716+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-19T19:00:47.317759+00:00",
+  "paths": {
+    "article": "articles/v1/d5/yc-nango/2026/06/8e/8efe6dfc8811c10c3d9a3bdc02968317739df27914bcb1b929824cb8ee270e0f/article.md",
+    "record": "articles/v1/d5/yc-nango/2026/06/8e/8efe6dfc8811c10c3d9a3bdc02968317739df27914bcb1b929824cb8ee270e0f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10599,
+    "sha256": "sha256:7078667a51885975a6c1e454bf955981e4043d0baa13d897f4221eab0779ea2e",
+    "normalized_content_hash": "sha256:2b87b6b043d2325cc60f4ac4f065a4089d57987745e0a4a82254b188851f401e"
+  },
+  "provenance": {
+    "source_item_id": "9d84c883-a770-4ff3-a6e0-5692d2a7bd43",
+    "external_id": "https://nango.dev/blog/how-nango-runs-untrusted-customer-code-at-scale/"
+  }
+}

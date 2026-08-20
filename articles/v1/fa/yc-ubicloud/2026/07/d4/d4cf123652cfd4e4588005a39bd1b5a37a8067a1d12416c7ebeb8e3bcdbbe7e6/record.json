@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d4cf123652cfd4e4588005a39bd1b5a37a8067a1d12416c7ebeb8e3bcdbbe7e6",
+  "company": {
+    "key": "yc-ubicloud",
+    "name": "Ubicloud"
+  },
+  "source": {
+    "id": "yc-ubicloud-news-import-c10303752e5c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.ubicloud.com/blog/hardware-touch-stronger-ssh",
+    "canonical": "https://www.ubicloud.com/blog/hardware-touch-stronger-ssh"
+  },
+  "title": "Hardware Touch, Stronger SSH",
+  "summary": "Every time I log into a server or push code to GitHub, a small USB key on my laptop flashes. I have to touch it to continue. That extra tap blocks a class of attacks that’s far more common now than twenty years ago: malware stealing or abusing your SSH keys.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T05:09:51.579811+00:00",
+  "fetched_at": "2026-07-28T21:39:52.838477+00:00",
+  "last_updated_at": "2026-08-19T17:07:23.450787+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-ubicloud/2026/07/d4/d4cf123652cfd4e4588005a39bd1b5a37a8067a1d12416c7ebeb8e3bcdbbe7e6/article.md",
+    "record": "articles/v1/fa/yc-ubicloud/2026/07/d4/d4cf123652cfd4e4588005a39bd1b5a37a8067a1d12416c7ebeb8e3bcdbbe7e6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15052,
+    "sha256": "sha256:ac5206bf5608a859bf1c5ee2ad95f82737692bd6646a9ed1eb5e6ac8ad8338d0",
+    "normalized_content_hash": "sha256:4c761d7e868ec5ec032b8fadb68b5679b09d0d0651b04205c363b1d8ed25a041"
+  },
+  "provenance": {
+    "source_item_id": "24a69c52-d389-4fcb-b3b9-af6acb5f6056",
+    "external_id": "https://www.ubicloud.com/blog/hardware-touch-stronger-ssh"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c5653e1a92c1bf3f604924968a54feabbc7cf0aa923b5ebe85c582c3ab2cb6c6",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/03/27/datadog-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/03/27/datadog-rust"
+  },
+  "title": "Sending Logs to Datadog with Rust",
+  "summary": "Sending logs to Datadog with Rust, without Datadog Agent",
+  "published_at": "2024-03-27T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:24.623123+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/03/c5/c5653e1a92c1bf3f604924968a54feabbc7cf0aa923b5ebe85c582c3ab2cb6c6/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/03/c5/c5653e1a92c1bf3f604924968a54feabbc7cf0aa923b5ebe85c582c3ab2cb6c6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14986,
+    "sha256": "sha256:974393be6712593d3d5070a580561fb76b9dd5a0df934e15a0bd25f07d3a58b7",
+    "normalized_content_hash": "sha256:de3b955a3c6fa961ed84a58eaab594dc11419e21b15c5cd720e7aef7337e4dc7"
+  },
+  "provenance": {
+    "source_item_id": "6fb5c0ab-9379-46a1-8a5d-43956be7b923",
+    "external_id": "https://www.shuttle.dev/blog/2024/03/27/datadog-rust"
+  }
+}

@@ -1,0 +1,49 @@
+---
+schema_version: "1.0.0"
+document_id: "1e3aa4b0a0927749ce21759edf605c803240565fff461450b3e18ad7824dc509"
+company_key: "sm-energy-company-common-stock"
+company: "SM Energy Company"
+source_id: "sm-energy-company-common-stock-rss-b057cef732d1"
+canonical_url: "https://www.sm-energy.com/investors/news-events/press-releases/detail/380/sm-energy-announces-redemption-of-all-outstanding-2027-senior-notes"
+published_at: "2026-08-05T20:10:00+00:00"
+first_seen_at: "2026-08-05T20:33:48.506561+00:00"
+fetched_at: "2026-08-05T20:33:50.371846+00:00"
+content_hash: "sha256:3c8d0765a059f917f4d40fba24829b2b9fad0e57f08cec13cd8f549392218798"
+---
+
+# SM Energy Announces Redemption of All Outstanding 2027 Senior Notes
+
+DENVER
+
+
+, Aug. 5, 2026
+
+
+/PRNewswire/ -- SM Energy Company (the "Company" or "SM") (NYSE: SM) today announced that it has instructed the trustee under its 6.625% Senior Notes due 2027 (the "2027 Senior Notes") to issue a notice of full redemption at par of the $417 million aggregate principal amount outstanding, plus accrued and unpaid interest, to the holders of the 2027 Senior Notes (the "Redemption"). The Company intends to redeem the 2027 Senior Notes in full on September 4, 2026, using cash on hand. Following the Redemption, the Company will have no remaining Senior Notes maturities until mid-2028.
+
+
+**About SM Energy Company**
+
+
+SM is a premier, scaled operator of top-tier oil and gas assets across four leading U.S. shale basins: the Permian Basin, DJ Basin, South Texas, and Uinta Basin. SM is focused on operational excellence, disciplined capital allocation, and delivering growing returns to stockholders. SM routinely posts important information about the Company on its website. For more information, visit[www.sm-energy.com](http://www.sm-energy.com/) .
+
+
+**Forward-Looking Statements**
+
+
+This release contains forward-looking statements within the meaning of securities laws. The words "intend," "expect," and similar expressions are intended to identify forward-looking statements. Forward-looking statements in this release include, among other things, the Company's intention to redeem in full its 2027 Senior Notes and the timing thereof, and expectations regarding the Company's debt maturity profile following the Redemption. These statements involve known and unknown risks, which may cause the Company's actual results to differ materially from results expressed or implied by the forward-looking statements. Future results may be impacted by the risks discussed in the Risk Factors section of the Company's most recent Annual Report on Form 10-K, as such risk factors may be updated from time to time in the Company's other periodic reports filed with the Securities and Exchange Commission. The forward-looking statements contained herein speak as of the date of this release. Although the Company may from time to time voluntarily update its prior forward-looking statements, it disclaims any commitment to do so, except as required by securities laws.
+
+
+**Investor Relations**
+
+
+Megan Hays, Vice President, Investor Relations, **mhays@sm-energy.com**
+
+
+Meghan Dack, Director, Investor Relations, **mdack@sm-energy.com**
+
+
+View original content to download multimedia:[https://www.prnewswire.com/news-releases/sm-energy-announces-redemption-of-all-outstanding-2027-senior-notes-302844119.html](https://www.prnewswire.com/news-releases/sm-energy-announces-redemption-of-all-outstanding-2027-senior-notes-302844119.html)
+
+
+SOURCE SM Energy Company

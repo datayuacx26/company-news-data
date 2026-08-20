@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2e26c01a6bdc9de6c84fe186c4e069fb1b220d4a12c58bb5f1c211f79f09e3c5",
+  "company": {
+    "key": "yc-mendral",
+    "name": "Mendral"
+  },
+  "source": {
+    "id": "yc-mendral-news-import-538be81b6878",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://mendral.com/blog/how-we-built-our-ai-agent",
+    "canonical": "https://mendral.com/blog/how-we-built-our-ai-agent"
+  },
+  "title": "We use Claude Code daily. We still built our own CI agent.",
+  "summary": "How Mendral closes 16,000 CI investigations a month: three Anthropic tiers, Firecracker microVMs, durable execution on Inngest, and a custom Go agent loop.",
+  "published_at": "2026-02-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-10T00:32:33.388808+00:00",
+  "fetched_at": "2026-08-10T00:32:34.981599+00:00",
+  "last_updated_at": "2026-08-19T17:02:30.703158+00:00",
+  "paths": {
+    "article": "articles/v1/cc/yc-mendral/2026/02/2e/2e26c01a6bdc9de6c84fe186c4e069fb1b220d4a12c58bb5f1c211f79f09e3c5/article.md",
+    "record": "articles/v1/cc/yc-mendral/2026/02/2e/2e26c01a6bdc9de6c84fe186c4e069fb1b220d4a12c58bb5f1c211f79f09e3c5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11823,
+    "sha256": "sha256:72cf761b193ab30ceffaed31a89e3b04ae5b6804bd69cdd16f496609dfefd016",
+    "normalized_content_hash": "sha256:6ff2041d51c140792ab1af2ac045434cb13a4c2bc0e983777bd71098d4ab0615"
+  },
+  "provenance": {
+    "source_item_id": "6f81c961-4da9-4a95-b69e-4332e5054dc8",
+    "external_id": "https://mendral.com/blog/how-we-built-our-ai-agent"
+  }
+}

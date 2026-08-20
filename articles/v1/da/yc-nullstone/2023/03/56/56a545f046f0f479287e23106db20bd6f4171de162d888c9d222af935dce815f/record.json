@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "56a545f046f0f479287e23106db20bd6f4171de162d888c9d222af935dce815f",
+  "company": {
+    "key": "yc-nullstone",
+    "name": "Nullstone"
+  },
+  "source": {
+    "id": "yc-nullstone-news-import-96ce084d16d8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.nullstone.io/blog-posts/staging-is-broken",
+    "canonical": "https://www.nullstone.io/blog-posts/staging-is-broken"
+  },
+  "title": "Why is staging always broken?",
+  "summary": "The staging environment is meant to provide confidence when shipping updates. In this article, we take a look at why it always seems to be broken and how to improve reliability.",
+  "published_at": "2023-03-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T04:02:46.708969+00:00",
+  "fetched_at": "2026-08-10T01:11:39.788792+00:00",
+  "last_updated_at": "2026-08-19T21:25:53.144763+00:00",
+  "paths": {
+    "article": "articles/v1/da/yc-nullstone/2023/03/56/56a545f046f0f479287e23106db20bd6f4171de162d888c9d222af935dce815f/article.md",
+    "record": "articles/v1/da/yc-nullstone/2023/03/56/56a545f046f0f479287e23106db20bd6f4171de162d888c9d222af935dce815f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12132,
+    "sha256": "sha256:32c36e6e4e42be347093b084f9062f03b4a826311676af8ced224acb2729fc76",
+    "normalized_content_hash": "sha256:214b902808ec98be5fd15bf1425609c180e1db3df9da66dfed8e07575ef0c0c3"
+  },
+  "provenance": {
+    "source_item_id": "a92e711f-28a3-426b-bb8b-58d6bd5af6cb",
+    "external_id": "https://www.nullstone.io/blog-posts/staging-is-broken"
+  }
+}

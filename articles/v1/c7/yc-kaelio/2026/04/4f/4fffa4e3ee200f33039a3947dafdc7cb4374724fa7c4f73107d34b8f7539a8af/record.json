@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4fffa4e3ee200f33039a3947dafdc7cb4374724fa7c4f73107d34b8f7539a8af",
+  "company": {
+    "key": "yc-kaelio",
+    "name": "Kaelio"
+  },
+  "source": {
+    "id": "yc-kaelio-news-import-d43a8938b457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kaelio.com/blog/why-semantic-layers-alone-wont-stop-ai-hallucinations",
+    "canonical": "https://www.kaelio.com/blog/why-semantic-layers-alone-wont-stop-ai-hallucinations"
+  },
+  "title": "Why Your Semantic Layer Alone Won't Stop AI Agent Hallucinations",
+  "summary": "Semantic layers define metrics but miss temporal context, sensitivity rules, dashboard logic, domain knowledge, and lineage. Learn why a full context layer is required to stop AI data agent hallucinations.",
+  "published_at": "2026-04-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T01:08:24.751270+00:00",
+  "fetched_at": "2026-07-28T22:16:01.195245+00:00",
+  "last_updated_at": "2026-08-20T00:20:28.214979+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-kaelio/2026/04/4f/4fffa4e3ee200f33039a3947dafdc7cb4374724fa7c4f73107d34b8f7539a8af/article.md",
+    "record": "articles/v1/c7/yc-kaelio/2026/04/4f/4fffa4e3ee200f33039a3947dafdc7cb4374724fa7c4f73107d34b8f7539a8af/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 27697,
+    "sha256": "sha256:5e9db72f3efbebad37baee67fc33c932cd615f03356a59be2d9d3be244cc4a57",
+    "normalized_content_hash": "sha256:8d91e3bbd1e34322f11b8ca13ce528c4a54f10f3cc35d6b19f07f0a06eee2451"
+  },
+  "provenance": {
+    "source_item_id": "fc446025-ec2e-47b4-84c5-6ad6135cc81c",
+    "external_id": "https://www.kaelio.com/blog/why-semantic-layers-alone-wont-stop-ai-hallucinations"
+  }
+}

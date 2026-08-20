@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "111466b8b9f0b8161bfa9448dcaeb06b54a125f16528d72726b93f95bb82e9dd",
+  "company": {
+    "key": "yc-metalware",
+    "name": "Metalware"
+  },
+  "source": {
+    "id": "yc-metalware-news-import-ec8258eac460",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.metalware.com/blog/svd-prediction/",
+    "canonical": "https://www.metalware.com/blog/svd-prediction/"
+  },
+  "title": "Automating Peripheral Map Discovery on Monolithic Firmware",
+  "summary": "MMIO fingerprinting with SVDs for memory map prediction and augmenting results with LLMs",
+  "published_at": "2026-04-29T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T04:09:46.862890+00:00",
+  "fetched_at": "2026-07-28T21:45:28.384377+00:00",
+  "last_updated_at": "2026-08-19T23:34:18.960836+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-metalware/2026/04/11/111466b8b9f0b8161bfa9448dcaeb06b54a125f16528d72726b93f95bb82e9dd/article.md",
+    "record": "articles/v1/e2/yc-metalware/2026/04/11/111466b8b9f0b8161bfa9448dcaeb06b54a125f16528d72726b93f95bb82e9dd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5828,
+    "sha256": "sha256:4aa246b1a4d4680486cf8fd2e800e4a5b0710fa66e4e02d0fd9d61f57991649e",
+    "normalized_content_hash": "sha256:8e66f8276e54fb948e6370f422150d2496dd57b29d253ec3efd8cd5be46a3013"
+  },
+  "provenance": {
+    "source_item_id": "3ccea96e-8fd6-4992-9423-4bd6eda5fbce",
+    "external_id": "https://www.metalware.com/blog/svd-prediction/"
+  }
+}

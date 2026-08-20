@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "59ebae2e651428327a3b46fb42505a560e614fc5aae16341740278753f0657ae",
+  "company": {
+    "key": "yc-agency",
+    "name": "Agency"
+  },
+  "source": {
+    "id": "yc-agency-news-import-0d31f4b059c0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://blog.getagency.com/articles/switching-drata-to-vanta-migration-guide",
+    "canonical": "https://blog.getagency.com/articles/switching-drata-to-vanta-migration-guide"
+  },
+  "title": "Drata to Vanta Migration: Costs, Gotchas & Alternatives",
+  "summary": "How to migrate between Drata and Vanta — what evidence transfers, what resets, the audit-window trap, real costs, and whether to switch at all.",
+  "published_at": "2026-07-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T08:21:07.883449+00:00",
+  "fetched_at": "2026-07-28T21:16:48.751829+00:00",
+  "last_updated_at": "2026-08-20T03:06:04.733810+00:00",
+  "paths": {
+    "article": "articles/v1/cf/yc-agency/2026/07/59/59ebae2e651428327a3b46fb42505a560e614fc5aae16341740278753f0657ae/article.md",
+    "record": "articles/v1/cf/yc-agency/2026/07/59/59ebae2e651428327a3b46fb42505a560e614fc5aae16341740278753f0657ae/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16205,
+    "sha256": "sha256:e60e0bfcd10cce916aba742618dc2a94eb23961cd72397de597e1fbce4faf340",
+    "normalized_content_hash": "sha256:d9e2efe5211d9599317f606763f8f00aea743e1de3b230a1c023b6352f92bb3b"
+  },
+  "provenance": {
+    "source_item_id": "4a2a80ed-7e0f-45c7-81a7-3868120b7307",
+    "external_id": "https://blog.getagency.com/articles/switching-drata-to-vanta-migration-guide"
+  }
+}

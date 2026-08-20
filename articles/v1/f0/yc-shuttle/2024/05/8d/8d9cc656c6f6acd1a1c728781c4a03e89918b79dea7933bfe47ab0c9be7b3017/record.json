@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8d9cc656c6f6acd1a1c728781c4a03e89918b79dea7933bfe47ab0c9be7b3017",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/05/23/building-agentic-rag-rust-qdrant",
+    "canonical": "https://www.shuttle.dev/blog/2024/05/23/building-agentic-rag-rust-qdrant"
+  },
+  "title": "Building Agentic RAG with Rust, Qdrant & OpenAI",
+  "summary": "Using GPT-4o, Qdrant and Rust to build an agentic RAG workflow in a web service and deploy it",
+  "published_at": "2024-05-23T16:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:00:17.354967+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/05/8d/8d9cc656c6f6acd1a1c728781c4a03e89918b79dea7933bfe47ab0c9be7b3017/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/05/8d/8d9cc656c6f6acd1a1c728781c4a03e89918b79dea7933bfe47ab0c9be7b3017/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15606,
+    "sha256": "sha256:ef260851b4bb7a297950844385e46ed0d96f6f757271f5e6fbfdbcd1432fdb3f",
+    "normalized_content_hash": "sha256:7d8a5f650ceb1f89a93c935470db4fbda7a02da09b3f814d830c4a935712fcb3"
+  },
+  "provenance": {
+    "source_item_id": "d8a1b854-1e45-4961-85d3-ec48d40e55ce",
+    "external_id": "https://www.shuttle.dev/blog/2024/05/23/building-agentic-rag-rust-qdrant"
+  }
+}

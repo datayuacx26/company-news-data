@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "global-mofy-ai-limited-class-a-ordinary-shares",
+    "name": "Global Mofy AI Limited"
+  },
+  "record_count": 11,
+  "first_published_at": "2026-05-13T13:15:56+00:00",
+  "last_published_at": "2026-07-29T01:46:40+00:00",
+  "partitions": [
+    {
+      "partition": "2026-05",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ce/global-mofy-ai-limited-class-a-ordinary-shares/index/pages/000001.json",
+        "record_count": 11,
+        "byte_count": 15181,
+        "sha256": "sha256:6b446540f9c13a1bd897007ad2197b3d7051f61e733d6cac1300f58c381a97a4",
+        "newest_at": "2026-07-29T01:46:40+00:00",
+        "oldest_at": "2026-05-13T13:15:56+00:00"
+      }
+    ]
+  }
+}

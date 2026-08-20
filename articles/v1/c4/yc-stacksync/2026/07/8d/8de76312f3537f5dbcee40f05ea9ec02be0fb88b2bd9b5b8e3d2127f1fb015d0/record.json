@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8de76312f3537f5dbcee40f05ea9ec02be0fb88b2bd9b5b8e3d2127f1fb015d0",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/two-way-sync-aurora-mysql-netsuite",
+    "canonical": "https://www.stacksync.com/blog/two-way-sync-aurora-mysql-netsuite"
+  },
+  "title": "Aurora MySQL and NetSuite, When One Side Is Read-Only",
+  "summary": "Two-way sync between AWS Aurora MySQL and NetSuite: SuiteAnalytics Connect is read-only, so writes go through SuiteTalk REST. Binlog CDC, GTID, Backtrack.",
+  "published_at": "2026-07-23T10:00:00+00:00",
+  "first_seen_at": "2026-07-23T18:54:25.804928+00:00",
+  "fetched_at": "2026-07-28T21:49:03.166047+00:00",
+  "last_updated_at": "2026-08-20T01:13:16.415990+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/8d/8de76312f3537f5dbcee40f05ea9ec02be0fb88b2bd9b5b8e3d2127f1fb015d0/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/8d/8de76312f3537f5dbcee40f05ea9ec02be0fb88b2bd9b5b8e3d2127f1fb015d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19682,
+    "sha256": "sha256:e345141545e4e96ee82a0e3ce56ca1974f9cfdf5865287802ad21cc7c218ed44",
+    "normalized_content_hash": "sha256:62e31b7bce2335078f07004fa595ffbe738c839c7b3544851835f086ac47dfc3"
+  },
+  "provenance": {
+    "source_item_id": "b5e514f5-205a-4054-8dd2-1b5ac5227aa3",
+    "external_id": "https://www.stacksync.com/blog/two-way-sync-aurora-mysql-netsuite"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b24676799eddf8a6b587803e53cba175976d333814982b23989e2484077181fc",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/the-different-types-of-protection-your-application-needs-if-hosted-in-aws/",
+    "canonical": "https://www.cloudanix.com/blog/the-different-types-of-protection-your-application-needs-if-hosted-in-aws/"
+  },
+  "title": "The Different Types of Protection your Application Needs If Hosted in AWS",
+  "summary": "Secure your AWS-hosted applications with essential protections: EBS encryption, IAM roles, MFA, S3 access controls, CloudWatch alerting, and more.",
+  "published_at": "2020-12-14T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2020/12/b2/b24676799eddf8a6b587803e53cba175976d333814982b23989e2484077181fc/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2020/12/b2/b24676799eddf8a6b587803e53cba175976d333814982b23989e2484077181fc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8058,
+    "sha256": "sha256:c979366a909945b239e85b2d35d8eafa18f1a4755907677e4b4aec2aefc82965",
+    "normalized_content_hash": "sha256:9d2dda8383a9b563dcaf879afcd2c57353d516ec7b8c8f9fd4adb1aecc61293d"
+  },
+  "provenance": {
+    "source_item_id": "b1c67873-e18b-4909-ad87-909a8ab1f7ac",
+    "external_id": "https://www.cloudanix.com/blog/the-different-types-of-protection-your-application-needs-if-hosted-in-aws/"
+  }
+}

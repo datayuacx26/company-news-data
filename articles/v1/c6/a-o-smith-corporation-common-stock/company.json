@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "a-o-smith-corporation-common-stock",
+    "name": "A.O. Smith Corporation"
+  },
+  "record_count": 1,
+  "first_published_at": null,
+  "last_published_at": null,
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c6/a-o-smith-corporation-common-stock/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1461,
+        "sha256": "sha256:28eba84b607f5e3750afc9cea13d00cb0dfbf8935ce064a16e08df6dc63be0ae",
+        "newest_at": "2026-07-28T21:20:09.527818+00:00",
+        "oldest_at": "2026-07-28T21:20:09.527818+00:00"
+      }
+    ]
+  }
+}

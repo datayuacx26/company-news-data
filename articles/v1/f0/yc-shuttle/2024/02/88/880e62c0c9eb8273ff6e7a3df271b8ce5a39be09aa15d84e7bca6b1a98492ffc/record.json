@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "880e62c0c9eb8273ff6e7a3df271b8ce5a39be09aa15d84e7bca6b1a98492ffc",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/02/22/api-rate-limiting-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/02/22/api-rate-limiting-rust"
+  },
+  "title": "Implementing API Rate Limiting in Rust",
+  "summary": "Exploring how to implement rate limiting manually in a Rust API as well as using crates",
+  "published_at": "2024-02-22T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:15.382818+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/02/88/880e62c0c9eb8273ff6e7a3df271b8ce5a39be09aa15d84e7bca6b1a98492ffc/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/02/88/880e62c0c9eb8273ff6e7a3df271b8ce5a39be09aa15d84e7bca6b1a98492ffc/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13230,
+    "sha256": "sha256:ec89aa1f17c4fea9f27b4de20050ea143785a51636ed030fbb91af0af99d9e94",
+    "normalized_content_hash": "sha256:d7dad727ecaf62af0be5802966185b51d90396c17c132c8b218381fd17defb2d"
+  },
+  "provenance": {
+    "source_item_id": "82ac9511-2a4d-4d54-adf1-95232cc11999",
+    "external_id": "https://www.shuttle.dev/blog/2024/02/22/api-rate-limiting-rust"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9189c7bcd6066d5de6b44e8a946d6373c7a8efc62b5a17acdf45f7a30fd9e4d0",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/the-ram-thesis-that-turned-out-to-be-wrong-the-origin-story-of-singlestore",
+    "canonical": "https://www.stacksync.com/blog/the-ram-thesis-that-turned-out-to-be-wrong-the-origin-story-of-singlestore"
+  },
+  "title": "The RAM Thesis That Turned Out to Be Wrong: The Origin Story of SingleStore",
+  "summary": "Two engineers at Facebook watch a single SQL query run for more than 24 hours on a billion-row analytical table. Not 45 seconds. Not 3 minutes. A full day.…",
+  "published_at": "2026-03-23T14:32:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T22:17:58.599767+00:00",
+  "last_updated_at": "2026-07-28T22:18:56.075290+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/03/91/9189c7bcd6066d5de6b44e8a946d6373c7a8efc62b5a17acdf45f7a30fd9e4d0/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/03/91/9189c7bcd6066d5de6b44e8a946d6373c7a8efc62b5a17acdf45f7a30fd9e4d0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 17797,
+    "sha256": "sha256:e9115dff03c726731d7b6d56e30d99df07866dbb2b3e5ed4ba1e882e4ca276ee",
+    "normalized_content_hash": "sha256:425a39aacfee304d699e23be5c80c46f0f3398f091e39725384f7aeb4f173678"
+  },
+  "provenance": {
+    "source_item_id": "827ec1e2-a88f-4b58-88e0-060589f5d069",
+    "external_id": "https://www.stacksync.com/blog/the-ram-thesis-that-turned-out-to-be-wrong-the-origin-story-of-singlestore"
+  }
+}

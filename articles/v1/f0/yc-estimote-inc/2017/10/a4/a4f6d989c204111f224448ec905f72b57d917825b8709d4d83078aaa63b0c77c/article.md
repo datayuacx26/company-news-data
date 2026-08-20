@@ -1,0 +1,58 @@
+---
+schema_version: "1.0.0"
+document_id: "a4f6d989c204111f224448ec905f72b57d917825b8709d4d83078aaa63b0c77c"
+company_key: "yc-estimote-inc"
+company: "Estimote, Inc."
+source_id: "yc-estimote-inc-rss-9f8374160089"
+canonical_url: "https://blog.estimote.com/post/166073375690"
+published_at: "2017-10-17T12:11:24+00:00"
+first_seen_at: "2026-07-27T09:08:36.947635+00:00"
+fetched_at: "2026-07-28T22:27:25.846890+00:00"
+content_hash: "sha256:6f1a60c11eae95d38655a7f41b413974ec0c6060c303b539247414eef17a993a"
+---
+
+# Real time Analytics API - why wait for insight?
+
+At Estimote, we firmly believe in making data-informed decisions. We want to enable our customers to do the same. That is why we initially introduced the Estimote Analytics API— a set of tools for developers to measure user interactions in the proximity of beacons. Then, listening to developer feedback, we expanded the analytics platform. With the introduction of[Estimote Analytics 2.0](http://blog.estimote.com/post/144139607585/measuring-your-visitors-engagement-with-the) we enabled our customers to explore metrics like visits, visitors, visit duration, and loyalty via the Estimote[Cloud UI](https://cloud.estimote.com/#/analytics) . Exposing the API allowed our customers to integrate this service with their own backend, to create a unique solution.
+
+
+These were the first steps that took us from collecting simple interactions to analyzing millions of data points at a time, and presenting them to our users in real time.
+
+
+### Estimote is exposing Real Time Analytics API
+
+
+Today, we take the next step to make Estimote Analytics powerful enough to answer the most demanding questions, in real-time. We are exposing Real Time Analytics API. We know that in some cases, a couple of minutes’ delay is still too long. Introducing this feature gives our customers the power to monitor the current status of their businesses. Think of it as an ongoing, constant stream of data that you can follow and respond to without the need to query our servers in any way. It’s the perfect solution for situations where you need to quickly (and we do mean “quickly”—in a matter of seconds) react to emerging trends, rather than wait minutes to get fully-processed data.
+
+
+What does this mean in practice? Imagine that you are running a furniture store, and you notice that suddenly, several customers have gathered in the kitchen exposition section. With real time data Analytics, you can immediately decide to send more staffers over there to help your customers pick out the perfect countertop or sink. It’s a great way to easily improve user experiences based on real time events.
+
+
+Or think of it this way. In a warehouse setting, you have a machine malfunctioning in the roll-up door section of a factory floor. You can immediately tell who is the closest technician properly trained to patch a quick fix. In a hospital setting, you have a bottleneck of patients in admitting, waiting to have their information taken. You can quickly and efficiently assess which of your nurses can be sent to handle the influx, without pulling anyone critical from the emergency room. The possibilities are endless!
+
+
+### Integration with your services
+
+
+Another advantage of real time data is the ability to integrate it with your Machine Learning or AI models. This lets you create prediction mechanisms which mean you’ll be better prepared for next week’s surge of in the hospital—or those other situations!
+
+
+[Socket.io example code snippet](https://gist.github.com/jan-osch/2b079c398903bcca3edb2f65124e04c7)
+
+
+### Grow faster than the demand
+
+
+Today, Estimote Analytics is an integral part of beacon deployments made by some of the largest Fortune 500 companies and our growing developer community. Every day we receive, process, and store millions of events to give our customers insights into the status of their deployments. To meet these growing requirements we have adjusted our internal service to handle new spikes of traffic. This change is completely transparent to you, our customer. If you’re already using the Analytics service, there’s nothing you need to do to upgrade. The only difference is that now, you’re going to see data in the Cloud UI and API much faster; to be more specific, we’ve decreased the processing delay three times.
+
+
+Gathering data on the backend would be much less meaningful without devices “on the ground.” Following this logic, we want to make sure you can easily collect the data in your apps. To make things even more seamless, the latest Mobile SDKs have Analytics on by default. It’s one more in a series of updates, where we are focused on making it easier than ever to hit the ground running with your beacon deployment. Furthermore, we are adding full support for[Estimote Monitoring](http://blog.estimote.com/post/165007958785/launching-the-most-reliable-configurationless) in Analytics. The Estimote Monitoring packet, which is turned on by default on newly purchased beacons, allows you to accurately see how many visits and visitors were in the range of your devices. This change gives you yet more tools to measure the impact and see the status of your beacon deployment.
+
+
+### Try it now!
+
+
+Real-time Analytics is also coming to our mobile apps. You’ll be able to test, demo, and pitch this technology to your clients even more easily than before.
+
+
+As always, we’re eager to hear your feedback and to help get you going! Let us know what you think on[Twitter](http://twitter.com/estimote) or drop us an email atcontact@estimote.com

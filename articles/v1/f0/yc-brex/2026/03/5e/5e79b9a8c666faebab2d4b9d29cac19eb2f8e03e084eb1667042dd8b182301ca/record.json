@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5e79b9a8c666faebab2d4b9d29cac19eb2f8e03e084eb1667042dd8b182301ca",
+  "company": {
+    "key": "yc-brex",
+    "name": "Brex"
+  },
+  "source": {
+    "id": "yc-brex-news-import-5eb786253ae8",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.brex.com/journal/articles/simulation-testing-ai-audit-agent",
+    "canonical": "https://www.brex.com/journal/articles/simulation-testing-ai-audit-agent"
+  },
+  "title": "How we test our agents: by committing fraud",
+  "summary": "Simulation testing lets you find out how good your agent actually is before the world shows you. Here's what we've learned in teaching agents to catch fraud.",
+  "published_at": "2026-03-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T11:29:48.523536+00:00",
+  "fetched_at": "2026-07-28T21:21:00.620727+00:00",
+  "last_updated_at": "2026-07-28T21:21:57.398211+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-brex/2026/03/5e/5e79b9a8c666faebab2d4b9d29cac19eb2f8e03e084eb1667042dd8b182301ca/article.md",
+    "record": "articles/v1/f0/yc-brex/2026/03/5e/5e79b9a8c666faebab2d4b9d29cac19eb2f8e03e084eb1667042dd8b182301ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9211,
+    "sha256": "sha256:211a3eb9581e36bbefd6eb34052d2557a79268577be5991f52ca5f635b1e8e7a",
+    "normalized_content_hash": "sha256:359c4364bd87d2ecb3a148e0d8056e81b85e445295e2b99a0923e06f80499225"
+  },
+  "provenance": {
+    "source_item_id": "4708c8bc-4e4e-4c2d-94cc-b1bc09c12225",
+    "external_id": "https://www.brex.com/journal/articles/simulation-testing-ai-audit-agent"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f6ca95357a1e7d804e7d76e33b289c213f9a7d5bec96a3407fb75c92691f6d8f",
+  "company": {
+    "key": "yc-cedana",
+    "name": "Cedana"
+  },
+  "source": {
+    "id": "yc-cedana-news-import-d2b6a3d3a0df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cedana.com/post/the-utilization-ceiling-why-ai-and-hpc-schedulers-hit-30-and-how-to-fix-this/",
+    "canonical": "https://cedana.com/post/the-utilization-ceiling-why-ai-and-hpc-schedulers-hit-30-and-how-to-fix-this/"
+  },
+  "title": "The Utilization Ceiling: Why AI and HPC Schedulers Hit 30% and How to Fix This",
+  "summary": "GPU utilization across AI and HPC workloads is fundamentally capped at 30% because schedulers cannot migrate running jobs. Cedana's CPU and GPU migration capability surpasses this limitation, unlocking near-full utilization.",
+  "published_at": "2025-11-12T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T23:42:29.819860+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-12T04:48:00.130846+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-cedana/2025/11/f6/f6ca95357a1e7d804e7d76e33b289c213f9a7d5bec96a3407fb75c92691f6d8f/article.md",
+    "record": "articles/v1/d2/yc-cedana/2025/11/f6/f6ca95357a1e7d804e7d76e33b289c213f9a7d5bec96a3407fb75c92691f6d8f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9185,
+    "sha256": "sha256:ae400dfab7c65499a21e0bef60db145dfff6ea4d6992560ec3e44165ddb2bf10",
+    "normalized_content_hash": "sha256:c931dbfb909c51a32832588839b08f3b6385094e66d7d18bcbadac81a70cba5f"
+  },
+  "provenance": {
+    "source_item_id": "6e0b62ae-4b9b-4579-b1ce-d05ca46074cb",
+    "external_id": "https://cedana.com/post/the-utilization-ceiling-why-ai-and-hpc-schedulers-hit-30-and-how-to-fix-this/"
+  }
+}

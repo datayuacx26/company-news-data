@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e6a13d12759c1cc17ddf4bad713757a278576c9f669d19b828662ff4a6c65476",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/webmin-2-641-and-usermin-2-540-released/137203",
+    "canonical": "https://forum.virtualmin.com/t/webmin-2-641-and-usermin-2-540-released/137203"
+  },
+  "title": "Webmin 2.641 and Usermin 2.540 released",
+  "summary": "Howdy all, We’ve rolled out Webmin 2.641 and Usermin 2.540 to all Virtualmin repos. Changes since Webmin 2.640: Add support for trusted proxy IP addresses Fix a bug when editing monitors in the System and Server Status module Fix skip hwclock when unavailable #2693 Changes since Webmin 2.630 and Usermin 2.530: Add new nftables module with profiles, saved tables, and chains/sets management Add new Nginx module with look and feel matching the Apache module Add option to hide sensitive value...",
+  "published_at": "2026-05-12T11:28:42+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T21:14:05.751806+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/05/e6/e6a13d12759c1cc17ddf4bad713757a278576c9f669d19b828662ff4a6c65476/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/05/e6/e6a13d12759c1cc17ddf4bad713757a278576c9f669d19b828662ff4a6c65476/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1583,
+    "sha256": "sha256:1737659912507c02f7c932ee61b539d0cdb9ac0af0edf9b3b4eaa7900959f8ce",
+    "normalized_content_hash": "sha256:bea4152d7ae0ccda8dd0cd8feecb9ffa7e30b954a425375fbcbd7a3cd71a6752"
+  },
+  "provenance": {
+    "source_item_id": "fd45e204-3bb3-4ece-a95d-2fa57afe6e8b",
+    "external_id": "forum.virtualmin.com-topic-137203"
+  }
+}

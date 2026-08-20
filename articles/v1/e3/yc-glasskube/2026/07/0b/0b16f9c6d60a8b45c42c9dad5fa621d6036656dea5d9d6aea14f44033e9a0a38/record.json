@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0b16f9c6d60a8b45c42c9dad5fa621d6036656dea5d9d6aea14f44033e9a0a38",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/distr-v3-release/",
+    "canonical": "https://distr.sh/blog/distr-v3-release/"
+  },
+  "title": "Introducing Distr v3",
+  "summary": "After 26 minor feature releases in the 2.x series, Distr v3 replaces the log storage backend with Grafana Loki for longer log retention.",
+  "published_at": "2026-07-21T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T09:44:45.223944+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2026/07/0b/0b16f9c6d60a8b45c42c9dad5fa621d6036656dea5d9d6aea14f44033e9a0a38/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2026/07/0b/0b16f9c6d60a8b45c42c9dad5fa621d6036656dea5d9d6aea14f44033e9a0a38/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10606,
+    "sha256": "sha256:ecb75db405f457f86fb2c3668bd28753cd30a1897f42ce11bb655fefeca0bc2a",
+    "normalized_content_hash": "sha256:225de11f9f9ed67b59f0546a866035db6d3978d8dd923c29a3854ca1019edf6d"
+  },
+  "provenance": {
+    "source_item_id": "fd253e9d-4e76-480e-807c-cb2428a33a80",
+    "external_id": "https://distr.sh/blog/distr-v3-release/"
+  }
+}

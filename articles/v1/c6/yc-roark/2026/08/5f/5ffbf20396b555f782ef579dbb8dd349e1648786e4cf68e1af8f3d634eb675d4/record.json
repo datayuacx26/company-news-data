@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5ffbf20396b555f782ef579dbb8dd349e1648786e4cf68e1af8f3d634eb675d4",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-voice-agents-code-switching",
+    "canonical": "https://roark.ai/blog/testing-voice-agents-code-switching"
+  },
+  "title": "Testing voice agents against code-switching callers",
+  "summary": "Code-switching breaks voice agents at three layers: recognition, model, and synthesis. Here is how to test for it before it hits production.",
+  "published_at": "2026-08-06T00:00:00+00:00",
+  "first_seen_at": "2026-08-06T14:05:25.772588+00:00",
+  "fetched_at": "2026-08-06T14:05:27.239901+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/5f/5ffbf20396b555f782ef579dbb8dd349e1648786e4cf68e1af8f3d634eb675d4/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/5f/5ffbf20396b555f782ef579dbb8dd349e1648786e4cf68e1af8f3d634eb675d4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 12085,
+    "sha256": "sha256:684fb63ae83d1d20c5683c61a684612dc6543d510cff18e90378338364928cac",
+    "normalized_content_hash": "sha256:3868125b1a932d5f613c410b00a5da7e01ec37981233db0359106cd67e4bdb46"
+  },
+  "provenance": {
+    "source_item_id": "1ee48c80-f4f1-4dec-967f-65ea1b77aa4e",
+    "external_id": "https://roark.ai/blog/testing-voice-agents-code-switching"
+  }
+}

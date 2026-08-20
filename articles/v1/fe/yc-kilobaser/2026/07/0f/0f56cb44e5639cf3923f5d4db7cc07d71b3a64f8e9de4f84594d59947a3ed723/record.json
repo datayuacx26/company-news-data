@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0f56cb44e5639cf3923f5d4db7cc07d71b3a64f8e9de4f84594d59947a3ed723",
+  "company": {
+    "key": "yc-kilobaser",
+    "name": "Kilobaser"
+  },
+  "source": {
+    "id": "yc-kilobaser-news-import-9f375b6e1738",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://kilobaser.com/post/crispr-cas9-application-note",
+    "canonical": "https://kilobaser.com/post/crispr-cas9-application-note"
+  },
+  "title": "CRISPR/Cas9 – Application Note",
+  "summary": "This application demonstrates how to perform a CRISPR/Cas9 cleavage using a Kilobaser synthesizer. For cleavage, an sgRNA was transcribed from a DNA template prepared using the Kilobaser Synthesizer and Purification Kit.",
+  "published_at": null,
+  "first_seen_at": "2026-07-25T10:46:06.691006+00:00",
+  "fetched_at": "2026-07-28T21:16:50.994015+00:00",
+  "last_updated_at": "2026-08-19T17:52:58.643539+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-kilobaser/2026/07/0f/0f56cb44e5639cf3923f5d4db7cc07d71b3a64f8e9de4f84594d59947a3ed723/article.md",
+    "record": "articles/v1/fe/yc-kilobaser/2026/07/0f/0f56cb44e5639cf3923f5d4db7cc07d71b3a64f8e9de4f84594d59947a3ed723/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 24257,
+    "sha256": "sha256:1c3db29ba648f4387876213062d50224b3995bf4723da6db852b54fd45d00d33",
+    "normalized_content_hash": "sha256:4938238dbb9f2e2b2b04ab0652259670571e73f227367077889fbcbc86b4c063"
+  },
+  "provenance": {
+    "source_item_id": "90ad9f1d-502f-4e88-9a41-344c2eeb1729",
+    "external_id": "https://kilobaser.com/post/crispr-cas9-application-note"
+  }
+}

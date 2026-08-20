@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6dd9a4901f9b34a438f5112709db16fb51e26295d36e62d4be5cda37aaaf6bd",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "source": {
+    "id": "yc-sei-rss-1b5243482862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://seiright.com/blog/preventing-ai-hallucinations-banking-grounding-citation-architecture",
+    "canonical": "https://seiright.com/blog/preventing-ai-hallucinations-banking-grounding-citation-architecture"
+  },
+  "title": "Preventing AI Hallucinations in Bank Customer Service: A Grounding and Citation Architecture",
+  "summary": "How regulated banks can architect AI agents that do not hallucinate — covering retrieval grounding, citation enforcement, confidence gating, and the eval harness needed to keep policy-true answers in production.",
+  "published_at": "2026-05-10T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.548292+00:00",
+  "fetched_at": "2026-08-20T02:20:29.244809+00:00",
+  "last_updated_at": "2026-08-20T02:20:29.306031+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-sei/2026/05/d6/d6dd9a4901f9b34a438f5112709db16fb51e26295d36e62d4be5cda37aaaf6bd/article.md",
+    "record": "articles/v1/e4/yc-sei/2026/05/d6/d6dd9a4901f9b34a438f5112709db16fb51e26295d36e62d4be5cda37aaaf6bd/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 836,
+    "sha256": "sha256:16e4c0e037b5f946fd1085ecc3c1b4ddc4d7a3b8f70292596b04c0c7ae1a56c6",
+    "normalized_content_hash": "sha256:48a861e38dcfa7c842f928707ef8e88fc50304ca034b4381b6bddfce8457b8b0"
+  },
+  "provenance": {
+    "source_item_id": "ef88c0b2-3b89-4db4-a92e-8bb467b589ef",
+    "external_id": "https://seiright.com/blog/preventing-ai-hallucinations-banking-grounding-citation-architecture"
+  }
+}

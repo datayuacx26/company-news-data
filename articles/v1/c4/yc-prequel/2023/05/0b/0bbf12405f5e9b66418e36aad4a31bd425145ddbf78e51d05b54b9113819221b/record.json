@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0bbf12405f5e9b66418e36aad4a31bd425145ddbf78e51d05b54b9113819221b",
+  "company": {
+    "key": "yc-prequel",
+    "name": "Prequel"
+  },
+  "source": {
+    "id": "yc-prequel-news-import-43b0021e02b0",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.prequel.co/blog/sql-maxis-constructing-json-objects-in-athena-using-sql/",
+    "canonical": "https://www.prequel.co/blog/sql-maxis-constructing-json-objects-in-athena-using-sql/"
+  },
+  "title": "SQL Maxis: Constructing JSON objects in Athena using SQL",
+  "summary": "How we coerced Athena into constructing and exporting tables as rows of JSON objects",
+  "published_at": "2023-05-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T10:08:50.167024+00:00",
+  "fetched_at": "2026-07-28T21:33:46.196319+00:00",
+  "last_updated_at": "2026-08-19T20:03:18.384483+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-prequel/2023/05/0b/0bbf12405f5e9b66418e36aad4a31bd425145ddbf78e51d05b54b9113819221b/article.md",
+    "record": "articles/v1/c4/yc-prequel/2023/05/0b/0bbf12405f5e9b66418e36aad4a31bd425145ddbf78e51d05b54b9113819221b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5156,
+    "sha256": "sha256:7593b8fc19575f3d7a198972e43e9a27027374075e6c8a31d196ea5afdf74e82",
+    "normalized_content_hash": "sha256:1eec75be653d00657572a377f656cee6ba83ab4677c18d95e93bb5dc8274667d"
+  },
+  "provenance": {
+    "source_item_id": "2934d564-e94b-471f-a377-300308cfc3de",
+    "external_id": "https://www.prequel.co/blog/sql-maxis-constructing-json-objects-in-athena-using-sql/"
+  }
+}

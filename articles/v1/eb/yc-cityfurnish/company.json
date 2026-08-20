@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-cityfurnish",
+    "name": "Cityfurnish"
+  },
+  "record_count": 105,
+  "first_published_at": "2017-04-10T11:56:30+00:00",
+  "last_published_at": "2026-08-18T16:45:00+00:00",
+  "partitions": [
+    {
+      "partition": "2017-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2017-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2018-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-10",
+      "record_count": 1
+    },
+    {
+      "partition": "2018-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2019-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2020-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-02",
+      "record_count": 19
+    },
+    {
+      "partition": "2022-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-08",
+      "record_count": 1
+    },
+    {
+      "partition": "2022-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-01",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2023-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-11",
+      "record_count": 3
+    },
+    {
+      "partition": "2023-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-01",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-02",
+      "record_count": 4
+    },
+    {
+      "partition": "2024-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2024-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-07",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-08",
+      "record_count": 5
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 3
+    },
+    {
+      "partition": "2024-10",
+      "record_count": 2
+    },
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-05",
+      "record_count": 3
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-08",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-11",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 5
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/eb/yc-cityfurnish/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 51783,
+        "sha256": "sha256:90e415d0f85e23a0607879ca2e7e669de2273aaf4f16cb3b6b21bda7f96c433e",
+        "newest_at": "2026-08-18T16:45:00+00:00",
+        "oldest_at": "2024-02-22T11:04:55+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/eb/yc-cityfurnish/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 51344,
+        "sha256": "sha256:db0ae8a3bc4066d508fefb3d643b2f0fd89d96c5579444fee35d9794a9e37efe",
+        "newest_at": "2024-02-21T11:55:36+00:00",
+        "oldest_at": "2018-10-05T12:44:10+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/eb/yc-cityfurnish/index/pages/000003.json",
+        "record_count": 5,
+        "byte_count": 5216,
+        "sha256": "sha256:10c24e4257ba06245984f2d83ef78aa519f8df526e6260d1c9a087bb4ec3a413",
+        "newest_at": "2018-07-10T08:35:45+00:00",
+        "oldest_at": "2017-04-10T11:56:30+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b438bb1329e92235901ae68b85dcd6806bdcfafd2d7e3b0f8cf060be676563f6",
+  "company": {
+    "key": "yc-clarm",
+    "name": "Clarm"
+  },
+  "source": {
+    "id": "yc-clarm-news-import-36dfdbd138cb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.clarm.com/blog/articles/ai-agents-with-owner-checkpoints/",
+    "canonical": "https://clarm.com/blog/articles/ai-agents-with-owner-checkpoints/"
+  },
+  "title": "AI Agents With Named Owner Sign-Off: Why the Gate Is an Invariant",
+  "summary": "Why a named-owner checkpoint beats full autonomy for regulated work, and how to keep it from being switched off.",
+  "published_at": "2026-06-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:44:14.906804+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-03T17:05:18.166424+00:00",
+  "paths": {
+    "article": "articles/v1/cf/yc-clarm/2026/06/b4/b438bb1329e92235901ae68b85dcd6806bdcfafd2d7e3b0f8cf060be676563f6/article.md",
+    "record": "articles/v1/cf/yc-clarm/2026/06/b4/b438bb1329e92235901ae68b85dcd6806bdcfafd2d7e3b0f8cf060be676563f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4546,
+    "sha256": "sha256:1a33cd60f1a388e9387b32ebc41c3bfdec2f08bca4988dfd054dd418810f9b10",
+    "normalized_content_hash": "sha256:5a20b6294d11aebfff3977cafdf18582262d0535b5065f9d40610d0b8e25683e"
+  },
+  "provenance": {
+    "source_item_id": "b915ca02-fb1a-464b-be4a-6447695e958a",
+    "external_id": "https://clarm.com/blog/articles/ai-agents-with-owner-checkpoints/"
+  }
+}

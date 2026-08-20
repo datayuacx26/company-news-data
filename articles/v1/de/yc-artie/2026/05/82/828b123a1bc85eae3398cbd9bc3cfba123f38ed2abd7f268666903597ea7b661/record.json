@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "828b123a1bc85eae3398cbd9bc3cfba123f38ed2abd7f268666903597ea7b661",
+  "company": {
+    "key": "yc-artie",
+    "name": "Artie"
+  },
+  "source": {
+    "id": "yc-artie-news-import-55a3a4fb236c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artie.com/blogs/clickhouse-integration-guide",
+    "canonical": "https://www.artie.com/blogs/clickhouse-integration-guide"
+  },
+  "title": "ClickHouse Integration: A Practical Guide for Data Teams in 2026",
+  "summary": "Learn how to integrate ClickHouse Cloud with Postgres, MySQL, and more using CDC. Covers table engines, batching, and real-time pipeline setup.",
+  "published_at": "2026-05-27T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T02:25:22.954541+00:00",
+  "fetched_at": "2026-07-28T22:36:37.412728+00:00",
+  "last_updated_at": "2026-08-19T23:45:22.324875+00:00",
+  "paths": {
+    "article": "articles/v1/de/yc-artie/2026/05/82/828b123a1bc85eae3398cbd9bc3cfba123f38ed2abd7f268666903597ea7b661/article.md",
+    "record": "articles/v1/de/yc-artie/2026/05/82/828b123a1bc85eae3398cbd9bc3cfba123f38ed2abd7f268666903597ea7b661/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13154,
+    "sha256": "sha256:ffd16d17c78f2c914e1e28ab9e003bd912ab80c7cd3cce8b339018acd508e80a",
+    "normalized_content_hash": "sha256:549059c6ee1ab1bbce8f32c2263383045f99d1b4db37dae0395cbaddd9bb2445"
+  },
+  "provenance": {
+    "source_item_id": "0362d930-e44b-4dab-86ed-5102bcd39db0",
+    "external_id": "https://www.artie.com/blogs/clickhouse-integration-guide"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09d9e2c5819779201b7831336b4d736e5c1ee0f57646d6dddd162012a18b72e3",
+  "company": {
+    "key": "yc-fampay",
+    "name": "FamPay"
+  },
+  "source": {
+    "id": "yc-fampay-rss-25fb68ce5f72",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.famapp.in/blog/building-a-50-ms-home-feed-part-1-design/",
+    "canonical": "https://blog.famapp.in/blog/building-a-50-ms-home-feed-part-1-design/"
+  },
+  "title": "Building a 50ms Home Feed — Part 1: Design",
+  "summary": "As Famapp scaled to millions of users, our home feed became a major bottleneck, with p95 latencies hitting 2–4 seconds. In this post, we share how we redesigned the home feed architecture to balance deep personalisation with speed and set the foundation for sub-50ms responses.",
+  "published_at": "2026-01-02T10:29:08+00:00",
+  "first_seen_at": "2026-07-20T23:23:51.041833+00:00",
+  "fetched_at": "2026-07-28T20:54:56.230774+00:00",
+  "last_updated_at": "2026-07-28T20:55:08.166031+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-fampay/2026/01/09/09d9e2c5819779201b7831336b4d736e5c1ee0f57646d6dddd162012a18b72e3/article.md",
+    "record": "articles/v1/c3/yc-fampay/2026/01/09/09d9e2c5819779201b7831336b4d736e5c1ee0f57646d6dddd162012a18b72e3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16621,
+    "sha256": "sha256:fdf3c324089b4251cc4ee3060caf85e96e607e260c47cb4ad3b0a4e9215c8963",
+    "normalized_content_hash": "sha256:5817b01e29f51f07d7a1a3e70d929548334507260347230a18c4d5787b48da89"
+  },
+  "provenance": {
+    "source_item_id": "44e1c05d-965e-42a3-80ce-80c9b25c24ed",
+    "external_id": "6952cd08213fc30001c56823"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c39ae912d0024117f9c40604704fa154e271a60ffa263728d08e04c5c0ceead4",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/laravel-to-kubernetes-simplified-with-skyhook",
+    "canonical": "https://www.skyhook.io/blog/laravel-to-kubernetes-simplified-with-skyhook"
+  },
+  "title": "Laravel to Kubernetes, Simplified with Skyhook",
+  "summary": "Deploy Laravel on Kubernetes step by step - Nginx, PHP-FPM, Horizon workers, database migrations, TLS, and autoscaling. Manual YAML route vs automated Skyhook route compared.",
+  "published_at": "2025-11-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T21:27:35.329570+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2025/11/c3/c39ae912d0024117f9c40604704fa154e271a60ffa263728d08e04c5c0ceead4/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2025/11/c3/c39ae912d0024117f9c40604704fa154e271a60ffa263728d08e04c5c0ceead4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10471,
+    "sha256": "sha256:120fe191153774bd18db3764bbf29924f3f65e8dbf0a50f7a03639b0ba6d2847",
+    "normalized_content_hash": "sha256:90a8007108b8fa41efc594809697482801e00feb5fbce9d711a3bb90e788226e"
+  },
+  "provenance": {
+    "source_item_id": "469af29c-ab72-403c-8a7e-799fb44b8413",
+    "external_id": "https://www.skyhook.io/blog/laravel-to-kubernetes-simplified-with-skyhook"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e42446844d1ea8cf543ff909009ed6b189ece3688f719140a12f14113ecead80",
+  "company": {
+    "key": "yc-cedana",
+    "name": "Cedana"
+  },
+  "source": {
+    "id": "yc-cedana-news-import-d2b6a3d3a0df",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://cedana.com/blog/the-wall-time-limit-forces-an-expensive-tradeoff-in-hpc/",
+    "canonical": "https://cedana.com/blog/the-wall-time-limit-forces-an-expensive-tradeoff-in-hpc/"
+  },
+  "title": "The Wall-Time Limit forces an expensive tradeoff in HPC.",
+  "summary": "Jobs reach their wall-time limits and lose hours or days of in-memory progress. However, the limit itself is not the problem.",
+  "published_at": "2026-08-12T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T05:08:30.961906+00:00",
+  "fetched_at": "2026-08-18T05:08:32.098954+00:00",
+  "last_updated_at": "2026-08-20T00:51:08.175987+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-cedana/2026/08/e4/e42446844d1ea8cf543ff909009ed6b189ece3688f719140a12f14113ecead80/article.md",
+    "record": "articles/v1/d2/yc-cedana/2026/08/e4/e42446844d1ea8cf543ff909009ed6b189ece3688f719140a12f14113ecead80/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11117,
+    "sha256": "sha256:a081373e99d2eb9aa861c034dadf5ff1f5a84ef15e468f7773781a98161f7577",
+    "normalized_content_hash": "sha256:0063b5e751e330e2d05bc17d06b247ca6088e78f9e1da02a98b53f7f5300d609"
+  },
+  "provenance": {
+    "source_item_id": "46aa77da-f18f-4368-b714-463c5c1bbece",
+    "external_id": "https://cedana.com/blog/the-wall-time-limit-forces-an-expensive-tradeoff-in-hpc/"
+  }
+}

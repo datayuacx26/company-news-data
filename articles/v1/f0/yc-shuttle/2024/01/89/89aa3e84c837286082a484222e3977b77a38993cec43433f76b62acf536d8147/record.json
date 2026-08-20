@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89aa3e84c837286082a484222e3977b77a38993cec43433f76b62acf536d8147",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/01/31/write-a-rest-api-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/01/31/write-a-rest-api-rust"
+  },
+  "title": "Writing a REST API in Rust",
+  "summary": "This article talks about how you can write a Rust REST API using Axum, SQLx and Postgres.",
+  "published_at": "2024-01-31T14:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:16.511012+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/01/89/89aa3e84c837286082a484222e3977b77a38993cec43433f76b62acf536d8147/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/01/89/89aa3e84c837286082a484222e3977b77a38993cec43433f76b62acf536d8147/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11749,
+    "sha256": "sha256:e4d41a23ceee2e897ce97717858f08f9d1dc07bf931641124d0c382bd1e30966",
+    "normalized_content_hash": "sha256:c3b27b53015a846c1f0c4f55dc2f7ba773cd3436fa3dd63f3548f12a24b234c4"
+  },
+  "provenance": {
+    "source_item_id": "36759240-f7a3-4497-982a-3cd2187981fc",
+    "external_id": "https://www.shuttle.dev/blog/2024/01/31/write-a-rest-api-rust"
+  }
+}

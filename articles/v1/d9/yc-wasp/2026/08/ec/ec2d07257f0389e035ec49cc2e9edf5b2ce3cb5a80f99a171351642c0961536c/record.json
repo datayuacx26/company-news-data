@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ec2d07257f0389e035ec49cc2e9edf5b2ce3cb5a80f99a171351642c0961536c",
+  "company": {
+    "key": "yc-wasp",
+    "name": "Wasp"
+  },
+  "source": {
+    "id": "yc-wasp-rss-5b1984e54864",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://wasp.sh/blog/2026/08/03/wasp-resend-email-provider",
+    "canonical": "https://wasp.sh/blog/2026/08/03/wasp-resend-email-provider"
+  },
+  "title": "Wasp now supports Resend for sending emails",
+  "summary": "Wasp 0.25 adds Resend as a first-class email sender provider: set provider to Resend, add your API key, and start sending emails from your full-stack app.",
+  "published_at": "2026-08-03T00:00:00+00:00",
+  "first_seen_at": "2026-08-03T12:19:20.821251+00:00",
+  "fetched_at": "2026-08-03T13:03:34.932163+00:00",
+  "last_updated_at": "2026-08-20T02:55:38.590332+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-wasp/2026/08/ec/ec2d07257f0389e035ec49cc2e9edf5b2ce3cb5a80f99a171351642c0961536c/article.md",
+    "record": "articles/v1/d9/yc-wasp/2026/08/ec/ec2d07257f0389e035ec49cc2e9edf5b2ce3cb5a80f99a171351642c0961536c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4064,
+    "sha256": "sha256:b2b305fc8cd7622827f2721a410b0fd48f5150b657e4aedf8a5b8834086b4983",
+    "normalized_content_hash": "sha256:f0fd86c133ed7a5c34b0de221eff222ddf097d58b8637e52e04cc0fa13acd690"
+  },
+  "provenance": {
+    "source_item_id": "afd474ae-e8ad-4125-a026-4209d488a631",
+    "external_id": "https://wasp.sh/blog/2026/08/03/wasp-resend-email-provider"
+  }
+}

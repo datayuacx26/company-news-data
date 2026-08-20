@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3ec3301aedfea3c29dab42b769fc428a7a18ba9c2e3e7609e722f3d454d41a3f",
+  "company": {
+    "key": "yc-slite",
+    "name": "Slite"
+  },
+  "source": {
+    "id": "yc-slite-news-import-62ed1fb859d3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://slite.com/blog/you-dont-need-a-context-graph",
+    "canonical": "https://slite.com/blog/you-dont-need-a-context-graph"
+  },
+  "title": "Your company doesn't need a context graph",
+  "summary": "Glean says enterprise AI needs a context graph. Claude Code, Cursor, and our own testing say otherwise. The case for agentic retrieval over a stored ontology.",
+  "published_at": null,
+  "first_seen_at": "2026-08-12T05:05:14.173039+00:00",
+  "fetched_at": "2026-08-12T05:05:16.593292+00:00",
+  "last_updated_at": "2026-08-19T23:19:00.324913+00:00",
+  "paths": {
+    "article": "articles/v1/dc/yc-slite/2026/08/3e/3ec3301aedfea3c29dab42b769fc428a7a18ba9c2e3e7609e722f3d454d41a3f/article.md",
+    "record": "articles/v1/dc/yc-slite/2026/08/3e/3ec3301aedfea3c29dab42b769fc428a7a18ba9c2e3e7609e722f3d454d41a3f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9375,
+    "sha256": "sha256:28999d96d6049e8e3b3f9b937a56635e4ef42ebddf1b79a4b852962d9bb6cdbe",
+    "normalized_content_hash": "sha256:adcd93120e22c7e0ce608fb9df1b45feb2974dfa0b0f8087fb8df2c0d209b325"
+  },
+  "provenance": {
+    "source_item_id": "0eab43b0-8e1d-4b8c-ae66-d50579ee72d3",
+    "external_id": "https://slite.com/blog/you-dont-need-a-context-graph"
+  }
+}

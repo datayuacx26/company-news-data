@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c7b2e55a963512c519cc5dd4187445dc0a1184a8689af762e2088f071ae9f501",
+  "company": {
+    "key": "tenable-holdings-inc-common-stock",
+    "name": "Tenable Holdings Inc."
+  },
+  "source": {
+    "id": "tenable-holdings-inc-common-stock-news-import-a6b69c49a265",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tenable.com/blog/oracle-august-2026-critical-security-patch-update-cspu-addresses-925-cves",
+    "canonical": "https://www.tenable.com/blog/oracle-august-2026-critical-security-patch-update-cspu-addresses-925-cves"
+  },
+  "title": "Oracle Critical Security Patch Update August 2026 | Tenable®",
+  "summary": "Oracle addresses 925 CVEs in its August 2026 Critical Security Patch Update with 943 patches, including 154 critical updates.",
+  "published_at": "2026-08-19T00:41:38+00:00",
+  "first_seen_at": "2026-08-19T10:17:53.484384+00:00",
+  "fetched_at": "2026-08-19T10:17:54.158629+00:00",
+  "last_updated_at": "2026-08-20T00:38:48.427748+00:00",
+  "paths": {
+    "article": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/08/c7/c7b2e55a963512c519cc5dd4187445dc0a1184a8689af762e2088f071ae9f501/article.md",
+    "record": "articles/v1/cb/tenable-holdings-inc-common-stock/2026/08/c7/c7b2e55a963512c519cc5dd4187445dc0a1184a8689af762e2088f071ae9f501/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5183,
+    "sha256": "sha256:97a4dcedda40df0b9ced5d7bd753db4079f5b005ac5a83b05100f9b2650c986a",
+    "normalized_content_hash": "sha256:3ad26c10a7ffc24c89d62e1173c395cce5724998eafd89e0a7e3007758cd74a4"
+  },
+  "provenance": {
+    "source_item_id": "d8817855-b728-43cc-a239-61b82ca6b6b7",
+    "external_id": "https://www.tenable.com/blog/oracle-august-2026-critical-security-patch-update-cspu-addresses-925-cves"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "bdb00303ee4f027fc15dc8dcdff849f490a9ea92abb36155ea66f6dd54b1748f",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc."
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-rss-29758b507457",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-august-2026/"
+  },
+  "title": "August 2026 Patch Tuesday: One Exploited Zero-Day and 62 Critical Vulnerabilities Among 415 CVEs",
+  "summary": "Microsoft has released security updates for 415 vulnerabilities, including one exploited zero-day and 62 critical, in its August 2026 Patch Tuesday rollout.",
+  "published_at": null,
+  "first_seen_at": "2026-08-12T06:21:09.129655+00:00",
+  "fetched_at": "2026-08-12T06:21:11.696674+00:00",
+  "last_updated_at": "2026-08-20T02:18:12.390328+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/08/bd/bdb00303ee4f027fc15dc8dcdff849f490a9ea92abb36155ea66f6dd54b1748f/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/08/bd/bdb00303ee4f027fc15dc8dcdff849f490a9ea92abb36155ea66f6dd54b1748f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 50167,
+    "sha256": "sha256:362b0013cfd90db74e38e48a512e38897e9afdcab3d57ec15bda4d15b04a4d1c",
+    "normalized_content_hash": "sha256:4018f1b3401dd94733420de6a0e6240ec1f37dcb50b4e80c61c99fdec3b8d5a6"
+  },
+  "provenance": {
+    "source_item_id": "99248729-df55-478f-beeb-ada7c4fe12e4",
+    "external_id": "https://www.crowdstrike.com/?p=749483"
+  }
+}

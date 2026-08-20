@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d7f83e40c04231a1a7b7cabd83682f82822958972cc1016629a720015ff1e616",
+  "company": {
+    "key": "yc-glasskube",
+    "name": "Glasskube"
+  },
+  "source": {
+    "id": "yc-glasskube-news-import-f40b83a58804",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://distr.sh/blog/docker-swarm-load-balancing-routing/",
+    "canonical": "https://distr.sh/blog/docker-swarm-load-balancing-routing/"
+  },
+  "title": "Load Balancing and Routing in Docker Swarm",
+  "summary": "Learn how to set up load balancing, reverse proxying, and SSL termination in Docker Swarm. Covers two approaches: built-in routing mesh and Traefik with automatic HTTPS, plus monitoring with Prometheus and Grafana.",
+  "published_at": "2026-02-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T21:44:16.826534+00:00",
+  "fetched_at": "2026-07-28T21:59:20.881057+00:00",
+  "last_updated_at": "2026-08-20T03:09:09.769023+00:00",
+  "paths": {
+    "article": "articles/v1/e3/yc-glasskube/2026/02/d7/d7f83e40c04231a1a7b7cabd83682f82822958972cc1016629a720015ff1e616/article.md",
+    "record": "articles/v1/e3/yc-glasskube/2026/02/d7/d7f83e40c04231a1a7b7cabd83682f82822958972cc1016629a720015ff1e616/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 20455,
+    "sha256": "sha256:e4d597ed6231d88dc764dfb02e219e4b15abfcaa30ad3fc5189aad172a90f501",
+    "normalized_content_hash": "sha256:64de4a4710ddaddf64b75390834ef73eb03505d1a6b20a00a73d3f88cc83e99f"
+  },
+  "provenance": {
+    "source_item_id": "ad7ee989-e0ca-4c7a-b747-da698951a85b",
+    "external_id": "https://distr.sh/blog/docker-swarm-load-balancing-routing/"
+  }
+}

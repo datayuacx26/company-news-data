@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f08af4348469a9a506ee72ab1586539e4431af0b15de29cdd2c8b62bbf2dc171",
+  "company": {
+    "key": "block-inc-class-a-common-stock",
+    "name": "Block Inc."
+  },
+  "source": {
+    "id": "block-inc-class-a-common-stock-rss-613ed2351e85",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "http://engineering.block.xyz/blog/18mb-of-hashmap-overhead",
+    "canonical": "http://engineering.block.xyz/blog/18mb-of-hashmap-overhead"
+  },
+  "title": "18Mb of HashMap overhead",
+  "summary": "Cutting 18 Mb from Android memory by replacing a HashMap with a FloatArray",
+  "published_at": "2026-04-24T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T03:32:06.876214+00:00",
+  "fetched_at": "2026-07-28T20:52:06.558365+00:00",
+  "last_updated_at": "2026-08-20T01:58:38.806680+00:00",
+  "paths": {
+    "article": "articles/v1/f5/block-inc-class-a-common-stock/2026/04/f0/f08af4348469a9a506ee72ab1586539e4431af0b15de29cdd2c8b62bbf2dc171/article.md",
+    "record": "articles/v1/f5/block-inc-class-a-common-stock/2026/04/f0/f08af4348469a9a506ee72ab1586539e4431af0b15de29cdd2c8b62bbf2dc171/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8163,
+    "sha256": "sha256:08befd7e8e73b9f2defe38829e30cebf664ca1a10ba1de83c766a56c21f62fac",
+    "normalized_content_hash": "sha256:bd8c58773533078019e4539e09fe822867a1560df0697de544c0b91ccf0e69c4"
+  },
+  "provenance": {
+    "source_item_id": "31906629-bd31-496a-8928-561cde5df722",
+    "external_id": "http://engineering.block.xyz/blog/18mb-of-hashmap-overhead"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "oio-group-ordinary-shares",
+    "name": "OIO Group"
+  },
+  "record_count": 6,
+  "first_published_at": "2026-03-09T13:30:00+00:00",
+  "last_published_at": "2026-05-13T11:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 3
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/oio-group-ordinary-shares/index/pages/000001.json",
+        "record_count": 6,
+        "byte_count": 7585,
+        "sha256": "sha256:4d29e2ba0eb96f9e3ae4a3470574073edf9f608315df696a67e57743c3b3f5d8",
+        "newest_at": "2026-05-13T11:00:00+00:00",
+        "oldest_at": "2026-03-09T13:30:00+00:00"
+      }
+    ]
+  }
+}

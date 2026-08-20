@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "0d9a0bfe8df22ee3c4a29097524613ee584012b76e54d6062646f88aa9f61e60",
+  "company": {
+    "key": "certara-inc-common-stock",
+    "name": "Certara Inc."
+  },
+  "source": {
+    "id": "certara-inc-common-stock-news-import-9c3b42c154a7",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://jp.certara.com/announcement/certara-brings-chemaxon-cheminformatics-natively-to-python-with-new-python-api/",
+    "canonical": "https://jp.certara.com/announcement/certara-brings-chemaxon-cheminformatics-natively-to-python-with-new-python-api/"
+  },
+  "title": "Certara Brings Chemaxon Cheminformatics Natively to Python with New Python API",
+  "summary": "Certara launches the Chemaxon Python API: native molecular conversion, property calculation, fingerprinting, and similarity search in Python. pip install to start.",
+  "published_at": "2026-07-20T13:34:08+00:00",
+  "first_seen_at": "2026-07-22T21:45:03.614585+00:00",
+  "fetched_at": "2026-07-28T21:21:02.928028+00:00",
+  "last_updated_at": "2026-08-19T18:08:08.271390+00:00",
+  "paths": {
+    "article": "articles/v1/e9/certara-inc-common-stock/2026/07/0d/0d9a0bfe8df22ee3c4a29097524613ee584012b76e54d6062646f88aa9f61e60/article.md",
+    "record": "articles/v1/e9/certara-inc-common-stock/2026/07/0d/0d9a0bfe8df22ee3c4a29097524613ee584012b76e54d6062646f88aa9f61e60/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6228,
+    "sha256": "sha256:610bf1c07568069401b95404753f94f1aa733aed8d7b65281f9a6bdde8a71e1f",
+    "normalized_content_hash": "sha256:e04ae8792d0c1323248922f0be989395aeb24fdada030e95cb02d67093b0871e"
+  },
+  "provenance": {
+    "source_item_id": "ff74f081-e131-4f3d-acec-8acfefaac303",
+    "external_id": "https://jp.certara.com/announcement/certara-brings-chemaxon-cheminformatics-natively-to-python-with-new-python-api/"
+  }
+}

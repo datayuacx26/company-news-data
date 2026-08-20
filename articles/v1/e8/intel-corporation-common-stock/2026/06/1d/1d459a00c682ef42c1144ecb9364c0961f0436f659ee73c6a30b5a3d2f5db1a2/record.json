@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1d459a00c682ef42c1144ecb9364c0961f0436f659ee73c6a30b5a3d2f5db1a2",
+  "company": {
+    "key": "intel-corporation-common-stock",
+    "name": "Intel Corporation"
+  },
+  "source": {
+    "id": "intel-corporation-common-stock-news-import-c4af2245fd4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://newsroom.intel.com/client-computing/postcard-from-computex-2026-new-intel-core-series-3-laptops-for-creation-productivity",
+    "canonical": "https://newsroom.intel.com/client-computing/postcard-from-computex-2026-new-intel-core-series-3-laptops-for-creation-productivity"
+  },
+  "title": "Postcard from Computex 2026: New Intel® Core™ Series 3 laptops for Everyday Creation and All-day Productivity",
+  "summary": "Up to 17 hours of battery life versus the previous generation",
+  "published_at": "2026-06-05T08:59:30+00:00",
+  "first_seen_at": "2026-07-22T00:13:30.648204+00:00",
+  "fetched_at": "2026-07-28T21:42:42.932365+00:00",
+  "last_updated_at": "2026-08-20T00:12:14.849848+00:00",
+  "paths": {
+    "article": "articles/v1/e8/intel-corporation-common-stock/2026/06/1d/1d459a00c682ef42c1144ecb9364c0961f0436f659ee73c6a30b5a3d2f5db1a2/article.md",
+    "record": "articles/v1/e8/intel-corporation-common-stock/2026/06/1d/1d459a00c682ef42c1144ecb9364c0961f0436f659ee73c6a30b5a3d2f5db1a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 4603,
+    "sha256": "sha256:8bb316cdd730b5b9b6bf4f3bb28ba73f9bf47933ce9854c7b4d6b8a030c3812e",
+    "normalized_content_hash": "sha256:725dae5766a46fe0ecfd80e26ba0dd18a685496f879e7a529713f407937018bc"
+  },
+  "provenance": {
+    "source_item_id": "a4aa57f7-b271-448d-b6c7-b531346ab06a",
+    "external_id": "https://newsroom.intel.com/client-computing/postcard-from-computex-2026-new-intel-core-series-3-laptops-for-creation-productivity"
+  }
+}

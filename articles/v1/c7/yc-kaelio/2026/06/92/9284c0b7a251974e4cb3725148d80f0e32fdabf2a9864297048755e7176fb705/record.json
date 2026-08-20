@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "9284c0b7a251974e4cb3725148d80f0e32fdabf2a9864297048755e7176fb705",
+  "company": {
+    "key": "yc-kaelio",
+    "name": "Kaelio"
+  },
+  "source": {
+    "id": "yc-kaelio-news-import-d43a8938b457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kaelio.com/blog/open-source-anthropic-internal-data-analytics-engine",
+    "canonical": "https://www.kaelio.com/blog/open-source-anthropic-internal-data-analytics-engine"
+  },
+  "title": "We Built the Open-Source Version of Anthropic's Internal Data Analytics Engine",
+  "summary": "Anthropic published how its data team automated close to 100% of business analytics at 95%+ accuracy. The four-layer architecture they describe is the same one we had already open-sourced as ktx, an independent, Apache-2.0 context engine for data agents.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:10:57.591835+00:00",
+  "fetched_at": "2026-07-28T21:54:56.147054+00:00",
+  "last_updated_at": "2026-08-20T00:20:28.214979+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-kaelio/2026/06/92/9284c0b7a251974e4cb3725148d80f0e32fdabf2a9864297048755e7176fb705/article.md",
+    "record": "articles/v1/c7/yc-kaelio/2026/06/92/9284c0b7a251974e4cb3725148d80f0e32fdabf2a9864297048755e7176fb705/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18853,
+    "sha256": "sha256:e6894be2bfc96d2f88cc21d1259333b359fefc32c03fd45dd50b0bcce4d758a3",
+    "normalized_content_hash": "sha256:8fe5b729886139deeac77e079539fe349578e0ddfa3771ae7c0665d300c6eb0d"
+  },
+  "provenance": {
+    "source_item_id": "19256186-2433-4c19-9aed-94bbf14d1a14",
+    "external_id": "https://www.kaelio.com/blog/open-source-anthropic-internal-data-analytics-engine"
+  }
+}

@@ -1,0 +1,49 @@
+---
+schema_version: "1.0.0"
+document_id: "e0f22be66522a0cdd527922a2fa3b7e8b3588726ba6c02d50c514e4c20004ea2"
+company_key: "yc-turing-labs-inc"
+company: "Turing Labs Inc."
+source_id: "yc-turing-labs-inc-news-import-34fb641b2039"
+canonical_url: "https://www.turingsaas.com/post/winning-in-cpg-by-unlocking-consumers-psyche-and-delivering-blockbuster-products"
+published_at: "2021-07-19T00:00:00+00:00"
+first_seen_at: "2026-08-06T23:57:17.977925+00:00"
+fetched_at: "2026-08-06T23:57:20.040798+00:00"
+content_hash: "sha256:3921e059b2a5761ada505e94c166014ee8b3bf39745078f01eca864acb4fe731"
+---
+
+# Winning in CPG by unlocking consumer’s psyche and delivering blockbuster products
+
+# Winning in CPG by unlocking consumer’s psyche and delivering blockbuster products
+
+
+*July 19, 2021 · 10 MIN READ*
+
+
+Ever heard of the WOW chips or the Satisfries? How about Crystal Pepsi or Zima? Chances are that you have not, these are some of the clear majority of the products that failed. Only about one in five of the new products launched survive for longer than a year, and to make things more difficult, new product launches are at least six times more expensive than introducing current product variants. Even after years of R&D, extensive market research and trying to understand customer’s pulse, 95% of new product launches fail.
+
+
+Before 2011, this was not such a big problem for the CPG industry since there was much less competition and the pace of change was much slower than today. However, since 2011, things changed drastically. Moment of truths for new products has shifted from retail shelves to online media like Facebook and Instagram. The emergence of niche and boutique CPG companies who sell direct to consumer and create flexible, recurring revenue-based models are proving to disrupt the traditional growth models of the CPG industry. Here’s a look at three key areas CPG companies could potentially optimize to maximize revenues and market share,
+
+
+**1. Develop blockbuster products which are highly personalized to consumer segments:**
+
+
+Optimized product features and likeability driven by R&D Innovation hold the key to multi-segment growth. It is very easy to think that today consumers are much more informed and having multiple touchpoints, so the obvious solution to gain their trust and loyalty is by improving the quality of advertising and marketing empowered by artificial intelligence. Right? True but that’s only half the story. However great your advertising and marketing messages are, the product ultimately decides the consumers choice. In 1992, Pepsi’s $40 million-dollar campaign for Crystal Pepsi got enough traction to spark consumer’s curiosity but then it quickly died down because most cola drinkers expected a darker beverage.
+
+
+Given the ever-evolving consumer psyche and decreasing loyalty to brands, it becomes imperative for companies to develop blockbuster products which touch the key chords to consumers’ needs and this has to be enabled by a combination of R&D, artificial intelligence, and behavioral science. New and innovative ways to get direct consumer preference can give better direction to product development and greatly reduce product concept-to-market time.
+
+
+**2. Evolution of business model from Retail to Direct-to-Consumer:**
+
+
+The core reason for disruption from the niche and boutique CPG companies is due to their inherent advantage in insight and access directly to the consumer. They establish strong relationships with their customers and converting into flexible, recurring subscription model businesses. To maintain market share and relevancy, digital transformation and incorporation of direct to consumer strategies is a must. This also opens the golden gate to consumer data of all kinds which can be then used for new product development, optimizing SKU, improving consumer satisfaction and loyalty. Some of the CPG giants have already started in this direction and are reaping the early benefits.
+
+
+**3. Social media is a great source for rich consumer insights:**
+
+
+There is no doubt that today the moment of truth for new products has shifted from retail shelves to online media of Facebook, Instagram, SnapChat etc. For example, the online-research rate among purchasers of cereal is 45 percent, while it’s 55 percent and 65 percent for soaps and cosmetics respectively. Social media is one of the best mediums to understand the needs, gaps, brand equity, and purchase behavior leading to significant input for targeting, positioning as well as new product development. Further, it also yields competitive intelligence which gives critical insight into why your product is winning/losing and how you could potentially gain by developing empowered product variants.
+
+
+Finally, these three key areas require a data-driven approach to enable insight-based selling. It is imperative for companies to have a strong digital backbone and a capable analytical team to enable better decision making. Winning companies tend to have invested heavily in advanced analytics, cutting-edge technologies, and partner with niche companies with targeted capabilities. But data is not the be-all and end-all of the story, human knowledge and uncertainty still play a large part in how better decisions are made. This integration of the story of the data and human knowledge enables companies to be one step ahead of the competition. These companies are constantly listening, monitoring, understanding consumer preferences and are in constant evolution to ensure they are not left behind. Artificial intelligence empowered by behavioral science concepts marry the story of the data with the human knowledge. This kind of a platform helps to create blockbuster products, better revenue growth management and most importantly creating a decision-making cockpit which takes into consideration the irrationality of the consumer’s mind, the uncertainty of the market and the requirement to hyper-personalize. Tomorrow’s CPG world will look very different from that of today and the right choices made today will help shape the future and differentiate from the competition.

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "f79b7819cb56a34dd8d2065a3ad858c85b473ad776ef3c9b0bcbc751bee42443",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-51f20a74ff70",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/autogpt-cve-2026-30950-session-hijack",
+    "canonical": "https://zeropath.com/blog/autogpt-cve-2026-30950-session-hijack"
+  },
+  "title": "CVE-2026-30950 Allows Chat Session Hijacking In AutoGPT",
+  "summary": "ZeroPath Research discovered an authenticated IDOR in AutoGPT (CVE-2026-30950) that lets any logged-in user hijack any other user's chat session with a single PATCH request, exposing the full conversation history and locking out the original owner. Affects autogpt-platform-backend >= 0.6.36, < 0.6.51; patched in 0.6.51.",
+  "published_at": "2026-05-20T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:51:45.842756+00:00",
+  "fetched_at": "2026-07-28T22:13:02.720629+00:00",
+  "last_updated_at": "2026-08-19T20:20:56.679336+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/05/f7/f79b7819cb56a34dd8d2065a3ad858c85b473ad776ef3c9b0bcbc751bee42443/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/05/f7/f79b7819cb56a34dd8d2065a3ad858c85b473ad776ef3c9b0bcbc751bee42443/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14499,
+    "sha256": "sha256:e7e19531aac50e92760a126b834d4fc3cfd92da48d91c885b89e77bb92a1ac79",
+    "normalized_content_hash": "sha256:9252bbd55c93e38a95ca826f41d1398d8043793cbf91d606a7509b5135f7b7fe"
+  },
+  "provenance": {
+    "source_item_id": "0c56f9e3-d26b-4b6d-bb92-45ac5e70b4f5",
+    "external_id": "https://zeropath.com/blog/autogpt-cve-2026-30950-session-hijack"
+  }
+}

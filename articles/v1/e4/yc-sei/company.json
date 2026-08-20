@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "record_count": 104,
+  "first_published_at": "2024-12-20T00:00:00+00:00",
+  "last_published_at": "2026-08-14T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-12",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-02",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-09",
+      "record_count": 24
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 20
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 24
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 21
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 10
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 3,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/yc-sei/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 67095,
+        "sha256": "sha256:f496483d0e2528939195a4ea1ff72643737bc2f3066c69c9c7712a5acc641ffc",
+        "newest_at": "2026-08-14T00:00:00+00:00",
+        "oldest_at": "2026-06-05T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/e4/yc-sei/index/pages/000002.json",
+        "record_count": 50,
+        "byte_count": 53085,
+        "sha256": "sha256:626795db7d1e9991856171064febb014f51246dd854edb17ed6ea04ba9d366da",
+        "newest_at": "2026-06-05T00:00:00+00:00",
+        "oldest_at": "2025-02-05T00:00:00+00:00"
+      },
+      {
+        "page": 3,
+        "path": "articles/v1/e4/yc-sei/index/pages/000003.json",
+        "record_count": 4,
+        "byte_count": 4095,
+        "sha256": "sha256:48bc73fcbdb4dc750f4b6b1acf7a126504bb93cb3c4b1820bbb25603479932fb",
+        "newest_at": "2025-02-01T00:00:00+00:00",
+        "oldest_at": "2024-12-20T00:00:00+00:00"
+      }
+    ]
+  }
+}

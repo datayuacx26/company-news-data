@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "89e726af398b14c71110bece24f2be2ee76200c13926b75529d628c7d113f915",
+  "company": {
+    "key": "neonode-inc-common-stock",
+    "name": "Neonode Inc."
+  },
+  "source": {
+    "id": "neonode-inc-common-stock-news-import-d5e25174a8ad",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://neonode.com/newsroom/white-papers/driver-readiness-white-paper-1",
+    "canonical": "https://neonode.com/newsroom/white-papers/driver-readiness-white-paper-1"
+  },
+  "title": "Driver Readiness White Paper",
+  "summary": "Partial automation relies on drivers staying attentive and ready to take control at any moment. This highlights the need for a more complete, real-time understanding of driver readiness.",
+  "published_at": "2026-06-01T10:44:55+00:00",
+  "first_seen_at": "2026-07-23T17:45:56.592206+00:00",
+  "fetched_at": "2026-07-28T21:24:31.593744+00:00",
+  "last_updated_at": "2026-08-19T14:56:11.476349+00:00",
+  "paths": {
+    "article": "articles/v1/fb/neonode-inc-common-stock/2026/06/89/89e726af398b14c71110bece24f2be2ee76200c13926b75529d628c7d113f915/article.md",
+    "record": "articles/v1/fb/neonode-inc-common-stock/2026/06/89/89e726af398b14c71110bece24f2be2ee76200c13926b75529d628c7d113f915/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 1795,
+    "sha256": "sha256:0b9deb244e5222fb81fd881f84a06bc42dffb169e68fb0cfbf5e912434e559b3",
+    "normalized_content_hash": "sha256:76443fa79a69773a21e7e01b88464320785c4b01e7edefac9de17e1efd23fc52"
+  },
+  "provenance": {
+    "source_item_id": "5fb11d69-920f-4934-834f-d593738afc8b",
+    "external_id": "https://neonode.com/newsroom/white-papers/driver-readiness-white-paper-1"
+  }
+}

@@ -1,0 +1,77 @@
+---
+schema_version: "1.0.0"
+document_id: "f50ecfa27d3d80501f57637c153b15095b7cecbeeb9f35ccc88bcd9cb9a82411"
+company_key: "incannex-healthcare-inc-common-stock"
+company: "Incannex Healthcare Inc."
+source_id: "incannex-healthcare-inc-common-stock-rss-384e505b58a8"
+canonical_url: "https://ir.incannex.com/news-releases/news-release-details/incannex-reactivates-share-repurchase-program-underscoring"
+published_at: "2026-03-27T12:00:38+00:00"
+first_seen_at: "2026-07-26T08:19:32.995505+00:00"
+fetched_at: "2026-07-28T21:56:52.525405+00:00"
+content_hash: "sha256:2db100788bdb8340c799e465c0a3bdfcb80c18f0e9b25302395b44ee4fb973e3"
+---
+
+# Incannex Reactivates Share Repurchase Program, Underscoring Confidence in Valuation and Strategic Position
+
+## Incannex Reactivates Share Repurchase Program, Underscoring Confidence in Valuation and Strategic Position
+
+
+March 27, 2026
+
+
+[PDF Version](https://ir.incannex.com/node/8531/pdf)
+
+
+### Board initiates buyback activity following period of inactivity, with repurchases executed over the past two trading days
+
+
+MELBOURNE, Australia and NEW YORK, March 27, 2026 (GLOBE NEWSWIRE) -- Incannex Healthcare Inc. (Nasdaq: IXHL), a clinical-stage biopharmaceutical company developing innovative combination therapies, today announced that it has reactivated its previously approved share repurchase program, with the program having been active over the past two trading days.
+
+
+The Company has utilized the buyback program opportunistically in the past, however had not actively repurchased shares in recent periods. The decision to reinitiate buyback activity reflects the Board of Directors’ view that the Company’s current market valuation does not accurately reflect the strength of its balance sheet, clinical progress, and future potential.
+
+
+Following its recent financing, Incannex has approximately $75 million in cash on hand and no debt, positioning the Company with significant financial flexibility as it advances its clinical pipeline, including IHL-42X for obstructive sleep apnea and PSX-001 for the treatment of generalized anxiety disorder.
+
+
+At current trading levels, the Company believes its market capitalization represents a significant disconnect relative to its underlying financial strength and the progress achieved across its clinical programs.
+
+
+**CEO Commentary**
+
+
+“We have taken the decision to reactivate our share buyback program, which has been active over the past two trading days, as we believe the current valuation of the Company does not reflect the strength of our balance sheet or the progress we have made across our clinical pipeline,” said Joel Latham, President and Chief Executive Officer of Incannex Healthcare.
+
+
+“While we have used the share repurchase program opportunistically in the past, we have not been active in recent periods. The decision to re-engage reflects our conviction in deploying capital in a manner to potentially enhance shareholder value”
+
+
+“With approximately $75 million in cash and no debt, we are in a strong financial position to execute on our clinical development strategy while maintaining the flexibility to allocate capital in a disciplined and strategic manner. As we progress key milestones across IHL-42X and PSX-001, we believe the Company is well positioned to unlock meaningful value.”
+
+
+**Capital Allocation Strategy**
+
+
+The Company intends to continue to utilize the share buyback program opportunistically, taking into account market conditions, trading volumes, and the Company’s broader capital requirements. As of December 31, 2025, approximately $18.5 million remained available for repurchases under the share repurchase program.
+
+
+The buyback program does not obligate the Company to acquire any specific number of shares and may be modified, suspended, or discontinued at any time at the Company’s discretion. The timing and amount of any repurchases will depend on market conditions, available capital resources, and other factors.
+
+
+**About Incannex Healthcare Inc.**
+
+
+Incannex is leading the way in developing combination medicines that target the underlying biological pathways associated with chronic conditions, including obstructive sleep apnea, rheumatoid arthritis and generalized anxiety disorder. The Company is advancing three clinical-stage product candidates based on evidence-based innovation and supported by streamlined operations. Incannex's lead clinical program, IHL-42X, is an oral fixed-dose combination of dronabinol and acetazolamide designed to target underlying mechanisms and act synergistically in the treatment of obstructive sleep apnea. In a Phase 2 development program, IHL-675A is an oral fixed-dose combination of cannabidiol and hydroxychloroquine sulfate designed to act synergistically to alleviate inflammatory conditions, such as rheumatoid arthritis. Approved for Phase 2 clinical development, PSX-001 is an oral synthetic psilocybin treatment for the treatment of generalized anxiety disorder. Incannex's programs target disorders that have limited, inadequate, or no approved pharmaceutical treatment options. For additional information on Incannex, please visit our website at[www.incannex.com](https://www.globenewswire.com/Tracker?data=uHKOvUKed6nIRJOt6CRESyQRFoFt5eS1p7HAekhaKk01iRWI-VWP1oHJTQdJjryree9L7G80c1aT7dJe-WtajV4eSS5XI8UQfFdMJ8EwWenxlaJcoV0MPrZmrubpmirqDOkwd55LxEbyXiwDBKIcTKcpLpUt3i-pIoOyDEvYpJkeg7BZ4dCAc2999_JI8g58hg4fMHOLfTU_XaG3---zfWjSRj60JCkJA9tcS99YJzTgs6KgmwW-a7QKHDA2AjkpsSlQ9iiKlZCKR3NkpERV3A==) .
+
+
+**Forward-Looking Statements**
+
+
+Certain statements in this press release may constitute "forward-looking statements" within the meaning of the United States Private Securities Litigation Reform Act of 1995, as amended to date. These statements include, but are not limited to, statements relating to management’s expectations regarding the share repurchase program, expectations regarding use of the Company’s cash on hand, the potential value of the Company’s drug candidates and business, including these values as compared to available cash, opportunities, the strategy, timing and future development of the Company’s drug candidates, the potential value of the Company and its drug candidates and potential shareholder value. When or if used in this communication, the words "may," "could," "should," "anticipate," "believe," "estimate," "expect," "intend," "plan," "predict" and similar expressions and their variants, as they relate to the Company, its operations or its management, may identify forward-looking statements. The forward-looking statements contained in this press release are based on management's current expectations and projections about future events. Nevertheless, actual results or events could differ materially from the plans, intentions, and expectations disclosed in, or implied by, the forward-looking statements. These risks and uncertainties, many of which are beyond our control, include: the risk that the Company’s estimates and current projections regarding the sufficiency of its current cash on hand to fund the Company’s planned operations may be incorrect and the Company may use these resources faster than anticipated or suspend the share repurchase program and other risks described in the section entitled "Risk Factors" described in the prospectus supplement and in the Company's annual report on Form 10-K for the fiscal year ended June 30, 2025, filed with the SEC on September 29, 2025, and the other reports it files from time to time, including subsequently filed annual, quarterly and current reports, which can be obtained on the SEC website at www.sec.gov and are made available on the Company’s website upon their filing with the SEC. Readers are cautioned not to place undue reliance on the forward-looking statements, which speak only as of the date on which they are made and reflect management's current estimates, projections, expectations and beliefs. The Company does not plan to update any such forward-looking statements and expressly disclaims any duty to update the information contained in this press release except as required by law.
+
+
+**Investor & Media Contacts**
+**CORE IR**
+(212) 655-0924
+[investors@incannex.com](https://www.globenewswire.com/Tracker?data=sNUJMiMyL5pCYt1_oLJUFuQLZwToabENNreZyeRPxUH8kqT90ZrqCNAFFI9RXhQnu5l55vqi2Opzxa-eqielMrxZUiQUXvv24Q8Eciu-9jYqWr_gdCCq2HZlptsCEatJ) ****
+[media@incannex.com.au](https://www.globenewswire.com/Tracker?data=qpeZFjTvZR5gFCiZx2m-1QCQvvYu_wNWt_u3M1UCSrb5oBuT8xKYA9E9oZDWfD-ZCNTXJg1sicDSShgkkpAvgEdahKEhiVmEam24--7SJH4=)

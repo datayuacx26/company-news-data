@@ -1,0 +1,212 @@
+---
+schema_version: "1.0.0"
+document_id: "e7f95740e3bc595252474e5941ab7cc14e87262037a8b6a7d6dbbddaf8b9b818"
+company_key: "yc-wasp"
+company: "Wasp"
+source_id: "yc-wasp-rss-5b1984e54864"
+canonical_url: "https://wasp.sh/blog/2025/12/30/wasp-2025-year-in-review"
+published_at: "2025-12-30T00:00:00+00:00"
+first_seen_at: "2026-07-20T23:21:24.634053+00:00"
+fetched_at: "2026-07-28T22:24:48.249354+00:00"
+content_hash: "sha256:5b76c6029234b054aff822d8fa10bed938c1a2f69a0e9c4004da8023139142d3"
+---
+
+# Wasp 2025: Year in Review
+
+2025 was both the biggest year for Wasp so far, but also one in which we were heads-down building the most. While we shipped consistently throughout the year (5 launch events, 20 blog posts & tutorials, and a steady stream of features) the real story is what happened beneath the surface: **clearing the path to 1.0** .
+
+
+This was the year in which we had to slow down in order to speed up. We got serious about maturity, transparency, and building the foundation for what Wasp needs to become. Still, we managed to sneak in a few cool new features, too.
+
+
+We want to share with you what we achieved, what we learned, and what's coming next.
+
+
+## 2025 in Numbers​
+
+
+- 📦 **13 releases** (v0.16 → v0.20)
+- 🚀 **5 launch events**
+- ⭐ **+8,182[GitHub](https://github.com/wasp-lang/wasp) stars** across Wasp and Open SaaS
+- 🔀 **489 pull requests merged**
+- ✅ **284 issues closed**
+- 👾 **4,669 Discord members**
+- 🐝 **8 people** working on Wasp full-time (welcome Franjo, Carlos & Tole!)
+
+
+## What We Shipped​
+
+
+In 2025, we hosted **five launch events** - one each quarter, plus a special Xmas launch. You can see the details of each launch below:
+
+
+- [Launch Week 8](https://wasp.sh/blog/2025/01/09/wasp-launch-week-8) (January) - "Fixer Upper"
+- [Launch Week 9](https://wasp.sh/blog/2025/04/09/wasp-launch-week-9) (April) - "The Road to 1.0"
+- [Launch Week 10](https://wasp.sh/blog/2025/07/07/wasp-launch-week-10) (July) - "Public Exposure"
+- [Launch Week 11](https://wasp.sh/blog/2025/09/28/wasp-launch-week-11) (September) - "Grinding the Grind"
+- [Wasp Xmas Launch](https://wasp.sh/blog/2025/12/17/wasp-xmas-launch) (December) - React 19, Claude Code Plugin, Polar
+
+
+What we released falls into four major categories:
+
+
+- **Core & Developer Experience** - the overall architecture, CLI, and what/how Wasp uses under the hood
+- **Integrations & Ecosystem** - how well Wasp plays with other tools and services (deployment, analytics, AI, ...)
+- **Open SaaS** - an open-source SaaS boilerplate starter, based on Wasp. Payments, admin dashboard, emails, and more
+- **Content & Education** - tutorials, guides, showcases, and community engagement
+
+
+Let's now dive into the details of each category:
+
+
+### Core & Developer Experience​
+
+
+Wasp's roadmap to 1.0 is on GitHub
+
+
+- **React 19 & stack upgrades** - Updated to React 19, along with Node.js and Vite version bumps
+- **Public development roadmap** - Published our[transparent path to 1.0](https://wasp.sh/blog/2025/07/14/public-wasp-dev-roadmap) , with epics and milestones[tracked on GitHub](https://github.com/orgs/wasp-lang/projects/5)
+- **Deployment docs rehaul** - New guides for[Coolify, CapRover](https://wasp.sh/docs/deployment/deployment-methods/self-hosted) , and improved deployment story overall
+- **[TypeScript config](https://wasp.sh/docs/0.20/general/wasp-ts-config) (experimental)** - Define your app in` main.wasp.ts` instead of the DSL, with full editor support out of the box. Soon to become the default.
+- **Quality of life improvements** - Env variable validation with Zod,[wasp build start](https://wasp.sh/docs/deployment/local-testing) for testing production builds locally, better TSConfig behavior
+
+
+While some of these look like single bullet points, the roadmap and TypeScript config alone represent months of focused work. Behind the scenes, we also[overhauled our internal architecture](https://wasp.sh/blog/2025/07/18/faster-wasp-dev) - modernizing how we build, test, and release Wasp, so we can move faster and ship with more confidence.
+
+
+This groundwork is already enabling us to make Wasp behave more like a "standard" part of the JS ecosystem: respecting your existing tooling, playing nicely with other libraries (e.g. ShadCN), and just working the way you'd expect.
+
+
+### Integrations & Ecosystem​
+
+
+- **Railway CLI Integration** - One-command deployment to Railway with` wasp deploy railway launch`
+- **Claude Code Plugin** - AI-assisted development with[deep Wasp integration](https://wasp.sh/blog/2025/12/23/wasp-claude-code-plugin)
+- **AI-friendly docs** - Added .cursorrules and llms.txt with versioning, so AI tools always have the right docs for your Wasp version
+- **[Slack Authentication](https://wasp.sh/docs/auth/social-auth/slack)** - New auth provider, next to Google, GitHub, Discord, and others
+
+
+No tool can exist in isolation. And when we find a service/tool that fits with Wasp's philosophy, we go above and beyond to make it easy to use together.
+
+
+### Open SaaS​
+
+
+2025 is the year Open SaaS truly came into its own. What started as a simple wrapper around Wasp with common SaaS features has grown into a fully-fledged product. It's now one of the most common ways developers start their (Wasp) apps.
+
+
+- **Hit[13,000+ GitHub stars](https://github.com/wasp-lang/open-saas)** - One of the most popular React/Node.js SaaS starters
+- **Complete redesign (v2.0)** - Now with ShadCN UI, and a sleek new design by default
+- **Railway Marketplace** - Now part of[Railway's official marketplace](https://railway.com/deploy/open-saas) . One click deployment to Railway's hosting platform.
+- **Polar integration** - New billing provider, next to Stripe and LemonSqueezy
+
+
+Open SaaS now also has its own[roadmap](https://opensaas.sh/#roadmap) , developed in parallel with Wasp's roadmap. You're welcome to join, comment, and contribute - we'd love to have you!
+
+
+### Content & Education​
+
+
+Launch Weeks are our most intense publishing periods, but we don't go quiet in between. We aim to keep you up to date with Wasp's progress while sharing what we're learning along the way.
+
+
+**Most popular deep-dives:**
+
+
+- [How we test a web framework](https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework)
+- [Cleaning up 5 years of tech debt in a full-stack JS framework](https://wasp.sh/blog/2025/07/18/faster-wasp-dev)
+
+
+**Most popular tutorials:**
+
+
+- [Building Advanced React Forms Using React Hook Form, Zod and Shadcn](https://wasp.sh/blog/2025/01/22/advanced-react-hook-form-zod-shadcn)
+- [A Gentle Introduction to Database Migrations in Prisma](https://wasp.sh/blog/2025/04/02/an-introduction-to-database-migrations)
+- [How to Run CRON Jobs in Postgres Without Extra Infrastructure](https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure)
+- [Build an agent-powered SaaS with Mastra AI & Wasp](https://www.youtube.com/watch?v=-mWmIaJ6AJk) (video)
+- [Vibe Code a Full-stack App Effectively](https://www.youtube.com/watch?v=WYzEROo7reY) (video)
+
+
+## What We Learned​
+
+
+### Developers *really* want "Rails for JS" - productivity and portability​
+
+
+The JavaScript ecosystem is incredibly powerful - its modularity means there's a package for everything. But that same modularity makes it exhausting to start and maintain a full-stack project. You have to choose your bundler, your router, your ORM, your auth library/service, your hosting platform... and then keep them all working together as they evolve.
+
+
+We've heard this over and over again: developers want the productivity and portability of Rails, but in the JavaScript/TypeScript world they already know. This conviction has only grown stronger for us in 2025 - there's a real gap here, and we're building to fill it.
+
+
+### Frameworks matter more in the age of AI, not less​
+
+
+Here's something we've assumed for a while but haven't seen confirmed until recently: AI coding assistants work dramatically better with opinionated frameworks. When there's one right way to do something, AI can nail it. When there are fifteen ways to wire up authentication, it's another point of friction you or your LLM need to think about and make a decision.
+
+
+We're literally seeing this as a choosing criteria now for Wasp - developers pick tools that make their AI assistants more effective. Good abstractions aren't just nice for humans anymore; they're essential for AI too. This has reinforced our belief that the right level of abstraction is one of the most valuable things a framework can provide.
+
+
+### TypeScript is the way​
+
+
+We're moving from a DSL to TypeScript config. From "Wasp language" to "Wasp framework." Some of this is messaging, but it's actually a meaningful shift.
+
+
+TypeScript gives an editor support for free - autocomplete, type checking, refactoring tools - without us having to build and maintain custom IDE plugins. It's a language developers already know. And it opens the door to more flexibility while keeping the benefits of a structured, declarative config.
+
+
+This move reflects a broader lesson: meet developers where they are. Don't ask them to learn something new unless it provides clear, significant value. TypeScript config is just as expressive as our DSL (even more), but without the learning curve.
+
+
+### Developers are building real businesses and tools​
+
+
+2025 made something crystal clear: Wasp has moved past the "toy/side project" phase. We're seeing developers build very real things - production apps serving actual users, internal tools at enterprises, startups that have raised funding, and yes, even exits.
+
+
+This shift is meaningful. It's one thing to hear "I built a to-do app with Wasp" and quite another to hear "we're running our entire company on it." The maturity of what people are building now - and the trust they're placing in the framework - is something we don't take lightly. It's also the ultimate validation that we're on the right track.
+
+
+## The Team​
+
+
+The Waspeteers! This was at our annual retreat in Heidelberg we took in October. Banana juice with beer, anyone?
+
+
+This is the team that made it all happen in 2025. Without their focus and dedication, none of this would be possible. This year we welcomed[Franjo](https://wasp.sh/blog/2025/03/20/meet-franjo-engineer-at-wasp) ,[Carlos](https://wasp.sh/blog/2025/04/07/meet-carlos-engineer-at-wasp) , and another Matija (Tole). It is a unique privilege to be able to pick (and get picked by) your own team and get to design our team culture as we build out the vision we have for Wasp.
+
+
+What we're building hasn't really been done before - a true full-stack, batteries-included framework for JavaScript. That means we're often in uncharted territory. Our work takes a lot of research and design before we can even start writing code. What keeps us going is the feedback and adoption we see from the community - knowing that what we're building actually helps people ship and achieve their dreams and goals.
+
+
+## What's Coming Next​
+
+
+### Laser focus on 1.0​
+
+
+The path is clear and we're going full speed. Everything we did in 2025 - the roadmap, the internal refactors, the testing infrastructure - was setting the stage for this. Now we execute.
+
+
+### Doubling down on AI​
+
+
+We're seeing exciting signal on how well Wasp works with AI coding assistants. Opinionated frameworks and AI are a natural fit, and we want to lean into that even more - better tooling, better docs, better integrations.
+
+
+### Polishing the DX + more user-facing features​
+
+
+Having invested in leveling up the core of Wasp in 2025, we can now reap the benefits and move to the next stage - building cool features you'll see and use! We'll be doing a complete "DX audit", from creating a new project to building and testing it and finally deploying it to production.
+
+
+## Thank you!​
+
+
+None of this would have been possible without you - our community. You're the ones building with Wasp, pushing its limits, reporting bugs, suggesting features, and showing us what's possible. Seeing you get excited about what we're building, and then taking it even further than we imagined, is what keeps us going.
+
+
+Thank you for being part of this journey. Here's to a buzzing 2026.

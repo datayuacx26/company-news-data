@@ -1,0 +1,71 @@
+---
+schema_version: "1.0.0"
+document_id: "1261724f33e6037543088d9984c9a49fa51ae458ac7cbb3131a6a4741411c86d"
+company_key: "boise-cascade-l-l-c-common-stock"
+company: "Boise Cascade L.L.C."
+source_id: "boise-cascade-l-l-c-common-stock-rss-949d3f033446"
+canonical_url: "https://www.bc.com/boise-cascade-and-james-hardie-expand-nationwide-distribution-partnership/"
+published_at: "2026-08-03T12:31:21+00:00"
+first_seen_at: "2026-08-03T13:38:19.919813+00:00"
+fetched_at: "2026-08-03T14:10:52.670502+00:00"
+content_hash: "sha256:8eeea7965140a505e01c41a19fdcde47c42277077696442beea5a28b67fa1bce"
+---
+
+# Boise Cascade and James Hardie expand U.S. nationwide distribution partnership
+
+### *Boise Cascade to become the sole nationwide distributor for James Hardie’s complete portfolio of industry-leading exterior building solutions, including Hardie®, TimberTech®, and AZEK® products*
+
+
+BOISE, IDAHO and CHICAGO – August 3, 2026 – Boise Cascade Company (“Boise Cascade”) (NYSE: BCC) and James Hardie Building Products Inc. (“James Hardie”), a wholly-owned subsidiary of James Hardie Industries plc (“JHI”) (NYSE / ASX: JHX), today announced an expansion of their partnership under which Boise Cascade’s Building Materials Distribution division will become the sole nationwide distributor of James Hardie’s and its North American affiliates’ complete portfolio of exterior building products through its extensive network of strategically located distribution facilities across the United States, effective July 31, 2026.
+
+
+Boise Cascade’s Building Materials Distribution division is one of the largest wholesale distributors of building products in North America. James Hardie is the North American leader in fiber cement siding and exterior design solutions.
+
+
+Under the expanded agreement, Boise Cascade will distribute James Hardie’s comprehensive portfolio of products – including Hardie® siding and trim, and now adding AZEK® trim and moulding and TimberTech® decking and railing – through its nationwide network of distribution centers. As the two companies fully align their focus and resources, Boise Cascade will transition away from distributing competitive siding, trim, and exterior moulding products. James Hardie has designated Boise Cascade its sole nationwide distribution partner and will consolidate its distribution network across all regional markets.
+
+
+Together, Boise Cascade and James Hardie will leverage their complementary strengths to better serve customers, provide broader access to dealers, contractors, and retailers, expand their market reach, and drive long-term growth and value creation for their respective stakeholders.
+
+
+Specifically, as a result of the expanded partnership between the two companies, dealers and contractors will benefit from:
+
+
+- Access to James Hardie’s complete portfolio of exterior building products through a national distribution partner;
+- Increased product availability and fulfillment consistency across key markets;
+- Coordinated sales, marketing, and contractor engagement and training programs; and
+- A simpler purchasing experience supported by a trusted distribution network.
+
+
+“This agreement is consistent with our focus on delivering the best products and service for our customers, which is at the core of every strategic decision we make at Boise Cascade,” said Jeff Strom, CEO of Boise Cascade. “Customers want trusted brands, reliable availability, and dependable service that makes their jobs easier. This expanded partnership will improve access to James Hardie’s industry-leading products through Boise Cascade’s nationwide distribution network, helping customers get what they need, when and where they need it. Our two organizations have shared values, complementary strengths, and an unwavering focus on delivering high-quality products and outstanding service. I look forward to working closely with the James Hardie team in the coming months to unlock the powerful potential of this expanded agreement.”
+
+
+“By bringing our full exterior building products portfolio to market through Boise Cascade’s national distribution platform, we will create an even more seamless customer experience – from product selection through end use application,” said Aaron Erter, CEO of JHI. “Boise Cascade has been an outstanding partner for many years, and we are excited to strengthen our relationship as we increase the accessibility of our innovative and resilient products. Together, with our combined distribution capabilities, strong customer relationships, and proven ability to execute, we will be positioned to deliver best-in-class service to existing and prospective customers, driving long-term growth for both companies. We look forward to working alongside the Boise Cascade team in the coming months to implement a smooth transition and continue building on our successful partnership.”
+
+
+**About Boise Cascade** Boise Cascade is one of the largest U.S. wholesale distributors of building materials and a leading manufacturer of engineered wood products and plywood in North America. Our integrated model and national distribution footprint position us to deliver outstanding service to our customers across a broad range of industry-leading products, including key structural products that we produce. Headquartered in Boise, Idaho, we operate more than 60 distribution and manufacturing facilities strategically located across the U.S. and Canada. Our work is powered by a dedicated team of over 7,500 people. Learn more at[www.bc.com](http://www.bc.com/) .
+
+
+**About James Hardie Building Products Inc.** James Hardie Building Products Inc. is the North American leader in fiber cement siding and exterior design solutions and part of the larger James Hardie group of companies that offer a portfolio of leading exterior and outdoor living brands including Hardie®, TimberTech®, AZEK *®* , Versatex®, and StruXure®. As The Home of Resilient Beauty™, its products are trusted by architects, builders, contractors, and homeowners throughout North America.
+
+
+**Boise Cascade Contacts** Investor Contact
+Chris Forrey
+SVP, Finance & Investor Relations
+[\[email protected\]](https://www.bc.com/cdn-cgi/l/email-protection#a9c0c7dfccdaddc6dbe9cbca87cac6c4)
+
+
+Media Contact **** Amy Evans
+Director, Communications
+[\[email protected\]](https://www.bc.com/cdn-cgi/l/email-protection#177a72737e7665727b76637e7879645775743974787a)
+
+
+**James Hardie Contact** Investor and Media Contact **** Bill Seymour
+Vice President, Investor Relations
+[\[email protected\]](https://www.bc.com/cdn-cgi/l/email-protection#244d4a524157504b5657644e454941574c4556404d410a474b49)
+
+
+**Forward-Looking Statements** Statements in this news release that are not purely historical facts or that necessarily depend on future events, including statements about anticipations, beliefs, expectations, intentions or strategies for the future, may be forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, including statements regarding the expected impact and benefits of the expanded distribution partnership between Boise Cascade and/or James Hardie. Readers are cautioned not to place undue reliance on forward-looking statements. In addition, oral statements made by each company’s directors, officers and employees to the investor and analyst communities, media representatives and others, depending upon their nature, may also constitute forward-looking statements. As with the forward-looking statements included in this release, these forward-looking statements are by nature inherently uncertain, and actual results may differ materially as a result of many factors. All forward-looking statements are based upon information available to Boise Cascade or James Hardie, as applicable, on the date this release was submitted. Neither Boise Cascade nor James Hardie undertakes any obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except to the extent required by law. Any forward-looking statements involve risks and uncertainties that could cause actual events or results to differ materially from the events or results described in the forward-looking statements, including each company’s ability to successfully capitalize on the expanded distribution partnership, each company’s growth strategies, or such company’s revenues and operating results being highly dependent on, among other things, new residential construction, commodity wood products prices and the economy, as applicable. Either or both companies may not succeed in addressing these and other risks. Further information regarding factors that could affect financial and other results can be found in the risk factors section of Boise Cascade’s and/or JHI’s most recent annual report on Form 10-K filed with the Securities and Exchange Commission (the “SEC”) and in the other reports filed by such company with the SEC and/or the Australian Stock Exchange, as applicable. Consequently, all forward-looking statements in this release are qualified by the factors, risks and uncertainties contained therein.
+
+
+This entry was posted in[Investor Relations](https://www.bc.com/category/investor-relations/)

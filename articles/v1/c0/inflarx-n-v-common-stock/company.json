@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "inflarx-n-v-common-stock",
+    "name": "InflaRx N.V."
+  },
+  "record_count": 22,
+  "first_published_at": "2025-11-10T00:00:00+00:00",
+  "last_published_at": "2026-08-06T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-11",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-12",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-01",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-02",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 5
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c0/inflarx-n-v-common-stock/index/pages/000001.json",
+        "record_count": 22,
+        "byte_count": 23694,
+        "sha256": "sha256:6c3ff6a719b3b9bafa69f001f24ff9b0843753791e26855f66c4309ba786b217",
+        "newest_at": "2026-08-06T00:00:00+00:00",
+        "oldest_at": "2025-11-10T00:00:00+00:00"
+      }
+    ]
+  }
+}

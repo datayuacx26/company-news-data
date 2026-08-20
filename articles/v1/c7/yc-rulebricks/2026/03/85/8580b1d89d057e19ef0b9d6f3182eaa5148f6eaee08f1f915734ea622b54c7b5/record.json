@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8580b1d89d057e19ef0b9d6f3182eaa5148f6eaee08f1f915734ea622b54c7b5",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/the-missing-control-layer-for-ai",
+    "canonical": "https://rulebricks.com/blog/the-missing-control-layer-for-ai"
+  },
+  "title": "The Missing Control Layer for AI",
+  "summary": "Why production AI needs an explicit policy layer for deterministic, auditable decisions beyond prompts and orchestration.",
+  "published_at": "2026-03-26T16:04:47+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-08-20T02:04:19.262566+00:00",
+  "last_updated_at": "2026-08-20T02:04:19.304136+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/03/85/8580b1d89d057e19ef0b9d6f3182eaa5148f6eaee08f1f915734ea622b54c7b5/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/03/85/8580b1d89d057e19ef0b9d6f3182eaa5148f6eaee08f1f915734ea622b54c7b5/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 671,
+    "sha256": "sha256:09b56327ad59936f35761ee60e9c72b384c40c166e5bb987f30aea6789169aff",
+    "normalized_content_hash": "sha256:7cb4ce2a287dc977acc327a7a42e38a35e1a370803ed2a0d5365ca0febb568ad"
+  },
+  "provenance": {
+    "source_item_id": "bb2f1217-6d0a-43ed-ad9b-b7dddbe36b0a",
+    "external_id": "https://rulebricks.com/blog/the-missing-control-layer-for-ai"
+  }
+}

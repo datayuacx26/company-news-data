@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6b5e70093613004f2eefbc98bc2a2bd778691726cd12288af9a6999867caecf2",
+  "company": {
+    "key": "yc-exa",
+    "name": "Exa"
+  },
+  "source": {
+    "id": "yc-exa-news-import-e15579f9a79b",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://exa.ai/blog/building-web-scale-vector-db",
+    "canonical": "https://exa.ai/blog/building-web-scale-vector-db"
+  },
+  "title": "How we built a web-scale vector database",
+  "summary": "This AI research blog post details the challenges and solutions of creating a web-scale vector database to power our semantic search technology.",
+  "published_at": "2024-12-17T00:00:00+00:00",
+  "first_seen_at": "2026-07-25T04:05:34.244049+00:00",
+  "fetched_at": "2026-07-28T21:32:04.842955+00:00",
+  "last_updated_at": "2026-08-20T01:13:10.720402+00:00",
+  "paths": {
+    "article": "articles/v1/c3/yc-exa/2024/12/6b/6b5e70093613004f2eefbc98bc2a2bd778691726cd12288af9a6999867caecf2/article.md",
+    "record": "articles/v1/c3/yc-exa/2024/12/6b/6b5e70093613004f2eefbc98bc2a2bd778691726cd12288af9a6999867caecf2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8580,
+    "sha256": "sha256:d730d7ad2d0db276918710218e2717b6b3bf3028693555363ada19d3c46650d2",
+    "normalized_content_hash": "sha256:c8b7dfbafd4619694631a01dd67064a49ed66c57381afba9882116bbdc105760"
+  },
+  "provenance": {
+    "source_item_id": "524d8154-a201-49f4-99eb-2bb52faa596b",
+    "external_id": "https://exa.ai/blog/building-web-scale-vector-db"
+  }
+}

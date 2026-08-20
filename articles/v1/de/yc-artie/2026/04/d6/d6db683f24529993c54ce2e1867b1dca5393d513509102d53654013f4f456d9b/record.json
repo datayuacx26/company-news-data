@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d6db683f24529993c54ce2e1867b1dca5393d513509102d53654013f4f456d9b",
+  "company": {
+    "key": "yc-artie",
+    "name": "Artie"
+  },
+  "source": {
+    "id": "yc-artie-news-import-55a3a4fb236c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.artie.com/blogs/stream-dynamodb-to-redshift-with-cdc",
+    "canonical": "https://www.artie.com/blogs/stream-dynamodb-to-redshift-with-cdc"
+  },
+  "title": "Stream DynamoDB to Redshift with CDC",
+  "summary": "Learn how to stream DynamoDB to Redshift with CDC for real-time analytics, faster reporting, and scalable pipelines for all teams.",
+  "published_at": "2026-04-28T00:00:00+00:00",
+  "first_seen_at": "2026-07-23T02:25:22.954541+00:00",
+  "fetched_at": "2026-07-28T21:45:29.554500+00:00",
+  "last_updated_at": "2026-08-19T23:45:22.324875+00:00",
+  "paths": {
+    "article": "articles/v1/de/yc-artie/2026/04/d6/d6db683f24529993c54ce2e1867b1dca5393d513509102d53654013f4f456d9b/article.md",
+    "record": "articles/v1/de/yc-artie/2026/04/d6/d6db683f24529993c54ce2e1867b1dca5393d513509102d53654013f4f456d9b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11513,
+    "sha256": "sha256:e52e46b1728cfaf7704af77b03455e418b86aa30e62f7f84669512dddcb16c1e",
+    "normalized_content_hash": "sha256:8c0d7b789dc5782cf3086004d6f4bb7fd16e51e61921bd8a9baa074e90cbc1ef"
+  },
+  "provenance": {
+    "source_item_id": "f5292529-8081-435e-8461-8cec54fccf8c",
+    "external_id": "https://www.artie.com/blogs/stream-dynamodb-to-redshift-with-cdc"
+  }
+}

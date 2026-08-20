@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "seven-hills-realty-trust-common-stock",
+    "name": "Seven Hills Realty Trust"
+  },
+  "record_count": 12,
+  "first_published_at": "2026-03-09T12:00:00+00:00",
+  "last_published_at": "2026-07-28T20:15:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-03",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 2
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ea/seven-hills-realty-trust-common-stock/index/pages/000001.json",
+        "record_count": 12,
+        "byte_count": 13334,
+        "sha256": "sha256:43ab3db7300c6e37818a8abc828f0f17692045592f48708db6767002d3b6eeab",
+        "newest_at": "2026-07-28T20:15:00+00:00",
+        "oldest_at": "2026-03-09T12:00:00+00:00"
+      }
+    ]
+  }
+}

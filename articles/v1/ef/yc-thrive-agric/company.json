@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-thrive-agric",
+    "name": "Thrive Agric"
+  },
+  "record_count": 2,
+  "first_published_at": "2026-07-01T00:00:00+00:00",
+  "last_published_at": "2026-07-29T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 2
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/ef/yc-thrive-agric/index/pages/000001.json",
+        "record_count": 2,
+        "byte_count": 2510,
+        "sha256": "sha256:2cb0fa2cfe3b7687e4fca0d1cb5870e937f93151349251e12024d5ebed1a7c87",
+        "newest_at": "2026-07-29T00:00:00+00:00",
+        "oldest_at": "2026-07-01T00:00:00+00:00"
+      }
+    ]
+  }
+}

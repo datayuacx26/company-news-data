@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "48eda3123ea64f067b188133d5feb8d8b6a5e221c0a2ce6d58250b3bfa1ea46d",
+  "company": {
+    "key": "tenable-holdings-inc-common-stock",
+    "name": "Tenable Holdings Inc."
+  },
+  "source": {
+    "id": "tenable-holdings-inc-common-stock-rss-2984dc1ab104",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.tenable.com/sc-report-templates/monitoring-internal-scans-for-pci-11-3-1",
+    "canonical": "https://www.tenable.com/sc-report-templates/monitoring-internal-scans-for-pci-11-3-1"
+  },
+  "title": "Monitoring Internal Scans for PCI 11.3.1",
+  "summary": "As directed in the 11.3.1 (Internal vulnerability scans are performed), the organization must conduct internal scans every three months and perform rescans to confirm all high and critical vulnerabilities are resolved. Tenable Security Center supports the scheduling of scans, allowing the assessment teams to continuously monitor the CDE accordingly. The report consists of chapters and elements that provide an overview of how internal scanning is being performed.",
+  "published_at": "2025-10-20T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:16:56.508607+00:00",
+  "fetched_at": "2026-07-28T22:01:00.433769+00:00",
+  "last_updated_at": "2026-08-20T01:11:00.813271+00:00",
+  "paths": {
+    "article": "articles/v1/cb/tenable-holdings-inc-common-stock/2025/10/48/48eda3123ea64f067b188133d5feb8d8b6a5e221c0a2ce6d58250b3bfa1ea46d/article.md",
+    "record": "articles/v1/cb/tenable-holdings-inc-common-stock/2025/10/48/48eda3123ea64f067b188133d5feb8d8b6a5e221c0a2ce6d58250b3bfa1ea46d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6318,
+    "sha256": "sha256:56ec8c3e375c5b3011a0518b7da315b691011eb713688914b072e23f335cce87",
+    "normalized_content_hash": "sha256:b7e0de24ebb77f9ea06b1e16723ba0b1d22174031b020b4663876c1045c3550e"
+  },
+  "provenance": {
+    "source_item_id": "e1ee3770-4ed5-45d4-bd62-5c106070a814",
+    "external_id": "https://www.tenable.com/210466"
+  }
+}

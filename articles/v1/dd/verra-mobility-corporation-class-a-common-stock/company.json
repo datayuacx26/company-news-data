@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "verra-mobility-corporation-class-a-common-stock",
+    "name": "Verra Mobility Corporation"
+  },
+  "record_count": 16,
+  "first_published_at": "2026-06-02T23:45:16+00:00",
+  "last_published_at": "2026-08-18T17:43:48+00:00",
+  "partitions": [
+    {
+      "partition": "2026-06",
+      "record_count": 8
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 4
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/dd/verra-mobility-corporation-class-a-common-stock/index/pages/000001.json",
+        "record_count": 16,
+        "byte_count": 21698,
+        "sha256": "sha256:f03f4fbf2a49ce626b0b8211531feab60843c5565e707e908651a7013cda4950",
+        "newest_at": "2026-08-18T17:43:48+00:00",
+        "oldest_at": "2026-06-02T23:45:16+00:00"
+      }
+    ]
+  }
+}

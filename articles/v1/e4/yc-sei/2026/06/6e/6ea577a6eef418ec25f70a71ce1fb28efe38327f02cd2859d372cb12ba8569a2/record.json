@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6ea577a6eef418ec25f70a71ce1fb28efe38327f02cd2859d372cb12ba8569a2",
+  "company": {
+    "key": "yc-sei",
+    "name": "Sei"
+  },
+  "source": {
+    "id": "yc-sei-rss-1b5243482862",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://seiright.com/blog/voice-cloning-deepfake-caller-verification-banks-phishing-resistant",
+    "canonical": "https://seiright.com/blog/voice-cloning-deepfake-caller-verification-banks-phishing-resistant"
+  },
+  "title": "Voice Cloning and the End of Voice Biometrics as a Sole Factor: A Caller-Verification Architecture for Banks",
+  "summary": "Cheap, high-fidelity voice cloning has collapsed voiceprint and knowledge-based authentication as standalone factors on bank phone channels. The NIST 800-63 level we hold caller authentication to, the phishing-resistant factors that survive a synthetic caller, and the agent-side controls we wire around them.",
+  "published_at": "2026-06-05T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.548292+00:00",
+  "fetched_at": "2026-08-20T02:20:29.244809+00:00",
+  "last_updated_at": "2026-08-20T02:20:29.306031+00:00",
+  "paths": {
+    "article": "articles/v1/e4/yc-sei/2026/06/6e/6ea577a6eef418ec25f70a71ce1fb28efe38327f02cd2859d372cb12ba8569a2/article.md",
+    "record": "articles/v1/e4/yc-sei/2026/06/6e/6ea577a6eef418ec25f70a71ce1fb28efe38327f02cd2859d372cb12ba8569a2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 947,
+    "sha256": "sha256:92d32ff4379d17fad8078518044de12e04d6169d7ebc6c80664bf182649a5a40",
+    "normalized_content_hash": "sha256:dd390834bfcdd84651c8cf83cce8e52c69ae2bd62534c39a1676efec2a69c3d5"
+  },
+  "provenance": {
+    "source_item_id": "7e841bb5-6e22-4554-8801-b21e8a38271c",
+    "external_id": "https://seiright.com/blog/voice-cloning-deepfake-caller-verification-banks-phishing-resistant"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "189d40fdda85db662e4968519d8851ee8d0947846bfb603d0ced2f6e3953f5f6",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/real-time-sync-zoho-crm-and-snowflake",
+    "canonical": "https://www.stacksync.com/blog/real-time-sync-zoho-crm-and-snowflake"
+  },
+  "title": "Report on Zoho CRM Without Waiting for Last Night's Load",
+  "summary": "Real-time sync between Zoho CRM and Snowflake: stream record changes into the warehouse in seconds, push scores back, and skip the nightly full reload.",
+  "published_at": "2026-07-21T10:00:00+00:00",
+  "first_seen_at": "2026-07-22T16:41:29.064477+00:00",
+  "fetched_at": "2026-07-28T20:34:24.680558+00:00",
+  "last_updated_at": "2026-07-28T20:36:57.827417+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/18/189d40fdda85db662e4968519d8851ee8d0947846bfb603d0ced2f6e3953f5f6/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/18/189d40fdda85db662e4968519d8851ee8d0947846bfb603d0ced2f6e3953f5f6/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7003,
+    "sha256": "sha256:0d4f56dfd6f769596c2e0d0e190e514442af5f5e2a1e5dfec01804674dde6498",
+    "normalized_content_hash": "sha256:b1f06b770a82c83459fc238c6d3a9af69a92486be769d29f0619a323a8362d6a"
+  },
+  "provenance": {
+    "source_item_id": "b53e1144-7b0e-4f2c-a665-8210dd69f611",
+    "external_id": "https://www.stacksync.com/blog/real-time-sync-zoho-crm-and-snowflake"
+  }
+}

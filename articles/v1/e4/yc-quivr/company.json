@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-quivr",
+    "name": "Quivr"
+  },
+  "record_count": 20,
+  "first_published_at": "2025-01-26T00:00:00+00:00",
+  "last_published_at": "2025-01-26T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2025-01",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 19
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/yc-quivr/index/pages/000001.json",
+        "record_count": 20,
+        "byte_count": 20129,
+        "sha256": "sha256:d036b708bda79fa61b772724d7b9482fe6bf2f05cf1855326af7af74a43fe234",
+        "newest_at": "2026-07-28T21:33:52.463534+00:00",
+        "oldest_at": "2025-01-26T00:00:00+00:00"
+      }
+    ]
+  }
+}

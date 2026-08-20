@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2ab38e767712afc901a3e2c7a906b935431059bc1f44a4a202e3c57b28a6e61e",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2025/01/08/arxiv-rig-rust",
+    "canonical": "https://www.shuttle.dev/blog/2025/01/08/arxiv-rig-rust"
+  },
+  "title": "Building an arXiv Agent with Rig & Rust",
+  "summary": "Learn about using the Rig LLM framework to be able to create AI agents for assisted research via arXiv.",
+  "published_at": "2025-01-08T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T20:58:25.712310+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2025/01/2a/2ab38e767712afc901a3e2c7a906b935431059bc1f44a4a202e3c57b28a6e61e/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2025/01/2a/2ab38e767712afc901a3e2c7a906b935431059bc1f44a4a202e3c57b28a6e61e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 23368,
+    "sha256": "sha256:a5738f3295ec5fe6712e9ce63f216ad4315e3f6cd9d493d8bfdbeab59ae54b2c",
+    "normalized_content_hash": "sha256:e18a4a18661f21af65b2f7de7061277290ee9c6a20975a272802b6f7a00e5c47"
+  },
+  "provenance": {
+    "source_item_id": "0fb8deed-0620-40e6-8f0b-ab42295adef2",
+    "external_id": "https://www.shuttle.dev/blog/2025/01/08/arxiv-rig-rust"
+  }
+}

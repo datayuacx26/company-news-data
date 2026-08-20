@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fae319deade7f7576ddea7bdf9acfdf5dd7d8090d920e24e560a9c0fd8ced638",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-full-duplex-voice-agents",
+    "canonical": "https://roark.ai/blog/testing-full-duplex-voice-agents"
+  },
+  "title": "Testing full-duplex voice agents: what changes when your model listens and speaks at once",
+  "summary": "GPT-Live made full-duplex the default. Here's what breaks in your voice-agent eval stack, and what audio-native testing has to look like now.",
+  "published_at": "2026-07-09T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T00:07:13.352567+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-10T02:09:50.402401+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/07/fa/fae319deade7f7576ddea7bdf9acfdf5dd7d8090d920e24e560a9c0fd8ced638/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/07/fa/fae319deade7f7576ddea7bdf9acfdf5dd7d8090d920e24e560a9c0fd8ced638/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14869,
+    "sha256": "sha256:14e66434501ccefa1a9fc27e85f88dfe43cc5a567de6f2daed38a2482aea2c74",
+    "normalized_content_hash": "sha256:a58d4ba6f3796c75bebefbc139eb730d18fae841e9122e8c59350c7652e35d0f"
+  },
+  "provenance": {
+    "source_item_id": "b73f4e35-c1a6-4670-b8b3-42fe8f6ee9fe",
+    "external_id": "https://roark.ai/blog/testing-full-duplex-voice-agents"
+  }
+}

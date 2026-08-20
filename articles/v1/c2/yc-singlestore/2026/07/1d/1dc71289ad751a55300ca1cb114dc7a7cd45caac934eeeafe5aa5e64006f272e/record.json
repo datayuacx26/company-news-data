@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1dc71289ad751a55300ca1cb114dc7a7cd45caac934eeeafe5aa5e64006f272e",
+  "company": {
+    "key": "yc-singlestore",
+    "name": "SingleStore"
+  },
+  "source": {
+    "id": "yc-singlestore-news-import-7744c8297ba3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden/",
+    "canonical": "https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden/"
+  },
+  "title": "Iceberg Needs an Open Catalog, Not a Walled Garden",
+  "summary": "Apache Iceberg helps reduce data lock-in with open table formats, but proprietary catalogs can limit openness, interoperability and architectural choice.",
+  "published_at": "2026-07-22T18:09:57+00:00",
+  "first_seen_at": "2026-07-23T01:37:19.565412+00:00",
+  "fetched_at": "2026-07-28T21:20:10.944044+00:00",
+  "last_updated_at": "2026-08-20T03:04:31.735248+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-singlestore/2026/07/1d/1dc71289ad751a55300ca1cb114dc7a7cd45caac934eeeafe5aa5e64006f272e/article.md",
+    "record": "articles/v1/c2/yc-singlestore/2026/07/1d/1dc71289ad751a55300ca1cb114dc7a7cd45caac934eeeafe5aa5e64006f272e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7400,
+    "sha256": "sha256:823e26b879e2de874f7e6c9688f01caccd8579b4e9903e947a804d47cf8c32ab",
+    "normalized_content_hash": "sha256:6691d6bccd94e76bb5842f68a74cd24079137aa5b347baa7aa01d4557e656ffb"
+  },
+  "provenance": {
+    "source_item_id": "6b93b1a5-8fc9-4a23-9957-62d21384c8bf",
+    "external_id": "https://www.singlestore.com/blog/iceberg-needs-an-open-catalog-not-a-walled-garden/"
+  }
+}

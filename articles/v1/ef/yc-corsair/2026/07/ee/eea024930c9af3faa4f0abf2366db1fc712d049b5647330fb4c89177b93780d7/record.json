@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "eea024930c9af3faa4f0abf2366db1fc712d049b5647330fb4c89177b93780d7",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/connect-notion-jira-github-slack-ai-agent-mcp",
+    "canonical": "https://corsair.dev/blog/connect-notion-jira-github-slack-ai-agent-mcp"
+  },
+  "title": "Connecting Notion, Jira, GitHub, and Slack to Your AI Agent Without Separate Integrations",
+  "summary": "Wiring an AI agent to four tools usually means building four integrations, four auth flows, and four things to maintain. This post looks at how an MCP based layer replaces that with a single connection that holds up as you keep adding tools.",
+  "published_at": "2026-07-24T12:10:00+00:00",
+  "first_seen_at": "2026-07-26T18:26:28.761597+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-20T02:08:14.053007+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/ee/eea024930c9af3faa4f0abf2366db1fc712d049b5647330fb4c89177b93780d7/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/ee/eea024930c9af3faa4f0abf2366db1fc712d049b5647330fb4c89177b93780d7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10184,
+    "sha256": "sha256:099ad3a3bee9141224ade3aa2d6ca1f2177886046297bf9ceb6e2bac63940333",
+    "normalized_content_hash": "sha256:32781ec3b622cd219b8667590e086338cf579fd5b6bb93ba1a6fff96c8427f1a"
+  },
+  "provenance": {
+    "source_item_id": "cbf231f2-64e2-4bb4-b990-128bef1fa835",
+    "external_id": "https://corsair.dev/blog/connect-notion-jira-github-slack-ai-agent-mcp"
+  }
+}

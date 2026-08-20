@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b105fc1862037e82bc37d97084b61c4d8d6911f9517ff9a57c6c191f7f908f55",
+  "company": {
+    "key": "yc-bird",
+    "name": "Bird"
+  },
+  "source": {
+    "id": "yc-bird-news-import-1ae5a03d7866",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://bird.com/en-us/blog/how-does-dmarc-work",
+    "canonical": "https://bird.com/en-us/blog/how-does-dmarc-work"
+  },
+  "title": "How Does DMARC Work?",
+  "summary": "DMARC works by checking SPF and DKIM, testing domain alignment against the visible From address, then applying your policy and reporting back.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T10:23:31.194838+00:00",
+  "fetched_at": "2026-07-28T21:42:41.254879+00:00",
+  "last_updated_at": "2026-08-20T02:26:25.706235+00:00",
+  "paths": {
+    "article": "articles/v1/ce/yc-bird/2026/06/b1/b105fc1862037e82bc37d97084b61c4d8d6911f9517ff9a57c6c191f7f908f55/article.md",
+    "record": "articles/v1/ce/yc-bird/2026/06/b1/b105fc1862037e82bc37d97084b61c4d8d6911f9517ff9a57c6c191f7f908f55/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5033,
+    "sha256": "sha256:3585f737432bea86afb88ce1a1f2fce44d26cd99ef079cf202946e58f98cc4ac",
+    "normalized_content_hash": "sha256:d131c4603e53c53cb1d7b0f03a6ea9d589587daa6f0bf2f4d8cb74efe713af21"
+  },
+  "provenance": {
+    "source_item_id": "61b51756-e25d-4932-9b4c-3bd55739c7bc",
+    "external_id": "https://bird.com/en-us/blog/how-does-dmarc-work"
+  }
+}

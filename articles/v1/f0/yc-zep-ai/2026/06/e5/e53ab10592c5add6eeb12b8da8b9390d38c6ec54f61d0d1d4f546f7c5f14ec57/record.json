@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "e53ab10592c5add6eeb12b8da8b9390d38c6ec54f61d0d1d4f546f7c5f14ec57",
+  "company": {
+    "key": "yc-zep-ai",
+    "name": "Zep AI"
+  },
+  "source": {
+    "id": "yc-zep-ai-rss-0db2565bfdf1",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://blog.getzep.com/markdown-is-not-agent-memory/",
+    "canonical": "https://blog.getzep.com/markdown-is-not-agent-memory/"
+  },
+  "title": "Markdown is not agent memory",
+  "summary": "Some of the most capable agents in production keep their memory in plain markdown files, and for a single agent and a single user it is hard to beat. The pattern breaks in predictable places: at scale, as facts change and errors compound, and under concurrent agents.",
+  "published_at": "2026-06-23T15:15:19+00:00",
+  "first_seen_at": "2026-07-24T08:02:00.467869+00:00",
+  "fetched_at": "2026-07-28T21:54:03.866440+00:00",
+  "last_updated_at": "2026-08-20T03:41:35.476524+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-zep-ai/2026/06/e5/e53ab10592c5add6eeb12b8da8b9390d38c6ec54f61d0d1d4f546f7c5f14ec57/article.md",
+    "record": "articles/v1/f0/yc-zep-ai/2026/06/e5/e53ab10592c5add6eeb12b8da8b9390d38c6ec54f61d0d1d4f546f7c5f14ec57/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13269,
+    "sha256": "sha256:a1a3ebbed918a3290ce5ade8e0cc3ec33c51c6c3f287cb06e17af3d38710975f",
+    "normalized_content_hash": "sha256:34673d1802af3102873f07bb024dbc7ca0b249ab2284c718ee883cb2c6355d9e"
+  },
+  "provenance": {
+    "source_item_id": "b89c8f5f-1688-4ce3-bf58-a01e5abcb35a",
+    "external_id": "6a3a10aa8a420f0001c5cad8"
+  }
+}

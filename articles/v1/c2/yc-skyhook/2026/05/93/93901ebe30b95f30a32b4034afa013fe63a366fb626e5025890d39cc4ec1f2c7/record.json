@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "93901ebe30b95f30a32b4034afa013fe63a366fb626e5025890d39cc4ec1f2c7",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/kubernetes-production-readiness-checklist",
+    "canonical": "https://www.skyhook.io/blog/kubernetes-production-readiness-checklist"
+  },
+  "title": "The Kubernetes Production Readiness Checklist Every Service Needs",
+  "summary": "The 20 checks that decide whether a Kubernetes service survives its first weekend in prod - what each catches, the YAML to fix it, and how to enforce it automatically.",
+  "published_at": "2026-05-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T22:15:28.620730+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2026/05/93/93901ebe30b95f30a32b4034afa013fe63a366fb626e5025890d39cc4ec1f2c7/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2026/05/93/93901ebe30b95f30a32b4034afa013fe63a366fb626e5025890d39cc4ec1f2c7/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25685,
+    "sha256": "sha256:70b363f5bea604449bc6f267daa48e9b797b5c89168032913e567c4fee23e305",
+    "normalized_content_hash": "sha256:cd1f7ff0ed82183b3e32b07bf37efb26f8005485a621427a8c76549021c159f6"
+  },
+  "provenance": {
+    "source_item_id": "25556f14-12b1-4a85-b701-834be407aa74",
+    "external_id": "https://www.skyhook.io/blog/kubernetes-production-readiness-checklist"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "8564fe497fbdbe61b866a4fb31ec69fcbc75c40e057a89e291c40b74fbea2e82",
+  "company": {
+    "key": "yc-emergent",
+    "name": "Emergent"
+  },
+  "source": {
+    "id": "yc-emergent-news-import-fc8f7e880d65",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://emergent.sh/blog/how-our-pricing-engine-evolved-from-an-if-ladder",
+    "canonical": "https://emergent.sh/blog/how-our-pricing-engine-evolved-from-an-if-ladder"
+  },
+  "title": "How Our Pricing Engine Evolved from an If-Ladder",
+  "summary": "Learn how Emergent built Flux, a pricing engine that evaluates 169M discount decisions using configurable rules instead of complex if-else logic.",
+  "published_at": "2026-08-14T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T20:06:54.154269+00:00",
+  "fetched_at": "2026-08-14T20:06:55.252693+00:00",
+  "last_updated_at": "2026-08-20T02:32:28.131405+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-emergent/2026/08/85/8564fe497fbdbe61b866a4fb31ec69fcbc75c40e057a89e291c40b74fbea2e82/article.md",
+    "record": "articles/v1/c4/yc-emergent/2026/08/85/8564fe497fbdbe61b866a4fb31ec69fcbc75c40e057a89e291c40b74fbea2e82/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11153,
+    "sha256": "sha256:2555e103b452233a54b71537b0b27951bdc8f5813fbf087609f86f6162417ee2",
+    "normalized_content_hash": "sha256:c94aa00466c3a943e2757d6673b44aaff190ee152f7f216192c41367ea960d85"
+  },
+  "provenance": {
+    "source_item_id": "8b603abf-93cb-4c6b-a426-3ad9cc924c76",
+    "external_id": "https://emergent.sh/blog/how-our-pricing-engine-evolved-from-an-if-ladder"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "2665d69d225b6b8573e96291f98197642e99a67793a7cf1586c18d1564786aa2",
+  "company": {
+    "key": "yc-wasp",
+    "name": "Wasp"
+  },
+  "source": {
+    "id": "yc-wasp-rss-5b1984e54864",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://wasp.sh/blog/2026/03/26/nextjs-vs-wasp-40-percent-less-tokens-same-app",
+    "canonical": "https://wasp.sh/blog/2026/03/26/nextjs-vs-wasp-40-percent-less-tokens-same-app"
+  },
+  "title": "Next.js vs Wasp: 40% Less Tokens for the Same App",
+  "summary": "We gave Claude Code the same feature prompt for two identical SaaS apps: one built with Next.js, one with Wasp. The Wasp version cost 44% less and used 38% fewer tokens.",
+  "published_at": "2026-03-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:21:24.634053+00:00",
+  "fetched_at": "2026-07-28T22:00:16.885857+00:00",
+  "last_updated_at": "2026-08-20T02:55:38.590332+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-wasp/2026/03/26/2665d69d225b6b8573e96291f98197642e99a67793a7cf1586c18d1564786aa2/article.md",
+    "record": "articles/v1/d9/yc-wasp/2026/03/26/2665d69d225b6b8573e96291f98197642e99a67793a7cf1586c18d1564786aa2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14964,
+    "sha256": "sha256:3de0e77b20202f5e5cef43caa80811d207370af5ed76874d07f8f3444624fc53",
+    "normalized_content_hash": "sha256:3638b0beba27868a9e990f494b1feb13d52cb7b1313b71c895a50ddbebad9a7a"
+  },
+  "provenance": {
+    "source_item_id": "f1435721-9366-47c8-91a7-fc4c82b3fc4e",
+    "external_id": "https://wasp.sh/blog/2026/03/26/nextjs-vs-wasp-40-percent-less-tokens-same-app"
+  }
+}

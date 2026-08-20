@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1e18b376af1400e35a4683f15e71cc01a238ebe1f361cf350d75c99a43248eff",
+  "company": {
+    "key": "yc-datasaur",
+    "name": "Datasaur"
+  },
+  "source": {
+    "id": "yc-datasaur-news-import-9dd599cb2858",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://datasaur.ai/blog/your-ai-bill-is-as-low-as-it-will-ever-be",
+    "canonical": "https://datasaur.ai/blog/your-ai-bill-is-as-low-as-it-will-ever-be"
+  },
+  "title": "Your AI Bill Is as Low as It Will Ever Be",
+  "summary": "Goldman Sachs projects token consumption rising 2400% by 2030, and the driver is not more users clicking on chatbots but a fundamental shift to agentic workflows that consume tens of thousands of tokens per task instead of hundreds. The more useful your agents become, the more they will run, and most organizations are dramatically underestimating the infrastructure bill that comes with successful AI deployment.",
+  "published_at": "2026-07-11T00:00:00+00:00",
+  "first_seen_at": "2026-08-15T15:28:56.996352+00:00",
+  "fetched_at": "2026-08-15T15:28:59.960180+00:00",
+  "last_updated_at": "2026-08-20T01:26:03.429280+00:00",
+  "paths": {
+    "article": "articles/v1/cd/yc-datasaur/2026/07/1e/1e18b376af1400e35a4683f15e71cc01a238ebe1f361cf350d75c99a43248eff/article.md",
+    "record": "articles/v1/cd/yc-datasaur/2026/07/1e/1e18b376af1400e35a4683f15e71cc01a238ebe1f361cf350d75c99a43248eff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 6992,
+    "sha256": "sha256:f5a14c267fba837686d0246ab24437eaef20b6e2dfc0d1e4a2699e876eb46e96",
+    "normalized_content_hash": "sha256:030f74edc04934fb04dc9fdc958f0c2dc33bb27588da20f4a3eee6f14097953f"
+  },
+  "provenance": {
+    "source_item_id": "a83259aa-1120-435c-947a-69f3aec8a681",
+    "external_id": "https://datasaur.ai/blog/your-ai-bill-is-as-low-as-it-will-ever-be"
+  }
+}

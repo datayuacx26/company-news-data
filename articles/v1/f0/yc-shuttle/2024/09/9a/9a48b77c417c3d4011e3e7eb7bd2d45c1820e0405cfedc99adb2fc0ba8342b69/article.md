@@ -1,0 +1,253 @@
+---
+schema_version: "1.0.0"
+document_id: "9a48b77c417c3d4011e3e7eb7bd2d45c1820e0405cfedc99adb2fc0ba8342b69"
+company_key: "yc-shuttle"
+company: "Shuttle"
+source_id: "yc-shuttle-rss-52efc69d7cac"
+canonical_url: "https://www.shuttle.dev/blog/2024/09/18/why-i-learned-rust-mark"
+published_at: "2024-09-18T15:30:00+00:00"
+first_seen_at: "2026-07-20T23:24:10.103156+00:00"
+fetched_at: "2026-07-28T22:25:54.866601+00:00"
+content_hash: "sha256:3f340fb202c3999d3afb68e6223947fa81a457dbb1f2cc0faedf96f0a9754ba6"
+---
+
+# Why I Learned Rust - as a Python dev
+
+## How It Started #
+
+
+Way back in the ancient year of 2016 I founded a SaaS startup in the FinTech space. In addition to my role as founder, I also served as the head (read: *sole* ) maintainer of the in-house utility-wrapper-client-library- *thing* ¹ that actually enabled customers to *use* the platform. It was written in Python, and included support for more than 6 different (rather niche) industry-specific softwares, enabling near-real-time synchronization between customer's brick-and-mortar stores and our backend.
+
+
+I say near-real-time for two reasons - first, even a minute or two of lag between a record being changed in a customer's system and that change being reflected in our backend was absolutely head and shoulders above customer ask or expectation, so I never aimed to improve that aspect of things. Second though, and more germane to the topic at hand, some of the softwares we supported hadn't been updated since (and this is not a joke or exaggeration) 1992. They did not use anything that might be considered a "modern" data storage format, nor did they even include any real concept of networked *anything* newer than perhaps FTP.
+
+
+The plugin to the utility-wrapper-client-library- *thing* ¹ that supported that specific software was the absolute unquestioned bane of my existence. By necessity, it had to be written initially as a hand-coded parser for the specific format the customer-side software stored data in which meant it was effectively read-only. Moreover, while writing in Python did lower the bar pretty dramatically, it also meant that it was doing disk and network I/O *in Python* . To make matters that much worse, due to a quirk of the storage format along with the requirements of what the support wrapper was actually doing meant that the plugin couldn't chunk or lazy load the file(s) in question - it *had* to read each one into memory in its entirety every single time a sync needed to be performed. Oh and naturally - let's not forget lock contention baby.
+
+
+> Pictured: a biblically-accurate representation of myself working on the Python code described above
+
+
+## Cue The Mysterious Stranger† On A Dark Night‡ Offering A Questionable Bargain§ #
+
+
+† - StackOverflow
+
+
+‡ - just a regular Tuesday
+
+
+§ -[RIIR](https://ghost.fission.codes/content/images/2023/04/Rewrite-It-In-Rust---Postcard---Front.jpeg)
+
+
+Frustrated with the frankly abysmal performance of this specific plugin, I found myself diving into ever darker waters in pursuit of the dream that has haunted Python devs since time immemorial: how to make this *one* stupid thing bottlenecking my code performant!? 😡
+
+
+Naturally I ran into all the usual answers first - threading, multiprocessing, and async. Of the seemingly available options at the time multiprocessing was out as there was just no way I was going to voluntarily double down on the lock contention issues I was already dealing with. Async seemed like an attractive option, but I'd need to learn a whole new paradigm and it didn't feel like I had the breathing room to do that at the time. That just left threading which... underwhelmed for reasons that escape my memory as I'm writing this, so we're just gonna sweep that under the rug and thank you for graciously playing along for the sake of the story.
+
+
+What kept popping up though, were posts and articles about how libraries like NumPy, pandas, and SciPy had addressed performance issues. Specifically, things like[cython](https://github.com/cython/cython) ,[numba](https://numba.pydata.org/) , and[nuitka](https://nuitka.net/) . Heck, if I remember correctly, I think I may have even *tried* nuitka. Ultimately, none of them really seemed like options worth pursuing. Reflecting on it now, my reasons seem shakier than I'd like to admit, but again - rug sweep; we're not here for self-reflection, we're here for a story!
+
+
+My thinking at the time went like this:
+
+
+- Cython seems like the best option, but to really get the most out of it you kinda *have* to use the expanded syntax (which is a superset of Python, but in this case we're specifically talking about the super parts, not the Python-identical parts)
+- If I'm effectively going to have to learn a new programming language, maybe I should consider options other than Cython; after all, FFI is a thing and maybe there's something better?
+- Blow dust off C/C++ books from college- *Immediate no, hard pass*
+- Hmmm...[go](https://go.dev/) has been getting a lot of press lately, can you write Python extensions in go?
+
+
+- Answer: surprisingly,[yes](https://github.com/asottile/setuptools-golang)
+
+
+- note: there are likely better tools for this now, but I distinctly recall` setuptools-golang` existing at the time. In the interest of full disclosure, "it exists" is about as far as I got into it though.
+
+
+- StackOverflow *really* seems to love rust too though. Can you write Python extensions in rust?
+
+
+- Answer:[absolutely](https://github.com/PyO3/pyo3) , 110% you can, and it's like... *easy* . Like almost laughably, comically easy. Though for story purposes, I didn't know that at *this* precise moment in the narrative.
+
+
+- What's the real difference between rust and go?
+
+
+- So far outside the scope of this story I don't even have a postal code for it
+- *At the time though:*
+
+
+- go was billed as having a less steep learning curve, and as primarily offering type-safety, speed, and *really, really* good concurrency
+- rust was billed as having a near-mythical learning curve, but offering a feature-set that almost boiled down to "if it *compiles at all* , it'll run without issue" along with an almost draconian stance on compatibility and the meaning of semver on the part of the maintainers that meant that the "if it compiles..." could be extended with "without any real maintenance, basically forever"
+
+
+What clinched it for me was an admittedly niche experience with a hard-to-replicate bug that *somehow* was caused by *something* inherent to the way Python does garbage collection, throwing (perhaps unearned) shade on the fact that Go is *also* a garbage collected language. Ultimately, the actual literal thought I had was "if I'm gonna learn a compiled language, I may as well learn one that *doesn't* include a whole runtime and garbage collector in the final binary".
+
+
+> Disclaimer: I am not today the software engineer I was the better part of a decade ago
+
+
+## Act 3: Doin' It To 'Em #
+
+
+So, I did it. I took the plunge and learned rust. I was apprehensive, because (at the time) rust had a reputation for being frustrating while you're still on the leftward side of the learning curve. The thing that really wiped all of that away for me though was one of the very first things[the rust book](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#:~:text=Compiler%20errors%20can%20be%20frustrating) has to say about error messages from the compiler:
+
+
+> Compiler errors can be frustrating, but really they only mean your program isn't safely doing what you want it to do yet; they do not mean that you're not a good programmer!
+>
+>
+> Experienced Rustaceans still get compiler errors.
+
+
+That more or less did away with any apprehension I felt about the compiler or the language itself. It almost felt like I'd made a deal with the compiler - "if you'll do what I say, make the changes I suggest, I promise I'll keep your feet safe from landmines and[footguns](https://matt-rickard.com/avoiding-footguns) ". Coming from Python, it was just plain reassuring that the compiler wouldn't *let* me put code out into the world that was just going to throw an error at runtime. I mean, it's still gonna yell, but it's gonna yell *at me* and it's always gonna do it *before* I ship something, not halfway through a customer's once-a-night, business-critical reconciliation with our backend.
+
+
+That was **huge** . Even huger though might be the amount of just plain... *paranoia* or second-guessing code I could do away with. If you're a long-time, battle-seasoned Python programmer and you've ever had to deal with code that wants to deal with disparate remote systems (or even *one* remote system that grew -cough- *organically* vs. intentionally), I'll bet this looks familiar:
+
+
+```text
+def    convert  (  record )  :
+# ...
+
+
+if    isinstance  (  record .  amount ,    str  )  :
+record .  amount  =   convert_strings_to_amounts (  record .  amount )
+elif    isinstance  (  record .  amount ,    float  )  :
+record .  amount  =   cast_floats_to_valid_amounts (  record .  amount )
+elif    isinstance  (  record .  amount ,    dict  )  :
+record .  amount  =   assemble_amount_from_dict (  record .  amount )
+elif   record .  amount  is    None  :
+raise   TypeError (  type  (  record .  amount )  ,   record .  amount ,    "expected an integer amount in pennies"  )
+
+
+if   record .  amount  <    1  :
+raise   ValueError (  "transactions must have a positive, non-zero total"  )
+
+
+# ...
+
+
+```
+
+
+A few things here. First, here's the equivalent rust code:
+
+
+```text
+pub  (  crate  )    fn    convert  (  record :    RecordFromRemoteSystem  )    ->    Result  <  LocalRecord  ,    RecordConversionError  >    {
+// ...
+
+
+if   record .  amount  <    1    {
+return    Err  (  RecordConversionError  (  "transactions must have a positive, non-zero total"  )  )  ;
+}
+
+
+// ...
+}
+
+
+```
+
+
+That's right - no guessing,` record.amount` **will** be an integer or the code just won't compile. That's all there is to it. To the Python dev I was 10 years ago, that's 🤯.
+
+
+Next, taking a look at the Python code again, it's... just not right. The *correct* version of that (in my opinion) would be something more like:
+
+
+```text
+from   dataclasses  import   dataclass ,   field
+
+
+@dataclass
+class    RecordFromRemoteSystem  :
+"""A transaction record from {remote system}."""
+
+
+# ...
+
+
+amount :    int    =   field (
+metadata =  dict  (
+description =  "The transaction total, in whole pennies"  ,
+)  ,
+)
+
+
+# ...
+
+
+def    convert_to_local_record  (  record :   RecordFromRemoteSystem )    -  >   LocalRecord :
+"""Convert the supplied record from {remote system} to a record compatible with {local system}."""
+# ...
+
+
+```
+
+
+> Note: if we want to be even more nitpicky then I'm about to be: yes, you're right,` convert_to_local_record` should be an associated method of the` RecordFromRemoteSystem` class, and it probably should be renamed` to_local_record` or somesuch, but... Rug. Swept. Hush 🤫
+
+
+See the proper type annotations and docstring? In Python, you can *ask* devs to do that, you can even do things like configure[pre-commit hooks](https://pre-commit.com/) to try and enforce it, but ultimately there's nothing in the language itself or its "standard" tooling that's going to make it anything other that the equivalent of a "come on guys, I'm super for real, you gotta do this, please".
+
+
+Here it is in rust:
+
+
+```text
+#![deny(missing_docs)]
+
+
+/// A transaction record from {remote system}
+pub  (  crate  )    struct    RecordFromRemoteSystem    {
+// ...
+
+
+/// The transaction total, in whole pennies
+amount :    u32  ,
+
+
+// ...
+}
+
+
+impl    RecordFromRemoteSystem    {
+
+
+/// Convert a record from {remote system} into a
+/// compatible record for {local system}
+pub  (  crate  )    fn    to_local_record  (  self  )    ->    LocalRecord    {
+// ...
+}
+}
+
+
+```
+
+
+Not only are the type annotations simply a required part of rust's syntax, all it takes to ensure documentation gets written is that little` #!\[deny(missing_docs)\]` at the top there. Add that, and it suddenly becomes just as much of a compile time violation to not write documentation as it would be to call a function expecting an integer and pass it a string value.
+
+
+I could probably go on all day with examples, but...
+
+
+## Happily Ever After* #
+
+
+> -
+>
+>
+> - terms and conditions apply, only for certain definitions of "happy", not legally binding in the State Of California or geographic areas under the sovereign authority of Victor von Doom
+
+
+My journey to and through rust is (perhaps obviously) much more than these simple examples, and I wouldn't dream of trying to keep you captive for all of them. For the purposes of the narrative, I will say that the experience of learning rust unquestionably made me a better Python developer. Aside from that though, coming to rust from Python, having experienced a lot of the most common and most *frustrating* pitfalls in Python means that a large portion of my appreciation for rust is born from the things that just *aren't* problems in rust the same way they are in Python. By that I mean things that either outright *aren't* problems in rust, (like "what happens if some idiot *downstream user* tries to call this function on a string and not an int like it's expecting), or things that aren't the same *caliber* of problem in rust that they are in Python (like "start documenting your code or I'll break your fingers").
+
+
+There a thousand and one other little things (like how nice rust's enums are, or how *fluid* error and option handling are, or just the` match` statement) that rust brings together that help to heal the (admittedly *absolutely self-inflicted* ) battle wounds Python development left me with. I'd be lying if I didn't say that working in rust doesn't have its *own* frustrations, but sitting here now, writing this, I can't think of a single one that I'd hold up as my "if you could tell your younger self one thing" or even "what would you tell someone looking to learn rust". I hate, hate, **hate** to repeat this specific piece of advice simply because I remember how frustratingly hand-wavy it felt when *I* first read it, but just read the rust book and remember that the compiler is *your friend* and that when it says "no, you can't do that", it really means "that's not safe, you'll hurt yourself somewhere down the road if I let you do it, so I'm not gonna" and temper any frustration you might feel by remembering that even when it *does* tell you no, it almost always follows it up with a suggestion of what to do so it can tell you yes instead.
+
+
+## Shameless Self-Promotion #
+
+
+Full disclosure, I *am* one of the ancient and unfathomably powerful wizards *humble and dedicated* engineers on Shuttle's dev team. Even when I wasn't though, I'd still tell anyone who would listen - you should do the CCH challenges. For anyone interested in rust *at all* , if you're just curious, just started, or even if you've been working in rust for years - take an afternoon and work through Shuttle's[Christmas Code Hunt](https://www.shuttle.dev/cch) challenge, even if it's the middle of July when you're reading this. The challenges start off easy, all have multiple ways to solve them *and* multiple ways to earn points, and cover a truly ridiculous cross section of rust, backend, and web technology in general. They are undeniably an incredibly fun way to learn rust fundamentals, broaden your knowledge of building backend services in general and rust specifically, *and* you end up with a super cool project you can show off. What's not to love? 😁

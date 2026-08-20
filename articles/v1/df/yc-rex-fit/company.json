@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-rex-fit",
+    "name": "rex.fit"
+  },
+  "record_count": 18,
+  "first_published_at": "2024-08-29T00:00:00+00:00",
+  "last_published_at": "2024-09-03T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-08",
+      "record_count": 12
+    },
+    {
+      "partition": "2024-09",
+      "record_count": 6
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/df/yc-rex-fit/index/pages/000001.json",
+        "record_count": 18,
+        "byte_count": 18279,
+        "sha256": "sha256:ac6756fdd5833070404ab4f60712c1616e007eebffae8255a6f47b8d2bca9b65",
+        "newest_at": "2024-09-03T00:00:00+00:00",
+        "oldest_at": "2024-08-29T00:00:00+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "cca218a8149798fec2a0b0d704c455c035ee925d02d6dbe97ba8f41216826356",
+  "company": {
+    "key": "yc-adri-ai",
+    "name": "Adri AI"
+  },
+  "source": {
+    "id": "yc-adri-ai-news-import-4d4ea4e66e6f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://docs.getadri.ai/blog/code-agent/llm-and-abap/",
+    "canonical": "https://docs.getadri.ai/blog/code-agent/llm-and-abap"
+  },
+  "title": "LLMs Don't Hallucinate ABAP. They Overgeneralize It.",
+  "summary": "We spent months studying the patterns in mistakes LLMs make while writing ABAP code. While many teams frame the risks in terms of \"hallucination\", we've learned that hallucination is not the core issue in ABAP.",
+  "published_at": "2025-12-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T04:52:15.508780+00:00",
+  "fetched_at": "2026-07-28T22:24:48.249354+00:00",
+  "last_updated_at": "2026-08-20T03:25:11.515915+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-adri-ai/2025/12/cc/cca218a8149798fec2a0b0d704c455c035ee925d02d6dbe97ba8f41216826356/article.md",
+    "record": "articles/v1/c4/yc-adri-ai/2025/12/cc/cca218a8149798fec2a0b0d704c455c035ee925d02d6dbe97ba8f41216826356/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 5159,
+    "sha256": "sha256:1ac92cfffe6546ff7ad2bb1040dea10f200440405be2ac27b2f44ea6c29f038d",
+    "normalized_content_hash": "sha256:2ff0428bfd05cc28da021650905afc159e5d310207e1f8f40426dd2273f4cdde"
+  },
+  "provenance": {
+    "source_item_id": "a7f4ebd5-1099-4a4e-a598-091a94b7e101",
+    "external_id": "https://docs.getadri.ai/blog/code-agent/llm-and-abap"
+  }
+}

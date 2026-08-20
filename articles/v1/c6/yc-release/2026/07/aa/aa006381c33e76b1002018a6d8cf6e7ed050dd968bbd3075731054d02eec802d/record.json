@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "aa006381c33e76b1002018a6d8cf6e7ed050dd968bbd3075731054d02eec802d",
+  "company": {
+    "key": "yc-release",
+    "name": "Release"
+  },
+  "source": {
+    "id": "yc-release-news-import-be48e1d74beb",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://release.com/blog/hidden-costs-of-staging",
+    "canonical": "https://release.com/blog/hidden-costs-of-staging"
+  },
+  "title": "The Hidden Costs of Traditional Staging Environments Across the SDLC",
+  "summary": "Traditional staging environments carry significant hidden costs in cloud infrastructure spend, developer productivity, release velocity, and headcount allocation. Learn how ephemeral environments can eliminate these costs and enable faster, more reliable software delivery.",
+  "published_at": null,
+  "first_seen_at": "2026-07-24T10:54:59.054180+00:00",
+  "fetched_at": "2026-07-28T21:37:36.757263+00:00",
+  "last_updated_at": "2026-08-19T22:59:48.848313+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-release/2026/07/aa/aa006381c33e76b1002018a6d8cf6e7ed050dd968bbd3075731054d02eec802d/article.md",
+    "record": "articles/v1/c6/yc-release/2026/07/aa/aa006381c33e76b1002018a6d8cf6e7ed050dd968bbd3075731054d02eec802d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 19492,
+    "sha256": "sha256:fd2e9faffd4a854af19446e2f968c04c8509f1676e51f4352ddd7de158322d18",
+    "normalized_content_hash": "sha256:2f7bc81a14ed0a4a8e0d9d47cc3a9f48dbb94d2e41077d6872e4e2145aa3acea"
+  },
+  "provenance": {
+    "source_item_id": "68281146-4244-46d3-a4a7-17cafc44c946",
+    "external_id": "https://release.com/blog/hidden-costs-of-staging"
+  }
+}

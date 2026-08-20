@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "b1c2ca9b59aed1e701c6d7f52c99a021bafd4014dacdc280826e343ed3d3141f",
+  "company": {
+    "key": "yc-sendblue",
+    "name": "Sendblue"
+  },
+  "source": {
+    "id": "yc-sendblue-news-import-cbfb84d5bb49",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.sendblue.com/blog/sendblue-security-incident-update",
+    "canonical": "https://www.sendblue.com/blog/sendblue-security-incident-update"
+  },
+  "title": "Incident report for August 5, 2026",
+  "summary": "A summary of what happened, what we know, and what we are doing next.",
+  "published_at": "2026-08-05T00:00:00+00:00",
+  "first_seen_at": "2026-08-07T06:38:35.807311+00:00",
+  "fetched_at": "2026-08-07T06:38:37.755907+00:00",
+  "last_updated_at": "2026-08-20T03:14:29.219776+00:00",
+  "paths": {
+    "article": "articles/v1/db/yc-sendblue/2026/08/b1/b1c2ca9b59aed1e701c6d7f52c99a021bafd4014dacdc280826e343ed3d3141f/article.md",
+    "record": "articles/v1/db/yc-sendblue/2026/08/b1/b1c2ca9b59aed1e701c6d7f52c99a021bafd4014dacdc280826e343ed3d3141f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2261,
+    "sha256": "sha256:f0a89f53aa90941bc2140be786992cfb29270b579069ad4c7a31b26c3af4e416",
+    "normalized_content_hash": "sha256:83e99b0a59350ad2c73eb4ba4710a695f8aaec93badb52a58ab716e41fa75dd9"
+  },
+  "provenance": {
+    "source_item_id": "b35a9155-28ab-4d41-bd6c-72c9887557f0",
+    "external_id": "https://www.sendblue.com/blog/sendblue-security-incident-update"
+  }
+}

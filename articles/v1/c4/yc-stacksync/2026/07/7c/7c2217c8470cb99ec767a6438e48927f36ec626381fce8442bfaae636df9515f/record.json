@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7c2217c8470cb99ec767a6438e48927f36ec626381fce8442bfaae636df9515f",
+  "company": {
+    "key": "yc-stacksync",
+    "name": "Stacksync"
+  },
+  "source": {
+    "id": "yc-stacksync-rss-96a17fe536ae",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.stacksync.com/blog/hubspot-native-sync-vs-real-time-sync-layer",
+    "canonical": "https://www.stacksync.com/blog/hubspot-native-sync-vs-real-time-sync-layer"
+  },
+  "title": "HubSpot Native Sync vs. a Real-Time Sync Layer: What Breaks at Scale",
+  "summary": "When HubSpot's native Data Sync is enough and when it breaks for HubSpot-to-database sync: reliability, the API-access licensing gotcha, and per-step vs flat…",
+  "published_at": "2026-07-20T12:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:20:38.087450+00:00",
+  "fetched_at": "2026-07-28T21:08:37.946927+00:00",
+  "last_updated_at": "2026-07-28T21:11:32.376177+00:00",
+  "paths": {
+    "article": "articles/v1/c4/yc-stacksync/2026/07/7c/7c2217c8470cb99ec767a6438e48927f36ec626381fce8442bfaae636df9515f/article.md",
+    "record": "articles/v1/c4/yc-stacksync/2026/07/7c/7c2217c8470cb99ec767a6438e48927f36ec626381fce8442bfaae636df9515f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8041,
+    "sha256": "sha256:74da5ef6802f24abc242bfbf7fe68eee3c497f7f779bd7e539197cf19e365167",
+    "normalized_content_hash": "sha256:baf931c4b62a439e112387d15060f39ebdfb02dfcea344a5479a9184741cf645"
+  },
+  "provenance": {
+    "source_item_id": "ade1a6b8-4af5-4910-9eed-7b7bff10947a",
+    "external_id": "https://www.stacksync.com/blog/hubspot-native-sync-vs-real-time-sync-layer"
+  }
+}

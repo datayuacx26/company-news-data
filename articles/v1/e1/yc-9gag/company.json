@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-9gag",
+    "name": "9gag"
+  },
+  "record_count": 1,
+  "first_published_at": "2019-07-26T10:33:25+00:00",
+  "last_published_at": "2019-07-26T10:33:25+00:00",
+  "partitions": [
+    {
+      "partition": "2019-07",
+      "record_count": 1
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e1/yc-9gag/index/pages/000001.json",
+        "record_count": 1,
+        "byte_count": 1333,
+        "sha256": "sha256:ddb97db9b04b1648a14100a923b1d756311125458a5558d60f80b5c342667acb",
+        "newest_at": "2019-07-26T10:33:25+00:00",
+        "oldest_at": "2019-07-26T10:33:25+00:00"
+      }
+    ]
+  }
+}

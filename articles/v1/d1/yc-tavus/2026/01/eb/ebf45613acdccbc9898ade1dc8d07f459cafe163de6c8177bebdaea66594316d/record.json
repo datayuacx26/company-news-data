@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "ebf45613acdccbc9898ade1dc8d07f459cafe163de6c8177bebdaea66594316d",
+  "company": {
+    "key": "yc-tavus",
+    "name": "Tavus"
+  },
+  "source": {
+    "id": "yc-tavus-news-import-04156f4a70a3",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.tavus.io/blog/sparrow-1-human-level-conversational-timing-in-real-time-voice",
+    "canonical": "https://www.tavus.io/blog/sparrow-1-human-level-conversational-timing-in-real-time-voice"
+  },
+  "title": "Sparrow-1: Human-Level Conversational Timing in Real-Time Voice",
+  "summary": "Sparrow-1 is a specialized, multilingual audio model for real-time conversational flow and floor transfer. It predicts when a system should listen, wait, or speak, enabling response timing that mirrors human conversation rather than simply responding as fast as possible.",
+  "published_at": "2026-01-13T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T03:24:31.995752+00:00",
+  "fetched_at": "2026-07-28T22:23:44.568277+00:00",
+  "last_updated_at": "2026-08-20T00:25:03.507858+00:00",
+  "paths": {
+    "article": "articles/v1/d1/yc-tavus/2026/01/eb/ebf45613acdccbc9898ade1dc8d07f459cafe163de6c8177bebdaea66594316d/article.md",
+    "record": "articles/v1/d1/yc-tavus/2026/01/eb/ebf45613acdccbc9898ade1dc8d07f459cafe163de6c8177bebdaea66594316d/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15742,
+    "sha256": "sha256:c6dc05082d42e908c8f42816b2de6a0906fee1f04dfea8a6a948caef0eaeec84",
+    "normalized_content_hash": "sha256:766fd3b66dd43d46edffc2669e80089a9373065dd3b9e4d7edf35cb3fe77267c"
+  },
+  "provenance": {
+    "source_item_id": "973d51f7-7aba-468d-b2a1-92f63f4d3d52",
+    "external_id": "https://www.tavus.io/blog/sparrow-1-human-level-conversational-timing-in-real-time-voice"
+  }
+}

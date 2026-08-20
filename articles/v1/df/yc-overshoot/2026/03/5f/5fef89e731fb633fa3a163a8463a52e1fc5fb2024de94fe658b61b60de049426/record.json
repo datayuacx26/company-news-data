@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "5fef89e731fb633fa3a163a8463a52e1fc5fb2024de94fe658b61b60de049426",
+  "company": {
+    "key": "yc-overshoot",
+    "name": "Overshoot"
+  },
+  "source": {
+    "id": "yc-overshoot-news-import-dcfd2100a052",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-30b-a3b",
+    "canonical": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-30b-a3b"
+  },
+  "title": "How to Deploy Qwen3-VL-30B-A3B with vLLM",
+  "summary": "Deploy Qwen3-VL-30B-A3B-Instruct, a mixture-of-experts vision-language model, with vLLM: setup, serve command, verification, and memory troubleshooting.",
+  "published_at": "2026-03-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T07:58:59.307241+00:00",
+  "fetched_at": "2026-07-28T22:02:33.296770+00:00",
+  "last_updated_at": "2026-07-28T22:03:41.077441+00:00",
+  "paths": {
+    "article": "articles/v1/df/yc-overshoot/2026/03/5f/5fef89e731fb633fa3a163a8463a52e1fc5fb2024de94fe658b61b60de049426/article.md",
+    "record": "articles/v1/df/yc-overshoot/2026/03/5f/5fef89e731fb633fa3a163a8463a52e1fc5fb2024de94fe658b61b60de049426/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3658,
+    "sha256": "sha256:d83b67b57562bc7d17db35259c74f912e7ae52d8b66273478ea9313113b01236",
+    "normalized_content_hash": "sha256:55a22e49091c05a3cbb114e0777527b8465c12090ebe80e0df1973f608a823c4"
+  },
+  "provenance": {
+    "source_item_id": "751247c3-5cb0-41b8-aea4-59394c581a4c",
+    "external_id": "https://www.overshoot.ai/blogs/deploy-qwen3-vl-30b-a3b"
+  }
+}

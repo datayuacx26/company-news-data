@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d87a3f3464857ed8beebdbcbdaafb7e6aa1e24285f2c299acbebce1695773d19",
+  "company": {
+    "key": "yc-kaelio",
+    "name": "Kaelio"
+  },
+  "source": {
+    "id": "yc-kaelio-news-import-d43a8938b457",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.kaelio.com/blog/introducing-ktx-open-source-context-layer-for-data-agents",
+    "canonical": "https://www.kaelio.com/blog/introducing-ktx-open-source-context-layer-for-data-agents"
+  },
+  "title": "Introducing ktx: the Open-Source Context Layer That Makes Data Agents Reliable",
+  "summary": "ktx is the open-source, executable context layer for data agents. It ingests your data stack and internal docs and turns them into an executable semantic layer plus a wiki, so agents query ktx for correct SQL instead of guessing from raw schema.",
+  "published_at": "2026-05-31T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T01:10:57.591835+00:00",
+  "fetched_at": "2026-07-28T22:07:10.300477+00:00",
+  "last_updated_at": "2026-08-20T00:20:28.214979+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-kaelio/2026/05/d8/d87a3f3464857ed8beebdbcbdaafb7e6aa1e24285f2c299acbebce1695773d19/article.md",
+    "record": "articles/v1/c7/yc-kaelio/2026/05/d8/d87a3f3464857ed8beebdbcbdaafb7e6aa1e24285f2c299acbebce1695773d19/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3884,
+    "sha256": "sha256:f284b5f0066272cbd47e61102157c1c1ba0818b80a612b24136ab42c4822b9c6",
+    "normalized_content_hash": "sha256:5484baa57a71068be5073c8e230ddc7fa909d2070a7eac894aba2612598c11e6"
+  },
+  "provenance": {
+    "source_item_id": "45effa47-9b85-46f0-b33e-aaf965135d88",
+    "external_id": "https://www.kaelio.com/blog/introducing-ktx-open-source-context-layer-for-data-agents"
+  }
+}

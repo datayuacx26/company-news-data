@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "1fcd4ba7ca075b86ea7875ac892e4eeea99283f5894c24ffa711700aa2873668",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust",
+    "canonical": "https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust"
+  },
+  "title": "Getting started with Async Rust",
+  "summary": "Discover asynchronous programming in Rust with this comprehensive guide. Learn to use async code effectively and understand key concepts for efficient concurrent task handling.",
+  "published_at": "2022-06-16T15:00:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T21:03:24.473366+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2022/06/1f/1fcd4ba7ca075b86ea7875ac892e4eeea99283f5894c24ffa711700aa2873668/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2022/06/1f/1fcd4ba7ca075b86ea7875ac892e4eeea99283f5894c24ffa711700aa2873668/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11845,
+    "sha256": "sha256:5d8f52e4c38decaffb3f50fa3eea33a41227557a39ee2e948ea8afcbb68b5f16",
+    "normalized_content_hash": "sha256:7bd93f0d5bedb988ef4ab2d283b535ed6c227a78a00fcf47269e6ae1323bcc53"
+  },
+  "provenance": {
+    "source_item_id": "c433fcf8-3a43-4829-9a64-5a09d63b7900",
+    "external_id": "https://www.shuttle.dev/blog/2022/06/16/a-short-introduction-to-async-rust"
+  }
+}

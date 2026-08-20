@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d35524adef7472c2be9d92ef3f80cf963ddd18817d1ed5c67917c611e82d6a5e",
+  "company": {
+    "key": "yc-alpaca",
+    "name": "Alpaca"
+  },
+  "source": {
+    "id": "yc-alpaca-rss-4f5e7678c8d4",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://alpaca.markets/blog/alpaca-introduces-index-options-paper-trading/",
+    "canonical": "https://alpaca.markets/blog/alpaca-introduces-index-options-paper-trading/"
+  },
+  "title": "Alpaca Introduces Index Options in Paper Trading for Trading API Users",
+  "summary": "Alpaca's Trading API now supports index options in paper trading, including SPX, SPXW, VIX, VIXW, DJX, and XSP. These Cboe-listed contracts are cash-settled and European-style, with transparent AM and PM expiration handling.",
+  "published_at": "2026-07-23T13:56:50+00:00",
+  "first_seen_at": "2026-07-23T13:58:29.241375+00:00",
+  "fetched_at": "2026-07-28T21:08:32.413121+00:00",
+  "last_updated_at": "2026-08-20T03:09:37.375382+00:00",
+  "paths": {
+    "article": "articles/v1/fa/yc-alpaca/2026/07/d3/d35524adef7472c2be9d92ef3f80cf963ddd18817d1ed5c67917c611e82d6a5e/article.md",
+    "record": "articles/v1/fa/yc-alpaca/2026/07/d3/d35524adef7472c2be9d92ef3f80cf963ddd18817d1ed5c67917c611e82d6a5e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7983,
+    "sha256": "sha256:64cf6348a5bdd745052267585df05df77d2eac75925c1ac67a3989915e18a713",
+    "normalized_content_hash": "sha256:ff2cae313b0e3474d25c9eec62a72ac153cf2602716c00977c7c6f5aed3b4831"
+  },
+  "provenance": {
+    "source_item_id": "8c93d7fb-e28f-44a0-bb59-6f35ca96e911",
+    "external_id": "6a57e944b890ae0001ff1c18"
+  }
+}

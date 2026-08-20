@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "01fb5f925e12170e7e1a891927242e60165af12feb6ca2c0d0115ea9526b4be4",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/sudo-bug-fixes",
+    "canonical": "https://zeropath.com/blog/sudo-bug-fixes"
+  },
+  "title": "ZeroPath's 36 Sudo Bug Fixes Reduce CrackArmor's Impact",
+  "summary": "One of ZeroPath's 36 sudo security fixes was rediscovered in Qualys' CrackArmor vulnerability. We share the full list of fixes, including POC for a previously-unpublished RCE targeting sudo's optional log server.",
+  "published_at": "2026-03-18T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:50:52.708520+00:00",
+  "fetched_at": "2026-07-28T22:18:37.089432+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/03/01/01fb5f925e12170e7e1a891927242e60165af12feb6ca2c0d0115ea9526b4be4/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/03/01/01fb5f925e12170e7e1a891927242e60165af12feb6ca2c0d0115ea9526b4be4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 45038,
+    "sha256": "sha256:de2661a5e673c65f2be0b73a741bfc3f2bc1f95a7d0068d2ab8066707ac99e4b",
+    "normalized_content_hash": "sha256:b1fa9d02307a9f107e2141675c4a49fee559465a56f90c2ae15127d1008f7535"
+  },
+  "provenance": {
+    "source_item_id": "3e470750-7f0e-4381-b6c7-79c0a05bb084",
+    "external_id": "https://zeropath.com/blog/sudo-bug-fixes"
+  }
+}

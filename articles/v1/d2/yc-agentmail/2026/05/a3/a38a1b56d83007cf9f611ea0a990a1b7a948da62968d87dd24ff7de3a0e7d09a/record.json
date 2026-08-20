@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a38a1b56d83007cf9f611ea0a990a1b7a948da62968d87dd24ff7de3a0e7d09a",
+  "company": {
+    "key": "yc-agentmail",
+    "name": "AgentMail"
+  },
+  "source": {
+    "id": "yc-agentmail-news-import-d328fbd3393f",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.agentmail.to/blog/html-vs-markdown-for-ai-agents",
+    "canonical": "https://www.agentmail.to/blog/html-vs-markdown-for-ai-agents"
+  },
+  "title": "HTML vs Markdown for AI agents",
+  "summary": "The output format AI agents use is more consequential than it sounds. Token costs, security risk, comprehension, and audit trail all depend on it. Here is how to decide.",
+  "published_at": "2026-05-25T00:00:00+00:00",
+  "first_seen_at": "2026-07-21T05:07:06.081239+00:00",
+  "fetched_at": "2026-07-28T21:56:40.338047+00:00",
+  "last_updated_at": "2026-08-05T18:49:21.502781+00:00",
+  "paths": {
+    "article": "articles/v1/d2/yc-agentmail/2026/05/a3/a38a1b56d83007cf9f611ea0a990a1b7a948da62968d87dd24ff7de3a0e7d09a/article.md",
+    "record": "articles/v1/d2/yc-agentmail/2026/05/a3/a38a1b56d83007cf9f611ea0a990a1b7a948da62968d87dd24ff7de3a0e7d09a/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 15697,
+    "sha256": "sha256:56557ee73255044c6e1e12b82e649778bbee80f75bbffea1cb5cceb1ec6281fb",
+    "normalized_content_hash": "sha256:b0de4317041509ac726306c0ee9ee68ba9c56dc537da1a7e7d6485fe3634d4d3"
+  },
+  "provenance": {
+    "source_item_id": "177bfa11-7382-4e4c-aa78-77c787c7ce8e",
+    "external_id": "https://www.agentmail.to/blog/html-vs-markdown-for-ai-agents"
+  }
+}

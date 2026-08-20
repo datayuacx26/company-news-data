@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "procter-gamble-company-the-common-stock",
+    "name": "Procter & Gamble Company (The)"
+  },
+  "record_count": 46,
+  "first_published_at": "2024-06-11T07:44:09.754+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2024-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-03",
+      "record_count": 1
+    },
+    {
+      "partition": "2026-04",
+      "record_count": 6
+    },
+    {
+      "partition": "2026-05",
+      "record_count": 9
+    },
+    {
+      "partition": "2026-06",
+      "record_count": 13
+    },
+    {
+      "partition": "2026-07",
+      "record_count": 12
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 3
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/c2/procter-gamble-company-the-common-stock/index/pages/000001.json",
+        "record_count": 46,
+        "byte_count": 53469,
+        "sha256": "sha256:d7ad8bf1d1c226af25344ee48c52b080861830d3da8ca7d97c79d41ee179d565",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2024-06-11T07:44:09.754+00:00"
+      }
+    ]
+  }
+}

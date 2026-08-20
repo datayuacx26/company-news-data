@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a0a00e747ca2750b2d4e30c5efb4843227e10a5ee7892f5516390b7987fe4ca1",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/argo-cd-vs-terraform-for-kubernetes-add-ons",
+    "canonical": "https://www.skyhook.io/blog/argo-cd-vs-terraform-for-kubernetes-add-ons"
+  },
+  "title": "Managing Kubernetes Add-ons: Argo CD or Terraform?",
+  "summary": "Hands-on comparison of Argo CD and Terraform for managing Kubernetes add-ons. Clear guidance on day 1 versus day 2, drift handling, upgrades, multi-cluster, and a proven hybrid workflow.",
+  "published_at": "2025-07-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T22:01:03.825556+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2025/07/a0/a0a00e747ca2750b2d4e30c5efb4843227e10a5ee7892f5516390b7987fe4ca1/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2025/07/a0/a0a00e747ca2750b2d4e30c5efb4843227e10a5ee7892f5516390b7987fe4ca1/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7886,
+    "sha256": "sha256:5b30e60a5144ac2300422c707370d2af11050d3ddc6a544da011e350d213bc8b",
+    "normalized_content_hash": "sha256:bcf58d03d4284917d6fbacace576b952864fd9972a6163948f110ccfd22a56b3"
+  },
+  "provenance": {
+    "source_item_id": "eb94456c-b08a-4441-8c83-4903c3666677",
+    "external_id": "https://www.skyhook.io/blog/argo-cd-vs-terraform-for-kubernetes-add-ons"
+  }
+}

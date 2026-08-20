@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d658e0f10300d7d8ff29112aded985994213be0ddc1c60ef02a26fe26d3fa84e",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/catastrophebench",
+    "canonical": "https://zeropath.com/blog/catastrophebench"
+  },
+  "title": "Introducing CatastropheBench",
+  "summary": "CatastropheBench evaluates frontier agents with tasks to find and develop a zero-day RCE exploit against the most important software on the internet. Today's models score zero.",
+  "published_at": "2026-07-27T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T09:58:53.773752+00:00",
+  "fetched_at": "2026-08-14T09:58:55.665947+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/07/d6/d658e0f10300d7d8ff29112aded985994213be0ddc1c60ef02a26fe26d3fa84e/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/07/d6/d658e0f10300d7d8ff29112aded985994213be0ddc1c60ef02a26fe26d3fa84e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 10432,
+    "sha256": "sha256:5a31bda600c5050299315b0294a4ef1621404d997a9e132a28ffe3f66ed4c030",
+    "normalized_content_hash": "sha256:2085bca2fcee164308e9b128cda56c1bd10e4cfe7b39c711b64027b4c6eb3993"
+  },
+  "provenance": {
+    "source_item_id": "557cf81d-647f-4642-81e8-4b5e058621f2",
+    "external_id": "https://zeropath.com/blog/catastrophebench"
+  }
+}

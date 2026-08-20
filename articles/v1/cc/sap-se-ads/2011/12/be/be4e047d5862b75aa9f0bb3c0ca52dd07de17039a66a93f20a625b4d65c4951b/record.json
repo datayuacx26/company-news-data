@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "be4e047d5862b75aa9f0bb3c0ca52dd07de17039a66a93f20a625b4d65c4951b",
+  "company": {
+    "key": "sap-se-ads",
+    "name": "SAP SE"
+  },
+  "source": {
+    "id": "sap-se-ads-news-import-a940d8350416",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://news.sap.com/press-room/media-coverage-of-sap/",
+    "canonical": "https://news.sap.com/press-room/media-coverage-of-sap/"
+  },
+  "title": "Media Coverage of SAP",
+  "summary": "Media coverage of SAP: Links to articles about SAP in external newspapers, magazines, broadcast media, blogs, websites, and more",
+  "published_at": "2011-12-10T06:08:08+00:00",
+  "first_seen_at": "2026-07-23T23:53:52.540409+00:00",
+  "fetched_at": "2026-07-28T21:33:52.463534+00:00",
+  "last_updated_at": "2026-08-19T16:52:39.297644+00:00",
+  "paths": {
+    "article": "articles/v1/cc/sap-se-ads/2011/12/be/be4e047d5862b75aa9f0bb3c0ca52dd07de17039a66a93f20a625b4d65c4951b/article.md",
+    "record": "articles/v1/cc/sap-se-ads/2011/12/be/be4e047d5862b75aa9f0bb3c0ca52dd07de17039a66a93f20a625b4d65c4951b/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3479,
+    "sha256": "sha256:be346f1d8b720c0374462adf6d775907964a50a51010715fc3b89a91dd40628e",
+    "normalized_content_hash": "sha256:4aa85c2efe1181831c04a06acd9b13d7830c672da020881040b5a24f04e289a8"
+  },
+  "provenance": {
+    "source_item_id": "96d4d841-753a-450e-8025-5e79eb352360",
+    "external_id": "https://news.sap.com/press-room/media-coverage-of-sap/"
+  }
+}

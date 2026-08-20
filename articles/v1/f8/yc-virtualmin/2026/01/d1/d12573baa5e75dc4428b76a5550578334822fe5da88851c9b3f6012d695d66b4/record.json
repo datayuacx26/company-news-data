@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "d12573baa5e75dc4428b76a5550578334822fe5da88851c9b3f6012d695d66b4",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/were-messing-with-dns-something-might-break/136253",
+    "canonical": "https://forum.virtualmin.com/t/were-messing-with-dns-something-might-break/136253"
+  },
+  "title": "We're messing with DNS, something might break",
+  "summary": "Howdy all, Just a heads up. Ilia and I are messing around with DNS today, migrating to Route 53. Theoretically, we’re experts and we know what we’re doing, but realistically, we may have missed something and something will break. So, if anything goes offline, it’s DNS and we’ll probably fix it quickly. Since we’re migrating all zones to Route 53, all services have the potential to break. I doubt any of the obvious things will go wrong, but we might have to fight with email-related records. If...",
+  "published_at": "2026-01-10T20:17:25+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T20:54:51.009577+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2026/01/d1/d12573baa5e75dc4428b76a5550578334822fe5da88851c9b3f6012d695d66b4/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2026/01/d1/d12573baa5e75dc4428b76a5550578334822fe5da88851c9b3f6012d695d66b4/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8887,
+    "sha256": "sha256:84f68dd1531809edba3ac2655258d67e7665e4c0d3b787f3b33d45edbebddd01",
+    "normalized_content_hash": "sha256:d1980c9a5720f06363157200ea3351dea23da03bdedfe0ac2cdb6d330dc91c2a"
+  },
+  "provenance": {
+    "source_item_id": "8a3ed04d-6a46-4aab-9f80-1de99dccdcc9",
+    "external_id": "forum.virtualmin.com-topic-136253"
+  }
+}

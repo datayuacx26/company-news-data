@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "3035c283ff908fc964a7a8fa6a025d71a6ccedcc19d5126eed8ad901df7269a8",
+  "company": {
+    "key": "yc-roark",
+    "name": "Roark"
+  },
+  "source": {
+    "id": "yc-roark-news-import-2870a719ae4c",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://roark.ai/blog/testing-voicemail-detection-outbound-voice-agents",
+    "canonical": "https://roark.ai/blog/testing-voicemail-detection-outbound-voice-agents"
+  },
+  "title": "Testing voicemail detection in outbound voice agents",
+  "summary": "How to test AMD in outbound voice agents: simulate voicemail, IVR, and iOS 26 Call Screening pickups, and score live calls without blowing your dial minutes.",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "first_seen_at": "2026-08-18T22:07:45.985966+00:00",
+  "fetched_at": "2026-08-18T22:07:47.558596+00:00",
+  "last_updated_at": "2026-08-20T03:30:48.840835+00:00",
+  "paths": {
+    "article": "articles/v1/c6/yc-roark/2026/08/30/3035c283ff908fc964a7a8fa6a025d71a6ccedcc19d5126eed8ad901df7269a8/article.md",
+    "record": "articles/v1/c6/yc-roark/2026/08/30/3035c283ff908fc964a7a8fa6a025d71a6ccedcc19d5126eed8ad901df7269a8/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 13880,
+    "sha256": "sha256:6ed4f8a263d619e889b6fab201d401f99106ac194c45a504a712afe2ecafc968",
+    "normalized_content_hash": "sha256:250be60714fb5be45e0281ee9eccd4558736c55ca4c7c17d2697fccf251b67cd"
+  },
+  "provenance": {
+    "source_item_id": "94dbb4f5-ad7b-41c6-b5a6-7d569d341379",
+    "external_id": "https://roark.ai/blog/testing-voicemail-detection-outbound-voice-agents"
+  }
+}

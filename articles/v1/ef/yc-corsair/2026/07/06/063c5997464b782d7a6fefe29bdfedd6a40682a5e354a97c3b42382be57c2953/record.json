@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "063c5997464b782d7a6fefe29bdfedd6a40682a5e354a97c3b42382be57c2953",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/why-ai-agents-need-programmable-integration-layer-not-webhooks",
+    "canonical": "https://corsair.dev/blog/why-ai-agents-need-programmable-integration-layer-not-webhooks"
+  },
+  "title": "Why AI Agents Need a Programmable Integration Layer, Not Just Webhooks",
+  "summary": "Why webhooks alone can't support what AI agents actually need — synchronous access, tenant-aware permissions, and flexible tool execution within a single reasoning step.",
+  "published_at": "2026-07-16T13:05:00+00:00",
+  "first_seen_at": "2026-07-21T15:04:37.944582+00:00",
+  "fetched_at": "2026-07-28T21:38:32.326002+00:00",
+  "last_updated_at": "2026-08-13T04:19:07.443047+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/07/06/063c5997464b782d7a6fefe29bdfedd6a40682a5e354a97c3b42382be57c2953/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/07/06/063c5997464b782d7a6fefe29bdfedd6a40682a5e354a97c3b42382be57c2953/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8892,
+    "sha256": "sha256:37fa3004c6dd909d8d5fcecf6838b092f4e581b70226c1413b20abb074c82d09",
+    "normalized_content_hash": "sha256:2e83a0bd8e5e3fef4e70bcc6b1b9ec3361bc9f46d3cef69d92a18e9f5d3b5874"
+  },
+  "provenance": {
+    "source_item_id": "5105d4e8-4b19-424f-a8b7-e54589058619",
+    "external_id": "https://corsair.dev/blog/why-ai-agents-need-programmable-integration-layer-not-webhooks"
+  }
+}

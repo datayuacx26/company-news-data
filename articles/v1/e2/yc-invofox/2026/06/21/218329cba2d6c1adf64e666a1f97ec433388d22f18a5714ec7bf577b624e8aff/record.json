@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "218329cba2d6c1adf64e666a1f97ec433388d22f18a5714ec7bf577b624e8aff",
+  "company": {
+    "key": "yc-invofox",
+    "name": "Invofox"
+  },
+  "source": {
+    "id": "yc-invofox-news-import-19c8879c7fc9",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.invofox.com/en/blog/utility-bill-data-extraction/",
+    "canonical": "https://www.invofox.com/en/blog/utility-bill-data-extraction/"
+  },
+  "title": "Why Utility Bill Data Extraction Is Hard (and How to Build a Pipeline That Works)",
+  "summary": "Why utility bills break generic parsers and LLM pipelines — reading types, multi-supply, tariff structures — and how to build an extraction pipeline that works.",
+  "published_at": "2026-06-16T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T00:28:19.833120+00:00",
+  "fetched_at": "2026-07-28T21:46:31.447870+00:00",
+  "last_updated_at": "2026-08-20T00:53:16.985813+00:00",
+  "paths": {
+    "article": "articles/v1/e2/yc-invofox/2026/06/21/218329cba2d6c1adf64e666a1f97ec433388d22f18a5714ec7bf577b624e8aff/article.md",
+    "record": "articles/v1/e2/yc-invofox/2026/06/21/218329cba2d6c1adf64e666a1f97ec433388d22f18a5714ec7bf577b624e8aff/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 31816,
+    "sha256": "sha256:cabd2a799f53c380004d6db5624adc4383b94d3024f65b1090d5e81a166d8b50",
+    "normalized_content_hash": "sha256:e722b95fddd1128b889e2a8b97915ad59545a865dd2edd3d5ec8b1bcf6433fda"
+  },
+  "provenance": {
+    "source_item_id": "bff9679e-9ee7-48b0-9b21-65f8f259c627",
+    "external_id": "https://www.invofox.com/en/blog/utility-bill-data-extraction/"
+  }
+}

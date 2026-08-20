@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "74e84e12f261620061b635236bb80f2954161500c00b66c7005a576e14e198cb",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/ship-without-fire-drills-canary-blue-green-and-rolling-deploys",
+    "canonical": "https://www.skyhook.io/blog/ship-without-fire-drills-canary-blue-green-and-rolling-deploys"
+  },
+  "title": "Ship Without Fire Drills: Canary, Blue-Green, and Rolling Deploys",
+  "summary": "Rolling, canary, and blue-green deployments explained with real YAML configs. How progressive delivery constrains blast radius and gives you emergency brakes.",
+  "published_at": "2025-10-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T21:27:39.672880+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2025/10/74/74e84e12f261620061b635236bb80f2954161500c00b66c7005a576e14e198cb/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2025/10/74/74e84e12f261620061b635236bb80f2954161500c00b66c7005a576e14e198cb/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 18326,
+    "sha256": "sha256:76e9eb8e73eff4aba7f48e7f8bcae790a81424820fd088bf4fa0b7838424b0ea",
+    "normalized_content_hash": "sha256:dd67eb0c1746a629e91e146ce66c99e8d7f314defdfa9b5e3b278d76e9adc26e"
+  },
+  "provenance": {
+    "source_item_id": "cb94d374-d2ae-42d5-a011-a38f676c71db",
+    "external_id": "https://www.skyhook.io/blog/ship-without-fire-drills-canary-blue-green-and-rolling-deploys"
+  }
+}

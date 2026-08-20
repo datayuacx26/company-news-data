@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "51a66af9be6ff67bfa45014a4b9a660a85d6b8d7aa24b8443fdb7fa827d375ca",
+  "company": {
+    "key": "yc-skyhook",
+    "name": "Skyhook"
+  },
+  "source": {
+    "id": "yc-skyhook-news-import-0a5e972b70e5",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.skyhook.io/blog/how-to-manage-secrets-in-kubernetes",
+    "canonical": "https://www.skyhook.io/blog/how-to-manage-secrets-in-kubernetes"
+  },
+  "title": "How to Manage Secrets in Kubernetes: 5 Approaches Compared",
+  "summary": "Five approaches to Kubernetes secrets management compared - Sealed Secrets, SOPS, vault SDKs, External Secrets Operator, and CSI Driver - with real configs, honest tradeoffs, and a decision framework.",
+  "published_at": "2025-09-01T00:00:00+00:00",
+  "first_seen_at": "2026-07-26T00:39:47.906327+00:00",
+  "fetched_at": "2026-07-28T21:27:42.276842+00:00",
+  "last_updated_at": "2026-08-19T19:16:20.754803+00:00",
+  "paths": {
+    "article": "articles/v1/c2/yc-skyhook/2025/09/51/51a66af9be6ff67bfa45014a4b9a660a85d6b8d7aa24b8443fdb7fa827d375ca/article.md",
+    "record": "articles/v1/c2/yc-skyhook/2025/09/51/51a66af9be6ff67bfa45014a4b9a660a85d6b8d7aa24b8443fdb7fa827d375ca/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 14405,
+    "sha256": "sha256:ea089c20e41850b1771f2bd090b84a456e4c064c30b82719443bbd0cbde14113",
+    "normalized_content_hash": "sha256:171aea6066c35c72c4e42a4e0eba72dc199faa141c5727a54348f1a338484447"
+  },
+  "provenance": {
+    "source_item_id": "be6bf583-f778-4116-8f86-1f3bdcc7701e",
+    "external_id": "https://www.skyhook.io/blog/how-to-manage-secrets-in-kubernetes"
+  }
+}

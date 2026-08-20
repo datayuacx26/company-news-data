@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "c36edcf7c335998500b4a077508ea66465c97d7d62cf82df9160ef5e7edbb0b3",
+  "company": {
+    "key": "yc-nango",
+    "name": "Nango"
+  },
+  "source": {
+    "id": "yc-nango-news-import-e2ee807d6673",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://nango.dev/blog/stateless-mcp-how-it-changes-the-way-agents-call-tools",
+    "canonical": "https://nango.dev/blog/stateless-mcp-how-it-changes-the-way-agents-call-tools/"
+  },
+  "title": "Stateless MCP: how it changes the way agents call tools",
+  "summary": "The MCP 2026-07-28 spec removed sessions and the initialize handshake. What agent builders need to change in their MCP clients.",
+  "published_at": "2026-08-13T00:00:00+00:00",
+  "first_seen_at": "2026-08-14T03:55:51.535992+00:00",
+  "fetched_at": "2026-08-14T03:55:52.866823+00:00",
+  "last_updated_at": "2026-08-19T19:00:47.317759+00:00",
+  "paths": {
+    "article": "articles/v1/d5/yc-nango/2026/08/c3/c36edcf7c335998500b4a077508ea66465c97d7d62cf82df9160ef5e7edbb0b3/article.md",
+    "record": "articles/v1/d5/yc-nango/2026/08/c3/c36edcf7c335998500b4a077508ea66465c97d7d62cf82df9160ef5e7edbb0b3/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16382,
+    "sha256": "sha256:4b35a90f99413373bb8220c7494d4ce1279bb57d728b49b878dc93fb6bc0f2da",
+    "normalized_content_hash": "sha256:d377d3537cbe01403ba9f171b96e434d5780d05a2905b8536d16f845e193a352"
+  },
+  "provenance": {
+    "source_item_id": "adbb8629-4a5e-4259-8e49-e02088f0c18a",
+    "external_id": "https://nango.dev/blog/stateless-mcp-how-it-changes-the-way-agents-call-tools/"
+  }
+}

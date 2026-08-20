@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "6347ad765592f24a51fedfa2d9da2be022a7751bf43493134b5a7315a7258591",
+  "company": {
+    "key": "yc-virtualmin",
+    "name": "Virtualmin"
+  },
+  "source": {
+    "id": "yc-virtualmin-rss-1bbb5effb21e",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://forum.virtualmin.com/t/wp-workbench-version-2-0-5-released/135811",
+    "canonical": "https://forum.virtualmin.com/t/wp-workbench-version-2-0-5-released/135811"
+  },
+  "title": "WP Workbench version 2.0.5 released",
+  "summary": "Howdy all, We’ve rolled out WP Workbench 2.0.5 plugin for all Virtualmin Pro users. Changes since 2.0.4: Add support to setup and run own status collection job Changes since 2.0.3: Fix to strengthen remote server support check Changes since 2.0.2: Add support to clean up previously configured module settings when a domain is deleted forum.virtualmin.com#135610 Changes since 2.0.1: Add ability to install WP-CLI automatically for all imported instances Fix to avoid calling a full cach...",
+  "published_at": "2025-11-16T20:24:05+00:00",
+  "first_seen_at": "2026-07-28T18:40:24.886262+00:00",
+  "fetched_at": "2026-07-28T21:58:34.938322+00:00",
+  "last_updated_at": "2026-08-20T03:22:42.081703+00:00",
+  "paths": {
+    "article": "articles/v1/f8/yc-virtualmin/2025/11/63/6347ad765592f24a51fedfa2d9da2be022a7751bf43493134b5a7315a7258591/article.md",
+    "record": "articles/v1/f8/yc-virtualmin/2025/11/63/6347ad765592f24a51fedfa2d9da2be022a7751bf43493134b5a7315a7258591/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2832,
+    "sha256": "sha256:2b5f426161c1b95aa6d53f15d89a225c92bfde456d98d0d4c3b0ae5d8244ffbb",
+    "normalized_content_hash": "sha256:1f49cd5ca253d6072e5095cb3f456e0f57e3fdaccde17fb54198c4b5fd9b0469"
+  },
+  "provenance": {
+    "source_item_id": "3d92237c-5159-4f23-8ab3-d929857edce7",
+    "external_id": "forum.virtualmin.com-topic-135811"
+  }
+}

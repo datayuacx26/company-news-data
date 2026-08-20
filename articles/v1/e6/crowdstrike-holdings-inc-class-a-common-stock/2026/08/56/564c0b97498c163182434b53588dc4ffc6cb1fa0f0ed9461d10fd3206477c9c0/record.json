@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "564c0b97498c163182434b53588dc4ffc6cb1fa0f0ed9461d10fd3206477c9c0",
+  "company": {
+    "key": "crowdstrike-holdings-inc-class-a-common-stock",
+    "name": "CrowdStrike Holdings Inc."
+  },
+  "source": {
+    "id": "crowdstrike-holdings-inc-class-a-common-stock-rss-29758b507457",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/",
+    "canonical": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/"
+  },
+  "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX",
+  "summary": "CrowdStrike researchers tested obfuscation techniques on an ESX environment, cataloged 21 distinct methods, and built regex-based detection patterns based on their research.",
+  "published_at": null,
+  "first_seen_at": "2026-08-08T02:56:21.735497+00:00",
+  "fetched_at": "2026-08-08T02:56:23.966096+00:00",
+  "last_updated_at": "2026-08-20T02:18:12.390328+00:00",
+  "paths": {
+    "article": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/08/56/564c0b97498c163182434b53588dc4ffc6cb1fa0f0ed9461d10fd3206477c9c0/article.md",
+    "record": "articles/v1/e6/crowdstrike-holdings-inc-class-a-common-stock/2026/08/56/564c0b97498c163182434b53588dc4ffc6cb1fa0f0ed9461d10fd3206477c9c0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 25018,
+    "sha256": "sha256:421ebed29f0cd3860fc4d9b5e19a805f07b0275f565ea24d2623b22fb3d0a2ef",
+    "normalized_content_hash": "sha256:c952bebe381fb62da267665a8c6460bebceaf10d18990cc9e7cc3b280eb3e13d"
+  },
+  "provenance": {
+    "source_item_id": "09b5c28e-ca49-4faa-88e7-f4a9db478615",
+    "external_id": "https://www.crowdstrike.com/?p=733829"
+  }
+}

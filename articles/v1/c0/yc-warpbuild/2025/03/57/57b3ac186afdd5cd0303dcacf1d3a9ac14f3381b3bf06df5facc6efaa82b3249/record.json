@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "57b3ac186afdd5cd0303dcacf1d3a9ac14f3381b3bf06df5facc6efaa82b3249",
+  "company": {
+    "key": "yc-warpbuild",
+    "name": "WarpBuild"
+  },
+  "source": {
+    "id": "yc-warpbuild-news-import-6421ae0a6624",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.warpbuild.com/blog/docker-builders-arm64",
+    "canonical": "https://warpbuild.com/blog/docker-builders-arm64"
+  },
+  "title": "Cached Docker Builders - ARM64 support",
+  "summary": "ARM64 support for cached docker builders for multi-arch builds, for the world's fastest docker builds.",
+  "published_at": "2025-03-19T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:23:06.881853+00:00",
+  "fetched_at": "2026-07-28T21:30:42.971376+00:00",
+  "last_updated_at": "2026-08-19T19:07:02.741042+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-warpbuild/2025/03/57/57b3ac186afdd5cd0303dcacf1d3a9ac14f3381b3bf06df5facc6efaa82b3249/article.md",
+    "record": "articles/v1/c0/yc-warpbuild/2025/03/57/57b3ac186afdd5cd0303dcacf1d3a9ac14f3381b3bf06df5facc6efaa82b3249/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 2336,
+    "sha256": "sha256:37cb256005b7a142a48f83abb6bd5ffef1918d538ac4fd7251c81602b8709717",
+    "normalized_content_hash": "sha256:c32d0cfd2d63d0db634abca59c4c0af6d54be54987fcd7541894c33554c2cc60"
+  },
+  "provenance": {
+    "source_item_id": "dc48fc95-353a-45c3-992a-dd666fb43afc",
+    "external_id": "https://warpbuild.com/blog/docker-builders-arm64"
+  }
+}

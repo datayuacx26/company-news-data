@@ -1,0 +1,363 @@
+---
+schema_version: "1.0.0"
+document_id: "181c618d0a3e5a70222cd3498f51c58bfc5561dfc05b47f28366d5583916877b"
+company_key: "yc-axolo"
+company: "Axolo"
+source_id: "yc-axolo-news-import-c5f1135929e7"
+canonical_url: "https://axolo.co/blog/p/top-5-github-pull-request-slack-integration"
+published_at: "2022-01-04T00:00:00+00:00"
+first_seen_at: "2026-07-22T21:24:48.922612+00:00"
+fetched_at: "2026-07-28T21:33:49.818370+00:00"
+content_hash: "sha256:3d4941c0a131b64a1bb070abc6fdeacb94178af3fb36af9663196ffa612f5d97"
+---
+
+# Best GitHub Slack Integration in 2026: 6 Tools Compared
+
+The best GitHub Slack integration depends on whether your team needs simple repository alerts or a complete pull request collaboration workflow. **Axolo is the best overall choice for focused PR reviews** because it creates a dedicated Slack channel for each pull request and brings in the author, reviewers, comments, checks, reminders, and recaps. The **official GitHub app for Slack is the best free option** for basic notifications, link previews, GitHub Actions workflows, and small teams. **PullNotifier is the best fit for filtered PR notifications in existing Slack channels** . Toast.Ninja is a reasonable reminder-focused option, while CodeKickBot and PR Chat cover narrower workflows that should be validated in a trial before adoption.
+
+
+## Quick answer: which GitHub Slack integration should you choose?
+
+
+Use case Best choice Why
+
+
+Basic GitHub notifications in Slack Official GitHub app Free, maintained by GitHub, and supports common repository events
+
+
+Pull request collaboration Axolo Creates one focused Slack channel per PR and invites the relevant people
+
+
+Filter noisy PR notifications PullNotifier Routes PR updates into selected existing channels and tags the right users
+
+
+PR reminders Axolo or Toast.Ninja Both focus on keeping reviews from becoming stale
+
+
+GitHub Actions visibility Axolo or official GitHub app Choose PR-specific context or repository-level workflow notifications
+
+
+GitHub Enterprise workflows Axolo or official GitHub app Both publish enterprise options; requirements differ for Cloud and Server
+
+
+**Short recommendation:** use the official app when notifications are enough. Use Axolo when the review itself needs a focused place in Slack. Use PullNotifier when you want smarter routing without creating a channel for every PR.
+
+
+if missed reviews and shared-channel noise are slowing your team down.
+
+
+### In this guide
+
+
+-
+-
+-
+-
+-
+-
+-
+
+
+## What is a GitHub Slack integration?
+
+
+A GitHub Slack integration connects GitHub events such as pull requests, reviews, issues, commits, releases, deployments, checks, and GitHub Actions workflows to Slack channels or direct messages. A basic integration reports activity. A more specialized GitHub pull request Slack integration can route updates to specific reviewers, send reminders, synchronize comments, or create a separate collaboration space for each PR.
+
+
+The practical distinction is **notification versus workflow** . If your team only needs to know that a PR opened or a workflow failed, the official app may be enough. If reviewers need context, reminders, and a durable conversation around each change, a code review tool is usually a better fit.
+
+
+## Best GitHub Slack integrations compared
+
+
+The capabilities and public prices below were checked against vendor documentation in July 2026. Treat “not publicly documented” as a prompt to confirm the feature during a trial, not as a claim that the tool cannot support it.
+
+
+Tool Best for PR notifications Channel per PR GitHub Actions notifications Reviewer reminders Standup / PR recap GitHub Enterprise Pricing
+
+
+PR collaboration Yes Yes Yes, in the PR channel Yes Yes Cloud and Server options Free up to 50 PR channels/month; paid from $8.30/seat/month
+
+
+Basic repository alerts Yes No Yes, with workflow filters Scheduled reminders No dedicated standup recap GitHub Enterprise Cloud and Server support Free app; GitHub and Slack plan costs still apply
+
+
+Filtered PR routing Yes No CI/CD context is advertised Stale PR alerts Daily digests are advertised Enterprise Server options Free up to 4 members; Teams from $29/month billed annually for up to 10
+
+
+Slack-native PR reminders Yes No Not clearly documented Yes Analytics, not a standup recap Enterprise option; confirm Server requirements See current vendor pricing
+
+
+Simple PR reminders Reminder-focused No Not publicly documented Yes Not publicly documented Not publicly documented Not publicly listed
+
+
+PR updates and comment sync in threads Yes No Not publicly documented Not publicly documented No public standup feature Not publicly documented Not publicly listed
+
+
+## 1. Axolo: best for pull request collaboration in Slack
+
+
+creates a temporary Slack channel for each GitHub pull request, then invites the PR author, requested reviewers, and assignees. That channel becomes the focused place for discussion, GitHub code comments, review status, checks, deployments, and decisions. After the PR is merged or closed, paid plans can archive the channel automatically.
+
+
+This model differs from a conventional notification feed. Instead of sending every repository event into a shared engineering channel, Axolo limits the working conversation to the people involved in that PR. Teams can also configure , , , review timeslots, and .
+
+
+### Pros
+
+
+- A .
+- Automatic invites for relevant reviewers and assignees.
+- PR discussion, code comments, checks, and deployment context in one place.
+- Reminders, review timeslots, daily PR recaps, and configurable notifications.
+- Free tier for up to 50 PR channels per month; GitHub Enterprise Server is available on the enterprise plan.
+
+
+### Tradeoffs
+
+
+- It adds more workflow structure than a simple alert bot.
+- A channel-per-PR model is most useful for teams that actively review and discuss code in Slack.
+- Unlimited usage and advanced controls require a paid plan.
+
+
+**Choose Axolo if** PRs disappear in shared-channel noise, reviews regularly stall, or several repositories and squads need consistent reviewer routing. or .
+
+
+#### Axolo GitHub Slack pull request channel
+
+
+## 2. Official GitHub app for Slack: best free option for basic notifications
+
+
+The is the sensible default for a small team that wants repository activity in one or more existing channels. It supports PRs, issues, commits, releases, deployments, reviews, comments, branches, discussions, and filtered GitHub Actions workflow notifications. It also provides rich link previews and can group PR updates in Slack threads.
+
+
+The app has become more capable than many older comparisons suggest. It supports scheduled review reminders, workflow-run filters, deployment approvals, GitHub Enterprise Cloud, and GitHub Enterprise Server 3.8 or later. GitHub also documents a Copilot cloud agent flow that can start from Slack thread context; that GitHub Copilot Slack integration is separate from the PR notification and review workflow compared here.
+
+
+### Pros
+
+
+- Free, official, and actively maintained.
+- Broad event subscriptions and useful` /github` commands.
+- Workflow filters by name, event, actor, or branch.
+- Rich previews for PRs, issues, comments, and code links.
+- Strong support for GitHub Enterprise and Slack Enterprise Grid.
+
+
+### Tradeoffs
+
+
+- The documented subscription syntax targets` owner/repo` , so channels with many repositories require repeated setup and maintenance.
+- PR activity stays in existing Slack channels and threads; the app does not create a dedicated channel for each PR.
+- A busy channel can still become noisy even with thread grouping and filters.
+- It is designed around GitHub events, not standup recaps or a full channel-per-PR review process.
+
+
+**Choose the official app if** your team has a small number of repositories, wants no additional software cost, and mainly needs reliable GitHub Slack integration notifications.
+
+
+#### Official GitHub Slack app notification
+
+
+### Can you subscribe a whole GitHub organization to Slack?
+
+
+Not with one documented “subscribe every repository” command. GitHub’s current command format is` /github subscribe owner/repo` , and selecting “All repositories” during app installation grants access rather than creating a channel subscription for every repository. For a few repositories, repeat the command in the appropriate Slack channel. For organization-wide routing across many repositories, use automation or a dedicated tool that maps repositories, teams, and reviewers at scale.
+
+
+## 3. PullNotifier: best for filtered PR notifications in existing Slack channels
+
+
+routes GitHub pull request updates to existing Slack channels and maps GitHub users to Slack users for targeted mentions. Its public product pages also describe stale PR alerts, daily digests, CI/CD context, repository-to-channel mapping, and GitHub Enterprise Server deployment options.
+
+
+The key difference from Axolo is the collaboration model. PullNotifier improves the messages and routing inside channels your team already uses. Axolo creates a separate temporary channel for each PR. Neither model is universally better: routing is lighter, while per-PR channels isolate discussion and history.
+
+
+**Choose PullNotifier if** your main problem is noisy or poorly routed PR notifications, but your team does not want a new Slack channel for every pull request. Its public pricing includes a free plan for up to four members and a Teams plan from $29 per month, billed annually, for up to ten developers.
+
+
+## 4. Toast.Ninja: best for Slack-native PR reminders
+
+
+focuses on keeping developers aware of review requests, comments, and stale pull requests through Slack. Its public site emphasizes personal notification flows and engineering analytics, making it a practical candidate when the core issue is that reviewers miss or forget work rather than a lack of shared discussion space.
+
+
+Toast publishes an enterprise offering, but its public pages do not clearly document the same PR-specific GitHub Actions and deployment workflow as Axolo or the official GitHub app. Confirm GitHub Enterprise Server support, CI/CD events, current pricing, and required permissions before standardizing on it.
+
+
+**Choose Toast.Ninja if** you want lightweight Slack-native reminders and personal PR visibility without adopting a channel-per-PR workflow.
+
+
+## 5. CodeKickBot: simple pull request reminders
+
+
+presents itself as a pull request reminder bot for GitHub and Slack. That narrow positioning can fit a team whose only requirement is a nudge when review work is waiting.
+
+
+Public documentation does not currently make its GitHub Actions coverage, enterprise support, recap features, or pricing clear enough for a confident feature-by-feature claim. Treat it as a reminder-focused candidate and verify maintenance activity, Slack and GitHub permissions, support terms, and the exact notification flow in a trial.
+
+
+**Choose CodeKickBot if** you want a simple reminder experiment and do not need a documented enterprise or end-to-end PR collaboration workflow.
+
+
+## 6. PR Chat: lightweight PR updates and comment sync
+
+
+displays pull request updates in Slack and synchronizes discussion between a Slack message thread and GitHub comments. Its public site says GitHub formatting is preserved, which can make an individual PR thread easier to follow without opening a separate Slack channel.
+
+
+PR Chat’s public pages do not currently document advanced reminders, standup recaps, GitHub Actions handling, enterprise support, or public pricing. The product site and installation page are live, but teams should confirm the current roadmap and support level before rollout.
+
+
+**Choose PR Chat if** your priority is a lightweight, thread-based PR conversation with comment sync rather than reminders, analytics, or a dedicated channel for every pull request.
+
+
+## How to set up the official GitHub Slack integration
+
+
+1.
+
+
+Install the .
+
+
+2.
+
+
+Connect your GitHub account when prompted, or run` /github signin` in Slack.
+
+
+3.
+
+
+Open the Slack channel that should receive GitHub updates. In a private channel, first run` /invite @github` .
+
+
+4.
+
+
+Subscribe the channel to a repository with` /github subscribe owner/repo` .
+
+
+5.
+
+
+Add or remove event types to match the channel’s purpose. For example:
+
+
+` /github subscribe owner/repo pulls issues commits releases deployments workflows`
+
+
+6.
+
+
+For review discussions, add` /github subscribe owner/repo reviews comments` .
+
+
+7.
+
+
+Test the integration by opening a pull request or running a workflow, then tune noisy events with` /github unsubscribe owner/repo feature` or` /github settings` .
+
+
+For GitHub Actions Slack notifications only, use:
+
+
+` /github subscribe owner/repo workflows`
+
+
+If notifications do not appear, check the GitHub App’s repository access, your connected GitHub identity, Slack app authorization, private-channel membership, and the channel’s subscription settings. GitHub’s and list the current commands and filters.
+
+
+## How to choose the right GitHub Slack integration
+
+
+Use this decision tree:
+
+
+1. **Do you only need basic repository events in Slack?**
+
+
+- Yes: start with the official GitHub app.
+- No: continue.
+
+
+2. **Do you want a dedicated Slack channel for each pull request?**
+
+
+- Yes: choose Axolo.
+- No: continue.
+
+
+3. **Do you want smarter routing and filtering inside existing channels?**
+
+
+- Yes: evaluate PullNotifier.
+- No: continue.
+
+
+4. **Is the main problem stale PRs and missed review requests?**
+
+
+- Yes: compare Toast.Ninja and other reminder-focused bots.
+- No: define whether you need comment sync, CI/CD context, enterprise controls, or a custom workflow before adding another app.
+
+
+In practical terms, choose the **official GitHub app** for one or two repositories and straightforward notifications. Choose **Axolo** for reviewer-specific collaboration, multiple repositories or squads, PR reminders, GitHub Actions context, review timeslots, and daily recaps. Choose **PullNotifier** when routing is the problem but per-PR channels are not desirable.
+
+
+if the decision tree points to a channel-per-PR workflow.
+
+
+## GitHub Slack integration use cases
+
+
+### GitHub pull request notifications in Slack
+
+
+For basic Slack notifications for GitHub pull requests, subscribe a channel with` /github subscribe owner/repo pulls` . Add` reviews comments` when the channel also needs review and discussion updates. This works well for a small repository set, especially because the official app groups much of the follow-up activity into threads. When many PRs share one channel, decide whether stronger filters are enough or whether each PR needs its own space. PullNotifier improves routing into existing channels; Axolo creates a dedicated temporary PR channel and invites the relevant reviewers.
+
+
+### GitHub Actions Slack notifications
+
+
+The official app can report GitHub Actions runs with` /github subscribe owner/repo workflows` , including filters for workflow name, event, actor, and branch. That is a strong free option for repository or operations channels. Axolo puts checks, deployment updates, and GitHub Actions context in the Slack channel for the related PR, so the people reviewing the change see CI/CD status beside the conversation. Choose repository-level visibility for broad operational awareness and PR-level visibility when a failed check should immediately inform a specific review.
+
+
+### Code review comments in Slack
+
+
+Code review integrations should preserve enough context that Slack does not become a disconnected copy of GitHub. The official app can post review and comment updates into a PR thread. PR Chat advertises two-way comment synchronization in a Slack message thread. Axolo synchronizes GitHub code comments with threads inside the dedicated PR channel, keeping discussion, checks, and participants together. Before enabling any option, inspect the requested GitHub scopes and decide whether engineers should reply from Slack or use notifications only as a prompt to return to GitHub.
+
+
+### GitHub Enterprise Slack integration
+
+
+Enterprise buyers should distinguish GitHub Enterprise Cloud from GitHub Enterprise Server. The official app supports GitHub Enterprise Cloud and documents support for GitHub Enterprise Server 3.8 or later, but Server requires a separate configuration flow. Axolo lists GitHub Enterprise Server, user provisioning, dedicated infrastructure options, custom onboarding, and security support on its enterprise plan. PullNotifier also advertises dedicated-hosting and self-hosting options for Enterprise Server. Verify SSO, data residency, audit, network, app-permission, and Slack Enterprise Grid requirements with each vendor before procurement.
+
+
+### PR reminders and reviewer nudges
+
+
+Reminders help when a reviewer saw a PR once but did not act. The official GitHub app supports scheduled reminders for review requests, which may be enough for a small team. Toast.Ninja focuses on personal PR notifications and daily reminders. Axolo combines reminders with the live PR channel, reviewer membership, status, and review timeslots, so the nudge arrives with the conversation and CI context. Set a clear review expectation before adding automation; repeated reminders without ownership or service-level expectations can simply create another stream of ignored alerts.
+
+
+### Standup recaps for open pull requests
+
+
+A useful PR recap answers three questions: what is open, what is blocked, and who needs to act. Axolo can send daily open-PR summaries for standups and supports views for an individual, team, or organization. That is different from a stream of event notifications because it gives engineering leads a point-in-time queue. If a vendor only offers analytics or alerts, confirm that its output can replace your manual standup preparation. Teams that already generate this view from GitHub Projects may not need another Slack recap.
+
+
+### Reducing Slack notification noise
+
+
+Start by sending only events that lead to action. With the official app, disable unneeded features, keep PR follow-ups in threads, and apply workflow or label filters. PullNotifier is designed to map repositories to selected channels and target the relevant users. Axolo isolates each review in a temporary channel and can automatically archive it, preventing unrelated PR updates from competing in a shared feed. The right design depends on team habits: filters keep channel count low, while per-PR channels create clearer boundaries for high-context conversations.
+
+
+## Frequently asked questions ### What is the best GitHub Slack integration? The official GitHub app
+
+
+is best for basic free repository notifications. Axolo is best for teams that want a dedicated Slack channel for every pull request, reviewer routing, checks, reminders, and recaps. PullNotifier is a strong option for filtered notifications in existing channels. ### Is the official GitHub Slack app free? Yes. The GitHub app for Slack is free to install, although your existing GitHub and Slack plan charges still apply. ### How do I send GitHub pull request notifications to Slack? Install the official GitHub app, connect your GitHub account, and run` /github subscribe owner/repo pulls` in the target Slack channel. Add` reviews comments` if the channel also needs those updates. ### Can Slack create a channel for every GitHub pull request? Yes. A specialized integration such as Axolo can create a temporary Slack channel for every GitHub pull request and invite its author, reviewers, and assignees. The official GitHub app does not create a channel per PR. ### Can I subscribe a whole GitHub organization to Slack? The official app documents repository subscriptions in` owner/repo` format rather than one command that subscribes a channel to every current and future repository. Repeat the command per repository or use a tool built for organization-wide routing. ### How do I get GitHub Actions notifications in Slack? With the official app, run` /github subscribe owner/repo workflows` . Axolo can instead place checks, deployments, and GitHub Actions updates in the Slack channel for the related pull request. ### What is the best GitHub Slack integration for code reviews? Axolo is the strongest fit for teams that conduct code review collaboration in Slack because it creates a focused channel for each PR. The official app is sufficient when the team only needs review notifications and threads. ### What is the best alternative to the official GitHub Slack app? Choose Axolo for a channel-per-PR collaboration workflow, PullNotifier for filtered notifications in existing channels, or Toast.Ninja when lightweight reminders are the primary requirement. ### Does Axolo support GitHub Enterprise? Yes. Axolo lists GitHub Enterprise Server support and enterprise onboarding and infrastructure options on its enterprise plan. ### How do I reduce GitHub notification noise in Slack? Subscribe only to actionable events, keep follow-up activity in threads, and use label or workflow filters. For more control, use PullNotifier to route updates or Axolo to isolate each review in a temporary PR channel. ## Final recommendation For basic repository updates, use the official GitHub app for Slack: it is free, capable, and sufficient for many small teams. For engineering teams that rely on timely pull request reviews, choose Axolo to give each PR a focused Slack space with the relevant reviewers, comments, checks, reminders, and recaps. If your only problem is noisy notifications, PullNotifier or another filtering-focused tool may be enough. If the problem is slow reviews, missed PRs, and scattered discussion, .

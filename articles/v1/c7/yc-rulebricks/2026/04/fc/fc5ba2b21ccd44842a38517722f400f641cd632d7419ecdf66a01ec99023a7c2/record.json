@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "fc5ba2b21ccd44842a38517722f400f641cd632d7419ecdf66a01ec99023a7c2",
+  "company": {
+    "key": "yc-rulebricks",
+    "name": "Rulebricks"
+  },
+  "source": {
+    "id": "yc-rulebricks-rss-eefe38b6d7e5",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://rulebricks.com/blog/untangling-salesforce-approvals",
+    "canonical": "https://rulebricks.com/blog/untangling-salesforce-approvals"
+  },
+  "title": "Untangling Salesforce Approvals",
+  "summary": "Learn how to separate approval policy from Salesforce Flow so changes are easier to test, audit, and maintain.",
+  "published_at": "2026-04-11T16:04:57+00:00",
+  "first_seen_at": "2026-07-20T23:20:45.346962+00:00",
+  "fetched_at": "2026-08-20T02:04:19.262566+00:00",
+  "last_updated_at": "2026-08-20T02:04:19.304136+00:00",
+  "paths": {
+    "article": "articles/v1/c7/yc-rulebricks/2026/04/fc/fc5ba2b21ccd44842a38517722f400f641cd632d7419ecdf66a01ec99023a7c2/article.md",
+    "record": "articles/v1/c7/yc-rulebricks/2026/04/fc/fc5ba2b21ccd44842a38517722f400f641cd632d7419ecdf66a01ec99023a7c2/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 658,
+    "sha256": "sha256:047077946e12c3be1dffe6d56f1ceef23f193e8bc83f00c6c78efc286d1955a7",
+    "normalized_content_hash": "sha256:bf64cb46288f07be48eeeee0f325eab602b90d53da57d13202089201faeaa245"
+  },
+  "provenance": {
+    "source_item_id": "54aebff0-ddfc-4202-8b1a-dfa0f7ecc39a",
+    "external_id": "https://rulebricks.com/blog/untangling-salesforce-approvals"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "09a482cb1503999221afd906b3d42e5bba84ff7dfd2873b77903788a0e5b082e",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/top-13-aws-ec2-misconfigurations-to-avoid-in-2022/",
+    "canonical": "https://www.cloudanix.com/blog/top-13-aws-ec2-misconfigurations-to-avoid-in-2022/"
+  },
+  "title": "Top 13 AWS EC2 Misconfigurations To Avoid in 2022",
+  "summary": "Avoid these 13 critical AWS EC2 misconfigurations covering public snapshots, AMI encryption, IAM roles, MFA, and unrestricted network access to stay compliant.",
+  "published_at": "2021-02-08T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:05:13.337196+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2021/02/09/09a482cb1503999221afd906b3d42e5bba84ff7dfd2873b77903788a0e5b082e/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2021/02/09/09a482cb1503999221afd906b3d42e5bba84ff7dfd2873b77903788a0e5b082e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8010,
+    "sha256": "sha256:4b364f82108500ff407948743c97b182c652f81a84b432ea5e9ee0d135de9f70",
+    "normalized_content_hash": "sha256:e7502839da81112c9157527748c23382527db999a33bbb4d204d247e14e0c7b7"
+  },
+  "provenance": {
+    "source_item_id": "4a83617b-6477-45be-b261-3f761366e414",
+    "external_id": "https://www.cloudanix.com/blog/top-13-aws-ec2-misconfigurations-to-avoid-in-2022/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "24dfa9f98e93bdb313321eaad1bd0114243a0af0632c94db75a5e6ec2a49f79e",
+  "company": {
+    "key": "yc-giga",
+    "name": "Giga"
+  },
+  "source": {
+    "id": "yc-giga-news-import-92619addbaaf",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://giga.ai/news/building-a-prefill-first-classifier-llm",
+    "canonical": "https://giga.ai/news/building-a-prefill-first-classifier-llm"
+  },
+  "title": "Building a Prefill-First Classifier LLM",
+  "summary": "TL;DR Most classification problems do not require an LLM. However, for problems with long, messy, or conversational inputs, a classifier LLM is the best…",
+  "published_at": "2025-12-04T00:00:00+00:00",
+  "first_seen_at": "2026-07-29T04:46:42.853576+00:00",
+  "fetched_at": "2026-07-29T04:46:44.288934+00:00",
+  "last_updated_at": "2026-08-20T03:01:53.737879+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-giga/2025/12/24/24dfa9f98e93bdb313321eaad1bd0114243a0af0632c94db75a5e6ec2a49f79e/article.md",
+    "record": "articles/v1/d9/yc-giga/2025/12/24/24dfa9f98e93bdb313321eaad1bd0114243a0af0632c94db75a5e6ec2a49f79e/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9676,
+    "sha256": "sha256:29a25bb640d86e97e2e02b76603a4b1aa755efa98d7bba0cb85913af1c485b02",
+    "normalized_content_hash": "sha256:ca2f2b161f7bc906d10e9fc226d855a94b23e931b8e23ae601984cee1d232352"
+  },
+  "provenance": {
+    "source_item_id": "34330e95-4c8f-4420-b62d-f2f2bec37a1d",
+    "external_id": "https://giga.ai/news/building-a-prefill-first-classifier-llm"
+  }
+}

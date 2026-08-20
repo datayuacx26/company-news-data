@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "231066a73fb494a3ccdbaa436b55f8970ae1ba0fbfbc45d9a86678892e7f7b99",
+  "company": {
+    "key": "yc-shuttle",
+    "name": "Shuttle"
+  },
+  "source": {
+    "id": "yc-shuttle-rss-52efc69d7cac",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.shuttle.dev/blog/2024/03/20/notification-service-rust",
+    "canonical": "https://www.shuttle.dev/blog/2024/03/20/notification-service-rust"
+  },
+  "title": "Building a Notification Service in Rust with AWS SNS",
+  "summary": "Building and deploying a notification service in Rust with Axum and AWS SNS",
+  "published_at": "2024-03-20T15:30:00+00:00",
+  "first_seen_at": "2026-07-20T23:24:10.103156+00:00",
+  "fetched_at": "2026-07-28T22:26:07.231499+00:00",
+  "last_updated_at": "2026-08-20T02:30:09.547682+00:00",
+  "paths": {
+    "article": "articles/v1/f0/yc-shuttle/2024/03/23/231066a73fb494a3ccdbaa436b55f8970ae1ba0fbfbc45d9a86678892e7f7b99/article.md",
+    "record": "articles/v1/f0/yc-shuttle/2024/03/23/231066a73fb494a3ccdbaa436b55f8970ae1ba0fbfbc45d9a86678892e7f7b99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 16939,
+    "sha256": "sha256:e96d5c7278caca4eb431affe91403f78af0c4aeb2cf70eabe70632c70a29c1ab",
+    "normalized_content_hash": "sha256:44c330d151850fcd0efafe009cc2f1db9be07e001cdb4b1d636df0d4345a6076"
+  },
+  "provenance": {
+    "source_item_id": "88b48331-ca15-4a81-ba9d-e08867f79994",
+    "external_id": "https://www.shuttle.dev/blog/2024/03/20/notification-service-rust"
+  }
+}

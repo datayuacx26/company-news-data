@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "50b37ead875871268dc7b10ac69c5ac9ef723081ac2c6b2cb3c0ef983160c07c",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/complete-list-of-aws-rds-misconfigurations/",
+    "canonical": "https://www.cloudanix.com/blog/complete-list-of-aws-rds-misconfigurations/"
+  },
+  "title": "Complete List of AWS RDS Misconfigurations",
+  "summary": "Complete 2022 list of AWS RDS misconfigurations with fixes. Cover encryption, public access, backups, deletion protection, and compliance requirements.",
+  "published_at": "2021-07-26T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T21:04:47.382363+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2021/07/50/50b37ead875871268dc7b10ac69c5ac9ef723081ac2c6b2cb3c0ef983160c07c/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2021/07/50/50b37ead875871268dc7b10ac69c5ac9ef723081ac2c6b2cb3c0ef983160c07c/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 7996,
+    "sha256": "sha256:a33162a1e3deae0d1e7283201a438248539415c5cadd49a82c21b5aa34d0df03",
+    "normalized_content_hash": "sha256:cc7e2099c5053288fbb32808c67199e61e7e32dbf4633673956d3632e617e8f0"
+  },
+  "provenance": {
+    "source_item_id": "a17b6041-94fd-4435-8bb1-26baac2fe631",
+    "external_id": "https://www.cloudanix.com/blog/complete-list-of-aws-rds-misconfigurations/"
+  }
+}

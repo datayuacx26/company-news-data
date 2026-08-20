@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-blueberry-pediatrics",
+    "name": "Blueberry Pediatrics"
+  },
+  "record_count": 60,
+  "first_published_at": "2026-07-18T00:00:00+00:00",
+  "last_published_at": "2026-08-19T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2026-07",
+      "record_count": 17
+    },
+    {
+      "partition": "2026-08",
+      "record_count": 43
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 2,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e0/yc-blueberry-pediatrics/index/pages/000001.json",
+        "record_count": 50,
+        "byte_count": 61260,
+        "sha256": "sha256:64fb937bf682d94a622a8547df921557a0bc803a74fb21b93ead3b2a0e3e88b6",
+        "newest_at": "2026-08-19T00:00:00+00:00",
+        "oldest_at": "2026-07-21T00:00:00+00:00"
+      },
+      {
+        "page": 2,
+        "path": "articles/v1/e0/yc-blueberry-pediatrics/index/pages/000002.json",
+        "record_count": 10,
+        "byte_count": 12189,
+        "sha256": "sha256:1d334c3dac3e73fe4915ee4c66e98004c205b69466174366c830e65934ea8fd7",
+        "newest_at": "2026-07-21T00:00:00+00:00",
+        "oldest_at": "2026-07-18T00:00:00+00:00"
+      }
+    ]
+  }
+}

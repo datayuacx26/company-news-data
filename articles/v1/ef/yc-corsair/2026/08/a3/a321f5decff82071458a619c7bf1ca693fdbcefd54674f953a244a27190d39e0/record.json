@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "a321f5decff82071458a619c7bf1ca693fdbcefd54674f953a244a27190d39e0",
+  "company": {
+    "key": "yc-corsair",
+    "name": "Corsair"
+  },
+  "source": {
+    "id": "yc-corsair-news-import-5583797524f1",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://corsair.dev/blog/manage-open-source-dependency-risk-ai-integrations",
+    "canonical": "https://corsair.dev/blog/manage-open-source-dependency-risk-ai-integrations"
+  },
+  "title": "How to Manage Open Source Dependency Risk When Building AI Integrations",
+  "summary": "AI integrations rely on layers of open source dependencies that can introduce security, maintenance, licensing, and compatibility risks. Learn how to vet dependencies, monitor vulnerabilities, build a scalable management strategy, and respond when a package becomes outdated or unmaintained.",
+  "published_at": "2026-08-13T15:17:00+00:00",
+  "first_seen_at": "2026-08-13T18:32:28.639378+00:00",
+  "fetched_at": "2026-08-13T18:32:29.571414+00:00",
+  "last_updated_at": "2026-08-14T08:20:39.983160+00:00",
+  "paths": {
+    "article": "articles/v1/ef/yc-corsair/2026/08/a3/a321f5decff82071458a619c7bf1ca693fdbcefd54674f953a244a27190d39e0/article.md",
+    "record": "articles/v1/ef/yc-corsair/2026/08/a3/a321f5decff82071458a619c7bf1ca693fdbcefd54674f953a244a27190d39e0/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 11008,
+    "sha256": "sha256:b889f60f44e6ec81792588c0881885cf89a46fc8119e113df460ae9621bafb45",
+    "normalized_content_hash": "sha256:784d27f22520673af91a2edd016229048f2b5589a7ce83a15a919d17842c1dd2"
+  },
+  "provenance": {
+    "source_item_id": "da499dd3-4fc7-4db0-99c5-ed9de84acbc3",
+    "external_id": "https://corsair.dev/blog/manage-open-source-dependency-risk-ai-integrations"
+  }
+}

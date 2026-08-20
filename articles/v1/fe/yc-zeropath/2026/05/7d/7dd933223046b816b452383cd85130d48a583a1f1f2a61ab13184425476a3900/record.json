@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "7dd933223046b816b452383cd85130d48a583a1f1f2a61ab13184425476a3900",
+  "company": {
+    "key": "yc-zeropath",
+    "name": "ZeroPath"
+  },
+  "source": {
+    "id": "yc-zeropath-news-import-d50bd684d529",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://zeropath.com/blog/zeropath-outperforms-mythos-in-real-world-test",
+    "canonical": "https://zeropath.com/blog/zeropath-outperforms-mythos-in-real-world-test"
+  },
+  "title": "ZeroPath Outperforms Mythos In Real World Test",
+  "summary": "When Anthropic's Mythos-powered Glasswing scanner re-analyzed curl, it surfaced one low-severity bug — months after ZeroPath helped Joshua Rogers ship fixes for nearly 170. The harness around the model matters more than the model itself.",
+  "published_at": "2026-05-11T00:00:00+00:00",
+  "first_seen_at": "2026-07-24T06:50:52.708520+00:00",
+  "fetched_at": "2026-07-28T22:08:49.880649+00:00",
+  "last_updated_at": "2026-08-19T20:18:40.766154+00:00",
+  "paths": {
+    "article": "articles/v1/fe/yc-zeropath/2026/05/7d/7dd933223046b816b452383cd85130d48a583a1f1f2a61ab13184425476a3900/article.md",
+    "record": "articles/v1/fe/yc-zeropath/2026/05/7d/7dd933223046b816b452383cd85130d48a583a1f1f2a61ab13184425476a3900/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 3916,
+    "sha256": "sha256:7c2f9ee052cea640684d18370802f0eef63d6a013e783792128b73021c447d98",
+    "normalized_content_hash": "sha256:06d9ab64a6966ef5ad7ba578ceb2db9a0535cd58b6c9b73d242a00e5e36679c6"
+  },
+  "provenance": {
+    "source_item_id": "f91c5dde-ca30-4a22-8d22-41a4c5637f92",
+    "external_id": "https://zeropath.com/blog/zeropath-outperforms-mythos-in-real-world-test"
+  }
+}

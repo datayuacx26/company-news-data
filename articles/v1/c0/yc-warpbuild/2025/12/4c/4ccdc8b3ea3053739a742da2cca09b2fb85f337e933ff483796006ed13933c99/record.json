@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "4ccdc8b3ea3053739a742da2cca09b2fb85f337e933ff483796006ed13933c99",
+  "company": {
+    "key": "yc-warpbuild",
+    "name": "WarpBuild"
+  },
+  "source": {
+    "id": "yc-warpbuild-news-import-6421ae0a6624",
+    "kind": "html"
+  },
+  "urls": {
+    "observed": "https://www.warpbuild.com/blog/debug-github-actions-ai",
+    "canonical": "https://warpbuild.com/blog/debug-github-actions-ai"
+  },
+  "title": "Debug GitHub Actions in live CI environment with AI",
+  "summary": "A comprehensive guide to debugging GitHub Actions CI failures by SSH-ing into the live runner environment. Covers Tailscale (zero-config) and Cloudflare Tunnel (SSH key) approaches with step-by-step setup instructions. Uses Cursor as the IDE and AI assistants for real-time debugging.",
+  "published_at": "2025-12-23T00:00:00+00:00",
+  "first_seen_at": "2026-07-22T19:23:06.881853+00:00",
+  "fetched_at": "2026-07-28T22:24:50.551214+00:00",
+  "last_updated_at": "2026-08-19T19:07:02.741042+00:00",
+  "paths": {
+    "article": "articles/v1/c0/yc-warpbuild/2025/12/4c/4ccdc8b3ea3053739a742da2cca09b2fb85f337e933ff483796006ed13933c99/article.md",
+    "record": "articles/v1/c0/yc-warpbuild/2025/12/4c/4ccdc8b3ea3053739a742da2cca09b2fb85f337e933ff483796006ed13933c99/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 9040,
+    "sha256": "sha256:c160848791d09521db15662c9af734ee5d6c8b7f868ebc153c3c4d7dd8d214d3",
+    "normalized_content_hash": "sha256:c3780676bfe3abccddc1d9e811883e75dec0937712f635bac5c392a8dd07fea5"
+  },
+  "provenance": {
+    "source_item_id": "eed8d3cf-202f-4d13-ba9a-9ca40e14910e",
+    "external_id": "https://warpbuild.com/blog/debug-github-actions-ai"
+  }
+}

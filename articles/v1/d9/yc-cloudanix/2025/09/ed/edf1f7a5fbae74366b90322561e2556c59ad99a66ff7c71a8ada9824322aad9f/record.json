@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "document_id": "edf1f7a5fbae74366b90322561e2556c59ad99a66ff7c71a8ada9824322aad9f",
+  "company": {
+    "key": "yc-cloudanix",
+    "name": "Cloudanix"
+  },
+  "source": {
+    "id": "yc-cloudanix-rss-5201a91d9952",
+    "kind": "rss"
+  },
+  "urls": {
+    "observed": "https://www.cloudanix.com/blog/introducing-jit-kubernetes-for-azure-aks-security/",
+    "canonical": "https://www.cloudanix.com/blog/introducing-jit-kubernetes-for-azure-aks-security/"
+  },
+  "title": "Eliminate Standing Access: Introducing JIT Kubernetes for Azure AKS Security",
+  "summary": "Eliminate standing AKS access with JIT Kubernetes for Azure. Get granular, time-bound RBAC controls at cluster and namespace level with automatic revocation.",
+  "published_at": "2025-09-30T00:00:00+00:00",
+  "first_seen_at": "2026-07-27T01:01:37.873246+00:00",
+  "fetched_at": "2026-07-28T22:01:02.064378+00:00",
+  "last_updated_at": "2026-08-20T01:23:06.273012+00:00",
+  "paths": {
+    "article": "articles/v1/d9/yc-cloudanix/2025/09/ed/edf1f7a5fbae74366b90322561e2556c59ad99a66ff7c71a8ada9824322aad9f/article.md",
+    "record": "articles/v1/d9/yc-cloudanix/2025/09/ed/edf1f7a5fbae74366b90322561e2556c59ad99a66ff7c71a8ada9824322aad9f/record.json"
+  },
+  "content": {
+    "media_type": "text/markdown; charset=utf-8",
+    "bytes": 8037,
+    "sha256": "sha256:b4de5eeba828989635e5130302288a86bac169fd573ce1800e72fe395c9e6a66",
+    "normalized_content_hash": "sha256:414e520d8a57e1a5b59625ca11d08cc1c28bbd87a5e4f2b646045b8d26ebf113"
+  },
+  "provenance": {
+    "source_item_id": "e759a78d-b9ad-4504-8eb2-52da60c4e139",
+    "external_id": "https://www.cloudanix.com/blog/introducing-jit-kubernetes-for-azure-aks-security/"
+  }
+}

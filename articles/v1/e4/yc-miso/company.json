@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "company": {
+    "key": "yc-miso",
+    "name": "Miso"
+  },
+  "record_count": 9,
+  "first_published_at": "2023-07-23T00:00:00+00:00",
+  "last_published_at": "2025-07-23T00:00:00+00:00",
+  "partitions": [
+    {
+      "partition": "2023-07",
+      "record_count": 2
+    },
+    {
+      "partition": "2023-09",
+      "record_count": 1
+    },
+    {
+      "partition": "2025-06",
+      "record_count": 2
+    },
+    {
+      "partition": "2025-07",
+      "record_count": 4
+    }
+  ],
+  "article_index": {
+    "generation": "633ed93afdc7282f77feacd375e52d1ab02f96eac46858de0d1868c7cf399a80",
+    "sort": "published_at_desc_fetched_at_desc",
+    "page_size": 50,
+    "page_count": 1,
+    "pages": [
+      {
+        "page": 1,
+        "path": "articles/v1/e4/yc-miso/index/pages/000001.json",
+        "record_count": 9,
+        "byte_count": 10368,
+        "sha256": "sha256:85fe19fbc4a8a18b1d6d452a0867d4247c36187dcbdbbce844b27bff769ab349",
+        "newest_at": "2025-07-23T00:00:00+00:00",
+        "oldest_at": "2023-07-23T00:00:00+00:00"
+      }
+    ]
+  }
+}
